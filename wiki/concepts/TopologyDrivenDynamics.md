@@ -49,8 +49,10 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TopologicalAndersonChernInsulator]]
+[[TopologyDrivenVulnerability]]
 [[VisualSemanticDecoding]]
 [[criticality]]
+[[iNEST]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

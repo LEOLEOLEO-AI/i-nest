@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Application_Scenario_Reconstruction]]
 [[AcceleratedMaterialScreening]]
+[[AdversarialResilience]]
 [[Allreduce_Latency_Probe]]
 [[BackpropagationFreeLearning]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -32,7 +33,6 @@ Auto-extracted concept from raw material compilation.
 [[EdgeIoTEnergyAwareness]]
 [[Free_Energy_Principle_Network]]
 [[FunctionalInterfaceBlock]]
-[[FunctionalInterfaceBlocks]]
 [[Heterogeneous_Integration]]
 [[IncidenceBasedRandomWalk]]
 [[Interconnect_Routing]]

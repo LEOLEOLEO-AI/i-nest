@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AINext_Initiative]]
+[[ActivityPropagationCascade]]
 [[AdaptiveArchitecture]]
 [[AdaptiveEntanglementManagement]]
 [[Adaptive_Service_Reconfiguration]]
@@ -36,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Network_Topology_Design]]
 [[Quantum_Criticality]]
+[[SelfOrganization]]
 [[Self_Organized_Criticality]]
 [[TCC]]
 [[criticality]]

@@ -54,7 +54,6 @@ Auto-extracted concept from raw material compilation.
 [[RTC_Primitive]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Renormalization_Group_Convergence]]
-[[Residual_Connection]]
 [[Self_Organized_Criticality]]
 [[Spacetime_Coupling_Coefficient]]
 [[SpatiotemporalComplexityIndex]]
@@ -68,6 +67,7 @@ Auto-extracted concept from raw material compilation.
 [[Topology_Interconnect]]
 [[chiplet interconnect]]
 [[criticality]]
+[[residual connection]]
 [[temporalComplexity]]
 
 ## Sources

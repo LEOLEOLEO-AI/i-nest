@@ -20,7 +20,6 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Allreduce_Latency_Probe]]
-[[Analog_Computation]]
 [[BeyondVonNeumannArchitecture]]
 [[CMOS_Memristor_Devices]]
 [[ChargeDomainAttention]]
@@ -31,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[EnergyResourceEfficiencyCoOptimization]]
 [[FeFET_Polarization_Switching]]
 [[FerroelectricCrossbarArray]]
+[[FerroelectricMemoryCell]]
 [[FerroelectricNvCap]]
 [[FerroelectricSynapticArray]]
 [[Ferroelectric_ComputeInMemory]]

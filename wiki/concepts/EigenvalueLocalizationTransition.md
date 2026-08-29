@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AnalogDomainCompressiveSensing]]
 [[AnomalousSpinTransport]]
 [[BigBrainCellularAxis]]
+[[Biomanufacturing_Control_Loop]]
 [[CouplingTopologyMemoryLink]]
 [[CytoarchitectonicAxis]]
 [[DataDrivenCytoarchitectonicAxis]]

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Cauchy_Aczel_Uniqueness]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[CoexistenceRegime]]
+[[CommunicationTopologyMismatch]]
 [[Complex_System_Theory]]
 [[Crystallized_Neural_Manifolds]]
 [[EdgeIoTEnergyAwareness]]
@@ -45,11 +46,13 @@ Auto-extracted concept from raw material compilation.
 [[ScaleFreeNetwork]]
 [[SimulabilityThreshold]]
 [[SuperparamagneticSwitchingRate]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[complex system]]
 [[智能涌现]]
 [[涌现]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

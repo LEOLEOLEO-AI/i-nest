@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Bidirectional_Temporal_Enhancement]]
+[[BigBrainCellularAxis]]
 [[ContinualLearningOnNeuromorphic]]
 [[CorticalWaveRouting]]
 [[DelayAwareSpikeEventDelivery]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeEncoding]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
+[[iNEST_Interconnect]]
 [[iNEST_Neuromorphic_Integration]]
 
 ## Sources

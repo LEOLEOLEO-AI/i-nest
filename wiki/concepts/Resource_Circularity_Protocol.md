@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
+[[AI-ML — 全景导航 (Map of Content)]]
 [[Accessibility_Plasticity]]
 [[Adaptive_Deep_Brain_Stimulation]]
 [[CirculateFiringNeuron]]
@@ -45,7 +46,6 @@ Auto-extracted concept from raw material compilation.
 [[Swarm_Intelligence_Maximisation]]
 [[Synaptic_Plasticity]]
 [[TCC]]
-[[TCC_Neuromorphic_Integration]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]

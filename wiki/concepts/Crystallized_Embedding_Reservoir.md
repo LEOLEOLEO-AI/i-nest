@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AIRA_NeuralArchSearch]]
 [[BigBrainCellularAxis]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
+[[Concepts-Theory — 全景导航 (Map of Content)]]
 [[ConductingPolymerDendriteMemory]]
 [[DrivenDissipativeDynamics]]
 [[Dynamic_Expert_Fusion]]

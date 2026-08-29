@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Complex_System_Theory]]
+[[Complexity_Emergence_Engineering]]
 [[CorticalTypeDiversity]]
 [[DRBE_MVP_Mainchain]]
 [[DataDrivenCellularAxis]]
@@ -51,7 +52,6 @@ Auto-extracted concept from raw material compilation.
 [[Photonic_Chiplet_Interconnect]]
 [[RTC_Primitive]]
 [[Renormalization_Group_Convergence]]
-[[Residual_Connection]]
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SDSoW]]
@@ -64,7 +64,6 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]
 [[TCC]]
-[[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[TemporalComplexity]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
@@ -73,6 +72,7 @@ Auto-extracted concept from raw material compilation.
 [[chiplet interconnect]]
 [[complex system]]
 [[iNEST]]
+[[residual connection]]
 [[神经网络]]
 
 ## Sources

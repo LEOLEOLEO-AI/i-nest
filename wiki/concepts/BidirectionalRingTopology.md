@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_ProjectManager_Model]]
 [[DTGA]]
 [[HigherOrderSimplicialDynamics]]
+[[In_Package_Neuromorphic_Integration]]
 [[Memristive_Topology]]
 [[Memristor_Network]]
 [[Memristor_Synapse]]

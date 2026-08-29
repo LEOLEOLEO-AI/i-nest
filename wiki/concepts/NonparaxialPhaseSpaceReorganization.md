@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[AI_Industrial_Ecosystem]]
 [[ActiveMatterSubstrate]]
+[[AgentReputationGraph]]
 [[AndersonLocalizationTopology]]
 [[Annealing_Based_Decoder]]
 [[AttentionMap_DifferenceResidual]]

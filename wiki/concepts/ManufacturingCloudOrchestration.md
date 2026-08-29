@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[BosonicFieldTopology]]
 [[CST计量仪]]
 [[CatalyticReactionNetwork]]
+[[Cauchy_Aczel_Uniqueness]]
 [[Complex_System_Theory]]
 [[HigherOrderPublicGoodsGame]]
 [[Intelligence_Emergence]]
@@ -46,7 +47,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[complex system]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

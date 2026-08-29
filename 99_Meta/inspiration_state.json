@@ -76,6 +76,34 @@
     "30_TCC\\33_Engineering\\AI_PPT_Plus_Five_Step_Workflow_Methodology.md": {
       "date": "2026-08-25T22:32:07.925405",
       "error": true
+    },
+    "30_TCC\\32_Technology\\2026-06-19_2026-06-19_FeNN-DMA_面向脉冲神经网络加速的RISC-V系统级芯片架构.md": {
+      "date": "2026-08-29T18:03:41.643855",
+      "error": true
+    },
+    "30_TCC\\32_Technology\\SDI化合物键_四型架构.md": {
+      "date": "2026-08-29T18:03:47.740015",
+      "card": "20260829_SDI化合物键_四型架构.md",
+      "method": "llm"
+    },
+    "30_TCC\\31_Theory\\Jingxinwei_Strategy_Second_Curve_Analysis.md": {
+      "date": "2026-08-29T18:04:04.618159",
+      "error": true
+    },
+    "30_TCC\\31_Theory\\TCC_iNEST_Systematic_Evidence_Review.md": {
+      "date": "2026-08-29T18:04:09.387314",
+      "card": "20260829_TCC_iNEST_Systematic_Evidence_Review.md",
+      "method": "llm"
+    },
+    "30_TCC\\32_Technology\\SDI_Hybrid_Torus_Architecture_VC_Circuit_Packet_Switching.md": {
+      "date": "2026-08-29T18:04:21.779367",
+      "card": "20260829_SDI_Hybrid_Torus_Architecture_VC_Circuit_Packet_Sw.md",
+      "method": "llm"
+    },
+    "30_TCC\\32_Technology\\MoE_Agentic_AI_Interconnect_Demand_Analysis.md": {
+      "date": "2026-08-29T18:05:14.091250",
+      "card": "20260829_MoE_Agentic_AI_Interconnect_Demand_Analysis.md",
+      "method": "llm"
     }
   }
 }

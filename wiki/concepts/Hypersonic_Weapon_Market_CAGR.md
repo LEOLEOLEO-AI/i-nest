@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[3D_IC_Stacking]]
 [[AnalogInMemoryComputing]]
 [[CST_SynergisticCoordination]]
+[[ComplexValuedSNN]]
 [[Complex_System_Theory]]
 [[DARPA_ProjectManager_Model]]
 [[DMP_SNN_DualMemoryPathway]]

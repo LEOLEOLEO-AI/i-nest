@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[156QubitScale]]
 [[3DGS_Scene_Graph]]
 [[ActiveMatterSubstrate]]
+[[AgentReputationGraph]]
 [[Complex_System_Theory]]
 [[Dynamic_Neuron_Activation_Prediction]]
 [[Intelligence_Emergence]]
@@ -45,7 +46,6 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

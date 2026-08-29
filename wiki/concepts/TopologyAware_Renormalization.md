@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Integration]]
 [[Intelligence_Emergence]]
+[[Less is more，大脑“低能耗”并“高效响应”的秘诀：模块化]]
 [[Memory_Wall]]
 [[Memristive_STDP]]
 [[Memristor_Network]]
@@ -55,7 +56,6 @@ Auto-extracted concept from raw material compilation.
 [[RTC_Primitive]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Renormalization_Group_Convergence]]
-[[Residual_Connection]]
 [[STDP_Plasticity]]
 [[Spacetime_Coupling_Coefficient]]
 [[SpatiotemporalComplexityIndex]]
@@ -67,6 +67,7 @@ Auto-extracted concept from raw material compilation.
 [[TemporalComplexity]]
 [[Topology_Interconnect]]
 [[chiplet interconnect]]
+[[residual connection]]
 [[temporalComplexity]]
 
 ## Sources

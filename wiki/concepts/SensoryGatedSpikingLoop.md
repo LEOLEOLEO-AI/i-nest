@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3D_Torus_6_Degree]]
 [[ActiveDendriteSNN]]
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[AnomalousSpinTransport]]
@@ -35,7 +36,6 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
-[[Residual_Connection]]
 [[SNN]]
 [[SpikeCodedAssociation]]
 [[SpikeEncoding]]
@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
+[[residual connection]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

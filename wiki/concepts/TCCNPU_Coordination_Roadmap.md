@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[AI_Driven_Architecture_Search]]
+[[AI_Enabled_Battlefield_Autonomy]]
 [[AI_Faculty_Forum_2026]]
 [[Baseline_Draft_Status]]
 [[CellEmergence]]
@@ -33,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Accelerated_SNN]]
 [[FixedOverheadFloor]]
 [[In_Package_Neuromorphic_Integration]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[NeuromorphicStatusAwareness]]
 [[Neuromorphic_Computing]]

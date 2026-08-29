@@ -21,8 +21,8 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AINext_Initiative]]
+[[ANN_SNN_WeightSpaceGap]]
 [[Avoided_Criticality]]
-[[BurstSuppressionMechanism]]
 [[BurstSuppression]]
 [[Contested_Prior_Resolution]]
 [[Criticality]]
@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[GPU_Cluster_SNN_Architecture]]
 [[GradientBasedLearningLocalization]]
 [[In_Network_Neuromorphic_Acceleration]]
+[[Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Self_Organized_Criticality]]

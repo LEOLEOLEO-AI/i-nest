@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[20W_Brain_Inspired_Planning]]
+[[AI-ML — 全景导航 (Map of Content)]]
 [[AIRA_NeuralArchSearch]]
 [[AI_Faculty_Forum_2026]]
 [[Accessibility_Plasticity]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[ExplainableEnergyAI]]
 [[FlexibilityThreshold]]
+[[Heterogeneous_Integration]]
 [[InNetworkNeuromorphicComms]]
 [[Interconnect_Routing]]
 [[Memristive_Interconnect]]

@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
+[[iNEST_Neuromorphic_Integration]]
 [[spiking neural network]]
 [[temporal coding]]
 

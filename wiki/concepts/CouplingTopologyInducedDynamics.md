@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Criticality]]
+[[Criticality_Entanglement]]
 [[DataDrivenMaterialDesign]]
 [[DisorderInducedEntanglementTransition]]
 [[Generative_Graph_Models]]

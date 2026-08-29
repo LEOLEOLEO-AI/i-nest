@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[11_SDI节点接口规范与化合键定义_dup]]
 [[AI_Faculty_Forum_2026]]
 [[Accessibility_Plasticity]]
+[[AdaptiveAsymmetricSurrogateGradient]]
 [[AdaptiveFrequencyResonateFire]]
 [[Adaptive_EW_Neuromorphic_Controller]]
 [[AstrocyteInspiredRepair]]

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[CouplingMatrixRecovery]]
 [[DARPA_ProjectManager_Model]]
 [[Emerging_CMOS_Memristor]]
+[[Fixed_Reservoir_Unitary]]
 [[InNetworkSignalRecovery]]
 [[IntegrationProspectsForVLSI]]
 [[Memristor_Reservoir_Branch_Prediction]]

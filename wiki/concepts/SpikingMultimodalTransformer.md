@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Autonomous_Spiking_Dynamics]]
 [[Bidirectional_Temporal_Enhancement]]
+[[BioPlausiblePredictiveCoding]]
 [[Delay_Aware_Autograd_Spiking_Framework]]
 [[EventBasedBioSignalFrontEnd]]
 [[EventDataNonUniformity]]

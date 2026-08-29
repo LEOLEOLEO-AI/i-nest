@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[PhysicalReservoir]]
 [[Physical_Reservoir_Substrate]]
+[[RandomFeatureReservoir]]
 [[RecursiveSelfReferentialArchitecture]]
 [[ReproducibleReservoirComputing]]
 [[ReservoirDynamics]]

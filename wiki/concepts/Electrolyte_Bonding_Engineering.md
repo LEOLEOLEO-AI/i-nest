@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Memory_Computing]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
+[[Signal_Folding]]
 [[iNEST]]
 [[memristor device]]
 

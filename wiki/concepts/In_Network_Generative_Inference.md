@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AIRA_NeuralArchSearch]]
 [[AI_Faculty_Forum_2026]]
+[[Chiplet_Based_Neuromorphic_Integration]]
 [[CirculateFiringNeuron]]
 [[ConductingPolymerDendriteMemory]]
 [[Distributed_Spike_Communication]]
@@ -42,7 +43,6 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[SparseTemporalEncoding]]
-[[SpikingNeuralNetworkTopologyMapping]]
 [[SpikingNeuralNetworkTopology]]
 [[Spiking_Neural_Network]]
 [[WirelessSplitComputing]]

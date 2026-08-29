@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[DynamicalSelfDualCriticality]]
 [[Evolving_System_Adaptation]]
+[[Fixed_Reservoir_Unitary]]
 [[Free_Energy_Synchronization]]
 [[MemristiveReservoirBranchPrediction]]
 [[Memristive_Topology]]

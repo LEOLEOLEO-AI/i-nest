@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AINext_Initiative]]
 [[ActivityAvalanche]]
+[[AlloyDisorderEngineering]]
 [[AnisotropicGaussianPrimitives]]
 [[BurstGatedRouting]]
 [[Criticality]]
@@ -38,7 +39,6 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
-[[SNN_NeuroprostheticPipeline]]
 [[Self_Organized_Criticality]]
 [[SpikeBasedGradientDescent]]
 [[Spike_Encoding_of_fMRI]]

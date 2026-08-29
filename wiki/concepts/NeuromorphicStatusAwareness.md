@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3D_Torus_6_Degree]]
 [[AI_Faculty_Forum_2026]]
 [[Complex_System_Theory]]
 [[Event_Driven_Architecture]]
@@ -31,7 +32,6 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[ST_SNN]]
 [[Spiking_Neural_Network]]
-[[TCCNPU_Coordination_Roadmap]]
 [[TCC]]
 [[complex system]]
 [[iNEST]]

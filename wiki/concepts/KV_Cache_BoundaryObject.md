@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
+[[12_三原理协同_FEP_最小作用量_STDP]]
 [[3DHI_Chiplet_Integration]]
 [[3DHI_Stacking]]
 [[AI_Faculty_Forum_2026]]
@@ -38,15 +39,16 @@ Auto-extracted concept from raw material compilation.
 [[HybridResistiveMemoryCIM]]
 [[In_Package_Neuromorphic_Integration]]
 [[Intelligence_Emergence]]
+[[Network_on_Chip]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[NoC_Interconnect]]
 [[SiC_GaN_Power_Integration]]
 [[State_Transition_Formalism]]
 [[TCC]]
 [[advanced packaging]]
 [[iNEST]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

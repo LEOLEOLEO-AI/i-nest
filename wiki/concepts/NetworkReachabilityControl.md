@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Loihi2_OnChip_Learning]]
 [[MachineLearningNanomaterialDiscovery]]
+[[ModularityDepthInteraction]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]

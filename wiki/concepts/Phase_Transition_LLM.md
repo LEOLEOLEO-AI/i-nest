@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AINext_Initiative]]
 [[ActivityAvalanche]]
+[[Activity_Energy_Tradeoff]]
 [[Avoided_Criticality]]
 [[BioPlausibleDisturbanceObserver]]
 [[Catastrophic_Forgetting_Mitigation]]

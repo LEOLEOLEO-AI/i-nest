@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[AI_Application_Scenario_Reconstruction]]
 [[ActivityPropagationCascade]]
+[[AdaptiveArchitecture]]
 [[AgenticServiceOrchestration]]
 [[Ant_Swarm_Functional_Control]]
 [[Cognitive_Relapse_Decoupling]]

@@ -22,3 +22,20 @@ refs: 6
 
 
 _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
+
+## Merged From
+- residual connection (merged 2026-08-29)
+
+
+## Related Work
+
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
+[[03 涌现：整体的能力不能还原回个体？ - 得到APP]]
+[[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
+[[Attention_Residuals]]
+[[Deep_Network_Architecture_Invariant]]
+[[Neuromorphic_Computing]]
+[[Synaptic_Plasticity]]
+[[TCC]]
+[[iNEST]]
+[[神经形态计算]]

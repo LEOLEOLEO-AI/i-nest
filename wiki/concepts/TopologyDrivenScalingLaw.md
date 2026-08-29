@@ -31,7 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[BackflowTransformation]]
 [[BeyondPTSymmetry]]
 [[BigBrainCellularAxis]]
-[[BrownianCastleInterfaces]]
+[[BrownianCastleInterface]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[iNEST]]

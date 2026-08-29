@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Epithelial_Barrier_Integrity]]
 [[EvolutionaryReservoirLearning]]
 [[GraphEmbeddedReservoir]]
+[[HierarchicalModularReservoirs]]
 [[InNetworkAgentRewiring]]
 [[In_Context_Learning]]
 [[Intelligence_Emergence]]

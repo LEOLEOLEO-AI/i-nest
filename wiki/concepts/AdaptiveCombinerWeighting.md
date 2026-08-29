@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Accessibility_Plasticity]]
 [[AdaptiveArchitecture]]
 [[Allreduce_Latency_Probe]]
+[[ArchitecturalCondition]]
 [[Architectural_Conditioning]]
 [[BayesianConnectivityEstimation]]
 [[CriticalityDrivenStateTransition]]

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[ANN动力学]]
 [[Beyond_Moore_Packaging_Strategy]]
+[[C_elegansConnectomeAnalogy]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
 [[Contested_Prior_Resolution]]

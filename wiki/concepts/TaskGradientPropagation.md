@@ -27,14 +27,13 @@ Auto-extracted concept from raw material compilation.
 [[AdvancedPackagingInterconnect]]
 [[AdversarialMedicalRobustness]]
 [[Allreduce_Latency_Probe]]
+[[AnalogDomainCompression]]
 [[AnalogInMemoryComputing]]
-[[Analog_Computation]]
 [[Architectural_Conditioning]]
 [[Capability_Forging_Pipeline]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
 [[CoaxialLike_TGV]]
-[[CriticalityAwareTopology]]
 [[Criticality]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
@@ -47,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[WeightedPathInfluence]]
+[[analog computation]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

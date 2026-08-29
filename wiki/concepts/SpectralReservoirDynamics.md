@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AINext_Initiative]]
+[[Categorical_Closure_Criterion]]
 [[Combinatorial_Optimization_Readout]]
 [[CriticalityInducedTopology]]
 [[Criticality]]

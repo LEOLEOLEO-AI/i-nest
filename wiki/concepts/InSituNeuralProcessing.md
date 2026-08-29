@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AIRA_NeuralArchSearch]]
+[[Chiplet_Based_Neuromorphic_Integration]]
 [[CommunicationHeterogeneity]]
 [[ConductingPolymerDendriteMemory]]
 [[Distributed_Spike_Communication]]
@@ -41,7 +42,6 @@ Auto-extracted concept from raw material compilation.
 [[PhotoIontronicSynapse]]
 [[ReliabilityOverheadTradeoff]]
 [[SpikePacketCompression]]
-[[SpikingNeuralNetworkTopologyMapping]]
 [[SpikingNeuralNetworkTopology]]
 [[Spiking_Neural_Network]]
 [[WirelessSplitComputing]]

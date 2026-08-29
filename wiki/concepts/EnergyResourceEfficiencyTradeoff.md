@@ -22,7 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[3D_Integrated_Chiplet_Stacking]]
 [[ActiveDendriteSNN]]
-[[Analog_Computation]]
+[[ActiveInferenceEdgeLoop]]
 [[BigBrainCellularAxis]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
@@ -38,8 +38,10 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[In_Package_Neuromorphic_Integration]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[SNN]]
 [[Spiking_Neural_Network]]
+[[analog computation]]
 [[iNEST]]
 
 ## Sources

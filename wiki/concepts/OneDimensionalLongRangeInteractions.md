@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[2_5D_PIM_Chiplet_Integration]]
 [[3DHI_Chiplet_Integration]]
+[[Additive_Manufacturing_Supply_Chain]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CrossDomain_Integration]]
 [[CrossbarArrayPrecision]]
@@ -30,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Ferroelectric_ComputeInMemory]]
 [[Ferroelectric_Devices]]
 [[GeTeBasedCBRAM]]
+[[Heterogeneous_Integration]]
 [[HybridResistiveMemoryCIM]]
 [[IMPLYMemristiveISA]]
 [[In_Memory_Computing]]

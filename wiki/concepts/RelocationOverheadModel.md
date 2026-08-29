@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
 [[TCC]]
+[[TopologyAwareMapping]]
 [[Topology_Aware_Resource_Allocation]]
 [[chiplet interconnect]]
 [[complex system]]

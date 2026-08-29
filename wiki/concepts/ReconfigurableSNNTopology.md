@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[DTGA]]
+[[DynamicalSelfDualCriticality]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[NeuromorphicRadarFrontend]]

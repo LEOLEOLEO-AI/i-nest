@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AcousticAnomalyDetection]]
 [[ActivityAvalanche]]
 [[AdaptiveAsymmetricSurrogateGradient]]
+[[AdversarialSpikePerturbation]]
 [[AmoebaInspiredLocomotion]]
 [[Avoided_Criticality]]
 [[BurstGatedRouting]]

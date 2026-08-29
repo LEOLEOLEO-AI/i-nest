@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CollectiveStateResilience]]
 [[ConsciousnessEngineeringLoop]]
 [[Course_Based_FPGA_Projects]]
+[[CrashHotspotForecasting]]
 [[DARPA_3DHI_Roadmap]]
 [[DARPA_Manufacturing_Strategy]]
 [[DARPA_ProjectManager_Model]]

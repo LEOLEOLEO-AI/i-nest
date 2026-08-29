@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AINext_Initiative]]
+[[Biologically_Plausible_Learning_Rules]]
 [[Cognitive_Relapse_Decoupling]]
 [[Critical_Region_Extension]]
 [[Criticality]]

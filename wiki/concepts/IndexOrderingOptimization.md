@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[ChipletRoutingFabric]]
 [[Chiplet_Heterogeneous_Integration]]
+[[GateModelQuantumOptimization]]
 [[Heterogeneous_Integration]]
 [[InkjetPrintedElectrochemicalSensors]]
 [[Intelligence_Emergence]]

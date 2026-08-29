@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[AI_Faculty_Forum_2026]]
+[[AlternativeBridgingModels]]
 [[AnomalousSpinTransport]]
 [[Attention_Residuals]]
 [[BoundaryObject_Abstraction]]
@@ -46,7 +47,9 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[Stochastic_LIF_Inference]]
+[[branch prediction in pipelined processors]]
 [[branch prediction]]
+[[emerging CMOS memristor devices]]
 [[emerging CMOS memristor]]
 [[memristor device]]
 [[pipelined processor]]

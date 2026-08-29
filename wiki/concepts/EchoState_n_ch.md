@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AdjustableDynamics]]
 [[AdversarialResilience]]
 [[AlternativeBridgingModels]]
+[[Analog_Encoding_Readout]]
 [[AnisotropicGaussianPrimitives]]
 [[AnomalousSpinTransport]]
 [[AstrocyteInspiredRepair]]
@@ -42,6 +43,8 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
+[[SNN]]
+[[Spiking_Neural_Network]]
 [[iNEST]]
 
 ## Sources

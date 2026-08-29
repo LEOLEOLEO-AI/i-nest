@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveEntanglementManagement]]
 [[Adaptive_Service_Reconfiguration]]
 [[Additive_Manufacturing_Supply_Chain]]
+[[AgenticServiceManifesto]]
 [[Allreduce_Latency_Probe]]
 [[AnalogDomainCompression]]
 [[Anomaly_Induced_Quantum_Criticality]]

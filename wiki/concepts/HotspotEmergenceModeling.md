@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[AcademicDevelopmentCoCreation]]
 [[AdaptiveDeltaPulseFrequencyEncoding]]
+[[AlternativeBridgingModels]]
 [[AnisotropicGaussianPrimitives]]
 [[Architectural_Conditioning]]
 [[Bio_plausible_Neuromorphic_Disturbance_Observer]]

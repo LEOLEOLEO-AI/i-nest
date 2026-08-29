@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Continual_Learning_Topology]]
 [[Coupling_Strength_Encoding]]
 [[DendriticReservoirState]]
+[[DeviationScalingIndex]]
 [[Emergent_Intelligence_Roadmap]]
 [[Emergent_Intelligence_Threshold]]
 [[EnsembleSparsity]]

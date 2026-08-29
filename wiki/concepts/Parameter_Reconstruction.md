@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AINext_Initiative]]
+[[ActivityAvalanche]]
 [[Avoided_Criticality]]
 [[BulletTrainScheduling]]
 [[CSI_Temporal_Encoding]]
@@ -33,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenMotionDeblurring]]
 [[FormalToolchain]]
 [[Globally_Optimal_SNN_Training]]
+[[ImageToEventConversion]]
 [[Intelligence_Emergence]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicHardware]]

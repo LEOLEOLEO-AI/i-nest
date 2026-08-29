@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[StochasticBinaryDynamics]]
 [[SurrogateGradientAsymmetry]]
 [[Technical_Program_Officer_Autonomy]]
+[[TemporalCreditAssignment]]
 [[TemporalErrorFeedback]]
 [[iNEST]]
 [[spiking neural network]]

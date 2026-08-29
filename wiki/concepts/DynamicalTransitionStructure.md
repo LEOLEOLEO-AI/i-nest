@@ -28,14 +28,15 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[ANN动力学]]
 [[ActiveMatterSubstrate]]
-[[Analog_Computation]]
 [[Annealing_Based_Decoder]]
 [[AsymmetricStochasticInteractions]]
 [[AttentionLikeHebbianMechanism]]
+[[AttentionMap_DifferenceResidual]]
 [[Complex_System_Theory]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
+[[analog computation]]
 [[神经网络]]
 
 ## Sources

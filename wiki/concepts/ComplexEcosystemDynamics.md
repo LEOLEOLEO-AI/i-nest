@@ -22,8 +22,8 @@ Auto-extracted concept from raw material compilation.
 [[AI-ML — 全景导航 (Map of Content)]]
 [[AI_Faculty_Forum_2026]]
 [[Allreduce_Latency_Probe]]
-[[Analog_Computation]]
 [[Analog_Weight_Storage]]
+[[AnomalousSpinTransport]]
 [[Architectural_Conditioning]]
 [[BigBrainCellularAxis]]
 [[Cognitive_Relapse_Architecture]]
@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
+[[analog computation]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

@@ -39,6 +39,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[ComplexValuedSNN]]
 [[Complex_System_Theory]]
 [[DendriticTaskPartitioning]]
+[[Distributed_Spike_Communication]]
 [[ExcitatoryInhibitoryOscillatoryNetwork]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
@@ -50,5 +51,4 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[getnote_2026-07-02_项目简介]]
 [[iNEST]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经形态计算]]

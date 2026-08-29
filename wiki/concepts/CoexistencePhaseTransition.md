@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Biomanufacturing_Control_Loop]]
 [[BranchingRatio]]
 [[BurstTemporalPlasticity]]
+[[Categorical_Reservoir_Model]]
 [[ChannelEventSparsity]]
 [[Coupling_Strength_Encoding]]
 [[DendriticReservoirState]]

@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[20W_Brain_Inspired_Planning]]
 [[AI_Faculty_Forum_2026]]
 [[Accessibility_Plasticity]]
+[[AdaptiveTimeStepTraining]]
 [[BigBrainCellularAxis]]
 [[BrainBodyResonance]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]

@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[TemporalAdversarialPerturbation]]
 [[TemporalContrastEncoding]]
 [[iNEST]]
+[[iNEST_Neuromorphic_Integration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

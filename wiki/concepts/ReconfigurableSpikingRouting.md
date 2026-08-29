@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[CSI_Temporal_Encoding]]
 [[CirculateFiringNeuron]]
 [[Communication_Trace_Diagnostics]]
+[[ComplexValuedSNN]]
 [[Emergent_Intelligence_Threshold]]
 [[EpidemicThreshold]]
 [[Intelligence_Emergence]]

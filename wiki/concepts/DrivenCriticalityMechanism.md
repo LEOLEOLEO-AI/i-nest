@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Decoupling]]
 [[CriticalityInNetworkComputing]]
 [[Criticality]]
+[[InNetworkComputing]]
 [[Interconnect_Routing]]
 [[Quantum_Criticality]]
 [[Self_Organized_Criticality]]

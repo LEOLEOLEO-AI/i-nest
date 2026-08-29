@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[2026-06-15_大脑的量子纠缠与信息动力学]]
+[[AINext_Initiative]]
 [[AdaptiveFlexibilityThreshold]]
 [[Avoided_Criticality]]
 [[Beyond_Moore_Packaging_Strategy]]

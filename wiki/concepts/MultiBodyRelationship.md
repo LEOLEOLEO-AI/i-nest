@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[ComputeRelocationOverhead]]
 [[Deep_Thermalisation]]
 [[EndToEndLinkSimulation]]
+[[Heterogeneous_Integration]]
 [[TCC]]
 [[complex system]]
 

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AINext_Initiative]]
+[[ActivityAvalanche]]
 [[AvalancheBranchingRatio]]
 [[BranchingRatio]]
 [[Criticality]]
@@ -34,7 +35,6 @@ Auto-extracted concept from raw material compilation.
 [[SelfMotivatedGrowth]]
 [[Self_Organized_Criticality]]
 [[TCC]]
-[[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[TopologyDrivenDynamics]]
 
 ## Sources

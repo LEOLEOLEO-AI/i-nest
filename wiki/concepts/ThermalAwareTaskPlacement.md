@@ -26,8 +26,8 @@ Auto-extracted concept from raw material compilation.
 [[AdversarialMedicalRobustness]]
 [[Allreduce_Latency_Probe]]
 [[AnalogDomainCompression]]
-[[Analog_Computation]]
 [[Architectural_Conditioning]]
+[[AtomicVaporNonlinearity]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[BondMovingDecimation]]
 [[CST_SynergisticCoordination]]
@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
+[[analog computation]]
 [[complex system]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

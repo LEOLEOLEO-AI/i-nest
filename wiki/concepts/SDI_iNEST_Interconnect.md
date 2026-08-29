@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[ModelOptimization]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[PhaseLockedTopologyMapping]]
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SDSoW]]
@@ -42,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
+[[iNEST_Interconnect]]
 [[iNEST_Neuromorphic_Integration]]
 
 ## Sources

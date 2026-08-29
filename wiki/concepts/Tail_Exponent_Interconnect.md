@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Bidirectional_Temporal_Enhancement]]
+[[DiscreteSTDP]]
 [[FunctionalInterfaceBlock]]
 [[Memristive_STDP]]
 [[Network_Topology_Design]]

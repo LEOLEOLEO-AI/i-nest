@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[AsymmetricStochasticInteractions]]
+[[AttentionMap_DifferenceResidual]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[CST计量仪]]
 [[CausalEmergenceCondition]]

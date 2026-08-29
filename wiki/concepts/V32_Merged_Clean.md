@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Connectome]]
 [[Connectome_Reservoir]]
 [[Contested_Prior_Resolution]]
+[[Crystallized_Neural_Manifolds]]
 [[DendriticReservoirState]]
 [[DifferentiableLifting]]
 [[Edge_of_Chaos_Coastal_Dynamics]]

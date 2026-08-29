@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Categorical_Closure_Criterion]]
 [[Complex_System_Theory]]
 [[Criticality_Reservoir]]
+[[DynamicalSelfDualCriticality]]
 [[Long_Range_Interactions]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]

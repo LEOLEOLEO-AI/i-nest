@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Comparative_Formulation_Analysis]]
 [[Course_Based_FPGA_Projects]]
 [[Critical_Exponent_Scaling]]
+[[DARPA_3DHI_Roadmap]]
 [[DendriticReservoirState]]
 [[DualImpactEvaluation]]
 [[DynamicNeuralManifolds]]
@@ -46,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[SelfOrganizedOscillatoryLearning]]
 [[iNEST]]
+[[reservoir computing architecture]]
 [[reservoir computing]]
 
 ## Sources

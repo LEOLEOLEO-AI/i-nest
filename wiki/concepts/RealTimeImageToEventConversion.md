@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Avoided_Criticality]]
+[[BioPlausiblePredictiveCoding]]
 [[BulletTrainScheduling]]
 [[Chiplet_Heterogeneous_Integration]]
 [[ContinuousTimeSNN]]

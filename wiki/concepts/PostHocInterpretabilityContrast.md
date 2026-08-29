@@ -27,13 +27,15 @@ Auto-extracted concept from raw material compilation.
 [[Adjoint_Gradient_Propagation]]
 [[AdversarialMedicalRobustness]]
 [[AnalogDomainCompressiveSensing]]
-[[Analog_Computation]]
 [[ApplicationScenarioReconstruction]]
 [[Arm_Locomotor_Synergy]]
 [[AvalanchePropagation]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[BiasPropagationInNetworks]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Stacking]]
 [[TCC]]
+[[analog computation]]
 [[iNEST]]
 
 ## Sources

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[GenerativeTopologyModels]]
 [[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]
+[[InNetworkNeuromorphicEmergence]]
 [[InNetwork_CST_Offload]]
 [[In_Network_Neuromorphic]]
 [[Intelligence_Emergence]]
@@ -50,7 +51,6 @@ Auto-extracted concept from raw material compilation.
 [[Order_Flexibility_Duality]]
 [[RenormalizationGroup_ScalingLaws]]
 [[Renormalization_Group_Convergence]]
-[[Residual_Connection]]
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SNN]]
@@ -71,6 +71,7 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
+[[residual connection]]
 [[temporalComplexity]]
 
 ## Sources

@@ -35,6 +35,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[12_三原理协同_FEP_最小作用量_STDP]]
 [[3DGS_Scene_Graph]]
 [[3DIC_EDA之一_基于Chiplet集成的计算架构]]
+[[3nm_Autonomous_Driving_Chip]]
 [[AIRA_NeuralArchSearch]]
 [[AlgorithmicPhaseTransition]]
 [[CST_Intelligence_Emergence]]
@@ -48,4 +49,3 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[TCC]]
 [[iNEST]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]

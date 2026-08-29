@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AcceleratedMaterialScreening]]
 [[AlternativeBridgingModels]]
 [[AnomalousSpinTransport]]
+[[Biomanufacturing_Control_Loop]]
 [[Compressed_Glass_Network]]
 [[CrashHotspotForecasting]]
 [[Crystallized_Neural_Manifolds]]

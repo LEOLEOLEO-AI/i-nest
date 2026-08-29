@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AINext_Initiative]]
+[[ActivityAvalanche]]
 [[AgenticServiceOrchestration]]
 [[Allreduce_Latency_Probe]]
 [[Anisotropic_Correlation_Length]]

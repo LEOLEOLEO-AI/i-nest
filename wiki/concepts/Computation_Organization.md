@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AdjustableDynamics]]
 [[AdversarialResilience]]
 [[AgenticServiceManifesto]]
+[[AlternativeBridgingModels]]
 [[AnalogDomainCompression]]
 [[AnalogDomainCompressiveSensing]]
 [[ApplicationScenarioReconstruction]]

@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Complex_System_Theory]]
+[[Complexity_Emergence_Engineering]]
 [[Contested_Priors_Mechanism]]
 [[DataDrivenCellularAxis]]
 [[DataProvenanceIntegrity]]
@@ -49,7 +50,6 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[RenormalizationGroup_ScalingLaws]]
 [[Renormalization_Group_Convergence]]
-[[Residual_Connection]]
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SNN]]
@@ -68,6 +68,7 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
+[[residual connection]]
 [[temporalComplexity]]
 [[三原理协同_FEP_STDP_最小作用量]]
 

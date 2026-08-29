@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[11_SDI节点接口规范与化合键定义_dup]]
 [[AI_Faculty_Forum_2026]]
+[[AdiabaticModeEvolutionCoupler]]
 [[AdiabaticModeEvolution]]
 [[BigBrainCellularAxis]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -44,7 +45,6 @@ Auto-extracted concept from raw material compilation.
 [[QuantumInspiredHarmonySearch]]
 [[SDI_Bond]]
 [[SDI_STDP]]
-[[SDI_STDP_Rule]]
 [[SDI_TCC_Chiplet]]
 [[SDI节点接口规范与化合键定义]]
 [[SDSoW]]

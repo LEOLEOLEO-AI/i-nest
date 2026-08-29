@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[DARPA_ProjectManager_Model]]
 [[Dynamic_Expert_Fusion]]
+[[Fixed_Reservoir_Unitary]]
 [[GeneralizedReadoutMap]]
 [[HybridResistiveMemoryCIM]]
 [[In_Package_Neuromorphic_Integration]]

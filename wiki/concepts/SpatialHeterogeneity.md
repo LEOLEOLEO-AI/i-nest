@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AnalogDomainCompression]]
 [[AnalogDomainCompressiveSensing]]
 [[Bosonic_SPT_Phases]]
+[[Branch_Prediction_Reservoir]]
 [[CSI_Temporal_Dynamics]]
 [[CrashHotspotForecasting]]
 [[Crystallized_Neural_Manifolds]]

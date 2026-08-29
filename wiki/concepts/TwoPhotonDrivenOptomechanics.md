@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[AnomalousSpinTransport]]
 [[Architectural_Conditioning]]
+[[AtomicVaporNonlinearity]]
 [[AutonomousAdaptation]]
 [[BigBrainCellularAxis]]
 [[CST_Intelligence_Emergence]]

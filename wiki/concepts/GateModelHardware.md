@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3DHI_Interconnect]]
+[[AI_Faculty_Forum_2026]]
 [[BondMovingDecimation]]
 [[ChipletRoutingFabric]]
 [[Chiplet_Heterogeneous_Integration]]

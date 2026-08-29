@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect]]
 [[Γst_Revision]]
 [[忆阻器]]
+[[智能涌现]]
 [[神经形态计算]]
 [[神经网络]]
 [[类脑芯片]]

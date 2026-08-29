@@ -23,20 +23,20 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_Assisted_Energy_Optimization]]
+[[ActivityAvalanche]]
 [[AdversarialMedicalRobustness]]
 [[AnalogInMemoryComputing]]
-[[Analog_Computation]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[Bioavailability_Enhancement]]
 [[CST_Coordinated_Spatiotemporal_Complexity]]
 [[Capability_Forging_Pipeline]]
 [[Complex_System_Theory]]
-[[CriticalityAwareTopology]]
 [[Criticality]]
 [[Network_Topology_Design]]
 [[Self_Organized_Criticality]]
 [[TCC]]
 [[WeightedPathInfluence]]
+[[analog computation]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

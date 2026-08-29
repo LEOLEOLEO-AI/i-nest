@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AstrocyteInspiredRepair]]
 [[ComplexValuedSNN]]
 [[Complex_System_Theory]]
+[[DevelopmentalNeuromorphicAdaptation]]
 [[Distributed_Spike_Communication]]
 [[LIF_Neuron_Model]]
 [[SDI_Bond]]

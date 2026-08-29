@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[ActivityPropagationCascade]]
 [[AdaptiveArchitecture]]
+[[AdaptiveCombinerWeighting]]
 [[Additive_Manufacturing_Supply_Chain]]
 [[AgenticServiceOrchestration]]
 [[Allreduce_Latency_Probe]]

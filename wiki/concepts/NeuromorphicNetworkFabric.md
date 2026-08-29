@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[BiologicalNoiseMimicry]]
 [[CSI_Temporal_Encoding]]
 [[CoPackagedOptics]]
+[[CollectiveSpikingDynamics]]
 [[CompartmentalNeuronModel]]
 [[ComplexValuedSNN]]
 [[CoreComputationSubspace]]

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AI人工智能 卷积神经网络（CNN）_w3cschool]]
 [[ANN动力学]]
 [[AdditiveTopology_Embedding]]
+[[Advanced_Computing_Project]]
 [[Asymmetric_Interaction_Graph]]
 [[BCM滑动阈值]]
 [[Complex_System_Theory]]
@@ -43,7 +44,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[iNEST]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

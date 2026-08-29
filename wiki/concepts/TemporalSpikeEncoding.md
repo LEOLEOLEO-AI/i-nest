@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[CirculateFiringNeuron]]
+[[ComplexValuedSNN]]
 [[DelayCodedWorkingMemory]]
 [[Emergent_Intelligence_Threshold]]
 [[HeterogeneousSynapticDelays]]

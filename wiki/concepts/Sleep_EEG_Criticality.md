@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[ScaleFreeNetwork]]
 [[SelfOrganizedRobustness]]
 [[Self_Organized_Criticality]]
+[[SpikeTimingFidelity]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[Syncytial_Mesh]]

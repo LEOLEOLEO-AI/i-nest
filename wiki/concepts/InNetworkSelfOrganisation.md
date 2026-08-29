@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Active_Inference_Topology]]
 [[AdsorptionBiosorptionHybrid]]
 [[AllOpticalHebbianLearning]]
+[[ArmLocomotorCoordination]]
 [[AsymmetricCoupling]]
 [[Biodefense_Threat_Detection_Network]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -43,7 +44,6 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[soc]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

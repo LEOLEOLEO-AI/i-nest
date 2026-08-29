@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[ANN动力学]]
 [[Allreduce_Latency_Probe]]
+[[Analog_InMemory_Processing]]
 [[Architectural_Conditioning]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[CST计量仪]]
@@ -50,7 +51,6 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

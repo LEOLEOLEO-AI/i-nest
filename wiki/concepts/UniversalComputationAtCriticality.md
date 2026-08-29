@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Boundary_Criticality]]
+[[CST_Theory_V27_FINAL]]
 [[Cognitive_Relapse_Decoupling]]
 [[Critical_Region_Extension]]
 [[Criticality]]

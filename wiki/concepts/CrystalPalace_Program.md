@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AnalogDomainCompression]]
 [[AnomalousSpinTransport]]
 [[AstrocyteInspiredRepair]]
+[[AtomicVaporNonlinearity]]
 [[AutonomousAdaptation]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[BigBrainCellularAxis]]

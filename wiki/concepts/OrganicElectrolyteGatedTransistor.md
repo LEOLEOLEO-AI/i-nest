@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Biodefense_Threat_Detection_Network]]
 [[BiologicalNoiseMimicry]]
 [[CirculateFiringNeuron]]
+[[CollectiveSpikingDynamics]]
 [[CompartmentalNeuronModel]]
 [[ComplexValuedSNN]]
 [[CoreComputationSubspace]]

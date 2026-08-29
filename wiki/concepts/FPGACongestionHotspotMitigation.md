@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[3D_IC_Stacking]]
 [[AI_Faculty_Forum_2026]]
+[[BigBrainCellularAxis]]
 [[ConsciousnessEngineeringLoop]]
 [[Defense_Industrial_Base_Reshaping]]
 [[EventDrivenAsynchronousRouting]]

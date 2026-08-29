@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Bidirectional_Temporal_Enhancement]]
+[[GroupSynchronization]]
 [[Memristive_STDP]]
 [[MultiObjectiveSNN]]
 [[Network_Topology_Design]]
@@ -28,7 +29,6 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SDI_STDP_Fusion]]
-[[SDI_STDP_Rule]]
 [[SNN]]
 [[SNN_STDP_CoDesign]]
 [[STDP_Learning]]

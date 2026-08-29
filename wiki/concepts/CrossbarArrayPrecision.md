@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[InterpolationLearningTransition]]
 [[LearningTransition]]
 [[Long_Range_Interactions]]
+[[Memristive_ANN_Hardware]]
 [[Memristive_Crossbar_Array]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]

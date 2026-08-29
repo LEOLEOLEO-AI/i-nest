@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[ClinicalTranslationBridge]]
 [[Complex_System_Theory]]
+[[DendriticTaskPartitioning]]
 [[DifferentiableRasterizationPipeline]]
 [[FPGASpikeImplementation]]
 [[Intelligence_Emergence]]

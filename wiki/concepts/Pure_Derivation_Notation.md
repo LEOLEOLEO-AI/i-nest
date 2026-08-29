@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[AutomatedQuantizationFramework]]
 [[BiasEvaluationMetrics]]
 [[BioInspiredSpikeEncoding]]
+[[BioPlausibleDisturbanceEstimation]]
 [[BrainScaleTopologyExploitation]]
 [[CST theory]]
 [[CST_Theory]]

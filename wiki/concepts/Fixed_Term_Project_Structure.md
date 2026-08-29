@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[ANN_SNN_WeightSpaceGap]]
 [[ActiveDendriteSNN]]
+[[AdaptiveAsymmetricSurrogateGradient]]
 [[Amorphous_Amorphous_Transition]]
 [[BackflowTransformation]]
 [[Baseline_Change_Record]]
@@ -43,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Workload_Isolation]]
 [[hls4ml_SNN_Conversion]]
 [[iNEST]]
+[[iNEST_Interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

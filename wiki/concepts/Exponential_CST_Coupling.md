@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetwork_CST_Offload]]
 [[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Integration]]
+[[Macro_System_Description]]
 [[Memory_Wall]]
 [[MetricComputationAuthenticity]]
 [[Network_Topology_Design]]
@@ -55,7 +56,6 @@ Auto-extracted concept from raw material compilation.
 [[RTC_Primitive]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Renormalization_Group_Convergence]]
-[[Residual_Connection]]
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
 [[Spacetime_Coupling_Coefficient]]
@@ -67,6 +67,7 @@ Auto-extracted concept from raw material compilation.
 [[chiplet interconnect]]
 [[complex system]]
 [[heterogeneous_integration]]
+[[residual connection]]
 [[temporalComplexity]]
 
 ## Sources

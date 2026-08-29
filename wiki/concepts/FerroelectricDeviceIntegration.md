@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[DTGA]]
 [[FerroelectricDevice]]
+[[FerroelectricMemoryCell]]
 [[Ferroelectric_Devices]]
 [[Free_Energy_Topology_Mapping]]
 [[Heterogeneous_Integration]]

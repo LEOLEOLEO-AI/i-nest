@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[ConductingPolymerDendriteMemory]]
 [[ContinualLearningOnNeuromorphic]]
 [[ContinuousTimeSNN]]
+[[Criticality_Based_Feature_Extraction]]
 [[EnergyEfficientRestoration]]
 [[EventDrivenInference]]
 [[Event_Driven_Architecture]]

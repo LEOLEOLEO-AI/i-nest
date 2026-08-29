@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[AIRA_NeuralArchSearch]]
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_FullSpectrum_Strategy]]
@@ -31,11 +32,11 @@ Auto-extracted concept from raw material compilation.
 [[BeyondPTSymmetry]]
 [[BigBrainCellularAxis]]
 [[BrownianCastleInterface]]
-[[BrownianCastleInterfaces]]
 [[CausalEmergenceCondition]]
 [[Core_Spacetime_Tensor]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
+[[Intelligence_Emergence]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]

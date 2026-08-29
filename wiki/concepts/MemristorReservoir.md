@@ -39,8 +39,10 @@ Auto-extracted concept from raw material compilation.
 [[SDDE_Attractor_Emergence]]
 [[SelfRectifyingMemristor]]
 [[SemanticRelationTemporalGraph]]
+[[SpectralSupportAnalysis]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
+[[reservoir computing architecture]]
 [[reservoir computing]]
 
 ## Sources

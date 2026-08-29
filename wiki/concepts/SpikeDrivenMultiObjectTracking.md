@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Bidirectional_Temporal_Enhancement]]
+[[BioPlausiblePredictiveCoding]]
 [[ContinuousTimeSNN]]
 [[DiscreteContinuous_Unification]]
 [[Dynamic_Expert_Fusion]]

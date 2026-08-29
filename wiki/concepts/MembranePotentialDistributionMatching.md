@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AINext_Initiative]]
 [[ANN_SNN_WeightSpaceGap]]
+[[AcousticAnomalyDetection]]
 [[ActiveDendriteSNN]]
 [[AlgorithmHardware_CoDesign]]
 [[Avoided_Criticality]]
@@ -36,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[EventBasedMotionDeblurring]]
 [[EventDrivenMotionDeblurring]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
+[[Neuromorphic_Computing]]
 [[SNN]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]

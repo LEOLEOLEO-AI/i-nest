@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[11_SDI节点接口规范与化合键定义_dup]]
 [[3DGS_Scene_Graph]]
 [[ActiveMatterSubstrate]]
+[[AgentReputationGraph]]
 [[AndersonLocalizationTopology]]
 [[Annealing_Based_Decoder]]
 [[AsymmetricStochasticInteractions]]
@@ -42,7 +43,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[fractal scaling]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveDendriteSNN]]
 [[Active_Inference_Agent]]
 [[Activity_Dependent_Plasticity]]
+[[AdaptiveAsymmetricSurrogateGradient]]
 [[AdaptiveDensityControl]]
 [[AdaptiveFrequencyResonateAndFire]]
 [[AdaptiveSTDP]]

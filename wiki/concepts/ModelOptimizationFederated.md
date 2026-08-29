@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[11_SDI节点接口规范与化合键定义_dup]]
+[[AIRA_NeuralArchSearch]]
 [[AI_Faculty_Forum_2026]]
 [[BigBrainCellularAxis]]
 [[Chiplet_Based_Trusted_Hardware]]
@@ -35,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[MetaFAIR_ArchitectureDiscovery]]
 [[ModelOptimization]]
 [[Nature Communications_生物神经网络中突触多样性如何让人工神经网络更强大？]]
+[[Network_Topology_Design]]
 [[NeuroRing_Topology]]
 [[Neuromorphic_Computing]]
 [[PhotoIontronicSynapse]]

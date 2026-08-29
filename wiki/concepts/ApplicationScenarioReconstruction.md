@@ -23,7 +23,6 @@ Auto-extracted concept from raw material compilation.
 [[AdversarialMedicalRobustness]]
 [[AnalogDomainCompression]]
 [[AnalogDomainCompressiveSensing]]
-[[Analog_Computation]]
 [[ArbitraryWavefunctionConfigurability]]
 [[AtomicVaporNonlinearity]]
 [[Beyond_Moore_Packaging_Strategy]]
@@ -34,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[ConnectomicDevelopmentalTrajectory]]
 [[CrossInstitutionalNetwork]]
 [[CrystalPalace_Program]]
+[[Crystallized_Neural_Manifolds]]
 [[DARPA_ProjectManager_Model]]
 [[ERI_2_0_Strategic_Framework]]
 [[EquivariantGraphLayers]]
@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Spatiotemporal_Synergy_Complexity]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
+[[analog computation]]
 [[complex system]]
 
 ## Sources

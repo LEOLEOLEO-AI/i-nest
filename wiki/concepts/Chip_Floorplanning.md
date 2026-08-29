@@ -41,7 +41,9 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
+[[Neuromorphic_Computing]]
 [[PinAssignmentOptimization]]
+[[PropertyPredictionModeling]]
 [[RoutabilityDrivenFloorplanning]]
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
@@ -50,7 +52,6 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[忆阻器]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 [[类脑芯片]]
 

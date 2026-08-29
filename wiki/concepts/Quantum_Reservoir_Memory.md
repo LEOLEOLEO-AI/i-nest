@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_CoordinationMechanism]]
 [[Complex_System_Theory]]
 [[Contested_Prior_Resolution]]
+[[Contested_Priors_Mechanism]]
 [[CouplingTopologyMemoryLink]]
 [[Coupling_Topology]]
 [[Crystallized_Embedding_Reservoir]]

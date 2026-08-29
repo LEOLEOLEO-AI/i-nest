@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[6万+辛顿2025年度全景实录深读｜真正的智能与硅基智能的非对称演进]]
 [[AI_Orchestrator]]
 [[AI_Supply_Chain_Increment]]
+[[AI人工智能 卷积神经网络（CNN）_w3cschool]]
 [[Agent_Workflow_Automation]]
 [[BifurcationCandidateSet]]
 [[BifurcationCandidate]]
@@ -51,7 +52,6 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[iNEST]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

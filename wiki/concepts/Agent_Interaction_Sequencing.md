@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AINext_Initiative]]
 [[AI_Driven_Architecture_Search]]
+[[ActivityAvalanche]]
 [[Avoided_Criticality]]
 [[BioInspiredInterceptionTask]]
 [[BioInspiredInterception]]

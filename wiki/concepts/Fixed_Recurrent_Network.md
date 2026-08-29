@@ -20,8 +20,8 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
+[[AI_Enabled_Battlefield_Autonomy]]
 [[AllOpticalHebbianLearning]]
-[[Analog_Computation]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[CirculateFiringNeuron]]
 [[CurrentInjectionSNN]]
@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Swarm_Coordination]]
 [[Synaptic_Plasticity]]
+[[analog computation]]
 [[dynamical state space]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]

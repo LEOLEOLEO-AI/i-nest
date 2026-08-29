@@ -48,7 +48,6 @@ Auto-extracted concept from raw material compilation.
 [[RTC_Primitive]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Renormalization_Group_Convergence]]
-[[Residual_Connection]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[SNN]]
@@ -69,9 +68,11 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Neuromorphic]]
 [[chiplet interconnect]]
 [[complex system]]
+[[residual connection]]
 [[spiking neural network]]
 [[temporalComplexity]]
 [[Γst_Revision]]
+[[智能涌现]]
 [[神经网络]]
 
 ## Sources

@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Faculty_Forum_2026]]
 [[Bidirectional_Temporal_Enhancement]]
+[[BigBrainCellularAxis]]
 [[Contested_Prior_Resolution]]
 [[CorticalWaveRouting]]
 [[Interconnect_Routing]]

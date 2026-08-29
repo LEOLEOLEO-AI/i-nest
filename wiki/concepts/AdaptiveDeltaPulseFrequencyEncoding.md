@@ -21,8 +21,8 @@ Auto-extracted concept from raw material compilation.
 
 [[AINext_Initiative]]
 [[ActivityAvalanche]]
+[[Activity_Energy_Tradeoff]]
 [[AdaptiveAsymmetricSurrogateGradient]]
-[[AdaptiveAsymmetricSurrogateGradients]]
 [[AnisotropicGaussianPrimitives]]
 [[Avoided_Criticality]]
 [[BioInspired_Interception_Control]]

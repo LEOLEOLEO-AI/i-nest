@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
+[[Spin_Wave_Propagation]]
 [[Sub_Nyquist_Waveform_Reconstruction]]
 [[iNEST]]
 [[reservoir computing]]

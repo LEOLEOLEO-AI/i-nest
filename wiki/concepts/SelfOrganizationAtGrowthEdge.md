@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[Accessibility_Plasticity]]
 [[Allreduce_Latency_Probe]]
 [[AnisotropicGaussianPrimitives]]
+[[AnomalousSpinTransport]]
 [[Architectural_Conditioning]]
 [[Cognitive_Relapse_Architecture]]
 [[ComplexEcosystemDynamics]]

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalFixedPoint]]
 [[CriticalRegimeReservoir]]
 [[Critical_Exponent_Scaling]]
+[[CriticalityInducedTopology]]
 [[Criticality]]
 [[Criticality_of_Natural_Languages]]
 [[Dynamic_Expert_Fusion]]

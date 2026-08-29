@@ -1,0 +1,100 @@
+
+============================================================
+  iNEST + TCC Research Pipeline v3.3
+  2026-08-29 06:30
+============================================================
+[06:30:02] [S2] Searching Semantic Scholar (19 queries)...
+[06:30:16]   S2: 429 rate limited; skip S2 for this run and continue with arXiv/GN
+[06:30:16] [arXiv] Searching arXiv (via proxy, 21 queries)...
+[06:30:17]   arXiv skip irrelevant: Nonparametric multiscale modeling of boundary lubrication: h
+[06:30:17]   arXiv skip irrelevant: Large Magnet Structures for Fusion Technology: Lessons from 
+[06:30:17]   arXiv skip irrelevant: GRAIN: Bridging Name and Narrative Shifts in Real-World Grap
+[06:30:24]   arXiv skip irrelevant: An Open-Source Benchmark Suite of 3D-IC Testcases
+[06:30:24]   跳过重复: Thermal Tuning Overhead in Wafer-Scale Optical Int... [Title: Thermal Tuning Overhead in Wafer-Scale Optical Interconnects for LLM MoE Trainin]
+[06:30:24]   arXiv skip irrelevant: IC-ThermBench: An Open, Progressive Benchmark for Generaliza
+[06:30:33]   arXiv skip irrelevant: Programmable Cavity Squeezing for Distributed Sensing in a T
+[06:30:33]   arXiv skip irrelevant: Magnon-induced phononic Chern insulator
+[06:30:33]   arXiv skip irrelevant: PLCBench: Can Autonomous LLM Agents Turn PLC Access into Sus
+[06:30:42]   arXiv skip irrelevant: Successive Capacity Growth: Task-Complexity-Driven Width and
+[06:30:42]   arXiv skip irrelevant: Long-time Dynamics of Many-body Open Quantum Systems using Q
+[06:30:42]   arXiv skip irrelevant: An Accurate and Single-Communication Federated Inference Alg
+[06:30:48]   arXiv skip irrelevant: Conservative deterministic Markov models in mathematical bio
+[06:30:48]   arXiv skip irrelevant: REE-TM: Reliable and Energy-Efficient Traffic Management Mod
+[06:31:10]   Insight [2/3]: MeshReduce-U: Compiler-Guided Communication Reduct...
+[06:31:15]   arXiv: batch separator, pausing 10s...
+[06:31:25]   arXiv skip irrelevant: Distributed Training using an Intelligent Network
+[06:31:25]   arXiv skip irrelevant: Subgraph Filtering for Fair Graph Neural Networks
+[06:31:25]   arXiv skip irrelevant: Adaptive Peer Clustering with Hierarchical Random Linear Net
+[06:31:31]   arXiv skip irrelevant: Information Flow Control in Off-Chain Components
+[06:31:31]   arXiv skip irrelevant: Extending Low Latency Service Across the Internet
+[06:31:31]   arXiv skip irrelevant: Open-Source 5G RAN Platforms: A Dual Perspective on Performa
+[06:31:38]   Insight [1/3]: Spectral Fingerprints of Gauge Theories on a Quant...
+[06:31:38]   Insight [1/3]: Metallogenic quantum criticality: Fermi surface nu...
+[06:31:38]   arXiv skip irrelevant: From Static to Dynamic: Benchmarking Real-World Code Review 
+[06:31:44]   arXiv skip irrelevant: Superextensive learning in quantum reservoirs at the onset o
+[06:31:44]   arXiv skip irrelevant: Schrödinger Bridges over Kinetic Swarming Models
+[06:31:44]   arXiv skip irrelevant: Quantifying System-Level Harms from AI Adoption in Complex S
+[06:31:51]   arXiv skip irrelevant: Learning Continuous Regional Temperature Fields with Lead-Ti
+[06:31:51]   arXiv skip irrelevant: DoublesEval: Diagnosing Multi-Agent Tactical Reasoning in Vi
+[06:31:51]   arXiv skip irrelevant: Robust Slip Detection and Material Classification via Spatio
+[06:31:56]   arXiv: batch separator, pausing 10s...
+[06:32:29]   Insight [1/3]: Study of Resistive Switching Dynamics and Memory S...
+[06:32:29]   Insight [1/3]: MeMark: Membrane-Space Watermarking for Spiking Ne...
+[06:32:29]   Insight [1/3]: Syn2Logic: End-to-End Neuromorphic Design Automati...
+[06:32:35]   arXiv skip irrelevant: UrbanGround: From Local Perception to Spatial Agency in a Re
+[06:32:35]   arXiv skip irrelevant: Naive Prompt Optimization: Rethinking the Need for Complex P
+[06:32:35]   arXiv skip irrelevant: What Makes Good Agentic Data? An ACE Lens on Data Generation
+[06:32:41]   arXiv skip irrelevant: Performance Foundations of Parallel & Distributed Reasoning 
+[06:32:41]   arXiv skip irrelevant: FoldPipe: Bounded Remote Streaming of Native Molecular Shard
+[06:32:41]   arXiv skip irrelevant: Parameter Efficient Continual Learning for Sparse Event-Base
+[06:32:47]   arXiv skip irrelevant: 4DGS-WAM: Bridging Past and Future with an Object-Centric Wo
+[06:32:47]   arXiv skip irrelevant: Structured Non-Locality and Emergent Locality in Cavity-QED 
+[06:32:47]   arXiv skip irrelevant: A Multi-View Coupled Tensor Decomposition for Lightweight On
+[06:32:52]   Insight [2/3]: Beyond Edge Cuts: Activity-Weighted Multicast Hype...
+[06:32:52]   arXiv skip irrelevant: HMGCLIP: Heterogeneous Multi-Granularity Contrastive Learnin
+[06:32:57]   arXiv: batch separator, pausing 10s...
+[06:33:08]   arXiv skip irrelevant: Single State Update Predictive Coding training for Time Seri
+[06:33:08]   arXiv skip irrelevant: Free-Energy-Gated Plasticity for Real-Time Online Motor Lear
+[06:33:14]   跳过重复: Sensor Drift Compensation via Olfactory system and... [Title: Sensor Drift Compensation via Olfactory system and Reservoir Computing]
+[06:33:14]   跳过重复: Quantum Reservoir Computing with Physics-Informed ... [Title: Quantum Reservoir Computing with Physics-Informed Correction for Reduced-Order P]
+[06:33:14]   跳过重复: Identifying Probability Localization Dynamics via ... [Title: Identifying Probability Localization Dynamics via Structured Stochastic Liftings]
+[06:33:19]   arXiv skip irrelevant: A Geometry-Driven, Framework-Agnostic Optimization for Objec
+[06:33:25]   arXiv skip irrelevant: Deterministic Identification over Additive Gaussian Channels
+[06:33:25]   arXiv skip irrelevant: Privacy Preserving Semantic Communications in Wireless Edge 
+[06:33:36]   arXiv: batch separator, pausing 10s...
+[06:33:46]   arXiv skip irrelevant: Towards Reproducible Evaluation of Distributed Quantum Circu
+[06:33:46]   arXiv skip irrelevant: Distributed Training using an Intelligent Network
+[06:33:46]   跳过重复: Discovering Adaptive Transmission Programs for Col... [Title: Discovering Adaptive Transmission Programs for Collective Innovation]
+[06:33:51] [arXiv] 7 new papers, 0 errors across 21 queries
+[06:33:51] [GN] Google News RSS...
+[06:35:58]   GN error (TCC): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[06:38:05]   GN error (iNEST): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[06:40:12]   GN error (emergence): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[06:42:20]   GN error (complex-networks): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[06:42:21] [GN] 0 new articles
+
+  Total: 7 new items to inbox
+[06:42:21] [Process] LLM classify (free tier, limit=20)...
+[06:42:42] [Process] Classified: 0
+[06:42:42] [Genspark] Generating research brief...
+[06:42:42] [Genspark] Research brief written: genspark_research_brief.md
+[06:42:42] [Graph] Scanning wiki links...
+[06:42:45] [Graph] 10952 files, 172505 links
+[06:43:27] [Graph] Exported: 10952 nodes, 167117 edges
+[06:43:27] [Graph] 0 missing backlinks
+[06:43:49] [DailyGen] Daily_Action + Focus + Insights generated
+[06:43:49] [Review] Research task proposals refreshed
+
+============================================================
+  Pipeline v3.3 Complete
+  Sources: 0(S2)+7(arXiv)+0(GN) | Written: 7 new papers
+  Processed: 0 | Nodes: 10952 edges: 167117 | Missing links: 0 | Genspark: OK
+  Elapsed: 827s
+============================================================
+[06:43:50] [State] research_state.json updated
+[06:43:50] [Evolution] Evidence + hypotheses updated
+[06:44:50] [Wiki] Warning: Command '['C:\\Users\\LEO\\AppData\\Local\\Programs\\Python\\Python310\\python.exe', 'D:\\Obsidian\\vault\\90_System\\scripts\\wiki_compiler.py']' timed out after 60 seconds
+[06:44:50] [Insight] Cross-domain bridges updated
+[06:45:20] [Tasks] Research recommendations updated
+[06:45:21] [Dashboard] Live dashboard published
+[06:45:21] [Homepage] Home.md auto-refreshed

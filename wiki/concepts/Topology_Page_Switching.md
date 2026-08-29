@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[3DIntegratedPhotonicPackaging]]
 [[AI_Faculty_Forum_2026]]
+[[Analog_Weight_Storage]]
 [[Architectural_Conditioning]]
 [[CST_Spatiotemporal_Complexity]]
 [[ChipletWaferInterconnectTopology]]

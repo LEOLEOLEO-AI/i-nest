@@ -37,6 +37,8 @@ Auto-extracted concept from raw material compilation.
 [[reservoir computing]]
 [[基于忆阻器的储备池图神经网络_RGNN_离子与电子相互作用高效建模研究]]
 [[忆阻器]]
+[[晶圆级忆阻器无源交叉阵列制造技术_脑规模神经形态计算突破_]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

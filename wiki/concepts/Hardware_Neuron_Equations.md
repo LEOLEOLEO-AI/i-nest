@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[electronic neuron circuit]]
 [[iNEST]]
 [[向大脑学习智能本质，探索通用 AI 的另一条可行路径]]
+[[新型计算]]
 [[智能涌现]]
 [[涌现]]
 [[神经网络]]

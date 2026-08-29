@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Bidirectional_Temporal_Enhancement]]
 [[BioPlausiblePredictiveCoding]]
+[[BurstGatedRouting]]
 [[ContinuousTimeSNN]]
 [[Criticality]]
 [[DelayAwareSpikeEventDelivery]]

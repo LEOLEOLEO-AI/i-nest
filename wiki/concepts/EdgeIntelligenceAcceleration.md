@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Express_Link_Virtualization]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
+[[InverseDesignOptimization]]
 [[LargeScalePhotonicIntegration]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]

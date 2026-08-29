@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[20W_Brain_Inspired_Planning]]
 [[AIRA_NeuralArchSearch]]
 [[AI_Driven_Architecture_Search]]
+[[AI_Enabled_Battlefield_Autonomy]]
 [[AI_Forum_Demo_Narrative]]
 [[ANN_SNN_WeightSpaceGap]]
 [[AcademicDevelopmentCoCreation]]

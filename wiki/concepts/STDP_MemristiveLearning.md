@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Architecture]]
 [[Free_Energy_Principle_Network]]
 [[FunctionalInterfaceBlock]]
+[[GroupSynchronization]]
 [[IntrinsicTimingSTDP]]
 [[Memristive_STDP]]
 [[Network_Topology_Design]]

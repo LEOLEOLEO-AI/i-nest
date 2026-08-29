@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NonHermitianLatticeWavefunctionControl]]
 [[NontrivialBandTopology]]
+[[NontrivialBinaryCombinatorialProblems]]
 [[Representation_Learning_Generalization]]
 [[SpikingTopologyEvolution]]
 [[Spiking_Neural_Network]]

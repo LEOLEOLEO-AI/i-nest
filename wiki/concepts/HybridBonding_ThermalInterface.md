@@ -13,7 +13,7 @@ auto: true
 **Last updated**: 2026-08-23
 
 ## Definition
-A Cu-Cu or dielectric-dielectric bonding method for ultra-fine pitch interconnects, creating a thin interface with high thermal conductivity but also potential for thermal stress. Hybrid bonding enables high-bandwidth 3D integration but introduces thermal-mechanical reliability challenges that affect long-term operation of TCC systems.
+A Cu-Cu or dielectric-dielectric bonding method for ultra-fine pitch interconnects, creating a thin interface with high thermal conductivity but also potential for thermal stress. Hybrid bonding enables high-bandwidth 3D_Integration but introduces thermal-mechanical reliability challenges that affect long-term operation of TCC systems.
 
 ## Context
 Auto-extracted concept from raw material compilation.
@@ -21,8 +21,9 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
+[[03 涌现：整体的能力不能还原回个体？ - 得到APP]]
 [[1024_Card_SuperNode]]
-[[3D integration]]
+[[3D_Integration]]
 [[AdiabaticMultimodeBend]]
 [[Advanced_Packaging_Route]]
 [[AnalogDomainCompression]]
@@ -42,7 +43,6 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[TCC]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[C_elegansConnectomeAnalogy]]
 [[ChaoticAttractorTopology]]
 [[ConnectomeComputationBasis]]
+[[ConnectomeWiringSeparability]]
 [[Connectome]]
 [[DataProvenanceIntegrity]]
 [[Intelligence_Emergence]]

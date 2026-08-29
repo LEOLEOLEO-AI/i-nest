@@ -718,6 +718,97 @@
         "source_path": "00_Inbox\\_pipeline_insights\\2026-08-27_arXiv_NoC-Out A Formally-verified Network-on-Chip Library for Rule.md"
       },
       "cached_at": "2026-08-27T06:43:41"
+    },
+    "8982df0177bb15f5e401552badd0b50a4a5d6d5ff788c4501126188ef53112e3": {
+      "analysis": {
+        "id": 1,
+        "title_zh": "Beyond Edge Cuts: Activity-Weighted Multicast Hypergraph Mapping for Spiking Neu",
+        "tcc_value": "",
+        "inest_value": "关键词匹配,需深入阅读",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 5,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-08-29_arXiv_Beyond Edge Cuts Activity-Weighted Multicast Hypergraph Mapp.md"
+      },
+      "cached_at": "2026-08-29T06:43:49"
+    },
+    "a913f81db77539616cc2b5c7b30272f13be3304a5d2a2f50711d8599019de10c": {
+      "analysis": {
+        "id": 2,
+        "title_zh": "Study of Resistive Switching Dynamics and Memory States Equilibria in Analog Fil",
+        "tcc_value": "",
+        "inest_value": "关键词匹配,需深入阅读",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 5,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-08-29_arXiv_Study of Resistive Switching Dynamics and Memory States Equi.md"
+      },
+      "cached_at": "2026-08-29T06:43:49"
+    },
+    "635c642e303dd47559d9ced4396ab22f86fa1b7dfcc0e2cf02d167c072566dc5": {
+      "analysis": {
+        "id": 3,
+        "title_zh": "MeshReduce-U: Compiler-Guided Communication Reduction for Irregular Neural Reduc",
+        "tcc_value": "关键词匹配,需深入阅读",
+        "inest_value": "",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 5,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-08-29_arXiv_MeshReduce-U Compiler-Guided Communication Reduction for Irr.md"
+      },
+      "cached_at": "2026-08-29T06:43:49"
+    },
+    "b061ee116c2b2cf1d3308ea934ab811a257c68bd64a76c3d3b7ef4f73c335389": {
+      "analysis": {
+        "id": 4,
+        "title_zh": "MeMark: Membrane-Space Watermarking for Spiking Neural Networks",
+        "tcc_value": "",
+        "inest_value": "关键词匹配,需深入阅读",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 5,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-08-29_arXiv_MeMark Membrane-Space Watermarking for Spiking Neural Networ.md"
+      },
+      "cached_at": "2026-08-29T06:43:49"
+    },
+    "1f27d24a34811d41398b2bd48b06753a86174475d5b4e032f6566510211b8ce4": {
+      "analysis": {
+        "id": 5,
+        "title_zh": "Syn2Logic: End-to-End Neuromorphic Design Automation",
+        "tcc_value": "",
+        "inest_value": "关键词匹配,需深入阅读",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 5,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-08-29_arXiv_Syn2Logic End-to-End Neuromorphic Design Automation.md"
+      },
+      "cached_at": "2026-08-29T06:43:49"
+    },
+    "83400cfa7b428f85504642f4b5f7e21f5d0fa04947fe657a866e6e23b5966806": {
+      "analysis": {
+        "id": 6,
+        "title_zh": "Metallogenic quantum criticality: Fermi surface nucleation at transitions betwee",
+        "tcc_value": "",
+        "inest_value": "关键词匹配,需深入阅读",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 5,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-08-29_arXiv_Metallogenic quantum criticality Fermi surface nucleation at.md"
+      },
+      "cached_at": "2026-08-29T06:43:49"
+    },
+    "eac915f253cfe03f6e432b8ca25d5391295c35e30a4495f9bf4e5ba0bb4bddef": {
+      "analysis": {
+        "id": 7,
+        "title_zh": "Spectral Fingerprints of Gauge Theories on a Quantum Computer",
+        "tcc_value": "",
+        "inest_value": "关键词匹配,需深入阅读",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 4,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-08-29_arXiv_Spectral Fingerprints of Gauge Theories on a Quantum Compute.md"
+      },
+      "cached_at": "2026-08-29T06:43:49"
     }
   }
 }

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Forum_Demo_Narrative]]
 [[AI_FullSpectrum_Strategy]]
 [[ActivityAvalanche]]
+[[Activity_Energy_Tradeoff]]
 [[AdaptiveArchitecture]]
 [[AgenticServiceOrchestration]]
 [[Agile_Resilient_Defense_Ecosystem]]

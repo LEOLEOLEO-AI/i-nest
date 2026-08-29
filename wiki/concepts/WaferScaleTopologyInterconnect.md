@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_TopologyMapping]]
 [[PhysicalWaferTriplet]]
 [[SDI_Bond]]
+[[SDSoW]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]

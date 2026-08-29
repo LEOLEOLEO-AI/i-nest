@@ -27,18 +27,18 @@ Auto-extracted concept from raw material compilation.
 [[Additive_Manufacturing_Supply_Chain]]
 [[AdvancedPackagingInterconnect]]
 [[AdversarialMedicalRobustness]]
+[[AnalogDomainCompression]]
 [[AnalogInMemoryComputing]]
-[[Analog_Computation]]
 [[Capability_Forging_Pipeline]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
 [[CoaxialLike_TGV]]
-[[CriticalityAwareTopology]]
 [[Criticality]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Self_Organized_Criticality]]
 [[TCC]]
+[[analog computation]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

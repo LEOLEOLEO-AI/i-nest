@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[AutomatedQuantizationFramework]]
 [[BiasEvaluationMetrics]]
 [[BioInspiredSpikeEncoding]]
+[[BioPlausibleDisturbanceEstimation]]
 [[BrainScaleTopologyExploitation]]
 [[Brain_Dynamics_Learning]]
 [[Complex_System_Theory]]

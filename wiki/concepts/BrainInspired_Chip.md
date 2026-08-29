@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Architecture]]
 [[In_Package_Neuromorphic_Integration]]
 [[IntrinsicTimingSTDP]]
+[[NeuromorphicGraphAnomalyDetection]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[STDP_Plasticity]]

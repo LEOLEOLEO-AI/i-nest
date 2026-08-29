@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AINext_Initiative]]
 [[Accessibility_Plasticity]]
+[[Biologically_Plausible_Learning_Rules]]
 [[Cognitive_Relapse_Decoupling]]
 [[CriticalityDrivenStateTransition]]
 [[Criticality]]

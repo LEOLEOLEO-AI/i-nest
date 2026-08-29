@@ -23,6 +23,8 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[BigBrainCellularAxis]]
 [[Chiplet_Based_Neuromorphic_Integration]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Course_Based_FPGA_Projects]]
 [[DARPA_Manufacturing_Strategy]]
 [[Distributed_Spike_Communication]]
 [[HodgkinHuxleyDynamics]]

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AlternativeBridgingModels]]
 [[AnomalousSpinTransport]]
+[[Communication_Trace_Diagnostics]]
 [[ComplexValuedSNN]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]

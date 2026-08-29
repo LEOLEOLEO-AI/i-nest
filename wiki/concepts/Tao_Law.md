@@ -21,7 +21,6 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Application_Scenario_Reconstruction]]
-[[Analog_Computation]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[Capability_Forging_Pipeline]]
 [[Constructed_Reality_Interconnect]]
@@ -35,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Architecture]]
 [[Spatiotemporal_Synergy_Complexity]]
 [[TCC]]
+[[analog computation]]
 [[iNEST]]
 
 ## Sources

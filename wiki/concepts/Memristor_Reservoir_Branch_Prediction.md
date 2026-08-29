@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[AI_Faculty_Forum_2026]]
+[[AlternativeBridgingModels]]
 [[CMOS memristor devices]]
 [[CMOS_Memristor_Devices]]
 [[DARPA_ProjectManager_Model]]
@@ -42,14 +43,16 @@ Auto-extracted concept from raw material compilation.
 [[Pipelined_Processor_Integration]]
 [[QuantumDissipativeReservoir]]
 [[Reservoir_Computing]]
-[[ShortTermMemoryReservoir]]
+[[ShortTermMemory]]
 [[Stochastic_LIF_Inference]]
 [[TCC]]
 [[branch prediction]]
+[[emerging CMOS memristor devices]]
 [[emerging CMOS memristor]]
 [[memristor device]]
 [[neuromorphic computing]]
 [[pipelined processor]]
+[[reservoir computing architecture]]
 [[reservoir computing]]
 
 ## Sources

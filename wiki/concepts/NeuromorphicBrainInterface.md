@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Autonomous_Spiking_Dynamics]]
+[[Bidirectional_Temporal_Enhancement]]
 [[BrainInspiredArchitecture]]
 [[ConductingPolymerDendriteMemory]]
 [[Event_Driven_Architecture]]

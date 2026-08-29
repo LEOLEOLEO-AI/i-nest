@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[AvalancheBranchingRatio]]
 [[BigBrainCellularAxis]]
+[[BoundaryObject_Abstraction]]
 [[BranchingRatio]]
 [[CST_Equation]]
 [[CST_Exponential_Form]]
@@ -54,7 +55,6 @@ Auto-extracted concept from raw material compilation.
 [[RTC_Primitive]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Renormalization_Group_Convergence]]
-[[Residual_Connection]]
 [[Spacetime_Coupling_Coefficient]]
 [[SpatiotemporalComplexityIndex]]
 [[Spatiotemporal_Synergy_Complexity]]
@@ -65,6 +65,8 @@ Auto-extracted concept from raw material compilation.
 [[TemporalComplexity]]
 [[Topology_Interconnect]]
 [[chiplet interconnect]]
+[[heterogeneous_integration]]
+[[residual connection]]
 [[temporalComplexity]]
 
 ## Sources

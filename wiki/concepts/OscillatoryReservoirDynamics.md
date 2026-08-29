@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[NonEquilibriumComputing]]
 [[RecursiveSelfReferentialArchitecture]]
+[[ReproducibleEmergenceValidation]]
 [[ReservoirDynamics]]
 [[Reservoir_Computing]]
 [[Sparsity_Ceiling]]

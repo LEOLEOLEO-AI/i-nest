@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[FeFET_Polarization_Switching]]
 [[FerroelectricMemoryCell]]
 [[FerroelectricSemiconductorReservoir]]
+[[FerroelectricSynapticArray]]
 [[Ferroelectric_Devices]]
 [[GeTeBasedCBRAM]]
 [[HybridResistiveMemoryCIM]]

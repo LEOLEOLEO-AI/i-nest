@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[CriticalityDrivenStateTransition]]
 [[Criticality]]
+[[DynamicalSelfDualCriticality]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[SNN]]

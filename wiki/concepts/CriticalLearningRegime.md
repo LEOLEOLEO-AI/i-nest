@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AINext_Initiative]]
 [[AI_FullSpectrum_Strategy]]
+[[ActivityPropagationCascade]]
 [[AdaptiveArchitecture]]
 [[Adaptive_Service_Reconfiguration]]
 [[Allreduce_Latency_Probe]]

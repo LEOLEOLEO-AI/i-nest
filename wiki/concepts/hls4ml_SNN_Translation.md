@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[ActiveDendriteSNN]]
+[[AdaptiveAsymmetricSurrogateGradient]]
 [[BigBrainCellularAxis]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
@@ -36,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
+[[iNEST_Interconnect]]
 [[neuromorphic computing]]
 [[spiking neural network]]
 

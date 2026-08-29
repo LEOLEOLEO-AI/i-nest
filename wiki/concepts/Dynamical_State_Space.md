@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Emerging_CMOS_Memristor]]
 [[Fading_Memory_Property]]
 [[FirstPrinciples_AI]]
+[[Fixed_Reservoir_Unitary]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[MeanFieldSpinGlass]]

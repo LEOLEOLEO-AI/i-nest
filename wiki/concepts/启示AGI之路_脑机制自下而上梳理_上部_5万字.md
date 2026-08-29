@@ -35,6 +35,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[HotChip2024-Day2_AI加速器互联和云AI处理器,_Tesla是亮点_1]]
 [[Intelligence_Emergence]]
 [[MIT_异构Chiplet集成构建下一代计算的_超级芯片_]]
+[[NCL神经计算定律详解]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[SDSoW]]
@@ -51,5 +52,4 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[从CoWoS走向CoPoS，晶圆从圆形变成方形]]
 [[智能涌现]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？_新课上线]]
 [[神经网络]]

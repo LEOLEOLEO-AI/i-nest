@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration_Route]]
 [[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]
+[[FirstPrinciples_Derivation]]
 [[Heterogeneous_Integration]]
 [[MachineLearningNanomaterialDiscovery]]
 [[Memristive_Interconnect]]

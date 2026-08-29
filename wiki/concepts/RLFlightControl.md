@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveArchitecture]]
 [[AdaptiveCompetingInteractions]]
 [[AgenticServiceOrchestration]]
+[[AnisotropicGaussianPrimitives]]
 [[Critical_Region_Extension]]
 [[DARPA_ProjectManager_Model]]
 [[DTGA]]

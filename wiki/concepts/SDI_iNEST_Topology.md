@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Weight_Storage]]
 [[Architectural_Conditioning]]
 [[Attention_Residuals]]
+[[BigBrainCellularAxis]]
 [[BoundaryObject_Abstraction]]
 [[CST计量仪]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -52,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[Textbook_Paradigm_Definition]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]
+[[iNEST_Topology]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

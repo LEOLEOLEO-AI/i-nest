@@ -21,8 +21,8 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
+[[1M1T1R_SynapticNeuron]]
 [[ActivityAvalanche]]
-[[Analog_Computation]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[BitPrecisionAwareScheduling]]
 [[BurstInterleaving]]
@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicGradientPropagation]]
 [[Neuromorphic_Computing]]
 [[Spiking_Neural_Network]]
+[[analog computation]]
 [[branch prediction]]
 [[iNEST]]
 

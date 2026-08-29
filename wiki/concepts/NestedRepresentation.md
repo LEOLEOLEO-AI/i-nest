@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Edge_Neuromorphic_Compute]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
+[[Emerging_CMOS_Memristor]]
 [[Event_Driven_Architecture]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

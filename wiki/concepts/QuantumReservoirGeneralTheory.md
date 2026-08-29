@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AgenticServiceManifesto]]
 [[AnalogDomainCompression]]
 [[Categorical_Closure_Criterion]]
+[[CombinatorialOptimizationReservoirMapping]]
 [[Criticality]]
 [[Environmental_Induced_Memory]]
 [[Heterogeneous_Compute_Graph]]

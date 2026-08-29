@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[CommunicationAwareComputeRelocation]]
 [[Compute_Centric_NoC]]
 [[CongestionAwareNoCPlacement]]
+[[Differential_FeatureExtraction]]
 [[Dynamic_Expert_Fusion]]
 [[GPU_Hegemony_Disruption]]
 [[Heterogeneous_Integration]]

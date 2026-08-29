@@ -4,17 +4,17 @@
 
 ## Active Bridges (7)
 
-### SDI_Plastic_Interconnect (Strength: 876)
+### SDI_Plastic_Interconnect (Strength: 900)
 SDI's software-defined interconnect could implement plastic (reconfigurable) network topologies inspired by synaptic plasticity.
 - TCC concepts: [[1024_Card_SuperNode]], [[2_5D_PIM_Chiplet_Integration]], [[3DHI_Integration]]
 - iNEST concepts: [[20W_Brain_Inspired_Planning]], [[Accessibility_Gradient]], [[ActionPrototypeClustering]]
 
-### Chiplet_Heterogeneous_Neuromorphic (Strength: 719)
+### Chiplet_Heterogeneous_Neuromorphic (Strength: 723)
 Chiplet-based heterogeneous integration enables combining CMOS logic with memristor crossbar arrays for neuromorphic acceleration.
 - TCC concepts: [[1024_Card_SuperNode]], [[2_5D_PIM_Chiplet_Integration]], [[3DHI_Integration]]
 - iNEST concepts: [[1M1T1R_SynapticNeuron]], [[20W_Brain_Inspired_Planning]], [[Accessibility_Gradient]]
 
-### NoC_Spiking_Routing (Strength: 535)
+### NoC_Spiking_Routing (Strength: 536)
 NoC routing algorithms could be redesigned for event-driven spike packet delivery, reducing latency by orders of magnitude.
 - TCC concepts: [[3DHI_Interconnect]], [[3DHI_Stacking]], [[3DIntegratedPhotonicPackaging]]
 - iNEST concepts: [[1M1T1R_SynapticNeuron]], [[20W_Brain_Inspired_Planning]], [[AcousticAnomalyDetection]]
@@ -29,7 +29,7 @@ Wafer-scale integration could enable massive-scale neuromorphic chips with milli
 - TCC concepts: [[1024_Card_SuperNode]], [[2_5D_PIM_Chiplet_Integration]], [[3DHI_Integration]]
 - iNEST concepts: [[ActivityAvalanche]], [[AdaptersInSpikingNetworks]], [[AdaptiveAsymmetricSurrogateGradient]]
 
-### Topology_Brain_Connectome (Strength: 101)
+### Topology_Brain_Connectome (Strength: 106)
 Brain connectome topology patterns can inspire optimal NoC topologies for wafer-scale AI chips.
 - TCC concepts: [[1024_Card_SuperNode]], [[2_5D_PIM_Chiplet_Integration]], [[3DHI_Integration]]
 - iNEST concepts: [[20W_Brain_Inspired_Planning]], [[ActiveInferenceGenerativeModel]], [[AI_PPT_Workflow]]

@@ -21,11 +21,11 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
+[[03 涌现：整体的能力不能还原回个体？ - 得到APP]]
 [[12_三原理协同_FEP_最小作用量_STDP]]
 [[3D_Integrated_Chiplet_Stacking]]
 [[AI-ML — 全景导航 (Map of Content)]]
 [[AdversarialMedicalRobustness]]
-[[Analog_Computation]]
 [[Bioavailability_Enhancement]]
 [[CST_Coordinated_Spatiotemporal_Complexity]]
 [[CST_SynergisticCoordination]]
@@ -40,9 +40,10 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[STDP_Plasticity]]
+[[Synaptic_Plasticity]]
 [[TCC]]
+[[analog computation]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

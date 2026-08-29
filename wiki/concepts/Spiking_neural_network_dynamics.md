@@ -37,7 +37,6 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_computing]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
-[[Residual_Connection]]
 [[SDI_Bond]]
 [[SDI_Four_Rules]]
 [[SDI_STDP]]
@@ -62,6 +61,7 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[iNEST]]
 [[neuromorphic computing]]
+[[residual connection]]
 [[temporalComplexity]]
 [[三原理协同_FEP_STDP_最小作用量]]
 

@@ -26,7 +26,6 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[Complex_System_Theory]]
 [[CriticalFixedPoint]]
-[[CriticalityOnSmallWorlds]]
 [[Criticality]]
 [[Disorder_Anomaly_Duality]]
 [[Dynamic_Expert_Fusion]]

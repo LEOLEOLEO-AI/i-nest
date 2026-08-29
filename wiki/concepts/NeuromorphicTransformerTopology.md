@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[CSI_Temporal_Encoding]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
+[[Communication_Trace_Diagnostics]]
 [[ComplexValuedSNN]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]

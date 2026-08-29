@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AIRA_NeuralArchSearch]]
 [[AI_Faculty_Forum_2026]]
 [[AgentBasedCorruptionModel]]
+[[AlloyDisorderEngineering]]
 [[Analog_Synaptic_Behavior]]
 [[ApproximateMacroscopicDynamics]]
 [[AstrocyteInspiredRepair]]

@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[InverseDesignedPhotonicRouting]]
 [[Memory_Wall]]
 [[Memristor_Synapse]]
+[[MicroRouter_Embedding]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC_Chiplet_iNEST_Wafer]]

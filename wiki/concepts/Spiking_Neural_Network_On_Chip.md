@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[BioPlausiblePredictiveCoding]]
+[[BurstGatedRouting]]
 [[ContinuousTimeSNN]]
 [[Criticality]]
 [[Delay_Aware_Autograd_Spiking_Framework]]

@@ -41,6 +41,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Chiplet，解决车规芯片既要、又要、还要难题的唯一解？_智车星球]]
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
+[[DendriticReservoirState]]
 [[DualTopologyProductSplit]]
 [[GroupWise_DragonflyPlus]]
 [[Heterogeneous_Integration]]
@@ -56,5 +57,4 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[complex system]]
 [[iNEST]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]

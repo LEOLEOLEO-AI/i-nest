@@ -1,27 +1,67 @@
 {
-  "generated": "2026-08-28T19:27:05.464662",
+  "generated": "2026-08-29T06:43:49.634836",
   "generator": "state_generator.py v1.0",
   "vault": {
-    "total_md": 10930,
-    "inbox_00": 193,
-    "processing_20": 565,
-    "tcc_30": 1834,
-    "inest_40": 1232,
+    "total_md": 10961,
+    "inbox_00": 200,
+    "processing_20": 563,
+    "tcc_30": 1835,
+    "inest_40": 1233,
     "output_50": 429,
-    "moc_60": 73
+    "moc_60": 74
   },
   "services": {
-    "preview_server_8899": false,
+    "preview_server_8899": true,
     "jojo_llm_57321": false,
     "jojo_fixer_57320": false
   },
   "pipeline": {
     "ingested_today": {
-      "today": 0,
-      "total": 193,
-      "recent": []
+      "today": 7,
+      "total": 200,
+      "recent": [
+        {
+          "file": "2026-08-29_arXiv_Syn2Logic End-to-End Neuromorphic Design Automation.md",
+          "preview": "---\ntitle: \"Syn2Logic: End-to-End Neuromorphic Design Automation\"\ndate: 2026-08-29\nsource: arXiv\ntrack: iNEST\nauthors: \nyear: 2026\nurl: http://arxiv.org/abs/2608.25536v1\ntags: [inbox, inest, arxiv]\nci"
+        },
+        {
+          "file": "2026-08-29_arXiv_Study of Resistive Switching Dynamics and Memory States Equi.md",
+          "preview": "---\ntitle: \"Study of Resistive Switching Dynamics and Memory States Equilibria in Analog Filamentary Conductive-Metal-Oxide/HfOx ReRAM via Compact Modeling\"\ndate: 2026-08-29\nsource: arXiv\ntrack: iNEST"
+        },
+        {
+          "file": "2026-08-29_arXiv_Spectral Fingerprints of Gauge Theories on a Quantum Compute.md",
+          "preview": "---\ntitle: \"Spectral Fingerprints of Gauge Theories on a Quantum Computer\"\ndate: 2026-08-29\nsource: arXiv\ntrack: iNEST\nauthors: \nyear: 2026\nurl: http://arxiv.org/abs/2608.27457v1\ntags: [inbox, inest, "
+        },
+        {
+          "file": "2026-08-29_arXiv_Metallogenic quantum criticality Fermi surface nucleation at.md",
+          "preview": "---\ntitle: \"Metallogenic quantum criticality: Fermi surface nucleation at transitions between gapped phases\"\ndate: 2026-08-29\nsource: arXiv\ntrack: iNEST\nauthors: \nyear: 2026\nurl: http://arxiv.org/abs/"
+        },
+        {
+          "file": "2026-08-29_arXiv_MeshReduce-U Compiler-Guided Communication Reduction for Irr.md",
+          "preview": "---\ntitle: \"MeshReduce-U: Compiler-Guided Communication Reduction for Irregular Neural Reductions on Mesh NoCs\"\ndate: 2026-08-29\nsource: arXiv\ntrack: TCC\nauthors: \nyear: 2026\nurl: http://arxiv.org/abs"
+        },
+        {
+          "file": "2026-08-29_arXiv_MeMark Membrane-Space Watermarking for Spiking Neural Networ.md",
+          "preview": "---\ntitle: \"MeMark: Membrane-Space Watermarking for Spiking Neural Networks\"\ndate: 2026-08-29\nsource: arXiv\ntrack: iNEST\nauthors: \nyear: 2026\nurl: http://arxiv.org/abs/2608.25738v1\ntags: [inbox, inest"
+        },
+        {
+          "file": "2026-08-29_arXiv_Beyond Edge Cuts Activity-Weighted Multicast Hypergraph Mapp.md",
+          "preview": "---\ntitle: \"Beyond Edge Cuts: Activity-Weighted Multicast Hypergraph Mapping for Spiking Neural Networks on Mesh NoCs\"\ndate: 2026-08-29\nsource: arXiv\ntrack: iNEST\nauthors: \nyear: 2026\nurl: http://arxi"
+        }
+      ]
     },
     "recent_runs": [
+      {
+        "date": "2026-08-29T06:43:49.541155",
+        "new_papers": 7,
+        "api_results": 7,
+        "classified": 0,
+        "graph_nodes": 10952,
+        "graph_edges": 167117,
+        "elapsed_s": 827.3,
+        "genspark_snapshot": "99_Meta\\genspark_research_brief.md",
+        "_file": "pipeline_20260829_0643.json"
+      },
       {
         "date": "2026-08-27T06:43:41.844303",
         "new_papers": 7,
@@ -87,32 +127,32 @@
         "elapsed_s": 508.0,
         "genspark_snapshot": "99_Meta\\genspark_research_brief.md",
         "_file": "pipeline_20260821_0638.json"
-      },
-      {
-        "date": "2026-08-20T06:43:10.243392",
-        "new_papers": 7,
-        "api_results": 7,
-        "classified": 0,
-        "graph_nodes": 10368,
-        "graph_edges": 97776,
-        "elapsed_s": 788.4,
-        "genspark_snapshot": "99_Meta\\genspark_research_brief.md",
-        "_file": "pipeline_20260820_0643.json"
       }
     ]
   },
   "git": {
-    "uncommitted": 9,
+    "uncommitted": 24,
     "details": [
-      "M .obsidian/workspace.json",
+      "M .obsidian/community-plugins.json",
+      " M .obsidian/workspace.json",
       " M .workbuddy/automations/automation-1785546922604/memory.md",
+      " M 60_MOC/02_Research_Insights.md",
+      " M 60_MOC/03_Daily_Action.md",
+      " M 60_MOC/04_Daily_Focus.md",
+      " M 60_MOC/05_Task_Review.md",
+      " M 70_Dashboard/health_watchdog.md",
       " M 90_System/state/health_watchdog.json",
-      " M 99_Meta/evolution_queue.json",
-      " M 99_Meta/hypothesis_registry.json",
-      " M 99_Meta/knowledge_compile_state.json",
+      " M 99_Meta/daily_analysis_cache.json",
+      " M 99_Meta/dedup_index_v2.json",
+      " M 99_Meta/genspark_research_brief.md",
+      " M 99_Meta/research_task_proposals.json",
       " M 99_Meta/self_evolve_log.json",
-      " M 99_Meta/self_evolve_run_2026-08-28.log",
-      "?? 60_MOC/12_Knowledge_Review_2026-08-28.md"
+      "?? \"00_Inbox/_pipeline_insights/2026-08-29_arXiv_Beyond Edge Cuts Activity-Weighted Multicast Hypergraph Mapp.md\"",
+      "?? \"00_Inbox/_pipeline_insights/2026-08-29_arXiv_MeMark Membrane-Space Watermarking for Spiking Neural Networ.md\"",
+      "?? \"00_Inbox/_pipeline_insights/2026-08-29_arXiv_MeshReduce-U Compiler-Guided Communication Reduction for Irr.md\"",
+      "?? \"00_Inbox/_pipeline_insights/2026-08-29_arXiv_Metallogenic quantum criticality Fermi surface nucleation at.md\"",
+      "?? \"00_Inbox/_pipeline_insights/2026-08-29_arXiv_Spectral Fingerprints of Gauge Theories on a Quantum Compute.md\"",
+      "?? \"00_Inbox/_pipeline_insights/2026-08-29_arXiv_Study of Resistive Switching Dynamics and Memory States Equi.md\""
     ]
   },
   "health": {

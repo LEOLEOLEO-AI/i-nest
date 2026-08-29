@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[NonlinearDynamicalSampling]]
 [[Nonlinear_Gain]]
+[[PhysicalSubstrateReservoirComputing]]
 [[Reservoir_Computing]]
 [[Self_Organized_Criticality]]
 [[Syncytial_Mesh]]

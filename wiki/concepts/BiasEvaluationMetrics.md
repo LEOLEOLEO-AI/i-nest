@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration_Route]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Complex_System_Theory]]
+[[Constructed_Reality_Prior]]
 [[Environmental_Capability_Context]]
 [[FerroelectricDevice]]
 [[Ferroelectric_Devices]]

@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveSTDP]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BioInspiredSequenceLearning]]
+[[DiscreteSTDPLearning]]
 [[DiscreteSTDP]]
 [[ITP_STDP]]
 [[ITP_STDP_Learning_Engine]]

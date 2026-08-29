@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Reservoir_Topology]]
 [[Fading_Memory_Property]]
 [[Free_Energy_Topology_Mapping]]
+[[GroupInteractionThreshold]]
 [[Gut_Brain_Immune_Network]]
 [[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Integration]]

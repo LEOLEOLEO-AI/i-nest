@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[ElectronicPhotonicIntegratedCircuit]]
 [[Emerging_CMOS_Memristor]]
 [[FerroelectricSemiconductorReservoir]]
+[[FerroelectricSynapticArray]]
 [[Ferroelectric_Devices]]
 [[MeasurementInducedPhaseTransition]]
 [[Memristor_Synapse]]

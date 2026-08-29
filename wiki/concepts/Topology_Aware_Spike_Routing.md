@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[ActivityAvalanche]]
 [[Architectural_Conditioning]]
+[[BioPlausiblePredictiveCoding]]
 [[BurstGatedRouting]]
 [[Criticality]]
 [[DynamicTokenSparsity]]
@@ -35,7 +36,6 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[SDN_Neuromorphic_Interface]]
 [[SNN]]
-[[SNN_NeuroprostheticPipeline]]
 [[Self_Organized_Criticality]]
 [[SparseActivationPattern]]
 [[Spike_Encoding_of_fMRI]]

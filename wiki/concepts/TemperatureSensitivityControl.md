@@ -15,6 +15,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI-ML — 全景导航 (Map of Content)]]
 [[AI_Faculty_Forum_2026]]
 [[ANN动力学]]
 [[Alpha_Computation_Consistency]]
@@ -52,7 +53,6 @@ Auto-extracted concept from raw material compilation.
 [[Renormalization_Group_Emergence]]
 [[ReproducibleReservoirDynamics]]
 [[Reservoir_Computing]]
-[[Residual_Connection]]
 [[Residual_Connection_Removal]]
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
@@ -69,6 +69,7 @@ Auto-extracted concept from raw material compilation.
 [[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
+[[residual connection]]
 [[scaling laws]]
 [[temporalComplexity]]
 [[Γst_Revision]]

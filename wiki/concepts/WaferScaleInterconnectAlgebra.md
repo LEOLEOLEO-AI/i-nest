@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CommunicationAsComputation]]
 [[Deep_Network_Architecture_Invariant]]
 [[Heterogeneous_Integration]]
+[[Mesoscale_Heterogeneous_Integration]]
 [[MicroRouter_Embedding]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]

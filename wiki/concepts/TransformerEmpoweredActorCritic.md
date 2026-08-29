@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Faculty_Forum_2026]]
 [[AcceleratedMaterialScreening]]
+[[AdversarialResilience]]
 [[AllOpticalHebbianLearning]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
@@ -30,7 +31,6 @@ Auto-extracted concept from raw material compilation.
 [[Fractal_Entanglement_Scaling]]
 [[Free_Energy_Principle_Network]]
 [[FunctionalInterfaceBlock]]
-[[FunctionalInterfaceBlocks]]
 [[Heterogeneous_Integration]]
 [[InNetworkAgentRewiring]]
 [[IntegrationProspectsForVLSI]]

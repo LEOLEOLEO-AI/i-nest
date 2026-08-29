@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[3DHI_Interconnect]]
 [[AI_Faculty_Forum_2026]]
+[[Additive_Manufacturing_Topology]]
 [[Allreduce_Latency_Probe]]
 [[Alpha_Computation_Consistency]]
 [[Analog_Weight_Storage]]

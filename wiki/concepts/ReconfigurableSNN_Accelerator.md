@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AINext_Initiative]]
+[[ActivityAvalanche]]
 [[BioInspired_Interception_Control]]
 [[Contested_Priors_Mechanism]]
 [[CriticalityDrivenStateTransition]]

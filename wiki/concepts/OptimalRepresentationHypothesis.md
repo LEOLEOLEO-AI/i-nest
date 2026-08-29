@@ -21,17 +21,16 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
+[[AI_Enabled_Battlefield_Autonomy]]
 [[AI_PPT_Workflow]]
 [[ANN_to_SNN_Conversion_Error_Amplification]]
 [[ActivityAvalanche]]
 [[AddressRedundancyElimination]]
 [[Adjoint_Gradient_Propagation]]
 [[AllOpticalHebbianLearning]]
-[[Analog_Computation]]
 [[Arm_Locomotor_Synergy]]
 [[CollectiveDynamics]]
 [[CorticalTravelingWave]]
-[[CorticalTravelingWaves]]
 [[CrossLayer_SignalRouting]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
@@ -40,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[PPT]]
 [[SNN]]
 [[Spiking_Neural_Network]]
+[[analog computation]]
 [[iNEST]]
 
 ## Sources

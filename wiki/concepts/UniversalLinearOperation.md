@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AnalogDomainCompression]]
 [[AndersonTransition]]
 [[BioInspired_Interception_Control]]
+[[Biologically_Plausible_Learning_Rules]]
 [[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[FatalityDrivenRewiring]]

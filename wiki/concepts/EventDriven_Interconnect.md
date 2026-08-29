@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
+[[1M1T1R_SynapticNeuron]]
 [[AI_Driven_Architecture_Search]]
 [[AI_Forum_Demo_Narrative]]
 [[Activity_Energy_Tradeoff]]
@@ -32,7 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[OptimalGeneralisationNearInterpolation]]
-[[SpikingNeuralNetworkTopologyMapping]]
+[[SpikingNeuralNetworkTopology]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[WirelessSplitComputing]]

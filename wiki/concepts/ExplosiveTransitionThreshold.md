@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Neuromorphic]]
 [[智能涌现]]
 [[涌现]]
+[[神经形态计算]]
 [[神经网络]]
 
 ## Sources

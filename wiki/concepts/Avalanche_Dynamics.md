@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AINext_Initiative]]
 [[AI_Driven_Architecture_Search]]
+[[ActivityAvalanche]]
 [[Agent_Interaction_Sequencing]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]

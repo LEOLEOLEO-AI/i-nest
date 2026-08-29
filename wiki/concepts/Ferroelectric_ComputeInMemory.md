@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Network_Architecture_Invariant]]
 [[Emergent_Intelligence_Threshold]]
 [[FeFET_Polarization_Switching]]
+[[FerroelectricMemoryCell]]
 [[Ferroelectric_Devices]]
 [[HybridResistiveMemoryCIM]]
 [[IMPLYMemristiveISA]]

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Supply_Chain_Increment]]
 [[AI人工智能 卷积神经网络（CNN）_w3cschool]]
 [[ANN动力学]]
+[[AdditiveTopology_Embedding]]
 [[AnteHoc_Explainability]]
 [[BCM滑动阈值]]
 [[CST_Synergy_Coordination]]
@@ -48,7 +49,6 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[iNEST]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

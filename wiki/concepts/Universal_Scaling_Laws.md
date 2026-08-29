@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Network_Neuromorphic_Integration]]
 [[Intelligence_Emergence]]
 [[Memory_Wall]]
+[[Memristive_ANN_Hardware]]
 [[Memristive_STDP]]
 [[Memristor_Network]]
 [[Memristor_Synapse]]
@@ -55,7 +56,6 @@ Auto-extracted concept from raw material compilation.
 [[RTC_Primitive]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Renormalization_Group_Convergence]]
-[[Residual_Connection]]
 [[STDP_Plasticity]]
 [[Spacetime_Coupling_Coefficient]]
 [[SpatiotemporalComplexityIndex]]
@@ -66,6 +66,7 @@ Auto-extracted concept from raw material compilation.
 [[TemporalComplexity]]
 [[chiplet interconnect]]
 [[complex system]]
+[[residual connection]]
 [[scaling laws]]
 [[temporalComplexity]]
 

@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[ANN_SNN_ConversionError]]
 [[Bidirectional_Temporal_Enhancement]]
+[[GroupSynchronization]]
 [[Network_Topology_Design]]
 [[PhaseLockedTopologyMapping]]
 [[PolychronousNeuronalGroups]]
@@ -32,7 +33,6 @@ Auto-extracted concept from raw material compilation.
 [[STDP_iNEST]]
 [[SpikeCodingGradient]]
 [[Spike_timing_dependent_plasticity]]
-[[Spike_timing_dependent_plasticity_learning_rule]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]

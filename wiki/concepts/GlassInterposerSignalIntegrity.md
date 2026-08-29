@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AlgorithmHardware_CoDesign]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[BidirectionalRingTopology]]
 [[CSI_Temporal_Encoding]]
 [[ComplexValuedSNN]]
 [[Distributed_Spike_Communication]]

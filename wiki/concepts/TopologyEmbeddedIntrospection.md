@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CorticalTypeDiversity]]
 [[CouplingMatrixRecovery]]
 [[Coupling_Strength_Encoding]]
+[[Crystallized_Neural_Manifolds]]
 [[DTGA]]
 [[DendriticReservoirState]]
 [[Dynamic_Expert_Fusion]]

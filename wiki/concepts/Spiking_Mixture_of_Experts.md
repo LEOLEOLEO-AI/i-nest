@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[ConductingPolymerDendriteMemory]]
 [[ContinualLearningOnNeuromorphic]]
 [[DelayCodedWorkingMemory]]
+[[DiscreteSTDP]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenPlasticity]]
 [[Event_Driven_Architecture]]

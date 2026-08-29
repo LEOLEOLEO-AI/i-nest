@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AINext_Initiative]]
 [[ActivityAvalanche]]
+[[Activity_Energy_Tradeoff]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[CriticalFixedPoint]]
 [[CriticalStateDynamics]]

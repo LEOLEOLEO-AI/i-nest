@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Faculty_Forum_2026]]
 [[Accessibility_Plasticity]]
+[[BigBrainCellularAxis]]
 [[DTGA]]
 [[FunctionalBrainGraphEmbedding]]
 [[Hierarchical_Interconnect]]
@@ -39,7 +40,6 @@ Auto-extracted concept from raw material compilation.
 [[ReconfigurableSpikingRouting]]
 [[SDI_Bond]]
 [[SDI_STDP]]
-[[SDI_STDP_Rule]]
 [[STDP_Plasticity]]
 [[ScaleFreeNetwork]]
 [[Spiking_Neural_Network]]

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[GroupInteractionThreshold]]
 [[Intelligence_Emergence]]
 [[MagneticMetamaterialReservoir]]
+[[MeasurementInducedNonlinearity]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]

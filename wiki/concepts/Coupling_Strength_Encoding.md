@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Representation_Learning_Generalization]]
 [[Reservoir_Computing]]
 [[Resilient_Satellite_Mesh]]
+[[SemanticRelationTemporalGraph]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[TopologyAwareNeuralInterface]]

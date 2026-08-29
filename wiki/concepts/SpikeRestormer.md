@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AINext_Initiative]]
 [[ANN_SNN_WeightSpaceGap]]
+[[AcousticAnomalyDetection]]
 [[ActiveDendriteSNN]]
 [[ActivityAvalanche]]
 [[Avoided_Criticality]]
@@ -30,7 +31,6 @@ Auto-extracted concept from raw material compilation.
 [[BioInspiredInterceptionTask]]
 [[BioInspiredInterception]]
 [[BulletTrainScheduling]]
-[[BurstSuppressionMechanism]]
 [[BurstSuppression]]
 [[Contested_Prior_Resolution]]
 [[ContinuousTimeSNN]]

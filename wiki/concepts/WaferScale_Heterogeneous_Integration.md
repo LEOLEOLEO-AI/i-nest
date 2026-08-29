@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[EulaminateOverrepresentation]]
 [[GlobalDecision_LocalExecution_ControlPlane]]
+[[HeterogeneousChipletIntegration]]
 [[Heterogeneous_Integration]]
 [[InterChipletPHYModeling]]
 [[Memory_Wall]]

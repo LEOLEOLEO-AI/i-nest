@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Driven_Architecture_Search]]
 [[Autonomous_Spiking_Dynamics]]
 [[Bidirectional_Temporal_Enhancement]]
+[[BioPlausiblePredictiveCoding]]
 [[ContinualLearningOnNeuromorphic]]
 [[EventBasedBioSignalFrontEnd]]
 [[EventDataNonUniformity]]

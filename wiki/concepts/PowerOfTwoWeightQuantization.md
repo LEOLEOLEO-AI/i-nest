@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[Yann LeCun：发现智能原理是AI的终极问题]]
 [[iNEST]]
+[[新型计算]]
 [[智能涌现]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]

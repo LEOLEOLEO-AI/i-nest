@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AINext_Initiative]]
 [[ActiveDendriteSNN]]
+[[AdaptiveAsymmetricSurrogateGradient]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BioInspiredSequenceLearning]]
 [[Contested_Prior_Resolution]]

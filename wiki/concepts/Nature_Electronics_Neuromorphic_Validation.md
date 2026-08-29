@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Distributed_Spike_Communication]]
 [[Environmental_Capability_Context]]
 [[EventCameraActionRecognition]]
+[[FirstPrinciples_Derivation]]
 [[Heterogeneous_Integration]]
 [[LIF_Neuron_Model]]
 [[Memristive_Spike_Integration]]

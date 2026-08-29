@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[BioPlausiblePredictiveCoding]]
 [[BiologicalNoiseMimicry]]
 [[CirculateFiringNeuron]]
+[[CollectiveSpikingDynamics]]
 [[CompartmentalNeuronModel]]
 [[ComplexValuedSNN]]
 [[CoreComputationSubspace]]

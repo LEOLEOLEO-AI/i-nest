@@ -4,9 +4,9 @@
 **Last Grow**: 2026-08-29
 
 ## Stats
-- **Total Concepts**: 5107
-- **Total Articles**: 1060
-- **Orphan Concepts**: 2086
+- **Total Concepts**: 5105
+- **Total Articles**: 1061
+- **Orphan Concepts**: 2115
 - **Knowledge Graph Density**: High
 
 ## Orphan Concepts (no incoming links)
@@ -50,7 +50,7 @@
 - [[BNN vs ANN (1)]]
 - [[Backpropagation_Comparison]]
 - [[BandedNonHermitianRandomMatrix]]
-- ... 2046 more
+- ... 2075 more
 
 ## Next Steps
 1. Run `[[wiki_compiler.py]]` after each new raw import.

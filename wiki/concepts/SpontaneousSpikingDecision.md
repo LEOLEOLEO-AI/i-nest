@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Avoided_Criticality]]
 [[BurstGatedRouting]]
 [[Criticality]]
+[[DynamicalSelfDualCriticality]]
 [[Interconnect_Routing]]
 [[MoE_Routing]]
 [[Neuromorphic_Computing]]

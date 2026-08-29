@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[156QubitScale]]
 [[20W_Brain_Inspired_Planning]]
 [[3DGS_Scene_Graph]]
+[[ActiveMatterSubstrate]]
 [[Complex_System_Theory]]
 [[DistributedInference]]
 [[EndocrineAxisDysregulation]]

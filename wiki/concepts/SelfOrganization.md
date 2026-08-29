@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AINext_Initiative]]
 [[Avoided_Criticality]]
+[[Biologically_Plausible_Learning_Rules]]
 [[BurstTemporalPlasticity]]
 [[Criticality]]
 [[Dynamic_Expert_Fusion]]

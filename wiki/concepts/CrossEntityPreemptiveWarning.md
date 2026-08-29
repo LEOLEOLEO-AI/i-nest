@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[MultiModel_Adapter_Architecture]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Planning_Revolution]]
 [[NonEquilibriumComputing]]
 [[PowerLawScaling]]
 [[RealTimeImageToEventConversion]]

@@ -1,4 +1,4 @@
-## 今日焦点 — 2026-08-27
+## 今日焦点 — 2026-08-29
 
 **并行主线 (7月30日前)**
 
@@ -7,12 +7,11 @@
 3. [专利] TCC 架构 + 实现专利 — 申报
 4. [工程] CST 仿真实验 — SDI N=1024 相位扫描
 
-## 今日文献 (2 TCC + 3 iNEST)
+## 今日文献 (1 TCC + 6 iNEST)
 
-- [TCC] Thermal Tuning Overhead in Wafer-Scale Optical Interconnects for LLM M
-- [TCC] NoC-Out: A Formally-verified Network-on-Chip Library for Rule-based Ha
-- [iNEST] Small-World Communication Fabrics for Neuromorphic Multicore-SoCs
-- [iNEST] Sensor Drift Compensation via Olfactory system and Reservoir Computing
-- [iNEST] Low-Latency Activation-Regularized Sparse Neural Operators with Distil
+- [TCC] MeshReduce-U: Compiler-Guided Communication Reduction for Irregular Ne
+- [iNEST] Syn2Logic: End-to-End Neuromorphic Design Automation
+- [iNEST] Study of Resistive Switching Dynamics and Memory States Equilibria in 
+- [iNEST] Spectral Fingerprints of Gauge Theories on a Quantum Computer
 
-*生成于 2026-08-27 06:43*
+*生成于 2026-08-29 06:43*

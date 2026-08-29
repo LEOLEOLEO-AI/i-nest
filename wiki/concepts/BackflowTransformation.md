@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[BigBrainCellularAxis]]
 [[Brain_Connectome]]
+[[CST_Intelligence_Emergence]]
 [[CST_MasterEquation]]
 [[Complex_System_Theory]]
 [[Connectome]]

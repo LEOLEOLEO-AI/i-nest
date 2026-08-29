@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[2026-06-15_大脑的量子纠缠与信息动力学]]
 [[AINext_Initiative]]
+[[ANN_SNN_WeightSpaceGap]]
 [[Avoided_Criticality]]
 [[Catastrophic_Forgetting_Mitigation]]
 [[Contested_Priors_Architecture]]
@@ -34,7 +35,9 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenMotionDeblurring]]
 [[GPU_Cluster_SNN_Architecture]]
 [[Neuromorphic_Computing]]
+[[SNN]]
 [[Self_Organized_Criticality]]
+[[Spiking_Neural_Network]]
 [[criticality]]
 [[iNEST]]
 

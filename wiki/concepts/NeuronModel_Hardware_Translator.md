@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
+[[PowerOfTwoWeightQuantization]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[STDP_Plasticity]]
@@ -50,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[新型计算]]
 [[神经形态计算突破：脉冲神经网络实现机器人超低功耗定位新范式]]
 [[神经网络]]
+[[脉冲神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

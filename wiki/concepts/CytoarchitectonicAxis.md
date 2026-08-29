@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Heterogeneous_Integration]]
 [[HodgkinHuxleyDynamics]]
+[[InkjetPrintedElectrochemicalSensors]]
 [[Intelligence_Emergence]]
 [[Memristive_STDP]]
 [[Memristor_Network]]

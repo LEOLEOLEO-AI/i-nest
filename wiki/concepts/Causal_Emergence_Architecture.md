@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[ArchitecturalCondition]]
 [[Architectural_Conditioning]]
 [[Attention_Residuals]]
+[[BigBrainCellularAxis]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Wafer_Topology]]
 [[ComputationEfficientDeepLearning]]

@@ -60,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[智能涌现]]
 [[涌现]]
+[[神经形态计算]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

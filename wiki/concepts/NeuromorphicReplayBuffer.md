@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Cross_Node_Event_Propagation]]
 [[EventDrivenPlasticity]]
 [[FixedOverheadDominance]]
+[[Loihi2_OnChip_Learning]]
 [[MeasurementInducedPhaseTransition]]
 [[Neuromorphic_Computing]]
 [[OscillatoryReservoirDynamics]]

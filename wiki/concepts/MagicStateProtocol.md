@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[20W_Brain_Inspired_Planning]]
 [[AI-ML — 全景导航 (Map of Content)]]
 [[AsymmetricStochasticInteractions]]
+[[AttentionMap_DifferenceResidual]]
 [[CST计量仪]]
 [[Complex_System_Theory]]
 [[DataCenter_Chip_Logic_Compression]]

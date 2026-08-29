@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[12_三原理协同_FEP_最小作用量_STDP]]
 [[3DGS_Scene_Graph]]
 [[ActiveMatterSubstrate]]
+[[AgentReputationGraph]]
 [[AndersonLocalizationTopology]]
 [[Annealing_Based_Decoder]]
 [[AsymmetricStochasticInteractions]]
@@ -45,7 +46,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[iNEST]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Prior_Resolution]]
 [[CriticalFixedPoint]]
 [[CriticalRegimeReservoir]]
+[[Critical_Exponent_Scaling]]
 [[Criticality]]
 [[DendriticReservoirState]]
 [[DifferentiableLifting]]

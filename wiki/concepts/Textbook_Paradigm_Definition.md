@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Complex_System_Theory]]
+[[Complexity_Emergence_Engineering]]
 [[DRBE_MVP_Mainchain]]
 [[DataProvenanceIntegrity]]
 [[Deep_Network_Architecture_Invariant]]
@@ -39,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Memory_Wall]]
 [[Memristive_STDP]]
 [[Memristor_Network]]
+[[Memristor_Synapse]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Spatiotemporal_Synergy]]
@@ -54,7 +56,6 @@ Auto-extracted concept from raw material compilation.
 [[Photonic_Chiplet_Interconnect]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Renormalization_Group_Convergence]]
-[[Residual_Connection]]
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SDSoW]]
@@ -73,6 +74,7 @@ Auto-extracted concept from raw material compilation.
 [[Topology_Centric_Computing]]
 [[chiplet interconnect]]
 [[iNEST]]
+[[residual connection]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

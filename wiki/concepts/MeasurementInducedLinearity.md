@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Active_Inference_Architecture]]
 [[ActivityAvalanche]]
 [[AdaptiveArchitecture]]
+[[AdaptiveCombinerWeighting]]
 [[AdaptiveFunctionalTopology]]
 [[AdaptivePhotonicRouter]]
 [[Adaptive_Service_Reconfiguration]]

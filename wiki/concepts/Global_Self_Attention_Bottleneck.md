@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[1M1T1R_SynapticNeuron]]
 [[20W_Brain_Inspired_Planning]]
 [[AIRA_NeuralArchSearch]]
@@ -28,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[ActionPrototypeClustering]]
 [[ActiveDendriteSNN]]
 [[Neuromorphic_Computing]]
+[[SNN]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

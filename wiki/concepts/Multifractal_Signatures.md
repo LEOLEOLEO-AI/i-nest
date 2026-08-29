@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[ForwardFluctuationGradient]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[Loihi2_OnChip_Learning]]
 [[Metriplectic_Twin]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Chiplet]]

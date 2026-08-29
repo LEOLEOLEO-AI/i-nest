@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspiredSequenceLearning]]
 [[DiscreteSTDP]]
 [[FunctionalInterfaceBlock]]
+[[GroupSynchronization]]
 [[IntrinsicTimingSTDP]]
 [[Learning_Rule_Comparison]]
 [[Memristive_STDP]]

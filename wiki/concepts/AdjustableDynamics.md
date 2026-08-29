@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[MemristiveReservoirBranchPrediction]]
 [[Memristive_InMemory_Computing]]
 [[Memristor_Synapse]]
+[[NeurovascularUnitEngineering]]
 [[PhysicalReservoir]]
 [[Reservoir_Computing]]
 [[Spiking_Neural_Network]]

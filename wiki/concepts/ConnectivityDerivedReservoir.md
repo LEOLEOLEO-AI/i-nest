@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AdversarialResilience]]
 [[AlternativeBridgingModels]]
 [[Biomanufacturing_Control_Loop]]
+[[Bosonic_SPT_Phases]]
 [[CoupledOscillatorReservoir]]
 [[CriticalStateReservoir]]
 [[DivergentHigherAreaRanking]]

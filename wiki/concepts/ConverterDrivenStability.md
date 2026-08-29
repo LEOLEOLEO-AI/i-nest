@@ -21,10 +21,10 @@ Auto-extracted concept from raw material compilation.
 
 [[Allreduce_Latency_Probe]]
 [[AnomalousSpinTransport]]
+[[Avoided_Criticality]]
 [[BandedConnectivityModel]]
 [[BigBrainCellularAxis]]
 [[BrownianCastleInterface]]
-[[BrownianCastleInterfaces]]
 [[Chiplet_Based_Neuromorphic_Integration]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
+[[TopologicalPhaseTransition]]
 [[iNEST]]
 
 ## Sources

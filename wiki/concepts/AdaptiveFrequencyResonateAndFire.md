@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveSpeechToSpikeEncoding]]
 [[AsynchronousEventDrivenComputation]]
 [[BayesianDomainEvolution]]
+[[Biologically_Plausible_Learning_Rules]]
 [[Criticality]]
 [[Cytokine_Feedback_Loops]]
 [[DynamicalCriticality]]

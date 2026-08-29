@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[4H_SiC_SubstrateProcessing]]
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_FullSpectrum_Strategy]]
+[[AcceleratedMaterialScreening]]
 [[Allreduce_Latency_Probe]]
 [[AnalogInMemoryComputing]]
 [[Architectural_Conditioning]]

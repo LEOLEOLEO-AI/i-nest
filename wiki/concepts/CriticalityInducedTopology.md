@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[BurstGatedRouting]]
 [[CellEmergence]]
+[[CriticalFixedPoint]]
 [[Criticality]]
 [[Dynamic_Expert_Fusion]]
 [[EventDrivenRiskAssessment]]

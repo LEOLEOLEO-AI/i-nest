@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[AI_Driven_Architecture_Search]]
 [[AI_Forum_Demo_Narrative]]
+[[AlloyDisorderEngineering]]
 [[BackflowTransformation]]
 [[BurstGatedRouting]]
 [[Continuous_Spatiotemporal_State_Propagation]]

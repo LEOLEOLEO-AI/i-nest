@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[BrainInspired_Chip]]
 [[BurstGatedRouting]]
 [[ConductingPolymerDendriteMemory]]
+[[ContinualLearningOnNeuromorphic]]
 [[Event_Driven_Architecture]]
 [[Interconnect_Routing]]
 [[LocalLearning_SynapticUpdate]]

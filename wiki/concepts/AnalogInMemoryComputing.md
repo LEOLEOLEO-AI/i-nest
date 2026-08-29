@@ -20,7 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Faculty_Forum_2026]]
-[[Analog_Computation]]
+[[Additive_Manufacturing_Supply_Chain]]
 [[Analog_Synaptic_Weighting]]
 [[Attention_Residuals]]
 [[ChipletWaferInterconnectTopology]]
@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[RenormalizationGroup_ScalingLaws]]
 [[SpatiotemporalComplexityIndex]]
 [[TCC]]
+[[analog computation]]
 [[chiplet interconnect]]
 [[iNEST_Wafer]]
 [[temporalComplexity]]

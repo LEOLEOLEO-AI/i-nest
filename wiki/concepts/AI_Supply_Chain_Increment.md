@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[GNN图神经网络，非结构化数据分析利器！]]
 [[GroupWise_DragonflyPlus]]
 [[Heterogeneous_Integration]]
+[[Heterogeneous_P_D_Inference]]
 [[Intelligence_Emergence]]
 [[Milinkovic B (2024)：复杂神经系统涌现动力学结构]]
 [[Nature Communications：具有片上学习的神经形态处理器，用于超越CMOS设备的集成]]
@@ -48,11 +49,9 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[TCC]]
-[[TCC_RTC原语架构与SDI拓扑变换机理]]
 [[complex system]]
 [[iNEST]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

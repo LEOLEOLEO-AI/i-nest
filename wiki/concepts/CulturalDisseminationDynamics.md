@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[EdgeIoTEnergyAwareness]]
 [[Edge_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
+[[ExplosiveTransitionThreshold]]
 [[FlexibilityThreshold]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

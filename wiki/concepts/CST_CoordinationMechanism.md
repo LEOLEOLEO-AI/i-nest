@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[EmergentTaskDecomposition]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
+[[Emerging_CMOS_Memristor]]
 [[Epithelial_Barrier_Integrity]]
 [[Fading_Memory_Property]]
 [[FirstPrinciples_AI]]

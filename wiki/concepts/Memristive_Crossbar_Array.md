@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AdaptiveBitPrecisionExploration]]
 [[Allreduce_Latency_Probe]]
+[[Analog_InMemory_Processing]]
 [[Architectural_Conditioning]]
 [[CoPackagedOptics]]
 [[ConsciousIntegration]]

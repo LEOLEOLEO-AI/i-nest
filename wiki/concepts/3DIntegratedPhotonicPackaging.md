@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[3D_IC_Stacking]]
 [[AI_Faculty_Forum_2026]]
 [[AI_Industrial_Ecosystem]]
+[[Allreduce_Latency_MVP]]
 [[Analog_Weight_Storage]]
 [[Architectural_Conditioning]]
 [[Attention_Residuals]]

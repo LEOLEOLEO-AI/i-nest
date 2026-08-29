@@ -21,11 +21,11 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
+[[ANN_SNN_ConversionError]]
 [[ANN_to_SNN_Conversion_Error_Amplification]]
 [[ActivityAvalanche]]
 [[AddressRedundancyElimination]]
 [[AllOpticalHebbianLearning]]
-[[Analog_Computation]]
 [[CompartmentalNeuronModel]]
 [[ComplexValuedSNN]]
 [[CurrentInjectionSNN]]
@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[SpatialPhotonicProgramming]]
 [[Spiking_Neural_Network]]
+[[analog computation]]
 [[iNEST]]
 
 ## Sources

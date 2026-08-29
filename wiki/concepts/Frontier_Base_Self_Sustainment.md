@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[ArchitecturalGrounding]]
 [[Architectural_Conditioning]]
+[[AthermalRandomFieldBlumeCapel]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
 [[DifferentiableRasterizationPipeline]]
@@ -55,7 +56,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[complex system]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

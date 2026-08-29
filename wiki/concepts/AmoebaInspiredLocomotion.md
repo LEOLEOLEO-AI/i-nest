@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[Dynamic_Expert_Fusion]]
+[[DynamicalSelfDualCriticality]]
 [[EnsembleCreditAssignment]]
 [[Interconnect_Routing]]
 [[MoE_Routing]]

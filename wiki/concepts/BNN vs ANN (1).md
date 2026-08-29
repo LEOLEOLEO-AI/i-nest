@@ -27,8 +27,10 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 
 [[3DGS_Scene_Graph]]
 [[3D_Torus_6_Degree]]
+[[ActiveMatterSubstrate]]
 [[CST计量仪]]
 [[Complex_System_Theory]]
+[[Intelligence_Emergence]]
 [[Nat_Hum_Behav_用「全拓扑网络」重塑视皮层地图]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
@@ -42,3 +44,5 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[getnote_2026-06-27_智能涌现理论框架]]
 [[iNEST]]
 [[复杂度的计算 (1)]]
+[[智能涌现]]
+[[涌现]]

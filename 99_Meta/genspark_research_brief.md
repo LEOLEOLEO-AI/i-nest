@@ -1,11 +1,11 @@
 ---
-title: iNEST+TCC Research Brief - 2026-08-27
-date: 2026-08-27
+title: iNEST+TCC Research Brief - 2026-08-29
+date: 2026-08-29
 type: research-brief
 target: genspark
 ---
 
-# iNEST + TCC Research Brief - 2026-08-27
+# iNEST + TCC Research Brief - 2026-08-29
 
 > For Genspark deep analysis. Contains actionable research context.
 
@@ -33,23 +33,23 @@ target: genspark
 
 ## 4. Inbox Highlights
 
-- [2026-08-27] **2026-08-27_arXiv_Discovering Adaptive Transmission Programs for Collective In** (_pipeline_insights)
-- [2026-08-27] **2026-08-27_arXiv_Multi-Source Complex Network Reconstruction via Wasserstein ** (_pipeline_insights)
-- [2026-08-27] **2026-08-27_arXiv_Small-World Communication Fabrics for Neuromorphic Multicore** (_pipeline_insights)
-- [2026-08-27] **2026-08-27_arXiv_Low-Latency Activation-Regularized Sparse Neural Operators w** (_pipeline_insights)
-- [2026-08-27] **2026-08-27_arXiv_Sensor Drift Compensation via Olfactory system and Reservoir** (_pipeline_insights)
-- [2026-08-27] **2026-08-27_arXiv_NoC-Out A Formally-verified Network-on-Chip Library for Rule** (_pipeline_insights)
-- [2026-08-27] **2026-08-27_arXiv_Thermal Tuning Overhead in Wafer-Scale Optical Interconnects** (_pipeline_insights)
-- [2026-08-26] **美军通信技术解析** (root)
+- [2026-08-29] **2026-08-29_arXiv_Beyond Edge Cuts Activity-Weighted Multicast Hypergraph Mapp** (_pipeline_insights)
+- [2026-08-29] **2026-08-29_arXiv_Syn2Logic End-to-End Neuromorphic Design Automation** (_pipeline_insights)
+- [2026-08-29] **2026-08-29_arXiv_MeMark Membrane-Space Watermarking for Spiking Neural Networ** (_pipeline_insights)
+- [2026-08-29] **2026-08-29_arXiv_Study of Resistive Switching Dynamics and Memory States Equi** (_pipeline_insights)
+- [2026-08-29] **2026-08-29_arXiv_Metallogenic quantum criticality Fermi surface nucleation at** (_pipeline_insights)
+- [2026-08-29] **2026-08-29_arXiv_Spectral Fingerprints of Gauge Theories on a Quantum Compute** (_pipeline_insights)
+- [2026-08-29] **2026-08-29_arXiv_MeshReduce-U Compiler-Guided Communication Reduction for Irr** (_pipeline_insights)
+- [2026-08-28] **面向无人作战的晶上云系统项目论证与立项推进会议** (root)
 
 ## 5. Knowledge Graph Hotspots
 
-Total notes: 10907
-Graph nodes: 12351 | edges: 138866
+Total notes: 10961
+Graph nodes: 10899 | edges: 149077
 
 Top connected topics:
-- **backlinks** (degree=6329)
-- **index** (degree=5083)
+- **backlinks** (degree=6350)
+- **index** (degree=5092)
 - **00_iNEST_全景知识图谱** (degree=1182)
 - **神经科学、AGI与神经形态计算的融合：统一研究范式与挑战** (degree=395)
 - **TCC_iNEST_成果全景** (degree=291)
@@ -62,4 +62,4 @@ Top connected topics:
 (Run innovation_engine.py to generate)
 
 ---
-*Research brief auto-generated 2026-08-27 06:42*
+*Research brief auto-generated 2026-08-29 06:42*

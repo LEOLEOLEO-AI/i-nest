@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
+[[1M1T1R_SynapticNeuron]]
 [[AI_Faculty_Forum_2026]]
 [[Advanced_Packaging_for_Space]]
 [[AnalogInMemoryComputing]]

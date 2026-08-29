@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Connectome_Reservoir]]
 [[EvolutionaryReservoirLearning]]
 [[GraphEmbeddedReservoir]]
+[[HierarchicalModularReservoirs]]
 [[In_Context_Learning]]
 [[Network_Topology_Design]]
 [[NeuromorphicHardware]]

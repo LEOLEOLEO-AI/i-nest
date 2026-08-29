@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Integration]]
 [[Intelligence_Emergence]]
+[[Macro_System_Description]]
 [[Memory_Wall]]
 [[MetricComputationAuthenticity]]
 [[Network_Topology_Design]]
@@ -55,7 +56,6 @@ Auto-extracted concept from raw material compilation.
 [[RTC_Primitive]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Renormalization_Group_Convergence]]
-[[Residual_Connection]]
 [[Spacetime_Coupling_Coefficient]]
 [[SpatiotemporalComplexityIndex]]
 [[SuperparamagneticSwitchingRate]]
@@ -65,6 +65,7 @@ Auto-extracted concept from raw material compilation.
 [[TemporalComplexity]]
 [[chiplet interconnect]]
 [[complex system]]
+[[residual connection]]
 [[spacetime coupling coefficient]]
 [[temporalComplexity]]
 

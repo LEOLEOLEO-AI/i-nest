@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_Network_Class_Brain_Computing]]
 [[Complex_System_Theory]]
 [[DendriticTaskPartitioning]]
+[[DrivenDissipativeDynamics]]
 [[FPGA_Neuromorphic_Architectures]]
 [[FirstPrinciples_Derivation]]
 [[HierarchicalSpikePropagation]]

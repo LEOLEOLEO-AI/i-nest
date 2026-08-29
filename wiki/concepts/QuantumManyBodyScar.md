@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[AdditiveTopology_Embedding]]
 [[Advanced_Computing_Project]]
 [[Alpha_Coefficient_Phase_Transition_Amplification]]
+[[Asymmetric_Interaction_Graph]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
@@ -44,7 +45,6 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[neuromorphic computing]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

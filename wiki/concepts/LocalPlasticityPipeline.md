@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[Dynamic_Expert_Fusion]]
+[[DynamicalSelfDualCriticality]]
 [[Emergent_Intelligence_Threshold]]
 [[EnsembleCreditAssignment]]
 [[Intelligence_Emergence]]
@@ -44,7 +45,6 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
-[[local plasticity rule]]
 [[local plasticity]]
 
 ## Sources

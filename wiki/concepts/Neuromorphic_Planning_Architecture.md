@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[BiasEvaluationMetrics]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BigBrainCellularAxis]]
+[[BioPlausiblePredictiveCoding]]
 [[Contested_Prior_Resolution]]
 [[Criticality]]
 [[Event_Driven_Architecture]]

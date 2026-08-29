@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AmorphousSolidPlasticity]]
 [[AnomalousSpinTransport]]
 [[BiologicalNoiseMimicry]]
+[[Biomanufacturing_Control_Loop]]
 [[Course_Based_FPGA_Projects]]
 [[DARPA_ProjectManager_Model]]
 [[DARPA_Project_Group_Strategy]]

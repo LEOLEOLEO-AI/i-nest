@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Evolutionary_Computability]]
 [[Exponential_CST_Coupling]]
 [[FlagOS_2_0]]
+[[FlagScale]]
 [[Heterogeneous_Integration]]
 [[Memory_Wall]]
 [[MetricComputationAuthenticity]]
@@ -55,7 +56,6 @@ Auto-extracted concept from raw material compilation.
 [[RTC_Primitive]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Renormalization_Group_Convergence]]
-[[Residual_Connection]]
 [[Spacetime_Coupling_Coefficient]]
 [[SpatiotemporalComplexityIndex]]
 [[SuperlinearGain]]
@@ -68,6 +68,7 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[heterogeneous_integration]]
 [[neuromorphic computing]]
+[[residual connection]]
 [[temporalComplexity]]
 
 ## Sources

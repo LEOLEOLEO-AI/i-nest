@@ -46,7 +46,6 @@ Auto-extracted concept from raw material compilation.
 [[Photonic_Chiplet_Interconnect]]
 [[RTC_Primitive]]
 [[Renormalization_Group_Convergence]]
-[[Residual_Connection]]
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SDSoW_Architecture]]
@@ -65,8 +64,10 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
 [[Wafer_Scale_Neuromorphic]]
+[[Wafer_Scale_Neuromorphic_Integration]]
 [[chiplet interconnect]]
 [[iNEST]]
+[[residual connection]]
 [[temporalComplexity]]
 [[topology reconfiguration]]
 

@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkNeuromorphicSimulation]]
 [[Intelligence_Emergence]]
 [[KernelRegimeScaling]]
+[[MushroomBodyModes]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Parallelized_Hierarchical_Connectome]]

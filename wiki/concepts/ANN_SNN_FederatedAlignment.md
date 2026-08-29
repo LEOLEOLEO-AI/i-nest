@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
+[[3D_Torus_6_Degree]]
 [[AI_PPT_Workflow]]
 [[ANN_to_SNN_Conversion_Error_Amplification]]
 [[ActivityAvalanche]]
@@ -31,7 +32,6 @@ Auto-extracted concept from raw material compilation.
 [[BarrierConditionedTrajectory]]
 [[Cascading_Failure_Mitigation]]
 [[CorticalTravelingWave]]
-[[CorticalTravelingWaves]]
 [[CriticalStateInformationMaximization]]
 [[Nonlinear_Gain]]
 [[PPT]]

@@ -20,7 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
-[[Analog_Computation]]
+[[AI_Faculty_Forum_2026]]
 [[AnomalousSpinTransport]]
 [[BurstInterleaving]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -36,8 +36,12 @@ Auto-extracted concept from raw material compilation.
 [[ReproducibleReservoirComputing]]
 [[Reservoir_Computing]]
 [[Residual_Connection_Removal]]
+[[SDI_Bond]]
 [[SDI_TCC_iNEST_Interconnect]]
+[[TCC]]
+[[analog computation]]
 [[iNEST]]
+[[iNEST_Interconnect]]
 [[neuromorphic interconnect]]
 
 ## Sources

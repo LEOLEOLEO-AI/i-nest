@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Bidirectional_Temporal_Enhancement]]
 [[BioInspiredSequenceLearning]]
+[[GroupSynchronization]]
 [[Layered_Attractive_Hubbard_Model]]
 [[Network_Topology_Design]]
 [[NeuromorphicHardware]]
@@ -34,7 +35,6 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[Spike_timing_dependent_plasticity]]
-[[Spike_timing_dependent_plasticity_learning_rule]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[WeightedSTDP]]

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[AlloyDisorderEngineering]]
 [[Allreduce_Latency_Probe]]
+[[ApproximateMacroscopicDynamics]]
 [[Architectural_Conditioning]]
 [[AstrocyteInspiredRepair]]
 [[BigBrainCellularAxis]]

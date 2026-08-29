@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_STDP]]
 [[SDI_STDP_Bond]]
 [[SNN]]
+[[SNN_STDP_CoDesign]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[ST_SNN]]

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[CST计量仪]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_based_heterogeneous_integration]]
 [[CircadianGateModulation]]
 [[Complex_System_Theory]]
 [[Deep_Network_Architecture_Invariant]]

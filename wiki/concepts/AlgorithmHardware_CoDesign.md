@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[BidirectionalRingTopology]]
 [[DTGA]]
 [[Distributed_Spike_Communication]]
 [[GradientFreeSNNTraining]]

@@ -18,8 +18,8 @@ Auto-extracted concept from raw material compilation.
 [[AI-ML — 全景导航 (Map of Content)]]
 [[AI_Faculty_Forum_2026]]
 [[ANN动力学]]
-[[Analog_Computation]]
 [[Analog_Weight_Storage]]
+[[AnomalousSpinTransport]]
 [[Attention_Residuals]]
 [[BigBrainCellularAxis]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -53,7 +53,6 @@ Auto-extracted concept from raw material compilation.
 [[Photonic_Chiplet_Interconnect]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Renormalization_Group_Convergence]]
-[[Residual_Connection]]
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[STDP_Plasticity]]
@@ -67,8 +66,10 @@ Auto-extracted concept from raw material compilation.
 [[Topology_Interconnect]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
+[[analog computation]]
 [[chiplet interconnect]]
 [[iNEST]]
+[[residual connection]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

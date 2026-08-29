@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[CriticalityDrivenStateTransition]]
 [[Criticality]]
+[[DynamicalSelfDualCriticality]]
 [[Emergent_Intelligence_Threshold]]
 [[HumanVisionInspiredSNN]]
 [[InNetworkAgentRewiring]]

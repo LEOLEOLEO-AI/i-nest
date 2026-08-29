@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AnomalousSpinTransport]]
 [[AstrocyteInspiredRepair]]
 [[Biomanufacturing_Control_Loop]]
+[[Bosonic_SPT_Phases]]
 [[CirculateFiringNeuron]]
 [[DivergentHigherAreaRanking]]
 [[Dynamic_Expert_Fusion]]
@@ -48,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[Reservoir_Computing_Branch_Prediction]]
 [[iNEST]]
+[[reservoir computing architecture]]
 [[reservoir computing]]
 
 ## Sources

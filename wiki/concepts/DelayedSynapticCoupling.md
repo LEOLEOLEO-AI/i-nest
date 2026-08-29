@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[GNN图神经网络，非结构化数据分析利器！]]
 [[HeterogeneousPD_Inference_BoundaryContract]]
 [[Heterogeneous_P_D_Inference]]
+[[Hippocampal_Spatiotemporal_Prior]]
 [[Intelligence_Emergence]]
 [[Memory_Technology_Role_Specialization]]
 [[Milinkovic B (2024)：复杂神经系统涌现动力学结构]]
@@ -54,7 +55,6 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[temporal coding]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

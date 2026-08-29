@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Package_Neuromorphic_Integration]]
 [[NestedRepresentation]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[iNEST]]
 
 ## Sources

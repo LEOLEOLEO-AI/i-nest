@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AINext_Initiative]]
 [[ANN_to_SNN_Conversion_Error_Amplification]]
+[[ActivityAvalanche]]
 [[AdaptiveAsymmetricSurrogateGradient]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]

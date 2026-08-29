@@ -39,6 +39,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
+[[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Deep_Network_Architecture_Invariant]]
 [[EmergentOrder]]
 [[Heterogeneous_Integration]]
@@ -71,5 +72,4 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[iNEST]]
 [[智能涌现]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[类脑芯片]]

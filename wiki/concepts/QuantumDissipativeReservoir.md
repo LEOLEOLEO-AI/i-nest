@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AnalogInMemoryComputing]]
 [[Analog_Synaptic_Weighting]]
 [[Architectural_Conditioning]]
+[[Branch_Prediction_Reservoir]]
 [[DARPA_ProjectManager_Model]]
 [[Dynamic_Expert_Fusion]]
 [[Emerging_CMOS_Memristor]]
@@ -48,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologicalAndersonChernInsulator]]
 [[branch prediction]]
 [[pipelined processor]]
+[[reservoir computing architecture]]
 [[reservoir computing]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

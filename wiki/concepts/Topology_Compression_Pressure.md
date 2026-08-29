@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[3DHI_Chiplet_Integration]]
 [[AI_Faculty_Forum_2026]]
 [[AnalogInMemoryComputing]]
@@ -29,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[BoundaryObject_Abstraction]]
 [[CST_MasterEquation]]
 [[CST_Spatiotemporal_Complexity]]
+[[Chiplet_Heterogeneous_Integration]]
 [[CoarseGrainingFlow]]
 [[Complex_System_Theory]]
 [[DARPA_ProjectManager_Model]]

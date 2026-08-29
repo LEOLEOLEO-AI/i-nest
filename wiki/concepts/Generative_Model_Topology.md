@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicTopologyMapping]]
 [[FerroelectricDevice]]
 [[Ferroelectric_Devices]]
+[[GraphStructuredRetrieval]]
 [[Heterogeneous_Integration]]
 [[HigherOrderSynchronization]]
 [[Knowledge_Graph_Navigation]]

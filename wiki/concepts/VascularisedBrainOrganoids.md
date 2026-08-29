@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Criticality]]
 [[Criticality_Induced_Plasticity]]
+[[DynamicalSelfDualCriticality]]
 [[EdgeOfChaos]]
 [[Edge_of_Chaos_Coastal_Dynamics]]
 [[Emergent_Intelligence_Threshold]]

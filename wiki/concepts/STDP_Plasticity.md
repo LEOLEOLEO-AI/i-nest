@@ -37,7 +37,6 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[Renormalization_Group_Convergence]]
 [[Reservoir_Computing]]
-[[Residual_Connection]]
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SNN]]
@@ -56,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[UniversalIntelligence_Emergence]]
 [[complex system]]
 [[iNEST]]
+[[residual connection]]
 [[temporalComplexity]]
 [[三原理协同_FEP_STDP_最小作用量]]
 

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[Criticality]]
 [[Criticality_Based_Feature_Extraction]]
+[[EnergyProportionalityCeiling]]
 [[EventDrivenRiskAssessment]]
 [[Event_Driven_Architecture]]
 [[FoveationGuidedTokenSelection]]
@@ -43,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[Topology_Aware_Spike_Routing]]
 [[avalanche dynamics]]
+[[neural avalanche dynamics]]
 [[neural avalanche]]
 
 ## Sources

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AvalancheBranchingRatio]]
 [[BranchingRatio]]
 [[CST_Theory]]
+[[CST_Theory_V27_FINAL]]
 [[ChipletWaferInterconnectScaling]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]

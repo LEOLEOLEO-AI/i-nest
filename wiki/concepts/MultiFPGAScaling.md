@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_FullSpectrum_Strategy]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[BidirectionalRingTopology]]
 [[CSI_Temporal_Encoding]]
 [[Communication_Trace_Diagnostics]]
 [[ComplexValuedSNN]]

@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Bidirectional_Temporal_Enhancement]]
 [[BrainInspiredArchitecture]]
+[[BrainInspired_Chip]]
 [[CIMWeightUpdateAwareness]]
 [[ConductingPolymerDendriteMemory]]
 [[Event_Driven_Architecture]]

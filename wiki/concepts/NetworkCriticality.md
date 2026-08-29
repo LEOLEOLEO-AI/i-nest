@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Compressive_Sensing_Reservoir]]
 [[CouplingTopologyInducedDynamics]]
 [[CriticalFixedPoint]]
+[[CriticalRegimeReservoir]]
 [[Criticality]]
 [[Network_Topology_Design]]
 [[Reservoir_Computing]]

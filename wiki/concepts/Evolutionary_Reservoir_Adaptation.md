@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AcademicDevelopmentCoCreation]]
 [[AcceleratedMaterialScreening]]
 [[AlternativeBridgingModels]]
+[[Biomanufacturing_Control_Loop]]
 [[Compressed_Glass_Network]]
 [[Crystallized_Neural_Manifolds]]
 [[DivergentHigherAreaRanking]]

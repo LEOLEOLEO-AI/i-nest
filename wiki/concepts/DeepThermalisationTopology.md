@@ -26,19 +26,19 @@ Auto-extracted concept from raw material compilation.
 [[AI_Assisted_Energy_Optimization]]
 [[Additive_Manufacturing_Supply_Chain]]
 [[AdvancedPackagingInterconnect]]
+[[AnalogDomainCompression]]
 [[AnalogInMemoryComputing]]
-[[Analog_Computation]]
 [[BarrierConditionedTrajectory]]
 [[Capability_Forging_Pipeline]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
 [[CoaxialLike_TGV]]
-[[CriticalityAwareTopology]]
 [[Criticality]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Self_Organized_Criticality]]
 [[TCC]]
+[[analog computation]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

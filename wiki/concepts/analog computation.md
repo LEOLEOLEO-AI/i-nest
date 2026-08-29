@@ -22,3 +22,21 @@ refs: 6
 
 
 _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
+
+## Merged From
+- analog computation (merged 2026-08-29)
+
+
+## Related Work
+
+[[AIRA_NeuralArchSearch]]
+[[CST_Theory]]
+[[CrossbarArrayPrecision]]
+[[DimensionSeparation_IntensiveExtensive]]
+[[Memristor_Synapse]]
+[[Neuromorphic_Computing]]
+[[TCC]]
+[[iNEST]]
+[[忆阻器]]
+[[神经形态计算]]
+[[神经网络]]

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[CST计量仪]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Cryogenic_Syndrome_Compression]]
 [[Emergent_Reservoir_Topology]]
 [[Heterogeneous_Integration]]
@@ -42,15 +43,15 @@ Auto-extracted concept from raw material compilation.
 [[Physical_Reservoir_Substrate]]
 [[ReproducibleReservoirComputing]]
 [[Reservoir_Computing]]
-[[Residual_Connection]]
 [[Residual_Connection_Removal]]
 [[SDI_Bond]]
 [[SDI_TCC_iNEST_Interconnect]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[TCC]]
-[[TCC_iNEST_Interconnect]]
 [[iNEST]]
+[[iNEST_Interconnect]]
+[[residual connection]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

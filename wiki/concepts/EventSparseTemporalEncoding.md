@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[AI_Faculty_Forum_2026]]
+[[BiasEvaluationMetrics]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
 [[Complex_System_Theory]]
@@ -29,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Distributed_Spike_Communication]]
 [[EdgeInspectionInference]]
 [[End_Side_Neuromorphic_Deployment]]
+[[Ferroelectric_Devices]]
 [[Ferroelectric_Synaptic_Devices]]
 [[Gaussian_Splat_Compression]]
 [[Heterogeneous_Integration]]

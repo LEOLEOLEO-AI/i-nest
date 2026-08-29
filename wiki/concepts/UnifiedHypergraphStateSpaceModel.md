@@ -21,12 +21,13 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[2026-06-15_大脑的量子纠缠与信息动力学]]
+[[AINext_Initiative]]
 [[AI_Faculty_Forum_2026]]
 [[Analog_Synaptic_Behavior]]
 [[AnisotropicGaussianPrimitives]]
 [[BackflowTransformation]]
 [[BioInspiredLearningRule]]
-[[BranchingRatioControl]]
+[[BranchingRatio]]
 [[CST_Spatiotemporal_Coefficient]]
 [[ChannelEventSparsity]]
 [[Complex_System_Theory]]

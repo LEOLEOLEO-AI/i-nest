@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
+[[156QubitScale]]
 [[AdaptiveFunctionalTopology]]
 [[CoexistencePhaseDiagram]]
 [[Crystallized_Neural_Manifolds]]

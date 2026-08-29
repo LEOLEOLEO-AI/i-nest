@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[BioInspiredSequenceLearning]]
 [[FatigueSTDP]]
+[[GroupSynchronization]]
 [[MultiObjectiveSNN]]
 [[Network_Topology_Design]]
 [[PhaseLockedTopologyMapping]]

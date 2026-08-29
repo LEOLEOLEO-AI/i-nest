@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[BigBrainCellularAxis]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
+[[Complexity_Emergence_Engineering]]
 [[Hardware_Accelerated_SNN]]
 [[In_Network_Neuromorphic]]
 [[Memristor_Network]]

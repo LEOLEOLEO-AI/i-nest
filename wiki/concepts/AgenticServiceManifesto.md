@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[AgenticServiceOrchestration]]
 [[Agile_Resilient_Defense_Ecosystem]]
+[[AnalogDomainCompression]]
 [[Ant_Swarm_Functional_Control]]
 [[Critical_Region_Extension]]
 [[CriticalityInducedTopology]]

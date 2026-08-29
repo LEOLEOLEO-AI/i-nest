@@ -22,3 +22,12 @@ refs: 6
 
 
 _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
+
+## Merged From
+- neural quantum states (merged 2026-08-29)
+
+
+## Related Work
+
+[[TCC]]
+[[iNEST]]

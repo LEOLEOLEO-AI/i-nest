@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AlternativeBridgingModels]]
 [[AnisotropicGaussianPrimitives]]
 [[Categorical_Closure_Criterion]]
+[[CouplingTopologyInducedDynamics]]
 [[Criticality]]
 [[Heterogeneous_Compute_Graph]]
 [[HierarchicalReservoirDynamics]]

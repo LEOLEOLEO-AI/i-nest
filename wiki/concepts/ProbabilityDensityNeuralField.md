@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Complex_System_Theory]]
 [[Contested_Prior_Resolution]]
+[[DendriticTaskPartitioning]]
 [[FPGA_Neuromorphic_Architectures]]
 [[Intelligence_Emergence]]
 [[National_Planning_Driven_Research_Alignment]]

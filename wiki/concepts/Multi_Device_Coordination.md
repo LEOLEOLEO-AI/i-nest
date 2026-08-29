@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveInferenceEdgeLoop]]
 [[ActiveInference]]
 [[AnomalousSpinTransport]]
+[[CSI_Temporal_Encoding]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Course_Based_FPGA_Projects]]
 [[DARPA_ERI]]

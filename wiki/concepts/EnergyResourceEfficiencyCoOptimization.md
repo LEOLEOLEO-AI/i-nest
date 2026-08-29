@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[FCDC_Architecture]]
 [[FeFET_Polarization_Switching]]
 [[FerroelectricCrossbarArray]]
+[[FerroelectricMemoryCell]]
 [[FerroelectricSynapticArray]]
 [[Ferroelectric_ComputeInMemory]]
 [[Ferroelectric_Devices]]

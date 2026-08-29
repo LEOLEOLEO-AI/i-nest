@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AnomalousSpinTransport]]
+[[CST_Exponential_Gain]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[HardwareAware_DesignSpace]]
@@ -33,7 +34,6 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
-[[STDP_iNEST_Memristive]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
 [[neuromorphic computing]]

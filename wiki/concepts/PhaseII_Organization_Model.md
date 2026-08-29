@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CommunicationAsComputation]]
 [[Express_Link_Virtualization]]
 [[GlobalDecision_LocalExecution_ControlPlane]]
+[[HeterogeneousChipletIntegration]]
 [[Heterogeneous_Integration]]
 [[KeyMaterialStrategy]]
 [[Mesoscale_Heterogeneous_Integration]]

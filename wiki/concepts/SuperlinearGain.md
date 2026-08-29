@@ -17,6 +17,7 @@ Auto-extracted concept from raw material compilation.
 
 [[3DIntegratedPhotonicPackaging]]
 [[AI_Faculty_Forum_2026]]
+[[AI_Industrial_Ecosystem]]
 [[ANN动力学]]
 [[Alpha_Computation_Consistency]]
 [[Attention_Residuals]]
@@ -50,7 +51,6 @@ Auto-extracted concept from raw material compilation.
 [[RTC_Primitive]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Renormalization_Group_Convergence]]
-[[Residual_Connection]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[Spacetime_Coupling_Coefficient]]
@@ -64,6 +64,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologyCentricEngineeringBase]]
 [[Topology_Interconnect]]
 [[chiplet interconnect]]
+[[residual connection]]
 [[temporalComplexity]]
 
 ## Sources

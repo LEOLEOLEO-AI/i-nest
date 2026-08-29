@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Baseline_Draft_Status]]
 [[Bidirectional_Temporal_Enhancement]]
+[[BioPlausiblePredictiveCoding]]
 [[BurstGatedRouting]]
 [[CIMWeightUpdateAwareness]]
 [[Continuous_Spatiotemporal_State_Propagation]]

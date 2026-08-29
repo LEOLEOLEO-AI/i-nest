@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[TwoTimescaleNeuroEvolution]]
 [[complex system]]
 [[iNEST]]
+[[智能涌现]]
 [[神经网络]]
 
 ## Sources

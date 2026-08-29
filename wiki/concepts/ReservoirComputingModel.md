@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Reservoir_Computing]]
 [[Memristor_Synapse]]
 [[MetaFAIR_ArchitectureDiscovery]]
+[[Meta_Residual_Learning]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Additive_Manufacturing_Supply_Chain]]
 [[AmoebaInspiredLocomotion]]
 [[Anomaly_Protected_Scaling_Law]]
+[[BayesianConnectivityEstimation]]
 [[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[Interconnect_Routing]]

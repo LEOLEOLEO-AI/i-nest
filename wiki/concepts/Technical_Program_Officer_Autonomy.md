@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[DARPA_ProjectManager_Model]]
 [[DeeplySupervisedSpiking]]
+[[DualDrivenHybridNetwork]]
 [[FrequencyAdaptationMechanism]]
 [[Heterogeneous_Integration]]
 [[Izhikevich_NeuronModel]]

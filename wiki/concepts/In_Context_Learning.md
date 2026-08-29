@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[MutualReinforcementDynamics]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[PhotonicDeepNetwork]]
 [[RecursiveSelfReferentialArchitecture]]
 [[ReproducibleReservoirComputing]]
 [[Reservoir_Computing]]

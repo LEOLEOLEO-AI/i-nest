@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveMeasurementProtocol]]
 [[AdaptiveNetworkResilience]]
 [[AdaptiveTimeStepTraining]]
+[[AmorphousSolidPlasticity]]
 [[AnisotropicGaussianPrimitives]]
 [[Biomanufacturing_Control_Loop]]
 [[BranchingRatio]]
@@ -42,12 +43,12 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
+[[Reservoir_Computing]]
 [[Synaptic_Plasticity]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

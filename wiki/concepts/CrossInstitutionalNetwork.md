@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CounterstreamSignalPropagation]]
 [[DeeplySupervisedSpiking]]
 [[DifferentiableRasterizationPipeline]]
+[[DivergentHigherAreaRanking]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
 [[ForwardFluctuationGradient]]

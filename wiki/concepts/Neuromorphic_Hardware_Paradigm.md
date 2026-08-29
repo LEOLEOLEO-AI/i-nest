@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[Bidirectional_Temporal_Enhancement]]
 [[ContinualLearningOnNeuromorphic]]
+[[DiscreteSTDP]]
 [[EventDrivenAutoregression]]
 [[EventDrivenRiskAssessment]]
 [[Event_Driven_Architecture]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Signal_Folding]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
+[[iNEST_Interconnect]]
 [[iNEST_Neuromorphic_Integration]]
 [[signal folding]]
 

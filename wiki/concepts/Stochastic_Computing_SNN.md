@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[PowerOfTwoWeightQuantization]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
+[[SDDE_Attractor_Emergence]]
 [[SNN]]
 [[STDP_Plasticity]]
 [[Single_Layer_SNN_Architecture]]

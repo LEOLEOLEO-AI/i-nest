@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AmorphousSolidPlasticity]]
 [[Biomanufacturing_Control_Loop]]
 [[BranchingRatio]]
+[[Categorical_Reservoir_Model]]
 [[CouplingTopologyMemoryLink]]
 [[Coupling_Topology]]
 [[Crystallized_Embedding_Reservoir]]

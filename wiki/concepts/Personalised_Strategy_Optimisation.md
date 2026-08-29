@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Decoupling]]
 [[CriticalityDrivenStateTransition]]
 [[Criticality]]
+[[DynamicalSelfDualCriticality]]
 [[EventDrivenSynchronization]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

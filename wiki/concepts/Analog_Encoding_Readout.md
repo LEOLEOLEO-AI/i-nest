@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveInference]]
 [[AdjustableDynamics]]
 [[AdversarialResilience]]
+[[AlternativeBridgingModels]]
 [[CMOS_Memristor_Crossbar]]
 [[CrashHotspotForecasting]]
 [[DivergentHigherAreaRanking]]
@@ -36,6 +37,8 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
+[[SNN]]
+[[Spiking_Neural_Network]]
 [[iNEST]]
 
 ## Sources

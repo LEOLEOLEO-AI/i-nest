@@ -41,6 +41,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
+[[DendriticReservoirState]]
 [[ERI_2_0_Strategy]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
@@ -61,5 +62,4 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[智能涌现]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]

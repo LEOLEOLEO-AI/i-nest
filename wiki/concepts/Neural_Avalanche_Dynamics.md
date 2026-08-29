@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Avalanche_Dynamics]]
 [[Compressed_Glass_Network]]
 [[Criticality]]
+[[CrossInstitutionalNetwork]]
 [[DivergentHigherAreaRanking]]
 [[DynamicalSelfDualCriticality]]
 [[Emergent_Intelligence_Threshold]]

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[Dynamic_Expert_Fusion]]
+[[DynamicalSelfDualCriticality]]
 [[EmergentTaskDecomposition]]
 [[Ferroelectric_Devices]]
 [[Free_Energy_Topology_Mapping]]

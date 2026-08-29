@@ -36,6 +36,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
 [[GNN图神经网络，非结构化数据分析利器！]]
+[[GroupWise_DragonflyPlus]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[MacroscopicDescriptor]]
@@ -66,5 +67,4 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[复杂网络]]
 [[拓扑深度学习捕捉数据的高阶关系：信息传递拓扑神经网络概述]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]

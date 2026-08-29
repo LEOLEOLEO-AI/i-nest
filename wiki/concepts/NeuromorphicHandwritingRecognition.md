@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[BioPlausiblePredictiveCoding]]
 [[BrainInspiredArchitecture]]
 [[BrainInspired_Chip]]
+[[BurstGatedRouting]]
 [[ConductingPolymerDendriteMemory]]
 [[Event_Driven_Architecture]]
 [[In_Network_Neuromorphic]]

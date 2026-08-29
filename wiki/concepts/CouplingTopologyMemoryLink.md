@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CytoarchitectonicAxis]]
 [[DARPA_ProjectManager_Model]]
 [[DataDrivenCytoarchitectonicAxis]]
+[[DivergentHigherAreaRanking]]
 [[Dynamical_State_Space]]
 [[Environmental_Coupling_Organization]]
 [[Fading_Memory_Property]]

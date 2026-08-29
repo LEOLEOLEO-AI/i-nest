@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[neuromorphic computing]]
 [[temporalComplexity]]
+[[智能涌现]]
 [[神经网络]]
 [[类脑芯片]]
 

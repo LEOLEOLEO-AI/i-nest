@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Interconnect]]
 [[OnChipOpticalTweezers]]
 [[RadiationHardened_ProcessNodeScaling]]
+[[ReproducibleReservoirComputing]]
 [[ReproducibleReservoirOutput]]
 [[Reservoir_Computing]]
 [[Space_Compute_Architecture_Tradeoff]]

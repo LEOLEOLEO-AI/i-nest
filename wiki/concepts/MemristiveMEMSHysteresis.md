@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[AI人工智能 卷积神经网络（CNN）_w3cschool]]
 [[AdditiveTopology_Embedding]]
 [[BCM滑动阈值]]
+[[CST_Synergy_Coordination]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
 [[EfficientDeepLearning]]
@@ -52,7 +53,6 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[neuromorphic computing]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

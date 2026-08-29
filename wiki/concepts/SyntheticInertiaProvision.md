@@ -26,7 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Forum_Demo_Narrative]]
 [[Algorithmic_Warfare]]
 [[AllOpticalHebbianLearning]]
-[[Analog_Computation]]
+[[BigBrainCellularAxis]]
 [[Complexity_Emergence_Engineering]]
 [[CriticalStateInformationMaximization]]
 [[CrossLayer_SignalRouting]]
@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[Topology_Aware_Spike_Routing]]
+[[analog computation]]
 [[iNEST]]
 
 ## Sources

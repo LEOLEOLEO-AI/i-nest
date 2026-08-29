@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_Equation]]
 [[CST_Exponential_Form]]
 [[CST_Theory]]
+[[CST_Theory_V27_FINAL]]
 [[CST计量仪]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -59,7 +60,6 @@ Auto-extracted concept from raw material compilation.
 [[RTC_Primitive]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Renormalization_Group_Convergence]]
-[[Residual_Connection]]
 [[Self_Organized_Criticality]]
 [[Spacetime_Coupling_Coefficient]]
 [[SpatiotemporalComplexityIndex]]
@@ -75,6 +75,7 @@ Auto-extracted concept from raw material compilation.
 [[heterogeneous_integration]]
 [[neural avalanche]]
 [[neuromorphic computing]]
+[[residual connection]]
 [[temporalComplexity]]
 [[topological criticality]]
 

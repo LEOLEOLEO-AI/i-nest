@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveMeasurementProtocol]]
 [[AgenticServiceOrchestration]]
 [[Agile_Resilient_Defense_Ecosystem]]
+[[AmorphousSolidPlasticity]]
 [[Biomanufacturing_Control_Loop]]
 [[BranchingRatio]]
 [[BurstTemporalPlasticity]]
@@ -36,10 +37,10 @@ Auto-extracted concept from raw material compilation.
 [[DendriticReservoirState]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
+[[Reservoir_Computing]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

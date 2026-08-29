@@ -42,7 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[STDP_iNEST_Memristive]]
-[[Spike_timing_dependent_plasticity_learning_rule]]
+[[Spike_timing_dependent_plasticity]]
 [[Synaptic_Plasticity]]
 [[TopologicalAndersonChernInsulator]]
 [[complex system]]

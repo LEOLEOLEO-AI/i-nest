@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Connectome]]
 [[Connectome_Reservoir]]
+[[Cross_Brain_Connectome]]
 [[Emergent_Intelligence_Threshold]]
 [[EvolutionaryReservoirLearning]]
 [[Intelligence_Emergence]]

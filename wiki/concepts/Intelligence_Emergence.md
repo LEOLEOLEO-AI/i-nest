@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN动力学]]
 [[Analog_Weight_Storage]]
 [[AsymmetricStochasticInteractions]]
+[[AttentionMap_DifferenceResidual]]
 [[Attention_Residuals]]
 [[AutonomousAdaptation]]
 [[BigBrainCellularAxis]]
@@ -45,7 +46,6 @@ Auto-extracted concept from raw material compilation.
 [[Order_Flexibility_Duality]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
-[[Residual_Connection]]
 [[SDI_Bond]]
 [[SDI_Four_Rules]]
 [[SDI_STDP]]
@@ -62,6 +62,7 @@ Auto-extracted concept from raw material compilation.
 [[UniversalIntelligence_Emergence]]
 [[complex system]]
 [[iNEST]]
+[[residual connection]]
 [[temporalComplexity]]
 [[三原理协同_FEP_STDP_最小作用量]]
 

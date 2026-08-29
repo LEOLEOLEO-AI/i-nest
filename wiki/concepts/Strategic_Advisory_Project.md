@@ -22,7 +22,6 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Application_Scenario_Reconstruction]]
 [[AnalogInMemoryComputing]]
-[[Analog_Computation]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[Bioavailability_Enhancement]]
 [[Capability_Forging_Pipeline]]
@@ -35,10 +34,11 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[OS_Level_Performance_Hampering]]
 [[Resilience_ByTopology]]
+[[SDSoW]]
 [[SDSoW_Architecture]]
-[[SDSoW_Strategic_Planning]]
 [[Spatiotemporal_Synergy_Complexity]]
 [[TCC]]
+[[analog computation]]
 [[iNEST]]
 
 ## Sources

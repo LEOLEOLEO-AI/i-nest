@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AINext_Initiative]]
 [[AI_Driven_Architecture_Search]]
+[[ActivityAvalanche]]
 [[Activity_Energy_Tradeoff]]
 [[Agent_Interaction_Sequencing]]
 [[AsynchronousEventDrivenComputation]]

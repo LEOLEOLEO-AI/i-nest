@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AINext_Initiative]]
 [[AgenticServiceManifesto]]
+[[AnalogDomainCompression]]
 [[Combinatorial_Optimization_Readout]]
 [[Compressive_Sensing_Reservoir]]
 [[CriticalityInducedTopology]]

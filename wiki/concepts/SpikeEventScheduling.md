@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
+[[AI_Enabled_Battlefield_Autonomy]]
 [[Bidirectional_Temporal_Enhancement]]
 [[CirculateFiringNeuron]]
 [[CollectiveSpikingDynamics]]
@@ -39,7 +40,6 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[ST_SNN]]
-[[SpikeEncodingLatency]]
 [[SpikeEncoding]]
 [[Spike_Encoding_of_fMRI]]
 [[Spike_Temporal_Dynamics]]

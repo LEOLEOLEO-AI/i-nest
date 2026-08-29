@@ -24,6 +24,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[BigBrainCellularAxis]]
 [[CSI_Temporal_Encoding]]
 [[Chiplet_Heterogeneous_Integration]]
+[[ComplexValuedSNN]]
 [[EmergentOrder]]
 [[Emergent_Intelligence_Threshold]]
 [[EpidemicThreshold]]

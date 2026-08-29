@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Emerging_CMOS_Memristor]]
 [[FerroelectricMemoryCell]]
+[[FerroelectricSynapticArray]]
 [[Ferroelectric_Devices]]
 [[Heterogeneous_Integration]]
 [[HierarchicalNetworkPartitioning]]

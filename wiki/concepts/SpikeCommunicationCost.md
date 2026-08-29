@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Neuromorphic]]
+[[Yann LeCun：发现智能原理是AI的终极问题]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

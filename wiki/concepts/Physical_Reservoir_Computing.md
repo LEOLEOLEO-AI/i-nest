@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalFluctuationReservoir]]
 [[Crystallized_Neural_Manifolds]]
 [[Deep_Network_Architecture_Invariant]]
+[[DissipativeQuantumReservoir]]
 [[Dynamic_Expert_Fusion]]
 [[EfficientDeepLearning]]
 [[Emergent_Intelligence_Threshold]]

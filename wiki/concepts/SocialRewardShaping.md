@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Supply_Chain_Increment]]
 [[AI人工智能 卷积神经网络（CNN）_w3cschool]]
 [[ANN动力学]]
+[[ActiveMatterSubstrate]]
 [[BCM滑动阈值]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
@@ -44,7 +45,6 @@ Auto-extracted concept from raw material compilation.
 [[neuromorphic computing]]
 [[soc]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

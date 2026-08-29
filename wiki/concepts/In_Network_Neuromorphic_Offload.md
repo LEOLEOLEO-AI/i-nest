@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[HigherOrderStochasticProcess]]
 [[Hypergraph_Label_Noise]]
 [[In_Network_Neuromorphic]]
+[[LIF_Neuron_Model]]
 [[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]

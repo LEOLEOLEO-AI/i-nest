@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Weight_Storage]]
 [[Attention_Residuals]]
 [[BigBrainCellularAxis]]
+[[CST_Equation]]
 [[CST计量仪]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
@@ -39,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_ANN_Hardware]]
 [[Memristive_STDP]]
 [[Memristor_Network]]
+[[Memristor_Synapse]]
 [[MetricComputationAuthenticity]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
@@ -52,7 +54,6 @@ Auto-extracted concept from raw material compilation.
 [[Renormalization_Group_Convergence]]
 [[ReproducibleReservoirComputing]]
 [[Reservoir_Computing]]
-[[Residual_Connection]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[STDP_Plasticity]]
@@ -68,6 +69,7 @@ Auto-extracted concept from raw material compilation.
 [[Topology_Interconnect]]
 [[chiplet interconnect]]
 [[complex system]]
+[[residual connection]]
 [[temporalComplexity]]
 
 ## Sources

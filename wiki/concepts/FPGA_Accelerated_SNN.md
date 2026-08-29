@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[ActiveDendriteSNN]]
+[[AnisotropicGaussianPrimitives]]
 [[BackflowTransformation]]
 [[BiasEvaluationMetrics]]
 [[Bidirectional_Temporal_Enhancement]]
@@ -50,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
+[[iNEST_Interconnect]]
 [[spiking neural network]]
 [[temporalComplexity]]
 

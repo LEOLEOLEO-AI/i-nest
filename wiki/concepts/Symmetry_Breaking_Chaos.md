@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AnisotropicGaussianPrimitives]]
 [[AnomalousSpinTransport]]
 [[AstrocyteInspiredRepair]]
+[[Automated_Assessment_Framework]]
 [[Autonomous_Physical_Computation]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[Brain_Connectome]]

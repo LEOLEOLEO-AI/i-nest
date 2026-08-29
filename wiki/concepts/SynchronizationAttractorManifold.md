@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Learning_Rule_Comparison]]
 [[Loihi2_SpikeEncoding]]
 [[Memristive_STDP]]
+[[MultiObjectiveSNN]]
 [[NetworkDynamicalStabilization]]
 [[Network_Topology_Design]]
 [[PhaseLockedTopologyMapping]]

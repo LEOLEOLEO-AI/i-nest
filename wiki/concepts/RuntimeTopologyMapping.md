@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[P_Paradigm]]
+[[PolymerComposite_Substrate]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[SNN]]

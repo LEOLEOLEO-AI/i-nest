@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[EnsembleSparsity]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[Memristor_Synapse]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Chiplet]]

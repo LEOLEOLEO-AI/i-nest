@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[BulletTrainScheduling]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Criticality]]
+[[CrossEntityPreemptiveWarning]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenMotionDeblurring]]
 [[FormalToolchain]]

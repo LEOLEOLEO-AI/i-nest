@@ -38,9 +38,12 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
+[[SDDE_Attractor_Emergence]]
 [[ShortTermMemory]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 [[reservoir computing]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

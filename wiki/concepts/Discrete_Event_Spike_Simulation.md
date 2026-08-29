@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Driven_Architecture_Search]]
 [[AI_Faculty_Forum_2026]]
 [[AI_Forum_Demo_Narrative]]
+[[ANN_SNN_WeightSpaceGap]]
 [[Adaptive_Deep_Brain_Stimulation]]
 [[AnisotropicGaussianPrimitives]]
 [[Avoided_Criticality]]

@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[CoDesigned_SNN]]
 [[CombinedImportanceScoring]]
+[[CompartmentalNeuronModel]]
 [[ComplexValuedSNN]]
 [[Contested_Prior_Resolution]]
 [[DeeplySupervisedSpiking]]

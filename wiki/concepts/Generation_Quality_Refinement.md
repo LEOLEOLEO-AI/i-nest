@@ -23,7 +23,6 @@ Auto-extracted concept from raw material compilation.
 [[AI_Assisted_Energy_Optimization]]
 [[AddressRedundancyElimination]]
 [[Adjoint_Gradient_Propagation]]
-[[Analog_Computation]]
 [[AvalanchePropagation]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[BiasPropagationInNetworks]]
@@ -34,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[HybridCouplingThermosensitiveNetwork]]
 [[InterDomain_Synergy]]
 [[Neuromorphic_Computing]]
+[[analog computation]]
 [[iNEST]]
 
 ## Sources

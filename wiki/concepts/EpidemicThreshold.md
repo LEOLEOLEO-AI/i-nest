@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[向大脑学习智能本质，探索通用 AI 的另一条可行路径]]
 [[在 FPGA 上实现并行脉冲神经网络（Spiking Neural Net）]]
 [[新型计算]]
+[[智能涌现]]
 [[神经形态脉冲大语言模型（NSLLM）]]
 [[神经形态计算]]
 [[神经网络]]

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Application_Scenario_Reconstruction]]
 [[AcademicDevelopmentCoCreation]]
 [[AcceleratedMaterialScreening]]
+[[AlternativeBridgingModels]]
 [[AnomalousSpinTransport]]
 [[Bosonic_SPT_Phases]]
 [[CSI_Temporal_Dynamics]]

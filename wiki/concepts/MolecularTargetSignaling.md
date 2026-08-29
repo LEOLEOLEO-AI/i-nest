@@ -22,7 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[3D_Integrated_Chiplet_Stacking]]
 [[AcceleratedMaterialScreening]]
 [[AdaptiveBitPrecisionExploration]]
-[[Analog_Computation]]
+[[AdversarialResilience]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[Bio_plausible_Neuromorphic_Disturbance_Observer]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[Swarm_Coordination]]
 [[TemporalEchoMemory]]
+[[analog computation]]
 [[iNEST]]
 
 ## Sources

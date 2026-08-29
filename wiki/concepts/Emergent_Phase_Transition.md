@@ -21,10 +21,10 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AINext_Initiative]]
+[[ActivityAvalanche]]
 [[AlloyDisorderEngineering]]
 [[Biologically_Plausible_Learning_Rules]]
 [[CST_Theory]]
-[[CST_Theory_V27_FINAL]]
 [[Catastrophic_Forgetting_Mitigation]]
 [[Complex_System_Theory]]
 [[CriticalFixedPoint]]

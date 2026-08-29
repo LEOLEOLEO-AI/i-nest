@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[DevelopmentalConnectomeTemporalGraph]]
 [[DevelopmentalStageEmbedding]]
 [[Dynamic_Expert_Fusion]]
+[[DynamicsMatchedReservoir]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_InMemory_Processing]]
 [[Architectural_Conditioning]]
 [[BiasEvaluationMetrics]]
+[[BlumeEmeryGriffithsModel]]
 [[CoPackagedOptics]]
 [[Compute_In_Memory_Neuromorphic]]
 [[CrossDomain_Integration]]

@@ -33,7 +33,6 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[StandardizedComponent]]
 [[TCC]]
-[[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[TcC]]
 [[criticality]]
 [[iNEST]]

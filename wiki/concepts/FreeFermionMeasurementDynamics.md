@@ -20,11 +20,11 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[3D_Integrated_Chiplet_Stacking]]
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_Assisted_Energy_Optimization]]
 [[AdversarialMedicalRobustness]]
-[[Analog_Computation]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[BiasPropagationInNetworks]]
 [[Bioavailability_Enhancement]]
@@ -34,8 +34,11 @@ Auto-extracted concept from raw material compilation.
 [[Capability_Forging_Pipeline]]
 [[Capability_Transformation_Mechanism]]
 [[Chain_of_Thought_Reasoning]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Stacking]]
 [[Complex_System_Theory]]
 [[Network_Topology_Design]]
+[[analog computation]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

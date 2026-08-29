@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CoPoS]]
 [[Complex_System_Theory]]
 [[Environmental_Capability_Context]]
+[[FirstPrinciples_Derivation]]
 [[Heterogeneous_Integration]]
 [[HierarchicalNetworkPartitioning]]
 [[Interconnect_Routing]]

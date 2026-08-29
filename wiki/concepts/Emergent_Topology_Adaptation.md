@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[BackflowTransformation]]
 [[BigBrainCellularAxis]]
+[[CST_Spatiotemporal_Coefficient]]
 [[CST_Spatiotemporal_Complexity]]
 [[ComplexTopologicalStructures]]
 [[ComplexValuedSNN]]

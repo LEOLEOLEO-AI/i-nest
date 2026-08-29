@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveArchitecture]]
 [[AdaptiveCombinerWeighting]]
 [[Allreduce_Latency_Probe]]
+[[ArchitecturalCondition]]
 [[Architectural_Conditioning]]
 [[CriticalityDrivenStateTransition]]
 [[Criticality]]

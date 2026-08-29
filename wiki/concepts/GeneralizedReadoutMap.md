@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AnalogInMemoryComputing]]
 [[Analog_Synaptic_Weighting]]
 [[Architectural_Conditioning]]
+[[Branch_Prediction_Reservoir]]
 [[DARPA_ProjectManager_Model]]
 [[Emerging_CMOS_Memristor]]
 [[EulaminateOverrepresentation]]

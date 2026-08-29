@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[DTGA]]
 [[Decoupling_Mechanism]]
 [[DeviceConductanceTuning]]
+[[FerroelectricMemoryCell]]
 [[Ferroelectric_Devices]]
 [[Network_Topology_Design]]
 [[Synaptic_Plasticity]]

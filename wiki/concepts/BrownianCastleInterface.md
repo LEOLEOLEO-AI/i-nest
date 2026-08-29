@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[20W_Brain_Inspired_Planning]]
+[[3D_Torus_6_Degree]]
 [[AIRA_NeuralArchSearch]]
 [[AI_Driven_Architecture_Search]]
 [[AI_Forum_Demo_Narrative]]

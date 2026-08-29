@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Complexity_Emergence]]
 [[Course_Based_FPGA_Projects]]
+[[DARPA_Project_Group_Strategy]]
 [[DataDrivenCellularAxis]]
 [[DendriticReservoirState]]
 [[EnsembleSparsity]]

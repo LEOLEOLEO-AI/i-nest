@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[AI_Faculty_Forum_2026]]
+[[ANN_SNN_ConversionError]]
 [[CST_Spatiotemporal_Coefficient]]
 [[Complex_System_Theory]]
 [[Contested_Prior_Resolution]]

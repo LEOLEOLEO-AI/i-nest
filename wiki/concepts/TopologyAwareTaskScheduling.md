@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect_Topology]]
 [[CommunicationAsComputation]]
 [[EdgeIoTEnergyAwareness]]
+[[GlobalDecision_LocalExecution_ControlPlane]]
 [[HeterogeneousChipletIntegration]]
 [[Heterogeneous_Integration]]
 [[LargeScalePhotonicIntegration]]

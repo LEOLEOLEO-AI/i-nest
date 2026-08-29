@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[CouplingMatrixRecovery]]
+[[CrashHotspotForecasting]]
 [[Crystallized_Neural_Manifolds]]
 [[DivergentHigherAreaRanking]]
 [[Emergent_Intelligence_Threshold]]

@@ -19,7 +19,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
-[[Analog_Computation]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[CirculateFiringNeuron]]
 [[Crystallized_Embedding_Reservoir]]
@@ -40,14 +39,18 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
+[[PowerOfTwoWeightQuantization]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[SNN]]
 [[SpikingPlaceCellEnsemble]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[TemporalEchoMemory]]
+[[analog computation]]
 [[iNEST]]
 [[神经形态脉冲大语言模型（NSLLM）]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

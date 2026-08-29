@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Electronic_Warfare_Integration]]
 [[Environmental_Capability_Context]]
 [[FatalityDrivenRewiring]]
+[[FirstPrinciples_Derivation]]
 [[Heterogeneous_Integration]]
 [[HodgkinHuxleyDynamics]]
 [[InterFPGA_Spike_Routing]]

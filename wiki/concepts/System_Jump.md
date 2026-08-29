@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN动力学]]
 [[AdditiveTopology_Embedding]]
 [[Agent_Workflow_Automation]]
+[[Alpha_Coefficient_Phase_Transition_Amplification]]
 [[AnteHoc_Explainability]]
 [[BifurcationCandidate]]
 [[CST计量仪]]
@@ -51,7 +52,6 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[无反向传播的 4D 连续蚁群神经网络拓扑搜索]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

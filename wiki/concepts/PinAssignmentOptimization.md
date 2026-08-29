@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Faculty_Forum_2026]]
+[[BigBrainCellularAxis]]
 [[Chip_Floorplanning]]
 [[ChipletRoutingFabric]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -34,12 +35,10 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC_SDI]]
-[[NoC_SDI_Integration]]
 [[PhononicBandgapEngineering]]
 [[ReconfigurableSpikingRouting]]
 [[SDI_Bond]]
 [[SDI_STDP]]
-[[SDI_STDP_Rule]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[STDP_Plasticity]]

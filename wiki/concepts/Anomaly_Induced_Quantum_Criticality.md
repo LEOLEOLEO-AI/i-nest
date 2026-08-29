@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[ActivityAvalanche]]
 [[Activity_Energy_Tradeoff]]
 [[AdaptiveArchitecture]]
+[[AdaptiveCombinerWeighting]]
 [[AgenticServiceOrchestration]]
 [[Allreduce_Latency_Probe]]
 [[AnalogDomainCompression]]

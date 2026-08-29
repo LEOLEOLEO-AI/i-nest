@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicalSelfDualCriticality]]
 [[EmergentAttractorStability]]
 [[Environmental_Capability_Context]]
+[[EpidemicThreshold]]
 [[GlassInterposerSignalIntegrity]]
 [[Intelligence_Emergence]]
 [[LocalQuantumLearningRule]]

@@ -21,8 +21,8 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Application_Scenario_Reconstruction]]
 [[AcceleratedMaterialScreening]]
+[[ActiveInferenceEdgeLoop]]
 [[Allreduce_Latency_Probe]]
-[[Analog_Computation]]
 [[AnomalousSpinTransport]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[BigBrainCellularAxis]]
@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TemporalEchoMemory]]
 [[ThermallyDrivenSuperparamagnetReservoir]]
+[[analog computation]]
 [[iNEST]]
 
 ## Sources

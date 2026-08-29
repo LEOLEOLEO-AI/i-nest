@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AvalancheTriggeringMechanism]]
 [[Bosonic_SPT_Phases]]
 [[CSI_Temporal_Encoding]]
+[[Categorical_Reservoir_Model]]
 [[CriticalStateReservoir]]
 [[Fixed_Reservoir_Unitary]]
 [[LindbladInspiredReservoir]]

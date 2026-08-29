@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[DTGA]]
 [[Deep_SNN_Trainability]]
+[[DeeplySupervisedSpiking]]
 [[ErrorSuppressedPipeline]]
 [[EulaminateOverrepresentation]]
 [[FPGA_Accelerated_SNN]]

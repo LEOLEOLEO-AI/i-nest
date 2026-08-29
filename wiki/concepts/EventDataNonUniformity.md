@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[ActiveDendriteSNN]]
 [[AnomalousSpinTransport]]
+[[Bidirectional_Temporal_Enhancement]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
 [[Delay_Aware_Autograd_Spiking_Framework]]
@@ -41,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[ST_SNN]]
 [[SelfOrganizedOscillatoryLearning]]
 [[SpikeCodingAdversarialPerturbation]]
+[[SpikeEncoding]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[Spiking_Sequence_Generator]]

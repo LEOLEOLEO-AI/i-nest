@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
+[[AI4PDE｜综述·论文推荐 08｜物理信息神经网络在偏微分方程问题中的应用：全面综述]]
 [[AI_Faculty_Forum_2026]]
 [[AdaptiveTimeStepTraining]]
 [[AnisotropicGaussianPrimitives]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[NestedRepresentation]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[Passive_BCI_Neurofeedback]]
 [[QuantumSpikingNeuron]]
 [[RenormalizationGroup_ScalingLaws]]
@@ -46,7 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[Spiking_neural_network]]
-[[TCC_Neuromorphic_Integration]]
+[[TCC]]
 [[iNEST]]
 [[temporalComplexity]]
 

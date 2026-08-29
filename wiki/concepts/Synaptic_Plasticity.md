@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AutonomousAdaptation]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Cognitive_Relapse_Architecture]]
+[[CompactMicroLED_Array]]
 [[Contested_Priors_Mechanism]]
 [[Emergent_Intelligence_Threshold]]
 [[Free_Energy_Topology_Mapping]]

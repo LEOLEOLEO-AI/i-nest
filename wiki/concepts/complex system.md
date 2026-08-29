@@ -40,6 +40,8 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Chiplet_Integration_Route]]
 [[Complex_System_Theory]]
 [[Cross_Node_Event_Propagation]]
+[[Distributed_Spike_Communication]]
+[[Heterogeneous_Integration]]
 [[Kinematic_Waves]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]

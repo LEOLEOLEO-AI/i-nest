@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Faculty_Forum_2026]]
 [[AllOpticalHebbianLearning]]
+[[BigBrainCellularAxis]]
 [[Cascading_Failure_Mitigation]]
 [[ConsciousnessEngineeringLoop]]
 [[CrossLayer_SignalRouting]]

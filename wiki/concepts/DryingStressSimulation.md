@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptivePhotonicRouter]]
 [[AdaptiveSTDP]]
 [[AdaptiveSpeechToSpikeEncoding]]
+[[AnisotropicGaussianPrimitives]]
 [[BurstTemporalPlasticity]]
 [[EventCameraPoseInput]]
 [[EventDrivenSynchronization]]

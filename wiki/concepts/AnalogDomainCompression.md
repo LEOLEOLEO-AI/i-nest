@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[BigBrainCellularAxis]]
 [[CST_Theory]]
+[[CST_Theory_V27_FINAL]]
 [[CST计量仪]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
@@ -42,7 +43,6 @@ Auto-extracted concept from raw material compilation.
 [[PhysicalReservoir]]
 [[ReproducibleReservoirComputing]]
 [[Reservoir_Computing]]
-[[Residual_Connection]]
 [[Residual_Connection_Removal]]
 [[SDI_Bond]]
 [[SDI_TCC_iNEST_Interconnect]]
@@ -51,9 +51,10 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
-[[TCC_iNEST_Interconnect]]
 [[complex system]]
 [[iNEST]]
+[[iNEST_Interconnect]]
+[[residual connection]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

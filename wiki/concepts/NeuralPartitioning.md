@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AINext_Initiative]]
+[[ANN_SNN_WeightSpaceGap]]
 [[ActivityAvalanche]]
 [[BioPlausiblePredictiveCoding]]
 [[CSI_Temporal_Encoding]]

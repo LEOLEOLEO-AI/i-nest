@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Core_Spacetime_Tensor]]
+[[Evolving_System_Adaptation]]
 [[FirstPrinciples_Derivation]]
 [[Heterogeneous_Integration]]
 [[Intelligent_Computing_Infrastructure]]

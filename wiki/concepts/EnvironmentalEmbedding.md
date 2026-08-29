@@ -35,10 +35,13 @@ Auto-extracted concept from raw material compilation.
 [[CoupledOscillatorReservoir]]
 [[CrashHotspotForecasting]]
 [[DivergentHigherAreaRanking]]
+[[EchoState_n_ch]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
+[[SNN]]
+[[Spiking_Neural_Network]]
 [[iNEST]]
 
 ## Sources

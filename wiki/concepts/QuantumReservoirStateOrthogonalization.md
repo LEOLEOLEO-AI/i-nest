@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AnisotropicGaussianPrimitives]]
 [[AstrocyteInspiredRepair]]
 [[Biomanufacturing_Control_Loop]]
+[[Bosonic_SPT_Phases]]
 [[CoupledOscillatorReservoir]]
 [[DivergentHigherAreaRanking]]
 [[Dynamic_Expert_Fusion]]

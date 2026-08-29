@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_NPU_NoC_Integration]]
 [[TCC]]
+[[Topology_Aware_NeuroTrain]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

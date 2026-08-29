@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect_Topology]]
 [[DTGA]]
 [[Decoupling_Mechanism]]
+[[Evolving_System_Adaptation]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]

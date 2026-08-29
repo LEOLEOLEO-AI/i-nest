@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[ChipletOpticalIO]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CircadianGateModulation]]
+[[Course_Based_FPGA_Projects]]
 [[CrossbarArrayIntegration]]
 [[FerroelectricSemiconductorReservoir]]
 [[Ferroelectric_Devices]]

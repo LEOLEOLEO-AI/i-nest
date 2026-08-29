@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Faculty_Forum_2026]]
 [[ActivityAvalanche]]
+[[BigBrainCellularAxis]]
 [[Complexity_Emergence_Engineering]]
 [[ConsciousnessEngineeringLoop]]
 [[Continuous_Control_Spike_Timing_Sensitivity]]

@@ -22,3 +22,18 @@ refs: 6
 
 
 _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
+
+## Merged From
+- perspective latents (merged 2026-08-29)
+
+
+## Related Work
+
+[[ActiveInference]]
+[[Active_Inference_Agent]]
+[[CausalEmergenceCondition]]
+[[CausalEmergenceConditioning]]
+[[Generative_Model_Conditioning]]
+[[Intelligence_Emergence]]
+[[TCC]]
+[[iNEST]]

@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[NonlinearConnectomeScaling]]
 [[Nonlinear_Gain]]
+[[Parallelized_Hierarchical_Connectome]]
 [[Self_Organized_Criticality]]
 [[TCC]]
 [[complex system]]

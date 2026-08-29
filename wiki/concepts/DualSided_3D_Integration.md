@@ -12,7 +12,7 @@ auto: true
 **Last updated**: 2026-08-04
 
 ## Definition
-A 3D integration technology that enables heterogeneous and monolithic components to be fabricated and interconnected on both sides of a wafer, allowing for denser and more flexible chiplet stacking. This enables novel chiplet interconnect topologies that exploit vertical routing on both wafer faces, potentially reducing routing congestion and latency in TCC architectures.
+A 3D_Integration technology that enables heterogeneous and monolithic components to be fabricated and interconnected on both sides of a wafer, allowing for denser and more flexible chiplet stacking. This enables novel chiplet interconnect topologies that exploit vertical routing on both wafer faces, potentially reducing routing congestion and latency in TCC architectures.
 
 ## Context
 Auto-extracted concept from raw material compilation.
@@ -20,7 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
-[[3D integration]]
+[[03 涌现：整体的能力不能还原回个体？ - 得到APP]]
 [[3D_Integration]]
 [[AdiabaticMultimodeBend]]
 [[AdsorptionBiosorptionHybrid]]
@@ -52,7 +52,6 @@ Auto-extracted concept from raw material compilation.
 [[chiplet stacking]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

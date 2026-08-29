@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Avoided_Criticality]]
 [[Bidirectional_Temporal_Enhancement]]
+[[BioPlausiblePredictiveCoding]]
 [[ContinuousTimeSNN]]
 [[Criticality]]
 [[Dynamic_Expert_Fusion]]

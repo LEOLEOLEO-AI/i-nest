@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
 [[神经形态脉冲大语言模型（NSLLM）]]
+[[神经形态计算]]
 [[神经网络]]
 
 ## Sources

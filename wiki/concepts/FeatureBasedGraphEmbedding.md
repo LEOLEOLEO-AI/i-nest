@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[GateModelQuantumOptimization]]
 [[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]
+[[HypergraphRumorPropagation]]
 [[IndexOrderingOptimization]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]
@@ -48,6 +49,8 @@ Auto-extracted concept from raw material compilation.
 [[NoC_SDI]]
 [[Photopolymerization_NoC]]
 [[SDI_Bond]]
+[[SNN]]
+[[Spiking_Neural_Network]]
 [[TopologicalAndersonChernInsulator]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

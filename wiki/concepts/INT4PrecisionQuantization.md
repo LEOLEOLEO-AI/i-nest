@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[BiSpikCLM]]
 [[CombinedImportanceScoring]]
+[[CompartmentalNeuronModel]]
 [[DARPA_ProjectManager_Model]]
 [[DMP_SNN_DualMemoryPathway]]
 [[DTGA]]

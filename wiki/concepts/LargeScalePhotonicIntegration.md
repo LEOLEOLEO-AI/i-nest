@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[ComputeRelocationOverhead]]
 [[CorticalTypeDiversity]]
+[[EdgeIntelligenceAcceleration]]
 [[EdgeIoTEnergyAwareness]]
 [[Free_Energy_Principle_Network]]
 [[HeterogeneousChipletIntegration]]

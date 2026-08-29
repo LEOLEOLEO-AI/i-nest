@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AINext_Initiative]]
 [[AI_Faculty_Forum_2026]]
+[[ActivityAvalanche]]
 [[Allreduce_Latency_Probe]]
 [[Avoided_Criticality]]
 [[BulletTrainScheduling]]

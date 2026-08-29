@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Adjoint_Gradient_Propagation]]
 [[CombinatorialOptimizationReservoirMapping]]
 [[CouplingTopologyInducedDynamics]]
+[[CriticalFixedPoint]]
 [[Criticality]]
 [[Heterogeneous_Compute_Graph]]
 [[HierarchicalReservoirDynamics]]

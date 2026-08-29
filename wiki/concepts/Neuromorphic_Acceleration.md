@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[HigherOrderStochasticProcess]]
 [[Hypergraph_Label_Noise]]
+[[In_Network_Neuromorphic_Offload]]
 [[Neuromorphic_Computing]]
 [[NoiseRobust_Hyperedge_Aggregation]]
 [[SDI_Bond]]

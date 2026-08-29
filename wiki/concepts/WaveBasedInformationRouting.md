@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
+[[AIRA_NeuralArchSearch]]
 [[BigBrainCellularAxis]]
 [[BioPlausiblePredictiveCoding]]
 [[BurstGatedRouting]]
@@ -32,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[Memristor_Synapse]]
 [[Nature Communications_生物神经网络中突触多样性如何让人工神经网络更强大？]]
 [[Network_Topology_Design]]
 [[NeuromorphicHardware]]
@@ -45,7 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[chiplet interconnect]]
 [[complex system]]
-[[从因果到涌现：迈向新一代人工智能_陆超超博士访谈 (1)]]
+[[从因果到涌现：迈向新一代人工智能_陆超超博士访谈]]
 [[忆阻器]]
 [[涌现]]
 [[神经形态计算]]

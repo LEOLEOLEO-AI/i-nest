@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[EventCameraTemporalEncoding]]
 [[EventDrivenAutoregression]]
 [[Event_Driven_Architecture]]
+[[HypergraphRumorPropagation]]
 [[In_Network_Neuromorphic]]
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]

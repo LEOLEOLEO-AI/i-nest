@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[11_SDI节点接口规范与化合键定义_dup]]
+[[AI-ML — 全景导航 (Map of Content)]]
 [[AnomalousSpinTransport]]
 [[BigBrainCellularAxis]]
 [[FPGAInference]]
@@ -32,7 +33,6 @@ Auto-extracted concept from raw material compilation.
 [[OnChipOpticalTweezers]]
 [[SDI_Bond]]
 [[SDI_STDP]]
-[[SDI_STDP_Rule]]
 [[SDI节点接口规范与化合键定义]]
 [[SDSoW]]
 [[SDSoW_Architecture]]

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[2026-06-15_大脑的量子纠缠与信息动力学]]
+[[AINext_Initiative]]
 [[Avoided_Criticality]]
 [[BioPlausibleDisturbanceObserver]]
 [[Catastrophic_Forgetting_Mitigation]]
@@ -28,7 +29,6 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Architecture]]
 [[Continual_Learning_Modularity]]
 [[CriticalFixedPoint]]
-[[CriticalityInducedComputationalCapacity]]
 [[Criticality]]
 [[Neuromorphic_Computing]]
 [[Self_Organized_Criticality]]

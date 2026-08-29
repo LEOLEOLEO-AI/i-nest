@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[CSI_Temporal_Encoding]]
 [[CirculateFiringNeuron]]
+[[ComplexValuedSNN]]
 [[DeeplySupervisedSpiking]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

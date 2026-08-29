@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[AI_Forum_Demo_Narrative]]
 [[Advanced_Packaging_for_Space]]
+[[Chiplet_Heterogeneous_Integration]]
 [[TCC]]
 
 ## Sources

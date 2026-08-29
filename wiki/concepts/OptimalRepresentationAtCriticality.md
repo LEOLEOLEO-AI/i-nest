@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AutonomousAdaptation]]
 [[BackflowTransformation]]
 [[CST_Theory]]
+[[CST_Theory_V27_FINAL]]
 [[Complex_System_Theory]]
 [[CriticalBranching]]
 [[CriticalityDrivenLearning]]

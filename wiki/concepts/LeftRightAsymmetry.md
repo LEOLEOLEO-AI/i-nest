@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Course_Based_FPGA_Projects]]
 [[Criticality]]
 [[DataDrivenCellularAxis]]
+[[DynamicalSelfDualCriticality]]
 [[EEG_Criticality]]
 [[Emergent_Intelligence_Threshold]]
 [[Entropy_Connectivity_Path]]

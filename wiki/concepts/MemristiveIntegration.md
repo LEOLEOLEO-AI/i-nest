@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[BeyondVonNeumannArchitecture]]
 [[CMOS_Memristor_Devices]]
 [[In_Memory_Computing]]
 [[Memristor_Synapse]]
@@ -27,7 +28,6 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
-[[SDSoW_Industry_Alliance]]
 [[WaferScale_Memristor_Array]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]

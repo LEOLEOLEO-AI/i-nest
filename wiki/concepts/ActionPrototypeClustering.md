@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Distributed_Spike_Communication]]
 [[EventDrivenPlasticity]]
 [[FixedOverheadDominance]]
+[[Loihi2_OnChip_Learning]]
 [[MeasurementInducedPhaseTransition]]
 [[Neuromorphic_Computing]]
 [[OscillatoryReservoirDynamics]]

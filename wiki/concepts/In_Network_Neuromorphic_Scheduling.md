@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[BiasEvaluationMetrics]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BigBrainCellularAxis]]
+[[BioPlausiblePredictiveCoding]]
 [[Complexity_Emergence_Engineering]]
 [[Event_Driven_Architecture]]
 [[Free_Energy_Principle_Network]]

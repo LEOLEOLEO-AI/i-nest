@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[ErrorAmplificationLimits]]
 [[EventCameraPoseInput]]
 [[Fatigue_SpikePattern]]
+[[FractalPathEntropy]]
 [[LatencyGradientDescent]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]

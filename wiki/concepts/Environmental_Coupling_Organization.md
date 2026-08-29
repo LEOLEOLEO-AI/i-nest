@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AINext_Initiative]]
+[[AnomalousSpinTransport]]
 [[CMOS_Memristor_Devices]]
 [[ChipletOpticalIO]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -40,7 +41,6 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[Spin_Glass_Order_Parameter]]
 [[TCC]]
-[[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[iNEST]]
 [[memristor device]]
 [[neuromorphic computing]]

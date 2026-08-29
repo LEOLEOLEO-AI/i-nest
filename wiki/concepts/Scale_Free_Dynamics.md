@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AnisotropicGaussianPrimitives]]
 [[Avoided_Criticality]]
 [[Criticality]]
+[[Criticality_Reservoir]]
 [[FlexibilityThreshold]]
 [[LeftRightAsymmetry]]
 [[Reservoir_Computing]]

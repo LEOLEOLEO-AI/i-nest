@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
+[[AI_Enabled_Battlefield_Autonomy]]
 [[AI_Faculty_Forum_2026]]
 [[Adjoint_Gradient_Propagation]]
 [[DARPA_ProjectManager_Model]]
@@ -35,9 +36,11 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[SpikeBasedGradientDescent]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[Temporal_Computing_Paradigm]]
 [[iNEST]]
 [[spiking neural network]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

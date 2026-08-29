@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[AI_Assisted_Energy_Management]]
 [[AI_Assisted_Energy_Optimization]]
+[[ActivityAvalanche]]
 [[AdaptiveEntanglementManagement]]
 [[AdaptiveFlexibilityThreshold]]
 [[AdaptiveMeasurementProtocol]]

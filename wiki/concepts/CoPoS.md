@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
+[[12_三原理协同_FEP_最小作用量_STDP]]
 [[AI_FullSpectrum_Strategy]]
 [[Advanced_Packaging_for_Space]]
 [[Allreduce_Latency_Probe]]
@@ -29,7 +30,6 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_NoC_Interconnect]]
 [[Chiplet_Topology]]
-[[Chiplet_Topology_Mapping]]
 [[Chiplet_Topology_Packaging]]
 [[Complex_System_Theory]]
 [[EulaminateOverrepresentation]]
@@ -47,7 +47,6 @@ Auto-extracted concept from raw material compilation.
 [[advanced packaging]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

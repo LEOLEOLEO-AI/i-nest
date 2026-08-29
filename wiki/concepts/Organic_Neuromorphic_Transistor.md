@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Accessibility_Plasticity]]
 [[ActiveDendriteSNN]]
 [[AnomalousSpinTransport]]
+[[BigBrainCellularAxis]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
 [[Delay_Aware_Autograd_Spiking_Framework]]

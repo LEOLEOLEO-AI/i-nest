@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[AcceleratedMaterialScreening]]
 [[AdaptiveBitPrecisionExploration]]
+[[AdversarialResilience]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[CSI_Temporal_Encoding]]

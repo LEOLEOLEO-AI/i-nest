@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN_SNN_ConversionError]]
 [[AcademicDevelopmentCoCreation]]
 [[AdjustableDynamics]]
+[[AlternativeBridgingModels]]
 [[Analog_Encoding_Readout]]
 [[CMOS_Memristor_Crossbar]]
 [[CrashHotspotForecasting]]
@@ -37,6 +38,8 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[PhotoInducedCurrent]]
 [[Reservoir_Computing]]
+[[SNN]]
+[[Spiking_Neural_Network]]
 [[reservoir computing]]
 
 ## Sources

@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Fading_Memory_Property]]
 [[FirstPrinciples_AI]]
 [[FisherOrthogonalMemory]]
+[[FunctionalInterfaceBlocks]]
 [[Intelligence_Emergence]]
 [[MeanFieldSpinGlass]]
 [[MemristiveReservoirBranchPrediction]]

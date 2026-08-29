@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
+[[156QubitScale]]
 [[AI_Application_Scenario_Reconstruction]]
 [[AnalogDomainCompression]]
 [[CouplingMatrixRecovery]]
@@ -29,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[EmergentTaskDecomposition]]
 [[IncidenceBasedRandomWalk]]
 [[Intelligence_Emergence]]
+[[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[PhysicalReservoir]]
 [[Physical_Reservoir_Substrate]]

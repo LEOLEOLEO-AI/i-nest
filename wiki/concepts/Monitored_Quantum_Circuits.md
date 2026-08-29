@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CollectiveStateResilience]]
 [[Continual_Learning_Modularity]]
 [[CriticalBranching]]
+[[CriticalFixedPoint]]
 [[Critical_Exponent_Scaling]]
 [[CriticalityDrivenStateTransition]]
 [[Criticality]]

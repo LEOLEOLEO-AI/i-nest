@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_FullSpectrum_Strategy]]
 [[AlloyDisorderEngineering]]
 [[Allreduce_Latency_Probe]]
+[[ApproximateMacroscopicDynamics]]
 [[Architectural_Conditioning]]
 [[AstrocyteInspiredRepair]]
 [[ComplexValuedSNN]]

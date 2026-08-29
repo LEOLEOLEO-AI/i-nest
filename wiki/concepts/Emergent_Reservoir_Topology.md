@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[ReservoirEntropyEncoding]]
 [[Reservoir_Computing]]
 [[SDDE_Attractor_Emergence]]
+[[STDP_Plasticity]]
 [[TopologicalAndersonChernInsulator]]
 [[complex system]]
 [[iNEST]]

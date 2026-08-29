@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Connectome]]
 [[Connectome_Inspired_Architecture]]
 [[CriticalPhaseTransitionStatisticalTest]]
+[[DistinctReentrantPhases]]
 [[Ferroelectric_Devices]]
 [[Intelligence_Emergence]]
 [[Memristor_Synapse]]

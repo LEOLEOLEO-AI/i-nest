@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveDendriteSNN]]
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[AnisotropicGaussianPrimitives]]
+[[AnomalousSpinTransport]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BurstTemporalPlasticity]]
 [[DiscreteContinuous_Unification]]

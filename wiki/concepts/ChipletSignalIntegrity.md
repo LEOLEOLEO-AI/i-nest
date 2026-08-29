@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[2_5D_PIM_Chiplet_Integration]]
 [[3DHI_Stacking]]
 [[3D_Heterogeneous_Integration]]
@@ -30,7 +31,6 @@ Auto-extracted concept from raw material compilation.
 [[Advanced_Packaging_Route]]
 [[AdversarialMedicalRobustness]]
 [[Allreduce_Latency_Probe]]
-[[Analog_Computation]]
 [[Architectural_Conditioning]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_NoC_Fabric]]
@@ -40,12 +40,14 @@ Auto-extracted concept from raw material compilation.
 [[EndToEndLinkSimulation]]
 [[Heterogeneous_Integration]]
 [[Hypersonic_Weapon_Market_CAGR]]
+[[Network_on_Chip]]
 [[NonEquilibriumComputing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SuperparamagneticSwitchingRate]]
 [[Swarm_Coordination]]
 [[TCC]]
 [[advanced packaging]]
+[[analog computation]]
 [[chiplet interconnect]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

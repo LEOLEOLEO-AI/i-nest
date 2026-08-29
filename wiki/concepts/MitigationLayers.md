@@ -20,9 +20,9 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
+[[AI-ML — 全景导航 (Map of Content)]]
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_Faculty_Forum_2026]]
-[[Analog_Computation]]
 [[Analog_Weight_Storage]]
 [[BigBrainCellularAxis]]
 [[CST计量仪]]
@@ -47,12 +47,12 @@ Auto-extracted concept from raw material compilation.
 [[SpatiotemporalComplexityIndex]]
 [[Spatiotemporal_Synergy_Complexity]]
 [[Structural_Mismatch]]
+[[analog computation]]
 [[chiplet interconnect]]
 [[iNEST]]
 [[temporalComplexity]]
 [[vLLM_plugin_FLSDI]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[类脑芯片]]
 
 ## Sources

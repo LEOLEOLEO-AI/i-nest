@@ -39,6 +39,8 @@ Auto-extracted concept from raw material compilation.
 [[FerroelectricMemoryCell]]
 [[Ferroelectric_Devices]]
 [[Heterogeneous_Integration]]
+[[Heterogeneous_Integration_Security]]
+[[Intelligence_Emergence]]
 [[InterconnectConstrainedEmergence]]
 [[Network_Topology_Design]]
 [[TCC]]

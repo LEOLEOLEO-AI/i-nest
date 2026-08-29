@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AnomalousSpinTransport]]
 [[BiologicalNoiseMimicry]]
 [[CirculateFiringNeuron]]
+[[CollectiveSpikingDynamics]]
 [[CompartmentalNeuronModel]]
 [[ComplexValuedSNN]]
 [[CoreComputationSubspace]]

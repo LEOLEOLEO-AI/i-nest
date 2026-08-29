@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[PathIntegration]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SDDE_Attractor_Emergence]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Accessibility_Plasticity]]
 [[AdaptiveNetworkResilience]]
 [[BioInspired_Interception_Control]]
+[[Biologically_Plausible_Learning_Rules]]
 [[BurstGatedRouting]]
 [[CirculateFiringNeuron]]
 [[CriticalityDrivenStateTransition]]
