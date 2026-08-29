@@ -4,7 +4,7 @@ cssclass: dashboard
 
 # 🔬 TCC × iNEST 自进化研发中枢
 
-> **知识库状态：活跃** | 管线：❓ unknown | Git: 4545 uncommitted | 更新：2026-08-30 03:19
+> **知识库状态：活跃** | 管线：❓ unknown | Git: 19 uncommitted | 更新：2026-08-30 03:25
 
 ---
 
@@ -12,7 +12,7 @@ cssclass: dashboard
 
 | 维度 | 数值 | 入口 |
 |---|---|---|
-| 📄 知识库总文件 | **10,995** | [[Home\|根目录/Home]] |
+| 📄 知识库总文件 | **10,997** | [[Home\|根目录/Home]] |
 | 🔬 TCC 资料 | **1,837** | [[30_TCC/TCC_Master_Index\|TCC 主索引]] |
 | 🧠 iNEST 资料 | **1,235** | [[40_iNEST/iNEST_Master_Index\|iNEST 主索引]] |
 | 📥 待处理论文 | **203** | [[00_Inbox/_pipeline_insights/Index\|论文收件箱]] |
@@ -56,7 +56,7 @@ cssclass: dashboard
 >[!tip] 知识库维护
 >- [[wiki/task_recommendations|查看自动推荐任务]]
 >- [[60_MOC/07_Pipeline_Status|管线状态]]：`❓ unknown`
->- Git：4545 uncommitted changes
+>- Git：19 uncommitted changes
 
 **入口**：[[60_MOC/03_Daily_Action|每日行动]] · [[60_MOC/04_Daily_Focus|今日焦点]] · [研发看板（浏览器打开）](http://127.0.0.1:8899/vault/70_Dashboard/index.html)
 
@@ -166,7 +166,6 @@ Processing → TCC/iNEST → Output
 
 | 日期 | 断链 | 孤儿 | 缺FM |
 |---|---|---|---|
-| 2026-08-25 | 3936 | 2583 | 929 |
 | 2026-08-26 | 3919 | 2589 | 935 |
 | 2026-08-26 | 3919 | 2589 | 935 |
 | 2026-08-27 | 4001 | 2449 | 936 |
@@ -176,6 +175,7 @@ Processing → TCC/iNEST → Output
 | 2026-08-29 | 3959 | 2462 | 952 |
 | 2026-08-29 | 3942 | 2462 | 952 |
 | 2026-08-29 | 3951 | 2468 | 952 |
+| 2026-08-30 | 3790 | 2479 | 963 |
 
 > 完整日志 → [[99_Meta/self_evolve_log.json|自进化日志]] · 健康报告 → [[wiki/health|知识健康报告]]
 
@@ -212,4 +212,4 @@ Processing → TCC/iNEST → Output
 
 ---
 
-*主页由 homepage_generator.py 自动刷新 | 2026-08-30 03:19*
+*主页由 homepage_generator.py 自动刷新 | 2026-08-30 03:25*

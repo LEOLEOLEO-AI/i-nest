@@ -106,30 +106,31 @@
       "method": "llm"
     },
     "30_TCC\\32_Technology\\Hala_Point：英特尔打造全球最大“类脑”计算系统.md": {
-      "date": "2026-08-30T03:17:55.922453",
-      "card": "20260830_Hala_Point：英特尔打造全球最大“类脑”计算系统.md",
-      "method": "llm"
-    },
-    "30_TCC\\31_Theory\\2026-06-23_S2_Ferroelectric Tunnel Junction Memristor Crossbar Array with .md": {
-      "date": "2026-08-30T03:18:08.663854",
+      "date": "2026-08-30T03:20:21.534519",
       "error": true
     },
+    "30_TCC\\31_Theory\\2026-06-23_S2_Ferroelectric Tunnel Junction Memristor Crossbar Array with .md": {
+      "date": "2026-08-30T03:20:36.270232",
+      "card": "20260830_2026-06-23_S2_Ferroelectric Tunnel Junction Memris.md",
+      "method": "llm"
+    },
     "30_TCC\\31_Theory\\2026-06-23_S2_Energy and Lifetime Optimizations for Dark Silicon Manycore .md": {
-      "date": "2026-08-30T03:18:15.754621",
+      "date": "2026-08-30T03:23:10.035217",
       "card": "20260830_2026-06-23_S2_Energy and Lifetime Optimizations fo.md",
       "method": "llm"
     },
     "30_TCC\\32_Technology\\_Nature大子刊__北大团队打破模拟计算精度限制_用3-bit忆阻器实现32-bit数字级精度_矩阵求逆快1000倍.md": {
-      "date": "2026-08-30T03:18:27.815749",
-      "error": true
+      "date": "2026-08-30T03:25:04.604631",
+      "card": "20260830__Nature大子刊__北大团队打破模拟计算精度限制_用3-bit忆阻器实现32-bit数字级精度_.md",
+      "method": "llm"
     },
     "30_TCC\\31_Theory\\2026-06-20_iNEST_S2_Ferroelectric Tunnel Junction Memristor Crossbar Array with .md": {
-      "date": "2026-08-30T03:18:32.337390",
+      "date": "2026-08-30T03:25:14.566504",
       "card": "20260830_2026-06-20_iNEST_S2_Ferroelectric Tunnel Junction .md",
       "method": "llm"
     },
     "30_TCC\\32_Technology\\Nature_Communications：神经形态计算革新，借鉴生物突触的MoS₂三端器件赋能去中心化AI.md": {
-      "date": "2026-08-30T03:19:04.631538",
+      "date": "2026-08-30T03:25:31.356545",
       "error": true
     }
   }
