@@ -45,6 +45,8 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[neuromorphic interconnect]]
 [[neuromorphic spiking]]
+[[忆阻器]]
+[[神经网络]]
 [[类脑芯片]]
 
 ## Sources

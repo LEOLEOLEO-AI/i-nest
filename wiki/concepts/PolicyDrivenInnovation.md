@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[DelayCodedWorkingMemory]]
 [[DifferentiableRasterizationPipeline]]
 [[DimensionalityReductionPrinciple]]
+[[EventDrivenAsynchronousRouting]]
 [[Military_AI_Revolution]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[CavityMethodAnalysis]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
+[[Computation_Access_Routing]]
 [[CorticalWaveRouting]]
 [[Emergent_Topology_Adaptation]]
 [[FatalityDrivenRewiring]]

@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Crossover_Physics]]
 [[FeatureBonding]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
+[[InNetworkReconfiguration]]
 [[Network_Topology_Design]]
 [[Quantum_Criticality]]
 [[SelfOrganization]]

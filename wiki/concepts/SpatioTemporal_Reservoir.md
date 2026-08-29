@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[156QubitScale]]
 [[AcademicDevelopmentCoCreation]]
 [[Allreduce_Latency_Probe]]
+[[AlternativeBridgingModels]]
 [[Architectural_Conditioning]]
 [[Avalanche_Dynamics]]
 [[Compressed_Glass_Network]]

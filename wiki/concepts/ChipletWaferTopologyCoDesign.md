@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Memory_Wall]]
 [[MinistryTechProjectFramework]]
 [[Network_Topology_Design]]
+[[RTC_Primitives]]
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
 [[SDSoW]]

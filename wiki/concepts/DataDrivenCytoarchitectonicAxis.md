@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[ThermallyDrivenSuperparamagnetReservoir]]
 [[TopologicalPhaseTransition]]
+[[WaveBasedInformationRouting]]
 [[temporalComplexity]]
 [[忆阻器]]
 [[智能涌现]]

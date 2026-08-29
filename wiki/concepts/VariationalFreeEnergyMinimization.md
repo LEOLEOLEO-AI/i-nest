@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveSpeechToSpikeEncoding]]
 [[AsynchronousEventDrivenComputation]]
 [[BayesianDomainEvolution]]
+[[Co_designed_Online_Continual_Learning]]
 [[Complex_System_Theory]]
 [[CounterstreamSignalPropagation]]
 [[Cytokine_Feedback_Loops]]
@@ -52,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

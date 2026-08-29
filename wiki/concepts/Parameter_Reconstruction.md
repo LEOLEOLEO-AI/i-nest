@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Planning_Revolution]]
 [[Online_Continual_Learning]]
 [[PowerLawScaling]]
+[[QuantumProbabilityFlowHebbian]]
 [[RealTimeImageToEventConversion]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]

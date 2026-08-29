@@ -32,6 +32,8 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration_Route]]
 [[Complex_System_Theory]]
 [[CorticalWaveRouting]]
+[[Environmental_Capability_Context]]
+[[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[MatrixShapePhaseTransition]]
 [[Network_Topology_Design]]

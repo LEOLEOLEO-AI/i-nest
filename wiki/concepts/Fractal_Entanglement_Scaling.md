@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Cross_Node_Event_Propagation]]
 [[DARPA_BioStrategic_Reshaping]]
 [[DeepCounterstreamAssociativeNetworks]]
+[[DendriticReservoirState]]
 [[Emergent_Intelligence_Threshold]]
 [[EventCameraActionRecognition]]
 [[Free_Energy_Principle_Network]]

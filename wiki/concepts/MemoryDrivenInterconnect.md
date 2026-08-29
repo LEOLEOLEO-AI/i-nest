@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[BrainInspiredArchitecture]]
 [[BurstGatedRouting]]
+[[CIMWeightUpdateAwareness]]
 [[Complex_System_Theory]]
 [[EventDrivenTracking]]
 [[In_Package_Neuromorphic_Integration]]

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[EulaminateOverrepresentation]]
 [[Exponential_CST_Coupling]]
 [[Heterogeneous_Integration]]
+[[Intelligent_Computing_Infrastructure]]
 [[Memory_Wall]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[MetaFAIR_ArchitectureDiscovery]]
@@ -68,7 +69,6 @@ Auto-extracted concept from raw material compilation.
 [[chiplet interconnect]]
 [[complex system]]
 [[iNEST]]
-[[iNEST_Wafer]]
 [[residual connection]]
 [[temporalComplexity]]
 

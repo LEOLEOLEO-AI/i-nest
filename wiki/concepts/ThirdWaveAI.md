@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[EdgeOfChaos]]
 [[ElectromigrationReliability]]
 [[EulaminateOverrepresentation]]
+[[GeneralIntelligenceSubstrate]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[MultiScaleTemporalProcessing]]
@@ -50,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_TCC_Chiplet]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
+[[STDP_Plasticity]]
 [[ScalabilityFaultToleranceTradeoff]]
 [[SelfOrganizedOscillatoryLearning]]
 [[SoftwareDefinedSystemOnWafer]]
@@ -58,7 +60,6 @@ Auto-extracted concept from raw material compilation.
 [[WaferScaleSubstrate]]
 [[chiplet interconnect]]
 [[iNEST]]
-[[iNEST_Wafer]]
 [[涌现]]
 
 ## Sources

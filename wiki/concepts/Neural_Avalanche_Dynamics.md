@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[DivergentHigherAreaRanking]]
 [[DynamicalSelfDualCriticality]]
 [[Emergent_Intelligence_Threshold]]
+[[FractalPathEntropy]]
 [[HardwareAware_DesignSpace]]
 [[Intelligence_Emergence]]
 [[Izhikevich_NeuronModel]]

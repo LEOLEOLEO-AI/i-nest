@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CXL_Deployment_Transition]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
+[[Chiplet_NoC_Fabric]]
 [[CommunicationAwareComputeRelocation]]
 [[Compute_Centric_NoC]]
 [[CongestionAwareNoCPlacement]]

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[ExtensiveWidthInterpolation]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
+[[ReputationPropagationTopology]]
 [[ReputationPropagation]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]

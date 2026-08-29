@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Continual_Learning_Topology]]
 [[CorticalTypeDiversity]]
 [[CounterstreamSignalPropagation]]
+[[CouplingMatrixRecovery]]
 [[DTGA]]
 [[DendriticReservoirState]]
 [[Dynamic_Expert_Fusion]]

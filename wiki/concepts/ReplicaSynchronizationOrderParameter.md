@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[FixedOverheadFloor]]
 [[Independent_AI_Player_Endgame]]
 [[ManyBodyLocalizationSymmetry]]
+[[ManyBodyLocalization]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[ReplicaSynchronization]]

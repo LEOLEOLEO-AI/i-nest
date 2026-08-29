@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AdvancedPackagingInterconnect]]
 [[Chiplet_Based_Trusted_Hardware]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_NoC_Interconnect]]
 [[Chiplet_Stacking]]
 [[CoPackagedOptics]]
 [[CommunicationPrimitiveTopologyCoupling]]

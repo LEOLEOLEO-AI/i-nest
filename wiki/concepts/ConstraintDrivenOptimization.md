@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[HoldingManeuverDelayGraph]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
+[[OptimalControlPolicyLearning]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]

@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI节点接口规范与化合键定义]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
+[[ScalabilityFaultToleranceTradeoff]]
 [[TCC]]
 [[chiplet interconnect]]
 [[涌现]]

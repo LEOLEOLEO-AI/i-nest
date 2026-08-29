@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Stacking]]
 [[Complex_System_Theory]]
 [[ComputeRelocationOverhead]]
+[[GraphBasedSemanticRouting]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[InterChipletPHYModeling]]

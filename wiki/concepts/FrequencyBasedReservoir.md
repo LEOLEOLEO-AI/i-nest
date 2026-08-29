@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[ComputationEfficientDeepLearning]]
 [[Course_Based_FPGA_Projects]]
+[[Deep_Network_Architecture_Invariant]]
 [[Dynamic_Expert_Fusion]]
 [[EfficientDeepLearning]]
 [[Emergent_Intelligence_Threshold]]

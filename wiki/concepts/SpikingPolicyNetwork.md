@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
 [[SNN]]
+[[SpikingObserverArchitecture]]
 [[SpikingSafetyMargin]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

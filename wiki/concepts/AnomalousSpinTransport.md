@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[Allreduce_Latency_Probe]]
 [[BigBrainCellularAxis]]
+[[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Contested_Prior_Resolution]]

@@ -38,7 +38,6 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[ST_SNN]]
 [[SpectralSpikeEncoding]]
-[[SpikeTimingGradientPropagation]]
 [[SpikeTimingGradient]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Mamba_Block]]
@@ -46,9 +45,9 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[TemporalAdversarialPerturbation]]
+[[TemporalCodingForPointClouds]]
 [[TemporalContrastEncoding]]
 [[iNEST]]
-[[iNEST_Neuromorphic_Integration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

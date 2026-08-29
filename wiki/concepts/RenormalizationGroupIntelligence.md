@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[DisorderedNetworkDynamics]]
 [[Emergent_Intelligence_Threshold]]
+[[Epithelial_Barrier_Integrity]]
 [[Heterogeneous_Synaptic_Motifs]]
 [[Hyper_Dimensional_Computing]]
 [[Intelligence_Emergence]]

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[BrainBodyResonance]]
 [[BrownianCastleInterface]]
+[[BrownianCastleInterfaces]]
 [[CSI_Temporal_Encoding]]
 [[Chiplet_Based_Neuromorphic_Integration]]
 [[Chiplet_Heterogeneous_Integration]]

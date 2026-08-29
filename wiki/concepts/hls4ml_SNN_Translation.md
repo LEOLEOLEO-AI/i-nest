@@ -33,11 +33,11 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[OpenSource_Neuromorphic_Framework]]
 [[SDI_Bond]]
+[[SDI_STDP]]
 [[SDI_iNEST_Interconnect]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
-[[iNEST_Interconnect]]
 [[neuromorphic computing]]
 [[spiking neural network]]
 

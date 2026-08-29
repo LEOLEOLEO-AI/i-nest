@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[AttentionLikeHebbianMechanism]]
 [[AttentionMap_DifferenceResidual]]
 [[Attention_ResidualCancellation]]
+[[Biological_Neural_Circuit_Formalization]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

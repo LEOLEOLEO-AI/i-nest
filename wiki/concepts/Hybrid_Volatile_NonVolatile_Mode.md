@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Integration]]
 [[Intelligence_Emergence]]
+[[IonotropicPhotoresponse]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]

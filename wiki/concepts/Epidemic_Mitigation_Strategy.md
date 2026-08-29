@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Coupling_Strength_Encoding]]
 [[DTGA]]
 [[DendriticReservoirState]]
+[[DifferentiableLifting]]
 [[Dynamic_Expert_Fusion]]
 [[EmergentTaskDecomposition]]
 [[Intelligence_Emergence]]

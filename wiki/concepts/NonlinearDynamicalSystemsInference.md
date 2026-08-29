@@ -22,9 +22,12 @@ Auto-extracted concept from raw material compilation.
 
 [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[BigBrainCellularAxis]]
+[[Brain_Connectome]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Complex_System_Theory]]
 [[Complexity_Emergence]]
+[[Connectome]]
+[[Connectome_Reservoir]]
 [[DataDrivenCellularAxis]]
 [[DrivenDissipativeDynamics]]
 [[ErrorSuppressedPipeline]]

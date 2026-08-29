@@ -43,12 +43,14 @@ Auto-extracted concept from raw material compilation.
 [[PhotoIontronicSynapse]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SpikePacketCompression]]
+[[SpikingNeuralNetworkTopologyMapping]]
 [[SpikingNeuralNetworkTopology]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[WirelessSplitComputing]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

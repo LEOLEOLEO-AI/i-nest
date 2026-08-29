@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[FerroelectricCrossbarArray]]
 [[FerroelectricSynapticArray]]
 [[Ferroelectric_Devices]]
+[[GeneralizationPhaseBoundary]]
 [[In_Memory_Computing]]
 [[InputAdaptiveComputation]]
 [[Intelligence_Emergence]]

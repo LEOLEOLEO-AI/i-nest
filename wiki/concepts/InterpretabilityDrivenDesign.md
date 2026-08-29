@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[ANN_SNN_ConversionError]]
+[[Adjoint_Gradient_Propagation]]
 [[AnomalousSpinTransport]]
 [[AthermalDynamics]]
 [[BerryCurvatureIsolation]]
@@ -34,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
+[[SNN]]
 [[Spiking_Neural_Network]]
 [[TriAxiomCalibration]]
 [[iNEST]]

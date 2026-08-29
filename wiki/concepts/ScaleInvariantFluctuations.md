@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[DataDrivenCellularAxis]]
 [[Deep_Thermalisation]]
 [[Disordered_Heisenberg_Model]]
+[[ImaginaryGaugePhaseImprint]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[TCC]]

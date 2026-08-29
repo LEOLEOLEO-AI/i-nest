@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[BulletTrainScheduling]]
 [[Criticality]]
 [[CrossEntityPreemptiveWarning]]
+[[EventBasedMotionDeblurring]]
 [[EventDrivenAutoregression]]
 [[Heterogeneous_Integration]]
 [[SNN]]

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[ContinuousTraitAxelrodModel]]
 [[DendriticReservoirState]]
+[[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[LocalLearningRules]]

@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[CorticalTypeDiversity]]
 [[DRBE_MVP_Mainchain]]
 [[DTGA]]
+[[DataProvenanceIntegrity]]
 [[EulaminateOverrepresentation]]
 [[Heterogeneous_Integration]]
 [[Memory_Wall]]

@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[Personnel_Role_Assignment]]
 [[SpatialAutocorrelationMetric]]
+[[TopologicalDataCompression]]
 [[soc]]
 [[涌现]]
 

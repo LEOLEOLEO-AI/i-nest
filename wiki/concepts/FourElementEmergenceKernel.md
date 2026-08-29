@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Complexity_Emergence]]
 [[Contested_Prior_Resolution]]
+[[DendriticReservoirState]]
 [[Emergent_Intelligence_Threshold]]
 [[Epithelial_Barrier_Integrity]]
 [[FermiSurfaceChiralityProjection]]

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Memristor_Synapse]]
+[[Meta_Residual_Learning]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_computing]]
 [[Reservoir_Computing]]

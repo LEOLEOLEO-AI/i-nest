@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[InterChipletPHYModeling]]
 [[Memristive_STDP]]
+[[NCL神经计算定律详解]]
 [[Network_Topology_Design]]
 [[Photonic_Chiplet_Interconnect]]
 [[RecursiveSelfReferentialArchitecture]]

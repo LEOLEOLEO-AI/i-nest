@@ -27,7 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[CirculateFiringNeuron]]
 [[CriticalStateInformationMaximization]]
-[[CriticalityDrivenStateTransition]]
+[[CriticalityConstrainedPruning]]
 [[Criticality]]
 [[DynamicTokenSparsity]]
 [[Emergent_Intelligence_Threshold]]

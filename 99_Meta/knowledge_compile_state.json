@@ -1,39 +1,6 @@
 {
   "schema": "knowledge-compiler-review-v1",
-  "generated": "2026-08-29T18:30:06",
+  "generated": "2026-08-30T03:00:04",
   "status": "pending_user_review",
-  "items": [
-    {
-      "title": "MeshReduce-U: Compiler-Guided Communication Reduction for Irregular Neural Reductions on Mesh NoCs",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2608.26220v1",
-      "track": "TCC",
-      "relevance": 2,
-      "file": "00_Inbox/_pipeline_insights/2026-08-29_arXiv_MeshReduce-U Compiler-Guided Communication Reduction for Irr.md",
-      "tcc_insight": "Keyword: noc, routing",
-      "inest_insight": "无直接关联或待确认。",
-      "candidate_actions": [],
-      "knowledge_state": "processed",
-      "evidence_status": "[引用] 待人工核验",
-      "provenance": "external",
-      "user_decision": "pending",
-      "analysis_mode": "metadata-only"
-    },
-    {
-      "title": "Beyond Edge Cuts: Activity-Weighted Multicast Hypergraph Mapping for Spiking Neural Networks on Mesh NoCs",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2608.26223v1",
-      "track": "iNEST",
-      "relevance": 2,
-      "file": "00_Inbox/_pipeline_insights/2026-08-29_arXiv_Beyond Edge Cuts Activity-Weighted Multicast Hypergraph Mapp.md",
-      "tcc_insight": "无直接关联或待确认。",
-      "inest_insight": "Keyword: spiking neural, neuromorphic",
-      "candidate_actions": [],
-      "knowledge_state": "processed",
-      "evidence_status": "[引用] 待人工核验",
-      "provenance": "external",
-      "user_decision": "pending",
-      "analysis_mode": "metadata-only"
-    }
-  ]
+  "items": []
 }

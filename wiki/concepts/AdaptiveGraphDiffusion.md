@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Additive_Manufacturing_Supply_Chain]]
 [[Advanced_Packaging_for_Space]]
 [[Allreduce_Latency_Probe]]
+[[AndersonTransition]]
 [[Architectural_Conditioning]]
 [[Asymptotic_Exact_Solution]]
 [[Chiplet_Heterogeneous_Integration]]

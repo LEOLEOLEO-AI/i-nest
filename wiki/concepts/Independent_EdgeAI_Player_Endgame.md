@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Weight_Storage]]
 [[Attention_Residuals]]
 [[BigBrainCellularAxis]]
+[[ByteDance_Ada_Chip]]
 [[CST计量仪]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_based_heterogeneous_integration]]
@@ -52,8 +53,8 @@ Auto-extracted concept from raw material compilation.
 [[SystemLevelNonlinearity]]
 [[TemporalDynamicsModeling]]
 [[Textbook_Paradigm_Definition]]
+[[heterogeneous_integration]]
 [[iNEST]]
-[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

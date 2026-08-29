@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Bipartite_Interconnect]]
 [[CellEmergence]]
 [[Complex_System_Theory]]
+[[Critical_Region_Extension]]
 [[DisorderedNetworkInterconnect]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

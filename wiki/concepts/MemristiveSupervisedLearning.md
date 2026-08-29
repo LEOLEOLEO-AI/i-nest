@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Memory_Computing]]
 [[Memristor_Synapse]]
 [[OneDimensionalLongRangeInteractions]]
+[[PDN_Aware_Voltage_Droop_Control]]
 [[Process_Recycling_Paradigm]]
 [[TCC]]
 [[iNEST]]

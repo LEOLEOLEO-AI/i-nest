@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[EventCameraPoseInput]]
 [[EventDrivenSynchronization]]
 [[ImpactFallDetection]]
+[[MembranePotentialAlignment]]
 [[Network_Topology_Design]]
 [[Oncological_Digital_Twin]]
 [[SNN]]

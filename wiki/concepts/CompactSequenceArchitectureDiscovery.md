@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[DistributedEventConditionDesign]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[EnergyEfficiencyAI]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]

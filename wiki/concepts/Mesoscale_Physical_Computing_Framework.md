@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[ERI_2_0_Strategic_Framework]]
 [[Emergent_Intelligence_Threshold]]
 [[FPGA_Neuromorphic_Architectures]]
+[[FastSlow_Dynamics]]
 [[Free_Energy_Principle_Network]]
 [[Intelligence_Emergence]]
 [[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]

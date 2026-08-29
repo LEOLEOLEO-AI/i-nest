@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[3DHI_Chiplet_Integration]]
+[[3DHI_Integration]]
 [[AI_Faculty_Forum_2026]]
 [[AnalogInMemoryComputing]]
 [[Analog_Synaptic_Weighting]]
@@ -36,8 +37,11 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_ProjectManager_Model]]
 [[DecisionDiagramCompression]]
 [[Decoupled_Priors]]
+[[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[TCC]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

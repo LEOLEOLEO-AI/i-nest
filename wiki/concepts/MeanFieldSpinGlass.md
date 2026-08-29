@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Epithelial_Barrier_Integrity]]
 [[Heterogeneous_Integration]]
 [[IntegratedSensingFusion]]
+[[IntegrationProspectsForVLSI]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Chiplet]]

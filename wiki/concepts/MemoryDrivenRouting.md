@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[DifferentiableRasterizationPipeline]]
 [[DistinctReentrantPhases]]
 [[EdgeIoTEnergyAwareness]]
+[[GraphBasedSemanticRouting]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[InterChipletPHYModeling]]

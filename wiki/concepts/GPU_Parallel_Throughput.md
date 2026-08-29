@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Arm_Locomotor_Synergy]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[CorticalTravelingWave]]
+[[CorticalTravelingWaves]]
 [[CriticalStateInformationMaximization]]
 [[CurrentInjectionSNN]]
 [[DirectTrainingSNN]]

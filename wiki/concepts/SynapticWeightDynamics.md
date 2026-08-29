@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Learning]]
 [[STDP_Plasticity]]
 [[ScaleFreeNetwork]]
+[[Stigmergic_Neural_Plasticity]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[Temporal_Dynamics_Integration]]

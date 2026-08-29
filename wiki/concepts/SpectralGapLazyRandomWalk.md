@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[DirectConnect_Topology]]
 [[DualSided_3D_Integration]]
 [[DualSided_Routing_Resource]]
+[[EdgeIoTEnergyAwareness]]
 [[Free_Energy_Principle_Network]]
 [[FullDimensionalDefinableInterconnect]]
 [[Heterogeneous_Integration]]

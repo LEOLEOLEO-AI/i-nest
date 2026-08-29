@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Decoupled_Priors]]
 [[EnergyOptimizedManycoreArchitecture]]
+[[GraphBasedSemanticRouting]]
 [[Heterogeneous_Integration]]
 [[Independent_AI_Player_Endgame]]
 [[Intelligence_Emergence]]

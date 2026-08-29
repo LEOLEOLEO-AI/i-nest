@@ -1,14 +1,14 @@
 {
-  "generated": "2026-08-29T18:30:06.964926",
+  "generated": "2026-08-30T03:00:05.238937",
   "generator": "state_generator.py v1.0",
   "vault": {
-    "total_md": 10982,
+    "total_md": 10989,
     "inbox_00": 200,
     "processing_20": 563,
-    "tcc_30": 1835,
-    "inest_40": 1233,
+    "tcc_30": 1837,
+    "inest_40": 1235,
     "output_50": 429,
-    "moc_60": 75
+    "moc_60": 78
   },
   "services": {
     "preview_server_8899": false,
@@ -17,38 +17,9 @@
   },
   "pipeline": {
     "ingested_today": {
-      "today": 7,
+      "today": 0,
       "total": 200,
-      "recent": [
-        {
-          "file": "2026-08-29_arXiv_Syn2Logic End-to-End Neuromorphic Design Automation.md",
-          "preview": "---\ntitle: \"Syn2Logic: End-to-End Neuromorphic Design Automation\"\ndate: 2026-08-29\nsource: arXiv\ntrack: iNEST\nauthors: \nyear: 2026\nurl: http://arxiv.org/abs/2608.25536v1\ntags: [inbox, inest, arxiv]\nci"
-        },
-        {
-          "file": "2026-08-29_arXiv_Study of Resistive Switching Dynamics and Memory States Equi.md",
-          "preview": "---\ntitle: \"Study of Resistive Switching Dynamics and Memory States Equilibria in Analog Filamentary Conductive-Metal-Oxide/HfOx ReRAM via Compact Modeling\"\ndate: 2026-08-29\nsource: arXiv\ntrack: iNEST"
-        },
-        {
-          "file": "2026-08-29_arXiv_Spectral Fingerprints of Gauge Theories on a Quantum Compute.md",
-          "preview": "---\ntitle: \"Spectral Fingerprints of Gauge Theories on a Quantum Computer\"\ndate: 2026-08-29\nsource: arXiv\ntrack: iNEST\nauthors: \nyear: 2026\nurl: http://arxiv.org/abs/2608.27457v1\ntags: [inbox, inest, "
-        },
-        {
-          "file": "2026-08-29_arXiv_Metallogenic quantum criticality Fermi surface nucleation at.md",
-          "preview": "---\ntitle: \"Metallogenic quantum criticality: Fermi surface nucleation at transitions between gapped phases\"\ndate: 2026-08-29\nsource: arXiv\ntrack: iNEST\nauthors: \nyear: 2026\nurl: http://arxiv.org/abs/"
-        },
-        {
-          "file": "2026-08-29_arXiv_MeshReduce-U Compiler-Guided Communication Reduction for Irr.md",
-          "preview": "---\ntitle: \"MeshReduce-U: Compiler-Guided Communication Reduction for Irregular Neural Reductions on Mesh NoCs\"\ndate: 2026-08-29\nsource: arXiv\ntrack: TCC\nauthors: \nyear: 2026\nurl: http://arxiv.org/abs"
-        },
-        {
-          "file": "2026-08-29_arXiv_MeMark Membrane-Space Watermarking for Spiking Neural Networ.md",
-          "preview": "---\ntitle: \"MeMark: Membrane-Space Watermarking for Spiking Neural Networks\"\ndate: 2026-08-29\nsource: arXiv\ntrack: iNEST\nauthors: \nyear: 2026\nurl: http://arxiv.org/abs/2608.25738v1\ntags: [inbox, inest"
-        },
-        {
-          "file": "2026-08-29_arXiv_Beyond Edge Cuts Activity-Weighted Multicast Hypergraph Mapp.md",
-          "preview": "---\ntitle: \"Beyond Edge Cuts: Activity-Weighted Multicast Hypergraph Mapping for Spiking Neural Networks on Mesh NoCs\"\ndate: 2026-08-29\nsource: arXiv\ntrack: iNEST\nauthors: \nyear: 2026\nurl: http://arxi"
-        }
-      ]
+      "recent": []
     },
     "recent_runs": [
       {
@@ -131,22 +102,24 @@
     ]
   },
   "git": {
-    "uncommitted": 9,
+    "uncommitted": 11,
     "details": [
       "M .obsidian/community-plugins.json",
       " M .obsidian/workspace.json",
       " M .workbuddy/automations/automation-1785546922604/memory.md",
-      " M 90_System/state/health_watchdog.json",
       " M 99_Meta/evolution_queue.json",
       " M 99_Meta/hypothesis_registry.json",
       " M 99_Meta/knowledge_compile_state.json",
+      " M Home.md",
       " M state/wiki_compiler_state.json",
-      "?? 60_MOC/12_Knowledge_Review_2026-08-29.md"
+      "?? 60_MOC/12_Knowledge_Review_2026-08-30.md",
+      "?? 60_MOC/weekly_health_20260830.md",
+      "?? \"wiki/articles/Hot_Chips_2026_\\346\\267\\261\\345\\272\\246\\350\\247\\243\\350\\257\\273_AI_\\347\\256\\227\\345\\212\\233\\347\\223\\266\\351\\242\\210\\344\\273\\216\\345\\215\\225\\350\\212\\257\\347\\211\\207\\350\\275\\254\\345\\220\\221\\347\\263\\273\\347\\273\\237\\347\\272\\247\\344\\272\\222\\350\\277\\236.md\""
     ]
   },
   "health": {
-    "latest": "weekly_health_20260823.md",
-    "count": 5
+    "latest": "weekly_health_20260830.md",
+    "count": 6
   },
   "task_review": {
     "pending_review": 7,

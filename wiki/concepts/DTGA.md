@@ -15,6 +15,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[AI_Faculty_Forum_2026]]
 [[ANN动力学]]
 [[Alpha_Computation_Consistency]]
@@ -29,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Exponential_CST_Coupling]]
 [[Free_Energy_Topology_Mapping]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Memory_Wall]]
 [[Memristive_STDP]]
 [[Memristor_Network]]
@@ -73,6 +75,7 @@ Auto-extracted concept from raw material compilation.
 [[temporalComplexity]]
 [[Γst_Revision]]
 [[智能涌现]]
+[[涌现]]
 [[神经网络]]
 
 ## Sources

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CouplingTopologyInducedDynamics]]
 [[CriticalFixedPoint]]
 [[CriticalRegimeReservoir]]
+[[Critical_Exponent_Scaling]]
 [[Criticality]]
 [[Network_Topology_Design]]
 [[Reservoir_Computing]]

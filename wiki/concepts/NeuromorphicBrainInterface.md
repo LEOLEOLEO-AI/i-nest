@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Package_Neuromorphic_Integration]]
 [[LocalLearning_SynapticUpdate]]
 [[NestedRepresentation]]
+[[NeuromorphicEdgeProcessing]]
 [[NeuromorphicHandwritingRecognition]]
 [[NeuromorphicNetworkSecurity]]
 [[Neuromorphic_Computing]]

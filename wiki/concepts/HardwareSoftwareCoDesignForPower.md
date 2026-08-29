@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_Topology]]
 [[ModelToChipCompilation]]
 [[Network_Topology_Design]]
+[[RTC_Primitives]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]
 [[SDSoW]]

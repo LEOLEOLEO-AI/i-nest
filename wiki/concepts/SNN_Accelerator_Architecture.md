@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SDDE_Attractor_Emergence]]
 [[SNN]]
 [[Spike_Encoding_of_fMRI]]
 [[SpikingTopologyEvolution]]

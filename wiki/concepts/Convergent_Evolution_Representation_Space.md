@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[NetworkFeedbackEquilibrium]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[ReservoirTemporalDynamics]]
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[TCC]]

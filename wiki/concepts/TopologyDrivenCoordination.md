@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Allreduce_Latency_Probe]]
 [[Ant_Swarm_Functional_Control]]
+[[ArchitecturalCondition]]
 [[Architectural_Conditioning]]
 [[Cognitive_Relapse_Decoupling]]
 [[CollectiveStateTopology]]

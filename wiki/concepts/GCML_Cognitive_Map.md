@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[BrainBodyResonance]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
+[[CorticalWaveRouting]]
 [[DataDrivenCellularAxis]]
 [[Gut_Brain_Immune_Network]]
 [[Intelligence_Emergence]]

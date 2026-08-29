@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[11_SDI节点接口规范与化合键定义_dup]]
 [[12_三原理协同_FEP_最小作用量_STDP]]
 [[3DGS_Scene_Graph]]
+[[ANN动力学]]
 [[ActiveMatterSubstrate]]
 [[Complex_System_Theory]]
 [[ConformalFieldTheoryScaling]]

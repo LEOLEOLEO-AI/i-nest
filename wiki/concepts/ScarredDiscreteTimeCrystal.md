@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[AdjointWaveControl]]
 [[Anomaly_Protected_Scaling_Law]]
 [[BayesianConnectivityEstimation]]
+[[Capability_Reserve_Index]]
 [[Network_Topology_Design]]
 [[TCC]]
 

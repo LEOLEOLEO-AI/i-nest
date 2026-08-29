@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[Cascading_Failure_Mitigation]]
 [[CellEmergence]]
+[[CircuitSynthesis]]
 [[Complex_System_Theory]]
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[CrossLayer_SignalRouting]]

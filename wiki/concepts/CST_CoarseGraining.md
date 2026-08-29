@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[InverseDesignedPhotonicAccelerator]]
+[[NCL神经计算定律详解]]
 [[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]

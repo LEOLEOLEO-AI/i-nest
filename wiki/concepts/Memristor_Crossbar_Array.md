@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[QuantumCircuitCompression]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SharedAssociativeMemory]]
+[[SiC_GaN_Power_Integration]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[causal emergence]]

@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[complex system]]
 [[iNEST]]
+[[iNEST_Neuromorphic_Integration]]
 [[神经网络]]
 
 ## Sources

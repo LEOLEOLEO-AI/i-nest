@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Network]]
 [[Memristor_Synapse]]
 [[Mesoscale_Heterogeneous_Integration]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[Network_topology_and_interconnection_patterns]]
@@ -66,7 +67,6 @@ Auto-extracted concept from raw material compilation.
 [[chiplet interconnect]]
 [[heterogeneous_integration]]
 [[iNEST]]
-[[iNEST_Wafer]]
 [[residual connection]]
 [[temporalComplexity]]
 

@@ -51,6 +51,8 @@ Auto-extracted concept from raw material compilation.
 [[Photonic_Chiplet_Interconnect]]
 [[SDI_Bond]]
 [[SDI_Topology]]
+[[STDP_Plasticity]]
+[[SerDes_Bandwidth_Convergence]]
 [[TCC]]
 [[advanced packaging]]
 [[涌现]]

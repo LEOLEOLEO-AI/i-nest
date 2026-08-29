@@ -45,6 +45,8 @@ Auto-extracted concept from raw material compilation.
 [[OnDie_Fusion]]
 [[SDI_Bond]]
 [[SDI_NPU_NoC_Integration]]
+[[STDP_Plasticity]]
+[[SoftwareDefinedSystemOnWafer]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[TopologyAwareStateMigration]]

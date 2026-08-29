@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Photonic_Chiplet_Interconnect]]
 [[RTC_Primitive]]
+[[RTC_Primitives]]
 [[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]
 [[SDI_Bond]]

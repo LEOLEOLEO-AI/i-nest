@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[4H_SiC_SubstrateProcessing]]
 [[AI_Faculty_Forum_2026]]
 [[Chiplet_Heterogeneous_Integration]]
 [[EvolutionaryTopologySearch]]
@@ -39,7 +40,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[Topology_Aware_NeuroTrain]]
 [[iNEST]]
-[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

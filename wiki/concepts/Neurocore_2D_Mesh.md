@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuron论文：Neuromorphic is dead, 神经形态已死。]]
 [[Physical_First_Principles]]
+[[Physical_First_Principles_Design]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
 [[STDP_Plasticity]]

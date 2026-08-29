@@ -48,6 +48,8 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[Photonic_Chiplet_Interconnect]]
 [[RecursiveSelfReferentialArchitecture]]
+[[STDP_Plasticity]]
+[[Spaceborne_Computing_Architecture]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[advanced packaging]]

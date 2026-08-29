@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstCoding]]
 [[CirculateFiringNeuron]]
 [[Complex_System_Theory]]
+[[Cytokine_Feedback_Loops]]
 [[Distributed_Spike_Communication]]
 [[Efficient_Coding_Constraint]]
 [[EventBasedAnalogFrontEnd]]
@@ -47,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[Temporal_Computing_Paradigm]]
 [[iNEST]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

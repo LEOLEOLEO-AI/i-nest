@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[CognitiveSupportTopology]]
+[[CollectiveConsensus]]
 [[Collective_State_Convergence]]
 [[Complex_System_Theory]]
 [[Constructed_Reality_Interconnect]]

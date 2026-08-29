@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstTemporalPlasticity]]
 [[Complex_System_Theory]]
 [[ConstraintDrivenOptimization]]
+[[CubicLatticeInterconnect]]
 [[Emergent_Intelligence_Roadmap]]
 [[GutBrainAxis_Reprogramming]]
 [[HoldingManeuverDelayGraph]]

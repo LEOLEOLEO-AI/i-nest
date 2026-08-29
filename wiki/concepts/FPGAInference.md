@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Topology_Mapping]]
+[[Order_Flexibility_Duality]]
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[STDP_Plasticity]]

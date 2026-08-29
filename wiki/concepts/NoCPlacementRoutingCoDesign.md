@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[12_三原理协同_FEP_最小作用量_STDP]]
+[[Analog_InMemory_Processing]]
 [[Anisotropic_Correlation_Length]]
 [[CLINKAsCarrierPrimitive]]
 [[CST_Equation]]
@@ -40,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[Nonreciprocity_Threshold]]
 [[Recursive_Metric_Contraction]]
+[[STDP_Plasticity]]
 [[SixClassSkeletonAsRPrimitiveSpace]]
 [[TCC]]
 [[chiplet interconnect]]

@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AI-ML — 全景导航 (Map of Content)]]
 [[AI4PDE｜综述·论文推荐 08｜物理信息神经网络在偏微分方程问题中的应用：全面综述]]
 [[AI_Faculty_Forum_2026]]
+[[Adaptive_Deep_Brain_Stimulation]]
 [[Analog_To_Information_Conversion]]
 [[Attention_Residuals]]
 [[Beyond_Moore_Pathway]]
@@ -35,7 +36,6 @@ Auto-extracted concept from raw material compilation.
 [[EfficientDeepLearning]]
 [[EmergentIntelligence_Spacetime]]
 [[Emergent_Intelligence_Threshold]]
-[[Emerging_CMOS_Memristor]]
 [[Hyper_Dimensional_Computing]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]
@@ -48,8 +48,10 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[ScalableNeuromorphicTopology]]
 [[complex system]]
+[[emerging CMOS memristor]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

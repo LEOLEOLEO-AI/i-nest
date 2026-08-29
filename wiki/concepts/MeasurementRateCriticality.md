@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[TCC]]
 [[TopologyDrivenDynamics]]
+[[VisualSemanticDecoding]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

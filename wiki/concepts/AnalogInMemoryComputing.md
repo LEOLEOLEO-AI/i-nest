@@ -49,9 +49,10 @@ Auto-extracted concept from raw material compilation.
 [[RenormalizationGroup_ScalingLaws]]
 [[SpatiotemporalComplexityIndex]]
 [[TCC]]
+[[Textbook_Paradigm_Definition]]
 [[analog computation]]
 [[chiplet interconnect]]
-[[iNEST_Wafer]]
+[[iNEST]]
 [[temporalComplexity]]
 [[待分类]]
 

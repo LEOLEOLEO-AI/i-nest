@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[ImaginaryGaugePhaseImprint]]
 [[Intelligence_Emergence]]
+[[LocalStructuralPlasticity]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[PhaseLockedTopologyMapping]]

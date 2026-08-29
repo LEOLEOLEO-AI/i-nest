@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenPlasticity]]
 [[InNetworkAgentRewiring]]
 [[InSensorMemoryComputing]]
+[[In_Package_Neuromorphic_Integration]]
 [[Intelligence_Emergence]]
 [[MeasurementInducedPhaseTransition]]
 [[Memristor_Synapse]]

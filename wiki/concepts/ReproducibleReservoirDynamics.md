@@ -63,6 +63,7 @@ Auto-extracted concept from raw material compilation.
 [[Topology_Interconnect]]
 [[chiplet interconnect]]
 [[complex system]]
+[[iNEST]]
 [[residual connection]]
 [[temporalComplexity]]
 [[神经网络]]

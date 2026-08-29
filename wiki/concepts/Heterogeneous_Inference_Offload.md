@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Stacking]]
 [[DynamicProgrammingRecycling]]
 [[External_to_OnDie_Evolution]]
+[[HeterogeneousInference]]
 [[Heterogeneous_Chiplet_Customization]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]

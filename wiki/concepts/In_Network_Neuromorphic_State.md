@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[AINext_Initiative]]
 [[AI_Faculty_Forum_2026]]
 [[AnisotropicGaussianPrimitives]]
@@ -36,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[ReservoirTemporalDynamics]]
 [[Reservoir_Computing]]
 [[SDSoW]]
+[[SDSoW_Architecture]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]
 [[SpikeCodedFeatureAssociation]]

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Cross_Node_Event_Propagation]]
 [[Deep_Counterstream_Associative_Memory]]
 [[Distributed_Spike_Communication]]
+[[EventSparseTemporalEncoding]]
 [[FerroelectricSynapse]]
 [[FerroelectricSynapticArray]]
 [[Ferroelectric_Devices]]

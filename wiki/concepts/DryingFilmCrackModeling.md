@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_STDP]]
 [[SDI_STDP_Bond]]
 [[SDI节点接口规范与化合键定义]]
+[[SDSoW]]
 [[STDP_Plasticity]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]

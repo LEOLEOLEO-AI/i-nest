@@ -43,6 +43,8 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Interconnect]]
 [[P_Paradigm]]
 [[Package_Level_Interconnect]]
+[[Photonic_Chiplet_Interconnect]]
+[[STDP_Plasticity]]
 [[TCC]]
 [[涌现]]
 

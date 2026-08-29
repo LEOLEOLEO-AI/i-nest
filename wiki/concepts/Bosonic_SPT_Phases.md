@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AcceleratedMaterialScreening]]
 [[AdversarialResilience]]
 [[Allreduce_Latency_Probe]]
+[[AlternativeBridgingModels]]
 [[Architectural_Conditioning]]
 [[AstrocyteInspiredRepair]]
 [[AvalancheTriggeringMechanism]]

@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[PropertyPredictionModeling]]
 [[RoutabilityDrivenFloorplanning]]
 [[STDP_Plasticity]]
+[[SpinGlassOrderAbsence]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[TopologyAwareFloorplanning]]

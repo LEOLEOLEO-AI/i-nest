@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Architecture]]
 [[Controlled_Release_Kinetics]]
 [[EnsembleSparsity]]
+[[EventDrivenSynchronization]]
 [[MembranePotentialAlignment]]
 [[Memristive_Solutions]]
 [[Neuromorphic_Computing]]

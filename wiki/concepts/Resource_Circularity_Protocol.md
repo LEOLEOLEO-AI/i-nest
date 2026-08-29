@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Swarm_Intelligence_Maximisation]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[TCC_Neuromorphic_Integration]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]

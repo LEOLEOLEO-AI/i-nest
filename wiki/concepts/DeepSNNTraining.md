@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AddressRedundancyElimination]]
 [[AnisotropicGaussianPrimitives]]
 [[Contested_Prior_Resolution]]
+[[CrossLayer_SignalRouting]]
 [[DiscreteContinuous_Unification]]
 [[Distributed_Spike_Communication]]
 [[FPGA_Accelerated_SNN]]

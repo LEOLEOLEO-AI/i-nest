@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[EvolvingArchitectureDynamics]]
 [[Intelligence_Emergence]]
 [[Intelligent_Power_Management]]
+[[LLM_Reward_Design]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

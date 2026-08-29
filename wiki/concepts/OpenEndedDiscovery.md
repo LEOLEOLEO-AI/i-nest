@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstTemporalPlasticity]]
 [[CirculateFiringNeuron]]
 [[Complex_System_Theory]]
+[[DrivenDissipativeDynamics]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[EventTriggeredDistributedControl]]

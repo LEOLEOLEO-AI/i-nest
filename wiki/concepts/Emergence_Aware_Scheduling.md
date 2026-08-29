@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BrainBodyResonance]]
 [[BurstTemporalPlasticity]]
 [[ClosedLoopNeuromorphicControl]]
+[[Controlled_Release_Kinetics]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Intelligence_Emergence]]
 [[NeuromorphicSafetyBoundary]]

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Topology]]
+[[DirectConnect_Topology]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Memory_Wall]]
@@ -40,7 +41,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[Topology_Encapsulation]]
 [[iNEST]]
-[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

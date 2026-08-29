@@ -41,12 +41,14 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[PrecisionConfigurableSparseNvCIM]]
 [[RecursiveSelfReferentialArchitecture]]
+[[RestingStateEEG_Connectivity]]
 [[SpikeAttention]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[ActivityAvalanche]]
 [[Activity_Energy_Tradeoff]]
 [[Beyond_Moore_Packaging_Strategy]]
+[[Constructed_Reality_Interconnect]]
 [[CriticalFixedPoint]]
 [[CriticalStateDynamics]]
 [[Critical_Exponent_Scaling]]

@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[ConductingPolymerDendriteInterconnect]]
 [[EdgeIoTEnergyAwareness]]
 [[Heterogeneous_Integration]]
+[[InInterconnectMemory]]
 [[Intelligence_Emergence]]
 [[IsolatedKVBandwidth]]
 [[Memory_Wall]]

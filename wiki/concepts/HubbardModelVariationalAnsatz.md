@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[DelayRobustEmergence]]
 [[DimensionalityReductionPrinciple]]
 [[DisorderedNetworkInterconnect]]
+[[DistributedEventConditionDesign]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]

@@ -27,6 +27,8 @@ Auto-extracted concept from raw material compilation.
 [[AgenticServiceOrchestration]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[AndersonTransition]]
+[[BifurcationCandidate]]
+[[Complex_System_Theory]]
 [[CorticalWaveRouting]]
 [[CubicLatticeInterconnect]]
 [[Deep_Thermalisation]]
@@ -37,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[TCC]]
 [[iNEST]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

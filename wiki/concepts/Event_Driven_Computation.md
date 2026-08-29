@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenLearning]]
 [[EventDrivenTracking]]
 [[Event_Driven_Architecture]]
+[[Event_Driven_Processing]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
 [[Spiking_Neural_Network]]

@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[ST_SNN]]
+[[SelectorFreeHopfieldNetwork]]
 [[SpikeDrivenDetectionBackbone]]
 [[Spike_Encoding_of_fMRI]]
 [[SpikingNeuronOptimization]]

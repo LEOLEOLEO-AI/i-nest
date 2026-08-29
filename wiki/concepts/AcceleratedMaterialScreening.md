@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Ethical_AI_Constraints]]
 [[ForwardFluctuationGradient]]
 [[FunctionalInterfaceBlock]]
+[[FunctionalInterfaceBlocks]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

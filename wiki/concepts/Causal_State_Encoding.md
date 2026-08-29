@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[AdsorptionBiosorptionMechanism]]
 [[AgentReinforcementLoop]]
 [[Agent_Workflow_Automation]]
+[[Backpropagation_Comparison]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

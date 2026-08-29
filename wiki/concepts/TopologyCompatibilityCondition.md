@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AnalogDomainCompression]]
 [[AndersonTransition]]
 [[AvalancheBranchingRatio]]
+[[Bipartite_Interconnect_Design]]
 [[BranchingRatio]]
 [[CST_Theory]]
 [[CST_Theory_V27_FINAL]]

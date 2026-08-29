@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[CouplingTopologyInducedDynamics]]
 [[Criticality]]
 [[DisorderInducedEntanglementTransition]]
+[[DynamicalSelfDualCriticality]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[NonlinearDynamicalSampling]]

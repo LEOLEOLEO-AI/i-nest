@@ -24,7 +24,6 @@ Auto-extracted concept from raw material compilation.
 [[Crystallized_Embedding_Reservoir]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
-[[Emerging_CMOS_Memristor]]
 [[EnergyResourceEfficiencyCoOptimization]]
 [[FCDC_Architecture]]
 [[FeFET_Polarization_Switching]]
@@ -32,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[FerroelectricSemiconductorReservoir]]
 [[FerroelectricSynapticArray]]
 [[Ferroelectric_Devices]]
+[[FisherOrthogonalMemory]]
 [[GeTeBasedCBRAM]]
 [[HybridResistiveMemoryCIM]]
 [[Hysteretic_State_Encoding]]
@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[SneakPathCurrentSuppression]]
 [[VaCoAl]]
+[[emerging CMOS memristor]]
 [[iNEST]]
 [[memristor device]]
 [[reservoir computing]]
@@ -56,3 +57,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- CMOS_Memristor_Devices (merged 2026-08-30)

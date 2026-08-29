@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Core_Spacetime_Tensor]]
 [[Deep_Thermalisation]]
 [[EntanglementAwareRouting]]
+[[Fractal_Multipartite_Entanglement]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CellEmergence]]
 [[Closed_Loop_Neuromodulation]]
 [[Complex_System_Theory]]
+[[ContinuousGameOfLife]]
 [[ErdosRenyi_Graph_Energy_Surface]]
 [[EventTriggeredDistributedControl]]
 [[FunctionalRelevanceDrivenSelfOrganization]]

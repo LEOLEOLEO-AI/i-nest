@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[ExplainableEnergyAI]]
+[[FPGA_Neuromorphic_Architectures]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Gut_Brain_Immune_Network]]
 [[Intelligence_Emergence]]
@@ -50,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[neuromorphic interconnect]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

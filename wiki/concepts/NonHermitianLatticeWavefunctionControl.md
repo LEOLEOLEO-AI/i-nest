@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[NontrivialBandTopology]]
+[[NontrivialBinaryCombinatorialProblems]]
 [[Representation_Learning_Generalization]]
 [[SpikingTopologyEvolution]]
 [[Spiking_Neural_Network]]

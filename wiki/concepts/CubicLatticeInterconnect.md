@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Accessibility_Plasticity]]
 [[Complex_System_Theory]]
 [[CorticalWaveRouting]]
+[[CriticalWeightNormBoundary]]
 [[Defect_Mediated_Transport]]
 [[EmergentOrder]]
 [[FrozenRateOperator]]

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_NoC_Fabric]]
 [[DARPA_ProjectManager_Model]]
 [[FractureMechanism]]
+[[HeterogeneousInference]]
 [[Heterogeneous_Chiplet_Customization]]
 [[Heterogeneous_Inference_Offload]]
 [[Heterogeneous_Integration]]

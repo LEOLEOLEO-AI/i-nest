@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[DataDrivenMaterialDesign]]
 [[Deep_Thermalisation]]
 [[FreeFermionTopologicalInvariant]]
+[[GraphBasedSemanticRouting]]
 [[Intelligent_Computing_Infrastructure]]
 [[Interconnect_Routing]]
 [[Kinematic_Waves]]

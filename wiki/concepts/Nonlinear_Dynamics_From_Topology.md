@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroupIntelligence]]
+[[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[complex system]]
 [[iNEST]]

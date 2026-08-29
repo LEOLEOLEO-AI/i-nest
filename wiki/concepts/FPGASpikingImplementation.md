@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicReconfigurationForFaultTolerance]]
 [[DynamicTopologyMapping]]
 [[EventDrivenModularArchitecture]]
+[[FPGA_Neuromorphic_Architectures]]
 [[Interconnect_Routing]]
 [[NestedRepresentation]]
 [[Network_Topology_Design]]
@@ -39,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[ScalableNeuromorphicTopology]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
+[[神经网络]]
 [[类脑芯片]]
 
 ## Sources

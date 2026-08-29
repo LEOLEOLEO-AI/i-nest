@@ -40,6 +40,8 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[PacketRoutingForFPGAs]]
+[[STDPDrivenConnectivity]]
+[[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[涌现]]

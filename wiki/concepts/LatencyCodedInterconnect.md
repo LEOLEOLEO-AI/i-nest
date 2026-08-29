@@ -38,10 +38,10 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_Wafer_Stack]]
 [[NoC_Chiplet_iNEST_Wafer]]
 [[P_Paradigm]]
+[[SDI_NoC_Fusion]]
 [[SparseTemporalEncoding]]
 [[TCC]]
 [[iNEST]]
-[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

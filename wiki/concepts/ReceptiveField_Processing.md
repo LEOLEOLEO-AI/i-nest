@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[CircuitTopologySearch]]
 [[CompactAnalogPredictor]]
 [[Complex_System_Theory]]
+[[ComputationalProcessReuse]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

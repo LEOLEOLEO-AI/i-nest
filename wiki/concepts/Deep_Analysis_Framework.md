@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Agent_Workflow_Automation]]
 [[BifurcationCandidateSet]]
 [[BifurcationCandidate]]
+[[CST计量仪]]
 [[CompactBosonDuality]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
@@ -46,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[iNEST]]
 [[涌现]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

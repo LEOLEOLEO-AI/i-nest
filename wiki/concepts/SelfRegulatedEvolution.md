@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[ContinuousTraitAxelrodModel]]
 [[DendriticReservoirState]]
+[[Dynamic_Expert_Fusion]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Reservoir_Computing]]

@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[AsynchronousEventDrivenComputation]]
 [[Bio_plausible_Neuromorphic_Disturbance_Observer]]
 [[Complex_System_Theory]]
+[[Cytokine_Feedback_Loops]]
 [[FlexibilityThreshold]]
 [[Neuromorphic_Computing]]
 [[Online_Continual_Learning]]
@@ -43,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[catastrophic forgetting]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

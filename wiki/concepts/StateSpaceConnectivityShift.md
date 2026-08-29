@@ -30,11 +30,14 @@ Auto-extracted concept from raw material compilation.
 [[ActiveInference]]
 [[AdjustableDynamicsReservoir]]
 [[AdjustableDynamics]]
+[[AlternativeBridgingModels]]
 [[CrashHotspotForecasting]]
 [[Crystallized_Neural_Manifolds]]
 [[DivergentHigherAreaRanking]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
+[[SNN]]
+[[Spiking_Neural_Network]]
 [[reservoir computing]]
 
 ## Sources

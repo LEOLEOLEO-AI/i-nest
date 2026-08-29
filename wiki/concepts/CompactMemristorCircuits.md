@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AIRA_NeuralArchSearch]]
 [[AI_Faculty_Forum_2026]]
 [[Analog_Weight_Storage]]
+[[BeyondPTSymmetry]]
 [[BigBrainCellularAxis]]
 [[CST_Intelligence_Emergence]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AIRA_NeuralArchSearch]]
 [[Chiplet_Based_Neuromorphic_Integration]]
+[[Chiplet_Heterogeneous_Integration]]
 [[CommunicationHeterogeneity]]
 [[ConductingPolymerDendriteMemory]]
 [[Distributed_Spike_Communication]]
@@ -33,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Package_Neuromorphic_Integration]]
 [[Memory_Wall]]
 [[Memristor_Synapse]]
+[[ModelOptimizationFederated]]
 [[ModelOptimization]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

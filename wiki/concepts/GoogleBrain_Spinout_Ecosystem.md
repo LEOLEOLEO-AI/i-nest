@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Server_Side_Inference]]
 [[TCC]]
 [[complex system]]
+[[iNEST]]
 [[涌现]]
 [[神经网络]]
 

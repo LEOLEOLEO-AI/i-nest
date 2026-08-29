@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Distributed_Spike_Communication]]
 [[EdgeInspectionInference]]
 [[EventSparseTemporalEncoding]]
+[[Ferroelectric_Synaptic_Devices]]
 [[Gaussian_Splat_Compression]]
 [[Heterogeneous_Integration]]
 [[Memory_Wall]]

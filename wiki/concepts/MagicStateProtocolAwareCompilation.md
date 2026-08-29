@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[CST_MasterEquation]]
 [[CST_Theory]]
+[[CST_Theory_Integration]]
 [[Complex_System_Theory]]
 [[Decoupled_Priors]]
 [[Independent_AI_Player_Endgame]]

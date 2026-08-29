@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_NoC_Interconnect]]
 [[Chiplet_Topology]]
+[[Chiplet_Topology_Mapping]]
 [[CoPoS]]
 [[Complex_System_Theory]]
 [[EulaminateOverrepresentation]]
@@ -45,13 +46,13 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_Chiplet]]
 [[SDI_Topology]]
+[[STDP_Plasticity]]
 [[SparsityAwareInterconnect]]
 [[TCC]]
 [[WideLink_NoC_Router]]
 [[advanced packaging]]
 [[chiplet interconnect]]
 [[iNEST]]
-[[iNEST_Wafer]]
 [[涌现]]
 
 ## Sources

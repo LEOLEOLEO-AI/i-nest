@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3D_Integrated_Chiplet_Stacking]]
+[[4H_SiC_SubstrateProcessing]]
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_Assisted_Energy_Optimization]]
 [[AddressRedundancyElimination]]
@@ -34,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[BiasPropagationInNetworks]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
+[[Heterogeneous_Integration]]
 [[TCC]]
 [[analog computation]]
 [[iNEST]]

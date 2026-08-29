@@ -54,6 +54,8 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[Temporal_Computing_Paradigm]]
+[[TheoryDrivenNeuromorphicDesign]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

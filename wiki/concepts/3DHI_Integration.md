@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Causal_Emergence_Architecture]]
 [[Chiplet_Based_Trusted_Hardware]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_NoC_Interconnect]]
 [[Collective_Offloading]]
 [[Complex_System_Theory]]
 [[Decoupled_Priors]]

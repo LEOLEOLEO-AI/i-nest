@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[CoupledOscillatorReservoir]]
 [[CrashHotspotForecasting]]
 [[DivergentHigherAreaRanking]]
+[[EnvironmentalEmbedding]]
 [[Fixed_Reservoir_Unitary]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]

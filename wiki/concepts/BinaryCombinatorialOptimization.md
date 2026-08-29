@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[AnomalousSpinTransport]]
 [[CorticalWaveRouting]]
 [[FreeEnergyMinimizationRouting]]
+[[FreeEnergyMinimization]]
 [[Interconnect_Routing]]
 [[InterpolationKernel]]
 [[Nonlinear_Gain]]

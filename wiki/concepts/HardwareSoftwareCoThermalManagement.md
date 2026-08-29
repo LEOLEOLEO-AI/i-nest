@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Closed_Loop_Neuromodulation]]
 [[Complex_System_Theory]]
 [[ContinuousGameOfLife]]
+[[CriticalWeightNormBoundary]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

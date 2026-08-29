@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[DevelopmentalNeuromorphicAdaptation]]
 [[Distributed_Spike_Communication]]
+[[FixedOverheadCost]]
 [[FlexibilityThreshold]]
 [[HippocampalNeocorticalIntelligence]]
 [[In_Network_Neuromorphic]]

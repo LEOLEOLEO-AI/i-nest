@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Gsk_Summarize_Pipeline]]
 [[HigherOrderPublicGoodsGame]]
 [[Intelligence_Emergence]]
+[[LearningTransition]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]

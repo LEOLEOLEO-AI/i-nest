@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BioPlausiblePredictiveCoding]]
 [[Bipartite_Interconnect]]
 [[BurstGatedRouting]]
+[[BurstInterleaving]]
 [[ClosedLoopNeuromorphicControl]]
 [[Closed_Loop_Neuromodulation]]
 [[ContinualLearningOnNeuromorphic]]

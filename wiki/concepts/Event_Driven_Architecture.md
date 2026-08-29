@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[ConductingPolymerDendriteMemory]]
 [[EpidemicThreshold]]
 [[Event_Driven_Orbital_Object_Pipeline]]
+[[Heterogeneous_Integration]]
 [[In_Package_Neuromorphic_Integration]]
 [[Intelligence_Emergence]]
 [[Nature Communications_生物神经网络中突触多样性如何让人工神经网络更强大？]]
@@ -52,8 +53,10 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[Synchronization_Overhead_Mitigation]]
 [[iNEST]]
+[[在 FPGA 上实现并行脉冲神经网络（Spiking Neural Net）]]
 [[新型计算]]
 [[神经形态计算]]
+[[神经网络]]
 [[类脑芯片]]
 
 ## Sources

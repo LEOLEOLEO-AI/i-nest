@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AdsorptionBiosorptionHybrid]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Analog_To_Information_Conversion]]
+[[ArtificialProprioception]]
 [[Complex_System_Theory]]
 [[Critical_Region_Extension]]
 [[DelayTolerantNetworkUAV]]

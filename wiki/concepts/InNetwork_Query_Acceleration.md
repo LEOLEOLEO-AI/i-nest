@@ -29,6 +29,8 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[AsymmetricCoupling]]
+[[Complex_System_Theory]]
+[[EventDrivenSensoryEncoding]]
 [[ExtinctionDrivenMetastability]]
 [[MemoryDrivenInterconnect]]
 [[Neuromorphic_Computing]]

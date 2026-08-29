@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Intelligence_Emergence]]
+[[NCL神经计算定律详解]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[TCC]]

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Package_Neuromorphic_Integration]]
 [[NestedRepresentation]]
 [[Network_Topology_Design]]
+[[NeuromorphicEdgeProcessing]]
 [[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
@@ -44,7 +45,6 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[SynapticRewiringDynamics]]
 [[iNEST]]
-[[iNEST_Neuromorphic_Integration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

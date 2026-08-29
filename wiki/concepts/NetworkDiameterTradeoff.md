@@ -46,6 +46,8 @@ Auto-extracted concept from raw material compilation.
 [[PhononicBandgapEngineering]]
 [[RISBeamSpatialSignature]]
 [[SDI_Bond]]
+[[STDP_Plasticity]]
+[[SymmetricQuantumCircuit]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[涌现]]

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[12_三原理协同_FEP_最小作用量_STDP]]
 [[3DGS_Scene_Graph]]
 [[AIRA_NeuralArchSearch]]
+[[AdjointWaveControl]]
 [[AndersonTransition]]
 [[Chip_Floorplanning]]
 [[Complex_System_Theory]]

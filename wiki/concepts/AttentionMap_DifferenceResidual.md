@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[AsymmetricStochasticInteractions]]
 [[AttentionLikeHebbianMechanism]]
 [[Attention_ResidualCancellation]]
+[[Biological_Circuit_Formalization]]
 [[Complex_System_Theory]]
 [[HigherOrderPublicGoodsGame]]
 [[Intelligence_Emergence]]

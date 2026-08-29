@@ -34,10 +34,13 @@ Auto-extracted concept from raw material compilation.
 [[BackpropagationFreeLearning]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_NoC_Interconnect]]
+[[Chiplet_Stacking]]
+[[Complex_System_Theory]]
 [[Ferroelectric_ComputeInMemory]]
 [[Ferroelectric_Devices]]
 [[Heterogeneous_Integration]]
 [[In_Package_Optical_Interconnect]]
+[[Intelligence_Emergence]]
 [[Long_Range_Interactions]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
@@ -47,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[WideLink_NoC_Router]]
 [[待分类]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

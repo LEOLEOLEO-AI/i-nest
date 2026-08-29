@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AdaptiveSTDP]]
 [[Bidirectional_Temporal_Enhancement]]
+[[DiscreteSTDPLearning]]
 [[ITP_STDP]]
 [[ITP_STDP_Learning_Engine]]
 [[Memristive_STDP]]

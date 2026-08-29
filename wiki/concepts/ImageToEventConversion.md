@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[MarginalContributionFitness]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Planning_Revolution]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[ST_SNN]]

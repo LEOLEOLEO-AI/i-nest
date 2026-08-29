@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[MicroCriticalAgent]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SOC — 自组织临界（Self-Organized Criticality）]]
 [[SOC]]
 [[Self_Organized_Criticality]]
 [[Sleep_EEG_Criticality]]

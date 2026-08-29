@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AI-ML — 全景导航 (Map of Content)]]
 [[AdvancedPackagingInterconnect]]
 [[Advanced_Packaging_for_Space]]
+[[Chiplet_Packaging]]
 [[Complex_System_Theory]]
 [[FlagOS_2_0]]
 [[Intelligence_Emergence]]
@@ -41,8 +42,6 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Packaging]]
 [[iNEST]]
-[[iNEST_Packaging]]
-[[iNEST_Wafer]]
 [[涌现]]
 
 ## Sources

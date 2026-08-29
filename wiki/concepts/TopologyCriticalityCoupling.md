@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[BerryCurvatureIsolation]]
 [[BioInspired_Interception_Control]]
 [[CST_Theory]]
+[[CST_Theory_V27_FINAL]]
 [[Cognitive_Relapse_Decoupling]]
 [[Complex_System_Theory]]
 [[CriticalFixedPoint]]

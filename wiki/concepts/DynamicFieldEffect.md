@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[MLChiralityDecoder]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
+[[ProjectiveMeasurementRouting]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[TCC]]

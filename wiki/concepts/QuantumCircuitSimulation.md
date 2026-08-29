@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[3DGS_Scene_Graph]]
 [[ActiveMatterSubstrate]]
 [[AgentReputationGraph]]
+[[AndersonLocalizationTopology]]
 [[Complex_System_Theory]]
 [[Dynamic_Neuron_Activation_Prediction]]
 [[Intelligence_Emergence]]

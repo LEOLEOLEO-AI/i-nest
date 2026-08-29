@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[BiologicalPlausibilityScoring]]
 [[BiologicallyAccurateMultilayer]]
 [[BrainScaleTopologyExploitation]]
+[[Brain_Dynamics_Learning]]
 [[Complex_System_Theory]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]

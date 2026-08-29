@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenRiskAssessment]]
 [[EventDrivenTracking]]
+[[Event_Driven_Architecture]]
 [[Event_Driven_Communication]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[Intelligence_Emergence]]
@@ -44,12 +45,14 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[Passivity_Preserving_Computation]]
 [[RecursiveSelfReferentialArchitecture]]
+[[ScalableNeuromorphicTopology]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[StochasticBinaryNetwork]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[spiking neural network]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

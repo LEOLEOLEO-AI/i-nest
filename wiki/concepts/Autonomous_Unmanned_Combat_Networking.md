@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Anomaly_Mediated_Quantum_Criticality]]
 [[Ant_Swarm_Functional_Control]]
+[[ArchitecturalCondition]]
 [[Architectural_Conditioning]]
 [[Capability_Reserve_Index]]
 [[CertifiedBifurcationDetection]]

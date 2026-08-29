@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[CorticalWaveRouting]]
 [[EventCameraTemporalEncoding]]
 [[Event_Driven_Architecture]]
+[[FPGACongestionHotspotMitigation]]
 [[Interconnect_Routing]]
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]

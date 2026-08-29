@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Inference_Offload]]
 [[Heterogeneous_Integration]]
+[[InInterconnectMemory]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
@@ -42,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[OpenLearningEcosystem]]
 [[Package_Level_Interconnect]]
 [[PacketRoutingForFPGAs]]
+[[STDP_Plasticity]]
 [[TCC]]
 [[涌现]]
 

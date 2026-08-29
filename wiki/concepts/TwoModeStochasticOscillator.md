@@ -50,6 +50,8 @@ Auto-extracted concept from raw material compilation.
 [[TopologicalOrderLearning]]
 [[iNEST]]
 [[ineSt]]
+[[忆阻器]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

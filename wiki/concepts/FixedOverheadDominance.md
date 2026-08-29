@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[3D_Torus_6_Degree]]
 [[AI_Faculty_Forum_2026]]
 [[BigBrainCellularAxis]]
+[[CIMWeightUpdateAwareness]]
 [[Complex_System_Theory]]
 [[ConductingPolymerDendriteMemory]]
 [[Cross_Node_Event_Propagation]]

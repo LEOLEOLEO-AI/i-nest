@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[OptomechanicalNonlinearity]]
 [[TCC]]
 [[complex system]]
+[[iNEST 论文矩阵计划]]
 [[iNEST]]
 [[涌现]]
 [[神经网络]]

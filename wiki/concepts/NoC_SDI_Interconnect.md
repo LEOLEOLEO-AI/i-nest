@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[4H_SiC_SubstrateProcessing]]
 [[AI_Faculty_Forum_2026]]
 [[Additive_Manufacturing_Topology]]
+[[Advanced_Packaging_for_Space]]
 [[Attention_Residuals]]
 [[BackpropagationFreeLearning]]
 [[ChipletWaferInterconnectTopology]]
@@ -52,7 +53,6 @@ Auto-extracted concept from raw material compilation.
 [[WideLink_NoC_Router]]
 [[chiplet interconnect]]
 [[iNEST]]
-[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CircadianGateModulation]]
 [[Comparative_Formulation_Analysis]]
 [[Critical_Exponent_Scaling]]
+[[Defense_Industrial_Base_Reshaping]]
 [[DendriticReservoirState]]
 [[DynamicNeuralManifolds]]
 [[Emergent_Intelligence_Threshold]]

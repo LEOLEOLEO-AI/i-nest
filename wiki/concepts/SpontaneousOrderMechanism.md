@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[Analog_InMemory_Processing]]
 [[BiasEvaluationMetrics]]
+[[Bipartite_Interconnect_Design]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
 [[Complex_System_Theory]]

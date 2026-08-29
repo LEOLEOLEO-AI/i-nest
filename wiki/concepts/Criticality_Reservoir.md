@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AmorphousSolidPlasticity]]
 [[AnalogDomainCompression]]
 [[CST_Theory]]
+[[CST_Theory_V27_FINAL]]
 [[CombinatorialOptimizationReservoirMapping]]
 [[Complex_System_Theory]]
 [[Criticality]]

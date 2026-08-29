@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[DataCenter_Chip_Logic_Compression]]
 [[DimensionReductionForSimplicialDynamics]]
+[[DimensionalityReductionForNetworkControl]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]

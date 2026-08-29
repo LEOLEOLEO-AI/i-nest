@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[MemoryDrivenInterconnect]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[SpikingNeuralNetworkTopologyMapping]]
 [[SpikingNeuralNetworkTopology]]
 [[Spiking_Neural_Network]]
 [[iNEST]]

@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Physical_Reservoir_Substrate]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
+[[RestrictedConnectivityTopology]]
 [[TCC]]
 [[analog computation]]
 [[complex system]]

@@ -43,13 +43,14 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Interconnect]]
 [[NoC_SDI]]
 [[OnDie_Fusion]]
+[[Package_Level_Interconnect]]
 [[SDI_Bond]]
 [[SDI_Topology]]
+[[STDP_Plasticity]]
 [[TCC]]
 [[advanced packaging]]
 [[chiplet interconnect]]
 [[iNEST]]
-[[iNEST_Wafer]]
 [[涌现]]
 
 ## Sources

@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenInference]]
 [[EventDrivenSpectralProcessing]]
 [[EventDrivenStateEstimation]]
+[[ExactFiringRateModel]]
 [[Intelligence_Emergence]]
 [[IntrinsicTimingSTDP]]
 [[JunctionSignalIntegrity]]
@@ -51,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[iNEST]]
 [[neuromorphic computing]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

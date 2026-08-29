@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Weight_Storage]]
 [[Attention_Residuals]]
 [[AvalancheBranchingRatio]]
+[[BranchingRatio]]
 [[CST计量仪]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
@@ -57,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Renormalization_Group_Convergence]]
 [[ScaleFreeNetwork]]
+[[Second_Curve_Wafer_Industry_Platform]]
 [[Spacetime_Coupling_Coefficient]]
 [[SpatiotemporalComplexityIndex]]
 [[SystemLevelNonlinearity]]
@@ -67,7 +69,6 @@ Auto-extracted concept from raw material compilation.
 [[chiplet interconnect]]
 [[complex system]]
 [[iNEST]]
-[[iNEST_Wafer]]
 [[residual connection]]
 [[temporalComplexity]]
 

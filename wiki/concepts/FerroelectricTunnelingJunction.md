@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SneakPathCurrentSuppression]]
 [[analog synaptic behavior]]
 [[complex system]]
 [[iNEST]]

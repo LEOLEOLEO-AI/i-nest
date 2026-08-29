@@ -36,10 +36,10 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Organization]]
 [[SDI_Bond]]
 [[SDI_iNEST_Interconnect]]
+[[STDP_Plasticity]]
 [[Signal_Folding]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
-[[iNEST_Interconnect]]
 [[iNEST_Neuromorphic_Integration]]
 [[signal folding]]
 

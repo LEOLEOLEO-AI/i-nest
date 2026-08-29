@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Pods4Rail_Topology]]
 [[Reconfigurable_Neural_Topology]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SelfOrganisingDigitalCircuit]]
 [[SelfOrganization]]
 [[Self_Organized_Criticality]]
 [[TCC]]

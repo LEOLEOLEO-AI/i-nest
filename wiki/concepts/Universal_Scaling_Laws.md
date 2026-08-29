@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_STDP]]
 [[Memristor_Network]]
 [[Memristor_Synapse]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[MetricComputationAuthenticity]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
@@ -71,6 +72,7 @@ Auto-extracted concept from raw material compilation.
 [[residual connection]]
 [[scaling laws]]
 [[temporalComplexity]]
+[[universal scaling laws]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

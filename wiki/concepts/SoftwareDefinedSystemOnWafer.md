@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicServiceComposition]]
 [[ElectromigrationReliability]]
 [[EulaminateOverrepresentation]]
+[[GeneralIntelligenceSubstrate]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
@@ -43,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_TCC_Chiplet]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
+[[STDP_Plasticity]]
 [[ScalabilityFaultToleranceTradeoff]]
 [[Software_Defined_Interconnect]]
 [[TCC]]
@@ -52,7 +54,6 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Neuromorphic]]
 [[chiplet interconnect]]
 [[iNEST]]
-[[iNEST_Wafer]]
 [[涌现]]
 
 ## Sources

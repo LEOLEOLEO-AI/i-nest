@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[GeometricNeuromorphicFusion]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[LocalInteractionDrivenReconfiguration]]
 [[LossSpikePhenomenon]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

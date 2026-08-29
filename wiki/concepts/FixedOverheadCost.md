@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[CirculateFiringNeuron]]
 [[ComplexValuedSNN]]
+[[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Complex_System_Theory]]
 [[Cross_Node_Event_Propagation]]
 [[Distributed_Spike_Communication]]

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN_to_SNN_Conversion_Error_Amplification]]
 [[ActivityAvalanche]]
 [[AddressRedundancyElimination]]
+[[BrownianCastleInterface]]
 [[CascadedAdaptiveCombiners]]
 [[CollectiveDynamics]]
 [[DualDrivenHybridNetwork]]

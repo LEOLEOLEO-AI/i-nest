@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AnisotropicGaussianPrimitives]]
 [[AnomalousSpinTransport]]
 [[Bidirectional_Temporal_Enhancement]]
+[[BigBrainCellularAxis]]
 [[BrainBodyResonance]]
 [[Contested_Prior_Resolution]]
 [[ExplainableEnergyAI]]

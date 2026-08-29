@@ -36,8 +36,10 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[OpenSource_Neuromorphic_Framework]]
+[[PPT]]
 [[SNN]]
 [[Spiking_Neural_Network]]
+[[TCCNPU_Coordination_Roadmap]]
 [[TCC]]
 [[iNEST]]
 

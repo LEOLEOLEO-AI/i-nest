@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[MembranePotentialAlignment]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[NeuromorphicGestureEncoding]]
+[[NeuromorphicPointCloudAdapter]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]

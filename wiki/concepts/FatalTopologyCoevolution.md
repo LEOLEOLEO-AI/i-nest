@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[NonEquilibrium_SpinGlass_Dynamics]]
+[[OptimalGeneralisationCurve]]
 [[Reservoir_Computing]]
 [[Synaptic_Plasticity]]
 [[TCC]]

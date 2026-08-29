@@ -20,13 +20,13 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Additive_Manufacturing_Supply_Chain]]
 [[AnalogDomainCompression]]
 [[Categorical_Closure_Criterion]]
 [[CombinatorialOptimizationReservoirMapping]]
 [[CouplingTopologyInducedDynamics]]
 [[CriticalStateReservoir]]
 [[Criticality]]
-[[Criticality_Entanglement]]
 [[Environmental_Coupling_Organization]]
 [[FerroelectricSemiconductorReservoir]]
 [[Ferroelectric_Devices]]

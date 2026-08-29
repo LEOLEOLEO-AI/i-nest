@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[Nonlinear_Gain]]
 [[SNN]]
+[[SelectorFreeHopfieldNetwork]]
 [[SpikeBasedGradientDescent]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

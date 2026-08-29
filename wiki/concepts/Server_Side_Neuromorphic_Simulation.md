@@ -21,7 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AnomalousSpinTransport]]
 [[BigBrainCellularAxis]]
-[[BrownianCastleInterfaces]]
+[[BrownianCastleInterface]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[DataDrivenCellularAxis]]

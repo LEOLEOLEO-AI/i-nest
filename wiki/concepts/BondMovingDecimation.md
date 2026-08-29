@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CST计量仪]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
+[[Cryogenic_Syndrome_Compression]]
 [[DataProvenanceIntegrity]]
 [[Deep_Network_Architecture_Invariant]]
 [[Deep_Network_Layer_Stacking]]

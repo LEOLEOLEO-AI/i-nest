@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN动力学]]
 [[ArbitraryWavefunctionConfigurability]]
 [[BCM滑动阈值]]
+[[CST计量仪]]
 [[Complex_System_Theory]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]

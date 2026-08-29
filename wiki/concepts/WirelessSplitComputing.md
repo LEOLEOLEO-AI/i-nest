@@ -46,10 +46,12 @@ Auto-extracted concept from raw material compilation.
 [[OptimalGeneralisationNearInterpolation]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SpikeBasedGradientDescent]]
+[[SpikingNeuralNetworkTopologyMapping]]
 [[SpikingNeuralNetworkTopology]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

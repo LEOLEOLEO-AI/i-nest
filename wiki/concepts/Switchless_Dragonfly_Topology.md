@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[ApproximationFidelityTradeoff]]
 [[BackpropagationFreeLearning]]
 [[BisectionBandwidthBound]]
+[[CST计量仪]]
 [[ChipletWaferInterconnectScaling]]
 [[Chiplet_Based_Trusted_Hardware]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -44,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[SDSoW_Interface_Standard]]
+[[STDP_Plasticity]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
@@ -51,7 +53,6 @@ Auto-extracted concept from raw material compilation.
 [[advanced packaging]]
 [[chiplet interconnect]]
 [[iNEST]]
-[[iNEST_Wafer]]
 [[涌现]]
 
 ## Sources

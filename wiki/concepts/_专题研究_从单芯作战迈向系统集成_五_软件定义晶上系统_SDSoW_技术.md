@@ -36,6 +36,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[MIT_异构Chiplet集成构建下一代计算的_超级芯片_]]
 [[NCL神经计算定律详解]]
 [[Nat_Hum_Behav_用「全拓扑网络」重塑视皮层地图]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[SDSoW]]
@@ -57,4 +58,5 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[智能涌现]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？_新课上线]]
 [[神经网络]]

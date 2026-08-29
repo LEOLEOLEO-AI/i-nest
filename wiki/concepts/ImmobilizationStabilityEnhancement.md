@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[EnergyResourceEfficiencyTradeoff]]
 [[ErrorAmplificationLimits]]
 [[Heterogeneous_Integration]]
+[[LatencyGradientDescent]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[TCC]]

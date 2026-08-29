@@ -21,9 +21,12 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
+[[4H_SiC_SubstrateProcessing]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Complex_System_Theory]]
 [[EquilibriumTreePacking]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[LatencyCodedInterconnect]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
@@ -39,7 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[Topology_Aware_NeuroTrain]]
 [[iNEST]]
-[[iNEST_Wafer]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

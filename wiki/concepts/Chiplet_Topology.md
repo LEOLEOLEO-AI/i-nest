@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[BisectionBandwidthMetric]]
 [[ChipletTopologyAwareness]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect_Aware_Placement]]
 [[Chiplet_Stacking]]
 [[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]

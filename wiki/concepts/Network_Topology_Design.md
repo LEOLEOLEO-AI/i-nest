@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Chiplet_based_heterogeneous_integration]]
+[[Collection_Communication_Diagnostic_Tool]]
 [[Complex_System_Theory]]
 [[CorticalTypeDiversity]]
 [[DRBE_MVP_Mainchain]]
@@ -68,6 +69,7 @@ Auto-extracted concept from raw material compilation.
 [[Topology_Interconnect]]
 [[chiplet interconnect]]
 [[heterogeneous_integration]]
+[[network topology design]]
 [[residual connection]]
 [[temporalComplexity]]
 

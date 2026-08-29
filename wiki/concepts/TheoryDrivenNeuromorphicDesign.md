@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstTemporalPlasticity]]
 [[ClosedLoopNeuromorphicControl]]
 [[Complex_System_Theory]]
+[[Cytokine_Feedback_Loops]]
 [[DifferentiableRasterizationPipeline]]
 [[EventDrivenSpectralProcessing]]
 [[MetaFAIR_ArchitectureDiscovery]]
@@ -50,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[Temporal_Computing_Paradigm]]
 [[iNEST]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

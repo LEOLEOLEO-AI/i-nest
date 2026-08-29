@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[FowlerNordheimAnnealer]]
 [[Fractal_Entanglement_Scaling]]
 [[FrozenRandomFeatureExtractor]]
+[[GraphNeuralNetworkTemporalFeatureExtraction]]
 [[Heterogeneous_Integration]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]

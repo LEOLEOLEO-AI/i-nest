@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Attention_Residuals]]
+[[BackpropagationFreeLearning]]
 [[Beyond_Moore_Pathway]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]

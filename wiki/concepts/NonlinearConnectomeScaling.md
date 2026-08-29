@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Verifiability]]
 [[Evolutionary_Pattern_Modeling]]
 [[Hardware_Accelerated_SNN]]
+[[InNetworkNeuromorphicEmergence]]
 [[InNetworkNeuromorphicSimulation]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

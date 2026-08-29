@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Avoided_Criticality]]
 [[BigBrainCellularAxis]]
 [[BrainActivityPrediction]]
+[[CombinedImportanceScoring]]
 [[Complexity_Emergence]]
 [[CrashHotspotForecasting]]
 [[Criticality]]

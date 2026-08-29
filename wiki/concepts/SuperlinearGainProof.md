@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Renormalization_Group_Convergence]]
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
+[[SDI_TCC_Chiplet_Interconnect]]
 [[Software_Defined_Interconnect]]
 [[Spacetime_Coupling_Coefficient]]
 [[SpatiotemporalComplexityIndex]]
@@ -62,7 +63,6 @@ Auto-extracted concept from raw material compilation.
 [[Topology_Interconnect]]
 [[chiplet interconnect]]
 [[iNEST]]
-[[iNEST_Wafer]]
 [[residual connection]]
 [[temporalComplexity]]
 

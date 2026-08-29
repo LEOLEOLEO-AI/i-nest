@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TemporalErrorFeedback]]
 [[iNEST]]
+[[iNEST_Neuromorphic_Integration]]
 [[residual connection]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

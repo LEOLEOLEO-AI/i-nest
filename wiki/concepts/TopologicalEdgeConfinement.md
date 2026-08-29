@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[IncidenceMatrixPropagation]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[JunctionCenteredRouting]]
 [[LLM_Reward_Design]]
 [[MatrixShapePhaseTransition]]
 [[Memristive_Topology]]

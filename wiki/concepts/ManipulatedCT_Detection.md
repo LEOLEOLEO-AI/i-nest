@@ -39,10 +39,12 @@ Auto-extracted concept from raw material compilation.
 [[MetricComputationAuthenticity]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[Nonlinear_Gain]]
 [[ST_SNN]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]
+[[iNEST_Neuromorphic_Integration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

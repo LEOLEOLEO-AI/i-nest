@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveMeasurementProtocol]]
 [[AdaptiveNetworkResilience]]
 [[AdaptiveTimeStepTraining]]
+[[Adaptive_Deep_Brain_Stimulation]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Bio_plausible_Neuromorphic_Disturbance_Observer]]
 [[Biomanufacturing_Control_Loop]]

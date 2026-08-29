@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[CurrentInjectionSNN]]
 [[DeepSpikingEnsembleLayers]]
+[[EnergyEfficientNeuromorphic]]
 [[EvolutionarySpikeTimingOptimization]]
 [[Frontier_Innovation_Mapping]]
 [[Neuromorphic_Computing]]

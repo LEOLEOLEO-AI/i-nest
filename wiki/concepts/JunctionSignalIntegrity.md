@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[EmergentAttractorStability]]
 [[Emergent_Intelligence_Threshold]]
 [[Endocrine_Modulated_Network_State]]
+[[EventDrivenAttentionMasking]]
 [[EventDrivenSpectralProcessing]]
 [[ITP_STDP]]
 [[Intelligence_Emergence]]
@@ -49,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[StochasticSpikeEncoding]]
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -27,7 +27,6 @@ Auto-extracted concept from raw material compilation.
 [[Coupling_Topology]]
 [[Criticality]]
 [[DARPA_ProjectManager_Model]]
-[[Emerging_CMOS_Memristor]]
 [[Environmental_Coupling_Organization]]
 [[Heterogeneous_Integration]]
 [[IncidenceBasedRandomWalk]]
@@ -37,8 +36,10 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
+[[SDSoW_Strategic_Planning]]
 [[Self_Organized_Criticality]]
 [[TCC]]
+[[emerging CMOS memristor]]
 [[iNEST]]
 
 ## Sources

@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[RecursiveSelfReferentialArchitecture]]
+[[STDP_Plasticity]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[complex system]]

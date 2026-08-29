@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle_Network]]
 [[Free_Energy_Topology_Mapping]]
 [[FunctionalInterfaceBlock]]
+[[FunctionalInterfaceBlocks]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Memristor_Synapse]]

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenTemplateUpdate]]
 [[NestedRepresentation]]
 [[Neuromorphic_Computing]]
+[[QuantumStateSynapticTrace]]
 [[TCC]]
 [[branch prediction]]
 [[iNEST]]

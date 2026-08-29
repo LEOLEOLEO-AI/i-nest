@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[ComputationEfficientDeepLearning]]
 [[Deep_Network_Architecture_Invariant]]
 [[Defense_Industrial_Base_Reshaping]]
+[[EarlyExitInference]]
 [[EfficientDeepLearning]]
 [[EmergentIntelligence_Spacetime]]
 [[Emergent_Intelligence_Threshold]]

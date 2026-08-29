@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[MarginalContributionFitness]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[NoiseDrivenBackpropReconstruction]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[ST_SNN]]

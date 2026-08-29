@@ -36,11 +36,13 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Network_Architecture_Invariant]]
 [[ElectromigrationReliability]]
 [[EnergyOptimizedManycoreArchitecture]]
+[[FlagScale_Training_Inference]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[P_Paradigm]]
+[[STDP_Plasticity]]
 [[TCC]]
 [[涌现]]
 

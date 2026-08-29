@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[NonlinearWaveMixing]]
 [[Nonlinear_Gain]]
 [[Γst_Revision]]
 

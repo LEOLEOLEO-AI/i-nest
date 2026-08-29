@@ -23,8 +23,8 @@ Auto-extracted concept from raw material compilation.
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[AnomalousSpinTransport]]
 [[CouplingMatrixRecovery]]
+[[Coupling_Strength_Encoding]]
 [[DARPA_ProjectManager_Model]]
-[[Emerging_CMOS_Memristor]]
 [[Fixed_Reservoir_Unitary]]
 [[InNetworkSignalRecovery]]
 [[IntegrationProspectsForVLSI]]
@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[TCC]]
 [[branch prediction]]
+[[emerging CMOS memristor]]
 [[pipelined processor]]
 
 ## Sources

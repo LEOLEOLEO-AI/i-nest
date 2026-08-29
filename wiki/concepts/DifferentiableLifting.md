@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[EcosystemTopologyCoupling]]
 [[Edge_of_Chaos_Coastal_Dynamics]]
 [[EmergentTaskDecomposition]]
+[[Epidemic_Mitigation_Strategy]]
 [[FlexibilityThreshold]]
 [[Intelligence_Emergence]]
 [[NestedRepresentation]]

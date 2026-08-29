@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveSTDP]]
 [[AdaptiveSpeechToSpikeEncoding]]
 [[AmoebaInspiredLocomotion]]
+[[Bio_plausible_Neuromorphic_Disturbance_Observer]]
 [[Contested_Priors_Mechanism]]
 [[Interconnect_Routing]]
 [[Localized_Feedback_Array]]

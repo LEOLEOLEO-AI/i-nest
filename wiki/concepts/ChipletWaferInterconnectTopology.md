@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Chiplet_based_heterogeneous_integration]]
 [[Complex_System_Theory]]
+[[Core_Spacetime_Tensor]]
 [[CorticalTypeDiversity]]
 [[DRBE_MVP_Mainchain]]
 [[DTGA]]

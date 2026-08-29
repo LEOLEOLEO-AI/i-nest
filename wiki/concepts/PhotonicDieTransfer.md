@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_Assisted_Energy_Optimization]]
 [[AI_Faculty_Forum_2026]]
+[[ASIC_Dualism]]
 [[AdiabaticMultimodeBend]]
 [[CST_Spatiotemporal_Complexity]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]

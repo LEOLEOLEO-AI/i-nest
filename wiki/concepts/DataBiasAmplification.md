@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
 [[GlobalInformationDominance]]
+[[HierarchicalInferenceTopology]]
 [[Intelligence_Emergence]]
 [[Master_SDDE]]
 [[Microfluidic_Worm_Trap_Array]]

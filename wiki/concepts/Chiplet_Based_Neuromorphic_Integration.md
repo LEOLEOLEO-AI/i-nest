@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[advanced packaging]]
 [[iNEST]]
 [[忆阻器]]
+[[智能涌现]]
 [[神经形态计算]]
 [[类脑芯片]]
 

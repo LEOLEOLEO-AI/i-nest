@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[BarrierConditionedTrajectory]]
 [[Cascading_Failure_Mitigation]]
 [[CorticalTravelingWave]]
+[[CorticalTravelingWaves]]
 [[CriticalStateInformationMaximization]]
 [[Nonlinear_Gain]]
 [[PPT]]

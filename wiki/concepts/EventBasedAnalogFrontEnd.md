@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[SpikePacketCompression]]
 [[Spike_Encoding_of_fMRI]]
+[[SpikingNeuralNetworkTopologyMapping]]
 [[SpikingNeuralNetworkTopology]]
 [[Spiking_Neural_Network]]
 [[TCC]]
@@ -49,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[neuromorphic sensing]]
 [[spiking neural network]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[神经网络]]
 [[类脑芯片]]
 
 ## Sources

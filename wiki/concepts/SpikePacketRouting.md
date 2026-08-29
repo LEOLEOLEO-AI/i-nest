@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BioPlausiblePredictiveCoding]]
+[[BurstGatedRouting]]
 [[Criticality]]
 [[CrossLayer_SignalRouting]]
 [[DynamicTokenSparsity]]

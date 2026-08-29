@@ -34,12 +34,12 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_iNEST_Wafer]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
+[[SDSoW_Industry_Alliance]]
 [[SDSoW_Interface_Standard]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[chiplet interconnect]]
 [[iNEST]]
-[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

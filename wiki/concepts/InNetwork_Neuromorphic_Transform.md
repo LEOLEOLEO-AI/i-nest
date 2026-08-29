@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[BiasEvaluationMetrics]]
 [[BioInspiredSpikeEncoding]]
 [[BioPlausibleDisturbanceEstimation]]
+[[BiologicallyAccurateMultilayer]]
 [[BrainScaleTopologyExploitation]]
 [[Brain_Dynamics_Learning]]
 [[Complex_System_Theory]]

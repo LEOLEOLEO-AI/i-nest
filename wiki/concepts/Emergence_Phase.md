@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveMatterComputing]]
 [[CellularSheaf]]
 [[Chiplet_Heterogeneous_Integration]]
+[[CircuitTopologySearch]]
 [[Complex_System_Theory]]
 [[EnergyAwareLearning]]
 [[Heterogeneous_Integration]]

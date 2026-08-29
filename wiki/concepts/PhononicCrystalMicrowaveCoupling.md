@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration_Route]]
 [[Chiplet_Interconnect_Scheduling]]
 [[Chiplet_Interconnect_Topology]]
+[[Chiplet_Packaging]]
 [[Chiplet_Stacking]]
 [[Chiplet_Topology]]
 [[Complex_System_Theory]]

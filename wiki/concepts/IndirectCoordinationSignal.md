@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[BitPrecisionAwareScheduling]]
 [[CollectiveDynamics]]
 [[CorticalTravelingWave]]
+[[CorticalTravelingWaves]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[PPT]]

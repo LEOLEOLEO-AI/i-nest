@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Stacking]]
 [[Cognitive_Relapse_Architecture]]
 [[DendriticReservoirState]]
+[[FatalTopologyCoevolution]]
 [[Gate_Synthesis_Readout]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]

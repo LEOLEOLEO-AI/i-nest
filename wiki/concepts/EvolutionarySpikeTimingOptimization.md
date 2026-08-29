@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[CollectiveDynamics]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
+[[EnergyEfficientNeuromorphic]]
 [[HardwareAware_DesignSpace]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AcousticAnomalyDetection]]
 [[Avoided_Criticality]]
 [[Baseline_Change_Record]]
+[[CriticalityInducedComputationalCapacity]]
 [[Criticality]]
 [[DimensionSeparation_IntensiveExtensive]]
 [[DiscreteContinuous_Unification]]

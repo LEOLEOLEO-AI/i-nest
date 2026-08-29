@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Minimization_Interconnect]]
 [[Intelligence_Emergence]]
 [[Interconnect_Scaling]]
+[[NCL神经计算定律详解]]
 [[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]

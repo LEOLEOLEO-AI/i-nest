@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[HierarchicalNetworkPartitioning]]
 [[Intelligence_Emergence]]
+[[NCL神经计算定律详解]]
 [[TCC]]
 [[WaferScaleSubstrate]]
 [[complex system]]

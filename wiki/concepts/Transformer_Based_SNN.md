@@ -31,7 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
-[[iNEST_Interconnect]]
+[[iNEST_Neuromorphic_Integration]]
 [[spiking neural network]]
 
 ## Sources

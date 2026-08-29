@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[SpikeTimingAbstraction]]
 [[Spiking_Neural_Network]]
+[[Spiking_Temporal_Encoding]]
 [[TCC]]
 
 ## Sources

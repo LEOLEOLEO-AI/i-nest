@@ -1,7 +1,7 @@
 ---
 title: "专利披露·H7"
 hypothesis: "H7"
-date: 2026-08-29
+date: 2026-08-30
 patentability: HIGH
 categories: ["method"]
 type: patent-disclosure
@@ -45,5 +45,5 @@ spike稀疏性+异步性使传统同步流水线浪费严重，event-driven路�
 - [ ] 与相关论文发表策略协调（先申专再发论文）
 
 ---
-*由 patent_scout.py 于 2026-08-29T18:05:15.373990 自动生成*
+*由 patent_scout.py 于 2026-08-30T03:19:04.747675 自动生成*
 *来源假设: H7 | 来源桥接: NoC_Spiking_Routing*

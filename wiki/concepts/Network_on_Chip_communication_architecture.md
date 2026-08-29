@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Integration]]
 [[Memory_Wall]]
+[[Memristive_STDP]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
@@ -66,7 +67,6 @@ Auto-extracted concept from raw material compilation.
 [[chiplet interconnect]]
 [[heterogeneous_integration]]
 [[iNEST]]
-[[iNEST_Wafer]]
 [[residual connection]]
 [[temporalComplexity]]
 

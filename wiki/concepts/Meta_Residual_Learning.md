@@ -46,9 +46,11 @@ Auto-extracted concept from raw material compilation.
 [[SDI_STDP]]
 [[SNN]]
 [[STDP_Plasticity]]
+[[STDP_iNEST]]
 [[Spike_Encoding_of_fMRI]]
 [[SpikingTopologyEvolution]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 [[neuromorphic computing]]
 

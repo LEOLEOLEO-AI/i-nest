@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Assisted_Energy_Management]]
 [[Avalanche_Dynamics]]
 [[CollectiveStateResilience]]
+[[Contested_Prior_Resolution]]
 [[CriticalFixedPoint]]
 [[Critical_Exponent_Scaling]]
 [[Criticality]]
@@ -46,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[SelfOrganizedRobustness]]
 [[Self_Organized_Criticality]]
 [[SpikeTimingFidelity]]
+[[Spiking_Neural_Network]]
 [[SubsystemInformationCapacity]]
 [[iNEST]]
 

@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicAuditoryFrontend]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[Order_Flexibility_Duality]]
 [[Reservoir_Computing]]
 [[SDI_Bond]]
 [[SDI_STDP]]

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AcceleratedMaterialScreening]]
 [[AlternativeBridgingModels]]
 [[Biomanufacturing_Control_Loop]]
+[[Bosonic_SPT_Phases]]
 [[Compressed_Glass_Network]]
 [[Crystallized_Neural_Manifolds]]
 [[DivergentHigherAreaRanking]]

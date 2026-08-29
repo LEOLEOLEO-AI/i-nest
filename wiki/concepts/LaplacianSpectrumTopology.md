@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[ConstraintDrivenSelfOrganization]]
 [[CriticalLearningRegime]]
 [[Criticality]]
+[[CrossbarFabricTopology]]
 [[EdgeIoTEnergyAwareness]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

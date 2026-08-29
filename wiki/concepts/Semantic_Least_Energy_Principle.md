@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_Technology_Incubation]]
 [[Defense_Industrial_Base_Reshaping]]
 [[DelayRobustEmergence]]
+[[DifferentiableRasterizationPipeline]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]

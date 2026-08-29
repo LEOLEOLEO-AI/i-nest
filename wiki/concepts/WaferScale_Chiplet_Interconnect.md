@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect_Topology]]
 [[CongestionAwareNoCPlacement]]
 [[Decoupled_Priors]]
+[[DiagnosticReportFramework]]
 [[EulaminateOverrepresentation]]
 [[FullDimensionalDefinableInterconnect]]
 [[Heterogeneous_Integration]]
@@ -45,7 +46,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[chiplet interconnect]]
 [[iNEST]]
-[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

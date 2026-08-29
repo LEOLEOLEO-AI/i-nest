@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[DataDrivenCellularAxis]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Hardware_Accelerated_SNN]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Memristive_STDP]]
 [[Memristor_Synapse]]
@@ -51,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
 
 ## Sources

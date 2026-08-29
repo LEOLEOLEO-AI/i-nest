@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveFrequencyResonateAndFire]]
 [[AsynchronousEventDrivenComputation]]
 [[Avoided_Criticality]]
+[[BioPlausiblePredictiveCoding]]
 [[BrainInspiredArchitecture]]
 [[BurstCoding]]
 [[BurstGatedRouting]]

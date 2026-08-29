@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[03 涌现：整体的能力不能还原回个体？ - 得到APP]]
 [[3DGS_SplatPrimitive]]
 [[AI_Faculty_Forum_2026]]
+[[BackpropagationFreeLearning]]
 [[CST计量仪]]
 [[ChipletWaferTopologyCoDesign]]
 [[Chiplet_Heterogeneous_Integration]]

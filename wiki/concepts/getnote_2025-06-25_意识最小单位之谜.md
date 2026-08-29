@@ -42,6 +42,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[HigherOrderPublicGoodsGame]]
 [[Hippocampal_Encoding_Mechanism]]
 [[InNetwork_Service_Composition]]
+[[InductiveBenchmarking]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]

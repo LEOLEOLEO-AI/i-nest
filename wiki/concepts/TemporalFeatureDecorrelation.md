@@ -20,13 +20,13 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Beyond_Moore_Packaging_Strategy]]
+[[Chip-Hardware — 全景导航 (Map of Content)]]
 [[CirculateFiringNeuron]]
 [[Crystallized_Embedding_Reservoir]]
 [[Dynamic_Expert_Fusion]]
 [[Dynamical_State_Space]]
 [[EmergentTaskDecomposition]]
 [[Emergent_Intelligence_Threshold]]
-[[Emerging_CMOS_Memristor]]
 [[Fading_Memory_Property]]
 [[GradientFreeSNNTraining]]
 [[HigherOrderSimplicialDynamics]]
@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TemporalEchoMemory]]
 [[analog computation]]
+[[emerging CMOS memristor]]
 [[iNEST]]
 [[神经形态脉冲大语言模型（NSLLM）]]
 [[神经网络]]

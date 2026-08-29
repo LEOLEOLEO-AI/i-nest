@@ -22,9 +22,9 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Application_Scenario_Reconstruction]]
 [[AcceleratedMaterialScreening]]
-[[ActiveInferenceEdgeLoop]]
 [[ActiveInference]]
 [[AdaptiveModelPartitioning]]
+[[Adaptive_Path_Selection]]
 [[AdjustableDynamics]]
 [[AdversarialResilience]]
 [[AnalogDomainCompression]]

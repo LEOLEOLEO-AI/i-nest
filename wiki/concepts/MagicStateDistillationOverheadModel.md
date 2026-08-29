@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Encapsulation_Topology]]
 [[HigherOrderPublicGoodsGame]]
+[[Hippocampal_Encoding_Mechanism]]
 [[Intelligence_Emergence]]
 [[NetworkMechanismsOfWaveGeneration]]
 [[Network_Topology_Design]]

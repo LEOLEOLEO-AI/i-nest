@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
 [[Complex_System_Theory]]
+[[ComponentLevelMolding]]
 [[Free_Energy_Topology_Mapping]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
@@ -48,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_TCC_Chiplet]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
+[[STDP_Plasticity]]
 [[ScaleFreeNetwork]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
@@ -55,7 +57,6 @@ Auto-extracted concept from raw material compilation.
 [[chiplet interconnect]]
 [[complex system]]
 [[iNEST]]
-[[iNEST_Wafer]]
 [[智能涌现]]
 [[涌现]]
 

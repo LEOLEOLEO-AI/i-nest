@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[ContinuousGameOfLife]]
 [[Continuous_Spatiotemporal_State_Propagation]]
+[[CrossDomain_Abstraction]]
 [[DisorderedNetworkInterconnect]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenRiskAssessment]]

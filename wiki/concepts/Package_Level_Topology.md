@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligent_Computing_Infrastructure]]
 [[Interconnect_Routing]]
 [[Memristor_Synapse]]
+[[MicroRouter_Embedding]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[SDI interconnect]]

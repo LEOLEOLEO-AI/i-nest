@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
+[[SpatiotemporalCooperativeIntelligence]]
 [[Synaptic_Plasticity]]
 [[analog computation]]
 [[iNEST]]

@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
+[[SafetyThresholdAsSpikingThreshold]]
 [[SelfOrganization]]
 [[SpikeBasedGradientDescent]]
 [[Spike_Encoding_of_fMRI]]

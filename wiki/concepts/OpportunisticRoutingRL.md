@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[OpportunisticRouting]]
+[[PropertyPredictionModeling]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[WaveBasedInformationRouting]]

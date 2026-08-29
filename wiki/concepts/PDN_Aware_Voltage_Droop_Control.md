@@ -29,9 +29,9 @@ Auto-extracted concept from raw material compilation.
 [[3D_IC_Stacking]]
 [[AI_Faculty_Forum_2026]]
 [[Advanced_Packaging_for_Space]]
+[[Attention_Residuals]]
 [[CMOS_Memristor_Devices]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Emerging_CMOS_Memristor]]
 [[Emerging_CMOS_Memristor_Devices]]
 [[Heterogeneous_Integration]]
 [[HybridResistiveMemoryCIM]]
@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[Process_Recycling_Paradigm]]
 [[TCC]]
+[[emerging CMOS memristor]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

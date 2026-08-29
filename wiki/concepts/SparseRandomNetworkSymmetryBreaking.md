@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AnomalousSpinTransport]]
 [[Architectural_Conditioning]]
 [[BigBrainCellularAxis]]
+[[BrownianCastleInterface]]
 [[BrownianCastleInterfaces]]
 [[Chiplet_Based_Neuromorphic_Integration]]
 [[Chiplet_Heterogeneous_Integration]]

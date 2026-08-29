@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AdvancedPackagingInterconnect]]
 [[Advanced_Packaging_for_Space]]
 [[AnalogInMemoryComputing]]
+[[BackpropagationFreeLearning]]
 [[BitPrecisionAwareScheduling]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_NoC_Fabric]]
@@ -41,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
+[[STDP_Plasticity]]
 [[TCC]]
 [[涌现]]
 

@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[SuperparamagneticSwitchingRate]]
 [[Swarm_Coordination]]
 [[SynapticReinforcementConsolidation]]
+[[Syncytial_Mesh_Model]]
 [[TCC]]
 [[iNEST]]
 

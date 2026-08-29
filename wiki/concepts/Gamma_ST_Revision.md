@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AdiabaticModeEvolutionCoupler]]
 [[AdiabaticModeEvolution]]
 [[Allreduce_Latency_Probe]]
+[[AnisotropicGaussianPrimitives]]
 [[EdgeIoTEnergyAwareness]]
 [[ElasticInferenceScheduling]]
 [[Environmental_Capability_Context]]

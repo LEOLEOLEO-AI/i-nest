@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Assisted_Energy_Optimization]]
 [[AI_Faculty_Forum_2026]]
 [[AI_Industrial_Ecosystem]]
+[[AdaptiveDensityControl]]
 [[AdaptiveNetworkResilience]]
 [[Bipartite_Interconnect]]
 [[Complex_System_Theory]]

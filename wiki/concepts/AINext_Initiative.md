@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[SmallCore_LargeNetwork]]
 [[SpikeTimingFidelity]]
 [[Spike_timing_dependent_plasticity]]
+[[Spike_timing_dependent_plasticity_learning_rule]]
 [[Spiking_Neural_Network]]
 [[Spiking_neural_network]]
 [[SuperparamagneticSwitchingRate]]

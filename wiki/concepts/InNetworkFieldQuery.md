@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[CommunicationHeterogeneity]]
 [[Complex_System_Theory]]
 [[Cryogenic_Syndrome_Compression]]
+[[EdgeCloudCollaboration]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Memory_Wall]]

@@ -23,10 +23,10 @@ Auto-extracted concept from raw material compilation.
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[ANN_SNN_ConversionError]]
 [[AlternativeBridgingModels]]
+[[Analog_Encoding_Readout]]
 [[CrashHotspotForecasting]]
 [[DARPA_ProjectManager_Model]]
 [[DivergentHigherAreaRanking]]
-[[Emerging_CMOS_Memristor]]
 [[Globally_Optimal_SNN_Training]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
@@ -37,9 +37,9 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Stochastic_LIF_Inference]]
 [[ThermalNoiseHarnessing]]
+[[emerging CMOS memristor]]
 [[iNEST]]
 [[neuromorphic spiking]]
-[[reservoir computing architecture]]
 [[reservoir computing]]
 
 ## Sources

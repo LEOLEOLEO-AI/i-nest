@@ -34,7 +34,9 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenRiskAssessment]]
 [[EventDrivenTracking]]
+[[Event_Driven_Architecture]]
 [[Event_Driven_Communication]]
+[[Event_Driven_Processing]]
 [[InSensorMemoryComputing]]
 [[In_Network_Generative_Inference]]
 [[Intelligence_Emergence]]
@@ -50,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[WirelessSplitComputing]]
 [[spiking neural network]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

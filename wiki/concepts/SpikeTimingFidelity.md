@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[SNN]]
 [[STDP_Plasticity]]
+[[SelfOrganizedRobustness]]
 [[Self_Organized_Criticality]]
 [[Spike_Encoding_of_fMRI]]
 [[Spike_timing_dependent_plasticity]]

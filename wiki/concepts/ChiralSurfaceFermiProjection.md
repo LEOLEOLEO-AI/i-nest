@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[CellularSheaf]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CircuitTopologySearch]]
+[[CompactAnalogPredictor]]
 [[Complex_System_Theory]]
 [[ComputationalProcessReuse]]
 [[CrossLingualIdiomGraph]]

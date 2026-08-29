@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Local_Approximation_Dynamics]]
 [[Network_Topology_Design]]
 [[Self_Organized_Criticality]]
+[[Stigmergic_RL]]
 [[TCC]]
 
 ## Sources

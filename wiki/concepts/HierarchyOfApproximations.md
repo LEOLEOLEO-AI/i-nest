@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[ActivityAvalanche]]
 [[Allreduce_Latency_Probe]]
 [[BigBrainCellularAxis]]
+[[Biologically_Plausible_Learning_Rules]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Criticality]]
 [[DataDrivenCellularAxis]]

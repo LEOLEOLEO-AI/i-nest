@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AnisotropicGaussianPrimitives]]
 [[BackflowTransformation]]
 [[BioInspiredLearningRule]]
+[[BranchingRatioControl]]
 [[BranchingRatio]]
 [[CST_Spatiotemporal_Coefficient]]
 [[ChannelEventSparsity]]

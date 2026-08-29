@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]
+[[SDI_SNN]]
 [[SDI_SNN_Interconnect]]
 [[SNN]]
 [[SpikeDrivenDetectionBackbone]]

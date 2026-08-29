@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Advanced_Packaging_for_Space]]
 [[Architectural_Conditioning]]
 [[ChipletWaferInterconnectTopology]]
+[[Chiplet_Based_Trusted_Hardware]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_NoC_Interconnect]]
@@ -49,13 +50,13 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_Topology]]
 [[SDI_Topology_Interconnect]]
+[[STDP_Plasticity]]
 [[SparseTemporalEncoding]]
 [[TCC]]
 [[Topology_Interconnect]]
 [[advanced packaging]]
 [[chiplet interconnect]]
 [[iNEST]]
-[[iNEST_Wafer]]
 [[涌现]]
 
 ## Sources

@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[ShortTermMemory]]
 [[Swarm_Coordination]]
+[[TCC]]
 [[TwoTimescaleNeuroEvolution]]
 [[complex system]]
 [[iNEST]]

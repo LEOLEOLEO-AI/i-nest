@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AI4PDE｜综述·论文推荐 08｜物理信息神经网络在偏微分方程问题中的应用：全面综述]]
 [[AI_Faculty_Forum_2026]]
 [[AdaptiveTimeStepTraining]]
+[[Adaptive_Deep_Brain_Stimulation]]
 [[AnisotropicGaussianPrimitives]]
 [[Complex_Network_Brain_Inspired_Computing]]
 [[Complex_System_Theory]]
@@ -51,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[iNEST]]
 [[temporalComplexity]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

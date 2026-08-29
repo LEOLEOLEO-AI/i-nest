@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AnisotropicGaussianPrimitives]]
 [[AnomalousSpinTransport]]
 [[BigBrainCellularAxis]]
+[[BrainBodyResonance]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[DataDrivenCellularAxis]]
 [[Emergent_Intelligence_Threshold]]

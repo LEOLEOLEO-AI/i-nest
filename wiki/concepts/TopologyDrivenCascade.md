@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Architecture]]
 [[FoveationGuidedTokenSelection]]
 [[Interconnect_Routing]]
+[[LowRankPerturbation]]
 [[Network_Topology_Design]]
 [[Neural_Avalanche]]
 [[NeuromorphicHardware]]

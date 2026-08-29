@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[CSI_Temporal_Encoding]]
 [[Chip_Floorplanning]]
 [[Communication_Trace_Diagnostics]]
+[[ConductingPolymerDendriteMemory]]
 [[CongestionAwareLoss]]
 [[EpidemicThreshold]]
 [[InSensorMemoryComputing]]

@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[Swarm_Coordination]]
 [[TemporalEchoMemory]]
+[[Whole_Organism_Behavioral_Assay]]
 [[analog computation]]
 [[iNEST]]
 

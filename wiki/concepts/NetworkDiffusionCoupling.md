@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Collective_State_Convergence]]
 [[Complex_System_Theory]]
 [[CooperativeEmergence]]
+[[Critical_Region_Extension]]
 [[CrossLayer_SignalRouting]]
 [[Data_Debiasing_Techniques]]
 [[Deep_Thermalisation]]

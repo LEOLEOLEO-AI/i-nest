@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[FlexibilityThreshold]]
 [[Intelligence_Emergence]]
+[[NeuromorphicRL_Locomotion]]
 [[STDP_Plasticity]]
 [[SpikeEncoding]]
 [[Spiking_Neural_Network]]

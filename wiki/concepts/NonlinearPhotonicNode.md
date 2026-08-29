@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[ReservoirTemporalDynamics]]
 [[Reservoir_Computing]]
+[[SDDE_Attractor_Emergence]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[Spike_timing_dependent_plasticity]]

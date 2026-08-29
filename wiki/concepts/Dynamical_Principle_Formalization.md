@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[AsynchronousEventDrivenComputation]]
 [[Bio_plausible_Neuromorphic_Disturbance_Observer]]
 [[CascadedAdaptiveCombiners]]
+[[Co_designed_Online_Continual_Learning]]
 [[Complex_System_Theory]]
 [[FlexibilityThreshold]]
 [[Neuromorphic_Computing]]
@@ -43,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

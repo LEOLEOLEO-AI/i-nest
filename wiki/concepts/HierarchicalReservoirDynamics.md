@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[ANN_SNN_ConversionError]]
+[[BigBrainCellularAxis]]
 [[DARPA_ProjectManager_Model]]
 [[Epithelial_Barrier_Integrity]]
 [[FirstPrinciples_AI]]
@@ -36,6 +37,8 @@ Auto-extracted concept from raw material compilation.
 [[ReservoirDiversity]]
 [[ReservoirDynamics]]
 [[Reservoir_Computing]]
+[[SNN]]
+[[Spiking_Neural_Network]]
 [[iNEST]]
 [[reservoir computing]]
 

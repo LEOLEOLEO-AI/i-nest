@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[HigherOrderPublicGoodsGame]]
 [[Intelligence_Emergence]]
 [[ML_Accelerated_Characterization]]
+[[ManufacturingCloudOrchestration]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]

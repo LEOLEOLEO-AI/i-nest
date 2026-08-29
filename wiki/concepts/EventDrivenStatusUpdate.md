@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Driven_Architecture_Search]]
 [[AI_Forum_Demo_Narrative]]
 [[Baseline_Draft_Status]]
+[[BurstInterleaving]]
 [[Complex_System_Theory]]
 [[ContinualLearningOnNeuromorphic]]
 [[DebiasingTechniques]]
@@ -38,7 +39,6 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
-[[spiking neural network dynamics]]
 [[spiking neural network]]
 
 ## Sources

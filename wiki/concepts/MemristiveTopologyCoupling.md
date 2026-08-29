@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[P_Paradigm]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SDI_Review_Process]]
 [[TCC]]
 [[emergent computation]]
 [[iNEST]]

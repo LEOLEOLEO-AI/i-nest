@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[4H_SiC_SubstrateProcessing]]
 [[AdvancedPackagingInterconnect]]
 [[BarrierConditionedTrajectory]]
+[[BifurcationCandidate]]
 [[Cascading_Failure_Mitigation]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]

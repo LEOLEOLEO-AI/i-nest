@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[DendriticReservoirState]]
 [[DeviationScalingIndex]]
 [[FlexibilityThreshold]]
+[[InNetwork_Learning_Interface]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]

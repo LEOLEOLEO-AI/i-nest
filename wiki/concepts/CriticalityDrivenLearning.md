@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Complexity_Emergence]]
 [[Complexity_Emergence_Engineering]]
+[[Constructed_Reality_Interconnect]]
 [[CriticalBranching]]
 [[Criticality]]
 [[Criticality_Induced_Plasticity]]

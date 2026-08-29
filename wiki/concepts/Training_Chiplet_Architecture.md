@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[3DHI_Interconnect]]
 [[3DHI_Stacking]]
 [[3D_Heterogeneous_Integration]]
+[[3D_Integrated_Chiplet_Stacking]]
 [[AdiabaticMultimodeBend]]
 [[Advanced_Packaging_Route]]
 [[Bipartite_Interconnect]]

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CurrentInjectionSNN]]
 [[DARPA_ProjectManager_Model]]
 [[ElectronicPhotonicIntegratedCircuit]]
+[[Frontier_Innovation_Mapping]]
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]
 [[Memristor_Synapse]]

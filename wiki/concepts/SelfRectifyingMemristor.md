@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[PowerOfTwoWeightQuantization]]
+[[PropertyPredictionModeling]]
 [[Reservoir_Computing]]
 [[SDDE_Attractor_Emergence]]
 [[SimulabilityThreshold]]

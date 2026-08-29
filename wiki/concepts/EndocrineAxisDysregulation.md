@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[Phase_Diagram_of_Model_Scaling]]
 [[Photopolymerization_Printing]]
+[[QubitScaleScaling]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
 [[TCC]]

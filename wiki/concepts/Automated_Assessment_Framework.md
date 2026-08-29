@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Brain_Connectome]]
 [[CirculateFiringNeuron]]
 [[Complex_System_Theory]]
+[[Connectome]]
 [[Connectome_Reservoir]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

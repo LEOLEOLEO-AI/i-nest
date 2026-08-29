@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[SDSoW_Industry_Alliance]]
+[[SDSoW_Strategic_Planning]]
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
 [[System_Level_Utility_Control]]
@@ -48,7 +49,6 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect_Memristor]]
 [[chiplet interconnect]]
 [[iNEST]]
-[[iNEST_Wafer]]
 [[temporalComplexity]]
 
 ## Sources

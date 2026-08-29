@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[ReproducibleReservoirDynamics]]
 [[Reservoir_Computing]]
 [[TCC]]
+[[ThermallyDrivenSuperparamagnetReservoir]]
 [[iNEST]]
 [[类脑芯片]]
 

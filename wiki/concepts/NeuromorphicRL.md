@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[MoE_Routing]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
+[[SDPromptGuidedExpertFusion]]
 [[SNN]]
 [[SelfOrganization]]
 [[Spiking_Neural_Network]]

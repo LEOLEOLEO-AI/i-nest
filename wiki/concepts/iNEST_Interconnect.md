@@ -30,11 +30,11 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[NestedRepresentation]]
 [[Network_Topology_Design]]
+[[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[Order_Flexibility_Duality]]
 [[iNEST]]
-[[iNEST_Neuromorphic_Integration]]
 [[neuromorphic computing]]
 [[neuromorphic interconnect]]
 

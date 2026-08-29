@@ -34,11 +34,13 @@ Auto-extracted concept from raw material compilation.
 [[AtomicGeometryEncoding]]
 [[BrownianCastleInterface]]
 [[EnsembleSparsity]]
+[[Interconnect_Routing]]
 [[Nanomaterial_Discovery_ML]]
 [[Nonlinear_Gain]]
 [[ProjectiveMeasurementRouting]]
 [[SNN]]
 [[Spiking_Neural_Network]]
+[[Topological_Origin_of_Barriers]]
 [[iNEST]]
 
 ## Sources

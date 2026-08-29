@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CorticalWaveRouting]]
 [[Dynamic_Expert_Routing]]
 [[Interconnect_Routing]]
+[[Memristive_Solutions]]
 [[MoE_Routing]]
 [[Neuromorphic_Computing]]
 [[NonHermitianSpectralCorrelations]]

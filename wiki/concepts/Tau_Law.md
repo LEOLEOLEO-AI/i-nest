@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[DirectConnect_Topology]]
 [[DynamicProgrammingRecycling]]
 [[External_to_OnDie_Evolution]]
+[[HeterogeneousInference]]
 [[Heterogeneous_Chiplet_Customization]]
 [[Heterogeneous_Inference_Offload]]
 [[Heterogeneous_Integration]]

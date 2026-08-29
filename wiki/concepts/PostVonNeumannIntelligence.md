@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SwarmGradientRouting]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[Wafer_Scale_Integration]]

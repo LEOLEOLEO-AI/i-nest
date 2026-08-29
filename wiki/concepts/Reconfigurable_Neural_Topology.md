@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[DTGA]]
 [[Defense_Industrial_Base_Reshaping]]
 [[Dimensionality_Modularity_Tradeoff]]
+[[DynamicCentralitySteering]]
 [[EvolvingArchitectureDynamics]]
 [[HybridCouplingThermosensitiveNetwork]]
 [[Network_Topology_Design]]

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenInference]]
 [[EventDrivenRiskAssessment]]
 [[Event_Driven_Architecture]]
+[[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[FoveationGuidedTokenSelection]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

@@ -34,8 +34,10 @@ Auto-extracted concept from raw material compilation.
 [[EventCameraPoseInput]]
 [[EventDrivenFunctionalConnectivity]]
 [[EventDrivenSpectralProcessing]]
+[[Intelligence_Emergence]]
 [[JunctionSignalIntegrity]]
 [[Local_Plasticity]]
+[[Local_Plasticity_Rule]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]
 [[SpikeEncoding]]
@@ -43,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[iNEST]]
 [[temporal coding]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

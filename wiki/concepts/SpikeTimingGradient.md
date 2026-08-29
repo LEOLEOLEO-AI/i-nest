@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AINext_Initiative]]
 [[ActiveDendriteSNN]]
+[[AnisotropicGaussianPrimitives]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BioInspiredSequenceLearning]]
 [[CirculateFiringNeuron]]

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3D_Integrated_Chiplet_Stacking]]
 [[AINext_Initiative]]
 [[AdaptiveArchitecture]]
 [[AdaptiveCombinerWeighting]]

@@ -1,7 +1,7 @@
 ---
 title: "专利披露·H9"
 hypothesis: "H9"
-date: 2026-08-29
+date: 2026-08-30
 patentability: MEDIUM
 categories: ["system"]
 type: patent-disclosure
@@ -45,5 +45,5 @@ TCC×iNEST: 3D-IC堆叠模拟皮层柱状架构可实现密集神经处理层
 - [ ] 与相关论文发表策略协调（先申专再发论文）
 
 ---
-*由 patent_scout.py 于 2026-08-29T18:05:15.397981 自动生成*
+*由 patent_scout.py 于 2026-08-30T03:19:04.747675 自动生成*
 *来源假设: H9 | 来源桥接: 3DIC_Neural_Stacking*

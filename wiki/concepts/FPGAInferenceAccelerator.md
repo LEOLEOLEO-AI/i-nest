@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[CriticalNormBoundary]]
 [[CrossLayer_SignalRouting]]
+[[EarlyVisualCortexAliasing]]
 [[EnergyEfficientRestoration]]
 [[EnsembleCreditAssignment]]
 [[EventDrivenInference]]

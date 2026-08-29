@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[AnalogInMemoryComputing]]
 [[Architectural_Conditioning]]
+[[CXL_Deployment_Transition]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CrossbarArrayPrecision]]
 [[Dynamic_Expert_Fusion]]

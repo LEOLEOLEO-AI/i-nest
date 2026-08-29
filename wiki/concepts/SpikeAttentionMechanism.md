@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AsynchronousEventDrivenComputation]]
 [[BurstCoding]]
 [[Complex_System_Theory]]
+[[Cytokine_Feedback_Loops]]
 [[DiscreteSTDP]]
 [[ElasticInferenceScheduling]]
 [[ExactFiringRateModel]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[iNEST]]
 [[spiking neural network]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

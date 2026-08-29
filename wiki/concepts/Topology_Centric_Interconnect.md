@@ -43,8 +43,10 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
+[[STDP_Plasticity]]
 [[SoftwareDefinedSystemOnWafer]]
 [[TCC]]
+[[ThirdWaveAI]]
 [[chiplet interconnect]]
 [[涌现]]
 

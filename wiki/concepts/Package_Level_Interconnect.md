@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
 [[Chiplet_Interconnect_Topology]]
+[[Chiplet_NoC_Interconnect]]
 [[Complex_System_Theory]]
 [[CorticalTypeDiversity]]
 [[DataMovementMinimization]]
@@ -47,11 +48,11 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_Interconnect]]
 [[SDI_Topology]]
+[[STDP_Plasticity]]
 [[TCC]]
 [[Topology_Centric_Computing]]
 [[chiplet interconnect]]
 [[iNEST]]
-[[iNEST_Wafer]]
 [[涌现]]
 
 ## Sources

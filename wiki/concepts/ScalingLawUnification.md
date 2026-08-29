@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[1024_Card_SuperNode]]
 [[2_5D_PIM_Chiplet_Integration]]
+[[3DHI_Chiplet_Integration]]
 [[3DHI_Stacking]]
 [[3D_Heterogeneous_Integration]]
 [[AdiabaticMultimodeBend]]

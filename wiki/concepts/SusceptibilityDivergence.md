@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[InformationCompressionAtCriticality]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]
+[[NearThreeDimensionalCriticality]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[RecursiveSelfReferentialArchitecture]]

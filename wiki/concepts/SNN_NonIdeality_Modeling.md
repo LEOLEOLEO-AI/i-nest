@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Local_Structure_Aware_Self_Attention]]
 [[Memristive_SNN_Accelerator]]
 [[Memristive_Topology]]
+[[Meta_Residual_Learning]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]

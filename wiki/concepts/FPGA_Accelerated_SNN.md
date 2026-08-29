@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[OpenSource_Neuromorphic_Framework]]
 [[RenormalizationGroup_ScalingLaws]]
 [[SDI_Bond]]
+[[SDI_SNN]]
 [[SDI_SNN_Interconnect]]
 [[SDI_iNEST_Interconnect]]
 [[SNN]]
@@ -51,7 +52,6 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
-[[iNEST_Interconnect]]
 [[spiking neural network]]
 [[temporalComplexity]]
 

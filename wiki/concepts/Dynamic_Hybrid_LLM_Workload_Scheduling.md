@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[External_to_OnDie_Evolution]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
+[[MitigationLayers]]
 [[MultiplicativeGain]]
 [[SDSoW]]
 [[SDSoW_Architecture]]

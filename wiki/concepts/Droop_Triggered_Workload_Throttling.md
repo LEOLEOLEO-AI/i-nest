@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstCoding]]
 [[Complex_System_Theory]]
 [[Contested_Prior_Resolution]]
+[[Cytokine_Feedback_Loops]]
 [[DelayCodedWorkingMemory]]
 [[DiscreteSTDP]]
 [[DistinguishableHelium4]]
@@ -43,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[Temporal_Computing_Paradigm]]
 [[iNEST]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

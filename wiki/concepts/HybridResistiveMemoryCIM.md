@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[IMPLYMemristiveISA]]
 [[InMateriaComputing]]
 [[In_Memory_Computing]]
+[[In_Package_Neuromorphic_Integration]]
 [[Intelligence_Emergence]]
 [[Memristor_Synapse]]
 [[MetaFAIR_ArchitectureDiscovery]]

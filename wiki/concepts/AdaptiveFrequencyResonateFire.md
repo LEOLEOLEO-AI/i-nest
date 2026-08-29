@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_EW_Neuromorphic_Controller]]
 [[BrainBodyResonance]]
 [[Contested_Priors_Mechanism]]
+[[Controlled_Release_Kinetics]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[ExplainableEnergyAI]]
@@ -47,7 +48,6 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[Syncytial_Mesh]]
-[[Syncytial_Mesh_Model]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

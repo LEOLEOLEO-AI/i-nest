@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[Beyond_Moore_Pathway]]
 [[Causal_Emergence_Architecture]]
+[[ChipletTrafficAwareScheduling]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
 [[Deep_Network_Architecture_Invariant]]

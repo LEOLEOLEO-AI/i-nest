@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[AnalogInMemoryComputing]]
 [[Asymmetric_Interaction_Matrix]]
 [[BackpropagationFreeLearning]]
+[[Beyond_Moore_Pathway]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
 [[Heterogeneous_Integration]]

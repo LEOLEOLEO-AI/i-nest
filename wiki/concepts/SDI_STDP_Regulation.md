@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration_Route]]
 [[Contested_Prior_Resolution]]
 [[Heterogeneous_Integration]]
+[[HodgkinHuxleyDynamics]]
 [[Loihi2_SpikeEncoding]]
 [[Memory_Wall]]
 [[Memristive_STDP]]

@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI节点接口规范与化合键定义]]
 [[TCC]]
 [[complex system]]
+[[iNEST]]
 [[涌现]]
 [[神经网络]]
 

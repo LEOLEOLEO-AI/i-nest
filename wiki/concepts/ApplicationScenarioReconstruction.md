@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Spatiotemporal_Synergy_Complexity]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
+[[ThermalAwareTaskPlacement]]
 [[analog computation]]
 [[complex system]]
 

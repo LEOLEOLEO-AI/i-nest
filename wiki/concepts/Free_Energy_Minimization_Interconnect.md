@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
+[[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[complex system]]
 [[iNEST]]

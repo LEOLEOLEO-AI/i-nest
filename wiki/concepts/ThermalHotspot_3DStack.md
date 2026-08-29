@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Thermalisation]]
 [[Die_to_Die_Protocol]]
 [[DirectConnect_Topology]]
+[[DualSided_3D_Integration]]
 [[FreeFermionTopologicalInvariant]]
 [[Heterogeneous_Integration]]
 [[InSitu_Compute]]

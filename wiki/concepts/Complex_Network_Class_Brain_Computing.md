@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[DrivenDissipativeDynamics]]
 [[FPGA_Neuromorphic_Architectures]]
+[[FirstPrinciples_Derivation]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
 [[Memristive_Interconnect]]

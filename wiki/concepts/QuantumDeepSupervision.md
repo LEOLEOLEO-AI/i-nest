@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[Nonlinear_Gain]]
 [[P_Paradigm]]
+[[PersonalizedSNNTransfer]]
 [[PersonalizedSNN]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]

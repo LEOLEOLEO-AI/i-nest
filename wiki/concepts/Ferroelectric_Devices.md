@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
 [[EntropyProductionRate]]
+[[Epithelial_Barrier_Integrity]]
 [[FisherOrthogonalMemory]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
@@ -51,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[SelfOrganizedOscillatoryLearning]]
 [[StochasticBinaryDynamics]]
+[[ferroelectric devices]]
 [[iNEST]]
 
 ## Sources

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[EdgeIoTEnergyAwareness]]
 [[Environmental_Capability_Context]]
 [[EventDrivenAsynchronousRouting]]
+[[EventDrivenTracking]]
 [[FrustratedDimerMagnet]]
 [[Interconnect_Routing]]
 [[Memristive_Topology]]

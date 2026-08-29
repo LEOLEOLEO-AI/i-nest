@@ -27,12 +27,14 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[BurstInterleaving]]
 [[CellEmergence]]
+[[Complex_System_Theory]]
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[CrossLayer_SignalRouting]]
 [[DARPA_Technology_Incubation]]
 [[Deep_Thermalisation]]
 [[EventDrivenTracking]]
 [[Free_Energy_Principle_Network]]
+[[GraphBasedSemanticRouting]]
 [[InSitu_Compute]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
@@ -43,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[Topological_Flow_Logic]]
 [[WirelessSplitComputing]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

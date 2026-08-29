@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[ReproducibleReservoirComputing]]
 [[Reservoir_Computing]]
+[[ShortTermMemoryReservoir]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
 [[neuromorphic computing]]

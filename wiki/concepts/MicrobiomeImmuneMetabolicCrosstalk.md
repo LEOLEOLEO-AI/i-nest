@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[EndToEndTopologyLearning]]
 [[GroupInteractionThreshold]]
 [[Intelligence_Emergence]]
+[[LocalStructuralPlasticity]]
 [[NetworkFeedbackEquilibrium]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

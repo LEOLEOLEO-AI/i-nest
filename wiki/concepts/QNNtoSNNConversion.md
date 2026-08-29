@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AdversarialSpikePerturbation]]
 [[CrossLayer_SignalRouting]]
 [[EarlyVisualCortexAliasing]]
+[[EventDrivenModularArchitecture]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]

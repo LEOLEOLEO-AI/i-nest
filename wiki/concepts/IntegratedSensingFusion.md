@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[ShortTermMemory]]
+[[SwarmGradientRouting]]
 [[Swarm_Coordination]]
 [[TwoTimescaleNeuroEvolution]]
 [[complex system]]

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[BiasPropagationInNetworks]]
 [[CollectiveDynamics]]
 [[CorticalTravelingWave]]
+[[CorticalTravelingWaves]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[PPT]]

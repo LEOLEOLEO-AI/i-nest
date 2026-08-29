@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Control_Field_Framework]]
 [[CrossSubstrateHomology]]
+[[Crossbar_Programming]]
 [[Defense_Industrial_Base_Reshaping]]
 [[DevelopmentalNeuromorphicAdaptation]]
 [[Dynamic_Expert_Fusion]]

@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[PolychronousNeuronalGroups]]
 [[Reservoir_Computing]]
 [[SNN]]
+[[SNN_Conversion_Approximation_Bound]]
 [[STDP_Plasticity]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]

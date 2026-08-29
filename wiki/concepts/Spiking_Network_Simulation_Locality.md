@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[LocalLearning_SynapticUpdate]]
 [[NestedRepresentation]]
 [[NeuromorphicBrainInterface]]
+[[NeuromorphicEdgeProcessing]]
 [[NeuromorphicHandwritingRecognition]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]

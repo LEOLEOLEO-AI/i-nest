@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Heterogeneous_Monolithic_CoIntegration]]
 [[HigherOrderSimplicialDynamics]]
+[[In_Package_Neuromorphic_Integration]]
 [[Intelligence_Emergence]]
 [[LossSpikePhenomenon]]
 [[Nature Communications_生物神经网络中突触多样性如何让人工神经网络更强大？]]
@@ -51,7 +52,6 @@ Auto-extracted concept from raw material compilation.
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[神经形态脉冲大语言模型（NSLLM）]]
 [[神经形态计算]]
-[[神经形态计算突破：脉冲神经网络实现机器人超低功耗定位新范式]]
 [[神经网络]]
 [[脉冲神经网络]]
 

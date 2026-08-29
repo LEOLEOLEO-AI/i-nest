@@ -59,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
+[[ST_SNN]]
 [[ScaleFreeNetwork]]
 [[Small_World_Network]]
 [[SpatiotemporalComplexityIndex]]

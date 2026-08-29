@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CommunicationAwareComputeRelocation]]
 [[CorticalTypeDiversity]]
 [[Express_Link_Virtualization]]
+[[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[LargeScalePhotonicIntegration]]

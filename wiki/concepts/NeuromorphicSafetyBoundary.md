@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicHardware]]
 [[Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]
+[[PhysicalSubstrateReservoir]]
 [[QuantumSpikingNeuron]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDSoW]]

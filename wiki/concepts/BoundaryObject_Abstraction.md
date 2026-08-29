@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[DataDrivenCellularAxis]]
 [[Deep_Network_Architecture_Invariant]]
+[[Defense_Industrial_Base_Reshaping]]
 [[EmergentIntelligence_Spacetime]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]

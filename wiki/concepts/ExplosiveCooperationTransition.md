@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[CausalEmergenceCondition]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
+[[Compositional_Continuum]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Free_Energy_Minimization_Interconnect]]
 [[Intelligence_Emergence]]

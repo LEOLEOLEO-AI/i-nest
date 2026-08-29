@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[IMPLY_ISA]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]
+[[MixedLabyrinthFractal]]
 [[Network_Topology_Design]]
 [[NeuromorphicRadarFrontend]]
 [[NeuromorphicTransformerPipeline]]

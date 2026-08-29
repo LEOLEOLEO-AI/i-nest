@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_ProjectManager_Model]]
 [[EcosystemTopologyCoupling]]
 [[EmergentTaskDecomposition]]
+[[Epidemic_Mitigation_Strategy]]
 [[IncidenceBasedRandomWalk]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

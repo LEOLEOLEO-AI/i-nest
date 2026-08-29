@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeTimingEncoding]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
+[[TemporalFeaturePropagation]]
 [[Topology_Aware_Spike_Routing]]
 [[iNEST]]
 [[neuromorphic computing]]

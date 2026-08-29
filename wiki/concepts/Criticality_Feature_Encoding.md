@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[4H_SiC_SubstrateProcessing]]
 [[AINext_Initiative]]
 [[AI_Faculty_Forum_2026]]
+[[Advanced_Packaging_for_Space]]
 [[AgenticServiceManifesto]]
 [[AgenticServiceOrchestration]]
 [[AlloyDisorderEngineering]]

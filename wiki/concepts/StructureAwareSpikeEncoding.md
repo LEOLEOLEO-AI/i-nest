@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Prior_Resolution]]
 [[DivergentHigherAreaRanking]]
 [[HardwareAware_DesignSpace]]
+[[MembranePotentialModulation]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[PhaseLockedTopologyMapping]]

@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Cryogenic_Syndrome_Compression]]
 [[EdgeCloudCollaboration]]
 [[Heterogeneous_Integration]]
+[[InNetworkFieldQuery]]
 [[Intelligence_Emergence]]
 [[Memory_Wall]]
 [[Neuromorphic_Computing]]

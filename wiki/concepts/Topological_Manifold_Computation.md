@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[BackpropagationFreeLearning]]
 [[Beyond_Moore_Pathway]]
 [[CST计量仪]]
+[[ChipletTrafficAwareScheduling]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
 [[DifferentiableRasterizationPipeline]]

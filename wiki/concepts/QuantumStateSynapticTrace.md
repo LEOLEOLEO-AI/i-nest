@@ -33,12 +33,14 @@ Auto-extracted concept from raw material compilation.
 [[InputAdaptiveComputation]]
 [[NestedRepresentation]]
 [[Neuromorphic_Computing]]
+[[NonEquilibriumPhase]]
 [[OptimalGeneralisationNearInterpolation]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[Temporal_Computing_Paradigm]]
 [[iNEST]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

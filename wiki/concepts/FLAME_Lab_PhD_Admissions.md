@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Baseline_Draft_Status]]
 [[BiologicalParadigmValidation]]
+[[Bipartite_Interconnect]]
 [[CellEmergence]]
 [[Closed_Loop_Neuromodulation]]
 [[Complex_System_Theory]]

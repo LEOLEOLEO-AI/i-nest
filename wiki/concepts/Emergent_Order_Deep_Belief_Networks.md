@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[MatrixShapePhaseTransition]]
 [[Network_Topology_Design]]
+[[NonreciprocalQuasiperiodicLattice]]
 [[PhotonicSynapticPlasticity]]
 [[ReconfigurableSpikingRouting]]
 [[SelfOrganization]]
@@ -41,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[Topology_Dynamics_Aware_RL]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

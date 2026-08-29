@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[ComputeRelocationOverhead]]
 [[CorticalTypeDiversity]]
 [[Decoupled_Priors]]
+[[DualSided_Routing_Resource]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
 [[GraphBasedSemanticRouting]]

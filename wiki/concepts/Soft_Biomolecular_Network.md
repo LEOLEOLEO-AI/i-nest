@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[EmulationTheoryObserver]]
 [[FlexibilityThreshold]]
 [[Intelligence_Emergence]]
+[[Low_Power_Planning_Constraint]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Silicon_Neuron_Controller]]

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Closed_Loop_Neuromodulation]]
 [[CognitiveTaskonomy]]
 [[Complex_System_Theory]]
+[[ContinuousGameOfLife]]
 [[DARPA_Technology_Incubation]]
 [[Defense_Industrial_Base_Reshaping]]
 [[DimensionalityReductionPrinciple]]

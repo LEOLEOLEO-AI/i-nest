@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Bosonic_SPT_Phases]]
 [[Branch_Prediction_Reservoir]]
 [[Categorical_Reservoir_Model]]
+[[CouplingMatrixRecovery]]
 [[Crystallized_Neural_Manifolds]]
 [[Dynamic_Expert_Fusion]]
 [[FitnessGuidedTopologySearch]]
@@ -46,7 +47,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[branch prediction]]
-[[reservoir computing architecture]]
 [[reservoir computing]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

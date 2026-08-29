@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[IncidenceMatrixPropagation]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[JunctionCenteredRouting]]
 [[Network_Topology_Design]]
 [[Synaptic_Plasticity]]
 [[TCC]]

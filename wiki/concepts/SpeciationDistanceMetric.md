@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Cascading_Failure_Mitigation]]
 [[CeYIGMagnetoOpticalIsolator]]
 [[CellEmergence]]
+[[CircuitSynthesis]]
 [[Complex_System_Theory]]
 [[CrossLayer_SignalRouting]]
 [[DirtyWeylSemimetal]]

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Reconfigurability]]
 [[GenerativeTopologyModels]]
 [[Intelligence_Emergence]]
+[[MetaHardwareAbstraction]]
 [[Network_Topology_Design]]
 [[Synaptic_Plasticity]]
 [[TCC]]

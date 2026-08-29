@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[PopulationDensityApproximation]]
 [[PowerLaw_Analysis]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SDDE_Attractor_Emergence]]
 [[SNN]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]

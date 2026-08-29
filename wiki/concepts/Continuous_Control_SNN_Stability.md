@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[DiscreteContinuous_Unification]]
 [[EnergyProportionalityCeiling]]
 [[EventBasedMotionDeblurring]]
+[[EventDrivenMotionDeblurring]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Self_Organized_Criticality]]

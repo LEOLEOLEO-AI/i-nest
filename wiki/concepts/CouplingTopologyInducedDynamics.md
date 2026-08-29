@@ -20,8 +20,8 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[CriticalityInducedTopology]]
 [[Criticality]]
-[[Criticality_Entanglement]]
 [[DataDrivenMaterialDesign]]
 [[DisorderInducedEntanglementTransition]]
 [[Generative_Graph_Models]]

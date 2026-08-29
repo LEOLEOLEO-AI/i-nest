@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[chiplet interconnect]]
 [[complex system]]
+[[iNEST]]
 [[temporalComplexity]]
 [[涌现]]
 

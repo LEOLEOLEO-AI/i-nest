@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[LLMDrivenPathSelection]]
 [[LocalInteractionDrivenReconfiguration]]
+[[LowRankPerturbation]]
 [[MatrixShapePhaseTransition]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

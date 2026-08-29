@@ -47,7 +47,9 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Swarm_Adaptive_Topology]]
 [[Synaptic_Plasticity]]
+[[SynchronizationAttractorBasin]]
 [[TCC]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

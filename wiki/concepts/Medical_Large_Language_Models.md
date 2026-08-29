@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[AvalancheBranchingRatio]]
 [[BoundaryObject_Abstraction]]
+[[BranchingRatio]]
 [[CST计量仪]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -31,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[ComputationEfficientDeepLearning]]
 [[Deep_Network_Architecture_Invariant]]
+[[Defense_Industrial_Base_Reshaping]]
 [[EfficientDeepLearning]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
@@ -55,7 +57,6 @@ Auto-extracted concept from raw material compilation.
 [[Topology_Centric_Computing]]
 [[chiplet interconnect]]
 [[iNEST]]
-[[iNEST_Wafer]]
 [[temporalComplexity]]
 
 ## Sources

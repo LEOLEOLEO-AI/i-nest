@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[DataProvenanceIntegrity]]
 [[Decoupled_Priors]]
 [[Deep_Network_Architecture_Invariant]]
+[[DiagnosticReportFramework]]
 [[EulaminateOverrepresentation]]
 [[Evolutionary_Structure_Computability]]
 [[Exponential_CST_Coupling]]

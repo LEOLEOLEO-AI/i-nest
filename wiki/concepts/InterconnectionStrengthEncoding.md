@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality_Based_Feature_Extraction]]
 [[EdgeIoTEnergyAwareness]]
 [[Interconnect_Routing]]
+[[LowRankPerturbation]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[QuantumCoherenceSpikeCoupling]]

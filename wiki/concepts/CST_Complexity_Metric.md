@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[AdiabaticMultimodeBend]]
 [[Allreduce_Latency_Diagnostic]]
+[[Analog_InMemory_Processing]]
 [[BiasEvaluationMetrics]]
 [[CST_CoarseGraining]]
 [[CST_Spatiotemporal_Complexity]]

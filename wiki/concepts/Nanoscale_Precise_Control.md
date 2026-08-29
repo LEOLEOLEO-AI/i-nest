@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[JunctionCenteredFramework]]
+[[Mesoscale_Physical_Computing_Framework]]
 [[Metastable_State_Hierarchy]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[Contested_Priors_Mechanism]]
 [[Course_Based_FPGA_Prototyping]]
+[[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[DynamicTokenSparsity]]
 [[Edge_Neuromorphic_Compute]]

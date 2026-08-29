@@ -24,12 +24,14 @@ Auto-extracted concept from raw material compilation.
 [[AI_Assisted_Energy_Optimization]]
 [[AllOpticalHebbianLearning]]
 [[Beyond_Moore_Packaging_Strategy]]
+[[Complex_System_Theory]]
 [[ConsciousnessEngineeringLoop]]
 [[Constructed_Reality_Interconnect]]
 [[DARPA_ProjectManager_Model]]
 [[Defense_Industrial_Base_Reshaping]]
 [[ERI_2_0_Strategic_Framework]]
 [[Emergent_Intelligence_Theory]]
+[[FC2_Goal_Representation]]
 [[FastSlow_Dynamics]]
 [[Free_Energy_Principle_Network]]
 [[Intelligence_Emergence]]
@@ -37,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[analog computation]]
 [[iNEST]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

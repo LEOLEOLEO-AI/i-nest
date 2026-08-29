@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Ferroelectric_Devices]]
 [[Intelligence_Emergence]]
+[[LatencyCoding]]
 [[Memristive_STDP]]
 [[Memristor_Synapse]]
 [[Mott_Device_Array]]

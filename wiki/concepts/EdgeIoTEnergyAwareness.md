@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[CorticalTypeDiversity]]
 [[DataMovementMinimization]]
 [[Die_to_Die_Protocol]]
+[[DirectConnect_Topology]]
 [[Dynamic_Expert_Fusion]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]

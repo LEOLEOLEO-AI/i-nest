@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[AI_Enabled_Battlefield_Autonomy]]
 [[AI_PPT_Workflow]]
+[[ANN_SNN_ConversionError]]
 [[ANN_SNN_WeightSpaceGap]]
 [[ANN_to_SNN_Conversion_Error_Amplification]]
 [[ActiveDendriteSNN]]

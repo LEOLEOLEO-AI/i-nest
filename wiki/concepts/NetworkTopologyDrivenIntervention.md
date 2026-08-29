@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Spatiotemporal_Prior_Encoding]]
 [[SuperlinearGain]]
 [[TCC]]
+[[TopologicalDataCompression]]
 [[涌现]]
 
 ## Sources

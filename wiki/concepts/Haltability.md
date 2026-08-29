@@ -44,8 +44,10 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC_Chiplet_iNEST_Wafer]]
+[[RTC_Primitives]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]
+[[STDP_Plasticity]]
 [[Software_Defined_Interconnect]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
@@ -53,7 +55,6 @@ Auto-extracted concept from raw material compilation.
 [[chiplet interconnect]]
 [[complex system]]
 [[iNEST]]
-[[iNEST_Wafer]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
 

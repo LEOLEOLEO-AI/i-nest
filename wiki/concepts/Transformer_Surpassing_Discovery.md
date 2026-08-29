@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[ChiralSurfaceFermiProjection]]
 [[CircuitTopologySearch]]
+[[CompactAnalogPredictor]]
 [[Complex_System_Theory]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]

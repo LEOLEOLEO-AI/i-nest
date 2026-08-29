@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Constructed_Reality_Model]]
 [[CrossLayer_SignalRouting]]
 [[DirectTrainingSNN]]
+[[Direct_Training_Spiking_Neural_Networks]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Frontier_Innovation_Mapping]]

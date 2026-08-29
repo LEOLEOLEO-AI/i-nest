@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
+[[SNN_NeuroprostheticPipeline]]
 [[Self_Organized_Criticality]]
 [[SpikeBackpropagation]]
 [[SpikeBasedGradientDescent]]

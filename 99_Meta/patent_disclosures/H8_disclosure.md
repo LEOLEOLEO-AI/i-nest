@@ -1,7 +1,7 @@
 ---
 title: "专利披露·H8"
 hypothesis: "H8"
-date: 2026-08-29
+date: 2026-08-30
 patentability: HIGH
 categories: ["hardware"]
 type: patent-disclosure
@@ -45,5 +45,5 @@ Cerebras CS-2已证明晶圆级AI推理可行，扩展至SNN域
 - [ ] 与相关论文发表策略协调（先申专再发论文）
 
 ---
-*由 patent_scout.py 于 2026-08-29T18:05:15.387804 自动生成*
+*由 patent_scout.py 于 2026-08-30T03:19:04.747675 自动生成*
 *来源假设: H8 | 来源桥接: WaferScale_Neuromorphic*

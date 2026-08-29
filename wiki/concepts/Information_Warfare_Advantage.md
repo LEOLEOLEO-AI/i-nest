@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[RecurrentOscillatoryComputation]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Soc]]
+[[SocialSkillAcquisition]]
 [[Spiking_Neural_Network]]
 [[SuperparamagneticSwitchingRate]]
 [[Swarm_Coordination]]
@@ -49,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[VisualPlaceRecognition]]
 [[analog computation]]
 [[iNEST]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

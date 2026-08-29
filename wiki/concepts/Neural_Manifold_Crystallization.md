@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Deep_Brain_Stimulation]]
 [[AddressRedundancyElimination]]
 [[Adjoint_Gradient_Propagation]]
+[[Bio_plausible_Neuromorphic_Disturbance_Observer]]
 [[CascadedAdaptiveCombiners]]
 [[CollectiveDynamics]]
 [[Complex_System_Theory]]

@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicReconfigurationForFaultTolerance]]
 [[Emergent_Intelligence_Threshold]]
 [[FPGABasedNeuromorphic]]
+[[FPGA_Neuromorphic_Architectures]]
 [[Gut_Brain_Immune_Network]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
@@ -48,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

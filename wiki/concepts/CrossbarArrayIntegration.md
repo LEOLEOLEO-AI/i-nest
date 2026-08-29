@@ -21,8 +21,9 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Application_Scenario_Reconstruction]]
 [[AcceleratedMaterialScreening]]
-[[ActiveInferenceEdgeLoop]]
+[[ActiveInference]]
 [[Allreduce_Latency_Probe]]
+[[AndersonTransition]]
 [[AnomalousSpinTransport]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[BigBrainCellularAxis]]

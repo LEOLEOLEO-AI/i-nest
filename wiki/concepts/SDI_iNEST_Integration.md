@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
+[[SimplicialComplexTransition]]
 [[SpatiotemporalCooperativeIntelligence]]
 [[Spatiotemporal_Synergy_Complexity]]
 [[analog computation]]

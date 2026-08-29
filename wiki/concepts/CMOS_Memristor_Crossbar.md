@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[HardwareAware_DesignSpace]]
 [[Intelligence_Emergence]]
 [[Memristor_Synapse]]
+[[Meta_Residual_Learning]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]

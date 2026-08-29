@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[SpinalHDL_DSL]]
 [[SuperparamagneticSwitchingRate]]
+[[Syncytial_Information_Integration]]
 [[TCC]]
 [[complex system]]
 [[iNEST]]

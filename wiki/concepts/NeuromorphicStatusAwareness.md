@@ -30,12 +30,12 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[P_Paradigm]]
+[[SDI_iNEST_Interconnect]]
 [[ST_SNN]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[complex system]]
 [[iNEST]]
-[[iNEST_Neuromorphic_Integration]]
 [[spiking neural network]]
 
 ## Sources

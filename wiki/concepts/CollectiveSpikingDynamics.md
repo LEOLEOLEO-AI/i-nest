@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[ST_SNN]]
+[[SpikeEncodingLatency]]
 [[SpikeEncoding]]
 [[SpikeEventScheduling]]
 [[Spike_Encoding_of_fMRI]]

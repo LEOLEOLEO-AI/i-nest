@@ -25,8 +25,8 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[CriticalFixedPoint]]
 [[Critical_Exponent_Scaling]]
-[[CriticalityInducedTopology]]
 [[Criticality]]
+[[Criticality_of_Natural_Languages]]
 [[DynamicalSelfDualCriticality]]
 [[EdgeOfChaos]]
 [[Edge_of_Chaos_Coastal_Dynamics]]
@@ -48,7 +48,6 @@ Auto-extracted concept from raw material compilation.
 [[TopologicalAndersonChernInsulator]]
 [[criticality]]
 [[iNEST]]
-[[reservoir computing architecture]]
 [[reservoir computing]]
 [[scaling laws]]
 

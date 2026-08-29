@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Connectome]]
 [[Connectome_Inspired_Architecture]]
 [[Connectome_Transfer]]
+[[Connectome_Verification_Protocol]]
 [[DataProvenanceIntegrity]]
 [[FrozenRateOperator]]
 [[Memristor_Synapse]]

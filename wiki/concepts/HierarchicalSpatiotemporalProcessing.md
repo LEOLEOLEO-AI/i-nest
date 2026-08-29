@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkNeuromorphicSimulation]]
 [[Intelligence_Emergence]]
 [[MacroCriticalityEmergence]]
+[[Mesoscale_Heterogeneous_Integration]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Neuromorphic_Computing]]
 [[NonlinearConnectomeScaling]]

@@ -22,15 +22,18 @@ Auto-extracted concept from raw material compilation.
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[AIRA_NeuralArchSearch]]
 [[AI_FullSpectrum_Strategy]]
+[[AdjointWaveControl]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[BifurcationCandidate]]
 [[Chip_Floorplanning]]
 [[ChiralSymmetryClasses]]
+[[Complex_System_Theory]]
 [[DifferentiableFloorplanning]]
 [[EntanglementAwareRouting]]
 [[FatalityDrivenRewiring]]
 [[HybridConvexOptimization]]
+[[Intelligence_Emergence]]
 [[InterconnectDrivenCostFunction]]
 [[Interconnect_Routing]]
 [[Memristive_Topology]]
@@ -48,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Translation_Invariant_Closure]]
 [[chip floorplanning]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

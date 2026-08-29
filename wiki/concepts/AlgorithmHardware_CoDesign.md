@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Synapse]]
 [[Nat Commun丨国防科技大学胡德文等团队揭示用于同时编码时空动态的多突触脉冲神经元]]
 [[Nature Communications_生物神经网络中突触多样性如何让人工神经网络更强大？]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[SNN]]
@@ -42,9 +43,9 @@ Auto-extracted concept from raw material compilation.
 [[向大脑学习智能本质，探索通用 AI 的另一条可行路径]]
 [[在 FPGA 上实现并行脉冲神经网络（Spiking Neural Net）]]
 [[新型计算]]
+[[智能涌现]]
 [[神经形态脉冲大语言模型（NSLLM）]]
 [[神经形态计算]]
-[[神经形态计算突破：脉冲神经网络实现机器人超低功耗定位新范式]]
 [[神经网络]]
 [[脉冲神经网络]]
 

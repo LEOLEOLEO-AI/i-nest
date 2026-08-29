@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
+[[TCC]]
 [[TwoTimescaleNeuroEvolution]]
 [[complex system]]
 [[iNEST]]

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Cascading_Failure_Mitigation]]
 [[CrossLayer_SignalRouting]]
 [[EventDrivenAsynchronousRouting]]
+[[FPGACongestionHotspotMitigation]]
 [[Interconnect_Routing]]
 [[Network_on_Chip]]
 [[NoC_EventRouting]]

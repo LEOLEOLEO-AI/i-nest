@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CompactMicroLED_Array]]
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
+[[Distributed_Spike_Communication]]
 [[In_Memory_Computing]]
 [[Intelligence_Emergence]]
 [[Memristive_ANN_Hardware]]

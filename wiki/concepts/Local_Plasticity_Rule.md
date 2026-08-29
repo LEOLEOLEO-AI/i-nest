@@ -32,14 +32,17 @@ Auto-extracted concept from raw material compilation.
 [[EmergentAttractorStability]]
 [[EventCameraPoseInput]]
 [[EventDrivenSpectralProcessing]]
+[[Intelligence_Emergence]]
 [[JunctionSignalIntegrity]]
 [[Local_Plasticity]]
 [[Neuromorphic_Computing]]
 [[STDP_Plasticity]]
+[[SparseActivationSkipping]]
 [[SpikeEncoding]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

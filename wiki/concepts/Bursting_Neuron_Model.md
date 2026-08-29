@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Distributed_Spike_Communication]]
 [[DynamicSpikePruning]]
 [[Emergent_Intelligence_Threshold]]
+[[FixedOverheadCost]]
 [[Intelligence_Emergence]]
 [[Loihi2_OnChip_Learning]]
 [[MultibodyInteractionCascade]]

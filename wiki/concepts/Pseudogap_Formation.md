@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Free_Energy_Minimization_Interconnect]]
 [[Intelligence_Emergence]]
+[[Interconnect_Scaling]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

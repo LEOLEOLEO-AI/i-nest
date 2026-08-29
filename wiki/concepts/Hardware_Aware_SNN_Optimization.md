@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Continuous_Control_Spike_Timing_Sensitivity]]
 [[CrashHotspotForecasting]]
 [[DivergentHigherAreaRanking]]
+[[EnergyEfficientNeuromorphic]]
 [[Nonlinear_Gain]]
 [[SNN]]
 [[Spiking_Neural_Network]]

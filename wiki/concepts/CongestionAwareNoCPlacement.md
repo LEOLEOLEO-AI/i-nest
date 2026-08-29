@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3DHI_Interconnect]]
+[[4H_SiC_SubstrateProcessing]]
 [[Additive_Manufacturing_Topology]]
 [[BackpropagationFreeLearning]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -43,7 +44,6 @@ Auto-extracted concept from raw material compilation.
 [[WaferScale_Chiplet_Interconnect]]
 [[chiplet interconnect]]
 [[iNEST]]
-[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

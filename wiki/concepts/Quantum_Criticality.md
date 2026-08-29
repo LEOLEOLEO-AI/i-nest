@@ -36,10 +36,13 @@ Auto-extracted concept from raw material compilation.
 [[AvalancheBranchingRatio]]
 [[Boundary_Criticality]]
 [[BranchingRatio]]
+[[Capability_Reserve_Index]]
 [[Criticality]]
 [[Network_Topology_Design]]
 [[Self_Organized_Criticality]]
 [[TCC]]
+[[criticality]]
+[[quantum criticality]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

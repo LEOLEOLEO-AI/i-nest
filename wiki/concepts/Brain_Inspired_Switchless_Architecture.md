@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[CompetitiveEdgeRewiring]]
 [[Complex_System_Theory]]
 [[CubicLatticeInterconnect]]
+[[DelayTolerantNetworkUAV]]
 [[Dynamic_Expert_Fusion]]
 [[ExplainableEnergyAI]]
 [[FrozenRateOperator]]

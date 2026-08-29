@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[ConsciousnessEngineeringLoop]]
 [[Course_Based_FPGA_Projects]]
 [[CrashHotspotForecasting]]
+[[CrossLayer_SignalRouting]]
 [[DARPA_3DHI_Roadmap]]
 [[DARPA_Manufacturing_Strategy]]
 [[DARPA_ProjectManager_Model]]

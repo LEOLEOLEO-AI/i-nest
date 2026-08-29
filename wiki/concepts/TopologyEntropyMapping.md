@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[GrandCanonicalOptimization]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[LEO_Satellite_Routing_RL]]
 [[Network_Topology_Design]]
 [[Synaptic_Plasticity]]
 [[TCC]]

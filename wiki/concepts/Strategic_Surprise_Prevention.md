@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[EdgeOfChaos]]
 [[Heterogeneous_Integration]]
 [[In_Package_Neuromorphic_Integration]]
+[[InkjetPrintedElectrochemicalSensors]]
 [[Memristor_Interconnect]]
 [[Memristor_Synapse]]
 [[MetaFAIR_ArchitectureDiscovery]]

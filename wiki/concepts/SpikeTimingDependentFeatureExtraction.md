@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[CrashHotspotForecasting]]
 [[DivergentHigherAreaRanking]]
+[[DynamicalSelfDualCriticality]]
 [[FatigueSTDP]]
 [[Layered_Attractive_Hubbard_Model]]
 [[Memristor_Synapse]]

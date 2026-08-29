@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[ConductingPolymerDendriteMemory]]
 [[DelayCodedWorkingMemory]]
 [[Dynamic_Expert_Fusion]]
+[[Efficient_Coding_Constraint]]
 [[Emergent_Intelligence_Threshold]]
 [[Event_Driven_Architecture]]
 [[Intelligence_Emergence]]
@@ -42,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network_Audio_Detection]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

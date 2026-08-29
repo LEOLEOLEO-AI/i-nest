@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect_Topology]]
 [[CommunicationHeterogeneity]]
 [[Complex_System_Theory]]
+[[Cryogenic_Syndrome_Compression]]
 [[EventDrivenSensoryEncoding]]
 [[EventDrivenTracking]]
 [[Heterogeneous_Integration]]
@@ -41,9 +42,9 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_iNEST_Wafer]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
+[[STDP_Plasticity]]
 [[TCC]]
 [[iNEST]]
-[[iNEST_Wafer]]
 [[涌现]]
 
 ## Sources

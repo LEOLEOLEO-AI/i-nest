@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[In_Package_Interconnect_Trust]]
 [[Intelligence_Emergence]]
+[[L2_L3_Reconfigurability]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[SuperparamagneticSwitchingRate]]

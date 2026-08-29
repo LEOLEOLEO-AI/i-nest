@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Continual_Learning_Modularity]]
 [[DelayTolerantNetworkUAV]]
 [[EvolvingArchitectureDynamics]]
+[[ImaginaryGaugePhaseImprint]]
 [[Intelligence_Emergence]]
 [[Intelligent_Power_Management]]
 [[Interconnect_Routing]]

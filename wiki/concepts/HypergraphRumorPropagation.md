@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Processing]]
 [[Intelligence_Emergence]]
+[[MacroscopicDescriptor]]
 [[Network_on_Chip]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_NoC_Interconnect]]
+[[Chiplet_Topology_Mapping]]
 [[Complex_System_Theory]]
 [[Decoupled_Priors]]
 [[Deep_Network_Architecture_Invariant]]
@@ -46,10 +47,10 @@ Auto-extracted concept from raw material compilation.
 [[Package_Level_Interconnect]]
 [[Photonic_Chiplet_Interconnect]]
 [[SDI_Bond]]
+[[STDP_Plasticity]]
 [[TCC]]
 [[advanced packaging]]
 [[iNEST]]
-[[iNEST_Wafer]]
 [[涌现]]
 
 ## Sources

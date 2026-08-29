@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[ErrorAmplificationLimits]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[JunctionCenteredRouting]]
 [[LatencyGradientDescent]]
 [[MolecularTargetSignaling]]
 [[Network_Topology_Design]]

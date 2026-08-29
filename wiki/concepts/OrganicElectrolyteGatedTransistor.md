@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[CoreComputationSubspace]]
 [[CulturalDisseminationDynamics]]
 [[EdgeIoTEnergyAwareness]]
+[[Edge_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[FlexibilityThreshold]]
 [[InNetworkAgentRewiring]]

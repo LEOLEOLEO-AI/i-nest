@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SelfOrthogonalizingAttractorNetworks]]
 [[SelfOrthogonalizingAttractor]]
 [[iNEST]]
 [[soc]]

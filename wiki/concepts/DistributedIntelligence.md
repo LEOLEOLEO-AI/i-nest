@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[FermiSurfaceTopologySignature]]
 [[HigherOrderDynamicsPreservation]]
 [[Intelligence_Emergence]]
+[[MemoryDrivenRouting]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Personnel_Role_Assignment]]

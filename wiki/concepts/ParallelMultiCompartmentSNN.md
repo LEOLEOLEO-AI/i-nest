@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[AI_Enabled_Battlefield_Autonomy]]
+[[AddressRedundancyElimination]]
 [[Amorphous_Amorphous_Transition]]
 [[AnisotropicGaussianPrimitives]]
 [[BiSpikCLM]]
@@ -34,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Hardware_Accelerated_SNN]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
+[[Interconnect_Routing]]
 [[Layered_Attractive_Hubbard_Model]]
 [[LeftRightAsymmetry]]
 [[Local_Structure_Aware_Self_Attention]]

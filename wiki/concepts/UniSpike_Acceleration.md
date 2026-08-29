@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossLayer_SignalRouting]]
 [[DirectTrainingSNN]]
 [[Emergent_Intelligence_Threshold]]
+[[EnergyEfficientNeuromorphic]]
 [[FPGA_Neuromorphic_Acceleration]]
 [[FormalToolchain]]
 [[InNetworkAgentRewiring]]

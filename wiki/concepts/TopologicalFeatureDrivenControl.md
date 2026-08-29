@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[EvolvingArchitectureDynamics]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[JunctionCenteredRouting]]
 [[MatrixShapePhaseTransition]]
 [[Network_Topology_Design]]
 [[Synaptic_Plasticity]]

@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[12_三原理协同_FEP_最小作用量_STDP]]
+[[4H_SiC_SubstrateProcessing]]
 [[AI_Faculty_Forum_2026]]
 [[Attention_Residuals]]
 [[AutonomousAdaptation]]
@@ -41,13 +42,13 @@ Auto-extracted concept from raw material compilation.
 [[SDI_TCC_Chiplet]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
+[[STDP_Plasticity]]
 [[ScalableNeuromorphicTopology]]
 [[SoftwareDefinedSystemOnWafer]]
 [[Software_Defined_Interconnect]]
 [[TCC]]
 [[ThirdWaveAI]]
 [[iNEST]]
-[[iNEST_Wafer]]
 [[涌现]]
 
 ## Sources

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
 [[Chiplet_Topology]]
+[[Chiplet_Topology_Interconnect]]
 [[Complex_Network_Topology]]
 [[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]

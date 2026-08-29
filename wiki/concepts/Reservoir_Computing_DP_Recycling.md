@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[P_Paradigm]]
 [[PhysicalReservoirDynamicsEncoding]]
+[[PhysicalReservoir]]
 [[RecursiveSelfReferentialArchitecture]]
 [[ReservoirDynamics]]
 [[Reservoir_Computing]]

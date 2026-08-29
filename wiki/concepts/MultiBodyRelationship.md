@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[3D_Heterogeneous_Integration]]
 [[AdiabaticMultimodeBend]]
 [[AndersonTransition]]
+[[Bipartite_Interconnect]]
 [[Bipartite_Interconnect_Fabric]]
 [[Complex_System_Theory]]
 [[ComputeRelocationOverhead]]

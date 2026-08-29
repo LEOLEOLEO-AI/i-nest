@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[FixedOverheadFloor]]
 [[In_Package_Neuromorphic_Integration]]
 [[Intelligence_Emergence]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[NeuromorphicStatusAwareness]]
 [[Neuromorphic_Computing]]

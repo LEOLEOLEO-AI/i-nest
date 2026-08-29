@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Packaging_CoDesign]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
+[[SDSoW_Industry_Alliance]]
 [[Wafer_Scale_Integration]]
 [[advanced packaging]]
 [[iNEST]]

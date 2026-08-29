@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Bosonic_SPT_Phases]]
 [[Branch_Prediction_Reservoir]]
 [[CSI_Temporal_Dynamics]]
+[[CouplingMatrixRecovery]]
 [[CrashHotspotForecasting]]
 [[Crystallized_Neural_Manifolds]]
 [[Dynamics_Matching]]

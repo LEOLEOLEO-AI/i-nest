@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[ErrorAmplificationLimits]]
 [[EventDrivenSynchronization]]
 [[FrequencyAdaptationMechanism]]
+[[GraphAnomalySpikeEncoding]]
 [[Heterogeneous_Integration]]
 [[LearningTransition]]
 [[SNN]]

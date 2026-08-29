@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[Complex_Network_Topology]]
 [[Complex_System_Theory]]
+[[DendriticReservoirState]]
 [[Dynamic_Expert_Fusion]]
 [[ERI_2_0_Strategic_Framework]]
 [[Emergent_Intelligence_Threshold]]

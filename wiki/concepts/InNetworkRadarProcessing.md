@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_Interconnect]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
+[[NeuroRing_Topology]]
 [[Neuromorphic_Computing]]
 [[SDSoW]]
 [[SDSoW_Architecture]]

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_STDP]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
+[[Neuromorphic_Computing]]
 [[Reservoir_Computing]]
 [[SDI_Bond]]
 [[SDI_STDP]]
@@ -45,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
+[[Yann LeCun：发现智能原理是AI的终极问题]]
 [[iNEST]]
 [[神经形态脉冲大语言模型（NSLLM）]]
 

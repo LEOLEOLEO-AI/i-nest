@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Cross_Node_Event_Propagation]]
 [[DataDrivenCellularAxis]]
 [[Distributed_Spike_Communication]]
+[[Environmental_Capability_Context]]
 [[Heterogeneous_Integration]]
 [[LossSpikePhenomenon]]
 [[Memristor_Synapse]]

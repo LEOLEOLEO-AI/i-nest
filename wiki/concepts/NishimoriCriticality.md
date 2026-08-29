@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[AvalancheBranchingRatio]]
 [[BranchingRatio]]
 [[Capability_Reserve_Index]]
+[[Cognitive_Relapse_Decoupling]]
 [[Criticality]]
 [[Network_Topology_Design]]
 [[Quantum_Criticality]]

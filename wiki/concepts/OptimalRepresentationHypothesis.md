@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Arm_Locomotor_Synergy]]
 [[CollectiveDynamics]]
 [[CorticalTravelingWave]]
+[[CorticalTravelingWaves]]
 [[CrossLayer_SignalRouting]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]

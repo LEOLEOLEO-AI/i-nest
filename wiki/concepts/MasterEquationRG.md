@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[DendriticReservoirState]]
 [[Epithelial_Barrier_Integrity]]
 [[Generalization_Bound_Spectra]]
+[[GradientFreeTraining]]
 [[Heterogeneous_Synaptic_Motifs]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

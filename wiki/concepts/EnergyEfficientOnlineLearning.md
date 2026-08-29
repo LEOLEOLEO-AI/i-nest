@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_EW_Neuromorphic_Controller]]
 [[AnytimePointCloudRecognition]]
 [[AsynchronousEventDrivenComputation]]
+[[Co_designed_Online_Continual_Learning]]
 [[Complex_System_Theory]]
 [[FlexibilityThreshold]]
 [[Neuromorphic_Computing]]
@@ -41,7 +42,9 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
+[[local plasticity rule]]
 [[local plasticity]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

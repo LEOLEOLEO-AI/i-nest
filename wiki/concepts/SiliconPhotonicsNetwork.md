@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[BifurcationCandidate]]
 [[CavityMethodAnalysis]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_NoC_Fabric]]
 [[Complex_System_Theory]]
 [[Computation_Access_Routing]]
 [[Deep_Thermalisation]]

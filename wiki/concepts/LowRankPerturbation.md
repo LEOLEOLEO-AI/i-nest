@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AddressRedundancyElimination]]
 [[Baseline_Change_Record]]
 [[BidirectionalRingTopology]]
+[[BioPlausiblePredictiveCoding]]
 [[BurstGatedRouting]]
 [[Contested_Priors_Mechanism]]
 [[Course_Based_FPGA_Prototyping]]

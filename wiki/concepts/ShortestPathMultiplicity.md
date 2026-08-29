@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[ComplexValuedSNN]]
 [[CulturalDisseminationDynamics]]
 [[DTGA]]
+[[Electronic_Warfare_Integration]]
 [[Interconnect_Routing]]
 [[Memristive_Topology]]
 [[MultiFPGAScaling]]

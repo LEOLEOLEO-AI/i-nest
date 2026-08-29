@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
 [[SDI_Topology]]
+[[STDP_Plasticity]]
 [[SoftwareDefinedSystemOnWafer]]
 [[Software_Defined_Interconnect]]
 [[SuperparamagneticSwitchingRate]]
@@ -52,7 +53,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]
-[[iNEST_Wafer]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
 

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[ChannelEventSparsity]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
+[[CrossLayer_SignalRouting]]
 [[DendriticReservoirState]]
 [[Environmental_Capability_Context]]
 [[ErrorSuppressedPipeline]]

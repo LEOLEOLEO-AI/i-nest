@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CorticalWaveRouting]]
 [[DelayCodedWorkingMemory]]
 [[EventDrivenLearning]]
+[[EventDrivenSignalEncoding]]
 [[Event_Driven_Architecture]]
 [[Interconnect_Routing]]
 [[LocalQuantumLearningRule]]

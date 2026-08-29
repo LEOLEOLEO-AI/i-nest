@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[ContinuousTraitAxelrodModel]]
 [[DendriticReservoirState]]
 [[Dynamic_Expert_Fusion]]
+[[EmergentTaskDecomposition]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]

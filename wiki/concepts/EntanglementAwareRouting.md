@@ -47,6 +47,8 @@ Auto-extracted concept from raw material compilation.
 [[Packaging_Aware_NoC_Design]]
 [[RecursiveSelfReferentialArchitecture]]
 [[RoutabilityDrivenFloorplanning]]
+[[SDI_Control_Plane_Offload]]
+[[STDP_Plasticity]]
 [[SuperparamagneticSwitchingRate]]
 [[Swarm_Coordination]]
 [[TCC]]

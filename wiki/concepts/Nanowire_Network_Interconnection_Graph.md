@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Differential_Encoding]]
 [[FemtosecondLaserMachining]]
 [[Intelligence_Emergence]]
+[[NanoparticleNetwork]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]

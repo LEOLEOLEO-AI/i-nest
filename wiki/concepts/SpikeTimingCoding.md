@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeBasedBeliefPropagation]]
 [[SpikeCodingForMotionFeatures]]
 [[SpikeEncoding]]
+[[SpikeTemporalCoding]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]

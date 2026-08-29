@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[Synaptic_Plasticity]]
+[[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
 [[神经网络]]

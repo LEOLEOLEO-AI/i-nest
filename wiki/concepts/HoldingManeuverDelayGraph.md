@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[ConstraintDrivenOptimization]]
 [[CubicLatticeInterconnect]]
+[[DestructiveInterferenceConfinement]]
 [[Emergent_Intelligence_Roadmap]]
 [[GradientBasedTopologyOptimization]]
 [[Intelligence_Emergence]]

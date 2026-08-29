@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[VaCoAl]]
 [[complex system]]
+[[忆阻器]]
 [[智能涌现]]
 [[涌现]]
 [[神经网络]]

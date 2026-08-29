@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Architecture]]
 [[Free_Energy_Principle_Network]]
 [[Hardware_Accelerated_SNN]]
+[[Intelligence_Emergence]]
 [[Master_SDDE]]
 [[Memristor_Network]]
 [[Memristor_Synapse]]

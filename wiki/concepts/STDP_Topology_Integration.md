@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[NetworkDynamicalStabilization]]
 [[Network_Topology_Design]]
 [[PhaseLockedTopologyMapping]]
+[[Quadratic_Integrate_and_Fire_Neuron]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]
 [[SDI_STDP]]

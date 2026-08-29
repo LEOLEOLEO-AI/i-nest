@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[ConstraintDrivenOptimization]]
 [[ControlDrivenCriticalFluctuations]]
 [[Critical_Region_Extension]]
+[[DelayTolerantNetworkUAV]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Synaptic_Plasticity]]

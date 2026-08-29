@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[NonequilibriumLangevinComputing]]
 [[Nonlinear_Gain]]
 [[Representation_Learning_Generalization]]
+[[ReservoirYieldMaximization]]
 [[ReservoirYield]]
 [[Reservoir_Computing]]
 [[RetinomorphicIontronicArray]]

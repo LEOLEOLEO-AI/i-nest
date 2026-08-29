@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[Order_Flexibility_Duality]]
 [[RTC_Primitive]]
 [[Reservoir_Computing]]
 [[SDI_Bond]]

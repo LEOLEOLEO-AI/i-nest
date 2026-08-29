@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_Synergy_Coordination]]
 [[CST_Triad_Integration]]
 [[CST_V42_SelfConsistency]]
+[[CST计量仪]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

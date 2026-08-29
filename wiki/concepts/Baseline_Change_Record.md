@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[GradientBasedLearningLocalization]]
 [[In_Network_Neuromorphic]]
 [[MarginalContributionFitness]]
+[[NeuromorphicAttentionScaling]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[Neuromorphic_Planning_Architecture]]

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[ConsciousnessEngineeringLoop]]
 [[DARPA_ProjectManager_Model]]
 [[ERI_2_0_Strategic_Framework]]
+[[FPGA_Neuromorphic_Architectures]]
 [[FastSlow_Dynamics]]
 [[Free_Energy_Principle_Network]]
 [[Habituation_Dynamics]]

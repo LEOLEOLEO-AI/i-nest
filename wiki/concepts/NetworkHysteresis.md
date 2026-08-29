@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Decoupled_Priors]]
 [[Die_to_Die_Protocol]]
 [[DirectConnect_Topology]]
+[[DualSided_3D_Integration]]
 [[Dynamic_Expert_Fusion]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[FlagOS_2_0]]
 [[Free_Energy_Principle_Network]]
 [[FullyLocalOnlineSNNTraining]]
+[[GradientBasedSpikeLearning]]
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]
 [[Local_Approximation_Dynamics]]

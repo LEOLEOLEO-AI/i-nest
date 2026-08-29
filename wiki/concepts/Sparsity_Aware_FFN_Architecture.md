@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Obsidian_Plugin_Architecture]]
+[[SDI_TCC_iNEST_Bridge]]
 [[TCC]]
 [[iNEST]]
 [[涌现]]

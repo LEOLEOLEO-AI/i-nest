@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[EfficientDeepLearning]]
 [[EmergentIntelligence_Spacetime]]
 [[Emergent_Intelligence_Threshold]]
+[[Heterogeneous_Inference_Division]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[MetaFAIR_ArchitectureDiscovery]]
@@ -53,7 +54,6 @@ Auto-extracted concept from raw material compilation.
 [[Textbook_Paradigm_Definition]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]
-[[iNEST_Topology]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

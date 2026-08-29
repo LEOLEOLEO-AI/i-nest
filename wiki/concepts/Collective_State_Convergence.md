@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[BitPrecisionAwareScheduling]]
 [[CognitiveSupportTopology]]
+[[CollectiveConsensus]]
 [[CollectiveDynamics]]
 [[Complex_System_Theory]]
 [[Constructed_Reality_Interconnect]]

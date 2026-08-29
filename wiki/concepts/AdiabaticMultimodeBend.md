@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[ChipletWaferInterconnectScaling]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
+[[Chiplet_Packaging]]
 [[Complex_System_Theory]]
 [[ComputeRelocationOverhead]]
 [[Free_Energy_Principle_Network]]

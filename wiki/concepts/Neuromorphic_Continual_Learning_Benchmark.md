@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[BiologicalNoiseMimicry]]
 [[Closed_Loop_SNN_Stability_Boundary]]
 [[CombinedImportanceScoring]]
+[[CompartmentalNeuronModel]]
 [[CrashHotspotForecasting]]
 [[DivergentHigherAreaRanking]]
 [[HardwareAware_DesignSpace]]

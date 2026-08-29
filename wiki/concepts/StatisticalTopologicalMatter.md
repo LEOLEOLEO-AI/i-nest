@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[iNEST]]
 [[涌现]]
 
 ## Sources

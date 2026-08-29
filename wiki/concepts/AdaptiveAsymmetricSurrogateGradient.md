@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[HighTemporalResolutionSensing]]
 [[Intelligence_Emergence]]
 [[LocalPlasticityPipeline]]
 [[NeuralNetworkSpectralAnalysis]]

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN_SNN_WeightSpaceGap]]
 [[ActivityAvalanche]]
 [[BioPlausiblePredictiveCoding]]
+[[BurstGatedRouting]]
 [[CSI_Temporal_Encoding]]
 [[ContinuousControlConversion]]
 [[ContinuousTimeSNN]]

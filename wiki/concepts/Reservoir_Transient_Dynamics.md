@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
+[[Course_Based_FPGA_Projects]]
 [[Reservoir_Computing]]
 [[iNEST]]
 

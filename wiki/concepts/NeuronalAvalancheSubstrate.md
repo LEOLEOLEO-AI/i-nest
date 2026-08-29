@@ -33,6 +33,8 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Criticality]]
 [[DataCenter_Chip_Logic_Compression]]
+[[DimensionReductionForSimplicialDynamics]]
+[[Intelligence_Emergence]]
 [[Less is more，大脑“低能耗”并“高效响应”的秘诀：模块化]]
 [[Network_Topology_Design]]
 [[NeuronalAvalanche]]
@@ -42,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[TCC]]
 [[criticality]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

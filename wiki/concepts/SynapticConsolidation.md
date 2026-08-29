@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[Neuromorphic_Selective_State_Space]]
 [[NoiseModulated_SynapticPlasticity]]
+[[Spike_Event_Driven_Attention]]
 [[Spiking_Mixture_of_Experts]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

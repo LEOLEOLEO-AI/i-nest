@@ -22,7 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[3D_Integrated_Chiplet_Stacking]]
 [[ActiveDendriteSNN]]
-[[ActiveInferenceEdgeLoop]]
+[[ActiveInference]]
 [[BigBrainCellularAxis]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Delay_Aware_Autograd_Spiking_Framework]]
 [[Distributed_Spike_Communication]]
 [[DualDrivenHybridNetwork]]
+[[ErrorAmplificationLimits]]
 [[Free_Energy_Principle_Network]]
 [[FullyLocalOnlineSNNTraining]]
 [[HeterogeneousSynapticDelays]]

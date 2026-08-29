@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[MasterEquationRG]]
 [[MeanFieldSpinGlass]]
 [[Memory_Technology_Coexistence]]
+[[NCL神经计算定律详解]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[ReproducibleReservoirDynamics]]

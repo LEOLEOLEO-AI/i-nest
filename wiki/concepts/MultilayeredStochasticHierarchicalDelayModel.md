@@ -36,6 +36,8 @@ Auto-extracted concept from raw material compilation.
 [[CollectiveDynamics]]
 [[Complex_System_Theory]]
 [[Complexity_Emergent_Intelligence]]
+[[Entanglement_Teleportation_Locality]]
+[[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[TCC]]

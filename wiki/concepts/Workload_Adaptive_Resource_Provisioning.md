@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Stacking]]
 [[CoPackagedOptics]]
 [[Complex_System_Theory]]
+[[FreeToken_Offloading]]
 [[Heterogeneous_Integration]]
 [[Inference_Workload_Profiling]]
 [[Intelligence_Emergence]]

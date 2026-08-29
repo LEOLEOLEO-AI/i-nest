@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Continual_Learning_Modularity]]
 [[CriticalBranching]]
 [[CriticalStateInformationMaximization]]
+[[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

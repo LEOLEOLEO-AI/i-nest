@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[BrainBodyResonance]]
 [[CascadedAdaptiveCombiners]]
 [[Complex_System_Theory]]
+[[EmulationTheoryObserver]]
 [[Free_Energy_Principle_Network]]
 [[Intelligence_Emergence]]
 [[Memristive_STDP]]

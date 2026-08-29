@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Neural_Field_World_Model]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Routing_Color_Bits]]
+[[SpectralGapMoE]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]

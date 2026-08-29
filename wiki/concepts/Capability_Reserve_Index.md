@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[SelfOrganisingDigitalCircuit]]
 [[SelfOrganization]]
 [[Self_Organized_Criticality]]
+[[SequentialMultiObjectiveTopologyPlanning]]
 [[SuperparamagneticSwitchingRate]]
 [[Swarm_Coordination]]
 [[TCC]]

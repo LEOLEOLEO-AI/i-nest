@@ -24,6 +24,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 
 [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[ANN动力学]]
+[[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
 [[EmergentOrder]]
@@ -62,7 +63,6 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[涌现]]
 [[神经形态脉冲大语言模型（NSLLM）]]
 [[神经形态计算]]
-[[神经形态计算突破：脉冲神经网络实现机器人超低功耗定位新范式]]
 [[神经网络]]
 [[类脑芯片]]
 [[脉冲神经网络]]

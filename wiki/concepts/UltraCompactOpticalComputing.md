@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[EndToEndLinkSimulation]]
 [[EulaminateOverrepresentation]]
 [[Flow_Aware_Interconnect_Design]]
+[[GraphBasedSemanticRouting]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

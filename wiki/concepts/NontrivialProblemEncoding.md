@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[CST计量仪]]
 [[Complex_System_Theory]]
 [[DataCenter_Chip_Logic_Compression]]
+[[FastSlow_Dynamics]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]

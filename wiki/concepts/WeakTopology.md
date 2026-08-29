@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
+[[NoC_Interconnect]]
 [[NoC_SDI]]
 [[SDI_Bond]]
 [[SDI_NPU_NoC_Integration]]

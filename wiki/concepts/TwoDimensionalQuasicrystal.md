@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[ActivityAvalanche]]
 [[AdaptiveArchitecture]]
 [[AdjointWaveControl]]
+[[ArtificialProprioception]]
 [[Complex_System_Theory]]
 [[Critical_Region_Extension]]
 [[FrozenRateOperator]]

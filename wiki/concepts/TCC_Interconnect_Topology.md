@@ -38,13 +38,13 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_Wafer_Stack]]
 [[NoC_Chiplet_iNEST_Wafer]]
 [[P_Paradigm]]
+[[Packaging_CoDesign]]
 [[Second_Curve_Wafer_Industry_Platform]]
 [[TCC]]
 [[TopologyCentricPrimitiveSystem]]
 [[Wafer_Scale_Integration]]
 [[chiplet interconnect]]
 [[iNEST]]
-[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

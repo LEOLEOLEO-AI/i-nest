@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[Cognitive_Relapse_Decoupling]]
 [[CollectiveStateTopology]]
+[[CommunicationAwareComputeRelocation]]
 [[Network_Topology_Design]]
 [[TCC]]
 

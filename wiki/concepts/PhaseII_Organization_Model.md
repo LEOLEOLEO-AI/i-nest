@@ -38,9 +38,10 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_iNEST_Wafer]]
 [[NoC_TopologyMapping]]
 [[Packaging_CoDesign]]
+[[SDI_Bond]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
-[[iNEST_Wafer]]
+[[iNEST]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

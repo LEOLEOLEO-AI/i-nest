@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[LEO_Satellite_Routing_RL]]
 [[MoE_Routing]]
 [[Network_Topology_Design]]
+[[SpectralGapMoE]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[涌现]]

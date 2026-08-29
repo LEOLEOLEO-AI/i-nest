@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI节点接口规范与化合键定义]]
 [[Simulation_Handoff_Recommendation]]
 [[Synaptic_Plasticity]]
+[[TCC]]
 [[complex system]]
 [[神经网络]]
 

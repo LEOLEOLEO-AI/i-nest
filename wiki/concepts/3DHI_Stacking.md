@@ -47,6 +47,8 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]
 [[SDI_NoC_Integration]]
+[[STDP_Plasticity]]
+[[Spaceborne_Computing_Architecture]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[WideLink_NoC_Router]]

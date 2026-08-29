@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[Complex_System_Theory]]
 [[Controlled_Release_Kinetics]]
+[[Cytokine_Feedback_Loops]]
 [[DelayCodedWorkingMemory]]
 [[EventDrivenFunctionalConnectivity]]
 [[EventDrivenSpectralProcessing]]
@@ -47,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

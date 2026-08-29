@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CascadedAdaptiveCombiners]]
 [[EvolvingArchitectureDynamics]]
 [[Habituation_Dynamics]]
+[[HighThroughputPhenotyping]]
 [[HybridCouplingThermosensitiveNetwork]]
 [[InterDomain_Synergy]]
 [[Neuromorphic_Computing]]

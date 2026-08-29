@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_NoC_Fabric]]
 [[Chiplet_Stacking]]
 [[Complex_System_Theory]]
+[[HeterogeneousInference]]
 [[Heterogeneous_Inference_Offload]]
 [[Heterogeneous_Integration]]
 [[Inference_Stage_Decomposition]]
@@ -43,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Photonic_Chiplet_Interconnect]]
 [[SDI_Bond]]
 [[SDI_Topology]]
+[[STDP_Plasticity]]
 [[TCC]]
 [[涌现]]
 

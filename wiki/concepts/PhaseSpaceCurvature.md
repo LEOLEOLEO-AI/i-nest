@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[CrossLayer_SignalRouting]]
 [[EvolvingArchitectureDynamics]]
+[[FloquetTopologicalOrder]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[HighThroughputParticleRouting]]
 [[HigherOrderSimplicialDynamics]]

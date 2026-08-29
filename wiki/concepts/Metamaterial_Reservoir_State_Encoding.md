@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Course_Based_FPGA_Projects]]
 [[Critical_Exponent_Scaling]]
 [[CrossbarArrayIntegration]]
+[[Decoupling_Mechanism]]
 [[Heterogeneous_Integration]]
 [[Reservoir_Computing]]
 [[Reservoir_State_Encoding]]

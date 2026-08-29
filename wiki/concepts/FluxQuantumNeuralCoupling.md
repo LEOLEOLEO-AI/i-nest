@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspiredLearningRule]]
 [[BurstTemporalPlasticity]]
 [[Complex_System_Theory]]
+[[DrivenDissipativeDynamics]]
 [[EventDrivenSynchronization]]
 [[EventDrivenWeightUpdate]]
 [[Network_Topology_Design]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[iNEST]]
 [[soc]]
+[[神经网络]]
 [[类脑芯片]]
 
 ## Sources

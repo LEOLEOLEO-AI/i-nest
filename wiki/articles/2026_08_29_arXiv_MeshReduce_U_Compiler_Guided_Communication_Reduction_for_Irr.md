@@ -12,3 +12,11 @@ NoC, TCC, iNEST
 
 ---
 *Auto-compiled by wiki_compiler.py*
+
+
+## Related Concepts
+
+[[Network_on_Chip]]
+[[TCC]]
+[[iNEST]]
+[[tcc]]

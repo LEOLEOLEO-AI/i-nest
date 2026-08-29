@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[RedundancyControlledStochasticRouting]]
 [[STDP_Plasticity]]
+[[StochasticVehicleRouting]]
 [[Synaptic_Plasticity]]
 [[涌现]]
 

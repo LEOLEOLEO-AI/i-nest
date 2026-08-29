@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[DendriticReservoirState]]
 [[DifferentiableLifting]]
 [[EcosystemTopologyCoupling]]
+[[Epidemic_Mitigation_Strategy]]
 [[FlexibilityThreshold]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]

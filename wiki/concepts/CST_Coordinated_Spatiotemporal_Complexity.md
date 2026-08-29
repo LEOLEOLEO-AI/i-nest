@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Entanglement_Teleportation_Locality]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
+[[SelfOrganizedLearning]]
 [[TCC]]
 [[TemporalComplexity]]
 [[analog computation]]

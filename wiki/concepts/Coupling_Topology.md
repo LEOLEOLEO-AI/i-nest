@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[ReproducibleReservoirDynamics]]
+[[ReservoirYieldMaximization]]
 [[ReservoirYield]]
 [[Reservoir_Computing]]
 [[TCC]]

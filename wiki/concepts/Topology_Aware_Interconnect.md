@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AdsorptionBiosorptionHybrid]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[BisectionBandwidthBound]]
 [[CLINKAsCarrierPrimitive]]
 [[ChipletWaferInterconnectScaling]]
 [[Chiplet_Heterogeneous_Integration]]

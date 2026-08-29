@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveMatterSubstrate]]
 [[Advanced_Computing_Project]]
 [[Agent_Workflow_Automation]]
+[[Alpha_Coefficient_Phase_Transition_Amplification]]
 [[Complex_System_Theory]]
 [[EGO architecture]]
 [[Intelligence_Emergence]]

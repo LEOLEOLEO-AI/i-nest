@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Hardware_Accelerated_SNN]]
 [[InNetworkNeuromorphicEmergence]]
 [[In_Network_Neuromorphic]]
+[[In_Network_Neuromorphic_Processing]]
 [[Intelligence_Emergence]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[MultiScaleTemporalProcessing]]

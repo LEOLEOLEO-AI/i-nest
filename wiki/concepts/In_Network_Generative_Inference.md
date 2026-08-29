@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AIRA_NeuralArchSearch]]
 [[AI_Faculty_Forum_2026]]
 [[Chiplet_Based_Neuromorphic_Integration]]
+[[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
 [[ConductingPolymerDendriteMemory]]
 [[Distributed_Spike_Communication]]
@@ -39,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
@@ -48,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[WirelessSplitComputing]]
 [[iNEST]]
 [[忆阻器]]
+[[神经形态计算]]
 [[类脑芯片]]
 
 ## Sources

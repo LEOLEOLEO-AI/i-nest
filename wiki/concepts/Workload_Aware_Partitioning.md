@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveGraphDiffusion]]
 [[Adaptive_Service_Orchestration]]
 [[AdiabaticMultimodeBend]]
+[[AdvancedPackagingInterconnect]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
 [[CoPackagedOptics]]

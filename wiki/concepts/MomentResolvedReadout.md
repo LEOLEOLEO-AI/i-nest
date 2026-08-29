@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[EntropyProductionRate]]
 [[Epithelial_Barrier_Integrity]]
+[[Ethical_AI_Constraints]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Neuromorphic_Chiplet]]

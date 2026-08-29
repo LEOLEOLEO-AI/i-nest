@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
+[[TopologyAwareMapping]]
 [[complex system]]
 [[iNEST]]
 [[topology as logic]]

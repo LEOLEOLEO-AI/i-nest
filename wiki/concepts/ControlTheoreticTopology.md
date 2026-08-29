@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossbarFabricTopology]]
 [[ElectricFieldModulatedCoupling]]
 [[EvolvingArchitectureDynamics]]
+[[FPGA_Reconfigurability]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Synaptic_Plasticity]]

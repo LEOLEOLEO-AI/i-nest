@@ -42,10 +42,12 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC_Chiplet_iNEST_Wafer]]
+[[OptomechanicalNonlinearity]]
 [[Photonic_Chiplet_Interconnect]]
 [[RTC_Primitive]]
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
+[[STDP_Plasticity]]
 [[ScaleFreeNetwork]]
 [[SmallWorldNetworks]]
 [[SuperparamagneticSwitchingRate]]
@@ -54,7 +56,6 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[iNEST]]
 [[iNEST_Interconnect_Topology]]
-[[iNEST_Wafer]]
 [[涌现]]
 
 ## Sources

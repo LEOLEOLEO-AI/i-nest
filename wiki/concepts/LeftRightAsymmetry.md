@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[MacroCriticalityEmergence]]
 [[Memristor_Network]]
 [[Memristor_Synapse]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[National_Innovation_Center_Role]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]

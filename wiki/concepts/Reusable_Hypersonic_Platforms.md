@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Cognitive_Relapse_Decoupling]]
 [[Complex_System_Theory]]
+[[Critical_Region_Extension]]
 [[Dimensionality_Modularity_Tradeoff]]
 [[DynamicCentralitySteering]]
 [[Dynamic_Expert_Fusion]]

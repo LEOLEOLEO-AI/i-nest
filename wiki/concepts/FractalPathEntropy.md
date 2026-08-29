@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[DendriticReservoirState]]
 [[DivergentHigherAreaRanking]]
 [[EdgeIoTEnergyAwareness]]
+[[Edge_Intelligence]]
 [[EmergentOrder]]
 [[Emergent_Reservoir_Topology]]
 [[FlexibilityThreshold]]

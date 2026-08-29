@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AdjointWaveControl]]
 [[AdsorptionBiosorptionHybrid]]
 [[AgenticServiceTopology]]
+[[Agile_Resilient_Defense_Ecosystem]]
 [[AndersonTransition]]
 [[BarrierConditionedTrajectory]]
 [[BurstGatedRouting]]

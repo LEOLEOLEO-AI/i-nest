@@ -56,6 +56,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[TopologyFragility]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]

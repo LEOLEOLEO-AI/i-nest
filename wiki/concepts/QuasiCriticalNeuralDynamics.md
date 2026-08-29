@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[EnergyProportionalityCeiling]]
 [[EventDrivenMotionDeblurring]]
 [[GPU_Cluster_SNN_Architecture]]
+[[GradientBasedLearningLocalization]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Self_Organized_Criticality]]

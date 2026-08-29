@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Architecture]]
 [[ShortTermMemory]]
 [[Swarm_Coordination]]
+[[Syncytial_Information_Integration]]
 [[TwoTimescaleNeuroEvolution]]
 [[complex system]]
 [[iNEST]]

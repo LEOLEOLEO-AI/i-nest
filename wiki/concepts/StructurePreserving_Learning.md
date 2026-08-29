@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[BackpropagationFreeLearning]]
 [[Baseline_Draft_Status]]
+[[BiologicalParadigmValidation]]
 [[Bipartite_Interconnect]]
 [[CellEmergence]]
 [[Closed_Loop_Neuromodulation]]

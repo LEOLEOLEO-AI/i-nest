@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_Network_Topology]]
 [[Complex_System_Theory]]
 [[Contested_Prior_Resolution]]
+[[DendriticReservoirState]]
 [[Emergent_Abilities]]
 [[Epithelial_Barrier_Integrity]]
 [[FermiSurfaceChiralityProjection]]

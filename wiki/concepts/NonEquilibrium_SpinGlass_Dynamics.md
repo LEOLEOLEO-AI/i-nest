@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
+[[OptimalGeneralisationCurve]]
 [[Reservoir_Computing]]
 [[Synaptic_Plasticity]]
 [[TCC]]

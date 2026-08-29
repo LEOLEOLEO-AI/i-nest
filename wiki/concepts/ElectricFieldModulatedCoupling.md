@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Critical_Region_Extension]]
 [[EvolvingArchitectureDynamics]]
 [[FPGA_Reconfigurability]]
+[[GenerativeTopologyModels]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Synaptic_Plasticity]]

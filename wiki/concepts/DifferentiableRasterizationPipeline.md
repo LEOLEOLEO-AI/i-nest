@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Continual_Learning_Modularity]]
 [[ContinuousGameOfLife]]
 [[CrossDomain_Abstraction]]
+[[CrossDomain_Synthesis]]
 [[DARPA_Technology_Incubation]]
 [[Defense_Industrial_Base_Reshaping]]
 [[Dynamic_Expert_Fusion]]

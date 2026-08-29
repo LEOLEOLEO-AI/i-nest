@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_Theory_V27_FINAL]]
 [[Catastrophic_Forgetting_Mitigation]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Complex_System_Theory]]
 [[Contested_Priors_Architecture]]
 [[Criticality]]
 [[Dynamic_Expert_Fusion]]

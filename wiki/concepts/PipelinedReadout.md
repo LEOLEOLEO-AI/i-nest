@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Local_Approximation_Dynamics]]
 [[LossSpikePhenomenon]]
+[[NeuromorphicRoutingOptimization]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[SNN]]

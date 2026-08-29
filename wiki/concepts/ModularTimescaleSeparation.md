@@ -31,11 +31,14 @@ Auto-extracted concept from raw material compilation.
 [[AlternativeBridgingModels]]
 [[CrashHotspotForecasting]]
 [[DivergentHigherAreaRanking]]
+[[ErrorSuppressedPipeline]]
 [[HardwareAware_DesignSpace]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[ReservoirDiversity]]
 [[Reservoir_Computing]]
+[[SNN]]
+[[Spiking_Neural_Network]]
 [[iNEST]]
 
 ## Sources

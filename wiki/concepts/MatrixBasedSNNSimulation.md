@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Avoided_Criticality]]
 [[BulletTrainScheduling]]
 [[CoDesigned_SNN]]
+[[CoDesigned_SNN_Online_Learning]]
 [[Course_Based_FPGA_Prototyping]]
 [[Criticality]]
 [[CrossEntityPreemptiveWarning]]

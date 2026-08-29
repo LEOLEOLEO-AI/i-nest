@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[Synaptic_Plasticity]]
+[[TCC]]
 [[complex system]]
 [[iNEST]]
 [[涌现]]

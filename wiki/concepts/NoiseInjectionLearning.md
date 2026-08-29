@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Oscillatory_MultiObjective_Optimization]]
 [[QuantumStateSynapticTrace]]
+[[StochasticVehicleRouting]]
 [[TCC]]
 [[iNEST]]
 [[neuromorphic substrate]]

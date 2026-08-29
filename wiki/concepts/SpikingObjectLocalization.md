@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Loihi2_SpikeEncoding]]
+[[MeanFieldSpikeRateApproximation]]
 [[Memristive_STDP]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]

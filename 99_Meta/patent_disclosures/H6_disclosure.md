@@ -1,7 +1,7 @@
 ---
 title: "专利披露·H6"
 hypothesis: "H6"
-date: 2026-08-29
+date: 2026-08-30
 patentability: HIGH
 categories: ["hardware"]
 type: patent-disclosure
@@ -45,5 +45,5 @@ TCC×iNEST: Chiplet异构集成CMOS+忆阻器crossbar可实现存算一体神经
 - [ ] 与相关论文发表策略协调（先申专再发论文）
 
 ---
-*由 patent_scout.py 于 2026-08-29T18:05:15.362991 自动生成*
+*由 patent_scout.py 于 2026-08-30T03:19:04.746674 自动生成*
 *来源假设: H6 | 来源桥接: Chiplet_Heterogeneous_Neuromorphic*

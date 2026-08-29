@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[InNetworkReconfiguration]]
 [[Interconnect_Routing]]
+[[JointFlightRoutingOptimization]]
 [[Network_Topology_Design]]
 [[PhaseAwareBisectionDemand]]
 [[SelfOrganization]]

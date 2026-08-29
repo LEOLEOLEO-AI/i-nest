@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[CommunicationAwareComputeRelocation]]
 [[Computation_Access_Routing]]
 [[Compute_Communication_Topology_Matching]]
+[[Criticality_Based_Feature_Extraction]]
 [[DistinguishableHelium4]]
 [[EdgeIoTEnergyAwareness]]
 [[ExtrinsicAnomalousHallConductivity]]

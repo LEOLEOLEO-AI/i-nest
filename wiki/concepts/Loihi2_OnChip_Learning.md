@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[InNetworkAgentRewiring]]
 [[InNetworkNeuromorphicEmergence]]
+[[In_Network_Neuromorphic_Processing]]
 [[Intelligence_Emergence]]
 [[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]
 [[Network_Topology_Design]]

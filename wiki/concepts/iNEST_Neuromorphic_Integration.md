@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_computing]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[Nonlinear_Gain]]
+[[Order_Flexibility_Duality]]
 [[RenormalizationGroup_ScalingLaws]]
 [[Renormalization_Group_Convergence]]
 [[SDI_Bond]]

@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Synaptic_Motifs]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
+[[JunctionCenteredFramework]]
 [[NCL神经计算定律详解]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]

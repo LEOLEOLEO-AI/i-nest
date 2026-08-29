@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[CirculateFiringNeuron]]
 [[Continuous_Spatiotemporal_State_Propagation]]
+[[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]

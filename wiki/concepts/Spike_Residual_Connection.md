@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeEncoding]]
 [[SpikeInformationDensity]]
 [[Spike_Encoding_of_fMRI]]
+[[SpikingMot]]
 [[SpikingMotorControl]]
 [[SpikingTopologyEvolution]]
 [[Spiking_Neural_Network]]

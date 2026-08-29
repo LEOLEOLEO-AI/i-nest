@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Decoupled_Priors]]
 [[EndToEndTopologyLearning]]
+[[GraphBasedSemanticRouting]]
 [[Independent_AI_Player_Endgame]]
 [[Intelligence_Emergence]]
 [[MagicStateProtocolAwareCompilation]]

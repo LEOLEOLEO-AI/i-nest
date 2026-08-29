@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Neuromorphic_Architectures]]
 [[Free_Energy_Topology_Mapping]]
 [[FunctionalInterfaceBlock]]
+[[FunctionalInterfaceBlocks]]
 [[Intelligence_Emergence]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]

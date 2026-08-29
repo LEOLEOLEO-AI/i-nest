@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuromorphicGradientPropagation]]
 [[Neuromorphic_Computing]]
+[[RecurrentOscillatoryComputation]]
 [[Spiking_Neural_Network]]
 [[analog computation]]
 [[branch prediction]]

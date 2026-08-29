@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[InterChipletPHYModeling]]
 [[Interconnect_Routing]]
 [[MemoryDrivenRouting]]
+[[NearSensorComputing]]
 [[Network_Topology_Design]]
 [[PhononicBandgapEngineering]]
 [[Photonic_Chiplet_Interconnect]]

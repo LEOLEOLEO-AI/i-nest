@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_NoC_Fabric]]
 [[Chiplet_NoC_Interconnect]]
+[[Chiplet_Stacking]]
 [[Complex_System_Theory]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
@@ -40,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[NoC_Interconnect]]
 [[Post_Moore_Paradigm]]
+[[STDP_Plasticity]]
 [[TCC]]
 [[涌现]]
 

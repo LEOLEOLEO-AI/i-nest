@@ -36,9 +36,11 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[Nonlinear_Gain]]
 [[Order_Flexibility_Duality]]
+[[SNN]]
 [[ST_SNN]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
+[[iNEST_Neuromorphic_Integration]]
 [[memristor device]]
 
 ## Sources

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[CouplingTopologyInducedDynamics]]
 [[CriticalFixedPoint]]
 [[Criticality]]
+[[Criticality_of_Natural_Languages]]
 [[Heterogeneous_Compute_Graph]]
 [[HierarchicalReservoirDynamics]]
 [[KV_Cache_To_BoundaryObject]]

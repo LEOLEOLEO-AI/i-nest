@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[BackpropagationFreeLearning]]
 [[Beyond_Moore_Pathway]]
+[[ChipletTrafficAwareScheduling]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
 [[Heterogeneous_Integration]]

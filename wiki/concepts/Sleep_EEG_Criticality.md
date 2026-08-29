@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AstrocyteInspiredRepair]]
 [[Avoided_Criticality]]
 [[Contested_Prior_Resolution]]
+[[Contested_Priors_Mechanism]]
 [[Criticality]]
 [[DynamicalSelfDualCriticality]]
 [[EEG_Criticality]]

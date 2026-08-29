@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AdiabaticMultimodeBend]]
 [[AdsorptionBiosorptionHybrid]]
+[[Bipartite_Interconnect_Design]]
 [[ChipletWaferInterconnectCoDesign]]
 [[ChipletWaferInterconnectScaling]]
 [[Chiplet_Heterogeneous_Integration]]

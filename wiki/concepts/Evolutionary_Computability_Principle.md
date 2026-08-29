@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[AI人工智能 卷积神经网络（CNN）_w3cschool]]
 [[ANN动力学]]
 [[Anisotropic_Square_Lattice]]
+[[ArbitraryWavefunctionConfigurability]]
 [[Complex_System_Theory]]
 [[Evolutionary_Computability]]
 [[Intelligence_Emergence]]

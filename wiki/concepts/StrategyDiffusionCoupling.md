@@ -45,10 +45,12 @@ Auto-extracted concept from raw material compilation.
 [[SpikeEncoding]]
 [[SpikerLL_Accelerator]]
 [[Spiking_Neural_Network]]
+[[SupervisedTrainingDegradation]]
 [[Synaptic_Plasticity]]
 [[Syncytial_Mesh]]
 [[iNEST]]
 [[neuromorphic substrate]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

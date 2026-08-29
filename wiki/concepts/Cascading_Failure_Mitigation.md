@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[QuarantineCostTradeoff]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
+[[SpikeCommunicationCost]]
 [[SpikeEventTopology]]
 [[Spiking_Neural_Network]]
 [[SuperparamagneticSwitchingRate]]

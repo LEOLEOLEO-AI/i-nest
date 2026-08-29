@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[FeFET_Polarization_Switching]]
+[[GeTeBasedCBRAM]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]
 [[Memristor_Synapse]]

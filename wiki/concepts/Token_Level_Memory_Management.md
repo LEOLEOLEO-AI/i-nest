@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[FerroelectricMemoryCell]]
 [[Ferroelectric_Devices]]
 [[HierarchicalAttention_MIL]]
+[[InterconnectConstrainedEmergence]]
 [[Network_Topology_Design]]
 [[analog computation]]
 [[iNEST]]

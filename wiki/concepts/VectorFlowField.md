@@ -47,6 +47,8 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Control_Plane_Offload]]
 [[SDI_NPU_NoC_Integration]]
 [[SDI_Stream_Aware_NoC_Routing]]
+[[SDI_TopologicalControl]]
+[[STDP_Plasticity]]
 [[SuperparamagneticSwitchingRate]]
 [[Swarm_Coordination]]
 [[TCC]]

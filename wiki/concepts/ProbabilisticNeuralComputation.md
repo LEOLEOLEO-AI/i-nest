@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[DelayTolerantNetworkUAV]]
 [[Distributed_Intelligent_Manufacturing]]
 [[EndToEndTopologicalLearning]]
+[[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Compute]]
 [[Intelligence_Emergence]]
 [[Intelligent_Power_Management]]

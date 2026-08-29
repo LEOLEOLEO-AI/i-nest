@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[AlloyDisorderEngineering]]
 [[BurstGatedRouting]]
+[[CriticalityDrivenTopology]]
 [[Criticality]]
 [[EventDrivenAsynchronousRouting]]
 [[FPGA_NeuromorphicMapping]]

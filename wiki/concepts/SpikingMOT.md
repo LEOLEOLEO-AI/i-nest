@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Avoided_Criticality]]
 [[BulletTrainScheduling]]
 [[CirculateFiringNeuron]]
+[[ConverterDrivenStability]]
 [[Criticality]]
 [[DiscreteContinuous_Unification]]
 [[Emergent_Intelligence_Threshold]]

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[LargeScalePhotonicIntegration]]
 [[MicroRouter_Embedding]]
 [[Network_Topology_Design]]
+[[NoC_Chiplet_iNEST_Wafer]]
 [[Switchless_Computing]]
 [[TCC]]
 [[ThreeLayerArchitecture]]

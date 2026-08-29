@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[ActivityAvalanche]]
 [[AdaptiveArchitecture]]
 [[AdaptiveAsymmetricSurrogateGradient]]
+[[AdaptiveAsymmetricSurrogateGradients]]
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[Adaptive_Replication_Strategy]]
 [[AgenticServiceOrchestration]]

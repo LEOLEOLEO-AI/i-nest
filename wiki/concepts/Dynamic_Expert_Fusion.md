@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence_Threshold]]
 [[FreeEnergyPrinciple]]
+[[Hypersonic_Systems_Research]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

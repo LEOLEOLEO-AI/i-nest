@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_computing]]
 [[QuantumChaos]]
 [[Reservoir_Computing]]
+[[SDDE_Attractor_Emergence]]
 [[SNN]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]

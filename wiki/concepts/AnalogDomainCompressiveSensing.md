@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[DifferentiableRasterizationPipeline]]
 [[ErrorSuppressedPipeline]]
 [[MetaFAIR_ArchitectureDiscovery]]
+[[NonlinearConnectomeScaling]]
 [[Nonlinear_Gain]]
 [[ParallelSNNArchitecture]]
 [[PhysicalSubstrateReservoir]]

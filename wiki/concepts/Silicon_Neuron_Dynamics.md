@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI节点接口规范与化合键定义]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
+[[SelfMotivatedGrowth]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[Wafer_Scale_Integration]]

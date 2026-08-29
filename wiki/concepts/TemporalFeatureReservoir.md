@@ -30,12 +30,15 @@ Auto-extracted concept from raw material compilation.
 [[AdjustableDynamicsReservoir]]
 [[AdjustableDynamics]]
 [[AdversarialResilience]]
+[[AlternativeBridgingModels]]
 [[CrashHotspotForecasting]]
 [[Crystallized_Neural_Manifolds]]
 [[DivergentHigherAreaRanking]]
 [[Evolutionary_Reservoir_Adaptation]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
+[[SNN]]
+[[Spiking_Neural_Network]]
 [[iNEST]]
 
 ## Sources

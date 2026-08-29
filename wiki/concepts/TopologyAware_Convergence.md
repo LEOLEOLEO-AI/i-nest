@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[ConductingPolymerDendriteMemory]]
 [[FixedOverheadFloor]]
 [[Heterogeneous_Integration]]
+[[InInterconnectMemory]]
 [[Intelligence_Emergence]]
 [[IsolatedKVBandwidth]]
 [[Memory_Wall]]

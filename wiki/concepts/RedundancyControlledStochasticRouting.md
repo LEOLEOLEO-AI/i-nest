@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Decoupled_Priors]]
 [[DelayTolerantNetworkUAV]]
 [[Dynamic_Expert_Fusion]]
+[[EvolvingArchitectureDynamics]]
 [[Intelligence_Emergence]]
 [[Intelligent_Power_Management]]
 [[Interconnect_Routing]]

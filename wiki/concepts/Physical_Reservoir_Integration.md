@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AmorphousSolidPlasticity]]
 [[Biomanufacturing_Control_Loop]]
 [[CouplingMatrixRecovery]]
+[[Coupling_Strength_Encoding]]
 [[Course_Based_FPGA_Projects]]
 [[DARPA_Manufacturing_Strategy]]
 [[DARPA_ProjectManager_Model]]

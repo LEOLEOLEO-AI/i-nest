@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
 [[11_SDI节点接口规范与化合键定义_dup]]
+[[AI-ML — 全景导航 (Map of Content)]]
 [[BrainBodyResonance]]
 [[Brain_Connectome]]
 [[CST计量仪]]
@@ -58,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[夏强飞一天2篇Nature大子刊：感存算一体，忆阻器阵列模拟计算]]
 [[忆阻器]]
 [[无反向传播的 4D 连续蚁群神经网络拓扑搜索]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Architecture]]
 [[FunctionalEnsemble]]
 [[Interconnect_Routing]]
+[[LocalLearning_SynapticUpdate]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[SparseCodingEfficiency]]

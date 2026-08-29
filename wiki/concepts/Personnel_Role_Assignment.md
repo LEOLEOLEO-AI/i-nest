@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[ContinuousGameOfLife]]
 [[CrossDomain_Abstraction]]
 [[DailyResearchDigest]]
+[[FermiSurfaceTopologySignature]]
 [[Intelligence_Emergence]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]

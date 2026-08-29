@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[MagicStateDistillationOverheadModel]]
 [[ManufacturingCloudOrchestration]]
+[[MeasurementEfficientDisorderAware]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[SDI_Bond]]

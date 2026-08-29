@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Synaptic_Weighting]]
 [[Architectural_Conditioning]]
 [[Attention_Residuals]]
+[[BackpropagationFreeLearning]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]

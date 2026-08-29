@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[OpenEndedDiscovery]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[涌现]]

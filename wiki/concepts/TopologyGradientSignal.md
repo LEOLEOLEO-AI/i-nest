@@ -43,6 +43,8 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_NPU_NoC_Integration]]
 [[SDI_TopologicalControl]]
+[[STDP_Plasticity]]
+[[Space_Radiation_Hardening]]
 [[TCC]]
 [[涌现]]
 

@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Scarce_EEG_Learning]]
 [[SoftwareDefinedSystemOnWafer]]
 [[TCC]]
+[[ThirdWaveAI]]
 [[photonicNeuralAccelerator]]
 [[涌现]]
 

@@ -21,12 +21,12 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AlgorithmHardware_CoDesign]]
+[[AnomalousSpinTransport]]
 [[Course_Based_FPGA_Projects]]
 [[DARPA_Manufacturing_Strategy]]
 [[DARPA_ProjectManager_Model]]
 [[DARPA_Project_Group_Strategy]]
 [[ElectronicPhotonicIntegratedCircuit]]
-[[Emerging_CMOS_Memristor]]
 [[FerroelectricSemiconductorReservoir]]
 [[FerroelectricSynapticArray]]
 [[Ferroelectric_Devices]]
@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]
 [[Spiking_Neural_Network]]
+[[emerging CMOS memristor]]
 [[iNEST]]
 [[spiking neural network]]
 [[神经形态脉冲大语言模型（NSLLM）]]

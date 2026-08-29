@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Based_Trusted_Hardware]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
+[[Chiplet_NoC_Interconnect]]
 [[Complex_System_Theory]]
 [[DataMovementMinimization]]
 [[EulaminateOverrepresentation]]
@@ -42,8 +43,9 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_Interconnect]]
 [[SDI_Topology]]
+[[STDP_Plasticity]]
 [[TCC]]
-[[iNEST_Wafer]]
+[[iNEST]]
 [[涌现]]
 
 ## Sources

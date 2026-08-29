@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[ContinuousGameOfLife]]
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[CrossDomain_Abstraction]]
+[[CrossDomain_Synthesis]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenRiskAssessment]]
 [[Intelligence_Emergence]]

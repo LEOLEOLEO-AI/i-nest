@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[BurstGatedRouting]]
 [[CellEmergence]]
+[[CircuitSynthesis]]
 [[Complex_System_Theory]]
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[DisorderedNetworkInterconnect]]

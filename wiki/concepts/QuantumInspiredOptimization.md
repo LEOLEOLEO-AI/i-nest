@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[AnalogDomainCompressiveSensing]]
 [[CrossLayer_SignalRouting]]
 [[EarlyVisualCortexAliasing]]
+[[EventDrivenModularArchitecture]]
 [[Interconnect_Routing]]
 [[Nonlinear_Gain]]
 [[SNN]]

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AIRA_NeuralArchSearch]]
 [[AI_Assisted_Energy_Optimization]]
 [[AI_Faculty_Forum_2026]]
+[[Analog_InMemory_Processing]]
 [[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[ChipletWaferInterconnectCoDesign]]

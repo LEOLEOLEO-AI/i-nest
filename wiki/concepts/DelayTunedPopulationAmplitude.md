@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[BehavioralFeedbackLoop]]
 [[Bidirectional_Temporal_Enhancement]]
 [[Bio_plausible_Neuromorphic_Disturbance_Observer]]
+[[Co_designed_Online_Continual_Learning]]
 [[Complex_System_Theory]]
 [[Neuromorphic_Computing]]
 [[STDP_Plasticity]]
@@ -42,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicControlBarrierFunction]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[Spike_Event_Driven_Attention]]
 [[SpikingNeuralTransformer]]
 [[Spiking_Neural_Network]]
 [[iNEST]]

@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[ScaleFreeNetwork]]
 [[Synaptic_Plasticity]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[complex system]]
 [[iNEST]]
 

@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_ProjectManager_Model]]
 [[Deep_Thermalisation]]
 [[EGO_Architecture]]
+[[ERI_2_0_Strategic_Framework]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

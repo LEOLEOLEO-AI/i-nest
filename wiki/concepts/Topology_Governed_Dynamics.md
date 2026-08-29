@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration_Security]]
 [[Intelligence_Emergence]]
 [[InterconnectConstrainedEmergence]]
+[[NCCL_CollectivePrimitives]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[神经网络]]

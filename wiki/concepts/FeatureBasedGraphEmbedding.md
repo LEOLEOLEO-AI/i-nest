@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]
 [[HypergraphRumorPropagation]]
+[[InNetworkNeuromorphicEmergence]]
 [[IndexOrderingOptimization]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]

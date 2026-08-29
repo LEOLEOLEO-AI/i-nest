@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[CrashHotspotForecasting]]
 [[DivergentHigherAreaRanking]]
 [[EchoState_n_ch]]
+[[EnvironmentalEmbedding]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]

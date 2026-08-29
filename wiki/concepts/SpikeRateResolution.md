@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[RepresentationCapacityMatchedTwinConstruction]]
 [[SNN]]
 [[Spiking_Neural_Network]]
+[[TemperatureReplicaExchange]]
 [[iNEST]]
 
 ## Sources

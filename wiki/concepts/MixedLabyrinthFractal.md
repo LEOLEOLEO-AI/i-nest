@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Edge_Intelligence]]
 [[EmergentOrder]]
 [[Emergent_Intelligence_Threshold]]
+[[EventDrivenModularArchitecture]]
 [[Free_Energy_Principle_Network]]
 [[FrozenRateOperator]]
 [[FunctionalInterfaceBlock]]

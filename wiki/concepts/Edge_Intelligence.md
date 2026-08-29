@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[CoreComputationSubspace]]
 [[CulturalDisseminationDynamics]]
 [[Dynamic_Expert_Fusion]]
+[[Electronic_Warfare_Integration]]
 [[Emergent_Intelligence_Threshold]]
 [[FlexibilityThreshold]]
 [[InNetworkAgentRewiring]]
@@ -54,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
+[[edge intelligence]]
 [[iNEST]]
 [[神经网络]]
 

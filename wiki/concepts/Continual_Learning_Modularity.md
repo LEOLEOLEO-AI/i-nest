@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[CirculateFiringNeuron]]
 [[Cognitive_Relapse_Decoupling]]
+[[CriticalityOffCriticalityTransition]]
 [[Criticality]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeOfChaos]]

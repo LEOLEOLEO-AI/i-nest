@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[STDP_Plasticity]]
+[[SymmetricQuantumCircuit]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[涌现]]

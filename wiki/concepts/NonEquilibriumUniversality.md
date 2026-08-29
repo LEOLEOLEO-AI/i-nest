@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Nanoparticle_Network_Interconnect]]
 [[Neuromorphic_Computing]]
 [[NoiseModulatedLearning]]
+[[NonvolatileChargeDomain]]
 [[涌现]]
 
 ## Sources

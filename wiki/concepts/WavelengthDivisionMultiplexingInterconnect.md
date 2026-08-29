@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Stacking]]
 [[Complex_System_Theory]]
 [[ComputeRelocationOverhead]]
+[[DataMovementMinimization]]
 [[DirectConnect_Topology]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]

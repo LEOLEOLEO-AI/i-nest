@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[ActiveDendriteSNN]]
 [[BrainBodyResonance]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]

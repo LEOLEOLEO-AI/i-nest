@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[GeometricNeuromorphicFusion]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[LocalInteractionDrivenReconfiguration]]
 [[LossSpikePhenomenon]]
 [[Memristive_Topology]]
 [[MixedSignalSNN_CoDesign]]

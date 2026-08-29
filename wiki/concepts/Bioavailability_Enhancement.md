@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Free_Energy_Principle_Network]]
 [[GlobalInformationDominance]]
+[[HierarchicalInferenceTopology]]
 [[Hierarchical_Bayesian_Inference]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]

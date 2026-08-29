@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Photonic_Chiplet_Interconnect]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
+[[ScalableNeuromorphicTopology]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

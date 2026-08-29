@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Spatiotemporal_Coordination]]
 [[Network_Topology_Design]]
 [[NonEquilibriumComputing]]
+[[PhononicCrystalMicrowaveCoupling]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Recursive_Metric_Contraction]]
 [[SuperparamagneticSwitchingRate]]

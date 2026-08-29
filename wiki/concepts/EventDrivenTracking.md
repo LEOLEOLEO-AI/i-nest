@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenRiskAssessment]]
+[[Event_Driven_Architecture]]
 [[Event_Driven_Communication]]
 [[InSensorMemoryComputing]]
 [[In_Network_Generative_Inference]]
@@ -45,10 +46,12 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Spike_Encoding_of_fMRI]]
+[[SpikingNeuralNetworkTopologyMapping]]
 [[SpikingNeuralNetworkTopology]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[WirelessSplitComputing]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

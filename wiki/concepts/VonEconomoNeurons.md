@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[TwoTimescaleNeuroEvolution]]
 [[VonEconomoNeuron]]
 [[iNEST]]
+[[iNEST_Neuromorphic_Integration]]
 [[soc]]
 
 ## Sources

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveArchitecture]]
 [[AdaptiveEntanglementManagement]]
 [[AdaptiveFunctionalTopology]]
+[[Additive_Manufacturing_Supply_Chain]]
 [[AdjointWaveControl]]
 [[Alpha_Computation_Consistency]]
 [[AndersonTransition]]

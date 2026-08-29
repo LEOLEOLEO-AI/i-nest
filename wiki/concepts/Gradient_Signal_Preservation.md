@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[Cascading_Failure_Mitigation]]
 [[Complexity_Emergence_Engineering]]
+[[CorticalWaveRouting]]
 [[CrossLayer_SignalRouting]]
 [[ErrorAmplificationLimits]]
 [[EventCameraTemporalEncoding]]

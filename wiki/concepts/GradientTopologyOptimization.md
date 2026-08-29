@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Machine_Decision_Speed_Advantage]]
 [[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]
+[[RestrictedConnectivityTopology]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[complex system]]

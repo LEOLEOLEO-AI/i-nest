@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Routing]]
 [[EpidemicThreshold]]
 [[ExtinctionDrivenMetastability]]
+[[InteractingQuasiPeriodicChain]]
 [[Interconnect_Routing]]
 [[MoE_Routing]]
 [[Neuromorphic_Computing]]

@@ -49,10 +49,10 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[Textbook_Paradigm_Definition]]
 [[TopologyCentricEngineeringBase]]
+[[Topology_Centric_Computing]]
 [[Wafer_Scale_Integration]]
 [[chiplet interconnect]]
 [[iNEST]]
-[[iNEST_Wafer]]
 [[temporalComplexity]]
 
 ## Sources

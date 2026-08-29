@@ -47,6 +47,8 @@ Auto-extracted concept from raw material compilation.
 [[RadiationHardened_ProcessNodeScaling]]
 [[SDI_Bond]]
 [[SDI_Control_Plane_Offload]]
+[[SDI_TopologicalControl]]
+[[STDP_Plasticity]]
 [[TCC]]
 [[TopologyPage_Preloading]]
 [[VectorFlowField]]

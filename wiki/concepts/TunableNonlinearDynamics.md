@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[156QubitScale]]
 [[AdaptiveFunctionalTopology]]
 [[CoexistencePhaseDiagram]]
+[[CouplingMatrixRecovery]]
 [[Crystallized_Neural_Manifolds]]
 [[DTGA]]
 [[Decoupling_Mechanism]]

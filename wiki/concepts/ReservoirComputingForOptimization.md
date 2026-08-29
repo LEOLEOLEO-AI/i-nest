@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveInference]]
 [[AdjustableDynamics]]
 [[AlternativeBridgingModels]]
+[[Analog_Encoding_Readout]]
 [[CMOS_Memristor_Crossbar]]
 [[CrashHotspotForecasting]]
 [[DivergentHigherAreaRanking]]

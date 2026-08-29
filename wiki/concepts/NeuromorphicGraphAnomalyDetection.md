@@ -44,11 +44,11 @@ Auto-extracted concept from raw material compilation.
 [[SpectralSpikeEncoding]]
 [[SpikeEncoding]]
 [[Spike_Encoding_of_fMRI]]
+[[SpikingAttentionComplexityReduction]]
 [[Spiking_Mamba_Block]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
-[[iNEST_Neuromorphic_Integration]]
 [[spiking neural network]]
 [[temporal coding]]
 

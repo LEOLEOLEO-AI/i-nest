@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[EventCameraActionRecognition]]
 [[FPGASNNMemoryOptimization]]
 [[FPGA_Neuromorphic_Acceleration]]
+[[FixedOverheadCost]]
 [[FormalToolchain]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[ReconfigurableSpikingRouting]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]
+[[SDI_SNN]]
 [[SDI_SNN_Interconnect]]
 [[SNN]]
 [[SpikeDrivenDetectionBackbone]]

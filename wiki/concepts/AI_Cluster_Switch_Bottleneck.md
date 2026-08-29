@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_ProjectManager_Model]]
 [[DTGA]]
 [[Environmental_Capability_Context]]
+[[FirstPrinciples_Derivation]]
 [[Heterogeneous_Integration]]
 [[HierarchicalNetworkPartitioning]]
 [[MachineLearningNanomaterialDiscovery]]

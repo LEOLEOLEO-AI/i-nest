@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenTemplateUpdate]]
 [[Event_Driven_Architecture]]
 [[Interconnect_Routing]]
+[[LowRankPerturbation]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Self_Organized_Criticality]]

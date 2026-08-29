@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[ComputeRelocationOverhead]]
 [[DARPA_ERI]]
+[[DARPA_ERI_2_0_Framework]]
 [[DendriticReservoirState]]
 [[DistinctReentrantPhases]]
 [[ERI_2_0_Framework]]

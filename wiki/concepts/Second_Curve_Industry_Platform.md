@@ -60,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_STDP]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
+[[SDSoW_Industry_Alliance]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[Second_Curve_Wafer_Industry_Platform]]
@@ -71,7 +72,6 @@ Auto-extracted concept from raw material compilation.
 [[ThermalNoiseHarnessing]]
 [[chiplet interconnect]]
 [[iNEST]]
-[[iNEST_Wafer]]
 [[residual connection]]
 
 ## Sources

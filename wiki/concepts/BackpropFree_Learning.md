@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Hyper_Dimensional_Computing]]
 [[Intelligence_Emergence]]
 [[Intelligent_Power_Management]]
+[[JunctionCenteredFramework]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[NCL神经计算定律详解]]

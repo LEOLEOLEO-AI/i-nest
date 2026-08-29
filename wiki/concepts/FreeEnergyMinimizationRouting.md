@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[AdjointWaveControl]]
 [[Communication_Trace_Diagnostics]]
 [[CulturalDisseminationDynamics]]
+[[Electronic_Warfare_Integration]]
 [[EpidemicThreshold]]
 [[FreeEnergyMinimization]]
 [[Interconnect_Routing]]

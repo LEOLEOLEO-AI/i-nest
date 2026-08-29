@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[3DHI_Chiplet_Integration]]
 [[3DHI_Integration]]
 [[3DHI_Stacking]]
+[[4H_SiC_SubstrateProcessing]]
 [[AI_Faculty_Forum_2026]]
 [[AI_FullSpectrum_Strategy]]
 [[Allreduce_Latency_Probe]]

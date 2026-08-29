@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveNetworkResilience]]
 [[Analog_InMemory_Processing]]
 [[Beyond_Moore_Packaging_Strategy]]
+[[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
 [[Compositional_Continuum]]
@@ -48,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[complex system]]
 [[iNEST]]
+[[涌现]]
 [[神经网络]]
 
 ## Sources

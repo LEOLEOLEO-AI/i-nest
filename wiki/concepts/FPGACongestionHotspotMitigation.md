@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_NoC_Routing]]
 [[NoC_EventRouting]]
 [[PacketRoutingOptimization]]
+[[PhysicalDesign_ReliabilityTradeoff]]
 [[QuarantineCostTradeoff]]
 [[SpikeTimingPreservation]]
 [[Spiking_Neural_Network]]

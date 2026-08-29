@@ -37,13 +37,13 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Topology]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
+[[SDSoW_Strategic_Planning]]
 [[SoftwareDefined_NoC_Routing]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Topology]]
 [[chiplet interconnect]]
 [[iNEST]]
-[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

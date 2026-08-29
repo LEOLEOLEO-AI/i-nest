@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Parkinsonian_Neural_State_Detection]]
 [[SNN]]
 [[STDP_Plasticity]]
+[[SelfOrganizedRobustness]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

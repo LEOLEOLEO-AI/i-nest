@@ -49,10 +49,10 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]
 [[TCC]]
+[[TCC_iNEST_Interconnect]]
 [[advanced packaging]]
 [[chiplet interconnect]]
 [[iNEST]]
-[[iNEST_Interconnect]]
 [[neuromorphic computing]]
 [[涌现]]
 

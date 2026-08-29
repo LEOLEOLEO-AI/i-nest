@@ -36,6 +36,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[HotChip2024-Day2_AI加速器互联和云AI处理器,_Tesla是亮点_2]]
 [[Intelligence_Emergence]]
 [[Less_is_more，大脑“低能耗”并“高效响应”的秘诀：模块化_NSR]]
+[[Less_is_more，大脑“低能耗”并“高效响应”的秘诀：模块化_NSR_1]]
 [[MIT_异构Chiplet集成构建下一代计算的_超级芯片_]]
 [[NCL神经计算定律详解]]
 [[Neuromorphic_Computing]]

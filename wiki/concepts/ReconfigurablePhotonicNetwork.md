@@ -37,9 +37,9 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[NoC_Chiplet_iNEST_Wafer]]
 [[Nonlinear_Gain]]
+[[SDSoW]]
 [[TCC]]
 [[iNEST]]
-[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -21,13 +21,14 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AcceleratedMaterialScreening]]
-[[ActiveInferenceEdgeLoop]]
+[[ActiveInference]]
 [[AdaptiveDensityControl]]
 [[AlternativeBridgingModels]]
 [[AnisotropicGaussianPrimitives]]
 [[AnomalousSpinTransport]]
 [[AstrocyteInspiredRepair]]
 [[Beyond_Moore_Packaging_Strategy]]
+[[BrainBodyResonance]]
 [[ChipletOpticalIO]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Course_Based_FPGA_Projects]]

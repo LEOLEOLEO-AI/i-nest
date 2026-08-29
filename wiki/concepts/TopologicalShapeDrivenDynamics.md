@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality_Induced_Plasticity]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
+[[NonEquilibriumPhaseTransition]]
 [[Self_Organized_Criticality]]
 [[Synaptic_Plasticity]]
 [[TCC]]

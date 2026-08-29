@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Defense_Industrial_Base_Reshaping]]
 [[DevelopmentalNeuromorphicAdaptation]]
 [[DissipativePhaseTransition]]
+[[EmergentSystemSurrogate]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

@@ -35,13 +35,13 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_iNEST_Wafer]]
 [[NoC_Interconnect]]
 [[NoC_SDI]]
+[[NoC_SDI_Topology]]
 [[P_Paradigm]]
 [[SDI_Bond]]
 [[SDI_Topology]]
 [[SparsityAwareInterconnect]]
 [[TCC]]
 [[iNEST]]
-[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

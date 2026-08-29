@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration_Route]]
 [[Chiplet_Interconnect_Scheduling]]
 [[Chiplet_Interconnect_Topology]]
+[[Chiplet_NoC_Interconnect]]
 [[Complex_System_Theory]]
 [[ComputeRelocationOverhead]]
 [[CorticalTypeDiversity]]

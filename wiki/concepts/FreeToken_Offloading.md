@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Asymptotic_Exact_Solution]]
 [[BeyondVonNeumannArchitecture]]
 [[Bipartite_Interconnect]]
+[[Bipartite_Interconnect_Fabric]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
 [[CoPackagedOptics]]

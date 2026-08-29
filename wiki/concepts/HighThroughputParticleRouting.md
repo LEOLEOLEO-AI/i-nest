@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[EdgeIoTEnergyAwareness]]
 [[Free_Energy_Principle_Network]]
 [[FunctionalInterfaceBlock]]
+[[FunctionalInterfaceBlocks]]
 [[Heterogeneous_Integration]]
 [[IncidenceBasedRandomWalk]]
 [[Interconnect_Routing]]

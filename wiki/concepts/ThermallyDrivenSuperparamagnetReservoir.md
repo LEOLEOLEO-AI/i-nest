@@ -62,6 +62,7 @@ Auto-extracted concept from raw material compilation.
 [[Topology_Interconnect]]
 [[chiplet interconnect]]
 [[complex system]]
+[[iNEST]]
 [[neuromorphic substrate]]
 [[reservoir computing]]
 [[residual connection]]

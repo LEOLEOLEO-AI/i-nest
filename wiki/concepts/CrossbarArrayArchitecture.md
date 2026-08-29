@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_TCC_Chiplet]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
+[[STDP_Plasticity]]
 [[Software_Defined_Interconnect]]
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
@@ -53,7 +54,6 @@ Auto-extracted concept from raw material compilation.
 [[Topology_Page]]
 [[chiplet interconnect]]
 [[iNEST]]
-[[iNEST_Wafer]]
 [[temporalComplexity]]
 [[涌现]]
 

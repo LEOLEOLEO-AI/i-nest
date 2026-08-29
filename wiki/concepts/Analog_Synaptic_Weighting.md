@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AnalogInMemoryComputing]]
 [[Architectural_Conditioning]]
 [[Attention_Residuals]]
+[[BackpropagationFreeLearning]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]

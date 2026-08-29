@@ -38,12 +38,16 @@ Auto-extracted concept from raw material compilation.
 [[ChipletTopologyAwareness]]
 [[Chiplet_Based_Architecture]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect_Aware_Placement]]
 [[Chiplet_Stacking]]
+[[Complex_System_Theory]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[advanced packaging]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

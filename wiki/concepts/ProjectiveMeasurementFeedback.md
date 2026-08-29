@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveFrequencyResonateFire]]
 [[AdaptiveSTDP]]
 [[Amorphous_Amorphous_Transition]]
+[[AnisotropicGaussianPrimitives]]
 [[BackflowTransformation]]
 [[BayesianDomainEvolution]]
 [[BehavioralFeedbackLoop]]
@@ -47,7 +48,6 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[Syncytial_Mesh]]
-[[Syncytial_Mesh_Model]]
 [[iNEST]]
 
 ## Sources

@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[1024_Card_SuperNode]]
 [[2_5D_PIM_Chiplet_Integration]]
+[[3DHI_Chiplet_Integration]]
 [[3DHI_Stacking]]
 [[3D_Heterogeneous_Integration]]
 [[AI_FullSpectrum_Strategy]]
@@ -32,12 +33,14 @@ Auto-extracted concept from raw material compilation.
 [[Bipartite_Interconnect]]
 [[CXL_Deployment_Transition]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Complex_System_Theory]]
 [[ComputeRelocationOverhead]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[FlagOS_2_0]]
 [[Heterogeneous_Integration]]
 [[In_Package_Optical_Interconnect]]
+[[Intelligence_Emergence]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]
@@ -45,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologicalAndersonChernInsulator]]
 [[advanced packaging]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

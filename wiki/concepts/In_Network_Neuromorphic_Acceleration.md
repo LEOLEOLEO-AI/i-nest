@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[GradientBasedLearningLocalization]]
 [[ImageToEventConversion]]
 [[In_Network_Neuromorphic]]
+[[LocalLearning_SynapticUpdate]]
 [[NeuromorphicAttentionScaling]]
 [[Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]
@@ -44,7 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[SynapticReinforcementConsolidation]]
 [[SynapticRewiringDynamics]]
-[[Syncytial_Mesh_Model]]
+[[Syncytial_Mesh]]
 [[iNEST]]
 
 ## Sources

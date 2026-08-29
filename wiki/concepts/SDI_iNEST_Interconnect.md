@@ -28,8 +28,10 @@ Auto-extracted concept from raw material compilation.
 [[DataDrivenCellularAxis]]
 [[Event_Driven_Architecture]]
 [[In_Package_Neuromorphic_Integration]]
+[[Interconnect_Routing]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[ModelOptimization]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[PhaseLockedTopologyMapping]]
@@ -43,7 +45,6 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
-[[iNEST_Interconnect]]
 [[iNEST_Neuromorphic_Integration]]
 
 ## Sources

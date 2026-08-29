@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AllOpticalHebbianLearning]]
 [[BigBrainCellularAxis]]
 [[Complexity_Emergence_Engineering]]
+[[CorticalWaveRouting]]
 [[CriticalStateInformationMaximization]]
 [[CrossLayer_SignalRouting]]
 [[EventCameraTemporalEncoding]]

@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[ERI_2_0_Strategic_Framework]]
 [[Intelligence_Emergence]]
+[[JunctionCenteredFramework]]
 [[Metastable_State_Hierarchy]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

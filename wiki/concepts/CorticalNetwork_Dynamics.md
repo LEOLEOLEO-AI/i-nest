@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[KV_Cache_to_BoundaryObject]]
+[[KV_Cache_to_BoundaryObject_Transition]]
 [[L2_L3_Reconfigurability]]
 [[Network_Topology_Design]]
 [[TCC]]

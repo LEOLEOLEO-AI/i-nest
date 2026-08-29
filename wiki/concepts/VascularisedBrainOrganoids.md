@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AnomalousSpinTransport]]
 [[Avalanche_Dynamics]]
 [[BigBrainCellularAxis]]
+[[Biologically_Plausible_Learning_Rules]]
 [[Complex_System_Theory]]
 [[Criticality]]
 [[Criticality_Induced_Plasticity]]

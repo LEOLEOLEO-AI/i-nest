@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[Complexity_Emergence_Engineering]]
 [[ConsciousnessEngineeringLoop]]
+[[CorticalWaveRouting]]
 [[EventCameraTemporalEncoding]]
 [[Intelligence_Emergence]]
 [[InterFPGA_Spike_Routing]]
@@ -40,7 +41,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[ThresholdBasedSpikeEncoding]]
 [[iNEST]]
-[[iNEST_Neuromorphic_Integration]]
 [[spiking neural network]]
 
 ## Sources

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AnomalousSpinTransport]]
 [[Battery_Technology_Integration]]
 [[BigBrainCellularAxis]]
+[[Bipartite_Interconnect_Design]]
 [[ChipletWaferInterconnectScaling]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]

@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Environmental_Coupling_Organization]]
 [[FisherOrthogonalMemory]]
 [[Heterogeneous_Integration]]
+[[IntegrationProspectsForVLSI]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[Reservoir_Computing]]

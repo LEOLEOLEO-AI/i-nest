@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
+[[3D_Torus_6_Degree]]
 [[ANN_SNN_ConversionError]]
 [[AdsorptionBiosorptionHybrid]]
 [[Alignment_Tax]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
+[[SNN]]
 [[SpikingTransformer]]
 [[Spiking_Neural_Network]]
 [[scaling laws]]

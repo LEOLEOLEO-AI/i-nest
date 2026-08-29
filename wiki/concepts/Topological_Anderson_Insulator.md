@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Critical_Region_Extension]]
 [[Emergent_Order_Deep_Belief_Networks]]
 [[EvolvingArchitectureDynamics]]
+[[ExactWiringRouting]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[JointFlightRoutingOptimization]]
@@ -45,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[topological Anderson insulator]]
 [[涌现]]
 
 ## Sources

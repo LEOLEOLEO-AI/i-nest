@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[MixedSignalSNN_CoDesign]]
 [[Network_Topology_Design]]
 [[NeuromorphicHardware]]
+[[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[Real_Time_Neuromorphic_Constraint_Satisfaction]]

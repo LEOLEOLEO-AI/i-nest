@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[EmergentTaskDecomposition]]
 [[Emergent_Intelligence_Theory]]
 [[Emergent_Intelligence_Threshold]]
+[[Entanglement_Teleportation_Locality]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]

@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[GraphAnomalySpikeEncoding]]
 [[Heterogeneous_Integration]]
 [[LatencyGradientDescent]]
+[[MembranePotentialAlignment]]
 [[MolecularTargetSignaling]]
 [[Neuromorphic_Computing]]
 [[SNN]]

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AsynchronousEventDrivenComputation]]
 [[Avoided_Criticality]]
 [[BurstGatedRouting]]
+[[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[DynamicalSelfDualCriticality]]
 [[Interconnect_Routing]]

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Closed_Loop_Neuromodulation]]
 [[Complex_System_Theory]]
 [[ContinuousGameOfLife]]
+[[CriticalWeightNormBoundary]]
 [[CrossDomain_Abstraction]]
 [[CrossDomain_Synthesis]]
 [[Intelligence_Emergence]]

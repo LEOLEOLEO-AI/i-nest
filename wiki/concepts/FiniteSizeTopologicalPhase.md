@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[InfluencePropagationLoop]]
 [[Intelligence_Emergence]]
 [[Layer_Specific_Spreading_Rate]]
+[[LocalGraphTopologyProtection]]
 [[Memristive_STDP]]
 [[Network_Topology_Design]]
 [[Nonreciprocity_Threshold]]

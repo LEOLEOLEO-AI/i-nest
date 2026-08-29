@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[DTGA]]
 [[Environmental_Capability_Context]]
 [[EventCameraTemporalEncoding]]
+[[FPGACongestionHotspotMitigation]]
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]
 [[LocalQuantumLearningRule]]

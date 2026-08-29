@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[Self_Organized_Criticality]]
 [[Spike_Encoding_of_fMRI]]
+[[SpikingRecurrentCell]]
 [[SpikingRecurrentCells]]
 [[SpikingStateSpaceModel]]
 [[Spiking_Neural_Network]]

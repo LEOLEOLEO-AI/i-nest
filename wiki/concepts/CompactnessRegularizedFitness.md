@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[ScaleFreeNetwork]]
 [[Stigmergic_Graph_Memory]]
+[[SwarmGradientRouting]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[complex system]]

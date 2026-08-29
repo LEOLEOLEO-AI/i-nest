@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Continuous_Control_SNN_Stability]]
 [[Criticality]]
 [[CrossDomain_Integration]]
+[[CrossEntityPreemptiveWarning]]
 [[DualModeSNNConventionalInference]]
 [[ElasticSpikingTransformer]]
 [[EnergyResourceEfficiencyCoOptimization]]

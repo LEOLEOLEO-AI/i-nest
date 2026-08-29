@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[FiniteSizeTopologicalPhase]]
 [[InformationCompressionAtCriticality]]
 [[Intelligence_Emergence]]
+[[NearThreeDimensionalCriticality]]
 [[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Self_Organized_Criticality]]

@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenTracking]]
 [[Event_Driven_Architecture]]
 [[Event_Driven_Communication]]
+[[Event_Driven_Processing]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
@@ -51,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]
 [[temporal coding]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

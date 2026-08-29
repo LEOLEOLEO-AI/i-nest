@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[OpportunisticRoutingRL]]
 [[OpportunisticRouting]]
+[[ReEntrantMultifractalization]]
 [[涌现]]
 
 ## Sources

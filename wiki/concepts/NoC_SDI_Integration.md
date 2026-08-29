@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_NPU_NoC_Integration]]
 [[SDI_ProgrammableInterconnect]]
 [[SDI_STDP]]
+[[SDI_STDP_Rule]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[STDP_Plasticity]]

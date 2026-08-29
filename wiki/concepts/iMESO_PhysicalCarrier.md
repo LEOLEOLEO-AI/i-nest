@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[TemporalDynamicsModeling]]
 [[TwoTimescaleNeuroEvolution]]
 [[iNEST]]
+[[iNEST_Neuromorphic_Integration]]
 [[神经形态脉冲大语言模型（NSLLM）]]
 
 ## Sources

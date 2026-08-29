@@ -29,9 +29,14 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[AI_Forum_Demo_Narrative]]
 [[Advanced_Packaging_for_Space]]
+[[AmorphousTopologicalSubstrate]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Complex_System_Theory]]
+[[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[TCC]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

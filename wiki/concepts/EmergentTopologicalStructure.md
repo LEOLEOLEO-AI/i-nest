@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[03 涌现：整体的能力不能还原回个体？ - 得到APP]]
+[[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
 [[12_三原理协同_FEP_最小作用量_STDP]]
 [[3DIC_EDA之一_基于Chiplet集成的计算架构]]
 [[AI-ML — 全景导航 (Map of Content)]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Antiferromagnetic_Topological_Anderson_Insulator]]
 [[ArchitecturalIllusion]]
 [[Architectural_Conditioning]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

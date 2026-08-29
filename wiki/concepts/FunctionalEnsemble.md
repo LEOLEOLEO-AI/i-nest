@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenInference]]
 [[Event_Driven_Architecture]]
 [[Interconnect_Routing]]
+[[LocalLearning_SynapticUpdate]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Speech_Tokenizer]]
 [[SNN]]

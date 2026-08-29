@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[EvolvingArchitectureDynamics]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[JunctionCenteredRouting]]
 [[MeasurementInducedRouting]]
 [[Network_Topology_Design]]
 [[STDPDrivenConnectivity]]

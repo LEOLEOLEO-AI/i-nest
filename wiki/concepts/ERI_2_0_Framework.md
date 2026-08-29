@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
 [[complex system]]
+[[iNEST]]
 [[neuromorphic chiplet]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]

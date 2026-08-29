@@ -27,7 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_ProjectManager_Model]]
 [[DataDrivenMaterialDesign]]
 [[DivergentHigherAreaRanking]]
-[[Emerging_CMOS_Memristor]]
+[[ErrorSuppressedPipeline]]
 [[FrequencyBasedReservoir]]
 [[Globally_Optimal_SNN_Training]]
 [[HardwareAware_DesignSpace]]
@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[branch prediction]]
+[[emerging CMOS memristor]]
 [[iNEST]]
 [[neuromorphic computing]]
 

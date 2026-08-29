@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[PhaseLockedTopologyMapping]]
 [[PolychronousNeuronalGroups]]
 [[Quadratic_Integrate_and_Fire_Neuron]]
+[[QuantumDeeplySupervisedSpiking]]
 [[STDP_Plasticity]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

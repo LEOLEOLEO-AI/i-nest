@@ -24,7 +24,6 @@ Auto-extracted concept from raw material compilation.
 [[CouplingTopologyInducedDynamics]]
 [[CriticalityInducedTopology]]
 [[Criticality]]
-[[Criticality_Entanglement]]
 [[EventDrivenAutoregression]]
 [[EventDrivenDefenseMechanism]]
 [[EventDrivenRiskAssessment]]

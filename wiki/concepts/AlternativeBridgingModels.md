@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_computing]]
 [[Nonlinear_Gain]]
+[[PopulationDensityApproximation]]
 [[QuantumChaos]]
 [[Reservoir_Computing]]
 [[SDDE_Attractor_Emergence]]

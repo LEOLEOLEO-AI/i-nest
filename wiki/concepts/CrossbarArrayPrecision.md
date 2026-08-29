@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_InMemory_Processing]]
 [[Architectural_Conditioning]]
 [[CXL_Deployment_Transition]]
+[[Chiplet_NoC_Interconnect]]
 [[CrossDomain_Integration]]
 [[Dynamic_Expert_Fusion]]
 [[FerroelectricMemoryCell]]

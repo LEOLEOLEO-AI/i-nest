@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Core_Spacetime_Tensor]]
 [[DRBE_MVP_Mainchain]]
 [[DataProvenanceIntegrity]]
+[[Deep_Network_Architecture_Invariant]]
 [[EulaminateOverrepresentation]]
 [[FlagScale]]
 [[Free_Energy_Principle_Network]]
@@ -71,7 +72,6 @@ Auto-extracted concept from raw material compilation.
 [[chiplet interconnect]]
 [[heterogeneous_integration]]
 [[iNEST]]
-[[iNEST_Wafer]]
 [[residual connection]]
 [[temporalComplexity]]
 

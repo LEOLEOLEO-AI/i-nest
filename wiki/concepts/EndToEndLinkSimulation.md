@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Thermalisation]]
 [[DifferentiableRasterizationPipeline]]
 [[Free_Energy_Principle_Network]]
+[[GraphBasedSemanticRouting]]
 [[Heterogeneous_Integration]]
 [[Hypersonic_Weapon_Market_CAGR]]
 [[Intelligence_Emergence]]

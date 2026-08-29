@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Monolithic_CoIntegration]]
 [[ImaginaryGaugePhaseImprint]]
 [[Intelligence_Emergence]]
+[[InterChipletPHYModeling]]
 [[Memristive_STDP]]
 [[Photonic_Chiplet_Interconnect]]
 [[RTC_Primitive]]

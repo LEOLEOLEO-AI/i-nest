@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[03 涌现：整体的能力不能还原回个体？ - 得到APP]]
 [[BackpropagationFreeLearning]]
 [[Complex_System_Theory]]
+[[DynamicServiceComposition]]
 [[Intelligence_Emergence]]
 [[NeuromorphicObserverArchitecture]]
 [[Neuromorphic_Computing]]
@@ -38,7 +39,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[emergent computation]]
 [[iNEST]]
-[[iNEST_Interconnect]]
 [[涌现]]
 
 ## Sources

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[ActivityAvalanche]]
 [[AlloyDisorderEngineering]]
 [[AvalancheBranchingRatio]]
+[[Biologically_Plausible_Learning_Rules]]
 [[BranchingRatio]]
 [[CST_Theory]]
 [[Complex_System_Theory]]

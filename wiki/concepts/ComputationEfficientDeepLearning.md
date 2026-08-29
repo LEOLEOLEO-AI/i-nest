@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Wafer_Topology]]
 [[Complex_System_Theory]]
 [[Deep_Network_Architecture_Invariant]]
+[[Defense_Industrial_Base_Reshaping]]
 [[EfficientDeepLearning]]
 [[EmergentIntelligence_Spacetime]]
 [[Free_Energy_Principle_Network]]

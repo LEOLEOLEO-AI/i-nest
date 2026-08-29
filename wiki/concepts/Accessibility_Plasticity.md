@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AnomalousSpinTransport]]
 [[Architectural_Conditioning]]
 [[BigBrainCellularAxis]]
+[[ClocklessReconfigurableChip]]
 [[DevelopmentalNeuromorphicAdaptation]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]

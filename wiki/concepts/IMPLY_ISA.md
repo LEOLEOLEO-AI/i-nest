@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenModularArchitecture]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[FPGA_Neuromorphic_Acceleration]]
+[[FPGA_SNN_Inference]]
 [[FirstPrinciples_AI]]
 [[Hardware_Software_CoDesign]]
 [[Intelligence_Emergence]]

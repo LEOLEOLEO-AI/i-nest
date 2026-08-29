@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Baseline_Draft_Status]]
 [[BioPlausiblePredictiveCoding]]
+[[BurstGatedRouting]]
 [[Criticality]]
 [[DynamicTokenSparsity]]
 [[Edge_Neuromorphic_Compute]]

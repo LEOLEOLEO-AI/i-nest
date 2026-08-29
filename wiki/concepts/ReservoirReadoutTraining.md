@@ -33,9 +33,9 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[CriticalFluctuationReservoir]]
 [[DARPA_ProjectManager_Model]]
+[[Deep_Network_Architecture_Invariant]]
 [[DissipativeQuantumReservoir]]
 [[Emergent_Reservoir_Topology]]
-[[Emerging_CMOS_Memristor]]
 [[EndToEndTopologyLearning]]
 [[FirstPrinciples_AI]]
 [[FisherOrthogonalMemory]]
@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[ThermalNoiseHarnessing]]
 [[complex system]]
+[[emerging CMOS memristor]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

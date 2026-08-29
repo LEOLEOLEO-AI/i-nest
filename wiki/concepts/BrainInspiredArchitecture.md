@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Package_Neuromorphic_Integration]]
 [[InputAdaptiveComputation]]
 [[Interconnect_Routing]]
+[[LocalLearning_SynapticUpdate]]
 [[MemoryDrivenInterconnect]]
 [[NestedRepresentation]]
 [[NeuromorphicTransformerPipeline]]

@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Integration]]
 [[Intelligence_Emergence]]
+[[Macro_System_Description]]
 [[MacroscopicDescriptor]]
 [[Memory_Wall]]
 [[MetricComputationAuthenticity]]

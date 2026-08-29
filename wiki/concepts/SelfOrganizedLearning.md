@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Synaptic_Plasticity]]
 [[Syncytial_Information_Integration]]
+[[TCC]]
 [[analog computation]]
 [[complex system]]
 [[iNEST]]

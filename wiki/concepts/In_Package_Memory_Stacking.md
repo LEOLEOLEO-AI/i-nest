@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_Interconnect_Aware_Placement]]
+[[Chiplet_Interconnect_Scheduling]]
 [[Chiplet_Stacking]]
 [[Complex_System_Theory]]
 [[Heterogeneous_Integration]]

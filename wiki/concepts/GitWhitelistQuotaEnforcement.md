@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[SixClassSkeletonAsRPrimitiveSpace]]
 [[TCC]]
 [[TopologicalObservers]]
+[[TopologyCentricPrimitiveSet]]
 [[iNEST]]
 [[涌现]]
 

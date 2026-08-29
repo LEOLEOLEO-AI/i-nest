@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Agent_Workflow_Automation]]
 [[BifurcationCandidateSet]]
 [[BifurcationCandidate]]
+[[CST计量仪]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
@@ -45,7 +46,9 @@ Auto-extracted concept from raw material compilation.
 [[SDI节点接口规范与化合键定义]]
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
+[[barrier hierarchy]]
 [[涌现]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

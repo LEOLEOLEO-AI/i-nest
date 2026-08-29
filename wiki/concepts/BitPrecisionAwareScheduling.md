@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Attention_Residuals]]
+[[Beyond_Moore_Pathway]]
 [[Bias_Origin_Taxonomy]]
 [[BoundaryObject_Abstraction]]
 [[Complex_System_Theory]]

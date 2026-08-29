@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Control_Plane_Offload]]
 [[SpatiotemporalComplexityIndex]]
 [[TCC]]
+[[Topology_Aware_NoC_Routing]]
 [[chiplet interconnect]]
 [[complex system]]
 [[temporalComplexity]]

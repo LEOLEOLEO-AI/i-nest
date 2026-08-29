@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[TemporalBatchSynchronization]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
 [[neuromorphic computing]]
 [[spiking neural network]]

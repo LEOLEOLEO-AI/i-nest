@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Continual_Learning_Topology]]
 [[CriticalFixedPoint]]
 [[DendriticReservoirState]]
+[[DifferentiableLifting]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]

@@ -39,6 +39,8 @@ Auto-extracted concept from raw material compilation.
 [[ElectronicPhotonicIntegratedCircuit]]
 [[Heterogeneous_Integration]]
 [[InterFPGA_Spike_Routing]]
+[[Interconnect_Routing]]
+[[NoC_EventRouting]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[Technology_Disparity_Offset]]

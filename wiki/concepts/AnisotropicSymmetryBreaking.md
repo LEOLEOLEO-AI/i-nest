@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Active_Inference_Architecture]]
 [[Adaptive_Deep_Brain_Stimulation]]
 [[ArtificialProprioception]]
+[[Attractor_State_Interpolation]]
 [[CirculateFiringNeuron]]
 [[CognitiveFeedbackLoop]]
 [[CompetitiveEdgeRewiring]]

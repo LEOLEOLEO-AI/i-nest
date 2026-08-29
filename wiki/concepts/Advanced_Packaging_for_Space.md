@@ -41,10 +41,12 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_iNEST_Wafer]]
 [[NoC_Interconnect]]
 [[NoC_SDI]]
+[[OnDie_Fusion]]
 [[P_Paradigm]]
 [[Photonic_Chiplet_Interconnect]]
 [[SDI_Bond]]
 [[SDI_Topology]]
+[[STDP_Plasticity]]
 [[SparsityAwareInterconnect]]
 [[TCC]]
 [[WideLink_NoC_Router]]
@@ -52,7 +54,6 @@ Auto-extracted concept from raw material compilation.
 [[chiplet interconnect]]
 [[chiplet packaging]]
 [[iNEST]]
-[[iNEST_Wafer]]
 [[涌现]]
 
 ## Sources

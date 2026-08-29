@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[ANN动力学]]
 [[ActiveMatterSubstrate]]
+[[Active_Inference_Topology]]
 [[Annealing_Based_Decoder]]
 [[AsymmetricStochasticInteractions]]
 [[AttentionLikeHebbianMechanism]]

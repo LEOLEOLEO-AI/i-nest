@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[FC2_NeuralCircuit]]
+[[FastSlow_Dynamics]]
 [[FieldTopologyEmbedding]]
 [[GoalNormalization]]
 [[Intelligence_Emergence]]

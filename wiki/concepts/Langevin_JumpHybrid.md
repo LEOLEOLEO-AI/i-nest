@@ -36,6 +36,8 @@ Auto-extracted concept from raw material compilation.
 [[Course_Based_FPGA_Prototyping]]
 [[Criticality]]
 [[DualDrivenHybridNetwork]]
+[[DynamicTokenSparsity]]
+[[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Self_Organized_Criticality]]

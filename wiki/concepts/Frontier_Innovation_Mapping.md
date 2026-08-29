@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[Swarm_Coordination]]
+[[UniSpike_Acceleration]]
 [[analog computation]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]

@@ -31,7 +31,9 @@ Auto-extracted concept from raw material compilation.
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
+[[Complex_System_Theory]]
 [[DTGA]]
+[[DataProvenanceIntegrity]]
 [[Free_Energy_Principle_Network]]
 [[Free_Energy_Topology_Mapping]]
 [[GenerativeTopologyModels]]
@@ -52,7 +54,6 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect]]
 [[chiplet interconnect]]
 [[iNEST]]
-[[iNEST_Wafer]]
 [[temporalComplexity]]
 [[Γst_Revision]]
 

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_ProjectManager_Model]]
 [[Deep_Network_Architecture_Invariant]]
 [[Defense_Industrial_Base_Reshaping]]
+[[DynamicServiceComposition]]
 [[EfficientDeepLearning]]
 [[Neuromorphic_Computing]]
 [[iNEST]]

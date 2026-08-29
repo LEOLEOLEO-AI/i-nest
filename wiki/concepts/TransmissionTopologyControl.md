@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[EdgeIoTEnergyAwareness]]
 [[ElectricFieldModulatedCoupling]]
 [[EvolvingArchitectureDynamics]]
+[[FPGA_Reconfigurability]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

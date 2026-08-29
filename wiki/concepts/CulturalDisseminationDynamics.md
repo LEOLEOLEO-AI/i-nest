@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[Edge_Intelligence]]
+[[Electronic_Warfare_Integration]]
 [[Emergent_Intelligence_Threshold]]
 [[ExplosiveTransitionThreshold]]
 [[FlexibilityThreshold]]

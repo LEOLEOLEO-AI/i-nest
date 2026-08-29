@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Based_Trusted_Hardware]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
+[[Chiplet_NoC_Interconnect]]
 [[Chiplet_Stacking]]
 [[CoPackagedOptics]]
 [[Cognitive_Relapse_Architecture]]

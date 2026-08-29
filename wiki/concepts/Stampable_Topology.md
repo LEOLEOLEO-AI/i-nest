@@ -38,12 +38,12 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Topology]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
+[[Second_Curve_Wafer_Industry_Platform]]
 [[TCC]]
 [[TopologyCentricPrimitiveSystem]]
 [[Wafer_Scale_Integration]]
 [[chiplet interconnect]]
 [[iNEST]]
-[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

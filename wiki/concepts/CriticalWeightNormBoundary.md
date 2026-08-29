@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstTemporalPlasticity]]
 [[Complex_System_Theory]]
 [[CubicLatticeInterconnect]]
+[[DirtyWeylSemimetal]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenWeightUpdate]]

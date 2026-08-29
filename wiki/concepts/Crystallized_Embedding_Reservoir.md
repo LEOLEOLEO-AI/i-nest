@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Fixed_Cost_Dominance]]
 [[InNetworkAgentRewiring]]
 [[InSensorMemoryComputing]]
+[[In_Package_Neuromorphic_Integration]]
 [[Intelligence_Emergence]]
 [[MeasurementInducedPhaseTransition]]
 [[Memristive_Topology]]

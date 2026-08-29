@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Alpha_Computation_Consistency]]
 [[AndersonTransition]]
 [[CavityMethodAnalysis]]
+[[ChiralSymmetryClasses]]
 [[CommunicationAsComputation]]
 [[CommunicationAwareComputeRelocation]]
 [[Computation_Access_Routing]]

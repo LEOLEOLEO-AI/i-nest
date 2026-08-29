@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[ComputeRelocationOverhead]]
 [[Deep_Thermalisation]]
 [[EdgeIoTEnergyAwareness]]
+[[GraphBasedSemanticRouting]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[InterChipletPHYModeling]]

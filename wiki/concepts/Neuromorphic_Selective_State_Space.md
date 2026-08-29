@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CIMWeightUpdateAwareness]]
 [[Complex_System_Theory]]
 [[ConductingPolymerDendriteMemory]]
+[[Cross_Node_Event_Propagation]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenPlasticity]]
 [[Event_Driven_Architecture]]
@@ -51,8 +52,8 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[neuromorphic computing]]
 [[neuromorphic interconnect]]
-[[spiking neural network dynamics]]
 [[spiking neural network]]
+[[神经网络]]
 [[类脑芯片]]
 
 ## Sources

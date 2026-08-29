@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[NestedRepresentation]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[ScalableNeuromorphicTopology]]
 [[SpikeBasedFrequencyTuning]]
 [[Spiking_Neural_Network]]
 [[TCC]]

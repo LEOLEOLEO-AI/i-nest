@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[ConductingPolymerDendriteMemory]]
 [[ConsciousnessEngineeringLoop]]
 [[Heterogeneous_Integration]]
+[[InInterconnectMemory]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Memory_Wall]]

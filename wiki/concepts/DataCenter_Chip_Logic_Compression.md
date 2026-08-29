@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[DistinctReentrantPhases]]
 [[Intelligence_Emergence]]
+[[InterChipletPHYModeling]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]

@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[KernelRegimeScaling]]
 [[MushroomBodyModes]]
+[[NCL神经计算定律详解]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Parallelized_Hierarchical_Connectome]]

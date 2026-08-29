@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Coupling_Strength_Encoding]]
 [[CriticalFixedPoint]]
 [[DendriticReservoirState]]
+[[DeviationScalingIndex]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Expert_Review_Arbitration]]

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveFunctionalTopology]]
 [[AdjointWaveControl]]
 [[Allreduce_Latency_Probe]]
+[[ArbitraryWavefunctionConfigurability]]
 [[Architectural_Conditioning]]
 [[Complex_System_Theory]]
 [[Critical_Region_Extension]]

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Activity_Energy_Tradeoff]]
 [[AlloyDisorderEngineering]]
 [[AvalancheBranchingRatio]]
+[[Biologically_Plausible_Learning_Rules]]
 [[Boundary_Criticality]]
 [[BranchingRatio]]
 [[CST_Theory]]

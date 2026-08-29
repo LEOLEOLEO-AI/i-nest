@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
+[[SDSoW_Industry_Alliance]]
 [[WaferScale_Memristor_Array]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]

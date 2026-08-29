@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[FormalToolchain]]
 [[Heterogeneous_Integration]]
 [[ImageToEventConversion]]
+[[In_Package_Neuromorphic_Integration]]
 [[Intelligence_Emergence]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Chiplet]]
@@ -50,7 +51,6 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[SynapticReinforcementConsolidation]]
 [[Syncytial_Mesh]]
-[[Syncytial_Mesh_Model]]
 [[iNEST]]
 [[neuromorphic computing]]
 

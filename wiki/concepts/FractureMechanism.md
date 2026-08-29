@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[DARPA_ProjectManager_Model]]
 [[EdgeIoTEnergyAwareness]]
+[[EquivariantGraphLayers]]
 [[Heterogeneous_Chiplet_Customization]]
 [[Heterogeneous_Inference_Offload]]
 [[Heterogeneous_Integration]]

@@ -33,6 +33,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[CriticalPhaseTransitionStatisticalTest]]
 [[DeviceConductanceTuning]]
 [[Intelligence_Emergence]]
+[[Less_is_more，大脑“低能耗”并“高效响应”的秘诀：模块化_NSR]]
 [[NCL神经计算定律详解]]
 [[Nature_Computational_Science_用AI发现高维复杂网络的动力学公式]]
 [[Network_Topology_Design]]

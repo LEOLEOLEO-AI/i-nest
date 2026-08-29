@@ -56,7 +56,6 @@ Auto-extracted concept from raw material compilation.
 [[Spike_timing_dependent_plasticity_learning_rule]]
 [[Spiking neural network]]
 [[Spiking_neural_network]]
-[[Spiking_neural_network_dynamics]]
 [[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]
 [[ThermalNoiseHarnessing]]
@@ -65,6 +64,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[neuromorphic computing]]
 [[residual connection]]
+[[spiking neural network]]
 [[temporalComplexity]]
 [[三原理协同_FEP_STDP_最小作用量]]
 

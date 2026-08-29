@@ -33,6 +33,8 @@ Auto-extracted concept from raw material compilation.
 [[NetworkDynamicalStabilization]]
 [[Network_Topology_Design]]
 [[PhaseLockedTopologyMapping]]
+[[PolychronousNeuronalGroups]]
+[[SNN]]
 [[STDP_Plasticity]]
 [[SpikeEncoding]]
 [[Spiking_Neural_Network]]

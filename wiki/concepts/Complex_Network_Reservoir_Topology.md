@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Memory_Technology_Coexistence]]
 [[MultiTimescaleSeparation]]
 [[Network_Topology_Design]]
+[[PowerLawScalingClassification]]
 [[Reservoir_Computing]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]

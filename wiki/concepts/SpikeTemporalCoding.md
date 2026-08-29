@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeBasedBeliefPropagation]]
 [[SpikeEncoding]]
 [[SpikeTimingGradientPropagation]]
+[[SpikeTimingGradient]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]

@@ -32,6 +32,8 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveArchitecture]]
 [[AdaptiveFunctionalTopology]]
 [[EnsembleSparsity]]
+[[Interconnect_Routing]]
+[[LowRankPerturbation]]
 [[MembranePotentialAlignment]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]

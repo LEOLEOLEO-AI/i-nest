@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[OptimalRepresentation]]
 [[RamanInducedGaugeField]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SOC — 自组织临界（Self-Organized Criticality）]]
 [[SOC]]
 [[STDP_Plasticity]]
 [[Self_Organized_Criticality]]

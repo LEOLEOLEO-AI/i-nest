@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[MacroCriticalityEmergence]]
 [[Network_Topology_Design]]
+[[NonEquilibriumPhaseTransition]]
 [[NonEquilibriumPhase]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Self_Organized_Criticality]]

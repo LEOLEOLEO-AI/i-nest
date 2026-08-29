@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BackpropagationFreeLearning]]
 [[Beyond_Moore_Pathway]]
 [[BiasEvaluationMetrics]]
+[[ConsciousIntegration]]
 [[CrossDomain_Integration]]
 [[DARPA_ProjectManager_Model]]
 [[Deep_Network_Architecture_Invariant]]

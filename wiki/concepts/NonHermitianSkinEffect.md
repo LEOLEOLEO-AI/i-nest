@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Baseline_Draft_Status]]
 [[Complex_System_Theory]]
+[[CriticalWeightNormBoundary]]
 [[CrossLayer_SignalRouting]]
 [[DirtyWeylSemimetal]]
 [[DisorderedNetworkInterconnect]]

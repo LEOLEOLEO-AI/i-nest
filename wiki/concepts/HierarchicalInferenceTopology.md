@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Bioavailability_Enhancement]]
 [[CST计量仪]]
 [[CognitiveSupportTopology]]
+[[CollectiveConsensus]]
 [[CollectiveDynamics]]
 [[Complex_System_Theory]]
 [[Constructed_Reality_Interconnect]]

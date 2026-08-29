@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[Criticality_Based_Feature_Extraction]]
 [[Dynamic_Expert_Fusion]]
+[[EpidemicThreshold]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Interconnect_Routing]]
 [[InterconnectionStrengthEncoding]]

@@ -24,10 +24,13 @@ Auto-extracted concept from raw material compilation.
 [[4H_SiC_SubstrateProcessing]]
 [[AI_Faculty_Forum_2026]]
 [[Advanced_Packaging_for_Space]]
+[[Analog_InMemory_Processing]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Complex_System_Theory]]
 [[EquilibriumTreePacking]]
 [[EvolutionaryTopologySearch]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[Network_on_Chip_communication_architecture]]
@@ -42,7 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_NPU_NoC_Integration]]
 [[TCC]]
 [[iNEST]]
-[[iNEST_Wafer]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

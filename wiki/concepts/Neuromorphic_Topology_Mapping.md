@@ -29,6 +29,8 @@ Auto-extracted concept from raw material compilation.
 [[CorticalWaveRouting]]
 [[DataDrivenCellularAxis]]
 [[Hardware_Accelerated_SNN]]
+[[InNetworkNeuromorphicEmergence]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Memristor_Synapse]]
 [[MetaFAIR_ArchitectureDiscovery]]

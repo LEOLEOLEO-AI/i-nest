@@ -38,10 +38,11 @@ Auto-extracted concept from raw material compilation.
 [[Residual_Connection_Removal]]
 [[SDI_Bond]]
 [[SDI_TCC_iNEST_Interconnect]]
+[[SDSoW]]
 [[TCC]]
+[[TCC_iNEST_Interconnect]]
 [[analog computation]]
 [[iNEST]]
-[[iNEST_Interconnect]]
 [[neuromorphic interconnect]]
 
 ## Sources

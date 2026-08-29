@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Online_Continual_Learning]]
 [[Parameter_Reconstruction]]
 [[PowerLawScaling]]
+[[QuantumProbabilityFlowHebbian]]
 [[RealTimeImageToEventConversion]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]

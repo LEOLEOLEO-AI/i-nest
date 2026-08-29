@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[AnteHoc_Explainability]]
 [[BifurcationCandidateSet]]
 [[BifurcationCandidate]]
+[[CST计量仪]]
 [[CompactBosonDuality]]
 [[Complex_System_Theory]]
 [[ContactOpportunityExploitation]]
@@ -47,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[iNEST]]
 [[涌现]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

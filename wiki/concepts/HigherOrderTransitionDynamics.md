@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[PhotoInducedCurrent]]
 [[ReproducibleReservoirComputing]]
 [[Reservoir_Computing]]
+[[ShortTermMemoryReservoir]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
 

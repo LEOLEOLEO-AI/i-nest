@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[EmergentOrder]]
 [[Emergent_Intelligence_Threshold]]
+[[EventCameraActionRecognition]]
 [[Field_Compression_for_InNetwork_Inference]]
 [[Free_Energy_Principle_Network]]
 [[FunctionalInterfaceBlock]]

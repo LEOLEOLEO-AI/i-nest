@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[SuperparamagneticSwitchingRate]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[TemporalDynamicsModeling]]
 [[Temporal_Dynamics_Integration]]
 [[iNEST]]
 

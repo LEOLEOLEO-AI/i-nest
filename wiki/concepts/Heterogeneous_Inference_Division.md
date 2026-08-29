@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Network_Architecture_Invariant]]
 [[EfficientDeepLearning]]
 [[EmergentIntelligence_Spacetime]]
+[[Flow_Network_Memory]]
 [[Heterogeneous_Integration]]
 [[InMateriaComputing]]
 [[In_Package_Optical_Interconnect]]
@@ -50,7 +51,6 @@ Auto-extracted concept from raw material compilation.
 [[Topology_Centric_Computing]]
 [[causal emergence]]
 [[iNEST]]
-[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

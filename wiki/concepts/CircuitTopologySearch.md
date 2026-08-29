@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[P_Paradigm]]
 [[TCC]]
+[[TopologicalDataCompression]]
 [[涌现]]
 
 ## Sources

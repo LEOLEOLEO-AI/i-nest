@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetwork_Topological_Reservoir]]
 [[Intelligence_Emergence]]
 [[LLM_Heuristic_Pruning]]
+[[Memory_Capacity_Maximization]]
 [[Memristive_Topology]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]

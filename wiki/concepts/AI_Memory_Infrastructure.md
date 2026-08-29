@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[BisectionBandwidthBound]]
 [[BisectionBandwidthMetric]]
 [[ChipletTopologyAwareness]]
+[[Chiplet_Based_Trusted_Hardware]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
 [[Complex_System_Theory]]

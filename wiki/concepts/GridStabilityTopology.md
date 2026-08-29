@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Resilient_Satellite_Mesh]]
 [[SelfMotivatedGrowth]]
 [[Self_Organized_Criticality]]
+[[Stigmergic_RL]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]

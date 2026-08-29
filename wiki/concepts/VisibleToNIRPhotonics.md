@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[ModeCouplingSuppression]]
 [[NetworkHysteresis]]
 [[Network_Topology_Design]]
+[[PhononicCrystalMicrowaveCoupling]]
 [[TCC]]
 [[chiplet interconnect]]
 [[涌现]]

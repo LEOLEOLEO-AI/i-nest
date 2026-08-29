@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Izhikevich_NeuronModel]]
 [[Less is more，大脑“低能耗”并“高效响应”的秘诀：模块化]]
+[[Loihi2_OnChip_Learning]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]

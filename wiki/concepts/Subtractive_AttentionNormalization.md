@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[FlexibilityThreshold]]
 [[Heterogeneous_Integration]]
 [[HigherOrderStochasticProcess]]
+[[Hypergraph_Label_Noise]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]

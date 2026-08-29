@@ -30,7 +30,6 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
-[[PhysicalReservoirDynamics]]
 [[PhysicalReservoir]]
 [[Physical_Reservoir_Substrate]]
 [[ReproducibleReservoirComputing]]
@@ -38,8 +37,8 @@ Auto-extracted concept from raw material compilation.
 [[ReservoirTemporalDynamics]]
 [[Reservoir_Computing]]
 [[iNEST]]
-[[reservoir computing architecture]]
 [[reservoir computing]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

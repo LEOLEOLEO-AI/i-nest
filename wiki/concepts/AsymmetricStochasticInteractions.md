@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN动力学]]
 [[ActiveMatterSubstrate]]
 [[Annealing_Based_Decoder]]
+[[AttentionLikeHebbianMechanism]]
 [[AttentionMap_DifferenceResidual]]
 [[Complex_System_Theory]]
 [[HigherOrderPublicGoodsGame]]

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[ErrorSuppressedPipeline]]
 [[Hardware_Accelerated_SNN]]
+[[InNetworkNeuromorphicEmergence]]
 [[In_Network_Neuromorphic]]
 [[Intelligence_Emergence]]
 [[Loihi2_OnChip_Learning]]

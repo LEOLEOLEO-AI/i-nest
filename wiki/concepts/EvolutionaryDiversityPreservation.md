@@ -35,6 +35,8 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[CollectiveSpikingDynamics]]
 [[CrossLayer_SignalRouting]]
+[[EventDrivenModularArchitecture]]
+[[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Organization]]

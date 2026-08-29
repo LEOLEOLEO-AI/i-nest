@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Abilities]]
 [[Emergent_Intelligence_Threshold]]
+[[EventCameraActionRecognition]]
 [[Free_Energy_Principle_Network]]
 [[FullSpectrum_DomainIntegration]]
 [[FunctionalInterfaceBlock]]
@@ -49,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

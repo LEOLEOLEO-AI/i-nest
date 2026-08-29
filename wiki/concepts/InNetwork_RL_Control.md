@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Deep_Brain_Stimulation]]
 [[AnisotropicSymmetryBreaking]]
 [[ArtificialProprioception]]
+[[Attractor_State_Interpolation]]
 [[BurstGatedRouting]]
 [[CirculateFiringNeuron]]
 [[CognitiveFeedbackLoop]]

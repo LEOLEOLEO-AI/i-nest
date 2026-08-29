@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Connectome]]
 [[DataProvenanceIntegrity]]
+[[DrivenDissipativeDynamics]]
 [[FrozenRateOperator]]
 [[InNetworkNeuromorphicSimulation]]
 [[Intelligence_Emergence]]

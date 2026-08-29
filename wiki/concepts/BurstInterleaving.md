@@ -37,9 +37,11 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
 [[PacketRoutingForFPGAs]]
+[[SpikingNeuralNetworkTopologyMapping]]
 [[SpikingNeuralNetworkTopology]]
 [[Spiking_Neural_Network]]
 [[WirelessSplitComputing]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

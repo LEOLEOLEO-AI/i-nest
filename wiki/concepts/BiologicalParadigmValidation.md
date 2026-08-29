@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Advanced_Packaging_for_Space]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Bipartite_Interconnect]]
+[[CircuitTopologySearch]]
 [[Closed_Loop_Neuromodulation]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]

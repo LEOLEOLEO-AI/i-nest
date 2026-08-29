@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Cross_Node_Event_Propagation]]
 [[Distributed_Spike_Communication]]
+[[EventCameraActionRecognition]]
 [[FirstPrinciples_Derivation]]
 [[Heterogeneous_Integration]]
 [[Memristive_Interconnect]]

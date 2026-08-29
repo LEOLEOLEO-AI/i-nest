@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
 [[CongestionAwareNoCPlacement]]
+[[Environmental_Capability_Context]]
 [[FullDimensionalDefinableInterconnect]]
 [[FunctionalHardwareComposition]]
 [[Heterogeneous_Integration]]

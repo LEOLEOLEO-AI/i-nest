@@ -12,7 +12,7 @@ auto: true
 **Last updated**: 2026-08-04
 
 ## Definition
-A computational paradigm that uses emerging CMOS memristor devices as the nonlinear reservoir in a reservoir computing framework, enabling temporal signal processing without extensive training. This bridges neuromorphic hardware and topology-centric computing by providing a physical substrate for in-network, low-power temporal prediction tasks like branch prediction in pipelined processors.
+A computational paradigm that uses emerging CMOS_Memristor_Devices as the nonlinear reservoir in a reservoir computing framework, enabling temporal signal processing without extensive training. This bridges neuromorphic hardware and topology-centric computing by providing a physical substrate for in-network, low-power temporal prediction tasks like branch prediction in pipelined processors.
 
 ## Context
 Auto-extracted concept from raw material compilation.
@@ -25,12 +25,11 @@ Auto-extracted concept from raw material compilation.
 [[AnomalousSpinTransport]]
 [[Attention_Residuals]]
 [[BoundaryObject_Abstraction]]
-[[CMOS memristor devices]]
 [[CMOS_Memristor_Devices]]
 [[ComputationEfficientDeepLearning]]
 [[DARPA_ProjectManager_Model]]
+[[Deep_Network_Architecture_Invariant]]
 [[EfficientDeepLearning]]
-[[Emerging_CMOS_Memristor]]
 [[Fixed_Reservoir_Unitary]]
 [[GeneralizedReadoutMap]]
 [[InNetworkSignalRecovery]]
@@ -49,7 +48,6 @@ Auto-extracted concept from raw material compilation.
 [[Stochastic_LIF_Inference]]
 [[branch prediction in pipelined processors]]
 [[branch prediction]]
-[[emerging CMOS memristor devices]]
 [[emerging CMOS memristor]]
 [[memristor device]]
 [[pipelined processor]]

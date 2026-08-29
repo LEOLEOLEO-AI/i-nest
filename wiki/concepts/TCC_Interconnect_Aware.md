@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
+[[DataCenter_Chip_Logic_Compression]]
 [[GNN图神经网络，非结构化数据分析利器！]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

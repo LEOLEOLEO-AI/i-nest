@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[EdgeCloudDistributedIntelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[EnergyEfficiencyAI]]
+[[GenerationalAITransition]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]

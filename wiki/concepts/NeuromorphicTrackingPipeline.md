@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenAsynchronousRouting]]
 [[EventDrivenRiskAssessment]]
 [[EventDrivenTracking]]
+[[Event_Driven_Architecture]]
 [[Event_Driven_Communication]]
 [[Interconnect_Routing]]
 [[Memristive_Interconnect]]
@@ -44,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[TCC]]
+[[TCC_SpikingIntegration]]
 [[iNEST]]
 [[neuromorphic sensing]]
 

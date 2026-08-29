@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AcademicDevelopmentCoCreation]]
 [[AlternativeBridgingModels]]
 [[Avalanche_Dynamics]]
+[[Bosonic_SPT_Phases]]
 [[CoupledOscillatorReservoir]]
 [[Crystallized_Neural_Manifolds]]
 [[DivergentHigherAreaRanking]]

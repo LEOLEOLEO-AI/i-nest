@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[BackpropagationFreeLearning]]
 [[Chip_Floorplanning]]
 [[ChipletTrafficAwareScheduling]]
+[[Chiplet_Based_Trusted_Hardware]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
 [[Heterogeneous_Integration]]

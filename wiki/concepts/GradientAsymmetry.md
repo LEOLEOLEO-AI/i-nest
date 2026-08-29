@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AcceleratorReconfigurationOverhead]]
 [[Closed_Loop_SNN_Stability_Boundary]]
 [[CrashHotspotForecasting]]
+[[DeeplySupervisedSNN]]
 [[DivergentHigherAreaRanking]]
 [[HardwareAware_DesignSpace]]
 [[Nonlinear_Gain]]

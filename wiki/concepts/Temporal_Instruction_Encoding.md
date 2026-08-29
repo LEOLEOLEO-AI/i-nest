@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[STDP_Plasticity]]
 [[Spike_timing_dependent_plasticity]]
+[[Spike_timing_dependent_plasticity_learning_rule]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[neuromorphic computing]]

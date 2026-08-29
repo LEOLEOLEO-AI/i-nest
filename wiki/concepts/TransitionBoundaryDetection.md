@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Agent_Workflow_Automation]]
 [[Barrier_Hierarchy]]
 [[BifurcationCandidateSet]]
+[[CST计量仪]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
@@ -43,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[涌现]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

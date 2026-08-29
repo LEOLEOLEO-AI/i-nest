@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Resilient_Sensing_Comms_Network]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[涌现]]

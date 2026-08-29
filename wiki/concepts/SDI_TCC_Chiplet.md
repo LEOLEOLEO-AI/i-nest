@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Renormalization_Group_Convergence]]
 [[SDI_Bond]]
+[[SDI_TCC_Chiplet_Interconnect]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[Second_Curve_Wafer_Industry_Platform]]
@@ -58,7 +59,6 @@ Auto-extracted concept from raw material compilation.
 [[TopologyProgramming]]
 [[chiplet interconnect]]
 [[iNEST]]
-[[iNEST_Wafer]]
 [[residual connection]]
 [[temporalComplexity]]
 

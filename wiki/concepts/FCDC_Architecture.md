@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SneakPathCurrentSuppression]]
 [[TCC]]
 [[VaCoAl]]
 [[analog computation]]

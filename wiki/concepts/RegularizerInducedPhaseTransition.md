@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Avoided_Criticality]]
 [[Catastrophic_Forgetting_Mitigation]]
 [[Cognitive_Relapse_Decoupling]]
+[[Contested_Priors_Architecture]]
 [[Critical_Region_Extension]]
 [[Criticality]]
 [[DTGA]]

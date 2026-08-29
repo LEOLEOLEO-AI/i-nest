@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[DataDrivenCellularAxis]]
 [[Emergent_Intelligence_Threshold]]
+[[EnsembleSparsity]]
 [[Hardware_Accelerated_SNN]]
 [[InNetworkAgentRewiring]]
 [[In_Network_Neuromorphic]]
@@ -48,7 +49,6 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TemporalDynamicsModeling]]
 [[iNEST]]
-[[iNEST_Neuromorphic_Integration]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

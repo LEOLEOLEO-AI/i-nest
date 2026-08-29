@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Habituation_Dynamics]]
 [[Intelligence_Emergence]]
 [[InterDomain_Synergy]]
+[[JunctionCenteredRouting]]
 [[LatencyGradientDescent]]
 [[MolecularTargetSignaling]]
 [[Network_Topology_Design]]

@@ -1,5 +1,5 @@
 {
-  "last_compile": "2026-08-29",
+  "last_compile": "2026-08-30",
   "processed_files": {
     "imports/00_教材编写规划_两本配套.md": 1785465203.5583253,
     "imports/2026-06-23-comprehensive_diagnosis.md": 1785465203.560326,
@@ -1122,7 +1122,17 @@
     "00_Inbox/Nature 论文拆解：丘脑—脑干吸引子网络如何驱动历史偏向决策.md": 1787922012.7835398,
     "00_Inbox/关于承接军事智能生态基座网络方向任务的汇报.md": 1787922012.7945764,
     "00_Inbox/生物进化中的关键认知跃迁与神经系统发展.md": 1787922012.80665,
-    "00_Inbox/面向无人作战的晶上云系统项目论证与立项推进会议.md": 1787922012.824083
+    "00_Inbox/面向无人作战的晶上云系统项目论证与立项推进会议.md": 1787922012.824083,
+    "00_Inbox/_pipeline_insights/2026-08-29_arXiv_Beyond Edge Cuts Activity-Weighted Multicast Hypergraph Mapp.md": 1787956372.9601002,
+    "00_Inbox/_pipeline_insights/2026-08-29_arXiv_MeMark Membrane-Space Watermarking for Spiking Neural Networ.md": 1787956349.1101847,
+    "00_Inbox/_pipeline_insights/2026-08-29_arXiv_MeshReduce-U Compiler-Guided Communication Reduction for Irr.md": 1787956270.127353,
+    "00_Inbox/_pipeline_insights/2026-08-29_arXiv_Metallogenic quantum criticality Fermi surface nucleation at.md": 1787956298.8886719,
+    "00_Inbox/_pipeline_insights/2026-08-29_arXiv_Spectral Fingerprints of Gauge Theories on a Quantum Compute.md": 1787956298.8734417,
+    "00_Inbox/_pipeline_insights/2026-08-29_arXiv_Study of Resistive Switching Dynamics and Memory States Equi.md": 1787956349.0951774,
+    "00_Inbox/_pipeline_insights/2026-08-29_arXiv_Syn2Logic End-to-End Neuromorphic Design Automation.md": 1787956349.1279776,
+    "00_Inbox/Hot Chips 2026 深度解读：AI 算力瓶颈从单芯片转向系统级互连.md": 1788013224.6652064,
+    "00_Inbox/iNEST落地方案.md": 1788013224.6802738,
+    "00_Inbox/Nature Electronics 1M1T1R 人工神经元深度解析：三个元件如何同时实现六种神经动态.md": 1788013224.6958625
   },
   "concept_graph": {}
 }

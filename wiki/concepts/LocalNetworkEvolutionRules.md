@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[EdgeIoTEnergyAwareness]]
 [[Intelligence_Emergence]]
 [[KernelRegimeScaling]]
+[[L2_L3_Reconfigurability]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[Parallelized_Hierarchical_Connectome]]

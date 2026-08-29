@@ -34,9 +34,12 @@ Auto-extracted concept from raw material compilation.
 [[CircadianGateModulation]]
 [[CollectiveStateResilience]]
 [[Coupling_Strength_Encoding]]
+[[ErrorSuppressedPipeline]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
+[[SNN]]
+[[Spiking_Neural_Network]]
 [[iNEST]]
 [[reservoir computing]]
 

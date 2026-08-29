@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveDensityControl]]
 [[AdaptiveFrequencyResonateAndFire]]
 [[AdaptiveSTDP]]
+[[AnisotropicGaussianPrimitives]]
 [[Contested_Priors_Mechanism]]
 [[Cross_Network_Representation_Transfer]]
 [[Edge_AI_Acquisition_Consolidation]]

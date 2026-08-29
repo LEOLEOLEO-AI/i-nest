@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[ContactOpportunityExploitation]]
 [[DeepParsing]]
 [[Deep_Analysis_Framework]]
+[[DerivativeLineage]]
 [[Intelligence_Emergence]]
 [[IntervalAnalysis]]
 [[Network_Topology_Design]]
@@ -49,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[complex system]]
 [[涌现]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

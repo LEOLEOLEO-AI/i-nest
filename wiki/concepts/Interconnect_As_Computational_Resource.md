@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
+[[DataCenter_Chip_Logic_Compression]]
 [[ERI_2_0_Strategy]]
 [[GroupWise_DragonflyPlus]]
 [[Intelligence_Emergence]]

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[DTGA]]
 [[DifferentiableRasterizationPipeline]]
 [[Distributed_Spike_Communication]]
+[[Environmental_Capability_Context]]
 [[Heterogeneous_Integration]]
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]

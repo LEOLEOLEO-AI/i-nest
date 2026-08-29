@@ -26,7 +26,6 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[GradientBasedLearningLocalization]]
 [[In_Network_Neuromorphic]]
-[[In_Network_Neuromorphic_Acceleration]]
 [[In_Package_Neuromorphic_Integration]]
 [[NeuromorphicAttentionScaling]]
 [[Neuromorphic_Acceleration]]
@@ -38,7 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]
-[[iNEST_Interconnect]]
+[[iNEST_Neuromorphic_Integration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

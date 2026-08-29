@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration_Route]]
 [[Chiplet_based_heterogeneous_integration]]
 [[Cognitive_Relapse_Architecture]]
+[[CommunicationHeterogeneity]]
 [[Complex_System_Theory]]
 [[Evolutionary_Computability]]
 [[Free_Energy_Principle_Network]]

@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[ConsciousIntegration]]
 [[Criticality]]
+[[DendriticReservoirState]]
 [[Emergent_Intelligence_Threshold]]
 [[Epithelial_Barrier_Integrity]]
 [[Heterogeneous_Integration]]

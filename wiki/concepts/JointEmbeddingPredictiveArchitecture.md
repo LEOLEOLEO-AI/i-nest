@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[ComputationEfficientDeepLearning]]
 [[Critical_Exponent_Analysis]]
+[[DARPA_BioStrategic_Reshaping]]
 [[Deep_Network_Architecture_Invariant]]
 [[EfficientDeepLearning]]
 [[EmergentIntelligence_Spacetime]]

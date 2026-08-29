@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstCoding]]
 [[Complex_System_Theory]]
 [[Contested_Prior_Resolution]]
+[[Cytokine_Feedback_Loops]]
 [[DelayCodedWorkingMemory]]
 [[DiscreteSTDP]]
 [[Droop_Triggered_Workload_Throttling]]
@@ -40,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[Temporal_Computing_Paradigm]]
 [[iNEST]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

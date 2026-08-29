@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[EmergentAttractorStability]]
 [[Emergent_Intelligence_Threshold]]
 [[Endocrine_Modulated_Network_State]]
+[[EventDrivenAttentionMasking]]
 [[EventDrivenSpectralProcessing]]
 [[ITP_STDP]]
 [[InNetworkAgentRewiring]]
@@ -51,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

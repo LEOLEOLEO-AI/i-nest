@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Complexity_Coordination_Layer]]
 [[Complexity_Emergence_Engineering]]
+[[DataDrivenCellularAxis]]
 [[Distributed_Spike_Communication]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]

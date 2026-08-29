@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[OptimalGeneralisationNearInterpolation]]
+[[SpikingNeuralNetworkTopologyMapping]]
 [[SpikingNeuralNetworkTopology]]
 [[Spiking_Neural_Network]]
 [[TCC]]

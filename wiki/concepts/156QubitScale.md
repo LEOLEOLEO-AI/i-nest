@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
+[[SDDE_Attractor_Emergence]]
 [[ScaleFreeNetwork]]
 [[Spiking_Neural_Network]]
 [[SuperparamagneticSwitchingRate]]

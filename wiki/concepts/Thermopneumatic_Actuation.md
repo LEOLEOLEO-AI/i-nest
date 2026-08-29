@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[CST计量仪]]
 [[CognitiveSupportTopology]]
+[[CollectiveConsensus]]
 [[Complex_System_Theory]]
 [[Constructed_Reality_Interconnect]]
 [[ERI_2_0_Strategic_Framework]]

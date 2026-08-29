@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Soft_Biomolecular_Network]]
 [[Synaptic_Plasticity]]
+[[Syncytial_Mesh]]
 [[TCC]]
 [[iNEST]]
 [[涌现]]

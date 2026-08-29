@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[AdaptiveSTDP]]
 [[AdaptiveSpeechToSpikeEncoding]]
+[[AnisotropicGaussianPrimitives]]
 [[AnomalousSpinTransport]]
 [[Architectural_Conditioning]]
 [[Contested_Prior_Resolution]]

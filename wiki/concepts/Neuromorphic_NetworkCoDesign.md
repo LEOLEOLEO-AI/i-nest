@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[FastSlow_Dynamics]]
 [[Free_Energy_Principle_Network]]
 [[GlobalInformationDominance]]
+[[HierarchicalInferenceTopology]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]

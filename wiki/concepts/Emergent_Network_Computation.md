@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Closed_Loop_Neuromodulation]]
 [[Complex_System_Theory]]
 [[ContinualLearningOnNeuromorphic]]
+[[ContinuousGameOfLife]]
 [[Intelligence_Emergence]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Neuromorphic_Computing]]

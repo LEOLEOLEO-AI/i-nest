@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[DiscreteContinuous_Unification]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Planning_Architecture]]
+[[NoiseDrivenBackpropReconstruction]]
 [[SNN]]
 [[Self_Organized_Criticality]]
 [[SpikeDrivenMOT]]

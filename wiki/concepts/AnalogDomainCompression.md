@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_Theory_V27_FINAL]]
 [[CST计量仪]]
 [[Chiplet_Heterogeneous_Integration]]
+[[CommunicationHeterogeneity]]
 [[Complex_System_Theory]]
 [[Criticality]]
 [[Cryogenic_Syndrome_Compression]]
@@ -51,9 +52,9 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
+[[TCC_iNEST_Interconnect]]
 [[complex system]]
 [[iNEST]]
-[[iNEST_Interconnect]]
 [[residual connection]]
 
 ## Sources

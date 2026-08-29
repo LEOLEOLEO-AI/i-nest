@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Resilience_ByTopology]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
+[[SDSoW_Strategic_Planning]]
 [[Spatiotemporal_Synergy_Complexity]]
 [[TCC]]
 [[analog computation]]

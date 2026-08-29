@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect_Topology]]
 [[CompactFieldVariable]]
 [[Complex_System_Theory]]
+[[DynamicServiceComposition]]
 [[ElectromigrationReliability]]
 [[ErdosRenyiGraphEnergyLandscape]]
 [[ErdosRenyi_Graph_Energy_Surface]]

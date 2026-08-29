@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[SpikeRateResolution]]
 [[Spiking_Neural_Network]]
+[[TemperatureReplicaExchange]]
 [[iNEST]]
 [[spiking neural network]]
 

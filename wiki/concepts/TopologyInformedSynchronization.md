@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Environmental_Capability_Context]]
 [[ErrorSuppressedPipeline]]
 [[FPGABasedNeuromorphic]]
+[[FirstPrinciples_Derivation]]
 [[Heterogeneous_Integration]]
 [[HierarchicalNetworkPartitioning]]
 [[MachineLearningNanomaterialDiscovery]]

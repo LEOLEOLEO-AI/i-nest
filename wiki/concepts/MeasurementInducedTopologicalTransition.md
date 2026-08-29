@@ -26,17 +26,21 @@ Auto-extracted concept from raw material compilation.
 [[AndersonTransition]]
 [[BigBrainCellularAxis]]
 [[Compact_Boson_Dynamics]]
+[[Complex_System_Theory]]
 [[Core_Spacetime_Tensor]]
 [[Coupling_Topology]]
 [[Deep_Thermalisation]]
 [[DrivenDissipativeDynamics]]
 [[Fixed_Cost_Dominance]]
 [[HigherOrderTransitionKernel]]
+[[Intelligence_Emergence]]
 [[Intelligent_Computing_Infrastructure]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Organization]]
+[[RestrictedConnectivityTopology]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

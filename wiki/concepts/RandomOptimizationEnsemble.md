@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[SelfOrganization]]
+[[SiliconPhotonicsNetwork]]
 [[TCC]]
 [[涌现]]
 

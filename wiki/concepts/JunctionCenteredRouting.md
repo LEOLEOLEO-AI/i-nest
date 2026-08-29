@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Accessibility_Plasticity]]
 [[AdaptiveFunctionalTopology]]
 [[AdiabaticModeEvolution]]
+[[AdjointWaveControl]]
 [[AdsorptionBiosorptionHybrid]]
 [[Complex_System_Theory]]
 [[EvolvingArchitectureDynamics]]

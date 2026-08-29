@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Izhikevich_NeuronModel]]
 [[LatencyCoding]]
 [[Memristor_Synapse]]
+[[Meta_Residual_Learning]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicHardware]]

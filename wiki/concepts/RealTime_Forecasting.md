@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[EdgeCloudDistributedIntelligence]]
 [[Emergent_Intelligence_Threshold]]
+[[EnergyEfficiencyAI]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]

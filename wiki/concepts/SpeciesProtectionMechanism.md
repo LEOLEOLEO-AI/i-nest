@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[EdgeIoTEnergyAwareness]]
 [[Interconnect_Routing]]
 [[InterconnectionStrengthEncoding]]
+[[LowRankPerturbation]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[QuantumCoherenceSpikeCoupling]]

@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Network_Architecture_Invariant]]
 [[EfficientDeepLearning]]
 [[EnergyOptimizedManycoreArchitecture]]
+[[GraphBasedSemanticRouting]]
 [[Heterogeneous_Integration]]
 [[Independent_EdgeAI_Player_Endgame]]
 [[Intelligence_Emergence]]

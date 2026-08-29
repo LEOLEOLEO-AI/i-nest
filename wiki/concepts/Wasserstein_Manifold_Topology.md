@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[ChipletTrafficAwareScheduling]]
 [[Chiplet_Based_Trusted_Hardware]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_NoC_Interconnect]]
 [[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]
 [[Heterogeneous_Integration]]

@@ -44,6 +44,8 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[SDDE_Attractor_Emergence]]
 [[STDP_Plasticity]]
+[[STDP_iNEST_Memristive]]
+[[Synaptic_Plasticity]]
 [[complex system]]
 [[iNEST]]
 [[neuromorphic computing]]

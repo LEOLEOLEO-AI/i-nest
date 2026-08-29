@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[3DHI_Stacking]]
 [[AINext_Initiative]]
+[[AI_Application_Scenario_Reconstruction]]
 [[AgenticServiceManifesto]]
 [[Allreduce_Latency_Probe]]
 [[AnalogDomainCompression]]

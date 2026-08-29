@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3DHI_Chiplet_Integration]]
 [[AINext_Initiative]]
 [[AI_Faculty_Forum_2026]]
 [[ActivityAvalanche]]

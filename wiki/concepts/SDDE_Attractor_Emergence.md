@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_computing]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
+[[SDI_STDP]]
 [[SNN]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]

@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[AI-ML — 全景导航 (Map of Content)]]
 [[Architectural_Conditioning]]
 [[CST计量仪]]
@@ -29,7 +30,6 @@ Auto-extracted concept from raw material compilation.
 [[EmergentTaskDecomposition]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
-[[Emerging_CMOS_Memristor]]
 [[Epithelial_Barrier_Integrity]]
 [[Fading_Memory_Property]]
 [[FirstPrinciples_AI]]
@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[MasterEquationRG]]
 [[MeanFieldSpinGlass]]
+[[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[QuantumReservoirMemoryCapacity]]
 [[Readout_Weight_Training]]
@@ -47,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[complex system]]
 [[emergent computation]]
+[[emerging CMOS memristor]]
 [[iNEST]]
 [[智能涌现]]
 [[涌现]]

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[DendriticReservoirState]]
 [[Free_Energy_Topology_Mapping]]
 [[FunctionalInterfaceBlock]]
+[[FunctionalInterfaceBlocks]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

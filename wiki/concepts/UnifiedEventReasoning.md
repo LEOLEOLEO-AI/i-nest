@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Trigger]]
 [[SNN]]
 [[Self_Organized_Criticality]]
+[[SequenceAwareSpikingDetection]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 [[spiking neural network]]

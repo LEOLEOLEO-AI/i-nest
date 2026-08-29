@@ -26,9 +26,9 @@ Auto-extracted concept from raw material compilation.
 [[AnalogInMemoryComputing]]
 [[Analog_Synaptic_Weighting]]
 [[Architectural_Conditioning]]
+[[Attention_Residuals]]
 [[Branch_Prediction_Reservoir]]
 [[DARPA_ProjectManager_Model]]
-[[Emerging_CMOS_Memristor]]
 [[EulaminateOverrepresentation]]
 [[Fixed_Reservoir_Unitary]]
 [[FractureMechanism]]
@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[branch prediction]]
+[[emerging CMOS memristor]]
 [[pipelined processor]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

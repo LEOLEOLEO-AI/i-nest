@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Capability_Forging_Pipeline]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
+[[CriticalityAwareTopology]]
 [[Criticality]]
 [[Generalized_Synchronization_Bond]]
 [[Heterogeneous_Integration]]

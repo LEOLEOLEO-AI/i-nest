@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AsymmetricStochasticInteractions]]
 [[AttentionMap_DifferenceResidual]]
 [[Biomanufacturing_Control_Loop]]
+[[Bosonic_SPT_Phases]]
 [[Complex_System_Theory]]
 [[ConnectivityDerivedReservoir]]
 [[Contested_Prior_Resolution]]

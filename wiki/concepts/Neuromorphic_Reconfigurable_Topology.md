@@ -39,10 +39,11 @@ Auto-extracted concept from raw material compilation.
 [[SDI_iNEST_Encapsulation]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
+[[STDP_Plasticity]]
 [[TCC]]
 [[ThirdWaveAI]]
 [[iNEST]]
-[[iNEST_Interconnect]]
+[[iNEST_Interconnect_Abstraction]]
 [[涌现]]
 
 ## Sources

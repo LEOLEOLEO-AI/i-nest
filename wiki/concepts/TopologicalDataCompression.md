@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[MemoryDrivenRouting]]
 [[Memristive_Interconnect]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]

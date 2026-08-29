@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Minimization_Interconnect]]
 [[Haltability]]
 [[Intelligence_Emergence]]
+[[Interconnect_Scaling]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

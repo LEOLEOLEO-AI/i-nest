@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[NonEquilibriumComputing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SelfOrganizedOscillatoryLearning]]
+[[Syncytial_Information_Integration]]
 [[complex system]]
 [[iNEST]]
 [[涌现]]

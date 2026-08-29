@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[LocalInteractionDrivenReconfiguration]]
 [[Local_Approximation_Dynamics]]
 [[LossSpikePhenomenon]]
 [[Memristive_Topology]]

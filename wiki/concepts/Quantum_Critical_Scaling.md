@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[ArbitraryWavefunctionConfigurability]]
 [[CST_Equation]]
 [[ChiralTopologicalMatter]]
+[[ComplexValuedSNN]]
 [[Complex_System_Theory]]
 [[DelayParameterSpaceDecomposition]]
 [[Environmental_Capability_Context]]

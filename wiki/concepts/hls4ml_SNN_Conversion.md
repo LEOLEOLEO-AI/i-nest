@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[CollectiveSpikingDynamics]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
+[[CrossLayer_SignalRouting]]
 [[Deep_SNN_Trainability]]
 [[Emergent_Intelligence_Threshold]]
 [[EventBasedMotionDeblurring]]

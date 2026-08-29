@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AI-ML — 全景导航 (Map of Content)]]
 [[AdaptiveDensityControl]]
 [[CST计量仪]]
+[[Chip-Hardware — 全景导航 (Map of Content)]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Cognitive_Relapse_Architecture]]

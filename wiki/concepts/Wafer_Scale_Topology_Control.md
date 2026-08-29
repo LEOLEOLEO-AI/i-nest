@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Topology]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
+[[Second_Curve_Wafer_Industry_Platform]]
 [[SoftwareDefined_NoC_Routing]]
 [[TCC]]
 [[WaferScaleTopologyCentricComputing]]
@@ -46,7 +47,6 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Topology]]
 [[chiplet interconnect]]
 [[iNEST]]
-[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

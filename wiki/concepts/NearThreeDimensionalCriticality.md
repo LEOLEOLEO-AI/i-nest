@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[InformationCompressionAtCriticality]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
+[[NonEquilibriumPhaseTransition]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Self_Organized_Criticality]]
 [[Synaptic_Plasticity]]

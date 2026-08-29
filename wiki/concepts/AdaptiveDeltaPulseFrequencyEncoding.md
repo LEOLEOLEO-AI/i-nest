@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[ActivityAvalanche]]
 [[Activity_Energy_Tradeoff]]
 [[AdaptiveAsymmetricSurrogateGradient]]
+[[AdaptiveAsymmetricSurrogateGradients]]
 [[AnisotropicGaussianPrimitives]]
 [[Avoided_Criticality]]
 [[BioInspired_Interception_Control]]

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[AstrocyteInspiredRepair]]
 [[AutogradCompatibleSpiking]]
+[[AutomatedQuantizationFramework]]
 [[BiSpikCLM]]
 [[BrainScaleTopologyExploitation]]
 [[Brain_Dynamics_Learning]]

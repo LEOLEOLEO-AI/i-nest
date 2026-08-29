@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[CompactnessRegularizedFitness]]
 [[ContinualLearningOnNeuromorphic]]
+[[Continuous_Spatiotemporal_State_Propagation]]
 [[ConvolutionalRestrictedHopfieldNetwork]]
 [[DelayCodedWorkingMemory]]
 [[Emergent_Intelligence_Threshold]]

@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
+[[iNEST_Interconnect_Topology]]
 [[涌现]]
 
 ## Sources

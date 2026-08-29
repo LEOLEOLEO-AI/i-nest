@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Beyond_Moore_Packaging_Strategy]]
 [[Bosonic_SPT_Phases]]
 [[Branch_Prediction_Reservoir]]
+[[CouplingMatrixRecovery]]
 [[Crystallized_Neural_Manifolds]]
 [[MesonSpectra]]
 [[Network_Topology_Design]]

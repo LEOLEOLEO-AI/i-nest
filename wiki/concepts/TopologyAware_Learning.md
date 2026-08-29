@@ -44,6 +44,8 @@ Auto-extracted concept from raw material compilation.
 [[GraphBasedSemanticRouting]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[Interconnect_Routing]]
+[[MemoryDrivenRouting]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]

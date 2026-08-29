@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[DevelopmentalNeuromorphicAdaptation]]
 [[DynamicTopologyMapping]]
+[[ERI_2_0_Strategic_Framework]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Topology_Adaptation]]
 [[FPGA_Neuromorphic_Architectures]]

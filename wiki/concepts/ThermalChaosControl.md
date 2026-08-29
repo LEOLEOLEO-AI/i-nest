@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Topology_Mapping]]
 [[Intelligence_Emergence]]
 [[MetaHardwareAbstraction]]
+[[Microsecond_Link_Reconfiguration]]
 [[Network_Topology_Design]]
 [[Reservoir_Computing]]
 [[SDI_Bond]]

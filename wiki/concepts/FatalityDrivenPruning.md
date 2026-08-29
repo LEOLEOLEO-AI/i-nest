@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Ant_Swarm_Functional_Control]]
 [[Cognitive_Relapse_Decoupling]]
 [[CollectiveStateTopology]]
+[[CommunicationAwareComputeRelocation]]
 [[Network_Topology_Design]]
 [[TCC]]
 

@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[Self_Organized_Criticality]]
 [[entanglement phase transition]]
+[[monitored quantum circuits]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

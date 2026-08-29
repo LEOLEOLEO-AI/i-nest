@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[MoE_Routing]]
 [[Network_Topology_Design]]
 [[Routing_Color_Bits]]
+[[SpectralGapMoE]]
 [[SuperparamagneticSwitchingRate]]
 [[Synaptic_Plasticity]]
 [[TCC]]

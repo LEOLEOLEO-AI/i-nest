@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[HybridCouplingThermosensitiveNetwork]]
 [[Intelligence_Emergence]]
+[[JunctionCenteredRouting]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

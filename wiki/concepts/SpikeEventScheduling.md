@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[ST_SNN]]
+[[SpikeEncodingLatency]]
 [[SpikeEncoding]]
 [[Spike_Encoding_of_fMRI]]
 [[Spike_Temporal_Dynamics]]

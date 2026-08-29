@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[FastSlow_Dynamics]]
 [[Free_Energy_Principle_Network]]
+[[GlobalInformationDominance]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

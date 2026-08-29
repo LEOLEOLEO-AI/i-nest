@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[ERI_2_0_Framework]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[NCL神经计算定律详解]]
 [[National_Innovation_Center_Framework]]
 [[National_Mesoscale_Innovation_Center]]
 [[Network_Topology_Design]]

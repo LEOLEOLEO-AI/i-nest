@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[IntrinsicTimingSTDP]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[PhaseLockedTopologyMapping]]
 [[SDI_Bond]]
 [[SDI_iNEST_Interconnect]]
 [[STDP_Plasticity]]
@@ -39,8 +40,6 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[ThresholdBasedSpikeEncoding]]
 [[iNEST]]
-[[iNEST_Interconnect]]
-[[iNEST_Neuromorphic_Integration]]
 [[temporal coding]]
 
 ## Sources

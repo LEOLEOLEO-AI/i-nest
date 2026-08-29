@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossLayer_SignalRouting]]
 [[Emergent_Intelligence_Threshold]]
 [[EnergyEfficientNeuromorphic]]
+[[EventDrivenModularArchitecture]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[LossSpikePhenomenon]]

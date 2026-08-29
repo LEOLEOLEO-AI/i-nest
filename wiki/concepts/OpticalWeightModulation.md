@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Control_Field_Framework]]
 [[Crossbar_Programming]]
 [[DevelopmentalNeuromorphicAdaptation]]
+[[Developmental_Computing]]
 [[Dimensionality_Modularity_Tradeoff]]
 [[DynamicCentralitySteering]]
 [[Dynamic_Expert_Fusion]]

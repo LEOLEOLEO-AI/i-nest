@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[FisherOrthogonalMemory]]
 [[Free_Energy_Principle_Network]]
 [[FunctionalInterfaceBlock]]
+[[FunctionalInterfaceBlocks]]
 [[Heterogeneous_Integration]]
 [[IntegrationProspectsForVLSI]]
 [[Intelligence_Emergence]]

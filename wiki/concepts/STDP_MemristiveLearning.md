@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[RenormalizationGroup_ScalingLaws]]
 [[SDI_Bond]]
 [[SDI_STDP]]
+[[SDI_STDP_Bond]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]
 [[SpatiotemporalComplexityIndex]]

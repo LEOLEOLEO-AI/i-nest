@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[DiscreteContinuous_Unification]]
 [[DualDrivenHybridNetwork]]
+[[EEG_Criticality]]
 [[EventBasedMotionDeblurring]]
 [[Neuromorphic_Computing]]
 [[SNN]]

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Agent_Workflow_Automation]]
 [[BifurcationCandidateSet]]
 [[BifurcationCandidate]]
+[[CST计量仪]]
 [[CompactBosonDuality]]
 [[Complex_System_Theory]]
 [[ContactOpportunityExploitation]]
@@ -51,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[complex system]]
 [[涌现]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

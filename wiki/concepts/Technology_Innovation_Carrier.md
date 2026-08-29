@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[ThirdWaveAI]]
 [[TopologicalAndersonChernInsulator]]
+[[Topology_Centric_Interconnect]]
 [[chiplet interconnect]]
 [[涌现]]
 

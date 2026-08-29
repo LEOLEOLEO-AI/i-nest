@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[Self_Organized_Criticality]]
 [[SensoryGatedSpikingLoop]]
+[[SpikeCodedAssociation]]
 [[SpikeEncoding]]
 [[Spike_Encoding_of_fMRI]]
 [[SpikingTopologyEvolution]]

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[BackpropagationFreeLearning]]
 [[Baseline_Draft_Status]]
 [[BiologicalParadigmValidation]]
+[[Bipartite_Interconnect]]
 [[CellEmergence]]
 [[Closed_Loop_Neuromodulation]]
 [[Complex_System_Theory]]

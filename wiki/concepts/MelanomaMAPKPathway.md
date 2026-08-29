@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[iNEST]]
 [[无反向传播的 4D 连续蚁群神经网络拓扑搜索]]
 [[涌现]]
 [[神经网络]]

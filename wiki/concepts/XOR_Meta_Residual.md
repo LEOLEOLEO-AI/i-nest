@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[DiscreteContinuous_Unification]]
 [[Emergent_Intelligence_Threshold]]
 [[Frontier_Innovation_Mapping]]
+[[GradientBasedSpikeLearning]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[NeuralNetworkSpectralAnalysis]]

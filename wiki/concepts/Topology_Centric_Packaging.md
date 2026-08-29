@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[BackpropagationFreeLearning]]
 [[Causal_Emergence_Architecture]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Collective_Offloading]]
 [[Complex_System_Theory]]
 [[Decoupled_Priors]]
 [[Heterogeneous_Integration]]

@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[ReproducibleReservoirDynamics]]
 [[Reservoir_Computing]]
+[[SDDE_Physical_Dynamics]]
 [[TCC]]
 [[ThermallyDrivenSuperparamagnetReservoir]]
 [[神经网络]]

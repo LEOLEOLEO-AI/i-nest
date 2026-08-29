@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[BayesianDomainEvolution]]
 [[BehavioralFeedbackLoop]]
 [[Complex_System_Theory]]
+[[Cytokine_Feedback_Loops]]
 [[EventDrivenSpectralProcessing]]
 [[In_Network_Neuromorphic]]
 [[Neuromorphic_Computing]]
@@ -42,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[Temporal_Computing_Paradigm]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenMotionDeblurring]]
 [[FormalToolchain]]
 [[FrequencyAdaptationMechanism]]
+[[NeuralVariabilityEnhancement]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Self_Organized_Criticality]]

@@ -38,6 +38,8 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_Control_Plane_Offload]]
 [[SDI_NPU_NoC_Integration]]
+[[SDI_TopologicalControl]]
+[[STDP_Plasticity]]
 [[SelfOrganization]]
 [[Synaptic_Plasticity]]
 [[TCC]]

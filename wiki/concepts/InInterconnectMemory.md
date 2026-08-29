@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Advanced_Packaging_for_Space]]
 [[BurstGatedRouting]]
 [[ChipletTrafficAwareScheduling]]
+[[Chiplet_Based_Trusted_Hardware]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_NoC_Interconnect]]
@@ -44,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Interconnect]]
 [[P_Paradigm]]
 [[Package_Level_Interconnect]]
+[[STDP_Plasticity]]
 [[TCC]]
 [[涌现]]
 

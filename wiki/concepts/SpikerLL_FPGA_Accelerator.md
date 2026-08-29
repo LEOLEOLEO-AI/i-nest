@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AstrocyteInspiredModulation]]
 [[Contested_Priors_Mechanism]]
 [[CrashHotspotForecasting]]
+[[CriticalStateSelfOrganization]]
 [[FlexibilityThreshold]]
 [[Localized_Feedback_Array]]
 [[Neuromorphic_Computing]]

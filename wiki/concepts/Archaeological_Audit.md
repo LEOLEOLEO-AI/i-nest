@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[ElectromigrationReliability]]
 [[EulaminateOverrepresentation]]
 [[FullDimensionalDefinableInterconnect]]
+[[GeneralIntelligenceSubstrate]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

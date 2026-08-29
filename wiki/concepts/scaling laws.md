@@ -41,6 +41,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[DeviceConductanceTuning]]
 [[Intelligence_Emergence]]
 [[Krakencoder_Embedding]]
+[[Less_is_more，大脑“低能耗”并“高效响应”的秘诀：模块化_NSR]]
 [[Self_Organized_Criticality]]
 [[TCC]]
 [[Wafer_Scale_Integration]]

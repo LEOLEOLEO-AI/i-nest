@@ -31,15 +31,19 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_NoC_Fabric]]
 [[Chiplet_Packaging]]
 [[Chiplet_Stacking]]
+[[Complex_System_Theory]]
 [[CrossMaterial_Integration]]
 [[DarkSiliconAwarePowerGating]]
 [[EMIB_Bridge]]
+[[Glass_Interposer_Integration]]
 [[HeterogeneousSiliconNitridePlatform]]
 [[Heterogeneous_3D_Stacking]]
 [[Heterogeneous_Inference_Offload]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Network_on_Chip]]
 [[TCC]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

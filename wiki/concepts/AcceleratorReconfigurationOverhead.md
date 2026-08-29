@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Accelerated_SNN]]
 [[FPGA_Neuromorphic_Acceleration]]
 [[Intelligence_Emergence]]
+[[MixedLabyrinthFractal]]
 [[MultiFPGAScaling]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Acceleration]]

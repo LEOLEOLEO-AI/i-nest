@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[4H_SiC_SubstrateProcessing]]
 [[AI_Faculty_Forum_2026]]
 [[Attention_Residuals]]
+[[BackpropagationFreeLearning]]
 [[BoundaryObject_Abstraction]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Chip_Floorplanning]]
@@ -46,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_iNEST_Wafer]]
 [[SDI_Bond]]
 [[SDI_Topology]]
+[[STDP_Plasticity]]
 [[ScaleFreeNetwork]]
 [[Second_Curve_Wafer_Industry_Platform]]
 [[SuperparamagneticSwitchingRate]]
@@ -54,7 +56,6 @@ Auto-extracted concept from raw material compilation.
 [[TopologyFragility]]
 [[WaferScaleSubstrate]]
 [[iNEST]]
-[[iNEST_Wafer]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
 

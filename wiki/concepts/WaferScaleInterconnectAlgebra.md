@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[CommunicationAsComputation]]
 [[Deep_Network_Architecture_Invariant]]
+[[ElectromigrationReliability]]
 [[Heterogeneous_Integration]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[MicroRouter_Embedding]]
@@ -48,7 +49,6 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Neuromorphic]]
 [[chiplet interconnect]]
 [[iNEST]]
-[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

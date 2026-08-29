@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[HamiltonianAwareFolding]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[InteractionSensitivityMatrix]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[TCC]]

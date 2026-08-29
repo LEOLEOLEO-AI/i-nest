@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[OpticallyWritableAtomicVaporMemory]]
 [[Strategic_Surprise_Prevention]]
 [[TCC]]
+[[TopologicalDataCompression]]
 [[advanced packaging]]
 [[涌现]]
 

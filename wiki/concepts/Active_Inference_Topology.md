@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[NonlinearWaveMixing]]
 [[Nonlinear_Gain]]
 [[Nonlinear_Wave_Reconfiguration]]
 [[Random_Markov_Dynamics]]

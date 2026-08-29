@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[JointEmbeddingPredictiveArchitecture]]
 [[MemoryDrivenRouting]]
+[[NearSensorComputing]]
 [[TCC]]
 [[complex system]]
 [[iNEST]]

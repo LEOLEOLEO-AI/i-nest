@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[ActivityAvalanche]]
 [[AddressRedundancyElimination]]
 [[Arm_Locomotor_Synergy]]
+[[BrownianCastleInterface]]
 [[CascadedAdaptiveCombiners]]
 [[CollectiveDynamics]]
 [[ConsciousnessEngineeringLoop]]

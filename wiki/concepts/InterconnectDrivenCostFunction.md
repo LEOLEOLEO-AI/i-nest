@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect_Aware_Placement]]
 [[Chiplet_Interconnect_Scheduling]]
 [[Complex_System_Theory]]
+[[ComputeRelocationOverhead]]
 [[EntanglementAwareRouting]]
 [[FatalityDrivenRewiring]]
 [[FullDimensionalDefinableInterconnect]]

@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Architecture]]
 [[Second_Curve_Wafer_Industry_Platform]]
 [[SoftwareDefinedSystemOnWafer]]
+[[Software_Defined_Interconnect]]
 [[TCC]]
 [[Topology_Interconnect]]
 [[WaferScaleSystem]]
@@ -50,7 +51,6 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Integration]]
 [[chiplet interconnect]]
 [[iNEST]]
-[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

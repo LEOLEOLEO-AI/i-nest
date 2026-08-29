@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[AttractorConvergenceAnalysis]]
 [[Bayesian_Decoding]]
+[[Bipartite_Interconnect_Fabric]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
 [[Complex_System_Theory]]

@@ -45,6 +45,8 @@ Auto-extracted concept from raw material compilation.
 [[OptimalGeneralisationNearInterpolation]]
 [[SDI_Bond]]
 [[SDI_NPU_NoC_Integration]]
+[[SDI_TopologicalControl]]
+[[STDP_Plasticity]]
 [[TCC]]
 [[TopologyAwareStateMigration]]
 [[TopologyProgramming]]

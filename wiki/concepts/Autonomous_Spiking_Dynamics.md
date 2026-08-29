@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[ST_SNN]]
 [[Spiking neural network]]
+[[SpikingNeuralImplementation]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

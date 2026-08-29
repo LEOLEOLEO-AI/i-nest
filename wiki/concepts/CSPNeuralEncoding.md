@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[BrainScaleTopologyExploitation]]
 [[Brain_Dynamics_Learning]]
 [[CirculateFiringNeuron]]
+[[ClassificationPerformance]]
 [[Complex_System_Theory]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]

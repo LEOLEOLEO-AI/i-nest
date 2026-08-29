@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Ant_Swarm_Functional_Control]]
 [[BalancedRouting]]
 [[Baseline_Draft_Status]]
+[[Bipartite_Interconnect]]
 [[CeYIGMagnetoOpticalIsolator]]
 [[CellEmergence]]
 [[Complex_System_Theory]]

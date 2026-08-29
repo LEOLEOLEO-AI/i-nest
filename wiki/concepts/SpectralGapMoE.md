@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Routing_Color_Bits]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[Topological_Anderson_Insulator]]
 [[涌现]]
 
 ## Sources

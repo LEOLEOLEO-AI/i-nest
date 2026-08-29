@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[BrainInspired_Chip]]
 [[Event_Driven_Architecture]]
 [[In_Network_Neuromorphic]]
+[[In_Network_Neuromorphic_Scheduling]]
 [[In_Package_Neuromorphic_Integration]]
 [[NeuromorphicNetworkSecurity]]
 [[Neuromorphic_Computing]]
@@ -36,7 +37,6 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
-[[iNEST_Neuromorphic_Integration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Order_Flexibility_Duality]]
 [[QuantumAmplitudeEstimation]]
 [[SNN]]
+[[SpikeCommunicationCost]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[chiplet interconnect]]

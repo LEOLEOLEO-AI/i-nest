@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Stacking]]
 [[Complex_System_Theory]]
 [[Deep_Thermalisation]]
+[[DirectConnect_Topology]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

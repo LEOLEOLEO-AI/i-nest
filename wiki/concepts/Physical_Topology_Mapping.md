@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_NoC_Fabric]]
 [[Chiplet_Stacking]]
 [[CongestionAwareNoCPlacement]]
+[[Deep_Network_Architecture_Invariant]]
 [[DynamicServiceComposition]]
 [[EulaminateOverrepresentation]]
 [[GeneralIntelligenceSubstrate]]
@@ -44,7 +45,6 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Topology]]
 [[TCC]]
 [[iNEST]]
-[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Controlled_Release_Kinetics]]
 [[Dynamic_Expert_Fusion]]
 [[ElectronicWarfareNeuromorphic]]
+[[Emergence_Aware_Scheduling]]
 [[Emergent_Intelligence_Threshold]]
 [[ExplainableEnergyAI]]
 [[Gut_Brain_Immune_Network]]

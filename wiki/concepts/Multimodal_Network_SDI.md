@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_NPU_NoC_Integration]]
 [[SDI_TCC_Chiplet]]
+[[STDP_Plasticity]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[chiplet interconnect]]

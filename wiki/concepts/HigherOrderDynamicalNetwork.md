@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Fractal_Multipartite_Entanglement]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
+[[ImaginaryGaugePhaseImprint]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

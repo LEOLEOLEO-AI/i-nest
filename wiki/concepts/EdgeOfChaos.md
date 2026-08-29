@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AnomalousSpinTransport]]
 [[ArbitraryWavefunctionConfigurability]]
 [[ArchitecturalCondition]]
+[[Biologically_Plausible_Learning_Rules]]
 [[Criticality]]
 [[Crystallized_Embedding_Reservoir]]
 [[CytoarchitectonicAxis]]

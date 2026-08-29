@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Barrier_Hierarchy]]
 [[BifurcationCandidateSet]]
 [[BifurcationCandidate]]
+[[CST计量仪]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
@@ -45,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[neuromorphic computing]]
 [[涌现]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[AutonomousAdaptation]]
 [[DTGA]]
+[[Deep_Network_Architecture_Invariant]]
 [[Free_Energy_Topology_Mapping]]
 [[Memristor_Synapse]]
 [[MetaFAIR_ArchitectureDiscovery]]

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[EEG_Criticality]]
 [[FormalLinguisticCompetence]]
 [[Hardware_Accelerated_SNN]]
+[[HierarchicalBayesianCommunityDetection]]
 [[HodgkinHuxleyDynamics]]
 [[Intelligence_Emergence]]
 [[LeftRightAsymmetry]]

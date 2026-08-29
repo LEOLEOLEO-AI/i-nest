@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Environmental_Coupling_Organization]]
 [[Fading_Memory_Property]]
 [[FirstPrinciples_AI]]
+[[Meta_Residual_Learning]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]

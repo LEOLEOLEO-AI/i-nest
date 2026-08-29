@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
+[[NeuronalNetworkSelfOrganization]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[Synaptic_Plasticity]]

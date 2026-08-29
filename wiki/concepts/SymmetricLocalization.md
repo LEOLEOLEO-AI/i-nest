@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[ComputeRelocationOverhead]]
 [[Deep_Thermalisation]]
 [[EdgeIoTEnergyAwareness]]
+[[GraphBasedSemanticRouting]]
 [[InSitu_Compute]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeTimingGradient]]
 [[Spike_Encoding_of_fMRI]]
 [[SpikingTopologyEvolution]]
+[[Spiking_Mamba_Block]]
 [[Spiking_Neural_Network]]
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]

@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Gradient_Free_SNN_Learning]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[KinematicWavePropagation]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]

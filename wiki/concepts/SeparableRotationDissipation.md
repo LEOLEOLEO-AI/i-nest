@@ -37,7 +37,8 @@ Auto-extracted concept from raw material compilation.
 [[EpidemicThreshold]]
 [[Reservoir_Computing]]
 [[Self_Organized_Criticality]]
-[[Syncytial_Mesh_Model]]
+[[Syncytial_Mesh]]
+[[Technical_Program_Officer_Autonomy]]
 [[iNEST]]
 
 ## Sources

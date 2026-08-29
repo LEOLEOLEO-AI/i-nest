@@ -26,11 +26,13 @@ Auto-extracted concept from raw material compilation.
 [[ChipletWaferInterconnectScaling]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
+[[Chiplet_Interconnect_Topology]]
 [[FullDimensionalDefinableInterconnect]]
 [[Heterogeneous_Integration]]
 [[HighFrequency_Interconnect_Optimization]]
 [[Interconnect_Routing]]
 [[Memory_Wall]]
+[[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[NoC_Chiplet_iNEST_Wafer]]
@@ -38,7 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[WaferScale_Chiplet_Interconnect]]
 [[chiplet interconnect]]
-[[iNEST_Wafer]]
+[[iNEST]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

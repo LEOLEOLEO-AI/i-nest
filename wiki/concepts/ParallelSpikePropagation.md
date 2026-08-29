@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[Network_Topology_Design]]
 [[SNN]]
+[[SNN_NeuroprostheticPipeline]]
 [[Self_Organized_Criticality]]
 [[SpikeEventTopology]]
 [[Spiking_Neural_Network]]

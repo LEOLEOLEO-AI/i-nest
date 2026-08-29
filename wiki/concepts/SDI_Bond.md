@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[SDSoW_Industry_Alliance]]
+[[SDSoW_Strategic_Planning]]
 [[Second_Curve_Wafer_Industry_Platform]]
 [[Software_Defined_Interconnect]]
 [[Spacetime_Coupling_Coefficient]]
@@ -58,7 +59,6 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect]]
 [[chiplet interconnect]]
 [[iNEST]]
-[[iNEST_Wafer]]
 [[residual connection]]
 [[temporalComplexity]]
 

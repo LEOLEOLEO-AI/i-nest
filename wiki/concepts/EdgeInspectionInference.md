@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Synapse]]
 [[ModelOptimization]]
 [[Neuromorphic_Computing]]
+[[SNN]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 [[忆阻器]]

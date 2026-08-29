@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Core_Spacetime_Tensor]]
 [[CubicLatticeInterconnect]]
 [[Defect_Mediated_Transport]]
+[[DestructiveInterferenceConfinement]]
 [[Emergent_Intelligence_Roadmap]]
 [[GutBrainAxis_Reprogramming]]
 [[Intelligence_Emergence]]

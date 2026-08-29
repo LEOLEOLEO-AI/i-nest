@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[DevelopmentalNeuromorphicAdaptation]]
 [[DynamicReconfigurationForFaultTolerance]]
 [[Emergent_Intelligence_Threshold]]
+[[FPGABasedNeuromorphic]]
 [[FPGASpikeImplementation]]
 [[FPGA_Neuromorphic_Architectures]]
 [[Intelligence_Emergence]]

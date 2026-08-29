@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
 [[Hierarchical_Interconnect]]
+[[InInterconnectMemory]]
 [[Intelligence_Emergence]]
 [[Intelligent_Computing_Infrastructure]]
 [[Interconnect_Routing]]

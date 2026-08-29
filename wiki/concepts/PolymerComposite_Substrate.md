@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[Order_Flexibility_Duality]]
 [[Photopolymerization_NoC]]
 [[RTC_Primitive]]
 [[SDI_Bond]]

@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[ST_SNN]]
+[[SpikingNeuralImplementation]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]

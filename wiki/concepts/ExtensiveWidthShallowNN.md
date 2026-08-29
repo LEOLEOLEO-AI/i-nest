@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[PostVonNeumannIntelligence]]
 [[QuantumKernelMethods]]
+[[RG_Flow_Transformer]]
 [[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroupFlow]]
 [[TCC]]

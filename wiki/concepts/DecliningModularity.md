@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Forum_Demo_Narrative]]
 [[Adaptive_Deep_Brain_Stimulation]]
 [[Advanced_Packaging_for_Space]]
+[[AndersonTransition]]
 [[BrainBodyResonance]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CommunicationAwareComputeRelocation]]

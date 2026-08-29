@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI节点接口规范与化合键定义]]
 [[Spiking_Neural_Network]]
 [[TCC]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[神经网络]]
 
 ## Sources

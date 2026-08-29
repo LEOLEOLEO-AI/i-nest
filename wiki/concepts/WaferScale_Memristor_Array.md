@@ -36,11 +36,11 @@ Auto-extracted concept from raw material compilation.
 [[SDI节点接口规范与化合键定义]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
+[[SDSoW_Industry_Alliance]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Neuromorphic]]
 [[iNEST]]
-[[iNEST_Wafer]]
 [[neuromorphic computing]]
 
 ## Sources

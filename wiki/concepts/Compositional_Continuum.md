@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_InMemory_Processing]]
 [[Analog_Weight_Storage]]
 [[Beyond_Moore_Packaging_Strategy]]
+[[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
 [[ExplosiveCooperationTransition]]
@@ -45,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[analog computation]]
 [[complex system]]
 [[iNEST]]
+[[涌现]]
 [[神经网络]]
 
 ## Sources

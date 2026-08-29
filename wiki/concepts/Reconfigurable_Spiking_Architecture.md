@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[ActivityAvalanche]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BioPlausiblePredictiveCoding]]
+[[BurstGatedRouting]]
 [[CollectiveSpikingDynamics]]
 [[Criticality]]
 [[DynamicTokenSparsity]]

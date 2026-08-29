@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Topology_Mapping]]
 [[Hybrid_Volatile_NonVolatile_Mode]]
 [[In_Network_Neuromorphic]]
+[[In_Network_Neuromorphic_Integration]]
 [[Intelligence_Emergence]]
 [[Memristive_Solutions]]
 [[Memristive_Topology]]

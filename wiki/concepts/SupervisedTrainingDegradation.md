@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[ClosedLoopNeuromorphicControl]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
+[[NeuromorphicRL_Locomotion]]
 [[Neuromorphic_Computing]]
 [[STDP_Plasticity]]
 [[SpikeEncoding]]
@@ -43,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

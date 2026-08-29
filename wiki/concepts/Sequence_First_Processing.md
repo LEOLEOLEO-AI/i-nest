@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[NestedRepresentation]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[Spike_Event_Driven_Attention]]
 [[Spiking_Neural_Network]]
 [[StreamDataflowArchitecture]]
 [[iNEST]]

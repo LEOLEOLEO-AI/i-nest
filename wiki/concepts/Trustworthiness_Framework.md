@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[Bias_Origin_Taxonomy]]
 [[BiologicalParadigmValidation]]
+[[Bipartite_Interconnect]]
 [[CellEmergence]]
 [[Closed_Loop_Neuromodulation]]
 [[Complex_System_Theory]]

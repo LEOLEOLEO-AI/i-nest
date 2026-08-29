@@ -1,0 +1,14 @@
+[self_evolve] === 自进化编排开始 ===
+[self_evolve] 运行 wiki_compiler (增量; 无新来源则仅健康检查, 不消耗 LLM)...
+[self_evolve] wiki_compiler 退出码=0 | e end closed connection without response
+[03:04:20]   LLM extracted 0 additional concepts (keyword: 0)
+[03:04:20] Phase 2-3: 3 articles, 0 concepts
+[03:06:02] Phase 4: Index and backlinks updated
+[03:06:42] Phase 5: Health report generated
+[03:06:42] === Compile complete: 3 articles, 0 concepts ===
+
+[self_evolve] 运行 wiki_grow 交叉链接/去重...
+[self_evolve] wiki_grow 退出码=124 | TIMEOUT after 600s
+[self_evolve] 运行全库健康自检 (纯本地, 贴近 Obsidian 链接解析)...
+[self_evolve] 健康自检: 笔记 10925 | 真正断链 3790 | 孤儿 2479 | 缺FM 963 -> vault_health.md
+[self_evolve] 自我生长: 补全高频缺失概念占位笔记...

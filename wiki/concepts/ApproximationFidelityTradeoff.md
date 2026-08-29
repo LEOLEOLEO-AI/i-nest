@@ -41,9 +41,11 @@ Auto-extracted concept from raw material compilation.
 [[SDI_TCC_iNEST_Interconnect]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
+[[SDSoW_Interface_Standard]]
+[[STDP_Plasticity]]
 [[TCC]]
+[[TCC_iNEST_Interconnect]]
 [[iNEST]]
-[[iNEST_Interconnect]]
 [[residual connection]]
 [[涌现]]
 

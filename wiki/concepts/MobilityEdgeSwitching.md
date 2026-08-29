@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[ActivityAvalanche]]
 [[Cognitive_Relapse_Architecture]]
 [[Cognitive_Relapse_Decoupling]]
+[[Continual_Learning_Modularity]]
 [[Continual_Learning_Topology]]
 [[Continuous_Memory_System]]
 [[Criticality]]

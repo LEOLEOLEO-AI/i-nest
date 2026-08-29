@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[CommunicationAwareComputeRelocation]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Inference_Workload_Profiling]]
+[[MonitoredNonInteractingFermions]]
 [[Network_Topology_Design]]
 [[SelfOrganization]]
 [[TCC]]

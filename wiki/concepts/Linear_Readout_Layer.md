@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[AstrocyteInspiredRepair]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[Bosonic_SPT_Phases]]
+[[CST_CoordinationMechanism]]
 [[Reservoir_Computing]]
 [[TCC]]
 [[iNEST]]

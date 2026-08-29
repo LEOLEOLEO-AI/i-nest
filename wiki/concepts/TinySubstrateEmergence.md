@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Machine_Decision_Speed_Advantage]]
 [[NestedRepresentation]]
 [[Network_Topology_Design]]
+[[Scale_Free_Dynamics_Encoding]]
 [[TCC]]
 [[emergent computation]]
 [[iNEST]]

@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[AgentReinforcementLoop]]
 [[Agent_Workflow_Automation]]
 [[AnteHoc_Explainability]]
+[[Backpropagation_Comparison]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

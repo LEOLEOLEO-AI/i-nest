@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[KinematicWavePropagation]]
 [[LossSpikePhenomenon]]
 [[NeuralNetworkSpectralAnalysis]]
+[[NeuromorphicHardwareCoDesign]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AmoebaInspiredLocomotion]]
 [[Avoided_Criticality]]
 [[BurstGatedRouting]]
+[[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[DynamicTokenSparsity]]
 [[Edge_Neuromorphic_Compute]]

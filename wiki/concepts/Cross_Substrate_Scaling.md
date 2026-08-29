@@ -39,8 +39,8 @@ Auto-extracted concept from raw material compilation.
 [[ScalabilityViaTunneling]]
 [[TCC]]
 [[WaferScaleMonolithicIntegration]]
+[[Wafer_Scale_Packaging]]
 [[iNEST]]
-[[iNEST_Wafer]]
 [[涌现]]
 
 ## Sources

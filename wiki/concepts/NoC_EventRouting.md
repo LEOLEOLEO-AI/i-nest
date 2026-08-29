@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]
 [[Local_Approximation_Dynamics]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NeuromorphicTransformerTopology]]

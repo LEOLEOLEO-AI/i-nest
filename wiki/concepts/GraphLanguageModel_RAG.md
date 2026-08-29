@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Nanoparticle_Network_Interconnect]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[QuantumConvolutionalTopology]]
 [[RecursiveSelfReferentialArchitecture]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]

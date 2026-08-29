@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_NoC_Fabric]]
+[[Chiplet_Stacking]]
 [[Complex_System_Theory]]
 [[DTGA]]
 [[DynamicServiceComposition]]
@@ -41,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
+[[STDP_Plasticity]]
 [[TCC]]
 [[涌现]]
 

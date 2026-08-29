@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[LocalInteractionDrivenReconfiguration]]
 [[Neuromorphic_Computing]]
+[[OpticallyWritableAtomicVaporMemory]]
 [[Real_Time_Neuromorphic_Constraint_Satisfaction]]
 [[SDI_Bond]]
 [[SDI_iNEST_Interconnect]]
@@ -42,7 +43,6 @@ Auto-extracted concept from raw material compilation.
 [[SupervisedHardwareRepair]]
 [[TCC]]
 [[iNEST]]
-[[iNEST_Interconnect]]
 [[涌现]]
 
 ## Sources

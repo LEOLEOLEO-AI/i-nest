@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[CellEmergence]]
 [[Complex_System_Theory]]
+[[CriticalWeightNormBoundary]]
 [[CrossLayer_SignalRouting]]
 [[DirtyWeylSemimetal]]
 [[DisorderedNetworkInterconnect]]

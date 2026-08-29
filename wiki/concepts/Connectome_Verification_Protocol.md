@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Neuromorphic]]
 [[_Nature大子刊_脑机接口重大突破_清华吴华强团队打造_忆阻器神经形态解码器_意念控制无人机]]
 [[connectome]]
+[[getnote_2026-01-03_16 介观峰值定理对晶上大脑的工程指导]]
 [[getnote_2026-01-12_数字孪生大脑工程化路径]]
 [[getnote_2026-01-12_晶圆级神经网络能效革命]]
 [[getnote_2026-01-25_清华团队类脑计算突破]]

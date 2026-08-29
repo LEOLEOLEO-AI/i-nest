@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[LocalSynapticRules]]
 [[Memristive_Topology]]
 [[Model_Routing_Protocol]]
 [[Network_Topology_Design]]

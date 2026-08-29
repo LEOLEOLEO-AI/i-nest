@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CSI_Temporal_Encoding]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Comparative_Formulation_Analysis]]
+[[Connectome_Transfer]]
 [[Critical_Exponent_Scaling]]
 [[DendriticReservoirState]]
 [[DynamicNeuralManifolds]]

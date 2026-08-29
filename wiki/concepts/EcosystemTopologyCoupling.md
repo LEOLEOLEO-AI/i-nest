@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[CouplingMatrixRecovery]]
 [[CrossLayer_SignalRouting]]
 [[DendriticReservoirState]]
+[[DifferentiableLifting]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

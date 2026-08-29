@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicReconfigurationForFaultTolerance]]
 [[DynamicTopologyMapping]]
 [[Dynamic_Expert_Fusion]]
+[[EmergentSystemSurrogate]]
 [[Emergent_Intelligence_Threshold]]
 [[FPGABasedNeuromorphic]]
 [[Intelligence_Emergence]]

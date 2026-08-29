@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence_Threshold]]
 [[Heterogeneous_Integration]]
+[[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Compute]]
 [[Intelligence_Emergence]]
 [[Intelligent_Power_Management]]

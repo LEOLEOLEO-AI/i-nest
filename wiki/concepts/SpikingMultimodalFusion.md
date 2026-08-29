@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Network_Neuromorphic]]
 [[MagnitudePhaseComputationalModel]]
 [[NeuromorphicAttentionScaling]]
+[[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[ST_SNN]]
 [[Spiking_Neural_Network]]
 [[TCC]]
+[[ThresholdBasedSpikeEncoding]]
 [[iNEST]]
 [[spiking neural network]]
 

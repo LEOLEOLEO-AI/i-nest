@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AI4PDE｜综述·论文推荐 08｜物理信息神经网络在偏微分方程问题中的应用：全面综述]]
 [[AdaptiveSTDP]]
 [[AdaptiveSpeechToSpikeEncoding]]
+[[AnytimePointCloudRecognition]]
 [[AsynchronousEventDrivenComputation]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BioInspiredSequenceLearning]]
@@ -41,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Temporal_Computing_Paradigm]]
 [[TheoryDrivenNeuromorphicDesign]]
 [[iNEST]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

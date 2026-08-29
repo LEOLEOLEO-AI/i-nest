@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Gradient_Free_SNN_Learning]]
 [[HighThroughputParticleRouting]]
 [[Interconnect_Routing]]
+[[KinematicWavePropagation]]
 [[LossSpikePhenomenon]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]

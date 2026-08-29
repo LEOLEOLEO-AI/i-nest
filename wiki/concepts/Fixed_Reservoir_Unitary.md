@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Reservoir_Branch_Prediction]]
 [[Memristor_Reservoir_Computing]]
 [[Memristor_Synapse]]
+[[NCA_Reservoir]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]

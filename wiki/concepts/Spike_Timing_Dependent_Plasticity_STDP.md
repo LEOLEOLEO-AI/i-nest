@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[STDP_Plasticity]]
+[[SelfOrganizedRobustness]]
 [[Self_Organized_Criticality]]
 [[Spike_Timing_Dependent_Plasticity]]
 [[Spiking_Neural_Network]]

@@ -46,6 +46,8 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[RecursiveSelfReferentialArchitecture]]
 [[RoutabilityDrivenFloorplanning]]
+[[SDI_Control_Plane_Offload]]
+[[STDP_Plasticity]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[chiplet interconnect]]

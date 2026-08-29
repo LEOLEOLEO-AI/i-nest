@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[BayesianConnectivityEstimation]]
 [[Capability_Reserve_Index]]
 [[Cognitive_Relapse_Decoupling]]
+[[ConstraintDrivenSelfOrganization]]
 [[EdgeIoTEnergyAwareness]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

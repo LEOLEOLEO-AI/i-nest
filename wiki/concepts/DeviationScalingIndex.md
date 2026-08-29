@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetwork_Learning_Interface]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]
+[[Meta_Residual_Learning]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]

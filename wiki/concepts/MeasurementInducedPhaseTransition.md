@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenPlasticity]]
 [[InSensorMemoryComputing]]
+[[In_Package_Neuromorphic_Integration]]
 [[Intelligence_Emergence]]
 [[Memristor_Synapse]]
 [[MetaFAIR_ArchitectureDiscovery]]

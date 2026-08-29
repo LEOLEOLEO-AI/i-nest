@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[ArbitraryWavefunctionConfigurability]]
 [[Chiplet_Based_Trusted_Hardware]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_NoC_Interconnect]]
 [[Chiplet_Stacking]]
 [[CoPackagedOptics]]
 [[Complex_System_Theory]]

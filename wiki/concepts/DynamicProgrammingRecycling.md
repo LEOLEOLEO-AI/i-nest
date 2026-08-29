@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_NoC_Fabric]]
 [[Chiplet_NoC_Interconnect]]
 [[Chiplet_Stacking]]
+[[Collective_Offloading]]
 [[Heterogeneous_Chiplet_Customization]]
 [[Heterogeneous_Inference_Offload]]
 [[Heterogeneous_Integration]]

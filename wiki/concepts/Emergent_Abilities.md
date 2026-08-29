@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Free_Energy_Principle_Network]]
 [[FunctionalInterfaceBlock]]
+[[FunctionalInterfaceBlocks]]
 [[GenerativeTopologyModels]]
 [[Heterogeneous_Integration]]
 [[IntegrationProspectsForVLSI]]

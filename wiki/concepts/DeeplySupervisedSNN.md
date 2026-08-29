@@ -34,9 +34,11 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Accelerated_SNN]]
 [[Meta_Residual_Architecture]]
 [[Nonlinear_Gain]]
+[[PPT]]
 [[ReSCom_Accelerator]]
 [[SNN]]
 [[Spiking_Neural_Network]]
+[[XOResidualSpiking]]
 [[iNEST]]
 
 ## Sources

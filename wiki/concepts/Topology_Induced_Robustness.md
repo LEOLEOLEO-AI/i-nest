@@ -48,6 +48,8 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[P_Paradigm]]
 [[RecursiveSelfReferentialArchitecture]]
+[[STDP_Plasticity]]
+[[SoftwareDefinedSystemOnWafer]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]

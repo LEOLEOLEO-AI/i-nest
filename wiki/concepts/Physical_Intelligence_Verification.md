@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[CST计量仪]]
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
+[[ERI_2_0_Strategic_Framework]]
 [[FPGA_Neuromorphic_Architectures]]
 [[Free_Energy_Principle_Network]]
 [[Free_Energy_Topology_Mapping]]

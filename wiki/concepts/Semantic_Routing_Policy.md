@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[RedundancyControlledStochasticRouting]]
 [[ScalableNeuromorphicTopology]]
 [[TCC]]
+[[TopologicalDataCompression]]
 [[TopologyCentricPrimitiveSet]]
 [[Topology_Centric_Computing]]
 [[涌现]]

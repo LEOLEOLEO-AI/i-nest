@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[FlagScale]]
 [[Free_Energy_Principle_Network]]
 [[Free_Energy_Topology_Mapping]]
+[[GranularCortexExclusion]]
 [[Heterogeneous_Integration]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
@@ -64,7 +65,6 @@ Auto-extracted concept from raw material compilation.
 [[chiplet interconnect]]
 [[heterogeneous_integration]]
 [[iNEST]]
-[[iNEST_Wafer]]
 [[residual connection]]
 [[temporalComplexity]]
 

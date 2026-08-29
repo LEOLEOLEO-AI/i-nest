@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AI4PDE｜综述·论文推荐 08｜物理信息神经网络在偏微分方程问题中的应用：全面综述]]
 [[AI_Driven_Architecture_Search]]
 [[Baseline_Draft_Status]]
+[[BurstInterleaving]]
 [[CollectiveDynamics]]
 [[Complex_System_Theory]]
 [[CrossLayer_SignalRouting]]
@@ -40,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Spatiotemporal_Emergence_Model]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

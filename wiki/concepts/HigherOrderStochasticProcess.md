@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[FirstPrinciples_Derivation]]
 [[Heterogeneous_Integration]]
 [[Hypergraph_Label_Noise]]
+[[LIF_Neuron_Model]]
 [[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]
 [[Neuromorphic_Computing]]
 [[OnChipWeightUpdate]]

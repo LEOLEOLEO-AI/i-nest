@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Resource_Circularity_Protocol]]
+[[RestingStateEEG_Connectivity]]
 [[SDPrompt_Guided_Dynamic_Expert_Fusion]]
 [[Synaptic_Plasticity]]
 [[TCC]]

@@ -5,7 +5,7 @@ auto: true
 created: 2026-08-29
 refs: 6
 aliases:
-  - Emerging_CMOS_Memristor
+  - emerging CMOS memristor
 ---
 
 # emerging CMOS memristor
@@ -24,3 +24,20 @@ aliases:
 
 
 _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
+
+## Merged From
+- emerging CMOS memristor (merged 2026-08-30)
+
+
+## Related Work
+
+[[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
+[[AINext_Initiative]]
+[[AI_Application_Scenario_Reconstruction]]
+[[ANN_SNN_ConversionError]]
+[[AdjustableDynamics]]
+[[Memristor_Reservoir_Branch_Prediction]]
+[[Memristor_Synapse]]
+[[Reservoir_Computing]]
+[[TCC]]
+[[iNEST]]

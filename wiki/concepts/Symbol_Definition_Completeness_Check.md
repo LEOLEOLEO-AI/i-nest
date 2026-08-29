@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspiredLearningRule]]
 [[ChannelEventSparsity]]
 [[Complex_System_Theory]]
+[[DARPA_3DHI_Roadmap]]
 [[DendriticReservoirState]]
 [[EventTriggeredDistributedControl]]
 [[GitWhitelistQuotaEnforcement]]
@@ -43,7 +44,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologicalObservers]]
 [[iNEST]]
-[[iNEST_Interconnect]]
 [[涌现]]
 
 ## Sources

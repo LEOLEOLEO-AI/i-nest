@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SpinalHDL_DSL]]
+[[Syncytial_Information_Integration]]
 [[TCC]]
 [[complex system]]
 [[iNEST]]

@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[PacketRoutingForFPGAs]]
 [[RLFlightControl]]
+[[RedundancyControlledStochasticRouting]]
 [[STDPDrivenConnectivity]]
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]

@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[EventCameraActionRecognition]]
 [[FirstPrinciples_Derivation]]
 [[Heterogeneous_Integration]]
+[[HigherOrderStochasticProcess]]
 [[LIF_Neuron_Model]]
 [[Memristive_Spike_Integration]]
 [[Memristor_Synapse]]

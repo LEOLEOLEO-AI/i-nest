@@ -24,7 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Avoided_Criticality]]
 [[BigBrainCellularAxis]]
 [[BrainBodyResonance]]
-[[BrownianCastleInterfaces]]
+[[BrownianCastleInterface]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Criticality]]
 [[Emergent_Intelligence_Threshold]]

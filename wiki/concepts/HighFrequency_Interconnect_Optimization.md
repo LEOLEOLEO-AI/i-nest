@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Topology]]
+[[Chiplet_Topology_Encapsulation]]
 [[FullDimensionalDefinableInterconnect]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
@@ -43,7 +44,6 @@ Auto-extracted concept from raw material compilation.
 [[WaferScale_Chiplet_Interconnect]]
 [[chiplet interconnect]]
 [[iNEST]]
-[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

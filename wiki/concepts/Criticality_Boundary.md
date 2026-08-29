@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[GeometricNeuromorphicFusion]]
 [[HierarchicalBayesianCommunityDetection]]
 [[Intelligence_Emergence]]
+[[Local_Approximation_Dynamics]]
 [[MacroCriticalityEmergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

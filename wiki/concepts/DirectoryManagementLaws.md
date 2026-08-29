@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Accelerated_SNN]]
 [[FPGA_SNN_Inference]]
 [[FlexibleNeuromorphicAccelerator]]
+[[IMPLY_ISA]]
 [[LocalInteractionDrivenReconfiguration]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Acceleration]]

@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[ERI_2_0_Strategic_Framework]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
+[[JunctionCenteredFramework]]
 [[Metastable_State_Hierarchy]]
 [[Nanoscale_Precise_Control]]
 [[Network_Topology_Design]]

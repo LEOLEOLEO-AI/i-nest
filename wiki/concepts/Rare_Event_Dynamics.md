@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Bosonic_SPT_Phases]]
 [[CoexistencePhaseTransition]]
 [[DendriticReservoirState]]
+[[DifferentiableLifting]]
 [[Environmental_Capability_Context]]
 [[FiniteSizeCrossover]]
 [[LargeDeviationTopologicalOrder]]

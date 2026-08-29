@@ -23,6 +23,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[03 涌现：整体的能力不能还原回个体？ - 得到APP]]
+[[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
 [[12_三原理协同_FEP_最小作用量_STDP]]
 [[AI人工智能 卷积神经网络（CNN）_w3cschool]]
 [[ANN动力学]]
@@ -57,7 +58,6 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[STDP_iNEST]]
 [[Synaptic_Plasticity]]
 [[TCC]]
-[[TCC_RTC原语架构与SDI拓扑变换机理]]
 [[TopologyFragility]]
 [[chiplet interconnect]]
 [[complex system]]

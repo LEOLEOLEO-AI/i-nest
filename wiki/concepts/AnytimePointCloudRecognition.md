@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[BrainBodyResonance]]
 [[ClosedLoopNeuromorphicControl]]
 [[Complex_System_Theory]]
+[[Cytokine_Feedback_Loops]]
 [[Neuromorphic_Computing]]
 [[Online_Continual_Learning]]
 [[STDP_Plasticity]]
@@ -41,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[TemporalLearning]]
 [[Temporal_Computing_Paradigm]]
 [[iNEST]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

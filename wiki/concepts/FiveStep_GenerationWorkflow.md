@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AgenticServiceOrchestration]]
 [[BurstInterleaving]]
 [[Cognitive_Relapse_Decoupling]]
+[[Constructed_Reality_Model]]
 [[ControlDrivenCriticalFluctuations]]
 [[CounterstreamSignalPropagation]]
 [[Criticality]]

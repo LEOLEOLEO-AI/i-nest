@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AvalancheTriggeringMechanism]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[BigBrainCellularAxis]]
+[[BoundaryObject_Abstraction]]
 [[BrownianCastleInterface]]
 [[CSI_Temporal_Encoding]]
 [[Chiplet_Based_Neuromorphic_Integration]]

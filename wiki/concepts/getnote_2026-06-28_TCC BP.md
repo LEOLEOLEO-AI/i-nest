@@ -41,6 +41,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[DataCenter_Chip_Logic_Compression]]
+[[DelayedSynapticCoupling]]
 [[DistinctReentrantPhases]]
 [[Getnote_2026-06-28_TCC BP]]
 [[Intelligence_Emergence]]

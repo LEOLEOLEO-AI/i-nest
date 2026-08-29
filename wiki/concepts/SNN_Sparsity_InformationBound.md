@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[ComplexValuedSNN]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Complex_System_Theory]]
+[[DataDrivenCellularAxis]]
 [[Deep_SNN_Trainability]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

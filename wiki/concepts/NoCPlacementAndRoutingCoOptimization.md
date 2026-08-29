@@ -42,6 +42,8 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoCPlacementRoutingCoDesign]]
+[[Nonreciprocity_Threshold]]
+[[STDP_Plasticity]]
 [[TCC]]
 [[Topology_Encapsulation]]
 [[chiplet interconnect]]

@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Readout_Layer_Training]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
+[[SuperparamagneticSwitchingRate]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[advanced packaging]]

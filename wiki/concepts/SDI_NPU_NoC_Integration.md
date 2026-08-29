@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
 [[NoC_SDI]]
+[[NoC_SDI_Integration]]
 [[OnChipOpticalTweezers]]
 [[Photonic_Chiplet_Interconnect]]
 [[RecursiveSelfReferentialArchitecture]]

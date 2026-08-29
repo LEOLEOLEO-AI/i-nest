@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Algorithmic_Warfare]]
+[[Bipartite_Interconnect]]
 [[Bipartite_Interconnect_Design]]
 [[BurstGatedRouting]]
 [[CSI_Temporal_Encoding]]
@@ -46,7 +47,6 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
 [[TCC]]
-[[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[iNEST]]
 
 ## Sources

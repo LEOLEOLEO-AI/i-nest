@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeDrivenDetectionBackbone]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
+[[getnote_2026-01-25_吴华强团队与iNEST技术互补]]
 [[iNEST]]
 [[新型计算]]
 [[神经形态计算]]

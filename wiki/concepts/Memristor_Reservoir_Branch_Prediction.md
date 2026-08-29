@@ -12,7 +12,7 @@ auto: true
 **Last updated**: 2026-08-04
 
 ## Definition
-A branch prediction mechanism in pipelined processors that uses a reservoir computing architecture implemented with emerging CMOS memristor devices to process temporal input sequences. This bridges neuromorphic computing with processor microarchitecture, enabling energy-efficient, hardware-based prediction that could be integrated into TCC's topology-centric dataflow.
+A branch prediction mechanism in pipelined processors that uses a reservoir computing architecture implemented with emerging CMOS_Memristor_Devices to process temporal input sequences. This bridges neuromorphic computing with processor microarchitecture, enabling energy-efficient, hardware-based prediction that could be integrated into TCC's topology-centric dataflow.
 
 ## Context
 Auto-extracted concept from raw material compilation.
@@ -22,10 +22,9 @@ Auto-extracted concept from raw material compilation.
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[AI_Faculty_Forum_2026]]
 [[AlternativeBridgingModels]]
-[[CMOS memristor devices]]
+[[Attention_Residuals]]
 [[CMOS_Memristor_Devices]]
 [[DARPA_ProjectManager_Model]]
-[[Emerging_CMOS_Memristor]]
 [[GeneralizedReadoutMap]]
 [[HybridResistiveMemoryCIM]]
 [[InNetworkSignalRecovery]]
@@ -47,12 +46,10 @@ Auto-extracted concept from raw material compilation.
 [[Stochastic_LIF_Inference]]
 [[TCC]]
 [[branch prediction]]
-[[emerging CMOS memristor devices]]
 [[emerging CMOS memristor]]
 [[memristor device]]
 [[neuromorphic computing]]
 [[pipelined processor]]
-[[reservoir computing architecture]]
 [[reservoir computing]]
 
 ## Sources

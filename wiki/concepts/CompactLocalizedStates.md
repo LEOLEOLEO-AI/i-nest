@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
 [[In_Package_Neuromorphic_Integration]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Memristive_Interconnect]]
 [[Milinkovic B (2024)：复杂神经系统涌现动力学结构]]
@@ -38,6 +39,8 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[OpportunisticRoutingRL]]
 [[OpportunisticRouting]]
+[[WaveBasedInformationRouting]]
+[[涌现]]
 [[神经形态计算]]
 [[类脑芯片]]
 

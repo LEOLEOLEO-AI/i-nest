@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AstrocyteInspiredRepair]]
 [[BigBrainCellularAxis]]
 [[BrownianCastleInterface]]
+[[BrownianCastleInterfaces]]
 [[ComplexValuedSNN]]
 [[Complex_System_Theory]]
 [[DevelopmentalNeuromorphicAdaptation]]

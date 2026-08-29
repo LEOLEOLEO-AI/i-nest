@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[AsymmetricStochasticInteractions]]
 [[AttentionMap_DifferenceResidual]]
 [[BCM滑动阈值]]
+[[BifurcationCandidateSet]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

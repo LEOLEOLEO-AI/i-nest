@@ -39,9 +39,11 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[SNN]]
+[[Self_Organized_Criticality]]
 [[Spike_Event_Driven_Attention]]
 [[Spiking_Neural_Network]]
 [[TCC]]
+[[TemporalSparsityExploitation]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

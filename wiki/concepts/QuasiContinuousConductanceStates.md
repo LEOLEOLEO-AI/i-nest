@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[TCADCalibration]]
+[[TCC]]
 [[analog weight storage]]
 [[complex system]]
 [[iNEST]]

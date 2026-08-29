@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[TCC]]
+[[Theoretical_Numerical_Analysis]]
 [[TopologicalAndersonChernInsulator]]
 [[advanced packaging]]
 [[neuromorphic computing architecture]]

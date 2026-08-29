@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[BiSpikCLM]]
 [[CombinedImportanceScoring]]
 [[CompartmentalNeuronModel]]
+[[CurrentInjectionSNN]]
 [[DARPA_ProjectManager_Model]]
 [[DMP_SNN_DualMemoryPathway]]
 [[DTGA]]

@@ -30,6 +30,8 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[AIRA_NeuralArchSearch]]
 [[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
+[[Complex_System_Theory]]
+[[CriticalPhaseTransitionStatisticalTest]]
 [[HotChip2024-Day2_AI加速器互联和云AI处理器,_Tesla是亮点]]
 [[Intelligence_Emergence]]
 [[Less_is_more，大脑“低能耗”并“高效响应”的秘诀：模块化_NSR]]

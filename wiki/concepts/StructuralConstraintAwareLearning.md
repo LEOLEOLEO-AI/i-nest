@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[12_三原理协同_FEP_最小作用量_STDP]]
 [[3DHI_Integration]]
 [[AI_Faculty_Forum_2026]]
+[[Advanced_Packaging_for_Space]]
 [[AnalogDomainCompression]]
 [[Attention_Residuals]]
 [[BackpropagationFreeLearning]]
@@ -40,10 +41,10 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_iNEST_Wafer]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
+[[STDP_Plasticity]]
 [[TCC]]
 [[TopologyAware_Embedding]]
 [[iNEST]]
-[[iNEST_Wafer]]
 [[涌现]]
 
 ## Sources

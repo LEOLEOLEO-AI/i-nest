@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AstrocyteInspiredRepair]]
 [[AutogradCompatibleSpiking]]
 [[AutomatedQuantizationFramework]]
+[[BioPlausibleDisturbanceEstimation]]
 [[BrainScaleTopologyExploitation]]
 [[Brain_Dynamics_Learning]]
 [[ClinicalTranslationBridge]]

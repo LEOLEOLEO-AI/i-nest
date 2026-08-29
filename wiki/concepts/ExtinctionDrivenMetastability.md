@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[SDI_Bond]]
+[[SDI_SNN_Interconnect]]
 [[SDI_STDP]]
 [[SDI_iNEST_Interconnect]]
 [[SNN]]
@@ -43,7 +44,6 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
-[[iNEST_Interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

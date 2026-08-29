@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[BiasEvaluationMetrics]]
 [[BioInspiredSpikeEncoding]]
 [[BioPlausibleDisturbanceEstimation]]
+[[BiologicallyAccurateMultilayer]]
 [[BrainScaleTopologyExploitation]]
 [[CST theory]]
 [[CST_Theory]]

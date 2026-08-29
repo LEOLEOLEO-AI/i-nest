@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[AnomalousSpinTransport]]
 [[BrownianCastleInterface]]
 [[ErrorSuppressedPipeline]]
+[[InterpretabilityDrivenDesign]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[SNN]]

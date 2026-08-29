@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Anomaly_Mediated_Quantum_Criticality]]
 [[Ant_Swarm_Functional_Control]]
+[[ArchitecturalCondition]]
 [[Autonomous_Unmanned_Combat_Networking]]
 [[Capability_Reserve_Index]]
 [[Cognitive_Relapse_Decoupling]]

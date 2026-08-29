@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AINext_Initiative]]
+[[AI_Assisted_Energy_Management]]
 [[AdaptiveArchitecture]]
 [[AnalogDomainCompression]]
 [[AvalancheBranchingRatio]]

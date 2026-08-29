@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
 [[TCC]]
+[[YieldOptimizedPhysicalDesign]]
 [[chiplet interconnect]]
 [[temporalComplexity]]
 [[涌现]]

@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[DataDrivenCellularAxis]]
 [[FirstPrinciples_Derivation]]
+[[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]
 [[MachineLearningNanomaterialDiscovery]]
 [[Memristor_Synapse]]

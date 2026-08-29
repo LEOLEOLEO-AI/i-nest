@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[SDI_Bond]]
 [[SDI_STDP]]
+[[SDSoW]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[Synaptic_Plasticity]]

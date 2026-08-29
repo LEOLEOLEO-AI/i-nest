@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Anisotropic_Correlation_Length]]
 [[Architectural_Conditioning]]
+[[BisectionBandwidthBound]]
 [[CLINKAsCarrierPrimitive]]
 [[ChipletWaferInterconnectScaling]]
 [[Chiplet_Heterogeneous_Integration]]

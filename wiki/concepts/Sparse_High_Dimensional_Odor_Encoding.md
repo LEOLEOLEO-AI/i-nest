@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveMatterComputing]]
 [[Adaptive_Deep_Brain_Stimulation]]
 [[Analog_To_Information_Conversion]]
+[[AnytimePointCloudRecognition]]
 [[Attention_Residuals]]
 [[BoundaryObject_Abstraction]]
 [[CST计量仪]]

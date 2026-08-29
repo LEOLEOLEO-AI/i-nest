@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[FormalLinguisticCompetence]]
+[[Hardware_Accelerated_SNN]]
 [[HierarchicalBayesianCommunityDetection]]
 [[Intelligence_Emergence]]
 [[Less is more，大脑“低能耗”并“高效响应”的秘诀：模块化]]

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AdiabaticMultimodeBend]]
 [[AdjointWaveControl]]
 [[BifurcationCandidate]]
+[[CavityMethodAnalysis]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
 [[Complex_System_Theory]]

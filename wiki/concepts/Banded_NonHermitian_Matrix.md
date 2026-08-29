@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[CentralityAsStateVariable]]
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
+[[Daily_Research_Compilation]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]

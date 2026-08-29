@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Topology_Mapping]]
 [[GenerativeTopologyModels]]
 [[Heterogeneous_Integration]]
+[[Intelligent_Computing_Infrastructure]]
 [[L2_L3_Reconfigurability]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
@@ -59,7 +60,6 @@ Auto-extracted concept from raw material compilation.
 [[chiplet interconnect]]
 [[complex system]]
 [[iNEST]]
-[[iNEST_Wafer]]
 [[temporalComplexity]]
 [[topology reconfiguration]]
 

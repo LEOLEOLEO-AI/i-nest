@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Local_Structure_Aware_Self_Attention]]
 [[Memristive_SNN_Accelerator]]
+[[Meta_Residual_Learning]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
@@ -46,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[TCC]]
+[[TCC_Topology]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]
 

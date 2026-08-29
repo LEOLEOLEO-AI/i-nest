@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[CausalEmergenceCondition]]
 [[CompactMemristorCircuits]]
 [[Complex_System_Theory]]
+[[DrivenDissipativeDynamics]]
 [[Intelligence_Emergence]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]

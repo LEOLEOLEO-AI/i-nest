@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[ASIC_Dualism]]
 [[Accessibility_Plasticity]]
 [[AdiabaticModeEvolution]]
+[[AdjointWaveControl]]
 [[ArbitraryWavefunctionConfigurability]]
 [[CLINKAsCarrierPrimitive]]
 [[CST_Spatiotemporal_Complexity]]

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Core_Spacetime_Tensor]]
 [[Criticality]]
 [[Criticality_Induced_Plasticity]]
+[[Dimensionality_Modularity_Tradeoff]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeOfChaos]]
 [[Fixed_Cost_Dominance]]

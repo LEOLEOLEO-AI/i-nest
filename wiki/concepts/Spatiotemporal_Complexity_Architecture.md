@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Hyper_Dimensional_Computing]]
 [[Intelligence_Emergence]]
+[[JunctionCenteredFramework]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[TemporalComplexity]]

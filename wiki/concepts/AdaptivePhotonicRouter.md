@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[03 涌现：整体的能力不能还原回个体？ - 得到APP]]
 [[AdaptiveArchitecture]]
 [[AdiabaticMultimodeBend]]
+[[AdjointWaveControl]]
 [[AgenticServiceOrchestration]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Allreduce_Latency_Probe]]

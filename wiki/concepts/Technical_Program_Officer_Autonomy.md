@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuronal_Avalanche_Dynamics]]
 [[Reservoir_Computing]]
+[[SDI_STDP]]
 [[SNN]]
 [[Self_Organized_Criticality]]
 [[SpikingTopologyEvolution]]

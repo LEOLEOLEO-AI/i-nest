@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Network_on_Chip]]
 [[Packaging_Aware_NoC_Design]]
+[[SDI_Control_Plane_Offload]]
 [[TCC]]
 
 ## Sources

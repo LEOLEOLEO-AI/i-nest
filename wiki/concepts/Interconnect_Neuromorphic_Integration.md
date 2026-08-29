@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[03 涌现：整体的能力不能还原回个体？ - 得到APP]]
 [[4H_SiC_SubstrateProcessing]]
 [[AI_Faculty_Forum_2026]]
+[[Advanced_Packaging_for_Space]]
 [[Attention_Residuals]]
 [[BackpropagationFreeLearning]]
 [[Complex_System_Theory]]

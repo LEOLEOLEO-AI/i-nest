@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AndersonTransition]]
 [[Anisotropic_Correlation_Length]]
 [[Ant_Swarm_Functional_Control]]
+[[BalancedRouting]]
 [[Baseline_Draft_Status]]
 [[BifurcationCandidate]]
 [[Interconnect_Routing]]

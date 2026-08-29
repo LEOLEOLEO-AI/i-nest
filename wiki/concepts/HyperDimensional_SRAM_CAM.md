@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
 [[SelfOrganization]]
+[[SiC_GaN_Power_Integration]]
 [[soc]]
 [[涌现]]
 

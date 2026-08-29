@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossLayer_SignalRouting]]
 [[Data_Debiasing_Techniques]]
 [[Deep_Thermalisation]]
+[[DirectConnect_Topology]]
 [[FunctionalRelevanceSelfOrganization]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

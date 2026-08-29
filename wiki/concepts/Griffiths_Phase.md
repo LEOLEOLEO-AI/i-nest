@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[BackflowTransformation]]
 [[Baseline_Draft_Status]]
 [[CST_Spatiotemporal_Coefficient]]
+[[CausalEmergenceCondition]]
 [[CeYIGMagnetoOpticalIsolator]]
 [[ChannelCountScaling]]
 [[Complex_System_Theory]]

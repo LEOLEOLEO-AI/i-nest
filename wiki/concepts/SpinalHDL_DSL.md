@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
+[[Non_Von_Neumann_Architecture]]
 [[TCC]]
 [[complex system]]
 [[iNEST]]

@@ -35,10 +35,13 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[Coupling_Strength_Encoding]]
 [[DendriticReservoirState]]
+[[DeviationScalingIndex]]
 [[FlexibilityThreshold]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
+[[SNN]]
+[[Spiking_Neural_Network]]
 [[neuromorphic computing architecture]]
 [[neuromorphic computing]]
 

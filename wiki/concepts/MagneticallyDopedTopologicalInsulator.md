@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Decoupling]]
 [[Complex_System_Theory]]
 [[Computation_Access_Routing]]
+[[Electronic_Crystal_Dynamics]]
 [[Emergent_Topology_Adaptation]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[Causal_Emergence_Architecture]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_NoC_Interconnect]]
 [[Collective_Offloading]]
 [[Complex_System_Theory]]
 [[Heterogeneous_Integration]]

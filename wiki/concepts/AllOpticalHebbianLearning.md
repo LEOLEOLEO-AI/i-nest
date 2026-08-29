@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Fractal_Entanglement_Scaling]]
 [[Free_Energy_Principle_Network]]
 [[FrozenRandomFeatureExtractor]]
+[[GraphNeuralNetworkTemporalFeatureExtraction]]
 [[Heterogeneous_Integration]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]

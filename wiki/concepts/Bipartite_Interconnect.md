@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Complex_System_Theory]]
 [[DelayTolerantNetworkUAV]]
+[[DisorderedNetworkInterconnect]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Memristive_Interconnect]]

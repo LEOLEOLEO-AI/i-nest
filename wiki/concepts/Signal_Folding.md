@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Hardware_Paradigm]]
+[[SneakPathCurrentSuppression]]
 [[advanced packaging]]
 [[iNEST]]
 [[neuromorphic computing]]

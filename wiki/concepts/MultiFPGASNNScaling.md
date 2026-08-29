@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AlgorithmHardware_CoDesign]]
 [[ComplexValuedSNN]]
 [[DMP_SNN_DualMemoryPathway]]
+[[DeeplySupervisedSpiking]]
 [[HodgkinHuxleyDynamics]]
 [[Memristor_Network]]
 [[Memristor_Synapse]]

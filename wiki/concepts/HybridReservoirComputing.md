@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AlternativeBridgingModels]]
 [[AnomalousSpinTransport]]
 [[Biomanufacturing_Control_Loop]]
+[[Bosonic_SPT_Phases]]
 [[Compressed_Glass_Network]]
 [[CrashHotspotForecasting]]
 [[Crystallized_Neural_Manifolds]]

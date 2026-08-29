@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[EntanglementAwareRouting]]
 [[FatalityDrivenRewiring]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
+[[GraphBasedSemanticRouting]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

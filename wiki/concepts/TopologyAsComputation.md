@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[CellularSheaf]]
 [[Chiplet_Heterogeneous_Integration]]
 [[ChiralSurfaceFermiProjection]]
+[[CircuitTopologySearch]]
 [[Complex_System_Theory]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]

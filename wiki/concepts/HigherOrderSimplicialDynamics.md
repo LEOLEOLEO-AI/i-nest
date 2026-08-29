@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[DeeplySupervisedSpiking]]
+[[DendriticTaskPartitioning]]
 [[DiscreteContinuous_Unification]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
@@ -52,7 +53,6 @@ Auto-extracted concept from raw material compilation.
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[神经形态脉冲大语言模型（NSLLM）]]
 [[神经形态计算]]
-[[神经形态计算突破：脉冲神经网络实现机器人超低功耗定位新范式]]
 [[神经网络]]
 [[脉冲神经网络]]
 

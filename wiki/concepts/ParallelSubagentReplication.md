@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_Equation]]
 [[CST_Exponential_Gain]]
 [[CST_MasterEquation]]
+[[CST_Theory_Integration]]
 [[Complex_System_Theory]]
 [[Complexity_Emergence]]
 [[Contested_Prior_Resolution]]

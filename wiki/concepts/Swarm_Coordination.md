@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[EGO_Architecture]]
 [[ERI_2_0_Strategic_Framework]]
 [[EmergentTaskDecomposition]]
+[[Emergent_Intelligence_Theory]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]

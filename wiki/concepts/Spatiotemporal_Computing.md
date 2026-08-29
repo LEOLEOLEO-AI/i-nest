@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[CorticalWaveRouting]]
 [[Critical_Region_Extension]]
 [[Deep_Thermalisation]]
+[[Emergent_Intelligence_Theory]]
 [[Environmental_Capability_Context]]
 [[Free_Energy_Principle_Network]]
 [[Intelligence_Emergence]]

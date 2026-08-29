@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveBitPrecisionExploration]]
 [[AdaptiveDensityControl]]
 [[AdaptiveFlexibilityThreshold]]
+[[AdaptiveGraphDiffusion]]
 [[AdaptiveMeasurementProtocol]]
 [[AdaptiveTimeStepTraining]]
 [[AnisotropicGaussianPrimitives]]
@@ -33,11 +34,14 @@ Auto-extracted concept from raw material compilation.
 [[BehavioralNeuromorphicCorrelates]]
 [[BioInspiredLearningRule]]
 [[Biomanufacturing_Control_Loop]]
+[[Complex_System_Theory]]
 [[FlexibilityThreshold]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[TCC]]
 [[iNEST]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

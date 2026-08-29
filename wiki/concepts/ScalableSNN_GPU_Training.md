@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveAsymmetricSurrogateGradient]]
 [[AnisotropicGaussianPrimitives]]
 [[CollectiveSpikingDynamics]]
+[[CombinedImportanceScoring]]
 [[IntegratedInformationFreeEnergyBridge]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]

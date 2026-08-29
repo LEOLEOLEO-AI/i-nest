@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[BinaryCombinatorialOptimization]]
 [[CorticalWaveRouting]]
 [[FreeEnergyMinimizationRouting]]
+[[FreeEnergyMinimization]]
 [[Interconnect_Routing]]
 [[Nonlinear_Gain]]
 [[SNN]]

@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_Technology_Incubation]]
 [[DelayRobustEmergence]]
 [[DifferentiableRasterizationPipeline]]
+[[DimensionalityReductionPrinciple]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence_Threshold]]

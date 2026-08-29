@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[TCC_RTC原语架构与SDI拓扑变换机理]]
 [[TemporalComplexity]]
 [[complex system]]
 [[iNEST]]

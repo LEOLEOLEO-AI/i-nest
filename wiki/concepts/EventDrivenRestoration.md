@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[ContinualLearningOnNeuromorphic]]
 [[DebiasingTechniques]]
 [[EventBasedNeuralDecoding]]
+[[EventDrivenAsynchronousRouting]]
 [[EventDrivenAutoregression]]
 [[EventDrivenInference]]
 [[EventDrivenRiskAssessment]]

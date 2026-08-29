@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveTimeStepTraining]]
 [[AnisotropicGaussianPrimitives]]
 [[CollectiveSpikingDynamics]]
+[[CombinedImportanceScoring]]
 [[DTGA]]
 [[EEGSpikeEncoding]]
 [[ErrorAmplificationLimits]]

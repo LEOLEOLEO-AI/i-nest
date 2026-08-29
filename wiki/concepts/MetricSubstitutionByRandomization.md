@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AdiabaticMultimodeBend]]
 [[AdsorptionBiosorptionHybrid]]
 [[Advanced_Packaging_Route]]
+[[BisectionBandwidthBound]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
