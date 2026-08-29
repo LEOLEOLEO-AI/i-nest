@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 理论
+tags: [neural, evolution, action-potential, myelination, criticality]
+summary: "从单细胞到多细胞，神经元电信号传递机制及其进化意义。"
+quality: high
+processed: 2026-08-29 18:45
+---
+---
 title: "生物进化中的关键认知跃迁与神经系统发展"
 tags:
   - emergence

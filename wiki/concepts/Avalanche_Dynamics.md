@@ -4,6 +4,8 @@ type: concept
 domain: Cross
 created: 2026-08-05
 auto: true
+aliases:
+  - avalanche dynamics
 ---
 # Avalanche_Dynamics
 

@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 资料
+tags: [Nature, 神经科学, 吸引子网络, 序列依赖, 丘脑, 脑干, 斑马鱼]
+summary: "丘脑-脑干吸引子网络驱动历史偏向决策"
+quality: high
+processed: 2026-08-29 18:45
+---
+---
 title: "Nature 论文拆解：丘脑—脑干吸引子网络如何驱动历史偏向决策"
 tags:
   - top-journal

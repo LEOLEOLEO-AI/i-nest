@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 项目
+tags: [晶圆级云系统, 无人作战, 类脑计算, SOW路线, 算力芯片, 语义通信, 微系统专项, 项目申报]
+summary: "会议论证晶上云系统项目，调整类脑SOW路线并推进无人作战专项申报。"
+quality: high
+processed: 2026-08-29 18:45
+---
+---
 title: "面向无人作战的晶上云系统项目论证与立项推进会议"
 tags:
   - computing

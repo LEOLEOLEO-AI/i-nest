@@ -24,6 +24,8 @@ track: iNEST
 url: https://www.semanticscholar.org/paper/eae71cffad41a503cc272828140a0d858c4084f5
 year: 2025
 provenance: external
+aliases:
+  - "2026-06-23_S2_Ferroelectric Tunnel Junction Memristor Crossbar Array with"
 ---
 
 # Ferroelectric Tunnel Junction Memristor Crossbar Array with Annealing Optimization for In‐Memory Computing

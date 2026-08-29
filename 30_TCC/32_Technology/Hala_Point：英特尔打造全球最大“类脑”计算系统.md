@@ -12,6 +12,8 @@ tags:
 - semiconductor
 - synapse
 provenance: own
+aliases:
+  - Hala Point：英特尔打造全球最大“类脑”计算系统
 ---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2025-06-01  

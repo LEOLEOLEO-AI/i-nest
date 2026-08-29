@@ -1,6 +1,8 @@
 ---
 title: Spiking_Neural_Network
 tags: []
+aliases:
+  - spiking neural network
 ---
 **Domain**: iNEST
 **First mentioned**: auto-extracted

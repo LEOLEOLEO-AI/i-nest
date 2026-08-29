@@ -4,6 +4,8 @@ title: "复杂网络理论奠基之作深度解析  Complex networks  Structure 
 created: 2026-07-07
 modified: 2026-07-15
 provenance: external
+aliases:
+  - 复杂网络理论奠基之作深度解析_Complex_networks_Structure_and_dynamics_
 ---
 # 复杂网络理论奠基之作深度解析：《Complex networks: Structure and dynamics》
 

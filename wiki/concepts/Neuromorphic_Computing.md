@@ -1,6 +1,8 @@
 ---
 title: Neuromorphic_Computing
 tags: []
+aliases:
+  - neuromorphic computing
 ---
 **Domain**: iNEST
 **First mentioned**: auto-extracted

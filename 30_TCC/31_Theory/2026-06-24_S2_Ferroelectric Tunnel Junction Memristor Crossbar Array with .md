@@ -9,6 +9,8 @@ url: https://www.semanticscholar.org/paper/eae71cffad41a503cc272828140a0d858c408
 tags: [from-s2, auto-crawl, inest, ferroelectric-tunnel-junction, memristor, crossbar-array, annealing, in-memory-computing, classified]
 status: inbox
 provenance: external
+aliases:
+  - "2026-06-24_S2_Ferroelectric Tunnel Junction Memristor Crossbar Array with"
 ---
 
 # Ferroelectric Tunnel Junction Memristor Crossbar Array with Annealing Optimization for In‐Memory Computing

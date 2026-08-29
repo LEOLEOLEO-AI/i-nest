@@ -8,6 +8,8 @@ tags:
 - semiconductor
 - simulation
 provenance: external
+aliases:
+  - "_Nature大子刊_北大团队打破模拟计算精度限制_用3-bit忆阻器实现32-bit数字级精度_矩阵求逆快1000倍"
 ---
 - **笔记本**: 我的剪贴板
 - **时间**: 2026-01-15 00:02

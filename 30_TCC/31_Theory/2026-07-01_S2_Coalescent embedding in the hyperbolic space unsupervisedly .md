@@ -11,6 +11,8 @@ citations: 0
 relevance: 3
 status: 洞察
 provenance: external
+aliases:
+  - "2026-07-01_S2_Coalescent embedding in the hyperbolic space unsupervisedly"
 ---
 
 # Coalescent embedding in the hyperbolic space unsupervisedly discloses the hidden geometry of the brain

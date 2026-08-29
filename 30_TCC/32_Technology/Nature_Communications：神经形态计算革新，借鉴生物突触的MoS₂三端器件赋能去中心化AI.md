@@ -12,6 +12,8 @@ tags:
 - synapse
 - wafer
 provenance: external
+aliases:
+  - Nature Communications：神经形态计算革新，借鉴生物突触的MoS₂三端器件赋能去中心化AI
 ---
 > 笔记本: 1.1 新导入  
 > 创建时间: 2025-11-16  

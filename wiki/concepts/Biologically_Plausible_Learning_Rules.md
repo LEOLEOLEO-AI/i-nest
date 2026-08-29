@@ -4,6 +4,8 @@ type: concept
 domain: iNEST
 created: 2026-08-05
 auto: true
+aliases:
+  - biologically plausible learning rules
 ---
 # Biologically_Plausible_Learning_Rules
 

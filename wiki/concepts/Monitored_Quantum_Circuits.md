@@ -4,6 +4,8 @@ type: concept
 domain: Cross
 created: 2026-08-05
 auto: true
+aliases:
+  - monitored quantum circuits
 ---
 # Monitored_Quantum_Circuits
 

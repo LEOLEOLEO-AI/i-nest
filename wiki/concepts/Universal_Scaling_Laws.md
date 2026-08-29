@@ -2,6 +2,8 @@
 title: Universal_Scaling_Laws
 tags:
 - chiplet
+aliases:
+  - universal scaling laws
 ---
 **Domain**: TCC
 **First mentioned**: auto-extracted

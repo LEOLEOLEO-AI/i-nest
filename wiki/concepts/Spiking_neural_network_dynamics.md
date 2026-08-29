@@ -1,6 +1,8 @@
 ---
 title: Spiking_neural_network_dynamics
 tags: []
+aliases:
+  - spiking neural network dynamics
 ---
 **Domain**: iNEST
 **First mentioned**: auto-extracted

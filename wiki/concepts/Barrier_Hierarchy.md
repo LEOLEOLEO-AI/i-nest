@@ -4,6 +4,8 @@ type: concept
 domain: Cross
 created: 2026-08-23
 auto: true
+aliases:
+  - barrier hierarchy
 ---
 
 # Barrier_Hierarchy

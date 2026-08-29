@@ -1,6 +1,8 @@
 ---
 title: Reservoir_Computing
 tags: []
+aliases:
+  - reservoir computing
 ---
 **Domain**: iNEST
 **First mentioned**: auto-extracted

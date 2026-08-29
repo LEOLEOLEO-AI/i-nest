@@ -4,6 +4,8 @@ type: concept
 domain: TCC
 created: 2026-08-23
 auto: true
+aliases:
+  - quantum criticality
 ---
 
 # Quantum_Criticality

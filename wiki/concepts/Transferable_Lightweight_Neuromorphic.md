@@ -4,6 +4,8 @@ type: concept
 domain: iNEST
 created: 2026-08-05
 auto: true
+aliases:
+  - transferable lightweight neuromorphic
 ---
 # Transferable_Lightweight_Neuromorphic
 

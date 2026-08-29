@@ -4,6 +4,8 @@ type: concept
 domain: Cross
 created: 2026-08-05
 auto: true
+aliases:
+  - emerging CMOS memristor devices
 ---
 # Emerging_CMOS_Memristor_Devices
 

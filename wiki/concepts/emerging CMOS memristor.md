@@ -4,6 +4,8 @@ type: concept-stub
 auto: true
 created: 2026-08-29
 refs: 6
+aliases:
+  - Emerging_CMOS_Memristor
 ---
 
 # emerging CMOS memristor

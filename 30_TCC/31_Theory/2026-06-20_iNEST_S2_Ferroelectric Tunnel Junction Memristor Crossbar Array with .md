@@ -9,6 +9,8 @@ url: https://www.semanticscholar.org/paper/eae71cffad41a503cc272828140a0d858c408
 citations: 2
 tags: [ferroelectric tunnel junction, memristor, crossbar array, annealing optimization, HZO, classified]
 provenance: external
+aliases:
+  - "2026-06-20_iNEST_S2_Ferroelectric Tunnel Junction Memristor Crossbar Array with"
 ---
 
 # Ferroelectric Tunnel Junction Memristor Crossbar Array with Annealing Optimizati

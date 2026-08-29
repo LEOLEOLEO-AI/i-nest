@@ -1,17 +1,17 @@
 {
-  "generated": "2026-08-29T06:43:49.634836",
+  "generated": "2026-08-29T18:30:06.964926",
   "generator": "state_generator.py v1.0",
   "vault": {
-    "total_md": 10961,
+    "total_md": 10982,
     "inbox_00": 200,
     "processing_20": 563,
     "tcc_30": 1835,
     "inest_40": 1233,
     "output_50": 429,
-    "moc_60": 74
+    "moc_60": 75
   },
   "services": {
-    "preview_server_8899": true,
+    "preview_server_8899": false,
     "jojo_llm_57321": false,
     "jojo_fixer_57320": false
   },
@@ -131,28 +131,17 @@
     ]
   },
   "git": {
-    "uncommitted": 24,
+    "uncommitted": 9,
     "details": [
       "M .obsidian/community-plugins.json",
       " M .obsidian/workspace.json",
       " M .workbuddy/automations/automation-1785546922604/memory.md",
-      " M 60_MOC/02_Research_Insights.md",
-      " M 60_MOC/03_Daily_Action.md",
-      " M 60_MOC/04_Daily_Focus.md",
-      " M 60_MOC/05_Task_Review.md",
-      " M 70_Dashboard/health_watchdog.md",
       " M 90_System/state/health_watchdog.json",
-      " M 99_Meta/daily_analysis_cache.json",
-      " M 99_Meta/dedup_index_v2.json",
-      " M 99_Meta/genspark_research_brief.md",
-      " M 99_Meta/research_task_proposals.json",
-      " M 99_Meta/self_evolve_log.json",
-      "?? \"00_Inbox/_pipeline_insights/2026-08-29_arXiv_Beyond Edge Cuts Activity-Weighted Multicast Hypergraph Mapp.md\"",
-      "?? \"00_Inbox/_pipeline_insights/2026-08-29_arXiv_MeMark Membrane-Space Watermarking for Spiking Neural Networ.md\"",
-      "?? \"00_Inbox/_pipeline_insights/2026-08-29_arXiv_MeshReduce-U Compiler-Guided Communication Reduction for Irr.md\"",
-      "?? \"00_Inbox/_pipeline_insights/2026-08-29_arXiv_Metallogenic quantum criticality Fermi surface nucleation at.md\"",
-      "?? \"00_Inbox/_pipeline_insights/2026-08-29_arXiv_Spectral Fingerprints of Gauge Theories on a Quantum Compute.md\"",
-      "?? \"00_Inbox/_pipeline_insights/2026-08-29_arXiv_Study of Resistive Switching Dynamics and Memory States Equi.md\""
+      " M 99_Meta/evolution_queue.json",
+      " M 99_Meta/hypothesis_registry.json",
+      " M 99_Meta/knowledge_compile_state.json",
+      " M state/wiki_compiler_state.json",
+      "?? 60_MOC/12_Knowledge_Review_2026-08-29.md"
     ]
   },
   "health": {

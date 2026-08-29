@@ -1,4 +1,12 @@
 ---
+direction: TCC
+category: 技术
+tags: [拓扑, 集合通信, 互连架构, 军事智能, AI算力]
+summary: "军事智能生态基座中，拓扑与集合通信是算力突围的关键。"
+quality: high
+processed: 2026-08-29 18:45
+---
+---
 title: "关于承接军事智能生态基座网络方向任务的汇报"
 tags:
   - computing

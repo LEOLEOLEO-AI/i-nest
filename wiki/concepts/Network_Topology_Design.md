@@ -2,6 +2,8 @@
 title: Network_Topology_Design
 tags:
 - chiplet
+aliases:
+  - network topology design
 ---
 **Domain**: TCC
 **First mentioned**: auto-extracted

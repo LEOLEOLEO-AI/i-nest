@@ -4,6 +4,8 @@ type: concept
 domain: TCC
 created: 2026-08-20
 auto: true
+aliases:
+  - topological Anderson insulator
 ---
 
 # Topological_Anderson_Insulator
