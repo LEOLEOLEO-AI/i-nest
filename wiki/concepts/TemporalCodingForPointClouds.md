@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[TemporalAdversarialPerturbation]]
 [[TemporalSparsityExploitation]]
 [[iNEST]]
+[[iNEST_Neuromorphic_Integration]]
 [[neuromorphic computing]]
 
 ## Sources

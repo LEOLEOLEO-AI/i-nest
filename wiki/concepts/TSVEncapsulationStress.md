@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Distributed_Spike_Communication]]
 [[EMIB_Bridge]]
 [[Environmental_Capability_Context]]
+[[FirstPrinciples_Derivation]]
 [[Heterogeneous_Integration]]
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]

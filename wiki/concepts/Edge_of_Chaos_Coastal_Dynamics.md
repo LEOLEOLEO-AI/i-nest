@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[DifferentiableLifting]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[FunctionalInterfaceBlocks]]
 [[Intelligence_Emergence]]
 [[LargeDeviationTopologicalOrder]]
 [[Memristive_Topology]]

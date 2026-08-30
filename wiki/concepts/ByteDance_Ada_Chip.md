@@ -46,13 +46,14 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SDSoW]]
+[[SDSoW_Architecture]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
+[[Second_Curve_Industry_Platform]]
 [[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]
 [[Textbook_Paradigm_Definition]]
 [[iNEST]]
-[[neuromorphic computing architecture]]
 [[neuromorphic computing]]
 
 ## Sources

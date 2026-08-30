@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[EnergyProportionalityCeiling]]
 [[EventDrivenRiskAssessment]]
 [[Event_Driven_Architecture]]
+[[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[FoveationGuidedTokenSelection]]
 [[Interconnect_Routing]]
 [[LowRankPerturbation]]
@@ -45,7 +46,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[Topology_Aware_Spike_Routing]]
 [[avalanche dynamics]]
-[[neural avalanche dynamics]]
 [[neural avalanche]]
 
 ## Sources

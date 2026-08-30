@@ -28,6 +28,8 @@ Auto-extracted concept from raw material compilation.
 [[AI_Forum_Demo_Narrative]]
 [[ActionPrototypeClustering]]
 [[ActiveDendriteSNN]]
+[[BigBrainCellularAxis]]
+[[Intelligence_Emergence]]
 [[Neuromorphic_Computing]]
 [[NonKerrTravelingWaveEmergence]]
 [[Nonlinear_Gain]]

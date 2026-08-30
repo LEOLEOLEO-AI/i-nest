@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[FrequencyAdaptationMechanism]]
 [[GraphAnomalySpikeEncoding]]
 [[Heterogeneous_Integration]]
+[[LatencyGradientDescent]]
 [[LearningTransition]]
 [[SNN]]
 [[SpikeEncoding]]

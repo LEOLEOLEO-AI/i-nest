@@ -1,4 +1,12 @@
 ---
+direction: iNEST
+category: 技术
+tags: [memristor, neuromorphic, self-organization, SNN, hardware]
+summary: "基于忆阻器动力学与自组织网络，梳理iNEST落地方案"
+quality: high
+processed: 2026-08-30 18:45
+---
+---
 title: "iNEST落地方案"
 tags:
   - paper

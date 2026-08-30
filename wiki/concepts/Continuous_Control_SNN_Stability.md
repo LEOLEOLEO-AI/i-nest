@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Change_Record]]
 [[BiSpikCLM]]
 [[BulletTrainScheduling]]
+[[CriticalityDrivenIntegration]]
 [[Criticality]]
 [[CrossEntityPreemptiveWarning]]
 [[DiscreteContinuous_Unification]]

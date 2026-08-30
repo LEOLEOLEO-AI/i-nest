@@ -46,10 +46,12 @@ Auto-extracted concept from raw material compilation.
 [[RandomProjectionLandscapePreservation]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Recursive_Metric_Contraction]]
+[[Selection_Theorems]]
 [[TopologicalAndersonChernInsulator]]
 [[catastrophic forgetting]]
 [[recursive metric contraction]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Crystallized_Neural_Manifolds]]
 [[DTGA]]
 [[Decoupling_Mechanism]]
+[[DifferentiableLifting]]
 [[Evolutionary_Reservoir_Adaptation]]
 [[ExplosiveTransitionThreshold]]
 [[Fixed_Reservoir_Unitary]]

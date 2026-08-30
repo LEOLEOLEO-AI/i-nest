@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Fading_Memory_Property]]
 [[FirstPrinciples_AI]]
 [[Fixed_Reservoir_Unitary]]
+[[GateBasedQuantumReservoir]]
 [[HardwareAware_DesignSpace]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]

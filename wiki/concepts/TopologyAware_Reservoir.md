@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[DiagnosticReportFramework]]
 [[Dynamic_Expert_Fusion]]
 [[MetaFAIR_ArchitectureDiscovery]]
+[[Network_Spatiotemporal_Synergy]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[P_Paradigm]]
@@ -46,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[complex system]]
+[[reservoir computing architecture]]
 [[reservoir computing]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

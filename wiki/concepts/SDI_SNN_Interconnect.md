@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AIRA_NeuralArchSearch]]
 [[Bidirectional_Temporal_Enhancement]]
 [[ComplexValuedSNN]]
 [[DendriticTaskPartitioning]]

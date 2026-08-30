@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Stacking]]
 [[CongestionAwareNoCPlacement]]
 [[Environmental_Capability_Context]]
+[[EventCameraActionRecognition]]
 [[FullDimensionalDefinableInterconnect]]
 [[FunctionalHardwareComposition]]
 [[Heterogeneous_Integration]]

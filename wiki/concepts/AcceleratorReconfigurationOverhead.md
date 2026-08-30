@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[BiologicalNoiseMimicry]]
 [[CUDAQSimulationFramework]]
 [[CoEvolvedSNNEnsemble]]
+[[CombinedImportanceScoring]]
 [[DTGA]]
 [[Emergent_Topology_Adaptation]]
 [[ExplosiveTransitionThreshold]]

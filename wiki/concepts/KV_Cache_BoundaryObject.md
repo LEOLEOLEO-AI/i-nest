@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_NoC_Interconnect]]
 [[Chiplet_Stacking]]
+[[Collective_Offloading]]
 [[Complex_System_Theory]]
 [[HeterogeneousInference]]
 [[Heterogeneous_Integration]]
@@ -47,10 +48,12 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[SiC_GaN_Power_Integration]]
 [[State_Transition_Formalism]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[advanced packaging]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

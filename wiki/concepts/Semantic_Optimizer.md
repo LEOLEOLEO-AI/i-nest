@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Decoupled_Priors]]
 [[Deep_Network_Architecture_Invariant]]
 [[Heterogeneous_Inference_Division]]
+[[InInterconnectMemory]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Memristive_Interconnect]]
@@ -42,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologicalDataCompression]]
 [[Topology_Centric_Computing]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

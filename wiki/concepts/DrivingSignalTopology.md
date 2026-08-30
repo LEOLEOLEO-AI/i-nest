@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AgenticServiceOrchestration]]
 [[AlloyDisorderEngineering]]
 [[AnalogDomainCompression]]
+[[Asymptotic_Exact_Solution]]
 [[AvalancheBranchingRatio]]
 [[BranchingRatio]]
 [[CST_Theory]]

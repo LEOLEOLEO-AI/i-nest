@@ -54,10 +54,12 @@ Auto-extracted concept from raw material compilation.
 [[Synchronization_Overhead_Mitigation]]
 [[iNEST]]
 [[在 FPGA 上实现并行脉冲神经网络（Spiking Neural Net）]]
+[[忆阻器]]
 [[新型计算]]
 [[神经形态计算]]
 [[神经网络]]
 [[类脑芯片]]
+[[脉冲神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

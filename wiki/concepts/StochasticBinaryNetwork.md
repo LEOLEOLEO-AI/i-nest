@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenRiskAssessment]]
 [[EventDrivenTracking]]
 [[EventDrivenWeightUpdate]]
+[[Event_Driven_Communication]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]

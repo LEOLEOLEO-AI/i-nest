@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[Self_Organized_Criticality]]
 [[Syncytial_Mesh]]
+[[Syncytial_Mesh_Model]]
 [[Technical_Program_Officer_Autonomy]]
 [[iNEST]]
 

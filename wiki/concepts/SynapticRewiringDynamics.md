@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[CollectiveSpikingDynamics]]
 [[ConductingPolymerDendriteMemory]]
 [[Criticality]]
+[[DiscreteSTDP]]
 [[Emergent_Intelligence_Threshold]]
 [[Event_Driven_Architecture]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenSensoryEncoding]]
 [[EventDrivenTracking]]
 [[EventDrivenWirelessTransmission]]
+[[Heterogeneous_Integration]]
 [[InSensorMemoryComputing]]
 [[In_Network_Generative_Inference]]
 [[In_Package_Neuromorphic_Integration]]

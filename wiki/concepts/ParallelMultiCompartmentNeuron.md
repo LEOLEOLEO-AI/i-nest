@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Distributed_Spike_Communication]]
 [[FlexibilityThreshold]]
 [[Heterogeneous_Integration]]
+[[LIF_Neuron_Model]]
 [[Neuromorphic_Computing]]
 [[OnChipWeightUpdate]]
 [[SDI_Bond]]

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[On_Chip_STDP_Learning]]
+[[PhaseSynchronizationDetection]]
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[STDPDrivenTemporalBinding]]

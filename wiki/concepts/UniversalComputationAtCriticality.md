@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_Theory_V27_FINAL]]
 [[Cognitive_Relapse_Decoupling]]
 [[Complex_System_Theory]]
+[[ControlDrivenCriticalFluctuations]]
 [[Critical_Region_Extension]]
 [[Criticality]]
 [[Driven_Criticality]]

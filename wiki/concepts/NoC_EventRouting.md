@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[QuarantineCostTradeoff]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
+[[SpikeCommunicationCost]]
 [[Spiking_Neural_Network]]
 [[SyntheticInertiaProvision]]
 [[TCC]]

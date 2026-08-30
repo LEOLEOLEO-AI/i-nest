@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[PartiallyLabeledMemoryRetrieval]]
+[[PostVonNeumannIntelligence]]
 [[RecursiveSelfReferentialArchitecture]]
 [[ScaleFreeNetwork]]
 [[Stigmergic_Graph_Memory]]

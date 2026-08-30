@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[CausalEmergenceCondition]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
+[[ComponentLevelMolding]]
 [[Crystallized_Neural_Manifolds]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Nonlinear_Dynamics]]

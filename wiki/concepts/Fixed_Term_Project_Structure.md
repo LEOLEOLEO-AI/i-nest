@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[FormalToolchain]]
 [[GPU_Cluster_SNN_Architecture]]
 [[NeuromorphicAuditoryFrontend]]
+[[NeuromorphicStatusAwareness]]
 [[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
 [[OpenSource_Neuromorphic_Framework]]

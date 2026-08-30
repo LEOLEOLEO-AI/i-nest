@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AgentBasedCorruptionModel]]
 [[AlloyDisorderEngineering]]
 [[AstrocyteInspiredRepair]]
+[[BigBrainCellularAxis]]
 [[ComplexValuedSNN]]
 [[Complex_System_Theory]]
 [[Distributed_Spike_Communication]]

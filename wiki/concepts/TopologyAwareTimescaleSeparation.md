@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[Generative_Graph_Models]]
 [[Interconnect_Routing]]
+[[MantelTest_SignCorrection]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]

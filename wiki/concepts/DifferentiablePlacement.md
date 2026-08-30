@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AIRA_NeuralArchSearch]]
 [[CSI_Temporal_Encoding]]
+[[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Chip_Floorplanning]]
 [[Communication_Trace_Diagnostics]]
 [[ConductingPolymerDendriteMemory]]

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[CrystalPalace_Program]]
 [[Crystallized_Neural_Manifolds]]
 [[DendriticReservoirState]]
+[[DeterministicChaosResonator]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Abilities]]
 [[Emergent_Intelligence_Threshold]]

@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[CoexistencePhaseDiagram]]
 [[Cognitive_Relapse_Decoupling]]
 [[CollectiveStateTopology]]
+[[ConstraintDrivenSelfOrganization]]
 [[Criticality]]
 [[Network_Topology_Design]]
 [[Quantum_Criticality]]

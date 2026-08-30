@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[03 涌现：整体的能力不能还原回个体？ - 得到APP]]
+[[3D_Integration]]
 [[AdiabaticMultimodeBend]]
 [[AndersonTransition]]
 [[Bipartite_Interconnect]]
@@ -36,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Die_to_Die_Protocol]]
 [[DirectConnect_Topology]]
 [[DualSided_3D_Integration]]
+[[EdgeIoTEnergyAwareness]]
 [[FreeFermionTopologicalInvariant]]
 [[Heterogeneous_Integration]]
 [[InSitu_Compute]]
@@ -45,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[TCC]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

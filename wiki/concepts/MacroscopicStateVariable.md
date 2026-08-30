@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[ComplexValuedSNN]]
 [[Complex_System_Theory]]
 [[Course_Based_FPGA_Projects]]
+[[DevelopmentalNeuromorphicAdaptation]]
 [[EmergentOrder]]
 [[Emergent_Intelligence_Threshold]]
 [[EventCameraActionRecognition]]
@@ -51,7 +52,6 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect]]
 [[complex system]]
 [[iNEST]]
-[[iNEST_Neuromorphic_Integration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

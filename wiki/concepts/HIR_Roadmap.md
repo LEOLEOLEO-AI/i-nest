@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[3DHI_Interconnect]]
 [[3DHI_Stacking]]
 [[3D_Integration]]
+[[AI-ML — 全景导航 (Map of Content)]]
 [[ANN动力学]]
 [[AdvancedPackagingInterconnect]]
 [[Allreduce_Latency_Probe]]
@@ -52,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[interconnect scaling]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstInterleaving]]
 [[Complex_System_Theory]]
 [[ContinualLearningOnNeuromorphic]]
+[[Cytokine_Feedback_Loops]]
 [[DebiasingTechniques]]
 [[EventBasedNeuralDecoding]]
 [[EventDrivenAutoregression]]
@@ -39,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
+[[spiking neural network dynamics]]
 [[spiking neural network]]
 
 ## Sources

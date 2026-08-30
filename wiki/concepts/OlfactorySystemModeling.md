@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Assisted_Energy_Management]]
 [[AI_Assisted_Energy_Optimization]]
 [[Active_Inference_Agent]]
+[[Active_Inference_Architecture]]
 [[AdaptiveFlexibilityThreshold]]
 [[AdaptiveMeasurementProtocol]]
 [[Asymptotic_Exact_Solution]]

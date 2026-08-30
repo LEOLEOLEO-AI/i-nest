@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Assisted_Energy_Optimization]]
 [[AI_Faculty_Forum_2026]]
 [[ASIC_Dualism]]
+[[AdaptiveDensityControl]]
 [[AdiabaticMultimodeBend]]
 [[CST_Spatiotemporal_Complexity]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
@@ -43,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI节点接口规范与化合键定义]]
 [[TCC]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

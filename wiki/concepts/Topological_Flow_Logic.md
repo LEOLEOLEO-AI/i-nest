@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[FractureMechanism]]
 [[InSitu_Compute]]
 [[Interconnect_Routing]]
+[[Military_AI_Revolution]]
 [[Network_Topology_Design]]
 [[RoutingBasedComputation]]
 [[TCC]]

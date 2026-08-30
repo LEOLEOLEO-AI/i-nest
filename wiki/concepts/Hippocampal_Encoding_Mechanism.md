@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[156QubitScale]]
 [[AI-ML — 全景导航 (Map of Content)]]
 [[ANN动力学]]
+[[Alpha_Coefficient_Phase_Transition_Amplification]]
 [[AsymmetricStochasticInteractions]]
 [[AttentionMap_DifferenceResidual]]
 [[CST计量仪]]
@@ -53,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

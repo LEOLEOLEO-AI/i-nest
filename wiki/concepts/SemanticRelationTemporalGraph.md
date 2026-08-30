@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[SDDE_Attractor_Emergence]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
+[[STDP_iNEST_Memristive]]
 [[SelfOrganizedOscillatoryLearning]]
 [[SpikingTopologyEvolution]]
 [[Spiking_Neural_Network]]

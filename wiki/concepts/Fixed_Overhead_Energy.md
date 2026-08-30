@@ -25,7 +25,6 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[Fixed_Cost_Dominance]]
 [[ITP_STDP]]
-[[ITP_STDP_Learning_Engine]]
 [[Memristive_STDP]]
 [[On_Chip_STDP_Learning]]
 [[PolychronousNeuronalGroups]]

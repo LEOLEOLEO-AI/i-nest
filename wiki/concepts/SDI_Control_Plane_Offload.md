@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CommunicationAwareComputeRelocation]]
 [[Complex_System_Theory]]
 [[CongestionAwareNoCPlacement]]
+[[EntanglementAwareRouting]]
 [[FatalityDrivenRewiring]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
@@ -49,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_TopologicalControl]]
 [[SDI_Topology]]
 [[STDP_Plasticity]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[TopologyProgramming]]
 [[Topology_Aware_NoC_Routing]]
@@ -56,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[chiplet interconnect]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

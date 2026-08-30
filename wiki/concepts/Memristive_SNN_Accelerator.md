@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[Deep_SNN_Trainability]]
 [[DeeplySupervisedSpiking]]
+[[DrivenDissipativeDynamics]]
 [[Emergent_Intelligence_Threshold]]
 [[Hardware_Accelerated_SNN]]
 [[Intelligence_Emergence]]

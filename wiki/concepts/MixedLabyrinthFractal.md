@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[LocalSynapticRules]]
+[[MixedSignalSNN_CoDesign]]
 [[Network_Topology_Design]]
 [[NeuromorphicNetworkFabric]]
 [[Neuromorphic_Computing]]

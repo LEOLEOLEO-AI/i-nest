@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[DivergentHigherAreaRanking]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence_Threshold]]
+[[GroupInteractionThreshold]]
 [[HardwareAware_DesignSpace]]
 [[Intelligence_Emergence]]
 [[LatencyCoding]]

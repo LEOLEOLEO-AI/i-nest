@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstTemporalPlasticity]]
 [[Complex_System_Theory]]
 [[DrivenDissipativeDynamics]]
+[[EventDrivenAttentionMasking]]
 [[EventDrivenSynchronization]]
 [[EventDrivenWeightUpdate]]
 [[Network_Topology_Design]]

@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[STDP_Plasticity]]
 [[Spike_Encoding_of_fMRI]]
+[[Spike_Event_Driven_Attention]]
 [[Spiking_Neural_Network]]
 [[SynapticConsolidation]]
 [[Synaptic_Plasticity]]

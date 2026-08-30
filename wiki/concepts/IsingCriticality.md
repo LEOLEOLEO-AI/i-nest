@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Continual_Learning_Modularity]]
 [[CriticalityInducedTopology]]
 [[Criticality]]
+[[Criticality_Metric_Extraction]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Self_Organized_Criticality]]

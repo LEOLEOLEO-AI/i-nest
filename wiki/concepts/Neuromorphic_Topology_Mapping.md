@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkNeuromorphicEmergence]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[Memristive_Solutions]]
 [[Memristor_Synapse]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]

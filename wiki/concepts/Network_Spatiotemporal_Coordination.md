@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Microgrid_Optimization]]
 [[Network_Topology_Design]]
+[[PhononicCrystalMicrowaveCoupling]]
 [[Photonic_Chiplet_Interconnect]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Recursive_Metric_Contraction]]
@@ -54,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[chiplet interconnect]]
 [[temporalComplexity]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

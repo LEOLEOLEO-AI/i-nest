@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[MIND model]]
 [[MIND_Model]]
 [[Neuromorphic_Computing]]
+[[SDI_STDP_Rule]]
 [[STDP_Plasticity]]
 [[SpikeEncoding]]
 [[Spiking_Neural_Network]]

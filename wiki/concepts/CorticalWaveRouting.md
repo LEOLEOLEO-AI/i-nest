@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Pods4Rail_Topology]]
 [[SDI_Bond]]
 [[SDI_STDP]]
+[[SDI_STDP_Rule]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[SNN]]

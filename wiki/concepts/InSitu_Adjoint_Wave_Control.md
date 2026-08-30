@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[MeasurementInducedRouting]]
 [[NetworkDiameterTradeoff]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
@@ -42,9 +43,11 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[STDP_Plasticity]]
 [[SelfOrganization]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[VectorFlowField]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

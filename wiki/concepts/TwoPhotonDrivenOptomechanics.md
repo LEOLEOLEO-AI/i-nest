@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Core_Spacetime_Tensor]]
 [[Course_Based_FPGA_Projects]]
 [[CrystalPalace_Program]]
+[[Crystallized_Neural_Manifolds]]
 [[DataDrivenCellularAxis]]
 [[Dynamic_Expert_Fusion]]
 [[EmergentOrder]]

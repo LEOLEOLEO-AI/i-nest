@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicServiceComposition]]
 [[EulaminateOverrepresentation]]
 [[Free_Energy_Principle_Network]]
+[[GeneralIntelligenceSubstrate]]
 [[GenerativeTopologyModels]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
@@ -50,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Software_Defined_Interconnect]]
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[TopologyProgramming]]
 [[Topology_Page]]
@@ -58,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[temporalComplexity]]
 [[topology reconfiguration]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

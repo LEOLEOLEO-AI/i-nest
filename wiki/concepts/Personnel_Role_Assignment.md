@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossDomain_Abstraction]]
 [[DailyResearchDigest]]
 [[FermiSurfaceTopologySignature]]
+[[HigherOrderDynamicsPreservation]]
 [[Intelligence_Emergence]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
@@ -46,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[neuromorphic computing]]
 [[soc]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

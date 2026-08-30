@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Alpha_Computation_Consistency]]
 [[AnomalousSpinTransport]]
 [[BigBrainCellularAxis]]
+[[BrainActivityPrediction]]
 [[Core_Spacetime_Tensor]]
 [[ErrorSuppressedPipeline]]
 [[Nonlinear_Gain]]

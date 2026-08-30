@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[LowRankEvolutionStrategies]]
 [[MultiFPGA_Spiking_Scaling]]
 [[NanoBanana_SNNDeck]]
+[[NearlyLosslessANNtoSNN]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]

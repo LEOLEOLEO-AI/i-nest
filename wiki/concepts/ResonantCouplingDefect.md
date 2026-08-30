@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[Complex_System_Theory]]
 [[CorticalWaveRouting]]
+[[DevelopmentalNeuromorphicAdaptation]]
 [[Interconnect_Routing]]
 [[MobilityEdge]]
 [[NestedRepresentation]]

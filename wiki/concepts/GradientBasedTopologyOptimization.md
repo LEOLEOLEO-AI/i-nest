@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AgenticServiceOrchestration]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Alpha_Computation_Consistency]]
+[[ArtificialProprioception]]
 [[BurstTemporalPlasticity]]
 [[Complex_System_Theory]]
 [[ConstraintDrivenOptimization]]
@@ -42,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

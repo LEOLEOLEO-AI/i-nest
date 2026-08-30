@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenTemplateUpdate]]
 [[In_Package_Neuromorphic_Integration]]
 [[LeftRightAsymmetry]]
+[[LocalLearning_SynapticUpdate]]
 [[LossSpikePhenomenon]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]

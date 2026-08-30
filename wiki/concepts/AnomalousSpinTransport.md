@@ -61,6 +61,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[智能涌现]]
 [[涌现]]
+[[神经形态脉冲大语言模型（NSLLM）]]
 [[神经形态计算]]
 
 ## Sources

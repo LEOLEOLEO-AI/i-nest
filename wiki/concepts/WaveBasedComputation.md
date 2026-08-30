@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_Interconnect]]
 [[MoE_Routing]]
 [[NestedRepresentation]]
+[[Network_Topology_Design]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
@@ -45,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikingMoE_SDPrompt]]
 [[Spiking_Neural_Network]]
 [[TCC]]
+[[TCC_Neuromorphic_Integration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

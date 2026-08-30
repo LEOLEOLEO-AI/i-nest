@@ -42,12 +42,14 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Epithelial_Barrier_Integrity]]
 [[FermiSurfaceChiralityProjection]]
+[[Generalization_Bound_Spectra]]
 [[GenerativeTopologyModels]]
 [[Intelligence_Emergence]]
 [[MacroscopicDescriptor]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[MultiplicativeGain]]
 [[Network_Topology_Design]]
+[[Reservoir_Computing]]
 [[ScaleFreeNetwork]]
 [[SpatiotemporalComplexityIndex]]
 [[ThermalNoiseHarnessing]]
@@ -56,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[temporalComplexity]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

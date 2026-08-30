@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[AsynchronousEventDrivenComputation]]
 [[Dynamic_Expert_Routing]]
 [[EpidemicThreshold]]
+[[ExactRateChaosTransition]]
 [[ExtinctionDrivenMetastability]]
 [[InteractingQuasiPeriodicChain]]
 [[Interconnect_Routing]]

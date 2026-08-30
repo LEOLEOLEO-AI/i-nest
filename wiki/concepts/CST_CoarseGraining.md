@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[InverseDesignedPhotonicAccelerator]]
 [[NCL神经计算定律详解]]
 [[Network_Topology_Design]]
+[[RG_Flow_Transformer]]
 [[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]
 [[SpatiotemporalComplexityIndex]]
@@ -55,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[temporalComplexity]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

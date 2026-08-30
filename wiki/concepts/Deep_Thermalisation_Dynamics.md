@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[1024_Card_SuperNode]]
 [[3D_Integrated_Chiplet_Stacking]]
+[[4H_SiC_SubstrateProcessing]]
 [[AI_FullSpectrum_Strategy]]
 [[AdiabaticMultimodeBend]]
 [[AdvancedPackagingInterconnect]]
@@ -28,6 +29,8 @@ Auto-extracted concept from raw material compilation.
 [[AndersonTransition]]
 [[Architectural_Conditioning]]
 [[Bipartite_Interconnect]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Stacking]]
 [[CommunicationAsComputation]]
 [[CommunicationAwareComputeRelocation]]
 [[ComputeRelocationOverhead]]

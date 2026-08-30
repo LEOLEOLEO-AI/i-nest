@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Closed_Loop_SNN_Stability_Boundary]]
 [[CrashHotspotForecasting]]
 [[DeeplySupervisedSNN]]
+[[DirectoryManagementLaws]]
 [[DivergentHigherAreaRanking]]
 [[HardwareAware_DesignSpace]]
 [[Nonlinear_Gain]]

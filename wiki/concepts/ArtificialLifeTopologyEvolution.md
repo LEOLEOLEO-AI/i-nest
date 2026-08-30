@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[3nm_Autonomous_Driving_Chip]]
 [[AI_Supply_Chain_Increment]]
 [[ANN动力学]]
+[[Analog_InMemory_Processing]]
 [[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -47,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

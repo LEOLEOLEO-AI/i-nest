@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
+[[Phase_Transition_Tail_Transition]]
 [[Reservoir_Computing]]
 [[Synaptic_Plasticity]]
 [[neuromorphic computing]]

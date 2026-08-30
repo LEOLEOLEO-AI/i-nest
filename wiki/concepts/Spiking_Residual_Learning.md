@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenInference]]
 [[Event_Driven_Architecture]]
 [[FunctionalEnsemble]]
+[[In_Package_Neuromorphic_Integration]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[SpikeBasedNeuralRadianceField]]

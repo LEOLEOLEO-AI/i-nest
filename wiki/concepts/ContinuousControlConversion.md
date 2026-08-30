@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[HumanVisionInspiredSNN]]
 [[Interconnect_Routing]]
 [[LearnableGradientSurrogate]]
+[[Lossless_ANN_SNN_Conversion]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Self_Organized_Criticality]]

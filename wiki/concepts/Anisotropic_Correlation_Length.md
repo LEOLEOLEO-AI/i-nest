@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AnomalousSpinTransport]]
 [[Architectural_Conditioning]]
 [[BifurcationCandidate]]
+[[BigBrainCellularAxis]]
 [[CompartmentalNeuronModel]]
 [[ComplexValuedSNN]]
 [[CrossLayer_SignalRouting]]

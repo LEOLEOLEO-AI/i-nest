@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[03 涌现：整体的能力不能还原回个体？ - 得到APP]]
 [[3DHI_Chiplet_Integration]]
+[[3DHI_Integration]]
 [[AI_Faculty_Forum_2026]]
 [[AnalogInMemoryComputing]]
 [[Analog_Synaptic_Weighting]]
@@ -30,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[BandedNonHermitianRandomMatrices]]
 [[BoundaryObject_Abstraction]]
 [[CST_MasterEquation]]
+[[Chiplet_Heterogeneous_Integration]]
 [[CoarseGrainingFlow]]
 [[Complex_System_Theory]]
 [[DARPA_ProjectManager_Model]]
@@ -45,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Von_Neumann_Complexity_Threshold_Conjecture]]
 [[complex system]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Topology]]
 [[MicroRouter_Embedding]]
 [[Network_Topology_Design]]
+[[NoC_TopologyMapping]]
 [[RecursiveSelfReferentialArchitecture]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]

@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[FractalPathEntropy]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[LocalSynapticRules]]
 [[Memristor_Network]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]

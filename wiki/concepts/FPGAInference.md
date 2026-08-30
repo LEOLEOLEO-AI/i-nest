@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Order_Flexibility_Duality]]
 [[SDI_Bond]]
 [[SDI_STDP]]
+[[SDI_STDP_Rule]]
 [[STDP_Plasticity]]
 [[SelfMotivatedGrowth]]
 [[Self_Organized_Criticality]]

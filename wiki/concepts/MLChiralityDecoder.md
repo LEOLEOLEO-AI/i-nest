@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_Intelligence_Emergence]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Complex_System_Theory]]
+[[Complexity_Emergence]]
 [[ErrorSuppressedPipeline]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

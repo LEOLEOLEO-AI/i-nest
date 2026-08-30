@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Ferroelectric_Devices]]
+[[GroupInteractionThreshold]]
 [[Intelligence_Emergence]]
 [[LatencyCoding]]
 [[Memristive_STDP]]

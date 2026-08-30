@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[SaliencyDrivenAttention]]
 [[SelfOrganizedOscillatoryLearning]]
+[[SparseActivationSkipping]]
 [[Spiking_Mamba_Block]]
 [[Spiking_Neural_Network]]
 [[StochasticBinaryNetwork]]

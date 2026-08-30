@@ -35,11 +35,13 @@ Auto-extracted concept from raw material compilation.
 [[FastSlow_Dynamics]]
 [[Free_Energy_Principle_Network]]
 [[Intelligence_Emergence]]
+[[Microfluidic_Worm_Trap_Array]]
 [[Neuromorphic_Computing]]
 [[TCC]]
 [[analog computation]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

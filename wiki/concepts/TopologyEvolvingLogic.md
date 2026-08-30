@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_NoC_Fabric]]
 [[Chiplet_Stacking]]
 [[CongestionAwareNoCPlacement]]
+[[Deep_Network_Architecture_Invariant]]
 [[DynamicServiceComposition]]
 [[Heterogeneous_Integration]]
 [[Logic_Folding]]

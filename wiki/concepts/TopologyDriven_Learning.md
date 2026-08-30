@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[MemoryDrivenRouting]]
 [[Memristive_Interconnect]]
 [[MetaFAIR_ArchitectureDiscovery]]
+[[NearSensorComputing]]
 [[Network_Topology_Design]]
 [[SDSoW]]
 [[SDSoW_Architecture]]

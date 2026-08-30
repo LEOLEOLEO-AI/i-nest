@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikingNeuralNetworkTopology]]
 [[Spiking_Neural_Network]]
 [[TCC]]
+[[WirelessSplitComputing]]
 [[iNEST]]
 [[神经网络]]
 

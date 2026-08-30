@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Self_Organized_Criticality]]
 [[Spike_Encoding_of_fMRI]]
+[[Spike_Train_Regression]]
 [[SpikingRecurrentCell]]
 [[Spiking_Neural_Network]]
 [[complex system]]

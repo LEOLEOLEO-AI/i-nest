@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[LocalLearning_SynapticUpdate]]
 [[NestedRepresentation]]
 [[NeuromorphicControlBarrierFunction]]
+[[NeuromorphicHandwritingRecognition]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[Spike_Event_Driven_Attention]]

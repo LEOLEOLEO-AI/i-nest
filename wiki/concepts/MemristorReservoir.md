@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Prior_Resolution]]
 [[CrashHotspotForecasting]]
 [[DivergentHigherAreaRanking]]
+[[Globally_Optimal_SNN_Training]]
 [[HardwareAware_DesignSpace]]
 [[Intelligence_Emergence]]
 [[Memristor_Reservoir_Computing]]
@@ -38,11 +39,13 @@ Auto-extracted concept from raw material compilation.
 [[ReservoirComputingModel]]
 [[Reservoir_Computing]]
 [[SDDE_Attractor_Emergence]]
+[[SNN]]
 [[SelfRectifyingMemristor]]
 [[SemanticRelationTemporalGraph]]
 [[SpectralSupportAnalysis]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
+[[reservoir computing architecture]]
 [[reservoir computing]]
 
 ## Sources

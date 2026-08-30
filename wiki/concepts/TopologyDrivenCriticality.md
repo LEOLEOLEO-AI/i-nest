@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspired_Interception_Control]]
 [[Criticality]]
 [[Emergent_Intelligence_Threshold]]
+[[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[FormalLinguisticCompetence]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[HierarchicalBayesianCommunityDetection]]

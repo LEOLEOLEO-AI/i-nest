@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[ComputeRelocationOverhead]]
 [[DTGA]]
 [[DualSide_Routing_Layer]]
+[[Environmental_Capability_Context]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

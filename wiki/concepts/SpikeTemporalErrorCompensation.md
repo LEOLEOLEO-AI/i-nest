@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Local_Plasticity_Rule]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]
+[[SparseActivationSkipping]]
 [[SpikeEncoding]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

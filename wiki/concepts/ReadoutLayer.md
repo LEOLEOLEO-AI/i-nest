@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
+[[SDDE_Attractor_Emergence]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[TriAxiomCalibration]]

@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[CongestionAwarePathSelection]]
 [[CriticalityInducedTopology]]
 [[Criticality]]
+[[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

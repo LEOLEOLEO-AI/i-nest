@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[InNetworkFieldQuery]]
 [[Intelligence_Emergence]]
+[[Level_of_Splat_Detail]]
 [[Memory_Wall]]
 [[Neuromorphic_Computing]]
 [[ReputationSignal]]
@@ -44,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[analog computation]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

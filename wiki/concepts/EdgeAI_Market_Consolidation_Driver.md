@@ -47,11 +47,13 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[L2_L3_Reconfigurability]]
 [[Network_Topology_Design]]
+[[OptomechanicalNonlinearity]]
 [[TCC]]
 [[chiplet interconnect]]
 [[complex system]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

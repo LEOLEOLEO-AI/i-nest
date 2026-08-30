@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[LIF_Neuron_Model]]
 [[Memristive_Spike_Integration]]
 [[Memristor_Synapse]]
+[[Nature_Electronics_Neuromorphic_Validation]]
 [[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
 [[Deep_Network_Architecture_Invariant]]
+[[ERI_2_0_Strategic_Framework]]
 [[Emergent_Intelligence_Theory]]
 [[Heterogeneous_Integration]]
 [[Hyper_Dimensional_Computing]]
@@ -48,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[BioPlausibleDisturbanceEstimation]]
 [[BiologicallyAccurateMultilayer]]
 [[BrainScaleTopologyExploitation]]
+[[Brain_Dynamics_Learning]]
 [[CST theory]]
 [[CST_Theory]]
 [[Complex_System_Theory]]

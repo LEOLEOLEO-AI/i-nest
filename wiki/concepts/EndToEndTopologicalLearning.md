@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicStatusAwareness]]
 [[Neuromorphic_Computing]]
 [[OpenLearningEcosystem]]
+[[PhysicallyInformedDeepLearning]]
 [[STDPDrivenConnectivity]]
 [[STDP_Plasticity]]
 [[StochasticMultiAgentRL]]
@@ -44,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Closed_Loop_SNN_Stability_Boundary]]
 [[CombinedImportanceScoring]]
 [[CompartmentalNeuronModel]]
+[[CoreComputationSubspace]]
 [[CrashHotspotForecasting]]
 [[DivergentHigherAreaRanking]]
 [[HardwareAware_DesignSpace]]

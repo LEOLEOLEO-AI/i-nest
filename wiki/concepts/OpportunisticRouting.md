@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AgenticServiceTopology]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Baseline_Draft_Status]]
+[[Bipartite_Interconnect]]
 [[BurstGatedRouting]]
 [[CellEmergence]]
 [[Complex_System_Theory]]
@@ -41,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[StochasticMultiAgentRL]]
 [[TopologicalDataCompression]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

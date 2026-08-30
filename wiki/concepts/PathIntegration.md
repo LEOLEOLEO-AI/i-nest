@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicNetworkFabric]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
+[[PromptBasedTimeSeriesForecasting]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[Spiking_Neural_Network]]

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[ArbitraryWavefunctionConfigurability]]
 [[Architectural_Conditioning]]
 [[CST_MasterEquation]]
+[[Chip-Hardware — 全景导航 (Map of Content)]]
 [[CircadianGateModulation]]
 [[Complex_System_Theory]]
 [[Contested_Prior_Resolution]]

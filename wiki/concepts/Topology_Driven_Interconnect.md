@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[ReproducibleReservoirDynamics]]
 [[Reservoir_Computing]]
 [[SDDE_Physical_Dynamics]]
+[[SDSoW]]
 [[TCC]]
 [[ThermallyDrivenSuperparamagnetReservoir]]
 

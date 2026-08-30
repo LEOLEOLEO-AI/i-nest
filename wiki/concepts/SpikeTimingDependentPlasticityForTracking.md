@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[Controlled_Release_Kinetics]]
 [[Cytokine_Feedback_Loops]]
+[[EventDrivenSpectralProcessing]]
 [[Neuromorphic_Computing]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]

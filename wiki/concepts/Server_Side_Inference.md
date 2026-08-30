@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
 [[Complex_System_Theory]]
+[[DistinctReentrantPhases]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Loihi2_OnChip_Learning]]
@@ -51,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

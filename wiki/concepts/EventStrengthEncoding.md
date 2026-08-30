@@ -36,6 +36,8 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[Neuromorphic_Selective_State_Space]]
 [[Spike_Event_Driven_Attention]]
+[[Spiking_Neural_Network]]
+[[SynapticConsolidation]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]

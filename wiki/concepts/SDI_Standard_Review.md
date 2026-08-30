@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI节点接口规范与化合键定义]]
 [[SpatiotemporalComplexityIndex]]
 [[TCC]]
+[[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[WaferLevelMolding]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
@@ -59,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[temporalComplexity]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

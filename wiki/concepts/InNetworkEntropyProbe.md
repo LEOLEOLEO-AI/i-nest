@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[BulletTrainScheduling]]
 [[ChargeDomainAttention]]
 [[Continuous_Control_SNN_Stability]]
+[[CriticalityDrivenIntegration]]
 [[Criticality]]
 [[CrossDomain_Integration]]
 [[CrossEntityPreemptiveWarning]]

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_Theory_V27_FINAL]]
 [[Catastrophic_Forgetting_Mitigation]]
 [[Complex_System_Theory]]
+[[Contested_Priors_Architecture]]
 [[CriticalFixedPoint]]
 [[Criticality]]
 [[Intelligence_Emergence]]

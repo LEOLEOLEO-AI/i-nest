@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AllOpticalHebbianLearning]]
 [[BarrierConditionedTrajectory]]
 [[BurstInterleaving]]
+[[CorticalTravelingWave]]
 [[CorticalTravelingWaves]]
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]

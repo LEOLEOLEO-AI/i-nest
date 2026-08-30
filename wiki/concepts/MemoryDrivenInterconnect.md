@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[CIMWeightUpdateAwareness]]
 [[Complex_System_Theory]]
+[[EventDrivenPlasticity]]
 [[EventDrivenTracking]]
 [[In_Package_Neuromorphic_Integration]]
 [[Interconnect_Routing]]

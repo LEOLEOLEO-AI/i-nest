@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Biomanufacturing_Control_Loop]]
 [[Bosonic_SPT_Phases]]
 [[BranchingRatio]]
+[[Categorical_Reservoir_Model]]
 [[ConnectivityDerivedReservoir]]
 [[CoupledOscillatorReservoir]]
 [[CriticalStateReservoir]]

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[PhaseLockedTopologyMapping]]
 [[SNN]]
+[[SafetyThresholdAsSpikingThreshold]]
 [[SpikePacketRouting]]
 [[Spiking_Neural_Network]]
 [[iNEST]]

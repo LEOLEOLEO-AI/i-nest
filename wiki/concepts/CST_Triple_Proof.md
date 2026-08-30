@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_CoarseGraining]]
 [[CST_Complexity_Metric]]
 [[CST_Spatiotemporal_Complexity]]
+[[CST计量仪]]
 [[CausalIntegrationTopology]]
 [[Causal_Clinical_Reasoning]]
 [[ChipletWaferInterconnectTopology]]
@@ -56,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[temporalComplexity]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

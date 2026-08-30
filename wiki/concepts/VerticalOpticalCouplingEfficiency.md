@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[InterChipletPHYModeling]]
+[[Interconnect_Routing]]
 [[MemoryEfficientSimulation]]
 [[Network_Topology_Design]]
 [[NextNearestNeighborHopping]]
@@ -48,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_TCC_Chiplet]]
 [[ScaleFreeNetwork]]
 [[SmoothCurvatureProfile]]
+[[SpeciatedEvolutionarySynthesis]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
 [[Topological_State_Encoding]]
@@ -56,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[智能涌现]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

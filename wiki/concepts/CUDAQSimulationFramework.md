@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AcceleratorReconfigurationOverhead]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[CrossLayer_SignalRouting]]
 [[CrossbarSNNArchitecture]]
 [[DARPA_ProjectManager_Model]]
 [[DTGA]]

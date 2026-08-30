@@ -46,7 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Parallelized_Hierarchical_Connectome]]
-[[PowerLawScalingClassification]]
+[[PowerLawScaling]]
 [[RecursiveSelfReferentialArchitecture]]
 [[TopologicalAndersonChernInsulator]]
 [[causal emergence]]

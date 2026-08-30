@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[OcclusionHandlingStrategy]]
 [[PropertyPredictionModeling]]
 [[ResistiveMemoryWriteBudgeting]]
+[[Sparsity_Degradation_Threshold]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[complex system]]

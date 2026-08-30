@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveDendriteSNN]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[BioInspired_Interception_Control]]
+[[BrownianCastleInterface]]
 [[BurstGatedRouting]]
 [[BurstTemporalPlasticity]]
 [[Cognitive_Relapse_Decoupling]]

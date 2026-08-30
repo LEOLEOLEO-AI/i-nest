@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN动力学]]
 [[AdditiveTopology_Embedding]]
 [[Advanced_Computing_Project]]
+[[Analog_InMemory_Processing]]
 [[BCM滑动阈值]]
 [[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
@@ -45,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Continual_Learning_Modularity]]
 [[CriticalityOffCriticalityTransition]]
 [[Criticality]]
+[[DisorderedNetworkInterconnect]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeOfChaos]]
 [[Emergent_Intelligence_Threshold]]

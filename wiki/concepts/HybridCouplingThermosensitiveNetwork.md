@@ -32,18 +32,21 @@ Auto-extracted concept from raw material compilation.
 [[Habituation_Dynamics]]
 [[Intelligence_Emergence]]
 [[InterDomain_Synergy]]
+[[Interconnect_Routing]]
 [[JunctionCenteredRouting]]
 [[LatencyGradientDescent]]
 [[MolecularTargetSignaling]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[OpenLearningEcosystem]]
+[[Plasticity_vs_Computation_Separation]]
 [[Reconfigurable_Neural_Topology]]
 [[STDPDrivenConnectivity]]
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

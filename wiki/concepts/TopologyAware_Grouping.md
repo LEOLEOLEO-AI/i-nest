@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AdiabaticMultimodeBend]]
 [[AndersonTransition]]
 [[Bipartite_Interconnect]]
+[[Bipartite_Interconnect_Design]]
 [[ChiralSymmetryClasses]]
 [[CommunicationAsComputation]]
 [[ComputeRelocationOverhead]]

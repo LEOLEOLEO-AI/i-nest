@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[ErdosRenyi_Graph_Energy_Surface]]
+[[EventDrivenAttentionMasking]]
 [[EventDrivenWeightUpdate]]
 [[EventTriggeredDistributedControl]]
 [[Intelligence_Emergence]]

@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[FractalPathEntropy]]
 [[HardwareAware_DesignSpace]]
+[[HoldingManeuverDelayPrediction]]
 [[Intelligence_Emergence]]
 [[Izhikevich_NeuronModel]]
 [[Nanoencapsulation_Stability_Bioavailability]]

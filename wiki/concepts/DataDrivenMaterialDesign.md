@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicAuditoryFrontend]]
 [[Neuromorphic_Computing]]
 [[NonEquilibriumComputing]]
+[[NonequilibriumLangevinComputing]]
 [[Nonlinear_Gain]]
 [[PhysicalReservoir]]
 [[ReservoirDynamics]]

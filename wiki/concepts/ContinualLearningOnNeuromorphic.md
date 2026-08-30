@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeDrivenInference]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
+[[StreamDataflowArchitecture]]
 [[catastrophic forgetting]]
 [[edge intelligence]]
 [[iNEST]]

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[BoseCondensateAnalogy]]
 [[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
+[[ChiralTopologicalMatterEncoding]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
@@ -44,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Switch_Bottleneck]]
 [[TCC]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[WaferScaleTopologyCentricComputing]]
 [[WaferScale_Chiplet_Interconnect]]
+[[Wafer_Chiplet_Topology_Interconnect]]
 [[chiplet interconnect]]
 [[iNEST]]
 

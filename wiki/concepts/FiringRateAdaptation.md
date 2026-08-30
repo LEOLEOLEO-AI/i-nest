@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[TCC_Neuromorphic_Integration]]
 [[iNEST]]
 [[神经网络]]
 

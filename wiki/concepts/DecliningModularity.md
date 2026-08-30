@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[CommunicationAwareComputeRelocation]]
 [[Complex_System_Theory]]
+[[Deep_Thermalisation]]
 [[EnsembleSparsity]]
 [[Heterogeneous_Integration]]
 [[In_Package_Neuromorphic_Integration]]
@@ -48,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[intellectual base]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Ant_Swarm_Functional_Control]]
 [[Architectural_Conditioning]]
+[[BifurcationCandidate]]
 [[Cognitive_Relapse_Decoupling]]
 [[Complex_System_Theory]]
 [[Critical_Region_Extension]]
@@ -53,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[topology reconfiguration]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

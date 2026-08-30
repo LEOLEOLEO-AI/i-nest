@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect_Topology]]
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
+[[DTGA]]
 [[DynamicServiceComposition]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
@@ -42,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Architecture]]
 [[SimulationReproducibilityAudit]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

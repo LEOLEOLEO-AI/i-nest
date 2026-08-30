@@ -48,11 +48,13 @@ Auto-extracted concept from raw material compilation.
 [[InverseDesignedPhotonicRouting]]
 [[Memory_Wall]]
 [[ModeCouplingSuppression]]
+[[NetworkHysteresis]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[advanced packaging]]
 [[chiplet interconnect]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

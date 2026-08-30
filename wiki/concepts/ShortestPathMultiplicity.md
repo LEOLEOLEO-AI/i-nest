@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AdsorptionBiosorptionHybrid]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[BrownianCastleInterface]]
 [[ComplexValuedSNN]]
 [[CulturalDisseminationDynamics]]
 [[DTGA]]

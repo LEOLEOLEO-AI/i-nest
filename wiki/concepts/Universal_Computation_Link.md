@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AgenticServiceOrchestration]]
 [[Ant_Swarm_Functional_Control]]
 [[Cognitive_Relapse_Decoupling]]
+[[Critical_Region_Extension]]
 [[Criticality]]
 [[CrossLayer_SignalRouting]]
 [[CrystalPalace_Program]]

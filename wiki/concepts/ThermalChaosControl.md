@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[DTGA]]
 [[DendriticReservoirState]]
 [[Free_Energy_Topology_Mapping]]
+[[Inference_Workload_Profiling]]
 [[Intelligence_Emergence]]
 [[MetaHardwareAbstraction]]
 [[Microsecond_Link_Reconfiguration]]
@@ -51,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[Topological_Phase_Transition_Scaling]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

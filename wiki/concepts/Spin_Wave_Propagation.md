@@ -39,6 +39,8 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_TCC_iNEST_Interconnect]]
 [[SDSoW]]
+[[SDSoW_Architecture]]
+[[SDSoW_Strategic_Planning]]
 [[TCC]]
 [[TCC_iNEST_Interconnect]]
 [[analog computation]]

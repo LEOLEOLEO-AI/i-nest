@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[SiC_GaN_Power_Integration]]
 [[SparseTemporalEncoding]]
 [[State_Transition_Formalism]]
+[[SystemLevelNonlinearity]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]

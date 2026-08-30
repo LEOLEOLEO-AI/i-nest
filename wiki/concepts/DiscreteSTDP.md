@@ -31,11 +31,10 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[PhaseLockedTopologyMapping]]
 [[PolychronousNeuronalGroups]]
-[[Quadratic_Integrate_and_Fire_Neuron]]
+[[Quadratic_Integrate_and_Fire]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]
 [[SDI_STDP]]
-[[SDI_STDP_Bond]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
@@ -44,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
+[[iNEST_Neuromorphic_Integration]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

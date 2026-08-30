@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_Theory]]
 [[CST_Theory_V27_FINAL]]
 [[Complex_System_Theory]]
+[[CriticalPhaseTransitionStatisticalTest]]
 [[Criticality]]
 [[FPGAInference]]
 [[Less is more，大脑“低能耗”并“高效响应”的秘诀：模块化]]

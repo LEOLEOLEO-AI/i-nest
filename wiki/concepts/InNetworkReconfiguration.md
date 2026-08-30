@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Receptron_Unit]]
+[[ReconfigurableSNNTopology]]
 [[SelfOrganization]]
 [[Self_Organized_Criticality]]
 [[Synaptic_Plasticity]]

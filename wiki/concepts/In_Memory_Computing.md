@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Emerging_CMOS_Memristor_Devices]]
 [[Evolutionary_Computability]]
 [[FerroelectricMemoryCell]]
+[[FerroelectricTunnelingJunction]]
 [[Ferroelectric_Devices]]
 [[FlagOS_2_0]]
 [[Free_Energy_Principle_Network]]

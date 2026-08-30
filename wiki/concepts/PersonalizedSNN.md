@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[Nonlinear_Gain]]
 [[SNN]]
+[[SNN_VisualSemanticDecoder]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 [[neuromorphic computing]]

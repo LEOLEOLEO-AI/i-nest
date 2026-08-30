@@ -26,6 +26,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 ## Related Work
 
 [[Allreduce_Latency_Probe]]
+[[BNN vs ANN (1)]]
 [[CST计量仪]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]

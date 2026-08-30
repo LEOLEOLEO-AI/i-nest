@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossDomain_Synthesis]]
 [[DisorderedNetworkInterconnect]]
 [[EnergyEfficiencyAI]]
+[[EventDrivenLearning]]
 [[Neuromorphic_Computing]]
 [[catastrophic forgetting]]
 [[iNEST]]

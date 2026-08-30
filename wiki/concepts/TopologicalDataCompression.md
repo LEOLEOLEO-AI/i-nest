@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[MemoryDrivenRouting]]
 [[Memristive_Interconnect]]
 [[MetaFAIR_ArchitectureDiscovery]]
+[[NCL神经计算定律详解]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
@@ -44,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[WaferScale_Chiplet_Interconnect]]
 [[chiplet interconnect]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[类脑芯片]]
 
 ## Sources

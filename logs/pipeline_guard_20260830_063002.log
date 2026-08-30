@@ -1,0 +1,99 @@
+
+============================================================
+  iNEST + TCC Research Pipeline v3.3
+  2026-08-30 06:30
+============================================================
+[06:30:02] [S2] Searching Semantic Scholar (19 queries)...
+[06:30:14]   S2: 429 rate limited; skip S2 for this run and continue with arXiv/GN
+[06:30:14] [arXiv] Searching arXiv (via proxy, 21 queries)...
+[06:30:32]   arXiv skip irrelevant: Nonparametric multiscale modeling of boundary lubrication: h
+[06:30:32]   arXiv skip irrelevant: Large Magnet Structures for Fusion Technology: Lessons from 
+[06:30:32]   arXiv skip irrelevant: GRAIN: Bridging Name and Narrative Shifts in Real-World Grap
+[06:30:40]   arXiv skip irrelevant: An Open-Source Benchmark Suite of 3D-IC Testcases
+[06:30:40]   跳过重复: Thermal Tuning Overhead in Wafer-Scale Optical Int... [Title: Thermal Tuning Overhead in Wafer-Scale Optical Interconnects for LLM MoE Trainin]
+[06:30:40]   arXiv skip irrelevant: IC-ThermBench: An Open, Progressive Benchmark for Generaliza
+[06:30:46]   arXiv skip irrelevant: Programmable Cavity Squeezing for Distributed Sensing in a T
+[06:30:46]   arXiv skip irrelevant: Magnon-induced phononic Chern insulator
+[06:30:46]   arXiv skip irrelevant: PLCBench: Can Autonomous LLM Agents Turn PLC Access into Sus
+[06:30:52]   arXiv skip irrelevant: Successive Capacity Growth: Task-Complexity-Driven Width and
+[06:30:52]   arXiv skip irrelevant: Long-time Dynamics of Many-body Open Quantum Systems using Q
+[06:30:52]   arXiv skip irrelevant: An Accurate and Single-Communication Federated Inference Alg
+[06:30:58]   arXiv skip irrelevant: Conservative deterministic Markov models in mathematical bio
+[06:30:58]   arXiv skip irrelevant: REE-TM: Reliable and Energy-Efficient Traffic Management Mod
+[06:30:58]   跳过重复: MeshReduce-U: Compiler-Guided Communication Reduct... [Title: MeshReduce-U: Compiler-Guided Communication Reduction for Irregular Neural Reduc]
+[06:31:03]   arXiv: batch separator, pausing 10s...
+[06:31:15]   arXiv skip irrelevant: Distributed Training using an Intelligent Network
+[06:31:15]   arXiv skip irrelevant: Subgraph Filtering for Fair Graph Neural Networks
+[06:31:15]   arXiv skip irrelevant: Adaptive Peer Clustering with Hierarchical Random Linear Net
+[06:31:21]   arXiv skip irrelevant: Information Flow Control in Off-Chain Components
+[06:31:21]   arXiv skip irrelevant: Extending Low Latency Service Across the Internet
+[06:31:21]   arXiv skip irrelevant: Open-Source 5G RAN Platforms: A Dual Perspective on Performa
+[06:31:43]   跳过重复: Spectral Fingerprints of Gauge Theories on a Quant... [Title: Spectral Fingerprints of Gauge Theories on a Quantum Computer]
+[06:31:43]   跳过重复: Metallogenic quantum criticality: Fermi surface nu... [Title: Metallogenic quantum criticality: Fermi surface nucleation at transitions betwee]
+[06:31:43]   arXiv skip irrelevant: From Static to Dynamic: Benchmarking Real-World Code Review 
+[06:31:50]   arXiv skip irrelevant: Superextensive learning in quantum reservoirs at the onset o
+[06:31:50]   arXiv skip irrelevant: Schrödinger Bridges over Kinetic Swarming Models
+[06:31:50]   arXiv skip irrelevant: Quantifying System-Level Harms from AI Adoption in Complex S
+[06:31:55]   arXiv skip irrelevant: Learning Continuous Regional Temperature Fields with Lead-Ti
+[06:31:55]   arXiv skip irrelevant: DoublesEval: Diagnosing Multi-Agent Tactical Reasoning in Vi
+[06:31:55]   arXiv skip irrelevant: Robust Slip Detection and Material Classification via Spatio
+[06:32:00]   arXiv: batch separator, pausing 10s...
+[06:32:12]   跳过重复: Study of Resistive Switching Dynamics and Memory S... [Title: Study of Resistive Switching Dynamics and Memory States Equilibria in Analog Fil]
+[06:32:12]   跳过重复: MeMark: Membrane-Space Watermarking for Spiking Ne... [Title: MeMark: Membrane-Space Watermarking for Spiking Neural Networks]
+[06:32:12]   跳过重复: Syn2Logic: End-to-End Neuromorphic Design Automati... [Title: Syn2Logic: End-to-End Neuromorphic Design Automation]
+[06:32:19]   arXiv skip irrelevant: UrbanGround: From Local Perception to Spatial Agency in a Re
+[06:32:19]   arXiv skip irrelevant: Naive Prompt Optimization: Rethinking the Need for Complex P
+[06:32:19]   arXiv skip irrelevant: What Makes Good Agentic Data? An ACE Lens on Data Generation
+[06:32:27]   arXiv skip irrelevant: Performance Foundations of Parallel & Distributed Reasoning 
+[06:32:27]   arXiv skip irrelevant: FoldPipe: Bounded Remote Streaming of Native Molecular Shard
+[06:32:27]   arXiv skip irrelevant: Parameter Efficient Continual Learning for Sparse Event-Base
+[06:32:34]   arXiv skip irrelevant: 4DGS-WAM: Bridging Past and Future with an Object-Centric Wo
+[06:32:34]   arXiv skip irrelevant: Structured Non-Locality and Emergent Locality in Cavity-QED 
+[06:32:34]   arXiv skip irrelevant: A Multi-View Coupled Tensor Decomposition for Lightweight On
+[06:32:41]   跳过重复: Beyond Edge Cuts: Activity-Weighted Multicast Hype... [Title: Beyond Edge Cuts: Activity-Weighted Multicast Hypergraph Mapping for Spiking Neu]
+[06:32:41]   arXiv skip irrelevant: HMGCLIP: Heterogeneous Multi-Granularity Contrastive Learnin
+[06:32:46]   arXiv: batch separator, pausing 10s...
+[06:32:58]   arXiv skip irrelevant: Single State Update Predictive Coding training for Time Seri
+[06:32:58]   arXiv skip irrelevant: Free-Energy-Gated Plasticity for Real-Time Online Motor Lear
+[06:33:05]   跳过重复: Sensor Drift Compensation via Olfactory system and... [Title: Sensor Drift Compensation via Olfactory system and Reservoir Computing]
+[06:33:05]   跳过重复: Quantum Reservoir Computing with Physics-Informed ... [Title: Quantum Reservoir Computing with Physics-Informed Correction for Reduced-Order P]
+[06:33:05]   跳过重复: Identifying Probability Localization Dynamics via ... [Title: Identifying Probability Localization Dynamics via Structured Stochastic Liftings]
+[06:33:12]   arXiv skip irrelevant: A Geometry-Driven, Framework-Agnostic Optimization for Objec
+[06:33:18]   arXiv skip irrelevant: Deterministic Identification over Additive Gaussian Channels
+[06:33:29]   arXiv: batch separator, pausing 10s...
+[06:33:40]   arXiv skip irrelevant: Towards Reproducible Evaluation of Distributed Quantum Circu
+[06:33:40]   arXiv skip irrelevant: Distributed Training using an Intelligent Network
+[06:33:40]   跳过重复: Discovering Adaptive Transmission Programs for Col... [Title: Discovering Adaptive Transmission Programs for Collective Innovation]
+[06:33:45] [arXiv] 0 new papers, 0 errors across 21 queries
+[06:33:45] [GN] Google News RSS...
+[06:34:06]   GN error (TCC): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[06:34:28]   GN error (iNEST): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[06:34:50]   GN error (emergence): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[06:35:12]   GN error (complex-networks): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[06:35:13] [GN] 0 new articles
+
+  Total: 0 new items to inbox
+[06:35:13] [Process] LLM classify (free tier, limit=20)...
+[06:35:35] [Process] Classified: 0
+[06:35:35] [Genspark] Generating research brief...
+[06:35:36] [Genspark] Research brief written: genspark_research_brief.md
+[06:35:36] [Graph] Scanning wiki links...
+[06:35:40] [Graph] 10988 files, 180377 links
+[06:36:30] [Graph] Exported: 10988 nodes, 174906 edges
+[06:36:30] [Graph] 0 missing backlinks
+[06:36:30] [DailyGen] Daily_Action + Focus + Insights generated
+[06:36:30] [Review] Research task proposals refreshed
+
+============================================================
+  Pipeline v3.3 Complete
+  Sources: 0(S2)+0(arXiv)+0(GN) | Written: 0 new papers
+  Processed: 0 | Nodes: 10988 edges: 174906 | Missing links: 0 | Genspark: OK
+  Elapsed: 388s
+============================================================
+[06:36:31] [State] research_state.json updated
+[06:36:31] [Evolution] Evidence + hypotheses updated
+[06:37:04] [Wiki] Karpathy compiler: raw → wiki done
+[06:37:04] [Insight] Cross-domain bridges updated
+[06:37:39] [Tasks] Research recommendations updated
+[06:37:39] [Dashboard] Live dashboard published
+[06:37:40] [Homepage] Home.md auto-refreshed

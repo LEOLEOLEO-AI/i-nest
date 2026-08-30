@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_NoC_Fabric]]
 [[Chiplet_Stacking]]
 [[Complex_System_Theory]]
+[[External_to_OnDie_Evolution]]
 [[HeterogeneousInference]]
 [[Heterogeneous_Integration]]
 [[Inference_Stage_Decomposition]]
@@ -49,9 +50,11 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[SiliconPhotonicsNetwork]]
 [[Space_Compute_Architecture_Tradeoff]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[ThroughSiliconVia_TSV_ThermalPath]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

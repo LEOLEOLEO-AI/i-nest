@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[AdiabaticMultimodeBend]]
 [[AdsorptionBiosorptionHybrid]]
 [[Allreduce_Latency_Benchmark]]
+[[Analog_InMemory_Processing]]
 [[CST计量仪]]
 [[CentralityBasedDefense]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
@@ -41,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[DistinctReentrantPhases]]
 [[ERI_2_0_Strategy]]
 [[EndToEndDesignAutomation]]
+[[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[MachineLearningPotential]]
 [[Network_Topology_Design]]
@@ -51,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[complex system]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

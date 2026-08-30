@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[DataProvenanceIntegrity]]
 [[Deep_Network_Architecture_Invariant]]
 [[Deep_Network_Layer_Stacking]]
+[[Defense_Industrial_Base_Reshaping]]
 [[Dynamic_Expert_Fusion]]
 [[Evolutionary_Computability]]
 [[FeatureBasedGraphEmbedding]]

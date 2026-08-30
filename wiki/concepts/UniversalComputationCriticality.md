@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[AI_FullSpectrum_Strategy]]
 [[Additive_Manufacturing_Supply_Chain]]
+[[Advanced_Packaging_for_Space]]
 [[AgenticServiceManifesto]]
 [[AgenticServiceOrchestration]]
 [[Allreduce_Latency_Probe]]

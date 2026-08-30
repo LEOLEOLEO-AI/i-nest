@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveEntanglementManagement]]
 [[AdaptiveFunctionalTopology]]
 [[AtomicGeometryEncoding]]
+[[BrownianCastleInterface]]
 [[EnsembleSparsity]]
 [[Interconnect_Routing]]
 [[LowRankPerturbation]]

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Delay_Aware_Autograd_Spiking_Framework]]
 [[DirectTrainingFromScratch]]
 [[DualDrivenHybridNetwork]]
+[[EEG_Criticality]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Self_Organized_Criticality]]

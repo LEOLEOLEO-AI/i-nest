@@ -29,12 +29,13 @@ Auto-extracted concept from raw material compilation.
 [[1M1T1R_SynapticNeuron]]
 [[20W_Brain_Inspired_Planning]]
 [[6万+辛顿2025年度全景实录深读｜真正的智能与硅基智能的非对称演进]]
+[[AI-ML — 全景导航 (Map of Content)]]
 [[AI_Orchestrator]]
 [[AI_Supply_Chain_Increment]]
 [[AI人工智能 卷积神经网络（CNN）_w3cschool]]
 [[Agent_Workflow_Automation]]
 [[Barrier_Hierarchy]]
-[[BifurcationCandidateSet]]
+[[BifurcationCandidate]]
 [[CST计量仪]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
@@ -45,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

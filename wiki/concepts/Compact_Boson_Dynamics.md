@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[FermiSurfaceTopologySignature]]
 [[HigherOrderDynamicsPreservation]]
 [[Intelligence_Emergence]]
+[[Interconnect_Routing]]
 [[MemoryDrivenRouting]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
@@ -41,12 +42,14 @@ Auto-extracted concept from raw material compilation.
 [[Personnel_Role_Assignment]]
 [[SpatialAutocorrelationMetric]]
 [[TCC]]
+[[TopologicalDataCompression]]
 [[Trustworthiness_Aware_Training]]
 [[advanced packaging]]
 [[iNEST]]
 [[neuromorphic computing]]
 [[soc]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

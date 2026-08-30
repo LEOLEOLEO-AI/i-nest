@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[CommunicationAwareComputeRelocation]]
 [[Complex_System_Theory]]
 [[Decoupling_Mechanism]]
+[[External_to_OnDie_Evolution]]
 [[HeterogeneousInference]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
@@ -50,10 +51,12 @@ Auto-extracted concept from raw material compilation.
 [[SDI_TopologicalControl]]
 [[STDP_Plasticity]]
 [[Space_Radiation_Hardening]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[ThroughSiliconVia_TSV_ThermalPath]]
 [[advanced packaging]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

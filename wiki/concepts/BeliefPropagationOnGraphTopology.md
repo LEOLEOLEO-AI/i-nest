@@ -29,7 +29,9 @@ Auto-extracted concept from raw material compilation.
 [[AI_Forum_Demo_Narrative]]
 [[AgenticServiceOrchestration]]
 [[Agile_Resilient_Defense_Ecosystem]]
+[[AmorphousTopologicalSubstrate]]
 [[Ant_Swarm_Functional_Control]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
 [[CriticalPointControl]]
 [[DelayTolerantNetworkUAV]]
@@ -40,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[TCC]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

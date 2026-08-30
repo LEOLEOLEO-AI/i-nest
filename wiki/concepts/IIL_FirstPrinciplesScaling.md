@@ -42,11 +42,14 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[RenormalizationGroupIntelligence]]
 [[STDP_Plasticity]]
+[[StateAugmentedLearning]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[complex system]]
 [[iNEST]]
 [[scaling laws]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

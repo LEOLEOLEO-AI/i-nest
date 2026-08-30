@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[ActionWeightedPathEnsemble]]
 [[Allreduce_Latency_Probe]]
 [[AnalogStateRetention]]
+[[Analog_InMemory_Processing]]
 [[Architectural_Conditioning]]
 [[Associative_Memory_Unification]]
 [[BCM滑动阈值]]
@@ -57,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[soc]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

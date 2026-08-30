@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[Fixed_Term_Project_Structure]]
 [[Interconnect_Routing]]
+[[LowRankPerturbation]]
 [[Network_Topology_Design]]
 [[NeuromorphicRadarFrontend]]
 [[NeuromorphicTransformerPipeline]]

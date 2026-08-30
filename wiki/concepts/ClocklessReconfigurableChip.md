@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[CorticalWaveRouting]]
 [[Emergent_Intelligence_Threshold]]
+[[ExplainableEnergyAI]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[LocalQuantumLearningRule]]

@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[ReservoirDynamics]]
 [[ReservoirTemporalDynamics]]
 [[Reservoir_Computing]]
+[[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[complex system]]
 [[iNEST]]

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Alpha_Computation_Consistency]]
 [[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
+[[ComplexValuedSNN]]
 [[Complex_System_Theory]]
 [[DarkSiliconAwarePowerGating]]
 [[HierarchicalNetworkPartitioning]]
@@ -51,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

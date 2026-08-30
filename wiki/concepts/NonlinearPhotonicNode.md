@@ -24,6 +24,8 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[CrashHotspotForecasting]]
+[[GroupInteractionThreshold]]
+[[Intelligence_Emergence]]
 [[Memristive_STDP]]
 [[Memristor_Synapse]]
 [[Mott_Device_Array]]

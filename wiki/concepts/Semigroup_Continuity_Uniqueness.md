@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Heterogeneous_Synaptic_Motifs]]
 [[Intelligence_Emergence]]
+[[MIT_异构Chiplet集成构建下一代计算的_超级芯片_]]
 [[NCL神经计算定律详解]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
@@ -46,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

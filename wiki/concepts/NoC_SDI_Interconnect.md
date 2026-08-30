@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Based_Trusted_Hardware]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
+[[Chiplet_NoC_Interconnect]]
 [[CongestionAwareNoCPlacement]]
 [[Decoupled_Priors]]
 [[Deep_Network_Architecture_Invariant]]

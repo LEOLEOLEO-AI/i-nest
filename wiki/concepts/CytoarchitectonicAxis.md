@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[NonEquilibriumComputing]]
 [[Photonic_Chiplet_Interconnect]]
+[[PolymerComposite_Substrate]]
 [[QuantumChaos]]
 [[SDI_Bond]]
 [[SDI_STDP]]

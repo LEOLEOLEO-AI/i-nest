@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_SNN_Trainability]]
 [[DeeplySupervisedSpiking]]
 [[Emergent_Intelligence_Threshold]]
+[[Frontier_Innovation_Mapping]]
 [[Hardware_Accelerated_SNN]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]

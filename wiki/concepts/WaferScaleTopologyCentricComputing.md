@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[SoftwareDefinedSystemOnWafer]]
 [[Software_Defined_Interconnect]]
 [[TCC]]
+[[ThirdWaveAI]]
 [[Topology_Interconnect]]
 [[WaferScaleSystem]]
 [[Wafer_Chiplet_Topology_Interconnect]]

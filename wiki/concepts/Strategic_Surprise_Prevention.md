@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[QuantumInspiredHarmonySearch]]
 [[SDI_Bond]]
 [[SDI_STDP]]
+[[SDI_STDP_Rule]]
 [[SDI_TCC_Chiplet]]
 [[SDI节点接口规范与化合键定义]]
 [[SDSoW]]

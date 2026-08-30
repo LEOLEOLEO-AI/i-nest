@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AINext_Initiative]]
+[[Chip-Hardware — 全景导航 (Map of Content)]]
 [[ComplexValuedSNN]]
 [[DelayCodedWorkingMemory]]
 [[EvolutionarySpikeTimingOptimization]]

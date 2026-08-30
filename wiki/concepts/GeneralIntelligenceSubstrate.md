@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_iNEST_Wafer]]
 [[OpenLearningEcosystem]]
 [[P_Paradigm]]
+[[RTC_Primitive]]
 [[RTC_Primitives]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]
@@ -53,11 +54,13 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[SoftwareDefinedSystemOnWafer]]
 [[Software_Defined_Interconnect]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

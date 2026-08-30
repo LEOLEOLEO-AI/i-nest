@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[DAGGER_Algorithm]]
 [[DisorderInducedLocalization]]
 [[DistributedInference]]
+[[Dynamic_Neuron_Activation_Prediction]]
 [[MagicStateProtocol]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]

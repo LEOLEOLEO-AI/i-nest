@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[DataDrivenCellularAxis]]
 [[Emergent_Intelligence_Threshold]]
+[[EnsembleSparsity]]
 [[Gut_Brain_Immune_Network]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]

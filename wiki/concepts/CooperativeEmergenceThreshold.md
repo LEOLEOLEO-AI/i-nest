@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AstrocyteInspiredRepair]]
 [[BandedConnectivityModel]]
 [[BigBrainCellularAxis]]
+[[BrownianCastleInterfaces]]
 [[ComplexValuedSNN]]
 [[Complex_System_Theory]]
 [[CooperativeEmergence]]

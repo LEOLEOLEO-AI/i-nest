@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN_to_SNN_Conversion_Error_Amplification]]
 [[AddressRedundancyElimination]]
 [[Adjoint_Gradient_Propagation]]
+[[CorticalTravelingWaves]]
 [[CrossLayer_SignalRouting]]
 [[DARPA_ProjectManager_Model]]
 [[FullyLocalOnlineSNNTraining]]

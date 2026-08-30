@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveModelPartitioning]]
 [[Adaptive_Path_Selection]]
 [[ArbitraryWavefunctionConfigurability]]
+[[CST_Triad_Integration]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
 [[Cognitive_Relapse_Architecture]]
@@ -46,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

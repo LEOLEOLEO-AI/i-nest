@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
+[[WavePropagationMechanism]]
 [[complex system]]
 [[神经网络]]
 

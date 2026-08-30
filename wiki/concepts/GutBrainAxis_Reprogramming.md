@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[Cognitive_Relapse_Architecture]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
+[[Constructed_Reality_Interconnect]]
 [[DataDrivenCellularAxis]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Roadmap]]

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[FerroelectricMemoryCell]]
 [[FerroelectricNvCap]]
 [[FerroelectricSynapticArray]]
+[[FerroelectricTunnelingJunction]]
 [[Ferroelectric_ComputeInMemory]]
 [[Ferroelectric_Devices]]
 [[HybridResistiveMemoryCIM]]

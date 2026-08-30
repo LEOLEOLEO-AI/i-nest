@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AlgorithmHardware_CoDesign]]
 [[Amorphous_Amorphous_Transition]]
 [[BiologicalNoiseMimicry]]
+[[BrainActivityPrediction]]
 [[CollectiveSpikingDynamics]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]

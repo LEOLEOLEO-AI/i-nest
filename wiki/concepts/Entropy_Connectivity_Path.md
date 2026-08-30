@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[DataDrivenCellularAxis]]
 [[Emergent_Intelligence_Threshold]]
 [[Gut_Brain_Immune_Network]]
+[[HippocampalNeocorticalIntelligence]]
 [[Intelligence_Emergence]]
 [[Memristor_Synapse]]
 [[MetaFAIR_ArchitectureDiscovery]]

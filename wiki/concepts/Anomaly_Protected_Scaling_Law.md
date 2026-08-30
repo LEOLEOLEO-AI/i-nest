@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossbarFabricTopology]]
 [[Dimensionality_Modularity_Tradeoff]]
 [[DisorderInducedCriticality]]
+[[DynamicCentralitySteering]]
 [[Fractal_Wavefront_Scaling]]
 [[ImmobilizationStabilityMechanism]]
 [[Network_Topology_Design]]

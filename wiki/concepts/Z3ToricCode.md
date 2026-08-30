@@ -38,11 +38,13 @@ Auto-extracted concept from raw material compilation.
 [[MinistryTechProjectFramework]]
 [[NCCLCollectiveCommunicationMapping]]
 [[Network_Topology_Design]]
+[[RTC_Primitives]]
 [[SDI_Bond]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[TCC]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Hardware_Paradigm]]
 [[SneakPathCurrentSuppression]]
+[[SpatialPhotonicProgramming]]
 [[advanced packaging]]
 [[iNEST]]
 [[neuromorphic computing]]

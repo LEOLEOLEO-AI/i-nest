@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_MasterEquation]]
 [[CST_Theory]]
 [[Complex_System_Theory]]
+[[ComplexityThresholdBreach]]
 [[Independent_AI_Player_Endgame]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
@@ -42,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[evolutionary computability]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

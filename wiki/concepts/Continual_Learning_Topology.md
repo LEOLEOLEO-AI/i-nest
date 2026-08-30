@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Cognitive_Relapse_Architecture]]
 [[Complex_System_Theory]]
+[[DTGA]]
 [[Emergent_Intelligence_Threshold]]
 [[Field_Compression_for_InNetwork_Inference]]
 [[Free_Energy_Topology_Mapping]]

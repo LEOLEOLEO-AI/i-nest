@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossEntityPreemptiveWarning]]
 [[EventBasedMotionDeblurring]]
 [[EventDrivenAutoregression]]
+[[EventDrivenMotionDeblurring]]
 [[Heterogeneous_Integration]]
 [[SNN]]
 [[Self_Organized_Criticality]]

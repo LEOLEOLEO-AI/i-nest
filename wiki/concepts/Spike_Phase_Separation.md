@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[ExplainableEnergyAI]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
+[[SDI_STDP_Rule]]
 [[STDP_Plasticity]]
 [[SpikeBasedGradientFreeOptimization]]
 [[SpikeEncoding]]

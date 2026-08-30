@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[CircuitTopologyEncoding]]
 [[Complex_System_Theory]]
 [[Critical_Region_Extension]]
+[[DynamicSynchronyMetric]]
 [[Emergent_Order_Deep_Belief_Networks]]
 [[EvolvingArchitectureDynamics]]
 [[ExactWiringRouting]]
@@ -48,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[topological Anderson insulator]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

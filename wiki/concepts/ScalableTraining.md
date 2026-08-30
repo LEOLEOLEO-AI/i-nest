@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BrownianCastleInterface]]
 [[CascadedAdaptiveCombiners]]
 [[CollectiveDynamics]]
+[[CrossLayer_SignalRouting]]
 [[DualDrivenHybridNetwork]]
 [[ErrorAmplificationLimits]]
 [[LatencyGradientDescent]]

@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[CrystalPalace_Program]]
 [[Crystallized_Neural_Manifolds]]
+[[DeterministicChaosResonator]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
 [[Hierarchical_Reservoir_Topology]]

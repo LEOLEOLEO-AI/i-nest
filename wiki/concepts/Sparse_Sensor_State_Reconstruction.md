@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AnalogDomainCompression]]
 [[Analog_Weight_Storage]]
 [[Attention_Residuals]]
+[[BigBrainCellularAxis]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
 [[Chiplet_Stacking]]

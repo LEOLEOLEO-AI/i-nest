@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
+[[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[03 涌现：整体的能力不能还原回个体？ - 得到APP]]
 [[AndersonTransition]]
 [[BigBrainCellularAxis]]
@@ -36,10 +37,12 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Machine_Decision_Speed_Advantage]]
 [[Network_Topology_Design]]
+[[Neuromorphic_Computing]]
 [[Scale_Free_Dynamics]]
 [[TCC]]
 [[TinySubstrateEmergence]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[类脑芯片]]
 
 ## Sources

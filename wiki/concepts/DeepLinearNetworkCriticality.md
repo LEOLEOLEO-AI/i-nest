@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AmoebaInspiredLocomotion]]
 [[Avoided_Criticality]]
 [[BurstGatedRouting]]
+[[ContinuousControlConversion]]
 [[Criticality]]
 [[Interconnect_Routing]]
 [[MoE_Routing]]

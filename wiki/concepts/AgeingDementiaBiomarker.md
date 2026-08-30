@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[BackflowTransformation]]
 [[ConverterDrivenStability]]
 [[Criticality]]
+[[EEG_Criticality]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Organization]]
 [[SNN]]

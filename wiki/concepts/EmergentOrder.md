@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[DataDrivenCellularAxis]]
 [[DataProvenanceIntegrity]]
+[[Emergent_Intelligence_Verifiability]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
 [[InNetworkNeuromorphicEmergence]]

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[ActivityAvalanche]]
 [[AddressRedundancyElimination]]
 [[Adjoint_Gradient_Propagation]]
+[[CrossLayer_SignalRouting]]
 [[FullyLocalOnlineSNNTraining]]
 [[InNetworkEntropyProbe]]
 [[Local_Approximation_Dynamics]]

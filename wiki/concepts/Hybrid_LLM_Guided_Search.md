@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AlternativeBridgingModels]]
 [[Architectural_Conditioning]]
 [[Avalanche_Dynamics]]
+[[Bosonic_SPT_Phases]]
 [[Compressed_Glass_Network]]
 [[CoupledOscillatorReservoir]]
 [[Crystallized_Neural_Manifolds]]

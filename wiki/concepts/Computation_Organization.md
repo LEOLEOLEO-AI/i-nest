@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[ApplicationScenarioReconstruction]]
 [[Co_Optimization_Physical_Computing]]
 [[ErrorSuppressedPipeline]]
+[[HierarchicalReservoirDynamics]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
 [[RunawayAvalanche]]

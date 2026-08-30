@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[PhaseLockedTopologyMapping]]
+[[SDDE_Attractor_Emergence]]
 [[SNN]]
 [[SparseActivationPattern]]
 [[SpikeTimingDependentUpdate]]

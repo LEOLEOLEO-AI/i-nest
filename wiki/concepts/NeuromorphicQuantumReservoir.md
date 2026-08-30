@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[ANN_SNN_ConversionError]]
+[[AdjustableDynamicsReservoir]]
 [[AlternativeBridgingModels]]
 [[Analog_Encoding_Readout]]
 [[CrashHotspotForecasting]]
@@ -40,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[emerging CMOS memristor]]
 [[iNEST]]
 [[neuromorphic spiking]]
+[[reservoir computing architecture]]
 [[reservoir computing]]
 
 ## Sources

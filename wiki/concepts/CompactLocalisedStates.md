@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[DelayCodedWorkingMemory]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenInference]]
+[[EventDrivenRiskAssessment]]
 [[EventDrivenTracking]]
 [[Event_Driven_Architecture]]
 [[Event_Driven_Processing]]

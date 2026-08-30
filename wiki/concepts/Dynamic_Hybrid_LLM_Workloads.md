@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralVariabilityEnhancement]]
 [[PowerLawScaling]]
 [[SNN]]
+[[SNN_Intrusion_Detection_Config]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
 

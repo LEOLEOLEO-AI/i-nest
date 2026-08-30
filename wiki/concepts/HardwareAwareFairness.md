@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[ApproximateMacroscopicDynamics]]
 [[Architectural_Conditioning]]
+[[BigBrainCellularAxis]]
 [[CollectiveDynamics]]
 [[ComplexValuedSNN]]
 [[Complex_System_Theory]]

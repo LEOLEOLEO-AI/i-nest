@@ -1,5 +1,5 @@
 {
-  "last_compile": "2026-08-30",
+  "last_compile": "2026-08-31",
   "processed_files": {
     "imports/00_教材编写规划_两本配套.md": 1785465203.5583253,
     "imports/2026-06-23-comprehensive_diagnosis.md": 1785465203.560326,
@@ -1132,7 +1132,13 @@
     "00_Inbox/_pipeline_insights/2026-08-29_arXiv_Syn2Logic End-to-End Neuromorphic Design Automation.md": 1787956349.1279776,
     "00_Inbox/Hot Chips 2026 深度解读：AI 算力瓶颈从单芯片转向系统级互连.md": 1788013224.6652064,
     "00_Inbox/iNEST落地方案.md": 1788013224.6802738,
-    "00_Inbox/Nature Electronics 1M1T1R 人工神经元深度解析：三个元件如何同时实现六种神经动态.md": 1788013224.6958625
+    "00_Inbox/Nature Electronics 1M1T1R 人工神经元深度解析：三个元件如何同时实现六种神经动态.md": 1788013224.6958625,
+    "00_Inbox/BriLLM 类脑大语言模型：颠覆 Transformer 的新架构？.md": 1788094813.615719,
+    "00_Inbox/DVS事件相机 × SNN脉冲神经网络 × FPGA：微秒级响应的事件驱动三件套.md": 1788094813.6267185,
+    "00_Inbox/SIGCOMM 2026 成果向晶上系统的迁移路线图.md": 1788094813.645718,
+    "00_Inbox/SIGCOMM 2026 集合通信转折点：从库到运行时的范式跃迁.md": 1788094813.6547277,
+    "00_Inbox/单个神经元就能做抽象推理？Nature子刊揭示大脑排序的极简计算机制.md": 1788094813.6642466,
+    "00_Inbox/抛弃Transformer：神经算子如何实现5万亿级物理上下文推演？.md": 1788094813.6732075
   },
   "concept_graph": {}
 }

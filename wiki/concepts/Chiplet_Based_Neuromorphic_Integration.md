@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[AstrocyteInspiredRepair]]
 [[BigBrainCellularAxis]]
+[[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[DataDrivenCellularAxis]]
@@ -54,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[忆阻器]]
 [[智能涌现]]
+[[涌现]]
 [[神经形态计算]]
 [[类脑芯片]]
 

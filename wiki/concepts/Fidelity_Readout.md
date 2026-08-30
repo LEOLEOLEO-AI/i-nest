@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AdjustableDynamics]]
 [[AdversarialResilience]]
 [[AnalogDomainCompression]]
+[[AnisotropicGaussianPrimitives]]
 [[AnomalousSpinTransport]]
 [[Reservoir_Computing]]
 [[TCC]]

@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Environmental_Capability_Context]]
 [[EventDrivenAsynchronousRouting]]
 [[EventDrivenTracking]]
+[[EventDriven_Interconnect]]
 [[FrustratedDimerMagnet]]
 [[Interconnect_Routing]]
 [[Memristive_Topology]]

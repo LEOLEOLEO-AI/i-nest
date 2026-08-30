@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Decoupling]]
 [[CollectiveStateTopology]]
 [[Continual_Learning_Modularity]]
+[[CriticalFixedPoint]]
 [[Criticality]]
 [[Network_Topology_Design]]
 [[Self_Organized_Criticality]]

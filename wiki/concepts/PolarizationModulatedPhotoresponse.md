@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Continual_Learning_Topology]]
 [[CriticalityDrivenStateTransition]]
 [[Criticality]]
+[[CrossbarFabricTopology]]
 [[Dynamic_Expert_Fusion]]
 [[DynamicalSelfDualCriticality]]
 [[EmergentTaskDecomposition]]

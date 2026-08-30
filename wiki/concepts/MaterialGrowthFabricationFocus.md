@@ -38,6 +38,8 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[InterChipletPHYModeling]]
+[[Interconnect_Routing]]
+[[MemoryDrivenRouting]]
 [[MemoryEfficientSimulation]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
@@ -52,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[智能涌现]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

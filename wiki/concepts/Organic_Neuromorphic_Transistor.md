@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[MolecularTargetSignaling]]
 [[Neuromorphic_Computing]]
 [[SNN]]
+[[SpikeCodedAssociation]]
 [[SpikeEncoding]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

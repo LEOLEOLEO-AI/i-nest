@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossLayer_SignalRouting]]
 [[EventDrivenModularArchitecture]]
 [[Interconnect_Routing]]
+[[LocalInteractionDrivenReconfiguration]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Organization]]

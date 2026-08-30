@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN_SNN_WeightSpaceGap]]
 [[BiologicalNoiseMimicry]]
 [[CombinedImportanceScoring]]
+[[CompartmentalNeuronModel]]
 [[CrashHotspotForecasting]]
 [[DivergentHigherAreaRanking]]
 [[ExplosiveTransitionThreshold]]

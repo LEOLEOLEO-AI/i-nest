@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[SpinalHDL_DSL]]
 [[Syncytial_Information_Integration]]
 [[TCC]]
+[[ThermalFluctuationComputing]]
 [[complex system]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]

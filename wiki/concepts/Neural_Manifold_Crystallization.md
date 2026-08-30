@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Bio_plausible_Neuromorphic_Disturbance_Observer]]
 [[CascadedAdaptiveCombiners]]
 [[CollectiveDynamics]]
+[[CompetitiveProgramDynamics]]
 [[Complex_System_Theory]]
 [[ConsciousnessEngineeringLoop]]
 [[Constructed_Reality_Model]]

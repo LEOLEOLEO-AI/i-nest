@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[神经形态计算]]
 [[神经网络]]
 [[类脑芯片]]
+[[脉冲神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

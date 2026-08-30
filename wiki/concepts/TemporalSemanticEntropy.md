@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[PathIntegration]]
 [[PromptBasedTimeSeriesForecasting]]
+[[QuantumAnnealerSynapticTest]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[Spiking_Neural_Network]]

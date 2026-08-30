@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[SelfMotivatedGrowth]]
+[[SelfOrganizedCriticalityConsciousness]]
 [[Self_Organized_Criticality]]
 [[TopologicalAndersonChernInsulator]]
 [[VariationalFreeEnergyMinimisation]]

@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[DisorderedNetworkDynamics]]
 [[Heterogeneous_Synaptic_Motifs]]
+[[MIT_异构Chiplet集成构建下一代计算的_超级芯片_]]
 [[NCL神经计算定律详解]]
 [[Network_Topology_Design]]
 [[NeuromorphicHardware]]

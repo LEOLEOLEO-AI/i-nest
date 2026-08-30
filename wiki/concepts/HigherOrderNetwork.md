@@ -31,7 +31,9 @@ Auto-extracted concept from raw material compilation.
 [[Advanced_Packaging_for_Space]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CircuitTopologySearch]]
+[[CrossLingualIdiomGraph]]
 [[Heterogeneous_Integration]]
+[[Network_Topology_Design]]
 [[TCC]]
 
 ## Sources

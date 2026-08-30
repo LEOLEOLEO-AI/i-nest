@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[3DIC_EDA之一_基于Chiplet集成的计算架构]]
 [[3nm_Autonomous_Driving_Chip]]
 [[AI_Supply_Chain_Increment]]
+[[Analog_InMemory_Processing]]
 [[ArtificialLifeTopologyEvolution]]
 [[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
@@ -46,8 +47,8 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
-[[iNEST_Interconnect_Topology]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

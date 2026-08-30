@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration_Route]]
 [[Complex_System_Theory]]
 [[Deep_SNN_Trainability]]
+[[DeeplySupervisedSpiking]]
 [[Distributed_Spike_Communication]]
 [[Environmental_Capability_Context]]
 [[Heterogeneous_Integration]]
@@ -45,10 +46,12 @@ Auto-extracted concept from raw material compilation.
 [[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
+[[SNN]]
 [[Spiking_Neural_Network]]
 [[complex system]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

@@ -38,12 +38,15 @@ Auto-extracted concept from raw material compilation.
 [[AirportNetworkGraphEmbedding]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[AttentionLikeHebbianPlasticity]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[Heterogeneous_Integration]]
 [[InherentInterpretability]]
 [[Intelligence_Emergence]]
+[[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]
 [[STDP_Plasticity]]
 [[SuperparamagneticSwitchingRate]]
@@ -54,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

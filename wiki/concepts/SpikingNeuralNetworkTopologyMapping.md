@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Memory_Wall]]
 [[MetaFAIR_ArchitectureDiscovery]]
+[[Military_AI_Revolution]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]

@@ -30,6 +30,8 @@ Auto-extracted concept from raw material compilation.
 [[BondMovingDecimation]]
 [[CST计量仪]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_based_heterogeneous_integration]]
+[[Complex_System_Theory]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]

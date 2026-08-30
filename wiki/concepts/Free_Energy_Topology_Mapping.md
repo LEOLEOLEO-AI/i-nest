@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Complexity_Emergence_Engineering]]
 [[CorticalTypeDiversity]]
 [[DRBE_MVP_Mainchain]]
+[[DTGA]]
 [[DataProvenanceIntegrity]]
 [[Deep_Network_Architecture_Invariant]]
 [[EmergentOrder]]

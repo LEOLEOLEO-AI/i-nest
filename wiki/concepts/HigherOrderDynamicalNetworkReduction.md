@@ -36,13 +36,16 @@ Auto-extracted concept from raw material compilation.
 [[IncidenceBasedRandomWalk]]
 [[Intelligence_Emergence]]
 [[Memory_Wall]]
+[[Multimodal_Network_SDI]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
 [[STDP_Plasticity]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[chiplet interconnect]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

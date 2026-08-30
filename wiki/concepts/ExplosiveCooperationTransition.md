@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Compositional_Continuum]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
+[[ERI_2_0_Framework]]
 [[Free_Energy_Minimization_Interconnect]]
 [[Intelligence_Emergence]]
 [[InterconnectConstrainedEmergence]]
@@ -45,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[analog computation]]
 [[complex system]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[HybridResistiveMemoryCIM]]
 [[Intelligence_Emergence]]
+[[Material_Implication]]
 [[Memristive_Topology]]
 [[Memristor_Synapse]]
 [[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]

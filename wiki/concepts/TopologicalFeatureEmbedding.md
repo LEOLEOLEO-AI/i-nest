@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[NetworkMechanismsOfWaveGeneration]]
 [[Network_Topology_Design]]
+[[Reservoir_Computing]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
 [[STDP_Plasticity]]
@@ -51,7 +52,9 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologicalComplexityReduction]]
 [[complex system]]
+[[getnote_2025-12-17_3D异构集成_3DHI_技术深度研究_机遇_挑战与未来路径]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

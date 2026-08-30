@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Integration]]
 [[STDP_MemristiveLearning]]
 [[STDP_Plasticity]]
+[[SpectralSpikeEncoding]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TemporalCodingForPointClouds]]

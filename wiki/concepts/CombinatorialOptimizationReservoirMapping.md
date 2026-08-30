@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[ReservoirDynamics]]
 [[Reservoir_Computing]]
 [[Self_Organized_Criticality]]
+[[TCADCalibration]]
 [[neuromorphic computing]]
 
 ## Sources

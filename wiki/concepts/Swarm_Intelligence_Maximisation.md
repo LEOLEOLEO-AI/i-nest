@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[SDPrompt_Guided_Dynamic_Expert_Fusion]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[TCC_Neuromorphic_Integration]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[emergent computation]]

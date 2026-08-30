@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[Course_Based_FPGA_Prototyping]]
 [[Criticality]]
+[[Disordered_Frustrated_Dimer_Magnets]]
 [[Environmental_Capability_Context]]
 [[FunctionalHardwareComposition]]
 [[Heterogeneous_Integration]]

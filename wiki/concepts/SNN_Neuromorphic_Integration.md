@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Autonomous_Spiking_Dynamics]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BrainInspired_Chip]]
+[[EventBasedBioSignalFrontEnd]]
 [[Event_Driven_Architecture]]
 [[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Scheduling]]

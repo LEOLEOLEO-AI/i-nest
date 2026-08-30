@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[BiologicalNoiseMimicry]]
 [[BrownianCastleInterface]]
 [[CombinedImportanceScoring]]
+[[CompartmentalNeuronModel]]
 [[ComplexValuedSNN]]
 [[Contested_Prior_Resolution]]
 [[CurrentInjectionSNN]]

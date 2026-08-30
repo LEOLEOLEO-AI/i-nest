@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenAsynchronousRouting]]
 [[EventDrivenSignalEncoding]]
 [[EventDrivenTracking]]
+[[Event_Driven_Communication]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[NeuromorphicPnP]]

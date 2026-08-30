@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[TwoTimescaleNeuroEvolution]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
+[[Yann LeCun：发现智能原理是AI的终极问题]]
 [[智能涌现]]
 [[涌现]]
 [[神经形态计算]]

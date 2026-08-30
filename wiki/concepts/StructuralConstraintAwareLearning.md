@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[Advanced_Packaging_for_Space]]
 [[AnalogDomainCompression]]
+[[ApproximationFidelityTradeoff]]
 [[Attention_Residuals]]
 [[BackpropagationFreeLearning]]
 [[Chiplet_Based_Trusted_Hardware]]
@@ -42,10 +43,12 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[STDP_Plasticity]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[TopologyAware_Embedding]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

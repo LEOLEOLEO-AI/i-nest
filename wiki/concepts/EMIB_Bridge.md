@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration_Route]]
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Packaging]]
+[[Chiplet_Stacking]]
 [[Chiplet_Topology]]
 [[Chiplet_Topology_Packaging]]
 [[CoPoS]]
@@ -50,10 +51,12 @@ Auto-extracted concept from raw material compilation.
 [[Structural_Mismatch]]
 [[TCC]]
 [[Topology_Encapsulation]]
+[[VisibleToNIRPhotonicPlatform]]
 [[advanced packaging]]
 [[chiplet interconnect]]
 [[temporalComplexity]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

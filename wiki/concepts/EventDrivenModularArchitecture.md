@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[LocalInteractionDrivenReconfiguration]]
 [[LossSpikePhenomenon]]
+[[MixedLabyrinthFractal]]
 [[MixedSignalSNN_CoDesign]]
 [[Network_Topology_Design]]
 [[NeuromorphicHardware]]

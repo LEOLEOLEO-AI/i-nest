@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[SNN]]
+[[SpikeTimingEncoding]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 [[neuromorphic computing]]

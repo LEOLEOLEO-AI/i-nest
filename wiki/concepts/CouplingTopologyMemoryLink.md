@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveFunctionalTopology]]
 [[AmorphousSolidPlasticity]]
 [[AnomalousSpinTransport]]
+[[BrownianCastleInterface]]
 [[CollectiveSpikingDynamics]]
 [[Coupling_Topology]]
 [[Crystallized_Embedding_Reservoir]]

@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[GraphBasedSemanticRouting]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
+[[SDI_STDP_Rule]]
 [[StatisticalTopologyControl]]
 [[TCC]]
 [[Topology_Time_Coupling]]

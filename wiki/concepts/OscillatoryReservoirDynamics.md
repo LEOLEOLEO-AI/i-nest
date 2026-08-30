@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[ConductingPolymerDendriteMemory]]
 [[Cross_Node_Event_Propagation]]
 [[DelayCodedWorkingMemory]]
+[[Distributed_Spike_Communication]]
 [[DrivenDissipativeDynamics]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenPlasticity]]

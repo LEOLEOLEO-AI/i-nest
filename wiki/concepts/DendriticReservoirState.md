@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Architecture]]
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
+[[ERI_2_0_Strategy]]
 [[Emergent_Reservoir_Topology]]
 [[Free_Energy_Topology_Mapping]]
 [[Heterogeneous_Integration]]

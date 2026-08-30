@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Network_Architecture_Invariant]]
 [[EfficientDeepLearning]]
 [[HierarchicalSpatiotemporalProcessing]]
+[[Intelligent_Power_Management]]
 [[Memristive_Interconnect]]
 [[Neuromorphic_Computing]]
 [[iNEST]]

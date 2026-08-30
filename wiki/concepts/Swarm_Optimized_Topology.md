@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Quantum_Reservoir_Memory]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
+[[SwarmGradientRouting]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[complex system]]

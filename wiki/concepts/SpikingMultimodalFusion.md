@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicAttentionScaling]]
 [[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_NoC_Routing]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[TCC]]

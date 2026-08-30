@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Field_Compression_for_InNetwork_Inference]]
 [[Free_Energy_Principle_Network]]
 [[FunctionalInterfaceBlock]]
+[[FunctionalInterfaceBlocks]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Memristor_Synapse]]

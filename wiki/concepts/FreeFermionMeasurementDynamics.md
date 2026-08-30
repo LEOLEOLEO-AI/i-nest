@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[4H_SiC_SubstrateProcessing]]
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_Assisted_Energy_Optimization]]
+[[AdvancedPackagingInterconnect]]
 [[AdversarialMedicalRobustness]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[BiasPropagationInNetworks]]
@@ -43,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[analog computation]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

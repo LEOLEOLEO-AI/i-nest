@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[HighTemporalResolutionSensing]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
+[[Mesoscale_Neural_Dynamics]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

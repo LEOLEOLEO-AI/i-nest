@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Additive_Manufacturing_Supply_Chain]]
 [[AnalogInMemoryComputing]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect_Topology]]
 [[DTGA]]
 [[FerroelectricDevice]]
 [[FerroelectricMemoryCell]]

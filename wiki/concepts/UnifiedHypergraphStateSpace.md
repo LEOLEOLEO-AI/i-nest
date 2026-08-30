@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[PopulationDensityApproximation]]
 [[PowerLaw_Analysis]]
 [[ReSCom_Accelerator]]
+[[Recurrent_Network_Homeostasis]]
 [[RecursiveSelfReferentialArchitecture]]
 [[ST_SNN]]
 [[Spike_Encoding_of_fMRI]]

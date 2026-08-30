@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[Accessibility_Plasticity]]
 [[Amorphous_Amorphous_Transition]]
+[[Analog_InMemory_Processing]]
 [[Analog_Weight_Storage]]
 [[AstrocyteInspiredRepair]]
 [[CST计量仪]]
@@ -49,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

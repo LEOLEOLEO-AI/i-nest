@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicTrackingPipeline]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
+[[ScalableNeuromorphicTopology]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[spiking neural network]]

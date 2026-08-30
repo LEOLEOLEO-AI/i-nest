@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[PhotonicSynapticPlasticity]]
 [[Receptron_Unit]]
+[[ReconfigurableSNNTopology]]
 [[Self_Organized_Criticality]]
 [[Synaptic_Plasticity]]
 [[TCC]]

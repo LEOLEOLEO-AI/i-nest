@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[ContinuousControlConversion]]
 [[Course_Based_FPGA_Prototyping]]
+[[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[DirectSNNTraining]]
 [[Interconnect_Routing]]

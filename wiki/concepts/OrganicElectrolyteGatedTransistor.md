@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[LocalSynapticRules]]
 [[Model_Routing_Protocol]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicNetworkFabric]]

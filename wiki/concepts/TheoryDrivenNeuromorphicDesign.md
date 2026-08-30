@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[NonEquilibriumComputing]]
+[[NonEquilibriumPhase]]
 [[QuantumChaos]]
 [[STDP_Learning]]
 [[STDP_MemristiveLearning]]

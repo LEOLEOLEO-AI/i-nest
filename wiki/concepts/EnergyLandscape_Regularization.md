@@ -38,9 +38,11 @@ Auto-extracted concept from raw material compilation.
 [[Kinematic_Waves]]
 [[Nanoparticle_Network_Interconnect]]
 [[Network_Topology_Design]]
+[[OpportunisticRouting]]
 [[P_Paradigm]]
 [[TCC]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

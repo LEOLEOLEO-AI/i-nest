@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_NoC_Interconnect]]
 [[Chiplet_Packaging]]
+[[Chiplet_Packaging_Topology]]
 [[Chiplet_Stacking]]
 [[CoPackagedOptics]]
 [[Complex_System_Theory]]
@@ -51,10 +52,12 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Topology]]
 [[STDP_Plasticity]]
 [[SparsityAwareInterconnect]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[advanced packaging]]
 [[chiplet interconnect]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

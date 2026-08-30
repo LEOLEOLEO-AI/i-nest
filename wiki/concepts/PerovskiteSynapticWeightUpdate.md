@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]
+[[PropertyPredictionModeling]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[Spiking_Neural_Network]]

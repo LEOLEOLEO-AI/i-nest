@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
+[[Deep_Thermalisation]]
 [[EulaminateOverrepresentation]]
 [[Evolutionary_Computability]]
 [[FlagOS_2_0]]
@@ -56,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[temporalComplexity]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

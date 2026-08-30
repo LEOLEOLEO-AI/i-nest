@@ -43,6 +43,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Distributed_Spike_Communication]]
 [[Environmental_Capability_Context]]
 [[Heterogeneous_Integration]]
+[[HigherOrderStochasticProcess]]
 [[Kinematic_Waves]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]

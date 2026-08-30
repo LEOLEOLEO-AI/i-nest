@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[FeatureBonding]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[InNetworkReconfiguration]]
+[[InputAdaptiveComputation]]
 [[Interconnect_Routing]]
 [[JointFlightRoutingOptimization]]
 [[Network_Topology_Design]]

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[EnergyEfficientNeuromorphic]]
 [[FPGA_Neuromorphic_Acceleration]]
 [[FormalToolchain]]
+[[Frontier_Innovation_Mapping]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[InterFPGA_Spike_Routing]]

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Bidirectional_Temporal_Enhancement]]
 [[BioInspiredSequenceLearning]]
+[[DiscreteSTDP]]
 [[GroupSynchronization]]
 [[Layered_Attractive_Hubbard_Model]]
 [[Network_Topology_Design]]

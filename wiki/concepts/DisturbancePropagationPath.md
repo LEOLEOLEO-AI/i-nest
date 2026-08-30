@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[DTGA]]
 [[ElectronicPhotonicIntegratedCircuit]]
 [[Heterogeneous_Integration]]
+[[HodgkinHuxleyDynamics]]
 [[QuarantineCostTradeoff]]
 [[SNN]]
 [[Spiking_Neural_Network]]

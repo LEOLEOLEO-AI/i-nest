@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Contested_Prior_Resolution]]
 [[DataDrivenCellularAxis]]
+[[DevelopmentalNeuromorphicAdaptation]]
 [[EdgeIoTEnergyAwareness]]
 [[Electronic_Warfare_Integration]]
 [[EmergentOrder]]

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC_SDI]]
+[[RTC_Primitives]]
 [[SDI_Bond]]
 [[SDI_NPU_NoC_Integration]]
 [[SDI_ProgrammableInterconnect]]
@@ -50,11 +51,13 @@ Auto-extracted concept from raw material compilation.
 [[SoftwareDefinedSystemOnWafer]]
 [[SoftwareDefined_NoC_Routing]]
 [[Software_Defined_Interconnect]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[TopologyProgramming]]
 [[chiplet interconnect]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

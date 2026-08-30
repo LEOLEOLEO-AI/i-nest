@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicBrainInterface]]
 [[NeuromorphicEdgeProcessing]]
 [[NeuromorphicHandwritingRecognition]]
+[[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[Spiking_Neural_Network]]

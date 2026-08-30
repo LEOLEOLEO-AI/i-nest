@@ -34,8 +34,10 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Network_on_Chip]]
 [[Packaging_Aware_NoC_Design]]
+[[SDI_Bond]]
 [[SDI_Control_Plane_Offload]]
 [[TCC]]
+[[VectorFlowField]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

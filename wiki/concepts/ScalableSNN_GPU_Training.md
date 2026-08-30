@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AnisotropicGaussianPrimitives]]
 [[CollectiveSpikingDynamics]]
 [[CombinedImportanceScoring]]
+[[CurrentInjectionSNN]]
 [[IntegratedInformationFreeEnergyBridge]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Avoided_Criticality]]
 [[BioPlausibleDisturbanceObserver]]
 [[Capability_Reserve_Index]]
+[[Catastrophic_Forgetting_Mitigation]]
 [[Cognitive_Relapse_Decoupling]]
 [[Contested_Priors_Architecture]]
 [[CounterstreamSignalPropagation]]

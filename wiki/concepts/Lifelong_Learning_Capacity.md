@@ -27,11 +27,11 @@ Auto-extracted concept from raw material compilation.
 [[11_SDI节点接口规范与化合键定义_dup]]
 [[12_三原理协同_FEP_最小作用量_STDP]]
 [[20W_Brain_Inspired_Planning]]
+[[AI-ML — 全景导航 (Map of Content)]]
 [[AI_Orchestrator]]
 [[AI_Supply_Chain_Increment]]
 [[AI人工智能 卷积神经网络（CNN）_w3cschool]]
 [[Agent_Workflow_Automation]]
-[[BifurcationCandidateSet]]
 [[BifurcationCandidate]]
 [[CST计量仪]]
 [[CompactBosonDuality]]
@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

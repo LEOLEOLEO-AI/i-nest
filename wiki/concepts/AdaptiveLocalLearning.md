@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[AdaptiveSTDP]]
 [[AdaptiveSpeechToSpikeEncoding]]
+[[ClocklessReconfigurableChip]]
 [[Controlled_Release_Kinetics]]
 [[DiscreteSTDPLearning]]
 [[DiscreteSTDP]]

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[ErrorSuppressedPipeline]]
 [[Fixed_Reservoir_Unitary]]
 [[Generative_Graph_Models]]
+[[MantelTest_SignCorrection]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[ReservoirDynamics]]

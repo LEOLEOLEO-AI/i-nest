@@ -48,6 +48,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Heterogeneous_Integration]]
 [[Heterogeneous_P_D_Inference]]
 [[Intelligence_Emergence]]
+[[LLM_Assisted_Hardware_Design]]
 [[Network_Topology_Design]]
 [[PPT]]
 [[Reservoir_Computing]]
@@ -59,4 +60,5 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[complex system]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]

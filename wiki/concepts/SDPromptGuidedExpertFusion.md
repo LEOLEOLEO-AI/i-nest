@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[AmoebaInspiredLocomotion]]
 [[AstrocyteInspiredModulation]]
+[[BrownianCastleInterface]]
 [[CriticalStateSelfOrganization]]
 [[Gaussian_Splatting_Streaming]]
 [[HigherAreaRankingDivergence]]

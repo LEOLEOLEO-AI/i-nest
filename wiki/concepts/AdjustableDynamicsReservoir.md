@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[HardwareAware_DesignSpace]]
 [[HighTemporalResolutionSensing]]
 [[Memristor_Synapse]]
+[[Meta_Residual_Learning]]
 [[NestedRepresentation]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]

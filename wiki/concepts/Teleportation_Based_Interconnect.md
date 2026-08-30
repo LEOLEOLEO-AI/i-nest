@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[DataDrivenCellularAxis]]
 [[Distributed_Spike_Communication]]
 [[Environmental_Capability_Context]]
+[[FirstPrinciples_Derivation]]
 [[Heterogeneous_Integration]]
 [[LossSpikePhenomenon]]
 [[Memristor_Synapse]]

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_FullSpectrum_Strategy]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[AthermalDynamics]]
 [[Bidirectional_Temporal_Enhancement]]
 [[Complex_System_Theory]]
 [[DiscreteSTDP]]

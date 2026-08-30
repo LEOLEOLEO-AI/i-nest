@@ -29,7 +29,6 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[AI_Faculty_Forum_2026]]
 [[Accessibility_Plasticity]]
-[[ActiveInferenceGenerativeModel]]
 [[ActiveInference]]
 [[ActiveSpikingPerception]]
 [[AttentionGuidedEntropy]]
@@ -42,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI节点接口规范与化合键定义]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
+[[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[神经网络]]
 
 ## Sources

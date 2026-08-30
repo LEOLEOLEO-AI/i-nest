@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[TemporalSpikeAssociation]]
+[[Transiently_Amplifying_Construction]]
 [[VaCoAl]]
 [[complex system]]
 [[iNEST]]

@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuromorphicAuditoryFrontend]]
 [[Neuromorphic_Computing]]
+[[NoC_Chiplet_Wafer_Stack]]
 [[NonEquilibriumComputing]]
 [[QuantumChaos]]
 [[Reservoir_Computing]]

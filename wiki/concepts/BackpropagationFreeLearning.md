@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[NonEquilibriumComputing]]
 [[P_Paradigm]]
 [[Photonic_Chiplet_Interconnect]]
+[[RTC_Primitives]]
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
 [[SDSoW]]
@@ -55,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[SelfOrganizedOscillatoryLearning]]
 [[SoftwareDefinedSystemOnWafer]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[ThirdWaveAI]]
 [[Topology_Centric_Neuromorphic]]
@@ -62,6 +64,7 @@ Auto-extracted concept from raw material compilation.
 [[chiplet interconnect]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

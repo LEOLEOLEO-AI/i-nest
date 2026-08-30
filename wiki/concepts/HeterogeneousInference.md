@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[3DHI_Stacking]]
 [[3D_IC_Stacking]]
 [[4H_SiC_SubstrateProcessing]]
+[[AdvancedPackagingInterconnect]]
 [[Advanced_Packaging_for_Space]]
 [[ChipletTrafficAwareScheduling]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -49,11 +50,13 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[Spaceborne_Computing_Architecture]]
 [[SpatialPatternStorage]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[ThroughSiliconVia_TSV_ThermalPath]]
 [[advanced packaging]]
 [[chiplet interconnect]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

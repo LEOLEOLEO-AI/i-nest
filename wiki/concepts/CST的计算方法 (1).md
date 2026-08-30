@@ -30,6 +30,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[3D_Torus_6_Degree]]
 [[Analog_InMemory_Processing]]
 [[Analog_To_Information_Conversion]]
+[[AndersonTransition]]
 [[CST计量仪]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
@@ -40,4 +41,5 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[心智的六个阶段：从混沌到开悟的旅程 (1)]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[科技丨据说互联网过时了！他的发明人准备造个新网络！ (1)]]

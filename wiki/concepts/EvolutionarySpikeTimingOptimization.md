@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[SNN]]
 [[SpikeEncoding]]
+[[SpikeTimingEncoding]]
 [[SpikeTimingGradient]]
 [[Spiking_Neural_Network]]
 [[SurrogateGradientTracking]]

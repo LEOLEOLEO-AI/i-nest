@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[NCCL_CollectivePrimitives]]
 [[Network_Topology_Design]]
 [[TCC]]
+[[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[complex system]]
 [[神经网络]]

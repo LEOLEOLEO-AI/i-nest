@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[CirculateFiringNeuron]]
 [[Contested_Prior_Resolution]]
+[[DiscreteSTDP]]
 [[ErrorAmplificationLimits]]
 [[EventCameraPoseInput]]
 [[Event_Driven_Architecture]]

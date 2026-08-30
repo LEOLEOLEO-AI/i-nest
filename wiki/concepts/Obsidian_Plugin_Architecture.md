@@ -38,17 +38,20 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
+[[RTC_Primitive]]
 [[RTC_Primitives]]
 [[SDI_Bond]]
 [[SDI_iNEST_Interconnect]]
 [[STDP_Plasticity]]
 [[SoftwareDefinedSystemOnWafer]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[ThirdWaveAI]]
 [[iNEST]]
 [[neuromorphic computing]]
 [[tools]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

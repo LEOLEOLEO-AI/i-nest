@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_ProjectManager_Model]]
 [[ElectronicPhotonicIntegratedCircuit]]
 [[Frontier_Innovation_Mapping]]
+[[GradientBasedSpikeLearning]]
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]
 [[Memristor_Synapse]]

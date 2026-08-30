@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[ReproducibleReservoirComputing]]
 [[Reservoir_Computing]]
 [[SelfOrganizedOscillatoryLearning]]
+[[ShortTermMemory]]
 [[StochasticBinaryDynamics]]
 [[iNEST]]
 

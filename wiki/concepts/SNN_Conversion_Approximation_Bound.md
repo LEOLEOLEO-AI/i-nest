@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeTimingFidelity]]
 [[SpikeTimingGradient]]
 [[Spike_Encoding_of_fMRI]]
+[[SpikingTemporalCoding]]
 [[SpikingTopologyEvolution]]
 [[Spiking_Neural_Network]]
 [[SurrogateGradientMethod]]

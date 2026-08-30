@@ -56,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
+[[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[Topology_Centric_Interconnect]]
 [[UntrainedReservoirReadout]]
 [[Wafer_Scale_Integration]]

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Forum_Demo_Narrative]]
 [[AddressRedundancyElimination]]
 [[Baseline_Draft_Status]]
+[[CIMWeightUpdateAwareness]]
 [[CollectiveDynamics]]
 [[Complex_System_Theory]]
 [[Constructed_Reality_Model]]

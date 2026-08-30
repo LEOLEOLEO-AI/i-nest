@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_Exponential_Gain]]
 [[Complex_System_Theory]]
 [[Crystallized_Neural_Manifolds]]
+[[DifferentiableLifting]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
 

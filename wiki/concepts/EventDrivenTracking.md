@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenRiskAssessment]]
 [[Event_Driven_Architecture]]
 [[Event_Driven_Communication]]
+[[Event_Driven_Processing]]
 [[InSensorMemoryComputing]]
 [[In_Network_Generative_Inference]]
 [[Intelligence_Emergence]]

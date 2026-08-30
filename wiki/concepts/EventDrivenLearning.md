@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Military_AI_Revolution]]
 [[Neuromorphic_Computing]]
+[[SpikingNeuralNetworkTopologyMapping]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]

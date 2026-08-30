@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[FlagOS_2_0]]
 [[Heterogeneous_Compute_Graph]]
 [[Heterogeneous_Integration]]
+[[HierarchicalReservoirDynamics]]
 [[In_Network_Neuromorphic]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]

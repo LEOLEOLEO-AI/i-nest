@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Bidirectional_Temporal_Enhancement]]
+[[DiscreteSTDP]]
 [[GroupSynchronization]]
 [[Memristive_STDP]]
 [[MultiObjectiveSNN]]
@@ -29,7 +30,6 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SDI_STDP_Fusion]]
-[[SDI_STDP_Rule]]
 [[SNN]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]

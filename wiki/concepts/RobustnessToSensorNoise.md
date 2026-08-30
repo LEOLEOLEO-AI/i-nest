@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
 [[SpikeRateAlignment]]
+[[SpikingNeuralNetworkBenchmark]]
 [[Spiking_Neural_Network]]
 [[complex system]]
 [[iNEST]]

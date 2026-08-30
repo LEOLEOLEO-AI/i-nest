@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[DiscreteSTDPLearning]]
 [[DiscreteSTDP]]
 [[ITP_STDP]]
+[[ITP_STDP_Engine]]
 [[IntrinsicTimingSTDP]]
 [[Neuromorphic_Computing]]
 [[STDP_Plasticity]]

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[AgeingDementiaBiomarker]]
 [[Amorphous_Amorphous_Transition]]
 [[AnomalousSpinTransport]]
+[[BrainActivityPrediction]]
 [[BrownianCastleInterface]]
 [[ErrorSuppressedPipeline]]
 [[InterpretabilityDrivenDesign]]

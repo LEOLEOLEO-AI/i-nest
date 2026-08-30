@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[EventCameraActionRecognition]]
 [[Expert_Review_Arbitration]]
 [[Heterogeneous_Integration]]
+[[HigherOrderSynchronization]]
 [[Interconnect_Routing]]
 [[MoE_Routing]]
 [[Network_Specific_Embedding_Separation]]

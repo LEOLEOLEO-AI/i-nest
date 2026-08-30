@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AdjointWaveControl]]
 [[AnalogDomainCompressiveSensing]]
 [[AndersonTransition]]
+[[BifurcationCandidate]]
 [[BoundaryContract]]
 [[Course_Based_FPGA_Projects]]
 [[CrystalPalace_Program]]

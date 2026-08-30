@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[SuperparamagneticSwitchingRate]]
 [[SurrogateGradientAsymmetry]]
 [[Swarm_Coordination]]
+[[SynapticReinforcementConsolidation]]
 [[TCC]]
 [[Technical_Program_Officer_Autonomy]]
 [[TemporalCreditAssignment]]

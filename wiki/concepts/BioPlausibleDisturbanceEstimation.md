@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Brain_Dynamics_Learning]]
 [[CSPNeuralEncoding]]
 [[ClassificationPerformance]]
+[[ClinicalPredictionMapping]]
 [[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

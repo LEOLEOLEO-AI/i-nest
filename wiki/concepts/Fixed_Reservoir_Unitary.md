@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AnomalousSpinTransport]]
 [[DARPA_ProjectManager_Model]]
 [[DivergentHigherAreaRanking]]
+[[Globally_Optimal_SNN_Training]]
 [[HardwareAware_DesignSpace]]
 [[InNetworkSignalRecovery]]
 [[Intelligence_Emergence]]

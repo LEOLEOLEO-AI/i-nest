@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AcademicDevelopmentCoCreation]]
 [[AcceleratedMaterialScreening]]
 [[ActiveInference]]
+[[AdjustableDynamicsReservoir]]
 [[AdjustableDynamics]]
 [[AlternativeBridgingModels]]
 [[Analog_Encoding_Readout]]

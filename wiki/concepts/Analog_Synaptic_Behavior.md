@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[SelectorFreeHopfieldNetwork]]
+[[Sparsity_Degradation_Threshold]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[analog computation]]

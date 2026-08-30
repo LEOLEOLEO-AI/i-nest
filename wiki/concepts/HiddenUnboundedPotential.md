@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[FeatureBonding]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[InNetworkReconfiguration]]
+[[JointFlightRoutingOptimization]]
 [[Network_Topology_Design]]
 [[Quantum_Criticality]]
 [[SelfOrganization]]

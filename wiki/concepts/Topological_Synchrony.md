@@ -32,6 +32,8 @@ Auto-extracted concept from raw material compilation.
 [[ComputationEfficientDeepLearning]]
 [[Deep_Network_Architecture_Invariant]]
 [[Dynamic_Expert_Fusion]]
+[[EfficientDeepLearning]]
+[[EmergentIntelligence_Spacetime]]
 [[Heterogeneous_Integration]]
 [[In_Package_Neuromorphic_Integration]]
 [[Memristive_Interconnect]]

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[EmergentAttractorStability]]
 [[Environmental_Capability_Context]]
 [[EpidemicThreshold]]
+[[FormalLinguisticCompetence]]
 [[GlassInterposerSignalIntegrity]]
 [[Intelligence_Emergence]]
 [[LocalQuantumLearningRule]]

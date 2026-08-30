@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC_SDI]]
+[[NoC_SDI_Topology]]
 [[OnChipOpticalTweezers]]
 [[P_Paradigm]]
 [[ReproducibleReservoirOutput]]

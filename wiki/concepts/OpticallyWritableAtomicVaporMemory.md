@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CommunicationHeterogeneity]]
 [[Complex_System_Theory]]
 [[Cryogenic_Syndrome_Compression]]
+[[DTGA]]
 [[EventDrivenSensoryEncoding]]
 [[EventDrivenTracking]]
 [[Heterogeneous_Integration]]
@@ -43,9 +44,11 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[STDP_Plasticity]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

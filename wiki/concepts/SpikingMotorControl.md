@@ -37,6 +37,8 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
+[[SDI_STDP]]
 [[SNN]]
 [[SensoryGatedSpikingLoop]]
 [[SpikeCodedAssociation]]

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AIRA_NeuralArchSearch]]
 [[BackflowTransformation]]
+[[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Communication_Trace_Diagnostics]]
 [[ComplexValuedSNN]]
 [[Criticality]]

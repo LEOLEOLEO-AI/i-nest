@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[EdgeInspectionInference]]
 [[Efficient_Coding_Constraint]]
+[[End_Side_Neuromorphic_Deployment]]
 [[EventBasedAnalogFrontEnd]]
 [[EventDrivenAttentionMechanism]]
 [[EventDrivenSensoryEncoding]]

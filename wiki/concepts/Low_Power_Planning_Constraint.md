@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Active_Inference_Agent]]
 [[Active_Inference_Architecture]]
 [[Activity_Dependent_Plasticity]]
+[[AdaptiveDensityControl]]
 [[AdaptiveFlexibilityThreshold]]
 [[AdaptiveFrequencyResonateFire]]
 [[Adaptive_Deep_Brain_Stimulation]]
@@ -49,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -38,8 +38,11 @@ Auto-extracted concept from raw material compilation.
 [[Distributed_Spike_Communication]]
 [[FirstPrinciples_Derivation]]
 [[Heterogeneous_Integration]]
+[[LIF_Neuron_Model]]
 [[Loihi2_OnChip_Learning]]
 [[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]
+[[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
 [[ST_SNN]]
@@ -47,7 +50,6 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[complex system]]
 [[iNEST]]
-[[iNEST_Neuromorphic_Integration]]
 [[神经网络]]
 
 ## Sources

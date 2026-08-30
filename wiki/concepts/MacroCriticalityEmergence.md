@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SNN]]
+[[SNN_Sparsity_InformationBound]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[ST_SNN]]

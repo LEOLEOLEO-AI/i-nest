@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[LLM_TopologicalReplicationGap]]
 [[Material_Circularity]]
 [[Multiplex_Epidemic_Threshold]]
+[[Nanoparticle_Network_Interconnect]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
@@ -48,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologicalAndersonChernInsulator]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

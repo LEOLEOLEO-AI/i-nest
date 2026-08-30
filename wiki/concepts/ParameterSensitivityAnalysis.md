@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[ApproximateMacroscopicDynamics]]
 [[BehaviorAlignedQuantization]]
 [[BigBrainCellularAxis]]
+[[BranchingRatioControl]]
 [[CST_Spatiotemporal_Coefficient]]
 [[Complex_Network_Class_Brain_Computing]]
 [[Complex_System_Theory]]

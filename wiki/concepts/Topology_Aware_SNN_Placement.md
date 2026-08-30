@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstInterleaving]]
 [[CellEmergence]]
 [[Continuous_Spatiotemporal_State_Propagation]]
+[[CrossLayer_SignalRouting]]
 [[DARPA_ProjectManager_Model]]
 [[EventDrivenAsynchronousRouting]]
 [[EventDrivenRiskAssessment]]

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[11_SDI节点接口规范与化合键定义_dup]]
 [[1M1T1R_SynapticNeuron]]
 [[20W_Brain_Inspired_Planning]]
+[[AI-ML — 全景导航 (Map of Content)]]
 [[AI_Orchestrator]]
 [[Agent_Workflow_Automation]]
 [[Analog_InMemory_Processing]]
@@ -44,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[neuromorphic computing]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

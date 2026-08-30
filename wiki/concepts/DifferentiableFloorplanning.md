@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[EntanglementAwareRouting]]
 [[FatalityDrivenRewiring]]
 [[HybridConvexOptimization]]
+[[InSitu_Adjoint_Wave_Control]]
 [[Intelligence_Emergence]]
 [[InterconnectDrivenCostFunction]]
 [[Interconnect_Routing]]
@@ -43,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologyAwareFloorplanning]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

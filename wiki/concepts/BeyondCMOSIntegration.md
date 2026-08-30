@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Environmental_Capability_Context]]
 [[FirstPrinciples_Derivation]]
 [[Heterogeneous_Integration]]
+[[LIF_Neuron_Model]]
 [[Memristor_Synapse]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]

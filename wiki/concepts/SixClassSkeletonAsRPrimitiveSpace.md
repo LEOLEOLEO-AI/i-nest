@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[12_三原理协同_FEP_最小作用量_STDP]]
+[[4H_SiC_SubstrateProcessing]]
 [[AI_Faculty_Forum_2026]]
 [[Anisotropic_Correlation_Length]]
 [[BackflowTransformation]]
@@ -46,13 +47,16 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[NoCPlacementRoutingCoDesign]]
 [[Nonreciprocity_Threshold]]
+[[P_Paradigm]]
 [[Recursive_Metric_Contraction]]
 [[STDP_Plasticity]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[Topology_Centric_Interconnect]]
 [[chiplet interconnect]]
 [[complex system]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

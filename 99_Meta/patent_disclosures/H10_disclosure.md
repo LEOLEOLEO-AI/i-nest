@@ -1,7 +1,7 @@
 ---
 title: "专利披露·H10"
 hypothesis: "H10"
-date: 2026-08-30
+date: 2026-08-31
 patentability: HIGH
 categories: ["hardware", "method"]
 type: patent-disclosure
@@ -45,5 +45,5 @@ TCC×iNEST: 脑连接组拓扑模式可启发晶圆级NoC最优拓扑设计
 - [ ] 与相关论文发表策略协调（先申专再发论文）
 
 ---
-*由 patent_scout.py 于 2026-08-30T03:25:31.437133 自动生成*
+*由 patent_scout.py 于 2026-08-31T07:06:16.222383 自动生成*
 *来源假设: H10 | 来源桥接: Topology_Brain_Connectome*

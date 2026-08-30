@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[AI_Supply_Chain_Increment]]
 [[ANN动力学]]
+[[Analog_InMemory_Processing]]
 [[Analog_Weight_Storage]]
 [[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]

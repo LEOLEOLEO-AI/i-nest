@@ -27,12 +27,12 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 
 [[Brain_Connectome]]
 [[Connectome]]
-[[Connectome_Inspired_Architecture]]
 [[Connectome_Verification_Protocol]]
 [[Event_Driven_Architecture]]
 [[Memristor_Synapse]]
 [[Nature Communications_生物神经网络中突触多样性如何让人工神经网络更强大？]]
 [[Neuromorphic_Computing]]
+[[Pipelined_Processor_Neuromorphic_Integration]]
 [[Reservoir_Computing]]
 [[SoC]]
 [[Synaptic_Plasticity]]

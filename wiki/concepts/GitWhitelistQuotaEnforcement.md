@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Driven_Architecture_Search]]
 [[AI_Faculty_Forum_2026]]
 [[ASIC_Dualism]]
+[[AgenticServiceTopology]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[BackflowTransformation]]
 [[Baseline_Draft_Status]]
@@ -44,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologyCentricPrimitiveSet]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

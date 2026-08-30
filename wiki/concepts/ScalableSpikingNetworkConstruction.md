@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AutomatedQuantizationFramework]]
 [[BiSpikCLM]]
 [[BioPlausibleDisturbanceEstimation]]
+[[BiologicallyAccurateMultilayer]]
 [[BrainScaleTopologyExploitation]]
 [[Brain_Dynamics_Learning]]
 [[CirculateFiringNeuron]]

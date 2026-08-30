@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[LocalLearning_SynapticUpdate]]
 [[NestedRepresentation]]
+[[NeuromorphicHandwritingRecognition]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[Spike_Event_Driven_Attention]]

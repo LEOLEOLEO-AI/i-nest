@@ -49,8 +49,10 @@ Auto-extracted concept from raw material compilation.
 [[Package_Level_Interconnect]]
 [[Photonic_Chiplet_Interconnect]]
 [[RenormalizationGroup_ScalingLaws]]
+[[SDI_Chiplet]]
 [[STDP_Plasticity]]
 [[SpatiotemporalComplexityIndex]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[WaveguideToWaveguideCoupler]]
 [[advanced packaging]]
@@ -58,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[temporalComplexity]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

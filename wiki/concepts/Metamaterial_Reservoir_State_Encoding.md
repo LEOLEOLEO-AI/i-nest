@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Critical_Exponent_Scaling]]
 [[CrossbarArrayIntegration]]
 [[Decoupling_Mechanism]]
+[[DendriticReservoirState]]
 [[Heterogeneous_Integration]]
 [[Reservoir_Computing]]
 [[Reservoir_State_Encoding]]

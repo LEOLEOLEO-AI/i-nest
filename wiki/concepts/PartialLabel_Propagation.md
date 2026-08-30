@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[ErrorAmplificationLimits]]
 [[Heterogeneous_Integration]]
 [[ImmobilizationStabilityEnhancement]]
+[[LatencyGradientDescent]]
 [[PPT]]
 [[SNN]]
 [[Spiking_Neural_Network]]

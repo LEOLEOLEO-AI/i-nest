@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossLayer_SignalRouting]]
 [[DiscreteContinuous_Unification]]
 [[Distributed_Spike_Communication]]
+[[EarlyVisualCortexAliasing]]
 [[FPGA_Accelerated_SNN]]
 [[In_Network_Neuromorphic]]
 [[Interconnect_Routing]]

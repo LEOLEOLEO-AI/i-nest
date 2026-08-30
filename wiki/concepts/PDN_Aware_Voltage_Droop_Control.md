@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[Advanced_Packaging_for_Space]]
 [[Attention_Residuals]]
+[[Bipartite_Interconnect_Design]]
 [[CMOS_Memristor_Devices]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Emerging_CMOS_Memristor_Devices]]

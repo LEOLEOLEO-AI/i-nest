@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[UniSpike_Acceleration]]
 [[Yann LeCun：发现智能原理是AI的终极问题]]
+[[getnote_2026-06-15_能量函数驱动神经网络设计]]
 [[getnote_2026-07-02_项目简介]]
 [[iNEST]]
 [[向大脑学习智能本质，探索通用 AI 的另一条可行路径]]

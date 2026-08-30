@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[DelayCodedWorkingMemory]]
 [[EventDrivenLearning]]
 [[EventDrivenSignalEncoding]]
+[[EventDrivenTracking]]
 [[Event_Driven_Architecture]]
 [[Interconnect_Routing]]
 [[LocalQuantumLearningRule]]

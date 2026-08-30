@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[Criticality_Based_Feature_Extraction]]
 [[EdgeIoTEnergyAwareness]]
+[[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[Interconnect_Routing]]
 [[InterconnectionStrengthEncoding]]
 [[LowRankPerturbation]]

@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_ProjectManager_Model]]
 [[Deep_Thermalisation]]
 [[DendriticReservoirState]]
+[[Dendritic_Compartmentalization]]
 [[Dynamic_Expert_Fusion]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

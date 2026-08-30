@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AndersonTransition]]
 [[BioInspired_Interception_Control]]
 [[Biologically_Plausible_Learning_Rules]]
+[[BurstGatedRouting]]
 [[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[FatalityDrivenRewiring]]

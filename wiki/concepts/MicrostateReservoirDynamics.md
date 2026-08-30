@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_ProjectManager_Model]]
 [[DataDrivenMaterialDesign]]
 [[Defense_Industrial_Base_Reshaping]]
+[[DiscreteScaleInvariance]]
 [[NonlinearDynamicalSampling]]
 [[Nonlinear_Gain]]
 [[OpticalReservoirComputing]]

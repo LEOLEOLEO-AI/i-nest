@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Textbook_Paradigm_Definition]]
 [[TopologyCentricEngineeringBase]]
 [[Topology_Centric_Computing]]
+[[Wafer_Level_Integration]]
 [[Wafer_Scale_Integration]]
 [[chiplet interconnect]]
 [[iNEST]]

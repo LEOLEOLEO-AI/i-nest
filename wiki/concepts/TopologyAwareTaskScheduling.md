@@ -41,7 +41,6 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Topology]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
-[[SDSoW_Strategic_Planning]]
 [[SuperparamagneticSwitchingRate]]
 [[Switchless_Computing]]
 [[TCC]]

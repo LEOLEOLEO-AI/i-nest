@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Encoding_of_fMRI]]
 [[Spike_Energy_Floor]]
 [[Spiking_Neural_Network]]
+[[SynapticReinforcementConsolidation]]
 [[TCC]]
 [[iNEST]]
 [[spiking neural network]]

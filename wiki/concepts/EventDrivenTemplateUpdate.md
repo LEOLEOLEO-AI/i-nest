@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[BrainInspiredArchitecture]]
 [[BurstCoding]]
 [[BurstGatedRouting]]
+[[ContinuousControlConversion]]
 [[Criticality]]
 [[DynamicTokenSparsity]]
 [[Edge_Neuromorphic_Compute]]

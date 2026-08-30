@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Hypergraph_Label_Noise]]
 [[LeftRightAsymmetry]]
+[[MobilityEdge]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[RepresentationalAlignment]]

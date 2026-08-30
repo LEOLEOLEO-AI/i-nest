@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalLearningRegime]]
 [[Criticality]]
 [[CrossbarFabricTopology]]
+[[Crossover_Physics]]
 [[EdgeIoTEnergyAwareness]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

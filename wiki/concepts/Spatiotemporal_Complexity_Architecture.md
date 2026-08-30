@@ -40,12 +40,14 @@ Auto-extracted concept from raw material compilation.
 [[Hyper_Dimensional_Computing]]
 [[Intelligence_Emergence]]
 [[JunctionCenteredFramework]]
+[[Microbiome_Immune_Endocrine_Interplay]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[TemporalComplexity]]
 [[complex system]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

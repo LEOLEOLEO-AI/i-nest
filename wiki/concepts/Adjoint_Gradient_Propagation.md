@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Local_Approximation_Dynamics]]
 [[LossSpikePhenomenon]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Sensory_Motor_Loop]]
 [[Nonlinear_Gain]]
 [[SNN]]
 [[Spiking_Neural_Network]]

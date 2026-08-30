@@ -59,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]
+[[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[TemporalComplexity]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]

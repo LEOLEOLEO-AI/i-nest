@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Avalanche_Dynamics]]
 [[Bosonic_SPT_Phases]]
 [[CoupledOscillatorReservoir]]
+[[CrossInstitutionalNetwork]]
 [[Crystallized_Neural_Manifolds]]
 [[DivergentHigherAreaRanking]]
 [[Dynamic_Expert_Fusion]]

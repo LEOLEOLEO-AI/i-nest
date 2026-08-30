@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveNetworkResilience]]
 [[Bipartite_Interconnect]]
 [[Complex_System_Theory]]
+[[DTGA]]
 [[FPGA_Neuromorphic_Architectures]]
 [[GenerativeTopologyModels]]
 [[Intelligence_Emergence]]
@@ -42,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[WaferLevelPackaging]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

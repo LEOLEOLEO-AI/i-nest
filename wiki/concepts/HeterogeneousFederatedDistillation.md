@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[FrequencyAdaptationMechanism]]
 [[NeuralVariabilityEnhancement]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Planning_Revolution]]
 [[SNN]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]

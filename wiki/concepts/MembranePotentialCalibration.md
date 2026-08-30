@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Complexity_Emergence]]
 [[CrashHotspotForecasting]]
 [[Criticality]]
+[[CurrentInjectionSNN]]
 [[DivergentHigherAreaRanking]]
 [[HardwareAware_DesignSpace]]
 [[Hardware_Accelerated_SNN]]

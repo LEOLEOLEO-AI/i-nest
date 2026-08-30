@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[CytoarchitectonicAxis]]
 [[DARPA_ProjectManager_Model]]
+[[DTGA]]
 [[Dynamic_Expert_Fusion]]
 [[Environmental_Capability_Context]]
 [[ErrorSuppressedPipeline]]

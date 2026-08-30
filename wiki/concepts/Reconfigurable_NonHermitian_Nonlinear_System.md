@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[NonlinearWaveMixing]]
 [[Nonlinear_Gain]]
+[[Nonlinear_Wave_Reconfiguration]]
 [[Γst_Revision]]
 
 ## Sources

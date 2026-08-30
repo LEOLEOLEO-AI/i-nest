@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Deep_Thermalisation]]
 [[FreeFermionTopologicalInvariant]]
+[[GraphBasedSemanticRouting]]
 [[Interconnect_Routing]]
 [[MemoryDrivenRouting]]
 [[Memristor_Synapse]]

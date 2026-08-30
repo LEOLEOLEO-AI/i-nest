@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Flow_Network_Memory]]
 [[Heterogeneous_Inference_Division]]
 [[Heterogeneous_Integration]]
+[[InMateriaComputing]]
 [[Intelligence_Emergence]]
 [[Intelligent_Power_Management]]
 [[Memristive_Topology]]

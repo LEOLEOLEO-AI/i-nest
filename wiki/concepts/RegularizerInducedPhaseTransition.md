@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Decoupling]]
 [[Contested_Priors_Architecture]]
 [[Critical_Region_Extension]]
+[[CriticalityInducedComputationalCapacity]]
 [[Criticality]]
 [[DTGA]]
 [[Dimensionality_Modularity_Tradeoff]]

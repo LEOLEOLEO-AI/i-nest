@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Stacking]]
 [[CommunicationAwareComputeRelocation]]
 [[Complex_System_Theory]]
+[[EntanglementAwareRouting]]
 [[FPGA_Reconfigurability]]
 [[FatalityDrivenRewiring]]
 [[Heterogeneous_Integration]]
@@ -47,10 +48,12 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Topology]]
 [[STDP_Plasticity]]
 [[Space_Compute_Architecture_Tradeoff]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[VectorFlowField]]
 [[topology page]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

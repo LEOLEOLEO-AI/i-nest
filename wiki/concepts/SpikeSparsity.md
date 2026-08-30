@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[SyntheticInertiaProvision]]
 [[TemporalBatchSynchronization]]
 [[TemporalSparsityExploitation]]
+[[ThresholdBasedSpikeEncoding]]
 [[iNEST]]
 
 ## Sources

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[CoupledOscillatorReservoir]]
 [[Coupling_Strength_Encoding]]
+[[DeviationScalingIndex]]
 [[DivergentHigherAreaRanking]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]

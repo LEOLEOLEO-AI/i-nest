@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[ContinualLearningOnNeuromorphic]]
 [[EnergyEfficientRestoration]]
 [[Event_Driven_Architecture]]
+[[FunctionalEnsemble]]
 [[Interconnect_Routing]]
 [[LocalLearning_SynapticUpdate]]
 [[NestedRepresentation]]

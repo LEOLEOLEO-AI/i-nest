@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[ErrorAmplificationLimits]]
 [[EventCameraTemporalEncoding]]
 [[Intelligence_Emergence]]
+[[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]
 [[LatencyGradientDescent]]
 [[Network_Topology_Design]]

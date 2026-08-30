@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityInducedTopology]]
 [[Criticality]]
 [[DARPA_ProjectManager_Model]]
+[[Generative_Graph_Models]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[Reservoir_Computing]]

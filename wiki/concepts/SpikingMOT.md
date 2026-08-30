@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[Neuromorphic_Planning_Revolution]]
+[[NoiseDrivenBackpropReconstruction]]
 [[PowerLawScaling]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]

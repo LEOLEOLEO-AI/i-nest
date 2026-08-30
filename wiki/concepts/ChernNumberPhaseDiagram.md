@@ -39,10 +39,12 @@ Auto-extracted concept from raw material compilation.
 [[Antiferromagnetic_Topological_Anderson_Insulator]]
 [[ArchitecturalIllusion]]
 [[Architectural_Conditioning]]
+[[Bipartite_Interconnect_Fabric]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence_Threshold]]
+[[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
@@ -56,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[Topological_Anderson_Insulator]]
 [[complex system]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_iNEST_Wafer]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
+[[SDSoW_Strategic_Planning]]
 [[SparseTemporalEncoding]]
 [[TCC]]
 [[WaferScale_Chiplet_Interconnect]]

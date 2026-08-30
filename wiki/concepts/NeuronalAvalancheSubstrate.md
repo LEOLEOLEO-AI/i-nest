@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[DataCenter_Chip_Logic_Compression]]
 [[DimensionReductionForSimplicialDynamics]]
+[[DimensionReductionViaSimplicialProjection]]
 [[Intelligence_Emergence]]
 [[Less is more，大脑“低能耗”并“高效响应”的秘诀：模块化]]
 [[Network_Topology_Design]]
@@ -45,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[criticality]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

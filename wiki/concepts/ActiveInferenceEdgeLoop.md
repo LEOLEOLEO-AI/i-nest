@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[NeurovascularUnitEngineering]]
 [[OpenBenchmarkingFramework]]
 [[OpenCodex_Upgrade_Path]]
 [[Reservoir_Computing]]

@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenModularArchitecture]]
 [[EventDrivenRiskAssessment]]
 [[EventDrivenTracking]]
+[[Event_Driven_Communication]]
 [[FrustratedDimerMagnet]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

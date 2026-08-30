@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CSI_Temporal_Encoding]]
 [[Categorical_Reservoir_Model]]
 [[CoexistencePhaseDiagram]]
+[[CoexistencePhaseTransition]]
 [[CriticalStateReservoir]]
 [[Fixed_Reservoir_Unitary]]
 [[LindbladInspiredReservoir]]

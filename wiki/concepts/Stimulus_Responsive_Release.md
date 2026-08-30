@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Bio_plausible_Neuromorphic_Disturbance_Observer]]
 [[CompetitiveProgramDynamics]]
 [[Contested_Priors_Mechanism]]
+[[ExactRateChaosTransition]]
 [[Interconnect_Routing]]
 [[Localized_Feedback_Array]]
 [[MoE_Routing]]

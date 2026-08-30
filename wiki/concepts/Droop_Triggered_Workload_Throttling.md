@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Architecture]]
 [[NeuromorphicGraphAnomalyDetection]]
 [[Neuromorphic_Computing]]
+[[NonEquilibriumPhase]]
 [[STDP_Plasticity]]
 [[Spike_Event_Driven_Attention]]
 [[Spiking_Neural_Network]]

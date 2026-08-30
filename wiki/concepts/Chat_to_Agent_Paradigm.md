@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Continual_Learning_Modularity]]
 [[DelayTolerantNetworkUAV]]
 [[DisorderedNetworkInterconnect]]
+[[EdgeOfChaosComputation]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
 [[iNEST]]

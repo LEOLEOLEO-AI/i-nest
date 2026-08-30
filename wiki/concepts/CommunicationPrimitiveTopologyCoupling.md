@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_NoC_Interconnect]]
 [[Chiplet_Stacking]]
+[[Chiplet_Topology_Mapping]]
 [[CoPackagedOptics]]
 [[Complex_System_Theory]]
 [[DataMovementMinimization]]
@@ -42,6 +43,8 @@ Auto-extracted concept from raw material compilation.
 [[Level_of_Splat_Detail]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
+[[NoC_Interconnect]]
 [[NonvisualGroundClassification]]
 [[Path_Selection_Heuristic]]
 [[PhaseAwareBisectionDemand]]
@@ -50,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[WavelengthMultiplexedInterconnect]]
 [[advanced packaging]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

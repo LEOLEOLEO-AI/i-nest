@@ -52,12 +52,14 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Topology_Interconnect]]
 [[STDP_Plasticity]]
 [[SparseTemporalEncoding]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[Topology_Interconnect]]
 [[advanced packaging]]
 [[chiplet interconnect]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

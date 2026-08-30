@@ -57,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[RTC_Primitive]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Renormalization_Group_Convergence]]
+[[SDSoW]]
 [[STDP_Plasticity]]
 [[Spacetime_Coupling_Coefficient]]
 [[SpatiotemporalComplexityIndex]]

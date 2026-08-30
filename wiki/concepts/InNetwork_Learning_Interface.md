@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Biomanufacturing_Control_Loop]]
 [[BranchingRatio]]
+[[CertifiedBifurcationDetection]]
 [[Cognitive_Relapse_Architecture]]
 [[ComplexEcosystemDynamics]]
 [[Contested_Prior_Resolution]]

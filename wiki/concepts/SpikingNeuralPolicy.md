@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Direct_Spike_Attention]]
 [[DynamicTokenSparsity]]
 [[Edge_Neuromorphic_Compute]]
+[[EnergyEfficientInference]]
 [[EnergyEfficientSNN]]
 [[EventDataNonUniformity]]
 [[EventDrivenAutoregression]]

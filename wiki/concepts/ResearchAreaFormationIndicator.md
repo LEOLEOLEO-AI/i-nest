@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[BackpropagationFreeLearning]]
 [[Complex_System_Theory]]
 [[CrossSubstrateHomology]]
+[[DynamicServiceComposition]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[FPGA_Neuromorphic_Acceleration]]
 [[FirstPrinciples_AI]]
@@ -46,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[intellectual base]]
 [[neuromorphic computing]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

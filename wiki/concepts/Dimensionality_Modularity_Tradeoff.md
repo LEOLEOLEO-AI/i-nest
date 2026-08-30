@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[NonreciprocalQuasiperiodicLattice]]
 [[Pods4Rail_Topology]]
 [[Receptron_Unit]]
 [[RecursiveSelfReferentialArchitecture]]

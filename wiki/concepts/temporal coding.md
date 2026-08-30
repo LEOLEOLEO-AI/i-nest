@@ -36,6 +36,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Communication_Trace_Diagnostics]]
 [[ComplexValuedSNN]]
 [[Complex_System_Theory]]
+[[DMP_SNN_DualMemoryPathway]]
 [[DeeplySupervisedSpiking]]
 [[DendriticTaskPartitioning]]
 [[Intelligence_Emergence]]
@@ -51,4 +52,5 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[complex system]]
 [[iNEST]]
 [[智能涌现]]
+[[涌现]]
 [[神经网络]]

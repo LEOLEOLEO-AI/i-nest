@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[DTGA]]
 [[DynamicalSelfDualCriticality]]
+[[EpidemicThreshold]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[NeuromorphicRadarFrontend]]

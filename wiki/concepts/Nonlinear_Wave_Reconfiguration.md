@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[DTGA]]
 [[FunctionalInterfaceBlock]]
 [[Heterogeneous_Integration]]
+[[ImaginaryGaugePhaseImprint]]
 [[Interconnect_Routing]]
 [[MoE_Routing]]
 [[Network_Topology_Design]]

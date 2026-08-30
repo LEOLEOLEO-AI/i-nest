@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[ConductingPolymerDendriteMemory]]
 [[Cross_Node_Event_Propagation]]
+[[Distributed_Spike_Communication]]
 [[EventDrivenPlasticity]]
 [[FixedOverheadDominance]]
 [[Loihi2_OnChip_Learning]]

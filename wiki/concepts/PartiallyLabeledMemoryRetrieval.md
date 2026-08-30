@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[CirculateFiringNeuron]]
 [[CompactnessRegularizedFitness]]
+[[ComplexValuedSNN]]
 [[Complex_System_Theory]]
 [[Continual_Learning_Topology]]
 [[Emergent_Intelligence_Threshold]]

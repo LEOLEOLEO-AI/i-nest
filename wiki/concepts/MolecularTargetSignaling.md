@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[DendriticReservoirState]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[EntropyProductionRate]]
 [[Expert_Review_Arbitration]]
 [[FisherInformationMetric]]
 [[Gate_Synthesis_Readout]]

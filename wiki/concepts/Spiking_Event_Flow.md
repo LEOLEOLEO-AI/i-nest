@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Event_Driven_Attention]]
 [[Spiking_Neural_Network]]
 [[Spiking_Residual_Learning]]
+[[StreamDataflowArchitecture]]
 [[iNEST]]
 [[neuromorphic spiking]]
 

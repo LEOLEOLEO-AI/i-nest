@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[ComplexValuedSNN]]
 [[ComputeRelocationOverhead]]
 [[Disordered_Frustrated_Dimer_Magnets]]
+[[Environmental_Capability_Context]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

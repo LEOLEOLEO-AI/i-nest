@@ -1,7 +1,7 @@
 ---
 title: "专利披露·H3"
 hypothesis: "H3"
-date: 2026-08-30
+date: 2026-08-31
 patentability: MEDIUM
 categories: ["system"]
 type: patent-disclosure
@@ -45,5 +45,5 @@ iNEST: 脉冲神经网络在晶上系统可实现类脑计算
 - [ ] 与相关论文发表策略协调（先申专再发论文）
 
 ---
-*由 patent_scout.py 于 2026-08-30T03:25:31.434150 自动生成*
+*由 patent_scout.py 于 2026-08-31T07:06:16.220372 自动生成*
 *来源假设: H3 | 来源桥接: *

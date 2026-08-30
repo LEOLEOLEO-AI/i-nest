@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveArchitecture]]
 [[AdaptiveFunctionalTopology]]
 [[AdjointWaveControl]]
+[[BrownianCastleInterface]]
 [[Communication_Trace_Diagnostics]]
 [[CulturalDisseminationDynamics]]
 [[Electronic_Warfare_Integration]]

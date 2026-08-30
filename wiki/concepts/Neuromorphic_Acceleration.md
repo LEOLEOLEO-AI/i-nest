@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[HigherOrderStochasticProcess]]
 [[Hypergraph_Label_Noise]]
 [[In_Network_Neuromorphic_Offload]]
+[[LIF_Neuron_Model]]
 [[Neuromorphic_Computing]]
 [[NoiseRobust_Hyperedge_Aggregation]]
 [[RobustnessToSensorNoise]]

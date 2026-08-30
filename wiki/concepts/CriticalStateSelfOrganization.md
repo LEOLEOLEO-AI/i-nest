@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveAsymmetricSurrogateGradient]]
 [[AmoebaInspiredLocomotion]]
 [[AstrocyteInspiredModulation]]
+[[BrownianCastleInterface]]
 [[Gaussian_Splatting_Streaming]]
 [[HigherAreaRankingDivergence]]
 [[Interconnect_Routing]]

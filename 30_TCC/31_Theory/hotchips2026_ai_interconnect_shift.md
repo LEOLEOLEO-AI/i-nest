@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 资料
+tags: [Hot Chips, AI加速器, 系统级互连, 内存墙, 开放互连标准]
+summary: "AI算力瓶颈转向系统级互连与数据搬运"
+quality: high
+processed: 2026-08-30 18:45
+---
+---
 title: "Hot Chips 2026 深度解读：AI 算力瓶颈从单芯片转向系统级互连"
 tags:
   - hardware

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[CriticalityDrivenTopology]]
 [[Criticality]]
+[[Criticality_Based_Feature_Extraction]]
 [[EventDrivenAsynchronousRouting]]
 [[FPGA_NeuromorphicMapping]]
 [[FunctionalRelevanceDrivenSelfOrganization]]

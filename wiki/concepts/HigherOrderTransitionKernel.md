@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_Network_Class_Brain_Computing]]
 [[Complex_System_Theory]]
 [[DrivenDissipativeDynamics]]
+[[FPGA_Neuromorphic_Architectures]]
 [[Memristive_Interconnect]]
 [[Memristor_Synapse]]
 [[MetaFAIR_ArchitectureDiscovery]]

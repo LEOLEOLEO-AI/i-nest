@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[MemristiveSpikingAccelerator]]
 [[MultiFPGA_Spiking_Scaling]]
 [[NanoBanana_SNNDeck]]
+[[NearlyLosslessANNtoSNN]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]

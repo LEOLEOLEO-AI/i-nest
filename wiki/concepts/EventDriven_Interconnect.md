@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[BurstInterleaving]]
 [[Complex_System_Theory]]
+[[EventDrivenSensoryEncoding]]
 [[EventDrivenTracking]]
 [[Interconnect_Routing]]
 [[Memory_Wall]]

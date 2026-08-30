@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Attention_Residuals]]
 [[DARPA_ProjectManager_Model]]
+[[Deep_Network_Architecture_Invariant]]
 [[Fixed_Reservoir_Unitary]]
 [[GeneralizedReadoutMap]]
 [[InNetworkSignalRecovery]]

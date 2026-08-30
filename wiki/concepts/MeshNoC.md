@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[CongestionAwareNoCPlacement]]
 [[DelayCouplingMatrix]]
 [[EquilibriumTreePacking]]
+[[EvolutionaryTopologySearch]]
 [[FloquetDriving]]
 [[GateModelQuantumOptimization]]
 [[HeterogeneousSiNIntegration]]

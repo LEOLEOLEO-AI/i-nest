@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[ApproximationFidelityTradeoff]]
 [[Attention_Residuals]]
 [[BackpropagationFreeLearning]]
+[[CST计量仪]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
 [[Deep_Network_Architecture_Invariant]]
@@ -44,10 +45,12 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Architecture]]
 [[STDP_Plasticity]]
 [[SelfOrganization]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[TopologyAware_Embedding]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

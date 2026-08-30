@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[12_三原理协同_FEP_最小作用量_STDP]]
 [[3D_IC_Stacking]]
 [[3D_Integrated_Chiplet_Stacking]]
+[[4H_SiC_SubstrateProcessing]]
 [[AI_FullSpectrum_Strategy]]
 [[AdvancedPackagingInterconnect]]
 [[Allreduce_Latency_Probe]]
@@ -49,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_Topology]]
 [[STDP_Plasticity]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[Wafer_Scale_Integration]]
@@ -57,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[chiplet interconnect]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -60,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[TemperatureSensitivityControl]]
 [[TemporalComplexity]]
 [[Topology_Centric_Computing]]
+[[Topology_Centric_Computing_Paradigm]]
 [[Topology_Interconnect]]
 [[chiplet interconnect]]
 [[iNEST]]

@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[Neuromorphic_computing]]
+[[Order_Flexibility_Duality]]
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SNN]]

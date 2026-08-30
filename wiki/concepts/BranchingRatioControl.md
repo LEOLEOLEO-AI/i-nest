@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Energy_Floor]]
 [[Spiking_Neural_Network]]
 [[TCC]]
+[[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[criticality]]
 [[iNEST]]
 [[神经网络]]

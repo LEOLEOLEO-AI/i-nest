@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[SequenceAwareSpikingDetection]]
 [[Spike_Encoding_of_fMRI]]
+[[SpikingRecurrentCells]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]

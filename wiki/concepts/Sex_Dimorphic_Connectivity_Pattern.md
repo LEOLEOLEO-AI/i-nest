@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CompleteConnectomeDynamics]]
 [[ConnectomeWiringSeparability]]
 [[Connectome]]
+[[Connectome_Reservoir]]
 [[DevelopmentalConnectomeTemporalGraph]]
 [[DevelopmentalStageEmbedding]]
 [[Dynamic_Expert_Fusion]]

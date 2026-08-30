@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Topology]]
 [[Chiplet_Topology_Interconnect]]
 [[CongestionAwareNoCPlacement]]
+[[DiagnosticReportFramework]]
 [[ElectromigrationReliability]]
 [[EulaminateOverrepresentation]]
 [[Heterogeneous_Integration]]

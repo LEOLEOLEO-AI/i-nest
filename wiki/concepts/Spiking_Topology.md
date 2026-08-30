@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[PhaseLockedTopologyMapping]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SDN_Neuromorphic_Interface]]
 [[SNN]]
 [[ST_SNN]]
 [[Self_Organized_Criticality]]

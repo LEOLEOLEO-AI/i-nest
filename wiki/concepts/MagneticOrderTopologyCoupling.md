@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[CrossbarFabricTopology]]
 [[Dimensionality_Modularity_Tradeoff]]
+[[DynamicCentralitySteering]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence_Threshold]]
 [[ImmobilizationStabilityMechanism]]

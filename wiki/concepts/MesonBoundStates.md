@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[BranchingRatio]]
 [[BurstGatedRouting]]
 [[Cognitive_Relapse_Decoupling]]
+[[Continual_Learning_Modularity]]
 [[Criticality]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

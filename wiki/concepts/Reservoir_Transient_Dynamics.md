@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[156QubitScale]]
 [[AdjustableDynamics]]
+[[Alpha_Coefficient_Phase_Transition_Amplification]]
 [[AlternativeBridgingModels]]
 [[AnalogDomainCompression]]
 [[AnisotropicGaussianPrimitives]]

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[ArbitraryWavefunctionConfigurability]]
 [[ArchitecturalCondition]]
 [[Biologically_Plausible_Learning_Rules]]
+[[CriticalityDrivenAdaptation]]
 [[Criticality]]
 [[Crystallized_Embedding_Reservoir]]
 [[CytoarchitectonicAxis]]

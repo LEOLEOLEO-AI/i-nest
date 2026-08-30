@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalScalingExponents]]
 [[DataCenter_Chip_Logic_Compression]]
 [[DeepThermalization]]
+[[DimensionReductionForSimplicialDynamics]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]
@@ -45,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[neural quantum states]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

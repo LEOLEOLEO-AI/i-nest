@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AnisotropicSymmetryBreaking]]
 [[ArtificialProprioception]]
 [[Attractor_State_Interpolation]]
+[[Brain_Inspired_Switchless_Architecture]]
 [[CirculateFiringNeuron]]
 [[CognitiveFeedbackLoop]]
 [[Complex_System_Theory]]
@@ -52,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

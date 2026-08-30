@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
+[[ComplexValuedSNN]]
 [[Complex_System_Theory]]
 [[DeeplySupervisedSpiking]]
 [[Distributed_Spike_Communication]]

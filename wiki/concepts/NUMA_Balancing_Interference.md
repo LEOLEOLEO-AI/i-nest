@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Distributed_Spike_Communication]]
 [[Heterogeneous_Integration]]
 [[HigherOrderStochasticProcess]]
+[[LIF_Neuron_Model]]
 [[LowBitSpikingPruning]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]

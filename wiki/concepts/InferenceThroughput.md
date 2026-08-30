@@ -20,7 +20,9 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3D_IC_Stacking]]
 [[Beyond_Moore_Packaging_Strategy]]
+[[Bipartite_Interconnect_Design]]
 [[ConsciousnessEngineeringLoop]]
 [[CrystalPalace_Program]]
 [[DARPA_ProjectManager_Model]]

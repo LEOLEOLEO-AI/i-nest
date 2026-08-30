@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Counterstream_Associative_Memory]]
 [[DendriticTaskPartitioning]]
 [[Distributed_Spike_Communication]]
+[[DrivenDissipativeDynamics]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[FPGASNNMemoryOptimization]]

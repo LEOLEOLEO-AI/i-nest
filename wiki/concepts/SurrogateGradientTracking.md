@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[EnergyEfficientNeuromorphic]]
 [[EvolutionarySpikeTimingOptimization]]
 [[Frontier_Innovation_Mapping]]
+[[GradientBasedSpikeLearning]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[SNN]]

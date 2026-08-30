@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[EdgeIoTEnergyAwareness]]
 [[FatalityDrivenRewiring]]
 [[Heterogeneous_Integration]]
+[[ImaginaryGaugePhaseImprint]]
 [[Intelligence_Emergence]]
 [[Intelligent_Computing_Infrastructure]]
 [[Interconnect_Routing]]
@@ -47,16 +48,19 @@ Auto-extracted concept from raw material compilation.
 [[Packaging_Aware_NoC_Design]]
 [[RecursiveSelfReferentialArchitecture]]
 [[RoutabilityDrivenFloorplanning]]
+[[SDI_Bond]]
 [[SDI_Control_Plane_Offload]]
 [[STDP_Plasticity]]
 [[SuperparamagneticSwitchingRate]]
 [[Swarm_Coordination]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[Translation_Invariant_Closure]]
 [[VectorFlowField]]
 [[chiplet interconnect]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

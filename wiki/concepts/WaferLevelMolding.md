@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Photonic_Chiplet_Interconnect]]
 [[RTC_Primitive]]
 [[SDI_Bond]]
+[[SDI_Standard_Review]]
 [[SDI_TCC_Chiplet]]
 [[ScaleFreeNetwork]]
 [[SmallWorldNetworks]]
@@ -59,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[heterogeneous_integration]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

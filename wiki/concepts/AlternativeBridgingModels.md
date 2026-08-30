@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[SDDE_Attractor_Emergence]]
 [[SNN]]
+[[STDP_Plasticity]]
 [[ScaleFreeNetwork]]
 [[SpectralSupportAnalysis]]
 [[Spiking_Neural_Network]]

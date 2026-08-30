@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossLayer_SignalRouting]]
 [[EventDrivenAsynchronousRouting]]
 [[FPGACongestionHotspotMitigation]]
+[[HighThroughputBioparticleRouting]]
 [[Interconnect_Routing]]
 [[Network_on_Chip]]
 [[NoC_EventRouting]]

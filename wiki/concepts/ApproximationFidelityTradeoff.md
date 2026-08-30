@@ -43,11 +43,14 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Architecture]]
 [[SDSoW_Interface_Standard]]
 [[STDP_Plasticity]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[TCC_iNEST_Interconnect]]
+[[WavelengthMultiplexedInterconnect]]
 [[iNEST]]
 [[residual connection]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

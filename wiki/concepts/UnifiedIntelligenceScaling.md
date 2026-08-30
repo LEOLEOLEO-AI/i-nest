@@ -35,12 +35,14 @@ Auto-extracted concept from raw material compilation.
 [[ERI_2_0_Strategic_Framework]]
 [[Intelligence_Emergence]]
 [[JunctionCenteredFramework]]
+[[Mesoscale_Physical_Computing_Framework]]
 [[Metastable_State_Hierarchy]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[iNEST]]
 [[neuromorphic computing]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

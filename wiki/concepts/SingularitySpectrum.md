@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_Project_Group_Strategy]]
 [[DegreeDependentOpinionThreshold]]
 [[Heterogeneous_Integration]]
+[[NeuromorphicLocomotionPrimitive]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]
 [[iNEST]]

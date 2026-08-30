@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicNeuralManifolds]]
 [[Electronic_Neuron_Circuit]]
 [[Emergent_Intelligence_Threshold]]
+[[EntropyProductionRate]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[NeuralNetworkSpectralAnalysis]]
@@ -48,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[SelfOrganizedOscillatoryLearning]]
 [[iNEST]]
+[[reservoir computing architecture]]
 [[reservoir computing]]
 
 ## Sources

@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Reservoir_Topology]]
 [[EntropyProductionRate]]
 [[Epithelial_Barrier_Integrity]]
+[[Expert_Review_Arbitration]]
 [[FisherOrthogonalMemory]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]

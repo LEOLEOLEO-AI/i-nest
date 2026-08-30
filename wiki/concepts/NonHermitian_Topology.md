@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[DTGA]]
 [[Disordered_Frustrated_Dimer_Magnets]]
 [[DualSide_Routing_Layer]]
+[[Environmental_Capability_Context]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

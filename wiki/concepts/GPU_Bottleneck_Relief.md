@@ -47,13 +47,16 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Interconnect]]
 [[OnDie_Fusion]]
 [[STDP_Plasticity]]
+[[SoftwareDefinedSystemOnWafer]]
 [[Switchless_Computing]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[TopologyAwareTaskScheduling]]
 [[WaferScaleInterconnectAlgebra]]
 [[WaferScaleTopologyCentricComputing]]
 [[advanced packaging]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

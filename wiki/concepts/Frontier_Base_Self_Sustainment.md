@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[AirportNetworkGraphEmbedding]]
 [[AlgorithmicPhaseTransition]]
 [[Allreduce_Latency_Probe]]
+[[Analog_InMemory_Processing]]
 [[ArchitecturalGrounding]]
 [[Architectural_Conditioning]]
 [[AthermalRandomFieldBlumeCapel]]
@@ -57,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[complex system]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_Manufacturing_Strategy]]
 [[DARPA_Project_Group_Strategy]]
 [[DendriticReservoirState]]
+[[ERI_2_0_Strategy]]
 [[EdgeIoTEnergyAwareness]]
 [[ElectronicPhotonicIntegratedCircuit]]
 [[EvanescentFieldTrapping]]
@@ -57,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[chiplet interconnect]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经形态脉冲大语言模型（NSLLM）]]
 
 ## Sources

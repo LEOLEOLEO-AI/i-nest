@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[BisectionBandwidthBound]]
 [[BisectionBandwidthMetric]]
 [[ChipletTopologyAwareness]]
+[[Chiplet_Based_Trusted_Hardware]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
 [[Complex_System_Theory]]
@@ -43,7 +44,9 @@ Auto-extracted concept from raw material compilation.
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[TCC]]
+[[TCC_Interconnect_Aware]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

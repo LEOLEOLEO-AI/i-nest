@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[DimensionalityReductionPrinciple]]
 [[FractureMechanism]]
 [[GeneralIntelligenceSubstrate]]
+[[Generative_Graph_Models]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[Reservoir_Computing]]

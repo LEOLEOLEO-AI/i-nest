@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Ant_Swarm_Functional_Control]]
 [[ArchitecturalCondition]]
 [[Autonomous_Unmanned_Combat_Networking]]
+[[Capability_Reserve_Index]]
 [[Criticality]]
 [[FlexibilityThreshold]]
 [[Network_Topology_Design]]

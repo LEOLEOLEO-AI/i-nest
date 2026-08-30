@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Habituation_Dynamics]]
 [[HighThroughputPhenotyping]]
 [[HybridCouplingThermosensitiveNetwork]]
+[[InterDomain_Synergy]]
 [[Neuromorphic_Computing]]
 [[analog computation]]
 [[iNEST]]

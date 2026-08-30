@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[03 涌现：整体的能力不能还原回个体？ - 得到APP]]
 [[AdiabaticMultimodeBend]]
 [[AdsorptionBiosorptionHybrid]]
+[[AdvancedPackagingInterconnect]]
 [[CST_Spatiotemporal_Complexity]]
 [[ChipletWaferInterconnectScaling]]
 [[ChipletWaferInterconnectTopology]]
@@ -41,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Microgrid_Optimization]]
 [[Network_Spatiotemporal_Coordination]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
 [[Photonic_Chiplet_Interconnect]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Recursive_Metric_Contraction]]
@@ -55,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[temporalComplexity]]
 [[Γst_Revision]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

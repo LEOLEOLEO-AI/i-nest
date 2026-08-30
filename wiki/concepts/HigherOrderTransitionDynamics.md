@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Biomanufacturing_Control_Loop]]
 [[BranchingRatio]]
 [[Categorical_Reservoir_Model]]
+[[CoexistencePhaseTransition]]
 [[CouplingTopologyMemoryLink]]
 [[Coupling_Topology]]
 [[Crystallized_Embedding_Reservoir]]

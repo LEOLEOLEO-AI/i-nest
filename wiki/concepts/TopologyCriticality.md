@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_FullSpectrum_Strategy]]
 [[Allreduce_Latency_Diagnostic]]
 [[Allreduce_Latency_Probe]]
+[[ArbitraryWavefunctionConfigurability]]
 [[Architectural_Conditioning]]
 [[BackpropFree_Learning]]
 [[CST_Theory]]
@@ -45,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]
+[[Reservoir_Computing]]
 [[Self_Organized_Criticality]]
 [[Switch_Bottleneck]]
 [[TCC]]
@@ -54,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[emergent computation]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

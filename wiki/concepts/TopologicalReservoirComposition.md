@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[ErrorSuppressedPipeline]]
 [[Generative_Graph_Models]]
+[[MantelTest_SignCorrection]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[PhysicalReservoir]]

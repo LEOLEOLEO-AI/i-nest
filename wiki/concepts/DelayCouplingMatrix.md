@@ -41,6 +41,8 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[NoC_SDI]]
+[[Order_Flexibility_Duality]]
+[[SDI_Bond]]
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[soc]]

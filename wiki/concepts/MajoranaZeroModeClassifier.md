@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[CST计量仪]]
 [[Capability_Forging_Pipeline]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
+[[ChipletPHYAccuracy]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[MajoranaZeroMode]]
@@ -42,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

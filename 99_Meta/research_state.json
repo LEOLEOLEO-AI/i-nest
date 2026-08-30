@@ -1,18 +1,18 @@
 {
-  "generated": "2026-08-30T03:00:05.238937",
+  "generated": "2026-08-31T06:55:11.420885",
   "generator": "state_generator.py v1.0",
   "vault": {
-    "total_md": 10989,
+    "total_md": 11011,
     "inbox_00": 200,
     "processing_20": 563,
-    "tcc_30": 1837,
-    "inest_40": 1235,
+    "tcc_30": 1838,
+    "inest_40": 1237,
     "output_50": 429,
-    "moc_60": 78
+    "moc_60": 79
   },
   "services": {
-    "preview_server_8899": false,
-    "jojo_llm_57321": false,
+    "preview_server_8899": true,
+    "jojo_llm_57321": true,
     "jojo_fixer_57320": false
   },
   "pipeline": {
@@ -22,6 +22,28 @@
       "recent": []
     },
     "recent_runs": [
+      {
+        "date": "2026-08-31T06:55:11.330209",
+        "new_papers": 0,
+        "api_results": 0,
+        "classified": 0,
+        "graph_nodes": 11002,
+        "graph_edges": 173881,
+        "elapsed_s": 790.1,
+        "genspark_snapshot": "99_Meta\\genspark_research_brief.md",
+        "_file": "pipeline_20260831_0655.json"
+      },
+      {
+        "date": "2026-08-30T06:36:30.988401",
+        "new_papers": 0,
+        "api_results": 0,
+        "classified": 0,
+        "graph_nodes": 10988,
+        "graph_edges": 174906,
+        "elapsed_s": 388.0,
+        "genspark_snapshot": "99_Meta\\genspark_research_brief.md",
+        "_file": "pipeline_20260830_0636.json"
+      },
       {
         "date": "2026-08-29T06:43:49.541155",
         "new_papers": 7,
@@ -76,45 +98,32 @@
         "elapsed_s": 873.1,
         "genspark_snapshot": "99_Meta\\genspark_research_brief.md",
         "_file": "pipeline_20260824_0644.json"
-      },
-      {
-        "date": "2026-08-23T09:55:30.581779",
-        "new_papers": 0,
-        "api_results": 0,
-        "classified": 0,
-        "graph_nodes": 12228,
-        "graph_edges": 107333,
-        "elapsed_s": 2945.7,
-        "genspark_snapshot": "99_Meta\\genspark_research_brief.md",
-        "_file": "pipeline_20260823_0955.json"
-      },
-      {
-        "date": "2026-08-21T06:38:29.762002",
-        "new_papers": 0,
-        "api_results": 0,
-        "classified": 0,
-        "graph_nodes": 10515,
-        "graph_edges": 103717,
-        "elapsed_s": 508.0,
-        "genspark_snapshot": "99_Meta\\genspark_research_brief.md",
-        "_file": "pipeline_20260821_0638.json"
       }
     ]
   },
   "git": {
-    "uncommitted": 11,
+    "uncommitted": 44,
     "details": [
       "M .obsidian/community-plugins.json",
       " M .obsidian/workspace.json",
       " M .workbuddy/automations/automation-1785546922604/memory.md",
+      " D \"00_Inbox/Hot Chips 2026 \\346\\267\\261\\345\\272\\246\\350\\247\\243\\350\\257\\273\\357\\274\\232AI \\347\\256\\227\\345\\212\\233\\347\\223\\266\\351\\242\\210\\344\\273\\216\\345\\215\\225\\350\\212\\257\\347\\211\\207\\350\\275\\254\\345\\220\\221\\347\\263\\273\\347\\273\\237\\347\\272\\247\\344\\272\\222\\350\\277\\236.md\"",
+      " D \"00_Inbox/Nature Electronics 1M1T1R \\344\\272\\272\\345\\267\\245\\347\\245\\236\\347\\273\\217\\345\\205\\203\\346\\267\\261\\345\\272\\246\\350\\247\\243\\346\\236\\220\\357\\274\\232\\344\\270\\211\\344\\270\\252\\345\\205\\203\\344\\273\\266\\345\\246\\202\\344\\275\\225\\345\\220\\214\\346\\227\\266\\345\\256\\236\\347\\216\\260\\345\\205\\255\\347\\247\\215\\347\\245\\236\\347\\273\\217\\345\\212\\250\\346\\200\\201.md\"",
+      " D \"00_Inbox/iNEST\\350\\220\\275\\345\\234\\260\\346\\226\\271\\346\\241\\210.md\"",
+      " M 60_MOC/02_DeepSeek_Insights.md",
+      " M 60_MOC/02_Research_Insights.md",
+      " M 60_MOC/03_Daily_Action.md",
+      " M 60_MOC/04_Daily_Focus.md",
+      " M 60_MOC/05_Task_Review.md",
+      " M 60_MOC/07_Pipeline_Status.md",
       " M 99_Meta/evolution_queue.json",
+      " M 99_Meta/genspark_research_brief.md",
       " M 99_Meta/hypothesis_registry.json",
       " M 99_Meta/knowledge_compile_state.json",
-      " M Home.md",
-      " M state/wiki_compiler_state.json",
-      "?? 60_MOC/12_Knowledge_Review_2026-08-30.md",
-      "?? 60_MOC/weekly_health_20260830.md",
-      "?? \"wiki/articles/Hot_Chips_2026_\\346\\267\\261\\345\\272\\246\\350\\247\\243\\350\\257\\273_AI_\\347\\256\\227\\345\\212\\233\\347\\223\\266\\351\\242\\210\\344\\273\\216\\345\\215\\225\\350\\212\\257\\347\\211\\207\\350\\275\\254\\345\\220\\221\\347\\263\\273\\347\\273\\237\\347\\272\\247\\344\\272\\222\\350\\277\\236.md\""
+      " M 99_Meta/research_state.json",
+      " M 99_Meta/research_task_proposals.json",
+      " M 99_Meta/self_evolve_log.json",
+      " M Home.md"
     ]
   },
   "health": {

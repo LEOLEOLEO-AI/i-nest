@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[12_三原理协同_FEP_最小作用量_STDP]]
 [[156QubitScale]]
 [[3DGS_Scene_Graph]]
+[[AI-ML — 全景导航 (Map of Content)]]
 [[Alpha_Coefficient_Phase_Transition_Amplification]]
 [[ArbitraryWavefunctionConfigurability]]
 [[CST计量仪]]
@@ -44,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

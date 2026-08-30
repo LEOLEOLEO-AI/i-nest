@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[MantelTest_SignCorrection]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
+[[PhysicalReservoirInterconnect]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Self_Organized_Criticality]]
 [[TCC]]

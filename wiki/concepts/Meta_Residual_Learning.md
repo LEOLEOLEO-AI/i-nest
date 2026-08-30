@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
+[[SDDE_Attractor_Emergence]]
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SNN]]

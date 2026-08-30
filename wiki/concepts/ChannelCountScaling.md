@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[TCC]]
 [[ThermallyDrivenSuperparamagnetReservoir]]
+[[TopologicalDataCompression]]
 [[iNEST]]
 [[类脑芯片]]
 

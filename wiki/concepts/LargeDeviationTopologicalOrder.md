@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Crystallized_Neural_Manifolds]]
 [[DendriticReservoirState]]
 [[DifferentiableLifting]]
+[[EcosystemTopologyCoupling]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
 [[Intelligence_Emergence]]

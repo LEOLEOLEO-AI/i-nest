@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AvalancheBranchingRatio]]
 [[Biologically_Plausible_Learning_Rules]]
 [[Boundary_Criticality]]
+[[BranchingRatioControl]]
 [[BranchingRatio]]
 [[CST_Theory]]
 [[Cognitive_Relapse_Decoupling]]

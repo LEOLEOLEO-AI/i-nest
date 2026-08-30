@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AutomatedQuantizationFramework]]
 [[BiasEvaluationMetrics]]
 [[BioPlausibleDisturbanceEstimation]]
+[[BiologicallyAccurateMultilayer]]
 [[BrainScaleTopologyExploitation]]
 [[Brain_Dynamics_Learning]]
 [[ClinicalTranslationBridge]]

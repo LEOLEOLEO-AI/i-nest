@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AcceleratedMaterialScreening]]
 [[ActiveInference]]
 [[Allreduce_Latency_Probe]]
+[[Alpha_Computation_Consistency]]
 [[AndersonTransition]]
 [[AnomalousSpinTransport]]
 [[Beyond_Moore_Packaging_Strategy]]

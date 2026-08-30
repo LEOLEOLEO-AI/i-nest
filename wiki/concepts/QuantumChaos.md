@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[TemporalDynamicsModeling]]
 [[ThermalNoiseDrivenDynamics]]
 [[iNEST]]
+[[iNEST_Neuromorphic_Integration]]
 [[neuromorphic computing]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

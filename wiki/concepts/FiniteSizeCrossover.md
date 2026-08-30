@@ -32,13 +32,13 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[EnergyProportionalityCeiling]]
 [[Heterogeneous_Integration]]
+[[Network_Specific_Embedding_Separation]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[ST_SNN]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
-[[iNEST_Neuromorphic_Integration]]
 [[类脑芯片]]
 
 ## Sources

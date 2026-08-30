@@ -37,12 +37,14 @@ Auto-extracted concept from raw material compilation.
 [[ErdosRenyiGraphEnergyLandscape]]
 [[ErdosRenyi_Graph_Energy_Surface]]
 [[FloquetTopologicalOrder]]
+[[GeneralIntelligenceSubstrate]]
 [[GeometricConstraintSatisfaction]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Constructed_Reality_Interconnect]]
 [[ContextualReasoning]]
 [[CooperativeEmergence]]
+[[DARPA_Technology_Incubation]]
 [[DataBiasAmplification]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
@@ -41,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[analog computation]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

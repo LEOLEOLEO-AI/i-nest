@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Network_Layer_Stacking]]
 [[EmergentOrder]]
 [[Emergent_Intelligence_Threshold]]
+[[Evolutionary_Computability]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[MacroscopicDescriptor]]

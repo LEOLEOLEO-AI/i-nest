@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Proactive_Shaping_Strategy]]
 [[Reconfigurable_Neural_Topology]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SelfOrganisingDigitalCircuit]]
 [[SelfOrganization]]
 [[Self_Organized_Criticality]]
 [[TCC]]

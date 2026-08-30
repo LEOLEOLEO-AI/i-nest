@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration_Route]]
 [[Complex_System_Theory]]
 [[CorticalTypeDiversity]]
+[[DTGA]]
 [[Decoupled_Priors]]
 [[EndToEndDesignAutomation]]
 [[Environmental_Capability_Context]]

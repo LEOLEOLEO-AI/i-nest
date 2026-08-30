@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Avoided_Criticality]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
+[[CrashHotspotForecasting]]
 [[Criticality]]
 [[DynamicalSelfDualCriticality]]
 [[EEG_Criticality]]

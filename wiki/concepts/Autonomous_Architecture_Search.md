@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[Convergent_Evolution_Representation_Space]]
 [[Decoupled_Prior_Integration]]
+[[Inference_Stage_Decomposition]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Synaptic_Plasticity]]
@@ -42,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[TileBasedRasterization]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

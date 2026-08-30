@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Temporal_Computing_Paradigm]]
 [[iNEST]]
 [[spiking neural network]]
+[[智能涌现]]
 [[神经网络]]
 
 ## Sources

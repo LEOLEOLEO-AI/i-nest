@@ -32,7 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_iNEST_Wafer]]
 [[NoC_SDI]]
 [[SDI_Bond]]
-[[SDI_TopologyWaferIntegration]]
+[[SDI_Topology]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[SoftwareDefined_NoC_Routing]]

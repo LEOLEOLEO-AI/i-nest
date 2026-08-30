@@ -28,6 +28,8 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[CrashHotspotForecasting]]
 [[DivergentHigherAreaRanking]]
+[[Globally_Optimal_SNN_Training]]
+[[Intelligence_Emergence]]
 [[LocalQuantumLearningRule]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]

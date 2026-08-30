@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Defense_Industrial_Base_Reshaping]]
 [[FPGA_Accelerated_SNN]]
 [[Hardware_Accelerated_SNN]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[Nonlinear_Gain]]
 [[SNN]]
 [[SpikeDrivenDetectionBackbone]]

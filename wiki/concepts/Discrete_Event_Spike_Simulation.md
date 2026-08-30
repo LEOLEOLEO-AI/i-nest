@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspiredLearningRule]]
 [[BioPlausiblePredictiveCoding]]
 [[BurstGatedRouting]]
+[[ContinuousControlConversion]]
 [[Criticality]]
 [[DynamicTokenSparsity]]
 [[EventDrivenTemplateUpdate]]

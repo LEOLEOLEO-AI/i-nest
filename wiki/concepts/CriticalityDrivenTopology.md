@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality_Based_Feature_Extraction]]
 [[Dynamic_Expert_Fusion]]
 [[EpidemicThreshold]]
+[[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Interconnect_Routing]]
 [[InterconnectionStrengthEncoding]]

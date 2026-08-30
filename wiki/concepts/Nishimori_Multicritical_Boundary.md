@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[ArchitecturalCondition]]
 [[Autonomous_Unmanned_Combat_Networking]]
 [[Capability_Reserve_Index]]
+[[Cognitive_Relapse_Decoupling]]
 [[Criticality]]
 [[Network_Topology_Design]]
 [[Nishimori multicritical point]]

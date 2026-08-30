@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[EarlyVisualCortexAliasing]]
 [[EventDrivenModularArchitecture]]
 [[Interconnect_Routing]]
+[[LocalInteractionDrivenReconfiguration]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[SNN]]

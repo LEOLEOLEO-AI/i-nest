@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[EfficientDeepLearning]]
 [[EmergentIntelligence_Spacetime]]
 [[Emergent_Intelligence_Threshold]]
+[[FPGA_Neuromorphic_Architectures]]
 [[Hyper_Dimensional_Computing]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]

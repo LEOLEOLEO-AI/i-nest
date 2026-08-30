@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Frontier_Innovation_Mapping]]
 [[GradientBasedSpikeLearning]]
+[[Gradient_Free_SNN_Learning]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[NeuralNetworkSpectralAnalysis]]

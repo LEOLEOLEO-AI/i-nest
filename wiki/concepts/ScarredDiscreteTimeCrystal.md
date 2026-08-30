@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Anomaly_Protected_Scaling_Law]]
 [[BayesianConnectivityEstimation]]
 [[Capability_Reserve_Index]]
+[[Cognitive_Relapse_Decoupling]]
 [[Network_Topology_Design]]
 [[TCC]]
 

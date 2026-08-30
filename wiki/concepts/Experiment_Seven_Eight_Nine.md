@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Architecture]]
 [[CommunicationHeterogeneity]]
 [[Complex_System_Theory]]
+[[Cryogenic_Syndrome_Compression]]
 [[Evolutionary_Computability]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
@@ -59,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[temporalComplexity]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

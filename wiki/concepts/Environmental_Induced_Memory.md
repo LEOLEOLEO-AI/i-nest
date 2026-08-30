@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Reservoir_Computing]]
 [[Self_Organized_Criticality]]
+[[SwarmGradientRouting]]
 [[TCC]]
 [[complex system]]
 [[iNEST]]

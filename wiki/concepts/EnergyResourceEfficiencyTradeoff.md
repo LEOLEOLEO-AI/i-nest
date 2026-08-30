@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[HeterogeneousSynapticDelays]]
 [[Heterogeneous_Integration]]
 [[In_Package_Neuromorphic_Integration]]
+[[LatencyGradientDescent]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[SNN]]

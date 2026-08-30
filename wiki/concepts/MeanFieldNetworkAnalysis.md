@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[BrownianCastleInterface]]
 [[BrownianCastleInterfaces]]
+[[CST_Intelligence_Emergence]]
 [[ComplexValuedSNN]]
 [[Complex_System_Theory]]
 [[DevelopmentalNeuromorphicAdaptation]]

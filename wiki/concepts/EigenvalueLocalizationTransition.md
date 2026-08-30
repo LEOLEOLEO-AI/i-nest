@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Biomanufacturing_Control_Loop]]
 [[CouplingTopologyMemoryLink]]
 [[Coupling_Topology]]
+[[CriticalStateReservoir]]
 [[CytoarchitectonicAxis]]
 [[DataDrivenCytoarchitectonicAxis]]
 [[NestedRepresentation]]

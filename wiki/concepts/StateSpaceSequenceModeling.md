@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[RTC_Primitive]]
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
+[[SNN]]
 [[ScaleFreeNetwork]]
 [[SelfHealing_Interconnect]]
 [[Spiking_Neural_Network]]

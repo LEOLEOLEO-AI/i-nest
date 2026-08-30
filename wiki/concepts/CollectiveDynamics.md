@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[AlloyDisorderEngineering]]
 [[ApproximateMacroscopicDynamics]]
+[[BigBrainCellularAxis]]
 [[ComplexValuedSNN]]
 [[Complex_System_Theory]]
 [[Deep_SNN_Trainability]]

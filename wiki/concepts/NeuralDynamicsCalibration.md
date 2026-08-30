@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CascadedAdaptiveCombiners]]
 [[CollectiveDynamics]]
 [[ConsciousnessEngineeringLoop]]
+[[CrossLayer_SignalRouting]]
 [[DualDrivenHybridNetwork]]
 [[ErrorAmplificationLimits]]
 [[LatencyGradientDescent]]

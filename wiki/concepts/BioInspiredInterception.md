@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[ScalingLawMinimality]]
 [[SpikingTransformer]]
 [[Spiking_Neural_Network]]
+[[SynapticConnectivityAwarePlacement]]
 [[VisualSemanticDecoding]]
 [[iNEST]]
 

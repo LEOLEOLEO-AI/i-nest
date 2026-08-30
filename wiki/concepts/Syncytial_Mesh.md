@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CascadedAdaptiveCombiners]]
 [[Complex_System_Theory]]
 [[EmulationTheoryObserver]]
+[[FastSlow_Dynamics]]
 [[Free_Energy_Principle_Network]]
 [[Intelligence_Emergence]]
 [[Memristive_STDP]]
@@ -42,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

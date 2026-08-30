@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenMotionDeblurring]]
 [[GPU_Cluster_SNN_Architecture]]
 [[GradientBasedLearningLocalization]]
+[[NeuromorphicAttentionScaling]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Self_Organized_Criticality]]

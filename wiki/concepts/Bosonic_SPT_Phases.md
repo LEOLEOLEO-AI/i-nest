@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AvalancheTriggeringMechanism]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[Bio_plausible_Neuromorphic_Disturbance_Observer]]
+[[Biomanufacturing_Control_Loop]]
 [[CircadianGateModulation]]
 [[Comparative_Formulation_Analysis]]
 [[Complex_System_Theory]]

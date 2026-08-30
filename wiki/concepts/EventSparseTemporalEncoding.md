@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Distributed_Spike_Communication]]
 [[EdgeInspectionInference]]
 [[End_Side_Neuromorphic_Deployment]]
+[[FerroelectricCrossbarArray]]
 [[Ferroelectric_Devices]]
 [[Ferroelectric_Synaptic_Devices]]
 [[Gaussian_Splat_Compression]]
@@ -42,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikePacketCompression]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
+[[soc]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

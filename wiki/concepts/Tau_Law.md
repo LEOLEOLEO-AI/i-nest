@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AdvancedPackagingInterconnect]]
 [[AnalogDomainCompression]]
 [[CSI_Temporal_Encoding]]
+[[ChipletSignalIntegrity]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_NoC_Fabric]]
 [[Chiplet_Stacking]]

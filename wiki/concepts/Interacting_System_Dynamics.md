@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[BioPlausibleDisturbanceEstimation]]
 [[BiologicalPlausibilityScoring]]
 [[BiologicallyAccurateMultilayer]]
+[[BrainScaleTopologyExploitation]]
 [[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

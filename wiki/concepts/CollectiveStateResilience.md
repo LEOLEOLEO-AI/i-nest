@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Beyond_Moore_Packaging_Strategy]]
 [[BiologicalNoiseMimicry]]
 [[CirculateFiringNeuron]]
+[[CompartmentalNeuronModel]]
 [[Course_Based_FPGA_Projects]]
 [[EmergentOrder]]
 [[Emergent_Intelligence_Threshold]]

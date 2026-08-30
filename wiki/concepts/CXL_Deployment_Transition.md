@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Ferroelectric_ComputeInMemory]]
 [[Ferroelectric_Devices]]
+[[GPU_Exclusivity_Bottleneck]]
 [[Heterogeneous_Integration]]
 [[In_Package_Optical_Interconnect]]
 [[Intelligence_Emergence]]
@@ -51,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[WideLink_NoC_Router]]
 [[待分类]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
+[[1024_Card_SuperNode]]
 [[156QubitScale]]
 [[2_5D_PIM_Chiplet_Integration]]
 [[3DHI_Stacking]]
@@ -31,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Branch_Prediction_Reservoir]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[Evolving_System_Adaptation]]

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[DMP_SNN_DualMemoryPathway]]
 [[DTGA]]
 [[Distributed_Spike_Communication]]
+[[DrivenDissipativeDynamics]]
 [[FPGASNNMemoryOptimization]]
 [[Hypersonic_Weapon_Market_CAGR]]
 [[LIF_Neuron_Model]]

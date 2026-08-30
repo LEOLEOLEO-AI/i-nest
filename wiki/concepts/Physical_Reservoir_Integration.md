@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_ProjectManager_Model]]
 [[DendriticReservoirState]]
 [[FunctionalInterfaceBlock]]
+[[InNetwork_Learning_Interface]]
 [[IncidenceBasedRandomWalk]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]

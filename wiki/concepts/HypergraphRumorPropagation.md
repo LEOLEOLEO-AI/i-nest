@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Network_Neuromorphic_Processing]]
 [[Intelligence_Emergence]]
 [[MacroscopicDescriptor]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[Network_on_Chip]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]

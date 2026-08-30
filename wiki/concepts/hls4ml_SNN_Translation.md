@@ -36,6 +36,8 @@ Auto-extracted concept from raw material compilation.
 [[SDI_STDP]]
 [[SDI_iNEST_Interconnect]]
 [[SNN]]
+[[STDP_Plasticity]]
+[[STDP_iNEST]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 [[neuromorphic computing]]

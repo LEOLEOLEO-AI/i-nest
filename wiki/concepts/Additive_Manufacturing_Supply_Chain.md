@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[ArbitraryWavefunctionConfigurability]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
+[[Chiplet_Interconnect_Topology]]
 [[Course_Based_FPGA_Prototyping]]
 [[Criticality]]
 [[CrossbarFabricTopology]]

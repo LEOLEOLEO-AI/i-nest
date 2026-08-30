@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Controlled_Release_Kinetics]]
 [[CorticalWaveRouting]]
 [[EventCameraTemporalEncoding]]
+[[Fast_Response_Actuator]]
 [[Interconnect_Routing]]
 [[RateEncodedSpikingNeuralNetwork]]
 [[SDI_Bond]]

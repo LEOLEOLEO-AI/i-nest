@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[SupervisedTrainingDegradation]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[TemporalSwitchMechanism]]
 [[iNEST]]
 [[神经网络]]
 

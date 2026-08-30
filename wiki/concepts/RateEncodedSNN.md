@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[CrashHotspotForecasting]]
 [[DivergentHigherAreaRanking]]
 [[EnergyEfficientNeuromorphic]]
+[[EvolutionarySpikeTimingOptimization]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[SNN]]

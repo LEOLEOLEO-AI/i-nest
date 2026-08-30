@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[RestingStateEEG_Connectivity]]
 [[SpikeAttention]]
 [[Spike_Encoding_of_fMRI]]
+[[SpikingMoE_SDPrompt]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]

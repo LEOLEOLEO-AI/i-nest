@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Layered_Attractive_Hubbard_Model]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
+[[SDI_STDP]]
 [[SNN]]
 [[STDP_Plasticity]]
 [[Spike_Timing_Dependent_Plasticity]]

@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[OpticalNonlinearity]]
 [[PhysicalSubstrateReservoir]]
+[[ReservoirDynamics]]
 [[ReservoirEntropyEncoding]]
 [[Reservoir_Computing]]
 [[complex system]]

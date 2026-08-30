@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[Fixed_Cost_Dominance]]
 [[HippocampalNeocorticalIntelligence]]
 [[HodgkinHuxleyDynamics]]
 [[Intelligence_Emergence]]

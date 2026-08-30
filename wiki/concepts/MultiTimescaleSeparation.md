@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
+[[ThermallyDrivenSuperparamagnetReservoir]]
 [[神经网络]]
 
 ## Sources

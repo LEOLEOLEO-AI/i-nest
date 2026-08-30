@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[InSensorMemoryComputing]]
 [[In_Package_Neuromorphic_Integration]]
 [[Memristor_Synapse]]
+[[ModelOptimizationFederated]]
 [[ModelOptimization]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]

@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AIRA_NeuralArchSearch]]
 [[Allreduce_Latency_Probe]]
 [[CSI_Temporal_Encoding]]
+[[Chip-Hardware — 全景导航 (Map of Content)]]
 [[ChipletRoutingFabric]]
 [[Chiplet_Heterogeneous_Integration]]
 [[EdgeIoTEnergyAwareness]]

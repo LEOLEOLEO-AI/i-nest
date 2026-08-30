@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[Spatiotemporal_Synergy_Complexity]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[TemporalComplexity]]
 [[analog computation]]
 [[chiplet interconnect]]
@@ -61,6 +62,7 @@ Auto-extracted concept from raw material compilation.
 [[temporalComplexity]]
 [[vLLM_plugin_FLSDI]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[CompleteConnectomeDynamics]]
 [[ConnectomeWiringSeparability]]
 [[Connectome]]
+[[Connectome_Reservoir]]
 [[DevelopmentalConnectomeTemporalGraph]]
 [[DevelopmentalStageEmbedding]]
 [[Dynamic_Expert_Fusion]]
@@ -42,7 +43,6 @@ Auto-extracted concept from raw material compilation.
 [[Sex_Network_Interaction]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]
-[[neuromorphic computing architecture]]
 [[neuromorphic computing]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

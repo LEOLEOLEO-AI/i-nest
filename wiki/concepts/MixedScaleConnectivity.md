@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_Equation]]
 [[Complex_System_Theory]]
 [[Connectome]]
+[[Connectome_Inspired_Architecture]]
 [[Connectome_Transfer]]
 [[DARPA_ProjectManager_Model]]
 [[Deep_Network_Architecture_Invariant]]

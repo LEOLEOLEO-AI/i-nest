@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Fading_Memory_Property]]
 [[FisherOrthogonalMemory]]
 [[Heterogeneous_Integration]]
+[[IntegratedSensingFusion]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Chiplet]]

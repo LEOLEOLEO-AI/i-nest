@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CavityMethodAnalysis]]
 [[Chiplet_Based_Architecture]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Stacking]]
 [[CommunicationAwareComputeRelocation]]
 [[Complex_System_Theory]]
 [[DTGA]]
@@ -47,11 +48,13 @@ Auto-extracted concept from raw material compilation.
 [[SDI_NPU_NoC_Integration]]
 [[SDI_TopologicalControl]]
 [[STDP_Plasticity]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[TopologyAwareStateMigration]]
 [[TopologyProgramming]]
 [[VectorFlowField]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

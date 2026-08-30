@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Network_Neuromorphic_Compute]]
 [[Intelligence_Emergence]]
 [[Long_Range_Interactions]]
+[[Memristive_ANN_Hardware]]
 [[Memristive_Crossbar_Array]]
 [[Network_Topology_Design]]
 [[NeuromorphicHardware]]

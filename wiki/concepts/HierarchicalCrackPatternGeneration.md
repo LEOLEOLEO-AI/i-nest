@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[DifferentiableLifting]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[Epidemic_Mitigation_Strategy]]
 [[FlexibilityThreshold]]
 [[HierarchicalCrackPattern]]
 [[Intelligence_Emergence]]

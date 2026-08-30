@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CorticalWaveRouting]]
 [[CrossbarSNNArchitecture]]
 [[DevelopmentalNeuromorphicAdaptation]]
+[[EarlyVisualCortexAliasing]]
 [[FPGA_Accelerated_SNN]]
 [[FPGA_Neuromorphic_Acceleration]]
 [[FPGA_Neuromorphic_Architectures]]

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_Interconnect]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[SDI_STDP_Rule]]
 [[SpikeTimingSensitivity]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

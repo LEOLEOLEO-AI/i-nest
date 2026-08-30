@@ -37,16 +37,20 @@ Auto-extracted concept from raw material compilation.
 [[CoPackagedOptics]]
 [[CommunicationPrimitiveTopologyCoupling]]
 [[Complex_System_Theory]]
+[[DTGA]]
 [[EdgeCloudCollaboration]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Level_of_Splat_Detail]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
+[[NoC_Interconnect]]
 [[TCC]]
 [[advanced packaging]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Endocrine_Modulated_Network_State]]
 [[Fixed_Cost_Dominance]]
+[[GroupInteractionThreshold]]
 [[InfluencePropagationLoop]]
 [[Intelligence_Emergence]]
 [[IntrinsicTimingSTDP]]

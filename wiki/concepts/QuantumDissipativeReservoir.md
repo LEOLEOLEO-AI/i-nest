@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[Branch_Prediction_Reservoir]]
 [[DARPA_ProjectManager_Model]]
+[[Deep_Network_Architecture_Invariant]]
 [[Dynamic_Expert_Fusion]]
 [[EulaminateOverrepresentation]]
 [[Fixed_Reservoir_Unitary]]
@@ -50,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[branch prediction]]
 [[emerging CMOS memristor]]
 [[pipelined processor]]
+[[reservoir computing architecture]]
 [[reservoir computing]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

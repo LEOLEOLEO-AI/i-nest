@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[CorticalWaveRouting]]
+[[Environmental_Capability_Context]]
 [[EventCameraTemporalEncoding]]
 [[HardwareAwareTraining]]
 [[ITP_STDP]]

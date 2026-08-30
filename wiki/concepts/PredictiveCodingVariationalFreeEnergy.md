@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_STDP]]
 [[SDI节点接口规范与化合键定义]]
 [[SNN]]
+[[SNN_Neuroimaging_Bridge]]
 [[STDP_Plasticity]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]

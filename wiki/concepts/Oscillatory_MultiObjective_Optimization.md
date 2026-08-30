@@ -29,11 +29,13 @@ Auto-extracted concept from raw material compilation.
 [[AnytimePointCloudRecognition]]
 [[ArtificialProprioception]]
 [[ClosedLoopNeuromorphicControl]]
+[[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
 [[NoiseInjectionLearning]]
 [[QuantumStateSynapticTrace]]
 [[StochasticVehicleRouting]]
 [[TCC]]
+[[Trustworthiness_Aware_Training]]
 [[iNEST]]
 [[temporal computing paradigm]]
 

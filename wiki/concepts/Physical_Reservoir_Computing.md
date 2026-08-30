@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[CrystalPalace_Program]]
 [[Crystallized_Neural_Manifolds]]
 [[Deep_Network_Architecture_Invariant]]
+[[DeterministicChaosResonator]]
 [[DissipativeQuantumReservoir]]
 [[Dynamic_Expert_Fusion]]
 [[EfficientDeepLearning]]

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AgenticServiceManifesto]]
 [[AgenticServiceOrchestration]]
 [[Agile_Resilient_Defense_Ecosystem]]
+[[Complex_System_Theory]]
 [[CriticalPointControl]]
 [[DelayTolerantNetworkUAV]]
 [[FixedOverheadFloor]]
@@ -36,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[OscillatoryDynamicsTopology]]
 [[P_Paradigm]]
+[[PhotonicStateRetention]]
 [[TCC]]
 
 ## Sources

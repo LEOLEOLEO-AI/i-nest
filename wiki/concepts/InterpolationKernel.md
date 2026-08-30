@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Active_Inference_Architecture]]
 [[AnomalousSpinTransport]]
 [[BinaryCombinatorialOptimization]]
+[[BrownianCastleInterface]]
 [[CorticalWaveRouting]]
 [[FreeEnergyMinimizationRouting]]
 [[FreeEnergyMinimization]]

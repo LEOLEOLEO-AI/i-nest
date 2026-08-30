@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[BioPlausiblePredictiveCoding]]
 [[BurstGatedRouting]]
 [[Criticality]]
+[[Criticality_Based_Feature_Extraction]]
 [[CrossLayer_SignalRouting]]
 [[DynamicTokenSparsity]]
 [[Edge_Neuromorphic_Compute]]

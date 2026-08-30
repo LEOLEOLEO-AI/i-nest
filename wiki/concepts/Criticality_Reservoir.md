@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CombinatorialOptimizationReservoirMapping]]
 [[Complex_System_Theory]]
 [[Criticality]]
+[[Criticality_of_Natural_Languages]]
 [[DynamicalSelfDualCriticality]]
 [[Fading_Memory_Property]]
 [[Neuromorphic_Computing]]

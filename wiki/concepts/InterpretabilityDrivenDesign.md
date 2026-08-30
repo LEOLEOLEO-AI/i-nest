@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[BrainInspiredArchitecture]]
 [[BrainInspired_Chip]]
 [[ErrorSuppressedPipeline]]
+[[HierarchicalReservoirDynamics]]
 [[NestedRepresentation]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]

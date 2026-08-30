@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[BalancedRouting]]
 [[Baseline_Draft_Status]]
 [[BifurcationCandidate]]
+[[Bipartite_Interconnect]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[TCC]]

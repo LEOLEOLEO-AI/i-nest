@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[CollectiveStateResilience]]
 [[Coupling_Strength_Encoding]]
 [[ErrorSuppressedPipeline]]
+[[HierarchicalReservoirDynamics]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]

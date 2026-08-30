@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[FirstPrinciples_Derivation]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
+[[HierarchicalNetworkPartitioning]]
 [[Intelligent_Computing_Infrastructure]]
 [[Interconnect_Routing]]
 [[Memristor_Synapse]]

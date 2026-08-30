@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[AdsorptionBiosorptionMechanism]]
 [[AgentReinforcementLoop]]
 [[Agent_Workflow_Automation]]
+[[Analog_InMemory_Processing]]
 [[AnteHoc_Explainability]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
@@ -44,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[evaluation resolution]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

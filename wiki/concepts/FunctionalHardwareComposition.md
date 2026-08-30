@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_SDI]]
 [[Order_Flexibility_Duality]]
 [[SDI_Bond]]
+[[SDI_STDP]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[Wafer_Scale_Integration]]

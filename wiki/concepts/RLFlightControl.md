@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[DelayTolerantNetworkUAV]]
 [[Free_Energy_Topology_Mapping]]
 [[LLM_Reward_Design]]
+[[MeasurementInducedRouting]]
 [[Memristor_Interconnect]]
 [[Memristor_Synapse]]
 [[MetaFAIR_ArchitectureDiscovery]]

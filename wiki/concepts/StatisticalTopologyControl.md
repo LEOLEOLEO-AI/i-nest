@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Critical_Region_Extension]]
 [[Decoupling_Mechanism]]
+[[DynamicSynchronyMetric]]
 [[EdgeIoTEnergyAwareness]]
 [[EvolvingArchitectureDynamics]]
 [[ExactWiringRouting]]
@@ -51,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[Topology_Time_Coupling]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

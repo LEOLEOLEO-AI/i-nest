@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[FixedOverheadCost]]
 [[Intelligence_Emergence]]
 [[Loihi2_OnChip_Learning]]
+[[NeuromorphicHardwareDeployment]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[NeuronModelComparativeAnalysis]]

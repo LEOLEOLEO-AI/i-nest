@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenAttentionMechanism]]
 [[EventDrivenMotionDeblurring]]
 [[EventDrivenTrajectoryEncoding]]
+[[EventDrivenWirelessTransmission]]
 [[InNetworkAgentRewiring]]
 [[InputAdaptiveComputation]]
 [[Intelligence_Emergence]]

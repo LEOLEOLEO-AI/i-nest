@@ -34,12 +34,14 @@ Auto-extracted concept from raw material compilation.
 [[Evolutionary_Structure_Computability]]
 [[FlagOS_2_0]]
 [[Free_Energy_Principle_Network]]
+[[GeneralIntelligenceSubstrate]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[MetricComputationAuthenticity]]
 [[MultiplicativeGain]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
+[[NoC_Interconnect]]
 [[Photonic_Chiplet_Interconnect]]
 [[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]
@@ -50,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[SpatiotemporalComplexityIndex]]
 [[Spatiotemporal_Synergy_Complexity]]
 [[Structural_Mismatch]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[TopologyProgramming]]
 [[analog computation]]
@@ -57,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[temporalComplexity]]
 [[vLLM_plugin_FLSDI]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

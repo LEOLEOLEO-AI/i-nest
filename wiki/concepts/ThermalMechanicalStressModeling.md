@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[Beyond_Moore_Pathway]]
 [[Bias_Origin_Taxonomy]]
+[[BitPrecisionAwareScheduling]]
 [[BoundaryObject_Abstraction]]
 [[Complex_System_Theory]]
 [[ComputationEfficientDeepLearning]]
@@ -43,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[RandomisedMixedLabyrinthFractals]]
 [[TCC]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

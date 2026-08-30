@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[FreeFermionTopologicalInvariant]]
 [[GraphBasedSemanticRouting]]
 [[InSitu_Compute]]
+[[InputAdaptiveComputation]]
 [[Interconnect_Routing]]
 [[MemoryDrivenRouting]]
 [[Network_Topology_Design]]

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Distributed_Spike_Communication]]
 [[Environmental_Capability_Context]]
 [[Heterogeneous_Integration]]
+[[HigherOrderStochasticProcess]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]

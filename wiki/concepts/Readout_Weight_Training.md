@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[NCL神经计算定律详解]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Physical_Reservoir_Substrate]]
 [[QuantumReservoirMemoryCapacity]]
 [[Reservoir_Computing]]
 [[ScaleFreeNetwork]]

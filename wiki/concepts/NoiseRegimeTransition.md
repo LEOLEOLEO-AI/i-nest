@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Avalanche_Dynamics]]
 [[CollectiveStateResilience]]
 [[Contested_Prior_Resolution]]
+[[Contested_Priors_Mechanism]]
 [[CriticalFixedPoint]]
 [[Critical_Exponent_Scaling]]
 [[Criticality]]

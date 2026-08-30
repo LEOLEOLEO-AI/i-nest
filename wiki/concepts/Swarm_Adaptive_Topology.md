@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[ReconfigurableSpikingRouting]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Resilient_Satellite_Mesh]]
+[[ScalableNeuromorphicTopology]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[SynchronizationAttractorBasin]]

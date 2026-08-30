@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[Self_Organized_Criticality]]
+[[Sub_Nyquist_Waveform_Reconstruction]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
 [[TCC_iNEST_Interconnect]]

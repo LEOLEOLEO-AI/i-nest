@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Enabled_Battlefield_Autonomy]]
 [[AI_Forum_Demo_Narrative]]
 [[Accessibility_Plasticity]]
+[[ArtificialProprioception]]
 [[Complex_System_Theory]]
 [[CorticalWaveRouting]]
 [[CriticalWeightNormBoundary]]
@@ -42,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

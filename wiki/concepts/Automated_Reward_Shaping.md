@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityInducedComputationalCapacity]]
 [[Criticality]]
 [[DimensionSeparation_IntensiveExtensive]]
+[[EmulationTheoryDisturbanceObserver]]
 [[FlexibilityThreshold]]
 [[HallmarkDrivenCancerModeling]]
 [[OptimalControlPolicyLearning]]

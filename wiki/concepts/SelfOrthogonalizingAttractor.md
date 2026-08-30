@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[DelayCodedWorkingMemory]]
 [[Distributed_Spike_Communication]]
 [[EventDrivenPlasticity]]
+[[FixedOverheadCost]]
 [[FixedOverheadDominance]]
 [[Loihi2_OnChip_Learning]]
 [[NeuromorphicReplayBuffer]]

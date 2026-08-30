@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Decoupling]]
 [[CouplingMatrixRecovery]]
 [[CrossLayer_SignalRouting]]
+[[Crystallized_Neural_Manifolds]]
 [[DendriticReservoirState]]
 [[DifferentiableLifting]]
 [[Intelligence_Emergence]]

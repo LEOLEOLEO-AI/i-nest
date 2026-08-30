@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[ElectronicPhotonicIntegratedCircuit]]
 [[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]
+[[Loihi2_OnChip_Learning]]
 [[MultiModel_Adapter_Architecture]]
 [[National_Innovation_Center_Framework]]
 [[NeuromorphicHardware]]

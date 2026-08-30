@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Memory_Capacity_Maximization]]
 [[Memristive_Topology]]
 [[Memristor_Synapse]]
+[[Meta_Residual_Learning]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Nonlinear_Gain]]

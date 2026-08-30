@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[CrossLayer_SignalRouting]]
 [[DirtyWeylSemimetal]]
+[[ElectromigrationResistance]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

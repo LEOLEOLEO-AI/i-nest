@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[TemperatureReplicaExchange]]
+[[hls4ml_SNN_Conversion]]
 [[iNEST]]
 
 ## Sources

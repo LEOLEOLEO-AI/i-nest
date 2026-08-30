@@ -30,13 +30,13 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[CriticalFixedPoint]]
 [[Criticality]]
-[[Criticality_Induced_Plasticity]]
 [[DisorderInducedCriticality]]
 [[FormalLinguisticCompetence]]
 [[Network_Topology_Design]]
 [[Self_Organized_Criticality]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[UniversalComputationAtCriticality]]
 [[criticality]]
 
 ## Sources

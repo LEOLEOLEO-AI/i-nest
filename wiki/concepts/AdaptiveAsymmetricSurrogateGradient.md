@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[HighTemporalResolutionSensing]]
 [[Intelligence_Emergence]]
 [[LocalPlasticityPipeline]]
+[[Mesoscale_Neural_Dynamics]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[NeuronModelAbstractionLayer]]

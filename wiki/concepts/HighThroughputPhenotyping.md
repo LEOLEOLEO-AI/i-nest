@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[HierarchicalSpikePropagation]]
 [[Intelligence_Emergence]]
 [[Neuromorphic_Computing]]
+[[RestingStateEEG_Connectivity]]
 [[Spatiotemporal_Emergence_Model]]
 [[Spiking_Neural_Network]]
 [[Teleportation_Assisted_Interconnect]]

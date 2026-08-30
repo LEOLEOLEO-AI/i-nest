@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[SpikeEncoding]]
 [[Spiking_Neural_Network]]
+[[SupervisedTrainingDegradation]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
 [[synaptic plasticity]]

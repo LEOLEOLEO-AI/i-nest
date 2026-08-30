@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Material_Implication]]
 [[Memristive_Topology]]
+[[MixedLabyrinthFractal]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicRadarFrontend]]

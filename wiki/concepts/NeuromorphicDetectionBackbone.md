@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AlloyDisorderEngineering]]
 [[AstrocyteInspiredRepair]]
 [[BiSpikCLM]]
+[[BigBrainCellularAxis]]
 [[CirculateFiringNeuron]]
 [[ComplexValuedSNN]]
 [[Complex_System_Theory]]

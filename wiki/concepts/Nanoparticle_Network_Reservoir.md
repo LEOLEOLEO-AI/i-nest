@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[BiologicalNoiseMimicry]]
 [[CSI_Temporal_Encoding]]
 [[CompartmentalNeuronModel]]
+[[CoreComputationSubspace]]
 [[DendriticReservoirState]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

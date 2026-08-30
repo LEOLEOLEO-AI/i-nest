@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Crystallized_Neural_Manifolds]]
 [[DifferentiableLifting]]
 [[DivergentHigherAreaRanking]]
+[[Epidemic_Mitigation_Strategy]]
 [[HardwareAware_DesignSpace]]
 [[HybridReservoirComputing]]
 [[Intelligence_Emergence]]

@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Fading_Memory_Property]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[MemoryDrivenRouting]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[PrecisionConfigurableSparseNvCIM]]

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN动力学]]
 [[Alpha_Coefficient_Phase_Transition_Amplification]]
 [[BCM滑动阈值]]
+[[BoseCondensateAnalogy]]
 [[CST_Synergy_Coordination]]
 [[CST计量仪]]
 [[Complex_System_Theory]]
@@ -45,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Soc]]
 [[Synaptic_Plasticity]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

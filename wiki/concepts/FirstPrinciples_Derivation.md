@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[Structural_Mismatch]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect_Memristor]]
 [[Wafer_Scale_Neuromorphic_Integration]]

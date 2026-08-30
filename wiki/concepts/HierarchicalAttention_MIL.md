@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
 [[Compositional_Continuum]]
+[[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Energy_Efficient_Control]]
 [[ExplosiveCooperationTransition]]
 [[FeFET_Polarization_Switching]]
@@ -50,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

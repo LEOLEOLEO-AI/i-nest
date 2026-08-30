@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[MultibodyInteractionCascade]]
 [[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]
 [[NeuralNetworkSpectralAnalysis]]
+[[NeuromorphicHardwareDeployment]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

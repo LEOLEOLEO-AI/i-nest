@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[OODA_Loop_Breaking]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SelfOrganizationInContinuousMedia]]
 [[SelfOrganization]]
 [[Self_Organized_Criticality]]
 [[TopologicalAndersonChernInsulator]]

@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkComputing]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[Military_AI_Revolution]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]

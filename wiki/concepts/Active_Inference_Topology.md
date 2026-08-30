@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Reconfigurable_NonHermitian_Nonlinear_System]]
 [[TCC]]
 [[iNEST]]
+[[Γst_Revision]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

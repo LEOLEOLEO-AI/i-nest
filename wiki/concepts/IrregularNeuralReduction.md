@@ -20,7 +20,10 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3D_IC_Stacking]]
+[[4H_SiC_SubstrateProcessing]]
 [[CST_MasterEquation]]
+[[Complex_System_Theory]]
 [[Decoupled_Priors]]
 [[EnergyOptimizedManycoreArchitecture]]
 [[Independent_EdgeAI_Player_Endgame]]

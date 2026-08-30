@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[National_Innovation_Center_Role]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]
+[[SDI_STDP]]
 [[SNN]]
 [[STDP_Plasticity]]
 [[ScaleFreeNetwork]]

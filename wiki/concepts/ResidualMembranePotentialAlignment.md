@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[ContinuousControlConversion]]
 [[Course_Based_FPGA_Prototyping]]
+[[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[Interconnect_Routing]]
 [[MembranePotentialAlignment]]

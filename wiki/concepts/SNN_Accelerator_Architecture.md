@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Hardware_Accelerated_SNN]]
 [[HodgkinHuxleyDynamics]]
 [[Intelligence_Emergence]]
+[[Memristive_SNN_Accelerator]]
 [[Memristive_Topology]]
 [[Memristor_Network]]
 [[Memristor_Synapse]]

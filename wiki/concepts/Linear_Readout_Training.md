@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[156QubitScale]]
 [[AI_Application_Scenario_Reconstruction]]
+[[Alpha_Coefficient_Phase_Transition_Amplification]]
 [[AlternativeBridgingModels]]
 [[AnalogDomainCompression]]
 [[AnalogDomainCompressiveSensing]]
@@ -34,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_CoordinationMechanism]]
 [[Complex_Network_Reservoir_Topology]]
 [[Complex_System_Theory]]
+[[Network_Topology_Design]]
 [[Reservoir_Computing]]
 [[TCC]]
 [[iNEST]]

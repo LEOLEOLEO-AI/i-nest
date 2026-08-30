@@ -32,6 +32,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[3DIC_EDA之一_基于Chiplet集成的计算架构]]
 [[AI-ML — 全景导航 (Map of Content)]]
 [[AIRA_NeuralArchSearch]]
+[[AI_FullSpectrum_Strategy]]
 [[Bipartite_Topology]]
 [[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
@@ -51,3 +52,4 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[复杂网络]]
 [[智能涌现]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]

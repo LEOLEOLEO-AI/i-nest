@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalFixedPoint]]
 [[CriticalRegimeReservoir]]
 [[Critical_Exponent_Scaling]]
+[[CriticalityEntanglementIndex]]
 [[Criticality]]
 [[Network_Topology_Design]]
 [[Reservoir_Computing]]

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Continual_Learning_Modularity]]
 [[DelayTolerantNetworkUAV]]
 [[Dynamic_Expert_Routing]]
+[[EndToEndTopologicalLearning]]
 [[Interconnect_Routing]]
 [[LLM_Reward_Design]]
 [[Neuromorphic_Computing]]

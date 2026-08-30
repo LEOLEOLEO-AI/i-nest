@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Spiking_neural_network]]
 [[TCC]]
+[[TCC_Neuromorphic_Integration]]
 [[iNEST]]
 [[temporalComplexity]]
 [[神经网络]]

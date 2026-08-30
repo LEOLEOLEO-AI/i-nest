@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[FlexibilityThreshold]]
 [[InNetworkReconfiguration]]
 [[Interconnect_Routing]]
+[[LLMDrivenPathSelection]]
 [[Network_Topology_Design]]
 [[Self_Organized_Criticality]]
 [[Synaptic_Plasticity]]

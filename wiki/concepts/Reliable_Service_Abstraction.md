@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Additive_Manufacturing_Defense_Trinity]]
 [[AutonomousServiceNegotiation]]
 [[BehavioralNeuromorphicCorrelates]]
+[[Beyond_Moore_Packaging_Strategy]]
 [[CST计量仪]]
 [[CausalEmergenceCondition]]
 [[Complex_System_Theory]]
@@ -43,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

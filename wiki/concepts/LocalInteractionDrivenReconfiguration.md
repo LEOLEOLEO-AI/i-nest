@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[SafetyThresholdAsSpikingThreshold]]
 [[SelfOrganization]]
+[[SpikeCommunicationScheduling]]
 [[Spiking_Neural_Network]]
 
 ## Sources

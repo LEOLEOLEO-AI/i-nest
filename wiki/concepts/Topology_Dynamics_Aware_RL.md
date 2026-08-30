@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[DTGA]]
 [[Emergent_Order_Deep_Belief_Networks]]
 [[EpidemicThreshold]]
+[[FPGA_Neuromorphic_Architectures]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

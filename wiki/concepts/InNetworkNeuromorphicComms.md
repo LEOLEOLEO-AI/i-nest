@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[SDPrompt_Guided_Dynamic_Expert_Fusion]]
 [[Swarm_Intelligence_Maximisation]]
 [[Synaptic_Plasticity]]
+[[TCC_Neuromorphic_Integration]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[iNEST]]

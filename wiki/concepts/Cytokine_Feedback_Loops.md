@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveFrequencyResonateFire]]
 [[AdaptiveSTDP]]
 [[AdaptiveSpeechToSpikeEncoding]]
+[[AnytimePointCloudRecognition]]
 [[AsynchronousEventDrivenComputation]]
 [[BayesianDomainEvolution]]
 [[Complex_System_Theory]]

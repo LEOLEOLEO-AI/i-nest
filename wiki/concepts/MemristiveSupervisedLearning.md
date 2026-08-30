@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[OneDimensionalLongRangeInteractions]]
 [[PDN_Aware_Voltage_Droop_Control]]
 [[Process_Recycling_Paradigm]]
+[[Signal_Folding]]
 [[TCC]]
 [[iNEST]]
 [[memristive crossbar array]]

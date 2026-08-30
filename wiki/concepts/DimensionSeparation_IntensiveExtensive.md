@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[ExtinctionDrivenMetastability]]
 [[NeuromorphicStatusAwareness]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Planning_Architecture]]
 [[Online_Continual_Learning]]
 [[PowerLawScaling]]
 [[Power_Density_Law]]

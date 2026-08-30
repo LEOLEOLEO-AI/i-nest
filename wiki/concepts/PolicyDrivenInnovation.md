@@ -31,6 +31,8 @@ Auto-extracted concept from raw material compilation.
 [[DifferentiableRasterizationPipeline]]
 [[DimensionalityReductionPrinciple]]
 [[EventDrivenAsynchronousRouting]]
+[[EventDrivenTracking]]
+[[Interconnect_Routing]]
 [[Military_AI_Revolution]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

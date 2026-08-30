@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[PropertyPredictionModeling]]
 [[RecursiveSelfReferentialArchitecture]]
 [[TCC]]
+[[TCC与INEST：2026全局论文与专利战略规划清单]]
 [[complex system]]
 [[iNEST]]
 [[涌现]]

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[Cascading_Failure_Mitigation]]
 [[ConsciousnessEngineeringLoop]]
+[[CorticalWaveRouting]]
 [[CrossLayer_SignalRouting]]
 [[DirectConnect_Topology]]
 [[EventDrivenAsynchronousRouting]]

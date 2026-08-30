@@ -24,12 +24,17 @@ Auto-extracted concept from raw material compilation.
 [[Additive_Manufacturing_Topology]]
 [[BondMovingDecimation]]
 [[ChipletRoutingFabric]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_Topology_Encapsulation]]
 [[Compute_Centric_NoC]]
 [[CongestionAwareNoCPlacement]]
+[[Interconnect_Routing]]
+[[Network_Topology_Design]]
 [[Network_on_Chip]]
+[[OpticalNetworkOnChip]]
 [[TCC]]
+[[Topology_Encapsulation]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

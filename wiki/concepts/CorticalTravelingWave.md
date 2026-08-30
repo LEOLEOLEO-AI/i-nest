@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[ExplainableEnergyAI]]
 [[FlexibilityThreshold]]
+[[FunctionalInterfaceBlocks]]
 [[Heterogeneous_Integration]]
 [[InNetworkNeuromorphicComms]]
 [[Interconnect_Routing]]

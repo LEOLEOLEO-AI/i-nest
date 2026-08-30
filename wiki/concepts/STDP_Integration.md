@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicGraphAnomalyDetection]]
 [[Neuromorphic_Computing]]
 [[PhaseLockedTopologyMapping]]
+[[SDI_STDP]]
 [[STDP_Learning]]
 [[STDP_MemristiveLearning]]
 [[STDP_Plasticity]]

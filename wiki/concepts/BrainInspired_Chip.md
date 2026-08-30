@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TemporalCodingForPointClouds]]
+[[TemporalSparsityExploitation]]
 [[iNEST]]
 [[synaptic plasticity]]
 

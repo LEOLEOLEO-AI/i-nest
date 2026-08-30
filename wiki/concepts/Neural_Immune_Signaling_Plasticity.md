@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Dendritic_In_Context_Learning]]
 [[Emergent_Intelligence_Roadmap]]
 [[Emergent_Intelligence_Threshold]]
+[[EmulationTheoryObserver]]
 [[FrozenRateOperator]]
 [[InNetworkAgentRewiring]]
 [[In_Context_Learning]]
@@ -50,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[synaptic plasticity]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

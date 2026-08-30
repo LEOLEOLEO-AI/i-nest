@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AnomalousSpinTransport]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BurstTemporalPlasticity]]
+[[DiscreteSTDP]]
 [[EEGSpikeEncoding]]
 [[ErrorAmplificationLimits]]
 [[EventCameraPoseInput]]

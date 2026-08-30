@@ -45,6 +45,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Intelligence_Emergence]]
 [[Memory_Wall]]
 [[MetaFAIR_ArchitectureDiscovery]]
+[[Milinkovic B (2024)：复杂神经系统涌现动力学结构]]
 [[MultiplicativeGain]]
 [[NCL神经计算定律详解]]
 [[Network_Topology_Design]]

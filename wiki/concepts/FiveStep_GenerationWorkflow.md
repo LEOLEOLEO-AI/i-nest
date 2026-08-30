@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstInterleaving]]
 [[Cognitive_Relapse_Decoupling]]
 [[Constructed_Reality_Model]]
+[[Continual_Learning_Modularity]]
 [[ControlDrivenCriticalFluctuations]]
 [[CounterstreamSignalPropagation]]
 [[Criticality]]

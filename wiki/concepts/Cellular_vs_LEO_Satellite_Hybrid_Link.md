@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AlternativeMetalInterconnects]]
 [[AndersonTransition]]
 [[BifurcationCandidate]]
+[[Bipartite_Interconnect_Design]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[TCC]]

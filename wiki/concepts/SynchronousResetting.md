@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenSpectralProcessing]]
 [[NeuromorphicGraphAnomalyDetection]]
 [[Neuromorphic_Computing]]
+[[NonEquilibriumPhase]]
 [[STDP_MemristiveLearning]]
 [[STDP_Plasticity]]
 [[SpikeTimingDependentPlasticityForTracking]]

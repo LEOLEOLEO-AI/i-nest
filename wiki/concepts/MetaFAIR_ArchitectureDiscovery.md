@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CorticalTypeDiversity]]
 [[DRBE_MVP_Mainchain]]
 [[DataDrivenCellularAxis]]
+[[Deep_Network_Architecture_Invariant]]
 [[EmergentOrder]]
 [[Exponential_CST_Coupling]]
 [[Hardware_Accelerated_SNN]]

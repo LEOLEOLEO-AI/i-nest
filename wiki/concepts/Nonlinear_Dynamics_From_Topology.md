@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroupIntelligence]]
 [[TCC]]
+[[TCC与INEST：2026全局论文与专利战略规划清单]]
 [[TopologicalAndersonChernInsulator]]
 [[complex system]]
 [[iNEST]]

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalFluctuationReservoir]]
 [[CrystalPalace_Program]]
 [[Crystallized_Neural_Manifolds]]
+[[DeterministicChaosResonator]]
 [[DissipativeQuantumReservoir]]
 [[Emergent_Reservoir_Topology]]
 [[GroupInteractionThreshold]]

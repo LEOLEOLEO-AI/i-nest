@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicProgrammingRecycling]]
 [[ErrorSuppressedPipeline]]
 [[Fixed_Reservoir_Unitary]]
+[[Generative_Graph_Models]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[Reservoir_Computing]]

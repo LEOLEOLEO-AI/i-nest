@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[BackpropagationFreeLearning]]
 [[Baseline_Draft_Status]]
 [[CircuitTopologySearch]]
+[[CrossLingualIdiomGraph]]
 [[DelayTolerantNetworkUAV]]
 [[FixedOverheadFloor]]
 [[LLM_Reward_Design]]

@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[DendriticReservoirState]]
 [[Emergent_Intelligence_Threshold]]
 [[Epithelial_Barrier_Integrity]]
+[[Fading_Memory_Property]]
 [[FlagOS_2_0]]
 [[Heterogeneous_Integration]]
 [[InNetworkAgentRewiring]]

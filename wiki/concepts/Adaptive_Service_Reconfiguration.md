@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkPowerRouting]]
 [[InNetworkReconfiguration]]
 [[Interconnect_Routing]]
+[[JointFlightRoutingOptimization]]
 [[LLMDrivenPathSelection]]
 [[Network_Topology_Design]]
 [[PhaseAwareBisectionDemand]]

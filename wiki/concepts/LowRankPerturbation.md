@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Change_Record]]
 [[BidirectionalRingTopology]]
 [[BioPlausiblePredictiveCoding]]
+[[BrownianCastleInterface]]
 [[BurstGatedRouting]]
 [[Contested_Priors_Mechanism]]
 [[Course_Based_FPGA_Prototyping]]

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Decoupling_Mechanism]]
 [[Evolving_System_Adaptation]]
 [[Free_Energy_Topology_Mapping]]
+[[FunctionalInterfaceBlocks]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]

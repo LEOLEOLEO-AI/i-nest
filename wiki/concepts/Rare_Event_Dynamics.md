@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CoexistencePhaseTransition]]
 [[DendriticReservoirState]]
 [[DifferentiableLifting]]
+[[EcosystemTopologyCoupling]]
 [[Environmental_Capability_Context]]
 [[FiniteSizeCrossover]]
 [[LargeDeviationTopologicalOrder]]

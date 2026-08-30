@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[1M1T1R_SynapticNeuron]]
 [[AINext_Initiative]]
 [[ANN_SNN_ConversionError]]
 [[ANN_to_SNN_Conversion_Error_Amplification]]

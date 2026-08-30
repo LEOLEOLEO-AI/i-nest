@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Bosonic_SPT_Phases]]
 [[BranchingRatio]]
 [[CirculateFiringNeuron]]
+[[CoexistencePhaseDiagram]]
 [[DivergentHigherAreaRanking]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
@@ -49,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[iNEST]]
+[[reservoir computing architecture]]
 [[reservoir computing]]
 
 ## Sources

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Anisotropic_Correlation_Length]]
 [[CLINKAsCarrierPrimitive]]
 [[CST_Equation]]
+[[CST计量仪]]
 [[ChipletWaferInterconnectScaling]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
@@ -43,11 +44,13 @@ Auto-extracted concept from raw material compilation.
 [[Recursive_Metric_Contraction]]
 [[STDP_Plasticity]]
 [[SixClassSkeletonAsRPrimitiveSpace]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[chiplet interconnect]]
 [[complex system]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

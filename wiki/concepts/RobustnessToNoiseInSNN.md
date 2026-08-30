@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[ThresholdBasedSpikeEncoding]]
 [[iNEST]]
+[[iNEST_Neuromorphic_Integration]]
 [[spiking neural network]]
 
 ## Sources

@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Reservoir_Topology]]
 [[EntropyProductionRate]]
 [[EnzymeCatalyticDegradation]]
+[[Epithelial_Barrier_Integrity]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[NeurovascularUnitEngineering]]
 [[Nonlinear_Gain]]
+[[OpportunisticRoutingRL]]
 [[PropertyPredictionModeling]]
 [[RestrictedConnectivityTopology]]
 [[analog computation]]

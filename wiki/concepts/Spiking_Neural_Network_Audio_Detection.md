@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[EmergentAttractorStability]]
 [[Emergent_Intelligence_Threshold]]
 [[Endocrine_Modulated_Network_State]]
+[[EventBasedAnalogFrontEnd]]
 [[Event_Driven_Architecture]]
 [[Event_Driven_Selective_Scan]]
 [[Intelligence_Emergence]]

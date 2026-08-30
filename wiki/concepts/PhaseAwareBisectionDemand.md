@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[PhotonicSynapticPlasticity]]
 [[ReconfigurableSpikingRouting]]
 [[Resilient_Satellite_Mesh]]
+[[SDI_STDP_Rule]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[SelfOrganization]]

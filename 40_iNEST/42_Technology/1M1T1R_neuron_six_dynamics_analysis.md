@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 技术
+tags: [人工神经元, 忆阻器, 神经形态计算, Nature Electronics, 低功耗]
+summary: "1M1T1R忆阻器神经元实现六种神经动态"
+quality: high
+processed: 2026-08-30 18:45
+---
+---
 title: "Nature Electronics 1M1T1R 人工神经元深度解析：三个元件如何同时实现六种神经动态"
 tags:
   - paper

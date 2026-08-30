@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
+[[DARPA_ProjectManager_Model]]
 [[DendriticTaskPartitioning]]
 [[Dynamic_Expert_Fusion]]
 [[Environmental_Capability_Context]]

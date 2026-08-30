@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Bidirectional_Temporal_Enhancement]]
 [[BioInspiredSequenceLearning]]
+[[DiscreteSTDP]]
 [[FatigueSTDP]]
 [[GroupSynchronization]]
 [[MultiObjectiveSNN]]

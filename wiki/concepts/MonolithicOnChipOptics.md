@@ -39,11 +39,13 @@ Auto-extracted concept from raw material compilation.
 [[HeterogeneousInference]]
 [[Heterogeneous_3D_Stacking]]
 [[Heterogeneous_Integration]]
+[[Inference_Stage_Decomposition]]
 [[Intelligence_Emergence]]
 [[Network_on_Chip]]
 [[TCC]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

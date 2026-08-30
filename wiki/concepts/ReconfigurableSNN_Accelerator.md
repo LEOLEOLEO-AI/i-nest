@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[ActivityAvalanche]]
 [[BioInspired_Interception_Control]]
+[[BurstGatedRouting]]
 [[Contested_Priors_Mechanism]]
 [[CriticalityDrivenStateTransition]]
 [[Criticality]]

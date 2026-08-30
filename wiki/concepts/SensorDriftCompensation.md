@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
+[[3D_Torus_6_Degree]]
 [[AINext_Initiative]]
 [[ANN_SNN_ConversionError]]
 [[AcceleratedMaterialScreening]]
@@ -28,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AmorphousSolidPlasticity]]
 [[AstrocyteInspiredRepair]]
 [[Contested_Prior_Resolution]]
+[[Intelligence_Emergence]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]

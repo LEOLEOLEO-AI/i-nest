@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AnalogInMemoryComputing]]
 [[Architectural_Conditioning]]
 [[CXL_Deployment_Transition]]
+[[ChipletTrafficAwareScheduling]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CrossbarArrayPrecision]]
 [[Dynamic_Expert_Fusion]]

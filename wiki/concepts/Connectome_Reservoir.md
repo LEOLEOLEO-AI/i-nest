@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Metriplectic_Twin]]
 [[Multifractal_Signatures]]
+[[National_Planning_Driven_Research_Alignment]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[NeurovascularUnitEngineering]]

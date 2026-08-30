@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Stacking]]
 [[Complex_System_Theory]]
+[[DTGA]]
 [[Heterogeneous_Integration]]
 [[HierarchicalNetworkPartitioning]]
 [[Interconnect_Routing]]

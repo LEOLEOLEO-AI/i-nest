@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
 [[DynamicServiceComposition]]
+[[ElectromigrationReliability]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
@@ -42,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[SiC_GaN_Power_Integration]]
 [[SoftwareDefinedSystemOnWafer]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[ThirdWaveAI]]
 [[ThroughSiliconVia_TSV_ThermalPath]]
@@ -49,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[WaferScaleSubstrate]]
 [[chiplet interconnect]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

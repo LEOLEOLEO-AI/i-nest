@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BulletTrainScheduling]]
 [[ConsciousIntegration]]
 [[Continuous_Control_SNN_Stability]]
+[[CriticalityDrivenIntegration]]
 [[Criticality]]
 [[CrossEntityPreemptiveWarning]]
 [[DiscreteContinuous_Unification]]

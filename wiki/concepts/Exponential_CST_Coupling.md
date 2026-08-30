@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Macro_System_Description]]
 [[Memory_Wall]]
 [[Memristive_ANN_Hardware]]
+[[Memristive_STDP]]
 [[MetricComputationAuthenticity]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]

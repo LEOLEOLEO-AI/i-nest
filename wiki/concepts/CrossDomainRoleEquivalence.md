@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Edge_AI_Acquisition_Consolidation]]
 [[ExactRateChaosTransition]]
 [[Localized_Feedback_Array]]
+[[NonHermitianSpectralCorrelations]]
 [[SNN]]
 [[STDP_Plasticity]]
 [[Spiking_Neural_Network]]

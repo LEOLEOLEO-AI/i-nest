@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Topology_Aware_Spike_Routing]]
 [[analog computation]]
 [[iNEST]]
+[[iNEST_Neuromorphic_Integration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

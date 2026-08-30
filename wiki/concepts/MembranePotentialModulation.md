@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[EventCameraPoseInput]]
 [[Fatigue_SpikePattern]]
 [[FractalPathEntropy]]
+[[HardwareAware_DesignSpace]]
 [[LatencyGradientDescent]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]

@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
+[[RandomOptimizationEnsemble]]
 [[ReEntrantMultifractalization]]
 [[SiliconPhotonicsNetwork]]
 [[Silicon_Photonic_Network]]
@@ -51,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologyAware_Routing]]
 [[chiplet interconnect]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

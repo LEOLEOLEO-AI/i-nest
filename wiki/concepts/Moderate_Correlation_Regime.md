@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[NonlinearTransientDynamics]]
 [[Nonlinear_Dynamics_From_Topology]]
 [[Nonlinear_Gain]]
+[[Quantum_Feature_Map]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SuperparamagneticSwitchingRate]]
 [[complex system]]

@@ -37,6 +37,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Crystallized_Embedding_Reservoir]]
 [[CytoarchitectonicAxis]]
 [[DataDrivenCytoarchitectonicAxis]]
+[[Deep_Thermalisation]]
 [[DendriticReservoirState]]
 [[EdgeInspectionInference]]
 [[FunctionalInterfaceBlock]]

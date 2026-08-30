@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalStateInformationMaximization]]
 [[CriticalityDrivenStateTransition]]
 [[Criticality]]
+[[Criticality_Based_Feature_Extraction]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]

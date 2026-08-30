@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CollectiveDynamics]]
 [[Complex_System_Theory]]
 [[Constructed_Reality_Model]]
+[[EventDrivenAsynchronousRouting]]
 [[HierarchicalSpikePropagation]]
 [[Interconnect_Routing]]
 [[LossSpikeMechanism]]

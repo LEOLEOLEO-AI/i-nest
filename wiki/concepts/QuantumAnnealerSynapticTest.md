@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[PathIntegration]]
 [[PromptBasedTimeSeriesForecasting]]
 [[RecursiveSelfReferentialArchitecture]]
+[[RoleGeometryEmbedding]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

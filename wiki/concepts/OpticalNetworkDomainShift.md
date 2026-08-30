@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[AttractorNeuralNetwork]]
 [[BCM滑动阈值]]
 [[Basic_Reproduction_Number_Multiplex]]
+[[Bipartite_Interconnect_Fabric]]
 [[CST_SynergisticCoordination]]
 [[CST_Theory]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
@@ -41,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Complexity_Coordination_Layer]]
 [[Emergent_Intelligence_Threshold]]
+[[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
@@ -53,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

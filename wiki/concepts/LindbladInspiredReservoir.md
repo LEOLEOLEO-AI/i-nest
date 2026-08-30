@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AlternativeBridgingModels]]
 [[Biomanufacturing_Control_Loop]]
 [[Bosonic_SPT_Phases]]
+[[BranchingRatio]]
 [[ConnectivityDerivedReservoir]]
 [[CoupledOscillatorReservoir]]
 [[CriticalStateReservoir]]

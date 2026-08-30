@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Assisted_Energy_Management]]
 [[Avalanche_Dynamics]]
 [[Contested_Prior_Resolution]]
+[[Contested_Priors_Mechanism]]
 [[CriticalFixedPoint]]
 [[Critical_Exponent_Scaling]]
 [[Criticality]]

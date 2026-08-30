@@ -49,13 +49,16 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Architecture]]
 [[STDP_Plasticity]]
 [[ScalableNeuromorphicTopology]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[chiplet interconnect]]
 [[complex system]]
 [[iNEST]]
 [[Γst_Revision]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

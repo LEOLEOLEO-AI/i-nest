@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[OpenSource_Neuromorphic_Framework]]
 [[PhaseLockedTopologyMapping]]
+[[Recurrent_Network_Homeostasis]]
 [[SNN]]
 [[ST_SNN]]
 [[Spike_Encoding_of_fMRI]]

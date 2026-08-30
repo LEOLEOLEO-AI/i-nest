@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[BackflowTransformation]]
 [[BandedConnectivityModel]]
 [[BigBrain3DHistology]]
+[[Complex_Network_Class_Brain_Computing]]
 [[Complex_System_Theory]]
 [[Neuromorphic_Computing]]
 [[Spiking_Neural_Network]]

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[BidirectionalRingTopology]]
 [[CSI_Temporal_Encoding]]
+[[Chip-Hardware — 全景导航 (Map of Content)]]
 [[ComplexValuedSNN]]
 [[Distributed_Spike_Communication]]
 [[Dynamic_Expert_Fusion]]

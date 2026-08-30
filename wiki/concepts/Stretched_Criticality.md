@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[PhaseModulationTestability]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SDSoW_Strategic_Planning]]
 [[Self_Organized_Criticality]]
 [[iNEST]]
 [[neuromorphic substrate]]

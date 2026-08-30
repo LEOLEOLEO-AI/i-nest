@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]
+[[SDI_Review_Process]]
 [[SpatiotemporalComplexityIndex]]
 [[SystemLevelNonlinearity]]
 [[iNEST]]

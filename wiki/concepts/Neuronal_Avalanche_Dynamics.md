@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[Emergent_Intelligence_Threshold]]
 [[ForwardFluctuationGradient]]
+[[Gate_Synthesis_Readout]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Izhikevich_NeuronModel]]

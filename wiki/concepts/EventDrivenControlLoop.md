@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[DualDrivenHybridNetwork]]
 [[DynamicTokenSparsity]]
+[[Edge_Neuromorphic_Compute]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
 [[SNN]]

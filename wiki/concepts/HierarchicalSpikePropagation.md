@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_Network_Class_Brain_Computing]]
 [[Complex_System_Theory]]
 [[Environmental_Capability_Context]]
+[[FirstPrinciples_Derivation]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Memristive_Interconnect]]

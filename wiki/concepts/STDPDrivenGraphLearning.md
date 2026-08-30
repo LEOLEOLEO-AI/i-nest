@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Entropy_Connectivity_Path]]
 [[FormalLinguisticCompetence]]
 [[Gut_Brain_Immune_Network]]
+[[HierarchicalBayesianCommunityDetection]]
 [[Intelligence_Emergence]]
 [[MacroCriticalityEmergence]]
 [[MetaFAIR_ArchitectureDiscovery]]

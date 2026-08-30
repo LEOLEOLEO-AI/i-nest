@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Branch_Prediction_Reservoir]]
 [[CouplingMatrixRecovery]]
 [[Crystallized_Neural_Manifolds]]
+[[DataDrivenMaterialDesign]]
 [[MesonSpectra]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]

@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[FoveationGuidedTokenSelection]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[Military_AI_Revolution]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[RecurrentOscillatoryComputation]]

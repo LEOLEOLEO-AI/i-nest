@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
+[[SneakPathCurrentSuppression]]
 [[TCC]]
 [[complex system]]
 [[emerging CMOS memristor]]

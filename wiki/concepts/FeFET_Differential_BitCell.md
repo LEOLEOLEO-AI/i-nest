@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Packaging]]
 [[OnlineLearningRule]]
 [[PrecisionConfigurableSparseNvCIM]]
+[[SNN]]
 [[ScaleFreeNetwork]]
 [[Spiking_Neural_Network]]
 [[StateAugmentedLearning]]

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[DarkSiliconAwarePowerGating]]
 [[EMIB_Bridge]]
 [[Glass_Interposer_Integration]]
+[[HeterogeneousInference]]
 [[HeterogeneousSiliconNitridePlatform]]
 [[Heterogeneous_3D_Stacking]]
 [[Heterogeneous_Inference_Offload]]
@@ -44,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[TCC]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

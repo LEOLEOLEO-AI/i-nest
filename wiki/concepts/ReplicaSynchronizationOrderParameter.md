@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Independent_AI_Player_Endgame]]
 [[ManyBodyLocalizationSymmetry]]
 [[ManyBodyLocalization]]
+[[NetworkTopologyDrivenIntervention]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[ReplicaSynchronization]]

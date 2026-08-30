@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalFixedPoint]]
 [[DendriticReservoirState]]
 [[DifferentiableLifting]]
+[[Epidemic_Mitigation_Strategy]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]

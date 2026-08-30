@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Epithelial_Barrier_Integrity]]
 [[Ethical_AI_Constraints]]
 [[ForwardFluctuationGradient]]
+[[FunctionalInterfaceBlocks]]
 [[Heterogeneous_Integration]]
 [[IntegratedSensingFusion]]
 [[Intelligence_Emergence]]

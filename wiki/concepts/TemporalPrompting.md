@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Neuromorphic_Architectures]]
 [[InNetworkReconfiguration]]
 [[Interconnect_Routing]]
+[[LocalPlasticityPipeline]]
 [[MoE_Routing]]
 [[Neuromorphic_Computing]]
 [[Self_Organized_Criticality]]

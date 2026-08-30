@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicalSelfDualCriticality]]
 [[EnsembleCreditAssignment]]
 [[Interconnect_Routing]]
+[[LocalPlasticityPipeline]]
 [[MoE_Routing]]
 [[Neuromorphic_Computing]]
 [[ProjectiveMeasurementFeedback]]

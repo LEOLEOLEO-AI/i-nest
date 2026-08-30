@@ -38,7 +38,9 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_iNEST_Wafer]]
 [[Nonlinear_Gain]]
 [[SDSoW]]
+[[SDSoW_Architecture]]
 [[TCC]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
 
 ## Sources

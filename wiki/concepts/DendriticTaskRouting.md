@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Baseline_Draft_Status]]
 [[CellEmergence]]
+[[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
 [[Chiplet_Interconnect_Topology]]
@@ -42,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[WaveBasedInformationRouting]]
 [[忆阻器]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经形态计算]]
 [[类脑芯片]]
 

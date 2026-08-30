@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[ExtinctionDrivenMetastability]]
 [[FPGA_Accelerated_SNN]]
 [[Meta_Residual_Architecture]]
+[[MixedLabyrinthFractal]]
 [[Nonlinear_Gain]]
 [[PPT]]
 [[ReSCom_Accelerator]]

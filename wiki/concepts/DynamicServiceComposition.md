@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[BandedNonHermitianRandomMatrices]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
+[[ElectromigrationReliability]]
 [[GeneralIntelligenceSubstrate]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
@@ -46,10 +47,12 @@ Auto-extracted concept from raw material compilation.
 [[ScalableNeuromorphicTopology]]
 [[SoftwareDefinedSystemOnWafer]]
 [[Software_Defined_Interconnect]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[ThirdWaveAI]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

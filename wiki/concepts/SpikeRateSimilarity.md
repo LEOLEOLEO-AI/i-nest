@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Network_Neuromorphic_Learning]]
 [[Neuromorphic_Computing]]
 [[Spiking_Neural_Network]]
+[[SynapticConnectivityAwarePlacement]]
 [[iNEST]]
 
 ## Sources

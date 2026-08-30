@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Efficient_Coding_Constraint]]
 [[EventBasedAnalogFrontEnd]]
 [[EventDrivenAttentionMechanism]]
+[[EventDrivenSensoryEncoding]]
 [[EventDrivenTrajectoryEncoding]]
 [[InputAdaptiveComputation]]
 [[Memory_Wall]]

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstInterleaving]]
 [[Complex_System_Theory]]
 [[EventDrivenTracking]]
+[[Event_Driven_Communication]]
 [[FPGA_NeuromorphicMapping]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

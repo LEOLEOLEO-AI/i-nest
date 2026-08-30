@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[Self_Organized_Criticality]]
 [[Spin_Glass_Order_Parameter]]
+[[TCADCalibration]]
 [[TCC]]
 [[iNEST]]
 

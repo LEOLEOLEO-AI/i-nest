@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[ErrorAmplificationLimits]]
 [[Heterogeneous_Integration]]
 [[LatencyGradientDescent]]
+[[NoC_EventRouting]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[TCC]]

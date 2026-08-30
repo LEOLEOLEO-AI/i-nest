@@ -41,10 +41,12 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[Sleep_Stage_Classification]]
 [[TCC]]
+[[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[complex system]]
 [[criticality]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

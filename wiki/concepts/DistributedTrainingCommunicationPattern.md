@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[EventCameraActionRecognition]]
 [[Free_Energy_Principle_Network]]
 [[FunctionalInterfaceBlock]]
+[[FunctionalInterfaceBlocks]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[AnisotropicGaussianPrimitives]]
 [[AnomalousSpinTransport]]
+[[AthermalDynamics]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BurstTemporalPlasticity]]
 [[DiscreteContinuous_Unification]]

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalFixedPoint]]
 [[Critical_Exponent_Scaling]]
 [[CriticalityDrivenStateTransition]]
+[[CriticalityInducedTopology]]
 [[Criticality]]
 [[CytoarchitectonicAxis]]
 [[DataDrivenCytoarchitectonicAxis]]

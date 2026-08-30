@@ -51,12 +51,15 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Topology]]
 [[STDP_Plasticity]]
 [[SparsityAwareInterconnect]]
+[[Synaptic_Plasticity]]
 [[TCC]]
+[[WaveguideToWaveguideCoupler]]
 [[WideLink_NoC_Router]]
 [[advanced packaging]]
 [[chiplet interconnect]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

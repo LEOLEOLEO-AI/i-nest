@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[ContinuousGameOfLife]]
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[CrossDomain_Abstraction]]
+[[CrossDomain_Synthesis]]
 [[DisorderedNetworkInterconnect]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenRiskAssessment]]
@@ -51,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[neuromorphic computing]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

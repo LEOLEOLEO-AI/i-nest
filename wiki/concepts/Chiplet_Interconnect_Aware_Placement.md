@@ -37,12 +37,14 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[InterconnectDrivenCostFunction]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[SRAM_Compute_Proximity]]
 [[TCC]]
 [[chiplet interconnect]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

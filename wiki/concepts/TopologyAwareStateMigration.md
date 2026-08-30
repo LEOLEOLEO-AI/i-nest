@@ -26,9 +26,11 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Stacking]]
 [[CoPackagedOptics]]
 [[Cognitive_Relapse_Architecture]]
 [[Complex_System_Theory]]
+[[DTGA]]
 [[Emergent_Intelligence_Threshold]]
 [[FlagOS_2_0]]
 [[Free_Energy_Topology_Mapping]]
@@ -48,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[neuromorphic chiplet]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

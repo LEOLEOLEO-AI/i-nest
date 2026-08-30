@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenSpectralProcessing]]
 [[ITP_STDP]]
 [[Intelligence_Emergence]]
+[[JunctionSignalIntegrity]]
 [[Neuromorphic_Computing]]
 [[On_Chip_STDP_Learning]]
 [[PhaseSynchronizationDetection]]

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CommunicationAsComputation]]
 [[ComputeRelocationOverhead]]
 [[DistributedTrainingPipeline]]
+[[DualSided_Routing_Resource]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[LargeScalePhotonicIntegration]]

@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SDI_iNEST_Interconnect]]
 [[SNN]]
 [[Self_Organized_Criticality]]
 [[SpikeDrivenDataAssociation]]

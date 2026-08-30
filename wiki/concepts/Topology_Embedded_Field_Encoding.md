@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_NoC_Interconnect]]
 [[Chiplet_Stacking]]
+[[Chiplet_Topology_Mapping]]
 [[CoPackagedOptics]]
 [[CommunicationPrimitiveTopologyCoupling]]
 [[Complex_System_Theory]]
@@ -44,6 +45,8 @@ Auto-extracted concept from raw material compilation.
 [[Memory_Wall]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
+[[NoC_Interconnect]]
 [[NonvisualGroundClassification]]
 [[Path_Selection_Heuristic]]
 [[PhaseAwareBisectionDemand]]
@@ -53,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[advanced packaging]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

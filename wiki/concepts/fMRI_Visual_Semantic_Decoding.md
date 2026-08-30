@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[ManyBodyLocalization]]
 [[MemristiveSignedCouplings]]
 [[NeuralNetworkSpectralAnalysis]]
+[[NeuromorphicBrainDecoding]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

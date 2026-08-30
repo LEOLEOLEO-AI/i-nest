@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[GPU_Cluster_SNN_Architecture]]
 [[GradientBasedLearningLocalization]]
 [[In_Network_Neuromorphic]]
+[[In_Network_Neuromorphic_Acceleration]]
 [[Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]
 [[SNN]]

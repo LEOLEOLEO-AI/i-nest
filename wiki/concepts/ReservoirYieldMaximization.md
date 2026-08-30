@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AlternativeBridgingModels]]
 [[Architectural_Conditioning]]
 [[BigBrainCellularAxis]]
+[[Core_Spacetime_Tensor]]
 [[DataDrivenMaterialDesign]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

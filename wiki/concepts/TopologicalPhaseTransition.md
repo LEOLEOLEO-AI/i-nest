@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[PropertyPredictionModeling]]
 [[RecursiveSelfReferentialArchitecture]]
 [[RestrictedConnectivityTopology]]
+[[SNN]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]

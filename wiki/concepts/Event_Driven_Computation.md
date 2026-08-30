@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Architecture]]
 [[Event_Driven_Processing]]
 [[Interconnect_Routing]]
+[[Military_AI_Revolution]]
 [[Neuromorphic_Computing]]
 [[Spiking_Neural_Network]]
 [[iNEST]]

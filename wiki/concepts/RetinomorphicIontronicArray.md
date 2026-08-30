@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[BoundaryObject_Abstraction]]
 [[BrownianCastleInterface]]
+[[BrownianCastleInterfaces]]
 [[CSI_Temporal_Encoding]]
 [[Chiplet_Based_Neuromorphic_Integration]]
 [[Chiplet_Heterogeneous_Integration]]

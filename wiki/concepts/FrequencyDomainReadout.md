@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetwork_Learning_Interface]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]
+[[NCA_Reservoir]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]

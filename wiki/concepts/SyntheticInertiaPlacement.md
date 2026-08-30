@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[DynamicalSelfDualCriticality]]
+[[FrequencyAdaptationMechanism]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[SNN]]

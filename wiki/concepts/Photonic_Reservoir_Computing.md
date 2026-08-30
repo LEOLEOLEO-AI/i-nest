@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BoundaryObject_Abstraction]]
 [[DataDrivenMaterialDesign]]
 [[ErrorSuppressedPipeline]]
+[[MultipartiteEntanglementFractal]]
 [[NCA_Reservoir]]
 [[Neuromorphic_Computing]]
 [[NonlinearDynamicalSampling]]

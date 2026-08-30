@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_iNEST_Wafer]]
 [[OnChipOpticalTweezers]]
 [[P_Paradigm]]
+[[RTC_Primitives]]
 [[SDI_Bond]]
 [[SDI_NPU_NoC_Integration]]
 [[SDI_TCC_Chiplet]]
@@ -47,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[ScalabilityFaultToleranceTradeoff]]
 [[Software_Defined_Interconnect]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[ThirdWaveAI]]
 [[WaferScaleTopologyCentricComputing]]
@@ -55,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[chiplet interconnect]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

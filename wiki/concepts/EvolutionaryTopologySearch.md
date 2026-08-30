@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[4H_SiC_SubstrateProcessing]]
+[[Advanced_Packaging_for_Space]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
 [[EquilibriumTreePacking]]
@@ -43,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Topology_Aware_NeuroTrain]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

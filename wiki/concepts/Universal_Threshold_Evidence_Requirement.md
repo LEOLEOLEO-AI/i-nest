@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[Controlled_Release_Kinetics]]
+[[DiscreteSTDPLearning]]
 [[DiscreteSTDP]]
 [[ITP_STDP]]
 [[Intelligence_Emergence]]

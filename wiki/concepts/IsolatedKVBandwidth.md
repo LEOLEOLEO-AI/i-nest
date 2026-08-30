@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[DirectConnect_Topology]]
 [[GPU_Exclusivity_Bottleneck]]
 [[Heterogeneous_Integration]]
+[[InInterconnectMemory]]
 [[Intelligence_Emergence]]
 [[InterChipletPHYModeling]]
 [[Memory_Wall]]
@@ -51,10 +52,12 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[SerDes_Bandwidth_Convergence]]
 [[SparsityAwareInterconnect]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[advanced packaging]]
 [[chiplet interconnect]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

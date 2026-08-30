@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[DelayPropagationDynamics]]
 [[InNetworkReconfiguration]]
 [[Interconnect_Routing]]
+[[JointFlightRoutingOptimization]]
 [[Network_Topology_Design]]
 [[Self_Organized_Criticality]]
 [[Synaptic_Plasticity]]

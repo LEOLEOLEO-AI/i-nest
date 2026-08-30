@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[DivergentHigherAreaRanking]]
+[[DynamicalSelfDualCriticality]]
 [[Layered_Attractive_Hubbard_Model]]
 [[MembranePotentialModulation]]
 [[Memristor_Synapse]]

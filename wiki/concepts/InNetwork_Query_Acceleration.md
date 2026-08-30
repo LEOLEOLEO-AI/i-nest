@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[AsymmetricCoupling]]
+[[CIMWeightUpdateAwareness]]
 [[Complex_System_Theory]]
 [[EventDrivenSensoryEncoding]]
 [[ExtinctionDrivenMetastability]]

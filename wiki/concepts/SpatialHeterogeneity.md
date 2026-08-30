@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[CSI_Temporal_Dynamics]]
 [[CouplingMatrixRecovery]]
 [[CrashHotspotForecasting]]
+[[CrossInstitutionalNetwork]]
 [[Crystallized_Neural_Manifolds]]
 [[Dynamics_Matching]]
 [[Evolutionary_Reservoir_Adaptation]]

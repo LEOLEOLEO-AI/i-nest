@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Local_Approximation_Dynamics]]
 [[MacroCriticalityEmergence]]
 [[Network_Topology_Design]]
+[[NeuromorphicSpikingTopology]]
 [[Neuromorphic_Computing]]
 [[SelfOrganization]]
 [[Self_Organized_Criticality]]

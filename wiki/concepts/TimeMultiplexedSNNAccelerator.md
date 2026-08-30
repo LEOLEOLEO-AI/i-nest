@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Avoided_Criticality]]
 [[BurstGatedRouting]]
 [[Contested_Priors_Mechanism]]
+[[ContinuousControlConversion]]
 [[Course_Based_FPGA_Prototyping]]
 [[CriticalityDrivenStateTransition]]
 [[Criticality]]

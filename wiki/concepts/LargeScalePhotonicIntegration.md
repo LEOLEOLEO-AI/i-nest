@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[EdgeIntelligenceAcceleration]]
 [[EdgeIoTEnergyAwareness]]
 [[Free_Energy_Principle_Network]]
+[[GraphBasedSemanticRouting]]
 [[HeterogeneousChipletIntegration]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]

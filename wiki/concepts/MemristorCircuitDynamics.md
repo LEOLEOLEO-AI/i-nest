@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Constructed_Reality_Interconnect]]
 [[DevelopmentalNeuromorphicAdaptation]]
 [[Intelligence_Emergence]]
+[[InterconnectDrivenPlacement]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

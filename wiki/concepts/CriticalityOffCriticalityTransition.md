@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Continual_Learning_Modularity]]
 [[CriticalFixedPoint]]
 [[CriticalityDrivenStateTransition]]
+[[CriticalityInNetworkComputing]]
 [[Criticality]]
 [[Emergent_Intelligence_Threshold]]
 [[FunctionalRelevanceDrivenSelfOrganization]]

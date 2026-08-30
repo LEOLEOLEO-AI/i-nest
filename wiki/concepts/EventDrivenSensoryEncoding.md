@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[PhotoIontronicSynapse]]
 [[ResonateAndFireEncoding]]
 [[SpikePacketCompression]]
+[[SpikingNeuralNetworkTopologyMapping]]
 [[SpikingNeuralNetworkTopology]]
 [[Spiking_Neural_Network]]
 [[iNEST]]

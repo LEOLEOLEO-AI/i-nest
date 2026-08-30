@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[ErdosRenyi_Graph_Energy_Surface]]
 [[EulaminateOverrepresentation]]
 [[Heterogeneous_Integration]]
+[[HigherOrderDynamicalNetworkReduction]]
 [[HigherOrderDynamicalNetwork]]
 [[HigherOrderSimplicialDynamics]]
 [[HigherOrderTransitionKernel]]
@@ -42,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[CST计量仪]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
+[[CommunicationHeterogeneity]]
 [[Complex_System_Theory]]
 [[Constructed_Reality_Interconnect]]
 [[ContextualReasoning]]
@@ -53,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[residual connection]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

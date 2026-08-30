@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AmoebaInspiredLocomotion]]
 [[CorticalWaveRouting]]
 [[Dynamic_Expert_Routing]]
+[[GCML_Cognitive_Map]]
 [[Interconnect_Routing]]
 [[Memristive_Solutions]]
 [[MoE_Routing]]

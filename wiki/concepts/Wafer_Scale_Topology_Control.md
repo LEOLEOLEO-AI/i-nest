@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[SoftwareDefined_NoC_Routing]]
 [[TCC]]
 [[WaferScaleTopologyCentricComputing]]
+[[Wafer_Chiplet_Topology_Interconnect]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Topology]]
 [[chiplet interconnect]]

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[1024_Card_SuperNode]]
 [[3D_Integrated_Chiplet_Stacking]]
 [[AdiabaticMultimodeBend]]
+[[AdvancedPackagingInterconnect]]
 [[AnalogDomainCompression]]
 [[ChipletTopologyAwareness]]
 [[ChipletWaferInterconnectScaling]]
@@ -32,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration_Route]]
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Packaging]]
+[[Chiplet_Stacking]]
 [[CoPoS]]
 [[CommunicationOverlapMechanism]]
 [[Complex_System_Theory]]
@@ -57,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[temporalComplexity]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

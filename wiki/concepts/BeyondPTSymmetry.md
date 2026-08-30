@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
+[[DendriticTaskRouting]]
 [[ElectromigrationReliability]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Heterogeneous_Integration]]
@@ -44,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[忆阻器]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[类脑芯片]]
 
 ## Sources

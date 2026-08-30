@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_Complexity_Metric]]
 [[CST_Spatiotemporal_Complexity]]
 [[CST_Triple_Proof]]
+[[CST计量仪]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
@@ -55,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[temporalComplexity]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGASpikeImplementation]]
 [[FPGA_Neuromorphic_Acceleration]]
 [[FPGA_Neuromorphic_Architectures]]
+[[Flexible_Neural_Mapping]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

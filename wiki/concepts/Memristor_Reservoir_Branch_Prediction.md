@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[CMOS_Memristor_Devices]]
 [[DARPA_ProjectManager_Model]]
+[[Deep_Network_Architecture_Invariant]]
 [[GeneralizedReadoutMap]]
 [[HybridResistiveMemoryCIM]]
 [[InNetworkSignalRecovery]]
@@ -50,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[memristor device]]
 [[neuromorphic computing]]
 [[pipelined processor]]
+[[reservoir computing architecture]]
 [[reservoir computing]]
 
 ## Sources

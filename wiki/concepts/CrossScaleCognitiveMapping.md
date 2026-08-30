@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Additive_Manufacturing_Defense_Trinity]]
 [[Analog_InMemory_Processing]]
 [[Analog_Weight_Storage]]
+[[AndersonTransition]]
 [[Attention_Residuals]]
 [[AutonomousAdaptation]]
 [[CST计量仪]]
@@ -42,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

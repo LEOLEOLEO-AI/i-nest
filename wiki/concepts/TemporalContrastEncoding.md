@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Mamba_Block]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
+[[Synchronization_Overhead_Mitigation]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

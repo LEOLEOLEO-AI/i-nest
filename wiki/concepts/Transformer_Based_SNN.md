@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Network_Neuromorphic]]
 [[MagnitudePhaseComputationalModel]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[Neuromorphic_Planning_Architecture]]
 [[SDI_Bond]]
 [[SDI_iNEST_Interconnect]]

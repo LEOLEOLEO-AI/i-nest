@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[DifferentiableNetworkMetrics]]
 [[EventDrivenAsynchronousRouting]]
 [[Interconnect_Routing]]
+[[Military_AI_Revolution]]
 [[Network_Topology_Design]]
 [[NeuromorphicGradientPropagation]]
 [[Neuromorphic_Computing]]

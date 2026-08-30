@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[SneakPathCurrentSuppression]]
+[[SwarmGradientRouting]]
 [[TCC]]
 [[TemporalInformationStorage]]
 [[complex system]]

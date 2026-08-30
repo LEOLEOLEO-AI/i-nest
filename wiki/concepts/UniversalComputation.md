@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Flexible_Neural_Mapping]]
 [[Intelligence_Emergence]]
 [[Interbrain_Geometry]]
+[[Interbrain_Network_Geometry]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

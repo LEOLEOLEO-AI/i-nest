@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[BigBrainCellularAxis]]
 [[BrainBodyResonance]]
+[[Chiplet_Based_Neuromorphic_Integration]]
 [[Contested_Prior_Resolution]]
 [[ExplainableEnergyAI]]
 [[GraphGeometryAlignment]]

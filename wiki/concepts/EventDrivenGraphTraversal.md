@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[NonEquilibriumComputing]]
+[[Organic_Neuromorphic_Transistor]]
 [[SNN]]
 [[SelfOrganizedOscillatoryLearning]]
 [[SpikeEncoding]]

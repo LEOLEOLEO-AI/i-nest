@@ -36,13 +36,13 @@ Auto-extracted concept from raw material compilation.
 [[Coupling_Strength_Encoding]]
 [[DendriticReservoirState]]
 [[DeviationScalingIndex]]
+[[ErrorSuppressedPipeline]]
 [[FlexibilityThreshold]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]
-[[neuromorphic computing architecture]]
 [[neuromorphic computing]]
 
 ## Sources

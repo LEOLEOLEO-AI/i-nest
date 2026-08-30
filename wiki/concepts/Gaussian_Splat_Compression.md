@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[End_Side_Neuromorphic_Deployment]]
 [[EventBasedAnalogFrontEnd]]
 [[EventSparseTemporalEncoding]]
+[[FerroelectricCrossbarArray]]
 [[Ferroelectric_Devices]]
 [[Ferroelectric_Synaptic_Devices]]
 [[Heterogeneous_Integration]]
@@ -43,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[analog computation]]
 [[iNEST]]
+[[soc]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

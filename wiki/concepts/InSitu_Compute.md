@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[InSensorMemoryComputing]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[Military_AI_Revolution]]
 [[NestedRepresentation]]
 [[Network_Topology_Design]]
 [[OptimalGeneralisationNearInterpolation]]

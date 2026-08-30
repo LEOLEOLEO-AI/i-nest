@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Accessibility_Plasticity]]
 [[AnomalousSpinTransport]]
 [[BinaryCombinatorialOptimization]]
+[[BrownianCastleInterface]]
 [[CorticalWaveRouting]]
 [[FreeEnergyMinimizationRouting]]
 [[FreeEnergyMinimization]]

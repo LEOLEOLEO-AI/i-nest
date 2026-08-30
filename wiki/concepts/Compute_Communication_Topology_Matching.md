@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[FatalityDrivenRewiring]]
 [[FlagOS_2_0]]
 [[GPU_Hegemony_Disruption]]
+[[GraphBasedSemanticRouting]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

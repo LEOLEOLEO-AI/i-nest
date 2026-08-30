@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[CorticalWaveRouting]]
 [[DelayCodedWorkingMemory]]
 [[DiscreteSTDP]]
+[[EventCameraTemporalEncoding]]
 [[Event_Driven_Architecture]]
 [[Interconnect_Routing]]
 [[IntrinsicTimingSTDP]]

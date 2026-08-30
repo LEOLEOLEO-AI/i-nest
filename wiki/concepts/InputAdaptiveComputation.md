@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Memory_Wall]]
 [[NestedRepresentation]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[OptimalGeneralisationNearInterpolation]]
 [[PhotoIontronicSynapse]]
@@ -46,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Encoding_of_fMRI]]
 [[SpikingNeuralNetworkTopologyMapping]]
 [[Spiking_Neural_Network]]
+[[WirelessSplitComputing]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

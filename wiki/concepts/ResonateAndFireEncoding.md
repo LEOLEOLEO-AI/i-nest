@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Cytokine_Feedback_Loops]]
 [[Distributed_Spike_Communication]]
+[[Droop_Triggered_Workload_Throttling]]
 [[Efficient_Coding_Constraint]]
 [[EventBasedAnalogFrontEnd]]
 [[EventDrivenAttentionMechanism]]

@@ -32,6 +32,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
+[[MIT_异构Chiplet集成构建下一代计算的_超级芯片_]]
 [[Nat_Hum_Behav_用「全拓扑网络」重塑视皮层地图]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[CoexistencePhaseDiagram]]
 [[Cognitive_Relapse_Decoupling]]
 [[CollectiveStateTopology]]
+[[ConstraintDrivenSelfOrganization]]
 [[Criticality]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]

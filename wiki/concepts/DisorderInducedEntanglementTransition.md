@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Course_Based_FPGA_Projects]]
 [[CriticalityInducedTopology]]
 [[Criticality]]
+[[Criticality_Entanglement]]
 [[DataDrivenMaterialDesign]]
 [[ErrorSuppressedPipeline]]
 [[Generative_Graph_Models]]

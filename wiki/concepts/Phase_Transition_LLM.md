@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalStateDynamics]]
 [[Critical_Exponent_Scaling]]
 [[CriticalityBasedClassification]]
+[[CriticalityDrivenLearning]]
 [[Criticality]]
 [[Intelligence_Emergence]]
 [[Self_Organized_Criticality]]

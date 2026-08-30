@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Weight_Storage]]
 [[AnomalousSpinTransport]]
 [[Architectural_Conditioning]]
+[[Attention_Residuals]]
 [[BigBrainCellularAxis]]
 [[Cognitive_Relapse_Architecture]]
 [[Contested_Priors_Mechanism]]

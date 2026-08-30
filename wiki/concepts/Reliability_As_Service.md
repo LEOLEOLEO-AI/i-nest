@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[EnsembleCreditAssignment]]
 [[ExplainableEnergyAI]]
 [[Interconnect_Routing]]
+[[LocalPlasticityPipeline]]
 [[MoE_Routing]]
 [[Neuromorphic_Computing]]
 [[SNN]]

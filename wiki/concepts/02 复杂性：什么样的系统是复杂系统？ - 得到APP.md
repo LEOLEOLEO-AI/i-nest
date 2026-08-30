@@ -31,6 +31,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Alpha_Computation_Consistency]]
 [[BigBrainCellularAxis]]
 [[CST_Intelligence_Emergence]]
+[[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
 [[EmergentOrder]]

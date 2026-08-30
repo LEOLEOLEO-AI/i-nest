@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveDendriteSNN]]
 [[AdaptiveArchitecture]]
 [[AdaptiveFunctionalTopology]]
+[[BrownianCastleInterface]]
 [[EnsembleSparsity]]
 [[Interconnect_Routing]]
 [[LowRankPerturbation]]

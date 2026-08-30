@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Thermalisation]]
 [[Defense_Industrial_Base_Reshaping]]
 [[DirectConnect_Topology]]
+[[EntanglementAwareRouting]]
 [[External_to_OnDie_Evolution]]
 [[FatalityDrivenRewiring]]
 [[GeneralIntelligenceSubstrate]]
@@ -49,10 +50,12 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Control_Plane_Offload]]
 [[SDI_TopologicalControl]]
 [[STDP_Plasticity]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[TopologyPage_Preloading]]
 [[VectorFlowField]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

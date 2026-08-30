@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
 [[12_三原理协同_FEP_最小作用量_STDP]]
+[[AI-ML — 全景导航 (Map of Content)]]
 [[AI_Faculty_Forum_2026]]
 [[Allreduce_Latency_Probe]]
 [[Analog_InMemory_Processing]]
@@ -42,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC_Chiplet_iNEST_Wafer]]
+[[Nonlinear_Gain]]
 [[OptomechanicalNonlinearity]]
 [[Photonic_Chiplet_Interconnect]]
 [[RTC_Primitive]]
@@ -51,12 +53,13 @@ Auto-extracted concept from raw material compilation.
 [[ScaleFreeNetwork]]
 [[SmallWorldNetworks]]
 [[SuperparamagneticSwitchingRate]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[chiplet interconnect]]
 [[complex system]]
 [[iNEST]]
-[[iNEST_Interconnect_Topology]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

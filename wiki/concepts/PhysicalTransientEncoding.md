@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Application_Scenario_Reconstruction]]
 [[AnalogDomainCompression]]
 [[CouplingMatrixRecovery]]
+[[Crystallized_Neural_Manifolds]]
 [[DARPA_ProjectManager_Model]]
 [[EcosystemTopologyCoupling]]
 [[EmergentTaskDecomposition]]
