@@ -202,11 +202,11 @@ CONCEPT_PATTERNS = [
     (r'(heterogeneous.integrat\w*|异构集成)', "Cross", "Heterogeneous_Integration", "Heterogeneous integration across domains"),
 ]
 
-def call_llm(prompt, max_tokens=800):
+def call_llm(prompt, max_tokens=2500):
     """Use unified llm_client (DeepSeek direct, key from ~/.dsh)."""
     sys.path.insert(0, str(Path(__file__).parent))
     import llm_client
-    return llm_client.call(prompt, max_tokens=max_tokens, timeout=60)
+    return llm_client.call(prompt, max_tokens=max_tokens, timeout=150)
 
 def extract_concepts_llm(article_text, domain):
     """Use LLM to extract domain-specific concepts from article text"""
@@ -228,7 +228,7 @@ Return ONLY a JSON array of objects with these fields:
 
 Output ONLY the JSON array, no other text."""
     
-    response = call_llm(prompt, max_tokens=500)
+    response = call_llm(prompt, max_tokens=2500)
     if not response:
         return []
     
