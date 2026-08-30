@@ -1,7 +1,7 @@
 # DVS事件相机 × SNN脉冲神经网络 × FPGA：微秒级响应的事件驱动三件套
 
 **Domain**: iNEST
-**Source**: 00_Inbox\DVS事件相机 × SNN脉冲神经网络 × FPGA：微秒级响应的事件驱动三件套.md
+**Source**: 00_Inbox\01_GetNotes\DVS事件相机 × SNN脉冲神经网络 × FPGA：微秒级响应的事件驱动三件套.md
 **Compiled**: 2026-08-31
 
 ## Summary
@@ -12,17 +12,3 @@ SDI, SNN, STDP, iNEST, spiking, 拓扑, 神经形态
 
 ---
 *Auto-compiled by wiki_compiler.py*
-
-
-## Related Concepts
-
-[[Event_Driven_Architecture]]
-[[Network_Topology_Design]]
-[[Neuromorphic_Computing]]
-[[SDI_Bond]]
-[[SNN]]
-[[STDP_Plasticity]]
-[[Spiking_Neural_Network]]
-[[iNEST]]
-[[神经网络]]
-[[脉冲神经网络]]

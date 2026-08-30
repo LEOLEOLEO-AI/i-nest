@@ -1,7 +1,7 @@
 # 抛弃Transformer：神经算子如何实现5万亿级物理上下文推演？
 
 **Domain**: iNEST
-**Source**: 00_Inbox\抛弃Transformer：神经算子如何实现5万亿级物理上下文推演？.md
+**Source**: 00_Inbox\01_GetNotes\抛弃Transformer：神经算子如何实现5万亿级物理上下文推演？.md
 **Compiled**: 2026-08-31
 
 ## Summary
@@ -12,8 +12,3 @@ iNEST
 
 ---
 *Auto-compiled by wiki_compiler.py*
-
-
-## Related Concepts
-
-[[iNEST]]

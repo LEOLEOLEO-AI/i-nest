@@ -1,7 +1,7 @@
 # SIGCOMM 2026 集合通信转折点：从库到运行时的范式跃迁
 
 **Domain**: TCC
-**Source**: 00_Inbox\SIGCOMM 2026 集合通信转折点：从库到运行时的范式跃迁.md
+**Source**: 00_Inbox\01_GetNotes\SIGCOMM 2026 集合通信转折点：从库到运行时的范式跃迁.md
 **Compiled**: 2026-08-31
 
 ## Summary
@@ -12,11 +12,3 @@ SDI, TCC, iNEST, 拓扑
 
 ---
 *Auto-compiled by wiki_compiler.py*
-
-
-## Related Concepts
-
-[[Network_Topology_Design]]
-[[SDI_Bond]]
-[[TCC]]
-[[iNEST]]

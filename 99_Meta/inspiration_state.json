@@ -156,6 +156,33 @@
     "30_TCC\\34_Projects\\wafer_cloud_system_unmanned_combat_meeting.md": {
       "date": "2026-08-31T07:06:16.069979",
       "error": true
+    },
+    "30_TCC\\32_Technology\\military_ai_ecosystem_topology_interconnect_analysis.md": {
+      "date": "2026-08-31T07:10:33.195470",
+      "card": "20260831_military_ai_ecosystem_topology_interconnect_analys.md",
+      "method": "llm"
+    },
+    "30_TCC\\31_Theory\\Topological_Trouble_Transformers_Analysis_1847.md": {
+      "date": "2026-08-31T07:10:51.059267",
+      "error": true
+    },
+    "30_TCC\\32_Technology\\Cerebras_Supernova_2026_Realtime_AI_Infrastructure_Strategy.md": {
+      "date": "2026-08-31T07:13:29.635686",
+      "error": true
+    },
+    "30_TCC\\31_Theory\\01_论文\\B组_SDI-CC互连体系\\P-Theory_v2_MetaTopology_SDI_Bond_Draft.md": {
+      "date": "2026-08-31T07:15:34.304299",
+      "card": "20260831_P-Theory_v2_MetaTopology_SDI_Bond_Draft.md",
+      "method": "llm"
+    },
+    "30_TCC\\31_Theory\\biocomputing_paradigm_validation_tcc_inest.md": {
+      "date": "2026-08-31T07:15:51.378127",
+      "error": true
+    },
+    "30_TCC\\33_Engineering\\Edge_AI_Chip_Architecture_Design_7B.md": {
+      "date": "2026-08-31T07:17:56.602031",
+      "card": "20260831_Edge_AI_Chip_Architecture_Design_7B.md",
+      "method": "llm"
     }
   }
 }

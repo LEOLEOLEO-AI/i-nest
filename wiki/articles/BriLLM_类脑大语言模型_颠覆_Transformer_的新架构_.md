@@ -1,7 +1,7 @@
 # BriLLM 类脑大语言模型：颠覆 Transformer 的新架构？
 
 **Domain**: iNEST
-**Source**: 00_Inbox\BriLLM 类脑大语言模型：颠覆 Transformer 的新架构？.md
+**Source**: 00_Inbox\01_GetNotes\BriLLM 类脑大语言模型：颠覆 Transformer 的新架构？.md
 **Compiled**: 2026-08-31
 
 ## Summary
@@ -12,12 +12,3 @@ SDI, SNN, iNEST, neuromorphic, 类脑
 
 ---
 *Auto-compiled by wiki_compiler.py*
-
-
-## Related Concepts
-
-[[Neuromorphic_Computing]]
-[[SDI_Bond]]
-[[SNN]]
-[[Spiking_Neural_Network]]
-[[iNEST]]
