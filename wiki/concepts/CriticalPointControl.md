@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AmorphousTopologicalSubstrate]]
 [[AssociativeMemoryTopology]]
 [[Complex_System_Theory]]
+[[Decoupled_Priors]]
 [[Independent_AI_Player_Endgame]]
 [[NetworkTopologyDrivenIntervention]]
 [[Network_Topology_Design]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[PhotonicStateRetention]]
 [[TCC]]
+[[soc]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

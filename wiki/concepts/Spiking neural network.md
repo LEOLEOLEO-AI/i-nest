@@ -6,7 +6,7 @@ created: 2026-08-31
 refs: 6
 ---
 
-# Spiking neural network
+# Spiking_Neural_Network
 
 > 由 self_evolve 自动生成的占位概念（被引用 6 次，来源尚未成稿）。
 
@@ -22,3 +22,16 @@ refs: 6
 
 
 _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
+
+## Related Work
+
+[[Bidirectional_Temporal_Enhancement]]
+[[BioInspiredSequenceLearning]]
+[[DiscreteSTDP]]
+[[SNN]]
+[[STDP_Plasticity]]
+[[Sparsity_Ceiling]]
+[[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
+[[TCC]]
+[[iNEST]]

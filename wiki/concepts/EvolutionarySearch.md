@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[AnalogStateRetention]]
 [[Antiferromagnetic_Topological_Anderson_Insulator]]
 [[Architectural_Conditioning]]
+[[AttentionLikeHebbianPlasticity]]
 [[Basic_Reproduction_Number_Multiplex]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
@@ -58,7 +59,6 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

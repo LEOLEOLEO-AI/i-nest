@@ -33,11 +33,13 @@ Auto-extracted concept from raw material compilation.
 [[MeasurementInducedRouting]]
 [[Multipath_Adaptive_Reliability]]
 [[Network_Topology_Design]]
+[[OpenLearningEcosystem]]
 [[PacketRoutingForFPGAs]]
 [[RedundancyControlledStochasticRouting]]
 [[STDPDrivenConnectivity]]
 [[STDP_Plasticity]]
 [[StochasticVehicleRouting]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 
 ## Sources

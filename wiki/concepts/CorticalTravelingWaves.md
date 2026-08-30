@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[LossSpikePhenomenon]]
 [[NeuromorphicHardwareCoDesign]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Sensory_Motor_Loop]]
 [[Nonlinear_Gain]]
 [[SNN]]
 [[SensationModulatingNetwork]]

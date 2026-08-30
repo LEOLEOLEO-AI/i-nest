@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Distributed_Spike_Communication]]
 [[FirstPrinciples_Derivation]]
 [[Heterogeneous_Integration]]
+[[HigherOrderStochasticProcess]]
 [[Hypergraph_Label_Noise]]
 [[Neuromorphic_Computing]]
 [[NoiseRobust_Hyperedge_Aggregation]]

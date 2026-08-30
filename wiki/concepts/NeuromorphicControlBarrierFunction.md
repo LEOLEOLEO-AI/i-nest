@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[LocalLearning_SynapticUpdate]]
 [[NestedRepresentation]]
+[[NeuromorphicHandwritingRecognition]]
 [[Neuromorphic_Computing]]
 [[Sequence_First_Processing]]
 [[SpikingNeuralTransformer]]

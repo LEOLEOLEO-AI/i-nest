@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[BranchingRatio]]
 [[BulletTrainScheduling]]
 [[Continuous_Control_Spiking_Stability]]
+[[CriticalityInducedComputationalCapacity]]
 [[Criticality]]
 [[DeepCode_AlgorithmExtraction]]
 [[Neuromorphic_Computing]]

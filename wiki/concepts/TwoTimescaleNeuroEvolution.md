@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[DendriticReservoirState]]
 [[Dynamic_Expert_Fusion]]
+[[ERI_2_0_Strategy]]
 [[Emergent_Intelligence_Threshold]]
 [[FunctionalInterfaceBlock]]
 [[Intelligence_Emergence]]
@@ -54,7 +55,6 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

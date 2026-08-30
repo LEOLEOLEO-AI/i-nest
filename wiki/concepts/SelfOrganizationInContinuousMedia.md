@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
+[[OODA_Loop_Breaking]]
 [[Receptron_Unit]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SelfOrganization]]

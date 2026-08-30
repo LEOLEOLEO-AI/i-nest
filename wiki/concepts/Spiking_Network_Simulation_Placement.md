@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Online_Continual_Learning]]
 [[OptimalGeneralisationNearInterpolation]]
 [[PhotoIontronicSynapse]]
+[[PowerLawScaling]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Self_Organized_Criticality]]
 [[SpikePacketCompression]]

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[DisorderInducedEntanglementTransition]]
 [[DynamicalSelfDualCriticality]]
 [[EnergyProportionalityCeiling]]
+[[GroupInteractionThreshold]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[NonlinearDynamicalSampling]]

@@ -38,14 +38,15 @@ Auto-extracted concept from raw material compilation.
 [[HigherOrderTransitionKernel]]
 [[IncidenceBasedRandomWalk]]
 [[Intelligence_Emergence]]
+[[Interconnect_Routing]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[OpportunisticRoutingRL]]
 [[SelfOrganization]]
 [[TCC]]
 [[忆阻器]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[类脑芯片]]
 
 ## Sources

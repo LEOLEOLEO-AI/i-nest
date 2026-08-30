@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[BranchingRatio]]
 [[CirculateFiringNeuron]]
 [[CoexistencePhaseDiagram]]
+[[DataDrivenMaterialDesign]]
 [[DivergentHigherAreaRanking]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[complex system]]
+[[iNEST]]
 [[神经网络]]
 
 ## Sources

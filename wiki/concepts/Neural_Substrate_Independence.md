@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Cross_Brain_Connectome]]
 [[Emergent_Intelligence_Threshold]]
 [[EvolutionaryReservoirLearning]]
+[[FPGABasedNeuromorphic]]
 [[Intelligence_Emergence]]
 [[IntrinsicDynamicsAutonomy]]
 [[NeuromorphicHardware]]

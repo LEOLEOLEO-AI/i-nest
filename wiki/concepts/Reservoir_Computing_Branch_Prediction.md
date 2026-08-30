@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[BranchingRatio]]
 [[CoexistencePhaseDiagram]]
 [[CoupledOscillatorReservoir]]
+[[Coupling_Strength_Encoding]]
 [[DivergentHigherAreaRanking]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

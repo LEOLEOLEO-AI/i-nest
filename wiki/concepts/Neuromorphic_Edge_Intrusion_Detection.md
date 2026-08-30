@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[EnsembleCreditAssignment]]
 [[EventDrivenMotionDeblurring]]
+[[GeneralizationPhaseBoundary]]
 [[HumanVisionInspiredSNN]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

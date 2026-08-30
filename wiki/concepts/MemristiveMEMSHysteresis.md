@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[AI人工智能 卷积神经网络（CNN）_w3cschool]]
 [[AdditiveTopology_Embedding]]
 [[BCM滑动阈值]]
+[[BoundaryContract]]
 [[CST_Synergy_Coordination]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
@@ -43,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Hippocampal_Spatiotemporal_Prior]]
 [[Intelligence_Emergence]]
 [[MatrixShapeToParallelismMapping]]
+[[Memory_Technology_Role_Specialization]]
 [[Milinkovic B (2024)：复杂神经系统涌现动力学结构]]
 [[Nature Communications：具有片上学习的神经形态处理器，用于超越CMOS设备的集成]]
 [[Network_Topology_Design]]
@@ -55,7 +57,6 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[neuromorphic computing]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

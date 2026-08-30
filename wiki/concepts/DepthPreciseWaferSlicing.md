@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[03 涌现：整体的能力不能还原回个体？ - 得到APP]]
 [[3DGS_SplatPrimitive]]
 [[3DIntegratedPhotonicPackaging]]
+[[3D_Integrated_Chiplet_Stacking]]
 [[AI-ML — 全景导航 (Map of Content)]]
 [[AIRA_NeuralArchSearch]]
 [[AI_Application_Scenario_Reconstruction]]
@@ -51,7 +52,6 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[TCC]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Package_Interconnect_Trust]]
 [[Intelligence_Emergence]]
 [[InterconnectConstrainedEmergence]]
+[[MultiplicativeGainMechanism]]
 [[NCCL_CollectivePrimitives]]
 [[Network_Topology_Design]]
 [[TCC]]

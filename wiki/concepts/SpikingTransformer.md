@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikingRecurrentCell]]
 [[SpikingRecurrentCells]]
 [[SpikingStateSpaceModel]]
+[[Spiking_Decoder_Tracking]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]

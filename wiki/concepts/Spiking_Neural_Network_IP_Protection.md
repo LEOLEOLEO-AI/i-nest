@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN_SNN_WeightSpaceGap]]
 [[AddressRedundancyElimination]]
 [[Adjoint_Gradient_Propagation]]
+[[AdversarialSpikePerturbation]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]

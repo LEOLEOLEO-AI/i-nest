@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_ProjectManager_Model]]
 [[Distributed_Spike_Communication]]
 [[In_Package_Neuromorphic_Integration]]
+[[Intelligence_Emergence]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[NUMA_Balancing_Overhead]]
 [[Nature Communications_生物神经网络中突触多样性如何让人工神经网络更强大？]]
@@ -42,6 +43,8 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[spiking neural network]]
 [[智能涌现]]
+[[涌现]]
+[[神经形态计算]]
 [[神经网络]]
 
 ## Sources

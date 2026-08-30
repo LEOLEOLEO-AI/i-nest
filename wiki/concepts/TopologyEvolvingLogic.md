@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CongestionAwareNoCPlacement]]
 [[Deep_Network_Architecture_Invariant]]
 [[DynamicServiceComposition]]
+[[EulaminateOverrepresentation]]
 [[Heterogeneous_Integration]]
 [[Logic_Folding]]
 [[Memristor_Interconnect]]
@@ -46,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Architecture]]
 [[TCC]]
 [[iNEST]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

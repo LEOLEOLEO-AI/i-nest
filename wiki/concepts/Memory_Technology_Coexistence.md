@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[DendriticReservoirState]]
 [[DistinctReentrantPhases]]
 [[ERI_2_0_Framework]]
+[[ERI_2_0_Strategy]]
 [[Epithelial_Barrier_Integrity]]
 [[Generalization_Bound_Spectra]]
 [[Intelligence_Emergence]]

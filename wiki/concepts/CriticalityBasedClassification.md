@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[DrivenCriticalityOptimalityTradeoff]]
 [[DynamicalCriticality]]
 [[Emergent_Intelligence_Threshold]]
+[[EmulationTheoryDisturbanceObserver]]
 [[EnergyAwareLearning]]
 [[EventDrivenMotionDeblurring]]
 [[Heterogeneous_Integration]]

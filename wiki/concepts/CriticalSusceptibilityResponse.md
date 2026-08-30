@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[FPGAInference]]
 [[Less is more，大脑“低能耗”并“高效响应”的秘诀：模块化]]
+[[MicroCriticalAgent]]
 [[Self_Organized_Criticality]]
 [[StandardizedComponent]]
 [[TCC]]

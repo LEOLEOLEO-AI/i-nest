@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[Nonlinear_Topology_Amplification]]
+[[PhysicalReservoirTransientDynamics]]
 [[PropertyPredictionModeling]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SpinGlassOrderAbsence]]

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Active_Inference_Architecture]]
 [[Activity_Dependent_Plasticity]]
 [[AdaptiveAsymmetricSurrogateGradient]]
+[[AdaptiveFunctionalTopology]]
 [[AmoebaInspiredLocomotion]]
 [[Contested_Priors_Mechanism]]
 [[CriticalStateSelfOrganization]]

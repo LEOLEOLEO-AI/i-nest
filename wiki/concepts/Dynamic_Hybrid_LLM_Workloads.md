@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[SNN_Intrusion_Detection_Config]]
 [[Self_Organized_Criticality]]
+[[SpikingNeuralAccelerator]]
 [[Spiking_Neural_Network]]
 
 ## Sources

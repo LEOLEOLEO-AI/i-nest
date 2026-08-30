@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveDendriteSNN]]
 [[AdaptiveFrequencyResonateAndFire]]
 [[AdaptiveFunctionalTopology]]
+[[AtomicGeometryEncoding]]
 [[BrownianCastleInterface]]
 [[BurstTemporalPlasticity]]
 [[EventDrivenTemplateUpdate]]

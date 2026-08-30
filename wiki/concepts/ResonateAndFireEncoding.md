@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Memory_Wall]]
 [[NeuromorphicAuditoryFrontend]]
 [[Neuromorphic_Computing]]
+[[NonEquilibriumPhase]]
 [[OptimalGeneralisationNearInterpolation]]
 [[PhotoIontronicSynapse]]
 [[RareEventCoding]]

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Synaptic_Weighting]]
 [[Architectural_Conditioning]]
 [[Asymmetric_Interaction_Matrix]]
+[[Attention_Residuals]]
 [[Chiplet_Heterogeneous_Integration]]
 [[DARPA_ProjectManager_Model]]
 [[EdgeIoTEnergyAwareness]]

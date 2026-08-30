@@ -43,13 +43,13 @@ Auto-extracted concept from raw material compilation.
 [[EdgeAI_Market_Consolidation_Driver]]
 [[FlagOS_Interconnect_Topology]]
 [[Heterogeneous_Integration]]
+[[In_Package_Interconnect_Trust]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[complex system]]
 [[iNEST]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

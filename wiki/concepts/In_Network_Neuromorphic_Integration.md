@@ -25,7 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Architecture]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Complex_System_Theory]]
-[[Complexity_Emergence_Engineering]]
+[[Complexity_Emergence]]
 [[Contested_Priors_Mechanism]]
 [[CorticalTypeDiversity]]
 [[DRBE_MVP_Mainchain]]

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Alpha_Computation_Consistency]]
 [[AnomalousSpinTransport]]
 [[BigBrainCellularAxis]]
+[[BoundaryObject_Abstraction]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Core_Spacetime_Tensor]]
 [[Evolving_System_Adaptation]]
@@ -40,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[SDDE_Physical_Dynamics]]
 [[SDSoW]]
+[[SDSoW_Architecture]]
 [[TCC]]
 [[ThermallyDrivenSuperparamagnetReservoir]]
 

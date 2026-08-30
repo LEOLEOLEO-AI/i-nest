@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[SparseActivationSkipping]]
 [[SpikeAwareAlignmentDistillation]]
 [[SpikeEncoding]]
+[[SpikeTimeEncoding]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[StochasticSpikeEncoding]]

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[ArtificialProprioception]]
 [[Brain_Inspired_Switchless_Architecture]]
 [[CognitiveFeedbackLoop]]
+[[CompetitiveEdgeRewiring]]
 [[Complex_System_Theory]]
 [[ExplainableEnergyAI]]
 [[InNetworkNeuromorphicComms]]
@@ -43,7 +44,6 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[iNEST]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

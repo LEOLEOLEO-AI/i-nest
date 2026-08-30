@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CircuitTopologySearch]]
 [[Complex_System_Theory]]
 [[ComputationEfficientDeepLearning]]
+[[CrossLingualIdiomGraph]]
 [[DARPA_ProjectManager_Model]]
 [[Deep_Network_Architecture_Invariant]]
 [[DelayTolerantNetworkUAV]]
@@ -43,7 +44,6 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[intellectual base]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

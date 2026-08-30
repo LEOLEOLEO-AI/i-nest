@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Spatiotemporal_Synergy]]
 [[Network_Topology_Design]]
+[[NoC_Chiplet_Wafer_Stack]]
 [[P_Paradigm]]
 [[QuantumCircuitCompression]]
 [[RecursiveSelfReferentialArchitecture]]

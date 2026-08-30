@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Decoupling]]
 [[Continual_Learning_Modularity]]
 [[CriticalityInNetworkComputing]]
+[[CriticalityOffCriticalityTransition]]
 [[Criticality]]
 [[Driven_Criticality]]
 [[Dynamic_Expert_Fusion]]

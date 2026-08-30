@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Anisotropic_Correlation_Length]]
 [[Architectural_Conditioning]]
 [[BiologicalNoiseMimicry]]
+[[Chip-Hardware — 全景导航 (Map of Content)]]
 [[CombinedImportanceScoring]]
 [[CompartmentalNeuronModel]]
 [[ComplexValuedSNN]]

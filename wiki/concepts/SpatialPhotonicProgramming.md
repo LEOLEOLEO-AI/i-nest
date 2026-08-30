@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Synapse]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
+[[RecurrentSpikingDynamics]]
 [[Signal_Folding]]
 [[SneakPathCurrentSuppression]]
 [[Spiking_Neural_Network]]

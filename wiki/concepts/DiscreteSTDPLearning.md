@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeCodedFeatureAssociation]]
 [[SpikeEncoding]]
 [[SpikeFusionLayer]]
+[[SpikeTimingDependentRecurrence]]
 [[Spike_Encoding_of_fMRI]]
 [[SpikingNeuralDynamics]]
 [[Spiking_Neural_Network]]

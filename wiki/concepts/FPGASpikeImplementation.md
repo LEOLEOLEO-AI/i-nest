@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGABasedNeuromorphic]]
 [[FPGA_Neuromorphic_Acceleration]]
 [[FPGA_Neuromorphic_Architectures]]
+[[Flexible_Neural_Mapping]]
 [[Intelligence_Emergence]]
 [[MemristiveSynapse]]
 [[Memristive_Topology]]

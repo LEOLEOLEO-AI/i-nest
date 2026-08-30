@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AI4PDE｜综述·论文推荐 08｜物理信息神经网络在偏微分方程问题中的应用：全面综述]]
 [[AI_Faculty_Forum_2026]]
 [[AnalogDomainCompression]]
+[[Analog_InMemory_Processing]]
 [[Analog_Weight_Storage]]
 [[BigBrainCellularAxis]]
 [[CST_SynergisticCoordination]]
@@ -59,7 +60,6 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[temporalComplexity]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

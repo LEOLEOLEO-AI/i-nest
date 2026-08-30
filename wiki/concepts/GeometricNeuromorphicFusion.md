@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[SequenceAwareSpikingDetection]]
 [[Spike_Encoding_of_fMRI]]
 [[SpikingRecurrentCells]]
+[[SpikingStateSpaceModel]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]

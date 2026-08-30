@@ -35,12 +35,14 @@ Auto-extracted concept from raw material compilation.
 [[AdditiveTopology_Embedding]]
 [[Alpha_Coefficient_Phase_Transition_Amplification]]
 [[AnteHoc_Explainability]]
+[[CST_Triad_Integration]]
 [[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
 [[DataCenter_Chip_Logic_Compression]]
 [[DendriticReservoirState]]
 [[ERI_2_0_Strategy]]
+[[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[NetworkMechanismsOfWaveGeneration]]
 [[Network_Topology_Design]]
@@ -54,7 +56,6 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[getnote_2025-12-17_3D异构集成_3DHI_技术深度研究_机遇_挑战与未来路径]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

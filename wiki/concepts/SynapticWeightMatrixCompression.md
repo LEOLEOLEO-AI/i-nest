@@ -40,12 +40,12 @@ Auto-extracted concept from raw material compilation.
 [[Level_of_Splat_Detail]]
 [[Memory_Wall]]
 [[Neuromorphic_Computing]]
+[[NonvisualGroundClassification]]
 [[ReputationSignal]]
 [[WavelengthMultiplexedInterconnect]]
 [[analog computation]]
 [[iNEST]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

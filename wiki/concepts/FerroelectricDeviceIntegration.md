@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[PhaseAwareBisectionDemand]]
 [[PolarizationModulatedPhotoresponse]]
+[[ReconfigurablePhotonicNetwork]]
 [[Switch_Chiplet_Integration]]
 [[TCC]]
 [[TopologyAwareStateMigration]]

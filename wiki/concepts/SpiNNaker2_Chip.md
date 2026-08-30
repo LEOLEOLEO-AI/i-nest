@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Architecture]]
 [[Hierarchical_Interconnect]]
 [[In_Network_Neuromorphic]]
+[[In_Package_Neuromorphic_Integration]]
 [[Intelligence_Emergence]]
 [[NestedRepresentation]]
 [[Network_Specific_Embedding_Separation]]

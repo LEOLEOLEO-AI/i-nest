@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[ITP_STDP]]
 [[Intelligence_Emergence]]
+[[Interconnect_Routing]]
 [[Memristor_Synapse]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicLocomotionPrimitive]]

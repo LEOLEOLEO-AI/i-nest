@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Layered_Attractive_Hubbard_Model]]
 [[Memristive_STDP]]
 [[Memristor_Synapse]]
+[[MesonSpectra]]
 [[Network_Topology_Design]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]

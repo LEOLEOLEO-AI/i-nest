@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Decoupling]]
 [[Critical_State_Interconnect]]
 [[CriticalityInNetworkComputing]]
+[[CriticalityOffCriticalityTransition]]
 [[Criticality]]
 [[DifferentiableRasterizationPipeline]]
 [[Dynamic_Expert_Fusion]]

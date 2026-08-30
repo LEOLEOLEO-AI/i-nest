@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN_to_SNN_Conversion_Error_Amplification]]
 [[AcceleratorReconfigurationOverhead]]
 [[ActiveDendriteSNN]]
+[[AdaptiveFunctionalTopology]]
 [[Closed_Loop_SNN_Stability_Boundary]]
 [[CrashHotspotForecasting]]
 [[DivergentHigherAreaRanking]]

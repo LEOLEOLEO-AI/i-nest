@@ -29,10 +29,12 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Topology_Encapsulation]]
 [[Compute_Centric_NoC]]
 [[CongestionAwareNoCPlacement]]
+[[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[OpticalNetworkOnChip]]
+[[SDI_NoC_Fusion]]
 [[TCC]]
 [[Topology_Encapsulation]]
 

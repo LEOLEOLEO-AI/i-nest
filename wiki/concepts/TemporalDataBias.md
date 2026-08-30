@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Prior_Resolution]]
 [[Continuous_Control_Spiking_Stability]]
 [[ConventionalAndSpikingDualMode]]
+[[CriticalityInducedComputationalCapacity]]
 [[Criticality]]
 [[DiscreteContinuous_Unification]]
 [[SNN]]

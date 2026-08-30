@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[CavityMethodAnalysis]]
 [[CommunicationAsComputation]]
 [[CommunicationAwareComputeRelocation]]
+[[Computation_Access_Routing]]
 [[EntanglementAwareRouting]]
 [[FatalityDrivenRewiring]]
 [[FlagOS_2_0]]

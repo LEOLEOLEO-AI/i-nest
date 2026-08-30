@@ -38,11 +38,13 @@ Auto-extracted concept from raw material compilation.
 [[DeviationScalingIndex]]
 [[ErrorSuppressedPipeline]]
 [[FlexibilityThreshold]]
+[[HierarchicalReservoirDynamics]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]
+[[neuromorphic computing architecture]]
 [[neuromorphic computing]]
 
 ## Sources

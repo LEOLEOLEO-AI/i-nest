@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[CommunicationTopologyMismatch]]
 [[Complex_System_Theory]]
 [[Crystallized_Neural_Manifolds]]
+[[DeviceConductanceTuning]]
 [[EdgeIoTEnergyAwareness]]
 [[ExplosiveTransitionThreshold]]
 [[Intelligence_Emergence]]

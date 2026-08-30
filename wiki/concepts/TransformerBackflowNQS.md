@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenAutoregression]]
 [[EventDrivenMotionDeblurring]]
 [[Heterogeneous_Integration]]
+[[Neuromorphic_Planning_Revolution]]
 [[SNN]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]

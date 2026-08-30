@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[NoiseDrivenBackpropReconstruction]]
+[[OpinionDrivenVaccination]]
 [[SelfMotivatedGrowth]]
 [[Self_Organized_Criticality]]
 [[TopologyDrivenDynamics]]

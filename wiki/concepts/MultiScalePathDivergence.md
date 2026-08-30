@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[ComplexEcosystemDynamics]]
 [[Contested_Priors_Mechanism]]
 [[Continual_Learning_Topology]]
+[[CouplingMatrixRecovery]]
 [[CriticalFixedPoint]]
 [[DendriticReservoirState]]
 [[DifferentiableLifting]]

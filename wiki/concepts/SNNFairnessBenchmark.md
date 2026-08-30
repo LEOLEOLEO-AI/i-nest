@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_PPT_Workflow]]
 [[Battery_Technology_Integration]]
 [[BiologicalNoiseMimicry]]
+[[BrainActivityPrediction]]
 [[DARPA_ProjectManager_Model]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[FPGA_Accelerated_SNN]]

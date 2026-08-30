@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CombinedImportanceScoring]]
 [[ComplexValuedSNN]]
 [[CoreComputationSubspace]]
+[[CulturalDisseminationDynamics]]
 [[DeeplySupervisedSpiking]]
 [[Dynamic_Expert_Fusion]]
 [[EmergentOrder]]

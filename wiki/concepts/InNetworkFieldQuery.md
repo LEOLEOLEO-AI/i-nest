@@ -38,14 +38,15 @@ Auto-extracted concept from raw material compilation.
 [[HardwareAware_SelfOrganization]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[Level_of_Splat_Detail]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[ReputationSignal]]
+[[SelfOrganization]]
 [[iNEST]]
 [[neural field world model]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

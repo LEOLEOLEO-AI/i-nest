@@ -35,11 +35,11 @@ Auto-extracted concept from raw material compilation.
 [[LargeScalePhotonicIntegration]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
+[[PhysicalWaferTriplet]]
 [[TCC]]
 [[WaferScaleChipletIntegration]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
-[[Wafer_Scale_Interconnect_Memristor]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

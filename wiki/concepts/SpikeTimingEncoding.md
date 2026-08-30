@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[RecurrentOscillatoryComputation]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
+[[SafetyThresholdAsSpikingThreshold]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[TemporalFeaturePropagation]]

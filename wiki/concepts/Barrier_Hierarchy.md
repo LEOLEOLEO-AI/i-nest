@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Supply_Chain_Increment]]
 [[AI人工智能 卷积神经网络（CNN）_w3cschool]]
 [[Agent_Workflow_Automation]]
+[[Analog_InMemory_Processing]]
 [[BifurcationCandidate]]
 [[CST计量仪]]
 [[Complex_System_Theory]]
@@ -48,7 +49,6 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[barrier hierarchy]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

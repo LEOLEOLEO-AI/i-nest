@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[ForwardFluctuationGradient]]
 [[FunctionalInterfaceBlock]]
 [[High_Dimensional_Projection]]
+[[HypergraphMeanFieldApproximation]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[BiologicalNoiseMimicry]]
 [[CombinedImportanceScoring]]
 [[CompartmentalNeuronModel]]
+[[CoreComputationSubspace]]
 [[CrashHotspotForecasting]]
 [[DivergentHigherAreaRanking]]
 [[ExplosiveTransitionThreshold]]

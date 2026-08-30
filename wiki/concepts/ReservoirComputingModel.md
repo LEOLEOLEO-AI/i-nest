@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Globally_Optimal_SNN_Training]]
 [[HardwareAware_DesignSpace]]
 [[Intelligence_Emergence]]
+[[Memristive_SNN_Accelerator]]
 [[Memristor_Reservoir_Branch_Prediction]]
 [[Memristor_Reservoir_Computing]]
 [[Memristor_Synapse]]

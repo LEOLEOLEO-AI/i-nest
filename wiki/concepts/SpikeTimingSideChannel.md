@@ -38,9 +38,9 @@ Auto-extracted concept from raw material compilation.
 [[STDP_iNEST]]
 [[SpikeEncoding]]
 [[SpikingNeuralNetworkInference]]
+[[SpikingNeuralNetwork]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
-[[Synaptic_Plasticity_Rule]]
 [[iNEST]]
 
 ## Sources

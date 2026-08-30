@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[ConductingPolymerDendriteMemory]]
 [[Cross_Node_Event_Propagation]]
 [[Distributed_Spike_Communication]]
+[[DrivenDissipativeDynamics]]
 [[EventDrivenPlasticity]]
 [[FixedOverheadDominance]]
 [[Loihi2_OnChip_Learning]]

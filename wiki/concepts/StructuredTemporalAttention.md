@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[SparseCodingEfficiency]]
 [[Spike_Event_Driven_Attention]]
+[[SpikingNeuralPolicies]]
 [[Spiking_Neural_Network]]
 
 ## Sources

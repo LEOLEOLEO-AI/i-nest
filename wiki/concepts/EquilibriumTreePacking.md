@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[Topology_Aware_NeuroTrain]]
 [[iNEST]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

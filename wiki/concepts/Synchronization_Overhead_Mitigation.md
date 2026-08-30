@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[PhaseLockedTopologyMapping]]
+[[SDI_iNEST_Interconnect]]
 [[SNN]]
 [[STDP_Integration]]
 [[STDP_Learning]]

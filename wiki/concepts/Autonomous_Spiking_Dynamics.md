@@ -35,10 +35,12 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[ST_SNN]]
+[[SpikeEncoding]]
 [[Spiking neural network]]
 [[SpikingNeuralImplementation]]
 [[Spiking_Neural_Network]]
 [[ThresholdBasedSpikeEncoding]]
+[[VisualPlaceRecognition]]
 [[iNEST]]
 
 ## Sources

@@ -44,8 +44,8 @@ Auto-extracted concept from raw material compilation.
 [[Topology_Centric_Computing]]
 [[WaferScale_Chiplet_Interconnect]]
 [[chiplet interconnect]]
+[[iNEST]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[类脑芯片]]
 
 ## Sources

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Controlled_Release_Kinetics]]
 [[ElectronicWarfareNeuromorphic]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
+[[Gut_Brain_Immune_Network]]
 [[Intelligence_Emergence]]
 [[NeuromorphicSafetyBoundary]]
 [[Neuromorphic_Computing]]

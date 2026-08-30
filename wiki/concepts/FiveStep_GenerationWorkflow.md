@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Continual_Learning_Modularity]]
 [[ControlDrivenCriticalFluctuations]]
 [[CounterstreamSignalPropagation]]
+[[CriticalityInNetworkComputing]]
 [[Criticality]]
 [[CrossLayer_SignalRouting]]
 [[CrystalPalace_Program]]

@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Specific_Embedding_Separation]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[SNN_Sparsity_InformationBound]]
 [[ScalableNeuromorphicTopology]]
 [[Spiking_Neural_Network]]
 [[emergent computation]]

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[DirectTrainingFromScratch]]
 [[Emergent_Intelligence_Threshold]]
 [[EventBasedMotionDeblurring]]
+[[EventDrivenFusion]]
 [[EventDrivenMotionDeblurring]]
 [[FormalToolchain]]
 [[Globally_Optimal_SNN_Training]]

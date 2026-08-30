@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Cytokine_Feedback_Loops]]
 [[EventDrivenSpectralProcessing]]
 [[Neuromorphic_Computing]]
+[[NonEquilibriumPhase]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]
 [[SpikeEncoding]]

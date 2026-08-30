@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Decoupling]]
 [[Continual_Learning_Modularity]]
 [[Continuous_Spatiotemporal_State_Propagation]]
+[[CriticalityInNetworkComputing]]
 [[CriticalityInducedTopology]]
 [[Criticality]]
 [[Decoupled_Priors]]

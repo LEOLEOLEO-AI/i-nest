@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AdjointWaveControl]]
 [[BifurcationCandidate]]
 [[CST_Spatiotemporal_Complexity]]
+[[CavityMethodAnalysis]]
 [[Chiplet_Based_Architecture]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
@@ -46,7 +47,6 @@ Auto-extracted concept from raw material compilation.
 [[TopologyAwarePhotonicInterconnect]]
 [[VectorFlowField]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

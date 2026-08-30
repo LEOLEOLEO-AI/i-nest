@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[PhotonicSynapticPlasticity]]
 [[Receptron_Unit]]
 [[RecursiveSelfReferentialArchitecture]]
+[[Resilient_Satellite_Mesh]]
 [[Self_Organized_Criticality]]
 [[Synaptic_Plasticity]]
 [[TopologicalAndersonChernInsulator]]

@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[CompactBosonDuality]]
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
+[[DataCenter_Chip_Logic_Compression]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]
@@ -51,7 +52,6 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[soc]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

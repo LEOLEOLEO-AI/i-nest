@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Cross_Node_Event_Propagation]]
 [[Distributed_Spike_Communication]]
 [[Environmental_Capability_Context]]
+[[FerroelectricSynapse]]
 [[FirstPrinciples_Derivation]]
 [[Heterogeneous_Integration]]
 [[Hypergraph_Label_Noise]]

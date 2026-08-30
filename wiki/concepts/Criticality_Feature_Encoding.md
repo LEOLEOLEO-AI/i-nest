@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[AssociativeMemoryTopology]]
 [[Attention_Residuals]]
 [[AvalancheBranchingRatio]]
+[[BackpropagationFreeLearning]]
 [[BranchingRatio]]
 [[Criticality]]
 [[Dynamic_Expert_Fusion]]
@@ -50,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologicalAndersonChernInsulator]]
 [[UniversalComputation]]
 [[criticality]]
+[[soc]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

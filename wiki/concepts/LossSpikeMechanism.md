@@ -41,12 +41,14 @@ Auto-extracted concept from raw material compilation.
 [[MobilityEdge]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]
+[[SDI_STDP]]
 [[SDI_STDP_Rule]]
 [[SDI节点接口规范与化合键定义]]
+[[STDP_Plasticity]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
-[[Wafer_Scale_Interconnect_Memristor]]
+[[Wafer_Scale_Interconnect]]
 [[神经网络]]
 
 ## Sources

@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[ERI_2_0_Strategy]]
 [[Heterogeneous_Synaptic_Motifs]]
 [[Intelligence_Emergence]]
+[[MachineLearningPotential]]
 [[NCL神经计算定律详解]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
@@ -49,7 +50,6 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[scaling laws]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

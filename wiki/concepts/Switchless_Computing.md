@@ -44,13 +44,15 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_TCC_Integration]]
 [[Second_Curve_Wafer_Industry_Platform]]
 [[TCC]]
+[[TCC_Interconnect_Topology]]
 [[Topology_Interconnect]]
 [[WaferScaleInterconnectAlgebra]]
-[[WaferScaleSystem]]
 [[WaferScaleTopologyCentricComputing]]
+[[WaferScale_System]]
 [[Wafer_Chiplet_Topology_Interconnect]]
 [[Wafer_Scale_Integration]]
 [[iNEST]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

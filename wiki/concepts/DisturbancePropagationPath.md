@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[ElectronicPhotonicIntegratedCircuit]]
 [[Heterogeneous_Integration]]
 [[HodgkinHuxleyDynamics]]
+[[In_Package_Neuromorphic_Integration]]
 [[QuarantineCostTradeoff]]
 [[SNN]]
 [[Spiking_Neural_Network]]

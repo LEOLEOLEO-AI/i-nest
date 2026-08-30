@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Enabled_Battlefield_Autonomy]]
 [[ANN_to_SNN_Conversion_Error_Amplification]]
 [[AnomalousSpinTransport]]
+[[BrainActivityPrediction]]
 [[CSI_Temporal_Encoding]]
 [[CollectiveStateResilience]]
 [[ConsciousnessEngineeringLoop]]

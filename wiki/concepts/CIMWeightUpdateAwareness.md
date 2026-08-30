@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
 [[neuromorphic interconnect]]
+[[忆阻器]]
 [[神经网络]]
 [[类脑芯片]]
 

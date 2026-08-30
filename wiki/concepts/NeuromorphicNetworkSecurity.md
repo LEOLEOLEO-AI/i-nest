@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[LocalLearning_SynapticUpdate]]
 [[NestedRepresentation]]
 [[NeuromorphicEdgeProcessing]]
+[[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[ST_SNN]]

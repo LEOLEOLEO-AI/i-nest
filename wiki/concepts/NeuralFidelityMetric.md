@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Packaging]]
 [[PairwiseCorrelationConstraint]]
 [[ResonateAndFireNeuron]]
+[[SelectorFreeHopfieldNetwork]]
 [[SpikeEncoding]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[GradientBasedLearningLocalization]]
 [[In_Network_Neuromorphic]]
 [[In_Package_Neuromorphic_Integration]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[NeuromorphicAttentionScaling]]
 [[Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]
@@ -37,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]
+[[iNEST_Interconnect]]
 [[iNEST_Neuromorphic_Integration]]
 
 ## Sources

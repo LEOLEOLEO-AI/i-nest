@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN_NeuroprostheticPipeline]]
 [[Self_Organized_Criticality]]
 [[SensationModulatingNetwork]]
+[[SpikeBackpropagation]]
 [[Spiking_Neural_Network]]
 [[Stretched_Criticality]]
 [[Topology_Aware_Spike_Routing]]

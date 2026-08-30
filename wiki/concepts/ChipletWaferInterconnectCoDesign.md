@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Industry_Alliance]]
 [[SensorMemoryCoLocation]]
 [[TCC]]
+[[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[TopologicalAndersonChernInsulator]]
 [[Topological_Manifold_Interconnect]]
 [[Wafer_Scale_Integration]]

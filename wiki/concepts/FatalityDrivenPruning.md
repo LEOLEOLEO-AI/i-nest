@@ -35,7 +35,9 @@ Auto-extracted concept from raw material compilation.
 [[CollectiveStateTopology]]
 [[CommunicationAwareComputeRelocation]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
+[[InputAdaptiveComputation]]
 [[Network_Topology_Design]]
+[[SelfOrganization]]
 [[TCC]]
 
 ## Sources

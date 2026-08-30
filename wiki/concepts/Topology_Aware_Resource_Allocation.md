@@ -28,12 +28,14 @@ Auto-extracted concept from raw material compilation.
 [[3D_Integrated_Chiplet_Stacking]]
 [[AI_FullSpectrum_Strategy]]
 [[AdiabaticMultimodeBend]]
+[[AdvancedPackagingInterconnect]]
 [[Advanced_Packaging_Route]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Bipartite_Interconnect]]
 [[CXL_Deployment_Transition]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Stacking]]
 [[Complex_System_Theory]]
 [[ComputeRelocationOverhead]]
 [[Dynamic_Expert_Fusion]]
@@ -50,7 +52,6 @@ Auto-extracted concept from raw material compilation.
 [[advanced packaging]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

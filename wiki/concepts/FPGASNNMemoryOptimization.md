@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[ComplexValuedSNN]]
 [[Complex_System_Theory]]
+[[DMP_SNN_DualMemoryPathway]]
 [[Deep_SNN_Trainability]]
 [[DeeplySupervisedSpiking]]
 [[Distributed_Spike_Communication]]

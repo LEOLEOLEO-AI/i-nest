@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Complex_System_Theory]]
+[[Concepts-Theory — 全景导航 (Map of Content)]]
 [[DataDrivenCellularAxis]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
@@ -55,7 +56,6 @@ Auto-extracted concept from raw material compilation.
 [[temporalComplexity]]
 [[vLLM_plugin_FLSDI]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[类脑芯片]]
 
 ## Sources

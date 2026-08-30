@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[RestingStateEEG_Connectivity]]
 [[SDPrompt_Guided_Dynamic_Expert_Fusion]]
 [[ScalableNeuromorphicTopology]]
+[[SparseTemporalEncoding]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

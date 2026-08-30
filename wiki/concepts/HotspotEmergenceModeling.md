@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[HighTemporalResolutionSensing]]
 [[InNetwork_Learning_Interface]]
 [[Intelligence_Emergence]]
+[[Meta_Residual_Learning]]
 [[NestedRepresentation]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]

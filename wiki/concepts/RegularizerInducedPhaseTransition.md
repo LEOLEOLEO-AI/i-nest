@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityInducedComputationalCapacity]]
 [[Criticality]]
 [[DTGA]]
+[[DimensionSeparation_IntensiveExtensive]]
 [[Dimensionality_Modularity_Tradeoff]]
 [[DynamicCentralitySteering]]
 [[EventDrivenFunctionalConnectivity]]

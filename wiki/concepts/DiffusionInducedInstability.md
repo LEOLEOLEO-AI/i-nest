@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[Criticality_Induced_Plasticity]]
 [[Dimensionality_Modularity_Tradeoff]]
+[[DynamicCentralitySteering]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeOfChaos]]
 [[Fixed_Cost_Dominance]]

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[ContinuousControlConversion]]
 [[CriticalityDrivenStateTransition]]
 [[Criticality]]
+[[DynamicTokenSparsity]]
 [[DynamicalSelfDualCriticality]]
 [[Interconnect_Routing]]
 [[MoE_Routing]]

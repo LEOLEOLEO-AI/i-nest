@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveBitPrecisionExploration]]
 [[Advanced_Packaging_for_Space]]
 [[BurstInterleaving]]
+[[ChipletOpticalIO]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
 [[CoPackagedOptics]]
@@ -45,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[SparseTemporalEncoding]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
+[[soc]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

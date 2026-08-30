@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[EpidemicThreshold]]
 [[FormalLinguisticCompetence]]
 [[GlassInterposerSignalIntegrity]]
+[[HierarchicalBayesianCommunityDetection]]
 [[Intelligence_Emergence]]
 [[LocalQuantumLearningRule]]
 [[Memristive_STDP]]

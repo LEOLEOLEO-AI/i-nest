@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligent_Power_Management]]
 [[Memristive_Interconnect]]
 [[Neuromorphic_Computing]]
+[[StochasticVehicleRouting]]
 [[iNEST]]
 
 ## Sources

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Efficient_Coding_Constraint]]
 [[Emergent_Intelligence_Threshold]]
 [[EventBasedAnalogFrontEnd]]
+[[EventDrivenSensoryEncoding]]
 [[EventDrivenTracking]]
 [[EventDrivenTrajectoryEncoding]]
 [[EventDrivenWirelessTransmission]]

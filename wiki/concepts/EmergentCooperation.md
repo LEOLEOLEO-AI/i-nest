@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[DirectTrainingSNN]]
 [[Direct_Training_Spiking_Neural_Networks]]
 [[ElectronicBurstingNeuron]]
+[[Emergent_Generalization]]
 [[Emergent_Generalization_Dynamics]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

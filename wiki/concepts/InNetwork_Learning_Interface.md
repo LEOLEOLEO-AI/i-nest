@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[ComplexEcosystemDynamics]]
 [[Contested_Prior_Resolution]]
 [[Continual_Learning_Topology]]
+[[CouplingMatrixRecovery]]
 [[Coupling_Strength_Encoding]]
 [[DendriticReservoirState]]
 [[DeviationScalingIndex]]

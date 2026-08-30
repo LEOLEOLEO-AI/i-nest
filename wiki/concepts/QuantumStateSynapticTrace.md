@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenAttentionMechanism]]
 [[EventDrivenPlasticity]]
 [[InputAdaptiveComputation]]
+[[MemoryDrivenInterconnect]]
 [[NestedRepresentation]]
 [[Neuromorphic_Computing]]
 [[NonEquilibriumPhase]]

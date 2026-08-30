@@ -41,9 +41,9 @@ Auto-extracted concept from raw material compilation.
 [[QueryComplexityScaling]]
 [[SelfOrganization]]
 [[SiC_GaN_Power_Integration]]
+[[State_Transition_Formalism]]
 [[soc]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

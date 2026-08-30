@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenAsynchronousRouting]]
 [[EventDrivenRiskAssessment]]
 [[EventDrivenTracking]]
+[[Event_Driven_Communication]]
 [[FixedOverheadFloor]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

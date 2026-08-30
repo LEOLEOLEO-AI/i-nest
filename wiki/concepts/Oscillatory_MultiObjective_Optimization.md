@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[StochasticVehicleRouting]]
 [[TCC]]
 [[Trustworthiness_Aware_Training]]
+[[TrustworthyLearning]]
 [[iNEST]]
 [[temporal computing paradigm]]
 

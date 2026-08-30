@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Military_AI_Revolution]]
 [[Network_Topology_Design]]
+[[PolicyDrivenInnovation]]
 [[RoutingBasedComputation]]
 [[TCC]]
 [[WirelessSplitComputing]]

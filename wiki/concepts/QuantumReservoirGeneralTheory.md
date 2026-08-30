@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Compute_Graph]]
 [[Heterogeneous_Integration]]
 [[HierarchicalReservoirDynamics]]
+[[Long_Range_Interactions]]
 [[Memory_Technology_Coexistence]]
 [[MemristiveReservoirBranchPrediction]]
 [[QuantumReservoirMemoryCapacity]]

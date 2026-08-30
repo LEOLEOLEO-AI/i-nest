@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[GPU_Hegemony_Disruption]]
 [[GraphBasedSemanticRouting]]
 [[Heterogeneous_Integration]]
+[[InterconnectDrivenCostFunction]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[TCC]]

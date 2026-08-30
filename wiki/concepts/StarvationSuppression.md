@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[HighThroughputBioparticleRouting]]
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]
+[[LocalLearning_SynapticUpdate]]
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_NoC_Routing]]

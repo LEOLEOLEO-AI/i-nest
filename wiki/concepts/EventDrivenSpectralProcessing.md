@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Local_Plasticity_Rule]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
+[[NonEquilibriumPhase]]
 [[RecursiveSelfReferentialArchitecture]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]

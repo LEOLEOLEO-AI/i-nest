@@ -27,6 +27,8 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_Interconnect_Topology]]
+[[Chiplet_Topology_Interconnect]]
+[[Decoupled_Priors]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
@@ -40,11 +42,13 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Topology]]
 [[SoftwareDefinedSystemOnWafer]]
 [[TCC]]
+[[Topology_Interconnect]]
 [[WaferScaleTopologyCentricComputing]]
 [[WaferScale_Chiplet_Interconnect]]
 [[Wafer_Chiplet_Topology_Interconnect]]
 [[chiplet interconnect]]
 [[iNEST]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

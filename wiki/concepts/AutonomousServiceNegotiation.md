@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[DTGA]]
 [[DynamicServiceComposition]]
+[[ERI_2_0_Framework]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[InterconnectConstrainedEmergence]]
@@ -43,7 +44,6 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Architecture]]
 [[SimulationReproducibilityAudit]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

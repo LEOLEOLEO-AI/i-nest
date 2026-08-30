@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Biologically_Plausible_Learning_Rules]]
 [[CriticalityDrivenAdaptation]]
 [[Criticality]]
+[[Criticality_Induced_Plasticity]]
 [[CytoarchitectonicAxis]]
 [[DataDrivenCytoarchitectonicAxis]]
 [[DynamicalSelfDualCriticality]]

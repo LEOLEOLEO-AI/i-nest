@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[Order_Flexibility_Duality]]
+[[PostVonNeumannIntelligence]]
 [[QuantumKernelMethods]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]

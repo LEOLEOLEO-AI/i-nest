@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[GlobalInformationDominance]]
 [[HierarchicalInferenceTopology]]
 [[Intelligence_Emergence]]
+[[MitigationLayers]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
@@ -44,7 +45,6 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[vLLM_plugin_FLSDI]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

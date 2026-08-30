@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Complex_System_Theory]]
+[[Complexity_Emergence]]
 [[Complexity_Emergence_Engineering]]
 [[Contested_Priors_Mechanism]]
 [[DataDrivenCellularAxis]]

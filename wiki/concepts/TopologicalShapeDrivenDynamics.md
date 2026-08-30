@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Core_Spacetime_Tensor]]
 [[Criticality]]
 [[Criticality_Induced_Plasticity]]
+[[FormalLinguisticCompetence]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[NonEquilibriumPhaseTransition]]

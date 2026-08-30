@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Disordered_Frustrated_Dimer_Magnets]]
 [[Environmental_Capability_Context]]
 [[Heterogeneous_Integration]]
+[[HodgkinHuxleyDynamics]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[NonHermitian_Topology]]

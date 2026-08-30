@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BranchingRatioControl]]
 [[BranchingRatio]]
 [[CST_Theory]]
+[[CST_Theory_V27_FINAL]]
 [[Complex_System_Theory]]
 [[CriticalFixedPoint]]
 [[Criticality]]

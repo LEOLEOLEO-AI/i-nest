@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[BiologicalParadigmValidation]]
 [[Bipartite_Interconnect]]
 [[CellEmergence]]
+[[CircuitTopologySearch]]
 [[Closed_Loop_Neuromodulation]]
 [[Complex_System_Theory]]
 [[ContinuousGameOfLife]]
@@ -42,7 +43,6 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[neuromorphic substrate]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

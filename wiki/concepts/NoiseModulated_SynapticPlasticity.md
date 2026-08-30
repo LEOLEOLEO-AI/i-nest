@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Memristor_Synapse]]
+[[MicroTransferPrintedActiveDevices]]
 [[NestedRepresentation]]
 [[NeuromorphicEdgeProcessing]]
 [[Neuromorphic_Computing]]

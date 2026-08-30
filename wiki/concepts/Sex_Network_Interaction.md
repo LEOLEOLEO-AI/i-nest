@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Brain_Connectome]]
 [[CombinedImportanceScoring]]
 [[Connectome]]
+[[Connectome_Reservoir]]
 [[Emergent_Intelligence_Threshold]]
 [[EvolutionaryReservoirLearning]]
 [[Intelligence_Emergence]]

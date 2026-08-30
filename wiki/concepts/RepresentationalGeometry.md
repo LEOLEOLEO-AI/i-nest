@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[DefectDynamics]]
+[[HighTemporalResolutionSensing]]
 [[LatencyCoding]]
 [[Memristive_STDP]]
 [[Memristor_Synapse]]

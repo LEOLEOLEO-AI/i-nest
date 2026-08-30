@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[GenerativeTopologyModels]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[L2_L3_Reconfigurability]]
 [[MultiplicativeGainMechanism]]
 [[MultiplicativeGain]]
 [[NCL神经计算定律详解]]

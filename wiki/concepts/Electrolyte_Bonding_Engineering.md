@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Signal_Folding]]
 [[SneakPathCurrentSuppression]]
+[[SpatialPhotonicProgramming]]
 [[emerging CMOS memristor]]
 [[iNEST]]
 [[memristor device]]

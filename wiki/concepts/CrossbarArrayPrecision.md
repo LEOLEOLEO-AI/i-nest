@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_NoC_Interconnect]]
 [[Chiplet_Stacking]]
+[[Collective_Offloading]]
 [[CrossDomain_Integration]]
 [[Dynamic_Expert_Fusion]]
 [[FerroelectricMemoryCell]]

@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[OnChipOpticalTweezers]]
 [[OpenSource_Neuromorphic_Framework]]
 [[PerturbationSpaceTrajectory]]
+[[ReSCom_Accelerator]]
 [[Reconfigurable_Neuromorphic_Architecture]]
 [[SNN]]
 [[ST_SNN]]

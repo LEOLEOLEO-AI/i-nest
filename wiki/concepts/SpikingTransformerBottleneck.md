@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_SNN_Inference]]
 [[FunctionalEnsemble]]
 [[In_Package_Neuromorphic_Integration]]
+[[IntegratedInformationFreeEnergyBridge]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[Nonlinear_Gain]]

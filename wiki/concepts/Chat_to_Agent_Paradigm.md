@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstInterleaving]]
 [[ClosedLoopNeuromorphicControl]]
 [[Closed_Loop_Neuromodulation]]
+[[Compact_Boson_Dynamics]]
 [[ContinualLearningOnNeuromorphic]]
 [[Continual_Learning_Modularity]]
 [[DelayTolerantNetworkUAV]]

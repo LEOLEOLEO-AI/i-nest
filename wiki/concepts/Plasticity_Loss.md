@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[AdditiveTopology_Embedding]]
 [[Agent_Workflow_Automation]]
 [[Alpha_Coefficient_Phase_Transition_Amplification]]
+[[Analog_InMemory_Processing]]
 [[AnteHoc_Explainability]]
 [[AsymmetricStochasticInteractions]]
 [[AttentionMap_DifferenceResidual]]
@@ -50,7 +51,6 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[plasticity loss]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

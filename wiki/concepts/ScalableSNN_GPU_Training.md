@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[CollectiveSpikingDynamics]]
 [[CombinedImportanceScoring]]
 [[CurrentInjectionSNN]]
+[[EventDrivenWeightUpdate]]
 [[IntegratedInformationFreeEnergyBridge]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]

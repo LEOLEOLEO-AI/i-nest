@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Environmental_Capability_Context]]
 [[FirstPrinciples_Derivation]]
 [[Heterogeneous_Integration]]
+[[HierarchicalNetworkPartitioning]]
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]
 [[LossSpikePhenomenon]]

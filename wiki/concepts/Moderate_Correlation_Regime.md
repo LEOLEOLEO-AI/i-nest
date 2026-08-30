@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[Quantum_Feature_Map]]
 [[RecursiveSelfReferentialArchitecture]]
+[[RenormalizationGroupIntelligence]]
 [[SuperparamagneticSwitchingRate]]
 [[complex system]]
 [[神经网络]]

@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[PhononicBandgapEngineering]]
 [[PinAssignmentOptimization]]
+[[PolicyDrivenInnovation]]
 [[RecurrentOscillatoryComputation]]
 [[Spiking_Neural_Network]]
 [[SuperparamagneticSwitchingRate]]

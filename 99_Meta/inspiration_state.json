@@ -183,6 +183,33 @@
       "date": "2026-08-31T07:17:56.602031",
       "card": "20260831_Edge_AI_Chip_Architecture_Design_7B.md",
       "method": "llm"
+    },
+    "30_TCC\\34_Projects\\_from_ideas\\00_Inbox 使用说明.md": {
+      "date": "2026-08-31T07:30:48.289684",
+      "card": "20260831_00_Inbox 使用说明.md",
+      "method": "llm"
+    },
+    "30_TCC\\32_Technology\\Tensordyne_Napier_Logarithmic_AI_Chip_Analysis.md": {
+      "date": "2026-08-31T07:33:31.109868",
+      "error": true
+    },
+    "30_TCC\\31_Theory\\cortical_hierarchical_representation_linear_readout.md": {
+      "date": "2026-08-31T07:37:39.665382",
+      "error": true
+    },
+    "30_TCC\\32_Technology\\Memristor_IMC_SoC_Edge_AI_Breakthrough.md": {
+      "date": "2026-08-31T07:37:54.396647",
+      "card": "20260831_Memristor_IMC_SoC_Edge_AI_Breakthrough.md",
+      "method": "llm"
+    },
+    "30_TCC\\31_Theory\\network_science_complex_systems_overview.md": {
+      "date": "2026-08-31T07:38:11.910161",
+      "card": "20260831_network_science_complex_systems_overview.md",
+      "method": "llm"
+    },
+    "30_TCC\\34_Projects\\advanced_computing_chip_project_meeting_notes.md": {
+      "date": "2026-08-31T07:38:28.110920",
+      "error": true
     }
   }
 }

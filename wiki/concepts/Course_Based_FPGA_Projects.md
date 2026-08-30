@@ -58,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
+[[iNEST_Neuromorphic_Topology]]
 [[神经形态脉冲大语言模型（NSLLM）]]
 
 ## Sources

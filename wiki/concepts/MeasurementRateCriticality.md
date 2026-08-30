@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[MacroCriticalityEmergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[SNN_fMRI_VisualSemanticDecoding]]
 [[SelfMotivatedGrowth]]
 [[Self_Organized_Criticality]]
 [[TCC]]

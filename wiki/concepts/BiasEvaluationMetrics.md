@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Constructed_Reality_Prior]]
 [[Environmental_Capability_Context]]
+[[EventCameraActionRecognition]]
 [[FerroelectricDevice]]
 [[Ferroelectric_Devices]]
 [[FirstPrinciples_Derivation]]

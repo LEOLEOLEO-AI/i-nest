@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[ExponentialDenseAssociativeMemory]]
 [[Ferroelectric_Devices]]
 [[Field_Compression_for_InNetwork_Inference]]
+[[FoveationGuidedTokenSelection]]
 [[Free_Energy_Principle_Network]]
 [[HZO_FerroelectricCapacitor]]
 [[InNetworkAgentRewiring]]

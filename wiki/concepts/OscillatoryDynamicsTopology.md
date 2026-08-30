@@ -35,14 +35,15 @@ Auto-extracted concept from raw material compilation.
 [[GraphBasedSemanticRouting]]
 [[Independent_AI_Player_Endgame]]
 [[Intelligence_Emergence]]
+[[Interconnect_Routing]]
 [[MagicStateProtocolAwareCompilation]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[PhotonicStateRetention]]
+[[SixClassSkeletonAsRPrimitiveSpace]]
 [[TCC]]
 [[complex system]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

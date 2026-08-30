@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Memory_Infrastructure]]
 [[AdaptiveDensityControl]]
 [[AdiabaticMultimodeBend]]
+[[Advanced_Packaging_for_Space]]
 [[AnalogDomainCompression]]
 [[Anisotropic_Correlation_Length]]
 [[ArbitraryWavefunctionConfigurability]]
@@ -53,7 +54,6 @@ Auto-extracted concept from raw material compilation.
 [[WavelengthMultiplexedInterconnect]]
 [[advanced packaging]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

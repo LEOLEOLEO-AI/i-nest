@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
 [[STDP_Plasticity]]
+[[Semiconductor_Market_Consolidation]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[TCC_RTC原语架构与SDI拓扑变换机理]]
@@ -52,7 +53,6 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[《中国科学基金》]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

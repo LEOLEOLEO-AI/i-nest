@@ -46,8 +46,9 @@ Auto-extracted concept from raw material compilation.
 [[NonEquilibriumComputing]]
 [[Obsidian_Plugin_Architecture]]
 [[P_Paradigm]]
-[[RTC_Primitives]]
+[[RTC_Primitive]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SDSoW_Physical_Base]]
 [[SoftwareDefinedSystemOnWafer]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
@@ -56,7 +57,6 @@ Auto-extracted concept from raw material compilation.
 [[Topology_Centric_Interconnect]]
 [[chiplet interconnect]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

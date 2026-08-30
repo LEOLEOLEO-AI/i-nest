@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Flow_Aware_Interconnect_Design]]
 [[GraphBasedSemanticRouting]]
 [[Heterogeneous_Integration]]
+[[Independent_AI_Player_Endgame]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[JointEmbeddingPredictiveArchitecture]]
@@ -54,7 +55,6 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[iNEST]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

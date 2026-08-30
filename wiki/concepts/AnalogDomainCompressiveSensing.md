@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[DifferentiableRasterizationPipeline]]
 [[ErrorSuppressedPipeline]]
 [[MLChiralityDecoder]]
+[[Memristor_Network]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[NonlinearConnectomeScaling]]
 [[Nonlinear_Gain]]

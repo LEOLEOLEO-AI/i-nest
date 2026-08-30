@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Hypersonic_Weapon_Market_CAGR]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]
+[[MitigationLayers]]
 [[MultiplicativeGain]]
 [[Network_Topology_Design]]
 [[NonEquilibriumComputing]]
@@ -53,7 +54,6 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[vLLM_plugin_FLSDI]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AgentBasedCorruptionModel]]
 [[AlloyDisorderEngineering]]
 [[AlternativeBridgingModels]]
+[[BrainActivityPrediction]]
 [[DirectoryManagementLaws]]
 [[ErrorSuppressedPipeline]]
 [[ExtinctionDrivenMetastability]]

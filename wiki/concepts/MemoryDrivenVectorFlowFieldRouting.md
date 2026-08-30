@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[GraphBasedSemanticRouting]]
 [[Interconnect_Routing]]
 [[MemoryDrivenRouting]]
+[[Memristive_Interconnect]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[TCC]]
@@ -40,7 +41,6 @@ Auto-extracted concept from raw material compilation.
 [[VectorFlowField]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
-[[Wafer_Scale_Interconnect_Memristor]]
 [[adaptive path selection]]
 
 ## Sources

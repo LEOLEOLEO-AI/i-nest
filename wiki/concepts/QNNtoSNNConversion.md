@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenModularArchitecture]]
 [[Interconnect_Routing]]
 [[LocalInteractionDrivenReconfiguration]]
+[[MixedSignalSNN_CoDesign]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[SNN]]

@@ -64,6 +64,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologyProgramming]]
 [[chiplet interconnect]]
 [[iNEST]]
+[[iNEST_Wafer]]
 [[residual connection]]
 [[temporalComplexity]]
 

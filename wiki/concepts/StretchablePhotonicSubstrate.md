@@ -27,15 +27,18 @@ Auto-extracted concept from raw material compilation.
 [[4H_SiC_SubstrateProcessing]]
 [[AdvancedPackagingInterconnect]]
 [[BifurcationCandidate]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_NoC_Fabric]]
 [[Complex_System_Theory]]
 [[CrossMaterial_Integration]]
 [[DarkSiliconAwarePowerGating]]
+[[HeterogeneousInference]]
 [[HeterogeneousSiliconNitridePlatform]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[MicroTransferPrinting]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
 [[Resilient_Sensing_Comms_Network]]
 [[SDI_Bond]]
 [[SDI_Topology]]
@@ -46,7 +49,6 @@ Auto-extracted concept from raw material compilation.
 [[SystemInPackage_SiP]]
 [[TCC]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_computing]]
 [[NoC_EventRouting]]
 [[QuarantineCostTradeoff]]
+[[RobustnessToNoiseInSNN]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[TCC]]

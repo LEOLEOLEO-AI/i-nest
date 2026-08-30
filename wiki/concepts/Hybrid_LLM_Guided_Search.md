@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Bosonic_SPT_Phases]]
 [[Compressed_Glass_Network]]
 [[CoupledOscillatorReservoir]]
+[[CouplingMatrixRecovery]]
 [[Crystallized_Neural_Manifolds]]
 [[DivergentHigherAreaRanking]]
 [[Emergent_Intelligence_Threshold]]

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Biomanufacturing_Control_Loop]]
 [[Bosonic_SPT_Phases]]
 [[BranchingRatio]]
+[[CST_Exponential_Gain]]
 [[Complex_System_Theory]]
 [[ConnectivityDerivedReservoir]]
 [[Contested_Prior_Resolution]]

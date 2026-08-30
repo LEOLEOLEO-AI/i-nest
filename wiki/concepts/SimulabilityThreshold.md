@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[DendriticReservoirState]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
+[[Epithelial_Barrier_Integrity]]
 [[FirstPrinciples_AI]]
 [[Generalization_Bound_Spectra]]
 [[Intelligence_Emergence]]

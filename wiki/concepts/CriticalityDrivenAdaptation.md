@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TopologyDrivenDynamics]]
 [[TopologyDrivenVulnerability]]
+[[VisualSemanticDecoding]]
 [[criticality]]
 [[iNEST]]
 

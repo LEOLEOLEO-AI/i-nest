@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalStateSelfOrganization]]
 [[DivergentHigherAreaRanking]]
 [[FlexibilityThreshold]]
+[[Gaussian_Splatting_Streaming]]
 [[Localized_Feedback_Array]]
 [[Neuromorphic_Computing]]
 [[NonHermitianSpectralCorrelations]]

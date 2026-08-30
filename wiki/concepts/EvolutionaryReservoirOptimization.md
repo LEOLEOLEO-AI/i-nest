@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[BranchingRatio]]
 [[CoexistencePhaseDiagram]]
 [[CoupledOscillatorReservoir]]
+[[DataDrivenMaterialDesign]]
 [[DivergentHigherAreaRanking]]
 [[Emergent_Intelligence_Threshold]]
 [[HardwareAware_DesignSpace]]

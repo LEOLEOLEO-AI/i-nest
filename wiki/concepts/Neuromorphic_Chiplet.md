@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[TemporalSpikeAssociation]]
 [[Transiently_Amplifying_Construction]]
+[[VaCoAl]]
 [[complex system]]
 [[iNEST]]
 [[neuromorphic computing]]

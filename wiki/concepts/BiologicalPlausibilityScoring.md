@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[DendriticTaskPartitioning]]
 [[DevelopmentalNeuromorphicAdaptation]]
 [[Distributed_Spike_Communication]]
+[[DrivenDissipativeDynamics]]
 [[DynamicSpikePruning]]
 [[Emergent_Intelligence_Threshold]]
 [[FixedOverheadCost]]

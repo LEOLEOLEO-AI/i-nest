@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[FPGASNNMemoryOptimization]]
 [[FixedOverheadCost]]
+[[FixedOverheadPenalty]]
 [[HippocampalNeocorticalIntelligence]]
 [[Intelligence_Emergence]]
 [[Network_Specific_Embedding_Separation]]

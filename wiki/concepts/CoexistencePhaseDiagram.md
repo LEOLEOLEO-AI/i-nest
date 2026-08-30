@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[TopologicalAndersonChernInsulator]]
 [[Topological_Anderson_Insulator]]
+[[TopologyEmbeddedIntrospection]]
 [[VariationalFreeEnergyMinimisation]]
 [[topological Anderson insulator]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]

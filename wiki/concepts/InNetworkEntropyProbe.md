@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[CrossDomain_Integration]]
 [[CrossEntityPreemptiveWarning]]
+[[DiscreteContinuous_Unification]]
 [[DualModeSNNConventionalInference]]
 [[ElasticSpikingTransformer]]
 [[EnergyResourceEfficiencyCoOptimization]]

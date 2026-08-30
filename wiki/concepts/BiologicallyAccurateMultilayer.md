@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[CSPNeuralEncoding]]
 [[ClassificationPerformance]]
 [[ClinicalPredictionMapping]]
+[[ClinicalTranslationBridge]]
 [[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

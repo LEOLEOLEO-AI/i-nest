@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Synapse]]
 [[MinimalNetworkModel]]
 [[MultiModel_Adapter_Architecture]]
+[[NeuromorphicLocomotionPrimitive]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]

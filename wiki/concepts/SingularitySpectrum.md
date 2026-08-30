@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicLocomotionPrimitive]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]
+[[SDI_STDP]]
 [[iNEST]]
 [[reservoir computing]]
 

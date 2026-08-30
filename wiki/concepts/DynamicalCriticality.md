@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[EmulationTheoryDisturbanceObserver]]
 [[EventDrivenMotionDeblurring]]
 [[Intelligence_Emergence]]
+[[InterDomain_Synergy]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

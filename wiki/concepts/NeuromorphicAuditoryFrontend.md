@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspiredInterception]]
 [[BulletTrainScheduling]]
 [[CirculateFiringNeuron]]
+[[Continuous_Control_Spiking_Stability]]
 [[Criticality]]
 [[DelayAwareSpikeEventDelivery]]
 [[DiscreteContinuous_Unification]]

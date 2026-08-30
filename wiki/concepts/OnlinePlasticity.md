@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuroactiveCompoundTherapeutics]]
 [[Neuromorphic_Computing]]
 [[QuantumProbabilityFlowHebbian]]
+[[Receptron_Unit]]
 [[ReconfigurableSpikingRouting]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Self_Organized_Criticality]]

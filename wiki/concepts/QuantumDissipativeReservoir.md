@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Reservoir_Computing]]
 [[Memristor_Synapse]]
 [[MetaFAIR_ArchitectureDiscovery]]
+[[Network_Spatiotemporal_Synergy]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[P_Paradigm]]

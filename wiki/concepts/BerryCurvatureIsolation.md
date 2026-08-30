@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicTokenSparsity]]
 [[Edge_Neuromorphic_Compute]]
 [[ExtrinsicAnomalousHallConductivity]]
+[[FunctionalRelevanceDrivenSelfOrganization]]
 [[Intelligence_Emergence]]
 [[InterconnectDrivenPlacement]]
 [[Interconnect_Routing]]

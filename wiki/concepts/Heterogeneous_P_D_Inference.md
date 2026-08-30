@@ -54,8 +54,8 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[iNEST]]
 [[《中国科学基金》]]
+[[从因果到涌现：迈向新一代人工智能_陆超超博士访谈 (1)]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGASNNMemoryOptimization]]
 [[FPGA_Neuromorphic_Acceleration]]
 [[FixedOverheadCost]]
+[[FixedOverheadPenalty]]
 [[FormalToolchain]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]

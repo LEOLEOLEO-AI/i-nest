@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_neural_network]]
 [[Structural_Mismatch]]
 [[TCC]]
+[[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[chiplet interconnect]]
 [[complex system]]
 [[iNEST]]

@@ -58,9 +58,9 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[emergent computation]]
 [[iNEST]]
+[[iNEST_Interconnect_Topology]]
 [[temporalComplexity]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

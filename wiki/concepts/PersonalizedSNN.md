@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[SNN_VisualSemanticDecoder]]
 [[Spiking_Neural_Network]]
+[[TriAxiomCalibration]]
 [[iNEST]]
 [[neuromorphic computing]]
 [[spiking neural network]]

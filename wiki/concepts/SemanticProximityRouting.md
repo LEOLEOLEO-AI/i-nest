@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstInterleaving]]
 [[CorticalTravelingWave]]
 [[CorticalTravelingWaves]]
+[[CrossLayer_SignalRouting]]
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]
 [[Nonlinear_Gain]]

@@ -51,9 +51,11 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_Review_Process]]
 [[SDI_iNEST_Topology]]
+[[SystemLevelNonlinearity]]
 [[TCC]]
 [[emergent computation]]
 [[iNEST]]
+[[iNEST_Topology]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

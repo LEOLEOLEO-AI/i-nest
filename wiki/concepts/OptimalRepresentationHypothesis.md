@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[CorticalTravelingWave]]
 [[CorticalTravelingWaves]]
 [[CrossLayer_SignalRouting]]
+[[DirectTrainingSNN]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]

@@ -47,7 +47,9 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[PartiallyLabeledMemoryRetrieval]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SNN]]
 [[ScaleFreeNetwork]]
+[[Spiking_Neural_Network]]
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
 [[Wafer_Scale_Integration]]
@@ -57,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[待分类]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[神经网络]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

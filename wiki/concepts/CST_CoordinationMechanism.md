@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Fading_Memory_Property]]
 [[FirstPrinciples_AI]]
 [[Generalization_Bound_Spectra]]
+[[Hyper_Dimensional_Computing]]
 [[Intelligence_Emergence]]
 [[MasterEquationRG]]
 [[MeanFieldSpinGlass]]
@@ -53,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[智能涌现]]
 [[涌现]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

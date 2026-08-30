@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC_TopologyMapping]]
+[[NoC_Topology]]
 [[TCC]]
 [[WaferScaleChipletIntegration]]
 [[Wafer_Scale_Integration]]

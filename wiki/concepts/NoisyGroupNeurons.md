@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[DirectSNNTraining]]
+[[DynamicTokenSparsity]]
 [[Interconnect_Routing]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]

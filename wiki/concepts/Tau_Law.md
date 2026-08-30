@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[ReproducibleReservoirOutput]]
 [[Reservoir_Computing]]
 [[Space_Compute_Architecture_Tradeoff]]
+[[SuperparamagneticSwitchingRate]]
 [[TCC]]
 [[TemporalFeatureProjection]]
 [[logic folding]]

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Cytokine_Feedback_Loops]]
 [[Neuromorphic_Computing]]
+[[NonEquilibriumPhase]]
 [[Online_Continual_Learning]]
 [[STDP_Plasticity]]
 [[SpikeEncoding]]

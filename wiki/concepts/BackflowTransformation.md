@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Brain_Connectome]]
 [[CST_Intelligence_Emergence]]
 [[CST_MasterEquation]]
+[[Chiplet_Based_Neuromorphic_Integration]]
 [[Complex_System_Theory]]
 [[Connectome]]
 [[Contested_Prior_Resolution]]

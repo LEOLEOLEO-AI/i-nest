@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[NonEquilibriumComputing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[STDP_Plasticity]]
+[[SaliencyDrivenAttention]]
 [[SparseActivationSkipping]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]

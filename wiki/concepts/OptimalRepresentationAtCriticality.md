@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[DisorderInducedCriticality]]
 [[EdgeOfChaos]]
 [[Fractal_Wavefront_Scaling]]
+[[NonEquilibriumPhaseTransition]]
 [[NonEquilibriumPhase]]
 [[OptimalRepresentation]]
 [[Self_Organized_Criticality]]

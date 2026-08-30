@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[HigherOrderStochasticProcess]]
 [[Hypergraph_Label_Noise]]
 [[LIF_Neuron_Model]]
+[[Memristive_InMemory_Computing]]
 [[Memristive_Spike_Integration]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]

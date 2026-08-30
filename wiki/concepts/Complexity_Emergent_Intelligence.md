@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Constructed_Reality_Interconnect]]
 [[Crystallized_Neural_Manifolds]]
+[[ERI_2_0_Strategic_Framework]]
 [[Free_Energy_Principle_Network]]
 [[Intelligence_Emergence]]
 [[NCL神经计算定律详解]]

@@ -50,8 +50,8 @@ Auto-extracted concept from raw material compilation.
 [[WaferScaleSubstrate]]
 [[complex system]]
 [[heterogeneous_integration]]
+[[iNEST]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

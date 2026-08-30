@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AnalogDomainCompression]]
 [[AnisotropicGaussianPrimitives]]
 [[AnomalousSpinTransport]]
+[[CouplingMatrixRecovery]]
 [[Reservoir_Computing]]
 [[TCC]]
 [[iNEST]]

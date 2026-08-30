@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Architecture]]
 [[SNN]]
 [[SNN_Sparsity_InformationBound]]
+[[ScalableNeuromorphicTopology]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_MasterEquation]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[CircadianGateModulation]]
+[[ComplexValuedSNN]]
 [[Complex_System_Theory]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]

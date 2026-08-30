@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Change_Record]]
 [[BioInspiredInterceptionTask]]
 [[BioInspiredInterception]]
+[[BioPlausiblePredictiveCoding]]
 [[BulletTrainScheduling]]
 [[BurstSuppression]]
 [[ContinuousControlConversion]]

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[CorticalWaveRouting]]
 [[DelayAwareSpikeEventDelivery]]
 [[EnergyEfficientSNN]]
+[[EventCameraTemporalEncoding]]
 [[Event_Driven_Architecture]]
 [[Interconnect_Routing]]
 [[Network_on_Chip]]
@@ -39,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeEncoding]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
+[[iNEST_Interconnect]]
 [[iNEST_Neuromorphic_Integration]]
 
 ## Sources

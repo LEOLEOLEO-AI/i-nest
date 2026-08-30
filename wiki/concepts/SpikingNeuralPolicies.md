@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[SparseCodingEfficiency]]
 [[Spike_Event_Driven_Attention]]
 [[Spiking_Neural_Network]]
+[[StructuredTemporalAttention]]
 [[iNEST]]
 
 ## Sources

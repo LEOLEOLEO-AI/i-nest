@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveFrequencyResonateAndFire]]
 [[AtomicGeometryEncoding]]
 [[BrownianCastleInterface]]
+[[CrossLayer_SignalRouting]]
 [[EnsembleSparsity]]
 [[Interconnect_Routing]]
 [[LowRankPerturbation]]

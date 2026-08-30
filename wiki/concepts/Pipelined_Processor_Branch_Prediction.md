@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[FractureMechanism]]
 [[GeneralIntelligenceSubstrate]]
 [[Generative_Graph_Models]]
+[[MantelTest_SignCorrection]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[Reservoir_Computing]]

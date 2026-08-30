@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenTrajectoryEncoding]]
 [[Heterogeneous_Integration]]
 [[InNetworkRadarProcessing]]
+[[Intelligence_Emergence]]
 [[Memory_Wall]]
 [[Memristor_Synapse]]
 [[ModelOptimization]]
@@ -43,6 +44,8 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[忆阻器]]
 [[智能涌现]]
+[[涌现]]
+[[神经形态计算突破：脉冲神经网络实现机器人超低功耗定位新范式]]
 [[类脑芯片]]
 
 ## Sources

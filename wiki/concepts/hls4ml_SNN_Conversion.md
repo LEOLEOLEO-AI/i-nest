@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossLayer_SignalRouting]]
 [[Deep_SNN_Trainability]]
 [[Emergent_Intelligence_Threshold]]
+[[EnergyEfficientNeuromorphic]]
 [[EventBasedMotionDeblurring]]
 [[EventDrivenModularArchitecture]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]

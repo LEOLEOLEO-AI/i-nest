@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[ShortTermMemoryReservoir]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[Temporal_Information_Processing]]
 [[iNEST]]
 [[memristor device]]
 

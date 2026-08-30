@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Crossover_Physics]]
 [[Inference_Workload_Profiling]]
 [[ManyBodyLocalization]]
+[[Negative_Result_Retention]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[soc]]

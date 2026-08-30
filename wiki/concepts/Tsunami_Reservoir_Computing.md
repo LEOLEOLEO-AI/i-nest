@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AsymmetricStochasticInteractions]]
 [[AtomicVaporNonlinearity]]
 [[AttentionMap_DifferenceResidual]]
+[[Biomanufacturing_Control_Loop]]
 [[Complex_System_Theory]]
 [[Compressed_Glass_Network]]
 [[ConnectivityDerivedReservoir]]

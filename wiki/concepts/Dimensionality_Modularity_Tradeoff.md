@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Topology_Mapping]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Intelligence_Emergence]]
+[[MatrixShapePhaseTransition]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[NonreciprocalQuasiperiodicLattice]]

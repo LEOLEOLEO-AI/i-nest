@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[Cryogenic_Syndrome_Compression]]
 [[DataProvenanceIntegrity]]
+[[Deep_Network_Architecture_Invariant]]
 [[DynamicsMatchedReservoir]]
 [[Emergent_Reservoir_Topology]]
 [[Heterogeneous_Integration]]
@@ -56,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC_iNEST_Interconnect]]
 [[complex system]]
 [[iNEST]]
+[[iNEST_Interconnect]]
 [[residual connection]]
 
 ## Sources

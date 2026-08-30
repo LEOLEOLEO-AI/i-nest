@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[BulletTrainScheduling]]
 [[CirculateFiringNeuron]]
 [[Contested_Prior_Resolution]]
+[[Continuous_Control_Spiking_Stability]]
 [[Criticality]]
 [[DelayAwareSpikeEventDelivery]]
 [[DiscreteContinuous_Unification]]

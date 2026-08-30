@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[ImmobilizationStabilityEnhancement]]
 [[LatencyGradientDescent]]
+[[NoC_EventRouting]]
 [[PPT]]
 [[SNN]]
 [[Spiking_Neural_Network]]

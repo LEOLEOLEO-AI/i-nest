@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[SequenceAwareSpikingDetection]]
 [[SpikingRecurrentCells]]
+[[SpikingStateSpaceModel]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 [[spiking neural network]]

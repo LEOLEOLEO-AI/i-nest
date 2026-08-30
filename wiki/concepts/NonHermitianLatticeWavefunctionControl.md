@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[NontrivialBandTopology]]
 [[NontrivialBinaryCombinatorialProblems]]
 [[RealTimeClassification]]
+[[RelocationOverheadModel]]
 [[Representation_Learning_Generalization]]
 [[SpikingTopologyEvolution]]
 [[Spiking_Neural_Network]]

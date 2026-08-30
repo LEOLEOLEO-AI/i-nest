@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Decoupled_Priors]]
 [[EndToEndDesignAutomation]]
 [[Environmental_Capability_Context]]
+[[FerroelectricMemoryCell]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
 [[Intelligent_Computing_Infrastructure]]

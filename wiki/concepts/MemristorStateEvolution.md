@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Photopolymerization_Printing]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
+[[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[神经网络]]
 
 ## Sources

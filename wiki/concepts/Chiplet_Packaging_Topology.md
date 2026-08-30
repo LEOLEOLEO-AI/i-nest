@@ -48,11 +48,11 @@ Auto-extracted concept from raw material compilation.
 [[OnDie_Fusion]]
 [[Photonic_Chiplet_Interconnect]]
 [[STDP_Plasticity]]
+[[SerDes_Bandwidth_Convergence]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[advanced packaging]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

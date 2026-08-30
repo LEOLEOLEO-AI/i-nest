@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspiredInterception]]
 [[BulletTrainScheduling]]
 [[CoDesigned_SNN]]
+[[CoDesigned_SNN_Online_Learning]]
 [[Criticality]]
 [[Neuromorphic_Computing]]
 [[SNN]]

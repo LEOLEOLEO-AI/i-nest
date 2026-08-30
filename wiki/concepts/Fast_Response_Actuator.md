@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[ConnectomicDevelopmentalTrajectory]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
+[[Continuous_Control_Spike_Timing_Sensitivity]]
 [[CorticalWaveRouting]]
 [[Environmental_Capability_Context]]
 [[EventCameraTemporalEncoding]]

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[BioInspiredInterceptionTask]]
 [[BioInspiredInterception]]
+[[BioPlausiblePredictiveCoding]]
 [[BulletTrainScheduling]]
 [[BurstSuppression]]
 [[CoOptimizedMappingScheduling]]

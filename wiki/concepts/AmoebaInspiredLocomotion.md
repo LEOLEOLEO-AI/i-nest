@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[MoE_Routing]]
 [[Neuromorphic_Computing]]
 [[ProjectiveMeasurementFeedback]]
+[[ReconfigurableSNNTopology]]
 [[ReconfigurableSpikingRouting]]
 [[SDPrompt_Guided_Dynamic_Expert_Fusion]]
 [[SNN]]

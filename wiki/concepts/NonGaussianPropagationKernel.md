@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Synapse]]
 [[NestedRepresentation]]
 [[Neuromorphic_Computing]]
+[[RecurrentSpikingDynamics]]
 [[Reservoir_Computing]]
 [[Spiking_Neural_Network]]
 [[emerging CMOS memristor]]

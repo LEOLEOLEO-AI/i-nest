@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CXL_Deployment_Transition]]
 [[ChipletTrafficAwareScheduling]]
 [[Chiplet_Heterogeneous_Integration]]
+[[CrossDomain_Integration]]
 [[CrossbarArrayPrecision]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]

@@ -54,8 +54,10 @@ Auto-extracted concept from raw material compilation.
 [[SystemLevelNonlinearity]]
 [[TemporalDynamicsModeling]]
 [[Textbook_Paradigm_Definition]]
+[[UniversalIntelligence_Emergence]]
 [[heterogeneous_integration]]
 [[iNEST]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

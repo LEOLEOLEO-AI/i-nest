@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_iNEST]]
 [[STDP_iNEST_Memristive]]
 [[SelfOrganizedOscillatoryLearning]]
+[[SpectralSupportAnalysis]]
 [[SpikingTopologyEvolution]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

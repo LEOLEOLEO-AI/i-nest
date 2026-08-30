@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Biologically_Plausible_Learning_Rules]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[ConverterDrivenStability]]
+[[CriticalityDrivenAdaptation]]
 [[Criticality]]
 [[DataDrivenCellularAxis]]
 [[Emergent_Intelligence_Threshold]]

@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[RenormalizationGroup_ScalingLaws]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
+[[STDP_Plasticity]]
 [[SpatiotemporalComplexityIndex]]
 [[complex system]]
 [[iNEST]]

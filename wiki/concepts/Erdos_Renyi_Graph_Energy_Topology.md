@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[ArtificialProprioception]]
 [[AutonomousAdaptation]]
 [[BackflowTransformation]]
+[[BandedConnectivityModel]]
 [[BeyondPTSymmetry]]
 [[BigBrainCellularAxis]]
 [[Biologically_Plausible_Learning_Rules]]

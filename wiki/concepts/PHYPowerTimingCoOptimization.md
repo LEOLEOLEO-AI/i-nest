@@ -43,17 +43,18 @@ Auto-extracted concept from raw material compilation.
 [[Intelligent_Power_Management]]
 [[Koopman_Constants_Of_Motion]]
 [[MetaFAIR_ArchitectureDiscovery]]
+[[MixedLabyrinthFractal]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
 [[RandomisedMixedLabyrinthFractals]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SiC_GaN_Power_Integration]]
+[[State_Transition_Formalism]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

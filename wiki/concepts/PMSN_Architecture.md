@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[ChannelEventSparsity]]
 [[Complex_System_Theory]]
 [[Cross_Node_Event_Propagation]]
+[[Distributed_Spike_Communication]]
 [[FlexibilityThreshold]]
 [[Neuromorphic_Computing]]
 [[OnChipWeightUpdate]]

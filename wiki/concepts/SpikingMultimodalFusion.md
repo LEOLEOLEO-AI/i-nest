@@ -29,7 +29,9 @@ Auto-extracted concept from raw material compilation.
 [[GeometricNeuromorphicFusion]]
 [[GradientBasedLearningLocalization]]
 [[In_Network_Neuromorphic]]
+[[Interconnect_Routing]]
 [[MagnitudePhaseComputationalModel]]
+[[Network_on_Chip]]
 [[NeuromorphicAttentionScaling]]
 [[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
@@ -37,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[TCC]]
+[[ThresholdBasedSpikeEncoding]]
 [[iNEST]]
 [[spiking neural network]]
 

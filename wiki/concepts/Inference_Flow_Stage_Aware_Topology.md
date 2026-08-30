@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[BifurcationCandidate]]
 [[Cascading_Failure_Mitigation]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_NoC_Fabric]]
 [[Chiplet_Stacking]]
 [[Complex_System_Theory]]
 [[CrossLayer_SignalRouting]]
@@ -50,7 +51,6 @@ Auto-extracted concept from raw material compilation.
 [[TSVInterconnectReliability]]
 [[TopologyAware_Routing]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

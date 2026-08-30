@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[SurrogateGradientAsymmetry]]
 [[Swarm_Coordination]]
 [[SynapticReinforcementConsolidation]]
+[[Syncytial_Mesh_Model]]
 [[TCC]]
 [[Technical_Program_Officer_Autonomy]]
 [[TemporalCreditAssignment]]

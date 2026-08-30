@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Coupling_Strength_Encoding]]
 [[DARPA_ProjectManager_Model]]
 [[ErrorSuppressedPipeline]]
+[[ExplosiveTransitionThreshold]]
 [[Fixed_Reservoir_Unitary]]
 [[InNetworkSignalRecovery]]
 [[IntegrationProspectsForVLSI]]

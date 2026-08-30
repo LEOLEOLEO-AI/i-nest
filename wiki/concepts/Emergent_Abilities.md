@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
+[[EventCameraActionRecognition]]
 [[Free_Energy_Principle_Network]]
 [[FunctionalInterfaceBlock]]
 [[FunctionalInterfaceBlocks]]

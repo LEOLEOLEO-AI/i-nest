@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[NearThreeDimensionalCriticality]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
+[[NonEquilibriumPhaseTransition]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Self_Organized_Criticality]]
 [[Synaptic_Plasticity]]

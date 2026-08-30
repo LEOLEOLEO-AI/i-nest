@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicCentralitySteering]]
 [[EvolvingArchitectureDynamics]]
 [[HybridCouplingThermosensitiveNetwork]]
+[[JunctionCenteredRouting]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[OpenLearningEcosystem]]

@@ -22,7 +22,6 @@ Auto-extracted concept from raw material compilation.
 
 [[Brain_Connectome]]
 [[Connectome_Inspired_Architecture]]
-[[Connectome_Verification_Protocol]]
 [[DataProvenanceIntegrity]]
 [[Krakencoder_Embedding]]
 [[Network_Topology_Design]]

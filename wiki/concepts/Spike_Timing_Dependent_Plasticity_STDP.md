@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Nanoencapsulation_Stability_Bioavailability]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]
+[[SDDE_Attractor_Emergence]]
 [[SNN]]
 [[STDP_Plasticity]]
 [[SelfOrganizedRobustness]]

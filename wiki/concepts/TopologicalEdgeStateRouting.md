@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Communication_Trace_Diagnostics]]
 [[EdgeIoTEnergyAwareness]]
 [[Heterogeneous_Integration]]
+[[In_Package_Neuromorphic_Integration]]
 [[IndexOrderingOptimization]]
 [[InkjetPrintedElectrochemicalSensors]]
 [[Intelligence_Emergence]]

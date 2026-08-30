@@ -28,6 +28,7 @@ SDI, STDP, TCC, iNEST, interconnect, neuromorphic, topology, 互连, 拓扑, 晶
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
+[[iNEST 理论体系系统总结报告：从物理第一性原理到晶圆级智能涌现]]
 [[iNEST]]
 [[智能涌现]]
 [[涌现]]

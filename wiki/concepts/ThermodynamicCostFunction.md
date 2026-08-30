@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[SDDE_Attractor_Emergence]]
 [[ShortTermMemoryReservoir]]
 [[Synaptic_Plasticity]]
+[[Temporal_Information_Processing]]
 [[iNEST]]
 [[reservoir computing]]
 

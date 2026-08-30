@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Activity_Energy_Tradeoff]]
 [[Baseline_Draft_Status]]
 [[BurstInterleaving]]
+[[Chiplet_Integration_Route]]
 [[Complex_System_Theory]]
 [[EventDrivenSensoryEncoding]]
 [[EventDrivenTracking]]

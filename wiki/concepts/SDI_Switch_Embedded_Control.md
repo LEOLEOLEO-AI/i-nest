@@ -37,9 +37,11 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect_Topology]]
 [[Complex_System_Theory]]
 [[ComponentLevelMolding]]
+[[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
+[[Nonlinear_Gain]]
 [[OptomechanicalNonlinearity]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
@@ -49,7 +51,6 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[iNEST]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

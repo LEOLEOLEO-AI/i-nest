@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
+[[Linguistic_Phase_Transition]]
 [[MultibodyInteractionCascade]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicHardware]]

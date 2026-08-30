@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[BioInspiredInterceptionTask]]
 [[BioInspiredInterception]]
+[[BioPlausiblePredictiveCoding]]
 [[BulletTrainScheduling]]
 [[Criticality]]
 [[DelayAwareSpikeEventDelivery]]

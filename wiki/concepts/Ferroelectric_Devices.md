@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[CircadianGateModulation]]
 [[Comparative_Formulation_Analysis]]
+[[ConsciousIntegration]]
 [[Critical_Exponent_Scaling]]
 [[DendriticReservoirState]]
 [[DualImpactEvaluation]]

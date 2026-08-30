@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_SNN_Trainability]]
 [[DendriticTaskPartitioning]]
 [[ExcitatoryInhibitoryOscillatoryNetwork]]
+[[HierarchicalSpikePropagation]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]

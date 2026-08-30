@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[向大脑学习智能本质，探索通用 AI 的另一条可行路径]]
 [[夏强飞一天2篇Nature大子刊：感存算一体，忆阻器阵列模拟计算]]
 [[忆阻器]]
+[[智能涌现]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
 [[神经形态脉冲大语言模型（NSLLM）]]

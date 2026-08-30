@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Ferroelectric_Devices]]
 [[HybridResistiveMemoryCIM]]
 [[IMPLYMemristiveISA]]
+[[In_Package_Neuromorphic_Integration]]
 [[Long_Range_Interactions]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

@@ -39,6 +39,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[InSensorMemoryComputing]]
 [[In_Package_Neuromorphic_Integration]]
 [[ModelOptimizationFederated]]
+[[ModelOptimization]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[Spiking_Neural_Network]]

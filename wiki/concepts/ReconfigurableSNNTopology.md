@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[DTGA]]
 [[DynamicalSelfDualCriticality]]
 [[EpidemicThreshold]]
+[[FlexibleManifoldReconfiguration]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[NeuromorphicRadarFrontend]]

@@ -1,35 +1,35 @@
 # Knowledge Health Report
 
 **Generated**: 2026-08-31
-**Last Compile**: 2026-08-30
+**Last Compile**: 2026-08-31
 
 ## Stats
-- **Total Concepts**: 5114
+- **Total Concepts**: 5142
 - **Total Articles**: 1076
-- **Orphan Concepts**: 2043
+- **Orphan Concepts**: 1973
 - **Knowledge Graph Density**: High
 
 ## Orphan Concepts (no incoming links)
-- [[InputNoisePerturbationRobustness]]
-- [[LabyrinthReservoir]]
-- [[CentralityAsControlInput]]
-- [[HallmarksOfCancer]]
-- [[TopologyPreservingProjection]]
-- [[CriticalityComputationTradeoff]]
-- [[GraphTopologyMetrics]]
-- [[OlfactorySystemModeling]]
-- [[SISModelEpidemic]]
-- [[TwoDimensionalQuasicrystal]]
-- [[OrderParameterAnalogy]]
-- [[SDSoW_Industry_Ecosystem_Collaboration]]
-- [[SmallWorldReservoir]]
-- [[OptimalNetworkSynthesis]]
-- [[Heterogeneous_Chiplet_DSE]]
-- [[Physical_Intelligence_Verification]]
-- [[NoiseInjectedSpiking]]
-- [[SelfEvolvingMAS]]
-- [[SimulationalScalingAnalysis]]
-- [[DisorderSuppressionMechanism]]
+- [[TopologyDriven_Learning]]
+- [[Brainnews]]
+- [[Network_Laplacian_Dynamics]]
+- [[Coastal_Resilience_Feedback_Loop]]
+- [[DLRM_Optimized_Dataflow]]
+- [[QuantumCriticalAmorphousCarbon]]
+- [[CrossPopulation_CentralityAlignment]]
+- [[StochasticReservoirState]]
+- [[SoftmaxFreeSpikingLM]]
+- [[Representation_Convergence_Index]]
+- [[NonHermitianTopologicalInvariant]]
+- [[Neural_Immune_Signaling_Plasticity]]
+- [[EndToEndDesignAutomationFlow]]
+- [[SNN_NonIdeality_Modeling]]
+- [[Stochastic_Computing_SNN]]
+- [[SemanticServiceContract]]
+- [[RealTime_Forecasting]]
+- [[DeepSNNTraining]]
+- [[VectorSymbolic_Architecture]]
+- [[Persistent_Homology_Neuron]]
 
 ## Research Gaps
 

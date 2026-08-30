@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[SynapticConsolidation]]
 [[Synaptic_Plasticity]]
+[[TemporalSparsityExploitation]]
 [[iNEST]]
 [[neuromorphic interconnect]]
 [[spiking neural network]]

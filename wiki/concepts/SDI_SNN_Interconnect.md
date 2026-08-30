@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AIRA_NeuralArchSearch]]
 [[Bidirectional_Temporal_Enhancement]]
+[[Chip-Hardware — 全景导航 (Map of Content)]]
 [[ComplexValuedSNN]]
 [[DendriticTaskPartitioning]]
 [[Interconnect_Routing]]

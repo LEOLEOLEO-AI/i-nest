@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[CSPNeuralEncoding]]
 [[CirculateFiringNeuron]]
 [[ClinicalPredictionMapping]]
+[[ClinicalTranslationBridge]]
 [[Complex_System_Theory]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]

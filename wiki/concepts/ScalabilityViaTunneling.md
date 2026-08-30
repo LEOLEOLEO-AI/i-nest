@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AI-ML — 全景导航 (Map of Content)]]
 [[AdvancedPackagingInterconnect]]
 [[Analog_InMemory_Processing]]
+[[BackpropagationFreeLearning]]
 [[ByteDance_Ada_Chip]]
 [[Complex_System_Theory]]
 [[Cross_Substrate_Scaling]]
@@ -44,8 +45,8 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Packaging]]
 [[iNEST]]
+[[iNEST_Wafer]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

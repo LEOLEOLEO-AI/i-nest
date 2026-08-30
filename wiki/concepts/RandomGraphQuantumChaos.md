@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
+[[TemporalPrecisionScheduling]]
 [[TopologicalAndersonChernInsulator]]
 [[TopologicalObservers]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]

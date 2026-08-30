@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Assisted_Energy_Management]]
 [[AdaptiveMeasurementProtocol]]
 [[Agile_Resilient_Defense_Ecosystem]]
+[[AlternativeBridgingModels]]
 [[Bio_plausible_Neuromorphic_Disturbance_Observer]]
 [[Biomanufacturing_Control_Loop]]
 [[BurstTemporalPlasticity]]

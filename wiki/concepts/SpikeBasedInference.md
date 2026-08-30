@@ -40,8 +40,10 @@ Auto-extracted concept from raw material compilation.
 [[SpikingCorrespondenceMatching]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
+[[TemporalBatchSynchronization]]
 [[ThresholdBasedSpikeEncoding]]
 [[iNEST]]
+[[iNEST_Interconnect]]
 [[temporal coding]]
 
 ## Sources

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[ArchitecturalCondition]]
 [[AvalancheBranchingRatio]]
 [[BranchingRatio]]
+[[Capability_Reserve_Index]]
 [[Cognitive_Relapse_Decoupling]]
 [[CollectiveStateTopology]]
 [[Continual_Learning_Modularity]]

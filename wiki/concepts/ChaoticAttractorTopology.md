@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[ConnectomeWiringSeparability]]
 [[Connectome]]
 [[Connectome_Reservoir]]
+[[DevelopmentalConnectomeTemporalGraph]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]

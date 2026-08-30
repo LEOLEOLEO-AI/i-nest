@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[InterDomain_Synergy]]
 [[Neural_Manifold_Crystallization]]
 [[Neuromorphic_Computing]]
+[[OpenLearningEcosystem]]
 [[analog computation]]
 [[iNEST]]
 

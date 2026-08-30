@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Hyper_Dimensional_Computing]]
 [[Master_SDDE]]
 [[Mesoscale_Heterogeneous_Integration]]
+[[Microbiome_Immune_Endocrine_Interplay]]
 [[Microgrid_Optimization]]
 [[NCL神经计算定律详解]]
 [[Network_Topology_Design]]

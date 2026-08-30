@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Sequence_Generator]]
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
+[[Syncytial_Mesh_Model]]
 [[TCC]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]

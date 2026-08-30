@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Alpha_Coefficient_Phase_Transition_Amplification]]
 [[ArbitraryWavefunctionConfigurability]]
 [[BCM滑动阈值]]
+[[BoseCondensateAnalogy]]
 [[CST_Synergy_Coordination]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
@@ -46,7 +47,6 @@ Auto-extracted concept from raw material compilation.
 [[scaling laws]]
 [[tools]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

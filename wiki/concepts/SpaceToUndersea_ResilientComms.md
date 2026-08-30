@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_TCC_Chiplet]]
 [[STDP_Plasticity]]
 [[ScaleFreeNetwork]]
+[[SelfHealing_Interconnect]]
 [[SmallWorldNetworks]]
 [[SuperparamagneticSwitchingRate]]
 [[Synaptic_Plasticity]]
@@ -58,8 +59,8 @@ Auto-extracted concept from raw material compilation.
 [[chiplet interconnect]]
 [[complex system]]
 [[iNEST]]
+[[iNEST_Wafer]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

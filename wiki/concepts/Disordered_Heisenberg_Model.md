@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_InMemory_Processing]]
 [[AndersonTransition]]
 [[AnomalousSpinTransport]]
+[[Asymptotic_Exact_Solution]]
 [[BigBrainCellularAxis]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
@@ -50,11 +51,11 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[Topological_State_Encoding]]
 [[chiplet interconnect]]
+[[quantum spin glass phase]]
 [[quantum spin glass]]
 [[智能涌现]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

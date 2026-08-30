@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[IntrinsicDynamicsAutonomy]]
 [[Neural_Substrate_Independence]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_MuscleInterface]]
 [[Reservoir_Computing]]
 [[SexBasedConnectomeDifferences]]
 [[Sex_Network_Interaction]]

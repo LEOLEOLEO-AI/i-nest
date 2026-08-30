@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[Contested_Prior_Resolution]]
 [[CrossLayer_SignalRouting]]
+[[EnergyEfficientNeuromorphic]]
 [[EventCameraTemporalEncoding]]
 [[EventDrivenModularArchitecture]]
 [[Interconnect_Routing]]

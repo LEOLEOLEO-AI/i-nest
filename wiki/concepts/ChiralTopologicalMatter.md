@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Anisotropic_Correlation_Length]]
 [[CST_Equation]]
 [[CST计量仪]]
+[[ChipletRoutingFabric]]
 [[Complex_System_Theory]]
 [[Decoupled_Priors]]
 [[Free_Energy_Principle_Network]]
@@ -47,7 +48,6 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[DimensionalityReductionForNetworkControl]]
 [[DistinctReentrantPhases]]
+[[ERI_2_0_Strategy]]
 [[Intelligence_Emergence]]
 [[ManyCore_Neuromorphic_Scaling]]
 [[Network_Topology_Design]]
@@ -44,7 +45,6 @@ Auto-extracted concept from raw material compilation.
 [[fractal scaling]]
 [[iNEST]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[3DHI_Interconnect]]
 [[AI_FullSpectrum_Strategy]]
 [[Additive_Manufacturing_Topology]]
+[[AdvancedPackagingInterconnect]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[BondMovingDecimation]]

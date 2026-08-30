@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[BackpropagationFreeLearning]]
 [[Baseline_Draft_Status]]
+[[BoundaryObject_Abstraction]]
 [[CircuitTopologySearch]]
 [[CrossLingualIdiomGraph]]
 [[DelayTolerantNetworkUAV]]

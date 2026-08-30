@@ -40,10 +40,12 @@ Auto-extracted concept from raw material compilation.
 [[FatalityDrivenRewiring]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[Interconnect_Routing]]
 [[Logic_Folding]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[OnChipOpticalTweezers]]
+[[Packaging_Aware_NoC_Design]]
 [[SDI_Bond]]
 [[SDI_Control_Plane_Offload]]
 [[SDI_TopologicalControl]]
@@ -54,7 +56,6 @@ Auto-extracted concept from raw material compilation.
 [[VectorFlowField]]
 [[topology reconfiguration]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

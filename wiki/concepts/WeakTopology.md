@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_SDI_Topology]]
 [[SDI_Bond]]
 [[SDI_NPU_NoC_Integration]]
+[[SDI_Topology]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]

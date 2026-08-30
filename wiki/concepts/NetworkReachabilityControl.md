@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration_Route]]
 [[Complex_System_Theory]]
 [[FirstPrinciples_Derivation]]
+[[Hebbian_Embedding_Dynamics]]
 [[Heterogeneous_Integration]]
 [[Loihi2_OnChip_Learning]]
 [[MachineLearningNanomaterialDiscovery]]

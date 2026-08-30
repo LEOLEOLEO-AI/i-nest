@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[LatencyGradientDescent]]
 [[LearningTransition]]
+[[MembranePotentialAlignment]]
 [[SNN]]
 [[SpikeEncoding]]
 [[Spiking_Neural_Network]]

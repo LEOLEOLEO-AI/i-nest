@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[DendriticReservoirState]]
 [[Dendritic_Compartmentalization]]
 [[Dynamic_Expert_Fusion]]
+[[Evolutionary_Structure_Computability]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]

@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[MetaFAIR_ArchitectureDiscovery]]
 [[NearSensorComputing]]
 [[Network_Topology_Design]]
+[[NeuromorphicTransformerPipeline]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[TCC]]

@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossbarArrayIntegration]]
 [[Decoupling_Mechanism]]
 [[DendriticReservoirState]]
+[[DualDrivenHybridNetwork]]
 [[Heterogeneous_Integration]]
 [[Reservoir_Computing]]
 [[Reservoir_State_Encoding]]

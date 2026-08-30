@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[ChipletPHYAccuracy]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Security_Architecture]]
 [[Complex_System_Theory]]
 [[DarkSiliconAwarePowerGating]]
 [[Heterogeneous_Integration]]
@@ -45,7 +46,6 @@ Auto-extracted concept from raw material compilation.
 [[SiCSubstrateIntegration]]
 [[TCC]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

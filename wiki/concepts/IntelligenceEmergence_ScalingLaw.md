@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[ComponentLevelMolding]]
 [[Crystallized_Neural_Manifolds]]
+[[ERI_2_0_Strategic_Framework]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Nonlinear_Dynamics]]
 [[Heterogeneous_Synaptic_Motifs]]

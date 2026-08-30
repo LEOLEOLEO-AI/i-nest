@@ -45,11 +45,11 @@ Auto-extracted concept from raw material compilation.
 [[JointFlightRoutingOptimization]]
 [[LLMDrivenPathSelection]]
 [[Network_Topology_Design]]
+[[OpenLearningEcosystem]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[topological Anderson insulator]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

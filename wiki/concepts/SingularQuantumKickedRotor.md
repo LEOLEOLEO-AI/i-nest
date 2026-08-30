@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[CollectiveStateTopology]]
 [[CommunicationAwareComputeRelocation]]
 [[FatalityDrivenPruning]]
+[[FunctionalRelevanceDrivenSelfOrganization]]
 [[Network_Topology_Design]]
 [[TCC]]
 

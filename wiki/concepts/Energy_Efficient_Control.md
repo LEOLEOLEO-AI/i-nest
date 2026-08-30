@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Topology_Mapping]]
 [[Heterogeneous_Integration]]
 [[HierarchicalNetworkPartitioning]]
+[[HypergraphNeuralDynamics]]
 [[Intelligence_Emergence]]
 [[InterconnectConstrainedEmergence]]
 [[L2_L3_Reconfigurability]]

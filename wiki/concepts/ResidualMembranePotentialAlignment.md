@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Course_Based_FPGA_Prototyping]]
 [[CriticalityDrivenStateTransition]]
 [[Criticality]]
+[[DirectSNNTraining]]
 [[Interconnect_Routing]]
 [[MembranePotentialAlignment]]
 [[Neuromorphic_Computing]]

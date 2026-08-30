@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalBranching]]
 [[CriticalStateInformationMaximization]]
 [[CriticalityDrivenStateTransition]]
+[[CriticalityInNetworkComputing]]
 [[CriticalityOffCriticalityTransition]]
 [[Criticality]]
 [[Intelligence_Emergence]]

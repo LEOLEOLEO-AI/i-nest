@@ -41,10 +41,12 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[SDSoW_Strategic_Planning]]
+[[Spatiotemporal_Synergy_Complexity]]
 [[TCC]]
 [[TCC_iNEST_Interconnect]]
 [[analog computation]]
 [[iNEST]]
+[[iNEST_Interconnect]]
 [[neuromorphic interconnect]]
 
 ## Sources

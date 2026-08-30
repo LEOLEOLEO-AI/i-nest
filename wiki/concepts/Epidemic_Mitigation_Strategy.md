@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[DendriticReservoirState]]
 [[DifferentiableLifting]]
 [[Dynamic_Expert_Fusion]]
+[[EcosystemTopologyCoupling]]
 [[EmergentTaskDecomposition]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]

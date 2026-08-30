@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Ant_Swarm_Functional_Control]]
 [[Architectural_Conditioning]]
 [[Baseline_Draft_Status]]
+[[BioPlausiblePredictiveCoding]]
 [[BurstGatedRouting]]
 [[Continual_Learning_Modularity]]
 [[Criticality]]

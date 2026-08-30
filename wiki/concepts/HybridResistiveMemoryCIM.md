@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Memory_Computing]]
 [[In_Package_Neuromorphic_Integration]]
 [[Intelligence_Emergence]]
+[[Long_Range_Interactions]]
 [[Memristor_Synapse]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]

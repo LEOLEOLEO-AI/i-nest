@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Agent_Workflow_Automation]]
 [[AirportNetworkGraphEmbedding]]
 [[Alpha_Coefficient_Phase_Transition_Amplification]]
+[[AmplifyingNetworkTopology]]
 [[BiasEvaluationMetrics]]
 [[Complex_System_Theory]]
 [[Free_Energy_Principle_Network]]
@@ -57,7 +58,6 @@ Auto-extracted concept from raw material compilation.
 [[synaptic plasticity]]
 [[temporalComplexity]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

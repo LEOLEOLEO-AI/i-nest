@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Memory_Wall]]
 [[NCCLCollectiveCommunicationMapping]]
 [[Network_Topology_Design]]
+[[RTC_Primitive]]
 [[RTC_Primitives]]
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
@@ -46,7 +47,6 @@ Auto-extracted concept from raw material compilation.
 [[chiplet interconnect]]
 [[iNEST]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

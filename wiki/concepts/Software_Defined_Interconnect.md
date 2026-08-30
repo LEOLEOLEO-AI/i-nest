@@ -60,10 +60,12 @@ Auto-extracted concept from raw material compilation.
 [[TemperatureSensitivityControl]]
 [[TemporalComplexity]]
 [[TopologyProgramming]]
+[[Topology_Centric_Computing]]
 [[Topology_Centric_Computing_Paradigm]]
 [[chiplet interconnect]]
 [[complex system]]
 [[iNEST]]
+[[iNEST_Wafer]]
 [[residual connection]]
 [[temporalComplexity]]
 

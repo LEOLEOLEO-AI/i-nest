@@ -41,10 +41,10 @@ Auto-extracted concept from raw material compilation.
 [[Inference_Workload_Profiling]]
 [[Intelligence_Emergence]]
 [[MetaHardwareAbstraction]]
+[[Microsecond_Link_Reconfiguration]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

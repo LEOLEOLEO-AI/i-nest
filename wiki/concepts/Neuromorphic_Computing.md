@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[MultiplicativeGain]]
 [[National_Innovation_Center_Role]]
 [[Network_Topology_Design]]
+[[Neuromorphic computing architecture]]
 [[Neuromorphic computing]]
 [[Neuromorphic_Integration]]
 [[Neuromorphic_computing]]
@@ -77,3 +78,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- Neuromorphic_Computing (merged 2026-08-31)

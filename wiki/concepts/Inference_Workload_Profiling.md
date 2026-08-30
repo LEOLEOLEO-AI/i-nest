@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[InputAdaptiveComputation]]
 [[Intelligence_Emergence]]
+[[IsolatedKVBandwidth]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NichePreservationMechanism]]
@@ -54,7 +55,6 @@ Auto-extracted concept from raw material compilation.
 [[TopologyProgramming]]
 [[VectorFlowField]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

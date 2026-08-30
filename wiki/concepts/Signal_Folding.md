@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Emerging_CMOS_Memristor_Devices]]
 [[EnergyResourceEfficiencyCoOptimization]]
 [[FCDC_Architecture]]
+[[FerroelectricMemoryCell]]
 [[Ferroelectric_ComputeInMemory]]
 [[Ferroelectric_Devices]]
 [[HybridResistiveMemoryCIM]]

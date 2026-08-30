@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Gaussian_Splatting_Streaming]]
 [[Interconnect_Routing]]
 [[MoE_Routing]]
+[[Nanomaterial_Discovery_ML]]
 [[NeuromorphicRL]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]

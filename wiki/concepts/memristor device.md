@@ -45,6 +45,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Distributed_Spike_Communication]]
 [[Environmental_Capability_Context]]
 [[Heterogeneous_Integration]]
+[[LIF_Neuron_Model]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]

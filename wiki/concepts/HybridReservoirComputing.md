@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Compressed_Glass_Network]]
 [[CouplingMatrixRecovery]]
 [[CrashHotspotForecasting]]
+[[CrossInstitutionalNetwork]]
 [[Crystallized_Neural_Manifolds]]
 [[DivergentHigherAreaRanking]]
 [[HardwareAware_DesignSpace]]

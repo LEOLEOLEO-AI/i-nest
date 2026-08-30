@@ -12,3 +12,14 @@ NoC, SDI, TCC, iNEST, 拓扑, 晶圆
 
 ---
 *Auto-compiled by wiki_compiler.py*
+
+
+## Related Concepts
+
+[[Network_Topology_Design]]
+[[Network_on_Chip]]
+[[SDI_Bond]]
+[[TCC]]
+[[Wafer_Scale_Integration]]
+[[Wafer_Scale_Neuromorphic]]
+[[iNEST]]

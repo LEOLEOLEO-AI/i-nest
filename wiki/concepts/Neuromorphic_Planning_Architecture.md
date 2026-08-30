@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[RenormalizationGroup_ScalingLaws]]
+[[SDI_iNEST_Interconnect]]
 [[SNN]]
 [[ST_SNN]]
 [[Self_Organized_Criticality]]

@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_InMemory_Processing]]
 [[Architectural_Conditioning]]
 [[AstrocyteInspiredRepair]]
+[[BCM滑动阈值]]
 [[BigBrainCellularAxis]]
 [[CST计量仪]]
 [[Chiplet_Based_Neuromorphic_Integration]]
@@ -59,7 +60,6 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
+[[TemporalPrecisionScheduling]]
 [[iNEST]]
 [[soc]]
 [[神经网络]]

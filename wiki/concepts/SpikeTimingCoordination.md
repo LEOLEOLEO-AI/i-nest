@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenSignalEncoding]]
 [[EventDrivenTracking]]
 [[Event_Driven_Architecture]]
+[[Event_Driven_Computation]]
 [[Interconnect_Routing]]
 [[LocalQuantumLearningRule]]
 [[Loihi2_SpikeEncoding]]

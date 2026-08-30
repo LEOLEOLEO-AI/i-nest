@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[ClocklessReconfigurableChip]]
 [[ComplexValuedSNN]]
 [[DeeplySupervisedSpiking]]
+[[DendriticTaskPartitioning]]
 [[Emergent_Intelligence_Threshold]]
 [[GradientFreeSNNTraining]]
 [[InNetworkAgentRewiring]]

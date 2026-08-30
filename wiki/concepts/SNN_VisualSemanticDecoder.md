@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CombinedImportanceScoring]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[DataDrivenCellularAxis]]
+[[DrivenDissipativeDynamics]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[GradientFreeSNNTraining]]

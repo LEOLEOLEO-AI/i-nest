@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[DevelopmentalNeuromorphicAdaptation]]
 [[FirstPrinciples_Derivation]]
 [[HippocampalNeocorticalIntelligence]]
+[[MobilityEdge]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]

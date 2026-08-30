@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CSI_Temporal_Dynamics]]
 [[Complex_System_Theory]]
 [[Compressed_Glass_Network]]
+[[CouplingMatrixRecovery]]
 [[CrashHotspotForecasting]]
 [[Crystallized_Neural_Manifolds]]
 [[DifferentiableLifting]]

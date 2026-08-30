@@ -40,12 +40,12 @@ Auto-extracted concept from raw material compilation.
 [[HarvestProtocol]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[MeasurementEfficientProtocol]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[WeedIdentification]]
 [[iNEST]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

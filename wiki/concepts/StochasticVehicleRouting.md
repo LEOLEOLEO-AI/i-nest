@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[OpenLearningEcosystem]]
 [[P_Paradigm]]
 [[RedundancyControlledStochasticRouting]]
 [[STDPDrivenConnectivity]]
@@ -50,7 +51,6 @@ Auto-extracted concept from raw material compilation.
 [[Topology_Centric_Computing]]
 [[iNEST]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

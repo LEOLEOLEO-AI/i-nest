@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[SelfOrganization]]
 [[Self_Organized_Criticality]]
 [[SpikeBasedGradientDescent]]
+[[SpikePacketRouting]]
 [[Spike_Encoding_of_fMRI]]
 [[SpikingTransformer]]
 [[Spiking_Neural_Network]]

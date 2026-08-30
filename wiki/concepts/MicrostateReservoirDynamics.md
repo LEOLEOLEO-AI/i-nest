@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[DataDrivenMaterialDesign]]
 [[Defense_Industrial_Base_Reshaping]]
 [[DiscreteScaleInvariance]]
+[[ErrorSuppressedPipeline]]
 [[NonlinearDynamicalSampling]]
 [[Nonlinear_Gain]]
 [[OpticalReservoirComputing]]

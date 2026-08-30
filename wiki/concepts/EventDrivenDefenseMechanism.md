@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenAutoregression]]
 [[EventDrivenRestoration]]
 [[EventDrivenRiskAssessment]]
+[[EventStrengthEncoding]]
 [[Event_Driven_Architecture]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[FixedOverheadFloor]]

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[NoC_SDI]]
 [[NoC_SDI_Integration]]
+[[PacketRoutingOptimization]]
 [[PhononicBandgapEngineering]]
 [[ReconfigurableSpikingRouting]]
 [[SDI_Bond]]

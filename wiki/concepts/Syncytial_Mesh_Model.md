@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[BrainBodyResonance]]
 [[BrownianCastleInterface]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Criticality]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenMotionDeblurring]]

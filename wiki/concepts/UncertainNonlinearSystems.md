@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[DisorderedNetworkDynamics]]
 [[EdgeFeatureEncoding]]
+[[Emergent_Intelligence_Assembly]]
 [[Emergent_Nonlinear_Dynamics]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[BrainBodyResonance]]
 [[Controlled_Release_Kinetics]]
 [[Dynamic_Expert_Fusion]]
+[[ElectronicWarfareNeuromorphic]]
 [[Emergent_Intelligence_Threshold]]
 [[ExplainableEnergyAI]]
 [[ITP_STDP]]

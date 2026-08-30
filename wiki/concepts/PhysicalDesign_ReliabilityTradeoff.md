@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_NoC_Routing]]
+[[NoC_EventRouting]]
 [[PhysicallyInformedDeepLearning]]
 [[SpikeCodingProbabilisticVariables]]
 [[SpikeTimingPreservation]]

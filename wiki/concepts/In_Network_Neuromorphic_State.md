@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[AI_Faculty_Forum_2026]]
 [[AnisotropicGaussianPrimitives]]
+[[Chiplet_Integration_Route]]
 [[Complex_System_Theory]]
 [[EndToEndTopologyLearning]]
 [[FerroelectricSemiconductorReservoir]]
@@ -49,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Temporal_Computing_Paradigm]]
 [[iNEST]]
 [[neuromorphic computing]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

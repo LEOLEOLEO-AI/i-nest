@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[LargeDeviationTopologicalOrder]]
+[[LossSpikePhenomenon]]
 [[Network_Topology_Design]]
 [[NichePreservationMechanism]]
 [[Nonlinear_Gain]]

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Industrial_Ecosystem]]
 [[AdaptiveDensityControl]]
 [[AdaptiveNetworkResilience]]
+[[Advanced_Packaging_for_Space]]
 [[Bipartite_Interconnect]]
 [[Complex_System_Theory]]
 [[DTGA]]
@@ -43,7 +44,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[WaferLevelPackaging]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

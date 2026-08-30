@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[FerroelectricSynapse]]
 [[Ferroelectric_Devices]]
 [[FixedOverheadCost]]
+[[FixedOverheadPenalty]]
 [[HippocampalNeocorticalIntelligence]]
 [[InNetworkNeuromorphicAdaptation]]
 [[Neuromorphic_Computing]]

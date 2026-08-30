@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[DataDrivenCellularAxis]]
 [[FlagOS_2_0]]
 [[Free_Energy_Topology_Mapping]]
+[[Inference_Workload_Profiling]]
 [[Intelligence_Emergence]]
 [[KV_Cache_to_BoundaryObject]]
 [[MetaFAIR_ArchitectureDiscovery]]
@@ -56,7 +57,6 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[iNEST]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

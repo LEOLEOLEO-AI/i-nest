@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[NeurovascularUnitEngineering]]
 [[SNN]]
 [[SNN_Sparsity_InformationBound]]
+[[SparseHubsCoupling]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[TCC]]

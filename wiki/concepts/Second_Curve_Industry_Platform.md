@@ -26,7 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Complex_System_Theory]]
-[[Complexity_Emergence_Engineering]]
+[[Complexity_Emergence]]
 [[DRBE_MVP_Mainchain]]
 [[DataProvenanceIntegrity]]
 [[Decoupled_Priors]]
@@ -61,6 +61,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[SDSoW_Industry_Alliance]]
+[[SDSoW_Strategic_Planning]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[Second_Curve_Wafer_Industry_Platform]]
@@ -72,6 +73,7 @@ Auto-extracted concept from raw material compilation.
 [[ThermalNoiseHarnessing]]
 [[chiplet interconnect]]
 [[iNEST]]
+[[iNEST_Wafer]]
 [[residual connection]]
 
 ## Sources

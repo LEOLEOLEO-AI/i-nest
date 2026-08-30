@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[NonEquilibriumComputing]]
+[[RecurrentSpikingDynamics]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SelectorFreeHopfieldNetwork]]
 [[Spiking_Neural_Network]]

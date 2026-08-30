@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CrashHotspotForecasting]]
 [[DivergentHigherAreaRanking]]
 [[Globally_Optimal_SNN_Training]]
+[[HardwareAware_DesignSpace]]
 [[Intelligence_Emergence]]
 [[LocalQuantumLearningRule]]
 [[Memristor_Synapse]]

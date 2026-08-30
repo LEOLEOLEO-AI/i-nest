@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
 [[AI-ML — 全景导航 (Map of Content)]]
 [[CST计量仪]]
+[[Chip-Hardware — 全景导航 (Map of Content)]]
 [[CirculateFiringNeuron]]
 [[CompactnessRegularizedFitness]]
 [[Complex_System_Theory]]
@@ -42,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Model_Routing_Protocol]]
 [[MushroomBodyModes]]
 [[NestedRepresentation]]
+[[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[PartiallyLabeledMemoryRetrieval]]
@@ -52,7 +54,6 @@ Auto-extracted concept from raw material compilation.
 [[soc]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

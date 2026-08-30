@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[BulletTrainScheduling]]
 [[Catastrophic_Forgetting_Mitigation]]
 [[Cognitive_Relapse_Decoupling]]
+[[Contested_Priors_Architecture]]
 [[Criticality]]
 [[EntanglementScaling]]
 [[Intelligence_Emergence]]

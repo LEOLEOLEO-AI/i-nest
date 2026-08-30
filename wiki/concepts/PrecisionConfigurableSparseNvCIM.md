@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Ferroelectric_Devices]]
 [[FunctionalEnsembleComputation]]
 [[GeneralizationPhaseBoundary]]
+[[HumanVisionInspiredSNN]]
 [[In_Memory_Computing]]
 [[InputAdaptiveComputation]]
 [[Intelligence_Emergence]]

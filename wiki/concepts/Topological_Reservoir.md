@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[CouplingMatrixRecovery]]
 [[Crystallized_Neural_Manifolds]]
 [[DataDrivenMaterialDesign]]
+[[DiscreteScaleInvariance]]
 [[Dynamic_Expert_Fusion]]
 [[FitnessGuidedTopologySearch]]
 [[Memristive_Topology]]

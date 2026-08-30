@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[CrashHotspotForecasting]]
 [[Criticality]]
+[[DivergentHigherAreaRanking]]
 [[DynamicalSelfDualCriticality]]
 [[EEG_Criticality]]
 [[Emergent_Intelligence_Threshold]]

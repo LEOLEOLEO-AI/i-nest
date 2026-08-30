@@ -49,9 +49,10 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
-[[Wafer_Scale_Interconnect_Memristor]]
+[[Wafer_Scale_Interconnect]]
 [[iNEST]]
 [[neuromorphic interconnect]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

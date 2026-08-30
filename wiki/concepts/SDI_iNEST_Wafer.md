@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[NoC_Chiplet_Wafer_Stack]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
 [[SDSoW]]
@@ -42,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Neuromorphic]]
 [[iNEST]]
+[[iNEST_Wafer]]
 [[neuromorphic computing]]
 
 ## Sources

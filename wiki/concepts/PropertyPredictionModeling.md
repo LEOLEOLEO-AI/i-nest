@@ -50,7 +50,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[complex system]]
 [[iNEST]]
-[[spiking neural network implementation]]
 [[spiking neural network]]
 [[忆阻器]]
 [[智能涌现]]

@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[DirectTrainingFromScratch]]
 [[DualDrivenHybridNetwork]]
 [[EEG_Criticality]]
+[[EventBasedMotionDeblurring]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Self_Organized_Criticality]]

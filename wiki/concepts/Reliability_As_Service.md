@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[LocalPlasticityPipeline]]
 [[MoE_Routing]]
 [[Neuromorphic_Computing]]
+[[NonHermitianSpectralCorrelations]]
 [[SNN]]
 [[SelfOrganization]]
 [[Self_Organized_Criticality]]

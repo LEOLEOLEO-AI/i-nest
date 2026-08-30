@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Event_Driven_Attention]]
 [[SpikingNeuralTransformer]]
 [[Spiking_Neural_Network]]
+[[SynapticConsolidation]]
 [[iNEST]]
 
 ## Sources

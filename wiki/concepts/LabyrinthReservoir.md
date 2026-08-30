@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Electronic_Neuron_Circuit]]
 [[Emergent_Intelligence_Threshold]]
 [[EntropyProductionRate]]
+[[EnzymeCatalyticDegradation]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[MixedLabyrinthFractal]]

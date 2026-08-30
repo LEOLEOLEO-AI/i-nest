@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Processing]]
 [[FunctionalEnsemble]]
 [[In_Package_Neuromorphic_Integration]]
+[[MemoryDrivenInterconnect]]
 [[MicroTransferPrintedActiveDevices]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[FiniteSizeTopologicalPhase]]
 [[Fluidic_Hysterons]]
+[[GraphBasedSemanticRouting]]
 [[GroupInteractionThreshold]]
 [[Intelligence_Emergence]]
 [[Layer_Specific_Spreading_Rate]]
@@ -44,7 +45,6 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[iNEST]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

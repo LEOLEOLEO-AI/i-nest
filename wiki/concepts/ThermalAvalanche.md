@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
+[[OpenLearningEcosystem]]
 [[Port_Hamiltonian_System]]
 [[RecursiveSelfReferentialArchitecture]]
 [[RobustnessThroughNoise]]
@@ -52,7 +53,6 @@ Auto-extracted concept from raw material compilation.
 [[analog computation]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

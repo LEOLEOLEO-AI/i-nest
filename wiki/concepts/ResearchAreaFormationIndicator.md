@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_NetworkCoDesign]]
+[[Neuromorphic_Reconfigurable_Topology]]
 [[SDI_Bond]]
 [[SDI_TCC_iNEST_Bridge]]
 [[TCC]]
@@ -47,7 +48,6 @@ Auto-extracted concept from raw material compilation.
 [[intellectual base]]
 [[neuromorphic computing]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

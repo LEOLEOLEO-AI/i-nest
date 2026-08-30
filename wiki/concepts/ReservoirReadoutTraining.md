@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[EndToEndTopologyLearning]]
 [[FirstPrinciples_AI]]
 [[FisherOrthogonalMemory]]
+[[Hyper_Dimensional_Computing]]
 [[IntegrationProspectsForVLSI]]
 [[Intelligence_Emergence]]
 [[Memristor_Synapse]]

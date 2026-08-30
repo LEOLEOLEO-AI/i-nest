@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[PhaseLockedTopologyMapping]]
 [[PolychronousNeuronalGroups]]
+[[SDI_STDP]]
 [[SNN]]
 [[STDP_MemristiveLearning]]
 [[STDP_Plasticity]]

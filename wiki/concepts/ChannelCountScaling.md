@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[ThermallyDrivenSuperparamagnetReservoir]]
 [[TopologicalDataCompression]]
 [[iNEST]]
+[[忆阻器]]
 [[类脑芯片]]
 
 ## Sources

@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[BranchingRatio]]
 [[BulletTrainScheduling]]
 [[CoOptimizedMappingScheduling]]
+[[Continuous_Control_Spiking_Stability]]
 [[Criticality]]
 [[SNN]]
 [[Self_Organized_Criticality]]

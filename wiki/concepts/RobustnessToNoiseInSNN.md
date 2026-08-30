@@ -21,8 +21,9 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[BigBrainCellularAxis]]
-[[Complexity_Emergence_Engineering]]
+[[Complexity_Emergence]]
 [[ConsciousnessEngineeringLoop]]
+[[Continuous_Control_Spike_Timing_Sensitivity]]
 [[CorticalWaveRouting]]
 [[EventCameraTemporalEncoding]]
 [[Intelligence_Emergence]]

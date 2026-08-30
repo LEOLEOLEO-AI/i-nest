@@ -35,14 +35,15 @@ Auto-extracted concept from raw material compilation.
 [[HigherOrderAvalanche]]
 [[Intelligence_Emergence]]
 [[Mesoscale_Physical_Computing_Framework]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Performance_Prediction_Model]]
 [[PhaseModulationTestability]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
+[[Whole_Organism_Behavioral_Assay]]
 [[iNEST]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

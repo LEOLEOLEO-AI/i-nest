@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveFunctionalTopology]]
 [[Additive_Manufacturing_Supply_Chain]]
 [[AdiabaticModeEvolution]]
+[[Analog_InMemory_Processing]]
 [[AnisotropicGaussianPrimitives]]
 [[ArbitraryWavefunctionConfigurability]]
 [[AutonomousAdaptation]]
@@ -52,7 +53,6 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[Topological_Phase_Transition_Scaling]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

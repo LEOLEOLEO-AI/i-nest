@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Edge_Neuromorphic_Compute]]
 [[EnsembleCreditAssignment]]
 [[ErrorAmplificationLimits]]
+[[EventBasedGestureEncoding]]
 [[EventDrivenMotionDeblurring]]
 [[EventDrivenTemplateUpdate]]
 [[Event_Driven_Architecture]]

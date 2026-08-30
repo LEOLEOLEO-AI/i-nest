@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[EdgeIoTEnergyAwareness]]
 [[InformationCompressionAtCriticality]]
 [[Memristive_Topology]]
+[[NearThreeDimensionalCriticality]]
 [[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Self_Organized_Criticality]]

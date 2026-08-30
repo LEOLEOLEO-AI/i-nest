@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[DiscreteContinuous_Unification]]
 [[EventDrivenMotionDeblurring]]
 [[ExtinctionDrivenMetastability]]
+[[GradientFreeLowRankTraining]]
 [[NeuromorphicStatusAwareness]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Planning_Architecture]]

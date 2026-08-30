@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenAttentionMechanism]]
 [[EventDrivenTracking]]
+[[Event_Driven_Processing]]
 [[InSensorMemoryComputing]]
 [[InSitu_Compute]]
 [[In_Network_Generative_Inference]]

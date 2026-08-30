@@ -29,12 +29,15 @@ Auto-extracted concept from raw material compilation.
 [[4H_SiC_SubstrateProcessing]]
 [[AI_Faculty_Forum_2026]]
 [[AI人工智能 卷积神经网络（CNN）_w3cschool]]
+[[ASIC_Dualism]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_on_Chip]]
 [[STDP_Plasticity]]
+[[Synaptic_Plasticity]]
 [[TCC]]
-[[涌现动力学如何用来分析复杂系统？]]
+[[涌现]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

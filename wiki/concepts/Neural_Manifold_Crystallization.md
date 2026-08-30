@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Routing]]
 [[ExplainableEnergyAI]]
 [[HierarchicalSpikePropagation]]
+[[HighThroughputPhenotyping]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
 [[Spiking_Neural_Network]]

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[MantelTest_SignCorrection]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[PhysicalReservoirInterconnect]]
 [[ReservoirDynamics]]
 [[Reservoir_Computing]]
 [[Self_Organized_Criticality]]

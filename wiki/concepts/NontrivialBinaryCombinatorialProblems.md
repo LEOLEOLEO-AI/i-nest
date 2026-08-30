@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[NonHermitianLatticeWavefunctionControl]]
 [[NontrivialBandTopology]]
 [[RealTimeClassification]]
+[[RelocationOverheadModel]]
 [[Representation_Learning_Generalization]]
 [[SpikingTopologyEvolution]]
 [[Spiking_Neural_Network]]

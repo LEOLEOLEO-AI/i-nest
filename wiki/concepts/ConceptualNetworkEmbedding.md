@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Resilient_Community_Feedback_Loop]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
+[[SupervisedTrainingDegradation]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
 [[neuromorphic computing]]

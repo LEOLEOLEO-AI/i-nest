@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[LLMDrivenPathSelection]]
 [[MatrixShapePhaseTransition]]
 [[Network_Topology_Design]]
+[[NonreciprocalQuasiperiodicLattice]]
 [[Quantum_Criticality]]
 [[SelfOrganization]]
 [[Self_Organized_Criticality]]

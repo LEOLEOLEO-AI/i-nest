@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Cytokine_Feedback_Loops]]
 [[DiscreteSTDP]]
+[[DistinguishableHelium4]]
 [[ElasticInferenceScheduling]]
 [[ExactFiringRateModel]]
 [[IntrinsicTimingSTDP]]

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[AlgorithmicPhaseTransition]]
 [[Allreduce_Latency_Probe]]
 [[Analog_InMemory_Processing]]
+[[ArchitecturalGrounding]]
 [[Architectural_Conditioning]]
 [[BCM滑动阈值]]
 [[CST_Synergy_Coordination]]
@@ -56,7 +57,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[complex system]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

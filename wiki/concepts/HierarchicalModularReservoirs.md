@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
+[[PowerLawScalingClassification]]
 [[PowerLawScaling]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]

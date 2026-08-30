@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamical_State_Space]]
 [[DynamicsMatchedReservoir]]
 [[Emergent_Reservoir_Topology]]
+[[GroupInteractionThreshold]]
 [[Intelligence_Emergence]]
 [[Izhikevich_NeuronModel]]
 [[MassConservationBias]]

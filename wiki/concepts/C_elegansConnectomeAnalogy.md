@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
+[[PowerLawScalingClassification]]
 [[PowerLawScaling]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]

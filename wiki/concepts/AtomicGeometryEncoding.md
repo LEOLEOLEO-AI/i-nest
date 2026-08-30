@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveFunctionalTopology]]
 [[BrownianCastleInterface]]
 [[EnsembleSparsity]]
+[[Generation_Readiness_Assessment]]
 [[Interconnect_Routing]]
 [[LowRankPerturbation]]
 [[MembranePotentialAlignment]]

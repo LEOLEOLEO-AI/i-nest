@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Ant_Swarm_Functional_Control]]
 [[BalancedRouting]]
 [[Baseline_Draft_Status]]
+[[BeyondPTSymmetry]]
 [[BifurcationCandidate]]
 [[Bipartite_Interconnect]]
 [[Interconnect_Routing]]

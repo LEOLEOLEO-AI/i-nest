@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[CollectiveDynamics]]
 [[CorticalTravelingWave]]
 [[CorticalTravelingWaves]]
+[[CrossLayer_SignalRouting]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[PPT]]

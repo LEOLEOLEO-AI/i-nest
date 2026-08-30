@@ -37,7 +37,9 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Network_Architecture_Invariant]]
 [[DiagnosticReportFramework]]
 [[EfficientDeepLearning]]
+[[Heterogeneous_Integration]]
 [[HigherOrderTopology]]
+[[Independent_AI_Player_Endgame]]
 [[Intelligence_Emergence]]
 [[Memristive_Interconnect]]
 [[MetaFAIR_ArchitectureDiscovery]]
@@ -47,7 +49,6 @@ Auto-extracted concept from raw material compilation.
 [[TopologicalComplexityCeiling]]
 [[complex system]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeEncoding]]
 [[Spiking_Neural_Network]]
 [[SuperparamagneticSwitchingRate]]
+[[SupervisedTrainingDegradation]]
 [[Swarm_Coordination]]
 [[Synaptic_Plasticity]]
 [[TCC]]

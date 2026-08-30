@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[HigherAreaRankingDivergence]]
 [[Interconnect_Routing]]
 [[MoE_Routing]]
+[[Nanomaterial_Discovery_ML]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[SDPromptGuidedExpertFusion]]

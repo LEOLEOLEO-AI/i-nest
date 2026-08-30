@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalInterfaceBlocks]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
+[[NoC_Chiplet_iNEST_Wafer]]
 [[Nonlinear_Gain]]
 [[Reconfigurable_Nonlinear_Reservoir]]
 [[ReproducibleReservoirComputing]]

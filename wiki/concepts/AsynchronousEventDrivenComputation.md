@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Local_Plasticity_Rule]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicHardware]]
+[[NeuromorphicRL_Locomotion]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[STDP_Learning]]

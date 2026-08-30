@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[DARPA_3DHI_Roadmap]]
 [[DARPA_ERI]]
+[[Deep_Thermalisation]]
 [[DistinctReentrantPhases]]
 [[ERI_2_0_Framework]]
 [[Heterogeneous_Integration]]
@@ -56,7 +57,6 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

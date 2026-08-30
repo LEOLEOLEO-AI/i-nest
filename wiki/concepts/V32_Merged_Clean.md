@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[DifferentiableLifting]]
 [[Edge_of_Chaos_Coastal_Dynamics]]
 [[Emergent_Intelligence_Threshold]]
+[[EvolutionaryReservoirLearning]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Phase_Transition_Tail_Transition]]

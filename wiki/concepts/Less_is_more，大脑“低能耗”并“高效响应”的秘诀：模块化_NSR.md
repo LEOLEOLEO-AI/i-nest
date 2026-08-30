@@ -34,6 +34,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[HotChip2024-Day2_AI加速器互联和云AI处理器,_Tesla是亮点]]
 [[Intelligence_Emergence]]
 [[Krakencoder_Embedding]]
+[[NCL神经计算定律详解]]
 [[Nature_Computational_Science_用AI发现高维复杂网络的动力学公式]]
 [[Network_Topology_Design]]
 [[TCC]]

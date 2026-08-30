@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CUDAQSimulationFramework]]
 [[CoEvolvedSNNEnsemble]]
 [[CombinedImportanceScoring]]
+[[CompartmentalNeuronModel]]
 [[DTGA]]
 [[Emergent_Topology_Adaptation]]
 [[ExplosiveTransitionThreshold]]

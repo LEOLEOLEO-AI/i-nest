@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[HybridResistiveMemoryCIM]]
 [[InNetworkSignalRecovery]]
+[[In_Package_Neuromorphic_Integration]]
 [[Memristor_Reservoir_Branch_Prediction]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[Continuous_Control_Spike_Timing_Sensitivity]]
+[[CrossLayer_SignalRouting]]
 [[EventCameraPoseInput]]
 [[EvolutionarySpikeTimingOptimization]]
 [[Neuromorphic_Computing]]

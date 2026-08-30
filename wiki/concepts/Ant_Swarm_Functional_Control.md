@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Self_Organized_Criticality]]
+[[Stigmergic_RL]]
 [[StochasticMultiAgentRL]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]

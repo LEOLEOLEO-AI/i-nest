@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[CMOS_Memristor_Devices]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Emerging_CMOS_Memristor_Devices]]
+[[Ferroelectric_ComputeInMemory]]
 [[Heterogeneous_Integration]]
 [[HybridResistiveMemoryCIM]]
 [[In_Memory_Computing]]

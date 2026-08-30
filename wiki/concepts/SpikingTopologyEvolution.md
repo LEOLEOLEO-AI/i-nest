@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CompartmentalNeuronModel]]
 [[Deep_SNN_Trainability]]
 [[DeeplySupervisedSpiking]]
+[[DrivenDissipativeDynamics]]
 [[Emergent_Intelligence_Threshold]]
 [[FPGA_Neuromorphic_Acceleration]]
 [[GradientFreeSNNTraining]]

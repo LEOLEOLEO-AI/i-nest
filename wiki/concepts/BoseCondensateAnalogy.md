@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
+[[DARPA_3DHI_Roadmap]]
 [[DendriticReservoirState]]
 [[EmergentScaleFreeConnectivity]]
 [[Intelligence_Emergence]]
@@ -47,7 +48,6 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[tools]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

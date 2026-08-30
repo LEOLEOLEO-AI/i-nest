@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BehaviorAlignedQuantization]]
 [[BigBrainCellularAxis]]
 [[BrainActivityPrediction]]
+[[CST_Intelligence_Emergence]]
 [[CST_Spatiotemporal_Coefficient]]
 [[Complex_System_Theory]]
 [[Contested_Prior_Resolution]]

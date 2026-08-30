@@ -36,6 +36,8 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Intelligent_Power_Management]]
+[[Memristor_Network]]
+[[Memristor_Synapse]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Spatiotemporal_Synergy]]
@@ -51,7 +53,8 @@ Auto-extracted concept from raw material compilation.
 [[SystemLevelNonlinearity]]
 [[Textbook_Paradigm_Definition]]
 [[TopologyCentricEngineeringBase]]
-[[Wafer_Scale_Interconnect_Memristor]]
+[[Wafer_Scale_Integration]]
+[[Wafer_Scale_Interconnect]]
 [[iNEST]]
 
 ## Sources

@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[FrequencyAdaptationMechanism]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Orientation_Encoding_Latent_Spaces]]
 [[SNN]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]

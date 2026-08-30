@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[ActivityAvalanche]]
 [[AlloyDisorderEngineering]]
 [[AnisotropicGaussianPrimitives]]
+[[BioPlausiblePredictiveCoding]]
 [[BurstGatedRouting]]
 [[Criticality]]
 [[CrossLayer_SignalRouting]]

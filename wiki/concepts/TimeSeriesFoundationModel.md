@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[HighThroughputPhenotyping]]
 [[HybridCouplingThermosensitiveNetwork]]
 [[InterDomain_Synergy]]
+[[Neural_Manifold_Crystallization]]
 [[Neuromorphic_Computing]]
 [[analog computation]]
 [[iNEST]]

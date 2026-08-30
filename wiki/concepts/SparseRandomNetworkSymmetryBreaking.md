@@ -28,7 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Based_Neuromorphic_Integration]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
-[[Complexity_Emergence_Engineering]]
+[[Complexity_Emergence]]
 [[DataDrivenCellularAxis]]
 [[DevelopmentalBrainTrajectory]]
 [[Emergent_Intelligence_Threshold]]

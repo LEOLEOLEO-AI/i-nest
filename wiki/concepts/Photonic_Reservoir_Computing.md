@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[NonlinearDynamicalSampling]]
 [[Nonlinear_Gain]]
 [[OpticalReservoirComputing]]
+[[ReservoirComputingModel]]
 [[Reservoir_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]

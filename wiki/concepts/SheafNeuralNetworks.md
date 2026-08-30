@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[AdditiveTopology_Embedding]]
 [[BCM滑动阈值]]
 [[BoundaryContract]]
+[[CST_Triad_Integration]]
 [[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
@@ -41,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[DendriticReservoirState]]
 [[ERI_2_0_Strategy]]
 [[HeterogeneousPD_Inference_BoundaryContract]]
+[[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Milinkovic B (2024)：复杂神经系统涌现动力学结构]]
 [[Network_Topology_Design]]
@@ -55,7 +57,6 @@ Auto-extracted concept from raw material compilation.
 [[getnote_2025-12-17_3D异构集成_3DHI_技术深度研究_机遇_挑战与未来路径]]
 [[iNEST]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Weight_Storage]]
 [[Attention_Residuals]]
 [[BigBrainCellularAxis]]
+[[BoundaryObject_Abstraction]]
 [[CST计量仪]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
@@ -52,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[Topology_Centric_Computing]]
 [[causal emergence]]
 [[iNEST]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[PartiallyLabeledMemoryRetrieval]]
+[[PostVonNeumannIntelligence]]
 [[RecursiveSelfReferentialArchitecture]]
 [[ScaleFreeNetwork]]
 [[Stigmergic_Graph_Memory]]

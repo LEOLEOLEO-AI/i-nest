@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[Phase_Transition_Tail_Transition]]
 [[RecursiveSelfReferentialArchitecture]]
+[[Relapse_Resilient_Interconnect]]
 [[Reservoir_Computing]]
 [[SelfOrganization]]
 [[Self_Organized_Criticality]]

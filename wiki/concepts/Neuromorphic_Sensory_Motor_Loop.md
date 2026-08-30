@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CorticalTravelingWaves]]
 [[CrossLayer_SignalRouting]]
 [[DARPA_ProjectManager_Model]]
+[[DirectTrainingSNN]]
 [[FullyLocalOnlineSNNTraining]]
 [[GradientBasedSpikeLearning]]
 [[InterFPGA_Spike_Routing]]

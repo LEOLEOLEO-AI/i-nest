@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[ChaoticAttractorTopology]]
 [[ConnectomeComputationBasis]]
 [[Connectome]]
+[[Connectome_Inspired_Architecture]]
 [[DataProvenanceIntegrity]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

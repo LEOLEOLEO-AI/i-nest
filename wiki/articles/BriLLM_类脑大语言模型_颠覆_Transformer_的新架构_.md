@@ -12,3 +12,13 @@ SDI, SNN, iNEST, neuromorphic, 类脑
 
 ---
 *Auto-compiled by wiki_compiler.py*
+
+
+## Related Concepts
+
+[[BriLLM]]
+[[Neuromorphic_Computing]]
+[[SDI_Bond]]
+[[SNN]]
+[[Spiking_Neural_Network]]
+[[iNEST]]

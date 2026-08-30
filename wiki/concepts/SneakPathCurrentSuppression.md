@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[Spatiotemporal_Synergy_Complexity]]
+[[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[Topological_Manifold_Interconnect]]
 [[analog computation]]
 [[complex system]]

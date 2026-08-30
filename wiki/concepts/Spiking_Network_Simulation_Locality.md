@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[ConductingPolymerDendriteMemory]]
 [[DelayCodedWorkingMemory]]
 [[EventDrivenInference]]
+[[EventStrengthEncoding]]
 [[Event_Driven_Architecture]]
 [[FunctionalEnsemble]]
 [[GradientBasedLearningLocalization]]

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[AlternativeBridgingModels]]
 [[AnomalousSpinTransport]]
+[[Chip-Hardware — 全景导航 (Map of Content)]]
 [[CirculateFiringNeuron]]
 [[Complex_System_Theory]]
 [[Emergent_Intelligence_Threshold]]

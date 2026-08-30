@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[ASIC_Dualism]]
+[[Analog_InMemory_Processing]]
 [[ArbitraryWavefunctionConfigurability]]
 [[AutonomousAdaptation]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -43,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

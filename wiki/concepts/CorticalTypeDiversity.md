@@ -67,6 +67,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
 [[chiplet interconnect]]
+[[heterogeneous_integration]]
 [[residual connection]]
 [[temporalComplexity]]
 [[Γst_Revision]]

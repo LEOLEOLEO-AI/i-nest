@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[Neuromorphic_Organization]]
+[[Neuromorphic_Planning_Architecture]]
 [[PhaseLockedTopologyMapping]]
 [[ST_SNN]]
 [[Self_Organized_Criticality]]

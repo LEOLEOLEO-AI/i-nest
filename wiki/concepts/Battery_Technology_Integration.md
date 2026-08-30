@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[GeneralIntelligenceSubstrate]]
 [[Heterogeneous_Integration]]
 [[HodgkinHuxleyDynamics]]
+[[InNetworkNeuromorphicEmergence]]
 [[Memristor_Network]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]

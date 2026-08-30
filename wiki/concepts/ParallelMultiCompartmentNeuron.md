@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI节点接口规范与化合键定义]]
 [[Spiking_Neural_Network]]
 [[Subtractive_AttentionNormalization]]
+[[SurrogateGradientAdaptation]]
 [[iNEST]]
 [[神经网络]]
 

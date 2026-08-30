@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[3D_Integration]]
 [[Active_Inference_Topology]]
 [[AdiabaticMultimodeBend]]
+[[AdvancedPackagingInterconnect]]
 [[AndersonTransition]]
 [[BifurcationCandidate]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -52,7 +53,6 @@ Auto-extracted concept from raw material compilation.
 [[TopologyAware_Routing]]
 [[chiplet interconnect]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

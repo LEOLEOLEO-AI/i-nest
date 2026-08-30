@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[ANN_SNN_ConversionError]]
 [[AcademicDevelopmentCoCreation]]
+[[AdjustableDynamicsReservoir]]
 [[AdjustableDynamics]]
 [[AlternativeBridgingModels]]
 [[Analog_Encoding_Readout]]

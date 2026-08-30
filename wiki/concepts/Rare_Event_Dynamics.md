@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
 [[RunawayAvalanche]]
+[[SuddenLearning]]
 [[TCC]]
 
 ## Sources

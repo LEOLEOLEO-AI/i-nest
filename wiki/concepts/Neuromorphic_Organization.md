@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Spiking_Integration]]
 [[PerturbationSpaceTrajectory]]
 [[PhaseLockedTopologyMapping]]
+[[SDI_iNEST_Interconnect]]
 [[SNN]]
 [[ST_SNN]]
 [[Self_Organized_Criticality]]

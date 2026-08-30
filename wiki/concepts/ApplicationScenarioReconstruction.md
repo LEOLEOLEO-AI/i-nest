@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[EquivariantGraphLayers]]
 [[Evolutionary_Structure_Computability]]
 [[Free_Energy_Principle_Network]]
+[[Intelligence_Emergence]]
 [[MitigationLayers]]
 [[MultiplicativeGain]]
 [[Nonlinear_Gain]]
@@ -54,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[ThermalAwareTaskPlacement]]
 [[analog computation]]
 [[complex system]]
+[[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources

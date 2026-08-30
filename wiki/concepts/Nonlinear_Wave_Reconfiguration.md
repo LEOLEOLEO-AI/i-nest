@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[Random_Markov_Dynamics]]
+[[Reconfigurable_NonHermitian_Nonlinear_System]]
 [[Synaptic_Plasticity]]
 [[ViewDependentAppearance]]
 [[neuromorphic computing]]

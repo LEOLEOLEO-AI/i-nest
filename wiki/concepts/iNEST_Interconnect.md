@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[Order_Flexibility_Duality]]
 [[iNEST]]
+[[iNEST_Neuromorphic_Integration]]
 [[neuromorphic computing]]
 [[neuromorphic interconnect]]
 

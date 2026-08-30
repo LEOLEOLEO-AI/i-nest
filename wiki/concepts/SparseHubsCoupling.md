@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Synapse]]
 [[Model_Routing_Protocol]]
 [[Network_Specific_Embedding_Separation]]
+[[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
@@ -55,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[神经网络]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

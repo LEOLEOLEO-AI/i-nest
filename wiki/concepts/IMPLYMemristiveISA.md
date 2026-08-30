@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Faculty_Forum_2026]]
+[[Advanced_Packaging_for_Space]]
 [[Analog_InMemory_Processing]]
 [[Attention_Residuals]]
 [[BeyondVonNeumannArchitecture]]
@@ -38,7 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[HybridResistiveMemoryCIM]]
 [[InMateriaComputing]]
 [[In_Memory_Computing]]
-[[In_Network_Neuromorphic_Compute]]
+[[In_Network_Neuromorphic]]
 [[Intelligence_Emergence]]
 [[Long_Range_Interactions]]
 [[Memristive_ANN_Hardware]]

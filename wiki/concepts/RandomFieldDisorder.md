@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Topology]]
 [[Chiplet_Topology_Interconnect]]
 [[Complex_System_Theory]]
+[[ComputeRelocationOverhead]]
 [[CriticalSlowingDown]]
 [[Dynamic_Expert_Fusion]]
 [[Free_Energy_Synchronization]]
@@ -55,7 +56,6 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[iNEST]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

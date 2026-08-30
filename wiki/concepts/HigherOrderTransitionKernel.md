@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[DrivenDissipativeDynamics]]
 [[FPGA_Neuromorphic_Architectures]]
+[[HippocampalNeocorticalIntelligence]]
 [[Memristive_Interconnect]]
 [[Memristor_Synapse]]
 [[MetaFAIR_ArchitectureDiscovery]]

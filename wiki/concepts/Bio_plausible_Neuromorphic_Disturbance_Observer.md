@@ -43,6 +43,8 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[MemristiveSignedCouplings]]
 [[Neuromorphic_Computing]]
+[[SDI_Bond]]
+[[SDI_STDP]]
 [[SDI_STDP_Rule]]
 [[STDP_Plasticity]]
 [[SpikeEncoding]]

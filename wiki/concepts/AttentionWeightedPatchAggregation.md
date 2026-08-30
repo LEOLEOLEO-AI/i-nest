@@ -20,9 +20,11 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Advanced_Packaging_for_Space]]
 [[AgentReputationLedger]]
 [[Bipartite_Interconnect]]
 [[Bipartite_Interconnect_Design]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_NoC_Interconnect]]
 [[Collective_Offloading]]
 [[ComponentLevelPackaging]]
@@ -32,6 +34,8 @@ Auto-extracted concept from raw material compilation.
 [[IMPLYMemristiveISA]]
 [[KV_Cache_To_BoundaryObject]]
 [[KV_Cache_to_BoundaryObject]]
+[[Network_on_Chip]]
+[[NoC_Interconnect]]
 [[TCC]]
 [[iNEST]]
 

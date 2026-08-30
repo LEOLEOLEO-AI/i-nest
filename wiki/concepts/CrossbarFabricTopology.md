@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[PhotonicSynapticPlasticity]]
+[[PolarizationModulatedPhotoresponse]]
 [[Receptron_Unit]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Self_Organized_Criticality]]

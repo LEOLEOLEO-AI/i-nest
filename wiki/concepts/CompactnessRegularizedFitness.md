@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[ArmLocomotorCoordination]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[CirculateFiringNeuron]]
+[[ComplexValuedSNN]]
 [[Complex_System_Theory]]
 [[Continual_Learning_Topology]]
 [[Emergent_Intelligence_Threshold]]

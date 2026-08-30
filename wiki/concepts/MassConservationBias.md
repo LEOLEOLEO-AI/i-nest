@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicalSelfDualCriticality]]
 [[EdgeOfChaos]]
 [[Emergent_Reservoir_Topology]]
+[[GroupInteractionThreshold]]
 [[Intelligence_Emergence]]
 [[Izhikevich_NeuronModel]]
 [[MassConservationInductiveBias]]

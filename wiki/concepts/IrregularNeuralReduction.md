@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[3D_IC_Stacking]]
 [[4H_SiC_SubstrateProcessing]]
 [[CST_MasterEquation]]
+[[Chiplet_NoC_Fabric]]
 [[Complex_System_Theory]]
 [[Decoupled_Priors]]
 [[EnergyOptimizedManycoreArchitecture]]

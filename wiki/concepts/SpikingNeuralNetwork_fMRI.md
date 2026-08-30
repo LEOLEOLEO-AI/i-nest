@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI节点接口规范与化合键定义]]
 [[SpikeEmbedding]]
 [[SpikformerV2_Architecture]]
+[[SpikingSafetyThreshold]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 [[neuromorphic computing]]

@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]
 [[LocalQuantumLearningRule]]
+[[LossSpikePhenomenon]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicRadarFrontend]]
 [[Neuromorphic_Acceleration]]

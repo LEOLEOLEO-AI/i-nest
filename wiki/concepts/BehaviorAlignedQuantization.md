@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[ApproximateMacroscopicDynamics]]
 [[Arm_Locomotor_Synergy]]
 [[BigBrainCellularAxis]]
+[[BrainActivityPrediction]]
 [[CST_Spatiotemporal_Coefficient]]
 [[CollectiveDynamics]]
 [[Complex_System_Theory]]

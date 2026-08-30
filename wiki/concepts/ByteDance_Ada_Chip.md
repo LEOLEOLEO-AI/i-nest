@@ -53,7 +53,9 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]
 [[Textbook_Paradigm_Definition]]
+[[UniversalIntelligence_Emergence]]
 [[iNEST]]
+[[neuromorphic computing architecture]]
 [[neuromorphic computing]]
 
 ## Sources

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Dimensionality_Modularity_Tradeoff]]
 [[DisorderInducedCriticality]]
 [[DynamicCentralitySteering]]
+[[EmergentRecurrentConnectivity]]
 [[Fractal_Wavefront_Scaling]]
 [[ImmobilizationStabilityMechanism]]
 [[Network_Topology_Design]]

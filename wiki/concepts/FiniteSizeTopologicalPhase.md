@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[LongRangeCorrelatedEntries]]
 [[Memristive_STDP]]
 [[Network_Topology_Design]]
+[[NoCPlacementRoutingCoDesign]]
 [[Nonreciprocity_Threshold]]
 [[OptimalRepresentation]]
 [[RamanInducedGaugeField]]

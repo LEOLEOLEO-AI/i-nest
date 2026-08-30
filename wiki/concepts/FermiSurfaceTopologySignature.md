@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Agile_Resilient_Defense_Ecosystem]]
 [[AssociativeMemoryTopology]]
 [[Attention_Residuals]]
+[[BackpropagationFreeLearning]]
 [[Complex_System_Theory]]
 [[DailyResearchDigest]]
 [[FixedOverheadFloor]]
@@ -43,7 +44,6 @@ Auto-extracted concept from raw material compilation.
 [[TopologicalDataCompression]]
 [[soc]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

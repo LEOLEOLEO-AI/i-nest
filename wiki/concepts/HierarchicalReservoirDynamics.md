@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[ErrorSuppressedPipeline]]
 [[FirstPrinciples_AI]]
 [[Heterogeneous_Compute_Graph]]
+[[HodgkinHuxleyDynamics]]
 [[IntegratedSensingFusion]]
 [[MeanFieldSpinGlass]]
 [[Memory_Technology_Coexistence]]

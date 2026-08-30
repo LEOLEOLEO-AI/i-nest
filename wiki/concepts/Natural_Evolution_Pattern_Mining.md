@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[ConstrainedHebbianLearning]]
 [[Emergent_Intelligence_Threshold]]
+[[EnsembleAveragedSolution]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
@@ -52,7 +53,6 @@ Auto-extracted concept from raw material compilation.
 [[neuromorphic interconnect]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

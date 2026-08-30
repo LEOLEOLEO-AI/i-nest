@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[DataProvenanceIntegrity]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[ExponentialDenseAssociativeMemory]]
 [[Free_Energy_Principle_Network]]
 [[FrozenRateOperator]]
 [[Intelligence_Emergence]]

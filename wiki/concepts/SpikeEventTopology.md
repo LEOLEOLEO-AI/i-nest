@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AlloyDisorderEngineering]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[BioPlausiblePredictiveCoding]]
 [[CriticalStateInformationMaximization]]
 [[Criticality]]
 [[CrossLayer_SignalRouting]]

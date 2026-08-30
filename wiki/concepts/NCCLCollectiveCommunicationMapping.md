@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[GlobalDecision_LocalExecution_ControlPlane]]
 [[HeterogeneousChipletIntegration]]
 [[Heterogeneous_Integration]]
+[[Intelligent_Computing_Infrastructure]]
 [[Interconnect_Routing]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[Network_Topology_Design]]
@@ -42,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Topology_Control]]
 [[chiplet interconnect]]
 [[iNEST]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

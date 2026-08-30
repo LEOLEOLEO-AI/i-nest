@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Distributed_Spike_Communication]]
 [[Emergent_Intelligence_Threshold]]
 [[EventBasedMotionDeblurring]]
+[[EventDrivenFusion]]
 [[EventDrivenMotionDeblurring]]
 [[FormalToolchain]]
 [[ImageToEventConversion]]

@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[NonlinearConnectomeScaling]]
 [[NonlinearDynamicalSystemsInference]]
 [[Nonlinear_Gain]]
+[[PhysicalSubstrateReservoir]]
 [[TCC]]
 [[connectome]]
 [[iNEST]]

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_Project_Group_Strategy]]
 [[ERI_2_0_Framework]]
 [[ElectronicPhotonicIntegratedCircuit]]
+[[ForwardFluctuationGradient]]
 [[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]
 [[Loihi2_OnChip_Learning]]

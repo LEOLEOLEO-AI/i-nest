@@ -41,11 +41,11 @@ Auto-extracted concept from raw material compilation.
 [[ERI_2_0_Strategy]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
+[[OptomechanicalNonlinearity]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
 [[TCC]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

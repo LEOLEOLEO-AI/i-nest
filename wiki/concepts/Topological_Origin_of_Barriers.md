@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[AtomicGeometryEncoding]]
 [[BrownianCastleInterface]]
 [[EnsembleSparsity]]
+[[Generation_Readiness_Assessment]]
 [[Interconnect_Routing]]
 [[LowRankPerturbation]]
 [[MembranePotentialAlignment]]

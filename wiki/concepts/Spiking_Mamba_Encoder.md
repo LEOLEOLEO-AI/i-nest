@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicStatusAwareness]]
 [[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Planning_Architecture]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[iNEST]]

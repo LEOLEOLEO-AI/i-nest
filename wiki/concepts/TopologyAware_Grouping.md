@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[InSitu_Compute]]
 [[Interconnect_Routing]]
 [[InverseDesignedPhotonicAccelerator]]
+[[MaterialGrowthFabricationFocus]]
 [[MemoryDrivenRouting]]
 [[MemoryDrivenVectorFlowFieldRouting]]
 [[MicroRouter_Embedding]]

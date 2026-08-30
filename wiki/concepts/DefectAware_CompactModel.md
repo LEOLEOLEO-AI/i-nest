@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Ferroelectric_Devices]]
 [[FisherOrthogonalMemory]]
 [[HZO_FerroelectricCapacitor]]
+[[Hysteretic_State_Encoding]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]

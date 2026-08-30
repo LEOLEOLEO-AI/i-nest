@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Neural_Network_Quantum_State_Transfer_Learning]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
+[[Parkinsonian_Neural_State_Detection]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[SDI_Bond]]

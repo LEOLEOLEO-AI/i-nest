@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[FormalToolchain]]
 [[FrequencyAdaptationMechanism]]
+[[GeometricNeuromorphicFusion]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Self_Organized_Criticality]]

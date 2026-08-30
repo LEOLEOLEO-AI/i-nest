@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[PrecisionConfigurableSparseNvCIM]]
 [[STDP_Plasticity]]
 [[ScaleFreeNetwork]]
+[[Stigmergic_Neural_Plasticity]]
 [[Synaptic_Plasticity]]
 [[Syncytial_Information_Integration]]
 [[TCC]]
@@ -57,7 +58,6 @@ Auto-extracted concept from raw material compilation.
 [[无反向传播的 4D 连续蚁群神经网络拓扑搜索]]
 [[智能涌现]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

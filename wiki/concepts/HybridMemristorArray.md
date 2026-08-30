@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
+[[PhysicalReservoirTransientDynamics]]
 [[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_DeviceNonlinearity]]
 [[analog computation]]

@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[TCC]]
+[[Topology_Aware_SNN_Placement]]
 [[iNEST]]
 [[spiking neural network]]
 

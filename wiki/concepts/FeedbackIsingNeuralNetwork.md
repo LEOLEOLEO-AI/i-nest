@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Brain_Dynamics_Learning]]
 [[CSPNeuralEncoding]]
 [[ClassificationPerformance]]
+[[ClinicalPredictionMapping]]
 [[CollectiveDynamics]]
 [[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]

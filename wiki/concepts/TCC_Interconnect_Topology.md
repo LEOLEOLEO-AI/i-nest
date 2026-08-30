@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Faculty_Forum_2026]]
 [[Attention_Residuals]]
+[[BoundaryObject_Abstraction]]
 [[ChipletWaferInterconnectScaling]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
@@ -40,12 +41,14 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[Packaging_CoDesign]]
 [[SDSoW]]
+[[SDSoW_Architecture]]
 [[Second_Curve_Wafer_Industry_Platform]]
 [[TCC]]
 [[TopologyCentricPrimitiveSystem]]
 [[Wafer_Scale_Integration]]
 [[chiplet interconnect]]
 [[iNEST]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

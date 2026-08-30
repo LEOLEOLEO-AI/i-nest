@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[AmplifyingNetworkTopology]]
 [[AnalogStateRetention]]
 [[Antiferromagnetic_Topological_Anderson_Insulator]]
+[[ArchitecturalIllusion]]
 [[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
@@ -55,7 +56,6 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[synaptic plasticity]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

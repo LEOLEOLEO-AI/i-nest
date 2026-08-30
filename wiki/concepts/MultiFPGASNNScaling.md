@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[SpiNNaker2_Chip]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
+[[VectorQuantizedSpikeEncoding]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
 [[Yann LeCun：发现智能原理是AI的终极问题]]

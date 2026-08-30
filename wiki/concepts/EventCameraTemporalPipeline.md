@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Energy_Floor]]
 [[Spiking_Neural_Network]]
 [[SynapticReinforcementConsolidation]]
+[[Syncytial_Mesh_Model]]
 [[TCC]]
 [[iNEST]]
 [[spiking neural network]]

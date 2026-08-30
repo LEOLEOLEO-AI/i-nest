@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[Activity_Dependent_Plasticity]]
 [[BackflowTransformation]]
+[[Bio_plausible_Neuromorphic_Disturbance_Observer]]
 [[BrainBodyResonance]]
 [[ComplexValuedSNN]]
 [[Complex_System_Theory]]

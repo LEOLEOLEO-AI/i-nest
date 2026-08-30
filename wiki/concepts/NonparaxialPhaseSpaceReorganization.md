@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[AsymmetricStochasticInteractions]]
 [[AttentionLikeHebbianMechanism]]
 [[AttentionMap_DifferenceResidual]]
+[[Attention_ResidualCancellation]]
 [[Complex_System_Theory]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[LocalPlasticityPipeline]]
 [[MoE_Routing]]
 [[Neuromorphic_Computing]]
+[[Receptron_Unit]]
 [[Self_Organized_Criticality]]
 [[Synaptic_Plasticity]]
 [[iNEST]]

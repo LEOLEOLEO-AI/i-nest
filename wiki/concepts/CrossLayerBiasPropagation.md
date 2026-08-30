@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[HierarchicalSpikePropagation]]
 [[Interconnect_Routing]]
 [[LossSpikeMechanism]]
+[[Military_AI_Revolution]]
 [[PacketRoutingOptimization]]
 [[Spiking_Neural_Network]]
 [[SurrogateGradientTracking]]

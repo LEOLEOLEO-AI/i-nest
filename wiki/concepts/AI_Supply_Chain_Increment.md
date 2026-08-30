@@ -52,8 +52,8 @@ Auto-extracted concept from raw material compilation.
 [[TCC_RTC原语架构与SDI拓扑变换机理]]
 [[complex system]]
 [[iNEST]]
+[[《中国科学基金》]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

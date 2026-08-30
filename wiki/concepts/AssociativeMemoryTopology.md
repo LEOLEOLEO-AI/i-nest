@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Network_Architecture_Invariant]]
 [[Dynamic_Expert_Fusion]]
 [[EventDrivenTracking]]
+[[Event_Driven_Communication]]
 [[FixedOverheadFloor]]
 [[In_Package_Neuromorphic_Integration]]
 [[Intelligence_Emergence]]

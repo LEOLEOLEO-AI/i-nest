@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Baseline_Draft_Status]]
 [[Emergent_Intelligence_Threshold]]
+[[EnergyEfficientNeuromorphic]]
 [[EventDrivenModularArchitecture]]
 [[EventDrivenRiskAssessment]]
 [[FrustratedDimerMagnet]]

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspiredInterception]]
 [[BulletTrainScheduling]]
 [[CoOptimizedMappingScheduling]]
+[[Continuous_Control_Spiking_Stability]]
 [[Criticality]]
 [[DiscreteContinuous_Unification]]
 [[SNN]]

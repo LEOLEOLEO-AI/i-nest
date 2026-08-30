@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[CSI_Temporal_Encoding]]
 [[Complex_System_Theory]]
 [[DiscreteSTDP]]
+[[DistinguishableHelium4]]
 [[DynamicTokenSparsity]]
 [[Dynamic_Expert_Fusion]]
 [[Edge_Neuromorphic_Compute]]

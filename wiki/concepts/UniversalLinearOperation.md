@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspired_Interception_Control]]
 [[Biologically_Plausible_Learning_Rules]]
 [[BurstGatedRouting]]
+[[CavityMethodAnalysis]]
 [[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[FatalityDrivenRewiring]]

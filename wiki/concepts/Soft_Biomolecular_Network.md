@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Deep_Brain_Stimulation]]
 [[Adaptive_EW_Neuromorphic_Controller]]
 [[AnisotropicSymmetryBreaking]]
+[[ArtificialProprioception]]
 [[BayesianDomainEvolution]]
 [[BehavioralFeedbackLoop]]
 [[Bio_plausible_Neuromorphic_Disturbance_Observer]]
@@ -49,7 +50,6 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[neuromorphic substrate]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

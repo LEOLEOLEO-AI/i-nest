@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeTemporalCoding]]
 [[SpikeTimingCoding]]
 [[SpikeTimingGradientPropagation]]
+[[SpikeTimingGradient]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]

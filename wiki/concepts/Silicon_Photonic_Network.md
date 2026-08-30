@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AdiabaticMultimodeBend]]
 [[AdsorptionBiosorptionHybrid]]
 [[AdvancedPackagingInterconnect]]
+[[Analog_InMemory_Processing]]
 [[CST_Spatiotemporal_Complexity]]
 [[ChipletWaferInterconnectScaling]]
 [[ChipletWaferInterconnectTopology]]
@@ -57,7 +58,6 @@ Auto-extracted concept from raw material compilation.
 [[temporalComplexity]]
 [[Γst_Revision]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

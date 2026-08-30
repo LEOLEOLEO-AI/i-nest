@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[FerroelectricSynapse]]
 [[FerroelectricSynapticArray]]
 [[Ferroelectric_Devices]]
+[[Gaussian_Splat_Compression]]
 [[Heterogeneous_Integration]]
 [[Memory_Wall]]
 [[Neuromorphic_Computing]]

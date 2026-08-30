@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[CulturalDisseminationDynamics]]
 [[DTGA]]
 [[Electronic_Warfare_Integration]]
+[[FractalPathEntropy]]
 [[Interconnect_Routing]]
 [[Memristive_Topology]]
 [[MultiFPGAScaling]]

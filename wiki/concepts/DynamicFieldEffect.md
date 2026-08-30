@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[BackflowTransformation]]
 [[BrownianCastleInterface]]
 [[ErrorSuppressedPipeline]]
+[[Generation_Readiness_Assessment]]
 [[Interconnect_Routing]]
 [[MLChiralityDecoder]]
 [[Network_Topology_Design]]

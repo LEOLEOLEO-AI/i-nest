@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[SelfOrganizedRobustness]]
 [[Self_Organized_Criticality]]
 [[SemanticRelationTemporalGraph]]
+[[SpectralSupportAnalysis]]
 [[Spiking_Neural_Network]]
 [[TopologicalAndersonChernInsulator]]
 [[criticality]]

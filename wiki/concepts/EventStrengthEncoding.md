@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[SynapticConsolidation]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[TemporalSparsityExploitation]]
 [[iNEST]]
 [[neuromorphic interconnect]]
 

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[DifferentiableRasterizationPipeline]]
 [[DimensionalityReductionPrinciple]]
 [[EventDrivenAsynchronousRouting]]
+[[EventDrivenLearning]]
 [[EventDrivenTracking]]
 [[Interconnect_Routing]]
 [[Military_AI_Revolution]]

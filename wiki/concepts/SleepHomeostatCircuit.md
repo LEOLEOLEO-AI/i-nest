@@ -48,7 +48,6 @@ Auto-extracted concept from raw material compilation.
 [[SpontaneousSpikingDecision]]
 [[Synaptic_Plasticity]]
 [[Syncytial_Mesh]]
-[[Syncytial_Mesh_Model]]
 [[iNEST]]
 
 ## Sources

@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[DynamicTokenSparsity]]
 [[Edge_Neuromorphic_Compute]]
+[[EventBasedGestureEncoding]]
 [[Event_Driven_Architecture]]
 [[Event_Driven_Gait_Transition]]
 [[Interconnect_Routing]]

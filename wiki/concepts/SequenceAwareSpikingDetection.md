@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikingRecurrentCells]]
 [[SpikingStateSpaceModel]]
 [[SpikingTransformer]]
+[[Spiking_Decoder_Tracking]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]

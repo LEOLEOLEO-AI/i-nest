@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AdiabaticModeEvolution]]
 [[AdiabaticMultimodeBend]]
 [[AdsorptionBiosorptionHybrid]]
+[[AdvancedPackagingInterconnect]]
 [[Allreduce_Latency_Benchmark]]
 [[AlternativeMetalInterconnects]]
 [[AndersonTransition]]

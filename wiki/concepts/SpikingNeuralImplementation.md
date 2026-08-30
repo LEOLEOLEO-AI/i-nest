@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[ThresholdBasedSpikeEncoding]]
 [[VisualPlaceRecognition]]
 [[iNEST]]
+[[iNEST_Neuromorphic_Integration]]
 [[spiking neural network]]
 
 ## Sources

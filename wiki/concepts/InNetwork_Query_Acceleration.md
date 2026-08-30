@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AsymmetricCoupling]]
 [[CIMWeightUpdateAwareness]]
 [[Complex_System_Theory]]
+[[Efficient_Coding_Constraint]]
 [[EventDrivenSensoryEncoding]]
 [[ExtinctionDrivenMetastability]]
 [[MemoryDrivenInterconnect]]

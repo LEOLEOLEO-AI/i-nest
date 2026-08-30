@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[NonKerrTravelingWaveEmergence]]
 [[Nonlinear_Gain]]
 [[SNN]]
+[[SNN_VisualSemanticDecoder]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

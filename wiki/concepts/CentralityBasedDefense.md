@@ -40,10 +40,11 @@ Auto-extracted concept from raw material compilation.
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
+[[ComponentLevelMolding]]
 [[DistinctReentrantPhases]]
 [[ERI_2_0_Strategy]]
 [[EndToEndDesignAutomation]]
-[[HeavyTailedWaitingTimes]]
+[[HeavyTailedWaitingTime]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[MachineLearningPotential]]
@@ -53,7 +54,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[complex system]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

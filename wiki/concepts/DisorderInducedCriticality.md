@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[NonEquilibriumPhaseTransition]]
 [[NonEquilibriumPhase]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SOC]]
 [[Self_Organized_Criticality]]
 [[Synaptic_Plasticity]]
 [[TCC]]

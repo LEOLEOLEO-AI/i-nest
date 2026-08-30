@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Context_Learning]]
 [[NeuromorphicRL]]
 [[Neuromorphic_Computing]]
+[[NonEquilibriumPhase]]
 [[NonHermitianSpectralCorrelations]]
 [[Phase_Transition_Tail_Transition]]
 [[RecursiveSelfReferentialArchitecture]]

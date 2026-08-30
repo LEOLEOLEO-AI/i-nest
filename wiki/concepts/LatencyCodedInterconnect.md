@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Stacking]]
 [[CongestionAwareNoCPlacement]]
 [[Decoupled_Priors]]
+[[Deep_Network_Architecture_Invariant]]
 [[EquilibriumTreePacking]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
@@ -44,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[SparseTemporalEncoding]]
 [[TCC]]
 [[iNEST]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

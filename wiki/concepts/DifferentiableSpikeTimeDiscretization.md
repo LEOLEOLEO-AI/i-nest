@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AINext_Initiative]]
 [[ActivityAvalanche]]
+[[AdaptiveAsymmetricSurrogateGradients]]
 [[AlloyDisorderEngineering]]
 [[Avoided_Criticality]]
 [[Bidirectional_Temporal_Enhancement]]

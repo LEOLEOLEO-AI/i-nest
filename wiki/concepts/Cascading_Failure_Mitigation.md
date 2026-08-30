@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[BigBrainCellularAxis]]
 [[ComplexValuedSNN]]
+[[ConsciousnessEngineeringLoop]]
 [[CrossInstitutionalNetwork]]
 [[CrossLayer_SignalRouting]]
 [[CrystalPalace_Program]]

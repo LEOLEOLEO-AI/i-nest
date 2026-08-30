@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[ComputeRelocationOverhead]]
 [[CrossbarArrayPrecision]]
 [[FerroelectricMemoryCell]]
+[[Ferroelectric_ComputeInMemory]]
 [[Ferroelectric_Devices]]
 [[Heterogeneous_Integration]]
 [[HybridResistiveMemoryCIM]]

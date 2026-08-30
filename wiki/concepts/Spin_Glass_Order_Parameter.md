@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Strategic_Planning]]
 [[Self_Organized_Criticality]]
 [[TCC]]
+[[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[emerging CMOS memristor]]
 [[iNEST]]
 

@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[3D_IC_Stacking]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[Bipartite_Interconnect_Design]]
+[[Cascading_Failure_Mitigation]]
 [[ConsciousnessEngineeringLoop]]
 [[CrystalPalace_Program]]
 [[DARPA_ProjectManager_Model]]

@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[MemristiveMEMSResonator]]
 [[Milinkovic B (2024)：复杂神经系统涌现动力学结构]]
 [[Network_Topology_Design]]
+[[ResearchAreaEmergence]]
 [[Reservoir_Computing]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
@@ -57,7 +58,6 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[getnote_2025-12-17_3D异构集成_3DHI_技术深度研究_机遇_挑战与未来路径]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

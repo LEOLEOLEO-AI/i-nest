@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalFluctuationReservoir]]
 [[Cross_Brain_Connectome]]
 [[Crystallized_Neural_Manifolds]]
+[[DataProvenanceIntegrity]]
 [[DissipativeQuantumReservoir]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]

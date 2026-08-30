@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[DendriticTaskPartitioning]]
 [[DistributedModelCompression]]
 [[EdgeIoTEnergyAwareness]]
+[[Environmental_Capability_Context]]
 [[FerroelectricDevice]]
 [[Ferroelectric_Devices]]
 [[Heterogeneous_Integration]]

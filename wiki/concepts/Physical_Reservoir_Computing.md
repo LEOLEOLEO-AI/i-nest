@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[EfficientDeepLearning]]
 [[Emergent_Intelligence_Threshold]]
+[[Emergent_Reservoir_Topology]]
 [[Intelligence_Emergence]]
 [[Nonlinear_Gain]]
 [[PhysicalSubstrateReservoir]]

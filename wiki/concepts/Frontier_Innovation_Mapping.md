@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Direct_Training_Spiking_Neural_Networks]]
 [[ElectronicBurstingNeuron]]
 [[Emergent_Intelligence_Threshold]]
+[[EnergyEfficientNeuromorphic]]
 [[Free_Energy_Principle_Network]]
 [[GradientBasedSpikeLearning]]
 [[Gradient_Free_SNN_Learning]]

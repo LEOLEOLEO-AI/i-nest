@@ -38,6 +38,8 @@ Auto-extracted concept from raw material compilation.
 [[Decoupled_Priors]]
 [[Deep_Network_Architecture_Invariant]]
 [[DiagnosticReportFramework]]
+[[Heterogeneous_Integration]]
+[[Independent_AI_Player_Endgame]]
 [[Intelligence_Emergence]]
 [[Memristive_Interconnect]]
 [[Network_Topology_Design]]
@@ -47,7 +49,6 @@ Auto-extracted concept from raw material compilation.
 [[Von_Neumann_Complexity_Threshold_Conjecture]]
 [[complex system]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

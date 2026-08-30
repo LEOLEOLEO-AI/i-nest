@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Co_designed_Online_Continual_Learning]]
 [[Complex_System_Theory]]
 [[Cytokine_Feedback_Loops]]
+[[DynamicalTransitionIdentification]]
 [[Neuromorphic_Computing]]
 [[Online_Continual_Learning]]
 [[STDP_Plasticity]]

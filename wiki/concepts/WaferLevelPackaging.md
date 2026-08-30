@@ -40,10 +40,10 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Resilient_Sensing_Comms_Network]]
+[[SiCSubstrateIntegration]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

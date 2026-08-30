@@ -46,12 +46,14 @@ Auto-extracted concept from raw material compilation.
 [[Software_Defined_Interconnect]]
 [[TCC]]
 [[ThirdWaveAI]]
+[[ThreeLayerArchitecture]]
 [[Topology_Interconnect]]
-[[WaferScaleSystem]]
+[[WaferScale_System]]
 [[Wafer_Chiplet_Topology_Interconnect]]
 [[Wafer_Scale_Integration]]
 [[chiplet interconnect]]
 [[iNEST]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

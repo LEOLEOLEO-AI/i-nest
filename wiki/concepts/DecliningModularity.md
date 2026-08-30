@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[In_Package_Neuromorphic_Integration]]
 [[Intelligence_Emergence]]
+[[MemoryDrivenRouting]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
@@ -49,7 +50,6 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[intellectual base]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

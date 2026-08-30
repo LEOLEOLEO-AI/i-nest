@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Phase_Diagram_of_Model_Scaling]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
+[[TCC]]
 [[神经网络]]
 
 ## Sources

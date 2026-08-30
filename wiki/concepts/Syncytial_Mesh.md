@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[EmulationTheoryObserver]]
 [[FastSlow_Dynamics]]
 [[Free_Energy_Principle_Network]]
+[[ImaginaryGaugePhaseImprint]]
 [[Intelligence_Emergence]]
 [[Memristive_STDP]]
 [[Neuromorphic_Computing]]
@@ -43,7 +44,6 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[iNEST]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

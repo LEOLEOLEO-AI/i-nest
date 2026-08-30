@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[3DGS_SplatPrimitive]]
 [[3DIC_EDA之一_基于Chiplet集成的计算架构]]
 [[3nm_Autonomous_Driving_Chip]]
+[[AI-ML — 全景导航 (Map of Content)]]
 [[AI_Supply_Chain_Increment]]
 [[Analog_InMemory_Processing]]
 [[ArtificialLifeTopologyEvolution]]
@@ -48,7 +49,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[iNEST]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

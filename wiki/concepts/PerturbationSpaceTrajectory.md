@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Recurrent_Network_Homeostasis]]
 [[SNN]]
 [[ST_SNN]]
+[[SpikeEncodingLatency]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[SuperparamagneticSwitchingRate]]

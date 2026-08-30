@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Defense_Industrial_Base_Reshaping]]
 [[Drosophila_FC2_Circuit]]
 [[EfficientDeepLearning]]
+[[EmergentIntelligence_Spacetime]]
 [[Emergent_Intelligence_Threshold]]
 [[Heterogeneous_Inference_Division]]
 [[Heterogeneous_Integration]]

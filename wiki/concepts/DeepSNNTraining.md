@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[DiscreteContinuous_Unification]]
 [[Distributed_Spike_Communication]]
 [[EarlyVisualCortexAliasing]]
+[[EnergyEfficientNeuromorphic]]
 [[FPGA_Accelerated_SNN]]
 [[In_Network_Neuromorphic]]
 [[Interconnect_Routing]]

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenAsynchronousRouting]]
 [[Event_Driven_Architecture]]
 [[FPGACongestionHotspotMitigation]]
+[[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]

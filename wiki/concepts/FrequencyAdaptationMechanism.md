@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeEncoding]]
 [[SpikeInformationDensity]]
 [[Spike_Encoding_of_fMRI]]
+[[Spike_Residual_Connection]]
 [[SpikingTopologyEvolution]]
 [[Spiking_Neural_Network]]
 [[SynapticWeightPlasticity]]

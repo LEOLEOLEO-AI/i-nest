@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[DualSide_Routing_Layer]]
 [[Environmental_Capability_Context]]
 [[Heterogeneous_Integration]]
+[[HodgkinHuxleyDynamics]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[NonHermitian_Topology]]

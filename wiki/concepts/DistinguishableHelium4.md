@@ -57,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[TemporalSpikePattern]]
 [[Temporally_Precise_Training_Parallelization]]
 [[神经网络]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

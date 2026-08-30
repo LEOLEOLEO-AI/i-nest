@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AnalogDomainCompression]]
 [[CST_Theory]]
 [[CST_Theory_V27_FINAL]]
+[[ChipletOpticalIO]]
 [[CombinatorialOptimizationReservoirMapping]]
 [[Complex_System_Theory]]
 [[Criticality]]

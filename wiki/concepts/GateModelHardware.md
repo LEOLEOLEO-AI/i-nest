@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[HypergraphRumorPropagation]]
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]
+[[Network_Specific_Embedding_Separation]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NeuromorphicTransformerTopology]]

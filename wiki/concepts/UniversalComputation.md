@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Interbrain_Geometry]]
 [[Interbrain_Network_Geometry]]
 [[Memristive_Topology]]
+[[National_Planning_Driven_Research_Alignment]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

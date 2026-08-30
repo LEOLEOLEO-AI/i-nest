@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[SelfOrganizedCriticalityConsciousness]]
 [[Self_Organized_Criticality]]
 [[TopologicalAndersonChernInsulator]]
+[[TopologyEmbeddedIntrospection]]
 [[VariationalFreeEnergyMinimisation]]
 [[criticality]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]

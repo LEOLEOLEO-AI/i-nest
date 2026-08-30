@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[EventCameraActionRecognition]]
 [[FPGASNNMemoryOptimization]]
 [[FixedOverheadCost]]
+[[FixedOverheadPenalty]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[NeuralNetworkSpectralAnalysis]]

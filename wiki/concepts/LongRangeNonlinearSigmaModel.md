@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AndersonTransition]]
 [[ArbitraryWavefunctionConfigurability]]
 [[CST计量仪]]
+[[CausalEmergenceCondition]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
 [[MultiTimescaleSeparation]]

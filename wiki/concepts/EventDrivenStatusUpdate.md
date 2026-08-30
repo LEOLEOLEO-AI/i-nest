@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[ContinualLearningOnNeuromorphic]]
 [[Cytokine_Feedback_Loops]]
 [[DebiasingTechniques]]
+[[Droop_Triggered_Workload_Throttling]]
 [[EventBasedNeuralDecoding]]
 [[EventDrivenAutoregression]]
 [[EventDrivenDefenseMechanism]]
@@ -40,7 +41,6 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
-[[spiking neural network dynamics]]
 [[spiking neural network]]
 
 ## Sources

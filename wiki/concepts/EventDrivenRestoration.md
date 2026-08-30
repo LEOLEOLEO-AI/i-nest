@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenAsynchronousRouting]]
 [[EventDrivenAutoregression]]
 [[EventDrivenInference]]
+[[EventDrivenLearning]]
 [[EventDrivenRiskAssessment]]
 [[EventDrivenTracking]]
 [[FirstTimestepConversion]]

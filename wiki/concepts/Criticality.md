@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_Theory]]
 [[CST_Theory_V27_FINAL]]
 [[Categorical_Closure_Criterion]]
+[[ChipletOpticalIO]]
 [[Complex_System_Theory]]
 [[Criticality_Reservoir]]
 [[DynamicalSelfDualCriticality]]

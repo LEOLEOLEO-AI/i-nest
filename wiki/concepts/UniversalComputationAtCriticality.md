@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[EvolvingArchitectureDynamics]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[HybridCouplingThermosensitiveNetwork]]
+[[InSitu_Adjoint_Wave_Control]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[OpenLearningEcosystem]]

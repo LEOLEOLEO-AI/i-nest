@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
 [[NoC_Chiplet_Wafer_Stack]]
+[[OptimalRepresentations]]
 [[SDI_Bond]]
 [[SDI_TCC_iNEST_Interconnect]]
 [[SDSoW]]
@@ -52,9 +53,9 @@ Auto-extracted concept from raw material compilation.
 [[analog computation]]
 [[chiplet interconnect]]
 [[iNEST]]
+[[iNEST_Interconnect]]
 [[residual connection]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

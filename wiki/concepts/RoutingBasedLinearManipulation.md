@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenAsynchronousRouting]]
 [[FPGACongestionHotspotMitigation]]
 [[HighThroughputBioparticleRouting]]
+[[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]
 [[Network_on_Chip]]
 [[NoC_EventRouting]]

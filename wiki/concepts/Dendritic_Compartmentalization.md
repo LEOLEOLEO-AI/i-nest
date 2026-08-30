@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Memristor_Synapse]]
+[[NegotiationAwareRouting]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[Order_Flexibility_Duality]]

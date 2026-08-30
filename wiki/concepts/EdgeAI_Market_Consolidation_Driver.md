@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Security_Architecture]]
 [[Complex_System_Theory]]
 [[ComponentLevelMolding]]
+[[Concepts-Theory — 全景导航 (Map of Content)]]
 [[CriticalInertiaEstimation]]
 [[ERI_2_0_Framework]]
 [[Energy_Efficient_Control]]
@@ -47,13 +48,13 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[L2_L3_Reconfigurability]]
 [[Network_Topology_Design]]
+[[Nonlinear_Gain]]
 [[OptomechanicalNonlinearity]]
 [[TCC]]
 [[chiplet interconnect]]
 [[complex system]]
 [[iNEST]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

@@ -36,13 +36,15 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC_Chiplet_iNEST_Wafer]]
-[[NoC_TopologyMapping]]
+[[NoC_Topology]]
 [[Packaging_CoDesign]]
 [[SDI_Bond]]
 [[SDI_TopologyWaferIntegration]]
+[[SDI_Topology]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[iNEST]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

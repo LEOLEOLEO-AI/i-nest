@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Scheduling]]
 [[In_Package_Neuromorphic_Integration]]
+[[LocalLearning_SynapticUpdate]]
 [[NeuromorphicNetworkSecurity]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Change_Record]]
 [[BioInspiredInterceptionTask]]
 [[BioInspiredInterception]]
+[[BioPlausiblePredictiveCoding]]
 [[Criticality]]
 [[Neuromorphic_Computing]]
 [[SNN]]

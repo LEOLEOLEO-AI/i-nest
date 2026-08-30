@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Decoupling]]
 [[CriticalityDrivenStateTransition]]
 [[Criticality]]
+[[DynamicTokenSparsity]]
 [[DynamicalSelfDualCriticality]]
 [[EventDrivenSynchronization]]
 [[Interconnect_Routing]]

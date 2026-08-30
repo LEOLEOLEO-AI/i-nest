@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AndersonTransition]]
 [[AsymmetricStochasticInteractions]]
 [[AttentionMap_DifferenceResidual]]
+[[Bipartite_Interconnect_Fabric]]
 [[CST计量仪]]
 [[Cauchy_Aczel_Uniqueness]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]

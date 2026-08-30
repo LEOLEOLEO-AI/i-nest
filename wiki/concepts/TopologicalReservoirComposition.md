@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[MantelTest_SignCorrection]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[NonlinearDynamicalSampling]]
 [[PhysicalReservoir]]
 [[RecursiveSelfReferentialArchitecture]]
 [[ReproducibleReservoirDynamics]]

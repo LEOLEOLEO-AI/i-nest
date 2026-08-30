@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Bosonic_SPT_Phases]]
 [[CST_Exponential_Gain]]
 [[Complex_System_Theory]]
+[[CouplingMatrixRecovery]]
 [[Crystallized_Neural_Manifolds]]
 [[DifferentiableLifting]]
 [[Nonlinear_Gain]]

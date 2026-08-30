@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Accessibility_Plasticity]]
 [[Active_Inference_Architecture]]
 [[AnomalousSpinTransport]]
+[[BrainActivityPrediction]]
 [[BrownianCastleInterface]]
 [[CorticalWaveRouting]]
 [[FreeEnergyMinimizationRouting]]

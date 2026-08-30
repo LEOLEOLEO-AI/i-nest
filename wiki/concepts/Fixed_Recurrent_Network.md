@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[PhaseModulationTestability]]
 [[PropertyPredictionModeling]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SDDE_Attractor_Emergence]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[Swarm_Coordination]]

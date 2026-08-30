@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[3D_Torus_6_Degree]]
 [[AI-ML — 全景导航 (Map of Content)]]
 [[ANN动力学]]
+[[AndersonTransition]]
 [[AsymmetricStochasticInteractions]]
 [[AttentionMap_DifferenceResidual]]
 [[Complex_System_Theory]]

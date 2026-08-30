@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[BrainInspired_Chip]]
 [[CIMWeightUpdateAwareness]]
 [[ConductingPolymerDendriteMemory]]
+[[EventStrengthEncoding]]
 [[Event_Driven_Architecture]]
 [[In_Package_Neuromorphic_Integration]]
 [[Interconnect_Routing]]

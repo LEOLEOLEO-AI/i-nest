@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CurrentInjectionSNN]]
 [[Deep_SNN_Trainability]]
 [[DeeplySupervisedSpiking]]
+[[DrivenDissipativeDynamics]]
 [[Emergent_Intelligence_Threshold]]
 [[FPGA_Neuromorphic_Acceleration]]
 [[Hardware_Accelerated_SNN]]

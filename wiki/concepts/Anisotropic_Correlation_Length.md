@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[CompartmentalNeuronModel]]
 [[ComplexValuedSNN]]
+[[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[CrossLayer_SignalRouting]]
 [[DirtyWeylSemimetal]]
 [[DistributedTrainingCommunicationPattern]]

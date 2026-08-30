@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[BranchingRatioControl]]
 [[BranchingRatio]]
 [[CST_Theory]]
+[[CST_Theory_V27_FINAL]]
 [[Cognitive_Relapse_Decoupling]]
 [[Complex_System_Theory]]
 [[Continual_Learning_Modularity]]

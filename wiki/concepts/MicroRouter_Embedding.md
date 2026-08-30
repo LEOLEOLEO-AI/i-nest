@@ -38,7 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
-[[NoC_TopologyMapping]]
+[[NoC_Topology]]
 [[Package_Level_Topology]]
 [[PhysicalWaferTriplet]]
 [[SDI_Bond]]

@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[EpidemicThreshold]]
 [[FreeEnergyMinimization]]
 [[Interconnect_Routing]]
+[[Nanomaterial_Discovery_ML]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[ProjectiveMeasurementRouting]]

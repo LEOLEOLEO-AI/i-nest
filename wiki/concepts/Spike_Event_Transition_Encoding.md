@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Discrete_Event_Spike_Simulation]]
 [[DualDrivenHybridNetwork]]
 [[DynamicTokenSparsity]]
+[[Edge_Neuromorphic_Compute]]
 [[Interconnect_Routing]]
 [[SNN]]
 [[Self_Organized_Criticality]]

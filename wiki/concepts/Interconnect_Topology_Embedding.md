@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Attention_Residuals]]
 [[Baseline_Draft_Status]]
+[[Bipartite_Interconnect]]
 [[Deep_Network_Architecture_Invariant]]
 [[Interconnect_Routing]]
 [[Memristive_Interconnect]]

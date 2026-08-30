@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AlternativeBridgingModels]]
 [[Amorphous_Amorphous_Transition]]
 [[AnomalousSpinTransport]]
+[[BrainActivityPrediction]]
 [[ExtinctionDrivenMetastability]]
 [[FPGA_Accelerated_SNN]]
 [[Meta_Residual_Architecture]]

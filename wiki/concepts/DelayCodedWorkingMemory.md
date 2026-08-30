@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[ContinualLearningOnNeuromorphic]]
 [[ContinuousTimeSNN]]
 [[Continuous_Spatiotemporal_State_Propagation]]
+[[CrossLayer_SignalRouting]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenInference]]
 [[EventDrivenRiskAssessment]]

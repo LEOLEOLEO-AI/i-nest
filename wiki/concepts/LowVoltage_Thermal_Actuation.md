@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Asymptotic_Exact_Solution]]
 [[CST计量仪]]
 [[Complex_System_Theory]]
+[[DataCenter_Chip_Logic_Compression]]
 [[Intelligence_Emergence]]
 [[Multi_Scale_Biological_Integration]]
 [[Network_Topology_Design]]
@@ -45,7 +46,6 @@ Auto-extracted concept from raw material compilation.
 [[Thermopneumatic_Pixel]]
 [[iNEST]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

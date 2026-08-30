@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[OptimalControlPolicyLearning]]
 [[SelfMotivatedGrowth]]
 [[Self_Organized_Criticality]]
+[[UniversalComputationAtCriticality]]
 [[catastrophic forgetting]]
 [[iNEST]]
 

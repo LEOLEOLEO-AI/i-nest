@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[ArbitraryWavefunctionConfigurability]]
 [[Architectural_Conditioning]]
 [[BackpropFree_Learning]]
+[[Beyond_Moore_Packaging_Strategy]]
 [[CST_Theory]]
 [[CST计量仪]]
 [[CausalIntegrationTopology]]
@@ -56,7 +57,6 @@ Auto-extracted concept from raw material compilation.
 [[emergent computation]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

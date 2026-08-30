@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Biomanufacturing_Control_Loop]]
 [[Cognitive_Relapse_Architecture]]
 [[Contested_Priors_Mechanism]]
+[[CouplingMatrixRecovery]]
 [[CriticalFixedPoint]]
 [[DendriticReservoirState]]
 [[DifferentiableLifting]]

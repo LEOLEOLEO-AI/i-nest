@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST_Neuromorphic_Integration]]
 [[spiking neural network]]
 [[temporal coding]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

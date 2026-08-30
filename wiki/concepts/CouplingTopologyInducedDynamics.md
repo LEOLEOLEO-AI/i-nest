@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[NonequilibriumLangevinComputing]]
 [[NonlinearDynamicalSampling]]
 [[Nonlinear_Gain]]
+[[PhysicalReservoirDynamicsEncoding]]
 [[PhysicalSubstrateReservoirComputing]]
 [[PhysicalSubstrateReservoir]]
 [[Reservoir_Computing]]

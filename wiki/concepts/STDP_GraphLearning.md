@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Quadratic_Integrate_and_Fire]]
 [[Quadratic_Integrate_and_Fire_Neuron]]
 [[QuantumDeeplySupervisedSpiking]]
+[[SDI_STDP]]
 [[STDP_Plasticity]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

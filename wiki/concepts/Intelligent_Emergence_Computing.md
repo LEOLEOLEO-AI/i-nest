@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveTimeStepTraining]]
 [[Adaptive_Deep_Brain_Stimulation]]
 [[AnisotropicGaussianPrimitives]]
+[[AstrocyteInspiredRepair]]
 [[Complex_Network_Brain_Inspired_Computing]]
 [[Complex_System_Theory]]
 [[FPGA_Neuromorphic_Architectures]]

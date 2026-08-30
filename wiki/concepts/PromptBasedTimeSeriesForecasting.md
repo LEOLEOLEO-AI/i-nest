@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
+[[TacticalEdgeIntelligence]]
 [[iNEST]]
 
 ## Sources

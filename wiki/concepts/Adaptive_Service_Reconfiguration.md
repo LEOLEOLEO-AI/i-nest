@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[JointFlightRoutingOptimization]]
 [[LLMDrivenPathSelection]]
+[[MeasurementInducedLinearity]]
 [[Network_Topology_Design]]
 [[PhaseAwareBisectionDemand]]
 [[SelfOrganization]]

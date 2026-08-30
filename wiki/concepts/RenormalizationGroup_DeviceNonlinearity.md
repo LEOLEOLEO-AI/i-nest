@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
+[[PhysicalReservoirTransientDynamics]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Universal_Scaling_Laws]]
 [[complex system]]

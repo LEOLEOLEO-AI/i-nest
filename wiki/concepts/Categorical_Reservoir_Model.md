@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Coupling_Strength_Encoding]]
 [[DeviationScalingIndex]]
+[[InNetwork_Learning_Interface]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]

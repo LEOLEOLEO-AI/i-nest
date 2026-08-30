@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[ExtinctionDrivenMetastability]]
 [[InteractingQuasiPeriodicChain]]
 [[Interconnect_Routing]]
+[[Localized_Feedback_Array]]
 [[MoE_Routing]]
 [[Neuromorphic_Computing]]
 [[SNN]]

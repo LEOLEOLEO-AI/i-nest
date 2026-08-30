@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[MacroscopicDescriptor]]
 [[Memory_Wall]]
 [[Memristive_ANN_Hardware]]
+[[Memristive_STDP]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[Network_topology_and_interconnection_patterns]]

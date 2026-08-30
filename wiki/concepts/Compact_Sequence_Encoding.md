@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Architecture]]
 [[Compute_In_Memory_Neuromorphic]]
 [[ConductingPolymerDendriteMemory]]
+[[EventDrivenPlasticity]]
 [[EventDrivenTemplateUpdate]]
 [[In_Memory_Computing]]
 [[In_Package_Neuromorphic_Integration]]

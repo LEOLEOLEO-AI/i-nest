@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[CLINKAsCarrierPrimitive]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
+[[Chiplet_Topology_Interconnect]]
 [[CongestionAwareNoCPlacement]]
 [[Free_Energy_Topology_Mapping]]
 [[GlobalDecision_LocalExecution_ControlPlane]]
@@ -40,14 +41,17 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[Second_Curve_Wafer_Industry_Platform]]
+[[SoftwareDefinedSystemOnWafer]]
 [[SoftwareDefined_NoC_Routing]]
 [[TCC]]
+[[Topology_Interconnect]]
 [[WaferScaleTopologyCentricComputing]]
 [[Wafer_Chiplet_Topology_Interconnect]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Topology]]
 [[chiplet interconnect]]
 [[iNEST]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

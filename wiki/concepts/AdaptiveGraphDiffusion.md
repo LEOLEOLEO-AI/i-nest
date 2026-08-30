@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Assisted_Energy_Optimization]]
 [[AI_FullSpectrum_Strategy]]
 [[AdaptiveDensityControl]]
+[[Adaptive_Intelligence_Principle]]
 [[Adaptive_Service_Orchestration]]
 [[Additive_Manufacturing_Supply_Chain]]
 [[Advanced_Packaging_for_Space]]
@@ -45,7 +46,6 @@ Auto-extracted concept from raw material compilation.
 [[Expert_Review_Arbitration]]
 [[FisherInformationMetric]]
 [[Heterogeneous_Integration]]
-[[Heterogeneous_Integration_Roadmap_HIR]]
 [[In_Memory_Computing]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]
@@ -57,7 +57,6 @@ Auto-extracted concept from raw material compilation.
 [[TopologyAwareStateMigration]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

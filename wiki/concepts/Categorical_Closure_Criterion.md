@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Compute_Graph]]
 [[HierarchicalReservoirDynamics]]
 [[KV_Cache_To_BoundaryObject]]
+[[Long_Range_Interactions]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[QuantumReservoirGeneralTheory]]

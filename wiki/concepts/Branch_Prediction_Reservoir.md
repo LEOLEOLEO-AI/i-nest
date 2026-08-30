@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AnalogDomainCompression]]
 [[Architectural_Conditioning]]
 [[Bosonic_SPT_Phases]]
+[[Categorical_Closure_Criterion]]
 [[CommunicationAwareComputeRelocation]]
 [[CouplingMatrixRecovery]]
 [[Criticality]]

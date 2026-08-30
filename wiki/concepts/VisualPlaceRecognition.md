@@ -37,11 +37,13 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[ST_SNN]]
+[[SpikeEncoding]]
 [[SpikingNeuralImplementation]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[ThresholdBasedSpikeEncoding]]
 [[iNEST]]
+[[iNEST_Neuromorphic_Integration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

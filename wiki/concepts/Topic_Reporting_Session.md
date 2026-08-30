@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikingMoE_SDPrompt]]
 [[Spiking_Mixture_of_Experts]]
 [[Spiking_Neural_Network]]
+[[SpontaneousOrderMechanism]]
 [[TCC]]
 [[TSVEncapsulationStress]]
 [[complex system]]

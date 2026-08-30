@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Environmental_Capability_Context]]
 [[FirstPrinciples_Derivation]]
+[[Hebbian_Embedding_Dynamics]]
 [[Heterogeneous_Integration]]
 [[Loihi2_OnChip_Learning]]
 [[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]

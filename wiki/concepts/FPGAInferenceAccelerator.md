@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[EnsembleCreditAssignment]]
 [[EventDrivenInference]]
 [[EventDrivenModularArchitecture]]
+[[EvolutionaryDiversityPreservation]]
 [[FPGAInference]]
 [[Interconnect_Routing]]
 [[LocalInteractionDrivenReconfiguration]]

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[BondMovingDecimation]]
+[[ChipletRoutingFabric]]
 [[CongestionAwareNoCPlacement]]
 [[DelayCouplingMatrix]]
 [[EquilibriumTreePacking]]

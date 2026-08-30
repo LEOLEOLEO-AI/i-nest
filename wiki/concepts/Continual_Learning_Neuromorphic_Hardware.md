@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[AutoAssociativeMemoryRobustness]]
 [[BCM滑动阈值]]
 [[Battlefield_AI_Deployment]]
+[[CST计量仪]]
 [[Complex_System_Theory]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]
@@ -55,7 +56,6 @@ Auto-extracted concept from raw material compilation.
 [[synaptic plasticity]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

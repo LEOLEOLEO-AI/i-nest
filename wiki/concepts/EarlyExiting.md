@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Ant_Swarm_Functional_Control]]
 [[BurstGatedRouting]]
 [[Cognitive_Relapse_Decoupling]]
+[[Continual_Learning_Modularity]]
 [[Critical_Region_Extension]]
 [[CriticalityInNetworkComputing]]
 [[Criticality]]

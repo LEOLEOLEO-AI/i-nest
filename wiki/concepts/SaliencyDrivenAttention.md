@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[BioPlausiblePredictiveCoding]]
 [[Complex_System_Theory]]
 [[DiscreteSTDP]]
+[[DistinguishableHelium4]]
 [[DynamicTokenSparsity]]
 [[Dynamic_Expert_Fusion]]
 [[Edge_Neuromorphic_Compute]]

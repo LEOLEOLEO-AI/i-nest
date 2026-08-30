@@ -42,9 +42,11 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Inference_Workload_Profiling]]
 [[Intelligence_Emergence]]
+[[Interconnect_Routing]]
 [[Logic_Folding]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
+[[Packaging_Aware_NoC_Design]]
 [[RadiationHardened_ProcessNodeScaling]]
 [[SDI_Bond]]
 [[SDI_Control_Plane_Offload]]
@@ -55,7 +57,6 @@ Auto-extracted concept from raw material compilation.
 [[TopologyPage_Preloading]]
 [[VectorFlowField]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

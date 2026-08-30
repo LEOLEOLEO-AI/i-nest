@@ -32,14 +32,16 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Synapse]]
 [[Memristor_Topology]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
 [[NoC_Chiplet_iNEST_Wafer]]
+[[ReconfigurablePhotonicNetwork]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
-[[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

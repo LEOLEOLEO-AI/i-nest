@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[FerroelectricCrossbarArray]]
 [[Ferroelectric_Devices]]
 [[Heterogeneous_Integration]]
+[[LIF_Neuron_Model]]
 [[Loihi2_OnChip_Learning]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]

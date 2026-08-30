@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Medical_Large_Language_Models]]
 [[MetaFAIR_ArchitectureDiscovery]]
+[[Microsecond_Link_Reconfiguration]]
 [[MultiplicativeGain]]
 [[Network_Spatiotemporal_Synergy]]
 [[Network_Topology_Design]]
@@ -58,9 +59,9 @@ Auto-extracted concept from raw material compilation.
 [[TopologyFragility]]
 [[WaferScaleSubstrate]]
 [[iNEST]]
+[[iNEST_Wafer]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

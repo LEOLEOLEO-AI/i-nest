@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[OcclusionHandlingStrategy]]
 [[SNN]]
 [[SelectorFreeHopfieldNetwork]]
+[[Sparsity_Degradation_Threshold]]
 [[SpikeEncoding]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrain3DHistology]]
 [[Complex_Network_Class_Brain_Computing]]
 [[Complex_System_Theory]]
+[[Connectome_Reservoir]]
 [[Neuromorphic_Computing]]
 [[Spiking_Neural_Network]]
 [[biologically plausible learning rules]]

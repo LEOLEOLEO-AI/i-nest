@@ -33,11 +33,13 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect_Topology]]
 [[Complex_System_Theory]]
 [[ComponentLevelMolding]]
+[[Concepts-Theory — 全景导航 (Map of Content)]]
 [[DiscreteContinuous_Unification]]
 [[DistinctReentrantPhases]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
+[[Nonlinear_Gain]]
 [[OptomechanicalNonlinearity]]
 [[Photonic_Chiplet_Interconnect]]
 [[QuantumChaos]]
@@ -56,7 +58,6 @@ Auto-extracted concept from raw material compilation.
 [[scaling laws]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

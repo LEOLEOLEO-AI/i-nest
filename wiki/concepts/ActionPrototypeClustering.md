@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Cross_Node_Event_Propagation]]
 [[DelayCodedWorkingMemory]]
 [[Distributed_Spike_Communication]]
+[[DrivenDissipativeDynamics]]
 [[EventDrivenPlasticity]]
 [[FixedOverheadDominance]]
 [[Loihi2_OnChip_Learning]]

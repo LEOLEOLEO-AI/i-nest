@@ -41,10 +41,10 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Inference_Stage_Decomposition]]
 [[Intelligence_Emergence]]
+[[Logic_Folding]]
 [[Network_on_Chip]]
 [[TCC]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

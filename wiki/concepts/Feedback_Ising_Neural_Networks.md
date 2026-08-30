@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_ProjectManager_Model]]
 [[DisturbancePropagationPath]]
 [[ElectronicPhotonicIntegratedCircuit]]
+[[GateModelHardware]]
 [[Heterogeneous_Integration]]
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]

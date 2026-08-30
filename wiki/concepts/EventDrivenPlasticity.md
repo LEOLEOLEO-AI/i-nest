@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[OcclusionHandlingStrategy]]
 [[RecursiveSelfReferentialArchitecture]]
 [[ResistiveMemoryWriteBudgeting]]
+[[SNN]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

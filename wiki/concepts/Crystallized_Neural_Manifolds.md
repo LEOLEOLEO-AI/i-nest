@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CausalEmergenceCondition]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
+[[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Connectome]]
 [[DeviceConductanceTuning]]
 [[DistinctReentrantPhases]]

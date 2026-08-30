@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[CompactFieldVariable]]
 [[Complex_System_Theory]]
 [[CrossbarArrayArchitecture]]
+[[DynamicServiceComposition]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[InterconnectConstrainedEmergence]]
@@ -45,7 +46,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[iNEST]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

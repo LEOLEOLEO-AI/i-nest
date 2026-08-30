@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[SNN_Sparsity_InformationBound]]
 [[Self_Organized_Criticality]]
+[[SparseHubsCoupling]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[TCC]]

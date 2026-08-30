@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[ScalableNeuromorphicTopology]]
+[[TCC_Neuromorphic_Integration]]
 [[complex system]]
 [[emerging CMOS memristor]]
 [[iNEST]]

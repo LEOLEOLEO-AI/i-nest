@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Epithelial_Barrier_Integrity]]
 [[Heterogeneous_Synaptic_Motifs]]
+[[Hyper_Dimensional_Computing]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Langevin_Dynamics_Convergence]]
@@ -54,7 +55,6 @@ Auto-extracted concept from raw material compilation.
 [[neuromorphic computing]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AIRA_NeuralArchSearch]]
+[[AI_Faculty_Forum_2026]]
 [[BigBrainCellularAxis]]
 [[ConductingPolymerDendriteMemory]]
 [[Crystallized_Embedding_Reservoir]]

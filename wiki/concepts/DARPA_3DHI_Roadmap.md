@@ -58,11 +58,11 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TOOLS]]
 [[chiplet interconnect]]
+[[getnote_2025-12-17_3D异构集成_3DHI_技术深度研究_机遇_挑战与未来路径]]
 [[heterogeneous_integration]]
 [[iNEST]]
 [[tools]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经形态脉冲大语言模型（NSLLM）]]
 
 ## Sources

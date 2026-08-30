@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Distributed_Spike_Communication]]
 [[FerroelectricSynapse]]
 [[Ferroelectric_Devices]]
+[[Ferroelectric_Synaptic_Devices]]
 [[LIF_Neuron_Model]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[ContinuousTimeSNN]]
 [[CriticalityDrivenStateTransition]]
 [[Criticality]]
+[[Criticality_Based_Feature_Extraction]]
 [[DualModeSNNConventionalInference]]
 [[DynamicTokenSparsity]]
 [[EEG_Criticality]]

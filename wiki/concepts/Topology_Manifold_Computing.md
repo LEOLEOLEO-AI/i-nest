@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Driven_Architecture_Search]]
 [[AI_Faculty_Forum_2026]]
 [[AI_Forum_Demo_Narrative]]
+[[AndersonTransition]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CircuitTopologySearch]]
 [[Complex_System_Theory]]
@@ -37,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[In_Package_Neuromorphic_Integration]]
 [[Intelligence_Emergence]]
+[[Interconnect_Routing]]
 [[MemoryDrivenRouting]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
@@ -49,7 +51,6 @@ Auto-extracted concept from raw material compilation.
 [[TopologicalDataCompression]]
 [[advanced packaging]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

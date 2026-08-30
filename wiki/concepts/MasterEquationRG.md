@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Generalization_Bound_Spectra]]
 [[GradientFreeTraining]]
 [[Heterogeneous_Synaptic_Motifs]]
+[[Hyper_Dimensional_Computing]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[QuantumReservoirMemoryCapacity]]
@@ -48,7 +49,6 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[iNEST]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

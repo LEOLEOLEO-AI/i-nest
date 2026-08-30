@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AnomalousSpinTransport]]
 [[DARPA_ProjectManager_Model]]
 [[DivergentHigherAreaRanking]]
+[[ErrorSuppressedPipeline]]
 [[Globally_Optimal_SNN_Training]]
 [[HardwareAware_DesignSpace]]
 [[InNetworkSignalRecovery]]
@@ -40,6 +41,8 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[Reservoir_Computing]]
 [[SDDE_Attractor_Emergence]]
+[[SNN]]
+[[Spiking_Neural_Network]]
 [[neuromorphic substrate]]
 
 ## Sources

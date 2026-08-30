@@ -37,6 +37,8 @@ Auto-extracted concept from raw material compilation.
 [[LowRankPerturbation]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
+[[Neuromorphic_Computing]]
+[[Persistent_Homology_Neuron]]
 [[QuantumCoherenceSpikeCoupling]]
 [[Representation_Learning_Generalization]]
 [[SNN]]

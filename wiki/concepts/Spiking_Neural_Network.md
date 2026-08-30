@@ -9,7 +9,7 @@ aliases:
 **Last updated**: 2026-07-30
 
 ## Definition
-Spiking neural network dynamics and computation
+Spiking_Neural_Network dynamics and computation
 
 ## Context
 Auto-extracted concept from raw material compilation.
@@ -54,9 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Encoding_of_fMRI]]
 [[Spike_timing_dependent_plasticity]]
 [[Spike_timing_dependent_plasticity_learning_rule]]
-[[Spiking neural network]]
 [[Spiking_neural_network]]
-[[Spiking_neural_network_dynamics]]
 [[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]
 [[ThermalNoiseHarnessing]]

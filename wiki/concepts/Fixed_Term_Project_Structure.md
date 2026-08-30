@@ -25,6 +25,8 @@ Auto-extracted concept from raw material compilation.
 [[Amorphous_Amorphous_Transition]]
 [[BackflowTransformation]]
 [[Baseline_Change_Record]]
+[[BrownianCastleInterface]]
+[[Complex_System_Theory]]
 [[Contested_Prior_Resolution]]
 [[EpidemicThreshold]]
 [[EventCameraTemporalEncoding]]
@@ -46,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Workload_Isolation]]
 [[hls4ml_SNN_Conversion]]
 [[iNEST]]
+[[iNEST_Interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

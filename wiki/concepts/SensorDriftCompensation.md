@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN_SNN_ConversionError]]
 [[AcceleratedMaterialScreening]]
 [[AdversarialResilience]]
+[[AlternativeBridgingModels]]
 [[AmorphousSolidPlasticity]]
 [[AstrocyteInspiredRepair]]
 [[Contested_Prior_Resolution]]

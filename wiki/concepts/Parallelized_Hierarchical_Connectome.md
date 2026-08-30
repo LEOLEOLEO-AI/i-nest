@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence_Threshold]]
 [[FrozenRateOperator]]
+[[Heterogeneous_Synaptic_Motifs]]
 [[InNetworkNeuromorphicSimulation]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[4H_SiC_SubstrateProcessing]]
 [[AI-ML — 全景导航 (Map of Content)]]
 [[AI_Faculty_Forum_2026]]
+[[Adaptive_Deep_Brain_Stimulation]]
 [[Attention_Residuals]]
 [[CST_Equation]]
 [[Complex_System_Theory]]

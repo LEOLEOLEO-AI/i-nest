@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossbarSNNArchitecture]]
 [[DevelopmentalNeuromorphicAdaptation]]
 [[EarlyVisualCortexAliasing]]
+[[EventDrivenModularArchitecture]]
 [[FPGA_Accelerated_SNN]]
 [[FPGA_Neuromorphic_Acceleration]]
 [[FPGA_Neuromorphic_Architectures]]

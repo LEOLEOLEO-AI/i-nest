@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[ConstraintDrivenSelfOrganization]]
 [[CriticalityDrivenStateTransition]]
 [[Criticality]]
+[[CrossbarFabricTopology]]
 [[Dimensionality_Modularity_Tradeoff]]
 [[DynamicCentralitySteering]]
 [[FunctionalRelevanceDrivenSelfOrganization]]

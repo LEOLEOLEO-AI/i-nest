@@ -38,7 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[MicroRouter_Embedding]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
-[[NoC_TopologyMapping]]
+[[NoC_Topology]]
 [[PhysicalWaferTriplet]]
 [[SDI_Bond]]
 [[SDSoW]]

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CorticalWaveRouting]]
 [[CrossLayer_SignalRouting]]
 [[DirectConnect_Topology]]
+[[EventCameraTemporalEncoding]]
 [[EventDrivenAsynchronousRouting]]
 [[FC2_Goal_Representation]]
 [[FPGACongestionHotspotMitigation]]

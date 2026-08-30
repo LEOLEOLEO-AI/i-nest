@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[HierarchicalModularReservoirs]]
 [[In_Context_Learning]]
 [[Intelligence_Emergence]]
+[[MutualReinforcementDynamics]]
 [[Network_Topology_Design]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]

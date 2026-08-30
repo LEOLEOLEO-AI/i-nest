@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_SDI_Integration]]
 [[OnChipOpticalTweezers]]
 [[RTC_Primitive]]
+[[RTC_Primitives]]
 [[SDI_Bond]]
 [[SDI_NPU_NoC_Integration]]
 [[SDI_TCC_Chiplet]]

@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[RestingStateEEG_Connectivity]]
 [[Spatiotemporal_Emergence_Model]]
 [[Spiking_Neural_Network]]
+[[TCC_Neuromorphic_Integration]]
 [[Teleportation_Assisted_Interconnect]]
 [[iNEST]]
 [[神经网络]]

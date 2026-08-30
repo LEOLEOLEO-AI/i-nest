@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeEncoding]]
 [[SpikerLL_Accelerator]]
 [[Spiking_Neural_Network]]
+[[StrategyDiffusionCoupling]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]

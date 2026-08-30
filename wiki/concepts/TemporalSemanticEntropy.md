@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[PromptBasedTimeSeriesForecasting]]
 [[QuantumAnnealerSynapticTest]]
 [[RecursiveSelfReferentialArchitecture]]
+[[RoleGeometryEmbedding]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

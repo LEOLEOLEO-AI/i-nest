@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AgenticServiceOrchestration]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Ant_Swarm_Functional_Control]]
+[[ArchitecturalCondition]]
 [[Attention_Residuals]]
 [[Baseline_Draft_Status]]
 [[Closed_Loop_Neuromodulation]]

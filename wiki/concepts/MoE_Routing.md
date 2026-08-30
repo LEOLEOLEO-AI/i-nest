@@ -45,13 +45,13 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[LEO_Satellite_Routing_RL]]
 [[Network_Topology_Design]]
+[[OpenLearningEcosystem]]
 [[Routing_Color_Bits]]
 [[SpectralGapMoE]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[Topological_Anderson_Insulator]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

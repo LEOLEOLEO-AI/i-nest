@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality_Induced_Plasticity]]
 [[DiffusionInducedInstability]]
 [[Dimensionality_Modularity_Tradeoff]]
+[[DynamicCentralitySteering]]
 [[Dynamic_Expert_Fusion]]
 [[FormalLinguisticCompetence]]
 [[Intelligence_Emergence]]

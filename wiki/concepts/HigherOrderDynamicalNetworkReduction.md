@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Memory_Wall]]
 [[Multimodal_Network_SDI]]
 [[Network_Topology_Design]]
+[[RTC_Primitives]]
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
 [[STDP_Plasticity]]
@@ -45,7 +46,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[chiplet interconnect]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

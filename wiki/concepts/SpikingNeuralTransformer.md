@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Event_Driven_Attention]]
 [[Spiking_Neural_Network]]
 [[Spinal_CPG_Coordinated_Control]]
+[[SynapticConsolidation]]
 [[iNEST]]
 
 ## Sources

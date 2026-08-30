@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[EventDrivenRiskAssessment]]
 [[EventDrivenTracking]]
+[[Event_Driven_Communication]]
 [[In_Package_Neuromorphic_Integration]]
 [[Memristive_Interconnect]]
 [[MetaFAIR_ArchitectureDiscovery]]

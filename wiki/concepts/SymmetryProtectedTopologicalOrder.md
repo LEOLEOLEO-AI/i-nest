@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_InMemory_Processing]]
 [[ArchitecturalGrounding]]
 [[Architectural_Conditioning]]
+[[AthermalRandomFieldBlumeCapel]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
 [[EdgeIoTEnergyAwareness]]
@@ -55,7 +56,6 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[智能涌现]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

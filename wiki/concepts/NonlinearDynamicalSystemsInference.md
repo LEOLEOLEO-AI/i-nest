@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[DataDrivenCellularAxis]]
 [[DrivenDissipativeDynamics]]
 [[ErrorSuppressedPipeline]]
+[[EvolutionaryReservoirLearning]]
 [[In_Network_Neuromorphic]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[LocalPlasticityPipeline]]
 [[Neuromorphic_Computing]]
 [[QuantumProbabilityFlowHebbian]]
+[[ReconfigurableSpikingRouting]]
 [[SelfOrganization]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]

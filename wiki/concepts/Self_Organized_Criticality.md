@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicalCriticality]]
 [[Edge_of_Chaos_Coastal_Dynamics]]
 [[MicroCriticalAgent]]
+[[NonEquilibriumPhaseTransition]]
 [[NonEquilibriumPhase]]
 [[OptimalRepresentation]]
 [[Synaptic_Plasticity]]

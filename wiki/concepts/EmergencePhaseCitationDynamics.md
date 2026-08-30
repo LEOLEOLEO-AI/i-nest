@@ -26,7 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Complex_System_Theory]]
 [[Complexity_Coordination_Layer]]
-[[Complexity_Emergence_Engineering]]
+[[Complexity_Emergence]]
 [[DataDrivenCellularAxis]]
 [[Distributed_Spike_Communication]]
 [[Heterogeneous_Integration]]
@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Neuromorphic]]
 [[complex system]]
 [[iNEST]]
+[[iNEST_Neuromorphic_Integration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

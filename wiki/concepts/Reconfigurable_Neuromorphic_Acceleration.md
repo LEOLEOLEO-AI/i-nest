@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CollectiveSpikingDynamics]]
 [[CriticalityDrivenStateTransition]]
 [[Criticality]]
+[[Criticality_Based_Feature_Extraction]]
 [[DynamicTokenSparsity]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenModularArchitecture]]
