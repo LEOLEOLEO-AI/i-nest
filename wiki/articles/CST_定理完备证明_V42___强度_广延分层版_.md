@@ -1,3 +1,10 @@
+---
+title: "CST 定理完备证明（V42 · 强度—广延分层版）"
+type: article-summary
+domain: Cross
+created: 2026-08-10
+auto: true
+---
 # CST 定理完备证明（V42 · 强度—广延分层版）
 
 **Domain**: Cross

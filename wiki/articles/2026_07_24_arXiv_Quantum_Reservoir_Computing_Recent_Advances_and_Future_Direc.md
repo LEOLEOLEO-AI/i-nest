@@ -1,3 +1,10 @@
+---
+title: "2026-07-24_arXiv_Quantum Reservoir Computing Recent Advances and Future Direc"
+type: article-summary
+domain: Cross
+created: 2026-08-23
+auto: true
+---
 # 2026-07-24_arXiv_Quantum Reservoir Computing Recent Advances and Future Direc
 
 **Domain**: Cross

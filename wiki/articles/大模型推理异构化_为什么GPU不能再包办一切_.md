@@ -1,3 +1,10 @@
+---
+title: "大模型推理异构化：为什么GPU不能再包办一切？"
+type: article-summary
+domain: TCC
+created: 2026-08-06
+auto: true
+---
 # 大模型推理异构化：为什么GPU不能再包办一切？
 
 **Domain**: TCC

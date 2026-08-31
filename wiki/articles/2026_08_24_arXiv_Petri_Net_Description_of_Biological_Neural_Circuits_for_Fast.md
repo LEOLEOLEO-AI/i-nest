@@ -1,3 +1,10 @@
+---
+title: "2026-08-24_arXiv_Petri Net Description of Biological Neural Circuits for Fast"
+type: article-summary
+domain: iNEST
+created: 2026-08-25
+auto: true
+---
 # 2026-08-24_arXiv_Petri Net Description of Biological Neural Circuits for Fast
 
 **Domain**: iNEST

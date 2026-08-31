@@ -1,3 +1,10 @@
+---
+title: "2026-07-18_OA_Edge-Cloud Collaborative Computing on Distributed Intelligence and Model Optimiz"
+type: article-summary
+domain: iNEST
+created: 2026-08-23
+auto: true
+---
 # 2026-07-18_OA_Edge-Cloud Collaborative Computing on Distributed Intelligence and Model Optimiz
 
 **Domain**: iNEST

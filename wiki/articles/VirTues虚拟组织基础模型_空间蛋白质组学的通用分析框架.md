@@ -1,3 +1,10 @@
+---
+title: "VirTues虚拟组织基础模型：空间蛋白质组学的通用分析框架"
+type: article-summary
+domain: iNEST
+created: 2026-08-19
+auto: true
+---
 # VirTues虚拟组织基础模型：空间蛋白质组学的通用分析框架
 
 **Domain**: iNEST

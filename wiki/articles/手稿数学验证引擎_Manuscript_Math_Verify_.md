@@ -1,3 +1,10 @@
+---
+title: "手稿数学验证引擎（Manuscript Math Verify）"
+type: article-summary
+domain: iNEST
+created: 2026-08-23
+auto: true
+---
 # 手稿数学验证引擎（Manuscript Math Verify）
 
 **Domain**: iNEST

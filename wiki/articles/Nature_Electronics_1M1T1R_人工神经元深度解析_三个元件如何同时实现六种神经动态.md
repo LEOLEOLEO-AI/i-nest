@@ -1,3 +1,10 @@
+---
+title: "Nature Electronics 1M1T1R 人工神经元深度解析：三个元件如何同时实现六种神经动态"
+type: article-summary
+domain: iNEST
+created: 2026-08-30
+auto: true
+---
 # Nature Electronics 1M1T1R 人工神经元深度解析：三个元件如何同时实现六种神经动态
 
 **Domain**: iNEST

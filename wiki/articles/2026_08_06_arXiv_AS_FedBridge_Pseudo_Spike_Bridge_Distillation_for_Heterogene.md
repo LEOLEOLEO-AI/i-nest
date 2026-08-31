@@ -1,3 +1,10 @@
+---
+title: "2026-08-06_arXiv_AS-FedBridge Pseudo-Spike Bridge Distillation for Heterogene"
+type: article-summary
+domain: iNEST
+created: 2026-08-23
+auto: true
+---
 # 2026-08-06_arXiv_AS-FedBridge Pseudo-Spike Bridge Distillation for Heterogene
 
 **Domain**: iNEST

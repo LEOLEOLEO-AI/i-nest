@@ -1,3 +1,10 @@
+---
+title: "2026-07-31_arXiv_Reconstructing Backpropagation from Forward Fluctuations in"
+type: article-summary
+domain: iNEST
+created: 2026-08-23
+auto: true
+---
 # 2026-07-31_arXiv_Reconstructing Backpropagation from Forward Fluctuations in 
 
 **Domain**: iNEST

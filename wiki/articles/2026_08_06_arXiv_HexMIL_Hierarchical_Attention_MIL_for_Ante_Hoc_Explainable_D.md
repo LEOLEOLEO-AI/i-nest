@@ -1,3 +1,10 @@
+---
+title: "2026-08-06_arXiv_HexMIL Hierarchical Attention MIL for Ante-Hoc Explainable D"
+type: article-summary
+domain: Cross
+created: 2026-08-23
+auto: true
+---
 # 2026-08-06_arXiv_HexMIL Hierarchical Attention MIL for Ante-Hoc Explainable D
 
 **Domain**: Cross

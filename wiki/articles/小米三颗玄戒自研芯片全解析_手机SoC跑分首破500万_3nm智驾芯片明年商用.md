@@ -1,3 +1,10 @@
+---
+title: "小米三颗玄戒自研芯片全解析：手机SoC跑分首破500万，3nm智驾芯片明年商用"
+type: article-summary
+domain: TCC
+created: 2026-08-25
+auto: true
+---
 # 小米三颗玄戒自研芯片全解析：手机SoC跑分首破500万，3nm智驾芯片明年商用
 
 **Domain**: TCC

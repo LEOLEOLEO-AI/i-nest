@@ -1,3 +1,10 @@
+---
+title: "台积电CoPoS vs 英特尔EMIB：先进Chiplet集成的两条技术路线深度对比"
+type: article-summary
+domain: TCC
+created: 2026-08-06
+auto: true
+---
 # 台积电CoPoS vs 英特尔EMIB：先进Chiplet集成的两条技术路线深度对比
 
 **Domain**: TCC

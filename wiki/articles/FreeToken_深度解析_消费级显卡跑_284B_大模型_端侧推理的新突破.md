@@ -1,3 +1,10 @@
+---
+title: "FreeToken 深度解析：消费级显卡跑 284B 大模型，端侧推理的新突破"
+type: article-summary
+domain: iNEST
+created: 2026-08-23
+auto: true
+---
 # FreeToken 深度解析：消费级显卡跑 284B 大模型，端侧推理的新突破
 
 **Domain**: iNEST

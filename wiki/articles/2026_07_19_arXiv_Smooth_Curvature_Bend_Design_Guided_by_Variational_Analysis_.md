@@ -1,3 +1,10 @@
+---
+title: "2026-07-19_arXiv_Smooth-Curvature Bend Design Guided by Variational Analysis"
+type: article-summary
+domain: TCC
+created: 2026-08-23
+auto: true
+---
 # 2026-07-19_arXiv_Smooth-Curvature Bend Design Guided by Variational Analysis 
 
 **Domain**: TCC

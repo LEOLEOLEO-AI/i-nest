@@ -1,3 +1,10 @@
+---
+title: "Hassabis 访谈：自然演化如何塑造可计算的系统结构"
+type: article-summary
+domain: TCC
+created: 2026-08-23
+auto: true
+---
 # Hassabis 访谈：自然演化如何塑造可计算的系统结构
 
 **Domain**: TCC

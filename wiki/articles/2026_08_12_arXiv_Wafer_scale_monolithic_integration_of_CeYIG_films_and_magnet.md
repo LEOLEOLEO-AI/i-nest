@@ -1,3 +1,10 @@
+---
+title: "2026-08-12_arXiv_Wafer-scale monolithic integration of CeYIG films and magnet"
+type: article-summary
+domain: TCC
+created: 2026-08-23
+auto: true
+---
 # 2026-08-12_arXiv_Wafer-scale monolithic integration of CeYIG films and magnet
 
 **Domain**: TCC

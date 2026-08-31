@@ -1,3 +1,10 @@
+---
+title: "异构P_D推理的边界契约：从KV缓存到边界对象的系统跃迁"
+type: article-summary
+domain: iNEST
+created: 2026-08-10
+auto: true
+---
 # 异构P_D推理的边界契约：从KV缓存到边界对象的系统跃迁
 
 **Domain**: iNEST

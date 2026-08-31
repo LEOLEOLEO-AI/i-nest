@@ -1,3 +1,10 @@
+---
+title: "《The Topological Trouble With Transformers》论文深度解读：循环架构如何破解Tr"
+type: article-summary
+domain: Cross
+created: 2026-08-19
+auto: true
+---
 # 《The Topological Trouble With Transformers》论文深度解读：循环架构如何破解Tr
 
 **Domain**: Cross

@@ -1,3 +1,10 @@
+---
+title: "2026-08-06_arXiv_Thermal Control of Hysteresis and Deterministic Chaos in a M"
+type: article-summary
+domain: Cross
+created: 2026-08-23
+auto: true
+---
 # 2026-08-06_arXiv_Thermal Control of Hysteresis and Deterministic Chaos in a M
 
 **Domain**: Cross

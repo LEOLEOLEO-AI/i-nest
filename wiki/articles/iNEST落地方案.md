@@ -1,3 +1,10 @@
+---
+title: "iNEST落地方案"
+type: article-summary
+domain: iNEST
+created: 2026-08-30
+auto: true
+---
 # iNEST落地方案
 
 **Domain**: iNEST

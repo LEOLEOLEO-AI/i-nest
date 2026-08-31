@@ -1,3 +1,10 @@
+---
+title: "2026-07-18_OA_Collective dynamics on higher-order networks"
+type: article-summary
+domain: iNEST
+created: 2026-08-23
+auto: true
+---
 # 2026-07-18_OA_Collective dynamics on higher-order networks
 
 **Domain**: iNEST

@@ -1,3 +1,10 @@
+---
+title: "2026-07-31_Route≡Transform：拓扑兼容条件下通信即计算的代数框架与拓扑中心计算原语体系"
+type: article-summary
+domain: TCC
+created: 2026-08-10
+auto: true
+---
 # 2026-07-31_Route≡Transform：拓扑兼容条件下通信即计算的代数框架与拓扑中心计算原语体系
 
 **Domain**: TCC

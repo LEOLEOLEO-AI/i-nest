@@ -1,3 +1,10 @@
+---
+title: "2026-08-01_arXiv_Synchronization, Kinematic Waves and Spike-Phase-Separation"
+type: article-summary
+domain: Cross
+created: 2026-08-23
+auto: true
+---
 # 2026-08-01_arXiv_Synchronization, Kinematic Waves and Spike-Phase-Separation 
 
 **Domain**: Cross

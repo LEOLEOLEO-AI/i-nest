@@ -1,3 +1,10 @@
+---
+title: "2026-07-19_arXiv_Moment-Resolved Readout and Reservoir Diversity in Nonequili"
+type: article-summary
+domain: Cross
+created: 2026-08-23
+auto: true
+---
 # 2026-07-19_arXiv_Moment-Resolved Readout and Reservoir Diversity in Nonequili
 
 **Domain**: Cross

@@ -1,3 +1,10 @@
+---
+title: "2026-08-27_arXiv_Multi-Source Complex Network Reconstruction via Wasserstein"
+type: article-summary
+domain: Cross
+created: 2026-08-28
+auto: true
+---
 # 2026-08-27_arXiv_Multi-Source Complex Network Reconstruction via Wasserstein 
 
 **Domain**: Cross

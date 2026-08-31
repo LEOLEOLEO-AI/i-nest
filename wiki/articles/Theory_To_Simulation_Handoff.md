@@ -1,3 +1,10 @@
+---
+title: "Theory To Simulation Handoff"
+type: article-summary
+domain: Cross
+created: 2026-08-23
+auto: true
+---
 # Theory To Simulation Handoff
 
 **Domain**: Cross

@@ -1,3 +1,10 @@
+---
+title: "2026-08-01_arXiv_GLM-RAG Graph Language Models for Graph-Based Retrieval-Augm"
+type: article-summary
+domain: Cross
+created: 2026-08-23
+auto: true
+---
 # 2026-08-01_arXiv_GLM-RAG Graph Language Models for Graph-Based Retrieval-Augm
 
 **Domain**: Cross

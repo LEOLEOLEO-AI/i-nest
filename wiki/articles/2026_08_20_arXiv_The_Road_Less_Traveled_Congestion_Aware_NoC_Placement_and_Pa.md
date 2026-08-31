@@ -1,3 +1,10 @@
+---
+title: "2026-08-20_arXiv_The Road Less Traveled Congestion-Aware NoC Placement and Pa"
+type: article-summary
+domain: TCC
+created: 2026-08-21
+auto: true
+---
 # 2026-08-20_arXiv_The Road Less Traveled Congestion-Aware NoC Placement and Pa
 
 **Domain**: TCC

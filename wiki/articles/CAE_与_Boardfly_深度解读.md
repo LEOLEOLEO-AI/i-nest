@@ -1,3 +1,10 @@
+---
+title: "CAE 与 Boardfly 深度解读"
+type: article-summary
+domain: TCC
+created: 2026-08-06
+auto: true
+---
 # CAE 与 Boardfly 深度解读
 
 **Domain**: TCC

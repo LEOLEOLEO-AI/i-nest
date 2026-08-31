@@ -1,3 +1,10 @@
+---
+title: "2026-08-06_arXiv_Hardware Design and Security in the Era of Chiplets and LLMs"
+type: article-summary
+domain: TCC
+created: 2026-08-06
+auto: true
+---
 # 2026-08-06_arXiv_Hardware Design and Security in the Era of Chiplets and LLMs
 
 **Domain**: TCC

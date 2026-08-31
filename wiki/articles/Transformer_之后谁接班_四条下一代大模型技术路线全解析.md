@@ -1,3 +1,10 @@
+---
+title: "Transformer 之后谁接班？四条下一代大模型技术路线全解析"
+type: article-summary
+domain: Cross
+created: 2026-08-19
+auto: true
+---
 # Transformer 之后谁接班？四条下一代大模型技术路线全解析
 
 **Domain**: Cross

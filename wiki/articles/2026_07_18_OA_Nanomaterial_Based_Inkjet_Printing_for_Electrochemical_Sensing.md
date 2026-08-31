@@ -1,3 +1,10 @@
+---
+title: "2026-07-18_OA_Nanomaterial‐Based Inkjet Printing for Electrochemical Sensing"
+type: article-summary
+domain: TCC
+created: 2026-08-23
+auto: true
+---
 # 2026-07-18_OA_Nanomaterial‐Based Inkjet Printing for Electrochemical Sensing
 
 **Domain**: TCC

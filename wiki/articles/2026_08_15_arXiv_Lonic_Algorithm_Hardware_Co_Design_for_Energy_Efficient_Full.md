@@ -1,3 +1,10 @@
+---
+title: "2026-08-15_arXiv_Lonic Algorithm-Hardware Co-Design for Energy-Efficient Full"
+type: article-summary
+domain: iNEST
+created: 2026-08-23
+auto: true
+---
 # 2026-08-15_arXiv_Lonic Algorithm-Hardware Co-Design for Energy-Efficient Full
 
 **Domain**: iNEST

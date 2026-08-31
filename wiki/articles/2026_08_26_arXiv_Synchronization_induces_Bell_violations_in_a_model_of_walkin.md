@@ -1,3 +1,10 @@
+---
+title: "2026-08-26_arXiv_Synchronization induces Bell violations in a model of walkin"
+type: article-summary
+domain: Cross
+created: 2026-08-27
+auto: true
+---
 # 2026-08-26_arXiv_Synchronization induces Bell violations in a model of walkin
 
 **Domain**: Cross

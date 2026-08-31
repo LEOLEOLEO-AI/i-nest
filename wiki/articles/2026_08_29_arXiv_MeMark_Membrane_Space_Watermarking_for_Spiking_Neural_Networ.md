@@ -1,3 +1,10 @@
+---
+title: "2026-08-29_arXiv_MeMark Membrane-Space Watermarking for Spiking Neural Networ"
+type: article-summary
+domain: iNEST
+created: 2026-08-29
+auto: true
+---
 # 2026-08-29_arXiv_MeMark Membrane-Space Watermarking for Spiking Neural Networ
 
 **Domain**: iNEST

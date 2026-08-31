@@ -1,3 +1,10 @@
+---
+title: "2026-08-05_arXiv_SpikeRestormer Towards Energy-Efficient All-in-One Image Res"
+type: article-summary
+domain: iNEST
+created: 2026-08-23
+auto: true
+---
 # 2026-08-05_arXiv_SpikeRestormer Towards Energy-Efficient All-in-One Image Res
 
 **Domain**: iNEST

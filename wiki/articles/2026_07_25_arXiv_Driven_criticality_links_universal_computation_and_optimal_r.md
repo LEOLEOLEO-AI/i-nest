@@ -1,3 +1,10 @@
+---
+title: "2026-07-25_arXiv_Driven criticality links universal computation and optimal r"
+type: article-summary
+domain: Cross
+created: 2026-08-23
+auto: true
+---
 # 2026-07-25_arXiv_Driven criticality links universal computation and optimal r
 
 **Domain**: Cross

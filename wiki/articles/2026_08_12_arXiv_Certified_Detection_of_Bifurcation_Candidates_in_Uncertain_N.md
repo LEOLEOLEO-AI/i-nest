@@ -1,3 +1,10 @@
+---
+title: "2026-08-12_arXiv_Certified Detection of Bifurcation Candidates in Uncertain N"
+type: article-summary
+domain: Cross
+created: 2026-08-19
+auto: true
+---
 # 2026-08-12_arXiv_Certified Detection of Bifurcation Candidates in Uncertain N
 
 **Domain**: Cross

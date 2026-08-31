@@ -1,3 +1,10 @@
+---
+title: "2026-08-05_arXiv_Critical Inertia Estimation for the Three U.S. Interconnecti"
+type: article-summary
+domain: TCC
+created: 2026-08-23
+auto: true
+---
 # 2026-08-05_arXiv_Critical Inertia Estimation for the Three U.S. Interconnecti
 
 **Domain**: TCC

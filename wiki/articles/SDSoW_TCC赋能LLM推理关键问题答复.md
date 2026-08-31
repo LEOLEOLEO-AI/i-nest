@@ -1,3 +1,10 @@
+---
+title: "SDSoW+TCC赋能LLM推理关键问题答复"
+type: article-summary
+domain: TCC
+created: 2026-08-11
+auto: true
+---
 # SDSoW+TCC赋能LLM推理关键问题答复
 
 **Domain**: TCC

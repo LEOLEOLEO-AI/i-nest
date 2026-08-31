@@ -1,3 +1,10 @@
+---
+title: "DMP-SNN双记忆通路：破解脉冲神经网络_记不住事儿_的算法-硬件协同方案"
+type: article-summary
+domain: iNEST
+created: 2026-08-10
+auto: true
+---
 # DMP-SNN双记忆通路：破解脉冲神经网络_记不住事儿_的算法-硬件协同方案
 
 **Domain**: iNEST

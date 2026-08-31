@@ -1,3 +1,10 @@
+---
+title: "MTDL 流形拓扑深度学习：医学影像分类新范式"
+type: article-summary
+domain: Cross
+created: 2026-08-06
+auto: true
+---
 # MTDL 流形拓扑深度学习：医学影像分类新范式
 
 **Domain**: Cross

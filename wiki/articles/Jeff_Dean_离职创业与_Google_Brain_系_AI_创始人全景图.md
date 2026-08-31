@@ -1,3 +1,10 @@
+---
+title: "Jeff Dean 离职创业与 Google Brain 系 AI 创始人全景图"
+type: article-summary
+domain: Cross
+created: 2026-08-10
+auto: true
+---
 # Jeff Dean 离职创业与 Google Brain 系 AI 创始人全景图
 
 **Domain**: Cross

@@ -1,3 +1,10 @@
+---
+title: "Nature 论文拆解：丘脑—脑干吸引子网络如何驱动历史偏向决策"
+type: article-summary
+domain: iNEST
+created: 2026-08-29
+auto: true
+---
 # Nature 论文拆解：丘脑—脑干吸引子网络如何驱动历史偏向决策
 
 **Domain**: iNEST

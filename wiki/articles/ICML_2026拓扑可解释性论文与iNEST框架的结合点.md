@@ -1,3 +1,10 @@
+---
+title: "ICML 2026拓扑可解释性论文与iNEST框架的结合点"
+type: article-summary
+domain: iNEST
+created: 2026-08-19
+auto: true
+---
 # ICML 2026拓扑可解释性论文与iNEST框架的结合点
 
 **Domain**: iNEST

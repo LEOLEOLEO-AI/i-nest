@@ -1,3 +1,10 @@
+---
+title: "2026-08-01_arXiv_Anisotropic Tensile Strength and Fracture Mechanism of $θ$-T"
+type: article-summary
+domain: TCC
+created: 2026-08-23
+auto: true
+---
 # 2026-08-01_arXiv_Anisotropic Tensile Strength and Fracture Mechanism of $θ$-T
 
 **Domain**: TCC

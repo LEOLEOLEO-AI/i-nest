@@ -1,3 +1,10 @@
+---
+title: "2026-07-25_2026年7月Nature Communications Concept2Brain研究深度解析：NeuroAI推动脑科"
+type: article-summary
+domain: iNEST
+created: 2026-08-27
+auto: true
+---
 # 2026-07-25_2026年7月Nature Communications Concept2Brain研究深度解析：NeuroAI推动脑科
 
 **Domain**: iNEST

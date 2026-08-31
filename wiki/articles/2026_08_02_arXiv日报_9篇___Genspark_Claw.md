@@ -1,3 +1,10 @@
+---
+title: "2026-08-02 arXiv日报（9篇）— Genspark Claw"
+type: article-summary
+domain: iNEST
+created: 2026-08-23
+auto: true
+---
 # 2026-08-02 arXiv日报（9篇）— Genspark Claw
 
 **Domain**: iNEST

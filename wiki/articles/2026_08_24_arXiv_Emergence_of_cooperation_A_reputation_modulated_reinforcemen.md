@@ -1,3 +1,10 @@
+---
+title: "2026-08-24_arXiv_Emergence of cooperation A reputation-modulated reinforcemen"
+type: article-summary
+domain: Cross
+created: 2026-08-25
+auto: true
+---
 # 2026-08-24_arXiv_Emergence of cooperation A reputation-modulated reinforcemen
 
 **Domain**: Cross

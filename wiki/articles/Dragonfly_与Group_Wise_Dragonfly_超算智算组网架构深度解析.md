@@ -1,3 +1,10 @@
+---
+title: "Dragonfly+与Group-Wise Dragonfly+超算智算组网架构深度解析"
+type: article-summary
+domain: TCC
+created: 2026-08-07
+auto: true
+---
 # Dragonfly+与Group-Wise Dragonfly+超算智算组网架构深度解析
 
 **Domain**: TCC

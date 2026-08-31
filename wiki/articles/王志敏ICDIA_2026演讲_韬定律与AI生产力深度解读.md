@@ -1,3 +1,10 @@
+---
+title: "王志敏ICDIA 2026演讲：韬定律与AI生产力深度解读"
+type: article-summary
+domain: TCC
+created: 2026-08-23
+auto: true
+---
 # 王志敏ICDIA 2026演讲：韬定律与AI生产力深度解读
 
 **Domain**: TCC

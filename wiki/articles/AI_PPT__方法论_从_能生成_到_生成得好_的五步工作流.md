@@ -1,3 +1,10 @@
+---
+title: "AI PPT+ 方法论：从「能生成」到「生成得好」的五步工作流"
+type: article-summary
+domain: iNEST
+created: 2026-08-25
+auto: true
+---
 # AI PPT+ 方法论：从「能生成」到「生成得好」的五步工作流
 
 **Domain**: iNEST

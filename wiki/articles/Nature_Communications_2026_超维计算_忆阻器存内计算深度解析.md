@@ -1,3 +1,10 @@
+---
+title: "Nature Communications 2026 超维计算×忆阻器存内计算深度解析"
+type: article-summary
+domain: iNEST
+created: 2026-08-19
+auto: true
+---
 # Nature Communications 2026 超维计算×忆阻器存内计算深度解析
 
 **Domain**: iNEST

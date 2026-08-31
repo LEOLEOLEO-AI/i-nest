@@ -1,3 +1,10 @@
+---
+title: "2026-07-19_arXiv_Bosonic SPT and invertible phases and its relation to Steenr"
+type: article-summary
+domain: Cross
+created: 2026-08-23
+auto: true
+---
 # 2026-07-19_arXiv_Bosonic SPT and invertible phases and its relation to Steenr
 
 **Domain**: Cross

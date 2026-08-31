@@ -1,3 +1,10 @@
+---
+title: "2026-08-06_arXiv_Harvest Resource-Aware Quantum Compilation for Magic State P"
+type: article-summary
+domain: Cross
+created: 2026-08-23
+auto: true
+---
 # 2026-08-06_arXiv_Harvest Resource-Aware Quantum Compilation for Magic State P
 
 **Domain**: Cross

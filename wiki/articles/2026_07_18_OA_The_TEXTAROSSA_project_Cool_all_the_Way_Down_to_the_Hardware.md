@@ -1,3 +1,10 @@
+---
+title: "2026-07-18_OA_The TEXTAROSSA project Cool all the Way Down to the Hardware"
+type: article-summary
+domain: TCC
+created: 2026-08-23
+auto: true
+---
 # 2026-07-18_OA_The TEXTAROSSA project Cool all the Way Down to the Hardware
 
 **Domain**: TCC

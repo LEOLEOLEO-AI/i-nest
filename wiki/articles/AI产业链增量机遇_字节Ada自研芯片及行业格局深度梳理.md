@@ -1,3 +1,10 @@
+---
+title: "AI产业链增量机遇：字节Ada自研芯片及行业格局深度梳理"
+type: article-summary
+domain: Cross
+created: 2026-08-10
+auto: true
+---
 # AI产业链增量机遇：字节Ada自研芯片及行业格局深度梳理
 
 **Domain**: Cross

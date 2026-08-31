@@ -1,3 +1,10 @@
+---
+title: "2026-07-18_OA_A Survey on 3D Gaussian Splatting"
+type: article-summary
+domain: Cross
+created: 2026-08-23
+auto: true
+---
 # 2026-07-18_OA_A Survey on 3D Gaussian Splatting
 
 **Domain**: Cross

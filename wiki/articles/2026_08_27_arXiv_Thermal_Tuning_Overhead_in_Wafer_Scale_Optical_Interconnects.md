@@ -1,3 +1,10 @@
+---
+title: "2026-08-27_arXiv_Thermal Tuning Overhead in Wafer-Scale Optical Interconnects"
+type: article-summary
+domain: TCC
+created: 2026-08-28
+auto: true
+---
 # 2026-08-27_arXiv_Thermal Tuning Overhead in Wafer-Scale Optical Interconnects
 
 **Domain**: TCC

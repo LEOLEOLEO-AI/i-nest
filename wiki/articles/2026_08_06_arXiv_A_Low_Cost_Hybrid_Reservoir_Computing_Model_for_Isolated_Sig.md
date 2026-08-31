@@ -1,3 +1,10 @@
+---
+title: "2026-08-06_arXiv_A Low-Cost Hybrid Reservoir Computing Model for Isolated Sig"
+type: article-summary
+domain: Cross
+created: 2026-08-23
+auto: true
+---
 # 2026-08-06_arXiv_A Low-Cost Hybrid Reservoir Computing Model for Isolated Sig
 
 **Domain**: Cross

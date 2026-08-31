@@ -1,3 +1,10 @@
+---
+title: "2026-07-23_谷歌DeepMind《The Topological Trouble With Transformers》核心研究深度解"
+type: article-summary
+domain: Cross
+created: 2026-08-27
+auto: true
+---
 # 2026-07-23_谷歌DeepMind《The Topological Trouble With Transformers》核心研究深度解
 
 **Domain**: Cross

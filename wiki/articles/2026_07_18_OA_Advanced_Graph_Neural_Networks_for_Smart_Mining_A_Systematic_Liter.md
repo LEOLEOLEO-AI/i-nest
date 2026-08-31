@@ -1,3 +1,10 @@
+---
+title: "2026-07-18_OA_Advanced Graph Neural Networks for Smart Mining A Systematic Literature Review o"
+type: article-summary
+domain: Cross
+created: 2026-08-23
+auto: true
+---
 # 2026-07-18_OA_Advanced Graph Neural Networks for Smart Mining A Systematic Literature Review o
 
 **Domain**: Cross

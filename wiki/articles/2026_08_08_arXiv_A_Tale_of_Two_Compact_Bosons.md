@@ -1,3 +1,10 @@
+---
+title: "2026-08-08_arXiv_A Tale of Two Compact Bosons"
+type: article-summary
+domain: Cross
+created: 2026-08-23
+auto: true
+---
 # 2026-08-08_arXiv_A Tale of Two Compact Bosons
 
 **Domain**: Cross

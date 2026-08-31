@@ -1,3 +1,10 @@
+---
+title: "SpinalHDL 深度解析：把硬件描述变成真正的编程"
+type: article-summary
+domain: Cross
+created: 2026-08-10
+auto: true
+---
 # SpinalHDL 深度解析：把硬件描述变成真正的编程
 
 **Domain**: Cross

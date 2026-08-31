@@ -1,3 +1,10 @@
+---
+title: "2026-08-24_arXiv_Spike-based Belief Propagation in Nonlinear Dynamical System"
+type: article-summary
+domain: iNEST
+created: 2026-08-25
+auto: true
+---
 # 2026-08-24_arXiv_Spike-based Belief Propagation in Nonlinear Dynamical System
 
 **Domain**: iNEST

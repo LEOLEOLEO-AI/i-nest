@@ -1,3 +1,10 @@
+---
+title: "2026-07-18_OA_Review on tsunami research and risk mitigation from prediction models to resilie"
+type: article-summary
+domain: iNEST
+created: 2026-08-23
+auto: true
+---
 # 2026-07-18_OA_Review on tsunami research and risk mitigation from prediction models to resilie
 
 **Domain**: iNEST

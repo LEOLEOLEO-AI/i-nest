@@ -1,3 +1,10 @@
+---
+title: "2026-08-06_arXiv_Universal linear manipulation via routing and projective mea"
+type: article-summary
+domain: Cross
+created: 2026-08-23
+auto: true
+---
 # 2026-08-06_arXiv_Universal linear manipulation via routing and projective mea
 
 **Domain**: Cross

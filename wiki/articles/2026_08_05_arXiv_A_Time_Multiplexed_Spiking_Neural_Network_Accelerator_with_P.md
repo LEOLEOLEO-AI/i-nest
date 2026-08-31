@@ -1,3 +1,10 @@
+---
+title: "2026-08-05_arXiv_A Time-Multiplexed Spiking Neural Network Accelerator with P"
+type: article-summary
+domain: iNEST
+created: 2026-08-23
+auto: true
+---
 # 2026-08-05_arXiv_A Time-Multiplexed Spiking Neural Network Accelerator with P
 
 **Domain**: iNEST

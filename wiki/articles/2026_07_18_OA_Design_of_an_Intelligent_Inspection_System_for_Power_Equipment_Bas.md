@@ -1,3 +1,10 @@
+---
+title: "2026-07-18_OA_Design of an Intelligent Inspection System for Power Equipment Based on Multi-Te"
+type: article-summary
+domain: iNEST
+created: 2026-08-23
+auto: true
+---
 # 2026-07-18_OA_Design of an Intelligent Inspection System for Power Equipment Based on Multi-Te
 
 **Domain**: iNEST

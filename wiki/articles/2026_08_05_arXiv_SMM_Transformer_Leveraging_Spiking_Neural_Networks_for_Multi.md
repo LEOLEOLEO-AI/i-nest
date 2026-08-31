@@ -1,3 +1,10 @@
+---
+title: "2026-08-05_arXiv_SMM Transformer Leveraging Spiking Neural Networks for Multi"
+type: article-summary
+domain: iNEST
+created: 2026-08-23
+auto: true
+---
 # 2026-08-05_arXiv_SMM Transformer Leveraging Spiking Neural Networks for Multi
 
 **Domain**: iNEST

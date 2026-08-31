@@ -1,3 +1,10 @@
+---
+title: "Cerebras Supernova 2026 战略全解：从极速推理到实时AI基础设施底座"
+type: article-summary
+domain: TCC
+created: 2026-08-27
+auto: true
+---
 # Cerebras Supernova 2026 战略全解：从极速推理到实时AI基础设施底座
 
 **Domain**: TCC

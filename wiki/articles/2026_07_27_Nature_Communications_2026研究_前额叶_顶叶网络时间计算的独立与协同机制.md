@@ -1,3 +1,10 @@
+---
+title: "2026-07-27_Nature Communications 2026研究：前额叶-顶叶网络时间计算的独立与协同机制"
+type: article-summary
+domain: iNEST
+created: 2026-08-27
+auto: true
+---
 # 2026-07-27_Nature Communications 2026研究：前额叶-顶叶网络时间计算的独立与协同机制
 
 **Domain**: iNEST

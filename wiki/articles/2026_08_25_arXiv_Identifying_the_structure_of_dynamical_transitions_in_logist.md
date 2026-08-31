@@ -1,3 +1,10 @@
+---
+title: "2026-08-25_arXiv_Identifying the structure of dynamical transitions in logist"
+type: article-summary
+domain: Cross
+created: 2026-08-26
+auto: true
+---
 # 2026-08-25_arXiv_Identifying the structure of dynamical transitions in logist
 
 **Domain**: Cross

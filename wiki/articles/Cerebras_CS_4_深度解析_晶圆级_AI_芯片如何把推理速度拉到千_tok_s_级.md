@@ -1,3 +1,10 @@
+---
+title: "Cerebras CS-4 深度解析：晶圆级 AI 芯片如何把推理速度拉到千 tok_s 级"
+type: article-summary
+domain: TCC
+created: 2026-08-22
+auto: true
+---
 # Cerebras CS-4 深度解析：晶圆级 AI 芯片如何把推理速度拉到千 tok_s 级
 
 **Domain**: TCC

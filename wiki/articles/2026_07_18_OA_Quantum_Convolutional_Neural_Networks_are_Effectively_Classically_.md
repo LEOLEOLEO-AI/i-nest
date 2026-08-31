@@ -1,3 +1,10 @@
+---
+title: "2026-07-18_OA_Quantum Convolutional Neural Networks are Effectively Classically Simulable"
+type: article-summary
+domain: Cross
+created: 2026-08-23
+auto: true
+---
 # 2026-07-18_OA_Quantum Convolutional Neural Networks are Effectively Classically Simulable
 
 **Domain**: Cross

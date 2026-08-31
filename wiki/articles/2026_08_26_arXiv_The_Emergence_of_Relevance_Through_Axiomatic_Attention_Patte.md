@@ -1,3 +1,10 @@
+---
+title: "2026-08-26_arXiv_The Emergence of Relevance Through Axiomatic Attention Patte"
+type: article-summary
+domain: Cross
+created: 2026-08-27
+auto: true
+---
 # 2026-08-26_arXiv_The Emergence of Relevance Through Axiomatic Attention Patte
 
 **Domain**: Cross

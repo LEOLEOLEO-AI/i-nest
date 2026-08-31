@@ -1,3 +1,10 @@
+---
+title: "2026-08-26_arXiv_Quantum Reservoir Computing with Physics-Informed Correction"
+type: article-summary
+domain: Cross
+created: 2026-08-27
+auto: true
+---
 # 2026-08-26_arXiv_Quantum Reservoir Computing with Physics-Informed Correction
 
 **Domain**: Cross

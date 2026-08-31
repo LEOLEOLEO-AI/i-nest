@@ -1,3 +1,10 @@
+---
+title: "2026-08-27_arXiv_Small-World Communication Fabrics for Neuromorphic Multicore"
+type: article-summary
+domain: iNEST
+created: 2026-08-28
+auto: true
+---
 # 2026-08-27_arXiv_Small-World Communication Fabrics for Neuromorphic Multicore
 
 **Domain**: iNEST

@@ -1,3 +1,10 @@
+---
+title: "AI硬件下一次结构转变：SRAM不是取代HBM，而是异构推理分工"
+type: article-summary
+domain: TCC
+created: 2026-08-06
+auto: true
+---
 # AI硬件下一次结构转变：SRAM不是取代HBM，而是异构推理分工
 
 **Domain**: TCC

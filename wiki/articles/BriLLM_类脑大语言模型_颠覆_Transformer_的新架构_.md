@@ -1,3 +1,10 @@
+---
+title: "BriLLM 类脑大语言模型：颠覆 Transformer 的新架构？"
+type: article-summary
+domain: iNEST
+created: 2026-08-31
+auto: true
+---
 # BriLLM 类脑大语言模型：颠覆 Transformer 的新架构？
 
 **Domain**: iNEST

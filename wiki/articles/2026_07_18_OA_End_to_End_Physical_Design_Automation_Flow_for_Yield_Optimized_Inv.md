@@ -1,3 +1,10 @@
+---
+title: "2026-07-18_OA_End-to-End Physical Design Automation Flow for Yield-Optimized Inverse-Designed"
+type: article-summary
+domain: TCC
+created: 2026-08-23
+auto: true
+---
 # 2026-07-18_OA_End-to-End Physical Design Automation Flow for Yield-Optimized Inverse-Designed 
 
 **Domain**: TCC

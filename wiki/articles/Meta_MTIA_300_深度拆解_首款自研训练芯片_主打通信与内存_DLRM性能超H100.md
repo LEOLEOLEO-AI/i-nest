@@ -1,3 +1,10 @@
+---
+title: "Meta MTIA 300 深度拆解：首款自研训练芯片，主打通信与内存，DLRM性能超H100"
+type: article-summary
+domain: TCC
+created: 2026-08-23
+auto: true
+---
 # Meta MTIA 300 深度拆解：首款自研训练芯片，主打通信与内存，DLRM性能超H100
 
 **Domain**: TCC

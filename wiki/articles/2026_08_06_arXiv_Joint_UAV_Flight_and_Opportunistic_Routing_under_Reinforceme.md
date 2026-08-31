@@ -1,3 +1,10 @@
+---
+title: "2026-08-06_arXiv_Joint UAV Flight and Opportunistic Routing under Reinforceme"
+type: article-summary
+domain: Cross
+created: 2026-08-23
+auto: true
+---
 # 2026-08-06_arXiv_Joint UAV Flight and Opportunistic Routing under Reinforceme
 
 **Domain**: Cross

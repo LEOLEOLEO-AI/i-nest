@@ -1,3 +1,10 @@
+---
+title: "Hot Chips 2026 深度解读：AI 算力瓶颈从单芯片转向系统级互连"
+type: article-summary
+domain: TCC
+created: 2026-08-30
+auto: true
+---
 # Hot Chips 2026 深度解读：AI 算力瓶颈从单芯片转向系统级互连
 
 **Domain**: TCC

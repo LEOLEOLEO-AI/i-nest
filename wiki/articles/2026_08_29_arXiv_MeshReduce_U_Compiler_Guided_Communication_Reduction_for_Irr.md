@@ -1,3 +1,10 @@
+---
+title: "2026-08-29_arXiv_MeshReduce-U Compiler-Guided Communication Reduction for Irr"
+type: article-summary
+domain: TCC
+created: 2026-08-29
+auto: true
+---
 # 2026-08-29_arXiv_MeshReduce-U Compiler-Guided Communication Reduction for Irr
 
 **Domain**: TCC

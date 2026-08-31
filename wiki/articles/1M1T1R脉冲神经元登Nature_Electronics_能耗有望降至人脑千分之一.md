@@ -1,3 +1,10 @@
+---
+title: "1M1T1R脉冲神经元登Nature Electronics：能耗有望降至人脑千分之一"
+type: article-summary
+domain: Cross
+created: 2026-08-19
+auto: true
+---
 # 1M1T1R脉冲神经元登Nature Electronics：能耗有望降至人脑千分之一
 
 **Domain**: Cross

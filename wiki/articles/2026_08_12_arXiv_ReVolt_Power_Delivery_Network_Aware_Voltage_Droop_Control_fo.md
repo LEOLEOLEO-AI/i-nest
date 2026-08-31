@@ -1,3 +1,10 @@
+---
+title: "2026-08-12_arXiv_ReVolt Power Delivery Network-Aware Voltage Droop Control fo"
+type: article-summary
+domain: TCC
+created: 2026-08-23
+auto: true
+---
 # 2026-08-12_arXiv_ReVolt Power Delivery Network-Aware Voltage Droop Control fo
 
 **Domain**: TCC

@@ -1,3 +1,10 @@
+---
+title: "2026-07-31_arXiv_An Interaction Sensitivity Framework in Perturbation Space f"
+type: article-summary
+domain: Cross
+created: 2026-08-23
+auto: true
+---
 # 2026-07-31_arXiv_An Interaction Sensitivity Framework in Perturbation Space f
 
 **Domain**: Cross

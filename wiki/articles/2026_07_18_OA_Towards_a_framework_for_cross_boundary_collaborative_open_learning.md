@@ -1,3 +1,10 @@
+---
+title: "2026-07-18_OA_Towards a framework for cross-boundary collaborative open learning for cross-ins"
+type: article-summary
+domain: iNEST
+created: 2026-08-23
+auto: true
+---
 # 2026-07-18_OA_Towards a framework for cross-boundary collaborative open learning for cross-ins
 
 **Domain**: iNEST

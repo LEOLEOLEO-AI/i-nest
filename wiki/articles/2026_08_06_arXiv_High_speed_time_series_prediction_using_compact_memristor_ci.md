@@ -1,3 +1,10 @@
+---
+title: "2026-08-06_arXiv_High-speed time-series prediction using compact memristor ci"
+type: article-summary
+domain: Cross
+created: 2026-08-23
+auto: true
+---
 # 2026-08-06_arXiv_High-speed time-series prediction using compact memristor ci
 
 **Domain**: Cross

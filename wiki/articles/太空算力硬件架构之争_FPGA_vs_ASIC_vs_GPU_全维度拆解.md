@@ -1,3 +1,10 @@
+---
+title: "太空算力硬件架构之争：FPGA vs ASIC vs GPU 全维度拆解"
+type: article-summary
+domain: TCC
+created: 2026-08-06
+auto: true
+---
 # 太空算力硬件架构之争：FPGA vs ASIC vs GPU 全维度拆解
 
 **Domain**: TCC

@@ -1,3 +1,10 @@
+---
+title: "MIT FLAME Lab（Rachit Nigam组）27Fall申博全指南"
+type: article-summary
+domain: Cross
+created: 2026-08-19
+auto: true
+---
 # MIT FLAME Lab（Rachit Nigam组）27Fall申博全指南
 
 **Domain**: Cross

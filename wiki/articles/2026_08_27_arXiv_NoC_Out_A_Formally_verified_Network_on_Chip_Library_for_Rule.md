@@ -1,3 +1,10 @@
+---
+title: "2026-08-27_arXiv_NoC-Out A Formally-verified Network-on-Chip Library for Rule"
+type: article-summary
+domain: TCC
+created: 2026-08-28
+auto: true
+---
 # 2026-08-27_arXiv_NoC-Out A Formally-verified Network-on-Chip Library for Rule
 
 **Domain**: TCC

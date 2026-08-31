@@ -1,3 +1,10 @@
+---
+title: "Neuron综述：皮层神经行波的网络机制与计算功能"
+type: article-summary
+domain: Cross
+created: 2026-08-06
+auto: true
+---
 # Neuron综述：皮层神经行波的网络机制与计算功能
 
 **Domain**: Cross

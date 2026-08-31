@@ -1,3 +1,10 @@
+---
+title: "星载计算架构：抗辐射芯片从28nm到7nm的太空征程"
+type: article-summary
+domain: TCC
+created: 2026-08-07
+auto: true
+---
 # 星载计算架构：抗辐射芯片从28nm到7nm的太空征程
 
 **Domain**: TCC

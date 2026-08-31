@@ -1,3 +1,10 @@
+---
+title: "2026-07-31_arXiv_Sequence-SOD Bio-inspired Sequence-aware Spiking ObjectDetec"
+type: article-summary
+domain: iNEST
+created: 2026-08-23
+auto: true
+---
 # 2026-07-31_arXiv_Sequence-SOD Bio-inspired Sequence-aware Spiking ObjectDetec
 
 **Domain**: iNEST

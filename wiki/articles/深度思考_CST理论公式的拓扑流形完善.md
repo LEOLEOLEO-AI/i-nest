@@ -1,3 +1,10 @@
+---
+title: "深度思考：CST理论公式的拓扑流形完善"
+type: article-summary
+domain: TCC
+created: 2026-08-19
+auto: true
+---
 # 深度思考：CST理论公式的拓扑流形完善
 
 **Domain**: TCC

@@ -1,3 +1,10 @@
+---
+title: "TCC-SL：全 Switchless 方案的可行性、最新进展与落地建议"
+type: article-summary
+domain: TCC
+created: 2026-08-06
+auto: true
+---
 # TCC-SL：全 Switchless 方案的可行性、最新进展与落地建议
 
 **Domain**: TCC

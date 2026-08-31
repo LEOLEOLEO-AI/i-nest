@@ -1,3 +1,10 @@
+---
+title: "_pipeline_insights"
+type: article-summary
+domain: Cross
+created: 2026-08-10
+auto: true
+---
 # _pipeline_insights
 
 **Domain**: Cross

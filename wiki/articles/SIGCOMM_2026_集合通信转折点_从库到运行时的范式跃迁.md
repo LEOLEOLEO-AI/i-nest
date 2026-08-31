@@ -1,3 +1,10 @@
+---
+title: "SIGCOMM 2026 集合通信转折点：从库到运行时的范式跃迁"
+type: article-summary
+domain: TCC
+created: 2026-08-31
+auto: true
+---
 # SIGCOMM 2026 集合通信转折点：从库到运行时的范式跃迁
 
 **Domain**: TCC

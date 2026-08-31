@@ -1,3 +1,10 @@
+---
+title: "2026-08-06_arXiv_Towards Trustworthy Hypergraph Neural Networks under Label N"
+type: article-summary
+domain: Cross
+created: 2026-08-23
+auto: true
+---
 # 2026-08-06_arXiv_Towards Trustworthy Hypergraph Neural Networks under Label N
 
 **Domain**: Cross

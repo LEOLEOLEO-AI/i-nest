@@ -1,3 +1,10 @@
+---
+title: "差分Transformer（Diff Transformer）深度解析：用减法重构注意力机制"
+type: article-summary
+domain: iNEST
+created: 2026-08-22
+auto: true
+---
 # 差分Transformer（Diff Transformer）深度解析：用减法重构注意力机制
 
 **Domain**: iNEST

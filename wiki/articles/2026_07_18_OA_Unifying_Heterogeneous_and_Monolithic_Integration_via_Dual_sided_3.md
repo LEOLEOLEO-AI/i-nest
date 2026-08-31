@@ -1,3 +1,10 @@
+---
+title: "2026-07-18_OA_Unifying Heterogeneous and Monolithic Integration via Dual-sided 3D Technology"
+type: article-summary
+domain: TCC
+created: 2026-08-23
+auto: true
+---
 # 2026-07-18_OA_Unifying Heterogeneous and Monolithic Integration via Dual-sided 3D Technology
 
 **Domain**: TCC

@@ -1,3 +1,10 @@
+---
+title: "AI芯片算力评估指南：从TOPS虚标到真实性能五层拆解"
+type: article-summary
+domain: TCC
+created: 2026-08-07
+auto: true
+---
 # AI芯片算力评估指南：从TOPS虚标到真实性能五层拆解
 
 **Domain**: TCC

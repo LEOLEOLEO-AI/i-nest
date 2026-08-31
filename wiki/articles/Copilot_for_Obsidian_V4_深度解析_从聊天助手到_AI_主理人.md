@@ -1,3 +1,10 @@
+---
+title: "Copilot for Obsidian V4 深度解析：从聊天助手到 AI 主理人"
+type: article-summary
+domain: iNEST
+created: 2026-08-22
+auto: true
+---
 # Copilot for Obsidian V4 深度解析：从聊天助手到 AI 主理人
 
 **Domain**: iNEST

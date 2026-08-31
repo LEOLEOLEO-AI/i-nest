@@ -1,3 +1,10 @@
+---
+title: "《iNEST：网络时空协同复杂度涌现智能》主报告 PPT 大纲（最终稿）"
+type: article-summary
+domain: TCC
+created: 2026-08-10
+auto: true
+---
 # 《iNEST：网络时空协同复杂度涌现智能》主报告 PPT 大纲（最终稿）
 
 **Domain**: TCC

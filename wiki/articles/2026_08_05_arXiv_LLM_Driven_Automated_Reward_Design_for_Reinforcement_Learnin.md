@@ -1,3 +1,10 @@
+---
+title: "2026-08-05_arXiv_LLM-Driven Automated Reward Design for Reinforcement Learnin"
+type: article-summary
+domain: Cross
+created: 2026-08-23
+auto: true
+---
 # 2026-08-05_arXiv_LLM-Driven Automated Reward Design for Reinforcement Learnin
 
 **Domain**: Cross

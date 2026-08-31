@@ -1,3 +1,10 @@
+---
+title: "2026-08-29_arXiv_Syn2Logic End-to-End Neuromorphic Design Automation"
+type: article-summary
+domain: iNEST
+created: 2026-08-29
+auto: true
+---
 # 2026-08-29_arXiv_Syn2Logic End-to-End Neuromorphic Design Automation
 
 **Domain**: iNEST

@@ -1,3 +1,10 @@
+---
+title: "2026-07-25_arXiv_Photo-induced currents and short-term memory for reservoir c"
+type: article-summary
+domain: Cross
+created: 2026-08-23
+auto: true
+---
 # 2026-07-25_arXiv_Photo-induced currents and short-term memory for reservoir c
 
 **Domain**: Cross

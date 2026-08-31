@@ -1,3 +1,10 @@
+---
+title: "Marvell FMS 2026 深度解读：AI内存基础设施三层布局，CXL从评估走向部署"
+type: article-summary
+domain: TCC
+created: 2026-08-19
+auto: true
+---
 # Marvell FMS 2026 深度解读：AI内存基础设施三层布局，CXL从评估走向部署
 
 **Domain**: TCC

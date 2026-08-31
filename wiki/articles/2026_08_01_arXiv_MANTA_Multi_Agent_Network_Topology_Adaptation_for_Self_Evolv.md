@@ -1,3 +1,10 @@
+---
+title: "2026-08-01_arXiv_MANTA Multi-Agent Network Topology Adaptation for Self-Evolv"
+type: article-summary
+domain: Cross
+created: 2026-08-23
+auto: true
+---
 # 2026-08-01_arXiv_MANTA Multi-Agent Network Topology Adaptation for Self-Evolv
 
 **Domain**: Cross

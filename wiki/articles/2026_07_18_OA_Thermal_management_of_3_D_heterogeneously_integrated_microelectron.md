@@ -1,3 +1,10 @@
+---
+title: "2026-07-18_OA_Thermal management of 3-D heterogeneously integrated microelectronics challenges"
+type: article-summary
+domain: TCC
+created: 2026-08-23
+auto: true
+---
 # 2026-07-18_OA_Thermal management of 3-D heterogeneously integrated microelectronics challenges
 
 **Domain**: TCC

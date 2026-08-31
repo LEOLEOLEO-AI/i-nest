@@ -1,3 +1,10 @@
+---
+title: "2026-08-20_arXiv_Parallel Spatial Photonic Programming of Optoelectronic IGZO"
+type: article-summary
+domain: iNEST
+created: 2026-08-23
+auto: true
+---
 # 2026-08-20_arXiv_Parallel Spatial Photonic Programming of Optoelectronic IGZO
 
 **Domain**: iNEST

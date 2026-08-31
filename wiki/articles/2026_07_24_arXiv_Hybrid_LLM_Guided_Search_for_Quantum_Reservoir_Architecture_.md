@@ -1,3 +1,10 @@
+---
+title: "2026-07-24_arXiv_Hybrid LLM-Guided Search for Quantum Reservoir Architecture"
+type: article-summary
+domain: iNEST
+created: 2026-08-23
+auto: true
+---
 # 2026-07-24_arXiv_Hybrid LLM-Guided Search for Quantum Reservoir Architecture 
 
 **Domain**: iNEST

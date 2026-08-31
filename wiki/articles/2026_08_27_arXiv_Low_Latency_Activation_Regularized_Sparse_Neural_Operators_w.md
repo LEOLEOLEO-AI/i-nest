@@ -1,3 +1,10 @@
+---
+title: "2026-08-27_arXiv_Low-Latency Activation-Regularized Sparse Neural Operators w"
+type: article-summary
+domain: iNEST
+created: 2026-08-28
+auto: true
+---
 # 2026-08-27_arXiv_Low-Latency Activation-Regularized Sparse Neural Operators w
 
 **Domain**: iNEST

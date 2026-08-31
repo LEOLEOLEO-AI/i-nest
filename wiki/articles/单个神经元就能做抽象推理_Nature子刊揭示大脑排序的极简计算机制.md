@@ -1,3 +1,10 @@
+---
+title: "单个神经元就能做抽象推理？Nature子刊揭示大脑排序的极简计算机制"
+type: article-summary
+domain: iNEST
+created: 2026-08-31
+auto: true
+---
 # 单个神经元就能做抽象推理？Nature子刊揭示大脑排序的极简计算机制
 
 **Domain**: iNEST

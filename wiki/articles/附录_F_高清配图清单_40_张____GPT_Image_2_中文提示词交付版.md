@@ -1,3 +1,10 @@
+---
+title: "附录 F 高清配图清单（40 张）—— GPT Image 2 中文提示词交付版"
+type: article-summary
+domain: TCC
+created: 2026-08-27
+auto: true
+---
 # 附录 F 高清配图清单（40 张）—— GPT Image 2 中文提示词交付版
 
 **Domain**: TCC

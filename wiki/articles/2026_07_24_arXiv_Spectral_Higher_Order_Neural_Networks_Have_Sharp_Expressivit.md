@@ -1,3 +1,10 @@
+---
+title: "2026-07-24_arXiv_Spectral Higher-Order Neural Networks Have Sharp Expressivit"
+type: article-summary
+domain: Cross
+created: 2026-08-23
+auto: true
+---
 # 2026-07-24_arXiv_Spectral Higher-Order Neural Networks Have Sharp Expressivit
 
 **Domain**: Cross

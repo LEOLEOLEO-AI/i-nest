@@ -1,3 +1,10 @@
+---
+title: "WAIC 2026 华为Atlas 950 SuperPoD深度拆解：业界首个1024卡智算超节点"
+type: article-summary
+domain: TCC
+created: 2026-08-10
+auto: true
+---
 # WAIC 2026 华为Atlas 950 SuperPoD深度拆解：业界首个1024卡智算超节点
 
 **Domain**: TCC

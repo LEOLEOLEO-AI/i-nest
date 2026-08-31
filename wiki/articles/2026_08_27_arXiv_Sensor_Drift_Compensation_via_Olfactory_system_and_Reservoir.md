@@ -1,3 +1,10 @@
+---
+title: "2026-08-27_arXiv_Sensor Drift Compensation via Olfactory system and Reservoir"
+type: article-summary
+domain: Cross
+created: 2026-08-28
+auto: true
+---
 # 2026-08-27_arXiv_Sensor Drift Compensation via Olfactory system and Reservoir
 
 **Domain**: Cross

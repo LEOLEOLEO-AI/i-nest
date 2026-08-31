@@ -1,3 +1,10 @@
+---
+title: "20瓦大脑启发的AI规划革命：GCML认知地图算法深度解析"
+type: article-summary
+domain: iNEST
+created: 2026-08-06
+auto: true
+---
 # 20瓦大脑启发的AI规划革命：GCML认知地图算法深度解析
 
 **Domain**: iNEST

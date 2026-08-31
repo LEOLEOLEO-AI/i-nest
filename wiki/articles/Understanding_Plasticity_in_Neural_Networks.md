@@ -1,3 +1,10 @@
+---
+title: "Understanding Plasticity in Neural Networks"
+type: article-summary
+domain: Cross
+created: 2026-08-29
+auto: true
+---
 # Understanding Plasticity in Neural Networks
 
 **Domain**: Cross

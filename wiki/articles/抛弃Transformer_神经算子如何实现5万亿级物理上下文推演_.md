@@ -1,3 +1,10 @@
+---
+title: "抛弃Transformer：神经算子如何实现5万亿级物理上下文推演？"
+type: article-summary
+domain: iNEST
+created: 2026-08-31
+auto: true
+---
 # 抛弃Transformer：神经算子如何实现5万亿级物理上下文推演？
 
 **Domain**: iNEST

@@ -1,3 +1,10 @@
+---
+title: "2026-07-24_arXiv_A Unified Discrete and Continuous Theory of Core-Halo Comple"
+type: article-summary
+domain: iNEST
+created: 2026-08-23
+auto: true
+---
 # 2026-07-24_arXiv_A Unified Discrete and Continuous Theory of Core-Halo Comple
 
 **Domain**: iNEST

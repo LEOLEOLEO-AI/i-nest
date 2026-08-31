@@ -1,3 +1,10 @@
+---
+title: "2026-08-12_arXiv_The Neural Division of Labor Biologically-Inspired Modular A"
+type: article-summary
+domain: iNEST
+created: 2026-08-19
+auto: true
+---
 # 2026-08-12_arXiv_The Neural Division of Labor Biologically-Inspired Modular A
 
 **Domain**: iNEST

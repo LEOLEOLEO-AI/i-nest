@@ -1,3 +1,10 @@
+---
+title: "拓扑流形计算与iNEST_TCC融合研究路线图"
+type: article-summary
+domain: Cross
+created: 2026-08-19
+auto: true
+---
 # 拓扑流形计算与iNEST_TCC融合研究路线图
 
 **Domain**: Cross

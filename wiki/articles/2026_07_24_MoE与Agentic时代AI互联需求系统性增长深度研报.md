@@ -1,3 +1,10 @@
+---
+title: "2026-07-24_MoE与Agentic时代AI互联需求系统性增长深度研报"
+type: article-summary
+domain: TCC
+created: 2026-08-27
+auto: true
+---
 # 2026-07-24_MoE与Agentic时代AI互联需求系统性增长深度研报
 
 **Domain**: TCC

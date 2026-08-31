@@ -1,3 +1,10 @@
+---
+title: "2026-07-31_arXiv_FLASH Efficient Impact Fall Detection with Unified Hypergrap"
+type: article-summary
+domain: Cross
+created: 2026-08-23
+auto: true
+---
 # 2026-07-31_arXiv_FLASH Efficient Impact Fall Detection with Unified Hypergrap
 
 **Domain**: Cross

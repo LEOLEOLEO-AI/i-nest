@@ -1,3 +1,10 @@
+---
+title: "2026-08-06_arXiv_Scaling behavior in non-reciprocal and odd conserved dynamic"
+type: article-summary
+domain: Cross
+created: 2026-08-23
+auto: true
+---
 # 2026-08-06_arXiv_Scaling behavior in non-reciprocal and odd conserved dynamic
 
 **Domain**: Cross

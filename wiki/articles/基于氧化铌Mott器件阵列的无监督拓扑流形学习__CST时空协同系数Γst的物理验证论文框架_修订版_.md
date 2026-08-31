@@ -1,3 +1,10 @@
+---
+title: "基于氧化铌Mott器件阵列的无监督拓扑流形学习——CST时空协同系数Γst的物理验证论文框架（修订版）"
+type: article-summary
+domain: Cross
+created: 2026-08-19
+auto: true
+---
 # 基于氧化铌Mott器件阵列的无监督拓扑流形学习——CST时空协同系数Γst的物理验证论文框架（修订版）
 
 **Domain**: Cross

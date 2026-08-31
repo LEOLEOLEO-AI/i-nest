@@ -1,3 +1,10 @@
+---
+title: "SIGCOMM 2026 深度解读：KV Cache 如何从 GPU 内部状态变成网络研究核心"
+type: article-summary
+domain: TCC
+created: 2026-08-25
+auto: true
+---
 # SIGCOMM 2026 深度解读：KV Cache 如何从 GPU 内部状态变成网络研究核心
 
 **Domain**: TCC

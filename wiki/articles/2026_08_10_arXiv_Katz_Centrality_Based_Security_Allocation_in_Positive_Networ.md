@@ -1,3 +1,10 @@
+---
+title: "2026-08-10_arXiv_Katz Centrality-Based Security Allocation in Positive Networ"
+type: article-summary
+domain: TCC
+created: 2026-08-10
+auto: true
+---
 # 2026-08-10_arXiv_Katz Centrality-Based Security Allocation in Positive Networ
 
 **Domain**: TCC

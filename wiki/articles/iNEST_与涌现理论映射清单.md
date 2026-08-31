@@ -1,3 +1,10 @@
+---
+title: "iNEST 与涌现理论映射清单"
+type: article-summary
+domain: TCC
+created: 2026-08-19
+auto: true
+---
 # iNEST 与涌现理论映射清单
 
 **Domain**: TCC

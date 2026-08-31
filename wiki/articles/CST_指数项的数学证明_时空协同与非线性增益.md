@@ -1,3 +1,10 @@
+---
+title: "CST 指数项的数学证明：时空协同与非线性增益"
+type: article-summary
+domain: iNEST
+created: 2026-08-10
+auto: true
+---
 # CST 指数项的数学证明：时空协同与非线性增益
 
 **Domain**: iNEST

@@ -1,3 +1,10 @@
+---
+title: "2026-07-18_OA_Recent Advances in Generative AI for Healthcare Applications"
+type: article-summary
+domain: Cross
+created: 2026-08-23
+auto: true
+---
 # 2026-07-18_OA_Recent Advances in Generative AI for Healthcare Applications
 
 **Domain**: Cross

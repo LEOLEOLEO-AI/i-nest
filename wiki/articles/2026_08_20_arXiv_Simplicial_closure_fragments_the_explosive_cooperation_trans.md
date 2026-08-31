@@ -1,3 +1,10 @@
+---
+title: "2026-08-20_arXiv_Simplicial closure fragments the explosive cooperation trans"
+type: article-summary
+domain: Cross
+created: 2026-08-23
+auto: true
+---
 # 2026-08-20_arXiv_Simplicial closure fragments the explosive cooperation trans
 
 **Domain**: Cross

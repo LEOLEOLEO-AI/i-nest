@@ -1,3 +1,10 @@
+---
+title: "Linear-Time Global Visual Modeling without Explicit Attentio"
+type: article-summary
+domain: iNEST
+created: 2026-08-19
+auto: true
+---
 # Linear-Time Global Visual Modeling without Explicit Attentio
 
 **Domain**: iNEST

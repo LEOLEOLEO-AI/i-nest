@@ -1,3 +1,10 @@
+---
+title: "SIGCOMM 2026 成果向晶上系统的迁移路线图"
+type: article-summary
+domain: TCC
+created: 2026-08-31
+auto: true
+---
 # SIGCOMM 2026 成果向晶上系统的迁移路线图
 
 **Domain**: TCC

@@ -1,3 +1,10 @@
+---
+title: "2026-08-29_arXiv_Metallogenic quantum criticality Fermi surface nucleation at"
+type: article-summary
+domain: Cross
+created: 2026-08-29
+auto: true
+---
 # 2026-08-29_arXiv_Metallogenic quantum criticality Fermi surface nucleation at
 
 **Domain**: Cross

@@ -1,3 +1,10 @@
+---
+title: "2026-07-19_arXiv_Low-Latency Relay Selection in NR-V2X Vehicular Communicatio"
+type: article-summary
+domain: Cross
+created: 2026-08-23
+auto: true
+---
 # 2026-07-19_arXiv_Low-Latency Relay Selection in NR-V2X Vehicular Communicatio
 
 **Domain**: Cross

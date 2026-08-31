@@ -1,3 +1,10 @@
+---
+title: "2026-08-24_arXiv_HYDRA A Heterogeneous Chiplet DSE Framework for Serving Dyna"
+type: article-summary
+domain: TCC
+created: 2026-08-25
+auto: true
+---
 # 2026-08-24_arXiv_HYDRA A Heterogeneous Chiplet DSE Framework for Serving Dyna
 
 **Domain**: TCC

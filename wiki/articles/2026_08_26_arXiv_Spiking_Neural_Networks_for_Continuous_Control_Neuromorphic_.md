@@ -1,3 +1,10 @@
+---
+title: "2026-08-26_arXiv_Spiking Neural Networks for Continuous Control Neuromorphic"
+type: article-summary
+domain: iNEST
+created: 2026-08-27
+auto: true
+---
 # 2026-08-26_arXiv_Spiking Neural Networks for Continuous Control Neuromorphic 
 
 **Domain**: iNEST

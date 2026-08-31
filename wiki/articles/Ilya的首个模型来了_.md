@@ -1,3 +1,10 @@
+---
+title: "Ilya的首个模型来了！"
+type: article-summary
+domain: Cross
+created: 2026-08-19
+auto: true
+---
 # Ilya的首个模型来了！
 
 **Domain**: Cross

@@ -1,3 +1,10 @@
+---
+title: "AIRA + V-JEPA 2 对 iNEST 的启迪分析"
+type: article-summary
+domain: iNEST
+created: 2026-08-23
+auto: true
+---
 # AIRA + V-JEPA 2 对 iNEST 的启迪分析
 
 **Domain**: iNEST

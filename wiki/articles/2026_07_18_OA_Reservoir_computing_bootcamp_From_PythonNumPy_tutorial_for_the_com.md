@@ -1,3 +1,10 @@
+---
+title: "2026-07-18_OA_Reservoir computing bootcamp—From PythonNumPy tutorial for the complete beginner"
+type: article-summary
+domain: iNEST
+created: 2026-08-23
+auto: true
+---
 # 2026-07-18_OA_Reservoir computing bootcamp—From PythonNumPy tutorial for the complete beginner
 
 **Domain**: iNEST

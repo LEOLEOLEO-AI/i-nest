@@ -1,3 +1,10 @@
+---
+title: "Transformer 九年演进史：从标准架构到混合计算系统的六次改装"
+type: article-summary
+domain: iNEST
+created: 2026-08-19
+auto: true
+---
 # Transformer 九年演进史：从标准架构到混合计算系统的六次改装
 
 **Domain**: iNEST

@@ -1,3 +1,10 @@
+---
+title: "2026-08-26_arXiv_Identifying Probability Localization Dynamics via Structured"
+type: article-summary
+domain: Cross
+created: 2026-08-27
+auto: true
+---
 # 2026-08-26_arXiv_Identifying Probability Localization Dynamics via Structured
 
 **Domain**: Cross

@@ -1,3 +1,10 @@
+---
+title: "华为ISCAS 2026报告：τ定律与数据中心芯片的逻辑折叠之路"
+type: article-summary
+domain: TCC
+created: 2026-08-07
+auto: true
+---
 # 华为ISCAS 2026报告：τ定律与数据中心芯片的逻辑折叠之路
 
 **Domain**: TCC

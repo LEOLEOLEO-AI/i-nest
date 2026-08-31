@@ -1,3 +1,10 @@
+---
+title: "CST 理论 V5.0 科学深度研究报告_2"
+type: article-summary
+domain: TCC
+created: 2026-08-19
+auto: true
+---
 # CST 理论 V5.0 科学深度研究报告_2
 
 **Domain**: TCC

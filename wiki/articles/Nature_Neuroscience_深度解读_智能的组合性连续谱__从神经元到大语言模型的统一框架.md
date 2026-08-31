@@ -1,3 +1,10 @@
+---
+title: "Nature Neuroscience 深度解读：智能的组合性连续谱——从神经元到大语言模型的统一框架"
+type: article-summary
+domain: iNEST
+created: 2026-08-23
+auto: true
+---
 # Nature Neuroscience 深度解读：智能的组合性连续谱——从神经元到大语言模型的统一框架
 
 **Domain**: iNEST

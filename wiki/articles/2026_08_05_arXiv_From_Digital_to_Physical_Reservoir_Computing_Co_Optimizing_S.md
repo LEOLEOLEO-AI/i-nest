@@ -1,3 +1,10 @@
+---
+title: "2026-08-05_arXiv_From Digital to Physical Reservoir Computing Co-Optimizing S"
+type: article-summary
+domain: Cross
+created: 2026-08-23
+auto: true
+---
 # 2026-08-05_arXiv_From Digital to Physical Reservoir Computing Co-Optimizing S
 
 **Domain**: Cross

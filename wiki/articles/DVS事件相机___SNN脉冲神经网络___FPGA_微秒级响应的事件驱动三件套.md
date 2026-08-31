@@ -1,3 +1,10 @@
+---
+title: "DVS事件相机 × SNN脉冲神经网络 × FPGA：微秒级响应的事件驱动三件套"
+type: article-summary
+domain: iNEST
+created: 2026-08-31
+auto: true
+---
 # DVS事件相机 × SNN脉冲神经网络 × FPGA：微秒级响应的事件驱动三件套
 
 **Domain**: iNEST

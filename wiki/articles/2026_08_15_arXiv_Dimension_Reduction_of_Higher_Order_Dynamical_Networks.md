@@ -1,3 +1,10 @@
+---
+title: "2026-08-15_arXiv_Dimension Reduction of Higher-Order Dynamical Networks"
+type: article-summary
+domain: Cross
+created: 2026-08-23
+auto: true
+---
 # 2026-08-15_arXiv_Dimension Reduction of Higher-Order Dynamical Networks
 
 **Domain**: Cross

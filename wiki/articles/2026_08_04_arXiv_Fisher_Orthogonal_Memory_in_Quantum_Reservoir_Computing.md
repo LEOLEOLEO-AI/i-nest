@@ -1,3 +1,10 @@
+---
+title: "2026-08-04_arXiv_Fisher-Orthogonal Memory in Quantum Reservoir Computing"
+type: article-summary
+domain: Cross
+created: 2026-08-23
+auto: true
+---
 # 2026-08-04_arXiv_Fisher-Orthogonal Memory in Quantum Reservoir Computing
 
 **Domain**: Cross

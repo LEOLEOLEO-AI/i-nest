@@ -1,3 +1,10 @@
+---
+title: "llm_analysis_20260530 抢救文献笔记"
+type: article-summary
+domain: Cross
+created: 2026-08-23
+auto: true
+---
 # llm_analysis_20260530 抢救文献笔记
 
 **Domain**: Cross

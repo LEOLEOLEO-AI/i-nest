@@ -1,3 +1,10 @@
+---
+title: "2026-08-12_arXiv_PTQ4SNN Membrane-Aware Post-Training Quantization for Spikin"
+type: article-summary
+domain: iNEST
+created: 2026-08-23
+auto: true
+---
 # 2026-08-12_arXiv_PTQ4SNN Membrane-Aware Post-Training Quantization for Spikin
 
 **Domain**: iNEST

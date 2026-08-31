@@ -1,3 +1,10 @@
+---
+title: "2026-07-18_OA_A Review of Intelligent Power Management and AI-Assisted Energy-Efficient Contro"
+type: article-summary
+domain: TCC
+created: 2026-08-29
+auto: true
+---
 # 2026-07-18_OA_A Review of Intelligent Power Management and AI-Assisted Energy-Efficient Contro
 
 **Domain**: TCC

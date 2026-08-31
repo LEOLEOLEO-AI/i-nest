@@ -1,3 +1,10 @@
+---
+title: "《The Topological Trouble With Transformers》论文深度解析：Transforme"
+type: article-summary
+domain: Cross
+created: 2026-08-23
+auto: true
+---
 # 《The Topological Trouble With Transformers》论文深度解析：Transforme
 
 **Domain**: Cross

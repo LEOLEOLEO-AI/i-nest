@@ -1,3 +1,10 @@
+---
+title: "集合通信NaaS产业落地计划（18个月）"
+type: article-summary
+domain: TCC
+created: 2026-08-23
+auto: true
+---
 # 集合通信NaaS产业落地计划（18个月）
 
 **Domain**: TCC

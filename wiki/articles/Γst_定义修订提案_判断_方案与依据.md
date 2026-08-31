@@ -1,3 +1,10 @@
+---
+title: "Γst 定义修订提案：判断、方案与依据"
+type: article-summary
+domain: Cross
+created: 2026-08-10
+auto: true
+---
 # Γst 定义修订提案：判断、方案与依据
 
 **Domain**: Cross

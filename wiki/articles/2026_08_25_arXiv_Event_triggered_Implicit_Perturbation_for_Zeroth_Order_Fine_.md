@@ -1,3 +1,10 @@
+---
+title: "2026-08-25_arXiv_Event-triggered Implicit Perturbation for Zeroth-Order Fine-"
+type: article-summary
+domain: iNEST
+created: 2026-08-26
+auto: true
+---
 # 2026-08-25_arXiv_Event-triggered Implicit Perturbation for Zeroth-Order Fine-
 
 **Domain**: iNEST

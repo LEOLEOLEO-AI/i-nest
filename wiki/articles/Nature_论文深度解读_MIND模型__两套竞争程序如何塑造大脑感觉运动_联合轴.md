@@ -1,3 +1,10 @@
+---
+title: "Nature 论文深度解读：MIND模型——两套竞争程序如何塑造大脑感觉运动—联合轴"
+type: article-summary
+domain: iNEST
+created: 2026-08-19
+auto: true
+---
 # Nature 论文深度解读：MIND模型——两套竞争程序如何塑造大脑感觉运动—联合轴
 
 **Domain**: iNEST

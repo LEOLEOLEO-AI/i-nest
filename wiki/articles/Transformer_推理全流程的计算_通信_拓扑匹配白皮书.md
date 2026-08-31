@@ -1,3 +1,10 @@
+---
+title: "Transformer 推理全流程的计算—通信—拓扑匹配白皮书"
+type: article-summary
+domain: TCC
+created: 2026-08-10
+auto: true
+---
 # Transformer 推理全流程的计算—通信—拓扑匹配白皮书
 
 **Domain**: TCC

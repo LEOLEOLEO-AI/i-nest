@@ -1,3 +1,10 @@
+---
+title: "2026-08-06_arXiv_Self-Focusing Control for Depth-Precise Wafer Slicing of 4H-"
+type: article-summary
+domain: TCC
+created: 2026-08-23
+auto: true
+---
 # 2026-08-06_arXiv_Self-Focusing Control for Depth-Precise Wafer Slicing of 4H-
 
 **Domain**: TCC

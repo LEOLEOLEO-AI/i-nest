@@ -1,3 +1,10 @@
+---
+title: "2026-08-04_arXiv_PROPEL A Memory-Driven, Adaptive Vector-Flow-Field Router wi"
+type: article-summary
+domain: TCC
+created: 2026-08-23
+auto: true
+---
 # 2026-08-04_arXiv_PROPEL A Memory-Driven, Adaptive Vector-Flow-Field Router wi
 
 **Domain**: TCC

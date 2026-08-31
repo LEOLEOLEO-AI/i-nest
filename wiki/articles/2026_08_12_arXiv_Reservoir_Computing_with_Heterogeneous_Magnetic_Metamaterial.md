@@ -1,3 +1,10 @@
+---
+title: "2026-08-12_arXiv_Reservoir Computing with Heterogeneous Magnetic Metamaterial"
+type: article-summary
+domain: TCC
+created: 2026-08-23
+auto: true
+---
 # 2026-08-12_arXiv_Reservoir Computing with Heterogeneous Magnetic Metamaterial
 
 **Domain**: TCC

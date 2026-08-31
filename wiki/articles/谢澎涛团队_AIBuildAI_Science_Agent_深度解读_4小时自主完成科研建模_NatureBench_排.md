@@ -1,3 +1,10 @@
+---
+title: "谢澎涛团队 AIBuildAI Science Agent 深度解读：4小时自主完成科研建模，NatureBench 排"
+type: article-summary
+domain: iNEST
+created: 2026-08-19
+auto: true
+---
 # 谢澎涛团队 AIBuildAI Science Agent 深度解读：4小时自主完成科研建模，NatureBench 排
 
 **Domain**: iNEST

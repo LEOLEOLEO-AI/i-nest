@@ -1,3 +1,10 @@
+---
+title: "2026-07-27_CST-iNEST-iMESO 全体系总览：基于SDDE动力学的智能涌现工程化框架"
+type: article-summary
+domain: TCC
+created: 2026-08-27
+auto: true
+---
 # 2026-07-27_CST-iNEST-iMESO 全体系总览：基于SDDE动力学的智能涌现工程化框架
 
 **Domain**: TCC
