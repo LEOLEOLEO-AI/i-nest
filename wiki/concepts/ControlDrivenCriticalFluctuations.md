@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[OpenLearningEcosystem]]
 [[Phase_Transition_Decoding]]
 [[Plasticity_vs_Computation_Separation]]
+[[QuantumDistillation]]
 [[RLFlightControl]]
 [[STDPDrivenConnectivity]]
 [[STDP_Plasticity]]

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Connectome]]
 [[Connectome_Inspired_Architecture]]
 [[CriticalPhaseTransitionStatisticalTest]]
+[[Crystallized_Neural_Manifolds]]
 [[DataProvenanceIntegrity]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

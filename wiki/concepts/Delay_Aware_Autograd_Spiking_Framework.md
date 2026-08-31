@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[ActiveDendriteSNN]]
 [[AnomalousSpinTransport]]
+[[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
 [[DualDrivenHybridNetwork]]
@@ -29,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDataNonUniformity]]
 [[EventDrivenAutoregression]]
 [[EventDrivenGraphTraversal]]
+[[EventDrivenSynchronization]]
 [[Event_Driven_Architecture]]
 [[Heterogeneous_Integration]]
 [[In_Package_Neuromorphic_Integration]]
@@ -45,7 +47,6 @@ Auto-extracted concept from raw material compilation.
 [[SpikeCodingAdversarialPerturbation]]
 [[SpikeEncoding]]
 [[Spike_Encoding_of_fMRI]]
-[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[Spiking_Sequence_Generator]]
 [[Swarm_Coordination]]

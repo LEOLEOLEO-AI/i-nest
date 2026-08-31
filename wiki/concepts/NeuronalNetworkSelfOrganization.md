@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[AI_Assisted_Energy_Management]]
+[[Active_Inference_Agent]]
 [[AdaptiveMeasurementProtocol]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[AmorphousSolidPlasticity]]
@@ -37,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[ContinuousTraitAxelrodModel]]
 [[DendriticReservoirState]]
 [[Dynamic_Expert_Fusion]]
+[[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[FreeEnergyPrinciple]]
 [[Hypersonic_Systems_Research]]

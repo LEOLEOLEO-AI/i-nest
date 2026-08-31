@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalNormBoundary]]
 [[Criticality]]
 [[DevelopmentalNeuromorphicAdaptation]]
+[[Discrete_Event_Spike_Simulation]]
 [[EarlyVisualCortexAliasing]]
 [[Endocrine_Modulated_Network_State]]
 [[EventDrivenAsynchronousRouting]]

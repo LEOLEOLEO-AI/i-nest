@@ -32,6 +32,8 @@ Auto-extracted concept from raw material compilation.
 [[Controlled_Release_Kinetics]]
 [[Cytokine_Feedback_Loops]]
 [[DelayCodedWorkingMemory]]
+[[Droop_Triggered_Workload_Throttling]]
+[[EventDrivenComputation]]
 [[EventDrivenFunctionalConnectivity]]
 [[EventDrivenSpectralProcessing]]
 [[ITP_STDP]]

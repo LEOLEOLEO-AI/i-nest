@@ -38,6 +38,8 @@ Auto-extracted concept from raw material compilation.
 [[MoE_Routing]]
 [[Network_Topology_Design]]
 [[NeuromorphicRadarFrontend]]
+[[Neuromorphic_Computing]]
+[[ReconfigurableSNN_Accelerator]]
 [[SDI_Bond]]
 [[SDI_Control_Plane_Offload]]
 [[SelfOrganization]]

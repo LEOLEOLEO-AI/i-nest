@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[ExplosiveTransitionThreshold]]
 [[Fixed_Reservoir_Unitary]]
 [[Free_Energy_Topology_Mapping]]
+[[MultiScalePathDivergence]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[OpticalSynapticWeightUpdate]]

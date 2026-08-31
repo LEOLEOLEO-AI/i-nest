@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Closed_Loop_Neuromodulation]]
 [[Compact_Boson_Dynamics]]
 [[Complex_System_Theory]]
+[[ConnectionCentricParadigm]]
 [[ContinuousGameOfLife]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

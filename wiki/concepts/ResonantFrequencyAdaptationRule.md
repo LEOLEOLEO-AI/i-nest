@@ -34,13 +34,17 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenWirelessTransmission]]
 [[InputAdaptiveComputation]]
 [[Memory_Wall]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[OptimalGeneralisationNearInterpolation]]
 [[PhotoIontronicSynapse]]
 [[RareEventCoding]]
 [[ResonateAndFireEncoding]]
 [[SpikingNeuralNetworkTopologyMapping]]
+[[SpikingNeuralNetworkTopology]]
+[[SpikingNeuralNetwork]]
 [[Spiking_Neural_Network]]
+[[WirelessSplitComputing]]
 [[iNEST]]
 
 ## Sources

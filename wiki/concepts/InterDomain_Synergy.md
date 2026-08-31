@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AINext_Initiative]]
 [[ActivityAvalanche]]
+[[AddressRedundancyElimination]]
 [[Agent_Interaction_Sequencing]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
@@ -29,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[Driven_Criticality]]
 [[Dynamic_Expert_Fusion]]
+[[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenMotionDeblurring]]
 [[Intelligence_Emergence]]

@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicStatusAwareness]]
 [[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Planning_Architecture]]
 [[OpenSource_Neuromorphic_Framework]]
 [[SDI_Bond]]
 [[SDI_iNEST_Interconnect]]

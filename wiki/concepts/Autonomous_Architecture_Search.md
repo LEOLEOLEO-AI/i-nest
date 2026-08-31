@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Active_Inference_Agent]]
 [[AdaptiveBitPrecisionExploration]]
 [[AdaptiveDensityControl]]
+[[AdaptiveModelPartitioning]]
 [[AmorphousSolidPlasticity]]
 [[ArbitraryWavefunctionConfigurability]]
 [[BackflowTransformation]]

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_Exponential_Gain]]
 [[C_elegansConnectomeAnalogy]]
 [[Combinatorial_Optimization_Readout]]
+[[CompactMemristorCircuits]]
 [[Complex_System_Theory]]
 [[Connectome]]
 [[Connectome_Reservoir]]

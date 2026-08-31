@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Local_Approximation_Dynamics]]
 [[PPT]]
+[[Reconfigurable_Neural_Topology]]
 [[Self_Organized_Criticality]]
 [[Stigmergic_RL]]
 [[iNEST]]

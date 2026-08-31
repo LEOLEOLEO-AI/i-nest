@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Organization]]
 [[NonEquilibriumComputing]]
+[[ReproducibleReservoirDynamics]]
 [[RestrictedConnectivityTopology]]
 [[SpinGlassOrderAbsence]]
 [[涌现]]

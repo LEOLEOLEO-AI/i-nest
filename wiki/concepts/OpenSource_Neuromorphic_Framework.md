@@ -24,6 +24,8 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Bidirectional_Temporal_Enhancement]]
+[[CollectiveSpikingDynamics]]
+[[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenWeightUpdate]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]

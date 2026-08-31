@@ -30,6 +30,8 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveLocalLearning]]
 [[Adaptive_Service_Orchestration]]
 [[AdjointWaveControl]]
+[[Advanced_Packaging_for_Space]]
+[[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
 [[CoPackagedOptics]]

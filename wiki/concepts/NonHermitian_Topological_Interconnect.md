@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN动力学]]
 [[Analog_InMemory_Processing]]
 [[Anisotropic_Square_Lattice]]
+[[AnomalousLocalization]]
 [[ArbitraryWavefunctionConfigurability]]
 [[ArtificialLifeTopologyEvolution]]
 [[Complex_System_Theory]]

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Memory_Computing]]
 [[Intelligence_Emergence]]
 [[Memristive_ANN_Hardware]]
+[[Memristor]]
 [[Memristor_Hardware_ANN]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
@@ -47,7 +48,11 @@ Auto-extracted concept from raw material compilation.
 [[智能涌现]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
+[[神经形态计算]]
 [[神经形态计算突破：脉冲神经网络实现机器人超低功耗定位新范式]]
+[[神经网络]]
+[[类脑芯片]]
+[[脉冲神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

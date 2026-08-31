@@ -25,10 +25,12 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[BigBrainCellularAxis]]
 [[ChipletRoutingFabric]]
+[[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Complex_System_Theory]]
 [[Complexity_Emergence]]
+[[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
@@ -36,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Less is more，大脑“低能耗”并“高效响应”的秘诀：模块化]]
 [[Memory_Wall]]
 [[Memristive_STDP]]
+[[Memristor]]
 [[Memristor_Network]]
 [[Memristor_Synapse]]
 [[MetaFAIR_ArchitectureDiscovery]]
@@ -43,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[NoC]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[P_Paradigm]]
 [[SDSoW]]
@@ -56,7 +60,9 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
 [[Wafer_Scale_Neuromorphic]]
+[[Wafer_Scale_Neuromorphic_Integration]]
 [[iNEST]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

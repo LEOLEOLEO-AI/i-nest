@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Continual_Learning_Modularity]]
 [[Deep_Thermalisation]]
 [[DelayTolerantNetworkUAV]]
+[[DistributedIntelligence]]
 [[EndToEndTopologicalLearning]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

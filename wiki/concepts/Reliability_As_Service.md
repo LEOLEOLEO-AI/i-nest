@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[MoE_Routing]]
 [[Neuromorphic_Computing]]
 [[NonHermitianSpectralCorrelations]]
+[[Receptron_Unit]]
 [[SNN]]
 [[SelfOrganization]]
 [[Self_Organized_Criticality]]

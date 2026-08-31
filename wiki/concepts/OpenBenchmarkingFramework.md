@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[CSI_Temporal_Encoding]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
+[[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
 [[Communication_Trace_Diagnostics]]
@@ -60,6 +61,7 @@ Auto-extracted concept from raw material compilation.
 [[涌现]]
 [[神经形态脉冲大语言模型（NSLLM）]]
 [[神经网络]]
+[[类脑芯片]]
 [[脉冲神经网络]]
 
 ## Sources

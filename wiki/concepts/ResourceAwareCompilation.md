@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Critical_Region_Extension]]
 [[DelayTolerantNetworkUAV]]
 [[DisorderDrivenTemporalOrdering]]
+[[DisorderedNetworkInterconnect]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

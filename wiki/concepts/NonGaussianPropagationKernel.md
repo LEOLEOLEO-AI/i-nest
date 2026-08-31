@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[6万+辛顿2025年度全景实录深读｜真正的智能与硅基智能的非对称演进]]
+[[AdjustableDynamics]]
 [[AlgorithmHardware_CoDesign]]
 [[AnomalousSpinTransport]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
@@ -33,12 +34,12 @@ Auto-extracted concept from raw material compilation.
 [[FerroelectricSynapticArray]]
 [[Ferroelectric_Devices]]
 [[MeasurementInducedPhaseTransition]]
+[[Memristor]]
 [[Memristor_Synapse]]
 [[NestedRepresentation]]
 [[Neuromorphic_Computing]]
 [[RecurrentSpikingDynamics]]
 [[Reservoir_Computing]]
-[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[emerging CMOS memristor]]
 [[iNEST]]

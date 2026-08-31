@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenInference]]
 [[Event_Driven_Architecture]]
 [[FunctionalEnsemble]]
+[[In_Package_Neuromorphic_Integration]]
 [[Interconnect_Routing]]
 [[LocalLearning_SynapticUpdate]]
 [[Neuromorphic_Computing]]

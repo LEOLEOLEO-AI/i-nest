@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AthermalDynamics]]
 [[BrainInspiredArchitecture]]
 [[BrainInspired_Chip]]
+[[BurstTemporalPlasticity]]
 [[Compact_Sequence_Encoding]]
 [[Discrete_Event_Spike_Simulation]]
 [[EventDrivenTemplateUpdate]]

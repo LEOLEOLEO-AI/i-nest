@@ -36,10 +36,12 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Decoupling]]
 [[CollectiveStateTopology]]
 [[ConstraintDrivenSelfOrganization]]
+[[CounterstreamSignalPropagation]]
 [[Criticality]]
 [[Network_Topology_Design]]
 [[Nishimori_Multicritical_Point]]
 [[Quantum_Criticality]]
+[[SelfOrganization]]
 [[Self_Organized_Criticality]]
 [[TCC]]
 

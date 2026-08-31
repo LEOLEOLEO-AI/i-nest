@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkReconfiguration]]
 [[Interconnect_Routing]]
 [[MoE_Routing]]
+[[Negative_Result_Retention]]
 [[Network_Topology_Design]]
 [[SelfOrganization]]
 [[Self_Organized_Criticality]]

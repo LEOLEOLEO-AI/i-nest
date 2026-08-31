@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
 [[AI-ML — 全景导航 (Map of Content)]]
@@ -29,9 +30,12 @@ Auto-extracted concept from raw material compilation.
 [[Beyond_Moore_Packaging_Strategy]]
 [[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
+[[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
+[[Criticality]]
 [[DendriticReservoirState]]
+[[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
 [[Epithelial_Barrier_Integrity]]
@@ -49,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[ScaleFreeNetwork]]
 [[SelfOrganizedCriticalityConsciousness]]
+[[Self_Organized_Criticality]]
 [[ShortTermMemory]]
 [[SuperparamagneticSwitchingRate]]
 [[TCADCalibration]]

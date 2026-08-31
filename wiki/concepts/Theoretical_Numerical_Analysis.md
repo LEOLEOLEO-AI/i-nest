@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[HybridResistiveMemoryCIM]]
 [[IMPLYMemristiveISA]]
 [[In_Package_Neuromorphic_Integration]]
+[[LightweightNeuromorphicArchitecture]]
 [[Long_Range_Interactions]]
 [[Memristive_CAM_Indexing]]
 [[Network_Topology_Design]]

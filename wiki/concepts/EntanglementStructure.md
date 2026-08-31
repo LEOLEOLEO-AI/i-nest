@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
 [[ConformalFieldTheoryScaling]]
+[[DendriticReservoirState]]
 [[Functional_Food_Complexity]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

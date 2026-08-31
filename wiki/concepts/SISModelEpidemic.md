@@ -30,6 +30,8 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[AndersonTransition]]
 [[Architectural_Conditioning]]
+[[CausalIntegrationTopology]]
+[[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Packaging]]
 [[Chiplet_Stacking]]

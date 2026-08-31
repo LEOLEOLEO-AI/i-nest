@@ -34,6 +34,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[CriticalPhaseTransitionStatisticalTest]]
 [[DeviceConductanceTuning]]
 [[Intelligence_Emergence]]
+[[Krakencoder_Embedding]]
 [[NCL神经计算定律详解]]
 [[Nature综述_大规模类脑计算的机遇与挑战]]
 [[Network_Topology_Design]]

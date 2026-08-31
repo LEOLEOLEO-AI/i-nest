@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[AcceleratedMaterialScreening]]
 [[Adjoint_Gradient_Propagation]]
+[[AndersonTransition]]
 [[CombinatorialOptimizationReservoirMapping]]
 [[CouplingTopologyInducedDynamics]]
 [[CriticalFixedPoint]]

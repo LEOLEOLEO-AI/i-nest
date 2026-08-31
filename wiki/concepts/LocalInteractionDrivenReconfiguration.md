@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[CorticalWaveRouting]]
 [[CriticalNormBoundary]]
 [[CrossLayer_SignalRouting]]
+[[CrossbarSNNArchitecture]]
 [[Dimensionality_Modularity_Tradeoff]]
 [[DynamicCentralitySteering]]
 [[EarlyVisualCortexAliasing]]

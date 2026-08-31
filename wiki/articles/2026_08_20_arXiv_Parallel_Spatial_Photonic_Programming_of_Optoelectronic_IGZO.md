@@ -23,6 +23,7 @@ TCC, iNEST, neuromorphic
 
 ## Related Concepts
 
+[[Memristor]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
 [[OptoelectronicIGZO_RRAM]]

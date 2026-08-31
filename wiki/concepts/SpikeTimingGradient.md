@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Oncological_Digital_Twin]]
 [[SNN]]
 [[STDP_Plasticity]]
+[[SpikeBasedBeliefPropagation]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]

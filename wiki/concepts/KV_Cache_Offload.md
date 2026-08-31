@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[AI人工智能 卷积神经网络（CNN）_w3cschool]]
 [[ANN动力学]]
 [[Analog_InMemory_Processing]]
+[[ArbitraryWavefunctionConfigurability]]
 [[ArtificialLifeTopologyEvolution]]
 [[BCM滑动阈值]]
 [[CST计量仪]]

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_CMOS_Memristor_Nonlinearity]]
 [[HardwareAware_DesignSpace]]
 [[Intelligence_Emergence]]
+[[Memristor]]
 [[Memristor_Synapse]]
 [[MesonSpectra]]
 [[Neuromorphic_Computing]]
@@ -42,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Spiking_neural_network_dynamics]]
 [[Synaptic_Plasticity]]
+[[ThermalNoiseHarnessing]]
 [[iNEST]]
 
 ## Sources

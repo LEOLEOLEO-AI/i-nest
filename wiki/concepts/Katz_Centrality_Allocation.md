@@ -38,11 +38,14 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Inference_Workload_Profiling]]
 [[InputAdaptiveComputation]]
+[[Interconnect_Routing]]
 [[MemoryDrivenVectorFlowFieldRouting]]
 [[MonitoredNonInteractingFermions]]
 [[Network_Topology_Design]]
 [[SelfOrganization]]
 [[TCC]]
+[[Three_Layer_Memory_Infrastructure]]
+[[VectorFlowField]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

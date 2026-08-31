@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[DiscreteScaleInvariance]]
 [[ErrorSuppressedPipeline]]
 [[MultipartiteEntanglementFractal]]
+[[NCA_Reservoir]]
 [[NonlinearDynamicalSampling]]
 [[Nonlinear_Gain]]
 [[OpticalReservoirComputing]]

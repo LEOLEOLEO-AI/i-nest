@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Plasticity_vs_Computation_Separation]]
 [[STDPDrivenConnectivity]]
 [[STDP_Plasticity]]
+[[Swarmalator_Phase_Transition]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[涌现]]

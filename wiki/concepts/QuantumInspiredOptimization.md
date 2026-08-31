@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[QNNtoSNNConversion]]
 [[SNN]]
+[[SafetyThresholdAsSpikingThreshold]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]

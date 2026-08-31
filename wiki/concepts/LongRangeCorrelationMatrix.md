@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Decoupled_Priors]]
 [[Decoupling_Mechanism]]
 [[Electronic_Crystal_Dynamics]]
+[[FPGA_Reconfigurability]]
 [[GraphBasedSemanticRouting]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[BrainActivityPrediction]]
 [[BrownianCastleInterface]]
 [[CombinedImportanceScoring]]
+[[CurrentInjectionSNN]]
 [[ErrorSuppressedPipeline]]
 [[Global_Self_Attention_Bottleneck]]
 [[InterpretabilityDrivenDesign]]

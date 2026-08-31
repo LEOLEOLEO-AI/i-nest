@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Processing]]
 [[FixedOverheadPenalty]]
 [[FunctionalEnsemble]]
+[[HippocampalNeocorticalIntelligence]]
 [[In_Package_Neuromorphic_Integration]]
 [[MemoryDrivenInterconnect]]
 [[MicroTransferPrintedActiveDevices]]

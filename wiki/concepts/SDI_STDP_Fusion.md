@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[PacketRoutingOptimization]]
 [[SDI_Bond]]
 [[SDI_STDP]]
+[[SDI_STDP_Bond]]
 [[SDI_STDP_Rule]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]

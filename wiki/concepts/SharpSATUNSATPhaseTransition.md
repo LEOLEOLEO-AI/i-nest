@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[InNetworkComputing]]
 [[Interconnect_Routing]]
+[[JointUAVFlightAndRouting]]
 [[MultiSourceTaskonomy]]
 [[Network_Topology_Design]]
 [[SelfOrganization]]

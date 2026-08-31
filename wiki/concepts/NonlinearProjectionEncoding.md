@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[ApplicationScenarioReconstruction]]
 [[AsymmetricStochasticInteractions]]
 [[AtomicVaporNonlinearity]]
+[[AttentionMap_DifferenceResidual]]
 [[Complex_System_Theory]]
 [[Compressed_Glass_Network]]
 [[ConnectivityDerivedReservoir]]

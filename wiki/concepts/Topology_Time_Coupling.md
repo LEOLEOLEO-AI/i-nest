@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[EvolvingArchitectureDynamics]]
 [[ExactWiringRouting]]
 [[GrandCanonicalOptimization]]
+[[HybridCouplingThermosensitiveNetwork]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Memristive_Topology]]

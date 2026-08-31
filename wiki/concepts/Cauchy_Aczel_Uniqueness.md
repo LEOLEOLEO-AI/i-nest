@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[156QubitScale]]
 [[AI-ML — 全景导航 (Map of Content)]]
 [[CST计量仪]]
+[[Chip-Hardware — 全景导航 (Map of Content)]]
 [[CoexistenceRegime]]
 [[CommunicationTopologyMismatch]]
 [[Complex_System_Theory]]

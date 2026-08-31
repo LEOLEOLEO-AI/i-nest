@@ -20,9 +20,11 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3DHI_Stacking]]
 [[3D_IC_Stacking]]
 [[4H_SiC_SubstrateProcessing]]
 [[AnalogDomainCompression]]
+[[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_NoC_Fabric]]
 [[DARPA_ProjectManager_Model]]
@@ -33,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
+[[NoC]]
 [[NoC_SDI]]
 [[NoC_SDI_Topology]]
 [[OnChipOpticalTweezers]]

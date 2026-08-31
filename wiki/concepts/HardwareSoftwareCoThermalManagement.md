@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossDomain_Abstraction]]
 [[CrossDomain_Synthesis]]
 [[DirtyWeylSemimetal]]
+[[DisorderedNetworkInterconnect]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

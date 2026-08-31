@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_Project_Group_Strategy]]
 [[ElectronicPhotonicIntegratedCircuit]]
 [[EvanescentFieldTrapping]]
+[[FractalPathEntropy]]
 [[HighThroughputParticleRouting]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]

@@ -32,6 +32,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[20W_Brain_Inspired_Planning]]
 [[AIRA_NeuralArchSearch]]
 [[AI_Driven_Architecture_Search]]
+[[AdaptiveTimeStepTraining]]
 [[Alpha_Computation_Consistency]]
 [[AndersonTransition]]
 [[AnomalousSpinTransport]]

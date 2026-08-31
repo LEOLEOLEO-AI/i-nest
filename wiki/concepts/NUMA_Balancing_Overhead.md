@@ -19,10 +19,12 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Chip-Hardware — 全景导航 (Map of Content)]]
 [[CirculateFiringNeuron]]
 [[ComplexValuedSNN]]
 [[Distributed_Spike_Communication]]
 [[Dynamic_Expert_Fusion]]
+[[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[LocalQuantumLearningRule]]
@@ -37,7 +39,6 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Learning]]
 [[STDP_Plasticity]]
 [[SpikeEncoding]]
-[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[Swarm_Coordination]]
 [[SynapticWeightPlasticity]]

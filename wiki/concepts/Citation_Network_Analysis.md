@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveMatterSubstrate]]
 [[Advanced_Computing_Project]]
 [[AdversarialSensingResilience]]
+[[Air_Combat_Autonomy]]
 [[AmorphousSolidPlasticity]]
 [[BCM滑动阈值]]
 [[Complex_System_Theory]]

@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Complexity_Emergence]]
 [[Complexity_Emergence_Engineering]]
+[[DataDrivenCellularAxis]]
 [[ErrorSuppressedPipeline]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

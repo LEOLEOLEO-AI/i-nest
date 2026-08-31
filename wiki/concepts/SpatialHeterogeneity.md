@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Branch_Prediction_Reservoir]]
 [[CSI_Temporal_Dynamics]]
 [[CouplingMatrixRecovery]]
+[[CouplingTopologyMemoryLink]]
 [[CrashHotspotForecasting]]
 [[CrossInstitutionalNetwork]]
 [[Crystallized_Neural_Manifolds]]

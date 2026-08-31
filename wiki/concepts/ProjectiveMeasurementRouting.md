@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[AmoebaInspiredLocomotion]]
 [[AnomalousSpinTransport]]
 [[AstrocyteInspiredModulation]]
+[[AtomicGeometryEncoding]]
 [[BrownianCastleInterface]]
 [[InteractingQuasiPeriodicChain]]
 [[Interconnect_Routing]]

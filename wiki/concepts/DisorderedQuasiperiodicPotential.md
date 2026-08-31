@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[CommunicationTopologyMismatch]]
 [[Complex_System_Theory]]
 [[ConformalFieldTheoryScaling]]
+[[Crack_Generation_Identification]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]

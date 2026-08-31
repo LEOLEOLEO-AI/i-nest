@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AnomalousSpinTransport]]
 [[AstrocyteInspiredRepair]]
 [[CSI_Temporal_Encoding]]
+[[Chip-Hardware — 全景导航 (Map of Content)]]
 [[CombinatorialOptimizationReservoirMapping]]
 [[Course_Based_FPGA_Projects]]
 [[ElasticSpikingTransformer]]
@@ -37,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[HierarchicalReservoirDynamics]]
 [[In_Network_Neuromorphic]]
+[[Memristor]]
 [[Memristor_Synapse]]
 [[Nature Communications_生物神经网络中突触多样性如何让人工神经网络更强大？]]
 [[Neuromorphic_Computing]]
@@ -46,7 +48,9 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[SpikingTransformer]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[scaling laws]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

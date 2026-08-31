@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[BiologicalNoiseMimicry]]
 [[BrainActivityPrediction]]
 [[CombinedImportanceScoring]]
+[[CurrentInjectionSNN]]
 [[DARPA_ProjectManager_Model]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[FPGA_Accelerated_SNN]]

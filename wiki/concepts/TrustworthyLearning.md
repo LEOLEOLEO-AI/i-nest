@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[DelayTolerantNetworkUAV]]
 [[Dynamic_Expert_Routing]]
 [[EndToEndTopologicalLearning]]
+[[EventDrivenRiskAssessment]]
 [[Interconnect_Routing]]
 [[Interconnect_Topology_Embedding]]
 [[LLM_Reward_Design]]

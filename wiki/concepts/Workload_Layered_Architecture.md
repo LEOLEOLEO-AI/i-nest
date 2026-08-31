@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 [[ASIC_Dualism]]
 [[Active_Inference_Agent]]
 [[AdaptiveDensityControl]]
+[[AnisotropicGaussianPrimitives]]
 [[CrossDomainRoleEquivalence]]
 [[Decoupled_Priors]]
 [[Network_Topology_Design]]

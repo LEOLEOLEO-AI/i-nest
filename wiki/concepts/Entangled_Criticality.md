@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[AdaptiveArchitecture]]
 [[AdaptiveCombinerWeighting]]
+[[Anomaly_Protected_Scaling_Law]]
 [[ArchitecturalCondition]]
 [[BayesianConnectivityEstimation]]
 [[Cognitive_Relapse_Decoupling]]

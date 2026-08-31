@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[BranchingRatio]]
 [[Categorical_Reservoir_Model]]
 [[CoexistencePhaseDiagram]]
+[[CoexistencePhaseTransition]]
 [[ConnectivityDerivedReservoir]]
 [[CoupledOscillatorReservoir]]
 [[CriticalStateReservoir]]

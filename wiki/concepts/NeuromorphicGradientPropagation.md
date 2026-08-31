@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_ProjectManager_Model]]
 [[DifferentiableNetworkMetrics]]
 [[EventDrivenModularArchitecture]]
+[[EventDrivenTracking]]
 [[FrustratedDimerMagnet]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

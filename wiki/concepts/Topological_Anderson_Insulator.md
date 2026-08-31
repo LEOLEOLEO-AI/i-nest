@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Critical_Region_Extension]]
 [[DynamicSynchronyMetric]]
 [[Emergent_Order_Deep_Belief_Networks]]
+[[EpidemicTopologyCoevolution]]
 [[EvolvingArchitectureDynamics]]
 [[ExactWiringRouting]]
 [[Intelligence_Emergence]]

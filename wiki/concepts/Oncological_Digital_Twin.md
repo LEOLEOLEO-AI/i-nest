@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[PhaseLockedTopologyMapping]]
 [[QuantumChaos]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SDI_STDP]]
 [[SNN]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]

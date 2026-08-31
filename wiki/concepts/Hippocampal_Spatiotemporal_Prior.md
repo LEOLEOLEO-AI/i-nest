@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Fading_Memory_Property]]
 [[GNN图神经网络，非结构化数据分析利器！]]
+[[Heterogeneous_P_D_Inference]]
 [[HighSpeedInference]]
 [[Intelligence_Emergence]]
 [[MatrixShapeToParallelismMapping]]

@@ -29,6 +29,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[CST计量仪]]
 [[Complex_System_Theory]]
 [[Connectome]]
+[[Connectome_Inspired_Architecture]]
 [[CriticalPhaseTransitionStatisticalTest]]
 [[DeviceConductanceTuning]]
 [[HotChip2024-Day2_AI加速器互联和云AI处理器,_Tesla是亮点]]

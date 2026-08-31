@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspiredInterceptionTask]]
 [[BioInspiredInterception]]
 [[BulletTrainScheduling]]
+[[CoDesigned_SNN_Online_Learning]]
 [[CoOptimizedMappingScheduling]]
 [[Continuous_Control_Spiking_Stability]]
 [[CriticalityInducedComputationalCapacity]]

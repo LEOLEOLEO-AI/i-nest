@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicTokenSparsity]]
 [[Edge_Neuromorphic_Compute]]
 [[ExtrinsicAnomalousHallConductivity]]
+[[FlexibleNeuromorphicAccelerator]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[InNetwork_Neuromorphic_CoDesign]]
 [[Intelligence_Emergence]]

@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuromorphicGradientPropagation]]
 [[Neuromorphic_Computing]]
+[[OpenEndedDiscovery]]
 [[QuantumDistillation]]
 [[SelfOrganization]]
 [[iNEST]]

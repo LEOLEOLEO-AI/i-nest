@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[HierarchicalAttention_MIL]]
 [[Intelligence_Emergence]]
 [[InterconnectConstrainedEmergence]]
+[[Interconnect_Scaling]]
 [[NCL神经计算定律详解]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

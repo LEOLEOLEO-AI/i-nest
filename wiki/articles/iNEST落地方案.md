@@ -23,6 +23,7 @@ SDI, SNN, STDP, iNEST, neuromorphic, spiking, 忆阻, 拓扑, 晶圆
 
 ## Related Concepts
 
+[[Memristor]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

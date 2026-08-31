@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AdiabaticMultimodeBend]]
 [[Allreduce_Latency_Diagnostic]]
 [[Analog_InMemory_Processing]]
+[[ArbitraryWavefunctionConfigurability]]
 [[Asymptotic_Exact_Solution]]
 [[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]

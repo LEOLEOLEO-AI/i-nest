@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[FemtosecondLaserMachining]]
 [[ImaginaryGaugePhaseImprint]]
 [[Intelligence_Emergence]]
+[[NanoparticleNetwork]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]

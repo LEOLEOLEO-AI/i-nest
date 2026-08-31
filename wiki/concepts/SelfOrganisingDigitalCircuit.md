@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Reconfigurable_Neural_Topology]]
 [[SelfOrganization]]
 [[Self_Organized_Criticality]]
+[[SequentialMultiObjectiveTopologyPlanning]]
 [[TCC]]
 
 ## Sources

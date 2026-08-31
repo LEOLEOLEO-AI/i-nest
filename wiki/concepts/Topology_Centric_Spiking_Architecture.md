@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[TCC_SpikingAnalysis]]
+[[TCC_SpikingIntegration]]
 [[TopologicalAndersonChernInsulator]]
 [[Topology_Centric_Spiking]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]

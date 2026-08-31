@@ -26,9 +26,11 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Architecture]]
 [[In_Network_Neuromorphic]]
 [[InterFPGA_Spike_Routing]]
+[[Interconnect_Routing]]
 [[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Planning_Architecture]]
+[[SDI_iNEST_Interconnect]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

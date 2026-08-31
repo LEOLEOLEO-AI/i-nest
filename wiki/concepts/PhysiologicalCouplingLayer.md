@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[ANN_SNN_WeightSpaceGap]]
 [[AcousticAnomalyDetection]]
+[[AstrocyteInspiredRepair]]
 [[Avoided_Criticality]]
 [[Baseline_Change_Record]]
 [[BigBrainCellularAxis]]
@@ -42,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[SpikeDrivenMOT]]
 [[Spiking_Neural_Network]]
+[[Syncytial_Mesh]]
 [[Syncytial_Mesh_Model]]
 [[iNEST]]
 

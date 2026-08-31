@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AdiabaticModeEvolution]]
 [[AdjointWaveControl]]
 [[Complex_System_Theory]]
+[[ControlDrivenCriticalFluctuations]]
 [[Critical_Region_Extension]]
 [[DelayTolerantNetworkUAV]]
 [[EvolvingArchitectureDynamics]]

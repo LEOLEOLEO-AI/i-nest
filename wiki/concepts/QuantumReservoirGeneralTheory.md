@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Categorical_Closure_Criterion]]
 [[CombinatorialOptimizationReservoirMapping]]
 [[Criticality]]
+[[Criticality_Reservoir]]
 [[Environmental_Induced_Memory]]
 [[Heterogeneous_Compute_Graph]]
 [[Heterogeneous_Integration]]

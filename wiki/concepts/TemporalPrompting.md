@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AINext_Initiative]]
 [[Accessibility_Plasticity]]
+[[AdaptiveArchitecture]]
 [[AdaptiveFrequencyResonateAndFire]]
 [[AmoebaInspiredLocomotion]]
 [[Cognitive_Relapse_Decoupling]]
@@ -35,10 +36,13 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[LocalPlasticityPipeline]]
 [[MoE_Routing]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Receptron_Unit]]
 [[ReconfigurableSNNTopology]]
+[[SNN]]
 [[Self_Organized_Criticality]]
+[[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
 

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalWeightNormBoundary]]
 [[CrossDomain_Abstraction]]
 [[CrossDomain_Synthesis]]
+[[DirtyWeylSemimetal]]
 [[ErdosRenyi_Graph_Energy_Surface]]
 [[EventTriggeredDistributedControl]]
 [[FunctionalRelevanceDrivenSelfOrganization]]

@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
 [[TCC]]
+[[Workload_Isolation]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

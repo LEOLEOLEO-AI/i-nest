@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[Chip_Floorplanning]]
 [[ChipletRoutingFabric]]
+[[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CytoarchitectonicAxis]]
 [[FunctionalBrainGraphEmbedding]]
@@ -31,9 +32,11 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Memristive_Interconnect]]
 [[Memristive_STDP]]
+[[Memristor]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
+[[NoC]]
 [[NoC_SDI]]
 [[NoC_SDI_Integration]]
 [[PacketRoutingOptimization]]
@@ -54,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[ViewDependentAppearance]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[Γst_Revision]]
 
 ## Sources

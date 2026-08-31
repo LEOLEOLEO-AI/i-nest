@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[NonEquilibriumPhase]]
 [[On_Chip_STDP_Learning]]
+[[SDI_STDP_Regulation]]
 [[SOC]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]

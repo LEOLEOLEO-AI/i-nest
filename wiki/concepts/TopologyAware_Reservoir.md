@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Physical_Reservoir_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
+[[Second_Curve_Wafer_Industry_Platform]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[complex system]]

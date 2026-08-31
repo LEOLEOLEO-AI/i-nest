@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[20W_Brain_Inspired_Planning]]
 [[AIRA_NeuralArchSearch]]
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_Assisted_Energy_Optimization]]
@@ -40,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[OptimalControlPolicyLearning]]
 [[SelfMotivatedGrowth]]
 [[Self_Organized_Criticality]]
+[[Syncytial_Mesh]]
 [[Syncytial_Mesh_Model]]
 [[UniversalComputationAtCriticality]]
 [[UniversalComputation]]

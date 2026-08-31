@@ -19,16 +19,20 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Chip-Hardware — 全景导航 (Map of Content)]]
+[[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
 [[CurrentInjectionSNN]]
 [[DeeplySupervisedSpiking]]
 [[Distributed_Spike_Communication]]
+[[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[Hardware_Accelerated_SNN]]
 [[HeterogeneousSynapticDelays]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[Memristor]]
 [[Memristor_Network]]
 [[Memristor_Synapse]]
 [[National_Innovation_Center_Role]]

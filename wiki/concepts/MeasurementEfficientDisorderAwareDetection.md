@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[BosonicFieldTopology]]
 [[CatalyticReactionNetwork]]
 [[Complex_System_Theory]]
+[[Crystallized_Neural_Manifolds]]
 [[DAGGER_Algorithm]]
 [[DisorderAwareDetection]]
 [[DisorderInducedLocalization]]

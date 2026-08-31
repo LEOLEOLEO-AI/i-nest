@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[Beyond_Moore_Pathway]]
 [[Bias_Origin_Taxonomy]]
+[[BitPrecisionAwareScheduling]]
 [[BoundaryObject_Abstraction]]
 [[CST_MasterEquation]]
 [[Complex_System_Theory]]

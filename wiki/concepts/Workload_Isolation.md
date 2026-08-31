@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Persistent_Homology_Neuron]]
 [[ReconfigurableSNN_Accelerator]]
+[[Reconfigurable_Neuromorphic_Acceleration]]
 [[SNN]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]

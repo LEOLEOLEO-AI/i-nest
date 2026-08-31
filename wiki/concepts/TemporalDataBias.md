@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspiredInterceptionTask]]
 [[BioInspiredInterception]]
 [[BulletTrainScheduling]]
+[[CoDesigned_SNN_Online_Learning]]
 [[CoOptimizedMappingScheduling]]
 [[Contested_Prior_Resolution]]
 [[Continuous_Control_Spiking_Stability]]

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[BurstInterleaving]]
 [[Cascading_Failure_Mitigation]]
+[[CellEmergence]]
 [[Complex_System_Theory]]
 [[CrossInstitutionalNetwork]]
 [[CrossLayer_SignalRouting]]

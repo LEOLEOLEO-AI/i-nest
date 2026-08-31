@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[EnergyEfficientRestoration]]
 [[EventDrivenInference]]
 [[Event_Driven_Architecture]]
+[[In_Package_Neuromorphic_Integration]]
 [[Interconnect_Routing]]
 [[LocalLearning_SynapticUpdate]]
 [[Neuromorphic_Computing]]

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[Bipartite_Interconnect]]
 [[BurstGatedRouting]]
+[[BurstInterleaving]]
 [[CellEmergence]]
 [[Cognitive_Relapse_Decoupling]]
 [[Continual_Learning_Modularity]]

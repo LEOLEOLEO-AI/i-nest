@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[BigBrainCellularAxis]]
 [[CST_Equation]]
+[[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Complex_System_Theory]]
@@ -44,8 +45,10 @@ Auto-extracted concept from raw material compilation.
 [[Memory_Wall]]
 [[Memristive_ANN_Hardware]]
 [[Memristive_STDP]]
+[[Memristor]]
 [[Memristor_Network]]
 [[Memristor_Synapse]]
+[[Mesoscale_Heterogeneous_Integration]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[MetricComputationAuthenticity]]
 [[Network_Spatiotemporal_Synergy]]
@@ -55,12 +58,14 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[Next_Gen_AI_Application_Scenarios]]
+[[NoC]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[NonAbelian_Gauge_Topology]]
 [[Nonlinear_Gain]]
 [[Photonic_Chiplet_Interconnect]]
 [[RTC_Primitive]]
 [[RecursiveSelfReferentialArchitecture]]
+[[Renormalization_Group]]
 [[Renormalization_Group_Convergence]]
 [[STDP_Plasticity]]
 [[Spacetime_Coupling_Coefficient]]
@@ -80,3 +85,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- Universal_Scaling_Laws (merged 2026-08-31)

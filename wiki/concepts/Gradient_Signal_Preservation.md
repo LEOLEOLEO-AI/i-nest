@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Faculty_Forum_2026]]
 [[ActivityAvalanche]]
 [[BigBrainCellularAxis]]
 [[Cascading_Failure_Mitigation]]
@@ -34,6 +35,9 @@ Auto-extracted concept from raw material compilation.
 [[LatencyGradientDescent]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
+[[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
+[[NoC]]
 [[NoC_EventRouting]]
 [[RobustnessToNoiseInSNN]]
 [[SNN]]

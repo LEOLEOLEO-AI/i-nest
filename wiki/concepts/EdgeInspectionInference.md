@@ -21,9 +21,11 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
+[[6万+辛顿2025年度全景实录深读｜真正的智能与硅基智能的非对称演进]]
 [[AIRA_NeuralArchSearch]]
 [[AI_Faculty_Forum_2026]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
+[[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
 [[Complex_System_Theory]]
@@ -37,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkRadarProcessing]]
 [[Intelligence_Emergence]]
 [[Memory_Wall]]
+[[Memristor]]
 [[Memristor_Synapse]]
 [[ModelOptimization]]
 [[Neuromorphic_Computing]]

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[CoPackagedOptics]]
 [[Compute_In_Memory_Neuromorphic]]
 [[CrossDomain_Integration]]
+[[CrossbarArrayPrecision]]
 [[Dynamic_Expert_Fusion]]
 [[Expert_Review_Arbitration]]
 [[Ferroelectric_ComputeInMemory]]

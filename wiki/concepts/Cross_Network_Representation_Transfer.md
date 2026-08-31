@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[Dynamic_Expert_Routing]]
 [[ExactRateChaosTransition]]
+[[ExplainableEnergyAI]]
 [[Interconnect_Routing]]
 [[Localized_Feedback_Array]]
 [[MoE_Routing]]

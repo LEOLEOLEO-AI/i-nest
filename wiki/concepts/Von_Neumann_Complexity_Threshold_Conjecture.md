@@ -29,6 +29,8 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Synaptic_Weighting]]
 [[Attention_Residuals]]
 [[CST_Spatiotemporal_Complexity]]
+[[CST_Spatiotemporal_Complexity_Theorem]]
+[[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
 [[ComputationEfficientDeepLearning]]

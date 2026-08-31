@@ -25,6 +25,7 @@ NoC, SNN
 
 [[ClearSight_ 基于事件相机与生物启发的运动去模糊研究]]
 [[Network_on_Chip]]
+[[NoC]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[神经网络]]

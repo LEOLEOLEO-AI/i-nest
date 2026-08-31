@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[CircuitTopologyEncoding]]
 [[CoPackagedOptics]]
 [[Complex_System_Theory]]
+[[ControlDrivenCriticalFluctuations]]
 [[CouplingMatrixRecovery]]
 [[Critical_Region_Extension]]
 [[DTGA]]

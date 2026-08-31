@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[BackpropagationFreeLearning]]
 [[ChipletWaferInterconnectTopology]]
+[[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
 [[DiagnosticReportFramework]]
@@ -35,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Photonic_Chiplet_Interconnect]]
 [[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]
+[[RenormalizationGroup_Scaling]]
 [[SDI_Bond]]
 [[SDI_Topology]]
 [[SDSoW]]
@@ -46,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[SpatiotemporalComplexityIndex]]
 [[TCC]]
 [[TemporalComplexity]]
+[[ThirdWaveAI]]
 [[TopologyCentricPrimitiveSystem]]
 [[WaferScaleTopologyCentricComputing]]
 [[Wafer_Scale_Integration]]

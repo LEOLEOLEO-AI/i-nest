@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality_Based_Feature_Extraction]]
 [[DynamicTokenSparsity]]
 [[Edge_Neuromorphic_Compute]]
+[[FlexibleNeuromorphicAccelerator]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[InNetwork_Neuromorphic_CoDesign]]
 [[Intelligence_Emergence]]

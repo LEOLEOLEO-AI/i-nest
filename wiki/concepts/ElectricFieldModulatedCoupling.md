@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[AdjointWaveControl]]
 [[ArbitraryWavefunctionConfigurability]]
 [[Complex_System_Theory]]
+[[ControlDrivenCriticalFluctuations]]
 [[ControlTheoreticTopology]]
 [[Critical_Region_Extension]]
 [[DTGA]]

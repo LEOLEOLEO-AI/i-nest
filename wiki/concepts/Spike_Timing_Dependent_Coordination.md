@@ -32,6 +32,8 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[Cytokine_Feedback_Loops]]
+[[Droop_Triggered_Workload_Throttling]]
+[[EventDrivenComputation]]
 [[EventDrivenSpectralProcessing]]
 [[Neuromorphic_Computing]]
 [[NonEquilibriumPhase]]

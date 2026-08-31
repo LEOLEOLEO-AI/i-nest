@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[3D_Torus_6_Degree]]
 [[AI_Faculty_Forum_2026]]
+[[BackflowTransformation]]
 [[Complex_System_Theory]]
 [[Event_Driven_Architecture]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
@@ -37,8 +38,8 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[ST_SNN]]
-[[Spiking neural network]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[complex system]]
 [[iNEST]]

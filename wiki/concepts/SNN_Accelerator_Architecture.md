@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[DeeplySupervisedSpiking]]
 [[DrivenDissipativeDynamics]]
 [[Dynamic_Expert_Fusion]]
+[[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[FPGA_Neuromorphic_Acceleration]]
 [[GradientFreeSNNTraining]]
@@ -37,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Memristive_SNN_Accelerator]]
 [[Memristive_Topology]]
+[[Memristor]]
 [[Memristor_Network]]
 [[Memristor_Synapse]]
 [[National_Innovation_Center_Role]]
@@ -50,7 +52,6 @@ Auto-extracted concept from raw material compilation.
 [[SDDE_Attractor_Emergence]]
 [[SNN]]
 [[Spike_Encoding_of_fMRI]]
-[[Spiking neural network]]
 [[SpikingTopologyEvolution]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
@@ -58,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[神经形态计算]]
 [[神经网络]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -31,6 +31,9 @@ Auto-extracted concept from raw material compilation.
 [[Bioavailability_Enhancement]]
 [[CST_Coordinated_Spatiotemporal_Complexity]]
 [[Capability_Forging_Pipeline]]
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Stacking]]
 [[Complex_System_Theory]]
 [[CriticalityAwareTopology]]
 [[Criticality]]
@@ -38,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[TCC]]
 [[WeightedPathInfluence]]
+[[Whole_Organism_Behavioral_Assay]]
 [[analog computation]]
 
 ## Sources

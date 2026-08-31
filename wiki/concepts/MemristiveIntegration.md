@@ -22,7 +22,9 @@ Auto-extracted concept from raw material compilation.
 
 [[BeyondVonNeumannArchitecture]]
 [[CMOS_Memristor_Devices]]
+[[Heterogeneous_Integration]]
 [[In_Memory_Computing]]
+[[Memristor]]
 [[Memristor_Synapse]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[Neuromorphic_Computing]]
@@ -31,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Architecture]]
 [[SDSoW_Industry_Alliance]]
 [[SDSoW_Strategic_Planning]]
+[[SneakPathCurrentSuppression]]
 [[WaferScale_Memristor_Array]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]

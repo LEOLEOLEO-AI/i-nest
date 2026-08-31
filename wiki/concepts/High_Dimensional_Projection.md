@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[MultifractalWavefunction]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
+[[PhysicalSubstrateReservoir]]
 [[Reservoir_Computing]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]

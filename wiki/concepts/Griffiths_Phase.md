@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[CST_Spatiotemporal_Coefficient]]
 [[CausalEmergenceCondition]]
+[[Causal_Emergence_Integration]]
 [[CeYIGMagnetoOpticalIsolator]]
 [[ChannelCountScaling]]
 [[Complex_System_Theory]]

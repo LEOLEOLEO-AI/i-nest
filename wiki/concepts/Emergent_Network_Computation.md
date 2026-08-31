@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[03 涌现：整体的能力不能还原回个体？ - 得到APP]]
+[[3D_Heterogeneous_Integration]]
 [[AI_Driven_Architecture_Search]]
 [[AI_Faculty_Forum_2026]]
 [[AI_Forum_Demo_Narrative]]
@@ -30,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AutonomousAdaptation]]
 [[Baseline_Draft_Status]]
 [[CST计量仪]]
+[[Causal_Emergence]]
 [[Causal_Emergence_Integration]]
 [[Closed_Loop_Neuromodulation]]
 [[Complex_System_Theory]]

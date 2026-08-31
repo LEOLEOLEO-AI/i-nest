@@ -26,6 +26,7 @@ TCC, neuromorphic, spiking, wafer
 [[Ferroelectric_Devices]]
 [[Heterogeneous_Integration]]
 [[In_Memory_Computing]]
+[[Memristor]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
 [[Spiking_Neural_Network]]

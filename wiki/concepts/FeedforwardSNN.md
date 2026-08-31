@@ -1,0 +1,38 @@
+---
+title: "FeedforwardSNN"
+type: concept
+domain: iNEST
+created: 2026-08-31
+auto: true
+---
+
+# FeedforwardSNN
+
+**Domain**: iNEST
+**First mentioned**: auto-extracted
+**Last updated**: 2026-08-31
+
+## Definition
+A feedforward spiking neural network with no recurrent connections, offering high instantaneous efficiency but limited ability to retain past temporal context. Its memory limitation motivates dual-memory and recurrent SNN designs for iNEST low-power temporal processing.
+
+## Context
+Auto-extracted concept from raw material compilation.
+
+## Related Work
+
+[[AlgorithmHardware_CoDesign]]
+[[Analog_Synaptic_Behavior]]
+[[BiSpikCLM]]
+[[BigBrainCellularAxis]]
+[[Chip-Hardware — 全景导航 (Map of Content)]]
+[[CollectiveSpikingDynamics]]
+[[CompactnessRegularizedFitness]]
+[[SNN]]
+[[Spiking_Neural_Network]]
+[[iNEST]]
+
+## Sources
+- See wiki/articles/ for source article summaries
+
+## Open Questions
+- *(Explore connections to other concepts)*

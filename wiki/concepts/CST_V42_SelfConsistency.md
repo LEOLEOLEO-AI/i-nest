@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[ERI_2_0_Strategy]]
+[[Fading_Memory_Property]]
 [[HighSpeedInference]]
 [[Hippocampal_Spatiotemporal_Prior]]
 [[Intelligence_Emergence]]

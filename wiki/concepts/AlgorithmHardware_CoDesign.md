@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[HodgkinHuxleyDynamics]]
 [[In_Package_Neuromorphic_Integration]]
 [[Intelligence_Emergence]]
+[[Memristor]]
 [[Memristor_Network]]
 [[Memristor_Synapse]]
 [[ModelOptimizationFederated]]
@@ -52,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[神经形态脉冲大语言模型（NSLLM）]]
 [[神经形态计算]]
 [[神经网络]]
+[[类脑芯片]]
 [[脉冲神经网络]]
 
 ## Sources
@@ -61,4 +63,4 @@ Auto-extracted concept from raw material compilation.
 - *(Explore connections to other concepts)*
 
 ## Merged From
-- AlgorithmHardwareCoDesign (merged 2026-08-25)
+- AlgorithmHardware_CoDesign (merged 2026-08-25)

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[AI_Forum_Demo_Narrative]]
 [[ASIC_Dualism]]
+[[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CircuitTopologySearch]]
 [[Complex_System_Theory]]
@@ -46,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[PhotonicStateRetention]]
 [[TCC]]
 [[TopologicalDataCompression]]
+[[Topology_Centric_Packaging]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

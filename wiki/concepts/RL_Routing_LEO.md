@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[PathDivergenceSelection]]
 [[PheromoneTopologySignaling]]
 [[Spin_Quantum_Hall_Critical_Exponents]]
+[[Superconductivity_Topology_Interplay]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[涌现]]

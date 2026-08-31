@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[Neuromorphic_NoC_Routing]]
+[[NoC]]
 [[RobustnessToNoiseInSNN]]
 [[SDI_Bond]]
 [[SDI_STDP]]
@@ -45,8 +46,10 @@ Auto-extracted concept from raw material compilation.
 [[STDP_iNEST]]
 [[SpikeBasedGradientDescent]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[SyntheticInertiaProvision]]
 [[iNEST]]
+[[iNEST_Neuromorphic_Integration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

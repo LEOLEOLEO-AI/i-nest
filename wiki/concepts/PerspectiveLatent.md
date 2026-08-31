@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityDrivenAdaptation]]
 [[Criticality]]
 [[DataDrivenCellularAxis]]
+[[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[Entropy_Connectivity_Path]]
 [[FormalLinguisticCompetence]]
@@ -49,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[TopologyDrivenDynamics]]
+[[TopologyDrivenVulnerability]]
 [[causal emergence]]
 [[iNEST]]
 

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[DiscreteSTDPLearning]]
 [[DiscreteSTDP]]
 [[ITP_STDP]]
+[[ITP_STDP_Engine]]
 [[ITP_STDP_Learning_Engine]]
 [[Memristive_STDP]]
 [[Neuromorphic_Computing]]

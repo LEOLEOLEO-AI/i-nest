@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[ST_SNN]]
 [[Spike_Event_Driven_Attention]]
 [[Spiking_Neural_Network]]
+[[SynapticRewiringDynamics]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[TemporalAdversarialPerturbation]]

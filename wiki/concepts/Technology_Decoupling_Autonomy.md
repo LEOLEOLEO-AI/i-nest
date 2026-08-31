@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[12_三原理协同_FEP_最小作用量_STDP]]
 [[AI-ML — 全景导航 (Map of Content)]]
 [[AI人工智能 卷积神经网络（CNN）_w3cschool]]
+[[ANN动力学]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[CUDAQSimulationFramework]]
@@ -32,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossSubstrateHomology]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
+[[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[FPGA_Neuromorphic_Acceleration]]
@@ -60,6 +62,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[ScalableNeuromorphicTopology]]
 [[SpikeBasedFrequencyTuning]]
+[[SpikingMoE_SDPrompt]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[WaveBasedComputation]]

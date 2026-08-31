@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[BioPlausiblePredictiveCoding]]
 [[BrainInspired_Chip]]
+[[BurstTemporalPlasticity]]
 [[ContinualLearningOnNeuromorphic]]
 [[DelayAwareSpikeEventDelivery]]
 [[EnergyEfficientSNN]]

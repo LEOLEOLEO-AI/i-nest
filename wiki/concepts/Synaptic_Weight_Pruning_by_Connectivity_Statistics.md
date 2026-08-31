@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[FrozenRateOperator]]
 [[InNetworkNeuromorphicSimulation]]
 [[Intelligence_Emergence]]
+[[Memristor]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
@@ -45,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[PhysicalSubstrateReservoir]]
 [[Reservoir_Computing]]
 [[RestrictedConnectivityTopology]]
+[[SexBasedConnectomeDifferences]]
 [[TCC]]
 [[iNEST]]
 

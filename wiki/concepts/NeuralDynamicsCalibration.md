@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[DualDrivenHybridNetwork]]
 [[EnergyEfficientNeuromorphic]]
 [[ErrorAmplificationLimits]]
+[[Frontier_Innovation_Mapping]]
 [[Interconnect_Routing]]
 [[LatencyGradientDescent]]
 [[LossSpikePhenomenon]]

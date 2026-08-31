@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN动力学]]
 [[AdditiveTopology_Embedding]]
 [[Advanced_Computing_Project]]
+[[Alpha_Coefficient_Phase_Transition_Amplification]]
 [[Analog_InMemory_Processing]]
 [[Asymmetric_Interaction_Graph]]
 [[BCM滑动阈值]]

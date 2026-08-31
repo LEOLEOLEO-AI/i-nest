@@ -20,12 +20,15 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3D_IC_Stacking]]
 [[3D_Integrated_Chiplet_Stacking]]
+[[3D_Integration]]
 [[AI_Application_Scenario_Reconstruction]]
 [[AdvancedPackagingInterconnect]]
 [[AnalogDomainCompression]]
 [[CSI_Temporal_Encoding]]
 [[ChipletSignalIntegrity]]
+[[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_NoC_Fabric]]
 [[Chiplet_Stacking]]
@@ -40,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Logic_Folding]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
+[[NoC]]
 [[NoC_Interconnect]]
 [[OnChipOpticalTweezers]]
 [[RadiationHardened_ProcessNodeScaling]]

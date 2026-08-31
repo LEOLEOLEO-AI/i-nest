@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstTemporalPlasticity]]
 [[DiscreteContinuous_Unification]]
 [[DiscreteSTDP]]
+[[DistinguishableHelium4]]
 [[DynamicTokenSparsity]]
 [[EEGSpikeEncoding]]
 [[Edge_Neuromorphic_Compute]]

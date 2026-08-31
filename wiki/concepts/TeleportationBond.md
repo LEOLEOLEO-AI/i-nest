@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[ConnectomicDevelopmentalTrajectory]]
 [[ContextualReasoning]]
 [[CooperativeEmergence]]
+[[DARPA_Technology_Incubation]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

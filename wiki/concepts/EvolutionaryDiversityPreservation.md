@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[SOC]]
 [[SafetyThresholdAsSpikingThreshold]]
+[[SpikeCommunicationScheduling]]
 [[Spiking_Neural_Network]]
 
 ## Sources

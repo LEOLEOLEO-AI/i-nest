@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[Synchronization_Overhead_Mitigation]]
 [[TemporalAdversarialPerturbation]]
+[[TemporalCodingForPointClouds]]
 [[TemporalContrastEncoding]]
 [[iNEST]]
 [[temporal coding]]

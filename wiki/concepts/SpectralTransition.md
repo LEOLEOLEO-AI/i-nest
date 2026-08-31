@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityDrivenAdaptation]]
 [[Criticality]]
 [[Criticality_Induced_Plasticity]]
+[[Crystallized_Embedding_Reservoir]]
 [[CytoarchitectonicAxis]]
 [[DataDrivenCytoarchitectonicAxis]]
 [[DynamicalSelfDualCriticality]]

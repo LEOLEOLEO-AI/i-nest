@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalStateReservoir]]
 [[Criticality]]
 [[Criticality_of_Natural_Languages]]
+[[CrossDomain_Integration]]
 [[Environmental_Coupling_Organization]]
 [[FerroelectricSemiconductorReservoir]]
 [[Ferroelectric_Devices]]

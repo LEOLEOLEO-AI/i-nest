@@ -21,9 +21,11 @@ Auto-extracted concept from raw material compilation.
 
 [[ActiveInference]]
 [[AnomalousSpinTransport]]
+[[AstrocyteInspiredRepair]]
 [[Battlefield_AI_Deployment]]
 [[CSI_Temporal_Encoding]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
+[[Chiplet]]
 [[Chiplet_Based_Neuromorphic_Integration]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Course_Based_FPGA_Projects]]

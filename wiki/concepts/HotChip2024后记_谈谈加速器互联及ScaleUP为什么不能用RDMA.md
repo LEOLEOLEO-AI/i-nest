@@ -45,6 +45,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Memory_Technology_Coexistence]]
 [[NCL神经计算定律详解]]
 [[Network_Topology_Design]]
+[[OptomechanicalNonlinearity]]
 [[RelativeEquilibriumSnapshot]]
 [[Resilient_Sensing_Comms_Network]]
 [[Switch_Bottleneck]]

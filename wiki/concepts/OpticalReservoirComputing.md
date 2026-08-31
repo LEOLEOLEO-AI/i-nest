@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[ErrorSuppressedPipeline]]
 [[FullyLocalOnlineSNNTraining]]
 [[HierarchicalReservoirDynamics]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[Neuromorphic_Computing]]
 [[NonlinearDynamicalSampling]]
 [[Nonlinear_Gain]]

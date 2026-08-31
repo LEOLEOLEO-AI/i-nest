@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Advanced_Computing_Project]]
 [[Agent_Workflow_Automation]]
 [[Alpha_Coefficient_Phase_Transition_Amplification]]
+[[Analog_InMemory_Processing]]
 [[Complex_System_Theory]]
 [[Habituation_Dynamics]]
 [[Intelligence_Emergence]]

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[EnergyEfficiencyAI]]
 [[EventDrivenLearning]]
 [[EventDrivenRestoration]]
+[[EventDrivenRiskAssessment]]
 [[Neuromorphic_Computing]]
 [[catastrophic forgetting]]
 [[iNEST]]

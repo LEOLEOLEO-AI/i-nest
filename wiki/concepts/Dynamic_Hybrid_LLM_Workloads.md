@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Additive_Manufacturing_Supply_Chain]]
 [[Avoided_Criticality]]
 [[BulletTrainScheduling]]
+[[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
 [[Course_Based_FPGA_Prototyping]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[DualDrivenHybridNetwork]]
 [[EventDrivenMotionDeblurring]]
 [[FrequencyAdaptationMechanism]]
+[[GradientAsymmetry]]
 [[Heterogeneous_Integration]]
 [[NeuralVariabilityEnhancement]]
 [[PowerLawScaling]]
@@ -47,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikingNeuralAccelerator]]
 [[Spiking_Neural_Network]]
 [[SurrogateGradientAsymmetry]]
+[[SynapticReinforcementConsolidation]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

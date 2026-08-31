@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_Spatiotemporal_Coefficient]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Complex_System_Theory]]
+[[Complexity_Emergence]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[Course_Based_FPGA_Projects]]

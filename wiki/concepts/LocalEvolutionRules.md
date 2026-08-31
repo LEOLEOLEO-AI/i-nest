@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[ERI_2_0_Framework]]
 [[ERI_2_0_Strategic_Framework]]
 [[EdgeFeatureEncoding]]
+[[ExplosiveCooperationTransition]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

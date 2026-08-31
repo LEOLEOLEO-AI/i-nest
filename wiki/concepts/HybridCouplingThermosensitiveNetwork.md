@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[ErrorAmplificationLimits]]
 [[EvolvingArchitectureDynamics]]
 [[Habituation_Dynamics]]
+[[InSitu_Adjoint_Wave_Control]]
 [[Intelligence_Emergence]]
 [[InterDomain_Synergy]]
 [[Interconnect_Routing]]

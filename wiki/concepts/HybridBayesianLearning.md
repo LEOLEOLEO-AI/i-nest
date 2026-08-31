@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[DimensionReductionForSimplicialDynamics]]
 [[DimensionReductionViaSimplicialProjection]]
 [[DimensionalityReductionForNetworkControl]]
+[[Disordered_Heisenberg_Model]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]

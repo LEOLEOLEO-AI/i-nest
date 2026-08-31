@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[11_SDI节点接口规范与化合键定义_dup]]
 [[AI_Faculty_Forum_2026]]
 [[AdiabaticModeEvolution]]
+[[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_Integration_Route]]
@@ -34,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[MachineLearningNanomaterialDiscovery]]
 [[Memristive_Interconnect]]
 [[Memristive_Topology]]
+[[Memristor]]
 [[Memristor_Synapse]]
 [[ModularityDepthInteraction]]
 [[Network_Topology_Design]]
@@ -57,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[Γst_Revision]]
 
 ## Sources

@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[SynchronizationAttractorBasin]]
 [[TCC]]
+[[TCC_Neuromorphic_Integration]]
 [[神经网络]]
 
 ## Sources

@@ -19,10 +19,13 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[FatigueSTDP]]
 [[Intelligence_Emergence]]
 [[Memristive_STDP]]
+[[Memristive_Synapse]]
+[[Memristor]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
@@ -34,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_iNEST_Memristive]]
 [[Spike_Encoding_of_fMRI]]
 [[Spike_Timing_Dependent_Plasticity]]
+[[Spike_timing_dependent_plasticity_learning_rule]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]

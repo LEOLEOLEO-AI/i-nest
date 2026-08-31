@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[ComponentLevelMolding]]
 [[EntanglementSignatures]]
 [[GeometricRegularizationLoss]]
+[[HeavyTailedWaitingTimes]]
 [[Hippocampal_Encoding_Mechanism]]
 [[InferencePipelineTopologyAwareScheduling]]
 [[Intelligence_Emergence]]

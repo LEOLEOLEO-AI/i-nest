@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveDendriteSNN]]
 [[ActivityAvalanche]]
 [[Activity_Energy_Tradeoff]]
+[[AdaptiveFrequencyResonateAndFire]]
 [[AdversarialSpikePerturbation]]
 [[Autonomous_Spiking_Dynamics]]
 [[Avoided_Criticality]]

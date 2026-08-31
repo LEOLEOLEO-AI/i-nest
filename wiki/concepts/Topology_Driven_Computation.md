@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Driven_Criticality]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
+[[ExactlyFlatTopologicalBands]]
 [[InNetworkComputing]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Connectome_Reservoir]]
 [[EvolutionaryReservoirLearning]]
 [[Neuromorphic_Computing]]
+[[NonlinearDynamicalSystemsInference]]
 [[Reservoir_Computing]]
 [[Spiking_Neural_Network]]
 [[iNEST]]

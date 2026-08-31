@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Capability_Reserve_Index]]
 [[Cognitive_Relapse_Decoupling]]
 [[CollectiveStateTopology]]
+[[ConstraintDrivenSelfOrganization]]
 [[Criticality]]
 [[FlexibilityThreshold]]
 [[Network_Topology_Design]]

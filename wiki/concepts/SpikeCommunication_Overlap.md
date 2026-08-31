@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[DirectSNNTraining]]
 [[Discrete_Event_Spike_Simulation]]
+[[DynamicTokenSparsity]]
 [[Interconnect_Routing]]
 [[SNN]]
 [[Self_Organized_Criticality]]

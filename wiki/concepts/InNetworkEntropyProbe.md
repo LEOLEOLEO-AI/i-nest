@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[DualModeSNNConventionalInference]]
 [[EEG_Criticality]]
 [[ElasticSpikingTransformer]]
+[[EnergyProportionalityCeiling]]
 [[EnergyResourceEfficiencyCoOptimization]]
 [[Neuromorphic_Computing]]
 [[SNN]]

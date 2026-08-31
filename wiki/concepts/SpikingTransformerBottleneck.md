@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[OpenSource_Neuromorphic_Framework]]
 [[PerturbationSpaceTrajectory]]
 [[ReSCom_Accelerator]]
+[[Recurrent_Network_Homeostasis]]
 [[SNN]]
 [[SpikingTransformer]]
 [[Spiking_Neural_Network]]

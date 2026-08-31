@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[NeuromorphicStatusAwareness]]
+[[NeuromorphicTrackingPipeline]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
 [[SOC]]

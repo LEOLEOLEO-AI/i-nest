@@ -20,10 +20,12 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[CSI_Temporal_Encoding]]
+[[Chip-Hardware — 全景导航 (Map of Content)]]
 [[ClocklessReconfigurableChip]]
 [[ComplexValuedSNN]]
 [[DeeplySupervisedSpiking]]
 [[DendriticTaskPartitioning]]
+[[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[GradientFreeSNNTraining]]
 [[InNetworkAgentRewiring]]
@@ -38,6 +40,8 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[ReconfigurableSpikingRouting]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SDI_Bond]]
+[[SDI_SNN]]
 [[SDI_SNN_Interconnect]]
 [[SNN]]
 [[ScalableNeuromorphicTopology]]

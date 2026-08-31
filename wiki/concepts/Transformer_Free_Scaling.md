@@ -20,8 +20,11 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Faculty_Forum_2026]]
 [[BoundaryObject_Abstraction]]
 [[Interconnect_Routing]]
+[[Memristor]]
+[[Memristor_Synapse]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
@@ -34,6 +37,8 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network_Overlay]]
 [[SuperlinearGain]]
 [[TCC]]
+[[Wafer_Scale_Integration]]
+[[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
 
 ## Sources

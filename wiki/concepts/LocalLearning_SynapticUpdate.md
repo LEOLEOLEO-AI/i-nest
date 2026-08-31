@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Speech_Tokenizer]]
 [[SNN]]
 [[Self_Organized_Criticality]]
+[[SparseCodingEfficiency]]
 [[Spike_Event_Driven_Attention]]
 [[Spiking_Neural_Network]]
 [[TCC]]

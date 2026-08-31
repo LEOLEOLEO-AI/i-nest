@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[DebiasingTechniques]]
 [[EventDrivenAsynchronousRouting]]
 [[EventDrivenLearning]]
+[[EventDrivenRestoration]]
 [[EventDrivenSignalEncoding]]
 [[EventDrivenTracking]]
 [[Event_Driven_Architecture]]

@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Neural_Manifold_Crystallization]]
 [[Neuromorphic_Computing]]
 [[OpenLearningEcosystem]]
+[[PacketRoutingForFPGAs]]
 [[analog computation]]
 [[iNEST]]
 

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CombinedImportanceScoring]]
 [[CompartmentalNeuronModel]]
 [[ConfigurableSNNInference]]
+[[CoreComputationSubspace]]
 [[DTGA]]
 [[Emergent_Topology_Adaptation]]
 [[ExplosiveTransitionThreshold]]

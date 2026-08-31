@@ -20,9 +20,11 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AdaptiveSTDP]]
+[[AnisotropicGaussianPrimitives]]
 [[Bidirectional_Temporal_Enhancement]]
 [[Contested_Priors_Mechanism]]
 [[DiscreteSTDP]]
+[[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[ITP_STDP]]
 [[InNetworkAgentRewiring]]

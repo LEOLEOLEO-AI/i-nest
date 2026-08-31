@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[AnisotropicGaussianPrimitives]]
 [[Architectural_Conditioning]]
 [[Autonomous_Architecture_Search]]
+[[BayesianDomainEvolution]]
 [[CoPackagedOptics]]
 [[Cognitive_Relapse_Architecture]]
 [[Complex_System_Theory]]

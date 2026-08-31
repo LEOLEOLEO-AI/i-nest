@@ -38,6 +38,8 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[AdjustableDynamicsReservoir]]
 [[AdjustableDynamics]]
 [[AlternativeBridgingModels]]
+[[AnalogDomainCompressiveSensing]]
+[[Memristor]]
 [[Memristor_Reservoir_Branch_Prediction]]
 [[Memristor_Synapse]]
 [[Nonlinear_Gain]]

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Critical_Region_Extension]]
 [[EndToEndTopologicalLearning]]
+[[HardwareAware_SelfOrganization]]
 [[Intelligence_Emergence]]
 [[Intelligent_Power_Management]]
 [[Interconnect_Routing]]

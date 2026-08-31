@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Attention_Residuals]]
 [[BoundaryObject_Abstraction]]
+[[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[ComputationEfficientDeepLearning]]
 [[ConsciousIntegration]]
@@ -34,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Defense_Industrial_Base_Reshaping]]
 [[EfficientDeepLearning]]
 [[EmergentIntelligence_Spacetime]]
+[[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[Ferroelectric_ComputeInMemory]]
 [[Ferroelectric_Devices]]
@@ -44,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[InMateriaComputing]]
 [[In_Package_Optical_Interconnect]]
 [[Intelligence_Emergence]]
+[[Intelligent_Power_Management]]
 [[Long_Range_Interactions]]
 [[Memristive_CAM_Indexing]]
 [[Network_Topology_Design]]
@@ -62,3 +65,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- CrossDomain_Integration (merged 2026-08-31)

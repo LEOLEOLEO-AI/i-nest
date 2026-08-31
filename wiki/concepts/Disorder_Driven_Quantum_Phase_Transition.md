@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveSTDP]]
 [[AdaptiveSpeechToSpikeEncoding]]
 [[Agile_Resilient_Defense_Ecosystem]]
+[[AnytimePointCloudRecognition]]
 [[Avoided_Criticality]]
 [[BurstTemporalPlasticity]]
 [[Catastrophic_Forgetting_Mitigation]]

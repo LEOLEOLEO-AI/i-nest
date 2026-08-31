@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[HardwareAware_DesignSpace]]
 [[Intelligence_Emergence]]
 [[LocalQuantumLearningRule]]
+[[Memristor]]
 [[Memristor_Synapse]]
 [[Meta_Residual_Learning]]
 [[Neuromorphic_Computing]]
@@ -39,7 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[SDDE_Attractor_Emergence]]
 [[SNN]]
-[[Spiking neural network]]
+[[STDP_Plasticity]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

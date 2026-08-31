@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[InterconnectConstrainedEmergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Resilient_Sensing_Comms_Network]]
 [[analog computation]]
 [[complex system]]
 [[涌现]]

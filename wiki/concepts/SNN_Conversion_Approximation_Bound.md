@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Fatigue_SpikePattern]]
 [[Layered_Attractive_Hubbard_Model]]
 [[MembranePotentialModulation]]
+[[Memristor]]
 [[Memristor_Synapse]]
 [[Meta_Residual_Learning]]
 [[Nanoencapsulation_Stability_Bioavailability]]
@@ -53,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[TemporalPrecisionParallelism]]
+[[TopologyDependentScaling]]
 [[iNEST]]
 
 ## Sources

@@ -24,4 +24,5 @@ NoC, iNEST
 ## Related Concepts
 
 [[Network_on_Chip]]
+[[NoC]]
 [[iNEST]]

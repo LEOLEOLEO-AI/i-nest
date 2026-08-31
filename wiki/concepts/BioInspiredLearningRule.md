@@ -30,11 +30,13 @@ Auto-extracted concept from raw material compilation.
 [[FlexibilityThreshold]]
 [[Free_Energy_Principle_Network]]
 [[Gut_Brain_Immune_Network]]
+[[Memristor]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[RenormalizationGroup_ScalingLaws]]
+[[RenormalizationGroup_Scaling]]
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SDI_STDP_Rule]]
@@ -50,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[TemporalComplexity]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
 
 ## Sources

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Connectome_Verification_Protocol]]
 [[DataProvenanceIntegrity]]
 [[Krakencoder_Embedding]]
+[[Nature_Computational_Science_用AI发现高维复杂网络的动力学公式]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Wafer_Scale_Integration]]

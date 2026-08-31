@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[DataDrivenMaterialDesign]]
 [[DiscreteScaleInvariance]]
 [[EcosystemTopologyCoupling]]
+[[ErrorSuppressedPipeline]]
 [[MesonSpectra]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]

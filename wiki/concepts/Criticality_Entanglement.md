@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalFluctuationReservoir]]
 [[Criticality]]
 [[DisorderInducedEntanglementTransition]]
+[[DissipativeQuantumReservoir]]
 [[DynamicalSelfDualCriticality]]
 [[EnergyProportionalityCeiling]]
 [[GroupInteractionThreshold]]

@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_Topology]]
 [[NCL神经计算定律详解]]
 [[Network_Topology_Design]]
+[[OptomechanicalNonlinearity]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Resilient_Sensing_Comms_Network]]
 [[SelfHealing_Interconnect]]

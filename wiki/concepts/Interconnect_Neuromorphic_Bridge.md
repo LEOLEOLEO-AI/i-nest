@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[EarlyExitInference]]
 [[EfficientDeepLearning]]
 [[ElectromigrationReliability]]
+[[HardwareAware_SelfOrganization]]
 [[In_Package_Optical_Interconnect]]
 [[Intelligence_Emergence]]
 [[InterfaceCentricTopology]]

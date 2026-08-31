@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[Contested_Prior_Resolution]]
 [[DiscreteSTDP]]
+[[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[Event_Driven_Architecture]]
 [[Intelligence_Emergence]]
@@ -44,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Spike_timing_dependent_plasticity_learning_rule]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
+[[Synaptic_Plasticity_Rule]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]
 

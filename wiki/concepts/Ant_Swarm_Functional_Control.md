@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityInNetworkComputing]]
 [[Criticality]]
 [[Dynamic_Expert_Fusion]]
+[[EventDrivenRiskAssessment]]
 [[ExactlyFlatTopologicalBands]]
 [[InNetworkComputing]]
 [[Intelligence_Emergence]]

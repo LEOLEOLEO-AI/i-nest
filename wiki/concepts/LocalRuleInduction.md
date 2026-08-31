@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[CircuitCoDesign]]
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
+[[Crystallized_Neural_Manifolds]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[TCC]]

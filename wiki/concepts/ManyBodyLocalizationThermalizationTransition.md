@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AndersonTransition]]
 [[AssociativeMemoryTopology]]
 [[BarrierConditionedTrajectory]]
+[[Capability_Reserve_Index]]
 [[Cognitive_Relapse_Decoupling]]
 [[CouplingTopologyMemoryLink]]
 [[Critical_Region_Extension]]

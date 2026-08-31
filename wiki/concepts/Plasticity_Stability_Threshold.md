@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveLocalLearning]]
 [[AdaptiveSTDP]]
 [[BrainBodyResonance]]
+[[BurstTemporalPlasticity]]
 [[Cognitive_Relapse_Architecture]]
 [[Controlled_Release_Kinetics]]
 [[EnsembleSparsity]]

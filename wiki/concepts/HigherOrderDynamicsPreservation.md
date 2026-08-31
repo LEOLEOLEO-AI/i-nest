@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[BackpropagationFreeLearning]]
 [[Beyond_Moore_Pathway]]
+[[BiologicalParadigmValidation]]
 [[Complex_System_Theory]]
 [[DailyResearchDigest]]
 [[FermiSurfaceTopologySignature]]

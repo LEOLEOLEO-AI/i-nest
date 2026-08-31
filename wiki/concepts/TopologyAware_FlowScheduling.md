@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[OpportunisticRouting]]
 [[P_Paradigm]]
 [[ReputationPropagation]]
+[[Satellite_Network_Topology_Dynamics]]
 [[SemanticTopologyMapping]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]

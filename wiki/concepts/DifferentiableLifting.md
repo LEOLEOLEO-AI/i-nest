@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[Phase_Transition_Tail_Transition]]
+[[Readout_Layer_Training]]
 [[Reservoir_Computing]]
 
 ## Sources

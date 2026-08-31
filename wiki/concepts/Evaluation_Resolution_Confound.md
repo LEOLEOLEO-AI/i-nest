@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[Advanced_Packaging_for_Space]]
 [[ApproximationFidelityTradeoff]]
+[[ArtificialProprioception]]
 [[Attention_Residuals]]
 [[CST计量仪]]
 [[Complex_System_Theory]]

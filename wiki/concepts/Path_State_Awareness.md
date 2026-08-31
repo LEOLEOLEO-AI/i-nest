@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[MatrixShapePhaseTransition]]
 [[Network_Topology_Design]]
 [[NonreciprocalQuasiperiodicLattice]]
+[[OpenLearningEcosystem]]
 [[Quantum_Criticality]]
 [[SelfOrganization]]
 [[Self_Organized_Criticality]]

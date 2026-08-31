@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Anisotropic_Square_Lattice]]
 [[ArbitraryWavefunctionConfigurability]]
 [[Asymmetric_Interaction_Graph]]
+[[BCM滑动阈值]]
 [[Complex_System_Theory]]
 [[Evolutionary_Computability]]
 [[Intelligence_Emergence]]

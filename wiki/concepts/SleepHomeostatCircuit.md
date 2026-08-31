@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AINext_Initiative]]
+[[ActiveDendriteSNN]]
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[AdaptiveFrequencyResonateAndFire]]
 [[AdaptiveFrequencyResonateFire]]
@@ -34,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[ElasticInferenceScheduling]]
 [[EmulationTheoryObserver]]
 [[EventCameraPoseInput]]
+[[EventDrivenComputation]]
 [[ImpactFallDetection]]
 [[MultiModel_Adapter_Architecture]]
 [[Neuromorphic_Computing]]

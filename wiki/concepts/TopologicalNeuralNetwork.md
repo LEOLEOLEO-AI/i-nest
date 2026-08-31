@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[IIL_FirstPrinciplesScaling]]
 [[Intelligence_Emergence]]
 [[MachineLearningPotential]]
+[[MetaHardwareAbstraction]]
 [[NCL神经计算定律详解]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

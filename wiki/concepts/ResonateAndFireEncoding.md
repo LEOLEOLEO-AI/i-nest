@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenAttentionMechanism]]
 [[EventDrivenSensoryEncoding]]
 [[EventDrivenSpectralProcessing]]
+[[EventDrivenTracking]]
 [[EventDrivenTrajectoryEncoding]]
 [[EventDrivenWirelessTransmission]]
 [[InputAdaptiveComputation]]

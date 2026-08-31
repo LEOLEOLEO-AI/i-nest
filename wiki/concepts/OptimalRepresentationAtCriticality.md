@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Sandpile_Model]]
 [[Self_Organized_Criticality]]
 [[Synaptic_Plasticity]]
+[[TopologicalShapeDrivenDynamics]]
 [[complex system]]
 
 ## Sources

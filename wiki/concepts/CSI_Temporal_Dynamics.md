@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[DivergentHigherAreaRanking]]
 [[Dynamics_Matching]]
 [[ErrorSuppressedPipeline]]
+[[FractalPathEntropy]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
 [[SNN]]

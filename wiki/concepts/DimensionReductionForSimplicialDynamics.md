@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Multi_Scale_Biological_Integration]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]
+[[SDI_Standard_Review]]
 [[SDI节点接口规范与化合键定义]]
 [[TCC]]
 [[iNEST]]

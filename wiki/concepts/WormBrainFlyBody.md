@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveFlexibilityThreshold]]
 [[AdaptiveTimeStepTraining]]
 [[AnisotropicGaussianPrimitives]]
+[[AnytimePointCloudRecognition]]
 [[Automated_Assessment_Framework]]
 [[Autonomous_Physical_Computation]]
 [[BackflowTransformation]]
@@ -37,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[FlexibilityThreshold]]
 [[FrozenRateOperator]]
 [[Neuromorphic_Computing]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 
 ## Sources

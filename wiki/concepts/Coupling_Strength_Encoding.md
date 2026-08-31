@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[3D_Torus_6_Degree]]
+[[AI_Enabled_Battlefield_Autonomy]]
 [[Accessibility_Plasticity]]
 [[AdaptiveDensityControl]]
 [[AdaptiveNetworkResilience]]
@@ -35,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[DTGA]]
 [[DendriticReservoirState]]
 [[Dynamic_Expert_Fusion]]
+[[Emergent_Intelligence]]
 [[Emergent_Intelligence_Roadmap]]
 [[Free_Energy_Topology_Mapping]]
 [[InNetwork_Learning_Interface]]

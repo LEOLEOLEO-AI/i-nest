@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[EarlyExitInference]]
 [[EdgeOfChaos]]
 [[EndToEndTopologyLearning]]
+[[HardwareAware_SelfOrganization]]
 [[IMPLYMemristiveISA]]
 [[Independent_EdgeAI_Player_Endgame]]
 [[Intelligence_Emergence]]

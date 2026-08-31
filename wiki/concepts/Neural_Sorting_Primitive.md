@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[ArtificialProprioception]]
 [[AtomicGeometryEncoding]]
 [[Attractor_State_Interpolation]]
+[[Bio_plausible_Neuromorphic_Disturbance_Observer]]
 [[Interconnect_Routing]]
 [[Synaptic_Plasticity]]
 [[iNEST]]

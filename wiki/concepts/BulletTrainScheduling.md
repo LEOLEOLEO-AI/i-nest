@@ -20,10 +20,12 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Avoided_Criticality]]
+[[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
 [[Criticality]]
 [[CrossEntityPreemptiveWarning]]
+[[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[EventBasedMotionDeblurring]]
 [[EventDrivenMotionDeblurring]]
@@ -34,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[ImageToEventConversion]]
 [[Intelligence_Emergence]]
 [[InterFPGA_Spike_Routing]]
+[[Interconnect_Routing]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
@@ -43,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[RealTimeImageToEventConversion]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
+[[SNN_Config_Sensitivity]]
 [[ST_SNN]]
 [[Self_Organized_Criticality]]
 [[Spike_Encoding_of_fMRI]]

@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[HardwareAwareFairness]]
 [[HierarchicalNetworkPartitioning]]
 [[HierarchicalSpikePropagation]]
+[[MacroEmergentProperty]]
 [[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]
 [[Neuromorphic_Computing]]
 [[Spiking_Neural_Network]]

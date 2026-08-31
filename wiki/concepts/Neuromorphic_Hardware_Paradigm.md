@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Package_Neuromorphic_Integration]]
 [[MagnitudePhaseComputationalModel]]
 [[MetaFAIR_ArchitectureDiscovery]]
+[[NeuromorphicStatusAwareness]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[Neuromorphic_Organization]]

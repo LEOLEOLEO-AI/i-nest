@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[SimulationReproducibilityAudit]]
 [[SoftwareDefinedSystemOnWafer]]
 [[TCC]]
+[[ThirdWaveAI]]
 [[emergent computation]]
 [[iNEST]]
 [[iNEST_Interconnect]]

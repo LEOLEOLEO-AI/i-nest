@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[ANN_SNN_WeightSpaceGap]]
 [[ActivityAvalanche]]
+[[Activity_Energy_Tradeoff]]
 [[BioPlausiblePredictiveCoding]]
 [[BurstGatedRouting]]
 [[CSI_Temporal_Encoding]]
@@ -39,7 +40,6 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Self_Organized_Criticality]]
-[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

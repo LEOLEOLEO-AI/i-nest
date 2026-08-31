@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[DistributedEventConditionDesign]]
 [[EventDrivenTracking]]
 [[InInterconnectMemory]]
+[[Independent_AI_Player_Endgame]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

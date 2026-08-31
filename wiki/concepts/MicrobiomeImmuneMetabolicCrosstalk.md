@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[03 涌现：整体的能力不能还原回个体？ - 得到APP]]
 [[AINext_Initiative]]
 [[AI_Assisted_Energy_Management]]
+[[Active_Inference_Agent]]
 [[BackflowTransformation]]
 [[Bidirectional_Temporal_Enhancement]]
 [[CircadianGateModulation]]

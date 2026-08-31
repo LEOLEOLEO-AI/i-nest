@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AINext_Initiative]]
 [[AdaptiveBitPrecisionExploration]]
+[[AdaptiveGraphDiffusion]]
 [[AdsorptionBiosorptionHybrid]]
 [[Alignment_Tax]]
 [[AlternativeBridgingModels]]

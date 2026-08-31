@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Connectome]]
 [[DeviceConductanceTuning]]
 [[DistinctReentrantPhases]]
+[[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[FreeEnergyMinimization]]
 [[InNetworkAgentRewiring]]
@@ -58,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[AdjointWaveControl]]
 [[ArtificialProprioception]]
 [[Complex_System_Theory]]
+[[ControlDrivenCriticalFluctuations]]
 [[Critical_Region_Extension]]
 [[CubicLatticeInterconnect]]
 [[DelayTolerantNetworkUAV]]

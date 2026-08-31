@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
 [[DynamicServiceComposition]]
@@ -26,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
+[[NoC]]
 [[NoC_SDI]]
 [[NoC_SDI_Integration]]
 [[OnChipOpticalTweezers]]
@@ -37,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_TCC_iNEST_Bridge]]
 [[SDI_Topology]]
 [[SDI_Topology_Control]]
+[[SDI_iNEST_Encapsulation]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[SoftwareDefinedSystemOnWafer]]

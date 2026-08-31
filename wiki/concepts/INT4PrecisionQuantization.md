@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[LIF_Neuron_Model]]
 [[MemristiveSNN]]
 [[Memristive_SNN_Accelerator]]
+[[Memristor]]
 [[Memristor_Network]]
 [[Memristor_Synapse]]
 [[Nature Communications_生物神经网络中突触多样性如何让人工神经网络更强大？]]
@@ -45,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[iNEST]]
 [[神经网络]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

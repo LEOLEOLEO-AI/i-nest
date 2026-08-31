@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[FormalLinguisticCompetence]]
 [[HierarchicalBayesianCommunityDetection]]
+[[ImageNet_SNN_Benchmark]]
 [[Intelligence_Emergence]]
 [[MacroCriticalityEmergence]]
 [[Network_Topology_Design]]

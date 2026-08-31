@@ -23,6 +23,7 @@ TCC, iNEST
 
 ## Related Concepts
 
+[[Memristor]]
 [[Memristor_Synapse]]
 [[TCC]]
 [[iNEST]]

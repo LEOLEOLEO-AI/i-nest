@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AINext_Initiative]]
 [[ANN_SNN_WeightSpaceGap]]
+[[Analog_Synaptic_Behavior]]
 [[AvalancheBranchingRatio]]
 [[Avoided_Criticality]]
 [[BranchingRatio]]
@@ -43,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikePacketCompression]]
 [[Spiking_Network_Simulation_Placement]]
 [[Spiking_Neural_Network]]
+[[Syncytial_Mesh]]
 [[Syncytial_Mesh_Model]]
 [[TCC]]
 

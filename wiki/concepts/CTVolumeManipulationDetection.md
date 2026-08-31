@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Advanced_Packaging_for_Space]]
 [[BioInspired_Interception_Control]]
 [[BrainInspiredArchitecture]]
+[[Branch_Prediction_in_Pipelined_Processors]]
 [[Neuromorphic_Computing]]
 [[iNEST]]
 

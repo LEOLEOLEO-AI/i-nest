@@ -22,8 +22,10 @@ Auto-extracted concept from raw material compilation.
 
 [[Bipartite_Interconnect]]
 [[Bipartite_Interconnect_Design]]
+[[ChipletRoutingFabric]]
 [[ChipletWaferInterconnectCoDesign]]
 [[ChipletWaferInterconnectScaling]]
+[[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
 [[Chiplet_Interconnect_Topology]]
@@ -34,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[InverseDesignOptimization]]
 [[LargeScalePhotonicIntegration]]
+[[Memristor]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[PhysicalWaferTriplet]]

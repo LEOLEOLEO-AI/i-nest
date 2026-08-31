@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenPlasticity]]
 [[FixedOverheadCost]]
 [[FixedOverheadDominance]]
+[[FixedOverheadPenalty]]
 [[Loihi2_OnChip_Learning]]
 [[MicroTransferPrintedActiveDevices]]
 [[NeuromorphicReplayBuffer]]

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[EarlyVisualCortexAliasing]]
 [[EnergyEfficientNeuromorphic]]
 [[FPGA_Accelerated_SNN]]
+[[Frontier_Innovation_Mapping]]
 [[In_Network_Neuromorphic]]
 [[Interconnect_Routing]]
 [[MagnitudePhaseComputationalModel]]
@@ -39,7 +40,6 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[SNN]]
-[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

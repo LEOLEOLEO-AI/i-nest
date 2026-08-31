@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Analysis_Framework]]
 [[DerivativeLineage]]
 [[Differential_Encoding]]
+[[DoobBarrierConditioning]]
 [[Intelligence_Emergence]]
 [[IntervalAnalysis]]
 [[Network_Topology_Design]]

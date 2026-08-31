@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossDomain_Synthesis]]
 [[CrossLingualIdiomGraph]]
 [[DARPA_Technology_Incubation]]
+[[DelayRobustEmergence]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

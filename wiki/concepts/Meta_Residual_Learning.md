@@ -26,12 +26,14 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[Deep_SNN_Trainability]]
+[[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[FPGA_Neuromorphic_Architectures]]
 [[HardwareAware_DesignSpace]]
 [[Hardware_Accelerated_SNN]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
+[[Memristor]]
 [[Memristor_Network]]
 [[Memristor_Synapse]]
 [[National_Innovation_Center_Role]]
@@ -54,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Spiking_neural_network_dynamics]]
 [[Synaptic_Plasticity]]
+[[ThermalNoiseHarnessing]]
 [[iNEST]]
 
 ## Sources

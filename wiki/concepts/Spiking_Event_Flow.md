@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Residual_Learning]]
 [[StreamDataflowArchitecture]]
 [[TemporalAdversarialPerturbation]]
+[[TemporalCodingForPointClouds]]
 [[iNEST]]
 [[neuromorphic spiking]]
 

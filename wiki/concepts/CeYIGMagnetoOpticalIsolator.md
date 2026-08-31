@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[DirtyWeylSemimetal]]
 [[DisorderedNetworkInterconnect]]
 [[DistributedEventConditionDesign]]
+[[EventTriggeredDistributedControl]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

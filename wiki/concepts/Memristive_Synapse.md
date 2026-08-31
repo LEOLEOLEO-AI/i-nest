@@ -1,0 +1,41 @@
+---
+title: "Memristive_Synapse"
+type: concept
+domain: iNEST
+created: 2026-08-31
+auto: true
+---
+
+# Memristive_Synapse
+
+**Domain**: iNEST
+**First mentioned**: auto-extracted
+**Last updated**: 2026-08-31
+
+## Definition
+A memristor-based circuit element that emulates biological synapses by storing weights and performing analog multiplication within neuromorphic arrays. Memristive synapses are crucial for realizing synaptic plasticity and energy-efficient learning in in-network neuromorphic hardware.
+
+## Context
+Auto-extracted concept from raw material compilation.
+
+## Related Work
+
+[[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
+[[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
+[[11_SDI节点接口规范与化合键定义_dup]]
+[[20W_Brain_Inspired_Planning]]
+[[6万+辛顿2025年度全景实录深读｜真正的智能与硅基智能的非对称演进]]
+[[Memristor]]
+[[Memristor_Synapse]]
+[[Neuromorphic_Computing]]
+[[Synaptic_Plasticity]]
+[[iNEST]]
+
+## Sources
+- See wiki/articles/ for source article summaries
+
+## Open Questions
+- *(Explore connections to other concepts)*
+
+## Merged From
+- Memristive_Synapse (merged 2026-08-31)

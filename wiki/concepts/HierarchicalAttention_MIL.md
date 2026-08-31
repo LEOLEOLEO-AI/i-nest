@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[KV_Cache_To_BoundaryObject]]
 [[Metastable_State_Hierarchy]]
 [[Multi_Scale_Habituation]]
+[[NCL神经计算定律详解]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[VolumeLevel_Attention]]

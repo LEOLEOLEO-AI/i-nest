@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[OpenEndedDiscovery]]
 [[SDI_Bond]]
+[[SDI_STDP]]
 [[SDI_TCC_iNEST_Bridge]]
 [[SDI节点接口规范与化合键定义]]
 [[STDP_Plasticity]]

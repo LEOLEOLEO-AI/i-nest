@@ -23,6 +23,7 @@ SDI, iNEST, 互连, 封装, 神经形态, 芯粒
 
 ## Related Concepts
 
+[[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Heterogeneous_Integration]]
 [[Neuromorphic_Computing]]

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[03 涌现：整体的能力不能还原回个体？ - 得到APP]]
 [[12_三原理协同_FEP_最小作用量_STDP]]
 [[AI人工智能 卷积神经网络（CNN）_w3cschool]]
+[[BCM滑动阈值]]
 [[Bidirectional_Temporal_Enhancement]]
 [[Complex_System_Theory]]
 [[ImaginaryGaugePhaseImprint]]
@@ -32,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
+[[NoC]]
 [[PhaseLockedTopologyMapping]]
 [[Photopolymerization_NoC]]
 [[SDI_Bond]]
@@ -44,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

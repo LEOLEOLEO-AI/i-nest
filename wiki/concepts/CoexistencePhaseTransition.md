@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstTemporalPlasticity]]
 [[Categorical_Reservoir_Model]]
 [[ChannelEventSparsity]]
+[[CoexistencePhaseDiagram]]
 [[Coupling_Strength_Encoding]]
 [[DendriticReservoirState]]
 [[DeviationScalingIndex]]

@@ -22,9 +22,11 @@ Auto-extracted concept from raw material compilation.
 
 [[AnisotropicGaussianPrimitives]]
 [[AnomalousSpinTransport]]
+[[Contested_Prior_Resolution]]
 [[EndToEndTopologyLearning]]
 [[Fractal_Scaling]]
 [[Memristive_STDP]]
+[[Memristor]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

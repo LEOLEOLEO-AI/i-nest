@@ -40,6 +40,8 @@ Auto-extracted concept from raw material compilation.
 [[Bipartite_Interconnect_Fabric]]
 [[BisectionBandwidthBound]]
 [[BisectionBandwidthMetric]]
+[[ChipletTopologyAwareness]]
+[[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
 [[Heterogeneous_Integration]]

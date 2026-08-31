@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[ConverterDrivenStability]]
 [[Course_Based_FPGA_Prototyping]]
 [[Criticality]]
+[[CrossEntityPreemptiveWarning]]
 [[DiscreteContinuous_Unification]]
 [[DualDrivenHybridNetwork]]
 [[EEG_Criticality]]
@@ -40,7 +41,6 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[Self_Organized_Criticality]]
 [[SpikeRestormer]]
-[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[CrossPopulationCen]]
 [[DynamicTopologyMapping]]
+[[DynamicTopology]]
 [[Dynamic_Expert_Fusion]]
 [[FPGABasedNeuromorphic]]
 [[FPGASpikeImplementation]]
@@ -42,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Interbrain_Geometry]]
 [[Interbrain_Network_Geometry]]
 [[Memristive_Topology]]
+[[Memristor_Synapse]]
 [[National_Planning_Driven_Research_Alignment]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
@@ -56,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[忆阻器]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[神经网络]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

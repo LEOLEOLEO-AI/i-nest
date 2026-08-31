@@ -35,10 +35,12 @@ Auto-extracted concept from raw material compilation.
 [[CST_Exponential_Gain]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
+[[Memristor]]
 [[Memristor_Synapse]]
 [[Nature Communications_生物神经网络中突触多样性如何让人工神经网络更强大？]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
+[[PhysicalReservoirTransientDynamics]]
 [[Reservoir_Computing]]
 [[SDDE_Attractor_Emergence]]
 [[ShortTermMemoryReservoir]]
@@ -46,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[Temporal_Information_Processing]]
 [[iNEST]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

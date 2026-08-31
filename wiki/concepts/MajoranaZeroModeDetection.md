@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[ERI_2_0_Strategic_Framework]]
 [[EdgeFeatureEncoding]]
 [[EdgeIoTEnergyAwareness]]
+[[ExplosiveCooperationTransition]]
 [[Intelligence_Emergence]]
 [[MajoranaZeroMode]]
 [[Memristive_Topology]]

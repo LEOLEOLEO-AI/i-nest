@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[CorticalWaveRouting]]
 [[Environmental_Capability_Context]]
 [[EventCameraTemporalEncoding]]
+[[ExtinctionDrivenMetastability]]
 [[Fast_Response_Actuator]]
 [[Interconnect_Routing]]
 [[RateEncodedSpikingNeuralNetwork]]

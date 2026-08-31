@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Divergent_HigherArea_Rankings]]
 [[FPGA_Reconfigurability]]
 [[GenerativeTopologyModels]]
+[[Inference_Stage_Decomposition]]
 [[Inference_Workload_Profiling]]
 [[Intelligence_Emergence]]
 [[MetaHardwareAbstraction]]

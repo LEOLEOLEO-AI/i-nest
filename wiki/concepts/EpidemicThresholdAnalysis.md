@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[ConformalFieldTheoryScaling]]
 [[Crack_Generation_Identification]]
+[[DAGGER_Algorithm]]
 [[EpidemicThreshold]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[OpenLearningEcosystem]]
+[[OpportunisticRouting]]
 [[P_Paradigm]]
 [[ScalableNeuromorphicTopology]]
 [[Semantic_Optimizer]]

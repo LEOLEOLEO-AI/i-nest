@@ -28,11 +28,13 @@ Auto-extracted concept from raw material compilation.
 [[Biodefense_Threat_Detection_Network]]
 [[BrainBodyResonance]]
 [[CST计量仪]]
+[[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Critical_Exponent_Analysis]]
+[[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
@@ -61,6 +63,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

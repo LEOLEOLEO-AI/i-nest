@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveMatterSubstrate]]
 [[CST计量仪]]
 [[Complex_System_Theory]]
+[[Crystallized_Neural_Manifolds]]
 [[DAGGER_Algorithm]]
 [[DisorderInducedLocalization]]
 [[DistributedInference]]

@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[AtomicGeometryEncoding]]
 [[BrownianCastleInterface]]
 [[CrossLayer_SignalRouting]]
+[[DynamicFieldEffect]]
 [[EnsembleSparsity]]
 [[Interconnect_Routing]]
 [[LowRankPerturbation]]

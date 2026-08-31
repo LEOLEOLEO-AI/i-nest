@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[1024_Card_SuperNode]]
+[[3D_Heterogeneous_Integration]]
 [[AdiabaticMultimodeBend]]
 [[AndersonTransition]]
 [[Bipartite_Interconnect]]

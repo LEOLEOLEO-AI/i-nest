@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[EnergyAwareLearning]]
 [[EventDrivenMotionDeblurring]]
+[[GPU_Cluster_SNN_Architecture]]
 [[Intelligence_Emergence]]
 [[Self_Organized_Criticality]]
 [[TCC]]

@@ -24,8 +24,11 @@ Auto-extracted concept from raw material compilation.
 [[AnomalousSpinTransport]]
 [[AstrocyteInspiredRepair]]
 [[Beyond_Moore_Packaging_Strategy]]
+[[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Criticality]]
 [[DendriticReservoirState]]
+[[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
 [[Epithelial_Barrier_Integrity]]
@@ -50,8 +53,10 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[SelfOrganizedCriticalityConsciousness]]
 [[SelfOrganizedOscillatoryLearning]]
+[[Self_Organized_Criticality]]
 [[ShortTermMemory]]
 [[StochasticBinaryDynamics]]
+[[Whole_Organism_Behavioral_Assay]]
 [[iNEST]]
 
 ## Sources

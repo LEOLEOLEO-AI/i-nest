@@ -23,6 +23,8 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[AnomalousSpinTransport]]
 [[BigBrainCellularAxis]]
+[[BurstTemporalPlasticity]]
+[[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
 [[EEGSpikeEncoding]]

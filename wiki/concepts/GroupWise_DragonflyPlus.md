@@ -32,8 +32,10 @@ Auto-extracted concept from raw material compilation.
 [[AI人工智能 卷积神经网络（CNN）_w3cschool]]
 [[BCM滑动阈值]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
+[[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
+[[Criticality]]
 [[GNN图神经网络，非结构化数据分析利器！]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
@@ -46,7 +48,9 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
 [[SOC — 自组织临界（Self-Organized Criticality）]]
+[[SOC]]
 [[STDP_Plasticity]]
+[[Self_Organized_Criticality]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[TCC_RTC原语架构与SDI拓扑变换机理]]
@@ -57,6 +61,7 @@ Auto-extracted concept from raw material compilation.
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
+[[集合通信NaaS完整报告]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

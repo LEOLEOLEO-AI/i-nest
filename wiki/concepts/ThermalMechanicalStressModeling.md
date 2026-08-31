@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[PHYPowerTimingCoOptimization]]
 [[P_Paradigm]]
 [[RandomisedMixedLabyrinthFractals]]
+[[SiC_GaN_Power_Integration]]
 [[TCC]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]

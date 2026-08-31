@@ -20,9 +20,11 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[CSI_Temporal_Encoding]]
+[[Chip-Hardware — 全景导航 (Map of Content)]]
 [[CirculateFiringNeuron]]
 [[ComplexValuedSNN]]
 [[Dynamic_Expert_Fusion]]
+[[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[InterFPGA_Spike_Routing]]
@@ -42,7 +44,6 @@ Auto-extracted concept from raw material compilation.
 [[SpikeDrivenDetectionBackbone]]
 [[SpikePacketRouting]]
 [[Spike_Encoding_of_fMRI]]
-[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[Supervised_Hebbian_Learning]]
 [[Synaptic_Plasticity]]

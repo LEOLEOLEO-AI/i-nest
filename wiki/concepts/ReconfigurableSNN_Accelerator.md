@@ -30,8 +30,10 @@ Auto-extracted concept from raw material compilation.
 [[DynamicTokenSparsity]]
 [[Dynamic_Expert_Fusion]]
 [[Edge_Neuromorphic_Compute]]
+[[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[FPGA_Neuromorphic_Acceleration]]
+[[FlexibleNeuromorphicAccelerator]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
@@ -49,7 +51,6 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[SensationModulatingNetwork]]
 [[Spike_Encoding_of_fMRI]]
-[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

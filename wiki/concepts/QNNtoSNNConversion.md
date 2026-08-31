@@ -38,7 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[SNN]]
 [[SafetyThresholdAsSpikingThreshold]]
-[[Spiking neural network]]
+[[SpikeAdversarialTransfer]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]

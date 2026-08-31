@@ -39,8 +39,11 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Memristive_Interconnect]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[StochasticVehicleRouting]]
+[[TCC]]
 [[TCC_Neuromorphic_Integration]]
+[[WaveBasedComputation]]
 [[iNEST]]
 
 ## Sources

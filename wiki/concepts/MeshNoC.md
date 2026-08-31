@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[BondMovingDecimation]]
 [[ChipletRoutingFabric]]
+[[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CongestionAwareNoCPlacement]]
 [[DelayCouplingMatrix]]
@@ -30,10 +31,13 @@ Auto-extracted concept from raw material compilation.
 [[FloquetDriving]]
 [[GateModelQuantumOptimization]]
 [[HeterogeneousSiNIntegration]]
+[[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
+[[NoC]]
 [[NoC_Chiplet_Integration]]
+[[NoC_EventRouting]]
 [[TCC]]
 
 ## Sources

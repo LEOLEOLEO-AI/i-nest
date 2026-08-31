@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN_SNN_WeightSpaceGap]]
 [[ActiveDendriteSNN]]
 [[ActivityAvalanche]]
+[[Activity_Energy_Tradeoff]]
 [[AdversarialSpikePerturbation]]
 [[Autonomous_Spiking_Dynamics]]
 [[Avoided_Criticality]]
@@ -39,7 +40,6 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Self_Organized_Criticality]]
-[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

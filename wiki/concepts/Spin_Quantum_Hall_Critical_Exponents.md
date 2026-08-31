@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[PathDivergenceSelection]]
 [[PheromoneTopologySignaling]]
 [[RL_Routing_LEO]]
+[[Superconductivity_Topology_Interplay]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[涌现]]

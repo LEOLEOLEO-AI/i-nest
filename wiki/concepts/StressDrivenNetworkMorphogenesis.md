@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[CrossbarFabricTopology]]
 [[Dynamic_Expert_Fusion]]
+[[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[FlexibleManifoldReconfiguration]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
@@ -50,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[Technology_Readiness_Forecast_2045]]
 [[TopologicalAndersonChernInsulator]]
+[[TopologyAdaptiveCoupling]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

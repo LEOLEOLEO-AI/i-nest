@@ -1,0 +1,38 @@
+---
+title: "causal emergence"
+type: concept
+domain: iNEST
+created: 2026-08-31
+auto: true
+---
+
+# causal emergence
+
+**Domain**: iNEST
+**First mentioned**: auto-extracted
+**Last updated**: 2026-08-31
+
+## Definition
+A phenomenon whereby coarse-grained macroscopic variables exhibit higher effective information than the underlying microscopic variables, indicating emergent causal structure. Motivates iNEST system design to deliberately create emergent high-level causal patterns from low-level neuromorphic elements, improving computational efficiency and adaptability.
+
+## Context
+Auto-extracted concept from raw material compilation.
+
+## Related Work
+
+[[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
+[[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
+[[AI-ML — 全景导航 (Map of Content)]]
+[[AI4PDE｜综述·论文推荐 08｜物理信息神经网络在偏微分方程问题中的应用：全面综述]]
+[[AI_Faculty_Forum_2026]]
+[[Effective_Information]]
+[[Intelligence_Emergence]]
+[[Neuromorphic_Computing]]
+[[causal emergence]]
+[[iNEST]]
+
+## Sources
+- See wiki/articles/ for source article summaries
+
+## Open Questions
+- *(Explore connections to other concepts)*

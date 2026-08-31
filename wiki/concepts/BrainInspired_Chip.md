@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDataNonUniformity]]
 [[EventDrivenAutoregression]]
 [[Event_Driven_Architecture]]
+[[In_Network_Neuromorphic]]
 [[In_Package_Neuromorphic_Integration]]
 [[IntrinsicTimingSTDP]]
 [[NeuromorphicGraphAnomalyDetection]]

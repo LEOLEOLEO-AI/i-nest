@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Generalization]]
 [[EnergyEfficientNeuromorphic]]
 [[Frontier_Innovation_Mapping]]
+[[GradientBasedSpikeLearning]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]

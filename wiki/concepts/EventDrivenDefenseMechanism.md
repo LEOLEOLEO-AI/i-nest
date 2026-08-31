@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[FixedOverheadFloor]]
 [[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Scheduling]]
+[[In_Package_Neuromorphic_Integration]]
 [[MagnitudePhaseComputationalModel]]
 [[Neuromorphic_Computing]]
 [[Spiking_Neural_Network]]

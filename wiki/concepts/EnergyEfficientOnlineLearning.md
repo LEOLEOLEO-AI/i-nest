@@ -38,6 +38,8 @@ Auto-extracted concept from raw material compilation.
 [[Cytokine_Feedback_Loops]]
 [[DelayTunedPopulationAmplitude]]
 [[DynamicalTransitionIdentification]]
+[[Dynamical_Principle_Formalization]]
+[[EventDrivenComputation]]
 [[FlexibilityThreshold]]
 [[Local_Plasticity]]
 [[Local_Plasticity_Rule]]

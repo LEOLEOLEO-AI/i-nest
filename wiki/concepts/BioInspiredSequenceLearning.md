@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_STDP]]
 [[SNN]]
 [[SNN_STDP_CoDesign]]
+[[SNN_STDP_Topology]]
 [[STDP_MemristiveLearning]]
 [[STDP_Plasticity]]
 [[Spiking_Neural_Network]]

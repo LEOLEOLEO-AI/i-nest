@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Criticality]]
 [[DataDrivenCellularAxis]]
+[[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[EpidemicThreshold]]
 [[Hardware_Accelerated_SNN]]
@@ -34,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[MacroCriticalityEmergence]]
+[[Memristor]]
 [[Memristor_Network]]
 [[Memristor_Synapse]]
 [[MetaFAIR_ArchitectureDiscovery]]
@@ -58,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologyDrivenVulnerability]]
 [[VisualSemanticDecoding]]
 [[iNEST]]
+[[iNEST_Neuromorphic_Integration]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

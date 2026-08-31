@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[AdaptiveLocalLearning]]
 [[Alignment_Tax]]
+[[AnytimePointCloudRecognition]]
 [[BioInspired_Interception_Control]]
 [[BioPlausiblePredictiveCoding]]
 [[BrainInspiredArchitecture]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Spiking_Neural_Network]]
 [[SynapticConnectivityAwarePlacement]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 
 ## Sources

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AINext_Initiative]]
+[[Activity_Energy_Tradeoff]]
 [[AlloyDisorderEngineering]]
 [[BurstGatedRouting]]
 [[CriticalStateInformationMaximization]]
@@ -27,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossLayer_SignalRouting]]
 [[DynamicTokenSparsity]]
 [[Edge_Neuromorphic_Compute]]
+[[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetwork_Neuromorphic_CoDesign]]
 [[Intelligence_Emergence]]

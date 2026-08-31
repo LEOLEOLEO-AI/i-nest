@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Crystallized_Neural_Manifolds]]
 [[DifferentiableLifting]]
 [[Epidemic_Mitigation_Strategy]]
+[[ErrorSuppressedPipeline]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
 

@@ -42,10 +42,13 @@ Auto-extracted concept from raw material compilation.
 [[SDI_iNEST_Interconnect]]
 [[SNN]]
 [[STDP_Plasticity]]
+[[STDP_iNEST]]
 [[SpikeEncoding]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[Syncytial_Mesh]]
+[[iNEST]]
+[[iNEST_Interconnect]]
 [[neuromorphic substrate]]
 
 ## Sources

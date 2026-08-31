@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[Baseline_Draft_Status]]
 [[BurstGatedRouting]]
+[[BurstInterleaving]]
 [[CellEmergence]]
 [[Complex_System_Theory]]
 [[DisorderedNetworkInterconnect]]

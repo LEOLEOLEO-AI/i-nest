@@ -26,6 +26,8 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[Communication_Trace_Diagnostics]]
 [[ComplexValuedSNN]]
+[[DendriticTaskPartitioning]]
+[[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[EpidemicThreshold]]
 [[Intelligence_Emergence]]

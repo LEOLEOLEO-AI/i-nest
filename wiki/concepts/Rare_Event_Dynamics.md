@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Bosonic_SPT_Phases]]
 [[CoexistencePhaseTransition]]
 [[CouplingMatrixRecovery]]
+[[Crystallized_Neural_Manifolds]]
 [[DendriticReservoirState]]
 [[DifferentiableLifting]]
 [[EcosystemTopologyCoupling]]

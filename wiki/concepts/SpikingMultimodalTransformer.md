@@ -42,7 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[SNN]]
-[[Spiking neural network]]
+[[SNN_Neuromorphic_Integration]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

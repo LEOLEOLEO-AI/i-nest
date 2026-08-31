@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_Equation]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[ChipletRoutingFabric]]
+[[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[ChiralTopologicalMatter]]
 [[ComplexValuedSNN]]
@@ -35,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Environmental_Capability_Context]]
 [[Fractal_Scaling]]
 [[GraphBasedSemanticRouting]]
+[[Heterogeneous_Integration]]
 [[ImaginaryGaugePhaseImprint]]
 [[Independent_EdgeAI_Player_Endgame]]
 [[Intelligence_Emergence]]
@@ -52,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

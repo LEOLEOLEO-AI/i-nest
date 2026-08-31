@@ -29,8 +29,10 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[Controlled_Release_Kinetics]]
 [[Dynamic_Expert_Fusion]]
+[[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[Endocrine_Modulated_Network_State]]
+[[EventDrivenComputation]]
 [[ITP_STDP]]
 [[Intelligence_Emergence]]
 [[NeuralNetworkSpectralAnalysis]]
@@ -57,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[Syncytial_Mesh_Model]]
 [[TCC]]
 [[TemporalLearning]]
+[[TimeToFirstSpikeEncoding]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

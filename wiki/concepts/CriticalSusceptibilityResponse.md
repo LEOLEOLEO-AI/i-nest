@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[2026-06-15_大脑的量子纠缠与信息动力学]]
 [[AnalogDomainCompression]]
 [[AvalancheBranchingRatio]]
@@ -32,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGAInference]]
 [[Less is more，大脑“低能耗”并“高效响应”的秘诀：模块化]]
 [[MicroCriticalAgent]]
+[[Neuromorphic_Computing]]
 [[NonInvasive_Neuromorphic_Prognosis]]
 [[Self_Organized_Criticality]]
 [[StandardizedComponent]]

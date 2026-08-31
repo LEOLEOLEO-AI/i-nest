@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[NetworkMechanismsOfWaveGeneration]]
 [[Network_Topology_Design]]
+[[OptomechanicalNonlinearity]]
 [[PositiveNetworkSecurity]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]

@@ -40,6 +40,8 @@ Auto-extracted concept from raw material compilation.
 [[DynamicalTransitionIdentification]]
 [[Dynamical_Principle_Formalization]]
 [[EmulationTheoryObserver]]
+[[EnergyEfficientOnlineLearning]]
+[[EventDrivenComputation]]
 [[EventDrivenFunctionalConnectivity]]
 [[FreeEnergyMinimization]]
 [[NeuromorphicRL]]

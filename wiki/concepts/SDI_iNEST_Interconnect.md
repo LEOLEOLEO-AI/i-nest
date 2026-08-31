@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[CorticalWaveRouting]]
 [[DataDrivenCellularAxis]]
+[[DevelopmentalNeuromorphicAdaptation]]
 [[Event_Driven_Architecture]]
 [[In_Package_Neuromorphic_Integration]]
 [[Interconnect_Routing]]

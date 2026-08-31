@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[MultipartiteEntanglementFractal]]
 [[Nanoencapsulation_PhaseTransition]]
 [[Nonlinear_Gain]]
+[[OpticalReservoirComputing]]
 [[ReservoirDynamics]]
 [[Reservoir_Computing]]
 [[RunawayAvalanche]]

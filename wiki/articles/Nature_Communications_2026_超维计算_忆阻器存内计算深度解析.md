@@ -24,6 +24,7 @@ SDI, iNEST, neuromorphic, 忆阻, 类脑
 ## Related Concepts
 
 [[In_Memory_Computing]]
+[[Memristor]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]

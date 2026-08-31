@@ -27,6 +27,8 @@ Auto-extracted concept from raw material compilation.
 [[ClosedLoopNeuromorphicControl]]
 [[Controlled_Release_Kinetics]]
 [[Dynamic_Expert_Fusion]]
+[[ElectronicWarfareNeuromorphic]]
+[[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[ITP_STDP]]
 [[InNetworkAgentRewiring]]

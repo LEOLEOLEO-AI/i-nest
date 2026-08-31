@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_InMemory_Processing]]
 [[Asymptotic_Exact_Solution]]
 [[Barrier_Hierarchy]]
+[[BifurcationCandidateSet]]
 [[Biological_Plausibility_Preservation]]
 [[CST计量仪]]
 [[CompactBosonDuality]]

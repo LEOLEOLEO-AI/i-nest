@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[DirectSNNTraining]]
 [[Discrete_Event_Spike_Simulation]]
 [[DynamicTokenSparsity]]
+[[Edge_Neuromorphic_Compute]]
 [[Interconnect_Routing]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]

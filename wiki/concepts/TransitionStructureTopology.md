@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[CommunicationAwareComputeRelocation]]
 [[FatalityDrivenPruning]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
+[[InSitu_Adjoint_Wave_Control]]
 [[Inference_Workload_Profiling]]
 [[InputAdaptiveComputation]]
 [[Network_Topology_Design]]

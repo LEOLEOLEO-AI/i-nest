@@ -20,14 +20,17 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AINext_Initiative]]
+[[AdaptiveTimeStepTraining]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BigBrainCellularAxis]]
 [[Biologically_Plausible_Learning_Rules]]
+[[BrownianCastleInterface]]
 [[BrownianCastleInterfaces]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Criticality]]
 [[DataDrivenCellularAxis]]
 [[Dynamic_Expert_Fusion]]
+[[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[Entropy_Connectivity_Path]]
 [[FormalLinguisticCompetence]]

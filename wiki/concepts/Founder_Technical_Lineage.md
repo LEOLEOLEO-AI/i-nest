@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
 [[DataCenter_Chip_Logic_Compression]]
+[[Deep_Thermalisation]]
 [[DevelopmentalNeuromorphicAdaptation]]
 [[DistinctReentrantPhases]]
 [[Intelligence_Emergence]]

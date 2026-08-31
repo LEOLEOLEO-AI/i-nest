@@ -36,6 +36,8 @@ Auto-extracted concept from raw material compilation.
 [[FerroelectricSemiconductorReservoir]]
 [[Ferroelectric_Devices]]
 [[Fixed_Reservoir_Unitary]]
+[[Globally_Optimal_SNN_Training]]
+[[Memristor]]
 [[Memristor_Synapse]]
 [[Mott_Device_Array]]
 [[Neuromorphic_Computing]]

@@ -22,7 +22,9 @@ Auto-extracted concept from raw material compilation.
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[12_三原理协同_FEP_最小作用量_STDP]]
+[[AdjointWaveControl]]
 [[CavityMethodAnalysis]]
+[[Chiplet]]
 [[Chiplet_Based_Architecture]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
@@ -41,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Microsecond_Link_Reconfiguration]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
+[[NoC]]
 [[NoC_SDI]]
 [[Packaging_Aware_NoC_Design]]
 [[RadiationHardened_ProcessNodeScaling]]

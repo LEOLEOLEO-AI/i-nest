@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[DisorderInducedLocalization]]
 [[DistributedInference]]
 [[MagicStateProtocol]]
+[[MemristorStateEvolution]]
 [[MicroLED_Array_Programmer]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

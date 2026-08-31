@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicCentralitySteering]]
 [[Dynamic_Expert_Fusion]]
 [[DynamicalSelfDualCriticality]]
+[[EmergentRecurrentConnectivity]]
 [[EmergentTaskDecomposition]]
 [[Ferroelectric_Devices]]
 [[Free_Energy_Topology_Mapping]]

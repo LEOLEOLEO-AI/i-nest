@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[FormalLinguisticCompetence]]
 [[HierarchicalBayesianCommunityDetection]]
 [[Intelligence_Emergence]]
+[[MacroCriticalityEmergence]]
 [[Network_Topology_Design]]
 [[NonEquilibriumPhaseTransition]]
 [[NonEquilibriumPhase]]

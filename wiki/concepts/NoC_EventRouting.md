@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[BigBrainCellularAxis]]
 [[ChipletRoutingFabric]]
+[[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[ConsciousnessEngineeringLoop]]
 [[CrossLayer_SignalRouting]]
@@ -37,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]
 [[Local_Approximation_Dynamics]]
+[[Memristor]]
 [[Memristor_Network]]
 [[Memristor_Synapse]]
 [[MetaFAIR_ArchitectureDiscovery]]
@@ -45,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicTransformerTopology]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_NoC_Routing]]
+[[NoC]]
 [[PacketRoutingOptimization]]
 [[QuarantineCostTradeoff]]
 [[RecursiveSelfReferentialArchitecture]]
@@ -54,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[SyntheticInertiaProvision]]
 [[TCC]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

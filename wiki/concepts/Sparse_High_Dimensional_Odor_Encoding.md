@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Intelligent_Emergence_Computing]]
 [[Intelligent_Power_Management]]
+[[LivingNetworkDynamics]]
 [[Neuromorphic_Computing]]
 [[iNEST]]
 

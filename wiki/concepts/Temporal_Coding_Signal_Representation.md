@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[ElasticInferenceScheduling]]
 [[EmergentAttractorStability]]
 [[EventCameraPoseInput]]
+[[EventDrivenComputation]]
 [[EventDrivenSpectralProcessing]]
 [[Intelligence_Emergence]]
 [[JunctionSignalIntegrity]]
@@ -55,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[StochasticSpikeEncoding]]
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
+[[TemporalCodingOptimization]]
 [[iNEST]]
 [[神经网络]]
 

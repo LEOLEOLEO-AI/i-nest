@@ -44,7 +44,9 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[ShortTermMemoryReservoir]]
 [[ShortTermMemory]]
+[[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
+[[TemporalFeatureDecorrelation]]
 [[iNEST]]
 
 ## Sources

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[AINext_Initiative]]
 [[ActionPrototypeClustering]]
 [[AmorphousSolidPlasticity]]
@@ -27,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_Theory]]
 [[CST_Theory_V27_FINAL]]
 [[ChipletOpticalIO]]
+[[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CombinatorialOptimizationReservoirMapping]]
 [[Complex_System_Theory]]
@@ -35,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicalSelfDualCriticality]]
 [[ERI_2_0_Strategy]]
 [[Fading_Memory_Property]]
+[[Heterogeneous_Integration]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]
 [[Self_Organized_Criticality]]

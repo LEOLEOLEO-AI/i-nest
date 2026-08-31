@@ -33,6 +33,8 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Asymmetric_Interaction_Matrix]]
 [[Attention_Residuals]]
+[[BackpropagationFreeLearning]]
+[[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CoarseGrainingFlow]]
 [[Complex_System_Theory]]

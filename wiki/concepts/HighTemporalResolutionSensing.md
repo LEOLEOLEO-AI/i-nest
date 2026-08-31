@@ -27,9 +27,11 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[Course_Based_FPGA_Projects]]
 [[DiscreteContinuous_Unification]]
+[[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
+[[Memristor]]
 [[Memristor_Synapse]]
 [[Meta_Residual_Learning]]
 [[Neuromorphic_Computing]]
@@ -48,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Spiking_neural_network_dynamics]]
 [[Synaptic_Plasticity]]
+[[ThermalNoiseHarnessing]]
 [[iNEST]]
 
 ## Sources

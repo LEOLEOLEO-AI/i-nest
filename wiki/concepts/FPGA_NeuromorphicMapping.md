@@ -38,9 +38,10 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicTrackingPipeline]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
+[[SOC]]
 [[ScalableNeuromorphicTopology]]
 [[SpikeDrivenDataAssociation]]
-[[Spiking neural network]]
+[[SpikingNeuralNetworkTopologyMapping]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 

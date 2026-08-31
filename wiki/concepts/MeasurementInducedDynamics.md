@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[BoundaryContract]]
 [[Course_Based_FPGA_Projects]]
 [[CrystalPalace_Program]]
+[[Deep_Thermalisation]]
 [[ErrorSuppressedPipeline]]
 [[Heterogeneous_Compute_Graph]]
 [[Interconnect_Routing]]

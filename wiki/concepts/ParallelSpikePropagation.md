@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Avoided_Criticality]]
 [[CriticalStateInformationMaximization]]
 [[Criticality]]
+[[HigherOrderAvalanche]]
 [[Network_Topology_Design]]
 [[SNN]]
 [[SNN_NeuroprostheticPipeline]]

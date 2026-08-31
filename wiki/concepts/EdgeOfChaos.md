@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Crystallized_Embedding_Reservoir]]
 [[CytoarchitectonicAxis]]
 [[DataDrivenCytoarchitectonicAxis]]
+[[DiffusionInducedInstability]]
 [[DynamicalSelfDualCriticality]]
 [[DynamicsMatchedReservoir]]
 [[Emergent_Reservoir_Topology]]

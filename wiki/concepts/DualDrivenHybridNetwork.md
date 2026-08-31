@@ -19,9 +19,11 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[ActiveDendriteSNN]]
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[Allreduce_Latency_Probe]]
 [[Avoided_Criticality]]
+[[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Course_Based_FPGA_Prototyping]]
 [[Criticality]]

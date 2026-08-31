@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[AttentionMap_DifferenceResidual]]
 [[Attention_ResidualCancellation]]
 [[BehavioralEpidemicFeedbackLoop]]
+[[Biological_Circuit_Formalization]]
 [[Complex_System_Theory]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]

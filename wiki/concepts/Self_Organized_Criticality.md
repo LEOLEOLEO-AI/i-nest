@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[NonEquilibriumPhase]]
 [[OptimalRepresentationAtCriticality]]
 [[OptimalRepresentation]]
+[[Sandpile_Model]]
 [[Synaptic_Plasticity]]
 [[complex system]]
 [[iNEST]]

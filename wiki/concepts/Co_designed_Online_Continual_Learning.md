@@ -39,6 +39,8 @@ Auto-extracted concept from raw material compilation.
 [[DelayTunedPopulationAmplitude]]
 [[DynamicalTransitionIdentification]]
 [[Dynamical_Principle_Formalization]]
+[[EnergyEfficientOnlineLearning]]
+[[EventDrivenComputation]]
 [[FlexibilityThreshold]]
 [[Neuromorphic_Computing]]
 [[Online_Continual_Learning]]

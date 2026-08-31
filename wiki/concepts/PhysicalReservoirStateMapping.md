@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AstrocyteInspiredRepair]]
 [[AvalancheTriggeringMechanism]]
 [[Beyond_Moore_Packaging_Strategy]]
+[[CST_CoordinationMechanism]]
 [[CircadianGateModulation]]
 [[Comparative_Formulation_Analysis]]
 [[PhysicalReservoir]]

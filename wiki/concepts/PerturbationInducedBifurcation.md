@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[FirstSpikeTime]]
 [[Fragmentation_Reduction]]
 [[GroupCoding]]
+[[HippocampalNeocorticalIntelligence]]
 [[Hypergraph_Label_Noise]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]

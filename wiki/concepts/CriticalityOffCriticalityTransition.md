@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AINext_Initiative]]
 [[ActivityAvalanche]]
+[[AdaptiveArchitecture]]
 [[AgenticServiceOrchestration]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Allreduce_Latency_Probe]]
@@ -36,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[Driven_Criticality]]
 [[DynamicTokenSparsity]]
+[[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[InNetworkComputing]]

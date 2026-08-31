@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality_Based_Feature_Extraction]]
 [[DynamicTokenSparsity]]
 [[Edge_Neuromorphic_Compute]]
+[[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[Event_Driven_Architecture]]
 [[InNetwork_Neuromorphic_CoDesign]]
@@ -43,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeBasedGradientDescent]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
+[[Spiking_Topology]]
 [[TCC]]
 [[iNEST]]
 

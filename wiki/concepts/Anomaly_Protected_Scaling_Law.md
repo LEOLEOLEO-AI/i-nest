@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Fractal_Wavefront_Scaling]]
 [[ImmobilizationStabilityMechanism]]
 [[Intelligence_Emergence]]
+[[LLMDrivenPathSelection]]
 [[Network_Topology_Design]]
 [[OptimalRepresentation]]
 [[Quantum_Criticality]]

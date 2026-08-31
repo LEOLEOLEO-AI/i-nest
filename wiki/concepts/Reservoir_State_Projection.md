@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[DivergentHigherAreaRanking]]
 [[Epidemic_Mitigation_Strategy]]
 [[ErrorSuppressedPipeline]]
+[[FederatedServiceGraph]]
 [[HardwareAware_DesignSpace]]
 [[HybridReservoirComputing]]
 [[Intelligence_Emergence]]

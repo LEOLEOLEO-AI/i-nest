@@ -39,7 +39,9 @@ Auto-extracted concept from raw material compilation.
 [[QuantumDeepSupervision]]
 [[SNN]]
 [[SNN_TCC_Integration]]
+[[SNN_Topology_Integration]]
 [[Spiking_Neural_Network]]
+[[TCC]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

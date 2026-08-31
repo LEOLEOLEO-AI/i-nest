@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[TCC]]
 [[complex system]]
+[[getnote_2026-06-27_智能涌现理论框架]]
 [[iNEST]]
 
 ## Sources

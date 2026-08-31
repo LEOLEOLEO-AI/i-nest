@@ -40,9 +40,11 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[InterconnectConstrainedEmergence]]
 [[MultiplicativeGainMechanism]]
+[[MultiplicativeGain]]
 [[NCCL_CollectivePrimitives]]
 [[Network_Topology_Design]]
 [[TCC]]
+[[Wafer_Scale_Interconnect]]
 [[神经网络]]
 
 ## Sources

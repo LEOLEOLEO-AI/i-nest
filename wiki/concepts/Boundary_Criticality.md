@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Cognitive_Relapse_Decoupling]]
+[[CongestionAwarePathSelection]]
 [[CriticalityInNetworkComputing]]
 [[CriticalityInducedTopology]]
 [[CriticalityOffCriticalityTransition]]

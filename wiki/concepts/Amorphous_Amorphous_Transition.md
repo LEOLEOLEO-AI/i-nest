@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AdaptiveAsymmetricSurrogateGradient]]
+[[AdaptiveTimeStepTraining]]
 [[AnisotropicGaussianPrimitives]]
 [[AnomalousSpinTransport]]
 [[BigBrainCellularAxis]]
@@ -27,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CoDesigned_SNN]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[DataDrivenCellularAxis]]
+[[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[EnsembleSparsity]]
 [[Gut_Brain_Immune_Network]]
@@ -50,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
+[[Syncytial_Mesh]]
 [[Syncytial_Mesh_Model]]
 [[TemporalDynamicsModeling]]
 [[TwoTimescaleNeuroEvolution]]

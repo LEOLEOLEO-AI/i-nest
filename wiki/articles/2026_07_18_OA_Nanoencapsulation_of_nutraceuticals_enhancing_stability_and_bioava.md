@@ -25,4 +25,5 @@ NoC, iNEST
 
 [[Intelligence_Emergence]]
 [[Network_on_Chip]]
+[[NoC]]
 [[iNEST]]

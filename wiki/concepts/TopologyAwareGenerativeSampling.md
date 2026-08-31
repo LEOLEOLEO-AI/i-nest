@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Nanowire_Network_Interconnection_Graph]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Optimal_Representation_Encoding]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]

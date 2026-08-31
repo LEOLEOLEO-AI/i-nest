@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CSI_Temporal_Encoding]]
 [[Course_Based_FPGA_Prototyping]]
 [[Criticality]]
+[[CrossEntityPreemptiveWarning]]
 [[Deep_SNN_Trainability]]
 [[DeeplySupervisedSpiking]]
 [[Distributed_Spike_Communication]]

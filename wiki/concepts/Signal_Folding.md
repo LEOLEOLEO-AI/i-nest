@@ -38,6 +38,8 @@ Auto-extracted concept from raw material compilation.
 [[In_Memory_Computing]]
 [[Long_Range_Interactions]]
 [[MemristiveSupervisedLearning]]
+[[Memristive_Crossbar_Array]]
+[[Memristor]]
 [[Memristor_Synapse]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]

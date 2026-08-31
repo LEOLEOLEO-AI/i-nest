@@ -27,11 +27,13 @@ Auto-extracted concept from raw material compilation.
 [[Hierarchical_Interconnect]]
 [[Interconnect_Routing]]
 [[Memristive_STDP]]
+[[Memristor]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Topology_Mapping]]
+[[NoC]]
 [[NoC_SDI]]
 [[OpticalNeuralNetworkTopology]]
 [[PacketRoutingOptimization]]
@@ -52,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[ViewDependentAppearance]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
+[[Wafer_Scale_Interconnect_Memristor]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

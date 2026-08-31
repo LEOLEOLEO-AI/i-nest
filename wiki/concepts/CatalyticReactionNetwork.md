@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[BosonicFieldTopology]]
 [[Channel_Decoding_Energy_Landscape]]
 [[Complex_System_Theory]]
+[[DAGGER_Algorithm]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

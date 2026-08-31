@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
+[[PhotonicDeepNetwork]]
 [[Reservoir_Computing]]
 [[complex system]]
 [[iNEST]]

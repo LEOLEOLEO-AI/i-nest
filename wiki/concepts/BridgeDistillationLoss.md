@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveDendriteSNN]]
 [[AstrocyteInspiredRepair]]
 [[BayesMarkovOrientationModel]]
+[[Chip-Hardware — 全景导航 (Map of Content)]]
 [[ComplexValuedSNN]]
 [[Complex_System_Theory]]
 [[DevelopmentalNeuromorphicAdaptation]]

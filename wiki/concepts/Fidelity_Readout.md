@@ -32,6 +32,8 @@ Auto-extracted concept from raw material compilation.
 [[AnomalousSpinTransport]]
 [[CouplingMatrixRecovery]]
 [[CouplingTopologyMemoryLink]]
+[[EquivariantGraphLayers]]
+[[Network_Topology_Design]]
 [[Reservoir_Computing]]
 [[TCC]]
 [[iNEST]]

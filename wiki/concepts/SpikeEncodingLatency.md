@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[CollectiveSpikingDynamics]]
 [[Contested_Prior_Resolution]]
+[[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenWeightUpdate]]
 [[Intelligence_Emergence]]
@@ -52,6 +53,8 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[神经形态计算]]
+[[神经网络]]
 [[类脑芯片]]
 
 ## Sources

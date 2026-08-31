@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[BioPlausiblePredictiveCoding]]
 [[Criticality]]
 [[DelayAwareSpikeEventDelivery]]
+[[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[EnergyEfficientSNN]]
 [[EventDrivenRiskAssessment]]
@@ -51,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikingTransformer]]
 [[Spiking_Decoder_Tracking]]
 [[Spiking_Neural_Network]]
+[[SpontaneousActivityDynamics]]
 [[TCC]]
 [[iNEST]]
 

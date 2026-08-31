@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Globally_Optimal_SNN_Training]]
 [[Layered_Attractive_Hubbard_Model]]
 [[LocalQuantumLearningRule]]
+[[Memristor]]
 [[Memristor_Synapse]]
 [[Nanoencapsulation_Stability_Bioavailability]]
 [[Network_Topology_Design]]
@@ -50,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[SurrogateGradientMethod]]
 [[Synaptic_Plasticity]]
+[[TemporalPrecisionParallelism]]
 [[iNEST]]
 
 ## Sources

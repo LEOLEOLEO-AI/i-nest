@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicalMeanFieldAnalysis]]
 [[Encapsulation_Topology]]
 [[Euclidean_LatticeFieldSampling]]
+[[GeometricRoleEmbedding]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]

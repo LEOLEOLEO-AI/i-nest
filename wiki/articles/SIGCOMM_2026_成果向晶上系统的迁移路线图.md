@@ -26,6 +26,7 @@ NoC, SDI, TCC, iNEST, 拓扑, 晶圆
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
+[[NoC]]
 [[SDI_Bond]]
 [[TCC]]
 [[Wafer_Scale_Integration]]

@@ -40,6 +40,8 @@ Auto-extracted concept from raw material compilation.
 [[FerroelectricSemiconductorPhotocurrent]]
 [[Ferroelectric_Devices]]
 [[Fixed_Reservoir_Unitary]]
+[[Globally_Optimal_SNN_Training]]
+[[Memristor]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]

@@ -20,12 +20,14 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[BioPlausiblePredictiveCoding]]
 [[ContinualLearningOnNeuromorphic]]
 [[CouplingTopologyInducedDynamics]]
 [[CriticalityInducedTopology]]
 [[Criticality]]
 [[EventDrivenAutoregression]]
 [[EventDrivenDefenseMechanism]]
+[[EventDrivenInference]]
 [[EventDrivenRiskAssessment]]
 [[Event_Driven_Architecture]]
 [[Generative_Graph_Models]]
@@ -38,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[Self_Organized_Criticality]]
 [[SpikeEventDrivenInference]]
+[[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]
 

@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Network_Architecture_Invariant]]
 [[DiagnosticReportFramework]]
 [[Dynamic_Expert_Fusion]]
+[[HigherOrderTopology]]
 [[Independent_AI_Player_Endgame]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]

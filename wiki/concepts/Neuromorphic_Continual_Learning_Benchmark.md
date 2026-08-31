@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CoEvolvedSNNEnsemble]]
 [[CombinedImportanceScoring]]
 [[CompartmentalNeuronModel]]
+[[ConfigurableSNNInference]]
 [[CoreComputationSubspace]]
 [[CrashHotspotForecasting]]
 [[CulturalDisseminationDynamics]]

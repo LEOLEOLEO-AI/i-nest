@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[ActiveDendriteSNN]]
 [[AnomalousSpinTransport]]
+[[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
 [[Delay_Aware_Autograd_Spiking_Framework]]
@@ -32,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenSynchronization]]
 [[Event_Driven_Architecture]]
 [[FrequencyAdaptationMechanism]]
+[[GraphAnomalySpikeEncoding]]
 [[Heterogeneous_Integration]]
 [[In_Package_Neuromorphic_Integration]]
 [[NeuromorphicGestureEncoding]]

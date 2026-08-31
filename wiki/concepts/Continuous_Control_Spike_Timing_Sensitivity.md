@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Faculty_Forum_2026]]
 [[ANN_SNN_ConversionError]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BigBrainCellularAxis]]
@@ -34,7 +35,9 @@ Auto-extracted concept from raw material compilation.
 [[LocalQuantumLearningRule]]
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[Neuromorphic_NoC_Routing]]
+[[NoC]]
 [[RobustnessToNoiseInSNN]]
 [[SDI_Bond]]
 [[SDI_STDP]]

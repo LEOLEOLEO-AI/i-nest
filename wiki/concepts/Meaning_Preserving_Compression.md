@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Closed_Loop_Neuromodulation]]
 [[Complex_System_Theory]]
 [[ComputationEfficientDeepLearning]]
+[[ContinuousGameOfLife]]
 [[Deep_Network_Architecture_Invariant]]
 [[Defense_Industrial_Base_Reshaping]]
 [[EfficientDeepLearning]]

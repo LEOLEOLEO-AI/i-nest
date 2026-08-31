@@ -21,8 +21,10 @@ Auto-extracted concept from raw material compilation.
 
 [[ActiveDendriteSNN]]
 [[BrainBodyResonance]]
+[[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
+[[CompartmentalizedSpikeIntegration]]
 [[ElasticInferenceScheduling]]
 [[GroupSynchronization]]
 [[Heterogeneous_Integration]]

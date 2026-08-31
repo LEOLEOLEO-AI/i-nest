@@ -25,6 +25,8 @@ NoC, TCC
 
 [[Ferroelectric_Devices]]
 [[In_Memory_Computing]]
+[[Memristor]]
 [[Memristor_Synapse]]
 [[Network_on_Chip]]
+[[NoC]]
 [[TCC]]

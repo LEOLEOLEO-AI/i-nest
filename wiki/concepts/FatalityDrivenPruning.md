@@ -36,10 +36,13 @@ Auto-extracted concept from raw material compilation.
 [[CommunicationAwareComputeRelocation]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[InputAdaptiveComputation]]
+[[Interconnect_Routing]]
 [[MemoryDrivenVectorFlowFieldRouting]]
 [[Network_Topology_Design]]
 [[SelfOrganization]]
 [[TCC]]
+[[Three_Layer_Memory_Infrastructure]]
+[[VectorFlowField]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

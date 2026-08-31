@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Accessibility_Plasticity]]
+[[AdaptiveTimeStepTraining]]
 [[Adaptive_Deep_Brain_Stimulation]]
 [[BigBrainCellularAxis]]
 [[Brain_Connectome]]
@@ -29,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[DataProvenanceIntegrity]]
 [[DevelopmentalNeuromorphicAdaptation]]
 [[EmergentOrder]]
+[[Emergent_Intelligence]]
 [[Emergent_Intelligence_Roadmap]]
 [[Emergent_Intelligence_Threshold]]
 [[EnsembleSparsity]]
@@ -37,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Gut_Brain_Immune_Network]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[Memristor]]
 [[Memristor_Synapse]]
 [[NestedRepresentation]]
 [[Network_Topology_Design]]

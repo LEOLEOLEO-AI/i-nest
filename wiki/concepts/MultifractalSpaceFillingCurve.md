@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[AI_Orchestrator]]
 [[Accessibility_Plasticity]]
+[[Active_Inference_Agent]]
 [[Agent_Workflow_Automation]]
 [[Analog_InMemory_Processing]]
 [[Asymptotic_Exact_Solution]]

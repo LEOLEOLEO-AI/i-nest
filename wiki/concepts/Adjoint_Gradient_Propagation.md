@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[PipelinedReadout]]
 [[SNN]]
 [[Spiking_Neural_Network]]
+[[UniSpike_Acceleration]]
 [[analog computation]]
 [[iNEST]]
 

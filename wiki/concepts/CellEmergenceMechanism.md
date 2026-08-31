@@ -35,6 +35,8 @@ Auto-extracted concept from raw material compilation.
 [[Crossbar_Programming]]
 [[DevelopmentalNeuromorphicAdaptation]]
 [[Developmental_Computing]]
+[[DynamicServiceComposition]]
+[[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[Free_Energy_Topology_Mapping]]
 [[FunctionalInterfaceBlock]]

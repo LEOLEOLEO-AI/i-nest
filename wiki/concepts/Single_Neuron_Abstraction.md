@@ -30,6 +30,8 @@ Auto-extracted concept from raw material compilation.
 [[Defense_Industrial_Base_Reshaping]]
 [[Dynamic_Hybrid_LLM_Workload_Scheduling]]
 [[ERI_2_0_Strategic_Framework]]
+[[Emergent_Intelligence]]
+[[Emergent_Intelligence_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[iNEST]]

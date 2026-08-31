@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[ComponentLevelMolding]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
+[[NonHermitian_Random_Matrix_Spectra]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
 [[TCC]]

@@ -50,6 +50,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Self_Organized_Criticality]]
 [[TCC]]
 [[TopologyCriticality]]
+[[Whole_Organism_Behavioral_Assay]]
 [[complex system]]
 [[iNEST]]
 [[涌现]]

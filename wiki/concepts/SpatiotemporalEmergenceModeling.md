@@ -31,6 +31,8 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveModelPartitioning]]
 [[Adaptive_Path_Selection]]
 [[AnomalousSpinTransport]]
+[[ArbitraryWavefunctionConfigurability]]
+[[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
 [[Cognitive_Relapse_Architecture]]

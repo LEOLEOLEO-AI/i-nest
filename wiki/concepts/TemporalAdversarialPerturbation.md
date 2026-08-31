@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikingCorrespondenceMatching]]
 [[Spiking_Mamba_Block]]
 [[Spiking_Neural_Network]]
+[[SynapticRewiringDynamics]]
 [[Synaptic_Plasticity]]
 [[TemporalCodingForPointClouds]]
 [[iNEST]]

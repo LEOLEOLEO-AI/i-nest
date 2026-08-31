@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[OpenLearningEcosystem]]
+[[PacketRoutingForFPGAs]]
 [[SelfOrganization]]
 [[analog computation]]
 [[涌现]]

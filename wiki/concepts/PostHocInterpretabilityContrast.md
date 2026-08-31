@@ -36,6 +36,8 @@ Auto-extracted concept from raw material compilation.
 [[AvalanchePropagation]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[BiasPropagationInNetworks]]
+[[Capability_Forging_Pipeline]]
+[[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
 [[Heterogeneous_Integration]]

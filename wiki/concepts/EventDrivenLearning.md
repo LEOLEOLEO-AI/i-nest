@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[DebiasingTechniques]]
 [[DelayCodedWorkingMemory]]
+[[EventDrivenAsynchronousRouting]]
 [[EventDrivenInference]]
 [[EventDrivenTracking]]
 [[Event_Driven_Architecture]]

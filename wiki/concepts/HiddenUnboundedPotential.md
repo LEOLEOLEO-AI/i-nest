@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[JointFlightRoutingOptimization]]
 [[LLMDrivenPathSelection]]
 [[MeasurementInducedLinearity]]
+[[Negative_Result_Retention]]
 [[Network_Topology_Design]]
 [[Quantum_Criticality]]
 [[SelfOrganization]]

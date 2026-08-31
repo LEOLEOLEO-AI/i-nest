@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Criticality]]
 [[DataDrivenCellularAxis]]
+[[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[EpidemicThreshold]]
 [[FormalLinguisticCompetence]]
@@ -33,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[HierarchyOfApproximations]]
 [[Intelligence_Emergence]]
 [[MacroCriticalityEmergence]]
+[[Memristor]]
 [[Memristor_Network]]
 [[Memristor_Synapse]]
 [[MetaFAIR_ArchitectureDiscovery]]
@@ -57,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologyDrivenVulnerability]]
 [[VisualSemanticDecoding]]
 [[iNEST]]
+[[iNEST_Neuromorphic_Integration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

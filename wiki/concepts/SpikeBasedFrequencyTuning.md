@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[ResonantCouplingDefect]]
 [[ScalableNeuromorphicTopology]]
+[[SpikingMoE_SDPrompt]]
 [[Spiking_Neural_Network]]
 [[WaveBasedComputation]]
 [[neuromorphic sensing]]

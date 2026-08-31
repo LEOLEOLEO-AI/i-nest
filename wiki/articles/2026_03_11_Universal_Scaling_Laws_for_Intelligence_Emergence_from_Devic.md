@@ -26,5 +26,6 @@ note_id: 1903941287724843544 title: "Universal Scaling Laws for Intelligence Eme
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
+[[Renormalization_Group]]
 [[Universal_Scaling_Laws]]
 [[scaling laws]]

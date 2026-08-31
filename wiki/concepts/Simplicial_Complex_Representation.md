@@ -41,9 +41,13 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[AttentionLikeHebbianPlasticity]]
 [[Basic_Reproduction_Number_Multiplex]]
+[[Bipartite_Interconnect]]
 [[Bipartite_Interconnect_Fabric]]
+[[CST计量仪]]
+[[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
+[[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
@@ -66,3 +70,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- Simplicial_Complex_Representation (merged 2026-08-31)

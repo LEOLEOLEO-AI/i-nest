@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Dimensionality_Modularity_Tradeoff]]
 [[DynamicCentralitySteering]]
 [[DynamicalCriticality]]
+[[EmulationTheoryDisturbanceObserver]]
 [[EventDrivenFunctionalConnectivity]]
 [[ExtinctionDrivenMetastability]]
 [[FPGA_Neuromorphic_Architectures]]

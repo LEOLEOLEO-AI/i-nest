@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Epidemic_Mitigation_Strategy]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[LossSpikePhenomenon]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]

@@ -14,6 +14,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Memristor]]
 [[Memristor_Synapse]]
 [[iNEST]]
 

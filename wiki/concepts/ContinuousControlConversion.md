@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[Course_Based_FPGA_Prototyping]]
 [[Criticality]]
+[[DirectSNNTraining]]
 [[Discrete_Event_Spike_Simulation]]
 [[DynamicTokenSparsity]]
 [[EEGSpikeEncoding]]

@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[Synchronization_Overhead_Mitigation]]
 [[TemporalAdversarialPerturbation]]
+[[TemporalCodingForPointClouds]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

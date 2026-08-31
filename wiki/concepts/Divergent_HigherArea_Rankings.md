@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Decoupling_Mechanism]]
 [[FPGA_Reconfigurability]]
 [[GenerativeTopologyModels]]
+[[Inference_Stage_Decomposition]]
 [[Inference_Workload_Profiling]]
 [[Intelligence_Emergence]]
 [[MetaHardwareAbstraction]]

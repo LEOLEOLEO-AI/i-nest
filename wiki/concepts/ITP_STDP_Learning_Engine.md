@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[HeavyTailedWaitingTime]]
 [[ITP_STDP]]
 [[ITP_STDP_Engine]]
+[[IonotronicPhotoplasticity]]
 [[Memristive_STDP]]
 [[Neuromorphic_Computing]]
 [[On_Chip_STDP_Learning]]

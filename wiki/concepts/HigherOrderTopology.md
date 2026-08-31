@@ -31,6 +31,8 @@ Auto-extracted concept from raw material compilation.
 [[BandedNonHermitianRandomMatrices]]
 [[BoundaryObject_Abstraction]]
 [[CST_MasterEquation]]
+[[CST_Spatiotemporal_Complexity_Theorem]]
+[[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CoarseGrainingFlow]]
 [[Complex_System_Theory]]

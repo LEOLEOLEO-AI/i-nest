@@ -26,6 +26,8 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[BackpropagationFreeLearning]]
+[[CST计量仪]]
+[[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CompactFieldVariable]]
 [[Complex_System_Theory]]

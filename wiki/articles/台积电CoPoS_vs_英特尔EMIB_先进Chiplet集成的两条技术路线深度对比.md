@@ -23,6 +23,7 @@ SDI, chiplet, iNEST, interconnect, 互连, 封装, 晶圆
 
 ## Related Concepts
 
+[[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CoPoS]]
 [[Heterogeneous_Integration]]

@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeCommunicationScheduling]]
 [[SpikeTimingEncoding]]
 [[Spiking_Neural_Network]]
+[[StructureAwareSpikeEncoding]]
 [[TCC]]
 [[iNEST]]
 

@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[Disordered_Frustrated_Dimer_Magnets]]
 [[Driven_Criticality]]
+[[ExactlyFlatTopologicalBands]]
 [[InNetworkComputing]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

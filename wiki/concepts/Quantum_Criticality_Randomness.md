@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[AINext_Initiative]]
 [[ActivityAvalanche]]
 [[Activity_Energy_Tradeoff]]
@@ -31,7 +32,9 @@ Auto-extracted concept from raw material compilation.
 [[BioPlausibleDisturbanceObserver]]
 [[Biologically_Plausible_Learning_Rules]]
 [[BulletTrainScheduling]]
+[[CST_Theory]]
 [[CST_Theory_V27_FINAL]]
+[[Complex_System_Theory]]
 [[Criticality]]
 [[Intelligence_Emergence]]
 [[Neuromorphic_Computing]]

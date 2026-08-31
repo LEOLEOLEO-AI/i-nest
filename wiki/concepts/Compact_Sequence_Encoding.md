@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[ConductingPolymerDendriteMemory]]
 [[EventDrivenPlasticity]]
 [[EventDrivenTemplateUpdate]]
+[[EventStrengthEncoding]]
 [[In_Memory_Computing]]
 [[In_Package_Neuromorphic_Integration]]
 [[MemoryDrivenInterconnect]]

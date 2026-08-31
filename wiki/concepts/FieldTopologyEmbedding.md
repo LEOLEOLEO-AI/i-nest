@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[FC2_NeuralCircuit]]
 [[FastSlow_Dynamics]]
 [[HallmarksOfCancer]]
+[[ImaginaryGaugePhaseImprint]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]

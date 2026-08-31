@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SDI_STDP_Fusion]]
+[[SDI_STDP_Rule]]
 [[SNN]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]
@@ -45,3 +46,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- STDP_Learning_Rule (merged 2026-08-31)

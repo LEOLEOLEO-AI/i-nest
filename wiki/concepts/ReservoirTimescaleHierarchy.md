@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
 [[Connectome]]
+[[Crystallized_Neural_Manifolds]]
 [[Dynamical_State_Space]]
 [[Epithelial_Barrier_Integrity]]
 [[GradientFreeLowRankTraining]]

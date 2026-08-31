@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AutonomousAdaptation]]
 [[Cognitive_Relapse_Decoupling]]
 [[Complex_System_Theory]]
+[[ControlDrivenCriticalFluctuations]]
 [[CorticalWaveRouting]]
 [[Critical_Region_Extension]]
 [[DTGA]]

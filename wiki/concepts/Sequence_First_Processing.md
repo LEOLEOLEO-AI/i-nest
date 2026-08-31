@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenInference]]
 [[EventDrivenRiskAssessment]]
 [[Event_Driven_Architecture]]
+[[FoveationGuidedTokenSelection]]
 [[FunctionalEnsemble]]
 [[In_Package_Neuromorphic_Integration]]
 [[Interconnect_Routing]]

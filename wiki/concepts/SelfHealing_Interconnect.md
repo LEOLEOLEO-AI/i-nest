@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[BCM滑动阈值]]
 [[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
+[[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
 [[ComponentLevelMolding]]
@@ -38,11 +39,14 @@ Auto-extracted concept from raw material compilation.
 [[DistinctReentrantPhases]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[Memristor]]
 [[Memristor_Synapse]]
 [[Milinkovic B (2024)：复杂神经系统涌现动力学结构]]
 [[NCL神经计算定律详解]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
+[[NoC]]
+[[Nonlinear_Gain]]
 [[OptomechanicalNonlinearity]]
 [[Photopolymerization_NoC]]
 [[PolymerComposite_Substrate]]
@@ -65,6 +69,7 @@ Auto-extracted concept from raw material compilation.
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

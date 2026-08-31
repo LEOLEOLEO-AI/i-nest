@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[ArbitraryWavefunctionConfigurability]]
 [[ArtificialLifeTopologyEvolution]]
 [[BCM滑动阈值]]
+[[CST_Triad_Framework]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

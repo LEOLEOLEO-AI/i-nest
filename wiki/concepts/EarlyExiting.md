@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Continual_Learning_Modularity]]
 [[Critical_Region_Extension]]
 [[CriticalityInNetworkComputing]]
+[[CriticalityInducedTopology]]
 [[Criticality]]
 [[DelayTolerantNetworkUAV]]
 [[ExactlyFlatTopologicalBands]]

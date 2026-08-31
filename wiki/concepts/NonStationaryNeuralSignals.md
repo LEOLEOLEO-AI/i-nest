@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityInducedComputationalCapacity]]
 [[CriticalityOffCriticalityTransition]]
 [[Criticality]]
+[[DimensionSeparation_IntensiveExtensive]]
 [[Dynamic_Expert_Fusion]]
 [[DynamicalCriticality]]
 [[EmulationTheoryObserver]]

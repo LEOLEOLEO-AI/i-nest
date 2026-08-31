@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AIRA_NeuralArchSearch]]
+[[Chiplet]]
 [[Chiplet_Based_Neuromorphic_Integration]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CommunicationHeterogeneity]]
@@ -30,11 +31,13 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenSensoryEncoding]]
 [[EventDrivenTracking]]
 [[EventDrivenWirelessTransmission]]
+[[Event_Driven_Architecture]]
 [[Heterogeneous_Integration]]
 [[InSensorMemoryComputing]]
 [[In_Network_Generative_Inference]]
 [[In_Package_Neuromorphic_Integration]]
 [[Memory_Wall]]
+[[Memristor]]
 [[Memristor_Synapse]]
 [[ModelOptimizationFederated]]
 [[ModelOptimization]]

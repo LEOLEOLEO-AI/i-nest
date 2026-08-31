@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[4H_SiC_SubstrateProcessing]]
 [[AI-ML — 全景导航 (Map of Content)]]
 [[AdvancedPackagingInterconnect]]
+[[Analog_InMemory_Processing]]
 [[ByteDance_Ada_Chip]]
 [[Complex_System_Theory]]
 [[DarkSiliconAwarePowerGating]]

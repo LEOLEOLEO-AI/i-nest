@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Anisotropic_Square_Lattice]]
 [[AnomalousLocalization]]
 [[ApproximantLattice]]
+[[ArbitraryWavefunctionConfigurability]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

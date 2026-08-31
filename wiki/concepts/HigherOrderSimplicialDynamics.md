@@ -30,11 +30,13 @@ Auto-extracted concept from raw material compilation.
 [[DendriticTaskPartitioning]]
 [[DiscreteContinuous_Unification]]
 [[DrivenDissipativeDynamics]]
+[[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
 [[Hardware_Accelerated_SNN]]
 [[Intelligence_Emergence]]
 [[Layered_Attractive_Hubbard_Model]]
+[[Memristor]]
 [[Memristor_Synapse]]
 [[Nature Communications_生物神经网络中突触多样性如何让人工神经网络更强大？]]
 [[NetworkAttractorStates]]
@@ -56,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[神经形态脉冲大语言模型（NSLLM）]]
 [[神经形态计算]]
 [[神经网络]]
+[[类脑芯片]]
 [[脉冲神经网络]]
 
 ## Sources

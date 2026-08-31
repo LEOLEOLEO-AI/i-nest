@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[ConductingPolymerDendriteMemory]]
 [[ContinualLearningOnNeuromorphic]]
+[[EnergyEfficientRestoration]]
 [[Event_Driven_Architecture]]
 [[In_Package_Neuromorphic_Integration]]
 [[Interconnect_Routing]]

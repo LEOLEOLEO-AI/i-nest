@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[BackflowTransformation]]
 [[Bidirectional_Temporal_Enhancement]]
+[[BigBrainCellularAxis]]
 [[BioPlausiblePredictiveCoding]]
 [[ConductingPolymerDendriteMemory]]
 [[Criticality]]

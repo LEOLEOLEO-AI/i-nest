@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[DenseNetworkDynamics]]
 [[DynamicServiceComposition]]
 [[ERI_2_0_Strategy]]
+[[EmergentAttractorInvariance]]
 [[EventTriggeredDistributedControl]]
 [[GitWhitelistQuotaEnforcement]]
 [[IncidenceBasedRandomWalk]]

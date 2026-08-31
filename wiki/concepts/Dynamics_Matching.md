@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Crystallized_Neural_Manifolds]]
 [[DivergentHigherAreaRanking]]
 [[ErrorSuppressedPipeline]]
+[[FractalPathEntropy]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
 [[SNN]]

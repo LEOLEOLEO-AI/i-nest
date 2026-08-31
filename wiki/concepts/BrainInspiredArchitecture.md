@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Edge_Neuromorphic_Compute]]
 [[EventDrivenTemplateUpdate]]
 [[Event_Driven_Architecture]]
+[[FunctionalEnsembleComputation]]
 [[In_Package_Neuromorphic_Integration]]
 [[InputAdaptiveComputation]]
 [[Interconnect_Routing]]

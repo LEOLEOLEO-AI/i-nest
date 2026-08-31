@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[FastSlow_Dynamics]]
 [[FieldTopologyEmbedding]]
 [[GoalNormalization]]
+[[HallmarksOfCancer]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]

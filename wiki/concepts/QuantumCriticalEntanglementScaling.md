@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Decoupling]]
 [[Contested_Priors_Architecture]]
 [[Continual_Learning_Modularity]]
+[[Continuous_Control_Spiking_Stability]]
 [[Criticality]]
 [[EntanglementScaling]]
 [[Intelligence_Emergence]]

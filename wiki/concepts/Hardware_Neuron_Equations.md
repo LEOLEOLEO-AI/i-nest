@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AnomalousSpinTransport]]
 [[Battlefield_AI_Deployment]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
+[[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[DeeplySupervisedSpiking]]
 [[Electronic_Neuron_Circuit]]
@@ -32,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Network_Neuromorphic]]
 [[InkjetPrintedElectrochemicalSensors]]
 [[Intelligence_Emergence]]
+[[Memristor]]
 [[Memristor_Network]]
 [[Memristor_Synapse]]
 [[National_Innovation_Center_Role]]
@@ -58,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[涌现]]
 [[神经形态脉冲大语言模型（NSLLM）]]
 [[神经网络]]
+[[类脑芯片]]
 [[脉冲神经网络]]
 
 ## Sources

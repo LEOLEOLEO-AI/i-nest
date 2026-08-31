@@ -27,11 +27,13 @@ Auto-extracted concept from raw material compilation.
 [[Crystallized_Embedding_Reservoir]]
 [[Distributed_Spike_Communication]]
 [[DrivenDissipativeDynamics]]
+[[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenPlasticity]]
 [[InSensorMemoryComputing]]
 [[In_Package_Neuromorphic_Integration]]
 [[Intelligence_Emergence]]
+[[Memristor]]
 [[Memristor_Synapse]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[MicroTransferPrintedActiveDevices]]
@@ -53,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[iNEST]]
 [[忆阻器]]
+[[新型计算]]
 [[类脑芯片]]
 
 ## Sources

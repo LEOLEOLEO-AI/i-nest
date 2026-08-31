@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Coupling_Topology]]
 [[CriticalStateReservoir]]
 [[Fixed_Reservoir_Unitary]]
+[[InNetworkSignalRecovery]]
 [[LindbladInspiredReservoir]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

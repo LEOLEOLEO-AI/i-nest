@@ -38,7 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Speech_Tokenizer]]
 [[Sequence_First_Processing]]
-[[Spiking neural network]]
+[[SparseCodingEfficiency]]
 [[SpikingNeuralTransformer]]
 [[Spiking_Neural_Network]]
 [[Spinal_CPG_Coordinated_Control]]

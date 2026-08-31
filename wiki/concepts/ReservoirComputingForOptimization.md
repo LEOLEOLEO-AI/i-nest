@@ -35,6 +35,8 @@ Auto-extracted concept from raw material compilation.
 [[DivergentHigherAreaRanking]]
 [[EchoState_n_ch]]
 [[EnvironmentalEmbedding]]
+[[FerroelectricSemiconductorPhotocurrent]]
+[[Memristor]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]

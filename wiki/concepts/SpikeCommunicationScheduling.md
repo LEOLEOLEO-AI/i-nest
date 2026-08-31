@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[SafetyThresholdAsSpikingThreshold]]
 [[SpikePacketRouting]]
+[[SpikeTimingEncoding]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

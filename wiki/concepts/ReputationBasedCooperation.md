@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[AI_Industrial_Ecosystem]]
 [[ANN动力学]]
+[[Analog_InMemory_Processing]]
 [[AutonomousServiceNegotiation]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[CST计量仪]]

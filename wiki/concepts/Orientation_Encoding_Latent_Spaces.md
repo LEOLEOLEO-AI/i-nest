@@ -33,6 +33,8 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[DynamicalSelfDualCriticality]]
 [[FrequencyAdaptationMechanism]]
+[[InNetworkReconfiguration]]
+[[MoE_Routing]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Personalised_Strategy_Optimisation]]

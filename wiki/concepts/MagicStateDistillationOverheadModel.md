@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Encapsulation_Topology]]
 [[EntanglementSignatures]]
+[[GeometricRegularizationLoss]]
 [[HigherOrderPublicGoodsGame]]
 [[Hippocampal_Encoding_Mechanism]]
 [[InNetwork_Service_Composition]]

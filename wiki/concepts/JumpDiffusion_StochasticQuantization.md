@@ -37,6 +37,9 @@ Auto-extracted concept from raw material compilation.
 [[Network_State_Awareness]]
 [[Network_Topology_Design]]
 [[PhysicalReservoirInterconnect]]
+[[PhysicalReservoir]]
+[[PlanarNetworkSimulation]]
+[[Reservoir_Computing]]
 [[Self_Organized_Criticality]]
 [[TCC]]
 

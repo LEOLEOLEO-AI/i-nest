@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[BrainBodyResonance]]
 [[Complex_System_Theory]]
 [[ConsciousnessEngineeringLoop]]
+[[Cross_Node_Event_Propagation]]
 [[DARPA_ProjectManager_Model]]
 [[ERI_2_0_Strategic_Framework]]
 [[FPGA_Neuromorphic_Architectures]]

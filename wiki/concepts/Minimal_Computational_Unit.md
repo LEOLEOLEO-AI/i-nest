@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[ANN动力学]]
 [[Advanced_Packaging_for_Space]]
+[[Analog_InMemory_Processing]]
 [[AutonomousServiceNegotiation]]
 [[Complex_System_Theory]]
 [[Network_Topology_Design]]

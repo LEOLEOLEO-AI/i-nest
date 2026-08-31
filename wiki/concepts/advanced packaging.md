@@ -44,6 +44,8 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
+[[NoC]]
+[[Order_Flexibility_Duality]]
 [[Package_Level_Topology]]
 [[Packaging_Aware_NoC_Design]]
 [[RoutabilityDrivenFloorplanning]]

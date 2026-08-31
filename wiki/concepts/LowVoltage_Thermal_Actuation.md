@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[DataCenter_Chip_Logic_Compression]]
 [[DimensionReductionForSimplicialDynamics]]
+[[DimensionReductionViaSimplicialProjection]]
 [[Intelligence_Emergence]]
 [[Multi_Scale_Biological_Integration]]
 [[Network_Topology_Design]]

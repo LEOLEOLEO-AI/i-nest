@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[DrivenDissipativeDynamics]]
 [[ErrorSuppressedPipeline]]
 [[EvolutionaryReservoirLearning]]
+[[InNetworkNeuromorphicSimulation]]
 [[In_Network_Neuromorphic]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

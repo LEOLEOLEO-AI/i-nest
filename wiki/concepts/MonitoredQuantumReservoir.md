@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[EdgeOfChaos]]
 [[Edge_of_Chaos_Coastal_Dynamics]]
 [[Emergent_Reservoir_Topology]]
+[[Fading_Memory_Property]]
 [[Intelligence_Emergence]]
 [[Izhikevich_NeuronModel]]
 [[MassConservationBias]]

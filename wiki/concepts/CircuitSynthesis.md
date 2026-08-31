@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[OpportunisticRouting]]
 [[ReputationPropagation]]
 [[RoutingBasedComputation]]
+[[SemanticTopologyMapping]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]

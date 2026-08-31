@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[ReSCom_Accelerator]]
 [[Real_Time_Neuromorphic_Constraint_Satisfaction]]
 [[Reconfigurable_Neuromorphic_Architecture]]
+[[Recurrent_Network_Homeostasis]]
 [[SNN]]
 [[ST_SNN]]
 [[SelfOrganization]]

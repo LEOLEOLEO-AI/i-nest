@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[BurstSuppression]]
 [[ContinuousControlConversion]]
+[[CriticalityConstrainedPruning]]
 [[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[Interconnect_Routing]]

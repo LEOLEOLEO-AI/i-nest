@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[DataCenter_Chip_Logic_Compression]]
 [[ERI_2_0_Strategy]]
 [[HeavyTailedWaitingTime]]
+[[HeavyTailedWaitingTimes]]
 [[HypergraphNeuralNetwork]]
 [[Intelligence_Emergence]]
 [[NetworkMechanismsOfWaveGeneration]]

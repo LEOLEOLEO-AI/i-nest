@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[Biomanufacturing_Control_Loop]]
 [[CombinedImportanceScoring]]
+[[Core_Spacetime_Tensor]]
 [[CouplingTopologyMemoryLink]]
 [[Coupling_Topology]]
 [[CriticalStateReservoir]]

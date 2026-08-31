@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN动力学]]
 [[Attention_Residuals]]
 [[BigBrainCellularAxis]]
+[[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
@@ -37,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[MacroscopicDescriptor]]
 [[Memory_Wall]]
 [[Memristive_STDP]]
+[[Memristor]]
 [[Memristor_Network]]
 [[Memristor_Synapse]]
 [[MetricComputationAuthenticity]]
@@ -46,12 +48,14 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[Next_Gen_AI_Application_Scenarios]]
+[[NoC]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[NonAbelian_Gauge_Topology]]
 [[Nonlinear_Gain]]
 [[P_Paradigm]]
 [[Photonic_Chiplet_Interconnect]]
 [[RTC_Primitive]]
+[[Renormalization_Group]]
 [[Renormalization_Group_Convergence]]
 [[SDI_Bond]]
 [[SDI_STDP]]
@@ -75,6 +79,7 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[iNEST]]
 [[residual connection]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

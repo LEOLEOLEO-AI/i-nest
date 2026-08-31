@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[ConductingPolymerDendriteMemory]]
 [[ContinualLearningOnNeuromorphic]]
 [[Event_Driven_Architecture]]
 [[In_Network_Neuromorphic]]
@@ -29,7 +30,6 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[ST_SNN]]
 [[SensorMemoryFusion]]
-[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

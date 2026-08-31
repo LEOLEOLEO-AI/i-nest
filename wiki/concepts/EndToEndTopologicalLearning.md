@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[StochasticMultiAgentRL]]
 [[StochasticVehicleRouting]]
+[[Swarmalator_Phase_Transition]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
 [[涌现]]

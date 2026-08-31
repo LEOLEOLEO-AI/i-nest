@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[BerryCurvatureIsolation]]
 [[BeyondVonNeumannArchitecture]]
 [[BioInspired_Interception_Control]]
+[[BrainInspiredArchitecture]]
 [[Neuromorphic_Computing]]
 [[advanced packaging]]
 [[iNEST]]

@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Layer_Specific_Spreading_Rate]]
+[[Manifold_Topology_DeepLearning]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[complex system]]

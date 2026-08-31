@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Evaluation_Resolution]]
 [[Evaluation_Resolution_Confound]]
 [[EvolvingArchitectureDynamics]]
+[[HybridCouplingThermosensitiveNetwork]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[LLM_Reward_Design]]

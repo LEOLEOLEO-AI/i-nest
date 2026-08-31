@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[BurstInterleaving]]
 [[CellEmergence]]
+[[Closed_Loop_Neuromodulation]]
 [[Complex_System_Theory]]
 [[DisorderedNetworkInterconnect]]
 [[EventDrivenRiskAssessment]]

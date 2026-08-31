@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspiredInterception]]
 [[BranchingRatio]]
 [[BulletTrainScheduling]]
+[[CoDesigned_SNN_Online_Learning]]
 [[CoOptimizedMappingScheduling]]
 [[Continuous_Control_Spiking_Stability]]
 [[ConventionalAndSpikingDualMode]]

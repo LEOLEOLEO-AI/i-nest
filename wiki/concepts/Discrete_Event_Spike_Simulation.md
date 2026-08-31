@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[ContinuousControlConversion]]
 [[Criticality]]
+[[DirectSNNTraining]]
 [[DynamicTokenSparsity]]
 [[Edge_Neuromorphic_Compute]]
 [[EventBasedGestureEncoding]]

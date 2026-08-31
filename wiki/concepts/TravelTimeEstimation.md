@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[InterpolationKernel]]
 [[Nanomaterial_Discovery_ML]]
 [[Nonlinear_Gain]]
+[[Order_Flexibility_Duality]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[RestrictedConnectivityTopology]]
 [[TCC]]
+[[TemporalFeatureDecorrelation]]
 [[ThermallyDrivenSuperparamagnetReservoir]]
 [[iNEST]]
 

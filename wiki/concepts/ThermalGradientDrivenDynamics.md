@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Decoupling]]
 [[CollectiveStateTopology]]
 [[CommunicationAwareComputeRelocation]]
+[[FatalityDrivenPruning]]
 [[Network_Topology_Design]]
 [[TCC]]
 

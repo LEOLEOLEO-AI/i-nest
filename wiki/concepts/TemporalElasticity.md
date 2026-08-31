@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Neuromorphic_Acceleration]]
 [[FPGA_Neuromorphic_Architectures]]
 [[Flexible_Spike_Routing]]
+[[Frontier_Innovation_Mapping]]
 [[Interconnect_Routing]]
 [[LocalInteractionDrivenReconfiguration]]
 [[Neuromorphic_Acceleration]]

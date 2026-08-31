@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[NonreciprocalQuasiperiodicLattice]]
 [[PhotonicSynapticPlasticity]]
 [[ReconfigurableSpikingRouting]]
@@ -55,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TCC_Neuromorphic_Integration]]
 [[Topology_Dynamics_Aware_RL]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[神经网络]]
 
 ## Sources

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[CollectiveStateResilience]]
 [[Coupling_Strength_Encoding]]
 [[ErrorSuppressedPipeline]]
+[[FractalPathEntropy]]
 [[HierarchicalReservoirDynamics]]
 [[InNetworkNeuromorphicInterconnect]]
 [[Neuromorphic_Computing]]

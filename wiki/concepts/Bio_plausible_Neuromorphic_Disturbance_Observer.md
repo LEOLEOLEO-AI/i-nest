@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[AnytimePointCloudRecognition]]
 [[BrainBodyResonance]]
 [[CascadedAdaptiveCombiners]]
+[[Chiplet_Integration_Route]]
 [[CompetitiveProgramDynamics]]
 [[Complex_System_Theory]]
 [[Dynamic_Expert_Routing]]

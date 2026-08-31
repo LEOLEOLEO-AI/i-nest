@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[ActivityPropagationCascade]]
 [[AdaptiveArchitecture]]
 [[AdaptiveEntanglementManagement]]
+[[AdjointWaveControl]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Capability_Reserve_Index]]

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[CriticalFixedPoint]]
+[[CriticalFluctuationReservoir]]
 [[Critical_Exponent_Scaling]]
 [[Criticality]]
 [[DynamicalSelfDualCriticality]]

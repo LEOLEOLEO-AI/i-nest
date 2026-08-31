@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[HaloConnectivity]]
 [[ImaginaryGaugePhaseImprint]]
 [[Intelligence_Emergence]]
+[[MetaHardwareAbstraction]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[PowerEquipmentDigitalTwin]]

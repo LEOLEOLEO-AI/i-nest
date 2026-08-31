@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Complex_System_Theory]]
+[[ControlDrivenCriticalFluctuations]]
 [[ControlTheoreticTopology]]
 [[Critical_Region_Extension]]
 [[CrossbarFabricTopology]]

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveDendriteSNN]]
 [[AdaptiveArchitecture]]
 [[AdaptiveFunctionalTopology]]
+[[BarrierConditionedTrajectory]]
 [[BrownianCastleInterface]]
 [[EnsembleSparsity]]
 [[Generation_Readiness_Assessment]]

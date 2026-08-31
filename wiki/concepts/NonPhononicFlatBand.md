@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[ManufacturingCloudOrchestration]]
 [[NetworkScienceLossFunction]]
 [[Network_Topology_Design]]
+[[Neural_Operator]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[SDI_Bond]]

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Beyond_Moore_Packaging_Strategy]]
 [[BrainBodyResonance]]
 [[ChipletOpticalIO]]
+[[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Course_Based_FPGA_Projects]]
 [[CrossbarArrayIntegration]]
@@ -43,6 +44,8 @@ Auto-extracted concept from raw material compilation.
 [[SDI_STDP]]
 [[SDI_STDP_Rule]]
 [[STDP_Plasticity]]
+[[STDP_iNEST]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 
 ## Sources

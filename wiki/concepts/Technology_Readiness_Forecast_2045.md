@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[Dynamic_Expert_Fusion]]
+[[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[FlexibleManifoldReconfiguration]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
@@ -48,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[SensationModulatingNetwork]]
 [[Spiking_Neural_Network]]
+[[StressDrivenNetworkMorphogenesis]]
 [[TopologyAdaptiveCoupling]]
 [[iNEST]]
 

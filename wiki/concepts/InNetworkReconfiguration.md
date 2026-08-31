@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AINext_Initiative]]
 [[Accessibility_Plasticity]]
+[[AdaptiveArchitecture]]
 [[AdaptiveFunctionalTopology]]
 [[AmoebaInspiredLocomotion]]
 [[Biologically_Plausible_Learning_Rules]]
@@ -31,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[FlexibleManifoldReconfiguration]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Interconnect_Routing]]
+[[MoE_Routing]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Receptron_Unit]]

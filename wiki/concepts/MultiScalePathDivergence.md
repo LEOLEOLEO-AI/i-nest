@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[156QubitScale]]
 [[Biomanufacturing_Control_Loop]]
 [[Bosonic_SPT_Phases]]
+[[BranchingRatio]]
 [[Cognitive_Relapse_Architecture]]
 [[ComplexEcosystemDynamics]]
 [[Contested_Priors_Mechanism]]

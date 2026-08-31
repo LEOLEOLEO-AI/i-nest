@@ -28,6 +28,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[2026-06-15_大脑的量子纠缠与信息动力学]]
 [[Agent_Workflow_Automation]]
 [[Brain_Connectome]]
+[[CST计量仪]]
 [[Connectome]]
 [[CriticalPhaseTransitionStatisticalTest]]
 [[Criticality]]

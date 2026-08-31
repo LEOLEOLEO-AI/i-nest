@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[AnisotropicSymmetryBreaking]]
 [[ArtificialProprioception]]
 [[AstrocyteInspiredRepair]]
+[[Attractor_State_Interpolation]]
 [[BackflowTransformation]]
 [[BayesianDomainEvolution]]
 [[BehavioralFeedbackLoop]]

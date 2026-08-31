@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveDendriteSNN]]
 [[BigBrainCellularAxis]]
 [[CombinedImportanceScoring]]
+[[CurrentInjectionSNN]]
 [[Intelligence_Emergence]]
 [[Neuromorphic_Computing]]
 [[NonKerrTravelingWaveEmergence]]

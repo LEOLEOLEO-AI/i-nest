@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[ContinuousTimeSNN]]
 [[Criticality]]
 [[Criticality_Based_Feature_Extraction]]
+[[DirectSNNTraining]]
 [[Discrete_Event_Spike_Simulation]]
 [[DynamicTokenSparsity]]
 [[EEG_Criticality]]

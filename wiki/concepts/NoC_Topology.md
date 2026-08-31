@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[ChipletWaferInterconnectScaling]]
+[[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
@@ -31,6 +32,8 @@ Auto-extracted concept from raw material compilation.
 [[MicroRouter_Embedding]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
+[[NoC]]
+[[NoC_Chiplet_iNEST_Wafer]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
 

@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicServiceComposition]]
 [[EarlyExitInference]]
 [[EfficientDeepLearning]]
+[[EmergentIntelligence_Spacetime]]
 [[Neuromorphic_Computing]]
 [[iNEST]]
 

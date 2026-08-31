@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Alpha_Coefficient_Phase_Transition_Amplification]]
 [[Analog_InMemory_Processing]]
 [[AttractorBasinOrthogonality]]
+[[BCM滑动阈值]]
 [[Complex_System_Theory]]
 [[EGO_Architecture]]
 [[Intelligence_Emergence]]

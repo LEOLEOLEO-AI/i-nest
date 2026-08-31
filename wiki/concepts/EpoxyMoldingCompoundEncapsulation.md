@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveDensityControl]]
 [[AdaptiveNetworkResilience]]
 [[Advanced_Packaging_for_Space]]
+[[Analog_InMemory_Processing]]
 [[Bipartite_Interconnect]]
 [[CST计量仪]]
 [[Complex_System_Theory]]

@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[HypergraphMeanFieldApproximation]]
 [[Intelligence_Emergence]]
 [[InteractingHaldaneModel]]
+[[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]

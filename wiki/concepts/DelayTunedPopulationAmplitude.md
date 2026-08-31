@@ -40,6 +40,8 @@ Auto-extracted concept from raw material compilation.
 [[Cytokine_Feedback_Loops]]
 [[DynamicalTransitionIdentification]]
 [[Dynamical_Principle_Formalization]]
+[[EnergyEfficientOnlineLearning]]
+[[EventDrivenComputation]]
 [[Neuromorphic_Computing]]
 [[Online_Continual_Learning]]
 [[STDP_Plasticity]]

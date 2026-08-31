@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_State_Awareness]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[NonlinearDynamicalSampling]]
 [[PhysicalReservoirInterconnect]]
 [[PhysicalReservoir]]
 [[RecursiveSelfReferentialArchitecture]]

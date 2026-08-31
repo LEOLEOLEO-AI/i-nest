@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[BackpropagationFreeLearning]]
 [[CSI_Temporal_Encoding]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
+[[Chiplet]]
 [[Chiplet_Based_Neuromorphic_Integration]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Course_Based_FPGA_Projects]]
@@ -35,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[HodgkinHuxleyDynamics]]
 [[In_Package_Neuromorphic_Integration]]
 [[Memristive_Interconnect]]
+[[Memristor]]
 [[Memristor_Network]]
 [[Memristor_Synapse]]
 [[MetaFAIR_ArchitectureDiscovery]]
@@ -57,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[Technology_Disparity_Offset]]
 [[Topology_Centric_Neuromorphic]]
 [[Yann LeCun：发现智能原理是AI的终极问题]]
+[[iMESO_PhysicalCarrier]]
 [[iNEST]]
 [[神经形态脉冲大语言模型（NSLLM）]]
 

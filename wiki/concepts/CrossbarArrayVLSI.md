@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[BiasEvaluationMetrics]]
 [[BlumeEmeryGriffithsModel]]
+[[Chiplet_Integration_Route]]
 [[Complex_Network_Class_Brain_Computing]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[CorticalWaveRouting]]
@@ -30,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Neuromorphic_Architectures]]
 [[Ferroelectric_Devices]]
 [[Interconnect_Routing]]
+[[Memristor]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
@@ -40,7 +42,6 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Architecture]]
 [[STDP_Plasticity]]
 [[ScalableNeuromorphicTopology]]
-[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]

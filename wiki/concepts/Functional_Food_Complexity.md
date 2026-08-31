@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_3DHI_Roadmap]]
 [[DendriticReservoirState]]
 [[ERI_2_0_Strategy]]
+[[EmergentAttractorInvariance]]
 [[EvanescentFieldTrapping]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]

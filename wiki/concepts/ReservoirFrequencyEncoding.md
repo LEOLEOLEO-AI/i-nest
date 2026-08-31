@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Bosonic_SPT_Phases]]
 [[BranchingRatio]]
 [[CST_Exponential_Gain]]
+[[Categorical_Reservoir_Model]]
 [[Complex_System_Theory]]
 [[ConnectivityDerivedReservoir]]
 [[Contested_Prior_Resolution]]

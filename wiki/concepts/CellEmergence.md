@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikingNeuralNetworkTopology]]
 [[SpikingNeuralNetwork]]
 [[SpikingTopologyAnalysis]]
+[[SpikingTopologyMapping]]
 [[Spiking_Neural_Network]]
 [[StochasticMultiAgentRL]]
 [[TCC]]

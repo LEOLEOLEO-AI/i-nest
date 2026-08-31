@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[ProjectiveMeasurementFeedback]]
+[[Receptron_Unit]]
 [[ReconfigurableSNNTopology]]
 [[ReconfigurableSpikingRouting]]
 [[SDPrompt_Guided_Dynamic_Expert_Fusion]]

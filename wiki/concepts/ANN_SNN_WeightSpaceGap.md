@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AcousticAnomalyDetection]]
 [[ActiveDendriteSNN]]
 [[Avoided_Criticality]]
+[[BackflowTransformation]]
 [[BulletTrainScheduling]]
 [[Criticality]]
 [[CrossEntityPreemptiveWarning]]
@@ -46,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Syncytial_Mesh_Model]]
 [[TCC]]
 [[TransformerBackflowNQS]]
+[[TransformerBackflow]]
 [[iNEST]]
 
 ## Sources

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[AcceleratedMaterialScreening]]
 [[Accessibility_Plasticity]]
 [[Alpha_Coefficient_Phase_Transition_Amplification]]
+[[Analog_InMemory_Processing]]
 [[AsymmetricStochasticInteractions]]
 [[AttentionMap_DifferenceResidual]]
 [[CST计量仪]]

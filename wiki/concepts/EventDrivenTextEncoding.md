@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[ContinuousControlConversion]]
 [[Course_Based_FPGA_Prototyping]]
 [[Criticality]]
+[[DirectSNNTraining]]
 [[Discrete_Event_Spike_Simulation]]
 [[DualDrivenHybridNetwork]]
 [[DynamicTokenSparsity]]
@@ -42,7 +43,6 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Self_Organized_Criticality]]
-[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[ControlDrivenCriticalFluctuations]]
 [[Critical_Region_Extension]]
 [[DynamicSynchronyMetric]]
+[[EpidemicTopologyCoevolution]]
 [[EvolvingArchitectureDynamics]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

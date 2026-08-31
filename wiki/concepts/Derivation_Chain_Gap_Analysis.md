@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[AgenticServiceOrchestration]]
 [[Anomaly_Induced_Quantum_Criticality]]
+[[Anomaly_Protected_Scaling_Law]]
 [[Ant_Swarm_Functional_Control]]
 [[ArchitecturalCondition]]
 [[Avoided_Criticality]]

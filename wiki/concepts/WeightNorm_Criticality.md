@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[ApproximateMacroscopicDynamics]]
 [[Architectural_Conditioning]]
+[[Chip-Hardware — 全景导航 (Map of Content)]]
 [[CirculateFiringNeuron]]
 [[CollectiveDynamics]]
 [[ComplexValuedSNN]]
@@ -34,6 +35,8 @@ Auto-extracted concept from raw material compilation.
 [[DendriticTaskPartitioning]]
 [[DevelopmentalNeuromorphicAdaptation]]
 [[DynamicTopologyMapping]]
+[[DynamicTopology]]
+[[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[HippocampalNeocorticalIntelligence]]
 [[Intelligence_Emergence]]
@@ -52,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[智能涌现]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[涌现]]
 [[神经网络]]
 
 ## Sources

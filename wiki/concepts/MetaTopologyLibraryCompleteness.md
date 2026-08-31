@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Encapsulation_Topology]]
 [[EntanglementSignatures]]
 [[GeometricRegularizationLoss]]
+[[HeavyTailedWaitingTimes]]
 [[HigherOrderPublicGoodsGame]]
 [[InferencePipelineTopologyAwareScheduling]]
 [[Intelligence_Emergence]]

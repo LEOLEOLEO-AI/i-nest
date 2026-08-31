@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[AI_Enabled_Battlefield_Autonomy]]
 [[ANN_SNN_ConversionError]]
+[[ANN_to_SNN_Conversion_Error_Amplification]]
 [[BehaviorPreservingNetworkSparsity]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BioInspiredSequenceLearning]]
@@ -40,7 +41,6 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[SNN]]
-[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

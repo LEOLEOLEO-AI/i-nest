@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI节点接口规范与化合键定义]]
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
+[[TCC]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

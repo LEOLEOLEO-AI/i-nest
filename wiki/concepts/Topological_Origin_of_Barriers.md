@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveEntanglementManagement]]
 [[AdaptiveFunctionalTopology]]
 [[AtomicGeometryEncoding]]
+[[BarrierConditionedTrajectory]]
 [[BrownianCastleInterface]]
 [[EnsembleSparsity]]
 [[Generation_Readiness_Assessment]]

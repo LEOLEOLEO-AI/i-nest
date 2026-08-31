@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Localized_Feedback_Array]]
 [[Meta_Residual_Learning]]
 [[NonHermitianSpectralCorrelations]]
+[[ProjectiveMeasurementFeedback]]
 [[SNN]]
 [[STDP_Plasticity]]
 [[Spiking_Neural_Network]]

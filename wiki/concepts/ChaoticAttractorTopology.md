@@ -42,6 +42,8 @@ Auto-extracted concept from raw material compilation.
 [[DevelopmentalConnectomeTemporalGraph]]
 [[DevelopmentalStageEmbedding]]
 [[Dynamic_Expert_Fusion]]
+[[DynamicsMatchedReservoir]]
+[[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Connectome]]
 [[Contested_Prior_Resolution]]
+[[Crystallized_Neural_Manifolds]]
 [[Epithelial_Barrier_Integrity]]
 [[GenerativeTopologyModels]]
 [[In_Memory_Computing]]

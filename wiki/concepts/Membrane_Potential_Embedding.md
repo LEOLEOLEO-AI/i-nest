@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[ActivityAvalanche]]
 [[AdaptiveAsymmetricSurrogateGradient]]
 [[AdaptiveAsymmetricSurrogateGradients]]
+[[AdaptiveFrequencyResonateAndFire]]
 [[Dynamical_State_Space]]
 [[SNN]]
 [[Spiking_Neural_Network]]

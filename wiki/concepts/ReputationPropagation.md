@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Kinematic_Waves]]
+[[Nanoparticle_Network_Interconnect]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[PacketRoutingForFPGAs]]

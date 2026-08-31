@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Connectome_Transfer]]
 [[DARPA_ProjectManager_Model]]
 [[Deep_Network_Architecture_Invariant]]
+[[Defense_Industrial_Base_Reshaping]]
 [[ElectromigrationReliability]]
 [[ErrorSuppressedPipeline]]
 [[Independent_EdgeAI_Player_Endgame]]

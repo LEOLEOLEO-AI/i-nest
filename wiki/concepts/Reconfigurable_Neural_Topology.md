@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[Biologically_Plausible_Learning_Rules]]
 [[Cognitive_Relapse_Decoupling]]
+[[ControlDrivenCriticalFluctuations]]
 [[Critical_Region_Extension]]
 [[Criticality]]
 [[DTGA]]

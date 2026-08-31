@@ -29,9 +29,11 @@ Auto-extracted concept from raw material compilation.
 [[GenerativeTopologyModels]]
 [[Interconnect_Routing]]
 [[Less is more，大脑“低能耗”并“高效响应”的秘诀：模块化]]
+[[Memristor]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
+[[NoC]]
 [[NoC_SDI]]
 [[NoC_SDI_Integration]]
 [[PacketRoutingOptimization]]
@@ -50,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[Γst_Revision]]
 
 ## Sources

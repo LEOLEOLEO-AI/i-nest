@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[CorticalWaveRouting]]
 [[CriticalWeightNormBoundary]]
 [[Defect_Mediated_Transport]]
+[[DevelopmentalNeuromorphicAdaptation]]
 [[EmergentOrder]]
 [[FrozenRateOperator]]
 [[ImaginaryGaugePhaseImprint]]

@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[03 涌现：整体的能力不能还原回个体？ - 得到APP]]
 [[ASIC_Dualism]]
 [[BackpropagationFreeLearning]]
+[[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_Interconnect_Topology]]
@@ -41,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
 [[SDI_TCC_iNEST_Bridge]]
+[[SDI_Topology_Control]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[SDSoW_Physical_Base]]
@@ -49,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologyProgramming]]
 [[chiplet interconnect]]
+[[iNEST]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

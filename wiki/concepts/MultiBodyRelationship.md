@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AndersonTransition]]
 [[Bipartite_Interconnect]]
 [[Bipartite_Interconnect_Fabric]]
+[[CausalIntegrationTopology]]
 [[Complex_System_Theory]]
 [[ComputeRelocationOverhead]]
 [[Deep_Thermalisation]]

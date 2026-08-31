@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[DarkSiliconAwarePowerGating]]
 [[ERI_2_0_Framework]]
 [[EdgeFeatureEncoding]]
+[[ExplosiveCooperationTransition]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[TCC]]

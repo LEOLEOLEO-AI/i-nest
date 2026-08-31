@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Bio_plausible_Neuromorphic_Disturbance_Observer]]
 [[BrainBodyResonance]]
 [[CascadedAdaptiveCombiners]]
+[[Chiplet_Integration_Route]]
 [[Complex_System_Theory]]
 [[Dynamic_Expert_Routing]]
 [[FlexibilityThreshold]]

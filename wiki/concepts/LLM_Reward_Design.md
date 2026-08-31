@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[DelayTolerantNetworkUAV]]
 [[EndToEndTopologicalLearning]]
 [[FlexibilityThreshold]]
+[[HardwareAware_SelfOrganization]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Memristive_Interconnect]]

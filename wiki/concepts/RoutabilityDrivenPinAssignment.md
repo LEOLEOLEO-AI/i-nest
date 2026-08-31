@@ -38,6 +38,8 @@ Auto-extracted concept from raw material compilation.
 [[MeasurementInducedRouting]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
+[[NoC]]
+[[OpticallyWritableAtomicVaporMemory]]
 [[Packaging_Aware_NoC_Design]]
 [[RoutabilityDrivenFloorplanning]]
 [[TCC]]

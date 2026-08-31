@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_InMemory_Processing]]
 [[ArbitraryWavefunctionConfigurability]]
 [[AxonalGrowthConeStochasticity]]
+[[BCM滑动阈值]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

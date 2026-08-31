@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[DimensionReductionViaSimplicialProjection]]
 [[DimensionalityReductionForNetworkControl]]
 [[Disordered_Heisenberg_Model]]
+[[HybridBayesianLearning]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]

@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[OpenLearningEcosystem]]
 [[Routing_Color_Bits]]
+[[SpectralGapMoE]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[涌现]]

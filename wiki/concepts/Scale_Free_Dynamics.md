@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AINext_Initiative]]
 [[Accessibility_Plasticity]]
+[[Active_Inference_Agent]]
 [[AdaptiveFlexibilityThreshold]]
 [[AdaptiveNetworkResilience]]
 [[AdaptiveTimeStepTraining]]

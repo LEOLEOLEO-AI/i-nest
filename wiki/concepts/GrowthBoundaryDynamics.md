@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[EpidemicThreshold]]
 [[EventDrivenFunctionalConnectivity]]
 [[ExtinctionDrivenMetastability]]
+[[GenerativeTopologyModels]]
 [[ImaginaryGaugePhaseImprint]]
 [[Inference_Workload_Profiling]]
 [[Intelligence_Emergence]]

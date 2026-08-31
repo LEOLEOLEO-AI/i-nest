@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[CouplingTopologyMemoryLink]]
 [[Coupling_Topology]]
+[[CriticalStateReservoir]]
 [[Free_Energy_Topology_Mapping]]
 [[MagneticMetamaterialReservoir]]
 [[Network_Topology_Design]]

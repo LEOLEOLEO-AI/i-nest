@@ -40,7 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[QNNtoSNNConversion]]
 [[SNN]]
 [[SafetyThresholdAsSpikingThreshold]]
-[[Spiking neural network]]
+[[SpikeAdversarialTransfer]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

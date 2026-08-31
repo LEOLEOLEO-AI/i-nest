@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[EmergentTaskDecomposition]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]
+[[MultiScalePathDivergence]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[RecursiveSelfReferentialArchitecture]]

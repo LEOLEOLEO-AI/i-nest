@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Cascading_Failure_Mitigation]]
 [[CeYIGMagnetoOpticalIsolator]]
 [[CellEmergence]]
+[[Cognitive_Relapse_Decoupling]]
 [[ConsciousnessEngineeringLoop]]
 [[CriticalityInducedTopology]]
 [[Criticality]]

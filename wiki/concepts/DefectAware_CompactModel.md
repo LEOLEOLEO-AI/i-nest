@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AdjustableDynamics]]
 [[Analog_InMemory_Processing]]
 [[BeyondVonNeumannArchitecture]]
 [[CMOS_Memristor_Devices]]
@@ -43,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[FisherOrthogonalMemory]]
 [[HZO_FerroelectricCapacitor]]
 [[Hysteretic_State_Encoding]]
+[[Memristor]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
 [[NonGaussianPropagationKernel]]

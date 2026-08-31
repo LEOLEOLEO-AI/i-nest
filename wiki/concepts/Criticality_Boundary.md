@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AINext_Initiative]]
 [[AIRA_NeuralArchSearch]]
+[[AI_Driven_Architecture_Search]]
 [[AlloyDisorderEngineering]]
 [[Criticality]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]

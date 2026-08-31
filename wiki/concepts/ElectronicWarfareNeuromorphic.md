@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Controlled_Release_Kinetics]]
 [[Dynamic_Expert_Fusion]]
 [[Emergence_Aware_Scheduling]]
+[[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[Gut_Brain_Immune_Network]]
 [[ITP_STDP]]
@@ -55,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[StochasticMultiAgentRL]]
 [[Synaptic_Plasticity]]
+[[TemporalLearning]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

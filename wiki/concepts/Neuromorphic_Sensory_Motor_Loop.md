@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_ProjectManager_Model]]
 [[DirectTrainingSNN]]
 [[Direct_Training_Spiking_Neural_Networks]]
+[[DualModeSNNConventionalInference]]
 [[FullyLocalOnlineSNNTraining]]
 [[GradientBasedSpikeLearning]]
 [[InterFPGA_Spike_Routing]]

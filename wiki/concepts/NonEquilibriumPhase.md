@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[BehavioralFeedbackLoop]]
 [[Complex_System_Theory]]
 [[Cytokine_Feedback_Loops]]
+[[Droop_Triggered_Workload_Throttling]]
 [[EventDrivenSpectralProcessing]]
 [[In_Network_Neuromorphic]]
 [[Neuromorphic_Computing]]

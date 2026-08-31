@@ -27,6 +27,8 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[BrainBodyResonance]]
 [[Dynamic_Expert_Fusion]]
+[[ElectronicWarfareNeuromorphic]]
+[[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[ITP_STDP]]
 [[Intelligence_Emergence]]

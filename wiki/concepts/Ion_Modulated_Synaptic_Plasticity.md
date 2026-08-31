@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[FatigueSTDP]]
 [[ITP_STDP]]
 [[ITP_STDP_Engine]]
+[[ITP_STDP_Learning_Engine]]
 [[Neuromorphic_Computing]]
 [[STDP_Plasticity]]
 [[Spiking_Neural_Network]]

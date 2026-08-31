@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[ITP_STDP_Engine]]
 [[IntrinsicTimingSTDP]]
 [[Neuromorphic_Computing]]
+[[NoiseInducedPhaseLocking]]
 [[STDP_Plasticity]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

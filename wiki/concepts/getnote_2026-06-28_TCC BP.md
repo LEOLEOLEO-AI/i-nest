@@ -35,6 +35,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[ANN动力学]]
 [[AdditiveTopology_Embedding]]
 [[Agent_Workflow_Automation]]
+[[Alpha_Coefficient_Phase_Transition_Amplification]]
 [[Analog_InMemory_Processing]]
 [[AnteHoc_Explainability]]
 [[BCM滑动阈值]]

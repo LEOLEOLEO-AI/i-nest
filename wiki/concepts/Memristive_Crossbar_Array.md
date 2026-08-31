@@ -20,12 +20,14 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AdaptiveBitPrecisionExploration]]
+[[AdaptiveGraphDiffusion]]
 [[Allreduce_Latency_Probe]]
 [[Analog_InMemory_Processing]]
 [[Architectural_Conditioning]]
 [[CoPackagedOptics]]
 [[ConsciousIntegration]]
 [[CrossDomain_Integration]]
+[[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[Expert_Review_Arbitration]]
 [[FeFET_Polarization_Switching]]

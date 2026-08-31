@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_InMemory_Processing]]
 [[AnteHoc_Explainability]]
 [[Backpropagation_Comparison]]
+[[Banded_NonHermitian_Matrix]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

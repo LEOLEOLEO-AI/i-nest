@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[03 涌现：整体的能力不能还原回个体？ - 得到APP]]
 [[AI_Faculty_Forum_2026]]
 [[Accessibility_Plasticity]]
+[[Active_Inference_Agent]]
 [[AdaptiveArchitecture]]
 [[AdaptiveCompetingInteractions]]
 [[AdaptiveEntanglementManagement]]

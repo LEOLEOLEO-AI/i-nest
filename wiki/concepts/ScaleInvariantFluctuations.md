@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Scale_Free_Dynamics_Encoding]]
 [[SpinGlassOrderAbsence]]
 [[TCC]]
+[[TinySubstrateEmergence]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

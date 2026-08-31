@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[QuantumProbabilityFlowHebbian]]
 [[SNN]]
 [[Self_Organized_Criticality]]
+[[SpikeRoutingFabric]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]

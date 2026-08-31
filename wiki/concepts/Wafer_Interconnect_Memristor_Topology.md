@@ -21,6 +21,8 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
+[[Heterogeneous_Integration]]
+[[Memristor]]
 [[Memristor_Synapse]]
 [[Memristor_Topology]]
 [[Mesoscale_Heterogeneous_Integration]]
@@ -36,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[WaferScale_Memristor_Array]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

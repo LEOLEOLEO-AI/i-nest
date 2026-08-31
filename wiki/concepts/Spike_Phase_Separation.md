@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveSpeechToSpikeEncoding]]
 [[Bidirectional_Temporal_Enhancement]]
 [[Bio_plausible_Neuromorphic_Disturbance_Observer]]
+[[Chiplet_Integration_Route]]
 [[CompetitiveProgramDynamics]]
 [[Complex_System_Theory]]
 [[Contested_Prior_Resolution]]

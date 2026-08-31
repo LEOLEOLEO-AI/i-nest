@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AINext_Initiative]]
 [[ActivityAvalanche]]
+[[Activity_Energy_Tradeoff]]
 [[AlloyDisorderEngineering]]
 [[AnisotropicGaussianPrimitives]]
 [[BioPlausiblePredictiveCoding]]
@@ -30,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicTokenSparsity]]
 [[Dynamic_Expert_Fusion]]
 [[Edge_Neuromorphic_Compute]]
+[[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
@@ -45,7 +47,6 @@ Auto-extracted concept from raw material compilation.
 [[SensationModulatingNetwork]]
 [[SpikeBasedGradientDescent]]
 [[Spike_Encoding_of_fMRI]]
-[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[Topology_Aware_Spike_Routing]]
 [[iNEST]]

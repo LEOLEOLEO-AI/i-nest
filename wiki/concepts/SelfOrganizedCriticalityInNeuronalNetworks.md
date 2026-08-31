@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AmoebaInspiredLocomotion]]
 [[Anomaly_Induced_Quantum_Criticality]]
 [[BioInspired_Interception_Control]]
+[[BurstGatedRouting]]
 [[Criticality]]
 [[Interconnect_Routing]]
 [[MoE_Routing]]

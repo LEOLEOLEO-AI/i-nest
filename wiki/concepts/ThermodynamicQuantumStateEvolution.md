@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_State_Awareness]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
+[[PhysicalReservoirInterconnect]]
 [[Reservoir_Computing]]
 [[Self_Organized_Criticality]]
 [[TCC]]

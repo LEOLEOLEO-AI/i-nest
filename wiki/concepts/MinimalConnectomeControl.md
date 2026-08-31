@@ -33,7 +33,9 @@ Auto-extracted concept from raw material compilation.
 [[Connectome]]
 [[Connectome_Inspired_Architecture]]
 [[Connectome_Reservoir]]
+[[Cross_Brain_Connectome]]
 [[Neuromorphic_Computing]]
+[[Reservoir_Computing]]
 [[iNEST]]
 
 ## Sources

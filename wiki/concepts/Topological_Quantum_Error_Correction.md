@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenSynchronization]]
 [[EventDrivenWeightUpdate]]
 [[EventTriggeredDistributedControl]]
+[[ImaginaryGaugePhaseImprint]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

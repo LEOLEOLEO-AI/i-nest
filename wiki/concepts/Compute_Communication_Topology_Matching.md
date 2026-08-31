@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[InterconnectDrivenCostFunction]]
 [[Interconnect_Routing]]
 [[MaterialGrowthFabricationFocus]]
+[[MemoryDrivenRouting]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[advanced packaging]]
