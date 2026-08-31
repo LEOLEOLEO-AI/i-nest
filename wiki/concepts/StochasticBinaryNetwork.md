@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Passivity_Preserving_Computation]]
 [[RecurrentOscillatoryComputation]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SelfOrganizedOscillatoryLearning]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[TCC]]

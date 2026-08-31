@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[FirstPrinciples_Derivation]]
 [[Heterogeneous_Integration]]
 [[HigherOrderStochasticProcess]]
+[[LIF_Neuron_Model]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[NoiseRobust_Hyperedge_Aggregation]]

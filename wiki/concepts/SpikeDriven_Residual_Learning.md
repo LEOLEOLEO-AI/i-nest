@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Change_Record]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BioInspiredInterception]]
+[[BioInspired_Interception_Control]]
 [[BulletTrainScheduling]]
 [[BurstGatedRouting]]
 [[BurstSuppression]]

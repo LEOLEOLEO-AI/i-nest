@@ -25,6 +25,8 @@ Auto-extracted concept from raw material compilation.
 [[CrossbarArrayVLSI]]
 [[Heterogeneous_Integration]]
 [[MemristiveIntegration]]
+[[Memristor]]
+[[Memristor_Synapse]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[National_Mesoscale_Innovation_Center]]
 [[Neuromorphic_Computing]]
@@ -36,7 +38,9 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Industry_Ecosystem_Collaboration]]
 [[SDSoW_Strategic_Planning]]
 [[Wafer_Scale_Integration]]
+[[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
+[[Wafer_Scale_Memristor_Integration]]
 [[advanced packaging]]
 [[iNEST]]
 

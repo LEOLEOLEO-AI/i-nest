@@ -23,5 +23,6 @@ iNEST
 
 ## Related Concepts
 
+[[Edge_of_Chaos]]
 [[Reservoir_Computing]]
 [[iNEST]]

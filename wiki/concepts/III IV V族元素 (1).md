@@ -22,3 +22,16 @@ refs: 6
 
 
 _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
+
+## Related Work
+
+[[BNN vs ANN (1)]]
+[[LocalMeasurementSheaf]]
+[[Nonlinear_Gain]]
+[[TCC]]
+[[Wafer_Scale_Neuromorphic]]
+[[_专题研究_从单芯作战迈向系统集成_五_软件定义晶上系统_SDSoW_技术]]
+[[getnote_2026-06-05_NEST 智能涌现研究进展与工程落地全景]]
+[[iNEST]]
+[[在网计算（In-Network Computing） (1)]]
+[[复杂度的计算 (1)]]

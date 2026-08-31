@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[InputAdaptiveComputation]]
 [[Interconnect_Routing]]
+[[Katz_Centrality_Allocation]]
 [[MemoryDrivenVectorFlowFieldRouting]]
 [[Network_Topology_Design]]
 [[SelfOrganization]]

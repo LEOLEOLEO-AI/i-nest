@@ -25,6 +25,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 
 ## Related Work
 
+[[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
 [[BNN vs ANN (1)]]
 [[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
@@ -48,6 +49,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Wafer_Scale_Neuromorphic]]
 [[_专题研究_从单芯作战迈向系统集成_五_软件定义晶上系统_SDSoW_技术]]
 [[complex system]]
+[[conflict-files-obsidian-git]]
 [[getnote_2025-07-24_液态神经网络与时空复杂性]]
 [[getnote_2026-06-05_NEST 智能涌现研究进展与工程落地全景]]
 [[iNEST]]

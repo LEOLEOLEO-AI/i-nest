@@ -28,7 +28,11 @@ Auto-extracted concept from raw material compilation.
 [[ActivityPropagationCascade]]
 [[AgenticServiceTopology]]
 [[Agile_Resilient_Defense_Ecosystem]]
-[[AlgorithmHardware_CoDesign]]
+[[Algorithm_Hardware_CoDesign]]
+[[BackflowTransformation]]
+[[Network_Topology_Design]]
+[[SNN]]
+[[Spiking_Neural_Network]]
 [[TCC]]
 
 ## Sources

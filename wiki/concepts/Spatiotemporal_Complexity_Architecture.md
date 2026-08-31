@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[03 涌现：整体的能力不能还原回个体？ - 得到APP]]
 [[3D_Heterogeneous_Integration]]
 [[AI_Faculty_Forum_2026]]
+[[ActiveMatterComputing]]
 [[Analog_To_Information_Conversion]]
 [[Attention_Residuals]]
 [[BackpropFree_Learning]]

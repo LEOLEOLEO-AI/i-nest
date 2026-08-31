@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[DefectDynamics]]
 [[FeFET_Polarization_Switching]]
 [[FerroelectricCrossbarArray]]
+[[FerroelectricMemoryCell]]
 [[Ferroelectric_Devices]]
 [[Neuromorphic_Computing]]
 [[Synaptic_Plasticity]]

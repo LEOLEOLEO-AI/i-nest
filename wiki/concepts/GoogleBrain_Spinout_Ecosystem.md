@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[MetaHardwareAbstraction]]
 [[NCL神经计算定律详解]]
 [[Network_Topology_Design]]
+[[SDI_Standard_Review]]
 [[Server_Side_Inference]]
 [[TCC]]
 [[complex system]]

@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[ExactlyFlatTopologicalBands]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
+[[GroupInfluenceThreshold]]
 [[InNetworkComputing]]
 [[Memristive_Topology]]
 [[MultiSourceTaskonomy]]

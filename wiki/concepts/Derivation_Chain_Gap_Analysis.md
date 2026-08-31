@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Ant_Swarm_Functional_Control]]
 [[ArchitecturalCondition]]
 [[Avoided_Criticality]]
+[[BayesianConnectivityEstimation]]
 [[Criticality]]
 [[Intelligence_Emergence]]
 [[Quantum_Criticality]]

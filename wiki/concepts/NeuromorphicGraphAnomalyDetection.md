@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AINext_Initiative]]
 [[Bidirectional_Temporal_Enhancement]]
+[[BigBrainCellularAxis]]
 [[CollectiveSpikingDynamics]]
 [[ConductingPolymerDendriteMemory]]
 [[Contested_Prior_Resolution]]
@@ -45,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[SpectralSpikeEncoding]]
 [[SpikeEncoding]]
 [[Spike_Encoding_of_fMRI]]
+[[Spiking neural network]]
 [[SpikingAttentionComplexityReduction]]
 [[Spiking_Mamba_Block]]
 [[Spiking_Neural_Network]]

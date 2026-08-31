@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
+[[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
 [[12_三原理协同_FEP_最小作用量_STDP]]
 [[AI_Faculty_Forum_2026]]
 [[AnalogDomainCompression]]
@@ -45,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[NoC]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[OptimalRepresentation]]
@@ -60,6 +62,8 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TCC_iNEST_Interconnect]]
 [[TCC核心概念与基线理论集 (TCC Core Concepts)]]
+[[Wafer_Scale_Integration]]
+[[Wafer_Scale_Neuromorphic]]
 [[Wafer_Scale_Neuromorphic_Integration]]
 [[WavelengthMultiplexedInterconnect]]
 [[iNEST]]

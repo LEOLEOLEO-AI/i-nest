@@ -45,6 +45,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
+[[PairwiseCorrelationConstraint]]
 [[Quantum_Spin_Glass]]
 [[ReconfigurableSpikingRouting]]
 [[SNN]]

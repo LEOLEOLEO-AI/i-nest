@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[GraphIsomorphismNetworks_EdgeFeatures]]
 [[GraphTopologyAnalysis]]
 [[Heterogeneous_Integration]]
+[[Historical_Batch_Data]]
 [[InformationSciences_Division]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

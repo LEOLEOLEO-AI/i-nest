@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN动力学]]
 [[Allreduce_Latency_Probe]]
 [[AnalogInMemoryComputing]]
+[[Analog_InMemory_Processing]]
 [[Architectural_Conditioning]]
 [[CST计量仪]]
 [[Capability_Forging_Pipeline]]

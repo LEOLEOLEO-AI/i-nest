@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[ContactOpportunityExploitation]]
+[[DataCenter_Chip_Logic_Compression]]
 [[DeepParsing]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[OscillatoryDynamicsTopology]]
 [[P_Paradigm]]
 [[PhotonicStateRetention]]
+[[SixClassSkeletonAsRPrimitiveSpace]]
 [[TCC]]
 [[complex system]]
 [[涌现]]

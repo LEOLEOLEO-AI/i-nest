@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[MemoryDrivenRouting]]
 [[MetaFAIR_ArchitectureDiscovery]]
+[[NearSensorComputing]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Planning_Revolution]]

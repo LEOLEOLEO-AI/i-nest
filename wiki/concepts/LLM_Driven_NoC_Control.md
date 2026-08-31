@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AutonomousAdaptation]]
 [[BigBrainCellularAxis]]
 [[CommunicationAwareComputeRelocation]]
+[[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[CorticalTypeDiversity]]
 [[Intelligent_Computing_Infrastructure]]
 [[Interconnect_Routing]]

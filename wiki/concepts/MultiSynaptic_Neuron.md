@@ -22,13 +22,16 @@ Auto-extracted concept from raw material compilation.
 
 [[4H_SiC_SubstrateProcessing]]
 [[AI_Driven_Architecture_Search]]
+[[AI_Driven_Power_Density_Scaling]]
 [[AI_Faculty_Forum_2026]]
 [[AI_Forum_Demo_Narrative]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[AssociativeMemoryTopology]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
+[[SOC]]
 [[iNEST]]
 
 ## Sources

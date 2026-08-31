@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[BifurcationCandidate]]
 [[Complex_System_Theory]]
+[[Convergent_Representation_Order]]
 [[CrossDomainAwareness]]
 [[DistributedTrainingCommunicationPattern]]
 [[Emergent_Abilities]]

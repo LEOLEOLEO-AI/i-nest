@@ -28,6 +28,8 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Service_Orchestration]]
 [[BioInspired_Interception_Control]]
 [[BurstGatedRouting]]
+[[CommunicationAwareComputeRelocation]]
+[[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[TCC]]

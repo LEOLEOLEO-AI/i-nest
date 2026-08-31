@@ -49,6 +49,8 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Architecture]]
 [[SDSoW_Interface_Standard]]
 [[STDP_Plasticity]]
+[[SelfOrganization]]
+[[SparseTemporalEncoding]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[TCC_iNEST_Interconnect]]

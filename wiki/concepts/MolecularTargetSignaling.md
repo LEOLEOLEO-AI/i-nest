@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[DendriticReservoirState]]
 [[DualImpactEvaluation]]
 [[Dynamic_Expert_Fusion]]
+[[Electronic_Neuron_Circuit]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[EntropyProductionRate]]

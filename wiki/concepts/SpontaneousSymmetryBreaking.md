@@ -34,9 +34,11 @@ Auto-extracted concept from raw material compilation.
 [[Driven_Criticality]]
 [[ExactlyFlatTopologicalBands]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
+[[GroupInfluenceThreshold]]
 [[InNetworkComputing]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
+[[SelfOrganization]]
 [[Self_Organized_Criticality]]
 [[TCC]]
 

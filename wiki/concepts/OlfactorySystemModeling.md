@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AnytimePointCloudRecognition]]
 [[Asymptotic_Exact_Solution]]
 [[BayesianDomainEvolution]]
+[[BehavioralFeedbackLoop]]
 [[BehavioralNeuromorphicCorrelates]]
 [[BioInspiredLearningRule]]
 [[Biomanufacturing_Control_Loop]]

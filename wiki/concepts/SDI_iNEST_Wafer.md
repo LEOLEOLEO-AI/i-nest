@@ -44,11 +44,14 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[SDSoW_Industry_Alliance]]
+[[SDSoW_Strategic_Planning]]
 [[TCC]]
+[[TCC_iNEST_Interconnect]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Neuromorphic]]
 [[iNEST]]
+[[iNEST_Interconnect]]
 [[iNEST_Wafer]]
 
 ## Sources

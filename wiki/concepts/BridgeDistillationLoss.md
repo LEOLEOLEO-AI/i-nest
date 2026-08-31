@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Ferroelectric_Devices]]
 [[Ferroelectric_Synaptic_Devices]]
 [[HigherOrderStochasticProcess]]
+[[InNetworkNeuromorphicAdaptation]]
 [[LIF_Neuron_Model]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]

@@ -22,8 +22,10 @@ Auto-extracted concept from raw material compilation.
 
 [[AINext_Initiative]]
 [[AnomalousSpinTransport]]
+[[Bipartite_Interconnect]]
 [[Bipartite_Interconnect_Design]]
 [[CMOS_Memristor_Devices]]
+[[ChannelCountScaling]]
 [[ChipletOpticalIO]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]

@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikingNeuralNetworkTopology]]
 [[SpikingNeuralNetwork]]
 [[Spiking_Neural_Network]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[WirelessSplitComputing]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]

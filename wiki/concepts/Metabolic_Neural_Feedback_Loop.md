@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[IntegratedSensingFusion]]
 [[IntegrationProspectsForVLSI]]
 [[Intelligence_Emergence]]
+[[InterconnectAwareGradientAggregation]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]

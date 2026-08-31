@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[CST_Equation]]
 [[CST计量仪]]
+[[ChipletRoutingFabric]]
 [[ChipletWaferInterconnectScaling]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]

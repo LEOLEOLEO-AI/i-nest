@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[ScaleFreeNetwork]]
 [[SmallWorldNetworks]]
 [[Spiking_Neural_Network]]
+[[Stochastic_LIF_Inference]]
 [[iNEST]]
 
 ## Sources

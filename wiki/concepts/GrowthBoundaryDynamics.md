@@ -37,6 +37,8 @@ Auto-extracted concept from raw material compilation.
 [[Inference_Workload_Profiling]]
 [[Intelligence_Emergence]]
 [[LocalInteractionDrivenReconfiguration]]
+[[MitigationLayers]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[OpticallyWritableAtomicVaporMemory]]
 [[QueryComplexityScaling]]

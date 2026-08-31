@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[P_Paradigm]]
+[[PersonalizedSNNTransfer]]
 [[Pipelined_Processor_Integration]]
 [[QuantumDissipativeReservoir]]
 [[RecursiveSelfReferentialArchitecture]]

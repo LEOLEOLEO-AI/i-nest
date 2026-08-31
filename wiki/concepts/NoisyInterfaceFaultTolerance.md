@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_InMemory_Processing]]
 [[ArchitecturalGrounding]]
 [[Architectural_Conditioning]]
+[[AthermalRandomFieldBlumeCapel]]
 [[BCM滑动阈值]]
 [[Bipartite_Interconnect]]
 [[Bipartite_Interconnect_Fabric]]

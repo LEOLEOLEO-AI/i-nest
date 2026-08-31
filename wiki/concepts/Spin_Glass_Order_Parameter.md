@@ -23,9 +23,11 @@ Auto-extracted concept from raw material compilation.
 [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[AI4PDE｜综述·论文推荐 08｜物理信息神经网络在偏微分方程问题中的应用：全面综述]]
 [[AINext_Initiative]]
+[[AI_Application_Scenario_Reconstruction]]
 [[ChipletOpticalIO]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Complex_System_Theory]]
 [[Coupling_Topology]]
@@ -34,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Environmental_Coupling_Organization]]
 [[Heterogeneous_Integration]]
 [[IncidenceBasedRandomWalk]]
+[[Interconnect_Topology]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
@@ -47,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[emerging CMOS memristor]]
 [[iNEST]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

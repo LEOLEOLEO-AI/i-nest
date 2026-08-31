@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[3D_Heterogeneous_Integration]]
 [[AI_Faculty_Forum_2026]]
 [[AdaptiveBitPrecisionExploration]]
+[[AdaptiveGraphDiffusion]]
 [[AgenticServiceOrchestration]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Allreduce_Latency_Probe]]

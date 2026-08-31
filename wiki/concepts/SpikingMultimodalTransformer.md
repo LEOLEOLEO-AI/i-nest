@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[BioPlausiblePredictiveCoding]]
 [[BrainInspired_Chip]]
+[[ConductingPolymerDendriteMemory]]
 [[Delay_Aware_Autograd_Spiking_Framework]]
 [[EventBasedBioSignalFrontEnd]]
 [[EventDataNonUniformity]]
@@ -43,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[SNN]]
 [[SNN_Neuromorphic_Integration]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

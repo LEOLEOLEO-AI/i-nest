@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Edge_Intelligence]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
+[[EventBasedNeuralDecoding]]
 [[EventDrivenInference]]
 [[EventDrivenRiskAssessment]]
 [[EventDrivenTracking]]

@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AINext_Initiative]]
 [[AlternativeBridgingModels]]
+[[AnisotropicGaussianPrimitives]]
 [[Local_Plasticity]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicServiceComposition]]
 [[ERI_2_0_Strategy]]
 [[EmergentAttractorInvariance]]
+[[EmergentReplicaClock]]
 [[EventTriggeredDistributedControl]]
 [[GitWhitelistQuotaEnforcement]]
 [[IncidenceBasedRandomWalk]]

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[CorticalWaveRouting]]
 [[CriticalWeightNormBoundary]]
+[[Cryogenic_Syndrome_Compression]]
 [[Defect_Mediated_Transport]]
 [[DevelopmentalNeuromorphicAdaptation]]
 [[EmergentOrder]]

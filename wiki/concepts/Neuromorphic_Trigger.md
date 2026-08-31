@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Bidirectional_Temporal_Enhancement]]
 [[BioPlausiblePredictiveCoding]]
+[[BurstGatedRouting]]
 [[Criticality]]
 [[DelayAwareSpikeEventDelivery]]
 [[Dynamic_Expert_Fusion]]
@@ -45,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[SequenceAwareSpikingDetection]]
 [[Spike_Encoding_of_fMRI]]
+[[Spiking neural network]]
 [[SpikingRecurrentCell]]
 [[SpikingRecurrentCells]]
 [[SpikingStateSpaceModel]]

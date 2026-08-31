@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[PhaseLockedTopologyMapping]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SNN]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]
 [[SaliencyDrivenAttention]]

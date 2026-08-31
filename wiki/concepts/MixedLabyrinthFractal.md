@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[EnergyEfficientNeuromorphic]]
 [[EventDrivenModularArchitecture]]
 [[Free_Energy_Principle_Network]]
+[[Frontier_Innovation_Mapping]]
 [[FrozenRateOperator]]
 [[FunctionalInterfaceBlock]]
 [[Intelligence_Emergence]]

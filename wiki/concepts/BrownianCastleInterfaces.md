@@ -63,6 +63,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TemporalDynamicsModeling]]
 [[TopologicalPhaseTransition]]
+[[Wafer_Scale_Neuromorphic]]
 [[iMESO_PhysicalCarrier]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]

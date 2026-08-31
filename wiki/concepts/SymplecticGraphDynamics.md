@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[InNetwork_Neuromorphic_Transform]]
 [[Master_SDDE]]
+[[Memristive_Interconnect]]
 [[Microgrid_Optimization]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

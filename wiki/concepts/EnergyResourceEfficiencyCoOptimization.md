@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[FlagOS_2_0]]
 [[GeTeBasedCBRAM]]
 [[HybridResistiveMemoryCIM]]
+[[Hysteretic_State_Encoding]]
 [[IMPLYMemristiveISA]]
 [[In_Memory_Computing]]
 [[Intelligence_Emergence]]

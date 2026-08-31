@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Ising_Solver]]
 [[NoiseModulated_Backprop]]
 [[OnlineSelfSupervisedESN]]
+[[OpportunisticRoutingRL]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SOC]]
 [[catastrophic forgetting]]

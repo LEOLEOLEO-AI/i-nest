@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
 [[Core_Spacetime_Tensor]]
+[[Cryogenic_Syndrome_Compression]]
 [[Deep_Thermalisation]]
 [[EntanglementAwareRouting]]
 [[Fractal_Multipartite_Entanglement]]

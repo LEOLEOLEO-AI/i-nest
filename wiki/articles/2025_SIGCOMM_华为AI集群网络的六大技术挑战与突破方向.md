@@ -18,6 +18,7 @@ SDI, chiplet, iNEST, interconnect, 封装, 拓扑, 芯粒
 
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]
 [[TCC]]

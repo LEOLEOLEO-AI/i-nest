@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[BioPlausiblePredictiveCoding]]
 [[BrainInspiredArchitecture]]
 [[BurstGatedRouting]]
+[[Chiplet_Integration_Route]]
 [[Complex_System_Theory]]
 [[ExplainableEnergyAI]]
 [[Gut_Brain_Immune_Network]]

@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Meta_Residual_Learning]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
+[[PhysicalSubstrateReservoir]]
 [[Reservoir_Computing]]
 [[SDDE_Attractor_Emergence]]
 [[SpectralSupportAnalysis]]

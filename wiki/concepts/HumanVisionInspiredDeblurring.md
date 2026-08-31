@@ -26,8 +26,10 @@ Auto-extracted concept from raw material compilation.
 [[BrainInspired_Chip]]
 [[ConductingPolymerDendriteMemory]]
 [[Continuous_Spatiotemporal_State_Propagation]]
+[[EnergyEfficientRestoration]]
 [[Event_Driven_Architecture]]
 [[Neuromorphic_Computing]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Critical_Region_Extension]]
 [[DTGA]]
 [[FPGA_Reconfigurability]]
+[[FatalityDrivenRewiring]]
 [[InSitu_Adjoint_Wave_Control]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

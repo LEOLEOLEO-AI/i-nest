@@ -30,9 +30,12 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Planning_Architecture]]
+[[SDI_Bond]]
 [[SDI_iNEST_Interconnect]]
 [[Spiking_Neural_Network]]
+[[ThresholdBasedSpikeEncoding]]
 [[iNEST]]
+[[iNEST_Interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

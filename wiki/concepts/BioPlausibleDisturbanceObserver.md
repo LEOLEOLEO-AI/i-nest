@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Avoided_Criticality]]
 [[BrainBodyResonance]]
 [[BulletTrainScheduling]]
+[[BurstTemporalPlasticity]]
 [[CST_Theory]]
 [[CST_Theory_V27_FINAL]]
 [[Catastrophic_Forgetting_Mitigation]]

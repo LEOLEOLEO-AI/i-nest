@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[FeFET_Polarization_Switching]]
 [[FerroelectricMemoryCell]]
 [[Ferroelectric_Devices]]
+[[Free_Energy_Minimization_Interconnect]]
 [[HierarchicalAttention_MIL]]
 [[Intelligence_Emergence]]
 [[InterconnectConstrainedEmergence]]

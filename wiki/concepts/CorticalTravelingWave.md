@@ -52,12 +52,16 @@ Auto-extracted concept from raw material compilation.
 [[Network_Specific_Embedding_Separation]]
 [[Neuromorphic_Computing]]
 [[OnChipWeightUpdate]]
+[[SDI_Bond]]
+[[SDI_STDP]]
 [[SDI_STDP_Rule]]
 [[SDPrompt_Guided_Dynamic_Expert_Fusion]]
+[[STDP_Plasticity]]
 [[Swarm_Intelligence_Maximisation]]
 [[Synaptic_Plasticity]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
 
 ## Sources

@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[NetworkInfluenceDynamics]]
 [[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]
+[[RecursiveTopologyBreakthrough]]
 [[Self_Organized_Criticality]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]

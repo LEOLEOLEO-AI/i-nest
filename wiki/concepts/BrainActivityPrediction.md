@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkNeuromorphicEmergence]]
 [[InNetworkNeuromorphicSimulation]]
 [[In_Network_Neuromorphic]]
+[[In_Network_Neuromorphic_Processing]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Memristive_Solutions]]

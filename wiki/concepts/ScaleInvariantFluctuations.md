@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Machine_Decision_Speed_Advantage]]
 [[Network_Topology_Design]]
+[[Photopolymerization_NoC]]
 [[Scale_Free_Dynamics]]
 [[Scale_Free_Dynamics_Encoding]]
 [[SpinGlassOrderAbsence]]

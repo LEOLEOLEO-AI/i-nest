@@ -1,7 +1,7 @@
 ---
 title: "专利披露·H5"
 hypothesis: "H5"
-date: 2026-08-31
+date: 2026-09-01
 patentability: HIGH
 categories: ["hardware", "method"]
 type: patent-disclosure
@@ -45,5 +45,5 @@ TCC×iNEST: SDI软件定义互连可实现类突触可塑性拓扑重构
 - [ ] 与相关论文发表策略协调（先申专再发论文）
 
 ---
-*由 patent_scout.py 于 2026-08-31T15:52:49.802850 自动生成*
+*由 patent_scout.py 于 2026-09-01T04:09:48.147466 自动生成*
 *来源假设: H5 | 来源桥接: SDI_Plastic_Interconnect*

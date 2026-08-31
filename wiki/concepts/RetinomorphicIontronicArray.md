@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[BandedConnectivityModel]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[BigBrainCellularAxis]]
+[[Biologically_Plausible_Learning_Rules]]
 [[BoundaryObject_Abstraction]]
 [[BrownianCastleInterface]]
 [[BrownianCastleInterfaces]]

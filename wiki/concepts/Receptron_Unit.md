@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[Accessibility_Plasticity]]
 [[AdaptiveArchitecture]]
+[[BioInspired_Interception_Control]]
 [[Biologically_Plausible_Learning_Rules]]
 [[BurstGatedRouting]]
 [[CriticalityDrivenStateTransition]]

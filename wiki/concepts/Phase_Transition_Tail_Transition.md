@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Biomanufacturing_Control_Loop]]
 [[BranchingRatio]]
 [[BurstTemporalPlasticity]]
+[[CertifiedBifurcationDetection]]
 [[Cognitive_Relapse_Architecture]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]

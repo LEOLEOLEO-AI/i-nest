@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveTimeStepTraining]]
 [[AmorphousSolidPlasticity]]
 [[AnisotropicGaussianPrimitives]]
+[[BayesianDomainEvolution]]
 [[Biomanufacturing_Control_Loop]]
 [[BranchingRatio]]
 [[BurstTemporalPlasticity]]

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstInterleaving]]
 [[Closed_Loop_Neuromodulation]]
 [[ContinualLearningOnNeuromorphic]]
+[[Continual_Learning_Modularity]]
 [[ContinuousGameOfLife]]
 [[CrossDomain_Abstraction]]
 [[CrossDomain_Synthesis]]

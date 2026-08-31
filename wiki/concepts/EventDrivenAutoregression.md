@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[3D_Torus_6_Degree]]
 [[AI_Faculty_Forum_2026]]
+[[Avoided_Criticality]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]

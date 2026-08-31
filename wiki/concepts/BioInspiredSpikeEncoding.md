@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Packaging]]
+[[OpportunisticRoutingRL]]
 [[PairwiseCorrelationConstraint]]
 [[SpikeEncoding]]
 [[SpikeRatePrecisionTradeoff]]

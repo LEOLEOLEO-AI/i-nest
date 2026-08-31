@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Network_Architecture_Invariant]]
 [[DynamicServiceComposition]]
 [[ElectromigrationReliability]]
+[[GPU_Bottleneck_Relief]]
 [[GenericObjectTracking]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

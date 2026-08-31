@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[DisorderInducedEntanglementTransition]]
 [[DissipativeQuantumReservoir]]
 [[DynamicalSelfDualCriticality]]
+[[Emergent_Reservoir_Topology]]
 [[EnergyProportionalityCeiling]]
 [[GroupInteractionThreshold]]
 [[Network_Topology_Design]]

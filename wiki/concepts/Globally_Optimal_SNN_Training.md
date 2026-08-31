@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[SelfOrganizedOscillatoryLearning]]
 [[SemanticRelationTemporalGraph]]
 [[SpectralSupportAnalysis]]
+[[SpikeTimingDependentUpdate]]
 [[SpikeTimingFidelity]]
 [[Spike_Encoding_of_fMRI]]
 [[SpikingTopologyEvolution]]

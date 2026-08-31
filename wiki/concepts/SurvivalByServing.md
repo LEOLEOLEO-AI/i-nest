@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Theory]]
 [[Emergent_Intelligence_Threshold]]
+[[FeFET_Polarization_Switching]]
 [[Free_Energy_Minimization_Interconnect]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]

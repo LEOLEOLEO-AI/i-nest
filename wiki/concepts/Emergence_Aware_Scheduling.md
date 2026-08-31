@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_STDP]]
 [[SDI_TCC_iNEST_Bridge]]
 [[SDI节点接口规范与化合键定义]]
+[[SDSoW]]
 [[STDP_Plasticity]]
 [[SelfOrganization]]
 [[SpikeEncoding]]

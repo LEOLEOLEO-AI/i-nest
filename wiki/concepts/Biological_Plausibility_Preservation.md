@@ -38,6 +38,8 @@ Auto-extracted concept from raw material compilation.
 [[Asymptotic_Exact_Solution]]
 [[Barrier_Hierarchy]]
 [[BifurcationCandidateSet]]
+[[BifurcationCandidate]]
+[[CST_Spatiotemporal_Complexity]]
 [[CST计量仪]]
 [[CompactBosonDuality]]
 [[Complex_System_Theory]]

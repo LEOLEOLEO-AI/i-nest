@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TemporalBatchSynchronization]]
 [[TemporalSparsityExploitation]]
+[[ThresholdBasedSpikeEncoding]]
 [[iNEST]]
 
 ## Sources

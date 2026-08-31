@@ -23,12 +23,16 @@ Auto-extracted concept from raw material compilation.
 [[BurstInterleaving]]
 [[ChannelCountScaling]]
 [[ChipletOpticalIO]]
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Cross_Node_Event_Propagation]]
 [[Distributed_Spike_Communication]]
 [[EdgeInspectionInference]]
 [[Efficient_Coding_Constraint]]
+[[End_Side_Neuromorphic_Deployment]]
 [[Memory_Wall]]
 [[Neuromorphic_Computing]]
+[[Spiking_Neural_Network]]
 [[iNEST]]
 
 ## Sources

@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Cross_Node_Event_Propagation]]
 [[Distributed_Spike_Communication]]
 [[FixedOverheadCost]]
+[[FixedOverheadPenalty]]
 [[FlexibilityThreshold]]
 [[Neuromorphic_Computing]]
 [[OnChipWeightUpdate]]

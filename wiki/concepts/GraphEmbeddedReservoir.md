@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Connectome_Reservoir]]
 [[Contested_Priors_Mechanism]]
 [[CriticalFluctuationReservoir]]
+[[Crystallized_Neural_Manifolds]]
 [[DissipativeQuantumReservoir]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence]]

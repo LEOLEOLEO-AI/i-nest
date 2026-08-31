@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[CausalEmergenceCondition]]
 [[Complex_Network_Brain_Inspired_Computing]]
 [[Complex_System_Theory]]
+[[Complexity_Emergent_Intelligence]]
 [[ConnectomicDevelopmentalTrajectory]]
 [[CorticalWaveRouting]]
 [[Critical_Region_Extension]]

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[SOC]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]
+[[SelfInhibitionFeedbackLoop]]
 [[SpikeCodedFeatureAssociation]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

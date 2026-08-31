@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[Neuromorphic_NoC_Routing]]
 [[NoC]]
+[[RobustnessToNoiseInSNN]]
 [[SNN]]
 [[STDP_Plasticity]]
 [[ST_SNN]]

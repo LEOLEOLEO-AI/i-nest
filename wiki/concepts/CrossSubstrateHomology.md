@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Attention_Residuals]]
+[[BayesianDomainEvolution]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[BoundaryObject_Abstraction]]
 [[CST计量仪]]

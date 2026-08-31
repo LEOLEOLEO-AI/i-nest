@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicPnP]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Edge_Intrusion_Detection]]
+[[PolarityMultiSpikeMapping]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[Self_Organized_Criticality]]

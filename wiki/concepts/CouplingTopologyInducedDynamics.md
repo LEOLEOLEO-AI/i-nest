@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[Self_Organized_Criticality]]
 [[TCC]]
+[[TopologyCentricInference]]
 [[iNEST]]
 
 ## Sources

@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[JunctionCenteredFramework]]
 [[MachineLearningPotential]]
+[[MeanFieldSpinGlass]]
 [[Microbiome_Immune_Endocrine_Interplay]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Chiplet]]

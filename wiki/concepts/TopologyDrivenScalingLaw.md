@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[Biologically_Plausible_Learning_Rules]]
 [[BrownianCastleInterface]]
+[[BurstTemporalPlasticity]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[iNEST]]

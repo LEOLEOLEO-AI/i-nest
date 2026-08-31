@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeTimingEncoding]]
 [[Spiking_Neural_Network]]
 [[Swarm_Coordination]]
+[[TemporalFeaturePropagation]]
 [[UniSpike_Acceleration]]
 [[iNEST]]
 [[temporal coding]]

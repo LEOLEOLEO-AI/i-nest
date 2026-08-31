@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[BiasEvaluationMetrics]]
 [[BigBrainCellularAxis]]
 [[Bio_plausible_Neuromorphic_Disturbance_Observer]]
+[[BrainBodyResonance]]
 [[Free_Energy_Principle_Network]]
 [[Master_SDDE]]
 [[Memristive_STDP]]

@@ -26,6 +26,11 @@ Auto-extracted concept from raw material compilation.
 [[3DHI_Interconnect]]
 [[3DHI_Stacking]]
 [[3D_Heterogeneous_Integration]]
+[[3D_Integrated_Chiplet_Stacking]]
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Heterogeneous_Integration]]
+[[Network_Topology_Design]]
 [[Spaceborne_Computing_Architecture]]
 [[TCC]]
 [[TopologyProgramming]]
@@ -36,3 +41,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- OneFabric_Memory (merged 2026-09-01)

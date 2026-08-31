@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveFlexibilityThreshold]]
 [[Alpha_Computation_Consistency]]
 [[AnalogDomainCompressiveSensing]]
+[[AnytimePointCloudRecognition]]
 [[Avoided_Criticality]]
 [[Catastrophic_Forgetting_Mitigation]]
 [[Cognitive_Relapse_Decoupling]]

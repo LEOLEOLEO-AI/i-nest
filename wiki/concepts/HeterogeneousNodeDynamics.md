@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[DelayedSynapticCoupling]]
 [[ERI_2_0_Strategy]]
+[[Fading_Memory_Property]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

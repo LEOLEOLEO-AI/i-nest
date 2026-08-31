@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[BranchingRatio]]
 [[CST_Exponential_Gain]]
 [[Categorical_Reservoir_Model]]
+[[CompactMemristorCircuits]]
 [[Complex_System_Theory]]
 [[ConnectivityDerivedReservoir]]
 [[Contested_Prior_Resolution]]

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[AstrocyteInspiredRepair]]
 [[BayesianDomainEvolution]]
+[[BehavioralFeedbackLoop]]
 [[Bio_plausible_Neuromorphic_Disturbance_Observer]]
 [[Cognitive_Relapse_Architecture]]
 [[Cognitive_Relapse_Decoupling]]

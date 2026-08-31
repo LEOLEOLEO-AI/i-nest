@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Connectome_Inspired_Architecture]]
 [[Connectome_Transfer]]
 [[DataProvenanceIntegrity]]
+[[DistinctReentrantPhases]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[Heterogeneous_Integration]]

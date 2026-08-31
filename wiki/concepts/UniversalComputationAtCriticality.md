@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Driven_Criticality]]
 [[Dynamic_Expert_Fusion]]
 [[EvolvingArchitectureDynamics]]
+[[FPGA_Reconfigurability]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[HybridCouplingThermosensitiveNetwork]]
 [[InSitu_Adjoint_Wave_Control]]

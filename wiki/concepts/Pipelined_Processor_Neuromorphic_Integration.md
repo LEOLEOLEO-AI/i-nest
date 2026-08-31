@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[branch prediction]]
 [[getnote_2026-01-03_16 介观峰值定理对晶上大脑的工程指导]]
 [[getnote_2026-01-12_晶圆级神经网络能效革命]]
+[[getnote_2026-04-20_海河实验室晶上先导项目检查]]
 [[iNEST]]
 [[pipelined processor]]
 [[基于忆阻器的储备池图神经网络_RGNN_离子与电子相互作用高效建模研究]]

@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[NCL神经计算定律详解]]
 [[Network_Topology_Design]]
+[[SDI_Standard_Review]]
 [[TCC]]
 [[iNEST]]
 [[涌现]]

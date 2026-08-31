@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossTaskNeuralRepresentation]]
 [[DataDrivenCellularAxis]]
 [[DevelopmentalNeuromorphicAdaptation]]
+[[EventCameraTemporalEncoding]]
 [[FormalLinguisticCompetence]]
 [[Free_Energy_Principle_Network]]
 [[Gut_Brain_Immune_Network]]

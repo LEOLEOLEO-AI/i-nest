@@ -21,9 +21,11 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[BeyondVonNeumannArchitecture]]
+[[Bipartite_Interconnect]]
 [[Bipartite_Interconnect_Design]]
 [[CMOS_Memristor_Devices]]
 [[ChargeDomainAttention]]
+[[ConsciousIntegration]]
 [[CrossDomain_Integration]]
 [[Emerging_CMOS_Memristor_Devices]]
 [[EnergyResourceEfficiencyCoOptimization]]

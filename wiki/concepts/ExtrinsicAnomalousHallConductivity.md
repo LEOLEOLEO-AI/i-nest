@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Local_Approximation_Dynamics]]
 [[NestedRepresentation]]
 [[Network_Topology_Design]]
+[[Neural_Avalanche]]
 [[NeuromorphicSpikingTopology]]
 [[Neuromorphic_Computing]]
 [[SelfOrganization]]

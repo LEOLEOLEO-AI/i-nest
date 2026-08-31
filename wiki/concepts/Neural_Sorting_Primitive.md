@@ -30,7 +30,9 @@ Auto-extracted concept from raw material compilation.
 [[AtomicGeometryEncoding]]
 [[Attractor_State_Interpolation]]
 [[Bio_plausible_Neuromorphic_Disturbance_Observer]]
+[[Brain_Inspired_Switchless_Architecture]]
 [[Interconnect_Routing]]
+[[Neuromorphic_Computing]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
 

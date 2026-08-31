@@ -38,6 +38,8 @@ Auto-extracted concept from raw material compilation.
 [[BCM滑动阈值]]
 [[Barrier_Hierarchy]]
 [[BifurcationCandidateSet]]
+[[BifurcationCandidate]]
+[[Biocompatible_Neuromorphic_Interface]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

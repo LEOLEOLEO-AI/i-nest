@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicSynchronyMetric]]
 [[EpidemicTopologyCoevolution]]
 [[EvolvingArchitectureDynamics]]
+[[FPGA_Reconfigurability]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[JunctionCenteredRouting]]

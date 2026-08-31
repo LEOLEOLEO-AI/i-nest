@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Sensor_Fusion]]
+[[PrecisionConfigurableSparseNvCIM]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SpikeDrivenInference]]
 [[Spike_Encoding_of_fMRI]]

@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Hyper_Dimensional_Computing]]
 [[Intelligence_Emergence]]
 [[Kappa_Weibull_Distribution]]
+[[Kuramoto_Symmetry_Reduction]]
 [[MacroscopicDescriptor]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[MultiplicativeGain]]

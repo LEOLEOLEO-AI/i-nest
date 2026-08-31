@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Confinement]]
 [[Continual_Learning_Modularity]]
 [[CriticalBranching]]
+[[CriticalLearningRegime]]
 [[Criticality]]
 [[Interconnect_Routing]]
 [[MoE_Routing]]

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[ActivityAvalanche]]
 [[AdaptiveAsymmetricSurrogateGradient]]
 [[AdaptiveAsymmetricSurrogateGradients]]
+[[AdaptiveDeltaPulseFrequencyEncoding]]
 [[BioPlausiblePredictiveCoding]]
 [[BurstGatedRouting]]
 [[CSI_Temporal_Encoding]]

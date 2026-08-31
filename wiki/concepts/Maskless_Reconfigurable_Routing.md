@@ -20,12 +20,17 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[CorticalTypeDiversity]]
 [[DTGA]]
 [[Interconnect_Routing]]
+[[Interconnect_Topology]]
 [[Network_Topology_Design]]
 [[PacketRoutingOptimization]]
+[[SDSoW_Reconfigurable_Network]]
 [[System_Level_Utility_Control]]
 [[TCC]]
 [[Wafer_Scale_Integration]]

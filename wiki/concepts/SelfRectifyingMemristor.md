@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[GateBasedQuantumReservoir]]
 [[HardwareAware_DesignSpace]]
 [[Intelligence_Emergence]]
+[[MemristiveSNN]]
 [[Memristive_Topology]]
 [[Memristor]]
 [[Memristor_Synapse]]

@@ -20,6 +20,8 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Biological_Ion_Dynamics]]
+[[Electrothermal_Phase_Change]]
 [[iNEST]]
 
 ## Sources

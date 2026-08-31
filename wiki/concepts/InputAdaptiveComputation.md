@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenTrajectoryEncoding]]
 [[EventDrivenWirelessTransmission]]
 [[Event_Driven_Architecture]]
+[[Event_Driven_Processing]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Memory_Wall]]

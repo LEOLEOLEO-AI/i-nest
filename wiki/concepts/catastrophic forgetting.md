@@ -43,6 +43,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[ANN动力学]]
 [[Airborne_Link_Diversity]]
 [[AlgorithmicPhaseTransition]]
+[[Analog_InMemory_Processing]]
 [[CST_Intelligence_Emergence]]
 [[CST_Theory]]
 [[Chiplet]]

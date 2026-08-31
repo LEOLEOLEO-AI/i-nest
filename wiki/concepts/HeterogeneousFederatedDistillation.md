@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[PowerLawScaling]]
 [[PseudoSpikeBridge]]
 [[QuantumProbabilityFlowHebbian]]
+[[RealTimeImageToEventConversion]]
 [[SNN]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]

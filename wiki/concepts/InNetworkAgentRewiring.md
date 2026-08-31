@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[FPGA_Neuromorphic_Architectures]]
+[[FeFET_Polarization_Switching]]
 [[Free_Energy_Topology_Mapping]]
 [[Intelligence_Emergence]]
 [[Interconnect_Scaling]]

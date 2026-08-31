@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
+[[Yann LeCun：发现智能原理是AI的终极问题]]
 [[iNEST]]
 [[忆阻器]]
 [[新型计算]]

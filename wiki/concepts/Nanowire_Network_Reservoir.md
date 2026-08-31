@@ -37,6 +37,8 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[PhysicalReservoirTransientDynamics]]
+[[PhysicalReservoir]]
+[[Physical_Reservoir_Integration]]
 [[ReproducibleReservoirComputing]]
 [[Reservoir_Computing]]
 [[ShortTermMemoryReservoir]]

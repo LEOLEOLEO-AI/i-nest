@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Material_Circularity]]
 [[Multiplex_Epidemic_Threshold]]
 [[Nanoparticle_Network_Interconnect]]
+[[NestedLearning]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]

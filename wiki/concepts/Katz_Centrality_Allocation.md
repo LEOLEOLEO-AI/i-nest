@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[Three_Layer_Memory_Infrastructure]]
 [[VectorFlowField]]
+[[WirelessSplitComputing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_Topology]]
 [[MultiFPGAScaling]]
 [[Nanomaterial_Discovery_ML]]
+[[Nature Communications_生物神经网络中突触多样性如何让人工神经网络更强大？]]
 [[Network_Topology_Design]]
 [[NeuromorphicNetworkFabric]]
 [[NeuromorphicTransformerTopology]]

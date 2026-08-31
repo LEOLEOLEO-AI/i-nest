@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[FractalPathEntropy]]
 [[HardwareAware_DesignSpace]]
 [[HierarchicalReservoirDynamics]]
+[[MultipartiteEntanglementFractal]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[ReservoirDiversity]]

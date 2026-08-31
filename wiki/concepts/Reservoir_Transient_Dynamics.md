@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AnomalousSpinTransport]]
 [[ArbitraryWavefunctionConfigurability]]
 [[AstrocyteInspiredRepair]]
+[[BayesianDomainEvolution]]
 [[BehavioralNeuromorphicCorrelates]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[BoseCondensateAnalogy]]

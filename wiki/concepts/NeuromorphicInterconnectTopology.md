@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Packaging]]
 [[RecurrentSpikingTopology]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SNN]]
 [[ScalableNeuromorphicTopology]]
 [[SensorMemoryCoLocation]]
 [[Spiking_Neural_Network]]

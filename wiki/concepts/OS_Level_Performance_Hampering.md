@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AI-ML — 全景导航 (Map of Content)]]
 [[ANN动力学]]
 [[Analog_InMemory_Processing]]
+[[AutonomousServiceNegotiation]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[CST计量仪]]
 [[CognitiveSupportTopology]]

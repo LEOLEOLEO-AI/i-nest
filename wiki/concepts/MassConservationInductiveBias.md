@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalFluctuationReservoir]]
 [[Critical_Exponent_Scaling]]
 [[Criticality]]
+[[DissipativeQuantumReservoir]]
 [[Dynamic_Expert_Fusion]]
 [[DynamicalSelfDualCriticality]]
 [[Emergent_Intelligence]]

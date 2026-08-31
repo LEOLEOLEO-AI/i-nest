@@ -57,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[StochasticMultiAgentRL]]
 [[Synaptic_Plasticity]]
 [[TemporalLearning]]
+[[TimeToFirstSpikeEncoding]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

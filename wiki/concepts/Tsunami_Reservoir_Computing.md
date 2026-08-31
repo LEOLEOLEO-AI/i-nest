@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
+[[156QubitScale]]
 [[AnomalousSpinTransport]]
 [[AsymmetricStochasticInteractions]]
 [[AtomicVaporNonlinearity]]
@@ -33,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[ConnectivityDerivedReservoir]]
 [[Contested_Prior_Resolution]]
 [[Crystallized_Neural_Manifolds]]
+[[Edge_of_Chaos]]
 [[Intelligence_Emergence]]
 [[NonlinearProjectionEncoding]]
 [[Nonlinear_Gain]]

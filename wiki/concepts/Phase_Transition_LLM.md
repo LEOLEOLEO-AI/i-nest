@@ -36,8 +36,11 @@ Auto-extracted concept from raw material compilation.
 [[EnergyAwareLearning]]
 [[EventDrivenMotionDeblurring]]
 [[GPU_Cluster_SNN_Architecture]]
+[[GradientBasedLearningLocalization]]
 [[Intelligence_Emergence]]
+[[SNN]]
 [[Self_Organized_Criticality]]
+[[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]
 

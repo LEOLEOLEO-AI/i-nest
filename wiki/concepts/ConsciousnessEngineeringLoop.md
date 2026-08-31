@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[PacketRoutingOptimization]]
 [[QuarantineCostTradeoff]]
 [[RobustnessThroughNoise]]
+[[SparseHubsCoupling]]
 [[SpatiotemporalCooperativeIntelligence]]
 [[Spiking_Neural_Network]]
 [[SuperparamagneticSwitchingRate]]

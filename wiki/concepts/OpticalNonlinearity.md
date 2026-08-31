@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[MagneticMetamaterialReservoir]]
 [[MeasurementInducedNonlinearity]]
+[[Memristive_STDP]]
 [[Memristive_Topology]]
 [[Memristor]]
 [[Memristor_Synapse]]

@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Critical_Region_Extension]]
 [[DelayTolerantNetworkUAV]]
 [[EvolvingArchitectureDynamics]]
+[[FPGA_Reconfigurability]]
 [[HybridCouplingThermosensitiveNetwork]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

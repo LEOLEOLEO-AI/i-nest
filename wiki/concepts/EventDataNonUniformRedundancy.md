@@ -26,6 +26,8 @@ Auto-extracted concept from raw material compilation.
 [[ImmobilizationStabilityEnhancement]]
 [[In_Network_Neuromorphic]]
 [[Network_on_Chip]]
+[[Neuromorphic_Computing]]
+[[Neuromorphic_NoC_Routing]]
 [[NoC]]
 [[SNN]]
 [[Spiking_Neural_Network]]

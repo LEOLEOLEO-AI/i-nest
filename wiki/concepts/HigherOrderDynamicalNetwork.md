@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
 [[Complex_System_Theory]]
+[[Cryogenic_Syndrome_Compression]]
 [[Deep_Thermalisation]]
 [[EntanglementAwareRouting]]
 [[Fractal_Multipartite_Entanglement]]

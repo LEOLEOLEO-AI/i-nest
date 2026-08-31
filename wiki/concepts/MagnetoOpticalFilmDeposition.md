@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Inference_Flow_Stage_Aware_Topology]]
 [[Inference_Stage_Decomposition]]
 [[Intelligence_Emergence]]
+[[Logic_Folding]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC]]

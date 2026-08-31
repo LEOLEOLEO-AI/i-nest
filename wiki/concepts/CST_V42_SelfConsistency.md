@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[ERI_2_0_Strategy]]
 [[Fading_Memory_Property]]
+[[GNN图神经网络，非结构化数据分析利器！]]
 [[HighSpeedInference]]
 [[Hippocampal_Spatiotemporal_Prior]]
 [[Intelligence_Emergence]]

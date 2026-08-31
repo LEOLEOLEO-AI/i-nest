@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AnomalousSpinTransport]]
 [[Architectural_Conditioning]]
 [[Attention_Residuals]]
+[[BayesianDomainEvolution]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[BoundaryObject_Abstraction]]
 [[Brain_Connectome]]

@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration_Route]]
 [[Chiplet_Topology]]
 [[Complex_System_Theory]]
+[[Concepts-Theory — 全景导航 (Map of Content)]]
 [[ExtensiveWidthShallowNN]]
 [[Heterogeneous_Integration]]
 [[HierarchicalNetworkPartitioning]]

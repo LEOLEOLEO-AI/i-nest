@@ -20,6 +20,8 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[2_5D_Interposer]]
+[[3D_IC_Stacking]]
 [[4H_SiC_SubstrateProcessing]]
 [[ByteDance_Ada_Chip]]
 [[ConvexNonConvexTradeoff]]
@@ -27,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Decoupled_Priors]]
 [[Inference_Stage_Decomposition]]
 [[IrregularNeuralReduction]]
+[[Network_Topology_Design]]
 [[TCC]]
 [[ThroughSiliconVia_TSV_ThermalPath]]
 [[Topology_Induced_Robustness]]

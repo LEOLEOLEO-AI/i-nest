@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityEntanglementIndex]]
 [[CriticalityInducedTopology]]
 [[Criticality]]
+[[Criticality_Metric_Extraction]]
 [[Criticality_of_Natural_Languages]]
 [[Network_Topology_Design]]
 [[Reservoir_Computing]]

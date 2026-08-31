@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[BosonicFieldTopology]]
 [[CatalyticReactionNetwork]]
 [[Complex_System_Theory]]
+[[DAGGER_Algorithm]]
 [[Intelligence_Emergence]]
 [[Ising_Formulation]]
 [[Network_Topology_Design]]

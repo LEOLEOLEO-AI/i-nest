@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[LLMDrivenPathSelection]]
 [[Network_Topology_Design]]
 [[OpenLearningEcosystem]]
+[[SpectralGapMoE]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[涌现]]

@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[FirstTimestepConversion]]
 [[GPU_Cluster_SNN_Architecture]]
+[[GeometricNeuromorphicFusion]]
 [[Intelligence_Emergence]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]

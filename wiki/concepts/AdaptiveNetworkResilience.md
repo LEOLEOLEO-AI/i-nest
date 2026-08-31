@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Weight_Storage]]
 [[Architectural_Conditioning]]
 [[Attention_Residuals]]
+[[AutonomousAdaptation]]
 [[Cognitive_Relapse_Architecture]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Roadmap]]

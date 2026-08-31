@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenRiskAssessment]]
 [[EventDrivenTracking]]
 [[Event_Driven_Architecture]]
+[[Event_Driven_Processing]]
 [[FoveationGuidedTokenSelection]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

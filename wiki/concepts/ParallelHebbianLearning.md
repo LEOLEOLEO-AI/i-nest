@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[DeeplySupervisedSpiking]]
 [[EnsembleSparsity]]
+[[Event_Driven_Architecture]]
 [[Hardware_Accelerated_SNN]]
 [[Hardware_Neuron_Equations]]
 [[Heterogeneous_Integration]]

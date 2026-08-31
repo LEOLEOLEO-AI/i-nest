@@ -34,10 +34,12 @@ Auto-extracted concept from raw material compilation.
 [[HighThroughputPhenotyping]]
 [[HybridCouplingThermosensitiveNetwork]]
 [[InterDomain_Synergy]]
+[[Interconnect_Routing]]
 [[Neural_Manifold_Crystallization]]
 [[Neuromorphic_Computing]]
 [[OpenLearningEcosystem]]
 [[PacketRoutingForFPGAs]]
+[[PacketRoutingOptimization]]
 [[analog computation]]
 [[iNEST]]
 

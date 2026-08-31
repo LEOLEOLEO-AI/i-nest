@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[BoseCondensateNeuralAnalogy]]
 [[BosonicFieldTopology]]
 [[CatalyticReactionNetwork]]
+[[Channel_Decoding_Energy_Landscape]]
 [[Complex_System_Theory]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

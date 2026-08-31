@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
 [[12_三原理协同_FEP_最小作用量_STDP]]
 [[AI-ML — 全景导航 (Map of Content)]]
+[[AI_Supply_Chain_Increment]]
 [[CognitiveSupportTopology]]
 [[CollectiveConsensus]]
 [[Complex_System_Theory]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[LocalStructuralPlasticity]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Interconnect]]
 [[SDI_Bond]]
 [[STDP_Plasticity]]
 [[SpatiotemporalCooperativeIntelligence]]
@@ -45,7 +47,6 @@ Auto-extracted concept from raw material compilation.
 [[WavelengthMultiplexedInterconnect]]
 [[analog computation]]
 [[iNEST]]
-[[neuromorphic interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

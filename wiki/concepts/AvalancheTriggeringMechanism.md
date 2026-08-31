@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[IntegratedSensingFusion]]
 [[IntegrationProspectsForVLSI]]
 [[Intelligence_Emergence]]
+[[Loihi2_OnChip_Learning]]
 [[Network_Topology_Design]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Chiplet]]

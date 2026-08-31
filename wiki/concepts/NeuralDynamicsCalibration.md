@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[EnergyEfficientNeuromorphic]]
 [[ErrorAmplificationLimits]]
 [[Frontier_Innovation_Mapping]]
+[[GradientBasedSpikeLearning]]
 [[Interconnect_Routing]]
 [[LatencyGradientDescent]]
 [[LossSpikePhenomenon]]

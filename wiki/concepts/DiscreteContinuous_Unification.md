@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Avoided_Criticality]]
 [[BulletTrainScheduling]]
+[[BurstTemporalPlasticity]]
 [[CirculateFiringNeuron]]
 [[Contested_Prior_Resolution]]
 [[Criticality]]

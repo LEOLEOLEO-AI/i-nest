@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Application_Scenario_Reconstruction]]
 [[CompactMemristorCircuits]]
 [[CouplingTopologyInducedDynamics]]
 [[Coupling_Topology]]
@@ -30,6 +31,8 @@ Auto-extracted concept from raw material compilation.
 [[DataDrivenMaterialDesign]]
 [[ErrorSuppressedPipeline]]
 [[Generative_Graph_Models]]
+[[Memristor]]
+[[Memristor_Synapse]]
 [[NCA_Reservoir]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

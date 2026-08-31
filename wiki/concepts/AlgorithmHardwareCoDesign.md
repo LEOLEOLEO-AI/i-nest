@@ -1,12 +1,12 @@
 ---
-title: "AlgorithmHardware_CoDesign"
+title: "Algorithm_Hardware_CoDesign"
 type: concept
 domain: Cross
 created: 2026-08-31
 auto: true
 ---
 
-# AlgorithmHardware_CoDesign
+# Algorithm_Hardware_CoDesign
 
 **Domain**: Cross
 **First mentioned**: auto-extracted
@@ -25,8 +25,9 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[ANN_SNN_ConversionError]]
 [[ANN_SNN_WeightSpaceGap]]
+[[Adaptive_Deep_Brain_Stimulation]]
 [[AddressRedundancyElimination]]
-[[AlgorithmHardware_CoDesign]]
+[[Algorithm_Hardware_CoDesign]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]

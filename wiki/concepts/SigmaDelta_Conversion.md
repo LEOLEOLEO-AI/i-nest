@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[ClassificationPerformance]]
 [[ClinicalPredictionMapping]]
 [[ClinicalTranslationBridge]]
+[[CoEvolvedSpikingEnsembles]]
 [[Complex_System_Theory]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]

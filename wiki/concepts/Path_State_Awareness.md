@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NonreciprocalQuasiperiodicLattice]]
 [[OpenLearningEcosystem]]
+[[PhotonicSynapticPlasticity]]
 [[Quantum_Criticality]]
 [[SelfOrganization]]
 [[Self_Organized_Criticality]]

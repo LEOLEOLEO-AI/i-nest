@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet，解决车规芯片既要、又要、还要难题的唯一解？_智车星球]]
+[[ClassicalQuantum_Query_Benchmark]]
 [[Complex_System_Theory]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]

@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[Neuromorphic_Planning_Architecture]]
 [[SDI_Bond]]
 [[SDI_iNEST_Interconnect]]
 [[SNN]]

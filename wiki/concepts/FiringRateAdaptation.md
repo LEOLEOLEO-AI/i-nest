@@ -56,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[TCC_Neuromorphic_Integration]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
 [[神经网络]]
 

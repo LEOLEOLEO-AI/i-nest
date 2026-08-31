@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[CytoarchitectonicAxis]]
 [[DataDrivenCytoarchitectonicAxis]]
+[[DynamicTokenSparsity]]
 [[Dynamical_State_Space]]
 [[DynamicsMatchedReservoir]]
 [[Emergent_Reservoir_Topology]]

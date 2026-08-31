@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[ReconfigurableSNN_Accelerator]]
 [[ReconfigurableSpikingRouting]]
+[[Reconfigurable_Neuromorphic_Acceleration]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[SelfOrganization]]

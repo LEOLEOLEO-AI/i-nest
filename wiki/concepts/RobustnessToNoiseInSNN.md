@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Faculty_Forum_2026]]
 [[BigBrainCellularAxis]]
 [[Complexity_Emergence]]
 [[ConsciousnessEngineeringLoop]]
@@ -42,7 +43,9 @@ Auto-extracted concept from raw material compilation.
 [[STDP_iNEST]]
 [[SpikeEncoding]]
 [[SpikeRoutingFabric]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[ThresholdBasedSpikeEncoding]]
 [[iNEST]]

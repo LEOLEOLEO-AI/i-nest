@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[CST计量仪]]
 [[CausalEmergenceCondition]]
+[[Causal_Emergence_Integration]]
 [[Complex_System_Theory]]
 [[CrystalPalace_Program]]
 [[DataDrivenMaterialDesign]]

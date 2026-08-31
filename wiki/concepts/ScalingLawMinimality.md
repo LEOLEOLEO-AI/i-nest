@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CSI_Temporal_Encoding]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[CombinatorialOptimizationReservoirMapping]]
+[[CombinedImportanceScoring]]
 [[Course_Based_FPGA_Projects]]
 [[ElasticSpikingTransformer]]
 [[ErrorSuppressedPipeline]]

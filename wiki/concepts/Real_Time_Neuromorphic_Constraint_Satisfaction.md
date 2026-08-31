@@ -34,6 +34,8 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenWeightUpdate]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
+[[Interconnect_Routing]]
+[[LossSpikePhenomenon]]
 [[MixedSignalSNN_CoDesign]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

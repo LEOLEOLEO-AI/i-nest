@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[SequentialMultiObjectiveTopologyPlanning]]
 [[TCC]]
+[[UniversalComputationAtCriticality]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalFixedPoint]]
 [[DendriticReservoirState]]
 [[EcosystemTopologyCoupling]]
+[[Edge_of_Chaos]]
 [[Edge_of_Chaos_Coastal_Dynamics]]
 [[EmergentTaskDecomposition]]
 [[Epidemic_Mitigation_Strategy]]
@@ -52,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[Phase_Transition_Tail_Transition]]
 [[Readout_Layer_Training]]
+[[ReservoirDiversity]]
 [[Reservoir_Computing]]
 
 ## Sources

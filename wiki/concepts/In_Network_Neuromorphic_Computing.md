@@ -26,7 +26,9 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[BoundaryObject_Abstraction]]
 [[CST计量仪]]
+[[Complex_System_Theory]]
 [[In_Network_Neuromorphic]]
+[[Intelligent_Power_Management]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[iNEST]]
@@ -36,3 +38,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- In_Network_Neuromorphic_Computing (merged 2026-09-01)

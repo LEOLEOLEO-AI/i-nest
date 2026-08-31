@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AcousticAnomalyDetection]]
 [[ActiveDendriteSNN]]
 [[Activity_Energy_Tradeoff]]
+[[Adaptive_Replication_Strategy]]
 [[Avoided_Criticality]]
 [[Baseline_Change_Record]]
 [[Bidirectional_Temporal_Enhancement]]

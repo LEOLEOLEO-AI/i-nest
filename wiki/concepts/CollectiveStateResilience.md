@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CoreComputationSubspace]]
 [[CouplingMatrixRecovery]]
 [[Course_Based_FPGA_Projects]]
+[[Crystallized_Neural_Manifolds]]
 [[EmergentOrder]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]

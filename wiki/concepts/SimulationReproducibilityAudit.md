@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[ComplexSystem_Definition]]
 [[Complex_System_Theory]]
@@ -37,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle_Network]]
 [[Free_Energy_Topology_Mapping]]
 [[Heterogeneous_Integration]]
+[[HodgkinHuxleyDynamics]]
 [[Intelligence_Emergence]]
 [[Intelligent_Computing_Infrastructure]]
 [[Memory_Wall]]
@@ -65,7 +67,6 @@ Auto-extracted concept from raw material compilation.
 [[TemporalComplexity]]
 [[TopologyProgramming]]
 [[analog computation]]
-[[chiplet interconnect]]
 [[iNEST]]
 [[residual connection]]
 

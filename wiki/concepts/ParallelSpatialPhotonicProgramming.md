@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicRoutingOptimization]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
+[[PipelinedReadout]]
 [[SNN]]
 [[SpatialPhotonicProgramming]]
 [[Spiking_Neural_Network]]

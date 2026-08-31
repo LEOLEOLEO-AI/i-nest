@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicCentralitySteering]]
 [[EvolvingArchitectureDynamics]]
 [[HybridCouplingThermosensitiveNetwork]]
+[[InSitu_Adjoint_Wave_Control]]
 [[Interconnect_Routing]]
 [[JunctionCenteredRouting]]
 [[Network_Topology_Design]]

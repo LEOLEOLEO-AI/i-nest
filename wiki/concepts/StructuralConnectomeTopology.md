@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Connectome_Inspired_Architecture]]
 [[Connectome_Transfer]]
 [[Connectome_Verification_Protocol]]
+[[CriticalPhaseTransitionStatisticalTest]]
 [[DataProvenanceIntegrity]]
 [[FrozenRateOperator]]
 [[Memristor]]

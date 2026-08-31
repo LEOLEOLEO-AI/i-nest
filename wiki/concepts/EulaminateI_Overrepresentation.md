@@ -27,12 +27,18 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[ANN动力学]]
 [[AdaptiveNetworkResilience]]
+[[BehavioralNeuromorphicCorrelates]]
+[[Complex_System_Theory]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[SOC]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- EulaminateI_Overrepresentation (merged 2026-09-01)

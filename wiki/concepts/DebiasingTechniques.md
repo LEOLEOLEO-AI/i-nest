@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[DARPA_ProjectManager_Model]]
 [[ErrorSuppressedPipeline]]
+[[EventDrivenAsync]]
 [[EventDrivenAsynchronousRouting]]
 [[EventDrivenRiskAssessment]]
 [[EventDrivenTracking]]
@@ -44,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[SOC]]
 [[SpikeDrivenDataAssociation]]
+[[SpikingNeuralNetworkTopologyMapping]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[CrashHotspotForecasting]]
 [[CrossLayer_SignalRouting]]
+[[DirectTrainingSNN]]
 [[DivergentHigherAreaRanking]]
 [[EnergyEfficientNeuromorphic]]
 [[EvolutionarySpikeTimingOptimization]]

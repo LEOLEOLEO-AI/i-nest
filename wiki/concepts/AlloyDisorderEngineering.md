@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Packaging]]
 [[Power_Density_Law]]
+[[RecurrentSpikingTopology]]
 [[SNN]]
 [[SelfOrganizedOscillatoryLearning]]
 [[Self_Organized_Criticality]]

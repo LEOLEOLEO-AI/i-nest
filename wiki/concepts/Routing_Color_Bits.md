@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Anisotropic_Correlation_Length]]
 [[CircuitTopologyEncoding]]
 [[Complex_System_Theory]]
+[[ControlDrivenCriticalFluctuations]]
 [[Critical_Region_Extension]]
 [[DelayPropagationDynamics]]
 [[Emergent_Order_Deep_Belief_Networks]]

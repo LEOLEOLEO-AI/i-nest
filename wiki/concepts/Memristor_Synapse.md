@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor]]
 [[Memristor_Network]]
 [[MultiplicativeGain]]
+[[Network_CST]]
 [[Network_Topology_Design]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
@@ -61,6 +62,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]
 [[TemporalComplexity]]
+[[TemporalDynamicsModeling]]
 [[ThermalNoiseHarnessing]]
 [[TopologyFragility]]
 [[complex system]]
@@ -73,3 +75,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- Memristor_Synapse (merged 2026-09-01)

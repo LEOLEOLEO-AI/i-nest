@@ -20,15 +20,20 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[ActiveDendriteSNN]]
 [[BurstTemporalPlasticity]]
 [[EventDrivenSynchronization]]
 [[FlexibilityThreshold]]
 [[Memristive_Solutions]]
 [[Network_Topology_Design]]
+[[SDI_Bond]]
 [[SDI_STDP]]
 [[SNN]]
+[[STDP_Plasticity]]
 [[STDP_iNEST]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 
 ## Sources
@@ -36,3 +41,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- SNN_TopologyOptimization (merged 2026-09-01)

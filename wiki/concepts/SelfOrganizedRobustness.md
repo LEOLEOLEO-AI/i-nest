@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AINext_Initiative]]
+[[AlternativeBridgingModels]]
 [[AnisotropicGaussianPrimitives]]
 [[Architectural_Conditioning]]
 [[Contested_Prior_Resolution]]

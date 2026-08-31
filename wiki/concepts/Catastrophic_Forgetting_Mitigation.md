@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[BioPlausibleDisturbanceObserver]]
 [[BrainBodyResonance]]
 [[BulletTrainScheduling]]
+[[BurstTemporalPlasticity]]
 [[CST_Theory]]
 [[CST_Theory_V27_FINAL]]
 [[Chiplet]]

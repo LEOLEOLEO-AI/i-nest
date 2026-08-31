@@ -21,6 +21,8 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3DHI_Interconnect]]
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
 [[Compute_Centric_NoC]]
 [[CongestionAwareNoCPlacement]]
@@ -28,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[MeshReduce_U]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
+[[NoC_SDI_Topology]]
 [[P_Paradigm]]
 [[TCC]]
 

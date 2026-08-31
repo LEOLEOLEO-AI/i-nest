@@ -33,11 +33,13 @@ Auto-extracted concept from raw material compilation.
 [[HighThroughputPhenotyping]]
 [[HybridCouplingThermosensitiveNetwork]]
 [[InterDomain_Synergy]]
+[[Network_Topology_Design]]
 [[Neural_Manifold_Crystallization]]
 [[Neuromorphic_Computing]]
 [[OpenLearningEcosystem]]
 [[QuantumDistillation]]
 [[Reconfigurable_Neural_Topology]]
+[[STDPDrivenConnectivity]]
 [[analog computation]]
 [[iNEST]]
 

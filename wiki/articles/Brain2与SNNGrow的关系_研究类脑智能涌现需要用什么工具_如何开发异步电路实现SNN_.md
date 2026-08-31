@@ -22,6 +22,7 @@ SNN, STDP, neuromorphic, 忆阻, 拓扑, 神经形态, 类脑
 [[SNN]]
 [[STDP_Plasticity]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 [[智能涌现]]
 [[涌现]]

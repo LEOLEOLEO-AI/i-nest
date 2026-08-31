@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[AI_Faculty_Forum_2026]]
 [[ActivityAvalanche]]
+[[Analog_Synaptic_Behavior]]
 [[Avoided_Criticality]]
 [[Criticality]]
 [[Distributed_Spike_Communication]]

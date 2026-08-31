@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Continuous_Control_SNN_Stability]]
 [[Criticality]]
 [[DiscreteContinuous_Unification]]
+[[FormalLinguisticCompetence]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Planning_Architecture]]
 [[NoiseDrivenBackpropReconstruction]]

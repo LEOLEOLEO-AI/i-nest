@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[ERI_2_0_Strategy]]
 [[EntanglementSignatures]]
+[[GeometricRegularizationLoss]]
 [[Hippocampal_Encoding_Mechanism]]
 [[Intelligence_Emergence]]
 [[MagicStateDistillationOverheadModel]]

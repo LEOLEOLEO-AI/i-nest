@@ -1,0 +1,38 @@
+---
+title: "LC_Resonance_Emergence"
+type: concept
+domain: Cross
+created: 2026-09-01
+auto: true
+---
+
+# LC_Resonance_Emergence
+
+**Domain**: Cross
+**First mentioned**: auto-extracted
+**Last updated**: 2026-09-01
+
+## Definition
+A theoretical analogy in which the emergence of intelligence is compared to LC circuit resonance, where high Q-factor corresponds to maximum energy efficiency and thus an 'intelligence-first' regime. It provides a physical-style metric for recognizing when a non-conventional computing architecture is genuinely worth pursuing.
+
+## Context
+Auto-extracted concept from raw material compilation.
+
+## Related Work
+
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
+[[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
+[[03 涌现：整体的能力不能还原回个体？ - 得到APP]]
+[[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
+[[1024_Card_SuperNode]]
+[[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
+[[11_SDI节点接口规范与化合键定义_dup]]
+[[12_三原理协同_FEP_最小作用量_STDP]]
+[[156QubitScale]]
+[[Intelligence_Emergence]]
+
+## Sources
+- See wiki/articles/ for source article summaries
+
+## Open Questions
+- *(Explore connections to other concepts)*

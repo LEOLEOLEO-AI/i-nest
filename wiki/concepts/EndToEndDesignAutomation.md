@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[ChipletRoutingFabric]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Complex_System_Theory]]
 [[CorticalTypeDiversity]]
@@ -39,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[HierarchicalNetworkPartitioning]]
 [[Intelligent_Computing_Infrastructure]]
 [[Interconnect_Routing]]
+[[Interconnect_Topology]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[NegotiationAwareRouting]]
@@ -50,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[Translation_Invariant_Closure]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[Γst_Revision]]
 [[神经网络]]
 

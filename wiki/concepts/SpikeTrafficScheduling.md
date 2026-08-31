@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality_Based_Feature_Extraction]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
+[[EventDrivenModularArchitecture]]
 [[FlexibleNeuromorphicAccelerator]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]

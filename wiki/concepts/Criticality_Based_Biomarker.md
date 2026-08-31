@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[Cognitive_Relapse_Decoupling]]
 [[Continual_Learning_Modularity]]
+[[CriticalBranching]]
 [[CriticalityConstrainedPruning]]
 [[Criticality]]
 [[EEG_Criticality]]

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveDensityControl]]
 [[AdaptiveLocalLearning]]
 [[AdaptiveSTDP]]
+[[Avoided_Criticality]]
 [[BrainBodyResonance]]
 [[BurstTemporalPlasticity]]
 [[Cognitive_Relapse_Architecture]]

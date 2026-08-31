@@ -33,6 +33,8 @@ Auto-extracted concept from raw material compilation.
 [[CST_CoordinationMechanism]]
 [[CircadianGateModulation]]
 [[Comparative_Formulation_Analysis]]
+[[Complex_System_Theory]]
+[[Connectome_Verification_Protocol]]
 [[PhysicalReservoir]]
 [[Reservoir_Computing]]
 [[iNEST]]

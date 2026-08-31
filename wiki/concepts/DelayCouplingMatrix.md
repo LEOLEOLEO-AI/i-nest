@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[Complex_System_Theory]]
 [[Complexity_Coordination_Layer]]
+[[Cryogenic_Syndrome_Compression]]
 [[Environmental_Capability_Context]]
 [[FloquetDriving]]
 [[Free_Energy_Principle_Network]]

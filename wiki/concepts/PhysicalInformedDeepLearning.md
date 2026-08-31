@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Network_Computation]]
 [[EnergyEfficiencyAI]]
 [[Evaluation_Metric_Suite]]
+[[GenerationalAITransition]]
 [[Intelligence_Emergence]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicHardware]]

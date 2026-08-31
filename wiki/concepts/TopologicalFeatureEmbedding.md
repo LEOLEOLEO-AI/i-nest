@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[DendriticReservoirState]]
 [[DualTopologyProductSplit]]
 [[ERI_2_0_Strategy]]
+[[EndToEndDesignAutomationFlow]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[NetworkMechanismsOfWaveGeneration]]

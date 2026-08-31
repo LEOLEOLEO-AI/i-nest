@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[ConstraintDrivenOptimization]]
 [[ControlDrivenCriticalFluctuations]]
+[[ControlTheoreticTopology]]
 [[Critical_Region_Extension]]
 [[DelayTolerantNetworkUAV]]
 [[DynamicSynchronyMetric]]

@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
+[[RunawayAvalanche]]
 [[SimulabilityThreshold]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveArchitecture]]
 [[AdaptivePhotonicRouter]]
 [[Adaptive_Service_Reconfiguration]]
+[[AgenticServiceOrchestration]]
 [[BackflowTransformation]]
 [[BurstGatedRouting]]
 [[Cognitive_Relapse_Decoupling]]

@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[AtomicGeometryEncoding]]
 [[BrownianCastleInterface]]
 [[BurstTemporalPlasticity]]
+[[CouplingTopologyMemoryLink]]
 [[CrossLayer_SignalRouting]]
 [[EventDrivenTemplateUpdate]]
 [[Interconnect_Routing]]

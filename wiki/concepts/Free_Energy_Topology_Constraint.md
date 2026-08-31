@@ -39,6 +39,8 @@ Auto-extracted concept from raw material compilation.
 [[Decoupling_Mechanism]]
 [[Free_Energy_Topology_Mapping]]
 [[GenerativeTopologyModels]]
+[[Heterogeneous_Integration]]
+[[Inference_Workload_Profiling]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[RISBeamSpatialSignature]]

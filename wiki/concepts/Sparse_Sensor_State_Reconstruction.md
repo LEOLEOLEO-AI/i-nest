@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration_Route]]
 [[Chiplet_Stacking]]
 [[Complex_System_Theory]]
+[[DataProvenanceIntegrity]]
 [[Heterogeneous_Integration]]
 [[Memory_Wall]]
 [[Network_on_Chip]]
@@ -44,12 +45,16 @@ Auto-extracted concept from raw material compilation.
 [[ReproducibleReservoirComputing]]
 [[Reservoir_Computing]]
 [[Residual_Connection_Removal]]
+[[SDI_Bond]]
 [[SDI_TCC_iNEST_Interconnect]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[Spin_Wave_Propagation]]
 [[Sub_Nyquist_Waveform_Reconstruction]]
+[[TCC]]
+[[TCC_iNEST_Interconnect]]
 [[iNEST]]
+[[iNEST_Interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

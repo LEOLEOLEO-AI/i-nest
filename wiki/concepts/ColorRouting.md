@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[AI_Forum_Demo_Narrative]]
 [[Interconnect_Routing]]
+[[Kinematic_Waves]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[SixClassSkeletonAsRPrimitiveSpace]]

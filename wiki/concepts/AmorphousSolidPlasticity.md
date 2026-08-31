@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[EndToEndDesignAutomationFlow]]
 [[EndToEndDesignAutomation]]
 [[Fading_Memory_Property]]
+[[ImaginaryGaugePhaseImprint]]
 [[Intelligence_Emergence]]
 [[Memristive_STDP]]
 [[Network_Topology_Design]]

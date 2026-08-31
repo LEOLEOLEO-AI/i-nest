@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[SNN]]
 [[Spiking_Neural_Network]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[analog computation]]
 [[iNEST]]
 

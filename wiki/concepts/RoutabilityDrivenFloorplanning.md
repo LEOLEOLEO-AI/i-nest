@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
+[[Chiplet_Interconnect]]
 [[CommunicationAwareComputeRelocation]]
 [[Course_Based_FPGA_Projects]]
 [[FirstPrinciples_Derivation]]
@@ -41,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Network]]
 [[Memristor_Synapse]]
 [[MetaFAIR_ArchitectureDiscovery]]
+[[MicroRouter_Embedding]]
 [[MobilityEdge]]
 [[Network_Topology_Design]]
 [[NonEquilibriumComputing]]
@@ -56,7 +58,6 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
-[[chiplet interconnect]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

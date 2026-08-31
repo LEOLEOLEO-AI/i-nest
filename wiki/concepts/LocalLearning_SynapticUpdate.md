@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[SparseCodingEfficiency]]
 [[Spike_Event_Driven_Attention]]
+[[SpikingNeuralPolicies]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[TemporalSparsityExploitation]]

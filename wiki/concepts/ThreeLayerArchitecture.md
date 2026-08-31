@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[DiagnosticReportFramework]]
 [[EulaminateOverrepresentation]]
@@ -31,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[GlobalDecision_LocalExecution_ControlPlane]]
 [[HeterogeneousChipletIntegration]]
 [[Heterogeneous_Integration]]
+[[Interconnect_Topology]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[Photonic_Chiplet_Interconnect]]
@@ -50,9 +52,9 @@ Auto-extracted concept from raw material compilation.
 [[TemporalComplexity]]
 [[ThirdWaveAI]]
 [[TopologyCentricPrimitiveSystem]]
+[[TopologyProgramming]]
 [[WaferScaleTopologyCentricComputing]]
 [[Wafer_Scale_Integration]]
-[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

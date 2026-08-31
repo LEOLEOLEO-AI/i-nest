@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[PowerLawScaling]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
+[[SNN_Config_Sensitivity]]
 [[ST_SNN]]
 [[Self_Organized_Criticality]]
 [[Spike_Encoding_of_fMRI]]

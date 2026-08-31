@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[LocalSynapticRules]]
 [[Memristive_Topology]]
 [[Memristor]]
 [[Memristor_Network]]

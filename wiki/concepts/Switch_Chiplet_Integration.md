@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[3D_Integrated_Chiplet_Stacking]]
 [[AdaptiveBitPrecisionExploration]]
 [[Allreduce_Latency_Probe]]
+[[ArbitraryWavefunctionConfigurability]]
 [[Architectural_Conditioning]]
 [[Bipartite_Interconnect]]
 [[Bipartite_Interconnect_Fabric]]

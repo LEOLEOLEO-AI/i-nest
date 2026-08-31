@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[3DHI_Chiplet_Integration]]
 [[AI_Faculty_Forum_2026]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[Analog_InMemory_Processing]]
 [[Attention_Residuals]]
@@ -42,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Ferroelectric_ComputeInMemory]]
 [[Ferroelectric_Devices]]
 [[FisherOrthogonalMemory]]
+[[FlagOS_2_0]]
 [[Heterogeneous_Integration]]
 [[InMateriaComputing]]
 [[InNetworkAgentRewiring]]

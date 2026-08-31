@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[SpatialPhotonicProgramming]]
 [[Spiking_Neural_Network]]
+[[SurrogateGradientTracking]]
 [[iNEST]]
 
 ## Sources

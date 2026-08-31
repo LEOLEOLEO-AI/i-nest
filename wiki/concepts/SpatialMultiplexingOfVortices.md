@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[FederatedServiceGraph]]
 [[Intelligence_Emergence]]
 [[LargeDeviationTopologicalOrder]]
+[[MultiScalePathDivergence]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[PhaseModulationTestability]]

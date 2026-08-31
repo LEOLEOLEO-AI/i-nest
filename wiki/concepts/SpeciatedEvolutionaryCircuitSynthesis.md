@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[AnomalousLocalization]]
 [[ApproximantLattice]]
 [[ArbitraryWavefunctionConfigurability]]
+[[ArtificialLifeTopologyEvolution]]
 [[CircuitSynthesis]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[DeeplySupervisedSpiking]]
 [[Electronic_Neuron_Circuit]]
 [[EnsembleSparsity]]
+[[Event_Driven_Architecture]]
 [[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]
 [[HodgkinHuxleyDynamics]]

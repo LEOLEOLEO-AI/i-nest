@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroupIntelligence]]
 [[SuperparamagneticSwitchingRate]]
+[[TCC]]
 [[complex system]]
 [[神经网络]]
 

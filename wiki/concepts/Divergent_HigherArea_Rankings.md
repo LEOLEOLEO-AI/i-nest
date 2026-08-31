@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Microsecond_Link_Reconfiguration]]
 [[NetworkDiameterTradeoff]]
 [[Network_Topology_Design]]
+[[RISBeamSteering]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]

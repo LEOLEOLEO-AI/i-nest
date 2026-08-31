@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[DataCenter_Chip_Logic_Compression]]
 [[DeepThermalization]]
 [[DimensionalityReductionForNetworkControl]]
+[[Disordered_Heisenberg_Model]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]

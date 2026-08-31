@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[SubsystemInformationCapacity]]
 [[TwoTimescaleNeuroEvolution]]
+[[Whole_Organism_Behavioral_Assay]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

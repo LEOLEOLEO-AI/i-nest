@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 [[Active_Inference_Agent]]
 [[AdaptiveDensityControl]]
 [[AnisotropicGaussianPrimitives]]
+[[AstrocyteInspiredModulation]]
 [[CrossDomainRoleEquivalence]]
 [[Decoupled_Priors]]
 [[Network_Topology_Design]]

@@ -29,10 +29,12 @@ Auto-extracted concept from raw material compilation.
 [[CausalIntegrationTopology]]
 [[Complex_System_Theory]]
 [[ComputeRelocationOverhead]]
+[[CriticalSlowingDown]]
 [[Deep_Thermalisation]]
 [[EndToEndLinkSimulation]]
 [[FlagOS_2_0]]
 [[Heterogeneous_Integration]]
+[[Network_Topology_Design]]
 [[TCC]]
 [[complex system]]
 

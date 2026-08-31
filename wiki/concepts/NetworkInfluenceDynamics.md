@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Generalized_Synchronization_Bond]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
+[[RecursiveTopologyBreakthrough]]
 [[Self_Organized_Criticality]]
 [[TCC]]
 [[analog computation]]

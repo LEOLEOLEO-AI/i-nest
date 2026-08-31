@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[CellEmergence]]
 [[Cognitive_Relapse_Decoupling]]
 [[ConsciousnessEngineeringLoop]]
+[[CriticalityInNetworkComputing]]
 [[CriticalityInducedTopology]]
 [[Criticality]]
 [[CrossLayer_SignalRouting]]

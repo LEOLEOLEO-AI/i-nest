@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[OpticalReservoirComputing]]
 [[Photonic_Reservoir_Computing]]
+[[PhysicalReservoirDynamicsEncoding]]
 [[PhysicalSubstrateReservoir]]
 [[Physical_Reservoir_Computing]]
 [[ReservoirDynamics]]

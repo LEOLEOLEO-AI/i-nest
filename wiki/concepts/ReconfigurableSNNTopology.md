@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuromorphicRadarFrontend]]
 [[Neuromorphic_Computing]]
+[[Receptron_Unit]]
 [[ReconfigurableSNN_Accelerator]]
 [[ReconfigurableSpikingRouting]]
 [[SNN]]

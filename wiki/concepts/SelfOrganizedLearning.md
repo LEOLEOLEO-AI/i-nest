@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Constructed_Reality_Interconnect]]
 [[ContextualReasoning]]
 [[Deep_Network_Architecture_Invariant]]
+[[DendriticReservoirState]]
 [[Developmental_Computing]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence]]

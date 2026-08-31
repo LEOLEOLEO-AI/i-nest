@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Langevin_Dynamics_Convergence]]
+[[MeanFieldSpinGlass]]
 [[Memristive_Topology]]
 [[Microbiome_Immune_Endocrine_Interplay]]
 [[Network_Topology_Design]]

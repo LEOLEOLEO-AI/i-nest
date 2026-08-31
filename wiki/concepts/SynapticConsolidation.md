@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[BrainInspired_Chip]]
 [[CIMWeightUpdateAwareness]]
 [[ConductingPolymerDendriteMemory]]
+[[EnergyEfficientRestoration]]
 [[EventStrengthEncoding]]
 [[Event_Driven_Architecture]]
 [[In_Package_Neuromorphic_Integration]]
@@ -35,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicHandwritingRecognition]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[Neuromorphic_Interconnect]]
 [[Neuromorphic_Selective_State_Space]]
 [[NoiseModulated_SynapticPlasticity]]
 [[Spike_Event_Driven_Attention]]
@@ -43,7 +45,6 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TemporalSparsityExploitation]]
 [[iNEST]]
-[[neuromorphic interconnect]]
 [[neuromorphic spiking]]
 
 ## Sources

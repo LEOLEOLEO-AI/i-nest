@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Autonomous_Spiking_Dynamics]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BrainInspiredArchitecture]]
+[[BrainScaleS_AsyncEventCircuit]]
 [[ConductingPolymerDendriteMemory]]
 [[DelayCodedWorkingMemory]]
 [[EventDrivenInference]]

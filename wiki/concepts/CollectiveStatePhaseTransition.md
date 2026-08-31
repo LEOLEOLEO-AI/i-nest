@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[BifurcationCandidate]]
 [[CST计量仪]]
 [[CentralityBasedMitigation]]
+[[ColoredNoiseMaximumEntropy]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

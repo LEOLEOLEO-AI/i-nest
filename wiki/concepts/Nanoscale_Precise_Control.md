@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[NoiseAsLearningResource]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SpinalHDL_DSL]]
+[[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[complex system]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]

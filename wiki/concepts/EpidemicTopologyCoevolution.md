@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[EvolvingArchitectureDynamics]]
+[[FPGA_Reconfigurability]]
 [[HybridCouplingThermosensitiveNetwork]]
 [[InSitu_Adjoint_Wave_Control]]
 [[Intelligence_Emergence]]

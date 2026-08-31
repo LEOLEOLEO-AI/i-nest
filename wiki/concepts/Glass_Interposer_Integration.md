@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Inference_Stage_Decomposition]]
 [[Intelligence_Emergence]]
 [[Logic_Folding]]
+[[MagnetoOpticalFilmDeposition]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC]]

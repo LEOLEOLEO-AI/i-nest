@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AcademicDevelopmentCoCreation]]
 [[ActiveDendriteSNN]]
 [[Activity_Energy_Tradeoff]]
+[[AdaptiveFunctionalTopology]]
 [[AnomalousSpinTransport]]
 [[AtomicGeometryEncoding]]
 [[BackflowTransformation]]

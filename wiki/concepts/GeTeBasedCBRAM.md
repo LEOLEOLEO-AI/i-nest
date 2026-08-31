@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Packaging]]
 [[NonEquilibriumComputing]]
+[[OpportunisticRoutingRL]]
 [[PostVonNeumannIntelligence]]
 [[PropertyPredictionModeling]]
 [[RecursiveSelfReferentialArchitecture]]

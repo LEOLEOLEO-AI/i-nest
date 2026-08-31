@@ -22,12 +22,14 @@ Auto-extracted concept from raw material compilation.
 
 [[GradientFreeSNNTraining]]
 [[In_Memory_Computing]]
+[[In_Package_Neuromorphic_Integration]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[SNN_TopologyOptimization]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

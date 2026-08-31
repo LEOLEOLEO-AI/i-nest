@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Continuous_Control_Spike_Timing_Sensitivity]]
 [[CrashHotspotForecasting]]
 [[CrossLayer_SignalRouting]]
+[[DirectTrainingSNN]]
 [[DivergentHigherAreaRanking]]
 [[EnergyEfficientNeuromorphic]]
 [[EvolutionarySpikeTimingOptimization]]

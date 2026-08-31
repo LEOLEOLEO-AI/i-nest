@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[JunctionCenteredFramework]]
 [[MachineLearningPotential]]
+[[MemoryDrivenRouting]]
 [[Memristive_Topology]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[MetaFAIR_ArchitectureDiscovery]]

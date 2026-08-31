@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[Order_Flexibility_Duality]]
+[[PathIntegration]]
 [[Reservoir_Computing]]
 [[SNN]]
 [[ScaleFreeNetwork]]

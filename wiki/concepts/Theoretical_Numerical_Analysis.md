@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Faculty_Forum_2026]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[Analog_InMemory_Processing]]
 [[AssociativeMemoryTopology]]
@@ -38,8 +39,10 @@ Auto-extracted concept from raw material compilation.
 [[IMPLYMemristiveISA]]
 [[In_Package_Neuromorphic_Integration]]
 [[LightweightNeuromorphicArchitecture]]
+[[LightweightNeuromorphic]]
 [[Long_Range_Interactions]]
 [[Memristive_CAM_Indexing]]
+[[Minimal_Complete_Principle]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]

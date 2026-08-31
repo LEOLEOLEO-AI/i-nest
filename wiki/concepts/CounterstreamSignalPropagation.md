@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[CrossLayer_SignalRouting]]
 [[DelayPropagationDynamics]]
+[[DifferentiableNetworkMetrics]]
 [[DrivenCriticalityDynamics]]
 [[Driven_Criticality]]
 [[Dynamic_Expert_Fusion]]

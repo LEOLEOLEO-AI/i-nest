@@ -27,9 +27,12 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[Alpha_Computation_Consistency]]
 [[Analog_Weight_Storage]]
+[[CST计量仪]]
+[[Complex_System_Theory]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Nonlinear_Gain]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

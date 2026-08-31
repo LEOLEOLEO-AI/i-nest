@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Multi_Scale_Habituation]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[ProgrammerGuideAbstraction]]
 [[Reservoir_Computing]]
 [[VolumeLevel_Attention]]
 [[analog computation]]

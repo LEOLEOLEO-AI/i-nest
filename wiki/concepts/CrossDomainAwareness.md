@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Specific_Embedding_Separation]]
 [[Network_Topology_Design]]
 [[Order_Flexibility_Duality]]
+[[PostVonNeumannIntelligence]]
 [[QuantumKernelMethods]]
 [[RecursiveSelfReferentialArchitecture]]
 [[ScaleFreeNetwork]]

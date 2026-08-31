@@ -57,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologyDrivenDynamics]]
 [[TopologyDrivenVulnerability]]
 [[VisualSemanticDecoding]]
+[[Wafer_Scale_Neuromorphic]]
 [[iNEST]]
 
 ## Sources

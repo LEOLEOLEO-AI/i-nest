@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Core_Spacetime_Tensor]]
 [[Criticality]]
 [[Criticality_Induced_Plasticity]]
+[[Edge_AI_Acquisition_Consolidation]]
 [[FormalLinguisticCompetence]]
 [[HierarchicalBayesianCommunityDetection]]
 [[Intelligence_Emergence]]

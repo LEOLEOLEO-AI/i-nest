@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Loihi2_OnChip_Learning]]
 [[MachineLearningPotential]]
 [[Milinkovic B (2024)：复杂神经系统涌现动力学结构]]
+[[Mimetic_Optogenetic_Synapses]]
 [[NCL神经计算定律详解]]
 [[Network_Topology_Design]]
 [[ReservoirTemporalDynamics]]

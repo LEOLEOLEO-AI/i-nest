@@ -20,15 +20,19 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AnomalousSpinTransport]]
 [[BackpropagationFreeLearning]]
 [[HigherOrderSimplicialDynamics]]
+[[Intelligence_Emergence]]
 [[InterconnectConstrainedEmergence]]
 [[NanophotonicNeuralAccelerator]]
 [[Network_Topology_Design]]
 [[NeuromorphicSafetyBoundary]]
 [[Neuromorphic_Computing]]
 [[OnChipOpticalTweezers]]
+[[PhotonicNeuralAccelerator]]
 [[PhysicalSubstrateReservoir]]
+[[Reservoir_Computing]]
 [[iNEST]]
 
 ## Sources
@@ -36,3 +40,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- Network_Fractal_Dimension (merged 2026-09-01)

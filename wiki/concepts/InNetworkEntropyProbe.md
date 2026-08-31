@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[ElasticSpikingTransformer]]
 [[EnergyProportionalityCeiling]]
 [[EnergyResourceEfficiencyCoOptimization]]
+[[EventBasedMotionDeblurring]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Self_Organized_Criticality]]

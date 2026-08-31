@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[AgentReinforcementLoop]]
 [[Alpha_Coefficient_Phase_Transition_Amplification]]
 [[Analog_InMemory_Processing]]
+[[Anisotropic_Square_Lattice]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

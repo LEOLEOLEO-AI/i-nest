@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Crystallized_Neural_Manifolds]]
 [[DataDrivenMaterialDesign]]
 [[DivergentHigherAreaRanking]]
+[[EcosystemTopologyCoupling]]
 [[HardwareAware_DesignSpace]]
 [[Intelligence_Emergence]]
 [[Nonlinear_Gain]]

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Endocrine_Modulated_Network_State]]
 [[EpidemicThreshold]]
 [[EventDrivenModularArchitecture]]
+[[EventDrivenWeightUpdate]]
 [[EvolutionaryDiversityPreservation]]
 [[FPGA_Accelerated_SNN]]
 [[FPGA_SNN_Inference]]

@@ -20,12 +20,13 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
-[[AlgorithmHardware_CoDesign]]
+[[Algorithm_Hardware_CoDesign]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[ComplexValuedSNN]]
 [[DMP_SNN_DualMemoryPathway]]
 [[DeeplySupervisedSpiking]]
 [[Distributed_Spike_Communication]]
+[[FeFET_Differential_BitCell]]
 [[HodgkinHuxleyDynamics]]
 [[Memristor]]
 [[Memristor_Network]]
@@ -36,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[SpiNNaker2_Chip]]
 [[SpikeEncoding]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[VectorQuantizedSpikeEncoding]]

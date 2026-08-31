@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[BrainInspiredArchitecture]]
 [[ConductingPolymerDendriteMemory]]
+[[EnergyEfficientRestoration]]
 [[EventStrengthEncoding]]
 [[Event_Driven_Architecture]]
 [[In_Network_Neuromorphic]]
@@ -40,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Spiking_Integration]]
 [[SensorMemoryFusion]]
 [[Sequence_First_Processing]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

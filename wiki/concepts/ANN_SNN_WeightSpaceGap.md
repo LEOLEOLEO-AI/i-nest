@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveDendriteSNN]]
 [[Avoided_Criticality]]
 [[BackflowTransformation]]
+[[Baseline_Change_Record]]
 [[BulletTrainScheduling]]
 [[Criticality]]
 [[CrossEntityPreemptiveWarning]]

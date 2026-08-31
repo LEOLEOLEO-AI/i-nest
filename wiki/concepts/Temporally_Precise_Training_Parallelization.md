@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SNN]]
 [[STDP_Plasticity]]
 [[SaliencyDrivenAttention]]
 [[Spike_Encoding_of_fMRI]]

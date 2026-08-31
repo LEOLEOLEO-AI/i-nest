@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[LatencyCodedInterconnect]]
 [[MetaFAIR_ArchitectureDiscovery]]
+[[Multi_Objective_Routing]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC]]

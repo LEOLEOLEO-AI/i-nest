@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Critical_Exponent_Scaling]]
 [[Criticality]]
 [[DTGA]]
+[[DendriticReservoirState]]
 [[DynamicalSelfDualCriticality]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]

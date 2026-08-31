@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_SDI]]
 [[NoC_SDI_Integration]]
 [[PacketRoutingOptimization]]
+[[PhaseAwareBisectionDemand]]
 [[PhononicBandgapEngineering]]
 [[ReconfigurableSpikingRouting]]
 [[SDI_Bond]]

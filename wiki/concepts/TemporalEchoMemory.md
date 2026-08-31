@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Fading_Memory_Property]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[InterconnectAwareGradientAggregation]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Chiplet]]

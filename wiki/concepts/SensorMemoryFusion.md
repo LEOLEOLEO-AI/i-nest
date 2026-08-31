@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[BigBrainCellularAxis]]
 [[ConductingPolymerDendriteMemory]]
+[[EventDrivenPlasticity]]
 [[Event_Driven_Architecture]]
 [[In_Network_Neuromorphic]]
 [[In_Package_Neuromorphic_Integration]]
@@ -31,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[Neuromorphic_Interconnect]]
 [[Neuromorphic_Planning_Architecture]]
 [[Neuromorphic_Selective_State_Space]]
 [[SNN]]
@@ -38,7 +40,6 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
-[[neuromorphic interconnect]]
 [[类脑芯片]]
 
 ## Sources

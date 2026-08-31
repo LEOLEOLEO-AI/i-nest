@@ -25,9 +25,12 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[BioPlausiblePredictiveCoding]]
 [[BurstGatedRouting]]
+[[ContinualLearningOnNeuromorphic]]
 [[Event_Driven_Architecture]]
 [[Event_Driven_Computation]]
+[[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 

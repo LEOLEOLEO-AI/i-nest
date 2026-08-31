@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Integration]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]
+[[STDP_iNEST]]
 [[SpatiotemporalComplexityIndex]]
 [[Spike_Encoding_of_fMRI]]
 [[SpikingCorrespondenceMatching]]

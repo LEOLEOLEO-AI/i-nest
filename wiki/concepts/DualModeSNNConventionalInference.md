@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossLayer_SignalRouting]]
 [[EarlyVisualCortexAliasing]]
 [[EventDrivenModularArchitecture]]
+[[EvolutionaryDiversityPreservation]]
 [[FullyLocalOnlineSNNTraining]]
 [[GradientBasedSpikeLearning]]
 [[InNetworkEntropyProbe]]
@@ -40,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[SNN]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

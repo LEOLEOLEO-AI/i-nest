@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralPrecision]]
 [[NoC]]
 [[NoC_Chiplet_Wafer_Stack]]
+[[OnDie_Fusion]]
 [[OptimalRepresentation]]
 [[OptimalRepresentations]]
 [[RecursiveSelfReferentialArchitecture]]

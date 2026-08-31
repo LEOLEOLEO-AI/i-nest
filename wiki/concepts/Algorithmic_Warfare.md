@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Activity_Energy_Tradeoff]]
 [[BioInspired_Interception_Control]]
 [[BioPlausiblePredictiveCoding]]
+[[BulletTrainScheduling]]
 [[BurstGatedRouting]]
 [[CirculateFiringNeuron]]
 [[ContinuousTimeSNN]]

@@ -28,10 +28,12 @@ Auto-extracted concept from raw material compilation.
 [[AIRA_NeuralArchSearch]]
 [[AI_Faculty_Forum_2026]]
 [[AstrocyteInspiredRepair]]
+[[BayesMarkovOrientationModel]]
 [[Complex_System_Theory]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[神经网络]]
 

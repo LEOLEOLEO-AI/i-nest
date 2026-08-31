@@ -27,10 +27,12 @@ Auto-extracted concept from raw material compilation.
 [[AI_Supply_Chain_Increment]]
 [[AI人工智能 卷积神经网络（CNN）_w3cschool]]
 [[Allreduce_Latency_Probe]]
+[[Analog_InMemory_Processing]]
 [[AnomalousSpinTransport]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
 [[Complex_System_Theory]]
 [[Course_Based_FPGA_Projects]]
 [[DARPA_3DHI_Roadmap]]
@@ -58,13 +60,13 @@ Auto-extracted concept from raw material compilation.
 [[SuperparamagneticSwitchingRate]]
 [[Synaptic_Plasticity]]
 [[TCC]]
-[[chiplet interconnect]]
 [[getnote_2025-12-17_3D异构集成_3DHI_技术深度研究_机遇_挑战与未来路径]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 [[神经形态脉冲大语言模型（NSLLM）]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

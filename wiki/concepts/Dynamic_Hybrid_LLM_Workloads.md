@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[SurrogateGradientAsymmetry]]
 [[SynapticReinforcementConsolidation]]
+[[Syncytial_Mesh_Model]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

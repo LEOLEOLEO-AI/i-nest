@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[EdgeFeatureEncoding]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
+[[FeFET_Polarization_Switching]]
 [[Intelligence_Emergence]]
 [[Memristor]]
 [[Memristor_Synapse]]

@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[EmulationTheoryDisturbanceObserver]]
 [[EventBasedMotionDeblurring]]
+[[EventCameraActionRecognition]]
 [[EventDrivenMotionDeblurring]]
 [[FormalToolchain]]
 [[Heterogeneous_Integration]]

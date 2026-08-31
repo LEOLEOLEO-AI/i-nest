@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Crystallized_Neural_Manifolds]]
 [[DataDrivenMaterialDesign]]
 [[DivergentHigherAreaRanking]]
+[[EcosystemTopologyCoupling]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[EvolutionaryReservoirOptimization]]

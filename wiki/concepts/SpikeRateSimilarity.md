@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AnytimePointCloudRecognition]]
 [[BioInspired_Interception_Control]]
 [[BioPlausiblePredictiveCoding]]
+[[Bio_plausible_Neuromorphic_Disturbance_Observer]]
 [[BrainInspiredArchitecture]]
 [[Complex_System_Theory]]
 [[ElasticInferenceScheduling]]

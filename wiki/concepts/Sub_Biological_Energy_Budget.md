@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Distributed_Spike_Communication]]
 [[Environmental_Capability_Context]]
 [[FerroelectricDevice]]
+[[FerroelectricSynapse]]
 [[Ferroelectric_Devices]]
 [[FirstPrinciples_Derivation]]
 [[Heterogeneous_Integration]]

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AnalogInMemoryComputing]]
 [[Analog_Synaptic_Weighting]]
 [[Attention_Residuals]]
+[[DARPA_ProjectManager_Model]]
 [[Graphlet_Decomposition]]
 [[Memristor]]
 [[Memristor_Synapse]]

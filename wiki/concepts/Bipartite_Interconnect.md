@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[OpenLearningEcosystem]]
 [[OpportunisticRouting]]
 [[P_Paradigm]]
+[[PhysicallyInformedDeepLearning]]
 [[ScalableNeuromorphicTopology]]
 [[Semantic_Optimizer]]
 [[StochasticVehicleRouting]]

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossLayer_SignalRouting]]
 [[ErrorAmplificationLimits]]
 [[EventCameraTemporalEncoding]]
+[[In_Network_Neuromorphic_Scheduling]]
 [[Intelligence_Emergence]]
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]

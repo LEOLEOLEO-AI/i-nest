@@ -2,7 +2,7 @@
 
 **Domain**: iNEST
 **Source**: 00_Inbox\01_GetNotes\iNEST开发流程.md
-**Compiled**: 2026-08-31
+**Compiled**: 2026-09-01
 
 ## Summary
 date: 2026-08-31 07:23 基于您的要求"基于上面的技术进行编程，在忆阻器网络上实现ST-SNN以及基于DTGA网络拓扑控制"，我已经成功完成了完整的系统集成： 1.  **ST-SNN (时空卷积脉冲神经网络)** -   硬件加速支持 (Lohi2, DVS, Knowm) 2.  **DTGA (动态拓扑门控算法)**

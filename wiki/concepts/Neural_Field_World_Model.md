@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveCombinerWeighting]]
 [[AgenticServiceOrchestration]]
 [[Allreduce_Latency_Probe]]
+[[Anomaly_Induced_Quantum_Criticality]]
 [[Architectural_Conditioning]]
 [[CriticalityDrivenStateTransition]]
 [[Criticality]]

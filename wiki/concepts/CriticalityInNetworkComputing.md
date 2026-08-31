@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[SelfOrganization]]
 [[Self_Organized_Criticality]]
+[[StochasticMultiAgentRL]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]

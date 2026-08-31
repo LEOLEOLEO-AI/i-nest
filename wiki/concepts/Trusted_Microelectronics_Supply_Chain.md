@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Assisted_Energy_Optimization]]
 [[AI_FullSpectrum_Strategy]]
 [[AI_Supply_Chain_Increment]]
+[[AI人工智能 卷积神经网络（CNN）_w3cschool]]
 [[AdversarialMedicalRobustness]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]

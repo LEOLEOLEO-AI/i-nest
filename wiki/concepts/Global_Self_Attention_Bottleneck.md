@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[CombinedImportanceScoring]]
 [[CurrentInjectionSNN]]
 [[Intelligence_Emergence]]
+[[MemristiveSNN]]
 [[Neuromorphic_Computing]]
 [[NonKerrTravelingWaveEmergence]]
 [[Nonlinear_Gain]]

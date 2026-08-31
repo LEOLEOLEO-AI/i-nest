@@ -27,9 +27,13 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_NoC_Fabric]]
 [[HeterogeneousInference]]
 [[Heterogeneous_Inference_Offload]]
+[[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
+[[NoC]]
 [[P_Paradigm]]
 [[TCC]]
+[[TemporalFeatureProjection]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

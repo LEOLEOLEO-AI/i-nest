@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[HigherOrderStochasticProcess]]
 [[InteractiveRoboticsLoop]]
 [[LIF_Neuron_Model]]
+[[LowBitSpikingPruning]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[SDI_Bond]]

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Biologically_Plausible_Learning_Rules]]
 [[BrownianCastleInterface]]
 [[BrownianCastleInterfaces]]
+[[BurstTemporalPlasticity]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Criticality]]
 [[DataDrivenCellularAxis]]

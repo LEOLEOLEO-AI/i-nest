@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[AnalogStateRetention]]
 [[Analog_InMemory_Processing]]
 [[Antiferromagnetic_Topological_Anderson_Insulator]]
+[[ArchitecturalIllusion]]
 [[Architectural_Conditioning]]
 [[Associative_Memory_Unification]]
 [[BCM滑动阈值]]

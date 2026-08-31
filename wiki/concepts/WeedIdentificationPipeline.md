@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Thermalisation]]
 [[DirectConnect_Topology]]
 [[HarvestProtocol]]
+[[HeterogeneousInference]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[MeasurementEfficientProtocol]]

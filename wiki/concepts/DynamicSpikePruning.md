@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[OscillatoryDynamicsOptimization]]
 [[PulseFrequencyModulationSpikeCoding]]
 [[RecursiveSelfReferentialArchitecture]]
+[[RobustnessSpikeEncoding]]
 [[SNN]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]

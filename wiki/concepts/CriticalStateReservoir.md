@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CouplingTopologyMemoryLink]]
 [[Coupling_Topology]]
 [[Crystallized_Embedding_Reservoir]]
+[[DiscreteScaleInvariance]]
 [[EigenvalueLocalizationTransition]]
 [[ErrorSuppressedPipeline]]
 [[Network_Topology_Design]]

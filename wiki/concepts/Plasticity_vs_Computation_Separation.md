@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[STDPDrivenConnectivity]]
 [[STDP_Plasticity]]
 [[SelfOrganization]]
+[[Swarmalator_Phase_Transition]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[VectorFlowField]]

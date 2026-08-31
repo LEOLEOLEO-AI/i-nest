@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[OpticalSynapticWeightUpdate]]
 [[QuantumGateSynthesis]]
 [[RLFlightControl]]
+[[Readout_Layer_Training]]
 [[Reconfigurable_Nonlinear_Reservoir]]
 [[Reservoir_Computing]]
 [[TCC]]

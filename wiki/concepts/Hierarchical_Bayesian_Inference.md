@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[GlobalInformationDominance]]
 [[HierarchicalInferenceTopology]]
 [[Intelligence_Emergence]]
+[[Microfluidic_Worm_Trap_Array]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[SDI_Bond]]

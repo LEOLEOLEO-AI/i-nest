@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Hyper_Dimensional_Computing]]
 [[Intelligence_Emergence]]
 [[Langevin_Dynamics_Convergence]]
+[[MeanFieldSpinGlass]]
 [[Memristive_Device_Threats]]
 [[Microbiome_Immune_Endocrine_Interplay]]
 [[Network_Topology_Design]]

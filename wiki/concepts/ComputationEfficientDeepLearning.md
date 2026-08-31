@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Wafer_Topology]]
 [[Complex_System_Theory]]
 [[Deep_Network_Architecture_Invariant]]
@@ -62,8 +63,9 @@ Auto-extracted concept from raw material compilation.
 [[RenormalizationGroup_ScalingLaws]]
 [[RenormalizationGroup_Scaling]]
 [[SystemLevelNonlinearity]]
+[[TCC]]
 [[Textbook_Paradigm_Definition]]
-[[chiplet interconnect]]
+[[causal emergence]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

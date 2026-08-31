@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Automated_Assessment_Framework]]
 [[Autonomous_Physical_Computation]]
 [[BackflowTransformation]]
+[[BayesianDomainEvolution]]
 [[BigBrain3DHistology]]
 [[Brain_Connectome]]
 [[ConnectomeFidelityClaim]]

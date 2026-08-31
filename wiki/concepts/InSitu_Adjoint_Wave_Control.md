@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Reconfigurability]]
 [[FatalityDrivenRewiring]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
+[[Inference_Stage_Decomposition]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[MeasurementInducedRouting]]

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveFlexibilityThreshold]]
 [[BigBrainCellularAxis]]
 [[BioInspiredLearningRule]]
+[[Chiplet_Integration_Route]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[CounterstreamSignalPropagation]]
 [[DiscreteContinuous_Unification]]

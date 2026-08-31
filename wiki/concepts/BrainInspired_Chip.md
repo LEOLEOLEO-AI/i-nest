@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Bidirectional_Temporal_Enhancement]]
 [[DiscreteSTDP]]
+[[EventCameraTemporalEncoding]]
 [[EventDataNonUniformity]]
 [[EventDrivenAutoregression]]
 [[Event_Driven_Architecture]]

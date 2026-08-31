@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[HierarchicalModularReservoirs]]
 [[In_Context_Learning]]
 [[Intelligence_Emergence]]
+[[Master_SDDE]]
 [[NonEquilibriumComputing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]

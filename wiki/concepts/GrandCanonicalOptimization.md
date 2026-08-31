@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[CircuitTopologyEncoding]]
 [[Complex_System_Theory]]
+[[ControlDrivenCriticalFluctuations]]
 [[Critical_Region_Extension]]
 [[DelayPropagationDynamics]]
 [[Dynamic_Expert_Fusion]]

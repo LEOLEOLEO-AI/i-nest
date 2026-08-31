@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[DeeplySupervisedSpiking]]
 [[Distributed_Spike_Communication]]
 [[ElectronicPhotonicIntegratedCircuit]]
+[[FeFET_Differential_BitCell]]
 [[FreeEnergyMinimization]]
 [[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]

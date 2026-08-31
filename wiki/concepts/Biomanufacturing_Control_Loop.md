@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Bosonic_SPT_Phases]]
 [[BranchingRatio]]
 [[BurstTemporalPlasticity]]
+[[CertifiedBifurcationDetection]]
 [[CirculateFiringNeuron]]
 [[Cognitive_Relapse_Architecture]]
 [[ComplexEcosystemDynamics]]

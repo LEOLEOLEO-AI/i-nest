@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenPlasticity]]
 [[FixedOverheadCost]]
 [[FixedOverheadPenalty]]
+[[GradientFreeLowRankTraining]]
 [[Intelligence_Emergence]]
 [[MeasurementInducedPhaseTransition]]
 [[NestedRepresentation]]

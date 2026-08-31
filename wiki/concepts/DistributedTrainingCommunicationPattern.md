@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Order_Flexibility_Duality]]
 [[PheromoneTrailTopology]]
+[[PostVonNeumannIntelligence]]
 [[QuantumKernelMethods]]
 [[ScaleFreeNetwork]]
 [[SuperparamagneticSwitchingRate]]

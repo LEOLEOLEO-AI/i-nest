@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Synapse]]
 [[NCL神经计算定律详解]]
 [[Nature_Computational_Science_用AI发现高维复杂网络的动力学公式]]
+[[Nature综述_大规模类脑计算的机遇与挑战]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[ScaleFreeNetwork]]

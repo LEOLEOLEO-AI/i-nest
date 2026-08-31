@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AINext_Initiative]]
 [[AnisotropicGaussianPrimitives]]
+[[Avoided_Criticality]]
 [[ConnectomicDevelopmentalTrajectory]]
 [[Controlled_Release_Kinetics]]
 [[Criticality]]

@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[InternalStateCriticality]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
+[[NeuronalCriticality]]
 [[NishimoriLine]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Self_Organized_Criticality]]

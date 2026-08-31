@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Application_Scenario_Reconstruction]]
 [[AcceleratedMaterialScreening]]
+[[AdaptiveGraphDiffusion]]
 [[AdaptiveModelPartitioning]]
 [[Adaptive_Path_Selection]]
 [[AnalogDomainCompression]]

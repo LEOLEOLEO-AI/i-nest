@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
+[[Concepts-Theory — 全景导航 (Map of Content)]]
 [[DistinctReentrantPhases]]
 [[ERI_2_0_Strategy]]
 [[Heterogeneous_Integration]]

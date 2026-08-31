@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[PathIntegration]]
 [[PromptBasedTimeSeriesForecasting]]
 [[QuantumAnnealerSynapticTest]]
+[[Resilient_Satellite_Constellations]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

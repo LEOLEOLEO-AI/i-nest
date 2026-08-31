@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[ConductingPolymerDendriteMemory]]
 [[ContinualLearningOnNeuromorphic]]
+[[DelayCodedWorkingMemory]]
 [[Event_Driven_Architecture]]
 [[In_Network_Neuromorphic]]
 [[NeuromorphicNetworkSecurity]]
@@ -30,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[ST_SNN]]
 [[SensorMemoryFusion]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 
@@ -38,3 +40,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- DVS_EventCamera (merged 2026-09-01)

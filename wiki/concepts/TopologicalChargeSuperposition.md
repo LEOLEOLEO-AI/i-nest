@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[CriticalFluctuationReservoir]]
+[[DissipativeQuantumReservoir]]
 [[DivergentHigherAreaRanking]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence]]

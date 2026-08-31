@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologicalAndersonChernInsulator]]
 [[UniversalComputationAtCriticality]]
 [[UniversalComputation]]
+[[Universal_Computation_Link]]
 [[topology reconfiguration]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

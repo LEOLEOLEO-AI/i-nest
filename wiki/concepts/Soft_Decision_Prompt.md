@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[Neuromorphic_Packaging]]
 [[OpenBenchmarkingFramework]]
 [[SNN]]
 [[Spike_Encoding_of_fMRI]]

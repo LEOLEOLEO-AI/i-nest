@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[AttentionMap_DifferenceResidual]]
 [[BCM滑动阈值]]
 [[BeamDomainMLFingerprinting]]
+[[BifurcationCandidateSet]]
 [[CollectiveDynamics]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]

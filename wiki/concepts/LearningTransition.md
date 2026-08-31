@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
 [[STDP_Plasticity]]
+[[ScalingBehaviourDeviation]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[涌现]]

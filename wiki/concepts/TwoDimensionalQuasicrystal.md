@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[CubicLatticeInterconnect]]
 [[DelayTolerantNetworkUAV]]
 [[EndToEndTopologicalLearning]]
+[[EntanglementAwareRouting]]
 [[FrozenRateOperator]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

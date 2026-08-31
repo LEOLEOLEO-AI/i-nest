@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[NonHermitianTopologicalAndersonInsulator]]
 [[Nonlinear_Gain]]
+[[Order_Flexibility_Duality]]
 [[RamanInducedGaugeField]]
 [[Resilient_Satellite_Constellations]]
 [[SNN]]

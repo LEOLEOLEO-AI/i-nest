@@ -20,15 +20,19 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[DisturbancePropagationPath]]
 [[InterFPGA_Spike_Routing]]
+[[Interconnect_Routing]]
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[NoC]]
 [[NoC_EventRouting]]
 [[QuarantineCostTradeoff]]
 [[SNN]]
 [[ST_SNN]]
 [[Spiking_Neural_Network]]
+[[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
 
 ## Sources

@@ -36,10 +36,12 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Network_Architecture_Invariant]]
 [[DistinctReentrantPhases]]
 [[ERI_2_0_Framework]]
+[[Emergent_Intelligence]]
 [[Emergent_Intelligence_Theory]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
 [[Hyper_Dimensional_Computing]]
+[[Intelligence_Emergence]]
 [[Master_SDDE]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[Microbiome_Immune_Endocrine_Interplay]]
@@ -58,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[TemporalComplexity]]
 [[complex system]]
 [[iNEST]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

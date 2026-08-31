@@ -43,10 +43,12 @@ Auto-extracted concept from raw material compilation.
 [[MobilityEdge]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Topology]]
 [[Neuromorphic_Topology_Mapping]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
 
 ## Sources

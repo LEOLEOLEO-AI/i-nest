@@ -58,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TemporalDynamicsModeling]]
 [[TopologicalAndersonChernInsulator]]
+[[Wafer_Scale_Neuromorphic]]
 [[iMESO_PhysicalCarrier]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]

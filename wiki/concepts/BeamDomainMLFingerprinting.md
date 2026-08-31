@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[DataCenter_Chip_Logic_Compression]]
 [[ERI_2_0_Strategy]]
+[[HeavyTailedWaitingTimes]]
 [[IntellectualBaseModularity]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

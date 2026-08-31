@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[CompactnessRegularizedFitness]]
 [[Complex_System_Theory]]
+[[Concepts-Theory — 全景导航 (Map of Content)]]
 [[DistinctReentrantPhases]]
 [[EmergentOrder]]
 [[Emergent_Intelligence]]

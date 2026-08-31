@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[ConnectomeComputationBasis]]
 [[Connectome]]
 [[Crystallized_Neural_Manifolds]]
+[[DisorderedNetworkDynamics]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence]]

@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeEventScheduling]]
 [[Spike_Encoding_of_fMRI]]
 [[Spike_Energy_Floor]]
+[[Spike_Temporal_Dynamics]]
 [[Spiking_Neural_Network]]
 [[SuperparamagneticSwitchingRate]]
 [[hls4ml_SNN_Conversion]]

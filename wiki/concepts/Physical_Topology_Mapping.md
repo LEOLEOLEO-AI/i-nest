@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[EulaminateOverrepresentation]]
 [[GeneralIntelligenceSubstrate]]
 [[Heterogeneous_Integration]]
+[[LatencyCodedInterconnect]]
 [[Memristor]]
 [[Memristor_Interconnect]]
 [[Memristor_Synapse]]

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[ASIC_Dualism]]
 [[AdjointWaveControl]]
 [[AdvancedPackagingInterconnect]]
+[[Advanced_Packaging_for_Space]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_on_Chip]]

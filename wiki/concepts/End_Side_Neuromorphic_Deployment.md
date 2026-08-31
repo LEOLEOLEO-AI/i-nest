@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[1M1T1R_SynapticNeuron]]
 [[AI_Faculty_Forum_2026]]
 [[AdaptiveBitPrecisionExploration]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[BurstInterleaving]]
 [[ChipletOpticalIO]]
@@ -49,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[SOC]]
 [[SparseTemporalEncoding]]
 [[Spiking_Neural_Network]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
 
 ## Sources

@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[Pseudogap_Formation]]
+[[ReconfigurableNonlinearPhotonicNetwork]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[ScalableNeuromorphicTopology]]

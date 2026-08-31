@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Generalization_Bound_Spectra]]
 [[Hyper_Dimensional_Computing]]
 [[Intelligence_Emergence]]
+[[MeanFieldSpinGlass]]
 [[Network_Topology_Design]]
 [[QuantumReservoirMemoryCapacity]]
 [[Reservoir_Computing]]

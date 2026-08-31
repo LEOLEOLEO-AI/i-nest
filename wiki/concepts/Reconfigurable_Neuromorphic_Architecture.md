@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Performance_Prediction_Model]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Robust_Decision_Making]]
+[[SelfEvolvingMAS]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]

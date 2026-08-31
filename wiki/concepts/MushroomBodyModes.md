@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[CompactnessRegularizedFitness]]
 [[Complex_System_Theory]]
+[[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Connectome]]
 [[Continuous_Memory_System]]
 [[DataProvenanceIntegrity]]

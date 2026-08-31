@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[MantelTest_SignCorrection]]
 [[Memristor]]
 [[Memristor_Interconnect]]
+[[Memristor_Reservoir_Branch_Prediction]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[OpenLearningEcosystem]]

@@ -33,11 +33,13 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Architecture]]
 [[Continual_Learning_Modularity]]
 [[Continuous_Control_Spiking_Stability]]
+[[CriticalStateDynamics]]
 [[Criticality]]
 [[EntanglementScaling]]
 [[Intelligence_Emergence]]
 [[Neuromorphic_Computing]]
 [[Self_Organized_Criticality]]
+[[Spiking_Neural_Network]]
 [[emergent computation]]
 [[iNEST]]
 

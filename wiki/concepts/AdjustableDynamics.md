@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[PhysicalReservoir]]
 [[Reservoir_Computing]]
 [[SOC]]
+[[SelectorFreeHopfieldNetwork]]
 [[Spiking_Neural_Network]]
 [[VaCoAl]]
 [[complex system]]

@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[OpenLearningEcosystem]]
 [[PacketRoutingForFPGAs]]
+[[PhaseSpaceCurvature]]
 [[SelfOrganization]]
 [[analog computation]]
 [[涌现]]

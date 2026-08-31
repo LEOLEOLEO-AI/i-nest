@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Cache_Aware_Flow_Scheduling]]
 [[Complex_System_Theory]]
 [[DelayTolerantNetworkUAV]]
+[[FPGA_Reconfigurability]]
 [[FluxAttachmentTopology]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AdjointWaveControl]]
 [[AgenticServiceOrchestration]]
 [[AnisotropicGaussianPrimitives]]
+[[CommunicationAwareComputeRelocation]]
 [[Critical_Region_Extension]]
 [[DARPA_ProjectManager_Model]]
 [[DTGA]]

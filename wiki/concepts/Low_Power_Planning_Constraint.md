@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[BayesianDomainEvolution]]
 [[BehavioralFeedbackLoop]]
 [[Bio_plausible_Neuromorphic_Disturbance_Observer]]
+[[Brain_Inspired_Switchless_Architecture]]
 [[Complex_System_Theory]]
 [[EmulationTheoryObserver]]
 [[FlexibilityThreshold]]

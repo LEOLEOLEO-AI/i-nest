@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[DelayTolerantNetworkUAV]]
 [[DisorderDrivenTemporalOrdering]]
 [[DisorderedNetworkInterconnect]]
+[[EnergyEfficiencyAI]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

@@ -46,6 +46,8 @@ Auto-extracted concept from raw material compilation.
 [[FirstPrinciples_Derivation]]
 [[FlagOS_2_0]]
 [[Free_Energy_Principle_Network]]
+[[Heterogeneous_Integration]]
+[[InNetwork_Neuromorphic_Transform]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[RenormalizationGroup_ScalingLaws]]

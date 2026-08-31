@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
+[[CriticalityAwareTopology]]
 [[Heterogeneous_Integration]]
 [[TCC]]
 [[analog computation]]

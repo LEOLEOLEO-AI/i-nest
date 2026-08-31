@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[DifferentiableLifting]]
 [[Epidemic_Mitigation_Strategy]]
 [[ErrorSuppressedPipeline]]
+[[Evolving_System_Adaptation]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
 

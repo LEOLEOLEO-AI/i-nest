@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Crystallized_Embedding_Reservoir]]
 [[CytoarchitectonicAxis]]
 [[DARPA_ProjectManager_Model]]
+[[DTGA]]
 [[DataDrivenCytoarchitectonicAxis]]
 [[DivergentHigherAreaRanking]]
 [[Dynamical_State_Space]]

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[EnsembleSparsity]]
 [[Heterogeneous_Integration]]
 [[InNetworkNeuromorphicEmergence]]
+[[InkjetPrintedElectrochemicalSensors]]
 [[Intelligence_Emergence]]
 [[Memristor]]
 [[Memristor_Synapse]]

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Synaptic_Behavior]]
 [[Avoided_Criticality]]
 [[BackflowTransformation]]
+[[BurstTemporalPlasticity]]
 [[Complex_System_Theory]]
 [[CriticalityInducedComputationalCapacity]]
 [[Criticality]]

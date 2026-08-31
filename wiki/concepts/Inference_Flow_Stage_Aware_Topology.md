@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[DirectConnect_Topology]]
 [[Free_Energy_Principle_Network]]
 [[HeterogeneousInference]]
+[[Heterogeneous_3D_Stacking]]
 [[Heterogeneous_Integration]]
 [[HighThroughputParticleRouting]]
 [[Intelligence_Emergence]]

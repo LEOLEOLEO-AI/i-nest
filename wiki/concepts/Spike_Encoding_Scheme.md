@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicPnP]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Edge_Intrusion_Detection]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[Self_Organized_Criticality]]

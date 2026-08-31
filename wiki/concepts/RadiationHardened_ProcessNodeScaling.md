@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Reconfigurability]]
 [[FatalityDrivenRewiring]]
 [[Heterogeneous_Integration]]
+[[Inference_Stage_Decomposition]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Logic_Folding]]

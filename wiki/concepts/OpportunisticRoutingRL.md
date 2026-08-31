@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[OpportunisticRouting]]
 [[PairwiseCorrelationConstraint]]
 [[PropertyPredictionModeling]]
+[[SpikeRatePrecisionTradeoff]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]

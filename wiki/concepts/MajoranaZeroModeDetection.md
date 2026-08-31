@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[EdgeIoTEnergyAwareness]]
 [[ExplosiveCooperationTransition]]
 [[Intelligence_Emergence]]
+[[LocalEvolutionRules]]
 [[MajoranaZeroMode]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

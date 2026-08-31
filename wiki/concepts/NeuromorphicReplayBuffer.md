@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[ActionPrototypeClustering]]
 [[BrainInspiredArchitecture]]
 [[CIMWeightUpdateAwareness]]
+[[ChipletOpticalIO]]
 [[CollectiveSpikingDynamics]]
 [[Complex_System_Theory]]
 [[ConductingPolymerDendriteMemory]]

@@ -25,6 +25,8 @@ Auto-extracted concept from raw material compilation.
 [[ConsciousnessEngineeringLoop]]
 [[CrossLayer_SignalRouting]]
 [[DTGA]]
+[[DisturbancePropagationPath]]
+[[EventDrivenAsync]]
 [[EventDrivenAsynchronousRouting]]
 [[Event_Driven_Architecture]]
 [[FPGACongestionHotspotMitigation]]

@@ -50,6 +50,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[In_Network_Neuromorphic_Offload]]
 [[Kinematic_Waves]]
 [[LIF_Neuron_Model]]
+[[MagnetizationSusceptibilityResponse]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[AdjointWaveControl]]
 [[Complex_System_Theory]]
 [[DelayTolerantNetworkUAV]]
+[[FPGA_Reconfigurability]]
 [[FluxAttachmentTopology]]
 [[GravityPathIntegralTopology]]
 [[Intelligence_Emergence]]

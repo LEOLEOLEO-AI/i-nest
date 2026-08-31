@@ -20,8 +20,10 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3DHI_Chiplet_Integration]]
 [[AdiabaticMultimodeBend]]
 [[AdsorptionBiosorptionHybrid]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[AndersonTransition]]
 [[BioInspired_Interception_Control]]
@@ -34,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Collective_Offloading]]
 [[ComponentLevelPackaging]]
 [[DataMovementMinimization]]
+[[Heterogeneous_Integration]]
 [[InInterconnectMemory]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

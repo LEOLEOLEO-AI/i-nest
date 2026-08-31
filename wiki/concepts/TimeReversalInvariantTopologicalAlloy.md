@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[1024_Card_SuperNode]]
 [[3D_Heterogeneous_Integration]]
 [[AdiabaticMultimodeBend]]
+[[AdvancedPackagingInterconnect]]
 [[Allreduce_Latency_Benchmark]]
 [[Allreduce_Latency_Probe]]
 [[AndersonTransition]]

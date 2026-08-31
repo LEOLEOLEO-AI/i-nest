@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AmorphousSolidPlasticity]]
 [[Biomanufacturing_Control_Loop]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
+[[Concepts-Theory — 全景导航 (Map of Content)]]
 [[CouplingMatrixRecovery]]
 [[Coupling_Strength_Encoding]]
 [[Course_Based_FPGA_Projects]]

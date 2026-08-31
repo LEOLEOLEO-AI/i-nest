@@ -60,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[Temporal_Dynamics_Integration]]
 [[ThermallyDrivenSuperparamagneticReservoir]]
 [[ViewDependentAppearance]]
+[[WormBrain_FlyBody_Controller]]
 [[iNEST]]
 
 ## Sources

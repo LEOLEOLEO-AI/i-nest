@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[FrequencyAdaptationMechanism]]
 [[GraphAnomalySpikeEncoding]]
 [[Heterogeneous_Integration]]
+[[In_Package_Neuromorphic_Integration]]
 [[LatencyGradientDescent]]
 [[MembranePotentialAlignment]]
 [[Network_Topology_Design]]

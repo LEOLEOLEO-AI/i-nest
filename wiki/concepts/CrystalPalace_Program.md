@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Core_Spacetime_Tensor]]
 [[Crystallized_Neural_Manifolds]]
 [[DataDrivenCellularAxis]]
+[[Deep_Thermalisation]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Intelligence_Verifiability]]

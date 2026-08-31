@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicGraphAnomalyDetection]]
 [[Neuromorphic_Computing]]
 [[SNN]]
+[[SpectralSpikeEncoding]]
 [[SpikeBasedNeuralRadianceField]]
 [[SpikeTimingGradientPropagation]]
 [[SpikeTimingGradient]]

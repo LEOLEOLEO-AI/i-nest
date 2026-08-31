@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
+[[03 涌现：整体的能力不能还原回个体？ - 得到APP]]
 [[2026-06-15_大脑的量子纠缠与信息动力学]]
 [[AnalogDomainCompression]]
 [[AvalancheBranchingRatio]]
@@ -31,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalPhaseTransitionStatisticalTest]]
 [[Criticality]]
 [[FPGAInference]]
+[[Intelligence_Emergence]]
 [[Less is more，大脑“低能耗”并“高效响应”的秘诀：模块化]]
 [[MicroCriticalAgent]]
 [[Neuromorphic_Computing]]
@@ -41,6 +43,8 @@ Auto-extracted concept from raw material compilation.
 [[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[iNEST]]
 [[大脑临界性_健康脑功能的统一设定点假说_Neuron观点文章深度解析]]
+[[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

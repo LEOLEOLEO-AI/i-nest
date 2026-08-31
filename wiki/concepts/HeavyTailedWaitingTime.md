@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[SelfInhibitionFeedbackLoop]]
 [[SpikeCodedFeatureAssociation]]
 [[Spiking_Neural_Network]]
+[[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
 

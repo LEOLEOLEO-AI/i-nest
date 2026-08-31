@@ -26,10 +26,17 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[AI_Supply_Chain_Increment]]
 [[AI人工智能 卷积神经网络（CNN）_w3cschool]]
+[[BCM滑动阈值]]
+[[Complex_System_Theory]]
 [[Criticality]]
+[[Intelligence_Emergence]]
 [[Neuromorphic_Computing]]
+[[STDP_Plasticity]]
 [[Self_Organized_Criticality]]
 [[iNEST]]
+[[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

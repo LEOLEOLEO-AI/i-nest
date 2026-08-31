@@ -40,6 +40,8 @@ Auto-extracted concept from raw material compilation.
 [[In_Package_Neuromorphic_Integration]]
 [[MagnitudePhaseComputationalModel]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
+[[ST_SNN]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

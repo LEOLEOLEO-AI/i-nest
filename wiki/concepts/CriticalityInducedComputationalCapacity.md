@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AvalancheBranchingRatio]]
 [[Avoided_Criticality]]
 [[BranchingRatio]]
+[[BurstTemporalPlasticity]]
 [[CST_Theory]]
 [[Catastrophic_Forgetting_Mitigation]]
 [[Complex_System_Theory]]

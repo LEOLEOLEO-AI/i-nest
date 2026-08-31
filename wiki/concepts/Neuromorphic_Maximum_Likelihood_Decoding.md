@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptersInSpikingNetworks]]
 [[AstrocyteInspiredRepair]]
 [[AttentionGuidedEntropy]]
+[[BayesMarkovOrientationModel]]
 [[Complex_System_Theory]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]

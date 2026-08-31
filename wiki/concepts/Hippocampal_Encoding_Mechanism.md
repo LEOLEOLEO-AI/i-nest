@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[ConformalFieldTheoryScaling]]
+[[ERI_2_0_Strategy]]
 [[EntanglementSignatures]]
 [[GeometricRegularizationLoss]]
 [[HeavyTailedWaitingTime]]

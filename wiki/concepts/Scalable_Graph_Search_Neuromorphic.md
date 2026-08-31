@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[BioPlausiblePredictiveCoding]]
 [[BulletTrainScheduling]]
+[[ConductingPolymerDendriteMemory]]
 [[ContinuousTimeSNN]]
 [[Criticality]]
 [[Emergent_Intelligence]]

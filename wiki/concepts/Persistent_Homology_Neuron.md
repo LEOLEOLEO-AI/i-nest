@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeEventDrivenInference]]
 [[Spike_Computation_Energy_Model]]
 [[Spiking_Neural_Network]]
+[[Spiking_Topology]]
 [[TCC]]
 [[TopologyDrivenCascade]]
 [[Topology_Aware_Spike_Routing]]

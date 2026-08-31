@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[DTGA]]
 [[DendriticTaskPartitioning]]
 [[Dynamic_Expert_Fusion]]
+[[Environmental_Capability_Context]]
 [[FerroelectricDevice]]
 [[Ferroelectric_Devices]]
 [[Generative_Model_Topology]]

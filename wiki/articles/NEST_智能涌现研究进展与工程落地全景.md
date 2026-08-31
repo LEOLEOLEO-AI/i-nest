@@ -2,7 +2,7 @@
 
 **Domain**: TCC
 **Source**: 00_Inbox\01_GetNotes\NEST 智能涌现研究进展与工程落地全景.md
-**Compiled**: 2026-08-31
+**Compiled**: 2026-09-01
 
 ## Summary
 title: "NEST 智能涌现研究进展与工程落地全景" date: 2026-08-31 07:23 现在我已经完整遍历了 Obsidian 主工作区的全部核心内容。以下是基于完整资料的系统性总结。 > 基于 `d:\obsidian\home\work\.openclaw\workspace\` 全部核心文档的深度梳理 **iNEST = Institute for Neuromorphic & Emergent Systems and Technologies**

@@ -24,7 +24,9 @@ Auto-extracted concept from raw material compilation.
 [[BrownianCastleInterface]]
 [[BrownianCastleInterfaces]]
 [[CST_Intelligence_Emergence]]
+[[Chiplet]]
 [[Chiplet_Based_Neuromorphic_Integration]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Complex_System_Theory]]
 [[Complexity_Emergence]]
@@ -58,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TemporalDynamicsModeling]]
+[[Wafer_Scale_Neuromorphic]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
 

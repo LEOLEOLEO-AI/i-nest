@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Accessibility_Plasticity]]
 [[AnomalousSpinTransport]]
 [[BigBrainCellularAxis]]
+[[CrossbarArrayVLSI]]
 [[FPGAInference]]
 [[Interconnect_Routing]]
 [[Memristor]]

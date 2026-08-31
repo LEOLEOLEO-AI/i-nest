@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[Dynamic_Expert_Routing]]
 [[EnsembleCreditAssignment]]
+[[ExplainableEnergyAI]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Interconnect_Routing]]
 [[LocalPlasticityPipeline]]

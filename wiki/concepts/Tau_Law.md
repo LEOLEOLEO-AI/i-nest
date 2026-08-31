@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[ReproducibleReservoirComputing]]
 [[ReproducibleReservoirOutput]]
 [[Reservoir_Computing]]
+[[SiliconPhotonicsNetwork]]
 [[Space_Compute_Architecture_Tradeoff]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]

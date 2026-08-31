@@ -22,10 +22,13 @@ Auto-extracted concept from raw material compilation.
 
 [[3D_Heterogeneous_Integration]]
 [[AIRA_NeuralArchSearch]]
+[[AdaptiveGraphDiffusion]]
 [[AndersonTransition]]
 [[CavityMethodAnalysis]]
 [[CommunicationAwareComputeRelocation]]
 [[Deep_Thermalisation]]
+[[Heterogeneous_Integration]]
+[[Interconnect_Routing]]
 [[MemoryDrivenRouting]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

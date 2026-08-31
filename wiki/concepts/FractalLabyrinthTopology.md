@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[GraphIsomorphismNetworks_EdgeFeatures]]
 [[GraphTopologyAnalysis]]
 [[Heterogeneous_Integration]]
+[[Historical_Batch_Data]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]

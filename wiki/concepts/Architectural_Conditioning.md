@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[HighDimensionalChaos]]
 [[Intelligence_Emergence]]
 [[LiquidStateCrossover]]
+[[MachineLearningPotential]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]

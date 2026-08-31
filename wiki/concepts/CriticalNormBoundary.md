@@ -22,10 +22,12 @@ Auto-extracted concept from raw material compilation.
 
 [[AINext_Initiative]]
 [[AlloyDisorderEngineering]]
+[[BioInspired_Interception_Control]]
 [[BurstGatedRouting]]
 [[CriticalityDrivenTopology]]
 [[Criticality]]
 [[Criticality_Based_Feature_Extraction]]
+[[EventDrivenAsync]]
 [[EventDrivenAsynchronousRouting]]
 [[FPGA_NeuromorphicMapping]]
 [[FunctionalRelevanceDrivenSelfOrganization]]

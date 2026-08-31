@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN_TCC_Integration]]
 [[SNN_Topology_Integration]]
 [[Spiking_Neural_Network]]
+[[StructuralPriorEncoding]]
 [[TCC]]
 
 ## Sources

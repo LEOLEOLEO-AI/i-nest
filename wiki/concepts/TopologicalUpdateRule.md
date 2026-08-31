@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[CouplingTopologyMemoryLink]]
 [[Coupling_Topology]]
 [[CriticalStateReservoir]]
+[[DiscreteScaleInvariance]]
 [[Fixed_Reservoir_Unitary]]
 [[InNetworkSignalRecovery]]
 [[LindbladInspiredReservoir]]

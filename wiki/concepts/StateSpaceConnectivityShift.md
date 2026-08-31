@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Crystallized_Neural_Manifolds]]
 [[DivergentHigherAreaRanking]]
 [[Dynamics_Matching]]
+[[ErrorSuppressedPipeline]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
 [[SNN]]

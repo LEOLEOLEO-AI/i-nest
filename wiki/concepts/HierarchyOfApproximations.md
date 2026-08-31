@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[ApproximateMacroscopicDynamics]]
 [[BigBrainCellularAxis]]
 [[Biologically_Plausible_Learning_Rules]]
+[[CollectiveDynamics]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[ConverterDrivenStability]]
 [[CriticalityDrivenAdaptation]]

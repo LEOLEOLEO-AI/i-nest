@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[ScalableNeuromorphicTopology]]
 [[Spike_Encoding_of_fMRI]]
+[[Spiking neural network]]
 [[SpikingNeuralNetworkTopologyMapping]]
 [[SpikingNeuralNetworkTopology]]
 [[SpikingNeuralNetwork]]
@@ -57,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Temporal_Encoding]]
 [[StochasticBinaryNetwork]]
 [[TCC]]
+[[TCC_SpikingAnalysis]]
 [[TopologicalAndersonChernInsulator]]
 [[神经网络]]
 

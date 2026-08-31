@@ -23,12 +23,17 @@ Auto-extracted concept from raw material compilation.
 [[Avoided_Criticality]]
 [[BrainScaleS_AsyncEventCircuit]]
 [[BurstSuppressionMechanism]]
+[[BurstSuppression]]
 [[CriticalityIndex]]
+[[Criticality]]
 [[Discrete_Event_Spike_Simulation]]
 [[EventDrivenMatrixUpdate]]
 [[Event_Driven_Architecture]]
 [[Event_Driven_Computation]]
+[[Self_Organized_Criticality]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
+[[Syncytial_Mesh_Model]]
 [[iNEST]]
 
 ## Sources

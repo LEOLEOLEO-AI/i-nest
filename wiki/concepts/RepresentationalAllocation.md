@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[HysteresisLoopControl]]
 [[Intelligence_Emergence]]
 [[LiquidStateCrossover]]
+[[MachineLearningPotential]]
 [[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]
 [[STDP_Plasticity]]

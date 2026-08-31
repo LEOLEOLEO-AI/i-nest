@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AlternativeBridgingModels]]
 [[AnalogDomainCompression]]
 [[AnalogDomainCompressiveSensing]]
+[[AndersonTransition]]
 [[AnisotropicGaussianPrimitives]]
 [[AnomalousSpinTransport]]
 [[ArbitraryWavefunctionConfigurability]]

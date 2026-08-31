@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Critical_Region_Extension]]
 [[EvolvingArchitectureDynamics]]
 [[Evolving_System_Resilience]]
+[[FPGA_Reconfigurability]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[HybridCouplingThermosensitiveNetwork]]
 [[InSitu_Adjoint_Wave_Control]]

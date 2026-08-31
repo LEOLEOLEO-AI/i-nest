@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[AnomalousSpinTransport]]
 [[CouplingMatrixRecovery]]
 [[CouplingTopologyMemoryLink]]
+[[Decoupling_Mechanism]]
 [[EquivariantGraphLayers]]
 [[Network_Topology_Design]]
 [[Reservoir_Computing]]

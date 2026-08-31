@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_based_heterogeneous_integration]]
 [[Complex_System_Theory]]
 [[DataProvenanceIntegrity]]
+[[Decoupled_Priors]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]

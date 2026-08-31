@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[EnsembleCreditAssignment]]
 [[ErrorAmplificationLimits]]
 [[EventBasedGestureEncoding]]
+[[EventDrivenControlLoop]]
 [[EventDrivenMotionDeblurring]]
 [[EventDrivenTemplateUpdate]]
 [[Event_Driven_Architecture]]

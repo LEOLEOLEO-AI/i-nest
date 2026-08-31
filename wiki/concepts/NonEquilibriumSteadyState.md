@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN动力学]]
 [[Advanced_Computing_Project]]
 [[AgentReinforcementLoop]]
+[[Alpha_Coefficient_Phase_Transition_Amplification]]
 [[Analog_InMemory_Processing]]
 [[AttractorBasinOrthogonality]]
 [[BCM滑动阈值]]

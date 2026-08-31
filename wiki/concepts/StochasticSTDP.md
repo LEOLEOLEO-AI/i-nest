@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Complex_System_Theory]]
+[[Contested_Prior_Resolution]]
 [[Memristive_STDP]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
@@ -29,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[STDP_iNEST_Memristive]]
+[[Spike_Timing_Dependent_Plasticity]]
 [[Spike_timing_dependent_plasticity_learning_rule]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

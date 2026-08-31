@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[ERI_2_0_Strategic_Framework]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Theory]]
+[[Free_Energy_Principle_Network]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[iNEST]]

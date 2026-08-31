@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[BurstInterleaving]]
 [[ContinualLearningOnNeuromorphic]]
+[[Efficient_Coding_Constraint]]
 [[EventDrivenRiskAssessment]]
 [[EventDrivenTracking]]
 [[Event_Driven_Architecture]]

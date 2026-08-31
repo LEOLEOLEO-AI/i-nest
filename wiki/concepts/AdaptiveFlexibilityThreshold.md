@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AnisotropicGaussianPrimitives]]
 [[BigBrainCellularAxis]]
 [[BioInspiredLearningRule]]
+[[ChannelEventSparsity]]
 [[Contested_Priors_Mechanism]]
 [[FlagOS_2_0]]
 [[FlexibilityThreshold]]

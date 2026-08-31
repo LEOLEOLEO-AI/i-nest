@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[ConformalFieldTheoryScaling]]
 [[Crack_Generation_Identification]]
 [[DAGGER_Algorithm]]
+[[DisorderAwareDetection]]
 [[EpidemicThreshold]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

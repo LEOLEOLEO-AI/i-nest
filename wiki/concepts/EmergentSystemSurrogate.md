@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveMeasurementProtocol]]
 [[AutonomousAdaptation]]
 [[BayesianDomainEvolution]]
+[[BehavioralFeedbackLoop]]
 [[Biomanufacturing_Control_Loop]]
 [[BrainScaleTopologyExploitation]]
 [[Complex_System_Theory]]

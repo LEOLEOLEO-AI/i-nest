@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Nonlinear_Dynamics]]
 [[Heterogeneous_Synaptic_Motifs]]
 [[InNetworkAgentRewiring]]
+[[IntelligenceEmergence]]
 [[Intelligence_Emergence]]
 [[JunctionCenteredFramework]]
 [[NCL神经计算定律详解]]
@@ -55,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[scaling laws]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

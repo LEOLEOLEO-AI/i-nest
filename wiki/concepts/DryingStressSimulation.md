@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstTemporalPlasticity]]
 [[DiscreteSTDP]]
 [[EventCameraPoseInput]]
+[[EventCameraTemporalEncoding]]
 [[EventDrivenSynchronization]]
 [[ImpactFallDetection]]
 [[MembranePotentialAlignment]]

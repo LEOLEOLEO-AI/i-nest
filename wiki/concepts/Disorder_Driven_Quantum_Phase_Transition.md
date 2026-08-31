@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Agile_Resilient_Defense_Ecosystem]]
 [[AnytimePointCloudRecognition]]
 [[Avoided_Criticality]]
+[[Biologically_Plausible_Learning_Rules]]
 [[BurstTemporalPlasticity]]
 [[Catastrophic_Forgetting_Mitigation]]
 [[ClosedLoopNeuromorphicControl]]

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[3DHI_Chiplet_Integration]]
 [[AI_Faculty_Forum_2026]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
@@ -47,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Memory_Computing]]
 [[In_Package_Optical_Interconnect]]
 [[Intelligence_Emergence]]
+[[Intelligent_Power_Management]]
 [[Long_Range_Interactions]]
 [[Memristive_CAM_Indexing]]
 [[MetaFAIR_ArchitectureDiscovery]]

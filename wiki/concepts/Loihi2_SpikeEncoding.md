@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration_Route]]
 [[CirculateFiringNeuron]]
 [[Gate_Synthesis_Readout]]
 [[GroupSynchronization]]

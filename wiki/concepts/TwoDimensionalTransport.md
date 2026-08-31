@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[ChipletRoutingFabric]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[CongestionAwareNoCPlacement]]
 [[EdgeIoTEnergyAwareness]]
@@ -38,8 +39,10 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[IndexOrderingOptimization]]
 [[Interconnect_Routing]]
+[[Interconnect_Topology]]
 [[LatencyCodedInterconnect]]
 [[Memristive_Topology]]
+[[Multi_Objective_Routing]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC]]
@@ -51,7 +54,6 @@ Auto-extracted concept from raw material compilation.
 [[Swarm_Coordination]]
 [[TCC]]
 [[WaferScale_Chiplet_Interconnect]]
-[[chiplet interconnect]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

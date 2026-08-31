@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[DeepThermalisationTopology]]
 [[Generalized_Synchronization_Bond]]
 [[Heterogeneous_Integration]]
+[[NetworkInfluenceDynamics]]
 [[Network_Topology_Design]]
 [[Self_Organized_Criticality]]
 [[TCC]]

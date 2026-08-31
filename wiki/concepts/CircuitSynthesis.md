@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[OpportunisticRouting]]
 [[ReputationPropagation]]
 [[RoutingBasedComputation]]
+[[SDDE_SelfDescribingDataExchange]]
 [[SemanticTopologyMapping]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]

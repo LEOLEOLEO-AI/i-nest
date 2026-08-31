@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[EventCameraActionRecognition]]
 [[ExplainableEnergyAI]]
+[[FixedOverheadCost]]
 [[FixedOverheadPenalty]]
 [[HodgkinHuxleyDynamics]]
 [[Intelligence_Emergence]]

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[CognitiveFeedbackLoop]]
 [[CompetitiveEdgeRewiring]]
 [[Complex_System_Theory]]
+[[Cryogenic_Syndrome_Compression]]
 [[CubicLatticeInterconnect]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence]]

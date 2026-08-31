@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Distributed_Sinkhorn_Iteration]]
 [[Dynamic_Expert_Fusion]]
 [[Energy_Balanced_Interconnect]]
+[[ExactEvolutionaryHybridSearch]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]

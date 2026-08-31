@@ -42,6 +42,8 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenComputation]]
 [[EventDrivenNeuromorphicLearning]]
 [[Event_Driven_Architecture]]
+[[Event_Driven_Computation]]
+[[Expressivity_Bounds]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[NeuralNetworkSpectralAnalysis]]

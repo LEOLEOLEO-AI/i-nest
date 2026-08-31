@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[EvolutionaryReservoirLearning]]
 [[Intelligence_Emergence]]
 [[Loihi2_OnChip_Learning]]
+[[Metriplectic_Twin]]
 [[NeuromorphicSafetyBoundary]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_MuscleInterface]]

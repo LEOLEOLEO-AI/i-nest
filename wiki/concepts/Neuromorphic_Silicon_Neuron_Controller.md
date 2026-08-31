@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Gut_Brain_Immune_Network]]
 [[Memristor]]
 [[Memristor_Synapse]]
+[[Mesoscale_Neural_Dynamics]]
 [[MinimalNetworkModel]]
 [[MultiModel_Adapter_Architecture]]
 [[NeuromorphicLocomotionPrimitive]]

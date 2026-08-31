@@ -21,10 +21,12 @@ Auto-extracted concept from raw material compilation.
 
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[DynamicServiceComposition]]
 [[GeneralIntelligenceSubstrate]]
 [[Heterogeneous_Integration]]
+[[Interconnect_Topology]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC]]
@@ -42,12 +44,12 @@ Auto-extracted concept from raw material compilation.
 [[SDI_iNEST_Encapsulation]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
+[[ScalabilityFaultToleranceTradeoff]]
 [[SoftwareDefinedSystemOnWafer]]
 [[Software_Defined_Interconnect]]
 [[TCC]]
 [[ThreeLayerArchitecture]]
 [[TopologyProgramming]]
-[[chiplet interconnect]]
 [[iNEST]]
 
 ## Sources

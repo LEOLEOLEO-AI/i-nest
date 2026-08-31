@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicVisualPipeline]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
+[[PersonalizedSNNTransfer]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[TopologicalAndersonChernInsulator]]

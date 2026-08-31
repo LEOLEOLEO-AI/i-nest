@@ -55,6 +55,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[TemperatureSensitivityControl]]
 [[complex system]]
 [[iNEST]]
+[[五层性能评估框架]]
 [[复杂网络]]
 [[战略报告提纲：物理复杂网络智能涌现——颠覆现有算力范式的新路线]]
 [[智能涌现]]

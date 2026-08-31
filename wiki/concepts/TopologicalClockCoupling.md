@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[MeasurementEfficientProtocol]]
 [[Network_Topology_Design]]
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]

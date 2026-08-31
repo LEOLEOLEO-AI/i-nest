@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Encapsulation_Topology]]
 [[Euclidean_LatticeFieldSampling]]
 [[FaultTolerantLogicalOperation]]
+[[GeometricRoleEmbedding]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]

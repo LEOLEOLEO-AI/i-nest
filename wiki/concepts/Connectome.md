@@ -31,8 +31,10 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Integration]]
 [[getnote_2026-01-12_数字孪生大脑工程化路径]]
 [[getnote_2026-01-12_晶圆级神经网络能效革命]]
+[[getnote_2026-06-27_智能涌现理论框架]]
 [[getnote_2026-06-28_从固定拓扑到液态拓扑计算]]
 [[iNEST]]
+[[复杂网络]]
 [[神经网络]]
 
 ## Sources

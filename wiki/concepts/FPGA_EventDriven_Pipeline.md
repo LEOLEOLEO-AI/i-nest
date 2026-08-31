@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Avoided_Criticality]]
+[[BulletTrainScheduling]]
 [[CorticalWaveRouting]]
 [[CriticalNormBoundary]]
 [[Criticality]]
@@ -28,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Discrete_Event_Spike_Simulation]]
 [[EarlyVisualCortexAliasing]]
 [[Endocrine_Modulated_Network_State]]
+[[EventDrivenAsync]]
 [[EventDrivenAsynchronousRouting]]
 [[EventDrivenFunctionalConnectivity]]
 [[EventDrivenModularArchitecture]]

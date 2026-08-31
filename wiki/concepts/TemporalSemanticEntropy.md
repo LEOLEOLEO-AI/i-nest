@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[CoreComputationSubspace]]
 [[CulturalDisseminationDynamics]]
 [[Edge_Intelligence]]
+[[Electronic_Warfare_Integration]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[FlexibilityThreshold]]

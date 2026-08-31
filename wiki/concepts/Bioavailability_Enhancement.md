@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Effective_Information]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
+[[Entanglement_Teleportation_Locality]]
 [[Free_Energy_Principle_Network]]
 [[GlobalInformationDominance]]
 [[HierarchicalInferenceTopology]]

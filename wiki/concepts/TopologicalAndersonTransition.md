@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[OpenLearningEcosystem]]
 [[OptimalControlPolicyLearning]]
+[[SpectralGapMoE]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[Topological_Anderson_Insulator]]

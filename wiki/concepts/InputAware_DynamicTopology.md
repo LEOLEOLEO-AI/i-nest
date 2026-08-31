@@ -24,11 +24,19 @@ Auto-extracted concept from raw material compilation.
 [[Accessibility_Plasticity]]
 [[ActiveDendriteSNN]]
 [[AdaptiveArchitecture]]
+[[AnisotropicGaussianPrimitives]]
 [[DynamicTopology]]
 [[FPGA_Neuromorphic_Architectures]]
 [[Network_Topology_Design]]
+[[Neuromorphic_Computing]]
+[[SDI_Bond]]
+[[SDI_STDP]]
 [[SDI_STDP_Rule]]
+[[SNN]]
+[[STDP_Plasticity]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 
 ## Sources
@@ -36,3 +44,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- InputAware_DynamicTopology (merged 2026-09-01)

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[CouplingMatrixRecovery]]
 [[Criticality]]
 [[DARPA_ProjectManager_Model]]
+[[DisorderInducedEntanglementTransition]]
 [[Dynamic_Expert_Fusion]]
 [[DynamicalSelfDualCriticality]]
 [[Evolving_System_Adaptation]]

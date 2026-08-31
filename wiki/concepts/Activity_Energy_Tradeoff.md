@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[Neural_Avalanche]]
 [[Neuromorphic_Computing]]
+[[Reconfigurable_Neuromorphic_Acceleration]]
 [[SDN_Neuromorphic_Interface]]
 [[SNN]]
 [[SNN_NeuroprostheticPipeline]]

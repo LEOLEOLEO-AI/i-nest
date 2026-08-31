@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[ArchitecturalCondition]]
 [[Architectural_Conditioning]]
 [[Cognitive_Relapse_Decoupling]]
+[[ConstraintDrivenOptimization]]
 [[Constructed_Reality_Interconnect]]
 [[CounterstreamSignalPropagation]]
 [[Criticality]]

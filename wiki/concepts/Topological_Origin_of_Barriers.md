@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveArchitecture]]
 [[AdaptiveEntanglementManagement]]
 [[AdaptiveFunctionalTopology]]
+[[AstrocyteInspiredModulation]]
 [[AtomicGeometryEncoding]]
 [[BarrierConditionedTrajectory]]
 [[BrownianCastleInterface]]

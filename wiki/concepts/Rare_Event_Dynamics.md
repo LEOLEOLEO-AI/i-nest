@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CoexistencePhaseTransition]]
 [[CouplingMatrixRecovery]]
 [[Crystallized_Neural_Manifolds]]
+[[DataDrivenMaterialDesign]]
 [[DendriticReservoirState]]
 [[DifferentiableLifting]]
 [[EcosystemTopologyCoupling]]

@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[ConstrainedHebbianLearning]]
 [[Dynamic_Expert_Fusion]]
+[[ERI_2_0_Strategy]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

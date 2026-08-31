@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Complexity_Emergence]]
 [[Complexity_Emergence_Engineering]]
 [[DataDrivenCellularAxis]]
+[[DrivenDissipativeDynamics]]
 [[ErrorSuppressedPipeline]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

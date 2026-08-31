@@ -26,6 +26,8 @@ Auto-extracted concept from raw material compilation.
 [[ConsciousnessEngineeringLoop]]
 [[CrossLayer_SignalRouting]]
 [[Defense_Industrial_Base_Reshaping]]
+[[DisturbancePropagationPath]]
+[[EventDrivenAsync]]
 [[EventDrivenAsynchronousRouting]]
 [[Event_Driven_Architecture]]
 [[Evolutionary_Structure_Computability]]

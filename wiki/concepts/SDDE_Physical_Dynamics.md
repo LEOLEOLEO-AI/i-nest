@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AIRA_NeuralArchSearch]]
 [[AI_Application_Scenario_Reconstruction]]
 [[Alpha_Computation_Consistency]]
+[[Analog_InMemory_Processing]]
 [[AndersonTransition]]
 [[AnomalousSpinTransport]]
 [[BigBrainCellularAxis]]
@@ -32,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
 [[Complex_System_Theory]]
 [[Core_Spacetime_Tensor]]
 [[CytoarchitectonicAxis]]
@@ -60,7 +62,6 @@ Auto-extracted concept from raw material compilation.
 [[TemporalComplexity]]
 [[ThermallyDrivenSuperparamagnetReservoir]]
 [[ThermallyDrivenSuperparamagneticReservoir]]
-[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

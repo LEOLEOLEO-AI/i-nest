@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[MatrixShapePhaseTransition]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[NonreciprocalQuasiperiodicLattice]]
 [[OpenLearningEcosystem]]
 [[PhotonicSynapticPlasticity]]
@@ -54,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[SynchronizationAttractorBasin]]
 [[TCC]]
 [[TCC_Neuromorphic_Integration]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[神经网络]]
 
 ## Sources

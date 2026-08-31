@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[Cognitive_Relapse_Decoupling]]
 [[Continual_Learning_Modularity]]
+[[CriticalBranching]]
 [[CriticalFixedPoint]]
 [[CriticalityConstrainedPruning]]
 [[Criticality]]

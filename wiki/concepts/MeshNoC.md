@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[EquilibriumTreePacking]]
 [[EvolutionaryTopologySearch]]
 [[FloquetDriving]]
+[[GateModelHardware]]
 [[GateModelQuantumOptimization]]
 [[HeterogeneousSiNIntegration]]
 [[Heterogeneous_Integration]]

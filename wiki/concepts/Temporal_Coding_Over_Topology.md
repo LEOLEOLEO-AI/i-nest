@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_STDP_Rule]]
 [[SDI节点接口规范与化合键定义]]
 [[STDP_Plasticity]]
+[[STDP_iNEST]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]

@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Agent_Workflow_Automation]]
 [[Alpha_Coefficient_Phase_Transition_Amplification]]
 [[Analog_InMemory_Processing]]
+[[Asymmetric_Interaction_Graph]]
 [[Barrier_Hierarchy]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]

@@ -56,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[SDDE_Attractor_Emergence]]
 [[SelfRectifyingMemristor]]
 [[SemanticRelationTemporalGraph]]
+[[ShortTermMemoryReservoir]]
 [[SuperparamagneticSwitchingRate]]
 [[Synaptic_Plasticity]]
 [[TCC]]

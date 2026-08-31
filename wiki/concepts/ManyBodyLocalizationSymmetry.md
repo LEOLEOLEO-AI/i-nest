@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[OscillatoryDynamicsTopology]]
 [[P_Paradigm]]
 [[PhotonicStateRetention]]
+[[ReplicaSynchronizationOrderParameter]]
 [[TCC]]
 [[Topology_Centric_Packaging]]
 

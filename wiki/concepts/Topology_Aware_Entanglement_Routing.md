@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[HybridCouplingThermosensitiveNetwork]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[NetworkDiffusionCoupling]]
 [[Network_Topology_Design]]
 [[SelfOrganization]]
 [[TCC]]

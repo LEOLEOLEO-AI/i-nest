@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[ErrorSuppressedPipeline]]
 [[Global_Self_Attention_Bottleneck]]
 [[InterpretabilityDrivenDesign]]
+[[MLChiralityDecoder]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[SNN]]

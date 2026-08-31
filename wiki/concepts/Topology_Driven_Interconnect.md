@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Architecture]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
+[[TemperatureSensitivityControl]]
 [[ThermallyDrivenSuperparamagnetReservoir]]
 
 ## Sources

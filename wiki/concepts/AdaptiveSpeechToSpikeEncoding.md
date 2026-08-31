@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[11_SDI节点接口规范与化合键定义_dup]]
 [[AI_Faculty_Forum_2026]]
+[[AdaptiveFrequencyResonateFire]]
 [[AdaptiveSTDP]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BrainBodyResonance]]
@@ -52,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeTimingFidelity]]
 [[Spike_Encoding_of_fMRI]]
 [[Spike_Timing_Dependent_Plasticity]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[Syncytial_Mesh]]

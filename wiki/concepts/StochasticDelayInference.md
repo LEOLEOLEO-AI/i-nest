@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[ConsciousnessEngineeringLoop]]
 [[Environmental_Capability_Context]]
+[[EventDrivenAsync]]
 [[EventDrivenAsynchronousRouting]]
 [[Event_Driven_Architecture]]
 [[FPGACongestionHotspotMitigation]]
@@ -41,12 +42,16 @@ Auto-extracted concept from raw material compilation.
 [[NoC_EventRouting]]
 [[PhysicalDesign_ReliabilityTradeoff]]
 [[QuarantineCostTradeoff]]
+[[SDI_Bond]]
+[[SDI_STDP]]
 [[SDI_STDP_Rule]]
+[[STDP_Plasticity]]
 [[SpikeTimingPreservation]]
 [[Spike_Event_Driven_Attention]]
 [[Spiking_Neural_Network]]
 [[Spiking_Temporal_Encoding]]
 [[TCC]]
+[[Wafer_Scale_Interconnect_Memristor]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

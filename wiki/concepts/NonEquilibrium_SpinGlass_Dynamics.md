@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Decoupling_Mechanism]]
 [[DendriticReservoirState]]
 [[DynamicInference]]
+[[ERI_2_0_Strategy]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

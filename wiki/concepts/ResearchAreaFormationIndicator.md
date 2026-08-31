@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_TCC_iNEST_Bridge]]
 [[SDI_iNEST_Encapsulation]]
 [[ScalabilityFaultToleranceTradeoff]]
+[[SoftwareDefinedSystemOnWafer]]
 [[TCC]]
 [[iNEST]]
 [[涌现]]

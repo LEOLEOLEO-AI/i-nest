@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Backpropagation_Comparison]]
 [[Banded_NonHermitian_Matrix]]
 [[CST计量仪]]
+[[CausalIntegrationPhi]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveModelPartitioning]]
 [[Adaptive_Intelligence_Principle]]
 [[Adaptive_Path_Selection]]
+[[Adaptive_Service_Orchestration]]
 [[AdjointWaveControl]]
 [[AgenticServiceManifesto]]
 [[AgenticServiceOrchestration]]

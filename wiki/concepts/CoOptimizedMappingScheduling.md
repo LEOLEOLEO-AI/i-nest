@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Continuous_Control_Spiking_Stability]]
 [[ConventionalAndSpikingDualMode]]
 [[Criticality]]
+[[CrossEntityPreemptiveWarning]]
 [[DeepCode_AlgorithmExtraction]]
 [[DelayAwareSpikeEventDelivery]]
 [[DiscreteContinuous_Unification]]

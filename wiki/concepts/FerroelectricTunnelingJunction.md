@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Ferroelectric_Devices]]
 [[Field_Compression_for_InNetwork_Inference]]
 [[FisherOrthogonalMemory]]
+[[FunctionalInterfaceBlocks]]
 [[GeTeBasedCBRAM]]
 [[Heterogeneous_Integration]]
 [[HybridResistiveMemoryCIM]]

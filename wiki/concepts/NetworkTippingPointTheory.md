@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Milinkovic B (2024)：复杂神经系统涌现动力学结构]]
 [[Network_Topology_Design]]
 [[NonHermitian_Random_Matrix_Spectra]]
+[[ObsidianV4_Integration]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
 [[STDP_Plasticity]]

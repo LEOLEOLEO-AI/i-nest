@@ -2,7 +2,7 @@
 
 **Domain**: TCC
 **Source**: 00_Inbox\01_GetNotes\iNEST三大平台定位与命名.md
-**Compiled**: 2026-08-31
+**Compiled**: 2026-09-01
 
 ## Summary
 title: "iNEST三大平台定位与命名" date: 2026-08-31 07:23 > **国家介观尺度异构集成智能系统创新中心** > (National Innovation Center for Mesoscale Heterogeneous Integrated intelligent Systems) -   **备选简称：** 介观智能系统国创中心 (NMIS)

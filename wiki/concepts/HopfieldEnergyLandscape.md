@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[ConvolutionalRestrictedHopfieldNetwork]]
 [[CriticalWeightNormBoundary]]
 [[DelayCodedWorkingMemory]]
+[[DirtyWeylSemimetal]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenInference]]

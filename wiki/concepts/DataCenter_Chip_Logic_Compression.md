@@ -44,6 +44,8 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[InterChipletPHYModeling]]
+[[Interconnect_Topology]]
+[[MachineLearningPotential]]
 [[MetaHardwareAbstraction]]
 [[NCL神经计算定律详解]]
 [[Network_Topology_Design]]

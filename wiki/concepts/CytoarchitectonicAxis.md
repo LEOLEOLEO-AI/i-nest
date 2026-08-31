@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[CellEmergence]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
 [[Course_Based_FPGA_Projects]]
 [[Heterogeneous_Integration]]
 [[HodgkinHuxleyDynamics]]
@@ -48,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[QuantumChaos]]
 [[SDI_Bond]]
 [[SDI_STDP]]
+[[SDI_STDP_Rule]]
 [[SDI_TCC_Chiplet]]
 [[SDI节点接口规范与化合键定义]]
 [[SDSoW]]
@@ -64,7 +66,6 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect_Memristor]]
 [[Wafer_Scale_Neuromorphic]]
 [[Wafer_Scale_Neuromorphic_Integration]]
-[[chiplet interconnect]]
 [[神经网络]]
 
 ## Sources

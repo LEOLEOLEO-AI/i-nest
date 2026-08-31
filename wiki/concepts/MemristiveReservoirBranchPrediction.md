@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AndersonTransition]]
 [[Architectural_Conditioning]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
+[[CompactnessRegularizedFitness]]
 [[Complex_System_Theory]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]

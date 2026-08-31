@@ -20,12 +20,18 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Bipartite_Interconnect]]
 [[Bipartite_Interconnect_Design]]
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[CommunicationAsComputation]]
 [[DistributedTrainingPipeline]]
 [[HeterogeneousChipletIntegration]]
+[[InterconnectAwarePartitioning]]
+[[Interconnect_Topology]]
 [[MicroRouter_Embedding]]
 [[Network_Topology_Design]]
 [[TCC]]

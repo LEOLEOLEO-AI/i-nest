@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[ContinualLearningOnNeuromorphic]]
 [[ContinuousGameOfLife]]
 [[CriticalWeightNormBoundary]]
+[[CrossDomain_Abstraction]]
 [[DisorderedNetworkInterconnect]]
 [[DistributedEventConditionDesign]]
 [[Dynamic_Expert_Fusion]]

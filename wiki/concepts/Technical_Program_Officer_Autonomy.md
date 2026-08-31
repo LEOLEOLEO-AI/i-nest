@@ -59,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[TemporalDynamicsModeling]]
 [[Three_Dimensional_Analysis]]
 [[TransportEquationSolutionMethod]]
+[[ViewDependentAppearance]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

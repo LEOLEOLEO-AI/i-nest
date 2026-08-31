@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Reusable_Hypersonic_Platform]]
 [[SelfOrganization]]
+[[StretchablePhotonicInterconnect]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]

@@ -45,6 +45,8 @@ Auto-extracted concept from raw material compilation.
 [[MetaHardwareAbstraction]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[OrganoidOnChipInterface]]
+[[RenormalizationGroup_Approach]]
 [[Renormalization_Group]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]

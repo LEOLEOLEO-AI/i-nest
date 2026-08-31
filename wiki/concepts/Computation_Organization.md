@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Nanoencapsulation_PhaseTransition]]
 [[Nonlinear_Gain]]
 [[OpticalReservoirComputing]]
+[[Photonic_Reservoir_Computing]]
 [[ReservoirDynamics]]
 [[Reservoir_Computing]]
 [[RunawayAvalanche]]

@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[Order_Flexibility_Duality]]
+[[PostVonNeumannIntelligence]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[ScaleFreeNetwork]]

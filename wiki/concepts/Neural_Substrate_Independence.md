@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[IntrinsicDynamicsAutonomy]]
 [[LeftRightAsymmetry]]
 [[MeasurementInducedPhaseTransition]]
+[[Metriplectic_Twin]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_MuscleInterface]]

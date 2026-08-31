@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[SelfMotivatedGrowth]]
 [[Self_Organized_Criticality]]
 [[SneakPathCurrentSuppression]]
+[[Spatiotemporal_Synergy_Complexity]]
 [[TCC]]
 [[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[iNEST]]

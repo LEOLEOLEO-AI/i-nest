@@ -24,8 +24,10 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveGraphDiffusion]]
 [[Adaptive_Intelligence_Principle]]
 [[Adaptive_Service_Orchestration]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[AndersonTransition]]
+[[Chiplet]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[TCC]]
@@ -36,3 +38,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- Sense_Transmit_Store_Compute_Integration (merged 2026-09-01)

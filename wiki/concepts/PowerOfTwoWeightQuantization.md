@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[NeuronModel_Hardware_Translator]]
 [[PropertyPredictionModeling]]
+[[RecurrentSpikingTopology]]
 [[Reservoir_Computing]]
 [[SNN]]
 [[STDP_Learning]]

@@ -20,12 +20,14 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[2_5D_Interposer]]
 [[3DHI_Stacking]]
 [[3D_IC_Stacking]]
 [[4H_SiC_SubstrateProcessing]]
 [[AnalogDomainCompression]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
 [[Chiplet_NoC_Fabric]]
 [[DARPA_ProjectManager_Model]]
 [[FractureMechanism]]

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveBitPrecisionExploration]]
 [[AdaptiveDensityControl]]
 [[AdaptiveModelPartitioning]]
+[[Adaptive_Path_Selection]]
 [[AmorphousSolidPlasticity]]
 [[ArbitraryWavefunctionConfigurability]]
 [[BackflowTransformation]]

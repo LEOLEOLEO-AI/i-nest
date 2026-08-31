@@ -52,6 +52,8 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[Scale_Free_Hierarchy]]
+[[SparseHubsCoupling]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]

@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Synaptic_Motifs]]
 [[Hyper_Dimensional_Computing]]
 [[Intelligence_Emergence]]
+[[MeanFieldSpinGlass]]
 [[Microbiome_Immune_Endocrine_Interplay]]
 [[Network_Topology_Design]]
 [[Non_Von_Neumann_Architecture]]

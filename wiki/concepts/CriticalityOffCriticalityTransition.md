@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[Cognitive_Relapse_Decoupling]]
 [[Continual_Learning_Modularity]]
+[[CriticalBranching]]
 [[CriticalFixedPoint]]
 [[CriticalityDrivenStateTransition]]
 [[CriticalityInNetworkComputing]]

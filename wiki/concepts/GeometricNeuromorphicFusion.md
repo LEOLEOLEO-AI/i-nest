@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikingTransformer]]
 [[Spiking_Decoder_Tracking]]
 [[Spiking_Neural_Network]]
+[[SpontaneousActivityDynamics]]
 [[TCC]]
 [[iNEST]]
 [[neuromorphic spiking]]

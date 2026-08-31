@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[SuperparamagneticSwitchingRate]]
+[[TopologyEmbeddedIntrospection]]
 [[VariationalFreeEnergyMinimisation]]
 
 ## Sources

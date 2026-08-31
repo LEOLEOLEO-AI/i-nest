@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[AnteHoc_Explainability]]
 [[Banded_NonHermitian_Matrix]]
 [[CST计量仪]]
+[[CausalIntegrationPhi]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

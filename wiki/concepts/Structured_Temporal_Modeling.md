@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[CSPNeuralEncoding]]
 [[CirculateFiringNeuron]]
 [[ClassificationPerformance]]
+[[ClinicalPredictionMapping]]
 [[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence]]

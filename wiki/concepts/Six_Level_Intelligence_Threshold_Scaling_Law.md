@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[EdgeFeatureEncoding]]
 [[ExplosiveCooperationTransition]]
 [[Intelligence_Emergence]]
+[[LocalEvolutionRules]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[analog computation]]

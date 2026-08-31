@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[EEG_Criticality]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
+[[HardwareAware_DesignSpace]]
 [[Hardware_Accelerated_SNN]]
 [[HodgkinHuxleyDynamics]]
 [[Intelligence_Emergence]]

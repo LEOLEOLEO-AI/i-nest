@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalBrainNetworkConnectivity]]
 [[Geometric_Neural_Field]]
 [[Intelligence_Emergence]]
+[[Interbrain_Geometry]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]

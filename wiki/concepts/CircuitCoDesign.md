@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[ERI_2_0_Strategic_Framework]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
+[[FeFET_Polarization_Switching]]
 [[Ferroelectric_Devices]]
 [[Intelligence_Emergence]]
 [[NCL神经计算定律详解]]

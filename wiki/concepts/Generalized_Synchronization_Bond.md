@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NonEquilibriumComputing]]
 [[RecursiveSelfReferentialArchitecture]]
+[[RecursiveTopologyBreakthrough]]
 [[Self_Organized_Criticality]]
 [[SuperparamagneticSwitchingRate]]
 [[Swarm_Coordination]]

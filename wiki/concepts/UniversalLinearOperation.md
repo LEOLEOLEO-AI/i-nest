@@ -36,15 +36,18 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Interconnect_Routing]]
 [[MoE_Routing]]
+[[NetworkArchitectureSearch]]
 [[Network_Topology_Design]]
 [[NeuromorphicRadarFrontend]]
 [[Neuromorphic_Computing]]
 [[ReconfigurableSNN_Accelerator]]
 [[SDI_Bond]]
 [[SDI_Control_Plane_Offload]]
+[[SNN]]
 [[SelfOrganization]]
 [[Self_Organized_Criticality]]
 [[SensationModulatingNetwork]]
+[[Spiking_Neural_Network]]
 [[VectorFlowField]]
 
 ## Sources

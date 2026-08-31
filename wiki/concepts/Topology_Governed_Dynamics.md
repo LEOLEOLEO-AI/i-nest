@@ -39,12 +39,15 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration_Security]]
 [[Intelligence_Emergence]]
 [[InterconnectConstrainedEmergence]]
+[[Interconnect_Topology]]
 [[MultiplicativeGainMechanism]]
 [[MultiplicativeGain]]
 [[NCCL_CollectivePrimitives]]
 [[Network_Topology_Design]]
 [[TCC]]
+[[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
+[[WavePropagationMechanism]]
 [[神经网络]]
 
 ## Sources

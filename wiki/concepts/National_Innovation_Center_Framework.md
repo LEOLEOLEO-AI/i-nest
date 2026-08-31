@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[NeurovascularUnitEngineering]]
 [[NeurovascularUnit]]
+[[OpenCodex_Upgrade_Path]]
 [[Reservoir_Computing]]
 [[SNN]]
 [[ScaleFreeNetwork]]

@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Ferroelectric_Devices]]
 [[Free_Energy_Topology_Mapping]]
 [[GenerativeTopologyModels]]
+[[Inference_Workload_Profiling]]
 [[Network_Topology_Design]]
 [[Synaptic_Plasticity]]
 [[TCC]]

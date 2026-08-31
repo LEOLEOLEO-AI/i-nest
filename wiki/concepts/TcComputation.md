@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Collection_Communication_Diagnostic_Tool]]
 [[Complex_System_Theory]]
@@ -44,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[DRBE_MVP_Mainchain]]
 [[DTGA]]
+[[DataProvenanceIntegrity]]
 [[EulaminateOverrepresentation]]
 [[Exponential_CST_Coupling]]
 [[FlagOS_2_0]]
@@ -75,7 +77,6 @@ Auto-extracted concept from raw material compilation.
 [[Topological_Criticality]]
 [[TopologyProgramming]]
 [[Topology_Interconnect]]
-[[chiplet interconnect]]
 [[complex system]]
 [[residual connection]]
 

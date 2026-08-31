@@ -26,9 +26,13 @@ Auto-extracted concept from raw material compilation.
 [[Active_Inference_Topology]]
 [[Additive_Manufacturing_Supply_Chain]]
 [[AdiabaticModeEvolutionCoupler]]
+[[AdiabaticModeEvolution]]
 [[AdjointWaveControl]]
 [[Analog_InMemory_Processing]]
+[[ArbitraryWavefunctionConfigurability]]
+[[DBF_Processor]]
 [[Network_Topology_Design]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 
 ## Sources

@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Distributed_Spike_Communication]]
 [[Environmental_Capability_Context]]
 [[FPGASNNMemoryOptimization]]
+[[FixedOverheadCost]]
 [[FixedOverheadPenalty]]
 [[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]

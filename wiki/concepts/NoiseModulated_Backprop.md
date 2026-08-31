@@ -54,6 +54,8 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[OnlineSelfSupervisedESN]]
 [[OpportunisticRoutingRL]]
+[[OpportunisticRouting]]
+[[Optimal_Representation_Geometry]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SOC]]
 [[catastrophic forgetting]]

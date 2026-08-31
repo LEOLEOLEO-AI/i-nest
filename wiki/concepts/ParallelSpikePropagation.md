@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeEventTopology]]
 [[Spiking_Neural_Network]]
 [[Teleportation_Assisted_Interconnect]]
+[[Topology_Aware_Spike_Routing]]
 [[VonEconomoNeuron]]
 [[iNEST]]
 

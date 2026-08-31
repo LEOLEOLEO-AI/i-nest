@@ -47,6 +47,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[TCC与INEST：2026全局论文与专利战略规划清单]]
 [[complex system]]
 [[iNEST 论文矩阵计划]]
 [[iNEST]]

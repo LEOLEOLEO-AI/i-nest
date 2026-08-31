@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AdjointWaveControl]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[CavityMethodAnalysis]]
 [[Cognitive_Relapse_Decoupling]]
 [[Complex_System_Theory]]
 [[DTGA]]

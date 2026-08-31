@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[ModelOptimization]]
 [[Neuromorphic_Computing]]
 [[SNN]]
+[[SelectorFreeHopfieldNetwork]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 [[忆阻器]]

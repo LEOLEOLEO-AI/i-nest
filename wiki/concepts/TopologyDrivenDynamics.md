@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[National_Innovation_Center_Role]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]
 [[SDI_STDP]]
@@ -49,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[ST_SNN]]
+[[Scalable_Neuromorphic_System]]
 [[SelfMotivatedGrowth]]
 [[Self_Organized_Criticality]]
 [[Spike_Encoding_of_fMRI]]
@@ -58,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologicalAndersonChernInsulator]]
 [[TopologyDrivenVulnerability]]
 [[VisualSemanticDecoding]]
+[[Wafer_Scale_Neuromorphic]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
 

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AdversarialSensingResilience]]
 [[Air_Combat_Autonomy]]
 [[Allreduce_Latency_Probe]]
+[[Alpha_Coefficient_Phase_Transition_Amplification]]
 [[AmplifyingNetworkTopology]]
 [[AnalogStateRetention]]
 [[Associative_Memory_Unification]]

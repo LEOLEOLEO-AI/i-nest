@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Neural_Operator]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
+[[PersistentMachineMonitoring]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
 [[TCC]]

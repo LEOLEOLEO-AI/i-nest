@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Activity_Energy_Tradeoff]]
 [[AndersonTransition]]
 [[Avoided_Criticality]]
+[[BioPlausiblePredictiveCoding]]
 [[Criticality]]
 [[Deep_Thermalisation]]
 [[Discrete_Event_Spike_Simulation]]

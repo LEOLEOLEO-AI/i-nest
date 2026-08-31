@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[NoiseModulated_Backprop]]
+[[OnlineSelfSupervisedESN]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SOC]]
 [[SelfOrganizedOscillatoryLearning]]

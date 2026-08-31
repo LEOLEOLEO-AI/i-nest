@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
+[[Chiplet_Interconnect]]
 [[Complex_System_Theory]]
 [[CongestionAwareNoCPlacement]]
 [[CorticalTypeDiversity]]
@@ -37,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[ElectromigrationReliability]]
 [[GPU_Bottleneck_Relief]]
 [[GeneralIntelligenceSubstrate]]
+[[HardwareAware_SelfOrganization]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
@@ -54,7 +56,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[ThirdWaveAI]]
 [[Topology_Induced_Robustness]]
-[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

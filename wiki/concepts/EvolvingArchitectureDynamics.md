@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[EndToEndTopologicalLearning]]
 [[ErrorAmplificationLimits]]
 [[HybridCouplingThermosensitiveNetwork]]
+[[InSitu_Adjoint_Wave_Control]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[JunctionCenteredRouting]]

@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]
 [[LIF_Neuron_Model]]
+[[Memristive_Interconnect]]
 [[Memristor]]
 [[Memristor_Network]]
 [[Memristor_Synapse]]

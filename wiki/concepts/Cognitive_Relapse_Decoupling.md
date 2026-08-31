@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveArchitecture]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[BioInspired_Interception_Control]]
 [[Continual_Learning_Modularity]]
 [[CriticalityDrivenStateTransition]]
 [[CriticalityInNetworkComputing]]

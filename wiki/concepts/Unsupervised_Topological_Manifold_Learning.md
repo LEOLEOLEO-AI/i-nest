@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[DelayTolerantNetworkUAV]]
 [[DisorderDrivenTemporalOrdering]]
 [[DisorderedNetworkInterconnect]]
+[[EarlyVisual_Cortex_Modeling]]
 [[Edge_Intelligence]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

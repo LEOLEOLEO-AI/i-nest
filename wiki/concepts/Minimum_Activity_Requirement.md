@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[GroupCoding]]
 [[HippocampalNeocorticalIntelligence]]
 [[Hypergraph_Label_Noise]]
+[[LatencyAwareLoss]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]

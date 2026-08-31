@@ -20,12 +20,14 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AdaptiveCompetingInteractions]]
 [[AdiabaticMultimodeBend]]
 [[AdjointWaveControl]]
 [[AdvancedPackagingInterconnect]]
 [[Anisotropic_Correlation_Length]]
 [[ApproximationFidelityTradeoff]]
 [[Interconnect_Routing]]
+[[Interconnect_Topology]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]
 [[SDI_Interconnect]]

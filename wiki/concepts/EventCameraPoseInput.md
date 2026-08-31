@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[EEGSpikeEncoding]]
 [[Edge_Neuromorphic_Compute]]
 [[ErrorAmplificationLimits]]
+[[EventCameraTemporalEncoding]]
 [[EventDrivenSynchronization]]
 [[Event_Driven_Architecture]]
 [[Event_Driven_Orbital_Object_Pipeline]]

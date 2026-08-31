@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[ChiralTopologicalMatter]]
 [[Complex_System_Theory]]
 [[ComplexityLandscape]]
+[[ComponentLevelMolding]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]

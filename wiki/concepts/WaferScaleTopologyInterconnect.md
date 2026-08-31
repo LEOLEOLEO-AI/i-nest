@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[CorticalTypeDiversity]]
@@ -31,9 +32,11 @@ Auto-extracted concept from raw material compilation.
 [[Express_Link_Virtualization]]
 [[Free_Energy_Principle_Network]]
 [[GlobalDecision_LocalExecution_ControlPlane]]
+[[HeterogeneousChipletIntegration]]
 [[Heterogeneous_Integration]]
 [[Intelligent_Computing_Infrastructure]]
 [[Interconnect_Routing]]
+[[Interconnect_Topology]]
 [[LargeScalePhotonicIntegration]]
 [[Memristor]]
 [[Memristor_Synapse]]
@@ -52,7 +55,6 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
-[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

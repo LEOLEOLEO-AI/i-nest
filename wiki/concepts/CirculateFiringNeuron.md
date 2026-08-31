@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_SNN_Interconnect]]
 [[SNN]]
 [[ScalableNeuromorphicTopology]]
+[[SpikeDrivenDetectionBackbone]]
 [[SpikePacketRouting]]
 [[SpikeTrafficScheduling]]
 [[Spike_Encoding_of_fMRI]]

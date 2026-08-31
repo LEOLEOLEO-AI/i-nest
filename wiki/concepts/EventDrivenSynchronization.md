@@ -58,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikingMotorControl]]
 [[SpikingTopologyEvolution]]
 [[Spiking_Neural_Network]]
+[[SynapticFatigueModel]]
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
 [[TemporalErrorFeedback]]

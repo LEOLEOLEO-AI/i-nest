@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[Attention_Residuals]]
 [[BackpropagationFreeLearning]]
+[[BoundaryContract]]
 [[Causal_Emergence]]
 [[Causal_Emergence_Architecture]]
 [[Chiplet]]

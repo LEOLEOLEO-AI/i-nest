@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[BigBrainCellularAxis]]
 [[BoundaryObject_Abstraction]]
+[[CST_MasterEquation]]
 [[CST计量仪]]
 [[Causal_Emergence]]
 [[Causal_Emergence_Architecture]]
@@ -59,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[SystemLevelNonlinearity]]
 [[Textbook_Paradigm_Definition]]
 [[TopologicalAndersonChernInsulator]]
+[[causal emergence]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

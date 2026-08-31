@@ -1,0 +1,38 @@
+---
+title: "Kronecker_Fractal_Expansion"
+type: concept
+domain: TCC
+created: 2026-09-01
+auto: true
+---
+
+# Kronecker_Fractal_Expansion
+
+**Domain**: TCC
+**First mentioned**: auto-extracted
+**Last updated**: 2026-09-01
+
+## Definition
+A scaling method that uses the Kronecker product of the same ring logic across hierarchical levels (die, board, rack) to generate a fractal interconnect with logarithmic diameter growth. This enables scalable, hierarchical network construction in TCC, keeping latency low as systems grow to many nodes.
+
+## Context
+Auto-extracted concept from raw material compilation.
+
+## Related Work
+
+[[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
+[[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
+[[3DHI_Chiplet_Integration]]
+[[3DHI_Integration]]
+[[AI-ML — 全景导航 (Map of Content)]]
+[[AI4PDE｜综述·论文推荐 08｜物理信息神经网络在偏微分方程问题中的应用：全面综述]]
+[[AI_Application_Scenario_Reconstruction]]
+[[AI_Faculty_Forum_2026]]
+[[AI_Industrial_Ecosystem]]
+[[TCC]]
+
+## Sources
+- See wiki/articles/ for source article summaries
+
+## Open Questions
+- *(Explore connections to other concepts)*

@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[Avoided_Criticality]]
 [[BioPlausibleDisturbanceObserver]]
+[[BoundaryObject_Abstraction]]
 [[BulletTrainScheduling]]
 [[CST_Theory]]
 [[CST_Theory_V27_FINAL]]

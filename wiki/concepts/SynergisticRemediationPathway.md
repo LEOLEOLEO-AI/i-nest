@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[NoiseModulatedLearning]]
 [[NonHermitianSkinEffect]]
 [[NonvolatileChargeDomain]]
+[[OpenEndedDiscovery]]
 [[RecursiveSelfReferentialArchitecture]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]

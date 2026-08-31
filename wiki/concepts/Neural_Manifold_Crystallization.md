@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[MemoryDrivenInterconnect]]
 [[Neuromorphic_Computing]]
 [[Spiking_Neural_Network]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[WaveBasedComputation]]
 [[iNEST]]
 

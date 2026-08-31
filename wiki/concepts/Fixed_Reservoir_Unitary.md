@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Meta_Residual_Learning]]
 [[NCA_Reservoir]]
 [[Network_Topology_Design]]
+[[NeuromorphicVisualPipeline]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[P_Paradigm]]

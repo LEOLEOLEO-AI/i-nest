@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_Topology]]
 [[NetworkArchitectureSearch]]
 [[Network_Topology_Design]]
+[[NeuromorphicRadarFrontend]]
 [[NonEquilibriumComputing]]
 [[SelfOrganization]]
 [[Self_Organized_Criticality]]

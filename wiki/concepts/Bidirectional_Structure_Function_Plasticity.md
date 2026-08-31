@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[HybridCouplingThermosensitiveNetwork]]
 [[LatencyGradientDescent]]
 [[Neuromorphic_Computing]]
+[[OpenLearningEcosystem]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
 [[neuromorphic substrate]]

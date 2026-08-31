@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Assisted_Energy_Management]]
 [[Active_Inference_Agent]]
 [[BackflowTransformation]]
+[[BayesianDomainEvolution]]
 [[Bidirectional_Temporal_Enhancement]]
 [[CircadianGateModulation]]
 [[Complex_System_Theory]]

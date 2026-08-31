@@ -22,7 +22,9 @@ Auto-extracted concept from raw material compilation.
 
 [[3D_Heterogeneous_Integration]]
 [[AI_Faculty_Forum_2026]]
+[[Alpha_Computation_Consistency]]
 [[Complex_System_Theory]]
+[[Heterogeneous_Integration]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]

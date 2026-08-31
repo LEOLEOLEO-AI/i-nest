@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[BrainActivityPrediction]]
 [[CombinedImportanceScoring]]
 [[CurrentInjectionSNN]]
+[[ErrorSuppressedPipeline]]
 [[ExtinctionDrivenMetastability]]
 [[FPGA_Accelerated_SNN]]
 [[Meta_Residual_Architecture]]

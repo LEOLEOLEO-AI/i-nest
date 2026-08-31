@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[CrossLayer_SignalRouting]]
 [[DendriticReservoirState]]
+[[EcosystemTopologyCoupling]]
 [[Environmental_Capability_Context]]
 [[ErrorSuppressedPipeline]]
 [[EventDrivenModularArchitecture]]

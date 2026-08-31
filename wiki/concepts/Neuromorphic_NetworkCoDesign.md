@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Architecture]]
 [[SpatiotemporalCooperativeIntelligence]]
 [[TCC]]
+[[Thermopneumatic_Actuation]]
 [[TopologyAsLogicThesis]]
 [[analog computation]]
 [[iNEST]]

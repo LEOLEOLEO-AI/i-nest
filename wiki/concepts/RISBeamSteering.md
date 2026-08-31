@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[MetaHardwareAbstraction]]
 [[Microsecond_Link_Reconfiguration]]
+[[NetworkDiameterTradeoff]]
 [[Network_Topology_Design]]
 [[Synaptic_Plasticity]]
 [[TCC]]

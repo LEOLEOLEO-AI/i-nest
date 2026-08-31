@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_Faculty_Forum_2026]]
 [[AdvancedPackagingInterconnect]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[AnalogDomainCompression]]
 [[AnalogInMemoryComputing]]
@@ -34,12 +35,14 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
+[[Chiplet_Interconnect]]
 [[Chiplet_NoC_Interconnect]]
 [[Chiplet_Stacking]]
 [[DARPA_ProjectManager_Model]]
 [[DynamicProgrammingRecycling]]
 [[External_to_OnDie_Evolution]]
 [[Free_Energy_Principle_Network]]
+[[HeterogeneousInference]]
 [[Heterogeneous_Chiplet_Customization]]
 [[Heterogeneous_Integration]]
 [[Master_SDDE]]
@@ -61,7 +64,6 @@ Auto-extracted concept from raw material compilation.
 [[TemporalComplexity]]
 [[TopologyProgramming]]
 [[Topology_Centric_Interconnect]]
-[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

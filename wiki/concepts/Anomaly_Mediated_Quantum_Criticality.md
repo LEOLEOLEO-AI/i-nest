@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[ConstraintDrivenSelfOrganization]]
 [[Continual_Learning_Modularity]]
 [[CounterstreamSignalPropagation]]
+[[CriticalityInNetworkComputing]]
 [[Criticality]]
 [[Network_Topology_Design]]
 [[Quantum_Criticality]]

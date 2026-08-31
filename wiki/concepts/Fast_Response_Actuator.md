@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[HardwareAwareTraining]]
 [[ITP_STDP]]
 [[Interconnect_Routing]]
+[[RobustnessToNoiseInSNN]]
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SDI_STDP_Rule]]

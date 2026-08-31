@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Crystallized_Neural_Manifolds]]
+[[ERI_2_0_Strategic_Framework]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[TCC]]

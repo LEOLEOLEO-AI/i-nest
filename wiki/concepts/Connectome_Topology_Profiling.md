@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[DevelopmentalStageEmbedding]]
 [[Dynamic_Expert_Fusion]]
 [[Evolutionary_Overfitting_Avoidance]]
+[[Heterogeneous_Synaptic_Motifs]]
 [[KernelRegimeScaling]]
 [[Krakencoder_Embedding]]
 [[Memristive_Topology]]

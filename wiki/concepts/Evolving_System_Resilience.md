@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Pods4Rail_Topology]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SelfOrganization]]
+[[Swarm_Adaptive_Topology]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[VectorFlowField]]

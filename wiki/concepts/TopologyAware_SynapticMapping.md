@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Reconfigurability]]
 [[Free_Energy_Principle_Network]]
 [[HybridCouplingThermosensitiveNetwork]]
+[[InSitu_Adjoint_Wave_Control]]
 [[IncidenceMatrixPropagation]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

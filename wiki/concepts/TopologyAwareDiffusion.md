@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[PhotonicDeepNetwork]]
+[[PowerLawScalingClassification]]
 [[Reservoir_Computing]]
 [[complex system]]
 [[iNEST]]

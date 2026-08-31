@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[SparseTemporalEncoding]]
 [[SpikeCommunicationCost]]
 [[Spiking_Neural_Network]]
+[[SpontaneousOrderMechanism]]
 [[Surface_Phase_Transition]]
 [[TCC]]
 

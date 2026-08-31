@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[12_三原理协同_FEP_最小作用量_STDP]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[Architectural_Conditioning]]
 [[ChipletWaferInterconnectTopology]]
@@ -28,10 +29,12 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Based_Trusted_Hardware]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
+[[Chiplet_Interconnect]]
 [[Chiplet_NoC_Interconnect]]
 [[Chiplet_Topology]]
 [[Chiplet_Topology_Mapping]]
 [[Chiplet_Topology_Packaging]]
+[[CoPoS]]
 [[Complex_System_Theory]]
 [[Decoupled_Priors]]
 [[EulaminateOverrepresentation]]
@@ -60,7 +63,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[Topology_Interconnect]]
 [[advanced packaging]]
-[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 [[涌现]]
@@ -71,3 +73,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- SDI_Chiplet (merged 2026-09-01)

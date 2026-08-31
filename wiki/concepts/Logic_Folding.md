@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Stacking]]
 [[Complex_System_Theory]]
 [[External_to_OnDie_Evolution]]
+[[FPGA_Reconfigurability]]
 [[FatalityDrivenRewiring]]
 [[HeterogeneousInference]]
 [[Heterogeneous_Integration]]

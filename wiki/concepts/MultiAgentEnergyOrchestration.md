@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BifurcationCandidate]]
 [[Cellular_vs_LEO_Satellite_Handoff]]
 [[Complex_System_Theory]]
+[[Convergent_Representation_Order]]
 [[CrossDomainAwareness]]
 [[DistributedTrainingCommunicationPattern]]
 [[Emergent_Abilities]]

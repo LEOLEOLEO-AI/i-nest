@@ -30,10 +30,12 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Service_Orchestration]]
 [[Adjoint_Gradient_Propagation]]
 [[AdsorptionBiosorptionHybrid]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[BioInspired_Interception_Control]]
 [[BrainInspiredArchitecture]]
 [[Branch_Prediction_in_Pipelined_Processors]]
+[[Compact_Sequence_Encoding]]
 [[Neuromorphic_Computing]]
 [[iNEST]]
 

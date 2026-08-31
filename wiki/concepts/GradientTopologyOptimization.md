@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[BrownianCastleInterface]]
 [[CST_Intelligence_Emergence]]
 [[CausalEmergenceCondition]]
+[[CompactMemristorCircuits]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Complex_System_Theory]]
 [[DrivenDissipativeDynamics]]

@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_SDI]]
 [[PhononicBandgapEngineering]]
 [[PinAssignmentOptimization]]
+[[RadiationHardened_ProcessNodeScaling]]
 [[ReconfigurablePageArchitecture]]
 [[SDI_Bond]]
 [[SDI_STDP]]

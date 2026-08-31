@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[Continual_Learning_Topology]]
 [[CouplingMatrixRecovery]]
+[[Coupling_Strength_Encoding]]
 [[CriticalFixedPoint]]
 [[DendriticReservoirState]]
 [[DifferentiableLifting]]

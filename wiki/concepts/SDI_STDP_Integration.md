@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[DiscreteSTDP]]
 [[FunctionalInterfaceBlock]]
 [[GroupSynchronization]]
+[[IntrinsicTimingSTDP]]
 [[Mott_Device_Array]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[National_Innovation_Center_Role]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
+[[SDI_STDP]]
 [[SNN]]
 [[SpikeDrivenDetectionBackbone]]
 [[Spiking_Neural_Network]]

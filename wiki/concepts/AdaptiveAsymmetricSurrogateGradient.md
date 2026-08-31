@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveTimeStepTraining]]
 [[Amorphous_Amorphous_Transition]]
 [[AnisotropicGaussianPrimitives]]
+[[Avoided_Criticality]]
 [[BurstTemporalPlasticity]]
 [[Contested_Priors_Mechanism]]
 [[Dynamic_Expert_Fusion]]

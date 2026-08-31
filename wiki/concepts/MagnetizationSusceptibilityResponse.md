@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Distributed_Spike_Communication]]
 [[FirstPrinciples_Derivation]]
 [[FixedOverheadCost]]
+[[FixedOverheadPenalty]]
 [[Heterogeneous_Integration]]
 [[LIF_Neuron_Model]]
 [[Loihi2_OnChip_Learning]]

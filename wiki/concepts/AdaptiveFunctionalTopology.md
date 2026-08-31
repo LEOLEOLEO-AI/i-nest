@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[BrownianCastleInterface]]
 [[BurstGatedRouting]]
 [[Communication_Trace_Diagnostics]]
+[[CrossbarSNNArchitecture]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[EpidemicThreshold]]

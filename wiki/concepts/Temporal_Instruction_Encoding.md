@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AlternativeBridgingModels]]
+[[AnisotropicGaussianPrimitives]]
 [[AnomalousSpinTransport]]
 [[CircadianGateModulation]]
 [[Contested_Prior_Resolution]]

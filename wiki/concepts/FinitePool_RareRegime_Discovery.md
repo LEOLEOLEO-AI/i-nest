@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[DisorderedNetworkInterconnect]]
 [[EnergyEfficiencyAI]]
 [[EventTriggeredDistributedControl]]
+[[GraphLanguageModel_RAG]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

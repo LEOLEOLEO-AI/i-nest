@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[OpticalNonlinearity]]
 [[PhysicalReservoirTransientDynamics]]
 [[PhysicalReservoir]]
+[[RenormalizationGroup_DeviceNonlinearity]]
 [[Reservoir_Computing]]
 [[complex system]]
 [[iNEST]]

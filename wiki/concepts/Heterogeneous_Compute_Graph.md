@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[MaterialGrowthFabricationFocus]]
 [[MemoryDrivenRouting]]
+[[NearSensorComputing]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[PrecisionConfigurableSparseNvCIM]]

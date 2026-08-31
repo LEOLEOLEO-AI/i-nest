@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[NoC]]
 [[NoC_Chiplet_Wafer_Stack]]
+[[Nonlinear_Gain]]
 [[P_Paradigm]]
 [[PacketRoutingOptimization]]
 [[SDI_Bond]]
@@ -54,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]
 [[System_Level_Utility_Control]]
+[[Textbook_Paradigm_Definition]]
 [[iNEST]]
 
 ## Sources

@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[SelfOrganizedLearning]]
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
+[[TCC]]
 [[TransferableNeuromorphicComputing]]
 [[iNEST]]
 [[涌现]]

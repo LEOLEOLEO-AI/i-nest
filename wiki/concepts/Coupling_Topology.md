@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Crystallized_Embedding_Reservoir]]
 [[CytoarchitectonicAxis]]
 [[DataDrivenCytoarchitectonicAxis]]
+[[DiscreteScaleInvariance]]
 [[ErrorSuppressedPipeline]]
 [[HigherOrderTransitionKernel]]
 [[Network_Topology_Design]]

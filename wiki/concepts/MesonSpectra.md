@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AnomalousSpinTransport]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
+[[CriticalFluctuationReservoir]]
 [[DivergentHigherAreaRanking]]
 [[Emergent_Topological_Alignment]]
 [[Independent_EdgeAI_Player_Endgame]]

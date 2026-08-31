@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[ArchitecturalGrounding]]
 [[Architectural_Conditioning]]
 [[AthermalRandomFieldBlumeCapel]]
+[[Bipartite_Interconnect_Fabric]]
 [[CST_Equation]]
 [[CST计量仪]]
 [[Chiplet]]

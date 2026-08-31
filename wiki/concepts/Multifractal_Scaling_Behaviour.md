@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AnisotropicGaussianPrimitives]]
 [[AnomalousSpinTransport]]
 [[Contested_Prior_Resolution]]
+[[Contested_Priors_Mechanism]]
 [[EndToEndTopologyLearning]]
 [[Fractal_Scaling]]
 [[Memristive_STDP]]

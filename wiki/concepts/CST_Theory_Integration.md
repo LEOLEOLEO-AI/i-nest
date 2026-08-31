@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[PhotonicStateRetention]]
 [[SixClassSkeletonAsRPrimitiveSpace]]
 [[TCC]]
+[[TopologicalComplexityCeiling]]
 [[complex system]]
 [[iNEST]]
 [[涌现]]

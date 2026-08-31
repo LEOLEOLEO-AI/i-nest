@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_FullSpectrum_Strategy]]
 [[ANN动力学]]
 [[Allreduce_Latency_Probe]]
+[[Analog_InMemory_Processing]]
 [[Analog_To_Information_Conversion]]
 [[Architectural_Conditioning]]
 [[AsymmetricStochasticInteractions]]

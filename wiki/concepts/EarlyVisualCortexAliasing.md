@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Biologically_Plausible_Learning_Rules]]
 [[CrossLayer_SignalRouting]]
 [[EventDrivenModularArchitecture]]
+[[EvolutionaryDiversityPreservation]]
 [[Interconnect_Routing]]
 [[LocalInteractionDrivenReconfiguration]]
 [[MixedSignalSNN_CoDesign]]
@@ -41,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[SafetyThresholdAsSpikingThreshold]]
 [[SpikeAdversarialTransfer]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

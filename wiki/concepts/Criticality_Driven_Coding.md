@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityDrivenEfficientCoding]]
 [[CriticalityInNeuralNetworks]]
 [[Criticality]]
+[[CrossEntityPreemptiveWarning]]
 [[Dynamic_Expert_Fusion]]
 [[Efficient_Coding_Constraint]]
 [[Emergent_Intelligence]]

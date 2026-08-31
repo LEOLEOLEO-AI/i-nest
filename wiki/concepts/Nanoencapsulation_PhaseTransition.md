@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN_SNN_ConversionError]]
 [[AdaptiveFlexibilityThreshold]]
 [[AddressRedundancyElimination]]
+[[AnalogDomainCompressiveSensing]]
 [[AnisotropicGaussianPrimitives]]
 [[BioInspiredLearningRule]]
 [[Biomanufacturing_Control_Loop]]

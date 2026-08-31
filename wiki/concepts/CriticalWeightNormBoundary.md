@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[EventTriggeredDistributedControl]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[IntrospectiveRecursion]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]

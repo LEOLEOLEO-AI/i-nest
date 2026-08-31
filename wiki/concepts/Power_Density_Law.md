@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Packaging]]
 [[SNN]]
 [[SNN_Sparsity_InformationBound]]
 [[Self_Organized_Criticality]]

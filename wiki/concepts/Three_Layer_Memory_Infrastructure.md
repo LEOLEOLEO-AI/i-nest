@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[InSitu_Compute]]
 [[InputAdaptiveComputation]]
 [[Interconnect_Routing]]
+[[Katz_Centrality_Allocation]]
 [[MemoryDrivenRouting]]
 [[MemoryDrivenVectorFlowFieldRouting]]
 [[Network_Topology_Design]]

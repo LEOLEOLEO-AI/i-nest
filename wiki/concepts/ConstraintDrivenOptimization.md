@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[HallmarkDrivenCancerModeling]]
 [[HoldingManeuverDelayGraph]]
 [[Intelligence_Emergence]]
+[[MatrixShapePhaseTransition]]
 [[Network_Topology_Design]]
 [[OptimalControlPolicyLearning]]
 [[Synaptic_Plasticity]]

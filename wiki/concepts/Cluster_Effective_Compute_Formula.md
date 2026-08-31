@@ -20,15 +20,23 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
 [[DistributedTrainingPipeline]]
 [[GPU_Bottleneck_Relief]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
+[[NoC]]
+[[NoC_SDI]]
 [[NoC_SDI_Topology]]
 [[OnDie_Fusion]]
 [[P_Paradigm]]
+[[SDI_Bond]]
 [[SDI_NPU_NoC_Integration]]
 [[SDI_NoC_Fusion]]
+[[SDI_Topology]]
+[[SparsityAwareInterconnect]]
 [[TCC]]
 
 ## Sources

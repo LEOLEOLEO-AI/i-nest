@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Fading_Memory_Property]]
 [[Intelligence_Emergence]]
 [[Long_Range_Interactions]]
+[[MeanFieldSpinGlass]]
 [[MemristiveReservoirBranchPrediction]]
 [[NanomaterialFeatureEngineering]]
 [[Network_Topology_Design]]

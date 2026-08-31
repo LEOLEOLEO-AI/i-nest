@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[DelayTolerantNetworkUAV]]
 [[ExactlyFlatTopologicalBands]]
+[[HigherOrderNetworkDynamics]]
 [[InNetworkComputing]]
 [[Intelligent_Power_Management]]
 [[Interconnect_Routing]]

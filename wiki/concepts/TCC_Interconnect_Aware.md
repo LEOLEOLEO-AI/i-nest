@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[GNN图神经网络，非结构化数据分析利器！]]
 [[Intelligence_Emergence]]
 [[Interconnect_As_Computational_Resource]]
+[[MachineLearningPotential]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]

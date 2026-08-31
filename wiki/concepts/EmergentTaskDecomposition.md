@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Fading_Memory_Property]]
 [[Generalization_Bound_Spectra]]
 [[Intelligence_Emergence]]
+[[InterconnectAwareGradientAggregation]]
 [[NestedRepresentation]]
 [[Network_Topology_Design]]
 [[Readout_Weight_Training]]

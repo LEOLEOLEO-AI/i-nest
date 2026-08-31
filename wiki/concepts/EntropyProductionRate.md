@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[IntegratedSensingFusion]]
 [[IntegrationProspectsForVLSI]]
 [[Intelligence_Emergence]]
+[[InterconnectAwareGradientAggregation]]
 [[MeanFieldSpinGlass]]
 [[Metabolic_Neural_Feedback_Loop]]
 [[Network_Topology_Design]]

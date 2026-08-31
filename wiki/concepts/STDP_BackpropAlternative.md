@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[ITP_STDP]]
 [[ITP_STDP_Engine]]
 [[IntrinsicTimingSTDP]]
+[[IonotronicPhotoplasticity]]
 [[Neuromorphic_Computing]]
 [[NoiseInducedPhaseLocking]]
 [[STDP_Plasticity]]

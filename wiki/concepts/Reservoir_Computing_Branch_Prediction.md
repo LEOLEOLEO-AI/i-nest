@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
+[[PhysicalReservoirDynamicsEncoding]]
 [[QuantumGateSynthesis]]
 [[QuantumReservoirStateOrthogonalization]]
 [[Quantum_Reservoir_Architecture]]

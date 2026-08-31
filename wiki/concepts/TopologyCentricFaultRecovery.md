@@ -40,6 +40,8 @@ Auto-extracted concept from raw material compilation.
 [[LLM_Reward_Design]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
+[[NeuromorphicStatusAwareness]]
+[[Neuromorphic_Computing]]
 [[TCC]]
 
 ## Sources

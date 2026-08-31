@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Beyond_Moore_Packaging_Strategy]]
 [[Brain_Connectome]]
 [[C_elegansConnectomeAnalogy]]
+[[CausalEmergenceCondition]]
 [[Combinatorial_Optimization_Readout]]
 [[Complex_System_Theory]]
 [[Connectome]]

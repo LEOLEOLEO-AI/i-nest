@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[OpportunisticRouting]]
 [[PhysicalReservoir]]
 [[Physical_Reservoir_Substrate]]
+[[PropertyPredictionModeling]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[RestrictedConnectivityTopology]]

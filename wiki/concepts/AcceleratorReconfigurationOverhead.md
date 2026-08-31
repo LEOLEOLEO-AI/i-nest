@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CompartmentalNeuronModel]]
 [[ConfigurableSNNInference]]
 [[CoreComputationSubspace]]
+[[CulturalDisseminationDynamics]]
 [[DTGA]]
 [[Emergent_Topology_Adaptation]]
 [[ExplosiveTransitionThreshold]]

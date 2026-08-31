@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN动力学]]
 [[AdversarialSensingResilience]]
 [[Air_Combat_Autonomy]]
+[[Alpha_Coefficient_Phase_Transition_Amplification]]
 [[AnalogStateRetention]]
 [[Associative_Memory_Unification]]
 [[AttractorNeuralNetwork]]

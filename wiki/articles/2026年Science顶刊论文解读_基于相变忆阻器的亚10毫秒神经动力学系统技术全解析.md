@@ -16,6 +16,7 @@ SDI, iNEST, 忆阻, 拓扑, 神经形态
 
 ## Related Concepts
 
+[[Memristor]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

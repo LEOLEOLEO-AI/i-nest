@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Endocrine_Modulated_Network_State]]
 [[Event_Driven_Architecture]]
 [[ExactFiringRateModel]]
+[[In_Package_Neuromorphic_Integration]]
 [[Intelligence_Emergence]]
 [[IntrinsicTimingSTDP]]
 [[Network_Topology_Design]]

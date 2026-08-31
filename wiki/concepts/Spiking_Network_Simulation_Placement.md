@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[SOC]]
 [[SelfOrganization]]
 [[Self_Organized_Criticality]]
+[[SpikeAttention]]
 [[SpikePacketCompression]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]

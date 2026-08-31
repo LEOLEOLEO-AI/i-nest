@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[SDDE_Attractor_Emergence]]
+[[SpatioTemporal_Reservoir]]
 [[Topological_Reservoir]]
 [[TriAxiomCalibration]]
 [[iNEST]]

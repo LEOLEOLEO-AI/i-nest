@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Milinkovic B (2024)：复杂神经系统涌现动力学结构]]
 [[NetworkTippingPointTheory]]
 [[Network_Topology_Design]]
+[[NonHermitian_Random_Matrix_Spectra]]
 [[ReleaseFreePhononic]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]

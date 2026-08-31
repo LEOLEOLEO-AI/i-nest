@@ -65,6 +65,7 @@ Auto-extracted concept from raw material compilation.
 [[analog computation]]
 [[complex system]]
 [[iNEST]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 [[类脑芯片]]
 

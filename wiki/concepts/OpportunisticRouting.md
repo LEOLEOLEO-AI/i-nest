@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[CellEmergence]]
 [[Closed_Loop_Neuromodulation]]
 [[Complex_System_Theory]]
+[[ContinuousGameOfLife]]
 [[DisorderedNetworkInterconnect]]
 [[EventDrivenRiskAssessment]]
 [[Intelligence_Emergence]]

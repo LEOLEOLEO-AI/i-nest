@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[AdversarialSpikePerturbation]]
 [[AmoebaInspiredLocomotion]]
 [[Avoided_Criticality]]
+[[BioInspired_Interception_Control]]
 [[BurstGatedRouting]]
 [[ContinuousControlConversion]]
 [[CriticalityConstrainedPruning]]

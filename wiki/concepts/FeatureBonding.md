@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[SelfOrganization]]
 [[Self_Organized_Criticality]]
 [[TCC]]
+[[Universal_Computation_Link]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

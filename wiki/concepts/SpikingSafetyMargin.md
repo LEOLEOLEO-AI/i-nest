@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Ferroelectric_Devices]]
 [[FixedOverheadCost]]
 [[FixedOverheadPenalty]]
+[[HippocampalNeocorticalIntelligence]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]

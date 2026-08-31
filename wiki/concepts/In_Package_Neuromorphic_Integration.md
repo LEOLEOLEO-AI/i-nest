@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[Neuromorphic_Packaging]]
 [[P_Paradigm]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]

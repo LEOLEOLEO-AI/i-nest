@@ -43,6 +43,8 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence]]
 [[Emergent_Nonlinear_Dynamics]]
 [[FeFET_Polarization_Switching]]
+[[HybridMemristorArray]]
+[[IntelligenceEmergence]]
 [[IntelligenceEmergence_ScalingLaw]]
 [[Intelligence_Emergence]]
 [[Memristor]]

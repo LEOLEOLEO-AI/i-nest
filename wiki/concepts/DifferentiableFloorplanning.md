@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[ConvexNonconvexFloorplanning]]
 [[DifferentiablePlacement]]
 [[EntanglementAwareRouting]]
+[[FPGA_Reconfigurability]]
 [[FatalityDrivenRewiring]]
 [[HybridConvexOptimization]]
 [[InSitu_Adjoint_Wave_Control]]

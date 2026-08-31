@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
 [[EventCameraActionRecognition]]
+[[FerroelectricTunnelingJunction]]
 [[FisherOrthogonalMemory]]
 [[Free_Energy_Principle_Network]]
 [[FunctionalInterfaceBlock]]

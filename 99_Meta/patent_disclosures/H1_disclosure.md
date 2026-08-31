@@ -1,7 +1,7 @@
 ---
 title: "专利披露·H1"
 hypothesis: "H1"
-date: 2026-08-31
+date: 2026-09-01
 patentability: HIGH
 categories: ["hardware", "method"]
 type: patent-disclosure
@@ -45,5 +45,5 @@ TCC: 拓扑互连可实现超加性计算增益 (1+1>2)
 - [ ] 与相关论文发表策略协调（先申专再发论文）
 
 ---
-*由 patent_scout.py 于 2026-08-31T15:52:49.801850 自动生成*
+*由 patent_scout.py 于 2026-09-01T04:09:48.146484 自动生成*
 *来源假设: H1 | 来源桥接: *

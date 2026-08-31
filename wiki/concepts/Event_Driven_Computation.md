@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[DelayCodedWorkingMemory]]
 [[EventDrivenInference]]
 [[EventDrivenLearning]]
+[[EventDrivenRestoration]]
 [[EventDrivenTracking]]
 [[Event_Driven_Architecture]]
 [[Event_Driven_Processing]]

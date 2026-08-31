@@ -24,7 +24,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 ## Related Work
 
 [[3D_Torus_6_Degree]]
-[[AlgorithmHardware_CoDesign]]
+[[Algorithm_Hardware_CoDesign]]
 [[BidirectionalRingTopology]]
 [[CSI_Temporal_Encoding]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
@@ -39,6 +39,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[GradientFreeSNNTraining]]
 [[HigherOrderSimplicialDynamics]]
 [[LocalQuantumLearningRule]]
+[[Metastable_State_Hierarchy]]
 [[MultiFPGAScaling]]
 [[Nat Commun丨国防科技大学胡德文等团队揭示用于同时编码时空动态的多突触脉冲神经元]]
 [[Nature Communications_生物神经网络中突触多样性如何让人工神经网络更强大？]]

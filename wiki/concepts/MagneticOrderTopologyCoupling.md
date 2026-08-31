@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Entangled_Criticality]]
 [[ImmobilizationStabilityMechanism]]
 [[Intelligence_Emergence]]
+[[LLMDrivenPathSelection]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]

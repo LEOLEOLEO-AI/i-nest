@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Fixed_Cost_Dominance]]
 [[GroupInteractionThreshold]]
 [[Intelligence_Emergence]]
+[[Loihi2_OnChip_Learning]]
 [[LongRangeCorrelatedEntries]]
 [[Memristive_STDP]]
 [[Memristive_Topology]]

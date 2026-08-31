@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[20W_Brain_Inspired_Planning]]
+[[AIRA_NeuralArchSearch]]
 [[Automated_Reward_Shaping]]
 [[AutonomousAdaptation]]
 [[BackflowTransformation]]
@@ -31,8 +32,9 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[Criticality_Induced_Plasticity]]
 [[DisorderInducedCriticality]]
-[[EdgeOfChaos]]
+[[Edge_of_Chaos]]
 [[Fractal_Wavefront_Scaling]]
+[[Network_Topology_Design]]
 [[NonEquilibriumPhaseTransition]]
 [[NonEquilibriumPhase]]
 [[OptimalRepresentation]]

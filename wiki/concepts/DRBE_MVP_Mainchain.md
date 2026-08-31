@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Collection_Communication_Diagnostic_Tool]]
 [[Complex_System_Theory]]
@@ -46,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Decoupled_Priors]]
 [[Deep_Network_Architecture_Invariant]]
 [[Deep_Network_Layer_Stacking]]
+[[DiagnosticReportFramework]]
 [[EulaminateOverrepresentation]]
 [[Heterogeneous_Integration]]
 [[Memory_Wall]]
@@ -74,7 +76,6 @@ Auto-extracted concept from raw material compilation.
 [[Topology_Interconnect]]
 [[Topology_Page]]
 [[Topology_Page_Switching]]
-[[chiplet interconnect]]
 [[complex system]]
 [[residual connection]]
 

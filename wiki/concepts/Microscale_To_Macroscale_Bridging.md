@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[NCL神经计算定律详解]]
 [[Nanoscale_Precise_Control]]
 [[Network_Topology_Design]]
+[[NoiseAsLearningResource]]
 [[RecursiveSelfReferentialArchitecture]]
 [[TopologicalAndersonChernInsulator]]
 [[complex system]]

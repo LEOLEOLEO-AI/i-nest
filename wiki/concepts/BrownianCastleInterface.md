@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[AstrocyteInspiredModulation]]
 [[AtomicGeometryEncoding]]
 [[BurstTemporalPlasticity]]
+[[CouplingTopologyMemoryLink]]
 [[CrossLayer_SignalRouting]]
 [[EventDrivenTemplateUpdate]]
 [[Interconnect_Routing]]

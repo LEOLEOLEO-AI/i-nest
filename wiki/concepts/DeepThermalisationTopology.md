@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[NetworkInfluenceDynamics]]
 [[Network_Topology_Design]]
+[[RecursiveTopologyBreakthrough]]
 [[Self_Organized_Criticality]]
 [[TCC]]
 [[analog computation]]

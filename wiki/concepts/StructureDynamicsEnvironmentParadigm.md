@@ -21,15 +21,21 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Faculty_Forum_2026]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
+[[Attention_Residuals]]
 [[Defense_Industrial_Base_Reshaping]]
 [[Emergent_Topological_Alignment]]
 [[Independent_EdgeAI_Player_Endgame]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[SDI_Bond]]
 [[SDI_Review_Process]]
 [[SDI_iNEST_Topology]]
 [[ThermalNoiseHarnessing]]
+[[iNEST]]
+[[iNEST_Topology]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

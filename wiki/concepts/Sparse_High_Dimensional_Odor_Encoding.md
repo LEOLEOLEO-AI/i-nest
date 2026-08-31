@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligent_Power_Management]]
 [[LivingNetworkDynamics]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Energy_Aware_Learning]]
 [[iNEST]]
 
 ## Sources

@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[DimensionalityReductionPrinciple]]
 [[DynamicServiceComposition]]
 [[Dynamic_Expert_Fusion]]
+[[ElectromigrationReliability]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]

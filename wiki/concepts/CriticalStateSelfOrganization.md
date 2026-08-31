@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[AstrocyteInspiredModulation]]
 [[BiologicalNoiseMimicry]]
 [[BrownianCastleInterface]]
+[[CompartmentalNeuronModel]]
 [[Gaussian_Splatting_Streaming]]
 [[HigherAreaRankingDivergence]]
 [[Interconnect_Routing]]

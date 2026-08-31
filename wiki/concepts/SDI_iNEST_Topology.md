@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[InMateriaComputing]]
 [[Independent_EdgeAI_Player_Endgame]]
 [[Intelligence_Emergence]]
+[[Intelligent_Power_Management]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Spatiotemporal_Synergy]]
 [[Network_Topology_Design]]

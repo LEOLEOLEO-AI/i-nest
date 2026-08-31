@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Thermalisation]]
 [[DeviceConductanceTuning]]
 [[DifferentiableRasterizationPipeline]]
+[[DistinctReentrantPhases]]
 [[Intelligence_Emergence]]
 [[Memristor]]
 [[Memristor_Synapse]]

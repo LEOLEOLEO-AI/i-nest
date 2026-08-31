@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicTokenSparsity]]
 [[Edge_Neuromorphic_Compute]]
 [[EventDrivenControlLoop]]
+[[EventDrivenDataAssociation]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
 [[SNN]]

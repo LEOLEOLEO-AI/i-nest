@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Entanglement_Teleportation_Locality]]
 [[FastSlow_Dynamics]]
 [[Free_Energy_Principle_Network]]
+[[GlobalInformationDominance]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]

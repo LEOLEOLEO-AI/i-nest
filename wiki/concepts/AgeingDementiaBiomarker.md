@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[ConverterDrivenStability]]
 [[Criticality]]
 [[EEG_Criticality]]
+[[FormalLinguisticCompetence]]
 [[LocalLearning_SynapticUpdate]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Organization]]

@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[OpportunisticRoutingRL]]
 [[OpportunisticRouting]]
 [[OpticallyWritableAtomicVaporMemory]]
+[[PhysicalReservoirTransientDynamics]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[涌现]]

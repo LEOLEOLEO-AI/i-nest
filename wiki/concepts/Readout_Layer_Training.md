@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[EdgeIoTEnergyAwareness]]
 [[EmergentTaskDecomposition]]
 [[Epidemic_Mitigation_Strategy]]
+[[FederatedServiceGraph]]
 [[InNetwork_Learning_Interface]]
 [[Intelligence_Emergence]]
 [[MemristiveReservoirBranchPrediction]]

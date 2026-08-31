@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Precision_Configurable_ReCON]]
 [[StochasticVehicleRouting]]
+[[Strategic_CommsSupremacy]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
 [[涌现]]

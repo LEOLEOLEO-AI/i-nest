@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[ControlDrivenCriticalFluctuations]]
 [[Critical_Region_Extension]]
 [[DelayTolerantNetworkUAV]]
+[[Evaluation_Resolution_Confound]]
 [[EvolvingArchitectureDynamics]]
 [[Intelligence_Emergence]]
 [[Intelligent_Power_Management]]

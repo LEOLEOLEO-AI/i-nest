@@ -56,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[TemporalDynamicsModeling]]
 [[VonEconomoNeuron]]
 [[VonEconomoNeurons]]
+[[Wafer_Scale_Neuromorphic]]
 [[fMRI_SpikeEncoding]]
 [[iMESO_PhysicalCarrier]]
 [[iNEST]]

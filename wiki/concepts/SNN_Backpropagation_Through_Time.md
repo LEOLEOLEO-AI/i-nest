@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[OnChipSNNTrainingEngine]]
 [[SNN]]
 [[ST_SNN]]
+[[SelectorFreeHopfieldNetwork]]
 [[Spike_Encoding_of_fMRI]]
 [[SpikingNeuronOptimization]]
 [[Spiking_Neural_Network]]

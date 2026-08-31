@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[2026-06-15_大脑的量子纠缠与信息动力学]]
 [[AnalogDomainCompression]]
 [[Automated_Reward_Shaping]]
@@ -30,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality_Induced_Plasticity]]
 [[DisorderInducedCriticality]]
 [[DynamicalCriticality]]
+[[Edge_of_Chaos]]
 [[Edge_of_Chaos_Coastal_Dynamics]]
 [[MicroCriticalAgent]]
 [[NonEquilibriumPhaseTransition]]

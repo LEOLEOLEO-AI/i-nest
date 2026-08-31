@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[EnergyEfficientNeuromorphic]]
 [[EventBasedVisualStream]]
 [[EventDrivenInference]]
+[[EventDrivenNeuromorphicLearning]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

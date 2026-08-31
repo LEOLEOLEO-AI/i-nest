@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[FerroelectricSynapse]]
 [[Ferroelectric_Devices]]
 [[Heterogeneous_Integration]]
+[[InNetworkNeuromorphicAdaptation]]
 [[Loihi2_OnChip_Learning]]
 [[MagnetizationSusceptibilityResponse]]
 [[Neuromorphic_Computing]]

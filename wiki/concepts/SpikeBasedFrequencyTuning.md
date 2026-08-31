@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[CorticalWaveRouting]]
 [[DevelopmentalNeuromorphicAdaptation]]
 [[Interconnect_Routing]]
+[[MoE_Routing]]
 [[MobilityEdge]]
 [[NestedRepresentation]]
 [[Network_Specific_Embedding_Separation]]
@@ -41,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[ScalableNeuromorphicTopology]]
 [[SpikingMoE_SDPrompt]]
 [[Spiking_Neural_Network]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[WaveBasedComputation]]
 [[neuromorphic sensing]]
 

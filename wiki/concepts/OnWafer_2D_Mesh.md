@@ -1,0 +1,38 @@
+---
+title: "OnWafer_2D_Mesh"
+type: concept
+domain: TCC
+created: 2026-09-01
+auto: true
+---
+
+# OnWafer_2D_Mesh
+
+**Domain**: TCC
+**First mentioned**: auto-extracted
+**Last updated**: 2026-09-01
+
+## Definition
+A full-wafer homogeneous 2D mesh topology interconnecting 84 dies via cross scribe-line high-level metal wiring. Provides uniform, low-latency on-wafer communication across thousands of cores, the foundation of wafer-scale TCC systems.
+
+## Context
+Auto-extracted concept from raw material compilation.
+
+## Related Work
+
+[[Chiplet_Interconnect_Topology]]
+[[Chiplet_Wafer_Interconnect_Abstraction]]
+[[Mesoscale_Heterogeneous_Integration]]
+[[MicroRouter_Embedding]]
+[[Network_Topology_Design]]
+[[NoC_Chiplet_iNEST_Wafer]]
+[[TCC]]
+[[Topology_Interconnect]]
+[[Wafer_Scale_Integration]]
+[[Wafer_Scale_Neuromorphic]]
+
+## Sources
+- See wiki/articles/ for source article summaries
+
+## Open Questions
+- *(Explore connections to other concepts)*

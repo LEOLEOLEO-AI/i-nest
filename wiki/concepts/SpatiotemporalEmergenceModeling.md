@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Path_Selection]]
 [[AnomalousSpinTransport]]
 [[ArbitraryWavefunctionConfigurability]]
+[[BurstTemporalPlasticity]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]

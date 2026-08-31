@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[InternalStateCriticality]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
+[[NeuronalCriticality]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Self_Organized_Criticality]]
 [[complex system]]

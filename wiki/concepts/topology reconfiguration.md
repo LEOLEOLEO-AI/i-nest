@@ -30,11 +30,14 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 ## Related Work
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
+[[Analog_InMemory_Processing]]
 [[CLINKAsCarrierPrimitive]]
 [[CST计量仪]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
+[[Communication_Primitive]]
 [[Complex_System_Theory]]
 [[CongestionAwareNoCPlacement]]
 [[Decoupled_Priors]]
@@ -45,6 +48,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[Interconnect_Topology]]
 [[MoE_Routing]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]

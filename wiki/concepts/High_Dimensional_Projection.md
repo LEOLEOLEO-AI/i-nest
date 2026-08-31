@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_ProjectManager_Model]]
 [[DendriticReservoirState]]
 [[DeterministicChaosResonator]]
+[[DeviceLevelNonlinearityScaling]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Abilities]]
 [[FirstPrinciples_AI]]

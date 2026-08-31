@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Generalization_Bound_Spectra]]
 [[Hyper_Dimensional_Computing]]
 [[Intelligence_Emergence]]
+[[Kappa_Weibull_Distribution]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]

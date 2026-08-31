@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[FormalLinguisticCompetence]]
 [[Gut_Brain_Immune_Network]]
 [[HierarchicalBayesianCommunityDetection]]
+[[HippocampalNeocorticalIntelligence]]
 [[Intelligence_Emergence]]
 [[MacroCriticalityEmergence]]
 [[MetaFAIR_ArchitectureDiscovery]]

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CombinatorialOptimizationReservoirMapping]]
 [[Criticality]]
 [[Criticality_Reservoir]]
+[[Edge_of_Chaos_Reservoir_Dynamics]]
 [[Environmental_Induced_Memory]]
 [[Heterogeneous_Compute_Graph]]
 [[Heterogeneous_Integration]]

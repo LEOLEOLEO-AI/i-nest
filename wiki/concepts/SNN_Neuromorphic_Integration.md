@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Autonomous_Spiking_Dynamics]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BrainInspired_Chip]]
+[[ConductingPolymerDendriteMemory]]
 [[EventBasedBioSignalFrontEnd]]
 [[EventDataNonUniformity]]
 [[Event_Driven_Architecture]]
@@ -39,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[SpiNNaker2_Chip]]
 [[SpikeCodingAdversarialPerturbation]]
 [[Spike_Encoding_of_fMRI]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

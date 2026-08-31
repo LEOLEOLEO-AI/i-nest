@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Architecture]]
 [[CriticalFixedPoint]]
 [[CriticalStateDynamics]]
+[[CriticalityBasedClassification]]
 [[CriticalityDrivenLearning]]
 [[Criticality]]
 [[Criticality_Avoidance_Theory]]

@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[RenormalizationGroup_ScalingLaws]]
 [[RenormalizationGroup_Scaling]]
 [[SpatiotemporalComplexityIndex]]
+[[SpinalHDL_DSL]]
 [[TCC]]
 [[TemporalComplexity]]
 [[analog computation]]

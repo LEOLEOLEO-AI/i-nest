@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[BeyondPTSymmetry]]
 [[CausalEmergenceCondition]]
+[[Causal_Emergence_Integration]]
 [[Complex_System_Theory]]
 [[CorticalWaveRouting]]
 [[CubicLatticeInterconnect]]

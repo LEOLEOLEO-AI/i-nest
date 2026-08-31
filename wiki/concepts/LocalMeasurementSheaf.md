@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Nat_Hum_Behav_用「全拓扑网络」重塑视皮层地图]]
 [[NetworkMechanismsOfWaveGeneration]]
 [[Network_Topology_Design]]
+[[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[QuantumCircuitSimulation]]
 [[SDSoW]]
@@ -56,8 +57,10 @@ Auto-extracted concept from raw material compilation.
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
+[[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
 [[_专题研究_从单芯作战迈向系统集成_五_软件定义晶上系统_SDSoW_技术]]
+[[getnote_2025-07-24_液态神经网络与时空复杂性]]
 [[智能涌现]]
 [[涌现]]
 

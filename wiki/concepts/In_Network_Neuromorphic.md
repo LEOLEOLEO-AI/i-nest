@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[TemporalComplexity]]
 [[TemporalDynamicsModeling]]
 [[Wafer_Scale_Integration]]
+[[Wafer_Scale_Neuromorphic]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
 
@@ -65,4 +66,4 @@ Auto-extracted concept from raw material compilation.
 - *(Explore connections to other concepts)*
 
 ## Merged From
-- InNetwork_Neuromorphic (merged 2026-08-04)
+- In_Network_Neuromorphic (merged 2026-08-04)

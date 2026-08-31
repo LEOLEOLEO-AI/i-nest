@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[ArbitraryWavefunctionConfigurability]]
 [[Architectural_Conditioning]]
 [[BayesianDomainEvolution]]
+[[BehavioralFeedbackLoop]]
 [[BigBrainCellularAxis]]
 [[CST计量仪]]
 [[Cognitive_Relapse_Architecture]]

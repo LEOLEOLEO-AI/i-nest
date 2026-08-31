@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[ConstructedRealityState]]
 [[Continuous_Control_SNN_Stability]]
 [[Continuous_Control_Spiking_Stability]]
+[[CriticalStateDynamics]]
 [[Criticality]]
 [[DimensionSeparation_IntensiveExtensive]]
 [[Neuromorphic_Computing]]

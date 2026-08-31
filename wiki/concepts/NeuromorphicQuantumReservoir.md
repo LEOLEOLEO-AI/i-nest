@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Fixed_Reservoir_Unitary]]
 [[Globally_Optimal_SNN_Training]]
 [[Memristor]]
+[[Memristor_Reservoir_Computing]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]

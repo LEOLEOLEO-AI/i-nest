@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Meta_Residual_Learning]]
 [[NonHermitianSpectralCorrelations]]
 [[ProjectiveMeasurementFeedback]]
+[[SDI_STDP]]
 [[SNN]]
 [[STDP_Plasticity]]
 [[Spiking_Neural_Network]]

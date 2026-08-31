@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[DataBiasAmplification]]
 [[Data_Debiasing_Techniques]]
 [[Deep_Thermalisation]]
+[[DifferentiableRasterizationPipeline]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

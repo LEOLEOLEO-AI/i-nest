@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[BackflowTransformation]]
 [[Baseline_Change_Record]]
 [[BrownianCastleInterface]]
+[[BurstTemporalPlasticity]]
 [[Complex_System_Theory]]
 [[Contested_Prior_Resolution]]
 [[EpidemicThreshold]]

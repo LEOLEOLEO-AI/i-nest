@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[ERI_2_0_Strategic_Framework]]
 [[FPGA_Neuromorphic_Architectures]]
 [[FastSlow_Dynamics]]
+[[FixedOverheadCost]]
 [[Free_Energy_Principle_Network]]
 [[Habituation_Dynamics]]
 [[HierarchicalSpikePropagation]]

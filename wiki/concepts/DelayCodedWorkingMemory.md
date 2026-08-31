@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalEnsemble]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[LossSpikePhenomenon]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]

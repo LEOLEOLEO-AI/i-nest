@@ -37,6 +37,8 @@ Auto-extracted concept from raw material compilation.
 [[Bio_plausible_Neuromorphic_Disturbance_Observer]]
 [[BrainBodyResonance]]
 [[CascadedAdaptiveCombiners]]
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
 [[Complex_System_Theory]]
 [[Dynamic_Expert_Routing]]
@@ -52,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Phase_Separation]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
 [[神经网络]]
 

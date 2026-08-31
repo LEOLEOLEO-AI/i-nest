@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[3D_IC_Stacking]]
 [[4H_SiC_SubstrateProcessing]]
+[[AnalogInMemoryComputing]]
 [[CST_MasterEquation]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]

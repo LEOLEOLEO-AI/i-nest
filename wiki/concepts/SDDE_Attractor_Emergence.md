@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AnomalousSpinTransport]]
 [[CST_CoordinationMechanism]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
+[[ComplexValuedSNN]]
 [[Complex_System_Theory]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]

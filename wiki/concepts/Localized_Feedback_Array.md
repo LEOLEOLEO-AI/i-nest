@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Routing]]
 [[ExactRateChaosTransition]]
 [[ExplainableEnergyAI]]
+[[InteractingQuasiPeriodicChain]]
 [[Interconnect_Routing]]
 [[MoE_Routing]]
 [[Neuromorphic_Computing]]

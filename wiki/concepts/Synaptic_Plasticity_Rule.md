@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveSTDP]]
 [[AnisotropicGaussianPrimitives]]
 [[Bidirectional_Temporal_Enhancement]]
+[[BurstTemporalPlasticity]]
 [[Contested_Priors_Mechanism]]
 [[DiscreteSTDP]]
 [[Emergent_Intelligence]]

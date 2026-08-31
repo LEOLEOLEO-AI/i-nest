@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Alpha_Coefficient_Phase_Transition_Amplification]]
 [[AmorphousSolidPlasticity]]
 [[BackflowTransformation]]
+[[BayesianDomainEvolution]]
 [[Bidirectional_Temporal_Enhancement]]
 [[CircadianGateModulation]]
 [[Complex_System_Theory]]

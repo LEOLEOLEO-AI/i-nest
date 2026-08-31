@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikePacketCompression]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

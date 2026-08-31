@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalInterfaceBlock]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[JunctionCenteredFramework]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]

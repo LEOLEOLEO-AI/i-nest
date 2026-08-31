@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Active_Inference_Agent]]
 [[AgentReinforcementLoop]]
 [[Allreduce_Latency_Probe]]
+[[Alpha_Coefficient_Phase_Transition_Amplification]]
 [[Architectural_Conditioning]]
 [[AstrocyteInspiredRepair]]
 [[BandedConnectivityModel]]

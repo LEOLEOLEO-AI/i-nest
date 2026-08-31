@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Coupling_Topology]]
 [[Crystallized_Embedding_Reservoir]]
 [[DARPA_ProjectManager_Model]]
+[[DivergentHigherAreaRanking]]
 [[Dynamical_State_Space]]
 [[Environmental_Coupling_Organization]]
 [[Fading_Memory_Property]]

@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[ArchitecturalIllusion]]
 [[Architectural_Conditioning]]
 [[Associative_Memory_Unification]]
+[[Associative_Retrieval]]
 [[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence]]

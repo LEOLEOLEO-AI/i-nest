@@ -51,9 +51,11 @@ Auto-extracted concept from raw material compilation.
 [[RedundancyControlledStochasticRouting]]
 [[STDPDrivenConnectivity]]
 [[STDP_Plasticity]]
+[[SelfOrganization]]
 [[StochasticVehicleRouting]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[Topology_Centric_Interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AvalancheBranchingRatio]]
 [[BigBrainCellularAxis]]
 [[BranchingRatio]]
+[[CST_Intelligence_Emergence]]
 [[Criticality]]
 [[FormalLinguisticCompetence]]
 [[HierarchicalBayesianCommunityDetection]]

@@ -22,8 +22,10 @@ Auto-extracted concept from raw material compilation.
 [[AnomalousSpinTransport]]
 [[Attention_Residuals]]
 [[BigBrainCellularAxis]]
+[[CST计量仪]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Contested_Priors_Mechanism]]
 [[CorticalTypeDiversity]]
@@ -73,7 +75,6 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
 [[analog computation]]
-[[chiplet interconnect]]
 [[iNEST]]
 [[residual connection]]
 

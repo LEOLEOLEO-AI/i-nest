@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[FastSlow_Dynamics]]
 [[FieldTopologyEmbedding]]
 [[HallmarksOfCancer]]
+[[ImaginaryGaugePhaseImprint]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]

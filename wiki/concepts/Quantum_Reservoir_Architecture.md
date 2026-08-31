@@ -48,9 +48,13 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[PhysicalReservoirDynamicsEncoding]]
+[[PhysicalReservoirDynamics]]
+[[PhysicalReservoir]]
 [[QuantumGateSynthesis]]
 [[QuantumReservoirStateOrthogonalization]]
 [[RecursiveSelfReferentialArchitecture]]
+[[ReservoirDynamics]]
+[[ReservoirYieldMaximization]]
 [[Reservoir_Computing]]
 [[iNEST]]
 

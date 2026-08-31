@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[CoPackagedOptics]]
 [[Cognitive_Relapse_Architecture]]
 [[Complex_System_Theory]]
+[[DARPA_3DHI_Roadmap]]
 [[DTGA]]
 [[DendriticReservoirState]]
 [[FatalTopologyCoevolution]]

@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[DisorderInducedLocalization]]
 [[DynamicalMeanFieldAnalysis]]
 [[Encapsulation_Topology]]
+[[Euclidean_LatticeFieldSampling]]
 [[Intelligence_Emergence]]
 [[MeasurementEfficientDisorderAware]]
 [[Network_Topology_Design]]

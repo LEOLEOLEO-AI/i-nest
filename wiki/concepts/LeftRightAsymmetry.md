@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[SNN_Sparsity_InformationBound]]
 [[STDP_Plasticity]]
+[[STDP_iNEST]]
 [[ScaleFreeNetwork]]
 [[Self_Organized_Criticality]]
 [[Sleep_EEG_Criticality]]

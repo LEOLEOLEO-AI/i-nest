@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AmorphousSolidPlasticity]]
 [[AnisotropicGaussianPrimitives]]
 [[Architectural_Conditioning]]
+[[BayesianDomainEvolution]]
 [[Biomanufacturing_Control_Loop]]
 [[BranchingRatio]]
 [[BurstTemporalPlasticity]]

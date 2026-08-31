@@ -23,13 +23,19 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[Accessibility_Plasticity]]
 [[Analog_InMemory_Processing]]
+[[Attention_Residuals]]
+[[Memristor]]
 [[Memristor_Interconnect]]
+[[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[RuntimeTopologyMapping]]
+[[SDI_Bond]]
 [[SDI_iNEST_Interconnect]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[iNEST]]
+[[iNEST_Interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

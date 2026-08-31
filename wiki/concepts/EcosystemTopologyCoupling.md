@@ -43,8 +43,10 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
 [[RunawayAvalanche]]
+[[Spiking_Neural_Network]]
 [[StochasticMultiAgentRL]]
 [[TCC]]
+[[Wafer_Scale_Interconnect_Memristor]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[BranchingRatio]]
 [[BurstGatedRouting]]
 [[Cognitive_Relapse_Decoupling]]
+[[CriticalLearningRegime]]
 [[Critical_State_Interconnect]]
 [[CriticalityInNetworkComputing]]
 [[CriticalityOffCriticalityTransition]]

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AcademicDevelopmentCoCreation]]
 [[Biomanufacturing_Control_Loop]]
 [[BranchingRatio]]
+[[Categorical_Reservoir_Model]]
 [[CoexistencePhaseDiagram]]
 [[CoexistencePhaseTransition]]
 [[Contested_Priors_Mechanism]]

@@ -43,11 +43,13 @@ Auto-extracted concept from raw material compilation.
 [[SpikeCodedFeatureAssociation]]
 [[SpikeEncoding]]
 [[SpikeTimingDependentPlasticityForTracking]]
+[[SpikeTimingDependentPlasticity]]
 [[Spike_Timing_Dependent_Coordination]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[SynchronousResetting]]
 [[Temporal_Computing_Paradigm]]
+[[TheoryDrivenNeuromorphicDesign]]
 [[神经网络]]
 
 ## Sources

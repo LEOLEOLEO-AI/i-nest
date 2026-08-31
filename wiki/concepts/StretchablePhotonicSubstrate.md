@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Inference_Stage_Decomposition]]
 [[Intelligence_Emergence]]
+[[Logic_Folding]]
 [[MicroTransferPrinting]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]

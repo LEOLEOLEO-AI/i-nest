@@ -40,6 +40,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[GroupWise_DragonflyPlus]]
 [[HeterogeneousPD_Inference_BoundaryContract]]
 [[Heterogeneous_P_D_Inference]]
+[[Hippocampal_Spatiotemporal_Prior]]
 [[Intelligence_Emergence]]
 [[Memory_Technology_Role_Specialization]]
 [[MemristiveMEMSHysteresis]]

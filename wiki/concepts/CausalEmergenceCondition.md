@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[ScaleFreeNetwork]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
+[[ThermallyDrivenSuperparamagnetReservoir]]
 [[WaveBasedInformationRouting]]
 [[complex system]]
 [[iNEST]]

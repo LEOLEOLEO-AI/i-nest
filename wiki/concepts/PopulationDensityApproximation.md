@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Neuromorphic_Acceleration]]
 [[Hardware_Accelerated_SNN]]
 [[Intelligence_Emergence]]
+[[MemristiveSNN]]
 [[Memristive_Topology]]
 [[Memristor]]
 [[Memristor_Network]]

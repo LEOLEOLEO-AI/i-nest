@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AmorphousSolidPlasticity]]
 [[Ant_Swarm_Functional_Control]]
 [[Architectural_Conditioning]]
+[[BayesianDomainEvolution]]
 [[Bio_plausible_Neuromorphic_Disturbance_Observer]]
 [[Biomanufacturing_Control_Loop]]
 [[BranchingRatio]]

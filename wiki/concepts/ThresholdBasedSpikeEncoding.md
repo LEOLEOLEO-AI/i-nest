@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[Neuromorphic_NoC_Routing]]
 [[NoC]]
+[[RobustnessToNoiseInSNN]]
 [[SDI_Bond]]
 [[SDI_iNEST_Interconnect]]
 [[SNN]]

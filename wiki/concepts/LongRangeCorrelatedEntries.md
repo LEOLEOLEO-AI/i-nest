@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[GroupInteractionThreshold]]
 [[Intelligence_Emergence]]
 [[LocalGraphTopologyProtection]]
+[[Loihi2_OnChip_Learning]]
 [[Memristive_STDP]]
 [[Memristive_Topology]]
 [[Memristor]]

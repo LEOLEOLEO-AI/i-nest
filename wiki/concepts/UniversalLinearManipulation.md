@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstInterleaving]]
 [[CellEmergence]]
 [[Cognitive_Relapse_Decoupling]]
+[[CongestionAwarePathSelection]]
 [[Continual_Learning_Modularity]]
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[CriticalityInNetworkComputing]]

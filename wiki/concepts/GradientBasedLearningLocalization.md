@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[BulletTrainScheduling]]
 [[ContinuousTimeSNN]]
 [[Criticality]]
+[[CrossEntityPreemptiveWarning]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]

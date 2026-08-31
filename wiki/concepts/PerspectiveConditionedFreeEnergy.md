@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[ChiralTopologicalMatter]]
 [[Complex_System_Theory]]
 [[Decoupled_Priors]]
+[[FiniteSizeTopologicalPhase]]
 [[GraphBasedSemanticRouting]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

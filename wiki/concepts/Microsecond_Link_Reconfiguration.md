@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[ConvexNonConvexTradeoff]]
 [[DTGA]]
 [[Deep_Network_Architecture_Invariant]]
+[[DynamicServiceComposition]]
 [[FPGA_Reconfigurability]]
 [[Free_Energy_Topology_Mapping]]
 [[GPU_Bottleneck_Relief]]

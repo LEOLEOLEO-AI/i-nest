@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[SexBasedConnectomeDifferences]]
 [[Sex_Network_Interaction]]
 [[Spiking_Neural_Network]]
+[[VisualCortexAlignmentDegradation]]
 [[iNEST]]
 
 ## Sources

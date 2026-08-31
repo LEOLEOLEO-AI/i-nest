@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Connectome]]
 [[Crystallized_Neural_Manifolds]]
+[[DARPA_ProjectManager_Model]]
 [[Dynamical_State_Space]]
 [[Epithelial_Barrier_Integrity]]
 [[GradientFreeLowRankTraining]]

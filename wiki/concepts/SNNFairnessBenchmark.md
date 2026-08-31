@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CombinedImportanceScoring]]
 [[CurrentInjectionSNN]]
 [[DARPA_ProjectManager_Model]]
+[[ErrorSuppressedPipeline]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[FPGA_Accelerated_SNN]]
 [[FPGA_Neuromorphic_Acceleration]]

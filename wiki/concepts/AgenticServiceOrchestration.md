@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[Continual_Learning_Modularity]]
 [[CriticalityInNetworkComputing]]
+[[CriticalityInducedTopology]]
 [[Criticality]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence]]

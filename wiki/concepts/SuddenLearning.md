@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[FlexibilityThreshold]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
+[[PhysicalTransientEncoding]]
 [[Reservoir_Computing]]
 [[RunawayAvalanche]]
 [[TCC]]

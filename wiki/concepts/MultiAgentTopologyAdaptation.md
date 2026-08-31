@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Reusable_Hypersonic_Platform]]
 [[Reusable_Hypersonic_Platforms]]
 [[SelfOrganization]]
+[[StretchablePhotonicInterconnect]]
 [[TopologicalAndersonChernInsulator]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]

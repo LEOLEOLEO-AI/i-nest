@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[SynapticRewiringDynamics]]
 [[Synaptic_Plasticity]]
+[[Synchronization_Overhead_Mitigation]]
 [[TemporalCodingForPointClouds]]
 [[iNEST]]
 [[temporal coding]]

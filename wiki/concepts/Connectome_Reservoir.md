@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Automated_Assessment_Framework]]
 [[Brain_Connectome]]
 [[C_elegansConnectomeAnalogy]]
+[[CollectiveDynamics]]
 [[Complex_System_Theory]]
 [[Connectome]]
 [[DevelopmentalNeuromorphicAdaptation]]

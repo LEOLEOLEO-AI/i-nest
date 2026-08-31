@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[SOC]]
 [[ScaleFreeNetwork]]
+[[SparseHubsCoupling]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[Transferable_Lightweight_Neuromorphic]]

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AnalogDomainCompression]]
 [[Anomaly_Induced_Quantum_Criticality]]
 [[AvalancheBranchingRatio]]
+[[BioInspired_Interception_Control]]
 [[BranchingRatio]]
 [[Cognitive_Relapse_Decoupling]]
 [[CriticalLearningRegime]]

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[BehavioralFeedbackLoop]]
 [[Bio_plausible_Neuromorphic_Disturbance_Observer]]
 [[BrainBodyResonance]]
+[[BurstTemporalPlasticity]]
 [[CascadedAdaptiveCombiners]]
 [[Contested_Priors_Mechanism]]
 [[DefectDynamics]]

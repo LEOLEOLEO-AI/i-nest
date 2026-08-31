@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
 [[PhaseLockedTopologyMapping]]
+[[RecurrentOscillatoryComputation]]
 [[SpikePacketRouting]]
 [[SpikeTrafficScheduling]]
 [[Spike_Encoding_of_fMRI]]

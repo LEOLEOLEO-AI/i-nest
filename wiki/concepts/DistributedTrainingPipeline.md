@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Stacking]]
 [[CommunicationAsComputation]]
 [[GPU_Bottleneck_Relief]]
+[[GlobalDecision_LocalExecution_ControlPlane]]
 [[HeterogeneousChipletIntegration]]
 [[Heterogeneous_Integration]]
 [[InterconnectAwarePartitioning]]

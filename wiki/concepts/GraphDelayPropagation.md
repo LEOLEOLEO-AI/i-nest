@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_Technology_Incubation]]
 [[Defense_Industrial_Base_Reshaping]]
 [[DelayRobustEmergence]]
+[[DifferentiableRasterizationPipeline]]
 [[DimensionalityReductionPrinciple]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

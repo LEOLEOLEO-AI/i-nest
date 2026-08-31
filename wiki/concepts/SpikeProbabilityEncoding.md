@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Loihi2_SpikeEncoding]]
 [[MeanFieldSpikeRateApproximation]]
 [[Memristive_STDP]]
+[[RobustnessToNoiseInSNN]]
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SDI_STDP_Rule]]

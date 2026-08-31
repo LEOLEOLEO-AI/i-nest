@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AnisotropicGaussianPrimitives]]
 [[Bidirectional_Temporal_Enhancement]]
 [[CirculateFiringNeuron]]
+[[Contested_Prior_Resolution]]
 [[DeeplySupervisedSpiking]]
 [[DiscreteSTDP]]
 [[Emergent_Intelligence]]

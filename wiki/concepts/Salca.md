@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[EquilibriumSolution]]
 [[HubbardModelVariationalAnsatz]]
 [[Intelligence_Emergence]]
+[[Material_Circularity]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[RecursiveSelfReferentialArchitecture]]

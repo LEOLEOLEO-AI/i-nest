@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[StressDrivenNetworkMorphogenesis]]
 [[Technology_Readiness_Forecast_2045]]
 [[TopologyAdaptiveCoupling]]
+[[TopologyDrivenRouting]]
 [[iNEST]]
 
 ## Sources

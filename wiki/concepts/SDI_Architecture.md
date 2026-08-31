@@ -24,10 +24,12 @@ Auto-extracted concept from raw material compilation.
 [[ClocklessReconfigurableChip]]
 [[Contested_Prior_Resolution]]
 [[CorticalWaveRouting]]
+[[Interconnect_Routing]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
+[[SDI_STDP_Rule]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

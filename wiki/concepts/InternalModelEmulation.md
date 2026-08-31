@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[AdsorptionBiosorptionMechanism]]
 [[Advanced_Computing_Project]]
 [[AgentReinforcementLoop]]
+[[Alpha_Coefficient_Phase_Transition_Amplification]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

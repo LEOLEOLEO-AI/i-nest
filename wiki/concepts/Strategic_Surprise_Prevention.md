@@ -27,11 +27,12 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
+[[Chiplet_Interconnect]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[CytoarchitectonicAxis]]
 [[DataDrivenCellularAxis]]
 [[DifferentiableRasterizationPipeline]]
-[[EdgeOfChaos]]
+[[Edge_of_Chaos]]
 [[Heterogeneous_Integration]]
 [[In_Package_Neuromorphic_Integration]]
 [[InkjetPrintedElectrochemicalSensors]]
@@ -62,8 +63,8 @@ Auto-extracted concept from raw material compilation.
 [[Technology_Disparity_Offset]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[Wafer_Scale_Memristor_Interconnect]]
-[[chiplet interconnect]]
 [[iNEST]]
 
 ## Sources

@@ -49,6 +49,8 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[SpikePacketRouting]]
 [[Spike_Encoding_of_fMRI]]
+[[Spiking neural network]]
+[[SpikingRecurrentCells]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]

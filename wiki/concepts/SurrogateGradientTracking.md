@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossLayer_SignalRouting]]
 [[CurrentInjectionSNN]]
 [[DeepSpikingEnsembleLayers]]
+[[DirectTrainingSNN]]
 [[EnergyEfficientNeuromorphic]]
 [[EvolutionarySpikeTimingOptimization]]
 [[Frontier_Innovation_Mapping]]

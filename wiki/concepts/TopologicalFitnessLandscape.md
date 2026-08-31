@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[EdgeIoTEnergyAwareness]]
 [[ErdosRenyi_Graph_Energy_Surface]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
+[[GitWhitelistQuotaEnforcement]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Memristive_Topology]]

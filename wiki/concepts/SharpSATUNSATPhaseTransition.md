@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Driven_Criticality]]
 [[ExactlyFlatTopologicalBands]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
+[[GroupInfluenceThreshold]]
 [[InNetworkComputing]]
 [[Interconnect_Routing]]
 [[JointUAVFlightAndRouting]]

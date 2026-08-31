@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[CST计量仪]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Complex_System_Theory]]
 [[Core_Spacetime_Tensor]]
@@ -68,12 +69,12 @@ Auto-extracted concept from raw material compilation.
 [[SuperlinearGainProof]]
 [[SystemLevelNonlinearity]]
 [[TCC]]
+[[Technology_Innovation_Platform]]
 [[TemperatureSensitivityControl]]
 [[TemporalComplexity]]
 [[Textbook_Paradigm_Definition]]
 [[TopologyCentricEngineeringBase]]
 [[Topology_Interconnect]]
-[[chiplet interconnect]]
 [[residual connection]]
 
 ## Sources

@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[SDI_iNEST_Interconnect]]
 [[Spiking_Neural_Network]]
 
 ## Sources

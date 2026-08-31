@@ -26,9 +26,13 @@ Auto-extracted concept from raw material compilation.
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[ContinualLearningOnNeuromorphic]]
 [[CriticalityInducedComputationalCapacity]]
+[[Criticality]]
 [[DMP_SNN_DualMemoryPathway]]
+[[Distributed_Spike_Communication]]
 [[Neuromorphic_Computing]]
 [[SNN]]
+[[Self_Organized_Criticality]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 
 ## Sources

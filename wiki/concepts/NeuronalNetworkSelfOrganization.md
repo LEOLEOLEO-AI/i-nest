@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveMeasurementProtocol]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[AmorphousSolidPlasticity]]
+[[BayesianDomainEvolution]]
 [[Bio_plausible_Neuromorphic_Disturbance_Observer]]
 [[Biomanufacturing_Control_Loop]]
 [[BranchingRatio]]

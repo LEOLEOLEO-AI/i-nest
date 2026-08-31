@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Data_Debiasing_Techniques]]
 [[DifferentiableRasterizationPipeline]]
 [[ERI_2_0_Strategic_Framework]]
+[[Emergent_Intelligence_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

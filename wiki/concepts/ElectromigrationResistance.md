@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Decoupling]]
 [[CongestionAwarePathSelection]]
 [[CriticalWeightNormBoundary]]
+[[CriticalityInNetworkComputing]]
 [[CriticalityInducedTopology]]
 [[Criticality]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]

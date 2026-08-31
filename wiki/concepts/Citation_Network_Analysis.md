@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[AdversarialSensingResilience]]
 [[Air_Combat_Autonomy]]
 [[AmorphousSolidPlasticity]]
+[[Analog_InMemory_Processing]]
 [[BCM滑动阈值]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]

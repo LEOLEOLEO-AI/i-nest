@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[3DHI_Chiplet_Integration]]
 [[AI_Faculty_Forum_2026]]
 [[Attention_Residuals]]
+[[BoundaryContract]]
 [[CST_Spatiotemporal_Complexity]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]

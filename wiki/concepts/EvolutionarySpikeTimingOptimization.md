@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[CrossLayer_SignalRouting]]
+[[DirectTrainingSNN]]
 [[EnergyEfficientNeuromorphic]]
 [[HardwareAware_DesignSpace]]
 [[Interconnect_Routing]]

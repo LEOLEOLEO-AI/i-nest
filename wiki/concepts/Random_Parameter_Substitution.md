@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[MeanFieldSpinGlass]]
 [[Microbiome_Immune_Endocrine_Interplay]]
+[[NanomaterialFeatureEngineering]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Chiplet]]

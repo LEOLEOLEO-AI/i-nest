@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[DevelopmentalNeuromorphicAdaptation]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
+[[EventCameraActionRecognition]]
 [[FPGA_Neuromorphic_Acceleration]]
 [[HippocampalNeocorticalIntelligence]]
 [[Intelligence_Emergence]]

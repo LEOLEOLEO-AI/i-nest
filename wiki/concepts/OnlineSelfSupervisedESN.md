@@ -53,6 +53,8 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[NoiseModulated_Backprop]]
 [[OpportunisticRoutingRL]]
+[[OpportunisticRouting]]
+[[Optimal_Representation_Geometry]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SOC]]
 [[SelfOrganizedOscillatoryLearning]]

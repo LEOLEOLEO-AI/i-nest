@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Criticality]]
+[[Intelligence_Emergence]]
 [[MultiTimescaleSeparation]]
 [[NCL神经计算定律详解]]
 [[Network_Topology_Design]]
@@ -42,7 +43,10 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[StandardizedComponent]]
 [[TCC]]
+[[Topological_Phase_Transition_Scaling]]
 [[iNEST]]
+[[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[CrossbarFabricTopology]]
 [[DelayPropagationDynamics]]
+[[DiffusionInducedInstability]]
 [[Dimensionality_Modularity_Tradeoff]]
 [[DynamicCentralitySteering]]
 [[FunctionalRelevanceDrivenSelfOrganization]]

@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[SNN]]
 [[SNN_Accelerator_Architecture]]
+[[SolitonLikeWaves]]
 [[SpikingPlaceCellEnsemble]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

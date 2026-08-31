@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[CollectiveSpikingDynamics]]
 [[CrossLayer_SignalRouting]]
+[[CrossbarSNNArchitecture]]
 [[EventDrivenModularArchitecture]]
 [[Interconnect_Routing]]
 [[LocalInteractionDrivenReconfiguration]]

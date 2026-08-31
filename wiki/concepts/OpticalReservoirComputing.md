@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[FullyLocalOnlineSNNTraining]]
 [[HierarchicalReservoirDynamics]]
 [[MetaFAIR_ArchitectureDiscovery]]
+[[Nanoencapsulation_PhaseTransition]]
 [[Neuromorphic_Computing]]
 [[NonlinearDynamicalSampling]]
 [[Nonlinear_Gain]]

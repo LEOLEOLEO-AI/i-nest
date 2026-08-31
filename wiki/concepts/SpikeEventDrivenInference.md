@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[DebiasingTechniques]]
 [[Dynamic_Expert_Fusion]]
 [[EnergyProportionalityCeiling]]
+[[EpidemicThreshold]]
 [[EventDrivenInference]]
 [[EventDrivenRiskAssessment]]
 [[Event_Driven_Architecture]]

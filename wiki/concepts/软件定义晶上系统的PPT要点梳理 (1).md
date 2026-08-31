@@ -1,0 +1,23 @@
+---
+provenance: derived
+type: concept-stub
+auto: true
+created: 2026-09-01
+refs: 5
+---
+
+# 软件定义晶上系统的PPT要点梳理 (1)
+
+> 由 self_evolve 自动生成的占位概念（被引用 4 次，来源尚未成稿）。
+
+
+## 引用来源
+
+- [[晶上网络赋能超非线性增益 (1)]]
+- [[知识库搭建]]
+- [[log_2026-07-15]]
+- [[在网计算（In-Network Computing） (1)]]
+- [[工程技术系统发展路线与分类 (1)]]
+
+
+_待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_

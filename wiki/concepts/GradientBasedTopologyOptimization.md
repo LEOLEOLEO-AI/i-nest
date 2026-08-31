@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[MatrixShapePhaseTransition]]
 [[Network_Topology_Design]]
+[[OpenEndedDiscovery]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[涌现]]

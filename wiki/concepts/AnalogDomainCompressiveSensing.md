@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[DataDrivenCytoarchitectonicAxis]]
 [[DifferentiableRasterizationPipeline]]
 [[ErrorSuppressedPipeline]]
+[[Hierarchical_Attachment]]
 [[MLChiralityDecoder]]
 [[Memristor]]
 [[Memristor_Network]]

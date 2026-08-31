@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[NoiseRobust_Hyperedge_Aggregation]]
 [[SexBasedConnectomeDifferences]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]

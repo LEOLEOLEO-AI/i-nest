@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[STDP_Plasticity]]
 [[StateAugmentedLearning]]
+[[Stigmergic_Neural_Plasticity]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[complex system]]

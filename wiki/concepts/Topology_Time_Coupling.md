@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[EpidemicTopologyCoevolution]]
 [[EvolvingArchitectureDynamics]]
 [[ExactWiringRouting]]
+[[FPGA_Reconfigurability]]
 [[GrandCanonicalOptimization]]
 [[HybridCouplingThermosensitiveNetwork]]
 [[Intelligence_Emergence]]

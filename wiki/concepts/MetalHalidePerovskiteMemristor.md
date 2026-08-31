@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[FeFET_Polarization_Switching]]
 [[GeTeBasedCBRAM]]
 [[Intelligence_Emergence]]
+[[Loihi2_OnChip_Learning]]
 [[Memristive_Topology]]
 [[Memristor]]
 [[Memristor_Synapse]]

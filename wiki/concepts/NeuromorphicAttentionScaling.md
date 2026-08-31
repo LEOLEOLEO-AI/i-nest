@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Avoided_Criticality]]
 [[BioPlausiblePredictiveCoding]]
+[[BrainScaleS_AsyncEventCircuit]]
 [[ContinuousTimeSNN]]
 [[Criticality]]
 [[EnergyProportionalityCeiling]]

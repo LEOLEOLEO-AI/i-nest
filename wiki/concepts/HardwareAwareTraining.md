@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[ExtinctionDrivenMetastability]]
 [[Fast_Response_Actuator]]
 [[Interconnect_Routing]]
+[[NonHermitianSpectralCorrelations]]
 [[RateEncodedSpikingNeuralNetwork]]
 [[SDI_Bond]]
 [[SDI_STDP]]

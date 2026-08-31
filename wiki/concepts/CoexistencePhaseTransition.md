@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[BrownianCastleInterface]]
 [[BurstTemporalPlasticity]]
 [[Categorical_Reservoir_Model]]
+[[CertifiedBifurcationDetection]]
 [[ChannelEventSparsity]]
 [[CoexistencePhaseDiagram]]
 [[Coupling_Strength_Encoding]]

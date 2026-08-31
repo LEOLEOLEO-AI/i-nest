@@ -32,11 +32,13 @@ Auto-extracted concept from raw material compilation.
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Stacking]]
 [[CoPackagedOptics]]
 [[Cognitive_Relapse_Architecture]]
 [[CorticalTypeDiversity]]
 [[DARPA_ProjectManager_Model]]
+[[Decoupling_Mechanism]]
 [[Evolutionary_Structure_Computability]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
@@ -59,7 +61,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TemporalComplexity]]
 [[analog computation]]
-[[chiplet interconnect]]
 [[iNEST]]
 
 ## Sources

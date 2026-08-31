@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[EarlyVisualCortexAliasing]]
 [[EventDrivenModularArchitecture]]
 [[EvolutionaryDiversityPreservation]]
+[[FPGAInferenceAccelerator]]
 [[HardwareAware_DesignSpace]]
 [[Nonlinear_Gain]]
 [[PPT]]

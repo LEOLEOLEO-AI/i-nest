@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[CatalyticReactionNetwork]]
 [[Channel_Decoding_Energy_Landscape]]
 [[Complex_System_Theory]]
+[[DAGGER_Algorithm]]
 [[Intelligence_Emergence]]
 [[Ising_Formulation]]
 [[Network_Topology_Design]]

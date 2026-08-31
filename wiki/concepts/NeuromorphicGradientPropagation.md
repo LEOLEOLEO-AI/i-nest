@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[DifferentiableNetworkMetrics]]
 [[EventDrivenModularArchitecture]]
 [[EventDrivenTracking]]
+[[Event_Driven_Communication]]
 [[FrustratedDimerMagnet]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

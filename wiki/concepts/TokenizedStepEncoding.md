@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[BrownianCastleInterface]]
 [[BrownianCastleInterfaces]]
+[[BurstTemporalPlasticity]]
 [[CSI_Temporal_Encoding]]
 [[Chiplet]]
 [[Chiplet_Based_Neuromorphic_Integration]]

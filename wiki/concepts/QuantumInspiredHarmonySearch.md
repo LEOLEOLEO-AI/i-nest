@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[ComputationEfficientDeepLearning]]
 [[Deep_Network_Architecture_Invariant]]
+[[DendriticReservoirState]]
 [[Dynamic_Expert_Fusion]]
 [[EfficientDeepLearning]]
 [[EmergentIntelligence_Spacetime]]

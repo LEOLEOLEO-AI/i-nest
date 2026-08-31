@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[EventTriggeredDistributedControl]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[Kinematic_Waves]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[涌现]]

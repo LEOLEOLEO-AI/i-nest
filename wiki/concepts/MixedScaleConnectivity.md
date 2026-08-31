@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[ByteDance_Ada_Chip]]
 [[CST_Equation]]
 [[CircadianGateModulation]]
+[[Combinatorial_Optimization_Readout]]
 [[Complex_System_Theory]]
 [[Connectome]]
 [[Connectome_Transfer]]

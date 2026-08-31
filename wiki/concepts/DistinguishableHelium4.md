@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicTokenSparsity]]
 [[Edge_Neuromorphic_Compute]]
 [[Endocrine_Modulated_Network_State]]
+[[Environmental_Capability_Context]]
 [[EventCameraPoseInput]]
 [[EventDrivenAttentionMasking]]
 [[ExactFiringRateModel]]

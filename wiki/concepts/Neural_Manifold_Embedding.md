@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Neuromorphic_Architectures]]
 [[Flexible_Neural_Mapping]]
 [[FunctionalBrainNetworkConnectivity]]
+[[Geometric_Neural_Field]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]

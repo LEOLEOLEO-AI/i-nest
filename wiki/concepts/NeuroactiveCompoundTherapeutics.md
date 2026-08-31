@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[OnlinePlasticity]]
+[[PhotonicSynapticPlasticity]]
 [[QuantumProbabilityFlowHebbian]]
 [[Receptron_Unit]]
 [[ReconfigurableSpikingRouting]]

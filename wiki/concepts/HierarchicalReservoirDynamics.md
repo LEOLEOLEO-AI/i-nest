@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]
+[[Spiking_neural_network_dynamics]]
 [[iNEST]]
 
 ## Sources

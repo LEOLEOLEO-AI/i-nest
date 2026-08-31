@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC]]
 [[NoC_EventRouting]]
 [[PPT]]
+[[QuarantineCostTradeoff]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[TCC]]

@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[Order_Flexibility_Duality]]
 [[QuantumKernelMethods]]
 [[RecursiveSelfReferentialArchitecture]]
@@ -61,8 +62,10 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
+[[Wafer_Scale_Neuromorphic]]
 [[Wafer_Scale_Neuromorphic_Integration]]
 [[complex system]]
+[[三原理协同_FEP_STDP_最小作用量]]
 [[神经网络]]
 
 ## Sources

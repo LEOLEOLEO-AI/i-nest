@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[03 涌现：整体的能力不能还原回个体？ - 得到APP]]
+[[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
 [[AI-ML — 全景导航 (Map of Content)]]
 [[AI_Faculty_Forum_2026]]
 [[AndersonTransition]]
@@ -31,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
 [[Complex_System_Theory]]
 [[Deep_Thermalisation]]
 [[EulaminateOverrepresentation]]
@@ -58,7 +60,6 @@ Auto-extracted concept from raw material compilation.
 [[TopologicalDataCompression]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
-[[chiplet interconnect]]
 [[complex system]]
 [[iNEST]]
 [[涌现]]

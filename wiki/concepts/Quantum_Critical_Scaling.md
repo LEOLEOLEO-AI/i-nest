@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_STDP]]
 [[Multifractal_Scaling_Behaviour]]
 [[Network_Topology_Design]]
+[[Neuromorphic_Computing]]
 [[Quantum_Spin_Glass]]
 [[RamanInducedGaugeField]]
 [[Recursive_Metric_Contraction]]
@@ -55,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 [[类脑芯片]]
+[[脉冲神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

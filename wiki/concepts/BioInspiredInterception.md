@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Architecture]]
 [[Event_Driven_Processing]]
 [[In_Network_Neuromorphic]]
+[[Military_AI_Revolution]]
 [[NestedRepresentation]]
 [[NeuromorphicNetworkFabric]]
 [[Neuromorphic_Computing]]

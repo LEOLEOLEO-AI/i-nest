@@ -21,15 +21,22 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3DHI_Chiplet_Integration]]
+[[AdaptiveGraphDiffusion]]
 [[BurstGatedRouting]]
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
 [[FPGA_NeuromorphicMapping]]
 [[In_Package_Neuromorphic_Integration]]
+[[Interconnect_Routing]]
 [[MemoryDrivenVectorFlowFieldRouting]]
 [[Network_Topology_Design]]
+[[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[P_Paradigm]]
 [[TCC]]
 [[Topological_Encapsulation]]
 [[TopologyCentricPrimitiveSet]]
+[[VectorFlowField]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

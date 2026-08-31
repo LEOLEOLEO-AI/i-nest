@@ -27,7 +27,9 @@ Auto-extracted concept from raw material compilation.
 [[BackpropagationFreeLearning]]
 [[BeyondPTSymmetry]]
 [[CLINKAsCarrierPrimitive]]
+[[CellEmergenceMechanism]]
 [[CellEmergence]]
+[[Intelligence_Emergence]]
 [[TCC]]
 [[iNEST]]
 

@@ -28,6 +28,8 @@ Auto-extracted concept from raw material compilation.
 [[BurstInterleaving]]
 [[Cascading_Failure_Mitigation]]
 [[CrossLayer_SignalRouting]]
+[[DisturbancePropagationPath]]
+[[EventDrivenAsync]]
 [[EventDrivenAsynchronousRouting]]
 [[FPGACongestionHotspotMitigation]]
 [[HighThroughputBioparticleRouting]]

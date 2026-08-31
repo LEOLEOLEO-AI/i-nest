@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[HippocampalNeocorticalIntelligence]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[MatrixShapePhaseTransition]]
 [[Memristive_Interconnect]]
 [[Memristor]]
 [[Memristor_Synapse]]

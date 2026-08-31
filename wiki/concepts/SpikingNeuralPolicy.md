@@ -45,8 +45,10 @@ Auto-extracted concept from raw material compilation.
 [[InNetwork_Neuromorphic_CoDesign]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
+[[SDN_Neuromorphic_Interface]]
 [[SNN]]
 [[Self_Organized_Criticality]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

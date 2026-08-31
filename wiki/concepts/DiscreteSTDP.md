@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Prior_Resolution]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
+[[EventCameraTemporalEncoding]]
 [[Event_Driven_Architecture]]
 [[Intelligence_Emergence]]
 [[IntrinsicTimingSTDP]]

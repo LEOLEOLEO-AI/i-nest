@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Constructed_Reality_Interconnect]]
 [[Deep_Thermalisation]]
+[[DendriticReservoirState]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Theory]]
 [[Emergent_Intelligence_Threshold]]

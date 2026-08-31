@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Active_Inference_Agent]]
 [[Alpha_Coefficient_Phase_Transition_Amplification]]
 [[ArbitraryWavefunctionConfigurability]]
+[[BayesianDomainEvolution]]
 [[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]

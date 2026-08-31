@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[ComputeRelocationOverhead]]
 [[DataCenter_Chip_Logic_Compression]]
 [[Deep_Thermalisation]]
+[[DistinctReentrantPhases]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]

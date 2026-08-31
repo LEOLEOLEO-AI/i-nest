@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossLayer_SignalRouting]]
 [[DivergentHigherAreaRanking]]
 [[EnergyEfficientNeuromorphic]]
+[[EventDrivenModularArchitecture]]
 [[HardwareAware_DesignSpace]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

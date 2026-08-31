@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[PowerLawScaling]]
 [[RealTimeImageToEventConversion]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SNN_Config_Sensitivity]]
 [[Self_Organized_Criticality]]
 [[SpikeDrivenMOT]]
 [[Spike_Encoding_of_fMRI]]

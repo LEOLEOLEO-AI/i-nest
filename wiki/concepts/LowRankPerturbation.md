@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AddressRedundancyElimination]]
 [[Baseline_Change_Record]]
 [[BidirectionalRingTopology]]
+[[BioInspired_Interception_Control]]
 [[BioPlausiblePredictiveCoding]]
 [[BrownianCastleInterface]]
 [[BurstGatedRouting]]

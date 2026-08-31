@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[ArbitraryWavefunctionConfigurability]]
 [[BCM滑动阈值]]
 [[BayesianDomainEvolution]]
+[[BehavioralFeedbackLoop]]
 [[BoseCondensateAnalogy]]
 [[CST_Synergy_Coordination]]
 [[Complex_System_Theory]]

@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[PowerLawScaling]]
 [[RecursiveSelfReferentialArchitecture]]
+[[ST_SNN]]
 [[Self_Organized_Criticality]]
 [[SynapticReinforcementConsolidation]]
 [[Syncytial_Mesh]]

@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Topology]]
 [[Neuromorphic_Topology_Mapping]]
 [[NoCPlacementRoutingCoDesign]]
 [[NoC]]
@@ -55,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[Switchless_Dragonfly_Topology]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[iNEST]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

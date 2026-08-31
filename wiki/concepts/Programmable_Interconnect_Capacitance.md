@@ -21,14 +21,21 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[BarrierConditionedTrajectory]]
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_NoC_Fabric]]
 [[ControlDrivenCriticalFluctuations]]
 [[Critical_Region_Extension]]
 [[CrossbarInterconnect]]
+[[EventDrivenAsync]]
 [[EventDrivenAsynchronousRouting]]
 [[EvolvingArchitectureDynamics]]
 [[GeneralIntelligenceSubstrate]]
+[[Interconnect_Routing]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
+[[NoC]]
+[[NoC_EventRouting]]
 [[TCC]]
 
 ## Sources

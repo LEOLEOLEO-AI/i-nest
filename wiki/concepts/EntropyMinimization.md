@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[FieldTopologyEmbedding]]
 [[GoalNormalization]]
 [[HallmarksOfCancer]]
+[[ImaginaryGaugePhaseImprint]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]

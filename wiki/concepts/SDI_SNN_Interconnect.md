@@ -32,6 +32,8 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[OpportunisticRoutingRL]]
+[[OpportunisticRouting]]
+[[PairwiseCorrelationConstraint]]
 [[PhaseLockedTopologyMapping]]
 [[ReconfigurableSpikingRouting]]
 [[SDI_Bond]]

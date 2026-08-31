@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Architecture]]
 [[Complex_System_Theory]]
 [[DARPA_3DHI_Roadmap]]
+[[DTGA]]
 [[DendriticReservoirState]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]

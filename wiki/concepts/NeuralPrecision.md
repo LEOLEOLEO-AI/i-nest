@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[12_三原理协同_FEP_最小作用量_STDP]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[CST计量仪]]
 [[Chiplet]]
@@ -47,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[NoC]]
 [[NoC_Chiplet_Wafer_Stack]]
+[[OpticallyWritableAtomicVaporMemory]]
 [[OptimalRepresentation]]
 [[OptimalRepresentations]]
 [[RecursiveSelfReferentialArchitecture]]
@@ -54,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_TCC_iNEST_Interconnect]]
 [[STDP_Plasticity]]
+[[SelfOrganization]]
 [[Soldier_Augmentation_BioCyber_Interface]]
 [[Synaptic_Plasticity]]
 [[TCC]]

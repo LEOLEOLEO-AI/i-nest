@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[DualTopologyProductSplit]]
 [[ERI_2_0_Strategy]]
 [[EvanescentFieldTrapping]]
+[[Fading_Memory_Property]]
 [[GroupWise_DragonflyPlus]]
 [[Heterogeneous_Integration]]
 [[Heterogeneous_P_D_Inference]]

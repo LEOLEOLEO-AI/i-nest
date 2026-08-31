@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveMatterSubstrate]]
 [[Advanced_Computing_Project]]
 [[Agent_Workflow_Automation]]
+[[Alpha_Coefficient_Phase_Transition_Amplification]]
 [[Analog_InMemory_Processing]]
 [[Asymmetric_Interaction_Graph]]
 [[AttractorBasinOrthogonality]]

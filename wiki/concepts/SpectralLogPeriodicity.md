@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[3D_Integrated_Chiplet_Stacking]]
 [[AI_Application_Scenario_Reconstruction]]
 [[AdiabaticMultimodeBend]]
+[[AdvancedPackagingInterconnect]]
 [[AndersonTransition]]
 [[CST_CoordinationMechanism]]
 [[Chiplet]]

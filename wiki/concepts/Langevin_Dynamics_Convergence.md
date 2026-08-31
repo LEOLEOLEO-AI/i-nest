@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Synaptic_Motifs]]
 [[Hyper_Dimensional_Computing]]
 [[Intelligence_Emergence]]
+[[MeanFieldSpinGlass]]
 [[Memristive_Device_Threats]]
 [[Memristive_Topology]]
 [[Microbiome_Immune_Endocrine_Interplay]]

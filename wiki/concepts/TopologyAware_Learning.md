@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[BackpropFree_Learning]]
 [[BandedNonHermitianRandomMatrices]]
+[[BoundaryContract]]
 [[BoundaryObject_Abstraction]]
 [[CST_MasterEquation]]
 [[CST计量仪]]

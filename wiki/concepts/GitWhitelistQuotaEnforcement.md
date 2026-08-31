@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Closed_Loop_Neuromodulation]]
 [[Complex_System_Theory]]
 [[DisorderedNetworkInterconnect]]
+[[DistributedEventConditionDesign]]
 [[EventTriggeredDistributedControl]]
 [[HigherOrderConnectivity]]
 [[Intelligence_Emergence]]

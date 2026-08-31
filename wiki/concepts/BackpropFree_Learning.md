@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AI-ML — 全景导航 (Map of Content)]]
 [[AI_Faculty_Forum_2026]]
 [[AI_FullSpectrum_Strategy]]
+[[ActiveMatterComputing]]
 [[Allreduce_Latency_Probe]]
 [[Analog_To_Information_Conversion]]
 [[Architectural_Conditioning]]

@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalBrainGraphEmbedding]]
 [[In_Network_Neuromorphic]]
 [[Intelligence_Emergence]]
+[[MatrixShapePhaseTransition]]
 [[Memristive_Topology]]
 [[Memristor]]
 [[Memristor_Synapse]]

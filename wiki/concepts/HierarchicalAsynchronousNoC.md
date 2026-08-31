@@ -20,6 +20,9 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[BigBrainCellularAxis]]
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
 [[DelayCouplingMatrix]]
 [[FunctionalHardwareComposition]]
 [[LLM_Driven_NoC_Control]]
@@ -28,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_Wafer_Stack]]
 [[NoC_SDI]]
 [[Photopolymerization_NoC]]
+[[SDI_Bond]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
 

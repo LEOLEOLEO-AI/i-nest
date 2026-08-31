@@ -26,10 +26,20 @@ Auto-extracted concept from raw material compilation.
 [[11_SDI节点接口规范与化合键定义_dup]]
 [[12_三原理协同_FEP_最小作用量_STDP]]
 [[3DHI_Chiplet_Integration]]
+[[AI-ML — 全景导航 (Map of Content)]]
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Complex_System_Theory]]
 [[Emergent_Intelligence]]
 [[Intelligence_Emergence]]
+[[Network_Topology_Design]]
+[[SDI_Bond]]
+[[SDI节点接口规范与化合键定义]]
+[[STDP_Plasticity]]
 [[TCC]]
 [[iNEST]]
+[[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[DARPA_ProjectManager_Model]]
 [[EulaminateOverrepresentation]]
@@ -37,6 +38,8 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
 [[Intelligent_Computing_Infrastructure]]
+[[Interconnect_Topology]]
+[[MultiplicativeGain]]
 [[Network_Topology_Design]]
 [[OnChipOpticalTweezers]]
 [[RecursiveSelfReferentialArchitecture]]
@@ -56,7 +59,6 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[analog computation]]
-[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[CircuitTopologyEncoding]]
 [[Complex_System_Theory]]
+[[ControlDrivenCriticalFluctuations]]
 [[CouplingMatrixRecovery]]
 [[Critical_Region_Extension]]
 [[DelayPropagationDynamics]]

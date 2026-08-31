@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
+[[SDI_Standard_Review]]
 [[complex system]]
 [[iNEST]]
 [[涌现]]

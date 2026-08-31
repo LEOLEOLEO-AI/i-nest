@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Anisotropic_Correlation_Length]]
 [[BackflowTransformation]]
 [[BandedNonHermitianRandomMatrices]]
+[[BoundaryContract]]
 [[CST_Equation]]
 [[CST_Exponential_Gain]]
 [[CST_MasterEquation]]

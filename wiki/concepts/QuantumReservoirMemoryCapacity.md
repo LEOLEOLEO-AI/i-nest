@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[NonEquilibriumComputing]]
+[[Non_Von_Neumann_Architecture]]
 [[OODA_Loop_Breaking]]
 [[PrecisionConfigurableSparseNvCIM]]
 [[Reservoir_Computing]]

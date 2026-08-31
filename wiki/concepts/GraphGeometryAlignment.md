@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[CompartmentalizedSpikeIntegration]]
 [[ElasticInferenceScheduling]]
+[[EmergencePhaseCitationDynamics]]
 [[GroupSynchronization]]
 [[Heterogeneous_Integration]]
 [[Loihi2_SpikeEncoding]]

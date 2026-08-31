@@ -28,8 +28,10 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[BranchingRatio]]
 [[CST_Equation]]
+[[CST_Exponential_Form]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Complex_System_Theory]]
 [[Core_Spacetime_Tensor]]
@@ -77,7 +79,6 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect_Memristor]]
 [[Wafer_Scale_Neuromorphic]]
 [[Wafer_Scale_Neuromorphic_Integration]]
-[[chiplet interconnect]]
 [[complex system]]
 [[residual connection]]
 

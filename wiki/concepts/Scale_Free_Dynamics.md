@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AdjustableDynamics]]
 [[AnisotropicGaussianPrimitives]]
 [[Avoided_Criticality]]
+[[BayesianDomainEvolution]]
 [[Criticality]]
 [[FlexibilityThreshold]]
 [[LeftRightAsymmetry]]

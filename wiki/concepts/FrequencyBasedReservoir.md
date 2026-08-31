@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Defense_Industrial_Base_Reshaping]]
 [[DendriticReservoirState]]
 [[Dynamic_Expert_Fusion]]
+[[EarlyExitInference]]
 [[EfficientDeepLearning]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]

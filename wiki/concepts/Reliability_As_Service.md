@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[NonHermitianSpectralCorrelations]]
 [[Receptron_Unit]]
+[[ReconfigurableSNNTopology]]
 [[SNN]]
 [[SelfOrganization]]
 [[Self_Organized_Criticality]]

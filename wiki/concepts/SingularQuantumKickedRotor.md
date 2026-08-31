@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Decoupling]]
 [[CollectiveStateTopology]]
 [[CommunicationAwareComputeRelocation]]
+[[FPGA_Reconfigurability]]
 [[FatalityDrivenPruning]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[InSitu_Adjoint_Wave_Control]]

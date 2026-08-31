@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Daily_Research_Compilation]]
 [[DataCenter_Chip_Logic_Compression]]
 [[EntropyMinimization]]
+[[FieldTopologyEmbedding]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]

@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossLayer_SignalRouting]]
 [[EarlyVisualCortexAliasing]]
 [[EventDrivenModularArchitecture]]
+[[EvolutionaryDiversityPreservation]]
 [[Interconnect_Routing]]
 [[LocalInteractionDrivenReconfiguration]]
 [[MixedSignalSNN_CoDesign]]

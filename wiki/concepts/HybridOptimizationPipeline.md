@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[AdsorptionBiosorptionMechanism]]
 [[Advanced_Computing_Project]]
 [[AgentReinforcementLoop]]
+[[Alpha_Coefficient_Phase_Transition_Amplification]]
 [[Chip_Floorplanning]]
 [[Complex_System_Theory]]
 [[ConvexNonConvexTradeoff]]

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[3D_Integrated_Chiplet_Stacking]]
 [[AdiabaticMultimodeBend]]
 [[AdvancedPackagingInterconnect]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_Route]]
 [[Advanced_Packaging_for_Space]]
 [[AnalogDomainCompression]]
@@ -34,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_NoC_Interconnect]]
 [[Chiplet_Stacking]]
@@ -41,10 +43,12 @@ Auto-extracted concept from raw material compilation.
 [[CoPoS]]
 [[Complex_System_Theory]]
 [[ComputeRelocationOverhead]]
+[[DirectConnect_Topology]]
 [[EMIB_Bridge]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[InterChipletPHYModeling]]
+[[Interconnect_Topology]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
@@ -53,13 +57,13 @@ Auto-extracted concept from raw material compilation.
 [[OnDie_Fusion]]
 [[Photonic_Chiplet_Interconnect]]
 [[SDI_Bond]]
+[[SDI_Chiplet]]
 [[SDI_Chiplet_Interconnect]]
 [[SDI_iNEST_Wafer]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Packaging]]
 [[advanced packaging]]
-[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 [[涌现]]
@@ -70,3 +74,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- Chiplet_Packaging (merged 2026-09-01)

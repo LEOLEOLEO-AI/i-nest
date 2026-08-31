@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[AttractorBasinOrthogonality]]
 [[BCM滑动阈值]]
 [[CST_Synergy_Coordination]]
+[[CST_V42_SelfConsistency]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

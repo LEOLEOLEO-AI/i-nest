@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Performance_Prediction_Model]]
 [[Reconfigurable_Neuromorphic_Architecture]]
 [[RecursiveSelfReferentialArchitecture]]
+[[Robust_Decision_Making]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]

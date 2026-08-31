@@ -56,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[忆阻器]]
 [[新型计算]]
+[[神经形态计算]]
 [[类脑芯片]]
 
 ## Sources

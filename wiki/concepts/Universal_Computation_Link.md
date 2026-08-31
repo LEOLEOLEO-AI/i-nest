@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AgenticServiceOrchestration]]
 [[Ant_Swarm_Functional_Control]]
 [[Cognitive_Relapse_Decoupling]]
+[[ControlDrivenCriticalFluctuations]]
 [[Critical_Region_Extension]]
 [[CriticalityInNetworkComputing]]
 [[CriticalityOffCriticalityTransition]]

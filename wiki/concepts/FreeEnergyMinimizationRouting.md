@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveFunctionalTopology]]
 [[AdjointWaveControl]]
 [[AstrocyteInspiredModulation]]
+[[AtomicGeometryEncoding]]
 [[BrownianCastleInterface]]
 [[Communication_Trace_Diagnostics]]
 [[CulturalDisseminationDynamics]]

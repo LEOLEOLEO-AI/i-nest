@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikePacketCompression]]
 [[Spiking_Network_Simulation_Placement]]
 [[Spiking_Neural_Network]]
+[[Stigmergic_RL]]
 [[SuperparamagneticSwitchingRate]]
 [[Swarm_Coordination]]
 [[SynapticReinforcementConsolidation]]

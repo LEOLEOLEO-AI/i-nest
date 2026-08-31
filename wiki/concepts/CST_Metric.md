@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[GenerativeTopologyModels]]
 [[Hyper_Dimensional_Computing]]
 [[Intelligence_Emergence]]
+[[Kappa_Weibull_Distribution]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[MultiplicativeGain]]
 [[Network_Topology_Design]]

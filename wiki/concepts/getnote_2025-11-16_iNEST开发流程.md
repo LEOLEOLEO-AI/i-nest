@@ -40,6 +40,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[DivergentHigherAreaRanking]]
 [[ExplosiveTransitionThreshold]]
 [[GradientAsymmetry]]
+[[LowRankParameterPerturbation]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[PPT]]

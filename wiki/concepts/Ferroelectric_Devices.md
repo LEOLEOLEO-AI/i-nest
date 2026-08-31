@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
 [[EntropyProductionRate]]
+[[EnzymeCatalyticDegradation]]
 [[Epithelial_Barrier_Integrity]]
 [[Expert_Review_Arbitration]]
 [[FisherOrthogonalMemory]]

@@ -42,6 +42,8 @@ Auto-extracted concept from raw material compilation.
 [[Evolutionary_Reservoir_Adaptation]]
 [[HybridReservoirComputing]]
 [[MechanicalReservoirComputing]]
+[[NISQHardwareAwareEncoding]]
+[[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
 [[Reservoir_State_Projection]]

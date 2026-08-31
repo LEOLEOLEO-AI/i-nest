@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[AthermalRandomFieldBlumeCapel]]
 [[BCM滑动阈值]]
+[[Bipartite_Interconnect_Fabric]]
 [[Bipartite_Topology]]
 [[CST_Theory]]
 [[CST_Triad_Integration]]

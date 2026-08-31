@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[AutoAssociativeMemoryRobustness]]
 [[BCM滑动阈值]]
 [[Battlefield_AI_Deployment]]
+[[Battlefield_Medicine_Neuromorphic_Integration]]
 [[CST计量仪]]
 [[CirculateFiringNeuron]]
 [[Complex_System_Theory]]

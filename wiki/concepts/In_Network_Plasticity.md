@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[MoE_Routing]]
 [[MultiFPGAScaling]]
 [[QuantumProbabilityFlowHebbian]]
+[[RobustnessToNoiseInSNN]]
 [[SNN]]
 [[Self_Organized_Criticality]]
 [[SpikeRoutingFabric]]

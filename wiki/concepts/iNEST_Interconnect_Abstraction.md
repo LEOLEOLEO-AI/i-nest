@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Reconfigurable_Topology]]
 [[NoC]]
 [[OnChipOpticalTweezers]]
+[[OpticallyWritableAtomicVaporMemory]]
 [[SDI_Bond]]
 [[SDI_NPU_NoC_Integration]]
 [[SDI_TCC_iNEST_Bridge]]

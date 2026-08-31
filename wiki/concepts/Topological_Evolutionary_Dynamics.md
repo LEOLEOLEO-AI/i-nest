@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Assisted_Energy_Optimization]]
 [[AdaptiveDensityControl]]
 [[AdaptiveEntanglementManagement]]
+[[AdaptiveModelPartitioning]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Asymptotic_Exact_Solution]]
 [[Chiplet]]

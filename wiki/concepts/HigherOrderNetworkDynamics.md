@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[CompactSequenceArchitectureDiscovery]]
 [[ContinuousGameOfLife]]
 [[CriticalityInNetworkComputing]]
+[[CriticalityOffCriticalityTransition]]
 [[Criticality]]
 [[ExactlyFlatTopologicalBands]]
 [[HigherOrderNetwork]]

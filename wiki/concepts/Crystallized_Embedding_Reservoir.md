@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[InSensorMemoryComputing]]
 [[In_Package_Neuromorphic_Integration]]
 [[Intelligence_Emergence]]
+[[Interconnect_Routing]]
 [[MeasurementInducedPhaseTransition]]
 [[Memristive_Topology]]
 [[Memristor]]
@@ -61,6 +62,7 @@ Auto-extracted concept from raw material compilation.
 [[智能涌现]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
+[[神经形态脉冲大语言模型（NSLLM）]]
 [[类脑芯片]]
 
 ## Sources

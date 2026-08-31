@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[OpenLearningEcosystem]]
+[[OpportunisticRouting]]
 [[P_Paradigm]]
 [[Package_Level_Interconnect]]
 [[PacketRoutingForFPGAs]]

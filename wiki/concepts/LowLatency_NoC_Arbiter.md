@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CommunicationAwareComputeRelocation]]
 [[Computation_Access_Routing]]
 [[EntanglementAwareRouting]]
+[[FPGA_Reconfigurability]]
 [[FatalityDrivenRewiring]]
 [[FlagOS_2_0]]
 [[GPU_Hegemony_Disruption]]

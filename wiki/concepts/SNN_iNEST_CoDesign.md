@@ -26,8 +26,11 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Prior_Resolution]]
 [[DataDrivenCellularAxis]]
 [[Deep_SNN_Trainability]]
+[[Hardware_Accelerated_SNN]]
 [[Neuromorphic_Computing]]
 [[SNN]]
+[[SNN_iNEST]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

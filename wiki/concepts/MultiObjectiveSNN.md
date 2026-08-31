@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN_SNN_ConversionError]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BioInspiredSequenceLearning]]
+[[Contested_Prior_Resolution]]
 [[GroupSynchronization]]
 [[Network_Topology_Design]]
 [[PhaseLockedTopologyMapping]]

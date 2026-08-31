@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikingNeuralNetwork]]
 [[Spiking_Neural_Network]]
 [[TCC]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[WirelessSplitComputing]]
 [[iNEST]]
 

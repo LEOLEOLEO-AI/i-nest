@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[FPGA_Neuromorphic_Architectures]]
+[[Heterogeneous_Synaptic_Motifs]]
 [[InNetworkNeuromorphicSimulation]]
 [[Intelligence_Emergence]]
 [[Nanoscale_Memristive_Threats]]

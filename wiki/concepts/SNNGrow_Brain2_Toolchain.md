@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Adaptive_Deep_Brain_Stimulation]]
 [[Amorphous_Amorphous_Transition]]
 [[AnisotropicGaussianPrimitives]]
 [[Anisotropic_Correlation_Length]]
@@ -27,7 +28,10 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Neuromorphic_Acceleration]]
 [[Intelligence_Emergence]]
 [[NeuromorphicTransformerPipeline]]
+[[Neuromorphic_Acceleration]]
+[[Neuromorphic_Computing]]
 [[SNN]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

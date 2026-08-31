@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Reconfigurability]]
 [[GenerativeTopologyModels]]
 [[HybridCouplingThermosensitiveNetwork]]
+[[InSitu_Adjoint_Wave_Control]]
 [[Inference_Workload_Profiling]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

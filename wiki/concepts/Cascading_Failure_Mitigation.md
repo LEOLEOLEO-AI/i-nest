@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]
 [[Memristive_Topology]]
+[[Memristor_Network]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC]]

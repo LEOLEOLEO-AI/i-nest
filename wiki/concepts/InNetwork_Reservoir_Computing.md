@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Connectome_Reservoir]]
 [[Connectome_Verification_Protocol]]
 [[DevelopmentalConnectomeTemporalGraph]]
+[[DevelopmentalStageEmbedding]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]
