@@ -4,7 +4,7 @@ cssclass: dashboard
 
 # 🔬 TCC × iNEST 自进化研发中枢
 
-> **知识库状态：活跃** | 管线：❓ unknown | Git: 5725 uncommitted | 更新：2026-09-01 04:09
+> **知识库状态：活跃** | 管线：❓ unknown | Git: 16 uncommitted | 更新：2026-09-01 04:10
 
 ---
 
@@ -56,7 +56,7 @@ cssclass: dashboard
 >[!tip] 知识库维护
 >- [[wiki/task_recommendations|查看自动推荐任务]]
 >- [[60_MOC/07_Pipeline_Status|管线状态]]：`❓ unknown`
->- Git：5725 uncommitted changes
+>- Git：16 uncommitted changes
 
 **入口**：[[60_MOC/03_Daily_Action|每日行动]] · [[60_MOC/04_Daily_Focus|今日焦点]] · [研发看板（浏览器打开）](http://127.0.0.1:8899/vault/70_Dashboard/index.html)
 
@@ -166,7 +166,6 @@ Processing → TCC/iNEST → Output
 
 | 日期 | 断链 | 孤儿 | 缺FM |
 |---|---|---|---|
-| 2026-08-28 | 3972 | 2456 | 945 |
 | 2026-08-29 | 3959 | 2462 | 952 |
 | 2026-08-29 | 3942 | 2462 | 952 |
 | 2026-08-29 | 3951 | 2468 | 952 |
@@ -176,6 +175,7 @@ Processing → TCC/iNEST → Output
 | 2026-08-31 | 3585 | 3526 | 970 |
 | 2026-08-31 | 3595 | 3588 | 990 |
 | 2026-08-31 | 2050 | 2558 | 292 |
+| 2026-09-01 | 2029 | 2605 | 327 |
 
 > 完整日志 → [[99_Meta/self_evolve_log.json|自进化日志]] · 健康报告 → [[wiki/health|知识健康报告]]
 
@@ -212,4 +212,4 @@ Processing → TCC/iNEST → Output
 
 ---
 
-*主页由 homepage_generator.py 自动刷新 | 2026-09-01 04:09*
+*主页由 homepage_generator.py 自动刷新 | 2026-09-01 04:10*

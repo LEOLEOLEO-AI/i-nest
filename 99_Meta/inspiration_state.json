@@ -212,32 +212,30 @@
       "error": true
     },
     "30_TCC\\31_Theory\\DARPA_3DHI_strategy_analysis.md": {
-      "date": "2026-09-01T04:04:36.794762",
+      "date": "2026-09-01T04:04:45.685169",
       "card": "20260901_DARPA_3DHI_strategy_analysis.md",
       "method": "llm"
     },
     "30_TCC\\32_Technology\\Chiplet_Heterogeneous_Integration_TCC_Insights.md": {
-      "date": "2026-09-01T04:04:46.241317",
-      "card": "20260901_Chiplet_Heterogeneous_Integration_TCC_Insights.md",
-      "method": "llm"
+      "date": "2026-09-01T04:05:02.938076",
+      "error": true
     },
     "30_TCC\\31_Theory\\AI_Power_Semiconductor_Evolution_2025-2030.md": {
-      "date": "2026-09-01T04:04:58.924845",
+      "date": "2026-09-01T04:07:04.987462",
       "card": "20260901_AI_Power_Semiconductor_Evolution_2025-2030.md",
       "method": "llm"
     },
     "30_TCC\\32_Technology\\3DHI_technology_opportunities_challenges_DARPA_roadmap.md": {
-      "date": "2026-09-01T04:05:17.621127",
-      "card": "20260901_3DHI_technology_opportunities_challenges_DARPA_roa.md",
-      "method": "llm"
+      "date": "2026-09-01T04:09:30.577589",
+      "error": true
     },
     "30_TCC\\32_Technology\\3D-TokSIM_LLM_Inference_Acceleration_Architecture.md": {
-      "date": "2026-09-01T04:09:37.679205",
+      "date": "2026-09-01T04:09:39.740649",
       "card": "20260901_3D-TokSIM_LLM_Inference_Acceleration_Architecture.md",
       "method": "llm"
     },
     "30_TCC\\31_Theory\\topological_dynamics_paradigm_shift_2025.md": {
-      "date": "2026-09-01T04:09:47.071392",
+      "date": "2026-09-01T04:10:12.706302",
       "card": "20260901_topological_dynamics_paradigm_shift_2025.md",
       "method": "llm"
     }
