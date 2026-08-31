@@ -43,7 +43,7 @@ def _post(url, payload, headers, timeout=90):
         return None
 
 
-def call(prompt, max_tokens=1500, timeout=90, model=None, retries=2):
+def call(prompt, max_tokens=1500, timeout=90, model=None, retries=3):
     """调用 LLM。返回文本或 None。带重试(限速/网络波动)。"""
     chosen = model or PRIMARY_MODEL
     key = _load_key()
@@ -75,13 +75,14 @@ def call(prompt, max_tokens=1500, timeout=90, model=None, retries=2):
                 return r
         return None
 
-    import time
+    import time, random
     for i in range(retries + 1):
         r = attempt()
         if r:
             return r
         if i < retries:
-            time.sleep(3 * (i + 1))  # 3s, 6s 退避
+            # 指数退避 + 抖动：~2s, 4s, 8s（DeepSeek 间歇性连接拒绝/超时时更稳健）
+            time.sleep((2 ** i) + random.uniform(0, 1))
     return None
 
 
