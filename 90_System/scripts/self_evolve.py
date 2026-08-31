@@ -18,6 +18,7 @@ self_evolve.py — 知识库自进化 / 自生长 编排器 (Karpathy LLM-Wiki �
 99_Meta/self_evolve_log.json。
 """
 import json
+import os
 import subprocess
 import sys
 import re
@@ -28,6 +29,8 @@ from collections import defaultdict
 VAULT = Path(r"D:/Obsidian/vault")
 SCRIPTS = VAULT / "90_System" / "scripts"
 LOG_FILE = VAULT / "99_Meta" / "self_evolve_log.json"
+LOCK_FILE = VAULT / "state" / "self_evolve.lock"
+LOCK_MAX_AGE_H = 6      # 超过此时长视为僵死锁, 可接管
 PY = sys.executable
 NOW = datetime.datetime.now()
 TODAY = NOW.strftime("%Y-%m-%d")
@@ -39,6 +42,59 @@ def log(msg):
     line = f"[{NOW:%H:%M:%S}] {msg}"
     log_entries.append((NOW.isoformat(), msg))
     print("[self_evolve]", msg, flush=True)
+
+
+def _pid_alive(pid):
+    """Windows 下判断 PID 是否存活。
+
+    注意: 绝不能用 os.kill(pid, 0) —— 在 Windows 上 CPython 会走
+    TerminateProcess, 等于把目标进程杀掉。必须用 tasklist 查询。
+    """
+    try:
+        r = subprocess.run(["tasklist", "/FI", f"PID eq {pid}", "/NH"],
+                           capture_output=True, text=True, encoding="utf-8",
+                           errors="ignore", timeout=20)
+        return str(pid) in (r.stdout or "")
+    except Exception:
+        return False      # 查不到就当已死, 允许接管, 避免永久卡死
+
+
+def acquire_lock():
+    """单例保护: 已有活跃实例则返回 False, 调用方应直接退出。
+
+    背景(2026-09-01): Windows 计划任务 iNEST_Self_Evolve 与 WorkBuddy
+    自动化都在每日 03:00 触发本脚本, 两实例并发争抢同一 LLM 与
+    state/wiki_compiler_state.json, 导致 wiki_compiler 3600s 超时且
+    编译进度无法落盘。
+    """
+    LOCK_FILE.parent.mkdir(parents=True, exist_ok=True)
+    if LOCK_FILE.exists():
+        try:
+            info = json.loads(LOCK_FILE.read_text(encoding="utf-8"))
+            pid = int(info.get("pid", -1))
+            started = datetime.datetime.fromisoformat(info.get("started"))
+            age_h = (NOW - started).total_seconds() / 3600.0
+            if pid != os.getpid() and _pid_alive(pid) and age_h < LOCK_MAX_AGE_H:
+                log(f"⚠️ 已有实例在运行 (PID={pid}, 已运行 {age_h:.2f}h), "
+                    f"本次跳过以避免并发冲突。")
+                return False
+            log(f"发现僵死锁 (PID={pid}, {age_h:.2f}h), 接管。")
+        except Exception as e:
+            log(f"锁文件损坏({type(e).__name__}), 接管。")
+    LOCK_FILE.write_text(json.dumps(
+        {"pid": os.getpid(), "started": NOW.isoformat()},
+        ensure_ascii=False), encoding="utf-8")
+    return True
+
+
+def release_lock():
+    try:
+        if LOCK_FILE.exists():
+            info = json.loads(LOCK_FILE.read_text(encoding="utf-8"))
+            if int(info.get("pid", -1)) == os.getpid():
+                LOCK_FILE.unlink()
+    except Exception:
+        pass
 
 
 def run_script(rel, *args, timeout=600):
@@ -226,6 +282,13 @@ DENY_CONCEPT_RE = re.compile(
     r'^(\d{1,3}|[A-Z]{2,8}|[a-z_]+|getnote|gsk|_dup\d*)$'
     r'|三原则|全景导航|Map of Content|_dup\d*$'
     r'|w3cschool'
+    # --- 以下为文件名/文章名特征, 非概念 (2026-09-01 补) ---
+    r'|\(\s*\d+\s*\)$'      # 结尾 "(1)" "(2)" — 重复文件的副本后缀
+    r'|_V\d+'                # 稿件版本号 _V25
+    r'|_SUBMITTED|_FINAL|_DRAFT|_REVISED'   # 稿件状态后缀
+    r'|^\d+\s'               # 以 "16 " 开头 — 章节/条目编号
+    r'|^\d{4}-\d{2}-\d{2}'   # 以日期开头 — 日记/归档文件名
+    r'|^\d{4}年\d{1,2}月'     # 中文日期开头 — 日记/归档文件名
 )
 
 
@@ -249,7 +312,8 @@ def step_grow_missing_concepts(broken_freq, max_new=10, min_refs=3):
             continue
         if "." in tgt:                        # 附件/带扩展名, 跳过
             continue
-        if not (2 <= len(tgt) <= 50):
+        # 概念名应短小; >25 字符基本都是文章标题/文件名而非概念 (2026-09-01 由 50 收紧)
+        if not (2 <= len(tgt) <= 25):
             continue
         if tgt.isdigit():          # 纯数字链接(footnote/列表) 非概念, 跳过
             continue
@@ -384,6 +448,16 @@ def step_git():
 
 def main():
     log("=== 自进化编排开始 ===")
+    if not acquire_lock():
+        log("=== 自进化编排跳过 (并发保护) ===")
+        return
+    try:
+        _run_all()
+    finally:
+        release_lock()
+
+
+def _run_all():
     results = {}
     results["compile"] = step_compile_if_new()
     results["grow"] = step_grow()
