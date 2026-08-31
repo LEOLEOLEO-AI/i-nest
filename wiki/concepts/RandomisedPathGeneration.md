@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Bosonic_SPT_Phases]]
 [[BranchingRatio]]
 [[Categorical_Reservoir_Model]]
+[[CoexistencePhaseDiagram]]
 [[ConnectivityDerivedReservoir]]
 [[CoupledOscillatorReservoir]]
 [[CriticalStateReservoir]]
@@ -40,7 +41,6 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[iNEST]]
 [[neuromorphic substrate]]
-[[reservoir computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

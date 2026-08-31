@@ -47,9 +47,9 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[SensationModulatingNetwork]]
 [[Spiking_Neural_Network]]
+[[StressDrivenNetworkMorphogenesis]]
 [[Technology_Readiness_Forecast_2045]]
 [[iNEST]]
-[[neuromorphic computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

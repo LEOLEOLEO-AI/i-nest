@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[CoaxialLike_TGV]]
 [[CriticalityAwareTopology]]
 [[Criticality]]
+[[Generalized_Synchronization_Bond]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Self_Organized_Criticality]]

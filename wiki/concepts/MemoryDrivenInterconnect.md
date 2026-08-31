@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[FixedOverheadDominance]]
 [[In_Package_Neuromorphic_Integration]]
 [[Interconnect_Routing]]
+[[Memristive_Interconnect]]
 [[NestedRepresentation]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]

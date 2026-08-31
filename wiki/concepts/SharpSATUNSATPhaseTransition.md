@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityInNetworkComputing]]
 [[CriticalityOffCriticalityTransition]]
 [[Criticality]]
+[[Driven_Criticality]]
 [[ExactlyFlatTopologicalBands]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[InNetworkComputing]]
@@ -37,7 +38,6 @@ Auto-extracted concept from raw material compilation.
 [[SelfOrganization]]
 [[Self_Organized_Criticality]]
 [[TCC]]
-[[criticality]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

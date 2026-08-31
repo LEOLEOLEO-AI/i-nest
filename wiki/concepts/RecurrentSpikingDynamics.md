@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Packaging]]
 [[NonEquilibriumComputing]]
 [[SelectorFreeHopfieldNetwork]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[StochasticBinaryDynamics]]
 [[SynapticWeightPlasticity]]
@@ -52,7 +53,6 @@ Auto-extracted concept from raw material compilation.
 [[VaCoAl]]
 [[complex system]]
 [[iNEST]]
-[[spiking neural network]]
 [[忆阻器]]
 [[智能涌现]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
@@ -60,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[神经形态计算]]
 [[神经形态计算突破：脉冲神经网络实现机器人超低功耗定位新范式]]
 [[神经网络]]
+[[类脑芯片]]
 [[脉冲神经网络]]
 
 ## Sources

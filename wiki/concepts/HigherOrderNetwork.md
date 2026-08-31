@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[CircuitTopologySearch]]
 [[CrossLingualIdiomGraph]]
 [[Heterogeneous_Integration]]
+[[In_Package_Neuromorphic_Integration]]
 [[Network_Topology_Design]]
 [[TCC]]
 

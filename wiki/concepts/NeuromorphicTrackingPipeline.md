@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[ScalableNeuromorphicTopology]]
 [[Spike_Encoding_of_fMRI]]
 [[SpikingTopologyAnalysis]]
+[[SpikingTopologyMapping]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[TCC_SpikingIntegration]]

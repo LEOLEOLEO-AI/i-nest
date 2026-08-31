@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
+[[SNN]]
 [[ST_SNN]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
@@ -52,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
 [[神经网络]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

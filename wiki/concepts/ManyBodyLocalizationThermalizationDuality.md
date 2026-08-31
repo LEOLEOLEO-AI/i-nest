@@ -45,7 +45,9 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[TemporalSwitchMechanism]]
+[[TimeSeriesFoundationModel]]
 [[TimeSeriesFoundationModels]]
+[[Unmanned_Intelligent_Combat_Forces]]
 [[iNEST]]
 [[神经网络]]
 

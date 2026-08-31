@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[ElectronicBurstingNeuron]]
 [[Emergent_Intelligence_Threshold]]
 [[EnergyEfficientNeuromorphic]]
+[[EventDrivenModularArchitecture]]
 [[Free_Energy_Principle_Network]]
 [[GradientBasedSpikeLearning]]
 [[Gradient_Free_SNN_Learning]]

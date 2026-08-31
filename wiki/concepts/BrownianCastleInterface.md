@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveDendriteSNN]]
 [[AdaptiveFrequencyResonateAndFire]]
 [[AdaptiveFunctionalTopology]]
+[[AstrocyteInspiredModulation]]
 [[AtomicGeometryEncoding]]
 [[BurstTemporalPlasticity]]
 [[EventDrivenTemplateUpdate]]
@@ -45,7 +46,6 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
-[[neuromorphic computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

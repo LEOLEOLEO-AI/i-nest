@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Persistent_Homology_Neuron]]
 [[QuantumCoherenceSpikeCoupling]]
+[[Reconfigurable_Neuromorphic_Acceleration]]
 [[Representation_Learning_Generalization]]
 [[SNN]]
 [[Self_Organized_Criticality]]

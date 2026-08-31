@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AnisotropicGaussianPrimitives]]
 [[AsynchronousEventDrivenComputation]]
 [[Bidirectional_Temporal_Enhancement]]
+[[BrainInspired_Chip]]
 [[EventCameraPoseInput]]
 [[ImpactFallDetection]]
 [[Neuromorphic_Computing]]
@@ -39,10 +40,10 @@ Auto-extracted concept from raw material compilation.
 [[SpikeTemporalCoding]]
 [[SpikeTimingGradientPropagation]]
 [[SpikeTimingGradient]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
-[[spiking neural network]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

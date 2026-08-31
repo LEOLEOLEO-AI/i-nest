@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Adjoint_Gradient_Propagation]]
 [[CrossLayer_SignalRouting]]
 [[EarlyVisualCortexAliasing]]
+[[EventDrivenModularArchitecture]]
 [[FullyLocalOnlineSNNTraining]]
 [[InNetworkEntropyProbe]]
 [[Interconnect_Routing]]
@@ -38,9 +39,9 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[SNN]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
-[[spiking neural network]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

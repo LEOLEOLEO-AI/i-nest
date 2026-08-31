@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenInference]]
+[[EventDrivenPlasticity]]
 [[Event_Driven_Architecture]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[GeometricNeuromorphicFusion]]
@@ -43,14 +44,13 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[Self_Organized_Criticality]]
 [[Spike_Encoding_of_fMRI]]
+[[Spiking neural network]]
 [[SpikingAttentionComplexityReduction]]
 [[Spiking_Neural_Network]]
 [[StreamDataflowArchitecture]]
 [[SynapticRewiringDynamics]]
 [[iNEST]]
-[[neuromorphic computing]]
 [[neuromorphic spiking]]
-[[spiking neural network]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

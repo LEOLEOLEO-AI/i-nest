@@ -46,13 +46,13 @@ Auto-extracted concept from raw material compilation.
 [[Memory_Wall]]
 [[Memristive_ANN_Hardware]]
 [[Memristive_STDP]]
+[[Memristor_Hardware_ANN]]
 [[MetricComputationAuthenticity]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[Network_topology_and_interconnection_patterns]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
-[[Neuromorphic_computing]]
 [[Next_Gen_AI_Application_Scenarios]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[NonAbelian_Gauge_Topology]]
@@ -73,7 +73,6 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[iNEST]]
 [[residual connection]]
-[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

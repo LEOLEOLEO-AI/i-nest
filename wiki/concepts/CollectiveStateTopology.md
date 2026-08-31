@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityInNetworkComputing]]
 [[CriticalityOffCriticalityTransition]]
 [[Criticality]]
+[[Driven_Criticality]]
 [[Dynamic_Expert_Fusion]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[InNetworkComputing]]

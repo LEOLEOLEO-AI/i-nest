@@ -33,12 +33,11 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
 [[STDP_Plasticity]]
-[[Spike_timing_dependent_plasticity]]
+[[Spike_Timing_Dependent_Plasticity]]
 [[Spike_timing_dependent_plasticity_learning_rule]]
 [[Spiking_Neural_Network]]
+[[Spiking_neural_network_dynamics]]
 [[Synaptic_Plasticity]]
-[[neuromorphic computing]]
-[[reservoir computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

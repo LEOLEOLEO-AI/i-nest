@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Agent_Workflow_Automation]]
 [[Analog_InMemory_Processing]]
 [[Asymptotic_Exact_Solution]]
+[[Barrier_Hierarchy]]
 [[CST计量仪]]
 [[CompactBosonDuality]]
 [[Complex_System_Theory]]
@@ -44,8 +45,8 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
 [[iNEST]]
-[[neuromorphic computing]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

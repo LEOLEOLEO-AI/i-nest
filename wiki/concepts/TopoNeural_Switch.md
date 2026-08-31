@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossLayer_SignalRouting]]
 [[DirtyWeylSemimetal]]
 [[DistributedTrainingCommunicationPattern]]
+[[Driven_Criticality]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence_Threshold]]
 [[FibonacciMonitoredCriticality]]

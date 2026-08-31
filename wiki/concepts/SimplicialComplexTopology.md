@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[AnteHoc_Explainability]]
 [[AsymmetricStochasticInteractions]]
 [[AttentionMap_DifferenceResidual]]
+[[BCM滑动阈值]]
 [[CollectiveDynamics]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
@@ -50,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

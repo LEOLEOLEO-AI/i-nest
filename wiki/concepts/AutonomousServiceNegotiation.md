@@ -38,12 +38,14 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[InterconnectConstrainedEmergence]]
 [[L2_L3_Reconfigurability]]
+[[MitigationLayers]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[SimulationReproducibilityAudit]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[MemoryDrivenInterconnect]]
 [[Memristive_Interconnect]]
+[[Memristor_Synapse]]
 [[MoE_Routing]]
 [[NestedRepresentation]]
 [[Network_Topology_Design]]
@@ -43,10 +44,13 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[ScalableNeuromorphicTopology]]
+[[SparseTemporalEncoding]]
 [[SpikingMoE_SDPrompt]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[TCC_Neuromorphic_Integration]]
+[[Wafer_Scale_Integration]]
+[[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
 
 ## Sources

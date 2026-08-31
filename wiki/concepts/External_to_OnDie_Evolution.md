@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[GeneralIntelligenceSubstrate]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[InterChipletPHYModeling]]
 [[MetricComputationAuthenticity]]
 [[MultiplicativeGain]]
 [[Network_Topology_Design]]
@@ -55,12 +56,13 @@ Auto-extracted concept from raw material compilation.
 [[Structural_Mismatch]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[TemporalComplexity]]
 [[TopologyProgramming]]
 [[analog computation]]
 [[chiplet interconnect]]
-[[temporalComplexity]]
 [[vLLM_plugin_FLSDI]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

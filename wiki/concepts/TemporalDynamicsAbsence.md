@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AnomalousSpinTransport]]
 [[BiasEvaluationMetrics]]
 [[BigBrainCellularAxis]]
+[[Bio_plausible_Neuromorphic_Disturbance_Observer]]
 [[Free_Energy_Principle_Network]]
 [[Master_SDDE]]
 [[Memristive_STDP]]
@@ -43,10 +44,9 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
+[[TemporalComplexity]]
 [[TemporalDynamicsModeling]]
 [[iNEST]]
-[[neuromorphic computing]]
-[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

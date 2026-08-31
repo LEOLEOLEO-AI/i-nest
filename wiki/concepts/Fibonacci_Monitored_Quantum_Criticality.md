@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspiredInterception]]
 [[BranchingRatio]]
 [[BulletTrainScheduling]]
+[[Continuous_Control_Spiking_Stability]]
 [[Criticality]]
 [[Neuromorphic_Computing]]
 [[Quantum_Criticality]]

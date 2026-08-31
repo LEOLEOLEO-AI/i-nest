@@ -36,8 +36,10 @@ Auto-extracted concept from raw material compilation.
 [[FerroelectricTunnelingJunction]]
 [[Ferroelectric_Devices]]
 [[FisherOrthogonalMemory]]
+[[FunctionalInterfaceBlock]]
 [[FunctionalInterfaceBlocks]]
 [[Heterogeneous_Integration]]
+[[IntegrationProspectsForVLSI]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[MeanFieldSpinGlass]]
@@ -55,7 +57,6 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[emerging CMOS memristor]]
 [[iNEST]]
-[[reservoir computing]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[神经网络]]
 

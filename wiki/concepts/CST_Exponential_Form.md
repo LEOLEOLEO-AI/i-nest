@@ -46,6 +46,8 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_ANN_Hardware]]
 [[Memristive_STDP]]
 [[Memristor_Hardware_ANN]]
+[[Memristor_Network]]
+[[Memristor_Synapse]]
 [[MetricComputationAuthenticity]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
@@ -63,6 +65,7 @@ Auto-extracted concept from raw material compilation.
 [[Spacetime_Coupling_Coefficient]]
 [[SpatiotemporalComplexityIndex]]
 [[SuperparamagneticSwitchingRate]]
+[[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]
 [[TCC]]
 [[TemperatureSensitivityControl]]
@@ -70,8 +73,6 @@ Auto-extracted concept from raw material compilation.
 [[chiplet interconnect]]
 [[complex system]]
 [[residual connection]]
-[[spacetime coupling coefficient]]
-[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

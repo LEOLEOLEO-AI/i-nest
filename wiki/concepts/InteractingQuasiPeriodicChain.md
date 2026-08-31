@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SDI_STDP_Rule]]
+[[SDI_iNEST_Interconnect]]
 [[SNN]]
 [[STDP_Plasticity]]
 [[SpikeEncoding]]
@@ -46,7 +47,6 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[Syncytial_Mesh]]
 [[neuromorphic substrate]]
-[[synaptic plasticity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

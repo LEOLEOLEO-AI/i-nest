@@ -26,11 +26,14 @@ Auto-extracted concept from raw material compilation.
 [[CST_Equation]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[ChipletRoutingFabric]]
+[[Chiplet_Heterogeneous_Integration]]
 [[ChiralTopologicalMatter]]
 [[ComplexValuedSNN]]
 [[Complex_System_Theory]]
+[[DTGA]]
 [[DelayParameterSpaceDecomposition]]
 [[Environmental_Capability_Context]]
+[[Fractal_Scaling]]
 [[GraphBasedSemanticRouting]]
 [[ImaginaryGaugePhaseImprint]]
 [[Independent_EdgeAI_Player_Endgame]]
@@ -47,8 +50,8 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]
-[[fractal_Scaling]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

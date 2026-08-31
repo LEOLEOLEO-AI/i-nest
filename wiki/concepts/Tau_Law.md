@@ -50,7 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
 [[TemporalFeatureProjection]]
-[[logic folding]]
+[[ThroughSiliconVia_TSV_ThermalPath]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

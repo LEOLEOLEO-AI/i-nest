@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AmorphousSolidPlasticity]]
 [[AstrocyteInspiredRepair]]
 [[Contested_Prior_Resolution]]
+[[Contested_Priors_Mechanism]]
 [[Intelligence_Emergence]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
@@ -39,7 +40,6 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[neuromorphic sensing]]
-[[reservoir computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

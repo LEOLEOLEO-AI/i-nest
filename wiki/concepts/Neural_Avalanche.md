@@ -47,12 +47,13 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDN_Neuromorphic_Interface]]
+[[SNN]]
 [[SNN_NeuroprostheticPipeline]]
+[[SNN_Topology_Mapping]]
 [[Self_Organized_Criticality]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
-[[neural avalanche]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

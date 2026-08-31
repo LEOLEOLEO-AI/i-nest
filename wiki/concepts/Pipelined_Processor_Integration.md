@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Reservoir_Computing]]
 [[Memristor_Synapse]]
 [[MetaFAIR_ArchitectureDiscovery]]
+[[Network_Spatiotemporal_Synergy]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
@@ -49,7 +50,6 @@ Auto-extracted concept from raw material compilation.
 [[Weight_Reinitialization]]
 [[branch prediction]]
 [[pipelined processor]]
-[[reservoir computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

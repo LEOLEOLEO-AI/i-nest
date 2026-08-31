@@ -34,8 +34,8 @@ Auto-extracted concept from raw material compilation.
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[Epithelial_Barrier_Integrity]]
 [[Heterogeneous_Integration]]
-[[INEST]]
 [[Intelligence_Emergence]]
 [[NCL神经计算定律详解]]
 [[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]
@@ -51,8 +51,11 @@ Auto-extracted concept from raw material compilation.
 [[TCC与INEST：2026全局论文与专利战略规划清单]]
 [[complex system]]
 [[iNEST]]
+[[复杂网络]]
 [[战略报告提纲：物理复杂网络智能涌现——颠覆现有算力范式的新路线]]
+[[智能涌现]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

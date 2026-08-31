@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Network_Neuromorphic]]
 [[Neuromorphic_Computing]]
 [[On_Chip_STDP_Learning]]
+[[SOC]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]
 [[SpikeCodedFeatureAssociation]]
@@ -44,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Timing_Dependent_Coordination]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
+[[SynchronousResetting]]
 [[Temporal_Computing_Paradigm]]
 [[神经网络]]
 

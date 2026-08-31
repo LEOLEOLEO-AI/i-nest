@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Recurrent_Network_Homeostasis]]
 [[SNN]]
 [[ST_SNN]]
+[[SparseHubsCoupling]]
 [[Spiking_Neural_Network]]
 [[complex system]]
 [[iNEST]]

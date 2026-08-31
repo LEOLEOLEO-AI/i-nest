@@ -42,15 +42,14 @@ Auto-extracted concept from raw material compilation.
 [[Nanoencapsulation_Stability_Bioavailability]]
 [[NanomaterialFeatureEngineering]]
 [[Network_Topology_Design]]
+[[Neural_Avalanche_Dynamics]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[Self_Organized_Criticality]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
-[[criticality]]
 [[iNEST]]
 [[reservoir computing architecture]]
-[[reservoir computing]]
 [[scaling laws]]
 
 ## Sources

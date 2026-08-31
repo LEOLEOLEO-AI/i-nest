@@ -31,17 +31,21 @@ Auto-extracted concept from raw material compilation.
 [[CellEmergence]]
 [[Complex_System_Theory]]
 [[EventDrivenTracking]]
+[[Event_Driven_Communication]]
 [[FixedOverheadFloor]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
+[[SOC]]
+[[Spiking neural network]]
 [[SpikingNeuralNetworkTopologyMapping]]
+[[SpikingNeuralNetworkTopology]]
+[[SpikingNeuralNetwork]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]
 [[neuromorphic substrate]]
-[[soc]]
-[[spiking neural network]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

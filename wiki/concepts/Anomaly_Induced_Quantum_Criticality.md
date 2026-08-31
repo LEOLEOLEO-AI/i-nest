@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityInNetworkComputing]]
 [[CriticalityOffCriticalityTransition]]
 [[Criticality]]
+[[Driven_Criticality]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkComputing]]
 [[Intelligence_Emergence]]

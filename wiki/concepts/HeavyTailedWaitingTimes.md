@@ -45,11 +45,13 @@ Auto-extracted concept from raw material compilation.
 [[InterChipletPHYModeling]]
 [[Milinkovic B (2024)：复杂神经系统涌现动力学结构]]
 [[Network_Topology_Design]]
+[[Nonlinear_Gain]]
 [[OptomechanicalNonlinearity]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
 [[STDP_Plasticity]]
 [[ScaleFreeNetwork]]
+[[SpaceToUndersea_ResilientComms]]
 [[SuperparamagneticSwitchingRate]]
 [[Synaptic_Plasticity]]
 [[TCC]]
@@ -59,6 +61,7 @@ Auto-extracted concept from raw material compilation.
 [[三原理协同_FEP_STDP_最小作用量]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

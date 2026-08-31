@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Fatigue_SpikePattern]]
 [[Globally_Optimal_SNN_Training]]
 [[Interconnect_Routing]]
+[[LossSpikePhenomenon]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]

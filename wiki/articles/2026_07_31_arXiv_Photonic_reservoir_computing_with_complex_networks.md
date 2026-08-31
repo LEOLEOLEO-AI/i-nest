@@ -17,8 +17,7 @@ TCC, iNEST, topology
 ## Related Concepts
 
 [[Network_Topology_Design]]
-[[Photonic reservoir computing]]
+[[Photonic_Reservoir_Computing]]
 [[Reservoir_Computing]]
 [[TCC]]
 [[iNEST]]
-[[reservoir computing]]

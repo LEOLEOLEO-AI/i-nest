@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[MesonSpectra]]
 [[Mott_Device_Array]]
 [[NeuralNetworkSpectralAnalysis]]
+[[Neural_Network_Quantum_State_Transfer_Learning]]
 [[Neuromorphic_Computing]]
 [[NonEquilibriumComputing]]
 [[Nonlinear_Gain]]
@@ -44,13 +45,10 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
-[[Spike_timing_dependent_plasticity]]
+[[Spike_Timing_Dependent_Plasticity]]
 [[Spiking_Neural_Network]]
-[[Spiking_neural_network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
-[[neuromorphic computing]]
-[[reservoir computing]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

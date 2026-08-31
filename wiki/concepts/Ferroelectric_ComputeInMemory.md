@@ -31,6 +31,8 @@ Auto-extracted concept from raw material compilation.
 [[ConsciousIntegration]]
 [[CrossDomain_Integration]]
 [[Deep_Network_Architecture_Invariant]]
+[[EfficientDeepLearning]]
+[[EmergentIntelligence_Spacetime]]
 [[Emergent_Intelligence_Threshold]]
 [[FeFET_Polarization_Switching]]
 [[FerroelectricMemoryCell]]
@@ -52,7 +54,6 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[SiC_GaN_Power_Integration]]
 [[State_Transition_Formalism]]
-[[neural dynamical systems]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

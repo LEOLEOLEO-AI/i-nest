@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[ImageToEventConversion]]
 [[Intelligence_Emergence]]
+[[InterFPGA_Spike_Routing]]
 [[MultiModel_Adapter_Architecture]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]

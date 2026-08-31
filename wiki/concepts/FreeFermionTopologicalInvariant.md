@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[1024_Card_SuperNode]]
 [[AI_FullSpectrum_Strategy]]
 [[AdiabaticMultimodeBend]]
 [[Allreduce_Latency_Probe]]

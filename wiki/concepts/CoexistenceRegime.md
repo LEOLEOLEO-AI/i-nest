@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[CommunicationTopologyMismatch]]
 [[Complex_System_Theory]]
+[[ComponentLevelMolding]]
 [[EntanglementSignatures]]
 [[GeometricRegularizationLoss]]
 [[Hippocampal_Encoding_Mechanism]]
@@ -58,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologyAwareScheduling]]
 [[complex system]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

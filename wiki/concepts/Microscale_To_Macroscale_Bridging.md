@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[JunctionCenteredFramework]]
 [[Mesoscale_Physical_Computing_Framework]]
 [[Metastable_State_Hierarchy]]
+[[NCL神经计算定律详解]]
 [[Nanoscale_Precise_Control]]
 [[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]
@@ -52,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[HierarchicalSpikePropagation]]
 [[HighThroughputPhenotyping]]
 [[Interconnect_Routing]]
+[[MemoryDrivenInterconnect]]
 [[Neuromorphic_Computing]]
 [[Spiking_Neural_Network]]
 [[iNEST]]

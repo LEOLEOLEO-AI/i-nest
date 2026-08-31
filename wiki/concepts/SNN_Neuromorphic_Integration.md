@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[BrainInspired_Chip]]
 [[EventBasedBioSignalFrontEnd]]
+[[EventDataNonUniformity]]
 [[Event_Driven_Architecture]]
 [[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Scheduling]]
@@ -37,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[ST_SNN]]
 [[SpiNNaker2_Chip]]
 [[Spike_Encoding_of_fMRI]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

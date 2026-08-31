@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[EnsembleAveragedSolution]]
 [[FreeEnergyPrinciple]]
 [[GNN图神经网络，非结构化数据分析利器！]]
+[[Heterogeneous_Integration_Roadmap_HIR]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
@@ -54,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

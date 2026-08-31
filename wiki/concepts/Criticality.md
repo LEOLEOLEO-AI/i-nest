@@ -29,16 +29,17 @@ Auto-extracted concept from raw material compilation.
 [[CST_Theory_V27_FINAL]]
 [[Categorical_Closure_Criterion]]
 [[ChipletOpticalIO]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
 [[Criticality_Reservoir]]
 [[DynamicalSelfDualCriticality]]
+[[ERI_2_0_Strategy]]
 [[Long_Range_Interactions]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]
 [[Self_Organized_Criticality]]
 [[Synaptic_Plasticity]]
 [[TCC]]
-[[criticality]]
 [[iNEST]]
 
 ## Sources

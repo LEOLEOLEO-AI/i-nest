@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI-ML — 全景导航 (Map of Content)]]
 [[AIRA_NeuralArchSearch]]
+[[AnomalousSpinTransport]]
 [[BigBrainCellularAxis]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Chiplet_Based_Neuromorphic_Integration]]
@@ -31,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Fixed_Cost_Dominance]]
+[[Heterogeneous_Integration]]
 [[InNetworkAgentRewiring]]
 [[InSensorMemoryComputing]]
 [[In_Package_Neuromorphic_Integration]]
@@ -51,7 +53,6 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TopologicalPhaseTransition]]
 [[iNEST]]
-[[reservoir computing]]
 [[忆阻器]]
 [[智能涌现]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]

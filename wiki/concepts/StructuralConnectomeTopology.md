@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AI-ML — 全景导航 (Map of Content)]]
 [[Brain_Connectome]]
 [[Connectome]]
+[[Connectome_Inspired_Architecture]]
 [[Connectome_Transfer]]
 [[DataProvenanceIntegrity]]
 [[FrozenRateOperator]]

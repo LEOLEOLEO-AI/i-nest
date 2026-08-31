@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN_NeuroprostheticPipeline]]
 [[SelfOrganization]]
 [[Self_Organized_Criticality]]
+[[SensationModulatingNetwork]]
 [[SpikeBasedGradientDescent]]
 [[SpikePacketRouting]]
 [[Spike_Encoding_of_fMRI]]

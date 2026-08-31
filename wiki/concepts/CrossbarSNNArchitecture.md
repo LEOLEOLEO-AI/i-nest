@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Course_Based_FPGA_Prototyping]]
 [[CriticalNormBoundary]]
+[[CrossLayer_SignalRouting]]
 [[Dynamic_Expert_Fusion]]
 [[EpidemicThreshold]]
 [[Event_Driven_Architecture]]

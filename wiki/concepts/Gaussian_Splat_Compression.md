@@ -36,16 +36,17 @@ Auto-extracted concept from raw material compilation.
 [[EventBasedAnalogFrontEnd]]
 [[EventSparseTemporalEncoding]]
 [[FerroelectricCrossbarArray]]
+[[FerroelectricSynapse]]
 [[Ferroelectric_Devices]]
 [[Ferroelectric_Synaptic_Devices]]
 [[Heterogeneous_Integration]]
 [[Memory_Wall]]
 [[Neuromorphic_Computing]]
+[[SOC]]
 [[SparseTemporalEncoding]]
 [[Spiking_Neural_Network]]
 [[analog computation]]
 [[iNEST]]
-[[soc]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

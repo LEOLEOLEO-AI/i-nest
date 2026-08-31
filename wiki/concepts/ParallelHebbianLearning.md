@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Battlefield_AI_Deployment]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Chiplet_Heterogeneous_Integration]]
+[[DeeplySupervisedSpiking]]
 [[EnsembleSparsity]]
 [[Hardware_Accelerated_SNN]]
 [[Hardware_Neuron_Equations]]

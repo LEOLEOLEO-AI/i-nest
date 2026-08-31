@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_InMemory_Processing]]
 [[Anisotropic_Square_Lattice]]
 [[ArbitraryWavefunctionConfigurability]]
+[[Asymmetric_Interaction_Graph]]
 [[Complex_System_Theory]]
 [[Evolutionary_Computability]]
 [[Intelligence_Emergence]]
@@ -47,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

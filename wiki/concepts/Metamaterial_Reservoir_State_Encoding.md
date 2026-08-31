@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[Reservoir_State_Encoding]]
 [[TCC]]
+[[Three_Dimensional_Analysis]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

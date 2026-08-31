@@ -43,8 +43,9 @@ Auto-extracted concept from raw material compilation.
 [[NonlinearDynamicalSystemsInference]]
 [[Nonlinear_Gain]]
 [[PhysicalSubstrateReservoir]]
+[[Reservoir_Computing]]
+[[RestrictedConnectivityTopology]]
 [[TCC]]
-[[connectome]]
 [[iNEST]]
 
 ## Sources

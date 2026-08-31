@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[NoC_Chiplet_Wafer_Stack]]
 [[Nonlinear_Gain]]
 [[P_Paradigm]]
 [[Pipelined_Processor_Integration]]
@@ -50,10 +51,8 @@ Auto-extracted concept from raw material compilation.
 [[branch prediction]]
 [[emerging CMOS memristor]]
 [[memristor device]]
-[[neuromorphic computing]]
 [[pipelined processor]]
 [[reservoir computing architecture]]
-[[reservoir computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

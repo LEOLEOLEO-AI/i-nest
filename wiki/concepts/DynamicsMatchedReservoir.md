@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[ConnectomeWiringSeparability]]
 [[Connectome]]
 [[Connectome_Reservoir]]
+[[DevelopmentalConnectomeTemporalGraph]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
@@ -49,8 +50,6 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[SuperparamagneticSwitchingRate]]
-[[neuromorphic computing]]
-[[reservoir computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

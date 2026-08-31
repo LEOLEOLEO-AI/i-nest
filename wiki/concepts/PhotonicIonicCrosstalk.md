@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[CircadianGateModulation]]
 [[Comparative_Formulation_Analysis]]
+[[Course_Based_FPGA_Projects]]
 [[Critical_Exponent_Scaling]]
 [[DendriticReservoirState]]
 [[DualImpactEvaluation]]

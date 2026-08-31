@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalSlowingDown]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
+[[Energy_Balanced_Interconnect]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]
@@ -57,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

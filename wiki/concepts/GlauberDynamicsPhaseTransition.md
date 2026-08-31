@@ -40,13 +40,13 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_Topology]]
 [[NearThreeDimensionalCriticality]]
 [[Network_Topology_Design]]
+[[NonEquilibriumPhaseTransition]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Self_Organized_Criticality]]
 [[SuperparamagneticSwitchingRate]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[complex system]]
-[[criticality]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AgenticServiceTopology]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[AssociativeMemoryTopology]]
+[[BalancedRouting]]
 [[Baseline_Draft_Status]]
 [[BurstGatedRouting]]
 [[BurstInterleaving]]
@@ -41,10 +42,11 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
+[[SOC]]
 [[TCC]]
 [[TopologicalDataCompression]]
-[[soc]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

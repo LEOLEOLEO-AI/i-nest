@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[HierarchicalAttention_MIL]]
 [[Intelligence_Emergence]]
 [[InterconnectConstrainedEmergence]]
+[[NCL神经计算定律详解]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[VolumeLevel_Attention]]
@@ -49,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

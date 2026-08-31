@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[BurstTemporalPlasticity]]
 [[DiscreteContinuous_Unification]]
+[[DiscreteSTDP]]
 [[DynamicTokenSparsity]]
 [[EEGSpikeEncoding]]
 [[Edge_Neuromorphic_Compute]]

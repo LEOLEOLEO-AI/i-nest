@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[BidirectionalRingTopology]]
 [[DTGA]]
 [[Distributed_Spike_Communication]]
+[[Event_Driven_Architecture]]
 [[GradientFreeSNNTraining]]
 [[HigherOrderSimplicialDynamics]]
 [[HodgkinHuxleyDynamics]]

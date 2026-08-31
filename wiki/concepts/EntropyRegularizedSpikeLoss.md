@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[ActiveInference]]
 [[AdaptersInSpikingNetworks]]
+[[AstrocyteInspiredRepair]]
 [[Complex_System_Theory]]
 [[DevelopmentalNeuromorphicAdaptation]]
 [[FirstPrinciples_Derivation]]

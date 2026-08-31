@@ -44,10 +44,12 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[STDP_Plasticity]]
 [[SelfOrganization]]
+[[Space_Compute_Architecture_Tradeoff]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[VectorFlowField]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[EnergyEfficientNeuromorphic]]
 [[EventCameraTemporalEncoding]]
 [[EventDrivenModularArchitecture]]
+[[EvolutionaryDiversityPreservation]]
 [[Interconnect_Routing]]
 [[LocalInteractionDrivenReconfiguration]]
 [[LossSpikePhenomenon]]

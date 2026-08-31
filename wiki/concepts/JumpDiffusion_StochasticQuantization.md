@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[MantelTest_SignCorrection]]
 [[Network_State_Awareness]]
 [[Network_Topology_Design]]
+[[PhysicalReservoirInterconnect]]
 [[Self_Organized_Criticality]]
 [[TCC]]
 

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[EnergyResourceEfficiencyCoOptimization]]
 [[FCDC_Architecture]]
 [[FerroelectricMemoryCell]]
+[[FerroelectricSynapticArray]]
 [[Ferroelectric_ComputeInMemory]]
 [[Ferroelectric_Devices]]
 [[HybridResistiveMemoryCIM]]
@@ -45,8 +46,6 @@ Auto-extracted concept from raw material compilation.
 [[SpatialPhotonicProgramming]]
 [[advanced packaging]]
 [[iNEST]]
-[[neuromorphic computing]]
-[[neuromorphic hardware paradigm]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

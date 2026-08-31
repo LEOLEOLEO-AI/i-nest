@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[DTGA]]
 [[DataProvenanceIntegrity]]
+[[ERI_2_0_Framework]]
 [[Energy_Efficient_Control]]
 [[Evolutionary_Computability]]
 [[FerroelectricMemoryCell]]
@@ -54,10 +55,11 @@ Auto-extracted concept from raw material compilation.
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
 [[TCC]]
+[[TemporalComplexity]]
 [[chiplet interconnect]]
 [[complex system]]
-[[temporalComplexity]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

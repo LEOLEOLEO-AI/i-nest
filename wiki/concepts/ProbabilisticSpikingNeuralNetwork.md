@@ -39,11 +39,11 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[SNN]]
 [[SpikeTimingEncoding]]
+[[Spiking neural network]]
 [[SpikingNeuralNetwork]]
 [[Spiking_Neural_Network]]
+[[TemporalFeaturePropagation]]
 [[iNEST]]
-[[neuromorphic computing]]
-[[spiking neural network]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

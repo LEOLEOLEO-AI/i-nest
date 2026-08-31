@@ -34,6 +34,8 @@ Auto-extracted concept from raw material compilation.
 [[Cross_Node_Event_Propagation]]
 [[Distributed_Spike_Communication]]
 [[FerroelectricSynapse]]
+[[Ferroelectric_Devices]]
+[[Ferroelectric_Synaptic_Devices]]
 [[Heterogeneous_Integration]]
 [[HigherOrderStochasticProcess]]
 [[LIF_Neuron_Model]]
@@ -42,9 +44,9 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
-[[spiking neural network]]
 [[神经网络]]
 
 ## Sources

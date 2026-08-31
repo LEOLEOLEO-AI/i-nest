@@ -22,4 +22,3 @@ TCC, iNEST, interconnect, wafer
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[iNEST]]
-[[tcc]]

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[DevelopmentalConnectomeTemporalGraph]]
 [[DevelopmentalStageEmbedding]]
 [[Dynamic_Expert_Fusion]]
+[[DynamicsMatchedReservoir]]
 [[Emergent_Intelligence_Threshold]]
 [[Evolutionary_Overfitting_Avoidance]]
 [[Intelligence_Emergence]]
@@ -45,7 +46,6 @@ Auto-extracted concept from raw material compilation.
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]
 [[neuromorphic computing architecture]]
-[[neuromorphic computing]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

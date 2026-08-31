@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Thermalisation]]
 [[FatalityDrivenRewiring]]
 [[FreeFermionTopologicalInvariant]]
+[[FunctionalRelevanceDrivenSelfOrganization]]
 [[GraphBasedSemanticRouting]]
 [[InSitu_Compute]]
 [[InputAdaptiveComputation]]
@@ -40,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[TCC]]
 [[TopologyAware_Grouping]]
+[[VectorFlowField]]
 [[advanced packaging]]
 
 ## Sources

@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
+[[Fading_Memory_Property]]
 [[GNN图神经网络，非结构化数据分析利器！]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
@@ -55,7 +56,9 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[《中国科学基金》]]
 [[从因果到涌现：迈向新一代人工智能_陆超超博士访谈 (1)]]
+[[从因果到涌现：迈向新一代人工智能_陆超超博士访谈]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

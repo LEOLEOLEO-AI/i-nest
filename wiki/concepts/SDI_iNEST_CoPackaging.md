@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AdiabaticMultimodeBend]]
 [[AdvancedPackagingInterconnect]]
 [[Advanced_Packaging_for_Space]]
+[[Analog_InMemory_Processing]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Packaging]]
 [[Chiplet_Stacking]]
@@ -50,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST_Packaging]]
 [[iNEST_Wafer]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

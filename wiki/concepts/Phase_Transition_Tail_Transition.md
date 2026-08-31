@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[DeviationScalingIndex]]
 [[DifferentiableLifting]]
 [[Dynamic_Expert_Fusion]]
+[[EcosystemTopologyCoupling]]
 [[EdgeIoTEnergyAwareness]]
 [[EmergentTaskDecomposition]]
 [[Emergent_Intelligence_Threshold]]

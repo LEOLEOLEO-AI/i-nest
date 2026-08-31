@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[ImaginaryGaugePhaseImprint]]
 [[Interconnect_Routing]]
 [[MoE_Routing]]
+[[NCL神经计算定律详解]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
@@ -44,7 +45,6 @@ Auto-extracted concept from raw material compilation.
 [[Reconfigurable_NonHermitian_Nonlinear_System]]
 [[Synaptic_Plasticity]]
 [[ViewDependentAppearance]]
-[[neuromorphic computing]]
 [[Γst_Revision]]
 
 ## Sources

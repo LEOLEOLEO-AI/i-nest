@@ -32,12 +32,12 @@ Auto-extracted concept from raw material compilation.
 [[Anomaly_Induced_Quantum_Criticality]]
 [[Ant_Swarm_Functional_Control]]
 [[ArchitecturalCondition]]
+[[Avoided_Criticality]]
 [[Criticality]]
 [[Intelligence_Emergence]]
 [[Quantum_Criticality]]
 [[Self_Organized_Criticality]]
 [[TCC]]
-[[criticality]]
 [[iNEST]]
 
 ## Sources

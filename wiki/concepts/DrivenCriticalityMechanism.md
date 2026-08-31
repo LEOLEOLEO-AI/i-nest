@@ -33,12 +33,12 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityInNetworkComputing]]
 [[CriticalityOffCriticalityTransition]]
 [[Criticality]]
+[[Crossover_Physics]]
 [[InNetworkComputing]]
 [[Interconnect_Routing]]
 [[Quantum_Criticality]]
 [[Self_Organized_Criticality]]
 [[TCC]]
-[[criticality]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[EmulationTheoryObserver]]
 [[EventDrivenFunctionalConnectivity]]
+[[EventDrivenSpectralProcessing]]
 [[In_Context_Learning]]
 [[NeuromorphicRL]]
 [[Neuromorphic_Computing]]

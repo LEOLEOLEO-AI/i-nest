@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Microgrid_Optimization]]
 [[MitigationLayers]]
+[[NCL神经计算定律详解]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[Nonlinear_Topology_Amplification]]
@@ -48,14 +49,15 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]
 [[ReproducibleReservoirDynamics]]
+[[ReservoirDynamics]]
 [[Reservoir_Computing]]
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
 [[TCC]]
+[[TemporalComplexity]]
 [[ThermallyDrivenSuperparamagnetReservoir]]
 [[ThermallyDrivenSuperparamagneticReservoir]]
 [[chiplet interconnect]]
-[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

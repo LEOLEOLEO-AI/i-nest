@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[BrainScaleTopologyExploitation]]
 [[Brain_Dynamics_Learning]]
 [[CSPNeuralEncoding]]
+[[ClassificationPerformance]]
 [[ClinicalTranslationBridge]]
 [[CollectiveDynamics]]
 [[Complex_Network_Brain_Inspired_Computing]]
@@ -51,7 +52,6 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[complex system]]
 [[iNEST]]
-[[neuromorphic computing]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[神经网络]]
 

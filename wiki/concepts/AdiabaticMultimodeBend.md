@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
 [[OnDie_Fusion]]
 [[PhononicCrystalMicrowaveCoupling]]
 [[Photonic_Chiplet_Interconnect]]
@@ -50,12 +51,14 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[Topological_State_Encoding]]
 [[Topology_Aware_NoC_Routing]]
+[[Wafer_Scale_Packaging]]
 [[chiplet interconnect]]
 [[complex system]]
 [[iNEST]]
 [[智能涌现]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AdjointWaveControl]]
 [[Adjoint_Gradient_Propagation]]
 [[AdsorptionBiosorptionHybrid]]
+[[AdvancedPackagingInterconnect]]
 [[Advanced_Packaging_Route]]
 [[Alignment_Tax]]
 [[AndersonTransition]]

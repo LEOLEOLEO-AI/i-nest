@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[ChaoticAttractorTopology]]
 [[ComputationEfficientDeepLearning]]
 [[ConcentricDiscreteOpticalVortices]]
+[[ConnectomeComputationBasis]]
 [[Connectome]]
 [[Deep_Network_Architecture_Invariant]]
 [[EfficientDeepLearning]]

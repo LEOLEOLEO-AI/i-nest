@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[CollectiveStateTopology]]
 [[ConstraintDrivenSelfOrganization]]
 [[CounterstreamSignalPropagation]]
+[[CriticalityInNetworkComputing]]
 [[Criticality]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]

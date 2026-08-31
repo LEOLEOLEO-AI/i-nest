@@ -39,9 +39,11 @@ Auto-extracted concept from raw material compilation.
 [[Bipartite_Interconnect_Design]]
 [[Bipartite_Interconnect_Fabric]]
 [[BisectionBandwidthBound]]
+[[BisectionBandwidthMetric]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
 [[Heterogeneous_Integration]]
+[[Memory_Wall]]
 [[TCC]]
 [[advanced packaging]]
 

@@ -28,4 +28,3 @@ TCC, iNEST, spiking, 互连, 神经形态
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]
-[[inest]]

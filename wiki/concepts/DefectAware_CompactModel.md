@@ -45,11 +45,11 @@ Auto-extracted concept from raw material compilation.
 [[Hysteretic_State_Encoding]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
+[[NonGaussianPropagationKernel]]
 [[Reservoir_Computing]]
+[[SOC]]
 [[emerging CMOS memristor]]
-[[ferroelectric devices]]
 [[iNEST]]
-[[soc]]
 [[待分类]]
 
 ## Sources

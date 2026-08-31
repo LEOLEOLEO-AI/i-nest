@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[NegotiationAwareRouting]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Quantum_Spin_Glass]]
 [[Resilient_Sensing_Comms_Network]]
 [[SNN]]
 [[ScalableNeuromorphicTopology]]
@@ -55,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

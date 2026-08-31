@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_SDI]]
 [[Order_Flexibility_Duality]]
 [[PacketRoutingForFPGAs]]
+[[PacketRoutingOptimization]]
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[STDP_Plasticity]]

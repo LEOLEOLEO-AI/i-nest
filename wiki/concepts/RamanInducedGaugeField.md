@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Electronic_Warfare_Integration]]
 [[EmergentOrder]]
 [[HippocampalNeocorticalIntelligence]]
+[[InNetworkNeuromorphicEmergence]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Memristive_STDP]]

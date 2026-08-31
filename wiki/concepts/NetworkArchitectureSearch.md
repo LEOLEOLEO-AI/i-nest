@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[NestedRepresentation]]
 [[Network_Topology_Design]]
 [[NeuromorphicHardware]]
+[[NeuromorphicRadarFrontend]]
 [[Neuromorphic_Computing]]
 [[OODA_Loop_Breaking]]
 [[RecursiveSelfReferentialArchitecture]]

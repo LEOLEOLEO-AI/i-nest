@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Cytokine_Feedback_Loops]]
 [[DelayTunedPopulationAmplitude]]
 [[DynamicalTransitionIdentification]]
+[[Dynamical_Principle_Formalization]]
 [[FlexibilityThreshold]]
 [[Neuromorphic_Computing]]
 [[Online_Continual_Learning]]

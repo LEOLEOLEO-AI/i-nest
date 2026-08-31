@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CrystalPalace_Program]]
 [[Crystallized_Neural_Manifolds]]
 [[DeterministicChaosResonator]]
+[[DeviceLevelNonlinearityScaling]]
 [[DissipativeQuantumReservoir]]
 [[Emergent_Reservoir_Topology]]
 [[GroupInteractionThreshold]]
@@ -41,7 +42,6 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[TCC]]
 [[complex system]]
-[[reservoir computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

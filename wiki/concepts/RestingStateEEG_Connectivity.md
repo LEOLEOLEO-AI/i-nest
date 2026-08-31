@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Deep_Brain_Stimulation]]
 [[CirculateFiringNeuron]]
 [[Complex_System_Theory]]
+[[CorticalNetwork_Dynamics]]
 [[DevelopmentalNeuromorphicAdaptation]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
@@ -34,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[Interpretable_Electrophysiological_Features]]
 [[Memristor_Synapse]]
 [[Model_Routing_Protocol]]
 [[Network_Specific_Embedding_Separation]]
@@ -42,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDPrompt_Guided_Dynamic_Expert_Fusion]]
+[[SparseTemporalEncoding]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
@@ -50,9 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
-[[cortical network dynamics]]
 [[iNEST]]
-[[interpretable electrophysiological features]]
 [[神经网络]]
 
 ## Sources

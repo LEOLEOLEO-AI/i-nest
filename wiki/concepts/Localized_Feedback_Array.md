@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[CompetitiveProgramDynamics]]
 [[Contested_Priors_Mechanism]]
 [[Cross_Network_Representation_Transfer]]
+[[Dynamic_Expert_Routing]]
 [[ExactRateChaosTransition]]
 [[Interconnect_Routing]]
 [[MoE_Routing]]
@@ -46,7 +47,6 @@ Auto-extracted concept from raw material compilation.
 [[Stimulus_Responsive_Release]]
 [[Synaptic_Plasticity]]
 [[ThermosensitiveNeuronModel]]
-[[neuromorphic computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

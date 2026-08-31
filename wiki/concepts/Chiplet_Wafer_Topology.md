@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[BoundaryObject_Abstraction]]
 [[CST计量仪]]
+[[Causal_Emergence_Architecture]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
 [[ComputationEfficientDeepLearning]]

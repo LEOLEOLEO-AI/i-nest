@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AnytimePointCloudRecognition]]
 [[ArtificialProprioception]]
 [[ClosedLoopNeuromorphicControl]]
+[[Discrete_Event_Spike_Simulation]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
 [[Oscillatory_MultiObjective_Optimization]]

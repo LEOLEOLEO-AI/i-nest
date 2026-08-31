@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Continuous_Control_Spike_Timing_Sensitivity]]
 [[Controlled_Release_Kinetics]]
 [[CorticalWaveRouting]]
+[[Environmental_Capability_Context]]
 [[EventCameraTemporalEncoding]]
 [[Fast_Response_Actuator]]
 [[Interconnect_Routing]]

@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[TCC]]
 [[TwoDimensionalTransport]]
+[[WaferScale_Chiplet_Interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

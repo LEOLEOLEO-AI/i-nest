@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Gradient_Free_SNN_Learning]]
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]
+[[MemristiveSynapticFatigue]]
 [[Memristor_Synapse]]
 [[NeuromorphicHardware]]
 [[NeuromorphicRoutingOptimization]]

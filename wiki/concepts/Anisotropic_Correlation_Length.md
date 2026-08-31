@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CompartmentalNeuronModel]]
 [[ComplexValuedSNN]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
+[[CorticalWaveRouting]]
 [[CrossLayer_SignalRouting]]
 [[DirtyWeylSemimetal]]
 [[DistributedTrainingCommunicationPattern]]

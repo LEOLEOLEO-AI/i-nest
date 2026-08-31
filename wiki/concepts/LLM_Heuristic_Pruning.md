@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Compressed_Glass_Network]]
 [[CoupledOscillatorReservoir]]
 [[CouplingMatrixRecovery]]
+[[CrossInstitutionalNetwork]]
 [[Crystallized_Neural_Manifolds]]
 [[DivergentHigherAreaRanking]]
 [[EdgeIoTEnergyAwareness]]

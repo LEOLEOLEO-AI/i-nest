@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[MoE_Routing]]
 [[Neuromorphic_Computing]]
 [[Receptron_Unit]]
+[[ReconfigurableSNNTopology]]
 [[Self_Organized_Criticality]]
 [[Synaptic_Plasticity]]
 [[iNEST]]

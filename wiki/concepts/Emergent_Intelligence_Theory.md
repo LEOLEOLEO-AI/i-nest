@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[GenerativeTopologyModels]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[JunctionCenteredFramework]]
 [[Master_SDDE]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[Microgrid_Optimization]]
@@ -52,11 +53,12 @@ Auto-extracted concept from raw material compilation.
 [[RenormalizationGroup_ScalingLaws]]
 [[SpatiotemporalComplexityIndex]]
 [[TCC]]
+[[TemporalComplexity]]
 [[analog computation]]
 [[complex system]]
 [[iNEST]]
-[[temporalComplexity]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

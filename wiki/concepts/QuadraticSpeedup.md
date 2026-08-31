@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[CorticalTypeDiversity]]
 [[DTGA]]
+[[DataDrivenCellularAxis]]
 [[Decoupled_Priors]]
 [[Disordered_Frustrated_Dimer_Magnets]]
 [[DualSide_Routing_Layer]]

@@ -43,10 +43,10 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SNN]]
+[[SOC]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[ST_SNN]]
-[[Soc]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[Swarm_Coordination]]
@@ -54,9 +54,9 @@ Auto-extracted concept from raw material compilation.
 [[TemporalDynamicsModeling]]
 [[TwoTimescaleNeuroEvolution]]
 [[VonEconomoNeuron]]
+[[iMESO_PhysicalCarrier]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
-[[soc]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

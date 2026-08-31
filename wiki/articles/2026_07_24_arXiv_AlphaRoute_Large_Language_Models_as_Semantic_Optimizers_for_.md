@@ -23,4 +23,3 @@ NoC, TCC, chiplet, iNEST, 互连
 [[Semantic_Optimizer]]
 [[TCC]]
 [[iNEST]]
-[[tcc]]

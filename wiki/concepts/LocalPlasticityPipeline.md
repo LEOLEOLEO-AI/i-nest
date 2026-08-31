@@ -33,11 +33,13 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Local_Plasticity]]
+[[Local_Plasticity_Rule]]
 [[NeuromorphicHardware]]
 [[NeuromorphicRadarFrontend]]
 [[Neuromorphic_Computing]]
 [[NeuronModelAbstractionLayer]]
 [[QuantumProbabilityFlowHebbian]]
+[[Receptron_Unit]]
 [[ReconfigurableSNN_Accelerator]]
 [[ReconfigurableSpikingRouting]]
 [[RecursiveSelfReferentialArchitecture]]
@@ -47,8 +49,6 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
-[[local plasticity rule]]
-[[local plasticity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -29,8 +29,10 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[CrashHotspotForecasting]]
 [[DivergentHigherAreaRanking]]
+[[Flexible_Neuromorphic_Substrate]]
 [[HardwareAware_DesignSpace]]
 [[HighTemporalResolutionSensing]]
+[[Intelligence_Emergence]]
 [[Memristor_Synapse]]
 [[Meta_Residual_Learning]]
 [[NestedRepresentation]]
@@ -39,11 +41,10 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[SDDE_Attractor_Emergence]]
 [[SNN]]
+[[SpectralSupportAnalysis]]
 [[Spiking_Neural_Network]]
-[[flexible neuromorphic substrate]]
 [[iNEST]]
 [[neuromorphic substrate]]
-[[reservoir computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

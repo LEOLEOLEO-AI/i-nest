@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeTimingGradient]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
+[[TemporalSpikeCoding]]
 [[iNEST]]
 
 ## Sources

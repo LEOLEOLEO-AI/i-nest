@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AnalogDomainCompression]]
 [[CST_CoordinationMechanism]]
+[[CompactnessRegularizedFitness]]
 [[Complex_System_Theory]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
@@ -44,11 +45,9 @@ Auto-extracted concept from raw material compilation.
 [[SwarmGradientRouting]]
 [[Swarm_Optimized_Topology]]
 [[complex system]]
-[[coupling topology]]
 [[emerging CMOS memristor]]
 [[iNEST]]
 [[quantum reservoir computing]]
-[[reservoir computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

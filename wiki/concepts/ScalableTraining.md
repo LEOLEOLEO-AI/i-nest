@@ -34,16 +34,17 @@ Auto-extracted concept from raw material compilation.
 [[ErrorAmplificationLimits]]
 [[Interconnect_Routing]]
 [[LatencyGradientDescent]]
+[[LossSpikePhenomenon]]
 [[NeuralDynamicsCalibration]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[ProbabilisticSpikingNeuralNetwork]]
 [[SNN]]
+[[Spiking neural network]]
 [[SpikingNeuralNetwork]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]
-[[spiking neural network]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

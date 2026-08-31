@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveTimeStepTraining]]
 [[Analog_Weight_Storage]]
 [[ArbitraryWavefunctionConfigurability]]
+[[Attention_Residuals]]
 [[AutonomousAdaptation]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Cognitive_Relapse_Architecture]]
@@ -48,12 +49,10 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Architecture]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
-[[Synaptic plasticity]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
-[[synaptic plasticity]]
 [[神经网络]]
 
 ## Sources

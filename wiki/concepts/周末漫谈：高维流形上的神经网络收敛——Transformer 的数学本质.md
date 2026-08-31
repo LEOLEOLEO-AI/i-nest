@@ -48,6 +48,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[SpikingBrain-1_0_类脑脉冲大模型的革命性突破_]]
 [[Spiking_Neural_Network]]
 [[TCC]]
+[[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[iNEST]]
 [[大脑临界性_健康脑功能的统一设定点假说_Neuron观点文章深度解析]]
 [[神经网络]]

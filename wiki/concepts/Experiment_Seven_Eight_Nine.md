@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[ApproximationFidelityTradeoff]]
 [[Attention_Residuals]]
 [[BigBrainCellularAxis]]
+[[CST_Spatiotemporal_Complexity]]
 [[CST计量仪]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -54,13 +55,12 @@ Auto-extracted concept from raw material compilation.
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
 [[TCC]]
+[[TemporalComplexity]]
 [[analog computation]]
 [[chiplet interconnect]]
-[[evolutionary computability]]
-[[heterogeneous_integration]]
 [[iNEST]]
-[[temporalComplexity]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

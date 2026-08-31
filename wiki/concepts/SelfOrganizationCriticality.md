@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Reservoir_Topology]]
 [[Hierarchical_Reservoir_Topology]]
 [[High_Dimensional_Projection]]
+[[HypergraphMeanFieldApproximation]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
@@ -49,7 +50,6 @@ Auto-extracted concept from raw material compilation.
 [[SuperparamagneticSwitchingRate]]
 [[TwoTimescaleNeuroEvolution]]
 [[complex system]]
-[[criticality]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

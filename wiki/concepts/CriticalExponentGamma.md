@@ -39,11 +39,11 @@ Auto-extracted concept from raw material compilation.
 [[BulletTrainScheduling]]
 [[CoOptimizedMappingScheduling]]
 [[Continuous_Control_Spiking_Stability]]
+[[ConventionalAndSpikingDualMode]]
 [[Criticality]]
 [[SNN]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
-[[criticality]]
 [[iNEST]]
 
 ## Sources

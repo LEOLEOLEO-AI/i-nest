@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AgenticServiceOrchestration]]
 [[AgenticServiceTopology]]
 [[Agile_Resilient_Defense_Ecosystem]]
+[[BalancedRouting]]
 [[Baseline_Draft_Status]]
 [[BurstInterleaving]]
 [[CellEmergence]]
@@ -43,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[PacketRoutingForFPGAs]]
 [[TCC]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[Photonic_Chiplet_Interconnect]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Renormalization_Group_Convergence]]
+[[Residual_Connection_Removal]]
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
 [[SDSoW]]
@@ -72,11 +73,9 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[chiplet interconnect]]
-[[heterogeneous_integration]]
 [[iNEST]]
 [[iNEST_Wafer]]
 [[residual connection]]
-[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

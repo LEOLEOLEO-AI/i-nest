@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Edge_Neuromorphic_Compute]]
 [[ExtrinsicAnomalousHallConductivity]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
+[[InNetwork_Neuromorphic_CoDesign]]
 [[Intelligence_Emergence]]
 [[InterconnectDrivenPlacement]]
 [[Interconnect_Routing]]

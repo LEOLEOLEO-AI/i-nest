@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[AsymmetricStochasticInteractions]]
 [[AttentionMap_DifferenceResidual]]
 [[BCM滑动阈值]]
+[[BifurcationCandidateSet]]
 [[BifurcationCandidate]]
 [[CST_Synergy_Coordination]]
 [[Complex_System_Theory]]
@@ -52,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[neuromorphic sensing]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

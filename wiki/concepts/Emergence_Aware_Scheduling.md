@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[ElectronicWarfareNeuromorphic]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Gut_Brain_Immune_Network]]
+[[ITP_STDP]]
 [[Intelligence_Emergence]]
 [[NeuromorphicSafetyBoundary]]
 [[Neuromorphic_Computing]]
@@ -47,7 +48,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[emergent computation]]
 [[iNEST]]
-[[neuromorphic computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

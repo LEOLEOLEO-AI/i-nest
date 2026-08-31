@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[EulaminateOverrepresentation]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
+[[Heterogeneous_Inference_Division]]
 [[Heterogeneous_Integration]]
 [[Medical_Large_Language_Models]]
 [[MetaFAIR_ArchitectureDiscovery]]
@@ -48,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[SpatiotemporalComplexityIndex]]
 [[SystemLevelNonlinearity]]
 [[TCC]]
+[[TemporalComplexity]]
 [[Textbook_Paradigm_Definition]]
 [[TopologyCentricEngineeringBase]]
 [[Topology_Centric_Computing]]
@@ -56,7 +58,6 @@ Auto-extracted concept from raw material compilation.
 [[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
-[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -40,9 +40,9 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
+[[SNN_Sparsity_InformationBound]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
-[[neuromorphic computing]]
-[[spiking neural network]]
 [[神经网络]]
 
 ## Sources

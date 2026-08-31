@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[ArbitraryWavefunctionConfigurability]]
 [[AutonomousAdaptation]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Stacking]]
 [[Decoupling_Mechanism]]
 [[Free_Energy_Topology_Mapping]]
 [[GateModelQuantumOptimization]]

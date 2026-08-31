@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[NetworkArchitectureSearch]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
+[[NeuromorphicRadarFrontend]]
 [[Neuromorphic_Computing]]
 [[OODA_Loop_Breaking]]
 [[Receptron_Unit]]
@@ -48,7 +49,6 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
-[[neuromorphic computing]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

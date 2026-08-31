@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_SDI]]
 [[NoC_SDI_Topology]]
 [[P_Paradigm]]
+[[Photonic_Chiplet_Interconnect]]
 [[SDI_Bond]]
 [[SDI_Topology]]
 [[SparsityAwareInterconnect]]

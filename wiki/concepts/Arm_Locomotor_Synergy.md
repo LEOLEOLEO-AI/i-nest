@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[HierarchicalSpikePropagation]]
 [[Neuromorphic_Computing]]
 [[SNN]]
+[[Sparsity_Degradation_Threshold]]
 [[Spiking_Neural_Network]]
 [[SurrogateGradientTracking]]
 [[SynapseLevelParallelism]]

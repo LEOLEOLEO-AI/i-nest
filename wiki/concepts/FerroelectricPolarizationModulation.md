@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[DTGA]]
 [[Decoupling_Mechanism]]
 [[DeviceConductanceTuning]]
+[[FerroelectricDeviceIntegration]]
 [[FerroelectricDevice]]
 [[FerroelectricMemoryCell]]
 [[Ferroelectric_Devices]]

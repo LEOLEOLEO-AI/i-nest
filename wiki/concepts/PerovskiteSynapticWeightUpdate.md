@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Deep_SNN_Trainability]]
 [[DeeplySupervisedSpiking]]
+[[DendriticTaskPartitioning]]
 [[Emergent_Intelligence_Threshold]]
 [[FPGA_Neuromorphic_Acceleration]]
 [[FunctionalInterfaceBlock]]

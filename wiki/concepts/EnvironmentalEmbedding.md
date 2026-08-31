@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[EchoState_n_ch]]
 [[FerroelectricSemiconductorPhotocurrent]]
 [[Ferroelectric_Devices]]
+[[Fixed_Reservoir_Unitary]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]

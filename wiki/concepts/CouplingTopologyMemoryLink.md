@@ -45,8 +45,8 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
-[[neuromorphic computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

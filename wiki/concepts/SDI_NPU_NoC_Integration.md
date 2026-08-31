@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[SoftwareDefinedSystemOnWafer]]
 [[TCC]]
 [[TopologyProgramming]]
+[[WaferScaleTopologyCentricComputing]]
 [[chiplet interconnect]]
 [[iNEST]]
 

@@ -31,11 +31,11 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkComputing]]
 [[Interconnect_Routing]]
 [[MantelTest_SignCorrection]]
+[[Network_State_Awareness]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[Self_Organized_Criticality]]
 [[TCC]]
-[[criticality]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

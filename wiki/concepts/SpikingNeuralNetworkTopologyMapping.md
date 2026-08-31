@@ -49,11 +49,13 @@ Auto-extracted concept from raw material compilation.
 [[OptimalGeneralisationNearInterpolation]]
 [[P_Paradigm]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SparseTemporalEncoding]]
 [[Spike_Encoding_of_fMRI]]
+[[Spiking neural network]]
 [[SpikingNeuralNetworkTopology]]
+[[SpikingNeuralNetwork]]
 [[Spiking_Neural_Network]]
 [[WirelessSplitComputing]]
-[[spiking neural network]]
 [[神经网络]]
 
 ## Sources

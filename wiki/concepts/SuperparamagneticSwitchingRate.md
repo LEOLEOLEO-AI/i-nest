@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_STDP]]
 [[Memristor_Network]]
 [[Memristor_Synapse]]
+[[Mesoscale_Heterogeneous_Integration]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[MetricComputationAuthenticity]]
 [[Network_Spatiotemporal_Synergy]]
@@ -73,7 +74,6 @@ Auto-extracted concept from raw material compilation.
 [[chiplet interconnect]]
 [[complex system]]
 [[residual connection]]
-[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

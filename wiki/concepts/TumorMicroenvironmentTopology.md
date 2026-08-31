@@ -30,13 +30,13 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_ProjectManager_Model]]
 [[Generative_Graph_Models]]
 [[MantelTest_SignCorrection]]
+[[Network_State_Awareness]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[Reservoir_Computing]]
 [[Self_Organized_Criticality]]
 [[TCC]]
 [[iNEST]]
-[[reservoir computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Memory_Wall]]
 [[Memristor_Synapse]]
+[[Mesoscale_Heterogeneous_Integration]]
 [[MetricComputationAuthenticity]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
@@ -57,12 +58,10 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
 [[Wafer_Scale_Neuromorphic]]
-[[Wafer_scale_integration]]
 [[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 [[residual connection]]
-[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

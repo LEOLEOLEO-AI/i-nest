@@ -31,16 +31,17 @@ Auto-extracted concept from raw material compilation.
 [[ActiveInference]]
 [[ActiveSpikingPerception]]
 [[AttentionGuidedEntropy]]
+[[BioPlausibleDisturbanceRejection]]
 [[Complex_System_Theory]]
 [[Nonlinear_Gain]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[Transiently_Amplifying_Networks]]
 [[fMRIToElectrophysiologyMapping]]
 [[iNEST]]
-[[spiking neural network]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

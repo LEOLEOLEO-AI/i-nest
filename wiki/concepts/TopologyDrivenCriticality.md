@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[BioInspired_Interception_Control]]
 [[BioPlausiblePredictiveCoding]]
+[[BurstGatedRouting]]
 [[Criticality]]
 [[Emergent_Intelligence_Threshold]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
@@ -46,14 +47,13 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[SpikePacketRouting]]
 [[Spike_Encoding_of_fMRI]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[TopologyDrivenDynamics]]
 [[TopologyDrivenVulnerability]]
-[[criticality]]
 [[iNEST]]
-[[spiking neural network]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

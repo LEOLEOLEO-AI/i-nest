@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
 [[DelayedSynapticCoupling]]
+[[Fading_Memory_Property]]
 [[GNN图神经网络，非结构化数据分析利器！]]
 [[Heterogeneous_P_D_Inference]]
 [[Hippocampal_Spatiotemporal_Prior]]
@@ -52,10 +53,12 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[SheafNeuralNetworks]]
 [[Synaptic_Plasticity]]
+[[TCC]]
 [[TCC_RTC原语架构与SDI拓扑变换机理]]
 [[complex system]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

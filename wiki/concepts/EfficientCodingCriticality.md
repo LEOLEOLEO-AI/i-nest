@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Continuous_Control_Spiking_Stability]]
 [[CriticalityInducedComputationalCapacity]]
 [[Criticality]]
+[[DeepCode_AlgorithmExtraction]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Self_Organized_Criticality]]

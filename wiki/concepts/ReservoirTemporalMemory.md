@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CircadianGateModulation]]
 [[Course_Based_FPGA_Projects]]
 [[CrossbarArrayIntegration]]
+[[DARPA_Project_Group_Strategy]]
 [[FerroelectricSemiconductorReservoir]]
 [[Ferroelectric_Devices]]
 [[Heterogeneous_Integration]]

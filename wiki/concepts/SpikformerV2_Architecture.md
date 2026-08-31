@@ -35,17 +35,18 @@ Auto-extracted concept from raw material compilation.
 [[FerroelectricSynapse]]
 [[Ferroelectric_Devices]]
 [[Heterogeneous_Integration]]
+[[HigherOrderStochasticProcess]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
 [[SpikeEmbedding]]
+[[Spiking neural network]]
+[[SpikingNeuralNetwork]]
 [[SpikingNeuralNetwork_fMRI]]
 [[SpikingSafetyThreshold]]
 [[Spiking_Neural_Network]]
+[[Spiking_Transformer_Architecture]]
 [[iNEST]]
-[[neuromorphic computing]]
-[[spiking neural network]]
-[[spiking transformer architecture]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

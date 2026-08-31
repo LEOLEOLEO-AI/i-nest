@@ -16,10 +16,7 @@ TCC, iNEST
 
 ## Related Concepts
 
-[[Quantum Reservoir Computing]]
 [[Reservoir_Computing]]
 [[TCC]]
 [[iNEST]]
-[[inest]]
 [[quantum reservoir computing]]
-[[reservoir computing]]

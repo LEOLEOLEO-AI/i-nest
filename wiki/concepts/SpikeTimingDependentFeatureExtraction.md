@@ -40,11 +40,11 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[SelfOrganizedRobustness]]
 [[Self_Organized_Criticality]]
-[[Spike_timing_dependent_plasticity]]
+[[SpikeTimingFidelity]]
+[[Spike_Timing_Dependent_Plasticity]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
-[[neuromorphic computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

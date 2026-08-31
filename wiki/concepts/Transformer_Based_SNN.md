@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[Event_Driven_Architecture]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
+[[FPGA_Accelerated_SNN]]
 [[In_Network_Neuromorphic]]
 [[MagnitudePhaseComputationalModel]]
 [[Neuromorphic_Computing]]
@@ -31,11 +32,11 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_iNEST_Interconnect]]
 [[SNN]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 [[iNEST_Interconnect]]
 [[iNEST_Neuromorphic_Integration]]
-[[spiking neural network]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

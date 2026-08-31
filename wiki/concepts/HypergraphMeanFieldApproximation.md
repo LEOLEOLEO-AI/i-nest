@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Hierarchical_Reservoir_Topology]]
 [[High_Dimensional_Projection]]
 [[Intelligence_Emergence]]
+[[InteractingHaldaneModel]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]

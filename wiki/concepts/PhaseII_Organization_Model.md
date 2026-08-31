@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_TopologyWaferIntegration]]
 [[SDI_Topology]]
+[[SDSoW]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[iNEST]]

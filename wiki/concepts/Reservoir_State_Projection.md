@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[DifferentiableLifting]]
 [[DivergentHigherAreaRanking]]
 [[Epidemic_Mitigation_Strategy]]
+[[ErrorSuppressedPipeline]]
 [[HardwareAware_DesignSpace]]
 [[HybridReservoirComputing]]
 [[Intelligence_Emergence]]

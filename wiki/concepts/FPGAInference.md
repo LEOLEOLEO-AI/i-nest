@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[EnsembleSparsity]]
 [[Interconnect_Routing]]
 [[Less is more，大脑“低能耗”并“高效响应”的秘诀：模块化]]
+[[Memristive_Solutions]]
 [[Memristor_Interconnect]]
 [[Memristor_Synapse]]
 [[MetaFAIR_ArchitectureDiscovery]]
@@ -50,13 +51,12 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[SelfMotivatedGrowth]]
 [[Self_Organized_Criticality]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Memristor_Interconnect]]
-[[neuromorphic computing]]
-[[spiking neural network]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

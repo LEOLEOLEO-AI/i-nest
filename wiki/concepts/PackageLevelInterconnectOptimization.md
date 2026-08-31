@@ -38,12 +38,15 @@ Auto-extracted concept from raw material compilation.
 [[Intelligent_Computing_Infrastructure]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
 [[Package_Level_Interconnect]]
+[[SDSoW_Interface_Standard]]
 [[TCC]]
 [[TopologicalContagion]]
 [[TopologicalDataCompression]]
 [[Topology_Aware_NoC_Routing]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

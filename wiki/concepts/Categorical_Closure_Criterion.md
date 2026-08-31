@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[QuantumReservoirMemoryCapacity]]
 [[ReservoirDynamics]]
 [[Reservoir_Computing]]
+[[SelfOrganizedCriticalityConsciousness]]
 [[Self_Organized_Criticality]]
 [[Spin_Glass_Order_Parameter]]
 [[TCADCalibration]]

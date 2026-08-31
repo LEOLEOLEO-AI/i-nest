@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[OpenLearningEcosystem]]
 [[PhotonicSynapticPlasticity]]
 [[ReconfigurableSpikingRouting]]
+[[ScalableNeuromorphicTopology]]
 [[SelfOrganization]]
 [[Spiking_Neural_Network]]
 [[Swarm_Adaptive_Topology]]

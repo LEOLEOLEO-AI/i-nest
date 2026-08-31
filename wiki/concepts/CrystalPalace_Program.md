@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Intelligence_Verifiability]]
 [[Emergent_Reservoir_Topology]]
+[[Free_Energy_Principle_Network]]
 [[Intelligence_Emergence]]
 [[Loihi2_OnChip_Learning]]
 [[Nanoscale_Precise_Control]]
@@ -55,7 +56,6 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[iMESO_PhysicalCarrier]]
 [[iNEST]]
-[[nanoscale precise control]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

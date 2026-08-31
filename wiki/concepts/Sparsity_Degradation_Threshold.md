@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[DendriticTaskPartitioning]]
 [[Distributed_Spike_Communication]]
 [[DrivenDissipativeDynamics]]
+[[EdgeInspectionInference]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenPlasticity]]
 [[InNetworkAgentRewiring]]

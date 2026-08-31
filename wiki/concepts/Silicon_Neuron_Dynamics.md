@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[EnsembleSparsity]]
+[[Fixed_Cost_Dominance]]
 [[Gut_Brain_Immune_Network]]
 [[Intelligence_Emergence]]
 [[Memristive_Solutions]]

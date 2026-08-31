@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[FourElementEmergenceKernel]]
 [[Generalization_Bound_Spectra]]
 [[GenerativeTopologyModels]]
+[[Hyper_Dimensional_Computing]]
 [[Intelligence_Emergence]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[MultiplicativeGain]]
@@ -51,11 +52,12 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[ScaleFreeNetwork]]
 [[SpatiotemporalComplexityIndex]]
+[[TemporalComplexity]]
 [[ThermalNoiseHarnessing]]
 [[complex system]]
 [[iNEST]]
-[[temporalComplexity]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

@@ -46,14 +46,15 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[SequenceAwareSpikingDetection]]
 [[Spike_Encoding_of_fMRI]]
+[[Spiking neural network]]
 [[SpikingRecurrentCell]]
 [[SpikingRecurrentCells]]
 [[SpikingStateSpaceModel]]
 [[Spiking_Decoder_Tracking]]
 [[Spiking_Neural_Network]]
+[[SpontaneousActivityDynamics]]
 [[TCC]]
 [[iNEST]]
-[[spiking neural network]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[PhaseLockedTopologyMapping]]
 [[Quadratic_Integrate_and_Fire]]
+[[Quadratic_Integrate_and_Fire_Neuron]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]
 [[SDI_STDP]]
@@ -43,7 +44,6 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
-[[network topology design]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

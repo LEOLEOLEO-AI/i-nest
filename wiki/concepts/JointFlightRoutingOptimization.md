@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveCombinerWeighting]]
 [[AdaptiveFunctionalTopology]]
 [[Adaptive_Service_Reconfiguration]]
+[[AmoebaInspiredLocomotion]]
 [[BurstGatedRouting]]
 [[CircuitTopologyEncoding]]
 [[CorticalTypeDiversity]]

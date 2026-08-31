@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[DTGA]]
 [[DataAuthenticityCrisis]]
 [[FlagOS_2_0]]
+[[Free_Energy_Interconnect_Constraint]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
@@ -50,12 +51,13 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]
 [[SpatiotemporalComplexityIndex]]
+[[TemporalComplexity]]
 [[Topology_Interconnect]]
 [[chiplet interconnect]]
 [[complex system]]
 [[iNEST]]
-[[temporalComplexity]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

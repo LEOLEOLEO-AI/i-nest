@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[EmergentRecurrentConnectivity]]
 [[Emergent_Generalization]]
 [[Emergent_Intelligence_Threshold]]
+[[Entangled_Criticality]]
 [[Free_Energy_Topology_Mapping]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
@@ -43,7 +44,6 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
-[[emergent generalization]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

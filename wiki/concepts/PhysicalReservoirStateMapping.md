@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AvalancheTriggeringMechanism]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[CircadianGateModulation]]
+[[Comparative_Formulation_Analysis]]
 [[PhysicalReservoir]]
 [[Reservoir_Computing]]
 [[iNEST]]

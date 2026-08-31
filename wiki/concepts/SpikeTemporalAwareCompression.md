@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[PersonalizedSNN]]
 [[QuantumDeepSupervision]]
 [[SNN]]
+[[SNN_TCC_Integration]]
 [[Spiking_Neural_Network]]
 
 ## Sources

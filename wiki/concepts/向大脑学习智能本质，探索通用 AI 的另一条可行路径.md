@@ -41,7 +41,6 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Network_on_Chip]]
 [[Network_topology_and_interconnection_patterns]]
 [[Neuromorphic_Computing]]
-[[Neuromorphic_computing]]
 [[NoC_SDI]]
 [[Photonic_Chiplet_Interconnect]]
 [[SDI_Bond]]
@@ -65,4 +64,5 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[神经形态脉冲大语言模型（NSLLM）]]
 [[神经形态计算]]
 [[神经网络]]
+[[类脑芯片]]
 [[脉冲神经网络]]

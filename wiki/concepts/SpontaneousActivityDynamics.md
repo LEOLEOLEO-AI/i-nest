@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikingRecurrentCells]]
 [[SpikingStateSpaceModel]]
 [[SpikingTransformer]]
+[[Spiking_Decoder_Tracking]]
 [[Spiking_Neural_Network]]
 [[emergent computation]]
 [[iNEST]]

@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[AI_FullSpectrum_Strategy]]
 [[ActivityPropagationCascade]]
+[[AdaptiveArchitecture]]
 [[AdaptiveEntanglementManagement]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
@@ -50,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[UniversalComputationAtCriticality]]
+[[UniversalComputation]]
 [[topology reconfiguration]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

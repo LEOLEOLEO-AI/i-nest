@@ -36,15 +36,17 @@ Auto-extracted concept from raw material compilation.
 [[DimensionalityReductionForNetworkControl]]
 [[DistinctReentrantPhases]]
 [[ERI_2_0_Strategy]]
+[[Fractal_Scaling]]
+[[ImaginaryGaugePhaseImprint]]
 [[Intelligence_Emergence]]
 [[ManyCore_Neuromorphic_Scaling]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
-[[fractal scaling]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

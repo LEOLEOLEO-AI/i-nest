@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[PhaseLockedTopologyMapping]]
+[[SDI_Bond]]
 [[SDI_iNEST_Interconnect]]
 [[SNN]]
 [[STDP_Integration]]
@@ -40,6 +41,8 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[ST_SNN]]
 [[SpectralSpikeEncoding]]
+[[SpikeBasedInference]]
+[[SpikeEncoding]]
 [[SpikeTimingGradient]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Mamba_Block]]
@@ -50,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[TemporalCodingForPointClouds]]
 [[TemporalContrastEncoding]]
 [[iNEST]]
+[[iNEST_Interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

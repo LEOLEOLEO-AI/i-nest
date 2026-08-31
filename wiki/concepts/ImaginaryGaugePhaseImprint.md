@@ -52,12 +52,14 @@ Auto-extracted concept from raw material compilation.
 [[STDP_iNEST]]
 [[ScaleFreeNetwork]]
 [[Synaptic_Plasticity]]
+[[TCC]]
 [[TopologyDrivenRouting]]
 [[ViewDependentAppearance]]
 [[chiplet interconnect]]
 [[iNEST]]
 [[Γst_Revision]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

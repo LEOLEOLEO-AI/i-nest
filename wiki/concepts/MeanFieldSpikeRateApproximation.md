@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[CorticalWaveRouting]]
 [[EmergencePhaseCitationDynamics]]
+[[FunctionalHardwareComposition]]
 [[Heterogeneous_Integration]]
 [[ITP_STDP]]
 [[Intelligence_Emergence]]

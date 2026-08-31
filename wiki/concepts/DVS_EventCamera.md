@@ -20,16 +20,18 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[ContinualLearningOnNeuromorphic]]
 [[Event_Driven_Architecture]]
 [[In_Network_Neuromorphic]]
 [[NeuromorphicNetworkSecurity]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Planning_Architecture]]
+[[SNN]]
 [[ST_SNN]]
 [[SensorMemoryFusion]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
-[[spiking neural network]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

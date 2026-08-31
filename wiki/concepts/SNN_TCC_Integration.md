@@ -40,13 +40,13 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[SNN_Topology_Integration]]
 [[Spike_Encoding_of_fMRI]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[StructuralPriorEncoding]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[Topology_Centric_Neuromorphic]]
-[[neuromorphic computing]]
-[[spiking neural network]]
+[[Topology_Centric_Neuromorphic_Integration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

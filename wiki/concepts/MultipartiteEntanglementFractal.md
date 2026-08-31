@@ -36,13 +36,15 @@ Auto-extracted concept from raw material compilation.
 [[DiscreteScaleInvariance]]
 [[ErrorSuppressedPipeline]]
 [[HierarchicalReservoirDynamics]]
+[[Monitored_Quantum_Circuits]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
+[[ReservoirDynamics]]
 [[Reservoir_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]
+[[TriAxiomCalibration]]
 [[iNEST]]
-[[monitored quantum circuits]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

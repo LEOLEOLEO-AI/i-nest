@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[BioPlausiblePredictiveCoding]]
 [[BurstGatedRouting]]
+[[Cognitive_Relapse_Decoupling]]
 [[Continual_Learning_Modularity]]
 [[Criticality]]
 [[EdgeOfChaosComputation]]
@@ -46,7 +47,6 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Self_Organized_Criticality]]
 [[TopologicalAndersonChernInsulator]]
-[[criticality]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -28,6 +28,8 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_ProjectManager_Model]]
 [[DynamicalSelfDualCriticality]]
 [[EndToEndTopologyLearning]]
+[[Fractal_Scaling]]
+[[Intelligence_Emergence]]
 [[LeftRightAsymmetry]]
 [[Memristor_Synapse]]
 [[Multifractal_Scaling_Behaviour]]
@@ -38,13 +40,12 @@ Auto-extracted concept from raw material compilation.
 [[SDDE_Attractor_Emergence]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
+[[STDP_iNEST_Memristive]]
 [[SelfOrganizedRobustness]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
-[[fractal_Scaling]]
 [[iNEST]]
-[[neuromorphic computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -41,15 +41,16 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicHardwareDeployment]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
+[[NeuronModelComparativeAnalysis]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[Spike_Encoding_of_fMRI]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TemporalLearning]]
 [[complex system]]
 [[iNEST]]
-[[spiking neural network]]
 [[神经网络]]
 
 ## Sources

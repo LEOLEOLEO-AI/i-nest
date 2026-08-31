@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[BranchingRatio]]
 [[Categorical_Reservoir_Model]]
 [[CoexistencePhaseDiagram]]
+[[CoexistencePhaseTransition]]
 [[CoupledOscillatorReservoir]]
 [[CriticalStateReservoir]]
 [[DivergentHigherAreaRanking]]
@@ -44,7 +45,6 @@ Auto-extracted concept from raw material compilation.
 [[ReservoirComputingModel]]
 [[Reservoir_Computing]]
 [[iNEST]]
-[[reservoir computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

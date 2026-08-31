@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_Theory_V27_FINAL]]
 [[Complex_System_Theory]]
 [[CriticalFixedPoint]]
+[[CriticalityDrivenLearning]]
 [[CriticalityOnSmallWorlds]]
 [[Criticality]]
 [[Criticality_Avoidance_Theory]]
@@ -41,9 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[NishimoriLine]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Self_Organized_Criticality]]
-[[boundary criticality]]
 [[complex system]]
-[[criticality]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

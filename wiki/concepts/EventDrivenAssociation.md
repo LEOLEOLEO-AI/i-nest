@@ -33,14 +33,15 @@ Auto-extracted concept from raw material compilation.
 [[BulletTrainScheduling]]
 [[CoOptimizedMappingScheduling]]
 [[Continuous_Control_Spiking_Stability]]
+[[CriticalityInducedComputationalCapacity]]
 [[Criticality]]
 [[DiscreteContinuous_Unification]]
 [[SNN]]
+[[SOC]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]
-[[soc]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

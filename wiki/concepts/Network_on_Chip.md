@@ -37,8 +37,10 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Topology_Mapping]]
 [[GranularCortexExclusion]]
 [[Heterogeneous_Integration]]
+[[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Integration]]
 [[Memory_Wall]]
+[[Memristive_STDP]]
 [[Network_Topology_Design]]
 [[Network_on_Chip_communication_architecture]]
 [[Network_topology_and_interconnection_patterns]]
@@ -66,11 +68,9 @@ Auto-extracted concept from raw material compilation.
 [[Topology_Constrained_Stability_Analysis]]
 [[Topology_Interconnect]]
 [[chiplet interconnect]]
-[[heterogeneous_integration]]
 [[iNEST]]
 [[iNEST_Wafer]]
 [[residual connection]]
-[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

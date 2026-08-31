@@ -42,11 +42,13 @@ Auto-extracted concept from raw material compilation.
 [[NanoparticleNetwork]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Optimal_Representation_Encoding]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[AdvancedPackagingInterconnect]]
 [[Advanced_Packaging_Route]]
 [[Advanced_Packaging_for_Space]]
+[[Allreduce_Latency_Diagnostic]]
 [[Bipartite_Interconnect]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]

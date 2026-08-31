@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Epithelial_Barrier_Integrity]]
 [[FirstPrinciples_AI]]
 [[Generalization_Bound_Spectra]]
+[[Hyper_Dimensional_Computing]]
 [[Intelligence_Emergence]]
 [[MasterEquationRG]]
 [[NCL神经计算定律详解]]

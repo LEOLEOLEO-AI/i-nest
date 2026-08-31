@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[ConventionalAndSpikingDualMode]]
 [[CriticalityInducedComputationalCapacity]]
 [[Criticality]]
+[[DeepCode_AlgorithmExtraction]]
 [[DiscreteContinuous_Unification]]
 [[SNN]]
 [[Self_Organized_Criticality]]

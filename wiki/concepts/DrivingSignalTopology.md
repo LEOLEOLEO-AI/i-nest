@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_Theory_V27_FINAL]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
+[[CoPackagedOptics]]
 [[Cognitive_Relapse_Decoupling]]
 [[CollectiveStateTopology]]
 [[Complex_System_Theory]]
@@ -45,7 +46,6 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Self_Organized_Criticality]]
 [[TCC]]
-[[criticality]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

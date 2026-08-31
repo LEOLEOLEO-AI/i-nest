@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[MacroscopicDescriptor]]
 [[Memristive_ANN_Hardware]]
+[[Memristor_Network]]
 [[Memristor_Synapse]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[MetricComputationAuthenticity]]
@@ -46,7 +47,6 @@ Auto-extracted concept from raw material compilation.
 [[National_Innovation_Center_Role]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
-[[Neuromorphic_computing]]
 [[Nonlinear_Gain]]
 [[Order_Flexibility_Duality]]
 [[RecursiveSelfReferentialArchitecture]]
@@ -63,10 +63,10 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]
+[[TemporalComplexity]]
 [[complex system]]
 [[iNEST]]
 [[residual connection]]
-[[temporalComplexity]]
 [[三原理协同_FEP_STDP_最小作用量]]
 
 ## Sources

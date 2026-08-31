@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Topology]]
 [[SparsityAwareInterconnect]]
 [[TCC]]
+[[WaferScale_Chiplet_Interconnect]]
 [[WideLink_NoC_Router]]
 [[advanced packaging]]
 [[chiplet interconnect]]

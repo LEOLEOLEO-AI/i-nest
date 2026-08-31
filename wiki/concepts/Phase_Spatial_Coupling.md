@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AlternativeBridgingModels]]
 [[AnisotropicGaussianPrimitives]]
 [[AnomalousSpinTransport]]
 [[Bidirectional_Temporal_Enhancement]]
@@ -46,11 +47,9 @@ Auto-extracted concept from raw material compilation.
 [[STDP_iNEST]]
 [[SpikeTimingFidelity]]
 [[Spiking_Neural_Network]]
-[[Spiking_neural_network]]
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
-[[neuromorphic computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

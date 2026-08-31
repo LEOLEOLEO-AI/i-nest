@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[CorticalWaveRouting]]
 [[Environmental_Capability_Context]]
+[[Hebbian_Embedding_Dynamics]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Memristive_STDP]]

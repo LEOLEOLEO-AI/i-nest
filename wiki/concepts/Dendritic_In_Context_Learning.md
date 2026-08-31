@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[AdaptiveFrequencyResonateFire]]
 [[AdaptiveSTDP]]
+[[AdaptiveSpeechToSpikeEncoding]]
 [[AdaptiveTimeStepTraining]]
 [[Adaptive_EW_Neuromorphic_Controller]]
 [[AnisotropicGaussianPrimitives]]
@@ -50,11 +51,11 @@ Auto-extracted concept from raw material compilation.
 [[STDP_iNEST]]
 [[Scale_Dependent_Coherence]]
 [[Spike_Encoding_of_fMRI]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[Syncytial_Mesh]]
 [[iNEST]]
-[[spiking neural network]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

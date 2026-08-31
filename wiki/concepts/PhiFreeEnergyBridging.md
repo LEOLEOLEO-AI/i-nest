@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_FullSpectrum_Strategy]]
 [[AI人工智能 卷积神经网络（CNN）_w3cschool]]
 [[ANN动力学]]
+[[AdversarialSensingResilience]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[AttractorNeuralNetwork]]
@@ -53,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AnalogDomainCompression]]
 [[Categorical_Closure_Criterion]]
 [[CombinatorialOptimizationReservoirMapping]]
+[[ConsciousIntegration]]
 [[CouplingTopologyInducedDynamics]]
 [[CriticalStateReservoir]]
 [[Criticality]]

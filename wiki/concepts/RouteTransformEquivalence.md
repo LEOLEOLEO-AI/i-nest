@@ -53,10 +53,12 @@ Auto-extracted concept from raw material compilation.
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
 [[TCC]]
+[[TemporalComplexity]]
+[[Wafer_Scale_Packaging]]
 [[YieldOptimizedPhysicalDesign]]
 [[chiplet interconnect]]
-[[temporalComplexity]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

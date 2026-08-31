@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_InMemory_Processing]]
 [[Anisotropic_Square_Lattice]]
 [[AnomalousLocalization]]
+[[ApproximantLattice]]
 [[CircuitSynthesis]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
@@ -47,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

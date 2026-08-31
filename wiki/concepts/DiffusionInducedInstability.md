@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicCentralitySteering]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeOfChaos]]
+[[Emergent_Intelligence_Roadmap]]
 [[Fixed_Cost_Dominance]]
 [[FormalLinguisticCompetence]]
 [[HierarchicalBayesianCommunityDetection]]

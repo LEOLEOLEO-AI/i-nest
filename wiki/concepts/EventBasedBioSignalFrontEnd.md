@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDataNonUniformity]]
 [[EventDrivenAutoregression]]
 [[EventDrivenDefenseMechanism]]
+[[EventDrivenGraphTraversal]]
 [[EventDrivenInference]]
 [[Event_Driven_Architecture]]
 [[In_Network_Neuromorphic]]
@@ -37,9 +38,9 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[Neuromorphic_Planning_Revolution]]
 [[SNN]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
-[[spiking neural network]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

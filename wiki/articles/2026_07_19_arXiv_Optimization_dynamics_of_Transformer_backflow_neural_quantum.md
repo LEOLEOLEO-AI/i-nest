@@ -19,4 +19,3 @@ TCC, iNEST
 [[TCC]]
 [[iNEST]]
 [[neural quantum states]]
-[[tcc]]

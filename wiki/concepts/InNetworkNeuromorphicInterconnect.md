@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN_to_SNN_Conversion_Error_Amplification]]
 [[AnomalousSpinTransport]]
 [[BrainActivityPrediction]]
+[[BrownianCastleInterface]]
 [[CSI_Temporal_Encoding]]
 [[CollectiveStateResilience]]
 [[ConsciousnessEngineeringLoop]]
@@ -47,7 +48,6 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[branch prediction]]
-[[neuromorphic computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

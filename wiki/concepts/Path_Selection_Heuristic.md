@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration_Route]]
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Stacking]]
+[[CoPackagedOptics]]
 [[Complex_System_Theory]]
 [[DTGA]]
 [[Heterogeneous_Integration]]

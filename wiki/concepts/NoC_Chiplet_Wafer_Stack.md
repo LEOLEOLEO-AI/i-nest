@@ -47,7 +47,6 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[Network_topology_and_interconnection_patterns]]
 [[Neuromorphic_Computing]]
-[[Neuromorphic_computing]]
 [[NoC_SDI]]
 [[NonAbelian_Gauge_Topology]]
 [[Nonlinear_Gain]]
@@ -64,6 +63,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_iNEST]]
 [[Second_Curve_Industry_Platform]]
 [[Spacetime_Coupling_Coefficient]]
+[[SparseTemporalEncoding]]
 [[SpatiotemporalComplexityIndex]]
 [[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]
@@ -74,7 +74,6 @@ Auto-extracted concept from raw material compilation.
 [[chiplet interconnect]]
 [[iNEST]]
 [[residual connection]]
-[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

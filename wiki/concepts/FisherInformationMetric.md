@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
+[[Post_Moore_Paradigm]]
 [[QuantumReservoirMemoryCapacity]]
 [[Reservoir_Computing]]
 [[Switch_Chiplet_Integration]]

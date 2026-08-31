@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[LocalLearning_SynapticUpdate]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Organization]]
+[[Neuromorphic_Planning_Architecture]]
 [[SNN]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]

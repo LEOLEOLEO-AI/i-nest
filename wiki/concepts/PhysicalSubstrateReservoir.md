@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Complex_Network_Brain_Inspired_Computing]]
 [[Complex_System_Theory]]
+[[DARPA_ProjectManager_Model]]
 [[DrivenDissipativeDynamics]]
 [[Emergent_Intelligence_Threshold]]
 [[FPGA_Neuromorphic_Acceleration]]
@@ -54,7 +55,6 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[emerging CMOS memristor]]
 [[iNEST]]
-[[reservoir computing]]
 [[神经网络]]
 [[类脑芯片]]
 

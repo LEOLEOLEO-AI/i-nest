@@ -32,16 +32,18 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenRiskAssessment]]
 [[EventDrivenTracking]]
 [[Event_Driven_Architecture]]
+[[Event_Driven_Communication]]
 [[FoveationGuidedTokenSelection]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
+[[Spiking_neural_network_dynamics]]
 [[TCC]]
 [[iNEST]]
-[[spiking neural network]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

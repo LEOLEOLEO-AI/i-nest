@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[CorticalTravelingWave]]
 [[CorticalTravelingWaves]]
 [[CrossLayer_SignalRouting]]
+[[DirectTrainingSNN]]
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]
 [[Nonlinear_Gain]]

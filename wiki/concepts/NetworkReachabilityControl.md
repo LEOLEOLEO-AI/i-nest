@@ -42,9 +42,10 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
+[[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[iNEST]]
-[[spiking neural network]]
 [[神经网络]]
 
 ## Sources

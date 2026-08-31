@@ -54,8 +54,10 @@ Auto-extracted concept from raw material compilation.
 [[SDI_iNEST_Topology]]
 [[SpatiotemporalComplexityIndex]]
 [[SystemLevelNonlinearity]]
+[[TemporalComplexity]]
+[[Textbook_Paradigm_Definition]]
 [[iNEST]]
-[[temporalComplexity]]
+[[iNEST_Topology]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

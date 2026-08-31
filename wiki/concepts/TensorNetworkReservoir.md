@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[CoexistencePhaseDiagram]]
 [[CoupledOscillatorReservoir]]
 [[Coupling_Strength_Encoding]]
+[[DataDrivenMaterialDesign]]
 [[DivergentHigherAreaRanking]]
 [[Emergent_Intelligence_Threshold]]
 [[EvolutionaryReservoirOptimization]]
@@ -50,7 +51,6 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[TimeSeriesPrediction]]
 [[TopologicalAndersonChernInsulator]]
-[[reservoir computing]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

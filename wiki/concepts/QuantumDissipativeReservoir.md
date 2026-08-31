@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Spatiotemporal_Synergy]]
 [[Network_Topology_Design]]
+[[NoC_Chiplet_Wafer_Stack]]
 [[Nonlinear_Gain]]
 [[P_Paradigm]]
 [[Pipelined_Processor_Integration]]
@@ -53,7 +54,6 @@ Auto-extracted concept from raw material compilation.
 [[emerging CMOS memristor]]
 [[pipelined processor]]
 [[reservoir computing architecture]]
-[[reservoir computing]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

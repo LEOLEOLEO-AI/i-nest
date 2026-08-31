@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[NonreciprocalQuasiperiodicLattice]]
+[[OpenLearningEcosystem]]
 [[Pods4Rail_Topology]]
 [[Receptron_Unit]]
 [[RecursiveSelfReferentialArchitecture]]

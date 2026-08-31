@@ -36,9 +36,10 @@ Auto-extracted concept from raw material compilation.
 [[Biological_Circuit_Formalization]]
 [[Biological_Neural_Circuit_Formalization]]
 [[BoseCondensateNeuralAnalogy]]
+[[BosonicFieldTopology]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
-[[Ising formulation]]
+[[Ising_Formulation]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
@@ -48,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

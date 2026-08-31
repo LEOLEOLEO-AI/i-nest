@@ -38,7 +38,6 @@ Auto-extracted concept from raw material compilation.
 [[Meta_Residual_Learning]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
-[[Neuromorphic_computing]]
 [[Nonlinear_Gain]]
 [[PopulationDensityApproximation]]
 [[QuantumChaos]]
@@ -47,11 +46,12 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[STDP_Plasticity]]
 [[ScaleFreeNetwork]]
+[[Spike_Timing_Dependent_Plasticity]]
 [[Spike_timing_dependent_plasticity_learning_rule]]
 [[Spiking_Neural_Network]]
+[[Spiking_neural_network_dynamics]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
-[[neuromorphic computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

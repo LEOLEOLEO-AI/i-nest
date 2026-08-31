@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[ArbitraryWavefunctionConfigurability]]
 [[ArchitecturalCondition]]
 [[Biologically_Plausible_Learning_Rules]]
+[[Course_Based_FPGA_Projects]]
 [[CriticalityDrivenAdaptation]]
 [[Criticality]]
 [[Criticality_Induced_Plasticity]]

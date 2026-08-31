@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TemporalSparsityExploitation]]
 [[iNEST]]
+[[iNEST_Neuromorphic_Integration]]
 [[neuromorphic interconnect]]
 
 ## Sources

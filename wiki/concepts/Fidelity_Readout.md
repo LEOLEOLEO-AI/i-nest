@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AnisotropicGaussianPrimitives]]
 [[AnomalousSpinTransport]]
 [[CouplingMatrixRecovery]]
+[[CouplingTopologyMemoryLink]]
 [[Reservoir_Computing]]
 [[TCC]]
 [[iNEST]]

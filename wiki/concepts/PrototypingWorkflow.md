@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[CircadianGateModulation]]
 [[Comparative_Formulation_Analysis]]
+[[Course_Based_FPGA_Projects]]
 [[Critical_Exponent_Scaling]]
 [[DendriticReservoirState]]
 [[DynamicNeuralManifolds]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Epithelial_Barrier_Integrity]]
 [[Ethical_AI_Constraints]]
 [[ForwardFluctuationGradient]]
+[[FunctionalInterfaceBlock]]
 [[FunctionalInterfaceBlocks]]
 [[Heterogeneous_Integration]]
 [[IntegratedSensingFusion]]
@@ -52,7 +54,6 @@ Auto-extracted concept from raw material compilation.
 [[SuperparamagneticSwitchingRate]]
 [[TOOLS]]
 [[TwoTimescaleNeuroEvolution]]
-[[tools]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

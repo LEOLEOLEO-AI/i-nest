@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[HypergraphRumorPropagation]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
+[[Network_on_Chip_communication_architecture]]
 [[NoC_Chiplet_Integration]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[NoC_Chiplet_iNEST_Wafer]]

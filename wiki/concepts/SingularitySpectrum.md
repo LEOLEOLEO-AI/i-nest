@@ -39,9 +39,11 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicLocomotionPrimitive]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]
+[[SDI_Bond]]
 [[SDI_STDP]]
+[[SDI_STDP_Rule]]
+[[STDP_Plasticity]]
 [[iNEST]]
-[[reservoir computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

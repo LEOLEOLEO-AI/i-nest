@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[NearlyLosslessANNtoSNN]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicHardware]]
+[[NeuromorphicPnP]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]

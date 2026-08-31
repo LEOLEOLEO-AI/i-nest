@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
+[[Γst_Revision]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

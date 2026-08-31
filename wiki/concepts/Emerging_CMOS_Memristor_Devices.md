@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[HierarchicalNetworkPartitioning]]
 [[In_Memory_Computing]]
+[[LIF_Neuron_Model]]
 [[Memristive_ANN_Hardware]]
 [[Memristive_Interconnect]]
 [[Memristor_Hardware_ANN]]

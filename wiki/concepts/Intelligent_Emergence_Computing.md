@@ -46,14 +46,14 @@ Auto-extracted concept from raw material compilation.
 [[QuantumSpikingNeuron]]
 [[RenormalizationGroup_ScalingLaws]]
 [[ScalableNeuromorphicTopology]]
+[[SparseTemporalEncoding]]
 [[SpatiotemporalComplexityIndex]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
-[[Spiking_neural_network]]
 [[TCC]]
 [[TCC_Neuromorphic_Integration]]
+[[TemporalComplexity]]
 [[iNEST]]
-[[temporalComplexity]]
 [[神经网络]]
 
 ## Sources

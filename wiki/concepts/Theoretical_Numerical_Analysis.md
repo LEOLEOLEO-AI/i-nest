@@ -38,10 +38,12 @@ Auto-extracted concept from raw material compilation.
 [[IMPLYMemristiveISA]]
 [[In_Package_Neuromorphic_Integration]]
 [[Long_Range_Interactions]]
+[[Memristive_CAM_Indexing]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[P_Paradigm]]
-[[soc]]
+[[SOC]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

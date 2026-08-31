@@ -48,12 +48,14 @@ Auto-extracted concept from raw material compilation.
 [[NCL神经计算定律详解]]
 [[Network_Topology_Design]]
 [[STDP_Plasticity]]
+[[ScaledTorusTrainingLimit]]
 [[SelfHealing_Interconnect]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[complex system]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

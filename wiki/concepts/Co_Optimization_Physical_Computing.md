@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[ErrorSuppressedPipeline]]
 [[HierarchicalReservoirDynamics]]
 [[MultipartiteEntanglementFractal]]
+[[Nanoencapsulation_PhaseTransition]]
 [[Nonlinear_Gain]]
 [[ReservoirDynamics]]
 [[Reservoir_Computing]]

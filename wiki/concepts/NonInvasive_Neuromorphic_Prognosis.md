@@ -28,7 +28,6 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[DiscreteContinuous_Unification]]
 [[Dynamic_Expert_Fusion]]
-[[EEG criticality]]
 [[EEG_Criticality]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
@@ -43,10 +42,8 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[complex system]]
-[[criticality]]
-[[neuromorphic computing]]
-[[sleep EEG criticality]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[集合通信NaaS完整报告]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -38,10 +38,12 @@ Auto-extracted concept from raw material compilation.
 [[SDI_STDP]]
 [[SNN]]
 [[STDP_Plasticity]]
+[[SpikingMOT]]
 [[SpikingMotorControl]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[Syncytial_Mesh]]
+[[Syncytial_Mesh_Model]]
 [[iNEST]]
 
 ## Sources

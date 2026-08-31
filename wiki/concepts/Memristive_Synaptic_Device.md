@@ -46,6 +46,8 @@ Auto-extracted concept from raw material compilation.
 [[忆阻器]]
 [[智能涌现]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
+[[神经形态计算突破：脉冲神经网络实现机器人超低功耗定位新范式]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

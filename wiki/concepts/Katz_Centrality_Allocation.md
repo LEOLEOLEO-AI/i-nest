@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Inference_Workload_Profiling]]
 [[InputAdaptiveComputation]]
+[[MemoryDrivenVectorFlowFieldRouting]]
 [[MonitoredNonInteractingFermions]]
 [[Network_Topology_Design]]
 [[SelfOrganization]]

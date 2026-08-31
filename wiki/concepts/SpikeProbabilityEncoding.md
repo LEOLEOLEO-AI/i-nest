@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Prior_Resolution]]
 [[CorticalWaveRouting]]
 [[ElasticInferenceScheduling]]
+[[EventCameraTemporalEncoding]]
 [[Flexible_Spike_Routing]]
 [[GraphGeometryAlignment]]
 [[GroupSynchronization]]

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Layered_Attractive_Hubbard_Model]]
 [[MembranePotentialModulation]]
 [[Memristor_Synapse]]
+[[Meta_Residual_Learning]]
 [[Nanoencapsulation_Stability_Bioavailability]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
@@ -53,7 +54,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TemporalPrecisionParallelism]]
 [[iNEST]]
-[[neuromorphic computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

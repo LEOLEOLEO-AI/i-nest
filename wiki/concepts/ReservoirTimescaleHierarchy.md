@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Nanoscale_Memristive_Threats]]
 [[Network_Topology_Design]]
 [[PhysicalReservoir]]
+[[PowerLawScalingClassification]]
 [[PowerLawScaling]]
 [[QuantumReservoirMemoryCapacity]]
 [[Reservoir_Computing]]

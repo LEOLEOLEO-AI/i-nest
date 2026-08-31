@@ -39,12 +39,12 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[JointFlightRoutingOptimization]]
 [[LLMDrivenPathSelection]]
+[[MeasurementInducedLinearity]]
 [[Network_Topology_Design]]
 [[Quantum_Criticality]]
 [[SelfOrganization]]
 [[Self_Organized_Criticality]]
 [[TCC]]
-[[criticality]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -30,14 +30,14 @@ Auto-extracted concept from raw material compilation.
 [[ActiveInference]]
 [[ActiveSpikingPerception]]
 [[AdaptersInSpikingNetworks]]
+[[AstrocyteInspiredRepair]]
 [[Complex_System_Theory]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
-[[neuromorphic computing]]
-[[spiking neural network]]
 [[神经网络]]
 
 ## Sources

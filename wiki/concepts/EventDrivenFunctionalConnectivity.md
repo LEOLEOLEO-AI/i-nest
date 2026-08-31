@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SDI节点接口规范与化合键定义]]
+[[SOC]]
 [[STDPDrivenTemporalBinding]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]
@@ -52,8 +53,10 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Timing_Dependent_Plasticity]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
+[[Syncytial_Mesh]]
 [[Syncytial_Mesh_Model]]
 [[TCC]]
+[[TemporalLearning]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

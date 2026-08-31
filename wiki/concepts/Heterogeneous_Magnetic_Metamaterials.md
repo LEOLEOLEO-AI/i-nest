@@ -31,9 +31,12 @@ Auto-extracted concept from raw material compilation.
 [[Decoupling_Mechanism]]
 [[Evolving_System_Adaptation]]
 [[Free_Energy_Topology_Mapping]]
+[[FunctionalInterfaceBlock]]
 [[FunctionalInterfaceBlocks]]
 [[Heterogeneous_Integration]]
+[[NCL神经计算定律详解]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
 [[NoC_Chiplet_iNEST_Wafer]]
 [[Nonlinear_Gain]]
 [[Reconfigurable_Nonlinear_Reservoir]]
@@ -42,7 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TemperatureSensitivityControl]]
 [[iNEST]]
-[[reservoir computing]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

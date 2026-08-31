@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Bias_Origin_Taxonomy]]
 [[CellularSheaf]]
 [[Chiplet_Heterogeneous_Integration]]
+[[ChiralSurfaceFermiProjection]]
 [[Complex_System_Theory]]
 [[DARPA_ERI]]
 [[Heterogeneous_Integration]]
@@ -44,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[TCC]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

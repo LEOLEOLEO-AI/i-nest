@@ -48,9 +48,9 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[SpikeTimingFidelity]]
 [[Spiking_Neural_Network]]
+[[SurrogateGradientMethod]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
-[[neuromorphic computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

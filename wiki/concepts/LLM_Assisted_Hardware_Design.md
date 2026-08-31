@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[DendriticReservoirState]]
 [[DualTopologyProductSplit]]
 [[ERI_2_0_Strategy]]
+[[Fading_Memory_Property]]
 [[GroupWise_DragonflyPlus]]
 [[Heterogeneous_Integration]]
 [[Heterogeneous_P_D_Inference]]
@@ -57,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[complex system]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

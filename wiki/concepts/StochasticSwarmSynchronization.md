@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[BitPrecisionAwareScheduling]]
+[[BurstInterleaving]]
 [[CognitiveSupportTopology]]
 [[CollectiveConsensus]]
 [[CollectiveDynamics]]

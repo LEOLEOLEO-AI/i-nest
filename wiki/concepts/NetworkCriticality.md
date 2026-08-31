@@ -32,14 +32,13 @@ Auto-extracted concept from raw material compilation.
 [[CriticalRegimeReservoir]]
 [[Critical_Exponent_Scaling]]
 [[CriticalityEntanglementIndex]]
+[[CriticalityInducedTopology]]
 [[Criticality]]
 [[Network_Topology_Design]]
 [[Reservoir_Computing]]
 [[Self_Organized_Criticality]]
 [[TCC]]
-[[criticality]]
 [[iNEST]]
-[[reservoir computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

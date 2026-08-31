@@ -33,15 +33,15 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[LocalQuantumLearningRule]]
 [[Memristor_Synapse]]
+[[Meta_Residual_Learning]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
 [[SDDE_Attractor_Emergence]]
 [[SNN]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
-[[neuromorphic computing]]
-[[spiking neural network]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

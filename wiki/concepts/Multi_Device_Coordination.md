@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicHardware]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
+[[NeurovascularUnitEngineering]]
 [[OpenCodex_Upgrade_Path]]
 [[Reservoir_Computing]]
 [[SNN]]

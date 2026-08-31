@@ -35,17 +35,15 @@ Auto-extracted concept from raw material compilation.
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
-[[Neuromorphic_computing]]
 [[Reservoir_Computing]]
 [[STDP_Plasticity]]
-[[Spike_timing_dependent_plasticity]]
+[[Spike_Timing_Dependent_Plasticity]]
 [[Spike_timing_dependent_plasticity_learning_rule]]
 [[Spiking_Neural_Network]]
-[[Spiking_neural_network]]
+[[Spiking_neural_network_dynamics]]
 [[Synaptic_Plasticity]]
 [[complex system]]
 [[iNEST]]
-[[neuromorphic computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

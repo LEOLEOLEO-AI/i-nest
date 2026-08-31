@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[GenerationalAITransition]]
 [[Intelligence_Emergence]]
 [[LLM_TopologicalReplicationGap]]
+[[Material_Circularity]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
@@ -54,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

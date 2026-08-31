@@ -33,13 +33,13 @@ Auto-extracted concept from raw material compilation.
 [[EnergyEfficientNeuromorphicDesign]]
 [[EnergyEfficientNeuromorphic]]
 [[Event_Driven_Architecture]]
+[[Hybrid_ANN_SNN_Pipeline]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
-[[neuromorphic computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

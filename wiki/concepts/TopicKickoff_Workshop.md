@@ -20,8 +20,8 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[StrategicConsulting_Project]]
 [[TCC]]
-[[strategic consulting project]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

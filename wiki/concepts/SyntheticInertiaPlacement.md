@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveBitPrecisionExploration]]
 [[AdaptiveCompetingInteractions]]
 [[AdaptiveDensityControl]]
+[[AmoebaInspiredLocomotion]]
 [[Contested_Priors_Mechanism]]
 [[CriticalityDrivenStateTransition]]
 [[Criticality]]

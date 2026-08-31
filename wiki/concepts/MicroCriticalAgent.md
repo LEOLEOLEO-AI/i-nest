@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[Minimal_Computational_Unit]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
@@ -43,10 +44,10 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[complex system]]
-[[criticality]]
 [[iNEST]]
-[[minimal computational unit]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
+[[集合通信NaaS完整报告]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

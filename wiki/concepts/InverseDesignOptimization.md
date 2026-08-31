@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[NoC_TopologyMapping]]
 [[NoC_Topology]]
+[[PhysicalWaferTriplet]]
 [[RecursiveSelfReferentialArchitecture]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]

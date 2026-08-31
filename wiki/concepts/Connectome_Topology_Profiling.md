@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[3D_Airborne_Connectivity_Characterization]]
 [[AI-ML — 全景导航 (Map of Content)]]
 [[AI_FullSpectrum_Strategy]]
+[[Additive_Manufacturing_Defense_Trinity]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[BackflowTransformation]]
@@ -51,7 +52,6 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Weight_Pruning_by_Connectivity_Statistics]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
-[[connectome]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

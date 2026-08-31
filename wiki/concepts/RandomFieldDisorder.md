@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[ComputeRelocationOverhead]]
 [[CriticalSlowingDown]]
+[[Distributed_Sinkhorn_Iteration]]
 [[Dynamic_Expert_Fusion]]
 [[Free_Energy_Synchronization]]
 [[Heterogeneous_Integration]]
@@ -56,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

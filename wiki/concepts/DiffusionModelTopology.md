@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Antiferromagnetic_Topological_Anderson_Insulator]]
 [[ArchitecturalIllusion]]
 [[Architectural_Conditioning]]
+[[Associative_Memory_Unification]]
 [[Complex_System_Theory]]
 [[EdgeIoTEnergyAwareness]]
 [[Intelligence_Emergence]]
@@ -57,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

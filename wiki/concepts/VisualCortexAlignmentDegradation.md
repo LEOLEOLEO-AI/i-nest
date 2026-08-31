@@ -34,12 +34,16 @@ Auto-extracted concept from raw material compilation.
 [[BackflowTransformation]]
 [[BandedConnectivityModel]]
 [[BigBrain3DHistology]]
+[[Biologically_Plausible_Learning_Rules]]
+[[Brain_Connectome]]
 [[Complex_Network_Class_Brain_Computing]]
 [[Complex_System_Theory]]
+[[Connectome]]
 [[Connectome_Reservoir]]
+[[EvolutionaryReservoirLearning]]
 [[Neuromorphic_Computing]]
+[[Reservoir_Computing]]
 [[Spiking_Neural_Network]]
-[[biologically plausible learning rules]]
 [[iNEST]]
 
 ## Sources

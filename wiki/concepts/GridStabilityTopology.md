@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveArchitecture]]
 [[AgenticServiceOrchestration]]
 [[Allreduce_Latency_Probe]]
+[[Ant_Swarm_Functional_Control]]
 [[ArchitecturalCondition]]
 [[Architectural_Conditioning]]
 [[Constructed_Reality_Interconnect]]

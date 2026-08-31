@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[STDP_Plasticity]]
 [[SaliencyDrivenAttention]]
+[[SparseActivationSkipping]]
 [[Spike_Encoding_of_fMRI]]
 [[SpikingTransformer]]
 [[Spiking_Mamba_Block]]

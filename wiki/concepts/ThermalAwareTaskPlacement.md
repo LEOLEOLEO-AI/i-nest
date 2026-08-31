@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Thermalisation]]
 [[DendriticReservoirState]]
 [[Dendritic_Compartmentalization]]
+[[DeviceLevelNonlinearityScaling]]
 [[Dynamic_Expert_Fusion]]
 [[Evolutionary_Structure_Computability]]
 [[Memristive_Topology]]

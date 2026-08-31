@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN动力学]]
 [[ActiveMatterSubstrate]]
 [[AgentReputationGraph]]
+[[AndersonLocalizationTopology]]
 [[Complex_System_Theory]]
 [[ConformalFieldTheoryScaling]]
 [[DynamicalMeanFieldAnalysis]]
@@ -47,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologyDynamicsCoupling]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

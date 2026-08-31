@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetwork_RL_Control]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[MatrixShapePhaseTransition]]
 [[Model_Routing_Protocol]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
@@ -53,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

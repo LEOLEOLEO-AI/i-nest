@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
+[[Memristor_Synapse]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[National_Innovation_Center_Role]]
 [[Network_Specific_Embedding_Separation]]
@@ -52,10 +53,10 @@ Auto-extracted concept from raw material compilation.
 [[TopologicalOrderLearning]]
 [[TwoModeStochasticOscillator]]
 [[iNEST]]
-[[ineSt]]
 [[忆阻器]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[神经网络]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

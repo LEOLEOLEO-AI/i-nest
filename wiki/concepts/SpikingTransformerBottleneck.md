@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[OpenSource_Neuromorphic_Framework]]
 [[PerturbationSpaceTrajectory]]
+[[ReSCom_Accelerator]]
 [[SNN]]
 [[SpikingTransformer]]
 [[Spiking_Neural_Network]]

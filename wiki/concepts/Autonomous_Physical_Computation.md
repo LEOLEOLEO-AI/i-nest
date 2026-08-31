@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[ConnectomeWiringSeparability]]
 [[Connectome]]
 [[Connectome_Constrained_Neural_Architecture]]
+[[Connectome_Reservoir]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]

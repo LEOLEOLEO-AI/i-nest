@@ -39,8 +39,10 @@ Auto-extracted concept from raw material compilation.
 [[FirstPrinciples_Derivation]]
 [[Heterogeneous_Integration]]
 [[HigherOrderStochasticProcess]]
+[[In_Network_Neuromorphic_Offload]]
 [[LIF_Neuron_Model]]
 [[Memristive_Spike_Integration]]
+[[Memristor_Crossbar_Array]]
 [[Memristor_Synapse]]
 [[Nature_Electronics_Neuromorphic_Validation]]
 [[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]
@@ -51,7 +53,6 @@ Auto-extracted concept from raw material compilation.
 [[analog computation]]
 [[complex system]]
 [[iNEST]]
-[[memristor crossbar array]]
 [[神经网络]]
 
 ## Sources

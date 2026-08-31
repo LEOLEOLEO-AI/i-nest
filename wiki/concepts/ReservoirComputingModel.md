@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[DataDrivenMaterialDesign]]
 [[DivergentHigherAreaRanking]]
 [[ErrorSuppressedPipeline]]
+[[Fixed_Reservoir_Unitary]]
 [[FrequencyBasedReservoir]]
 [[Globally_Optimal_SNN_Training]]
 [[HardwareAware_DesignSpace]]
@@ -48,7 +49,6 @@ Auto-extracted concept from raw material compilation.
 [[branch prediction]]
 [[emerging CMOS memristor]]
 [[iNEST]]
-[[neuromorphic computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

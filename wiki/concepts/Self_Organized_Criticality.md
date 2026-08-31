@@ -34,10 +34,10 @@ Auto-extracted concept from raw material compilation.
 [[MicroCriticalAgent]]
 [[NonEquilibriumPhaseTransition]]
 [[NonEquilibriumPhase]]
+[[OptimalRepresentationAtCriticality]]
 [[OptimalRepresentation]]
 [[Synaptic_Plasticity]]
 [[complex system]]
-[[criticality]]
 [[iNEST]]
 
 ## Sources

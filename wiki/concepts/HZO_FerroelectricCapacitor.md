@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Ferroelectric_Devices]]
 [[Field_Compression_for_InNetwork_Inference]]
 [[FoveationGuidedTokenSelection]]
+[[FunctionalEnsembleComputation]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
@@ -48,8 +49,8 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[PrecisionConfigurableSparseNvCIM]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SOC]]
 [[iNEST]]
-[[soc]]
 [[待分类]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

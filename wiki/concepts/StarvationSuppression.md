@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[QuarantineCostTradeoff]]
 [[RoutingBasedLinearManipulation]]
 [[SNN]]
+[[SparseCodingEfficiency]]
 [[Spike_Event_Driven_Attention]]
 [[Spiking_Neural_Network]]
 [[SyntheticInertiaProvision]]

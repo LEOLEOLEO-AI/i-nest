@@ -46,14 +46,15 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Encoding_of_fMRI]]
 [[SpikingNeuralNetworkTopologyMapping]]
 [[SpikingNeuralNetworkTopology]]
+[[SpikingNeuralNetwork]]
 [[SpikingTopologyAnalysis]]
 [[SpikingTopologyMapping]]
 [[Spiking_Neural_Network]]
 [[TCC]]
+[[TCC_SpikingAnalysis]]
 [[TCC_SpikingIntegration]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]
-[[neuromorphic computing]]
 [[神经网络]]
 
 ## Sources

@@ -41,12 +41,14 @@ Auto-extracted concept from raw material compilation.
 [[Level_of_Splat_Detail]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
+[[Neural_Field_World_Model]]
 [[Neuromorphic_Computing]]
+[[NonvisualGroundClassification]]
 [[ReputationSignal]]
 [[SelfOrganization]]
 [[iNEST]]
-[[neural field world model]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

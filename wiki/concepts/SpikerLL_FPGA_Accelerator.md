@@ -35,15 +35,16 @@ Auto-extracted concept from raw material compilation.
 [[FlexibilityThreshold]]
 [[Gaussian_Splatting_Streaming]]
 [[Localized_Feedback_Array]]
+[[Meta_Residual_Learning]]
 [[Neuromorphic_Computing]]
 [[NonHermitianSpectralCorrelations]]
 [[Nonlinear_Gain]]
 [[SNN]]
 [[SelfOrganization]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
-[[spiking neural network]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[NonlinearConnectomeScaling]]
 [[Nonlinear_Gain]]
 [[RecursiveSelfReferentialArchitecture]]
+[[RenormalizationGroupIntelligence]]
 [[TCC]]
 [[complex system]]
 [[iNEST]]

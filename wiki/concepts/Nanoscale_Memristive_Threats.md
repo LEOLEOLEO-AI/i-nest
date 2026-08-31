@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkAgentRewiring]]
 [[In_Memory_Computing]]
 [[Intelligence_Emergence]]
+[[Master_SDDE]]
 [[MeanFieldSpinGlass]]
 [[Memristive_Topology]]
 [[Metastable_State_Hierarchy]]

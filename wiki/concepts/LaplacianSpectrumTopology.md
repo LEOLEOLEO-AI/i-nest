@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossbarFabricTopology]]
 [[Crossover_Physics]]
 [[Dimensionality_Modularity_Tradeoff]]
+[[DynamicCentralitySteering]]
 [[EdgeIoTEnergyAwareness]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
@@ -51,7 +52,6 @@ Auto-extracted concept from raw material compilation.
 [[SpectralDimension]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
-[[criticality]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

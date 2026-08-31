@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Environmental_Capability_Context]]
 [[FerroelectricDevice]]
 [[Ferroelectric_Devices]]
+[[FirstPrinciples_Derivation]]
 [[Heterogeneous_Integration]]
 [[HigherOrderSynchronization]]
 [[Knowledge_Graph_Navigation]]

@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[20W_Brain_Inspired_Planning]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BioPlausiblePredictiveCoding]]
+[[DevelopmentalNeuromorphicAdaptation]]
 [[EmergentOrder]]
 [[Event_Driven_Architecture]]
 [[FrozenRateOperator]]
@@ -37,7 +38,6 @@ Auto-extracted concept from raw material compilation.
 [[Order_Flexibility_Duality]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
-[[neuromorphic computing]]
 [[neuromorphic interconnect]]
 
 ## Sources

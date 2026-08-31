@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AcousticAnomalyDetection]]
 [[ActiveDendriteSNN]]
 [[ActivityAvalanche]]
+[[AdaptiveAsymmetricSurrogateGradient]]
 [[AdaptiveAsymmetricSurrogateGradients]]
 [[Avoided_Criticality]]
 [[Baseline_Change_Record]]
@@ -32,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspiredInterceptionTask]]
 [[BioInspiredInterception]]
 [[BulletTrainScheduling]]
+[[BurstGatedRouting]]
 [[BurstSuppression]]
 [[Contested_Prior_Resolution]]
 [[ContinuousTimeSNN]]
@@ -41,9 +43,9 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Self_Organized_Criticality]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
-[[spiking neural network]]
 [[temporal coding]]
 
 ## Sources

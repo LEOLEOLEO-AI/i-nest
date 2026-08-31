@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
 [[ConverterDrivenStability]]
+[[Course_Based_FPGA_Projects]]
 [[Course_Based_FPGA_Prototyping]]
 [[Critical_Exponent_Scaling]]
 [[Criticality]]

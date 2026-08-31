@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
+[[AI-ML — 全景导航 (Map of Content)]]
 [[AI_Faculty_Forum_2026]]
 [[Analog_To_Information_Conversion]]
 [[Attention_Residuals]]
@@ -41,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Mesoscale_Heterogeneous_Integration]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[NCL神经计算定律详解]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[NonlinearConnectomeScaling]]
 [[Nonlinear_Gain]]
@@ -48,7 +50,6 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[TCC]]
 [[complex system]]
-[[connectome]]
 [[iNEST]]
 
 ## Sources

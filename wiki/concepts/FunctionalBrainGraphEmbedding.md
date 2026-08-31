@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[Order_Flexibility_Duality]]
+[[PostVonNeumannIntelligence]]
 [[QuantumKernelMethods]]
 [[ScaleFreeNetwork]]
 [[TCC]]

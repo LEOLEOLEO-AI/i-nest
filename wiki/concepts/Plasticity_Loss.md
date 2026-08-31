@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[AnteHoc_Explainability]]
 [[AsymmetricStochasticInteractions]]
 [[AttentionMap_DifferenceResidual]]
+[[BCM滑动阈值]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
@@ -49,8 +50,8 @@ Auto-extracted concept from raw material compilation.
 [[catastrophic forgetting]]
 [[complex system]]
 [[iNEST]]
-[[plasticity loss]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

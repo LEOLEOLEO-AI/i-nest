@@ -21,9 +21,11 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[2_5D_PIM_Chiplet_Integration]]
+[[AnalogInMemoryComputing]]
 [[BeyondVonNeumannArchitecture]]
 [[CMOS_Memristor_Devices]]
 [[ChargeDomainAttention]]
+[[Chiplet_Heterogeneous_Integration]]
 [[CrossDomain_Integration]]
 [[CrossbarArrayPrecision]]
 [[Electrolyte_Bonding_Engineering]]
@@ -34,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[HybridResistiveMemoryCIM]]
 [[IMPLYMemristiveISA]]
 [[In_Memory_Computing]]
+[[Memristive_Crossbar_Array]]
 [[Memristor_Synapse]]
 [[OneDimensionalLongRangeInteractions]]
 [[PDN_Aware_Voltage_Droop_Control]]
@@ -41,7 +44,6 @@ Auto-extracted concept from raw material compilation.
 [[Signal_Folding]]
 [[TCC]]
 [[iNEST]]
-[[memristive crossbar array]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

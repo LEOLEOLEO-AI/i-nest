@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[EmergentIntelligence_Spacetime]]
 [[Heterogeneous_Inference_Division]]
 [[Heterogeneous_Integration]]
+[[InMateriaComputing]]
 [[In_Package_Neuromorphic_Integration]]
 [[Intelligence_Emergence]]
 [[Memristive_Interconnect]]

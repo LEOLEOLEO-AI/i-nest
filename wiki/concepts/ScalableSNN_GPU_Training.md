@@ -33,14 +33,14 @@ Auto-extracted concept from raw material compilation.
 [[CombinedImportanceScoring]]
 [[CurrentInjectionSNN]]
 [[EventDrivenWeightUpdate]]
+[[FPGA_SNN_Inference]]
 [[IntegratedInformationFreeEnergyBridge]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[SNN]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
-[[neuromorphic computing]]
-[[spiking neural network]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

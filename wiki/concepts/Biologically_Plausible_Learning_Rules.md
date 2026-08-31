@@ -24,7 +24,9 @@ Auto-extracted concept from raw material compilation.
 [[11_SDI节点接口规范与化合键定义_dup]]
 [[AI_Faculty_Forum_2026]]
 [[BigBrainCellularAxis]]
+[[BrownianCastleInterface]]
 [[BrownianCastleInterfaces]]
+[[Chiplet_Based_Neuromorphic_Integration]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Criticality]]
 [[DataDrivenCellularAxis]]
@@ -55,7 +57,6 @@ Auto-extracted concept from raw material compilation.
 [[TopologyDrivenDynamics]]
 [[TopologyDrivenVulnerability]]
 [[VisualSemanticDecoding]]
-[[biologically plausible learning rules]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

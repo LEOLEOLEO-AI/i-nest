@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[QuantumProbabilityFlowHebbian]]
 [[ReconfigurableSpikingRouting]]
+[[SDI_STDP_Rule]]
 [[SelfOrganization]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]

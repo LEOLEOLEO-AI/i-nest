@@ -30,4 +30,3 @@ NoC, chiplet, iNEST, wafer, 拓扑, 晶圆, 芯粒
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[iNEST]]
-[[inest]]

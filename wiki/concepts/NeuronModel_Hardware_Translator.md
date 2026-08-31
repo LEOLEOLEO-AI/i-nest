@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Bidirectional_Temporal_Enhancement]]
+[[Chip-Hardware — 全景导航 (Map of Content)]]
 [[CoDesigned_SNN]]
 [[ComplexValuedSNN]]
 [[Contested_Prior_Resolution]]
@@ -41,12 +42,12 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[STDP_Plasticity]]
 [[Spike_Encoding_of_fMRI]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TopologicalAndersonChernInsulator]]
 [[Yann LeCun：发现智能原理是AI的终极问题]]
 [[iNEST]]
-[[spiking neural network]]
 [[向大脑学习智能本质，探索通用 AI 的另一条可行路径]]
 [[新型计算]]
 [[智能涌现]]

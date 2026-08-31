@@ -31,12 +31,12 @@ Auto-extracted concept from raw material compilation.
 [[Catastrophic_Forgetting_Mitigation]]
 [[Cognitive_Relapse_Decoupling]]
 [[Contested_Priors_Architecture]]
+[[Continual_Learning_Modularity]]
 [[Criticality]]
 [[EntanglementScaling]]
 [[Intelligence_Emergence]]
 [[Neuromorphic_Computing]]
 [[Self_Organized_Criticality]]
-[[criticality]]
 [[emergent computation]]
 [[iNEST]]
 

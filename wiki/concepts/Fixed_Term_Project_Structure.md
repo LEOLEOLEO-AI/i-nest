@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Accelerated_SNN]]
 [[FormalToolchain]]
 [[GPU_Cluster_SNN_Architecture]]
+[[Memristive_Solutions]]
 [[NeuromorphicAuditoryFrontend]]
 [[NeuromorphicStatusAwareness]]
 [[NeuromorphicTransformerPipeline]]

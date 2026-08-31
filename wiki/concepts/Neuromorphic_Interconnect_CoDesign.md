@@ -36,8 +36,10 @@ Auto-extracted concept from raw material compilation.
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
+[[DARPA_3DHI_Roadmap]]
 [[DendriticReservoirState]]
 [[ERI_2_0_Strategy]]
+[[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[InterconnectionInertiaProfile]]
 [[Network_Topology_Design]]
@@ -53,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[neuromorphic interconnect]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

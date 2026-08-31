@@ -39,18 +39,21 @@ Auto-extracted concept from raw material compilation.
 [[DelayPropagationDynamics]]
 [[DirectConnect_Topology]]
 [[Free_Energy_Principle_Network]]
+[[HeterogeneousInference]]
 [[Heterogeneous_Integration]]
 [[HighThroughputParticleRouting]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Local_Approximation_Dynamics]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
 [[RandomOptimizationEnsemble]]
 [[SiliconPhotonicsNetwork]]
 [[TCC]]
 [[TSVInterconnectReliability]]
 [[TopologyAware_Routing]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

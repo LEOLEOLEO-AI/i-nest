@@ -18,5 +18,4 @@ iNEST
 
 [[Criticality]]
 [[Self_Organized_Criticality]]
-[[criticality]]
 [[iNEST]]

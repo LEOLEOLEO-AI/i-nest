@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Agile_Resilient_Defense_Ecosystem]]
 [[AssociativeMemoryTopology]]
 [[BackpropagationFreeLearning]]
+[[Beyond_Moore_Pathway]]
 [[Complex_System_Theory]]
 [[FermiSurfaceTopologySignature]]
 [[FixedOverheadFloor]]
@@ -39,11 +40,11 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[Personnel_Role_Assignment]]
 [[QueryComplexityScaling]]
+[[SOC]]
 [[SpatialAutocorrelationMetric]]
 [[TopologicalDataCompression]]
-[[neuromorphic computing]]
-[[soc]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

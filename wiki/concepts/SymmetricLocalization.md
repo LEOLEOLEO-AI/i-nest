@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Communication_Trace_Diagnostics]]
 [[Complex_System_Theory]]
 [[ComputeRelocationOverhead]]
+[[Confinement]]
 [[Deep_Thermalisation]]
 [[EdgeIoTEnergyAwareness]]
 [[GraphBasedSemanticRouting]]
@@ -43,14 +44,15 @@ Auto-extracted concept from raw material compilation.
 [[MemoryDrivenRouting]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
+[[RoutingBasedComputation]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
 [[TimeReversalInvariantTopologicalAlloy]]
 [[TopologicalAndersonChernInsulator]]
 [[WirelessSplitComputing]]
-[[confinement]]
 [[智能涌现]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

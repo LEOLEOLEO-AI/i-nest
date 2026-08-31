@@ -51,19 +51,20 @@ Auto-extracted concept from raw material compilation.
 [[Photonic_Chiplet_Interconnect]]
 [[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]
-[[SDI interconnect]]
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
+[[SDI_Topology]]
 [[STDP_Plasticity]]
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[TemporalComplexity]]
 [[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
-[[temporalComplexity]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

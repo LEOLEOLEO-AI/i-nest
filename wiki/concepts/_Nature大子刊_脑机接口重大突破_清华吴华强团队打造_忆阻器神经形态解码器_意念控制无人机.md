@@ -27,6 +27,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 
 [[Brain_Connectome]]
 [[Connectome]]
+[[Connectome_Inspired_Architecture]]
 [[Connectome_Verification_Protocol]]
 [[Event_Driven_Architecture]]
 [[Memristor_Synapse]]
@@ -35,7 +36,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Neuromorphic_Integration]]
 [[Pipelined_Processor_Neuromorphic_Integration]]
 [[Reservoir_Computing]]
-[[SoC]]
+[[SOC]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[Wafer_Scale_Integration]]

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalStateInformationMaximization]]
 [[CriticalityDrivenStateTransition]]
 [[Criticality]]
+[[Criticality_Based_Feature_Extraction]]
 [[DynamicTokenSparsity]]
 [[Emergent_Intelligence_Threshold]]
 [[FunctionalRelevanceDrivenSelfOrganization]]

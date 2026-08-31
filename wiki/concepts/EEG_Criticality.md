@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[ANN_SNN_WeightSpaceGap]]
 [[AcousticAnomalyDetection]]
+[[ActiveDendriteSNN]]
 [[ActivityAvalanche]]
 [[Avoided_Criticality]]
 [[BrainInspired_Chip]]

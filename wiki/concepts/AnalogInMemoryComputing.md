@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Network_Architecture_Invariant]]
 [[DiagnosticReportFramework]]
 [[EulaminateOverrepresentation]]
+[[Evolutionary_Structure_Computability]]
 [[FerroelectricMemoryCell]]
 [[Ferroelectric_Devices]]
 [[Free_Energy_Principle_Network]]
@@ -51,13 +52,13 @@ Auto-extracted concept from raw material compilation.
 [[SpatiotemporalComplexityIndex]]
 [[SystemLevelNonlinearity]]
 [[TCC]]
+[[TemporalComplexity]]
 [[Textbook_Paradigm_Definition]]
 [[TopologyCentricEngineeringBase]]
 [[analog computation]]
 [[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
-[[temporalComplexity]]
 [[待分类]]
 
 ## Sources

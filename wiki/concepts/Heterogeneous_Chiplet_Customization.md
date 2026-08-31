@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Synaptic_Weighting]]
 [[Attention_Residuals]]
 [[BackpropagationFreeLearning]]
+[[Causal_Emergence_Architecture]]
 [[ChipletTrafficAwareScheduling]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -53,9 +54,9 @@ Auto-extracted concept from raw material compilation.
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
 [[TCC]]
+[[TemporalComplexity]]
 [[advanced packaging]]
 [[chiplet interconnect]]
-[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

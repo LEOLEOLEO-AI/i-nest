@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveFunctionalTopology]]
 [[AmoebaInspiredLocomotion]]
 [[AnomalousSpinTransport]]
+[[AstrocyteInspiredModulation]]
 [[BrownianCastleInterface]]
 [[InteractingQuasiPeriodicChain]]
 [[Interconnect_Routing]]

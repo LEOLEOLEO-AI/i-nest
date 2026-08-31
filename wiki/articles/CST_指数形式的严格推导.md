@@ -29,4 +29,3 @@ TCC, 拓扑
 [[Nonlinear_Gain]]
 [[TCC]]
 [[complex system]]
-[[tcc]]

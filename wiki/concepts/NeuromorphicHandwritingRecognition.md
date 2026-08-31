@@ -36,12 +36,13 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[Spike_Event_Driven_Attention]]
+[[Spiking neural network]]
 [[SpikingNeuralTransformer]]
 [[Spiking_Neural_Network]]
 [[Spinal_CPG_Coordinated_Control]]
+[[SynapticConsolidation]]
 [[TCC]]
 [[iNEST]]
-[[spiking neural network]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

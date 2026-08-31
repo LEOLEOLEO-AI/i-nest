@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[OnChipOpticalTweezers]]
 [[RadiationHardened_ProcessNodeScaling]]
 [[SDI_Bond]]
+[[SDI_Control_Plane_Offload]]
 [[SDI_Topology]]
 [[STDP_Plasticity]]
 [[SiliconPhotonicsNetwork]]
@@ -55,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[ThroughSiliconVia_TSV_ThermalPath]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

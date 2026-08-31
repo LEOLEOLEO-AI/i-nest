@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossEntityPreemptiveWarning]]
 [[DiscreteContinuous_Unification]]
 [[DualModeSNNConventionalInference]]
+[[EEG_Criticality]]
 [[ElasticSpikingTransformer]]
 [[EnergyResourceEfficiencyCoOptimization]]
 [[Neuromorphic_Computing]]

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
+[[Gate_Synthesis_Readout]]
 [[GroupSynchronization]]
 [[Heterogeneous_Integration]]
 [[Memristive_STDP]]

@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[ActiveDendriteSNN]]
 [[Agile_Resilient_Defense_Ecosystem]]
+[[AmoebaInspiredLocomotion]]
 [[BioInspired_Interception_Control]]
 [[BrownianCastleInterface]]
 [[BurstGatedRouting]]

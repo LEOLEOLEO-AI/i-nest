@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[ClocklessReconfigurableChip]]
 [[ComplexValuedSNN]]
+[[Continuous_Control_Spike_Timing_Sensitivity]]
 [[CorticalWaveRouting]]
 [[Criticality]]
 [[EnsembleCreditAssignment]]

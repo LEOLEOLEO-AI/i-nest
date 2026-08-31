@@ -33,6 +33,8 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[Neuromorphic_Planning_Architecture]]
+[[SNN]]
 [[ST_SNN]]
 [[SensorMemoryFusion]]
 [[Spiking_Neural_Network]]

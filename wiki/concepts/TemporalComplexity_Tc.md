@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[Photonic_Chiplet_Interconnect]]
 [[RecursiveSelfReferentialArchitecture]]
+[[RenormalizationGroup_ScalingLaws]]
 [[Renormalization_Group_Convergence]]
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
@@ -65,9 +66,7 @@ Auto-extracted concept from raw material compilation.
 [[Topology_Interconnect]]
 [[analog computation]]
 [[chiplet interconnect]]
-[[heterogeneous_integration]]
 [[residual connection]]
-[[temporalComplexity]]
 [[Γst_Revision]]
 
 ## Sources

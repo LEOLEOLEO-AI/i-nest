@@ -27,4 +27,3 @@ topology
 [[Network_Topology_Design]]
 [[TCC]]
 [[complex system]]
-[[tcc]]

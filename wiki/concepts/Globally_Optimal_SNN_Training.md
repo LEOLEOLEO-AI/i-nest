@@ -41,15 +41,15 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[STDP_Plasticity]]
 [[SelfOrganizedOscillatoryLearning]]
+[[SpectralSupportAnalysis]]
 [[SpikeTimingFidelity]]
 [[Spike_Encoding_of_fMRI]]
 [[SpikingTopologyEvolution]]
 [[Spiking_Neural_Network]]
-[[Spiking_neural_network]]
+[[Synaptic_Plasticity]]
 [[TemporalContrastEncoding]]
 [[ThermalNoiseHarnessing]]
 [[iNEST]]
-[[neuromorphic computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

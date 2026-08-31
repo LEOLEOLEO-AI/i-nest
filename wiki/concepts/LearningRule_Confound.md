@@ -34,8 +34,10 @@ Auto-extracted concept from raw material compilation.
 [[Agent_Workflow_Automation]]
 [[Analog_InMemory_Processing]]
 [[AnteHoc_Explainability]]
+[[Backpropagation_Comparison]]
 [[CST计量仪]]
 [[Complex_System_Theory]]
+[[Evaluation_Resolution]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]
@@ -43,9 +45,9 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[TCC]]
-[[evaluation resolution]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

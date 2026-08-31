@@ -48,15 +48,13 @@ Auto-extracted concept from raw material compilation.
 [[SDI节点接口规范与化合键定义]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
+[[SelfMotivatedGrowth]]
 [[SpatiotemporalComplexityIndex]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
-[[Spiking_neural_network]]
 [[Synaptic_Plasticity]]
-[[connectome]]
+[[TemporalComplexity]]
 [[iNEST]]
-[[neuromorphic computing]]
-[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

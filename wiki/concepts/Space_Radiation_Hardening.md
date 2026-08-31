@@ -41,11 +41,13 @@ Auto-extracted concept from raw material compilation.
 [[CoPackagedOptics]]
 [[CommunicationAwareComputeRelocation]]
 [[Complex_System_Theory]]
+[[FPGA_Reconfigurability]]
 [[Heterogeneous_Integration]]
 [[Inference_Stage_Decomposition]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
+[[NoC_Interconnect]]
 [[SDI_Bond]]
 [[SDI_NPU_NoC_Integration]]
 [[SDI_TopologicalControl]]
@@ -57,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[VectorFlowField]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

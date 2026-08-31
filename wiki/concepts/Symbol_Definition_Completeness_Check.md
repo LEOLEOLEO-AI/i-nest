@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[DendriticReservoirState]]
 [[DenseNetworkDynamics]]
 [[DynamicServiceComposition]]
+[[ERI_2_0_Strategy]]
 [[EventTriggeredDistributedControl]]
 [[GitWhitelistQuotaEnforcement]]
 [[IncidenceBasedRandomWalk]]
@@ -48,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[iNEST_Interconnect]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

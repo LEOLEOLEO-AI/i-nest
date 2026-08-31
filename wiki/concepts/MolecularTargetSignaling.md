@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Stacking]]
 [[CoPackagedOptics]]
 [[Cognitive_Relapse_Architecture]]
+[[Crystallized_Embedding_Reservoir]]
 [[Defense_Industrial_Base_Reshaping]]
 [[DendriticReservoirState]]
 [[Dynamic_Expert_Fusion]]

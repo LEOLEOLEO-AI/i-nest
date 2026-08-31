@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveSpeechToSpikeEncoding]]
 [[AmoebaInspiredLocomotion]]
 [[AsynchronousEventDrivenComputation]]
+[[Cross_Network_Representation_Transfer]]
 [[Dynamic_Expert_Routing]]
 [[EpidemicThreshold]]
 [[ExactRateChaosTransition]]

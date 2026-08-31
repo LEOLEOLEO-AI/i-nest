@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_Interconnect]]
 [[Memristor_Reservoir_Branch_Prediction]]
 [[Memristor_Synapse]]
+[[Mesoscale_Heterogeneous_Integration]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Nature Communications_生物神经网络中突触多样性如何让人工神经网络更强大？]]
 [[Network_Spatiotemporal_Synergy]]
@@ -46,7 +47,6 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[emerging CMOS memristor]]
 [[iNEST]]
-[[reservoir computing]]
 [[神经网络]]
 
 ## Sources

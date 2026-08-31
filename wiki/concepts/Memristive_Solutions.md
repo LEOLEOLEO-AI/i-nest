@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[BrainBodyResonance]]
 [[CST_Intelligence_Emergence]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
+[[ComplexValuedSNN]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Complex_System_Theory]]
 [[CorticalWaveRouting]]
@@ -58,7 +59,6 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect_Memristor]]
 [[Wafer_Scale_Memristor_Interconnect]]
 [[iNEST]]
-[[memristive device threats]]
 [[新型计算]]
 
 ## Sources

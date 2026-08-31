@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[ProjectiveMeasurementRouting]]
 [[SNN]]
+[[ShortestPathMultiplicity]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]

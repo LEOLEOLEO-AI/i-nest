@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[AsymmetricStochasticInteractions]]
 [[AttentionMap_DifferenceResidual]]
 [[BCM滑动阈值]]
+[[BifurcationCandidateSet]]
 [[BifurcationCandidate]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
@@ -50,8 +51,8 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[complex system]]
 [[iNEST]]
-[[neuromorphic computing]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

@@ -37,7 +37,10 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Cytokine_Feedback_Loops]]
 [[DelayTunedPopulationAmplitude]]
+[[DynamicalTransitionIdentification]]
 [[FlexibilityThreshold]]
+[[Local_Plasticity]]
+[[Local_Plasticity_Rule]]
 [[Neuromorphic_Computing]]
 [[Online_Continual_Learning]]
 [[STDP_Plasticity]]
@@ -45,8 +48,6 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
-[[local plasticity rule]]
-[[local plasticity]]
 [[神经网络]]
 
 ## Sources

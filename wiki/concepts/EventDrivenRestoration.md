@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenLearning]]
 [[EventDrivenRiskAssessment]]
 [[EventDrivenTracking]]
+[[Event_Driven_Communication]]
 [[FirstTimestepConversion]]
 [[FixedOverheadFloor]]
 [[Interconnect_Routing]]

@@ -47,12 +47,12 @@ Auto-extracted concept from raw material compilation.
 [[Nanoparticle_Network_Reservoir]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
+[[NeuromorphicVisualPipeline]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[TopologicalAndersonChernInsulator]]
-[[neuromorphic computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

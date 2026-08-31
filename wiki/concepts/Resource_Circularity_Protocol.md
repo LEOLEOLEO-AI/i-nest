@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[ExplainableEnergyAI]]
 [[FlexibilityThreshold]]
 [[FrozenRateOperator]]
+[[FunctionalBrainGraphEmbedding]]
 [[InNetworkAgentRewiring]]
 [[InNetworkNeuromorphicComms]]
 [[Intelligence_Emergence]]

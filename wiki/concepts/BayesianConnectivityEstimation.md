@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[EmergentRecurrentConnectivity]]
 [[Emergent_Intelligence_Threshold]]
+[[Entangled_Criticality]]
 [[ImmobilizationStabilityMechanism]]
 [[Intelligence_Emergence]]
 [[LLMDrivenPathSelection]]

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CLINKAsCarrierPrimitive]]
 [[CST_Spatiotemporal_Complexity]]
 [[CavityMethodAnalysis]]
+[[Chiplet_Stacking]]
 [[Complex_System_Theory]]
 [[Decoupling_Mechanism]]
 [[Free_Energy_Topology_Mapping]]
@@ -38,13 +39,13 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[RISBeamSpatialSignature]]
-[[SDI bond]]
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

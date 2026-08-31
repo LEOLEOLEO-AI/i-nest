@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[AndersonTransition]]
+[[AthermalDynamics]]
 [[BackflowTransformation]]
 [[Baseline_Draft_Status]]
 [[CST_Spatiotemporal_Coefficient]]
@@ -35,13 +36,12 @@ Auto-extracted concept from raw material compilation.
 [[ChannelCountScaling]]
 [[Complex_System_Theory]]
 [[Deep_Thermalisation]]
-[[Griffiths phase]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[NeuromorphicStatusAwareness]]
 [[Neuromorphic_Computing]]
 [[TCC]]
-[[topological quantum error correction]]
+[[Topological_Quantum_Error_Correction]]
 [[类脑芯片]]
 
 ## Sources

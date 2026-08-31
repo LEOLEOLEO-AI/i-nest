@@ -28,12 +28,14 @@ Auto-extracted concept from raw material compilation.
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[CorticalWaveRouting]]
 [[Criticality]]
+[[CrossTaskNeuralRepresentation]]
 [[DataDrivenCellularAxis]]
 [[DevelopmentalNeuromorphicAdaptation]]
 [[FormalLinguisticCompetence]]
 [[Free_Energy_Principle_Network]]
 [[Gut_Brain_Immune_Network]]
 [[Intelligence_Emergence]]
+[[Interconnect_Routing]]
 [[MacroCriticalityEmergence]]
 [[Master_SDDE]]
 [[Microgrid_Optimization]]
@@ -50,10 +52,9 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
+[[TemporalComplexity]]
 [[TopologyDrivenVulnerability]]
-[[criticality]]
 [[iNEST]]
-[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

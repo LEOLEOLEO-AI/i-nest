@@ -19,7 +19,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
-[[Crystal Palace program]]
 [[CrystalPalace_Program]]
 [[TCC]]
 [[iNEST]]

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AIRA_NeuralArchSearch]]
 [[AI_Autonomous_Control]]
 [[AI_Orchestrator]]
+[[AI_Supply_Chain_Increment]]
 [[Complex_System_Theory]]
 [[Complexity_Emergence]]
 [[HiddenTopologyReveal]]
@@ -43,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

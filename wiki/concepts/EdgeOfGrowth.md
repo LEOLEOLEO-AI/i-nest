@@ -37,14 +37,15 @@ Auto-extracted concept from raw material compilation.
 [[NearThreeDimensionalCriticality]]
 [[Network_Topology_Design]]
 [[NonEquilibriumPhaseTransition]]
+[[NonEquilibriumPhase]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SOC]]
 [[Self_Organized_Criticality]]
 [[SuperparamagneticSwitchingRate]]
 [[Swarm_Coordination]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[complex system]]
-[[criticality]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

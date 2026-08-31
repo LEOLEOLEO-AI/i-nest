@@ -33,14 +33,17 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SDI_iNEST_Interconnect]]
+[[SNN]]
+[[STDP_Plasticity]]
+[[STDP_iNEST]]
 [[ST_SNN]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[complex system]]
 [[iNEST]]
 [[iNEST_Interconnect]]
 [[iNEST_Neuromorphic_Integration]]
-[[spiking neural network]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -35,7 +35,6 @@ Auto-extracted concept from raw material compilation.
 [[CausalEmergenceCondition]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
-[[Crystal Palace program]]
 [[CrystalPalace_Program]]
 [[ERI_2_0_Strategic_Framework]]
 [[Emergent_Intelligence_Theory]]
@@ -48,11 +47,13 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
+[[NoiseAsLearningResource]]
 [[RecursiveSelfReferentialArchitecture]]
 [[TopologicalAndersonChernInsulator]]
 [[complex system]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

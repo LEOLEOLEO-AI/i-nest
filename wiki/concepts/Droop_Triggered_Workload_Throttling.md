@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[NonEquilibriumPhase]]
 [[ResonateAndFireEncoding]]
 [[STDP_Plasticity]]
+[[SpikeTimingDependentPlasticityForTracking]]
 [[Spike_Event_Driven_Attention]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

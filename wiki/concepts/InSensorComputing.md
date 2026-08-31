@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[FlagOS_2_0]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
+[[Intelligent_Computing_Infrastructure]]
 [[Network_Topology_Design]]
 [[OnChipOpticalTweezers]]
 [[RecursiveSelfReferentialArchitecture]]
@@ -47,12 +48,12 @@ Auto-extracted concept from raw material compilation.
 [[Structural_Mismatch]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
+[[TemporalComplexity]]
 [[ThreeLayerArchitecture]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[analog computation]]
 [[chiplet interconnect]]
-[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

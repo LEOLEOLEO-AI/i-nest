@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
 [[ConverterDrivenStability]]
+[[Course_Based_FPGA_Projects]]
 [[Course_Based_FPGA_Prototyping]]
 [[Criticality]]
 [[FrequencyAdaptationMechanism]]
@@ -43,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[SNN_Intrusion_Detection_Config]]
 [[Self_Organized_Criticality]]
+[[Spiking neural network]]
 [[SpikingTopologyEvolution]]
 [[Spiking_Neural_Network]]
 [[StochasticBinaryDynamics]]
@@ -51,7 +53,6 @@ Auto-extracted concept from raw material compilation.
 [[TemporalErrorFeedback]]
 [[Three_Dimensional_Analysis]]
 [[iNEST]]
-[[spiking neural network]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

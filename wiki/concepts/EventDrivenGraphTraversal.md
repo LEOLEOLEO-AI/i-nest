@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[ST_SNN]]
 [[SelfOrganizedOscillatoryLearning]]
+[[SpikeBasedTemporalAttention]]
 [[SpikeEncoding]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]

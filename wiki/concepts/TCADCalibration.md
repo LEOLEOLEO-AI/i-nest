@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Fading_Memory_Property]]
 [[FlagOS_2_0]]
 [[Heterogeneous_Integration]]
+[[Heterogeneous_Integration_Roadmap_HIR]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[MeanFieldSpinGlass]]

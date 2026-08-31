@@ -53,9 +53,11 @@ Auto-extracted concept from raw material compilation.
 [[Space_Compute_Architecture_Tradeoff]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[TopologyPage_Preloading]]
 [[VectorFlowField]]
 [[topology reconfiguration]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

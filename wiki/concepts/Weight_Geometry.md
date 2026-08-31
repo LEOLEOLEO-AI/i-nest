@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[AdditiveTopology_Embedding]]
 [[Analog_InMemory_Processing]]
 [[BCM滑动阈值]]
+[[BeamDomainMLFingerprinting]]
 [[CST计量仪]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
@@ -46,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[complex system]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

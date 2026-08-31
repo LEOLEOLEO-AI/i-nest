@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Alpha_Computation_Consistency]]
 [[AndersonTransition]]
 [[AssociativeMemoryTopology]]
+[[BarrierConditionedTrajectory]]
 [[Cognitive_Relapse_Decoupling]]
 [[CouplingTopologyMemoryLink]]
 [[Critical_Region_Extension]]
@@ -38,8 +39,8 @@ Auto-extracted concept from raw material compilation.
 [[ManyBodyLocalization]]
 [[Negative_Result_Retention]]
 [[Network_Topology_Design]]
+[[SOC]]
 [[TCC]]
-[[soc]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

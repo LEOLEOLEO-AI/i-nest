@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[DeepParsing]]
 [[Deep_Analysis_Framework]]
 [[DerivativeLineage]]
+[[Differential_Encoding]]
 [[Intelligence_Emergence]]
 [[IntervalAnalysis]]
 [[Network_Topology_Design]]
@@ -52,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[complex system]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

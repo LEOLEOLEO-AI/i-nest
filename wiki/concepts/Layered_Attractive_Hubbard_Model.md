@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AINext_Initiative]]
+[[AlternativeBridgingModels]]
 [[AnisotropicGaussianPrimitives]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
@@ -32,7 +33,6 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
-[[Neuromorphic_computing]]
 [[QuantumChaos]]
 [[Reservoir_Computing]]
 [[SDDE_Attractor_Emergence]]
@@ -40,13 +40,11 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Learning]]
 [[STDP_Plasticity]]
 [[ScaleFreeNetwork]]
-[[Spike_timing_dependent_plasticity]]
+[[Spike_Timing_Dependent_Plasticity]]
 [[Spike_timing_dependent_plasticity_learning_rule]]
 [[Spiking_Neural_Network]]
-[[Spiking_neural_network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
-[[neuromorphic computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

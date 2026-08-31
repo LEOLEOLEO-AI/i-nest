@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[PhaseSynchronizationDetection]]
 [[SDI_Bond]]
 [[SDI_STDP]]
+[[SOC]]
 [[STDPDrivenTemporalBinding]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]
@@ -44,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
+[[TemporalLearning]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

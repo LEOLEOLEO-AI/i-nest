@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[DistributedInference]]
 [[ImaginaryGaugePhaseImprint]]
 [[Intelligence_Emergence]]
+[[MetaHardwareAbstraction]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
@@ -44,8 +45,8 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[Thermopneumatic_Pixel]]
 [[iNEST]]
-[[neuromorphic computing]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

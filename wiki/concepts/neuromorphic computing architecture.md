@@ -45,7 +45,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]
-[[neuromorphic computing]]
+[[忆阻器]]
 [[神经形态计算]]
 [[神经网络]]
 [[脉冲神经网络]]

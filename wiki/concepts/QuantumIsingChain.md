@@ -33,13 +33,13 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[CriticalFixedPoint]]
 [[CriticalPhaseTransitionStatisticalTest]]
+[[CriticalStateDynamics]]
 [[Criticality]]
 [[Network_Topology_Design]]
+[[Quantum_Criticality]]
 [[Self_Organized_Criticality]]
 [[TCC]]
-[[criticality]]
 [[iNEST]]
-[[quantum criticality]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

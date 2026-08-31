@@ -39,11 +39,13 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
+[[Package_Level_Interconnect]]
 [[ScalableNeuromorphicTopology]]
 [[TCC]]
 [[TopologicalDataCompression]]
 [[Topology_Centric_Computing]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

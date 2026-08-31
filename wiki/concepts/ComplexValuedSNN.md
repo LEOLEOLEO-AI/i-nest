@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[STDP_Plasticity]]
 [[Spike_Encoding_of_fMRI]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]
@@ -54,13 +55,13 @@ Auto-extracted concept from raw material compilation.
 [[Yann LeCun：发现智能原理是AI的终极问题]]
 [[complex system]]
 [[iNEST]]
-[[spiking neural network]]
 [[向大脑学习智能本质，探索通用 AI 的另一条可行路径]]
 [[智能涌现]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
 [[神经形态计算]]
 [[神经网络]]
+[[类脑芯片]]
 [[脉冲神经网络]]
 
 ## Sources

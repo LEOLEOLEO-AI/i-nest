@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Asymmetric_Interaction_Matrix]]
 [[Attention_Residuals]]
+[[BackpropagationFreeLearning]]
 [[Chiplet_Heterogeneous_Integration]]
 [[DARPA_ProjectManager_Model]]
 [[EdgeIoTEnergyAwareness]]
@@ -50,7 +51,6 @@ Auto-extracted concept from raw material compilation.
 [[TopologicalAndersonChernInsulator]]
 [[Topological_Semantic_Flow]]
 [[advanced packaging]]
-[[reservoir computing]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[BoseCondensateNeuralAnalogy]]
 [[CST计量仪]]
 [[Cauchy_Aczel_Uniqueness]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
 [[Crystallized_Neural_Manifolds]]
 [[DefectTwistOperator]]
@@ -50,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
+[[_专题研究_从单芯作战迈向系统集成_五_软件定义晶上系统_SDSoW_技术]]
 [[智能涌现]]
 [[涌现]]
 

@@ -20,6 +20,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 
 ## Related Work
 
+[[3D_Torus_6_Degree]]
 [[AlternativeBridgingModels]]
 [[AnomalousSpinTransport]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
@@ -38,7 +39,6 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Nature Communications_生物神经网络中突触多样性如何让人工神经网络更强大？]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
-[[Neuromorphic_computing]]
 [[Nonlinear_Gain]]
 [[PowerOfTwoWeightQuantization]]
 [[Reservoir_Computing]]
@@ -51,7 +51,6 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[TCC]]
 [[TopologyFragility]]
 [[iNEST]]
-[[neuromorphic computing]]
 [[智能涌现]]
 [[涌现]]
 [[神经形态脉冲大语言模型（NSLLM）]]

@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[analog computation]]
 [[iNEST]]
+[[vLLM_plugin_FLSDI]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

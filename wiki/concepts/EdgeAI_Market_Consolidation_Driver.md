@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalInertiaEstimation]]
 [[ERI_2_0_Framework]]
 [[Energy_Efficient_Control]]
+[[FlagOS_Interconnect_Topology]]
 [[Heterogeneous_Integration]]
 [[In_Package_Interconnect_Trust]]
 [[Intelligence_Emergence]]
@@ -55,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

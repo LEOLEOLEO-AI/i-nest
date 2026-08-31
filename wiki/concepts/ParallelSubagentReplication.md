@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_Equation]]
 [[CST_Exponential_Gain]]
 [[CST_MasterEquation]]
+[[CST_Theory]]
 [[CST_Theory_Integration]]
 [[Complex_System_Theory]]
 [[ComplexityThresholdBreach]]
@@ -38,13 +39,16 @@ Auto-extracted concept from raw material compilation.
 [[Fluidic_Hysterons]]
 [[GraphBasedSemanticRouting]]
 [[GroupInteractionThreshold]]
+[[Independent_AI_Player_Endgame]]
 [[Intelligence_Emergence]]
+[[Interconnect_Routing]]
 [[Layer_Specific_Spreading_Rate]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[complex system]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

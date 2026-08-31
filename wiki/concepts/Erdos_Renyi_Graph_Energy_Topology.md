@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AndersonTransition]]
 [[AnomalousSpinTransport]]
 [[ArtificialProprioception]]
+[[AstrocyteInspiredRepair]]
 [[AutonomousAdaptation]]
 [[BackflowTransformation]]
 [[BandedConnectivityModel]]

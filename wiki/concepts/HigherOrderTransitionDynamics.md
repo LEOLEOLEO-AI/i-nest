@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[BranchingRatio]]
 [[Categorical_Reservoir_Model]]
 [[CoexistencePhaseTransition]]
+[[CollectiveSpikingDynamics]]
 [[CouplingTopologyMemoryLink]]
 [[Coupling_Topology]]
 [[Crystallized_Embedding_Reservoir]]
@@ -42,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[ReproducibleReservoirComputing]]
 [[Reservoir_Computing]]
 [[ShortTermMemoryReservoir]]
+[[ShortTermMemory]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
 

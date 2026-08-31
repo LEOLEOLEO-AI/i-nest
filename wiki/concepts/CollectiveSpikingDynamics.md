@@ -44,13 +44,13 @@ Auto-extracted concept from raw material compilation.
 [[SpikeEventScheduling]]
 [[Spike_Encoding_of_fMRI]]
 [[Spike_Temporal_Dynamics]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[SynapticRewiringDynamics]]
 [[Synaptic_Plasticity]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]
-[[spiking neural network]]
-[[synaptic plasticity]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

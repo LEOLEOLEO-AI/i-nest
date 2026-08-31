@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[DendriticTaskPartitioning]]
 [[DrivenDissipativeDynamics]]
+[[FPGA_Neuromorphic_Acceleration]]
 [[FPGA_Neuromorphic_Architectures]]
 [[FirstPrinciples_Derivation]]
 [[HierarchicalSpikePropagation]]
@@ -45,7 +46,6 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[complex system]]
 [[iNEST]]
-[[neuromorphic computing]]
 [[神经网络]]
 [[类脑芯片]]
 

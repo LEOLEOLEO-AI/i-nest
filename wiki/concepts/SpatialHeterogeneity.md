@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossInstitutionalNetwork]]
 [[Crystallized_Neural_Manifolds]]
 [[DataDrivenMaterialDesign]]
+[[DiscreteScaleInvariance]]
 [[Dynamics_Matching]]
 [[Evolutionary_Reservoir_Adaptation]]
 [[HybridReservoirComputing]]

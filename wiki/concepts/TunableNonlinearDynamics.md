@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Decoupling_Mechanism]]
 [[DifferentiableLifting]]
 [[EcosystemTopologyCoupling]]
+[[Epidemic_Mitigation_Strategy]]
 [[Evolutionary_Reservoir_Adaptation]]
 [[ExplosiveTransitionThreshold]]
 [[Fixed_Reservoir_Unitary]]

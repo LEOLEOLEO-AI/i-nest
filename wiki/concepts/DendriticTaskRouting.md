@@ -40,10 +40,12 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuroRing_Topology]]
 [[Neuromorphic_Computing]]
+[[PropertyPredictionModeling]]
 [[TCC]]
 [[WaveBasedInformationRouting]]
 [[忆阻器]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经形态计算]]
 [[类脑芯片]]
 

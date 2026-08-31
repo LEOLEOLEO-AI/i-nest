@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Faculty_Forum_2026]]
 [[Bidirectional_Temporal_Enhancement]]
+[[ClosedLoopNeuromorphicControl]]
 [[ContinualLearningOnNeuromorphic]]
 [[DiscreteSTDP]]
 [[EventDrivenAutoregression]]
@@ -37,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_iNEST_Interconnect]]
 [[SDSoW]]
+[[SDSoW_Architecture]]
 [[STDP_Plasticity]]
 [[Signal_Folding]]
 [[Spiking_Neural_Network]]
@@ -44,7 +46,6 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[iNEST_Interconnect]]
 [[iNEST_Neuromorphic_Integration]]
-[[signal folding]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

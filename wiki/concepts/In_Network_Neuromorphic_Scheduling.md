@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[BigBrainCellularAxis]]
 [[BioPlausiblePredictiveCoding]]
+[[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Complexity_Emergence]]
 [[Event_Driven_Architecture]]
 [[Free_Energy_Principle_Network]]
@@ -45,12 +46,11 @@ Auto-extracted concept from raw material compilation.
 [[SpatiotemporalComplexityIndex]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
-[[Spiking_neural_network]]
 [[SynapticRewiringDynamics]]
 [[SyntheticInertiaProvision]]
+[[TemporalComplexity]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
-[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[MeasurementInducedTopologicalPhaseTransition]]
 [[Memristor_Network]]
+[[Memristor_Synapse]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[National_Innovation_Center_Role]]
 [[Network_Topology_Design]]
@@ -59,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TemporalDynamicsModeling]]
 [[TopologicalPhaseTransition]]
+[[iMESO_PhysicalCarrier]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

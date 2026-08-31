@@ -32,13 +32,14 @@ Auto-extracted concept from raw material compilation.
 [[AttentionGuidedEntropy]]
 [[BioPlausibleDisturbanceRejection]]
 [[Complex_System_Theory]]
+[[CorticalOrientationSelectivity]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
-[[spiking neural network]]
 [[神经网络]]
 
 ## Sources

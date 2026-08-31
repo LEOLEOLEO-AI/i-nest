@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspiredInterception]]
 [[BulletTrainScheduling]]
 [[Continuous_Control_Spiking_Stability]]
+[[CriticalityInducedComputationalCapacity]]
 [[Criticality]]
 [[Neuromorphic_Computing]]
 [[SNN]]

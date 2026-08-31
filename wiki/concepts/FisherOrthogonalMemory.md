@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalInterfaceBlocks]]
 [[Heterogeneous_Integration]]
 [[Hysteretic_State_Encoding]]
+[[IntegrationProspectsForVLSI]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[MeanFieldSpinGlass]]
@@ -59,7 +60,6 @@ Auto-extracted concept from raw material compilation.
 [[emerging CMOS memristor]]
 [[iNEST]]
 [[quantum reservoir computing]]
-[[reservoir computing]]
 [[神经网络]]
 
 ## Sources

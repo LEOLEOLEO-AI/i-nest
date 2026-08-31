@@ -21,4 +21,3 @@ TCC, iNEST, neuromorphic
 [[OptoelectronicIGZO_RRAM]]
 [[TCC]]
 [[iNEST]]
-[[inest]]

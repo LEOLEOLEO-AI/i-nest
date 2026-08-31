@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[DataMovementMinimization]]
 [[EdgeCloudCollaboration]]
 [[Heterogeneous_Integration]]
+[[InInterconnectMemory]]
 [[Intelligence_Emergence]]
 [[Level_of_Splat_Detail]]
 [[Memory_Wall]]
@@ -51,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[advanced packaging]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

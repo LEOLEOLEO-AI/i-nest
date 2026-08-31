@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalInterfaceBlocks]]
 [[GenerativeTopologyModels]]
 [[Heterogeneous_Integration]]
+[[Heterogeneous_Magnetic_Metamaterials]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]

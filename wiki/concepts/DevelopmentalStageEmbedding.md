@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Connectome_Reservoir]]
 [[DevelopmentalConnectomeTemporalGraph]]
 [[Dynamic_Expert_Fusion]]
+[[DynamicsMatchedReservoir]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
@@ -45,7 +46,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[WiringSpecificControl]]
-[[connectome]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

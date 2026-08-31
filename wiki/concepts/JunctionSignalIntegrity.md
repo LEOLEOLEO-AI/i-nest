@@ -35,11 +35,13 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenSpectralProcessing]]
 [[ITP_STDP]]
 [[Intelligence_Emergence]]
+[[Local_Plasticity]]
 [[Local_Plasticity_Rule]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SOC]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]
 [[SparseActivationSkipping]]
@@ -52,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[StochasticSpikeEncoding]]
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
+[[TemporalCodingOptimization]]
 [[神经网络]]
 
 ## Sources

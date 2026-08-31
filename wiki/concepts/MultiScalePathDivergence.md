@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
+[[Readout_Layer_Training]]
 [[Reservoir_Computing]]
 [[TCC]]
 [[TopologyEmbeddedIntrospection]]

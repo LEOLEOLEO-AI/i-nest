@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Complexity_Emergence]]
 [[DataDrivenCellularAxis]]
 [[Distributed_Spike_Communication]]
+[[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[InterChipletPHYModeling]]

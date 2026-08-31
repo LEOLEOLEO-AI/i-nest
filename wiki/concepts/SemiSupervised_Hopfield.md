@@ -36,14 +36,16 @@ Auto-extracted concept from raw material compilation.
 [[Hybrid_Volatile_NonVolatile_Mode]]
 [[In_Network_Neuromorphic]]
 [[Intelligence_Emergence]]
+[[MetaHardwareAbstraction]]
 [[Multi_Scale_Habituation]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[SOC]]
 [[TCC]]
 [[iNEST]]
-[[soc]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

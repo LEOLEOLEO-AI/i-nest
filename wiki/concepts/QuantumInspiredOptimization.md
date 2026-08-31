@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[LocalInteractionDrivenReconfiguration]]
 [[MixedSignalSNN_CoDesign]]
 [[Nonlinear_Gain]]
+[[QNNtoSNNConversion]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[TCC]]

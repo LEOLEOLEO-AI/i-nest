@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[CoexistencePhaseDiagram]]
 [[CoupledOscillatorReservoir]]
 [[Coupling_Strength_Encoding]]
+[[DataDrivenMaterialDesign]]
 [[DivergentHigherAreaRanking]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
@@ -51,9 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[branch prediction]]
-[[neuromorphic computing]]
 [[pipelined processor]]
-[[reservoir computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[CircuitTopologySearch]]
 [[CrossLingualIdiomGraph]]
 [[DelayTolerantNetworkUAV]]
+[[Event_Driven_Communication]]
 [[FixedOverheadFloor]]
 [[LLM_Reward_Design]]
 [[MetaFAIR_ArchitectureDiscovery]]

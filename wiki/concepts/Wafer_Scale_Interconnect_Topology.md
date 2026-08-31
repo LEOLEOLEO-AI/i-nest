@@ -43,14 +43,15 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Architecture]]
 [[SDSoW_Industry_Alliance]]
 [[SDSoW_Reconfigurable_Network]]
+[[SDSoW_Strategic_Planning]]
 [[SpatiotemporalComplexityIndex]]
 [[TCC]]
+[[TemporalComplexity]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
-[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -27,7 +27,9 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[Criticality]]
 [[DynamicalSelfDualCriticality]]
+[[Intelligence_Emergence]]
 [[LeftRightAsymmetry]]
+[[Local_Plasticity]]
 [[Memristor_Synapse]]
 [[Nanoencapsulation_Stability_Bioavailability]]
 [[Neuromorphic_Computing]]
@@ -37,11 +39,11 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[SelfOrganizedRobustness]]
 [[Self_Organized_Criticality]]
+[[SpikeTimingFidelity]]
 [[Spike_Timing_Dependent_Plasticity]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
-[[local plasticity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

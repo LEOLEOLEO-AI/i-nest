@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[ST_SNN]]
 [[SpikeEncoding]]
 [[Spike_Event_Driven_Attention]]
+[[SpikingMultimodalFusion]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[TemporalBatchSynchronization]]

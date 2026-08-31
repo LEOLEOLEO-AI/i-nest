@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[DelayTunedPopulationAmplitude]]
 [[Dynamic_Expert_Fusion]]
 [[DynamicalTransitionIdentification]]
+[[Dynamical_Principle_Formalization]]
 [[EmulationTheoryObserver]]
 [[EventDrivenFunctionalConnectivity]]
 [[FreeEnergyMinimization]]

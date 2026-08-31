@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[HierarchicalNetworkPartitioning]]
 [[Master_SDDE]]
+[[Material_Implication]]
 [[Memristive_ANN_Hardware]]
 [[Memristor_Hardware_ANN]]
 [[Memristor_Synapse]]
@@ -52,10 +53,10 @@ Auto-extracted concept from raw material compilation.
 [[SneakPathCurrentSuppression]]
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
+[[TemporalComplexity]]
 [[chiplet interconnect]]
 [[complex system]]
 [[emerging CMOS memristor]]
-[[temporalComplexity]]
 [[神经网络]]
 
 ## Sources

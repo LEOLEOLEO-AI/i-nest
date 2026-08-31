@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Logic_Folding]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
+[[RadiationHardened_ProcessNodeScaling]]
 [[STDP_Plasticity]]
 [[SiliconPhotonicsNetwork]]
 [[Synaptic_Plasticity]]
@@ -50,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[ThroughSiliconVia_TSV_ThermalPath]]
 [[TopologyAware_Routing]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

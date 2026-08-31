@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[DrivenDissipativeDynamics]]
 [[EventDrivenAttentionMechanism]]
 [[EventDrivenPlasticity]]
+[[Event_Driven_Processing]]
 [[InputAdaptiveComputation]]
 [[MemoryDrivenInterconnect]]
 [[NestedRepresentation]]

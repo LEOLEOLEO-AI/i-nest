@@ -38,11 +38,12 @@ Auto-extracted concept from raw material compilation.
 [[JunctionCenteredFramework]]
 [[Mesoscale_Physical_Computing_Framework]]
 [[Metastable_State_Hierarchy]]
+[[NCL神经计算定律详解]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[iNEST]]
-[[neuromorphic computing]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

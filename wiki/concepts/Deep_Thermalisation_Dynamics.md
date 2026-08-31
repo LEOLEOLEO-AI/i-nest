@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_FullSpectrum_Strategy]]
 [[AdiabaticMultimodeBend]]
+[[AdsorptionBiosorptionHybrid]]
 [[AdvancedPackagingInterconnect]]
 [[Allreduce_Latency_Probe]]
 [[AndersonTransition]]

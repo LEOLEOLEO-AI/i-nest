@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
 [[12_三原理协同_FEP_最小作用量_STDP]]
 [[3D_Heterogeneous_Integration]]
+[[AI-ML — 全景导航 (Map of Content)]]
 [[Allreduce_Latency_Probe]]
 [[AnomalousSpinTransport]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
@@ -31,7 +32,6 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_based_heterogeneous_integration]]
 [[Complex_System_Theory]]
 [[Course_Based_FPGA_Projects]]
-[[DARPA 3DHI roadmap]]
 [[DARPA_Manufacturing_Strategy]]
 [[DARPA_Project_Group_Strategy]]
 [[DendriticReservoirState]]
@@ -59,10 +59,9 @@ Auto-extracted concept from raw material compilation.
 [[TOOLS]]
 [[chiplet interconnect]]
 [[getnote_2025-12-17_3D异构集成_3DHI_技术深度研究_机遇_挑战与未来路径]]
-[[heterogeneous_integration]]
 [[iNEST]]
-[[tools]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经形态脉冲大语言模型（NSLLM）]]
 
 ## Sources

@@ -30,9 +30,11 @@ Auto-extracted concept from raw material compilation.
 [[Mesoscale_Heterogeneous_Integration]]
 [[National_Mesoscale_Innovation_Center]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[NoC_Chiplet_Wafer_Stack]]
+[[Residual_Connection_Removal]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
 [[SDSoW]]
@@ -44,7 +46,6 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Neuromorphic]]
 [[iNEST]]
 [[iNEST_Wafer]]
-[[neuromorphic computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

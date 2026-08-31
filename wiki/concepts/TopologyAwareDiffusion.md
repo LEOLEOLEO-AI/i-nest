@@ -35,13 +35,13 @@ Auto-extracted concept from raw material compilation.
 [[HierarchicalModularReservoirs]]
 [[In_Context_Learning]]
 [[MutualReinforcementDynamics]]
+[[Nanoscale_Memristive_Threats]]
 [[Network_Topology_Design]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]
 [[complex system]]
 [[iNEST]]
-[[reservoir computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

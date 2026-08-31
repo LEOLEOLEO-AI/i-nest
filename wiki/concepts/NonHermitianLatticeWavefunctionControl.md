@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Representation_Learning_Generalization]]
 [[SpikingTopologyEvolution]]
 [[Spiking_Neural_Network]]
+[[Structural_Role_Geometry]]
 [[SuperparamagneticSwitchingRate]]
 [[Switch_Bottleneck]]
 [[TCC]]

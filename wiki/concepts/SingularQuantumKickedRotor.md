@@ -36,7 +36,9 @@ Auto-extracted concept from raw material compilation.
 [[CommunicationAwareComputeRelocation]]
 [[FatalityDrivenPruning]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
+[[InputAdaptiveComputation]]
 [[Network_Topology_Design]]
+[[SelfOrganization]]
 [[TCC]]
 
 ## Sources

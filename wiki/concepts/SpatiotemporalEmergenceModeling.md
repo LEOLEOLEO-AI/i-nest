@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveArchitecture]]
 [[AdaptiveBitPrecisionExploration]]
 [[AdaptiveCombinerWeighting]]
+[[AdaptiveDensityControl]]
 [[AdaptiveMeasurementProtocol]]
 [[AdaptiveModelPartitioning]]
 [[Adaptive_Path_Selection]]

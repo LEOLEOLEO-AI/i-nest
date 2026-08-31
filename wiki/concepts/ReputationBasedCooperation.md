@@ -39,11 +39,13 @@ Auto-extracted concept from raw material compilation.
 [[CircuitCoDesign]]
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
+[[CriticalInertiaEstimation]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
+[[SOC]]
 [[TCC]]
-[[soc]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

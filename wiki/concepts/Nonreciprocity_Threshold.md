@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Analog_InMemory_Processing]]
 [[Anisotropic_Correlation_Length]]
+[[ApproximationFidelityTradeoff]]
 [[Architectural_Conditioning]]
 [[CST_Equation]]
 [[CST计量仪]]
@@ -58,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

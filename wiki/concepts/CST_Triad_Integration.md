@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet，解决车规芯片既要、又要、还要难题的唯一解？_智车星球]]
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
+[[DARPA_3DHI_Roadmap]]
 [[DendriticReservoirState]]
 [[DualTopologyProductSplit]]
 [[ERI_2_0_Strategy]]
@@ -58,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[getnote_2025-12-17_3D异构集成_3DHI_技术深度研究_机遇_挑战与未来路径]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

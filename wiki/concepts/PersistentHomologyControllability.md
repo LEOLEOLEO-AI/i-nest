@@ -29,12 +29,12 @@ Auto-extracted concept from raw material compilation.
 [[ConnectomeComputationBasis]]
 [[Connectome]]
 [[Connectome_Inspired_Architecture]]
+[[CriticalPhaseTransitionStatisticalTest]]
 [[DataProvenanceIntegrity]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[causal emergence]]
-[[connectome]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[AI_Driven_Architecture_Search]]
 [[AI_Faculty_Forum_2026]]
+[[AI_Forum_Demo_Narrative]]
 [[AI_FullSpectrum_Strategy]]
 [[AdaptiveArchitecture]]
 [[AgenticServiceOrchestration]]

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[DARPA_ProjectManager_Model]]
 [[ErrorSuppressedPipeline]]
+[[FullyLocalOnlineSNNTraining]]
 [[HierarchicalReservoirDynamics]]
 [[Neuromorphic_Computing]]
 [[NonlinearDynamicalSampling]]
@@ -43,7 +44,6 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[ThermalNoiseHarnessing]]
 [[iNEST]]
-[[neuromorphic computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

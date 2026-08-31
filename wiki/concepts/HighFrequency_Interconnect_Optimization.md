@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[3DHI_Interconnect]]
 [[Additive_Manufacturing_Topology]]
+[[AdiabaticMultimodeBend]]
 [[AdvancedPackagingInterconnect]]
 [[ChipletRoutingFabric]]
 [[ChipletWaferInterconnectScaling]]

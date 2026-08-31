@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[FixedOverheadPenalty]]
 [[HippocampalNeocorticalIntelligence]]
 [[InNetworkNeuromorphicAdaptation]]
+[[In_Network_Neuromorphic_Learning]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]

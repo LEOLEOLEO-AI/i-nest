@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[3DHI_Interconnect]]
 [[AdvancedPackagingInterconnect]]
+[[ApproximationFidelityTradeoff]]
 [[BondMovingDecimation]]
 [[CST_SynergisticCoordination]]
 [[ChipletRoutingFabric]]
@@ -44,9 +45,9 @@ Auto-extracted concept from raw material compilation.
 [[NoC_SDI]]
 [[Order_Flexibility_Duality]]
 [[SDI_Bond]]
+[[SOC]]
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
-[[soc]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

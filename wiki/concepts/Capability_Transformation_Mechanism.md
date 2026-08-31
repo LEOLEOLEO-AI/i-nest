@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Entanglement_Teleportation_Locality]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]
+[[Mesoscale_Physical_Computing_Framework]]
 [[Network_Topology_Design]]
 [[Representation_Learning_Generalization]]
 [[SuperparamagneticSwitchingRate]]
@@ -54,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

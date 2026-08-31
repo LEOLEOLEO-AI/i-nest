@@ -19,4 +19,3 @@ TCC, iNEST
 [[Stigmergic_Graph_Memory]]
 [[TCC]]
 [[iNEST]]
-[[tcc]]

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicServiceComposition]]
 [[Free_Energy_Principle_Network]]
 [[Free_Energy_Topology_Mapping]]
+[[GeneralIntelligenceSubstrate]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]

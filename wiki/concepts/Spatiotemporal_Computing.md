@@ -44,11 +44,13 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_Interconnect]]
 [[NCL神经计算定律详解]]
 [[Network_Topology_Design]]
+[[SelfOrganizedLearning]]
 [[TCC]]
 [[analog computation]]
 [[complex system]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

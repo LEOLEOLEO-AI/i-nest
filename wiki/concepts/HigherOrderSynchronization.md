@@ -50,14 +50,13 @@ Auto-extracted concept from raw material compilation.
 [[SpatiotemporalComplexityIndex]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
-[[Spiking_neural_network]]
 [[SpontaneousOrderMechanism]]
+[[TemporalComplexity]]
 [[chiplet interconnect]]
 [[complex system]]
 [[iNEST]]
-[[neuromorphic computing]]
-[[temporalComplexity]]
 [[神经网络]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

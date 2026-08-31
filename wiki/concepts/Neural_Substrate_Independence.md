@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGABasedNeuromorphic]]
 [[Intelligence_Emergence]]
 [[IntrinsicDynamicsAutonomy]]
+[[LeftRightAsymmetry]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_MuscleInterface]]
@@ -44,7 +45,6 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[TCC]]
-[[connectome]]
 [[iNEST]]
 
 ## Sources

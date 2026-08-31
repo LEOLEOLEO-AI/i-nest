@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Architecture]]
 [[ComplexEcosystemDynamics]]
 [[Contested_Prior_Resolution]]
+[[Contested_Priors_Mechanism]]
 [[Continual_Learning_Topology]]
 [[CouplingMatrixRecovery]]
 [[Coupling_Strength_Encoding]]

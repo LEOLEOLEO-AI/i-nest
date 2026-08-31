@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[SelectorFreeHopfieldNetwork]]
 [[SpikeEncoding]]
 [[SpikePacketCompression]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[VectorQuantizedSpikeEncoding]]
@@ -49,11 +50,11 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Neuromorphic]]
 [[complex system]]
 [[iNEST]]
-[[spiking neural network]]
 [[智能涌现]]
 [[涌现]]
 [[神经形态计算]]
 [[神经网络]]
+[[类脑芯片]]
 [[脉冲神经网络]]
 
 ## Sources

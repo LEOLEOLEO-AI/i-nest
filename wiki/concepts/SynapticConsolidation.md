@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Architecture]]
 [[In_Package_Neuromorphic_Integration]]
 [[Interconnect_Routing]]
+[[LocalLearning_SynapticUpdate]]
 [[MoE_Routing]]
 [[NeuromorphicEdgeProcessing]]
 [[Neuromorphic_Computing]]

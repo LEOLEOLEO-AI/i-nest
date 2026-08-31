@@ -35,7 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[CounterstreamSignalPropagation]]
 [[CriticalityDrivenStateTransition]]
 [[Criticality]]
-[[Driven criticality]]
+[[CrossLayer_SignalRouting]]
 [[DrivenCriticalityDynamics]]
 [[Emergent_Intelligence_Threshold]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
@@ -54,7 +54,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[UniversalComputation]]
-[[criticality]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

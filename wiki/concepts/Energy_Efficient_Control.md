@@ -45,6 +45,8 @@ Auto-extracted concept from raw material compilation.
 [[InterconnectConstrainedEmergence]]
 [[L2_L3_Reconfigurability]]
 [[MultiplicativeGainMechanism]]
+[[MultiplicativeGain]]
+[[NCL神经计算定律详解]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
@@ -52,13 +54,13 @@ Auto-extracted concept from raw material compilation.
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
 [[TCC]]
+[[TemporalComplexity]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[analog computation]]
 [[chiplet interconnect]]
 [[complex system]]
 [[iNEST]]
-[[temporalComplexity]]
 [[神经网络]]
 
 ## Sources

@@ -37,7 +37,9 @@ Auto-extracted concept from raw material compilation.
 [[EfficientDeepLearning]]
 [[HierarchicalSpatiotemporalProcessing]]
 [[HigherOrder_Interaction_Modeling]]
+[[Intelligence_Emergence]]
 [[Intelligent_Emergence_Computing]]
+[[Intelligent_Power_Management]]
 [[Neuromorphic_Computing]]
 [[iNEST]]
 

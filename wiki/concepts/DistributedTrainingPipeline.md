@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_iNEST_Wafer]]
 [[OnDie_Fusion]]
 [[Packaging_CoDesign]]
+[[SDI_TopologyWaferIntegration]]
 [[Switchless_Computing]]
 [[TCC]]
 [[ThreeLayerArchitecture]]

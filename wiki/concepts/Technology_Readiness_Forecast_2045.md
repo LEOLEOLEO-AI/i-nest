@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[SelfOrganization]]
 [[Self_Organized_Criticality]]
+[[SensationModulatingNetwork]]
 [[Spiking_Neural_Network]]
 [[TopologyAdaptiveCoupling]]
 [[iNEST]]

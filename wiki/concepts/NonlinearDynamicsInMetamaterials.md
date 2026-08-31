@@ -33,12 +33,14 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[ReproducibleReservoirComputing]]
 [[ReproducibleReservoirDynamics]]
+[[ReservoirDynamics]]
 [[Reservoir_Computing]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
 [[TemperatureSensitivityControl]]
 [[ThermallyDrivenSuperparamagnetReservoir]]
 [[ThermallyDrivenSuperparamagneticReservoir]]
+[[TopologyEmbeddedIntrospection]]
 [[TriAxiomCalibration]]
 
 ## Sources

@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_iNEST_Wafer]]
 [[OnDie_Fusion]]
 [[PhysicalWaferTriplet]]
+[[Residual_Connection_Removal]]
 [[SDI_Bond]]
 [[SDSoW]]
 [[SDSoW_Architecture]]

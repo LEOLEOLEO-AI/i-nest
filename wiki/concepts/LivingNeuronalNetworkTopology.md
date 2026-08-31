@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Stacking]]
 [[CoPackagedOptics]]
 [[Cognitive_Relapse_Architecture]]
+[[Course_Based_FPGA_Projects]]
 [[DendriticReservoirState]]
 [[Free_Energy_Topology_Mapping]]
 [[FunctionalInterfaceBlock]]

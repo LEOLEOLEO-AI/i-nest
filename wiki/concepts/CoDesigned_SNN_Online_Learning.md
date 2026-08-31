@@ -38,11 +38,11 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[SNN_Config_Sensitivity]]
 [[Self_Organized_Criticality]]
+[[SpikePacketCompression]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[catastrophic forgetting]]
 [[iNEST]]
-[[online continual learning]]
-[[spiking neural network]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

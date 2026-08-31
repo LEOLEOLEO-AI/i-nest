@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Fixed_Reservoir_Unitary]]
 [[Generative_Graph_Models]]
 [[MantelTest_SignCorrection]]
+[[Network_State_Awareness]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[Reservoir_Computing]]

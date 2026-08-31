@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[AgenticServiceOrchestration]]
 [[Allreduce_Latency_Probe]]
 [[AmorphousTopologicalSubstrate]]
+[[AnalogInMemoryComputing]]
 [[Ant_Swarm_Functional_Control]]
 [[Architectural_Conditioning]]
 [[Attention_Residuals]]
@@ -52,7 +53,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[UniversalComputation]]
-[[criticality]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

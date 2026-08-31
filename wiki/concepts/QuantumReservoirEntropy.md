@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[CouplingMatrixRecovery]]
 [[Crystallized_Neural_Manifolds]]
 [[DifferentiableLifting]]
+[[Epidemic_Mitigation_Strategy]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
 

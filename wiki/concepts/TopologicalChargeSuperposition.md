@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Allreduce_Latency_Probe]]
+[[AlternativeBridgingModels]]
 [[AnomalousSpinTransport]]
 [[ArbitraryWavefunctionConfigurability]]
 [[Architectural_Conditioning]]
@@ -47,13 +48,10 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[Spiking_Neural_Network]]
-[[Spiking_neural_network]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]
-[[neuromorphic computing]]
-[[reservoir computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

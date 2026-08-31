@@ -33,10 +33,12 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[PhysicalReservoirInterconnect]]
+[[PhysicalReservoir]]
 [[ReservoirDynamics]]
 [[Reservoir_Computing]]
 [[Self_Organized_Criticality]]
 [[TCC]]
+[[TopologyCentricInference]]
 [[iNEST]]
 
 ## Sources

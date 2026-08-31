@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AdaptiveDensityControl]]
+[[AdjointWaveControl]]
 [[Anisotropic_Correlation_Length]]
 [[ArbitraryWavefunctionConfigurability]]
 [[CST_Equation]]
@@ -39,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_STDP_Rule]]
 [[STDP_Plasticity]]
 [[StatisticalTopologyControl]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[Topology_Time_Coupling]]
 

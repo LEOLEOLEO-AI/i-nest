@@ -49,15 +49,16 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
+[[NoiseModulated_Backprop]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SOC]]
 [[ScalingBehaviourDeviation]]
 [[SelfOrganizedOscillatoryLearning]]
 [[TOOLS]]
 [[catastrophic forgetting]]
 [[iNEST]]
-[[soc]]
-[[tools]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

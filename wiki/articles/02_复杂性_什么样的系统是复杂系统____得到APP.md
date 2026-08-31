@@ -27,4 +27,3 @@ iNEST
 [[Complex_System_Theory]]
 [[complex system]]
 [[iNEST]]
-[[inest]]

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[ANN_SNN_ConversionError]]
 [[CST_Spatiotemporal_Coefficient]]
+[[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
 [[Contested_Prior_Resolution]]
 [[Course_Based_FPGA_Projects]]

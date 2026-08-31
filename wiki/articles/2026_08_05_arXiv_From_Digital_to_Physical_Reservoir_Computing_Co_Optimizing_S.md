@@ -22,4 +22,3 @@ TCC, iNEST
 [[Soft_Robotic_Reservoir]]
 [[TCC]]
 [[iNEST]]
-[[inest]]

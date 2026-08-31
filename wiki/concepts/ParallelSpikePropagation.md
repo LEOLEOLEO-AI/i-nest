@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN_NeuroprostheticPipeline]]
 [[Self_Organized_Criticality]]
 [[SpikeBackpropagation]]
+[[SpikeBasedGradientDescent]]
 [[SpikeEventTopology]]
 [[Spiking_Neural_Network]]
 [[Teleportation_Assisted_Interconnect]]

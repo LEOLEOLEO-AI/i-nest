@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Communication_Trace_Diagnostics]]
 [[ComplexValuedSNN]]
 [[DendriticTaskPartitioning]]
+[[EpidemicThreshold]]
 [[HigherOrderSimplicialDynamics]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

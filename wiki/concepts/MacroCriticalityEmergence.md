@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[HierarchicalBayesianCommunityDetection]]
 [[Intelligence_Emergence]]
 [[Memristor_Network]]
+[[Memristor_Synapse]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[National_Innovation_Center_Role]]
 [[Network_Topology_Design]]
@@ -52,7 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TemporalDynamicsModeling]]
 [[TopologyDrivenDynamics]]
-[[criticality]]
+[[VisualSemanticDecoding]]
 [[iNEST]]
 
 ## Sources

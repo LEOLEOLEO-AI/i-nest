@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[EvolutionaryReservoirLearning]]
 [[Intelligence_Emergence]]
 [[LeftRightAsymmetry]]
+[[MeasurementInducedPhaseTransition]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neural_Substrate_Independence]]
 [[Neuromorphic_Computing]]

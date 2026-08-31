@@ -39,14 +39,16 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[Network_Specific_Embedding_Separation]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[PairwiseCorrelationConstraint]]
+[[SOC]]
 [[Spiking_Neural_Network]]
 [[catastrophic forgetting]]
 [[iNEST]]
-[[soc]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

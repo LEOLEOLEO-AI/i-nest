@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AINext_Initiative]]
 [[AI_Assisted_Energy_Management]]
+[[Active_Inference_Agent]]
 [[AdaptiveArchitecture]]
 [[AdaptiveDensityControl]]
 [[AnalogDomainCompression]]
@@ -38,7 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[UniversalComputationAtCriticality]]
-[[criticality]]
+[[UniversalComputation]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

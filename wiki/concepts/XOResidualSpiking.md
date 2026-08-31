@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AlloyDisorderEngineering]]
 [[AlternativeBridgingModels]]
 [[BrainActivityPrediction]]
+[[CombinedImportanceScoring]]
 [[DirectoryManagementLaws]]
 [[ErrorSuppressedPipeline]]
 [[ExtinctionDrivenMetastability]]
@@ -38,10 +39,10 @@ Auto-extracted concept from raw material compilation.
 [[PPT]]
 [[ReSCom_Accelerator]]
 [[SNN]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 [[residual connection]]
-[[spiking neural network]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

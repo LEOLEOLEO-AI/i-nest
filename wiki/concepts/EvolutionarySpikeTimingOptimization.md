@@ -29,6 +29,8 @@ Auto-extracted concept from raw material compilation.
 [[CrossLayer_SignalRouting]]
 [[EnergyEfficientNeuromorphic]]
 [[HardwareAware_DesignSpace]]
+[[Interconnect_Routing]]
+[[LossSpikePhenomenon]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[SNN]]

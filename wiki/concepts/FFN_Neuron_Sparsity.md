@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Advanced_Packaging_for_Space]]
 [[Alignment_Tax]]
 [[BioInspired_Interception_Control]]
+[[BrainInspiredArchitecture]]
 [[Neuromorphic_Computing]]
 [[iNEST]]
 

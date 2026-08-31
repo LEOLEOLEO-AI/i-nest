@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[RareEventSignalCoding]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
+[[SpikeTimingEncoding]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[UniSpike_Acceleration]]

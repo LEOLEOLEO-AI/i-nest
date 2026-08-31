@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[SelfOrganizedOscillatoryLearning]]
 [[SuperparamagneticSwitchingRate]]
 [[Synaptic_Plasticity]]
+[[Syncytial_Mesh_Model]]
 [[TCC]]
 [[TemporalDynamicsModeling]]
 [[Temporal_Dynamics_Integration]]

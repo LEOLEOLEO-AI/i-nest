@@ -43,10 +43,13 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[OpportunisticRoutingRL]]
+[[OpportunisticRouting]]
 [[SelfOrganization]]
 [[TCC]]
+[[WaveBasedInformationRouting]]
 [[忆阻器]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[类脑芯片]]
 
 ## Sources

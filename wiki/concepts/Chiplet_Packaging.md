@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
 [[Chiplet_Interconnect_Topology]]
+[[Chiplet_NoC_Interconnect]]
 [[Chiplet_Stacking]]
 [[Chiplet_Topology]]
 [[CoPoS]]
@@ -54,10 +55,10 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Packaging]]
 [[advanced packaging]]
 [[chiplet interconnect]]
-[[chiplet packaging]]
 [[iNEST]]
 [[iNEST_Wafer]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

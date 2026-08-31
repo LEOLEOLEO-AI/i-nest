@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Baseline_Draft_Status]]
+[[BoundaryObject_Abstraction]]
 [[Closed_Loop_Neuromodulation]]
 [[ContinuousGameOfLife]]
 [[CrossDomain_Abstraction]]
@@ -41,12 +42,12 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[P_Paradigm]]
 [[PhysicalReservoirDynamicsEncoding]]
+[[PhysicalReservoirDynamics]]
 [[PhysicalReservoir]]
 [[RecursiveSelfReferentialArchitecture]]
 [[ReservoirDynamics]]
 [[Reservoir_Computing]]
 [[TopologicalAndersonChernInsulator]]
-[[reservoir computing]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

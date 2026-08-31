@@ -46,7 +46,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[Yann LeCun：发现智能原理是AI的终极问题]]
 [[iNEST]]
-[[neuromorphic computing]]
 [[向大脑学习智能本质，探索通用 AI 的另一条可行路径]]
 [[夏强飞一天2篇Nature大子刊：感存算一体，忆阻器阵列模拟计算]]
 [[忆阻器]]
@@ -55,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[涌现]]
 [[神经形态脉冲大语言模型（NSLLM）]]
 [[神经形态计算]]
+[[神经形态计算突破：脉冲神经网络实现机器人超低功耗定位新范式]]
 [[神经网络]]
 [[脉冲神经网络]]
 

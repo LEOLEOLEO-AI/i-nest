@@ -44,14 +44,16 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[ScalableNeuromorphicTopology]]
 [[Spike_Encoding_of_fMRI]]
+[[Spiking neural network]]
 [[SpikingNeuralNetworkTopologyMapping]]
 [[SpikingNeuralNetworkTopology]]
+[[SpikingNeuralNetwork]]
 [[SpikingTopologyAnalysis]]
 [[Spiking_Neural_Network]]
 [[TCC]]
+[[TCC_SpikingAnalysis]]
 [[TCC_SpikingIntegration]]
 [[iNEST]]
-[[spiking neural network]]
 [[神经网络]]
 
 ## Sources

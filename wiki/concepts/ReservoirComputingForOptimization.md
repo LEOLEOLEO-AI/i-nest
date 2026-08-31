@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[CrashHotspotForecasting]]
 [[DivergentHigherAreaRanking]]
 [[EchoState_n_ch]]
+[[EnvironmentalEmbedding]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
@@ -41,8 +42,6 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
-[[neuromorphic computing]]
-[[reservoir computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

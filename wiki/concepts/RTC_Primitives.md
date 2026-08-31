@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
 [[Complex_System_Theory]]
+[[CrossbarArrayArchitecture]]
 [[DiagnosticReportFramework]]
 [[DynamicServiceComposition]]
 [[EulaminateOverrepresentation]]
@@ -54,14 +55,15 @@ Auto-extracted concept from raw material compilation.
 [[Structural_Mismatch]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[TemporalComplexity]]
 [[TopologyProgramming]]
 [[Topology_Page]]
 [[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
-[[temporalComplexity]]
 [[topology reconfiguration]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

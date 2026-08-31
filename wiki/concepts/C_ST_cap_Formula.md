@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossEntityPreemptiveWarning]]
 [[DiscreteContinuous_Unification]]
 [[EnergyProportionalityCeiling]]
+[[EventBasedMotionDeblurring]]
 [[SNN]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]

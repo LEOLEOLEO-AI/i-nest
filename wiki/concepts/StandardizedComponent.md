@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
+[[Chiplet_based_heterogeneous_integration]]
 [[Complex_System_Theory]]
 [[CorticalTypeDiversity]]
 [[Criticality]]
@@ -61,15 +62,12 @@ Auto-extracted concept from raw material compilation.
 [[SuperlinearGain]]
 [[SystemLevelNonlinearity]]
 [[TCC]]
-[[TcC]]
 [[TcComputation]]
 [[TemperatureSensitivityControl]]
 [[TemporalComplexity]]
 [[Topology_Interconnect]]
 [[chiplet interconnect]]
-[[criticality]]
 [[residual connection]]
-[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

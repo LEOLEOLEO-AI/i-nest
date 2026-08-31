@@ -18,7 +18,7 @@ SDI, iNEST, wafer, 封装, 拓扑, 晶圆
 
 [[Network_Topology_Design]]
 [[SDI_Bond]]
-[[SoC]]
+[[SOC]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[iNEST]]

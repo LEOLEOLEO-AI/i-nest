@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[FPGASNNMemoryOptimization]]
+[[FixedOverheadCost]]
 [[HippocampalNeocorticalIntelligence]]
 [[Intelligence_Emergence]]
 [[MultiScaleTemporalProcessing]]

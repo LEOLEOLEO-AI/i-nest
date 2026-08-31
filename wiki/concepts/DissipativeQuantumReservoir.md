@@ -36,7 +36,6 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[Neural_Network_Quantum_State_Transfer_Learning]]
 [[Neuromorphic_Computing]]
-[[Neuromorphic_computing]]
 [[Nonlinear_Gain]]
 [[OpticalNonlinearity]]
 [[RecursiveSelfReferentialArchitecture]]
@@ -46,11 +45,13 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[STDP_iNEST_Memristive]]
+[[Spike_Timing_Dependent_Plasticity]]
 [[Spike_timing_dependent_plasticity_learning_rule]]
+[[Spiking_Neural_Network]]
+[[Spiking_neural_network_dynamics]]
 [[Synaptic_Plasticity]]
 [[complex system]]
 [[iNEST]]
-[[neuromorphic computing]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

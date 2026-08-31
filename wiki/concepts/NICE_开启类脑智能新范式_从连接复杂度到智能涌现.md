@@ -41,6 +41,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Neuromorphic_Computing]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
+[[Spiking_Neural_Network]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
@@ -55,3 +56,4 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[术语对照表]]
 [[涌现]]
 [[神经网络]]
+[[类脑芯片]]

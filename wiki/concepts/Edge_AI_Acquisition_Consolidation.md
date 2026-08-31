@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[DTGA]]
 [[DataDrivenCellularAxis]]
 [[Hardware_Accelerated_SNN]]
+[[InNetworkNeuromorphicEmergence]]
 [[Intelligence_Emergence]]
 [[MembranePotentialAlignment]]
 [[Network_Topology_Design]]

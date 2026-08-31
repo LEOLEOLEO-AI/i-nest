@@ -42,11 +42,13 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
 [[InNetwork_CST_Offload]]
+[[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Integration]]
 [[Intelligence_Emergence]]
 [[Macro_System_Description]]
 [[Memory_Wall]]
 [[Memristive_ANN_Hardware]]
+[[Memristive_STDP]]
 [[MetricComputationAuthenticity]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
@@ -71,8 +73,6 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[residual connection]]
 [[scaling laws]]
-[[temporalComplexity]]
-[[universal scaling laws]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

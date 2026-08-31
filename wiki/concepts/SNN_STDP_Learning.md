@@ -25,11 +25,15 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[BioInspiredSequenceLearning]]
 [[BrainInspired_Chip]]
+[[Continuous_Control_Spike_Timing_Sensitivity]]
 [[Neuromorphic_Computing]]
+[[SNN]]
+[[STDP_Learning]]
 [[STDP_Plasticity]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
-[[spiking neural network]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

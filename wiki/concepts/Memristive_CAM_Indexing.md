@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CoPackagedOptics]]
+[[ComputationEfficientDeepLearning]]
 [[ConsciousIntegration]]
 [[CrossDomain_Integration]]
 [[Deep_Network_Architecture_Invariant]]
@@ -45,10 +46,10 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SOC]]
 [[State_Transition_Formalism]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]
-[[soc]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

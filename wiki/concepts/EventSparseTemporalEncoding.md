@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[EdgeInspectionInference]]
 [[End_Side_Neuromorphic_Deployment]]
 [[FerroelectricCrossbarArray]]
+[[FerroelectricSynapse]]
 [[Ferroelectric_Devices]]
 [[Ferroelectric_Synaptic_Devices]]
 [[Gaussian_Splat_Compression]]
@@ -40,11 +41,11 @@ Auto-extracted concept from raw material compilation.
 [[Memory_Wall]]
 [[ModelOptimization]]
 [[Neuromorphic_Computing]]
+[[SOC]]
 [[SparseTemporalEncoding]]
 [[SpikePacketCompression]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
-[[soc]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

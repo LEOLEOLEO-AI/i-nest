@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[ModelToChipCompilation]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
+[[RTC_Primitives]]
 [[SDI_Bond]]
 [[SDI_Chip_Indicator_Change]]
 [[SDI_TCC_Chiplet]]
@@ -48,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologyProgramming]]
 [[chiplet interconnect]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

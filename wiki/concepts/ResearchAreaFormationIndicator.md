@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[FirstPrinciples_AI]]
 [[Hardware_Software_CoDesign]]
 [[IMPLY_ISA]]
+[[Intellectual_Base]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[NeuromorphicRadarFrontend]]
@@ -43,11 +44,11 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Reconfigurable_Topology]]
 [[SDI_Bond]]
 [[SDI_TCC_iNEST_Bridge]]
+[[SDI_iNEST_Encapsulation]]
 [[TCC]]
 [[iNEST]]
-[[intellectual base]]
-[[neuromorphic computing]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[BackpropagationFreeLearning]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
+[[CompactFieldVariable]]
 [[Complex_System_Theory]]
 [[DARPA_ProjectManager_Model]]
 [[Decoupled_Priors]]
@@ -48,6 +49,8 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[RTC_Primitive]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SDSoW]]
+[[SDSoW_Architecture]]
 [[SDSoW_Physical_Base]]
 [[SoftwareDefinedSystemOnWafer]]
 [[SuperparamagneticSwitchingRate]]
@@ -57,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[Topology_Centric_Interconnect]]
 [[chiplet interconnect]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

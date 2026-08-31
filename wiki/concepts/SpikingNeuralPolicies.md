@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Event_Driven_Attention]]
 [[Spiking_Neural_Network]]
 [[StructuredTemporalAttention]]
+[[TemporalSparsityExploitation]]
 [[iNEST]]
 
 ## Sources

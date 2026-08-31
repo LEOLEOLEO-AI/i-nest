@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[PhysicalReservoirInterconnect]]
 [[PhysicalReservoir]]
+[[PlanarNetworkSimulation]]
 [[Reservoir_Computing]]
 [[Self_Organized_Criticality]]
 [[TCC]]

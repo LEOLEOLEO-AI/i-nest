@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_InMemory_Processing]]
 [[ArbitraryWavefunctionConfigurability]]
 [[BCM滑动阈值]]
+[[CST_Triad_Framework]]
 [[CST_Triad_Integration]]
 [[CST计量仪]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -50,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

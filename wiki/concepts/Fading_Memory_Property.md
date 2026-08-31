@@ -50,6 +50,8 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[ReproducibleReservoirComputing]]
 [[Reservoir_Computing]]
+[[SDI_Bond]]
+[[SOC — 自组织临界（Self-Organized Criticality）]]
 [[STDP_Plasticity]]
 [[ShortTermMemory]]
 [[Synaptic_Plasticity]]
@@ -58,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经形态脉冲大语言模型（NSLLM）]]
 [[神经网络]]
 

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveSpikingPerception]]
 [[AdaptersInSpikingNetworks]]
 [[AstrocyteInspiredRepair]]
+[[AttentionGuidedEntropy]]
 [[Complex_System_Theory]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]

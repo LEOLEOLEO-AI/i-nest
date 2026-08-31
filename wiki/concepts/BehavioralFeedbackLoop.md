@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[CST计量仪]]
 [[CirculateFiringNeuron]]
 [[Complex_System_Theory]]
+[[DendriticReservoirState]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[EmulationTheoryObserver]]
@@ -46,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SDPrompt_Guided_Dynamic_Expert_Fusion]]
+[[SOC]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[Scale_Dependent_Coherence]]
@@ -53,9 +55,9 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[Syncytial_Mesh]]
 [[iNEST]]
-[[soc]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

@@ -48,10 +48,12 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[ThirdWaveAI]]
 [[ThroughSiliconVia_TSV_ThermalPath]]
+[[Topology_Centric_Interconnect]]
 [[WaferScaleNeuromorphicTopology]]
 [[WaferScaleSubstrate]]
 [[chiplet interconnect]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

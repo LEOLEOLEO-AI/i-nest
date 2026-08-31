@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
 [[Connectome]]
+[[Crystallized_Neural_Manifolds]]
 [[DendriticReservoirState]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Abilities]]
@@ -52,7 +53,6 @@ Auto-extracted concept from raw material compilation.
 [[TopologicalAndersonChernInsulator]]
 [[complex system]]
 [[quantum reservoir computing]]
-[[reservoir computing]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

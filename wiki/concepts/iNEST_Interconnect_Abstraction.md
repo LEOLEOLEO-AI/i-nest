@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BackpropagationFreeLearning]]
 [[CST计量仪]]
 [[CavityMethodAnalysis]]
+[[CommunicationHeterogeneity]]
 [[Complex_System_Theory]]
 [[DynamicServiceComposition]]
 [[Free_Energy_Topology_Mapping]]
@@ -48,7 +49,9 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[ThirdWaveAI]]
 [[iNEST]]
+[[iNEST_Interconnect]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

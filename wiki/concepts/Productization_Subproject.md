@@ -20,7 +20,6 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[TCC]]
-[[tcc]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

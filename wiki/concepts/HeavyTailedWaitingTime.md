@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AdaptiveSTDP]]
 [[Bidirectional_Temporal_Enhancement]]
+[[DiscreteSTDPLearning]]
 [[DiscreteSTDP]]
 [[ITP_STDP]]
 [[ITP_STDP_Learning_Engine]]
@@ -31,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[PolychronousNeuronalGroups]]
 [[SDI_Bond]]
 [[SDI_STDP]]
+[[SOC]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]
 [[SelfInhibitionFeedbackLoop]]

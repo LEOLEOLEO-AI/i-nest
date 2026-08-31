@@ -44,7 +44,9 @@ Auto-extracted concept from raw material compilation.
 [[SpikeRoutingFabric]]
 [[SpikeTimingPreservation]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
+[[iNEST_Neuromorphic_Integration]]
 [[temporal coding]]
 
 ## Sources

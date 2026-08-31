@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[Chip-Hardware — 全景导航 (Map of Content)]]
 [[CirculateFiringNeuron]]
 [[ComplexValuedSNN]]
 [[Emergent_Intelligence_Threshold]]
@@ -40,8 +41,6 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TemporalInformationStorage]]
 [[Yann LeCun：发现智能原理是AI的终极问题]]
-[[neuromorphic computing]]
-[[sparse distributed memory]]
 [[temporal coding]]
 [[向大脑学习智能本质，探索通用 AI 的另一条可行路径]]
 [[在 FPGA 上实现并行脉冲神经网络（Spiking Neural Net）]]

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspiredLearningRule]]
 [[Biomanufacturing_Control_Loop]]
 [[BranchingRatio]]
+[[BrownianCastleInterface]]
 [[BurstTemporalPlasticity]]
 [[Categorical_Reservoir_Model]]
 [[ChannelEventSparsity]]
@@ -43,7 +44,6 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[Synaptic_Plasticity]]
 [[TopologyEmbeddedIntrospection]]
-[[neuromorphic computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

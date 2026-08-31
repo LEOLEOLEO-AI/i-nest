@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[BrainScaleTopologyExploitation]]
 [[Brain_Dynamics_Learning]]
 [[CSPNeuralEncoding]]
+[[ClassificationPerformance]]
 [[ClinicalTranslationBridge]]
 [[CollectiveDynamics]]
 [[Complex_Network_Brain_Inspired_Computing]]
@@ -48,10 +49,10 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Spike_Encoding_of_fMRI]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[TopologicalAndersonChernInsulator]]
 [[complex system]]
-[[spiking neural network]]
 [[神经网络]]
 
 ## Sources

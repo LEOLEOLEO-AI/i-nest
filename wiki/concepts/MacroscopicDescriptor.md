@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Network_Neuromorphic_Processing]]
 [[Intelligence_Emergence]]
 [[Memristive_ANN_Hardware]]
+[[Memristor_Network]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[MetricComputationAuthenticity]]
 [[MultiplicativeGain]]
@@ -45,7 +46,6 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
-[[Neuromorphic_computing]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[Nonlinear_Gain]]
 [[Order_Flexibility_Duality]]
@@ -64,12 +64,12 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]
+[[TemporalComplexity]]
 [[TemporalDynamicsModeling]]
 [[TopologyFragility]]
 [[complex system]]
 [[iNEST]]
 [[residual connection]]
-[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

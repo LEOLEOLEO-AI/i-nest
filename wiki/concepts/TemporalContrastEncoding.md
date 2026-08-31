@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[SelfOrganizedOscillatoryLearning]]
 [[SpectralSpikeEncoding]]
+[[SpikeEncoding]]
 [[SpikeTimingFidelity]]
 [[SpikeTimingGradientPropagation]]
 [[SpikeTimingGradient]]
@@ -48,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[Synchronization_Overhead_Mitigation]]
+[[TemporalAdversarialPerturbation]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

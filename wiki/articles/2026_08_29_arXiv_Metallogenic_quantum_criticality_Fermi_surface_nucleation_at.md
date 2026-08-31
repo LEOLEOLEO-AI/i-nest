@@ -17,9 +17,7 @@ TCC, iNEST
 ## Related Concepts
 
 [[Criticality]]
+[[Quantum_Criticality]]
 [[Self_Organized_Criticality]]
 [[TCC]]
-[[criticality]]
 [[iNEST]]
-[[inest]]
-[[quantum criticality]]

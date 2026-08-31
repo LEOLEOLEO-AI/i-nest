@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[EmergentCooperation]]
 [[Emergent_Generalization]]
 [[EnergyEfficientNeuromorphic]]
+[[Frontier_Innovation_Mapping]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]

@@ -54,9 +54,9 @@ Auto-extracted concept from raw material compilation.
 [[Spin_Glass_Order_Parameter]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
+[[TopologyEmbeddedIntrospection]]
 [[branch prediction]]
 [[pipelined processor]]
-[[reservoir computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

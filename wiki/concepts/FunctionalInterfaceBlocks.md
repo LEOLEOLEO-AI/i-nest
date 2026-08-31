@@ -55,11 +55,11 @@ Auto-extracted concept from raw material compilation.
 [[SwarmGradientRouting]]
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
+[[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[complex system]]
 [[iNEST]]
-[[neuromorphic integration]]
 [[神经网络]]
 [[类脑芯片]]
 

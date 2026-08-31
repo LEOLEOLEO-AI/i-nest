@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CircuitTopologySearch]]
 [[Complex_System_Theory]]
 [[ComputationEfficientDeepLearning]]
+[[ConcentricDiscreteOpticalVortices]]
 [[CrossLingualIdiomGraph]]
 [[Deep_Network_Architecture_Invariant]]
 [[DynamicServiceComposition]]
@@ -45,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

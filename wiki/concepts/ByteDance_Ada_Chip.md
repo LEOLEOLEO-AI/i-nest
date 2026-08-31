@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[BackpropagationFreeLearning]]
 [[BigBrainCellularAxis]]
+[[CST_Equation]]
 [[CST计量仪]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
@@ -32,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[ElectromigrationReliability]]
 [[Heterogeneous_Integration]]
 [[Independent_EdgeAI_Player_Endgame]]
+[[Intelligence_Emergence]]
 [[Medical_Large_Language_Models]]
 [[Memristive_Interconnect]]
 [[Memristive_STDP]]
@@ -56,7 +58,6 @@ Auto-extracted concept from raw material compilation.
 [[UniversalIntelligence_Emergence]]
 [[iNEST]]
 [[neuromorphic computing architecture]]
-[[neuromorphic computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

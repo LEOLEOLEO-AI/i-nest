@@ -36,9 +36,11 @@ Auto-extracted concept from raw material compilation.
 [[EfficientDeepLearning]]
 [[HierarchicalSpatiotemporalProcessing]]
 [[Intelligent_Power_Management]]
+[[Interconnect_Routing]]
 [[Memristive_Interconnect]]
 [[Neuromorphic_Computing]]
 [[StochasticVehicleRouting]]
+[[TCC_Neuromorphic_Integration]]
 [[iNEST]]
 
 ## Sources

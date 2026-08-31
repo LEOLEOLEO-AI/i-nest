@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Receptron_Unit]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Resilient_Satellite_Mesh]]
+[[SelfOrganizationInContinuousMedia]]
 [[Self_Organized_Criticality]]
 [[Synaptic_Plasticity]]
 [[TopologicalAndersonChernInsulator]]

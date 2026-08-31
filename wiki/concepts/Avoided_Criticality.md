@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[PowerLawScaling]]
 [[RealTimeImageToEventConversion]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SDI_STDP]]
 [[SNN]]
 [[ST_SNN]]
 [[Self_Organized_Criticality]]
@@ -48,7 +49,6 @@ Auto-extracted concept from raw material compilation.
 [[Syncytial_Mesh]]
 [[Syncytial_Mesh_Model]]
 [[TwoTimescaleNeuroEvolution]]
-[[criticality]]
 [[iNEST]]
 
 ## Sources

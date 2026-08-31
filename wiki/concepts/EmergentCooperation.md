@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[ElectronicBurstingNeuron]]
 [[Emergent_Generalization]]
 [[Emergent_Generalization_Dynamics]]
+[[EnergyEfficientNeuromorphic]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]

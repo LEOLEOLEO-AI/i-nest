@@ -32,12 +32,11 @@ Auto-extracted concept from raw material compilation.
 [[FPGAInference]]
 [[Less is more，大脑“低能耗”并“高效响应”的秘诀：模块化]]
 [[MicroCriticalAgent]]
+[[NonInvasive_Neuromorphic_Prognosis]]
 [[Self_Organized_Criticality]]
 [[StandardizedComponent]]
 [[TCC]]
 [[TCC核心概念与基线理论集 (TCC Core Concepts)]]
-[[TcC]]
-[[criticality]]
 [[iNEST]]
 [[大脑临界性_健康脑功能的统一设定点假说_Neuron观点文章深度解析]]
 

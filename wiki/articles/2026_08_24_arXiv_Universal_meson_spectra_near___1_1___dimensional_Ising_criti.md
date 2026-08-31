@@ -19,6 +19,4 @@ TCC, iNEST
 [[Criticality]]
 [[Self_Organized_Criticality]]
 [[TCC]]
-[[criticality]]
 [[iNEST]]
-[[inest]]

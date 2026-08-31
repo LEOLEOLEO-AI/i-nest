@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AINext_Initiative]]
 [[Allreduce_Latency_Probe]]
+[[AlternativeBridgingModels]]
 [[AnisotropicGaussianPrimitives]]
 [[Architectural_Conditioning]]
 [[Bidirectional_Temporal_Enhancement]]
@@ -45,14 +46,12 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[SpikeTimingFidelity]]
 [[Spike_Encoding_of_fMRI]]
-[[Spike_timing_dependent_plasticity]]
+[[Spike_Timing_Dependent_Plasticity]]
 [[Spiking_Neural_Network]]
-[[Spiking_neural_network]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[TemporalPrecisionParallelism]]
 [[iNEST]]
-[[neuromorphic computing]]
 [[scaling laws]]
 
 ## Sources

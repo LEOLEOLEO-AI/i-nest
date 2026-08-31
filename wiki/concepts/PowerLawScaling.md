@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[RealTimeImageToEventConversion]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SDI_STDP]]
 [[SNN]]
 [[ST_SNN]]
 [[Self_Organized_Criticality]]
@@ -48,7 +49,6 @@ Auto-extracted concept from raw material compilation.
 [[Syncytial_Mesh_Model]]
 [[TCC]]
 [[TwoTimescaleNeuroEvolution]]
-[[criticality]]
 [[iNEST]]
 
 ## Sources

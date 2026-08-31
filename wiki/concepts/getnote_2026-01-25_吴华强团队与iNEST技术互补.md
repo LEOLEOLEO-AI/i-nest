@@ -30,6 +30,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Communication_Trace_Diagnostics]]
 [[ComplexValuedSNN]]
 [[DendriticTaskPartitioning]]
+[[Distributed_Spike_Communication]]
 [[EpidemicThreshold]]
 [[Interconnect_Routing]]
 [[MultiFPGAScaling]]

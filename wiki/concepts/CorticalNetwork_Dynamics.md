@@ -33,13 +33,15 @@ Auto-extracted concept from raw material compilation.
 [[AutonomousServiceNegotiation]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
-[[KV_Cache_to_BoundaryObject]]
+[[KV_Cache_To_BoundaryObject]]
 [[KV_Cache_to_BoundaryObject_Transition]]
 [[L2_L3_Reconfigurability]]
+[[NCL神经计算定律详解]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CrashHotspotForecasting]]
 [[DARPA_ProjectManager_Model]]
 [[DivergentHigherAreaRanking]]
+[[Fixed_Reservoir_Unitary]]
 [[Globally_Optimal_SNN_Training]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
@@ -43,7 +44,6 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[neuromorphic spiking]]
 [[reservoir computing architecture]]
-[[reservoir computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

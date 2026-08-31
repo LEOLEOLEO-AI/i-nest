@@ -45,15 +45,15 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Sensor_Fusion]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Spike_Encoding_of_fMRI]]
+[[Spiking neural network]]
 [[SpikingMoE_SDPrompt]]
+[[SpikingTopologyAnalysis]]
 [[Spiking_Mixture_of_Experts]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[advanced packaging]]
 [[iNEST]]
-[[neuromorphic computing]]
 [[neuromorphic interconnect]]
-[[spiking neural network]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

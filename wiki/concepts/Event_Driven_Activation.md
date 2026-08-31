@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[EnergyEfficientNeuromorphicDesign]]
 [[EnergyEfficientNeuromorphic]]
+[[EventBasedVisualStream]]
 [[Event_Driven_Architecture]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
@@ -49,7 +50,6 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
-[[neuromorphic trigger]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

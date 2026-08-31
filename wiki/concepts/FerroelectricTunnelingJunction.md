@@ -52,10 +52,9 @@ Auto-extracted concept from raw material compilation.
 [[PostVonNeumannIntelligence]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SneakPathCurrentSuppression]]
-[[analog synaptic behavior]]
+[[SwarmGradientRouting]]
 [[complex system]]
 [[iNEST]]
-[[neuromorphic computing]]
 [[待分类]]
 [[神经网络]]
 

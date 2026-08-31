@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[BioPlausiblePredictiveCoding]]
+[[BurstGatedRouting]]
 [[CriticalStateInformationMaximization]]
 [[Criticality]]
 [[CrossLayer_SignalRouting]]
@@ -40,12 +41,12 @@ Auto-extracted concept from raw material compilation.
 [[SpikeBasedGradientDescent]]
 [[SpikeCodedSafetyMonitoring]]
 [[Spike_Encoding_of_fMRI]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[Topology_Aware_Spike_Routing]]
 [[iNEST]]
-[[spiking neural network]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Defense_Industrial_Base_Reshaping]]
 [[EfficientDeepLearning]]
 [[EmergentIntelligence_Spacetime]]
+[[Flow_Network_Memory]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
 [[Heterogeneous_Inference_Division]]
@@ -56,10 +57,10 @@ Auto-extracted concept from raw material compilation.
 [[SpatiotemporalComplexityIndex]]
 [[SystemLevelNonlinearity]]
 [[TCC]]
+[[TemporalComplexity]]
 [[Textbook_Paradigm_Definition]]
 [[chiplet interconnect]]
 [[iNEST]]
-[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

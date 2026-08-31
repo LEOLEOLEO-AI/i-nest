@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[MacroCriticalityEmergence]]
 [[Memristor_Network]]
+[[Memristor_Synapse]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[National_Innovation_Center_Role]]
 [[Network_Topology_Design]]
@@ -51,10 +52,10 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
+[[TemporalDynamicsModeling]]
 [[TopologicalAndersonChernInsulator]]
 [[TopologyDrivenVulnerability]]
 [[VisualSemanticDecoding]]
-[[criticality]]
 [[iNEST]]
 
 ## Sources

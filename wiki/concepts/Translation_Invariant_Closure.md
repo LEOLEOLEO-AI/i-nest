@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
 [[CorticalTypeDiversity]]
+[[DTGA]]
 [[Environmental_Capability_Context]]
 [[FirstPrinciples_Derivation]]
 [[Free_Energy_Principle_Network]]

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalInterfaceBlock]]
 [[HeavyTailedWaitingTime]]
 [[ITP_STDP]]
+[[ITP_STDP_Engine]]
 [[Neuromorphic_Computing]]
 [[STDP_Plasticity]]
 [[Spiking_Neural_Network]]

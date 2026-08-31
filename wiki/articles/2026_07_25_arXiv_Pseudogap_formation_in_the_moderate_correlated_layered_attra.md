@@ -16,8 +16,7 @@ TCC, iNEST
 
 ## Related Concepts
 
-[[Pseudogap formation]]
+[[Layered_Attractive_Hubbard_Model]]
+[[Pseudogap_Formation]]
 [[TCC]]
 [[iNEST]]
-[[inest]]
-[[layered attractive Hubbard model]]

@@ -45,11 +45,11 @@ Auto-extracted concept from raw material compilation.
 [[STDP_iNEST]]
 [[SpikeEncoding]]
 [[Spike_Encoding_of_fMRI]]
-[[SpikingNeuralNetwork]]
 [[Spiking_Neural_Network]]
 [[SurrogateGradientMethod]]
 [[SynapticFatigueModel]]
 [[Synaptic_Plasticity]]
+[[Syncytial_Mesh_Model]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

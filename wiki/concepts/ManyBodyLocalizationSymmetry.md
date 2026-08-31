@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[PhotonicStateRetention]]
 [[TCC]]
+[[Topology_Centric_Packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

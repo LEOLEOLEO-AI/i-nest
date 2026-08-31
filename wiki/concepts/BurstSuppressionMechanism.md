@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[ActivityAvalanche]]
 [[AnisotropicGaussianPrimitives]]
 [[Avoided_Criticality]]
+[[BioInspiredInterceptionTask]]
 [[BulletTrainScheduling]]
 [[BurstSuppression]]
 [[Criticality]]

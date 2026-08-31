@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[SpikingNeuralAccelerator]]
 [[Spiking_Neural_Network]]
+[[SurrogateGradientAsymmetry]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

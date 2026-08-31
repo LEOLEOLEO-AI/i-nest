@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Spinal_CPG_Coordinated_Control]]
 [[SynapticConsolidation]]
+[[TemporalSparsityExploitation]]
 [[iNEST]]
 
 ## Sources

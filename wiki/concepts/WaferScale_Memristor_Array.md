@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_Interconnect]]
 [[Memristor_Hardware_ANN]]
 [[Memristor_Synapse]]
+[[Mesoscale_Heterogeneous_Integration]]
 [[National_Mesoscale_Innovation_Center]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
@@ -43,7 +44,6 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Neuromorphic]]
 [[iNEST]]
 [[iNEST_Wafer]]
-[[neuromorphic computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

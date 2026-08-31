@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[RedundancyControlledStochasticRouting]]
 [[Reservoir_Computing]]
+[[SDI_STDP_Rule]]
 [[STDPDrivenConnectivity]]
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]

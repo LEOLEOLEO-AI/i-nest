@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[11_SDI节点接口规范与化合键定义_dup]]
 [[AI_Faculty_Forum_2026]]
+[[ActiveDendriteSNN]]
 [[Allreduce_Latency_Probe]]
 [[BrainBodyResonance]]
 [[Chiplet_Heterogeneous_Integration]]

@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[STDP_Plasticity]]
+[[SparseTemporalEncoding]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[TCC_iNEST_Interconnect]]
@@ -59,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST_Interconnect]]
 [[residual connection]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

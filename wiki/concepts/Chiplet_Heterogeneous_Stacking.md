@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[SparsityAwareInterconnect]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
+[[WaferScale_Chiplet_Interconnect]]
 [[WideLink_NoC_Router]]
 [[advanced packaging]]
 [[chiplet interconnect]]

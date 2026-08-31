@@ -49,11 +49,13 @@ Auto-extracted concept from raw material compilation.
 [[In_Package_Interconnect_Trust]]
 [[Intelligence_Emergence]]
 [[L2_L3_Reconfigurability]]
+[[NCL神经计算定律详解]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[chiplet interconnect]]
 [[complex system]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

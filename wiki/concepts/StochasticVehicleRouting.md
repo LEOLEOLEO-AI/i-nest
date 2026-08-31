@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Critical_Region_Extension]]
 [[DelayTolerantNetworkUAV]]
 [[EndToEndTopologicalLearning]]
+[[Evaluation_Resolution_Confound]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[LLM_Reward_Design]]
@@ -51,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[Topology_Centric_Computing]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

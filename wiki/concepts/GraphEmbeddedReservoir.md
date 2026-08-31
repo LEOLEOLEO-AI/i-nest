@@ -42,12 +42,12 @@ Auto-extracted concept from raw material compilation.
 [[Nanoscale_Memristive_Threats]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[PowerLawScalingClassification]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[TopologicalAndersonChernInsulator]]
 [[complex system]]
 [[iNEST]]
-[[neuromorphic computing]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

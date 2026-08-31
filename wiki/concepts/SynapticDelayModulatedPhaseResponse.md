@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[ComplexValuedSNN]]
 [[Complex_System_Theory]]
+[[DendriticTaskPartitioning]]
 [[EpidemicThreshold]]
 [[Memristive_STDP]]
 [[Metastable_State_Hierarchy]]

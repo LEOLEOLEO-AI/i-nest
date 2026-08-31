@@ -25,11 +25,9 @@ iNEST
 
 [[CST_Intelligence_Emergence]]
 [[Complex_System_Theory]]
-[[INEST]]
 [[Intelligence_Emergence]]
 [[complex system]]
 [[iNEST]]
-[[inest]]
 [[复杂网络]]
 [[智能涌现]]
 [[涌现]]

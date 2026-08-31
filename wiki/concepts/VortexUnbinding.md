@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[CoDesigned_SNN]]
 [[CoDesigned_SNN_Online_Learning]]
 [[ConstructedRealityState]]
+[[Continuous_Control_SNN_Stability]]
 [[Criticality]]
 [[DimensionSeparation_IntensiveExtensive]]
 [[DiscreteContinuous_Unification]]
@@ -41,10 +42,10 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[SNN]]
+[[SOC]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
-[[soc]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

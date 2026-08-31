@@ -50,11 +50,11 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
+[[Syncytial_Mesh_Model]]
 [[TemporalDynamicsModeling]]
 [[TwoTimescaleNeuroEvolution]]
 [[iNEST]]
 [[neuromorphic substrate]]
-[[synaptic plasticity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

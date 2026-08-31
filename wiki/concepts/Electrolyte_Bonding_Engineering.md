@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Signal_Folding]]
 [[SneakPathCurrentSuppression]]
 [[SpatialPhotonicProgramming]]
+[[VaCoAl]]
 [[emerging CMOS memristor]]
 [[iNEST]]
 [[memristor device]]

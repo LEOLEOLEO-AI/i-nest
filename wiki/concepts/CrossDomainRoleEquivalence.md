@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[ExactRateChaosTransition]]
 [[HighTemporalResolutionSensing]]
 [[Localized_Feedback_Array]]
+[[Meta_Residual_Learning]]
 [[NonHermitianSpectralCorrelations]]
 [[SNN]]
 [[STDP_Plasticity]]

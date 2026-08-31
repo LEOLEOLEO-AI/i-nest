@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[EnergyEfficientSNN]]
 [[EventCameraTemporalEncoding]]
 [[Event_Driven_Architecture]]
+[[In_Network_Neuromorphic]]
 [[Interconnect_Routing]]
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AdversarialMedicalRobustness]]
 [[AllOpticalHebbianLearning]]
 [[AnalogInMemoryComputing]]
+[[CST_Spatiotemporal_Complexity]]
 [[CST_SynergisticCoordination]]
 [[CST计量仪]]
 [[Capability_Forging_Pipeline]]
@@ -54,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[analog computation]]
 [[complex system]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

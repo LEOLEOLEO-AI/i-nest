@@ -32,11 +32,13 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[Neuromorphic_Planning_Architecture]]
 [[Neuromorphic_Selective_State_Space]]
+[[SNN]]
 [[ST_SNN]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
 [[neuromorphic interconnect]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

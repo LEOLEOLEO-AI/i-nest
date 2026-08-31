@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Scalable_Spiking_Construction]]
 [[Spiking_Neural_Network]]
 [[Subtractive_AttentionNormalization]]
+[[SurrogateGradientAdaptation]]
 [[iNEST]]
 [[神经网络]]
 

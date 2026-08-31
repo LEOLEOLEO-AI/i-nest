@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AIRA_NeuralArchSearch]]
 [[AI_Faculty_Forum_2026]]
 [[BigBrainCellularAxis]]
+[[CIMWeightUpdateAwareness]]
 [[ConductingPolymerDendriteMemory]]
 [[Crystallized_Embedding_Reservoir]]
 [[Distributed_Spike_Communication]]
@@ -51,7 +52,6 @@ Auto-extracted concept from raw material compilation.
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
-[[reservoir computing]]
 [[忆阻器]]
 [[类脑芯片]]
 

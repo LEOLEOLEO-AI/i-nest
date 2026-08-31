@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[DirectConnect_Topology]]
 [[EntanglementAwareRouting]]
 [[External_to_OnDie_Evolution]]
+[[FPGA_Reconfigurability]]
 [[FatalityDrivenRewiring]]
 [[GeneralIntelligenceSubstrate]]
 [[Heterogeneous_Inference_Offload]]
@@ -57,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologyPage_Preloading]]
 [[VectorFlowField]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

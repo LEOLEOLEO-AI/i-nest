@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AnomalousSpinTransport]]
 [[Attention_Residuals]]
 [[BoundaryObject_Abstraction]]
+[[Branch_Prediction_in_Pipelined_Processors]]
 [[CMOS_Memristor_Devices]]
 [[ComputationEfficientDeepLearning]]
 [[DARPA_ProjectManager_Model]]
@@ -34,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Fixed_Reservoir_Unitary]]
 [[FrequencyDomainReadout]]
 [[GeneralizedReadoutMap]]
+[[Globally_Optimal_SNN_Training]]
 [[InNetworkSignalRecovery]]
 [[Memristor_Reservoir_Branch_Prediction]]
 [[Memristor_Synapse]]
@@ -48,12 +50,10 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[Stochastic_LIF_Inference]]
-[[branch prediction in pipelined processors]]
 [[branch prediction]]
 [[emerging CMOS memristor]]
 [[memristor device]]
 [[pipelined processor]]
-[[reservoir computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

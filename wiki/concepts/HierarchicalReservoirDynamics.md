@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[IntegratedSensingFusion]]
 [[MeanFieldSpinGlass]]
 [[Memory_Technology_Coexistence]]
+[[Memristor_Network]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[PowerLawScaling]]
@@ -42,7 +43,6 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
-[[reservoir computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

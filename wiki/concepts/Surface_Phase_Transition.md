@@ -41,12 +41,13 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SparseTemporalEncoding]]
 [[Spiking_Neural_Network]]
-[[Surface phase transition]]
 [[TCC]]
 [[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

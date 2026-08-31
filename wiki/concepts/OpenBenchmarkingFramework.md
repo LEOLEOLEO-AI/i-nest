@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Communication_Trace_Diagnostics]]
 [[DeeplySupervisedSpiking]]
 [[EdgeIoTEnergyAwareness]]
+[[Event_Driven_Architecture]]
 [[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]
 [[HigherOrderSimplicialDynamics]]

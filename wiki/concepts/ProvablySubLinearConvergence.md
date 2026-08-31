@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
 [[DendriticReservoirState]]
+[[ERI_2_0_Strategy]]
 [[Emergent_Intelligence_Threshold]]
 [[Fading_Memory_Property]]
 [[FunctionalInterfaceBlock]]

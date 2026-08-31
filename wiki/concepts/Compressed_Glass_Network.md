@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[NonEquilibriumComputing]]
 [[Nonlinear_Gain]]
 [[QuantumGateSynthesis]]
+[[ReadoutLayer]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[SDDE_Attractor_Emergence]]

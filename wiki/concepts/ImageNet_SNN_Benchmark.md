@@ -33,12 +33,13 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Self_Organized_Criticality]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[Syncytial_Mesh]]
 [[Syncytial_Mesh_Model]]
 [[TCC]]
+[[TopologyDrivenVulnerability]]
 [[iNEST]]
-[[spiking neural network]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

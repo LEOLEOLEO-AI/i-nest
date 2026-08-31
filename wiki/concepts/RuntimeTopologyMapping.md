@@ -30,6 +30,8 @@ Auto-extracted concept from raw material compilation.
 [[DTGA]]
 [[Heterogeneous_Integration]]
 [[In_Package_Neuromorphic_Integration]]
+[[Interconnect_Routing]]
+[[Memristive_Interconnect]]
 [[Memristor_Network]]
 [[Memristor_Synapse]]
 [[MetaFAIR_ArchitectureDiscovery]]

@@ -19,4 +19,3 @@ NoC, TCC, iNEST
 [[Network_on_Chip]]
 [[TCC]]
 [[iNEST]]
-[[tcc]]

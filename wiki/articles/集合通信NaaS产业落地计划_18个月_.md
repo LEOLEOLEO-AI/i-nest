@@ -21,4 +21,3 @@ SDI, TCC, chiplet, 互连, 拓扑, 芯粒
 [[Network_Topology_Design]]
 [[SDI_Bond]]
 [[TCC]]
-[[tcc]]

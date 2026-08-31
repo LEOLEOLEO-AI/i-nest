@@ -34,10 +34,10 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityDrivenLearning]]
 [[Criticality]]
 [[EnergyAwareLearning]]
+[[EventDrivenMotionDeblurring]]
 [[Intelligence_Emergence]]
 [[Self_Organized_Criticality]]
 [[TCC]]
-[[criticality]]
 [[iNEST]]
 
 ## Sources

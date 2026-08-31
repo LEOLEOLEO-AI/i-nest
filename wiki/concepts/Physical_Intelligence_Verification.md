@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[GenerativeTopologyModels]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
+[[InterconnectConstrainedEmergence]]
 [[Interconnect_Scaling]]
 [[Master_SDDE]]
 [[Microgrid_Optimization]]
@@ -51,10 +52,11 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Architecture]]
 [[ScalableNeuromorphicTopology]]
 [[SpatiotemporalComplexityIndex]]
+[[TemporalComplexity]]
 [[complex system]]
 [[iNEST]]
-[[temporalComplexity]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

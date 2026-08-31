@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[DataDrivenCellularAxis]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[FeatureBasedGraphEmbedding]]
 [[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]
 [[InNetworkAgentRewiring]]
@@ -50,8 +51,8 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]
 [[SNN]]
+[[SOC]]
 [[Spiking_Neural_Network]]
-[[soc]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

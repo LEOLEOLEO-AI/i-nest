@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[Complex_Network_Class_Brain_Computing]]
 [[Complex_System_Theory]]
+[[DARPA_ProjectManager_Model]]
 [[DrivenDissipativeDynamics]]
 [[FPGA_Neuromorphic_Architectures]]
 [[HippocampalNeocorticalIntelligence]]

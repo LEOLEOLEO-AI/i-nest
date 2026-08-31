@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[RenormalizationGroup_ScalingLaws]]
 [[SDI_Bond]]
 [[SDI_STDP]]
+[[SDI_STDP_Bond]]
 [[STDP_Integration]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]
@@ -40,10 +41,9 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Encoding_of_fMRI]]
 [[SpikingCorrespondenceMatching]]
 [[Spiking_Neural_Network]]
-[[Spiking_neural_network]]
 [[Synaptic_Plasticity]]
+[[TemporalComplexity]]
 [[iNEST]]
-[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

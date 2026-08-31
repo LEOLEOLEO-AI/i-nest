@@ -44,9 +44,11 @@ Auto-extracted concept from raw material compilation.
 [[Reconfigurable_Neural_Topology]]
 [[STDPDrivenConnectivity]]
 [[STDP_Plasticity]]
+[[Swarmalator_Phase_Transition]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

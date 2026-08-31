@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Packaging]]
 [[Complex_System_Theory]]
 [[Heterogeneous_Integration]]
+[[InInterconnectMemory]]
 [[Intelligence_Emergence]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
@@ -55,10 +56,10 @@ Auto-extracted concept from raw material compilation.
 [[WideLink_NoC_Router]]
 [[advanced packaging]]
 [[chiplet interconnect]]
-[[chiplet packaging]]
 [[iNEST]]
 [[iNEST_Wafer]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

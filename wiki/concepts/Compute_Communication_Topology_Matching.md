@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[InterconnectDrivenCostFunction]]
 [[Interconnect_Routing]]
+[[MaterialGrowthFabricationFocus]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[advanced packaging]]

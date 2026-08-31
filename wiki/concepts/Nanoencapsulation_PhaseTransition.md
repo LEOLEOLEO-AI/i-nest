@@ -39,13 +39,14 @@ Auto-extracted concept from raw material compilation.
 [[ErrorSuppressedPipeline]]
 [[FlexibilityThreshold]]
 [[HierarchicalReservoirDynamics]]
+[[MemristiveSynapticFatigue]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
+[[ReservoirDynamics]]
 [[Reservoir_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[neuromorphic computing architecture]]
-[[neuromorphic computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

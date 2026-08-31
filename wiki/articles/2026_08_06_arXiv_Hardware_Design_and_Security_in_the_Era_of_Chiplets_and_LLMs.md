@@ -20,4 +20,3 @@ TCC, chiplet, iNEST
 [[Heterogeneous_Integration]]
 [[TCC]]
 [[iNEST]]
-[[tcc]]

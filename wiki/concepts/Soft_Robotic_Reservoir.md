@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CoexistencePhaseTransition]]
 [[Contested_Priors_Mechanism]]
 [[CouplingTopologyMemoryLink]]
+[[Coupling_Topology]]
 [[Free_Energy_Topology_Mapping]]
 [[MagneticMetamaterialReservoir]]
 [[Network_Topology_Design]]
@@ -39,8 +40,6 @@ Auto-extracted concept from raw material compilation.
 [[RepresentationalGeometry]]
 [[Reservoir_Computing]]
 [[iNEST]]
-[[neuromorphic computing]]
-[[reservoir computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

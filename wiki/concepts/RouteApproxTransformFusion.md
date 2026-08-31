@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveFunctionalTopology]]
 [[AdiabaticModeEvolution]]
 [[AdsorptionBiosorptionHybrid]]
+[[AmoebaInspiredLocomotion]]
 [[BioPlausiblePredictiveCoding]]
 [[CriticalityDrivenStateTransition]]
 [[Criticality]]

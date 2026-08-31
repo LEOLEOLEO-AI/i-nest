@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[12_三原理协同_FEP_最小作用量_STDP]]
 [[Accessibility_Plasticity]]
 [[AdvancedPackagingInterconnect]]
+[[Analog_InMemory_Processing]]
 [[ArbitraryWavefunctionConfigurability]]
 [[CLINKAsCarrierPrimitive]]
 [[CST计量仪]]
@@ -50,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

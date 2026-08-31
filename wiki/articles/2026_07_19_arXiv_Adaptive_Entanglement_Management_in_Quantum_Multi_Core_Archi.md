@@ -26,4 +26,3 @@ NoC, TCC, interconnect, 互连
 [[AdaptiveEntanglementManagement]]
 [[Network_on_Chip]]
 [[TCC]]
-[[tcc]]

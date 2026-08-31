@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[DistinctReentrantPhases]]
 [[ERI_2_0_Framework]]
 [[ERI_2_0_Strategy]]
+[[EndToEndDesignAutomationFlow]]
 [[Epithelial_Barrier_Integrity]]
 [[Generalization_Bound_Spectra]]
 [[Intelligence_Emergence]]

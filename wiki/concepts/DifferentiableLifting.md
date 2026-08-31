@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[FlexibilityThreshold]]
 [[Intelligence_Emergence]]
 [[LargeDeviationTopologicalOrder]]
+[[MultiScalePathDivergence]]
 [[NestedRepresentation]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]

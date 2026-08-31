@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Algorithmic_Warfare]]
 [[Ant_Swarm_Functional_Control]]
 [[Baseline_Draft_Status]]
+[[Bipartite_Interconnect]]
 [[BurstGatedRouting]]
 [[CellEmergence]]
 [[Cognitive_Relapse_Decoupling]]

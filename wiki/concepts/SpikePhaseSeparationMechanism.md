@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[BrainScaleTopologyExploitation]]
 [[Brain_Dynamics_Learning]]
 [[CSPNeuralEncoding]]
+[[ClassificationPerformance]]
 [[ClinicalTranslationBridge]]
 [[CollectiveDynamics]]
 [[Complex_Network_Brain_Inspired_Computing]]

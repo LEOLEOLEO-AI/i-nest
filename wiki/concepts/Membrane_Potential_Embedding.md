@@ -28,9 +28,10 @@ Auto-extracted concept from raw material compilation.
 [[ActiveDendriteSNN]]
 [[ActivityAvalanche]]
 [[AdaptiveAsymmetricSurrogateGradient]]
+[[AdaptiveAsymmetricSurrogateGradients]]
+[[Dynamical_State_Space]]
 [[SNN]]
 [[Spiking_Neural_Network]]
-[[dynamical state space]]
 [[iNEST]]
 
 ## Sources

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[Contested_Prior_Resolution]]
 [[CorticalWaveRouting]]
+[[DevelopmentalNeuromorphicAdaptation]]
 [[EventDrivenModularArchitecture]]
 [[EventDrivenSynchronization]]
 [[EventDrivenWeightUpdate]]
@@ -50,11 +51,11 @@ Auto-extracted concept from raw material compilation.
 [[ST_SNN]]
 [[SpatiotemporalComplexityIndex]]
 [[Spike_Encoding_of_fMRI]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
+[[TemporalComplexity]]
 [[iNEST]]
 [[iNEST_Interconnect]]
-[[spiking neural network]]
-[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikePacketCompression]]
 [[Spiking_Network_Simulation_Placement]]
 [[Spiking_Neural_Network]]
+[[Syncytial_Mesh_Model]]
 [[TCC]]
 
 ## Sources

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[EmergentOrder]]
 [[Emergent_Intelligence_Threshold]]
 [[EventCameraActionRecognition]]
+[[Field_Compression_for_InNetwork_Inference]]
 [[Free_Energy_Principle_Network]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]

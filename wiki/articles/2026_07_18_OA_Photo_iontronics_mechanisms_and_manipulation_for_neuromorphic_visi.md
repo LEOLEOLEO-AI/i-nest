@@ -18,8 +18,7 @@ iNEST, neuromorphic, spiking
 
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
-[[neuromorphic Spiking]]
 [[neuromorphic spiking]]
-[[spiking neural network]]

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AlloyDisorderEngineering]]
 [[BigBrainCellularAxis]]
 [[BioPlausiblePredictiveCoding]]
+[[BurstGatedRouting]]
 [[Criticality]]
 [[EEG_Criticality]]
 [[FormalLinguisticCompetence]]
@@ -38,11 +39,11 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Self_Organized_Criticality]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[TopologyDrivenDynamics]]
 [[VisualSemanticDecoding]]
 [[iNEST]]
-[[spiking neural network]]
 [[temporal coding]]
 
 ## Sources

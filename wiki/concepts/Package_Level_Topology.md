@@ -37,13 +37,14 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Intelligent_Computing_Infrastructure]]
 [[Interconnect_Routing]]
+[[Memristor_Network]]
 [[Memristor_Synapse]]
 [[MicroRouter_Embedding]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[RoutabilityDrivenFloorplanning]]
-[[SDI interconnect]]
 [[SDI_Bond]]
+[[SDI_Interconnect]]
 [[ScaleFreeNetwork]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
@@ -51,7 +52,6 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
 [[chiplet interconnect]]
-[[heterogeneous_integration]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

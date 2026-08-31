@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveDendriteSNN]]
 [[AdaptiveArchitecture]]
 [[AdaptiveFrequencyResonateAndFire]]
+[[AstrocyteInspiredModulation]]
 [[AtomicGeometryEncoding]]
 [[BrownianCastleInterface]]
 [[CrossLayer_SignalRouting]]

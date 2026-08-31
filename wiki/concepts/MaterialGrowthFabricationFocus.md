@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[MemoryDrivenRouting]]
 [[MemoryEfficientSimulation]]
 [[Memristive_Topology]]
+[[NearSensorComputing]]
 [[Network_Topology_Design]]
 [[NextNearestNeighborHopping]]
 [[NichePreservationMechanism]]
@@ -55,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[智能涌现]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

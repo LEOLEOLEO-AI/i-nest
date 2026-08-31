@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AINext_Initiative]]
 [[ActivityAvalanche]]
+[[AmoebaInspiredLocomotion]]
 [[Cognitive_Relapse_Architecture]]
 [[Cognitive_Relapse_Decoupling]]
 [[Continual_Learning_Modularity]]
@@ -34,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicCentralitySteering]]
 [[Free_Energy_Topology_Mapping]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
+[[InNetworkComputing]]
 [[MobilityEdge]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

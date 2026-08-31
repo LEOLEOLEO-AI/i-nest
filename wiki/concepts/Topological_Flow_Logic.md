@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AnalogInMemoryComputing]]
 [[BurstGatedRouting]]
 [[BurstInterleaving]]
+[[Continuous_Spatiotemporal_State_Propagation]]
 [[DARPA_ProjectManager_Model]]
 [[Decoupled_Priors]]
 [[Deep_Thermalisation]]

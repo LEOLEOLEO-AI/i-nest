@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_NoC_Fabric]]
 [[Chiplet_NoC_Interconnect]]
 [[Chiplet_Stacking]]
+[[Collective_Offloading]]
 [[CommunicationAwareComputeRelocation]]
 [[Compute_Centric_NoC]]
 [[CongestionAwareNoCPlacement]]

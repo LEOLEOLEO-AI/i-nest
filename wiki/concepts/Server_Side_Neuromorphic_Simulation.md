@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Memristor_Network]]
+[[Memristor_Synapse]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[National_Innovation_Center_Role]]
 [[Network_Specific_Embedding_Separation]]
@@ -51,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[TemporalDynamicsModeling]]
 [[VonEconomoNeuron]]
 [[VonEconomoNeurons]]
+[[fMRI_SpikeEncoding]]
 [[iNEST]]
 
 ## Sources

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenGraphTraversal]]
 [[EventDrivenSynchronization]]
 [[Event_Driven_Architecture]]
+[[FrequencyAdaptationMechanism]]
 [[Heterogeneous_Integration]]
 [[In_Package_Neuromorphic_Integration]]
 [[NeuromorphicGestureEncoding]]

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Bipartite_Interconnect_Design]]
 [[Complex_System_Theory]]
 [[ElasticSpikingTransformer]]
+[[Event_Driven_Processing]]
 [[In_Network_Neuromorphic]]
 [[NestedRepresentation]]
 [[NeuromorphicNetworkFabric]]

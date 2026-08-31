@@ -27,4 +27,3 @@ iNEST, neuromorphic, 神经形态
 [[Neuromorphic_Computing]]
 [[Receptron_Unit]]
 [[iNEST]]
-[[inest]]

@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[KernelRegimeScaling]]
 [[LocalNetworkEvolutionRules]]
+[[Master_SDDE]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Parallelized_Hierarchical_Connectome]]

@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[NestedRepresentation]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[SparseTemporalEncoding]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[TCC核心概念与基线理论集 (TCC Core Concepts)]]

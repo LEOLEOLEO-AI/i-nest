@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Topology_Mapping]]
 [[ScalableNeuromorphicTopology]]
+[[SparseHubsCoupling]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 [[神经网络]]

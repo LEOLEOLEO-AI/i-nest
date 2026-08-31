@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[PhotoIontronicSynapse]]
 [[RareEventCoding]]
 [[ResonateAndFireEncoding]]
+[[SpikingNeuralNetworkTopologyMapping]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

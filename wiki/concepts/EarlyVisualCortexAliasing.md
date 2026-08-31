@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Adjoint_Gradient_Propagation]]
 [[AdversarialSpikePerturbation]]
 [[AgentBasedCorruptionModel]]
+[[Biologically_Plausible_Learning_Rules]]
 [[CrossLayer_SignalRouting]]
 [[EventDrivenModularArchitecture]]
 [[Interconnect_Routing]]
@@ -38,10 +39,10 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[QNNtoSNNConversion]]
 [[SNN]]
+[[SafetyThresholdAsSpikingThreshold]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
-[[biologically plausible learning rules]]
 [[iNEST]]
-[[spiking neural network]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

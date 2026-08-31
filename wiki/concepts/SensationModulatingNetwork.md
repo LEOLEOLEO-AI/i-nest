@@ -40,6 +40,8 @@ Auto-extracted concept from raw material compilation.
 [[ReconfigurableSNN_Accelerator]]
 [[ReconfigurableSpikingRouting]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SNN]]
+[[SNN_NeuroprostheticPipeline]]
 [[SelfOrganization]]
 [[Self_Organized_Criticality]]
 [[Spike_Encoding_of_fMRI]]

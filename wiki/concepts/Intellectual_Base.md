@@ -24,7 +24,6 @@ Auto-extracted concept from raw material compilation.
 
 [[TCC]]
 [[iNEST]]
-[[intellectual base]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

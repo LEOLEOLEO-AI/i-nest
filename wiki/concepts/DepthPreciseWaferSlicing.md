@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[3DIntegratedPhotonicPackaging]]
 [[3D_Integrated_Chiplet_Stacking]]
 [[AI-ML — 全景导航 (Map of Content)]]
+[[AI4PDE｜综述·论文推荐 08｜物理信息神经网络在偏微分方程问题中的应用：全面综述]]
 [[AIRA_NeuralArchSearch]]
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_Assisted_Energy_Optimization]]
@@ -34,6 +35,8 @@ Auto-extracted concept from raw material compilation.
 [[AI_Industrial_Ecosystem]]
 [[AdaptiveDensityControl]]
 [[CST计量仪]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Stacking]]
 [[CoPackagedOptics]]
 [[Cognitive_Relapse_Architecture]]
 [[ComplexEcosystemDynamics]]
@@ -52,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[TCC]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

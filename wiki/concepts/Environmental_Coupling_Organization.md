@@ -43,10 +43,10 @@ Auto-extracted concept from raw material compilation.
 [[SelfOrganizedCriticalityConsciousness]]
 [[Self_Organized_Criticality]]
 [[Spin_Glass_Order_Parameter]]
+[[SwarmGradientRouting]]
 [[TCC]]
 [[iNEST]]
 [[memristor device]]
-[[neuromorphic computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalHardwareComposition]]
 [[Heterogeneous_Integration]]
 [[HypergraphRumorPropagation]]
+[[InNetworkSelfOrganisation]]
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]
 [[Network_Specific_Embedding_Separation]]

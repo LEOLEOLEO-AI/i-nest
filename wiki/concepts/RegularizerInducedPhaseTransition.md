@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[DimensionSeparation_IntensiveExtensive]]
 [[Dimensionality_Modularity_Tradeoff]]
 [[DynamicCentralitySteering]]
+[[DynamicalCriticality]]
 [[EventDrivenFunctionalConnectivity]]
 [[ExtinctionDrivenMetastability]]
 [[FPGA_Neuromorphic_Architectures]]

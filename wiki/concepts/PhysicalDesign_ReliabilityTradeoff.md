@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_EventRouting]]
 [[PhysicallyInformedDeepLearning]]
 [[SpikeCodingProbabilisticVariables]]
+[[SpikeSparsity]]
 [[SpikeTimingPreservation]]
 [[Spike_Event_Driven_Attention]]
 [[Spiking_Neural_Network]]

@@ -24,18 +24,19 @@ Auto-extracted concept from raw material compilation.
 [[DiscreteSTDP]]
 [[FunctionalInterfaceBlock]]
 [[GroupSynchronization]]
-[[Mott device array]]
+[[Mott_Device_Array]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[PhaseLockedTopologyMapping]]
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SDI_STDP_Bond]]
+[[SDI_STDP_Rule]]
+[[STDP_Integration]]
 [[STDP_Plasticity]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
-[[neuromorphic computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

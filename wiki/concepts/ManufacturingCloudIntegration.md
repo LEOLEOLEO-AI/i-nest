@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspiredLearningRule]]
 [[BioPlausibleDisturbanceObserver]]
 [[BrainBodyResonance]]
+[[BurstTemporalPlasticity]]
 [[Catastrophic_Forgetting_Mitigation]]
 [[ChannelEventSparsity]]
 [[Cognitive_Relapse_Architecture]]

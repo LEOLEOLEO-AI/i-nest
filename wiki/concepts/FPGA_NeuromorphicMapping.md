@@ -39,9 +39,10 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
 [[ScalableNeuromorphicTopology]]
+[[SpikeDrivenDataAssociation]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[TCC]]
-[[spiking neural network]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

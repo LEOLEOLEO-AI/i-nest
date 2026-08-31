@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Reconfigurable_Network]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
+[[Wafer_Scale_Interconnect_Topology]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

@@ -30,7 +30,6 @@ Auto-extracted concept from raw material compilation.
 [[DiagnosticReportFramework]]
 [[EulaminateOverrepresentation]]
 [[Heterogeneous_Integration]]
-[[Memory wall]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
@@ -58,17 +57,16 @@ Auto-extracted concept from raw material compilation.
 [[SystemLevelNonlinearity]]
 [[TCC]]
 [[TCC_iNEST_Interconnect]]
+[[Technology_Innovation_Platform]]
 [[TemperatureSensitivityControl]]
 [[TemporalComplexity]]
 [[TopologyProgramming]]
 [[Topology_Centric_Computing]]
 [[chiplet interconnect]]
-[[heterogeneous_integration]]
 [[iNEST]]
 [[iNEST_Interconnect]]
 [[iNEST_Wafer]]
 [[residual connection]]
-[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

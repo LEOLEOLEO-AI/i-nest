@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Criticality]]
 [[DataCenter_Chip_Logic_Compression]]
+[[DelayParameterSpaceDecomposition]]
 [[DimensionReductionForSimplicialDynamics]]
 [[DimensionReductionViaSimplicialProjection]]
 [[DimensionalityReductionForNetworkControl]]
@@ -45,8 +46,8 @@ Auto-extracted concept from raw material compilation.
 [[ScaleFreeAvalancheStatistics]]
 [[Self_Organized_Criticality]]
 [[TCC]]
-[[criticality]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

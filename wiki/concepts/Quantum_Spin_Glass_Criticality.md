@@ -33,6 +33,8 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityInNetworkComputing]]
 [[CriticalityOffCriticalityTransition]]
 [[Criticality]]
+[[Disordered_Frustrated_Dimer_Magnets]]
+[[Driven_Criticality]]
 [[InNetworkComputing]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
@@ -41,7 +43,6 @@ Auto-extracted concept from raw material compilation.
 [[Quantum_Spin_Glass]]
 [[Self_Organized_Criticality]]
 [[TCC]]
-[[disordered frustrated dimer magnets]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

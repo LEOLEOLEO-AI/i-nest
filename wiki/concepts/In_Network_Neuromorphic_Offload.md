@@ -41,15 +41,16 @@ Auto-extracted concept from raw material compilation.
 [[MagnetizationSusceptibilityResponse]]
 [[Memristive_InMemory_Computing]]
 [[Memristive_Spike_Integration]]
+[[Nature_Electronics_Neuromorphic_Validation]]
 [[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[complex system]]
 [[iNEST]]
 [[neuromorphic spiking]]
-[[spiking neural network]]
 [[神经网络]]
 
 ## Sources

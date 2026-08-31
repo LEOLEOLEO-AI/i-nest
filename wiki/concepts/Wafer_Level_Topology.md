@@ -41,9 +41,11 @@ Auto-extracted concept from raw material compilation.
 [[MultiplicativeGain]]
 [[NCL神经计算定律详解]]
 [[Network_Topology_Design]]
+[[SpaceToUndersea_ResilientComms]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

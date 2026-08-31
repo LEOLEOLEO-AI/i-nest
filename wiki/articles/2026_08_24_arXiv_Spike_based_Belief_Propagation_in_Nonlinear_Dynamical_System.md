@@ -20,4 +20,3 @@ TCC, iNEST, spiking
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]
-[[inest]]

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityInNetworkComputing]]
 [[CriticalityOffCriticalityTransition]]
 [[Criticality]]
+[[DiffusionInducedInstability]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeOfGrowth]]
 [[Emergent_Intelligence_Threshold]]
@@ -46,7 +47,6 @@ Auto-extracted concept from raw material compilation.
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
 [[catastrophic forgetting]]
-[[criticality]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

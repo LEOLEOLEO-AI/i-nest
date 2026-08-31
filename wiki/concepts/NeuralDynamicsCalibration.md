@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[ErrorAmplificationLimits]]
 [[Interconnect_Routing]]
 [[LatencyGradientDescent]]
+[[LossSpikePhenomenon]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[ProbabilisticSpikingNeuralNetwork]]

@@ -37,16 +37,17 @@ Auto-extracted concept from raw material compilation.
 [[Distributed_Spike_Communication]]
 [[EdgeInspectionInference]]
 [[EventSparseTemporalEncoding]]
+[[FerroelectricCrossbarArray]]
 [[Ferroelectric_Devices]]
 [[Ferroelectric_Synaptic_Devices]]
 [[Gaussian_Splat_Compression]]
 [[Heterogeneous_Integration]]
 [[Memory_Wall]]
 [[Neuromorphic_Computing]]
+[[SOC]]
 [[SparseTemporalEncoding]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
-[[soc]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

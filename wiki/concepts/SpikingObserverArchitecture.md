@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveDendriteSNN]]
 [[BayesMarkovOrientationModel]]
 [[BigBrainCellularAxis]]
+[[BrownianCastleInterfaces]]
 [[Chiplet_Based_Neuromorphic_Integration]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
@@ -47,7 +48,6 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
-[[synaptic plasticity]]
 [[神经网络]]
 
 ## Sources

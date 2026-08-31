@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[AmorphousTopologicalSubstrate]]
 [[BackpropagationFreeLearning]]
 [[Beyond_Moore_Pathway]]
+[[Bias_Origin_Taxonomy]]
 [[CellularSheaf]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CircuitTopologySearch]]
@@ -52,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologicalDataCompression]]
 [[advanced packaging]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

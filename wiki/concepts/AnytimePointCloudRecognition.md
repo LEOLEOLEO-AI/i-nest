@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TemporalLearning]]
 [[Temporal_Computing_Paradigm]]
+[[TheoryDrivenNeuromorphicDesign]]
 [[iNEST]]
 [[神经网络]]
 

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Cascading_Failure_Mitigation]]
 [[CriticalNormBoundary]]
 [[Criticality]]
+[[Criticality_Based_Feature_Extraction]]
 [[Interconnect_Routing]]
 [[Local_Approximation_Dynamics]]
 [[Network_Topology_Design]]
@@ -38,7 +39,6 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[Topology_Aware_Spike_Routing]]
-[[criticality]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_SDI_Topology]]
 [[OnChipOpticalTweezers]]
 [[P_Paradigm]]
+[[Photonic_Chiplet_Interconnect]]
 [[ReproducibleReservoirOutput]]
 [[Reservoir_Computing]]
 [[SDI_Bond]]

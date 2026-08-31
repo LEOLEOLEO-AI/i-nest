@@ -34,11 +34,13 @@ Auto-extracted concept from raw material compilation.
 [[Exponential_CST_Coupling]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
+[[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Integration]]
 [[Memory_Wall]]
 [[Memristive_STDP]]
 [[Memristor_Network]]
 [[Memristor_Synapse]]
+[[Mesoscale_Heterogeneous_Integration]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[MetricComputationAuthenticity]]
 [[MultiplicativeGain]]
@@ -76,7 +78,6 @@ Auto-extracted concept from raw material compilation.
 [[chiplet interconnect]]
 [[complex system]]
 [[residual connection]]
-[[temporalComplexity]]
 [[vLLM_plugin_FLSDI]]
 
 ## Sources

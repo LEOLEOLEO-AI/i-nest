@@ -39,17 +39,20 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Deep_Thermalisation]]
 [[EnsembleSparsity]]
+[[GraphBasedSemanticRouting]]
 [[Heterogeneous_Integration]]
 [[In_Package_Neuromorphic_Integration]]
+[[Intellectual_Base]]
 [[Intelligence_Emergence]]
+[[Interconnect_Routing]]
 [[MemoryDrivenRouting]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[TCC]]
 [[iNEST]]
-[[intellectual base]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

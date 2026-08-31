@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Bosonic_SPT_Phases]]
 [[BranchingRatio]]
 [[Contested_Priors_Mechanism]]
+[[CouplingMatrixRecovery]]
 [[Coupling_Strength_Encoding]]
 [[CriticalFixedPoint]]
 [[DendriticReservoirState]]
@@ -51,7 +52,6 @@ Auto-extracted concept from raw material compilation.
 [[Topological_Anderson_Insulator]]
 [[TopologyEmbeddedIntrospection]]
 [[VariationalFreeEnergyMinimisation]]
-[[topological Anderson insulator]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

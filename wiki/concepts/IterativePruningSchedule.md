@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[EnergyEfficientNeuromorphicDesign]]
 [[EnergyEfficientNeuromorphic]]
+[[EventBasedVisualStream]]
 [[EventDrivenInference]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]

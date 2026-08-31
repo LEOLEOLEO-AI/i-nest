@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveNetworkResilience]]
 [[Advanced_Packaging_for_Space]]
 [[Bipartite_Interconnect]]
+[[CST计量仪]]
 [[Complex_System_Theory]]
 [[DTGA]]
 [[FPGA_Neuromorphic_Architectures]]
@@ -44,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[WaferLevelPackaging]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

@@ -35,6 +35,8 @@ Auto-extracted concept from raw material compilation.
 [[CorticalTravelingWaves]]
 [[CriticalStateInformationMaximization]]
 [[CrossLayer_SignalRouting]]
+[[DirectTrainingSNN]]
+[[Interconnect_Routing]]
 [[Nonlinear_Gain]]
 [[PPT]]
 [[SNN]]

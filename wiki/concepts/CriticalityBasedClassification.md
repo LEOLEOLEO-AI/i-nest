@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Avoided_Criticality]]
 [[BioPlausibleDisturbanceObserver]]
 [[BulletTrainScheduling]]
+[[CST_Theory]]
 [[CST_Theory_V27_FINAL]]
 [[Catastrophic_Forgetting_Mitigation]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -45,10 +46,9 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[SynapticReinforcementConsolidation]]
 [[Syncytial_Mesh]]
+[[Syncytial_Mesh_Model]]
 [[TwoTimescaleNeuroEvolution]]
-[[avalanche dynamics]]
 [[catastrophic forgetting]]
-[[criticality]]
 [[iNEST]]
 
 ## Sources

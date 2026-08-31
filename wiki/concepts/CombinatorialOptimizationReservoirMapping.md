@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AINext_Initiative]]
+[[AdaptiveBitPrecisionExploration]]
 [[AdsorptionBiosorptionHybrid]]
 [[Alignment_Tax]]
 [[AlternativeBridgingModels]]
@@ -41,7 +42,6 @@ Auto-extracted concept from raw material compilation.
 [[SelfOrganizedCriticalityConsciousness]]
 [[Self_Organized_Criticality]]
 [[TCADCalibration]]
-[[neuromorphic computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

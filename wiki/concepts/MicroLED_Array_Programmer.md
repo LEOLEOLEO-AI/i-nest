@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN动力学]]
 [[AcceleratedMaterialScreening]]
 [[Accessibility_Plasticity]]
+[[Alpha_Coefficient_Phase_Transition_Amplification]]
 [[AsymmetricStochasticInteractions]]
 [[AttentionMap_DifferenceResidual]]
 [[CST计量仪]]

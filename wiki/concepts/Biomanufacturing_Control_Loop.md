@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Agile_Resilient_Defense_Ecosystem]]
 [[AlternativeBridgingModels]]
 [[Bio_plausible_Neuromorphic_Disturbance_Observer]]
+[[Bosonic_SPT_Phases]]
 [[BranchingRatio]]
 [[BurstTemporalPlasticity]]
 [[CirculateFiringNeuron]]

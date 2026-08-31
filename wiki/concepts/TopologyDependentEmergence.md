@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
 [[DendriticReservoirState]]
+[[DenseNetworkDynamics]]
 [[EdgeIoTEnergyAwareness]]
 [[Intelligence_Emergence]]
 [[Layered_Attractive_Hubbard_Model]]
@@ -56,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[emergent computation]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

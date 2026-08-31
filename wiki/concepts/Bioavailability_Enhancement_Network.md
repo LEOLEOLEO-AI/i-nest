@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN动力学]]
 [[AdditiveTopology_Embedding]]
 [[AdsorptionBiosorptionMechanism]]
+[[Advanced_Computing_Project]]
 [[Bioavailability_Enhancement]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
@@ -48,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

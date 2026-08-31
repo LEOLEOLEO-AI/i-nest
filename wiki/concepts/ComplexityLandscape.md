@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Cauchy_Aczel_Uniqueness]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
+[[ComponentLevelMolding]]
 [[CytokineStormAttractor]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
@@ -46,8 +47,9 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[TCC]]
-[[ineSt]]
+[[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

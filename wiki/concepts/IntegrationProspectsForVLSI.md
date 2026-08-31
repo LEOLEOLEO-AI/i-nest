@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
+[[PostVonNeumannIntelligence]]
 [[QuantumKernelMethods]]
 [[Reservoir_Computing]]
 [[SuperparamagneticSwitchingRate]]

@@ -37,6 +37,8 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[MagicStateProtocolAwareCompilation]]
+[[MagicStateProtocol]]
+[[Manifold_Topology_DeepLearning]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[PhotonicStateRetention]]
@@ -44,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[complex system]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

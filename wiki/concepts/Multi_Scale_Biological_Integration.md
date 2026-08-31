@@ -37,15 +37,17 @@ Auto-extracted concept from raw material compilation.
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
 [[DataCenter_Chip_Logic_Compression]]
+[[DimensionReductionForSimplicialDynamics]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
 [[TCC]]
 [[Thermopneumatic_Pixel]]
+[[Unified_Computational_Model]]
 [[iNEST]]
-[[unified computational model]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

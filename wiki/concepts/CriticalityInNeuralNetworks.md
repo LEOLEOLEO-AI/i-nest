@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspiredInterception]]
 [[BulletTrainScheduling]]
 [[Continuous_Control_Spiking_Stability]]
+[[CriticalityDrivenEfficientCoding]]
 [[Criticality]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

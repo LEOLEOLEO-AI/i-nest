@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[AnomalousSpinTransport]]
 [[Asymptotic_Exact_Solution]]
 [[BigBrainCellularAxis]]
+[[CST计量仪]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
 [[CytoarchitectonicAxis]]
@@ -44,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Photonic_Chiplet_Interconnect]]
 [[Quantum_Spin_Glass]]
+[[Quantum_Spin_Glass_Phase]]
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
 [[ScaleFreeNetwork]]
@@ -51,11 +53,10 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[Topological_State_Encoding]]
 [[chiplet interconnect]]
-[[quantum spin glass phase]]
-[[quantum spin glass]]
 [[智能涌现]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

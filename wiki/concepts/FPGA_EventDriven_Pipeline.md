@@ -22,12 +22,17 @@ Auto-extracted concept from raw material compilation.
 
 [[Avoided_Criticality]]
 [[CorticalWaveRouting]]
+[[CriticalNormBoundary]]
+[[Criticality]]
 [[DevelopmentalNeuromorphicAdaptation]]
 [[EarlyVisualCortexAliasing]]
 [[Endocrine_Modulated_Network_State]]
 [[EventDrivenAsynchronousRouting]]
 [[EventDrivenFunctionalConnectivity]]
 [[EventDrivenModularArchitecture]]
+[[Interconnect_Routing]]
+[[Neuromorphic_Computing]]
+[[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

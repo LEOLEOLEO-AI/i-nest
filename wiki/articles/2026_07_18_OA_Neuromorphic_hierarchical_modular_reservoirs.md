@@ -20,5 +20,4 @@ iNEST, neuromorphic
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]
 [[Self_Organized_Criticality]]
-[[criticality]]
 [[iNEST]]

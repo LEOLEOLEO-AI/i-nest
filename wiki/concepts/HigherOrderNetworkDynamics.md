@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[ArchitecturalCondition]]
 [[Attention_Residuals]]
 [[Baseline_Draft_Status]]
+[[BurstGatedRouting]]
 [[Closed_Loop_Neuromodulation]]
 [[CognitiveTaskonomy]]
 [[CompactSequenceArchitectureDiscovery]]

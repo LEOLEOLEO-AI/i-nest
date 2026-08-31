@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[Neuromorphic_Speech_Tokenizer]]
 [[SNN]]
 [[Self_Organized_Criticality]]
 [[Spike_Event_Driven_Attention]]

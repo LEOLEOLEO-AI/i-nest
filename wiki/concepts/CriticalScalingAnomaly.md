@@ -39,13 +39,13 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[Cognitive_Relapse_Decoupling]]
 [[Continual_Learning_Modularity]]
+[[ContinuousControlConversion]]
 [[Criticality]]
 [[Interconnect_Routing]]
 [[MoE_Routing]]
 [[Neuromorphic_Computing]]
 [[ScalingExponents]]
 [[Self_Organized_Criticality]]
-[[criticality]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

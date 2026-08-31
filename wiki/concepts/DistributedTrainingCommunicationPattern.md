@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
 [[EdgeIoTEnergyAwareness]]
+[[Emergent_Abilities]]
 [[Emergent_Intelligence_Threshold]]
 [[EventCameraActionRecognition]]
 [[Free_Energy_Principle_Network]]

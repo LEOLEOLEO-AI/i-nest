@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Decoupling]]
 [[Critical_Region_Extension]]
 [[Criticality]]
+[[DelayPropagationDynamics]]
 [[Emergent_Order_Deep_Belief_Networks]]
 [[EvolvingArchitectureDynamics]]
 [[FeatureBonding]]

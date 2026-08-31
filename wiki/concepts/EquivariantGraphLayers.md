@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Stacking]]
 [[CoPackagedOptics]]
 [[Cognitive_Relapse_Architecture]]
+[[CorticalTypeDiversity]]
 [[DARPA_ProjectManager_Model]]
 [[Evolutionary_Structure_Computability]]
 [[Free_Energy_Principle_Network]]
@@ -47,15 +48,16 @@ Auto-extracted concept from raw material compilation.
 [[ReproducibleReservoirComputing]]
 [[ReproducibleReservoirDynamics]]
 [[ReproducibleReservoirOutput]]
+[[ReservoirDynamics]]
 [[Reservoir_Computing]]
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
+[[TemporalComplexity]]
 [[analog computation]]
 [[chiplet interconnect]]
 [[iNEST]]
-[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

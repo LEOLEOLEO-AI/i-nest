@@ -38,13 +38,14 @@ Auto-extracted concept from raw material compilation.
 [[Nanomaterial_Discovery_ML]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
+[[ProjectiveMeasurementRouting]]
 [[SDPromptGuidedExpertFusion]]
 [[SNN]]
 [[SelfOrganization]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
-[[spiking neural network]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

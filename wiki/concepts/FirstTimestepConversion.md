@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspiredInterception]]
 [[BioPlausiblePredictiveCoding]]
 [[BulletTrainScheduling]]
+[[BurstGatedRouting]]
 [[Criticality]]
 [[DiscreteContinuous_Unification]]
 [[Dynamic_Expert_Fusion]]

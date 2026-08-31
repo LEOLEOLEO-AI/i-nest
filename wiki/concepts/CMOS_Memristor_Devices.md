@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[FerroelectricMemoryCell]]
 [[FerroelectricSemiconductorReservoir]]
 [[FerroelectricSynapticArray]]
+[[FerroelectricTunnelingJunction]]
 [[Ferroelectric_Devices]]
 [[FisherOrthogonalMemory]]
 [[GeTeBasedCBRAM]]
@@ -51,7 +52,6 @@ Auto-extracted concept from raw material compilation.
 [[emerging CMOS memristor]]
 [[iNEST]]
 [[memristor device]]
-[[reservoir computing]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

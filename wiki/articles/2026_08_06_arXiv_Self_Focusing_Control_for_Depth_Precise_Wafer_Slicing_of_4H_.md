@@ -18,4 +18,3 @@ TCC, iNEST, interconnect, wafer
 
 [[TCC]]
 [[iNEST]]
-[[tcc]]

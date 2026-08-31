@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Cross_Brain_Connectome]]
 [[Crystallized_Neural_Manifolds]]
 [[Dynamic_Expert_Fusion]]
+[[Dynamic_Programming_Reservoir_State]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[NonEquilibriumComputing]]

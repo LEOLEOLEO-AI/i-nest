@@ -34,14 +34,16 @@ Auto-extracted concept from raw material compilation.
 [[EventBasedNeuralDecoding]]
 [[EventDrivenAutoregression]]
 [[EventDrivenDefenseMechanism]]
+[[EventDrivenLearning]]
 [[EventDrivenRestoration]]
 [[EventDrivenRiskAssessment]]
 [[FirstTimestepConversion]]
 [[FixedOverheadFloor]]
 [[Neuromorphic_Computing]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
+[[Spiking_neural_network_dynamics]]
 [[iNEST]]
-[[spiking neural network]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

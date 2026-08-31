@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Free_Energy_Topology_Mapping]]
+[[FunctionalBrainGraphEmbedding]]
 [[Hybrid_Volatile_NonVolatile_Mode]]
 [[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Integration]]

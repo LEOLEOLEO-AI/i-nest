@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[DRBE_MVP_Mainchain]]
 [[DataProvenanceIntegrity]]
 [[Deep_Network_Architecture_Invariant]]
+[[Deep_Network_Layer_Stacking]]
 [[EmergentOrder]]
 [[Exponential_CST_Coupling]]
 [[Free_Energy_Principle_Network]]
@@ -51,7 +52,6 @@ Auto-extracted concept from raw material compilation.
 [[Network_topology_and_interconnection_patterns]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
-[[Neuromorphic_computing]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[NonAbelian_Gauge_Topology]]
 [[Nonlinear_Gain]]
@@ -69,12 +69,10 @@ Auto-extracted concept from raw material compilation.
 [[SystemLevelNonlinearity]]
 [[TCC]]
 [[TemporalComplexity]]
-[[analog weight storage]]
 [[chiplet interconnect]]
 [[complex system]]
 [[iNEST]]
 [[memristor device]]
-[[neuromorphic computing]]
 [[residual connection]]
 
 ## Sources

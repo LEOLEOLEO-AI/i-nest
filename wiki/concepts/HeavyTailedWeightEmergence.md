@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[BackpropagationFreeLearning]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[CST计量仪]]
+[[CognitiveSupportTopology]]
 [[Complex_System_Theory]]
 [[ERI_2_0_Strategic_Framework]]
 [[FastSlow_Dynamics]]
@@ -44,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Whole_Organism_Behavioral_Assay]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

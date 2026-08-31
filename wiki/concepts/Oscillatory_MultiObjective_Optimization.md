@@ -29,16 +29,17 @@ Auto-extracted concept from raw material compilation.
 [[AnytimePointCloudRecognition]]
 [[ArtificialProprioception]]
 [[ClosedLoopNeuromorphicControl]]
+[[Discrete_Event_Spike_Simulation]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
 [[NoiseInjectionLearning]]
 [[QuantumStateSynapticTrace]]
 [[StochasticVehicleRouting]]
 [[TCC]]
+[[Temporal_Computing_Paradigm]]
 [[Trustworthiness_Aware_Training]]
 [[TrustworthyLearning]]
 [[iNEST]]
-[[temporal computing paradigm]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

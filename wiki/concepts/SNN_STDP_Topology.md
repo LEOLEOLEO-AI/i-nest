@@ -35,13 +35,14 @@ Auto-extracted concept from raw material compilation.
 [[SNN_STDP_CoDesign]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
-[[Spike_timing_dependent_plasticity]]
+[[Spike_Timing_Dependent_Plasticity]]
 [[Spike_timing_dependent_plasticity_learning_rule]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
+[[Synaptic_Plasticity_Rule]]
 [[WeightedSTDP]]
 [[iNEST]]
-[[spiking neural network]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

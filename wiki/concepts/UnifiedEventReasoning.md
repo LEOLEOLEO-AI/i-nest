@@ -44,11 +44,13 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[Self_Organized_Criticality]]
 [[SequenceAwareSpikingDetection]]
+[[Spiking neural network]]
+[[SpikingRecurrentCell]]
 [[SpikingRecurrentCells]]
 [[SpikingStateSpaceModel]]
+[[SpikingTransformer]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
-[[spiking neural network]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

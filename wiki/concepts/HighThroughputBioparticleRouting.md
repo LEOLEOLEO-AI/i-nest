@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[FC2_Goal_Representation]]
 [[FPGACongestionHotspotMitigation]]
 [[Free_Energy_Principle_Network]]
+[[Gradient_Signal_Preservation]]
 [[HighThroughputParticleRouting]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

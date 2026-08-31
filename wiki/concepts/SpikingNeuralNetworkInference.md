@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AnisotropicGaussianPrimitives]]
 [[AnomalousSpinTransport]]
 [[Bidirectional_Temporal_Enhancement]]
+[[BigBrainCellularAxis]]
 [[BurstTemporalPlasticity]]
 [[CirculateFiringNeuron]]
 [[Contested_Prior_Resolution]]
@@ -41,13 +42,13 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[Spike_Encoding_of_fMRI]]
+[[Spiking neural network]]
 [[SpikingNeuralNetwork]]
 [[Spiking_Neural_Network]]
 [[SynapticFatigueModel]]
 [[Synaptic_Plasticity]]
 [[Synaptic_Plasticity_Rule]]
 [[iNEST]]
-[[spiking neural network]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

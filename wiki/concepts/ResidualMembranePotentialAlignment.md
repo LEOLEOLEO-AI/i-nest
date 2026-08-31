@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[DirectSNNTraining]]
+[[Discrete_Event_Spike_Simulation]]
 [[Interconnect_Routing]]
 [[MembranePotentialAlignment]]
 [[Neuromorphic_Computing]]

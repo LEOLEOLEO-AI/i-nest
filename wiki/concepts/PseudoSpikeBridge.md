@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[SNN_Intrusion_Detection_Config]]
 [[Self_Organized_Criticality]]
+[[SpikeTokenization]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 [[temporal coding]]

@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[DARPA_3DHI_Roadmap]]
 [[DendriticReservoirState]]
+[[DenseNetworkDynamics]]
 [[EmergentScaleFreeConnectivity]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
@@ -46,8 +47,9 @@ Auto-extracted concept from raw material compilation.
 [[SDI节点接口规范与化合键定义]]
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
-[[tools]]
+[[TOOLS]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

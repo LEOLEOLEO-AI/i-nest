@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[PacketRoutingOptimization]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
+[[SparseTemporalEncoding]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]

@@ -37,16 +37,17 @@ Auto-extracted concept from raw material compilation.
 [[Ferroelectric_Devices]]
 [[Gaussian_Splat_Compression]]
 [[Heterogeneous_Integration]]
+[[HigherOrderStochasticProcess]]
 [[Memory_Wall]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
+[[SOC]]
 [[SparseTemporalEncoding]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]
-[[soc]]
-[[spiking neural network]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

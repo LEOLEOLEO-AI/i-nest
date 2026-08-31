@@ -19,4 +19,3 @@ TCC, iNEST, wafer
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[iNEST]]
-[[tcc]]

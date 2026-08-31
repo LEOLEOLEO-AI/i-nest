@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[CSI_Temporal_Encoding]]
+[[Chiplet_Based_Neuromorphic_Integration]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
 [[DeeplySupervisedSpiking]]
@@ -41,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[SNN_Backpropagation_Through_Time]]
 [[Spike_Encoding_of_fMRI]]
+[[Spiking neural network]]
 [[SpikingNeuronOptimization]]
 [[Spiking_Neural_Network]]
 [[SurrogateGradientTraining]]
@@ -48,8 +50,6 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[VonEconomoNeuron]]
 [[iNEST]]
-[[spiking neural network]]
-[[synaptic plasticity]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[神经网络]]
 

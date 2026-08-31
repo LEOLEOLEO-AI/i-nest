@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[EnvironmentalEmbedding]]
 [[FerroelectricSemiconductorReservoir]]
 [[Ferroelectric_Devices]]
+[[Fixed_Reservoir_Unitary]]
 [[Memristor_Synapse]]
 [[Mott_Device_Array]]
 [[Neuromorphic_Computing]]
@@ -43,7 +44,6 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]
-[[reservoir computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

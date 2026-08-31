@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[ChiralTopologicalMatterEncoding]]
 [[ChiralTopologicalMatter]]
 [[Complex_System_Theory]]
+[[ComplexityLandscape]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]
@@ -46,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Switch_Bottleneck]]
 [[TCC]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

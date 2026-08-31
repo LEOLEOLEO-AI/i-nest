@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[AstrocyteInspiredRepair]]
 [[AutonomousAdaptation]]
+[[BigBrainCellularAxis]]
 [[CrystalPalace_Program]]
 [[Crystallized_Neural_Manifolds]]
 [[DataDrivenMaterialDesign]]

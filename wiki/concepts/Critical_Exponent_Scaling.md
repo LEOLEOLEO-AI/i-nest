@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[CircadianGateModulation]]
 [[Comparative_Formulation_Analysis]]
+[[Course_Based_FPGA_Projects]]
 [[Criticality]]
 [[DendriticReservoirState]]
 [[DynamicNeuralManifolds]]
@@ -51,7 +52,6 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[SubsystemInformationCapacity]]
 [[TwoTimescaleNeuroEvolution]]
-[[criticality]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

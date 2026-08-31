@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AnomalousSpinTransport]]
 [[ArchitecturalCondition]]
 [[Architectural_Conditioning]]
+[[CoupledOscillatorReservoir]]
 [[CrystalPalace_Program]]
 [[Crystallized_Embedding_Reservoir]]
 [[DataDrivenMaterialDesign]]

@@ -37,11 +37,11 @@ Auto-extracted concept from raw material compilation.
 [[Continuous_Control_Spiking_Stability]]
 [[CriticalityInducedComputationalCapacity]]
 [[Criticality]]
+[[DeepCode_AlgorithmExtraction]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
-[[criticality]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

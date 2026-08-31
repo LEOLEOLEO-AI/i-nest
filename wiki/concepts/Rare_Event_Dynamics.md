@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AnisotropicGaussianPrimitives]]
 [[Bosonic_SPT_Phases]]
 [[CoexistencePhaseTransition]]
+[[CouplingMatrixRecovery]]
 [[DendriticReservoirState]]
 [[DifferentiableLifting]]
 [[EcosystemTopologyCoupling]]

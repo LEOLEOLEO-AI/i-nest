@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[CongestionAwareNoCPlacement]]
 [[Deep_Network_Architecture_Invariant]]
+[[DynamicServiceComposition]]
 [[Dynamic_Expert_Fusion]]
 [[ElectromigrationReliability]]
 [[EnergyOptimizedManycoreArchitecture]]
@@ -56,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[Topology_Centric_Interconnect]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -27,6 +27,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 
 ## Related Work
 
+[[3D_Torus_6_Degree]]
 [[ANN动力学]]
 [[ArmLocomotorCoordination]]
 [[CST计量仪]]
@@ -44,7 +45,6 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Network_topology_and_interconnection_patterns]]
 [[NeuroRing_Topology]]
 [[Neuromorphic_Computing]]
-[[Neuromorphic_computing]]
 [[Nonlinear_Gain]]
 [[Photonic_Chiplet_Interconnect]]
 [[PropertyPredictionModeling]]

@@ -27,19 +27,19 @@ Auto-extracted concept from raw material compilation.
 [[CST_Theory]]
 [[CST_Theory_V27_FINAL]]
 [[ChipletOpticalIO]]
+[[Chiplet_Heterogeneous_Integration]]
 [[CombinatorialOptimizationReservoirMapping]]
 [[Complex_System_Theory]]
 [[Criticality]]
 [[Criticality_of_Natural_Languages]]
 [[DynamicalSelfDualCriticality]]
+[[ERI_2_0_Strategy]]
 [[Fading_Memory_Property]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]
 [[Self_Organized_Criticality]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
-[[neuromorphic computing]]
-[[reservoir computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

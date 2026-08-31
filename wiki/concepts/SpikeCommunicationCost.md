@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[ComplexValuedSNN]]
 [[Environmental_Capability_Context]]
 [[Heterogeneous_Integration]]
+[[HodgkinHuxleyDynamics]]
 [[Interconnect_Routing]]
 [[Memristive_Interconnect]]
 [[Memristor_Network]]

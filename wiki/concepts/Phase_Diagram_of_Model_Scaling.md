@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[DistributedInference]]
 [[Dynamic_Neuron_Activation_Prediction]]
 [[EndocrineAxisDysregulation]]
+[[HierarchicalCrackPattern]]
 [[MagicStateProtocol]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]

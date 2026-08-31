@@ -29,6 +29,9 @@ Auto-extracted concept from raw material compilation.
 [[Constructed_Reality_Interconnect]]
 [[Defense_Industrial_Base_Reshaping]]
 [[Dynamic_Hybrid_LLM_Workload_Scheduling]]
+[[ERI_2_0_Strategic_Framework]]
+[[Intelligence_Emergence]]
+[[Network_Topology_Design]]
 [[iNEST]]
 
 ## Sources

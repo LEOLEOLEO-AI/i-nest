@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[MemristiveSpikingAccelerator]]
 [[MultiFPGA_Spiking_Scaling]]
 [[NanoBanana_SNNDeck]]
+[[NearlyLosslessANNtoSNN]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
@@ -54,7 +55,6 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]
-[[neuromorphic computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

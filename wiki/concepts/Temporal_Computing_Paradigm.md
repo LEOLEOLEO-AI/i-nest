@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[NonEquilibriumPhase]]
 [[On_Chip_STDP_Learning]]
+[[SOC]]
 [[STDP_Learning]]
 [[STDP_MemristiveLearning]]
 [[STDP_Plasticity]]
@@ -49,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[SynchronousResetting]]
+[[TheoryDrivenNeuromorphicDesign]]
 [[iNEST]]
 [[神经网络]]
 

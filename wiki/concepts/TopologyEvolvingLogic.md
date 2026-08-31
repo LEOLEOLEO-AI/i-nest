@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Network_Architecture_Invariant]]
 [[DynamicServiceComposition]]
 [[EulaminateOverrepresentation]]
+[[Free_Energy_Topology_Mapping]]
 [[Heterogeneous_Integration]]
 [[Logic_Folding]]
 [[Memristor_Interconnect]]

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
 [[DendriticReservoirState]]
+[[Emergent_Abilities]]
 [[Emergent_Intelligence_Threshold]]
 [[EventCameraActionRecognition]]
 [[Fractal_Entanglement_Scaling]]

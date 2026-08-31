@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[EntanglementSignatures]]
 [[GeometricRegularizationLoss]]
 [[Hippocampal_Encoding_Mechanism]]
+[[InferencePipelineTopologyAwareScheduling]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
@@ -48,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

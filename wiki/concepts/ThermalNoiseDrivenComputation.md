@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[PhysicalSubstrateReservoir]]
 [[Reservoir_Computing]]
+[[Synaptic_Weight_Pruning_by_Connectivity_Statistics]]
 [[iNEST]]
 
 ## Sources

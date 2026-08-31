@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[CriticalityAwareTopology]]
 [[Criticality]]
+[[DARPA_ProjectManager_Model]]
 [[Evolutionary_Structure_Computability]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]

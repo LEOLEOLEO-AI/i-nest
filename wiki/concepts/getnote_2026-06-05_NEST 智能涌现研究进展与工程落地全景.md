@@ -26,13 +26,14 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 ## Related Work
 
 [[AI-ML — 全景导航 (Map of Content)]]
+[[BNN vs ANN (1)]]
 [[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Chiplet_Heterogeneous_Integration]]
+[[CoPoS]]
 [[Complex_System_Theory]]
 [[Heterogeneous_Integration]]
 [[HotChip2024-Day2_AI加速器互联和云AI处理器,_Tesla是亮点]]
-[[INEST]]
 [[Intelligence_Emergence]]
 [[MIT_异构Chiplet集成构建下一代计算的_超级芯片_]]
 [[Neuromorphic_Computing]]
@@ -57,5 +58,6 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[战略报告提纲：物理复杂网络智能涌现——颠覆现有算力范式的新路线]]
 [[智能涌现]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[涌现动力学如何用来分析复杂系统？_新课上线]]
 [[神经网络]]

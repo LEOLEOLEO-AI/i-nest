@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
+[[Continuous_Control_Spike_Timing_Sensitivity]]
 [[EventCameraPoseInput]]
 [[EventCameraTemporalEncoding]]
 [[FatigueSTDP]]
@@ -41,7 +42,6 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
-[[neuromorphic computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

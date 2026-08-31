@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Cytokine_Feedback_Loops]]
 [[DelayTunedPopulationAmplitude]]
+[[DynamicalTransitionIdentification]]
 [[FlexibilityThreshold]]
 [[Neuromorphic_Computing]]
 [[Online_Continual_Learning]]
@@ -45,7 +46,6 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
-[[neuromorphic computing]]
 [[神经网络]]
 
 ## Sources

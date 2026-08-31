@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[EvolvingArchitectureDynamics]]
+[[FPGA_Reconfigurability]]
 [[Free_Energy_Principle_Network]]
 [[HybridCouplingThermosensitiveNetwork]]
 [[IncidenceMatrixPropagation]]
@@ -54,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

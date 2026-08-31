@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[BiologicalNoiseMimicry]]
 [[Biomanufacturing_Control_Loop]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
+[[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Course_Based_FPGA_Projects]]
 [[DARPA_ProjectManager_Model]]
 [[DARPA_Project_Group_Strategy]]
@@ -38,9 +39,9 @@ Auto-extracted concept from raw material compilation.
 [[ReproducibleReservoirComputing]]
 [[Reservoir_Computing]]
 [[ShortTermMemoryReservoir]]
+[[ShortTermMemory]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
-[[neuromorphic computing]]
 [[神经网络]]
 
 ## Sources

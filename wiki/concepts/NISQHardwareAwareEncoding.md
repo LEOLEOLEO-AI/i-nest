@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[CouplingMatrixRecovery]]
 [[CrossInstitutionalNetwork]]
 [[Crystallized_Neural_Manifolds]]
+[[DataDrivenMaterialDesign]]
 [[DivergentHigherAreaRanking]]
 [[Evolutionary_Reservoir_Adaptation]]
 [[HardwareAware_DesignSpace]]

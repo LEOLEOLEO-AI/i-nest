@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[PhysicalSubstrateReservoir]]
 [[Reservoir_Computing]]
 [[Self_Organized_Criticality]]
+[[TopologicalReservoirComposition]]
 [[iNEST]]
 
 ## Sources

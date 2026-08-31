@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[BioPlausibleDisturbanceObserver]]
 [[Biologically_Plausible_Learning_Rules]]
 [[BulletTrainScheduling]]
+[[CST_Theory_V27_FINAL]]
 [[Criticality]]
 [[Intelligence_Emergence]]
 [[Neuromorphic_Computing]]

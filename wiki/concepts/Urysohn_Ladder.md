@@ -48,10 +48,11 @@ Auto-extracted concept from raw material compilation.
 [[Recursive_Metric_Contraction]]
 [[Selection_Theorems]]
 [[StochasticMultiAgentRL]]
+[[Systemic_Innovation_Mechanism]]
 [[TopologicalAndersonChernInsulator]]
 [[catastrophic forgetting]]
-[[recursive metric contraction]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

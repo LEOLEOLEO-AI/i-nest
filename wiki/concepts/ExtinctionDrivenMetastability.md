@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_SNN]]
 [[SDI_SNN_Interconnect]]
 [[SDI_STDP]]
+[[SDI_STDP_Rule]]
 [[SDI_iNEST_Interconnect]]
 [[SNN]]
 [[STDP_Plasticity]]

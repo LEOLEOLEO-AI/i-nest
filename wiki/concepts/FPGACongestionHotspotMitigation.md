@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[StarvationSuppression]]
 [[StochasticDelayInference]]
+[[SyntheticInertiaProvision]]
 [[TCC]]
 [[TSVEncapsulationStress]]
 

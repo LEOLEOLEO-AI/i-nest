@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenMotionDeblurring]]
 [[Intelligence_Emergence]]
 [[InterDomain_Synergy]]
+[[MultiModel_Adapter_Architecture]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

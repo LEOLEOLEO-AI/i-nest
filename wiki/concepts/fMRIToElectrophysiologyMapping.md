@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveInference]]
 [[ActiveSpikingPerception]]
 [[AttentionGuidedEntropy]]
+[[BigBrainCellularAxis]]
 [[Complex_System_Theory]]
 [[DevelopmentalNeuromorphicAdaptation]]
 [[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]
@@ -42,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI节点接口规范与化合键定义]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
+[[TCC]]
 [[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[神经网络]]
 

@@ -42,12 +42,13 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[SNN_NeuroprostheticPipeline]]
 [[Self_Organized_Criticality]]
+[[SensationModulatingNetwork]]
 [[SpikeBasedGradientDescent]]
 [[Spike_Encoding_of_fMRI]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[Topology_Aware_Spike_Routing]]
 [[iNEST]]
-[[spiking neural network]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

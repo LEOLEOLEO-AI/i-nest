@@ -29,17 +29,17 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]
 [[SDI_STDP]]
+[[SDI_STDP_Rule]]
+[[SOC]]
 [[STDP_MemristiveLearning]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
-[[Soc]]
 [[Spike_Encoding_of_fMRI]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[VonEconomoNeuron]]
 [[iNEST]]
-[[soc]]
-[[spiking neural network]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

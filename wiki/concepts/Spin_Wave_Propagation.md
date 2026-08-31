@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Architecture]]
 [[SDSoW_Strategic_Planning]]
 [[Spatiotemporal_Synergy_Complexity]]
+[[Sub_Nyquist_Waveform_Reconstruction]]
 [[TCC]]
 [[TCC_iNEST_Interconnect]]
 [[analog computation]]

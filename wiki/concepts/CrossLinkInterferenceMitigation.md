@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[AnteHoc_Explainability]]
 [[BCM滑动阈值]]
 [[CST_Synergy_Coordination]]
+[[CST_Triad_Framework]]
 [[CST_Triad_Integration]]
 [[CST_V42_SelfConsistency]]
 [[CST计量仪]]
@@ -51,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[complex system]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

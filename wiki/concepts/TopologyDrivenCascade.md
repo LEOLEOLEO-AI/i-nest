@@ -36,18 +36,18 @@ Auto-extracted concept from raw material compilation.
 [[LowRankPerturbation]]
 [[Network_Topology_Design]]
 [[Neural_Avalanche]]
+[[Neural_Avalanche_Dynamics]]
 [[NeuromorphicHardware]]
 [[NeuromorphicRadarFrontend]]
 [[Neuromorphic_Computing]]
 [[Persistent_Homology_Neuron]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
+[[SNN_NeuroprostheticPipeline]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[Topology_Aware_Spike_Routing]]
-[[avalanche dynamics]]
-[[neural avalanche]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

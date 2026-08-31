@@ -50,8 +50,8 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Self_Organized_Criticality]]
 [[SuperparamagneticSwitchingRate]]
+[[Syncytial_Mesh_Model]]
 [[catastrophic forgetting]]
-[[criticality]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

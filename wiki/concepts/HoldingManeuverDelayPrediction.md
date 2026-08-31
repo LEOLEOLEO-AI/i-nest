@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[ErrorSuppressedPipeline]]
 [[ForwardFluctuationGradient]]
 [[FractalPathEntropy]]
+[[HardwareAware_DesignSpace]]
 [[HigherOrderSimplicialDynamics]]
 [[Intelligence_Emergence]]
 [[Layered_Attractive_Hubbard_Model]]

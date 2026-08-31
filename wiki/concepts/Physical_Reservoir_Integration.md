@@ -37,10 +37,12 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
+[[ShortTermMemoryReservoir]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
 [[neuromorphic substrate]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

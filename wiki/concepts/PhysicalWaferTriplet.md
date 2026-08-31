@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[InverseDesignedPhotonicRouting]]
 [[Memory_Wall]]
 [[Memristor_Synapse]]
+[[Mesoscale_Heterogeneous_Integration]]
 [[MicroRouter_Embedding]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]

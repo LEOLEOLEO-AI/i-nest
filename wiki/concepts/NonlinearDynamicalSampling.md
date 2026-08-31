@@ -34,8 +34,10 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[PhysicalReservoirInterconnect]]
+[[PhysicalReservoir]]
 [[Reservoir_Computing]]
 [[Self_Organized_Criticality]]
+[[SpikeEventDrivenInference]]
 [[TCC]]
 [[iNEST]]
 

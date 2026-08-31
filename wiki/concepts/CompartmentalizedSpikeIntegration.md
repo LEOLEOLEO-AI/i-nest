@@ -26,12 +26,14 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[BigBrainCellularAxis]]
 [[BrainBodyResonance]]
+[[BrownianCastleInterfaces]]
 [[Chiplet_Based_Neuromorphic_Integration]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Contested_Prior_Resolution]]
 [[ExplainableEnergyAI]]
 [[GraphGeometryAlignment]]
+[[Heterogeneous_Integration]]
 [[Memristive_STDP]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
@@ -47,7 +49,6 @@ Auto-extracted concept from raw material compilation.
 [[TemporalDynamicsModeling]]
 [[fMRI_SpikeEncoding]]
 [[iNEST]]
-[[neuromorphic computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

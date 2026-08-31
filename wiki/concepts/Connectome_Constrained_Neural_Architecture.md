@@ -32,11 +32,11 @@ Auto-extracted concept from raw material compilation.
 [[ConnectomeWiringSeparability]]
 [[Connectome]]
 [[Connectome_Reservoir]]
+[[Connectome_Verification_Protocol]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]
 [[TCC]]
-[[connectome]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

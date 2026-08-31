@@ -42,6 +42,8 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]
 [[SDI_SNN]]
+[[SDI_SNN_Interconnect]]
+[[SNN]]
 [[SelfOrganization]]
 [[Self_Organized_Criticality]]
 [[SpikeDrivenDetectionBackbone]]

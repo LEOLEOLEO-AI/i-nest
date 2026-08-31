@@ -28,10 +28,12 @@ Auto-extracted concept from raw material compilation.
 [[In_Package_Neuromorphic_Integration]]
 [[IntrinsicTimingSTDP]]
 [[Network_Topology_Design]]
+[[NeuromorphicEdgeProcessing]]
 [[NeuromorphicGraphAnomalyDetection]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[PhaseLockedTopologyMapping]]
+[[SNN]]
 [[STDP_Plasticity]]
 [[ST_SNN]]
 [[Spike_Event_Driven_Attention]]
@@ -42,7 +44,6 @@ Auto-extracted concept from raw material compilation.
 [[TemporalSparsityExploitation]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
-[[neuromorphic computing]]
 [[类脑芯片]]
 
 ## Sources

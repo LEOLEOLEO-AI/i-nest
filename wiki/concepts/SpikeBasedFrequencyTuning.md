@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[ResonantCouplingDefect]]
 [[ScalableNeuromorphicTopology]]
 [[Spiking_Neural_Network]]
+[[WaveBasedComputation]]
 [[neuromorphic sensing]]
 
 ## Sources

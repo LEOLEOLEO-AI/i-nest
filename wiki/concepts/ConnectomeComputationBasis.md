@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
 [[3D_Airborne_Connectivity_Characterization]]
 [[AI-ML — 全景导航 (Map of Content)]]
+[[ANN动力学]]
 [[Brain_Connectome]]
 [[CST计量仪]]
 [[C_elegansConnectomeAnalogy]]
@@ -42,7 +43,6 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Parallelized_Hierarchical_Connectome]]
 [[TCC]]
-[[connectome]]
 [[iNEST]]
 
 ## Sources

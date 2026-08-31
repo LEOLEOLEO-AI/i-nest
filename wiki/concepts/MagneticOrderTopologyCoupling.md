@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[EdgeIoTEnergyAwareness]]
 [[EmergentRecurrentConnectivity]]
 [[Emergent_Intelligence_Threshold]]
+[[Entangled_Criticality]]
 [[ImmobilizationStabilityMechanism]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]

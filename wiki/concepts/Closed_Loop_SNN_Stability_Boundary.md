@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN_SNN_ConversionError]]
 [[ANN_SNN_WeightSpaceGap]]
 [[BiologicalNoiseMimicry]]
+[[CoEvolvedSNNEnsemble]]
 [[CombinedImportanceScoring]]
 [[CompartmentalNeuronModel]]
 [[CoreComputationSubspace]]

@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[DARPA_ProjectManager_Model]]
 [[DTGA]]
+[[Energy_Efficient_Control]]
 [[FerroelectricMemoryCell]]
 [[FerroelectricTunnelingJunction]]
 [[Ferroelectric_Devices]]
@@ -52,10 +53,10 @@ Auto-extracted concept from raw material compilation.
 [[SneakPathCurrentSuppression]]
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
+[[TemporalComplexity]]
 [[analog computation]]
 [[chiplet interconnect]]
 [[complex system]]
-[[temporalComplexity]]
 [[神经网络]]
 
 ## Sources

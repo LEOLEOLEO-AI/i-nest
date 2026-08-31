@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BrainInspiredArchitecture]]
 [[BrainInspired_Chip]]
 [[Compact_Sequence_Encoding]]
+[[Discrete_Event_Spike_Simulation]]
 [[EventDrivenTemplateUpdate]]
 [[NestedRepresentation]]
 [[Neuromorphic_Computing]]
@@ -37,7 +38,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[branch prediction]]
 [[iNEST]]
-[[neuromorphic computing]]
 [[pipelined processor]]
 
 ## Sources

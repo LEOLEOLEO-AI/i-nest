@@ -18,4 +18,3 @@ iNEST
 
 [[Reservoir_Computing]]
 [[iNEST]]
-[[reservoir computing]]

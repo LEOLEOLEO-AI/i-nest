@@ -41,12 +41,14 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_Interconnect]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
+[[PhotonicStateRetention]]
 [[TCC]]
 [[TopologicalDataCompression]]
 [[Topology_Centric_Computing]]
 [[Topology_Centric_Interconnect]]
 [[causal emergence]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Arm_Locomotor_Synergy]]
 [[BigBrainCellularAxis]]
 [[BrainActivityPrediction]]
+[[CST_Intelligence_Emergence]]
 [[CST_Spatiotemporal_Coefficient]]
 [[CollectiveDynamics]]
 [[Complex_System_Theory]]
@@ -38,10 +39,10 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[SNN]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[SynapticProcessingElement]]
 [[iNEST]]
-[[spiking neural network]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

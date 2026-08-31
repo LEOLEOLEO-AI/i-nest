@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenTracking]]
 [[Event_Driven_Architecture]]
 [[Event_Driven_Processing]]
+[[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[FunctionalEnsemble]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

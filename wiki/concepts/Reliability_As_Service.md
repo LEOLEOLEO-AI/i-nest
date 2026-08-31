@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[EnsembleCreditAssignment]]
 [[ExplainableEnergyAI]]
+[[InNetworkReconfiguration]]
 [[Interconnect_Routing]]
 [[LocalPlasticityPipeline]]
 [[MoE_Routing]]

@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Monitored_Quantum_Circuits]]
 [[MultifractalCriticalPhase]]
 [[Nanoencapsulation_Stability_Bioavailability]]
+[[NanomaterialFeatureEngineering]]
 [[Network_Topology_Design]]
 [[PhysicalReservoir]]
 [[Reservoir_Computing]]
@@ -48,7 +49,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[iNEST]]
 [[quantum reservoir computing]]
-[[reservoir computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

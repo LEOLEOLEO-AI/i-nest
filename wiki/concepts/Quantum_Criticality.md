@@ -39,12 +39,11 @@ Auto-extracted concept from raw material compilation.
 [[Capability_Reserve_Index]]
 [[Cognitive_Relapse_Decoupling]]
 [[CollectiveStateTopology]]
+[[ConstraintDrivenSelfOrganization]]
 [[Criticality]]
 [[Network_Topology_Design]]
 [[Self_Organized_Criticality]]
 [[TCC]]
-[[criticality]]
-[[quantum criticality]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

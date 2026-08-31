@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[CoupledOscillatorReservoir]]
 [[CriticalFluctuationReservoir]]
+[[Crystallized_Neural_Manifolds]]
 [[Intelligence_Emergence]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]

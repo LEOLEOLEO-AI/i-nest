@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Synchronization]]
 [[Heterogeneous_Integration]]
 [[HybridResistiveMemoryCIM]]
+[[InInterconnectMemory]]
 [[In_Memory_Computing]]
 [[InterpolationLearningTransition]]
 [[LearningTransition]]

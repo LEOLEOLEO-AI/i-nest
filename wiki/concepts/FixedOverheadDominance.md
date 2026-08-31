@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenPlasticity]]
 [[Event_Driven_Architecture]]
 [[Event_Driven_Processing]]
+[[FixedOverheadPenalty]]
 [[FunctionalEnsemble]]
 [[In_Package_Neuromorphic_Integration]]
 [[MemoryDrivenInterconnect]]

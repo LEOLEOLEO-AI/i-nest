@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[KernelRegimeScaling]]
 [[L2_L3_Reconfigurability]]
 [[Memristive_Topology]]
+[[NCL神经计算定律详解]]
 [[Network_Topology_Design]]
 [[Parallelized_Hierarchical_Connectome]]
 [[PowerLawScaling]]

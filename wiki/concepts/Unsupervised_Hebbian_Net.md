@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Alpha_Coefficient_Phase_Transition_Amplification]]
 [[AmplifyingNetworkTopology]]
 [[AnalogStateRetention]]
+[[Antiferromagnetic_Topological_Anderson_Insulator]]
 [[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]
 [[Edge_Intelligence]]
@@ -51,10 +52,10 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[complex system]]
-[[edge intelligence]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

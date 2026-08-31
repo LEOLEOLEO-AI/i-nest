@@ -58,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
 [[chiplet interconnect]]
+[[iMESO_PhysicalCarrier]]
 [[iNEST]]
 [[神经形态脉冲大语言模型（NSLLM）]]
 

@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[FlexibilityThreshold]]
 [[Intelligence_Emergence]]
+[[NeuromorphicRL]]
 [[NeuromorphicRL_Locomotion]]
 [[Neuromorphic_Computing]]
 [[STDP_Plasticity]]
@@ -44,10 +45,12 @@ Auto-extracted concept from raw material compilation.
 [[SpikerLL_Accelerator]]
 [[Spiking_Neural_Network]]
 [[StrategyDiffusionCoupling]]
+[[SupervisedTrainingDegradation]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

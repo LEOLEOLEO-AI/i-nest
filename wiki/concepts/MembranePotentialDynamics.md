@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[AlgorithmHardware_CoDesign]]
 [[AstrocyteInspiredRepair]]
+[[BayesMarkovOrientationModel]]
 [[BigBrainCellularAxis]]
 [[CIMWeightUpdateAwareness]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -35,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Cross_Node_Event_Propagation]]
 [[Distributed_Spike_Communication]]
 [[FerroelectricSynapse]]
+[[Ferroelectric_Devices]]
 [[Heterogeneous_Integration]]
 [[HigherOrderStochasticProcess]]
 [[LIF_Neuron_Model]]
@@ -42,9 +44,9 @@ Auto-extracted concept from raw material compilation.
 [[NUMA_Balancing_Interference]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
-[[spiking neural network]]
 [[神经网络]]
 
 ## Sources

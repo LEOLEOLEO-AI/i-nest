@@ -28,7 +28,9 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_NoC_Interconnect]]
+[[Chiplet_Topology]]
 [[Chiplet_Topology_Mapping]]
+[[Chiplet_Topology_Packaging]]
 [[Complex_System_Theory]]
 [[DataMovementMinimization]]
 [[EulaminateOverrepresentation]]
@@ -52,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[iNEST_Wafer]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

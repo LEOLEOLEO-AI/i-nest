@@ -35,15 +35,16 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_NoC_Routing]]
 [[SDI_Bond]]
 [[SDI_SNN]]
+[[SDI_STDP]]
 [[SNN]]
 [[SpikeEncoding]]
 [[SpikeRoutingFabric]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[ThresholdBasedSpikeEncoding]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
-[[spiking neural network]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

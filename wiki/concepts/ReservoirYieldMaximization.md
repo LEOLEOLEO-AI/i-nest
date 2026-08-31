@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[ReproducibleReservoirComputing]]
 [[ReservoirYield]]
 [[Reservoir_Computing]]
+[[RestrictedConnectivityTopology]]
 [[ShortTermMemory]]
 [[TemporalEchoMemory]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]

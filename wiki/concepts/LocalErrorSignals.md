@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AdsorptionBiosorptionHybrid]]
 [[Advanced_Packaging_for_Space]]
 [[BioInspired_Interception_Control]]
+[[BrainInspiredArchitecture]]
 [[Neuromorphic_Computing]]
 [[TCC]]
 [[iNEST]]

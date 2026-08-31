@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[EnergyEfficientNeuromorphicDesign]]
 [[EnergyEfficientNeuromorphic]]
 [[Event_Driven_Architecture]]
+[[Hybrid_ANN_SNN_Pipeline]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[NeuralNetworkSpectralAnalysis]]

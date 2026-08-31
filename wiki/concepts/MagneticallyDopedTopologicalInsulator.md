@@ -41,10 +41,12 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[NonHermitian_Delocalization]]
+[[OpticallyWritableAtomicVaporMemory]]
 [[RadiationHardened_ProcessNodeScaling]]
 [[ReEntrantMultifractalization]]
 [[TCC]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

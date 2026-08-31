@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[FreeEnergyMinimization]]
 [[Interconnect_Routing]]
 [[InterpolationKernel]]
+[[Nanomaterial_Discovery_ML]]
 [[Nonlinear_Gain]]
 [[SNN]]
 [[Spiking_Neural_Network]]

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[Baseline_Draft_Status]]
 [[Bipartite_Interconnect]]
+[[BoundaryObject_Abstraction]]
 [[Deep_Network_Architecture_Invariant]]
 [[Interconnect_Routing]]
 [[Memristive_Interconnect]]

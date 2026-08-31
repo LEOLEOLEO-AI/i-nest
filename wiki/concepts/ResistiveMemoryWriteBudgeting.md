@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
 [[Cross_Node_Event_Propagation]]
+[[DendriticTaskPartitioning]]
 [[Distributed_Spike_Communication]]
 [[DrivenDissipativeDynamics]]
 [[Emergent_Intelligence_Threshold]]

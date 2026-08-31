@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Hardware_Software_CoDesign]]
 [[Intelligence_Emergence]]
 [[Material_Implication]]
+[[Memristive_Crossbar_Array]]
 [[Memristive_Topology]]
 [[MixedLabyrinthFractal]]
 [[MixedSignalSNN_CoDesign]]
@@ -49,12 +50,11 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[OpenSource_Neuromorphic_Framework]]
 [[Open_Source_Research_Stack]]
+[[ReSCom_Accelerator]]
 [[ReconfigurableSNN_Accelerator]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[TopologicalAndersonChernInsulator]]
-[[material implication]]
-[[memristive crossbar array]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

@@ -43,9 +43,10 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[complex system]]
-[[criticality]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
+[[集合通信NaaS完整报告]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

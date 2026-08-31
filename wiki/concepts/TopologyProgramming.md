@@ -61,6 +61,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TemperatureSensitivityControl]]
 [[TemporalComplexity]]
+[[Topology_Centric_Computing_Paradigm]]
 [[Topology_Interconnect]]
 [[Topology_Page]]
 [[chiplet interconnect]]
@@ -68,7 +69,6 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[iNEST_Wafer]]
 [[residual connection]]
-[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

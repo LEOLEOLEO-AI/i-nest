@@ -37,7 +37,9 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
 [[SDI_STDP]]
+[[SDI_STDP_Rule]]
 [[SNN]]
+[[SOC]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[SensoryGatedSpikingLoop]]
@@ -46,7 +48,8 @@ Auto-extracted concept from raw material compilation.
 [[SpikeInformationDensity]]
 [[Spike_Encoding_of_fMRI]]
 [[Spike_Residual_Connection]]
-[[SpikingMot]]
+[[Spiking neural network]]
+[[SpikingMOT]]
 [[SpikingMotorControl]]
 [[SpikingMuscleActivation]]
 [[SpikingTopologyEvolution]]
@@ -56,7 +59,6 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[iNEST]]
 [[residual connection]]
-[[spiking neural network]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

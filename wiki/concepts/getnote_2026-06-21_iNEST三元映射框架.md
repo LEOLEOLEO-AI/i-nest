@@ -34,6 +34,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[AIRA_NeuralArchSearch]]
 [[AI_FullSpectrum_Strategy]]
 [[ANN动力学]]
+[[Airborne_Link_Diversity]]
 [[Bipartite_Topology]]
 [[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
@@ -53,3 +54,4 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[复杂网络]]
 [[智能涌现]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]

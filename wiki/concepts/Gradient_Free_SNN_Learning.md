@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[GradientBasedSpikeLearning]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[KinematicWavePropagation]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
@@ -51,7 +52,6 @@ Auto-extracted concept from raw material compilation.
 [[Teleportation_Assisted_Interconnect]]
 [[VonEconomoNeuron]]
 [[iNEST]]
-[[parameter reconstruction]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

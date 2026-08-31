@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Processing]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[Military_AI_Revolution]]
 [[Network_Topology_Design]]
 [[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
@@ -52,7 +53,6 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Spiking_Temporal_Encoding]]
 [[TopologicalAndersonChernInsulator]]
-[[neuromorphic computing]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[神经网络]]
 

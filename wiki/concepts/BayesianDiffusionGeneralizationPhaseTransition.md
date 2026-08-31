@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Accessibility_Gradient]]
 [[ActionWeightedPathEnsemble]]
 [[AdversarialRobustness]]
+[[AdversarialSensingResilience]]
 [[AirportNetworkGraphEmbedding]]
 [[Allreduce_Latency_Probe]]
 [[Alpha_Coefficient_Phase_Transition_Amplification]]
@@ -50,12 +51,14 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SOC]]
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[TopologicalAndersonChernInsulator]]
 [[Topological_Anderson_Insulator]]
 [[complex system]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

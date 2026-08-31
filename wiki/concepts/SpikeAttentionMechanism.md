@@ -31,16 +31,17 @@ Auto-extracted concept from raw material compilation.
 [[DiscreteSTDP]]
 [[DistinguishableHelium4]]
 [[ElasticInferenceScheduling]]
+[[EmergentAttractorStability]]
 [[ExactFiringRateModel]]
 [[IntrinsicTimingSTDP]]
 [[Neuromorphic_Computing]]
 [[STDP_Plasticity]]
 [[SparseActivationSkipping]]
 [[SpikeAttention]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
-[[spiking neural network]]
 [[神经网络]]
 
 ## Sources

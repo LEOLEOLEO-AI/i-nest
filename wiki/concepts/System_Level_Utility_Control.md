@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[In_Network_Neuromorphic]]
 [[Intelligent_Power_Management]]
+[[Interconnect_Routing]]
 [[L2_L3_Reconfigurability]]
 [[Memristor_Synapse]]
 [[Microgrid_Optimization]]
@@ -56,12 +57,13 @@ Auto-extracted concept from raw material compilation.
 [[Structural_Mismatch]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[TemporalComplexity]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
-[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

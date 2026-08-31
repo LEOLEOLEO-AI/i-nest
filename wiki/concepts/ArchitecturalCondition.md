@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Dimensionality_Modularity_Tradeoff]]
 [[DynamicCentralitySteering]]
 [[Dynamic_Expert_Fusion]]
+[[Emergent_Intelligence_Roadmap]]
 [[FormalLinguisticCompetence]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

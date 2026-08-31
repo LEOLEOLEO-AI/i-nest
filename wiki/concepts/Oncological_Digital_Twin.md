@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenSynchronization]]
 [[Event_Driven_Architecture]]
 [[ImpactFallDetection]]
+[[MembranePotentialAlignment]]
 [[Network_Topology_Design]]
 [[NeuromorphicAuditoryFrontend]]
 [[NeuromorphicGraphAnomalyDetection]]

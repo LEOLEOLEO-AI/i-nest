@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveArchitecture]]
 [[AdaptiveCombinerWeighting]]
 [[AdaptiveFunctionalTopology]]
+[[AmoebaInspiredLocomotion]]
 [[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[FlexibleManifoldReconfiguration]]

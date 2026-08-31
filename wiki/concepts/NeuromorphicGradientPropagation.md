@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[CrossLayer_SignalRouting]]
 [[DARPA_ProjectManager_Model]]
+[[DifferentiableNetworkMetrics]]
 [[EventDrivenModularArchitecture]]
 [[FrustratedDimerMagnet]]
 [[Intelligence_Emergence]]

@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Differential_Encoding]]
 [[FemtosecondLaserMachining]]
+[[ImaginaryGaugePhaseImprint]]
 [[Intelligence_Emergence]]
 [[NanoparticleNetwork]]
 [[Nanowire_Network_Interconnection_Graph]]
@@ -48,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

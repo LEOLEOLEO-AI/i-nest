@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[AnomalousSpinTransport]]
 [[BrainActivityPrediction]]
 [[BrownianCastleInterface]]
+[[CombinedImportanceScoring]]
 [[ErrorSuppressedPipeline]]
 [[Global_Self_Attention_Bottleneck]]
 [[InterpretabilityDrivenDesign]]
@@ -42,7 +43,6 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
-[[neuromorphic computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

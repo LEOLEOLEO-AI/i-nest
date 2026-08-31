@@ -36,11 +36,12 @@ Auto-extracted concept from raw material compilation.
 [[LocalInteractionDrivenReconfiguration]]
 [[MixedSignalSNN_CoDesign]]
 [[Nonlinear_Gain]]
+[[QNNtoSNNConversion]]
 [[SNN]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]
-[[spiking neural network]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

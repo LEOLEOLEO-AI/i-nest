@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[BranchingRatio]]
 [[Categorical_Reservoir_Model]]
 [[CoexistencePhaseDiagram]]
+[[CoexistencePhaseTransition]]
 [[ConnectivityDerivedReservoir]]
 [[CoupledOscillatorReservoir]]
 [[CriticalStateReservoir]]
@@ -44,8 +45,6 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
 [[TCC]]
-[[neuromorphic computing]]
-[[reservoir computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

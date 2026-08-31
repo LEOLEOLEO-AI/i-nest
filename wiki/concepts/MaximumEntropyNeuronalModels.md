@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspired_Interception_Control]]
 [[BioPlausibleDisturbanceObserver]]
 [[BurstGatedRouting]]
+[[Cognitive_Relapse_Decoupling]]
 [[Criticality]]
 [[DynamicalCriticality]]
 [[EdgeOfChaos]]
@@ -41,7 +42,6 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[OptimalRepresentation]]
 [[Self_Organized_Criticality]]
-[[criticality]]
 [[iNEST]]
 
 ## Sources

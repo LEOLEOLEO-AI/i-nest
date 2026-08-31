@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[DendriticReservoirState]]
 [[Emergent_Reservoir_Topology]]
 [[Fading_Memory_Property]]
+[[FerroelectricNvCap]]
 [[Ferroelectric_Devices]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]

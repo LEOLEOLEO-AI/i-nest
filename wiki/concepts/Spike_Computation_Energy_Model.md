@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[SparseActivationPattern]]
 [[Spiking_Neural_Network]]
+[[Spiking_Topology]]
 [[TCC]]
 
 ## Sources

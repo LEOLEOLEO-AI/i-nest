@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[BigBrainCellularAxis]]
 [[Biologically_Plausible_Learning_Rules]]
+[[BrownianCastleInterfaces]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Criticality]]
 [[DataDrivenCellularAxis]]
@@ -52,7 +53,6 @@ Auto-extracted concept from raw material compilation.
 [[TopologyDrivenDynamics]]
 [[TopologyDrivenVulnerability]]
 [[VisualSemanticDecoding]]
-[[criticality]]
 [[iNEST]]
 
 ## Sources

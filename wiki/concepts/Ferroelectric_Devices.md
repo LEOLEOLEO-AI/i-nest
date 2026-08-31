@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Comparative_Formulation_Analysis]]
 [[ConsciousIntegration]]
 [[Critical_Exponent_Scaling]]
+[[CrossDomain_Integration]]
 [[DendriticReservoirState]]
 [[DualImpactEvaluation]]
 [[DynamicNeuralManifolds]]
@@ -54,7 +55,6 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[SelfOrganizedOscillatoryLearning]]
 [[StochasticBinaryDynamics]]
-[[ferroelectric devices]]
 [[iNEST]]
 
 ## Sources

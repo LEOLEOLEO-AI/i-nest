@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[BrainBodyResonance]]
 [[ChannelEventSparsity]]
 [[Complex_System_Theory]]
+[[Cross_Node_Event_Propagation]]
 [[FlexibilityThreshold]]
 [[Neuromorphic_Computing]]
 [[OnChipWeightUpdate]]
@@ -39,11 +40,11 @@ Auto-extracted concept from raw material compilation.
 [[ParallelMultiCompartmentNeuron]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[Subtractive_AttentionNormalization]]
 [[SurrogateGradientAdaptation]]
 [[iNEST]]
-[[spiking neural network]]
 [[神经网络]]
 
 ## Sources

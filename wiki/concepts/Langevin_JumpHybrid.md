@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[ContinuousControlConversion]]
 [[Course_Based_FPGA_Prototyping]]
 [[Criticality]]
+[[Discrete_Event_Spike_Simulation]]
 [[DualDrivenHybridNetwork]]
 [[DynamicTokenSparsity]]
 [[Edge_Neuromorphic_Compute]]

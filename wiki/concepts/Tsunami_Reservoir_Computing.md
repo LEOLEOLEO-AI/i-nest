@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AtomicVaporNonlinearity]]
 [[AttentionMap_DifferenceResidual]]
 [[Biomanufacturing_Control_Loop]]
+[[Bosonic_SPT_Phases]]
 [[Complex_System_Theory]]
 [[Compressed_Glass_Network]]
 [[ConnectivityDerivedReservoir]]

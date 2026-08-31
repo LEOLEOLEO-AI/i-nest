@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Evolutionary_Structure_Computability]]
 [[Free_Energy_Principle_Network]]
 [[Generalized_Synchronization_Bond]]
+[[HarvestProtocol]]
 [[Heterogeneous_Integration]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
@@ -54,7 +55,6 @@ Auto-extracted concept from raw material compilation.
 [[TopologicalAndersonChernInsulator]]
 [[WeightedPathInfluence]]
 [[analog computation]]
-[[criticality]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

@@ -47,15 +47,17 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Nonlinear_Gain]]
+[[PhysicalReservoirTransientDynamics]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[SDDE_Attractor_Emergence]]
 [[SelfRectifyingMemristor]]
 [[SemanticRelationTemporalGraph]]
 [[SuperparamagneticSwitchingRate]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[Topological_Reservoir]]
-[[reservoir computing]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Accessibility_Gradient]]
 [[ActionWeightedPathEnsemble]]
 [[AdversarialRobustness]]
+[[AdversarialSensingResilience]]
 [[AirportNetworkGraphEmbedding]]
 [[Allreduce_Latency_Probe]]
 [[Alpha_Coefficient_Phase_Transition_Amplification]]
@@ -41,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[ArchitecturalIllusion]]
 [[Architectural_Conditioning]]
 [[Complex_System_Theory]]
+[[Coupled_Oscillator_Network]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence_Threshold]]
@@ -55,9 +57,8 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[Topological_Anderson_Insulator]]
 [[complex system]]
-[[coupled oscillator network]]
-[[neuromorphic computing]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

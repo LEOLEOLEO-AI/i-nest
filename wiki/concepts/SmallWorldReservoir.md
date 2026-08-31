@@ -38,9 +38,9 @@ Auto-extracted concept from raw material compilation.
 [[ReservoirDynamics]]
 [[ReservoirTemporalDynamics]]
 [[Reservoir_Computing]]
+[[RestrictedConnectivityTopology]]
 [[iNEST]]
 [[reservoir computing architecture]]
-[[reservoir computing]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

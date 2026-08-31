@@ -37,15 +37,16 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[SelectorFreeHopfieldNetwork]]
 [[SpikeBasedGradientDescent]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[Temporal_Computing_Paradigm]]
 [[iNEST]]
-[[spiking neural network]]
 [[智能涌现]]
 [[涌现]]
 [[神经形态计算]]
 [[神经网络]]
+[[脉冲神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

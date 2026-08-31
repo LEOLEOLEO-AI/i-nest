@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
+[[CrossDomain_Neuromorphic_Abstraction]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Heterogeneous_Integration]]
@@ -51,13 +52,14 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[NonEquilibriumComputing]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SOC]]
 [[STDP_Plasticity]]
 [[SelfOrganizedOscillatoryLearning]]
 [[Synaptic_Plasticity]]
 [[complex system]]
 [[iNEST]]
-[[soc]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

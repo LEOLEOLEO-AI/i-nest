@@ -26,8 +26,10 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[CriticalFluctuationReservoir]]
+[[DeviceLevelNonlinearityScaling]]
 [[DissipativeQuantumReservoir]]
 [[Emergent_Reservoir_Topology]]
+[[Fixed_Recurrent_Network]]
 [[GroupInteractionThreshold]]
 [[Intelligence_Emergence]]
 [[MagneticMetamaterialReservoir]]
@@ -40,9 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[OpticalNonlinearity]]
 [[Reservoir_Computing]]
 [[complex system]]
-[[fixed recurrent network]]
 [[iNEST]]
-[[neuromorphic computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

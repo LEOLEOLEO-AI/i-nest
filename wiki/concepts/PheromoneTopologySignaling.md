@@ -41,9 +41,11 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[PathDivergenceSelection]]
 [[RL_Routing_LEO]]
+[[Spin_Quantum_Hall_Critical_Exponents]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

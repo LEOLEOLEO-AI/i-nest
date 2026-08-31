@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[AmorphousTopologicalSubstrate]]
 [[Ant_Swarm_Functional_Control]]
 [[Beyond_Moore_Pathway]]
+[[Bias_Origin_Taxonomy]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
 [[CriticalPointControl]]
@@ -44,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[TCC]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -48,11 +48,11 @@ Auto-extracted concept from raw material compilation.
 [[High_Dimensional_Projection]]
 [[HypergraphMeanFieldApproximation]]
 [[Intelligence_Emergence]]
+[[InteractingHaldaneModel]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
 [[complex system]]
-[[reservoir computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

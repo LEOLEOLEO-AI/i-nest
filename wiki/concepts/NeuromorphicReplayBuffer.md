@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[FixedOverheadDominance]]
 [[Loihi2_OnChip_Learning]]
 [[MeasurementInducedPhaseTransition]]
+[[MicroTransferPrintedActiveDevices]]
 [[Neuromorphic_Computing]]
 [[OscillatoryReservoirDynamics]]
 [[ReservoirDynamics]]

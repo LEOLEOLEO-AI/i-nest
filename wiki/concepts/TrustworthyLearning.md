@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Interconnect_Topology_Embedding]]
 [[LLM_Reward_Design]]
+[[MatrixShapePhaseTransition]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[StochasticVehicleRouting]]

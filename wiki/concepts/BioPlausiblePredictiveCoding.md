@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeBasedGradientDescent]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
+[[Spiking_Topology]]
 [[iNEST]]
 
 ## Sources

@@ -31,12 +31,11 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Architecture]]
 [[CriticalFixedPoint]]
 [[CriticalStateDynamics]]
+[[CriticalityDrivenLearning]]
 [[Criticality]]
 [[Intelligence_Emergence]]
 [[Neuromorphic_Computing]]
 [[Self_Organized_Criticality]]
-[[criticality]]
-[[emergent phase transition]]
 [[iNEST]]
 
 ## Sources

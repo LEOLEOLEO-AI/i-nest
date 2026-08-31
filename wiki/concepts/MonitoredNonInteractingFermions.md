@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[FatalityDrivenPruning]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Inference_Workload_Profiling]]
+[[InputAdaptiveComputation]]
 [[Network_Topology_Design]]
 [[SelfOrganization]]
 [[TCC]]

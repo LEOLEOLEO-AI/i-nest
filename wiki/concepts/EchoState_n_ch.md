@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[CrashHotspotForecasting]]
 [[DivergentHigherAreaRanking]]
 [[EnvironmentalEmbedding]]
+[[FerroelectricSemiconductorPhotocurrent]]
 [[Fixed_Reservoir_Unitary]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]

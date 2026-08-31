@@ -36,12 +36,13 @@ Auto-extracted concept from raw material compilation.
 [[STDP_iNEST]]
 [[SpikeEncoding]]
 [[SpikeTimingSideChannel]]
+[[Spiking neural network]]
 [[SpikingNeuralNetworkInference]]
 [[SpikingNeuralNetwork]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
+[[Synaptic_Plasticity_Rule]]
 [[iNEST]]
-[[spiking neural network]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

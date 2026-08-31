@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[InterconnectDrivenCostFunction]]
 [[Interconnect_Routing]]
+[[MeasurementInducedRouting]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[Packaging_Aware_NoC_Design]]
@@ -44,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologyAwarePlacement]]
 [[Translation_Invariant_Closure]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

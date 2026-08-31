@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[Avoided_Criticality]]
 [[BioPlausibleDisturbanceObserver]]
+[[BrainBodyResonance]]
 [[BulletTrainScheduling]]
 [[CST_Theory]]
 [[CST_Theory_V27_FINAL]]

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveArchitecture]]
 [[AgenticServiceOrchestration]]
 [[Complex_System_Theory]]
+[[FPGA_Neuromorphic_Architectures]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[CollectiveStateTopology]]
 [[Critical_Region_Extension]]
 [[CriticalityInNetworkComputing]]
+[[CriticalityOffCriticalityTransition]]
 [[Criticality]]
 [[DTGA]]
 [[Dynamic_Expert_Fusion]]

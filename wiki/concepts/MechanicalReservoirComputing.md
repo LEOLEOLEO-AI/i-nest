@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AdjustableDynamicsReservoir]]
 [[AdjustableDynamics]]
 [[AlternativeBridgingModels]]
+[[CSI_Temporal_Dynamics]]
 [[CrashHotspotForecasting]]
 [[Crystallized_Neural_Manifolds]]
 [[DivergentHigherAreaRanking]]

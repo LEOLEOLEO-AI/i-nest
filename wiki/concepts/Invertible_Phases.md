@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Accessibility_Gradient]]
 [[ActionWeightedPathEnsemble]]
 [[AdversarialRobustness]]
+[[AdversarialSensingResilience]]
 [[AirportNetworkGraphEmbedding]]
 [[Allreduce_Latency_Probe]]
 [[Alpha_Coefficient_Phase_Transition_Amplification]]
@@ -54,8 +55,8 @@ Auto-extracted concept from raw material compilation.
 [[TopologicalAndersonChernInsulator]]
 [[Topological_Anderson_Insulator]]
 [[complex system]]
-[[invertible phases]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

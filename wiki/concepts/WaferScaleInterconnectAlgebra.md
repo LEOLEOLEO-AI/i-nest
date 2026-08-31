@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[ElectromigrationReliability]]
 [[Heterogeneous_Integration]]
 [[Mesoscale_Heterogeneous_Integration]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[MicroRouter_Embedding]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]

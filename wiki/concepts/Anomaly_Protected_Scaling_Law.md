@@ -34,16 +34,17 @@ Auto-extracted concept from raw material compilation.
 [[DisorderInducedCriticality]]
 [[DynamicCentralitySteering]]
 [[EmergentRecurrentConnectivity]]
+[[Entangled_Criticality]]
 [[Fractal_Wavefront_Scaling]]
 [[ImmobilizationStabilityMechanism]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[OptimalRepresentation]]
+[[Quantum_Criticality]]
 [[Self_Organized_Criticality]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[Topological_Criticality]]
-[[criticality]]
-[[quantum criticality]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

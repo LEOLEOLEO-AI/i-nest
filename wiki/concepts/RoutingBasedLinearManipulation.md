@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[NoC_EventRouting]]
 [[PacketRoutingForFPGAs]]
+[[QuarantineCostTradeoff]]
 [[ReputationPropagation]]
 [[SNN]]
 [[SpikeRoutingFabric]]

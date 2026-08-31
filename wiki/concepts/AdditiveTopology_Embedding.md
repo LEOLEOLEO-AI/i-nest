@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuron论文：Neuromorphic is dead, 神经形态已死。]]
 [[RISC-V 鏋舵瀯涓_SDI 鏅虹畻浜掕仈绯荤粺璁捐锛氶潰鍚_LLM 浣庡欢杩熸帹鐞嗕笌璁粌]]
 [[SDI_Bond]]
+[[SOC — 自组织临界（Self-Organized Criticality）]]
 [[STDP_Plasticity]]
 [[SuperparamagneticSwitchingRate]]
 [[Synaptic_Plasticity]]
@@ -51,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[具身智能的基本原理、关键技术、应用场景]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

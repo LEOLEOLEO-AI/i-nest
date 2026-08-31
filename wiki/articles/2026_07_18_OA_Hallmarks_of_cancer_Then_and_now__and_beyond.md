@@ -18,5 +18,4 @@ iNEST, interconnect
 
 [[Criticality]]
 [[Self_Organized_Criticality]]
-[[criticality]]
 [[iNEST]]

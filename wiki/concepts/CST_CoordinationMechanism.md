@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[FirstPrinciples_AI]]
 [[Generalization_Bound_Spectra]]
 [[Hyper_Dimensional_Computing]]
+[[IntegrationProspectsForVLSI]]
 [[Intelligence_Emergence]]
 [[MasterEquationRG]]
 [[MeanFieldSpinGlass]]

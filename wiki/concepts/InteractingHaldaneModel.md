@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Reservoir_Topology]]
 [[Hierarchical_Reservoir_Topology]]
 [[High_Dimensional_Projection]]
+[[HypergraphMeanFieldApproximation]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]

@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Generation_Readiness_Assessment]]
 [[Interconnect_Routing]]
 [[MLChiralityDecoder]]
+[[Nanomaterial_Discovery_ML]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[ProjectiveMeasurementRouting]]

@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Subtractive_AttentionNormalization]]
 [[SurrogateGradientAdaptation]]
+[[Syncytial_Mesh_Model]]
 [[iNEST]]
 [[神经网络]]
 

@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Decoupling_Mechanism]]
 [[External_to_OnDie_Evolution]]
+[[FPGA_Reconfigurability]]
 [[HeterogeneousInference]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
@@ -57,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[ThroughSiliconVia_TSV_ThermalPath]]
 [[advanced packaging]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

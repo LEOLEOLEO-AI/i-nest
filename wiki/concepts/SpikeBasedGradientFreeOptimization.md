@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Controlled_Release_Kinetics]]
 [[CorticalWaveRouting]]
 [[Dynamic_Expert_Routing]]
+[[ExplainableEnergyAI]]
 [[ITP_STDP]]
 [[Interconnect_Routing]]
 [[LocalQuantumLearningRule]]

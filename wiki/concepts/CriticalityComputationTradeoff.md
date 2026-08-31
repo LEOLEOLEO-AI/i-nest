@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[3D_Torus_6_Degree]]
 [[AI-ML — 全景导航 (Map of Content)]]
 [[ANN动力学]]
+[[Analog_InMemory_Processing]]
 [[AvalancheBranchingRatio]]
 [[BranchingRatio]]
 [[CST计量仪]]
@@ -40,7 +41,6 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[StandardizedComponent]]
 [[TCC]]
-[[TcC]]
 [[iNEST]]
 
 ## Sources

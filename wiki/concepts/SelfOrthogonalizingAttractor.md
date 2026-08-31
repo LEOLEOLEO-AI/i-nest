@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[FixedOverheadCost]]
 [[FixedOverheadDominance]]
 [[Loihi2_OnChip_Learning]]
+[[MicroTransferPrintedActiveDevices]]
 [[NeuromorphicReplayBuffer]]
 [[Neuromorphic_Computing]]
 [[OscillatoryReservoirDynamics]]

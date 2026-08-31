@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
 [[Complex_System_Theory]]
+[[DARPA_ProjectManager_Model]]
 [[DendriticTaskPartitioning]]
 [[Dynamic_Expert_Fusion]]
 [[FerroelectricDevice]]
@@ -51,9 +52,9 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[TopologyAwareMapping]]
+[[Topology_as_Logic]]
 [[complex system]]
 [[iNEST]]
-[[topology as logic]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[神经网络]]
 

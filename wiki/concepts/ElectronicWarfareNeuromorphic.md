@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Scale_Dependent_Coherence]]
 [[SearchGatingPolicy]]
 [[SpikeEncoding]]
+[[Spike_Timing_Dependent_Plasticity]]
 [[Spiking_Neural_Network]]
 [[StochasticMultiAgentRL]]
 [[Synaptic_Plasticity]]

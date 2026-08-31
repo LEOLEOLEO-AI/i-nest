@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AdaptiveSTDP]]
+[[AdaptiveSpeechToSpikeEncoding]]
 [[Bidirectional_Temporal_Enhancement]]
 [[DiscreteSTDPLearning]]
 [[DiscreteSTDP]]
@@ -33,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[PhaseSynchronizationDetection]]
 [[SDI_Bond]]
 [[SDI_STDP]]
+[[SOC]]
 [[STDPDrivenTemporalBinding]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]

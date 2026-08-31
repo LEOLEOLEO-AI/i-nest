@@ -32,9 +32,11 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[DynamicalSelfDualCriticality]]
 [[EnsembleCreditAssignment]]
+[[InNetworkReconfiguration]]
 [[Interconnect_Routing]]
 [[LocalPlasticityPipeline]]
 [[MoE_Routing]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[ProjectiveMeasurementFeedback]]
 [[ReconfigurableSNNTopology]]
@@ -45,7 +47,6 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
-[[neuromorphic computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

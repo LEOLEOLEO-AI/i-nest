@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_Synergy_Coordination]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
+[[Fading_Memory_Property]]
 [[GNN图神经网络，非结构化数据分析利器！]]
 [[HighSpeedInference]]
 [[Intelligence_Emergence]]
@@ -53,8 +54,8 @@ Auto-extracted concept from raw material compilation.
 [[Temporal_Sequence_Learning]]
 [[complex system]]
 [[iNEST]]
-[[temporal sequence learning]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

@@ -33,11 +33,13 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenAsynchronousRouting]]
 [[EventDrivenLearning]]
 [[EventDrivenTracking]]
+[[Event_Driven_Computation]]
 [[Interconnect_Routing]]
 [[Military_AI_Revolution]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[RecurrentOscillatoryComputation]]
+[[SOC]]
 [[Spiking_Neural_Network]]
 [[StreamDataflowArchitecture]]
 [[TCC]]
@@ -45,7 +47,6 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[neuromorphic spiking]]
 [[pipelined processor]]
-[[soc]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

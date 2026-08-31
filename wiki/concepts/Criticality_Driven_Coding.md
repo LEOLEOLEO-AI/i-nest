@@ -27,8 +27,10 @@ Auto-extracted concept from raw material compilation.
 [[BioInspiredInterception]]
 [[BulletTrainScheduling]]
 [[Continuous_Control_Spiking_Stability]]
+[[CriticalityDrivenEfficientCoding]]
 [[Criticality]]
 [[Dynamic_Expert_Fusion]]
+[[Efficient_Coding_Constraint]]
 [[Emergent_Intelligence_Threshold]]
 [[EventBasedNeuralDecoding]]
 [[EventCameraTemporalPipeline]]
@@ -41,8 +43,6 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
-[[criticality]]
-[[efficient coding constraint]]
 [[iNEST]]
 
 ## Sources

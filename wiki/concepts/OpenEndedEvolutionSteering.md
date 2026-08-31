@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[MembranePotentialAlignment]]
 [[Network_Topology_Design]]
 [[SNN]]
+[[SensoryGatedSpikingLoop]]
 [[SpikeEncoding]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[ElectronicPhotonicIntegratedCircuit]]
 [[GateModelHardware]]
 [[Heterogeneous_Integration]]
+[[ImmobilizationStabilityEnhancement]]
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]
 [[Network_on_Chip]]

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[HodgkinHuxleyDynamics]]
 [[ImageToEventConversion]]
 [[Intelligence_Emergence]]
+[[InterFPGA_Spike_Routing]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]

@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[DirectConnect_Topology]]
 [[EvolvingArchitectureDynamics]]
 [[FunctionalRelevanceSelfOrganization]]
+[[HybridCouplingThermosensitiveNetwork]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
@@ -44,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[branch prediction]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

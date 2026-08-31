@@ -38,6 +38,8 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[OrganoidNeuralNetworkDynamics]]
+[[OrganoidNeuralNetwork]]
+[[Percolation_Criticality]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Self_Organized_Criticality]]
 [[TCC]]

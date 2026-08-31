@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AnomalousSpinTransport]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
+[[Course_Based_FPGA_Projects]]
 [[EmergentTaskDecomposition]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]

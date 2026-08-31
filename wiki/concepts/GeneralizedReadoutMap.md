@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[MonitoredQuantumReservoir]]
 [[Network_Spatiotemporal_Synergy]]
 [[Network_Topology_Design]]
+[[NoC_Chiplet_Wafer_Stack]]
 [[Nonlinear_Gain]]
 [[P_Paradigm]]
 [[Pipelined_Processor_Integration]]

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[BrownianCastleInterface]]
 [[Bursting_Neuron_Model]]
 [[CoDesigned_SNN]]
+[[CoEvolvedSNNEnsemble]]
 [[CombinedImportanceScoring]]
 [[CurrentInjectionSNN]]
 [[GradientBasedSpikeLearning]]
@@ -39,10 +40,10 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[SDDE_Attractor_Emergence]]
 [[SNN]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
-[[spiking neural network]]
 [[神经网络]]
 
 ## Sources

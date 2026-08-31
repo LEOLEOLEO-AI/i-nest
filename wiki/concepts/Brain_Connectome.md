@@ -20,11 +20,11 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI-ML — 全景导航 (Map of Content)]]
-[[Brain connectome]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Connectome]]
 [[Connectome_Inspired_Architecture]]
+[[Connectome_Verification_Protocol]]
 [[DevelopmentalNeuromorphicAdaptation]]
 [[Entropy_Connectivity_Path]]
 [[FunctionalBrainGraphEmbedding]]
@@ -39,7 +39,6 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Emergence]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
-[[connectome]]
 [[getnote_2026-01-03_16 介观峰值定理对晶上大脑的工程指导]]
 [[getnote_2026-01-12_晶圆级神经网络能效革命]]
 [[getnote_2026-01-25_清华团队类脑计算突破]]

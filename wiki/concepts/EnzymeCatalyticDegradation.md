@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CircadianGateModulation]]
 [[Comparative_Formulation_Analysis]]
 [[Critical_Exponent_Scaling]]
+[[Crystallized_Embedding_Reservoir]]
 [[DendriticReservoirState]]
 [[DualImpactEvaluation]]
 [[DynamicNeuralManifolds]]
@@ -53,7 +54,6 @@ Auto-extracted concept from raw material compilation.
 [[SelfOrganizedOscillatoryLearning]]
 [[StochasticBinaryDynamics]]
 [[iNEST]]
-[[neuromorphic computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

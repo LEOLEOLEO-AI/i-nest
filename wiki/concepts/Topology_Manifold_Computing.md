@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[CircuitTopologySearch]]
 [[Complex_System_Theory]]
 [[CrossLingualIdiomGraph]]
+[[Deep_Thermalisation]]
 [[Heterogeneous_Integration]]
 [[In_Package_Neuromorphic_Integration]]
 [[Intelligence_Emergence]]
@@ -51,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologicalDataCompression]]
 [[advanced packaging]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

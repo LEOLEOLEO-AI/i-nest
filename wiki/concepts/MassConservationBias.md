@@ -33,10 +33,11 @@ Auto-extracted concept from raw material compilation.
 [[GroupInteractionThreshold]]
 [[Intelligence_Emergence]]
 [[Izhikevich_NeuronModel]]
+[[LatencyCoding]]
 [[MassConservationInductiveBias]]
 [[Monitored_Quantum_Circuits]]
 [[MultifractalCriticalPhase]]
-[[NCA reservoir]]
+[[NCA_Reservoir]]
 [[Nanoencapsulation_Stability_Bioavailability]]
 [[NanomaterialFeatureEngineering]]
 [[Network_Topology_Design]]
@@ -50,7 +51,6 @@ Auto-extracted concept from raw material compilation.
 [[SpikeTimingFidelity]]
 [[Spiking_Neural_Network]]
 [[SubsystemInformationCapacity]]
-[[criticality]]
 [[iNEST]]
 
 ## Sources

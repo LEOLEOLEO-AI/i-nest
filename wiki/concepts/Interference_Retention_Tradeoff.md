@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Accessibility_Gradient]]
 [[ActionWeightedPathEnsemble]]
 [[AdversarialRobustness]]
+[[AdversarialSensingResilience]]
 [[AirportNetworkGraphEmbedding]]
 [[Alpha_Coefficient_Phase_Transition_Amplification]]
 [[AmplifyingNetworkTopology]]
@@ -48,13 +49,14 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
+[[Synaptic_Plasticity_Rule]]
 [[Topological_Anderson_Insulator]]
 [[catastrophic forgetting]]
 [[complex system]]
 [[iNEST]]
-[[synaptic plasticity]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

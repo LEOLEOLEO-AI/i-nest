@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[LocalSynapticRules]]
 [[Network_Topology_Design]]
+[[NeuromorphicNetworkFabric]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
 [[SNN]]
@@ -54,7 +55,6 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TopologicalFeatureInvariance]]
 [[iNEST]]
-[[reservoir computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

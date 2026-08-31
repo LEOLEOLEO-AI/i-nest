@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AIRA_NeuralArchSearch]]
 [[AI_Driven_Architecture_Search]]
 [[ActivityAvalanche]]
+[[AndersonTransition]]
 [[ArchitecturalCondition]]
 [[AutonomousAdaptation]]
 [[BackflowTransformation]]

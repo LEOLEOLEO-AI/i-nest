@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[FormalLinguisticCompetence]]
 [[Gut_Brain_Immune_Network]]
 [[Hardware_Accelerated_SNN]]
+[[HierarchicalBayesianCommunityDetection]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[MacroCriticalityEmergence]]
@@ -53,7 +54,6 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TopologyDrivenVulnerability]]
-[[biologically plausible learning rules]]
 [[iNEST]]
 
 ## Sources

@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[DelayedSynapticCoupling]]
 [[EfficientDeepLearning]]
+[[Fading_Memory_Property]]
 [[GNN图神经网络，非结构化数据分析利器！]]
 [[HeterogeneousPD_Inference_BoundaryContract]]
 [[Hippocampal_Spatiotemporal_Prior]]
@@ -55,8 +56,8 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[complex system]]
-[[neuromorphic computing]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

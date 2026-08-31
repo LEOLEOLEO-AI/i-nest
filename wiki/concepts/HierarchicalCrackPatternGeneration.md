@@ -47,12 +47,12 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[Nonlinear_Gain]]
 [[Planar_Network_Generation]]
+[[Readout_Layer_Training]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[TCC]]
 [[TopologyEmbeddedIntrospection]]
 [[VariationalFreeEnergyMinimisation]]
-[[planar network generation]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

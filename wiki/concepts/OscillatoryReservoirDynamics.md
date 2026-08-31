@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[DrivenDissipativeDynamics]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenPlasticity]]
+[[FixedOverheadCost]]
 [[Intelligence_Emergence]]
 [[MeasurementInducedPhaseTransition]]
 [[NestedRepresentation]]

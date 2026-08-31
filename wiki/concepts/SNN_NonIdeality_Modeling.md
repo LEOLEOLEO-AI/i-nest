@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[ParallelTemperingSNN]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SDDE_Attractor_Emergence]]
 [[SNN]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]

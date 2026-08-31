@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[1024_Card_SuperNode]]
 [[3D_Integration]]
 [[Active_Inference_Topology]]
 [[Additive_Manufacturing_Topology]]
@@ -32,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[AlternativeMetalInterconnects]]
 [[AndersonTransition]]
 [[BifurcationCandidate]]
+[[Bipartite_Interconnect]]
 [[Bipartite_Interconnect_Design]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

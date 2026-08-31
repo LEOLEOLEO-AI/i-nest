@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Pipelined_Processor_Integration]]
 [[Reservoir_Computing]]
 [[TCC]]
+[[TopologyEmbeddedIntrospection]]
 [[branch prediction]]
 [[emerging CMOS memristor]]
 [[pipelined processor]]

@@ -41,14 +41,15 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Architecture]]
 [[SDSoW_Strategic_Planning]]
 [[Second_Curve_Wafer_Industry_Platform]]
+[[SoftwareDefinedSystemOnWafer]]
 [[Software_Defined_Interconnect]]
 [[SpatiotemporalComplexityIndex]]
 [[TCC]]
+[[TemporalComplexity]]
 [[TopologyCentricPrimitiveSystem]]
 [[WaferScaleTopologyCentricComputing]]
 [[Wafer_Scale_Integration]]
 [[chiplet interconnect]]
-[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

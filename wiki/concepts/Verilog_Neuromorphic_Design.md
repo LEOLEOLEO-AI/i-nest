@@ -38,8 +38,10 @@ Auto-extracted concept from raw material compilation.
 [[BrainScaleTopologyExploitation]]
 [[Brain_Dynamics_Learning]]
 [[CSPNeuralEncoding]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
 [[Complex_System_Theory]]
+[[FirstPrinciples_Derivation]]
 [[FlagOS_2_0]]
 [[Free_Energy_Principle_Network]]
 [[Network_Topology_Design]]
@@ -49,10 +51,9 @@ Auto-extracted concept from raw material compilation.
 [[SpikeEncoding]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
-[[Spiking_neural_network]]
+[[TemporalComplexity]]
 [[complex system]]
 [[iNEST]]
-[[temporalComplexity]]
 [[神经网络]]
 
 ## Sources

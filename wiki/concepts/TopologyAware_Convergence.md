@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[3D_Integrated_Chiplet_Stacking]]
 [[AI_Faculty_Forum_2026]]
 [[AI_Memory_Infrastructure]]
+[[AdiabaticMultimodeBend]]
 [[BackscatteringImmunity]]
 [[ChannelCountScaling]]
 [[ChipletTopologyAwareness]]
@@ -47,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TypeSafeHardwareGeneration]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

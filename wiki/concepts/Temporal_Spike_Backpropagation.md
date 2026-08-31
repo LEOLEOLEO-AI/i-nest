@@ -32,8 +32,8 @@ Auto-extracted concept from raw material compilation.
 [[Rank_Order_N_of_M_Codes]]
 [[RecurrentSpikingSocialNetwork]]
 [[SNN]]
+[[SOC]]
 [[STDP_Plasticity]]
-[[Soc]]
 [[SpikeDecoder]]
 [[SpikeEncoding]]
 [[SpikeTimingEncoding]]
@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[TemporalSpikeEncoding]]
 [[iNEST]]
 [[神经网络]]
+[[类脑芯片]]
 [[脉冲神经网络]]
 
 ## Sources

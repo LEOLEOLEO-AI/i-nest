@@ -56,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[ThirdWaveAI]]
 [[TopologicalAndersonChernInsulator]]
 [[Topology_Centric_Interconnect]]
+[[Topology_Induced_Robustness]]
 [[Topology_Interconnect]]
 [[WaferScaleTopologyCentricComputing]]
 [[WaferScale_System]]
@@ -64,6 +65,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST_Wafer]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Change_Record]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BioInspiredInterception]]
+[[BrainActivityPrediction]]
 [[ComplexValuedSNN]]
 [[ConsciousnessEngineeringLoop]]
 [[CrossLayer_SignalRouting]]
@@ -45,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[ParallelSpatialPhotonicProgramming]]
 [[SNN]]
+[[SpatialPhotonicProgramming]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

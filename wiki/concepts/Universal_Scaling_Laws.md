@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Complex_System_Theory]]
+[[Core_Spacetime_Tensor]]
 [[CorticalTypeDiversity]]
 [[DRBE_MVP_Mainchain]]
 [[DTGA]]
@@ -73,8 +74,6 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[residual connection]]
 [[scaling laws]]
-[[temporalComplexity]]
-[[universal scaling laws]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

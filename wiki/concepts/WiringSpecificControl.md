@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Connectome_Reservoir]]
 [[DevelopmentalConnectomeTemporalGraph]]
 [[DevelopmentalStageEmbedding]]
+[[DynamicsMatchedReservoir]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
@@ -45,7 +46,6 @@ Auto-extracted concept from raw material compilation.
 [[Sex_Dimorphic_Connectivity_Pattern]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
-[[connectome]]
 [[iNEST]]
 
 ## Sources

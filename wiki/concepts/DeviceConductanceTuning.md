@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[DistinctReentrantPhases]]
 [[Ferroelectric_Devices]]
 [[Intelligence_Emergence]]
+[[Krakencoder_Embedding]]
 [[Memristor_Synapse]]
 [[Milinkovic B (2024)：复杂神经系统涌现动力学结构]]
 [[NCL神经计算定律详解]]

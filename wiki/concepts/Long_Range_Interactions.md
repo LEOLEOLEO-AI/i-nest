@@ -33,6 +33,8 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[CrossDomain_Integration]]
 [[Deep_Network_Architecture_Invariant]]
+[[EfficientDeepLearning]]
+[[EmergentIntelligence_Spacetime]]
 [[Emergent_Intelligence_Threshold]]
 [[Ferroelectric_ComputeInMemory]]
 [[Ferroelectric_Devices]]
@@ -52,7 +54,6 @@ Auto-extracted concept from raw material compilation.
 [[SiC_GaN_Power_Integration]]
 [[State_Transition_Formalism]]
 [[TopologicalAndersonChernInsulator]]
-[[criticality]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

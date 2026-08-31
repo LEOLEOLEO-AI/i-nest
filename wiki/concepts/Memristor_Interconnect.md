@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveCompetingInteractions]]
 [[Attention_Residuals]]
 [[AutonomousAdaptation]]
+[[Chiplet_Heterogeneous_Integration]]
 [[DTGA]]
 [[Deep_Network_Architecture_Invariant]]
 [[Free_Energy_Topology_Mapping]]
@@ -34,9 +35,11 @@ Auto-extracted concept from raw material compilation.
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Spatiotemporal_Synergy]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
 [[Neuromorphic_Computing]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[P_Paradigm]]
+[[PacketRoutingOptimization]]
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SDI节点接口规范与化合键定义]]
@@ -46,7 +49,6 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[System_Level_Utility_Control]]
 [[iNEST]]
-[[synaptic plasticity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

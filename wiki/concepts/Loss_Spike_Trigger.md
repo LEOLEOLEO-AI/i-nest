@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Distributed_Spike_Communication]]
 [[Dynamic_Expert_Fusion]]
 [[EventDrivenAutoregression]]
+[[Event_Driven_Architecture]]
 [[InSensorMemoryComputing]]
 [[In_Package_Neuromorphic_Integration]]
 [[Memristor_Synapse]]

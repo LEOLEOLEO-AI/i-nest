@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[CompetitiveProgramDynamics]]
 [[Contested_Priors_Mechanism]]
 [[Cross_Network_Representation_Transfer]]
+[[Dynamic_Expert_Routing]]
 [[ExactRateChaosTransition]]
 [[Interconnect_Routing]]
 [[Localized_Feedback_Array]]

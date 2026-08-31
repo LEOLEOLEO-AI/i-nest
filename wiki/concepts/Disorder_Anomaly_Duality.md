@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityOnSmallWorlds]]
 [[Criticality]]
 [[Criticality_Induced_Computation]]
+[[Criticality_Transition]]
 [[Emergent_Intelligence_Threshold]]
 [[FormalLinguisticCompetence]]
 [[Fractal_Wavefront_Scaling]]
@@ -37,12 +38,11 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
+[[Quantum_Criticality]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Self_Organized_Criticality]]
 [[complex system]]
-[[criticality]]
 [[iNEST]]
-[[quantum criticality]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

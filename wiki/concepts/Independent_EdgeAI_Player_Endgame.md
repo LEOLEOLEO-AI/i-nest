@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[BigBrainCellularAxis]]
 [[ByteDance_Ada_Chip]]
+[[CST_Equation]]
 [[CST计量仪]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_based_heterogeneous_integration]]
@@ -32,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Deep_Network_Architecture_Invariant]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Memristive_STDP]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[MetaFAIR_ArchitectureDiscovery]]
@@ -55,7 +57,6 @@ Auto-extracted concept from raw material compilation.
 [[TemporalDynamicsModeling]]
 [[Textbook_Paradigm_Definition]]
 [[UniversalIntelligence_Emergence]]
-[[heterogeneous_integration]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

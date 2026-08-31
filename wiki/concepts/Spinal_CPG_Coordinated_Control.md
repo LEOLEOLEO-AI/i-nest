@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikingNeuralTransformer]]
 [[Spiking_Neural_Network]]
 [[SynapticConsolidation]]
+[[TemporalSparsityExploitation]]
 [[iNEST]]
 
 ## Sources

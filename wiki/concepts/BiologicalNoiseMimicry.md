@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicNetworkFabric]]
 [[Neuromorphic_Computing]]
+[[NonHermitianTopologicalAndersonInsulator]]
 [[Nonlinear_Gain]]
 [[PathIntegration]]
 [[PromptBasedTimeSeriesForecasting]]
@@ -56,7 +57,6 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
-[[neuromorphic computing]]
 [[神经网络]]
 
 ## Sources

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
+[[DARPA_ERI_2_0_Framework]]
 [[Deep_Network_Architecture_Invariant]]
 [[DistinctReentrantPhases]]
 [[Free_Energy_Principle_Network]]
@@ -50,10 +51,9 @@ Auto-extracted concept from raw material compilation.
 [[SpatiotemporalComplexityIndex]]
 [[Syncytial_Information_Integration]]
 [[TCC]]
+[[TemporalComplexity]]
 [[complex system]]
 [[iNEST]]
-[[neuromorphic computing]]
-[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

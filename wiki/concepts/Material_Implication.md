@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[PostVonNeumannIntelligence]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SneakPathCurrentSuppression]]
+[[SwarmGradientRouting]]
 [[analog computation]]
 [[complex system]]
 [[iNEST]]

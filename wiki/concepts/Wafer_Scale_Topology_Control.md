@@ -20,9 +20,11 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[BackpropagationFreeLearning]]
 [[CLINKAsCarrierPrimitive]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
+[[Chiplet_Topology]]
 [[Chiplet_Topology_Interconnect]]
 [[CongestionAwareNoCPlacement]]
 [[Free_Energy_Topology_Mapping]]

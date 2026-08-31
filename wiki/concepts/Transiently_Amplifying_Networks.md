@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveInference]]
 [[ActiveSpikingPerception]]
 [[AttentionGuidedEntropy]]
+[[BioPlausibleDisturbanceRejection]]
 [[Complex_System_Theory]]
 [[Nonlinear_Gain]]
 [[SDI_Bond]]

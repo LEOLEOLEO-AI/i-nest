@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[NCL神经计算定律详解]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
+[[OptomechanicalNonlinearity]]
 [[Photopolymerization_NoC]]
 [[PolymerComposite_Substrate]]
 [[RTC_Primitive]]
@@ -62,6 +63,7 @@ Auto-extracted concept from raw material compilation.
 [[忆阻器]]
 [[无反向传播的 4D 连续蚁群神经网络拓扑搜索]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

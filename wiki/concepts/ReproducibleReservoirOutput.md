@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[4H_SiC_SubstrateProcessing]]
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_Faculty_Forum_2026]]
+[[AdvancedPackagingInterconnect]]
 [[Advanced_Packaging_for_Space]]
 [[AnalogDomainCompression]]
 [[AnalogInMemoryComputing]]
@@ -54,9 +55,9 @@ Auto-extracted concept from raw material compilation.
 [[Structural_Mismatch]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
+[[TemporalComplexity]]
 [[Topology_Centric_Interconnect]]
 [[chiplet interconnect]]
-[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Epithelial_Barrier_Integrity]]
 [[FirstPrinciples_AI]]
 [[ForwardFluctuationGradient]]
+[[GraphEmbeddedReservoir]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]
 [[Nanoscale_Memristive_Threats]]
@@ -51,7 +52,6 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[iNEST]]
 [[reservoir computing architecture]]
-[[reservoir computing]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

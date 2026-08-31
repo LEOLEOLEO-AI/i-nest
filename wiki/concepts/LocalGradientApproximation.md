@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[AttractorNeuralNetwork]]
 [[AutoAssociativeMemoryRobustness]]
 [[BCM滑动阈值]]
+[[Battlefield_AI_Deployment]]
 [[CST计量仪]]
 [[CirculateFiringNeuron]]
 [[Complex_System_Theory]]
@@ -49,13 +50,14 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SOC]]
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[complex system]]
 [[iNEST]]
-[[soc]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

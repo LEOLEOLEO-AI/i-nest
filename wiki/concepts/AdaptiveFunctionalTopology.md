@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveArchitecture]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[AstrocyteInspiredModulation]]
 [[BrownianCastleInterface]]
 [[BurstGatedRouting]]
 [[Communication_Trace_Diagnostics]]

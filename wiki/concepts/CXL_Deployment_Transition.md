@@ -25,7 +25,6 @@ Auto-extracted concept from raw material compilation.
 [[3DHI_Integration]]
 [[3DHI_Interconnect]]
 [[3DHI_Stacking]]
-[[AI memory infrastructure]]
 [[AI_Faculty_Forum_2026]]
 [[AI_Memory_Infrastructure]]
 [[Advanced_Packaging_for_Space]]
@@ -41,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Ferroelectric_Devices]]
 [[GPU_Exclusivity_Bottleneck]]
 [[Heterogeneous_Integration]]
+[[InInterconnectMemory]]
 [[In_Package_Optical_Interconnect]]
 [[Intelligence_Emergence]]
 [[Long_Range_Interactions]]
@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[WideLink_NoC_Router]]
 [[待分类]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

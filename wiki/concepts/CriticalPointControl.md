@@ -38,8 +38,9 @@ Auto-extracted concept from raw material compilation.
 [[OscillatoryDynamicsTopology]]
 [[P_Paradigm]]
 [[PhotonicStateRetention]]
+[[SOC]]
 [[TCC]]
-[[soc]]
+[[Topology_Centric_Packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

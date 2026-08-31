@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[LLMDrivenPathSelection]]
 [[MatrixShapePhaseTransition]]
 [[Network_Topology_Design]]
+[[NeuromorphicRadarFrontend]]
 [[PhotonicSynapticPlasticity]]
 [[Receptron_Unit]]
 [[ReconfigurableSpikingRouting]]

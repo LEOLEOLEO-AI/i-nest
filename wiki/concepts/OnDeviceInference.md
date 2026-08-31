@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[2_5D_PIM_Chiplet_Integration]]
 [[3DHI_Stacking]]
 [[3D_Heterogeneous_Integration]]
+[[3D_Torus_6_Degree]]
 [[AINext_Initiative]]
 [[AI_Application_Scenario_Reconstruction]]
 [[Allreduce_Latency_Probe]]

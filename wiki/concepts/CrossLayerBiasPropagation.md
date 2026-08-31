@@ -35,12 +35,13 @@ Auto-extracted concept from raw material compilation.
 [[LossSpikeMechanism]]
 [[Military_AI_Revolution]]
 [[PacketRoutingOptimization]]
+[[RecurrentOscillatoryComputation]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[SurrogateGradientTracking]]
 [[SynapseLevelParallelism]]
 [[TCC]]
 [[iNEST]]
-[[spiking neural network]]
 [[神经网络]]
 
 ## Sources

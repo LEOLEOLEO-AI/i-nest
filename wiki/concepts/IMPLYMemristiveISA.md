@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[BeyondVonNeumannArchitecture]]
 [[CST计量仪]]
 [[Complex_System_Theory]]
+[[ComputationEfficientDeepLearning]]
 [[CrossDomain_Integration]]
 [[Deep_Network_Architecture_Invariant]]
 [[Dynamic_Expert_Fusion]]

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CoEvolvedSNNEnsemble]]
 [[CombinedImportanceScoring]]
 [[CompartmentalNeuronModel]]
+[[ConfigurableSNNInference]]
 [[DTGA]]
 [[Emergent_Topology_Adaptation]]
 [[ExplosiveTransitionThreshold]]
@@ -43,8 +44,8 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[ReSCom_Accelerator]]
 [[SNN]]
+[[SOC]]
 [[Spiking_Neural_Network]]
-[[soc]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

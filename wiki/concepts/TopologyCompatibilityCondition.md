@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[1024_Card_SuperNode]]
 [[Additive_Manufacturing_Supply_Chain]]
 [[AdiabaticMultimodeBend]]
 [[AdsorptionBiosorptionHybrid]]
@@ -27,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AnalogDomainCompression]]
 [[AndersonTransition]]
 [[AvalancheBranchingRatio]]
+[[Bipartite_Interconnect]]
 [[Bipartite_Interconnect_Design]]
 [[BisectionBandwidthBound]]
 [[BranchingRatio]]

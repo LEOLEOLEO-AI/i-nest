@@ -31,6 +31,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Connectome]]
 [[CriticalPhaseTransitionStatisticalTest]]
 [[Criticality]]
+[[DeviceConductanceTuning]]
 [[Intelligence_Emergence]]
 [[Less is more，大脑“低能耗”并“高效响应”的秘诀：模块化]]
 [[Nature_Computational_Science_用AI发现高维复杂网络的动力学公式]]

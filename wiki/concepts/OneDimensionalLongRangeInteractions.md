@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[3DHI_Stacking]]
 [[3D_Heterogeneous_Integration]]
 [[Additive_Manufacturing_Supply_Chain]]
+[[Advanced_Packaging_for_Space]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CrossDomain_Integration]]
 [[CrossbarArrayPrecision]]

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[CIMWeightUpdateAwareness]]
 [[Complex_System_Theory]]
 [[Efficient_Coding_Constraint]]
+[[EventBasedAnalogFrontEnd]]
 [[EventDrivenSensoryEncoding]]
 [[ExtinctionDrivenMetastability]]
 [[MemoryDrivenInterconnect]]

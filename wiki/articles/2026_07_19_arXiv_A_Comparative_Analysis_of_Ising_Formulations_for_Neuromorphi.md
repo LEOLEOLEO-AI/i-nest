@@ -20,4 +20,3 @@ TCC, iNEST, neuromorphic
 [[Neuromorphic_Computing]]
 [[TCC]]
 [[iNEST]]
-[[inest]]

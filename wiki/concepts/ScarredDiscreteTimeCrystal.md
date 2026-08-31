@@ -32,11 +32,13 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Service_Reconfiguration]]
 [[AdjointWaveControl]]
 [[Anomaly_Protected_Scaling_Law]]
+[[BarrierConditionedTrajectory]]
 [[BayesianConnectivityEstimation]]
 [[Capability_Reserve_Index]]
 [[Cognitive_Relapse_Decoupling]]
 [[ConstraintDrivenSelfOrganization]]
 [[Network_Topology_Design]]
+[[SelfOrganization]]
 [[TCC]]
 
 ## Sources

@@ -37,9 +37,11 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Decoupling]]
 [[CollectiveStateTopology]]
 [[ConstraintDrivenSelfOrganization]]
+[[Continual_Learning_Modularity]]
 [[Criticality]]
 [[Network_Topology_Design]]
 [[Quantum_Criticality]]
+[[SelfOrganization]]
 [[Self_Organized_Criticality]]
 
 ## Sources

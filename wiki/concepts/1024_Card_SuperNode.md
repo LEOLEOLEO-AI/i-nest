@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[ChipletWaferInterconnectScaling]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
+[[Chiplet_Interconnect_Scheduling]]
 [[Chiplet_Packaging]]
 [[Chiplet_Stacking]]
 [[CommunicationOverlapMechanism]]
@@ -42,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[InterChipletPHYModeling]]
+[[Interconnect_Routing]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[OnDie_Fusion]]
@@ -51,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Packaging]]
 [[advanced packaging]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

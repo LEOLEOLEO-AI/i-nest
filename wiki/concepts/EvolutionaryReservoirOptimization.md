@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[HardwareAware_DesignSpace]]
 [[Intelligence_Emergence]]
+[[NCA_Reservoir]]
 [[Network_Topology_Design]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
@@ -48,7 +49,6 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]
-[[reservoir computing]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

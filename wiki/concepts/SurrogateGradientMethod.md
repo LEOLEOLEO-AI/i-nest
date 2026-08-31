@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[LocalLearningRules]]
 [[MembranePotentialModulation]]
 [[Memristor_Synapse]]
+[[Meta_Residual_Learning]]
 [[Nanoencapsulation_Stability_Bioavailability]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
@@ -50,7 +51,6 @@ Auto-extracted concept from raw material compilation.
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
-[[neuromorphic computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

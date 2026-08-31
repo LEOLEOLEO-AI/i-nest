@@ -21,7 +21,9 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
+[[Adaptive_Path_Selection]]
 [[AndersonTransition]]
+[[Bipartite_Interconnect]]
 [[Bipartite_Interconnect_Design]]
 [[BurstGatedRouting]]
 [[ChiralSymmetryClasses]]
@@ -41,7 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[VectorFlowField]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
-[[adaptive path selection]]
+[[WaveBasedComputation]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

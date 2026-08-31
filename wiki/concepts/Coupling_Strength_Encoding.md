@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
+[[3D_Torus_6_Degree]]
 [[Accessibility_Plasticity]]
 [[AdaptiveDensityControl]]
 [[AdaptiveNetworkResilience]]
@@ -40,7 +41,6 @@ Auto-extracted concept from raw material compilation.
 [[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Integration]]
 [[Intelligence_Emergence]]
-[[Ising formulation]]
 [[Ising_Formulation]]
 [[Nature Communications_生物神经网络中突触多样性如何让人工神经网络更强大？]]
 [[Network_Topology_Design]]
@@ -57,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologyAwareNeuralInterface]]
 [[TopologyEmbeddedIntrospection]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

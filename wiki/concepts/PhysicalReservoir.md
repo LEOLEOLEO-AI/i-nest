@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Crystallized_Neural_Manifolds]]
 [[DataProvenanceIntegrity]]
 [[DissipativeQuantumReservoir]]
+[[EvolutionaryReservoirLearning]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]

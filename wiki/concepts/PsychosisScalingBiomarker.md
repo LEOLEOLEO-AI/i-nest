@@ -33,9 +33,10 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityInducedComputationalCapacity]]
 [[CriticalityOffCriticalityTransition]]
 [[Criticality]]
+[[DimensionSeparation_IntensiveExtensive]]
+[[InNetworkComputing]]
 [[Neuromorphic_Computing]]
 [[Self_Organized_Criticality]]
-[[criticality]]
 [[iNEST]]
 
 ## Sources

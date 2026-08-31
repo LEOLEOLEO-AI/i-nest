@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[ClassificationPerformance]]
 [[ClinicalPredictionMapping]]
 [[ClinicalTranslationBridge]]
+[[CoEvolvedSpikingEnsembles]]
 [[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
@@ -53,7 +54,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[complex system]]
 [[iNEST]]
-[[neuromorphic computing]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[神经网络]]
 

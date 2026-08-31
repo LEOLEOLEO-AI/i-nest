@@ -35,16 +35,17 @@ Auto-extracted concept from raw material compilation.
 [[Hebbian_Embedding_Dynamics]]
 [[Heterogeneous_Integration]]
 [[Loihi2_OnChip_Learning]]
+[[MobilityEdge]]
 [[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]
 [[NetworkReachabilityControl]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]
-[[spiking neural network]]
 [[神经网络]]
 
 ## Sources

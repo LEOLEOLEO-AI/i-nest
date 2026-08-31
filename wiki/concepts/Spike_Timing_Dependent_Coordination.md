@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeTimingDependentPlasticityForTracking]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
+[[SynchronousResetting]]
 [[Temporal_Computing_Paradigm]]
 [[TheoryDrivenNeuromorphicDesign]]
 [[iNEST]]

@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[DataCenter_Chip_Logic_Compression]]
 [[ERI_2_0_Strategy]]
+[[GNN图神经网络，非结构化数据分析利器！]]
 [[GroupWise_DragonflyPlus]]
 [[Intelligence_Emergence]]
 [[InterconnectionInertiaProfile]]
@@ -54,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

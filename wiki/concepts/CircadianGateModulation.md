@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Comparative_Formulation_Analysis]]
 [[Connectome]]
 [[Connectome_Transfer]]
+[[Course_Based_FPGA_Projects]]
 [[Critical_Exponent_Scaling]]
 [[DataProvenanceIntegrity]]
 [[DendriticReservoirState]]

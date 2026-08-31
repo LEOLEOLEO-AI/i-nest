@@ -34,13 +34,14 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[ReproducibleReservoirDynamics]]
+[[ReservoirDynamics]]
 [[ReservoirYieldMaximization]]
 [[ReservoirYield]]
 [[Reservoir_Computing]]
+[[RestrictedConnectivityTopology]]
 [[TCC]]
 [[ThermallyDrivenSuperparamagnetReservoir]]
 [[iNEST]]
-[[reservoir computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

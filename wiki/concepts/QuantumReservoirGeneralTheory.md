@@ -37,12 +37,12 @@ Auto-extracted concept from raw material compilation.
 [[QuantumReservoirMemoryCapacity]]
 [[ReservoirDynamics]]
 [[Reservoir_Computing]]
+[[SelfOrganizedCriticalityConsciousness]]
 [[Self_Organized_Criticality]]
 [[SpectralLogPeriodicity]]
 [[Spin_Glass_Order_Parameter]]
 [[iNEST]]
 [[quantum reservoir computing]]
-[[reservoir computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

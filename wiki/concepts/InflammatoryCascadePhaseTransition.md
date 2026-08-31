@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Avoided_Criticality]]
 [[Baseline_Change_Record]]
 [[BioInspiredInterceptionTask]]
+[[BioInspiredInterception]]
 [[BioPlausiblePredictiveCoding]]
 [[CriticalityInducedComputationalCapacity]]
 [[Criticality]]
@@ -41,8 +42,8 @@ Auto-extracted concept from raw material compilation.
 [[SpikeDrivenMOT]]
 [[SpikingMOT]]
 [[Spiking_Neural_Network]]
+[[Syncytial_Mesh_Model]]
 [[TCC]]
-[[criticality]]
 [[iNEST]]
 
 ## Sources

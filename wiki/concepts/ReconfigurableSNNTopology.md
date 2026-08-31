@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Accessibility_Plasticity]]
 [[ActiveDendriteSNN]]
 [[AdaptiveFunctionalTopology]]
+[[AmoebaInspiredLocomotion]]
 [[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[DTGA]]

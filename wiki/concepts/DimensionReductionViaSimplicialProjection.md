@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[DimensionalityReductionForNetworkControl]]
 [[ImaginaryGaugePhaseImprint]]
 [[Intelligence_Emergence]]
+[[MetaHardwareAbstraction]]
 [[Multi_Scale_Biological_Integration]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]
@@ -45,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

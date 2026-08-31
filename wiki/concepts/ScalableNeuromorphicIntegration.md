@@ -36,15 +36,17 @@ Auto-extracted concept from raw material compilation.
 [[Distributed_Spike_Communication]]
 [[Environmental_Capability_Context]]
 [[FerroelectricSynapse]]
+[[Ferroelectric_Devices]]
 [[Heterogeneous_Integration]]
 [[HigherOrderStochasticProcess]]
+[[InteractiveRoboticsLoop]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]
-[[spiking neural network]]
 [[神经网络]]
 
 ## Sources

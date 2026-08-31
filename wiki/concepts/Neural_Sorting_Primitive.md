@@ -28,7 +28,9 @@ Auto-extracted concept from raw material compilation.
 [[AnisotropicSymmetryBreaking]]
 [[ArtificialProprioception]]
 [[AtomicGeometryEncoding]]
+[[Attractor_State_Interpolation]]
 [[Interconnect_Routing]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 
 ## Sources

@@ -32,5 +32,3 @@ SDI, TCC, iNEST, topology, 拓扑, 晶圆
 [[Wafer_Scale_Integration]]
 [[complex system]]
 [[iNEST]]
-[[inest]]
-[[sdsow]]

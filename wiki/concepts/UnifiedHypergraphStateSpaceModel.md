@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[ConsciousnessEngineeringLoop]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Architecture]]
+[[CriticalityInducedComputationalCapacity]]
 [[Criticality]]
 [[Cross_Node_Event_Propagation]]
 [[DimensionSeparation_IntensiveExtensive]]

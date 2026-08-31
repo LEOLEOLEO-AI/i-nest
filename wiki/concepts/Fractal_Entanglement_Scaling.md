@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[DeepCounterstreamAssociativeNetworks]]
 [[DendriticReservoirState]]
 [[DopamineArousalSwitch]]
+[[Emergent_Abilities]]
 [[Emergent_Intelligence_Threshold]]
 [[EventCameraActionRecognition]]
 [[Free_Energy_Principle_Network]]
@@ -52,11 +53,12 @@ Auto-extracted concept from raw material compilation.
 [[Order_Flexibility_Duality]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
+[[SOC]]
 [[TransformerEmpoweredActorCritic]]
 [[iNEST]]
-[[soc]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -37,15 +37,17 @@ Auto-extracted concept from raw material compilation.
 [[Ferroelectric_Devices]]
 [[Heterogeneous_Integration]]
 [[HigherOrderStochasticProcess]]
+[[InteractiveRoboticsLoop]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
 [[SpikeEmbedding]]
 [[SpikformerV2_Architecture]]
+[[Spiking neural network]]
+[[SpikingNeuralNetwork]]
 [[SpikingNeuralNetwork_fMRI]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
-[[spiking neural network]]
 [[神经网络]]
 
 ## Sources

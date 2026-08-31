@@ -23,11 +23,13 @@ Auto-extracted concept from raw material compilation.
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[ANN_SNN_ConversionError]]
 [[AdjustableDynamicsReservoir]]
+[[AdjustableDynamics]]
 [[AlternativeBridgingModels]]
 [[AnomalousSpinTransport]]
 [[Contested_Prior_Resolution]]
 [[CrashHotspotForecasting]]
 [[DivergentHigherAreaRanking]]
+[[Fixed_Reservoir_Unitary]]
 [[Globally_Optimal_SNN_Training]]
 [[HardwareAware_DesignSpace]]
 [[Intelligence_Emergence]]
@@ -35,7 +37,6 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Synapse]]
 [[Meta_Residual_Learning]]
 [[Neuromorphic_Computing]]
-[[Neuromorphic_computing]]
 [[Nonlinear_Gain]]
 [[ReservoirComputingModel]]
 [[Reservoir_Computing]]
@@ -47,7 +48,6 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[iNEST]]
 [[reservoir computing architecture]]
-[[reservoir computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[EventStrengthEncoding]]
 [[Event_Driven_Architecture]]
 [[In_Network_Neuromorphic]]
+[[InterFPGA_Spike_Routing]]
 [[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Planning_Architecture]]

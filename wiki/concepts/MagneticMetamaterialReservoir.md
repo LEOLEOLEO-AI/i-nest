@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[CriticalFluctuationReservoir]]
+[[DeviceLevelNonlinearityScaling]]
 [[DissipativeQuantumReservoir]]
 [[Emergent_Reservoir_Topology]]
 [[Free_Energy_Topology_Mapping]]
@@ -40,10 +41,10 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[OpticalNonlinearity]]
 [[PhysicalReservoirTransientDynamics]]
+[[PhysicalReservoir]]
 [[Reservoir_Computing]]
 [[complex system]]
 [[iNEST]]
-[[reservoir computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

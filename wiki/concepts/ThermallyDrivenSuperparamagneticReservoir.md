@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkNeuromorphicEmergence]]
 [[Intelligence_Emergence]]
 [[Memristor_Network]]
+[[Memristor_Synapse]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Microgrid_Optimization]]
 [[Network_Topology_Design]]
@@ -47,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[RenormalizationGroup_ScalingLaws]]
 [[ReproducibleReservoirComputing]]
 [[ReproducibleReservoirDynamics]]
+[[ReservoirDynamics]]
 [[Reservoir_Computing]]
 [[SDI_Bond]]
 [[SDI_STDP]]
@@ -58,10 +60,10 @@ Auto-extracted concept from raw material compilation.
 [[Structural_Mismatch]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[TemporalComplexity]]
 [[ThermallyDrivenSuperparamagnetReservoir]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[chiplet interconnect]]
-[[reservoir computing]]
-[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

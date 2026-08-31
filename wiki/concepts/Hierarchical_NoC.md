@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_based_heterogeneous_integration]]
 [[Complex_System_Theory]]
+[[DataProvenanceIntegrity]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
@@ -41,7 +42,6 @@ Auto-extracted concept from raw material compilation.
 [[NoC_SDI]]
 [[SDI_Bond]]
 [[TCC]]
-[[heterogeneous_integration]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[CommunicationPrimitiveTopologyCoupling]]
 [[Complex_System_Theory]]
 [[DTGA]]
+[[DataMovementMinimization]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Level_of_Splat_Detail]]
@@ -48,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

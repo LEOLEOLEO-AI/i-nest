@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Course_Based_FPGA_Prototyping]]
 [[CriticalityDrivenStateTransition]]
 [[Criticality]]
+[[Criticality_Based_Feature_Extraction]]
 [[DTGA]]
 [[DynamicTokenSparsity]]
 [[EEGSpikeEncoding]]

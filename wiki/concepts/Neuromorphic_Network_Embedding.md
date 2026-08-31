@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Complexity_Emergence]]
 [[CorticalWaveRouting]]
+[[DataDrivenCellularAxis]]
 [[Hardware_Accelerated_SNN]]
 [[In_Network_Neuromorphic]]
 [[Intelligence_Emergence]]

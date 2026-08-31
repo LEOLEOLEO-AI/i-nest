@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[ActivityAvalanche]]
 [[Activity_Energy_Tradeoff]]
 [[AlloyDisorderEngineering]]
+[[AmoebaInspiredLocomotion]]
 [[AvalancheBranchingRatio]]
 [[BerryCurvatureIsolation]]
 [[BioInspired_Interception_Control]]
@@ -40,7 +41,6 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Self_Organized_Criticality]]
-[[criticality]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

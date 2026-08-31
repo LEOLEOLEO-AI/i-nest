@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenLearning]]
 [[EventDrivenSignalEncoding]]
 [[EventDrivenTracking]]
+[[EventDriven_Interconnect]]
 [[Event_Driven_Architecture]]
 [[Event_Driven_Computation]]
 [[Interconnect_Routing]]

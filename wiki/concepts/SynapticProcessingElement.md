@@ -30,18 +30,19 @@ Auto-extracted concept from raw material compilation.
 [[BrainActivityPrediction]]
 [[CST_Intelligence_Emergence]]
 [[CST_Spatiotemporal_Coefficient]]
+[[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Complex_System_Theory]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[Course_Based_FPGA_Projects]]
 [[DARPA_Project_Group_Strategy]]
+[[Intelligence_Emergence]]
 [[MemristiveSynapticFatigue]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
-[[neuromorphic computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

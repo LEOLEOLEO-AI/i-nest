@@ -33,9 +33,11 @@ Auto-extracted concept from raw material compilation.
 [[AlgorithmicPhaseTransition]]
 [[Allreduce_Latency_Probe]]
 [[Analog_InMemory_Processing]]
+[[ArchitecturalGrounding]]
 [[Architectural_Conditioning]]
 [[BCM滑动阈值]]
 [[BeamDomainMLFingerprinting]]
+[[Bipartite_Interconnect]]
 [[Bipartite_Interconnect_Fabric]]
 [[Bipartite_Topology]]
 [[CST_Theory]]
@@ -57,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

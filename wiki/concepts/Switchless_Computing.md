@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Second_Curve_Wafer_Industry_Platform]]
 [[TCC]]
 [[TCC_Interconnect_Topology]]
+[[ThreeLayerArchitecture]]
 [[Topology_Interconnect]]
 [[WaferScaleInterconnectAlgebra]]
 [[WaferScaleTopologyCentricComputing]]

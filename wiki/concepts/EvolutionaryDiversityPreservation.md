@@ -44,8 +44,9 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Organization]]
 [[Nonlinear_Gain]]
 [[SNN]]
+[[SOC]]
+[[SafetyThresholdAsSpikingThreshold]]
 [[Spiking_Neural_Network]]
-[[soc]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

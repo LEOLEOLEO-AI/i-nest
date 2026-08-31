@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration_Route]]
 [[Distributed_Spike_Communication]]
 [[Heterogeneous_Integration]]
+[[In_Package_Neuromorphic_Integration]]
 [[Intelligence_Emergence]]
 [[InterChipletPHYModeling]]
 [[KnowledgeDistillation]]

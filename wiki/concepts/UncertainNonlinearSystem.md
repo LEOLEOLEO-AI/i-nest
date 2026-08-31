@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[EdgeFeatureEncoding]]
 [[Emergent_Intelligence_Assembly]]
 [[Emergent_Nonlinear_Dynamics]]
+[[Heterogeneous_Synaptic_Motifs]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]

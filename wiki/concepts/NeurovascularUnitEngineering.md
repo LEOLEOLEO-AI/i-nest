@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
+[[Deep_SNN_Trainability]]
 [[Distributed_Spike_Communication]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]

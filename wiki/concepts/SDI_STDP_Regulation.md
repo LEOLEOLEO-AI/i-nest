@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
 [[Contested_Prior_Resolution]]
+[[Cross_Node_Event_Propagation]]
 [[Heterogeneous_Integration]]
 [[HodgkinHuxleyDynamics]]
 [[Loihi2_SpikeEncoding]]
@@ -58,7 +59,6 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect]]
 [[chiplet interconnect]]
 [[iNEST]]
-[[synaptic plasticity]]
 [[神经网络]]
 
 ## Sources

@@ -31,13 +31,15 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[Criticality_Metric_Extraction]]
 [[EdgeOfChaosComputation]]
+[[EdgeOfChaos]]
+[[FibonacciMonitoredCriticality]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Self_Organized_Criticality]]
 [[TCC]]
+[[Universal_Scaling_Laws]]
 [[iNEST]]
 [[scaling laws]]
-[[universal scaling laws]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

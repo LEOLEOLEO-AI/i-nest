@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
+[[SelfOrganizedCriticalityConsciousness]]
 [[ShortTermMemory]]
 [[Swarm_Coordination]]
 [[Syncytial_Information_Integration]]

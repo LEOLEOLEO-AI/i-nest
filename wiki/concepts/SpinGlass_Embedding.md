@@ -51,11 +51,12 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Ising_Solver]]
+[[NoiseModulated_Backprop]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SOC]]
 [[catastrophic forgetting]]
-[[neuromorphic Ising solver]]
-[[soc]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Emergent_Intelligence_Threshold]]
 [[EpidemicThreshold]]
+[[Event_Driven_Architecture]]
 [[Intelligence_Emergence]]
 [[Memristive_STDP]]
 [[Memristor_Synapse]]

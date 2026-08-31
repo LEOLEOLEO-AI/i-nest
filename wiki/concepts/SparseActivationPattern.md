@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Edge_Neuromorphic_Compute]]
 [[Emergent_Intelligence_Threshold]]
 [[Event_Driven_Architecture]]
+[[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[InNetworkAgentRewiring]]
 [[InNetwork_Neuromorphic_CoDesign]]
 [[Intelligence_Emergence]]

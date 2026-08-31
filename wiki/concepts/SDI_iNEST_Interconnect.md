@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_STDP_Rule]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
+[[SNN]]
 [[STDP_Plasticity]]
 [[ST_SNN]]
 [[Spiking_Neural_Network]]
@@ -47,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[iNEST]]
 [[iNEST_Interconnect]]
+[[iNEST_Neuromorphic_Integration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

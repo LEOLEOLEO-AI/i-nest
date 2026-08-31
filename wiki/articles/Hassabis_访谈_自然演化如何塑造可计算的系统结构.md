@@ -24,4 +24,3 @@ SDI, STDP, TCC, iNEST, 互连, 拓扑
 [[TCC]]
 [[complex system]]
 [[iNEST]]
-[[tcc]]

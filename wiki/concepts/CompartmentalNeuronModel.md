@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CulturalDisseminationDynamics]]
 [[DeeplySupervisedSpiking]]
 [[Dynamic_Expert_Fusion]]
+[[Edge_Intelligence]]
 [[EmergentOrder]]
 [[Emergent_Intelligence_Threshold]]
 [[FlexibilityThreshold]]

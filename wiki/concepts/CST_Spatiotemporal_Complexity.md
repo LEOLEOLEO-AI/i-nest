@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[GenerativeTopologyModels]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[L2_L3_Reconfigurability]]
 [[Microgrid_Optimization]]
 [[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]
 [[Network_Topology_Design]]
@@ -54,12 +55,13 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Architecture]]
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
+[[TemporalComplexity]]
 [[analog computation]]
 [[chiplet interconnect]]
 [[complex system]]
 [[iNEST]]
-[[temporalComplexity]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

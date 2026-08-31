@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[ErrorSuppressedPipeline]]
 [[MLChiralityDecoder]]
 [[Memristor_Network]]
+[[Memristor_Synapse]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[NonlinearConnectomeScaling]]
 [[Nonlinear_Gain]]
@@ -58,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TriAxiomCalibration]]
 [[complex system]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

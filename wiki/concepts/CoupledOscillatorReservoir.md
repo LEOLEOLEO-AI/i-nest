@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]
+[[NCA_Reservoir]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
@@ -52,7 +53,6 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[iNEST]]
 [[reservoir computing architecture]]
-[[reservoir computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

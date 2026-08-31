@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[BranchingRatio]]
 [[CMOS_Memristor_Crossbar]]
 [[CST_Exponential_Gain]]
+[[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Memristor_Synapse]]
@@ -42,9 +43,11 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[SDDE_Attractor_Emergence]]
 [[ShortTermMemoryReservoir]]
+[[ShortTermMemory]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

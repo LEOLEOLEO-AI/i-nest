@@ -39,16 +39,19 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[RenormalizationGroup_ScalingLaws]]
+[[SDI_Bond]]
 [[SDI_STDP]]
 [[SNN]]
+[[STDP_Plasticity]]
+[[STDP_iNEST]]
 [[ST_SNN]]
 [[SpatiotemporalComplexityIndex]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
+[[TemporalComplexity]]
 [[Wafer_Scale_Integration]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
-[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

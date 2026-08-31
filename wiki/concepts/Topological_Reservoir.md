@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[DataDrivenMaterialDesign]]
 [[DiscreteScaleInvariance]]
 [[Dynamic_Expert_Fusion]]
+[[EcosystemTopologyCoupling]]
 [[FitnessGuidedTopologySearch]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
@@ -50,7 +51,6 @@ Auto-extracted concept from raw material compilation.
 [[TopologicalAndersonChernInsulator]]
 [[branch prediction]]
 [[reservoir computing architecture]]
-[[reservoir computing]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

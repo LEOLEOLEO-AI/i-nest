@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[GeneralIntelligenceSubstrate]]
 [[Generative_Graph_Models]]
 [[MantelTest_SignCorrection]]
+[[Network_State_Awareness]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[Reservoir_Computing]]
@@ -42,7 +43,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[branch prediction]]
 [[pipelined processor]]
-[[reservoir computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

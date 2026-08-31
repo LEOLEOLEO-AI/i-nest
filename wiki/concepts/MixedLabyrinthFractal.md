@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[ComplexTopologicalStructures]]
 [[ComplexValuedSNN]]
 [[CoreComputationSubspace]]
+[[CrossLayer_SignalRouting]]
 [[CulturalDisseminationDynamics]]
 [[Edge_Intelligence]]
 [[EmergentOrder]]

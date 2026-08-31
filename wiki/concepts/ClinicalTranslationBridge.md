@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Neuromorphic_Architectures]]
 [[Flexible_Neural_Mapping]]
 [[FunctionalBrainNetworkConnectivity]]
+[[Geometric_Neural_Field]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Acceleration]]
@@ -55,8 +56,6 @@ Auto-extracted concept from raw material compilation.
 [[TopologicalAndersonChernInsulator]]
 [[complex system]]
 [[iNEST]]
-[[neuromorphic computing]]
-[[tools]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[神经网络]]
 

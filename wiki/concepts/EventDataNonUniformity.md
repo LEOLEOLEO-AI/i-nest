@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[Delay_Aware_Autograd_Spiking_Framework]]
 [[EEGSpikeEncoding]]
+[[ErrorAmplificationLimits]]
 [[EventDrivenAutoregression]]
 [[EventDrivenGraphTraversal]]
 [[Event_Driven_Architecture]]

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[ActivityAvalanche]]
 [[AnomalousSpinTransport]]
 [[BackflowTransformation]]
+[[BigBrainCellularAxis]]
 [[BrownianCastleInterface]]
 [[CombinedImportanceScoring]]
 [[ErrorSuppressedPipeline]]
@@ -36,11 +37,10 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[SNN]]
 [[SNN_VisualSemanticDecoder]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[TriAxiomCalibration]]
 [[iNEST]]
-[[neuromorphic computing]]
-[[spiking neural network]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

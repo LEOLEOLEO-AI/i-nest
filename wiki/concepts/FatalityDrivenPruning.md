@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[CommunicationAwareComputeRelocation]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[InputAdaptiveComputation]]
+[[MemoryDrivenVectorFlowFieldRouting]]
 [[Network_Topology_Design]]
 [[SelfOrganization]]
 [[TCC]]

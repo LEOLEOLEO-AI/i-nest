@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_TCC_Chiplet]]
 [[SDI_TCC_iNEST_Bridge]]
 [[SDI_Topology]]
+[[SDI_Topology_Control]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[SoftwareDefinedSystemOnWafer]]

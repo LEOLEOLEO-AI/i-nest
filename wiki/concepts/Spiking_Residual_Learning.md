@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalEnsemble]]
 [[In_Package_Neuromorphic_Integration]]
 [[LocalLearning_SynapticUpdate]]
+[[NeuromorphicEdgeProcessing]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[SNN]]

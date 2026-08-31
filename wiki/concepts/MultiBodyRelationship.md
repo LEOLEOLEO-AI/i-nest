@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[3D_Heterogeneous_Integration]]
 [[AdiabaticMultimodeBend]]
+[[Allreduce_Latency_Diagnostic]]
 [[AndersonTransition]]
 [[Bipartite_Interconnect]]
 [[Bipartite_Interconnect_Fabric]]

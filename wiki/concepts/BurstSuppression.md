@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspiredInterceptionTask]]
 [[BioInspiredInterception]]
 [[BioPlausiblePredictiveCoding]]
+[[BulletTrainScheduling]]
 [[Criticality]]
 [[SNN]]
 [[Self_Organized_Criticality]]

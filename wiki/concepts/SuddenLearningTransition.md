@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[LatencyGradientDescent]]
 [[LearningTransition]]
 [[MembranePotentialAlignment]]
+[[OpenEndedEvolutionSteering]]
 [[SNN]]
 [[SpikeEncoding]]
 [[Spiking_Neural_Network]]

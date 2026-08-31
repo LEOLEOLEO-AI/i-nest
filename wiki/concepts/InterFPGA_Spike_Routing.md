@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Memristor_Network]]
 [[Memristor_Synapse]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Specific_Embedding_Separation]]
 [[Network_on_Chip]]
 [[NeuromorphicRoutingOptimization]]

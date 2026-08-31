@@ -20,8 +20,8 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[SOC]]
 [[TCC]]
-[[soc]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

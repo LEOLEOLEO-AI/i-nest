@@ -36,11 +36,11 @@ Auto-extracted concept from raw material compilation.
 [[CollectiveStateTopology]]
 [[Continual_Learning_Modularity]]
 [[CriticalFixedPoint]]
+[[CriticalityInNetworkComputing]]
 [[Criticality]]
 [[Network_Topology_Design]]
 [[Self_Organized_Criticality]]
 [[TCC]]
-[[criticality]]
 [[iNEST]]
 
 ## Sources

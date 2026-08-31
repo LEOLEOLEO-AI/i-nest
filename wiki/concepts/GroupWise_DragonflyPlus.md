@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[RISC-V 鏋舵瀯涓_SDI 鏅虹畻浜掕仈绯荤粺璁捐锛氶潰鍚_LLM 浣庡欢杩熸帹鐞嗕笌璁粌]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
+[[SOC — 自组织临界（Self-Organized Criticality）]]
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[TCC]]
@@ -52,7 +53,9 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[《中国科学基金》]]
 [[从因果到涌现：迈向新一代人工智能_陆超超博士访谈 (1)]]
+[[从因果到涌现：迈向新一代人工智能_陆超超博士访谈]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

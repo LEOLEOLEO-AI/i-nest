@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[GeometricNeuromorphicFusion]]
 [[In_Network_Neuromorphic]]
 [[In_Package_Neuromorphic_Integration]]
+[[InputAdaptiveComputation]]
 [[Interconnect_Routing]]
 [[NestedRepresentation]]
 [[Network_Topology_Design]]
@@ -41,7 +42,6 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[Spiking_Neural_Network]]
-[[neuromorphic computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

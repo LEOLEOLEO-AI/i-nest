@@ -20,4 +20,3 @@ TCC, iNEST, interconnect, topology
 [[Network_Topology_Design]]
 [[TCC]]
 [[iNEST]]
-[[tcc]]

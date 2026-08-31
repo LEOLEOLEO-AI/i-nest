@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Asymptotic_Exact_Solution]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
+[[CoPackagedOptics]]
 [[Cognitive_Relapse_Architecture]]
 [[CriticalFixedPoint]]
 [[Critical_Exponent_Scaling]]
@@ -42,7 +43,6 @@ Auto-extracted concept from raw material compilation.
 [[ScaleFreeAvalancheStatistics]]
 [[Self_Organized_Criticality]]
 [[TCC]]
-[[criticality]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

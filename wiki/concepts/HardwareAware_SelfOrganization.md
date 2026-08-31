@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Network_Architecture_Invariant]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[Interconnect_Routing]]
 [[InterfaceCentricTopology]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
@@ -46,12 +47,14 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Architecture]]
 [[STDP_Plasticity]]
 [[SelfOrganization]]
+[[SparseTemporalEncoding]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[TopologyAware_Embedding]]
 [[iNEST]]
 [[iNEST_Wafer]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

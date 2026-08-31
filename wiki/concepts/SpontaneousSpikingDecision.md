@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[ContinuousControlConversion]]
 [[CriticalityDrivenStateTransition]]
 [[Criticality]]
+[[Discrete_Event_Spike_Simulation]]
 [[DynamicTokenSparsity]]
 [[DynamicalSelfDualCriticality]]
 [[Interconnect_Routing]]

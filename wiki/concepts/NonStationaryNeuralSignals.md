@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[CounterstreamSignalPropagation]]
 [[CriticalityInNetworkComputing]]
 [[CriticalityInducedComputationalCapacity]]
+[[CriticalityOffCriticalityTransition]]
 [[Criticality]]
 [[Dynamic_Expert_Fusion]]
 [[DynamicalCriticality]]

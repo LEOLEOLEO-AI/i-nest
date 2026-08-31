@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AINext_Initiative]]
+[[AI_Driven_Architecture_Search]]
 [[AI_Faculty_Forum_2026]]
 [[ActivityAvalanche]]
 [[Allreduce_Latency_Probe]]
@@ -49,12 +50,13 @@ Auto-extracted concept from raw material compilation.
 [[SpikeDrivenMOT]]
 [[Spike_Encoding_of_fMRI]]
 [[Spike_Energy_Floor]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[SynapticReinforcementConsolidation]]
+[[Syncytial_Mesh]]
 [[Syncytial_Mesh_Model]]
 [[TCC]]
 [[iNEST]]
-[[spiking neural network]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CSI_Temporal_Encoding]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CircadianGateModulation]]
+[[Course_Based_FPGA_Projects]]
 [[Critical_Exponent_Scaling]]
 [[DendriticReservoirState]]
 [[DynamicNeuralManifolds]]

@@ -35,12 +35,15 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityDrivenStateTransition]]
 [[CriticalityInNetworkComputing]]
 [[CriticalityInducedTopology]]
+[[CriticalityOffCriticalityTransition]]
 [[Criticality]]
 [[CytoarchitectonicAxis]]
 [[DataDrivenCytoarchitectonicAxis]]
 [[Dynamical_State_Space]]
 [[DynamicsMatchedReservoir]]
 [[Emergent_Reservoir_Topology]]
+[[Entanglement_Phase_Transition]]
+[[InNetworkComputing]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[MultifractalCriticalPhase]]
@@ -49,8 +52,6 @@ Auto-extracted concept from raw material compilation.
 [[NoiseRegimeTransition]]
 [[Reservoir_Computing]]
 [[Self_Organized_Criticality]]
-[[entanglement phase transition]]
-[[monitored quantum circuits]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

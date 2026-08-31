@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[ComputeRelocationOverhead]]
 [[DARPA_ProjectManager_Model]]
+[[Evolving_System_Adaptation]]
 [[FirstPrinciples_AI]]
 [[Heterogeneous_Compute_Graph]]
 [[Heterogeneous_Integration]]
@@ -42,7 +43,6 @@ Auto-extracted concept from raw material compilation.
 [[ReservoirDynamics]]
 [[Reservoir_Computing]]
 [[iNEST]]
-[[reservoir computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

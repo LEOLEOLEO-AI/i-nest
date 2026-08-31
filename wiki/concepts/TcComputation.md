@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Collection_Communication_Diagnostic_Tool]]
 [[Complex_System_Theory]]
+[[Core_Spacetime_Tensor]]
 [[CorticalTypeDiversity]]
 [[Criticality]]
 [[DRBE_MVP_Mainchain]]
@@ -65,7 +66,6 @@ Auto-extracted concept from raw material compilation.
 [[SuperlinearGain]]
 [[SystemLevelNonlinearity]]
 [[TCC]]
-[[TcC]]
 [[TemperatureSensitivityControl]]
 [[TemporalComplexity]]
 [[Topological_Criticality]]
@@ -73,10 +73,7 @@ Auto-extracted concept from raw material compilation.
 [[Topology_Interconnect]]
 [[chiplet interconnect]]
 [[complex system]]
-[[criticality]]
 [[residual connection]]
-[[temporalComplexity]]
-[[topological criticality]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CorticalWaveRouting]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[ExplainableEnergyAI]]
 [[ITP_STDP]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
@@ -52,7 +53,6 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
-[[synaptic plasticity]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

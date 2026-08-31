@@ -30,10 +30,12 @@ Auto-extracted concept from raw material compilation.
 [[Environmental_Capability_Context]]
 [[EpidemicThreshold]]
 [[FormalLinguisticCompetence]]
+[[Fractal_Scaling]]
 [[GlassInterposerSignalIntegrity]]
 [[HierarchicalBayesianCommunityDetection]]
 [[Intelligence_Emergence]]
 [[LocalQuantumLearningRule]]
+[[MacroCriticalityEmergence]]
 [[Memristive_STDP]]
 [[Multifractal_Scaling_Behaviour]]
 [[Nanoencapsulation_Stability_Bioavailability]]
@@ -46,7 +48,6 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]
-[[fractal_Scaling]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

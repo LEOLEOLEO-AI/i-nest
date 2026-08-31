@@ -18,5 +18,4 @@ iNEST
 
 [[Brain_Connectome]]
 [[Connectome]]
-[[connectome]]
 [[iNEST]]

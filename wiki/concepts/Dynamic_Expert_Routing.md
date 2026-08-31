@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveSpeechToSpikeEncoding]]
 [[BrainBodyResonance]]
 [[Controlled_Release_Kinetics]]
+[[ExplainableEnergyAI]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]

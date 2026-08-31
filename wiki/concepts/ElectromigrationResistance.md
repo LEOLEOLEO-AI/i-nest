@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[CeYIGMagnetoOpticalIsolator]]
 [[CellEmergence]]
 [[ChannelCountScaling]]
+[[Cognitive_Relapse_Decoupling]]
 [[CongestionAwarePathSelection]]
 [[CriticalityInducedTopology]]
 [[Criticality]]

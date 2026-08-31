@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AttentionGuidedEntropy]]
 [[BioPlausibleDisturbanceRejection]]
 [[Complex_System_Theory]]
+[[Contested_Prior_Conflict]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[SDI_Bond]]

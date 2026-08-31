@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Neural_Manifold_Crystallization]]
 [[Neuromorphic_Computing]]
 [[OpenLearningEcosystem]]
+[[QuantumDistillation]]
 [[analog computation]]
 [[iNEST]]
 

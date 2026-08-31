@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Advanced_Packaging_for_Space]]
 [[Attention_Residuals]]
 [[BackpropagationFreeLearning]]
+[[Beyond_Moore_Pathway]]
 [[BiasEvaluationMetrics]]
 [[Bias_Origin_Taxonomy]]
 [[ChipletWaferInterconnectTopology]]
@@ -45,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligent_Power_Management]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Microgrid_Optimization]]
+[[MixedLabyrinthFractal]]
 [[Network_Spatiotemporal_Synergy]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
@@ -62,6 +64,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[iNEST_Interconnect]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

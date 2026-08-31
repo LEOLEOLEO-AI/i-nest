@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[MachineLearningNanomaterialDiscovery]]
 [[ModularityDepthInteraction]]
+[[Network_Specific_Embedding_Separation]]
 [[Network_Topology_Design]]
 [[Photonic_Chiplet_Interconnect]]
 [[QuantumKernelMethods]]
@@ -51,10 +52,10 @@ Auto-extracted concept from raw material compilation.
 [[SpatiotemporalComplexityIndex]]
 [[SwarmGradientRouting]]
 [[TCC]]
+[[TemporalComplexity]]
 [[chiplet interconnect]]
 [[complex system]]
 [[iNEST]]
-[[temporalComplexity]]
 [[神经网络]]
 
 ## Sources

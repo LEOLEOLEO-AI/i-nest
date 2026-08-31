@@ -37,11 +37,13 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Organization]]
 [[Neuromorphic_Planning_Architecture]]
 [[PhaseLockedTopologyMapping]]
+[[SNN]]
 [[ST_SNN]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]
+[[iNEST_Neuromorphic_Integration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

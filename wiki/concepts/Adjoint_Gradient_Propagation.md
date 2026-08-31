@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[ConsciousnessEngineeringLoop]]
 [[CrossLayer_SignalRouting]]
 [[Defense_Industrial_Base_Reshaping]]
+[[DualModeSNNConventionalInference]]
 [[FastSlow_Dynamics]]
 [[FlagOS_2_0]]
 [[Free_Energy_Principle_Network]]

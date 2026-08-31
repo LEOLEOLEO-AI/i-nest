@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Decoupled_Prior_Integration]]
 [[DendriticReservoirState]]
 [[ERI_2_0_Strategy]]
+[[EndToEndDesignAutomationFlow]]
 [[Fading_Memory_Property]]
 [[Intelligence_Emergence]]
 [[Memristive_STDP]]
@@ -44,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[UniversalIntelligence_Emergence]]
 [[WavelengthMultiplexedInterconnect]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

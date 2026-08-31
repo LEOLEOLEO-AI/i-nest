@@ -17,6 +17,7 @@ Auto-extracted concept from raw material compilation.
 [[4H_SiC_SubstrateProcessing]]
 [[AINext_Initiative]]
 [[ASIC_Dualism]]
+[[Active_Inference_Agent]]
 [[AdaptiveDensityControl]]
 [[CrossDomainRoleEquivalence]]
 [[Decoupled_Priors]]

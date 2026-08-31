@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[ErrorAmplificationLimits]]
 [[Feedback_Ising_Neural_Networks]]
 [[Heterogeneous_Integration]]
+[[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]
 [[LatencyGradientDescent]]
 [[Network_on_Chip]]

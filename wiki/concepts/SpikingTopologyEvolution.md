@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Hardware_Accelerated_SNN]]
 [[HodgkinHuxleyDynamics]]
 [[Intelligence_Emergence]]
+[[Memristive_SNN_Accelerator]]
 [[Memristor_Network]]
 [[Memristor_Synapse]]
 [[National_Innovation_Center_Role]]
@@ -49,12 +50,12 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[SNN_Accelerator_Architecture]]
 [[Spike_Encoding_of_fMRI]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]
-[[spiking neural network]]
 [[神经网络]]
 
 ## Sources

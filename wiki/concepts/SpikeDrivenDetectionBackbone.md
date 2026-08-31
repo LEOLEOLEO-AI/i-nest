@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Chip-Hardware — 全景导航 (Map of Content)]]
 [[ComplexValuedSNN]]
 [[DendriticTaskPartitioning]]
 [[Dynamic_Expert_Fusion]]
@@ -39,12 +40,12 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[ST_SNN]]
 [[Spike_Encoding_of_fMRI]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[Supervised_Hebbian_Learning]]
 [[Synaptic_Plasticity]]
 [[UniSpike_Architecture]]
 [[iNEST]]
-[[spiking neural network]]
 [[在 FPGA 上实现并行脉冲神经网络（Spiking Neural Net）]]
 [[新型计算]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]

@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_NoC_Fusion]]
 [[SparseTemporalEncoding]]
 [[TCC]]
+[[WaferScale_Chiplet_Interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

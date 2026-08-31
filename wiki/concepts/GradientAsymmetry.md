@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[DirectoryManagementLaws]]
 [[DivergentHigherAreaRanking]]
 [[EarlyVisualCortexAliasing]]
+[[EventDrivenModularArchitecture]]
 [[HardwareAware_DesignSpace]]
 [[Nonlinear_Gain]]
 [[PPT]]

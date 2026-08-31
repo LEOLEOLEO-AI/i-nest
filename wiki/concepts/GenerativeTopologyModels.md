@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AI-ML — 全景导航 (Map of Content)]]
 [[AdaptiveDensityControl]]
 [[Advanced_Packaging_for_Space]]
+[[Analog_InMemory_Processing]]
 [[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[ChipletWaferInterconnectTopology]]
@@ -55,10 +56,11 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[System_Level_Utility_Control]]
 [[TCC]]
+[[TemporalComplexity]]
 [[chiplet interconnect]]
 [[iNEST]]
-[[temporalComplexity]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

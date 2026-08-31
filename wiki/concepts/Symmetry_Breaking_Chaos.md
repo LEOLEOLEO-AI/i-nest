@@ -35,10 +35,10 @@ Auto-extracted concept from raw material compilation.
 [[Connectome_Reservoir]]
 [[Cross_Brain_Connectome]]
 [[EvolutionaryReservoirLearning]]
+[[GraphEmbeddedReservoir]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]
 [[iNEST]]
-[[reservoir computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

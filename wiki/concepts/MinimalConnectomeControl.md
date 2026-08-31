@@ -32,8 +32,8 @@ Auto-extracted concept from raw material compilation.
 [[ConnectomeFidelityClaim]]
 [[Connectome]]
 [[Connectome_Inspired_Architecture]]
+[[Connectome_Reservoir]]
 [[Neuromorphic_Computing]]
-[[connectome]]
 [[iNEST]]
 
 ## Sources

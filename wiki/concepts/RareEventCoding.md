@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[OptimalGeneralisationNearInterpolation]]
 [[PhotoIontronicSynapse]]
+[[ResonantFrequencyAdaptationRule]]
 [[ResonateAndFireEncoding]]
 [[Spiking_Neural_Network]]
 [[iNEST]]

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveFunctionalTopology]]
 [[Adaptive_Service_Reconfiguration]]
 [[AdiabaticModeEvolution]]
+[[AmoebaInspiredLocomotion]]
 [[CircuitTopologyEncoding]]
 [[CriticalityDrivenStateTransition]]
 [[Criticality]]

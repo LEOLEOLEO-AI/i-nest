@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AINext_Initiative]]
+[[AlternativeBridgingModels]]
 [[Amorphous_Amorphous_Transition]]
 [[AnisotropicGaussianPrimitives]]
 [[AstrocyteInspiredRepair]]
@@ -50,7 +51,6 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Syncytial_Mesh]]
 [[TwoTimescaleNeuroEvolution]]
-[[criticality]]
 [[iMESO_PhysicalCarrier]]
 [[iNEST]]
 

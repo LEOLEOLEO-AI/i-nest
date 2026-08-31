@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[HigherOrderStochasticProcess]]
 [[Hypergraph_Label_Noise]]
+[[LIF_Neuron_Model]]
 [[LocalLearningRules]]
 [[Loihi2_OnChip_Learning]]
 [[Neuromorphic_Computing]]
@@ -49,11 +50,11 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
 [[SpikeRateAlignment]]
+[[Spiking neural network]]
+[[SpikingNeuralNetwork]]
 [[Spiking_Neural_Network]]
 [[complex system]]
 [[iNEST]]
-[[neuromorphic computing]]
-[[spiking neural network]]
 [[神经网络]]
 
 ## Sources

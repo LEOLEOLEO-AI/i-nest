@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstSuppression]]
 [[Contested_Prior_Resolution]]
 [[Criticality]]
+[[Discrete_Event_Spike_Simulation]]
 [[Distributed_Spike_Communication]]
 [[EventDrivenMotionDeblurring]]
 [[GPU_Cluster_SNN_Architecture]]

@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[GroupInteractionThreshold]]
 [[Intelligence_Emergence]]
 [[Izhikevich_NeuronModel]]
+[[LatencyCoding]]
 [[MassConservationBias]]
 [[MassConservationInductiveBias]]
 [[Monitored_Quantum_Circuits]]

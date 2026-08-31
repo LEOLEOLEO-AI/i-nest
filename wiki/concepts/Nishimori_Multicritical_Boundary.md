@@ -31,17 +31,17 @@ Auto-extracted concept from raw material compilation.
 [[Ant_Swarm_Functional_Control]]
 [[ArchitecturalCondition]]
 [[Autonomous_Unmanned_Combat_Networking]]
+[[Boundary_Criticality]]
 [[Capability_Reserve_Index]]
 [[Cognitive_Relapse_Decoupling]]
 [[CollectiveStateTopology]]
+[[ConstraintDrivenSelfOrganization]]
 [[Criticality]]
 [[Network_Topology_Design]]
-[[Nishimori multicritical point]]
+[[Nishimori_Multicritical_Point]]
 [[Quantum_Criticality]]
 [[Self_Organized_Criticality]]
 [[TCC]]
-[[boundary criticality]]
-[[criticality]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

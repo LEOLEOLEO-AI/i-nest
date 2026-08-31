@@ -32,13 +32,14 @@ Auto-extracted concept from raw material compilation.
 [[BrainActivityPrediction]]
 [[CollectiveSpikingDynamics]]
 [[CombinedImportanceScoring]]
+[[CurrentInjectionSNN]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[PPT]]
 [[SNN]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
-[[spiking neural network]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

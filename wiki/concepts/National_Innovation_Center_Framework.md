@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Multi_Device_Coordination]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
+[[NeurovascularUnitEngineering]]
 [[Reservoir_Computing]]
 [[SNN]]
 [[ScaleFreeNetwork]]

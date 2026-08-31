@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Topology_Mapping]]
 [[Intelligence_Emergence]]
 [[Intelligent_Power_Management]]
+[[NCL神经计算定律详解]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[OpenLearningEcosystem]]

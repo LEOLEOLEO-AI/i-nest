@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Defense_Industrial_Base_Reshaping]]
 [[DiscreteScaleInvariance]]
 [[ErrorSuppressedPipeline]]
+[[MultipartiteEntanglementFractal]]
 [[NonlinearDynamicalSampling]]
 [[Nonlinear_Gain]]
 [[OpticalReservoirComputing]]
@@ -39,7 +40,6 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[ThermalNoiseHarnessing]]
 [[iNEST]]
-[[reservoir computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

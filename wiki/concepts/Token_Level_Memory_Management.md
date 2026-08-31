@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[HierarchicalAttention_MIL]]
 [[Intelligence_Emergence]]
 [[InterconnectConstrainedEmergence]]
+[[Multi_Scale_Habituation]]
 [[Network_Topology_Design]]
 [[OpticalIonicMemory]]
 [[VolumeLevel_Attention]]

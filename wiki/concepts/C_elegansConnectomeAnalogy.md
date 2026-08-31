@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[Brain_Connectome]]
 [[CST计量仪]]
+[[CausalEmergenceCondition]]
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Connectome]]
@@ -50,7 +51,6 @@ Auto-extracted concept from raw material compilation.
 [[TopologicalAndersonChernInsulator]]
 [[causal emergence]]
 [[complex system]]
-[[connectome]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[神经网络]]
 

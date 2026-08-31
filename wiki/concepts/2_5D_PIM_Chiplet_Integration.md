@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Based_Architecture]]
 [[Chiplet_Heterogeneous_Integration]]
 [[ComputeRelocationOverhead]]
+[[CrossDomain_Integration]]
 [[CrossbarArrayPrecision]]
 [[FerroelectricMemoryCell]]
 [[Ferroelectric_ComputeInMemory]]

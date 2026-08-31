@@ -32,11 +32,11 @@ Auto-extracted concept from raw material compilation.
 [[BCM滑动阈值]]
 [[BeamDomainMLFingerprinting]]
 [[CST_Theory]]
-[[Chip floorplanning]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[ConvexNonConvexTradeoff]]
+[[DendriticTaskPartitioning]]
 [[HybridConvexOptimization]]
 [[Intelligence_Emergence]]
 [[Memristor_Synapse]]
@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[PropertyPredictionModeling]]
 [[RoutabilityDrivenFloorplanning]]
 [[STDP_Plasticity]]
+[[Spiking_Neural_Network]]
 [[SpinGlassOrderAbsence]]
 [[Synaptic_Plasticity]]
 [[TCC]]
@@ -54,9 +55,12 @@ Auto-extracted concept from raw material compilation.
 [[忆阻器]]
 [[智能涌现]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
+[[神经形态计算]]
 [[神经形态计算突破：脉冲神经网络实现机器人超低功耗定位新范式]]
 [[神经网络]]
 [[类脑芯片]]
+[[脉冲神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

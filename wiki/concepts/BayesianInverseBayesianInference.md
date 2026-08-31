@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[AmplifyingNetworkTopology]]
 [[AnalogStateRetention]]
 [[Antiferromagnetic_Topological_Anderson_Insulator]]
+[[ArchitecturalIllusion]]
 [[Architectural_Conditioning]]
 [[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]
@@ -54,9 +55,11 @@ Auto-extracted concept from raw material compilation.
 [[SuperparamagneticSwitchingRate]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[Topological_Anderson_Insulator]]
 [[complex system]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

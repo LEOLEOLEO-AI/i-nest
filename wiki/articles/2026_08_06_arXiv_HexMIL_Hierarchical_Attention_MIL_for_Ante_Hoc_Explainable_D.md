@@ -19,4 +19,3 @@ TCC, iNEST
 [[HierarchicalAttention_MIL]]
 [[TCC]]
 [[iNEST]]
-[[inest]]

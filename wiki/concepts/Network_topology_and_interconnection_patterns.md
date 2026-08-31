@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[CorticalTypeDiversity]]
 [[DRBE_MVP_Mainchain]]
 [[DTGA]]
+[[DataProvenanceIntegrity]]
 [[Decoupled_Prior_States]]
 [[EulaminateOverrepresentation]]
 [[Heterogeneous_Integration]]
@@ -68,9 +69,7 @@ Auto-extracted concept from raw material compilation.
 [[TemporalComplexity]]
 [[Topology_Interconnect]]
 [[chiplet interconnect]]
-[[heterogeneous_integration]]
 [[residual connection]]
-[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

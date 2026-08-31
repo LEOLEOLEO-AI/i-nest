@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[20W_Brain_Inspired_Planning]]
 [[Active_Inference_Agent]]
 [[Active_Inference_Architecture]]
+[[Activity_Dependent_Plasticity]]
 [[AdaptiveFlexibilityThreshold]]
 [[AdaptiveTimeStepTraining]]
 [[AnisotropicGaussianPrimitives]]
@@ -36,7 +37,6 @@ Auto-extracted concept from raw material compilation.
 [[FlexibilityThreshold]]
 [[FrozenRateOperator]]
 [[Neuromorphic_Computing]]
-[[connectome]]
 [[iNEST]]
 
 ## Sources

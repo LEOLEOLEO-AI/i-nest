@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeBasedFrequencyTuning]]
 [[Spiking_Neural_Network]]
 [[TCC]]
+[[WaveBasedComputation]]
 [[iNEST]]
 
 ## Sources

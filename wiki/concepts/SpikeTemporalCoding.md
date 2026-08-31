@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AsynchronousEventDrivenComputation]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BioInspiredSequenceLearning]]
+[[BrainInspired_Chip]]
 [[EventCameraPoseInput]]
 [[ImpactFallDetection]]
 [[Neuromorphic_Computing]]

@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[MaterialGrowthFabricationFocus]]
 [[MemoryDrivenRouting]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
