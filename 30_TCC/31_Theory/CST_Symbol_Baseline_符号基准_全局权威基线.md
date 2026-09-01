@@ -60,7 +60,17 @@ $$T_c = (\lambda_{eff} \cdot \Phi \cdot \Psi \cdot \Theta)^{1/4}$$
 
 ## 时空耦合 Γst
 
-$$\Gamma_{st} = \text{NMI}(M_s,\ M_T) \cdot \text{sign}(\text{Mantel}(D_A,\ D_{FC})) \in [-1, 1]$$
+> **版本**：v2.0（2026-09-01 锁定，取代旧 sign(Mantel) 定义）
+
+**主定义（已采纳）**：
+
+$$\Gamma_{st} = \tanh\!\left(\frac{\mathrm{AMI}(M_s,M_T)}{\Gamma_0}\right) \in (-1,1)$$
+
+$$\mathrm{AMI}=\frac{I(M_s;M_T)-\mathbb{E}[I]_{\mathrm{null}}}{\max\!\left(\tfrac12[H(M_s)+H(M_T)]-\mathbb{E}[I]_{\mathrm{null}},\ 10^{-10}\right)}$$
+
+- $\Gamma_0 \in [0.8, 1.2]$，E1 实验标定后冻结（先验最优 $\Gamma_0\approx 1.0$）
+- 旧定义 $\text{NMI}\cdot\text{sign}(\text{Mantel})$ 已废弃（零点跳跃、空间自相关膨胀、NMI虚高三处硬伤）
+- 详见：`40_iNEST/41_Theory/Gamma_st_Definition_Revision_Proposal_2026-08-07.md`
 
 ---
 

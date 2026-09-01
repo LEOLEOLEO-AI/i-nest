@@ -9,7 +9,8 @@ processed: 2026-08-11 21:49
 ---
 title: "Γst 定义修订提案：判断、方案与依据"
 date: "2026-08-07"
-status: "[评审提案] 待团队评审后定稿"
+updated: "2026-09-01"
+status: "[已采纳] 主定义锁定，四项补充已写入"
 direction: "iNEST"
 tags: [CST, Γst, AMI, Mantel, 时空协同, 修订]
 ---
@@ -46,32 +47,44 @@ Vinh, Epps & Bailey (2010) 证明 NMI 随社区数增加而系统性虚高，纯
 
 ## 3. 修订定义
 
-### 3.1 主定义
+### 3.1 主定义（已采纳，2026-09-01 锁定）
 
 $$
 \Gamma_{st}=\tanh\!\left(\frac{\mathrm{AMI}(M_s,M_T)}{\Gamma_0}\right)
 $$
 
 $$
-\mathrm{AMI}=\frac{I(M_s;M_T)-\mathbb{E}[I]_{\mathrm{null}}}{\tfrac12[H(M_s)+H(M_T)]-\mathbb{E}[I]_{\mathrm{null}}}
+\mathrm{AMI}=\frac{I(M_s;M_T)-\mathbb{E}[I]_{\mathrm{null}}}{\max\!\left(\tfrac12[H(M_s)+H(M_T)]-\mathbb{E}[I]_{\mathrm{null}},\ \varepsilon\right)},\quad \varepsilon=10^{-10}
 $$
+
+> **补充1（分母零除保护）**：分母加 $\varepsilon=10^{-10}$，防止单社区极端情况（$H_s\approx 0$）时零除。
 
 性质：
 
 - 机会校正：扣除随机划分期望互信息；
 - 符号自然：低于零模型时 AMI 为负，即反耦合；
-- 光滑：$\tanh$ 保证 $\Gamma_{st}\in(-1,1)$ 且处处可微；
+- 光滑：$\tanh$ 保证 $\Gamma_{st}\in(-1,1)$ 且处处可微；零点梯度 $\mathrm{d}\Gamma_{st}/\mathrm{d}(\mathrm{AMI})|_0=1/\Gamma_0$，有限非零；
 - 空间零模型：$\mathbb{E}[I]_{\mathrm{null}}$ 由保度序、保空间嵌入的替代网络生成，吸收空间自相关来源。
 
-### 3.2 更稳健的备选定义（推荐并行验证）
+> **补充2（Γ₀ 先验约束）**：数值检验表明 $\Gamma_0\approx 1.0$ 时，AMI=0.17（C. elegans 参考）映射到 $\Gamma_{st}=0.168$，最接近生物文献值。E1 标定实验先验搜索范围定为 $\Gamma_0\in[0.8,1.2]$，实验完成后冻结，**不得事后调整**。
 
-为避免 Louvain 划分简并性，可用节点对级连续对齐替代社区级划分：
+### 3.2 备选定义（节点对级，与主定义并行验证）
+
+为避免 Louvain 划分简并性，用节点对级连续对齐替代社区级划分：
 
 $$
 \Gamma_{st}=\tanh\!\left(\frac{\rho\big(\mathrm{Sim}_S,\mathrm{Sim}_F\big)-\mathbb{E}_0[\rho]}{\Gamma_0}\right)
 $$
 
-其中 $\mathrm{Sim}_S$、$\mathrm{Sim}_F$ 分别是结构相似矩阵与功能相似矩阵的上三角元素，$\mathbb{E}_0[\rho]$ 在空间约束置换零模型下估计。该式不依赖社区划分，机会校正与空间自相关校正都保留。
+其中：
+- $\mathrm{Sim}_S$：结构相似矩阵，$\mathrm{Sim}_S(i,j)=\cos(\mathbf{a}_i,\mathbf{a}_j)$（节点邻接向量余弦相似度）；
+- $\mathrm{Sim}_F$：功能相似矩阵，$\mathrm{Sim}_F(i,j)=\mathrm{corr}(\mathbf{x}_i,\mathbf{x}_j)$（激活时间序列 Pearson 相关）；
+- 取两矩阵上三角元素向量，计算 Pearson 相关 $\rho$；
+- $\mathbb{E}_0[\rho]$ 在空间约束置换零模型下估计（保节点度序和空间嵌入，置换次数 ≥ 1000）。
+
+> **补充3（SimS/SimF 算法明确）**：余弦相似度用于结构矩阵（对稀疏连接组友好），Pearson 相关用于功能矩阵（与 FC 文献一致）。若节点无时间序列（静态网络），$\mathrm{Sim}_F$ 改用 Jaccard 重叠度。
+
+该式不依赖社区划分，机会校正与空间自相关校正均保留，与主定义共用同一 $\Gamma_0$。
 
 ### 3.3 强度—广延分工
 
@@ -90,11 +103,20 @@ $$
 
 | 依据 | 来源 | 核实状态 |
 |---|---|---|
-| O-information 符号约定：$\Omega>0$ 冗余主导、$\Omega<0$ 协同主导 | Rosas, Mediano, Gastpar, Jensen, *Phys. Rev. E* 100, 032305 (2019)，[DOI](https://doi.org/10.1103/PhysRevE.100.032305)；arXiv [1902.11239](https://arxiv.org/abs/1902.11239) | 已核对原文 Definition 2 |
+| O-information（已移至 §3.4 交叉验证工具，不参与主定义） | — | — |
 | Mantel 检验在空间自相关下第一类错误膨胀 | Guillot & Rousset, *Methods Ecol. Evol.* 4, 336 (2013)，[DOI](https://doi.org/10.1111/2041-210x.12018) | 已核对 DOI 与题名 |
 | NMI 机会虚高，需使用调整指标 | Vinh, Epps & Bailey, *JMLR* 11, 2837 (2010)，[链接](https://jmlr.org/papers/v11/vinh10a.html) | 文献真实，结论与提案一致 |
 | Louvain/模块度景观简并 | Good, de Montjoye & Clauset, *Phys. Rev. E* 81, 046106 (2010)，[DOI](https://doi.org/10.1103/PhysRevE.81.046106) | 文献真实 |
 | 小世界系数 σ 定义 | Humphries & Gurney, *PLoS ONE* 3, e0002051 (2008)，[DOI](https://doi.org/10.1371/journal.pone.0002051)；非 Watts & Strogatz 1998 | 文献归属已核对 |
+
+### 3.4 交叉验证工具：O-information（补充4）
+
+> **补充4（O-information 角色重定位）**：O-information（$\Omega$）**不参与** $\Gamma_{st}$ 主定义，仅作独立交叉验证工具。
+> - 若主定义结果与 $\Gamma_{st}\propto-\Omega$ 一致 → 作为佐证记录；
+> - 若不一致 → 优先以主定义为准，记录差异原因。
+> - Rosas et al. (2019) *Phys. Rev. E* 100, 032305 引用保留，标注"交叉验证工具，不影响主定义"。
+
+---
 
 ## 5. 实施步骤
 
