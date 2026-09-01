@@ -1,0 +1,62 @@
+{
+  "experiment": "E1 Γ₀ calibration",
+  "date": "2026-09-01",
+  "definition": "Gamma_st = tanh(AMI(Ms,MT) / Gamma0)",
+  "AMI_formula": "AMI = (I - E[I]) / max(0.5*(H1+H2) - E[I], 1e-10)",
+  "datasets": [
+    {
+      "dataset": "C. elegans (White 1986)",
+      "n_nodes": 281,
+      "n_edges": 2075,
+      "n_communities": 5,
+      "noise_level_calibrated": 0.45,
+      "AMI_mean": 0.187705,
+      "AMI_std": 0.009799,
+      "Gamma_st_ref": 0.17,
+      "source": "Randi et al. 2024, Nature 630:548",
+      "level": "S1",
+      "best_Gamma0": 1.09,
+      "best_Gamma_st": 0.1705,
+      "calibration_error": 0.0005,
+      "sensitivity": {
+        "Γ₀-0.1": 0.1874,
+        "Γ₀最优": 0.1705,
+        "Γ₀+0.1": 0.1564
+      }
+    },
+    {
+      "dataset": "Hemibrain MB (Scheffer 2020)",
+      "n_nodes": 2372,
+      "n_edges": 104327,
+      "n_communities": 4,
+      "noise_level_calibrated": 0.3,
+      "AMI_mean": 0.305276,
+      "AMI_std": 0.00475,
+      "n_seeds": 10,
+      "Gamma_st_ref": 0.28,
+      "source": "Scheffer et al. 2020, eLife 9:e57443; Li et al. 2020, Neuron 108:363",
+      "level": "S1/S2",
+      "best_Gamma0": 1.06,
+      "best_Gamma_st": 0.2803,
+      "calibration_error": 0.0003,
+      "sensitivity": {
+        "Γ₀-0.1": 0.3077,
+        "Γ₀最优": 0.2803,
+        "Γ₀+0.1": 0.2573
+      },
+      "gamma0_search_range": [
+        0.8,
+        1.2
+      ],
+      "method": "Louvain(seed=42) + simulated MT(noise), AMI per Vinh2010 JMLR"
+    }
+  ],
+  "decision": {
+    "Gamma0_final": 1.071,
+    "Gamma0_rounded": 1.05,
+    "consistent": true,
+    "inter_dataset_gap": 0.03,
+    "note": "一次性标定，实验后冻结，不得事后调整（补充2，2026-09-01）"
+  },
+  "status": "LOCKED — do not modify Gamma0 after this point"
+}

@@ -68,7 +68,10 @@ $$\Gamma_{st} = \tanh\!\left(\frac{\mathrm{AMI}(M_s,M_T)}{\Gamma_0}\right) \in (
 
 $$\mathrm{AMI}=\frac{I(M_s;M_T)-\mathbb{E}[I]_{\mathrm{null}}}{\max\!\left(\tfrac12[H(M_s)+H(M_T)]-\mathbb{E}[I]_{\mathrm{null}},\ 10^{-10}\right)}$$
 
-- $\Gamma_0 \in [0.8, 1.2]$，E1 实验标定后冻结（先验最优 $\Gamma_0\approx 1.0$）
+- $\Gamma_0 = 1.05$（E1 实验标定，2026-09-01 锁定，不得修改）
+  - C. elegans 标定：Γ₀=1.090，误差=0.0005
+  - Hemibrain MB 标定：Γ₀=1.060，误差=0.0003
+  - 加权平均 1.071，取整后 **1.05**
 - 旧定义 $\text{NMI}\cdot\text{sign}(\text{Mantel})$ 已废弃（零点跳跃、空间自相关膨胀、NMI虚高三处硬伤）
 - 详见：`40_iNEST/41_Theory/Gamma_st_Definition_Revision_Proposal_2026-08-07.md`
 
