@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
+[[3d]]
 [[AI_Assisted_Energy_Management]]
 [[AI_Enabled_Battlefield_Autonomy]]
 [[Accessibility_Plasticity]]
@@ -34,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[BiologicalNoiseMimicry]]
 [[BrownianCastleInterface]]
 [[CompartmentalNeuronModel]]
+[[CoreComputationSubspace]]
 [[CriticalStateSelfOrganization]]
 [[HigherAreaRankingDivergence]]
 [[Interconnect_Routing]]

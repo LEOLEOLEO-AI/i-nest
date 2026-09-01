@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3D_IC_Stacking]]
+[[3d]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[Bipartite_Interconnect]]
 [[Bipartite_Interconnect_Design]]
@@ -35,11 +36,15 @@ Auto-extracted concept from raw material compilation.
 [[ERI_2_0_Strategic_Framework]]
 [[EndToEndLinkSimulation]]
 [[Environmental_Capability_Context]]
+[[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
 [[HierarchicalSpikePropagation]]
 [[InSensorComputing]]
+[[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]
+[[Network_on_Chip]]
+[[NoC]]
 [[NoC_EventRouting]]
 [[PacketRoutingOptimization]]
 [[QuarantineCostTradeoff]]

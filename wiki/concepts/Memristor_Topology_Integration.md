@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[ReconfigurablePhotonicNetwork]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
+[[SDSoW_Reconfigurable_Network]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]

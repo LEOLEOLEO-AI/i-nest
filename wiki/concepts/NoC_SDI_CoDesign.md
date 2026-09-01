@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3DHI_Interconnect]]
+[[3d]]
 [[Additive_Manufacturing_Topology]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
@@ -47,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Interconnect]]
 [[SDI_NoC_Fusion]]
 [[SDI_Topology]]
+[[SmallWorldTopologyOptimization]]
 [[SparseTemporalEncoding]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]

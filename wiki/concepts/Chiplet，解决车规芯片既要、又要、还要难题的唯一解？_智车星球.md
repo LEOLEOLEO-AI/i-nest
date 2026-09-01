@@ -49,6 +49,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[LLM_Assisted_Hardware_Design]]
 [[MemristiveMEMSResonator]]
 [[Network_Topology_Design]]
+[[ResearchAreaEmergence]]
 [[Reservoir_Computing]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]

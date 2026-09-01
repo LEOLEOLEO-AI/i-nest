@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Orientation_Encoding_Latent_Spaces]]
 [[Receptron_Unit]]
+[[ReconfigurableSNNTopology]]
 [[SNN]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]

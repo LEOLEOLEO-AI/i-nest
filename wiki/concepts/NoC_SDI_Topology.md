@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3DHI_Interconnect]]
+[[3d]]
 [[Additive_Manufacturing_Topology]]
 [[AdvancedPackagingInterconnect]]
 [[Advanced_Packaging]]
@@ -50,11 +51,12 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_Topology]]
 [[SDSoW]]
+[[SDSoW_Architecture]]
+[[SparseTemporalEncoding]]
 [[SparsityAwareInterconnect]]
 [[TCC]]
 [[WaferScale_Chiplet_Interconnect]]
 [[WideLink_NoC_Router]]
-[[advanced packaging]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

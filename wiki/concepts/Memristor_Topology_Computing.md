@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Faculty_Forum_2026]]
+[[Attention_Residuals]]
 [[In_Memory_Computing]]
 [[Memristor]]
 [[Memristor_Synapse]]

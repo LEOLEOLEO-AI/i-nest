@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[HardwareAware_SelfOrganization]]
 [[Intelligence_Emergence]]
 [[LLM_Reward_Design]]
+[[Modularity_Decline]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]

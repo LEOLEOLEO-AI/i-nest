@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[3D_Integrated_Chiplet_Stacking]]
 [[3D_Torus_6_Degree]]
+[[3d]]
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_Assisted_Energy_Optimization]]
 [[ANN_to_SNN_Conversion_Error_Amplification]]
@@ -30,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[ActivityPropagationCascade]]
 [[AddressRedundancyElimination]]
 [[Adjoint_Gradient_Propagation]]
+[[BulletTrainScheduling]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]

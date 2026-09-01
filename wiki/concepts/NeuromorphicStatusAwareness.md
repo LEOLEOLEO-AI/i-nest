@@ -21,9 +21,11 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3D_Torus_6_Degree]]
+[[3d]]
 [[AI_Faculty_Forum_2026]]
 [[BackflowTransformation]]
 [[BigBrainCellularAxis]]
+[[BurstTemporalPlasticity]]
 [[Complex_System_Theory]]
 [[Event_Driven_Architecture]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]

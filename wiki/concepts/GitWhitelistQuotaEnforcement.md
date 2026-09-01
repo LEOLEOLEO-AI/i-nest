@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[DisorderedNetworkInterconnect]]
 [[DistributedEventConditionDesign]]
+[[EnergyLandscape_Regularization]]
 [[EventTriggeredDistributedControl]]
 [[HigherOrderConnectivity]]
 [[Intelligence_Emergence]]

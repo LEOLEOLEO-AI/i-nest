@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[DifferentiableRasterizationPipeline]]
 [[DimensionalityReductionPrinciple]]
 [[Driven_Criticality]]
+[[EvolvingArchitectureDynamics]]
 [[InNetworkComputing]]
 [[Interconnect_Routing]]
 [[Local_Approximation_Dynamics]]

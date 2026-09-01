@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[CurrentInjectionSNN]]
 [[DeepSpikingEnsembleLayers]]
 [[DirectTrainingSNN]]
+[[Direct_Training_Spiking_Neural_Networks]]
 [[EnergyEfficientNeuromorphic]]
 [[EvolutionarySpikeTimingOptimization]]
 [[Frontier_Innovation_Mapping]]

@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[OpportunisticRouting]]
 [[P_Paradigm]]
 [[ReputationPropagation]]
+[[ResourceAwareCompilation]]
 [[StochasticMultiAgentRL]]
 [[TopologicalDataCompression]]
 [[TopologyAwareSemanticRouting]]

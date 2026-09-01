@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[CriticalFluctuationReservoir]]
 [[DissipativeQuantumReservoir]]
+[[Emergent_Reservoir_Topology]]
 [[FerroelectricSemiconductorReservoir]]
 [[Ferroelectric_Devices]]
 [[GroupInteractionThreshold]]

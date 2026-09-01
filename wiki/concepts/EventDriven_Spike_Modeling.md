@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AcousticAnomalyDetection]]
 [[ActiveDendriteSNN]]
 [[AdaptiveFrequencyResonateAndFire]]
+[[Adaptive_Replication_Strategy]]
 [[Agent_Interaction_Sequencing]]
 [[AsynchronousEventDrivenComputation]]
 [[Avoided_Criticality]]

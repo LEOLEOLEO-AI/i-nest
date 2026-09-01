@@ -56,6 +56,8 @@ Auto-extracted concept from raw material compilation.
 [[NoiseModulated_Backprop]]
 [[OnlineSelfSupervisedESN]]
 [[OpportunisticRoutingRL]]
+[[OpportunisticRouting]]
+[[Optimal_Representation_Geometry]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SOC]]
 [[catastrophic forgetting]]

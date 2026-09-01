@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AdiabaticModeEvolution]]
 [[AutonomousAdaptation]]
 [[DTGA]]
+[[Emergent_Order_Deep_Belief_Networks]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]

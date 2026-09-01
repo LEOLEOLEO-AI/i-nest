@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[Neuromorphic_Selective_State_Space]]
 [[Neuromorphic_Spiking_Integration]]
+[[NoiseModulated_SynapticPlasticity]]
 [[PerturbationSpaceTrajectory]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]

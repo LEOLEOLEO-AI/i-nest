@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Driven_Power_Density_Scaling]]
 [[AI_Forum_Demo_Narrative]]
 [[AcademicDevelopmentCoCreation]]
+[[ActiveDendriteSNN]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 

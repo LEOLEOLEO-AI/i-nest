@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Independent_EdgeAI_Player_Endgame]]
 [[Intelligence_Emergence]]
 [[Intelligent_Power_Management]]
+[[Koopman_Constants_Of_Motion]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Spatiotemporal_Synergy]]
 [[Network_Topology_Design]]

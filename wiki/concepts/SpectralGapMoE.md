@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AdiabaticMultimodeBend]]
 [[AdjointWaveControl]]
 [[AdsorptionBiosorptionHybrid]]
+[[Cache_Aware_Flow_Scheduling]]
 [[CircuitTopologyEncoding]]
 [[Complex_System_Theory]]
 [[ControlDrivenCriticalFluctuations]]

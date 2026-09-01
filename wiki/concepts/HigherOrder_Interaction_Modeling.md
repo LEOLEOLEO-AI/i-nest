@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_To_Information_Conversion]]
 [[ArtificialProprioception]]
 [[Attention_Residuals]]
+[[Bio_plausible_Neuromorphic_Disturbance_Observer]]
 [[BoundaryObject_Abstraction]]
 [[CST计量仪]]
 [[Complex_Network_Brain_Inspired_Computing]]

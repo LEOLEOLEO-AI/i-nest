@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[BitPrecisionAwareScheduling]]
 [[Complex_System_Theory]]
+[[ControlDrivenCriticalFluctuations]]
 [[Critical_Region_Extension]]
 [[Defense_Industrial_Base_Reshaping]]
 [[DelayTolerantNetworkUAV]]

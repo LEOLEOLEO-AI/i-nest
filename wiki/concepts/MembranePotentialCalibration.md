@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[PopulationDensityApproximation]]
+[[PowerLaw_Analysis]]
 [[SDDE_Attractor_Emergence]]
 [[SNN]]
 [[Self_Organized_Criticality]]

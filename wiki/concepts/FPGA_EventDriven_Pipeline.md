@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Activity_Energy_Tradeoff]]
 [[Avoided_Criticality]]
 [[BulletTrainScheduling]]
 [[CorticalWaveRouting]]

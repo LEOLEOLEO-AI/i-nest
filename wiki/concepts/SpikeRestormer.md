@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[BurstSuppression]]
 [[Contested_Prior_Resolution]]
+[[ContinuousControlConversion]]
 [[ContinuousTimeSNN]]
 [[Criticality]]
 [[DelayAwareSpikeEventDelivery]]

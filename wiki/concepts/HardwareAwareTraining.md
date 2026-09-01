@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[EventCameraTemporalEncoding]]
 [[ExtinctionDrivenMetastability]]
 [[Fast_Response_Actuator]]
+[[InteractingQuasiPeriodicChain]]
 [[Interconnect_Routing]]
 [[NonHermitianSpectralCorrelations]]
 [[RateEncodedSpikingNeuralNetwork]]

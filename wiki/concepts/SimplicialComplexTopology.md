@@ -41,6 +41,8 @@ Auto-extracted concept from raw material compilation.
 [[BCM滑动阈值]]
 [[BeamDomainMLFingerprinting]]
 [[BifurcationCandidateSet]]
+[[BifurcationCandidate]]
+[[CST_Synergy_Coordination]]
 [[CollectiveDynamics]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]

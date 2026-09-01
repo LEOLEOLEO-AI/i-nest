@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[BayesianConnectivityEstimation]]
 [[BioInspired_Interception_Control]]
 [[Cognitive_Relapse_Decoupling]]
+[[CriticalityDrivenAdaptation]]
 [[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[DiffusionInducedInstability]]

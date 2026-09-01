@@ -21,13 +21,18 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[ChipletOnWafer]]
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_NoC_Fabric]]
 [[Chiplet_Stacking]]
 [[CongestionAwareNoCPlacement]]
 [[ConvexNonConvexTradeoff]]
 [[Defense_Industrial_Base_Reshaping]]
+[[DynamicServiceComposition]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
+[[NoC]]
 [[P_Paradigm]]
 [[TCC]]
 

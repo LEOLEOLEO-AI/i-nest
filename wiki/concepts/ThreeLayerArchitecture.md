@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect_Topology]]
 [[DiagnosticReportFramework]]
 [[EulaminateOverrepresentation]]
+[[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
 [[GlobalDecision_LocalExecution_ControlPlane]]
@@ -51,9 +52,11 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TemporalComplexity]]
 [[ThirdWaveAI]]
+[[TopologyCentricComputing]]
 [[TopologyCentricPrimitiveSystem]]
 [[TopologyProgramming]]
 [[WaferScaleTopologyCentricComputing]]
+[[Wafer_Chiplet_Topology_Interconnect]]
 [[Wafer_Scale_Integration]]
 
 ## Sources

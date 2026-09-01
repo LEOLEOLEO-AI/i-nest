@@ -28,7 +28,10 @@ Auto-extracted concept from raw material compilation.
 [[Decoupled_Priors]]
 [[DiagnosticReportFramework]]
 [[DynamicServiceComposition]]
+[[ElectromigrationReliability]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
+[[NoC]]
 [[TCC]]
 
 ## Sources
@@ -36,3 +39,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- Physical_Neural_Network (merged 2026-09-02)

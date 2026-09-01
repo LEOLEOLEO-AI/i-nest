@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_iNEST]]
 [[SpikeCodingProbabilisticVariables]]
 [[Spiking_Neural_Network]]
+[[StochasticDelayInference]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[TemporalBatchSynchronization]]

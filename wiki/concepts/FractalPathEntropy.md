@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[Order_Flexibility_Duality]]
 [[PathIntegration]]
+[[PromptBasedTimeSeriesForecasting]]
 [[Reservoir_Computing]]
 [[SNN]]
 [[ScaleFreeNetwork]]

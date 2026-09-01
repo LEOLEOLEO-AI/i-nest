@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[3D_Torus_6_Degree]]
+[[3d]]
 [[AI_Faculty_Forum_2026]]
 [[BigBrainCellularAxis]]
 [[CIMWeightUpdateAwareness]]
@@ -43,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[Neuromorphic_Selective_State_Space]]
+[[NoiseModulated_SynapticPlasticity]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]

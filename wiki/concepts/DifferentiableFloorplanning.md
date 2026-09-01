@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[FatalityDrivenRewiring]]
 [[HybridConvexOptimization]]
 [[InSitu_Adjoint_Wave_Control]]
+[[Inference_Workload_Profiling]]
 [[Intelligence_Emergence]]
 [[InterconnectDrivenCostFunction]]
 [[Interconnect_Routing]]

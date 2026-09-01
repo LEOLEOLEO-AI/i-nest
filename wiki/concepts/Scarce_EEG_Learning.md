@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[SelfOrganization]]
 [[SelfOrganizedOscillatoryLearning]]
 [[StochasticBinaryNetwork]]
+[[TCC]]
 [[ThirdWaveAI]]
 [[Topology_Centric_Neuromorphic]]
 [[Wafer_Scale_Integration]]

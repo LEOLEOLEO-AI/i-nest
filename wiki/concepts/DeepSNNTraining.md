@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN_to_SNN_Conversion_Error_Amplification]]
 [[AddressRedundancyElimination]]
 [[AnisotropicGaussianPrimitives]]
+[[BehaviorPreservingNetworkSparsity]]
 [[Contested_Prior_Resolution]]
 [[CrossLayer_SignalRouting]]
 [[DiscreteContinuous_Unification]]

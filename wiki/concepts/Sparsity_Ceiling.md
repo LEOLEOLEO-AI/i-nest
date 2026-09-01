@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[NoiseModulated_SynapticPlasticity]]
 [[OcclusionHandlingStrategy]]
+[[OpportunisticRoutingRL]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking neural network]]

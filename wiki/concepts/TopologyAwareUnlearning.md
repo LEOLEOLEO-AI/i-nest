@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[InterChipletPHYModeling]]
 [[Interconnect_Routing]]
+[[InterfaceCentricTopology]]
 [[Memristive_Interconnect]]
 [[Memristive_Topology]]
 [[MetaFAIR_ArchitectureDiscovery]]

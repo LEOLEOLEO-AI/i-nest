@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[Generative_Graph_Models]]
 [[Interconnect_Routing]]
+[[JumpDiffusion_StochasticQuantization]]
 [[Material_Circularity]]
 [[Network_State_Awareness]]
 [[Network_Topology_Design]]

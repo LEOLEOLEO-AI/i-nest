@@ -27,7 +27,10 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveFunctionalTopology]]
 [[Additive_Manufacturing_Supply_Chain]]
 [[AdjointWaveControl]]
+[[AmoebaInspiredLocomotion]]
+[[Liquid_AI]]
 [[Network_Topology_Design]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
 

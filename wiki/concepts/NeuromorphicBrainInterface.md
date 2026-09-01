@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[BrainInspiredArchitecture]]
 [[ConductingPolymerDendriteMemory]]
 [[EnergyEfficientRestoration]]
+[[EventBasedBioSignalFrontEnd]]
 [[EventStrengthEncoding]]
 [[Event_Driven_Architecture]]
 [[In_Network_Neuromorphic]]

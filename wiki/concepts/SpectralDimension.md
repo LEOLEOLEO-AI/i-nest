@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[DTGA]]
 [[Dynamic_Expert_Fusion]]
 [[ExtensiveWidthShallowNN]]
+[[FerroelectricMemoryCell]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]

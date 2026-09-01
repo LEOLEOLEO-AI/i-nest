@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Complex_System_Theory]]
 [[Contested_Prior_Resolution]]
+[[Contested_Priors_Mechanism]]
 [[Memristive_STDP]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]

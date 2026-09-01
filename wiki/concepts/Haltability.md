@@ -57,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Topology_Control]]
 [[SDI_iNEST_Encapsulation]]
 [[STDP_Plasticity]]
+[[ScalabilityFaultToleranceTradeoff]]
 [[Software_Defined_Interconnect]]
 [[Synaptic_Plasticity]]
 [[TCC]]

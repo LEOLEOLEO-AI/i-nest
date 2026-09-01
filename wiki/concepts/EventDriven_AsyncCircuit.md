@@ -27,9 +27,11 @@ Auto-extracted concept from raw material compilation.
 [[BrainInspired_Chip]]
 [[BurstGatedRouting]]
 [[ContinualLearningOnNeuromorphic]]
+[[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Scheduling]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Topology]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

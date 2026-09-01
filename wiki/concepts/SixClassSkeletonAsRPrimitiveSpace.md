@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[ElectromigrationReliability]]
 [[EulaminateOverrepresentation]]
 [[EventTriggeredDistributedControl]]
+[[GeneralIntelligenceSubstrate]]
 [[GraphBasedSemanticRouting]]
 [[Haltability]]
 [[Heterogeneous_Integration]]

@@ -26,6 +26,8 @@ Auto-extracted concept from raw material compilation.
 [[ContinualLearningOnNeuromorphic]]
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[Event_Driven_Architecture]]
+[[Event_Driven_Spike_Communication]]
+[[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
 [[Spiking_Neural_Network]]
 [[TCC]]

@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Offload]]
 [[LIF_Neuron_Model]]
+[[Memristive_STDP]]
 [[Memristive_Spike_Integration]]
 [[Memristor]]
 [[Memristor_Crossbar]]

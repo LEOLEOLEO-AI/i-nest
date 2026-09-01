@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Deep_Brain_Stimulation]]
 [[Adaptive_Intelligence_Principle]]
 [[AnytimePointCloudRecognition]]
+[[ArtificialProprioception]]
 [[Neuromorphic_Computing]]
 [[iNEST]]
 

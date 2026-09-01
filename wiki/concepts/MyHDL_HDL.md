@@ -21,12 +21,15 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Faculty_Forum_2026]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[Asynchronous_Handshake_Protocol]]
 [[Attention_Residuals]]
 [[Bias_Origin_Taxonomy]]
 [[BoundaryObject_Abstraction]]
 [[ComputationEfficientDeepLearning]]
+[[Deep_Network_Architecture_Invariant]]
+[[EfficientDeepLearning]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]

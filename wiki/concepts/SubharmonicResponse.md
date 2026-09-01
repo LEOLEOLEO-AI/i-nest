@@ -38,8 +38,10 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Learning]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
+[[SpikeCodedFeatureAssociation]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
+[[iNEST]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

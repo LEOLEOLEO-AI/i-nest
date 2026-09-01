@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[BrainBodyResonance]]
 [[CST_Equation]]
+[[ChannelCountScaling]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]

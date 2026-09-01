@@ -24,11 +24,15 @@ Auto-extracted concept from raw material compilation.
 [[AcousticAnomalyDetection]]
 [[ActivityAvalanche]]
 [[Activity_Energy_Tradeoff]]
+[[AdaptiveAsymmetricSurrogateGradient]]
 [[AdaptiveAsymmetricSurrogateGradients]]
 [[AdaptiveDeltaPulseFrequencyEncoding]]
+[[AdaptiveFrequencyResonateAndFire]]
 [[Criticality]]
 [[Neuromorphic_Computing]]
+[[SNN]]
 [[Self_Organized_Criticality]]
+[[Spiking_Neural_Network]]
 [[iNEST]]
 
 ## Sources

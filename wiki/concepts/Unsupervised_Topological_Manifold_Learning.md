@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[DisorderedNetworkInterconnect]]
 [[EarlyVisual_Cortex_Modeling]]
 [[Edge_Intelligence]]
+[[EnergyEfficiencyAI]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

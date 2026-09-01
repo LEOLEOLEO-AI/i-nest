@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[CommunicationAwareComputeRelocation]]
 [[Complex_System_Theory]]
 [[DTGA]]
+[[EntanglementAwareRouting]]
 [[FatalityDrivenRewiring]]
 [[Free_Energy_Topology_Mapping]]
 [[GenerativeTopologyModels]]

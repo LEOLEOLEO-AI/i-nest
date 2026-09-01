@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[ActivityAvalanche]]
 [[AdversarialSpikePerturbation]]
 [[Agent_Interaction_Sequencing]]
+[[Attention_Mechanism_in_SNN]]
 [[Avoided_Criticality]]
 [[Baseline_Change_Record]]
 [[BioInspiredInterceptionTask]]

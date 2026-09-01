@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[DeviationScalingIndex]]
 [[ErrorSuppressedPipeline]]
 [[FlexibilityThreshold]]
+[[GradientBasedSpikeLearning]]
 [[HierarchicalReservoirDynamics]]
 [[MemristiveSynapticFatigue]]
 [[Neuromorphic_Computing]]

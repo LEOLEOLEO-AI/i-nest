@@ -25,10 +25,13 @@ Auto-extracted concept from raw material compilation.
 [[AsynchronousNeuromorphicHardware]]
 [[Autonomous_Spiking_Dynamics]]
 [[Bidirectional_Temporal_Enhancement]]
+[[Efficient_Coding_Constraint]]
 [[Event_Driven_Architecture]]
 [[InputAdaptiveComputation]]
 [[Memory_Wall]]
+[[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
+[[Spiking_Neural_Network]]
 [[iNEST]]
 
 ## Sources

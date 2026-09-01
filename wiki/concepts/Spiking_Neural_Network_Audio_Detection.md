@@ -41,6 +41,8 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenAttentionMechanism]]
 [[EventDrivenComputation]]
 [[EventDrivenInferencePipeline]]
+[[EventDrivenInference]]
+[[EventDrivenPlasticity]]
 [[Event_Driven_Architecture]]
 [[Event_Driven_Computation]]
 [[Event_Driven_Selective_Scan]]

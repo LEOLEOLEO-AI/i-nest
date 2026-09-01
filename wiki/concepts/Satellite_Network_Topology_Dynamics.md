@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Kinematic_Waves]]
 [[Nanoparticle_Network_Interconnect]]
 [[Network_Topology_Design]]
+[[OpportunisticRouting]]
 [[P_Paradigm]]
 [[TCC]]
 [[涌现]]

@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstSuppression]]
 [[CoOptimizedMappingScheduling]]
 [[CollectiveSpikingDynamics]]
+[[ContinuousControlConversion]]
 [[ContinuousTimeSNN]]
 [[Criticality]]
 [[DelayAwareSpikeEventDelivery]]

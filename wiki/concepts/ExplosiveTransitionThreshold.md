@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[3D_Torus_6_Degree]]
+[[3d]]
 [[AnomalousSpinTransport]]
 [[BigBrainCellularAxis]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
@@ -57,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Neuromorphic]]
 [[Yann LeCun：发现智能原理是AI的终极问题]]
 [[向大脑学习智能本质，探索通用 AI 的另一条可行路径]]
+[[忆阻器]]
 [[智能涌现]]
 [[涌现]]
 [[神经形态脉冲大语言模型（NSLLM）]]

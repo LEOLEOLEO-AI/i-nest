@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3DHI_Interconnect]]
+[[3d]]
 [[Additive_Manufacturing_Topology]]
 [[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
@@ -30,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect]]
 [[Chiplet_NoC_Interconnect]]
 [[CongestionAwareNoCPlacement]]
+[[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
 [[Heterogeneous_Integration]]
@@ -51,13 +53,13 @@ Auto-extracted concept from raw material compilation.
 [[RenormalizationGroup_ScalingLaws]]
 [[RenormalizationGroup_Scaling]]
 [[SDI_Bond]]
+[[SDI_NPU_NoC_Integration]]
 [[SDI_NoC_Integration]]
 [[SDI_Topology]]
 [[SparsityAwareInterconnect]]
 [[TCC]]
 [[WaferScale_Chiplet_Interconnect]]
 [[WideLink_NoC_Router]]
-[[advanced packaging]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

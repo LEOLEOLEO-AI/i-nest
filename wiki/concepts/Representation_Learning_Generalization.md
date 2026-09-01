@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Topology_Mapping]]
 [[ImmobilizationStabilityMechanism]]
 [[Intelligence_Emergence]]
+[[LLMDrivenPathSelection]]
 [[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Self_Organized_Criticality]]

@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[MoE_Routing]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Orientation_Encoding_Latent_Spaces]]
 [[Receptron_Unit]]
 [[ReconfigurableSNNTopology]]
 [[SNN]]

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[20W_Brain_Inspired_Planning]]
 [[3D_Integration]]
 [[3D_Torus_6_Degree]]
+[[3d]]
 [[AI_Driven_Architecture_Search]]
 [[AI_Enabled_Battlefield_Autonomy]]
 [[AI_Forum_Demo_Narrative]]
@@ -47,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[TravelTimeEstimation]]
+[[ViewDependentAppearance]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

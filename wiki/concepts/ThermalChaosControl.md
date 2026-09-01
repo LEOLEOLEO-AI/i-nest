@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[ArbitraryWavefunctionConfigurability]]
 [[AutonomousAdaptation]]
 [[BayesianDomainEvolution]]
+[[BehavioralFeedbackLoop]]
 [[BioInspiredLearningRule]]
 [[BrainScaleTopologyExploitation]]
 [[ChannelEventSparsity]]

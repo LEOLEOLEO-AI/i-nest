@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveArchitecture]]
 [[AdaptiveEntanglementManagement]]
 [[AdaptiveFunctionalTopology]]
+[[AdaptiveGraphDiffusion]]
 [[AdjointWaveControl]]
 [[AgenticServiceOrchestration]]
 [[Agile_Resilient_Defense_Ecosystem]]

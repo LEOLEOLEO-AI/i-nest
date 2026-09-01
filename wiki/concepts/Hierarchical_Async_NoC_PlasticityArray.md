@@ -20,13 +20,19 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[CorticalWaveRouting]]
 [[Event_Driven_Architecture]]
 [[In_Network_Neuromorphic]]
+[[Interconnect_Routing]]
 [[LLM_Driven_NoC_Control]]
 [[Network_on_Chip]]
+[[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[Neuromorphic_NoC_Routing]]
 [[NoC]]
+[[SNN]]
 [[ST_SNN]]
+[[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]

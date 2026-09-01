@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Evaluation_Metric_Suite]]
 [[GenerationalAITransition]]
 [[Intelligence_Emergence]]
+[[LLM_TopologicalReplicationGap]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]

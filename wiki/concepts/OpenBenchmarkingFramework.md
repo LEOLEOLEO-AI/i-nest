@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3D_Torus_6_Degree]]
+[[3d]]
 [[Allreduce_Latency_Probe]]
 [[CSI_Temporal_Encoding]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
@@ -31,10 +32,12 @@ Auto-extracted concept from raw material compilation.
 [[EdgeIoTEnergyAwareness]]
 [[Event_Driven_Architecture]]
 [[Hardware_Accelerated_SNN]]
+[[Hardware_Neuron_Equations]]
 [[Heterogeneous_Integration]]
 [[HigherOrderSimplicialDynamics]]
 [[In_Package_Neuromorphic_Integration]]
 [[Intelligence_Emergence]]
+[[Interconnect_Routing]]
 [[Nat Commun丨国防科技大学胡德文等团队揭示用于同时编码时空动态的多突触脉冲神经元]]
 [[Nature Communications_生物神经网络中突触多样性如何让人工神经网络更强大？]]
 [[Network_Topology_Design]]
@@ -43,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[OpportunisticRoutingRL]]
+[[OpportunisticRouting]]
 [[PowerOfTwoWeightQuantization]]
 [[Reservoir_Computing]]
 [[SNN]]

@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[HierarchicalModularReservoirs]]
 [[In_Context_Learning]]
 [[Intelligence_Emergence]]
+[[Master_SDDE]]
 [[Network_Topology_Design]]
 [[Phase_Transition_Tail_Transition]]
 [[Reservoir_Computing]]

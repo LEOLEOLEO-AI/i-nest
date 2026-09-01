@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Hebbian_Embedding_Dynamics]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
+[[LossSpikeMechanism]]
 [[Memristive_STDP]]
 [[Memristor]]
 [[Memristor_Synapse]]

@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[12_三原理协同_FEP_最小作用量_STDP]]
 [[4H_SiC_SubstrateProcessing]]
 [[ASIC_Dualism]]
+[[Analog_InMemory_Processing]]
 [[BackpropagationFreeLearning]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[BayesianConnectivityEstimation]]
 [[BioInspired_Interception_Control]]
+[[CircuitTopologyEncoding]]
 [[Cognitive_Relapse_Decoupling]]
 [[Continual_Learning_Modularity]]
 [[CounterstreamSignalPropagation]]

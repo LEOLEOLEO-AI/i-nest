@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neural_Avalanche]]
 [[Neural_Avalanche_Dynamics]]
+[[PolarizationModulatedPhotoresponse]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[Self_Organized_Criticality]]

@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[OpticalNonlinearity]]
 [[RenormalizationGroup_DeviceNonlinearity]]
+[[ReproducibleReservoirComputing]]
 [[Reservoir_Computing]]
 [[complex system]]
 [[iNEST]]

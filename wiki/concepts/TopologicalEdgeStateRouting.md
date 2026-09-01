@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicTransformerTopology]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[Neuromorphic_Packaging]]
 [[QuantumKernelMethods]]
 [[Resilient_Satellite_Mesh]]
 [[SNN]]

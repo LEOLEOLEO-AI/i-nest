@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[3DHI_Integration]]
 [[3DHI_Stacking]]
+[[3d]]
 [[AI_Driven_Architecture_Search]]
 [[AI_Faculty_Forum_2026]]
 [[AI_Forum_Demo_Narrative]]
@@ -31,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[BoundaryObject_Abstraction]]
 [[CircuitTopologySearch]]
+[[Complex_System_Theory]]
 [[CrossLingualIdiomGraph]]
 [[DelayTolerantNetworkUAV]]
 [[Event_Driven_Architecture]]
@@ -41,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[NeuromorphicStatusAwareness]]
+[[NeuromorphicTrackingPipeline]]
 [[Neuromorphic_Computing]]
 [[TCC]]
 

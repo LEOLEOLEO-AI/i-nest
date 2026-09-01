@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[CorticalWaveRouting]]
 [[EmergencePhaseCitationDynamics]]
 [[FunctionalHardwareComposition]]
+[[Hebbian_Embedding_Dynamics]]
 [[Heterogeneous_Integration]]
 [[ITP_STDP]]
 [[Intelligence_Emergence]]

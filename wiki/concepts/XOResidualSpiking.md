@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[DirectoryManagementLaws]]
 [[ErrorSuppressedPipeline]]
 [[ExtinctionDrivenMetastability]]
+[[Frontier_Innovation_Mapping]]
 [[Meta_Residual_Architecture]]
 [[MixedLabyrinthFractal]]
 [[Neuromorphic_Computing]]

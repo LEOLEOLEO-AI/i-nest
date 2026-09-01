@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenTracking]]
 [[EventDrivenTrajectoryEncoding]]
 [[EventDrivenWirelessTransmission]]
+[[EventSparseTemporalEncoding]]
 [[InputAdaptiveComputation]]
 [[Memory_Wall]]
 [[Neuromorphic_Computing]]

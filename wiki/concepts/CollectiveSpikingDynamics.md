@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Enabled_Battlefield_Autonomy]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BigBrainCellularAxis]]
+[[CombinedImportanceScoring]]
 [[ConductingPolymerDendriteMemory]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]

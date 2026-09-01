@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Teleportation_Assisted_Interconnect]]
 [[iNEST]]
 [[神经网络]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

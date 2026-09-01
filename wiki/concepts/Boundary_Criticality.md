@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityOffCriticalityTransition]]
 [[Criticality]]
 [[Criticality_Boundary]]
+[[Criticality_Induced_Plasticity]]
 [[Dimensionality_Modularity_Tradeoff]]
 [[Dynamic_Expert_Fusion]]
 [[FibonacciMonitoredCriticality]]

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[DARPA_ProjectManager_Model]]
 [[Deep_Network_Architecture_Invariant]]
+[[DynamicProgrammingRecycling]]
 [[EulaminateOverrepresentation]]
 [[FractureMechanism]]
 [[GeneralizedReadoutMap]]

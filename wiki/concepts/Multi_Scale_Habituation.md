@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Continual_Learning_Topology]]
 [[Continuous_Memory_System]]
+[[Energy_Efficient_Control]]
 [[FerroelectricMemoryCell]]
 [[Ferroelectric_Devices]]
 [[Free_Energy_Topology_Mapping]]

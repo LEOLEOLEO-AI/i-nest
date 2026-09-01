@@ -41,6 +41,8 @@ Auto-extracted concept from raw material compilation.
 [[EfficientDeepLearning]]
 [[EmergentIntelligence_Spacetime]]
 [[Ferroelectric_ComputeInMemory]]
+[[Ferroelectric_Devices]]
+[[HybridResistiveMemoryCIM]]
 [[Intelligence_Emergence]]
 [[Neuromorphic_Computing]]
 [[iNEST]]

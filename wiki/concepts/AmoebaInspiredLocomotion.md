@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Receptron_Unit]]
 [[ReconfigurableSNNTopology]]
 [[ReconfigurableSpikingRouting]]
+[[Reliability_As_Service]]
 [[SDPrompt_Guided_Dynamic_Expert_Fusion]]
 [[SNN]]
 [[Self_Organized_Criticality]]

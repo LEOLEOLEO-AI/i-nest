@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[DimensionSeparation_IntensiveExtensive]]
 [[DiscreteContinuous_Unification]]
+[[DrivenCriticalityOptimalityTradeoff]]
 [[Edge_of_Chaos]]
 [[Edge_of_Chaos_Coastal_Dynamics]]
 [[EventDrivenInference]]

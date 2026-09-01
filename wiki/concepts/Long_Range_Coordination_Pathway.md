@@ -20,15 +20,22 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Bipartite_Interconnect]]
 [[Bipartite_Interconnect_Design]]
 [[EmergentOrder]]
 [[ExcitatoryInhibitoryOscillatoryNetwork]]
+[[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[HierarchicalSpikePropagation]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[LLM_Driven_NoC_Control]]
 [[MemristiveSynapticFatigue]]
+[[Network_on_Chip]]
 [[Neuromorphic_Computing]]
+[[NoC]]
+[[Spiking_Neural_Network]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
 
 ## Sources

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveInference]]
 [[AdaptiveFlexibilityThreshold]]
 [[AstrocyteInspiredRepair]]
+[[Bio_plausible_Neuromorphic_Disturbance_Observer]]
 [[BrainBodyResonance]]
 [[ChannelEventSparsity]]
 [[Complex_System_Theory]]

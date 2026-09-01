@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CombinedImportanceScoring]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
+[[EventDrivenWeightUpdate]]
 [[Intelligence_Emergence]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]

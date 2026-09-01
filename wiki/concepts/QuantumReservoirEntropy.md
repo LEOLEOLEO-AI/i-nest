@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[CouplingMatrixRecovery]]
 [[Crystallized_Neural_Manifolds]]
+[[DataDrivenMaterialDesign]]
 [[DifferentiableLifting]]
 [[Epidemic_Mitigation_Strategy]]
 [[ErrorSuppressedPipeline]]

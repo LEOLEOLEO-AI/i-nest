@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[TemporalInformationStorage]]
+[[Yann LeCun：发现智能原理是AI的终极问题]]
 [[在 FPGA 上实现并行脉冲神经网络（Spiking Neural Net）]]
 [[忆阻器]]
 [[新型计算]]

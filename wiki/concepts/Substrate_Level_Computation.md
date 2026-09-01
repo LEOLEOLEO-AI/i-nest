@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration_Roadmap_HIR]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]
+[[MicroTransferPrinting]]
 [[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Resilient_Sensing_Comms_Network]]

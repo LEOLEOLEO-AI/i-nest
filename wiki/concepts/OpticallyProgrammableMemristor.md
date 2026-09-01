@@ -22,12 +22,14 @@ Auto-extracted concept from raw material compilation.
 
 [[20W_Brain_Inspired_Planning]]
 [[AIRA_NeuralArchSearch]]
+[[BigBrainCellularAxis]]
 [[Edge_Intelligence]]
 [[Memory_Wall]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
 [[SDSoW]]
+[[SDSoW_Architecture]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
 

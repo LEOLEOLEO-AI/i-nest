@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[3D_Integrated_Chiplet_Stacking]]
+[[3d]]
 [[AI_Assisted_Energy_Management]]
 [[AI_Assisted_Energy_Optimization]]
 [[AI_FullSpectrum_Strategy]]
@@ -35,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[AnisotropicGaussianPrimitives]]
 [[Architectural_Conditioning]]
 [[Asymptotic_Exact_Solution]]
+[[BioInspiredGeneralist]]
 [[CertifiedBifurcationDetection]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]

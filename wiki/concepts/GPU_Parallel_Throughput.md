@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[3D_Torus_6_Degree]]
+[[3d]]
 [[AI_PPT_Workflow]]
 [[ANN_to_SNN_Conversion_Error_Amplification]]
 [[ActivityAvalanche]]
@@ -42,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Generalization]]
 [[Emergent_Generalization_Dynamics]]
 [[EnergyEfficientNeuromorphic]]
+[[Frontier_Innovation_Mapping]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]

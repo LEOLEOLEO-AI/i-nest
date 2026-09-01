@@ -21,7 +21,9 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[4H_SiC_SubstrateProcessing]]
+[[Chiplet_Interconnect_Topology]]
 [[GeneralIntelligenceSubstrate]]
+[[Interconnect_Topology]]
 [[Network_Topology_Design]]
 [[OnChipOpticalTweezers]]
 [[RegularizerAsControlParameter]]
@@ -30,9 +32,15 @@ Auto-extracted concept from raw material compilation.
 [[SDI_iNEST_Interconnect]]
 [[SDI_iNEST_Interconnect_Topology]]
 [[TCC]]
+[[iNEST]]
+[[iNEST_Interconnect]]
+[[iNEST_Interconnect_Topology]]
 
 ## Sources
 - See wiki/articles/ for source article summaries
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- SDI_Chemical_Bond (merged 2026-09-02)

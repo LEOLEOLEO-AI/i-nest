@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AnisotropicGaussianPrimitives]]
 [[Avoided_Criticality]]
 [[BayesianDomainEvolution]]
+[[BehavioralFeedbackLoop]]
 [[Criticality]]
 [[FlexibilityThreshold]]
 [[LeftRightAsymmetry]]

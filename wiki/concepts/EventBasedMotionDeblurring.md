@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[Allreduce_Latency_Probe]]
 [[Avoided_Criticality]]
+[[BigBrainCellularAxis]]
 [[BulletTrainScheduling]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]

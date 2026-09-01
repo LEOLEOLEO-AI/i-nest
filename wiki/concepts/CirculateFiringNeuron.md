@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[UniSpike_Acceleration]]
+[[UniSpike_Architecture]]
 [[Yann LeCun：发现智能原理是AI的终极问题]]
 [[getnote_2026-06-15_能量函数驱动神经网络设计]]
 [[getnote_2026-07-02_项目简介]]

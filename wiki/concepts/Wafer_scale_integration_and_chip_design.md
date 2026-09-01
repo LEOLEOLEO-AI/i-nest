@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_MVP]]
 [[Alpha_Computation_Consistency]]
 [[Analog_Weight_Storage]]
+[[Attention_Residuals]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]

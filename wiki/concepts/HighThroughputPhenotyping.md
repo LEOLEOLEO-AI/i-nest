@@ -35,6 +35,8 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Neuromorphic_Architectures]]
 [[FastSlow_Dynamics]]
 [[FixedOverheadCost]]
+[[FixedOverheadPenalty]]
+[[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[Habituation_Dynamics]]
 [[HierarchicalSpikePropagation]]

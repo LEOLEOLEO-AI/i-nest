@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[AI_Enabled_Battlefield_Autonomy]]
+[[ANN_to_SNN_Conversion_Error_Amplification]]
 [[AddressRedundancyElimination]]
 [[Allreduce_Latency_Probe]]
 [[CollectiveSpikingDynamics]]

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[20W_Brain_Inspired_Planning]]
 [[Complex_System_Theory]]
 [[Direct_Threshold_Sensing]]
+[[DistributedInference]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]

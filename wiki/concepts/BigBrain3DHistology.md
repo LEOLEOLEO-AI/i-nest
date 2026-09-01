@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[1M1T1R_SynapticNeuron]]
+[[3d]]
 [[AIRA_NeuralArchSearch]]
 [[AstrocyteInspiredRepair]]
 [[BackflowTransformation]]
@@ -46,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Hypergraph_Label_Noise]]
 [[LeftRightAsymmetry]]
+[[LossSpikeMechanism]]
 [[MobilityEdge]]
 [[Network_Specific_Embedding_Separation]]
 [[Neuromorphic_Computing]]

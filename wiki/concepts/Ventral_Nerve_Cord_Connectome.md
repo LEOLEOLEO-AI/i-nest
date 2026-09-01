@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3d]]
 [[Automated_Assessment_Framework]]
 [[Autonomous_Physical_Computation]]
 [[BackflowTransformation]]
@@ -27,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BrainActivityPrediction]]
 [[Brain_Connectome]]
 [[C__elegans_Connectome]]
+[[C_elegansConnectomeAnalogy]]
 [[Connectome]]
 [[Neuromorphic_Computing]]
 [[iNEST]]

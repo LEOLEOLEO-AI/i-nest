@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[CrossbarArrayVLSI]]
 [[FPGAInference]]
+[[Free_Energy_Principle_Network]]
 [[Interconnect_Routing]]
 [[Memristor]]
 [[Memristor_Interconnect]]

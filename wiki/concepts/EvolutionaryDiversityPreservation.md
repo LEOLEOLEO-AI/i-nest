@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[3D_Torus_6_Degree]]
+[[3d]]
 [[AI_Driven_Architecture_Search]]
 [[AI_Faculty_Forum_2026]]
 [[AI_Forum_Demo_Narrative]]
@@ -44,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Organization]]
 [[Nonlinear_Gain]]
+[[Real_Time_Neuromorphic_Constraint_Satisfaction]]
 [[SNN]]
 [[SOC]]
 [[SafetyThresholdAsSpikingThreshold]]

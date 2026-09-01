@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Synaptic_Weighting]]
 [[Attention_Residuals]]
 [[BoundaryObject_Abstraction]]
+[[DARPA_ProjectManager_Model]]
 [[Memristor]]
 [[Memristor_Crossbar]]
 [[Memristor_Synapse]]

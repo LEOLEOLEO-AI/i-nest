@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[Neuromorphic_Organization]]
+[[SpiNNaker2_Chip]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

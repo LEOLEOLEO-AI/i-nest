@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AnomalousSpinTransport]]
 [[BigBrainCellularAxis]]
 [[BrainBodyResonance]]
+[[BrownianCastleInterfaces]]
 [[BurstTemporalPlasticity]]
 [[CoDesigned_SNN]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]

@@ -69,6 +69,7 @@ Auto-extracted concept from raw material compilation.
 [[SuperlinearGain]]
 [[SystemLevelNonlinearity]]
 [[TCC]]
+[[Technology_Innovation_Platform]]
 [[TemperatureSensitivityControl]]
 [[TemporalComplexity]]
 [[Textbook_Paradigm_Definition]]

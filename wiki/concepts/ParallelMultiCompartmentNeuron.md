@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveFlexibilityThreshold]]
 [[AstrocyteInspiredRepair]]
 [[BayesMarkovOrientationModel]]
+[[Bio_plausible_Neuromorphic_Disturbance_Observer]]
 [[BrainBodyResonance]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]

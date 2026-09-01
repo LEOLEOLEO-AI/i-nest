@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[3D_Integrated_Chiplet_Stacking]]
+[[3d]]
 [[AI-ML — 全景导航 (Map of Content)]]
 [[Accessibility_Plasticity]]
 [[AdaptiveArchitecture]]
@@ -40,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[DTGA]]
 [[DirectConnect_Topology]]
+[[EventDriven_Interconnect]]
 [[Heterogeneous_Integration]]
 [[HierarchicalNetworkPartitioning]]
 [[Interconnect_Routing]]

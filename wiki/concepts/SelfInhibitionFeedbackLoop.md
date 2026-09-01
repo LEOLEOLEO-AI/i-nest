@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspiredSequenceLearning]]
 [[DiscreteSTDPLearning]]
 [[DiscreteSTDP]]
+[[HeavyTailedWaitingTime]]
 [[ITP_STDP]]
 [[ITP_STDP_Learning_Engine]]
 [[IntrinsicTimingSTDP]]

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[BigBrainCellularAxis]]
 [[ConsciousnessEngineeringLoop]]
+[[EmergencePhaseCitationDynamics]]
 [[Environmental_Capability_Context]]
 [[EventDrivenAsync]]
 [[EventDrivenAsynchronousRouting]]
@@ -35,6 +36,8 @@ Auto-extracted concept from raw material compilation.
 [[FPGACongestionHotspotMitigation]]
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]
+[[Memristor]]
+[[Memristor_Synapse]]
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_NoC_Routing]]
@@ -50,7 +53,10 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Event_Driven_Attention]]
 [[Spiking_Neural_Network]]
 [[Spiking_Temporal_Encoding]]
+[[Synaptic_Plasticity]]
 [[TCC]]
+[[Wafer_Scale_Integration]]
+[[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
 
 ## Sources

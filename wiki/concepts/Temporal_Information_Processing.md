@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[BranchingRatio]]
 [[CMOS_Memristor_Crossbar]]
 [[CST_Exponential_Gain]]
+[[Categorical_Reservoir_Model]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]

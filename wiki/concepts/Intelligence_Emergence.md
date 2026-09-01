@@ -18,6 +18,7 @@ Auto-extracted concept from raw material compilation.
 [[AI-ML — 全景导航 (Map of Content)]]
 [[AI_Faculty_Forum_2026]]
 [[ANN动力学]]
+[[Analog_InMemory_Processing]]
 [[Analog_Weight_Storage]]
 [[AsymmetricStochasticInteractions]]
 [[AttentionMap_DifferenceResidual]]
@@ -69,6 +70,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[residual connection]]
 [[三原理协同_FEP_STDP_最小作用量]]
+[[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources

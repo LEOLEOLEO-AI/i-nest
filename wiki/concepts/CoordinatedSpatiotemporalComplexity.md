@@ -21,10 +21,15 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3D_Integrated_Chiplet_Stacking]]
+[[3D_Integration]]
+[[3d]]
 [[4H_SiC_SubstrateProcessing]]
 [[AdvancedPackagingInterconnect]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[Capability_Transformation_Mechanism]]
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Stacking]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[TCC]]

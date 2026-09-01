@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3DIntegratedPhotonicPackaging]]
+[[3d]]
 [[AI_Faculty_Forum_2026]]
 [[Analog_Weight_Storage]]
 [[Architectural_Conditioning]]
@@ -38,8 +39,10 @@ Auto-extracted concept from raw material compilation.
 [[DynamicServiceComposition]]
 [[EulaminateOverrepresentation]]
 [[FlagOS_2_0]]
+[[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[Free_Energy_Topology_Mapping]]
+[[GeneralIntelligenceSubstrate]]
 [[GenerativeTopologyModels]]
 [[Heterogeneous_Integration]]
 [[Intelligent_Computing_Infrastructure]]

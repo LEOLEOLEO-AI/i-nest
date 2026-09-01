@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[ActivityAvalanche]]
 [[Analog_Synaptic_Behavior]]
 [[Avoided_Criticality]]
+[[BigBrainCellularAxis]]
 [[Criticality]]
 [[Distributed_Spike_Communication]]
 [[Dynamic_Expert_Fusion]]

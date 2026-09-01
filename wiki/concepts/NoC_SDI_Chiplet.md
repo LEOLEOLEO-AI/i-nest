@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CongestionAwareNoCPlacement]]
+[[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC]]
@@ -31,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_Chiplet]]
 [[TCC]]
+[[WaferScale_Chiplet_Interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

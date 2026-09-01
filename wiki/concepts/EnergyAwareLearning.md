@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Avoided_Criticality]]
 [[BioPlausibleDisturbanceObserver]]
 [[BoundaryObject_Abstraction]]
+[[BrainBodyResonance]]
 [[BulletTrainScheduling]]
 [[CST_Theory]]
 [[CST_Theory_V27_FINAL]]

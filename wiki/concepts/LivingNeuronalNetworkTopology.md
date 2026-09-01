@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3D_Integrated_Chiplet_Stacking]]
+[[3d]]
 [[Accessibility_Plasticity]]
 [[AdaptiveArchitecture]]
 [[AdaptiveNetworkResilience]]
@@ -41,9 +42,13 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalInterfaceBlocks]]
 [[Gate_Synthesis_Readout]]
 [[Heterogeneous_Integration]]
+[[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Integration]]
 [[Intelligence_Emergence]]
+[[InterconnectAwareGradientAggregation]]
 [[Network_Topology_Design]]
+[[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[Reservoir_Computing]]
 [[Synaptic_Plasticity]]
 [[TCC]]

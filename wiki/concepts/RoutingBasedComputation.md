@@ -22,7 +22,9 @@ Auto-extracted concept from raw material compilation.
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[3D_Heterogeneous_Integration]]
+[[3d]]
 [[AI_Forum_Demo_Narrative]]
+[[AdaptiveGraphDiffusion]]
 [[AnalogInMemoryComputing]]
 [[BitPrecisionAwareScheduling]]
 [[BurstGatedRouting]]
@@ -34,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_Technology_Incubation]]
 [[Deep_Thermalisation]]
 [[EventDrivenTracking]]
+[[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[GraphBasedSemanticRouting]]
 [[Heterogeneous_Integration]]

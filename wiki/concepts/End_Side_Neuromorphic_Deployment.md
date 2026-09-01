@@ -46,12 +46,17 @@ Auto-extracted concept from raw material compilation.
 [[Gaussian_Splat_Compression]]
 [[Heterogeneous_Integration]]
 [[Memory_Wall]]
+[[Memristor]]
+[[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
 [[SOC]]
 [[SparseTemporalEncoding]]
 [[Spiking_Neural_Network]]
+[[Wafer_Scale_Integration]]
+[[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

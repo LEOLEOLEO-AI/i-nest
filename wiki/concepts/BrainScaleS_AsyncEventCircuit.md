@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenMatrixUpdate]]
 [[Event_Driven_Architecture]]
 [[In_Network_Neuromorphic]]
+[[NeuromorphicAttentionScaling]]
 [[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]

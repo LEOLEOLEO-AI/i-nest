@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[ContinuousTraitAxelrodModel]]
 [[ControlDrivenCriticalFluctuations]]
 [[ControlTheoreticTopology]]
+[[Critical_Region_Extension]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[Intelligence_Emergence]]

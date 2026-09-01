@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[GenerativeTopologyModels]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[InterconnectConstrainedEmergence]]
 [[Interconnect_Topology]]
 [[L2_L3_Reconfigurability]]
 [[NCL神经计算定律详解]]

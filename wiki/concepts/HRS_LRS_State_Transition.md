@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[ConductingPolymerDendriteMemory]]
 [[Contested_Prior_Resolution]]
+[[Distributed_Spike_Communication]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[SNN]]

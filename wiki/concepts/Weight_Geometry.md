@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
 [[Complex_System_Weight_Landscape]]
+[[ComponentLevelMolding]]
 [[Intelligence_Emergence]]
 [[Macro_System_Description]]
 [[Network_Topology_Design]]

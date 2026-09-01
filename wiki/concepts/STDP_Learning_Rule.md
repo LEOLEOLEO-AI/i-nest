@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_STDP_Rule]]
 [[SNN]]
 [[SNN_STDP_CoDesign]]
+[[SNN_STDP_Topology]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]
 [[Spike_Timing_Dependent_Plasticity]]

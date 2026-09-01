@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Ant_Swarm_Functional_Control]]
 [[ArchitecturalCondition]]
 [[Architectural_Conditioning]]
+[[CircuitTopologyEncoding]]
 [[Cognitive_Relapse_Decoupling]]
 [[ConstraintDrivenOptimization]]
 [[Constructed_Reality_Interconnect]]

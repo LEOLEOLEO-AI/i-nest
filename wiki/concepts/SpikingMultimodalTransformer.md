@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[BrainInspired_Chip]]
 [[ConductingPolymerDendriteMemory]]
 [[Delay_Aware_Autograd_Spiking_Framework]]
+[[EnergyEfficientRestoration]]
 [[EventBasedBioSignalFrontEnd]]
 [[EventDataNonUniformity]]
 [[EventDrivenAutoregression]]

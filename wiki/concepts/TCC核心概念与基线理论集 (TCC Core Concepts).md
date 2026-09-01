@@ -73,6 +73,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Wafer_Scale_Neuromorphic_Integration]]
 [[complex system]]
 [[iNEST]]
+[[三原理协同_FEP_STDP_最小作用量]]
 [[涌现]]
 [[神经网络]]
 [[类脑芯片]]

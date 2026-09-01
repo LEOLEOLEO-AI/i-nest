@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[FixedOverheadCost]]
 [[HippocampalNeocorticalIntelligence]]
+[[HodgkinHuxleyDynamics]]
 [[Intelligence_Emergence]]
 [[Memristive_STDP]]
 [[Memristor]]

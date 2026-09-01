@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Package_Optical_Interconnect]]
 [[Intelligence_Emergence]]
 [[InterconnectAwareGradientAggregation]]
+[[MachineLearningPotential]]
 [[MetricComputationAuthenticity]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

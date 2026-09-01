@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Associative_Memory_Unification]]
 [[AtomicGeometryToElectronicTopologyMapping]]
+[[Autonomous_Unmanned_Combat_Coordination]]
 [[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]
 [[Intelligence_Emergence]]

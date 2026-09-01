@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3D_Vertical_Interconnect]]
 [[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[BurstInterleaving]]
@@ -31,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Packaging]]
 [[Chiplet_Packaging_Topology]]
 [[EulaminateOverrepresentation]]
+[[Heterogeneous_Integration]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]

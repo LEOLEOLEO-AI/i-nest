@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Entangled_Criticality]]
 [[FeatureBonding]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
+[[GroupInfluenceThreshold]]
 [[Network_Topology_Design]]
 [[Path_State_Awareness]]
 [[Pods4Rail_Topology]]
@@ -46,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[SequentialMultiObjectiveTopologyPlanning]]
 [[TCC]]
 [[UniversalComputationAtCriticality]]
+[[UniversalComputation]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

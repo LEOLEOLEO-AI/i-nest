@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Attractor_State_Interpolation]]
 [[Bio_plausible_Neuromorphic_Disturbance_Observer]]
 [[Brain_Inspired_Switchless_Architecture]]
+[[BrownianCastleInterface]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
 [[Synaptic_Plasticity]]

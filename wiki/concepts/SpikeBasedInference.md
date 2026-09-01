@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[ThresholdBasedSpikeEncoding]]
 [[iNEST]]
 [[iNEST_Interconnect]]
+[[iNEST_Neuromorphic_Integration]]
 [[temporal coding]]
 
 ## Sources

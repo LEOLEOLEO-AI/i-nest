@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Epithelial_Barrier_Integrity]]
 [[GradientFreeLowRankTraining]]
 [[HeavyTailedWaitingTime]]
+[[Heterogeneous_Synaptic_Motifs]]
 [[Master_SDDE]]
 [[MeanFieldSpinGlass]]
 [[Memory_Technology_Coexistence]]

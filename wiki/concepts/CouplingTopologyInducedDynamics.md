@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AnomalousSpinTransport]]
+[[BoundaryObject_Abstraction]]
 [[CriticalityInducedTopology]]
 [[Criticality]]
 [[DataDrivenMaterialDesign]]

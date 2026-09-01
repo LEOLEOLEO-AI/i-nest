@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[End_Side_Neuromorphic_Deployment]]
 [[EventDrivenAttentionMechanism]]
 [[EventDrivenTrajectoryEncoding]]
+[[FerroelectricSynapticArray]]
 [[Heterogeneous_Integration]]
 [[InNetworkRadarProcessing]]
 [[Intelligence_Emergence]]

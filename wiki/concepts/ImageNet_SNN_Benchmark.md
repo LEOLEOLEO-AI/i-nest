@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Course_Based_FPGA_Projects]]
 [[CriticalStateDynamics]]
 [[Criticality]]
+[[FormalLinguisticCompetence]]
 [[Intelligence_Emergence]]
 [[MacroCriticalityEmergence]]
 [[Network_Topology_Design]]

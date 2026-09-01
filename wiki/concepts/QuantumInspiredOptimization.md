@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[3D_Torus_6_Degree]]
+[[3d]]
 [[AINext_Initiative]]
 [[ANN_SNN_ConversionError]]
 [[ANN_SNN_WeightSpaceGap]]
@@ -40,8 +41,10 @@ Auto-extracted concept from raw material compilation.
 [[MixedSignalSNN_CoDesign]]
 [[Nonlinear_Gain]]
 [[QNNtoSNNConversion]]
+[[Real_Time_Neuromorphic_Constraint_Satisfaction]]
 [[SNN]]
 [[SafetyThresholdAsSpikingThreshold]]
+[[Simulated_Annealing]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]

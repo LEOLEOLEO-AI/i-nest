@@ -70,6 +70,7 @@ Auto-extracted concept from raw material compilation.
 [[SystemLevelNonlinearity]]
 [[TCC]]
 [[TCC_iNEST_Interconnect]]
+[[Technology_Innovation_Platform]]
 [[TemperatureSensitivityControl]]
 [[TemporalComplexity]]
 [[Textbook_Paradigm_Definition]]

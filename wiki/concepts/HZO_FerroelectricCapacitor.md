@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalEnsemble]]
 [[HopfieldEnergyLandscape]]
 [[InNetworkAgentRewiring]]
+[[InputAdaptiveComputation]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Model_Routing_Protocol]]

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
+[[11_SDI节点接口规范与化合键定义_dup]]
 [[1M1T1R_SynapticNeuron]]
 [[AI4PDE｜综述·论文推荐 08｜物理信息神经网络在偏微分方程问题中的应用：全面综述]]
 [[AIRA_NeuralArchSearch]]
@@ -44,8 +45,10 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[FirstPrinciples_Derivation]]
 [[FlagOS_2_0]]
+[[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
+[[InNetwork_Neuromorphic]]
 [[InNetwork_Neuromorphic_Transform]]
 [[Memristive_Interconnect]]
 [[Network_Topology_Design]]

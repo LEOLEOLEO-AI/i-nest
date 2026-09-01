@@ -27,8 +27,12 @@ Auto-extracted concept from raw material compilation.
 [[DelayCouplingMatrix]]
 [[EquilibriumTreePacking]]
 [[EvolutionaryTopologySearch]]
+[[Heterogeneous_Integration]]
+[[Interconnect_Routing]]
+[[MeshNoC]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
+[[NoC]]
 [[TCC]]
 
 ## Sources

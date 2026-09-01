@@ -23,6 +23,7 @@ TCC, neuromorphic, spiking
 
 ## Related Concepts
 
+[[Ising_Machine]]
 [[Neuromorphic_Computing]]
 [[Spiking_Neural_Network]]
 [[TCC]]

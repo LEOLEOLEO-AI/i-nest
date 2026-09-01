@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalBranching]]
 [[CriticalFixedPoint]]
 [[CriticalityConstrainedPruning]]
+[[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence]]

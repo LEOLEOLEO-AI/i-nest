@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Architecture]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[FoveationGuidedTokenSelection]]
+[[InNetwork_Neuromorphic]]
 [[InNetwork_Neuromorphic_CoDesign]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
@@ -52,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Spiking_Topology]]
 [[TCC]]
+[[Topology_Aware_Spike_Routing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

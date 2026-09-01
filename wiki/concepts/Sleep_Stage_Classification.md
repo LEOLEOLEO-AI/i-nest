@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[12_三原理协同_FEP_最小作用量_STDP]]
 [[AI人工智能 卷积神经网络（CNN）_w3cschool]]
 [[Avoided_Criticality]]
+[[BCM滑动阈值]]
 [[CST_Theory]]
 [[CST_Theory_V27_FINAL]]
 [[Chiplet]]
@@ -45,12 +46,14 @@ Auto-extracted concept from raw material compilation.
 [[SelfOrganizedOscillatoryLearning]]
 [[Self_Organized_Criticality]]
 [[StochasticBinaryDynamics]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[complex system]]
 [[iNEST]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
+[[神经网络]]
 [[集合通信NaaS完整报告]]
 
 ## Sources

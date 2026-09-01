@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AssociativeMemoryTopology]]
 [[BalancedRouting]]
 [[Baseline_Draft_Status]]
+[[BoundaryContract]]
 [[BurstGatedRouting]]
 [[BurstInterleaving]]
 [[CellEmergence]]

@@ -19,6 +19,7 @@ SNN, STDP, neuromorphic, 忆阻, 拓扑, 神经形态, 类脑
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[SNNGrow]]
 [[SNN]]
 [[STDP_Plasticity]]
 [[Spiking_Neural_Network]]

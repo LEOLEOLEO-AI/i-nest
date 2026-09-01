@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[FerroelectricMemoryCell]]
 [[Ferroelectric_Devices]]
 [[Heterogeneous_Integration]]
+[[HypergraphNeuralDynamics]]
 [[In_Package_Interconnect_Trust]]
 [[Intelligence_Emergence]]
 [[InterconnectConstrainedEmergence]]

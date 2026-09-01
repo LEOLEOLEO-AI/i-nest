@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[3DHI_Stacking]]
+[[3d]]
 [[AINext_Initiative]]
 [[AI_Application_Scenario_Reconstruction]]
 [[AgenticServiceManifesto]]
@@ -36,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[DisorderInducedEntanglementTransition]]
 [[Dynamic_Expert_Fusion]]
 [[DynamicalSelfDualCriticality]]
+[[EcosystemTopologyCoupling]]
 [[Evolving_System_Adaptation]]
 [[Fixed_Reservoir_Unitary]]
 [[Free_Energy_Synchronization]]

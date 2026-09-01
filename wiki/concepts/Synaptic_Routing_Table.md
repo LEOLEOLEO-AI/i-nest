@@ -25,9 +25,11 @@ Auto-extracted concept from raw material compilation.
 [[EvolvingArchitectureDynamics]]
 [[HybridCouplingThermosensitiveNetwork]]
 [[Interconnect_Routing]]
+[[Network_Topology_Design]]
 [[OpenLearningEcosystem]]
 [[QuantumDistillation]]
 [[Reconfigurable_Neural_Topology]]
+[[STDPDrivenConnectivity]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
 

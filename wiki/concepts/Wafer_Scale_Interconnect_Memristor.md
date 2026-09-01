@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Complexity_Emergence]]
 [[CorticalTypeDiversity]]
 [[DRBE_MVP_Mainchain]]
+[[DTGA]]
 [[DataDrivenCellularAxis]]
 [[EmergentOrder]]
 [[Exponential_CST_Coupling]]

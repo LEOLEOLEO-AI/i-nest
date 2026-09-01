@@ -21,7 +21,9 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3D_Heterogeneous_Integration]]
+[[3d]]
 [[AIRA_NeuralArchSearch]]
+[[AI_Driven_Power_Density_Scaling]]
 [[AdaptiveGraphDiffusion]]
 [[AndersonTransition]]
 [[CavityMethodAnalysis]]

@@ -21,8 +21,10 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3D_Heterogeneous_Integration]]
+[[3d]]
 [[AI_Faculty_Forum_2026]]
 [[Alpha_Computation_Consistency]]
+[[Attention_Residuals]]
 [[Complex_System_Theory]]
 [[Heterogeneous_Integration]]
 [[MetaFAIR_ArchitectureDiscovery]]

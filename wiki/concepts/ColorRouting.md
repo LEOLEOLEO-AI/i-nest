@@ -23,6 +23,8 @@ Auto-extracted concept from raw material compilation.
 [[AI_Driven_Architecture_Search]]
 [[AI_Faculty_Forum_2026]]
 [[AI_Forum_Demo_Narrative]]
+[[Color_Channels]]
+[[Generative_Graph_Models]]
 [[Interconnect_Routing]]
 [[Kinematic_Waves]]
 [[Network_Topology_Design]]

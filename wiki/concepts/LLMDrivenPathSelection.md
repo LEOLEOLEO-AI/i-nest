@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[MatrixShapePhaseTransition]]
+[[NetworkArchitectureSearch]]
 [[Network_Topology_Design]]
 [[PhotonicSynapticPlasticity]]
 [[Receptron_Unit]]

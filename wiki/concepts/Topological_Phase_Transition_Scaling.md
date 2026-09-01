@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[STDP_Plasticity]]
+[[SelfHealing_Interconnect]]
 [[Synaptic_Plasticity]]
 [[System_Level_Utility_Control]]
 [[TCC]]

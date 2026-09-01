@@ -43,6 +43,8 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[Nonlinear_Gain]]
 [[OpticalSynapticWeightUpdate]]
+[[ProgrammerGuideAbstraction]]
+[[Reservoir_Computing]]
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[STDP_Plasticity]]

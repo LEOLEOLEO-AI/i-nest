@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Neuromorphic_Acceleration]]
 [[FlexibilityThreshold]]
 [[GPU_Cluster_SNN_Architecture]]
+[[In_Network_Neuromorphic_Learning]]
 [[NeuromorphicAuditoryFrontend]]
 [[Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]

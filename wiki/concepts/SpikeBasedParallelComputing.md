@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[ClosedLoopNeuromorphicControl]]
 [[CollectiveDynamics]]
 [[ErrorAmplificationLimits]]
+[[LatencyGradientDescent]]
 [[Neuromorphic_Computing]]
 [[Spiking_Neural_Network]]
 [[iNEST]]

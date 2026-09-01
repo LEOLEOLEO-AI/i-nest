@@ -48,6 +48,8 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Topology_Interconnect]]
 [[Clinical_Knowledge_Embedding]]
 [[Complex_System_Theory]]
+[[Concepts-Theory — 全景导航 (Map of Content)]]
+[[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
 [[Heterogeneous_Integration]]

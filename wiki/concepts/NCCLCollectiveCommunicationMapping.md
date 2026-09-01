@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Topology]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
+[[SDSoW_Reconfigurable_Network]]
 [[SDSoW_Strategic_Planning]]
 [[Second_Curve_Wafer_Industry_Platform]]
 [[SoftwareDefined_NoC_Routing]]

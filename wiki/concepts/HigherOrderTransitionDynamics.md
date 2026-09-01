@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AmorphousSolidPlasticity]]
 [[Biomanufacturing_Control_Loop]]
 [[BranchingRatio]]
+[[BrownianCastleInterface]]
 [[Categorical_Reservoir_Model]]
 [[CoexistencePhaseTransition]]
 [[CollectiveSpikingDynamics]]

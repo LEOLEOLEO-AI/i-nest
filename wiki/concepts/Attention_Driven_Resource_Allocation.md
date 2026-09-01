@@ -20,15 +20,22 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Emergent_Intelligence]]
 [[Emergent_Intelligence_Roadmap]]
 [[EnsembleSparsity]]
 [[FPGA_Neuromorphic_Architectures]]
+[[Intelligence_Emergence]]
 [[LLM_Driven_NoC_Control]]
 [[Mesoscale_Neural_Dynamics]]
+[[Network_on_Chip]]
 [[Neuromorphic_Computing]]
+[[NoC]]
+[[SDI_Bond]]
 [[SDI_STDP]]
+[[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[SelfMotivatedGrowth]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
 
 ## Sources

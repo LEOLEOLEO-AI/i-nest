@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[ActionPrototypeClustering]]
 [[ActiveDendriteSNN]]
 [[BigBrainCellularAxis]]
+[[CollectiveSpikingDynamics]]
 [[CombinedImportanceScoring]]
 [[CurrentInjectionSNN]]
 [[Intelligence_Emergence]]

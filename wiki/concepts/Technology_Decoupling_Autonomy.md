@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN动力学]]
 [[Active_Inference_Agent]]
 [[Allreduce_Latency_Probe]]
+[[Alpha_Coefficient_Phase_Transition_Amplification]]
 [[Architectural_Conditioning]]
 [[CUDAQSimulationFramework]]
 [[Complex_System_Theory]]

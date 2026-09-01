@@ -26,6 +26,8 @@ Auto-extracted concept from raw material compilation.
 [[3DHI_Stacking]]
 [[3D_Heterogeneous_Integration]]
 [[3D_Integrated_Chiplet_Stacking]]
+[[3D_Vertical_Interconnect]]
+[[3d]]
 [[AI_Memory_Infrastructure]]
 [[ASIC_Power_Efficiency]]
 [[AdiabaticMultimodeBend]]
@@ -50,7 +52,6 @@ Auto-extracted concept from raw material compilation.
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[TCC]]
-[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

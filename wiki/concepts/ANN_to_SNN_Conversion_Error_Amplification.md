@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeTimingEncoding]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking neural network]]
+[[SpikingTrafficSignRecognition]]
 [[Spiking_Neural_Network]]
 [[TemporalFeaturePropagation]]
 [[UniSpike_Acceleration]]

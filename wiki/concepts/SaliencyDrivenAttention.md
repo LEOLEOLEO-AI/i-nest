@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Endocrine_Modulated_Network_State]]
 [[EventDrivenAttentionMasking]]
 [[ExactFiringRateModel]]
+[[HippocampalNeocorticalIntelligence]]
 [[Intelligence_Emergence]]
 [[IntrinsicTimingSTDP]]
 [[Network_Topology_Design]]

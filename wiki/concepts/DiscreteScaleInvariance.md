@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Comparative_Formulation_Analysis]]
 [[CouplingTopologyMemoryLink]]
 [[Coupling_Topology]]
+[[CriticalStateReservoir]]
 [[DataDrivenMaterialDesign]]
 [[EcosystemTopologyCoupling]]
 [[ErrorSuppressedPipeline]]

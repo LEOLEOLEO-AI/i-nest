@@ -55,11 +55,13 @@ Auto-extracted concept from raw material compilation.
 [[getnote_2026-06-28_海河实验室项目指南_中间版本_]]
 [[复杂网络]]
 [[夏强飞一天2篇Nature大子刊：感存算一体，忆阻器阵列模拟计算]]
+[[存算一体]]
 [[忆阻器]]
 [[无反向传播的 4D 连续蚁群神经网络拓扑搜索]]
 [[智能涌现]]
 [[涌现]]
 [[神经网络]]
+[[科技丨据说互联网过时了！他的发明人准备造个新网络！ (1)]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[Spiking_neural_network_dynamics]]
+[[Wafer_Scale_Neuromorphic]]
 [[iNEST]]
 
 ## Sources

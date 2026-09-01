@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[ConvexNonConvexTradeoff]]
 [[DARPA_ProjectManager_Model]]
 [[Deep_Network_Architecture_Invariant]]
+[[DynamicServiceComposition]]
 [[ElectromigrationReliability]]
 [[EnergyOptimizedManycoreArchitecture]]
 [[FlagScale]]

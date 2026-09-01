@@ -21,11 +21,16 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3DHI_Chiplet_Integration]]
+[[3d]]
 [[AI_Faculty_Forum_2026]]
 [[Attention_Residuals]]
 [[Bias_Origin_Taxonomy]]
 [[BoundaryObject_Abstraction]]
 [[CST_MasterEquation]]
+[[Causal_Emergence_Architecture]]
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]

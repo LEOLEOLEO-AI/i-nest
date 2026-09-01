@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Closed_Loop_Neuromodulation]]
 [[Complex_System_Theory]]
 [[ContinuousGameOfLife]]
+[[CrossDomain_Abstraction]]
 [[DisorderedNetworkInterconnect]]
 [[EventDrivenRiskAssessment]]
 [[Intelligence_Emergence]]

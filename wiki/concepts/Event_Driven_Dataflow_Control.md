@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityInducedComputationalCapacity]]
 [[Criticality]]
 [[CrossEntityPreemptiveWarning]]
+[[DeepCode_AlgorithmExtraction]]
 [[DiscreteContinuous_Unification]]
 [[EventBasedMotionDeblurring]]
 [[Event_Driven_Architecture]]

@@ -59,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[TCC]]
+[[UniversalComputation]]
 [[complex system]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]

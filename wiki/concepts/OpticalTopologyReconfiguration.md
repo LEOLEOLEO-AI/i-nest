@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[CongestionAwareNoCPlacement]]
 [[ConvexNonConvexTradeoff]]
+[[CrossbarArrayArchitecture]]
 [[DynamicServiceComposition]]
 [[EdgeIoTEnergyAwareness]]
 [[GeneralIntelligenceSubstrate]]

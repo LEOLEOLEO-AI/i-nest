@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Associative_Memory_Unification]]
 [[AtomicGeometryToElectronicTopologyMapping]]
 [[Autonomous_Unmanned_Combat_Coordination]]
+[[BCM滑动阈值]]
 [[Complex_System_Theory]]
 [[EdgeIoTEnergyAwareness]]
 [[Intelligence_Emergence]]

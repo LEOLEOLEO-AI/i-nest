@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_SNN_Trainability]]
 [[DeeplySupervisedSpiking]]
 [[Distributed_Spike_Communication]]
+[[DrivenCriticalityOptimalityTradeoff]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[EventBasedMotionDeblurring]]

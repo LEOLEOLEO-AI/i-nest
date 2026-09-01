@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[DiscreteContinuous_Unification]]
 [[DistinctReentrantPhases]]
+[[EpoxyMoldingCompoundFlow]]
 [[HeavyTailedWaitingTime]]
 [[HeavyTailedWaitingTimes]]
 [[Heterogeneous_Integration]]

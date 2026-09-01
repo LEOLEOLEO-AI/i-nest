@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Application_Scenario_Reconstruction]]
 [[AcademicDevelopmentCoCreation]]
 [[Alpha_Computation_Consistency]]
+[[AndersonTransition]]
 [[BigBrainCellularAxis]]
 [[Compact_Boson_Dynamics]]
 [[CouplingTopologyMemoryLink]]

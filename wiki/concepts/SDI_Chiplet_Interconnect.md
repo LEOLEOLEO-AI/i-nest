@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AnalogDomainCompression]]
 [[ApproximationFidelityTradeoff]]
 [[Architectural_Conditioning]]
+[[ChipletRoutingFabric]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]

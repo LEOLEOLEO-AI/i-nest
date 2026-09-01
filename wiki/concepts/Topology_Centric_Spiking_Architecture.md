@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicTrackingPipeline]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
+[[RecurrentOscillatoryComputation]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SpikingNeuralNetworkTopologyMapping]]
 [[SpikingNeuralNetworkTopology]]

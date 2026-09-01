@@ -45,6 +45,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Memory_Technology_Role_Specialization]]
 [[MemristiveMEMSHysteresis]]
 [[Milinkovic B (2024)：复杂神经系统涌现动力学结构]]
+[[Nature Communications：具有片上学习的神经形态处理器，用于超越CMOS设备的集成]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[STDP_Plasticity]]

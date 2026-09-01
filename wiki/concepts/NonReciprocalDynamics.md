@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AndersonTransition]]
 [[ApproximateMacroscopicDynamics]]
 [[ArchitecturalCondition]]
+[[AstrocyteInspiredRepair]]
 [[AutonomousAdaptation]]
 [[BackflowTransformation]]
 [[Baseline_Draft_Status]]

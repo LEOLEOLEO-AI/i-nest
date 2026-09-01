@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[RecursiveSelfReferentialArchitecture]]
 [[ReputationPropagation]]
+[[ResourceAwareCompilation]]
 [[SemanticTopologyMapping]]
 [[StochasticMultiAgentRL]]
 [[TCC]]

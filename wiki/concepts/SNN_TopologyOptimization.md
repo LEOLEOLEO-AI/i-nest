@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[FlexibilityThreshold]]
 [[Memristive_Solutions]]
 [[Network_Topology_Design]]
+[[NeuromorphicStatusAwareness]]
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SNN]]

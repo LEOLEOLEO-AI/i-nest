@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[STDPDrivenTemporalBinding]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]
+[[STDP_iNEST]]
 [[SpikeCodedFeatureAssociation]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]

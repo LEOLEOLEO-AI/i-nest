@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3D_IC_Stacking]]
+[[3d]]
 [[AI_Faculty_Forum_2026]]
 [[AnalogInMemoryComputing]]
 [[BigBrainCellularAxis]]
@@ -58,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[Swarm_Coordination]]
 [[TCC]]
 [[TSVEncapsulationStress]]
+[[VerticalOpticalInterconnect]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[3DHI_Chiplet_Integration]]
+[[3d]]
 [[AI-ML — 全景导航 (Map of Content)]]
 [[AI_Faculty_Forum_2026]]
 [[Allreduce_Latency_Probe]]
@@ -45,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Crossbar]]
 [[Memristor_Synapse]]
 [[MetaFAIR_ArchitectureDiscovery]]
+[[NCL神经计算定律详解]]
 [[Network_Spatiotemporal_Synergy]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
@@ -61,7 +63,6 @@ Auto-extracted concept from raw material compilation.
 [[State_Transition_Formalism]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
-[[causal emergence]]
 [[iNEST]]
 [[memristor device]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]

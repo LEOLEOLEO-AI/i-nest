@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[EfficientDeepLearning]]
 [[EmergentIntelligence_Spacetime]]
 [[Flow_Network_Memory]]
+[[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
 [[Heterogeneous_Inference_Division]]
@@ -65,7 +66,7 @@ Auto-extracted concept from raw material compilation.
 [[SystemLevelNonlinearity]]
 [[TCC]]
 [[Textbook_Paradigm_Definition]]
-[[causal emergence]]
+[[iNEST]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]
 [[Loihi2_OnChip_Learning]]
+[[Loihi]]
 [[MultiModel_Adapter_Architecture]]
 [[National_Innovation_Center_Framework]]
 [[NeuromorphicHardware]]
@@ -51,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[SmallWorldNetworks]]
 [[Spiking_Neural_Network]]
 [[Stochastic_LIF_Inference]]
+[[iMESO_PhysicalCarrier]]
 [[iNEST]]
 
 ## Sources

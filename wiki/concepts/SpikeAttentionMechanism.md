@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[IntrinsicTimingSTDP]]
 [[JunctionSignalIntegrity]]
+[[Local_Plasticity_Rule]]
 [[Neuromorphic_Computing]]
 [[STDP_Plasticity]]
 [[SparseActivationSkipping]]

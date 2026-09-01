@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[1M1T1R_SynapticNeuron]]
 [[ActiveDendriteSNN]]
 [[AnomalousSpinTransport]]
 [[BigBrainCellularAxis]]

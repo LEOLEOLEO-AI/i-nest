@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BiasPropagationInNetworks]]
 [[BitPrecisionAwareScheduling]]
 [[CascadedAdaptiveCombiners]]
+[[ControlDrivenCriticalFluctuations]]
 [[EvolvingArchitectureDynamics]]
 [[Habituation_Dynamics]]
 [[HighThroughputPhenotyping]]
@@ -40,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[QuantumDistillation]]
 [[Reconfigurable_Neural_Topology]]
 [[STDPDrivenConnectivity]]
+[[STDP_Plasticity]]
 [[analog computation]]
 [[iNEST]]
 

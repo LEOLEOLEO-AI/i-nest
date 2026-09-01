@@ -26,10 +26,13 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[AdaptiveNetworkResilience]]
 [[Analog_Weight_Storage]]
+[[Complex_System_Theory]]
+[[FPGA_Neuromorphic_Architectures]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
 [[iNEST]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

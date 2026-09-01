@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
+[[Concepts-Theory — 全景导航 (Map of Content)]]
 [[FlagOS_2_0]]
 [[Heterogeneous_Integration]]
 [[Heterogeneous_Integration_Roadmap]]

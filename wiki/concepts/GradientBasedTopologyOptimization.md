@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Roadmap]]
 [[GeometryGuidedGenerativeModel]]
 [[GutBrainAxis_Reprogramming]]
+[[HallmarkDrivenCancerModeling]]
 [[HoldingManeuverDelayGraph]]
 [[Intelligence_Emergence]]
 [[MatrixShapePhaseTransition]]

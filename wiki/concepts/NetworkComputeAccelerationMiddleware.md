@@ -21,12 +21,18 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[1024_Card_SuperNode]]
+[[CongestionAwareNoCPlacement]]
 [[GPU_Bottleneck_Relief]]
 [[Microsecond_Link_Reconfiguration]]
+[[Network_Topology_Design]]
+[[Network_on_Chip]]
+[[NoC]]
+[[SDI_Bond]]
 [[SDI_NPU_NoC_Integration]]
 [[Spaceborne_Computing_Architecture]]
 [[TCC]]
 [[ThreeLayerArchitecture]]
+[[TopologyCentricComputing]]
 [[TopologyProgramming]]
 [[WaferScaleTopologyCentricComputing]]
 [[iNEST]]

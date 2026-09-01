@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[NeurovascularUnit]]
 [[NonlinearDynamicalSystemsInference]]
 [[Nonlinear_Gain]]
+[[PhysicalSubstrateReservoir]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[Sex_Network_Interaction]]

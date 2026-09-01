@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Course_Based_FPGA_Projects]]
 [[Criticality]]
 [[CrossEntityPreemptiveWarning]]
+[[DrivenCriticalityOptimalityTradeoff]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]

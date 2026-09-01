@@ -25,8 +25,10 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
 [[3D_Torus_6_Degree]]
+[[3d]]
 [[Nat_Hum_Behav_用「全拓扑网络」重塑视皮层地图]]
 [[Nature综述_大规模类脑计算的机遇与挑战]]
 [[Network_Topology_Design]]

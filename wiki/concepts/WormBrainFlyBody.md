@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[20W_Brain_Inspired_Planning]]
+[[3d]]
 [[Active_Inference_Agent]]
 [[Active_Inference_Architecture]]
 [[Activity_Dependent_Plasticity]]
@@ -32,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Autonomous_Physical_Computation]]
 [[BackflowTransformation]]
 [[BayesianDomainEvolution]]
+[[BehavioralFeedbackLoop]]
 [[BigBrain3DHistology]]
 [[Brain_Connectome]]
 [[ConnectomeFidelityClaim]]

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
+[[6万+辛顿2025年度全景实录深读｜真正的智能与硅基智能的非对称演进]]
 [[AI4PDE｜综述·论文推荐 08｜物理信息神经网络在偏微分方程问题中的应用：全面综述]]
 [[AIRA_NeuralArchSearch]]
 [[AI_Faculty_Forum_2026]]
@@ -34,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[HeterogeneousSynapticDelays]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[Interconnect_Routing]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Nature Communications_生物神经网络中突触多样性如何让人工神经网络更强大？]]
@@ -43,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Packaging]]
 [[OpportunisticRoutingRL]]
+[[OpportunisticRouting]]
 [[PairwiseCorrelationConstraint]]
 [[SpikeEncoding]]
 [[SpikeRatePrecisionTradeoff]]

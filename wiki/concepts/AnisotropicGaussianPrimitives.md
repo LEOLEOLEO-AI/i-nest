@@ -19,9 +19,11 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3d]]
 [[AI_Faculty_Forum_2026]]
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[AdaptiveTimeStepTraining]]
+[[AlternativeBridgingModels]]
 [[AnomalousSpinTransport]]
 [[BigBrainCellularAxis]]
 [[Contested_Prior_Resolution]]

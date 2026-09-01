@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
+[[CrossDomain_Neuromorphic_Abstraction]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[Ferroelectric_Devices]]

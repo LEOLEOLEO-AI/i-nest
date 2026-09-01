@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeEncoding]]
 [[SpikeEventScheduling]]
 [[Spike_Encoding_of_fMRI]]
+[[Spike_Temporal_Dynamics]]
 [[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN_SNN_ConversionError]]
 [[ANN_to_SNN_Conversion_Error_Amplification]]
 [[ActivityAvalanche]]
+[[Adaptive_Deep_Brain_Stimulation]]
 [[AddressRedundancyElimination]]
 [[AllOpticalHebbianLearning]]
 [[BrainActivityPrediction]]

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
+[[3d]]
 [[AI_Enabled_Battlefield_Autonomy]]
 [[ANN_to_SNN_Conversion_Error_Amplification]]
 [[AnalogDomainCompressiveSensing]]
@@ -30,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CSI_Temporal_Encoding]]
 [[CollectiveStateResilience]]
 [[ConsciousnessEngineeringLoop]]
+[[CouplingTopologyMemoryLink]]
 [[Course_Based_FPGA_Projects]]
 [[CrashHotspotForecasting]]
 [[CrossLayer_SignalRouting]]

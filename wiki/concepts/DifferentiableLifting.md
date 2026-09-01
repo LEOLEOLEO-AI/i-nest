@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[Readout_Layer_Training]]
 [[ReservoirDiversity]]
 [[Reservoir_Computing]]
+[[TopologyEmbeddedIntrospection]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

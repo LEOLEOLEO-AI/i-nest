@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[ConnectivityDerivedReservoir]]
 [[CoupledOscillatorReservoir]]
 [[CouplingTopologyMemoryLink]]
+[[Coupling_Topology]]
 [[CriticalStateReservoir]]
 [[DivergentHigherAreaRanking]]
 [[EvolutionaryReservoirOptimization]]

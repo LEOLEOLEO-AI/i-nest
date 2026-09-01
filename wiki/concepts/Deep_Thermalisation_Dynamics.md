@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[1024_Card_SuperNode]]
 [[3D_Integrated_Chiplet_Stacking]]
 [[3D_Integration]]
+[[3d]]
 [[4H_SiC_SubstrateProcessing]]
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_FullSpectrum_Strategy]]
@@ -44,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[ERI_2_0_Strategic_Framework]]
 [[EdgeIoTEnergyAwareness]]
+[[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
 [[InSensorComputing]]
@@ -53,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]
 [[TCC]]
+[[TSVInterconnectReliability]]
 [[TopologicalAndersonChernInsulator]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

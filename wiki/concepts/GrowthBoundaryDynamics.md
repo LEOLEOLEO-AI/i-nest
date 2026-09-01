@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_InMemory_Processing]]
 [[CavityMethodAnalysis]]
 [[Complex_System_Theory]]
+[[ERI_2_0_Framework]]
 [[EpidemicThreshold]]
 [[EventDrivenFunctionalConnectivity]]
 [[ExtinctionDrivenMetastability]]

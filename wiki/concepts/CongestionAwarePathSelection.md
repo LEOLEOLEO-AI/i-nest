@@ -39,11 +39,13 @@ Auto-extracted concept from raw material compilation.
 [[DirtyWeylSemimetal]]
 [[ElectromigrationResistance]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
+[[InNetworkComputing]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Self_Organized_Criticality]]
+[[SpikingTransformer]]
 [[TCC]]
 
 ## Sources

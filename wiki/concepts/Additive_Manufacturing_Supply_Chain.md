@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3d]]
 [[AnalogInMemoryComputing]]
 [[Analog_InMemory_Processing]]
 [[ArbitraryWavefunctionConfigurability]]
@@ -55,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[MultiModel_Adapter_Architecture]]
 [[Network_Topology_Design]]
 [[PhaseAwareBisectionDemand]]
+[[PostVonNeumannIntelligence]]
 [[ReconfigurablePhotonicNetwork]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Representation_Learning_Generalization]]

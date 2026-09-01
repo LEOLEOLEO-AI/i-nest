@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI节点接口规范与化合键定义]]
 [[STDP_Plasticity]]
 [[ScalingBehaviourDeviation]]
+[[SingularPotentialScattering]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[涌现]]

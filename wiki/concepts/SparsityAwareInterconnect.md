@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3DHI_Interconnect]]
+[[3d]]
 [[Additive_Manufacturing_Topology]]
 [[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
@@ -48,12 +49,12 @@ Auto-extracted concept from raw material compilation.
 [[Photonic_Chiplet_Interconnect]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]
+[[SDI_Chiplet_Topology]]
 [[SDI_Topology]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[WaferScale_Chiplet_Interconnect]]
 [[WideLink_NoC_Router]]
-[[advanced packaging]]
 [[iNEST]]
 [[iNEST_Wafer]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]

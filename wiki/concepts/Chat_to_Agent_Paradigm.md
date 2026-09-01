@@ -41,6 +41,8 @@ Auto-extracted concept from raw material compilation.
 [[Edge_of_Chaos]]
 [[Edge_of_Chaos_Computation]]
 [[Emergence_Phase]]
+[[EndToEndTopologicalLearning]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
 [[iNEST]]

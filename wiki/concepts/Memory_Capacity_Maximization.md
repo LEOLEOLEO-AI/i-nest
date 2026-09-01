@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[SDDE_Attractor_Emergence]]
+[[ShortTermMemoryReservoir]]
 [[Synaptic_Plasticity]]
 [[TemporalFeatureDecorrelation]]
 [[TopologicalAndersonChernInsulator]]

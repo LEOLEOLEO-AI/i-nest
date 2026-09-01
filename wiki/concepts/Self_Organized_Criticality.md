@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
+[[03 涌现：整体的能力不能还原回个体？ - 得到APP]]
 [[2026-06-15_大脑的量子纠缠与信息动力学]]
 [[AnalogDomainCompression]]
 [[Automated_Reward_Shaping]]
@@ -33,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicalCriticality]]
 [[Edge_of_Chaos]]
 [[Edge_of_Chaos_Coastal_Dynamics]]
+[[Intelligence_Emergence]]
 [[MicroCriticalAgent]]
 [[NonEquilibriumPhaseTransition]]
 [[NonEquilibriumPhase]]
@@ -42,6 +44,8 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[complex system]]
 [[iNEST]]
+[[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

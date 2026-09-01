@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3D_Integrated_Chiplet_Stacking]]
+[[3d]]
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_Assisted_Energy_Optimization]]
 [[Additive_Manufacturing_Supply_Chain]]
@@ -40,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[NetworkInfluenceDynamics]]
 [[Network_Topology_Design]]
+[[PostHocInterpretabilityContrast]]
 [[Self_Organized_Criticality]]
 [[TCC]]
 [[analog computation]]

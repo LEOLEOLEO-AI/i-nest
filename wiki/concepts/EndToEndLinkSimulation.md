@@ -34,6 +34,8 @@ Auto-extracted concept from raw material compilation.
 [[ComputeRelocationOverhead]]
 [[Deep_Thermalisation]]
 [[DifferentiableRasterizationPipeline]]
+[[DirectConnect_Topology]]
+[[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[GraphBasedSemanticRouting]]
 [[Heterogeneous_Integration]]

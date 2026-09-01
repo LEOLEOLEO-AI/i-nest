@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
 [[NonGaussianPropagationKernel]]
+[[ReservoirTemporalMemory]]
 [[Reservoir_Computing]]
 [[SOC]]
 [[emerging CMOS memristor]]

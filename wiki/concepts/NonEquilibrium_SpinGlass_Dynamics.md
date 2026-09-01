@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[3D_Integrated_Chiplet_Stacking]]
+[[3d]]
 [[AI_Assisted_Energy_Optimization]]
 [[Accessibility_Plasticity]]
 [[AdaptiveArchitecture]]
@@ -44,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[DendriticReservoirState]]
 [[DynamicInference]]
 [[ERI_2_0_Strategy]]
+[[EvanescentFieldTrapping]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

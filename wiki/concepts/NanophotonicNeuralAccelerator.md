@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicServiceComposition]]
 [[ElectromigrationReliability]]
 [[GPU_Bottleneck_Relief]]
+[[GeneralIntelligenceSubstrate]]
 [[GenericObjectTracking]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

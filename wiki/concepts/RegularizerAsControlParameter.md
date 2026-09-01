@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_iNEST_Encapsulation]]
 [[STDP_Plasticity]]
 [[ScalabilityFaultToleranceTradeoff]]
+[[SoftwareDefinedSystemOnWafer]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]

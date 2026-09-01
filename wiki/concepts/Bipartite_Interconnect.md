@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[OpportunisticRouting]]
 [[P_Paradigm]]
 [[PhysicallyInformedDeepLearning]]
+[[Pseudofractal_Web]]
 [[ScalableNeuromorphicTopology]]
 [[Semantic_Optimizer]]
 [[StochasticVehicleRouting]]

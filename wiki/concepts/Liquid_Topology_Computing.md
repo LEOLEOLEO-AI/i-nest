@@ -21,9 +21,15 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3D_Integrated_Chiplet_Stacking]]
+[[3d]]
+[[AdaptiveGraphDiffusion]]
 [[AdjointWaveControl]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
+[[Chiplet_Stacking]]
 [[Inference_Workload_Profiling]]
 [[Interconnect_Topology]]
 [[Network_Topology_Design]]
@@ -36,3 +42,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- Liquid_Topology_Computing (merged 2026-09-02)

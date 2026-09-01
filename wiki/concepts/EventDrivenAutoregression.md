@@ -20,12 +20,15 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3D_Torus_6_Degree]]
+[[3d]]
 [[AI_Faculty_Forum_2026]]
 [[Avoided_Criticality]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
+[[Criticality]]
 [[Delay_Aware_Autograd_Spiking_Framework]]
+[[EventBasedMotionDeblurring]]
 [[EventDataNonUniformity]]
 [[EventDrivenGraphTraversal]]
 [[EventDrivenSynchronization]]
@@ -45,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[ST_SNN]]
 [[SelfOrganizedOscillatoryLearning]]
+[[Self_Organized_Criticality]]
 [[SpikeCodingAdversarialPerturbation]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]

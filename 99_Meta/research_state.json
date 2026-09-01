@@ -1,14 +1,14 @@
 {
-  "generated": "2026-08-31T18:30:05.686927",
+  "generated": "2026-09-01T18:30:05.027976",
   "generator": "state_generator.py v1.0",
   "vault": {
-    "total_md": 11692,
-    "inbox_00": 200,
+    "total_md": 12128,
+    "inbox_00": 205,
     "processing_20": 563,
-    "tcc_30": 1838,
-    "inest_40": 1237,
+    "tcc_30": 1847,
+    "inest_40": 1248,
     "output_50": 429,
-    "moc_60": 80
+    "moc_60": 82
   },
   "services": {
     "preview_server_8899": false,
@@ -17,11 +17,43 @@
   },
   "pipeline": {
     "ingested_today": {
-      "today": 0,
-      "total": 200,
-      "recent": []
+      "today": 5,
+      "total": 205,
+      "recent": [
+        {
+          "file": "2026-09-01_arXiv_SpikeOPD Stable On-Policy Distillation for Autoregressive Sp.md",
+          "preview": "---\ntitle: \"SpikeOPD: Stable On-Policy Distillation for Autoregressive Spiking Language Models\"\ndate: 2026-09-01\nsource: arXiv\ntrack: iNEST\nauthors: \nyear: 2026\nurl: http://arxiv.org/abs/2608.27857v1\n"
+        },
+        {
+          "file": "2026-09-01_arXiv_Propagation rates in integro-differential equations of ignit.md",
+          "preview": "---\ntitle: \"Propagation rates in integro-differential equations of ignition type\"\ndate: 2026-09-01\nsource: arXiv\ntrack: iNEST\nauthors: \nyear: 2026\nurl: http://arxiv.org/abs/2608.28450v1\ntags: [inbox, "
+        },
+        {
+          "file": "2026-09-01_arXiv_Optimal Transport for Network Comparison A Review with Machi.md",
+          "preview": "---\ntitle: \"Optimal Transport for Network Comparison: A Review with Machine Learning Applications\"\ndate: 2026-09-01\nsource: arXiv\ntrack: General\nauthors: \nyear: 2026\nurl: http://arxiv.org/abs/2608.275"
+        },
+        {
+          "file": "2026-09-01_arXiv_Memristive-Friendly Hadamard Reservoir Computing Structured,.md",
+          "preview": "---\ntitle: \"Memristive-Friendly Hadamard Reservoir Computing: Structured, Multiplier-Free Recurrences at Scale\"\ndate: 2026-09-01\nsource: arXiv\ntrack: iNEST\nauthors: \nyear: 2026\nurl: http://arxiv.org/a"
+        },
+        {
+          "file": "2026-09-01_arXiv_Low-Power End-to-End Cochlear Implant Speech Denoising with .md",
+          "preview": "---\ntitle: \"Low-Power End-to-End Cochlear Implant Speech Denoising with Spiking Neural Networks\"\ndate: 2026-09-01\nsource: arXiv\ntrack: iNEST\nauthors: \nyear: 2026\nurl: http://arxiv.org/abs/2608.28493v1"
+        }
+      ]
     },
     "recent_runs": [
+      {
+        "date": "2026-09-01T06:45:35.726622",
+        "new_papers": 5,
+        "api_results": 5,
+        "classified": 0,
+        "graph_nodes": 12115,
+        "graph_edges": 221135,
+        "elapsed_s": 933.5,
+        "genspark_snapshot": "99_Meta\\genspark_research_brief.md",
+        "_file": "pipeline_20260901_0645.json"
+      },
       {
         "date": "2026-08-31T06:55:11.330209",
         "new_papers": 0,
@@ -87,33 +119,32 @@
         "elapsed_s": 915.1,
         "genspark_snapshot": "99_Meta\\genspark_research_brief.md",
         "_file": "pipeline_20260825_0645.json"
-      },
-      {
-        "date": "2026-08-24T06:44:34.956219",
-        "new_papers": 5,
-        "api_results": 5,
-        "classified": 0,
-        "graph_nodes": 12200,
-        "graph_edges": 107015,
-        "elapsed_s": 873.1,
-        "genspark_snapshot": "99_Meta\\genspark_research_brief.md",
-        "_file": "pipeline_20260824_0644.json"
       }
     ]
   },
   "git": {
-    "uncommitted": 10,
+    "uncommitted": 38,
     "details": [
-      "M .obsidian/community-plugins.json",
+      "M .gitignore",
+      " M .obsidian/community-plugins.json",
       " M .obsidian/workspace.json",
       " M .workbuddy/automations/automation-1785546922604/memory.md",
+      " M 60_MOC/02_Research_Insights.md",
+      " M 60_MOC/03_Daily_Action.md",
+      " M 60_MOC/04_Daily_Focus.md",
+      " M 60_MOC/05_Task_Review.md",
+      " M 60_MOC/07_Pipeline_Status.md",
       " M 70_Dashboard/health_watchdog.md",
+      "D  90_System/state/HEALTH_ALERT.md",
       " M 90_System/state/health_watchdog.json",
+      " M 99_Meta/daily_analysis_cache.json",
+      " M 99_Meta/dedup_index_v2.json",
+      " M 99_Meta/evolution_ledger.json",
       " M 99_Meta/evolution_queue.json",
+      " M 99_Meta/genspark_research_brief.md",
       " M 99_Meta/hypothesis_registry.json",
       " M 99_Meta/knowledge_compile_state.json",
-      " M 99_Meta/self_evolve_log.json",
-      "?? 60_MOC/12_Knowledge_Review_2026-08-31.md"
+      " M 99_Meta/research_state.json"
     ]
   },
   "health": {

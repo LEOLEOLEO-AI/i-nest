@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[TemporalBatchSynchronization]]
 [[TemporalCodingForPointClouds]]
 [[TemporalSparsityExploitation]]
+[[ThresholdBasedSpikeEncoding]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
 

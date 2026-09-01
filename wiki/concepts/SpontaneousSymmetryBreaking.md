@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[DelayTolerantNetworkUAV]]
 [[Driven_Criticality]]
 [[ExactlyFlatTopologicalBands]]
+[[FeatureBonding]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[GroupInfluenceThreshold]]
 [[InNetworkComputing]]

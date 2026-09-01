@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[IntrinsicTimingSTDP]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
+[[NeuromorphicEdgeProcessing]]
 [[NeuromorphicGraphAnomalyDetection]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]

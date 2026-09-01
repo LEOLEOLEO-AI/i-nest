@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[ITP_STDP_Learning_Engine]]
 [[IonotronicPhotoplasticity]]
 [[Neuromorphic_Computing]]
+[[NoiseInducedPhaseLocking]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]
 [[Spiking_Neural_Network]]

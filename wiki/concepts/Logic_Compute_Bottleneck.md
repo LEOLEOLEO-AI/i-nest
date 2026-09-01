@@ -22,6 +22,8 @@ Auto-extracted concept from raw material compilation.
 
 [[1024_Card_SuperNode]]
 [[3D_Integrated_Chiplet_Stacking]]
+[[3D_Vertical_Interconnect]]
+[[3d]]
 [[AI_Memory_Infrastructure]]
 [[ASIC_Power_Efficiency]]
 [[AdiabaticMultimodeBend]]
@@ -32,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
+[[Heterogeneous_Integration]]
 [[Memory_Wall]]
 [[TCC]]
 [[iNEST]]

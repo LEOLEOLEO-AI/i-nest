@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspiredSequenceLearning]]
 [[BrainInspired_Chip]]
 [[BurstTemporalPlasticity]]
+[[EEGSpikeEncoding]]
 [[EventCameraPoseInput]]
 [[EventCameraTemporalEncoding]]
 [[EventDrivenComputation]]

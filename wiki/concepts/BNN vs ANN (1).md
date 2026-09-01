@@ -27,6 +27,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 
 [[3DGS_Scene_Graph]]
 [[3D_Torus_6_Degree]]
+[[3d]]
 [[ActiveMatterSubstrate]]
 [[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
@@ -51,6 +52,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[getnote_2026-06-27_智能涌现理论框架]]
 [[iNEST]]
 [[人类唯一的出路_变成人工智能_初篇_人类巨灵和大脑结构]]
+[[从CoWoS走向CoPoS，晶圆从圆形变成方形]]
 [[在网计算（In-Network Computing） (1)]]
 [[复杂度的计算 (1)]]
 [[无标题]]

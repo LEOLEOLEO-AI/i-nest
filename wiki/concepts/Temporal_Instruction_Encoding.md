@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[EndToEndTopologyLearning]]
 [[Memristor]]
 [[Memristor_Synapse]]
+[[MonitoringProtocol]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]

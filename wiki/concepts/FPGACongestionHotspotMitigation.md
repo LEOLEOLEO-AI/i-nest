@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3D_IC_Stacking]]
+[[3d]]
 [[AI_Faculty_Forum_2026]]
 [[BigBrainCellularAxis]]
 [[ConsciousnessEngineeringLoop]]
@@ -31,8 +32,10 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenAsynchronousRouting]]
 [[Event_Driven_Architecture]]
 [[Evolutionary_Structure_Computability]]
+[[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[GeneralIntelligenceSubstrate]]
+[[HighThroughputBioparticleRouting]]
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]
 [[MultiplicativeGain]]

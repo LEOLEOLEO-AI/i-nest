@@ -57,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Mamba_Block]]
 [[Spiking_Neural_Network]]
+[[StochasticSpikeEncoding]]
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
 [[iNEST]]

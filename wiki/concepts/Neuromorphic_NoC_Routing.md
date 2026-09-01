@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Architecture]]
 [[HypergraphRumorPropagation]]
 [[In_Network_Neuromorphic]]
+[[In_Network_Neuromorphic_Scheduling]]
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]
 [[Network_on_Chip]]

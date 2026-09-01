@@ -22,13 +22,17 @@ Auto-extracted concept from raw material compilation.
 
 [[1M1T1R_SynapticNeuron]]
 [[20W_Brain_Inspired_Planning]]
+[[3d]]
 [[AIRA_NeuralArchSearch]]
 [[AI_Application_Scenario_Reconstruction]]
 [[ActiveDendriteSNN]]
 [[AdaptiveTimeStepTraining]]
 [[Alpha_Computation_Consistency]]
 [[AndersonTransition]]
+[[AtomicGeometryEncoding]]
 [[Network_Topology_Design]]
+[[SNN]]
+[[Spiking_Neural_Network]]
 [[TCC]]
 
 ## Sources

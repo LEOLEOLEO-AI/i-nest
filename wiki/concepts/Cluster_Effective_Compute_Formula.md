@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Stacking]]
 [[DistributedTrainingPipeline]]
 [[GPU_Bottleneck_Relief]]
+[[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Topology]]
 [[SparsityAwareInterconnect]]
 [[TCC]]
+[[WaferScaleTopologyCentricComputing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

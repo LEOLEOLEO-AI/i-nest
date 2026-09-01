@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[AI人工智能 卷积神经网络（CNN）_w3cschool]]
 [[ANN动力学]]
 [[ActiveMatterSubstrate]]
+[[AdaptiveDensityControl]]
 [[Advanced_Computing_Project]]
 [[Analog_InMemory_Processing]]
 [[BCM滑动阈值]]

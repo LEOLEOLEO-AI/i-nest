@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicTokenSparsity]]
 [[Dynamical_State_Space]]
 [[DynamicsMatchedReservoir]]
+[[Edge_Neuromorphic_Compute]]
 [[Emergent_Reservoir_Topology]]
 [[Entanglement_Phase_Transition]]
 [[InNetworkComputing]]

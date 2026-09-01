@@ -43,6 +43,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Deep_Thermalisation]]
 [[DendriticReservoirState]]
 [[EdgeInspectionInference]]
+[[EventSparseTemporalEncoding]]
 [[Event_Driven_Architecture]]
 [[FunctionalInterfaceBlock]]
 [[Heterogeneous_Integration]]

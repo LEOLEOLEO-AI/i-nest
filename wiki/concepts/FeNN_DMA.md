@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[BulletTrainScheduling]]
 [[BurstTemporalPlasticity]]
 [[Criticality]]
+[[EventDrivenAutoregression]]
 [[EventDrivenMotionDeblurring]]
 [[Neuromorphic_Computing]]
 [[SNN]]

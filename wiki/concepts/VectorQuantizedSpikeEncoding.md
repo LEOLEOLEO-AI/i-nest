@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Packaging]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[SelectorFreeHopfieldNetwork]]

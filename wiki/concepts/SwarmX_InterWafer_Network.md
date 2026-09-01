@@ -22,13 +22,16 @@ Auto-extracted concept from raw material compilation.
 
 [[4H_SiC_SubstrateProcessing]]
 [[AI_Faculty_Forum_2026]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[AnalogInMemoryComputing]]
 [[Analog_Synaptic_Weighting]]
 [[Attention_Residuals]]
 [[BackpropagationFreeLearning]]
+[[Causal_Emergence_Architecture]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
+[[SwarmX_InterWafer]]
 [[TCC]]
 
 ## Sources

@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[DrivenDissipativeDynamics]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
+[[FixedOverheadCost]]
 [[FixedOverheadPenalty]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]

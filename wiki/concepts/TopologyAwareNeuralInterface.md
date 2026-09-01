@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[3DHI_Interconnect]]
 [[3DHI_Stacking]]
+[[3d]]
 [[AI_FullSpectrum_Strategy]]
 [[Additive_Manufacturing_Topology]]
 [[Advanced_Packaging]]
@@ -45,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[GPU_Hegemony_Disruption]]
 [[Heterogeneous_Integration]]
 [[Inference_Stage_Decomposition]]
+[[Inference_Workload_Profiling]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]

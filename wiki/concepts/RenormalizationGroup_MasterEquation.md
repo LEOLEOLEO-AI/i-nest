@@ -46,6 +46,8 @@ Auto-extracted concept from raw material compilation.
 [[CriticalSlowingDown]]
 [[Distributed_Sinkhorn_Iteration]]
 [[Energy_Balanced_Interconnect]]
+[[ExactEvolutionaryHybridSearch]]
+[[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
 [[Heterogeneous_Integration]]

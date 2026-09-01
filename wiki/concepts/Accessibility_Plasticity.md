@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[FrozenRateOperator]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[MatrixShapePhaseTransition]]
 [[Memristive_Topology]]
 [[Memristor]]
 [[Memristor_Synapse]]

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[Criticality_of_Natural_Languages]]
 [[Deep_Thermalisation]]
+[[Fading_Memory_Property]]
 [[Heterogeneous_Compute_Graph]]
 [[HierarchicalReservoirDynamics]]
 [[KV_Cache_To_BoundaryObject]]

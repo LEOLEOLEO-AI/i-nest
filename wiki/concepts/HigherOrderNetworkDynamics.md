@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityInNetworkComputing]]
 [[CriticalityOffCriticalityTransition]]
 [[Criticality]]
+[[Driven_Criticality]]
 [[ExactlyFlatTopologicalBands]]
 [[HigherOrderNetwork]]
 [[InNetworkComputing]]

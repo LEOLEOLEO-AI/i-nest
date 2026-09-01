@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Control_Field_Framework]]
 [[Crossbar_Programming]]
 [[DTGA]]
+[[EmulationTheoryObserver]]
 [[FPGA_Neuromorphic_Architectures]]
 [[Free_Energy_Topology_Mapping]]
 [[Intelligence_Emergence]]

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Battery_Technology_Integration]]
 [[BiologicalNoiseMimicry]]
 [[BrainActivityPrediction]]
+[[CollectiveSpikingDynamics]]
 [[CombinedImportanceScoring]]
 [[CurrentInjectionSNN]]
 [[DARPA_ProjectManager_Model]]

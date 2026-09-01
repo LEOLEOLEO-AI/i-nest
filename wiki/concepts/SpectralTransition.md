@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicsMatchedReservoir]]
 [[Edge_of_Chaos]]
 [[Emergent_Reservoir_Topology]]
+[[FormalLinguisticCompetence]]
 [[Intelligence_Emergence]]
 [[Monitored_Quantum_Circuits]]
 [[MultifractalCriticalPhase]]

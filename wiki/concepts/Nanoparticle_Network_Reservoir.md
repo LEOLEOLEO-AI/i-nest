@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[CSI_Temporal_Encoding]]
 [[CompartmentalNeuronModel]]
 [[CoreComputationSubspace]]
+[[Crystallized_Neural_Manifolds]]
 [[CulturalDisseminationDynamics]]
 [[DendriticReservoirState]]
 [[Dynamic_Expert_Fusion]]

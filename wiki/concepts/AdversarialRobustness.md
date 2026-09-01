@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Accessibility_Gradient]]
 [[ActionWeightedPathEnsemble]]
 [[AdversarialSensingResilience]]
+[[Air_Combat_Autonomy]]
 [[AirportNetworkGraphEmbedding]]
 [[Allreduce_Latency_Probe]]
 [[AmplifyingNetworkTopology]]

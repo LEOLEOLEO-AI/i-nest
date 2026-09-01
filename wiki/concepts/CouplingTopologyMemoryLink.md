@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Environmental_Coupling_Organization]]
 [[Fading_Memory_Property]]
 [[FirstPrinciples_AI]]
+[[Fixed_Cost_Dominance]]
 [[IntegratedInformationFreeEnergyBridge]]
 [[Memristor]]
 [[Memristor_Synapse]]

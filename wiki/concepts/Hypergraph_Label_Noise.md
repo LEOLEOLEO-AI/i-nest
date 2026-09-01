@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[HigherOrderStochasticProcess]]
 [[LIF_Neuron_Model]]
+[[MagnetizationSusceptibilityResponse]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[NoiseRobust_Hyperedge_Aggregation]]

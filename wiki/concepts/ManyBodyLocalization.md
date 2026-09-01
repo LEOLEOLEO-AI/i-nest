@@ -48,6 +48,8 @@ Auto-extracted concept from raw material compilation.
 [[IntegrationProspectsForVLSI]]
 [[Intelligence_Emergence]]
 [[Loihi2_OnChip_Learning]]
+[[Loihi]]
+[[MeanFieldSpinGlass]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]

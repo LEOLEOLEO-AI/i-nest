@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[3D_Torus_6_Degree]]
+[[3d]]
 [[ANN_to_SNN_Conversion_Error_Amplification]]
 [[ActiveDendriteSNN]]
 [[Activity_Energy_Tradeoff]]
@@ -37,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[Criticality_Based_Feature_Extraction]]
+[[CrossLayer_SignalRouting]]
 [[DTGA]]
 [[DynamicTokenSparsity]]
 [[EEGSpikeEncoding]]

@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Epithelial_Barrier_Integrity]]
 [[EvolutionaryReservoirLearning]]
 [[GraphEmbeddedReservoir]]
+[[Heterogeneous_Synaptic_Motifs]]
 [[HierarchicalModularReservoirs]]
 [[Intelligence_Emergence]]
 [[MutualReinforcementDynamics]]

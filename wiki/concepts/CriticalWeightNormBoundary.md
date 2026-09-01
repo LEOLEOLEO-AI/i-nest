@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[IntrospectiveRecursion]]
 [[Memristive_Topology]]
+[[Nanoparticle_Network_Interconnect]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]

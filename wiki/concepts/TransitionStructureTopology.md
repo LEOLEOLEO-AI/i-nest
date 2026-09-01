@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Driven_Architecture_Search]]
 [[AdaptiveEntanglementManagement]]
 [[AdaptiveGraphDiffusion]]
+[[Adaptive_Intelligence_Principle]]
 [[AdjointWaveControl]]
 [[AgenticServiceOrchestration]]
 [[AgenticServiceTopology]]

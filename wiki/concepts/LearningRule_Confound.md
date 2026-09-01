@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Backpropagation_Comparison]]
 [[Banded_NonHermitian_Matrix]]
 [[Barrier_Hierarchy]]
+[[BifurcationCandidateSet]]
 [[CST计量仪]]
 [[Complex_System_Theory]]
 [[Evaluation_Resolution]]

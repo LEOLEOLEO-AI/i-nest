@@ -20,6 +20,9 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Advanced_Packaging_for_Space]]
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_NoC_Fabric]]
 [[Chiplet_Stacking]]
@@ -28,6 +31,9 @@ Auto-extracted concept from raw material compilation.
 [[GPU_Bottleneck_Relief]]
 [[Microsecond_Link_Reconfiguration]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
+[[Neuromorphic_Computing]]
+[[NoC]]
 [[P_Paradigm]]
 [[TCC]]
 

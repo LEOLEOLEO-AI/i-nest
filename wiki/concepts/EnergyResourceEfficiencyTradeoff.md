@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3D_Integrated_Chiplet_Stacking]]
+[[3d]]
 [[ActiveDendriteSNN]]
 [[ActiveInference]]
 [[BigBrainCellularAxis]]
@@ -34,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Distributed_Spike_Communication]]
 [[DualDrivenHybridNetwork]]
 [[ErrorAmplificationLimits]]
+[[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[FullyLocalOnlineSNNTraining]]
 [[HeterogeneousSynapticDelays]]
@@ -50,7 +52,10 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[SNN]]
 [[Spiking_Neural_Network]]
+[[Wafer_Scale_Integration]]
+[[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
+[[Wafer_Scale_Neuromorphic]]
 [[analog computation]]
 [[iNEST]]
 

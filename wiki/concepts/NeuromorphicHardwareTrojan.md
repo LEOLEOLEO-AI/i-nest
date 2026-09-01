@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[ScalableNeuromorphicTopology]]
+[[SpikingMoE_SDPrompt]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[TCC_Neuromorphic_Integration]]

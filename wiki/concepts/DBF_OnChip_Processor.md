@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3DIntegratedPhotonicPackaging]]
+[[3d]]
 [[ASIC_Dualism]]
 [[Accessibility_Plasticity]]
 [[Active_Inference_Topology]]
@@ -30,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AdjointWaveControl]]
 [[Analog_InMemory_Processing]]
 [[ArbitraryWavefunctionConfigurability]]
+[[Blanket_Clock_Tree]]
 [[DBF_Processor]]
 [[Network_Topology_Design]]
 [[Synaptic_Plasticity]]

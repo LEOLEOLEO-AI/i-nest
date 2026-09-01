@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[BackpropagationFreeLearning]]
 [[CST计量仪]]
+[[Collective_Offloading]]
 [[Complex_System_Theory]]
 [[Deep_Network_Architecture_Invariant]]
 [[DelayTolerantNetworkUAV]]

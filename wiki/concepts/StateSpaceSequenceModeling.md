@@ -21,6 +21,8 @@ Auto-extracted concept from raw material compilation.
 
 [[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
 [[3D_Torus_6_Degree]]
+[[3d]]
+[[6万+辛顿2025年度全景实录深读｜真正的智能与硅基智能的非对称演进]]
 [[AI-ML — 全景导航 (Map of Content)]]
 [[AIRA_NeuralArchSearch]]
 [[Allreduce_Latency_Probe]]
@@ -60,6 +62,7 @@ Auto-extracted concept from raw material compilation.
 [[Yann LeCun：发现智能原理是AI的终极问题]]
 [[complex system]]
 [[夏强飞一天2篇Nature大子刊：感存算一体，忆阻器阵列模拟计算]]
+[[存算一体]]
 [[忆阻器]]
 [[无反向传播的 4D 连续蚁群神经网络拓扑搜索]]
 [[智能涌现]]

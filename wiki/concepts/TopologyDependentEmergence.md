@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
+[[TopologyCriticality]]
 [[TwoTimescaleNeuroEvolution]]
 [[UniversalIntelligence_Emergence]]
 [[complex system]]

@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[ST_SNN]]
 [[SafetyThresholdAsSpikingThreshold]]
 [[SelfOrganization]]
+[[SpikeEncodingLatency]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[TopologicalInvariancePrinciple]]

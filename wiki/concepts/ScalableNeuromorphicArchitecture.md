@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[HippocampalNeocorticalIntelligence]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
+[[Linguistic_Phase_Transition]]
 [[MultiScaleTemporalProcessing]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicDetectionBackbone]]

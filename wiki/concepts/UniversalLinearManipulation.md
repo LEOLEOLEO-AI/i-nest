@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[CriticalityInNetworkComputing]]
 [[CriticalityInducedTopology]]
+[[CriticalityOffCriticalityTransition]]
 [[Criticality]]
 [[Decoupled_Priors]]
 [[DisorderedNetworkInterconnect]]

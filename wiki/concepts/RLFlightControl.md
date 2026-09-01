@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_ProjectManager_Model]]
 [[DTGA]]
 [[DelayTolerantNetworkUAV]]
+[[FPGA_Reconfigurability]]
 [[Free_Energy_Topology_Mapping]]
 [[Interconnect_Routing]]
 [[LLM_Reward_Design]]

@@ -20,8 +20,10 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Driven_Architecture_Search]]
 [[BurstInterleaving]]
 [[Critical_Region_Extension]]
+[[EventDrivenAsync]]
 [[EventDrivenAsynchronousRouting]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

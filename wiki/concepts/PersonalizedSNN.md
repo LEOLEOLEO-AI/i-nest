@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[BiologicalNoiseMimicry]]
 [[BrownianCastleInterface]]
+[[CollectiveSpikingDynamics]]
 [[CombinedImportanceScoring]]
 [[ErrorSuppressedPipeline]]
 [[In_Package_Neuromorphic_Integration]]

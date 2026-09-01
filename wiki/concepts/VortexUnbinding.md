@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Continuous_Control_Spiking_Stability]]
 [[CriticalityDrivenIntegration]]
 [[Criticality]]
+[[CrossEntityPreemptiveWarning]]
 [[DimensionSeparation_IntensiveExtensive]]
 [[DiscreteContinuous_Unification]]
 [[EventDrivenMotionDeblurring]]

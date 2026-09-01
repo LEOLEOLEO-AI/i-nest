@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Processing]]
 [[Intelligence_Emergence]]
+[[Loihi2_OnChip_Learning]]
 [[MembranePotentialAlignment]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

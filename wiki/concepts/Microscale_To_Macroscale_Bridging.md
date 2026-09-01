@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NoiseAsLearningResource]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SpinalHDL_DSL]]
 [[TopologicalAndersonChernInsulator]]
 [[complex system]]
 [[iNEST]]

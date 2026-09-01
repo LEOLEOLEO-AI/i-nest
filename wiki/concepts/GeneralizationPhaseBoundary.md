@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[LowRankEvolutionStrategies]]
 [[MemristiveSpikingAccelerator]]
 [[Model_Routing_Protocol]]
+[[MultiFPGA_Spiking_Scaling]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]

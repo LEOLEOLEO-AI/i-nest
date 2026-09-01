@@ -20,7 +20,10 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Heterogeneous_Integration]]
 [[Hierarchical_Interconnect]]
+[[Memristor]]
+[[Memristor_Synapse]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
@@ -28,7 +31,9 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Strategic_Planning]]
 [[Synaptic_Plasticity]]
 [[Wafer_Scale_Integration]]
+[[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
+[[Wafer_Scale_Neuromorphic]]
 [[iNEST]]
 
 ## Sources

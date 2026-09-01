@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Crystallized_Neural_Manifolds]]
 [[DendriticReservoirState]]
 [[Dynamic_Expert_Fusion]]
+[[ERI_2_0_Strategic_Framework]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[Epithelial_Barrier_Integrity]]

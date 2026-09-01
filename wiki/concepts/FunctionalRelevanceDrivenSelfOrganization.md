@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AINext_Initiative]]
 [[ActivityAvalanche]]
+[[Activity_Energy_Tradeoff]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[BioInspired_Interception_Control]]
@@ -41,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicRadarFrontend]]
+[[Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]
 [[ReconfigurableSNN_Accelerator]]
 [[ReconfigurableSpikingRouting]]

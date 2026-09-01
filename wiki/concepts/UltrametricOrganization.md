@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[DimensionalityReductionForNetworkControl]]
 [[DistinctReentrantPhases]]
 [[ERI_2_0_Strategy]]
+[[EvanescentFieldTrapping]]
 [[ImaginaryGaugePhaseImprint]]
 [[Intelligence_Emergence]]
 [[ManyCore_Neuromorphic_Scaling]]

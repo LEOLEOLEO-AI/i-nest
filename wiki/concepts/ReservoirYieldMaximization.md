@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[Complex_System_Theory]]
 [[Core_Spacetime_Tensor]]
+[[Crystallized_Neural_Manifolds]]
 [[DataDrivenMaterialDesign]]
 [[DrivenDissipativeDynamics]]
 [[Dynamic_Expert_Fusion]]

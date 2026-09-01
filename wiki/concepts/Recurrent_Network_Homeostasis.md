@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BigBrainCellularAxis]]
+[[CollectiveSpikingDynamics]]
 [[Contested_Prior_Resolution]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence]]

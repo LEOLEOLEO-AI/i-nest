@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3D_Integrated_Chiplet_Stacking]]
+[[3d]]
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_Assisted_Energy_Optimization]]
 [[AcceleratedMaterialScreening]]
@@ -38,8 +39,10 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Architecture]]
 [[CorticalTypeDiversity]]
 [[DARPA_ProjectManager_Model]]
+[[DTGA]]
 [[Decoupling_Mechanism]]
 [[Evolutionary_Structure_Computability]]
+[[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
 [[Heterogeneous_Chiplet_Customization]]

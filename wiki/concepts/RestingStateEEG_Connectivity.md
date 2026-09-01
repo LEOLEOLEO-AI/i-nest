@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[SDPrompt_Guided_Dynamic_Expert_Fusion]]
 [[SparseTemporalEncoding]]
 [[Spike_Encoding_of_fMRI]]
+[[SpikingMoE_SDPrompt]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]

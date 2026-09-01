@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[National_Innovation_Center_Role]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[NoiseDrivenBackpropReconstruction]]
 [[PredictiveCodingVariationalFreeEnergy]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]

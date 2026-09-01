@@ -26,9 +26,12 @@ Auto-extracted concept from raw material compilation.
 [[AmoebaInspiredLocomotion]]
 [[BioInspired_Interception_Control]]
 [[BrainScaleTopologyExploitation]]
+[[MoE_Routing]]
 [[Network_Topology_Design]]
+[[SDI_STDP_Rule]]
 [[Spiking neural network]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 
 ## Sources

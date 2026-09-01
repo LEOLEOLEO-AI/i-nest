@@ -24,6 +24,7 @@ TCC, chiplet, iNEST
 ## Related Concepts
 
 [[3D_IC_Stacking]]
+[[3d]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Heterogeneous_Integration]]

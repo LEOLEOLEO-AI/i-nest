@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TOOLS]]
 [[ThirdWaveAI]]
+[[Topology_Centric_Interconnect]]
 [[iNEST]]
 [[iNEST_Interconnect]]
 [[涌现]]

@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[PhysicalWaferTriplet]]
 [[Residual_Connection_Removal]]
 [[SDI_Bond]]
+[[SDI_Chiplet_Topology]]
 [[SDI_TCC_iNEST_Interconnect]]
 [[SDSoW]]
 [[SDSoW_Architecture]]

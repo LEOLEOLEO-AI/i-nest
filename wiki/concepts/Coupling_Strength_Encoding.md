@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[3D_Torus_6_Degree]]
+[[3d]]
 [[AI_Enabled_Battlefield_Autonomy]]
 [[Accessibility_Plasticity]]
 [[AdaptiveDensityControl]]
@@ -34,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[CorticalTypeDiversity]]
 [[CounterstreamSignalPropagation]]
 [[CouplingMatrixRecovery]]
+[[Crystallized_Neural_Manifolds]]
 [[DTGA]]
 [[DendriticReservoirState]]
 [[Dynamic_Expert_Fusion]]

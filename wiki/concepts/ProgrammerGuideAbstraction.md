@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN动力学]]
 [[AdaptiveNetworkResilience]]
 [[Allreduce_Latency_Probe]]
+[[Alpha_Coefficient_Phase_Transition_Amplification]]
 [[Architectural_Conditioning]]
 [[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]

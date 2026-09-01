@@ -21,11 +21,14 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3DHI_Chiplet_Integration]]
+[[3d]]
 [[AdaptiveGraphDiffusion]]
+[[Adaptive_Intelligence_Principle]]
 [[BurstGatedRouting]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[FPGA_NeuromorphicMapping]]
+[[Heterogeneous_Integration]]
 [[In_Package_Neuromorphic_Integration]]
 [[Interconnect_Routing]]
 [[MemoryDrivenVectorFlowFieldRouting]]

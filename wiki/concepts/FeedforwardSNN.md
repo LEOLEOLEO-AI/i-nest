@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Algorithm_Hardware_CoDesign]]
 [[Analog_Synaptic_Behavior]]
+[[Arithmetic_Intensity_Mismatch]]
 [[BiSpikCLM]]
 [[BigBrainCellularAxis]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]

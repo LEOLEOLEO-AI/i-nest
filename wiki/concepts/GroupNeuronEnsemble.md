@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[BiologicalParadigmValidation]]
 [[Bipartite_Interconnect]]
+[[BoundaryContract]]
 [[CellEmergence]]
 [[CircuitTopologySearch]]
 [[Closed_Loop_Neuromodulation]]

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveTimeStepTraining]]
 [[AnisotropicGaussianPrimitives]]
 [[BigBrainCellularAxis]]
+[[BrainBodyResonance]]
 [[CirculateFiringNeuron]]
 [[CorticalWaveRouting]]
 [[Dynamic_Expert_Fusion]]

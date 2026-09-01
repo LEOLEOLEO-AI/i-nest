@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_iNEST_Interconnect]]
 [[SNN]]
+[[ST_SNN]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]

@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[MetaHardwareAbstraction]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[OptimalRepresentations]]
 [[SDI_Bond]]
 [[SDI_Standard_Review]]
 [[SDI节点接口规范与化合键定义]]

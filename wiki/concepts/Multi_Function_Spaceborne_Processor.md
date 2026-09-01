@@ -20,14 +20,21 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_NoC_Fabric]]
 [[CrossbarInterconnect]]
 [[Defense_Industrial_Base_Reshaping]]
+[[EventDrivenAsync]]
 [[EventDrivenAsynchronousRouting]]
 [[GeneralIntelligenceSubstrate]]
 [[InSitu_Adjoint_Wave_Control]]
 [[Inference_Stage_Decomposition]]
+[[Interconnect_Routing]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
+[[NoC]]
+[[Programmable_Interconnect_Capacitance]]
 [[TCC]]
 [[topology reconfiguration]]
 

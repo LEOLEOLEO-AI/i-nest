@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[STDP_Plasticity]]
+[[SelfHealing_Interconnect]]
 [[StateAugmentedLearning]]
 [[Stigmergic_Neural_Plasticity]]
 [[Synaptic_Plasticity]]

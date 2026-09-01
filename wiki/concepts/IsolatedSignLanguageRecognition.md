@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Connectome]]
 [[Connectome_Reservoir]]
 [[Cross_Brain_Connectome]]
+[[ErrorSuppressedPipeline]]
 [[EvolutionaryReservoirLearning]]
 [[IntrinsicDynamicsAutonomy]]
 [[Neural_Substrate_Independence]]

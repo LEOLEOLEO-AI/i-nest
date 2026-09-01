@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[ConductingPolymerDendriteMemory]]
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[EnergyEfficientRestoration]]
+[[EventBasedBioSignalFrontEnd]]
 [[Event_Driven_Architecture]]
 [[Neuromorphic_Computing]]
 [[Spiking neural network]]

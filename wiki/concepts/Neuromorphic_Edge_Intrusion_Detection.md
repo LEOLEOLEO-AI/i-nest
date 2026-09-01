@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicHardware]]
 [[NeuromorphicPnP]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Sensor_Fusion]]
 [[PolarityMultiSpikeMapping]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]

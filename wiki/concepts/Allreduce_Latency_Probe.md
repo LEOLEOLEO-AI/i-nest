@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[DiagnosticReportFramework]]
 [[EulaminateOverrepresentation]]
 [[Evolutionary_Computability]]
+[[Evolutionary_Structure_Computability]]
 [[Heterogeneous_Integration]]
 [[Memory_Wall]]
 [[Memristive_ANN_Hardware]]

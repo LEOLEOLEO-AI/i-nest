@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AI-ML — 全景导航 (Map of Content)]]
 [[AI_Faculty_Forum_2026]]
 [[ANN动力学]]
+[[ActiveMatterComputing]]
 [[Analog_InMemory_Processing]]
 [[Analog_To_Information_Conversion]]
 [[AsymmetricStochasticInteractions]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[ERI_2_0_Framework]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Theory]]
+[[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
 [[Hyper_Dimensional_Computing]]
@@ -60,6 +62,7 @@ Auto-extracted concept from raw material compilation.
 [[TemporalComplexity]]
 [[complex system]]
 [[iNEST]]
+[[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources

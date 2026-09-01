@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[03 涌现：整体的能力不能还原回个体？ - 得到APP]]
+[[1024_Card_SuperNode]]
 [[AI-ML — 全景导航 (Map of Content)]]
 [[AdiabaticMultimodeBend]]
 [[AdvancedPackagingInterconnect]]
@@ -36,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Packaging]]
 [[Complex_System_Theory]]
 [[DirectConnect_Topology]]
+[[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[GraphBasedSemanticRouting]]
 [[Heterogeneous_Integration]]

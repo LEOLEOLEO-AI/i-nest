@@ -28,8 +28,12 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[ANN动力学]]
 [[Active_Inference_Topology]]
+[[Analog_InMemory_Processing]]
+[[Complex_System_Theory]]
+[[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[iNEST]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

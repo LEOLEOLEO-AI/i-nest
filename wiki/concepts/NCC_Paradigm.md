@@ -25,10 +25,13 @@ Auto-extracted concept from raw material compilation.
 [[InInterconnectMemory]]
 [[Interconnect_Routing]]
 [[IntraWafer_Fabric]]
+[[Memristor]]
 [[Memristor_Interconnect]]
+[[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[TCC]]
+[[Topology_Centric_Computing]]
 [[iNEST]]
 
 ## Sources

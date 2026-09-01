@@ -26,7 +26,9 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
+[[Complex_System_Theory]]
 [[DRBE_MVP_Mainchain]]
+[[Deep_Network_Architecture_Invariant]]
 [[EulaminateOverrepresentation]]
 [[FlagScale]]
 [[Heterogeneous_Integration]]
@@ -75,3 +77,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- SDI_Bond (merged 2026-09-02)

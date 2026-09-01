@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AdjustableDynamics]]
 [[Alpha_Coefficient_Phase_Transition_Amplification]]
 [[BayesianDomainEvolution]]
+[[BehavioralFeedbackLoop]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]
 [[SpatioTemporal_Reservoir]]

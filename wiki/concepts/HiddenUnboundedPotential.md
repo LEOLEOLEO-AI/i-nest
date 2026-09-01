@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Crossover_Physics]]
 [[FeatureBonding]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
+[[GroupInfluenceThreshold]]
 [[InNetworkReconfiguration]]
 [[Interconnect_Routing]]
 [[JointFlightRoutingOptimization]]

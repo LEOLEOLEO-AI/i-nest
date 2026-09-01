@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[CrossbarArrayVLSI]]
 [[DTGA]]
+[[ExplainableEnergyAI]]
 [[FunctionalBrainGraphEmbedding]]
 [[Hierarchical_Interconnect]]
 [[Memristive_STDP]]

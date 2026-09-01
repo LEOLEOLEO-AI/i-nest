@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[CorticalTypeDiversity]]
 [[Criticality]]
 [[CrossLayer_SignalRouting]]
+[[DataMovementMinimization]]
 [[Decoupled_Priors]]
 [[Disordered_Frustrated_Dimer_Magnets]]
 [[Heterogeneous_Integration]]

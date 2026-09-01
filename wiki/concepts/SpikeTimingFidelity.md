@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[LocalQuantumLearningRule]]
 [[Memristor]]
 [[Memristor_Synapse]]
+[[Meta_Residual_Learning]]
 [[Nanoencapsulation_Stability_Bioavailability]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]

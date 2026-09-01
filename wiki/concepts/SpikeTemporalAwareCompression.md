@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[3D_Torus_6_Degree]]
+[[3d]]
 [[ActiveDendriteSNN]]
 [[Bidirectional_Temporal_Enhancement]]
 [[Contested_Prior_Resolution]]
@@ -43,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[StructuralPriorEncoding]]
 [[TCC]]
+[[Topology_Centric_Neuromorphic_Integration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

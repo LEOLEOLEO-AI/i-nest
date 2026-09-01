@@ -21,11 +21,13 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3D_Airborne_Connectivity_Characterization]]
+[[3d]]
 [[Additive_Manufacturing_Defense_Trinity]]
 [[BackflowTransformation]]
 [[Brain_Connectome]]
 [[C_elegansConnectomeAnalogy]]
 [[ChaoticAttractorTopology]]
+[[ConnectomeComputationBasis]]
 [[Connectome]]
 [[Cortical_Traveling_Waves]]
 [[Network_Topology_Design]]

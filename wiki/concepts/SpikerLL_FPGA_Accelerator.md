@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[DivergentHigherAreaRanking]]
 [[FlexibilityThreshold]]
 [[Gaussian_Splatting_Streaming]]
+[[Globally_Optimal_SNN_Training]]
 [[HardwareAware_DesignSpace]]
 [[Localized_Feedback_Array]]
 [[Meta_Residual_Learning]]

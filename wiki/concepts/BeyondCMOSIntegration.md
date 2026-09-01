@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[InteractiveRoboticsLoop]]
 [[LIF_Neuron_Model]]
 [[LowBitSpikingPruning]]
+[[MembranePotentialDynamics]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[SDI_Bond]]

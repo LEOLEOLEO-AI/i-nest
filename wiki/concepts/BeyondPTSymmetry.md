@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[OpportunisticRoutingRL]]
 [[OpportunisticRouting]]
 [[PairwiseCorrelationConstraint]]
+[[PropertyPredictionModeling]]
 [[SelfOrganization]]
 [[TCC]]
 [[WaveBasedInformationRouting]]

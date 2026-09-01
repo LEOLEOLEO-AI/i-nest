@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[CollectiveStateTopology]]
 [[ConstraintDrivenSelfOrganization]]
 [[Continual_Learning_Modularity]]
+[[CounterstreamSignalPropagation]]
 [[Criticality]]
 [[FlexibilityThreshold]]
 [[Network_Topology_Design]]

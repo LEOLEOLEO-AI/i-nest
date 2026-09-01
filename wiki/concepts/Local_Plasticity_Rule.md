@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[SparseActivationSkipping]]
 [[SpikeAttentionMechanism]]
+[[SpikeAttention]]
 [[SpikeAwareAlignmentDistillation]]
 [[SpikeEncoding]]
 [[SpikeTemporalDataAssociation]]
@@ -50,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[StochasticSpikeEncoding]]
 [[Synaptic_Plasticity]]
+[[TemporalCodingOptimization]]
 [[iNEST]]
 [[神经网络]]
 

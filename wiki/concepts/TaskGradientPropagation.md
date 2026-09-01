@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3D_Integrated_Chiplet_Stacking]]
+[[3d]]
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_Assisted_Energy_Optimization]]
 [[AI_FullSpectrum_Strategy]]
@@ -45,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_Topology]]
 [[NetworkInfluenceDynamics]]
 [[Network_Topology_Design]]
+[[PostHocInterpretabilityContrast]]
 [[RecursiveSelfReferentialArchitecture]]
 [[RecursiveTopologyBreakthrough]]
 [[Self_Organized_Criticality]]

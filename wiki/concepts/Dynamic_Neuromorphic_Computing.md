@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenRiskAssessment]]
 [[Event_Driven_Architecture]]
 [[MagnitudePhaseComputationalModel]]
+[[NeuromorphicStatusAwareness]]
 [[Neuromorphic_Computing]]
 [[Spiking neural network]]
 [[Spiking_Neural_Network]]

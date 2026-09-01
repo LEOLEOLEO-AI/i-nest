@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[EfficientDeepLearning]]
 [[ElectromigrationReliability]]
 [[GenericObjectTracking]]
+[[HardwareAware_SelfOrganization]]
 [[Intellectual_Base]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

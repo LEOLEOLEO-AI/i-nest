@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[InMateriaComputing]]
 [[Intelligence_Emergence]]
 [[Intelligent_Power_Management]]
+[[Memristive_STDP]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Spatiotemporal_Synergy]]
 [[Network_Topology_Design]]
@@ -61,7 +62,6 @@ Auto-extracted concept from raw material compilation.
 [[SystemLevelNonlinearity]]
 [[TopologicalAndersonChernInsulator]]
 [[TopologyCentricEngineeringBase]]
-[[causal emergence]]
 [[complex system]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

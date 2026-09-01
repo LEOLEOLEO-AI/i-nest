@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[CavityMethodAnalysis]]
 [[Complex_System_Theory]]
 [[Continual_Learning_Modularity]]
+[[ControlDrivenCriticalFluctuations]]
 [[DelayTolerantNetworkUAV]]
 [[EvolvingArchitectureDynamics]]
 [[HybridCouplingThermosensitiveNetwork]]

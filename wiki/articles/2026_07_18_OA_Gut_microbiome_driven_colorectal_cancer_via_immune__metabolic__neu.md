@@ -23,6 +23,7 @@ NoC, iNEST
 
 ## Related Concepts
 
+[[Free_Energy_Principle]]
 [[Network_on_Chip]]
 [[NoC]]
 [[iNEST]]

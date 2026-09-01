@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Constructed_Reality_Prior]]
 [[DARPA_ProjectManager_Model]]
+[[End_Side_Neuromorphic_Deployment]]
 [[FerroelectricCrossbarArray]]
 [[FerroelectricSynapticArray]]
 [[Ferroelectric_Devices]]

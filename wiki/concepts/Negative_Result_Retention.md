@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[FeatureBonding]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[InNetworkReconfiguration]]
+[[Inference_Workload_Profiling]]
 [[InputAdaptiveComputation]]
 [[Interconnect_Routing]]
 [[JointFlightRoutingOptimization]]

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[EventCameraTemporalEncoding]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
+[[RobustnessToNoiseInSNN]]
 [[SNN]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]

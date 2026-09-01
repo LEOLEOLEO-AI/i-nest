@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[11_SDI节点接口规范与化合键定义_dup]]
+[[3d]]
 [[AI_Faculty_Forum_2026]]
 [[AdiabaticModeEvolution]]
 [[Chiplet]]
@@ -61,6 +62,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
+[[Wafer_Scale_Memristor_Interconnect]]
 [[Γst_Revision]]
 
 ## Sources

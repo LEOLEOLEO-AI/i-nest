@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]
+[[Wafer_Scale_Neuromorphic]]
 [[iNEST]]
 
 ## Sources

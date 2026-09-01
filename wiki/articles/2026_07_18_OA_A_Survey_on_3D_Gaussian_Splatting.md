@@ -23,5 +23,6 @@ topology
 
 ## Related Concepts
 
+[[3d]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

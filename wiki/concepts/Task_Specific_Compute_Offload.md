@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[3DHI_Stacking]]
 [[3D_Heterogeneous_Integration]]
 [[3D_Integrated_Chiplet_Stacking]]
+[[3d]]
 [[AdiabaticMultimodeBend]]
 [[AdvancedPackagingInterconnect]]
 [[Advanced_Packaging]]
@@ -36,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Bipartite_Interconnect]]
 [[BisectionBandwidthBound]]
 [[BisectionBandwidthMetric]]
+[[CXL_Deployment_Transition]]
 [[ChipletTopologyAwareness]]
 [[Chiplet]]
 [[Chiplet_Based_Architecture]]
@@ -58,7 +60,6 @@ Auto-extracted concept from raw material compilation.
 [[NoC]]
 [[NoC_Interconnect]]
 [[TCC]]
-[[advanced packaging]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

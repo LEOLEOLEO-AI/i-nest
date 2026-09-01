@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenComputation]]
 [[Event_Driven_Architecture]]
 [[Event_Driven_Computation]]
+[[HigherOrderAvalanche]]
 [[Interconnect_Routing]]
 [[MoE_Routing]]
 [[Neuromorphic_Computing]]

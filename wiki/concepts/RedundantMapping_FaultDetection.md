@@ -51,10 +51,12 @@ Auto-extracted concept from raw material compilation.
 [[NoC_TopologyMapping]]
 [[NoC_Topology]]
 [[PhysicalWaferTriplet]]
+[[SDSoW_Reconfigurable_Network]]
 [[TCC]]
 [[WaferScaleChipletIntegration]]
 [[WaferScaleTopologyInterconnect]]
 [[Wafer_Scale_Integration]]
+[[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
 
 ## Sources

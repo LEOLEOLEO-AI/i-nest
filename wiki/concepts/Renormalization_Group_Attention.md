@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[ConvexNonConvexTradeoff]]
 [[Deep_Network_Architecture_Invariant]]
+[[DynamicServiceComposition]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[ElectromigrationReliability]]

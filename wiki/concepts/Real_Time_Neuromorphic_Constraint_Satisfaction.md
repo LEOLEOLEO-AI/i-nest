@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[DevelopmentalNeuromorphicAdaptation]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
+[[EnergyEfficientNeuromorphic]]
 [[EventDrivenModularArchitecture]]
 [[EventDrivenWeightUpdate]]
 [[InNetworkAgentRewiring]]

@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[AmorphousSolidPlasticity]]
 [[Analog_InMemory_Processing]]
 [[Complex_System_Theory]]
+[[DynamicInference]]
 [[ImaginaryGaugePhaseImprint]]
 [[Intelligence_Emergence]]
 [[Memristive_STDP]]

@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[SDI_Bond]]
 [[SDI_STDP]]
 [[SDI_STDP_Fusion]]
 [[SDI_STDP_Rule]]
@@ -29,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_iNEST]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
+[[Synaptic_Plasticity_Rule]]
 [[iNEST]]
 
 ## Sources

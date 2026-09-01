@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[IMPLYMemristiveISA]]
 [[In_Memory_Computing]]
 [[Intelligence_Emergence]]
+[[MemristiveReservoirBranchPrediction]]
 [[Memristive_ANN_Hardware]]
 [[Memristor]]
 [[Memristor_Hardware_ANN]]

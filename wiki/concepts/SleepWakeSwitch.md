@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[MoE_Routing]]
 [[Network_Topology_Design]]
 [[OddConservedDynamics]]
+[[Orientation_Encoding_Latent_Spaces]]
 [[Self_Organized_Criticality]]
 [[Synaptic_Plasticity]]
 [[TCC]]

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Fading_Memory_Property]]
 [[Heterogeneous_Integration]]
 [[Hyper_Dimensional_Computing]]
+[[IntegratedSensingFusion]]
 [[Intelligence_Emergence]]
 [[MachineLearningPotential]]
 [[MeanFieldSpinGlass]]

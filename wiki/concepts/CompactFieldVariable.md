@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Architecture]]
 [[SDSoW_Physical_Base]]
 [[Semantic_Least_Energy_Principle]]
+[[SoftwareDefinedSystemOnWafer]]
 [[Software_Defined_Interconnect]]
 [[TCC]]
 [[TopologyProgramming]]

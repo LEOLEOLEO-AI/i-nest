@@ -22,10 +22,13 @@ Auto-extracted concept from raw material compilation.
 
 [[4H_SiC_SubstrateProcessing]]
 [[BackpropagationFreeLearning]]
+[[DARPA_ProjectManager_Model]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[PhysicalSubstrateReservoir]]
+[[Reservoir_Computing]]
 [[SDSoW]]
+[[SDSoW_Architecture]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]

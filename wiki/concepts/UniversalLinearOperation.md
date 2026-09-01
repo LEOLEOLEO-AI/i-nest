@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuromorphicRadarFrontend]]
 [[Neuromorphic_Computing]]
+[[OODA_Loop_Breaking]]
 [[ReconfigurableSNN_Accelerator]]
 [[SDI_Bond]]
 [[SDI_Control_Plane_Offload]]

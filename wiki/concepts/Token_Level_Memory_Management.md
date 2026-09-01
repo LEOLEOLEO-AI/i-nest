@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Compositional_Continuum]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
+[[Energy_Efficient_Control]]
 [[FeFET_Polarization_Switching]]
 [[FerroelectricMemoryCell]]
 [[Ferroelectric_Devices]]

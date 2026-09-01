@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3D_Torus_6_Degree]]
+[[3d]]
 [[ActiveDendriteSNN]]
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[AnomalousSpinTransport]]
@@ -37,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[LatencyGradientDescent]]
 [[MembranePotentialAlignment]]
 [[Network_Topology_Design]]
+[[NeuralVariabilityEnhancement]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[SNN]]

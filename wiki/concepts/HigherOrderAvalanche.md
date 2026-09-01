@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[DevelopmentalNeuromorphicAdaptation]]
 [[EventCameraTemporalEncoding]]
 [[FormalLinguisticCompetence]]
+[[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[Gut_Brain_Immune_Network]]
 [[HippocampalNeocorticalIntelligence]]
@@ -58,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[TemporalComplexity]]
 [[TopologyDrivenVulnerability]]
 [[iNEST]]
+[[iNEST_Neuromorphic_Integration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

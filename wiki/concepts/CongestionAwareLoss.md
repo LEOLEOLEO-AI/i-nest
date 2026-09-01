@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[PinAssignmentOptimization]]
+[[PropertyPredictionModeling]]
 [[ReconfigurableSpikingRouting]]
 [[RoutabilityDrivenFloorplanning]]
 [[Spiking_Neural_Network]]

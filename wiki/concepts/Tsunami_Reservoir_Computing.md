@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Compressed_Glass_Network]]
 [[ConnectivityDerivedReservoir]]
 [[Contested_Prior_Resolution]]
+[[Contested_Priors_Mechanism]]
 [[Crystallized_Neural_Manifolds]]
 [[Edge_of_Chaos]]
 [[Intelligence_Emergence]]

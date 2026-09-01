@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[3D_Heterogeneous_Integration]]
+[[3d]]
 [[AdjointWaveControl]]
 [[CavityMethodAnalysis]]
 [[Chip_Floorplanning]]
@@ -32,7 +33,9 @@ Auto-extracted concept from raw material compilation.
 [[DifferentiablePlacement]]
 [[EntanglementAwareRouting]]
 [[FatalityDrivenRewiring]]
+[[Heterogeneous_Integration]]
 [[InSitu_Adjoint_Wave_Control]]
+[[Inference_Workload_Profiling]]
 [[Intelligence_Emergence]]
 [[InterconnectDrivenCostFunction]]
 [[Interconnect_Routing]]

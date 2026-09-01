@@ -21,6 +21,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 ## Related Work
 
 [[3D_Torus_6_Degree]]
+[[3d]]
 [[AlternativeBridgingModels]]
 [[AnomalousSpinTransport]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
@@ -53,6 +54,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[TopologyFragility]]
+[[Universal_Claim_Evidence_Requirement]]
 [[iNEST]]
 [[智能涌现]]
 [[涌现]]

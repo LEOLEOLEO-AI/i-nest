@@ -61,6 +61,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[TemperatureSensitivityControl]]
 [[analog computation]]
 [[complex system]]
+[[iNEST 论文总清单（唯一主文件）]]
 [[iNEST]]
 [[无反向传播的 4D 连续蚁群神经网络拓扑搜索]]
 [[智能涌现]]

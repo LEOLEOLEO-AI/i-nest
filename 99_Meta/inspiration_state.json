@@ -238,6 +238,34 @@
       "date": "2026-09-01T04:10:12.706302",
       "card": "20260901_topological_dynamics_paradigm_shift_2025.md",
       "method": "llm"
+    },
+    "30_TCC\\32_Technology\\imec_2.5D_3D_packaging_TCB_analysis.md": {
+      "date": "2026-09-02T04:05:19.852518",
+      "card": "20260902_imec_2.5D_3D_packaging_TCB_analysis.md",
+      "method": "llm"
+    },
+    "30_TCC\\32_Technology\\Graphlet_Decomposition_Memristors_Hardware_Acceleration.md": {
+      "date": "2026-09-02T04:07:49.093584",
+      "card": "20260902_Graphlet_Decomposition_Memristors_Hardware_Acceler.md",
+      "method": "llm"
+    },
+    "30_TCC\\32_Technology\\Chiplet_Multi-Die_Interconnect_Analysis.md": {
+      "date": "2026-09-02T04:08:07.335549",
+      "card": "20260902_Chiplet_Multi-Die_Interconnect_Analysis.md",
+      "method": "llm"
+    },
+    "30_TCC\\34_Projects\\DARPA_3DHI_NGMM_Strategy_Analysis.md": {
+      "date": "2026-09-02T04:08:24.674478",
+      "error": true
+    },
+    "30_TCC\\31_Theory\\higher_order_topological_dynamics_complex_systems_review.md": {
+      "date": "2026-09-02T04:08:39.623095",
+      "card": "20260902_higher_order_topological_dynamics_complex_systems_.md",
+      "method": "llm"
+    },
+    "30_TCC\\32_Technology\\Huawei_AI_Cluster_Network_Challenges_SIGCOMM2025.md": {
+      "date": "2026-09-02T04:10:49.317955",
+      "error": true
     }
   }
 }

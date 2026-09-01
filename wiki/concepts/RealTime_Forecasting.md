@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[LLM_TopologicalReplicationGap]]
+[[Machine_Decision_Speed_Advantage]]
 [[Material_Circularity]]
 [[Memristive_Topology]]
 [[Multiplex_Epidemic_Threshold]]

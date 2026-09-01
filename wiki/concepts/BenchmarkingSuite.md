@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[NoC]]
 [[Obsidian_Plugin_Architecture]]
+[[OpticalTopologyReconfiguration]]
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[TCC]]

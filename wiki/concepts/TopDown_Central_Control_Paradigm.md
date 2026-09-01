@@ -29,6 +29,8 @@ Auto-extracted concept from raw material compilation.
 [[BrainInspired_Chip]]
 [[ByteDance_Ada_Chip]]
 [[CST_MasterEquation]]
+[[Complex_System_Theory]]
+[[Intelligent_Power_Management]]
 [[iNEST]]
 
 ## Sources

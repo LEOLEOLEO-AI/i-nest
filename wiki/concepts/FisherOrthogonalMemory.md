@@ -58,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[SneakPathCurrentSuppression]]
+[[Stigmergic_Graph_Memory]]
 [[SwarmGradientRouting]]
 [[TCC]]
 [[TemporalInformationStorage]]

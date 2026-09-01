@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
 [[EventCameraActionRecognition]]
+[[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[Free_Energy_Topology_Mapping]]
 [[FunctionalInterfaceBlock]]
@@ -66,6 +67,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect_Memristor]]
 [[complex system]]
 [[iNEST]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 [[类脑芯片]]
 

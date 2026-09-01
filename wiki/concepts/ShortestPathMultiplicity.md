@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[3D_Torus_6_Degree]]
+[[3d]]
 [[AI_Enabled_Battlefield_Autonomy]]
 [[AI_Forum_Demo_Narrative]]
 [[AI_FullSpectrum_Strategy]]
@@ -46,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicNetworkFabric]]
 [[NeuromorphicTransformerTopology]]
 [[Neuromorphic_Computing]]
+[[NonHermitianTopologicalAndersonInsulator]]
 [[Nonlinear_Gain]]
 [[ProjectiveMeasurementRouting]]
 [[RecursiveSelfReferentialArchitecture]]
@@ -56,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[TemporalSemanticEntropy]]
 [[TopologicalAndersonChernInsulator]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

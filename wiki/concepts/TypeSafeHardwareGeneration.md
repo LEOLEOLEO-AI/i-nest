@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Die_to_Die_Protocol]]
 [[Heterogeneous_Integration]]
 [[InInterconnectMemory]]
+[[Inference_Workload_Profiling]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Memory_Wall]]

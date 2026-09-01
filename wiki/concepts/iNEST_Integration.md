@@ -21,12 +21,15 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[BrainInspiredArchitecture]]
+[[ConductingPolymerDendriteMemory]]
 [[EventDrivenMatrixUpdate]]
 [[Event_Driven_Architecture]]
 [[NestedRepresentation]]
 [[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[SpiNNaker2_Chip]]
+[[SpiNNaker]]
 [[iNEST]]
 [[iNEST_Interconnect]]
 [[iNEST_Neuromorphic_Integration]]

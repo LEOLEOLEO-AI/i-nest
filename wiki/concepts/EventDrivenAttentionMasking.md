@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Learning]]
 [[STDP_Plasticity]]
 [[SaliencyDrivenAttention]]
+[[SolitonLikeWaves]]
 [[SpectralSpikeEncoding]]
 [[SpikeEncoding]]
 [[Spike_Encoding_of_fMRI]]

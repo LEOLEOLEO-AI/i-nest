@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN_SNN_WeightSpaceGap]]
 [[ActiveDendriteSNN]]
 [[AdaptiveFrequencyResonateAndFire]]
+[[Adaptive_Replication_Strategy]]
 [[AsynchronousEventDrivenComputation]]
 [[Avoided_Criticality]]
 [[BurstCoding]]

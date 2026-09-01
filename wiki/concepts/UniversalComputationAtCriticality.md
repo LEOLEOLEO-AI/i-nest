@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[InSitu_Adjoint_Wave_Control]]
 [[Inference_Stage_Decomposition]]
 [[Inference_Workload_Profiling]]
+[[JunctionCenteredRouting]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[OpenLearningEcosystem]]

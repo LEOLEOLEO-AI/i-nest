@@ -28,6 +28,8 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[BranchingRatio]]
 [[CST_Intelligence_Emergence]]
+[[CollectiveDynamics]]
+[[Complex_System_Theory]]
 [[Criticality]]
 [[FormalLinguisticCompetence]]
 [[HierarchicalBayesianCommunityDetection]]

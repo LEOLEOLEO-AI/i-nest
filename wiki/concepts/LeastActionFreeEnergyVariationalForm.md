@@ -24,11 +24,13 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[ActiveDendriteSNN]]
 [[AlternativeBridgingModels]]
+[[AnisotropicGaussianPrimitives]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[STDP_Plasticity]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 
 ## Sources

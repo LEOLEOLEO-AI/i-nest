@@ -20,9 +20,11 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Attention_Mechanism_in_SNN]]
 [[BioPlausibleDisturbanceObserver]]
 [[Biologically_Plausible_Learning_Rules]]
 [[BranchingRatioControl]]
+[[BranchingRatio]]
 [[Catastrophic_Forgetting_Mitigation]]
 [[Contested_Priors_Architecture]]
 [[Criticality]]

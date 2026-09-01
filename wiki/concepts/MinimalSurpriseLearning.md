@@ -28,7 +28,10 @@ Auto-extracted concept from raw material compilation.
 [[ANN_SNN_WeightSpaceGap]]
 [[AcademicDevelopmentCoCreation]]
 [[AcousticAnomalyDetection]]
+[[ActiveDendriteSNN]]
 [[Neuromorphic_Computing]]
+[[SNN]]
+[[Spiking_Neural_Network]]
 [[iNEST]]
 
 ## Sources

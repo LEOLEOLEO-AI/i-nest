@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[FerroelectricMemoryCell]]
 [[FerroelectricSynapticArray]]
 [[Ferroelectric_Devices]]
+[[GeTeBasedCBRAM]]
 [[HeterogeneousSynapticDelays]]
 [[Heterogeneous_Integration]]
 [[InNetworkAgentRewiring]]

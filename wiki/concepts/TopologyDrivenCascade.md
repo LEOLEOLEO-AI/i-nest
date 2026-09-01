@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[SpikeEventDrivenInference]]
 [[Spike_Computation_Energy_Model]]
+[[SpikingTransformer]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[Topology_Aware_Spike_Routing]]

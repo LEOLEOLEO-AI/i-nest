@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[DataDrivenCellularAxis]]
 [[EmergentOrder]]
 [[Emergent_Intelligence]]
+[[Emergent_Intelligence_Verifiability]]
 [[EnsembleSparsity]]
 [[Free_Energy_Topology_Mapping]]
 [[Gut_Brain_Immune_Network]]

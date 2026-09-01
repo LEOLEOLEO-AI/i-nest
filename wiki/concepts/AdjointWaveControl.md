@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC]]
+[[Packaging_Aware_NoC_Design]]
 [[Pods4Rail_Topology]]
 [[RadiationHardened_ProcessNodeScaling]]
 [[SDI_Bond]]

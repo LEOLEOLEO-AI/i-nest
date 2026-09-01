@@ -21,3 +21,16 @@ refs: 5
 
 
 _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
+
+## Related Work
+
+[[BNN vs ANN (1)]]
+[[III IV V族元素 (1)]]
+[[Nonlinear_Gain]]
+[[PPT]]
+[[TCC]]
+[[Wafer_Scale_Neuromorphic]]
+[[_专题研究_从单芯作战迈向系统集成_五_软件定义晶上系统_SDSoW_技术]]
+[[iNEST]]
+[[在网计算（In-Network Computing） (1)]]
+[[工程技术系统发展路线与分类 (1)]]

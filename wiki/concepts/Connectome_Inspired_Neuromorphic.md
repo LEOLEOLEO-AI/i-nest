@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[BackflowTransformation]]
 [[Brain_Connectome]]
 [[CircadianGateModulation]]
+[[ConnectomeFidelityClaim]]
 [[Connectome]]
 [[Connectome_Inspired_Architecture]]
 [[Connectome_Transfer]]

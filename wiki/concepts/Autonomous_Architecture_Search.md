@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveDensityControl]]
 [[AdaptiveModelPartitioning]]
 [[Adaptive_Path_Selection]]
+[[AdjointWaveControl]]
 [[AmorphousSolidPlasticity]]
 [[ArbitraryWavefunctionConfigurability]]
 [[BackflowTransformation]]

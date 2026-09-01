@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_iNEST_Topology]]
 [[ThermalNoiseHarnessing]]
 [[iNEST]]
+[[iNEST_Emergent_Intelligence]]
 [[iNEST_Topology]]
 
 ## Sources

@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[CorticalTypeDiversity]]
 [[DataMovementMinimization]]
 [[Die_to_Die_Protocol]]
+[[DirectConnect_Topology]]
 [[Disordered_Frustrated_Dimer_Magnets]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]

@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[20W_Brain_Inspired_Planning]]
 [[AINext_Initiative]]
+[[Activity_Dependent_Plasticity]]
 [[AdaptiveFrequencyResonateAndFire]]
 [[AdaptiveSTDP]]
 [[AdaptiveSpeechToSpikeEncoding]]

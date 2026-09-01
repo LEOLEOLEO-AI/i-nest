@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Agile_Resilient_Defense_Ecosystem]]
 [[ArtificialProprioception]]
 [[BurstTemporalPlasticity]]
+[[CircuitTopologyEncoding]]
 [[Complex_System_Theory]]
 [[Confinement]]
 [[CubicLatticeInterconnect]]

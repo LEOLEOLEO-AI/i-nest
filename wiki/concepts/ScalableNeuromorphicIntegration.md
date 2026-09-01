@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[InteractiveRoboticsLoop]]
 [[LowBitSpikingPruning]]
 [[NUMA_Balancing_Interference]]
+[[NeuromorphicHardwareIntegration]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]

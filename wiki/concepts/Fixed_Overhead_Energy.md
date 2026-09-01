@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveDendriteSNN]]
 [[BigBrainCellularAxis]]
 [[CompartmentalizedSpikeIntegration]]
+[[Distributed_Spike_Communication]]
 [[Fixed_Cost_Dominance]]
 [[ITP_STDP]]
 [[Memristive_STDP]]

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[BarrierConditionedTrajectory]]
 [[BigBrainCellularAxis]]
 [[CST计量仪]]
+[[CausalEmergenceCondition]]
 [[CellEmergence]]
 [[Complex_System_Theory]]
 [[Core_Spacetime_Tensor]]

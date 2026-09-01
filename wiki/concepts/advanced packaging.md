@@ -29,8 +29,10 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 
 ## Related Work
 
+[[3d]]
 [[AIRA_NeuralArchSearch]]
 [[AI_Application_Scenario_Reconstruction]]
+[[Advanced_Packaging]]
 [[Alpha_Computation_Consistency]]
 [[AnomalousSpinTransport]]
 [[BigBrainCellularAxis]]
@@ -42,6 +44,9 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[FunctionalHardwareComposition]]
 [[Intelligent_Computing_Infrastructure]]
 [[Interconnect_Routing]]
+[[Memristor]]
+[[Memristor_Synapse]]
+[[MicroRouter_Embedding]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC]]
@@ -51,5 +56,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[RoutabilityDrivenFloorplanning]]
 [[TCC]]
 [[Translation_Invariant_Closure]]
+[[Wafer_Scale_Integration]]
+[[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]

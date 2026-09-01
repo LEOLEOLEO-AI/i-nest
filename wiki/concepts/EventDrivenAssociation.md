@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[ConventionalAndSpikingDualMode]]
 [[CriticalityInducedComputationalCapacity]]
 [[Criticality]]
+[[CrossEntityPreemptiveWarning]]
 [[DiscreteContinuous_Unification]]
 [[SNN]]
 [[SOC]]

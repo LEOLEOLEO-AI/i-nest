@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[ActivityAvalanche]]
 [[Activity_Energy_Tradeoff]]
 [[AdaptiveAsymmetricSurrogateGradient]]
+[[Adaptive_Replication_Strategy]]
 [[Avoided_Criticality]]
 [[BurstGatedRouting]]
 [[ContinuousControlConversion]]

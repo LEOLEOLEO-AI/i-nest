@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[P_Paradigm]]
 [[SOC]]
+[[StorageCompute_SeparationBottleneck]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

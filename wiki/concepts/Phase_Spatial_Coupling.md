@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[LatencyCoding]]
 [[Layered_Attractive_Hubbard_Model]]
+[[MeasurementInducedNonlinearity]]
 [[Memristive_STDP]]
 [[Memristor]]
 [[Memristor_Synapse]]

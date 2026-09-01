@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[ChipletRoutingFabric]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Modular_Architecture]]
 [[CongestionAwareNoCPlacement]]
 [[DelayCouplingMatrix]]
 [[EquilibriumTreePacking]]

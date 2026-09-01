@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[AnomalousSpinTransport]]
 [[BrainActivityPrediction]]
 [[BrownianCastleInterface]]
+[[CollectiveSpikingDynamics]]
 [[CombinedImportanceScoring]]
 [[CurrentInjectionSNN]]
 [[ErrorSuppressedPipeline]]

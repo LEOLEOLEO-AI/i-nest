@@ -66,6 +66,7 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[iNEST]]
 [[具身智能的基本原理、关键技术、应用场景]]
+[[拓扑深度学习捕捉数据的高阶关系：信息传递拓扑神经网络概述]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]

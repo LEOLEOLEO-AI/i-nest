@@ -27,9 +27,11 @@ Auto-extracted concept from raw material compilation.
 [[2_5D_PIM_Chiplet_Integration]]
 [[3DHI_Stacking]]
 [[3D_Heterogeneous_Integration]]
+[[3d]]
 [[AINext_Initiative]]
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_FullSpectrum_Strategy]]
+[[Advanced_Packaging]]
 [[Allreduce_Latency_Probe]]
 [[AndersonTransition]]
 [[Architectural_Conditioning]]
@@ -55,9 +57,9 @@ Auto-extracted concept from raw material compilation.
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
-[[advanced packaging]]
 [[branch prediction]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AmoebaInspiredLocomotion]]
 [[BioInspired_Interception_Control]]
 [[Cognitive_Relapse_Decoupling]]
+[[CriticalLearningRegime]]
 [[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[CrossbarFabricTopology]]

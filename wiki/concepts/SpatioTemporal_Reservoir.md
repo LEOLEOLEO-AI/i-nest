@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Neural_Avalanche]]
 [[Nonlinear_Gain]]
 [[QuantumGateSynthesis]]
+[[ReadoutLayer]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[TCC]]

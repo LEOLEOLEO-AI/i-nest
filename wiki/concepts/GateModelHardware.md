@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3DHI_Interconnect]]
+[[3d]]
 [[AI_Faculty_Forum_2026]]
 [[BondMovingDecimation]]
 [[ChipletRoutingFabric]]
@@ -45,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC]]
 [[NoC_EventRouting]]
 [[PacketRoutingOptimization]]
+[[Radiation_Hardened_Compute]]
 [[SparseTemporalEncoding]]
 [[SpikeCommunicationCost]]
 [[Spiking_Neural_Network]]

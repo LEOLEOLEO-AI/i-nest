@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Complexity_Emergence]]
 [[DataDrivenCellularAxis]]
+[[DevelopmentalNeuromorphicAdaptation]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Hardware_Accelerated_SNN]]
 [[Intelligence_Emergence]]

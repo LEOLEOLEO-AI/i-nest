@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3D_Heterogeneous_Integration]]
+[[3d]]
 [[AdiabaticMultimodeBend]]
 [[Allreduce_Latency_Diagnostic]]
 [[AndersonTransition]]
@@ -31,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[ComputeRelocationOverhead]]
 [[CriticalSlowingDown]]
 [[Deep_Thermalisation]]
+[[Distributed_Sinkhorn_Iteration]]
 [[EndToEndLinkSimulation]]
 [[FlagOS_2_0]]
 [[Heterogeneous_Integration]]

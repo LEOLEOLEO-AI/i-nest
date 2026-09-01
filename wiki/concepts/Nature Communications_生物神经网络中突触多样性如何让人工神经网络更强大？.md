@@ -28,6 +28,8 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 ## Related Work
 
 [[3D_Torus_6_Degree]]
+[[3d]]
+[[6万+辛顿2025年度全景实录深读｜真正的智能与硅基智能的非对称演进]]
 [[ANN动力学]]
 [[ArmLocomotorCoordination]]
 [[CST计量仪]]

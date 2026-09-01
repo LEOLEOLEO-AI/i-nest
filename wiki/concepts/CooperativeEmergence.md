@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[OpenLearningEcosystem]]
 [[PacketRoutingForFPGAs]]
 [[PhaseSpaceCurvature]]
+[[Port_Hamiltonian_System]]
 [[SelfOrganization]]
 [[analog computation]]
 [[涌现]]

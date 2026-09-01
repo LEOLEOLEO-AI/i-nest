@@ -28,7 +28,10 @@ Auto-extracted concept from raw material compilation.
 [[BioPlausibleDisturbanceObserver]]
 [[BoundaryObject_Abstraction]]
 [[BrainActivityPrediction]]
+[[BrainBodyResonance]]
 [[Neuromorphic_Computing]]
+[[SpikeEncoding]]
+[[Spiking_Neural_Network]]
 [[iNEST]]
 
 ## Sources

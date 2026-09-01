@@ -56,6 +56,8 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[StochasticBinaryDynamics]]
 [[SurrogateGradientAsymmetry]]
+[[SynapticFatigueModel]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[TemporalErrorFeedback]]
 [[iNEST]]

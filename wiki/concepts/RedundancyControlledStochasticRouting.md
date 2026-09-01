@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Evaluation_Resolution_Confound]]
 [[EvolvingArchitectureDynamics]]
 [[FPGA_Reconfigurability]]
+[[HybridCouplingThermosensitiveNetwork]]
 [[Intelligence_Emergence]]
 [[Intelligent_Power_Management]]
 [[Interconnect_Routing]]

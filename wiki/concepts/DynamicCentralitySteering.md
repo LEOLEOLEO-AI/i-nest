@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[NonreciprocalQuasiperiodicLattice]]
 [[OpenLearningEcosystem]]
+[[PhotonicSynapticPlasticity]]
 [[Pods4Rail_Topology]]
 [[Receptron_Unit]]
 [[RecursiveSelfReferentialArchitecture]]

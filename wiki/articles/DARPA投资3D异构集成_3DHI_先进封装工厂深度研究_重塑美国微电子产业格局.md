@@ -16,6 +16,7 @@ SDI, chiplet, iNEST, 封装, 晶圆, 芯粒
 
 ## Related Concepts
 
+[[3d]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Heterogeneous_Integration]]

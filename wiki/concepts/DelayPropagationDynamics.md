@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[FlexibilityThreshold]]
+[[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[GridStabilityTopology]]
 [[Intelligence_Emergence]]
@@ -48,8 +49,10 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Resilient_Satellite_Mesh]]
 [[Self_Organized_Criticality]]
+[[Stigmergic_RL]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[World_Model]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3D_Torus_6_Degree]]
+[[3d]]
 [[CSI_Temporal_Encoding]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Chiplet]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[NeuroRing_Topology]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Packaging]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

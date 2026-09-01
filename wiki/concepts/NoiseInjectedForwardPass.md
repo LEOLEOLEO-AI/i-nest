@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN动力学]]
 [[AdversarialSensingResilience]]
 [[Air_Combat_Autonomy]]
+[[Associative_Retrieval]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]

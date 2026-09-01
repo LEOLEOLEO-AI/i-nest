@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[VectorQuantizedSpikeEncoding]]
 [[complex system]]
 [[iNEST]]
 [[忆阻器]]

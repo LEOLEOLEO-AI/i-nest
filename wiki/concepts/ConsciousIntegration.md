@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3DHI_Chiplet_Integration]]
+[[3d]]
 [[AI_Faculty_Forum_2026]]
 [[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
@@ -44,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Ferroelectric_Devices]]
 [[FisherOrthogonalMemory]]
 [[FlagOS_2_0]]
+[[Heterogeneous_Inference_Division]]
 [[Heterogeneous_Integration]]
 [[InMateriaComputing]]
 [[InNetworkAgentRewiring]]

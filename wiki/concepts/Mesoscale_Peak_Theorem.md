@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[20W_Brain_Inspired_Planning]]
 [[AI-ML — 全景导航 (Map of Content)]]
 [[Active_Inference_Agent]]
+[[Analog_InMemory_Processing]]
 [[Causal_Power]]
 [[Complex_System_Theory]]
 [[Effective_Information]]

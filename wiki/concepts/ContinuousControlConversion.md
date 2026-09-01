@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN_to_SNN_Conversion_Error_Amplification]]
 [[ActiveDendriteSNN]]
 [[AdaptiveAsymmetricSurrogateGradient]]
+[[Adaptive_Replication_Strategy]]
 [[AddressRedundancyElimination]]
 [[Avoided_Criticality]]
 [[Baseline_Change_Record]]

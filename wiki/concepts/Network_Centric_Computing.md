@@ -21,12 +21,18 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3DHI_Chiplet_Integration]]
+[[3d]]
 [[AI_Faculty_Forum_2026]]
 [[Attention_Residuals]]
+[[Causal_Emergence]]
 [[Causal_Emergence_Architecture]]
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Wafer_Topology]]
 [[ComputationEfficientDeepLearning]]
 [[Continuous_Spatiotemporal_State_Propagation]]
+[[Deep_Network_Architecture_Invariant]]
+[[EfficientDeepLearning]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[TCC]]

@@ -22,13 +22,19 @@ Auto-extracted concept from raw material compilation.
 
 [[3D_Integrated_Chiplet_Stacking]]
 [[3D_Stacked_Memory_Logic]]
+[[3d]]
 [[AI_Assisted_Energy_Management]]
 [[AI_Assisted_Energy_Optimization]]
 [[Accessibility_Plasticity]]
 [[Active_Inference_Agent]]
 [[AdaptiveArchitecture]]
 [[AdaptiveCompetingInteractions]]
+[[AdaptiveDensityControl]]
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Stacking]]
 [[Network_Topology_Design]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 
 ## Sources

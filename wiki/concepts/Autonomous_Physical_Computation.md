@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Connectome_Constrained_Neural_Architecture]]
 [[Connectome_Reservoir]]
 [[Connectome_Verification_Protocol]]
+[[Crystallized_Neural_Manifolds]]
 [[DevelopmentalConnectomeTemporalGraph]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

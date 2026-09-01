@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Forum_Demo_Narrative]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Baseline_Draft_Status]]
+[[BrainInspired_Computing_Paradigm]]
 [[BurstInterleaving]]
 [[Closed_Loop_Neuromodulation]]
 [[ContinualLearningOnNeuromorphic]]

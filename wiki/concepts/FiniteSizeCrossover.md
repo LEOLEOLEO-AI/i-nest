@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[20W_Brain_Inspired_Planning]]
 [[3D_Torus_6_Degree]]
+[[3d]]
 [[AI_Driven_Architecture_Search]]
 [[AI_Faculty_Forum_2026]]
 [[Agile_Resilient_Defense_Ecosystem]]
@@ -34,7 +35,10 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[EnergyProportionalityCeiling]]
 [[Heterogeneous_Integration]]
+[[Memristor]]
 [[Memristor_Network]]
+[[Memristor_Synapse]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Specific_Embedding_Separation]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

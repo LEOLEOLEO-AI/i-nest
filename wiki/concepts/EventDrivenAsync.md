@@ -27,8 +27,12 @@ Auto-extracted concept from raw material compilation.
 [[Autonomous_Spiking_Dynamics]]
 [[Avoided_Criticality]]
 [[BrainInspired_Chip]]
+[[Criticality]]
 [[Neuromorphic_Computing]]
+[[SNN]]
+[[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
+[[Syncytial_Mesh_Model]]
 [[iNEST]]
 
 ## Sources

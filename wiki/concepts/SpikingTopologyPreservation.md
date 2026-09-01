@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[DivergentHigherAreaRanking]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
+[[Emergent_Reservoir_Topology]]
 [[Endocrine_Modulated_Network_State]]
 [[Fixed_Cost_Dominance]]
 [[GroupInteractionThreshold]]

@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Energy_Balanced_Interconnect]]
 [[ExactEvolutionaryHybridSearch]]
 [[Free_Energy_Synchronization]]
+[[GraphBasedSemanticRouting]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

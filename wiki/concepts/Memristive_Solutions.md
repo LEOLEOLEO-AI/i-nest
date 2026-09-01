@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossTaskNeuralRepresentation]]
 [[DataDrivenCellularAxis]]
 [[EnsembleSparsity]]
+[[FlexibilityThreshold]]
 [[Hardware_Accelerated_SNN]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

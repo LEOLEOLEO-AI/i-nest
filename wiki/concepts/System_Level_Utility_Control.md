@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Architecture]]
 [[CorticalTypeDiversity]]
 [[DTGA]]
+[[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[Free_Energy_Topology_Mapping]]
 [[GenerativeTopologyModels]]
@@ -71,6 +72,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
 [[iNEST_Wafer]]
+[[Γst_Revision]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

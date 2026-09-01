@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveAsymmetricSurrogateGradients]]
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[AdaptiveFrequencyResonateAndFire]]
+[[Adaptive_Deep_Brain_Stimulation]]
 [[Dynamical_State_Space]]
 [[SNN]]
 [[Spiking_Neural_Network]]

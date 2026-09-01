@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Faculty_Forum_2026]]
+[[AnisotropicGaussianPrimitives]]
 [[Emergent_Intelligence]]
 [[Intelligence_Emergence]]
 [[Memristive_STDP]]

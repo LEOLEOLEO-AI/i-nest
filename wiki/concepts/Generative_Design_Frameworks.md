@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Prior_Conflict]]
 [[CorticalOrientationSelectivity]]
 [[MembranePotentialBeliefState]]
+[[ModelOptimization]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[SDI_Bond]]

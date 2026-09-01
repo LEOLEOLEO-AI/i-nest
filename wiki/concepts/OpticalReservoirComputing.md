@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[ShortTermMemory]]
 [[Spiking_Neural_Network]]
+[[TCCNPU_Coordination_Roadmap]]
 [[ThermalNoiseHarnessing]]
 [[iNEST]]
 

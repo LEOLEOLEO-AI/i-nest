@@ -30,9 +30,11 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenMatrixUpdate]]
 [[Event_Driven_Architecture]]
 [[Event_Driven_Computation]]
+[[HigherOrderAvalanche]]
 [[Self_Organized_Criticality]]
 [[Spiking neural network]]
 [[Spiking_Neural_Network]]
+[[Syncytial_Mesh]]
 [[Syncytial_Mesh_Model]]
 [[iNEST]]
 

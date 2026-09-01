@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[PhysicalTransientEncoding]]
+[[ReservoirDiversity]]
 [[Reservoir_Computing]]
 [[RunawayAvalanche]]
 [[TCC]]

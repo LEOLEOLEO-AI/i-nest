@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[DirtyWeylSemimetal]]
 [[DisorderedNetworkInterconnect]]
 [[EnergyEfficiencyAI]]
+[[EventTriggeredDistributedControl]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

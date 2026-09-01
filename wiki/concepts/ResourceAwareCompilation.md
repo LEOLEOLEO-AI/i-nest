@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[DistributedEventConditionDesign]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[Kinematic_Waves]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[PhysicallyInformedDeepLearning]]

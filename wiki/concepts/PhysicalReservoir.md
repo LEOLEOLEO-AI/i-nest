@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
+[[NonlinearConnectomeScaling]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
 [[complex system]]

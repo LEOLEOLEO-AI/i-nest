@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Izhikevich_NeuronModel]]
 [[LatencyCoding]]
 [[MassConservationInductiveBias]]
+[[MeasurementInducedNonlinearity]]
 [[Monitored_Quantum_Circuits]]
 [[MultifractalCriticalPhase]]
 [[NCA_Reservoir]]

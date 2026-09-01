@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[1M1T1R_SynapticNeuron]]
 [[20W_Brain_Inspired_Planning]]
+[[3d]]
 [[AIRA_NeuralArchSearch]]
 [[ActionPrototypeClustering]]
 [[AdaptersInSpikingNetworks]]
@@ -46,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[NonlinearDynamicalSystemsInference]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
+[[SexBasedConnectomeDifferences]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[3D_Torus_6_Degree]]
+[[3d]]
 [[AutonomousAdaptation]]
 [[Cognitive_Relapse_Decoupling]]
 [[CorticalWaveRouting]]
@@ -31,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Dimensionality_Modularity_Tradeoff]]
 [[DynamicCentralitySteering]]
 [[EarlyVisualCortexAliasing]]
+[[EnergyEfficientNeuromorphic]]
 [[EpidemicThreshold]]
 [[EventDrivenModularArchitecture]]
 [[EvolutionaryDiversityPreservation]]

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveAsymmetricSurrogateGradients]]
 [[AdaptiveCombinerWeighting]]
 [[AdaptiveDeltaPulseFrequencyEncoding]]
+[[AdaptiveLocalLearning]]
 [[AgenticServiceOrchestration]]
 [[Anomaly_Induced_Quantum_Criticality]]
 [[Anomaly_Protected_Scaling_Law]]

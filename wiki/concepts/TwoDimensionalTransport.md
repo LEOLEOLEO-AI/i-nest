@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3DHI_Interconnect]]
+[[3d]]
 [[AI_FullSpectrum_Strategy]]
 [[Additive_Manufacturing_Topology]]
 [[AdvancedPackagingInterconnect]]
@@ -33,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect_Topology]]
 [[CongestionAwareNoCPlacement]]
 [[EdgeIoTEnergyAwareness]]
+[[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[FullDimensionalDefinableInterconnect]]
 [[GlobalDecision_LocalExecution_ControlPlane]]
@@ -48,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[NoC_SDI]]
+[[NoC_SDI_CoDesign]]
 [[NoC_SDI_Integration]]
 [[SDI_Bond]]
 [[SuperparamagneticSwitchingRate]]

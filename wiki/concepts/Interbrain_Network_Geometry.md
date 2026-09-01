@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalBrainNetworkConnectivity]]
 [[Geometric_Neural_Field]]
 [[Intelligence_Emergence]]
+[[Interbrain_Geometry]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]

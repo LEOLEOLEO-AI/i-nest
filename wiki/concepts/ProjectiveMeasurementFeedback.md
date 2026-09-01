@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[BrainBodyResonance]]
 [[BurstTemporalPlasticity]]
 [[CascadedAdaptiveCombiners]]
+[[CompartmentalizedSpikeIntegration]]
 [[Contested_Priors_Mechanism]]
 [[DefectDynamics]]
 [[Dendritic_In_Context_Learning]]

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3DHI_Interconnect]]
+[[3d]]
 [[4H_SiC_SubstrateProcessing]]
 [[AI_Faculty_Forum_2026]]
 [[Additive_Manufacturing_Topology]]
@@ -41,10 +42,12 @@ Auto-extracted concept from raw material compilation.
 [[DiagnosticReportFramework]]
 [[DynamicServiceComposition]]
 [[EulaminateOverrepresentation]]
+[[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[GeneralIntelligenceSubstrate]]
 [[GenerativeTopologyModels]]
 [[Heterogeneous_Integration]]
+[[LatencyCodedInterconnect]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC]]

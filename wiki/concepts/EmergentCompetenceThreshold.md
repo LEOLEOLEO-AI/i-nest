@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[CausalEmergenceCondition]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
+[[Complexity_Emergent_Intelligence]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[ERI_2_0_Strategic_Framework]]
 [[Emergent_Intelligence]]

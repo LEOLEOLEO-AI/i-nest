@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[DivergentHigherAreaRanking]]
 [[EventCameraTemporalEncoding]]
+[[Globally_Optimal_SNN_Training]]
 [[HardwareAware_DesignSpace]]
 [[Intelligence_Emergence]]
 [[Memristor]]

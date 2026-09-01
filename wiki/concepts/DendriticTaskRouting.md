@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[WaveBasedInformationRouting]]
 [[忆阻器]]
+[[智能涌现]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 [[神经形态计算]]

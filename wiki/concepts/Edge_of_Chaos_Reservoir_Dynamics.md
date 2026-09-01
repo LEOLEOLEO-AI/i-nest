@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Additive_Manufacturing_Supply_Chain]]
 [[AnalogDomainCompression]]
+[[Analog_InMemory_Processing]]
 [[Categorical_Closure_Criterion]]
 [[CombinatorialOptimizationReservoirMapping]]
 [[ConsciousIntegration]]

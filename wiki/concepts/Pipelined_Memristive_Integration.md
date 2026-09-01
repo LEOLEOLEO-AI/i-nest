@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[ErrorSuppressedPipeline]]
 [[ExplosiveTransitionThreshold]]
 [[Fixed_Reservoir_Unitary]]
+[[GeneralizedReadoutMap]]
 [[InNetworkSignalRecovery]]
 [[IntegrationProspectsForVLSI]]
 [[Memristor]]

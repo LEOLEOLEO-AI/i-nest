@@ -22,6 +22,8 @@ Auto-extracted concept from raw material compilation.
 
 [[3DHI_Chiplet_Integration]]
 [[3DHI_Stacking]]
+[[3d]]
+[[AI_Faculty_Forum_2026]]
 [[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[AnalogDomainCompression]]
@@ -40,7 +42,9 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[InInterconnectMemory]]
 [[InNetworkSignalRecovery]]
+[[Memristor]]
 [[Memristor_Reservoir_Branch_Prediction]]
+[[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC]]

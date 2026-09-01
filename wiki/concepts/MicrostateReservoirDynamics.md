@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[156QubitScale]]
+[[Coupling_Topology]]
 [[CrystalPalace_Program]]
 [[Crystallized_Neural_Manifolds]]
 [[DARPA_ProjectManager_Model]]
@@ -36,6 +37,8 @@ Auto-extracted concept from raw material compilation.
 [[OpticalReservoirComputing]]
 [[Photonic_Reservoir_Computing]]
 [[PhysicalReservoirDynamicsEncoding]]
+[[PhysicalReservoirDynamics]]
+[[PhysicalReservoir]]
 [[PhysicalSubstrateReservoir]]
 [[Physical_Reservoir_Computing]]
 [[ReservoirDynamics]]

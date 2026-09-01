@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AvalanchePropagation]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[BiasPropagationInNetworks]]
+[[BitPrecisionAwareScheduling]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[TCC]]

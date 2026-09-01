@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikingNeuralNetwork]]
 [[Spiking_Neural_Network]]
 [[Sub_Biological_Energy_Budget]]
+[[Subtractive_AttentionNormalization]]
 [[TCC]]
 [[complex system]]
 [[iNEST]]

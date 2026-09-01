@@ -21,13 +21,20 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3DGS_SplatPrimitive]]
+[[3d]]
 [[4H_SiC_SubstrateProcessing]]
 [[BackpropagationFreeLearning]]
 [[BarrierConditionedTrajectory]]
 [[BeyondPTSymmetry]]
 [[CellEmergenceMechanism]]
 [[CellEmergence]]
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
+[[CompactFieldVariable]]
+[[Intelligence_Emergence]]
+[[Interconnect_Topology]]
 [[Network_Topology_Design]]
 [[iNEST]]
 

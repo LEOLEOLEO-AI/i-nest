@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[PathIntegration]]
 [[PromptBasedTimeSeriesForecasting]]
+[[PropertyPredictionModeling]]
 [[QuantumAnnealerSynapticTest]]
 [[Resilient_Satellite_Constellations]]
 [[SNN]]

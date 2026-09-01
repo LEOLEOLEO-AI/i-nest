@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CST计量仪]]
 [[Complex_System_Theory]]
 [[In_Network_Neuromorphic]]
+[[Intelligent_Emergence_Computing]]
 [[Intelligent_Power_Management]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

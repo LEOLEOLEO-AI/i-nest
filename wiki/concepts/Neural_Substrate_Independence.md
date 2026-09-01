@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[LeftRightAsymmetry]]
 [[MeasurementInducedPhaseTransition]]
 [[Metriplectic_Twin]]
+[[Multifractal_Signatures]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_MuscleInterface]]

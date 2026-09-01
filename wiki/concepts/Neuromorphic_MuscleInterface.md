@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AstrocyteInspiredRepair]]
 [[Automated_Assessment_Framework]]
 [[Brain_Connectome]]
+[[ChipletOpticalIO]]
 [[CirculateFiringNeuron]]
 [[Complex_System_Theory]]
 [[Connectome]]

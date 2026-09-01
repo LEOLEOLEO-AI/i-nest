@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Forum_Demo_Narrative]]
 [[ActiveMatterComputing]]
 [[Adaptive_Deep_Brain_Stimulation]]
+[[Advanced_Packaging]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[ArtificialProprioception]]
 [[Continual_Learning_Modularity]]
@@ -39,13 +40,13 @@ Auto-extracted concept from raw material compilation.
 [[LLM_Reward_Design]]
 [[MatrixShapePhaseTransition]]
 [[Network_Topology_Design]]
+[[NeuromorphicStatusAwareness]]
 [[Neuromorphic_Computing]]
 [[StochasticMultiAgentRL]]
 [[StochasticVehicleRouting]]
 [[TCC]]
 [[Trustworthiness_Aware_Training]]
 [[WaveBasedComputation]]
-[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[SOC]]
 [[STDP_Plasticity]]
+[[SolitonLikeWaves]]
 [[SpikeDecoder]]
 [[SpikeEncoding]]
 [[SpikeTimingEncoding]]

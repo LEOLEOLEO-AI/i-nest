@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CollectiveDynamics]]
 [[CriticalStateInformationMaximization]]
 [[CrossLayer_SignalRouting]]
+[[DirectTrainingSNN]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]

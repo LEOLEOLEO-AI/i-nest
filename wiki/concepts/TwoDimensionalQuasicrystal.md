@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Critical_Region_Extension]]
 [[CubicLatticeInterconnect]]
 [[DelayTolerantNetworkUAV]]
+[[DestructiveInterferenceConfinement]]
 [[EndToEndTopologicalLearning]]
 [[EntanglementAwareRouting]]
 [[FrozenRateOperator]]

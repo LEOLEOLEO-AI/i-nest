@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Connectome_Inspired_Architecture]]
 [[Connectome_Verification_Protocol]]
 [[DataProvenanceIntegrity]]
+[[Intelligence_Emergence]]
 [[Krakencoder_Embedding]]
 [[Nature_Computational_Science_用AI发现高维复杂网络的动力学公式]]
 [[Network_Topology_Design]]
@@ -33,8 +34,11 @@ Auto-extracted concept from raw material compilation.
 [[getnote_2026-01-12_晶圆级神经网络能效革命]]
 [[getnote_2026-06-27_智能涌现理论框架]]
 [[getnote_2026-06-28_从固定拓扑到液态拓扑计算]]
+[[getnote_2026-06-28_海河实验室项目指南_中间版本_]]
 [[iNEST]]
 [[复杂网络]]
+[[智能涌现]]
+[[涌现]]
 [[神经网络]]
 
 ## Sources

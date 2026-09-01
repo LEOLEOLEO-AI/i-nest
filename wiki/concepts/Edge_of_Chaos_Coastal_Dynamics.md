@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[LargeDeviationTopologicalOrder]]
 [[Memristive_Topology]]
+[[Metriplectic_Twin]]
 [[NanomaterialFeatureEngineering]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]

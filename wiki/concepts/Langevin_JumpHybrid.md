@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[ActivityAvalanche]]
 [[AdaptiveAsymmetricSurrogateGradient]]
 [[AdaptiveDeltaPulseFrequencyEncoding]]
+[[Adaptive_Replication_Strategy]]
 [[Avoided_Criticality]]
 [[BurstGatedRouting]]
 [[ContinuousControlConversion]]

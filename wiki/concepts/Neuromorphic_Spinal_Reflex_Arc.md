@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[AttentionGuidedEntropy]]
 [[BayesMarkovOrientationModel]]
 [[BioPlausibleDisturbanceRejection]]
+[[Bio_plausible_Neuromorphic_Disturbance_Observer]]
 [[Complex_System_Theory]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]

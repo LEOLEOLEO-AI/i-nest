@@ -22,13 +22,17 @@ Auto-extracted concept from raw material compilation.
 
 [[4H_SiC_SubstrateProcessing]]
 [[ByteDance_Ada_Chip]]
+[[Heterogeneous_Integration]]
+[[Heterogeneous_Integration_Roadmap]]
 [[Heterogeneous_Integration_Roadmap_HIR]]
 [[MicroTransferPrinting]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Wafer]]
 [[OrganoidOnChipInterface]]
 [[ReEntrantMultifractalization]]
+[[SDI_Bond]]
 [[SDI_iNEST_CoPackaging]]
+[[WaferScaleMonolithicIntegration]]
 [[iNEST]]
 
 ## Sources

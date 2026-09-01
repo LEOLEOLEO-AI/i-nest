@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Constructed_Reality_Interconnect]]
 [[Core_Spacetime_Tensor]]
+[[Crystallized_Neural_Manifolds]]
 [[DataDrivenCellularAxis]]
 [[DrivenDissipativeDynamics]]
 [[Dynamic_Expert_Fusion]]

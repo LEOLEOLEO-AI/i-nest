@@ -38,6 +38,8 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenModularArchitecture]]
 [[EvolutionaryDiversityPreservation]]
 [[FPGAInferenceAccelerator]]
+[[FPGAInference]]
+[[FPGA_SNN_Inference]]
 [[HardwareAware_DesignSpace]]
 [[Nonlinear_Gain]]
 [[PPT]]

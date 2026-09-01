@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Continuous_Control_Spike_Timing_Sensitivity]]
 [[CrossLayer_SignalRouting]]
 [[DirectTrainingSNN]]
+[[Direct_Training_Spiking_Neural_Networks]]
 [[EnergyEfficientNeuromorphic]]
 [[EventCameraPoseInput]]
 [[EvolutionarySpikeTimingOptimization]]

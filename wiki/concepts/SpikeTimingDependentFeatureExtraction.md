@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[RateCodingVulnerability]]
 [[Reservoir_Computing]]
 [[SNN]]
+[[SNN_Conversion_Approximation_Bound]]
 [[STDP_Plasticity]]
 [[SelfOrganizedRobustness]]
 [[Self_Organized_Criticality]]

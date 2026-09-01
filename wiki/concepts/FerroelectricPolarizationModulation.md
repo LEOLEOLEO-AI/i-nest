@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Topology_Mapping]]
 [[GenerativeTopologyModels]]
 [[Inference_Workload_Profiling]]
+[[MetaHardwareAbstraction]]
 [[Network_Topology_Design]]
 [[Synaptic_Plasticity]]
 [[TCC]]

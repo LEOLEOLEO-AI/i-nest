@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Driven_Criticality]]
 [[Dynamic_Expert_Fusion]]
 [[ExactlyFlatTopologicalBands]]
+[[FeatureBonding]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[GroupInfluenceThreshold]]
 [[InNetworkComputing]]

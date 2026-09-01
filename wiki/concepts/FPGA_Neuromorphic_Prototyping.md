@@ -28,6 +28,8 @@ Auto-extracted concept from raw material compilation.
 [[SNN_NeuroprostheticPipeline]]
 [[SpikeBasedNeuralRadianceField]]
 [[SpikeTimingGradientPropagation]]
+[[SpikeTimingGradient]]
+[[Spiking_Event_Flow]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

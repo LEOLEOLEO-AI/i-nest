@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Distributed_Spike_Communication]]
 [[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]
+[[InNetworkNeuromorphicEmergence]]
 [[Intelligence_Emergence]]
 [[InterChipletPHYModeling]]
 [[Memristive_STDP]]

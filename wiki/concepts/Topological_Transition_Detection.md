@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Plasticity_vs_Computation_Separation]]
 [[Pods4Rail_Topology]]
 [[RecursiveSelfReferentialArchitecture]]
+[[RedundancyControlledStochasticRouting]]
 [[STDPDrivenConnectivity]]
 [[STDP_Plasticity]]
 [[SelfOrganization]]

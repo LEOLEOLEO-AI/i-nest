@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[SDDE_Attractor_Emergence]]
 [[SNN]]
 [[STDP_Plasticity]]
+[[Scale_Dependent_Linguistic_Universals]]
 [[SelfOrganizedRobustness]]
 [[Self_Organized_Criticality]]
 [[SpikeTimingFidelity]]

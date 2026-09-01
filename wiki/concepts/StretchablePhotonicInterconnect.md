@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Order_Deep_Belief_Networks]]
 [[EvolvingArchitectureDynamics]]
+[[ExactWiringRouting]]
 [[Free_Energy_Topology_Mapping]]
 [[GenerativeTopologyModels]]
 [[Intelligence_Emergence]]

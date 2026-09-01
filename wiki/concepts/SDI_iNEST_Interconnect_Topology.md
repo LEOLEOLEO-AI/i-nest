@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[SDI_Bond]]
 [[SDI_iNEST_Interconnect]]
+[[SoftwareDefinedSystemOnWafer]]
 [[TCC]]
 [[iNEST]]
 [[iNEST_Interconnect]]

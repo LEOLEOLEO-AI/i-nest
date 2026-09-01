@@ -56,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[Stochastic_LIF_Inference]]
 [[SystemLevelNonlinearity]]
 [[TCC]]
+[[Textbook_Paradigm_Definition]]
 [[branch prediction]]
 [[emerging CMOS memristor]]
 [[memristor device]]

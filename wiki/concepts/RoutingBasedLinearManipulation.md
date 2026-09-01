@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Cascading_Failure_Mitigation]]
 [[CrossLayer_SignalRouting]]
 [[DisturbancePropagationPath]]
+[[EventCameraTemporalEncoding]]
 [[EventDrivenAsync]]
 [[EventDrivenAsynchronousRouting]]
 [[FPGACongestionHotspotMitigation]]

@@ -45,10 +45,13 @@ Auto-extracted concept from raw material compilation.
 [[VonNeumann_Complexity_Threshold]]
 [[五层性能评估框架]]
 [[夏强飞一天2篇Nature大子刊：感存算一体，忆阻器阵列模拟计算]]
+[[存算一体]]
 [[忆阻器]]
 [[无反向传播的 4D 连续蚁群神经网络拓扑搜索]]
 [[智能涌现]]
+[[涌现]]
 [[神经网络]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

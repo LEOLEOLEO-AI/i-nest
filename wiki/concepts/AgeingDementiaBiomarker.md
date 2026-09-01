@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[EEG_Criticality]]
 [[FormalLinguisticCompetence]]
+[[HierarchicalBayesianCommunityDetection]]
 [[LocalLearning_SynapticUpdate]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Organization]]

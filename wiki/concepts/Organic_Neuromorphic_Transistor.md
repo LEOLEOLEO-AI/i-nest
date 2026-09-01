@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3D_Integrated_Chiplet_Stacking]]
+[[3d]]
 [[AI_Assisted_Energy_Optimization]]
 [[Accessibility_Plasticity]]
 [[ActiveDendriteSNN]]
@@ -50,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Residual_Connection]]
 [[SpikingMOT]]
 [[SpikingMotorControl]]
+[[SpikingMuscleActivation]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]

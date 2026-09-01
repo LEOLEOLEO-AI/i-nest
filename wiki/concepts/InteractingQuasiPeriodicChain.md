@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveSTDP]]
 [[AdaptiveSpeechToSpikeEncoding]]
 [[AmoebaInspiredLocomotion]]
+[[BurstTemporalPlasticity]]
 [[CorticalWaveRouting]]
 [[Dynamic_Expert_Routing]]
 [[EventCameraTemporalEncoding]]

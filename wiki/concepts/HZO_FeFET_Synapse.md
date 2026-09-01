@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[FeFET_Polarization_Switching]]
 [[FerroelectricCrossbarArray]]
 [[FerroelectricMemoryCell]]
+[[FerroelectricNvCap]]
 [[Ferroelectric_Devices]]
 [[Neuromorphic_Computing]]
 [[Synaptic_Plasticity]]

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AdversarialSpikePerturbation]]
 [[Agent_Interaction_Sequencing]]
 [[AnalogDomainCompression]]
+[[Attention_Mechanism_in_SNN]]
 [[Automated_Reward_Shaping]]
 [[AvalancheBranchingRatio]]
 [[Avalanche_Dynamics]]

@@ -21,7 +21,9 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
+[[03 涌现：整体的能力不能还原回个体？ - 得到APP]]
 [[3D_Integrated_Chiplet_Stacking]]
+[[3d]]
 [[AINext_Initiative]]
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_Assisted_Energy_Optimization]]
@@ -39,12 +41,15 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityAwareTopology]]
 [[Criticality]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Self_Organized_Criticality]]
 [[TCC]]
 [[WeightedPathInfluence]]
 [[Whole_Organism_Behavioral_Assay]]
 [[analog computation]]
+[[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

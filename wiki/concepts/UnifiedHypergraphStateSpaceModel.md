@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Cross_Node_Event_Propagation]]
 [[DimensionSeparation_IntensiveExtensive]]
 [[DiscreteContinuous_Unification]]
+[[DrivenCriticalityOptimalityTradeoff]]
 [[Neuromorphic_Computing]]
 [[Self_Organized_Criticality]]
 [[UnifiedHypergraphStateSpace]]

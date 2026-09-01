@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[1024_Card_SuperNode]]
 [[12_三原理协同_FEP_最小作用量_STDP]]
 [[3D_Integrated_Chiplet_Stacking]]
+[[3d]]
 [[AdiabaticMultimodeBend]]
 [[AdvancedPackagingInterconnect]]
 [[Advanced_Packaging]]
@@ -42,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Compute_Centric_NoC]]
 [[DirectConnect_Topology]]
 [[GPU_Exclusivity_Bottleneck]]
+[[GPU_Hegemony_Disruption]]
 [[Heterogeneous_Integration]]
 [[InInterconnectMemory]]
 [[Intelligence_Emergence]]
@@ -58,7 +60,6 @@ Auto-extracted concept from raw material compilation.
 [[Spaceborne_Computing_Architecture]]
 [[Synaptic_Plasticity]]
 [[TCC]]
-[[advanced packaging]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AnalogDomainCompression]]
 [[Combinatorial_Optimization_Readout]]
 [[Compressive_Sensing_Reservoir]]
+[[CouplingTopologyInducedDynamics]]
 [[CriticalityInducedTopology]]
 [[Criticality]]
 [[Criticality_Metric_Extraction]]

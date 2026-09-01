@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[11_SDI节点接口规范与化合键定义_dup]]
+[[3d]]
 [[AI_Faculty_Forum_2026]]
 [[AnomalousSpinTransport]]
 [[AstrocyteInspiredRepair]]
@@ -50,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[Neuromorphic_Spectral_Processing]]
+[[NoiseDrivenBackpropReconstruction]]
 [[PowerLaw_Exponent_Analysis]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]

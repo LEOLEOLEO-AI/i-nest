@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[12_三原理协同_FEP_最小作用量_STDP]]
 [[Additive_Manufacturing_Topology]]
 [[AdvancedPackagingInterconnect]]
+[[Advanced_Packaging_for_Space]]
 [[CLINKAsCarrierPrimitive]]
 [[ChipletRoutingFabric]]
 [[ChipletWaferInterconnectScaling]]

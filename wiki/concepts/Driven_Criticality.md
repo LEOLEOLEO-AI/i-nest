@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Biologically_Plausible_Learning_Rules]]
 [[BurstGatedRouting]]
 [[Cognitive_Relapse_Decoupling]]
+[[Collective_State_Convergence]]
 [[Continual_Learning_Modularity]]
 [[CounterstreamSignalPropagation]]
 [[CriticalityDrivenStateTransition]]

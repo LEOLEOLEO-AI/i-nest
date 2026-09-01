@@ -58,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[TCC核心概念与基线理论集 (TCC Core Concepts)]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[complex system]]
 [[emerging CMOS memristor]]
 [[iNEST]]

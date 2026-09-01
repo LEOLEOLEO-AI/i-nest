@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[3DHI_Chiplet_Integration]]
 [[3D_Heterogeneous_Integration]]
 [[3D_Integrated_Chiplet_Stacking]]
+[[3d]]
 [[AdaptiveBitPrecisionExploration]]
 [[Adaptive_Intelligence_Principle]]
 [[Adaptive_Service_Orchestration]]
@@ -34,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
 [[CoPackagedOptics]]
+[[Compute_In_Memory_Neuromorphic]]
 [[Heterogeneous_Integration]]
 [[iNEST]]
 

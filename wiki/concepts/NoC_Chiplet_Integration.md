@@ -20,6 +20,8 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3DHI_Interconnect]]
+[[3d]]
+[[AI_Faculty_Forum_2026]]
 [[Additive_Manufacturing_Topology]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]

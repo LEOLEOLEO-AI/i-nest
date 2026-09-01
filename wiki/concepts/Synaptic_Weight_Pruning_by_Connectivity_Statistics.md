@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[CompactMemristorCircuits]]
 [[Complex_System_Theory]]
 [[Connectome]]
+[[Connectome_Reservoir]]
 [[DataProvenanceIntegrity]]
 [[DrivenDissipativeDynamics]]
 [[FrozenRateOperator]]

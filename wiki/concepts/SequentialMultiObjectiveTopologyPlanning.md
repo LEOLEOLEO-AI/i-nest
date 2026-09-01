@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Entangled_Criticality]]
 [[FeatureBonding]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
+[[GroupInfluenceThreshold]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[Path_State_Awareness]]

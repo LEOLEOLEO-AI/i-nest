@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3DHI_Interconnect]]
+[[3d]]
 [[AI_Faculty_Forum_2026]]
 [[Additive_Manufacturing_Topology]]
 [[Chiplet]]
@@ -29,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CongestionAwareNoCPlacement]]
 [[EventDrivenFusion]]
 [[Heterogeneous_Integration]]
+[[Interconnect_Routing]]
 [[LatencyCodedInterconnect]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Multi_Objective_Routing]]
@@ -38,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_Integration]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[NoC_Chiplet_iNEST_Wafer]]
+[[NoC_EventRouting]]
 [[NoC_SDI]]
 [[NoC_SDI_CoDesign]]
 [[NoC_SDI_Interconnect]]

@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[RenormalizationGroupIntelligence]]
 [[STDP_Plasticity]]
+[[SelfHealing_Interconnect]]
 [[StateAugmentedLearning]]
 [[Stigmergic_Neural_Plasticity]]
 [[Synaptic_Plasticity]]

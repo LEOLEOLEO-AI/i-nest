@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[CriticalFluctuationReservoir]]
+[[DissipativeQuantumReservoir]]
 [[DivergentHigherAreaRanking]]
 [[Emergent_Topological_Alignment]]
 [[Independent_EdgeAI_Player_Endgame]]

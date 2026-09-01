@@ -20,12 +20,17 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[CrossbarArrayVLSI]]
 [[Express_Link_Virtualization]]
 [[GlobalDecision_LocalExecution_ControlPlane]]
 [[Interconnect_Routing]]
+[[Interconnect_Topology]]
 [[MicroRouter_Embedding]]
+[[NCCLCollectiveCommunicationMapping]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]
 [[TCC]]

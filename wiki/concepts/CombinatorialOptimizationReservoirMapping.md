@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveBitPrecisionExploration]]
 [[AdaptiveGraphDiffusion]]
 [[Adaptive_Intelligence_Principle]]
+[[Adaptive_Service_Orchestration]]
 [[AdsorptionBiosorptionHybrid]]
 [[Alignment_Tax]]
 [[AlternativeBridgingModels]]

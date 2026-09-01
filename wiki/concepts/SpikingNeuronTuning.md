@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AdversarialSpikePerturbation]]
 [[AgentBasedCorruptionModel]]
 [[AlloyDisorderEngineering]]
+[[Attention_Mechanism_in_SNN]]
 [[Avoided_Criticality]]
 [[Baseline_Change_Record]]
 [[BioInspiredInterceptionTask]]

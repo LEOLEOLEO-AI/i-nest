@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[SparseActivationPattern]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
+[[Spiking_neural_network_dynamics]]
 [[Synaptic_Plasticity]]
 [[Synaptic_Plasticity_Rule]]
 [[TCC]]

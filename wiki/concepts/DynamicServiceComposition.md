@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[12_三原理协同_FEP_最小作用量_STDP]]
 [[4H_SiC_SubstrateProcessing]]
 [[AI_Faculty_Forum_2026]]
+[[ASIC_Dualism]]
 [[Attention_Residuals]]
 [[AutonomousAdaptation]]
 [[BackpropagationFreeLearning]]

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[CrossEntityPreemptiveWarning]]
 [[DARPA_Manufacturing_Strategy]]
+[[DrivenCriticalityOptimalityTradeoff]]
 [[EventBasedMotionDeblurring]]
 [[EventDrivenMotionDeblurring]]
 [[ImageToEventConversion]]

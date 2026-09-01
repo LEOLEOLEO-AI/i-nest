@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[CircuitCoDesign]]
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
+[[Energy_Efficient_Control]]
 [[ExplosiveCooperationTransition]]
 [[FeFET_Polarization_Switching]]
 [[FerroelectricMemoryCell]]

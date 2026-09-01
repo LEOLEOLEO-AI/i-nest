@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3DHI_Interconnect]]
+[[3d]]
 [[AdvancedPackagingInterconnect]]
 [[BondMovingDecimation]]
 [[ChipletRoutingFabric]]
@@ -29,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[CongestionAwareNoCPlacement]]
+[[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[FullDimensionalDefinableInterconnect]]
 [[Heterogeneous_Integration]]
@@ -43,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_Wafer_Stack]]
 [[NoC_Chiplet_iNEST_Wafer]]
 [[NoC_SDI]]
+[[NoC_SDI_CoDesign]]
 [[NoC_SDI_Integration]]
 [[SDI_Bond]]
 [[TCC]]

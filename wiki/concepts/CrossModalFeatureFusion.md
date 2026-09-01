@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[BulletTrainScheduling]]
 [[DisturbancePropagationPath]]
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]

@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[OpportunisticRoutingRL]]
 [[OpportunisticRouting]]
 [[Optimal_Representation_Geometry]]
+[[PinkNoiseDeviance]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SOC]]
 [[SelfOrganizedOscillatoryLearning]]

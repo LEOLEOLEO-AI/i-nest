@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[11_SDI节点接口规范与化合键定义_dup]]
+[[1M1T1R_SynapticNeuron]]
 [[AI_Faculty_Forum_2026]]
 [[ActiveDendriteSNN]]
 [[AnomalousSpinTransport]]
@@ -36,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[DevelopmentalBrainTrajectory]]
 [[Heterogeneous_Integration]]
 [[Loihi2_SpikeEncoding]]
+[[Loihi]]
 [[Memristive_STDP]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Chiplet]]

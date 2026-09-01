@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[ClosedLoopNeuromorphicControl]]
 [[Discrete_Event_Spike_Simulation]]
+[[EventDrivenRiskAssessment]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
 [[NoiseInjectionLearning]]

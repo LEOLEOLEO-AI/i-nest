@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Encoding_of_fMRI]]
 [[SpikingNeuralAccelerator]]
 [[Spiking_Neural_Network]]
+[[SuddenLearningTransition]]
 [[SuperparamagneticSwitchingRate]]
 [[SurrogateGradientAsymmetry]]
 [[Swarm_Coordination]]

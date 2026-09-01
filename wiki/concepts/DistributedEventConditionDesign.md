@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[CrossDomain_Abstraction]]
 [[CrossDomain_Synthesis]]
+[[DimensionalityReductionPrinciple]]
 [[DisorderedNetworkInterconnect]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]

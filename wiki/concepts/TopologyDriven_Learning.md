@@ -34,6 +34,8 @@ Auto-extracted concept from raw material compilation.
 [[Kinematic_Waves]]
 [[MemoryDrivenRouting]]
 [[Memristive_Interconnect]]
+[[Memristor]]
+[[Memristor_Synapse]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[NearSensorComputing]]
 [[Network_Topology_Design]]
@@ -46,7 +48,10 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologicalDataCompression]]
 [[TopologyAwareTimescaleSeparation]]
+[[Wafer_Scale_Integration]]
+[[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
+[[WaveBasedComputation]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

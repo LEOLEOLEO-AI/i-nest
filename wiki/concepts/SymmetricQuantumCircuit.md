@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[CongestionAwareNoCPlacement]]
 [[DirectConnect_Topology]]
+[[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[Free_Energy_Topology_Mapping]]
 [[Heterogeneous_Integration]]
@@ -56,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[Topology_Aware_NoC_Routing]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

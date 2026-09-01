@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Alpha_Computation_Consistency]]
 [[AndersonTransition]]
 [[BigBrainCellularAxis]]
+[[CausalEmergenceCondition]]
 [[Compact_Boson_Dynamics]]
 [[Complex_System_Theory]]
 [[Core_Spacetime_Tensor]]

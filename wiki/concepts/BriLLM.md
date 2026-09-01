@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[AstrocyteInspiredRepair]]
 [[BayesMarkovOrientationModel]]
+[[Bio_plausible_Neuromorphic_Disturbance_Observer]]
 [[Complex_System_Theory]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]

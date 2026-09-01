@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_Network_Topology]]
 [[Complex_System_Theory]]
+[[Crystallized_Neural_Manifolds]]
 [[DendriticReservoirState]]
 [[ERI_2_0_Strategic_Framework]]
 [[Emergent_Intelligence]]

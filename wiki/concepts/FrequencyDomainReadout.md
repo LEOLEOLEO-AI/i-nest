@@ -53,8 +53,12 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[PersonalizedSNNTransfer]]
+[[PersonalizedSNN]]
+[[QuantumDeepSupervision]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
+[[SNN]]
+[[Spiking_Neural_Network]]
 [[TopologicalAndersonChernInsulator]]
 
 ## Sources

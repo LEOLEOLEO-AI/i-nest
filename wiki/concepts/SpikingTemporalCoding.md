@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[SurrogateGradientMethod]]
 [[Synaptic_Plasticity]]
 [[TemporalPrecisionParallelism]]
+[[TopologyDependentScaling]]
 [[iNEST]]
 
 ## Sources

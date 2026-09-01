@@ -56,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[TopologicalAndersonChernInsulator]]
+[[UniversalComputation]]
 [[iNEST]]
 [[神经网络]]
 

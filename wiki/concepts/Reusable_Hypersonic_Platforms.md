@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[StretchablePhotonicInterconnect]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
+[[Universal_Computation_Landscape]]
 [[iNEST]]
 [[topology reconfiguration]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]

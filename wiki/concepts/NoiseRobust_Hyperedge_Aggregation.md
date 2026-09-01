@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[LIF_Neuron_Model]]
 [[MagnetizationSusceptibilityResponse]]
 [[Network_Specific_Embedding_Separation]]
+[[Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]
 [[RobustnessToSensorNoise]]
 [[SDI_Bond]]

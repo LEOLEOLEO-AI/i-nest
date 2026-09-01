@@ -34,6 +34,8 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_based_heterogeneous_integration]]
 [[CommunicationAwareComputeRelocation]]
 [[DataProvenanceIntegrity]]
+[[FlagOS_2_0]]
+[[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[Free_Energy_Topology_Mapping]]
 [[Heterogeneous_Integration]]

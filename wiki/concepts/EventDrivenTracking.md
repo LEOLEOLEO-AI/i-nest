@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstInterleaving]]
 [[Complex_System_Theory]]
 [[Continuous_Spatiotemporal_State_Propagation]]
+[[Efficient_Coding_Constraint]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenRiskAssessment]]

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3DHI_Interconnect]]
+[[3d]]
 [[AI_Faculty_Forum_2026]]
 [[Additive_Manufacturing_Topology]]
 [[Allreduce_Latency_Probe]]
@@ -41,9 +42,11 @@ Auto-extracted concept from raw material compilation.
 [[CorticalTypeDiversity]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
+[[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
 [[In_Memory_Computing]]
+[[Intelligent_Computing_Infrastructure]]
 [[Interconnect_Routing]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

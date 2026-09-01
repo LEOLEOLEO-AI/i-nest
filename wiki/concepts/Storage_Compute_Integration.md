@@ -28,6 +28,8 @@ Auto-extracted concept from raw material compilation.
 [[Disordered_Frustrated_Dimer_Magnets]]
 [[EntanglementAwareRouting]]
 [[FlagOS_2_0]]
+[[InterChipletPHYModeling]]
+[[Interconnect_Routing]]
 [[TCC]]
 [[iNEST]]
 

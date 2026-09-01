@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[HodgkinHuxleyDynamics]]
 [[In_Network_Neuromorphic]]
+[[In_Package_Neuromorphic_Integration]]
 [[InkjetPrintedElectrochemicalSensors]]
 [[Intelligence_Emergence]]
 [[Memristor]]

@@ -23,6 +23,8 @@ Auto-extracted concept from raw material compilation.
 [[03 涌现：整体的能力不能还原回个体？ - 得到APP]]
 [[1024_Card_SuperNode]]
 [[3D_Heterogeneous_Integration]]
+[[3d]]
+[[AdaptiveGraphDiffusion]]
 [[AdiabaticMultimodeBend]]
 [[AdjointWaveControl]]
 [[Allreduce_Latency_Probe]]

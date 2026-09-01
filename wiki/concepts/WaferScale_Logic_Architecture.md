@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[1024_Card_SuperNode]]
 [[3D_IC_Stacking]]
+[[3d]]
 [[AdiabaticMultimodeBend]]
 [[AdvancedPackagingInterconnect]]
 [[ChipletRoutingFabric]]
@@ -29,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
+[[Heterogeneous_Integration]]
 [[Hierarchical_Interconnect]]
 [[Interconnect_Routing]]
 [[Interconnect_Topology]]
@@ -36,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[TCC]]
+[[Topology_Aware_NoC_Routing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

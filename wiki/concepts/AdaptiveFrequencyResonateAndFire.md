@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicalCriticality]]
 [[EmulationTheoryObserver]]
 [[EventDrivenComputation]]
+[[EventDrivenMotionDeblurring]]
 [[Event_Driven_Architecture]]
 [[Event_Driven_Computation]]
 [[MultiModel_Adapter_Architecture]]

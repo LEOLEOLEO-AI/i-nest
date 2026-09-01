@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Driven_Power_Density_Scaling]]
 [[ActivityAvalanche]]
 [[Activity_Energy_Tradeoff]]
 [[AdaptiveBitPrecisionExploration]]

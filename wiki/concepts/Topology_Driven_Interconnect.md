@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[MetaFAIR_ArchitectureDiscovery]]
 [[MitigationLayers]]
 [[Network_Topology_Design]]
+[[NonequilibriumLangevinComputing]]
 [[Nonlinear_Gain]]
 [[Nonlinear_Topology_Amplification]]
 [[ReproducibleReservoirComputing]]

@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_CoordinationMechanism]]
 [[C__elegans_Connectome]]
 [[C_elegansConnectomeAnalogy]]
+[[Causal_Emergence]]
 [[Combinatorial_Optimization_Readout]]
 [[Complex_System_Theory]]
 [[Connectome]]
@@ -46,13 +47,13 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[EvolutionaryReservoirLearning]]
 [[GraphEmbeddedReservoir]]
+[[HierarchicalModularReservoirs]]
 [[Intelligence_Emergence]]
 [[NonEquilibriumComputing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
-[[causal emergence]]
 [[iNEST]]
 
 ## Sources

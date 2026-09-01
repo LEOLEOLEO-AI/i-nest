@@ -41,7 +41,9 @@ Auto-extracted concept from raw material compilation.
 [[MagnitudePhaseComputationalModel]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[SNN]]
 [[ST_SNN]]
+[[SpikingNeuralImplementation]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

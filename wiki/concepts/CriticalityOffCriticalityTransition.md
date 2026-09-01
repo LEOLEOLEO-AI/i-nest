@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityDrivenStateTransition]]
 [[CriticalityInNetworkComputing]]
 [[Criticality]]
+[[DelayAwareSpikeEventDelivery]]
 [[Driven_Criticality]]
 [[DynamicTokenSparsity]]
 [[Emergent_Intelligence]]

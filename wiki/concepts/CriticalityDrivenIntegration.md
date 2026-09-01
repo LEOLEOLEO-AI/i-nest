@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Change_Record]]
 [[BulletTrainScheduling]]
 [[Catastrophic_Forgetting_Mitigation]]
+[[ConstructedRealityState]]
 [[Contested_Priors_Architecture]]
 [[Continuous_Control_SNN_Stability]]
 [[Criticality]]

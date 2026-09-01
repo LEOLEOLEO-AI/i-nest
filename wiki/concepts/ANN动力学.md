@@ -63,6 +63,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[SDI节点接口规范与化合键定义]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
+[[SelfHealing_Interconnect]]
 [[SmallWorldNetworks]]
 [[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]

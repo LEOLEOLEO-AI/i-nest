@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[NonHermitian_Delocalization]]
 [[OpticallyWritableAtomicVaporMemory]]
+[[Pseudofractal_Web]]
 [[ScalableNeuromorphicTopology]]
 [[TCC]]
 [[TopologicalDataCompression]]

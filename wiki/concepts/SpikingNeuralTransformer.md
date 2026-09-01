@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicHandwritingRecognition]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[Neuromorphic_Speech_Tokenizer]]
 [[Spike_Event_Driven_Attention]]
 [[Spiking_Neural_Network]]
 [[Spinal_CPG_Coordinated_Control]]

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveFunctionalTopology]]
 [[Adaptive_Service_Reconfiguration]]
 [[AdjointWaveControl]]
+[[Cache_Aware_Flow_Scheduling]]
 [[CircuitTopologyEncoding]]
 [[Cognitive_Relapse_Decoupling]]
 [[Complex_System_Theory]]

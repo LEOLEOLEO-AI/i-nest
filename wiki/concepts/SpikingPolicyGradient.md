@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeFusionLayer]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking neural network]]
+[[SpikingNeuralDynamics]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]

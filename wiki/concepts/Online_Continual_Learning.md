@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[Criticality]]
 [[CrossEntityPreemptiveWarning]]
+[[DrivenCriticalityOptimalityTradeoff]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]

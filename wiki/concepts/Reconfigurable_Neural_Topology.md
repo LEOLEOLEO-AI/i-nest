@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[InSitu_Adjoint_Wave_Control]]
 [[Interconnect_Routing]]
 [[JunctionCenteredRouting]]
+[[MatrixShapePhaseTransition]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[OpenLearningEcosystem]]

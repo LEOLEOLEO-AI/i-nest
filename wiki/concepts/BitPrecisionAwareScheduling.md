@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[OpenLearningEcosystem]]
 [[PHYPowerTimingCoOptimization]]
 [[P_Paradigm]]
+[[RandomisedMixedLabyrinthFractals]]
 [[RecursiveSelfReferentialArchitecture]]
 [[ThermalMechanicalStressModeling]]
 [[TopologicalAndersonChernInsulator]]

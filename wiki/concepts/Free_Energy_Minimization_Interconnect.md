@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[FeFET_Polarization_Switching]]
+[[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Interconnect_Scaling]]
 [[Interconnect_Topology]]

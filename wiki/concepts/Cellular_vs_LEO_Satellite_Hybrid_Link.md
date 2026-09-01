@@ -23,6 +23,8 @@ Auto-extracted concept from raw material compilation.
 [[1024_Card_SuperNode]]
 [[3D_Heterogeneous_Integration]]
 [[3D_Integration]]
+[[3d]]
+[[AI_Driven_Power_Density_Scaling]]
 [[AI_Memory_Infrastructure]]
 [[Active_Inference_Topology]]
 [[Additive_Manufacturing_Topology]]

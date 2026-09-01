@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[QuantumReservoirMemoryCapacity]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
+[[SelfOrganizedCriticalityConsciousness]]
 [[Self_Organized_Criticality]]
 [[SubsystemInformationCapacity]]
 [[SuperparamagneticSwitchingRate]]

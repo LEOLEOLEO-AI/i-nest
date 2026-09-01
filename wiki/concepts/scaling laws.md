@@ -29,6 +29,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 
 ## Related Work
 
+[[A1_CST_Theory_V25_FINAL]]
 [[Brain_Connectome]]
 [[CST_Intelligence_Emergence]]
 [[CST_Theory]]
@@ -49,6 +50,8 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[getnote_2026-01-12_晶圆级神经网络能效革命]]
+[[getnote_2026-06-27_智能涌现理论框架]]
 [[iNEST]]
 [[复杂网络]]
 [[大脑临界性_健康脑功能的统一设定点假说_Neuron观点文章深度解析]]
+[[神经网络]]

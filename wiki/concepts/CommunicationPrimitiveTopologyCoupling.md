@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[03 涌现：整体的能力不能还原回个体？ - 得到APP]]
 [[1024_Card_SuperNode]]
 [[3D_Integrated_Chiplet_Stacking]]
+[[3d]]
 [[AI_Memory_Infrastructure]]
 [[AdaptiveDensityControl]]
 [[AdiabaticMultimodeBend]]
@@ -41,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Topology_Packaging]]
 [[CoPackagedOptics]]
 [[CoPoS]]
+[[Collective_Offloading]]
 [[Communication_Primitive]]
 [[Complex_System_Theory]]
 [[DTGA]]
@@ -60,7 +62,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[Topology_Embedded_Field_Encoding]]
 [[WavelengthMultiplexedInterconnect]]
-[[advanced packaging]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

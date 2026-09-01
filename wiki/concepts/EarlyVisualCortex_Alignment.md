@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Biologically_Plausible_Learning_Rules]]
 [[CST计量仪]]
 [[CentralityBasedMitigation]]
+[[CollectiveStatePhaseTransition]]
 [[CompactBosonDuality]]
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]

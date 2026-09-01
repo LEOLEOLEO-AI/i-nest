@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[BigBrainCellularAxis]]
 [[BrownianCastleInterface]]
+[[Causal_Emergence]]
 [[Core_Spacetime_Tensor]]
 [[Criticality]]
 [[Criticality_Induced_Plasticity]]
@@ -43,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Fixed_Cost_Dominance]]
 [[FormalLinguisticCompetence]]
 [[GradientBasedTopologyOptimization]]
+[[GutBrainAxis_Reprogramming]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]
@@ -50,7 +52,6 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
-[[causal emergence]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[ERI_2_0_Strategic_Framework]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Theory]]
+[[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[Intelligence_Emergence]]
 [[NCL神经计算定律详解]]
@@ -54,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

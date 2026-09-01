@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
+[[CrossbarArrayVLSI]]
 [[DTGA]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]

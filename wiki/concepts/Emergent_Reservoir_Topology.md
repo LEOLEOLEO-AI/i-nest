@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[OpticalNonlinearity]]
+[[Parkinsonian_Neural_State_Detection]]
 [[RecursiveSelfReferentialArchitecture]]
 [[ReservoirEntropyEncoding]]
 [[Reservoir_Computing]]

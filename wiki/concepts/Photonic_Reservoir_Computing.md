@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[BrainActivityPrediction]]
 [[DataDrivenMaterialDesign]]
 [[ErrorSuppressedPipeline]]
+[[HierarchicalReservoirDynamics]]
 [[MultipartiteEntanglementFractal]]
 [[NCA_Reservoir]]
 [[Neuromorphic_Computing]]

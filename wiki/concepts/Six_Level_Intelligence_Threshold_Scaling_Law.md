@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[ExplosiveCooperationTransition]]
 [[Intelligence_Emergence]]
 [[LocalEvolutionRules]]
+[[MajoranaZeroModeDetection]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[analog computation]]

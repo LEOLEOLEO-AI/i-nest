@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[MoE_Routing]]
 [[Network_Topology_Design]]
+[[Orientation_Encoding_Latent_Spaces]]
 [[PhotonicSynapticPlasticity]]
 [[Receptron_Unit]]
 [[ReconfigurableSNNTopology]]

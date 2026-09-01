@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[NonEquilibriumComputing]]
 [[PhotoInducedCurrent]]
 [[PhotonicSynapticPlasticity]]
+[[Receptron_Unit]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Representation_Learning_Generalization]]
 [[Reservoir_Computing]]

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_SNN_Trainability]]
 [[DeeplySupervisedSpiking]]
 [[DendriticTaskPartitioning]]
+[[DevelopmentalNeuromorphicAdaptation]]
 [[DrivenDissipativeDynamics]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]

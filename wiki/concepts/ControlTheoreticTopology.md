@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[GenerativeTopologyModels]]
 [[HybridCouplingThermosensitiveNetwork]]
 [[InSitu_Adjoint_Wave_Control]]
+[[IncidenceMatrixPropagation]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Synaptic_Plasticity]]

@@ -24,6 +24,8 @@ Auto-extracted concept from raw material compilation.
 [[3DHI_Chiplet_Integration]]
 [[3DHI_Integration]]
 [[3DHI_Stacking]]
+[[3D_Vertical_Interconnect]]
+[[3d]]
 [[Blanket_Clock_Tree]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[11_SDI节点接口规范与化合键定义_dup]]
+[[3d]]
 [[AI_Faculty_Forum_2026]]
 [[Accessibility_Plasticity]]
 [[AnisotropicGaussianPrimitives]]
@@ -33,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[EnsembleSparsity]]
 [[Entropy_Connectivity_Path]]
+[[Fixed_Cost_Dominance]]
 [[Gut_Brain_Immune_Network]]
 [[Intelligence_Emergence]]
 [[Intelligent_Emergence_Computing]]

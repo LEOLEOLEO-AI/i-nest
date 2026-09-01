@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BiasPropagationInNetworks]]
 [[BitPrecisionAwareScheduling]]
 [[CascadedAdaptiveCombiners]]
+[[Collective_State_Convergence]]
 [[EvolvingArchitectureDynamics]]
 [[Generation_Quality_Refinement]]
 [[Habituation_Dynamics]]

@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Minimization_Interconnect]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
+[[KV_Cache_to_BoundaryObject_Transition]]
 [[L2_L3_Reconfigurability]]
 [[MachineLearningPotential]]
 [[NCL神经计算定律详解]]

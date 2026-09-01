@@ -25,6 +25,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 
 ## Related Work
 
+[[3d]]
 [[BNN vs ANN (1)]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -37,11 +38,13 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Less_is_more，大脑“低能耗”并“高效响应”的秘诀：模块化_NSR_1]]
 [[MIT_异构Chiplet集成构建下一代计算的_超级芯片_]]
 [[Nat_Hum_Behav_用「全拓扑网络」重塑视皮层地图]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[PPT]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
+[[_Nature大子刊_3D集成技术如何打破神经形态计算的_互连墙_]]
 [[iNEST]]
 [[从CoWoS走向CoPoS，晶圆从圆形变成方形]]
 [[关于“十五五”布局晶上产业平台开辟“第二曲线”的战略建议4]]

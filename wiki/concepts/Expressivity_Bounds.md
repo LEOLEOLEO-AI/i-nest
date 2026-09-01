@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[EnergyEfficientNeuromorphic]]
 [[EventBasedVisualStream]]
 [[EventDrivenComputation]]
+[[EventDrivenInference]]
 [[EventDrivenNeuromorphicLearning]]
 [[Event_Driven_Activation]]
 [[Event_Driven_Architecture]]

@@ -17,8 +17,10 @@ SDI, chiplet, iNEST, wafer, 封装, 晶圆
 ## Related Concepts
 
 [[3D_IC_Stacking]]
+[[3d]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Heterogeneous_Integration]]
 [[SDI_Bond]]
 [[TCC]]
 [[Wafer_Scale_Integration]]

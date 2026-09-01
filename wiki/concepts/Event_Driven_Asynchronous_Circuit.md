@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Asynchronous_Circuit]]
 [[BioPlausiblePredictiveCoding]]
 [[BrainInspired_Chip]]
 [[BurstGatedRouting]]
@@ -27,6 +28,9 @@ Auto-extracted concept from raw material compilation.
 [[DelayCodedWorkingMemory]]
 [[Discrete_Event_Spike_Simulation]]
 [[Event_Driven_Architecture]]
+[[Event_Driven_Spike_Communication]]
+[[Interconnect_Routing]]
+[[Neuromorphic_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[iNEST]]

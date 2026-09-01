@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[SpikeTimingEncoding]]
 [[Spike_Encoding_of_fMRI]]
+[[SpikingTrafficSignRecognition]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[TemporalFeaturePropagation]]

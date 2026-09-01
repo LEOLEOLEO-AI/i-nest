@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[ConvexNonConvexTradeoff]]
 [[CrossbarArrayArchitecture]]
 [[Decoupling_Mechanism]]
+[[Defense_Industrial_Base_Reshaping]]
 [[Free_Energy_Topology_Mapping]]
 [[GateModelQuantumOptimization]]
 [[Heterogeneous_Integration]]

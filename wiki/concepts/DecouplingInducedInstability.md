@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Free_Energy_Principle]]
 [[TCC]]
 [[iNEST]]
 

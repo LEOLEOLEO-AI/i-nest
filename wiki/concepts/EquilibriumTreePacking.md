@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_InMemory_Processing]]
 [[Analog_Weight_Storage]]
 [[ApproximationFidelityTradeoff]]
+[[Attention_Residuals]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[EvolutionaryTopologySearch]]

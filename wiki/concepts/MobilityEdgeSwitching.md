@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicCentralitySteering]]
 [[Free_Energy_Topology_Mapping]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
+[[GroupInfluenceThreshold]]
 [[InNetworkComputing]]
 [[Interconnect_Routing]]
 [[MoE_Routing]]

@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[ContactOpportunityExploitation]]
 [[DataCenter_Chip_Logic_Compression]]
 [[DeepParsing]]
+[[Differential_Encoding]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]

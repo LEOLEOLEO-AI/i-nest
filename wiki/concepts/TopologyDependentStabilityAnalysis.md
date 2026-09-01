@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[EdgeIoTEnergyAwareness]]
 [[EulaminateOverrepresentation]]
 [[Heterogeneous_Integration]]
+[[IncidenceBasedRandomWalk]]
 [[Intelligence_Emergence]]
 [[Memory_Wall]]
 [[Memristive_STDP]]

@@ -20,6 +20,8 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3DHI_Interconnect]]
+[[3d]]
+[[4H_SiC_SubstrateProcessing]]
 [[AI_FullSpectrum_Strategy]]
 [[Additive_Manufacturing_Topology]]
 [[Allreduce_Latency_Probe]]
@@ -27,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
+[[Chiplet_Interconnect]]
 [[CongestionAwareNoCPlacement]]
 [[Dynamic_Expert_Fusion]]
 [[Heterogeneous_Integration]]

@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
 [[ComputationEfficientDeepLearning]]
+[[ConcentricDiscreteOpticalVortices]]
 [[Deep_Network_Architecture_Invariant]]
 [[EarlyExitInference]]
 [[EfficientDeepLearning]]

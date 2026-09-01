@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[Spatiotemporal_Computing]]
 [[Swarm_Coordination]]
 [[TCC]]
+[[TemporalEchoMemory]]
 [[analog computation]]
 [[complex system]]
 [[iNEST]]

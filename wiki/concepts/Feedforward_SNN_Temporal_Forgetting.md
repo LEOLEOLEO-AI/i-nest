@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Algorithm_Hardware_CoDesign]]
 [[Analog_Synaptic_Behavior]]
 [[BiSpikCLM]]
 [[BigBrainCellularAxis]]
@@ -36,3 +37,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- Feedforward_SNN_Temporal_Forgetting (merged 2026-09-02)

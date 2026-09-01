@@ -20,14 +20,18 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Faculty_Forum_2026]]
 [[CST_MasterEquation]]
+[[Complex_System_Theory]]
 [[Decoupled_Priors]]
 [[Defense_Industrial_Base_Reshaping]]
 [[EnergyOptimizedManycoreArchitecture]]
+[[FlagScale]]
 [[FlagScale_Training_Inference]]
 [[Independent_EdgeAI_Player_Endgame]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
+[[SDI_Bond]]
 [[SDI_Review_Process]]
 [[TCC]]
 

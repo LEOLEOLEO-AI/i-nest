@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[SafetyThresholdAsSpikingThreshold]]
 [[SpikeCommunicationScheduling]]
 [[SpikePacketRouting]]
+[[SpikeTimingEncoding]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking neural network]]
 [[Spiking_Neural_Network]]

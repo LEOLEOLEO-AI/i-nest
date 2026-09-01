@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Agent_Workflow_Automation]]
 [[AstrocyteInspiredRepair]]
 [[BioInspiredLearningRule]]
+[[Bio_plausible_Neuromorphic_Disturbance_Observer]]
 [[ChannelEventSparsity]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]

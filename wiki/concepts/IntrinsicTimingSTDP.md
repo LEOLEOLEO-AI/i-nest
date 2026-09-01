@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_MemristiveLearning]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
+[[ST_SNN]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Mamba_Block]]
 [[Spiking_Neural_Network]]

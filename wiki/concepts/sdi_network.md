@@ -10,7 +10,7 @@ auto: true
 
 **Domain**: TCC
 **First mentioned**: auto-extracted
-**Last updated**: 2026-09-01
+**Last updated**: 2026-09-02
 
 ## Definition
 A simulation platform for modeling Software-Defined Interconnect architectures in a topology-centric network environment. It allows iterative validation of new interconnect topologies and protocols before hardware implementation.
@@ -22,14 +22,25 @@ Auto-extracted concept from raw material compilation.
 
 [[4H_SiC_SubstrateProcessing]]
 [[BackpropagationFreeLearning]]
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
+[[CongestionAwareNoCPlacement]]
+[[Interconnect_Topology]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
+[[NoC]]
+[[NoC_SDI]]
 [[NoC_SDI_Chiplet]]
 [[P_Paradigm]]
 [[SDI_Bond]]
+[[SDI_Chiplet]]
 [[SDI_iNEST_Interconnect]]
 [[SDI_iNEST_Interconnect_Topology]]
 [[TCC]]
 [[ThreeLayerArchitecture]]
+[[iNEST]]
+[[iNEST_Interconnect]]
+[[iNEST_Interconnect_Topology]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

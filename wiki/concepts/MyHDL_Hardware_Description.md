@@ -26,10 +26,13 @@ Auto-extracted concept from raw material compilation.
 [[ApproximateMacroscopicDynamics]]
 [[Arm_Locomotor_Synergy]]
 [[Asynchronous_Handshake_Protocol]]
+[[Bipartite_Interconnect_Design]]
+[[Complex_System_Theory]]
 [[Neuromorphic_Computing]]
 [[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -20,7 +20,9 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3d]]
 [[Bidirectional_Temporal_Enhancement]]
+[[BigBrainCellularAxis]]
 [[BrainInspired_Chip]]
 [[ConductingPolymerDendriteMemory]]
 [[DelayCodedWorkingMemory]]

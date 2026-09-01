@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Application_Scenario_Reconstruction]]
+[[AI_Driven_Power_Density_Scaling]]
 [[AcceleratedMaterialScreening]]
 [[AdaptiveGraphDiffusion]]
 [[AdaptiveModelPartitioning]]

@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_iNEST_Memristive]]
 [[SpikeTimingFidelity]]
 [[Spike_Encoding_of_fMRI]]
+[[Spike_timing_dependent_plasticity_learning_rule]]
 [[Spiking_Neural_Network]]
 [[Spiking_neural_network_dynamics]]
 [[SynapticWeightPlasticity]]

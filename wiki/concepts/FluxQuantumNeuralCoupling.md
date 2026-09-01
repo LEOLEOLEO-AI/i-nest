@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[ExactFiringRateModel]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[OpportunisticRoutingRL]]
 [[SOC]]
 [[Scalable_Neuromorphic_System]]
 [[Spiking_Neural_Network]]

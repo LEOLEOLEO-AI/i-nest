@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[SolitonLikeWaves]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking neural network]]
+[[SpikingTopologyEvolution]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]

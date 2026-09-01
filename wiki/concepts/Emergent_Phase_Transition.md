@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityDrivenLearning]]
 [[Criticality]]
 [[Criticality_Avoidance_Theory]]
+[[Criticality_Induced_Plasticity]]
 [[Intelligence_Emergence]]
 [[Neuromorphic_Computing]]
 [[Self_Organized_Criticality]]

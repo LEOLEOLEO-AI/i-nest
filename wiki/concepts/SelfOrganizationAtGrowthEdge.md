@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Gut_Brain_Immune_Network]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[MatrixShapePhaseTransition]]
 [[Memristive_Solutions]]
 [[Memristor]]
 [[Memristor_Synapse]]

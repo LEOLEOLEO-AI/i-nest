@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[ContinualLearningOnNeuromorphic]]
 [[ContinuousTimeSNN]]
 [[Continuous_Spatiotemporal_State_Propagation]]
+[[DelayAwareSpikeEventDelivery]]
 [[DelayCodedWorkingMemory]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence]]

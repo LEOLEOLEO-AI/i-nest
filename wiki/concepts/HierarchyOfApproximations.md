@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[FPGA_Neuromorphic_Architectures]]
 [[FormalLinguisticCompetence]]
+[[HardwareAwareFairness]]
 [[HierarchicalBayesianCommunityDetection]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]

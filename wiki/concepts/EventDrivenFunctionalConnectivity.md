@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[AsynchronousEventDrivenComputation]]
+[[Avoided_Criticality]]
 [[Bidirectional_Temporal_Enhancement]]
 [[Controlled_Release_Kinetics]]
 [[Dynamic_Expert_Fusion]]

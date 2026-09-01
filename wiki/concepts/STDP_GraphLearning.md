@@ -41,6 +41,8 @@ Auto-extracted concept from raw material compilation.
 [[SDI_STDP_Bond]]
 [[SDI_STDP_Fusion]]
 [[SDI_STDP_Integration]]
+[[SDI_STDP_Rule]]
+[[STDP_Integration]]
 [[STDP_Plasticity]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

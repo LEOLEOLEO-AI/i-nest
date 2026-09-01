@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3D_Torus_6_Degree]]
+[[3d]]
 [[AdiabaticMultimodeBend]]
 [[AndersonTransition]]
 [[AnomalousSpinTransport]]
@@ -42,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[HodgkinHuxleyDynamics]]
 [[Interconnect_Routing]]
 [[Interconnect_Topology]]
+[[LossSpikeMechanism]]
 [[Memristive_Interconnect]]
 [[Memristor]]
 [[Memristor_Network]]

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[MeasurementInducedPhaseTransition]]
 [[Metriplectic_Twin]]
 [[Multifractal_Signatures]]
+[[National_Planning_Driven_Research_Alignment]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neural_Substrate_Independence]]
 [[Neuromorphic_Computing]]

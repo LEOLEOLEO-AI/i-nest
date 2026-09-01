@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[ArbitraryWavefunctionConfigurability]]
 [[AstrocyteInspiredRepair]]
 [[BayesianDomainEvolution]]
+[[BehavioralFeedbackLoop]]
 [[BehavioralNeuromorphicCorrelates]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[BoseCondensateAnalogy]]

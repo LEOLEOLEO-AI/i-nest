@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[IMPLYMemristiveISA]]
 [[In_Memory_Computing]]
 [[Intelligence_Emergence]]
+[[InterpolationLearningTransition]]
 [[Long_Range_Interactions]]
 [[Memristive_CAM_Indexing]]
 [[Memristive_Crossbar_Array]]

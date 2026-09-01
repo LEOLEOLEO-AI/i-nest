@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalLearningRegime]]
 [[Criticality]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
+[[GroupInfluenceThreshold]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Path_State_Awareness]]

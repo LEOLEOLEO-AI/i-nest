@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[CriticalFluctuationReservoir]]
+[[DissipativeQuantumReservoir]]
 [[Emergent_CMOS_Memristor_Nonlinearity]]
 [[HardwareAware_DesignSpace]]
 [[Intelligence_Emergence]]

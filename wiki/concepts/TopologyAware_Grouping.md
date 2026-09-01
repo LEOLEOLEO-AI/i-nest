@@ -22,6 +22,8 @@ Auto-extracted concept from raw material compilation.
 
 [[1024_Card_SuperNode]]
 [[3D_Heterogeneous_Integration]]
+[[3d]]
+[[AdaptiveGraphDiffusion]]
 [[AdiabaticMultimodeBend]]
 [[AdvancedPackagingInterconnect]]
 [[AndersonTransition]]

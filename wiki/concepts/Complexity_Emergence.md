@@ -69,6 +69,7 @@ Auto-extracted concept from raw material compilation.
 [[Small_World_Network]]
 [[SpatiotemporalComplexityIndex]]
 [[Spiking_Neural_Network]]
+[[Spiking_neural_network_dynamics]]
 [[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]
 [[TemporalComplexity]]

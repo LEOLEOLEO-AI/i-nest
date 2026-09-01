@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[3D_Torus_6_Degree]]
+[[3d]]
 [[AI_Driven_Architecture_Search]]
 [[AI_Enabled_Battlefield_Autonomy]]
 [[AI_Forum_Demo_Narrative]]
@@ -42,7 +43,9 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenRestoration]]
 [[EventDrivenTracking]]
 [[EventDriven_Interconnect]]
+[[Event_Driven_Architecture]]
 [[Event_Driven_Communication]]
+[[FPGA_NeuromorphicMapping]]
 [[FrustratedDimerMagnet]]
 [[Interconnect_Routing]]
 [[Memristive_Topology]]

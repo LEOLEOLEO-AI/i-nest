@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Neuromorphic]]
 [[complex system]]
 [[iNEST]]
+[[忆阻器]]
 [[智能涌现]]
 [[涌现]]
 [[神经形态计算]]

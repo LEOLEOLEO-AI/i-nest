@@ -809,6 +809,58 @@
         "source_path": "00_Inbox\\_pipeline_insights\\2026-08-29_arXiv_Spectral Fingerprints of Gauge Theories on a Quantum Compute.md"
       },
       "cached_at": "2026-08-29T06:43:49"
+    },
+    "5e53a4097293903a5c5f2ca3ee31cdafc28d227c131d2a7cefaa05468495a8b8": {
+      "analysis": {
+        "id": 1,
+        "title_zh": "Memristive-Friendly Hadamard Reservoir Computing: Structured, Multiplier-Free Re",
+        "tcc_value": "",
+        "inest_value": "关键词匹配,需深入阅读",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 5,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-09-01_arXiv_Memristive-Friendly Hadamard Reservoir Computing Structured,.md"
+      },
+      "cached_at": "2026-09-01T06:45:35"
+    },
+    "4fdac034ce9a16586d1f5991ce0a591d4947c166f5d2c84d05b661d785b31443": {
+      "analysis": {
+        "id": 2,
+        "title_zh": "SpikeOPD: Stable On-Policy Distillation for Autoregressive Spiking Language Mode",
+        "tcc_value": "",
+        "inest_value": "关键词匹配,需深入阅读",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 5,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-09-01_arXiv_SpikeOPD Stable On-Policy Distillation for Autoregressive Sp.md"
+      },
+      "cached_at": "2026-09-01T06:45:35"
+    },
+    "cd971e576dc5c78757c8df7352f208e62776cf6812cf10b3fb26aaedb221b968": {
+      "analysis": {
+        "id": 3,
+        "title_zh": "Low-Power End-to-End Cochlear Implant Speech Denoising with Spiking Neural Netwo",
+        "tcc_value": "",
+        "inest_value": "关键词匹配,需深入阅读",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 5,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-09-01_arXiv_Low-Power End-to-End Cochlear Implant Speech Denoising with .md"
+      },
+      "cached_at": "2026-09-01T06:45:35"
+    },
+    "19e43cf56bc05212b1f2bc0bb3dad5f9a9ac3e8bf13bb5ef3ca82d6ada48d247": {
+      "analysis": {
+        "id": 4,
+        "title_zh": "Propagation rates in integro-differential equations of ignition type",
+        "tcc_value": "",
+        "inest_value": "关键词匹配,需深入阅读",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 4,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-09-01_arXiv_Propagation rates in integro-differential equations of ignit.md"
+      },
+      "cached_at": "2026-09-01T06:45:35"
     }
   }
 }

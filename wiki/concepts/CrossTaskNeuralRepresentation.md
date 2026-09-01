@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CorticalWaveRouting]]
 [[Course_Based_FPGA_Projects]]
 [[DataDrivenCellularAxis]]
+[[DevelopmentalNeuromorphicAdaptation]]
 [[EnsembleSparsity]]
 [[Gut_Brain_Immune_Network]]
 [[Hardware_Accelerated_SNN]]

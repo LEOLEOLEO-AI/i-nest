@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityConstrainedPruning]]
 [[CriticalityDrivenStateTransition]]
 [[Criticality]]
+[[DirectSNNTraining]]
 [[Interconnect_Routing]]
 [[MoE_Routing]]
 [[NetworkCriticality]]

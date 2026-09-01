@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[SDDE_Attractor_Emergence]]
 [[SNN]]
 [[SolitonLikeWaves]]
+[[SpikeEncodingLatency]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking neural network]]
 [[SpikingTopologyEvolution]]

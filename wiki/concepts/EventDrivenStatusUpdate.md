@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenRestoration]]
 [[EventDrivenRiskAssessment]]
 [[EventDrivenSpectralProcessing]]
+[[EventDrivenTracking]]
 [[FirstTimestepConversion]]
 [[FixedOverheadFloor]]
 [[Neuromorphic_Computing]]

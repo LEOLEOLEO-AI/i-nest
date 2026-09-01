@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[BayesianDomainEvolution]]
 [[BehavioralFeedbackLoop]]
+[[BoseCondensateAnalogy]]
 [[BrainBodyResonance]]
 [[CST计量仪]]
 [[Complex_System_Theory]]

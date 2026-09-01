@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[AdjointWaveControl]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[Cache_Aware_Flow_Scheduling]]
 [[CircuitTopologyEncoding]]
 [[Cognitive_Relapse_Architecture]]
 [[Complex_System_Theory]]

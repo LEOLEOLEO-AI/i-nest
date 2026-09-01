@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[InNetworkComputing]]
 [[Interconnect_Routing]]
+[[MobilityEdgeSwitching]]
 [[MultiSourceTaskonomy]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

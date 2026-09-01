@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[Nonlinear_Gain]]
+[[Recurrent_Network_Homeostasis]]
 [[SNN]]
 [[ST_SNN]]
 [[Spiking_Neural_Network]]

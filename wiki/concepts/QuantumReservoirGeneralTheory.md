@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3D_Heterogeneous_Integration]]
+[[3d]]
 [[AINext_Initiative]]
 [[AgenticServiceManifesto]]
 [[AnalogDomainCompression]]
@@ -28,8 +29,10 @@ Auto-extracted concept from raw material compilation.
 [[CombinatorialOptimizationReservoirMapping]]
 [[Criticality]]
 [[Criticality_Reservoir]]
+[[Edge_of_Chaos]]
 [[Edge_of_Chaos_Reservoir_Dynamics]]
 [[Environmental_Induced_Memory]]
+[[Fading_Memory_Property]]
 [[Heterogeneous_Compute_Graph]]
 [[Heterogeneous_Integration]]
 [[HierarchicalReservoirDynamics]]

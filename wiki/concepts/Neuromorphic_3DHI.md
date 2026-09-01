@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[11_SDI节点接口规范与化合键定义_dup]]
 [[3D_Stacking]]
+[[3d]]
 [[AI_Faculty_Forum_2026]]
 [[Accessibility_Plasticity]]
 [[AnomalousSpinTransport]]
@@ -32,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Based_Neuromorphic_Integration]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
+[[ConverterDrivenStability]]
 [[DataDrivenCellularAxis]]
 [[DevelopmentalBrainTrajectory]]
 [[Emergent_Intelligence]]

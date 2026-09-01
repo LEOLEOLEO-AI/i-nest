@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[EmulationTheoryObserver]]
 [[EventCameraPoseInput]]
 [[EventDrivenComputation]]
+[[EventDrivenMotionDeblurring]]
 [[Event_Driven_Architecture]]
 [[Event_Driven_Computation]]
 [[ImpactFallDetection]]

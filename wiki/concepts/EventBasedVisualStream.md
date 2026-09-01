@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[EnergyEfficientNeuromorphicDesign]]
 [[EnergyEfficientNeuromorphic]]
 [[EventDrivenComputation]]
+[[EventDrivenInference]]
 [[EventDrivenNeuromorphicLearning]]
 [[Event_Driven_Activation]]
 [[Event_Driven_Architecture]]

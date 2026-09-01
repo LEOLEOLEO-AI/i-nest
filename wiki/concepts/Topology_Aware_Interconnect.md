@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[DataMovementMinimization]]
 [[Decoupled_Priors]]
 [[Die_to_Die_Protocol]]
+[[DirectConnect_Topology]]
 [[Disordered_Frustrated_Dimer_Magnets]]
 [[GraphBasedSemanticRouting]]
 [[Heterogeneous_Integration]]

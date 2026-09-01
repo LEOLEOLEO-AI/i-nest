@@ -55,7 +55,9 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[ReservoirDynamics]]
 [[ReservoirYieldMaximization]]
+[[ReservoirYield]]
 [[Reservoir_Computing]]
+[[Reservoir_Computing_Branch_Prediction]]
 [[iNEST]]
 
 ## Sources

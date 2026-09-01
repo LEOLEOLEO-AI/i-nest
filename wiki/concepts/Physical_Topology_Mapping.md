@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_SDI]]
 [[NoC_SDI_Topology]]
 [[P_Paradigm]]
+[[RuntimeTopologyMapping]]
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
 [[SDI_Topology]]

@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_NPU_NoC_Integration]]
 [[TCC]]
+[[Wafer_Scale_Packaging]]
 [[iNEST]]
 [[iNEST_Wafer]]
 [[涌现]]

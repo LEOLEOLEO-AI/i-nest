@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[NeurovascularUnit]]
 [[NonEquilibriumComputing]]
+[[OptimalGeneralisationNearInterpolation]]
 [[Reservoir_Computing]]
 [[SelfOrganizedOscillatoryLearning]]
 [[Spike_Encoding_of_fMRI]]

@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[EquilibriumSolution]]
 [[HubbardModelVariationalAnsatz]]
 [[Intelligence_Emergence]]
+[[Material_Circularity]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]

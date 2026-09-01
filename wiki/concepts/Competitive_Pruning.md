@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[AI_Forum_Demo_Narrative]]
 [[ActionPrototypeClustering]]
+[[Activity_Dependent_Plasticity]]
 [[AddressRedundancyElimination]]
 [[AdjustableDynamics]]
 [[Agile_Resilient_Defense_Ecosystem]]

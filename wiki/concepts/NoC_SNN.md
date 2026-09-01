@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[EventCameraTemporalEncoding]]
 [[Event_Driven_Architecture]]
+[[In_Network_Neuromorphic_Scheduling]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]

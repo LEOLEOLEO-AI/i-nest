@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3DHI_Chiplet_Integration]]
+[[3d]]
 [[AI_Faculty_Forum_2026]]
 [[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
@@ -27,6 +28,8 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[BeyondVonNeumannArchitecture]]
 [[CST计量仪]]
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
 [[ComputationEfficientDeepLearning]]
 [[CrossDomain_Integration]]
@@ -46,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[InMateriaComputing]]
 [[In_Memory_Computing]]
 [[In_Network_Neuromorphic]]
+[[In_Network_Neuromorphic_Compute]]
 [[Intelligence_Emergence]]
 [[Long_Range_Interactions]]
 [[Memristive_ANN_Hardware]]

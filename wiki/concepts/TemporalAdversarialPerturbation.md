@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Bidirectional_Temporal_Enhancement]]
 [[BioInspiredSequenceLearning]]
+[[BrainInspired_Chip]]
 [[DelayCodedWorkingMemory]]
 [[DiscreteSTDP]]
 [[Event_Driven_Architecture]]

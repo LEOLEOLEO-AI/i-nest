@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstTemporalPlasticity]]
 [[Cache_Aware_Flow_Scheduling]]
 [[Capability_Reserve_Index]]
+[[CircuitTopologyEncoding]]
 [[Cognitive_Relapse_Decoupling]]
 [[CollectiveStateTopology]]
 [[Complex_System_Theory]]

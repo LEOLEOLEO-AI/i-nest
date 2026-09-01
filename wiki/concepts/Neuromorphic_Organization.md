@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[NestedRepresentation]]
 [[Network_Topology_Design]]
 [[NeuromorphicEdgeProcessing]]
+[[NeuromorphicStatusAwareness]]
 [[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]

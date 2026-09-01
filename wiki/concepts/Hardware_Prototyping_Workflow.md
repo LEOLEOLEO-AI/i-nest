@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN动力学]]
 [[ActiveMatterSubstrate]]
 [[Active_Inference_Agent]]
+[[AdaptiveDensityControl]]
 [[AdditiveTopology_Embedding]]
 [[Advanced_Computing_Project]]
 [[Agent_Workflow_Automation]]

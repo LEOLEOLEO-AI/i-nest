@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_Network_Brain_Inspired_Computing]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Complex_System_Theory]]
+[[Crystallized_Neural_Manifolds]]
 [[DataDrivenMaterialDesign]]
 [[Deep_Thermalisation]]
 [[Dynamic_Expert_Fusion]]

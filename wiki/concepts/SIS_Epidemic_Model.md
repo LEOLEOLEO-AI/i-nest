@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[AnisotropicGaussianPrimitives]]
 [[ArtificialProprioception]]
 [[Asymptotic_Exact_Solution]]
+[[BayesianDomainEvolution]]
 [[BehavioralNeuromorphicCorrelates]]
 [[BioInspiredLearningRule]]
 [[Biomanufacturing_Control_Loop]]

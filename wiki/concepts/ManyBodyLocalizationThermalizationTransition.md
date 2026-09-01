@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[SOC]]
 [[TCC]]
+[[TopologyAwarePhotonicInterconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

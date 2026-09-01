@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[3DHI_Chiplet_Integration]]
 [[3DHI_Integration]]
 [[3DHI_Stacking]]
+[[3d]]
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_Faculty_Forum_2026]]
 [[AI_FullSpectrum_Strategy]]
@@ -44,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[GeneralizedReadoutMap]]
 [[Heterogeneous_Chiplet_Customization]]
 [[Heterogeneous_Integration]]
+[[InNetworkSignalRecovery]]
 [[LowCostTrainingPipeline]]
 [[Memristive_Topology]]
 [[Network_Motif_Spectral_Analysis]]
@@ -54,7 +56,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[Topological_Semantic_Flow]]
-[[advanced packaging]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

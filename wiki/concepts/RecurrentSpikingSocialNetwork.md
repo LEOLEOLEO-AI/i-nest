@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AnisotropicGaussianPrimitives]]
 [[Bidirectional_Temporal_Enhancement]]
 [[Contested_Priors_Mechanism]]
+[[DiscreteSTDPLearning]]
 [[ITP_STDP]]
 [[ITP_STDP_Engine]]
 [[Memristive_STDP]]

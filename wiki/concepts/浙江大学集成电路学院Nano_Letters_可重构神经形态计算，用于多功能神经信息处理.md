@@ -24,6 +24,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 ## Related Work
 
 [[3D_Torus_6_Degree]]
+[[3d]]
 [[Algorithm_Hardware_CoDesign]]
 [[BidirectionalRingTopology]]
 [[CSI_Temporal_Encoding]]
@@ -45,6 +46,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Nature Communications_生物神经网络中突触多样性如何让人工神经网络更强大？]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[PairwiseCorrelationConstraint]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

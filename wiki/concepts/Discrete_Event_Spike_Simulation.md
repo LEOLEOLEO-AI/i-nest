@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Forum_Demo_Narrative]]
 [[ANN_SNN_WeightSpaceGap]]
 [[Adaptive_Deep_Brain_Stimulation]]
+[[Adaptive_Replication_Strategy]]
 [[AnisotropicGaussianPrimitives]]
 [[Avoided_Criticality]]
 [[Baseline_Draft_Status]]

@@ -28,6 +28,8 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_ProjectManager_Model]]
 [[DynamicServiceComposition]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
+[[FPGA_Accelerated_SNN]]
+[[Neuromorphic_Computing]]
 [[TCC]]
 [[iNEST]]
 
@@ -36,3 +38,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- Primitive_Taxonomy (merged 2026-09-02)

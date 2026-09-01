@@ -16,8 +16,10 @@ SDI, STDP, iNEST, neuromorphic, 忆阻
 
 ## Related Concepts
 
+[[Criticality]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
 [[STDP_Plasticity]]
 [[Self_Organized_Criticality]]
+[[Synaptic_Plasticity]]
 [[iNEST]]

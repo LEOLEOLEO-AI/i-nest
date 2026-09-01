@@ -23,10 +23,13 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[Brain_Connectome]]
 [[BranchingRatioControl]]
+[[BranchingRatio]]
 [[ChannelEventSparsity]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
+[[Connectome]]
 [[ConsciousnessEngineeringLoop]]
 [[CorticalTravelingWave]]
+[[Scale_Concept_Disambiguation]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[iNEST]]
@@ -36,3 +39,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- Mesoscale_Scale_Gap (merged 2026-09-02)

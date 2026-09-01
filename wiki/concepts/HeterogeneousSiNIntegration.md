@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3DHI_Interconnect]]
+[[3d]]
 [[Additive_Manufacturing_Topology]]
 [[BondMovingDecimation]]
 [[Chiplet]]
@@ -43,7 +44,9 @@ Auto-extracted concept from raw material compilation.
 [[NoC_SDI]]
 [[NoC_SDI_Integration]]
 [[NoC_SDI_Interconnect]]
+[[Photopolymerization_NoC]]
 [[SDI_Bond]]
+[[SDI_Interconnect]]
 [[TCC]]
 [[iNEST]]
 [[iNEST_Wafer]]

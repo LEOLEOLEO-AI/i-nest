@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[12_三原理协同_FEP_最小作用量_STDP]]
 [[3D_Integrated_Chiplet_Stacking]]
+[[3d]]
 [[AdiabaticMultimodeBend]]
 [[AdvancedPackagingInterconnect]]
 [[Advanced_Packaging]]
@@ -37,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Packaging_Topology]]
 [[Chiplet_Stacking]]
 [[CoPackagedOptics]]
+[[Collective_Offloading]]
 [[Complex_System_Theory]]
 [[DirectConnect_Topology]]
 [[FullDimensionalDefinableInterconnect]]
@@ -57,7 +59,6 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[TCC]]
-[[advanced packaging]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

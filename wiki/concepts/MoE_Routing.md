@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Anisotropic_Correlation_Length]]
 [[BarrierConditionedTrajectory]]
 [[BurstGatedRouting]]
+[[Cache_Aware_Flow_Scheduling]]
 [[CircuitTopologyEncoding]]
 [[Complex_System_Theory]]
 [[ControlDrivenCriticalFluctuations]]

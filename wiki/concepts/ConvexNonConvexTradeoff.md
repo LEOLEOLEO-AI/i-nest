@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[FlagScale]]
 [[FlagScale_Training_Inference]]
 [[GPU_Bottleneck_Relief]]
+[[GeneralIntelligenceSubstrate]]
 [[HeterogeneousChipletIntegration]]
 [[Heterogeneous_Integration]]
 [[Independent_EdgeAI_Player_Endgame]]

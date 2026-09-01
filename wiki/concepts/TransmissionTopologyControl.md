@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[GenerativeTopologyModels]]
 [[HybridCouplingThermosensitiveNetwork]]
 [[InSitu_Adjoint_Wave_Control]]
+[[IncidenceMatrixPropagation]]
 [[Inference_Workload_Profiling]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]

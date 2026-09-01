@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Linguistic_Phase_Transition]]
+[[Nested_Learning_Paradigm]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Acceleration]]

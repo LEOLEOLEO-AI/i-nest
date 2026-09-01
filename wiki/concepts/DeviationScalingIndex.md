@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[Continual_Learning_Topology]]
 [[ContinuousTraitAxelrodModel]]
+[[Crystallized_Neural_Manifolds]]
 [[DendriticReservoirState]]
 [[DivergentHigherAreaRanking]]
 [[Dynamic_Expert_Fusion]]

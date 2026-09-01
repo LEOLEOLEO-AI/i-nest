@@ -23,6 +23,8 @@ Auto-extracted concept from raw material compilation.
 [[3D_IC_Stacking]]
 [[3D_Integrated_Chiplet_Stacking]]
 [[3D_Integration]]
+[[3D_Stacking]]
+[[3d]]
 [[AI_Application_Scenario_Reconstruction]]
 [[AdvancedPackagingInterconnect]]
 [[AnalogDomainCompression]]

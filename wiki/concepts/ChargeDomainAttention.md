@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Packaging]]
+[[RecurrentSpikingDynamics]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]

@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Layer_Specific_Spreading_Rate]]
+[[MagicStateProtocolAwareCompilation]]
 [[Manifold_Topology_DeepLearning]]
 [[Network_Topology_Design]]
 [[TCC]]

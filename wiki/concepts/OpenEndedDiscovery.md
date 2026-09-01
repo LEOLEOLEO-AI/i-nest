@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[OpportunisticRoutingRL]]
 [[OpportunisticRouting]]
+[[RandomGraphQuantumChaos]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SelfOrganization]]
 [[Semantic_Least_Energy_Principle]]

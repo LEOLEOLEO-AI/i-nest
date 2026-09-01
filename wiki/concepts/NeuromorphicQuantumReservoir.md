@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_ProjectManager_Model]]
 [[DivergentHigherAreaRanking]]
 [[EchoState_n_ch]]
+[[EnvironmentalEmbedding]]
 [[Fixed_Reservoir_Unitary]]
 [[Globally_Optimal_SNN_Training]]
 [[Memristor]]

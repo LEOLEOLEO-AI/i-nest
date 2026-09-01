@@ -29,6 +29,11 @@ Auto-extracted concept from raw material compilation.
 [[ArbitraryWavefunctionConfigurability]]
 [[AttentionWeightedPatchAggregation]]
 [[AutonomousAdaptation]]
+[[Free_Energy_Topology_Mapping]]
+[[MoE_Routing]]
+[[Network_Topology_Design]]
+[[Reconfigurable_Interconnect]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 
 ## Sources

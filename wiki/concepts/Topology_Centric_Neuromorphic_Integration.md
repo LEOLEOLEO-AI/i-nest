@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CombinedImportanceScoring]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
+[[EventDrivenWeightUpdate]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[Intelligence_Emergence]]
 [[MetaFAIR_ArchitectureDiscovery]]

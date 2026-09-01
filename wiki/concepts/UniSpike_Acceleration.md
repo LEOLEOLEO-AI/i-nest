@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[EnergyEfficientNeuromorphic]]
+[[EventDrivenModularArchitecture]]
 [[FPGA_Neuromorphic_Acceleration]]
 [[FormalToolchain]]
 [[Frontier_Innovation_Mapping]]

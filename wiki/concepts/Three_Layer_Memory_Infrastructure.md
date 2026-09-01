@@ -21,8 +21,11 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3DHI_Stacking]]
+[[3d]]
+[[AdaptiveGraphDiffusion]]
 [[AdiabaticMultimodeBend]]
 [[AdjointWaveControl]]
+[[Advanced_Packaging]]
 [[AndersonTransition]]
 [[BeyondVonNeumannArchitecture]]
 [[Bipartite_Interconnect]]
@@ -45,7 +48,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologyAware_Grouping]]
 [[VectorFlowField]]
-[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

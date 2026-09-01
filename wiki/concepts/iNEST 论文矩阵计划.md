@@ -37,6 +37,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[DTGA]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[L2_L3_Reconfigurability]]
 [[Less is more，大脑“低能耗”并“高效响应”的秘诀：模块化]]
 [[Memory_Wall]]
 [[NCL神经计算定律详解]]

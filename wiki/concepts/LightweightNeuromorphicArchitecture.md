@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Driven_Power_Density_Scaling]]
 [[AI_FullSpectrum_Strategy]]
 [[AdaptiveGraphDiffusion]]
 [[Adaptive_Intelligence_Principle]]
@@ -53,7 +54,6 @@ Auto-extracted concept from raw material compilation.
 [[Theoretical_Numerical_Analysis]]
 [[TopologicalAndersonChernInsulator]]
 [[TopologyAwareStateMigration]]
-[[advanced packaging]]
 [[neuromorphic computing architecture]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

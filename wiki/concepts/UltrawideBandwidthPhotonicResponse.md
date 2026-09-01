@@ -21,14 +21,19 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[ChannelCountScaling]]
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
 [[Cross_Node_Event_Propagation]]
 [[Distributed_Spike_Communication]]
 [[EdgeInspectionInference]]
+[[End_Side_Neuromorphic_Deployment]]
 [[Memory_Wall]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
+[[Photonic_Memristor]]
+[[Spiking_Neural_Network]]
 [[iNEST]]
 
 ## Sources

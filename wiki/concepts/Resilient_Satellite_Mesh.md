@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Order_Deep_Belief_Networks]]
 [[FlexibleManifoldReconfiguration]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
+[[InNetworkPowerRouting]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[LLMDrivenPathSelection]]

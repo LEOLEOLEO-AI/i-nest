@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[DualDrivenHybridNetwork]]
 [[EnergyResourceEfficiencyTradeoff]]
 [[ErrorAmplificationLimits]]
+[[HighThroughputBioparticleRouting]]
 [[Neuromorphic_Computing]]
 [[Spiking_Neural_Network]]
 [[iNEST]]

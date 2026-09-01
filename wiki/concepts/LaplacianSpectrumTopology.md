@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicCentralitySteering]]
 [[EdgeIoTEnergyAwareness]]
 [[EmergentRecurrentConnectivity]]
+[[Entangled_Criticality]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[FlexibilityThreshold]]
 [[FractalPathEntropy]]
+[[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[FrozenRateOperator]]
 [[InNetworkAgentRewiring]]
@@ -58,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TacticalEdgeIntelligence]]
+[[TemporalSemanticEntropy]]
 [[iNEST]]
 [[neuromorphic substrate]]
 

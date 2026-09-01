@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[Driven_Criticality]]
 [[ExactlyFlatTopologicalBands]]
+[[FeatureBonding]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[GroupInfluenceThreshold]]
 [[InNetworkComputing]]

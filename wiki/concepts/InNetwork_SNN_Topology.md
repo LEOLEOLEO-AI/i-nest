@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Planning_Architecture]]
+[[SDI_SNN_Interconnect]]
 [[SNN]]
 [[Spiking neural network]]
 [[Spiking_Neural_Network]]

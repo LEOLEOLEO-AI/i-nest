@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Plasticity_vs_Computation_Separation]]
 [[QuantumDistillation]]
 [[Reconfigurable_Neural_Topology]]
+[[RedundancyControlledStochasticRouting]]
 [[STDPDrivenConnectivity]]
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]

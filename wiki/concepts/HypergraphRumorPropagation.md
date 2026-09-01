@@ -56,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[NoC_SDI]]
+[[Order_Flexibility_Duality]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]
 [[SNN]]

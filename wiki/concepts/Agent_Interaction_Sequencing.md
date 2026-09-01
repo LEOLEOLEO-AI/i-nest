@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityInNeuralNetworks]]
 [[Criticality]]
 [[Criticality_Driven_Coding]]
+[[CrossEntityPreemptiveWarning]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]

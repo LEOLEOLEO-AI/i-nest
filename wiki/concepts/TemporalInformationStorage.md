@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[EpidemicThreshold]]
 [[Event_Driven_Architecture]]
+[[InSensorMemoryComputing]]
 [[Intelligence_Emergence]]
 [[Memristive_STDP]]
 [[Memristor]]

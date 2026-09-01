@@ -24,11 +24,14 @@ Auto-extracted concept from raw material compilation.
 [[AdiabaticMultimodeBend]]
 [[AdvancedPackagingInterconnect]]
 [[AlternativeMetalInterconnects]]
+[[ChipletRoutingFabric]]
 [[Interconnect_Routing]]
 [[Memory_Wall]]
+[[Neuromorphic_Computing]]
 [[OpticallyWritableAtomicVaporMemory]]
 [[SixClassSkeletonAsRPrimitiveSpace]]
 [[TCC]]
+[[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
 
 ## Sources

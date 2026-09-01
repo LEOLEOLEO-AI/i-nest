@@ -23,8 +23,10 @@ Auto-extracted concept from raw material compilation.
 [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
 [[3D_Torus_6_Degree]]
+[[3d]]
 [[AI-ML — 全景导航 (Map of Content)]]
 [[ANN动力学]]
+[[Analog_InMemory_Processing]]
 [[AndersonTransition]]
 [[CST计量仪]]
 [[CellEmergence]]
@@ -37,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[CorticalTypeDiversity]]
 [[EmergentOrder]]
+[[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
@@ -50,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[ScaleFreeNetwork]]
 [[TCC]]
 [[iNEST]]
+[[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources

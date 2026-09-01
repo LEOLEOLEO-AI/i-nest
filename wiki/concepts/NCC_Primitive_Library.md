@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[BackpropagationFreeLearning]]
 [[BitPrecisionAwareScheduling]]
 [[BurstInterleaving]]
+[[Chiplet_NoC_Fabric]]
 [[CompactFieldVariable]]
 [[GeneralIntelligenceSubstrate]]
 [[Network_Topology_Design]]

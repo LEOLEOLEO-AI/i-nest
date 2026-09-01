@@ -25,10 +25,13 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[CoDesigned_SNN]]
+[[Criticality]]
 [[Neuromorphic_Computing]]
 [[SNN]]
+[[Self_Organized_Criticality]]
 [[Spiking neural network]]
 [[Spiking_Neural_Network]]
+[[Syncytial_Mesh_Model]]
 [[iNEST]]
 
 ## Sources

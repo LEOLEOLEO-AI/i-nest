@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Oncological_Digital_Twin]]
 [[RobustnessToNoiseInSNN]]
 [[SNN]]
+[[SNN_STDP_Learning]]
 [[STDP_Plasticity]]
 [[SpikeBasedBeliefPropagation]]
 [[Spiking_Neural_Network]]

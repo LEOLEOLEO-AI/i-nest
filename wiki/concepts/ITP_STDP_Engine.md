@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeCodedFeatureAssociation]]
 [[SpikeFusionLayer]]
 [[Spiking_Neural_Network]]
+[[SubharmonicResponse]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
 

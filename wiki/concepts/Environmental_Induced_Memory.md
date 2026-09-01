@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
+[[PostVonNeumannIntelligence]]
 [[Reservoir_Computing]]
 [[Self_Organized_Criticality]]
 [[SwarmGradientRouting]]

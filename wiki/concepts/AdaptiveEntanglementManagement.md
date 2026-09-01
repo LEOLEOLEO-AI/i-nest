@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[DTGA]]
 [[Dynamic_Expert_Fusion]]
+[[FeatureBonding]]
 [[Free_Energy_Topology_Mapping]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[InNetworkComputing]]

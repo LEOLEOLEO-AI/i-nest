@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[Discrete_Event_Spike_Simulation]]
 [[Distributed_Spike_Communication]]
+[[EnergyProportionalityCeiling]]
 [[EventDrivenMotionDeblurring]]
 [[GPU_Cluster_SNN_Architecture]]
 [[GradientBasedLearningLocalization]]

@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Photonic_Chiplet_Interconnect]]
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
+[[SDI_iNEST_CoPackaging]]
 [[ScaleFreeNetwork]]
 [[Silicon_Photonic_Network]]
 [[SmoothCurvatureProfile]]

@@ -22,8 +22,10 @@ Auto-extracted concept from raw material compilation.
 
 [[3DHI_Stacking]]
 [[3D_Heterogeneous_Integration]]
+[[3d]]
 [[AIRA_NeuralArchSearch]]
 [[AI_Application_Scenario_Reconstruction]]
+[[AdaptiveGraphDiffusion]]
 [[AdiabaticMultimodeBend]]
 [[Advanced_Packaging]]
 [[Advanced_Packaging_Route]]
@@ -49,7 +51,6 @@ Auto-extracted concept from raw material compilation.
 [[MemoryDrivenRouting]]
 [[Network_Topology_Design]]
 [[TCC]]
-[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

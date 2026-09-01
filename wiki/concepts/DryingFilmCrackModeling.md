@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[BigBrainCellularAxis]]
 [[BrainBodyResonance]]
+[[ClosedLoopNeuromorphicControl]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[DataDrivenCellularAxis]]
 [[Emergent_Intelligence]]
@@ -40,7 +41,6 @@ Auto-extracted concept from raw material compilation.
 [[NestedRepresentation]]
 [[Network_Specific_Embedding_Separation]]
 [[Neuromorphic_Computing]]
-[[Neuromorphic_Interconnect]]
 [[NonEquilibrium_CorticalDynamics]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]
@@ -58,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect_Memristor]]
 [[Wafer_Scale_Neuromorphic]]
 [[iNEST]]
+[[neuromorphic interconnect]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

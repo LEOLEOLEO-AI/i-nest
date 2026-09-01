@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3D_Integrated_Chiplet_Stacking]]
+[[3d]]
 [[AI_Assisted_Energy_Optimization]]
 [[ActiveDendriteSNN]]
 [[AdaptiveBitPrecisionExploration]]
@@ -48,8 +49,10 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[SpikingNeuralAccelerator]]
 [[Spiking_Neural_Network]]
+[[SuddenLearningTransition]]
 [[SurrogateGradientAsymmetry]]
 [[SynapticReinforcementConsolidation]]
+[[Syncytial_Mesh]]
 [[Syncytial_Mesh_Model]]
 
 ## Sources

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CrashHotspotForecasting]]
 [[CriticalFluctuationReservoir]]
 [[DissipativeQuantumReservoir]]
+[[Emergent_Reservoir_Topology]]
 [[GroupInteractionThreshold]]
 [[Intelligence_Emergence]]
 [[Memristive_STDP]]

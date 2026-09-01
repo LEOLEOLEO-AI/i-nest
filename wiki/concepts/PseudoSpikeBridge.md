@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossEntityPreemptiveWarning]]
 [[Deep_SNN_Trainability]]
 [[DeeplySupervisedSpiking]]
+[[Delay_Aware_Autograd_Spiking_Framework]]
 [[Distributed_Spike_Communication]]
 [[DualDrivenHybridNetwork]]
 [[EventBasedMotionDeblurring]]

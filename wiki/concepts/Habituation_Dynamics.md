@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Avoided_Criticality]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[BioInspiredLearningRule]]
+[[BioPlausibleDisturbanceObserver]]
 [[BrainBodyResonance]]
 [[CascadedAdaptiveCombiners]]
 [[Catastrophic_Forgetting_Mitigation]]

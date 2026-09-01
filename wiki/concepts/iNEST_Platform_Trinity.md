@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BackpropagationFreeLearning]]
 [[BoundaryObject_Abstraction]]
 [[ByteDance_Ada_Chip]]
+[[CST计量仪]]
 [[Neuromorphic_Computing]]
 [[iNEST]]
 

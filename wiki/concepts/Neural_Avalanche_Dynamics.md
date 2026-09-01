@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossInstitutionalNetwork]]
 [[DivergentHigherAreaRanking]]
 [[DynamicalSelfDualCriticality]]
+[[EcosystemTopologyCoupling]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[FractalPathEntropy]]

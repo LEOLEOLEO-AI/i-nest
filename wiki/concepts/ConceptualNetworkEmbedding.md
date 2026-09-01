@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[TimeSeriesFoundationModel]]
 [[TimeSeriesFoundationModels]]
 [[Unmanned_Intelligent_Combat_Forces]]
+[[fMRI_Visual_Semantic_Decoding]]
 [[iNEST]]
 [[neuromorphic spiking]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]

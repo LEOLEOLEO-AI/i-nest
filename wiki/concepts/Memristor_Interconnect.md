@@ -56,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[SystemLevelNonlinearity]]
 [[System_Level_Utility_Control]]
 [[Textbook_Paradigm_Definition]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
 
 ## Sources

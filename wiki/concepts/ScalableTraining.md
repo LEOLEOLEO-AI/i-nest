@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CascadedAdaptiveCombiners]]
 [[CollectiveDynamics]]
 [[CrossLayer_SignalRouting]]
+[[DirectTrainingSNN]]
 [[DualDrivenHybridNetwork]]
 [[EnergyEfficientNeuromorphic]]
 [[ErrorAmplificationLimits]]

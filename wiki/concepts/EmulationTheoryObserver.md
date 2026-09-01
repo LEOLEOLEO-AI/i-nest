@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[ArbitraryWavefunctionConfigurability]]
 [[BayesianDomainEvolution]]
 [[BehavioralFeedbackLoop]]
+[[BoseCondensateAnalogy]]
 [[BrainBodyResonance]]
 [[CST计量仪]]
 [[CirculateFiringNeuron]]

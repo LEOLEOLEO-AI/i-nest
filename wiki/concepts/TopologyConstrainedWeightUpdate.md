@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspired_Interception_Control]]
 [[BurstGatedRouting]]
 [[CriticalNormBoundary]]
+[[CriticalityDrivenTopology]]
 [[Criticality]]
 [[Criticality_Based_Feature_Extraction]]
 [[Dynamic_Expert_Fusion]]

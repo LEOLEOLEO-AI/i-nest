@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3d]]
 [[Allreduce_Latency_Probe]]
 [[AnomalousSpinTransport]]
 [[Battlefield_AI_Deployment]]
@@ -29,16 +30,19 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
+[[Complexity_Emergence]]
 [[Complexity_Emergence_Engineering]]
 [[Course_Based_FPGA_Projects]]
 [[DARPA_3DHI_Roadmap]]
 [[DARPA_Manufacturing_Strategy]]
 [[DARPA_ProjectManager_Model]]
 [[DARPA_Project_Group_Strategy]]
+[[DataDrivenCellularAxis]]
 [[Gate_Synthesis_Readout]]
 [[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]
 [[HodgkinHuxleyDynamics]]
+[[Intelligence_Emergence]]
 [[Memristor]]
 [[Memristor_Network]]
 [[Memristor_Synapse]]

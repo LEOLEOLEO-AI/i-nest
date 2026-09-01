@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[GroupInteractionThreshold]]
 [[Hierarchical_Reservoir_Topology]]
 [[HybridMemristorArray]]
+[[HypergraphMeanFieldApproximation]]
 [[Intelligence_Emergence]]
 [[MagneticMetamaterialReservoir]]
 [[MeasurementInducedNonlinearity]]

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[ErrorSuppressedPipeline]]
 [[ExtinctionDrivenMetastability]]
 [[FPGA_Accelerated_SNN]]
+[[Frontier_Innovation_Mapping]]
 [[Meta_Residual_Architecture]]
 [[MixedLabyrinthFractal]]
 [[Nonlinear_Gain]]

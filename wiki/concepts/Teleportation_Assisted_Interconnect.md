@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[FixedOverheadPenalty]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
+[[IonotropicPhotoresponse]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

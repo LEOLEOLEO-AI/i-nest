@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkNeuromorphicEmergence]]
 [[Intelligence_Emergence]]
 [[Loihi2_OnChip_Learning]]
+[[Loihi]]
 [[Memristor]]
 [[Memristor_Network]]
 [[Memristor_Synapse]]
@@ -54,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[NonEquilibriumComputing]]
+[[Nonlinear_Gain]]
 [[QuantumChaos]]
 [[Reservoir_Computing]]
 [[SDI_Bond]]
@@ -65,6 +67,7 @@ Auto-extracted concept from raw material compilation.
 [[SuperparamagneticSwitchingRate]]
 [[SystemLevelNonlinearity]]
 [[TCC]]
+[[Textbook_Paradigm_Definition]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

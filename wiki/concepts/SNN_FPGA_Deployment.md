@@ -21,10 +21,13 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AcceleratorReconfigurationOverhead]]
+[[Activity_Energy_Tradeoff]]
 [[AmoebaInspiredLocomotion]]
 [[BioInspired_Interception_Control]]
 [[CirculateFiringNeuron]]
 [[CorticalWaveRouting]]
+[[Interconnect_Routing]]
+[[MoE_Routing]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Spiking neural network]]

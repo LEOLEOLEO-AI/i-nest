@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[AlternativeBridgingModels]]
 [[AnisotropicGaussianPrimitives]]
+[[Bidirectional_Temporal_Enhancement]]
 [[Local_Plasticity]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

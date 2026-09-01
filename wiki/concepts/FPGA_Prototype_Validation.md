@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Network_Layer_Stacking]]
 [[DiagnosticReportFramework]]
 [[EulaminateOverrepresentation]]
+[[Evolutionary_Computability]]
 [[Heterogeneous_Integration]]
 [[Memory_Wall]]
 [[MetricComputationAuthenticity]]

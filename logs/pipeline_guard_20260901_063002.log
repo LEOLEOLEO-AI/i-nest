@@ -1,0 +1,99 @@
+
+============================================================
+  iNEST + TCC Research Pipeline v3.3
+  2026-09-01 06:30
+============================================================
+[06:30:02] [S2] Searching Semantic Scholar (19 queries)...
+[06:30:16]   S2: 429 rate limited; skip S2 for this run and continue with arXiv/GN
+[06:30:16] [arXiv] Searching arXiv (via proxy, 21 queries)...
+[06:30:18]   arXiv skip irrelevant: How Far Can 5,500 Hours of Driving Take You? A Scaling Law A
+[06:30:18]   arXiv skip irrelevant: Self-partitioned Interfacial Time Crystals
+[06:30:18]   arXiv skip irrelevant: A Controlled Audit of Architectural Complexity in Uncertaint
+[06:30:25]   arXiv skip irrelevant: An Open-Source Benchmark Suite of 3D-IC Testcases
+[06:30:25]   跳过重复: Thermal Tuning Overhead in Wafer-Scale Optical Int... [Title: Thermal Tuning Overhead in Wafer-Scale Optical Interconnects for LLM MoE Trainin]
+[06:30:25]   arXiv skip irrelevant: IC-ThermBench: An Open, Progressive Benchmark for Generaliza
+[06:30:31]   arXiv skip irrelevant: Machine learned designs of functional colloidal foldamers
+[06:30:31]   arXiv skip irrelevant: Quantum-Based Solutions for Security Enhancement in Open Rad
+[06:30:31]   arXiv skip irrelevant: Vertex reconstruction for a search for neutron-antineutron c
+[06:30:38]   arXiv skip irrelevant: Neuromorphic architectures as numerical solvers for computat
+[06:30:38]   arXiv skip irrelevant: Non-Closing Double-Commutator Flows and the Small-Coupling L
+[06:30:38]   arXiv skip irrelevant: Expert Knowledge & Machine Understanding: Bridging Reactome'
+[06:30:45]   arXiv skip irrelevant: Performance Optimization of Short Reach Optical Interconnect
+[06:30:45]   arXiv skip irrelevant: Conservative deterministic Markov models in mathematical bio
+[06:30:45]   arXiv skip irrelevant: REE-TM: Reliable and Energy-Efficient Traffic Management Mod
+[06:30:50]   arXiv: batch separator, pausing 10s...
+[06:31:07]   arXiv skip irrelevant: Machine-learning-assisted multiscale topology optimization o
+[06:31:07]   arXiv skip irrelevant: Graphon Design for Human-Machine Coordination under Bounded 
+[06:31:07]   arXiv skip irrelevant: Criticality and universality in network dismantling
+[06:31:13]   arXiv skip irrelevant: Distributed Cross-Layer Optimization for Covert Multi-Hop, M
+[06:31:13]   arXiv skip irrelevant: CASTANET: Causality-Aware Spatio-Temporal Adversarial Networ
+[06:31:13]   arXiv skip irrelevant: Information Flow Control in Off-Chain Components
+[06:31:23]   arXiv skip irrelevant: Exact quantification of nonlocal magic
+[06:31:23]   arXiv skip irrelevant: ScatterWorks: A Python package for building and solving scat
+[06:31:44]   Insight [1/3]: Propagation rates in integro-differential equation...
+[06:31:56]   arXiv skip irrelevant: Superextensive learning in quantum reservoirs at the onset o
+[06:31:56]   arXiv skip irrelevant: Schrödinger Bridges over Kinetic Swarming Models
+[06:32:13]   arXiv skip irrelevant: Learning Continuous Regional Temperature Fields with Lead-Ti
+[06:32:13]   arXiv skip irrelevant: DoublesEval: Diagnosing Multi-Agent Tactical Reasoning in Vi
+[06:32:13]   arXiv skip irrelevant: Robust Slip Detection and Material Classification via Spatio
+[06:32:18]   arXiv: batch separator, pausing 10s...
+[06:33:07]   Insight [1/3]: Low-Power End-to-End Cochlear Implant Speech Denoi...
+[06:33:07]   arXiv skip irrelevant: Neuromorphic architectures as numerical solvers for computat
+[06:33:07]   arXiv skip irrelevant: AI Hardware Accelerators for Large Language Models: Architec
+[06:33:33]   arXiv iNEST-emergence: <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>, retry 1...
+[06:33:39]   arXiv skip irrelevant: Hierarchical organization governs nonlinear mechanical rever
+[06:33:39]   arXiv skip irrelevant: On the Maintenance and Co-evolution of Agent Plugins: An Emp
+[06:33:39]   arXiv skip irrelevant: LLM-Based Agents for Software and Systems Security: Approach
+[06:34:01]   Insight [1/3]: SpikeOPD: Stable On-Policy Distillation for Autore...
+[06:34:01]   arXiv skip irrelevant: ANCHOR: A Vision for Secure Persistent Key-Value Stores in D
+[06:34:01]   arXiv skip irrelevant: Data-Aided Asynchronous OFDM Integrated Sensing and Communic
+[06:34:07]   arXiv skip irrelevant: Scalable dynamic community detection on temporal graphs usin
+[06:34:07]   arXiv skip irrelevant: Learning to Transfer Across Modes: Towards Unified Urban Mob
+[06:34:07]   arXiv skip irrelevant: 4DGS-WAM: Bridging Past and Future with an Object-Centric Wo
+[06:34:16]   arXiv skip irrelevant: Beyond Pairwise Graphs in Science: Hypergraph Adaptive Wavel
+[06:34:16]   跳过重复: Beyond Edge Cuts: Activity-Weighted Multicast Hype... [Title: Beyond Edge Cuts: Activity-Weighted Multicast Hypergraph Mapping for Spiking Neu]
+[06:34:16]   arXiv skip irrelevant: HMGCLIP: Heterogeneous Multi-Granularity Contrastive Learnin
+[06:34:21]   arXiv: batch separator, pausing 10s...
+[06:34:32]   arXiv skip irrelevant: Single State Update Predictive Coding training for Time Seri
+[06:34:40]   arXiv skip irrelevant: From quantum reservoirs to quantum extreme learning machines
+[06:34:40]   Insight [2/3]: Memristive-Friendly Hadamard Reservoir Computing: ...
+[06:34:40]   跳过重复: Sensor Drift Compensation via Olfactory system and... [Title: Sensor Drift Compensation via Olfactory system and Reservoir Computing]
+[06:34:47]   arXiv skip irrelevant: A Geometry-Driven, Framework-Agnostic Optimization for Objec
+[06:34:47]   Insight [1/3]: Optimal Transport for Network Comparison: A Review...
+[06:34:53]   arXiv skip irrelevant: Deterministic Identification over Additive Gaussian Channels
+[06:35:05]   arXiv: batch separator, pausing 10s...
+[06:35:17]   arXiv skip irrelevant: Towards Reproducible Evaluation of Distributed Quantum Circu
+[06:35:17]   arXiv skip irrelevant: Distributed Training using an Intelligent Network
+[06:35:22] [arXiv] 5 new papers, 0 errors across 21 queries
+[06:35:22] [GN] Google News RSS...
+[06:37:28]   GN error (TCC): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[06:39:36]   GN error (iNEST): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[06:41:43]   GN error (emergence): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[06:43:50]   GN error (complex-networks): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[06:43:51] [GN] 0 new articles
+
+  Total: 5 new items to inbox
+[06:43:51] [Process] LLM classify (free tier, limit=20)...
+[06:44:15] [Process] Classified: 0
+[06:44:15] [Genspark] Generating research brief...
+[06:44:15] [Genspark] Research brief written: genspark_research_brief.md
+[06:44:15] [Graph] Scanning wiki links...
+[06:44:16] [Graph] 12115 files, 224559 links
+[06:45:13] [Graph] Exported: 12115 nodes, 221135 edges
+[06:45:14] [Graph] 0 missing backlinks
+[06:45:35] [DailyGen] Daily_Action + Focus + Insights generated
+[06:45:35] [Review] Research task proposals refreshed
+
+============================================================
+  Pipeline v3.3 Complete
+  Sources: 0(S2)+5(arXiv)+0(GN) | Written: 5 new papers
+  Processed: 0 | Nodes: 12115 edges: 221135 | Missing links: 0 | Genspark: OK
+  Elapsed: 933s
+============================================================
+[06:45:36] [State] research_state.json updated
+[06:45:36] [Evolution] Evidence + hypotheses updated
+[06:46:36] [Wiki] Warning: Command '['C:\\Users\\LEO\\AppData\\Local\\Programs\\Python\\Python310\\python.exe', 'D:\\Obsidian\\vault\\90_System\\scripts\\wiki_compiler.py']' timed out after 60 seconds
+[06:46:36] [Insight] Cross-domain bridges updated
+[06:47:11] [Tasks] Research recommendations updated
+[06:47:11] [Dashboard] Live dashboard published
+[06:47:12] [Homepage] Home.md auto-refreshed

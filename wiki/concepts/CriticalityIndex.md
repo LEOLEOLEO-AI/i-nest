@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[ElasticSpikingTransformer]]
 [[EventDrivenTemplateUpdate]]
 [[FPGAInference]]
+[[HigherOrderAvalanche]]
 [[NestedRepresentation]]
 [[SNN]]
 [[Self_Organized_Criticality]]

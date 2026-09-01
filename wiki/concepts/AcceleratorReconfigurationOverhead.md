@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[CoreComputationSubspace]]
 [[CulturalDisseminationDynamics]]
 [[DTGA]]
+[[Edge_Intelligence]]
 [[Emergent_Topology_Adaptation]]
 [[ExplosiveTransitionThreshold]]
 [[FPGA_Accelerated_SNN]]

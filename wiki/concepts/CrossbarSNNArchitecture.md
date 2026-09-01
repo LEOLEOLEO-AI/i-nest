@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[3D_Torus_6_Degree]]
+[[3d]]
 [[AI_FullSpectrum_Strategy]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[IntegratedInformationFreeEnergyBridge]]
 [[Interconnect_Routing]]
 [[LocalInteractionDrivenReconfiguration]]
+[[LossSpikePhenomenon]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[NeuromorphicRadarFrontend]]

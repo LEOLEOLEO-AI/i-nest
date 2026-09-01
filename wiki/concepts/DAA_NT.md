@@ -27,8 +27,10 @@ Auto-extracted concept from raw material compilation.
 [[Active_Inference_Architecture]]
 [[Activity_Dependent_Plasticity]]
 [[AdaptiveBitPrecisionExploration]]
+[[AdaptiveFrequencyResonateFire]]
 [[Dynamic_Sparse_Activation]]
 [[Neuromorphic_Computing]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 
 ## Sources

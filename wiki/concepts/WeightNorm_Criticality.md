@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Packaging]]
 [[Power_Density_Law]]
+[[RecurrentSpikingTopology]]
 [[SNN]]
 [[SNN_Sparsity_InformationBound]]
 [[Self_Organized_Criticality]]

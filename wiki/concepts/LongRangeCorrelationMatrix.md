@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Reconfigurability]]
 [[GraphBasedSemanticRouting]]
 [[InSitu_Adjoint_Wave_Control]]
+[[Inference_Stage_Decomposition]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]

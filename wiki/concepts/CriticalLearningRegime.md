@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[EdgeIoTEnergyAwareness]]
 [[FeatureBonding]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
+[[GroupInfluenceThreshold]]
 [[HiddenUnboundedPotential]]
 [[InNetworkReconfiguration]]
 [[Interconnect_Routing]]

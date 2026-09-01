@@ -42,6 +42,8 @@ Auto-extracted concept from raw material compilation.
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[DataProvenanceIntegrity]]
 [[Deep_Network_Architecture_Invariant]]
+[[EpoxyMoldingCompoundFlow]]
+[[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[HeterogeneousChipletIntegration]]
 [[Heterogeneous_Integration]]

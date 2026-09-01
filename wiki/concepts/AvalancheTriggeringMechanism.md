@@ -47,6 +47,8 @@ Auto-extracted concept from raw material compilation.
 [[IntegrationProspectsForVLSI]]
 [[Intelligence_Emergence]]
 [[Loihi2_OnChip_Learning]]
+[[Loihi]]
+[[ManyBodyLocalization]]
 [[Network_Topology_Design]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Chiplet]]

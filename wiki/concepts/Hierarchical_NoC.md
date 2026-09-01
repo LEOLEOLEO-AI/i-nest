@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3DHI_Interconnect]]
+[[3d]]
 [[AI_Faculty_Forum_2026]]
 [[AI_Industrial_Ecosystem]]
 [[Additive_Manufacturing_Topology]]
@@ -36,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[DataProvenanceIntegrity]]
 [[Decoupled_Priors]]
+[[Deep_Network_Architecture_Invariant]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]

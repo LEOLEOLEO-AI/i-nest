@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3DHI_Interconnect]]
+[[3d]]
 [[AdvancedPackagingInterconnect]]
 [[ApproximationFidelityTradeoff]]
 [[BondMovingDecimation]]
@@ -33,8 +34,10 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Complexity_Coordination_Layer]]
 [[Cryogenic_Syndrome_Compression]]
+[[DirectConnect_Topology]]
 [[Environmental_Capability_Context]]
 [[FloquetDriving]]
+[[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
 [[InterChipletPHYModeling]]

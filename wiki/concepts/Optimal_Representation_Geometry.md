@@ -54,6 +54,8 @@ Auto-extracted concept from raw material compilation.
 [[NoiseModulated_Backprop]]
 [[OnlineSelfSupervisedESN]]
 [[OpportunisticRoutingRL]]
+[[OpportunisticRouting]]
+[[PinkNoiseDeviance]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SOC]]
 [[SelfOrganizedOscillatoryLearning]]

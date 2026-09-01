@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3DHI_Interconnect]]
+[[3d]]
 [[4H_SiC_SubstrateProcessing]]
 [[Additive_Manufacturing_Topology]]
 [[BackpropagationFreeLearning]]
@@ -33,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Topology_Interconnect]]
 [[Decoupled_Priors]]
 [[DynamicServiceComposition]]
+[[EulaminateOverrepresentation]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Interconnect_Topology]]
@@ -49,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Topology]]
 [[SoftwareDefinedSystemOnWafer]]
 [[TCC]]
+[[TopologyCentricComputing]]
 [[Topology_Interconnect]]
 [[WaferScaleTopologyCentricComputing]]
 [[WaferScale_Chiplet_Interconnect]]

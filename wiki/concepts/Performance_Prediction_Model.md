@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Reconfigurable_Neuromorphic_Architecture]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Robust_Decision_Making]]
+[[SelfEvolvingMAS]]
 [[TopologicalAndersonChernInsulator]]
 [[analog computation]]
 [[iNEST]]

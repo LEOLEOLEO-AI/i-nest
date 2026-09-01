@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[OpenLearningEcosystem]]
 [[P_Paradigm]]
 [[PacketRoutingForFPGAs]]
+[[PhysicallyInformedDeepLearning]]
 [[RedundancyControlledStochasticRouting]]
 [[STDPDrivenConnectivity]]
 [[STDP_Plasticity]]

@@ -25,6 +25,8 @@ Auto-extracted concept from raw material compilation.
 [[AmoebaInspiredLocomotion]]
 [[Analog_InMemory_Processing]]
 [[AutonomousAdaptation]]
+[[Free_Energy_Topology_Mapping]]
+[[MoE_Routing]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Synaptic_Plasticity]]

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Continuous_Control_Spiking_Stability]]
 [[CriticalityDrivenIntegration]]
 [[Criticality]]
+[[CrossEntityPreemptiveWarning]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Self_Organized_Criticality]]

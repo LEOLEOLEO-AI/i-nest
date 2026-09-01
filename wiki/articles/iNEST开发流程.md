@@ -17,6 +17,7 @@ SDI, SNN, STDP, iNEST, 忆阻, 拓扑, 神经形态
 ## Related Concepts
 
 [[DTGA]]
+[[Memristor]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
@@ -24,6 +25,7 @@ SDI, SNN, STDP, iNEST, 忆阻, 拓扑, 神经形态
 [[SNN]]
 [[STDP_Plasticity]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 [[忆阻器]]
 [[神经网络]]

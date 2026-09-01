@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[DirectConnect_Topology]]
 [[DistributedTrainingPipeline]]
 [[DualSided_Routing_Resource]]
+[[Express_Link_Virtualization]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Interconnect_Topology]]

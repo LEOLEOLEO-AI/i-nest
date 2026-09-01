@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[CoexistencePhaseTransition]]
 [[Complex_System_Theory]]
 [[Coupling_Strength_Encoding]]
+[[Crystallized_Neural_Manifolds]]
 [[DeviationScalingIndex]]
 [[InNetwork_Learning_Interface]]
 [[Intelligence_Emergence]]
@@ -46,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

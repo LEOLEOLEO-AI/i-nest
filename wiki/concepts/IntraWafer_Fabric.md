@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Bipartite_Interconnect_Design]]
 [[Interconnect_Routing]]
 [[MemoryDrivenVectorFlowFieldRouting]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[MicroRouter_Embedding]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

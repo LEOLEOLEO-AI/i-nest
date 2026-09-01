@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[BigBrainCellularAxis]]
 [[CIMWeightUpdateAwareness]]
+[[Chiplet_Based_Neuromorphic_Integration]]
 [[ConductingPolymerDendriteMemory]]
 [[Crystallized_Embedding_Reservoir]]
 [[Distributed_Spike_Communication]]

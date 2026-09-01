@@ -40,6 +40,8 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Deep_Network_Architecture_Invariant]]
 [[DynamicServiceComposition]]
+[[EarlyExitInference]]
+[[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
 [[HardwareAware_SelfOrganization]]
@@ -66,7 +68,6 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[SelfOrganization]]
 [[Synaptic_Plasticity]]
-[[advanced packaging]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[CorticalTypeDiversity]]
 [[DataMovementMinimization]]
 [[Die_to_Die_Protocol]]
+[[DirectConnect_Topology]]
 [[Disordered_Frustrated_Dimer_Magnets]]
 [[DualSide_Routing_Layer]]
 [[DualSided_Routing_Resource]]

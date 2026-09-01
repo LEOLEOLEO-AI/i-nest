@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[DifferentiableSpikeTimeDiscretization]]
 [[DirectTrainingFromScratch]]
 [[DynamicTokenSparsity]]
+[[Edge_Neuromorphic_Compute]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]

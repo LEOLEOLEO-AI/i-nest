@@ -57,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[ScaleFreeNetwork]]
 [[Silicon_Photonic_Network]]
 [[TCC]]
+[[TensorDecisionDiagrams]]
 [[VerticalOpticalInterconnect]]
 [[ViewDependentAppearance]]
 [[WaferScaleSubstrate]]

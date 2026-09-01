@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[CST计量仪]]
 [[CentralityBasedMitigation]]
 [[CollectiveStatePhaseTransition]]
+[[ColoredNoiseMaximumEntropy]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

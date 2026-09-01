@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[GenerationalAITransition]]
 [[Intelligence_Emergence]]
 [[LLM_TopologicalReplicationGap]]
+[[Machine_Decision_Speed_Advantage]]
 [[Material_Circularity]]
 [[Multiplex_Epidemic_Threshold]]
 [[Network_Topology_Design]]

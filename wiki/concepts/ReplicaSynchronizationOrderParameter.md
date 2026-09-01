@@ -22,11 +22,13 @@ Auto-extracted concept from raw material compilation.
 
 [[3DHI_Integration]]
 [[3DHI_Stacking]]
+[[3d]]
 [[AI_Driven_Architecture_Search]]
 [[AI_Faculty_Forum_2026]]
 [[AgenticServiceManifesto]]
 [[AgenticServiceOrchestration]]
 [[Agile_Resilient_Defense_Ecosystem]]
+[[BoundaryContract]]
 [[Complex_System_Theory]]
 [[CriticalPointControl]]
 [[DelayTolerantNetworkUAV]]

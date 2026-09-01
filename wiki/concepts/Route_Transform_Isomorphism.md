@@ -21,12 +21,14 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3D_Integration]]
+[[3d]]
 [[AddressRedundancyElimination]]
 [[Adjoint_Gradient_Propagation]]
 [[AdvancedPackagingInterconnect]]
 [[AllOpticalHebbianLearning]]
 [[BurstInterleaving]]
 [[Collective_State_Convergence]]
+[[ConsciousnessEngineeringLoop]]
 [[Interconnect_Routing]]
 [[TCC]]
 [[iNEST]]

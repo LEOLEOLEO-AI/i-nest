@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Network_Architecture_Invariant]]
 [[DiagnosticReportFramework]]
 [[EulaminateOverrepresentation]]
+[[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
 [[Heterogeneous_Chiplet_Customization]]
@@ -65,6 +66,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TemporalComplexity]]
 [[TopologyAware_Embedding]]
+[[WaveguideToWaveguideCoupler]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[NonlinearDynamicalSampling]]
 [[Nonlinear_Gain]]
+[[PhysicalReservoirInterconnect]]
 [[PhysicalReservoir]]
 [[PhysicalSubstrateReservoirComputing]]
 [[PhysicalSubstrateReservoir]]

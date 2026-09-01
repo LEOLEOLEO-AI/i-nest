@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[ContinualLearningOnNeuromorphic]]
 [[Criticality]]
 [[CrossEntityPreemptiveWarning]]
+[[DelayAwareSpikeEventDelivery]]
 [[DiscreteContinuous_Unification]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence]]

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Course_Based_FPGA_Projects]]
+[[Crystallized_Neural_Manifolds]]
 [[DARPA_ProjectManager_Model]]
 [[DARPA_Project_Group_Strategy]]
 [[DendriticReservoirState]]

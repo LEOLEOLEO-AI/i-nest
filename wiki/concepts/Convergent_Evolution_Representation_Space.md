@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AmorphousSolidPlasticity]]
 [[BackflowTransformation]]
 [[BayesianDomainEvolution]]
+[[BehavioralFeedbackLoop]]
 [[Bidirectional_Temporal_Enhancement]]
 [[CircadianGateModulation]]
 [[Complex_System_Theory]]

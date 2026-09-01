@@ -46,11 +46,13 @@ Auto-extracted concept from raw material compilation.
 [[SpikeTimingDependentPlasticity]]
 [[Spike_Event_Driven_Attention]]
 [[Spike_Timing_Dependent_Coordination]]
+[[Spike_Timing_Dependent_Plasticity]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[SynchronousResetting]]
 [[TCC]]
 [[Temporal_Computing_Paradigm]]
+[[TheoryDrivenNeuromorphicDesign]]
 [[iNEST]]
 [[神经网络]]
 

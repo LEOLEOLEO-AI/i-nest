@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[OpportunisticRouting]]
 [[P_Paradigm]]
 [[ReputationPropagation]]
+[[ResourceAwareCompilation]]
 [[Satellite_Network_Topology_Dynamics]]
 [[SemanticTopologyMapping]]
 [[TCC]]

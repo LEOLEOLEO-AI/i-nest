@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[CellEmergence]]
 [[Complex_System_Theory]]
 [[Critical_Region_Extension]]
+[[DimensionalityReductionPrinciple]]
 [[DisorderedNetworkInterconnect]]
 [[DistributedEventConditionDesign]]
 [[EventDrivenAsync]]

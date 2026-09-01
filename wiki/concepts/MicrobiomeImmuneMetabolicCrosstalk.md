@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Active_Inference_Agent]]
 [[BackflowTransformation]]
 [[BayesianDomainEvolution]]
+[[BehavioralFeedbackLoop]]
 [[Bidirectional_Temporal_Enhancement]]
 [[CircadianGateModulation]]
 [[Complex_System_Theory]]

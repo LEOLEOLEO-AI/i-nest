@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Continual_Learning_Modularity]]
 [[ContinuousControlConversion]]
 [[CriticalBranching]]
+[[CriticalLearningRegime]]
 [[Criticality]]
 [[Interconnect_Routing]]
 [[MoE_Routing]]

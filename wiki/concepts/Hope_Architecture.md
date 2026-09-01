@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[NestedLearning]]
 [[Nested_Learning_Paradigm]]
 [[NeuralNetworkSpectralAnalysis]]
+[[NeuromorphicVisionPipeline]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDSoW]]

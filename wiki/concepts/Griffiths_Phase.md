@@ -43,6 +43,8 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuromorphicStatusAwareness]]
 [[Neuromorphic_Computing]]
+[[Relapse_Resilient_Interconnect]]
+[[Reservoir_Computing]]
 [[TCC]]
 [[Topological_Quantum_Error_Correction]]
 [[类脑芯片]]

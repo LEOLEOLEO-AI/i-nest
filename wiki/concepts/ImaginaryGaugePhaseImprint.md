@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Model_Routing_Protocol]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[OptimalRepresentations]]
 [[Order_Flexibility_Duality]]
 [[ReliabilityOverheadTradeoff]]
 [[SDI_Bond]]

@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
+[[PostVonNeumannIntelligence]]
 [[Quantum_Reservoir_Memory]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]

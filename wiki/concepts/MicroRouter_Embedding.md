@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AdsorptionBiosorptionHybrid]]
+[[Chip_Floorplanning]]
 [[ChipletWaferInterconnectScaling]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -32,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[CommunicationAwareComputeRelocation]]
 [[CorticalTypeDiversity]]
 [[Express_Link_Virtualization]]
+[[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
 [[Intelligent_Computing_Infrastructure]]
@@ -50,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[PhysicalWaferTriplet]]
 [[RoutabilityDrivenFloorplanning]]
 [[SDI_Bond]]
+[[SDSoW]]
 [[TCC]]
 [[ThreeLayerArchitecture]]
 [[Wafer_Scale_Integration]]

@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeEncoding]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking neural network]]
+[[SpikingNeuronOptimization]]
 [[Spiking_Neural_Network]]
 [[SurrogateGradientTraining]]
 [[Synaptic_Plasticity]]

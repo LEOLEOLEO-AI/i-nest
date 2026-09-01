@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]
+[[SolitonLikeWaves]]
 [[SpikeEncoding]]
 [[Spiking neural network]]
 [[Spiking_Neural_Network]]

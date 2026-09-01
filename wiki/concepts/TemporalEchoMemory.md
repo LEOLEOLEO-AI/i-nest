@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[DendriticReservoirState]]
 [[DifferentiableRasterizationPipeline]]
+[[ERI_2_0_Strategy]]
 [[Emergent_Reservoir_Topology]]
 [[Fading_Memory_Property]]
 [[Heterogeneous_Integration]]

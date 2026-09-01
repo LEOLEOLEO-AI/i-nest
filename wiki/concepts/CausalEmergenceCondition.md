@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Crystallized_Neural_Manifolds]]
 [[Deep_Thermalisation]]
+[[ERI_2_0_Strategic_Framework]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[MetaFAIR_ArchitectureDiscovery]]

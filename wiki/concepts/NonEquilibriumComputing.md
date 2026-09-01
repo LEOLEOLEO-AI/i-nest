@@ -20,8 +20,10 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
+[[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
 [[12_三原理协同_FEP_最小作用量_STDP]]
 [[3D_Heterogeneous_Integration]]
+[[3d]]
 [[AI-ML — 全景导航 (Map of Content)]]
 [[AIRA_NeuralArchSearch]]
 [[AI_Driven_Architecture_Search]]

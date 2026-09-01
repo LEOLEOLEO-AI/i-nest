@@ -21,13 +21,18 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[2_5D_Interposer]]
+[[3D_Vertical_Interconnect]]
 [[4H_SiC_SubstrateProcessing]]
 [[AnalogInMemoryComputing]]
 [[BurstInterleaving]]
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_NoC_Fabric]]
 [[Critical_Region_Extension]]
 [[DARPA_ProjectManager_Model]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
+[[NoC]]
 [[P_Paradigm]]
 [[TCC]]
 

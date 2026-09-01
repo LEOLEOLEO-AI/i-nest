@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[ArtificialProprioception]]
 [[ClosedLoopNeuromorphicControl]]
 [[Complex_System_Theory]]
+[[Compute_In_Memory_Neuromorphic]]
 [[Continual_Learning_Modularity]]
 [[DelayTolerantNetworkUAV]]
 [[Distributed_Intelligent_Manufacturing]]

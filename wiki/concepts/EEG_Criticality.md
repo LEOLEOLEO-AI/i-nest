@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[Edge_of_Chaos]]
 [[EventDrivenTemplateUpdate]]
+[[In_Network_Neuromorphic_Acceleration]]
 [[In_Package_Neuromorphic_Integration]]
 [[LeftRightAsymmetry]]
 [[LocalLearning_SynapticUpdate]]

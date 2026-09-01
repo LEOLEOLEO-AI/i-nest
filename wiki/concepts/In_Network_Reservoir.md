@@ -20,14 +20,19 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[CMOS_Memristor_Devices]]
 [[CSI_Temporal_Encoding]]
 [[Categorical_Closure_Criterion]]
 [[CombinatorialOptimizationReservoirMapping]]
+[[Criticality]]
 [[Criticality_of_Natural_Languages]]
 [[Expert_Review_Arbitration]]
+[[Memristor]]
+[[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]
+[[Self_Organized_Criticality]]
 [[iNEST]]
 [[reservoir computing architecture]]
 

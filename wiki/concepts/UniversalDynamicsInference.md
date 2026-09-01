@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[InterconnectAwareGradientAggregation]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[PhotoInducedCurrent]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[STDP_Plasticity]]

@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Renormalization_Group]]
 [[Renormalization_Group_Convergence]]
 [[Reservoir_Computing]]
+[[SDDE_Attractor_Emergence]]
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SDI_STDP_Bond]]

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Application_Scenario_Reconstruction]]
 [[Active_Inference_Topology]]
 [[AnomalousSpinTransport]]
 [[AutonomousAdaptation]]
@@ -40,7 +41,9 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Magnetic_Metamaterials]]
 [[InNetworkSignalRecovery]]
 [[Interconnect_Topology]]
+[[Memristor]]
 [[Memristor_Interconnect]]
+[[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]

@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveBitPrecisionExploration]]
 [[AdaptiveGraphDiffusion]]
 [[Adaptive_Intelligence_Principle]]
+[[Adaptive_Service_Orchestration]]
 [[Allreduce_Latency_Probe]]
 [[Analog_InMemory_Processing]]
 [[Architectural_Conditioning]]

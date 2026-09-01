@@ -29,6 +29,11 @@ Auto-extracted concept from raw material compilation.
 [[BackflowTransformation]]
 [[BioPlausibleDisturbanceObserver]]
 [[BrainInspired_Chip]]
+[[Criticality]]
+[[EventDrivenAsync]]
+[[SNN]]
+[[Self_Organized_Criticality]]
+[[Spiking_Neural_Network]]
 [[iNEST]]
 
 ## Sources

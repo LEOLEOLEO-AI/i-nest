@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[ConductingPolymerDendriteMemory]]
 [[ContinuousTimeSNN]]
 [[Continuous_Spatiotemporal_State_Propagation]]
+[[DelayAwareSpikeEventDelivery]]
 [[DelayCodedWorkingMemory]]
 [[Edge_Intelligence]]
 [[Emergent_Intelligence]]

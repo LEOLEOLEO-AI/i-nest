@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Transformer_Based_SNN]]
 [[iNEST]]
 [[iNEST_Interconnect]]
+[[iNEST_Neuromorphic_Integration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

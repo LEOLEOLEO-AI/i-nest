@@ -26,9 +26,12 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenRiskAssessment]]
 [[Event_Driven_Architecture]]
 [[FoveationGuidedTokenSelection]]
+[[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Scheduling]]
+[[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Topology]]
 [[iNEST]]
 
 ## Sources

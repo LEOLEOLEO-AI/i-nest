@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[3D_Torus_6_Degree]]
+[[3d]]
 [[ANN_SNN_ConversionError]]
 [[AdsorptionBiosorptionHybrid]]
 [[Alignment_Tax]]
@@ -32,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[CombinatorialOptimizationReservoirMapping]]
 [[CombinedImportanceScoring]]
 [[Course_Based_FPGA_Projects]]
+[[CurrentInjectionSNN]]
 [[ElasticSpikingTransformer]]
 [[ErrorSuppressedPipeline]]
 [[FlagOS_2_0]]

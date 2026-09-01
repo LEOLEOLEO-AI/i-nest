@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[NonEquilibriumComputing]]
 [[Nonlinear_Gain]]
 [[OpticalNonlinearity]]
+[[Parkinsonian_Neural_State_Detection]]
 [[RecursiveSelfReferentialArchitecture]]
 [[ReservoirEntropyEncoding]]
 [[Reservoir_Computing]]

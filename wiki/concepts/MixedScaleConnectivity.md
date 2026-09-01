@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Automated_Assessment_Framework]]
 [[BackflowTransformation]]
 [[BackpropagationFreeLearning]]
+[[Bio_plausible_Neuromorphic_Disturbance_Observer]]
 [[BoundaryObject_Abstraction]]
 [[BrainBodyResonance]]
 [[Brain_Connectome]]

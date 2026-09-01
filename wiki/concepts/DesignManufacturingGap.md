@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[BarrierConditionedTrajectory]]
 [[BayesianConnectivityEstimation]]
 [[BioInspired_Interception_Control]]
+[[Cache_Aware_Flow_Scheduling]]
 [[Capability_Reserve_Index]]
 [[Cognitive_Relapse_Decoupling]]
 [[ConstraintDrivenSelfOrganization]]

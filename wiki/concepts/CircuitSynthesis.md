@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_Topology]]
 [[Nanoparticle_Network_Interconnect]]
 [[Network_Topology_Design]]
+[[NonEquilibriumUniversality]]
 [[OpportunisticRouting]]
 [[ReputationPropagation]]
 [[RoutingBasedComputation]]

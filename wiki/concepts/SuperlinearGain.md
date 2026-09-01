@@ -16,6 +16,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3DIntegratedPhotonicPackaging]]
+[[3d]]
 [[AI_Faculty_Forum_2026]]
 [[AI_Industrial_Ecosystem]]
 [[ANN动力学]]
@@ -62,6 +63,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_TCC_Chiplet_Interconnect]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
+[[Second_Curve_Wafer_Industry_Platform]]
 [[Software_Defined_Interconnect]]
 [[Spacetime_Coupling_Coefficient]]
 [[SpatiotemporalComplexityIndex]]

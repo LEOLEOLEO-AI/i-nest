@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[FoveationGuidedTokenSelection]]
 [[Interconnect_Routing]]
 [[MemoryDrivenInterconnect]]
+[[Military_AI_Revolution]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[SpikingNeuralNetworkTopologyMapping]]

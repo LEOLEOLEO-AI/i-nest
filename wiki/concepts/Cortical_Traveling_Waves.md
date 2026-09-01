@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[4H_SiC_SubstrateProcessing]]
 [[AI_Driven_Architecture_Search]]
 [[AI_Faculty_Forum_2026]]
+[[BoundaryObject_Abstraction]]
 [[Brain_Connectome]]
 [[Combinatorial_Optimization_Readout]]
 [[Connectome]]

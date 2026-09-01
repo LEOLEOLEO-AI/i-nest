@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Parallelized_Hierarchical_Connectome]]
 [[Self_Organized_Criticality]]
 [[TCC]]
+[[ThermalNoiseComputation]]
 [[complex system]]
 [[getnote_2026-06-27_智能涌现理论框架]]
 [[iNEST]]

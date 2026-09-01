@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
+[[Neural_Avalanche]]
 [[Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]
 [[ReSCom_Accelerator]]

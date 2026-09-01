@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Intelligence_Verifiability]]
 [[EnsembleSparsity]]
+[[Fixed_Cost_Dominance]]
 [[Free_Energy_Topology_Mapping]]
 [[Gut_Brain_Immune_Network]]
 [[InNetworkNeuromorphicEmergence]]

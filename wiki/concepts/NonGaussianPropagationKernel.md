@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[NestedRepresentation]]
 [[Neuromorphic_Computing]]
 [[RecurrentSpikingDynamics]]
+[[ReservoirTemporalMemory]]
 [[Reservoir_Computing]]
 [[Spiking neural network]]
 [[Spiking_Neural_Network]]

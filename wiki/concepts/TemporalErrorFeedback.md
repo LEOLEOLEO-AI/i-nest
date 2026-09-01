@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3D_Torus_6_Degree]]
+[[3d]]
 [[AINext_Initiative]]
 [[ActiveDendriteSNN]]
 [[AdaptiveDeltaPulseFrequencyEncoding]]
@@ -56,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikingTopologyEvolution]]
 [[Spiking_Neural_Network]]
 [[StochasticBinaryDynamics]]
+[[SurrogateGradientAsymmetry]]
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
 [[neuromorphic substrate]]

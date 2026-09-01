@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveDendriteSNN]]
 [[AdaptiveArchitecture]]
 [[AnisotropicGaussianPrimitives]]
+[[BurstTemporalPlasticity]]
 [[DynamicTopology]]
 [[FPGA_Neuromorphic_Architectures]]
 [[Network_Topology_Design]]

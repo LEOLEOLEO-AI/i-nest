@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Alpha_Coefficient_Phase_Transition_Amplification]]
 [[ArbitraryWavefunctionConfigurability]]
 [[BCM滑动阈值]]
+[[BoseCondensateAnalogy]]
 [[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]

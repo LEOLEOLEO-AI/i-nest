@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[ContinuousGameOfLife]]
 [[CrossDomain_Abstraction]]
 [[CrossDomain_Synthesis]]
+[[DimensionalityReductionPrinciple]]
 [[DisorderedNetworkInterconnect]]
 [[DistributedEventConditionDesign]]
 [[Dynamic_Expert_Fusion]]

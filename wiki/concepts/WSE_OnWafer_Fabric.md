@@ -20,16 +20,26 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[GlobalDecision_LocalExecution_ControlPlane]]
 [[Interconnect_Routing]]
+[[Interconnect_Topology]]
 [[MicroRouter_Embedding]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
+[[Neuromorphic_Computing]]
+[[NoC]]
 [[NoC_Chiplet_iNEST_Wafer]]
 [[P_Paradigm]]
+[[SDSoW_TCC_Integration]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
+[[iNEST]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

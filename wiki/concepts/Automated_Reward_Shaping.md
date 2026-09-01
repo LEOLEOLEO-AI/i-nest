@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AIRA_NeuralArchSearch]]
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_Assisted_Energy_Optimization]]
+[[Activity_Dependent_Plasticity]]
 [[AdaptiveEntanglementManagement]]
 [[AdaptiveFlexibilityThreshold]]
 [[Alpha_Computation_Consistency]]

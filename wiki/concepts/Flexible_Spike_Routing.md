@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
 [[CorticalWaveRouting]]
+[[CrossbarArrayVLSI]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Memristive_Interconnect]]

@@ -26,6 +26,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 ## Related Work
 
 [[3D_IC_Stacking]]
+[[3d]]
 [[AI-ML — 全景导航 (Map of Content)]]
 [[Allreduce_Latency_Probe]]
 [[BNN vs ANN (1)]]
@@ -37,6 +38,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Complex_System_Theory]]
 [[Heterogeneous_Integration]]
 [[HotChip2024-Day2_AI加速器互联和云AI处理器,_Tesla是亮点]]
+[[HotChip2024-Day2_AI加速器互联和云AI处理器,_Tesla是亮点_1]]
 [[Intelligence_Emergence]]
 [[NCL神经计算定律详解]]
 [[Nat_Hum_Behav_用「全拓扑网络」重塑视皮层地图]]

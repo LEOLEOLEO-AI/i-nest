@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_NoC_Routing]]
+[[Neuromorphic_Topology]]
 [[NoC]]
 [[NoC_EventRouting]]
 [[PhysicalDesign_ReliabilityTradeoff]]

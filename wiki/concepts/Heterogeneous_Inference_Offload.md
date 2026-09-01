@@ -26,6 +26,8 @@ Auto-extracted concept from raw material compilation.
 [[3D_Heterogeneous_Integration]]
 [[3D_IC_Stacking]]
 [[3D_Integrated_Chiplet_Stacking]]
+[[3D_Vertical_Interconnect]]
+[[3d]]
 [[4H_SiC_SubstrateProcessing]]
 [[AI_Application_Scenario_Reconstruction]]
 [[AdvancedPackagingInterconnect]]
@@ -62,7 +64,6 @@ Auto-extracted concept from raw material compilation.
 [[ThroughSiliconVia_TSV_ThermalPath]]
 [[TopologyAwareTaskScheduling]]
 [[Topology_Centric_Interconnect]]
-[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

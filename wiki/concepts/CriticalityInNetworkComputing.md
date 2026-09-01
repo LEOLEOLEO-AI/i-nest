@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Ant_Swarm_Functional_Control]]
 [[Architectural_Conditioning]]
+[[Baseline_Draft_Status]]
 [[BurstGatedRouting]]
 [[Cognitive_Relapse_Decoupling]]
 [[Continual_Learning_Modularity]]

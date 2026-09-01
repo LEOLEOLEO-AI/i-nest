@@ -1,0 +1,38 @@
+---
+title: "Butterfly_Graph"
+type: concept
+domain: Cross
+created: 2026-09-02
+auto: true
+---
+
+# Butterfly_Graph
+
+**Domain**: Cross
+**First mentioned**: auto-extracted
+**Last updated**: 2026-09-02
+
+## Definition
+A topology for AllReduce that arranges nodes in log₂N stages, performing pairwise exchanges and additions to reduce data across all nodes. It is the CST-optimal topology for AllReduce, enabling logarithmic-step gradient synchronization critical for data-parallel training in TCC and iNEST systems.
+
+## Context
+Auto-extracted concept from raw material compilation.
+
+## Related Work
+
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
+[[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
+[[03 涌现：整体的能力不能还原回个体？ - 得到APP]]
+[[1024_Card_SuperNode]]
+[[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
+[[11_SDI节点接口规范与化合键定义_dup]]
+[[Complex_System_Theory]]
+[[Network_Topology_Design]]
+[[TCC]]
+[[iNEST]]
+
+## Sources
+- See wiki/articles/ for source article summaries
+
+## Open Questions
+- *(Explore connections to other concepts)*

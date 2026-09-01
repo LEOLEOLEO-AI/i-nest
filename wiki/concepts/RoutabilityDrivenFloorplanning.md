@@ -33,6 +33,8 @@ Auto-extracted concept from raw material compilation.
 [[CommunicationAwareComputeRelocation]]
 [[Course_Based_FPGA_Projects]]
 [[FirstPrinciples_Derivation]]
+[[FlagOS_2_0]]
+[[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
 [[Intelligent_Computing_Infrastructure]]

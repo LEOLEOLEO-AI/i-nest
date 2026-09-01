@@ -22,9 +22,11 @@ Auto-extracted concept from raw material compilation.
 
 [[1024_Card_SuperNode]]
 [[3D_Integrated_Chiplet_Stacking]]
+[[3d]]
 [[AI_Application_Scenario_Reconstruction]]
 [[AdiabaticMultimodeBend]]
 [[AdvancedPackagingInterconnect]]
+[[Allreduce_Latency_Diagnostic]]
 [[AndersonTransition]]
 [[CST_CoordinationMechanism]]
 [[Chiplet]]

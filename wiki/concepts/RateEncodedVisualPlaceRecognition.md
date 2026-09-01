@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Constructed_Reality_Model]]
 [[CrossLayer_SignalRouting]]
 [[DevelopmentalNeuromorphicAdaptation]]
+[[DifferentiableNetworkMetrics]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]

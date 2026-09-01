@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[CoDesigned_SNN]]
 [[CombinedImportanceScoring]]
 [[ComplexValuedSNN]]
+[[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[Deep_SNN_Trainability]]

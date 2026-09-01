@@ -40,6 +40,8 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[EventCameraActionRecognition]]
 [[FerroelectricTunnelingJunction]]
+[[Ferroelectric_Devices]]
+[[FisherOrthogonalMemory]]
 [[Free_Energy_Topology_Mapping]]
 [[Heterogeneous_Integration]]
 [[In_Network_Neuromorphic]]

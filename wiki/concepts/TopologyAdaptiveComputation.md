@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Critical_Region_Extension]]
 [[DelayTolerantNetworkUAV]]
 [[Distributed_Intelligent_Manufacturing]]
+[[FPGA_Reconfigurability]]
 [[Intelligent_Power_Management]]
 [[Interconnect_Routing]]
 [[LLM_Reward_Design]]

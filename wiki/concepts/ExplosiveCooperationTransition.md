@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Minimization_Interconnect]]
 [[Intelligence_Emergence]]
 [[InterconnectConstrainedEmergence]]
+[[MicroTransferPrinting]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Resilient_Sensing_Comms_Network]]

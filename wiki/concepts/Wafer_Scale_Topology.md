@@ -29,6 +29,8 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Interconnect_Topology]]
 [[Memory_Wall]]
+[[Memristor]]
+[[Memristor_Synapse]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
@@ -47,7 +49,9 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TCC_iNEST_Interconnect]]
 [[Wafer_Scale_Integration]]
+[[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
+[[Wafer_Scale_Neuromorphic]]
 [[iNEST]]
 [[iNEST_Interconnect]]
 [[iNEST_Wafer]]
@@ -59,4 +63,4 @@ Auto-extracted concept from raw material compilation.
 - *(Explore connections to other concepts)*
 
 ## Merged From
-- WaferScale_Topology (merged 2026-08-25)
+- Wafer_Scale_Topology (merged 2026-08-25)

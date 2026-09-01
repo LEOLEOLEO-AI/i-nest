@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[DifferentiableRasterizationPipeline]]
 [[DistinctReentrantPhases]]
 [[EdgeIoTEnergyAwareness]]
+[[FerroelectricMemoryCell]]
 [[Flow_Aware_Interconnect_Design]]
 [[GraphBasedSemanticRouting]]
 [[Heterogeneous_Integration]]

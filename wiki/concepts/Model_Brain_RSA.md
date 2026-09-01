@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[BifurcationCandidate]]
 [[CST计量仪]]
 [[CentralityBasedMitigation]]
+[[CollectiveStatePhaseTransition]]
 [[CompactBosonDuality]]
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]

@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[CertifiedBifurcationDetection]]
 [[ChannelEventSparsity]]
 [[CoexistencePhaseDiagram]]
+[[Contested_Prior_Resolution]]
 [[Coupling_Strength_Encoding]]
 [[DendriticReservoirState]]
 [[DeviationScalingIndex]]

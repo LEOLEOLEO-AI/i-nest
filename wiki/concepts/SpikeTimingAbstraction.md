@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
+[[OpportunisticRoutingRL]]
 [[PhaseLockedTopologyMapping]]
 [[RecurrentOscillatoryComputation]]
 [[SpikePacketRouting]]

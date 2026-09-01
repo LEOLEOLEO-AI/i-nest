@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_InMemory_Computing]]
 [[Memristor]]
 [[Memristor_Synapse]]
+[[Metriplectic_Twin]]
 [[Neuromorphic_Computing]]
 [[NeurovascularUnitEngineering]]
 [[NeurovascularUnit]]

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3DHI_Stacking]]
+[[3d]]
 [[AdjointWaveControl]]
 [[CXL_Deployment_Transition]]
 [[CavityMethodAnalysis]]
@@ -33,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[FatalityDrivenRewiring]]
 [[FlagOS_2_0]]
 [[GPU_Hegemony_Disruption]]
+[[InSitu_Adjoint_Wave_Control]]
 [[Inference_Workload_Profiling]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

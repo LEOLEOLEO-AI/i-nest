@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3D_IC_Stacking]]
+[[3d]]
 [[4H_SiC_SubstrateProcessing]]
 [[AnalogInMemoryComputing]]
 [[CST_MasterEquation]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[NoC]]
 [[P_Paradigm]]
+[[Photonic_Chiplet_Interconnect]]
 [[TCC]]
 [[ThroughSiliconVia_TSV_ThermalPath]]
 [[Topology_Induced_Robustness]]

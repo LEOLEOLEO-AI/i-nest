@@ -21,10 +21,12 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3D_Airborne_Connectivity_Characterization]]
+[[3d]]
 [[Additive_Manufacturing_Defense_Trinity]]
 [[BackflowTransformation]]
 [[Brain_Connectome]]
 [[C_elegansConnectomeAnalogy]]
+[[Causal_Emergence]]
 [[ChaoticAttractorTopology]]
 [[ConnectomeComputationBasis]]
 [[Connectome]]
@@ -33,10 +35,10 @@ Auto-extracted concept from raw material compilation.
 [[Crystallized_Neural_Manifolds]]
 [[DataProvenanceIntegrity]]
 [[DeviceConductanceTuning]]
+[[Heterogeneous_Synaptic_Motifs]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[TCC]]
-[[causal emergence]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -31,6 +31,8 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenAsynchronousRouting]]
 [[EvolvingArchitectureDynamics]]
 [[GeneralIntelligenceSubstrate]]
+[[Heterogeneous_Integration]]
+[[Inference_Workload_Profiling]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]

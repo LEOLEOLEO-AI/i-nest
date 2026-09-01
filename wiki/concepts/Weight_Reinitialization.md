@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_ProjectManager_Model]]
 [[DTGA]]
 [[Deep_Network_Architecture_Invariant]]
+[[DelayTolerantNetworkUAV]]
 [[Independent_EdgeAI_Player_Endgame]]
 [[LLM_Reward_Design]]
 [[Memristive_Interconnect]]

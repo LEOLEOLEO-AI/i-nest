@@ -21,10 +21,12 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Bidirectional_Temporal_Enhancement]]
+[[CorticalWaveRouting]]
 [[DiscreteSTDP]]
 [[Memristive_STDP]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Reconfigurable_Interconnect]]
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SDI_STDP_Bond]]

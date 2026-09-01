@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[HippocampalNeocorticalIntelligence]]
 [[Hypergraph_Label_Noise]]
 [[LatencyAwareLoss]]
+[[LossSpikeMechanism]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]

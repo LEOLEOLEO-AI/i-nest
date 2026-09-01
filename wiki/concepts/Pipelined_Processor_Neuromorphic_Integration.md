@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[getnote_2026-04-20_海河实验室晶上先导项目检查]]
 [[iNEST]]
 [[pipelined processor]]
+[[北大团队提出高精度模拟矩阵方程求解方案_突破算力瓶颈_开启6G与类脑计算新路径_]]
 [[基于忆阻器的储备池图神经网络_RGNN_离子与电子相互作用高效建模研究]]
 [[忆阻器]]
 [[晶圆级忆阻器无源交叉阵列制造技术_脑规模神经形态计算突破_]]

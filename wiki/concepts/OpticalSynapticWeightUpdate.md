@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
+[[Fermi_Surface_Reconstruction]]
 [[Free_Energy_Topology_Mapping]]
 [[Intelligence_Emergence]]
 [[Intelligent_Power_Management]]
@@ -53,7 +54,6 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
-[[causal emergence]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

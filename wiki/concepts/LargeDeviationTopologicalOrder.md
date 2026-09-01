@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Prior_Resolution]]
 [[CouplingMatrixRecovery]]
 [[Crystallized_Neural_Manifolds]]
+[[DataDrivenMaterialDesign]]
 [[DendriticReservoirState]]
 [[DifferentiableLifting]]
 [[EcosystemTopologyCoupling]]

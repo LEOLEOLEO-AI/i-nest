@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AdvancedPackagingInterconnect]]
 [[Allreduce_Latency_Probe]]
 [[Analog_InMemory_Processing]]
+[[ApproximationFidelityTradeoff]]
 [[Architectural_Conditioning]]
 [[Chiplet]]
 [[Chiplet_Based_Architecture]]

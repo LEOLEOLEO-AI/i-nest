@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicEdgeProcessing]]
 [[NeuromorphicGraphAnomalyDetection]]
+[[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Planning_Revolution]]
 [[RecursiveSelfReferentialArchitecture]]

@@ -25,10 +25,17 @@ Auto-extracted concept from raw material compilation.
 [[3D_Integration]]
 [[3D_Stacking]]
 [[3D_Vertical_Interconnect]]
+[[3d]]
 [[4H_SiC_SubstrateProcessing]]
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_Assisted_Energy_Optimization]]
 [[ANN_to_SNN_Conversion_Error_Amplification]]
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Stacking]]
+[[DARPA_ProjectManager_Model]]
+[[SNN]]
+[[Spiking_Neural_Network]]
 [[TCC]]
 
 ## Sources

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[ConnectomeWiringSeparability]]
 [[Connectome]]
 [[Connectome_Reservoir]]
+[[Crystallized_Neural_Manifolds]]
 [[DevelopmentalConnectomeTemporalGraph]]
 [[DevelopmentalStageEmbedding]]
 [[DynamicsMatchedReservoir]]

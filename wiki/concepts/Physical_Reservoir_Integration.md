@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[3D_Torus_6_Degree]]
+[[3d]]
 [[AmorphousSolidPlasticity]]
 [[Biomanufacturing_Control_Loop]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
@@ -35,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalInterfaceBlock]]
 [[InNetwork_Learning_Interface]]
 [[IncidenceBasedRandomWalk]]
+[[Nanowire_Network_Reservoir]]
 [[Nature Communications_生物神经网络中突触多样性如何让人工神经网络更强大？]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]

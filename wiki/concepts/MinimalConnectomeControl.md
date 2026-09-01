@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3d]]
 [[Automated_Assessment_Framework]]
 [[Autonomous_Physical_Computation]]
 [[BackflowTransformation]]
@@ -34,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Connectome_Inspired_Architecture]]
 [[Connectome_Reservoir]]
 [[Cross_Brain_Connectome]]
+[[Crystallized_Neural_Manifolds]]
 [[EvolutionaryReservoirLearning]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]

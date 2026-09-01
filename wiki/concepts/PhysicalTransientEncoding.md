@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AI-ML — 全景导航 (Map of Content)]]
 [[AI_Application_Scenario_Reconstruction]]
 [[AnalogDomainCompression]]
+[[ArbitraryWavefunctionConfigurability]]
 [[Complex_System_Theory]]
 [[CouplingMatrixRecovery]]
 [[Crystallized_Neural_Manifolds]]
@@ -44,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[TCC]]
 [[iNEST]]
+[[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources

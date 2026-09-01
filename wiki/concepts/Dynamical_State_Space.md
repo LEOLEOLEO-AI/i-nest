@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[ReproducibleReservoirComputing]]
 [[Reservoir_Computing]]
 [[SDDE_Attractor_Emergence]]
+[[ShortTermMemoryReservoir]]
 [[Synaptic_Plasticity]]
 [[TemporalFeatureDecorrelation]]
 [[emerging CMOS memristor]]

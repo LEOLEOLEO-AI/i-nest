@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[LowRankPerturbation]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
+[[OpenSource_Neuromorphic_Framework]]
 [[SNN]]
 [[Spiking neural network]]
 [[Spiking_Neural_Network]]

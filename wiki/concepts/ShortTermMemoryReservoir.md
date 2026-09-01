@@ -51,6 +51,8 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[SDDE_Attractor_Emergence]]
 [[SDSoW]]
+[[SDSoW_Architecture]]
+[[Second_Curve_Industry_Platform]]
 [[ShortTermMemory]]
 [[Synaptic_Plasticity]]
 [[emerging CMOS memristor]]

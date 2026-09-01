@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[Generative_Graph_Models]]
 [[Interconnect_Routing]]
+[[JumpDiffusion_StochasticQuantization]]
 [[MantelTest_SignCorrection]]
 [[Memristive_Topology]]
 [[Network_State_Awareness]]

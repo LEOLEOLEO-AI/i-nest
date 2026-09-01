@@ -57,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[NonEquilibriumComputing]]
 [[NonFermiLiquidBehavior]]
 [[P_Paradigm]]
+[[RandomisedMixedLabyrinthFractals]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SOC]]
 [[STDP_Plasticity]]

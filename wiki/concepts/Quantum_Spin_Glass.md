@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[PropertyPredictionModeling]]
 [[RamanInducedGaugeField]]
+[[RecurrentSpikingTopology]]
 [[ReliabilityOverheadTradeoff]]
 [[Resilient_Satellite_Mesh]]
 [[SNN]]

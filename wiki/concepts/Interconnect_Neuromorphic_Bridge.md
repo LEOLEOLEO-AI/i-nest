@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[NetworkPruning]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Obsidian_Plugin_Architecture]]
 [[SelfOrganization]]
 [[TCC]]
 [[iNEST]]

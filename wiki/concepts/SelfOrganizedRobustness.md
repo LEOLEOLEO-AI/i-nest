@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[Criticality]]
+[[DivergentHigherAreaRanking]]
 [[DynamicalSelfDualCriticality]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]

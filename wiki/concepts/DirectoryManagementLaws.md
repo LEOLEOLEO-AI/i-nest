@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[3D_Torus_6_Degree]]
+[[3d]]
 [[AdaptiveFunctionalTopology]]
 [[BrownianCastleInterface]]
 [[CollectiveSpikingDynamics]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[IMPLY_ISA]]
 [[IntegratedInformationFreeEnergyBridge]]
 [[LocalInteractionDrivenReconfiguration]]
+[[LowRankPerturbation]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]

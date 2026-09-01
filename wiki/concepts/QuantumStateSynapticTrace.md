@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[FixedOverheadDominance]]
 [[InputAdaptiveComputation]]
 [[MemoryDrivenInterconnect]]
+[[MicroTransferPrintedActiveDevices]]
 [[NestedRepresentation]]
 [[Neuromorphic_Computing]]
 [[NonEquilibriumPhase]]

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[ANN动力学]]
 [[Allreduce_Latency_Probe]]
+[[Analog_InMemory_Processing]]
 [[Architectural_Conditioning]]
 [[AsymmetricStochasticInteractions]]
 [[AttentionMap_DifferenceResidual]]
@@ -56,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[scaling laws]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 

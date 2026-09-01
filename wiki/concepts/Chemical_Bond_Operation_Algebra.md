@@ -20,15 +20,24 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Bond_Operation_Algebra]]
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_NoC_Fabric]]
 [[Chiplet_Stacking]]
 [[Critical_Region_Extension]]
 [[DynamicServiceComposition]]
+[[EventDrivenAsync]]
 [[EventDrivenAsynchronousRouting]]
 [[FPGA_NeuromorphicMapping]]
 [[GPU_Bottleneck_Relief]]
 [[GeneralIntelligenceSubstrate]]
+[[Interconnect_Routing]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
+[[Neuromorphic_Computing]]
+[[NoC]]
+[[OpticallyWritableAtomicVaporMemory]]
 [[P_Paradigm]]
 
 ## Sources

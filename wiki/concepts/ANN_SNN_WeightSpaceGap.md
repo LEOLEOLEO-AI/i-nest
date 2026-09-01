@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[BulletTrainScheduling]]
 [[Criticality]]
 [[CrossEntityPreemptiveWarning]]
+[[DrivenCriticalityOptimalityTradeoff]]
 [[EventBasedMotionDeblurring]]
 [[EventDrivenAutoregression]]
 [[EventDrivenMotionDeblurring]]

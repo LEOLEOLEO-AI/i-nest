@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Architecture]]
 [[Contested_Priors_Mechanism]]
 [[CouplingMatrixRecovery]]
+[[Coupling_Strength_Encoding]]
 [[CriticalFixedPoint]]
 [[DendriticReservoirState]]
 [[DifferentiableLifting]]

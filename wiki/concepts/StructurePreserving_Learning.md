@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[ConnectionCentricParadigm]]
 [[ContinuousGameOfLife]]
 [[CrossDomain_Abstraction]]
+[[CrossDomain_Synthesis]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

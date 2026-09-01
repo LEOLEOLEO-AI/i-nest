@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[BackpropFree_Learning]]
 [[BackpropagationFreeLearning]]
 [[BoundaryObject_Abstraction]]
+[[Brain_Verified_Scaling_Target]]
 [[ByteDance_Ada_Chip]]
 [[Mesoscale_Computing]]
 [[TCC]]

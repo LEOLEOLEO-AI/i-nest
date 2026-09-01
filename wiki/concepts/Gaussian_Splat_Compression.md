@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[SOC]]
 [[SparseTemporalEncoding]]
 [[Spiking_Neural_Network]]
+[[SpontaneousOrderMechanism]]
 [[analog computation]]
 [[iNEST]]
 [[类脑芯片]]

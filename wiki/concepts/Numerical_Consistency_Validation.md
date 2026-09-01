@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Data_Debiasing_Techniques]]
 [[Deep_Thermalisation]]
 [[DifferentiableRasterizationPipeline]]
+[[ERI_2_0_Strategic_Framework]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

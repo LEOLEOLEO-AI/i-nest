@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Crystallized_Neural_Manifolds]]
 [[DeviceLevelNonlinearityScaling]]
 [[DeviceLevelNonlinearity]]
+[[EdgeFeatureEncoding]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[FeFET_Polarization_Switching]]

@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3d]]
 [[AI-ML — 全景导航 (Map of Content)]]
 [[AIRA_NeuralArchSearch]]
 [[AnomalousSpinTransport]]
@@ -34,7 +35,9 @@ Auto-extracted concept from raw material compilation.
 [[ErrorSuppressedPipeline]]
 [[Evolutionary_Computability]]
 [[FlagOS_2_0]]
+[[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
+[[In_Package_Neuromorphic_Integration]]
 [[InkjetPrintedElectrochemicalSensors]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

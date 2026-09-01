@@ -35,6 +35,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Complex_System_Theory]]
 [[Crystallized_Neural_Manifolds]]
 [[Heterogeneous_Integration]]
+[[HotChip2024-Day2_AI加速器互联和云AI处理器,_Tesla是亮点]]
 [[III IV V族元素 (1)]]
 [[Intelligence_Emergence]]
 [[LocalMeasurementSheaf]]
@@ -63,3 +64,4 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[涌现动力学如何用来分析复杂系统？]]
 [[涌现动力学如何用来分析复杂系统？_新课上线]]
 [[神经网络]]
+[[软件定义晶上系统的PPT要点梳理 (1)]]

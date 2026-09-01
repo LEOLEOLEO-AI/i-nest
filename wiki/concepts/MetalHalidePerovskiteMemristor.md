@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[GeTeBasedCBRAM]]
 [[Intelligence_Emergence]]
 [[Loihi2_OnChip_Learning]]
+[[Loihi]]
 [[Memristive_Topology]]
 [[Memristor]]
 [[Memristor_Synapse]]
@@ -58,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[analog computation]]
 [[complex system]]
 [[iNEST]]
+[[忆阻器]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[神经网络]]
 

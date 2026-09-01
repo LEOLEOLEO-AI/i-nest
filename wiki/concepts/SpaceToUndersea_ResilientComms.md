@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Monolithic_CoIntegration]]
 [[Intelligence_Emergence]]
 [[Interconnect_Topology]]
+[[L2_L3_Reconfigurability]]
 [[NCL神经计算定律详解]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]

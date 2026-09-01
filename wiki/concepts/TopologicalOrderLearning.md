@@ -49,6 +49,8 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[NeurovascularUnitEngineering]]
+[[NeurovascularUnit]]
+[[OpportunisticRoutingRL]]
 [[QuarantineStrategyOptimization]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Spike_Encoding_of_fMRI]]

@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AnomalousSpinTransport]]
 [[BackpropagationFreeLearning]]
+[[Complex_System_Theory]]
 [[HigherOrderSimplicialDynamics]]
 [[Intelligence_Emergence]]
 [[InterconnectConstrainedEmergence]]

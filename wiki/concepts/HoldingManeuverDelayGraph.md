@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Roadmap]]
 [[GeometryGuidedGenerativeModel]]
 [[GradientBasedTopologyOptimization]]
+[[HallmarkDrivenCancerModeling]]
 [[Intelligence_Emergence]]
 [[MatrixShapePhaseTransition]]
 [[Network_Topology_Design]]

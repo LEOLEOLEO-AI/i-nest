@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[EventDrivenRiskAssessment]]
 [[Interconnect_Routing]]
+[[JumpDiffusion_StochasticQuantization]]
 [[MantelTest_SignCorrection]]
 [[Network_State_Awareness]]
 [[Network_Topology_Design]]

@@ -24,11 +24,14 @@ Auto-extracted concept from raw material compilation.
 [[CoreComputationSubspace]]
 [[Cross_Substrate_Scaling]]
 [[EnergyResourceEfficiencyTradeoff]]
+[[Heterogeneous_Integration]]
+[[Heterogeneous_Integration_Roadmap]]
 [[Heterogeneous_Integration_Roadmap_HIR]]
 [[Heterogeneous_Material_Integration]]
 [[Mesoscale_Physical_Computing_Framework]]
 [[National_Innovation_Center_Framework]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Wafer]]
 [[iNEST]]
 
 ## Sources

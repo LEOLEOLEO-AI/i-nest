@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuromorphicGraphAnomalyDetection]]
 [[Neuromorphic_Computing]]
+[[OpportunisticRoutingRL]]
 [[PhaseLockedTopologyMapping]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]

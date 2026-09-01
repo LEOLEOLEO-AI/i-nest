@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[Industry_Structure_Deep_Dive]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
+[[ObsidianV4_Integration]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
 [[STDP_Plasticity]]

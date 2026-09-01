@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[ContinuousTraitAxelrodModel]]
 [[Control_Field_Framework]]
+[[Crossbar_Programming]]
 [[Dimensionality_Modularity_Tradeoff]]
 [[DynamicCentralitySteering]]
 [[Dynamic_Expert_Fusion]]

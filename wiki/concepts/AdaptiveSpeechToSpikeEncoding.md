@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[AdaptiveFrequencyResonateFire]]
 [[AdaptiveSTDP]]
+[[Adaptive_EW_Neuromorphic_Controller]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BrainBodyResonance]]
 [[Controlled_Release_Kinetics]]

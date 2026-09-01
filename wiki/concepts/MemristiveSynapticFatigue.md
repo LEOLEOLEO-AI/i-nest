@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Course_Based_FPGA_Projects]]
 [[EventCameraActionRecognition]]
 [[HighTemporalResolutionSensing]]
+[[HodgkinHuxleyDynamics]]
 [[In_Network_Neuromorphic]]
 [[Interconnect_Routing]]
 [[Memristor]]

@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[SNN_STDP_CoDesign]]
 [[SNN_STDP_Topology]]
+[[STDP_Integration]]
 [[STDP_MemristiveLearning]]
 [[STDP_Plasticity]]
 [[STDP_Topology]]

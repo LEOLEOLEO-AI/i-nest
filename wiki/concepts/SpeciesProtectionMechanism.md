@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[ActivityPropagationCascade]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[BioInspired_Interception_Control]]
 [[BurstGatedRouting]]
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[CriticalNormBoundary]]

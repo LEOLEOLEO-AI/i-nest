@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CollectiveDynamics]]
 [[ConsciousnessEngineeringLoop]]
 [[CrossLayer_SignalRouting]]
+[[DirectTrainingSNN]]
 [[DualDrivenHybridNetwork]]
 [[EnergyEfficientNeuromorphic]]
 [[ErrorAmplificationLimits]]

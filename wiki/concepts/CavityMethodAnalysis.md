@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
 [[NoC]]
+[[OpticallyWritableAtomicVaporMemory]]
 [[Packaging_Aware_NoC_Design]]
 [[RadiationHardened_ProcessNodeScaling]]
 [[SDI_Bond]]

@@ -48,6 +48,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Photonic_Chiplet_Interconnect]]
 [[PropertyPredictionModeling]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SNN]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[Small_World_Network]]

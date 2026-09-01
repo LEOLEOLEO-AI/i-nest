@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[Cognitive_Relapse_Decoupling]]
 [[Continual_Learning_Modularity]]
+[[ContinuousControlConversion]]
 [[Criticality]]
 [[DynamicalCriticality]]
 [[Edge_of_Chaos]]

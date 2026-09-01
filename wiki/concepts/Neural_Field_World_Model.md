@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AgenticServiceOrchestration]]
 [[Allreduce_Latency_Probe]]
 [[Anomaly_Induced_Quantum_Criticality]]
+[[Ant_Swarm_Functional_Control]]
 [[Architectural_Conditioning]]
 [[CriticalityDrivenStateTransition]]
 [[Criticality]]
@@ -42,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Path_State_Awareness]]
 [[PhotonicSynapticPlasticity]]
+[[Quantum_Criticality]]
 [[Receptron_Unit]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Resilient_Satellite_Mesh]]
@@ -50,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[Synaptic_Plasticity]]
 [[TopologicalAndersonChernInsulator]]
+[[World_Model]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

@@ -21,14 +21,20 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[ChipletOnWafer]]
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
+[[CongestionAwareNoCPlacement]]
 [[GlobalDecision_LocalExecution_ControlPlane]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
+[[NoC]]
 [[P_Paradigm]]
 [[SoftwareDefined_NoC_Routing]]
 [[TCC]]
 [[WSE_OnWafer_Fabric]]
 [[Wafer_Scale_Integration]]
+[[Wafer_Scale_Topology]]
 [[Wafer_Scale_Topology_Control]]
 
 ## Sources

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
 [[AI_Application_Scenario_Reconstruction]]
 [[AnalogInMemoryComputing]]
 [[Beyond_Moore_Packaging_Strategy]]
@@ -28,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CognitiveSupportTopology]]
 [[CollectiveDynamics]]
 [[Evolutionary_Structure_Computability]]
+[[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[InformationSciences_Division]]
 [[MitigationLayers]]

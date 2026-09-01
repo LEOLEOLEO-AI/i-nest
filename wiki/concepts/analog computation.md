@@ -39,6 +39,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Chiplet_Based_Neuromorphic_Integration]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
+[[Constructed_Reality_Prior]]
 [[CrossbarArrayPrecision]]
 [[DimensionSeparation_IntensiveExtensive]]
 [[Distributed_Spike_Communication]]

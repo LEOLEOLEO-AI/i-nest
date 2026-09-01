@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Topology]]
 [[STDP_Topology_Integration]]
 [[SpikeTimingSensitivity]]
+[[SpikingCorrespondenceMatching]]
 [[Spiking_Neural_Network]]
 [[SuperparamagneticSwitchingRate]]
 [[SynapticWeightPlasticity]]

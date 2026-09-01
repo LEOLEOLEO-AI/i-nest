@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[CST计量仪]]
 [[CentralityBasedMitigation]]
 [[CollectiveStatePhaseTransition]]
+[[ColoredNoiseMaximumEntropy]]
 [[Complex_System_Theory]]
 [[Edge_of_Chaos]]
 [[Intelligence_Emergence]]

@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[EpidemicThreshold]]
 [[Reservoir_Computing]]
 [[Self_Organized_Criticality]]
+[[Spiking_neural_network_dynamics]]
 [[Syncytial_Mesh]]
 [[Syncytial_Mesh_Model]]
 [[Technical_Program_Officer_Autonomy]]

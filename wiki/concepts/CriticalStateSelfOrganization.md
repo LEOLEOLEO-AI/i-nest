@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[BiologicalNoiseMimicry]]
 [[BrownianCastleInterface]]
 [[CompartmentalNeuronModel]]
+[[CoreComputationSubspace]]
 [[Gaussian_Splatting_Streaming]]
 [[HigherAreaRankingDivergence]]
 [[Interconnect_Routing]]

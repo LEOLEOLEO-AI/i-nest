@@ -29,6 +29,8 @@ Auto-extracted concept from raw material compilation.
 [[BackflowTransformation]]
 [[BandedNonHermitianRandomMatrices]]
 [[BayesianDomainEvolution]]
+[[Co_designed_Online_Continual_Learning]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 
 ## Sources

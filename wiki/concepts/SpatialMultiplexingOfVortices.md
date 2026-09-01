@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossInstitutionalNetwork]]
 [[CrystalPalace_Program]]
 [[Crystallized_Neural_Manifolds]]
+[[DataDrivenMaterialDesign]]
 [[DifferentiableLifting]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]

@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3d]]
 [[ActiveInferenceEdgeLoop]]
 [[ActiveInference]]
 [[AnomalousSpinTransport]]
@@ -34,10 +35,12 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_Project_Group_Strategy]]
 [[ERI_2_0_Framework]]
 [[ElectronicPhotonicIntegratedCircuit]]
+[[EnergyResourceEfficiencyTradeoff]]
 [[ForwardFluctuationGradient]]
 [[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]
 [[Loihi2_OnChip_Learning]]
+[[Loihi]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[MultiModel_Adapter_Architecture]]
 [[Multi_Device_Coordination]]

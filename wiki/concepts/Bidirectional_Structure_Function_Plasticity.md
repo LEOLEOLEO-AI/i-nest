@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[LatencyGradientDescent]]
 [[Neuromorphic_Computing]]
 [[OpenLearningEcosystem]]
+[[QuantumDistillation]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
 [[neuromorphic substrate]]

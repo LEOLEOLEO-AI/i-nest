@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[CrossDomain_Integration]]
 [[CrossbarArrayPrecision]]
+[[DynamicProgrammingRecycling]]
 [[Electrolyte_Bonding_Engineering]]
 [[Emerging_CMOS_Memristor_Devices]]
 [[EnergyResourceEfficiencyCoOptimization]]

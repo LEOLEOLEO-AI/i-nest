@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Service_Reconfiguration]]
 [[AdjointWaveControl]]
 [[ArtificialProprioception]]
+[[Cache_Aware_Flow_Scheduling]]
 [[Complex_System_Theory]]
 [[ControlDrivenCriticalFluctuations]]
 [[Critical_Region_Extension]]

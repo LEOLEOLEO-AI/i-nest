@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Anomaly_Protected_Scaling_Law]]
 [[ArchitecturalCondition]]
 [[BayesianConnectivityEstimation]]
+[[CircuitTopologyEncoding]]
 [[Cognitive_Relapse_Decoupling]]
 [[ConstraintDrivenSelfOrganization]]
 [[CriticalityDrivenStateTransition]]

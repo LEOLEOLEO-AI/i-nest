@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Faculty_Forum_2026]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[ChipletWaferInterconnectScaling]]
@@ -50,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Strategic_Planning]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
+[[TopologyCentricComputing]]
 [[WaferScaleInterconnectAlgebra]]
 [[WaferScaleTopologyCentricComputing]]
 [[Wafer_Scale_Integration]]

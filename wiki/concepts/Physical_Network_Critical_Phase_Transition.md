@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AvalancheBranchingRatio]]
 [[BranchingRatio]]
+[[ChipletOnWafer]]
 [[ChipletWaferInterconnectCoDesign]]
 [[ChipletWaferInterconnectScaling]]
 [[Chiplet]]
@@ -31,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[CommunicationAsComputation]]
 [[Criticality]]
+[[Heterogeneous_Integration]]
 [[Interconnect_Topology]]
 [[Network_Topology_Design]]
 [[Self_Organized_Criticality]]

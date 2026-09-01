@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3d]]
 [[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[AgentReputationLedger]]
@@ -43,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Interconnect]]
 [[System_Level_Transition_Framework]]
 [[TCC]]
+[[TopologyProgramming]]
 [[iNEST]]
 
 ## Sources

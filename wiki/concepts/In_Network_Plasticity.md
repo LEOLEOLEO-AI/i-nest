@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[RobustnessToNoiseInSNN]]
 [[SNN]]
 [[Self_Organized_Criticality]]
+[[SpikeProbabilityEncoding]]
 [[SpikeRoutingFabric]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

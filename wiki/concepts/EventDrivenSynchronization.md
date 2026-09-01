@@ -56,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Residual_Connection]]
 [[SpikingMOT]]
 [[SpikingMotorControl]]
+[[SpikingMuscleActivation]]
 [[SpikingTopologyEvolution]]
 [[Spiking_Neural_Network]]
 [[SynapticFatigueModel]]

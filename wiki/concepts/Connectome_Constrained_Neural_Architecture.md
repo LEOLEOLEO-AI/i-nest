@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Connectome]]
 [[Connectome_Reservoir]]
 [[Connectome_Verification_Protocol]]
+[[Crystallized_Neural_Manifolds]]
 [[DevelopmentalConnectomeTemporalGraph]]
 [[DevelopmentalStageEmbedding]]
 [[Network_Topology_Design]]

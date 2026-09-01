@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[EmergentIntelligence_Spacetime]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
+[[Flow_Network_Memory]]
 [[Heterogeneous_Inference_Division]]
 [[Heterogeneous_Integration]]
 [[InMateriaComputing]]
@@ -60,7 +61,6 @@ Auto-extracted concept from raw material compilation.
 [[SystemLevelNonlinearity]]
 [[Textbook_Paradigm_Definition]]
 [[TopologicalAndersonChernInsulator]]
-[[causal emergence]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

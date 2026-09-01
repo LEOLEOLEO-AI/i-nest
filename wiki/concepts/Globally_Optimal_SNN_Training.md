@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeTimingDependentUpdate]]
 [[SpikeTimingFidelity]]
 [[Spike_Encoding_of_fMRI]]
+[[Spike_timing_dependent_plasticity_learning_rule]]
 [[SpikingTopologyEvolution]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

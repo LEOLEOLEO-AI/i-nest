@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Decoupled_Priors]]
 [[DiagnosticReportFramework]]
 [[EulaminateOverrepresentation]]
+[[Heterogeneous_Integration]]
 [[Intelligent_Computing_Infrastructure]]
 [[Interconnect_Topology]]
 [[Memory_Wall]]
@@ -34,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[P_Paradigm]]
 [[SDI_Bond]]
+[[SDI_TCC_Chiplet]]
 [[TCC]]
 
 ## Sources

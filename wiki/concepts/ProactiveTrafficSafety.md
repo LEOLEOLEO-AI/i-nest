@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[ContinuousGameOfLife]]
 [[CriticalWeightNormBoundary]]
 [[CrossDomain_Abstraction]]
+[[CrossDomain_Synthesis]]
 [[DisorderedNetworkInterconnect]]
 [[DistributedEventConditionDesign]]
 [[Dynamic_Expert_Fusion]]

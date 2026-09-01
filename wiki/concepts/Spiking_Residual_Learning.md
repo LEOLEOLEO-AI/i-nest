@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[DelayCodedWorkingMemory]]
 [[Delay_Aware_Autograd_Spiking_Framework]]
 [[EnergyEfficientRestoration]]
+[[EventBasedBioSignalFrontEnd]]
 [[EventDrivenInference]]
 [[Event_Driven_Architecture]]
 [[FunctionalEnsemble]]

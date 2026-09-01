@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3D_Integrated_Chiplet_Stacking]]
+[[3d]]
 [[AcceleratedMaterialScreening]]
 [[AdaptiveBitPrecisionExploration]]
 [[AdversarialResilience]]
@@ -39,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[EntropyProductionRate]]
+[[EnzymeCatalyticDegradation]]
 [[Epithelial_Barrier_Integrity]]
 [[Expert_Review_Arbitration]]
 [[FisherInformationMetric]]

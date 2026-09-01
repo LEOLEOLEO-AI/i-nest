@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3d]]
 [[Bidirectional_Temporal_Enhancement]]
 [[DiscreteSTDP]]
 [[Event_Driven_Architecture]]
@@ -39,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeBasedInference]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
+[[Synchronization_Overhead_Mitigation]]
 [[TCC]]
 [[iNEST]]
 

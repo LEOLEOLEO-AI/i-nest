@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Course_Based_FPGA_Prototyping]]
 [[Criticality]]
 [[CrossEntityPreemptiveWarning]]
+[[Delay_Aware_Autograd_Spiking_Framework]]
 [[DiscreteContinuous_Unification]]
 [[DualDrivenHybridNetwork]]
 [[EEG_Criticality]]

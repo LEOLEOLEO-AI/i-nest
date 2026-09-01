@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[ErrorSuppressedPipeline]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[NonlinearDynamicsInMetamaterials]]
 [[Nonlinear_Gain]]
 [[ReproducibleReservoirDynamics]]
 [[ReservoirDynamics]]

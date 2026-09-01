@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossEntityPreemptiveWarning]]
 [[Deep_SNN_Trainability]]
 [[DirectTrainingFromScratch]]
+[[DrivenCriticalityOptimalityTradeoff]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[EventBasedMotionDeblurring]]

@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC]]
 [[NoC_EventRouting]]
 [[Order_Flexibility_Duality]]
+[[QuantumFluctuationDrivenTransport]]
 [[QuarantineCostTradeoff]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]

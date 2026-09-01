@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Accelerated_SNN]]
 [[Inference_Workload_Profiling]]
 [[Interconnect_Routing]]
+[[MatrixShapePhaseTransition]]
 [[Memristive_Solutions]]
 [[NeuromorphicStatusAwareness]]
 [[Neuromorphic_Computing]]

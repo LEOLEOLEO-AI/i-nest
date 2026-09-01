@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Mamba_Block]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
+[[Temporally_Precise_Training_Parallelization]]
 [[iNEST]]
 
 ## Sources

@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Neural_Avalanche]]
 [[Nonlinear_Gain]]
 [[QuantumGateSynthesis]]
+[[ReadoutLayer]]
 [[Reservoir_Computing]]
 [[SDDE_Attractor_Emergence]]
 [[TopologicalAndersonChernInsulator]]

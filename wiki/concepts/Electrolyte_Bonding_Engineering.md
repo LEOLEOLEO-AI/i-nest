@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[CMOS_Memristor_Devices]]
 [[ChargeDomainAttention]]
 [[ConsciousIntegration]]
+[[Constructed_Reality_Prior]]
 [[CrossDomain_Integration]]
 [[Emerging_CMOS_Memristor_Devices]]
 [[EnergyResourceEfficiencyCoOptimization]]

@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[NanomaterialFeatureEngineering]]
 [[Network_Topology_Design]]
 [[PhysicalReservoir]]
+[[PolarizationModulatedPhotoresponse]]
 [[Reservoir_Computing]]
 [[Self_Organized_Criticality]]
 [[SuperparamagneticSwitchingRate]]

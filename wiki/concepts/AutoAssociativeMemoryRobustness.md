@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Differential_Readout_Scheme]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
+[[ExplainableAutonomy]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

@@ -21,7 +21,9 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3D_Heterogeneous_Integration]]
+[[3d]]
 [[AI_Application_Scenario_Reconstruction]]
+[[AdaptiveGraphDiffusion]]
 [[AdjointWaveControl]]
 [[AnalogDomainCompressiveSensing]]
 [[AndersonTransition]]
@@ -33,8 +35,10 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Thermalisation]]
 [[ErrorSuppressedPipeline]]
 [[Heterogeneous_Compute_Graph]]
+[[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Loihi2_OnChip_Learning]]
+[[Loihi]]
 [[QuantumFluctuationDrivenTransport]]
 [[ReproducibleReservoirDynamics]]
 [[ReservoirDynamics]]

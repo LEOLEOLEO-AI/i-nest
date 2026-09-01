@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[BulletTrainScheduling]]
 [[BurstGatedRouting]]
 [[BurstSuppression]]
+[[ContinuousControlConversion]]
 [[Criticality]]
 [[Interconnect_Routing]]
 [[SNN]]

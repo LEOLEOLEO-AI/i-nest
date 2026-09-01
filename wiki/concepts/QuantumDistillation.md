@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[ControlDrivenCriticalFluctuations]]
 [[Critical_Region_Extension]]
 [[DelayTolerantNetworkUAV]]
+[[EndToEndTopologicalLearning]]
 [[EvolvingArchitectureDynamics]]
 [[HybridCouplingThermosensitiveNetwork]]
 [[Intelligence_Emergence]]

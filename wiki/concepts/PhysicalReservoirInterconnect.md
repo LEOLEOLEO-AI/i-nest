@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenRiskAssessment]]
 [[Generative_Graph_Models]]
 [[Interconnect_Routing]]
+[[JumpDiffusion_StochasticQuantization]]
 [[MantelTest_SignCorrection]]
 [[Network_State_Awareness]]
 [[Network_Topology_Design]]

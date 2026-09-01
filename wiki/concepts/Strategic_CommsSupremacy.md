@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[CirculateFiringNeuron]]
 [[CognitiveFeedbackLoop]]
+[[Collective_State_Convergence]]
 [[CompetitiveEdgeRewiring]]
 [[Complex_System_Theory]]
 [[Cryogenic_Syndrome_Compression]]

@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[FastSlow_Dynamics]]
 [[Free_Energy_Topology_Mapping]]
+[[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[NCL神经计算定律详解]]
 [[Network_Topology_Design]]

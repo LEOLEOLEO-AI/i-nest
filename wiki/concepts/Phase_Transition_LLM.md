@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[GPU_Cluster_SNN_Architecture]]
 [[GradientBasedLearningLocalization]]
 [[Intelligence_Emergence]]
+[[PowerLawScaling]]
 [[SNN]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]

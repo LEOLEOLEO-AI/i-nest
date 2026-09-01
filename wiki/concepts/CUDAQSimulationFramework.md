@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AcceleratorReconfigurationOverhead]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[BarrierConditionedTrajectory]]
 [[CrossLayer_SignalRouting]]
 [[CrossbarSNNArchitecture]]
 [[CulturalDisseminationDynamics]]

@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[OODA_Loop_Breaking]]
 [[PhotonicSynapticPlasticity]]
 [[Receptron_Unit]]
+[[ReconfigurableSNN_Accelerator]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SelfOrganization]]
 [[Self_Organized_Criticality]]

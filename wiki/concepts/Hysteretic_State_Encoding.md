@@ -57,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[ReproducibleReservoirComputing]]
 [[Reservoir_Computing]]
 [[SneakPathCurrentSuppression]]
+[[Stigmergic_Graph_Memory]]
 [[SwarmGradientRouting]]
 [[TCC]]
 [[complex system]]

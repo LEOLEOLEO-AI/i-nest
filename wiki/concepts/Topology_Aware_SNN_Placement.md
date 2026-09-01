@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
+[[OpenSource_Neuromorphic_Framework]]
 [[P_Paradigm]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]

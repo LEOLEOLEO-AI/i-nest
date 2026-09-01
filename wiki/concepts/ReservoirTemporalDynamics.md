@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[UniversalIntelligence_Emergence]]
 [[complex system]]
 [[iNEST]]
+[[战略报告提纲：物理复杂网络智能涌现——颠覆现有算力范式的新路线]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]

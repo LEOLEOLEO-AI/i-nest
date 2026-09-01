@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[ST_SNN]]
 [[SpikeDrivenDetectionBackbone]]
+[[SpikeRatePrecisionTradeoff]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[getnote_2026-01-25_吴华强团队与iNEST技术互补]]

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3DGS_SplatPrimitive]]
+[[3d]]
 [[4H_SiC_SubstrateProcessing]]
 [[ASIC_Dualism]]
 [[Automated_Assessment_Framework]]
@@ -29,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CLINKAsCarrierPrimitive]]
 [[CellEmergenceMechanism]]
 [[CellEmergence]]
+[[ChipletWaferTopologyCoDesign]]
 [[Intelligence_Emergence]]
 [[TCC]]
 [[iNEST]]

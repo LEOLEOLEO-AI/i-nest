@@ -37,6 +37,8 @@ Auto-extracted concept from raw material compilation.
 [[Direct_Training_Spiking_Neural_Networks]]
 [[ElectronicBurstingNeuron]]
 [[EmergentCooperation]]
+[[Emergent_Generalization_Dynamics]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]

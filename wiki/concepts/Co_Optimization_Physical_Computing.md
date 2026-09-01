@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[ReservoirDynamics]]
 [[Reservoir_Computing]]
 [[RunawayAvalanche]]
+[[SDDE_Attractor_Emergence]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[TCC]]

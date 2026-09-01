@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[BioPlausiblePredictiveCoding]]
 [[BrainInspired_Chip]]
 [[ConductingPolymerDendriteMemory]]
+[[EnergyEfficientRestoration]]
 [[EventDataNonUniformity]]
 [[EventDrivenAutoregression]]
 [[EventDrivenDefenseMechanism]]

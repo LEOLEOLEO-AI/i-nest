@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[03 涌现：整体的能力不能还原回个体？ - 得到APP]]
 [[3DHI_Integration]]
+[[3d]]
 [[AI_Faculty_Forum_2026]]
 [[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
@@ -44,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[CoPoS]]
 [[Complex_System_Theory]]
 [[EnergyOptimizedManycoreArchitecture]]
+[[FlagScale_Training_Inference]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Midterm_Project_Review]]
@@ -53,7 +55,6 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Interconnect]]
 [[P_Paradigm]]
 [[TCC]]
-[[causal emergence]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

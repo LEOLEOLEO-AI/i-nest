@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveNetworkResilience]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[CST计量仪]]
+[[Causal_Emergence_Integration]]
 [[Cognitive_Relapse_Architecture]]
 [[Complex_System_Theory]]
 [[Contested_Priors_Mechanism]]

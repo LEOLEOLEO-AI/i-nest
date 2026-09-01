@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[ST_SNN]]
 [[SpikeCodingAdversarialPerturbation]]
 [[Spike_Event_Driven_Attention]]
+[[Spiking_Mamba_Block]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TemporalCodingForPointClouds]]

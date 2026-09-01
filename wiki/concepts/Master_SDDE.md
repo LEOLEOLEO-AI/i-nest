@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Crystallized_Neural_Manifolds]]
 [[Epithelial_Barrier_Integrity]]
 [[GenerativeTopologyModels]]
+[[Heterogeneous_Synaptic_Motifs]]
 [[In_Memory_Computing]]
 [[Intelligence_Emergence]]
 [[MacroscopicDescriptor]]

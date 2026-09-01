@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeTimingPreservation]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
+[[TemporalBatchSynchronization]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
 [[temporal coding]]

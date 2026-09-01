@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[DTGA]]
 [[DynamicServiceComposition]]
+[[EntanglementAwareRouting]]
 [[FPGA_Reconfigurability]]
 [[FatalityDrivenRewiring]]
 [[Free_Energy_Topology_Mapping]]

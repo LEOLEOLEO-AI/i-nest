@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[ParallelTemperingSNN]]
 [[PopulationDensityApproximation]]
+[[PowerLaw_Analysis]]
 [[SDDE_Attractor_Emergence]]
 [[SNN]]
 [[Spike_Encoding_of_fMRI]]

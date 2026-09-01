@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
+[[3d]]
 [[AI_Enabled_Battlefield_Autonomy]]
 [[AI_FullSpectrum_Strategy]]
 [[ANN_to_SNN_Conversion_Error_Amplification]]
@@ -35,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[CollectiveDynamics]]
 [[CriticalStateInformationMaximization]]
 [[CrossLayer_SignalRouting]]
+[[DirectTrainingSNN]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[EnergyEfficientNeuromorphic]]

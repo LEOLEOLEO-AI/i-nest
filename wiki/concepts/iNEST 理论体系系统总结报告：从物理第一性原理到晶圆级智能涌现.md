@@ -25,6 +25,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 
 ## Related Work
 
+[[3d]]
 [[CST计量仪]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -55,6 +56,9 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[getnote_2026-01-12_低功耗智能新范式]]
 [[getnote_2026-06-27_智能涌现理论框架]]
 [[iNEST]]
+[[iNEST_Theory]]
 [[智能涌现]]
 [[涌现]]
 [[神经形态计算]]
+[[神经网络]]
+[[科技丨据说互联网过时了！他的发明人准备造个新网络！ (1)]]

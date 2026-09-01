@@ -20,6 +20,8 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3d]]
+[[BrainInspired_Computing_Paradigm]]
 [[BurstInterleaving]]
 [[ContinualLearningOnNeuromorphic]]
 [[Efficient_Coding_Constraint]]

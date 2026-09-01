@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[ConsciousIntegration]]
 [[CrossDomain_Integration]]
 [[EdgeIoTEnergyAwareness]]
+[[Embodied_AI_Models]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[EnergyResourceEfficiencyCoOptimization]]

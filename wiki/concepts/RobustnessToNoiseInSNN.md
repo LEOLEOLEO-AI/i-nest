@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[TemporalBatchSynchronization]]
 [[ThresholdBasedSpikeEncoding]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]

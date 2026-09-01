@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[CorticalTypeDiversity]]
 [[Criticality]]
 [[DRBE_MVP_Mainchain]]
+[[DTGA]]
 [[EulaminateOverrepresentation]]
 [[Heterogeneous_Integration]]
 [[Less is more，大脑“低能耗”并“高效响应”的秘诀：模块化]]

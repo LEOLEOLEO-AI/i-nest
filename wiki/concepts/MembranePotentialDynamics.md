@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Ferroelectric_Synaptic_Devices]]
 [[Heterogeneous_Integration]]
 [[HigherOrderStochasticProcess]]
+[[InteractiveRoboticsLoop]]
 [[LIF_Neuron_Model]]
 [[LowBitSpikingPruning]]
 [[NUMA_Balancing_Interference]]

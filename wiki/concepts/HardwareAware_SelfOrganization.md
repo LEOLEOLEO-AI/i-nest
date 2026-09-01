@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_iNEST_Wafer]]
 [[OpticallyWritableAtomicVaporMemory]]
 [[P_Paradigm]]
+[[Package_Level_Interconnect]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[STDP_Plasticity]]

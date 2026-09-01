@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3D_IC_Stacking]]
+[[3d]]
 [[AI_Faculty_Forum_2026]]
 [[AI_Industrial_Ecosystem]]
 [[Allreduce_Latency_MVP]]
@@ -40,6 +41,8 @@ Auto-extracted concept from raw material compilation.
 [[DTGA]]
 [[DataProvenanceIntegrity]]
 [[Deep_Network_Architecture_Invariant]]
+[[EulaminateOverrepresentation]]
+[[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[Free_Energy_Topology_Mapping]]
 [[GenerativeTopologyModels]]

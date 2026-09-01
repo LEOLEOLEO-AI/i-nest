@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Allreduce_Latency_Probe]]
+[[AlternativeBridgingModels]]
 [[Architectural_Conditioning]]
 [[Bidirectional_Temporal_Enhancement]]
 [[DiscreteSTDP]]

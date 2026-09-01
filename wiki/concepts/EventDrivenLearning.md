@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenAsynchronousRouting]]
 [[EventDrivenInference]]
 [[EventDrivenRestoration]]
+[[EventDrivenSignalEncoding]]
 [[EventDrivenTracking]]
 [[Event_Driven_Architecture]]
 [[Event_Driven_Computation]]

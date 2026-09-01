@@ -487,7 +487,15 @@
       "file": "00_Inbox\\_pipeline_insights\\2026-08-29_arXiv_Beyond Edge Cuts Activity-Weighted Multicast Hypergraph Mapp.md",
       "discovered": "2026-08-29",
       "status": "pending_review"
+    },
+    {
+      "title": "Memristive-Friendly Hadamard Reservoir Computing: Structured, Multiplier-Free Recurrences at Scale",
+      "url": "http://arxiv.org/abs/2608.28295v1",
+      "relevance": 2,
+      "file": "00_Inbox\\_pipeline_insights\\2026-09-01_arXiv_Memristive-Friendly Hadamard Reservoir Computing Structured,.md",
+      "discovered": "2026-09-01",
+      "status": "pending_review"
     }
   ],
-  "last_updated": "2026-08-29T06:43:50.189270"
+  "last_updated": "2026-09-01T06:45:36.204357"
 }

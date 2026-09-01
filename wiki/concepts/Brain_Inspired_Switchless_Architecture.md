@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Precision_Configurable_ReCON]]
 [[SDPrompt_Guided_Dynamic_Expert_Fusion]]
+[[SDSoW_Interface_Standard]]
 [[StochasticVehicleRouting]]
 [[Strategic_CommsSupremacy]]
 [[Synaptic_Plasticity]]

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[CavityMethodAnalysis]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_NoC_Fabric]]
 [[Chiplet_Stacking]]
 [[Complex_System_Theory]]
 [[CrossbarArrayArchitecture]]

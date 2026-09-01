@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[AI人工智能 卷积神经网络（CNN）_w3cschool]]
 [[ANN动力学]]
 [[ActiveMatterSubstrate]]
+[[AdaptiveDensityControl]]
 [[Advanced_Computing_Project]]
 [[Alpha_Coefficient_Phase_Transition_Amplification]]
 [[Analog_InMemory_Processing]]

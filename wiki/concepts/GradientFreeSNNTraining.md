@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[HigherOrderSimplicialDynamics]]
 [[HodgkinHuxleyDynamics]]
+[[InSensorMemoryComputing]]
 [[InSitu_Compute]]
 [[In_Package_Neuromorphic_Integration]]
 [[Intelligence_Emergence]]

@@ -18,6 +18,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3DIntegratedPhotonicPackaging]]
+[[3d]]
 [[AI_Faculty_Forum_2026]]
 [[AI_Industrial_Ecosystem]]
 [[ANN动力学]]
@@ -50,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[DataProvenanceIntegrity]]
 [[Decoupled_Prior_States]]
 [[Decoupled_Priors]]
+[[Deep_Network_Architecture_Invariant]]
 [[EulaminateOverrepresentation]]
 [[Heterogeneous_Integration]]
 [[Memory_Wall]]

@@ -21,9 +21,13 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3DHI_Chiplet_Integration]]
+[[3d]]
 [[AI_Driven_Architecture_Search]]
 [[AI_Faculty_Forum_2026]]
+[[BoundaryObject_Abstraction]]
 [[CST_Intelligence_Emergence]]
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
 [[Emergent_Intelligence]]
 [[Intelligence_Emergence]]

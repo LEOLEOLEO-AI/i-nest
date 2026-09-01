@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3D_Integrated_Chiplet_Stacking]]
+[[3d]]
 [[AINext_Initiative]]
 [[AdaptiveArchitecture]]
 [[AdaptiveCombinerWeighting]]
@@ -41,8 +42,10 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[MacroCriticalityEmergence]]
+[[MeanFieldSpinGlass]]
 [[Nanoencapsulation_Stability_Bioavailability]]
 [[Network_Topology_Design]]
+[[Reservoir_Computing]]
 [[ScaleFreeAvalancheStatistics]]
 [[Self_Organized_Criticality]]
 [[TCC]]

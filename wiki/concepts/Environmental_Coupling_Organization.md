@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[ChipletOpticalIO]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration_Route]]
 [[CouplingTopologyMemoryLink]]
 [[Coupling_Topology]]
 [[Criticality]]

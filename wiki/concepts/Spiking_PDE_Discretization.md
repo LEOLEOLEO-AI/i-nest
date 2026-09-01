@@ -25,10 +25,13 @@ Auto-extracted concept from raw material compilation.
 [[DiscreteSTDP]]
 [[IntrinsicTimingSTDP]]
 [[NetworkDynamicalStabilization]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[PhaseLockedTopologyMapping]]
+[[STDP_Integration]]
 [[STDP_Plasticity]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 
 ## Sources

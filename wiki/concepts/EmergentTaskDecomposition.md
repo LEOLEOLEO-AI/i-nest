@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_SynergisticCoordination]]
 [[CST_Theory]]
 [[Complex_System_Theory]]
+[[Continual_Learning_Stability]]
 [[DendriticReservoirState]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]

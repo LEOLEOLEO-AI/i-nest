@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkNeuromorphicSimulation]]
 [[In_Network_Neuromorphic]]
 [[Intelligence_Emergence]]
+[[Loihi2_OnChip_Learning]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]

@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Contested_Prior_Conflict]]
 [[CorticalOrientationSelectivity]]
+[[Generative_Design_Frameworks]]
 [[Nonlinear_Gain]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]

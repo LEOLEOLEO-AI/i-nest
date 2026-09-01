@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[ComplexValuedSNN]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
+[[CurrentInjectionSNN]]
 [[Deep_SNN_Trainability]]
 [[DeeplySupervisedSpiking]]
 [[DrivenDissipativeDynamics]]

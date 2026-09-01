@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[NonHermitianSkinEffect]]
 [[NonvolatileChargeDomain]]
 [[OpenEndedDiscovery]]
+[[OpportunisticRoutingRL]]
 [[RecursiveSelfReferentialArchitecture]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]

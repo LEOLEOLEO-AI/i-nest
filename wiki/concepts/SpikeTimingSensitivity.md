@@ -34,6 +34,8 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Loihi2_SpikeEncoding]]
+[[Loihi]]
+[[LossSpikeMechanism]]
 [[Memristive_STDP]]
 [[MobilityEdge]]
 [[Network_Topology_Design]]

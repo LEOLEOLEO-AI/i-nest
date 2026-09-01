@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Faculty_Forum_2026]]
 [[Algorithmic_Warfare]]
 [[Bipartite_Interconnect]]
 [[Bipartite_Interconnect_Design]]
@@ -43,10 +44,12 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_Interconnect]]
 [[MobilityEdge]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
 [[NeuromorphicTransformerTopology]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[Neuromorphic_Packaging]]
+[[NoC]]
 [[NoC_EventRouting]]
 [[RealTimeClassification]]
 [[RelocationOverheadModel]]

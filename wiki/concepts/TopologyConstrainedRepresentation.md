@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Fractal_Multipartite_Entanglement]]
 [[GraphBasedSemanticRouting]]
 [[Heterogeneous_Integration]]
+[[ImaginaryGaugePhaseImprint]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

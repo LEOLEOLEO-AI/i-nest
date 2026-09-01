@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[PropertyPredictionModeling]]
 [[Quantum_Spin_Glass]]
 [[RecurrentSpikingTopology]]
 [[SDI_Bond]]

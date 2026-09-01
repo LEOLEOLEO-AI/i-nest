@@ -28,11 +28,13 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveSTDP]]
 [[AdaptiveSpeechToSpikeEncoding]]
 [[AnisotropicGaussianPrimitives]]
+[[Contested_Priors_Mechanism]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[STDP_Plasticity]]
 [[SpikeEncoding]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 
 ## Sources

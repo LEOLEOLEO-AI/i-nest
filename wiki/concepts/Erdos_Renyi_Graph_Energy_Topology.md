@@ -38,7 +38,9 @@ Auto-extracted concept from raw material compilation.
 [[Biologically_Plausible_Learning_Rules]]
 [[BrownianCastleInterface]]
 [[BurstTemporalPlasticity]]
+[[CriticalityDrivenAdaptation]]
 [[Network_Topology_Design]]
+[[Synaptic_Plasticity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

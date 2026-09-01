@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveArchitecture]]
 [[AdaptiveCompetingInteractions]]
 [[AdaptiveFunctionalTopology]]
+[[AmoebaInspiredLocomotion]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Topology]]

@@ -28,7 +28,10 @@ Auto-extracted concept from raw material compilation.
 [[BrainScaleTopologyExploitation]]
 [[Brain_Dynamics_Learning]]
 [[BranchingRatioControl]]
+[[BranchingRatio]]
 [[CavityMethodAnalysis]]
+[[DTGA]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 
 ## Sources

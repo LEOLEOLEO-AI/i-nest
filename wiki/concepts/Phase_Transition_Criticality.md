@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityConstrainedPruning]]
 [[CriticalityDrivenStateTransition]]
 [[Criticality]]
+[[DeepLinearNetworkCriticality]]
 [[Interconnect_Routing]]
 [[MoE_Routing]]
 [[SNN]]

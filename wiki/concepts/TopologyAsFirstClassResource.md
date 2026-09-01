@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Interconnect_Topology]]
+[[ModelToChipCompilation]]
 [[Network_Topology_Design]]
 [[RTC_Primitive]]
 [[RTC_Primitives]]

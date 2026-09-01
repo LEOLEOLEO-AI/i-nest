@@ -44,14 +44,18 @@ Auto-extracted concept from raw material compilation.
 [[Persistent_Homology_Neuron]]
 [[ReconfigurableSNN_Accelerator]]
 [[Reconfigurable_Neuromorphic_Acceleration]]
+[[SDI_Bond]]
 [[SDI_iNEST_Interconnect]]
 [[SNN]]
 [[Self_Organized_Criticality]]
+[[SpikeEventDrivenInference]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[TopologyDrivenCascade]]
 [[Topology_Aware_Spike_Routing]]
 [[Workload_Layered_Architecture]]
+[[iNEST]]
+[[iNEST_Interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

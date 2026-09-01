@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AINext_Initiative]]
 [[ActivityAvalanche]]
+[[Activity_Dependent_Plasticity]]
 [[AddressRedundancyElimination]]
 [[Agent_Interaction_Sequencing]]
 [[Allreduce_Latency_Probe]]

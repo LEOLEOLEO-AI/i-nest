@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_CoordinationMechanism]]
 [[C__elegans_Connectome]]
 [[C_elegansConnectomeAnalogy]]
+[[Causal_Emergence]]
 [[ChaoticAttractorTopology]]
 [[Combinatorial_Optimization_Readout]]
 [[Complex_System_Theory]]
@@ -45,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[HierarchicalModularReservoirs]]
 [[In_Context_Learning]]
 [[Intelligence_Emergence]]
+[[Master_SDDE]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
@@ -52,7 +54,6 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[Swarm_Coordination]]
-[[causal emergence]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

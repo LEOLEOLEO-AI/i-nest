@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3D_IC_Stacking]]
+[[3d]]
 [[AI_Faculty_Forum_2026]]
 [[BigBrainCellularAxis]]
 [[CST_SynergisticCoordination]]
@@ -52,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[Swarm_Coordination]]
 [[TCC]]
 [[TSVEncapsulationStress]]
+[[TemporalBatchSynchronization]]
 [[VerticalOpticalInterconnect]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]

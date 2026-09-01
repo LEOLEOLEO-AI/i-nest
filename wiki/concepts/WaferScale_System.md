@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[NoC_Chiplet_iNEST_Wafer]]
+[[NoC_SDI]]
 [[TCC]]
 [[VLSI_CrossbarIntegration]]
 [[Wafer_Scale_Integration]]

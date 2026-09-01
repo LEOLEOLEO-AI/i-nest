@@ -10,7 +10,7 @@ auto: true
 
 **Domain**: TCC
 **First mentioned**: auto-extracted
-**Last updated**: 2026-08-31
+**Last updated**: 2026-09-02
 
 ## Definition
 拓涌脉 is an ontology-level computing paradigm that treats sensing, transmission, storage, and computation as an organically co-located whole rather than physically separated components. It reframes TCC as a life-like interconnected architecture, making the elimination of data-movement overhead the central design principle.
@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[3DHI_Chiplet_Integration]]
 [[3DHI_Integration]]
+[[3d]]
 [[AI_Faculty_Forum_2026]]
 [[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
@@ -31,6 +32,9 @@ Auto-extracted concept from raw material compilation.
 [[BoundaryObject_Abstraction]]
 [[ByteDance_Ada_Chip]]
 [[CST计量仪]]
+[[Causal_Emergence_Architecture]]
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
 [[TCC]]
 

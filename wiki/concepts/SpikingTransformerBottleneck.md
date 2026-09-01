@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[ReSCom_Accelerator]]
 [[Recurrent_Network_Homeostasis]]
 [[SNN]]
+[[ScalableSNN_GPU_Training]]
 [[SpikingTransformer]]
 [[Spiking_Neural_Network]]
 [[iNEST]]

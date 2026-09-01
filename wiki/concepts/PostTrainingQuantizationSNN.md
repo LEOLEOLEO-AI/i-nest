@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveDendriteSNN]]
 [[ActiveInference]]
 [[AdaptiveAsymmetricSurrogateGradient]]
+[[Adaptive_Replication_Strategy]]
 [[AddressRedundancyElimination]]
 [[AmoebaInspiredLocomotion]]
 [[Avoided_Criticality]]

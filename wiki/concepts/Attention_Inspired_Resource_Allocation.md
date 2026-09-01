@@ -22,14 +22,21 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Faculty_Forum_2026]]
 [[Accessibility_Plasticity]]
+[[Attention_Residuals]]
 [[Defense_Industrial_Base_Reshaping]]
+[[Memristor]]
 [[Memristor_Interconnect]]
+[[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
 [[RuntimeTopologyMapping]]
+[[SDI_Bond]]
 [[SDI_iNEST_Interconnect]]
 [[ScalableNeuromorphicTopology]]
+[[Synaptic_Plasticity]]
+[[iNEST]]
+[[iNEST_Interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -23,6 +23,7 @@ SDI, chiplet, iNEST, 互连, 封装, 晶圆
 
 ## Related Concepts
 
+[[3d]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[DARPA_ERI]]

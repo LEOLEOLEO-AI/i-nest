@@ -41,6 +41,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[EmergentOrder]]
 [[FPGA_Prototype_Validation]]
 [[Heterogeneous_Integration]]
+[[HodgkinHuxleyDynamics]]
 [[Intelligence_Emergence]]
 [[Memory_Wall]]
 [[Memristive_STDP]]

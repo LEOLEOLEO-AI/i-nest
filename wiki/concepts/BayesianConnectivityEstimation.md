@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[MagneticOrderTopologyCoupling]]
 [[Network_Topology_Design]]
 [[Path_State_Awareness]]
+[[PhotonicSynapticPlasticity]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Self_Organized_Criticality]]
 [[Synaptic_Plasticity]]

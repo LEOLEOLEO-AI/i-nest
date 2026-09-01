@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[DataDrivenCytoarchitectonicAxis]]
 [[NestedRepresentation]]
 [[Network_Topology_Design]]
+[[NonlinearDynamicsInMetamaterials]]
 [[Nonlinear_Gain]]
 [[ReproducibleReservoirDynamics]]
 [[ReservoirDynamics]]

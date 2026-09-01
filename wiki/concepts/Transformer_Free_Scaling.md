@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[BigBrainCellularAxis]]
 [[BoundaryObject_Abstraction]]
+[[FPGA_Neuromorphic_Architectures]]
 [[Interconnect_Routing]]
 [[Memristor]]
 [[Memristor_Synapse]]

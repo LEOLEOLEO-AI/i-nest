@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AlternativeBridgingModels]]
 [[AnomalousSpinTransport]]
 [[CirculateFiringNeuron]]
 [[Contested_Prior_Resolution]]

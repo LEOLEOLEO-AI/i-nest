@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Roadmap]]
 [[Emergent_Intelligence_Threshold]]
 [[EnsembleSparsity]]
+[[Fixed_Cost_Dominance]]
 [[FlexibilityThreshold]]
 [[GutBrainAxis_Reprogramming]]
 [[Gut_Brain_Immune_Network]]

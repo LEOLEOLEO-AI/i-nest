@@ -22,3 +22,13 @@ refs: 6
 
 
 _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
+
+## Related Work
+
+[[CST_Theory]]
+[[Complex_System_Theory]]
+[[TCC]]
+[[catastrophic forgetting]]
+[[iNEST]]
+[[scaling laws]]
+[[temporal coding]]

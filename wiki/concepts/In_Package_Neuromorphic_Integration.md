@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AIRA_NeuralArchSearch]]
 [[AI_Faculty_Forum_2026]]
+[[Advanced_Packaging]]
 [[Architectural_Conditioning]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Chiplet]]
@@ -50,7 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]
-[[advanced packaging]]
+[[Yann LeCun：发现智能原理是AI的终极问题]]
 [[iNEST]]
 [[在 FPGA 上实现并行脉冲神经网络（Spiking Neural Net）]]
 [[忆阻器]]

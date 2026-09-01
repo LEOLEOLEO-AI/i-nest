@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[ActionPrototypeClustering]]
 [[AdjustableDynamics]]
 [[Analog_Synaptic_Behavior]]
+[[Autonomous_Spiking_Dynamics]]
 [[FeNN_DMA]]
 [[Neuromorphic_Computing]]
 [[SOC]]

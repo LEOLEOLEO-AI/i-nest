@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
+[[Neural_Avalanche]]
 [[Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]
 [[ReSCom_Accelerator]]

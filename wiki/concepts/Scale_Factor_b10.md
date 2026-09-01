@@ -26,10 +26,19 @@ Auto-extracted concept from raw material compilation.
 [[156QubitScale]]
 [[20W_Brain_Inspired_Planning]]
 [[3D_Integrated_Chiplet_Stacking]]
+[[3d]]
 [[AI-ML — 全景导航 (Map of Content)]]
 [[AI4PDE｜综述·论文推荐 08｜物理信息神经网络在偏微分方程问题中的应用：全面综述]]
+[[Analog_InMemory_Processing]]
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Stacking]]
+[[Complex_System_Theory]]
 [[Network_Topology_Design]]
+[[SDI_Bond]]
+[[SDI节点接口规范与化合键定义]]
 [[iNEST]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -56,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[PhysicalWaferTriplet]]
 [[RecursiveSelfReferentialArchitecture]]
 [[RedundantMapping_FaultDetection]]
+[[SDSoW_Reconfigurable_Network]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[WaferScaleChipletIntegration]]

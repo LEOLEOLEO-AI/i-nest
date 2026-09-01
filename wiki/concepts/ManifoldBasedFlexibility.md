@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[Biologically_Plausible_Learning_Rules]]
 [[BoundaryObject_Abstraction]]
+[[BurstGatedRouting]]
 [[Closed_Loop_Neuromodulation]]
 [[CognitiveTaskonomy]]
 [[ContinuousGameOfLife]]

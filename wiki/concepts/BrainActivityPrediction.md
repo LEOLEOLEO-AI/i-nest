@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor]]
 [[Memristor_Network]]
 [[Memristor_Synapse]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[Multifractal_Signatures]]
 [[National_Innovation_Center_Role]]
 [[Neuromorphic_Computing]]

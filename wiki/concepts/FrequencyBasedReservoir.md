@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[JointEmbeddingPredictiveArchitecture]]
 [[Microbiome_Immune_Endocrine_Interplay]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Chiplet]]

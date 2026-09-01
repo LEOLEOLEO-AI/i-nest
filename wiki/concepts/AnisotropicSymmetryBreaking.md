@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Brain_Inspired_Switchless_Architecture]]
 [[CirculateFiringNeuron]]
 [[CognitiveFeedbackLoop]]
+[[Collective_State_Convergence]]
 [[CompetitiveEdgeRewiring]]
 [[Complex_System_Theory]]
 [[Cryogenic_Syndrome_Compression]]

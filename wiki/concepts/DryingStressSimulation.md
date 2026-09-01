@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[BurstTemporalPlasticity]]
 [[DiscreteSTDP]]
+[[EEGSpikeEncoding]]
 [[EventCameraPoseInput]]
 [[EventCameraTemporalEncoding]]
 [[EventDrivenSynchronization]]

@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
+[[PhysicalReservoirDynamics]]
 [[PhysicalReservoir]]
 [[Physical_Reservoir_Substrate]]
 [[ReproducibleReservoirComputing]]

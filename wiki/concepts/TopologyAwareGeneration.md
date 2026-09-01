@@ -42,6 +42,9 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Intelligent_Power_Management]]
 [[JunctionCenteredFramework]]
+[[Memristor]]
+[[Memristor_Synapse]]
+[[Memristor_Topology]]
 [[Memristor_Topology_Coupling]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[NCL神经计算定律详解]]
@@ -57,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologicalAndersonChernInsulator]]
 [[complex system]]
 [[iNEST]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

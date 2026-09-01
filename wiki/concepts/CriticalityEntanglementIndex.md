@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[SelfOrganization]]
+[[SelfOrganizedCriticalityConsciousness]]
 [[SelfOrganizedRobustness]]
 [[Self_Organized_Criticality]]
 [[SuperparamagneticSwitchingRate]]

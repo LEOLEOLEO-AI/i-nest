@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[Neural_Manifold_Embedding]]
 [[Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]
+[[Passive_BCI_Neurofeedback]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Spiking_Neural_Network]]
 [[TopologicalAndersonChernInsulator]]

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[HodgkinHuxleyDynamics]]
 [[Loihi2_SpikeEncoding]]
+[[Loihi]]
 [[Memory_Wall]]
 [[Memristive_STDP]]
 [[Memristor]]
@@ -62,6 +63,7 @@ Auto-extracted concept from raw material compilation.
 [[VonNeumann_Complexity_Threshold]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
 [[神经网络]]
 

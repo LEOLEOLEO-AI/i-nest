@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[OptimalRepresentation]]
 [[OptimalRepresentations]]
 [[RecursiveSelfReferentialArchitecture]]
+[[ReliabilityOverheadTradeoff]]
 [[SDI_Bond]]
 [[SDI_TCC_iNEST_Interconnect]]
 [[SDSoW]]

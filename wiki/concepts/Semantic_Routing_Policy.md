@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[Package_Level_Interconnect]]
 [[PacketRoutingForFPGAs]]
+[[PhysicallyInformedDeepLearning]]
 [[RedundancyControlledStochasticRouting]]
 [[ScalableNeuromorphicTopology]]
 [[TCC]]

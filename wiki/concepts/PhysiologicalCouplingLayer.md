@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[DiscreteContinuous_Unification]]
 [[FormalLinguisticCompetence]]
+[[HierarchicalBayesianCommunityDetection]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Planning_Architecture]]
 [[NoiseDrivenBackpropReconstruction]]

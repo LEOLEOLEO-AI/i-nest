@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3DHI_Interconnect]]
+[[3d]]
 [[4H_SiC_SubstrateProcessing]]
 [[AI_FullSpectrum_Strategy]]
 [[ASIC_Dualism]]
@@ -46,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC]]
 [[NoC_Interconnect]]
 [[NoC_SDI]]
+[[NoC_SDI_Chiplet]]
 [[NoC_SDI_Topology]]
 [[OpticalNetworkOnChip]]
 [[SDI_Bond]]

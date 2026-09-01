@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[DelayCodedWorkingMemory]]
 [[DynamicTokenSparsity]]
 [[Edge_Neuromorphic_Compute]]
+[[EnergyEfficientRestoration]]
 [[EventDrivenTemplateUpdate]]
 [[Event_Driven_Architecture]]
 [[FunctionalEnsembleComputation]]

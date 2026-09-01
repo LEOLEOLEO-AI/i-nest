@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalBrainGraphEmbedding]]
 [[GraphBasedSemanticRouting]]
 [[Interconnect_Routing]]
+[[MatrixShapePhaseTransition]]
 [[MemoryDrivenRouting]]
 [[Memristive_Interconnect]]
 [[Memristor]]

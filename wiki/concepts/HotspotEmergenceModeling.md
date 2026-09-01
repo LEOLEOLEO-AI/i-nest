@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[CertifiedBifurcationDetection]]
 [[CoexistencePhaseDiagram]]
 [[Contested_Priors_Mechanism]]
+[[CoupledOscillatorReservoir]]
 [[Coupling_Strength_Encoding]]
 [[CriticalFixedPoint]]
 [[DendriticReservoirState]]

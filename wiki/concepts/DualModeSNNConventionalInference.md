@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[GradientBasedSpikeLearning]]
 [[InNetworkEntropyProbe]]
 [[Interconnect_Routing]]
+[[LocalInteractionDrivenReconfiguration]]
 [[Local_Approximation_Dynamics]]
 [[LossSpikePhenomenon]]
 [[Neuromorphic_Computing]]

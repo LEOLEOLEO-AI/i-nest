@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[Accessibility_Plasticity]]
 [[BigBrainCellularAxis]]
+[[CrossbarArrayVLSI]]
 [[DTGA]]
 [[Decoupling_Mechanism]]
 [[Free_Energy_Topology_Mapping]]

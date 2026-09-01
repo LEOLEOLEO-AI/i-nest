@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[ExtensiveWidthShallowNN]]
 [[Heterogeneous_Synaptic_Motifs]]
 [[Hyper_Dimensional_Computing]]
+[[IntegratedSensingFusion]]
 [[Intelligence_Emergence]]
 [[Langevin_Dynamics_Convergence]]
 [[MeanFieldSpinGlass]]

@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Epithelial_Barrier_Integrity]]
 [[Heterogeneous_Synaptic_Motifs]]
 [[Hyper_Dimensional_Computing]]
+[[IntegratedSensingFusion]]
 [[Intelligence_Emergence]]
 [[MeanFieldSpinGlass]]
 [[Memristive_Device_Threats]]

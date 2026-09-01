@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration_Roadmap]]
 [[Heterogeneous_Integration_Roadmap_HIR]]
 [[InNetworkAgentRewiring]]
+[[IntegratedSensingFusion]]
 [[Intelligence_Emergence]]
 [[InterconnectAwareGradientAggregation]]
 [[MeanFieldSpinGlass]]

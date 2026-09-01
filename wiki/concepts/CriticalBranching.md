@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality_Based_Feature_Extraction]]
 [[DynamicTokenSparsity]]
 [[Dynamic_Expert_Fusion]]
+[[Edge_Neuromorphic_Compute]]
 [[Edge_of_Chaos]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
