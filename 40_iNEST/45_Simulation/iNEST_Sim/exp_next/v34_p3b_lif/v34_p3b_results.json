@@ -1,0 +1,80 @@
+{
+  "experiment": "v34_p3b_lif",
+  "date": "2026-09-02",
+  "improvement": "P3-B: LIF替代binary spike，Θ从膜电位自相关自然涌现",
+  "sim_params": {
+    "T_total_s": 5.0,
+    "dt_ms": 0.5,
+    "n_steps": 10000,
+    "N_neurons": 281,
+    "active_neurons": 185,
+    "firing_rate_Hz": 15.206000328063965
+  },
+  "Sc": 0.8339,
+  "Sc_detail": {
+    "C": 1.0,
+    "H": 1.0,
+    "M": 0.4951,
+    "Rsw": 0.9769,
+    "sigma": 5.447
+  },
+  "Tc": 0.5232,
+  "Tc_detail": {
+    "kappa": 1.0224,
+    "lambda_eff": 0.9778,
+    "FC_CV_randi": 0.9051,
+    "Phi": 0.7188,
+    "ratio_Psi": 1.2675,
+    "Psi": 0.8531,
+    "tau_ms_min": 10.0,
+    "tau_ms_max": 130.0,
+    "tau_ms_mean": 13.53,
+    "H_tau": 0.2877,
+    "H_max": 2.3026,
+    "Theta": 0.1249,
+    "n_active": 185,
+    "n_taus": 184,
+    "Theta_source": "LIF膜电位自相关τ（物理第一性，Bhatt2022 τ_m, S1）"
+  },
+  "Gst": 0.1075,
+  "Gst_detail": {
+    "AMI": 0.11336,
+    "Ms_n_comm": 6,
+    "MT_n_comm": 9,
+    "MT_edges": 724,
+    "common_nodes": 145,
+    "MT_source": "Randi 2023 Nature 623:406 (S1)"
+  },
+  "alpha": 2.5649,
+  "CST": 0.5749,
+  "level": "L0-反射弧",
+  "baseline_v32": {
+    "Sc": 0.7652,
+    "Tc": 0.4441,
+    "Gst": 0.0251,
+    "CST": 0.3624,
+    "level": "L0"
+  },
+  "p1_only": {
+    "Sc": 0.7652,
+    "Tc": 0.4441,
+    "Gst": 0.1096,
+    "CST": 0.4501,
+    "level": "L0"
+  },
+  "p3a_literary": {
+    "Sc": 0.835,
+    "Tc": 0.7706,
+    "Gst": 0.1096,
+    "CST": 0.8522,
+    "level": "L1"
+  },
+  "p3b_lif": {
+    "Sc": 0.8339,
+    "Tc": 0.5232,
+    "Gst": 0.1075,
+    "CST": 0.5749,
+    "level": "L0-反射弧"
+  },
+  "wall_time_s": 1.1
+}
