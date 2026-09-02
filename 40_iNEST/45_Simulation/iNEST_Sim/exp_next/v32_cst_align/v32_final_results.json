@@ -1,0 +1,74 @@
+{
+  "experiment": "v32-Final",
+  "principle": "公式正确+数据真实+如实报告，不以论文数值为参考",
+  "date": "2026-09-02",
+  "data": {
+    "source": "White 1986 C.elegans 化学突触",
+    "csv": "/home/work/.openclaw/workspace/10_Knowledge/专题归档/05_Datasets_仿真与实验数据/Simulation_Results/aconnectome_white_1986_whole.csv",
+    "n_nodes": 281,
+    "n_edges": 2075,
+    "n_active_neurons": 281
+  },
+  "parameters": {
+    "alpha": 2.5649,
+    "alpha_src": "ln(M_eff=13)，Strong 1998 Science（M_eff=13 待原文核实，S4级）",
+    "Gamma0": 1.05,
+    "Gamma0_src": "E1 标定 2026-09-01",
+    "NOISE_PROB": 0.02,
+    "NOISE_src": "Shadlen & Newsome 1998 J.Neurosci. 18:3870",
+    "INH_THRESH": 0.2,
+    "INH_src": "White 1986 C.elegans E/I ~80:20"
+  },
+  "results": {
+    "Sc_init": 0.835,
+    "Sc_init_components": {
+      "C": 1.0,
+      "H": 1.0,
+      "M": 0.4977,
+      "Rsw": 0.9769,
+      "sigma": 5.447,
+      "Q_raw": 0.5087
+    },
+    "Sc": 0.7652,
+    "Sc_components": {
+      "C": 1.0,
+      "H": 1.0,
+      "M": 0.351,
+      "Rsw": 0.9769,
+      "sigma": 5.447,
+      "Q_raw": 0.3653
+    },
+    "Tc": 0.4441,
+    "Tc_components": {
+      "kappa": 1.0,
+      "lambda_eff": 1.0,
+      "Phi_CV": 2.1273,
+      "Phi": 0.972,
+      "Psi_ratio": 2.7959,
+      "Psi": 0.9926,
+      "H_tau": 0.0928,
+      "Theta": 0.0403,
+      "n_active": 281,
+      "n_taus": 269
+    },
+    "Gamma_st": 0.0251,
+    "Gamma_st_components": {
+      "AMI": 0.02635,
+      "n_active": 279,
+      "Ms_n_comm": 6,
+      "MT_n_comm": 9,
+      "Gamma0": 1.05
+    },
+    "alpha": 2.5649,
+    "CST": 0.3624,
+    "level": "L0 反射（CST < 1/√2）"
+  },
+  "audit": {
+    "Phi_归一化": "tanh(CV)，标准函数，无截断损失",
+    "Psi_归一化": "tanh(std/mean)，标准函数，无截断损失",
+    "Theta_低原因": "二值spike离散仿真τ≈1，是真实上限非错误",
+    "Gamma_st_低原因": "500步STDP演化尚未使功能社区与结构社区对齐，是真实观测",
+    "alpha_状态": "M_eff=13 来源待原文核实，级别S4"
+  },
+  "elapsed_s": 7.3
+}
