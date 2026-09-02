@@ -1,0 +1,80 @@
+{
+  "experiment": "v33_p3_real_tau",
+  "date": "2026-09-02",
+  "improvement": "P3: Θ替换为文献实测τ分布 (Schrodel2013+Kato2015+Nguyen2016)",
+  "Sc": 0.835,
+  "Sc_detail": {
+    "N": 281,
+    "E": 2075,
+    "C": 1.0,
+    "H": 1.0,
+    "M": 0.4977,
+    "Rsw": 0.9769,
+    "sigma": 5.447,
+    "Q_raw": 0.5087,
+    "k_max": 10
+  },
+  "Tc": 0.7706,
+  "Tc_detail": {
+    "kappa": 0.4146,
+    "lambda_eff": 0.7765,
+    "FC_CV": 0.9051,
+    "Phi": 0.7188,
+    "ratio_EI": 0.9051,
+    "Psi": 0.7188,
+    "tau_sec_min": 0.629,
+    "tau_sec_max": 6.921,
+    "tau_sec_mean": 2.774,
+    "taus_steps_range": [
+      3,
+      28
+    ],
+    "H_tau": 2.024,
+    "H_max": 2.3026,
+    "Theta": 0.879,
+    "tau_source": "Schrodel2013+Kato2015+Nguyen2016 (文献实测, S1/S2)",
+    "n_neurons": 281
+  },
+  "Gst": 0.1096,
+  "Gst_detail": {
+    "AMI": 0.1155,
+    "Ms_n_comm": 5,
+    "MT_n_comm": 9,
+    "MT_nodes": 164,
+    "MT_edges": 724,
+    "common_nodes": 145,
+    "MT_source": "Randi 2023 Nature 623:406 (S1)"
+  },
+  "alpha": 2.5649,
+  "CST": 0.8522,
+  "level": "L1-信号整合",
+  "baseline_v32_Final": {
+    "Sc": 0.7652,
+    "Tc": 0.4441,
+    "Gst": 0.0251,
+    "CST": 0.3624,
+    "level": "L0"
+  },
+  "p1_only": {
+    "Sc": 0.7652,
+    "Tc": 0.4441,
+    "Gst": 0.1096,
+    "CST": 0.4501,
+    "level": "L0"
+  },
+  "p1_p3_combined": {
+    "Sc": 0.835,
+    "Tc": 0.7706,
+    "Gst": 0.1096,
+    "CST": 0.8522,
+    "level": "L1-信号整合"
+  },
+  "sources_levels": {
+    "Sc": "S1(Varshney2011)",
+    "Tc_Phi_Psi": "S1(Randi2023)",
+    "Tc_Theta": "S1/S2(Kato2015+Schrodel2013+Nguyen2016)",
+    "Gst": "S1(Randi2023)",
+    "alpha": "⚠️待核实(P4)"
+  },
+  "note_alpha": "α=ln(13)暂用，Strong1998→M_eff≈8→ln(8)=2.08，Brenner2000→M_eff≈16→ln(16)=2.77，待P4核实"
+}
