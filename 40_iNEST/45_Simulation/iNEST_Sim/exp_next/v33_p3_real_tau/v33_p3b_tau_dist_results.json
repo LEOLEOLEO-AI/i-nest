@@ -1,0 +1,99 @@
+{
+  "experiment": "v33_p3b_tau_distribution",
+  "date": "2026-09-02",
+  "improvement": "P3-A方案B: 逐神经元LogNormal τ采样 + Freedman-Diaconis bins",
+  "tau_sampling": {
+    "sensory": {
+      "frac": 0.32,
+      "mean_s": 0.6,
+      "std_s": 0.2,
+      "ref": "Schrodel 2013 Nat.Methods 10:1013",
+      "level": "S2"
+    },
+    "interneuron": {
+      "frac": 0.45,
+      "mean_s": 3.5,
+      "std_s": 1.5,
+      "ref": "Kato 2015 Cell 163:656 Fig.3",
+      "level": "S1"
+    },
+    "motor": {
+      "frac": 0.23,
+      "mean_s": 1.8,
+      "std_s": 0.8,
+      "ref": "Nguyen 2016 PNAS 113:E1074",
+      "level": "S2"
+    }
+  },
+  "tau_distribution": {
+    "n_neurons": 281,
+    "tau_min_s": 0.243,
+    "tau_max_s": 15.0,
+    "tau_mean_s": 2.219,
+    "tau_cv": 0.823,
+    "fd_bins": 19
+  },
+  "Sc": 0.835,
+  "Sc_detail": {
+    "C": 1.0,
+    "H": 1.0,
+    "M": 0.4977,
+    "Rsw": 0.9769,
+    "sigma": 5.447
+  },
+  "Tc": 0.7711,
+  "Tc_detail": {
+    "lambda_eff": 0.9048,
+    "lambda_src": "结构近似(k_max核心层, Shew2013)",
+    "CV_randi": 0.9051,
+    "Phi": 0.7188,
+    "Phi_src": "Randi 2023 Nature 623:406 (S1)",
+    "r_Psi": 1.2887,
+    "Psi": 0.8588,
+    "Psi_src": "Randi 2023 上下三角不对称性代理",
+    "Theta": 0.633,
+    "Theta_detail": {
+      "n_bins": 19,
+      "H_tau": 1.8637,
+      "H_max": 2.9444,
+      "tau_min_s": 0.243,
+      "tau_max_s": 15.0,
+      "tau_mean_s": 2.219,
+      "tau_cv": 0.823,
+      "n_neurons": 281,
+      "bins_rule": "Freedman-Diaconis (Scott 1979 Biometrika 66:605)"
+    },
+    "Theta_src": "方案B: 逐神经元τ(Schrodel2013+Kato2015+Nguyen2016), F-D bins"
+  },
+  "Gst": 0.1096,
+  "Gst_detail": {
+    "AMI": 0.1155,
+    "Ms_n": 5,
+    "MT_n": 9,
+    "source": "Randi 2023 Nature 623:406 (S1)"
+  },
+  "alpha": 2.5649,
+  "CST": 0.8528,
+  "level": "L1",
+  "baselines": {
+    "v32_final": {
+      "Θ": 0.04,
+      "bins": 1,
+      "Tc": 0.4441,
+      "CST": 0.3624
+    },
+    "p3a_v1": {
+      "Θ": 0.879,
+      "bins": 3,
+      "Tc": 0.7706,
+      "CST": 0.8522
+    },
+    "p3a_v2_this": {
+      "Θ": 0.633,
+      "bins": 19,
+      "Tc": 0.7711,
+      "CST": 0.8528
+    }
+  },
+  "wall_time_s": 0.35
+}
