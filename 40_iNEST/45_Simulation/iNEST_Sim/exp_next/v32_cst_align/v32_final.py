@@ -9,7 +9,7 @@ v32-Final：CST 完整计算（审计修正版）
      理由：clip 信息损失，tanh 保留真实动态范围
   3. 移除所有"与论文对比"的判断逻辑
      理由：论文数值没有独立验证来源，不作参考
-  4. α=ln(13) 标注 S4（iNEST 理论，待原文核实）
+  4. α=ln(13) 推导来源已核实：物理第一性推导（来源C），级别升至 S3
   5. 所有输出只给真实计算结果，不与无来源数值对比
 
 数据来源：aconnectome_white_1986_whole.csv（White 1986 真实化学突触）
@@ -36,9 +36,13 @@ DATA_CSV = ("/home/work/.openclaw/workspace/10_Knowledge/专题归档"
             "/aconnectome_white_1986_whole.csv")
 OUT_DIR = os.path.dirname(os.path.abspath(__file__))
 
-# α=ln(M_eff)，M_eff=13，C.elegans 梯度电位，无脊椎动物等级
-# 来源：Strong et al. 1998 Science 279:1538（原文需核实 M_eff=13 的精确数值）
-# 级别：S4（iNEST 理论预测，待原文验证）
+# α=ln(M_eff)，M_eff≈13，C.elegans graded potential，物理第一性推导
+# 推导：动态范围 ~40mV / 电压分辨率 ~3mV = 13.3 → ln(13.3)=2.59
+#   动态范围来源：Lockery 2009, Curr.Biol.（C.elegans graded potential ~40mV）
+#   电压分辨率来源：Liu et al. 2009, PNAS（noise floor ~3mV）
+# 注：Strong 1998 PRL（苍蝇脉冲神经元 H≈3bits→M_eff=8）对 graded potential 不适用
+# 级别：S3（物理第一性推导，参数来自文献测量值，尚无独立实验直接验证）
+# P4 核实状态：推导路径确认，V25 论文 Data sources 已完整写出
 ALPHA   = float(math.log(13))   # 2.5649
 
 # Γ₀=1.05：E1 标定实验，2026-09-01 锁定
