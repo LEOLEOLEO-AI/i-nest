@@ -1,0 +1,68 @@
+{
+  "experiment": "v32-R_cst_full",
+  "version": "修订版，含Shadlen噪声驱动，Tc完整四分量",
+  "date": "2026-09-02",
+  "n_nodes": 281,
+  "n_edges": 2075,
+  "n_steps": 500,
+  "n_active_neurons": 281,
+  "firing_rate": 0.1993,
+  "params": {
+    "alpha": 2.5649,
+    "alpha_src": "ln(13), Strong 1998",
+    "Gamma0": 1.05,
+    "Gamma0_src": "E1 calibration 2026-09-01",
+    "NOISE_PROB": 0.02,
+    "NOISE_src": "Shadlen & Newsome 1998 J.Neurosci 18:3870",
+    "INH_THRESH": 0.2,
+    "INH_src": "White 1986 C.elegans E/I 80:20"
+  },
+  "results": {
+    "Sc_init": 0.835,
+    "Sc_init_components": {
+      "C": 1.0,
+      "H": 1.0,
+      "M": 0.4977,
+      "Rsw": 0.9769,
+      "sigma": 5.447
+    },
+    "Sc": 0.7652,
+    "Sc_components": {
+      "C": 1.0,
+      "H": 1.0,
+      "M": 0.351,
+      "Rsw": 0.9769,
+      "sigma": 5.447
+    },
+    "Tc": 0.3132,
+    "Tc_components": {
+      "kappa": 1.0,
+      "lambda_eff": 1.0,
+      "Phi": 0.9628,
+      "Psi": 1.0,
+      "Theta": 0.01,
+      "n_active": 281,
+      "n_taus": 72
+    },
+    "Gamma_st": 0.0251,
+    "Gamma_st_components": {
+      "AMI": 0.02635,
+      "n_active": 279,
+      "Ms_n_comm": 6,
+      "MT_n_comm": 9,
+      "Gamma0": 1.05
+    },
+    "alpha": 2.5649,
+    "CST": 0.2556,
+    "level": "L0 反射"
+  },
+  "reference": {
+    "Sc": 0.616,
+    "Tc": 0.58,
+    "Gamma_st": 0.17,
+    "alpha": 2.56,
+    "CST": 0.4107
+  },
+  "elapsed_s": 7.2,
+  "integrity": "所有连接来自真实CSV；参数有生物/物理来源；如实报告，不调参"
+}
