@@ -108,6 +108,24 @@ def recompute_with_real_tau(name, tau_params, alpha, alpha_src,
     return r
 
 
+# α 来源（物理第一性推导，各物种）
+ALPHA_PARAMS = {
+    "Drosophila larval CNS": {
+        "Meff": 16,
+        "alpha": math.log(16),
+        "src": "Brenner 2000 Neuron 26:695 S1（昆虫H1神经元，M_eff≈16）",
+        "doi": "10.1016/S0896-6273(00)81205-2",
+        "note": "旧值ln(32)无文献来源，废弃",
+    },
+    "Macaque cortex": {
+        "Meff": 16,
+        "alpha": math.log(16),
+        "src": "Montemurro 2008 PLoS ONE（猕猴V1相位编码，M_eff≈16）S2",
+        "doi": "10.1371/journal.pone.0003127",
+        "note": "旧值ln(50)无文献来源，废弃",
+    },
+}
+
 # τ 数据源记录
 TAU_SOURCES = {
     "Drosophila larval CNS": {
@@ -162,7 +180,8 @@ def main():
     r_dro = recompute_with_real_tau(
         "Drosophila larval CNS",
         DRO_TAU,
-        math.log(32), "Strong1998 M_eff≈32 S2",
+        ALPHA_PARAMS["Drosophila larval CNS"]["alpha"],
+        ALPHA_PARAMS["Drosophila larval CNS"]["src"],
         bio_base["Drosophila larval CNS"],
         bio_fix["Drosophila larval CNS"],
     )
@@ -172,7 +191,8 @@ def main():
     r_mac = recompute_with_real_tau(
         "Macaque cortex",
         MAC_TAU,
-        math.log(50), "Rieke1996 M_eff≈50 S2",
+        ALPHA_PARAMS["Macaque cortex"]["alpha"],
+        ALPHA_PARAMS["Macaque cortex"]["src"],
         bio_base["Macaque cortex"],
         bio_fix["Macaque cortex"],
     )
