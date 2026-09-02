@@ -1,0 +1,56 @@
+{
+  "experiment": "v32_cst_baseline",
+  "date": "2026-09-02",
+  "dataset": "C. elegans (White 1986, chemical synapses)",
+  "data_source": "/home/work/.openclaw/workspace/10_Knowledge/专题归档/05_Datasets_仿真与实验数据/Simulation_Results/aconnectome_white_1986_whole.csv",
+  "n_nodes": 281,
+  "n_edges": 2075,
+  "n_steps": 300,
+  "parameters": {
+    "alpha": 2.5649,
+    "alpha_source": "ln(13), C.elegans gradient potential, Strong 1998 Science",
+    "Gamma0": 1.05,
+    "Gamma0_source": "E1 calibration, 2026-09-01 locked",
+    "INH_THRESH": 0.2,
+    "INH_source": "White 1986 C.elegans E/I ~80:20"
+  },
+  "results": {
+    "Sc_init": 0.8396,
+    "Sc_final": 0.7984,
+    "Sc_components": {
+      "C": 1.0,
+      "H": 1.0,
+      "M": 0.4159,
+      "Rsw": 0.9769
+    },
+    "Tc": 0.5164,
+    "Tc_components": {
+      "lambda_eff": 1.0,
+      "Phi": 0.2689,
+      "Psi": 1.0,
+      "Theta": 0.0,
+      "kappa": 1.0
+    },
+    "Gamma_st": 0.0,
+    "Gamma_st_components": {
+      "AMI": 0.0,
+      "Ms_n_comm": 4,
+      "MT_n_comm": 1,
+      "active_neurons": 56,
+      "Gamma0": 1.05
+    },
+    "alpha": 2.5649,
+    "CST": 0.4123,
+    "level": "L0 前感知",
+    "firing_rate": 0.1993
+  },
+  "reference": {
+    "CST_paper_celegans": 0.4107,
+    "Sc_ref": 0.616,
+    "Tc_ref": 0.58,
+    "Gamma_st_ref": 0.17,
+    "source": "CST论文 Table 2；Randi 2024 Nature"
+  },
+  "elapsed_s": 3.6,
+  "integrity": "所有连接来自真实CSV，参数有生物/物理来源，无随机生成连接"
+}
