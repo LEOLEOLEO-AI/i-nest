@@ -1,0 +1,159 @@
+{
+  "experiment": "v35_alpha_sensitivity",
+  "date": "2026-09-02",
+  "purpose": "α区间鲁棒性验证，证明L1结论对V_res估计不敏感",
+  "fixed_values": {
+    "Sc": 0.835,
+    "Tc": 0.7711,
+    "Gst": 0.1096,
+    "V_range_mV": 40.0,
+    "V_range_src": "Lockery 2009 Curr.Biol.",
+    "V_res_base_mV": 3.0,
+    "V_res_src": "Liu et al. 2009 PNAS"
+  },
+  "scan_results": [
+    {
+      "V_res_mV": 2.0,
+      "M_eff": 20.0,
+      "alpha": 2.9957,
+      "CST": 0.8941,
+      "level": "L1-信号整合"
+    },
+    {
+      "V_res_mV": 2.5,
+      "M_eff": 16.0,
+      "alpha": 2.7726,
+      "CST": 0.8725,
+      "level": "L1-信号整合"
+    },
+    {
+      "V_res_mV": 3.0,
+      "M_eff": 13.3,
+      "alpha": 2.5903,
+      "CST": 0.8552,
+      "level": "L1-信号整合"
+    },
+    {
+      "V_res_mV": 3.5,
+      "M_eff": 11.4,
+      "alpha": 2.4361,
+      "CST": 0.8409,
+      "level": "L1-信号整合"
+    },
+    {
+      "V_res_mV": 4.0,
+      "M_eff": 10.0,
+      "alpha": 2.3026,
+      "CST": 0.8287,
+      "level": "L1-信号整合"
+    },
+    {
+      "V_res_mV": 5.0,
+      "M_eff": 8.0,
+      "alpha": 2.0794,
+      "CST": 0.8087,
+      "level": "L1-信号整合"
+    }
+  ],
+  "continuous_scan": [
+    {
+      "V_res_mV": 1.0,
+      "alpha": 3.6889,
+      "CST": 0.9647,
+      "level": "L1-信号整合"
+    },
+    {
+      "V_res_mV": 1.5,
+      "alpha": 3.2834,
+      "CST": 0.9227,
+      "level": "L1-信号整合"
+    },
+    {
+      "V_res_mV": 2.0,
+      "alpha": 2.9957,
+      "CST": 0.8941,
+      "level": "L1-信号整合"
+    },
+    {
+      "V_res_mV": 2.5,
+      "alpha": 2.7726,
+      "CST": 0.8725,
+      "level": "L1-信号整合"
+    },
+    {
+      "V_res_mV": 3.0,
+      "alpha": 2.5903,
+      "CST": 0.8552,
+      "level": "L1-信号整合"
+    },
+    {
+      "V_res_mV": 3.5,
+      "alpha": 2.4361,
+      "CST": 0.8409,
+      "level": "L1-信号整合"
+    },
+    {
+      "V_res_mV": 4.0,
+      "alpha": 2.3026,
+      "CST": 0.8287,
+      "level": "L1-信号整合"
+    },
+    {
+      "V_res_mV": 4.5,
+      "alpha": 2.1848,
+      "CST": 0.8181,
+      "level": "L1-信号整合"
+    },
+    {
+      "V_res_mV": 5.0,
+      "alpha": 2.0794,
+      "CST": 0.8087,
+      "level": "L1-信号整合"
+    },
+    {
+      "V_res_mV": 5.5,
+      "alpha": 1.9841,
+      "CST": 0.8003,
+      "level": "L1-信号整合"
+    },
+    {
+      "V_res_mV": 6.0,
+      "alpha": 1.8971,
+      "CST": 0.7927,
+      "level": "L1-信号整合"
+    }
+  ],
+  "summary": {
+    "CST_min": 0.8087,
+    "CST_max": 0.8941,
+    "L1_pass": "6/6",
+    "conclusion": "L1结论对V_res(2~5mV)完全鲁棒"
+  },
+  "data_sources": [
+    {
+      "param": "Sc=0.8350",
+      "src": "Varshney 2011 PLoS Comput Biol",
+      "level": "S2"
+    },
+    {
+      "param": "Tc=0.7711",
+      "src": "Randi2023(S1)+Kato/Schrodel/Nguyen+F-D bins",
+      "level": "S1-S2"
+    },
+    {
+      "param": "Gst=0.1096",
+      "src": "Randi 2023 Nature 623:406",
+      "level": "S1"
+    },
+    {
+      "param": "V_range=40mV",
+      "src": "Lockery 2009 Curr.Biol.",
+      "level": "S2"
+    },
+    {
+      "param": "V_res=3mV",
+      "src": "Liu et al. 2009 PNAS",
+      "level": "S2"
+    }
+  ]
+}
