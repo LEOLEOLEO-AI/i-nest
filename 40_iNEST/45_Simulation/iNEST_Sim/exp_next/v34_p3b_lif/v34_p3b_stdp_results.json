@@ -1,0 +1,77 @@
+{
+  "experiment": "v34_p3b_lif_stdp",
+  "date": "2026-09-02",
+  "improvement": "P3-B v2: LIF+STDP，τ从突触可塑性驱动的膜电位动力学涌现",
+  "sim_params": {
+    "T_total_s": 10.0,
+    "dt_ms": 0.5,
+    "N_steps": 20000,
+    "N_neurons": 281,
+    "active_n": 269,
+    "firing_rate_Hz": 94.27,
+    "W_CV_after_STDP": 4.917
+  },
+  "Sc": 0.8339,
+  "Sc_detail": {
+    "C": 1.0,
+    "H": 1.0,
+    "M": 0.4951,
+    "Rsw": 0.9769,
+    "sigma": 5.447
+  },
+  "Tc": 0.4782,
+  "Tc_detail": {
+    "kappa": 1.0015,
+    "lambda_eff": 0.9985,
+    "CV_randi": 0.9051,
+    "Phi": 0.7188,
+    "Psi": 0.7296,
+    "H_tau": 0.23,
+    "Theta": 0.0999,
+    "tau_ms": {
+      "min": 10.0,
+      "max": 50.0,
+      "mean": 10.8,
+      "CV": 0.421
+    },
+    "n_active": 269,
+    "n_taus": 228
+  },
+  "Gst": 0.1075,
+  "Gst_detail": {
+    "AMI": 0.11336,
+    "Ms_n": 6,
+    "MT_n": 9,
+    "common": 145
+  },
+  "alpha": 2.5649,
+  "CST": 0.5255,
+  "level": "L0-反射弧",
+  "baselines": {
+    "v32_final": {
+      "Sc": 0.7652,
+      "Tc": 0.4441,
+      "Gst": 0.0251,
+      "CST": 0.3624
+    },
+    "p1_only": {
+      "Sc": 0.7652,
+      "Tc": 0.4441,
+      "Gst": 0.1096,
+      "CST": 0.4501
+    },
+    "p3a": {
+      "Sc": 0.835,
+      "Tc": 0.7706,
+      "Gst": 0.1096,
+      "CST": 0.8522
+    },
+    "p3b_v1": {
+      "Sc": 0.8339,
+      "Tc": 0.5232,
+      "Gst": 0.1075,
+      "CST": 0.5749
+    }
+  },
+  "wall_time_s": 15.7
+}
