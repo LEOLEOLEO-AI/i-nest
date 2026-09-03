@@ -1,0 +1,217 @@
+{
+  "experiment": "v38_honest_cst",
+  "date": "2026-09-03",
+  "gamma0": 1.05,
+  "bio_results": [
+    {
+      "name": "C.elegans",
+      "N": 281,
+      "category": "biological",
+      "Sc": 0.835,
+      "Tc": 0.7711,
+      "lam": 0.9048,
+      "Phi": 0.7188,
+      "Psi": 0.633,
+      "Theta": 0.633,
+      "n_bins": 19,
+      "Gst": 0.1096,
+      "Gst_src": "Randi2023 Nature 623:406 S1",
+      "alpha": 2.5903,
+      "Meff": 13.3,
+      "alpha_src": "Lockery2009+Liu2009 graded potential S2",
+      "CST": 0.8528,
+      "level": "L1",
+      "note": "锁定"
+    },
+    {
+      "name": "Drosophila larval CNS",
+      "N": 2952,
+      "category": "biological",
+      "Sc": 0.8751,
+      "Tc": 0.7203,
+      "lam": 0.9425,
+      "Phi": 0.5037,
+      "Psi": 0.7529,
+      "Theta": 0.7529,
+      "n_bins": 50,
+      "Gst": 0.1424,
+      "Gst_src": "STDP仿真 S4（Winding2023 S1连接组）",
+      "alpha": 2.7726,
+      "Meff": 16.0,
+      "alpha_src": "Brenner2000 Neuron 26:695 S1 DOI:10.1016/S0896-6273(00)81205-2",
+      "CST": 0.9354,
+      "level": "L1"
+    },
+    {
+      "name": "Macaque cortex",
+      "N": 82,
+      "category": "biological",
+      "Sc": 0.6726,
+      "Tc": 0.8355,
+      "lam": 0.9604,
+      "Phi": 0.6877,
+      "Psi": 0.859,
+      "Theta": 0.859,
+      "n_bins": 7,
+      "Gst": 0.1898,
+      "Gst_src": "STDP仿真 S4（Zenodo7011292 S2）",
+      "alpha": 2.7726,
+      "Meff": 16.0,
+      "alpha_src": "Montemurro2008 PLoS ONE S2 DOI:10.1371/journal.pone.0003127",
+      "CST": 0.9512,
+      "level": "L1"
+    }
+  ],
+  "ann_results": [
+    {
+      "name": "GPT-2 (Transformer)",
+      "N": "~117M",
+      "category": "ANN",
+      "alpha": 0.6931,
+      "Meff": 2,
+      "alpha_src": "二进制逻辑门 S1",
+      "confirmed_parts": {
+        "C": 1.0,
+        "H": 0.722,
+        "lam": 0.762,
+        "Gst": 0.0
+      },
+      "missing_parts": [
+        "M",
+        "Rsw",
+        "Phi",
+        "Psi",
+        "Theta"
+      ],
+      "Sc_lower": 0.6518,
+      "Tc_lower": 0.5555,
+      "CST_lower": 0.3621,
+      "level_lower": "L0",
+      "CST": null,
+      "level": "待测",
+      "note": "H=tanh(12/13.17) Radford2019 S3；λ=0.762 Hendrycks2016 GELU S3",
+      "data_ok": "4/9分量有公开数据"
+    },
+    {
+      "name": "ResNet-50 (CNN)",
+      "N": "~25M",
+      "category": "ANN",
+      "alpha": 0.6931,
+      "Meff": 2,
+      "alpha_src": "二进制逻辑门 S1",
+      "confirmed_parts": {
+        "C": 1.0,
+        "H": 0.982,
+        "lam": 0.862,
+        "Gst": 0.0
+      },
+      "missing_parts": [
+        "M",
+        "Rsw",
+        "Phi",
+        "Psi",
+        "Theta"
+      ],
+      "Sc_lower": 0.7039,
+      "Tc_lower": 0.5729,
+      "CST_lower": 0.4033,
+      "level_lower": "L0",
+      "CST": null,
+      "level": "待测",
+      "note": "H=tanh(50/21.1) He2016 CVPR S2；λ=0.862 Kurtz2020 ICML ReLU 65% S2",
+      "data_ok": "4/9分量有公开数据"
+    },
+    {
+      "name": "LTC/NCP-19",
+      "N": "19",
+      "category": "ANN",
+      "alpha": 0.6931,
+      "Meff": 2,
+      "alpha_src": "二进制逻辑门（数字ODE）S1",
+      "confirmed_parts": {
+        "C": 0.376,
+        "H": 0.735,
+        "lam": 0.964,
+        "Gst": 0.0
+      },
+      "missing_parts": [
+        "M",
+        "Rsw",
+        "Phi",
+        "Psi",
+        "Theta"
+      ],
+      "Sc_lower": 0.5127,
+      "Tc_lower": 0.5892,
+      "CST_lower": 0.3021,
+      "level_lower": "L0",
+      "CST": null,
+      "level": "待测",
+      "note": "N=19 Lechner2020 Nature MI S1；C=tanh(1.68/4.25)；λ全激活 Hasani2021 AAAI S2",
+      "data_ok": "4/9分量有公开数据"
+    },
+    {
+      "name": "Intel Loihi-2 (NMH)",
+      "N": "~1M",
+      "category": "ANN",
+      "alpha": 2.0794,
+      "Meff": 8,
+      "alpha_src": "LIF神经形态 Strong1998 PRL S2",
+      "confirmed_parts": {
+        "Gst": 0.0
+      },
+      "missing_parts": [
+        "C",
+        "H",
+        "M",
+        "Rsw",
+        "lam",
+        "Phi",
+        "Psi",
+        "Theta"
+      ],
+      "Sc_lower": 0.5,
+      "Tc_lower": 0.5,
+      "CST_lower": 0.25,
+      "level_lower": "L0",
+      "CST": null,
+      "level": "待测",
+      "note": "芯片拓扑依应用配置；Davies2021 IEEE Proc. S2；α=ln(8)有文献依据",
+      "data_ok": "1/9分量有公开数据"
+    },
+    {
+      "name": "MoE (Switch-1.7T)",
+      "N": "~1.7T",
+      "category": "ANN",
+      "alpha": 0.6931,
+      "Meff": 2,
+      "alpha_src": "二进制逻辑门 S1",
+      "confirmed_parts": {
+        "C": 1.0,
+        "lam": 0.062,
+        "Psi": 0.0,
+        "Gst": 0.0
+      },
+      "missing_parts": [
+        "H",
+        "M",
+        "Rsw",
+        "Phi",
+        "Theta"
+      ],
+      "Sc_lower": 0.5946,
+      "Tc_lower": 0.0,
+      "CST_lower": 0.0,
+      "level_lower": "L0",
+      "CST": null,
+      "level": "待测",
+      "note": "λ=0.062（1/64专家激活）Fedus2022 JMLR S2；Ψ=0物理真实（单专家无时序变化）",
+      "data_ok": "4/9分量有公开数据"
+    }
+  ],
+  "gaps": {
+    "Drosophila": "STDP仿真Γst S4→需双光子FC",
+    "Macaque": "仿真Γst S4+粗粒化Sc→需fMRI+MICrONS",
+    "ANN": "多分量待测，已给下界"
+  }
+}
