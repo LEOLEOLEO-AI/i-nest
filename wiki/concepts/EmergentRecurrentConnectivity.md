@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[PhotonicSynapticPlasticity]]
 [[PolarizationModulatedPhotoresponse]]
 [[Receptron_Unit]]
+[[SelfOrganizationInContinuousMedia]]
 [[Self_Organized_Criticality]]
 [[Synaptic_Plasticity]]
 [[TCC]]

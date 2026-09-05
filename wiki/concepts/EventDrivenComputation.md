@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Architecture]]
 [[Event_Driven_Computation]]
 [[HigherOrderAvalanche]]
+[[In_Network_Neuromorphic_Acceleration]]
 [[Self_Organized_Criticality]]
 [[Spiking neural network]]
 [[Spiking_Neural_Network]]

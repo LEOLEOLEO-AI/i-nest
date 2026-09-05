@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Bipartite_Interconnect_Design]]
 [[Complex_System_Theory]]
 [[ElasticSpikingTransformer]]
+[[EventDrivenAttentionMechanism]]
 [[Event_Driven_Architecture]]
 [[Event_Driven_Processing]]
 [[In_Network_Neuromorphic]]

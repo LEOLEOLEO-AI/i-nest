@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[NoiseDrivenBackpropReconstruction]]
+[[OpinionDrivenVaccination]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]
 [[SDI_STDP]]

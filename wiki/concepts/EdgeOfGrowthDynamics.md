@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Dimensionality_Modularity_Tradeoff]]
 [[DrivenCriticalityDynamics]]
 [[Driven_Criticality]]
+[[DynamicCentralitySteering]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeOfGrowth]]
 [[Emergent_Intelligence]]

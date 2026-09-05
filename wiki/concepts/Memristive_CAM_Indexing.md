@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration]]
 [[CoPackagedOptics]]
 [[ComputationEfficientDeepLearning]]
 [[ConsciousIntegration]]
@@ -43,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Ferroelectric_Devices]]
 [[FisherOrthogonalMemory]]
 [[FlagOS_2_0]]
+[[Heterogeneous_Inference_Division]]
 [[Heterogeneous_Integration]]
 [[HybridResistiveMemoryCIM]]
 [[InNetworkAgentRewiring]]
@@ -57,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[SOC]]
 [[State_Transition_Formalism]]
 [[TopologicalAndersonChernInsulator]]
+[[advanced packaging]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_EW_Neuromorphic_Controller]]
 [[AnytimePointCloudRecognition]]
 [[AsynchronousEventDrivenComputation]]
+[[BurstCoding]]
 [[CascadedAdaptiveCombiners]]
 [[Co_designed_Online_Continual_Learning]]
 [[Complex_System_Theory]]

@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[OpticallyWritableAtomicVaporMemory]]
 [[QueryComplexityScaling]]
 [[Real_Time_Neuromorphic_Constraint_Satisfaction]]
+[[ReproducibleReservoirDynamics]]
 [[SDI_Bond]]
 [[SDI_iNEST_Interconnect]]
 [[SelfOrganization]]

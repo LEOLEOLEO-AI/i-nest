@@ -39,7 +39,10 @@ Auto-extracted concept from raw material compilation.
 [[BrownianCastleInterface]]
 [[BurstTemporalPlasticity]]
 [[CriticalityDrivenAdaptation]]
+[[Criticality]]
 [[Network_Topology_Design]]
+[[SelfMotivatedGrowth]]
+[[Self_Organized_Criticality]]
 [[Synaptic_Plasticity]]
 
 ## Sources

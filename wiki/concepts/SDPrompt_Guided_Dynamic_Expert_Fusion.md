@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Bio_plausible_Neuromorphic_Disturbance_Observer]]
 [[BrainBodyResonance]]
 [[ClocklessReconfigurableChip]]
+[[CompetitiveProgramDynamics]]
 [[CorticalWaveRouting]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence]]

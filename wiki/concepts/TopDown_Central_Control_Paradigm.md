@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_MasterEquation]]
 [[Complex_System_Theory]]
 [[Intelligent_Power_Management]]
+[[WaveBasedComputation]]
 [[iNEST]]
 
 ## Sources

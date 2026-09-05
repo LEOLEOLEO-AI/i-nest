@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[MultiScalePathDivergence]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
+[[ReadoutLayer]]
 [[ReservoirDiversity]]
 [[Reservoir_Computing]]
 [[SuperparamagneticSwitchingRate]]

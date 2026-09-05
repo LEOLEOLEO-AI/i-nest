@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[PairwiseCorrelationConstraint]]
+[[PropertyPredictionModeling]]
 [[Quantum_Spin_Glass]]
 [[SNN]]
 [[ScalableNeuromorphicTopology]]

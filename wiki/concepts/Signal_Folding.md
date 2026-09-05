@@ -21,7 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3D_TokSIM_Architecture]]
-[[Advanced_Packaging]]
+[[3d]]
 [[BeyondVonNeumannArchitecture]]
 [[CMOS_Memristor_Devices]]
 [[ChargeDomainAttention]]
@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[IMPLYMemristiveISA]]
 [[In_Memory_Computing]]
 [[Long_Range_Interactions]]
+[[MemoryComputeIntegration]]
 [[MemristiveSupervisedLearning]]
 [[Memristive_Crossbar_Array]]
 [[Memristor]]
@@ -50,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[SpatialPhotonicProgramming]]
 [[StorageCompute_SeparationBottleneck]]
 [[StorageCompute_Separation]]
+[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

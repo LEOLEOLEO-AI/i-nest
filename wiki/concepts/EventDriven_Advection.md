@@ -22,10 +22,12 @@ Auto-extracted concept from raw material compilation.
 
 [[AsynchronousCircuits]]
 [[AsynchronousNeuromorphicHardware]]
+[[Asynchronous_Event_Circuit]]
 [[Autonomous_Spiking_Dynamics]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BioPlausiblePredictiveCoding]]
 [[Event_Driven_Architecture]]
+[[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[Spiking neural network]]
 [[Spiking_Neural_Network]]

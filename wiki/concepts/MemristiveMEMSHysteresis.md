@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[RISC-V 鏋舵瀯涓_SDI 鏅虹畻浜掕仈绯荤粺璁捐锛氶潰鍚_LLM 浣庡欢杩熸帹鐞嗕笌璁粌]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
+[[SOC — 自组织临界（Self-Organized Criticality）]]
 [[SOC]]
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]

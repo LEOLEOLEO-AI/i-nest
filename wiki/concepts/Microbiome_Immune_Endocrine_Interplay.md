@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[SelfOrganizedOscillatoryLearning]]
 [[ShortTermMemory]]
+[[Stigmergic_Neural_Plasticity]]
 [[SuperparamagneticSwitchingRate]]
 [[Syncytial_Information_Integration]]
 [[TCC]]

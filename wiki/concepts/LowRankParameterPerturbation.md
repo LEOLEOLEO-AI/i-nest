@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[CrashHotspotForecasting]]
 [[DirectoryManagementLaws]]
 [[DivergentHigherAreaRanking]]
+[[Energy_Based_Regularization]]
 [[ExplosiveTransitionThreshold]]
 [[HardwareAware_DesignSpace]]
 [[Network_Topology_Design]]

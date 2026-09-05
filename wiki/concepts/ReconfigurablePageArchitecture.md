@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[PhononicBandgapEngineering]]
 [[PinAssignmentOptimization]]
 [[ReconfigurableSpikingRouting]]
+[[RuntimeTopologyMapping]]
 [[SDI_Bond]]
 [[SDI_NPU_NoC_Integration]]
 [[SDI_STDP]]

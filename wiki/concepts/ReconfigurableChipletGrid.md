@@ -23,13 +23,23 @@ Auto-extracted concept from raw material compilation.
 [[ChipletOnWafer]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Heterogeneous_Stacking]]
+[[Chiplet_Topology]]
+[[Chiplet_Topology_Interconnect]]
+[[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
+[[NoC]]
 [[NoC_Chiplet_iNEST_Wafer]]
 [[P_Paradigm]]
 [[TCC]]
+[[TopologyCentricComputing]]
+[[Topology_Interconnect]]
 [[WaferScaleTopologyCentricComputing]]
 [[Wafer_Chiplet_Topology_Interconnect]]
 [[Wafer_Scale_Integration]]
+[[iNEST]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

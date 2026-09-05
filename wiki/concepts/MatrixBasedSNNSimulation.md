@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CoDesigned_SNN]]
 [[CoDesigned_SNN_Online_Learning]]
 [[Course_Based_FPGA_Prototyping]]
+[[CriticalityBasedClassification]]
 [[Criticality]]
 [[CrossEntityPreemptiveWarning]]
 [[Delay_Aware_Autograd_Spiking_Framework]]

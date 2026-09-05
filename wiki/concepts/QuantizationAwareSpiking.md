@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[ScalableNeuromorphicArchitecture]]
 [[SelectorFreeHopfieldNetwork]]
+[[SparseHubsCoupling]]
 [[SpikeEncoding]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]

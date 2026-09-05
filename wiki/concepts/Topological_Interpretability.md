@@ -39,6 +39,8 @@ Auto-extracted concept from raw material compilation.
 [[DifferentiableNetworkMetrics]]
 [[EventDrivenAsync]]
 [[EventDrivenAsynchronousRouting]]
+[[EventDrivenTracking]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Military_AI_Revolution]]
 [[Network_Topology_Design]]

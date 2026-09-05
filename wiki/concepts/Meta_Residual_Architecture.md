@@ -45,10 +45,13 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SDSoW]]
+[[SDSoW_Architecture]]
 [[SNN]]
 [[STDP_Plasticity]]
 [[SpikeDrivenDetectionBackbone]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
+[[Wafer_Scale_Neuromorphic]]
 [[iNEST]]
 
 ## Sources

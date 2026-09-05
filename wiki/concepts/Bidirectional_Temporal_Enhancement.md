@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AnisotropicGaussianPrimitives]]
 [[Contested_Prior_Resolution]]
 [[DiscreteSTDP]]
 [[Emergent_Intelligence]]

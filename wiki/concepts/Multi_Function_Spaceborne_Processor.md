@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Chemical_Bond_Operation_Algebra]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_NoC_Fabric]]
@@ -28,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenAsync]]
 [[EventDrivenAsynchronousRouting]]
 [[GeneralIntelligenceSubstrate]]
+[[Heterogeneous_Integration]]
 [[InSitu_Adjoint_Wave_Control]]
 [[Inference_Stage_Decomposition]]
 [[Interconnect_Routing]]

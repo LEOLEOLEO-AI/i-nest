@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[ERI_2_0_Strategy]]
 [[EndToEndDesignAutomationFlow]]
 [[EndToEndDesignAutomation]]
+[[EvanescentFieldTrapping]]
 [[FirstPrinciples_AI]]
 [[MasterEquationRG]]
 [[MeanFieldSpinGlass]]

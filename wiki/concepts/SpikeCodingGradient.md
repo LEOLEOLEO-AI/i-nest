@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[DiscreteSTDP]]
 [[FatigueSTDP]]
 [[GroupSynchronization]]
+[[IntrinsicTimingSTDP]]
 [[MultiObjectiveSNN]]
 [[Network_Topology_Design]]
 [[PhaseLockedTopologyMapping]]

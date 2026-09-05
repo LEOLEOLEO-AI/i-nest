@@ -29,9 +29,11 @@ Auto-extracted concept from raw material compilation.
 [[BrainInspired_Chip]]
 [[Criticality]]
 [[Neuromorphic_Computing]]
+[[Plasticity_Stability_Threshold]]
 [[SNN]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
+[[Syncytial_Mesh]]
 [[Syncytial_Mesh_Model]]
 [[iNEST]]
 

@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[ErdosRenyi_Graph_Energy_Surface]]
 [[EventTriggeredDistributedControl]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
+[[GraphLanguageModel_RAG]]
 [[HigherOrderSimplicialDynamics]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

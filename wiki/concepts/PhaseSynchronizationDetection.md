@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeEncoding]]
 [[SpikeFusionLayer]]
 [[Spike_Timing_Dependent_Plasticity]]
+[[SpikingNeuralDynamics]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]

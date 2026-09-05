@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[ConductingPolymerDendriteMemory]]
 [[Event_Driven_Architecture]]
+[[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Scheduling]]
 [[In_Package_Neuromorphic_Integration]]
 [[Interconnect_Routing]]
@@ -32,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC]]
 [[NoC_EventRouting]]
 [[P_Paradigm]]
+[[SparseTemporalEncoding]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Decoupled_Priors]]
 [[DiagnosticReportFramework]]
 [[EulaminateOverrepresentation]]
+[[Memory_Wall]]
 [[Network_Topology_Design]]
 [[OneFabric_Memory]]
 [[P_Paradigm]]

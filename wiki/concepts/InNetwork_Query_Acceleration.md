@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenAttentionMechanism]]
 [[EventDrivenSensoryEncoding]]
 [[EventDrivenTrajectoryEncoding]]
+[[EventDrivenWirelessTransmission]]
 [[ExtinctionDrivenMetastability]]
 [[MemoryDrivenInterconnect]]
 [[Neuromorphic_Computing]]

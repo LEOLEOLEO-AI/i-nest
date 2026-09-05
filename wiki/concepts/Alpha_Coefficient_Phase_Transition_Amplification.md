@@ -41,6 +41,8 @@ Auto-extracted concept from raw material compilation.
 [[DendriticReservoirState]]
 [[ERI_2_0_Strategy]]
 [[EndToEndDesignAutomationFlow]]
+[[EndToEndDesignAutomation]]
+[[EvanescentFieldTrapping]]
 [[Fading_Memory_Property]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]

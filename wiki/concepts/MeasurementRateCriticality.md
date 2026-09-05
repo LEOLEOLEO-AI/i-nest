@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[BranchingRatio]]
 [[CST_Intelligence_Emergence]]
 [[CollectiveDynamics]]
+[[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Complex_System_Theory]]
 [[Criticality]]
 [[FormalLinguisticCompetence]]

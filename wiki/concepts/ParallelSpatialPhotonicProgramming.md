@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[MemristiveSynapticFatigue]]
 [[Memristor]]
 [[Memristor_Synapse]]
+[[Neural_Manifold_Crystallization]]
 [[NeuromorphicHardware]]
 [[NeuromorphicRoutingOptimization]]
 [[Neuromorphic_Computing]]

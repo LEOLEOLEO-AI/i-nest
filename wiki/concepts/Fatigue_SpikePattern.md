@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[SurrogateGradientMethod]]
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
+[[TemporalPrecisionParallelism]]
 [[iNEST]]
 
 ## Sources

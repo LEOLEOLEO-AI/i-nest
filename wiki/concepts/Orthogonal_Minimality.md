@@ -31,6 +31,8 @@ Auto-extracted concept from raw material compilation.
 [[Algorithm_Hardware_CoDesign]]
 [[BackflowTransformation]]
 [[CrossLayer_SignalRouting]]
+[[EvolutionaryDiversityPreservation]]
+[[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[SNN]]
 [[Spiking_Neural_Network]]

@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[6万+辛顿2025年度全景实录深读｜真正的智能与硅基智能的非对称演进]]
 [[ArbitraryWavefunctionConfigurability]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Chiplet]]
@@ -34,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Package_Neuromorphic_Integration]]
 [[Intelligence_Emergence]]
 [[LossSpikePhenomenon]]
+[[Memristor]]
 [[Memristor_Synapse]]
 [[Nature Communications_生物神经网络中突触多样性如何让人工神经网络更强大？]]
 [[Network_Topology_Design]]
@@ -51,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[Yann LeCun：发现智能原理是AI的终极问题]]
+[[chiplet interconnect]]
 [[向大脑学习智能本质，探索通用 AI 的另一条可行路径]]
 [[在 FPGA 上实现并行脉冲神经网络（Spiking Neural Net）]]
 [[忆阻器]]

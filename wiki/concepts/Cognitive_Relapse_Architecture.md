@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Complex_System_Theory]]
+[[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Contested_Priors_Mechanism]]
 [[CorticalTypeDiversity]]
 [[DRBE_MVP_Mainchain]]
@@ -77,6 +78,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
 [[analog computation]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[residual connection]]
 

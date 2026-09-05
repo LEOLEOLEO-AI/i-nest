@@ -26,9 +26,11 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration]]
 [[Chiplet_Integration_Route]]
 [[Chiplet_Interconnect]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
+[[Complexity_Emergence_Engineering]]
 [[CytoarchitectonicAxis]]
 [[DataDrivenCellularAxis]]
 [[DifferentiableRasterizationPipeline]]
@@ -66,6 +68,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect_Memristor]]
 [[Wafer_Scale_Memristor_Interconnect]]
 [[Wafer_Scale_Neuromorphic]]
+[[chiplet interconnect]]
 [[iNEST]]
 
 ## Sources

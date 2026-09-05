@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[DTGA]]
 [[DataProvenanceIntegrity]]
 [[Decoupled_Prior_States]]
+[[Decoupled_Priors]]
 [[EulaminateOverrepresentation]]
 [[Exponential_CST_Coupling]]
 [[FlagOS_2_0]]
@@ -78,6 +79,7 @@ Auto-extracted concept from raw material compilation.
 [[Topological_Criticality]]
 [[TopologyProgramming]]
 [[Topology_Interconnect]]
+[[chiplet interconnect]]
 [[complex system]]
 [[residual connection]]
 

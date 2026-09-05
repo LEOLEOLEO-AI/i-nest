@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[ActionPrototypeClustering]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BrainInspiredArchitecture]]
 [[BrainInspired_Chip]]
@@ -35,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[NestedRepresentation]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[Neuromorphic_Interconnect]]
 [[Neuromorphic_Selective_State_Space]]
 [[NoiseModulated_SynapticPlasticity]]
 [[Spike_Event_Driven_Attention]]
@@ -45,7 +47,6 @@ Auto-extracted concept from raw material compilation.
 [[TemporalSparsityExploitation]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
-[[neuromorphic interconnect]]
 [[类脑芯片]]
 
 ## Sources

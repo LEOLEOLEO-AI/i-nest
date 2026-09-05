@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[QuantumConvolutionalTopology]]
 [[RandomProjectionLandscapePreservation]]
 [[RecursiveSelfReferentialArchitecture]]
+[[Salca]]
 [[TopologicalAndersonChernInsulator]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]

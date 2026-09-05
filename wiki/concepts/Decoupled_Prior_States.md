@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[Evolutionary_Computability]]
 [[Evolutionary_Structure_Computability]]
 [[Exponential_CST_Coupling]]
+[[FPGA_Prototype_Validation]]
 [[Heterogeneous_Integration]]
 [[Memory_Wall]]
 [[MetricComputationAuthenticity]]
@@ -76,6 +77,7 @@ Auto-extracted concept from raw material compilation.
 [[TemperatureSensitivityControl]]
 [[TemporalComplexity]]
 [[Topology_Interconnect]]
+[[chiplet interconnect]]
 [[complex system]]
 [[residual connection]]
 

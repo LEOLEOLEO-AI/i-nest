@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Accessibility_Plasticity]]
 [[AdaptiveArchitecture]]
 [[AdaptiveCombinerWeighting]]
+[[AgenticServiceOrchestration]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[CounterstreamSignalPropagation]]

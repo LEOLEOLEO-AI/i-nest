@@ -30,9 +30,11 @@ Auto-extracted concept from raw material compilation.
 [[AddressRedundancyElimination]]
 [[Algorithm_Hardware_CoDesign]]
 [[BurstTemporalPlasticity]]
+[[DTGA]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

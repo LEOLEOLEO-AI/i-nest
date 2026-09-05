@@ -35,6 +35,8 @@ Auto-extracted concept from raw material compilation.
 [[CorticalTravelingWave]]
 [[Criticality]]
 [[EmulationTheoryDisturbanceObserver]]
+[[EnergyAwareLearning]]
+[[FlexibilityThreshold]]
 [[NeuromorphicEdgeProcessing]]
 [[Neuromorphic_Computing]]
 [[Self_Organized_Criticality]]

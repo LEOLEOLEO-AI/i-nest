@@ -22,11 +22,13 @@ Auto-extracted concept from raw material compilation.
 
 [[BackpropagationFreeLearning]]
 [[ChipletRoutingFabric]]
+[[ChipletWaferInterconnectScaling]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Heterogeneous_Integration]]
+[[Interconnect_Routing]]
 [[Interconnect_Topology]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
@@ -38,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[TCC]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Memristor]]
 [[Memristor_Synapse]]
+[[MultifractalWavefunction]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]

@@ -36,9 +36,11 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[Criticality_Avoidance_Theory]]
 [[Criticality_Induced_Plasticity]]
+[[DiscreteContinuous_Unification]]
 [[Intelligence_Emergence]]
 [[Neuromorphic_Computing]]
 [[Self_Organized_Criticality]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 
 ## Sources

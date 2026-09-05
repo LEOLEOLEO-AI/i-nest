@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[FirstTimestepConversion]]
 [[FixedOverheadFloor]]
 [[Interconnect_Routing]]
+[[Military_AI_Revolution]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Passivity_Preserving_Computation]]

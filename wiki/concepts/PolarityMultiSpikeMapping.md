@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Edge_Intrusion_Detection]]
 [[Neuromorphic_Sensor_Fusion]]
+[[ProbabilisticSNNVerification]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[Self_Organized_Criticality]]

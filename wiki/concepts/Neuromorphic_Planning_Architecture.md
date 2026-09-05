@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle_Network]]
 [[GeometricNeuromorphicFusion]]
 [[Hardware_Accelerated_SNN]]
+[[HierarchicalBayesianCommunityDetection]]
 [[In_Network_Neuromorphic]]
 [[Master_SDDE]]
 [[Microgrid_Optimization]]

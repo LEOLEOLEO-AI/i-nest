@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AnalogDomainCompression]]
 [[Categorical_Closure_Criterion]]
 [[CombinatorialOptimizationReservoirMapping]]
+[[Critical_Exponent_Scaling]]
 [[Criticality]]
 [[Criticality_Reservoir]]
 [[Edge_of_Chaos]]

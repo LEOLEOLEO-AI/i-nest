@@ -23,11 +23,13 @@ Auto-extracted concept from raw material compilation.
 [[ChipletWaferInterconnectScaling]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration]]
 [[Chiplet_Integration_Route]]
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[CorticalTypeDiversity]]
+[[CrossbarArrayVLSI]]
 [[EdgeIntelligenceAcceleration]]
 [[Express_Link_Virtualization]]
 [[Free_Energy_Principle]]
@@ -57,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

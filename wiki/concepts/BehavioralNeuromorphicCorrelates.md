@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Crystallized_Neural_Manifolds]]
 [[DendriticReservoirState]]
+[[ERI_2_0_Strategic_Framework]]
 [[HierarchicalAttention_MIL]]
 [[Intelligence_Emergence]]
 [[Multi_Scale_Habituation]]

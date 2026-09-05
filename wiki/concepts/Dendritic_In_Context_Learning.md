@@ -56,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[SpeechToSpike_Encoding]]
 [[SpikeEncoding]]
 [[Spike_Encoding_of_fMRI]]
+[[Spike_Timing_Dependent_Plasticity]]
 [[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

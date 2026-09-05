@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[IntegratedSensingFusion]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[JointEmbeddingPredictiveArchitecture]]
 [[MachineLearningNanomaterialDiscovery]]
 [[Model_Routing_Protocol]]
 [[Network_Specific_Embedding_Separation]]

@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Mesoscale_Heterogeneous_Integration]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Microgrid_Optimization]]
+[[Network_Spatiotemporal_Synergy]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC]]
@@ -60,6 +61,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TemporalComplexity]]
 [[Wafer_Scale_Integration]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[ArchitecturalCondition]]
 [[Avoided_Criticality]]
 [[BayesianConnectivityEstimation]]
+[[BioInspired_Interception_Control]]
 [[Criticality]]
 [[Intelligence_Emergence]]
 [[Quantum_Criticality]]

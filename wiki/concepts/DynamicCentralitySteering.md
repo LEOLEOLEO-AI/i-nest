@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Pods4Rail_Topology]]
 [[Receptron_Unit]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SelfMotivatedGrowth]]
 [[SelfOrganization]]
 [[Self_Organized_Criticality]]
 [[Synaptic_Plasticity]]

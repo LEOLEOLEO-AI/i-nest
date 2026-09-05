@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Attractor_State_Interpolation]]
 [[Brain_Inspired_Switchless_Architecture]]
 [[CirculateFiringNeuron]]
+[[CoPackagedOptics]]
 [[Collective_State_Convergence]]
 [[CompetitiveEdgeRewiring]]
 [[Complex_System_Theory]]

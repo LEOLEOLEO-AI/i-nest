@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
+[[Chiplet_Integration]]
 [[CrossDomain_Integration]]
 [[CrossbarArrayPrecision]]
 [[DynamicProgrammingRecycling]]
@@ -50,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[HybridResistiveMemoryCIM]]
 [[In_Memory_Computing]]
 [[Long_Range_Interactions]]
+[[MemoryDrivenRouting]]
 [[Memristive_Crossbar_Array]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
@@ -59,6 +61,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
+[[advanced packaging]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

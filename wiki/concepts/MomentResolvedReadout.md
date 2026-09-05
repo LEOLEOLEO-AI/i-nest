@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[IntegrationProspectsForVLSI]]
 [[Intelligence_Emergence]]
 [[InterconnectAwareGradientAggregation]]
+[[Metabolic_Neural_Feedback_Loop]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[NonEquilibriumComputing]]

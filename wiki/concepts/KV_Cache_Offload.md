@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_Triad_Framework]]
 [[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
+[[ClassicalQuantum_Query_Benchmark]]
 [[Complex_System_Theory]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]

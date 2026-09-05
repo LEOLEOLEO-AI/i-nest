@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[ChipletWaferInterconnectScaling]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration]]
 [[Chiplet_Integration_Route]]
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[ComplexValuedSNN]]
 [[ComputeRelocationOverhead]]
 [[Disordered_Frustrated_Dimer_Magnets]]
+[[ElectrochemicalSensingArray]]
 [[Environmental_Capability_Context]]
 [[Heterogeneous_Integration]]
 [[HodgkinHuxleyDynamics]]
@@ -55,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeCommunicationCost]]
 [[Spiking_Neural_Network]]
 [[TCC]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

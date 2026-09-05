@@ -38,7 +38,9 @@ Auto-extracted concept from raw material compilation.
 [[SDI_NoC_Fusion]]
 [[SDI_Topology]]
 [[SparsityAwareInterconnect]]
+[[Switchless_Computing]]
 [[TCC]]
+[[TopologyCentricComputing]]
 [[WaferScaleTopologyCentricComputing]]
 
 ## Sources

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
+[[EventDrivenAttentionMechanism]]
 [[EventDrivenTracking]]
 [[Event_Driven_Architecture]]
 [[Event_Driven_Communication]]

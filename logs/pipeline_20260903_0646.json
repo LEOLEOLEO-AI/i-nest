@@ -1,0 +1,10 @@
+{
+  "date": "2026-09-03T06:46:11.546643",
+  "new_papers": 2,
+  "api_results": 2,
+  "classified": 0,
+  "graph_nodes": 12379,
+  "graph_edges": 233338,
+  "elapsed_s": 969.8,
+  "genspark_snapshot": "99_Meta\\genspark_research_brief.md"
+}

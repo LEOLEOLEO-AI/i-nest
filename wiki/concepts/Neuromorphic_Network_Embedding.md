@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
+[[iNEST_Neuromorphic_Integration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

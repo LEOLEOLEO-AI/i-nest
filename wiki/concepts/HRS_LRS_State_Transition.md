@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[ConductingPolymerDendriteMemory]]
 [[Contested_Prior_Resolution]]
 [[Distributed_Spike_Communication]]
+[[EdgeInspectionInference]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[SNN]]

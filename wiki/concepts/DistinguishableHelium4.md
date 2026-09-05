@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AthermalDynamics]]
 [[BerryCurvatureIsolation]]
 [[Bidirectional_Temporal_Enhancement]]
+[[BigBrainCellularAxis]]
 [[BioPlausiblePredictiveCoding]]
 [[CellEmergence]]
 [[Complex_System_Theory]]

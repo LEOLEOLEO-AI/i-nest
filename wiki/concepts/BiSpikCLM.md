@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[FixedOverheadPenalty]]
 [[HippocampalNeocorticalIntelligence]]
 [[Intelligence_Emergence]]
+[[Linguistic_Phase_Transition]]
 [[MultiScaleTemporalProcessing]]
 [[Multifractal_Signatures]]
 [[NeuromorphicDetectionBackbone]]

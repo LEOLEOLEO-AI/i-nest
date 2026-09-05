@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeEncoding]]
 [[Spike_Event_Driven_Attention]]
 [[Spiking_Neural_Network]]
+[[TemporalBatchSynchronization]]
 [[iNEST]]
 [[iNEST_Interconnect]]
 [[iNEST_Neuromorphic_Integration]]

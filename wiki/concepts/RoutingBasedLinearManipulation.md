@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenAsync]]
 [[EventDrivenAsynchronousRouting]]
 [[FPGACongestionHotspotMitigation]]
+[[Gradient_Signal_Preservation]]
 [[HighThroughputBioparticleRouting]]
 [[ImmobilizationStabilityEnhancement]]
 [[InterFPGA_Spike_Routing]]

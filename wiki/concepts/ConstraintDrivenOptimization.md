@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[DestructiveInterferenceConfinement]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Roadmap]]
+[[ExactWiringRouting]]
 [[GeometryGuidedGenerativeModel]]
 [[GradientBasedTopologyOptimization]]
 [[HallmarkDrivenCancerModeling]]

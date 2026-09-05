@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Order_Flexibility_Duality]]
 [[PathIntegration]]
 [[PromptBasedTimeSeriesForecasting]]
+[[QuantumAnnealerSynapticTest]]
 [[Reservoir_Computing]]
 [[SNN]]
 [[ScaleFreeNetwork]]

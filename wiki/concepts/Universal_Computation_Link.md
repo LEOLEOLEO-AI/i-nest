@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[DimensionalityReductionPrinciple]]
 [[Driven_Criticality]]
 [[EvolvingArchitectureDynamics]]
+[[FeatureBonding]]
 [[InNetworkComputing]]
 [[Interconnect_Routing]]
 [[Local_Approximation_Dynamics]]

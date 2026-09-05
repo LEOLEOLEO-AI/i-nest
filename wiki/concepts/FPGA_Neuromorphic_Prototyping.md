@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[DelayCodedWorkingMemory]]
 [[Delay_Aware_Autograd_Spiking_Framework]]
 [[Event_Driven_Architecture]]
+[[NeuromorphicGraphAnomalyDetection]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[SNN_NeuroprostheticPipeline]]

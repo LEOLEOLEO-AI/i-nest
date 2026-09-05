@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[SpikeCodingProbabilisticVariables]]
+[[SpikeCommunicationCost]]
 [[Spiking_Neural_Network]]
 [[StochasticDelayInference]]
 [[Synaptic_Plasticity]]

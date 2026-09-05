@@ -26,6 +26,8 @@ Auto-extracted concept from raw material compilation.
 [[ApproximateMacroscopicDynamics]]
 [[Arm_Locomotor_Synergy]]
 [[Asynchronous_Handshake_Protocol]]
+[[BigBrainCellularAxis]]
+[[Bipartite_Interconnect]]
 [[Bipartite_Interconnect_Design]]
 [[Complex_System_Theory]]
 [[Neuromorphic_Computing]]

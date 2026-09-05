@@ -23,12 +23,18 @@ Auto-extracted concept from raw material compilation.
 [[AdjointWaveControl]]
 [[AttentionWeightedPatchAggregation]]
 [[CavityMethodAnalysis]]
+[[Chiplet]]
 [[Chiplet_Based_Architecture]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_NoC_Fabric]]
 [[Chiplet_Stacking]]
 [[Computation_Access_Routing]]
 [[EntanglementAwareRouting]]
+[[FPGA_Reconfigurability]]
+[[Interconnect_Routing]]
+[[Network_on_Chip]]
+[[NoC]]
 [[TCC]]
 
 ## Sources

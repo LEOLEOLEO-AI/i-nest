@@ -56,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[QuantumAnnealerSynapticTest]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Resilient_Satellite_Constellations]]
+[[RoleGeometryEmbedding]]
 [[SDDE_Attractor_Emergence]]
 [[SNN]]
 [[Spiking_Neural_Network]]

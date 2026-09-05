@@ -24,6 +24,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 
 ## Related Work
 
+[[ActionPrototypeClustering]]
 [[AdjustableDynamics]]
 [[AndersonTransition]]
 [[BackflowTransformation]]
@@ -54,6 +55,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[ReproducibleReservoirDynamics]]
 [[ReservoirDynamics]]
 [[Reservoir_Computing]]
+[[SparseTemporalEncoding]]
 [[TCC]]
 [[ThermallyDrivenSuperparamagnetReservoir]]
 [[iNEST]]

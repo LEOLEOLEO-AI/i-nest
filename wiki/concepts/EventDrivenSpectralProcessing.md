@@ -59,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeTimeEncoding]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
+[[StochasticSpikeEncoding]]
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
 [[TemporalLearning]]

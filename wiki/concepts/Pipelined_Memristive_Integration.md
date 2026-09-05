@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[CouplingTopologyMemoryLink]]
 [[Coupling_Strength_Encoding]]
 [[DARPA_ProjectManager_Model]]
+[[EcosystemTopologyCoupling]]
 [[ErrorSuppressedPipeline]]
 [[ExplosiveTransitionThreshold]]
 [[Fixed_Reservoir_Unitary]]

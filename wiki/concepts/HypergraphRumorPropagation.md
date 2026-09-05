@@ -59,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[Order_Flexibility_Duality]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]
+[[SDI_STDP]]
 [[SNN]]
 [[SOC]]
 [[Spiking_Neural_Network]]

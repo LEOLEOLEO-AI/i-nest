@@ -23,11 +23,15 @@ Auto-extracted concept from raw material compilation.
 [[ChipletWaferTopologyCoDesign]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Decoupled_Priors]]
 [[DiagnosticReportFramework]]
 [[EulaminateOverrepresentation]]
+[[Heterogeneous_Integration]]
 [[Intelligent_Computing_Infrastructure]]
+[[Interconnect_Topology]]
+[[Memory_Wall]]
 [[Network_Topology_Design]]
 [[TCC]]
 
@@ -36,3 +40,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- Software_Defined_Architecture (merged 2026-09-05)

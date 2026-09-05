@@ -20,11 +20,14 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Chiplet_Wafer_Interconnect_Abstraction]]
+[[Heterogeneous_Integration]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Wafer]]
 [[SDSoW]]
+[[SDSoW_Architecture]]
 [[SDSoW_Industry_Alliance]]
 [[SDSoW_Strategic_Planning]]
 [[TCC]]

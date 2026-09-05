@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[NoiseDrivenBackpropReconstruction]]
 [[NonEquilibriumComputing]]
+[[OpinionDrivenVaccination]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]
 [[SDI_STDP]]

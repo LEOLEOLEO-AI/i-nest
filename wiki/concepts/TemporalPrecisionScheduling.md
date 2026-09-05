@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[AthermalDynamics]]
 [[Bidirectional_Temporal_Enhancement]]
+[[BigBrainCellularAxis]]
 [[Complex_System_Theory]]
 [[DiscreteSTDP]]
 [[DistinguishableHelium4]]

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Course_Based_FPGA_Projects]]
 [[Crystallized_Neural_Manifolds]]
 [[CulturalDisseminationDynamics]]
+[[EcosystemTopologyCoupling]]
 [[EmergentOrder]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]

@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[EmulationTheoryObserver]]
 [[EnsembleSparsity]]
 [[Entropy_Connectivity_Path]]
+[[Fixed_Cost_Dominance]]
 [[GCML_Cognitive_Map]]
 [[Gut_Brain_Immune_Network]]
 [[Memristor]]

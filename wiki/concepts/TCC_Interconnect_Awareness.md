@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Scheduling]]
+[[Chiplet_Packaging]]
 [[Chiplet_Stacking]]
 [[Collective_Offloading]]
 [[Complex_System_Theory]]
@@ -55,6 +56,8 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[TCC]]
 [[TCC_Interconnect_Aware]]
+[[advanced packaging]]
+[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

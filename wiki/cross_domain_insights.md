@@ -1,35 +1,35 @@
 # Cross-Domain Insights
 
-**Generated**: 2026-09-02
+**Generated**: 2026-09-05
 
 ## Active Bridges (7)
 
-### SDI_Plastic_Interconnect (Strength: 1091)
+### SDI_Plastic_Interconnect (Strength: 1119)
 SDI's software-defined interconnect could implement plastic (reconfigurable) network topologies inspired by synaptic plasticity.
 - TCC concepts: [[1024_Card_SuperNode]], [[2_5D_3D_HeterogeneousIntegration]], [[2_5D_Interposer]]
-- iNEST concepts: [[1M1T1R_SynapticNeuron]], [[20W_Brain_Inspired_Planning]], [[Accessibility_Gradient]]
+- iNEST concepts: [[1M1T1R_SynapticNeuron]], [[20W_Brain_Inspired_Planning]], [[8State_3Bit_Storage]]
 
-### Chiplet_Heterogeneous_Neuromorphic (Strength: 928)
+### Chiplet_Heterogeneous_Neuromorphic (Strength: 953)
 Chiplet-based heterogeneous integration enables combining CMOS logic with memristor crossbar arrays for neuromorphic acceleration.
 - TCC concepts: [[1024_Card_SuperNode]], [[2_5D_3D_HeterogeneousIntegration]], [[2_5D_Interposer]]
-- iNEST concepts: [[1M1T1R_SynapticNeuron]], [[20W_Brain_Inspired_Planning]], [[Accessibility_Gradient]]
+- iNEST concepts: [[1M1T1R_SynapticNeuron]], [[20W_Brain_Inspired_Planning]], [[8State_3Bit_Storage]]
 
-### NoC_Spiking_Routing (Strength: 719)
+### NoC_Spiking_Routing (Strength: 733)
 NoC routing algorithms could be redesigned for event-driven spike packet delivery, reducing latency by orders of magnitude.
 - TCC concepts: [[1024_Card_SuperNode]], [[2_5D_Interposer]], [[3DHI_Integration]]
 - iNEST concepts: [[1M1T1R_SynapticNeuron]], [[20W_Brain_Inspired_Planning]], [[AcousticAnomalyDetection]]
 
-### WaferScale_Neuromorphic (Strength: 471)
+### WaferScale_Neuromorphic (Strength: 480)
 Wafer-scale integration could enable massive-scale neuromorphic chips with millions of neurons on a single die.
 - TCC concepts: [[1024_Card_SuperNode]], [[3DIntegratedPhotonicPackaging]], [[3D_Integration]]
 - iNEST concepts: [[1M1T1R_SynapticNeuron]], [[20W_Brain_Inspired_Planning]], [[Accessibility_Gradient]]
 
-### 3DIC_Neural_Stacking (Strength: 250)
+### 3DIC_Neural_Stacking (Strength: 253)
 3D-IC stacking mimics cortical columnar architecture, enabling dense neural processing layers.
 - TCC concepts: [[1024_Card_SuperNode]], [[2_5D_3D_HeterogeneousIntegration]], [[2_5D_Interposer]]
 - iNEST concepts: [[ActivityAvalanche]], [[AdaptersInSpikingNetworks]], [[AdaptiveAsymmetricSurrogateGradient]]
 
-### Topology_Brain_Connectome (Strength: 180)
+### Topology_Brain_Connectome (Strength: 189)
 Brain connectome topology patterns can inspire optimal NoC topologies for wafer-scale AI chips.
 - TCC concepts: [[1024_Card_SuperNode]], [[2_5D_3D_HeterogeneousIntegration]], [[2_5D_Interposer]]
 - iNEST concepts: [[20W_Brain_Inspired_Planning]], [[ActiveInferenceGenerativeModel]], [[ActiveSpikingPerception]]

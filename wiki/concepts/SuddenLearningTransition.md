@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[DTGA]]
 [[EEGSpikeEncoding]]
 [[ErrorAmplificationLimits]]
+[[EventDrivenMotionDeblurring]]
 [[EventDrivenSynchronization]]
 [[FrequencyAdaptationMechanism]]
 [[GraphAnomalySpikeEncoding]]

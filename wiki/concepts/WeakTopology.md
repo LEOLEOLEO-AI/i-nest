@@ -51,12 +51,15 @@ Auto-extracted concept from raw material compilation.
 [[NoC_SDI_Topology]]
 [[OpticalNetworkOnChip]]
 [[SDI_Bond]]
+[[SDI_Chiplet]]
 [[SDI_NPU_NoC_Integration]]
 [[SDI_NoC_Fusion]]
+[[SDI_NoC_Integration]]
 [[SDI_Topology]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
+[[chiplet interconnect]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

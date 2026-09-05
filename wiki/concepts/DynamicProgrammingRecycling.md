@@ -27,10 +27,12 @@ Auto-extracted concept from raw material compilation.
 [[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[AnalogDomainCompression]]
+[[AnalogInMemoryComputing]]
 [[ChipletTrafficAwareScheduling]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
+[[Chiplet_Integration]]
 [[Chiplet_NoC_Fabric]]
 [[Chiplet_NoC_Interconnect]]
 [[Chiplet_Stacking]]
@@ -54,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[ReproducibleReservoirOutput]]
 [[Reservoir_Computing]]
 [[TemporalFeatureProjection]]
+[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

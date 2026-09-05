@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Neuromorphic_Computing]]
+[[NonequilibriumLangevinComputing]]
 [[NonlinearDynamicalSystemsInference]]
 [[Nonlinear_Gain]]
 [[PhysicalSubstrateReservoir]]

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Active_Inference_Agent]]
 [[AdaptiveBitPrecisionExploration]]
 [[AdaptiveDensityControl]]
+[[AmorphousSolidPlasticity]]
 [[Neuromorphic_Computing]]
 [[ProgrammerGuideAbstraction]]
 [[Reservoir_Computing]]
@@ -36,3 +37,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- Liquid_AI (merged 2026-09-05)

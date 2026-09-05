@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_NoC_Fabric]]
 [[Chiplet_Stacking]]
+[[Collective_Offloading]]
 [[CommunicationAwareComputeRelocation]]
 [[Complex_System_Theory]]
 [[EntanglementAwareRouting]]

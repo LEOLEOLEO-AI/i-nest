@@ -27,6 +27,8 @@ Auto-extracted concept from raw material compilation.
 [[Combinatorial_Optimization_Readout]]
 [[ComputationEfficientDeepLearning]]
 [[Cortical_Traveling_Waves]]
+[[DARPA_ProjectManager_Model]]
+[[EfficientDeepLearning]]
 [[Neuromorphic_Computing]]
 [[Scalable_Neuromorphic_System]]
 [[iNEST]]

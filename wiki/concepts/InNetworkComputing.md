@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[BioPlausiblePredictiveCoding]]
 [[BurstGatedRouting]]
+[[CellEmergence]]
 [[Complex_System_Theory]]
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[Dynamic_Expert_Fusion]]

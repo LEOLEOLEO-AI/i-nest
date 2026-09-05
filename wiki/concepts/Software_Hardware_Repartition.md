@@ -25,10 +25,17 @@ Auto-extracted concept from raw material compilation.
 [[AutonomousServiceNegotiation]]
 [[BackpropagationFreeLearning]]
 [[Battery_Technology_Integration]]
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[CompactFieldVariable]]
 [[CongestionAwareNoCPlacement]]
+[[Decoupled_Priors]]
+[[Interconnect_Topology]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
+[[NoC]]
 [[TCC]]
 
 ## Sources

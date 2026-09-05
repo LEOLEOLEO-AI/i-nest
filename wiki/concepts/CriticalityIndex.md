@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenTemplateUpdate]]
 [[FPGAInference]]
 [[HigherOrderAvalanche]]
+[[In_Network_Neuromorphic_Acceleration]]
 [[NestedRepresentation]]
 [[SNN]]
 [[Self_Organized_Criticality]]

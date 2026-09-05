@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[DistinctReentrantPhases]]
 [[ERI_2_0_Strategy]]
 [[EvanescentFieldTrapping]]
+[[HierarchicalAttention_MIL]]
 [[ImaginaryGaugePhaseImprint]]
 [[Intelligence_Emergence]]
 [[ManyCore_Neuromorphic_Scaling]]

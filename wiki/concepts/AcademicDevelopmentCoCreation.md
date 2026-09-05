@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[CoexistencePhaseDiagram]]
 [[CombinedImportanceScoring]]
+[[Complex_System_Theory]]
 [[CoupledOscillatorReservoir]]
 [[CrystalPalace_Program]]
 [[Crystallized_Embedding_Reservoir]]

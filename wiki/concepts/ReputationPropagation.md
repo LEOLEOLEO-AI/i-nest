@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Nanoparticle_Network_Interconnect]]
 [[Network_Topology_Design]]
 [[OpenLearningEcosystem]]
+[[OpportunisticRouting]]
 [[P_Paradigm]]
 [[PacketRoutingForFPGAs]]
 [[TCC]]

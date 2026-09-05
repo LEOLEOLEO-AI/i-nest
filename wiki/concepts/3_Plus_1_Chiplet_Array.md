@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AdvancedPackagingInterconnect]]
 [[Allreduce_Latency_Diagnostic]]
 [[AndersonTransition]]
+[[Bipartite_Interconnect_Design]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]

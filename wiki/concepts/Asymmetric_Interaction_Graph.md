@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
+[[DynamicInference]]
 [[ERI_2_0_Strategy]]
 [[Experiment_Seven_Eight_Nine]]
 [[Experiment_Seven_Eight_Nine_Planning]]

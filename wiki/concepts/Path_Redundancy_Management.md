@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[EnergyOptimizedManycoreArchitecture]]
 [[FlagScale]]
 [[FlagScale_Training_Inference]]
+[[GPU_Bottleneck_Relief]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

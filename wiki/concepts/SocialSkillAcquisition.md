@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Architecture]]
 [[Event_Driven_Communication]]
 [[Event_Driven_Processing]]
+[[FrustratedDimerMagnet]]
 [[GradientBasedSpikeLearning]]
 [[Intelligence_Emergence]]
 [[InterFPGA_Spike_Routing]]

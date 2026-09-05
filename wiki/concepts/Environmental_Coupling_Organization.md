@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AINext_Initiative]]
+[[AnalogDomainCompression]]
 [[AnomalousSpinTransport]]
 [[Bipartite_Interconnect]]
 [[Bipartite_Interconnect_Design]]
@@ -29,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[ChipletOpticalIO]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration]]
 [[Chiplet_Integration_Route]]
 [[CouplingTopologyMemoryLink]]
 [[Coupling_Topology]]

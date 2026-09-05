@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[DRBE_MVP_Mainchain]]
 [[DataProvenanceIntegrity]]
 [[Decoupled_Priors]]
+[[Deep_Network_Architecture_Invariant]]
 [[DiagnosticReportFramework]]
 [[EulaminateOverrepresentation]]
 [[Exponential_CST_Coupling]]
@@ -81,6 +82,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect_Memristor]]
 [[Wafer_Scale_Neuromorphic]]
 [[Wafer_Scale_Neuromorphic_Integration]]
+[[chiplet interconnect]]
 [[complex system]]
 [[residual connection]]
 

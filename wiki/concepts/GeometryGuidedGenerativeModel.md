@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[BayesianDomainEvolution]]
 [[BehavioralFeedbackLoop]]
 [[BigBrainCellularAxis]]
+[[CST_SynergisticCoordination]]
 [[CST计量仪]]
 [[Cognitive_Relapse_Architecture]]
 [[ComplexEcosystemDynamics]]

@@ -22,10 +22,12 @@ Auto-extracted concept from raw material compilation.
 
 [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[AI_Faculty_Forum_2026]]
+[[ActionPrototypeClustering]]
 [[BiasEvaluationMetrics]]
 [[ChipletOpticalIO]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration]]
 [[Chiplet_Integration_Route]]
 [[Complex_System_Theory]]
 [[Cross_Node_Event_Propagation]]

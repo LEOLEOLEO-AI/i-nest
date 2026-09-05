@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenWeightUpdate]]
 [[Gut_Brain_Immune_Network]]
+[[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]

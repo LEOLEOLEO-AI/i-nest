@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
+[[TileBasedRasterization]]
 [[UniversalIntelligence_Emergence]]
 [[WavelengthMultiplexedInterconnect]]
 [[涌现]]

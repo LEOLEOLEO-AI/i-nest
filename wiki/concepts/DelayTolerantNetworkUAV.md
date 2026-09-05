@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[4H_SiC_SubstrateProcessing]]
 [[AI_Forum_Demo_Narrative]]
 [[AdaptiveGraphDiffusion]]
+[[Adaptive_Intelligence_Principle]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[ArtificialProprioception]]
 [[BurstGatedRouting]]

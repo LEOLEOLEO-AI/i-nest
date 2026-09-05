@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[MultiTimescaleSeparation]]
 [[NCL神经计算定律详解]]
 [[Network_Topology_Design]]
+[[NonlinearWaveMixing]]
 [[Nonlinear_Gain]]
 [[SelfHealing_Interconnect]]
 [[Self_Organized_Criticality]]

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Catastrophic_Forgetting_Mitigation]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Complex_System_Theory]]
+[[Complexity_Emergence]]
 [[CriticalityDrivenLearning]]
 [[Criticality]]
 [[Criticality_Induced_Plasticity]]

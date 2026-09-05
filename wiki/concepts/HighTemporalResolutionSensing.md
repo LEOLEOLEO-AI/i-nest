@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Meta_Residual_Learning]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]
+[[SDDE_Attractor_Emergence]]
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SNN]]

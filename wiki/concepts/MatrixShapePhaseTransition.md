@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[MachineLearningNanomaterialDiscovery]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]

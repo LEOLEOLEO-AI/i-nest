@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[BigBrainCellularAxis]]
+[[BrownianCastleInterface]]
 [[BrownianCastleInterfaces]]
 [[ComplexValuedSNN]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
@@ -28,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[Hardware_Accelerated_SNN]]
+[[HippocampalNeocorticalIntelligence]]
 [[HodgkinHuxleyDynamics]]
 [[Intelligence_Emergence]]
 [[Loihi]]

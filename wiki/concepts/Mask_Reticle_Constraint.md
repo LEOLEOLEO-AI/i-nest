@@ -30,10 +30,13 @@ Auto-extracted concept from raw material compilation.
 [[Advanced_Packaging_for_Space]]
 [[AnalogInMemoryComputing]]
 [[Analog_Synaptic_Weighting]]
+[[ApproximationFidelityTradeoff]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration]]
 [[Heterogeneous_Integration]]
 [[TCC]]
+[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

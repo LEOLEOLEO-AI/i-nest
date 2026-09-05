@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[BarrierConditionedTrajectory]]
 [[BrownianCastleInterface]]
 [[ErrorSuppressedPipeline]]
+[[FreeEnergyMinimizationRouting]]
 [[Generation_Readiness_Assessment]]
 [[Interconnect_Routing]]
 [[MLChiralityDecoder]]

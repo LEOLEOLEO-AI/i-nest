@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]
+[[Network_Specific_Embedding_Separation]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Planning_Revolution]]

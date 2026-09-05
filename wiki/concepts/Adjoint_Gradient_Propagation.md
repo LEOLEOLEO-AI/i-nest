@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossLayer_SignalRouting]]
 [[Defense_Industrial_Base_Reshaping]]
 [[DirectTrainingSNN]]
+[[Direct_Training_Spiking_Neural_Networks]]
 [[DualModeSNNConventionalInference]]
 [[FastSlow_Dynamics]]
 [[FlagOS_2_0]]

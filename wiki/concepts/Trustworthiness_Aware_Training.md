@@ -28,7 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveMatterComputing]]
 [[AdaptiveGraphDiffusion]]
 [[Adaptive_Deep_Brain_Stimulation]]
-[[Advanced_Packaging]]
+[[Adaptive_Intelligence_Principle]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Analog_To_Information_Conversion]]
 [[AndersonTransition]]
@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[RedundancyControlledStochasticRouting]]
 [[SOC]]
 [[StochasticVehicleRouting]]
+[[advanced packaging]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

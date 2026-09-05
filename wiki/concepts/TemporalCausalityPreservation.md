@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Edge_Neuromorphic_Compute]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
+[[Event_Based_Tracking_Baseline]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]

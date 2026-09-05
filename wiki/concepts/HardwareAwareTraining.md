@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[NonHermitianSpectralCorrelations]]
 [[RateEncodedSpikingNeuralNetwork]]
+[[RobustnessToNoiseInSNN]]
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SNN]]

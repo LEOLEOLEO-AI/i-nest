@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AIRA_NeuralArchSearch]]
 [[AI_Faculty_Forum_2026]]
 [[AlloyDisorderEngineering]]
+[[BigBrainCellularAxis]]
 [[Complex_Network_Brain_Inspired_Computing]]
 [[Complex_System_Theory]]
 [[DevelopmentalNeuromorphicAdaptation]]

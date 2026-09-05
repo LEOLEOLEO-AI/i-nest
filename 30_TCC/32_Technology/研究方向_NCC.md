@@ -13,10 +13,14 @@ provenance: own
 - [[10_Knowledge/99_参考资料/04_会议战略/面向万亿参数大模型训练的SDI_软件定义互联___网内原生_AI_通信加速系统|网内原生 AI 通信加速系统]]
 
 ## 导入文献（自动汇总）
-```dataview
-TABLE direction, imported_at, source_ext
-FROM "00_Inbox/文献与碎片/DownloadImports"
-WHERE contains(tags, "tcc")
-SORT imported_at desc
-LIMIT 200
+```datacorejsx
+function Render() {
+  const pages = dc.useQuery("@page");
+  const rows = pages.filter(function(p) {
+    var fm = p.$frontmatter || {};
+    var tags = fm.tags || [];
+    return tags.indexOf("tcc") >= 0 && (p.$path || "").indexOf("00_Inbox/") === 0;
+  });
+  return <dc.List rows={rows} renderer={function(p) { return <dc.Link link={p.$link} />; }} />;
+}
 ```

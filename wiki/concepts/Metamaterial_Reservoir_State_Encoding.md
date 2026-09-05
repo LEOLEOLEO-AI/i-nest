@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3D_Heterogeneous_Integration]]
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_Driven_Power_Density_Scaling]]
 [[AcceleratedMaterialScreening]]

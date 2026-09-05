@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[Spiking_Sequence_Generator]]
+[[SynapticFatigueModel]]
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
 [[iNEST]]

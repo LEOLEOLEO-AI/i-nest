@@ -56,9 +56,12 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Topology]]
 [[STDP_Plasticity]]
 [[Spaceborne_Computing_Architecture]]
+[[SpatialPatternStorage]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[ThroughSiliconVia_TSV_ThermalPath]]
+[[advanced packaging]]
+[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

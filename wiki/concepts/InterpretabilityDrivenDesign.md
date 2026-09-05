@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[NestedRepresentation]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
+[[Photonic_Reservoir_Computing]]
 [[ReservoirDynamics]]
 [[Reservoir_Computing]]
 [[SNN]]

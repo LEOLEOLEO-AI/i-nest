@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[NoiseDrivenBackpropReconstruction]]
 [[OpinionDrivenVaccination]]
+[[QuantumFluctuationDrivenTransport]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[Spike_Encoding_of_fMRI]]

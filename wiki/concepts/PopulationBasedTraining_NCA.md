@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Ant_Swarm_Functional_Control]]
 [[Architectural_Conditioning]]
 [[BackpropFree_Learning]]
+[[CoPackagedOptics]]
 [[Complex_System_Theory]]
 [[Continual_Learning_Modularity]]
 [[Distributed_Intelligent_Manufacturing]]

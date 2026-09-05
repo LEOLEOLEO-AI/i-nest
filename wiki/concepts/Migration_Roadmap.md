@@ -33,11 +33,13 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Interconnect_Topology]]
 [[KeyMaterialStrategy]]
+[[Mesoscale_Advantage_Equation]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[National_Mesoscale_Innovation_Center]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
+[[chiplet interconnect]]
 [[iNEST]]
 
 ## Sources

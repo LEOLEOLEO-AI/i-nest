@@ -36,8 +36,10 @@ Auto-extracted concept from raw material compilation.
 [[Branch_Prediction_in_Pipelined_Processors]]
 [[Compact_Sequence_Encoding]]
 [[DiffAttention_SubtractiveMechanism]]
+[[Discrete_Event_Spike_Simulation]]
 [[Neuromorphic_Computing]]
 [[TCC]]
+[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

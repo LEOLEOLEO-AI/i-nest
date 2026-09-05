@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Stacking]]
 [[Chiplet_Topology]]
 [[CoPackagedOptics]]
+[[Collective_Offloading]]
 [[Complex_System_Theory]]
 [[DataMovementMinimization]]
 [[Heterogeneous_Integration]]
@@ -57,6 +58,8 @@ Auto-extracted concept from raw material compilation.
 [[NoC]]
 [[NoC_Interconnect]]
 [[TCC]]
+[[advanced packaging]]
+[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect_Memristor]]
 [[Wafer_Scale_LLM_Inference]]
 [[Wafer_Scale_Neuromorphic]]
+[[Wafer_Scale_Neuromorphic_Integration]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

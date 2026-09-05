@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[Nonlinear_Gain]]
 [[OpenSource_Neuromorphic_Framework]]
+[[PersonalizedSNNTransfer]]
 [[PerturbationSpaceTrajectory]]
 [[ReSCom_Accelerator]]
 [[Recurrent_Network_Homeostasis]]

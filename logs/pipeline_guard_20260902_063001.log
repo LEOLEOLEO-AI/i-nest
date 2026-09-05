@@ -1,0 +1,97 @@
+
+============================================================
+  iNEST + TCC Research Pipeline v3.3
+  2026-09-02 06:30
+============================================================
+[06:30:01] [S2] Searching Semantic Scholar (19 queries)...
+[06:30:08]   S2: 429 rate limited; skip S2 for this run and continue with arXiv/GN
+[06:30:08] [arXiv] Searching arXiv (via proxy, 21 queries)...
+[06:30:21]   arXiv TCC-scale-noc: 429 rate limit, waiting 15s (exponential backoff)...
+[06:30:38]   arXiv skip irrelevant: Trajectory-Initialized Neural Double Q-Routing for Large-Sca
+[06:30:38]   arXiv skip irrelevant: CHIPSMORE: Compute-in-Interconnect and -Memory Chiplets for 
+[06:30:38]   arXiv skip irrelevant: Beyond Polarization: The Generative Constraint of Chain-of-T
+[06:30:52]   arXiv skip irrelevant: Integrated Microwave Photonics: From Material Platforms to S
+[06:30:52]   arXiv skip irrelevant: Conjoint Audio-to-Spikes Encoding and Processing for Efficie
+[06:30:52]   arXiv skip irrelevant: Bounds on Shaping Partially Coherent Microwaves with Program
+[06:30:58]   arXiv skip irrelevant: A Networked SIS Epidemic--Opinion Model with Higher-Order In
+[06:30:58]   arXiv skip irrelevant: Domain-Varying 2D Green' s Functions for Cage-based Deformat
+[06:30:58]   arXiv skip irrelevant: The Homotopy Types of the Independence and Perfect Matching 
+[06:31:04]   arXiv skip irrelevant: LLM-based Hardware Development with Hierarchical IRs and End
+[06:31:04]   arXiv skip irrelevant: CHIPSMORE: Compute-in-Interconnect and -Memory Chiplets for 
+[06:31:04]   arXiv skip irrelevant: Scalable AXI4 Transaction Monitoring for Mixed-Criticality S
+[06:31:09]   arXiv: batch separator, pausing 10s...
+[06:31:27]   arXiv skip irrelevant: RL-based Network Slice Embedding over Space Division Multipl
+[06:31:27]   arXiv skip irrelevant: Frequency Selective Neural Networks as a Foundation Architec
+[06:31:27]   arXiv skip irrelevant: Machine-learning-assisted multiscale topology optimization o
+[06:31:53]   arXiv TCC-qos: <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>, retry 1...
+[06:32:26]   arXiv skip irrelevant: Learning-Assisted Congestion-Aware Route Scheduling for Semi
+[06:32:26]   arXiv skip irrelevant: Trajectory-Initialized Neural Double Q-Routing for Large-Sca
+[06:32:26]   arXiv skip irrelevant: Scalable AXI4 Transaction Monitoring for Mixed-Criticality S
+[06:32:52]   arXiv iNEST-selforg-critical: <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>, retry 1...
+[06:33:14]   arXiv skip irrelevant: Overcoming critical slowing down in frustrated spin systems 
+[06:33:14]   arXiv skip irrelevant: Growth of helicity in salt-finger convection in the two-dime
+[06:33:14]   arXiv skip irrelevant: Efficiency of cooperation incentives in evolutionary populat
+[06:33:37]   arXiv skip irrelevant: Superextensive learning in quantum reservoirs at the onset o
+[06:33:37]   arXiv skip irrelevant: Schrödinger Bridges over Kinetic Swarming Models
+[06:33:43]   arXiv skip irrelevant: Learning Continuous Regional Temperature Fields with Lead-Ti
+[06:33:48]   arXiv: batch separator, pausing 10s...
+[06:34:25]   Insight [3/3]: Conjoint Audio-to-Spikes Encoding and Processing f...
+[06:34:36]   Insight [1/3]: Non-uniform Memory Partitioning For Low-Power Spik...
+[06:34:36]   Insight [1/3]: Event-Driven Language Models with Sparse Neural Ac...
+[06:34:42]   arXiv skip irrelevant: Coarse-grained models for loop quantum gravity and their ren
+[06:34:42]   arXiv skip irrelevant: InsightToast: Proactive Information Retrieval & Glanceable V
+[06:34:42]   Insight [2/3]: Sparse Competition during Training For the Emergen...
+[06:34:48]   arXiv skip irrelevant: Pretrained, Curriculum-Tuned, and Ensembled: A Tracer-Aware 
+[06:34:48]   arXiv skip irrelevant: An Open-Source, Event-Driven Pipeline for Cryptocurrency Mar
+[06:34:54]   arXiv skip irrelevant: Background-Free Objectness Learning for Class-Agnostic Detec
+[06:34:54]   arXiv skip irrelevant: Movable Antenna Arrays with Imperfect Channel State Informat
+[06:34:54]   arXiv skip irrelevant: Structurally Informed Connectivity Disruptions in Cocaine Us
+[06:35:01]   arXiv skip irrelevant: A Networked SIS Epidemic--Opinion Model with Higher-Order In
+[06:35:01]   arXiv skip irrelevant: Quantum non-local games: Quantum relations, projection latti
+[06:35:01]   Insight [2/3]: Perturbation responses on topological synchrony in...
+[06:35:06]   arXiv: batch separator, pausing 10s...
+[06:35:26]   arXiv skip irrelevant: Adaptive Finite-Time Position-Force Control of Teleoperation
+[06:35:26]   arXiv skip irrelevant: From quantum reservoirs to quantum extreme learning machines
+[06:35:26]   跳过重复: Memristive-Friendly Hadamard Reservoir Computing: ... [Title: Memristive-Friendly Hadamard Reservoir Computing: Structured, Multiplier-Free Re]
+[06:35:33]   arXiv skip irrelevant: A Geometry-Driven, Framework-Agnostic Optimization for Objec
+[06:35:33]   跳过重复: Optimal Transport for Network Comparison: A Review... [Title: Optimal Transport for Network Comparison: A Review with Machine Learning Applica]
+[06:35:41]   arXiv skip irrelevant: Local-to-Global Sentence-Level Graph Reranking for Scientifi
+[06:35:41]   arXiv skip irrelevant: Deterministic Identification over Additive Gaussian Channels
+[06:35:52]   arXiv: batch separator, pausing 10s...
+[06:36:04]   arXiv skip irrelevant: Towards Reproducible Evaluation of Distributed Quantum Circu
+[06:36:04]   arXiv skip irrelevant: Distributed Training using an Intelligent Network
+[06:36:09] [arXiv] 5 new papers, 0 errors across 21 queries
+[06:36:09] [GN] Google News RSS...
+[06:38:15]   GN error (TCC): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[06:40:22]   GN error (iNEST): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[06:42:30]   GN error (emergence): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[06:44:37]   GN error (complex-networks): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[06:44:38] [GN] 0 new articles
+
+  Total: 5 new items to inbox
+[06:44:38] [Process] LLM classify (free tier, limit=20)...
+[06:45:07]   归档 10_Knowledge\Insights\实施方案意见.md [General]
+[06:45:07] [Process] LLM classified inbox note
+[06:45:19] [Process] Classified: 1
+[06:45:19] [Genspark] Generating research brief...
+[06:45:19] [Genspark] Research brief written: genspark_research_brief.md
+[06:45:19] [Graph] Scanning wiki links...
+[06:45:20] [Graph] 12369 files, 236792 links
+[06:46:19] [Graph] Exported: 12369 nodes, 233353 edges
+[06:46:19] [Graph] 0 missing backlinks
+[06:47:52] [DailyGen] Daily_Action + Focus + Insights generated
+[06:47:52] [Review] Research task proposals refreshed
+
+============================================================
+  Pipeline v3.3 Complete
+  Sources: 0(S2)+5(arXiv)+0(GN) | Written: 5 new papers
+  Processed: 1 | Nodes: 12369 edges: 233353 | Missing links: 0 | Genspark: OK
+  Elapsed: 1071s
+============================================================
+[06:47:52] [State] research_state.json updated
+[06:47:52] [Evolution] Evidence + hypotheses updated
+[06:48:52] [Wiki] Warning: Command '['C:\\Users\\LEO\\AppData\\Local\\Programs\\Python\\Python310\\python.exe', 'D:\\Obsidian\\vault\\90_System\\scripts\\wiki_compiler.py']' timed out after 60 seconds
+[06:48:53] [Insight] Cross-domain bridges updated
+[06:49:29] [Tasks] Research recommendations updated
+[06:49:30] [Dashboard] Live dashboard published
+[06:49:31] [Homepage] Home.md auto-refreshed

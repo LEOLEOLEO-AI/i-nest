@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Deep_Brain_Stimulation]]
 [[Adaptive_EW_Neuromorphic_Controller]]
 [[Agent_Workflow_Automation]]
+[[AmorphousSolidPlasticity]]
 [[AnisotropicSymmetryBreaking]]
 [[ArtificialProprioception]]
 [[AstrocyteInspiredRepair]]

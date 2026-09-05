@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[DelayTolerantNetworkUAV]]
 [[FPGA_Reconfigurability]]
 [[Free_Energy_Topology_Mapping]]
+[[InSitu_Adjoint_Wave_Control]]
 [[Interconnect_Routing]]
 [[LLM_Reward_Design]]
 [[MeasurementInducedRouting]]

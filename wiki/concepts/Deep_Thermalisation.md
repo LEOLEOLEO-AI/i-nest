@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[ChiralSymmetryClasses]]
 [[Complex_System_Theory]]
 [[ComputeRelocationOverhead]]
+[[Concepts-Theory — 全景导航 (Map of Content)]]
 [[DataCenter_Chip_Logic_Compression]]
 [[DistinctReentrantPhases]]
 [[Free_Energy_Principle]]

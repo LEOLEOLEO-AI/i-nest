@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[MachineLearningNanomaterialDiscovery]]
 [[Memristive_Topology]]
+[[NCL神经计算定律详解]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[RecursiveSelfReferentialArchitecture]]

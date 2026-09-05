@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[BackpropagationFreeLearning]]
 [[Baseline_Draft_Status]]
 [[BoundaryObject_Abstraction]]
+[[CellEmergence]]
 [[CircuitTopologySearch]]
 [[Complex_System_Theory]]
 [[CrossLingualIdiomGraph]]

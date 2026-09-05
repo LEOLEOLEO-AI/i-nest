@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[BCM滑动阈值]]
 [[CST_Synergy_Coordination]]
 [[CST_V42_SelfConsistency]]
+[[ClassicalQuantum_Query_Benchmark]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

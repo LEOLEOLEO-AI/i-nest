@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[TopologicalInvariancePrinciple]]
+[[Topological_Invariant_Shift]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

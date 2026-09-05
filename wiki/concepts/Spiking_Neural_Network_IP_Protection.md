@@ -31,9 +31,11 @@ Auto-extracted concept from raw material compilation.
 [[AgentBasedCorruptionModel]]
 [[Analog_Synaptic_Behavior]]
 [[BurstTemporalPlasticity]]
+[[EventDrivenSynchronization]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 
 ## Sources

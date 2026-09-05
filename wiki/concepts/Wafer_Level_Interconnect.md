@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Heterogeneous_Integration]]
 [[Interconnect_Topology]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
@@ -37,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC_Interconnect_Topology]]
 [[TopologyAwareTaskScheduling]]
 [[TopologyCentricPrimitiveSystem]]
+[[WSE_OnWafer_Fabric]]
 [[Wafer_Scale_Integration]]
 [[iNEST]]
 [[iNEST_Wafer]]

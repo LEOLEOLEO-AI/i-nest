@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveFrequencyResonateFire]]
 [[AdaptiveSTDP]]
 [[AdaptiveSpeechToSpikeEncoding]]
+[[Adaptive_EW_Neuromorphic_Controller]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[BrainBodyResonance]]

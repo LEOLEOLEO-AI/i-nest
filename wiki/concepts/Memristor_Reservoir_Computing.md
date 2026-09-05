@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[SNN]]
+[[SNN_TCC_Integration]]
 [[Spiking_Neural_Network]]
 [[Stochastic_LIF_Inference]]
 [[branch prediction]]

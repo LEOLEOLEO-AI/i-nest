@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicLocomotionPrimitive]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
+[[OptimalRepresentations]]
 [[Order_Flexibility_Duality]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]

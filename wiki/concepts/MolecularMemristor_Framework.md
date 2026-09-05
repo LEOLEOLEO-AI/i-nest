@@ -22,12 +22,16 @@ Auto-extracted concept from raw material compilation.
 
 [[AutonomousAdaptation]]
 [[BranchingRatioControl]]
+[[BranchingRatio]]
 [[ComplexTopologicalStructures]]
 [[CorticalWaveRouting]]
 [[CrossbarArrayVLSI]]
 [[DevelopmentalNeuromorphicAdaptation]]
+[[FPGAInference]]
+[[Interconnect_Routing]]
 [[Memristor]]
 [[Memristor_Synapse]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[iNEST]]
 

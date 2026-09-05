@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[PacketRoutingForFPGAs]]
 [[STDPDrivenConnectivity]]
 [[STDP_Plasticity]]
+[[Space_Radiation_Hardening]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[VectorFlowField]]

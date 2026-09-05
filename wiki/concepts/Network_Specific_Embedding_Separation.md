@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Metriplectic_Twin]]
 [[Model_Routing_Protocol]]
+[[Multifractal_Signatures]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Chiplet]]

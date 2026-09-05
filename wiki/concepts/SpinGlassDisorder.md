@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[AI人工智能 卷积神经网络（CNN）_w3cschool]]
 [[Agent_Workflow_Automation]]
 [[Analog_InMemory_Processing]]
+[[Backpropagating_Action_Potential]]
 [[Barrier_Hierarchy]]
 [[BifurcationCandidateSet]]
 [[BifurcationCandidate]]

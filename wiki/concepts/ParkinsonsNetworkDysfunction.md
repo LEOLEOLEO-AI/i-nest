@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Ethical_AI_Constraints]]
 [[Expert_Review_Arbitration]]
 [[Fading_Memory_Property]]
+[[Ferroelectric_Devices]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]

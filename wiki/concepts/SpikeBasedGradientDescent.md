@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[SNN_NeuroprostheticPipeline]]
 [[Self_Organized_Criticality]]
+[[SpikeBackpropagation]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[Topology_Aware_Spike_Routing]]

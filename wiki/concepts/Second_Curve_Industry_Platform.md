@@ -83,6 +83,8 @@ Auto-extracted concept from raw material compilation.
 [[TemporalComplexity]]
 [[Textbook_Paradigm_Definition]]
 [[ThermalNoiseHarnessing]]
+[[TopologyAware_Renormalization]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Interconnect]]
 [[iNEST_Wafer]]

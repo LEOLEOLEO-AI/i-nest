@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor]]
 [[Memristor_Interconnect]]
 [[Memristor_Synapse]]
+[[Mesoscale_Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC]]
@@ -57,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[TCC]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

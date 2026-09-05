@@ -20,6 +20,8 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3DHI_Chiplet_Integration]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_Architecture]]
 [[Advanced_Packaging_Foundry]]
 [[ArchitectureParadigm]]

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
 [[Complex_System_Theory]]
+[[DeeplySupervisedSpiking]]
 [[DrivenDissipativeDynamics]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]

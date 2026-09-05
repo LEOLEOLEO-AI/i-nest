@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Crystallized_Neural_Manifolds]]
 [[CulturalDisseminationDynamics]]
 [[DendriticReservoirState]]
+[[DeviceLevelNonlinearityScaling]]
 [[Dynamic_Expert_Fusion]]
 [[Edge_Intelligence]]
 [[Emergent_Intelligence]]

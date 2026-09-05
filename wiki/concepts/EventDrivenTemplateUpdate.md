@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[EventBasedGestureEncoding]]
 [[EventDrivenComputation]]
 [[EventDrivenControlLoop]]
+[[EventDrivenDataAssociation]]
 [[Event_Driven_Architecture]]
 [[Event_Driven_Computation]]
 [[Event_Driven_Gait_Transition]]

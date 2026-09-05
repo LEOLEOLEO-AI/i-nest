@@ -56,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[NonEquilibriumComputing]]
 [[NonequilibriumLangevinComputing]]
+[[QuantumInspiredHarmonySearch]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[iNEST]]

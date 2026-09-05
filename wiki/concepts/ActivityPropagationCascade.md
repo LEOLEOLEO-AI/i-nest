@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[Gradient_Signal_Preservation]]
 [[Interconnect_Routing]]
+[[InterconnectionStrengthEncoding]]
 [[Local_Approximation_Dynamics]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

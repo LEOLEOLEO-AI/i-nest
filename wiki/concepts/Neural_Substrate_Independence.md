@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[IntrinsicDynamicsAutonomy]]
 [[LeftRightAsymmetry]]
 [[MeasurementInducedPhaseTransition]]
+[[Memristor_Synapse]]
 [[Metriplectic_Twin]]
 [[Multifractal_Signatures]]
 [[NeuromorphicHardware]]

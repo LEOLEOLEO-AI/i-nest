@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Material_Circularity]]
 [[Multiplex_Epidemic_Threshold]]
+[[Nanoparticle_Network_Interconnect]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[RecursiveSelfReferentialArchitecture]]

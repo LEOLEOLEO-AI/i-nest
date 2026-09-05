@@ -58,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[Syncytial_Mesh_Model]]
 [[TwoTimescaleNeuroEvolution]]
 [[iNEST]]
+[[iNEST_Neuromorphic_Integration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

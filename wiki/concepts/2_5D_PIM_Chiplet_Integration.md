@@ -30,12 +30,14 @@ Auto-extracted concept from raw material compilation.
 [[AnalogInMemoryComputing]]
 [[Analog_InMemory_Processing]]
 [[Bipartite_Interconnect]]
+[[Bipartite_Interconnect_Design]]
 [[CMOS_Memristor_Devices]]
 [[CXL_Deployment_Transition]]
 [[ChipletTopologyAwareness]]
 [[Chiplet]]
 [[Chiplet_Based_Architecture]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration]]
 [[ComputeRelocationOverhead]]
 [[CrossDomain_Integration]]
 [[CrossbarArrayPrecision]]
@@ -52,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[SneakPathCurrentSuppression]]
 [[TCC]]
+[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

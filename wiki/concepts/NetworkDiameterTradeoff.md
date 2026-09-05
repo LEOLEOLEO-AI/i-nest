@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[RISBeamSpatialSignature]]
 [[SDI_Bond]]
 [[STDP_Plasticity]]
+[[Space_Radiation_Hardening]]
 [[SymmetricQuantumCircuit]]
 [[Synaptic_Plasticity]]
 [[TCC]]

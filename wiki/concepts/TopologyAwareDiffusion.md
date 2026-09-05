@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Connectome]]
 [[Connectome_Reservoir]]
+[[Connectome_Verification_Protocol]]
 [[Crystallized_Neural_Manifolds]]
 [[EvolutionaryReservoirLearning]]
 [[GraphEmbeddedReservoir]]

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[20W_Brain_Inspired_Planning]]
+[[Accessibility_Plasticity]]
 [[GeneralizationPhaseBoundary]]
 [[Interconnect_Routing]]
 [[Memristor]]

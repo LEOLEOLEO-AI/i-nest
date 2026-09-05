@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Nanoencapsulation_Stability_Bioavailability]]
 [[Neuromorphic_Computing]]
 [[Parkinsonian_Neural_State_Detection]]
+[[PowerLawScaling]]
 [[SNN]]
 [[STDP_Plasticity]]
 [[SelfOrganizedRobustness]]

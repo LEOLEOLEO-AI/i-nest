@@ -33,10 +33,15 @@ Auto-extracted concept from raw material compilation.
 [[Advanced_Packaging_for_Space]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration]]
 [[Chiplet_Stacking]]
 [[CoPackagedOptics]]
 [[Compute_In_Memory_Neuromorphic]]
+[[DecliningModularity]]
 [[Heterogeneous_Integration]]
+[[In_Memory_Computing]]
+[[Neuromorphic_Computing]]
+[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

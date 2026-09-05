@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[AnisotropicSymmetryBreaking]]
 [[ArtificialProprioception]]
 [[Brain_Inspired_Switchless_Architecture]]
+[[CoPackagedOptics]]
 [[CognitiveFeedbackLoop]]
 [[Collective_State_Convergence]]
 [[CompetitiveEdgeRewiring]]

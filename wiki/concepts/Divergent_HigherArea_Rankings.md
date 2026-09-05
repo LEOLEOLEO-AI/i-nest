@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[DTGA]]
 [[Decoupling_Mechanism]]
 [[FPGA_Reconfigurability]]
+[[FluxAttachmentTopology]]
 [[GenerativeTopologyModels]]
 [[Inference_Stage_Decomposition]]
 [[Inference_Workload_Profiling]]

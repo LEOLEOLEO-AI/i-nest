@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[6万+辛顿2025年度全景实录深读｜真正的智能与硅基智能的非对称演进]]
 [[Allreduce_Latency_Probe]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[CirculateFiringNeuron]]
@@ -28,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[EpidemicThreshold]]
 [[Intelligence_Emergence]]
 [[Memristive_STDP]]
+[[Memristor]]
 [[Memristor_Synapse]]
 [[NUMA_Balancing_Overhead]]
 [[Nature Communications_生物神经网络中突触多样性如何让人工神经网络更强大？]]

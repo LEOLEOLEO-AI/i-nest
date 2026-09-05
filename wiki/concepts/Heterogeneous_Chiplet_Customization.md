@@ -38,11 +38,13 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Based_Trusted_Hardware]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
+[[Chiplet_Integration]]
 [[Chiplet_Interconnect]]
 [[Chiplet_NoC_Fabric]]
 [[Chiplet_NoC_Interconnect]]
 [[Chiplet_Stacking]]
 [[Chiplet_Wafer_Topology]]
+[[Collective_Offloading]]
 [[DARPA_ProjectManager_Model]]
 [[Decoupled_Priors]]
 [[Deep_Network_Architecture_Invariant]]
@@ -67,6 +69,8 @@ Auto-extracted concept from raw material compilation.
 [[Structural_Mismatch]]
 [[TCC]]
 [[TemporalComplexity]]
+[[advanced packaging]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -56,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[SynapticRewiringDynamics]]
 [[TCC]]
 [[iNEST]]
+[[iNEST_Neuromorphic_Integration]]
 [[neuromorphic spiking]]
 
 ## Sources

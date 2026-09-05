@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[SpectralSupportAnalysis]]
 [[SpikeTimingDependentUpdate]]
+[[Spike_timing_dependent_plasticity_learning_rule]]
 [[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

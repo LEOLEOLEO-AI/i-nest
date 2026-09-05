@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[CouplingMatrixRecovery]]
 [[Coupling_Strength_Encoding]]
 [[CriticalFixedPoint]]
+[[CrossInstitutionalNetwork]]
 [[Crystallized_Neural_Manifolds]]
 [[DendriticReservoirState]]
 [[DifferentiableLifting]]

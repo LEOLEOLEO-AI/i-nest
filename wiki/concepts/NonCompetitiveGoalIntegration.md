@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[FC2_NeuralCircuit]]
 [[FastSlow_Dynamics]]
 [[FieldTopologyEmbedding]]
+[[GoalNormalization]]
 [[HallmarksOfCancer]]
 [[ImaginaryGaugePhaseImprint]]
 [[Intelligence_Emergence]]

@@ -57,8 +57,10 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[ReproducibleReservoirComputing]]
 [[Reservoir_Computing]]
+[[SDI_STDP]]
 [[STDP_Plasticity]]
 [[StochasticActivationPerturbation]]
+[[Synaptic_Plasticity]]
 [[TwoTimescaleNeuroEvolution]]
 [[iNEST]]
 

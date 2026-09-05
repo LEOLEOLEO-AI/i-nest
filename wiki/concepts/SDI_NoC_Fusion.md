@@ -56,10 +56,13 @@ Auto-extracted concept from raw material compilation.
 [[SDI_NPU_NoC_Integration]]
 [[SDI_NoC_Integration]]
 [[SDI_Topology]]
+[[SparseTemporalEncoding]]
 [[SparsityAwareInterconnect]]
 [[TCC]]
 [[WaferScale_Chiplet_Interconnect]]
 [[WideLink_NoC_Router]]
+[[advanced packaging]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

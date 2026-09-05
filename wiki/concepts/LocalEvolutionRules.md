@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[MajoranaZeroMode]]
 [[Memristive_Topology]]
 [[Mesoscale_Physical_Computing_Framework]]
+[[MicroTransferPrinting]]
 [[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]
 [[TCC]]

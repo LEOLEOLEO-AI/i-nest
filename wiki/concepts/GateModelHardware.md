@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[3DHI_Interconnect]]
 [[3d]]
 [[AI_Faculty_Forum_2026]]
+[[Bipartite_Interconnect_Design]]
 [[BondMovingDecimation]]
 [[ChipletRoutingFabric]]
 [[Chiplet]]

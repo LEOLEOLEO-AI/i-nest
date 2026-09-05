@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[ImaginaryGaugePhaseImprint]]
 [[Intelligence_Emergence]]
+[[InterChipletPHYModeling]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[TCC]]

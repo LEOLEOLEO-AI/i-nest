@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[EdgeIoTEnergyAwareness]]
 [[EpoxyMoldingCompoundFlow]]
 [[ExplosiveCooperationTransition]]
+[[FerroelectricMemoryCell]]
 [[Heterogeneous_Integration]]
 [[Heterogeneous_Integration_Roadmap]]
 [[Heterogeneous_Integration_Roadmap_HIR]]

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[20W_Brain_Inspired_Planning]]
 [[AI4PDE｜综述·论文推荐 08｜物理信息神经网络在偏微分方程问题中的应用：全面综述]]
 [[AI_Faculty_Forum_2026]]
+[[Alignment_Tax]]
 [[AstrocyteInspiredRepair]]
 [[Complex_System_Theory]]
 [[Network_Topology_Design]]

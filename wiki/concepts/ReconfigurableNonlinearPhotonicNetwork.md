@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Nonlinear_Gain]]
+[[ReconfigurableNonlinearPhotonicNetworks]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDSoW]]
 [[SDSoW_Architecture]]

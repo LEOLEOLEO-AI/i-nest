@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[PhysicallyInformedDeepLearning]]
 [[Pseudofractal_Web]]
+[[RedundancyControlledStochasticRouting]]
 [[ScalableNeuromorphicTopology]]
 [[Semantic_Optimizer]]
 [[StochasticVehicleRouting]]

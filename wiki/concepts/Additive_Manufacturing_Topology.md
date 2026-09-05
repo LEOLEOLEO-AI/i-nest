@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle_Network]]
 [[FullDimensionalDefinableInterconnect]]
 [[Heterogeneous_Integration]]
+[[HighFrequency_Interconnect_Optimization]]
 [[IndexOrderingOptimization]]
 [[Interconnect_Routing]]
 [[Interconnect_Topology]]
@@ -51,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TwoDimensionalTransport]]
 [[WaferScale_Chiplet_Interconnect]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

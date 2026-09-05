@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Architecture]]
 [[InSensorMemoryComputing]]
 [[Intelligence_Emergence]]
+[[MemristiveSNN]]
 [[National_Innovation_Center_Role]]
 [[Network_Topology_Design]]
 [[NeuromorphicEdgeProcessing]]

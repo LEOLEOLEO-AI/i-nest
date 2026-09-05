@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC]]
 [[NoC_EventRouting]]
 [[PhysicallyInformedDeepLearning]]
+[[RobustnessToNoiseInSNN]]
 [[SpikeCodingProbabilisticVariables]]
 [[SpikeEncoding]]
 [[SpikeSparsity]]

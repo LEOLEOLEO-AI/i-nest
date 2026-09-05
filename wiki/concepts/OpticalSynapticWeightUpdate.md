@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[OpenLearningEcosystem]]
+[[ReEntrantMultifractalization]]
 [[ReconfigurableNonlinearPhotonicNetwork]]
 [[RecursiveSelfReferentialArchitecture]]
 [[TCC]]

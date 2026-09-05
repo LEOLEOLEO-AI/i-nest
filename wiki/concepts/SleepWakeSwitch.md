@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[OddConservedDynamics]]
 [[Orientation_Encoding_Latent_Spaces]]
+[[PhotonicSynapticPlasticity]]
 [[Self_Organized_Criticality]]
 [[Synaptic_Plasticity]]
 [[TCC]]

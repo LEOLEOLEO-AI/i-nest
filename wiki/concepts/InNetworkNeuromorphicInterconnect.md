@@ -45,6 +45,8 @@ Auto-extracted concept from raw material compilation.
 [[FractalPathEntropy]]
 [[HighThroughputParticleRouting]]
 [[Interconnect_Routing]]
+[[Nanomaterial_Discovery_ML]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]

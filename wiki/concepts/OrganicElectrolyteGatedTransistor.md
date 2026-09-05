@@ -59,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[SuperparamagneticSwitchingRate]]
 [[Synaptic_Plasticity]]
 [[TacticalEdgeIntelligence]]
+[[TemporalSemanticEntropy]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[SDI_Bond]]
+[[SDI_STDP]]
 [[SDI节点接口规范与化合键定义]]
 [[SNN]]
 [[Spike_Encoding_of_fMRI]]

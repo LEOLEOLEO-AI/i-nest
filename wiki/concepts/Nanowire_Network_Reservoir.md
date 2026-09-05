@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Physical_Reservoir_Integration]]
 [[ReproducibleReservoirComputing]]
 [[Reservoir_Computing]]
+[[SNN]]
 [[ShortTermMemoryReservoir]]
 [[ShortTermMemory]]
 [[Synaptic_Plasticity]]

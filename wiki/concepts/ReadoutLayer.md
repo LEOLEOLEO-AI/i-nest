@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[NonequilibriumLangevinComputing]]
 [[Nonlinear_Gain]]
+[[ReservoirYieldMaximization]]
 [[Reservoir_Computing]]
 [[SDDE_Attractor_Emergence]]
 [[SimulabilityThreshold]]

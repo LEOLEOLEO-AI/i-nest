@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[ComputationEfficientDeepLearning]]
 [[DARPA_ProjectManager_Model]]
 [[Deep_Network_Architecture_Invariant]]
+[[Defense_Industrial_Base_Reshaping]]
 [[EfficientDeepLearning]]
 [[Loihi]]
 [[Network_Topology_Design]]

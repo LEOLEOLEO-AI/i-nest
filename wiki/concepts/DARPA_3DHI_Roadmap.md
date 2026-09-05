@@ -63,6 +63,8 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[TOOLS]]
+[[ThermallyDrivenSuperparamagneticReservoir]]
+[[chiplet interconnect]]
 [[getnote_2025-12-17_3D异构集成_3DHI_技术深度研究_机遇_挑战与未来路径]]
 [[iNEST]]
 [[涌现]]

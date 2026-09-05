@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[MetaHardwareAbstraction]]
 [[Microsecond_Link_Reconfiguration]]
 [[Network_Topology_Design]]
+[[PhotonicDieTransfer]]
 [[SDI_Bond]]
 [[SDI_TopologicalControl]]
 [[Space_Radiation_Hardening]]

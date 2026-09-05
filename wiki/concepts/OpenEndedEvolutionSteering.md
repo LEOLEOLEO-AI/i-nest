@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[LatencyGradientDescent]]
 [[MembranePotentialAlignment]]
 [[Network_Topology_Design]]
+[[NeuralVariabilityEnhancement]]
 [[SNN]]
 [[SOC]]
 [[SensoryGatedSpikingLoop]]

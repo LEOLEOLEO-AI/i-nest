@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Master_SDDE]]
 [[MutualReinforcementDynamics]]
+[[NISQHardwareAwareMapping]]
 [[NonEquilibriumComputing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]

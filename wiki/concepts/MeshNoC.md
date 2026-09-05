@@ -21,9 +21,11 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[BondMovingDecimation]]
+[[Chemical_Bond_Operation_Algebra]]
 [[ChipletRoutingFabric]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration]]
 [[Chiplet_Modular_Architecture]]
 [[CongestionAwareNoCPlacement]]
 [[DelayCouplingMatrix]]

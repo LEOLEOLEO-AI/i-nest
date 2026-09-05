@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[ERI_2_0_Strategy]]
 [[Fading_Memory_Property]]
 [[GNN图神经网络，非结构化数据分析利器！]]
+[[Heterogeneous_P_D_Inference]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

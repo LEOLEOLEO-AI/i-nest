@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Advanced_Computing_Project]]
 [[AgentReinforcementLoop]]
 [[Alpha_Coefficient_Phase_Transition_Amplification]]
+[[Anisotropic_Square_Lattice]]
 [[Chip_Floorplanning]]
 [[Complex_System_Theory]]
 [[ConvexNonConvexTradeoff]]

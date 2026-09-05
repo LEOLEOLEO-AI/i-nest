@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[BackpropagationFreeLearning]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration]]
 [[Chiplet_Integration_Route]]
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
@@ -57,6 +58,8 @@ Auto-extracted concept from raw material compilation.
 [[SuperparamagneticSwitchingRate]]
 [[Swarm_Coordination]]
 [[TCC]]
+[[WavelengthMultiplexedInterconnect]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[DelayAwareSpikeEventDelivery]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
+[[EnergyEfficientSNN]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[FormalLinguisticCompetence]]
 [[FunctionalRelevanceDrivenSelfOrganization]]

@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[SpatialMultiplexingTopologicalCharges]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[WavelengthMultiplexedInterconnect]]
 [[iNEST]]
 [[perspective latents]]
 [[涌现]]

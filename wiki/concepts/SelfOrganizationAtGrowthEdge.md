@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[ComplexEcosystemDynamics]]
 [[ComplexValuedSNN]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
+[[Complexity_Emergence_Engineering]]
 [[Continual_Learning_Topology]]
 [[EmergentOrder]]
 [[Emergent_Intelligence]]

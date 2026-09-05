@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_iNEST]]
 [[SpikeCodedFeatureAssociation]]
 [[SpikeFusionLayer]]
+[[Spiking_Continual_Learning]]
 [[Spiking_Neural_Network]]
 [[SubharmonicResponse]]
 [[Synaptic_Plasticity]]

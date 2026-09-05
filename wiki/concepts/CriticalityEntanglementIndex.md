@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[SelfOrganizedCriticalityConsciousness]]
 [[SelfOrganizedRobustness]]
 [[Self_Organized_Criticality]]
+[[SubsystemInformationCapacity]]
 [[SuperparamagneticSwitchingRate]]
 [[iNEST]]
 

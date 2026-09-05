@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[DiscreteScaleInvariance]]
 [[EcosystemTopologyCoupling]]
 [[ErrorSuppressedPipeline]]
+[[HybridReservoirComputing]]
 [[MesonSpectra]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]

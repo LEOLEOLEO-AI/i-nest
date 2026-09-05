@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AddressRedundancyElimination]]
 [[Adjoint_Gradient_Propagation]]
 [[AlgorithmHardwareCoDesign]]
+[[Algorithm_Hardware_CoDesign]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[iNEST]]

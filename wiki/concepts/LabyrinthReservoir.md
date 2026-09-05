@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[3d]]
 [[AcceleratedMaterialScreening]]
+[[ActiveMatterComputing]]
 [[AdversarialResilience]]
 [[AnomalousSpinTransport]]
 [[AstrocyteInspiredRepair]]

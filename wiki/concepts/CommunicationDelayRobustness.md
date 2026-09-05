@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Coupling_Induced_Topology]]
 [[DendriticReservoirState]]
 [[EmergentAttractorInvariance]]
+[[Functional_Food_Complexity]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

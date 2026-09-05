@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[3d]]
 [[AI_Memory_Infrastructure]]
 [[AdaptiveGraphDiffusion]]
+[[Adaptive_Intelligence_Principle]]
 [[AdiabaticMultimodeBend]]
 [[AdjointWaveControl]]
 [[Adjoint_Gradient_Propagation]]
@@ -43,9 +44,11 @@ Auto-extracted concept from raw material compilation.
 [[CXL_Deployment_Transition]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration]]
 [[Chiplet_Stacking]]
 [[Heterogeneous_Integration]]
 [[TCC]]
+[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

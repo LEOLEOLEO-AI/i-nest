@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[DarkSiliconAwarePowerGating]]
 [[ERI_2_0_Framework]]
 [[ERI_2_0_Strategic_Framework]]
+[[EpoxyMoldingCompoundFlow]]
 [[Free_Energy_Minimization_Interconnect]]
 [[Intelligence_Emergence]]
 [[InterconnectConstrainedEmergence]]

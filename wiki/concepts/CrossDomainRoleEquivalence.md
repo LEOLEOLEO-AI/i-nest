@@ -44,6 +44,8 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[SNN_Spike_Timing_Dependent_Plasticity]]
 [[STDP_Plasticity]]
+[[STDP_iNEST]]
+[[Spike_Timing_Dependent_Plasticity]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]

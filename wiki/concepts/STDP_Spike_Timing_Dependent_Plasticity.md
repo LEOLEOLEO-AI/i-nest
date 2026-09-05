@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AlternativeBridgingModels]]
 [[AnisotropicGaussianPrimitives]]
 [[Bidirectional_Temporal_Enhancement]]
+[[BioInspiredSequenceLearning]]
 [[Local_Plasticity]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[ConverterDrivenStability]]
 [[Criticality]]
+[[FormalLinguisticCompetence]]
 [[Intelligence_Emergence]]
 [[Memristor]]
 [[Memristor_Synapse]]

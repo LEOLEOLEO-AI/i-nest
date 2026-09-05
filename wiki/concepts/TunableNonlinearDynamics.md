@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[SuddenLearning]]
 [[TCC]]
 [[TemperatureSensitivityControl]]
+[[TopologyEmbeddedIntrospection]]
 [[TopologyEvolvingReservoir]]
 
 ## Sources

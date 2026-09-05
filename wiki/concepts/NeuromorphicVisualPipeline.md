@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[CollectiveSpikingDynamics]]
 [[CombinedImportanceScoring]]
+[[CrossLayer_SignalRouting]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]

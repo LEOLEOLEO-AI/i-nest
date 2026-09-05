@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Coupling_Induced_Topology]]
+[[DendriticReservoirState]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

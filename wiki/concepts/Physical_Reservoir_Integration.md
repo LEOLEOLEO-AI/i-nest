@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CouplingMatrixRecovery]]
 [[Coupling_Strength_Encoding]]
 [[Course_Based_FPGA_Projects]]
+[[Crystallized_Neural_Manifolds]]
 [[DARPA_Manufacturing_Strategy]]
 [[DARPA_ProjectManager_Model]]
 [[DendriticReservoirState]]

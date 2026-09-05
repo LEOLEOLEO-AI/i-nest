@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[IncidenceMatrixPropagation]]
 [[Inference_Workload_Profiling]]
 [[Intelligence_Emergence]]
+[[JunctionCenteredRouting]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]

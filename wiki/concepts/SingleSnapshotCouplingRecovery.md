@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Decoupling_Mechanism]]
 [[Divergent_HigherArea_Rankings]]
 [[FPGA_Reconfigurability]]
+[[FluxAttachmentTopology]]
 [[GenerativeTopologyModels]]
 [[Inference_Stage_Decomposition]]
 [[Inference_Workload_Profiling]]

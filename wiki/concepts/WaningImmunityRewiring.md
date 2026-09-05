@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicSynchronyMetric]]
 [[EpidemicTopologyCoevolution]]
 [[EvolvingArchitectureDynamics]]
+[[ExactWiringRouting]]
 [[FPGA_Reconfigurability]]
 [[HybridCouplingThermosensitiveNetwork]]
 [[InSitu_Adjoint_Wave_Control]]

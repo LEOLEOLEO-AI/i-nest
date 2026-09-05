@@ -56,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[MetricComputationAuthenticity]]
 [[MultiplicativeGain]]
 [[Network_CST]]
+[[Network_Spatiotemporal_Synergy]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[Network_topology_and_interconnection_patterns]]
@@ -79,6 +80,7 @@ Auto-extracted concept from raw material compilation.
 [[SystemLevelNonlinearity]]
 [[TCC]]
 [[TemporalComplexity]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[residual connection]]
 

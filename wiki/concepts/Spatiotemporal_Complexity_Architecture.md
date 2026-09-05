@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NoiseAsLearningResource]]
 [[Non_Von_Neumann_Architecture]]
+[[QuantumInspiredHarmonySearch]]
 [[TCC]]
 [[TemporalComplexity]]
 [[complex system]]

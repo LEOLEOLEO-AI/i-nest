@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Fixed_Term_Project_Structure]]
 [[FormalToolchain]]
 [[GPU_Cluster_SNN_Architecture]]
+[[HierarchicalReservoirDynamics]]
 [[NeuromorphicAuditoryFrontend]]
 [[Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]

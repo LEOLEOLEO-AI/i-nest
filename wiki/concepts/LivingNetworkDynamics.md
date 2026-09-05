@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Neuromorphic_Architectures]]
 [[Hyper_Dimensional_Computing]]
 [[Intelligence_Emergence]]
+[[Intelligent_Emergence_Computing]]
 [[Memristive_Topology]]
 [[Memristor]]
 [[Memristor_Synapse]]

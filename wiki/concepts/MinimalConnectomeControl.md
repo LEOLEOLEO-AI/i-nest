@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Connectome]]
 [[Connectome_Inspired_Architecture]]
 [[Connectome_Reservoir]]
+[[Connectome_Verification_Protocol]]
 [[Cross_Brain_Connectome]]
 [[Crystallized_Neural_Manifolds]]
 [[EvolutionaryReservoirLearning]]

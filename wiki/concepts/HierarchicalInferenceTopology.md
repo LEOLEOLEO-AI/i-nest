@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[GlobalInformationDominance]]
 [[Hierarchical_Bayesian_Inference]]
 [[Intelligence_Emergence]]
+[[Mesoscale_Physical_Computing_Framework]]
 [[Microfluidic_Worm_Trap_Array]]
 [[MitigationLayers]]
 [[Network_Topology_Design]]

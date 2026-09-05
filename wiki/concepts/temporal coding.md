@@ -29,6 +29,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 
 ## Related Work
 
+[[6万+辛顿2025年度全景实录深读｜真正的智能与硅基智能的非对称演进]]
 [[A1_CST_Theory_V25_FINAL]]
 [[CSI_Temporal_Encoding]]
 [[CST_Intelligence_Emergence]]
@@ -44,6 +45,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[DrivenDissipativeDynamics]]
 [[FeFET_Differential_BitCell]]
 [[Intelligence_Emergence]]
+[[Memristor]]
 [[Memristor_Synapse]]
 [[Nature Communications_生物神经网络中突触多样性如何让人工神经网络更强大？]]
 [[Neuromorphic_Computing]]

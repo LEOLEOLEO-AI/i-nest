@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[SelfOrganization]]
 [[Self_Organized_Criticality]]
+[[SpikeBackpropagation]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[EventBasedBioSignalFrontEnd]]
 [[EventDrivenInference]]
 [[Event_Driven_Architecture]]
+[[FPGA_Neuromorphic_Prototyping]]
 [[FunctionalEnsemble]]
 [[In_Package_Neuromorphic_Integration]]
 [[LocalLearning_SynapticUpdate]]

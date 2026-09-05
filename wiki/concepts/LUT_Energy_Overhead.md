@@ -29,10 +29,12 @@ Auto-extracted concept from raw material compilation.
 [[4H_SiC_SubstrateProcessing]]
 [[AdvancedPackagingInterconnect]]
 [[BifurcationCandidate]]
+[[ChipletTrafficAwareScheduling]]
 [[Chiplet]]
 [[Chiplet_Based_Architecture]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
+[[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[TCC]]
 

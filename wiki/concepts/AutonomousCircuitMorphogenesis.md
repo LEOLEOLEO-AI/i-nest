@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Alpha_Coefficient_Phase_Transition_Amplification]]
 [[Analog_InMemory_Processing]]
 [[AttractorBasinOrthogonality]]
+[[Biocompatible_Neuromorphic_Interface]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

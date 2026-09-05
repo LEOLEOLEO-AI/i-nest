@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AgenticServiceManifesto]]
 [[CriticalityInducedTopology]]
 [[Criticality]]
+[[Criticality_Metric_Extraction]]
 [[Generative_Graph_Models]]
 [[Interconnect_Routing]]
 [[JumpDiffusion_StochasticQuantization]]

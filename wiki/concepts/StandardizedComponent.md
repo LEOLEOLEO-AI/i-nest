@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[DRBE_MVP_Mainchain]]
 [[DTGA]]
+[[DataProvenanceIntegrity]]
 [[EulaminateOverrepresentation]]
 [[Heterogeneous_Integration]]
 [[Less is more，大脑“低能耗”并“高效响应”的秘诀：模块化]]
@@ -73,6 +74,7 @@ Auto-extracted concept from raw material compilation.
 [[TemperatureSensitivityControl]]
 [[TemporalComplexity]]
 [[Topology_Interconnect]]
+[[chiplet interconnect]]
 [[residual connection]]
 
 ## Sources

@@ -58,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[analog computation]]
 [[complex system]]
 [[iNEST]]
+[[忆阻器]]
 [[智能涌现]]
 [[涌现]]
 [[神经形态计算]]

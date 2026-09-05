@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[DelayRobustEmergence]]
 [[DelayTolerantNetworkUAV]]
 [[DisorderDrivenTemporalOrdering]]
+[[DisorderedNetworkInterconnect]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

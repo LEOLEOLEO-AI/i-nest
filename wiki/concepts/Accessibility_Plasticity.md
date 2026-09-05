@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[PacketRoutingOptimization]]
 [[ReconfigurableSpikingRouting]]
 [[RecursiveSelfReferentialArchitecture]]
+[[RuntimeTopologyMapping]]
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SDI_STDP_Rule]]

@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Orientation_Encoding_Latent_Spaces]]
 [[Path_State_Awareness]]
 [[PhaseAwareBisectionDemand]]
+[[PhotonicSynapticPlasticity]]
 [[SelfOrganization]]
 [[Self_Organized_Criticality]]
 [[Synaptic_Plasticity]]

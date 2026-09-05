@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_Solutions]]
 [[Memristor]]
 [[Memristor_Synapse]]
+[[MinimalNetworkModel]]
 [[NestedRepresentation]]
 [[Network_Topology_Design]]
 [[NeuromorphicHardware]]

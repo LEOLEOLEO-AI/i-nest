@@ -38,6 +38,8 @@ Auto-extracted concept from raw material compilation.
 [[InputAdaptiveComputation]]
 [[Intelligence_Emergence]]
 [[Memory_Wall]]
+[[Memristor]]
+[[Memristor_Synapse]]
 [[Military_AI_Revolution]]
 [[NestedRepresentation]]
 [[Network_Topology_Design]]
@@ -56,10 +58,13 @@ Auto-extracted concept from raw material compilation.
 [[SpikingNeuralNetwork]]
 [[Spiking_Neural_Network]]
 [[TCC]]
+[[Wafer_Scale_Integration]]
+[[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
 [[WirelessSplitComputing]]
 [[iNEST]]
 [[神经网络]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

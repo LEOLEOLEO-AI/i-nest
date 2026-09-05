@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveAsymmetricSurrogateGradients]]
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[AdaptiveFrequencyResonateAndFire]]
+[[Adaptive_Replication_Strategy]]
 [[Criticality]]
 [[Neuromorphic_Computing]]
 [[SNN]]

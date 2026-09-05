@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[HybridMemristorArray]]
 [[HypergraphMeanFieldApproximation]]
 [[Intelligence_Emergence]]
+[[InteractingHaldaneModel]]
 [[MagneticMetamaterialReservoir]]
 [[MeasurementInducedNonlinearity]]
 [[Memristor]]

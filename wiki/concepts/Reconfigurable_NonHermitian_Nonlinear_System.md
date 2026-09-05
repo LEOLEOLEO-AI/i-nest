@@ -51,6 +51,8 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[Nonlinear_Wave_Reconfiguration]]
 [[Random_Markov_Dynamics]]
+[[ReEntrantMultifractalization]]
+[[chiplet interconnect]]
 [[Γst_Revision]]
 
 ## Sources

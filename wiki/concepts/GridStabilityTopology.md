@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Decoupling]]
 [[ConstraintDrivenOptimization]]
 [[Constructed_Reality_Interconnect]]
+[[Continual_Learning_Modularity]]
 [[CounterstreamSignalPropagation]]
 [[Criticality]]
 [[DelayPropagationDynamics]]

@@ -20,15 +20,19 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AutonomousAdaptation]]
 [[ExplainableEnergyAI]]
 [[FPGA_Neuromorphic_Architectures]]
 [[Free_Energy_Topology_Mapping]]
 [[Memristor]]
 [[Memristor_Interconnect]]
 [[Memristor_Synapse]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Nonlinear_Gain]]
 [[Reconfigurable_Neuromorphic_Function]]
 [[Reconfigurable_Nonlinear_Reservoir]]
+[[Reservoir_Computing]]
 [[iNEST]]
 
 ## Sources

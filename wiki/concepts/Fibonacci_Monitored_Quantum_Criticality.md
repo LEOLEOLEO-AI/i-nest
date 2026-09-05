@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Continuous_Control_Spiking_Stability]]
 [[CriticalityInducedComputationalCapacity]]
 [[Criticality]]
+[[CrossEntityPreemptiveWarning]]
 [[Neuromorphic_Computing]]
 [[Quantum_Criticality]]
 [[SNN]]

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[Alpha_Computation_Consistency]]
 [[Attention_Residuals]]
+[[BigBrainCellularAxis]]
 [[Complex_System_Theory]]
 [[Heterogeneous_Integration]]
 [[MetaFAIR_ArchitectureDiscovery]]

@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[Attention_Residuals]]
 [[BoundaryObject_Abstraction]]
+[[DARPA_ProjectManager_Model]]
 [[Memristive_Synapse]]
 [[Memristor]]
 [[Memristor_Synapse]]

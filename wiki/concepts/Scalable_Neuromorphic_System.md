@@ -20,11 +20,13 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Faculty_Forum_2026]]
 [[DARPA_ProjectManager_Model]]
 [[ErrorSuppressedPipeline]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[P_Paradigm]]
 [[SNN]]
 [[Spiking_Neural_Network]]

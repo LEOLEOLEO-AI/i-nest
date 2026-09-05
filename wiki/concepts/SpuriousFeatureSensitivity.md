@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AgentBasedCorruptionModel]]
 [[ApproximateMacroscopicDynamics]]
 [[CrossLayer_SignalRouting]]
+[[DualModeSNNConventionalInference]]
 [[EarlyVisualCortexAliasing]]
 [[EventDrivenModularArchitecture]]
 [[EvolutionaryDiversityPreservation]]

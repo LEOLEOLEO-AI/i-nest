@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[Path_State_Awareness]]
 [[PhotonicSynapticPlasticity]]
+[[PolarizationModulatedPhotoresponse]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Self_Organized_Criticality]]
 [[Synaptic_Plasticity]]

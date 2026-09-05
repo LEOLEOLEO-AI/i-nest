@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Cognitive_Relapse_Architecture]]
 [[ComplexEcosystemDynamics]]
+[[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Continual_Learning_Topology]]
 [[CorticalTypeDiversity]]
 [[CounterstreamSignalPropagation]]

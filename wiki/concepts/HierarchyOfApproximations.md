@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Neuromorphic_Architectures]]
 [[FormalLinguisticCompetence]]
 [[HardwareAwareFairness]]
+[[Hardware_Accelerated_SNN]]
 [[HierarchicalBayesianCommunityDetection]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]

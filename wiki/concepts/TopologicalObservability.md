@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[AutonomousServiceNegotiation]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[CST_Triad_Framework]]
+[[CST的计算方法 (1)]]
 [[CST计量仪]]
 [[Capability_Forging_Pipeline]]
 [[CentralityBasedDefense]]

@@ -40,7 +40,9 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[NoC]]
 [[NoC_SDI]]
+[[P_Paradigm]]
 [[SDI_Bond]]
+[[SDI_TopologyWaferIntegration]]
 [[SDI_Topology]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
@@ -49,12 +51,14 @@ Auto-extracted concept from raw material compilation.
 [[SoftwareDefinedSystemOnWafer]]
 [[TCC]]
 [[TopologyCentricComputing]]
+[[Topology_Centric_Computing]]
 [[Topology_Interconnect]]
 [[WaferScaleTopologyCentricComputing]]
 [[Wafer_Chiplet_Topology_Interconnect]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Topology]]
 [[Wafer_Scale_Topology_Control]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

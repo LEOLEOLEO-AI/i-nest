@@ -22,6 +22,7 @@ SDI, SNN, STDP, iNEST, spiking, 神经形态
 [[SNN]]
 [[STDP_Plasticity]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 [[神经网络]]
 [[脉冲神经网络]]

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[BoundaryObject_Abstraction]]
 [[BrainBodyResonance]]
 [[BulletTrainScheduling]]
+[[BurstTemporalPlasticity]]
 [[CST_Theory]]
 [[CST_Theory_V27_FINAL]]
 [[Catastrophic_Forgetting_Mitigation]]

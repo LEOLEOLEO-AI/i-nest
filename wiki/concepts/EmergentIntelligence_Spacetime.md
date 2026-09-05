@@ -66,6 +66,8 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TemporalComplexity]]
 [[Textbook_Paradigm_Definition]]
+[[TopologyCentricEngineeringBase]]
+[[chiplet interconnect]]
 [[iNEST]]
 
 ## Sources

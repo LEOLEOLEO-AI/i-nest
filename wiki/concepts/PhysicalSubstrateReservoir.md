@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_Network_Brain_Inspired_Computing]]
 [[Complex_System_Theory]]
 [[DARPA_ProjectManager_Model]]
+[[DevelopmentalNeuromorphicAdaptation]]
 [[DrivenDissipativeDynamics]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]

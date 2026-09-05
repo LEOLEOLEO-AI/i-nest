@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[FC2_NeuralCircuit]]
 [[FastSlow_Dynamics]]
 [[FieldTopologyEmbedding]]
+[[GoalNormalization]]
 [[ImaginaryGaugePhaseImprint]]
 [[Intelligence_Emergence]]
 [[KV_Cache_To_BoundaryObject]]

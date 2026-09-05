@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[PhysicalReservoir]]
+[[ReadoutLayer]]
 [[ReservoirDiversity]]
 [[ReservoirDynamics]]
 [[Reservoir_Computing]]

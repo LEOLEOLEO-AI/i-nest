@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[DivergentHigherAreaRanking]]
 [[DynamicalSelfDualCriticality]]
 [[Fatigue_SpikePattern]]
+[[Globally_Optimal_SNN_Training]]
 [[Layered_Attractive_Hubbard_Model]]
 [[MembranePotentialModulation]]
 [[Memristor]]

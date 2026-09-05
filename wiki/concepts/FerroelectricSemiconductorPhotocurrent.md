@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[PhotoInducedCurrent]]
 [[QuantumReservoirStateReadout]]
 [[ReservoirComputingForOptimization]]
+[[ReservoirYield]]
 [[Reservoir_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]

@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[EnergyEfficiencyAI]]
+[[GraphDelayPropagation]]
 [[Intelligence_Emergence]]
 [[LLM_TopologicalReplicationGap]]
 [[Material_Circularity]]

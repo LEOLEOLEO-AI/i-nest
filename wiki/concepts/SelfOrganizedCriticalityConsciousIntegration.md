@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[ConsciousIntegration]]
 [[ConstructedRealityState]]
 [[Continuous_Control_SNN_Stability]]
+[[CriticalityBasedClassification]]
 [[CriticalityDrivenIntegration]]
 [[Criticality]]
 [[CrossEntityPreemptiveWarning]]

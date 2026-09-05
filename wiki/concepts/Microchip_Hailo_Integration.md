@@ -44,14 +44,17 @@ Auto-extracted concept from raw material compilation.
 [[Bipartite_Interconnect_Fabric]]
 [[BisectionBandwidthBound]]
 [[BisectionBandwidthMetric]]
+[[CXL_Deployment_Transition]]
 [[ChipletTopologyAwareness]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration]]
 [[Chiplet_Stacking]]
 [[Heterogeneous_Integration]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[TCC]]
+[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

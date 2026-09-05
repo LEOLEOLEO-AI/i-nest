@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Reservoir_Topology]]
 [[Hierarchical_Reservoir_Topology]]
 [[HybridMemristorArray]]
+[[HypergraphMeanFieldApproximation]]
 [[Intelligence_Emergence]]
 [[MagneticMetamaterialReservoir]]
 [[Memristor]]

@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[2_5D_PIM_Chiplet_Integration]]
 [[3d]]
 [[AnalogInMemoryComputing]]
 [[Analog_InMemory_Processing]]
@@ -62,6 +63,7 @@ Auto-extracted concept from raw material compilation.
 [[Representation_Learning_Generalization]]
 [[Resilient_Satellite_Mesh]]
 [[Self_Organized_Criticality]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

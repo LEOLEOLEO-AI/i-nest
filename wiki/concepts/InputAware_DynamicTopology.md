@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveArchitecture]]
 [[AnisotropicGaussianPrimitives]]
 [[BurstTemporalPlasticity]]
+[[CorticalWaveRouting]]
 [[DynamicTopology]]
 [[FPGA_Neuromorphic_Architectures]]
 [[Network_Topology_Design]]

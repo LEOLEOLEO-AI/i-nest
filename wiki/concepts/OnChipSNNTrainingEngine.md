@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[HodgkinHuxleyDynamics]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
+[[MemristiveSNN]]
 [[Memristor]]
 [[Memristor_Network]]
 [[Memristor_Synapse]]

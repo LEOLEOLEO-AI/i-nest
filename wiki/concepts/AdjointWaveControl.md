@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_TopologicalControl]]
 [[STDP_Plasticity]]
 [[SelfOrganization]]
+[[Space_Radiation_Hardening]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[TopologyAwareStateMigration]]

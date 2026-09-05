@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityInNetworkComputing]]
 [[CriticalityOffCriticalityTransition]]
 [[Criticality]]
+[[DiffusionInducedInstability]]
 [[InNetworkComputing]]
 [[Network_Topology_Design]]
 [[Nishimori_Multicritical_Point]]

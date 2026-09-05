@@ -24,11 +24,15 @@ Auto-extracted concept from raw material compilation.
 [[Avoided_Criticality]]
 [[BurstTemporalPlasticity]]
 [[Course_Based_FPGA_Prototyping]]
+[[Criticality]]
 [[DualDrivenHybridNetwork]]
+[[EventDrivenMotionDeblurring]]
 [[Neuromorphic_Computing]]
 [[SNN]]
+[[Self_Organized_Criticality]]
 [[Spiking neural network]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 
 ## Sources

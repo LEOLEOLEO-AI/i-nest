@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[HierarchicalReservoirDynamics]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Nanoencapsulation_PhaseTransition]]
+[[Nature Communications_生物神经网络中突触多样性如何让人工神经网络更强大？]]
 [[Neuromorphic_Computing]]
 [[NonlinearDynamicalSampling]]
 [[Nonlinear_Gain]]
@@ -45,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[ShortTermMemory]]
 [[Spiking_Neural_Network]]
 [[TCCNPU_Coordination_Roadmap]]
+[[TCC]]
 [[ThermalNoiseHarnessing]]
 [[iNEST]]
 

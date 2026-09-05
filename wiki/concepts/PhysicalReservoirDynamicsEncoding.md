@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Baseline_Draft_Status]]
 [[Biomanufacturing_Control_Loop]]
+[[Bosonic_SPT_Phases]]
 [[Closed_Loop_Neuromodulation]]
 [[CoexistencePhaseDiagram]]
 [[Continual_Learning_Modularity]]

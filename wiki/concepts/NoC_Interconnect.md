@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[3DHI_Interconnect]]
 [[3DHI_Stacking]]
+[[3D_Vertical_Interconnect]]
 [[3d]]
 [[Additive_Manufacturing_Topology]]
 [[AdvancedPackagingInterconnect]]
@@ -47,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[SparsityAwareInterconnect]]
 [[TCC]]
 [[WideLink_NoC_Router]]
+[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

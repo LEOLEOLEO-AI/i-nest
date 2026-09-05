@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[12_三原理协同_FEP_最小作用量_STDP]]
+[[ASIC_Dualism]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -64,6 +65,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TemporalComplexity]]
 [[TopologyProgramming]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 [[topology reconfiguration]]

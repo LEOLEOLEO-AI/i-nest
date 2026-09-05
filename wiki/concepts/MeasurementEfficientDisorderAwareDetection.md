@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Encapsulation_Topology]]
 [[Euclidean_LatticeFieldSampling]]
 [[FaultTolerantLogicalOperation]]
+[[Generative_Model_Conditioning]]
 [[Intelligence_Emergence]]
 [[MeasurementEfficientDisorderAware]]
 [[Network_Topology_Design]]

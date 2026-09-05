@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[ApproximantLattice]]
 [[ArbitraryWavefunctionConfigurability]]
 [[ArtificialLifeTopologyEvolution]]
+[[Asymmetric_Interaction_Graph]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

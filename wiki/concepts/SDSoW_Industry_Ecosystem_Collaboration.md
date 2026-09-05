@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
+[[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[ChipletWaferInterconnectCoDesign]]
@@ -27,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
+[[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]

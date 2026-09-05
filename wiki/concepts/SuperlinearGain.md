@@ -76,7 +76,9 @@ Auto-extracted concept from raw material compilation.
 [[TemporalComplexity]]
 [[Textbook_Paradigm_Definition]]
 [[TopologyCentricEngineeringBase]]
+[[Topology_Centric_Computing_Paradigm]]
 [[Topology_Interconnect]]
+[[chiplet interconnect]]
 [[residual connection]]
 
 ## Sources

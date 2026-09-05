@@ -30,12 +30,15 @@ Auto-extracted concept from raw material compilation.
 [[Advanced_Packaging_Route]]
 [[Advanced_Packaging_for_Space]]
 [[AnalogDomainCompression]]
+[[ApproximationFidelityTradeoff]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
+[[Heterogeneous_Integration]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[TCC]]
+[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

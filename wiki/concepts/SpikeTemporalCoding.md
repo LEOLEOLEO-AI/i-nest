@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[EventCameraPoseInput]]
 [[EventCameraTemporalEncoding]]
 [[EventDrivenComputation]]
+[[EventDrivenSynchronization]]
 [[Event_Driven_Architecture]]
 [[Event_Driven_Computation]]
 [[ImpactFallDetection]]

@@ -30,6 +30,8 @@ Auto-extracted concept from raw material compilation.
 [[AttentionWeightedPatchAggregation]]
 [[AutonomousAdaptation]]
 [[Free_Energy_Topology_Mapping]]
+[[Inference_Workload_Profiling]]
+[[Interconnect_Routing]]
 [[MoE_Routing]]
 [[Network_Topology_Design]]
 [[Reconfigurable_Interconnect]]

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalStateInformationMaximization]]
 [[CrossLayer_SignalRouting]]
 [[DirectTrainingSNN]]
+[[Direct_Training_Spiking_Neural_Networks]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]

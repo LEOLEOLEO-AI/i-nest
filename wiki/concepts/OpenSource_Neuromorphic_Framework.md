@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[CollectiveSpikingDynamics]]
 [[CrossLayer_SignalRouting]]
+[[EcosystemTopologyCoupling]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenModularArchitecture]]

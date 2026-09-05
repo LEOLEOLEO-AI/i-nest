@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[DimensionReductionForSimplicialDynamics]]
 [[DimensionalityReductionForNetworkControl]]
 [[EpoxyMoldingCompoundFlow]]
+[[GoogleBrain_Spinout_Ecosystem]]
 [[ImaginaryGaugePhaseImprint]]
 [[Intelligence_Emergence]]
 [[MetaHardwareAbstraction]]

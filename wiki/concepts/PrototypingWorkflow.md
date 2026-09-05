@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AcceleratedMaterialScreening]]
+[[ActiveMatterComputing]]
 [[AdversarialResilience]]
 [[Allreduce_Latency_Probe]]
 [[AnomalousSpinTransport]]

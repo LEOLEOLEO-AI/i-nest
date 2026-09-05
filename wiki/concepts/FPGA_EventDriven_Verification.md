@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[EnergyEfficientSNN]]
 [[Event_Driven_Architecture]]
 [[In_Network_Neuromorphic]]
+[[NeuromorphicAttentionScaling]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]

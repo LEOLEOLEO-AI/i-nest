@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[SNN]]
 [[Self_Organized_Criticality]]
+[[SpikeBackpropagation]]
 [[SpikeEncoding]]
 [[Spiking_Neural_Network]]
 [[TCC]]

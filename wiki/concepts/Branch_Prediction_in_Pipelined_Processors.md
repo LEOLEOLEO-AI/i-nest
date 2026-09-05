@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Discrete_Event_Spike_Simulation]]
 [[EEGSpikeEncoding]]
 [[ErrorAmplificationLimits]]
+[[EventDrivenSynchronization]]
 [[EventDrivenTemplateUpdate]]
 [[NestedRepresentation]]
 [[Neuromorphic_Computing]]

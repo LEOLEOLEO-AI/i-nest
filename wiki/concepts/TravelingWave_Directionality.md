@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AdaptiveFlexibilityThreshold]]
 [[Autonomous_Physical_Computation]]
 [[BackflowTransformation]]
 [[Brain_Connectome]]

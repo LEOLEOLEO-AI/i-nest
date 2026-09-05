@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[In_Package_Neuromorphic_Integration]]
 [[LatencyGradientDescent]]
+[[LearningTransition]]
 [[NeuralVariabilityEnhancement]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
@@ -53,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikingNeuralAccelerator]]
 [[Spiking_Neural_Network]]
 [[SuddenLearningTransition]]
+[[SuddenLearning]]
 [[SuperparamagneticSwitchingRate]]
 [[SurrogateGradientAsymmetry]]
 [[Swarm_Coordination]]
@@ -63,6 +65,7 @@ Auto-extracted concept from raw material compilation.
 [[Technical_Program_Officer_Autonomy]]
 [[TemporalCreditAssignment]]
 [[TemporalErrorFeedback]]
+[[Three_Dimensional_Analysis]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[3d]]
 [[AI_FullSpectrum_Strategy]]
 [[AdaptiveGraphDiffusion]]
+[[Adaptive_Intelligence_Principle]]
 [[AdiabaticMultimodeBend]]
 [[AdvancedPackagingInterconnect]]
 [[Allreduce_Latency_Probe]]

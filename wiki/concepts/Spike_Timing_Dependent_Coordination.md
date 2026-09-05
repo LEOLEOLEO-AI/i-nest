@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenSpectralProcessing]]
 [[Event_Driven_Architecture]]
 [[Event_Driven_Computation]]
+[[JunctionSignalIntegrity]]
 [[Neuromorphic_Computing]]
 [[NonEquilibriumPhase]]
 [[STDP_Learning]]

@@ -27,6 +27,8 @@ Auto-extracted concept from raw material compilation.
 [[20W_Brain_Inspired_Planning]]
 [[6万+辛顿2025年度全景实录深读｜真正的智能与硅基智能的非对称演进]]
 [[ActiveInferenceGenerativeModel]]
+[[ActiveInference]]
+[[ActiveSpikingPerception]]
 [[Complex_System_Theory]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]

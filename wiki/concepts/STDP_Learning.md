@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[NoiseInducedPhaseLocking]]
+[[On_Chip_STDP_Learning]]
 [[PhaseLockedTopologyMapping]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]

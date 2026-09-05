@@ -38,10 +38,12 @@ Auto-extracted concept from raw material compilation.
 [[ChipletWaferInterconnectScaling]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration]]
 [[Chiplet_Integration_Route]]
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Scheduling]]
 [[Chiplet_Interconnect_Topology]]
+[[Chiplet_Packaging]]
 [[Complex_System_Theory]]
 [[ComputeRelocationOverhead]]
 [[CorticalTypeDiversity]]
@@ -57,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Self_Organized_Criticality]]
 [[TCC]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

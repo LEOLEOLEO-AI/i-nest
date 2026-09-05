@@ -29,10 +29,12 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Architecture]]
 [[In_Network_Neuromorphic]]
 [[In_Package_Neuromorphic_Integration]]
+[[Memristor_Network]]
 [[NeuromorphicNetworkSecurity]]
 [[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[Neuromorphic_Interconnect]]
 [[Neuromorphic_Planning_Architecture]]
 [[Neuromorphic_Selective_State_Space]]
 [[SNN]]
@@ -41,7 +43,6 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
-[[neuromorphic interconnect]]
 [[类脑芯片]]
 
 ## Sources

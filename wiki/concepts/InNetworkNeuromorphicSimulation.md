@@ -61,6 +61,7 @@ Auto-extracted concept from raw material compilation.
 [[RenormalizationGroup_Scaling]]
 [[Renormalization_Group]]
 [[Renormalization_Group_Convergence]]
+[[Reservoir_Computing]]
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SNN]]

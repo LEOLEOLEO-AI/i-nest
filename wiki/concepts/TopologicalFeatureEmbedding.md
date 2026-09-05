@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[EvanescentFieldTrapping]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[LLM_Assisted_Hardware_Design]]
 [[NetworkMechanismsOfWaveGeneration]]
 [[Network_Topology_Design]]
 [[Reservoir_Computing]]

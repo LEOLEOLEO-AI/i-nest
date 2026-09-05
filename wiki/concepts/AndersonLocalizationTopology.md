@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Channel_Decoding_Energy_Landscape]]
 [[Complex_System_Theory]]
 [[Confinement]]
+[[DAGGER_Algorithm]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]

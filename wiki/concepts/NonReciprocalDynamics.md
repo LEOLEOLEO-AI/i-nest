@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[ImageNet_SNN_Benchmark]]
 [[Intelligence_Emergence]]
 [[MacroCriticalityEmergence]]
+[[MeasurementRateCriticality]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[NoiseDrivenBackpropReconstruction]]

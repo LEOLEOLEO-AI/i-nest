@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[EEGSpikeEncoding]]
 [[EventCameraPoseInput]]
 [[EventCameraTemporalEncoding]]
+[[EventDrivenAttentionMasking]]
 [[EventDrivenSynchronization]]
 [[ImpactFallDetection]]
 [[MembranePotentialAlignment]]

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
+[[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Decoupled_Priors]]
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]

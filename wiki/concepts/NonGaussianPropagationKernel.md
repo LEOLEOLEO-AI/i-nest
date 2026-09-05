@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AnomalousSpinTransport]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[ConductingPolymerDendriteMemory]]
+[[Constructed_Reality_Prior]]
 [[Course_Based_FPGA_Projects]]
 [[DARPA_Manufacturing_Strategy]]
 [[DARPA_ProjectManager_Model]]

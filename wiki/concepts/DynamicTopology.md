@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_InMemory_Processing]]
 [[Attention_Inspired_Resource_Allocation]]
 [[Attention_Residuals]]
+[[Deep_Network_Architecture_Invariant]]
 [[Memristor]]
 [[Memristor_Interconnect]]
 [[Memristor_Synapse]]

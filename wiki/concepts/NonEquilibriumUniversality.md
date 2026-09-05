@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Driven_Architecture_Search]]
 [[AI_Forum_Demo_Narrative]]
 [[AdaptiveGraphDiffusion]]
+[[Adaptive_Intelligence_Principle]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Baseline_Draft_Status]]
 [[BioPlausiblePredictiveCoding]]

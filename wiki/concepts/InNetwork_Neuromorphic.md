@@ -24,11 +24,14 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[AI_Forum_Demo_Narrative]]
 [[Adaptive_Deep_Brain_Stimulation]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[AllParallel_SpikeBased_Computing]]
+[[ClosedLoopNeuromorphicControl]]
 [[In_Network_Neuromorphic]]
 [[Neuromorphic_Computing]]
+[[Spiking_Neural_Network]]
 [[iNEST]]
 
 ## Sources

@@ -25,11 +25,13 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveDensityControl]]
 [[AmorphousSolidPlasticity]]
 [[ArbitraryWavefunctionConfigurability]]
+[[Automated_Reward_Shaping]]
 [[Autonomous_Architecture_Search]]
 [[BackflowTransformation]]
 [[BandedNonHermitianRandomMatrices]]
 [[BayesianDomainEvolution]]
 [[Co_designed_Online_Continual_Learning]]
+[[Online_Continual_Learning]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 

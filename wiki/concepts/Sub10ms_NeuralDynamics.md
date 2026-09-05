@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[3D_Integrated_Chiplet_Stacking]]
 [[3d]]
 [[AI_Faculty_Forum_2026]]
+[[ActionPrototypeClustering]]
 [[AddressRedundancyElimination]]
 [[AllOpticalHebbianLearning]]
 [[Avoided_Criticality]]

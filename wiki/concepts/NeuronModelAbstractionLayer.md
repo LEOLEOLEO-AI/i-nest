@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Mesoscale_Neural_Dynamics]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
+[[PowerLawScaling]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]
 [[SDI_STDP]]

@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[PhysicalSubstrateReservoir]]
 [[Reservoir_Computing]]
 [[SDDE_Attractor_Emergence]]
+[[STDP_Plasticity]]
 [[SpectralSupportAnalysis]]
 [[Spiking_Neural_Network]]
 [[SuperparamagneticSwitchingRate]]

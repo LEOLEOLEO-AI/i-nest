@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI节点接口规范与化合键定义]]
 [[TCC]]
 [[TCC核心概念与基线理论集 (TCC Core Concepts)]]
+[[ThermallyDrivenSuperparamagneticReservoir]]
 [[神经网络]]
 
 ## Sources

@@ -49,8 +49,10 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[SDI_Bond]]
 [[SDI_Topology]]
+[[SpatialPatternStorage]]
 [[TCC]]
 [[ThroughSiliconVia_TSV_ThermalPath]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

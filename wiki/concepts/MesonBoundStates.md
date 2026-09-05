@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveArchitecture]]
 [[AlloyDisorderEngineering]]
 [[AmoebaInspiredLocomotion]]
+[[Anomaly_Induced_Quantum_Criticality]]
 [[AvalancheBranchingRatio]]
 [[BerryCurvatureIsolation]]
 [[BioInspired_Interception_Control]]

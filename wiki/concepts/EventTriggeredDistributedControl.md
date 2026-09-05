@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalWeightNormBoundary]]
 [[CrossDomain_Synthesis]]
 [[CubicLatticeInterconnect]]
+[[DendriticTaskPartitioning]]
 [[DirtyWeylSemimetal]]
 [[DisorderedNetworkInterconnect]]
 [[Dynamic_Expert_Fusion]]

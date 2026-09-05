@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[ReproducibleReservoirDynamics]]
 [[ReservoirDynamics]]
 [[Reservoir_Computing]]
+[[RestrictedConnectivityTopology]]
 [[SelfFocusingControl]]
 [[Self_Organized_Criticality]]
 [[SuperparamagneticSwitchingRate]]

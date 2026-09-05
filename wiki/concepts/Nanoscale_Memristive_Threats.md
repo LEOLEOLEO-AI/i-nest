@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Epithelial_Barrier_Integrity]]
 [[FeFET_Polarization_Switching]]
 [[GeTeBasedCBRAM]]
+[[Heterogeneous_Synaptic_Motifs]]
 [[InNetworkAgentRewiring]]
 [[In_Memory_Computing]]
 [[Intelligence_Emergence]]

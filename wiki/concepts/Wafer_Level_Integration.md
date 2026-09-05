@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Industrial_Ecosystem]]
 [[Attention_Residuals]]
 [[BoundaryObject_Abstraction]]
+[[Causal_Emergence]]
 [[Causal_Emergence_Architecture]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet]]
@@ -41,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[GenerativeTopologyModels]]
 [[Heterogeneous_Inference_Division]]
 [[Heterogeneous_Integration]]
+[[InMateriaComputing]]
 [[Intelligence_Emergence]]
 [[Medical_Large_Language_Models]]
 [[MetaFAIR_ArchitectureDiscovery]]
@@ -66,6 +68,7 @@ Auto-extracted concept from raw material compilation.
 [[Topology_Centric_Computing]]
 [[WaferScaleSubstrate]]
 [[Wafer_Scale_Integration]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Encoding_of_fMRI]]
 [[Spike_Temporal_Dynamics]]
 [[Spiking_Neural_Network]]
+[[SupervisedHardwareRepair]]
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
 [[UnifiedHypergraphStateSpace]]

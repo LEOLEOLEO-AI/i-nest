@@ -21,10 +21,15 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3DHI_Chiplet_Integration]]
+[[3d]]
 [[AI_Driven_Architecture_Search]]
 [[AI_Faculty_Forum_2026]]
 [[AI_Forum_Demo_Narrative]]
 [[AgenticServiceOrchestration]]
+[[BoundaryObject_Abstraction]]
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration]]
 [[Emergent_Intelligence]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

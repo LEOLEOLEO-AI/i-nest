@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Epithelial_Barrier_Integrity]]
 [[Fading_Memory_Property]]
+[[Hyper_Dimensional_Computing]]
 [[Intelligence_Emergence]]
 [[MeanFieldSpinGlass]]
 [[Network_Topology_Design]]

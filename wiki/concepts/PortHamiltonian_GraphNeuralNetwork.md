@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[NonEquilibriumComputing]]
+[[OptimalRepresentations]]
 [[OrganoidOnChipInterface]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]

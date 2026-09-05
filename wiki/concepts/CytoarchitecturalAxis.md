@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Forum_Demo_Narrative]]
 [[AdaptiveGraphDiffusion]]
 [[Adaptive_Intelligence_Principle]]
+[[Adaptive_Service_Orchestration]]
 [[AdjointWaveControl]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]

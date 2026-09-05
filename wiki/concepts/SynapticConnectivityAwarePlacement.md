@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Intelligent_Emergence_Computing]]
 [[Interconnect_Routing]]
+[[MatrixShapePhaseTransition]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[MoE_Routing]]

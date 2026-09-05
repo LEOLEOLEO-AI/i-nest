@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeTimingFidelity]]
 [[Spike_Timing_Dependent_Plasticity]]
 [[Spike_Timing_Dependent_Plasticity_STDP]]
+[[SpikingTemporalCoding]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]

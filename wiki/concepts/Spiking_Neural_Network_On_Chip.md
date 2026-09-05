@@ -37,6 +37,8 @@ Auto-extracted concept from raw material compilation.
 [[Hybrid_ANN_SNN_Pipeline]]
 [[InNetwork_Neuromorphic]]
 [[InNetwork_Neuromorphic_CoDesign]]
+[[In_Network_Neuromorphic]]
+[[In_Network_Neuromorphic_Scheduling]]
 [[Interconnect_Routing]]
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]

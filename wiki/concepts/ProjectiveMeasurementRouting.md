@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
 
 ## Sources

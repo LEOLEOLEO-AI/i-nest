@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenMotionDeblurring]]
 [[EventDrivenPlasticity]]
 [[EventDrivenSensoryEncoding]]
+[[GradientFreeLowRankTraining]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Self_Organized_Criticality]]

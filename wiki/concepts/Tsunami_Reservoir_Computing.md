@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[ConnectivityDerivedReservoir]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
+[[CrossInstitutionalNetwork]]
 [[Crystallized_Neural_Manifolds]]
 [[Edge_of_Chaos]]
 [[Intelligence_Emergence]]

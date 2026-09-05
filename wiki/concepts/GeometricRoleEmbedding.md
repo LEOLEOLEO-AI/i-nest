@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[FaultTolerantLogicalOperation]]
 [[HighDimensionalContinuousRepresentation]]
 [[HigherOrderPublicGoodsGame]]
+[[InNetwork_Service_Composition]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]

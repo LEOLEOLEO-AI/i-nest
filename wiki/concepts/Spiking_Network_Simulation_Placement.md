@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Sensor_Fusion]]
 [[Online_Continual_Learning]]
 [[OptimalGeneralisationNearInterpolation]]
+[[OscillatoryReservoirDynamics]]
 [[PhotoIontronicSynapse]]
 [[PowerLawScaling]]
 [[RecursiveSelfReferentialArchitecture]]

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Avalanche_Dynamics]]
 [[Compressed_Glass_Network]]
 [[Contested_Prior_Resolution]]
+[[Contested_Priors_Mechanism]]
 [[Criticality]]
 [[CrossInstitutionalNetwork]]
 [[DivergentHigherAreaRanking]]

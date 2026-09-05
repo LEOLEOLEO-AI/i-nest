@@ -81,6 +81,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC_iNEST_Interconnect]]
 [[TemporalComplexity]]
 [[Universal_Scaling_Laws]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Interconnect]]
 [[iNEST_Wafer]]
@@ -91,6 +92,7 @@ Auto-extracted concept from raw material compilation.
 [[战略报告提纲：物理复杂网络智能涌现——颠覆现有算力范式的新路线]]
 [[智能涌现]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

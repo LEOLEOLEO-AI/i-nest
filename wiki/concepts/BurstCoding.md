@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveSTDP]]
 [[AdaptiveSpeechToSpikeEncoding]]
 [[AsynchronousEventDrivenComputation]]
+[[CascadedAdaptiveCombiners]]
 [[Complex_System_Theory]]
 [[Controlled_Release_Kinetics]]
 [[EmergentAttractorStability]]

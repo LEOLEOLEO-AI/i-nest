@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[Path_Redundancy_Management]]
 [[RecursiveSelfReferentialArchitecture]]
 [[STDP_Plasticity]]
+[[SixClassSkeletonAsRPrimitiveSpace]]
 [[SoftwareDefinedSystemOnWafer]]
 [[Synaptic_Plasticity]]
 [[TCC]]

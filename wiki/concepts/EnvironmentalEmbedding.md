@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[QuantumReservoirStateReadout]]
 [[ReservoirComputingForOptimization]]
+[[ReservoirYield]]
 [[Reservoir_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]

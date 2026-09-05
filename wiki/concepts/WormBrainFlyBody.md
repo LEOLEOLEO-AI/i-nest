@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[BayesianDomainEvolution]]
 [[BehavioralFeedbackLoop]]
 [[BigBrain3DHistology]]
+[[BioInspiredLearningRule]]
 [[Brain_Connectome]]
 [[ConnectomeFidelityClaim]]
 [[Connectome]]

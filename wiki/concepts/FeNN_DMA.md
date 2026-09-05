@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenAutoregression]]
 [[EventDrivenMotionDeblurring]]
 [[Neuromorphic_Computing]]
+[[PowerLawScaling]]
 [[SNN]]
 [[Self_Organized_Criticality]]
 [[Spiking neural network]]

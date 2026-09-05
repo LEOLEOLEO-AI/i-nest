@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[DifferentiableRasterizationPipeline]]
 [[DimensionalityReductionPrinciple]]
 [[DisorderedNetworkInterconnect]]
+[[DistributedEventConditionDesign]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[OpenLearningEcosystem]]

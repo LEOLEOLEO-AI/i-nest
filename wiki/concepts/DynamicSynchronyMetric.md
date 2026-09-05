@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[EpidemicTopologyCoevolution]]
 [[EvolvingArchitectureDynamics]]
+[[ExactWiringRouting]]
 [[FPGA_Reconfigurability]]
 [[Free_Energy_Topology_Mapping]]
 [[GenerativeTopologyModels]]

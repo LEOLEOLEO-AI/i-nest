@@ -17,7 +17,9 @@ title: "Universal Principles of Intelligence Emergence in Biological and Artific
 ## Related Concepts
 
 [[Complex_System_Theory]]
+[[CoordinatedSpatiotemporalComplexity]]
 [[CoordinatedSpatiotemporalComplexity_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[TCC]]
+[[TemporalComplexity]]

@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[NonEquilibriumUniversality]]
 [[OpportunisticRouting]]
 [[ReputationPropagation]]
+[[ResourceAwareCompilation]]
 [[RoutingBasedComputation]]
 [[SDDE_SelfDescribingDataExchange]]
 [[SemanticTopologyMapping]]

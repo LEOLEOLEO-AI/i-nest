@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicsMatchedReservoir]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
+[[EvolutionaryLearningYield]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

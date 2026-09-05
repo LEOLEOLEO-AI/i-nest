@@ -31,11 +31,14 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Stacking]]
+[[Heterogeneous_Integration]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[TCC]]
+[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

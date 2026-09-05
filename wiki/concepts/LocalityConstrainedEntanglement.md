@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[AttentionMap_DifferenceResidual]]
 [[Attention_ResidualCancellation]]
 [[CST计量仪]]
+[[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
 [[Dynamic_Neuron_Activation_Prediction]]
 [[Effective_Information]]

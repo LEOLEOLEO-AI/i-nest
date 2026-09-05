@@ -22,13 +22,20 @@ Auto-extracted concept from raw material compilation.
 
 [[AdaptiveCompetingInteractions]]
 [[Emergent_Order_Deep_Belief_Networks]]
+[[Free_Energy_Topology_Mapping]]
+[[Intelligence_Emergence]]
+[[Interconnect_Bottleneck]]
 [[Interconnect_Routing]]
 [[Maskless_Reconfigurable_Routing]]
 [[MatrixShapePhaseTransition]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
+[[NoC]]
+[[NoC_SDI]]
 [[NoC_SDI_Integration]]
 [[NonreciprocalQuasiperiodicLattice]]
 [[PacketRoutingOptimization]]
+[[SDI_Bond]]
 [[TCC]]
 
 ## Sources

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AIRA_NeuralArchSearch]]
 [[AI_Driven_Power_Density_Scaling]]
 [[AdaptiveGraphDiffusion]]
+[[Adaptive_Intelligence_Principle]]
 [[AndersonTransition]]
 [[CavityMethodAnalysis]]
 [[CommunicationAwareComputeRelocation]]

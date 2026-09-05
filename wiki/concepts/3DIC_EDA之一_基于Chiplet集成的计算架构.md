@@ -37,6 +37,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Architectural_Conditioning]]
 [[AthermalRandomFieldBlumeCapel]]
 [[BCM滑动阈值]]
+[[Bipartite_Interconnect_Fabric]]
 [[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Chiplet]]

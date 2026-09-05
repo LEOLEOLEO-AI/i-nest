@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[FieldTopologyEmbedding]]
 [[GoalNormalization]]
 [[HallmarksOfCancer]]
+[[HaloConnectivity]]
 [[ImaginaryGaugePhaseImprint]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

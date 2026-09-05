@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
+[[ChiralTopologicalMatter]]
 [[ComplexTopologicalStructures]]
 [[Complex_System_Theory]]
 [[DTGA]]
@@ -52,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[Reconfigurable_NonHermitian_Nonlinear_System]]
 [[Synaptic_Plasticity]]
 [[ViewDependentAppearance]]
+[[chiplet interconnect]]
 [[Γst_Revision]]
 
 ## Sources

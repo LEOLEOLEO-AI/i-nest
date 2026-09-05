@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[FastSlow_Dynamics]]
 [[Free_Energy_Topology_Mapping]]
 [[FunctionalInterfaceBlock]]
+[[Hardware_Software_CoDesign]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]

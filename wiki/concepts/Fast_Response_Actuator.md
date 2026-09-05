@@ -51,7 +51,9 @@ Auto-extracted concept from raw material compilation.
 [[SpikeEncoding]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
+[[TemporalBatchSynchronization]]
 [[iNEST]]
+[[iNEST_Interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

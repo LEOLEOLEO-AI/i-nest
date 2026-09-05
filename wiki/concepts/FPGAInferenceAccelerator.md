@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalNormBoundary]]
 [[CrossLayer_SignalRouting]]
 [[CrossbarSNNArchitecture]]
+[[DualModeSNNConventionalInference]]
 [[EarlyVisualCortexAliasing]]
 [[EnergyEfficientRestoration]]
 [[EnsembleCreditAssignment]]

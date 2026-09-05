@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Frontier_Innovation_Mapping]]
 [[GPU_Parallel_Throughput]]
 [[GradientBasedSpikeLearning]]
+[[Gradient_Free_SNN_Learning]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]

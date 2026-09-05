@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[BrownianCastleInterface]]
 [[CompartmentalNeuronModel]]
 [[CoreComputationSubspace]]
+[[Cross_Network_Representation_Transfer]]
 [[Gaussian_Splatting_Streaming]]
 [[HigherAreaRankingDivergence]]
 [[Interconnect_Routing]]

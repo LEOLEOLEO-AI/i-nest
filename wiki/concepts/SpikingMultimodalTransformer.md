@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenMatrixUpdate]]
 [[Event_Driven_Architecture]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
+[[FunctionalEnsemble]]
 [[GeometricNeuromorphicFusion]]
 [[GradientBasedLearningLocalization]]
 [[In_Network_Neuromorphic]]

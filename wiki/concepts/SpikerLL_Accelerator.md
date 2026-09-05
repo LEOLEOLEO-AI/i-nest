@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Computation]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
+[[JunctionSignalIntegrity]]
 [[ManyBodyLocalizationThermalizationDuality]]
 [[ManyBodyLocalization]]
 [[NeuralNetworkSpectralAnalysis]]

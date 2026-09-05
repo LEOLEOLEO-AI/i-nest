@@ -33,9 +33,12 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[CompactFieldVariable]]
+[[DynamicServiceComposition]]
+[[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Interconnect_Topology]]
 [[Network_Topology_Design]]
+[[chiplet interconnect]]
 [[iNEST]]
 
 ## Sources

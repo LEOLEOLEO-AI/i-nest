@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[ReservoirComputingModel]]
 [[Reservoir_Computing]]
+[[ShortTermMemoryReservoir]]
 [[iNEST]]
 
 ## Sources

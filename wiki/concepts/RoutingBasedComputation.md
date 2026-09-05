@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[3d]]
 [[AI_Forum_Demo_Narrative]]
 [[AdaptiveGraphDiffusion]]
+[[Adaptive_Intelligence_Principle]]
 [[AnalogInMemoryComputing]]
 [[BitPrecisionAwareScheduling]]
 [[BurstGatedRouting]]

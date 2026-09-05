@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[EpidemicThreshold]]
+[[EvolutionaryDiversityPreservation]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Interconnect_Routing]]
 [[LLMDrivenPathSelection]]

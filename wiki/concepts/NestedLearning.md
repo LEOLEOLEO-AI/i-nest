@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Machine_Decision_Speed_Advantage]]
 [[Material_Circularity]]
 [[Multiplex_Epidemic_Threshold]]
+[[Nanoparticle_Network_Interconnect]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]

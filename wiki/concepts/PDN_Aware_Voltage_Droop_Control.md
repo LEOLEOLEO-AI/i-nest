@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[CMOS_Memristor_Devices]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration]]
 [[CrossDomain_Integration]]
 [[CrossbarArrayPrecision]]
 [[Emerging_CMOS_Memristor_Devices]]
@@ -48,12 +49,14 @@ Auto-extracted concept from raw material compilation.
 [[In_Memory_Computing]]
 [[In_Package_Neuromorphic_Integration]]
 [[Long_Range_Interactions]]
+[[MemoryDrivenRouting]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[Process_Recycling_Paradigm]]
 [[TCC]]
+[[advanced packaging]]
 [[emerging CMOS memristor]]
 
 ## Sources

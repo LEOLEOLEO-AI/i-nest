@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AddressRedundancyElimination]]
 [[AgentBasedCorruptionModel]]
 [[Amorphous_Amorphous_Transition]]
+[[AnisotropicGaussianPrimitives]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]

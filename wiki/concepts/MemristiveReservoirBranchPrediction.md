@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CompactnessRegularizedFitness]]
 [[Complex_System_Theory]]
 [[Deep_Thermalisation]]
+[[Dendritic_Compartmentalization]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[FisherInformationMetric]]

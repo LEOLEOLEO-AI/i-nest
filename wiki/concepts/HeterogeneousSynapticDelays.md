@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
+[[DeeplySupervisedSpiking]]
 [[Distributed_Spike_Communication]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence]]

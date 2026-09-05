@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[11_SDI节点接口规范与化合键定义_dup]]
+[[6万+辛顿2025年度全景实录深读｜真正的智能与硅基智能的非对称演进]]
 [[AIRA_NeuralArchSearch]]
 [[AI_Faculty_Forum_2026]]
 [[BigBrainCellularAxis]]
@@ -27,8 +28,8 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet]]
 [[Chiplet_Based_Trusted_Hardware]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration]]
 [[Chiplet_Integration_Route]]
-[[Chiplet_Interconnect]]
 [[Distributed_Spike_Communication]]
 [[Heterogeneous_Integration]]
 [[In_Package_Neuromorphic_Integration]]
@@ -58,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[Yann LeCun：发现智能原理是AI的终极问题]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[向大脑学习智能本质，探索通用 AI 的另一条可行路径]]
 [[忆阻器]]

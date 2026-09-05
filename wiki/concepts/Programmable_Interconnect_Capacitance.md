@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Inference_Workload_Profiling]]
 [[Interconnect_Routing]]
+[[Multi_Function_Spaceborne_Processor]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC]]

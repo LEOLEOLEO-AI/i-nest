@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Topology_Mapping]]
 [[Gut_Brain_Immune_Network]]
 [[InNetworkNeuromorphicEmergence]]
+[[In_Network_Neuromorphic_Integration]]
 [[Intelligence_Emergence]]
 [[Memristor]]
 [[Memristor_Synapse]]

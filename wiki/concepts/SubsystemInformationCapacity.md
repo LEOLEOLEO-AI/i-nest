@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalInterfaceBlock]]
 [[FunctionalInterfaceBlocks]]
 [[Heterogeneous_Integration]]
+[[IntegratedSensingFusion]]
 [[Intelligence_Emergence]]
 [[Izhikevich_NeuronModel]]
 [[MeanFieldSpinGlass]]

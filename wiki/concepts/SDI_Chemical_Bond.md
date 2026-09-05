@@ -21,7 +21,11 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[4H_SiC_SubstrateProcessing]]
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
+[[CongestionAwareNoCPlacement]]
 [[GeneralIntelligenceSubstrate]]
 [[Interconnect_Topology]]
 [[Network_Topology_Design]]

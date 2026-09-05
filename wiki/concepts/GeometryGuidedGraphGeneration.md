@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Cluster_Switch_Bottleneck]]
 [[AI_Forum_Ecosystem]]
 [[Analog_InMemory_Processing]]
+[[AnisotropicTensileStrength]]
 [[Asymptotic_Exact_Solution]]
 [[CST_Spatiotemporal_Complexity]]
 [[CST计量仪]]

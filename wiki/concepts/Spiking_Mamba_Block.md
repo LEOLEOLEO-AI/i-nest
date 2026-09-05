@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[Neuromorphic_Spiking_Integration]]
 [[PhaseLockedTopologyMapping]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]

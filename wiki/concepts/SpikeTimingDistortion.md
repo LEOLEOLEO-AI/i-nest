@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[DirectTrainingSNN]]
 [[Direct_Training_Spiking_Neural_Networks]]
 [[DivergentHigherAreaRanking]]
+[[ElectronicBurstingNeuron]]
 [[EnergyEfficientNeuromorphic]]
 [[EvolutionarySpikeTimingOptimization]]
 [[Hardware_Aware_SNN_Optimization]]

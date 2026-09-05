@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[JunctionCenteredRouting]]
+[[Logic_Folding]]
 [[MeasurementInducedRouting]]
 [[Network_Topology_Design]]
 [[OpenLearningEcosystem]]

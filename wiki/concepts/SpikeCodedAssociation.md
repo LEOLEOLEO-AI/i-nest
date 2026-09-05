@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[SOC]]
 [[STDP_Plasticity]]
+[[STDP_iNEST]]
 [[SensoryGatedSpikingLoop]]
 [[SpikeEncoding]]
 [[SpikeInformationDensity]]

@@ -39,6 +39,8 @@ Auto-extracted concept from raw material compilation.
 [[CriticalFluctuationReservoir]]
 [[Crystallized_Neural_Manifolds]]
 [[DeviceLevelNonlinearityScaling]]
+[[DeviceLevelNonlinearity]]
+[[HybridMemristorArray]]
 [[Intelligence_Emergence]]
 [[Memristor]]
 [[Memristor_Synapse]]

@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[KinematicWavePropagation]]
+[[LossSpikePhenomenon]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[SNN]]

@@ -60,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[SelfOrganizedOscillatoryLearning]]
+[[SwarmGradientRouting]]
 [[iNEST]]
 
 ## Sources

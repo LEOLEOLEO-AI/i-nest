@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CorticalTravelingWave]]
 [[Scale_Concept_Disambiguation]]
 [[TCC]]
+[[WaferScaleMesoscopicNetwork]]
 [[Wafer_Scale_Integration]]
 [[iNEST]]
 

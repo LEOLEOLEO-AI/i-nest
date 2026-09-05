@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[ConductingPolymerDendriteMemory]]
 [[DynamicTokenSparsity]]
 [[Edge_Neuromorphic_Compute]]
+[[Efficient_Coding_Constraint]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]

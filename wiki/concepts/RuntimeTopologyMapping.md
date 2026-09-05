@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_NoC_Fabric]]
 [[Chiplet_Stacking]]
+[[CrossbarArrayVLSI]]
 [[DARPA_ProjectManager_Model]]
 [[DTGA]]
 [[Heterogeneous_Integration]]
@@ -57,6 +58,8 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[Wafer_Scale_Integration]]
+[[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
 
 ## Sources

@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AdjointWaveControl]]
 [[Allreduce_Latency_Probe]]
 [[AndersonTransition]]
+[[Anomaly_Induced_Quantum_Criticality]]
 [[Architectural_Conditioning]]
 [[AthermalDynamics]]
 [[BerryCurvatureIsolation]]

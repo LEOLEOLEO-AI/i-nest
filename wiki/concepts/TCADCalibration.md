@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[MeanFieldSpinGlass]]
 [[MetricComputationAuthenticity]]
 [[Microbiome_Immune_Endocrine_Interplay]]
+[[NCL神经计算定律详解]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Chiplet]]

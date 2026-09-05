@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[PhotoIontronicSynapse]]
 [[RareEventCoding]]
 [[ResonantFrequencyAdaptationRule]]
+[[SpikeTimingDependentPlasticityForTracking]]
 [[SpikeTimingFidelity]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]

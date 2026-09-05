@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuronal_Avalanche_Dynamics]]
 [[NoiseDrivenBackpropReconstruction]]
 [[OpenBenchmarkingFramework]]
+[[OpinionDrivenVaccination]]
 [[Reservoir_Computing]]
 [[Self_Organized_Criticality]]
 [[SpikingTopologyEvolution]]

@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityInducedTopology]]
 [[CriticalityOffCriticalityTransition]]
 [[Criticality]]
+[[DelayAwareSpikeEventDelivery]]
 [[Edge_of_Chaos]]
 [[Edge_of_Chaos_Computation]]
 [[Emergent_Intelligence]]

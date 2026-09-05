@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[Attention_Residuals]]
 [[BackpropagationFreeLearning]]
+[[CST计量仪]]
 [[ChipletWaferInterconnectScaling]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -33,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[EulaminateOverrepresentation]]
 [[HardwareAware_SelfOrganization]]
 [[Heterogeneous_Integration]]
+[[Interconnect_Bottleneck]]
 [[Interconnect_Topology]]
 [[Memory_Wall]]
 [[Mesoscale_Heterogeneous_Integration]]
@@ -56,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[Textbook_Paradigm_Definition]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

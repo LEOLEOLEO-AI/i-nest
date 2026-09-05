@@ -22,11 +22,13 @@ Auto-extracted concept from raw material compilation.
 
 [[ActiveDendriteSNN]]
 [[BurstTemporalPlasticity]]
+[[Complex_System_Theory]]
 [[EventDrivenSynchronization]]
 [[FlexibilityThreshold]]
 [[Memristive_Solutions]]
 [[Network_Topology_Design]]
 [[NeuromorphicStatusAwareness]]
+[[Neuromorphic_Computing]]
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SNN]]
@@ -34,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_iNEST]]
 [[Spiking neural network]]
 [[Spiking_Neural_Network]]
+[[SynapticFatigueModel]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
 

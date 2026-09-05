@@ -20,7 +20,10 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
 [[FeatureBasedGraphEmbedding]]
+[[FeatureBasedGraph]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
@@ -29,6 +32,8 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_Wafer_Stack]]
 [[NoC_SDI]]
 [[NoC_Topology]]
+[[Photopolymerization_NoC]]
+[[SDI_Bond]]
 [[iNEST]]
 
 ## Sources

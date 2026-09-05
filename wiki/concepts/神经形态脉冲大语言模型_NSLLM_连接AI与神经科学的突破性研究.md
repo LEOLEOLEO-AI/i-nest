@@ -48,6 +48,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Nature Communications：具有片上学习的神经形态处理器，用于超越CMOS设备的集成]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Neuron论文：Neuromorphic is dead, 神经形态已死。]]
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[TCC]]

@@ -30,6 +30,8 @@ Auto-extracted concept from raw material compilation.
 [[EdgeInspectionInference]]
 [[Efficient_Coding_Constraint]]
 [[End_Side_Neuromorphic_Deployment]]
+[[EventSparseTemporalEncoding]]
+[[Heterogeneous_Integration]]
 [[Memory_Wall]]
 [[Neuromorphic_Computing]]
 [[Spiking_Neural_Network]]

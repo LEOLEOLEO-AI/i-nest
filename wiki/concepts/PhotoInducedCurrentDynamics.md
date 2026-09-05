@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalFluctuationReservoir]]
 [[DissipativeQuantumReservoir]]
 [[Emergent_CMOS_Memristor_Nonlinearity]]
+[[Emergent_Reservoir_Topology]]
 [[HardwareAware_DesignSpace]]
 [[Intelligence_Emergence]]
 [[Memristor]]

@@ -21,12 +21,14 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Faculty_Forum_2026]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[Attention_Residuals]]
 [[BackpropagationFreeLearning]]
 [[Beyond_Moore_Pathway]]
 [[Bias_Origin_Taxonomy]]
 [[ByteDance_Ada_Chip]]
+[[ConcentricDiscreteOpticalVortices]]
 [[Neuromorphic_Computing]]
 [[Synaptic_Plasticity]]
 [[iNEST]]

@@ -37,6 +37,8 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[OpportunisticRoutingRL]]
+[[OpportunisticRouting]]
+[[PairwiseCorrelationConstraint]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]
 [[SDI_SNN]]

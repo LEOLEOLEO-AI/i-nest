@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CellEmergence]]
 [[Complex_System_Theory]]
 [[Efficient_Coding_Constraint]]
+[[EventBasedAnalogFrontEnd]]
 [[EventDrivenAsync]]
 [[EventDrivenAsynchronousRouting]]
 [[EventDrivenTracking]]

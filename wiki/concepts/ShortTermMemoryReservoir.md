@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[Second_Curve_Industry_Platform]]
 [[ShortTermMemory]]
 [[Synaptic_Plasticity]]
+[[SystemLevelNonlinearity]]
 [[emerging CMOS memristor]]
 [[iNEST]]
 [[神经网络]]

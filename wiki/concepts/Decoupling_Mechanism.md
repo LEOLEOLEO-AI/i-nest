@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SDI_STDP_Rule]]
+[[SDSoW]]
 [[STDP_Plasticity]]
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
@@ -62,6 +63,7 @@ Auto-extracted concept from raw material compilation.
 [[TemperatureSensitivityControl]]
 [[TemporalComplexity]]
 [[TileBasedRasterization]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

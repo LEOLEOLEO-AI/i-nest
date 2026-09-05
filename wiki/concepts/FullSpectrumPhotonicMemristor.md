@@ -21,14 +21,19 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[BeyondVonNeumannArchitecture]]
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
 [[HybridResistiveMemoryCIM]]
 [[In_Memory_Computing]]
 [[In_Network_Generative_Inference]]
 [[Memory_Wall]]
 [[Memristor]]
 [[Memristor_Synapse]]
+[[Network_on_Chip]]
 [[Neuromorphic_Computing]]
+[[NoC]]
 [[NoC_Chiplet_Wafer_Stack]]
+[[SDI_iNEST_Wafer]]
 [[iNEST]]
 [[memristor device]]
 

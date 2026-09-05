@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AINext_Initiative]]
 [[AI_Faculty_Forum_2026]]
+[[ANN_SNN_ConversionError]]
 [[AlternativeBridgingModels]]
 [[AnomalousSpinTransport]]
 [[Contested_Prior_Resolution]]

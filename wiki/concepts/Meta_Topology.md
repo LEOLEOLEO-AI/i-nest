@@ -31,10 +31,14 @@ Auto-extracted concept from raw material compilation.
 [[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[BoundaryContract]]
+[[BoundaryObject_Abstraction]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration]]
+[[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
+[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

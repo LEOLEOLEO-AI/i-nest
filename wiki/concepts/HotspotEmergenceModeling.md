@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[DendriticReservoirState]]
 [[DeviationScalingIndex]]
 [[Dynamic_Expert_Fusion]]
+[[EcosystemTopologyCoupling]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[Expert_Review_Arbitration]]

@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[6万+辛顿2025年度全景实录深读｜真正的智能与硅基智能的非对称演进]]
 [[Algorithm_Hardware_CoDesign]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]

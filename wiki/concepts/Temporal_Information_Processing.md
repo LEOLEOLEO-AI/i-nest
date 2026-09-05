@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[ShortTermMemory]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[ThermodynamicCostFunction]]
 [[iNEST]]
 [[神经网络]]
 

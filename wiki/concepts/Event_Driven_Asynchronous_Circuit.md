@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[ContinualLearningOnNeuromorphic]]
 [[DelayCodedWorkingMemory]]
 [[Discrete_Event_Spike_Simulation]]
+[[EventDriven_Edge_Perception]]
 [[Event_Driven_Architecture]]
 [[Event_Driven_Spike_Communication]]
 [[Interconnect_Routing]]

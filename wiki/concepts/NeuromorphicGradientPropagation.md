@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[SolitonLikeWaves]]
 [[Spatiotemporal_Emergence_Model]]
 [[Spiking_Neural_Network]]
+[[Topological_Interpretability]]
 [[iNEST]]
 [[神经网络]]
 

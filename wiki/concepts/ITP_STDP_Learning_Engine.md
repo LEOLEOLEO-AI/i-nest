@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[NoiseInducedPhaseLocking]]
 [[On_Chip_STDP_Learning]]
+[[PhaseSynchronizationDetection]]
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SOC]]

@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[EulaminateOverrepresentation]]
 [[Evolutionary_Computability]]
 [[Evolutionary_Structure_Computability]]
+[[Exponential_CST_Coupling]]
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[Free_Energy_Topology_Mapping]]
@@ -82,6 +83,7 @@ Auto-extracted concept from raw material compilation.
 [[TemperatureSensitivityControl]]
 [[TemporalComplexity]]
 [[Topology_Interconnect]]
+[[chiplet interconnect]]
 [[complex system]]
 [[residual connection]]
 

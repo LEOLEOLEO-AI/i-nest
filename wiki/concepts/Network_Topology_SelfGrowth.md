@@ -28,7 +28,10 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Neuromorphic_Acceleration]]
 [[FPGA_Neuromorphic_Architectures]]
 [[Intelligence_Emergence]]
+[[MixedLabyrinthFractal]]
 [[Network_Topology_Design]]
+[[Neuromorphic_Acceleration]]
+[[Neuromorphic_Computing]]
 [[iNEST]]
 
 ## Sources
@@ -36,3 +39,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- Network_Topology_SelfGrowth (merged 2026-09-05)

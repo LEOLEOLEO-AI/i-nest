@@ -34,13 +34,16 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Packaging]]
 [[Chiplet_Stacking]]
 [[DirectConnect_Topology]]
+[[EMIB_Bridge]]
 [[Heterogeneous_3D_Stacking]]
 [[Heterogeneous_Integration]]
+[[Interconnect_Bottleneck]]
 [[Interconnect_Topology]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

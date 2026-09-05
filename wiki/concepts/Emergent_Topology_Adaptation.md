@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[NegotiationAwareRouting]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[NonreciprocalQuasiperiodicLattice]]
 [[RamanInducedGaugeField]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]

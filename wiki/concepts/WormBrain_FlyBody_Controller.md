@@ -59,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
+[[TemporalDynamicsModeling]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]

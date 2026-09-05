@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[SubsystemInformationCapacity]]
 [[SuperparamagneticSwitchingRate]]
 [[TCADCalibration]]
+[[Whole_Organism_Behavioral_Assay]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Enabled_Battlefield_Autonomy]]
 [[AI_Faculty_Forum_2026]]
 [[CollectiveSpikingDynamics]]
+[[CombinedImportanceScoring]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]

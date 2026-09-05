@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[CombinatorialOptimizationReservoirMapping]]
 [[Criticality]]
 [[Criticality_of_Natural_Languages]]
+[[DisorderInducedEntanglementTransition]]
 [[Expert_Review_Arbitration]]
 [[Memristor]]
 [[Memristor_Synapse]]

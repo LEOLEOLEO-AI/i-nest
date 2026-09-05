@@ -24,9 +24,11 @@ Auto-extracted concept from raw material compilation.
 [[AdiabaticModeEvolutionCoupler]]
 [[AdiabaticModeEvolution]]
 [[BigBrainCellularAxis]]
+[[BrainBodyResonance]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration]]
 [[Chiplet_Integration_Route]]
 [[Chiplet_Interconnect]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
@@ -65,6 +67,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
+[[chiplet interconnect]]
 [[iNEST]]
 
 ## Sources

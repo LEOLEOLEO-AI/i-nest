@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Autonomous_Spiking_Dynamics]]
+[[EnergyProportionalityCeiling]]
 [[EventDrivenDefenseMechanism]]
 [[EventDrivenMatrixUpdate]]
 [[Event_Driven_Architecture]]

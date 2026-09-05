@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_STDP_Fusion]]
 [[SDI_STDP_Rule]]
 [[SDI_STDP_Topology]]
+[[STDP_MemristiveLearning]]
 [[STDP_Plasticity]]
 [[STDP_Topology]]
 [[Spiking_Neural_Network]]

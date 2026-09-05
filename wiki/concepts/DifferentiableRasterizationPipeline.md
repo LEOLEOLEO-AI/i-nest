@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[EnergyEfficiencyAI]]
 [[Evaluation_Metric_Suite]]
+[[GenerationalAITransition]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]

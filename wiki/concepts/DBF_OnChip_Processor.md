@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_InMemory_Processing]]
 [[ArbitraryWavefunctionConfigurability]]
 [[Blanket_Clock_Tree]]
+[[CavityMethodAnalysis]]
 [[DBF_Processor]]
 [[Network_Topology_Design]]
 [[Synaptic_Plasticity]]

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Complex_System_Theory]]
 [[EventDrivenRiskAssessment]]
 [[Event_Driven_Architecture]]
 [[In_Package_Neuromorphic_Integration]]
@@ -27,8 +28,10 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicStatusAwareness]]
 [[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[Neuromorphic_Organization]]
 [[Neuromorphic_Topology]]
+[[Sequence_First_Processing]]
 [[iNEST]]
 
 ## Sources

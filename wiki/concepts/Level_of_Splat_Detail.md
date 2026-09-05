@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[DTGA]]
 [[DataMovementMinimization]]
 [[EdgeCloudCollaboration]]
+[[HardwareAware_SelfOrganization]]
 [[Heterogeneous_Integration]]
 [[InInterconnectMemory]]
 [[Inference_Workload_Profiling]]
@@ -58,6 +59,8 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Interconnect]]
 [[NonvisualGroundClassification]]
 [[TCC]]
+[[advanced packaging]]
+[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

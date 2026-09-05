@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CollectiveDynamics]]
 [[Complex_System_Theory]]
 [[CrossLayer_SignalRouting]]
+[[DendriticTaskPartitioning]]
 [[DevelopmentalNeuromorphicAdaptation]]
 [[DifferentiableNetworkMetrics]]
 [[Dynamic_Expert_Fusion]]

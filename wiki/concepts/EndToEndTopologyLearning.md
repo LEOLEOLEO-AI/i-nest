@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_STDP]]
 [[SDI_STDP_Bond]]
 [[STDP_Plasticity]]
+[[STDP_iNEST]]
 [[Spike_Timing_Dependent_Plasticity]]
 [[Spike_timing_dependent_plasticity_learning_rule]]
 [[Spiking_Neural_Network]]

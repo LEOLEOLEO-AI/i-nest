@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Network_Neuromorphic]]
 [[Intelligence_Emergence]]
 [[Loihi2_OnChip_Learning]]
+[[Loihi]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
@@ -46,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[SexBasedConnectomeDifferences]]
 [[Spiking_Neural_Network]]
 [[TCC]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
 [[neuromorphic spiking]]
 

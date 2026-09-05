@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Architecture]]
 [[Event_Driven_Computation]]
 [[Expressivity_Bounds]]
+[[FlexibleNeuromorphicAccelerator]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

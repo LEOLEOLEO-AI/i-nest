@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[EnergyEfficiencyAI]]
 [[EquilibriumSolution]]
 [[EventDrivenRiskAssessment]]
+[[EventDrivenTracking]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Memristive_Topology]]

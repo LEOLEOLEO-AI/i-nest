@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[AnytimePointCloudRecognition]]
 [[AsynchronousEventDrivenComputation]]
 [[BayesianDomainEvolution]]
+[[BurstCoding]]
 [[CascadedAdaptiveCombiners]]
 [[Co_designed_Online_Continual_Learning]]
 [[Complex_System_Theory]]

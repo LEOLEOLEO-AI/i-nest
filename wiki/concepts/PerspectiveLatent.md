@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[MacroCriticalityEmergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[NoiseDrivenBackpropReconstruction]]
 [[STDPDrivenGraphLearning]]
 [[STDP_Plasticity]]
 [[STDP_Supervised_Degradation]]

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Intelligence_Principle]]
 [[AnytimePointCloudRecognition]]
 [[ArtificialProprioception]]
+[[Attention_Based_Dynamic_Neuromorphic_Computing]]
 [[Neuromorphic_Computing]]
 [[iNEST]]
 

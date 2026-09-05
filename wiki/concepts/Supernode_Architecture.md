@@ -31,9 +31,11 @@ Auto-extracted concept from raw material compilation.
 [[Bipartite_Interconnect_Design]]
 [[CausalIntegrationTopology]]
 [[Chiplet]]
+[[Chiplet_Advanced_Packaging]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
 [[Heterogeneous_Integration]]
+[[Network_Topology_Design]]
 [[TCC]]
 
 ## Sources

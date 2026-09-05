@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Architecture]]
 [[SNN]]
 [[SelectorFreeHopfieldNetwork]]
+[[SensoryInMemoryComputing]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking neural network]]
 [[Spiking_Neural_Network]]

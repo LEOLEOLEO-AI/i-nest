@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[BoundaryObject_Abstraction]]
 [[BranchingRatio]]
 [[CST计量仪]]
+[[Causal_Emergence]]
 [[Causal_Emergence_Architecture]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet]]
@@ -48,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligent_Power_Management]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[MetaFAIR_ArchitectureDiscovery]]
+[[NCL神经计算定律详解]]
 [[Network_Spatiotemporal_Synergy]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
@@ -68,6 +70,7 @@ Auto-extracted concept from raw material compilation.
 [[TemporalComplexity]]
 [[Textbook_Paradigm_Definition]]
 [[Topology_Centric_Computing]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

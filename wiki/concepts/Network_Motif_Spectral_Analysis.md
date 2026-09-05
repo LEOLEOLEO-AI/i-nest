@@ -36,8 +36,10 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Synaptic_Weighting]]
 [[Architectural_Conditioning]]
 [[Asymmetric_Interaction_Matrix]]
+[[BCU_Operation]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration]]
 [[DARPA_ProjectManager_Model]]
 [[DynamicProgrammingRecycling]]
 [[Dynamic_Expert_Fusion]]
@@ -57,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[TemporalFeatureProjection]]
 [[TopologicalAndersonChernInsulator]]
 [[Topological_Semantic_Flow]]
+[[advanced packaging]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

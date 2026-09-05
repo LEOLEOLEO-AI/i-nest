@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[PinAssignmentOptimization]]
 [[ReconfigurablePageArchitecture]]
 [[ReconfigurableSpikingRouting]]
+[[RuntimeTopologyMapping]]
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SDI_STDP_Rule]]

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[1024_Card_SuperNode]]
 [[3DHI_Interconnect]]
 [[3DHI_Stacking]]
 [[3d]]
@@ -33,11 +34,13 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_NoC_Fabric]]
 [[Chiplet_NoC_Interconnect]]
+[[Heterogeneous_Integration]]
 [[Network_on_Chip]]
 [[NoC]]
 [[NoC_Interconnect]]
 [[SDI_Bond]]
 [[TCC]]
+[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

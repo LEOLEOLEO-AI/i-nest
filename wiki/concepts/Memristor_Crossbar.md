@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Faculty_Forum_2026]]
 [[DARPA_ProjectManager_Model]]
 [[HybridResistiveMemoryCIM]]
 [[In_Memory_Computing]]

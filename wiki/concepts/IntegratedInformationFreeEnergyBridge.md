@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveTimeStepTraining]]
 [[AnisotropicGaussianPrimitives]]
 [[BrownianCastleInterface]]
+[[BurstTemporalPlasticity]]
 [[CollectiveSpikingDynamics]]
 [[CombinedImportanceScoring]]
 [[DTGA]]

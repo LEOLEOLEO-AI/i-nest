@@ -28,8 +28,13 @@ Auto-extracted concept from raw material compilation.
 [[AIRA_NeuralArchSearch]]
 [[AI_Faculty_Forum_2026]]
 [[AdjustableDynamics]]
+[[Alignment_Tax]]
+[[Complex_System_Theory]]
+[[SDI_Bond]]
+[[SDI节点接口规范与化合键定义]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[GenerativeTopologyModels]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Topology]]
+[[Memristor_Interconnect]]
 [[Microsecond_Link_Reconfiguration]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
@@ -44,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_SDI]]
 [[NoC_SDI_Integration]]
 [[OnChipOpticalTweezers]]
+[[P_Paradigm]]
 [[Photonic_Chiplet_Interconnect]]
 [[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]
@@ -58,8 +60,11 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologyCentricComputing]]
 [[TopologyProgramming]]
+[[Topology_Centric_Computing]]
 [[WaferScaleTopologyCentricComputing]]
+[[chiplet interconnect]]
 [[iNEST]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -50,7 +50,9 @@ Auto-extracted concept from raw material compilation.
 [[Random_Markov_Dynamics]]
 [[ReEntrantMultifractalization]]
 [[Reconfigurable_NonHermitian_Nonlinear_System]]
+[[ReproducibleReservoirDynamics]]
 [[TCC]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[Γst_Revision]]
 

@@ -57,6 +57,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[complex system]]
+[[getnote_2025-12-17_3D异构集成_3DHI_技术深度研究_机遇_挑战与未来路径]]
 [[iNEST]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]

@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenLearning]]
 [[EventDrivenRestoration]]
 [[EventDrivenRiskAssessment]]
+[[NeuromorphicStatusAwareness]]
 [[Neuromorphic_Computing]]
 [[catastrophic forgetting]]
 [[iNEST]]

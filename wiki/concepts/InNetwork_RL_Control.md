@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Brain_Inspired_Switchless_Architecture]]
 [[BurstGatedRouting]]
 [[CirculateFiringNeuron]]
+[[CoPackagedOptics]]
 [[CognitiveFeedbackLoop]]
 [[Collective_State_Convergence]]
 [[CompetitiveEdgeRewiring]]

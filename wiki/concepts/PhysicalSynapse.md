@@ -20,13 +20,19 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Faculty_Forum_2026]]
 [[Constructed_Reality_Interconnect]]
+[[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[HierarchicalSpikePropagation]]
 [[Memristor]]
 [[Memristor_Synapse]]
+[[SDI_Bond]]
+[[SDSoW]]
+[[SDSoW_Architecture]]
 [[SDSoW_Strategic_Planning]]
 [[Spatiotemporal_Synergy_Complexity]]
+[[Spiking_Neural_Network]]
 [[SynapseLevelParallelism]]
 [[iNEST]]
 [[vLLM_plugin_FLSDI]]

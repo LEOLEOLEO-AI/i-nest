@@ -40,6 +40,8 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenInference]]
 [[EventDrivenNeuromorphicLearning]]
 [[Event_Driven_Activation]]
+[[Event_Driven_Architecture]]
+[[Expressivity_Bounds]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[LearnableGradientSurrogate]]
 [[Lossless_ANN_SNN_Conversion]]
 [[LowRankEvolutionStrategies]]
+[[MemristiveSpikingAccelerator]]
 [[NestedRepresentation]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]

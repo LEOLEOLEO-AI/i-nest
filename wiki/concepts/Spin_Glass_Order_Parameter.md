@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
+[[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
 [[AI4PDE｜综述·论文推荐 08｜物理信息神经网络在偏微分方程问题中的应用：全面综述]]
 [[AINext_Initiative]]
 [[AI_Application_Scenario_Reconstruction]]
@@ -36,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Environmental_Coupling_Organization]]
 [[Heterogeneous_Integration]]
 [[IncidenceBasedRandomWalk]]
+[[Intelligence_Emergence]]
 [[Interconnect_Topology]]
 [[Memristor]]
 [[Memristor_Synapse]]
@@ -48,8 +50,10 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[TCC]]
 [[TCC核心概念与基线理论集 (TCC Core Concepts)]]
+[[chiplet interconnect]]
 [[emerging CMOS memristor]]
 [[iNEST]]
+[[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 

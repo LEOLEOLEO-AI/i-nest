@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Brain_Connectome]]
 [[Combinatorial_Optimization_Readout]]
 [[Connectome]]
+[[Connectome_Driven_Architecture]]
 [[Input_Intensity_Gradient]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

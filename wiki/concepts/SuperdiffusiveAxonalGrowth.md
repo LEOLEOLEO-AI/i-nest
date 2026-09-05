@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[CatalyticReactionNetwork]]
 [[Channel_Decoding_Energy_Landscape]]
 [[Complex_System_Theory]]
+[[Crystallized_Neural_Manifolds]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]

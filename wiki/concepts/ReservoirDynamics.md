@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[RenormalizationGroup_DeviceNonlinearity]]
 [[ReproducibleReservoirComputing]]
 [[Reservoir_Computing]]
+[[STDP_Plasticity]]
 [[complex system]]
 [[iNEST]]
 

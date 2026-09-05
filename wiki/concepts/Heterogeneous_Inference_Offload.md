@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
+[[Chiplet_Integration]]
 [[Chiplet_Interconnect]]
 [[Chiplet_NoC_Fabric]]
 [[Chiplet_Stacking]]
@@ -58,12 +59,15 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[SDI_Bond]]
 [[SDI_Topology]]
+[[SpatialPatternStorage]]
 [[TCC]]
 [[Tau_Law]]
 [[TemporalFeatureProjection]]
 [[ThroughSiliconVia_TSV_ThermalPath]]
 [[TopologyAwareTaskScheduling]]
 [[Topology_Centric_Interconnect]]
+[[advanced packaging]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

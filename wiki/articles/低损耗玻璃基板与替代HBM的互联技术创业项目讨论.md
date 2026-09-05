@@ -18,5 +18,6 @@ chiplet, 封装, 晶圆
 
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Heterogeneous_Integration]]
 [[TCC]]
 [[Wafer_Scale_Integration]]

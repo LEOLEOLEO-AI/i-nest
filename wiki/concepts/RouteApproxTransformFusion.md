@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[PhotonicSynapticPlasticity]]
 [[Receptron_Unit]]
 [[ReconfigurableSNNTopology]]
+[[Reliability_As_Service]]
 [[SNN]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]

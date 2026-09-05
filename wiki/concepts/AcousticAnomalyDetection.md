@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveDendriteSNN]]
 [[ActivityAvalanche]]
 [[Activity_Energy_Tradeoff]]
+[[AdaptiveAsymmetricSurrogateGradient]]
 [[AdaptiveFrequencyResonateAndFire]]
 [[Adaptive_Replication_Strategy]]
 [[AdversarialSpikePerturbation]]

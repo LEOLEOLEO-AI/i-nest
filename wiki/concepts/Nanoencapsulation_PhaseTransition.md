@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Coupling_Strength_Encoding]]
 [[DendriticReservoirState]]
 [[DeviationScalingIndex]]
+[[EcosystemTopologyCoupling]]
 [[ErrorSuppressedPipeline]]
 [[FlexibilityThreshold]]
 [[GradientBasedSpikeLearning]]

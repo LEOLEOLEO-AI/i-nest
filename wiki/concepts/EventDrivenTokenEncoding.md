@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[ContinuousTimeSNN]]
 [[Criticality]]
 [[DelayAwareSpikeEventDelivery]]
+[[DirectSNNTraining]]
 [[EnergyEfficientSNN]]
 [[EventBasedNeuralDecoding]]
 [[EventDrivenAutoregression]]

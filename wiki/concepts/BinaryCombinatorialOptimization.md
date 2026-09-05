@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[Order_Flexibility_Duality]]
 [[ProjectiveMeasurementRouting]]
+[[RamanInducedGaugeField]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

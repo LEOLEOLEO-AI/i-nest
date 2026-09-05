@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[FaultTolerantLogicalOperation]]
 [[GeometricRoleEmbedding]]
 [[Gsk_Summarize_Pipeline]]
+[[HighDimensionalContinuousRepresentation]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]

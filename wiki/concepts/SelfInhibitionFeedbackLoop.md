@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[DiscreteSTDP]]
 [[HeavyTailedWaitingTime]]
 [[ITP_STDP]]
+[[ITP_STDP_Engine]]
 [[ITP_STDP_Learning_Engine]]
 [[IntrinsicTimingSTDP]]
 [[Memristive_STDP]]

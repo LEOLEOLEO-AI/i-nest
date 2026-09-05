@@ -44,7 +44,9 @@ Auto-extracted concept from raw material compilation.
 [[Intelligent_Computing_Infrastructure]]
 [[Memory_Wall]]
 [[Memristive_STDP]]
+[[Memristor]]
 [[Memristor_Network]]
+[[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[Network_topology_and_interconnection_patterns]]
 [[Neuromorphic_Computing]]
@@ -69,8 +71,10 @@ Auto-extracted concept from raw material compilation.
 [[TemporalComplexity]]
 [[TopologyProgramming]]
 [[analog computation]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[residual connection]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

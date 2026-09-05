@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_Manufacturing_Strategy]]
 [[DrivenCriticalityOptimalityTradeoff]]
 [[EventBasedMotionDeblurring]]
+[[EventDrivenAutoregression]]
 [[EventDrivenMotionDeblurring]]
 [[ImageToEventConversion]]
 [[Neuromorphic_Computing]]

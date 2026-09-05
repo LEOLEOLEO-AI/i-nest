@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[DimensionSeparation_IntensiveExtensive]]
 [[DiscreteContinuous_Unification]]
 [[DrivenCriticalityOptimalityTradeoff]]
+[[EmulationTheoryDisturbanceObserver]]
 [[Neuromorphic_Computing]]
 [[Self_Organized_Criticality]]
 [[UnifiedHypergraphStateSpace]]

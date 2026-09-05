@@ -21,7 +21,6 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Driven_Architecture_Search]]
 [[AI_Forum_Demo_Narrative]]
-[[Advanced_Packaging]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Baseline_Draft_Status]]
@@ -29,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BioPlausiblePredictiveCoding]]
 [[BurstGatedRouting]]
 [[CIMWeightUpdateAwareness]]
+[[ConductingPolymerDendriteMemory]]
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Interconnect]]
 [[Neuromorphic_Selective_State_Space]]
 [[Neuromorphic_Sensor_Fusion]]
 [[RecursiveSelfReferentialArchitecture]]
@@ -58,8 +59,8 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Temporal_Encoding]]
 [[TCC]]
 [[TCC_SpikingIntegration]]
+[[advanced packaging]]
 [[iNEST]]
-[[neuromorphic interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

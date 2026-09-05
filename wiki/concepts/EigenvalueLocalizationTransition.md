@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[ReproducibleReservoirDynamics]]
 [[ReservoirDynamics]]
+[[ReservoirYieldMaximization]]
 [[Reservoir_Computing]]
 [[Synaptic_Plasticity]]
 [[ThermallyDrivenSuperparamagnetReservoir]]

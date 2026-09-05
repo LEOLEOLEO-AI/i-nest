@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[1024_Card_SuperNode]]
+[[3D_IC_Stacking]]
 [[3D_Integrated_Chiplet_Stacking]]
 [[3D_Integration]]
 [[3d]]
@@ -45,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[ERI_2_0_Strategic_Framework]]
 [[EdgeIoTEnergyAwareness]]
+[[EndToEndLinkSimulation]]
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]

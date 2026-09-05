@@ -36,6 +36,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Crystallized_Neural_Manifolds]]
 [[Heterogeneous_Integration]]
 [[HotChip2024-Day2_AI加速器互联和云AI处理器,_Tesla是亮点]]
+[[HotChip2024-Day2_AI加速器互联和云AI处理器,_Tesla是亮点_1]]
 [[III IV V族元素 (1)]]
 [[Intelligence_Emergence]]
 [[LocalMeasurementSheaf]]

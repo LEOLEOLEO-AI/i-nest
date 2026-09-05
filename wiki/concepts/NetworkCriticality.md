@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality_Metric_Extraction]]
 [[Criticality_of_Natural_Languages]]
 [[DisorderInducedEntanglementTransition]]
+[[DynamicalSelfDualCriticality]]
 [[Network_Topology_Design]]
 [[Reservoir_Computing]]
 [[Self_Organized_Criticality]]

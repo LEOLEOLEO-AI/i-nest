@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
+[[12_三原理协同_FEP_最小作用量_STDP]]
 [[AcceleratedMaterialScreening]]
 [[AdversarialResilience]]
 [[AnomalousSpinTransport]]
@@ -27,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Beyond_Moore_Packaging_Strategy]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Complex_System_Theory]]
 [[Criticality]]
 [[DendriticReservoirState]]
 [[Emergent_Intelligence]]
@@ -60,6 +62,8 @@ Auto-extracted concept from raw material compilation.
 [[StochasticBinaryDynamics]]
 [[Whole_Organism_Behavioral_Assay]]
 [[iNEST]]
+[[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

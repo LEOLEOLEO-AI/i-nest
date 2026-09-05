@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[BosonicFieldTopology]]
 [[CatalyticReactionNetwork]]
 [[Cauchy_Aczel_Uniqueness]]
+[[Channel_Decoding_Energy_Landscape]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

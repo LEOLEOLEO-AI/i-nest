@@ -24,12 +24,15 @@ Auto-extracted concept from raw material compilation.
 [[AI_Driven_Architecture_Search]]
 [[AI_Faculty_Forum_2026]]
 [[AI_Forum_Demo_Narrative]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[AssociativeMemoryTopology]]
+[[BurstInterleaving]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
+[[SOC]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

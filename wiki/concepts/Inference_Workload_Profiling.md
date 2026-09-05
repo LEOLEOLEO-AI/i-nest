@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Based_Architecture]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
+[[CoPackagedOptics]]
 [[CommunicationAwareComputeRelocation]]
 [[Complex_System_Theory]]
 [[DTGA]]

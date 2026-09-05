@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[DTGA]]
 [[DataMovementMinimization]]
+[[DiameterBoundDecode]]
 [[EdgeCloudCollaboration]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
@@ -62,6 +63,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[Topology_Embedded_Field_Encoding]]
 [[WavelengthMultiplexedInterconnect]]
+[[advanced packaging]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

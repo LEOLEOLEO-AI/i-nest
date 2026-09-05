@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalFixedPoint]]
 [[CriticalStateDynamics]]
 [[Critical_Exponent_Scaling]]
+[[CriticalityBasedClassification]]
 [[Criticality]]
 [[DynamicalSelfDualCriticality]]
 [[EnergyProportionalityCeiling]]

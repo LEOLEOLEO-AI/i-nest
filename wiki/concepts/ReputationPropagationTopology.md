@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[ChiralTopologicalMatterEncoding]]
 [[ChiralTopologicalMatter]]
 [[CoexistenceRegime]]
+[[CommunicationTopologyMismatch]]
 [[Complex_System_Theory]]
 [[ComponentLevelMolding]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]

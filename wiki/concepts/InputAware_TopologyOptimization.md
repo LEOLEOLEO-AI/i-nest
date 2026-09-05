@@ -20,15 +20,20 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[20W_Brain_Inspired_Planning]]
 [[AcceleratorReconfigurationOverhead]]
 [[Accessibility_Plasticity]]
 [[AdaptiveArchitecture]]
 [[AmoebaInspiredLocomotion]]
 [[BioInspired_Interception_Control]]
 [[BrainScaleTopologyExploitation]]
+[[Interconnect_Routing]]
 [[MoE_Routing]]
 [[Network_Topology_Design]]
+[[SDI_Bond]]
+[[SDI_STDP]]
 [[SDI_STDP_Rule]]
+[[STDP_Plasticity]]
 [[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

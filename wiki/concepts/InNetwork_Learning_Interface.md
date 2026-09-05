@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Crystallized_Neural_Manifolds]]
 [[DendriticReservoirState]]
 [[DeviationScalingIndex]]
+[[EcosystemTopologyCoupling]]
 [[EmergentDynamics]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Roadmap]]

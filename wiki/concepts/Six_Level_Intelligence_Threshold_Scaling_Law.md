@@ -44,6 +44,8 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[LocalEvolutionRules]]
 [[MajoranaZeroModeDetection]]
+[[MajoranaZeroMode]]
+[[Mesoscale_Physical_Computing_Framework]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[analog computation]]

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AsynchronousEventDrivenComputation]]
 [[Bio_plausible_Neuromorphic_Disturbance_Observer]]
 [[BrainBodyResonance]]
+[[BurstCoding]]
 [[CascadedAdaptiveCombiners]]
 [[ClosedLoopNeuromorphicControl]]
 [[Complex_System_Theory]]

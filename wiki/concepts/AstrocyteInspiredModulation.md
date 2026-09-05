@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[3D_Torus_6_Degree]]
 [[3d]]
 [[AI_Assisted_Energy_Management]]
+[[AI_Enabled_Battlefield_Autonomy]]
 [[Accessibility_Plasticity]]
 [[ActiveDendriteSNN]]
 [[Active_Inference_Agent]]

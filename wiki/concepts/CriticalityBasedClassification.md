@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Specific_Embedding_Separation]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[PowerLawScaling]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
@@ -57,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[catastrophic forgetting]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

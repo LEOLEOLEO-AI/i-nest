@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[CollectiveDynamics]]
 [[Complexity_Emergent_Intelligence]]
 [[Constructed_Reality_Interconnect]]
+[[CrystalPalace_Program]]
 [[Defense_Industrial_Base_Reshaping]]
 [[Dynamic_Hybrid_LLM_Workload_Scheduling]]
 [[ERI_2_0_Strategic_Framework]]

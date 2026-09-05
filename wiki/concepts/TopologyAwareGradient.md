@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[DimensionalityReductionForNetworkControl]]
 [[DistinctReentrantPhases]]
 [[DynamicalNetworkCoarseGraining]]
+[[ERI_2_0_Strategy]]
 [[Intelligence_Emergence]]
 [[Interconnect_Topology]]
 [[Network_Topology_Design]]

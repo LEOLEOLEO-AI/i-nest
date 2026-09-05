@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Bipartite_Interconnect_Design]]
 [[CausalIntegrationTopology]]
 [[Chiplet]]
+[[Chiplet_Based_Architecture]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
 [[Heterogeneous_Integration]]

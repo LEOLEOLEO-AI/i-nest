@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[ContinuousGameOfLife]]
 [[CrossDomain_Abstraction]]
 [[CrossDomain_Synthesis]]
+[[CrossLingualIdiomGraph]]
 [[GenericObjectTracking]]
 [[Independent_EdgeAI_Player_Endgame]]
 [[Intelligence_Emergence]]

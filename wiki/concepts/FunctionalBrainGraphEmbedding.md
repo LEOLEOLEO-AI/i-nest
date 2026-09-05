@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[QuantumKernelMethods]]
 [[ScaleFreeNetwork]]
 [[SparseTemporalEncoding]]
+[[SpikingMoE_SDPrompt]]
 [[TCC]]
 [[TCC_Neuromorphic_Integration]]
 [[TopologicalAndersonChernInsulator]]

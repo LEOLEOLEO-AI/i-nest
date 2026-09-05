@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CorticalWaveRouting]]
 [[CrossbarSNNArchitecture]]
 [[DevelopmentalNeuromorphicAdaptation]]
+[[DualModeSNNConventionalInference]]
 [[EarlyVisualCortexAliasing]]
 [[EventDrivenModularArchitecture]]
 [[EvolutionaryDiversityPreservation]]

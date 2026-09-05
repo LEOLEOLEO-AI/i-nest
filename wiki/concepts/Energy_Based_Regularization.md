@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Enabled_Battlefield_Autonomy]]
 [[AcceleratorReconfigurationOverhead]]
 [[AdaptiveFunctionalTopology]]
+[[BarrierConditionedTrajectory]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[SNN]]

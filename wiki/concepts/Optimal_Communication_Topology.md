@@ -27,8 +27,11 @@ Auto-extracted concept from raw material compilation.
 [[Bioavailability_Enhancement]]
 [[CST_SynergisticCoordination]]
 [[Capability_Forging_Pipeline]]
+[[Complex_System_Theory]]
+[[Gate_Synthesis_Readout]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]
+[[Spiking_Neural_Network]]
 [[TCC]]
 
 ## Sources

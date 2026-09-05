@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CorticalWaveRouting]]
 [[Criticality]]
 [[EnsembleCreditAssignment]]
+[[Environmental_Capability_Context]]
 [[EpidemicThreshold]]
 [[EventCameraTemporalEncoding]]
 [[Interconnect_Routing]]

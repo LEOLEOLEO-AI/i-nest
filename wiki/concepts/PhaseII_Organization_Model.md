@@ -51,7 +51,9 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Reconfigurable_Network]]
 [[SDSoW_Strategic_Planning]]
 [[TCC]]
+[[WaferScaleTopologyCentricComputing]]
 [[Wafer_Scale_Integration]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

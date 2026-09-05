@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveTimeStepTraining]]
 [[Adaptive_Intelligence_Principle]]
 [[Adaptive_Service_Orchestration]]
+[[Advanced_Computing_Project]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[AnisotropicGaussianPrimitives]]
 [[ArtificialProprioception]]

@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstSuppression]]
 [[ContinuousControlConversion]]
 [[Criticality]]
+[[DifferentiableSpikeTimeDiscretization]]
 [[Interconnect_Routing]]
 [[SNN]]
 [[Self_Organized_Criticality]]

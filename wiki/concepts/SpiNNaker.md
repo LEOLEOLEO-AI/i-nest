@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[EnergyResourceEfficiencyTradeoff]]
 [[Gate_Synthesis_Readout]]
 [[HierarchicalSpikePropagation]]
+[[HighThroughputPhenotyping]]
 [[Neuromorphic_Computing]]
 [[Spiking neural network]]
 [[Spiking_Neural_Network]]

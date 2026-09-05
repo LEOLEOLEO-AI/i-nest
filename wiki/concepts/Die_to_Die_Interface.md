@@ -36,6 +36,8 @@ Auto-extracted concept from raw material compilation.
 [[NoC]]
 [[NoC_Interconnect]]
 [[TCC]]
+[[advanced packaging]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

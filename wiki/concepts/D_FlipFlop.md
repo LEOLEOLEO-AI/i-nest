@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[ContinualLearningOnNeuromorphic]]
 [[DVS_Event_Camera]]
 [[DelayCodedWorkingMemory]]
+[[DualMemoryPathwaySNN]]
 [[EnergyEfficientRestoration]]
 [[EventDrivenInference]]
 [[Event_Driven_Architecture]]

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicGraphAnomalyDetection]]
 [[Neuromorphic_Computing]]
+[[Nonlinear_Gain]]
 [[PhaseLockedTopologyMapping]]
 [[PolychronousNeuronalGroups]]
 [[Quadratic_Integrate_and_Fire]]

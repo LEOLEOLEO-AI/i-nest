@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Edge_of_Chaos]]
 [[Edge_of_Chaos_Coastal_Dynamics]]
 [[EventDrivenInference]]
+[[HigherOrderAvalanche]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Planning_Architecture]]
 [[SNN]]

@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[DelayParameterSpaceDecomposition]]
 [[Dielet_Integration]]
 [[DimensionReductionForSimplicialDynamics]]
+[[DimensionReductionViaSimplicialProjection]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]

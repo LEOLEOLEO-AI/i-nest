@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Deep_Brain_Stimulation]]
 [[AstrocyteInspiredRepair]]
 [[Attention_Mechanism_in_SNN]]
+[[BurstTemporalPlasticity]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]

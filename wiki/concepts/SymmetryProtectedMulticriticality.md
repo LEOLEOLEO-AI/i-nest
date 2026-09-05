@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[Algorithmic_Warfare]]
 [[Allreduce_Latency_Probe]]
+[[Anomaly_Induced_Quantum_Criticality]]
 [[Architectural_Conditioning]]
 [[Avoided_Criticality]]
 [[BioInspired_Interception_Control]]

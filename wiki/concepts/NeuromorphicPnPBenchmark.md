@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Communication]]
 [[Event_Driven_Computation]]
 [[Event_Driven_Processing]]
+[[FPGA_NeuromorphicMapping]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[NeuromorphicPnP]]

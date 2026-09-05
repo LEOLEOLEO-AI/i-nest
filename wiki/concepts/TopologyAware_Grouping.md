@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[3D_Heterogeneous_Integration]]
 [[3d]]
 [[AdaptiveGraphDiffusion]]
+[[Adaptive_Intelligence_Principle]]
 [[AdiabaticMultimodeBend]]
 [[AdvancedPackagingInterconnect]]
 [[AndersonTransition]]

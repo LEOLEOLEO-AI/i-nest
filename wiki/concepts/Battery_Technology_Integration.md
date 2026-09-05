@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Network_Neuromorphic_Processing]]
 [[Intelligence_Emergence]]
 [[Interconnect_Topology]]
+[[MacroscopicDescriptor]]
 [[Memristor]]
 [[Memristor_Network]]
 [[Memristor_Synapse]]
@@ -60,6 +61,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[TCC]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[Nonlinear_Gain]]
+[[Recurrent_Network_Homeostasis]]
 [[SNN]]
 [[SNN_VisualSemanticDecoder]]
 [[Spiking neural network]]

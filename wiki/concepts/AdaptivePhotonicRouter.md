@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[3d]]
 [[AdaptiveArchitecture]]
 [[AdaptiveGraphDiffusion]]
+[[Adaptive_Intelligence_Principle]]
 [[AdiabaticMultimodeBend]]
 [[AdjointWaveControl]]
 [[AgenticServiceOrchestration]]

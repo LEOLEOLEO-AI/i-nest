@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[ChipletRoutingFabric]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration]]
 [[Chiplet_Integration_Route]]
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
@@ -59,6 +60,9 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Architecture]]
 [[SDSoW_Interface_Standard]]
 [[SelfOrganization]]
+[[Switchless_Dragonfly_Topology]]
+[[advanced packaging]]
+[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

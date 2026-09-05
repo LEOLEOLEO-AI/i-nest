@@ -26,10 +26,15 @@ Auto-extracted concept from raw material compilation.
 [[20W_Brain_Inspired_Planning]]
 [[6万+辛顿2025年度全景实录深读｜真正的智能与硅基智能的非对称演进]]
 [[AI4PDE｜综述·论文推荐 08｜物理信息神经网络在偏微分方程问题中的应用：全面综述]]
+[[AI_Faculty_Forum_2026]]
+[[Complex_System_Theory]]
 [[Neuromorphic_Computing]]
+[[SDI_Bond]]
+[[SDI节点接口规范与化合键定义]]
 [[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

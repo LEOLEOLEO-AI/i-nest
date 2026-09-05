@@ -28,10 +28,12 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[BackpropagationFreeLearning]]
 [[BurstInterleaving]]
+[[Chemical_Bond_Operation_Algebra]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
 [[SOC]]
+[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

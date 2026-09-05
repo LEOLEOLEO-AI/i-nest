@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[RestrictedConnectivityTopology]]
 [[SexBasedConnectomeDifferences]]
 [[TCC]]
+[[ThermallyDrivenSuperparamagneticReservoir]]
 [[iNEST]]
 
 ## Sources

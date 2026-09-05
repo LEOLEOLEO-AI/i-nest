@@ -18,8 +18,10 @@ SDI, chiplet, wafer, 互连, 封装, 拓扑, 晶圆
 
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
+[[Neuromorphic_Computing]]
 [[SDI_Bond]]
 [[TCC]]
 [[Wafer_Scale_Integration]]

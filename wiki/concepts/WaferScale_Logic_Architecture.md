@@ -37,8 +37,12 @@ Auto-extracted concept from raw material compilation.
 [[Maskless_Reconfigurable_Routing]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
+[[NoC]]
 [[TCC]]
 [[Topology_Aware_NoC_Routing]]
+[[UCIe_Interconnect]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[Robust_Decision_Making]]
 [[SelfEvolvingMAS]]
 [[TopologicalAndersonChernInsulator]]
+[[TransferableNeuromorphicComputing]]
 [[analog computation]]
 [[iNEST]]
 [[topology reconfiguration]]

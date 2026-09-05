@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Anisotropic_Correlation_Length]]
 [[ApproximationFidelityTradeoff]]
 [[CommunicationAwareComputeRelocation]]
+[[FPGA_Reconfigurability]]
 [[Interconnect_Routing]]
 [[Interconnect_Topology]]
 [[Network_Topology_Design]]

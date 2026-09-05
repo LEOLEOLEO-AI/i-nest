@@ -20,9 +20,9 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[11_SDI节点接口规范与化合键定义_dup]]
+[[6万+辛顿2025年度全景实录深读｜真正的智能与硅基智能的非对称演进]]
 [[AIRA_NeuralArchSearch]]
 [[AI_Faculty_Forum_2026]]
-[[Advanced_Packaging]]
 [[AstrocyteInspiredRepair]]
 [[BigBrainCellularAxis]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
@@ -58,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TopologicalAndersonChernInsulator]]
 [[Yann LeCun：发现智能原理是AI的终极问题]]
+[[advanced packaging]]
 [[iNEST]]
 [[向大脑学习智能本质，探索通用 AI 的另一条可行路径]]
 [[忆阻器]]

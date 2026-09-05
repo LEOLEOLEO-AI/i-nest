@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveSpeechToSpikeEncoding]]
 [[AmoebaInspiredLocomotion]]
 [[BurstTemporalPlasticity]]
+[[Continuous_Control_Spike_Timing_Sensitivity]]
 [[CorticalWaveRouting]]
 [[Dynamic_Expert_Routing]]
 [[EventCameraTemporalEncoding]]

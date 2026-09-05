@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[NonlinearConnectomeScaling]]
 [[Nonlinear_Gain]]
 [[Parallelized_Hierarchical_Connectome]]
+[[Quantum_Feature_Map]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SexBasedConnectomeDifferences]]
 [[Synaptic_Weight_Pruning_by_Connectivity_Statistics]]

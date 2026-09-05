@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Representation_Learning_Generalization]]
 [[Reservoir_Computing]]
+[[SelfOrganizationInContinuousMedia]]
 [[Self_Organized_Criticality]]
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]

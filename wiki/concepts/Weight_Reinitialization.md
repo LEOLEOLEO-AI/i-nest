@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[DTGA]]
 [[Deep_Network_Architecture_Invariant]]
 [[DelayTolerantNetworkUAV]]
+[[FiringRateAdaptation]]
 [[Independent_EdgeAI_Player_Endgame]]
 [[LLM_Reward_Design]]
 [[Memristive_Interconnect]]

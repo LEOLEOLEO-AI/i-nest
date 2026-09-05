@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[LocalInteractionDrivenReconfiguration]]
 [[Local_Approximation_Dynamics]]
 [[LossSpikePhenomenon]]
+[[MixedSignalSNN_CoDesign]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[SNN]]

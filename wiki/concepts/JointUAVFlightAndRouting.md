@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[ExactlyFlatTopologicalBands]]
 [[FeatureBonding]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
+[[GroupInfluenceThreshold]]
 [[InNetworkComputing]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

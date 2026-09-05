@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Alpha_Coefficient_Phase_Transition_Amplification]]
 [[Analog_InMemory_Processing]]
 [[AttractorBasinOrthogonality]]
+[[AutonomousCircuitMorphogenesis]]
 [[BCM滑动阈值]]
 [[CST计量仪]]
 [[Complex_System_Theory]]

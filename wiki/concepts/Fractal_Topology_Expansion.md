@@ -23,10 +23,15 @@ Auto-extracted concept from raw material compilation.
 [[ChipletOnWafer]]
 [[ChipletWaferInterconnectCoDesign]]
 [[ChipletWaferInterconnectScaling]]
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[CommunicationAsComputation]]
 [[Communication_Primitive]]
+[[CrossbarArrayVLSI]]
+[[Interconnect_Topology]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
@@ -36,3 +41,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- Fractal_Topology_Expansion (merged 2026-09-05)

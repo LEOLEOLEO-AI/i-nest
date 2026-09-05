@@ -56,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikingTopologyEvolution]]
 [[Spiking_Neural_Network]]
 [[StochasticBinaryDynamics]]
+[[SynapticFatigueModel]]
 [[Synaptic_Plasticity]]
 [[TemporalErrorFeedback]]
 [[iNEST]]

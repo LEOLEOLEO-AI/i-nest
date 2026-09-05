@@ -47,7 +47,9 @@ Auto-extracted concept from raw material compilation.
 [[MicroRouter_Embedding]]
 [[Network_Topology_Design]]
 [[TCC]]
+[[WaferScaleTopologyCentricComputing]]
 [[Wafer_Scale_Integration]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

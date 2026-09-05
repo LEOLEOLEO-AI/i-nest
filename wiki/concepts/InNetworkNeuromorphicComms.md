@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Network_Neuromorphic]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[MachineLearningNanomaterialDiscovery]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[NeuralNetworkSpectralAnalysis]]

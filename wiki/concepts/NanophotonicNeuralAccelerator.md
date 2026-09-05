@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[Attention_Residuals]]
 [[BackpropagationFreeLearning]]
+[[CompactFieldVariable]]
 [[Complex_System_Theory]]
 [[DARPA_ProjectManager_Model]]
 [[Deep_Network_Architecture_Invariant]]

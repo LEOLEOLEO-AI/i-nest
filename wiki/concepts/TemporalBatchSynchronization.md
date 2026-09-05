@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[DataDrivenCellularAxis]]
 [[EventCameraTemporalEncoding]]
 [[EventDrivenFunctionalConnectivity]]
+[[Hebbian_Embedding_Dynamics]]
 [[Interconnect_Routing]]
 [[Memristor]]
 [[Memristor_Synapse]]

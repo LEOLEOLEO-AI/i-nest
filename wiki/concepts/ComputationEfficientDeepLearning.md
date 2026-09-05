@@ -66,6 +66,8 @@ Auto-extracted concept from raw material compilation.
 [[SystemLevelNonlinearity]]
 [[TCC]]
 [[Textbook_Paradigm_Definition]]
+[[TopologyCentricEngineeringBase]]
+[[chiplet interconnect]]
 [[iNEST]]
 
 ## Sources

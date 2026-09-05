@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Prior_Resolution]]
 [[DiscreteSTDP]]
 [[GroupSynchronization]]
+[[IntrinsicTimingSTDP]]
 [[Layered_Attractive_Hubbard_Model]]
 [[Network_Topology_Design]]
 [[NeuromorphicHardware]]

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[1024_Card_SuperNode]]
 [[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
 [[3D_Heterogeneous_Integration]]
+[[3D_Torus_6_Degree]]
 [[3d]]
 [[Advanced_Packaging]]
 [[Chiplet]]
@@ -32,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[TCC]]
+[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

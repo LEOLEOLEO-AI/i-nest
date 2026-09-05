@@ -28,11 +28,13 @@ Auto-extracted concept from raw material compilation.
 [[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[AssociativeMemoryTopology]]
+[[Chemical_Bond_Operation_Algebra]]
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
 [[SOC]]
+[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

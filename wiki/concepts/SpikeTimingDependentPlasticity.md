@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_EW_Neuromorphic_Controller]]
 [[AnisotropicGaussianPrimitives]]
 [[AnytimePointCloudRecognition]]
+[[AsynchronousEventDrivenComputation]]
 [[Neuromorphic_Computing]]
 [[STDP_Plasticity]]
 [[SpikeEncoding]]

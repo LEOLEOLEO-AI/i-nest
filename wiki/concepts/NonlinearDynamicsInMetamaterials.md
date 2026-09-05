@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[CouplingTopologyMemoryLink]]
 [[Deep_Thermalisation]]
 [[ErrorSuppressedPipeline]]
+[[Intelligent_Computing_Infrastructure]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[ReproducibleReservoirComputing]]

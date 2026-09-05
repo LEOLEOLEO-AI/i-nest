@@ -28,7 +28,12 @@ Auto-extracted concept from raw material compilation.
 [[AsynchronousNeuromorphicHardware]]
 [[Autonomous_Spiking_Dynamics]]
 [[EventDriven_Asynchronous_Operation]]
+[[NeuromorphicHardware]]
+[[Neuromorphic_Computing]]
+[[SNN]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
+[[Syncytial_Mesh_Model]]
 [[iNEST]]
 
 ## Sources

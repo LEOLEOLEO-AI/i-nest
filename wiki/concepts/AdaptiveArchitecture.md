@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicRadarFrontend]]
 [[Neuromorphic_Computing]]
 [[NonreciprocalQuasiperiodicLattice]]
+[[OODA_Loop_Breaking]]
 [[PhotonicSynapticPlasticity]]
 [[Receptron_Unit]]
 [[ReconfigurableSpikingRouting]]

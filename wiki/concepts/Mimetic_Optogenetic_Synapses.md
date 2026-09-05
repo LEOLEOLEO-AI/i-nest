@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Loihi2_OnChip_Learning]]
 [[Loihi]]
 [[MachineLearningPotential]]
+[[MeanFieldSpinGlass]]
 [[Memristive_Topology]]
 [[Metastable_State_Hierarchy]]
 [[Network_Topology_Design]]

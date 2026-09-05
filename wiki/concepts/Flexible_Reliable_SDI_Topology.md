@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[CLINKAsCarrierPrimitive]]
 [[CavityMethodAnalysis]]
 [[FPGA_Reconfigurability]]
+[[InSitu_Adjoint_Wave_Control]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]

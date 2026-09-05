@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[QuantumFluctuationDrivenTransport]]
 [[QuarantineCostTradeoff]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SDI_STDP]]
 [[SNN]]
 [[ST_SNN]]
 [[Spike_Encoding_of_fMRI]]

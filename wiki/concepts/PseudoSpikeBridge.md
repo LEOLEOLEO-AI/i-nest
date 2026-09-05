@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[DeeplySupervisedSpiking]]
 [[Delay_Aware_Autograd_Spiking_Framework]]
 [[Distributed_Spike_Communication]]
+[[DrivenCriticalityOptimalityTradeoff]]
 [[DualDrivenHybridNetwork]]
 [[EventBasedMotionDeblurring]]
 [[EventDrivenMotionDeblurring]]

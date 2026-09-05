@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Reservoir_Topology]]
 [[Fixed_Cost_Dominance]]
 [[Intelligence_Emergence]]
+[[MeasurementInducedNonlinearity]]
 [[Memristive_STDP]]
 [[Memristive_Topology]]
 [[Memristor]]

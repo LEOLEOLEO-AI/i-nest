@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[20W_Brain_Inspired_Planning]]
+[[AnomalousSpinTransport]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BioPlausiblePredictiveCoding]]
 [[DevelopmentalNeuromorphicAdaptation]]
@@ -35,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[Neuromorphic_Interconnect]]
 [[Order_Flexibility_Duality]]
 [[SNN]]
 [[ST_SNN]]
@@ -42,7 +44,6 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
-[[neuromorphic interconnect]]
 [[类脑芯片]]
 
 ## Sources

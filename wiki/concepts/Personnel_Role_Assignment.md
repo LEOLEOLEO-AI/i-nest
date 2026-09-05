@@ -27,7 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Forum_Demo_Narrative]]
 [[AdaptiveGraphDiffusion]]
 [[Adaptive_Intelligence_Principle]]
-[[Advanced_Packaging]]
+[[Adaptive_Service_Orchestration]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[AssociativeMemoryTopology]]
 [[Attention_Residuals]]
@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[SOC]]
 [[SpatialAutocorrelationMetric]]
 [[TopologicalDataCompression]]
+[[advanced packaging]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

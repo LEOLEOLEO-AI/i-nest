@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[BackpropagationFreeLearning]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration]]
 [[DARPA_ProjectManager_Model]]
 [[DynamicProgrammingRecycling]]
 [[EdgeIoTEnergyAwareness]]
@@ -48,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkSignalRecovery]]
 [[LowCostTrainingPipeline]]
 [[Memristive_Topology]]
+[[Memristor_Reservoir_Branch_Prediction]]
 [[Network_Motif_Spectral_Analysis]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
@@ -56,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[Topological_Semantic_Flow]]
+[[advanced packaging]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

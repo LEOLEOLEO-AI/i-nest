@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[CriticalityDrivenStateTransition]]
 [[Criticality]]
+[[Criticality_Based_Feature_Extraction]]
 [[CrossLayer_SignalRouting]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]

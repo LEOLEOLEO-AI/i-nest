@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[EvolutionaryReservoirLearning]]
 [[GraphEmbeddedReservoir]]
 [[HierarchicalModularReservoirs]]
+[[In_Context_Learning]]
 [[Intelligence_Emergence]]
 [[NonEquilibriumComputing]]
 [[RecursiveSelfReferentialArchitecture]]

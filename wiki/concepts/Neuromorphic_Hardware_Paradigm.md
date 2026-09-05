@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BigBrainCellularAxis]]
+[[BrainBodyResonance]]
 [[ClosedLoopNeuromorphicControl]]
 [[Complex_System_Theory]]
 [[ContinualLearningOnNeuromorphic]]

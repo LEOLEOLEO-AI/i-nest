@@ -28,7 +28,11 @@ Auto-extracted concept from raw material compilation.
 [[Adjoint_Gradient_Propagation]]
 [[AllOpticalHebbianLearning]]
 [[AllParallel_SpikeBased_Computing]]
+[[Arm_Locomotor_Synergy]]
 [[Neuromorphic_Computing]]
+[[PPT]]
+[[SNN]]
+[[Spiking_Neural_Network]]
 [[iNEST]]
 
 ## Sources

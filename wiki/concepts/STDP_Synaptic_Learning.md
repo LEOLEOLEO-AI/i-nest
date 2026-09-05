@@ -25,6 +25,8 @@ Auto-extracted concept from raw material compilation.
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
+[[Quadratic_Integrate_and_Fire_Neuron]]
+[[SDI_Bond]]
 [[SDI_STDP]]
 [[STDP_Plasticity]]
 [[Spiking_Neural_Network]]

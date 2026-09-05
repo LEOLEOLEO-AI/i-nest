@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[GradientFreeTraining]]
 [[Heterogeneous_Synaptic_Motifs]]
 [[Hyper_Dimensional_Computing]]
+[[IntegratedSensingFusion]]
 [[Intelligence_Emergence]]
 [[MeanFieldSpinGlass]]
 [[Microbiome_Immune_Endocrine_Interplay]]

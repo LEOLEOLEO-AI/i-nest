@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[FC2_Goal_Representation]]
 [[FowlerNordheimAnnealer]]
 [[Fractal_Entanglement_Scaling]]
+[[FunctionalInterfaceBlocks]]
 [[GraphNeuralNetworkTemporalFeatureExtraction]]
 [[Heterogeneous_Integration]]
 [[InNetworkAgentRewiring]]

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Architecture]]
 [[InputAdaptiveComputation]]
 [[Memory_Wall]]
+[[NeuromorphicStatusAwareness]]
 [[Neuromorphic_Computing]]
 [[ResonateAndFireEncoding]]
 [[iNEST]]

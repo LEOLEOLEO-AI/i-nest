@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[SelfOrganization]]
 [[Self_Organized_Criticality]]
 [[SensationModulatingNetwork]]
+[[SpikeBackpropagation]]
 [[SpikeBasedGradientDescent]]
 [[Spiking_Neural_Network]]
 [[WirelessSplitComputing]]

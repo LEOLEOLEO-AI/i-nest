@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[EvolutionaryLearningYield]]
 [[EvolutionaryReservoirLearning]]
 [[Evolutionary_Overfitting_Avoidance]]
+[[GraphEmbeddedReservoir]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

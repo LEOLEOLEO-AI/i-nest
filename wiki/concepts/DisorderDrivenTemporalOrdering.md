@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[DelayRobustEmergence]]
 [[DelayTolerantNetworkUAV]]
 [[DisorderedNetworkInterconnect]]
+[[EnergyEfficiencyAI]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

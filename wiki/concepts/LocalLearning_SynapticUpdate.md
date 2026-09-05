@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality_Based_Feature_Extraction]]
 [[EnergyEfficientRestoration]]
 [[EventDrivenInference]]
+[[EventDriven_Edge_Perception]]
 [[Event_Driven_Architecture]]
 [[FunctionalEnsemble]]
 [[In_Package_Neuromorphic_Integration]]

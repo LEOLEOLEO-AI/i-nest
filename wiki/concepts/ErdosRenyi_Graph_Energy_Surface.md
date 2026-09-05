@@ -32,7 +32,6 @@ Auto-extracted concept from raw material compilation.
 [[CST计量仪]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
@@ -58,7 +57,9 @@ Auto-extracted concept from raw material compilation.
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
 [[ThermallyDrivenSuperparamagneticReservoir]]
+[[chiplet interconnect]]
 [[iNEST]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

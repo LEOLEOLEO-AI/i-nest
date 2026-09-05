@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Heterogeneous_Magnetic_Metamaterials]]
 [[InNetworkSignalRecovery]]
+[[In_Network_Neuromorphic_Integration]]
 [[Interconnect_Topology]]
 [[Memristor]]
 [[Memristor_Interconnect]]
@@ -50,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[ReproducibleReservoirComputing]]
 [[Reservoir_Computing]]
 [[TCC]]
+[[chiplet interconnect]]
 [[iNEST]]
 
 ## Sources

@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[EcosystemTopologyCoupling]]
 [[ErrorSuppressedPipeline]]
 [[FitnessGuidedTopologySearch]]
+[[HybridReservoirComputing]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]

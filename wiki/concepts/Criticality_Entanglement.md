@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicalSelfDualCriticality]]
 [[Emergent_Reservoir_Topology]]
 [[EnergyProportionalityCeiling]]
+[[FerroelectricSemiconductorReservoir]]
 [[Fourier_Spectrum_Regulation]]
 [[GroupInteractionThreshold]]
 [[Intelligence_Emergence]]

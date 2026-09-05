@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Integration]]
 [[Nonlinear_Gain]]
+[[Order_Flexibility_Duality]]
 [[RenormalizationGroup_ScalingLaws]]
 [[RenormalizationGroup_Scaling]]
 [[Renormalization_Group]]

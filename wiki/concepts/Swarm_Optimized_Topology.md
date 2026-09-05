@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Contested_Prior_Resolution]]
 [[Crystallized_Embedding_Reservoir]]
+[[Dendritic_Compartmentalization]]
 [[Dynamic_Expert_Fusion]]
 [[Dynamical_State_Space]]
 [[EmergentTaskDecomposition]]

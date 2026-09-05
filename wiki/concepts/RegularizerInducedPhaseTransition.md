@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Architecture]]
 [[Continual_Learning_Modularity]]
 [[Critical_Region_Extension]]
+[[CriticalityInNetworkComputing]]
 [[CriticalityInducedComputationalCapacity]]
 [[Criticality]]
 [[DTGA]]

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[In_Memory_Computing]]
 [[Interconnect_Topology]]
+[[InverseDesignOptimization]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Memristor_Topology]]
@@ -49,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

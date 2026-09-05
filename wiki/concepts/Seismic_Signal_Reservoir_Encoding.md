@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Master_SDDE]]
 [[Memristive_Topology]]
+[[MutualReinforcementDynamics]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NonEquilibriumComputing]]

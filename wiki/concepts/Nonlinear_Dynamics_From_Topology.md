@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_FullSpectrum_Strategy]]
 [[ANN动力学]]
 [[ActiveMatterComputing]]
+[[Analog_InMemory_Processing]]
 [[AsymmetricStochasticInteractions]]
 [[AttentionMap_DifferenceResidual]]
 [[CST计量仪]]

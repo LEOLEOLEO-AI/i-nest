@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Wafer]]
 [[SDI_Bond]]
+[[SDI_iNEST_Platform]]
 [[SDI_iNEST_Wafer]]
 [[SDSoW]]
 [[SDSoW_Architecture]]

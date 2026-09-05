@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[CrystalPalace_Program]]
 [[Crystallized_Neural_Manifolds]]
 [[DataDrivenCellularAxis]]
+[[DeviceLevelNonlinearityScaling]]
 [[Dynamic_Expert_Fusion]]
 [[EmergentOrder]]
 [[Emergent_Intelligence]]

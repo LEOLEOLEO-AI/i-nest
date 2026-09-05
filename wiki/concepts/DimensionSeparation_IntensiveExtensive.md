@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Edge_AI_Acquisition_Consolidation]]
 [[EventDrivenMotionDeblurring]]
 [[ExtinctionDrivenMetastability]]
+[[Fixed_Term_Project_Structure]]
 [[GradientFreeLowRankTraining]]
 [[NeuromorphicStatusAwareness]]
 [[Neuromorphic_Computing]]

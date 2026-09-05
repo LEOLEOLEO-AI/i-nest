@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[JointFlightRoutingOptimization]]
+[[LEO_Satellite_Routing_RL]]
 [[LLMDrivenPathSelection]]
 [[MoE_Routing]]
 [[Network_Topology_Design]]

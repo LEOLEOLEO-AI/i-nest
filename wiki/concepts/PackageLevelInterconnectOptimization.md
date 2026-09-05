@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[EndToEndDesignAutomation]]
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
+[[HardwareAware_SelfOrganization]]
 [[Heterogeneous_Integration]]
 [[Hierarchical_Interconnect]]
 [[InInterconnectMemory]]
@@ -55,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologicalContagion]]
 [[TopologicalDataCompression]]
 [[Topology_Aware_NoC_Routing]]
+[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

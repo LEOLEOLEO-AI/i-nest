@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[FerroelectricCrossbarArray]]
 [[FerroelectricMemoryCell]]
 [[FerroelectricNvCap]]
+[[FerroelectricSemiconductorReservoir]]
 [[Ferroelectric_Devices]]
 [[Neuromorphic_Computing]]
 [[Synaptic_Plasticity]]

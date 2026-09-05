@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[NoC]]
 [[NoC_Chiplet_iNEST_Wafer]]
+[[Obsidian_Plugin_Architecture]]
 [[P_Paradigm]]
 [[RTC_Primitive]]
 [[RTC_Primitives]]

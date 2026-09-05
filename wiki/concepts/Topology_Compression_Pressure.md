@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Advanced_Packaging_for_Space]]
 [[AnalogInMemoryComputing]]
 [[Analog_Synaptic_Weighting]]
+[[ApproximationFidelityTradeoff]]
 [[Asymmetric_Interaction_Matrix]]
 [[Attention_Residuals]]
 [[BackpropagationFreeLearning]]
@@ -41,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_Spatiotemporal_Complexity]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration]]
 [[CoarseGrainingFlow]]
 [[Complex_System_Theory]]
 [[DARPA_ProjectManager_Model]]
@@ -50,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[TCC]]
+[[advanced packaging]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

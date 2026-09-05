@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeCodedSafetyMonitoring]]
 [[SpikeTrafficScheduling]]
 [[Spike_Encoding_of_fMRI]]
+[[SpikingRecurrentCells]]
 [[Spiking_Neural_Network]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]

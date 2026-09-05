@@ -20,6 +20,8 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3D_IC_Stacking]]
+[[3D_Vertical_Interconnect]]
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_Faculty_Forum_2026]]
 [[Advanced_Packaging]]
@@ -31,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[TCC]]
 [[TSV_Interconnect]]
+[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

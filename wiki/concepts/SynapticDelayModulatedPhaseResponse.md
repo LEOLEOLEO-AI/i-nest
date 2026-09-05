@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[DendriticTaskPartitioning]]
 [[EpidemicThreshold]]
+[[LocalQuantumLearningRule]]
 [[Memristive_STDP]]
 [[Metastable_State_Hierarchy]]
 [[Nat Commun丨国防科技大学胡德文等团队揭示用于同时编码时空动态的多突触脉冲神经元]]

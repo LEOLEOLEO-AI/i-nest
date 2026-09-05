@@ -25,6 +25,8 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
+[[Chiplet_Topology]]
+[[Chiplet_Topology_Interconnect]]
 [[DiagnosticReportFramework]]
 [[EulaminateOverrepresentation]]
 [[Free_Energy_Principle]]
@@ -41,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[RenormalizationGroup_ScalingLaws]]
 [[RenormalizationGroup_Scaling]]
 [[SDI_Bond]]
+[[SDI_TopologyWaferIntegration]]
 [[SDI_Topology]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
@@ -55,9 +58,12 @@ Auto-extracted concept from raw material compilation.
 [[TopologyCentricComputing]]
 [[TopologyCentricPrimitiveSystem]]
 [[TopologyProgramming]]
+[[Topology_Centric_Computing]]
+[[Topology_Interconnect]]
 [[WaferScaleTopologyCentricComputing]]
 [[Wafer_Chiplet_Topology_Interconnect]]
 [[Wafer_Scale_Integration]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

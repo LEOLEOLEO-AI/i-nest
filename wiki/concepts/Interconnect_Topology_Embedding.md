@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AgenticServiceOrchestration]]
 [[AgenticServiceTopology]]
 [[Agile_Resilient_Defense_Ecosystem]]
+[[Ant_Swarm_Functional_Control]]
 [[Attention_Residuals]]
 [[Baseline_Draft_Status]]
 [[Bipartite_Interconnect]]
@@ -33,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstInterleaving]]
 [[CellEmergence]]
 [[CriticalityInducedTopology]]
+[[Criticality]]
 [[Deep_Network_Architecture_Invariant]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
@@ -44,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
 [[ScalableNeuromorphicTopology]]
+[[Self_Organized_Criticality]]
 [[StochasticVehicleRouting]]
 [[TCC]]
 

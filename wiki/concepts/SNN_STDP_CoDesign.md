@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[Interconnect_Topology]]
+[[IntrinsicTimingSTDP]]
 [[Memristive_STDP]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

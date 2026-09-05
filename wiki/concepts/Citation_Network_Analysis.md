@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_InMemory_Processing]]
 [[BCM滑动阈值]]
 [[Complex_System_Theory]]
+[[Decoupled_Prior_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

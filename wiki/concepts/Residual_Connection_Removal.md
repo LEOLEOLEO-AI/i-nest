@@ -84,6 +84,8 @@ Auto-extracted concept from raw material compilation.
 [[TemporalComplexity]]
 [[TopologyFragility]]
 [[Topology_Interconnect]]
+[[UniversalIntelligence_Emergence]]
+[[chiplet interconnect]]
 [[complex system]]
 [[iNEST]]
 [[iNEST_Interconnect]]

@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Reconfigurability]]
 [[FatalityDrivenRewiring]]
 [[ImaginaryGaugePhaseImprint]]
+[[Inference_Workload_Profiling]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[NetworkDiameterTradeoff]]

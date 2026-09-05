@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[DataProvenanceIntegrity]]
 [[DeviceConductanceTuning]]
 [[Heterogeneous_Synaptic_Motifs]]
+[[HierarchicalSpatiotemporalProcessing]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[TCC]]

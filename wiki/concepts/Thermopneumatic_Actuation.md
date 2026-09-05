@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[Entanglement_Teleportation_Locality]]
+[[FastSlow_Dynamics]]
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[Intelligence_Emergence]]

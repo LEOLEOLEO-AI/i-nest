@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AdvancedPackagingInterconnect]]
 [[AndersonTransition]]
 [[ApproximationFidelityTradeoff]]
+[[CavityMethodAnalysis]]
 [[Chip_Floorplanning]]
 [[Complex_System_Theory]]
 [[Deep_Thermalisation]]

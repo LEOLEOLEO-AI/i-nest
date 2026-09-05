@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstTemporalPlasticity]]
 [[CellEmergenceMechanism]]
 [[CellEmergence]]
+[[CertifiedBifurcationDetection]]
 [[CoPackagedOptics]]
 [[Cognitive_Relapse_Architecture]]
 [[Complex_System_Theory]]

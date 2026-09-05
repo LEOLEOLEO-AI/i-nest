@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[ReservoirDynamics]]
 [[ReservoirTemporalDynamics]]
 [[Reservoir_Computing]]
+[[RestrictedConnectivityTopology]]
 [[TCC]]
 [[TCC与INEST：2026全局论文与专利战略规划清单]]
 [[TopologicalAndersonChernInsulator]]

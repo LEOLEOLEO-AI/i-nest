@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[TopologyProgramming]]
+[[Topology_Centric_Computing_Paradigm]]
 [[complex system]]
 [[reservoir computing architecture]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]

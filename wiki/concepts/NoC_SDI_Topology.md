@@ -55,8 +55,11 @@ Auto-extracted concept from raw material compilation.
 [[SparseTemporalEncoding]]
 [[SparsityAwareInterconnect]]
 [[TCC]]
+[[TSV_Interconnect]]
 [[WaferScale_Chiplet_Interconnect]]
 [[WideLink_NoC_Router]]
+[[advanced packaging]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

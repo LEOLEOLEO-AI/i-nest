@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[SpectralSpikeEncoding]]
 [[SpikeEncoding]]
+[[Spike_Event_Driven_Attention]]
 [[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]

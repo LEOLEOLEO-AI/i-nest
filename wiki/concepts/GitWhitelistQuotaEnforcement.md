@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[HigherOrderConnectivity]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[Kinematic_Waves]]
 [[Network_Topology_Design]]
 [[OpenEndedDiscovery]]
 [[QuantumChaos]]

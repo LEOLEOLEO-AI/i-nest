@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Self_Organized_Criticality]]
+[[SpikePacketCompression]]
 [[Spiking neural network]]
 [[Spiking_Neural_Network]]
 

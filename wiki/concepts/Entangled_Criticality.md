@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[DiffusionInducedInstability]]
 [[Dimensionality_Modularity_Tradeoff]]
 [[DynamicCentralitySteering]]
+[[EmergentRecurrentConnectivity]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

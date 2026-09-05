@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[Neuromorphic_Planning_Architecture]]
 [[SDI_Bond]]
+[[SDI_SNN_Interconnect]]
 [[SDI_iNEST_Interconnect]]
 [[SNN]]
 [[Spiking neural network]]

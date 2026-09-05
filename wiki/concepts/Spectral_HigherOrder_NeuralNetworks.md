@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralQuadraticForms]]
 [[Neuromorphic_Computing]]
 [[OpenLearningEcosystem]]
+[[Phase_Synchronization_Collective_Dynamics]]
 [[RecursiveSelfReferentialArchitecture]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]

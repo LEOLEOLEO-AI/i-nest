@@ -56,8 +56,10 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TemperatureSensitivityControl]]
 [[TemporalComplexity]]
+[[TopologyCentricPrimitiveSystem]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

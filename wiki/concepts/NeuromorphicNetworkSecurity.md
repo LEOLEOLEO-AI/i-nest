@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[EnergyEfficientRestoration]]
 [[EventBasedBioSignalFrontEnd]]
 [[Event_Driven_Architecture]]
+[[FunctionalEnsemble]]
 [[In_Network_Neuromorphic]]
 [[In_Package_Neuromorphic_Integration]]
 [[LocalLearning_SynapticUpdate]]

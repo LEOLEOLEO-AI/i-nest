@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Decoupled_Priors]]
 [[DynamicServiceComposition]]
 [[EulaminateOverrepresentation]]
+[[GeneralIntelligenceSubstrate]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Interconnect_Topology]]
@@ -52,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[SoftwareDefinedSystemOnWafer]]
 [[TCC]]
 [[TopologyCentricComputing]]
+[[Topology_Centric_Computing]]
 [[Topology_Interconnect]]
 [[WaferScaleTopologyCentricComputing]]
 [[WaferScale_Chiplet_Interconnect]]
@@ -59,6 +61,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Topology]]
 [[Wafer_Scale_Topology_Control]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

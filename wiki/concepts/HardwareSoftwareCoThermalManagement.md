@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[EnergyEfficiencyAI]]
 [[EventTriggeredDistributedControl]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
+[[FinitePool_RareRegime_Discovery]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[NeuromorphicTransformerPipeline]]

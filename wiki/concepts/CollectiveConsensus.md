@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuralCellularAutomata]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_NetworkCoDesign]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]
 [[SDSoW]]

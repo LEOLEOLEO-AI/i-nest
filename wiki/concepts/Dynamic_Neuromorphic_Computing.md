@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Complex_System_Theory]]
 [[ContinualLearningOnNeuromorphic]]
 [[EventDrivenAutoregression]]
 [[EventDrivenDefenseMechanism]]
@@ -28,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[MagnitudePhaseComputationalModel]]
 [[NeuromorphicStatusAwareness]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Hardware_Paradigm]]
 [[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]

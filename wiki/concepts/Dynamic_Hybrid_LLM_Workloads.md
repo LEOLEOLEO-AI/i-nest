@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[FrequencyAdaptationMechanism]]
 [[GradientAsymmetry]]
 [[Heterogeneous_Integration]]
+[[LearningTransition]]
 [[NeuralVariabilityEnhancement]]
 [[PowerLawScaling]]
 [[SNN]]
@@ -50,10 +51,12 @@ Auto-extracted concept from raw material compilation.
 [[SpikingNeuralAccelerator]]
 [[Spiking_Neural_Network]]
 [[SuddenLearningTransition]]
+[[SuddenLearning]]
 [[SurrogateGradientAsymmetry]]
 [[SynapticReinforcementConsolidation]]
 [[Syncytial_Mesh]]
 [[Syncytial_Mesh_Model]]
+[[TemporalErrorFeedback]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

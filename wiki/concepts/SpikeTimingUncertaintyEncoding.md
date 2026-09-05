@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenAsynchronousRouting]]
 [[EventDrivenLearning]]
 [[EventDrivenRestoration]]
+[[EventDrivenSignalEncoding]]
 [[FrustratedDimerMagnet]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

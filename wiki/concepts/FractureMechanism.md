@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[3d]]
 [[4H_SiC_SubstrateProcessing]]
 [[AI_Application_Scenario_Reconstruction]]
+[[AI_Driven_Power_Density_Scaling]]
 [[AI_Faculty_Forum_2026]]
 [[AI_FullSpectrum_Strategy]]
 [[AcceleratedMaterialScreening]]
@@ -40,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Asymmetric_Interaction_Matrix]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration]]
 [[Chiplet_Stacking]]
 [[DARPA_ProjectManager_Model]]
 [[DynamicProgrammingRecycling]]
@@ -60,6 +62,7 @@ Auto-extracted concept from raw material compilation.
 [[TemporalFeatureProjection]]
 [[TopologicalAndersonChernInsulator]]
 [[Topological_Semantic_Flow]]
+[[advanced packaging]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

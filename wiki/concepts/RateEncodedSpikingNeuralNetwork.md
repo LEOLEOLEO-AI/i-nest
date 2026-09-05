@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveSpeechToSpikeEncoding]]
 [[Adaptive_EW_Neuromorphic_Controller]]
 [[AnisotropicGaussianPrimitives]]
+[[Avoided_Criticality]]
 [[Bidirectional_Temporal_Enhancement]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]

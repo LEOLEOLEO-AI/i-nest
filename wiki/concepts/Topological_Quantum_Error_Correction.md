@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[BioInspiredLearningRule]]
 [[BurstTemporalPlasticity]]
+[[CavityMethodAnalysis]]
 [[Complex_System_Theory]]
 [[CriticalWeightNormBoundary]]
 [[EventDrivenSynchronization]]

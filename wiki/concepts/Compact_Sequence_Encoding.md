@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenPlasticity]]
 [[EventDrivenTemplateUpdate]]
 [[EventStrengthEncoding]]
+[[Fixed_Cost_Dominance]]
 [[In_Memory_Computing]]
 [[In_Package_Neuromorphic_Integration]]
 [[MemoryDrivenInterconnect]]
@@ -46,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[QuantumStateSynapticTrace]]
 [[Synaptic_Plasticity]]
+[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

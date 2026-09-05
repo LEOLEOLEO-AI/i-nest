@@ -63,8 +63,11 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_Interconnect]]
 [[SDI_NoC_Integration]]
+[[SparseTemporalEncoding]]
 [[TCC]]
 [[WideLink_NoC_Router]]
+[[advanced packaging]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

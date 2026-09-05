@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Contested_Prior_Resolution]]
 [[Defense_Industrial_Base_Reshaping]]
+[[Independent_EdgeAI_Player_Endgame]]
 [[Intelligence_Emergence]]
 [[Nonlinear_Gain]]
 [[TCC]]

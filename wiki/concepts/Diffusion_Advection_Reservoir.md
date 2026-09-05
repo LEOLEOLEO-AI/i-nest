@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Assisted_Energy_Management]]
 [[AcademicDevelopmentCoCreation]]
 [[AlternativeBridgingModels]]
+[[Biomanufacturing_Control_Loop]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]

@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[MatrixShapePhaseTransition]]
 [[NetworkArchitectureSearch]]
 [[Network_Topology_Design]]
+[[NeuromorphicRadarFrontend]]
 [[PhotonicSynapticPlasticity]]
 [[Receptron_Unit]]
 [[ReconfigurableSpikingRouting]]

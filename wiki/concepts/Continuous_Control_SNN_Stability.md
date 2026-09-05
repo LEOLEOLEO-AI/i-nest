@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[BiSpikCLM]]
 [[BulletTrainScheduling]]
 [[ConstructedRealityState]]
+[[CriticalityBasedClassification]]
 [[CriticalityDrivenIntegration]]
 [[Criticality]]
 [[CrossEntityPreemptiveWarning]]

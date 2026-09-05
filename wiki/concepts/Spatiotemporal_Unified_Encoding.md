@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveSpeechToSpikeEncoding]]
 [[AnisotropicGaussianPrimitives]]
 [[Contested_Priors_Mechanism]]
+[[ElasticInferenceScheduling]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[STDP_Plasticity]]

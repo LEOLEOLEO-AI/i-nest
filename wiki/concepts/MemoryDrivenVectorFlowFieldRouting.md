@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[GraphBasedSemanticRouting]]
 [[Interconnect_Routing]]
 [[MatrixShapePhaseTransition]]
+[[MemoryDrivenInterconnect]]
 [[MemoryDrivenRouting]]
 [[Memristive_Interconnect]]
 [[Memristor]]

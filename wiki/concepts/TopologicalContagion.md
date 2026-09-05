@@ -54,10 +54,12 @@ Auto-extracted concept from raw material compilation.
 [[OpenLearningEcosystem]]
 [[Package_Level_Interconnect]]
 [[PacketRoutingForFPGAs]]
+[[SDSoW_Interface_Standard]]
 [[STDP_Plasticity]]
 [[SelfOrganization]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[advanced packaging]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

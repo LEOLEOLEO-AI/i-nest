@@ -24,8 +24,8 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration]]
 [[Chiplet_Integration_Route]]
-[[Chiplet_Interconnect]]
 [[ConsciousnessEngineeringLoop]]
 [[Environmental_Capability_Context]]
 [[FatalityDrivenRewiring]]
@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SDI_STDP_Rule]]
+[[SDSoW]]
 [[STDP_Plasticity]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
@@ -57,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

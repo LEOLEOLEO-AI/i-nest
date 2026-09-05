@@ -39,6 +39,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[AlgorithmicPhaseTransition]]
 [[Analog_InMemory_Processing]]
 [[ArchitecturalGrounding]]
+[[Architectural_Conditioning]]
 [[Bipartite_Topology]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Chiplet]]

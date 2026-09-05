@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AIRA_NeuralArchSearch]]
 [[AI_Application_Scenario_Reconstruction]]
 [[AdaptiveGraphDiffusion]]
+[[Adaptive_Intelligence_Principle]]
 [[AdiabaticMultimodeBend]]
 [[Advanced_Packaging]]
 [[Advanced_Packaging_Route]]
@@ -51,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[MemoryDrivenRouting]]
 [[Network_Topology_Design]]
 [[TCC]]
+[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

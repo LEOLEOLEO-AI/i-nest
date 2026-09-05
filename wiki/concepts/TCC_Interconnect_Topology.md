@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Interconnect_Topology]]
 [[Medical_Large_Language_Models]]
+[[Memristor_Interconnect]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Spatiotemporal_Synergy]]
@@ -55,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[Textbook_Paradigm_Definition]]
 [[TopologyCentricPrimitiveSystem]]
 [[Wafer_Scale_Integration]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

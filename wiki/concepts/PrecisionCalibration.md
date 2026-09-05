@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Synaptic_Weighting]]
 [[Attention_Residuals]]
 [[BackpropagationFreeLearning]]
+[[CST计量仪]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet]]
 [[Chiplet_Based_Trusted_Hardware]]
@@ -67,6 +68,8 @@ Auto-extracted concept from raw material compilation.
 [[TemporalComplexity]]
 [[TopologyAware_Embedding]]
 [[WaveguideToWaveguideCoupler]]
+[[advanced packaging]]
+[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

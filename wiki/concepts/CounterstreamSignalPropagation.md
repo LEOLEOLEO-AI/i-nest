@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[SelfOrganization]]
 [[Self_Organized_Criticality]]
 [[SensationModulatingNetwork]]
+[[SpikeBackpropagation]]
 [[Spiking_Neural_Network]]
 [[Stigmergic_RL]]
 [[TCC]]

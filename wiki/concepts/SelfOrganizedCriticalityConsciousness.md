@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Epithelial_Barrier_Integrity]]
 [[Fading_Memory_Property]]
 [[Heterogeneous_Integration]]
+[[IntegratedSensingFusion]]
 [[Intelligence_Emergence]]
 [[JunctionCenteredFramework]]
 [[MachineLearningPotential]]

@@ -42,6 +42,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[BeamDomainMLFingerprinting]]
 [[CST_Synergy_Coordination]]
 [[CST_Triad_Framework]]
+[[CST_Triad_Integration]]
 [[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]

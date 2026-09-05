@@ -25,6 +25,8 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[FPGA_Accelerated_SNN]]
 [[FPGA_Neuromorphic_Acceleration]]
+[[FormalToolchain]]
+[[Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Spiking neural network]]

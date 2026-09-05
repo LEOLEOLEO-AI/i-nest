@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[DelayTolerantNetworkUAV]]
 [[Distributed_Intelligent_Manufacturing]]
 [[FPGA_Reconfigurability]]
+[[InSitu_Adjoint_Wave_Control]]
 [[Intelligent_Power_Management]]
 [[Interconnect_Routing]]
 [[LLM_Reward_Design]]

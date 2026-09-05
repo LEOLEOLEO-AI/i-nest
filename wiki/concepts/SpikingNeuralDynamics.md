@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Learning]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
+[[SearchGatingPolicy]]
 [[SpikeCodedFeatureAssociation]]
 [[SpikeEncoding]]
 [[SpikeFusionLayer]]

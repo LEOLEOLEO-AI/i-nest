@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Critical_Region_Extension]]
 [[DelayTolerantNetworkUAV]]
 [[DynamicSynchronyMetric]]
+[[ElectricFieldModulatedCoupling]]
 [[EndToEndTopologicalLearning]]
 [[EpidemicTopologyCoevolution]]
 [[Intelligence_Emergence]]

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AnisotropicGaussianPrimitives]]
 [[AnomalousSpinTransport]]
 [[AstrocyteInspiredRepair]]
+[[BigBrainCellularAxis]]
 [[Complex_System_Theory]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Application_Scenario_Reconstruction]]
 [[AcceleratedMaterialScreening]]
+[[ActionPrototypeClustering]]
 [[ActiveInference]]
 [[Allreduce_Latency_Probe]]
 [[Alpha_Computation_Consistency]]

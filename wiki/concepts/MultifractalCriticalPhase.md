@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Monitored_Quantum_Circuits]]
+[[NetworkArchitectureSearch]]
 [[Network_Topology_Design]]
 [[NeuromorphicRadarFrontend]]
 [[Neuromorphic_Acceleration]]

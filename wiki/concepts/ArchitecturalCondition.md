@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[FormalLinguisticCompetence]]
 [[GradientBasedTopologyOptimization]]
 [[GutBrainAxis_Reprogramming]]
+[[HierarchicalBayesianCommunityDetection]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]

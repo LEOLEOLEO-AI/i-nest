@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AstrocyteInspiredRepair]]
+[[Attention_Mechanism_in_SNN]]
 [[Avoided_Criticality]]
 [[BigBrainCellularAxis]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
@@ -31,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[Spiking neural network]]
 [[Spiking_Neural_Network]]
+[[Syncytial_Mesh]]
 [[Syncytial_Mesh_Model]]
 [[iNEST]]
 

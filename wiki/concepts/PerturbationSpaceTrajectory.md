@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Temporal_Dynamics]]
 [[Spiking_Neural_Network]]
 [[SuperparamagneticSwitchingRate]]
+[[SupervisedHardwareRepair]]
 [[UnifiedHypergraphStateSpace]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]

@@ -22,14 +22,19 @@ Auto-extracted concept from raw material compilation.
 
 [[3D_Integrated_Chiplet_Stacking]]
 [[3D_Integration]]
+[[3d]]
 [[4H_SiC_SubstrateProcessing]]
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_Assisted_Energy_Optimization]]
+[[AdvancedPackagingInterconnect]]
 [[Advanced_Packaging]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Stacking]]
+[[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[TCC]]
+[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

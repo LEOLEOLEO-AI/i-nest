@@ -22,13 +22,18 @@ Auto-extracted concept from raw material compilation.
 
 [[20W_Brain_Inspired_Planning]]
 [[3D_Stacked_Memory_Logic]]
+[[3d]]
 [[AI_Assisted_Energy_Management]]
 [[AI_Assisted_Energy_Optimization]]
 [[Accessibility_Plasticity]]
 [[AcousticAnomalyDetection]]
 [[ActiveDendriteSNN]]
 [[Active_Inference_Agent]]
+[[Asymmetric_Electrode_Structure]]
 [[Neuromorphic_Computing]]
+[[SNN]]
+[[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 
 ## Sources

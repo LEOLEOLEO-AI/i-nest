@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[OpenSource_Neuromorphic_Framework]]
+[[PersonalizedSNNTransfer]]
 [[SNN]]
 [[Spiking neural network]]
 [[Spiking_Neural_Network]]

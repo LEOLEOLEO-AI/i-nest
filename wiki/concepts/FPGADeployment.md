@@ -29,11 +29,13 @@ Auto-extracted concept from raw material compilation.
 [[ConductingPolymerDendriteMemory]]
 [[EdgeInspectionInference]]
 [[Event_Driven_Architecture]]
+[[Heterogeneous_Integration]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

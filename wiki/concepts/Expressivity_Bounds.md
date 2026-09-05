@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Activation]]
 [[Event_Driven_Architecture]]
 [[Event_Driven_Computation]]
+[[FlexibleNeuromorphicAccelerator]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[NeuralNetworkSpectralAnalysis]]

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[BigBrainCellularAxis]]
 [[CoPackagedOptics]]
 [[Complex_System_Theory]]
 [[Cross_Node_Event_Propagation]]

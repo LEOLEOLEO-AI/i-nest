@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossLayer_SignalRouting]]
 [[ErrorAmplificationLimits]]
 [[EventCameraTemporalEncoding]]
+[[HigherOrderAvalanche]]
 [[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Scheduling]]
 [[Intelligence_Emergence]]

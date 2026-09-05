@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[OddConservedDynamics]]
 [[Orientation_Encoding_Latent_Spaces]]
 [[Path_State_Awareness]]
+[[PhaseAwareBisectionDemand]]
 [[Self_Organized_Criticality]]
 [[Synaptic_Plasticity]]
 [[TCC]]

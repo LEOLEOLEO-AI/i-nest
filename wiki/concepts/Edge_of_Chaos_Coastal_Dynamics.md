@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Critical_Exponent_Scaling]]
 [[Criticality]]
 [[Criticality_of_Natural_Languages]]
+[[CrossDomainAwareness]]
 [[DendriticReservoirState]]
 [[DifferentiableLifting]]
 [[Dynamic_Expert_Fusion]]

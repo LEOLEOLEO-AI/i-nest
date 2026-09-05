@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Forum_Demo_Narrative]]
 [[Accessibility_Plasticity]]
 [[AdaptiveFunctionalTopology]]
+[[AdaptiveGraphDiffusion]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[ArtificialProprioception]]
 [[Attention_Residuals]]

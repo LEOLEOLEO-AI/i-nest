@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstInterleaving]]
 [[Complex_System_Theory]]
 [[Efficient_Coding_Constraint]]
+[[End_Side_Neuromorphic_Deployment]]
 [[EventBasedAnalogFrontEnd]]
 [[EventDrivenAttentionMechanism]]
 [[EventDrivenTracking]]

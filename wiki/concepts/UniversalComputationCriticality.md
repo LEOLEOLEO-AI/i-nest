@@ -43,10 +43,12 @@ Auto-extracted concept from raw material compilation.
 [[BackpropagationFreeLearning]]
 [[Beyond_Moore_Pathway]]
 [[Bias_Origin_Taxonomy]]
+[[BoundaryContract]]
 [[BoundaryObject_Abstraction]]
 [[CST_MasterEquation]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration]]
 [[Complex_System_Theory]]
 [[Criticality]]
 [[Dynamic_Expert_Fusion]]
@@ -59,6 +61,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[UniversalComputation]]
+[[advanced packaging]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

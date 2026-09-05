@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveFunctionalTopology]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[BigBrainCellularAxis]]
 [[ComplexValuedSNN]]
 [[Complex_System_Theory]]
 [[DTGA]]

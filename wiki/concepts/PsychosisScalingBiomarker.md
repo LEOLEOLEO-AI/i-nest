@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Dimensionality_Modularity_Tradeoff]]
 [[Disorder_Driven_Quantum_Phase_Transition]]
 [[DynamicCentralitySteering]]
+[[DynamicalCriticality]]
 [[InNetworkComputing]]
 [[Neuromorphic_Computing]]
 [[Self_Organized_Criticality]]

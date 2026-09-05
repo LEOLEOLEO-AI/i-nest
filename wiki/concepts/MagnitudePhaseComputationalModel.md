@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[GradientBasedLearningLocalization]]
 [[In_Network_Neuromorphic]]
 [[Intelligence_Emergence]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicEdgeProcessing]]
 [[Neuromorphic_Computing]]

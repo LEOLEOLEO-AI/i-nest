@@ -45,6 +45,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
+[[getnote_2025-09-18_Sandia国家实验室]]
 [[getnote_2026-01-03_16 介观峰值定理对晶上大脑的工程指导]]
 [[getnote_2026-01-12_晶圆级神经网络能效革命]]
 [[getnote_2026-01-25_清华团队类脑计算突破]]

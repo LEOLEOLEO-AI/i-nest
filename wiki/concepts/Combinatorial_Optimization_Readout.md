@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Connectome]]
 [[Connectome_Reservoir]]
 [[Crystallized_Neural_Manifolds]]
+[[DataProvenanceIntegrity]]
 [[Dynamic_Expert_Fusion]]
 [[EfficientDeepLearning]]
 [[Emergent_Intelligence]]

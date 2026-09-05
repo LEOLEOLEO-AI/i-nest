@@ -49,6 +49,8 @@ Auto-extracted concept from raw material compilation.
 [[NCL神经计算定律详解]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
+[[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[NoC]]
 [[SDI_Bond]]
 [[SDI_NPU_NoC_Integration]]
@@ -62,11 +64,13 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
+[[Wafer_Scale_Neuromorphic]]
 [[Wafer_Scale_Neuromorphic_Integration]]
 [[complex system]]
 [[iNEST]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

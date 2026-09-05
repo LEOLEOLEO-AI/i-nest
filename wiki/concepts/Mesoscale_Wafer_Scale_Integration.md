@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[4H_SiC_SubstrateProcessing]]
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_Faculty_Forum_2026]]
+[[AnalogInMemoryComputing]]
 [[Attention_Residuals]]
 [[Defense_Industrial_Base_Reshaping]]
 [[Network_Topology_Design]]

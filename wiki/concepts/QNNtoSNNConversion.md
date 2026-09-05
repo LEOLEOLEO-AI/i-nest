@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Adjoint_Gradient_Propagation]]
 [[AdversarialSpikePerturbation]]
 [[CrossLayer_SignalRouting]]
+[[DualModeSNNConventionalInference]]
 [[EarlyVisualCortexAliasing]]
 [[EventDrivenModularArchitecture]]
 [[EvolutionaryDiversityPreservation]]

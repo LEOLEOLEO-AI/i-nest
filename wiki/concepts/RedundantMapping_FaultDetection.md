@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[CommunicationAsComputation]]
+[[CrossbarArrayVLSI]]
 [[DistributedTrainingPipeline]]
 [[EdgeIntelligenceAcceleration]]
 [[Express_Link_Virtualization]]
@@ -51,6 +52,8 @@ Auto-extracted concept from raw material compilation.
 [[NoC_TopologyMapping]]
 [[NoC_Topology]]
 [[PhysicalWaferTriplet]]
+[[SDSoW]]
+[[SDSoW_Architecture]]
 [[SDSoW_Reconfigurable_Network]]
 [[TCC]]
 [[WaferScaleChipletIntegration]]
@@ -58,6 +61,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

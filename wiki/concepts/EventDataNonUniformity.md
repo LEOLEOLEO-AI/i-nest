@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[GraphAnomalySpikeEncoding]]
 [[Heterogeneous_Integration]]
 [[In_Package_Neuromorphic_Integration]]
+[[LatencyGradientDescent]]
 [[NeuromorphicGestureEncoding]]
 [[NeuromorphicHarmonyEncoding]]
 [[Neuromorphic_Chiplet]]

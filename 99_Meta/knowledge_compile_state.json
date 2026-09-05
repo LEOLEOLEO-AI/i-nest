@@ -1,23 +1,6 @@
 {
   "schema": "knowledge-compiler-review-v1",
-  "generated": "2026-09-01T18:30:04",
+  "generated": "2026-09-04T20:33:23",
   "status": "pending_user_review",
-  "items": [
-    {
-      "title": "Memristive-Friendly Hadamard Reservoir Computing: Structured, Multiplier-Free Recurrences at Scale",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2608.28295v1",
-      "track": "iNEST",
-      "relevance": 2,
-      "file": "00_Inbox/_pipeline_insights/2026-09-01_arXiv_Memristive-Friendly Hadamard Reservoir Computing Structured,.md",
-      "tcc_insight": "无直接关联或待确认。",
-      "inest_insight": "Keyword: neuromorphic, reservoir computing",
-      "candidate_actions": [],
-      "knowledge_state": "processed",
-      "evidence_status": "[引用] 待人工核验",
-      "provenance": "external",
-      "user_decision": "pending",
-      "analysis_mode": "metadata-only"
-    }
-  ]
+  "items": []
 }

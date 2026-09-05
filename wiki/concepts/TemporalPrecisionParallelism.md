@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[SelfOrganizedRobustness]]
 [[Self_Organized_Criticality]]
+[[SpectralSupportAnalysis]]
 [[SpikeTimingFidelity]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking neural network]]

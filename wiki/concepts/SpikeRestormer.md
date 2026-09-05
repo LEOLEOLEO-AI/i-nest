@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[DelayAwareSpikeEventDelivery]]
 [[DifferentiableSpikeTimeDiscretization]]
+[[DirectSNNTraining]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
 [[SNN]]

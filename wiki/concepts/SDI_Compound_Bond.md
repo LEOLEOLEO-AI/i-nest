@@ -24,11 +24,15 @@ Auto-extracted concept from raw material compilation.
 [[AI_Application_Scenario_Reconstruction]]
 [[AdvancedPackagingInterconnect]]
 [[CST_SynergisticCoordination]]
+[[Complex_System_Theory]]
 [[DirectConnect_Topology]]
+[[Evolutionary_Structure_Computability]]
 [[Network_Topology_Design]]
+[[Neuromorphic_Computing]]
 [[SDI_Bond]]
 [[SDI_Topology]]
 [[TCC]]
+[[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
 
 ## Sources

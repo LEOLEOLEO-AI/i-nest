@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[PostHocInterpretabilityContrast]]
 [[Self_Organized_Criticality]]
 [[TCC]]
+[[TaskGradientPropagation]]
 [[analog computation]]
 [[iNEST]]
 

@@ -57,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[PhotonicStateRetention]]
 [[TCC]]
+[[TopologicalComplexityCeiling]]
 [[TopologyConditionedLearning]]
 [[Topology_Centric_Packaging]]
 [[UltraCompactOpticalComputing]]

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Biomanufacturing_Control_Loop]]
 [[BranchingRatio]]
 [[BurstTemporalPlasticity]]
+[[CertifiedBifurcationDetection]]
 [[CirculateFiringNeuron]]
 [[Cognitive_Relapse_Architecture]]
 [[ComplexEcosystemDynamics]]

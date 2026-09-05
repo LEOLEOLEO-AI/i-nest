@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Reconfigurability]]
 [[FatalityDrivenRewiring]]
 [[HybridConvexOptimization]]
+[[InSituReconfiguration]]
 [[InSitu_Adjoint_Wave_Control]]
 [[Inference_Workload_Profiling]]
 [[Intelligence_Emergence]]

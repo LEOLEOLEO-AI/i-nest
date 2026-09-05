@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[DoobBarrierConditioning]]
 [[EngineeringConstraint_Complement]]
 [[FibonacciMonitoredDynamics]]
+[[FractionalStatisticsPreservation]]
 [[Intelligence_Emergence]]
 [[IntervalAnalysis]]
 [[Network_Topology_Design]]

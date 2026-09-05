@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[PhysicalReservoir]]
 [[PolarizationModulatedPhotoresponse]]
+[[Random_Parameter_Substitution]]
 [[Reservoir_Computing]]
 [[Self_Organized_Criticality]]
 [[SuperparamagneticSwitchingRate]]

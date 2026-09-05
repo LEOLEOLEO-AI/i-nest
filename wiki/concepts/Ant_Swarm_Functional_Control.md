@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[CriticalityInNetworkComputing]]
 [[CriticalityInducedTopology]]
+[[CriticalityOffCriticalityTransition]]
 [[Criticality]]
 [[DisorderedNetworkInterconnect]]
 [[Dynamic_Expert_Fusion]]

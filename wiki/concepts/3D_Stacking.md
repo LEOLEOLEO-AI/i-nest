@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[3D_Vertical_Interconnect]]
 [[3d]]
 [[AdvancedPackagingInterconnect]]
+[[ChipletTrafficAwareScheduling]]
 [[Chiplet]]
 [[Chiplet_Based_Architecture]]
 [[Chiplet_Heterogeneous_Integration]]

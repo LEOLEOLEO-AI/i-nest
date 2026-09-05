@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AlternativeBridgingModels]]
 [[Analog_Encoding_Readout]]
 [[AnomalousSpinTransport]]
+[[BrainActivityPrediction]]
 [[Contested_Prior_Resolution]]
 [[CrashHotspotForecasting]]
 [[DivergentHigherAreaRanking]]

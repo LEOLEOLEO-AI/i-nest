@@ -51,6 +51,8 @@ Auto-extracted concept from raw material compilation.
 [[TopologyProgramming]]
 [[Topology_Page]]
 [[Wafer_Scale_Integration]]
+[[Z3ToricCode]]
+[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

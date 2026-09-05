@@ -17,6 +17,7 @@ SDI, iNEST, wafer, 互连, 封装, 晶圆
 ## Related Concepts
 
 [[3D_IC_Stacking]]
+[[3d]]
 [[Interconnect_Routing]]
 [[Memory_Wall]]
 [[SDI_Bond]]

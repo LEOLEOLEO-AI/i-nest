@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[CrossEntityPreemptiveWarning]]
 [[DeepCode_AlgorithmExtraction]]
+[[DelayAwareSpikeEventDelivery]]
 [[Dynamic_Expert_Fusion]]
 [[Efficient_Coding_Constraint]]
 [[Emergent_Intelligence]]

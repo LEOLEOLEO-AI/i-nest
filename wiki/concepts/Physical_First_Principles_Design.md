@@ -64,6 +64,7 @@ Auto-extracted concept from raw material compilation.
 [[拓扑深度学习捕捉数据的高阶关系：信息传递拓扑神经网络概述]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
+[[研究进展：AI+新材料，5篇类脑智能]]
 [[神经网络]]
 
 ## Sources

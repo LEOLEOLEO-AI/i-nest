@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[ContinualLearningOnNeuromorphic]]
 [[Continuous_Spatiotemporal_State_Propagation]]
+[[EventDriven_Edge_Perception]]
 [[Event_Driven_Architecture]]
 [[Event_Driven_Spike_Communication]]
 [[Interconnect_Routing]]

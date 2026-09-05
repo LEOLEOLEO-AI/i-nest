@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor]]
 [[Memristor_Crossbar]]
 [[Memristor_Synapse]]
+[[NestedRepresentation]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]

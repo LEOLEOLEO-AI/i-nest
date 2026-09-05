@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Network]]
 [[Memristor_Synapse]]
 [[MetaFAIR_ArchitectureDiscovery]]
+[[National_Planning_Driven_Research_Alignment]]
 [[Neuromorphic_Computing]]
 [[NonlinearConnectomeScaling]]
 [[Nonlinear_Gain]]

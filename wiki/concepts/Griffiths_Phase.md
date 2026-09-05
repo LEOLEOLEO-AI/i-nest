@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicStatusAwareness]]
 [[Neuromorphic_Computing]]
 [[Relapse_Resilient_Interconnect]]
+[[ReproducibleReservoirDynamics]]
 [[Reservoir_Computing]]
 [[TCC]]
 [[Topological_Quantum_Error_Correction]]

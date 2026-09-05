@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BioPlausiblePredictiveCoding]]
 [[BrainInspired_Chip]]
 [[EventBasedBioSignalFrontEnd]]
+[[EventDataNonUniformity]]
 [[Event_Driven_Architecture]]
 [[Spiking_Neural_Network]]
 [[iNEST]]

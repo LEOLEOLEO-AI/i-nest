@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[MemristiveReservoirBranchPrediction]]
 [[Memristive_ANN_Hardware]]
+[[Memristive_Crossbar_Array]]
 [[Memristor]]
 [[Memristor_Hardware_ANN]]
 [[Memristor_Synapse]]

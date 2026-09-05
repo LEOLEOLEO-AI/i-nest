@@ -20,6 +20,8 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Faculty_Forum_2026]]
+[[Complex_System_Theory]]
 [[DARPA_ProjectManager_Model]]
 [[ErrorSuppressedPipeline]]
 [[MetaFAIR_ArchitectureDiscovery]]
@@ -27,9 +29,12 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicStatusAwareness]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
+[[SDI_Bond]]
 [[SDI_iNEST_Interconnect]]
 [[SNN]]
 [[Spiking_Neural_Network]]
+[[iNEST]]
+[[iNEST_Interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveInference]]
 [[ActiveSpikingPerception]]
 [[AttentionGuidedEntropy]]
+[[BigBrainCellularAxis]]
 [[BioPlausibleDisturbanceRejection]]
 [[Complex_System_Theory]]
 [[Contested_Prior_Conflict]]

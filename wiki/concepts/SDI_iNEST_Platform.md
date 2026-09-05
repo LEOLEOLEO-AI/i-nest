@@ -25,6 +25,8 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
+[[CrossbarArrayVLSI]]
+[[Heterogeneous_Integration]]
 [[Interconnect_Topology]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
@@ -35,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Strategic_Planning]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
+[[chiplet interconnect]]
 [[iNEST]]
 
 ## Sources

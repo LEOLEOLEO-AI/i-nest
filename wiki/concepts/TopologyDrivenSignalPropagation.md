@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[CST计量仪]]
 [[CausalEmergenceCondition]]
+[[Causal_Emergence_Integration]]
 [[CellEmergence]]
 [[Complex_System_Theory]]
 [[Core_Spacetime_Tensor]]

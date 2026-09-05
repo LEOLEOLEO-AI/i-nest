@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Brain_Connectome]]
 [[Connectome]]
 [[Connectome_Verification_Protocol]]
+[[CriticalPhaseTransitionStatisticalTest]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]

@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
+[[InterDomain_Synergy]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Sensor_Fusion]]
 [[NonEquilibriumComputing]]

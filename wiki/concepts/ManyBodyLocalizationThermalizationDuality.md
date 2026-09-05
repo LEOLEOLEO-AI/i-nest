@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_EW_Neuromorphic_Controller]]
 [[AsynchronousEventDrivenComputation]]
 [[BrainBodyResonance]]
+[[BurstCoding]]
 [[CascadedAdaptiveCombiners]]
 [[Complex_System_Theory]]
 [[EventDrivenComputation]]

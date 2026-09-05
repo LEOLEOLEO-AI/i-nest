@@ -68,6 +68,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_TCC_iNEST_Interconnect]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
+[[SDSoW_Industry_Alliance]]
 [[SDSoW_Strategic_Planning]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
@@ -77,9 +78,12 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]
 [[TCC]]
+[[TCC_iNEST_Interconnect]]
 [[TemporalComplexity]]
 [[analog computation]]
+[[chiplet interconnect]]
 [[iNEST]]
+[[iNEST_Interconnect]]
 [[residual connection]]
 
 ## Sources

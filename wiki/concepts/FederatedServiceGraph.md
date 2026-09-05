@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[CouplingMatrixRecovery]]
 [[Coupling_Strength_Encoding]]
 [[Crystallized_Neural_Manifolds]]
+[[DataDrivenMaterialDesign]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]

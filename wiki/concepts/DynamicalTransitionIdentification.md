@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Computation]]
 [[FlexibilityThreshold]]
 [[Intelligence_Emergence]]
+[[JunctionSignalIntegrity]]
 [[ManyBodyLocalizationThermalizationDuality]]
 [[ManyBodyLocalization]]
 [[NeuromorphicRL]]

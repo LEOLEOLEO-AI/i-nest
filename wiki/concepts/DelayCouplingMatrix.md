@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SOC]]
 [[STDP_Plasticity]]
+[[SparseTemporalEncoding]]
 [[Synaptic_Plasticity]]
 
 ## Sources

@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC与INEST：2026全局论文与专利战略规划清单]]
 [[UncertainNonlinearSystem]]
 [[complex system]]
+[[iNEST 论文矩阵计划]]
 [[iNEST]]
 [[神经网络]]
 

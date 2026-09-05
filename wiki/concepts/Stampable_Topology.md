@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[CommunicationAsComputation]]
 [[Deep_Network_Architecture_Invariant]]
+[[EulaminateOverrepresentation]]
 [[GlobalDecision_LocalExecution_ControlPlane]]
 [[HeterogeneousChipletIntegration]]
 [[Heterogeneous_Integration]]
@@ -50,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologyCentricPrimitiveSystem]]
 [[Wafer_Scale_Integration]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

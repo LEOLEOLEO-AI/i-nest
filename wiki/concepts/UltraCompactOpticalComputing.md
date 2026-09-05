@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[3d]]
 [[AI_Faculty_Forum_2026]]
 [[AdaptiveGraphDiffusion]]
+[[Adaptive_Intelligence_Principle]]
 [[AdiabaticMultimodeBend]]
 [[Allreduce_Latency_Probe]]
 [[AndersonTransition]]

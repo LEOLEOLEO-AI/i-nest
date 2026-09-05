@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenRiskAssessment]]
 [[Event_Driven_Architecture]]
 [[In_Network_Neuromorphic]]
+[[NeuromorphicStatusAwareness]]
 [[Neuromorphic_Computing]]
 [[iNEST]]
 

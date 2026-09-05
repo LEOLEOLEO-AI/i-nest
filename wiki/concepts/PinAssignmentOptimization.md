@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[PhaseAwareBisectionDemand]]
 [[PhononicBandgapEngineering]]
 [[ReconfigurableSpikingRouting]]
+[[RuntimeTopologyMapping]]
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SDI_STDP_Rule]]

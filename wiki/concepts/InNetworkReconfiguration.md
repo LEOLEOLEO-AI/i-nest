@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Orientation_Encoding_Latent_Spaces]]
 [[Receptron_Unit]]
 [[ReconfigurableSNNTopology]]
+[[Reliability_As_Service]]
 [[SNN]]
 [[SelfOrganization]]
 [[Self_Organized_Criticality]]

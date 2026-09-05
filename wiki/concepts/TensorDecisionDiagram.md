@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_InMemory_Processing]]
 [[Anisotropic_Square_Lattice]]
 [[AnomalousLocalization]]
+[[ApproximantLattice]]
 [[BCM滑动阈值]]
 [[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[BioPlausiblePredictiveCoding]]
 [[BrainInspiredArchitecture]]
 [[BrainInspired_Chip]]
+[[CollectiveSpikingDynamics]]
 [[Contested_Prior_Resolution]]
 [[DTGA]]
 [[DistinguishableHelium4]]

@@ -34,6 +34,8 @@ Auto-extracted concept from raw material compilation.
 [[Causal_Emergence_Architecture]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration]]
+[[Chiplet_Wafer_Topology]]
 [[Complex_System_Theory]]
 [[Deep_Network_Architecture_Invariant]]
 [[Emergent_Intelligence]]

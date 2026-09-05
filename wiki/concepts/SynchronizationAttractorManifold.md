@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[Synaptic_Plasticity_Rule]]
 [[TCC]]
+[[WeightedSTDP]]
 [[iNEST]]
 
 ## Sources

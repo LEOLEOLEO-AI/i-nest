@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Edge_Neuromorphic_Compute]]
 [[EventBasedGestureEncoding]]
 [[EventDrivenControlLoop]]
+[[EventDrivenDataAssociation]]
 [[EventDrivenTemplateUpdate]]
 [[Interconnect_Routing]]
 [[NestedRepresentation]]

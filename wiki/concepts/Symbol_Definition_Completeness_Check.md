@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[EmergentAttractorInvariance]]
 [[EmergentReplicaClock]]
 [[EventTriggeredDistributedControl]]
+[[FunctionalInterfaceBlocks]]
 [[GeometryGuidedGenerativeModel]]
 [[GitWhitelistQuotaEnforcement]]
 [[IncidenceBasedRandomWalk]]

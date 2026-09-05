@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[EventBasedBioSignalFrontEnd]]
 [[EventStrengthEncoding]]
 [[Event_Driven_Architecture]]
+[[FunctionalEnsemble]]
 [[In_Network_Neuromorphic]]
 [[In_Package_Neuromorphic_Integration]]
 [[LocalLearning_SynapticUpdate]]

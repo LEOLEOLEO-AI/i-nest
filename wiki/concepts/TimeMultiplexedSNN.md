@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CSI_Temporal_Encoding]]
 [[ContinuousControlConversion]]
 [[ContinuousTimeSNN]]
+[[CriticalityConstrainedPruning]]
 [[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[Criticality_Based_Feature_Extraction]]

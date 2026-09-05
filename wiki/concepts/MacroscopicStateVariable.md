@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Model_Routing_Protocol]]
+[[NegotiationAwareRouting]]
 [[Network_Specific_Embedding_Separation]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicHardware]]

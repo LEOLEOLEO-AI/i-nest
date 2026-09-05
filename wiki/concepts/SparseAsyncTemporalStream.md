@@ -31,9 +31,11 @@ Auto-extracted concept from raw material compilation.
 [[Efficient_Coding_Constraint]]
 [[End_Side_Neuromorphic_Deployment]]
 [[EventSparseTemporalEncoding]]
+[[Gaussian_Splat_Compression]]
 [[Heterogeneous_Integration]]
 [[Memory_Wall]]
 [[Neuromorphic_Computing]]
+[[SparseTemporalEncoding]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

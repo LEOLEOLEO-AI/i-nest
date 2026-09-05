@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenModularArchitecture]]
 [[Interconnect_Routing]]
 [[LocalInteractionDrivenReconfiguration]]
+[[LossSpikePhenomenon]]
 [[MixedSignalSNN_CoDesign]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

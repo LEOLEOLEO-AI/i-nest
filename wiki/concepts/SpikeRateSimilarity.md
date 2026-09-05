@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Bio_plausible_Neuromorphic_Disturbance_Observer]]
 [[BrainInspiredArchitecture]]
 [[CascadedAdaptiveCombiners]]
+[[CompetitiveProgramDynamics]]
 [[Complex_System_Theory]]
 [[ElasticInferenceScheduling]]
 [[In_Network_Neuromorphic]]

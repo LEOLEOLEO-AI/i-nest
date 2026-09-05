@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossEntityPreemptiveWarning]]
 [[DiscreteContinuous_Unification]]
 [[DrivenCriticalityOptimalityTradeoff]]
+[[EnergyProportionalityCeiling]]
 [[EventBasedMotionDeblurring]]
 [[EventDrivenAutoregression]]
 [[EventDrivenMotionDeblurring]]

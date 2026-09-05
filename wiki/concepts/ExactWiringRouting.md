@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[OpenLearningEcosystem]]
 [[Routing_Color_Bits]]
 [[SpectralGapMoE]]
+[[StretchablePhotonicInterconnect]]
 [[SuperparamagneticSwitchingRate]]
 [[Synaptic_Plasticity]]
 [[TCC]]

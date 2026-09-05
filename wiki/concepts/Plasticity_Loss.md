@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[BifurcationCandidateSet]]
 [[BifurcationCandidate]]
 [[CST_Synergy_Coordination]]
+[[CST_Triad_Framework]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

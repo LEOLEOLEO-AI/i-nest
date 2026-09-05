@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[FixedOverheadCost]]
 [[FixedOverheadPenalty]]
+[[HippocampalNeocorticalIntelligence]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[MeasurementInducedPhaseTransition]]

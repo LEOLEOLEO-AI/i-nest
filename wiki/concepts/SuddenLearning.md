@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[ReservoirDiversity]]
 [[Reservoir_Computing]]
 [[RunawayAvalanche]]
+[[ShortTermMemoryReservoir]]
 [[TCC]]
 [[TopologyEmbeddedIntrospection]]
 [[iNEST]]

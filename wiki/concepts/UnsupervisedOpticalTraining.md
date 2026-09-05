@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[DiscreteSTDP]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
+[[EventDrivenFunctionalConnectivity]]
 [[ITP_STDP]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]

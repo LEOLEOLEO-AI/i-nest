@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Bipartite_Topology_Robustness]]
 [[CST_Theory]]
 [[CST计量仪]]
+[[C_ST_Capability_Formula]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]

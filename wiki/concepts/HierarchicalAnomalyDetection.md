@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[03 涌现：整体的能力不能还原回个体？ - 得到APP]]
 [[3DHI_Integration]]
 [[3d]]
+[[4H_SiC_SubstrateProcessing]]
 [[AI_Faculty_Forum_2026]]
 [[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
@@ -45,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[CoPoS]]
 [[Complex_System_Theory]]
 [[EnergyOptimizedManycoreArchitecture]]
+[[FlagScale]]
 [[FlagScale_Training_Inference]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
@@ -55,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Interconnect]]
 [[P_Paradigm]]
 [[TCC]]
+[[advanced packaging]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

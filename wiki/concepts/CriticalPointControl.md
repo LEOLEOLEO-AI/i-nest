@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[AssociativeMemoryTopology]]
 [[BoundaryContract]]
 [[CST_MasterEquation]]
+[[Chemical_Bond_Operation_Algebra]]
 [[Complex_System_Theory]]
 [[Decoupled_Priors]]
 [[Independent_AI_Player_Endgame]]

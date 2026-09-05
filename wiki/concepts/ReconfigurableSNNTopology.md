@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Receptron_Unit]]
 [[ReconfigurableSNN_Accelerator]]
 [[ReconfigurableSpikingRouting]]
+[[Reliability_As_Service]]
 [[SNN]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]

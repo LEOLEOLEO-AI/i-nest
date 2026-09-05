@@ -61,8 +61,10 @@ Auto-extracted concept from raw material compilation.
 [[Structural_Mismatch]]
 [[TCC]]
 [[TemporalComplexity]]
+[[ThirdWaveAI]]
 [[TopologyCentricPrimitiveSystem]]
 [[Wafer_Scale_Integration]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

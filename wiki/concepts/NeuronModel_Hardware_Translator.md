@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[HodgkinHuxleyDynamics]]
 [[Intelligence_Emergence]]
 [[Layered_Attractive_Hubbard_Model]]
+[[LocalQuantumLearningRule]]
 [[Memristor]]
 [[Memristor_Network]]
 [[Memristor_Synapse]]

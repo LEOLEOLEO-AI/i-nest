@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[ShortTermMemory]]
+[[Stigmergic_Neural_Plasticity]]
 [[Swarm_Coordination]]
 [[TCC]]
 [[TwoTimescaleNeuroEvolution]]

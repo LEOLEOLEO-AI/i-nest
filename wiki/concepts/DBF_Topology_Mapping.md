@@ -20,7 +20,9 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
+[[Chemical_Bond_Operation_Algebra]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
@@ -29,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[DBF_Processor]]
 [[FPGA_NeuromorphicMapping]]
 [[GPU_Bottleneck_Relief]]
+[[Heterogeneous_Integration]]
 [[Microsecond_Link_Reconfiguration]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]

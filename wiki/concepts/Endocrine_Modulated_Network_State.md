@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AsynchronousEventDrivenComputation]]
 [[AthermalDynamics]]
 [[Bidirectional_Temporal_Enhancement]]
+[[BurstCoding]]
 [[Complex_System_Theory]]
 [[Contested_Prior_Resolution]]
 [[DiscreteSTDP]]

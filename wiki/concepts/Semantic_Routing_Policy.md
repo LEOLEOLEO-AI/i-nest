@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Decoupled_Priors]]
 [[DelayTolerantNetworkUAV]]
 [[DisorderedNetworkInterconnect]]
+[[HardwareAware_SelfOrganization]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[LLM_Reward_Design]]

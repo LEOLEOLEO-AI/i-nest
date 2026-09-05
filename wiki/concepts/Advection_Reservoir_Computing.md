@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AdjustableDynamics]]
 [[AstrocyteInspiredRepair]]
 [[Contested_Prior_Resolution]]
+[[Contested_Priors_Mechanism]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]
 [[SNN]]

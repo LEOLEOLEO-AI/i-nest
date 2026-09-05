@@ -36,6 +36,8 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
+[[advanced packaging]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

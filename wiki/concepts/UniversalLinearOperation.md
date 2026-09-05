@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[SensationModulatingNetwork]]
 [[Spiking_Neural_Network]]
+[[TopologyDrivenRouting]]
 [[VectorFlowField]]
 
 ## Sources

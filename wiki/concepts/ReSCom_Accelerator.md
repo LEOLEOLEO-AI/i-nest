@@ -57,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Encoding_of_fMRI]]
 [[Spiking neural network]]
 [[Spiking_Neural_Network]]
+[[SupervisedHardwareRepair]]
 [[UnifiedHypergraphStateSpace]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]

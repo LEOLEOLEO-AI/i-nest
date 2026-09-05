@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[ConformalFieldTheoryScaling]]
 [[EntanglementSignatures]]
+[[GeometricRegularizationLoss]]
 [[Intelligence_Emergence]]
 [[MeasurementEfficientDisorderAware]]
 [[NetworkMechanismsOfWaveGeneration]]

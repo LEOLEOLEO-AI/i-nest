@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[Cognitive_Relapse_Decoupling]]
 [[Continual_Learning_Modularity]]
+[[CriticalityInducedTopology]]
 [[CriticalityOffCriticalityTransition]]
 [[Criticality]]
 [[Emergent_Intelligence]]

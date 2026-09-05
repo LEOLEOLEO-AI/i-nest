@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[ComplexityThresholdBreach]]
 [[Decoupled_Priors]]
 [[GraphBasedSemanticRouting]]
+[[HigherOrderTopology]]
 [[Independent_AI_Player_Endgame]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

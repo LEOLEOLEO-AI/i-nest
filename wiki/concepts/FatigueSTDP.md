@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[HighTemporalResolutionSensing]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
+[[IntrinsicTimingSTDP]]
 [[Memristive_STDP]]
 [[Memristor]]
 [[Memristor_Synapse]]

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[AthermalDynamics]]
 [[Bidirectional_Temporal_Enhancement]]
+[[BigBrainCellularAxis]]
 [[BioPlausiblePredictiveCoding]]
 [[Complex_System_Theory]]
 [[DiscreteSTDP]]

@@ -70,6 +70,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Industry_Alliance]]
 [[SDSoW_Strategic_Planning]]
 [[STDP_Plasticity]]
+[[ScaleFreeNetworks]]
 [[Small_World_Network]]
 [[Spacetime_Coupling_Coefficient]]
 [[SpatiotemporalComplexityIndex]]
@@ -80,6 +81,7 @@ Auto-extracted concept from raw material compilation.
 [[TemperatureSensitivityControl]]
 [[TemporalComplexity]]
 [[Topology_Interconnect]]
+[[chiplet interconnect]]
 [[complex system]]
 [[residual connection]]
 

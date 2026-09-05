@@ -1,11 +1,11 @@
 ---
-title: iNEST+TCC Research Brief - 2026-09-01
-date: 2026-09-01
+title: iNEST+TCC Research Brief - 2026-09-04
+date: 2026-09-04
 type: research-brief
 target: genspark
 ---
 
-# iNEST + TCC Research Brief - 2026-09-01
+# iNEST + TCC Research Brief - 2026-09-04
 
 > For Genspark deep analysis. Contains actionable research context.
 
@@ -33,23 +33,23 @@ target: genspark
 
 ## 4. Inbox Highlights
 
-- [2026-09-01] **2026-09-01_arXiv_Optimal Transport for Network Comparison A Review with Machi** (_pipeline_insights)
-- [2026-09-01] **2026-09-01_arXiv_Memristive-Friendly Hadamard Reservoir Computing Structured,** (_pipeline_insights)
-- [2026-09-01] **2026-09-01_arXiv_SpikeOPD Stable On-Policy Distillation for Autoregressive Sp** (_pipeline_insights)
-- [2026-09-01] **2026-09-01_arXiv_Low-Power End-to-End Cochlear Implant Speech Denoising with ** (_pipeline_insights)
-- [2026-09-01] **2026-09-01_arXiv_Propagation rates in integro-differential equations of ignit** (_pipeline_insights)
-- [2026-08-31] **报告时长与内容规划** (01_GetNotes)
-- [2026-08-31] **FPGA工程师的SNN上板实战指南：200块板子跑脉冲神经网络，功耗账算明白了** (01_GetNotes)
-- [2026-08-31] **今日工作总结（2026年6月4日）** (01_GetNotes)
+- [2026-09-04] **Cerebras Hot Chips 2026 路线图深度解析：CS-4 架构、3D 堆叠 DRAM 与下一代性能展望** (01_GetNotes)
+- [2026-09-04] **AI算力系列六：从盛科通信48亿定增看交换芯片赛道的双重重构与国产差距** (01_GetNotes)
+- [2026-09-03] **关于NCCL通信** (01_GetNotes)
+- [2026-09-03] **复杂度的计算** (01_GetNotes)
+- [2026-09-03] **2026-09-03_arXiv_A Network Science Perspective on Evaluating Deep Graph Gener** (_pipeline_insights)
+- [2026-09-03] **2026-09-03_arXiv_Predicting Phase Ordering in Chaotic Maps and Coupled Map La** (_pipeline_insights)
+- [2026-09-02] **神经动力学入门：把神经网络看成_活的动态系统_** (01_GetNotes)
+- [2026-09-02] **2026-08-30-2608.27440v1** (03_Genspark)
 
 ## 5. Knowledge Graph Hotspots
 
-Total notes: 12125
-Graph nodes: 11002 | edges: 173881
+Total notes: 12395
+Graph nodes: 12379 | edges: 233338
 
 Top connected topics:
-- **index** (degree=5114)
-- **backlinks** (degree=5109)
+- **backlinks** (degree=7006)
+- **index** (degree=5843)
 - **00_iNEST_全景知识图谱** (degree=1182)
 - **神经科学、AGI与神经形态计算的融合：统一研究范式与挑战** (degree=395)
 - **TCC_iNEST_成果全景** (degree=291)
@@ -62,4 +62,4 @@ Top connected topics:
 (Run innovation_engine.py to generate)
 
 ---
-*Research brief auto-generated 2026-09-01 06:44*
+*Research brief auto-generated 2026-09-04 09:05*

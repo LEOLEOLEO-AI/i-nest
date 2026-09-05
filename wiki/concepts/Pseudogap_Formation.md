@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Crystallized_Neural_Manifolds]]
 [[Dynamic_Expert_Fusion]]
 [[ERI_2_0_Strategic_Framework]]
+[[EdgeFeatureEncoding]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Theory]]
 [[Emergent_Intelligence_Threshold]]

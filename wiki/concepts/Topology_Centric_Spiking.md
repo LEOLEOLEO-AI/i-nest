@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Communication]]
 [[FPGA_NeuromorphicMapping]]
 [[FoveationGuidedTokenSelection]]
+[[InNetworkComputing]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

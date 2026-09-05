@@ -27,7 +27,6 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet]]
 [[Chiplet_Based_Neuromorphic_Integration]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Complexity_Emergence]]
 [[Complexity_Emergence_Engineering]]
@@ -64,6 +63,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
 [[Yann LeCun：发现智能原理是AI的终极问题]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
 [[向大脑学习智能本质，探索通用 AI 的另一条可行路径]]
@@ -71,6 +71,7 @@ Auto-extracted concept from raw material compilation.
 [[存算一体]]
 [[忆阻器]]
 [[神经形态脉冲大语言模型（NSLLM）]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

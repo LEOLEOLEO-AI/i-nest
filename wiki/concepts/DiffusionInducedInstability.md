@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[HoldingManeuverDelayGraph]]
 [[Intelligence_Emergence]]
 [[MacroCriticalityEmergence]]
+[[MatrixShapePhaseTransition]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[NonEquilibriumPhase]]

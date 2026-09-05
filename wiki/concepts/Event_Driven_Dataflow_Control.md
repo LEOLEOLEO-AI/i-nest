@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[CrossEntityPreemptiveWarning]]
 [[DeepCode_AlgorithmExtraction]]
+[[DelayAwareSpikeEventDelivery]]
 [[DiscreteContinuous_Unification]]
 [[EventBasedMotionDeblurring]]
 [[Event_Driven_Architecture]]

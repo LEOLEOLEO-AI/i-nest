@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[ITP_STDP]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
+[[IntrinsicTimingSTDP]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Online_Continual_Learning]]

@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[ControlDrivenCriticalFluctuations]]
 [[ControlTheoreticTopology]]
 [[Critical_Region_Extension]]
+[[DelayTolerantNetworkUAV]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[Intelligence_Emergence]]

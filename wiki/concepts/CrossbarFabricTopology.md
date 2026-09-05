@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[PolarizationModulatedPhotoresponse]]
 [[Receptron_Unit]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SelfOrganizationInContinuousMedia]]
 [[Self_Organized_Criticality]]
 [[Synaptic_Plasticity]]
 [[TCC]]

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AlloyDisorderEngineering]]
 [[Amorphous_Amorphous_Transition]]
 [[Avoided_Criticality]]
+[[BioPlausiblePredictiveCoding]]
 [[CriticalStateInformationMaximization]]
 [[Criticality]]
 [[HigherOrderAvalanche]]

@@ -44,6 +44,8 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[OpportunisticRoutingRL]]
+[[OpportunisticRouting]]
+[[RecurrentOscillatoryComputation]]
 [[RecursiveSelfReferentialArchitecture]]
 [[ScalableNeuromorphicTopology]]
 [[SpikePacketRouting]]

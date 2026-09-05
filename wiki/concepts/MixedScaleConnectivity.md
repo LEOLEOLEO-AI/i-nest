@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_Equation]]
 [[CircadianGateModulation]]
 [[Combinatorial_Optimization_Readout]]
+[[CompetitiveProgramDynamics]]
 [[Complex_System_Theory]]
 [[Connectome]]
 [[Connectome_Transfer]]

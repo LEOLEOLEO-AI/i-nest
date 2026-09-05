@@ -28,9 +28,9 @@ Auto-extracted concept from raw material compilation.
 [[CST计量仪]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Complex_System_Theory]]
+[[Complexity_Emergence_Engineering]]
 [[DataDrivenCellularAxis]]
 [[Deep_Network_Architecture_Invariant]]
 [[DendriticReservoirState]]
@@ -68,6 +68,7 @@ Auto-extracted concept from raw material compilation.
 [[SystemLevelNonlinearity]]
 [[TCC]]
 [[Textbook_Paradigm_Definition]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

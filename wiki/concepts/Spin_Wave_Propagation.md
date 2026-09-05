@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Faculty_Forum_2026]]
+[[AnalogDomainCompression]]
 [[AnomalousSpinTransport]]
 [[BurstInterleaving]]
 [[Chiplet]]
@@ -33,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Memory_Wall]]
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Interconnect]]
 [[NoC]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[Nonlinear_Gain]]
@@ -53,7 +55,6 @@ Auto-extracted concept from raw material compilation.
 [[analog computation]]
 [[iNEST]]
 [[iNEST_Interconnect]]
-[[neuromorphic interconnect]]
 [[vLLM_plugin_FLSDI]]
 
 ## Sources

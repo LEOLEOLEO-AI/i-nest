@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[FerroelectricMemoryCell]]
 [[Ferroelectric_Devices]]
+[[GeTeBasedCBRAM]]
 [[IMPLYMemristiveISA]]
 [[In_Memory_Computing]]
 [[Intelligence_Emergence]]

@@ -32,6 +32,8 @@ Auto-extracted concept from raw material compilation.
 [[NoC]]
 [[NoC_Chiplet_iNEST_Wafer]]
 [[SDSoW]]
+[[SDSoW_Architecture]]
+[[SDSoW_TCC_Integration]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]

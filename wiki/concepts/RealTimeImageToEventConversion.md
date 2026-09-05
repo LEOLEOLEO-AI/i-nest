@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[Avoided_Criticality]]
 [[BioPlausiblePredictiveCoding]]
 [[BulletTrainScheduling]]
+[[BurstTemporalPlasticity]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[ContinuousTimeSNN]]

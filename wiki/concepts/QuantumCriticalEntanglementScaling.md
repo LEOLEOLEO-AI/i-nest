@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Continual_Learning_Modularity]]
 [[Continuous_Control_Spiking_Stability]]
 [[CriticalStateDynamics]]
+[[CriticalityBasedClassification]]
 [[CriticalityDrivenEfficientCoding]]
 [[Criticality]]
 [[EntanglementScaling]]

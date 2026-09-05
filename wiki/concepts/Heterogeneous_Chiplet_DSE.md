@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[ComponentLevelMolding]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[GenerativeTopologyModels]]
+[[HeavyTailedWaitingTimes]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Interconnect_Topology]]

@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[PropertyPredictionModeling]]
 [[RecurrentSpikingDynamics]]
 [[RecurrentSpikingTopology]]
+[[SNN]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[Spiking_Neural_Network]]

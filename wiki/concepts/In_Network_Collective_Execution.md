@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveGraphDiffusion]]
 [[Adaptive_Intelligence_Principle]]
 [[Adaptive_Service_Orchestration]]
+[[Anomaly_Induced_Quantum_Criticality]]
 [[BioInspired_Interception_Control]]
 [[BurstGatedRouting]]
 [[CommunicationAwareComputeRelocation]]

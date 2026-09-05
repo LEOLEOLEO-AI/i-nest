@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Asynchronous_Event_Circuit]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[FPGA_Accelerated_SNN]]
+[[FormalToolchain]]
 [[Neuromorphic_Computing]]
 [[SNNGrow]]
 [[SNN]]

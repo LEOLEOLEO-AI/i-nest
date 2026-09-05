@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[ScalableNeuromorphicTopology]]
 [[SemanticSpikeRepresentation]]
 [[Spiking_Neural_Network]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[complex system]]
 [[iNEST]]
 [[神经网络]]

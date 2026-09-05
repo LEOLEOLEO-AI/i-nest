@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration_Roadmap]]
 [[Heterogeneous_Integration_Roadmap_HIR]]
 [[Intelligence_Emergence]]
+[[KV_Cache_to_BoundaryObject_Transition]]
 [[MetricComputationAuthenticity]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

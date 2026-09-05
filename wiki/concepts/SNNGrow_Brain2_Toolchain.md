@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Anisotropic_Correlation_Length]]
 [[AnomalousSpinTransport]]
 [[BurstTemporalPlasticity]]
+[[EnsembleSparsity]]
 [[FPGA_Neuromorphic_Acceleration]]
 [[Intelligence_Emergence]]
 [[NeuromorphicTransformerPipeline]]
@@ -35,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[Spiking neural network]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 
 ## Sources

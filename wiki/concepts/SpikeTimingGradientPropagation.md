@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[EventCameraPoseInput]]
 [[Event_Driven_Architecture]]
 [[ImpactFallDetection]]
+[[IntrinsicTimingSTDP]]
 [[LatencyGradientDescent]]
 [[MembranePotentialModulation]]
 [[Network_Topology_Design]]

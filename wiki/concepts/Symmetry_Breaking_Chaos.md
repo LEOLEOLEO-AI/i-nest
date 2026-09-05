@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Combinatorial_Optimization_Readout]]
 [[Connectome]]
 [[Connectome_Reservoir]]
+[[Connectome_Verification_Protocol]]
 [[Cross_Brain_Connectome]]
 [[Crystallized_Neural_Manifolds]]
 [[EvolutionaryReservoirLearning]]

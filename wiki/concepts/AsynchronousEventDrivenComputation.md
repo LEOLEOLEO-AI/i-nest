@@ -58,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[SparseActivationSkipping]]
 [[SpikeAwareAlignmentDistillation]]
 [[SpikeEncoding]]
+[[SpikeTemporalDataAssociation]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

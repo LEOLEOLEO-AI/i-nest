@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3D_Heterogeneous_Integration]]
 [[AdaptiveBitPrecisionExploration]]
 [[AdaptiveGraphDiffusion]]
 [[Adaptive_Intelligence_Principle]]

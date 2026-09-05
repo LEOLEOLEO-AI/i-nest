@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Inference_Workload_Profiling]]
 [[InputAdaptiveComputation]]
 [[Network_Topology_Design]]
+[[Plasticity_vs_Computation_Separation]]
 [[SelfOrganization]]
 [[TCC]]
 

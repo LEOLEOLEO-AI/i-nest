@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[GeometricNeuromorphicFusion]]
 [[GradientBasedLearningLocalization]]
+[[Hierarchical_Async_NoC_PlasticityArray]]
 [[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Scheduling]]
 [[InterFPGA_Spike_Routing]]

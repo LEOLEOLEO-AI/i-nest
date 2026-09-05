@@ -47,9 +47,11 @@ Auto-extracted concept from raw material compilation.
 [[Second_Curve_Wafer_Industry_Platform]]
 [[SoftwareDefined_NoC_Routing]]
 [[TCC]]
+[[WaferScaleTopologyCentricComputing]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Topology]]
 [[Wafer_Scale_Topology_Control]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

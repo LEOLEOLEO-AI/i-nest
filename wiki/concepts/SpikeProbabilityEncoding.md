@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[MeanFieldSpikeRateApproximation]]
 [[Memristive_STDP]]
 [[RobustnessToNoiseInSNN]]
+[[SDI_Architecture]]
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SDI_STDP_Rule]]

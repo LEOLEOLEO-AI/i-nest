@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[AttractorBasinOrthogonality]]
 [[AutonomousCircuitMorphogenesis]]
 [[BCM滑动阈值]]
+[[Biocompatible_Neuromorphic_Interface]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

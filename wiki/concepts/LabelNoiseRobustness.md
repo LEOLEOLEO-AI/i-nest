@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[ContactOpportunityExploitation]]
 [[DataCenter_Chip_Logic_Compression]]
 [[Differential_Encoding]]
+[[EntropyBoundaryMaintenance]]
 [[HypergraphNeuralNetwork]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

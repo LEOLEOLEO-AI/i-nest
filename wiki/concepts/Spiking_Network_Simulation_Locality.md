@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[ActionPrototypeClustering]]
 [[Autonomous_Spiking_Dynamics]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BrainInspiredArchitecture]]
@@ -44,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[Neuromorphic_Organization]]
 [[SpiNNaker2_Chip]]
+[[SpiNNaker]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

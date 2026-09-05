@@ -49,9 +49,11 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[Reconfigurable_Nonlinear_Reservoir]]
 [[ReproducibleReservoirComputing]]
+[[ReproducibleReservoirDynamics]]
 [[Reservoir_Computing]]
 [[TCC]]
 [[TemperatureSensitivityControl]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[CriticalWeightNormBoundary]]
 [[CrossLayer_SignalRouting]]
+[[DirtyWeylSemimetal]]
 [[EventTriggeredDistributedControl]]
 [[EvolvingArchitectureDynamics]]
 [[FloquetTopologicalOrder]]

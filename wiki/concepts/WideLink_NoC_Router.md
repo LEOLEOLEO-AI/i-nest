@@ -48,8 +48,11 @@ Auto-extracted concept from raw material compilation.
 [[Photonic_Chiplet_Interconnect]]
 [[SDI_Bond]]
 [[SDI_Topology]]
+[[SparseTemporalEncoding]]
 [[SparsityAwareInterconnect]]
 [[TCC]]
+[[advanced packaging]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3D_Heterogeneous_Integration]]
 [[3D_Integrated_Chiplet_Stacking]]
 [[3d]]
 [[AdaptiveGraphDiffusion]]
@@ -30,12 +31,14 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_Stacking]]
+[[Heterogeneous_Integration]]
 [[Inference_Workload_Profiling]]
 [[Interconnect_Topology]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[TopologyProgramming]]
 [[WirelessSplitComputing]]
+[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

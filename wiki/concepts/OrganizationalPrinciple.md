@@ -36,7 +36,9 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
+[[SDI_TCC_Chiplet_Interconnect]]
 [[TCC]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

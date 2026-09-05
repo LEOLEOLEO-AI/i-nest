@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Communication]]
 [[Event_Driven_Processing]]
 [[FoveationGuidedTokenSelection]]
+[[InNetworkComputing]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Military_AI_Revolution]]

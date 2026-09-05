@@ -55,11 +55,13 @@ Auto-extracted concept from raw material compilation.
 [[SDI_TCC_Chiplet]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
+[[ScalabilityFaultToleranceTradeoff]]
 [[SoftwareDefinedSystemOnWafer]]
 [[Software_Defined_Interconnect]]
 [[TCC]]
 [[ThirdWaveAI]]
 [[TopologyProgramming]]
+[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

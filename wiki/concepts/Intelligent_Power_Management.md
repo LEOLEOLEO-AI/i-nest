@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[MetaFAIR_ArchitectureDiscovery]]
+[[NCL神经计算定律详解]]
 [[Network_Spatiotemporal_Synergy]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
@@ -70,6 +71,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TemporalComplexity]]
 [[Textbook_Paradigm_Definition]]
+[[chiplet interconnect]]
 [[iNEST]]
 
 ## Sources

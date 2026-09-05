@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Interconnect_Topology]]
 [[Memristor]]
+[[Memristor_Interconnect]]
 [[Memristor_Synapse]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[MicroRouter_Embedding]]
@@ -53,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

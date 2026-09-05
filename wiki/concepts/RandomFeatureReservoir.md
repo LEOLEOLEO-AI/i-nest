@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AsymmetricStochasticInteractions]]
 [[AttentionMap_DifferenceResidual]]
 [[CST计量仪]]
+[[CertifiedBifurcationDetection]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveFrequencyResonateFire]]
 [[AdaptiveSTDP]]
 [[AdaptiveSpeechToSpikeEncoding]]
+[[Adaptive_EW_Neuromorphic_Controller]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[BrainBodyResonance]]
 [[BurstTemporalPlasticity]]

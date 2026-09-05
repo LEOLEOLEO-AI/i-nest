@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AnytimePointCloudRecognition]]
 [[AsynchronousEventDrivenComputation]]
 [[Bidirectional_Temporal_Enhancement]]
+[[BurstCoding]]
 [[CascadedAdaptiveCombiners]]
 [[Complex_System_Theory]]
 [[Controlled_Release_Kinetics]]

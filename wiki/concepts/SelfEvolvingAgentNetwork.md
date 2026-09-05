@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[ConstraintDrivenSelfOrganization]]
 [[Continual_Learning_Modularity]]
 [[CounterstreamSignalPropagation]]
+[[CriticalityInNetworkComputing]]
 [[Criticality]]
 [[FlexibilityThreshold]]
 [[Network_Topology_Design]]

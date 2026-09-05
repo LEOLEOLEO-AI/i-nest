@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_NeuromorphicMapping]]
 [[GPU_Bottleneck_Relief]]
 [[GeneralIntelligenceSubstrate]]
+[[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
@@ -39,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC]]
 [[OpticallyWritableAtomicVaporMemory]]
 [[P_Paradigm]]
+[[TopologicalDataCompression]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

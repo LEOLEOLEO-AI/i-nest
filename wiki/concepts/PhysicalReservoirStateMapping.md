@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AcceleratedMaterialScreening]]
+[[ActionPrototypeClustering]]
 [[ActiveInferenceEdgeLoop]]
 [[ActiveInference]]
 [[AdversarialResilience]]
@@ -39,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Connectome_Verification_Protocol]]
 [[PhysicalReservoir]]
 [[PowerLawScalingClassification]]
+[[PowerLawScaling]]
 [[Reservoir_Computing]]
 [[iNEST]]
 

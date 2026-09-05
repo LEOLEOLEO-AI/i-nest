@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[Emergent_Topological_Alignment]]
+[[EmulationTheoryObserver]]
 [[EndToEndTopologyLearning]]
 [[GroupInteractionThreshold]]
 [[Intelligence_Emergence]]

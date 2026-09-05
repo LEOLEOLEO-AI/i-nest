@@ -60,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[Textbook_Paradigm_Definition]]
 [[TopologicalAndersonChernInsulator]]
 [[TopologyCentricEngineeringBase]]
+[[Topology_Centric_Computing]]
 [[branch prediction]]
 [[emerging CMOS memristor]]
 [[pipelined processor]]

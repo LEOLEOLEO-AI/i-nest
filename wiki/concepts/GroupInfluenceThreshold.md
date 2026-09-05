@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[2026-06-15_大脑的量子纠缠与信息动力学]]
 [[AINext_Initiative]]
+[[AdaptiveArchitecture]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Cognitive_Relapse_Decoupling]]
 [[Continual_Learning_Modularity]]
@@ -35,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkComputing]]
 [[Interconnect_Routing]]
 [[MobilityEdgeSwitching]]
+[[MobilityEdge]]
 [[MultiSourceTaskonomy]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

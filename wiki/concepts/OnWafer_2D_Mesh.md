@@ -35,10 +35,13 @@ Auto-extracted concept from raw material compilation.
 [[NoC]]
 [[NoC_Chiplet_iNEST_Wafer]]
 [[SDSoW]]
+[[SDSoW_Architecture]]
+[[SDSoW_Industry_Alliance]]
 [[TCC]]
 [[Topology_Interconnect]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

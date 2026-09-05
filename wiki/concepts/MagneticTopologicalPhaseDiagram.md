@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Forum_Demo_Narrative]]
 [[AdaptiveGraphDiffusion]]
 [[Adaptive_Intelligence_Principle]]
+[[Adaptive_Service_Orchestration]]
 [[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[AgenticServiceOrchestration]]
@@ -40,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[CellularSheaf]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration]]
 [[ChiralSurfaceFermiProjection]]
 [[CircuitTopologySearch]]
 [[CompactAnalogPredictor]]
@@ -51,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
+[[advanced packaging]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

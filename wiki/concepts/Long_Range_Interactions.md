@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration]]
 [[ComputationEfficientDeepLearning]]
 [[ConsciousIntegration]]
 [[Criticality]]
@@ -50,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Package_Optical_Interconnect]]
 [[Intelligence_Emergence]]
 [[Intelligent_Power_Management]]
+[[MemoryDrivenRouting]]
 [[Memristive_CAM_Indexing]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Spatiotemporal_Synergy]]
@@ -61,6 +63,7 @@ Auto-extracted concept from raw material compilation.
 [[SiC_GaN_Power_Integration]]
 [[State_Transition_Formalism]]
 [[TopologicalAndersonChernInsulator]]
+[[advanced packaging]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

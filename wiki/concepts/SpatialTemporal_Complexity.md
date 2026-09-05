@@ -31,7 +31,11 @@ Auto-extracted concept from raw material compilation.
 [[CellEmergenceMechanism]]
 [[CellEmergence]]
 [[ChipletWaferTopologyCoDesign]]
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
+[[CompactFieldVariable]]
 [[Intelligence_Emergence]]
+[[Network_Topology_Design]]
 [[TCC]]
 [[iNEST]]
 

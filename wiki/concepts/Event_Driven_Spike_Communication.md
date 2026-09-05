@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[ContinualLearningOnNeuromorphic]]
 [[DelayCodedWorkingMemory]]
+[[EventDriven_Edge_Perception]]
 [[Event_Driven_Architecture]]
 [[Event_Driven_Spiking]]
 [[Interconnect_Routing]]

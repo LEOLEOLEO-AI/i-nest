@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[Nonlinear_Gain]]
 [[RecursiveSelfReferentialArchitecture]]
+[[RenormalizationGroup_DeviceNonlinearity]]
 [[Reservoir_Computing]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]

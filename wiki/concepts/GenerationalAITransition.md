@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[NestedLearning]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
+[[NeuralQuadraticForms]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]

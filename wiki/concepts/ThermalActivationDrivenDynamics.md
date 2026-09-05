@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AnisotropicGaussianPrimitives]]
 [[AnytimePointCloudRecognition]]
 [[AsynchronousEventDrivenComputation]]
+[[Avoided_Criticality]]
 [[BackflowTransformation]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BurstTemporalPlasticity]]

@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[OptimalRepresentation]]
 [[Path_State_Awareness]]
+[[PhotonicSynapticPlasticity]]
 [[Quantum_Criticality]]
 [[Self_Organized_Criticality]]
 [[Synaptic_Plasticity]]

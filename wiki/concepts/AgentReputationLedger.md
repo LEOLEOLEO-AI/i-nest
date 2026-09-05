@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration]]
 [[Chiplet_Interconnect]]
 [[Chiplet_NoC_Interconnect]]
 [[Collective_Offloading]]
@@ -47,6 +48,8 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Interconnect]]
 [[TCC]]
 [[TopologyCentricPrimitiveSet]]
+[[advanced packaging]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

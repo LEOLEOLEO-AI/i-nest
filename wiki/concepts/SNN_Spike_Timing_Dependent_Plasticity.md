@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveDendriteSNN]]
 [[AdaptiveAsymmetricSurrogateGradient]]
 [[AdaptiveFrequencyResonateFire]]
+[[AdaptiveSTDP]]
 [[AnisotropicGaussianPrimitives]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BioInspiredSequenceLearning]]

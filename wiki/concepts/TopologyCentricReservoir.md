@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[BoundaryObject_Abstraction]]
 [[Brain_Connectome]]
 [[C_elegansConnectomeAnalogy]]
+[[CausalEmergenceCondition]]
 [[Causal_Emergence]]
 [[ChaoticAttractorTopology]]
 [[ComputationEfficientDeepLearning]]

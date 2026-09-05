@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[20W_Brain_Inspired_Planning]]
 [[AdaptiveSTDP]]
 [[AdaptiveSpeechToSpikeEncoding]]
+[[Bio_plausible_Neuromorphic_Disturbance_Observer]]
 [[ClocklessReconfigurableChip]]
 [[Controlled_Release_Kinetics]]
 [[CorticalWaveRouting]]

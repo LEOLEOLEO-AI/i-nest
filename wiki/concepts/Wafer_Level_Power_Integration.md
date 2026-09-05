@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CommunicationAsComputation]]
 [[DistributedTrainingPipeline]]
 [[Express_Link_Virtualization]]
+[[FlagOS_2_0]]
 [[HeterogeneousChipletIntegration]]
 [[Heterogeneous_Integration]]
 [[InterconnectAwarePartitioning]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

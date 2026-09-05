@@ -22,13 +22,20 @@ Auto-extracted concept from raw material compilation.
 
 [[3DHI_Chiplet_Integration]]
 [[3D_Heterogeneous_Integration]]
+[[3d]]
 [[AI_Faculty_Forum_2026]]
 [[Adaptive_Intelligence_Principle]]
 [[Adaptive_Service_Orchestration]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[Analog_Synaptic_Weighting]]
 [[Attention_Residuals]]
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration]]
+[[Compute_In_Memory_Neuromorphic]]
 [[Data_Movement_Bottleneck]]
+[[Heterogeneous_Integration]]
 [[iNEST]]
 
 ## Sources

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Decoupling]]
 [[ControlDrivenCriticalFluctuations]]
 [[CriticalLearningRegime]]
+[[Critical_Region_Extension]]
 [[Criticality]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[GroupInfluenceThreshold]]

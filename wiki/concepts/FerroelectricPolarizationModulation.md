@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[TopologyAwarePhotonicInterconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

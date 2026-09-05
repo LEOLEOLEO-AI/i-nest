@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[Neuromorphic_Planning_Architecture]]
+[[Neuromorphic_Topology]]
 [[NoC]]
 [[RenormalizationGroup_ScalingLaws]]
 [[RenormalizationGroup_Scaling]]

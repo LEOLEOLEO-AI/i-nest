@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[ChipletWaferInterconnectScaling]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration]]
 [[Chiplet_Integration_Route]]
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
@@ -35,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[FullDimensionalDefinableInterconnect]]
 [[Heterogeneous_Integration]]
 [[HierarchicalNetworkPartitioning]]
+[[InNetworkRadarProcessing]]
 [[Intelligent_Computing_Infrastructure]]
 [[InterChipletPHYModeling]]
 [[Interconnect_Routing]]
@@ -59,6 +61,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
 [[Wafer_Scale_Topology]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalStateDynamics]]
 [[Criticality]]
 [[FormalLinguisticCompetence]]
+[[HierarchicalBayesianCommunityDetection]]
 [[Intelligence_Emergence]]
 [[MacroCriticalityEmergence]]
 [[Network_Topology_Design]]

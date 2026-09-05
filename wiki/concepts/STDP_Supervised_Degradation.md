@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[Biologically_Plausible_Learning_Rules]]
 [[BrainBodyResonance]]
+[[BrownianCastleInterfaces]]
 [[CirculateFiringNeuron]]
 [[CoDesigned_SNN]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]

@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
+[[PhotonicDeepNetwork]]
 [[PowerLawScalingClassification]]
 [[PowerLawScaling]]
 [[RecursiveSelfReferentialArchitecture]]

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[DivergentHigherAreaRanking]]
 [[EchoState_n_ch]]
 [[EnvironmentalEmbedding]]
+[[ErrorSuppressedPipeline]]
 [[Fixed_Reservoir_Unitary]]
 [[Globally_Optimal_SNN_Training]]
 [[Memristor]]

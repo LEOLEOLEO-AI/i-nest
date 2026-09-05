@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[SDDE_Attractor_Emergence]]
 [[SNN]]
+[[SolitonLikeWaves]]
 [[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

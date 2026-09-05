@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[InkjetPrintedElectrochemicalSensors]]
 [[Intelligence_Emergence]]
+[[MachineLearningPotential]]
 [[NCL神经计算定律详解]]
 [[Network_Topology_Design]]
 [[NeuromorphicHardware]]

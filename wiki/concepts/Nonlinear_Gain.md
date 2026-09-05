@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[DataProvenanceIntegrity]]
 [[EmergentOrder]]
 [[GenerativeTopologyModels]]
+[[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]
 [[HodgkinHuxleyDynamics]]
 [[InNetwork_CST_Offload]]

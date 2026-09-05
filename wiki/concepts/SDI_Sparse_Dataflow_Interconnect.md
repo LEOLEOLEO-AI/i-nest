@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AllParallel_SpikeBased_Computing]]
 [[BurstGatedRouting]]
+[[Continuous_Spatiotemporal_State_Propagation]]
 [[Event_Driven_Architecture]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[Interconnect_Routing]]

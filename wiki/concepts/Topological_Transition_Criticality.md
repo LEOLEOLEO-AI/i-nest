@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[3D_Integrated_Chiplet_Stacking]]
 [[3d]]
 [[AINext_Initiative]]
+[[AcceleratedMaterialScreening]]
 [[AdaptiveArchitecture]]
 [[AdaptiveCombinerWeighting]]
 [[AgenticServiceOrchestration]]

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveMeasurementProtocol]]
 [[AdjustableDynamics]]
 [[Alpha_Coefficient_Phase_Transition_Amplification]]
+[[AmorphousSolidPlasticity]]
 [[BayesianDomainEvolution]]
 [[BehavioralFeedbackLoop]]
 [[Neuromorphic_Computing]]

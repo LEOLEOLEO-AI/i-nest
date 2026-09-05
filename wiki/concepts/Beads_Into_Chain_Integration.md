@@ -1,0 +1,38 @@
+---
+title: "Beads_Into_Chain_Integration"
+type: concept
+domain: Cross
+created: 2026-09-05
+auto: true
+---
+
+# Beads_Into_Chain_Integration
+
+**Domain**: Cross
+**First mentioned**: auto-extracted
+**Last updated**: 2026-09-05
+
+## Definition
+An integration strategy in which heterogeneous chiplets, or beads, are strung into a larger interconnected chain using currently available manufacturing processes. It provides a near-term and scalable path for building large TCC/iNEST systems without waiting for advanced monolithic process scaling.
+
+## Context
+Auto-extracted concept from raw material compilation.
+
+## Related Work
+
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
+[[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
+[[03 涌现：整体的能力不能还原回个体？ - 得到APP]]
+[[1024_Card_SuperNode]]
+[[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
+[[Beads_Into_Chain]]
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
+[[TCC]]
+[[iNEST]]
+
+## Sources
+- See wiki/articles/ for source article summaries
+
+## Open Questions
+- *(Explore connections to other concepts)*

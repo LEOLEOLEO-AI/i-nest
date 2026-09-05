@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Complex_Network_Class_Brain_Computing]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[CrossbarArrayVLSI]]
@@ -32,7 +33,6 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Interconnect]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
-[[neuromorphic interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

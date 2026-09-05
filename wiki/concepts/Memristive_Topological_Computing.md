@@ -28,8 +28,13 @@ Auto-extracted concept from raw material compilation.
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_Faculty_Forum_2026]]
 [[Allreduce_Latency_Benchmark]]
+[[Analog_InMemory_Processing]]
+[[Complex_System_Theory]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[SDI_Bond]]
+[[SDI节点接口规范与化合键定义]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

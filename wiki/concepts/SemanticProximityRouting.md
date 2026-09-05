@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[DirectTrainingSNN]]
 [[Direct_Training_Spiking_Neural_Networks]]
 [[ElectronicBurstingNeuron]]
+[[EmergentCooperation]]
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]
 [[Nonlinear_Gain]]

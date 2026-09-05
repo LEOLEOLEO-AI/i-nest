@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Inference_Stage_Decomposition]]
 [[Inference_Workload_Profiling]]
 [[Memristive_Topology]]
+[[Memristor_Interconnect]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC]]
@@ -60,6 +61,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[WideLink_NoC_Router]]
+[[advanced packaging]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

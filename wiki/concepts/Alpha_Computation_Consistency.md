@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_Equation]]
 [[CST_Exponential_Form]]
 [[CST计量仪]]
+[[ChipletWaferInterconnectTopology]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
@@ -80,6 +81,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect_Memristor]]
 [[Wafer_Scale_Neuromorphic]]
 [[Wafer_Scale_Neuromorphic_Integration]]
+[[chiplet interconnect]]
 [[complex system]]
 [[residual connection]]
 

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[ErrorAmplificationLimits]]
 [[LatencyGradientDescent]]
 [[Neuromorphic_Computing]]
+[[Organic_Neuromorphic_Transistor]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

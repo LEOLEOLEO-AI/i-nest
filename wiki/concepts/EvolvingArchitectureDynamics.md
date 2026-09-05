@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[RedundancyControlledStochasticRouting]]
 [[STDPDrivenConnectivity]]
 [[STDP_Plasticity]]
+[[Swarmalator_Phase_Transition]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]

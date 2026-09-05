@@ -44,8 +44,10 @@ Auto-extracted concept from raw material compilation.
 [[CST_Spatiotemporal_Complexity_Theorem]]
 [[Causal_Emergence]]
 [[Causal_Emergence_Architecture]]
+[[CellularSheaf]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration]]
 [[Chiplet_Topology]]
 [[Complex_System_Theory]]
 [[Heterogeneous_Integration]]
@@ -53,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[TCC]]
+[[advanced packaging]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

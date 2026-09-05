@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[SDDE_Attractor_Emergence]]
 [[SNN]]
+[[SpikeCodebookCompression]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AINext_Initiative]]
 [[AIRA_NeuralArchSearch]]
+[[AI_Application_Scenario_Reconstruction]]
 [[AI_FullSpectrum_Strategy]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]

@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[OpenSource_Neuromorphic_Framework]]
 [[P_Paradigm]]
 [[SDSoW]]
+[[SDSoW_Architecture]]
 [[SNN]]
 [[SOC]]
 [[Spiking neural network]]
@@ -54,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[Topology_Aware_SNN_Placement]]
 [[UnifiedHypergraphStateSpace]]
 [[iNEST]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

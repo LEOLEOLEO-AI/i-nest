@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
+[[PhysicalReservoirTransientDynamics]]
 [[Reservoir_Computing]]
 [[SDDE_Attractor_Emergence]]
 [[ShortTermMemoryReservoir]]

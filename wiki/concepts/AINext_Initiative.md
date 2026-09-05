@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicalSelfDualCriticality]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
+[[HardwareAware_DesignSpace]]
 [[Hardware_Accelerated_SNN]]
 [[Intelligence_Emergence]]
 [[Memristor]]

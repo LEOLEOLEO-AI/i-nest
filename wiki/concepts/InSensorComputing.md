@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[SDSoW_Strategic_Planning]]
+[[Second_Curve_Wafer_Industry_Platform]]
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
 [[SuperparamagneticSwitchingRate]]
@@ -61,6 +62,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[analog computation]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

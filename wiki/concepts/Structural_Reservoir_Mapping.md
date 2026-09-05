@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
+[[ShortTermMemoryReservoir]]
 [[TCC]]
 
 ## Sources

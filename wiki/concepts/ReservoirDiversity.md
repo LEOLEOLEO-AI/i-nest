@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalInterfaceBlock]]
 [[FunctionalInterfaceBlocks]]
 [[InNetworkAgentRewiring]]
+[[IntegrationProspectsForVLSI]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Memristor]]

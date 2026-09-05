@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossbarArrayArchitecture]]
 [[DynamicServiceComposition]]
 [[EdgeIoTEnergyAwareness]]
+[[GPU_Bottleneck_Relief]]
 [[GeneralIntelligenceSubstrate]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]

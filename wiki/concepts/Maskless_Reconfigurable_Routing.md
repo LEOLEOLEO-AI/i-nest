@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Interconnect_Topology]]
+[[Memristor_Interconnect]]
 [[Network_Topology_Design]]
 [[PacketRoutingOptimization]]
 [[SDSoW]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[System_Level_Utility_Control]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
+[[chiplet interconnect]]
 [[topology reconfiguration]]
 
 ## Sources

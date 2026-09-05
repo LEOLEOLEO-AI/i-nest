@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[DTGA]]
 [[Edge_Intelligence]]
 [[Emergent_Topology_Adaptation]]
+[[EventDrivenModularArchitecture]]
 [[ExplosiveTransitionThreshold]]
 [[FPGA_Accelerated_SNN]]
 [[FPGA_Neuromorphic_Acceleration]]

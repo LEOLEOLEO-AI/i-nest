@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveDendriteSNN]]
 [[Amorphous_Amorphous_Transition]]
 [[AnomalousSpinTransport]]
+[[Attention_Mechanism_in_SNN]]
 [[AutonomousAdaptation]]
 [[Avoided_Criticality]]
 [[BackflowTransformation]]

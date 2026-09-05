@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Continuous_Control_Spiking_Stability]]
 [[ConventionalAndSpikingDualMode]]
 [[CriticalExponentGamma]]
+[[CriticalityInducedComputationalCapacity]]
 [[Criticality]]
 [[SNN]]
 [[Self_Organized_Criticality]]

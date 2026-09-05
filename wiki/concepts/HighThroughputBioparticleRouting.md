@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_EventRouting]]
 [[SpikeBasedGradientDescent]]
 [[Spiking_Neural_Network]]
+[[StarvationSuppression]]
 [[SyntheticInertiaProvision]]
 [[TCC]]
 [[TemporalBatchSynchronization]]

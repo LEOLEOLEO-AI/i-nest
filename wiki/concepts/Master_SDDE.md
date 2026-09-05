@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Nanoscale_Memristive_Threats]]
 [[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]
 [[Network_Topology_Design]]
+[[Parallelized_Hierarchical_Connectome]]
 [[PowerLawScalingClassification]]
 [[PowerLawScaling]]
 [[QuantumReservoirMemoryCapacity]]

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Faculty_Forum_2026]]
 [[BeyondVonNeumannArchitecture]]
 [[FullSpectrumPhotonicMemristor]]
 [[HybridResistiveMemoryCIM]]
@@ -27,7 +28,9 @@ Auto-extracted concept from raw material compilation.
 [[Memristor]]
 [[Memristor_Crossbar]]
 [[Memristor_Synapse]]
+[[Memristor_Topology]]
 [[Memristor_Topology_Computing]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[iNEST]]
 

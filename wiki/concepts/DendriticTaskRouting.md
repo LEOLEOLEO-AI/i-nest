@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration]]
 [[Chiplet_Integration_Route]]
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
@@ -50,11 +51,13 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[WaveBasedInformationRouting]]
+[[chiplet interconnect]]
 [[忆阻器]]
 [[智能涌现]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 [[神经形态计算]]
+[[神经形态计算突破：脉冲神经网络实现机器人超低功耗定位新范式]]
 [[类脑芯片]]
 
 ## Sources

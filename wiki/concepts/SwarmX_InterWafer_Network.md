@@ -28,11 +28,15 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Synaptic_Weighting]]
 [[Attention_Residuals]]
 [[BackpropagationFreeLearning]]
+[[Causal_Emergence]]
 [[Causal_Emergence_Architecture]]
+[[Chiplet_Based_Trusted_Hardware]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[SwarmX_InterWafer]]
 [[TCC]]
+[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

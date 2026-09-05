@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[ConformalFieldTheoryScaling]]
 [[DynamicalMeanFieldAnalysis]]
+[[EmergentBeatPatternResolution]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]

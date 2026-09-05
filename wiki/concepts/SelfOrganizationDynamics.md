@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGASpikeImplementation]]
 [[FPGA_Neuromorphic_Acceleration]]
 [[FPGA_Neuromorphic_Architectures]]
+[[Flexible_Neural_Mapping]]
 [[Gut_Brain_Immune_Network]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

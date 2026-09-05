@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Reconfigurable_Neuromorphic_Acceleration]]
 [[Representation_Learning_Generalization]]
 [[SNN]]
+[[SNN_Topology_Mapping]]
 [[Self_Organized_Criticality]]
 [[SpeciesProtectionMechanism]]
 [[Spiking_Neural_Network]]

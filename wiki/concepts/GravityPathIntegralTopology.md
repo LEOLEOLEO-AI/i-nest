@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[LLM_Reward_Design]]
+[[NetworkDiameterTradeoff]]
 [[Network_Topology_Design]]
 [[PathDivergenceSelection]]
 [[PheromoneTopologySignaling]]

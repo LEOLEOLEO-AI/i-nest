@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicTokenSparsity]]
 [[Edge_Neuromorphic_Compute]]
 [[EventBasedGestureEncoding]]
+[[EventDrivenControlLoop]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
 [[SNN]]

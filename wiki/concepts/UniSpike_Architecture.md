@@ -37,6 +37,8 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
 [[OpportunisticRoutingRL]]
+[[OpportunisticRouting]]
+[[PairwiseCorrelationConstraint]]
 [[ReconfigurableSpikingRouting]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]

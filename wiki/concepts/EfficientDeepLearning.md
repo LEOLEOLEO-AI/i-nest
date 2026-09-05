@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[DelayedSynapticCoupling]]
 [[Differential_Encoding]]
+[[ERI_2_0_Strategy]]
 [[GNN图神经网络，非结构化数据分析利器！]]
 [[Intelligence_Emergence]]
 [[MemristiveMEMSHysteresis]]

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC]]
+[[NoC_Chiplet_Integration]]
 [[TCC]]
 
 ## Sources

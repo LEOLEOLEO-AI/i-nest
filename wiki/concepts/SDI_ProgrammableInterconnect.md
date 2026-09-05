@@ -47,10 +47,13 @@ Auto-extracted concept from raw material compilation.
 [[ScalabilityFaultToleranceTradeoff]]
 [[SoftwareDefinedSystemOnWafer]]
 [[Software_Defined_Interconnect]]
+[[Software_Defined_Interconnect_Bond]]
 [[Software_Defined_Interconnect_bonding_mechanism]]
 [[TCC]]
 [[ThreeLayerArchitecture]]
 [[TopologyProgramming]]
+[[Topology_Page]]
+[[chiplet interconnect]]
 [[iNEST]]
 
 ## Sources

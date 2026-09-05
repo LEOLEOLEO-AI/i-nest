@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[SDPrompt_Guided_Dynamic_Expert_Fusion]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
+[[Scale_Dependent_Coherence]]
 [[SpikeEncoding]]
 [[Spike_Encoding_of_fMRI]]
 [[SpikingNeuralNetwork]]

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDataNonUniformity]]
 [[EventDrivenAutoregression]]
 [[EventDrivenGraphTraversal]]
+[[EventDrivenMotionDeblurring]]
 [[EventDrivenSynchronization]]
 [[Event_Driven_Architecture]]
 [[Heterogeneous_Integration]]

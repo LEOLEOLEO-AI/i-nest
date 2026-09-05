@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[GraphLanguageModel]]
 [[GraphLanguageModel_RAG]]
 [[GrowthBoundaryDynamics]]
+[[HardwareSoftwareCoThermalManagement]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

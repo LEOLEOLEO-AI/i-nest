@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[EvolutionaryLearningYield]]
 [[EvolutionaryReservoirLearning]]
+[[GraphEmbeddedReservoir]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

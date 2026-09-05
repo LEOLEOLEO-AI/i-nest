@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[DissipativeQuantumReservoir]]
 [[Emergent_Reservoir_Topology]]
 [[GroupInteractionThreshold]]
+[[Hierarchical_Reservoir_Topology]]
 [[HybridMemristorArray]]
 [[Intelligence_Emergence]]
 [[MagneticMetamaterialReservoir]]

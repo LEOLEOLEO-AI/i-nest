@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenWeightUpdate]]
+[[FPGA_SNN_Inference]]
 [[Intelligence_Emergence]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]

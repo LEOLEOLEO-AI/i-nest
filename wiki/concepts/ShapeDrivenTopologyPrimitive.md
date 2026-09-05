@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Decoupling]]
 [[Communication_Primitive]]
 [[CriticalLearningRegime]]
+[[Critical_State_Interconnect]]
 [[CriticalityInNetworkComputing]]
 [[CriticalityOffCriticalityTransition]]
 [[Criticality]]

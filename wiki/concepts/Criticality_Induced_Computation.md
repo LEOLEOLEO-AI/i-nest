@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[12_三原理协同_FEP_最小作用量_STDP]]
 [[AI人工智能 卷积神经网络（CNN）_w3cschool]]
 [[AlloyDisorderEngineering]]
+[[BCM滑动阈值]]
 [[CST_Theory]]
 [[CST_Theory_V27_FINAL]]
 [[Complex_System_Theory]]
@@ -49,12 +50,14 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[Self_Organized_Criticality]]
 [[Sleep_Stage_Classification]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[complex system]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

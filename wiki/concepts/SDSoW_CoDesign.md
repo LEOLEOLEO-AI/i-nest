@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Mesoscale_Heterogeneous_Integration]]
+[[Neuromorphic_Computing]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[SDSoW_Industry_Alliance]]
@@ -34,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
 [[Wafer_Scale_Neuromorphic]]
+[[Wafer_Scale_Neuromorphic_Integration]]
 [[iNEST]]
 
 ## Sources

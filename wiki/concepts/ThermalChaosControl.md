@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[DTGA]]
 [[DendriticReservoirState]]
+[[EmulationTheoryObserver]]
 [[Free_Energy_Topology_Mapping]]
 [[Inference_Workload_Profiling]]
 [[Intelligence_Emergence]]

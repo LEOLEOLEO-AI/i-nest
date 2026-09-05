@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[RTC_Primitive]]
 [[RTC_Primitives]]
 [[RecursiveSelfReferentialArchitecture]]
+[[RegularizerAsControlParameter]]
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
 [[SDI_TCC_iNEST_Bridge]]

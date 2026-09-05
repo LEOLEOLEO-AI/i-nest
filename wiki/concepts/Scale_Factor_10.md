@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[156QubitScale]]
 [[AlexNet_Moment]]
 [[Cauchy_Aczel_Uniqueness]]
+[[CoexistenceRegime]]
 [[Complex_System_Theory]]
 [[Network_Fractal_Dimension]]
 [[Network_Topology_Design]]

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[ChipletOpticalIO]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration]]
 [[Chiplet_Integration_Route]]
 [[CoPackagedOptics]]
 [[CommunicationHeterogeneity]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Counterstream_Associative_Memory]]
 [[Distributed_Spike_Communication]]
 [[EdgeInspectionInference]]
+[[Efficient_Coding_Constraint]]
 [[EventDriven_Interconnect]]
 [[EventSparseTemporalEncoding]]
 [[FerroelectricCrossbarArray]]
@@ -55,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
+[[advanced packaging]]
 [[iNEST]]
 [[类脑芯片]]
 

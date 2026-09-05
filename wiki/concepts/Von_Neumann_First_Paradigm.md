@@ -22,14 +22,17 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Driven_Power_Density_Scaling]]
 [[AI_Faculty_Forum_2026]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[AssociativeMemoryTopology]]
 [[Attention_Residuals]]
 [[BackpropagationFreeLearning]]
 [[Beyond_Moore_Pathway]]
+[[BurstInterleaving]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
+[[SOC]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

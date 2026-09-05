@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[DistributedEventConditionDesign]]
 [[EnergyLandscape_Regularization]]
 [[EventTriggeredDistributedControl]]
+[[GitWhitelistQuotaEnforcement]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

@@ -56,6 +56,8 @@ Auto-extracted concept from raw material compilation.
 [[SixClassSkeletonAsRPrimitiveSpace]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[WavelengthMultiplexedInterconnect]]
+[[chiplet interconnect]]
 [[complex system]]
 [[iNEST]]
 [[涌现]]

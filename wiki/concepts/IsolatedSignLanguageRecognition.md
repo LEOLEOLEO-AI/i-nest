@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Cross_Brain_Connectome]]
 [[ErrorSuppressedPipeline]]
 [[EvolutionaryReservoirLearning]]
+[[HierarchicalReservoirDynamics]]
 [[IntrinsicDynamicsAutonomy]]
 [[Neural_Substrate_Independence]]
 [[Neuromorphic_Computing]]

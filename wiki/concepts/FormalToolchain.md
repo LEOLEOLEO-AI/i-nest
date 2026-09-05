@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Planning_Revolution]]
+[[OpportunisticRoutingRL]]
 [[PowerLawScaling]]
 [[QuantumProbabilityFlowHebbian]]
 [[RealTimeImageToEventConversion]]

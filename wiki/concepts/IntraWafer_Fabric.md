@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[MemoryDrivenVectorFlowFieldRouting]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[MicroRouter_Embedding]]
+[[Minimal_Complete_Principle]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]

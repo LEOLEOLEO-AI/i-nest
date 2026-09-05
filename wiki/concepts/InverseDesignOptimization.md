@@ -56,11 +56,15 @@ Auto-extracted concept from raw material compilation.
 [[PhysicalWaferTriplet]]
 [[RecursiveSelfReferentialArchitecture]]
 [[RedundantMapping_FaultDetection]]
+[[SDSoW]]
+[[SDSoW_Architecture]]
 [[SDSoW_Reconfigurable_Network]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[WaferScaleChipletIntegration]]
+[[WaferScaleTopologyInterconnect]]
 [[Wafer_Scale_Integration]]
+[[chiplet interconnect]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

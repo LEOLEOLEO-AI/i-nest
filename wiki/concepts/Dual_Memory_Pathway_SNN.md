@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[DFlipFlop_SNN_Circuit]]
 [[EventDrivenInference]]
+[[LocalLearning_SynapticUpdate]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Self_Organized_Criticality]]

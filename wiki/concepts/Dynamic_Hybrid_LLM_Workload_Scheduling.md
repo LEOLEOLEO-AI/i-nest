@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
+[[Constructed_Reality_Interconnect]]
 [[Defense_Industrial_Base_Reshaping]]
 [[Evolutionary_Structure_Computability]]
 [[External_to_OnDie_Evolution]]

@@ -56,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Hardware_ANN]]
 [[Memristor_Network]]
 [[Memristor_Synapse]]
+[[Mesoscale_Heterogeneous_Integration]]
 [[MetricComputationAuthenticity]]
 [[Network_CST]]
 [[Network_Topology_Design]]
@@ -84,6 +85,7 @@ Auto-extracted concept from raw material compilation.
 [[TemporalComplexity]]
 [[Topology_Interconnect]]
 [[UniversalIntelligence_Emergence]]
+[[chiplet interconnect]]
 [[complex system]]
 [[residual connection]]
 

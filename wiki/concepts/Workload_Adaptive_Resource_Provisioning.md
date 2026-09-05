@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveBitPrecisionExploration]]
 [[AdaptiveDensityControl]]
 [[AdaptiveGraphDiffusion]]
+[[Adaptive_Intelligence_Principle]]
 [[Adaptive_Service_Orchestration]]
 [[AdiabaticMultimodeBend]]
 [[Advanced_Packaging]]
@@ -40,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Bipartite_Interconnect]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration]]
 [[Chiplet_Stacking]]
 [[CoPackagedOptics]]
 [[Complex_System_Theory]]
@@ -52,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologyAwareStateMigration]]
 [[Workload_Aware_Partitioning]]
+[[advanced packaging]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

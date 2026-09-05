@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Memory_Computing]]
 [[LightweightNeuromorphic]]
 [[Long_Range_Interactions]]
+[[MemoryDrivenRouting]]
 [[Memristive_Crossbar_Array]]
 [[Minimal_Complete_Principle]]
 [[Network_Topology_Design]]
@@ -54,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[Theoretical_Numerical_Analysis]]
 [[TopologicalAndersonChernInsulator]]
 [[TopologyAwareStateMigration]]
+[[advanced packaging]]
 [[neuromorphic computing architecture]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

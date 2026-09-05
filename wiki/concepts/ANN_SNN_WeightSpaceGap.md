@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[BackflowTransformation]]
 [[Baseline_Change_Record]]
 [[BulletTrainScheduling]]
+[[CriticalityBasedClassification]]
 [[Criticality]]
 [[CrossEntityPreemptiveWarning]]
 [[DrivenCriticalityOptimalityTradeoff]]

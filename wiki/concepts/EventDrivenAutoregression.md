@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[EventBasedMotionDeblurring]]
 [[EventDataNonUniformity]]
 [[EventDrivenGraphTraversal]]
+[[EventDrivenMotionDeblurring]]
 [[EventDrivenSynchronization]]
 [[Event_Driven_Architecture]]
 [[Heterogeneous_Integration]]

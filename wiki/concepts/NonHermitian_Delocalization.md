@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[FatalityDrivenRewiring]]
 [[FunctionalInterfaceBlock]]
 [[Heterogeneous_Integration]]
+[[InSituReconfiguration]]
 [[Inference_Workload_Profiling]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
@@ -50,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[OpticallyWritableAtomicVaporMemory]]
 [[ReEntrantMultifractalization]]
 [[TopologyEmbeddedSelfModel]]
+[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

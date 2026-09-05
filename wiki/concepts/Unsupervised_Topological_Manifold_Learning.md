@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[EarlyVisual_Cortex_Modeling]]
 [[Edge_Intelligence]]
 [[EnergyEfficiencyAI]]
+[[FLAME_Lab_PhD_Admissions]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

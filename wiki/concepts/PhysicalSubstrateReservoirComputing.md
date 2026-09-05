@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[DisorderInducedEntanglementTransition]]
 [[EndToEndTopologyLearning]]
 [[Generative_Graph_Models]]
+[[JumpDiffusion_StochasticQuantization]]
 [[MantelTest_SignCorrection]]
 [[NCA_Reservoir]]
 [[Network_Topology_Design]]

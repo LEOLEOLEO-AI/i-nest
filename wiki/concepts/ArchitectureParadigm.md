@@ -29,11 +29,14 @@ Auto-extracted concept from raw material compilation.
 [[Beyond_Moore_Pathway]]
 [[BoundaryObject_Abstraction]]
 [[CST计量仪]]
+[[Complex_System_Theory]]
+[[ComputationEfficientDeepLearning]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
+[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

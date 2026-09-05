@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[NeurovascularUnitEngineering]]
 [[NeurovascularUnit]]
 [[P_Paradigm]]
+[[PolymerComposite_Substrate]]
 [[Reservoir_Computing]]
 [[SNN]]
 [[ScaleFreeNetwork]]

@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
+[[EmulationTheoryObserver]]
 [[Endocrine_Modulated_Network_State]]
 [[FastSlow_Dynamics]]
 [[InNetworkAgentRewiring]]

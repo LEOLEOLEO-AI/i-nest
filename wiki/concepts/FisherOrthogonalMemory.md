@@ -62,6 +62,7 @@ Auto-extracted concept from raw material compilation.
 [[SwarmGradientRouting]]
 [[TCC]]
 [[TemporalInformationStorage]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[complex system]]
 [[emerging CMOS memristor]]
 [[iNEST]]

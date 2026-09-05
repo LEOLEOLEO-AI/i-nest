@@ -25,6 +25,8 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveCompetingInteractions]]
 [[AdaptiveFunctionalTopology]]
 [[AmoebaInspiredLocomotion]]
+[[CriticalityDrivenStateTransition]]
+[[MoE_Routing]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Topology]]

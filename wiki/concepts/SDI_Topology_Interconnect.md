@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet]]
 [[Chiplet_Based_Trusted_Hardware]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration]]
 [[Chiplet_Integration_Route]]
 [[Chiplet_NoC_Interconnect]]
 [[Chiplet_Topology]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Decoupled_Priors]]
 [[EulaminateOverrepresentation]]
+[[HardwareAware_SelfOrganization]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
@@ -56,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[Topology_Interconnect]]
+[[advanced packaging]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

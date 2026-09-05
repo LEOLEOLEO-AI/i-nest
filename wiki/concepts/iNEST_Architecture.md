@@ -30,10 +30,12 @@ Auto-extracted concept from raw material compilation.
 [[BiologicalParadigmValidation]]
 [[Bipartite_Interconnect]]
 [[BoundaryObject_Abstraction]]
+[[BurstInterleaving]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
 [[TCC]]
+[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

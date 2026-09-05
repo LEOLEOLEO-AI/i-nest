@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspiredLearningRule]]
 [[Bio_plausible_Neuromorphic_Disturbance_Observer]]
 [[Biomanufacturing_Control_Loop]]
+[[BrainBodyResonance]]
 [[FlexibilityThreshold]]
 [[Neuromorphic_Computing]]
 [[Synaptic_Plasticity]]

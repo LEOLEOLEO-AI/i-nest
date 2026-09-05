@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Inference_Workload_Profiling]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[Logic_Folding]]
 [[MeasurementInducedRouting]]
 [[NetworkDiameterTradeoff]]
 [[Network_Topology_Design]]

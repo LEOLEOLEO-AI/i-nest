@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[NonlinearDynamicalSystemsInference]]
 [[Nonlinear_Gain]]
+[[PhysicalSubstrateReservoir]]
 [[Reservoir_Computing]]
 [[SexBasedConnectomeDifferences]]
 [[Spiking_Neural_Network]]

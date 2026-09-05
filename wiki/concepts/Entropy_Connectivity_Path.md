@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[11_SDI节点接口规范与化合键定义_dup]]
 [[AI_Faculty_Forum_2026]]
+[[AdaptiveTimeStepTraining]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[BigBrainCellularAxis]]
@@ -40,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[Neuromorphic_Interconnect]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]
 [[SDI_STDP]]
@@ -58,7 +60,6 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Neuromorphic]]
 [[Wafer_Scale_Neuromorphic_Integration]]
 [[iNEST]]
-[[neuromorphic interconnect]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenTrajectoryEncoding]]
 [[EventDrivenWirelessTransmission]]
 [[EventSparseTemporalEncoding]]
+[[Gaussian_Splat_Compression]]
 [[InputAdaptiveComputation]]
 [[Memory_Wall]]
 [[Neuromorphic_Computing]]
@@ -44,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[PhotoIontronicSynapse]]
 [[ResonantFrequencyAdaptationRule]]
 [[ResonateAndFireEncoding]]
+[[SparseTemporalEncoding]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

@@ -29,7 +29,10 @@ Auto-extracted concept from raw material compilation.
 [[DynamicServiceComposition]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[FPGA_Accelerated_SNN]]
+[[FPGA_Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]
+[[SNN]]
+[[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]
 

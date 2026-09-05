@@ -33,9 +33,12 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect]]
 [[Chiplet_Packaging]]
 [[Chiplet_Stacking]]
+[[Heterogeneous_Integration]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[TCC]]
+[[advanced packaging]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

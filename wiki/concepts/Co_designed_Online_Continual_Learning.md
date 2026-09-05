@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[AnytimePointCloudRecognition]]
 [[AsynchronousEventDrivenComputation]]
 [[Bio_plausible_Neuromorphic_Disturbance_Observer]]
+[[BurstCoding]]
 [[CascadedAdaptiveCombiners]]
 [[Complex_System_Theory]]
 [[Cytokine_Feedback_Loops]]

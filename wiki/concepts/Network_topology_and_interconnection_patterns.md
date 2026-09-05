@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Decoupled_Priors]]
 [[Deep_Network_Architecture_Invariant]]
 [[Deep_Network_Layer_Stacking]]
+[[DiagnosticReportFramework]]
 [[EulaminateOverrepresentation]]
 [[Heterogeneous_Integration]]
 [[Memory_Wall]]
@@ -76,6 +77,7 @@ Auto-extracted concept from raw material compilation.
 [[TemperatureSensitivityControl]]
 [[TemporalComplexity]]
 [[Topology_Interconnect]]
+[[chiplet interconnect]]
 [[residual connection]]
 
 ## Sources

@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Synaptic_Motifs]]
 [[HierarchicalModularReservoirs]]
 [[Intelligence_Emergence]]
+[[Loihi2_OnChip_Learning]]
 [[MutualReinforcementDynamics]]
 [[Nanoscale_Memristive_Threats]]
 [[Network_Topology_Design]]

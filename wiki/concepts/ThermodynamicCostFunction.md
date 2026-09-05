@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Categorical_Reservoir_Model]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
+[[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Intelligence_Emergence]]
 [[Memristor]]
 [[Memristor_Crossbar]]

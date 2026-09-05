@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AthermalDynamics]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BioPlausiblePredictiveCoding]]
+[[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
 [[Contested_Prior_Resolution]]
 [[DiscreteSTDP]]

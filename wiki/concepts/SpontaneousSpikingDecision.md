@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Architecture]]
 [[Event_Driven_Computation]]
 [[HigherOrderAvalanche]]
+[[InteractingQuasiPeriodicChain]]
 [[Interconnect_Routing]]
 [[MoE_Routing]]
 [[Neuromorphic_Computing]]

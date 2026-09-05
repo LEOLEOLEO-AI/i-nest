@@ -22,6 +22,8 @@ Auto-extracted concept from raw material compilation.
 
 [[Alignment_Tax]]
 [[AndersonTransition]]
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
 [[CommunicationAwareComputeRelocation]]
 [[DecliningModularity]]
 [[Deep_Thermalisation]]
@@ -30,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[FlagOS_2_0]]
 [[InterChipletPHYModeling]]
 [[Interconnect_Routing]]
+[[NonHermitian_Topology]]
 [[TCC]]
 [[iNEST]]
 

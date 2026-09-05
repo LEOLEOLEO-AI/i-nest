@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_Intelligence_Emergence]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
+[[Complex_System_Theory]]
 [[Complexity_Emergence]]
 [[Complexity_Emergence_Engineering]]
 [[Course_Based_FPGA_Projects]]
@@ -56,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TemporalDynamicsModeling]]
+[[Wafer_Scale_Neuromorphic]]
 [[iNEST]]
 
 ## Sources

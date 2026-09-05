@@ -62,6 +62,8 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[SelfOrganization]]
 [[Synaptic_Plasticity]]
+[[TCC]]
+[[advanced packaging]]
 [[iNEST]]
 [[residual connection]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]

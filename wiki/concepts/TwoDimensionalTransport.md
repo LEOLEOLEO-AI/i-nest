@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[FullDimensionalDefinableInterconnect]]
 [[GlobalDecision_LocalExecution_ControlPlane]]
 [[Heterogeneous_Integration]]
+[[HighFrequency_Interconnect_Optimization]]
 [[IndexOrderingOptimization]]
 [[Interconnect_Routing]]
 [[Interconnect_Topology]]
@@ -57,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[Swarm_Coordination]]
 [[TCC]]
 [[WaferScale_Chiplet_Interconnect]]
+[[chiplet interconnect]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

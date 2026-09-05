@@ -31,9 +31,12 @@ Auto-extracted concept from raw material compilation.
 [[CoPackagedOptics]]
 [[Compute_In_Memory_Neuromorphic]]
 [[Heterogeneous_Integration]]
+[[In_Memory_Computing]]
+[[In_Network_Neuromorphic_Compute]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[TCC]]
+[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AgentBasedCorruptionModel]]
 [[Biologically_Plausible_Learning_Rules]]
 [[CrossLayer_SignalRouting]]
+[[DualModeSNNConventionalInference]]
 [[EventDrivenModularArchitecture]]
 [[EvolutionaryDiversityPreservation]]
 [[Interconnect_Routing]]

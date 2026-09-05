@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Forum_Demo_Narrative]]
 [[AdaptiveGraphDiffusion]]
 [[Adaptive_Intelligence_Principle]]
+[[Adaptive_Service_Orchestration]]
 [[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[AmorphousTopologicalSubstrate]]
@@ -41,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Bias_Origin_Taxonomy]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration]]
 [[ChiralSurfaceFermiProjection]]
 [[CircuitTopologySearch]]
 [[Complex_System_Theory]]
@@ -58,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[Spatiotemporal_Prior_Encoding]]
 [[TCC]]
 [[TopologicalDataCompression]]
+[[advanced packaging]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

@@ -71,9 +71,11 @@ Auto-extracted concept from raw material compilation.
 [[TopologyProgramming]]
 [[Topology_Interconnect]]
 [[analog computation]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[residual connection]]
 [[Γst_Revision]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

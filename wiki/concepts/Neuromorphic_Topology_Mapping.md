@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Interconnect_Topology]]
+[[MacroscopicDescriptor]]
 [[Memristive_Solutions]]
 [[Memristor]]
 [[Memristor_Network]]

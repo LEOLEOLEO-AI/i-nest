@@ -25,10 +25,17 @@ Auto-extracted concept from raw material compilation.
 [[BoundaryObject_Abstraction]]
 [[Brain_Verified_Scaling_Target]]
 [[ByteDance_Ada_Chip]]
+[[Causal_Emergence]]
 [[Causal_Emergence_Architecture]]
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Wafer_Topology]]
 [[ComputationEfficientDeepLearning]]
 [[DARPA_ProjectManager_Model]]
+[[Deep_Network_Architecture_Invariant]]
+[[EfficientDeepLearning]]
+[[Intelligence_Emergence]]
+[[Network_Topology_Design]]
 [[iNEST]]
 
 ## Sources

@@ -34,6 +34,8 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
 [[DARPA_ProjectManager_Model]]
+[[DisturbancePropagationPath]]
+[[Heterogeneous_Integration]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[TCC]]

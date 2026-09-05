@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[Memristive_STDP]]
+[[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
 [[SDI_STDP]]

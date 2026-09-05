@@ -31,10 +31,12 @@ Auto-extracted concept from raw material compilation.
 [[HybridResistiveMemoryCIM]]
 [[Interconnect_Routing]]
 [[IntraWafer_Fabric]]
+[[MemoryDrivenRouting]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
 [[TCC]]
+[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

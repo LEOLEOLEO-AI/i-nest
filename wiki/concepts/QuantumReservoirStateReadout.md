@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[ReservoirComputingForOptimization]]
 [[ReservoirYield]]
+[[Reservoir_Closure_Property]]
 [[Reservoir_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]

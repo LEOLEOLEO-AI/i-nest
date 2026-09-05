@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicRoutingOptimization]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
+[[OpenSource_Neuromorphic_Framework]]
 [[Real_Time_Neuromorphic_Constraint_Satisfaction]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]

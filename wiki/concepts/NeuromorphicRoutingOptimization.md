@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor]]
 [[Memristor_Network]]
 [[Memristor_Synapse]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[Model_Routing_Protocol]]
 [[Network_Specific_Embedding_Separation]]
 [[NeuromorphicTransformerPipeline]]

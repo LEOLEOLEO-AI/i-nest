@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[CouplingTopologyMemoryLink]]
 [[Coupling_Topology]]
 [[CriticalStateReservoir]]
+[[DiscreteScaleInvariance]]
 [[DivergentHigherAreaRanking]]
 [[EvolutionaryReservoirOptimization]]
 [[Network_Topology_Design]]

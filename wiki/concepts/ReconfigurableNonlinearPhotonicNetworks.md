@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[FPGA_Neuromorphic_Acceleration]]
+[[Fermi_Surface_Reconstruction]]
 [[Free_Energy_Topology_Mapping]]
 [[FunctionalInterfaceBlock]]
 [[InNetworkAgentRewiring]]

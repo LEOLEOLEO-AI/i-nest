@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Avoided_Criticality]]
 [[BigBrainCellularAxis]]
 [[Criticality]]
+[[Cross_Node_Event_Propagation]]
 [[Distributed_Spike_Communication]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeInspectionInference]]

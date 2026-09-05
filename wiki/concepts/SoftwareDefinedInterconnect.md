@@ -31,11 +31,16 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect_Topology]]
 [[CompactFieldVariable]]
 [[CongestionAwareNoCPlacement]]
+[[CrossbarArrayArchitecture]]
+[[Heterogeneous_Integration]]
 [[Interconnect_Topology]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
+[[NoC]]
 [[SDI_Bond]]
 [[Software_Defined_Interconnect]]
 [[TCC]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

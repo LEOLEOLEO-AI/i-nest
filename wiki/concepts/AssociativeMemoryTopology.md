@@ -25,7 +25,6 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[AI_Forum_Demo_Narrative]]
 [[AI_FullSpectrum_Strategy]]
-[[Advanced_Packaging]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Attention_Residuals]]
@@ -57,8 +56,10 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[TCCNPU_Coordination_Roadmap]]
 [[TCC]]
+[[TCC_SpikingAnalysis]]
 [[TCC_SpikingIntegration]]
 [[TopologicalAndersonChernInsulator]]
+[[advanced packaging]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[神经网络]]
 

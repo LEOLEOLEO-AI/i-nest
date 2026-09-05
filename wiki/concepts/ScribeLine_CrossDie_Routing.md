@@ -27,14 +27,17 @@ Auto-extracted concept from raw material compilation.
 [[CrossbarArrayVLSI]]
 [[Express_Link_Virtualization]]
 [[GlobalDecision_LocalExecution_ControlPlane]]
+[[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Interconnect_Topology]]
 [[MicroRouter_Embedding]]
 [[NCCLCollectiveCommunicationMapping]]
 [[Network_Topology_Design]]
+[[OpticalNeuralNetworkTopology]]
 [[SDI_Bond]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

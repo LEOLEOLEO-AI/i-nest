@@ -28,11 +28,13 @@ Auto-extracted concept from raw material compilation.
 [[AI_Driven_Power_Density_Scaling]]
 [[AdaptiveGraphDiffusion]]
 [[Adaptive_Intelligence_Principle]]
+[[Adaptive_Service_Orchestration]]
 [[Additive_Manufacturing_Supply_Chain]]
 [[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration]]
 [[CrossDomain_Integration]]
 [[CrossbarArrayPrecision]]
 [[FeFET_Polarization_Switching]]
@@ -50,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[OpticalIonicMemory]]
 [[Process_Recycling_Paradigm]]
+[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

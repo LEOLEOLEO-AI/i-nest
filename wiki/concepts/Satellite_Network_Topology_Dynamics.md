@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[OpportunisticRouting]]
 [[P_Paradigm]]
+[[ReputationPropagation]]
 [[TCC]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]

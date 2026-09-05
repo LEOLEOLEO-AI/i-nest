@@ -29,8 +29,10 @@ Auto-extracted concept from raw material compilation.
 [[3d]]
 [[AI-ML — 全景导航 (Map of Content)]]
 [[AI人工智能 卷积神经网络（CNN）_w3cschool]]
+[[ANN动力学]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration]]
 [[Complex_System_Theory]]
 [[Emergent_Intelligence]]
 [[Heterogeneous_Integration]]
@@ -44,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

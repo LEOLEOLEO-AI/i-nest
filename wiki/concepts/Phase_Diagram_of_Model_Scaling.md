@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
 [[TCC]]
+[[b10_ScalingFactor]]
 [[神经网络]]
 
 ## Sources

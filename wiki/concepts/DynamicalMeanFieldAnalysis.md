@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[AttentionLikeHebbianMechanism]]
 [[AttentionMap_DifferenceResidual]]
 [[Attention_ResidualCancellation]]
+[[Biological_Circuit_Formalization]]
 [[Complex_System_Theory]]
 [[EmergentBeatPatternResolution]]
 [[Intelligence_Emergence]]

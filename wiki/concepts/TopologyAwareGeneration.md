@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
 [[ComputationEfficientDeepLearning]]
+[[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Deep_Network_Architecture_Invariant]]
 [[EfficientDeepLearning]]
 [[EmergentIntelligence_Spacetime]]
@@ -60,6 +61,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologicalAndersonChernInsulator]]
 [[complex system]]
 [[iNEST]]
+[[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources

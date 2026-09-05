@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[Entropy_Connectivity_Path]]
+[[Fixed_Cost_Dominance]]
 [[FormalLinguisticCompetence]]
 [[Gut_Brain_Immune_Network]]
 [[HierarchicalBayesianCommunityDetection]]

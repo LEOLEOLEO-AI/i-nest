@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[P_Paradigm]]
 [[PacketRoutingOptimization]]
+[[RuntimeTopologyMapping]]
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SDI节点接口规范与化合键定义]]
@@ -56,6 +57,8 @@ Auto-extracted concept from raw material compilation.
 [[SystemLevelNonlinearity]]
 [[System_Level_Utility_Control]]
 [[Textbook_Paradigm_Definition]]
+[[Wafer_Scale_Integration]]
+[[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
 

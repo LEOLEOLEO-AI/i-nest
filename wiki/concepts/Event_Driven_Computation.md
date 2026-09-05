@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenSignalEncoding]]
 [[EventDrivenTracking]]
 [[Event_Driven_Architecture]]
+[[Event_Driven_Communication]]
 [[Event_Driven_Processing]]
 [[Interconnect_Routing]]
 [[Military_AI_Revolution]]

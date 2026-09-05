@@ -65,6 +65,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[TCC_RTC原语架构与SDI拓扑变换机理]]
 [[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[TopologyFragility]]
+[[chiplet interconnect]]
 [[complex system]]
 [[iNEST]]
 [[共时分享_复杂社会系统中的涌现行为及动力学模式]]
@@ -74,4 +75,5 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[涌现动力学如何用来分析复杂系统？]]
 [[研究进展：AI+新材料，5篇类脑智能]]
 [[神经网络]]
+[[自动微分•自组织生长_ 打造新一代的自组织生长模型]]
 [[集合通信NaaS完整报告]]

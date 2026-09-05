@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AmorphousTopologicalSubstrate]]
 [[BoundaryContract]]
 [[BoundaryObject_Abstraction]]
+[[CST_Intelligence_Emergence_Theory]]
 [[CellularSheaf]]
 [[ChiralSurfaceFermiProjection]]
 [[CircuitTopologySearch]]

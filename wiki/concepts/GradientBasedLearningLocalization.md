@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[BioPlausiblePredictiveCoding]]
 [[BulletTrainScheduling]]
 [[ContinuousTimeSNN]]
+[[CriticalityBasedClassification]]
 [[Criticality]]
 [[CrossEntityPreemptiveWarning]]
 [[Dynamic_Expert_Fusion]]

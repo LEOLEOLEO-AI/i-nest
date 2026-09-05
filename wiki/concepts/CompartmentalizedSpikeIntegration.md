@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveDendriteSNN]]
 [[AnisotropicGaussianPrimitives]]
 [[AnomalousSpinTransport]]
+[[BackflowTransformation]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BigBrainCellularAxis]]
 [[BrainBodyResonance]]

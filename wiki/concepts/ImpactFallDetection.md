@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[ErrorAmplificationLimits]]
 [[EventCameraPoseInput]]
 [[EventCameraTemporalEncoding]]
+[[EventDrivenAttentionMasking]]
 [[Event_Driven_Architecture]]
 [[Event_Driven_Orbital_Object_Pipeline]]
 [[IntrinsicTimingSTDP]]

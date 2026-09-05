@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[DynamicServiceComposition]]
+[[ElectromigrationReliability]]
 [[ErdosRenyi_Graph_Energy_Surface]]
 [[EulaminateOverrepresentation]]
 [[Heterogeneous_Integration]]
@@ -52,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[SoftwareDefinedSystemOnWafer]]
 [[TCC]]
 [[ThirdWaveAI]]
+[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

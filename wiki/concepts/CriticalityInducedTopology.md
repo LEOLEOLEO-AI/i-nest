@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstInterleaving]]
 [[CellEmergence]]
 [[CriticalFixedPoint]]
+[[CriticalityInNetworkComputing]]
 [[Criticality]]
 [[Dynamic_Expert_Fusion]]
 [[EventDrivenRiskAssessment]]

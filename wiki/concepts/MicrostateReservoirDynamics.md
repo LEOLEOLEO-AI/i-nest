@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[ErrorSuppressedPipeline]]
 [[MultipartiteEntanglementFractal]]
 [[NCA_Reservoir]]
+[[Network_Topology_Design]]
 [[NonlinearDynamicalSampling]]
 [[Nonlinear_Gain]]
 [[OpticalReservoirComputing]]
@@ -43,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Physical_Reservoir_Computing]]
 [[ReservoirDynamics]]
 [[Reservoir_Computing]]
+[[SpatialMultiplexingOfVortices]]
 [[ThermalNoiseHarnessing]]
 [[iNEST]]
 

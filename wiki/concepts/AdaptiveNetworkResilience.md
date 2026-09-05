@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Attention_Residuals]]
 [[AutonomousAdaptation]]
+[[CST计量仪]]
 [[Cognitive_Relapse_Architecture]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Roadmap]]

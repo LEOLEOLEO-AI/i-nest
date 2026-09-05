@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
+[[SpikeRatePrecisionTradeoff]]
 [[Spiking neural network]]
 [[SpikingTopologyEvolution]]
 [[Spiking_Neural_Network]]

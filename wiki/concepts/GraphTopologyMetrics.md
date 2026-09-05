@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[DataCenter_Chip_Logic_Compression]]
 [[DeepParsing]]
 [[Differential_Encoding]]
+[[Hippocampal_Topology_Mapping]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]

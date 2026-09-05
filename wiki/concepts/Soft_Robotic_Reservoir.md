@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Categorical_Reservoir_Model]]
 [[CoexistencePhaseDiagram]]
 [[CoexistencePhaseTransition]]
+[[ConnectivityDerivedReservoir]]
 [[Contested_Priors_Mechanism]]
 [[CouplingTopologyMemoryLink]]
 [[Coupling_Topology]]

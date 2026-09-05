@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Complex_Network_Class_Brain_Computing]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Heterogeneous_Integration]]

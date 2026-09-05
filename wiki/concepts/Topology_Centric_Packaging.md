@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Decoupled_Priors]]
 [[GraphBasedSemanticRouting]]
 [[Heterogeneous_Integration]]
+[[HigherOrderTopology]]
 [[Independent_AI_Player_Endgame]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

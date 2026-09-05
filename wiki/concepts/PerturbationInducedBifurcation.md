@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveInference]]
 [[AdaptersInSpikingNetworks]]
 [[AstrocyteInspiredRepair]]
+[[BigBrainCellularAxis]]
 [[Complex_System_Theory]]
 [[DevelopmentalNeuromorphicAdaptation]]
 [[EntropyRegularizedSpikeLoss]]

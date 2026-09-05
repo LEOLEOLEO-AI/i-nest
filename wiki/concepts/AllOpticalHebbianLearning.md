@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[FrozenRandomFeatureExtractor]]
+[[FunctionalInterfaceBlocks]]
 [[GraphNeuralNetworkTemporalFeatureExtraction]]
 [[Heterogeneous_Integration]]
 [[InNetworkAgentRewiring]]

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3D_Integrated_Chiplet_Stacking]]
+[[3d]]
 [[AI_Assisted_Energy_Optimization]]
 [[AddressRedundancyElimination]]
 [[Adjoint_Gradient_Propagation]]
@@ -29,6 +30,10 @@ Auto-extracted concept from raw material compilation.
 [[Arm_Locomotor_Synergy]]
 [[AvalanchePropagation]]
 [[Beyond_Moore_Packaging_Strategy]]
+[[CST_SynergisticCoordination]]
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Stacking]]
 [[iNEST]]
 
 ## Sources

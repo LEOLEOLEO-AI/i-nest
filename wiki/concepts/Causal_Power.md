@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[1M1T1R_SynapticNeuron]]
 [[AI-ML — 全景导航 (Map of Content)]]
 [[AI_Orchestrator]]
+[[AI_Supply_Chain_Increment]]
 [[Complex_System_Theory]]
 [[Effective_Information]]
 [[Intelligence_Emergence]]

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[BiasEvaluationMetrics]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
+[[ComplexValuedSNN]]
 [[Complex_System_Theory]]
 [[DendriticTaskPartitioning]]
 [[Intelligence_Emergence]]

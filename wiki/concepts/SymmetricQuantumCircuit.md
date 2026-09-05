@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect_Topology]]
 [[ComplexTopologicalStructures]]
 [[Complex_System_Theory]]
+[[ComponentLevelMolding]]
 [[CongestionAwareNoCPlacement]]
 [[DirectConnect_Topology]]
 [[Free_Energy_Principle]]
@@ -58,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[Topology_Aware_NoC_Routing]]
+[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

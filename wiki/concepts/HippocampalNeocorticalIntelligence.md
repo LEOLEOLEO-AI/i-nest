@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[DevelopmentalNeuromorphicAdaptation]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
+[[HodgkinHuxleyDynamics]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Memristive_STDP]]

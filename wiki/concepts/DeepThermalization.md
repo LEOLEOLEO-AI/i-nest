@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[Analog_InMemory_Processing]]
 [[AndersonTransition]]
+[[AnisotropicTensileStrength]]
 [[Asymptotic_Exact_Solution]]
 [[CST计量仪]]
 [[Complex_System_Theory]]

@@ -33,11 +33,13 @@ Auto-extracted concept from raw material compilation.
 [[ElectromigrationReliability]]
 [[FloquetTopologicalOrder]]
 [[Heterogeneous_Integration]]
+[[IncidenceBasedRandomWalk]]
 [[Intelligence_Emergence]]
 [[Interconnect_Topology]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[TOOLS]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

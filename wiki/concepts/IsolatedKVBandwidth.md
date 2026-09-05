@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Compute_Centric_NoC]]
 [[DirectConnect_Topology]]
 [[GPU_Exclusivity_Bottleneck]]
+[[GPU_Hegemony_Disruption]]
 [[Heterogeneous_Integration]]
 [[InInterconnectMemory]]
 [[Inference_Workload_Profiling]]
@@ -64,6 +65,8 @@ Auto-extracted concept from raw material compilation.
 [[SparsityAwareInterconnect]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[advanced packaging]]
+[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

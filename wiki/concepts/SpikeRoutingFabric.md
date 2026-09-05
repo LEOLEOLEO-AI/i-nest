@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
+[[SparseTemporalEncoding]]
 [[SpikeBasedGradientDescent]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Forum_Ecosystem]]
 [[AI_Supply_Chain_Increment]]
 [[Analog_InMemory_Processing]]
+[[AnisotropicTensileStrength]]
 [[CST计量仪]]
 [[CommunicationHeterogeneity]]
 [[Complex_System_Theory]]

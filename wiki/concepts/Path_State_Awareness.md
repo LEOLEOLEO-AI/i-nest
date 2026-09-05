@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[DelayPropagationDynamics]]
 [[Emergent_Order_Deep_Belief_Networks]]
 [[EvolvingArchitectureDynamics]]
+[[ExactWiringRouting]]
 [[FeatureBonding]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Intelligence_Emergence]]

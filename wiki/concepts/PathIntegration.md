@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[CulturalDisseminationDynamics]]
 [[Dynamic_Expert_Fusion]]
 [[Edge_Intelligence]]
+[[Electronic_Warfare_Integration]]
 [[EmergentOrder]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]

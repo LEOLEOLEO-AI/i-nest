@@ -1,0 +1,95 @@
+
+============================================================
+  iNEST + TCC Research Pipeline v3.3
+  2026-09-03 06:30
+============================================================
+[06:30:01] [S2] Searching Semantic Scholar (19 queries)...
+[06:30:06]   S2 error (chiplet interconnect wafer-scale routing): <urlopen error [WinError 10054] 远程主机强迫关闭了一个现有的连接。>
+[06:30:12]   S2: 429 rate limited; skip S2 for this run and continue with arXiv/GN
+[06:30:12] [arXiv] Searching arXiv (via proxy, 21 queries)...
+[06:30:14]   arXiv skip irrelevant: Characterizing the Scalability and Performance of Large-Scal
+[06:30:14]   arXiv skip irrelevant: Can Scene Text Recognition Read Rare Compositions?
+[06:30:14]   arXiv skip irrelevant: Intelligent Edge Computing
+[06:30:26]   arXiv skip irrelevant: Geometry-Controlled Magnetic and Electronic Landscapes in An
+[06:30:26]   arXiv skip irrelevant: DART: Aiming for Tail-Delay Control in Reconfigurable Networ
+[06:30:26]   arXiv skip irrelevant: Topological charge switching in trapped polariton condensate
+[06:30:35]   arXiv skip irrelevant: Exceptional Points in Photonics: From Non-Hermitian Physics 
+[06:30:35]   arXiv skip irrelevant: Breaking Cycles for Scalable Fair Ordering in Blockchain Sys
+[06:30:35]   arXiv skip irrelevant: Anti-higher-order Weyl semimetal
+[06:30:42]   arXiv skip irrelevant: Decentralized and Equilibrium-Set-Oriented Stability Analysi
+[06:30:42]   arXiv skip irrelevant: LLM-based Hardware Development with Hierarchical IRs and End
+[06:30:42]   arXiv skip irrelevant: CHIPSMORE: Compute-in-Interconnect and -Memory Chiplets for 
+[06:30:47]   arXiv: batch separator, pausing 10s...
+[06:31:00]   arXiv skip irrelevant: Investigating Hyperparameter Optimization and Transferabilit
+[06:31:00]   arXiv skip irrelevant: WiSDoM: Wireless Sparse Decision Transformer with Mixture-of
+[06:31:00]   arXiv skip irrelevant: RL-based Network Slice Embedding over Space Division Multipl
+[06:31:22]   arXiv skip irrelevant: Characterizing the Scalability and Performance of Large-Scal
+[06:31:22]   arXiv skip irrelevant: Optimal Uniform Pricing for Multi-Interval Dispatch without 
+[06:31:22]   arXiv skip irrelevant: Intelligent Edge Computing
+[06:31:28]   arXiv skip irrelevant: Facet-0: A Robotic Foundation Model for Contact-Rich Precise
+[06:31:28]   arXiv skip irrelevant: Stability of Droop-Controlled Low-Frequency Transmission Lin
+[06:31:28]   arXiv skip irrelevant: Odd-viscosity-induced instability in shear flows
+[06:31:36]   arXiv skip irrelevant: Low-Thrust Trajectory Optimization with Quantum Computing an
+[06:31:36]   arXiv skip irrelevant: Exploring Nonlinear Body Oscillations for Natural Quadruped 
+[06:31:36]   arXiv skip irrelevant: What Is a System? An Interaction-Based Account of Structure-
+[06:31:47]   arXiv: batch separator, pausing 10s...
+[06:31:58]   跳过重复: Conjoint Audio-to-Spikes Encoding and Processing f... [Title: Conjoint Audio-to-Spikes Encoding and Processing for Efficient Neuromorphic Spee]
+[06:31:58]   跳过重复: Non-uniform Memory Partitioning For Low-Power Spik... [Title: Non-uniform Memory Partitioning For Low-Power Spiking Neural Networks]
+[06:31:58]   跳过重复: Event-Driven Language Models with Sparse Neural Ac... [Title: Event-Driven Language Models with Sparse Neural Activity for Neuromorphic Hardwa]
+[06:32:05]   arXiv skip irrelevant: The Rise of Verbal Reinforcement Learning
+[06:32:05]   arXiv skip irrelevant: What, Where, and How: Probing Spatiotemporal Representations
+[06:32:05]   arXiv skip irrelevant: GlossoGen: Emergent Language in Complex Multi-Agent LLM Inte
+[06:32:13]   arXiv skip irrelevant: Evaluating Usability in Biomedical Visualization: Rethinking
+[06:32:13]   arXiv skip irrelevant: Faster Convergence of Multidimensional Approximate Agreement
+[06:32:13]   arXiv skip irrelevant: Hidden Services Protocol for Mixnets
+[06:32:21]   arXiv skip irrelevant: Spatiotemporal Chaos with Extended Spatial Interactions
+[06:32:21]   arXiv skip irrelevant: Temporally constraining source imaging estimates in an under
+[06:32:21]   arXiv skip irrelevant: Background-Free Objectness Learning for Class-Agnostic Detec
+[06:32:28]   arXiv skip irrelevant: Why Multi-Layer Message Passing Works: Completeness Theory f
+[06:32:28]   arXiv skip irrelevant: Higher Structures in Deep Learning
+[06:32:28]   arXiv skip irrelevant: A Networked SIS Epidemic--Opinion Model with Higher-Order In
+[06:32:33]   arXiv: batch separator, pausing 10s...
+[06:33:17]   Insight [1/3]: Predicting Phase Ordering in Chaotic Maps and Coup...
+[06:33:17]   arXiv skip irrelevant: Adaptive Finite-Time Position-Force Control of Teleoperation
+[06:33:17]   arXiv skip irrelevant: From quantum reservoirs to quantum extreme learning machines
+[06:33:26]   Insight [1/3]: A Network Science Perspective on Evaluating Deep G...
+[06:33:26]   arXiv skip irrelevant: A Geometry-Driven, Framework-Agnostic Optimization for Objec
+[06:33:26]   跳过重复: Optimal Transport for Network Comparison: A Review... [Title: Optimal Transport for Network Comparison: A Review with Machine Learning Applica]
+[06:33:33]   arXiv skip irrelevant: Local-to-Global Sentence-Level Graph Reranking for Scientifi
+[06:33:33]   arXiv skip irrelevant: Deterministic Identification over Additive Gaussian Channels
+[06:33:44]   arXiv: batch separator, pausing 10s...
+[06:33:57]   arXiv skip irrelevant: WiSDoM: Wireless Sparse Decision Transformer with Mixture-of
+[06:33:57]   arXiv skip irrelevant: Towards Reproducible Evaluation of Distributed Quantum Circu
+[06:34:02] [arXiv] 2 new papers, 0 errors across 21 queries
+[06:34:02] [GN] Google News RSS...
+[06:36:08]   GN error (TCC): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[06:38:16]   GN error (iNEST): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[06:40:23]   GN error (emergence): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[06:42:30]   GN error (complex-networks): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[06:42:31] [GN] 0 new articles
+
+  Total: 2 new items to inbox
+[06:42:31] [Process] LLM classify (free tier, limit=20)...
+[06:42:56] [Process] Classified: 0
+[06:42:56] [Genspark] Generating research brief...
+[06:42:57] [Genspark] Research brief written: genspark_research_brief.md
+[06:42:57] [Graph] Scanning wiki links...
+[06:44:50] [Graph] 12379 files, 236759 links
+[06:45:49] [Graph] Exported: 12379 nodes, 233338 edges
+[06:45:49] [Graph] 0 missing backlinks
+[06:46:11] [DailyGen] Daily_Action + Focus + Insights generated
+[06:46:11] [Review] Research task proposals refreshed
+
+============================================================
+  Pipeline v3.3 Complete
+  Sources: 0(S2)+2(arXiv)+0(GN) | Written: 2 new papers
+  Processed: 0 | Nodes: 12379 edges: 233338 | Missing links: 0 | Genspark: OK
+  Elapsed: 970s
+============================================================
+[06:46:11] [State] research_state.json updated
+[06:46:12] [Evolution] Evidence + hypotheses updated
+[06:47:12] [Wiki] Warning: Command '['C:\\Users\\LEO\\AppData\\Local\\Programs\\Python\\Python310\\python.exe', 'D:\\Obsidian\\vault\\90_System\\scripts\\wiki_compiler.py']' timed out after 60 seconds
+[06:47:12] [Insight] Cross-domain bridges updated
+[06:47:48] [Tasks] Research recommendations updated
+[06:47:49] [Dashboard] Live dashboard published
+[06:47:49] [Homepage] Home.md auto-refreshed

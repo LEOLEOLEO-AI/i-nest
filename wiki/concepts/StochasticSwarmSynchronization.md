@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalStateInformationMaximization]]
 [[CrossLayer_SignalRouting]]
 [[Data_Debiasing_Techniques]]
+[[DendriticTaskPartitioning]]
 [[DevelopmentalNeuromorphicAdaptation]]
 [[DifferentiableNetworkMetrics]]
 [[EmergentPatternFormation]]

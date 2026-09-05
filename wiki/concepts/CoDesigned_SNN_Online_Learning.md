@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossEntityPreemptiveWarning]]
 [[DrivenCriticalityOptimalityTradeoff]]
 [[EventBasedMotionDeblurring]]
+[[EventDrivenAutoregression]]
 [[EventDrivenMotionDeblurring]]
 [[HardwareInducedBias]]
 [[ImageToEventConversion]]

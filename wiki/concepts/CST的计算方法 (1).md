@@ -42,6 +42,8 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Chiplet_Topology_Interconnect]]
 [[Complex_System_Theory]]
 [[ComponentLevelMolding]]
+[[Concepts-Theory — 全景导航 (Map of Content)]]
+[[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[TCC]]

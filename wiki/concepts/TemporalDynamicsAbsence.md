@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle_Network]]
 [[Master_SDDE]]
 [[Memristive_STDP]]
+[[Memristor_Synapse]]
 [[Microgrid_Optimization]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]

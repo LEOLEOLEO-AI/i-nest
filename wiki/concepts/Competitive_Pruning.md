@@ -30,7 +30,9 @@ Auto-extracted concept from raw material compilation.
 [[Agile_Resilient_Defense_Ecosystem]]
 [[AllOpticalHebbianLearning]]
 [[Analog_Synaptic_Behavior]]
+[[AnytimePointCloudRecognition]]
 [[Neuromorphic_Computing]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 
 ## Sources

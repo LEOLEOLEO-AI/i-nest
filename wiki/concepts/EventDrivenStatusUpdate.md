@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenRiskAssessment]]
 [[EventDrivenSpectralProcessing]]
 [[EventDrivenTracking]]
+[[Event_Driven_Communication]]
 [[FirstTimestepConversion]]
 [[FixedOverheadFloor]]
 [[Neuromorphic_Computing]]

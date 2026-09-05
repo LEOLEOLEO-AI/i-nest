@@ -59,6 +59,8 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TemporalComplexity]]
 [[Wafer_Scale_Interconnect]]
+[[Wafer_Scale_Interconnect_Topology]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[CommunicationAwareComputeRelocation]]
 [[CouplingMatrixRecovery]]
 [[Criticality]]
+[[CrossInstitutionalNetwork]]
 [[DARPA_ProjectManager_Model]]
 [[DisorderInducedEntanglementTransition]]
 [[Dynamic_Expert_Fusion]]

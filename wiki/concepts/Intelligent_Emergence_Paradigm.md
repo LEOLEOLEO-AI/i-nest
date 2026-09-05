@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[ClosedLoopNeuromorphicControl]]
 [[Intelligence_Emergence]]
 [[Neuromorphic_Computing]]
+[[TemporalLearning]]
 [[iNEST]]
 [[neuromorphic substrate]]
 

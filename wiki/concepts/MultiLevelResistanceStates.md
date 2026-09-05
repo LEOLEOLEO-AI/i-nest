@@ -27,9 +27,14 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[ANN动力学]]
 [[AdaptiveNetworkResilience]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
+[[BehavioralNeuromorphicCorrelates]]
+[[Complex_System_Theory]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[iNEST]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

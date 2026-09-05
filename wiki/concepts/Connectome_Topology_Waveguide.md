@@ -21,6 +21,8 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3D_Airborne_Connectivity_Characterization]]
+[[3d]]
+[[AdaptiveFlexibilityThreshold]]
 [[Additive_Manufacturing_Defense_Trinity]]
 [[Autonomous_Physical_Computation]]
 [[BackflowTransformation]]

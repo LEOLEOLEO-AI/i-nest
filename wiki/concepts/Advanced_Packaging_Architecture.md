@@ -22,14 +22,17 @@ Auto-extracted concept from raw material compilation.
 
 [[1024_Card_SuperNode]]
 [[2_5D_PIM_Chiplet_Integration]]
+[[3DHI_Chiplet_Integration]]
 [[3D_IC_Stacking]]
 [[3d]]
 [[Advanced_Packaging]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[TCC]]
+[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

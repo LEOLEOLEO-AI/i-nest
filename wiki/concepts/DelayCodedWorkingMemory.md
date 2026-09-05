@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[ContinuousTimeSNN]]
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[CrossLayer_SignalRouting]]
+[[DirectTrainingSNN]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[EnergyEfficientNeuromorphic]]

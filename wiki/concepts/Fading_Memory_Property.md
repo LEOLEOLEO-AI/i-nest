@@ -70,6 +70,7 @@ Auto-extracted concept from raw material compilation.
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
+[[研究进展：AI+新材料，5篇类脑智能]]
 [[神经形态脉冲大语言模型（NSLLM）]]
 [[神经网络]]
 

@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[ChiralSymmetryClasses]]
 [[Complex_System_Theory]]
 [[Deep_Thermalisation]]
+[[EndToEndLinkSimulation]]
 [[FloquetTopologicalOrder]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[GlobalDecision_LocalExecution_ControlPlane]]
@@ -53,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[SelfOrganization]]
 [[SiliconPhotonicsNetwork]]
 [[TCC]]
+[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

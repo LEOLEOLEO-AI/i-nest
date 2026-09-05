@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[CulturalDisseminationDynamics]]
 [[CurrentInjectionSNN]]
 [[DivergentHigherAreaRanking]]
+[[Edge_Intelligence]]
 [[ExplosiveTransitionThreshold]]
 [[HardwareAware_DesignSpace]]
 [[Nature Communications_生物神经网络中突触多样性如何让人工神经网络更强大？]]

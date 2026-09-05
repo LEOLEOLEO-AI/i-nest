@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[3D_IC_Stacking]]
 [[3d]]
 [[AI_Faculty_Forum_2026]]
+[[AdvancedPackagingInterconnect]]
 [[Attention_Residuals]]
 [[BackpropagationFreeLearning]]
 [[Chiplet]]
@@ -61,6 +62,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
 [[Wafer_Scale_Neuromorphic_Topology]]
+[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

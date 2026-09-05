@@ -20,12 +20,15 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AutonomousAdaptation]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Roadmap]]
 [[EnsembleSparsity]]
 [[FPGA_Neuromorphic_Architectures]]
 [[Intelligence_Emergence]]
 [[LLM_Driven_NoC_Control]]
+[[Memristor]]
+[[Memristor_Synapse]]
 [[Mesoscale_Neural_Dynamics]]
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
@@ -35,6 +38,9 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[SelfMotivatedGrowth]]
+[[Synaptic_Plasticity]]
+[[Wafer_Scale_Integration]]
+[[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
 

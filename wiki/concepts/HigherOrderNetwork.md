@@ -33,8 +33,10 @@ Auto-extracted concept from raw material compilation.
 [[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[BoundaryObject_Abstraction]]
+[[Chemical_Bond_Operation_Algebra]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration]]
 [[CircuitTopologySearch]]
 [[CrossLingualIdiomGraph]]
 [[Heterogeneous_Integration]]
@@ -45,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[TCC]]
 [[TopologicalDataCompression]]
+[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[3nm_Autonomous_Driving_Chip]]
 [[AI-ML — 全景导航 (Map of Content)]]
 [[Analog_InMemory_Processing]]
+[[AnisotropicTensileStrength]]
 [[CST计量仪]]
 [[CommunicationHeterogeneity]]
 [[Complex_System_Theory]]

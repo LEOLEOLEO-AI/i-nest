@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[DevelopmentalNeuromorphicAdaptation]]
 [[DistinctReentrantPhases]]
 [[Intelligence_Emergence]]
+[[KV_Cache_to_BoundaryObject_Transition]]
 [[Loihi2_OnChip_Learning]]
 [[Loihi]]
 [[Memristive_Interconnect]]

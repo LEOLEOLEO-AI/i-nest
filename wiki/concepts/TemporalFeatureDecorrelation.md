@@ -60,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[emerging CMOS memristor]]
 [[iNEST]]
 [[神经形态脉冲大语言模型（NSLLM）]]
+[[神经形态计算]]
 [[神经网络]]
 
 ## Sources

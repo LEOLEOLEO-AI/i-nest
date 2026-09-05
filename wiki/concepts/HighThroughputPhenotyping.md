@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Cross_Node_Event_Propagation]]
 [[DARPA_ProjectManager_Model]]
 [[ERI_2_0_Strategic_Framework]]
+[[Efficient_Coding_Constraint]]
 [[FPGA_Neuromorphic_Architectures]]
 [[FastSlow_Dynamics]]
 [[FixedOverheadCost]]

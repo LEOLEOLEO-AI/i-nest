@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Edge_Neuromorphic_Compute]]
 [[EventBasedGestureEncoding]]
 [[EventDrivenControlLoop]]
+[[EventDrivenTemplateUpdate]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
 [[SNN]]

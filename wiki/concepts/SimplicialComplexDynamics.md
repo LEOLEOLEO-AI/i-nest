@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[BackpropagationFreeLearning]]
 [[CST计量仪]]
 [[ChipletWaferInterconnectTopology]]
+[[ChipletWaferTopologyCoDesign]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
@@ -59,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TemporalComplexity]]
 [[TopologicalSignals]]
+[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

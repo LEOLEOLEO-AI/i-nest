@@ -27,8 +27,10 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[EulaminateOverrepresentation]]
+[[Heterogeneous_Integration]]
 [[Interconnect_Topology]]
 [[Memory_Wall]]
+[[Mesoscale_Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC]]
@@ -39,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Topology]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

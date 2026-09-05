@@ -16,8 +16,10 @@ SDI, iNEST, 拓扑, 芯粒
 
 ## Related Concepts
 
+[[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
+[[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]
 [[TCC]]

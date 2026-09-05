@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[MultiplicativeGain]]
 [[NCCL_CollectivePrimitives]]
 [[Network_Topology_Design]]
+[[ScaleHierarchy_Decomposition]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]

@@ -27,10 +27,13 @@ Auto-extracted concept from raw material compilation.
 [[BranchingRatio]]
 [[Catastrophic_Forgetting_Mitigation]]
 [[Contested_Priors_Architecture]]
+[[CriticalStateDynamics]]
 [[Criticality]]
 [[Neural_Avalanche]]
 [[Neuromorphic_Computing]]
+[[SNN]]
 [[Self_Organized_Criticality]]
+[[Spiking_Neural_Network]]
 [[iNEST]]
 
 ## Sources

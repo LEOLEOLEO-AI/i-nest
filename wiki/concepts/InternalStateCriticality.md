@@ -41,10 +41,12 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[NeuronalCriticality]]
 [[NonEquilibriumComputing]]
+[[NonEquilibriumPhaseTransition]]
 [[OptimalRepresentationCriticality]]
 [[OptimalRepresentation]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Self_Organized_Criticality]]
+[[Synaptic_Plasticity]]
 [[complex system]]
 [[iNEST]]
 

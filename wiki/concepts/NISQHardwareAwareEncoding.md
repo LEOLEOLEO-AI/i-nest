@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[CouplingMatrixRecovery]]
 [[CouplingTopologyMemoryLink]]
 [[Coupling_Topology]]
+[[CriticalStateReservoir]]
 [[CrossInstitutionalNetwork]]
 [[Crystallized_Neural_Manifolds]]
 [[DataDrivenMaterialDesign]]

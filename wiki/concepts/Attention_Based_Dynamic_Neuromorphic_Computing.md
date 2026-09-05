@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Deep_Brain_Stimulation]]
 [[Adaptive_Intelligence_Principle]]
 [[Adaptive_Service_Orchestration]]
+[[AnytimePointCloudRecognition]]
 [[Dynamic_Neuromorphic_Computing]]
 [[Neuromorphic_Computing]]
 [[iNEST]]

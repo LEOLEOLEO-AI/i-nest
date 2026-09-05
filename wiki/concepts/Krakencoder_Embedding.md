@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[getnote_2026-01-03_16 介观峰值定理对晶上大脑的工程指导]]
 [[getnote_2026-01-12_数字孪生大脑工程化路径]]
 [[getnote_2026-01-12_晶圆级神经网络能效革命]]
+[[getnote_2026-01-25_清华团队类脑计算突破]]
 [[getnote_2026-06-28_从固定拓扑到液态拓扑计算]]
 [[getnote_2026-06-28_海河实验室项目指南_中间版本_]]
 [[iNEST]]

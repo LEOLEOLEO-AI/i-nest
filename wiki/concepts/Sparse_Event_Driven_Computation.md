@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[BioPlausiblePredictiveCoding]]
 [[BurstGatedRouting]]
 [[ContinualLearningOnNeuromorphic]]
+[[Continuous_Spatiotemporal_State_Propagation]]
 [[Event_Driven_Architecture]]
 [[Event_Driven_Computation]]
 [[Interconnect_Routing]]

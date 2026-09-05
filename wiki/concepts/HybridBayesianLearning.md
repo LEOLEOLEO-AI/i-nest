@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[AI4PDE｜综述·论文推荐 08｜物理信息神经网络在偏微分方程问题中的应用：全面综述]]
 [[AINext_Initiative]]
 [[Analog_InMemory_Processing]]
+[[AnisotropicTensileStrength]]
 [[Asymptotic_Exact_Solution]]
 [[CST计量仪]]
 [[Complex_System_Theory]]

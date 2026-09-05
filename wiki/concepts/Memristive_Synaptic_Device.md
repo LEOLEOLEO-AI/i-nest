@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[OptoelectronicIGZO_RRAM]]
 [[SNN]]
 [[STDP_Plasticity]]
+[[SolitonLikeWaves]]
 [[Spiking_Neural_Network]]
 [[StateAugmentedLearning]]
 [[Synaptic_Plasticity]]

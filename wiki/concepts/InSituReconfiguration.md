@@ -47,7 +47,9 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Inference_Workload_Profiling]]
 [[Intelligence_Emergence]]
+[[Interconnect_Routing]]
 [[Interconnect_Topology]]
+[[Logic_Folding]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC]]
@@ -55,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

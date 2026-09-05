@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[SDDE_Attractor_Emergence]]
 [[SNN]]
+[[SpectralSupportAnalysis]]
 [[SpikeTimingDependentUpdate]]
 [[SpikeTimingFidelity]]
 [[SpikeTimingGradient]]

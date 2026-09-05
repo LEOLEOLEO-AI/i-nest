@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Cryogenic_Syndrome_Compression]]
 [[Crystallized_Neural_Manifolds]]
 [[Defect_Mediated_Transport]]
+[[DendriticTaskPartitioning]]
 [[DevelopmentalNeuromorphicAdaptation]]
 [[EmergentOrder]]
 [[FrozenRateOperator]]

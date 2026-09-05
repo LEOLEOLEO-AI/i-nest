@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Neuromorphic_Acceleration]]
 [[FirstPrinciples_AI]]
 [[GeneralIntelligenceSubstrate]]
+[[Haltability]]
 [[Hardware_Software_CoDesign]]
 [[IMPLY_ISA]]
 [[Intellectual_Base]]

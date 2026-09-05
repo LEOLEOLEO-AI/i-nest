@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[12_三原理协同_FEP_最小作用量_STDP]]
 [[3d]]
 [[AI-ML — 全景导航 (Map of Content)]]
+[[AI4PDE｜综述·论文推荐 08｜物理信息神经网络在偏微分方程问题中的应用：全面综述]]
 [[AIRA_NeuralArchSearch]]
 [[AI_Autonomous_Control]]
 [[AI_FullSpectrum_Strategy]]

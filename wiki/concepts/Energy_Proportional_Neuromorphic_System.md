@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[BoundaryObject_Abstraction]]
 [[BrainActivityPrediction]]
 [[BrainBodyResonance]]
+[[ClosedLoopNeuromorphicControl]]
 [[Neuromorphic_Computing]]
 [[SpikeEncoding]]
 [[Spiking_Neural_Network]]

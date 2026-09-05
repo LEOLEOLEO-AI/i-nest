@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[3D_Torus_6_Degree]]
 [[3d]]
 [[AdaptiveFunctionalTopology]]
+[[BarrierConditionedTrajectory]]
 [[BrownianCastleInterface]]
 [[CollectiveSpikingDynamics]]
 [[CriticalNormBoundary]]

@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[OpenEndedDiscovery]]
 [[OpenLearningEcosystem]]
+[[OptimalControlPolicyLearning]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[涌现]]

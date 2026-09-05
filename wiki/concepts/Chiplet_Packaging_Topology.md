@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AdvancedPackagingInterconnect]]
 [[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
+[[ApproximationFidelityTradeoff]]
 [[Chiplet]]
 [[Chiplet_Based_Trusted_Hardware]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -60,6 +61,8 @@ Auto-extracted concept from raw material compilation.
 [[Spaceborne_Computing_Architecture]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[advanced packaging]]
+[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

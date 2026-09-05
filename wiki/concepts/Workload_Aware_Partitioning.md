@@ -41,7 +41,9 @@ Auto-extracted concept from raw material compilation.
 [[Advanced_Packaging_for_Space]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration]]
 [[Chiplet_Stacking]]
+[[ChiralSymmetryClasses]]
 [[CoPackagedOptics]]
 [[Complex_System_Theory]]
 [[Heterogeneous_Integration]]
@@ -52,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologyAwareStateMigration]]
 [[Workload_Adaptive_Resource_Provisioning]]
+[[advanced packaging]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

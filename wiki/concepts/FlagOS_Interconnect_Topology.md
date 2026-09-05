@@ -56,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[OptomechanicalNonlinearity]]
 [[Post_Moore_Standard_Definition]]
+[[ReproducibleReservoirDynamics]]
 [[SuperparamagneticSwitchingRate]]
 [[Swarm_Coordination]]
 [[TCC]]

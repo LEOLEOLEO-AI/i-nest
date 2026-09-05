@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[PropertyPredictionModeling]]
 [[QuantumAnnealerSynapticTest]]
 [[Resilient_Satellite_Constellations]]
+[[RoleGeometryEmbedding]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

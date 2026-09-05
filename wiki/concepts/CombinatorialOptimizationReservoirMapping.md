@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AdsorptionBiosorptionHybrid]]
 [[Alignment_Tax]]
 [[AlternativeBridgingModels]]
+[[AndersonTransition]]
 [[AnisotropicGaussianPrimitives]]
 [[Categorical_Closure_Criterion]]
 [[CouplingTopologyInducedDynamics]]

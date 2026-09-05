@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveTopologyBreakthrough]]
 [[Self_Organized_Criticality]]
 [[TCC]]
+[[TaskGradientPropagation]]
 [[analog computation]]
 
 ## Sources

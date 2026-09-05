@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossLayer_SignalRouting]]
 [[DirectTrainingSNN]]
 [[Direct_Training_Spiking_Neural_Networks]]
+[[ElectronicBurstingNeuron]]
 [[EnergyEfficientNeuromorphic]]
 [[EventCameraPoseInput]]
 [[EvolutionarySpikeTimingOptimization]]

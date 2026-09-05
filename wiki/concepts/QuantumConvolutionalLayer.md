@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Annealing_Based_Decoder]]
 [[AsymmetricStochasticInteractions]]
 [[AttentionLikeHebbianMechanism]]
+[[AttentionMap_DifferenceResidual]]
 [[Complex_System_Theory]]
 [[ConformalFieldTheoryScaling]]
 [[DynamicalMeanFieldAnalysis]]

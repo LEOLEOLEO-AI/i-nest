@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3D_TokSIM_Architecture]]
 [[AI_Faculty_Forum_2026]]
 [[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
@@ -49,6 +50,8 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[SOC]]
 [[StorageCompute_SeparationBottleneck]]
+[[StorageCompute_Separation]]
+[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

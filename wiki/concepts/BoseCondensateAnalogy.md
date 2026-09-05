@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[BayesianDomainEvolution]]
 [[BehavioralFeedbackLoop]]
 [[CST计量仪]]
+[[CertifiedBifurcationDetection]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
 [[DARPA_3DHI_Roadmap]]

@@ -83,6 +83,8 @@ Auto-extracted concept from raw material compilation.
 [[SystemLevelNonlinearity]]
 [[TCC]]
 [[TemporalComplexity]]
+[[UniversalIntelligence_Emergence]]
+[[chiplet interconnect]]
 [[complex system]]
 [[iNEST]]
 [[residual connection]]

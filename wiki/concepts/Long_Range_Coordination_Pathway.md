@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[BigBrainCellularAxis]]
 [[Bipartite_Interconnect]]
 [[Bipartite_Interconnect_Design]]
 [[EmergentOrder]]
@@ -31,10 +32,14 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[LLM_Driven_NoC_Control]]
 [[MemristiveSynapticFatigue]]
+[[Memristor]]
+[[Memristor_Synapse]]
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
 [[NoC]]
 [[Spiking_Neural_Network]]
+[[Wafer_Scale_Integration]]
+[[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
 

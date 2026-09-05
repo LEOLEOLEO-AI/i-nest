@@ -26,7 +26,6 @@ Auto-extracted concept from raw material compilation.
 [[BackpropagationFreeLearning]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
 [[Complex_System_Theory]]
 [[Decoupled_Priors]]
 [[DiagnosticReportFramework]]
@@ -52,7 +51,9 @@ Auto-extracted concept from raw material compilation.
 [[SoftwareDefinedSystemOnWafer]]
 [[Software_Defined_Interconnect]]
 [[TCC]]
+[[ThirdWaveAI]]
 [[TopologyProgramming]]
+[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

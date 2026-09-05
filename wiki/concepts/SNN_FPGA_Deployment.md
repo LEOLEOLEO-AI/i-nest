@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspired_Interception_Control]]
 [[CirculateFiringNeuron]]
 [[CorticalWaveRouting]]
+[[CriticalityDrivenStateTransition]]
 [[Interconnect_Routing]]
 [[MoE_Routing]]
 [[Neuromorphic_Computing]]

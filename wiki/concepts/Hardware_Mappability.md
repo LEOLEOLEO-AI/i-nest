@@ -21,15 +21,19 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[CST_MasterEquation]]
+[[Complex_System_Theory]]
 [[Decoupled_Priors]]
 [[Defense_Industrial_Base_Reshaping]]
 [[Emergent_Topological_Alignment]]
 [[EnergyOptimizedManycoreArchitecture]]
+[[FlagScale]]
 [[FlagScale_Training_Inference]]
 [[Independent_EdgeAI_Player_Endgame]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[TCC]]
+[[WaferScaleSubstrate]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -39,6 +39,8 @@ Auto-extracted concept from raw material compilation.
 [[CellularSheaf]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration]]
+[[ChiralSurfaceFermiProjection]]
 [[Complex_System_Theory]]
 [[CriticalPointControl]]
 [[DelayTolerantNetworkUAV]]

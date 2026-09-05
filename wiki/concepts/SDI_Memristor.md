@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Network_Architecture_Invariant]]
 [[Memristor]]
 [[Memristor_Synapse]]
+[[Mesoscale_Heterogeneous_Integration]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[SDI_Bond]]

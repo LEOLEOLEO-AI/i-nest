@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[PowerLaw_Analysis]]
 [[SDDE_Attractor_Emergence]]
 [[SNN]]
+[[SNN_NonIdeality_Modeling]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

@@ -54,6 +54,8 @@ Auto-extracted concept from raw material compilation.
 [[SafetyThresholdAsSpikingThreshold]]
 [[SelfOrganization]]
 [[SpikeEncodingLatency]]
+[[SpikeEncoding]]
+[[SpikeEventScheduling]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[TopologicalInvariancePrinciple]]

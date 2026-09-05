@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[OpenSource_Neuromorphic_Framework]]
 [[Open_Source_Research_Stack]]
+[[OptimalRepresentations]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]
 [[SDI_TCC_iNEST_Bridge]]

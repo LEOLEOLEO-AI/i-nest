@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[HybridCouplingThermosensitiveNetwork]]
 [[InSitu_Adjoint_Wave_Control]]
 [[IncidenceMatrixPropagation]]
+[[Inference_Workload_Profiling]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[JunctionCenteredRouting]]

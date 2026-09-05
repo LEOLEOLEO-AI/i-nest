@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
+[[Fading_Memory_Property]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Minimal_Computational_Unit]]

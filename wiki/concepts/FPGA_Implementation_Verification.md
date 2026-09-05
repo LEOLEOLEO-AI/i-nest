@@ -21,15 +21,19 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AutonomousServiceNegotiation]]
+[[BigBrainCellularAxis]]
 [[DynamicServiceComposition]]
 [[FPGA_Accelerated_SNN]]
 [[Quantization_HLS_Conversion]]
+[[SDI_Bond]]
 [[SDI_iNEST_Interconnect]]
 [[SDSoW]]
+[[SDSoW_Architecture]]
 [[SNN]]
 [[SNNtoFPGADesignFlow]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
+[[iNEST_Interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

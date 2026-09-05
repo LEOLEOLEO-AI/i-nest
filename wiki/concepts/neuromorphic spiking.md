@@ -40,6 +40,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Ion_Modulated_Synaptic_Plasticity]]
 [[IonotronicPhotoplasticity]]
 [[Neuromorphic_Computing]]
+[[NoiseInducedPhaseLocking]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]
 [[Spiking neural network]]

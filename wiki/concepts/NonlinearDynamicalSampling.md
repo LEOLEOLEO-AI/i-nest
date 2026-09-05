@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityInducedTopology]]
 [[Criticality]]
 [[DelayAwareSpikeEventDelivery]]
+[[EcosystemTopologyCoupling]]
 [[EventDrivenAutoregression]]
 [[EventDrivenDefenseMechanism]]
 [[EventDrivenInference]]

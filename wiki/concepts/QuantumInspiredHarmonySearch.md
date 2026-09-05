@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Epithelial_Barrier_Integrity]]
 [[Heterogeneous_Integration]]
+[[Hyper_Dimensional_Computing]]
 [[Intelligence_Emergence]]
 [[Intelligent_Power_Management]]
 [[JointEmbeddingPredictiveArchitecture]]

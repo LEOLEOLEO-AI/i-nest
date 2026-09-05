@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration]]
 [[Chiplet_Integration_Route]]
 [[Chiplet_Interconnect]]
 [[Contested_Prior_Resolution]]
@@ -54,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[ScaleFreeNetwork]]
+[[SparseTemporalEncoding]]
 [[SpikeEncoding]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
@@ -64,6 +66,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[神经网络]]
 

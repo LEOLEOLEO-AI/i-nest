@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveSpeechToSpikeEncoding]]
 [[Bio_plausible_Neuromorphic_Disturbance_Observer]]
 [[BrainBodyResonance]]
+[[CompetitiveProgramDynamics]]
 [[Controlled_Release_Kinetics]]
 [[Dynamic_Expert_Fusion]]
 [[ExplainableEnergyAI]]

@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Hierarchical_Bayesian_Inference]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
+[[Mesoscale_Physical_Computing_Framework]]
 [[Microfluidic_Worm_Trap_Array]]
 [[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AIRA_NeuralArchSearch]]
 [[AI_Faculty_Forum_2026]]
 [[ActionPrototypeClustering]]
+[[Alignment_Tax]]
 [[AstrocyteInspiredRepair]]
 [[Complex_System_Theory]]
 [[Neuromorphic_Computing]]

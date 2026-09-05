@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspiredLearningRule]]
 [[BioPlausibleDisturbanceObserver]]
 [[BrainBodyResonance]]
+[[BranchingRatioControl]]
 [[CascadedAdaptiveCombiners]]
 [[Catastrophic_Forgetting_Mitigation]]
 [[ChannelEventSparsity]]

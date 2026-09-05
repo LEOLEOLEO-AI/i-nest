@@ -30,12 +30,17 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Stacking]]
 [[HBM_Replacement_Interconnect]]
 [[HeterogeneousInference]]
+[[Heterogeneous_Integration]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC]]
+[[NoC_SDI]]
 [[NoC_SDI_Topology]]
 [[P_Paradigm]]
+[[Photonic_Chiplet_Interconnect]]
+[[SDI_Bond]]
+[[SDI_Topology]]
 [[TCC]]
 
 ## Sources

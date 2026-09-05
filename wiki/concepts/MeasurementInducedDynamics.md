@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[3d]]
 [[AI_Application_Scenario_Reconstruction]]
 [[AdaptiveGraphDiffusion]]
+[[Adaptive_Intelligence_Principle]]
 [[AdjointWaveControl]]
 [[AnalogDomainCompressiveSensing]]
 [[AndersonTransition]]

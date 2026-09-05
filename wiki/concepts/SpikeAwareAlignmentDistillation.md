@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveSpeechToSpikeEncoding]]
 [[AsynchronousEventDrivenComputation]]
 [[BurstCoding]]
+[[CascadedAdaptiveCombiners]]
 [[CirculateFiringNeuron]]
 [[Complex_System_Theory]]
 [[Controlled_Release_Kinetics]]

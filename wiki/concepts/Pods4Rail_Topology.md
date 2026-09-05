@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[MatrixShapePhaseTransition]]
+[[MultiSourceTaskonomy]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

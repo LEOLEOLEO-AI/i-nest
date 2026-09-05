@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[ActivityAvalanche]]
 [[AdaptiveArchitecture]]
+[[Adaptive_Intelligence_Principle]]
 [[AmoebaInspiredLocomotion]]
 [[BioInspired_Interception_Control]]
 [[Cognitive_Relapse_Architecture]]

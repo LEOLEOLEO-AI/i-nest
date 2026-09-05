@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[EventCameraActionRecognition]]
 [[Fractal_Entanglement_Scaling]]
+[[FunctionalInterfaceBlocks]]
 [[Heterogeneous_Integration]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]

@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Multiplex_Epidemic_Threshold]]
 [[Nanoparticle_Network_Interconnect]]
 [[Network_Topology_Design]]
+[[NeuralQuadraticForms]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
 [[TCC]]

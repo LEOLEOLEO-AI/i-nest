@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[DistinctReentrantPhases]]
 [[ERI_2_0_Strategy]]
 [[EpoxyMoldingCompoundFlow]]
+[[EvanescentFieldTrapping]]
 [[Fractal_Scaling]]
 [[ImaginaryGaugePhaseImprint]]
 [[Intelligence_Emergence]]

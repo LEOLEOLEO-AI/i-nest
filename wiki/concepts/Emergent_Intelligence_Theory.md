@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[CollectiveDynamics]]
 [[Complex_System_Theory]]
 [[ComputationEfficientDeepLearning]]
+[[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Constructed_Reality_Interconnect]]
 [[Deep_Network_Architecture_Invariant]]
 [[ERI_2_0_Strategic_Framework]]

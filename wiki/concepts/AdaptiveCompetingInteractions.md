@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Cognitive_Relapse_Architecture]]
 [[Cognitive_Relapse_Decoupling]]
+[[CommunicationAwareComputeRelocation]]
 [[DTGA]]
 [[Dimensionality_Modularity_Tradeoff]]
 [[DynamicCentralitySteering]]

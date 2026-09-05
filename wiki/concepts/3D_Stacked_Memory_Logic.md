@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Advanced_Packaging_for_Space]]
 [[ApproximationFidelityTradeoff]]
 [[CoPackagedOptics]]
+[[Efficient_Coding_Constraint]]
 [[InNetworkFieldQuery]]
 [[In_Memory_Computing]]
 [[Memory_Wall]]
@@ -33,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[TCC]]
 [[TCC_Topology]]
+[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

@@ -51,8 +51,10 @@ Auto-extracted concept from raw material compilation.
 [[InterconnectConstrainedEmergence]]
 [[Interconnect_Topology]]
 [[ModelToChipCompilation]]
+[[Multimodal_Network_SDI]]
 [[Network_Topology_Design]]
 [[TCC]]
+[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

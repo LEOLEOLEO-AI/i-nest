@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[CombinatorialOptimizationReservoirMapping]]
 [[CouplingTopologyInducedDynamics]]
 [[CriticalFixedPoint]]
+[[Critical_Exponent_Scaling]]
 [[Criticality]]
 [[Criticality_of_Natural_Languages]]
 [[Deep_Thermalisation]]

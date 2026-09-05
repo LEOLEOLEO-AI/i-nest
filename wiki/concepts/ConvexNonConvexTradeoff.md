@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[NoC_Chiplet_iNEST_Wafer]]
+[[OpticalTopologyReconfiguration]]
 [[SDI_Bond]]
 [[SDI_Topology]]
 [[STDP_Plasticity]]

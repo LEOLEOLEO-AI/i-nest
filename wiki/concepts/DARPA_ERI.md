@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[STDP_Plasticity]]
+[[Soldier_Augmentation_BioCyber_Interface]]
 [[Sub_Nyquist_Waveform_Reconstruction]]
 [[Synaptic_Plasticity]]
 [[TCC]]

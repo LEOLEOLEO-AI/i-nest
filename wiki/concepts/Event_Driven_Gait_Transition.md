@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[EventBasedGestureEncoding]]
 [[EventDrivenComputation]]
 [[EventDrivenControlLoop]]
+[[EventDrivenDataAssociation]]
 [[EventDrivenTemplateUpdate]]
 [[Event_Driven_Architecture]]
 [[Event_Driven_Computation]]

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[1024_Card_SuperNode]]
 [[3DHI_Interconnect]]
 [[3d]]
 [[Additive_Manufacturing_Topology]]
@@ -47,12 +48,16 @@ Auto-extracted concept from raw material compilation.
 [[NoC]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[NoC_Chiplet_iNEST_Wafer]]
+[[NoC_SDI]]
 [[NoC_SDI_Topology]]
 [[PhysicalWaferTriplet]]
+[[SDI_Bond]]
+[[SDI_Topology]]
 [[SparseTemporalEncoding]]
 [[TCC]]
 [[Topology_Encapsulation]]
 [[WaferScale_Chiplet_Interconnect]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

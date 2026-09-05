@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[EventBasedAnalogFrontEnd]]
 [[EventDrivenAttentionMechanism]]
 [[EventDrivenTracking]]
+[[EventDrivenTrajectoryEncoding]]
 [[Event_Driven_Architecture]]
 [[Event_Driven_Processing]]
 [[InSensorMemoryComputing]]

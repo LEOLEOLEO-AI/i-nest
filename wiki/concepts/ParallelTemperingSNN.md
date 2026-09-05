@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[SDDE_Attractor_Emergence]]
 [[SNN]]
 [[SNN_NonIdeality_Modeling]]
+[[SpikeCodebookCompression]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking neural network]]
 [[Spiking_Neural_Network]]

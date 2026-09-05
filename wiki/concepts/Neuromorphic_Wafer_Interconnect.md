@@ -20,13 +20,16 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Brain_Scale_Parameter_Baseline]]
 [[CrossbarArrayVLSI]]
+[[Heterogeneous_Integration]]
 [[KeyMaterialStrategy]]
 [[Memristive_Wafer_Neuromorphic_Interconnect]]
 [[Mesoscale_Advantage_Equation]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Interconnect]]
 [[Neuromorphic_Wafer]]
 [[TCC]]
 [[Wafer_Scale_Integration]]

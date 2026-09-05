@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BehaviorPreservingNetworkSparsity]]
 [[Contested_Prior_Resolution]]
 [[CrossLayer_SignalRouting]]
+[[DirectTrainingSNN]]
 [[DiscreteContinuous_Unification]]
 [[Distributed_Spike_Communication]]
 [[EarlyVisualCortexAliasing]]

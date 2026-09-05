@@ -29,8 +29,8 @@ Auto-extracted concept from raw material compilation.
 [[ChipletWaferInterconnectScaling]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration]]
 [[Chiplet_Integration_Route]]
-[[Chiplet_Interconnect]]
 [[ComplexValuedSNN]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[CorticalTypeDiversity]]
@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Disordered_Frustrated_Dimer_Magnets]]
 [[DualSide_Routing_Layer]]
 [[DualSided_Routing_Resource]]
+[[ElectrochemicalSensingArray]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[LossSpikeMechanism]]
@@ -56,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeCommunicationCost]]
 [[Spiking_Neural_Network]]
 [[TCC]]
+[[chiplet interconnect]]
 [[iNEST]]
 
 ## Sources

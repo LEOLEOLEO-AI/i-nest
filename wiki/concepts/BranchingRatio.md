@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[DeviationScalingIndex]]
 [[DivergentHigherAreaRanking]]
 [[Dynamic_Expert_Fusion]]
+[[EmergentDynamics]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]

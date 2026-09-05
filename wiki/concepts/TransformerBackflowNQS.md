@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_To_Information_Conversion]]
 [[Avoided_Criticality]]
 [[BulletTrainScheduling]]
+[[CriticalityBasedClassification]]
 [[Criticality]]
 [[CrossEntityPreemptiveWarning]]
 [[DrivenCriticalityOptimalityTradeoff]]

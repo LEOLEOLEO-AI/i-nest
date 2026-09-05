@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[LocalSynapticRules]]
+[[LossSpikePhenomenon]]
 [[MixedSignalSNN_CoDesign]]
 [[Network_Topology_Design]]
 [[NeuromorphicNetworkFabric]]

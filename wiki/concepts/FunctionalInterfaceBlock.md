@@ -23,6 +23,8 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[CorticalWaveRouting]]
 [[DiscreteSTDP]]
+[[Environmental_Capability_Context]]
+[[Interconnect_Routing]]
 [[Memristive_STDP]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

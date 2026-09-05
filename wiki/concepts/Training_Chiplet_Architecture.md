@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[3d]]
 [[AI_Memory_Infrastructure]]
 [[AdaptiveGraphDiffusion]]
+[[Adaptive_Intelligence_Principle]]
 [[AdiabaticMultimodeBend]]
 [[AdvancedPackagingInterconnect]]
 [[Advanced_Packaging]]
@@ -41,9 +42,11 @@ Auto-extracted concept from raw material compilation.
 [[Bipartite_Interconnect]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration]]
 [[Chiplet_Stacking]]
 [[Heterogeneous_Integration]]
 [[TCC]]
+[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

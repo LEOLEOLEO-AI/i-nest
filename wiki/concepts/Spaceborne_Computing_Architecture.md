@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Based_Trusted_Hardware]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
+[[Chiplet_Integration]]
 [[Chiplet_Interconnect]]
 [[Chiplet_NoC_Interconnect]]
 [[Chiplet_Stacking]]
@@ -62,6 +63,9 @@ Auto-extracted concept from raw material compilation.
 [[SerDes_Bandwidth_Convergence]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[TopologyAware_Embedding]]
+[[advanced packaging]]
+[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

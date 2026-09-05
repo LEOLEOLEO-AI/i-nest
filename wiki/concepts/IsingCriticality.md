@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[FibonacciMonitoredCriticality]]
 [[Generative_Graph_Models]]
 [[Interconnect_Routing]]
+[[Interconnect_Topology_Embedding]]
 [[JumpDiffusion_StochasticQuantization]]
 [[MantelTest_SignCorrection]]
 [[Network_Topology_Design]]

@@ -71,6 +71,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Renormalization_Group]]
 [[Renormalization_Group_Convergence]]
+[[ReproducibleReservoirComputing]]
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
 [[STDP_Plasticity]]
@@ -81,6 +82,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TemperatureSensitivityControl]]
 [[TemporalComplexity]]
+[[chiplet interconnect]]
 [[complex system]]
 [[residual connection]]
 

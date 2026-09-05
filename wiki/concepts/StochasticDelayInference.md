@@ -34,6 +34,8 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenAsynchronousRouting]]
 [[Event_Driven_Architecture]]
 [[FPGACongestionHotspotMitigation]]
+[[FunctionalHardwareComposition]]
+[[Intelligence_Emergence]]
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]
 [[Memristor]]

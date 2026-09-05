@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration]]
 [[EvolutionaryTopologySearch]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
@@ -45,8 +46,10 @@ Auto-extracted concept from raw material compilation.
 [[Photopolymerization_NoC]]
 [[SDI_Bond]]
 [[SDI_NPU_NoC_Integration]]
+[[SparseTemporalEncoding]]
 [[TCC]]
 [[Topology_Aware_NeuroTrain]]
+[[advanced packaging]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

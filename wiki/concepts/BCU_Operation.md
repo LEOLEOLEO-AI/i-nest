@@ -21,15 +21,22 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3D_Vertical_Interconnect]]
+[[3d]]
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_NoC_Fabric]]
 [[HBM_Replacement_Interconnect]]
 [[HeterogeneousInference]]
 [[Heterogeneous_Inference_Offload]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
+[[NoC]]
 [[NoC_Interconnect]]
 [[P_Paradigm]]
 [[ReproducibleReservoirOutput]]
+[[Reservoir_Computing]]
 [[TCC]]
+[[TemporalFeatureProjection]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

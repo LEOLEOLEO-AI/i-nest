@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[1M1T1R_SynapticNeuron]]
 [[20W_Brain_Inspired_Planning]]
 [[AIRA_NeuralArchSearch]]
+[[AnalogDomainCompression]]
 [[Automated_Reward_Shaping]]
 [[AutonomousAdaptation]]
 [[BackflowTransformation]]

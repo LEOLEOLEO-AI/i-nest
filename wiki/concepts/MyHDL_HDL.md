@@ -29,10 +29,12 @@ Auto-extracted concept from raw material compilation.
 [[BoundaryObject_Abstraction]]
 [[ComputationEfficientDeepLearning]]
 [[Deep_Network_Architecture_Invariant]]
+[[Defense_Industrial_Base_Reshaping]]
 [[EfficientDeepLearning]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
+[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

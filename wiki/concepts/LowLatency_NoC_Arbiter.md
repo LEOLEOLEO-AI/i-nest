@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[InSitu_Adjoint_Wave_Control]]
 [[Inference_Workload_Profiling]]
 [[Interconnect_Routing]]
+[[Logic_Folding]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC]]

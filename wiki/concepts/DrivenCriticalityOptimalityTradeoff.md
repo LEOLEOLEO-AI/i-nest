@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[EventBasedMotionDeblurring]]
 [[EventCameraActionRecognition]]
 [[EventDrivenMotionDeblurring]]
+[[FormalToolchain]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[InterFPGA_Spike_Routing]]

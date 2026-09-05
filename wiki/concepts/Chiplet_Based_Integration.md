@@ -22,13 +22,18 @@ Auto-extracted concept from raw material compilation.
 
 [[3DHI_Chiplet_Integration]]
 [[3DHI_Integration]]
+[[3d]]
 [[AI_Faculty_Forum_2026]]
 [[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
+[[AnalogInMemoryComputing]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration]]
 [[Communication_Primitive]]
+[[Heterogeneous_Integration]]
 [[TCC]]
+[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

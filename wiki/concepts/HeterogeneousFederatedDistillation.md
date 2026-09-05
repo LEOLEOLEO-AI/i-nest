@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_Project_Group_Strategy]]
 [[DTGA]]
 [[Delay_Aware_Autograd_Spiking_Framework]]
+[[DrivenCriticalityOptimalityTradeoff]]
 [[DualDrivenHybridNetwork]]
 [[EventBasedMotionDeblurring]]
 [[EventDrivenMotionDeblurring]]

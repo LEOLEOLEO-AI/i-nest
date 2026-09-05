@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Complexity_Emergence]]
 [[Complexity_Emergence_Engineering]]
+[[Course_Based_FPGA_Projects]]
 [[DataDrivenCellularAxis]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence]]

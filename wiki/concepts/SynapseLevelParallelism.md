@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AINext_Initiative]]
+[[AlternativeBridgingModels]]
 [[AnisotropicGaussianPrimitives]]
 [[CirculateFiringNeuron]]
 [[Contested_Prior_Resolution]]

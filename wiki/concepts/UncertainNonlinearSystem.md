@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Moderate_Correlation_Regime]]
 [[NCL神经计算定律详解]]
 [[Network_Topology_Design]]
+[[NonlinearTransientDynamics]]
 [[Nonlinear_Gain]]
 [[TCC]]
 [[complex system]]

@@ -30,12 +30,15 @@ Auto-extracted concept from raw material compilation.
 [[Complex_Network_Class_Brain_Computing]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[CrossbarArrayVLSI]]
+[[Heterogeneous_Integration]]
 [[Interconnect_Topology]]
 [[KeyMaterialStrategy]]
+[[Mesoscale_Advantage_Equation]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[TemporalComplexity]]
 [[Wafer_Scale_Integration]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

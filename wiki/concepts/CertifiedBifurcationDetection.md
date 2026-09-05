@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AI-ML — 全景导航 (Map of Content)]]
 [[ANN动力学]]
 [[ActiveMatterSubstrate]]
+[[Alpha_Coefficient_Phase_Transition_Amplification]]
 [[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Cognitive_Relapse_Architecture]]
@@ -53,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
+[[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources

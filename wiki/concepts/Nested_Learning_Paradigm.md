@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Synapse]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[NeuralNetworkSpectralAnalysis]]
+[[NeuromorphicVisionPipeline]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDSoW]]

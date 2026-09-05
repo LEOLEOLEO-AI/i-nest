@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[ConsciousIntegration]]
 [[CouplingTopologyInducedDynamics]]
 [[CriticalStateReservoir]]
+[[Critical_Exponent_Scaling]]
 [[Criticality]]
 [[Criticality_of_Natural_Languages]]
 [[CrossDomain_Integration]]

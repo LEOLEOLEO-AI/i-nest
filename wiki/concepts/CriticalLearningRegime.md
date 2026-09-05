@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuromorphicRadarFrontend]]
 [[Neuromorphic_Computing]]
+[[OODA_Loop_Breaking]]
 [[Pods4Rail_Topology]]
 [[SelfOrganization]]
 [[Self_Organized_Criticality]]

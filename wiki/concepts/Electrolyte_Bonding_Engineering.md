@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Constructed_Reality_Prior]]
 [[CrossDomain_Integration]]
 [[Emerging_CMOS_Memristor_Devices]]
+[[End_Side_Neuromorphic_Deployment]]
 [[EnergyResourceEfficiencyCoOptimization]]
 [[FCDC_Architecture]]
 [[FeFET_Polarization_Switching]]

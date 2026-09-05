@@ -51,9 +51,11 @@ Auto-extracted concept from raw material compilation.
 [[NonlinearWaveMixing]]
 [[Nonlinear_Gain]]
 [[Nonlinear_Wave_Reconfiguration]]
+[[ReEntrantMultifractalization]]
 [[Reconfigurable_Interconnect]]
 [[Reconfigurable_NonHermitian_Nonlinear_System]]
 [[TCC]]
+[[chiplet interconnect]]
 [[neuromorphic substrate]]
 [[Γst_Revision]]
 

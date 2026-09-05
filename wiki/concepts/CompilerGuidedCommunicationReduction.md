@@ -33,15 +33,18 @@ Auto-extracted concept from raw material compilation.
 [[AgentReputationLedger]]
 [[AnalogInMemoryComputing]]
 [[Analog_Synaptic_Weighting]]
+[[ApproximationFidelityTradeoff]]
 [[Asymmetric_Interaction_Matrix]]
 [[Attention_Residuals]]
 [[BackpropagationFreeLearning]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration]]
 [[Heterogeneous_Integration]]
 [[Network_on_Chip]]
 [[NoC]]
 [[TCC]]
+[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

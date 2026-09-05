@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[FisherOrthogonalMemory]]
 [[FlagOS_2_0]]
 [[GeTeBasedCBRAM]]
+[[GradientFreeSNNTraining]]
 [[HybridResistiveMemoryCIM]]
 [[IMPLYMemristiveISA]]
 [[In_Memory_Computing]]

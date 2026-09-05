@@ -80,6 +80,8 @@ Auto-extracted concept from raw material compilation.
 [[TemporalComplexity]]
 [[Textbook_Paradigm_Definition]]
 [[TopologyCentricEngineeringBase]]
+[[TopologyFragility]]
+[[chiplet interconnect]]
 [[complex system]]
 [[iNEST]]
 [[residual connection]]

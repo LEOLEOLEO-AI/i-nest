@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeTimingGradientPropagation]]
 [[SpikeTimingGradient]]
 [[Spike_Event_Driven_Attention]]
+[[Spiking_Mamba_Block]]
 [[Spiking_Neural_Network]]
 [[Spiking_Residual_Learning]]
 [[StreamDataflowArchitecture]]

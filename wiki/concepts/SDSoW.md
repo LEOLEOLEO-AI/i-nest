@@ -61,6 +61,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_iNEST]]
 [[SoftwareDefinedSystemOnWafer]]
 [[Spacetime_Coupling_Coefficient]]
+[[SparseTemporalEncoding]]
 [[SpatiotemporalComplexityIndex]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
@@ -73,9 +74,11 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect_Memristor]]
 [[Wafer_Scale_Neuromorphic]]
 [[Wafer_Scale_Neuromorphic_Integration]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[residual connection]]
 [[topology reconfiguration]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

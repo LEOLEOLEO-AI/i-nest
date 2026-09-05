@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[Bipartite_Interconnect]]
 [[Bipartite_Interconnect_Design]]
+[[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[ChipletRoutingFabric]]
 [[Chiplet]]
@@ -55,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
+[[chiplet interconnect]]
 [[Γst_Revision]]
 [[神经网络]]
 

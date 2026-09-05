@@ -25,13 +25,14 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[AI_Forum_Demo_Narrative]]
 [[AdaptiveGraphDiffusion]]
+[[Adaptive_Intelligence_Principle]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Interconnect]]
 [[Structural_Manifold_Attractor]]
 [[TCC]]
 [[iNEST]]
-[[neuromorphic interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

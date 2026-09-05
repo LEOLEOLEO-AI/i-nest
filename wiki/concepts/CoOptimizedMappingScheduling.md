@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[EnergyEfficientSNN]]
 [[EventBasedMotionDeblurring]]
 [[EventBasedNeuralDecoding]]
+[[EventCameraTemporalPipeline]]
 [[EventDrivenMotionDeblurring]]
 [[FirstTimestepConversion]]
 [[GPU_Cluster_SNN_Architecture]]

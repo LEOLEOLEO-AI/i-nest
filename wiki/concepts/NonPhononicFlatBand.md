@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[PersistentMachineMonitoring]]
 [[Physical_Topology_To_Computational_Graph]]
+[[RepresentationalDissimilarityMatrix]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
 [[TCC]]

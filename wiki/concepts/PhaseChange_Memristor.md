@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Electrolyte_Bonding_Engineering]]
 [[Emerging_CMOS_Memristor_Devices]]
 [[EnergyResourceEfficiencyCoOptimization]]
+[[FCDC_Architecture]]
 [[In_Memory_Computing]]
 [[Memristor]]
 [[Memristor_Synapse]]

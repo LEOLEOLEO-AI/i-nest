@@ -861,6 +861,84 @@
         "source_path": "00_Inbox\\_pipeline_insights\\2026-09-01_arXiv_Propagation rates in integro-differential equations of ignit.md"
       },
       "cached_at": "2026-09-01T06:45:35"
+    },
+    "2312732dc83ebd4f2f5f95dee3d202abe760bd037e6497495f2dfe2cf1a72a95": {
+      "analysis": {
+        "id": 1,
+        "title_zh": "Sparse Competition during Training For the Emergence of Specialized Modules",
+        "tcc_value": "",
+        "inest_value": "关键词匹配,需深入阅读",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 5,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-09-02_arXiv_Sparse Competition during Training For the Emergence of Spec.md"
+      },
+      "cached_at": "2026-09-02T06:47:39"
+    },
+    "0571194eba9e4b284769cf69a4d6bccdf2076ed51c2380d71c03607fdcfa55d7": {
+      "analysis": {
+        "id": 2,
+        "title_zh": "Non-uniform Memory Partitioning For Low-Power Spiking Neural Networks",
+        "tcc_value": "",
+        "inest_value": "关键词匹配,需深入阅读",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 5,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-09-02_arXiv_Non-uniform Memory Partitioning For Low-Power Spiking Neural.md"
+      },
+      "cached_at": "2026-09-02T06:47:52"
+    },
+    "3822f5da2edd66703ebe3eb5e0a6fdb4cda95ed95eca98d095077ec0c0e187b3": {
+      "analysis": {
+        "id": 3,
+        "title_zh": "Conjoint Audio-to-Spikes Encoding and Processing for Efficient Neuromorphic Spee",
+        "tcc_value": "",
+        "inest_value": "关键词匹配,需深入阅读",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 5,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-09-02_arXiv_Conjoint Audio-to-Spikes Encoding and Processing for Efficie.md"
+      },
+      "cached_at": "2026-09-02T06:47:52"
+    },
+    "2152ff983e2daeb628014ef43f66f336a10245d7b1bd7c66cbfcdd8c9e2282af": {
+      "analysis": {
+        "id": 4,
+        "title_zh": "Perturbation responses on topological synchrony in simplicial Kuramoto model",
+        "tcc_value": "",
+        "inest_value": "关键词匹配,需深入阅读",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 5,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-09-02_arXiv_Perturbation responses on topological synchrony in simplicia.md"
+      },
+      "cached_at": "2026-09-02T06:47:52"
+    },
+    "f62aa83301200706f85aa2858a5c0162cf81a7b132be02270980db39b766640e": {
+      "analysis": {
+        "id": 5,
+        "title_zh": "Event-Driven Language Models with Sparse Neural Activity for Neuromorphic Hardwa",
+        "tcc_value": "",
+        "inest_value": "关键词匹配,需深入阅读",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 5,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-09-02_arXiv_Event-Driven Language Models with Sparse Neural Activity for.md"
+      },
+      "cached_at": "2026-09-02T06:47:52"
+    },
+    "1d9bfbfaea01424671fd771bc7380b4902e36f00bfef7f1182881df9ef02e365": {
+      "analysis": {
+        "id": 1,
+        "title_zh": "Predicting Phase Ordering in Chaotic Maps and Coupled Map Lattices",
+        "tcc_value": "",
+        "inest_value": "关键词匹配,需深入阅读",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 5,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-09-03_arXiv_Predicting Phase Ordering in Chaotic Maps and Coupled Map La.md"
+      },
+      "cached_at": "2026-09-03T06:46:11"
     }
   }
 }

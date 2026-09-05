@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[DataDrivenMaterialDesign]]
 [[DendriticReservoirState]]
 [[DifferentiableLifting]]
+[[DiscreteScaleInvariance]]
 [[EcosystemTopologyCoupling]]
 [[Environmental_Capability_Context]]
 [[FiniteSizeCrossover]]

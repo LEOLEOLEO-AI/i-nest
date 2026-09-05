@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[RTC_Primitive]]
 [[RTC_Primitives]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SDI_Chip_Indicator_Change]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[SDSoW_Physical_Base]]
@@ -65,6 +66,7 @@ Auto-extracted concept from raw material compilation.
 [[ThirdWaveAI]]
 [[TopologicalAndersonChernInsulator]]
 [[Topology_Centric_Interconnect]]
+[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

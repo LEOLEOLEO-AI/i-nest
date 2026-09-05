@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossLayer_SignalRouting]]
 [[Defense_Industrial_Base_Reshaping]]
 [[DisturbancePropagationPath]]
+[[Environmental_Capability_Context]]
 [[EventDrivenAsync]]
 [[EventDrivenAsynchronousRouting]]
 [[Event_Driven_Architecture]]

@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Path_State_Awareness]]
+[[PhotonicSynapticPlasticity]]
 [[Self_Organized_Criticality]]
 [[Synaptic_Plasticity]]
 [[TCC]]

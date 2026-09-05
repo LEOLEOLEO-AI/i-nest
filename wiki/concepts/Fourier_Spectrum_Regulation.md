@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalFluctuationReservoir]]
 [[DissipativeQuantumReservoir]]
 [[Emergent_Reservoir_Topology]]
+[[GroupInteractionThreshold]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

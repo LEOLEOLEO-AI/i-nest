@@ -60,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[NoC_SDI]]
+[[Order_Flexibility_Duality]]
 [[Photopolymerization_NoC]]
 [[SDI_Bond]]
 [[SNN]]

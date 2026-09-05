@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Gate_Synthesis_Readout]]
 [[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]
+[[Izhikevich_NeuronModel]]
 [[Loihi2_OnChip_Learning]]
 [[Loihi]]
 [[Microfluidic_Worm_Trap_Array]]

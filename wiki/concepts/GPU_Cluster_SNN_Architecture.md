@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AINext_Initiative]]
 [[ActivityAvalanche]]
+[[AdaptiveAsymmetricSurrogateGradient]]
 [[Avoided_Criticality]]
 [[BioInspiredInterceptionTask]]
 [[BioInspiredInterception]]

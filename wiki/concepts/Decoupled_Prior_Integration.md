@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveDensityControl]]
 [[AmorphousSolidPlasticity]]
 [[Analog_InMemory_Processing]]
+[[ChiralTopologicalMatter]]
 [[Complex_System_Theory]]
 [[DynamicInference]]
 [[ImaginaryGaugePhaseImprint]]

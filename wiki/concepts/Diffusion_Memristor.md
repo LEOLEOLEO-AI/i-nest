@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Direct_Threshold_Sensing]]
 [[DistributedInference]]
+[[Memristive_Synapse]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]

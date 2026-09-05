@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Forum_Demo_Narrative]]
 [[AlloyDisorderEngineering]]
 [[AthermalDynamics]]
+[[Baseline_Draft_Status]]
 [[Criticality]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[FormalLinguisticCompetence]]

@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Automated_Assessment_Framework]]
 [[CellEmergenceMechanism]]
+[[CellEmergence]]
 [[Emergent_Intelligence]]
 [[EventTriggeredDistributedControl]]
 [[HigherOrderConnectivity]]
@@ -29,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[NeuromorphicSafetyBoundary]]
 [[Neuromorphic_Computing]]
+[[OpenEndedDiscovery]]
 [[iNEST]]
 
 ## Sources

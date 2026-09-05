@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamical_State_Space]]
 [[Environmental_Coupling_Organization]]
 [[Fading_Memory_Property]]
+[[FerroelectricSemiconductorReservoir]]
 [[FirstPrinciples_AI]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

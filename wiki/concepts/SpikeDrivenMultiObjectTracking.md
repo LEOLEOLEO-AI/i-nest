@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Spiking_Integration]]
 [[NoiseModulated_SynapticPlasticity]]
 [[PerturbationSpaceTrajectory]]
+[[PhaseLockedTopologyMapping]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[SOC]]

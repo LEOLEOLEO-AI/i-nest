@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossDomain_Synthesis]]
 [[DirtyWeylSemimetal]]
 [[DisorderedNetworkInterconnect]]
+[[DistributedEventConditionDesign]]
 [[Dynamic_Expert_Fusion]]
 [[Edge_of_Chaos]]
 [[Emergent_Intelligence]]

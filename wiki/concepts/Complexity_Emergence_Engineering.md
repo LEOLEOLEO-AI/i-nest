@@ -65,6 +65,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SDSoW]]
+[[SDSoW_Architecture]]
 [[SNN]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
@@ -86,6 +87,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST_Neuromorphic_Integration]]
 [[iNEST_Neuromorphic_Topology]]
 [[residual connection]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

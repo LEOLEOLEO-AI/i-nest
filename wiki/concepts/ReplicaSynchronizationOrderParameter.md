@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[DelayTolerantNetworkUAV]]
 [[FixedOverheadFloor]]
 [[Independent_AI_Player_Endgame]]
+[[Independent_EdgeAI_Player_Endgame]]
 [[ManyBodyLocalizationSymmetry]]
 [[ManyBodyLocalization]]
 [[NetworkTopologyDrivenIntervention]]

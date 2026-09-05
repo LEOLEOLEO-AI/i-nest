@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[ChipletOpticalIO]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[CompetitiveProgramDynamics]]
 [[Course_Based_FPGA_Projects]]
 [[CrossbarArrayIntegration]]
 [[DARPA_Project_Group_Strategy]]

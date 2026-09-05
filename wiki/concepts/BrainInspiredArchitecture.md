@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicTokenSparsity]]
 [[Edge_Neuromorphic_Compute]]
 [[EnergyEfficientRestoration]]
+[[EventDrivenRiskAssessment]]
 [[EventDrivenTemplateUpdate]]
 [[Event_Driven_Architecture]]
 [[FunctionalEnsembleComputation]]

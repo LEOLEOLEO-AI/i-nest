@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[ExactlyFlatTopologicalBands]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
+[[HigherOrderNetworkDynamics]]
 [[InNetworkComputing]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]

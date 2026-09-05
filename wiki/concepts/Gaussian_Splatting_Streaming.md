@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[CompartmentalNeuronModel]]
 [[CoreComputationSubspace]]
 [[CriticalStateSelfOrganization]]
+[[Cross_Network_Representation_Transfer]]
 [[HigherAreaRankingDivergence]]
 [[Interconnect_Routing]]
 [[MoE_Routing]]

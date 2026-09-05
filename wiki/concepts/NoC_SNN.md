@@ -22,6 +22,8 @@ Auto-extracted concept from raw material compilation.
 
 [[EventCameraTemporalEncoding]]
 [[Event_Driven_Architecture]]
+[[Hierarchical_Async_NoC_PlasticityArray]]
+[[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Scheduling]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

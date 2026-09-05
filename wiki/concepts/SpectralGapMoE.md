@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[OpenLearningEcosystem]]
 [[Routing_Color_Bits]]
+[[StretchablePhotonicInterconnect]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[Topological_Anderson_Insulator]]

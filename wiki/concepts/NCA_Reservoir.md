@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[ErrorSuppressedPipeline]]
 [[Intelligence_Emergence]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[NeuralCellularAutomata]]
 [[Neuromorphic_Computing]]

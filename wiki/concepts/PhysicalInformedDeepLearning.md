@@ -50,6 +50,8 @@ Auto-extracted concept from raw material compilation.
 [[GenerationalAITransition]]
 [[Intelligence_Emergence]]
 [[LLM_TopologicalReplicationGap]]
+[[Machine_Decision_Speed_Advantage]]
+[[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]

@@ -24,7 +24,9 @@ Auto-extracted concept from raw material compilation.
 [[12_三原理协同_FEP_最小作用量_STDP]]
 [[Additive_Manufacturing_Topology]]
 [[AdvancedPackagingInterconnect]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
+[[Analog_InMemory_Processing]]
 [[CLINKAsCarrierPrimitive]]
 [[ChipletRoutingFabric]]
 [[ChipletWaferInterconnectScaling]]
@@ -59,6 +61,7 @@ Auto-extracted concept from raw material compilation.
 [[Topology_Aware_NoC_Routing]]
 [[Topology_Encapsulation]]
 [[Topology_Interconnect]]
+[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

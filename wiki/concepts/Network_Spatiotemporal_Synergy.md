@@ -81,6 +81,8 @@ Auto-extracted concept from raw material compilation.
 [[Textbook_Paradigm_Definition]]
 [[TopologyCentricEngineeringBase]]
 [[TopologyFragility]]
+[[UniversalIntelligence_Emergence]]
+[[chiplet interconnect]]
 [[complex system]]
 [[iNEST]]
 [[residual connection]]

@@ -26,6 +26,11 @@ Auto-extracted concept from raw material compilation.
 [[3DHI_Interconnect]]
 [[3DHI_Stacking]]
 [[3D_Vertical_Interconnect]]
+[[3d]]
+[[4H_SiC_SubstrateProcessing]]
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration]]
 [[Communication_Primitive]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
@@ -36,3 +41,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- Communication_Primitive_Generation_Theory (merged 2026-09-05)

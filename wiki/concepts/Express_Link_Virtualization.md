@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[ChipletWaferInterconnectScaling]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration]]
 [[Chiplet_Integration_Route]]
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
@@ -54,11 +55,13 @@ Auto-extracted concept from raw material compilation.
 [[Package_Level_Topology]]
 [[PhysicalWaferTriplet]]
 [[SDI_Bond]]
+[[SDSoW_Reconfigurable_Network]]
 [[TCC]]
 [[WaferScaleTopologyInterconnect]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

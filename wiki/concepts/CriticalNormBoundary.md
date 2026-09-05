@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[ReconfigurableSNN_Accelerator]]
 [[Reconfigurable_Neuromorphic_Acceleration]]
 [[SNN]]
+[[SNN_Topology_Mapping]]
 [[SelfOrganization]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]

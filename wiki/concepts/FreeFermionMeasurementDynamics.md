@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Capability_Transformation_Mechanism]]
 [[Chain_of_Thought_Reasoning]]
 [[ChipletSignalIntegrity]]
+[[ChipletTrafficAwareScheduling]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_NoC_Fabric]]

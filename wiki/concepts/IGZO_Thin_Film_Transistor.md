@@ -20,10 +20,16 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
+[[3d]]
+[[6万+辛顿2025年度全景实录深读｜真正的智能与硅基智能的非对称演进]]
+[[AIRA_NeuralArchSearch]]
+[[ArmLocomotorCoordination]]
 [[Neuromorphic_Computing]]
 [[Synaptic_Plasticity]]
 [[getnote_2026-02-20_神经突触和神经元二合一物理神经网络构建]]
 [[iNEST]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

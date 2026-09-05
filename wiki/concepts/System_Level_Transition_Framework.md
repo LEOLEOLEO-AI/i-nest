@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet]]
 [[Chiplet_Based_Trusted_Hardware]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration]]
 [[Chiplet_NoC_Fabric]]
 [[Chiplet_NoC_Interconnect]]
 [[Chiplet_Stacking]]
@@ -51,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[CorticalTypeDiversity]]
 [[DTGA]]
 [[FPGA_Reconfigurability]]
+[[GPU_Bottleneck_Relief]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Intelligent_Power_Management]]
@@ -59,6 +61,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC]]
 [[NoC_Interconnect]]
 [[TCC]]
+[[advanced packaging]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

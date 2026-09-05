@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Continual_Learning_Modularity]]
 [[CounterstreamSignalPropagation]]
 [[CriticalityDrivenStateTransition]]
+[[CriticalityInNetworkComputing]]
 [[Criticality]]
 [[Dimensionality_Modularity_Tradeoff]]
 [[DynamicCentralitySteering]]

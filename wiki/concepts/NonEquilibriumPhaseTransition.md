@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[EmergentOrder]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
+[[Emergent_Intelligence_Verifiability]]
 [[Intelligence_Emergence]]
 [[MacroCriticalityEmergence]]
 [[Network_Topology_Design]]

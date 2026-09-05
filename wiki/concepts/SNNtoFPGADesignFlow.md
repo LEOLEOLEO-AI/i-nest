@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Planning_Architecture]]
 [[SDI_Bond]]
 [[SDI_iNEST_Interconnect]]
+[[SDSoW]]
 [[SNN]]
 [[SNN_HighLevel_DesignTraining]]
 [[Spiking_Neural_Network]]

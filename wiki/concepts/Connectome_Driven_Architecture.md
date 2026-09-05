@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Driven_Power_Density_Scaling]]
 [[AI_Forum_Demo_Narrative]]
 [[Agile_Resilient_Defense_Ecosystem]]
+[[BoundaryObject_Abstraction]]
 [[Brain_Connectome]]
 [[Connectome]]
 [[Cortical_Traveling_Waves]]

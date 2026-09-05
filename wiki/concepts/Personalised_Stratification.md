@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityInNetworkComputing]]
 [[CriticalityOffCriticalityTransition]]
 [[Criticality]]
+[[DiffusionInducedInstability]]
 [[Dynamic_Expert_Fusion]]
 [[DynamicalCriticality]]
 [[EmulationTheoryObserver]]

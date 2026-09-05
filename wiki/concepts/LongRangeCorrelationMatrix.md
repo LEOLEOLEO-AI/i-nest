@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[GraphBasedSemanticRouting]]
 [[InSitu_Adjoint_Wave_Control]]
 [[Inference_Stage_Decomposition]]
+[[Inference_Workload_Profiling]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]

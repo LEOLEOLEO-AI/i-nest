@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[ErrorSuppressedPipeline]]
 [[EulaminateOverrepresentation]]
 [[GPU_Bottleneck_Relief]]
+[[GeneralIntelligenceSubstrate]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Medical_Large_Language_Models]]

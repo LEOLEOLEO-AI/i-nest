@@ -62,6 +62,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_iNEST]]
 [[ST_SNN]]
 [[Self_Organized_Criticality]]
+[[SparseRandomNetworkSymmetryBreaking]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[SuperparamagneticSwitchingRate]]

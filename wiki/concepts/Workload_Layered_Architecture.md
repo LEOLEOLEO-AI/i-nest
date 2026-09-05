@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 [[ASIC_Dualism]]
 [[Active_Inference_Agent]]
 [[AdaptiveDensityControl]]
+[[AmorphousSolidPlasticity]]
 [[AnisotropicGaussianPrimitives]]
 [[AstrocyteInspiredModulation]]
 [[Autonomous_Architecture_Search]]

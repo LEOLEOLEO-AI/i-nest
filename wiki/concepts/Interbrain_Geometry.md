@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Interbrain_Network_Geometry]]
 [[Network_Topology_Design]]
+[[Neural_Manifold_Embedding]]
 [[Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

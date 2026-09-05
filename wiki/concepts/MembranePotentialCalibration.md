@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[BiologicalNoiseMimicry]]
 [[BrainActivityPrediction]]
+[[Chip-Hardware — 全景导航 (Map of Content)]]
 [[CombinedImportanceScoring]]
 [[Complexity_Emergence]]
 [[CrashHotspotForecasting]]

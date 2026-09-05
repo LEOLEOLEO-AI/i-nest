@@ -28,7 +28,10 @@ Auto-extracted concept from raw material compilation.
 [[DiscreteSTDP]]
 [[Event_Driven_Architecture]]
 [[FPGA_Neuromorphic_Prototyping]]
+[[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
+[[STDP_Plasticity]]
+[[Spike_Event_Driven_Attention]]
 [[Spiking_Neural_Network]]
 
 ## Sources

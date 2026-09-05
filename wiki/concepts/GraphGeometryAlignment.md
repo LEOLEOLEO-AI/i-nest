@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeEncoding]]
 [[SpikeTimingDependentOptimization]]
 [[Spike_Encoding_of_fMRI]]
+[[Spike_State_Propagation]]
 [[SpikingObjectLocalization]]
 [[Spiking_Neural_Network]]
 [[StochasticBinaryDynamics]]

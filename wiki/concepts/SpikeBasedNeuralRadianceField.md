@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[Self_Organized_Criticality]]
+[[SpiNNaker2_Chip]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking neural network]]
 [[SpikingAttentionComplexityReduction]]

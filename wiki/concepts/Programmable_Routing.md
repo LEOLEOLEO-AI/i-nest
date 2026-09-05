@@ -20,10 +20,13 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Bipartite_Interconnect]]
 [[Bipartite_Interconnect_Design]]
+[[DendriticTaskPartitioning]]
 [[EmergentOrder]]
 [[ExcitatoryInhibitoryOscillatoryNetwork]]
 [[FeFET_Polarization_Switching]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Memristor]]
 [[Memristor_Synapse]]
@@ -36,3 +39,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- Programmable_Routing (merged 2026-09-05)

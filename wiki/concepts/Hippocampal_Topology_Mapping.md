@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Analysis_Framework]]
 [[DerivativeLineage]]
 [[Differential_Encoding]]
+[[GraphTopologyMetrics]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]

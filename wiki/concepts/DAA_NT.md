@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Activity_Dependent_Plasticity]]
 [[AdaptiveBitPrecisionExploration]]
 [[AdaptiveFrequencyResonateFire]]
+[[AdaptiveSpeechToSpikeEncoding]]
 [[Dynamic_Sparse_Activation]]
 [[Neuromorphic_Computing]]
 [[Synaptic_Plasticity]]

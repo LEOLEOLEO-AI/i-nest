@@ -63,6 +63,8 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[TCC_iNEST_Interconnect]]
+[[WavelengthMultiplexedInterconnect]]
+[[advanced packaging]]
 [[iNEST]]
 [[iNEST_Interconnect]]
 [[residual connection]]

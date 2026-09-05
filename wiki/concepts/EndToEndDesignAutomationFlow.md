@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[EvanescentFieldTrapping]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[InterconnectAwareGradientAggregation]]
 [[MachineLearningPotential]]
 [[Memristive_Topology]]
 [[MultiTechnologyInspectionFusion]]

@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Memristive_Topology]]
+[[MixedSignalSNN_CoDesign]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neural_Avalanche]]

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Decoupled_Priors]]
 [[EndToEndTopologyLearning]]
 [[Flow_Aware_Interconnect_Design]]
+[[GradientFreeTraining]]
 [[GraphBasedSemanticRouting]]
 [[Heterogeneous_Integration]]
 [[Independent_AI_Player_Endgame]]

@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[NonHermitianTopologicalAndersonInsulator]]
 [[Nonlinear_Gain]]
 [[ProjectiveMeasurementRouting]]
+[[PropertyPredictionModeling]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[Spiking_Neural_Network]]

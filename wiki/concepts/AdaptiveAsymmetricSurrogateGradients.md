@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[BioPlausiblePredictiveCoding]]
 [[BurstGatedRouting]]
 [[Criticality]]
+[[DifferentiableSpikeTimeDiscretization]]
 [[DynamicTokenSparsity]]
 [[Dynamic_Expert_Fusion]]
 [[Edge_Neuromorphic_Compute]]

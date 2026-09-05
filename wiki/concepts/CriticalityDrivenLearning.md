@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Constructed_Reality_Interconnect]]
 [[CriticalBranching]]
 [[Criticality]]
+[[Criticality_Induced_Plasticity]]
 [[DataDrivenCellularAxis]]
 [[Deep_Network_Architecture_Invariant]]
 [[DevelopmentalNeuromorphicAdaptation]]

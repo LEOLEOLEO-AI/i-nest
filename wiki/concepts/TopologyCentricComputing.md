@@ -21,12 +21,17 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[4H_SiC_SubstrateProcessing]]
+[[AnalogInMemoryComputing]]
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_NoC_Fabric]]
 [[CongestionAwareNoCPlacement]]
 [[Critical_Region_Extension]]
 [[DARPA_ProjectManager_Model]]
 [[Interconnect_Topology]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
+[[NoC]]
 [[P_Paradigm]]
 [[TCC]]
 [[Topology_Centric_Computing]]

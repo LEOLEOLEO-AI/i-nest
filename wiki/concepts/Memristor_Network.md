@@ -75,9 +75,12 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect_Memristor]]
 [[Wafer_Scale_Neuromorphic]]
 [[Wafer_Scale_Neuromorphic_Integration]]
+[[chiplet interconnect]]
 [[complex system]]
 [[iNEST]]
 [[residual connection]]
+[[三原理协同_FEP_STDP_最小作用量]]
+[[神经网络]]
 [[类脑芯片]]
 
 ## Sources

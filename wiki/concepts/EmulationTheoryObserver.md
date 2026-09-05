@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[BoseCondensateAnalogy]]
 [[BrainBodyResonance]]
 [[CST计量仪]]
+[[CertifiedBifurcationDetection]]
 [[CirculateFiringNeuron]]
 [[Complex_System_Theory]]
 [[DendriticReservoirState]]

@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[DataDrivenCytoarchitectonicAxis]]
 [[DivergentHigherAreaRanking]]
 [[Dynamical_State_Space]]
+[[EcosystemTopologyCoupling]]
 [[Environmental_Coupling_Organization]]
 [[Fading_Memory_Property]]
 [[FirstPrinciples_AI]]

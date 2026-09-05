@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Neuromorphic_Architectures]]
 [[Memristor]]
 [[Memristor_Synapse]]
+[[Multi_Scale_Habituation]]
 [[Neuromorphic_Computing]]
 [[iNEST]]
 [[神经网络]]

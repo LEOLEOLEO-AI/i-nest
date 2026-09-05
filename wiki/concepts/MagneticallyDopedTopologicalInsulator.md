@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Topology_Adaptation]]
 [[FatalityDrivenRewiring]]
 [[Heterogeneous_Integration]]
+[[InSituReconfiguration]]
 [[Inference_Workload_Profiling]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
@@ -52,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[ReEntrantMultifractalization]]
 [[TCC]]
 [[TopologyEmbeddedSelfModel]]
+[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

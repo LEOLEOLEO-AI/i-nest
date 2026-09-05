@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Baseline_Draft_Status]]
 [[BurstGatedRouting]]
+[[CellEmergence]]
 [[Complex_System_Theory]]
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[DebiasingTechniques]]

@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[DiffusionInducedInstability]]
 [[Dimensionality_Modularity_Tradeoff]]
+[[DrivenCriticalityDynamics]]
 [[InNetworkComputing]]
 [[Network_Topology_Design]]
 [[Quantum_Criticality]]

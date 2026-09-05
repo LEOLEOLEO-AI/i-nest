@@ -23,12 +23,18 @@ Auto-extracted concept from raw material compilation.
 [[AcousticAnomalyDetection]]
 [[ActiveDendriteSNN]]
 [[Activity_Dependent_Plasticity]]
+[[AdaptiveAsymmetricSurrogateGradient]]
 [[AdaptiveAsymmetricSurrogateGradients]]
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[AdaptiveFlexibilityThreshold]]
 [[AdaptiveFrequencyResonateAndFire]]
 [[AdaptiveLocalLearning]]
+[[AnisotropicGaussianPrimitives]]
+[[FlexibilityThreshold]]
 [[Neuromorphic_Computing]]
+[[SNN]]
+[[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 
 ## Sources

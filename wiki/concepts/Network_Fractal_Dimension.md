@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AnomalousSpinTransport]]
 [[BackpropagationFreeLearning]]
 [[Complex_System_Theory]]
+[[Course_Based_FPGA_Projects]]
 [[HigherOrderSimplicialDynamics]]
 [[Intelligence_Emergence]]
 [[InterconnectConstrainedEmergence]]

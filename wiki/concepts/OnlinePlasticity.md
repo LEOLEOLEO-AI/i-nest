@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Accessibility_Plasticity]]
 [[AdaptiveArchitecture]]
 [[AdaptiveLocalLearning]]
+[[BioInspired_Interception_Control]]
 [[Biologically_Plausible_Learning_Rules]]
 [[CirculateFiringNeuron]]
 [[ClocklessReconfigurableChip]]

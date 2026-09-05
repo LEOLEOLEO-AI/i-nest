@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[InterDomain_Synergy]]
 [[MultiModel_Adapter_Architecture]]
+[[MultiSourceTaskonomy]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Sensor_Fusion]]

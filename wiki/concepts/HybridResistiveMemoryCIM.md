@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Beyond_Moore_Pathway]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration]]
 [[ConsciousIntegration]]
 [[CrossDomain_Integration]]
 [[Deep_Network_Architecture_Invariant]]
@@ -53,15 +54,19 @@ Auto-extracted concept from raw material compilation.
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Spatiotemporal_Synergy]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[NoC]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[P_Paradigm]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SiC_GaN_Power_Integration]]
 [[SparseTemporalEncoding]]
 [[State_Transition_Formalism]]
+[[SystemLevelNonlinearity]]
 [[TopologicalAndersonChernInsulator]]
+[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

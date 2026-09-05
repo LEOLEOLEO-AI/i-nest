@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[FeatureBonding]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[GroupInfluenceThreshold]]
+[[HigherOrderNetworkDynamics]]
 [[InNetworkComputing]]
 [[Memristive_Topology]]
 [[MultiSourceTaskonomy]]

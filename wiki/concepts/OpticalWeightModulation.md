@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CellEmergence]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[CirculateFiringNeuron]]
+[[ComplexValuedSNN]]
 [[Complex_System_Theory]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]

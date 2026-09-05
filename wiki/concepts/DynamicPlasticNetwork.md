@@ -20,14 +20,20 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[20W_Brain_Inspired_Planning]]
 [[Free_Energy_Topology_Mapping]]
+[[Memristor]]
 [[Memristor_Interconnect]]
+[[Memristor_Synapse]]
 [[MetaHardwareAbstraction]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
-[[PlasticNetwork]]
+[[Plastic_Network]]
+[[SDI_Bond]]
+[[SDI_STDP]]
 [[SDI_STDP_Fusion]]
 [[SDI_STDP_Rule]]
+[[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
 

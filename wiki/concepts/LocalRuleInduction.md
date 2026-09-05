@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Crystallized_Neural_Manifolds]]
 [[ERI_2_0_Strategic_Framework]]
 [[EdgeFeatureEncoding]]
+[[EmergentCompetenceThreshold]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[TCC]]

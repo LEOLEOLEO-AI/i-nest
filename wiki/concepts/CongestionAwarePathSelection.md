@@ -43,9 +43,11 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
+[[NeuromorphicSpikingTopology]]
 [[Neuromorphic_Computing]]
 [[Self_Organized_Criticality]]
 [[SpikingTransformer]]
+[[Spiking_Neural_Network]]
 [[TCC]]
 
 ## Sources

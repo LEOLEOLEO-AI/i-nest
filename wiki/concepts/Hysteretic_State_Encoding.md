@@ -60,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[Stigmergic_Graph_Memory]]
 [[SwarmGradientRouting]]
 [[TCC]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[complex system]]
 [[emerging CMOS memristor]]
 [[iNEST]]

@@ -77,6 +77,7 @@ Auto-extracted concept from raw material compilation.
 [[TemporalDynamicsModeling]]
 [[complex system]]
 [[iNEST]]
+[[iNEST_Neuromorphic_Integration]]
 [[residual connection]]
 [[三原理协同_FEP_STDP_最小作用量]]
 

@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[UniversalComputationAtCriticality]]
 [[UniversalComputation]]
+[[Universal_Computation_Link]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Continual_Learning_Modularity]]
 [[CriticalityInNetworkComputing]]
 [[CriticalityInducedTopology]]
+[[CriticalityOffCriticalityTransition]]
 [[Criticality]]
 [[DisorderedNetworkInterconnect]]
 [[Dynamic_Expert_Fusion]]

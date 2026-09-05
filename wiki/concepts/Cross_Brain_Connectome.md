@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[AstrocyteInspiredRepair]]
 [[Automated_Assessment_Framework]]
+[[BigBrainCellularAxis]]
 [[Brain_Connectome]]
 [[Complex_System_Theory]]
 [[Connectome]]

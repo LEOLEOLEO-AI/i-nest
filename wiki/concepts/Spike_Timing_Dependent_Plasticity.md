@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[ElectronicWarfareNeuromorphic]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
+[[ExplainableEnergyAI]]
 [[ITP_STDP]]
 [[Intelligence_Emergence]]
 [[NeuralNetworkSpectralAnalysis]]

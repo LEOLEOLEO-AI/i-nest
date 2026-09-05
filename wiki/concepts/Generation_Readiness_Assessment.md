@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[Topological_Origin_of_Barriers]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
 
 ## Sources

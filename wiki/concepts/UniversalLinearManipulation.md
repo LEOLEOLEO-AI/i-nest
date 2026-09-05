@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkComputing]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[Interconnect_Topology_Embedding]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Self_Organized_Criticality]]

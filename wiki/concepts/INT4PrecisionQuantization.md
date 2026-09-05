@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[Wafer_Scale_Neuromorphic]]
 [[iNEST]]
 [[神经网络]]
 [[类脑芯片]]

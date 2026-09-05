@@ -495,7 +495,31 @@
       "file": "00_Inbox\\_pipeline_insights\\2026-09-01_arXiv_Memristive-Friendly Hadamard Reservoir Computing Structured,.md",
       "discovered": "2026-09-01",
       "status": "pending_review"
+    },
+    {
+      "title": "Sparse Competition during Training For the Emergence of Specialized Modules",
+      "url": "http://arxiv.org/abs/2608.30978v1",
+      "relevance": 2,
+      "file": "00_Inbox\\_pipeline_insights\\2026-09-02_arXiv_Sparse Competition during Training For the Emergence of Spec.md",
+      "discovered": "2026-09-02",
+      "status": "pending_review"
+    },
+    {
+      "title": "Perturbation responses on topological synchrony in simplicial Kuramoto model",
+      "url": "http://arxiv.org/abs/2608.29166v1",
+      "relevance": 2,
+      "file": "00_Inbox\\_pipeline_insights\\2026-09-02_arXiv_Perturbation responses on topological synchrony in simplicia.md",
+      "discovered": "2026-09-02",
+      "status": "pending_review"
+    },
+    {
+      "title": "Conjoint Audio-to-Spikes Encoding and Processing for Efficient Neuromorphic Speech Recognition",
+      "url": "http://arxiv.org/abs/2608.30792v1",
+      "relevance": 3,
+      "file": "00_Inbox\\_pipeline_insights\\2026-09-02_arXiv_Conjoint Audio-to-Spikes Encoding and Processing for Efficie.md",
+      "discovered": "2026-09-02",
+      "status": "pending_review"
     }
   ],
-  "last_updated": "2026-09-01T06:45:36.204357"
+  "last_updated": "2026-09-02T06:47:52.904933"
 }

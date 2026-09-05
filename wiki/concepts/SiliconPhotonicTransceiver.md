@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AdvancedPackagingInterconnect]]
 [[BifurcationCandidate]]
 [[ByteDance_Ada_Chip]]
+[[ChipletTrafficAwareScheduling]]
 [[Chiplet]]
 [[Chiplet_Based_Architecture]]
 [[Chiplet_Heterogeneous_Integration]]

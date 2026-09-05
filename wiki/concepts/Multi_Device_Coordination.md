@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[ForwardFluctuationGradient]]
 [[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]
+[[Izhikevich_NeuronModel]]
 [[Loihi2_OnChip_Learning]]
 [[Loihi]]
 [[MultiModel_Adapter_Architecture]]

@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[ClosedLoopNeuromorphicControl]]
 [[Discrete_Event_Spike_Simulation]]
 [[EventDrivenRiskAssessment]]
+[[EventDrivenTemplateUpdate]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
 [[Oscillatory_MultiObjective_Optimization]]
@@ -43,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[Trustworthiness_Aware_Training]]
 [[TrustworthyLearning]]
+[[advanced packaging]]
 [[iNEST]]
 [[neuromorphic substrate]]
 

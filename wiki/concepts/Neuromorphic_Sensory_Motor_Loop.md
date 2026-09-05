@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[DualModeSNNConventionalInference]]
 [[EarlyVisualCortexAliasing]]
 [[ElectronicBurstingNeuron]]
+[[EmergentCooperation]]
 [[FullyLocalOnlineSNNTraining]]
 [[GradientBasedSpikeLearning]]
 [[InterFPGA_Spike_Routing]]

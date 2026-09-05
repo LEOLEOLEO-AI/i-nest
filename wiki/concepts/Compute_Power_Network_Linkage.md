@@ -29,14 +29,19 @@ Auto-extracted concept from raw material compilation.
 [[ChipletTrafficAwareScheduling]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration]]
 [[Chiplet_Interconnect]]
 [[Chiplet_NoC_Fabric]]
 [[Chiplet_NoC_Interconnect]]
+[[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC]]
+[[NoC_Interconnect]]
 [[P_Paradigm]]
 [[TCC]]
+[[advanced packaging]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

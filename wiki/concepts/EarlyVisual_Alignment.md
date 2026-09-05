@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[DarkSiliconAwarePowerGating]]
 [[ExplosiveCooperationTransition]]
+[[Hardware_Prototyping_Abstraction]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

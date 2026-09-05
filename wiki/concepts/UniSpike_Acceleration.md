@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[LocalQuantumLearningRule]]
 [[LossSpikePhenomenon]]
+[[MixedSignalSNN_CoDesign]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicRadarFrontend]]
 [[Neuromorphic_Acceleration]]

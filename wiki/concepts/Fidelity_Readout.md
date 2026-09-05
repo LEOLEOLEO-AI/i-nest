@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Path_Selection]]
 [[AdjustableDynamics]]
 [[AdversarialResilience]]
+[[AmorphousSolidPlasticity]]
 [[AnalogDomainCompression]]
 [[AnisotropicGaussianPrimitives]]
 [[AnomalousSpinTransport]]

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[BoseCondensateAnalogy]]
 [[BrainBodyResonance]]
 [[CST计量仪]]
+[[CertifiedBifurcationDetection]]
 [[Complex_System_Theory]]
 [[DendriticReservoirState]]
 [[Dynamic_Expert_Fusion]]

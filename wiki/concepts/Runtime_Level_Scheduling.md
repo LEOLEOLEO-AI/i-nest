@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Reconfigurability]]
 [[Free_Energy_Topology_Mapping]]
 [[GenerativeTopologyModels]]
+[[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Interconnect_Topology]]
 [[Memristor]]
@@ -38,12 +39,17 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[PacketRoutingOptimization]]
+[[SDI_Bond]]
+[[SDI_STDP]]
 [[SDI_STDP_Rule]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[SDSoW_Reconfigurable_Network]]
+[[STDP_Plasticity]]
 [[System_Level_Utility_Control]]
 [[TCC]]
+[[Wafer_Scale_Interconnect_Memristor]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

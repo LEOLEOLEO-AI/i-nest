@@ -28,6 +28,8 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_NoC_Interconnect]]
 [[Collective_Offloading]]
 [[EulaminateOverrepresentation]]
+[[HardwareAware_SelfOrganization]]
+[[Heterogeneous_Integration]]
 [[InInterconnectMemory]]
 [[Memory_Wall]]
 [[Network_on_Chip]]
@@ -36,7 +38,9 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_iNEST_Wafer]]
 [[NoC_Interconnect]]
 [[TCC]]
+[[advanced packaging]]
 [[iNEST]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

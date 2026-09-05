@@ -13,10 +13,14 @@ provenance: external
 - [[00_KnowledgeBase_知识库/03_Inbox_文献与碎片/网络时空协同复杂度涌现智能|网络时空协同复杂度涌现智能]]
 
 ## 导入文献（自动汇总）
-```dataview
-TABLE direction, imported_at, source_ext
-FROM "00_Inbox/文献与碎片/DownloadImports"
-WHERE contains(tags, "inest")
-SORT imported_at desc
-LIMIT 200
+```datacorejsx
+function Render() {
+  const pages = dc.useQuery("@page");
+  const rows = pages.filter(function(p) {
+    var fm = p.$frontmatter || {};
+    var tags = fm.tags || [];
+    return tags.indexOf("inest") >= 0 && (p.$path || "").indexOf("00_Inbox/") === 0;
+  });
+  return <dc.List rows={rows} renderer={function(p) { return <dc.Link link={p.$link} />; }} />;
+}
 ```

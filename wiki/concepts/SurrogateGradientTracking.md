@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[DeepSpikingEnsembleLayers]]
 [[DirectTrainingSNN]]
 [[Direct_Training_Spiking_Neural_Networks]]
+[[ElectronicBurstingNeuron]]
 [[EnergyEfficientNeuromorphic]]
 [[EvolutionarySpikeTimingOptimization]]
 [[Frontier_Innovation_Mapping]]

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN_SNN_WeightSpaceGap]]
 [[ActiveDendriteSNN]]
 [[ActiveInference]]
+[[AdjustableDynamicsReservoir]]
 [[Algorithm_Hardware_CoDesign]]
 [[Amorphous_Amorphous_Transition]]
 [[BiologicalNoiseMimicry]]

@@ -44,7 +44,9 @@ Auto-extracted concept from raw material compilation.
 [[Ferroelectric_Devices]]
 [[HybridResistiveMemoryCIM]]
 [[Intelligence_Emergence]]
+[[Long_Range_Interactions]]
 [[Neuromorphic_Computing]]
+[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

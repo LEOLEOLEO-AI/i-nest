@@ -20,11 +20,13 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[2_5D_PIM_Chiplet_Integration]]
 [[Additive_Manufacturing_Supply_Chain]]
 [[AnalogInMemoryComputing]]
 [[Analog_InMemory_Processing]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration]]
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Cognitive_Relapse_Architecture]]
@@ -49,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Switch_Chiplet_Integration]]
 [[TCC]]
 [[TopologyAwareStateMigration]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

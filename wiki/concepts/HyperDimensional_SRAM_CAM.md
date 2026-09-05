@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[03 涌现：整体的能力不能还原回个体？ - 得到APP]]
 [[3DHI_Chiplet_Integration]]
 [[3DHI_Integration]]
+[[3DHI_Stacking]]
 [[3d]]
 [[AI_Faculty_Forum_2026]]
 [[Advanced_Packaging]]
@@ -34,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Beyond_Moore_Pathway]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration]]
 [[Complex_System_Theory]]
 [[CrossDomain_Integration]]
 [[DARPA_ProjectManager_Model]]
@@ -52,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[SiC_GaN_Power_Integration]]
 [[State_Transition_Formalism]]
 [[TopologicalDataCompression]]
+[[advanced packaging]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

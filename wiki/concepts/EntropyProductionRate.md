@@ -57,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[NonEquilibriumComputing]]
 [[PhotoInducedCurrent]]
 [[RecursiveSelfReferentialArchitecture]]
+[[ReproducibleReservoirComputing]]
 [[Reservoir_Computing]]
 [[SuperparamagneticSwitchingRate]]
 

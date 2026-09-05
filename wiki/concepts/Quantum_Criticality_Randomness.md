@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Agent_Interaction_Sequencing]]
 [[AlloyDisorderEngineering]]
 [[Avoided_Criticality]]
+[[BCM滑动阈值]]
 [[BioInspiredInterceptionTask]]
 [[BioInspiredInterception]]
 [[BioPlausibleDisturbanceObserver]]
@@ -43,10 +44,12 @@ Auto-extracted concept from raw material compilation.
 [[Quantum_Criticality]]
 [[STDP_Plasticity]]
 [[Self_Organized_Criticality]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

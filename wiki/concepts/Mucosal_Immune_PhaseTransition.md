@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[ReproducibleReservoirDynamics]]
 [[ReservoirDynamics]]
 [[Reservoir_Computing]]
+[[RestrictedConnectivityTopology]]
 [[SuperparamagneticSwitchingRate]]
 [[Swarm_Coordination]]
 [[TCC]]

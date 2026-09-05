@@ -57,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[NonHermitianTopologicalAndersonInsulator]]
 [[Nonlinear_Gain]]
+[[PromptBasedTimeSeriesForecasting]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDDE_Attractor_Emergence]]
 [[SNN]]

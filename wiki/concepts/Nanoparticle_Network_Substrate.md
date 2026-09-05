@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[BCM滑动阈值]]
 [[BoseCondensateAnalogy]]
 [[CST计量仪]]
+[[CertifiedBifurcationDetection]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]

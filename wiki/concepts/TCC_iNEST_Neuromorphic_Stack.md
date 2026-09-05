@@ -27,6 +27,8 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Network_Architecture_Invariant]]
 [[EfficientDeepLearning]]
 [[EmergentIntelligence_Spacetime]]
+[[Heterogeneous_Inference_Division]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]

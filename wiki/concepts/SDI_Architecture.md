@@ -34,6 +34,8 @@ Auto-extracted concept from raw material compilation.
 [[SDI_STDP_Rule]]
 [[STDP_Plasticity]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
+[[TemporalBatchSynchronization]]
 [[iNEST]]
 
 ## Sources

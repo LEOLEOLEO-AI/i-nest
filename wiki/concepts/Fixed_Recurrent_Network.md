@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[OnChipSNNTrainingEngine]]
 [[PhaseModulationTestability]]
+[[PopulationDensityApproximation]]
 [[PropertyPredictionModeling]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDDE_Attractor_Emergence]]

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Avoided_Criticality]]
 [[BigBrainCellularAxis]]
 [[Criticality]]
+[[EventBasedMotionDeblurring]]
 [[Neuromorphic_Computing]]
 [[NoiseDrivenBackpropReconstruction]]
 [[SNN]]

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_ProjectManager_Model]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[NonequilibriumLangevinComputing]]
 [[PhysicalSubstrateReservoir]]
 [[Reservoir_Computing]]
 [[SDSoW]]

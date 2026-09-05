@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Memristive_STDP]]
 [[Memristor]]
+[[Memristor_Interconnect]]
 [[Memristor_Network]]
 [[Memristor_Synapse]]
 [[MetaFAIR_ArchitectureDiscovery]]

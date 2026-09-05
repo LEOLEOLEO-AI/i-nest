@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_NoC_Interconnect]]
+[[Chiplet_Stacking]]
 [[Collective_Offloading]]
 [[ComponentLevelPackaging]]
 [[DataMovementMinimization]]
@@ -39,12 +40,14 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[IMPLYMemristiveISA]]
 [[KV_Cache_To_BoundaryObject]]
+[[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC]]
 [[NoC_Interconnect]]
 [[System_Level_Transition_Framework]]
 [[TCC]]
 [[TopologyProgramming]]
+[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

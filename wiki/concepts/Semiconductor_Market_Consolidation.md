@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[GroupWise_DragonflyPlus]]
 [[Heterogeneous_P_D_Inference]]
 [[HighSpeedInference]]
+[[Hippocampal_Spatiotemporal_Prior]]
 [[Intelligence_Emergence]]
 [[Memory_Technology_Role_Specialization]]
 [[Milinkovic B (2024)：复杂神经系统涌现动力学结构]]

@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalInterfaceBlock]]
 [[FunctionalInterfaceBlocks]]
 [[HippocampalNeocorticalIntelligence]]
+[[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Memristor]]
 [[Memristor_Synapse]]

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[AlternativeBridgingModels]]
+[[Categorical_Reservoir_Model]]
 [[Crystallized_Embedding_Reservoir]]
 [[DivergentHigherAreaRanking]]
 [[Dynamic_Expert_Fusion]]
@@ -56,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[SDDE_Attractor_Emergence]]
 [[ShortTermMemoryReservoir]]
+[[ShortTermMemory]]
 [[Synaptic_Plasticity]]
 [[TemporalFeatureDecorrelation]]
 [[emerging CMOS memristor]]

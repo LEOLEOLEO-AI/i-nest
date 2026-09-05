@@ -28,10 +28,13 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[BackpropagationFreeLearning]]
 [[Deep_Network_Architecture_Invariant]]
+[[Learning_Rule_Comparison]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
 [[SDI_Bond]]
+[[Spiking_Neural_Network]]
+[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

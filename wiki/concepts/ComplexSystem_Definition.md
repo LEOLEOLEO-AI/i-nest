@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
 [[InNetwork_CST_Offload]]
+[[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Integration]]
 [[Intelligence_Emergence]]
 [[Memory_Wall]]
@@ -56,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Network_topology_and_interconnection_patterns]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[NonAbelian_Gauge_Topology]]
 [[Nonlinear_Gain]]
 [[Order_Flexibility_Duality]]
@@ -77,9 +79,11 @@ Auto-extracted concept from raw material compilation.
 [[TopologyAware_Renormalization]]
 [[Topology_Constrained_Stability_Analysis]]
 [[analog computation]]
+[[chiplet interconnect]]
 [[complex system]]
 [[iNEST]]
 [[residual connection]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenDefenseMechanism]]
 [[EventStrengthEncoding]]
 [[Event_Driven_Architecture]]
+[[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[In_Network_Neuromorphic]]
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]

@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenAsync]]
 [[EventDrivenAsynchronousRouting]]
 [[Gradient_Signal_Preservation]]
+[[HigherOrderAvalanche]]
 [[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Scheduling]]
 [[Intelligence_Emergence]]

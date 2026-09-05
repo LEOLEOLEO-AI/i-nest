@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Driven_Power_Density_Scaling]]
 [[AI_Enabled_Battlefield_Autonomy]]
 [[AI_Forum_Demo_Narrative]]
+[[AdaptiveGraphDiffusion]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Interconnect_Topology]]

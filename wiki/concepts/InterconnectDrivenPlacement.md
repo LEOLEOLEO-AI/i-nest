@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[GutBrainAxis_Reprogramming]]
 [[Gut_Brain_Immune_Network]]
 [[InNetworkNeuromorphicEmergence]]
+[[Inference_Driven_Fitness]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]
 [[Memristor]]

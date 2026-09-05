@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
 [[complex system]]
+[[getnote_2025-09-18_Sandia国家实验室]]
 [[getnote_2026-01-03_16 介观峰值定理对晶上大脑的工程指导]]
 [[getnote_2026-01-12_数字孪生大脑工程化路径]]
 [[getnote_2026-01-12_晶圆级神经网络能效革命]]

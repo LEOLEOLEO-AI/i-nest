@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Driven_Architecture_Search]]
 [[AI_Driven_Power_Density_Scaling]]
 [[ActionPrototypeClustering]]
+[[Activity_Dependent_Plasticity]]
 [[Complex_System_Theory]]
 [[Neuromorphic_Computing]]
 [[TCC]]

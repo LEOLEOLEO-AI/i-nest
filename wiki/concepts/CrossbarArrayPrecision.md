@@ -61,11 +61,14 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]
 [[SDI_NoC_Integration]]
+[[Spaceborne_Computing_Architecture]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
 [[TopologyProgramming]]
 [[WideLink_NoC_Router]]
+[[advanced packaging]]
 [[analog computation]]
+[[chiplet interconnect]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

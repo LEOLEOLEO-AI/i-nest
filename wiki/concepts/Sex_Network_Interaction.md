@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Connectome]]
 [[Connectome_Reservoir]]
 [[DivergentHigherAreaRanking]]
+[[EcosystemTopologyCoupling]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[EvolutionaryReservoirLearning]]

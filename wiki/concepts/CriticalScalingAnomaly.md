@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Replication_Strategy]]
 [[Algorithmic_Warfare]]
 [[AmoebaInspiredLocomotion]]
+[[Anomaly_Induced_Quantum_Criticality]]
 [[AvalancheBranchingRatio]]
 [[Avoided_Criticality]]
 [[BioInspired_Interception_Control]]

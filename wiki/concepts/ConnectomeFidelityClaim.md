@@ -59,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
+[[TemporalBatchSynchronization]]
 [[TemporalComplexity]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]

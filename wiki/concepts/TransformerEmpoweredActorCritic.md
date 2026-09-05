@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[JointEmbeddingPredictiveArchitecture]]
+[[Metriplectic_Twin]]
 [[Model_Routing_Protocol]]
 [[Network_Specific_Embedding_Separation]]
 [[NeuralNetworkSpectralAnalysis]]

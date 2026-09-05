@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Alpha_Coefficient_Phase_Transition_Amplification]]
 [[Architectural_Conditioning]]
 [[CST计量仪]]
+[[CertifiedBifurcationDetection]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Cognitive_Relapse_Architecture]]
 [[Complex_System_Theory]]

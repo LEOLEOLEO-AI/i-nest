@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[CUDAQSimulationFramework]]
+[[CollectiveSpikingDynamics]]
 [[CrossSubstrateHomology]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]

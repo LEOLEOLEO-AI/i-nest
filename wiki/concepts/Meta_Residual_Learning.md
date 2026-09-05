@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
+[[STDP_iNEST_Memristive]]
 [[SpectralSupportAnalysis]]
 [[Spike_Encoding_of_fMRI]]
 [[Spike_Timing_Dependent_Plasticity]]

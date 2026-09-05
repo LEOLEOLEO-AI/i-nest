@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[ActiveMatterComputing]]
 [[Adaptive_Deep_Brain_Stimulation]]
+[[Adaptive_Intelligence_Principle]]
 [[Analog_To_Information_Conversion]]
 [[ArtificialProprioception]]
 [[Attention_Residuals]]

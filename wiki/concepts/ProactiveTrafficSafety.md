@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalWeightNormBoundary]]
 [[CrossDomain_Abstraction]]
 [[CrossDomain_Synthesis]]
+[[DirtyWeylSemimetal]]
 [[DisorderedNetworkInterconnect]]
 [[DistributedEventConditionDesign]]
 [[Dynamic_Expert_Fusion]]

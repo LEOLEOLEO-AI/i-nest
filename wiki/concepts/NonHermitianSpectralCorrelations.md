@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SDI_STDP_Rule]]
+[[SDI_iNEST_Interconnect]]
 [[SNN]]
 [[STDP_Plasticity]]
 [[SpikeEncoding]]

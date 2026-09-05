@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[ANN_SNN_ConversionError]]
 [[ActiveDendriteSNN]]
+[[AdaptiveAsymmetricSurrogateGradient]]
 [[AdaptiveFrequencyResonateAndFire]]
 [[AdaptiveLocalLearning]]
 [[AdaptiveSTDP]]

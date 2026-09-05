@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Routing]]
 [[EnsembleCreditAssignment]]
 [[ExplainableEnergyAI]]
+[[FPGAInference]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Interconnect_Routing]]
 [[LocalPlasticityPipeline]]

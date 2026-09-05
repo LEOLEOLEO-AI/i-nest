@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Reconfigurable_Spiking_Architecture]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
+[[SNN_Topology_Mapping]]
 [[Self_Organized_Criticality]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]

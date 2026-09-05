@@ -59,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[ReservoirYield]]
 [[Reservoir_Computing]]
 [[Reservoir_Computing_Branch_Prediction]]
+[[Reservoir_Computing_DP_Recycling]]
 [[iNEST]]
 
 ## Sources

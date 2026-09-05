@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[DeepCode_AlgorithmExtraction]]
 [[DelayAwareSpikeEventDelivery]]
 [[DiscreteContinuous_Unification]]
+[[DrivenCriticalityOptimalityTradeoff]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Self_Organized_Criticality]]

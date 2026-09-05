@@ -54,6 +54,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[complex system]]
 [[getnote_2025-07-24_液态神经网络与时空复杂性]]
 [[getnote_2026-01-12_低功耗智能新范式]]
+[[getnote_2026-06-05_NEST 智能涌现研究进展与工程落地全景]]
 [[getnote_2026-06-27_智能涌现理论框架]]
 [[iNEST]]
 [[iNEST_Theory]]

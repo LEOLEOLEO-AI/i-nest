@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Avoided_Criticality]]
 [[BayesianDomainEvolution]]
 [[BehavioralFeedbackLoop]]
+[[Catastrophic_Forgetting_Mitigation]]
 [[Criticality]]
 [[FlexibilityThreshold]]
 [[LeftRightAsymmetry]]

@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Long_Range_Interactions]]
+[[MeanFieldSpinGlass]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]
 [[Self_Organized_Criticality]]

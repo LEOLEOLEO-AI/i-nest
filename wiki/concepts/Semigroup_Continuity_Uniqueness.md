@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[iNEST 论文矩阵计划]]
 [[iNEST]]
+[[战略报告提纲：物理复杂网络智能涌现——颠覆现有算力范式的新路线]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AndersonTransition]]
 [[BigBrainCellularAxis]]
 [[CausalEmergenceCondition]]
+[[Causal_Emergence_Integration]]
 [[Compact_Boson_Dynamics]]
 [[Complex_System_Theory]]
 [[Core_Spacetime_Tensor]]

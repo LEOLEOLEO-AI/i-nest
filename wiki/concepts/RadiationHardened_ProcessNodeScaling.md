@@ -57,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_TopologicalControl]]
 [[STDP_Plasticity]]
 [[Space_Compute_Architecture_Tradeoff]]
+[[Space_Radiation_Hardening]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[TopologyPage_Preloading]]

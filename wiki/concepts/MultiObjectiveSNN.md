@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspiredSequenceLearning]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
+[[DiscreteSTDP]]
 [[GroupSynchronization]]
 [[Network_Topology_Design]]
 [[PhaseLockedTopologyMapping]]

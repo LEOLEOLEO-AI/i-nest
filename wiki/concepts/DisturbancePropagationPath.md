@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[DTGA]]
 [[ElectronicPhotonicIntegratedCircuit]]
 [[Feedback_Ising_Neural_Networks]]
+[[Gradient_Signal_Preservation]]
 [[Heterogeneous_Integration]]
 [[HodgkinHuxleyDynamics]]
 [[In_Package_Neuromorphic_Integration]]

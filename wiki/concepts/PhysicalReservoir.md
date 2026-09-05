@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[NonlinearConnectomeScaling]]
 [[Nonlinear_Gain]]
+[[PhysicalSubstrateReservoir]]
 [[Reservoir_Computing]]
 [[complex system]]
 [[iNEST]]

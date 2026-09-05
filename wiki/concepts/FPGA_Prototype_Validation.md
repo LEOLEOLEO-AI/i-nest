@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[DiagnosticReportFramework]]
 [[EulaminateOverrepresentation]]
 [[Evolutionary_Computability]]
+[[Evolutionary_Structure_Computability]]
 [[Heterogeneous_Integration]]
 [[Memory_Wall]]
 [[MetricComputationAuthenticity]]
@@ -74,6 +75,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TemperatureSensitivityControl]]
 [[TemporalComplexity]]
+[[chiplet interconnect]]
 [[complex system]]
 [[residual connection]]
 

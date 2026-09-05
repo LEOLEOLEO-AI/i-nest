@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Interconnect_Topology]]
+[[Logic_Folding]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC]]
@@ -55,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologyPage_Preloading]]
 [[VectorFlowField]]
+[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

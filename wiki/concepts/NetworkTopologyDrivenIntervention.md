@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[CrossLingualIdiomGraph]]
 [[DynamicServiceComposition]]
+[[Emergent_Topological_Alignment]]
 [[GraphTopologyAnalysis]]
 [[In_Package_Neuromorphic_Integration]]
 [[Independent_AI_Player_Endgame]]
@@ -50,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologicalDataCompression]]
 [[TopologyConditionedLearning]]
 [[Topology_Centric_Packaging]]
+[[advanced packaging]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

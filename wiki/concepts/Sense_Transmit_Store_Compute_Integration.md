@@ -30,9 +30,12 @@ Auto-extracted concept from raw material compilation.
 [[AndersonTransition]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Compute_In_Memory_Neuromorphic]]
+[[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[TCC]]
+[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

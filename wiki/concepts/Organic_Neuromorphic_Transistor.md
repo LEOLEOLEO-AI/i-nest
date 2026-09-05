@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikingMotorControl]]
 [[SpikingMuscleActivation]]
 [[Spiking_Neural_Network]]
+[[SynapticFatigueModel]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
 

@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Local_Approximation_Dynamics]]
+[[NetworkArchitectureSearch]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicRadarFrontend]]

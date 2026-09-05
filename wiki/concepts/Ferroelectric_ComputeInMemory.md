@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[BeyondVonNeumannArchitecture]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration]]
 [[ComputationEfficientDeepLearning]]
 [[ConsciousIntegration]]
 [[CrossDomain_Integration]]
@@ -51,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Intelligent_Power_Management]]
 [[Long_Range_Interactions]]
+[[MemoryDrivenRouting]]
 [[Memristive_CAM_Indexing]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Spatiotemporal_Synergy]]
@@ -61,6 +63,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[SiC_GaN_Power_Integration]]
 [[State_Transition_Formalism]]
+[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

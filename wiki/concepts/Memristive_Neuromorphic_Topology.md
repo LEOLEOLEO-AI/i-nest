@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Faculty_Forum_2026]]
 [[Attention_Residuals]]
+[[BoundaryObject_Abstraction]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]

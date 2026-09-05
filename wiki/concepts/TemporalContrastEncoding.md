@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[DiscreteSTDP]]
 [[EventCameraPoseInput]]
 [[EventCameraTemporalEncoding]]
+[[EventDrivenAttentionMasking]]
 [[Event_Driven_Architecture]]
 [[IntrinsicTimingSTDP]]
 [[Network_Topology_Design]]

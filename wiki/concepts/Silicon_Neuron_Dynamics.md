@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Fixed_Cost_Dominance]]
 [[Gut_Brain_Immune_Network]]
 [[InNetworkNeuromorphicEmergence]]
+[[In_Network_Neuromorphic_Processing]]
 [[Intelligence_Emergence]]
 [[Memristive_Solutions]]
 [[Memristor]]

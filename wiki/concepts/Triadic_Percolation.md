@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AIRA_NeuralArchSearch]]
 [[ActiveDendriteSNN]]
 [[AnomalousSpinTransport]]
+[[BackflowTransformation]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[SNN]]

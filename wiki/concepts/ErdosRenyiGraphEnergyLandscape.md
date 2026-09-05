@@ -52,6 +52,8 @@ Auto-extracted concept from raw material compilation.
 [[RTC_Primitives]]
 [[SDI_Bond]]
 [[SDI_Chip_Indicator_Change]]
+[[SDSoW_Physical_Base]]
+[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

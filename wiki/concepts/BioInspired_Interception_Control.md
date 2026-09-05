@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[NetworkArchitectureSearch]]
 [[Network_Topology_Design]]
+[[Neural_Avalanche]]
 [[NeuromorphicRadarFrontend]]
 [[Neuromorphic_Computing]]
 [[ReconfigurableSNN_Accelerator]]

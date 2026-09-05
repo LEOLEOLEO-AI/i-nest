@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[HigherOrderPublicGoodsGame]]
 [[Hippocampal_Encoding_Mechanism]]
 [[InNetwork_Service_Composition]]
+[[InferencePipelineTopologyAwareScheduling]]
 [[Intelligence_Emergence]]
 [[ManufacturingCloudOrchestration]]
 [[NetworkMechanismsOfWaveGeneration]]

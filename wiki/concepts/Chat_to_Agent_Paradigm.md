@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Driven_Architecture_Search]]
 [[AI_Forum_Demo_Narrative]]
+[[Adaptive_Intelligence_Principle]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[ArtificialProprioception]]
 [[Baseline_Draft_Status]]
@@ -44,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[EndToEndTopologicalLearning]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[iNEST]]
 

@@ -32,10 +32,12 @@ Auto-extracted concept from raw material compilation.
 [[AnalogInMemoryComputing]]
 [[Analog_Synaptic_Weighting]]
 [[Attention_Residuals]]
+[[ChipletTrafficAwareScheduling]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
+[[Chiplet_Integration]]
 [[Chiplet_Interconnect]]
 [[Chiplet_NoC_Fabric]]
 [[Chiplet_NoC_Interconnect]]
@@ -67,6 +69,8 @@ Auto-extracted concept from raw material compilation.
 [[TemporalComplexity]]
 [[TopologyProgramming]]
 [[Topology_Centric_Interconnect]]
+[[advanced packaging]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

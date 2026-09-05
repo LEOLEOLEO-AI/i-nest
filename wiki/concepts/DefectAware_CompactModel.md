@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[ReservoirTemporalMemory]]
 [[Reservoir_Computing]]
 [[SOC]]
+[[SwarmGradientRouting]]
 [[emerging CMOS memristor]]
 [[iNEST]]
 [[待分类]]

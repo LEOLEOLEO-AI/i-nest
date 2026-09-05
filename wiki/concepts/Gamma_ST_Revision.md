@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AdiabaticModeEvolution]]
 [[Allreduce_Latency_Probe]]
 [[AnisotropicGaussianPrimitives]]
+[[BioInspiredSequenceLearning]]
 [[EdgeIoTEnergyAwareness]]
 [[ElasticInferenceScheduling]]
 [[Environmental_Capability_Context]]

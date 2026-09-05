@@ -21,15 +21,22 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
+[[BigBrainCellularAxis]]
+[[Complex_System_Theory]]
 [[FPGA_Neuromorphic_Acceleration]]
 [[NeuromorphicObserverArchitecture]]
 [[NeuromorphicTransformerPipeline]]
+[[Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]
+[[SDI_Bond]]
 [[SDI_iNEST_Interconnect]]
 [[SDSoW]]
+[[SDSoW_Architecture]]
+[[SNN]]
 [[Spiking_Neural_Network]]
 [[hls4ml_SNN_Translation]]
 [[iNEST]]
+[[iNEST_Interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

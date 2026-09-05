@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[LLMDrivenPathSelection]]
 [[MeasurementInducedLinearity]]
 [[Negative_Result_Retention]]
+[[NetworkArchitectureSearch]]
 [[Network_Topology_Design]]
 [[Quantum_Criticality]]
 [[SelfOrganization]]

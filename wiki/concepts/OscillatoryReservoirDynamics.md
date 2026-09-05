@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[StreamDataflowArchitecture]]
 [[Synaptic_Plasticity]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
 [[neuromorphic spiking]]
 [[类脑芯片]]

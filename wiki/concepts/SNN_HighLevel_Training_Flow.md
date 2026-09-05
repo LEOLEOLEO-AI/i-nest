@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[ApproximateMacroscopicDynamics]]
 [[Arm_Locomotor_Synergy]]
+[[FPGA_Implementation_Verification]]
 [[SNN]]
 [[SNN_HighLevel_DesignTraining]]
 [[SNN_Software_Hardware_CoDesign]]

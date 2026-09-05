@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
+[[Globally_Optimal_SNN_Training]]
 [[In_Package_Neuromorphic_Integration]]
 [[Network_Topology_Design]]
 [[NeuromorphicVisualPipeline]]
@@ -44,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[StructuralPriorEncoding]]
 [[TCC]]
+[[Topology_Centric_Neuromorphic]]
 [[Topology_Centric_Neuromorphic_Integration]]
 
 ## Sources

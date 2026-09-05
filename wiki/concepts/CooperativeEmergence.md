@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[PacketRoutingForFPGAs]]
 [[PhaseSpaceCurvature]]
 [[Port_Hamiltonian_System]]
+[[QuantumDistillation]]
 [[SelfOrganization]]
 [[analog computation]]
 [[涌现]]
