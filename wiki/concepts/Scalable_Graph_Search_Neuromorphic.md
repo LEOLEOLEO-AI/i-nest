@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenMotionDeblurring]]
 [[Event_Driven_Architecture]]
+[[FixedOverheadCost]]
 [[GradientBasedLearningLocalization]]
 [[ImageToEventConversion]]
 [[Intelligence_Emergence]]

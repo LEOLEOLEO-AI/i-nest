@@ -24,11 +24,13 @@ Auto-extracted concept from raw material compilation.
 [[Accessibility_Plasticity]]
 [[AdaptiveCompetingInteractions]]
 [[Adaptive_Deep_Brain_Stimulation]]
+[[CommunicationAwareComputeRelocation]]
 [[Interconnect_Routing]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[Programmable_Routing]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 
 ## Sources

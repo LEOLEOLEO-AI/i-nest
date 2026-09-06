@@ -54,6 +54,8 @@ Auto-extracted concept from raw material compilation.
 [[GraphBasedSemanticRouting]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[InterChipletPHYModeling]]
+[[Interconnect_Routing]]
 [[Master_SDDE]]
 [[Network_Topology_Design]]
 [[Photonic_Chiplet_Interconnect]]

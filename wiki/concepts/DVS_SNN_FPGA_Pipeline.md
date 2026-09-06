@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[DualDrivenHybridNetwork]]
 [[End_to_End_Neuromorphic_Pipeline]]
 [[ErrorAmplificationLimits]]
+[[HigherOrderAvalanche]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Spiking neural network]]

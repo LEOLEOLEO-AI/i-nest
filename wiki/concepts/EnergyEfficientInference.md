@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Edge_Neuromorphic_Compute]]
 [[EnergyEfficientNeuromorphicDesign]]
 [[EnergyEfficientNeuromorphic]]
+[[EnergyEfficientSNN]]
 [[EventDrivenInference]]
 [[Event_Driven_Architecture]]
 [[Hybrid_ANN_SNN_Pipeline]]

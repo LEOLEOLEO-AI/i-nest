@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[EnergyEfficientNeuromorphic]]
+[[EnergyEfficientSNN]]
 [[EventDrivenInference]]
 [[Event_Driven_Architecture]]
 [[Hybrid_ANN_SNN_Pipeline]]

@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[ANN_SNN_WeightSpaceGap]]
 [[AcousticAnomalyDetection]]
+[[Attention_Mechanism_in_SNN]]
 [[Avoided_Criticality]]
 [[BackflowTransformation]]
 [[Baseline_Change_Record]]

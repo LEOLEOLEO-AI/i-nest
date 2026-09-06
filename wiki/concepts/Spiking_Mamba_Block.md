@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[SynapticRewiringDynamics]]
 [[Synaptic_Plasticity]]
+[[TemporalInformationStorage]]
 [[Temporally_Precise_Training_Parallelization]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]

@@ -56,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[SynapticFatigueModel]]
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
+[[Syncytial_Mesh_Model]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
 

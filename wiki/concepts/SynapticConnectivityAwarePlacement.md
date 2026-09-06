@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[NestedRepresentation]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Energy_Aware_Learning]]
 [[Neuromorphic_Integration]]
 [[PrecisionConfigurableSparseNvCIM]]
 [[RecursiveSelfReferentialArchitecture]]

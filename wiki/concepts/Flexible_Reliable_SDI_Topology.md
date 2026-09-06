@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[CavityMethodAnalysis]]
 [[FPGA_Reconfigurability]]
 [[InSitu_Adjoint_Wave_Control]]
+[[Inference_Workload_Profiling]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]

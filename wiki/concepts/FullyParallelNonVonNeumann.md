@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
+[[PhysicalDesign_ReliabilityTradeoff]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

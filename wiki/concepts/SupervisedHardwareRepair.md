@@ -56,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeEncodingLatency]]
 [[SpikeEncoding]]
 [[SpikeEventScheduling]]
+[[Spike_Temporal_Dynamics]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[TopologicalInvariancePrinciple]]

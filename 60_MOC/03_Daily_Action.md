@@ -1,6 +1,24 @@
-# 每日行动洞察 — 2026-09-04
+# 每日行动洞察 — 2026-09-06
 
-> 自动生成 | 入库 0 篇 | 基于题目与摘要的分析 Top 0 篇
+> 自动生成 | 入库 2 篇 | 基于题目与摘要的分析 Top 2 篇
+
+## 今日高价值论文摘要分析
+
+### ⭐⭐⭐⭐⭐ [A Reconfigurable Hybrid Convolutional-Fully Connected Neuromorphic Core for Biom](http://127.0.0.1:8899/vault/00_Inbox/_pipeline_insights/2026-09-06_arXiv_A%20Reconfigurable%20Hybrid%20Convolutional-Fully%20Connected%20Neurom.md)
+
+**iNEST 价值**: 关键词匹配,需深入阅读
+
+**💡 灵感启迪**: 建议阅读全文,评估方法论借鉴价值
+
+---
+
+### ⭐⭐⭐⭐⭐ [High-Throughput Computational Discovery of Inverted Resistive Switching in Two-D](http://127.0.0.1:8899/vault/00_Inbox/_pipeline_insights/2026-09-06_arXiv_High-Throughput%20Computational%20Discovery%20of%20Inverted%20Resistiv.md)
+
+**iNEST 价值**: 关键词匹配,需深入阅读
+
+**💡 灵感启迪**: 建议阅读全文,评估方法论借鉴价值
+
+---
 
 ## 今日推荐行动
 
@@ -10,4 +28,4 @@
 4. **专利修订** — TCC 架构与实现两项专利，7月30日前申报
 5. **研发路线迭代** — 将文献灵感写入研发看板，更新技术路线图
 
-*生成于 2026-09-04 09:10*
+*生成于 2026-09-06 23:34*

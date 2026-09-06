@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[ConnectivityDerivedReservoir]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
+[[CouplingMatrixRecovery]]
 [[Crystallized_Neural_Manifolds]]
 [[Intelligence_Emergence]]
 [[Nonlinear_Gain]]

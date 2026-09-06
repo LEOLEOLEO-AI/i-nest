@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeCodedFeatureAssociation]]
 [[SpikeFusionLayer]]
 [[Spike_Encoding_of_fMRI]]
+[[SpikingNeuralDynamics]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]

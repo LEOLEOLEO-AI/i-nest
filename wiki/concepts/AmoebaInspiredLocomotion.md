@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Reliability_As_Service]]
 [[SDPrompt_Guided_Dynamic_Expert_Fusion]]
 [[SNN]]
+[[SelfOrganizationInContinuousMedia]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor]]
 [[Memristor_Synapse]]
 [[NeuromorphicHardware]]
+[[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[RecurrentSpikingDynamics]]
 [[Signal_Folding]]

@@ -59,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
 [[STDP_Plasticity]]
+[[SelfHealing_Interconnect]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[TopologyAwareScheduling]]

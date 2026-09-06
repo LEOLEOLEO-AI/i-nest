@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[NoiseAsLearningResource]]
 [[Non_Von_Neumann_Architecture]]
 [[QuantumInspiredHarmonySearch]]
+[[SpinalHDL_DSL]]
 [[TCC]]
 [[TemporalComplexity]]
 [[complex system]]

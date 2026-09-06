@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[3D_Heterogeneous_Integration]]
 [[3D_Integrated_Chiplet_Stacking]]
 [[3d]]
+[[3nm_Autonomous_Driving_Chip]]
 [[AI_Assisted_Energy_Management]]
 [[AI_Assisted_Energy_Optimization]]
 [[AI_FullSpectrum_Strategy]]

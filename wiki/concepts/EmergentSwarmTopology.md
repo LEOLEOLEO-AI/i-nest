@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[CircuitTopologySearch]]
 [[CompactAnalogPredictor]]
 [[Complex_System_Theory]]
+[[ComputationalProcessReuse]]
 [[DARPA_ERI]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]

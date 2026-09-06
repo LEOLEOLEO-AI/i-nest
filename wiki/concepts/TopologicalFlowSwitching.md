@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Stacking]]
 [[Complex_System_Theory]]
+[[Cryogenic_Syndrome_Compression]]
 [[DTGA]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]

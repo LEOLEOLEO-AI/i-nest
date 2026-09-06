@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[CertifiedBifurcationDetection]]
 [[CirculateFiringNeuron]]
 [[Complex_System_Theory]]
+[[Connectome_Transfer]]
 [[DendriticReservoirState]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence]]

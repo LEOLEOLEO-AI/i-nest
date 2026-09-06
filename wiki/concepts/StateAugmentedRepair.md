@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[AnisotropicTensileStrength]]
 [[CST计量仪]]
 [[CommunicationHeterogeneity]]
+[[ComplexSystem_Definition]]
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[DataCenter_Chip_Logic_Compression]]

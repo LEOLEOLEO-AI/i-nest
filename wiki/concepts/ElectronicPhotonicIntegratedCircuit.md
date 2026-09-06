@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_Project_Group_Strategy]]
 [[DataDrivenCellularAxis]]
 [[EmergencePhaseCitationDynamics]]
+[[EnsembleSparsity]]
 [[Gate_Synthesis_Readout]]
 [[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]

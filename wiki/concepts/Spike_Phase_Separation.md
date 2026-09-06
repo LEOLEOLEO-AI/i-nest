@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_STDP]]
 [[SDI_STDP_Rule]]
 [[STDP_Plasticity]]
+[[STDP_iNEST]]
 [[SpikeBasedGradientFreeOptimization]]
 [[SpikeEncoding]]
 [[Spiking_Neural_Network]]

@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Epithelial_Barrier_Integrity]]
 [[Expert_Review_Arbitration]]
 [[FerroelectricTunnelingJunction]]
+[[Ferroelectric_ComputeInMemory]]
 [[FisherOrthogonalMemory]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]

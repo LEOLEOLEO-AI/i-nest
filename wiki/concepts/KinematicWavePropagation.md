@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[EnergyEfficientNeuromorphic]]
+[[EventDrivenModularArchitecture]]
 [[Frontier_Innovation_Mapping]]
 [[GradientBasedSpikeLearning]]
 [[Gradient_Free_SNN_Learning]]

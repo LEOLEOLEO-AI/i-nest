@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[BioPlausiblePredictiveCoding]]
 [[BulletTrainScheduling]]
 [[BurstGatedRouting]]
+[[BurstSuppressionMechanism]]
 [[BurstSuppression]]
 [[CoOptimizedMappingScheduling]]
 [[CollectiveSpikingDynamics]]

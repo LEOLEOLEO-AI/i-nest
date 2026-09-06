@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[CouplingMatrixRecovery]]
 [[Coupling_Strength_Encoding]]
 [[CriticalFixedPoint]]
+[[CrossInstitutionalNetwork]]
 [[DendriticReservoirState]]
 [[EcosystemTopologyCoupling]]
 [[Edge_of_Chaos]]

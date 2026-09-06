@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalFluctuationReservoir]]
 [[CrystalPalace_Program]]
 [[Crystallized_Neural_Manifolds]]
+[[Deep_Network_Layer_Stacking]]
 [[DeterministicChaosResonator]]
 [[DeviceLevelNonlinearityScaling]]
 [[DeviceLevelNonlinearity]]

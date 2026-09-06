@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Distributed_Spike_Communication]]
 [[FlexibilityThreshold]]
 [[Heterogeneous_Integration]]
+[[In_Network_Neuromorphic_Learning]]
 [[LIF_Neuron_Model]]
 [[Neuromorphic_Computing]]
 [[ParallelMultiCompartmentNeuron]]

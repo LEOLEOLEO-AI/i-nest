@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Connectome]]
 [[Cross_Brain_Connectome]]
 [[Crystallized_Neural_Manifolds]]
+[[InNetworkNeuromorphicSimulation]]
 [[Intelligence_Emergence]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Neuromorphic_Computing]]

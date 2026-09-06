@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Amorphous_Amorphous_Transition]]
 [[Avoided_Criticality]]
 [[BioPlausiblePredictiveCoding]]
+[[BurstGatedRouting]]
 [[CriticalStateInformationMaximization]]
 [[Criticality]]
 [[HigherOrderAvalanche]]

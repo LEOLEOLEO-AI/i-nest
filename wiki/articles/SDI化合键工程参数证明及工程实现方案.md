@@ -1,8 +1,8 @@
 # SDI化合键工程参数证明及工程实现方案
 
 **Domain**: Cross
-**Source**: 00_Inbox\01_GetNotes\SDI化合键工程参数证明及工程实现方案.md
-**Compiled**: 2026-09-02
+**Source**: 20_Processing\21_Pending\SDI化合键工程参数证明及工程实现方案.md
+**Compiled**: 2026-09-07
 
 ## Summary
 title: "SDI化合键工程参数证明及工程实现方案" date: 2026-08-31 07:23 在 iNEST 框架下，网络分形维数定义为： \[D_f = \frac{\ln g}{\ln b}\] -   尺度因子必须取：\(\boxed{b=10}\)
@@ -19,5 +19,4 @@ SDI, STDP, iNEST, 拓扑
 [[Network_Topology_Design]]
 [[SDI_Bond]]
 [[STDP_Plasticity]]
-[[Synaptic_Plasticity]]
 [[iNEST]]

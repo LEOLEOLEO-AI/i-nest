@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[OpinionDrivenVaccination]]
 [[QuantumFluctuationDrivenTransport]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SDI_STDP]]
 [[SNN]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]

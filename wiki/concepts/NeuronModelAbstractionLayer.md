@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[SynapticFatigueModel]]
+[[SynapticReinforcementConsolidation]]
 [[Synaptic_Plasticity]]
 [[Syncytial_Mesh]]
 [[Syncytial_Mesh_Model]]

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Criticality]]
+[[Crystallized_Neural_Manifolds]]
 [[Intelligence_Emergence]]
 [[MultiTimescaleSeparation]]
 [[NCL神经计算定律详解]]

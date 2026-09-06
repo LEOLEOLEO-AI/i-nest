@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[OpportunisticRoutingRL]]
 [[OpportunisticRouting]]
+[[PropertyPredictionModeling]]
 [[RecurrentSpikingDynamics]]
 [[RecursiveSelfReferentialArchitecture]]
 [[ResistiveMemoryWriteBudgeting]]

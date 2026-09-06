@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AdiabaticMultimodeBend]]
 [[AdvancedPackagingInterconnect]]
 [[Allreduce_Latency_Diagnostic]]
+[[AnalogDomainCompression]]
 [[AndersonTransition]]
 [[CST_CoordinationMechanism]]
 [[Chiplet]]

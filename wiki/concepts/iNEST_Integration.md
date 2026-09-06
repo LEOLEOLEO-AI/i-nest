@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[ActionPrototypeClustering]]
 [[BrainInspiredArchitecture]]
 [[ConductingPolymerDendriteMemory]]
+[[Efficient_Coding_Constraint]]
 [[EventDrivenMatrixUpdate]]
 [[Event_Driven_Architecture]]
 [[NestedRepresentation]]

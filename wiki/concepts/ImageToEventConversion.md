@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[EventBasedMotionDeblurring]]
 [[EventCameraTemporalPipeline]]
 [[EventDrivenMotionDeblurring]]
+[[EventDrivenVisualPipeline]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[FormalToolchain]]
 [[GeometricNeuromorphicFusion]]

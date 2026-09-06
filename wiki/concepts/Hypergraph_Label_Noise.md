@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[FirstPrinciples_Derivation]]
 [[Heterogeneous_Integration]]
 [[HigherOrderStochasticProcess]]
+[[In_Network_Neuromorphic_Offload]]
 [[LIF_Neuron_Model]]
 [[MagnetizationSusceptibilityResponse]]
 [[Metriplectic_Twin]]

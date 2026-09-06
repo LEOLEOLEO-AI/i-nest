@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality_of_Natural_Languages]]
 [[DisorderInducedEntanglementTransition]]
 [[DynamicalSelfDualCriticality]]
+[[Edge_of_Chaos_Coastal_Dynamics]]
 [[Network_Topology_Design]]
 [[Reservoir_Computing]]
 [[Self_Organized_Criticality]]

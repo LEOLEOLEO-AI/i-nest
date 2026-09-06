@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[ANN_SNN_WeightSpaceGap]]
 [[AcousticAnomalyDetection]]
+[[Attention_Mechanism_in_SNN]]
 [[Avoided_Criticality]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BulletTrainScheduling]]

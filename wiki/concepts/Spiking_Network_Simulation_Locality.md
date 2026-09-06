@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalEnsemble]]
 [[GradientBasedLearningLocalization]]
 [[In_Network_Neuromorphic]]
+[[In_Network_Neuromorphic_Acceleration]]
 [[In_Package_Neuromorphic_Integration]]
 [[LocalLearning_SynapticUpdate]]
 [[NestedRepresentation]]

@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[NonreciprocalQuasiperiodicLattice]]
 [[OpenLearningEcosystem]]
 [[Port_Hamiltonian_System]]
 [[RecursiveSelfReferentialArchitecture]]

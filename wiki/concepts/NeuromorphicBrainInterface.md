@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[EventStrengthEncoding]]
 [[Event_Driven_Architecture]]
 [[FunctionalEnsemble]]
+[[HumanVisionInspiredDeblurring]]
 [[In_Network_Neuromorphic]]
 [[In_Package_Neuromorphic_Integration]]
 [[LocalLearning_SynapticUpdate]]

@@ -64,6 +64,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[TopologyAware_Embedding]]
+[[WaveguideToWaveguideCoupler]]
 [[advanced packaging]]
 [[chiplet interconnect]]
 [[涌现]]

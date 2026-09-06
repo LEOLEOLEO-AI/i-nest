@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_SNN_Inference]]
 [[IMPLY_ISA]]
 [[Meta_Residual_Architecture]]
+[[NeuromorphicRadarFrontend]]
 [[Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]
 [[SNN]]

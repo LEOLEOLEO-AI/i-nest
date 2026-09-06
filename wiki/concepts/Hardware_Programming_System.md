@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[NonequilibriumLangevinComputing]]
 [[PhysicalSubstrateReservoir]]
+[[Physical_Intelligence_on_Wafer]]
 [[Reservoir_Computing]]
 [[SDSoW]]
 [[SDSoW_Architecture]]

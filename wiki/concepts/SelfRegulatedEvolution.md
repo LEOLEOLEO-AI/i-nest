@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[ContinuousTraitAxelrodModel]]
 [[DendriticReservoirState]]
 [[Dynamic_Expert_Fusion]]
+[[EmergentDynamics]]
 [[EmergentTaskDecomposition]]
 [[Free_Energy_Principle]]
 [[GeometryGuidedGenerativeModel]]

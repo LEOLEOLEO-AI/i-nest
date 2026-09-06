@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalWeightNormBoundary]]
 [[CriticalityInNetworkComputing]]
 [[CriticalityInducedTopology]]
+[[CriticalityOffCriticalityTransition]]
 [[Criticality]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[InNetworkComputing]]

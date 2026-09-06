@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[NonEquilibriumComputing]]
+[[PersistenceThresholdOptimization]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SuperparamagneticSwitchingRate]]
 [[Swarm_Coordination]]

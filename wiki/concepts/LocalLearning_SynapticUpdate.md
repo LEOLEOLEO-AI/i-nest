@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenInference]]
 [[EventDriven_Edge_Perception]]
 [[Event_Driven_Architecture]]
+[[Event_Driven_Spike_Communication]]
 [[FunctionalEnsemble]]
 [[In_Package_Neuromorphic_Integration]]
 [[Interconnect_Routing]]

@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[03 涌现：整体的能力不能还原回个体？ - 得到APP]]
 [[AINext_Initiative]]
 [[Active_Inference_Agent]]
+[[Alpha_Coefficient_Phase_Transition_Amplification]]
 [[BayesianDomainEvolution]]
 [[BehavioralFeedbackLoop]]
 [[Bidirectional_Temporal_Enhancement]]

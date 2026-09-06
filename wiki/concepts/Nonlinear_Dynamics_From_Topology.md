@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[NonlinearTransientDynamics]]
 [[Nonlinear_Gain]]
+[[Parallelized_Hierarchical_Connectome]]
 [[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroupIntelligence]]
 [[TCC]]

@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[EvolutionaryReservoirLearning]]
 [[GraphEmbeddedReservoir]]
 [[HierarchicalModularReservoirs]]
+[[Homological_Reservoir]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

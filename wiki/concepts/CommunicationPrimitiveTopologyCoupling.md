@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[DataMovementMinimization]]
 [[DiameterBoundDecode]]
 [[EdgeCloudCollaboration]]
+[[HardwareAware_SelfOrganization]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Level_of_Splat_Detail]]

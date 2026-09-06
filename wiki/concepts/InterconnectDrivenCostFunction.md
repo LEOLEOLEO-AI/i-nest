@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect_Aware_Placement]]
 [[Chiplet_Interconnect_Scheduling]]
 [[Chiplet_Packaging]]
+[[CoPackagedOptics]]
 [[Complex_System_Theory]]
 [[ComputeRelocationOverhead]]
 [[DataMovementMinimization]]

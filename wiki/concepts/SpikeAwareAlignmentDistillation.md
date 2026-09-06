@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[KnowledgeDistillation]]
 [[Local_Plasticity]]
 [[Local_Plasticity_Rule]]
+[[ManyBodyLocalizationThermalizationDuality]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

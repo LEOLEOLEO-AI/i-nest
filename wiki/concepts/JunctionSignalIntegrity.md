@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Local_Plasticity]]
 [[Local_Plasticity_Rule]]
+[[ManyBodyLocalizationThermalizationDuality]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]

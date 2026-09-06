@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AgentBasedCorruptionModel]]
 [[Amorphous_Amorphous_Transition]]
 [[AnisotropicGaussianPrimitives]]
+[[ExtinctionDrivenMetastability]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]

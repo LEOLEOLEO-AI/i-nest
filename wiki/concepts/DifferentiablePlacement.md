@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[TemporalInformationStorage]]
 [[WaveBasedInformationRouting]]
 [[getnote_2026-01-25_吴华强团队与iNEST技术互补]]
 [[getnote_2026-06-15_能量函数驱动神经网络设计]]

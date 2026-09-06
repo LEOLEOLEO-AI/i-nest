@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[JunctionCenteredFramework]]
 [[Master_SDDE]]
 [[Mesoscale_Heterogeneous_Integration]]
+[[Mesoscale_Physical_Computing_Framework]]
 [[Microgrid_Optimization]]
 [[NCL神经计算定律详解]]
 [[Network_Topology_Design]]

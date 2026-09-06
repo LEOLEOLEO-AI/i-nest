@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[EquilibriumSolution]]
 [[EventDrivenRiskAssessment]]
 [[EventDrivenTracking]]
+[[Event_Driven_Communication]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Memristive_Topology]]

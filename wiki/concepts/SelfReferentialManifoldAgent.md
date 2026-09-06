@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[CouplingMatrixRecovery]]
 [[DendriticReservoirState]]
 [[Dynamic_Expert_Fusion]]
+[[EmergentDynamics]]
 [[EmergentTaskDecomposition]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]

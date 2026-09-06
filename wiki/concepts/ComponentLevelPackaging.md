@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Causal_Emergence_Architecture]]
 [[ChipletTrafficAwareScheduling]]
 [[Chiplet]]
+[[Chiplet_Based_Trusted_Hardware]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]
 [[Chiplet_Interconnect]]

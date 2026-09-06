@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[ConstraintDrivenOptimization]]
 [[Constructed_Reality_Interconnect]]
 [[Continual_Learning_Modularity]]
+[[ControlDrivenCriticalFluctuations]]
 [[CounterstreamSignalPropagation]]
 [[Criticality]]
 [[DelayPropagationDynamics]]

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
+[[ComplexSystem_Definition]]
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Constructed_Reality_Interconnect]]
@@ -49,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
+[[Spatiotemporal_Synergy]]
 [[Spatiotemporal_Synergy_Complexity]]
 [[TCC]]
 [[analog computation]]
@@ -64,3 +66,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- Complexity_Emergent_Intelligence (merged 2026-09-07)

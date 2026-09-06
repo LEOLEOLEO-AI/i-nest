@@ -22,4 +22,5 @@ SDI, SNN, STDP, iNEST, neuromorphic, spiking, 拓扑, 类脑
 [[SNN]]
 [[STDP_Plasticity]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[iNEST]]

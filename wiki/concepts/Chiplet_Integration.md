@@ -21,8 +21,12 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3D_Integrated_Chiplet_Stacking]]
+[[3d]]
+[[AI_Application_Scenario_Reconstruction]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Stacking]]
+[[Heterogeneous_Integration]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

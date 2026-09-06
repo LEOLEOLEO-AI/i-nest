@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet]]
 [[Chiplet_Based_Trusted_Hardware]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_NoC_Interconnect]]
 [[Chiplet_Wafer_Topology]]
 [[Complex_System_Theory]]
 [[Decoupled_Priors]]

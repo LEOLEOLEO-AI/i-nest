@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Based_Neuromorphic_Integration]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CollectiveSpikingDynamics]]
+[[Communication_Trace_Diagnostics]]
 [[ConductingPolymerDendriteMemory]]
 [[EpidemicThreshold]]
 [[Event_Driven_Orbital_Object_Pipeline]]

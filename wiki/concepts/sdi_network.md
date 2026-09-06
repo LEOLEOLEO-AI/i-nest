@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Chiplet]]
 [[SDI_iNEST_Interconnect]]
 [[SDI_iNEST_Interconnect_Topology]]
+[[Software_Defined_Interconnect_bonding_mechanism]]
 [[TCC]]
 [[ThreeLayerArchitecture]]
 [[iNEST]]

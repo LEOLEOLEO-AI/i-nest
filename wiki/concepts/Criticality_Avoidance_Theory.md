@@ -44,6 +44,8 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[NeuronalCriticality]]
 [[NonEquilibriumPhaseTransition]]
+[[NonEquilibriumPhase]]
+[[OptimalRepresentationCriticality]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Self_Organized_Criticality]]
 [[Synaptic_Plasticity]]

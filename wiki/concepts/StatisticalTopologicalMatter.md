@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[ConformalFieldTheoryScaling]]
 [[EntanglementSignatures]]
 [[GeometricRegularizationLoss]]
+[[InferencePipelineTopologyAwareScheduling]]
 [[Intelligence_Emergence]]
 [[MeasurementEfficientDisorderAware]]
 [[NetworkMechanismsOfWaveGeneration]]

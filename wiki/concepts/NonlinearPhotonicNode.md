@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Reservoir_Topology]]
 [[GroupInteractionThreshold]]
 [[Intelligence_Emergence]]
+[[LatencyCoding]]
 [[MeasurementInducedNonlinearity]]
 [[Memristive_STDP]]
 [[Memristor]]

@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
 [[Heterogeneous_Integration]]
+[[HigherOrderInteractions]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_InMemory_Processing]]
 [[AutonomousAdaptation]]
 [[BrownianCastleInterface]]
+[[CavityMethodAnalysis]]
 [[Free_Energy_Topology_Mapping]]
 [[Interconnect_Routing]]
 [[MoE_Routing]]

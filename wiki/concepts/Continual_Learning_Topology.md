@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Cognitive_Relapse_Architecture]]
 [[Complex_System_Theory]]
+[[Concepts-Theory — 全景导航 (Map of Content)]]
 [[DTGA]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]

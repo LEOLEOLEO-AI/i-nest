@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[NanomaterialFeatureEngineering]]
 [[Network_Topology_Design]]
 [[NoiseRegimeTransition]]
+[[Random_Parameter_Substitution]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[SelfOrganization]]

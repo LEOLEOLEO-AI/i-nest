@@ -56,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[RoutabilityDrivenFloorplanning]]
 [[SDI_Bond]]
 [[SDI_Control_Plane_Offload]]
+[[SDI_TopologicalControl]]
 [[STDP_Plasticity]]
 [[Space_Compute_Architecture_Tradeoff]]
 [[Synaptic_Plasticity]]

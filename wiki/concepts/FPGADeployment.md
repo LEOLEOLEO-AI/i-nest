@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[ComplexValuedSNN]]
 [[ConductingPolymerDendriteMemory]]
+[[Distributed_Spike_Communication]]
 [[EdgeInspectionInference]]
 [[Event_Driven_Architecture]]
 [[Heterogeneous_Integration]]

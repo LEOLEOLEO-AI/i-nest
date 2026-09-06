@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[DARPA_ProjectManager_Model]]
 [[HybridResistiveMemoryCIM]]
+[[InSensorMemoryComputing]]
 [[In_Memory_Computing]]
 [[In_Package_Neuromorphic_Integration]]
 [[Memristor]]

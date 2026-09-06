@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[HigherOrderStochasticProcess]]
 [[Hypergraph_Label_Noise]]
 [[In_Network_Neuromorphic]]
+[[In_Network_Neuromorphic_Offload]]
 [[LIF_Neuron_Model]]
 [[MagnetizationSusceptibilityResponse]]
 [[Metriplectic_Twin]]

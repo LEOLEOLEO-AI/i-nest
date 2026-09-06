@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalFixedPoint]]
 [[CrystalPalace_Program]]
 [[Crystallized_Neural_Manifolds]]
+[[Deep_Network_Layer_Stacking]]
 [[DendriticReservoirState]]
 [[DeterministicChaosResonator]]
 [[DeviceLevelNonlinearityScaling]]

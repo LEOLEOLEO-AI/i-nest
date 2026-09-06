@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Evolutionary_Computability]]
 [[Evolutionary_Structure_Computability]]
 [[Exponential_CST_Coupling]]
+[[FlagOS_2_0]]
 [[FlagScale]]
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]

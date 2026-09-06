@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Order_Flexibility_Duality]]
 [[ProjectiveMeasurementRouting]]
 [[RamanInducedGaugeField]]
+[[SDI_STDP]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

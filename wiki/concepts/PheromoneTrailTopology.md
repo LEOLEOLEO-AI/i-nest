@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Accessibility_Plasticity]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[BigBrainCellularAxis]]
 [[ChipletRoutingFabric]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]

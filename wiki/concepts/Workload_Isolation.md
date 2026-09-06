@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeEventDrivenInference]]
 [[Spiking_Neural_Network]]
 [[TCC]]
+[[TopologyConstrainedWeightUpdate]]
 [[TopologyDrivenCascade]]
 [[Topology_Aware_Spike_Routing]]
 [[Workload_Layered_Architecture]]

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_ProjectManager_Model]]
 [[ERI_2_0_Strategic_Framework]]
 [[Efficient_Coding_Constraint]]
+[[EventBasedAnalogFrontEnd]]
 [[FPGA_Neuromorphic_Architectures]]
 [[FastSlow_Dynamics]]
 [[FixedOverheadCost]]

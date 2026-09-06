@@ -56,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[SOC]]
 [[ScaleFreeNetwork]]
 [[SparseTemporalEncoding]]
+[[TCC]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[iNEST]]

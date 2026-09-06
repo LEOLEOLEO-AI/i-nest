@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[GraphBasedSemanticRouting]]
 [[Heterogeneous_Integration]]
 [[ImaginaryGaugePhaseImprint]]
+[[InkjetPrintedElectrochemicalSensors]]
 [[Intelligence_Emergence]]
 [[InterChipletPHYModeling]]
 [[Interconnect_Routing]]

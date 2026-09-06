@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[CouplingTopologyMemoryLink]]
 [[Coupling_Topology]]
 [[CriticalStateReservoir]]
+[[Crystallized_Neural_Manifolds]]
 [[DataDrivenMaterialDesign]]
 [[EcosystemTopologyCoupling]]
 [[ErrorSuppressedPipeline]]
@@ -44,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[ReservoirYieldMaximization]]
+[[ReservoirYield]]
 [[Reservoir_Computing]]
 [[TCC]]
 

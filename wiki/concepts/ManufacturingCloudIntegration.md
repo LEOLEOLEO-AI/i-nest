@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[EmulationTheoryDisturbanceObserver]]
 [[EnergyAwareLearning]]
+[[EventDrivenMotionDeblurring]]
 [[FlexibilityThreshold]]
 [[NeuromorphicEdgeProcessing]]
 [[Neuromorphic_Computing]]

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[CrossbarArrayVLSI]]
 [[Heterogeneous_Integration]]
+[[Intelligent_Computing_Infrastructure]]
 [[Interconnect_Topology]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[ReservoirTemporalDynamics]]
 [[Reservoir_Computing]]
+[[SelfOrganizedLearning]]
 [[SelfOrganizingNeuralNetwork]]
 [[Synaptic_Plasticity]]
 [[TCC]]

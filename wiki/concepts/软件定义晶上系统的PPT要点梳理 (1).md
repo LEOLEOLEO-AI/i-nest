@@ -26,6 +26,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 
 [[BNN vs ANN (1)]]
 [[III IV V族元素 (1)]]
+[[Intelligence_Emergence]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[PPT]]
@@ -38,4 +39,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[getnote_2026-06-05_NEST 智能涌现研究进展与工程落地全景]]
 [[iNEST]]
 [[在网计算（In-Network Computing） (1)]]
+[[复杂度的计算 (1)]]
 [[工程技术系统发展路线与分类 (1)]]
+[[智能涌现]]
+[[涌现]]

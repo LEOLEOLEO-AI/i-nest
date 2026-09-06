@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Causal_Emergence]]
 [[Causal_Emergence_Architecture]]
 [[CellularSheaf]]
+[[ChipletTrafficAwareScheduling]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]

@@ -1,12 +1,12 @@
 # Knowledge Health Report
 
-**Generated**: 2026-09-05
-**Last Grow**: 2026-09-05
+**Generated**: 2026-09-07
+**Last Grow**: 2026-09-07
 
 ## Stats
-- **Total Concepts**: 5905
-- **Total Articles**: 1203
-- **Orphan Concepts**: 1962
+- **Total Concepts**: 5984
+- **Total Articles**: 1420
+- **Orphan Concepts**: 1957
 - **Knowledge Graph Density**: High
 
 ## Orphan Concepts (no incoming links)
@@ -21,22 +21,22 @@
 - [[AI_Infrastructure_Commercialization]]
 - [[AI_Material_Design_Production_Gap]]
 - [[AI_Principal]]
+- [[ANN_SNN_Representation_Gap]]
 - [[Academic_Integrity_Assessment]]
 - [[Advanced_Packaging_Based_Integration]]
 - [[Advection_Reservoir_Computing]]
 - [[Aerial_Network_Measurement_Testbed]]
-- [[Ag_Ga2O3_Pt_Memristor]]
 - [[AgranularLimbicInclusion]]
 - [[Algebraic_Completeness]]
 - [[AllHardware_CNN_Integration]]
 - [[AllInOneImageRestoration]]
-- [[AllParallelNonVonNeumannArchitecture]]
-- [[AllReduce_Decomposition]]
 - [[AlphaCascadedAmplification]]
 - [[Alpha_Cascade_Coefficient]]
 - [[AmortizedRegretSeparation]]
 - [[Analog_Speech_Recognition]]
 - [[AnalyticalMobilityEdgeSolution]]
+- [[Analyze_Reconstruct_Regulate]]
+- [[Anti_Scaling_Law]]
 - [[AperiodicLatticeTransport]]
 - [[ArchaeologicalDataAudit]]
 - [[ArtificialSynapticFunctionality]]
@@ -50,7 +50,7 @@
 - [[AutonomousCombatScenarios]]
 - [[Autonomous_Driving_SNN_Application]]
 - [[B3_Competition_Landscape]]
-- ... 1922 more
+- ... 1917 more
 
 ## Next Steps
 1. Run `[[wiki_compiler.py]]` after each new raw import.

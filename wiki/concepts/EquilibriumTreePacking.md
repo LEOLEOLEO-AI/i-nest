@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Weight_Storage]]
 [[ApproximationFidelityTradeoff]]
 [[Attention_Residuals]]
+[[BackpropagationFreeLearning]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]

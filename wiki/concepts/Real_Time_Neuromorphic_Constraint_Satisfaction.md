@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[LossSpikePhenomenon]]
+[[MixedLabyrinthFractal]]
 [[MixedSignalSNN_CoDesign]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

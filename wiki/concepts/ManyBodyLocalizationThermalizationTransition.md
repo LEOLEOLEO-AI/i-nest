@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3D_Heterogeneous_Integration]]
+[[3d]]
 [[AI_Application_Scenario_Reconstruction]]
 [[AdaptiveArchitecture]]
 [[AdaptiveEntanglementManagement]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Critical_Region_Extension]]
 [[CrossbarFabricTopology]]
 [[Crossover_Physics]]
+[[Heterogeneous_Integration]]
 [[Inference_Workload_Profiling]]
 [[ManyBodyLocalization]]
 [[Negative_Result_Retention]]
@@ -45,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[SOC]]
 [[TCC]]
 [[TopologyAwarePhotonicInterconnect]]
+[[TopologyEmbeddedSelfModel]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

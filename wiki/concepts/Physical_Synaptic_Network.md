@@ -21,15 +21,21 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Constructed_Reality_Interconnect]]
+[[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
+[[SDSoW]]
+[[SDSoW_Architecture]]
 [[SDSoW_Strategic_Planning]]
+[[Spatiotemporal_Synergy]]
 [[Spatiotemporal_Synergy_Complexity]]
 [[Synaptic_Plasticity]]
+[[VonEconomoNeuron]]
 [[VonEconomoNeurons]]
 [[iNEST]]
+[[vLLM_plugin_FLSDI]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

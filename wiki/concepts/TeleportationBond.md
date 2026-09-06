@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[CollectiveConsensus]]
 [[Collective_State_Convergence]]
 [[Complex_System_Theory]]
+[[Complexity_Emergent_Intelligence]]
 [[ConnectomicDevelopmentalTrajectory]]
 [[ContextualReasoning]]
 [[CooperativeEmergence]]

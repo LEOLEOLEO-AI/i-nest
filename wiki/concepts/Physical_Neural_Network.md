@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicServiceComposition]]
 [[ElectromigrationReliability]]
 [[EulaminateOverrepresentation]]
+[[GPU_Bottleneck_Relief]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC]]

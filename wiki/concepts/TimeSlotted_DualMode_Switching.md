@@ -1,0 +1,38 @@
+---
+title: "TimeSlotted_DualMode_Switching"
+type: concept
+domain: TCC
+created: 2026-09-07
+auto: true
+---
+
+# TimeSlotted_DualMode_Switching
+
+**Domain**: TCC
+**First mentioned**: auto-extracted
+**Last updated**: 2026-09-07
+
+## Definition
+An SDI switching mechanism combining time-slotted circuit switching and packet switching within the same interconnect substrate. This dual-mode operation allows deterministic low-latency circuits and agile packet forwarding to coexist, matching diverse neural network communication patterns.
+
+## Context
+Auto-extracted concept from raw material compilation.
+
+## Related Work
+
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
+[[03 涌现：整体的能力不能还原回个体？ - 得到APP]]
+[[1024_Card_SuperNode]]
+[[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
+[[11_SDI节点接口规范与化合键定义_dup]]
+[[12_三原理协同_FEP_最小作用量_STDP]]
+[[3DGS_SplatPrimitive]]
+[[3DHI_Interconnect]]
+[[SDI_Bond]]
+[[TCC]]
+
+## Sources
+- See wiki/articles/ for source article summaries
+
+## Open Questions
+- *(Explore connections to other concepts)*

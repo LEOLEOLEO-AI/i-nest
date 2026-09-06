@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Forum_Demo_Narrative]]
 [[AdaptiveGraphDiffusion]]
 [[Adaptive_Intelligence_Principle]]
+[[Adaptive_Service_Orchestration]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[TCC]]

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[MatrixShapePhaseTransition]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[NonreciprocalQuasiperiodicLattice]]
 [[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[STDP_Plasticity]]
 [[Spike_Event_Driven_Attention]]
+[[Spiking_FiniteDifference]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TemporalAdversarialPerturbation]]

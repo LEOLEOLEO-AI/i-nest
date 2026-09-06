@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[BackpropFree_Learning]]
 [[Bias_Origin_Taxonomy]]
+[[CoPackagedOptics]]
 [[Complex_System_Theory]]
 [[Continual_Learning_Modularity]]
 [[Dynamic_Expert_Fusion]]

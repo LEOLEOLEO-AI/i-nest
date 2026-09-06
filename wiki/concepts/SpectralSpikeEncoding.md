@@ -56,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[SynapticRewiringDynamics]]
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
+[[TemporalInformationStorage]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
 

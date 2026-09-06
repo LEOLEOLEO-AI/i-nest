@@ -26,10 +26,12 @@ Auto-extracted concept from raw material compilation.
 [[Additive_Manufacturing_Defense_Trinity]]
 [[Autonomous_Physical_Computation]]
 [[BackflowTransformation]]
+[[BioInspiredLearningRule]]
 [[Brain_Connectome]]
 [[C__elegans_Connectome]]
 [[Connectome]]
 [[Cortical_Traveling_Waves]]
+[[FlexibilityThreshold]]
 [[Network_Topology_Design]]
 [[TCC]]
 

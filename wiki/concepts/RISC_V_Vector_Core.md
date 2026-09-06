@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[1024_Card_SuperNode]]
 [[3DHI_Interconnect]]
 [[3DHI_Stacking]]
+[[3D_Vertical_Interconnect]]
 [[3d]]
 [[AdiabaticMultimodeBend]]
 [[AdvancedPackagingInterconnect]]

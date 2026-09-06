@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AINext_Initiative]]
+[[Active_Inference_Topology]]
 [[AnalogDomainCompression]]
 [[AnomalousSpinTransport]]
 [[Bipartite_Interconnect]]

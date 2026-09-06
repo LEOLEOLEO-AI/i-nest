@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Frontier_Innovation_Mapping]]
 [[Interconnect_Routing]]
 [[LocalInteractionDrivenReconfiguration]]
+[[MixedLabyrinthFractal]]
 [[MixedSignalSNN_CoDesign]]
 [[Nonlinear_Gain]]
 [[QNNtoSNNConversion]]

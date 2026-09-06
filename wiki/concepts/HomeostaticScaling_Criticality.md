@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[AdaptiveFrequencyResonateAndFire]]
 [[Adaptive_Replication_Strategy]]
+[[Avoided_Criticality]]
 [[Criticality]]
 [[Neuromorphic_Computing]]
 [[SNN]]

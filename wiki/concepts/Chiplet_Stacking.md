@@ -63,6 +63,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_NoC_Integration]]
 [[SDI_Topology]]
 [[STDP_Plasticity]]
+[[Spaceborne_Computing_Architecture]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[DVS_Event_Camera]]
 [[DelayCodedWorkingMemory]]
 [[DualMemoryPathwaySNN]]
+[[Dual_Memory_Pathway_SNN]]
 [[EnergyEfficientRestoration]]
 [[EventDrivenInference]]
 [[Event_Driven_Architecture]]

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Cognitive_Relapse_Architecture]]
+[[Communication_Trace_Diagnostics]]
 [[Constructed_Reality_Prior]]
 [[DTGA]]
 [[FerroelectricDevice]]

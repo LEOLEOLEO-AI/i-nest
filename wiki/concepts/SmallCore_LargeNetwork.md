@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[AutomatedQuantizationFramework]]
 [[BiSpikCLM]]
 [[BigBrainCellularAxis]]
+[[BioPlausibleDisturbanceEstimation]]
 [[BrainScaleTopologyExploitation]]
 [[Complex_System_Theory]]
 [[Criticality]]

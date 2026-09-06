@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[FractalPathEntropy]]
 [[HardwareAware_DesignSpace]]
 [[HigherOrderSimplicialDynamics]]
+[[InNetworkNeuromorphicSimulation]]
 [[Intelligence_Emergence]]
 [[Layered_Attractive_Hubbard_Model]]
 [[Memristor]]

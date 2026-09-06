@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[Criticality_Based_Feature_Extraction]]
+[[DelayAwareSpikeEventDelivery]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence]]

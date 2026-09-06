@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_Assisted_Energy_Management]]
 [[AcademicDevelopmentCoCreation]]
+[[AdjustableDynamicsReservoir]]
 [[AlternativeBridgingModels]]
 [[Biomanufacturing_Control_Loop]]
 [[Network_Topology_Design]]

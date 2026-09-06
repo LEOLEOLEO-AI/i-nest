@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[DisorderInducedCriticality]]
 [[DynamicCentralitySteering]]
 [[EmergentRecurrentConnectivity]]
+[[EnsembleCreditAssignment]]
 [[Entangled_Criticality]]
 [[Fractal_Wavefront_Scaling]]
 [[ImmobilizationStabilityMechanism]]

@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Cross_Node_Event_Propagation]]
 [[Distributed_Spike_Communication]]
 [[Environmental_Capability_Context]]
+[[EventCameraActionRecognition]]
 [[FPGASNNMemoryOptimization]]
 [[FixedOverheadCost]]
 [[FixedOverheadPenalty]]

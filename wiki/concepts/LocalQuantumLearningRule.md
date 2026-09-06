@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[NeuronModel_Hardware_Translator]]
+[[PropertyPredictionModeling]]
 [[RecurrentSpikingTopology]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]

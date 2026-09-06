@@ -26,9 +26,11 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveBitPrecisionExploration]]
 [[AdaptiveDensityControl]]
 [[AmorphousSolidPlasticity]]
+[[CouplingTopologyMemoryLink]]
 [[Neuromorphic_Computing]]
 [[ProgrammerGuideAbstraction]]
 [[Reservoir_Computing]]
+[[Synaptic_Plasticity]]
 [[VariationalFreeEnergyMinimisation]]
 [[iNEST]]
 

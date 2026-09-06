@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[NoC]]
 [[RadiationHardened_ProcessNodeScaling]]
+[[SDI_Chiplet_Interconnect]]
 [[STDP_Plasticity]]
 [[SiliconPhotonicsNetwork]]
 [[Space_Compute_Architecture_Tradeoff]]

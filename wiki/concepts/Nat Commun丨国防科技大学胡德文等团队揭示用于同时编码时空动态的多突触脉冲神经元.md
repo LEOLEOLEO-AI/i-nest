@@ -43,6 +43,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Network_topology_and_interconnection_patterns]]
 [[NeuroRing_Topology]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Packaging]]
 [[Photonic_Chiplet_Interconnect]]
 [[SNN]]
 [[STDP_Plasticity]]

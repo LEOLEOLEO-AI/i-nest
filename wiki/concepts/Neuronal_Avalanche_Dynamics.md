@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[SNN]]
 [[Self_Organized_Criticality]]
+[[Single_Layer_SNN_Architecture]]
 [[SpikingTopologyEvolution]]
 [[Spiking_Neural_Network]]
 [[StochasticBinaryDynamics]]

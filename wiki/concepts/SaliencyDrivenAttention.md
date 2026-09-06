@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[IntrinsicTimingSTDP]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
+[[NeuromorphicGraphAnomalyDetection]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[STDP_Plasticity]]

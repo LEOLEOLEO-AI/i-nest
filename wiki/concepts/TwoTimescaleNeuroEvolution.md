@@ -57,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[STDP_Plasticity]]
+[[Stigmergic_Neural_Plasticity]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]

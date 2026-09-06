@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[NonEquilibriumComputing]]
+[[Non_Von_Neumann_Architecture]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SpinalHDL_DSL]]
 [[SuperparamagneticSwitchingRate]]

@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[CSPNeuralEncoding]]
 [[CirculateFiringNeuron]]
 [[ClassificationPerformance]]
+[[ClinicalPredictionMapping]]
 [[ClinicalTranslationBridge]]
 [[Complex_Network_Brain_Inspired_Computing]]
 [[Complex_System_Theory]]

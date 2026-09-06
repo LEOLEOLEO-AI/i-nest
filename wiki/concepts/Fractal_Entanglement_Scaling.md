@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[InNetworkAgentRewiring]]
 [[IntegratedSensingFusion]]
+[[IntegrationProspectsForVLSI]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[JointEmbeddingPredictiveArchitecture]]

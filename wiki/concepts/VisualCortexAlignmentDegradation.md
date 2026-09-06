@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Connectome_Reservoir]]
 [[Cross_Brain_Connectome]]
 [[EvolutionaryReservoirLearning]]
+[[InNetworkNeuromorphicSimulation]]
 [[Neuromorphic_Computing]]
 [[NonlinearDynamicalSystemsInference]]
 [[Nonlinear_Gain]]

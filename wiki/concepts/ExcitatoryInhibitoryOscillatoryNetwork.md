@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_SNN_Trainability]]
 [[DeeplySupervisedSpiking]]
 [[DendriticTaskPartitioning]]
+[[DendriticTaskRouting]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Memristor]]

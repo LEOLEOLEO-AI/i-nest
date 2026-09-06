@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[PhaseSynchronizationDetection]]
 [[SDI_Bond]]
 [[SDI_STDP]]
+[[SDI_STDP_Regulation]]
 [[SOC]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]

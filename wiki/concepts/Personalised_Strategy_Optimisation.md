@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Decoupling]]
 [[CriticalityDrivenStateTransition]]
 [[Criticality]]
+[[DelayAwareSpikeEventDelivery]]
 [[DynamicTokenSparsity]]
 [[DynamicalSelfDualCriticality]]
 [[Edge_Neuromorphic_Compute]]

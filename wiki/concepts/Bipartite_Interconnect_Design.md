@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Heterogeneous_Integration]]
 [[HierarchicalNetworkPartitioning]]
+[[HodgkinHuxleyDynamics]]
 [[InNetworkRadarProcessing]]
 [[Interconnect_Routing]]
 [[Memristive_Interconnect]]

@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
+[[Single_Layer_SNN_Architecture]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[StochasticBinaryDynamics]]

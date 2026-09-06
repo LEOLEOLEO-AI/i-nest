@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AnisotropicGaussianPrimitives]]
 [[Bidirectional_Temporal_Enhancement]]
 [[DiscreteSTDPLearning]]
 [[DiscreteSTDP]]
@@ -31,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[NetworkDynamicalStabilization]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[PhaseLockedTopologyMapping]]
 [[PolychronousNeuronalGroups]]
 [[RecursiveSelfReferentialArchitecture]]

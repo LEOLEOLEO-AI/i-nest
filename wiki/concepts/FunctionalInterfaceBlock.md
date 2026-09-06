@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[CorticalWaveRouting]]
 [[DiscreteSTDP]]
 [[Environmental_Capability_Context]]
+[[Hebbian_Embedding_Dynamics]]
 [[Interconnect_Routing]]
 [[Memristive_STDP]]
 [[Network_Topology_Design]]

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AgenticServiceOrchestration]]
 [[Ant_Swarm_Functional_Control]]
 [[BackflowTransformation]]
+[[BioInspired_Interception_Control]]
 [[BurstGatedRouting]]
 [[Cognitive_Relapse_Decoupling]]
 [[ConductingPolymerDendriteMemory]]

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[BioPlausiblePredictiveCoding]]
 [[BulletTrainScheduling]]
 [[BurstGatedRouting]]
+[[BurstSuppressionMechanism]]
 [[CirculateFiringNeuron]]
 [[ContinuousTimeSNN]]
 [[CriticalStateInformationMaximization]]

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[ChipletOpticalIO]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration_Route]]
 [[Cross_Node_Event_Propagation]]
 [[Distributed_Spike_Communication]]
 [[EdgeInspectionInference]]
@@ -34,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Memory_Wall]]
 [[Neuromorphic_Computing]]
+[[SparseTemporalEncoding]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

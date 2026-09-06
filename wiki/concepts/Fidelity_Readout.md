@@ -37,7 +37,9 @@ Auto-extracted concept from raw material compilation.
 [[EquivariantGraphLayers]]
 [[Expert_Review_Arbitration]]
 [[Network_Topology_Design]]
+[[ProgrammerGuideAbstraction]]
 [[Reservoir_Computing]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
 

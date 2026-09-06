@@ -39,6 +39,8 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[DataProvenanceIntegrity]]
 [[Deep_Network_Architecture_Invariant]]
+[[Deep_Network_Layer_Stacking]]
+[[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
 [[Memory_Wall]]

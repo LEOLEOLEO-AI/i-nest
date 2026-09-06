@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[PacketRoutingOptimization]]
 [[RadiationHardened_ProcessNodeScaling]]
 [[SDI_Bond]]
+[[SDI_TopologicalControl]]
 [[STDP_Plasticity]]
 [[SelfOrganization]]
 [[Space_Compute_Architecture_Tradeoff]]

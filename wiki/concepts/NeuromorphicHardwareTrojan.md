@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Bipartite_Interconnect_Design]]
 [[Complex_System_Theory]]
 [[FPGA_Neuromorphic_Architectures]]
+[[Intelligent_Emergence_Computing]]
 [[Interconnect_Routing]]
 [[Memristor]]
 [[Memristor_Synapse]]

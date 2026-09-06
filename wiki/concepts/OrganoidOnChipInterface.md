@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Based_Neuromorphic_Integration]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CommunicationHeterogeneity]]
+[[ComplexSystem_Definition]]
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Cryogenic_Syndrome_Compression]]

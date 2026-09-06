@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AdjustableDynamics]]
 [[AlternativeBridgingModels]]
 [[Analog_Encoding_Readout]]
+[[CMOS_Memristor_Crossbar]]
 [[CrashHotspotForecasting]]
 [[DARPA_ProjectManager_Model]]
 [[DivergentHigherAreaRanking]]

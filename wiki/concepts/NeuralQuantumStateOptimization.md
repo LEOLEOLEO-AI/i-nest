@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[EnergyEfficiencyAI]]
 [[EquilibriumSolution]]
+[[GraphDelayPropagation]]
 [[HubbardModelVariationalAnsatz]]
 [[Intelligence_Emergence]]
 [[Material_Circularity]]

@@ -48,11 +48,13 @@ Auto-extracted concept from raw material compilation.
 [[SDI节点接口规范与化合键定义]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
+[[SparseTemporalEncoding]]
 [[SpikeEncoding]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[Temporal_Error_Propagation]]
+[[iNEST]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspiredSequenceLearning]]
 [[DiscreteSTDP]]
 [[IntrinsicTimingSTDP]]
+[[Loihi2_SpikeEncoding]]
 [[NetworkDynamicalStabilization]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

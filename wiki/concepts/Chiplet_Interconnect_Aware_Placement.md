@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Packaging]]
 [[Chiplet_Packaging_Topology]]
 [[Chiplet_Stacking]]
+[[Chiplet_Topology]]
 [[Complex_System_Theory]]
 [[Heterogeneous_Integration]]
 [[Inference_Workload_Profiling]]

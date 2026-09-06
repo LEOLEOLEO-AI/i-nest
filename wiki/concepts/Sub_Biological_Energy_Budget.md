@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[FirstPrinciples_Derivation]]
 [[Heterogeneous_Integration]]
 [[HigherOrderStochasticProcess]]
+[[HigherOrderSynchronization]]
 [[Hypergraph_Label_Noise]]
 [[LIF_Neuron_Model]]
 [[MagnetizationSusceptibilityResponse]]

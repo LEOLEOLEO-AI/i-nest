@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[ERI_2_0_Strategy]]
 [[Emergent_Reservoir_Topology]]
 [[Free_Energy_Topology_Mapping]]
+[[FunctionalInterfaceBlocks]]
 [[Heterogeneous_Integration]]
 [[In_Network_Neuromorphic]]
 [[Intelligence_Emergence]]

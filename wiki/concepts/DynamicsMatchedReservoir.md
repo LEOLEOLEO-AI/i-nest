@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[EvolutionaryLearningYield]]
 [[EvolutionaryReservoirLearning]]
+[[GraphEmbeddedReservoir]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]

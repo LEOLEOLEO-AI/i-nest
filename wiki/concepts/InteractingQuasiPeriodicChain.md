@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[CorticalWaveRouting]]
 [[Dynamic_Expert_Routing]]
 [[EventCameraTemporalEncoding]]
+[[ExtinctionDrivenMetastability]]
 [[GCML_Cognitive_Map]]
 [[Interconnect_Routing]]
 [[Memristive_Solutions]]

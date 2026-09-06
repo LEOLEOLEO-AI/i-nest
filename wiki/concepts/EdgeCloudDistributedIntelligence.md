@@ -56,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[NestedLearning]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
+[[NeuralQuadraticForms]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[iNEST]]

@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Epithelial_Barrier_Integrity]]
 [[ExtensiveWidthShallowNN]]
+[[FunctionalInterfaceBlocks]]
 [[Heterogeneous_Synaptic_Motifs]]
 [[Hyper_Dimensional_Computing]]
 [[IntegratedSensingFusion]]

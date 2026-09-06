@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicSpikingTopology]]
 [[Neuromorphic_Computing]]
 [[Persistent_Homology_Neuron]]
+[[Personalised_Strategy_Optimisation]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[SNN_NeuroprostheticPipeline]]

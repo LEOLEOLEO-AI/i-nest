@@ -20,10 +20,12 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Contested_Priors_Mechanism]]
 [[Ga2O3_Optoelectronic_Memristor]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
+[[SDI_Bond]]
 [[SDI_STDP]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]

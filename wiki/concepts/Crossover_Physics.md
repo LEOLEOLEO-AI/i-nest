@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[CrossbarFabricTopology]]
 [[Dimensionality_Modularity_Tradeoff]]
+[[EnsembleCreditAssignment]]
 [[FeatureBonding]]
 [[FlexibleManifoldReconfiguration]]
 [[FunctionalRelevanceDrivenSelfOrganization]]

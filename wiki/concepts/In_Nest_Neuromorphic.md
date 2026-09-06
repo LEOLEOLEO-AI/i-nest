@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenDefenseMechanism]]
 [[EventDriven_Edge_Perception]]
 [[Event_Driven_Architecture]]
+[[Event_Driven_Spike_Communication]]
 [[Neuromorphic_Computing]]
 [[iNEST]]
 

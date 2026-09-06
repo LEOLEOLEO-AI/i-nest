@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Alignment_Tax]]
 [[AndersonTransition]]
+[[Bipartite_Interconnect_Design]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CommunicationAwareComputeRelocation]]
@@ -30,8 +31,10 @@ Auto-extracted concept from raw material compilation.
 [[Disordered_Frustrated_Dimer_Magnets]]
 [[EntanglementAwareRouting]]
 [[FlagOS_2_0]]
+[[Heterogeneous_Integration]]
 [[InterChipletPHYModeling]]
 [[Interconnect_Routing]]
+[[Network_Topology_Design]]
 [[NonHermitian_Topology]]
 [[TCC]]
 [[iNEST]]

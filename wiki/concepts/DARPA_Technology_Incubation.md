@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[OpenLearningEcosystem]]
 [[P_Paradigm]]
+[[Phase_Synchronization_Collective_Dynamics]]
 [[Semantic_Least_Energy_Principle]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]

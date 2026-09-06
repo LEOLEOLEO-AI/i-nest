@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Stacking]]
 [[Chiplet_Wafer_Topology]]
 [[Collective_Offloading]]
+[[ComponentLevelPackaging]]
 [[DARPA_ProjectManager_Model]]
 [[Decoupled_Priors]]
 [[Deep_Network_Architecture_Invariant]]

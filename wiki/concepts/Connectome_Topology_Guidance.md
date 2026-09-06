@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[ChaoticAttractorTopology]]
 [[ConnectomeComputationBasis]]
 [[ConnectomeTopologyDirectedPropagation]]
+[[ConnectomeWiringSeparability]]
 [[Connectome]]
 [[Cortical_Traveling_Waves]]
 [[Network_Topology_Design]]

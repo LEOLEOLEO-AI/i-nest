@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[DirectConnect_Topology]]
 [[Heterogeneous_Integration]]
 [[InInterconnectMemory]]
+[[Inference_Workload_Profiling]]
 [[Intelligence_Emergence]]
 [[InterChipletPHYModeling]]
 [[Interconnect_Routing]]

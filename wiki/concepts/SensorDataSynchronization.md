@@ -58,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Temporal_Encoding]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
+[[TemporalSpikePattern]]
 [[TopologicalAndersonChernInsulator]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

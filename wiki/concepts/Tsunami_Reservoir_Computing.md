@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[CrossInstitutionalNetwork]]
+[[CrystalPalace_Program]]
 [[Crystallized_Neural_Manifolds]]
 [[Edge_of_Chaos]]
 [[Intelligence_Emergence]]

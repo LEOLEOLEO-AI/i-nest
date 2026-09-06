@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Fading_Memory_Property]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[MachineLearningPotential]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]

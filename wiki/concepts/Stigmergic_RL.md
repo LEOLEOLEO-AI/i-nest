@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[Continual_Learning_Modularity]]
 [[CounterstreamSignalPropagation]]
+[[CriticalityOffCriticalityTransition]]
 [[Criticality]]
 [[Driven_Criticality]]
 [[Dynamic_Expert_Fusion]]

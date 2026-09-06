@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration]]
 [[Chiplet_Integration_Route]]
 [[Complex_System_Theory]]
+[[Constructed_Reality_Prior]]
 [[Cross_Node_Event_Propagation]]
 [[Cryogenic_Syndrome_Compression]]
 [[Distributed_Spike_Communication]]

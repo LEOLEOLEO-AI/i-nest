@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[Complex_Network_Brain_Inspired_Computing]]
 [[Complex_System_Theory]]
+[[Complexity_Emergence_Engineering]]
 [[DARPA_ProjectManager_Model]]
 [[DevelopmentalNeuromorphicAdaptation]]
 [[DrivenDissipativeDynamics]]

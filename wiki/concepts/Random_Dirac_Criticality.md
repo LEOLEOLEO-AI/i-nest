@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspiredInterception]]
 [[BioPlausibleDisturbanceObserver]]
 [[BulletTrainScheduling]]
+[[C_ST_cap_Formula]]
 [[CoDesigned_SNN]]
 [[CoDesigned_SNN_Online_Learning]]
 [[ConstructedRealityState]]

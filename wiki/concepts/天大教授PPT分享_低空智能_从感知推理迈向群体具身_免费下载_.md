@@ -54,6 +54,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Heterogeneous_P_D_Inference]]
 [[Intelligence_Emergence]]
 [[LLM_Assisted_Hardware_Design]]
+[[MachineLearningPotential]]
 [[MemristiveMEMSResonator]]
 [[Network_Topology_Design]]
 [[PPT]]

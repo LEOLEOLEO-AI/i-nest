@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_EW_Neuromorphic_Controller]]
 [[BrainBodyResonance]]
 [[CirculateFiringNeuron]]
+[[ClocklessReconfigurableChip]]
 [[Controlled_Release_Kinetics]]
 [[ElectronicWarfareNeuromorphic]]
 [[Emergent_Intelligence]]

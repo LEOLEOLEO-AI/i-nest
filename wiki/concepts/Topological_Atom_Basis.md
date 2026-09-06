@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[156QubitScale]]
 [[AI-ML — 全景导航 (Map of Content)]]
 [[Active_Inference_Agent]]
+[[AllReduce_Decomposition]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

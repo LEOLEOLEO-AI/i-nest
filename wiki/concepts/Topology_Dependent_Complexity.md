@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_MasterEquation]]
 [[Complex_System_Theory]]
 [[Decoupled_Priors]]
+[[Deep_Network_Architecture_Invariant]]
 [[Defense_Industrial_Base_Reshaping]]
 [[EnergyOptimizedManycoreArchitecture]]
 [[FlagScale]]

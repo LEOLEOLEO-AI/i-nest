@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AdjointWaveControl]]
 [[CavityMethodAnalysis]]
 [[Chip_Floorplanning]]
+[[Chiplet_Based_Architecture]]
 [[Complex_System_Theory]]
 [[Computation_Access_Routing]]
 [[CongestionAwareLoss]]

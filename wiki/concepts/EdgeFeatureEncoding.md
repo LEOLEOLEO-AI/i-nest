@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Crystallized_Neural_Manifolds]]
 [[DendriticTaskPartitioning]]
+[[DeviceLevelNonlinearityScaling]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Nonlinear_Dynamics]]

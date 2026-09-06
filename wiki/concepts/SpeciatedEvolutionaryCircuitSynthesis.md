@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Asymmetric_Interaction_Graph]]
 [[CircuitSynthesis]]
 [[Complex_System_Theory]]
+[[Critical_Exponent_Extraction_Method]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]

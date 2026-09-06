@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3D_Heterogeneous_Integration]]
 [[AI_Driven_Power_Density_Scaling]]
 [[AdaptiveGraphDiffusion]]
 [[Adaptive_Intelligence_Principle]]
@@ -34,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
 [[TCC]]
+[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

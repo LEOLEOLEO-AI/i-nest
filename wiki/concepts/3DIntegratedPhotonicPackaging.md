@@ -56,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[OptomechanicalNonlinearity]]
 [[Photonic_Chiplet_Interconnect]]
+[[ReconfigurablePhotonicNetwork]]
 [[RenormalizationGroup_ScalingLaws]]
 [[RenormalizationGroup_Scaling]]
 [[SDSoW]]

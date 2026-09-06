@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Electrolyte_Bonding_Engineering]]
 [[EnergyResourceEfficiencyCoOptimization]]
 [[FCDC_Architecture]]
+[[FerroelectricMemoryCell]]
 [[In_Memory_Computing]]
 [[Memristor]]
 [[Memristor_Synapse]]

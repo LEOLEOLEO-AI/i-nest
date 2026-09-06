@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Faculty_Forum_2026]]
+[[Brain_Scale_Parameter_Baseline]]
 [[ChipletWaferInterconnectCoDesign]]
 [[ChipletWaferInterconnectScaling]]
 [[Chiplet]]
@@ -31,11 +32,13 @@ Auto-extracted concept from raw material compilation.
 [[CommunicationAsComputation]]
 [[ConsciousnessEngineeringLoop]]
 [[CrossbarArrayVLSI]]
+[[Heterogeneous_Integration]]
 [[Interconnect_Topology]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[WaferScaleMesoscopicNetwork]]
 [[Wafer_Scale_Integration]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGASNNMemoryOptimization]]
 [[FixedOverheadCost]]
 [[FixedOverheadPenalty]]
+[[GradientFreeLowRankTraining]]
 [[HippocampalNeocorticalIntelligence]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]

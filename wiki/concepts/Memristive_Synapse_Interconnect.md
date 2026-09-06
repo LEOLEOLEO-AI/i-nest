@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[BoundaryObject_Abstraction]]
 [[DARPA_ProjectManager_Model]]
+[[Deep_Network_Architecture_Invariant]]
 [[Memristive_Synapse]]
 [[Memristor]]
 [[Memristor_Synapse]]

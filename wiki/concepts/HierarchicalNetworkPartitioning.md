@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[Environmental_Capability_Context]]
 [[Heterogeneous_Integration]]
+[[HodgkinHuxleyDynamics]]
 [[Interconnect_Routing]]
 [[Memory_Wall]]
 [[Memristive_STDP]]

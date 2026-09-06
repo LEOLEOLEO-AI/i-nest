@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Additive_Manufacturing_Supply_Chain]]
 [[Avoided_Criticality]]
 [[BulletTrainScheduling]]
+[[BurstTemporalPlasticity]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]

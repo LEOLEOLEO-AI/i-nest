@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[ClinicalPredictionMapping]]
 [[ClinicalTranslationBridge]]
 [[CoEvolvedSpikingEnsembles]]
+[[Complex_Network_Brain_Inspired_Computing]]
 [[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence]]

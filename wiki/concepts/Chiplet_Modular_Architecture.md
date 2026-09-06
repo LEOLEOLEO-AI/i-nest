@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[ChipletRoutingFabric]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration]]
 [[CongestionAwareNoCPlacement]]
 [[DelayCouplingMatrix]]
 [[EquilibriumTreePacking]]
@@ -34,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[NoC]]
 [[NoC_Chiplet_Integration]]
+[[NoC_EventRouting]]
 [[TCC]]
 
 ## Sources

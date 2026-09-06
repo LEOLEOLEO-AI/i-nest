@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[Free_Energy_Topology_Mapping]]
+[[GeneralIntelligenceSubstrate]]
 [[GenerativeTopologyModels]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]

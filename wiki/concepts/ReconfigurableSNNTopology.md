@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[DTGA]]
 [[DynamicalSelfDualCriticality]]
+[[EnsembleCreditAssignment]]
 [[EpidemicThreshold]]
 [[FlexibleManifoldReconfiguration]]
 [[InNetworkReconfiguration]]

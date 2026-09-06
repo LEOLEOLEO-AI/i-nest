@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CompartmentalizedSpikeIntegration]]
 [[Distributed_Spike_Communication]]
 [[FixedOverheadCost]]
+[[FixedOverheadPenalty]]
 [[Fixed_Cost_Dominance]]
 [[ITP_STDP]]
 [[Memristive_STDP]]

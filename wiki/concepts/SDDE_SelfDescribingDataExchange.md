@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[ResourceAwareCompilation]]
 [[RoutingBasedComputation]]
 [[SemanticTopologyMapping]]
+[[StochasticMultiAgentRL]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]

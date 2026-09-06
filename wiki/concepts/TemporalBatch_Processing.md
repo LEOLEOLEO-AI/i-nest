@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicAttentionScaling]]
 [[Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]
+[[NeuronModelAbstractionLayer]]
 [[PowerLawScaling]]
 [[SNN]]
 [[Scalable_Graph_Search_Neuromorphic]]

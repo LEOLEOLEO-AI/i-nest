@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveSpeechToSpikeEncoding]]
 [[Bio_plausible_Neuromorphic_Disturbance_Observer]]
 [[ClocklessReconfigurableChip]]
+[[CompetitiveProgramDynamics]]
 [[Controlled_Release_Kinetics]]
 [[CorticalWaveRouting]]
 [[Dynamic_Expert_Fusion]]

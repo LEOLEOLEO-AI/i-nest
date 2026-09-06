@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[Criticality_Based_Feature_Extraction]]
 [[CrossLayer_SignalRouting]]
+[[DelayAwareSpikeEventDelivery]]
 [[DynamicTokenSparsity]]
 [[Dynamic_Expert_Fusion]]
 [[Edge_Neuromorphic_Compute]]

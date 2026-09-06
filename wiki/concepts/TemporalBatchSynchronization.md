@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_STDP_Rule]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
+[[ST_SNN]]
 [[SpikeCommunicationScheduling]]
 [[SpikePacketRouting]]
 [[Spiking_Neural_Network]]

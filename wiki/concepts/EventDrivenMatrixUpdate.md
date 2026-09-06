@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Event_Driven_Architecture]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
+[[FixedOverheadCost]]
 [[GradientBasedLearningLocalization]]
 [[In_Network_Neuromorphic]]
 [[In_Package_Neuromorphic_Integration]]

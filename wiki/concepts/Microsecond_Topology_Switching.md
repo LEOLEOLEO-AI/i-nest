@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_NoC_Fabric]]
 [[Chiplet_Stacking]]
+[[DTGA]]
 [[Heterogeneous_Integration]]
 [[Microsecond_Topology_Switch]]
 [[Network_Topology_Design]]

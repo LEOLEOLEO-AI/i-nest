@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Packaging]]
 [[Complex_System_Theory]]
 [[ComputeRelocationOverhead]]
+[[EndToEndLinkSimulation]]
 [[GraphBasedSemanticRouting]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]

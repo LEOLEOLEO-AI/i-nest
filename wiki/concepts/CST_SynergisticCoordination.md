@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
 [[CommunicationHeterogeneity]]
+[[ComplexSystem_Definition]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Complex_System_Theory]]
 [[Complexity_Coordination_Layer]]
@@ -60,6 +61,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Architecture]]
 [[STDP_Plasticity]]
 [[SpatiotemporalComplexityIndex]]
+[[Spatiotemporal_Synergy]]
 [[Spatiotemporal_Synergy_Complexity]]
 [[Synaptic_Plasticity]]
 [[TCC]]
@@ -72,6 +74,7 @@ Auto-extracted concept from raw material compilation.
 [[vLLM_plugin_FLSDI]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

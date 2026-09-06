@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[EvolvingArchitectureDynamics]]
 [[ExactWiringRouting]]
 [[FPGA_Reconfigurability]]
+[[FluxAttachmentTopology]]
 [[HybridCouplingThermosensitiveNetwork]]
 [[InSitu_Adjoint_Wave_Control]]
 [[Intelligence_Emergence]]

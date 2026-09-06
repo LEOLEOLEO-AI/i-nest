@@ -41,6 +41,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[BCM滑动阈值]]
 [[BeamDomainMLFingerprinting]]
 [[CST_Synergy_Coordination]]
+[[CST_Theory_V27_FINAL]]
 [[CST_Triad_Framework]]
 [[CST_Triad_Integration]]
 [[CST计量仪]]

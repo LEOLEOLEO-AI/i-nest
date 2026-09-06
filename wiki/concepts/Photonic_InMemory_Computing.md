@@ -35,7 +35,11 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration]]
 [[Compute_In_Memory_Neuromorphic]]
 [[Data_Movement_Bottleneck]]
+[[DecliningModularity]]
 [[Heterogeneous_Integration]]
+[[In_Memory_Computing]]
+[[Neuromorphic_Computing]]
+[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

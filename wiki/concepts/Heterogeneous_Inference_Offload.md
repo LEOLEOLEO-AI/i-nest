@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[AnalogDomainCompression]]
+[[BCU_Operation]]
 [[ChipletTrafficAwareScheduling]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]

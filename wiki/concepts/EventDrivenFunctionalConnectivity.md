@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[On_Chip_STDP_Learning]]
 [[PhaseSynchronizationDetection]]
+[[PowerLawScaling]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]
 [[SDI_STDP]]

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AnisotropicGaussianPrimitives]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
+[[CriticalFluctuationReservoir]]
 [[Criticality]]
 [[DARPA_ProjectManager_Model]]
 [[DynamicalSelfDualCriticality]]

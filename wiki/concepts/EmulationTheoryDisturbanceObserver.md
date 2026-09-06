@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicObserverArchitecture]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
+[[NoiseDrivenBackpropReconstruction]]
 [[NonEquilibriumComputing]]
 [[PowerLawScaling]]
 [[RecursiveSelfReferentialArchitecture]]

@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[Criticality_Induced_Plasticity]]
 [[Crystallized_Neural_Manifolds]]
+[[Deep_Network_Layer_Stacking]]
 [[DynamicalSelfDualCriticality]]
 [[Edge_of_Chaos]]
 [[Edge_of_Chaos_Coastal_Dynamics]]

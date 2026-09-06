@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Algorithm_Hardware_CoDesign]]
 [[BurstTemporalPlasticity]]
 [[DTGA]]
+[[Edge_AI_Acquisition_Consolidation]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]

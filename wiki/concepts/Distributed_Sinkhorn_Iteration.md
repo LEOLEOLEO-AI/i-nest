@@ -57,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[NetworkCentralityMetrics]]
 [[Network_Topology_Design]]
 [[NonEquilibriumComputing]]
+[[PersistenceThresholdOptimization]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]

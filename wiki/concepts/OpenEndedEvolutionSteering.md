@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuralVariabilityEnhancement]]
 [[SNN]]
+[[SNN_Intrusion_Detection_Config]]
 [[SOC]]
 [[SensoryGatedSpikingLoop]]
 [[SpikeCodedAssociation]]

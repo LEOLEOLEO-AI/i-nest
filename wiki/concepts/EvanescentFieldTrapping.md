@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[In_Network_Sensing]]
 [[Intelligence_Emergence]]
+[[MachineLearningPotential]]
 [[MultiTechnologyInspectionFusion]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Chiplet]]

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AdiabaticMultimodeBend]]
 [[AndersonTransition]]
 [[ApproximationFidelityTradeoff]]
+[[CST_Spatiotemporal_Complexity]]
 [[ChipletRoutingFabric]]
 [[ChipletWaferInterconnectScaling]]
 [[Chiplet]]

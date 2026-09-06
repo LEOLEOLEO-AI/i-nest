@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[FunctionalInterfaceBlock]]
+[[HippocampalNeocorticalIntelligence]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

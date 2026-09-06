@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[BrainInspiredArchitecture]]
 [[BurstGatedRouting]]
 [[CIMWeightUpdateAwareness]]
+[[Chiplet_Integration_Route]]
 [[Complex_System_Theory]]
 [[EventDrivenPlasticity]]
 [[EventDrivenTracking]]

@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[ReEntrantMultifractalization]]
 [[Reconfigurable_Interconnect]]
 [[Reconfigurable_NonHermitian_Nonlinear_System]]
+[[ReproducibleReservoirDynamics]]
 [[TCC]]
 [[chiplet interconnect]]
 [[neuromorphic substrate]]

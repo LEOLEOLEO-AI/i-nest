@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Computation]]
 [[FlexibilityThreshold]]
 [[InNetworkChaosDetection]]
+[[JunctionSignalIntegrity]]
 [[Local_Plasticity]]
 [[Local_Plasticity_Rule]]
 [[Neuromorphic_Computing]]

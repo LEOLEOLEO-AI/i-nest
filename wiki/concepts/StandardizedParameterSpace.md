@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[DiagnosticReportFramework]]
 [[EulaminateOverrepresentation]]
 [[Evolutionary_Computability]]
+[[Evolutionary_Structure_Computability]]
 [[Exponential_CST_Coupling]]
 [[Heterogeneous_Integration]]
 [[Memory_Wall]]

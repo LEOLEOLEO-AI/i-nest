@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
+[[EnsembleCreditAssignment]]
 [[FlexibleManifoldReconfiguration]]
 [[FlexibleNeuromorphicAccelerator]]
 [[Fractal_Scaling]]

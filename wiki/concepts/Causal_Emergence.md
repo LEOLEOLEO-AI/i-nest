@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN动力学]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[CST计量仪]]
+[[C_elegansConnectomeAnalogy]]
 [[Complex_System_Theory]]
 [[Effective_Information]]
 [[Intelligence_Emergence]]

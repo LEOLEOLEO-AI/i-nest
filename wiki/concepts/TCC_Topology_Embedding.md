@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[InterconnectConstrainedEmergence]]
 [[Large_Deviation_Study]]
+[[MemoryDrivenRouting]]
 [[MicroTransferPrinting]]
 [[MultiplicativeGainMechanism]]
 [[MultiplicativeGain]]

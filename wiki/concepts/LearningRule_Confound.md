@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_InMemory_Processing]]
 [[AnisotropicTensileStrength]]
 [[AnteHoc_Explainability]]
+[[Backpropagating_Action_Potential]]
 [[Backpropagation_Comparison]]
 [[Banded_NonHermitian_Matrix]]
 [[Barrier_Hierarchy]]

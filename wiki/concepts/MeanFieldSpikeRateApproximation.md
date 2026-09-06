@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[SparseTemporalEncoding]]
+[[SpikeCodingProbabilisticVariables]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[Wafer_Scale_Integration]]

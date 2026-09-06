@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[RoutingBasedComputation]]
 [[SDDE_SelfDescribingDataExchange]]
 [[SemanticTopologyMapping]]
+[[StochasticMultiAgentRL]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]

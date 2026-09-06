@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_SDI]]
 [[SDI_Bond]]
 [[TCC]]
+[[VLSI_CrossbarIntegration]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

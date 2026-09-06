@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[BrainActivityPrediction]]
 [[CombinedImportanceScoring]]
 [[CrashHotspotForecasting]]
+[[CurrentInjectionSNN]]
 [[DARPA_ProjectManager_Model]]
 [[DataDrivenMaterialDesign]]
 [[DivergentHigherAreaRanking]]

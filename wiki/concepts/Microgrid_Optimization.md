@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
+[[HigherOrderInteractions]]
 [[Intelligence_Emergence]]
 [[Master_SDDE]]
 [[Network_Topology_Design]]

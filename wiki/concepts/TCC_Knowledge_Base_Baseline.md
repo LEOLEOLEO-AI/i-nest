@@ -66,6 +66,7 @@ Auto-extracted concept from raw material compilation.
 [[Spaceborne_Computing_Architecture]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[TopologyAware_Embedding]]
 [[advanced packaging]]
 [[chiplet interconnect]]
 [[涌现]]

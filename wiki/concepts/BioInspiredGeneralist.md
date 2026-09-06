@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[CompactAnalogPredictor]]
 [[Complex_System_Theory]]
 [[ComputationalProcessReuse]]
+[[Compute_In_Memory_Neuromorphic]]
 [[CrossLingualIdiomGraph]]
 [[DiluteDipolarNetwork]]
 [[Emergence_Phase]]

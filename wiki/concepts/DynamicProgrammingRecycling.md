@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Advanced_Packaging_for_Space]]
 [[AnalogDomainCompression]]
 [[AnalogInMemoryComputing]]
+[[Attention_Residuals]]
 [[ChipletTrafficAwareScheduling]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]

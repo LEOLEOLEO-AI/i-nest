@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Thermalisation]]
 [[DiagnosticReportFramework]]
 [[EulaminateOverrepresentation]]
+[[GradientFreeTraining]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

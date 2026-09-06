@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]
 [[SDI_Interconnect]]
+[[SDI_NPU_NoC_Integration]]
 [[SDI_NoC_Fusion]]
 [[SDI_NoC_Integration]]
 [[SparseTemporalEncoding]]

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_PPT_Workflow]]
 [[ANN_SNN_ConversionError]]
 [[ANN_to_SNN_Conversion_Error_Amplification]]
+[[AcceleratorReconfigurationOverhead]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[PPT]]

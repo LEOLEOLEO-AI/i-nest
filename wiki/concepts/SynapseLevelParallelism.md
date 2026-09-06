@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Meta_Residual_Learning]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
+[[Nonlinear_Gain]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[SNN]]

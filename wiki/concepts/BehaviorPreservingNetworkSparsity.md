@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[ElectronicBurstingNeuron]]
 [[EnergyEfficientNeuromorphic]]
 [[EventCameraPoseInput]]
+[[EventDrivenModularArchitecture]]
 [[EvolutionarySpikeTimingOptimization]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]

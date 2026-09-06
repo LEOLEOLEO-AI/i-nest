@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Crystallized_Neural_Manifolds]]
 [[DendriticReservoirState]]
+[[DeviceLevelNonlinearityScaling]]
 [[ERI_2_0_Strategic_Framework]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]

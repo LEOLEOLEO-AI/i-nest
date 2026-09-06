@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[SOC]]
 [[SocialSkillAcquisition]]
+[[SpikingPlaceCellEnsemble]]
 [[Spiking_Neural_Network]]
 [[SuperparamagneticSwitchingRate]]
 [[Swarm_Coordination]]

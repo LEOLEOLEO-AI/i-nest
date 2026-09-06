@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
+[[GeTeBasedCBRAM]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Loihi2_OnChip_Learning]]

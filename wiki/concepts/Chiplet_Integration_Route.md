@@ -68,6 +68,7 @@ Auto-extracted concept from raw material compilation.
 [[Γst_Revision]]
 [[三原理协同_FEP_STDP_最小作用量]]
 [[神经网络]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[CXL_Deployment_Transition]]
 [[ChipletTopologyAwareness]]
 [[Chiplet]]
+[[Chiplet_Advanced_Packaging]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]
 [[Chiplet_Stacking]]

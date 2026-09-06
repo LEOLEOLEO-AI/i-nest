@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Driven_Architecture_Search]]
 [[AI_Forum_Demo_Narrative]]
 [[Adaptive_Intelligence_Principle]]
+[[Adaptive_Service_Orchestration]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[ArtificialProprioception]]
 [[Baseline_Draft_Status]]

@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[AcademicDevelopmentCoCreation]]
 [[AcceleratedMaterialScreening]]
+[[AdjustableDynamicsReservoir]]
 [[AdversarialResilience]]
 [[AlternativeBridgingModels]]
 [[Biomanufacturing_Control_Loop]]
@@ -48,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[ReservoirComputingModel]]
 [[Reservoir_Computing]]
 [[ShortTermMemoryReservoir]]
+[[ShortTermMemory]]
 [[iNEST]]
 
 ## Sources

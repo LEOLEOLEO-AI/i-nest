@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3D_Heterogeneous_Integration]]
 [[AI_Driven_Power_Density_Scaling]]
 [[AI_FullSpectrum_Strategy]]
 [[AdaptiveGraphDiffusion]]
@@ -42,9 +43,11 @@ Auto-extracted concept from raw material compilation.
 [[FisherInformationMetric]]
 [[HybridResistiveMemoryCIM]]
 [[In_Memory_Computing]]
+[[Interconnect_Routing]]
 [[LightweightNeuromorphic]]
 [[Long_Range_Interactions]]
 [[MemoryDrivenRouting]]
+[[Memristive_Crossbar]]
 [[Memristive_Crossbar_Array]]
 [[Minimal_Complete_Principle]]
 [[Network_Topology_Design]]

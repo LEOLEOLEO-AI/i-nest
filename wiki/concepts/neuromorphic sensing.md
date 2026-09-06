@@ -40,6 +40,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[InSensorMemoryComputing]]
 [[InSituNeuralProcessing]]
 [[In_Network_Generative_Inference]]
+[[In_Package_Neuromorphic_Integration]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]

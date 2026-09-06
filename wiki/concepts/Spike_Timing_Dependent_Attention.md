@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Encoding_of_fMRI]]
 [[Spike_Timing_Dependent_Plasticity]]
 [[SpikingNeuralDynamics]]
+[[SpikingPolicyGradient]]
 [[Spiking_Neural_Network]]
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]

@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[OpportunisticRoutingRL]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
@@ -59,11 +60,13 @@ Auto-extracted concept from raw material compilation.
 [[SpikingNeuralNetworkTopology]]
 [[SpikingNeuralNetwork]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[WirelessSplitComputing]]
 [[iNEST]]
 [[忆阻器]]
 [[新型计算]]
 [[神经形态计算]]
+[[神经网络]]
 [[类脑芯片]]
 
 ## Sources

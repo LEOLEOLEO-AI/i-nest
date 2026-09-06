@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_MasterEquation]]
 [[CST_Theory]]
 [[CST_Theory_V27_FINAL]]
+[[ChiralTopologicalMatter]]
 [[Complex_System_Theory]]
 [[Criticality]]
 [[EpidemicThreshold]]

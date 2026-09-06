@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[BioPlausibleDisturbanceObserver]]
 [[Biologically_Plausible_Learning_Rules]]
 [[BulletTrainScheduling]]
+[[CST_Synergy_Coordination]]
 [[CST_Theory]]
 [[CST_Theory_V27_FINAL]]
 [[Complex_System_Theory]]

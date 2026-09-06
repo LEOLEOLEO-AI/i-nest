@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Direct_Threshold_Sensing]]
 [[DistributedInference]]
 [[Memristive_Synapse]]
+[[MemristorStateEvolution]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]

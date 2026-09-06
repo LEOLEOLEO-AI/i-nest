@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_STDP]]
 [[SDI_STDP_Rule]]
 [[SDSoW]]
+[[SDSoW_Architecture]]
 [[STDP_Plasticity]]
 [[SelfMotivatedGrowth]]
 [[Self_Organized_Criticality]]
@@ -62,6 +63,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[Wafer_Scale_Memristor_Interconnect]]
 
 ## Sources

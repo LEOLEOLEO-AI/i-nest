@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[EpidemicThreshold]]
 [[EvolutionaryDiversityPreservation]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
+[[InNetworkReconfiguration]]
 [[Interconnect_Routing]]
 [[LLMDrivenPathSelection]]
 [[LocalInteractionDrivenReconfiguration]]

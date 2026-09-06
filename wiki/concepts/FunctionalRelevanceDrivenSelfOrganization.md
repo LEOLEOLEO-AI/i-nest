@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[CriticalityDrivenStateTransition]]
 [[Criticality]]
+[[DelayAwareSpikeEventDelivery]]
 [[DynamicTokenSparsity]]
 [[Dynamic_Expert_Fusion]]
 [[Edge_Neuromorphic_Compute]]

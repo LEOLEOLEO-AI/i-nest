@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Disorder_Driven_Quantum_Phase_Transition]]
 [[DynamicCentralitySteering]]
 [[DynamicalCriticality]]
+[[EmulationTheoryDisturbanceObserver]]
 [[InNetworkComputing]]
 [[Neuromorphic_Computing]]
 [[Self_Organized_Criticality]]

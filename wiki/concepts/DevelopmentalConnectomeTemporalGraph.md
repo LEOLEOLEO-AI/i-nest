@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[EvolutionaryLearningYield]]
 [[EvolutionaryReservoirLearning]]
 [[GraphEmbeddedReservoir]]
+[[HierarchicalModularReservoirs]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

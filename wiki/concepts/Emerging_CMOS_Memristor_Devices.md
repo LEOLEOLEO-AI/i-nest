@@ -56,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[PostVonNeumannIntelligence]]
 [[SneakPathCurrentSuppression]]
 [[SpontaneousOrderMechanism]]
+[[SwarmGradientRouting]]
 [[TCC]]
 [[TCC_Topology]]
 [[TCC_Topology_Embedding]]

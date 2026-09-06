@@ -73,6 +73,7 @@ Auto-extracted concept from raw material compilation.
 [[ScaleFreeNetworks]]
 [[Second_Curve_Industry_Platform]]
 [[Spacetime_Coupling_Coefficient]]
+[[Spatiotemporal_Synergy]]
 [[Spatiotemporal_Synergy_Complexity]]
 [[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]
@@ -82,6 +83,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologyCentricEngineeringBase]]
 [[TopologyFragility]]
 [[UniversalIntelligence_Emergence]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[chiplet interconnect]]
 [[complex system]]
 [[iNEST]]
@@ -92,3 +94,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- Network_Spatiotemporal_Synergy (merged 2026-09-07)

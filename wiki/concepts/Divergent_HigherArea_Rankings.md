@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Reconfigurability]]
 [[FluxAttachmentTopology]]
 [[GenerativeTopologyModels]]
+[[GravityPathIntegralTopology]]
 [[Inference_Stage_Decomposition]]
 [[Inference_Workload_Profiling]]
 [[Intelligence_Emergence]]

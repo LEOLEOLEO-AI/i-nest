@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Inference_Workload_Profiling]]
 [[Interconnect_Routing]]
 [[Logic_Folding]]
+[[MicroRouter_Embedding]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC]]

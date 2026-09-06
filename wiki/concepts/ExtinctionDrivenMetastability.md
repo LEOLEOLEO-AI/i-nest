@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveEntanglementManagement]]
 [[BackflowTransformation]]
 [[Complex_System_Theory]]
+[[Continuous_Control_Spike_Timing_Sensitivity]]
 [[CorticalWaveRouting]]
 [[DimensionSeparation_IntensiveExtensive]]
 [[EpidemicThreshold]]

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[3d]]
 [[AdaptiveBitPrecisionExploration]]
 [[AdaptiveGraphDiffusion]]
+[[Adaptive_Intelligence_Principle]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Chiplet]]

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[ConverterDrivenStability]]
 [[Criticality]]
 [[FormalLinguisticCompetence]]
+[[HierarchicalBayesianCommunityDetection]]
 [[Intelligence_Emergence]]
 [[Memristor]]
 [[Memristor_Synapse]]

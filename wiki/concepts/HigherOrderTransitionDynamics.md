@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
+[[AdjustableDynamicsReservoir]]
 [[AlternativeBridgingModels]]
 [[AmorphousSolidPlasticity]]
 [[Biomanufacturing_Control_Loop]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Environmental_Coupling_Organization]]
 [[Fading_Memory_Property]]
 [[FerroelectricSemiconductorReservoir]]
+[[Ferroelectric_Devices]]
 [[FirstPrinciples_AI]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

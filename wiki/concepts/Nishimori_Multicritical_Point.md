@@ -45,6 +45,8 @@ Auto-extracted concept from raw material compilation.
 [[NeuronalCriticality]]
 [[NishimoriLine]]
 [[NonEquilibriumPhaseTransition]]
+[[NonEquilibriumPhase]]
+[[OptimalRepresentationCriticality]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Self_Organized_Criticality]]
 [[Synaptic_Plasticity]]

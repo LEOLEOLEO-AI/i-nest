@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[BrainActivityPrediction]]
 [[BrainBodyResonance]]
 [[ClosedLoopNeuromorphicControl]]
+[[Controlled_Release_Kinetics]]
 [[Neuromorphic_Computing]]
 [[SpikeEncoding]]
 [[Spiking_Neural_Network]]

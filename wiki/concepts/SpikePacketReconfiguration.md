@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Interconnect_Routing]]
 [[LocalPlasticityPipeline]]
+[[NeuromorphicObserverArchitecture]]
 [[Neuromorphic_Computing]]
 [[QuantumProbabilityFlowHebbian]]
 [[ReconfigurableSpikingRouting]]

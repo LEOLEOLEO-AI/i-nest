@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Architecture]]
 [[Event_Driven_Computation]]
 [[FlexibilityThreshold]]
+[[InNetworkChaosDetection]]
 [[Neuromorphic_Computing]]
 [[Online_Continual_Learning]]
 [[STDP_Plasticity]]

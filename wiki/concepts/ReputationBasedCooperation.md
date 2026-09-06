@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[MicroTransferPrinting]]
 [[Network_Topology_Design]]
+[[Nishimori_Threshold]]
 [[Resilient_Sensing_Comms_Network]]
 [[SOC]]
 [[TCC]]

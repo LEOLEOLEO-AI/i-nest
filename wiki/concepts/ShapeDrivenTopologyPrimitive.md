@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[Crossover_Physics]]
 [[Driven_Criticality]]
+[[EarlyExiting]]
 [[ExactlyFlatTopologicalBands]]
 [[InNetworkComputing]]
 [[Interconnect_Routing]]

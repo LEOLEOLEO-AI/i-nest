@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_InMemory_Processing]]
 [[BCM滑动阈值]]
 [[CST_Synergy_Coordination]]
+[[CST_Theory_V27_FINAL]]
 [[CST_Triad_Integration]]
 [[CST_V42_SelfConsistency]]
 [[CST计量仪]]

@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[CrystalPalace_Program]]
 [[DARPA_ProjectManager_Model]]
 [[Deep_Thermalisation]]
+[[DisturbancePropagationPath]]
 [[ERI_2_0_Strategic_Framework]]
 [[EndToEndLinkSimulation]]
 [[Environmental_Capability_Context]]

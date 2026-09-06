@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AdsorptionBiosorptionHybrid]]
 [[AdvancedPackagingInterconnect]]
 [[Allreduce_Latency_Diagnostic]]
+[[Bipartite_Interconnect_Design]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[TCC]]

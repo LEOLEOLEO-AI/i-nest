@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN动力学]]
 [[Analog_InMemory_Processing]]
 [[ArtificialLifeTopologyEvolution]]
+[[AutonomousServiceNegotiation]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

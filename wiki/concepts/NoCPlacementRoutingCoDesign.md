@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[ChiralTopologicalMatter]]
+[[CoPackagedOptics]]
 [[Complex_System_Theory]]
 [[CorticalTypeDiversity]]
 [[Decoupled_Priors]]

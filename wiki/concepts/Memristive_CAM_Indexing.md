@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[FlagOS_2_0]]
 [[Heterogeneous_Inference_Division]]
 [[Heterogeneous_Integration]]
+[[Heterogeneous_Integration_Roadmap_HIR]]
 [[HybridResistiveMemoryCIM]]
 [[InNetworkAgentRewiring]]
 [[In_Package_Optical_Interconnect]]

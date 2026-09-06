@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[Epithelial_Barrier_Integrity]]
+[[FunctionalInterfaceBlocks]]
 [[Heterogeneous_Synaptic_Motifs]]
 [[Hyper_Dimensional_Computing]]
 [[InNetworkAgentRewiring]]

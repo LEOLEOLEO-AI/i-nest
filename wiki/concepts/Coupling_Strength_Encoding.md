@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[CouplingMatrixRecovery]]
 [[Crystallized_Neural_Manifolds]]
 [[DTGA]]
+[[Deep_Network_Layer_Stacking]]
 [[DendriticReservoirState]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence]]

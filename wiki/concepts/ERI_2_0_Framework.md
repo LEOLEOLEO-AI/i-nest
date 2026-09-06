@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Energy_Efficient_Control]]
 [[FirstPrinciples_Derivation]]
 [[Heterogeneous_Integration]]
+[[HypergraphNeuralDynamics]]
 [[Intelligence_Emergence]]
 [[InterconnectConstrainedEmergence]]
 [[L2_L3_Reconfigurability]]

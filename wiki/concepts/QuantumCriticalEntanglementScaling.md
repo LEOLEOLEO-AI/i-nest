@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalStateDynamics]]
 [[CriticalityBasedClassification]]
 [[CriticalityDrivenEfficientCoding]]
+[[CriticalityInNeuralNetworks]]
 [[Criticality]]
 [[EntanglementScaling]]
 [[Intelligence_Emergence]]

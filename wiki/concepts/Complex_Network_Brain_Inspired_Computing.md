@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Neuromorphic_Acceleration]]
 [[FPGA_Neuromorphic_Architectures]]
 [[Flexible_Neural_Mapping]]
+[[HippocampalNeocorticalIntelligence]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]
 [[MetaFAIR_ArchitectureDiscovery]]

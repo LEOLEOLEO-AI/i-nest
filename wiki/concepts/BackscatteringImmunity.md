@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[BisectionBandwidthMetric]]
 [[CXL_Deployment_Transition]]
 [[ChannelCountScaling]]
+[[ChipletOpticalIO]]
 [[ChipletTopologyAwareness]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]

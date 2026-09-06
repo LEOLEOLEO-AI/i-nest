@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[DistinctReentrantPhases]]
 [[IIL_FirstPrinciplesScaling]]
 [[Intelligence_Emergence]]
+[[KV_Cache_to_BoundaryObject_Transition]]
 [[MachineLearningPotential]]
 [[MetaHardwareAbstraction]]
 [[NCL神经计算定律详解]]

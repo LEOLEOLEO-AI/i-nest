@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[3d]]
 [[AI_Memory_Infrastructure]]
 [[AdaptiveGraphDiffusion]]
+[[Adaptive_Intelligence_Principle]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]

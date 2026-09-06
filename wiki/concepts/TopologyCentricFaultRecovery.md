@@ -40,12 +40,14 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Communication]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[FixedOverheadFloor]]
+[[Intelligence_Emergence]]
 [[LLM_Reward_Design]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[NeuromorphicStatusAwareness]]
 [[NeuromorphicTrackingPipeline]]
 [[Neuromorphic_Computing]]
+[[OpticallyWritableAtomicVaporMemory]]
 [[TCC]]
 
 ## Sources

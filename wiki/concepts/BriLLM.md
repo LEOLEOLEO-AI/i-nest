@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AIRA_NeuralArchSearch]]
 [[AI_Cluster_Switch_Bottleneck]]
 [[AI_Faculty_Forum_2026]]
+[[Alignment_Tax]]
 [[AstrocyteInspiredRepair]]
 [[BayesMarkovOrientationModel]]
 [[Bio_plausible_Neuromorphic_Disturbance_Observer]]
@@ -37,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI节点接口规范与化合键定义]]
 [[Spiking neural network]]
 [[Spiking_Neural_Network]]
+[[Switch_Bottleneck]]
 [[神经网络]]
 
 ## Sources

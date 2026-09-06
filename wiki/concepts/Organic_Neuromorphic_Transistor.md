@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[SynapticFatigueModel]]
 [[Synaptic_Plasticity]]
+[[Syncytial_Mesh_Model]]
 [[iNEST]]
 
 ## Sources

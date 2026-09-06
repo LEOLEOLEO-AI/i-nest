@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[EmergentRecurrentConnectivity]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
+[[EnsembleCreditAssignment]]
 [[Entangled_Criticality]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]

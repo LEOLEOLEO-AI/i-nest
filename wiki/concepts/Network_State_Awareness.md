@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[JumpDiffusion_StochasticQuantization]]
 [[MantelTest_SignCorrection]]
 [[Network_Topology_Design]]
+[[NonlinearDynamicalSampling]]
 [[P_Paradigm]]
 [[PhysicalReservoirInterconnect]]
 [[PhysicalReservoir]]

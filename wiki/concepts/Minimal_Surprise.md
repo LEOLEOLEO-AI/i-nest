@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveLocalLearning]]
 [[AnisotropicGaussianPrimitives]]
 [[FlexibilityThreshold]]
+[[HighTemporalResolutionSensing]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]

@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_iNEST]]
 [[SpikeEncoding]]
 [[Spike_Encoding_of_fMRI]]
+[[SpikingNeuralNetworkInference]]
 [[Spiking_Neural_Network]]
 [[SuperparamagneticSwitchingRate]]
 [[SynapticWeightPlasticity]]

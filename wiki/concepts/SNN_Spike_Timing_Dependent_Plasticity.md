@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveAsymmetricSurrogateGradient]]
 [[AdaptiveFrequencyResonateFire]]
 [[AdaptiveSTDP]]
+[[AdaptiveSpeechToSpikeEncoding]]
 [[AnisotropicGaussianPrimitives]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BioInspiredSequenceLearning]]

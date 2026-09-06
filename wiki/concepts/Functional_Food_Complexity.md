@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[EvanescentFieldTrapping]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[MachineLearningPotential]]
 [[Network_Topology_Design]]
 [[Reservoir_Computing]]
 [[SDI_Bond]]

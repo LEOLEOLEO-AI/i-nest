@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[NoiseDrivenBackpropReconstruction]]
 [[OpinionDrivenVaccination]]
 [[PredictiveCodingVariationalFreeEnergy]]
+[[QuantumChaos]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]
 [[SDI_STDP]]

@@ -20,12 +20,15 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Complex_Network_Class_Brain_Computing]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[CrossbarArrayVLSI]]
 [[Heterogeneous_Integration]]
 [[KeyMaterialStrategy]]
+[[Mesoscale_Advantage_Equation]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[National_Mesoscale_Innovation_Center]]
 [[Network_Topology_Design]]
@@ -33,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Interconnect]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
+[[neuromorphic interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

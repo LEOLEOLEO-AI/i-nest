@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Avoided_Criticality]]
 [[Bidirectional_Temporal_Enhancement]]
+[[BioInspiredInterceptionTask]]
 [[BulletTrainScheduling]]
 [[Criticality]]
 [[CrossEntityPreemptiveWarning]]

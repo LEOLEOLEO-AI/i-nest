@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Entropy_Connectivity_Path]]
 [[Fixed_Cost_Dominance]]
 [[Gut_Brain_Immune_Network]]
+[[Hardware_Accelerated_SNN]]
 [[HippocampalNeocorticalIntelligence]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]

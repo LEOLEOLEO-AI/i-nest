@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_Spatiotemporal_Coefficient]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Complex_System_Theory]]
+[[Complexity_Emergence_Engineering]]
 [[Contested_Prior_Resolution]]
 [[Course_Based_FPGA_Projects]]
 [[DARPA_Project_Group_Strategy]]
@@ -51,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeDrivenDetectionBackbone]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
+[[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
 [[iNEST]]
 

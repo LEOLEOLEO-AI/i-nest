@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[NoC]]
 [[OpticallyWritableAtomicVaporMemory]]
+[[Packaging_Aware_NoC_Design]]
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[TCC]]

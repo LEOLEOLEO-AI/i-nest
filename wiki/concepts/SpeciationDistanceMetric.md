@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[EnergyLandscape_Regularization]]
 [[EventTriggeredDistributedControl]]
 [[GitWhitelistQuotaEnforcement]]
+[[Inference_Workload_Profiling]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

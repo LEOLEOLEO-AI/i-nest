@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologyAwareTaskScheduling]]
 [[TopologyCentricPrimitiveSystem]]
 [[WSE_OnWafer_Fabric]]
+[[WaferScaleCoDesign]]
 [[Wafer_Scale_Integration]]
 [[iNEST]]
 [[iNEST_Wafer]]

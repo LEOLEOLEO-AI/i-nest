@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[DevelopmentalNeuromorphicAdaptation]]
 [[EntropyRegularizedSpikeLoss]]
 [[FirstPrinciples_Derivation]]
+[[FixedOverheadCost]]
 [[Fragmentation_Reduction]]
 [[GroupCoding]]
 [[HippocampalNeocorticalIntelligence]]

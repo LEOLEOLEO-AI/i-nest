@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_Topology]]
 [[Network_State_Awareness]]
 [[Network_Topology_Design]]
+[[NonlinearDynamicalSampling]]
 [[P_Paradigm]]
 [[PhysicalReservoirInterconnect]]
 [[PhysicalReservoir]]

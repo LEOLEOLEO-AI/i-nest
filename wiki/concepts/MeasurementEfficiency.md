@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[DarkSiliconAwarePowerGating]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[MicroTransferPrinting]]
 [[Network_Topology_Design]]
 [[ScaleFreeNetwork]]
 [[SuperparamagneticSwitchingRate]]

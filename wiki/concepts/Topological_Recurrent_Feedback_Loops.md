@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[UniversalIntelligence_Emergence]]
 [[VonNeumann_Complexity_Threshold]]
+[[getnote_2026-02-22_晶上自演化复杂网络的基础理论_关键技术与应用验证_项目群_]]
 [[五层性能评估框架]]
 [[夏强飞一天2篇Nature大子刊：感存算一体，忆阻器阵列模拟计算]]
 [[存算一体]]

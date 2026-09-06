@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[ConductingPolymerDendriteMemory]]
 [[ContinuousTimeSNN]]
 [[Criticality]]
+[[EnergyEfficientRestoration]]
 [[EventDrivenMotionDeblurring]]
 [[Event_Driven_Architecture]]
 [[GradientBasedLearningLocalization]]

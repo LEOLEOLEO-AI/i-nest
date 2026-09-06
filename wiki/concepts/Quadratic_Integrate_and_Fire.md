@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Hypergraph_Label_Noise]]
 [[InteractiveRoboticsLoop]]
 [[LowBitSpikingPruning]]
+[[MembranePotentialDynamics]]
 [[NUMA_Balancing_Interference]]
 [[NeuromorphicHardwareIntegration]]
 [[NeuromorphicHardware]]

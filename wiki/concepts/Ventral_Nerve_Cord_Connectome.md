@@ -26,11 +26,13 @@ Auto-extracted concept from raw material compilation.
 [[Autonomous_Physical_Computation]]
 [[BackflowTransformation]]
 [[BigBrain3DHistology]]
+[[BioInspiredLearningRule]]
 [[BrainActivityPrediction]]
 [[Brain_Connectome]]
 [[C__elegans_Connectome]]
 [[C_elegansConnectomeAnalogy]]
 [[Connectome]]
+[[FlexibilityThreshold]]
 [[Neuromorphic_Computing]]
 [[iNEST]]
 

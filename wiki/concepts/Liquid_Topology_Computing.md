@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Inference_Workload_Profiling]]
 [[Interconnect_Topology]]
 [[Network_Topology_Design]]
+[[SDI_NPU_NoC_Integration]]
 [[TCC]]
 [[TopologyProgramming]]
 [[WirelessSplitComputing]]

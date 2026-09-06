@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[ExplosiveCooperationTransition]]
 [[Hardware_Prototyping_Abstraction]]
 [[Intelligence_Emergence]]
+[[MicroTransferPrinting]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[analog computation]]

@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[CST计量仪]]
 [[Complex_System_Theory]]
 [[Critical_Exponent_Extraction_Method]]
+[[DynamicInference]]
 [[Evolutionary_Computability]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

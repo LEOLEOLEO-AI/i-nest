@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[ApproximationFidelityTradeoff]]
 [[CoPackagedOptics]]
 [[Efficient_Coding_Constraint]]
+[[EventBasedAnalogFrontEnd]]
 [[InNetworkFieldQuery]]
 [[In_Memory_Computing]]
 [[Memory_Wall]]

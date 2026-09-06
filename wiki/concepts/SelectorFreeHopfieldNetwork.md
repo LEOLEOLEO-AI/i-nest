@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[EventCameraActionRecognition]]
 [[FeFET_Differential_BitCell]]
+[[FerroelectricSynapticArray]]
 [[HeterogeneousSynapticDelays]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]

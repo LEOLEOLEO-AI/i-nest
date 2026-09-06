@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AdjustableDynamics]]
 [[ArmLocomotorCoordination]]
 [[AstrocyteInspiredRepair]]
+[[BigBrainCellularAxis]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]

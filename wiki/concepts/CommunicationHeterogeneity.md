@@ -57,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[STDP_Plasticity]]
+[[SimulationReproducibilityAudit]]
 [[SparseTemporalEncoding]]
 [[Synaptic_Plasticity]]
 [[TCC]]

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AmoebaInspiredLocomotion]]
 [[BarrierConditionedTrajectory]]
 [[BioInspired_Interception_Control]]
+[[CriticalityDrivenStateTransition]]
 [[DTGA]]
 [[FPGA_SNN_Inference]]
 [[Interconnect_Routing]]

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_SDI_Topology]]
 [[P_Paradigm]]
 [[SDI_Bond]]
+[[SDI_NPU_NoC_Integration]]
 [[SDI_NoC_Fusion]]
 [[SDI_NoC_Integration]]
 [[SDI_Topology]]

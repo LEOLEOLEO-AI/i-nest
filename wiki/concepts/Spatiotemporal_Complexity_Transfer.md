@@ -31,11 +31,14 @@ Auto-extracted concept from raw material compilation.
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[CrossbarArrayVLSI]]
 [[Four_Scale_Semantic_Battlefield]]
+[[Heterogeneous_Integration]]
 [[Interconnect_Topology]]
 [[KeyMaterialStrategy]]
+[[Memristive_Wafer_Neuromorphic_Interconnect]]
 [[Minimum_Energy_Consumption_Law]]
 [[Network_Topology_Design]]
 [[Wafer_Scale_Integration]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

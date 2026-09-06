@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
 [[Generalization_Bound_Spectra]]
+[[HippocampalNeocorticalIntelligence]]
 [[Intelligence_Emergence]]
 [[Layered_Attractive_Hubbard_Model]]
 [[Loihi2_OnChip_Learning]]

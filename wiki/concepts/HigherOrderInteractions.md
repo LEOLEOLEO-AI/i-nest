@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
 [[Heterogeneous_Integration]]
+[[HybridBondingForPhotonicLayers]]
 [[Intelligence_Emergence]]
 [[Microgrid_Optimization]]
 [[Network_Topology_Design]]

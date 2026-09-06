@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_Interconnect]]
 [[SDI_NoC_Fusion]]
+[[SDI_Stream_Aware_NoC_Routing]]
 [[SDI_Topology]]
 [[TCC]]
 [[iNEST]]

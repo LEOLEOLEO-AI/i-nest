@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[GenerativeTopologyModels]]
 [[Heterogeneous_Integration]]
 [[HigherOrderInteractions]]
+[[HybridBondingForPhotonicLayers]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

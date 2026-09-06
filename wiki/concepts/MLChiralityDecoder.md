@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[SNN]]
 [[Spiking_Neural_Network]]
+[[TriAxiomCalibration]]
 [[neuromorphic substrate]]
 
 ## Sources

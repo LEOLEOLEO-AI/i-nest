@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[ERI_2_0_Strategy]]
 [[Heterogeneous_Synaptic_Motifs]]
 [[Intelligence_Emergence]]
+[[KV_Cache_to_BoundaryObject_Transition]]
 [[MachineLearningPotential]]
 [[MetaHardwareAbstraction]]
 [[NCL神经计算定律详解]]

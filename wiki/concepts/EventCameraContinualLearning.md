@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BrainInspired_Computing_Paradigm]]
 [[BurstInterleaving]]
 [[Closed_Loop_Neuromodulation]]
+[[Complex_System_Theory]]
 [[ContinualLearningOnNeuromorphic]]
 [[Continual_Learning_Modularity]]
 [[ContinuousGameOfLife]]
@@ -41,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenRiskAssessment]]
 [[NeuromorphicStatusAwareness]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Hardware_Paradigm]]
 [[catastrophic forgetting]]
 [[iNEST]]
 

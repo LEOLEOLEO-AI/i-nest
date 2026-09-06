@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[Alignment_Tax]]
 [[AstrocyteInspiredRepair]]
+[[AutogradCompatibleSpiking]]
 [[Complex_System_Theory]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

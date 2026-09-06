@@ -27,7 +27,11 @@ Auto-extracted concept from raw material compilation.
 [[BoundaryObject_Abstraction]]
 [[ByteDance_Ada_Chip]]
 [[CST_Intelligence_Emergence]]
+[[Causal_Emergence]]
 [[Causal_Emergence_Integration]]
+[[Complex_Network_Class_Brain_Inspired_Intelligence]]
+[[Complex_System_Theory]]
+[[Intelligence_Emergence]]
 [[Neuromorphic_Computing]]
 [[iNEST]]
 

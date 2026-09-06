@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[Control_Field_Framework]]
 [[Crossbar_Programming]]
+[[DendriticTaskPartitioning]]
 [[DevelopmentalNeuromorphicAdaptation]]
 [[Developmental_Computing]]
 [[Dimensionality_Modularity_Tradeoff]]

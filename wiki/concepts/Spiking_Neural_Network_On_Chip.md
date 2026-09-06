@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[ContinuousTimeSNN]]
 [[Criticality]]
 [[Criticality_Based_Feature_Extraction]]
+[[DelayAwareSpikeEventDelivery]]
 [[Delay_Aware_Autograd_Spiking_Framework]]
 [[Direct_Spike_Attention]]
 [[DynamicTokenSparsity]]

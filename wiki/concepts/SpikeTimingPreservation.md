@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Environmental_Capability_Context]]
 [[EventCameraTemporalEncoding]]
 [[FPGACongestionHotspotMitigation]]
+[[In_Network_Neuromorphic]]
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]
 [[LocalQuantumLearningRule]]

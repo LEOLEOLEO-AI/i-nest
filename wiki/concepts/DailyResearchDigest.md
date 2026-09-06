@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
 [[Personnel_Role_Assignment]]
+[[Pseudofractal_Web]]
 [[QueryComplexityScaling]]
 [[SOC]]
 [[SpatialAutocorrelationMetric]]

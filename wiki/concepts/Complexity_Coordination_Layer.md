@@ -69,6 +69,7 @@ Auto-extracted concept from raw material compilation.
 [[chiplet interconnect]]
 [[complex system]]
 [[emergent computation]]
+[[iNEST 论文矩阵计划]]
 [[iNEST]]
 [[iNEST_Interconnect]]
 [[iNEST_Interconnect_Topology]]

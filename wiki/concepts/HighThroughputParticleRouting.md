@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[4H_SiC_SubstrateProcessing]]
 [[AI_Application_Scenario_Reconstruction]]
 [[AcceleratedMaterialScreening]]
 [[AdversarialResilience]]

@@ -22,11 +22,13 @@ Auto-extracted concept from raw material compilation.
 
 [[3D_IC_Stacking]]
 [[3D_Vertical_Interconnect]]
+[[3d]]
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_Faculty_Forum_2026]]
 [[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[AnalogInMemoryComputing]]
+[[Attention_Residuals]]
 [[BurstInterleaving]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

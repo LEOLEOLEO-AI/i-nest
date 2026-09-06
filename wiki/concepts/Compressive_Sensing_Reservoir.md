@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Driven_Architecture_Search]]
 [[AI_Forum_Demo_Narrative]]
 [[AgenticServiceManifesto]]
+[[AgenticServiceOrchestration]]
 [[CriticalityInducedTopology]]
 [[Criticality]]
 [[Criticality_Metric_Extraction]]

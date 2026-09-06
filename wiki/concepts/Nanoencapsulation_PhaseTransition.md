@@ -44,6 +44,8 @@ Auto-extracted concept from raw material compilation.
 [[GradientBasedSpikeLearning]]
 [[HierarchicalReservoirDynamics]]
 [[MemristiveSynapticFatigue]]
+[[Meta_Residual_Learning]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[ReservoirDynamics]]

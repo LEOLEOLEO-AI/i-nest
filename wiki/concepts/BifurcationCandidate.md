@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Electronic_Crystal_Dynamics]]
 [[Emergent_Topology_Adaptation]]
 [[EntanglementAwareRouting]]
+[[FPGA_Reconfigurability]]
 [[FatalityDrivenRewiring]]
 [[FunctionalInterfaceBlock]]
 [[FunctionalRelevanceDrivenSelfOrganization]]

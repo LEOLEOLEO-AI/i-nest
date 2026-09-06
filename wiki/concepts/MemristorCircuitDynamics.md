@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Complexity_Emergence]]
 [[Constructed_Reality_Interconnect]]
 [[DevelopmentalNeuromorphicAdaptation]]
+[[Efficient_Coding_Constraint]]
 [[Inference_Driven_Fitness]]
 [[Intelligence_Emergence]]
 [[InterconnectDrivenPlacement]]

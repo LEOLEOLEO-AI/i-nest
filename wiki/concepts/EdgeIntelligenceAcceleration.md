@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[CorticalTypeDiversity]]
 [[CrossbarArrayVLSI]]
+[[EventDriven_Interconnect]]
 [[Express_Link_Virtualization]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]

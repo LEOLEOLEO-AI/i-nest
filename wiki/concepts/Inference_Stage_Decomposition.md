@@ -66,6 +66,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[ThroughSiliconVia_TSV_ThermalPath]]
+[[TopologyGradientSignal]]
 [[advanced packaging]]
 [[chiplet interconnect]]
 [[涌现]]

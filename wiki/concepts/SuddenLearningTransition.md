@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[LatencyGradientDescent]]
 [[LearningTransition]]
 [[MembranePotentialAlignment]]
+[[NeuralVariabilityEnhancement]]
 [[Neuromorphic_Computing]]
 [[OpenEndedEvolutionSteering]]
 [[Organic_Neuromorphic_Transistor]]

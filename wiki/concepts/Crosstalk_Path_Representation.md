@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[BoundaryObject_Abstraction]]
 [[DARPA_ProjectManager_Model]]
 [[Deep_Network_Architecture_Invariant]]
+[[DynamicProgrammingRecycling]]
 [[Memristor]]
 [[Memristor_Crossbar]]
 [[Memristor_Synapse]]

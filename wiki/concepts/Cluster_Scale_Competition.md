@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
 [[FlagOS_2_0]]
+[[Heterogeneous_Integration]]
 [[KV_Cache_To_BoundaryObject]]
 [[KV_Cache_to_BoundaryObject_Transition]]
 [[MetricComputationAuthenticity]]

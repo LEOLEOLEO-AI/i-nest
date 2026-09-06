@@ -40,11 +40,13 @@ Auto-extracted concept from raw material compilation.
 [[CriticalBranching]]
 [[CriticalLearningRegime]]
 [[CriticalityDrivenStateTransition]]
+[[CriticalityInNetworkComputing]]
 [[Criticality]]
 [[Interconnect_Routing]]
 [[MoE_Routing]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Quantum_Criticality]]
 [[Self_Organized_Criticality]]
 
 ## Sources

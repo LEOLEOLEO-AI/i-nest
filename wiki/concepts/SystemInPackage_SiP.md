@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicInference]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
+[[GenerativeTopologyModels]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]

@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Network_Neuromorphic]]
 [[Interconnect_Routing]]
 [[MagnitudePhaseComputationalModel]]
+[[MixedLabyrinthFractal]]
 [[NeuromorphicRoutingOptimization]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]

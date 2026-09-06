@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[IntrinsicTimingSTDP]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Nonlinear_Gain]]
 [[Online_Continual_Learning]]
 [[PhaseLockedTopologyMapping]]
 [[PolychronousNeuronalGroups]]

@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[CrystalPalace_Program]]
 [[DataDrivenMaterialDesign]]
 [[Deep_Thermalisation]]
+[[DeviceLevelNonlinearityScaling]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Roadmap]]
 [[ErrorSuppressedPipeline]]
@@ -51,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[TinySubstrateEmergence]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
+[[神经网络]]
 [[类脑芯片]]
 
 ## Sources

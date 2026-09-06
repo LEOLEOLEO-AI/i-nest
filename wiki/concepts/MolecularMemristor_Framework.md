@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossbarArrayVLSI]]
 [[DevelopmentalNeuromorphicAdaptation]]
 [[FPGAInference]]
+[[FPGASpikingImplementation]]
 [[Interconnect_Routing]]
 [[Memristor]]
 [[Memristor_Synapse]]

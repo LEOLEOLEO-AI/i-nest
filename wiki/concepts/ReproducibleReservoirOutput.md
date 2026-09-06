@@ -62,6 +62,7 @@ Auto-extracted concept from raw material compilation.
 [[RenormalizationGroup_ScalingLaws]]
 [[RenormalizationGroup_Scaling]]
 [[Reservoir_Computing]]
+[[SpatialPatternStorage]]
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
 [[SuperparamagneticSwitchingRate]]

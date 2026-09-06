@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle_Network]]
 [[HeterogeneousSiliconNitridePlatform]]
 [[Heterogeneous_Integration]]
+[[Inference_Stage_Decomposition]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Logic_Folding]]

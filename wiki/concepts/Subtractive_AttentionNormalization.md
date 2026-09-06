@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Deep_Brain_Stimulation]]
 [[Amorphous_Amorphous_Transition]]
 [[AstrocyteInspiredRepair]]
+[[BigBrainCellularAxis]]
 [[BioInspiredLearningRule]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]

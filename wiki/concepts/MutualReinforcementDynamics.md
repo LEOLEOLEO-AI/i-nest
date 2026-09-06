@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[EvolutionaryReservoirLearning]]
 [[GraphEmbeddedReservoir]]
 [[HierarchicalModularReservoirs]]
+[[InNetworkNeuromorphicSimulation]]
 [[In_Context_Learning]]
 [[Intelligence_Emergence]]
 [[Nanoscale_Memristive_Threats]]

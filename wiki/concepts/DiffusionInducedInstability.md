@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[MatrixShapePhaseTransition]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
+[[NonEquilibriumPhaseTransition]]
 [[NonEquilibriumPhase]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Self_Organized_Criticality]]

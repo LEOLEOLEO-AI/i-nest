@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AIRA_NeuralArchSearch]]
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_Orchestrator]]
+[[Active_Inference_Agent]]
 [[Complex_System_Theory]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

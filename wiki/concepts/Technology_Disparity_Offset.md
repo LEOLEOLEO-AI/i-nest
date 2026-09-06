@@ -58,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[SNN]]
+[[ST_SNN]]
 [[SelfOrganizedOscillatoryLearning]]
 [[Spiking_Neural_Network]]
 [[Strategic_Surprise_Prevention]]

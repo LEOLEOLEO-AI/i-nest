@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Mesoscale_Heterogeneous_Integration]]
 [[National_Mesoscale_Innovation_Center]]
 [[Network_Topology_Design]]
+[[SDSoW]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[chiplet interconnect]]

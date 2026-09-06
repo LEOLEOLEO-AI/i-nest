@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[DimensionReductionViaSimplicialProjection]]
 [[EpoxyMoldingCompoundFlow]]
 [[GoogleBrain_Spinout_Ecosystem]]
+[[ImaginaryGaugePhaseImprint]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]

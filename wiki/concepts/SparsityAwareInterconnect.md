@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Topology]]
 [[SparseTemporalEncoding]]
 [[TCC]]
+[[TSV_Interconnect]]
 [[TopologicalAndersonChernInsulator]]
 [[WaferScale_Chiplet_Interconnect]]
 [[WideLink_NoC_Router]]

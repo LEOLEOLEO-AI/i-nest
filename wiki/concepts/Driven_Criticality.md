@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Continual_Learning_Modularity]]
 [[CounterstreamSignalPropagation]]
 [[CriticalityDrivenStateTransition]]
+[[CriticalityOffCriticalityTransition]]
 [[Criticality]]
 [[CrossLayer_SignalRouting]]
 [[DifferentiableNetworkMetrics]]

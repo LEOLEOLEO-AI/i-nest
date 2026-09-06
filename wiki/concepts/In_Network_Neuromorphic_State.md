@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[FerroelectricSemiconductorReservoir]]
 [[Ferroelectric_Devices]]
 [[Heterogeneous_Integration]]
+[[HodgkinHuxleyDynamics]]
 [[In_Network_Neuromorphic]]
 [[Memristive_Interconnect]]
 [[Memristive_STDP]]

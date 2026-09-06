@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[BackflowTransformation]]
 [[CrossLayer_SignalRouting]]
 [[EvolutionaryDiversityPreservation]]
+[[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[SNN]]

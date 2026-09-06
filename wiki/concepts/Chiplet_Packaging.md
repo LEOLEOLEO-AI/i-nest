@@ -59,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC]]
 [[NoC_Interconnect]]
 [[OnDie_Fusion]]
+[[PhononicCrystalMicrowaveCoupling]]
 [[Photonic_Chiplet_Interconnect]]
 [[SDI_Bond]]
 [[SDI_Chiplet]]

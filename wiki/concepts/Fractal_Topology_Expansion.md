@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Brain_Scale_Parameter_Baseline]]
 [[ChipletOnWafer]]
 [[ChipletWaferInterconnectCoDesign]]
 [[ChipletWaferInterconnectScaling]]
@@ -31,10 +32,12 @@ Auto-extracted concept from raw material compilation.
 [[CommunicationAsComputation]]
 [[Communication_Primitive]]
 [[CrossbarArrayVLSI]]
+[[Heterogeneous_Integration]]
 [[Interconnect_Topology]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

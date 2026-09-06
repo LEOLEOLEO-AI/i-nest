@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration_Route]]
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
+[[CoPackagedOptics]]
 [[Complex_System_Theory]]
 [[Cryogenic_Syndrome_Compression]]
 [[HardwareAware_SelfOrganization]]

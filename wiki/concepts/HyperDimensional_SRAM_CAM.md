@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[3DHI_Integration]]
 [[3DHI_Stacking]]
 [[3d]]
+[[4H_SiC_SubstrateProcessing]]
 [[AI_Faculty_Forum_2026]]
 [[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]

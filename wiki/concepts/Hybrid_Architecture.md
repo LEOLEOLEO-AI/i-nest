@@ -22,8 +22,10 @@ Auto-extracted concept from raw material compilation.
 
 [[1M1T1R_SynapticNeuron]]
 [[3D_Torus_6_Degree]]
+[[3d]]
 [[6万+辛顿2025年度全景实录深读｜真正的智能与硅基智能的非对称演进]]
 [[AINext_Initiative]]
+[[Adaptive_Deep_Brain_Stimulation]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[SNN]]

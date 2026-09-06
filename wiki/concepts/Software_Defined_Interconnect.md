@@ -60,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[Second_Curve_Wafer_Industry_Platform]]
+[[Software_Defined_Interconnect_bonding_mechanism]]
 [[Spacetime_Coupling_Coefficient]]
 [[SpatiotemporalComplexityIndex]]
 [[SuperlinearGainProof]]

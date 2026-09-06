@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AcousticAnomalyDetection]]
 [[ActiveDendriteSNN]]
 [[ActivityAvalanche]]
+[[Attention_Mechanism_in_SNN]]
 [[Autonomous_Spiking_Dynamics]]
 [[Avoided_Criticality]]
 [[BrainInspired_Chip]]

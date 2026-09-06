@@ -21,13 +21,19 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Attention_Inspired_Resource_Allocation]]
+[[Bond_Operation_Algebra]]
 [[Chemical_Bond_Operation_Algebra]]
 [[ChipletOnWafer]]
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_NoC_Fabric]]
 [[Chiplet_Stacking]]
 [[CongestionAwareNoCPlacement]]
+[[Defense_Industrial_Base_Reshaping]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
+[[NoC]]
 [[P_Paradigm]]
 [[TCC]]
 

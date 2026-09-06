@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[CrossLayer_SignalRouting]]
 [[Deep_SNN_Trainability]]
+[[DirectTrainingSNN]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[EnergyEfficientNeuromorphic]]

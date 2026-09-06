@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[CentralityBasedMitigation]]
 [[CollectiveStatePhaseTransition]]
 [[ColoredNoiseMaximumEntropy]]
+[[CommunicationHeterogeneity]]
 [[Complex_System_Theory]]
 [[Edge_of_Chaos]]
 [[Intelligence_Emergence]]

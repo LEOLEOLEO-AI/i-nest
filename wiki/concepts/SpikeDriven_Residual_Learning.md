@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspired_Interception_Control]]
 [[BulletTrainScheduling]]
 [[BurstGatedRouting]]
+[[BurstSuppressionMechanism]]
 [[BurstSuppression]]
 [[ContinuousControlConversion]]
 [[CriticalityConstrainedPruning]]

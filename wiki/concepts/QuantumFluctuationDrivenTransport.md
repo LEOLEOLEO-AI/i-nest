@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[DevelopmentalBrainTrajectory]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
+[[EventCameraActionRecognition]]
 [[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]

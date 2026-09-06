@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[HigherOrderStochasticProcess]]
 [[Hypergraph_Label_Noise]]
+[[In_Network_Neuromorphic_Offload]]
 [[LIF_Neuron_Model]]
 [[MagnetizationSusceptibilityResponse]]
 [[Metriplectic_Twin]]

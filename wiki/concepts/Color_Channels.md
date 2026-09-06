@@ -29,6 +29,8 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[CongestionAwareNoCPlacement]]
+[[Express_Link_Virtualization]]
+[[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Interconnect_Topology]]
 [[Network_Topology_Design]]
@@ -38,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Topology]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

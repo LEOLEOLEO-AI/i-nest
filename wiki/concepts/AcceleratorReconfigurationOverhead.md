@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[ExplosiveTransitionThreshold]]
 [[FPGA_Accelerated_SNN]]
 [[FPGA_Neuromorphic_Acceleration]]
+[[FPGA_SNN_Inference]]
 [[Intelligence_Emergence]]
 [[MixedLabyrinthFractal]]
 [[MultiFPGAScaling]]

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[DelayTolerantNetworkUAV]]
 [[Driven_Criticality]]
+[[EventDrivenRiskAssessment]]
 [[ExactlyFlatTopologicalBands]]
 [[HigherOrderNetworkDynamics]]
 [[HigherOrderNetwork]]

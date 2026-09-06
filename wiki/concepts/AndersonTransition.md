@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[InterChipletPHYModeling]]
 [[Interconnect_Routing]]
+[[L2_L3_Reconfigurability]]
 [[MemoryDrivenRouting]]
 [[MemoryEfficientSimulation]]
 [[NCL神经计算定律详解]]

@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[DirectConnect_Topology]]
 [[GPU_Exclusivity_Bottleneck]]
 [[GPU_Hegemony_Disruption]]
+[[HardwareAware_SelfOrganization]]
 [[Heterogeneous_Integration]]
 [[InInterconnectMemory]]
 [[Intelligence_Emergence]]

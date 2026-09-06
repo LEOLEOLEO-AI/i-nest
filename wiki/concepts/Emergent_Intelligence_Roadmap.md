@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[EnsembleSparsity]]
 [[Fixed_Cost_Dominance]]
 [[Free_Energy_Topology_Mapping]]
+[[GutBrainAxis_Reprogramming]]
 [[Gut_Brain_Immune_Network]]
 [[In_Network_Neuromorphic]]
 [[Intelligence_Emergence]]

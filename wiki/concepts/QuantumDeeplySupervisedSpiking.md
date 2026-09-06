@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Quadratic_Integrate_and_Fire]]
 [[Quadratic_Integrate_and_Fire_Neuron]]
 [[RecursiveSelfReferentialArchitecture]]
+[[Reservoir_Computing]]
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SDI_STDP_Bond]]

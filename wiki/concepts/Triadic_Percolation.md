@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveDendriteSNN]]
 [[AnomalousSpinTransport]]
 [[BackflowTransformation]]
+[[BigBrainCellularAxis]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[SNN]]

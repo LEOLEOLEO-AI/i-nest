@@ -60,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Post_Moore_Paradigm]]
+[[Pseudofractal_Web]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]

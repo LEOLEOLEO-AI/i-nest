@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]
+[[Compute_In_Memory_Neuromorphic]]
 [[FPGA_NeuromorphicMapping]]
 [[Heterogeneous_Integration]]
 [[In_Package_Neuromorphic_Integration]]

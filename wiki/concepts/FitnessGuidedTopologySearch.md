@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Bosonic_SPT_Phases]]
 [[Branch_Prediction_Reservoir]]
 [[CouplingMatrixRecovery]]
+[[CouplingTopologyMemoryLink]]
 [[Coupling_Topology]]
 [[Crystallized_Neural_Manifolds]]
 [[DataDrivenMaterialDesign]]

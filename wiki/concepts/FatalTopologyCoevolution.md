@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Path_Selection]]
 [[ArbitraryWavefunctionConfigurability]]
 [[CST_Triad_Integration]]
+[[ChipletOpticalIO]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]

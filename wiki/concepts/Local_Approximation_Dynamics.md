@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[CollectiveDynamics]]
 [[Criticality]]
 [[CrossLayer_SignalRouting]]
+[[DelayAwareSpikeEventDelivery]]
 [[ElasticSpikingTransformer]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]

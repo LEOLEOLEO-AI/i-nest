@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[BayesianConnectivityEstimation]]
 [[CriticalityDrivenStateTransition]]
 [[Criticality]]
+[[EnsembleCreditAssignment]]
 [[InNetworkReconfiguration]]
 [[Interconnect_Routing]]
 [[JointFlightRoutingOptimization]]

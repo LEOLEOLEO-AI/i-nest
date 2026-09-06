@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[ClassicalQuantum_Query_Benchmark]]
 [[Complex_System_Theory]]
+[[CriticalDataThreshold]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

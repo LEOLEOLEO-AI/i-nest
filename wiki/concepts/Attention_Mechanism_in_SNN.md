@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[Spiking neural network]]
 [[Spiking_Neural_Network]]
+[[Syncytial_Mesh_Model]]
 [[iNEST]]
 
 ## Sources

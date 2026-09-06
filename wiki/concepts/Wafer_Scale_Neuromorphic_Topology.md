@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Architecture]]
 [[SDSoW_TCC_Integration]]
 [[TCC]]
+[[WSE_OnWafer_Fabric]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
 [[iNEST]]

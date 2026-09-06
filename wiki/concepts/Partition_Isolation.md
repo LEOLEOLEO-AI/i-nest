@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[HeavyTailedWaitingTime]]
 [[HeavyTailedWaitingTimes]]
 [[Intelligence_Emergence]]
+[[MeasurementEfficientDisorderAware]]
 [[Network_Topology_Design]]
 [[NonHermitian_Random_Matrix_Spectra]]
 [[Nonlinear_Gain]]

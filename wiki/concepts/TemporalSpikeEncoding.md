@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Distributed_Spike_Communication]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
+[[FerroelectricSynapticArray]]
 [[HeterogeneousSynapticDelays]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]

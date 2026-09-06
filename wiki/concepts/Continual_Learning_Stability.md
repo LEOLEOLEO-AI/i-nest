@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Fading_Memory_Property]]
 [[Intelligence_Emergence]]
 [[InterconnectAwareGradientAggregation]]
+[[MachineLearningPotential]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Topology]]

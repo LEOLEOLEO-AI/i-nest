@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Evolutionary_Reservoir_Adaptation]]
 [[FractalPathEntropy]]
 [[HardwareAware_DesignSpace]]
+[[HierarchicalReservoirDynamics]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
 [[SNN]]

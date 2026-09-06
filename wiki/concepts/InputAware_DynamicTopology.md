@@ -29,6 +29,8 @@ Auto-extracted concept from raw material compilation.
 [[CorticalWaveRouting]]
 [[DynamicTopology]]
 [[FPGA_Neuromorphic_Architectures]]
+[[FlexibilityThreshold]]
+[[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]

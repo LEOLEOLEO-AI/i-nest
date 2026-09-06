@@ -29,6 +29,8 @@ Auto-extracted concept from raw material compilation.
 [[AdjointWaveControl]]
 [[AmoebaInspiredLocomotion]]
 [[ControlDrivenCriticalFluctuations]]
+[[Critical_Region_Extension]]
+[[Interconnect_Routing]]
 [[Liquid_AI]]
 [[MoE_Routing]]
 [[Network_Topology_Design]]

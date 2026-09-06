@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[D_FlipFlop]]
 [[DelayCodedWorkingMemory]]
 [[Dual_Memory_Pathway_SNN]]
+[[EnergyEfficientRestoration]]
 [[Event_Driven_Architecture]]
 [[Neuromorphic_Computing]]
 [[SNN]]

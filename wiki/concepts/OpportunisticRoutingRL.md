@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[EventCameraActionRecognition]]
 [[EventDrivenRiskAssessment]]
 [[ExplainableEnergyAI]]
+[[GeTeBasedCBRAM]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

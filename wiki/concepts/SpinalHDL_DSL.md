@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[QuantumInspiredHarmonySearch]]
 [[Syncytial_Information_Integration]]
 [[TCC]]
+[[ThermalFluctuationComputing]]
 [[complex system]]
 [[iNEST]]
 [[涌现]]

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossbarArrayVLSI]]
 [[DTGA]]
 [[Decoupling_Mechanism]]
+[[FPGAInference]]
 [[Free_Energy_Topology_Mapping]]
 [[GenerativeTopologyModels]]
 [[Interconnect_Routing]]

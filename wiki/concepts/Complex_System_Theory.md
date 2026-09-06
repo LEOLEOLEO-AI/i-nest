@@ -14,6 +14,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
 [[AI-ML — 全景导航 (Map of Content)]]
 [[AI_Faculty_Forum_2026]]
@@ -41,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Verifiability]]
 [[GenerativeTopologyModels]]
 [[InNetworkNeuromorphicEmergence]]
+[[InNetworkNeuromorphic]]
 [[InNetwork_CST_Offload]]
 [[Intelligence_Emergence]]
 [[Macro_System_Description]]
@@ -60,6 +62,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_iNEST]]
 [[ScaleFreeNetwork]]
 [[SpatiotemporalComplexityIndex]]
+[[Spatiotemporal_Synergy]]
 [[Spatiotemporal_Synergy_Complexity]]
 [[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]
@@ -70,6 +73,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[residual connection]]
 [[三原理协同_FEP_STDP_最小作用量]]
+[[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources

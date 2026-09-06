@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Collective_State_Convergence]]
 [[Data_Debiasing_Techniques]]
 [[EvolvingArchitectureDynamics]]
+[[FunctionalRelevanceSelfOrganization]]
 [[Generation_Quality_Refinement]]
 [[Habituation_Dynamics]]
 [[HighThroughputPhenotyping]]

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[AdaptiveGraphDiffusion]]
 [[Adaptive_Intelligence_Principle]]
+[[Adaptive_Service_Orchestration]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Heterogeneous_Integration]]

@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[MobilityEdge]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[PolymerComposite_Substrate]]
 [[RTC_Primitive]]
 [[Relapse_Resilient_Interconnect]]
 [[SDI_Bond]]

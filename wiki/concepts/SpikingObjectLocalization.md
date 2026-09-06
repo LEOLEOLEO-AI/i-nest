@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[11_SDI节点接口规范与化合键定义_dup]]
 [[6万+辛顿2025年度全景实录深读｜真正的智能与硅基智能的非对称演进]]
 [[AI_Faculty_Forum_2026]]
+[[BrainBodyResonance]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]

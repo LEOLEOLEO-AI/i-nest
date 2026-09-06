@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Boundary_Criticality]]
 [[BranchingRatio]]
 [[BurstGatedRouting]]
+[[BurstSuppressionMechanism]]
 [[Cognitive_Relapse_Decoupling]]
 [[Continual_Learning_Modularity]]
 [[ContinuousControlConversion]]
@@ -48,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[MoE_Routing]]
 [[Neuromorphic_Computing]]
+[[Quantum_Criticality]]
 [[ScalingExponents]]
 [[Self_Organized_Criticality]]
 

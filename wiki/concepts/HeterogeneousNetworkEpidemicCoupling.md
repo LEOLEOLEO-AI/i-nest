@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[OscillatoryNeuralNetworkTopology]]
+[[Processing_in_Array]]
 [[RecursiveSelfReferentialArchitecture]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]

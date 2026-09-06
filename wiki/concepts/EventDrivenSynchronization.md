@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveDendriteSNN]]
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[AnomalousSpinTransport]]
+[[BackflowTransformation]]
 [[BigBrainCellularAxis]]
 [[BrownianCastleInterface]]
 [[BrownianCastleInterfaces]]

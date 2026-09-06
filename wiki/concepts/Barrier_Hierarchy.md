@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[CentralityBasedMitigation]]
 [[CollectiveStatePhaseTransition]]
 [[ColoredNoiseMaximumEntropy]]
+[[CommunicationHeterogeneity]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

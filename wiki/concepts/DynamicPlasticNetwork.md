@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_STDP_Rule]]
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
+[[System_Level_Utility_Control]]
 [[iNEST]]
 
 ## Sources

@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[BeyondVonNeumannArchitecture]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Heterogeneous_Integration]]
 [[HybridResistiveMemoryCIM]]
 [[In_Memory_Computing]]
 [[In_Network_Generative_Inference]]
@@ -33,8 +34,11 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[NoC]]
 [[NoC_Chiplet_Wafer_Stack]]
+[[SDI_Bond]]
 [[SDI_iNEST_Wafer]]
+[[SDSoW]]
 [[iNEST]]
+[[iNEST_Wafer]]
 [[memristor device]]
 
 ## Sources

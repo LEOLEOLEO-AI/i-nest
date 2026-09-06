@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[OpportunisticRoutingRL]]
 [[OpportunisticRouting]]
 [[PairwiseCorrelationConstraint]]
+[[PropertyPredictionModeling]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]
 [[SDI_SNN]]

@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[SaliencyDrivenAttention]]
 [[SparseActivationSkipping]]
 [[SpikeAttention]]
+[[SpikeAwareAlignmentDistillation]]
 [[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AcceleratorReconfigurationOverhead]]
 [[AdaptiveFunctionalTopology]]
 [[BarrierConditionedTrajectory]]
+[[DirectoryManagementLaws]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[SNN]]

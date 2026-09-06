@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Distributed_Spike_Communication]]
 [[FPGASNNMemoryOptimization]]
 [[FeFET_Differential_BitCell]]
+[[FerroelectricSynapticArray]]
 [[HodgkinHuxleyDynamics]]
 [[Intelligence_Emergence]]
 [[LIF_Neuron_Model]]

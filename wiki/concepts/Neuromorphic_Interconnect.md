@@ -30,9 +30,11 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Inference_Division]]
 [[InMateriaComputing]]
 [[Intelligence_Emergence]]
+[[Intelligent_Power_Management]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
+[[neuromorphic interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

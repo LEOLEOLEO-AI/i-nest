@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[MeasurementEfficientProtocol]]
 [[Network_Topology_Design]]
+[[SneakPathCurrentSuppression]]
 [[SpatiotemporalCooperativeIntelligence]]
 [[Syncytial_Information_Integration]]
 [[TCC]]

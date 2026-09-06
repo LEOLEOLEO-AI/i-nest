@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[ReconfigurableSpikingRouting]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
+[[SafetyThresholdAsSpikingThreshold]]
 [[SpikeBasedGradientDescent]]
 [[SpikeTimingEncoding]]
 [[Spike_Encoding_of_fMRI]]

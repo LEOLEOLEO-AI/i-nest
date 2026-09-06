@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
+[[Complexity_Emergence_Engineering]]
 [[Deep_SNN_Trainability]]
 [[DeeplySupervisedSpiking]]
 [[Emergent_Intelligence]]

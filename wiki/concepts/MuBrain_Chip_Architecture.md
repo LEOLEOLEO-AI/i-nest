@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[ActionPrototypeClustering]]
 [[Alignment_Tax]]
 [[AstrocyteInspiredRepair]]
+[[BayesMarkovOrientationModel]]
 [[Complex_System_Theory]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]

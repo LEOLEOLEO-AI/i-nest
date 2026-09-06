@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Packaging]]
 [[NonEquilibriumComputing]]
+[[PerturbationBoundAnalysis]]
 [[RecursiveSelfReferentialArchitecture]]
 [[State_Transition_Formalism]]
 [[Swarm_Coordination]]

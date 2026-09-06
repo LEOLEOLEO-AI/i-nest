@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Autonomous_Spiking_Dynamics]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BioPlausiblePredictiveCoding]]
+[[BrainInspiredArchitecture]]
 [[Event_Driven_Architecture]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]

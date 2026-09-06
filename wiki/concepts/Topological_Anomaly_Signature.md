@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[InterconnectConstrainedEmergence]]
 [[Interconnect_Topology]]
 [[ModelToChipCompilation]]
+[[Multimodal_Network_SDI]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[chiplet interconnect]]

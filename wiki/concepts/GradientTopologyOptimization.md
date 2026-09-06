@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
+[[InterconnectDrivenPlacement]]
 [[Machine_Decision_Speed_Advantage]]
 [[Memristor]]
 [[Memristor_Synapse]]

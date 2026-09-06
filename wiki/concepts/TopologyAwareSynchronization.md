@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[EdgeIoTEnergyAwareness]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[MeasurementEfficiency]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[NeuralCellularAutomata]]

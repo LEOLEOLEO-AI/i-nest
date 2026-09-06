@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AndersonTransition]]
 [[AtomicGeometryEncoding]]
 [[BrownianCastleInterface]]
+[[BurstTemporalPlasticity]]
 [[Network_Topology_Design]]
 [[SNN]]
 [[Spiking_Neural_Network]]

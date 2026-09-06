@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[Mesoscale_Physical_Computing_Framework]]
 [[MicroTransferPrinting]]
 [[Network_Topology_Design]]
+[[Nishimori_Threshold]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Architecture]]
 [[FPGA_EventDriven_Verification]]
 [[In_Network_Neuromorphic]]
+[[NeuromorphicAttentionScaling]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Spiking neural network]]

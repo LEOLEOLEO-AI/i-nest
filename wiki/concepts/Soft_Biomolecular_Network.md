@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Brain_Inspired_Switchless_Architecture]]
 [[CascadedAdaptiveCombiners]]
 [[CognitiveFeedbackLoop]]
+[[CompetitiveEdgeRewiring]]
 [[Complex_System_Theory]]
 [[EmulationTheoryObserver]]
 [[FlexibilityThreshold]]

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AdiabaticMultimodeBend]]
 [[AdvancedPackagingInterconnect]]
 [[ChipletRoutingFabric]]
+[[ChipletWaferInterconnectScaling]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]

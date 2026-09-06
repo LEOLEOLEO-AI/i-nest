@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_MemristiveLearning]]
 [[STDP_Plasticity]]
 [[STDP_Topology]]
+[[STDP_iNEST]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]

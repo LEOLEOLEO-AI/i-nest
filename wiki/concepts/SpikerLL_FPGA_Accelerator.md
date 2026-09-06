@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Gaussian_Splatting_Streaming]]
 [[Globally_Optimal_SNN_Training]]
 [[HardwareAware_DesignSpace]]
+[[HigherAreaRankingDivergence]]
 [[Localized_Feedback_Array]]
 [[Meta_Residual_Learning]]
 [[Neuromorphic_Computing]]

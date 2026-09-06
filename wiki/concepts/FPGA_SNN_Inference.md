@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[FlexibleNeuromorphicAccelerator]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]
+[[MixedLabyrinthFractal]]
 [[MixedSignalSNN_CoDesign]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]

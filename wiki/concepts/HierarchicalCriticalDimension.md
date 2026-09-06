@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalFixedPoint]]
 [[Criticality]]
 [[DisorderInducedCriticality]]
+[[DrivingSignalTopology]]
 [[FormalLinguisticCompetence]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

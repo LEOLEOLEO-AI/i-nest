@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenWeightUpdate]]
 [[EventTriggeredDistributedControl]]
+[[FunctionalInterfaceBlocks]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[IntrospectiveRecursion]]

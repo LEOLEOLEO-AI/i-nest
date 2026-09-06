@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[RecurrentOscillatoryComputation]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SpikingPlaceCellEnsemble]]
 [[Spiking_Neural_Network]]
 [[TopologicalAndersonChernInsulator]]
 [[analog computation]]

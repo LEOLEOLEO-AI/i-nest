@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[MeasurementInducedRouting]]
 [[Multipath_Adaptive_Reliability]]
 [[Network_Topology_Design]]
+[[OpenLearningEcosystem]]
 [[PhotonicSynapticPlasticity]]
 [[Synaptic_Plasticity]]
 [[TCC]]

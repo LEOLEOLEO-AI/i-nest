@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Computation_Access_Routing]]
 [[CongestionAwareLoss]]
 [[ConvexNonconvexFloorplanning]]
+[[Critical_Region_Extension]]
 [[DifferentiablePlacement]]
 [[EntanglementAwareRouting]]
 [[FPGA_Reconfigurability]]

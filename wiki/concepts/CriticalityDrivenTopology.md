@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
+[[TopologyConstrainedWeightUpdate]]
 [[TopologyDrivenCascade]]
 [[Topology_Aware_Spike_Routing]]
 [[Workload_Isolation]]

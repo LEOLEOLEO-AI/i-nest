@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[NoC]]
 [[NoC_Chiplet_Wafer_Stack]]
+[[NoC_Chiplet_iNEST_Wafer]]
 [[NoC_Interconnect]]
 [[P_Paradigm]]
 [[TCC]]

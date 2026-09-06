@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[ConvexNonconvexFloorplanning]]
 [[Daily_Article_Increment_Tracking]]
 [[DeepPhotonicTopology]]
+[[DenseHighOrderInteractions]]
 [[Distributed_Sinkhorn_Iteration]]
 [[Dynamic_Expert_Fusion]]
 [[Heterogeneous_Integration]]

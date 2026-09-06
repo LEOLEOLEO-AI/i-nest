@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenWeightUpdate]]
 [[Intelligence_Emergence]]
+[[MemristiveSNN]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]

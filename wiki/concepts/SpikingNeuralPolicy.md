@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[SNN_NeuroprostheticPipeline]]
 [[Self_Organized_Criticality]]
+[[SemanticSpikePattern]]
 [[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]

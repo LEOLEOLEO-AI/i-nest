@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[EarlyExitInference]]
 [[ElectromigrationReliability]]
+[[GPU_Bottleneck_Relief]]
 [[GeneralIntelligenceSubstrate]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]

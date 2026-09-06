@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN_SNN_WeightSpaceGap]]
 [[AcousticAnomalyDetection]]
 [[Agent_Interaction_Sequencing]]
+[[Attention_Mechanism_in_SNN]]
 [[Avoided_Criticality]]
 [[Baseline_Change_Record]]
 [[Baseline_Draft_Status]]

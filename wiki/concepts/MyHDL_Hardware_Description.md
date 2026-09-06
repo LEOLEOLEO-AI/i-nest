@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[Bipartite_Interconnect]]
 [[Bipartite_Interconnect_Design]]
+[[BranchingRatioControl]]
 [[Complex_System_Theory]]
 [[Neuromorphic_Computing]]
 [[Spiking neural network]]

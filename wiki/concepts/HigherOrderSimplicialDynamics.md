@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[PowerOfTwoWeightQuantization]]
 [[PropertyPredictionModeling]]
 [[QuantumChaos]]
+[[Rank_Order_N_of_M_Codes]]
 [[Reservoir_Computing]]
 [[SNN]]
 [[ScaleFreeNetwork]]

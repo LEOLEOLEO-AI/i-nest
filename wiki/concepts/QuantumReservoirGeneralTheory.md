@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[HierarchicalReservoirDynamics]]
 [[Long_Range_Interactions]]
+[[MeanFieldSpinGlass]]
 [[Memory_Technology_Coexistence]]
 [[MemristiveReservoirBranchPrediction]]
 [[QuantumReservoirMemoryCapacity]]

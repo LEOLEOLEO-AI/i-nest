@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Defense_Industrial_Base_Reshaping]]
 [[Independent_EdgeAI_Player_Endgame]]
 [[Intelligence_Emergence]]
+[[Koopman_Constants_Of_Motion]]
 [[Nonlinear_Gain]]
 [[TCC]]
 [[Universal_Scaling_Laws]]

@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[SelfOrganizedLearning]]
 [[SelfOrganizingEquilibrium]]
+[[SneakPathCurrentSuppression]]
 [[Spatiotemporal_Computing]]
 [[TCC]]
 [[TemporalEchoMemory]]

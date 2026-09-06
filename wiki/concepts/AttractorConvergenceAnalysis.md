@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Topology]]
 [[CoPackagedOptics]]
 [[Collective_Offloading]]
+[[CommunicationOverlapMechanism]]
 [[Complex_System_Theory]]
 [[EdgeIoTEnergyAwareness]]
 [[Heterogeneous_Integration]]

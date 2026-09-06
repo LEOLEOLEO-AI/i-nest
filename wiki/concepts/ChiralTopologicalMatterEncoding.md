@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Switch_Embedded_Control]]
 [[SDI节点接口规范与化合键定义]]
 [[SelfHealing_Interconnect]]
+[[SpaceToUndersea_ResilientComms]]
 [[TCC]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]

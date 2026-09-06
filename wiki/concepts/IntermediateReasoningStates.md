@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AutogradCompatibleSpiking]]
 [[AutomatedQuantizationFramework]]
 [[BigBrainCellularAxis]]
+[[BioPlausibleDisturbanceEstimation]]
 [[BrainScaleTopologyExploitation]]
 [[Brain_Dynamics_Learning]]
 [[ClinicalTranslationBridge]]

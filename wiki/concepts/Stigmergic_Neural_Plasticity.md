@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[DendriticReservoirState]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
+[[Epithelial_Barrier_Integrity]]
 [[Heterogeneous_Integration]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]

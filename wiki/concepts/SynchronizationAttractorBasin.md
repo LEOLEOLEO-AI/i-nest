@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Order_Deep_Belief_Networks]]
 [[FPGA_Neuromorphic_Architectures]]
+[[HodgkinHuxleyDynamics]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[LLMDrivenPathSelection]]

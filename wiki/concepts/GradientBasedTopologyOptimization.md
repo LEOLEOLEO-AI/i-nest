@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[MatrixShapePhaseTransition]]
 [[Network_Topology_Design]]
+[[NonreciprocalQuasiperiodicLattice]]
 [[OpenEndedDiscovery]]
 [[OpenLearningEcosystem]]
 [[Synaptic_Plasticity]]

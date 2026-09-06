@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[JunctionCenteredRouting]]
 [[Logic_Folding]]
+[[MatrixShapePhaseTransition]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[OpenLearningEcosystem]]

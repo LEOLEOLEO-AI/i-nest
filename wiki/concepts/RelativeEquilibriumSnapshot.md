@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[DistinctReentrantPhases]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
+[[HeavyTailedWaitingTimes]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]
 [[NCL神经计算定律详解]]

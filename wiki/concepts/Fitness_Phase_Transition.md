@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[ElectricFieldModulatedCoupling]]
 [[EndToEndTopologicalLearning]]
 [[EpidemicTopologyCoevolution]]
+[[EvolvingArchitectureDynamics]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Synaptic_Plasticity]]

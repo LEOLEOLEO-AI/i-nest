@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[BCM滑动阈值]]
 [[Complex_System_Theory]]
 [[Decoupled_Prior_Integration]]
+[[DynamicInference]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

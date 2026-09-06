@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Wave_Reconfiguration]]
 [[Random_Markov_Dynamics]]
 [[ReEntrantMultifractalization]]
+[[ReproducibleReservoirDynamics]]
 [[chiplet interconnect]]
 [[Γst_Revision]]
 

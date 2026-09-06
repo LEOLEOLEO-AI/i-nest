@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[JunctionCenteredRouting]]
 [[Logic_Folding]]
 [[MeasurementInducedRouting]]
+[[Multipath_Adaptive_Reliability]]
 [[Network_Topology_Design]]
 [[OpenLearningEcosystem]]
 [[Phase_Transition_Decoding]]

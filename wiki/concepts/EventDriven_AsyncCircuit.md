@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[ContinualLearningOnNeuromorphic]]
 [[EventCameraTemporalEncoding]]
+[[HighThroughputBioparticleRouting]]
 [[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Scheduling]]
 [[Interconnect_Routing]]

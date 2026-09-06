@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[NoiseDrivenBackpropReconstruction]]
 [[NonEquilibriumComputing]]
+[[OpportunisticRoutingRL]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[SNN_Config_Sensitivity]]

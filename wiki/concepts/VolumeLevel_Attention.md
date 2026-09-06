@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Compositional_Continuum]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
+[[Crystallized_Neural_Manifolds]]
 [[Energy_Efficient_Control]]
 [[ExplosiveCooperationTransition]]
 [[FeFET_Polarization_Switching]]

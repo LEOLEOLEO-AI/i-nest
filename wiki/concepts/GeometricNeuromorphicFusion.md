@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[ST_SNN]]
 [[Self_Organized_Criticality]]
 [[SequenceAwareSpikingDetection]]
+[[SpikeDrivenMultiObjectTracking]]
 [[Spike_Encoding_of_fMRI]]
 [[SpikingRecurrentCell]]
 [[SpikingRecurrentCells]]

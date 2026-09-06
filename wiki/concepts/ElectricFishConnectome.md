@@ -21,12 +21,14 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3D_Airborne_Connectivity_Characterization]]
+[[3d]]
 [[Additive_Manufacturing_Defense_Trinity]]
 [[Brain_Connectome]]
 [[C_elegansConnectomeAnalogy]]
 [[ConnectomeComputationBasis]]
 [[Connectome]]
 [[Crystallized_Neural_Manifolds]]
+[[DataProvenanceIntegrity]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[iNEST]]

@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicRL]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
+[[Resilient_Community_Feedback_Loop]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]
 [[SpikeEncoding]]

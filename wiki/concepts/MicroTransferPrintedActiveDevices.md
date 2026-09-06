@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Distributed_Spike_Communication]]
 [[DrivenDissipativeDynamics]]
 [[EventDrivenPlasticity]]
+[[FixedOverheadCost]]
 [[Intelligence_Emergence]]
 [[Memristor]]
 [[Memristor_Synapse]]

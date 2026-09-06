@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[OpenBenchmarkingFramework]]
 [[OpportunisticRoutingRL]]
 [[OpportunisticRouting]]
+[[PropertyPredictionModeling]]
 [[Receptron_Unit]]
 [[ReconfigurableSpikingRouting]]
 [[RecursiveSelfReferentialArchitecture]]

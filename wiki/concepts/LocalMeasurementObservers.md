@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[ModelToChipCompilation]]
 [[Network_Topology_Design]]
 [[Obsidian_Plugin_Architecture]]
+[[OpticalTopologyReconfiguration]]
 [[SDI_Bond]]
 [[SDI_TCC_iNEST_Bridge]]
 [[SDI_iNEST_Encapsulation]]

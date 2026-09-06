@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BiasPropagationInNetworks]]
 [[BitPrecisionAwareScheduling]]
 [[BurstInterleaving]]
+[[Chiplet_Integration]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[TCC]]

@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Reconfigurability]]
 [[FluxAttachmentTopology]]
 [[GrandCanonicalOptimization]]
+[[GravityPathIntegralTopology]]
 [[HybridCouplingThermosensitiveNetwork]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

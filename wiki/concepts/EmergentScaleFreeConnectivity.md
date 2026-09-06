@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[DendriticReservoirState]]
 [[FastSlow_Dynamics]]
 [[Intelligence_Emergence]]
+[[MachineLearningPotential]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]

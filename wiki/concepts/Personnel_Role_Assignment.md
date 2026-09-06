@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
+[[Pseudofractal_Web]]
 [[QueryComplexityScaling]]
 [[SOC]]
 [[SpatialAutocorrelationMetric]]

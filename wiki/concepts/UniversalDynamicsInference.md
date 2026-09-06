@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[InterconnectAwareGradientAggregation]]
+[[MachineLearningPotential]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[PhotoInducedCurrent]]

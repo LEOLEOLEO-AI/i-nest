@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[ExactWiringRouting]]
 [[GradientBasedTopologyOptimization]]
+[[GrandCanonicalOptimization]]
 [[HallmarkDrivenCancerModeling]]
 [[HoldingManeuverDelayGraph]]
 [[Intelligence_Emergence]]

@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Accessibility_Plasticity]]
 [[AdaptiveArchitecture]]
 [[AdaptiveCompetingInteractions]]
+[[AdaptiveDensityControl]]
 [[AdaptiveEntanglementManagement]]
 [[AdaptiveFunctionalTopology]]
 [[Additive_Manufacturing_Supply_Chain]]

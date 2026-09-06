@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[EnergyEfficientNeuromorphic]]
 [[Frontier_Innovation_Mapping]]
 [[GradientBasedSpikeLearning]]
+[[Gradient_Free_SNN_Learning]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]

@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Biocompatible_Neuromorphic_Interface]]
 [[CollectiveStabilityMetric]]
 [[Complex_System_Theory]]
+[[ConfinementMechanism]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

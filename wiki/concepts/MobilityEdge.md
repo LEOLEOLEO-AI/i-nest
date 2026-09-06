@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[FirstPrinciples_Derivation]]
 [[Heterogeneous_Integration]]
 [[HodgkinHuxleyDynamics]]
+[[InkjetPrintedElectrochemicalSensors]]
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]
 [[LossSpikeMechanism]]

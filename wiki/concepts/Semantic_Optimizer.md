@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Package_Level_Interconnect]]
 [[PacketRoutingForFPGAs]]
 [[Pseudofractal_Web]]
+[[SDSoW_Interface_Standard]]
 [[ScalableNeuromorphicTopology]]
 [[SelfOrganization]]
 [[TCC]]

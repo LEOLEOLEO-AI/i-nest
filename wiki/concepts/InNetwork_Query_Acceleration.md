@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[MemoryDrivenInterconnect]]
 [[Neuromorphic_Computing]]
 [[OptimalGeneralisationNearInterpolation]]
+[[OscillatoryReservoirDynamics]]
 [[Personalised_Strategy_Optimisation]]
 [[SpikeAttention]]
 [[Spiking_Neural_Network]]

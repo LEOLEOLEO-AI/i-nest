@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[NoC]]
 [[NoC_SDI]]
+[[Packaging_Aware_NoC_Design]]
 [[Photonic_Chiplet_Interconnect]]
 [[RadiationHardened_ProcessNodeScaling]]
 [[RecursiveSelfReferentialArchitecture]]

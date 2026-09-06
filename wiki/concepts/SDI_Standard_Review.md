@@ -46,10 +46,11 @@ Auto-extracted concept from raw material compilation.
 [[EpoxyMoldingCompoundFlow]]
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
-[[HeterogeneousChipletIntegration]]
+[[Heterogeneous_Chiplet_Integration]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[InterChipletPHYModeling]]
+[[KV_Cache_To_BoundaryObject]]
 [[KV_Cache_to_BoundaryObject_Transition]]
 [[NCL神经计算定律详解]]
 [[Network_Topology_Design]]
@@ -72,6 +73,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

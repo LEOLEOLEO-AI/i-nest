@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3D_Heterogeneous_Integration]]
 [[AI_Driven_Power_Density_Scaling]]
 [[AdaptiveBitPrecisionExploration]]
 [[AdaptiveGraphDiffusion]]
@@ -32,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Compute_In_Memory_Neuromorphic]]
 [[Heterogeneous_Integration]]
+[[In_Memory_Computing]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[TCC]]

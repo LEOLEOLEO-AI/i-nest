@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[AI_Forum_Demo_Narrative]]
 [[ActiveMatterComputing]]
+[[Activity_Dependent_Plasticity]]
 [[Adaptive_Deep_Brain_Stimulation]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[ClosedLoopNeuromorphicControl]]

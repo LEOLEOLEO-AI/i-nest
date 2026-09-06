@@ -56,6 +56,8 @@ Auto-extracted concept from raw material compilation.
 [[PhotonicPackagingEfficiency]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
+[[SneakPathCurrentSuppression]]
+[[Spatiotemporal_Synergy]]
 [[Spatiotemporal_Synergy_Complexity]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
@@ -63,6 +65,7 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

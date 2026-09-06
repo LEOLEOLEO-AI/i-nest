@@ -29,7 +29,9 @@ Auto-extracted concept from raw material compilation.
 [[Intelligent_Computing_Infrastructure]]
 [[Network_Topology_Design]]
 [[NeuromorphicSafetyBoundary]]
+[[Neuromorphic_Computing]]
 [[OpenEndedDiscovery]]
+[[PhysicalSubstrateReservoir]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

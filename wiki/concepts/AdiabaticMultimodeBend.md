@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration_Route]]
 [[Chiplet_Interconnect]]
 [[Chiplet_Packaging]]
+[[CoPackagedOptics]]
 [[CommunicationOverlapMechanism]]
 [[Complex_System_Theory]]
 [[ComputeRelocationOverhead]]

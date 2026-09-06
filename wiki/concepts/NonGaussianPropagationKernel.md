@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_Manufacturing_Strategy]]
 [[DARPA_ProjectManager_Model]]
 [[DARPA_Project_Group_Strategy]]
+[[EdgeInspectionInference]]
 [[ElectronicPhotonicIntegratedCircuit]]
 [[FerroelectricSemiconductorReservoir]]
 [[FerroelectricSynapticArray]]

@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Stacking]]
 [[Collective_Offloading]]
 [[Complex_System_Theory]]
+[[ComponentLevelPackaging]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[Heterogeneous_Integration]]

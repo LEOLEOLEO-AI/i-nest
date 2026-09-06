@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[DirectConnect_Topology]]
 [[HeterogeneousInference]]
 [[Heterogeneous_Integration]]
+[[MeshReduce_U]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC]]

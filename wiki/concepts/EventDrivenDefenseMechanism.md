@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikingNeuralImplementation]]
 [[Spiking_Neural_Network]]
 [[TemporalAdversarialPerturbation]]
+[[ThresholdBasedSpikeEncoding]]
 [[iNEST]]
 
 ## Sources

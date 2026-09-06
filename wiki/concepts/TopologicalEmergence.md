@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[Active_Inference_Agent]]
 [[BayesianDomainEvolution]]
+[[CST_Spatiotemporal_Complexity]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

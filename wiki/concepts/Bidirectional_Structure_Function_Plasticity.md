@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Gate_Synthesis_Readout]]
 [[Generation_Quality_Refinement]]
 [[HybridCouplingThermosensitiveNetwork]]
+[[InterDomain_Synergy]]
 [[LatencyGradientDescent]]
 [[Neuromorphic_Computing]]
 [[OpenLearningEcosystem]]

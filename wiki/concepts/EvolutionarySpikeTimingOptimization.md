@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[EnergyEfficientNeuromorphic]]
 [[HardwareAware_DesignSpace]]
 [[Interconnect_Routing]]
+[[KinematicWavePropagation]]
 [[LossSpikePhenomenon]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]

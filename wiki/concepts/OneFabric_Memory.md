@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[3D_Stacking]]
 [[3D_Vertical_Interconnect]]
 [[3d]]
+[[AI_Driven_Power_Density_Scaling]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]

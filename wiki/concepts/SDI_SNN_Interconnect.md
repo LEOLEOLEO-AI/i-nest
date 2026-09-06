@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[OpportunisticRouting]]
 [[PairwiseCorrelationConstraint]]
 [[PhaseLockedTopologyMapping]]
+[[PropertyPredictionModeling]]
 [[ReconfigurableSpikingRouting]]
 [[SDI_Bond]]
 [[SDI_SNN]]

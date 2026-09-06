@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AnalogDomainCompression]]
 [[Automated_Reward_Shaping]]
 [[AutonomousAdaptation]]
+[[AvalancheBranchingRatio]]
 [[BackflowTransformation]]
 [[CST_Theory]]
 [[CST_Theory_V27_FINAL]]

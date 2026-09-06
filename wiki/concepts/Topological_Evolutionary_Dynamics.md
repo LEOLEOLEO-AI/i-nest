@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveEntanglementManagement]]
 [[AdaptiveGraphDiffusion]]
 [[AdaptiveModelPartitioning]]
+[[Adaptive_Intelligence_Principle]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Asymptotic_Exact_Solution]]
 [[Chiplet]]

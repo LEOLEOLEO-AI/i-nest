@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[BrainInspired_Chip]]
 [[EventBasedBioSignalFrontEnd]]
 [[EventDataNonUniformity]]
+[[EventDrivenDefenseMechanism]]
 [[Event_Driven_Architecture]]
 [[Spiking_Neural_Network]]
 [[iNEST]]

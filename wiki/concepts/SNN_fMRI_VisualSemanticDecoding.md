@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[Criticality_Based_Feature_Extraction]]
+[[DelayAwareSpikeEventDelivery]]
 [[EEG_Criticality]]
 [[FormalLinguisticCompetence]]
 [[Hardware_Accelerated_SNN]]

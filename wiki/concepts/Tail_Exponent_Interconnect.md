@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_STDP_Rule]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
+[[SpikeBasedInference]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]

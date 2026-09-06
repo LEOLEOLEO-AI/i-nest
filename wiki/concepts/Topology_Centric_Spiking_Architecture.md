@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[RecurrentOscillatoryComputation]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SpikeDrivenDataAssociation]]
 [[SpikingNeuralNetworkTopologyMapping]]
 [[SpikingNeuralNetworkTopology]]
 [[SpikingNeuralNetwork]]

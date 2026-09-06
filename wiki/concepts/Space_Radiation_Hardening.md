@@ -58,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[NoC]]
 [[NoC_Interconnect]]
+[[Packaging_Aware_NoC_Design]]
 [[SDI_Bond]]
 [[SDI_NPU_NoC_Integration]]
 [[SDI_TopologicalControl]]

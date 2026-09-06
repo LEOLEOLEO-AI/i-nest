@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalWeightNormBoundary]]
 [[DelayCodedWorkingMemory]]
 [[DirtyWeylSemimetal]]
+[[DisorderedNetworkInterconnect]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenInference]]

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[DiscreteSTDP]]
 [[GroupSynchronization]]
+[[IntrinsicTimingSTDP]]
 [[Network_Topology_Design]]
 [[PhaseLockedTopologyMapping]]
 [[PolychronousNeuronalGroups]]

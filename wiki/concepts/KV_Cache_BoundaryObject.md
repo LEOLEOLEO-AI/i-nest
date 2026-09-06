@@ -60,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[SelfOrganization]]
 [[SiC_GaN_Power_Integration]]
 [[Spaceborne_Computing_Architecture]]
+[[SpatialPatternStorage]]
 [[State_Transition_Formalism]]
 [[Synaptic_Plasticity]]
 [[TCC]]

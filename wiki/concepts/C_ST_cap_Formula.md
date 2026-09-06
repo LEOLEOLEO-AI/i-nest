@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[EnergyProportionalityCeiling]]
 [[EventBasedMotionDeblurring]]
 [[EventCameraTemporalPipeline]]
+[[EventDrivenAutoregression]]
 [[EventDrivenMotionDeblurring]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[Neuromorphic_Computing]]

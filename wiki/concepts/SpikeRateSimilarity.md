@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[CascadedAdaptiveCombiners]]
 [[CompetitiveProgramDynamics]]
 [[Complex_System_Theory]]
+[[ConceptualNetworkEmbedding]]
 [[ElasticInferenceScheduling]]
 [[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Learning]]

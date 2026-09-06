@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[CST计量仪]]
 [[Complex_System_Theory]]
 [[ComputationEfficientDeepLearning]]
+[[DataDrivenMaterialDesign]]
 [[Deep_Network_Architecture_Invariant]]
 [[Defense_Industrial_Base_Reshaping]]
 [[EfficientDeepLearning]]

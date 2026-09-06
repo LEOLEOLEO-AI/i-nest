@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[EnergyEfficiencyAI]]
 [[FLAME_Lab_PhD_Admissions]]
 [[GroupNeuronEnsemble]]
+[[HigherOrderRelations]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

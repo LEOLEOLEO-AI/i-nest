@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Timing_Dependent_Attention]]
 [[Spike_Timing_Dependent_Plasticity]]
 [[SpikingNeuralDynamics]]
+[[SpikingPolicyGradient]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TemporalCreditAssignment]]

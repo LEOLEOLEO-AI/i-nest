@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Asymmetric_Interaction_Matrix]]
 [[BCU_Operation]]
+[[Butterfly_Network]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]

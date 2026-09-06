@@ -42,13 +42,16 @@ Auto-extracted concept from raw material compilation.
 [[PhysicalSubstrateReservoir]]
 [[ReservoirDynamics]]
 [[Reservoir_Computing]]
+[[SDDE_Attractor_Emergence]]
 [[SNN]]
 [[ShortTermMemory]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[TCCNPU_Coordination_Roadmap]]
 [[TCC]]
 [[ThermalNoiseHarnessing]]
 [[iNEST]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

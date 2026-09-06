@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Continuous_Control_SNN_Stability]]
 [[Continuous_Control_Spiking_Stability]]
 [[CriticalStateDynamics]]
+[[CriticalityBasedClassification]]
 [[CriticalityDrivenIntegration]]
 [[Criticality]]
 [[DimensionSeparation_IntensiveExtensive]]

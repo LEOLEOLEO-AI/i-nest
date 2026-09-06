@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[Order_Flexibility_Duality]]
 [[PopulationDensityApproximation]]
+[[PromptBasedTimeSeriesForecasting]]
 [[PropertyPredictionModeling]]
 [[SNN]]
 [[Spiking_Neural_Network]]

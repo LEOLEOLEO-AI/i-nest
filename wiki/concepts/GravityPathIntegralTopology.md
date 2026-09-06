@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[PathDivergenceSelection]]
 [[PheromoneTopologySignaling]]
 [[RL_Routing_LEO]]
+[[SDI_TopologicalControl]]
 [[Spin_Quantum_Hall_Critical_Exponents]]
 [[Superconductivity_Topology_Interplay]]
 [[Synaptic_Plasticity]]

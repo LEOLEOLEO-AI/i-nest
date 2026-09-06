@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[DenseNetworkDynamics]]
 [[EmergentScaleFreeConnectivity]]
 [[Intelligence_Emergence]]
+[[MachineLearningPotential]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]

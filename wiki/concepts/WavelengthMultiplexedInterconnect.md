@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[DirectConnect_Topology]]
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
+[[HardwareAware_SelfOrganization]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[InterChipletPHYModeling]]

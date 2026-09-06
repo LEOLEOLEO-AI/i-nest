@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[EpoxyMoldingCompoundFlow]]
 [[EvanescentFieldTrapping]]
 [[Fractal_Scaling]]
+[[HierarchicalAttention_MIL]]
 [[ImaginaryGaugePhaseImprint]]
 [[Intelligence_Emergence]]
 [[ManyCore_Neuromorphic_Scaling]]

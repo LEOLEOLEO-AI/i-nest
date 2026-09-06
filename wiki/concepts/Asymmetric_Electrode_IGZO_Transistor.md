@@ -21,14 +21,17 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AdjustableDynamicsReservoir]]
+[[AdjustableDynamics]]
 [[AstrocyteInspiredModulation]]
 [[Biomanufacturing_Control_Loop]]
 [[BranchingRatio]]
 [[BrownianCastleInterface]]
 [[CertifiedBifurcationDetection]]
 [[CoexistencePhaseDiagram]]
+[[CoexistencePhaseTransition]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
+[[Reservoir_Computing]]
 [[iNEST]]
 
 ## Sources

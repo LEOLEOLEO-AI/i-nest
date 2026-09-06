@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[ApproximateMacroscopicDynamics]]
 [[AstrocyteInspiredRepair]]
 [[Automated_Assessment_Framework]]
+[[BigBrainCellularAxis]]
 [[Brain_Connectome]]
 [[C_elegansConnectomeAnalogy]]
 [[CollectiveDynamics]]

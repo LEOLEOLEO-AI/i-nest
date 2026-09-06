@@ -37,9 +37,9 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicHandwritingRecognition]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
-[[Neuromorphic_Interconnect]]
 [[Neuromorphic_Selective_State_Space]]
 [[Neuromorphic_Speech_Tokenizer]]
+[[Neuromorphic_Topology]]
 [[NoiseModulated_SynapticPlasticity]]
 [[Spike_Event_Driven_Attention]]
 [[Spiking_Mixture_of_Experts]]
@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TemporalSparsityExploitation]]
 [[iNEST]]
+[[neuromorphic interconnect]]
 [[neuromorphic spiking]]
 
 ## Sources

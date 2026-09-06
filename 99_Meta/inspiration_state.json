@@ -266,6 +266,33 @@
     "30_TCC\\32_Technology\\Huawei_AI_Cluster_Network_Challenges_SIGCOMM2025.md": {
       "date": "2026-09-02T04:10:49.317955",
       "error": true
+    },
+    "30_TCC\\31_Theory\\complexity-synchronization-multiplicative-emergence.md": {
+      "date": "2026-09-07T03:31:57.780488",
+      "card": "20260907_complexity-synchronization-multiplicative-emergenc.md",
+      "method": "llm"
+    },
+    "30_TCC\\34_Projects\\Fudan_Huatian_Cooperation_Software_Defined_System_on_Wafer.md": {
+      "date": "2026-09-07T03:32:48.063546",
+      "error": true
+    },
+    "30_TCC\\31_Theory\\MetaTopology_SDIBond_CommunicationPrimitive_Theory.md": {
+      "date": "2026-09-07T03:33:10.046866",
+      "error": true
+    },
+    "30_TCC\\34_Projects\\SDI_Bond_Plastic_Network_for_ARC_AGI_Project.md": {
+      "date": "2026-09-07T03:33:28.033078",
+      "card": "20260907_SDI_Bond_Plastic_Network_for_ARC_AGI_Project.md",
+      "method": "llm"
+    },
+    "30_TCC\\31_Theory\\Broadcom_Marvell_earnings_AI_network_analysis.md": {
+      "date": "2026-09-07T03:33:32.235672",
+      "card": "20260907_Broadcom_Marvell_earnings_AI_network_analysis.md",
+      "method": "llm"
+    },
+    "30_TCC\\31_Theory\\Erlangen_Program_to_Geometric_DL_for_TCC_iNEST.md": {
+      "date": "2026-09-07T03:34:24.246587",
+      "error": true
     }
   }
 }

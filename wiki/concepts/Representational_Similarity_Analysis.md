@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_Spatiotemporal_Complexity]]
 [[CST计量仪]]
 [[CentralityBasedMitigation]]
+[[CollectiveStatePhaseTransition]]
 [[CompactBosonDuality]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]

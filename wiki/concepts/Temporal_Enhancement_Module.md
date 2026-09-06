@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[EventCameraActionRecognition]]
 [[FPGA_Neuromorphic_Acceleration]]
 [[Field_Compression_for_InNetwork_Inference]]
+[[ForwardFluctuationGradient]]
 [[HippocampalNeocorticalIntelligence]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]

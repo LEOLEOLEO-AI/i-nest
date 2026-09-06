@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Recurrent_Network_Homeostasis]]
 [[SNN]]
 [[SNN_VisualSemanticDecoder]]
+[[SpikeEventScheduling]]
 [[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[TriAxiomCalibration]]

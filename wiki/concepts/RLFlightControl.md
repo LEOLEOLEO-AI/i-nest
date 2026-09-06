@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Reconfigurability]]
 [[Free_Energy_Topology_Mapping]]
 [[InSitu_Adjoint_Wave_Control]]
+[[Inference_Workload_Profiling]]
 [[Interconnect_Routing]]
 [[LLM_Reward_Design]]
 [[MeasurementInducedRouting]]

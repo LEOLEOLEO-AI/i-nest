@@ -1,4 +1,4 @@
-## 今日焦点 — 2026-09-04
+## 今日焦点 — 2026-09-06
 
 **并行主线 (7月30日前)**
 
@@ -7,4 +7,9 @@
 3. [专利] TCC 架构 + 实现专利 — 申报
 4. [工程] CST 仿真实验 — SDI N=1024 相位扫描
 
-*生成于 2026-09-04 09:10*
+## 今日文献 (0 TCC + 2 iNEST)
+
+- [iNEST] High-Throughput Computational Discovery of Inverted Resistive Switchin
+- [iNEST] A Reconfigurable Hybrid Convolutional-Fully Connected Neuromorphic Cor
+
+*生成于 2026-09-06 23:34*

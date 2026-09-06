@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveGraphDiffusion]]
 [[Adaptive_Deep_Brain_Stimulation]]
 [[Adaptive_Intelligence_Principle]]
+[[Adaptive_Service_Orchestration]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Analog_To_Information_Conversion]]
 [[AndersonTransition]]

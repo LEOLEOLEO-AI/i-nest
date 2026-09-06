@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Active_Inference_Agent]]
 [[BayesianDomainEvolution]]
 [[BehavioralFeedbackLoop]]
+[[CST_Spatiotemporal_Complexity]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

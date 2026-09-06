@@ -61,6 +61,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[TemporalComplexity]]
 [[VerticalOpticalInterconnect]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[chiplet interconnect]]
 [[complex system]]
 [[iNEST]]

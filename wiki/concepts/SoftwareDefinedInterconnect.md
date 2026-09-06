@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[CompactFieldVariable]]
 [[CongestionAwareNoCPlacement]]
 [[CrossbarArrayArchitecture]]
+[[Decoupled_Priors]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Topology]]
 [[Network_Topology_Design]]

@@ -48,6 +48,8 @@ Auto-extracted concept from raw material compilation.
 [[MeasurementEfficientDisorderAware]]
 [[MetaTopologyLibraryCompleteness]]
 [[MetaTopology]]
+[[Meta_Topology]]
+[[NetworkDiameterMetric]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[SDI_Bond]]

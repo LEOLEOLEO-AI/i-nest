@@ -30,6 +30,16 @@ Auto-extracted concept from raw material compilation.
 [[1M1T1R_SynapticNeuron]]
 [[2_5D_3D_HeterogeneousIntegration]]
 [[2_5D_Interposer]]
+[[3d]]
+[[3nm_Autonomous_Driving_Chip]]
+[[Complex_System_Theory]]
+[[Intelligence_Emergence]]
+[[Network_Topology_Design]]
+[[SDI_Bond]]
+[[SDI节点接口规范与化合键定义]]
+[[STDP_Plasticity]]
+[[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

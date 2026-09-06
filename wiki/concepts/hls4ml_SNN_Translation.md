@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspiredLearningRule]]
 [[Bio_plausible_Neuromorphic_Disturbance_Observer]]
 [[BrainBodyResonance]]
+[[BurstTemporalPlasticity]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[FPGA_Accelerated_SNN]]

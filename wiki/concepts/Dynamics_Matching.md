@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[HardwareAware_DesignSpace]]
 [[HierarchicalReservoirDynamics]]
 [[MechanicalReservoirComputing]]
+[[ModularTimescaleSeparation]]
 [[Nonlinear_Gain]]
 [[ReservoirDynamics]]
 [[Reservoir_Computing]]

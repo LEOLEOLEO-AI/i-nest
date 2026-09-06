@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Active_Inference_Agent]]
 [[Active_Inference_Architecture]]
 [[BrownianCastleInterface]]
+[[Free_Energy_Principle]]
 [[IGZO_ThinFilm_Channel]]
 [[Neuromorphic_Computing]]
 [[SNN]]

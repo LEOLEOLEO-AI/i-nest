@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[ApproximationFidelityTradeoff]]
 [[CLINKAsCarrierPrimitive]]
 [[CavityMethodAnalysis]]
+[[ChipletRoutingFabric]]
 [[ChiralTopologicalMatter]]
 [[Complex_System_Theory]]
 [[Decoupled_Priors]]

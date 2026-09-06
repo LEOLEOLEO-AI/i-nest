@@ -21,16 +21,22 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3DHI_Chiplet_Integration]]
+[[3DHI_Integration]]
+[[3d]]
 [[Advanced_Packaging]]
 [[Advanced_Packaging_Architecture]]
 [[Advanced_Packaging_Foundry]]
 [[ArchitectureParadigm]]
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration]]
 [[DARPA_NGMM]]
 [[HIR_Roadmap]]
 [[Heterogeneous_Integration]]
 [[NGMM_Manufacturing_Ecosystem]]
 [[NGMM_Program]]
 [[TCC]]
+[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

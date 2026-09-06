@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[4H_SiC_SubstrateProcessing]]
 [[AI-ML — 全景导航 (Map of Content)]]
 [[AdaptiveGraphDiffusion]]
+[[Adaptive_Intelligence_Principle]]
 [[AdsorptionBiosorptionHybrid]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]

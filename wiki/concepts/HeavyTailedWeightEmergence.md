@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[FastSlow_Dynamics]]
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
+[[GlobalInformationDominance]]
 [[HighThroughputPhenotyping]]
 [[HigherOrderAvalanche]]
 [[Intelligence_Emergence]]
@@ -51,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3DHI_Stacking]]
 [[4H_SiC_SubstrateProcessing]]
 [[AnalogInMemoryComputing]]
 [[BackpropagationFreeLearning]]
@@ -31,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_NoC_Fabric]]
 [[CompactFieldVariable]]
 [[GeneralIntelligenceSubstrate]]
+[[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC]]

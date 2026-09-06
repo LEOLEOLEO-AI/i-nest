@@ -57,6 +57,8 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_iNEST_Wafer]]
 [[NoC_SDI]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SDI_Bond]]
+[[ScaleFreeNetwork]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
 [[iNEST]]

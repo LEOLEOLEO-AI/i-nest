@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveFrequencyResonateAndFire]]
 [[Adaptive_Deep_Brain_Stimulation]]
 [[Amorphous_Amorphous_Transition]]
+[[AnisotropicGaussianPrimitives]]
 [[Dynamical_State_Space]]
 [[SNN]]
 [[Spiking_Neural_Network]]

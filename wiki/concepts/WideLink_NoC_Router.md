@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Compute_Centric_NoC]]
 [[EulaminateOverrepresentation]]
 [[Heterogeneous_Integration]]
+[[InInterconnectMemory]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]

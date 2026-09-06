@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AnisotropicGaussianPrimitives]]
 [[Contested_Priors_Mechanism]]
 [[ElasticInferenceScheduling]]
+[[EventCameraPoseInput]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[STDP_Plasticity]]

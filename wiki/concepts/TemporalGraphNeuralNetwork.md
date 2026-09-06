@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[ContinuousTraitAxelrodModel]]
 [[DendriticReservoirState]]
 [[Dynamic_Expert_Fusion]]
+[[EmergentDynamics]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[Free_Energy_Principle]]

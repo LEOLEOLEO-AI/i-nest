@@ -1,0 +1,11 @@
+
+============================================================
+  iNEST + TCC Research Pipeline v3.3
+  2026-09-06 12:47
+============================================================
+[12:47:52] [S2] Searching Semantic Scholar (19 queries)...
+[12:48:16]   S2: 429 rate limited; skip S2 for this run and continue with arXiv/GN
+[12:48:16] [arXiv] Searching arXiv (via proxy, 21 queries)...
+[12:48:20]   arXiv skip irrelevant: SENTINEL-RL: Offloading Topological Reasoning from LLM Agent
+[12:48:20]   arXiv skip irrelevant: Bernstein--von Mises theorems for Bayesian probabilistic num
+[12:48:20]   arXiv skip irrelevant: Tunable topological enhancement of covariant quantum Fisher 

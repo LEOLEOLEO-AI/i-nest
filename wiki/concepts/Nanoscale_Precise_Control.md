@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[NoiseAsLearningResource]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SpinalHDL_DSL]]
+[[SurvivalByServing]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[complex system]]

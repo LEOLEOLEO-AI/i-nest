@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[Expert_Review_Arbitration]]
+[[FreeToken_Offloading]]
 [[Heterogeneous_Integration]]
 [[Heterogeneous_Integration_Roadmap]]
 [[Heterogeneous_Integration_Roadmap_HIR]]

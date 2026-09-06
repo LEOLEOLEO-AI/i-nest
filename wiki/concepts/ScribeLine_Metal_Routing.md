@@ -31,14 +31,19 @@ Auto-extracted concept from raw material compilation.
 [[DataMovementMinimization]]
 [[Decoupled_Priors]]
 [[EndToEndDesignAutomation]]
+[[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Interconnect_Topology]]
+[[Memristor]]
 [[Memristor_Interconnect]]
+[[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[PacketRoutingOptimization]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

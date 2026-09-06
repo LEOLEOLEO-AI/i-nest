@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Allreduce_Latency_Probe]]
 [[AlternativeBridgingModels]]
+[[AnisotropicGaussianPrimitives]]
 [[Architectural_Conditioning]]
 [[Bidirectional_Temporal_Enhancement]]
 [[DiscreteSTDP]]

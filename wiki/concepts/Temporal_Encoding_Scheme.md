@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[SpikeBasedBeliefPropagation]]
 [[SpikeCodingAdversarialPerturbation]]
+[[SpikeRoutingFabric]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]

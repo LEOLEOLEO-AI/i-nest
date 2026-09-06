@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[StochasticMultiAgentRL]]
 [[StochasticVehicleRouting]]
 [[TCC]]
+[[Topology_Manifold_Computing]]
 [[Trustworthiness_Aware_Training]]
 [[WaveBasedComputation]]
 [[advanced packaging]]

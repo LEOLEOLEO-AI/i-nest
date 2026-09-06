@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[DataCenter_Chip_Logic_Compression]]
 [[DelayParameterSpaceDecomposition]]
 [[DynamicInference]]
+[[GenerativeTopologyModels]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

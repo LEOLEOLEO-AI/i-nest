@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[03 涌现：整体的能力不能还原回个体？ - 得到APP]]
 [[11_SDI节点接口规范与化合键定义_dup]]
 [[12_三原理协同_FEP_最小作用量_STDP]]
+[[3DHI_Stacking]]
 [[3D_Stacking]]
 [[3d]]
 [[4H_SiC_SubstrateProcessing]]
@@ -58,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[SystemInPackage_SiP]]
 [[TCC]]
+[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

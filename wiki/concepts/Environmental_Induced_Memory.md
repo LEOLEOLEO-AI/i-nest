@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration]]
 [[Chiplet_Integration_Route]]
 [[Complex_System_Theory]]
+[[Constructed_Reality_Prior]]
 [[CouplingTopologyMemoryLink]]
 [[Coupling_Topology]]
 [[Criticality]]

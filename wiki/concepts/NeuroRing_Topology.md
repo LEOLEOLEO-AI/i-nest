@@ -58,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
+[[Yann LeCun：发现智能原理是AI的终极问题]]
 [[complex system]]
 [[五层性能评估框架]]
 [[忆阻器]]

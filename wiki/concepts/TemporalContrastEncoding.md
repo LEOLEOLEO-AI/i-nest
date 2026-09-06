@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[Contested_Prior_Resolution]]
 [[DiscreteSTDP]]
+[[EnergyProportionalityCeiling]]
 [[EventCameraPoseInput]]
 [[EventCameraTemporalEncoding]]
 [[EventDrivenAttentionMasking]]

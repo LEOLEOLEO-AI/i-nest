@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[DivergentHigherAreaRanking]]
 [[EcosystemTopologyCoupling]]
 [[ErrorSuppressedPipeline]]
+[[FederatedServiceGraph]]
 [[HardwareAware_DesignSpace]]
 [[Hybrid_LLM_Guided_Search]]
 [[Intelligence_Emergence]]

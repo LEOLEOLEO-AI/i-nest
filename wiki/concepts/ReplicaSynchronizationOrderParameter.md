@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[ReplicaSynchronization]]
 [[TCC]]
 [[TopologyConditionedLearning]]
+[[Topology_Centric_Packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

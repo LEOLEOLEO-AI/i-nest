@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[DifferentiableRasterizationPipeline]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
+[[EntanglementFidelityBudgeting]]
 [[Free_Energy_Synchronization]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]

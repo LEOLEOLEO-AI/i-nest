@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[OpenLearningEcosystem]]
 [[PacketRoutingOptimization]]
 [[Plasticity_vs_Computation_Separation]]
+[[QuantumDistillation]]
 [[STDPDrivenConnectivity]]
 [[STDP_Plasticity]]
 [[Self_Organized_Criticality]]

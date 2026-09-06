@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[BranchingRatio]]
 [[CertifiedBifurcationDetection]]
 [[CoexistencePhaseDiagram]]
+[[CollectiveStateResilience]]
 [[Contested_Priors_Mechanism]]
 [[CoupledOscillatorReservoir]]
 [[Coupling_Strength_Encoding]]

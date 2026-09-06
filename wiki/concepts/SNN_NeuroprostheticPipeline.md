@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[SDN_Neuromorphic_Interface]]
 [[SNN]]
 [[Self_Organized_Criticality]]
+[[SequenceAwareSpikingDetection]]
 [[SparseActivationPattern]]
 [[SpikeBackpropagation]]
 [[SpikeBasedGradientDescent]]

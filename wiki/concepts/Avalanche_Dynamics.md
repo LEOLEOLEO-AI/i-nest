@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[ConventionalAndSpikingDualMode]]
 [[CriticalityDrivenEfficientCoding]]
 [[CriticalityInNeuralNetworks]]
+[[CriticalityOffCriticalityTransition]]
 [[Criticality]]
 [[Criticality_Driven_Coding]]
 [[CrossEntityPreemptiveWarning]]

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Complex_System_Theory]]
 [[Complexity_Emergence]]
+[[Complexity_Emergence_Engineering]]
 [[CorticalTypeDiversity]]
 [[DRBE_MVP_Mainchain]]
 [[DataDrivenCellularAxis]]
@@ -84,6 +85,7 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[iNEST]]
 [[residual connection]]
+[[神经网络]]
 [[类脑芯片]]
 
 ## Sources

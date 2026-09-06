@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
+[[CommunicationAsComputation]]
 [[CrossbarArrayVLSI]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Topology]]

@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
+[[EnergyEfficiencyAI]]
 [[EventDrivenRiskAssessment]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

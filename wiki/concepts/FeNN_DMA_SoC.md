@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Synaptic_Behavior]]
 [[Autonomous_Spiking_Dynamics]]
 [[BiSpikCLM]]
+[[ChipletOpticalIO]]
 [[FeNN_DMA]]
 [[Neuromorphic_Computing]]
 [[SOC]]

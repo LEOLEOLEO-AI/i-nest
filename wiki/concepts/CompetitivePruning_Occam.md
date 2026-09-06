@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[1M1T1R_SynapticNeuron]]
 [[AI-ML — 全景导航 (Map of Content)]]
 [[Active_Inference_Agent]]
+[[Alpha_Coefficient_Phase_Transition_Amplification]]
 [[Competitive_Pruning]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]

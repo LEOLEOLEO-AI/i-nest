@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Dendritic_Compartmentalization]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
+[[ExponentialDenseAssociativeMemory]]
 [[FisherInformationMetric]]
 [[FisherOrthogonalMemory]]
 [[FunctionalInterfaceBlock]]

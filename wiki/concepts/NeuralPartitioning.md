@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicTokenSparsity]]
 [[EEG_Criticality]]
 [[Edge_Neuromorphic_Compute]]
+[[EventBasedGestureEncoding]]
 [[EventCameraPoseInput]]
 [[GradientFreeSNNTraining]]
 [[InNetwork_Neuromorphic]]

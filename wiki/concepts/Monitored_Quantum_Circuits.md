@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Edge_Neuromorphic_Compute]]
 [[Emergent_Reservoir_Topology]]
 [[Entanglement_Phase_Transition]]
+[[FunctionalRelevanceDrivenSelfOrganization]]
 [[InNetworkComputing]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
@@ -54,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[NoiseRegimeTransition]]
+[[Quantum_Criticality]]
 [[Reservoir_Computing]]
 [[Self_Organized_Criticality]]
 

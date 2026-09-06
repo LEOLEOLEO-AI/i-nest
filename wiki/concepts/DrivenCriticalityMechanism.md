@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[Crossover_Physics]]
 [[DeepLinearNetworkCriticality]]
+[[Driven_Criticality]]
 [[InNetworkComputing]]
 [[Interconnect_Routing]]
 [[NetworkCriticality]]

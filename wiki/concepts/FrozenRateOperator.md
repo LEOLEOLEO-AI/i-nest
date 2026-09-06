@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Roadmap]]
 [[Emergent_Intelligence_Threshold]]
 [[EnsembleSparsity]]
+[[Entropy_Connectivity_Path]]
 [[Fixed_Cost_Dominance]]
 [[FlexibilityThreshold]]
 [[GutBrainAxis_Reprogramming]]

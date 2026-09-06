@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[NoC]]
 [[PacketRoutingForFPGAs]]
+[[SDI_TopologicalControl]]
 [[STDPDrivenConnectivity]]
 [[STDP_Plasticity]]
 [[Space_Radiation_Hardening]]

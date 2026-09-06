@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Packaging]]
 [[CoPoS]]
+[[ComplexSystem_Definition]]
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[ERI_2_0_Strategy]]

@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[EventBasedNeuralDecoding]]
 [[EventCameraTemporalPipeline]]
 [[EventDrivenMotionDeblurring]]
+[[EventDrivenVisualPipeline]]
 [[Event_Driven_Architecture]]
 [[Event_Driven_Orbital_Object_Pipeline]]
 [[Intelligence_Emergence]]

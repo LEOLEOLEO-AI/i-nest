@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN_NeuroprostheticPipeline]]
 [[Self_Organized_Criticality]]
 [[SemanticTrafficAwareness]]
+[[SequenceAwareSpikingDetection]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking neural network]]
 [[Spiking_Neural_Network]]

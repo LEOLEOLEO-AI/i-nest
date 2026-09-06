@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_STDP]]
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
+[[TemperatureSensitivityControl]]
 [[Topological_Phase_Transition_Scaling]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]

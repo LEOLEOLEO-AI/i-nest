@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[NoC_Chiplet_iNEST_Wafer]]
+[[OpticallyWritableAtomicVaporMemory]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[STDP_Plasticity]]

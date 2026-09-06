@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]
+[[SynapticFatigueModel]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
 

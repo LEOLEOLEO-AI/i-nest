@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityDrivenTopology]]
 [[Criticality]]
 [[Criticality_Based_Feature_Extraction]]
+[[CrossbarSNNArchitecture]]
 [[Dynamic_Expert_Fusion]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[Interconnect_Routing]]

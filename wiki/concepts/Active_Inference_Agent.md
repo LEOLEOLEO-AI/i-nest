@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[CST计量仪]]
 [[CertifiedBifurcationDetection]]
 [[Complex_System_Theory]]
+[[Connectome_Transfer]]
 [[DendriticReservoirState]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence]]

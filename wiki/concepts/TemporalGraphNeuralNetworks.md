@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[MinimalModelTopology]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
+[[OscillatoryNeuralNetworkTopology]]
 [[RecursiveSelfReferentialArchitecture]]
 [[TCC]]
 [[TemporalGraphNeuralNetwork]]

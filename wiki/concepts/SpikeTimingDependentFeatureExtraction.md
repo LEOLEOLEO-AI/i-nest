@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikingTemporalCoding]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
+[[TemporalPrecisionParallelism]]
 [[iNEST]]
 
 ## Sources

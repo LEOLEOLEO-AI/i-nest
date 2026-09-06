@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[BoundaryContract]]
 [[BoundaryObject_Abstraction]]
 [[CST_MasterEquation]]
+[[Causal_Emergence_Architecture]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]

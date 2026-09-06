@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[DevelopmentalNeuromorphicAdaptation]]
 [[EventCameraTemporalEncoding]]
 [[Event_Driven_Architecture]]
+[[FPGA_Accelerated_SNN]]
 [[In_Package_Neuromorphic_Integration]]
 [[Interconnect_Routing]]
 [[Memristor]]

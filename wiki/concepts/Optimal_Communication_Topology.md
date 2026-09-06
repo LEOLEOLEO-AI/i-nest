@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Capability_Forging_Pipeline]]
 [[Complex_System_Theory]]
 [[Gate_Synthesis_Readout]]
+[[LossSpikeMechanism]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]
 [[Spiking_Neural_Network]]

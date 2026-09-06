@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[BackpropagationFreeLearning]]
 [[Deep_Network_Architecture_Invariant]]
+[[Defense_Industrial_Base_Reshaping]]
 [[In_Network_Neuromorphic]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

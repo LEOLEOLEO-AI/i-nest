@@ -61,6 +61,7 @@ Auto-extracted concept from raw material compilation.
 [[研究进展：AI+新材料，5篇类脑智能]]
 [[神经网络]]
 [[自动微分•自组织生长_ 打造新一代的自组织生长模型]]
+[[集合通信NaaS完整报告]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

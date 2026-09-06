@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[ChiralSymmetryClasses]]
 [[Complex_System_Theory]]
 [[Computation_Access_Routing]]
+[[Critical_Region_Extension]]
 [[DifferentiableFloorplanning]]
 [[EntanglementAwareRouting]]
 [[FPGA_Reconfigurability]]

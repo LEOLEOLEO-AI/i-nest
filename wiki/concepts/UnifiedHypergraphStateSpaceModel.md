@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[DrivenCriticalityOptimalityTradeoff]]
 [[EmulationTheoryDisturbanceObserver]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Organization]]
 [[Self_Organized_Criticality]]
 [[UnifiedHypergraphStateSpace]]
 

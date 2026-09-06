@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[GeometricNeuromorphicFusion]]
 [[GradientBasedLearningLocalization]]
+[[InNetwork_Neuromorphic_CoDesign]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[MagnitudePhaseComputationalModel]]

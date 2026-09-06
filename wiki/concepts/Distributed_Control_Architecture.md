@@ -31,9 +31,12 @@ Auto-extracted concept from raw material compilation.
 [[AvalanchePropagation]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[CST_SynergisticCoordination]]
+[[Chain_of_Thought_Reasoning]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
+[[Complex_System_Theory]]
+[[Heterogeneous_Integration]]
 [[iNEST]]
 
 ## Sources

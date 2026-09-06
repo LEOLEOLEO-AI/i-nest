@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[EdgeIoTEnergyAwareness]]
 [[Heterogeneous_Integration]]
 [[Heterogeneous_Synaptic_Motifs]]
+[[L2_L3_Reconfigurability]]
 [[MIT_异构Chiplet集成构建下一代计算的_超级芯片_]]
 [[Memristive_Topology]]
 [[Moderate_Correlation_Regime]]

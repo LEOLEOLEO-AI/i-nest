@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[RestrictedConnectivityTopology]]
 [[ScaleFreeNetwork]]
+[[SelfHealing_Interconnect]]
 [[SuperparamagneticSwitchingRate]]
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]

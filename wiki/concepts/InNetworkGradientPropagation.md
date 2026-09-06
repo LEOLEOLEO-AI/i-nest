@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Agile_Resilient_Defense_Ecosystem]]
 [[AlloyDisorderEngineering]]
 [[BitPrecisionAwareScheduling]]
+[[CST_Spatiotemporal_Coefficient]]
 [[CognitiveSupportTopology]]
 [[CollectiveConsensus]]
 [[CollectiveDynamics]]

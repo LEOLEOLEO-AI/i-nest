@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Cross_Substrate_Scaling]]
 [[DarkSiliconAwarePowerGating]]
+[[EpoxyMoldingCompoundFlow]]
 [[FPGABasedNeuromorphic]]
 [[Intelligence_Emergence]]
 [[Ising_Machine]]

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[BackpropagationFreeLearning]]
 [[BoundaryObject_Abstraction]]
 [[Brain_Verified_Scaling_Target]]
+[[CST_MasterEquation]]
 [[Causal_Emergence]]
 [[Causal_Emergence_Architecture]]
 [[ChipletOnWafer]]

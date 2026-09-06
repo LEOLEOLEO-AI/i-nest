@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[3d]]
 [[AdaptiveGraphDiffusion]]
 [[Adaptive_Intelligence_Principle]]
+[[Adaptive_Service_Orchestration]]
 [[AdiabaticMultimodeBend]]
 [[AdvancedPackagingInterconnect]]
 [[AndersonTransition]]

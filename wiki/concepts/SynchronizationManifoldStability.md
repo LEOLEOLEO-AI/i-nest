@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[DelayedSynapticCoupling]]
 [[DynamicInference]]
 [[ERI_2_0_Strategy]]
+[[GenerativeTopologyModels]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

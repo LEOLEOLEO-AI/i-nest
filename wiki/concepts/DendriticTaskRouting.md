@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
+[[6万+辛顿2025年度全景实录深读｜真正的智能与硅基智能的非对称演进]]
 [[AIRA_NeuralArchSearch]]
 [[AI_Driven_Architecture_Search]]
 [[Agile_Resilient_Defense_Ecosystem]]
@@ -58,7 +59,9 @@ Auto-extracted concept from raw material compilation.
 [[涌现动力学如何用来分析复杂系统？]]
 [[神经形态计算]]
 [[神经形态计算突破：脉冲神经网络实现机器人超低功耗定位新范式]]
+[[神经网络]]
 [[类脑芯片]]
+[[脉冲神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

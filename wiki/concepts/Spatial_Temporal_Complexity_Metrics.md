@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicSafetyBoundary]]
 [[Neuromorphic_Computing]]
 [[OpenEndedDiscovery]]
+[[RandomGraphQuantumChaos]]
 [[iNEST]]
 
 ## Sources

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[ComplexValuedSNN]]
 [[DARPA_ProjectManager_Model]]
 [[DTGA]]
+[[EpidemicThreshold]]
 [[HigherOrderSimplicialDynamics]]
 [[In_Package_Neuromorphic_Integration]]
 [[Intelligence_Emergence]]

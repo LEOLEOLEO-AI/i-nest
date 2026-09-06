@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[SOC]]
 [[SocialSkillAcquisition]]
 [[Spike_Encoding_of_fMRI]]
+[[SpikingPlaceCellEnsemble]]
 [[Spiking_Neural_Network]]
 [[VisualPlaceRecognition]]
 [[iNEST]]

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[AcceleratorReconfigurationOverhead]]
 [[ActiveDendriteSNN]]
 [[AdaptiveFunctionalTopology]]
+[[AdjustableDynamicsReservoir]]
 [[AstrocyteInspiredModulation]]
 [[AtomicGeometryEncoding]]
 [[BarrierConditionedTrajectory]]

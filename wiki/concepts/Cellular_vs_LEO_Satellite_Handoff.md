@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle_Network]]
 [[FullSpectrum_DomainIntegration]]
 [[FunctionalInterfaceBlock]]
+[[FunctionalInterfaceBlocks]]
 [[Heterogeneous_Integration]]
 [[IntegrationProspectsForVLSI]]
 [[Intelligence_Emergence]]

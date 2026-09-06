@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[DistinctReentrantPhases]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
+[[Epithelial_Barrier_Integrity]]
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]

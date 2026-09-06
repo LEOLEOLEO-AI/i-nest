@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[InterconnectAwareGradientAggregation]]
+[[L2_L3_Reconfigurability]]
 [[MachineLearningPotential]]
 [[Memristive_Topology]]
 [[MultiTechnologyInspectionFusion]]

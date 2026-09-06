@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Wafer_Topology]]
 [[Complex_System_Theory]]
+[[DTGA]]
 [[Deep_Network_Architecture_Invariant]]
 [[Deep_SNN_Trainability]]
 [[DeeplySupervisedSpiking]]

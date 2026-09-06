@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[20W_Brain_Inspired_Planning]]
 [[Accessibility_Plasticity]]
+[[Adaptive_Deep_Brain_Stimulation]]
 [[GeneralizationPhaseBoundary]]
 [[Interconnect_Routing]]
 [[Memristor]]
@@ -32,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[PacketRoutingOptimization]]
 [[Spiking neural network]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]

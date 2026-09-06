@@ -34,9 +34,11 @@ Auto-extracted concept from raw material compilation.
 [[SDI_SNN_Interconnect]]
 [[SDI_iNEST_Interconnect]]
 [[SNN]]
+[[ST_SNN]]
 [[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
+[[iNEST_Interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

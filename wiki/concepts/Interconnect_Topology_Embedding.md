@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Interconnect_Topology]]
+[[Long_Range_Interactions]]
 [[Memristive_Interconnect]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Spatiotemporal_Synergy]]
@@ -47,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[ScalableNeuromorphicTopology]]
 [[Self_Organized_Criticality]]
+[[Spatiotemporal_Synergy]]
 [[StochasticVehicleRouting]]
 [[TCC]]
 

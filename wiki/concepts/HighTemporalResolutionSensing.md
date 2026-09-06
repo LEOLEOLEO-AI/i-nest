@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Synapse]]
 [[Meta_Residual_Learning]]
 [[Neuromorphic_Computing]]
+[[Nonlinear_Gain]]
 [[Reservoir_Computing]]
 [[SDDE_Attractor_Emergence]]
 [[SDI_Bond]]

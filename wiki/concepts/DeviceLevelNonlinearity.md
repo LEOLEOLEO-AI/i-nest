@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[Analog_Weight_Storage]]
 [[CST计量仪]]
+[[ComplexSystem_Definition]]
 [[Complex_System_Theory]]
 [[Complexity_Emergent_Intelligence]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]

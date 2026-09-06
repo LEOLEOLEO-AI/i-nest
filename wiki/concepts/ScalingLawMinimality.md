@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[CombinedImportanceScoring]]
 [[Course_Based_FPGA_Projects]]
 [[CurrentInjectionSNN]]
+[[DTGA]]
 [[ElasticSpikingTransformer]]
 [[ErrorSuppressedPipeline]]
 [[FlagOS_2_0]]

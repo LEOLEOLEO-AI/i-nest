@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[PowerLawScalingClassification]]
 [[PowerLawScaling]]
 [[QuantumReservoirMemoryCapacity]]
+[[Random_Parameter_Substitution]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[SelfOrganizedCriticalityConsciousness]]

@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[CoPackagedOptics]]
 [[Compute_In_Memory_Neuromorphic]]
 [[DecliningModularity]]
+[[Expert_Review_Arbitration]]
 [[Heterogeneous_Integration]]
 [[In_Memory_Computing]]
 [[Neuromorphic_Computing]]

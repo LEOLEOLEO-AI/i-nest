@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[DenseNetworkDynamics]]
 [[Functional_Food_Complexity]]
 [[Intelligence_Emergence]]
+[[MachineLearningPotential]]
 [[Network_Topology_Design]]
 [[Reservoir_Computing]]
 [[SDI_Bond]]

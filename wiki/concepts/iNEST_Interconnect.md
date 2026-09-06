@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[BioPlausiblePredictiveCoding]]
 [[DevelopmentalNeuromorphicAdaptation]]
 [[EmergentOrder]]
+[[EventCameraActionRecognition]]
 [[Event_Driven_Architecture]]
 [[FrozenRateOperator]]
 [[Intelligence_Emergence]]
@@ -36,7 +37,6 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
-[[Neuromorphic_Interconnect]]
 [[Order_Flexibility_Duality]]
 [[SNN]]
 [[ST_SNN]]
@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
+[[neuromorphic interconnect]]
 [[类脑芯片]]
 
 ## Sources

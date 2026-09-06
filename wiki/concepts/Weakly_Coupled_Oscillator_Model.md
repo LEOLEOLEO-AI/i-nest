@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AcademicDevelopmentCoCreation]]
 [[ActiveDendriteSNN]]
 [[AnomalousSpinTransport]]
+[[ApproximateMacroscopicDynamics]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[SNN]]

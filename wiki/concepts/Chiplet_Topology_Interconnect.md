@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[InterconnectConstrainedEmergence]]
 [[MachineLearningNanomaterialDiscovery]]
 [[Memristive_Interconnect]]
+[[MultiplicativeGainMechanism]]
 [[NCL神经计算定律详解]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

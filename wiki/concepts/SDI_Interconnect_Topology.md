@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[ApproximationFidelityTradeoff]]
 [[CommunicationAwareComputeRelocation]]
 [[FPGA_Reconfigurability]]
+[[InSitu_Adjoint_Wave_Control]]
 [[Interconnect_Routing]]
 [[Interconnect_Topology]]
 [[Network_Topology_Design]]

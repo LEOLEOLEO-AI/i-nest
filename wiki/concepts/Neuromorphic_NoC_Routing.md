@@ -46,6 +46,8 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Event_Driven_Attention]]
 [[SpikingMultimodalFusion]]
 [[Spiking_Neural_Network]]
+[[StochasticDelayInference]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[TemporalBatchSynchronization]]
 [[TemporalSparsityExploitation]]

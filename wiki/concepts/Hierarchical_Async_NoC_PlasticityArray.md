@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[Neuromorphic_NoC_Routing]]
 [[NoC]]
+[[NoC_SNN]]
 [[SNN]]
 [[ST_SNN]]
 [[Spiking_Neural_Network]]

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[EnsembleSparsity]]
 [[EventDrivenMotionDeblurring]]
 [[EventDrivenSynchronization]]
+[[GraphAnomalySpikeEncoding]]
 [[MembranePotentialAlignment]]
 [[Memristive_Solutions]]
 [[Neuromorphic_Computing]]

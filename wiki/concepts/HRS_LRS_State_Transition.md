@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Prior_Resolution]]
 [[Distributed_Spike_Communication]]
 [[EdgeInspectionInference]]
+[[EventDrivenPlasticity]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[SNN]]

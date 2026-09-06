@@ -42,7 +42,9 @@ Auto-extracted concept from raw material compilation.
 [[InputAdaptiveComputation]]
 [[Network_Topology_Design]]
 [[Plasticity_vs_Computation_Separation]]
+[[RLFlightControl]]
 [[SelfOrganization]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 
 ## Sources

@@ -1,0 +1,98 @@
+
+============================================================
+  iNEST + TCC Research Pipeline v3.3
+  2026-09-05 20:12
+============================================================
+[20:12:31] [S2] Searching Semantic Scholar (19 queries)...
+[20:12:48]   S2: 429 rate limited; skip S2 for this run and continue with arXiv/GN
+[20:12:48] [arXiv] Searching arXiv (via proxy, 21 queries)...
+[20:13:15]   arXiv skip irrelevant: SENTINEL-RL: Offloading Topological Reasoning from LLM Agent
+[20:13:15]   arXiv skip irrelevant: Bernstein--von Mises theorems for Bayesian probabilistic num
+[20:13:15]   arXiv skip irrelevant: Tunable topological enhancement of covariant quantum Fisher 
+[20:13:40]   arXiv skip irrelevant: THz-SynC: Collective Synthesis with Contextual-Bandit-Assist
+[20:13:40]   arXiv skip irrelevant: Designing corrugated surfaces to guide colloidal self-assemb
+[20:13:40]   arXiv skip irrelevant: Every Kernel Is a Join: Automatic Multi-GPU Parallelism for 
+[20:13:47]   arXiv skip irrelevant: Stable and Scalable Bundle Adjustment of Holistic 3D Structu
+[20:13:47]   arXiv skip irrelevant: Common-Witness Certificates and Sharp Feature Bounds for Cou
+[20:13:47]   arXiv skip irrelevant: Approximate maximum-likelihood decoding via truncated free e
+[20:13:57]   arXiv skip irrelevant: Formation Matrix and Energy-based Control of Multi-Agent Sys
+[20:13:57]   arXiv skip irrelevant: Quantifying Power to Voltage and Frequency Dynamics for Osci
+[20:13:57]   arXiv skip irrelevant: Hosting Capacity Assessment of Data Centers with Voltage Rid
+[20:14:02]   arXiv: batch separator, pausing 10s...
+[20:14:33]   arXiv TCC-topology-opt: <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>, retry 1...
+[20:14:52]   arXiv skip irrelevant: THz-SynC: Collective Synthesis with Contextual-Bandit-Assist
+[20:14:52]   arXiv skip irrelevant: Employing the Structural Power to Achieve Supply-Demand Bala
+[20:14:52]   arXiv skip irrelevant: PPO-STGNN: A Proximal Policy Optimization Approach with Spat
+[20:15:04]   arXiv skip irrelevant: THz-SynC: Collective Synthesis with Contextual-Bandit-Assist
+[20:15:04]   arXiv skip irrelevant: From Prior-Guided Heuristics to Deployable Agents: Accelerat
+[20:15:04]   arXiv skip irrelevant: Integrating Wi-Fi into 3GPP 5G Network Slicing: An Experimen
+[20:15:30]   arXiv iNEST-selforg-critical: <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>, retry 1...
+[20:16:06]   arXiv skip irrelevant: GIFT: Guided Intermediate Feature Training via Action-Orient
+[20:16:06]   arXiv skip irrelevant: B(E2) Serves as a Robust Signature of N = 32,34 Shell Evolut
+[20:16:06]   arXiv skip irrelevant: Effective Hamiltonian description on monitored Majorana chai
+[20:16:31]   arXiv skip irrelevant: Low-Thrust Trajectory Optimization with Quantum Computing an
+[20:16:31]   arXiv skip irrelevant: Exploring Nonlinear Body Oscillations for Natural Quadruped 
+[20:16:31]   arXiv skip irrelevant: What Is a System? An Interaction-Based Account of Structure-
+[20:16:39]   arXiv skip irrelevant: Phase-delays shape multistability and basin sizes in Kuramot
+[20:16:44]   arXiv: batch separator, pausing 10s...
+[20:17:15]   arXiv iNEST-snn: <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>, retry 1...
+[20:17:41]   arXiv iNEST-snn: <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>, retry 2...
+[20:18:21]   arXiv iNEST-snn: <urlopen error _ssl.c:990: The handshake operation timed out>, giving up
+[20:18:41]   arXiv skip irrelevant: A Case Study on Emergent Cheating and Whistleblowing in Auto
+[20:18:41]   arXiv skip irrelevant: Spectral and Eigenvector Crossovers in Random Mixed Graphs
+[20:18:41]   arXiv skip irrelevant: The Natural Language Interaction Protocol and Standard for A
+[20:18:48]   arXiv skip irrelevant: LevelSyn: Physical-Aware Logic Synthesis via Level-Asynchron
+[20:18:48]   arXiv skip irrelevant: Skywing: A Platform for Decentralized Mathematical Computing
+[20:18:48]   arXiv skip irrelevant: Efficient Co-simulator Integration with Application to Smart
+[20:18:58]   arXiv skip irrelevant: High-Order Triadic Functional Connectivity in the Brain and 
+[20:18:58]   arXiv skip irrelevant: Spatially-resolved multiphoton photoemission from a lateral 
+[20:18:58]   arXiv skip irrelevant: Spatiotemporal Chaos with Extended Spatial Interactions
+[20:19:28]   arXiv skip irrelevant: Synchronization of directed hypergraphs with heterogeneities
+[20:19:49]   Insight [1/3]: Learning with Volterra Neural Networks: A System T...
+[20:19:49]   arXiv skip irrelevant: Why Multi-Layer Message Passing Works: Completeness Theory f
+[20:19:54]   arXiv: batch separator, pausing 10s...
+[20:21:00]   arXiv iNEST-reservoir: <urlopen error _ssl.c:990: The handshake operation timed out>, retry 1...
+[20:21:13]   arXiv skip irrelevant: Optical Reservoir Computing with Structural Nonlinearity for
+[20:21:13]   arXiv skip irrelevant: Towards Effective Physical Reservoir Computing with a Pneuma
+[20:21:13]   arXiv skip irrelevant: Basin Geometry and Reliable Recall of Dynamical Memories in 
+[20:21:25]   arXiv skip irrelevant: Genetic Algorithms for Tractable Bayesian Network Fusion via
+[20:21:25]   跳过重复: A Network Science Perspective on Evaluating Deep G... [Title: A Network Science Perspective on Evaluating Deep Graph Generative Models]
+[20:21:34]   arXiv skip irrelevant: Renormalization group and long-range conditional mutual info
+[20:21:34]   arXiv skip irrelevant: Agents That Model Agents: Five Principles Toward a Theory of
+[20:21:34]   arXiv skip irrelevant: Local-to-Global Sentence-Level Graph Reranking for Scientifi
+[20:21:46]   arXiv: batch separator, pausing 10s...
+[20:21:57]   arXiv skip irrelevant: THz-SynC: Collective Synthesis with Contextual-Bandit-Assist
+[20:21:57]   arXiv skip irrelevant: Genetic Algorithms for Tractable Bayesian Network Fusion via
+[20:22:02] [arXiv] 1 new papers, 1 errors across 21 queries
+[20:22:02] [GN] Google News RSS...
+[20:22:24]   GN error (TCC): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[20:25:44]   GN error (iNEST): <urlopen error [WinError 10053] 你的主机中的软件中止了一个已建立的连接。>
+[20:25:45]   GN error (emergence): <urlopen error [Errno 11001] getaddrinfo failed>
+[20:25:46]   GN error (complex-networks): <urlopen error [Errno 11001] getaddrinfo failed>
+[20:25:47] [GN] 0 new articles
+
+  Total: 1 new items to inbox
+[20:25:47] [Process] LLM classify (free tier, limit=20)...
+[11:50:15] [Process] Classified: 0
+[11:50:15] [Genspark] Generating research brief...
+[11:50:15] [Genspark] Research brief written: genspark_research_brief.md
+[11:50:15] [Graph] Scanning wiki links...
+[11:51:12] [Graph] 12477 files, 247006 links
+[12:30:51] [Graph] Exported: 12477 nodes, 243575 edges
+[12:30:51] [Graph] 0 missing backlinks
+[12:30:51] [DailyGen] Daily_Action + Focus + Insights generated
+[12:30:52] [Review] Research task proposals refreshed
+
+============================================================
+  Pipeline v3.3 Complete
+  Sources: 0(S2)+1(arXiv)+0(GN) | Written: 1 new papers
+  Processed: 0 | Nodes: 12477 edges: 243575 | Missing links: 0 | Genspark: OK
+  Elapsed: 58700s
+============================================================
+[12:30:52] [State] research_state.json updated
+[12:30:52] [Evolution] Evidence + hypotheses updated
+[12:31:52] [Wiki] Warning: Command '['C:\\Users\\LEO\\AppData\\Local\\Programs\\Python\\Python310\\python.exe', 'D:\\Obsidian\\vault\\90_System\\scripts\\wiki_compiler.py']' timed out after 60 seconds
+[12:31:53] [Insight] Cross-domain bridges updated
+[12:32:40] [Tasks] Research recommendations updated
+[12:32:41] [Dashboard] Live dashboard published
+[12:32:42] [Homepage] Home.md auto-refreshed

@@ -31,6 +31,8 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenRiskAssessment]]
 [[Event_Driven_Architecture]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
+[[FPGA_Accelerated_SNN]]
+[[Interconnect_Routing]]
 [[IntrinsicTimingSTDP]]
 [[Network_Topology_Design]]
 [[NeuromorphicStatusAwareness]]

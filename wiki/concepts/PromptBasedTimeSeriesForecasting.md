@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[NonHermitianTopologicalAndersonInsulator]]
 [[Nonlinear_Gain]]
 [[PathIntegration]]
+[[PropertyPredictionModeling]]
 [[QuantumAnnealerSynapticTest]]
 [[RecursiveSelfReferentialArchitecture]]
 [[RoleGeometryEmbedding]]

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3D_Heterogeneous_Integration]]
+[[3d]]
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_Driven_Power_Density_Scaling]]
 [[AcceleratedMaterialScreening]]
@@ -43,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Decoupling_Mechanism]]
 [[DendriticReservoirState]]
 [[DualDrivenHybridNetwork]]
+[[FractureMechanism]]
 [[Heterogeneous_Integration]]
 [[Reservoir_Computing]]
 [[Reservoir_State_Encoding]]

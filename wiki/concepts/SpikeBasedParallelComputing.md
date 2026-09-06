@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Organic_Neuromorphic_Transistor]]
 [[Spiking_Neural_Network]]
+[[TemporalLearning]]
 [[iNEST]]
 
 ## Sources

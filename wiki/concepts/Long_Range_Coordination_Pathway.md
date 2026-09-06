@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[Bipartite_Interconnect]]
 [[Bipartite_Interconnect_Design]]
+[[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[EmergentOrder]]
 [[ExcitatoryInhibitoryOscillatoryNetwork]]
 [[Free_Energy_Principle]]

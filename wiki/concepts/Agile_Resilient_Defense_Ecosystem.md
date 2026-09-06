@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[LLM_Reward_Design]]
+[[Material_Circularity]]
 [[Nanoparticle_Network_Interconnect]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

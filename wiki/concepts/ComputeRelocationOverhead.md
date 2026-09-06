@@ -60,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
 [[Topological_State_Encoding]]
+[[Topology_Aware_NoC_Routing]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Packaging]]
 [[chiplet interconnect]]

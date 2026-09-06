@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
+[[KV_Cache_to_BoundaryObject_Transition]]
 [[Machine_Decision_Speed_Advantage]]
 [[Memristive_Topology]]
 [[NCL神经计算定律详解]]

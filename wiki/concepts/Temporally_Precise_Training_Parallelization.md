@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[BioPlausiblePredictiveCoding]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
+[[ComplexValuedSNN]]
 [[Complex_System_Theory]]
 [[Contested_Prior_Resolution]]
 [[DiscreteSTDP]]

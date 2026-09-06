@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Communication]]
 [[Event_Driven_Processing]]
 [[FrustratedDimerMagnet]]
+[[InNetworkComputing]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Local_Approximation_Dynamics]]

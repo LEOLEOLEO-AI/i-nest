@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[DTGA]]
 [[FPGA_Reconfigurability]]
 [[GPU_Bottleneck_Relief]]
+[[GasSensorArrayFusion]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Intelligent_Power_Management]]

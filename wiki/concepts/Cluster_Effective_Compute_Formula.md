@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
+[[CommunicationAsComputation]]
 [[DistributedTrainingPipeline]]
 [[GPU_Bottleneck_Relief]]
 [[Heterogeneous_Integration]]
@@ -41,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Switchless_Computing]]
 [[TCC]]
 [[TopologyCentricComputing]]
+[[Topology_Centric_Computing]]
 [[WaferScaleTopologyCentricComputing]]
 
 ## Sources

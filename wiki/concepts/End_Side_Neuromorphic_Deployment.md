@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Distributed_Spike_Communication]]
 [[EdgeInspectionInference]]
 [[Efficient_Coding_Constraint]]
+[[EventBasedAnalogFrontEnd]]
 [[EventDriven_Interconnect]]
 [[EventSparseTemporalEncoding]]
 [[FerroelectricCrossbarArray]]

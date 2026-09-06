@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[DiscreteSTDP]]
 [[EventCameraTemporalEncoding]]
 [[Event_Driven_Architecture]]
+[[In_Network_Neuromorphic]]
 [[Interconnect_Routing]]
 [[IntrinsicTimingSTDP]]
 [[Network_on_Chip]]

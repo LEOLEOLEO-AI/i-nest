@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityOffCriticalityTransition]]
 [[Criticality]]
 [[Driven_Criticality]]
+[[EarlyExiting]]
 [[ExactlyFlatTopologicalBands]]
 [[FeatureBonding]]
 [[FunctionalRelevanceDrivenSelfOrganization]]

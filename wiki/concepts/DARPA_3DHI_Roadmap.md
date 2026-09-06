@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[ElectronicPhotonicIntegratedCircuit]]
 [[EvanescentFieldTrapping]]
 [[Heterogeneous_Integration]]
+[[ImaginaryGaugePhaseImprint]]
 [[Intelligence_Emergence]]
 [[MultiTechnologyInspectionFusion]]
 [[National_Mesoscale_Innovation_Center]]

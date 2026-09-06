@@ -45,6 +45,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Packaging]]
 [[Photonic_Chiplet_Interconnect]]
+[[PropertyPredictionModeling]]
 [[SNN]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]

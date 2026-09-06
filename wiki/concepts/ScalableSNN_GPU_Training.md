@@ -41,6 +41,8 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[OpenSource_Neuromorphic_Framework]]
 [[PersonalizedSNNTransfer]]
+[[PersonalizedSNN]]
+[[PerturbationSpaceTrajectory]]
 [[SNN]]
 [[Spiking neural network]]
 [[Spiking_Neural_Network]]

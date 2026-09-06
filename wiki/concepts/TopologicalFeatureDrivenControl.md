@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Cache_Aware_Flow_Scheduling]]
 [[CircuitTopologyEncoding]]
 [[Complex_System_Theory]]
+[[ConstraintDrivenOptimization]]
 [[ControlDrivenCriticalFluctuations]]
 [[Critical_Region_Extension]]
 [[DynamicSynchronyMetric]]

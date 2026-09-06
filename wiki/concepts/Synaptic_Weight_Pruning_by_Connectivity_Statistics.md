@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[20W_Brain_Inspired_Planning]]
+[[AI_Application_Scenario_Reconstruction]]
 [[AnomalousSpinTransport]]
 [[AstrocyteInspiredRepair]]
 [[AutonomousAdaptation]]
@@ -37,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[DrivenDissipativeDynamics]]
 [[FrozenRateOperator]]
 [[InNetworkNeuromorphicSimulation]]
+[[InNetworkNeuromorphic]]
 [[Intelligence_Emergence]]
 [[Memristor]]
 [[Memristor_Synapse]]

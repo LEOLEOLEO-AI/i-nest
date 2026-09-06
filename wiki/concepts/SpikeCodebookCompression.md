@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[SNN_NonIdeality_Modeling]]
 [[Spike_Encoding_of_fMRI]]
+[[SpikingArchitecture_Search]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]

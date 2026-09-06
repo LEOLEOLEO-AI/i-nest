@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Endocrine_Modulated_Network_State]]
 [[EventBasedAnalogFrontEnd]]
 [[EventDrivenAttentionMasking]]
+[[EventDrivenAttentionMechanism]]
 [[EventDrivenComputation]]
 [[Event_Driven_Architecture]]
 [[Event_Driven_Computation]]

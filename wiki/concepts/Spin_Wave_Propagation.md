@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Faculty_Forum_2026]]
 [[AnalogDomainCompression]]
+[[Analog_Weight_Storage]]
 [[AnomalousSpinTransport]]
 [[BurstInterleaving]]
 [[Chiplet]]
@@ -34,7 +35,6 @@ Auto-extracted concept from raw material compilation.
 [[Memory_Wall]]
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
-[[Neuromorphic_Interconnect]]
 [[NoC]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[Nonlinear_Gain]]
@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Architecture]]
 [[SDSoW_Strategic_Planning]]
 [[Sparse_Sensor_State_Reconstruction]]
+[[Spatiotemporal_Synergy]]
 [[Spatiotemporal_Synergy_Complexity]]
 [[Sub_Nyquist_Waveform_Reconstruction]]
 [[TCC]]
@@ -55,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[analog computation]]
 [[iNEST]]
 [[iNEST_Interconnect]]
+[[neuromorphic interconnect]]
 [[vLLM_plugin_FLSDI]]
 
 ## Sources

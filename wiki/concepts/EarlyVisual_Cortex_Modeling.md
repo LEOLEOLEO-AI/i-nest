@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[DelayTolerantNetworkUAV]]
 [[DisorderedNetworkInterconnect]]
 [[EnergyEfficiencyAI]]
+[[FLAME_Lab_PhD_Admissions]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

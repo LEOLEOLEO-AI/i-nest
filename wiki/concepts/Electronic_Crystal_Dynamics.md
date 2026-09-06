@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Interconnect_Topology]]
 [[Network_Topology_Design]]
+[[SDI_TopologicalControl]]
 [[Space_Radiation_Hardening]]
 [[TCC]]
 [[TopologyAwarePhotonicInterconnect]]

@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Network_Neuromorphic]]
 [[Master_SDDE]]
 [[Memristive_Interconnect]]
+[[Memristive_STDP]]
 [[Microgrid_Optimization]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

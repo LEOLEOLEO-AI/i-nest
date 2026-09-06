@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[InterChipletPHYModeling]]
 [[Interconnect_Routing]]
+[[NetworkCentralityMetrics]]
 [[Network_Topology_Design]]
 [[NonEquilibriumComputing]]
 [[RecursiveSelfReferentialArchitecture]]

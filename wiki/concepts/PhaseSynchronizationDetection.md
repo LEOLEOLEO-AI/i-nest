@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeFusionLayer]]
 [[Spike_Timing_Dependent_Plasticity]]
 [[SpikingNeuralDynamics]]
+[[SpikingPolicyGradient]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]

@@ -62,6 +62,7 @@ Auto-extracted concept from raw material compilation.
 [[RenormalizationGroup_Scaling]]
 [[SDI_Bond]]
 [[SDI_Interconnect]]
+[[SDI_NPU_NoC_Integration]]
 [[SDI_NoC_Integration]]
 [[SparseTemporalEncoding]]
 [[TCC]]

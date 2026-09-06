@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[Critical_Region_Extension]]
 [[Criticality]]
+[[EventDrivenAsynchronousRouting]]
 [[Flexible_Reliability]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

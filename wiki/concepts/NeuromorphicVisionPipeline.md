@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AIRA_NeuralArchSearch]]
 [[AI_Faculty_Forum_2026]]
 [[Analog_Synaptic_Behavior]]
+[[BiSpikCLM]]
 [[CirculateFiringNeuron]]
 [[Complex_System_Theory]]
 [[Cross_Node_Event_Propagation]]

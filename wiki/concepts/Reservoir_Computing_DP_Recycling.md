@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Baseline_Draft_Status]]
+[[Bosonic_SPT_Phases]]
 [[BoundaryObject_Abstraction]]
 [[Closed_Loop_Neuromodulation]]
 [[CoexistencePhaseDiagram]]

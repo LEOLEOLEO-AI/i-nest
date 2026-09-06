@@ -21,6 +21,8 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3D_TokSIM_Architecture]]
+[[3d]]
+[[AI_Driven_Power_Density_Scaling]]
 [[AI_Faculty_Forum_2026]]
 [[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]

@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[EventBasedMotionDeblurring]]
 [[Event_Based_Tracking_Baseline]]
+[[GeneralizationPhaseBoundary]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

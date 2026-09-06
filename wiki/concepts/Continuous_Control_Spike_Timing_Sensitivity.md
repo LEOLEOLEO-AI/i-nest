@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CorticalWaveRouting]]
 [[DataDrivenCellularAxis]]
 [[EventCameraTemporalEncoding]]
+[[In_Network_Neuromorphic]]
 [[Intelligence_Emergence]]
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]

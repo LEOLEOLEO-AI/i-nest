@@ -20,12 +20,16 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Driven_Architecture_Search]]
+[[Bond_Operation_Algebra]]
 [[Chemical_Bond_Operation_Algebra]]
 [[Defense_Industrial_Base_Reshaping]]
 [[DynamicServiceComposition]]
 [[Dynamic_Communication_Reconfiguration]]
+[[EventDrivenAsync]]
 [[EventDrivenAsynchronousRouting]]
 [[FPGA_NeuromorphicMapping]]
+[[Interconnect_Routing]]
 [[Ising_Machine]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

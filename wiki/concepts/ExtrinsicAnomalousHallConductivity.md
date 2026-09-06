@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[Criticality_Based_Feature_Extraction]]
+[[DelayAwareSpikeEventDelivery]]
 [[DynamicTokenSparsity]]
 [[Edge_Neuromorphic_Compute]]
 [[FlexibleNeuromorphicAccelerator]]

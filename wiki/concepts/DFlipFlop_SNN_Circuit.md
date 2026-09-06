@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[D_FlipFlop]]
 [[D_FlipFlop_Spike_Storage]]
 [[DelayCodedWorkingMemory]]
+[[Event_Driven_Architecture]]
 [[FPGA_Neuromorphic_Prototyping]]
 [[NeuromorphicGraphAnomalyDetection]]
 [[Neuromorphic_Computing]]
@@ -32,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeEncoding]]
 [[Spike_Event_Driven_Attention]]
 [[Spiking neural network]]
+[[Spiking_Event_Flow]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

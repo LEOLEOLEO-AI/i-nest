@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeTemporalDataAssociation]]
 [[SpikeTimeEncoding]]
 [[Spiking_Neural_Network]]
+[[StochasticSpikeEncoding]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]

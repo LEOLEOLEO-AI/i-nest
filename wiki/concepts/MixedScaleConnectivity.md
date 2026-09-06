@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Brain_Connectome]]
 [[ByteDance_Ada_Chip]]
 [[CST_Equation]]
+[[CST_MasterEquation]]
 [[CircadianGateModulation]]
 [[Combinatorial_Optimization_Readout]]
 [[CompetitiveProgramDynamics]]

@@ -29,6 +29,8 @@ Auto-extracted concept from raw material compilation.
 [[Defense_Industrial_Base_Reshaping]]
 [[EfficientDeepLearning]]
 [[EmergentIntelligence_Spacetime]]
+[[Heterogeneous_Inference_Division]]
+[[Intelligence_Emergence]]
 [[Neuromorphic_Computing]]
 [[TCC]]
 [[iNEST]]

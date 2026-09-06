@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AIRA_NeuralArchSearch]]
 [[ArmLocomotorCoordination]]
 [[BigBrainCellularAxis]]
+[[BioInspiredSpikeEncoding]]
 [[BioPlausiblePredictiveCoding]]
 [[BurstGatedRouting]]
 [[CST计量仪]]

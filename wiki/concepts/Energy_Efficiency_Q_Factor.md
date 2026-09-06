@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[4H_SiC_SubstrateProcessing]]
 [[AI_Driven_Architecture_Search]]
 [[AI_Driven_Power_Density_Scaling]]
+[[AdaptiveGraphDiffusion]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]

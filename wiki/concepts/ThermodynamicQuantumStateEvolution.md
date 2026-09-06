@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[PhysicalReservoirInterconnect]]
 [[PhysicalReservoir]]
 [[Pipelined_Processor_Branch_Prediction]]
+[[PlanarNetworkSimulation]]
 [[Reservoir_Computing]]
 [[Self_Organized_Criticality]]
 [[TCC]]

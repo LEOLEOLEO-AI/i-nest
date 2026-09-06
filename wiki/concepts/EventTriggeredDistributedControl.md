@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenWeightUpdate]]
+[[FunctionalInterfaceBlocks]]
 [[HigherOrderConnectivity]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

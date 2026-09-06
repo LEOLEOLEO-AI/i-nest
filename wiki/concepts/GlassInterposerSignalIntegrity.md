@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Yann LeCun：发现智能原理是AI的终极问题]]
 [[互连感知算力]]
 [[向大脑学习智能本质，探索通用 AI 的另一条可行路径]]
+[[忆阻器]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[术语对照表]]
 [[神经形态脉冲大语言模型（NSLLM）]]

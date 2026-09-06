@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
+[[SDDE_SDI_Stack]]
 [[SDI_Bond]]
 [[SDI_TCC_iNEST_Bridge]]
 [[SDI_iNEST_Encapsulation]]

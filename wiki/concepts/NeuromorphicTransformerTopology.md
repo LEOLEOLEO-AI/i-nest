@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuroRing_Topology]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Packaging]]
+[[PropertyPredictionModeling]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

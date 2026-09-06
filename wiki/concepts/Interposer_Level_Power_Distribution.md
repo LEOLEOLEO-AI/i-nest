@@ -58,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Chiplet]]
 [[SDI_Interconnect]]
 [[SDI_Topology]]
+[[SDI_Topology_Interconnect]]
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[TCC]]

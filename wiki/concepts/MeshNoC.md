@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[BondMovingDecimation]]
+[[Bond_Operation_Algebra]]
 [[Chemical_Bond_Operation_Algebra]]
 [[ChipletRoutingFabric]]
 [[Chiplet]]
@@ -29,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Modular_Architecture]]
 [[CongestionAwareNoCPlacement]]
 [[DelayCouplingMatrix]]
+[[Differential_FeatureExtraction]]
 [[EquilibriumTreePacking]]
 [[EvolutionaryTopologySearch]]
 [[FloquetDriving]]

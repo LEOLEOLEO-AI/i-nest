@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[MultiplicativeGain]]
 [[Network_Topology_Design]]
 [[ScaleHierarchy_Decomposition]]
+[[Switch_Bottleneck]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]

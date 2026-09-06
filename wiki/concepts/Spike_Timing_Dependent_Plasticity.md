@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveSpeechToSpikeEncoding]]
 [[Adaptive_EW_Neuromorphic_Controller]]
 [[BrainBodyResonance]]
+[[ClocklessReconfigurableChip]]
 [[Controlled_Release_Kinetics]]
 [[Dynamic_Expert_Fusion]]
 [[ElectronicWarfareNeuromorphic]]

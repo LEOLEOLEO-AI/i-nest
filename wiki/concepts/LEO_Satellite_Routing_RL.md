@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[Topological_Anderson_Insulator]]
 [[TopologyEntropyMapping]]
+[[Universal_Computation_Landscape]]
 [[VehicularMultiHopTopology]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]

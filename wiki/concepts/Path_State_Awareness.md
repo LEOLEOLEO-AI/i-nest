@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[ExactWiringRouting]]
 [[FeatureBonding]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
+[[GrandCanonicalOptimization]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[LLMDrivenPathSelection]]

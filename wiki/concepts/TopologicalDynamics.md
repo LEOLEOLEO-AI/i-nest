@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[PacketRoutingOptimization]]
 [[Plasticity_vs_Computation_Separation]]
 [[QuantumDistillation]]
+[[RedundancyControlledStochasticRouting]]
 [[STDPDrivenConnectivity]]
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]

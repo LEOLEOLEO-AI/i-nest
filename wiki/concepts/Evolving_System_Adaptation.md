@@ -58,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
+[[TemperatureSensitivityControl]]
 [[TopologicalAndersonChernInsulator]]
 [[advanced packaging]]
 [[branch prediction]]

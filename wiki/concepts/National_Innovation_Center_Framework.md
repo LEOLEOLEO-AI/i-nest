@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Multi_Device_Coordination]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
+[[Neuronal_Avalanche_Dynamics]]
 [[NeurovascularUnitEngineering]]
 [[NeurovascularUnit]]
 [[OpenCodex_Upgrade_Path]]

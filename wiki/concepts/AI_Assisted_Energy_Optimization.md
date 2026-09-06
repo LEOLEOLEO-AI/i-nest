@@ -60,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]
 [[RenormalizationGroup_Scaling]]
+[[SneakPathCurrentSuppression]]
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
 [[TCC]]

@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[SelfOrganizedCriticalityConsciousness]]
 [[Self_Organized_Criticality]]
 [[ShortTermMemory]]
+[[SneakPathCurrentSuppression]]
 [[Swarm_Coordination]]
 [[Syncytial_Information_Integration]]
 [[TwoTimescaleNeuroEvolution]]

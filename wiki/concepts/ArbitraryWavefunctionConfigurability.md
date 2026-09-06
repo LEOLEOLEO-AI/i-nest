@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[ImaginaryGaugePhaseImprint]]
 [[Intelligence_Emergence]]
+[[MachineLearningPotential]]
 [[Memristive_STDP]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

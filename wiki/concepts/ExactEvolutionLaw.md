@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[DelayTolerantNetworkUAV]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
+[[ElectricFieldModulatedCoupling]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

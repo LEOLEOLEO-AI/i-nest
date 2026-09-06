@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[PolychronousNeuronalGroups]]
+[[PropertyPredictionModeling]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[STDP_Plasticity]]

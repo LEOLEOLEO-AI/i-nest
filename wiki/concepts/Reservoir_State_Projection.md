@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[PhysicalReservoir]]
 [[ReadoutLayer]]
+[[Readout_Layer_Training]]
 [[ReservoirDiversity]]
 [[ReservoirDynamics]]
 [[Reservoir_Computing]]

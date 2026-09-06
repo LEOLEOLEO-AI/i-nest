@@ -27,6 +27,8 @@ Auto-extracted concept from raw material compilation.
 [[AnisotropicGaussianPrimitives]]
 [[AnytimePointCloudRecognition]]
 [[AsynchronousEventDrivenComputation]]
+[[BurstCoding]]
+[[EventDrivenComputation]]
 [[Neuromorphic_Computing]]
 [[STDP_Plasticity]]
 [[SpikeEncoding]]

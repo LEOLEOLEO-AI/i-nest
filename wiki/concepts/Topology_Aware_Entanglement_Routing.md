@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[HybridCouplingThermosensitiveNetwork]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[Logic_Folding]]
 [[NetworkDiffusionCoupling]]
 [[Network_Topology_Design]]
 [[RadiationHardened_ProcessNodeScaling]]

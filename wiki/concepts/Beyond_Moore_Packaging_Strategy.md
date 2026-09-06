@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[FunctionalInterfaceBlock]]
+[[FunctionalInterfaceBlocks]]
 [[Heterogeneous_Integration]]
 [[IntegratedSensingFusion]]
 [[Intelligence_Emergence]]

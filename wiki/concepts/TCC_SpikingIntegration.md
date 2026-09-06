@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
+[[NeuromorphicTrackingPipeline]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
 [[Passivity_Preserving_Computation]]

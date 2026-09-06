@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Order_Deep_Belief_Networks]]
 [[Free_Energy_Topology_Mapping]]
 [[Intelligence_Emergence]]
+[[MatrixShapePhaseTransition]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]

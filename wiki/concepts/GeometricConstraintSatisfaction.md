@@ -53,6 +53,8 @@ Auto-extracted concept from raw material compilation.
 [[ModelToChipCompilation]]
 [[Multimodal_Network_SDI]]
 [[Network_Topology_Design]]
+[[Obsidian_Plugin_Architecture]]
+[[SDI_Bond]]
 [[TCC]]
 [[chiplet interconnect]]
 [[涌现]]

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[BalancedRouting]]
 [[Baseline_Draft_Status]]
+[[Bipartite_Interconnect]]
 [[BurstGatedRouting]]
 [[CellEmergence]]
 [[Complex_System_Theory]]

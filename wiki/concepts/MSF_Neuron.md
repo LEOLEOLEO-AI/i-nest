@@ -26,9 +26,11 @@ Auto-extracted concept from raw material compilation.
 [[AstrocyteInspiredRepair]]
 [[Attention_Mechanism_in_SNN]]
 [[BurstTemporalPlasticity]]
+[[EventDrivenSynchronization]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 [[temporal coding]]
 

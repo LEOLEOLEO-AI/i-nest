@@ -34,6 +34,8 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
 [[Complex_System_Theory]]
+[[Heterogeneous_Integration]]
+[[Mesoscopic_Scale_Advantage_Formula]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[SDI_Bond]]

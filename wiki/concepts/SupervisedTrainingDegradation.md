@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicRL]]
 [[NeuromorphicRL_Locomotion]]
 [[Neuromorphic_Computing]]
+[[Resilient_Community_Feedback_Loop]]
 [[STDP_Plasticity]]
 [[SpikeEncoding]]
 [[SpikerLL_Accelerator]]

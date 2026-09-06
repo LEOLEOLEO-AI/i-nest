@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
+[[Temporal_Dynamics_Integration]]
 [[analog computation]]
 [[complex system]]
 [[iNEST]]

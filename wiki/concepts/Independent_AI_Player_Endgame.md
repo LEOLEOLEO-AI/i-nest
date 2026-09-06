@@ -58,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[PhotonicStateRetention]]
 [[Selection_Theorems]]
 [[SuperlinearGain]]
+[[TopologicalComplexityCeiling]]
 [[TopologyConditionedLearning]]
 [[Topology_Centric_Packaging]]
 [[complex system]]

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Memory_Infrastructure]]
 [[Active_Inference_Topology]]
 [[AdaptiveGraphDiffusion]]
+[[Adaptive_Intelligence_Principle]]
 [[Butterfly_Network]]
 [[Butterfly_Topology]]
 [[Chiplet]]

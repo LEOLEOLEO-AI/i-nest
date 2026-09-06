@@ -60,6 +60,8 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Encoding_of_fMRI]]
 [[Spiking neural network]]
 [[Spiking_Neural_Network]]
+[[Spiking_neural_network_dynamics]]
+[[Synaptic_Plasticity]]
 [[VisualSemanticDecoding]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]

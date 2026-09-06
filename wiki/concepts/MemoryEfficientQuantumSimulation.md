@@ -42,17 +42,20 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[HarvestProtocol]]
+[[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[PhotonicPackagingEfficiency]]
 [[QuarantineCostTradeoff]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
+[[SneakPathCurrentSuppression]]
 [[SuperparamagneticSwitchingRate]]
 [[Topological_Manifold_Interconnect]]
 [[iNEST]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

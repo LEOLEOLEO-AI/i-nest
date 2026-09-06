@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[EnsembleSparsity]]
+[[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Memristive_STDP]]

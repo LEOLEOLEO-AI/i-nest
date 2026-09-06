@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[CliquePercolation]]
 [[CoexistenceRegime]]
 [[CommunicationTopologyMismatch]]
+[[Communication_Primitive_Completeness]]
 [[Complex_System_Theory]]
 [[ConformalFieldTheoryScaling]]
 [[ContrastiveFeatureAlignment]]

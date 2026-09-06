@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[MoE_Routing]]
 [[Neuromorphic_Computing]]
 [[NonHermitianSpectralCorrelations]]
+[[Personalised_Strategy_Optimisation]]
 [[SNN]]
 [[STDP_Plasticity]]
 [[Self_Organized_Criticality]]

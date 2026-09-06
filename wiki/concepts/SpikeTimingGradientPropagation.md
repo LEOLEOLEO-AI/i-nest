@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstTemporalPlasticity]]
 [[CirculateFiringNeuron]]
 [[Contested_Prior_Resolution]]
+[[Contested_Priors_Mechanism]]
 [[DiscreteSTDP]]
 [[ErrorAmplificationLimits]]
 [[EventCameraPoseInput]]

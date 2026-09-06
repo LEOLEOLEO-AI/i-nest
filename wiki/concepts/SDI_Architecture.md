@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AnisotropicGaussianPrimitives]]
+[[Chiplet_Integration_Route]]
 [[ClocklessReconfigurableChip]]
 [[Contested_Prior_Resolution]]
 [[CorticalWaveRouting]]

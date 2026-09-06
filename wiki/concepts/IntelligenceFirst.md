@@ -22,13 +22,19 @@ Auto-extracted concept from raw material compilation.
 
 [[3DHI_Chiplet_Integration]]
 [[3DHI_Integration]]
+[[3d]]
 [[AI_Faculty_Forum_2026]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[Asymmetric_Interaction_Matrix]]
 [[Attention_Residuals]]
 [[Bias_Origin_Taxonomy]]
 [[BoundaryObject_Abstraction]]
 [[ByteDance_Ada_Chip]]
+[[CST_MasterEquation]]
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration]]
 [[Intelligence_Emergence]]
 
 ## Sources

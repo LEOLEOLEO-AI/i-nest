@@ -29,6 +29,8 @@ Auto-extracted concept from raw material compilation.
 [[ArbitraryWavefunctionConfigurability]]
 [[AutonomousServiceNegotiation]]
 [[CST_Spatiotemporal_Complexity]]
+[[CavityMethodAnalysis]]
+[[Complex_System_Theory]]
 [[Meta_Topology]]
 [[Network_Topology_Design]]
 [[TCC]]

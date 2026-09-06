@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[PropertyPredictionModeling]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
+[[SpikeRatePrecisionTradeoff]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

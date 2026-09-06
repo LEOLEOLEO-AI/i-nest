@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenSensoryEncoding]]
 [[EventDrivenTracking]]
 [[EventDrivenWirelessTransmission]]
+[[EventDriven_Interconnect]]
 [[Event_Driven_Architecture]]
 [[Heterogeneous_Integration]]
 [[InSensorMemoryComputing]]

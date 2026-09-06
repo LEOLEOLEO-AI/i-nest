@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[Avoided_Criticality]]
+[[BigBrainCellularAxis]]
 [[BulletTrainScheduling]]
 [[BurstTemporalPlasticity]]
 [[Chiplet]]

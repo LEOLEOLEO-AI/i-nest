@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[DevelopmentalNeuromorphicAdaptation]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
+[[FixedOverheadCost]]
 [[HodgkinHuxleyDynamics]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]

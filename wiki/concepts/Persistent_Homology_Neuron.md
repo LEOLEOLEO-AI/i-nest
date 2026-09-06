@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[ConductingPolymerDendriteMemory]]
 [[Continuous_Spatiotemporal_State_Propagation]]
+[[CriticalNormBoundary]]
 [[Criticality]]
 [[Criticality_Based_Feature_Extraction]]
 [[EnergyProportionalityCeiling]]

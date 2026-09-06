@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveFrequencyResonateFire]]
 [[AdaptiveSTDP]]
 [[AdaptiveSpeechToSpikeEncoding]]
+[[AnisotropicGaussianPrimitives]]
 [[BrainBodyResonance]]
 [[Contested_Priors_Mechanism]]
 [[Controlled_Release_Kinetics]]

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3DHI_Stacking]]
 [[3D_Vertical_Interconnect]]
 [[3d]]
 [[Chiplet]]
@@ -28,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[HBM_Replacement_Interconnect]]
 [[HeterogeneousInference]]
 [[Heterogeneous_Inference_Offload]]
+[[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC]]

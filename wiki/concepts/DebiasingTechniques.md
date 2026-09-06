@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikingTopologyMapping]]
 [[Spiking_Neural_Network]]
 [[TCC]]
+[[TCC_SpikingIntegration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

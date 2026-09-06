@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossLayer_SignalRouting]]
 [[EventDrivenTemplateUpdate]]
 [[EvolutionaryDiversityPreservation]]
+[[Generation_Readiness_Assessment]]
 [[Interconnect_Routing]]
 [[LowRankPerturbation]]
 [[MembranePotentialAlignment]]

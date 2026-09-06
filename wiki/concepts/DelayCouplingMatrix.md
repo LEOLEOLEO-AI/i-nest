@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[FloquetDriving]]
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
+[[Hebbian_Embedding_Dynamics]]
 [[Heterogeneous_Integration]]
 [[InterChipletPHYModeling]]
 [[Interconnect_Routing]]

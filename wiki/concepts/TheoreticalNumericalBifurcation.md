@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Alpha_Computation_Consistency]]
 [[AndersonTransition]]
 [[AnomalousSpinTransport]]
+[[ApproximationFidelityTradeoff]]
 [[Architectural_Conditioning]]
 [[BackflowTransformation]]
 [[BeyondPTSymmetry]]

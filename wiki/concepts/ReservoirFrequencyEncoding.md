@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[CoupledOscillatorReservoir]]
 [[CriticalFluctuationReservoir]]
 [[Crystallized_Neural_Manifolds]]
+[[Deep_Network_Layer_Stacking]]
 [[DeviceLevelNonlinearityScaling]]
 [[DeviceLevelNonlinearity]]
 [[HybridMemristorArray]]

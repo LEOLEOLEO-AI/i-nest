@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[HigherOrderStochasticProcess]]
 [[HodgkinHuxleyDynamics]]
+[[In_Network_Neuromorphic_State]]
 [[LIF_Neuron_Model]]
 [[Loihi2_OnChip_Learning]]
 [[Loihi]]

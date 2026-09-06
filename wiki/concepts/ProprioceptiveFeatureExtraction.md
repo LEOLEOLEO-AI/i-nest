@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[P_Paradigm]]
+[[Pseudofractal_Web]]
 [[Spatiotemporal_Prior_Encoding]]
 [[TCC]]
 [[TopologicalDataCompression]]

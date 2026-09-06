@@ -43,6 +43,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[DistinctReentrantPhases]]
 [[Epithelial_Barrier_Integrity]]
+[[HeavyTailedWaitingTimes]]
 [[Intelligence_Emergence]]
 [[Memory_Technology_Coexistence]]
 [[NCL神经计算定律详解]]

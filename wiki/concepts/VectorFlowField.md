@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Interconnect_Topology]]
+[[Logic_Folding]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]

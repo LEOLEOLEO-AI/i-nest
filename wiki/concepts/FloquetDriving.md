@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Microsecond_Link_Reconfiguration]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
+[[Network_on_Chip_communication_architecture]]
 [[NoC]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[NoC_Chiplet_iNEST_Wafer]]

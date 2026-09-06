@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]
+[[STDP_iNEST]]
 [[SelfOrganizedOscillatoryLearning]]
 [[SpikeEncoding]]
 [[SpikeTimingGradientPropagation]]

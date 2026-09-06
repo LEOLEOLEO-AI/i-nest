@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3D_Heterogeneous_Integration]]
+[[3d]]
 [[AIRA_NeuralArchSearch]]
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_Driven_Architecture_Search]]
@@ -29,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveEntanglementManagement]]
 [[AdaptiveFunctionalTopology]]
 [[AdaptiveGraphDiffusion]]
+[[Adaptive_Intelligence_Principle]]
 [[AdjointWaveControl]]
 [[AgenticServiceOrchestration]]
 [[Agile_Resilient_Defense_Ecosystem]]
@@ -37,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[CollectiveStateTopology]]
 [[CommunicationAwareComputeRelocation]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
+[[Heterogeneous_Integration]]
 [[InputAdaptiveComputation]]
 [[Interconnect_Routing]]
 [[Katz_Centrality_Allocation]]

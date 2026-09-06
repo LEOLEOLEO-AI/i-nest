@@ -32,6 +32,8 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_NoC_Fabric]]
+[[Chiplet_Stacking]]
+[[Heterogeneous_Integration]]
 [[Interconnect_Topology]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]

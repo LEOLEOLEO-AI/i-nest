@@ -46,6 +46,8 @@ Auto-extracted concept from raw material compilation.
 [[ManufacturingCloudOrchestration]]
 [[MeasurementEfficientDisorderAware]]
 [[MetaTopologyLibraryCompleteness]]
+[[MetaTopology]]
+[[NetworkDiameterMetric]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[SDI_Bond]]

@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[Nonlinear_Gain]]
+[[PropertyPredictionModeling]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDDE_Attractor_Emergence]]
 [[SNN]]

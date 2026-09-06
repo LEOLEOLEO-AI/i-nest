@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveTimeStepTraining]]
 [[Adaptive_Deep_Brain_Stimulation]]
 [[Adaptive_EW_Neuromorphic_Controller]]
+[[AsynchronousEventDrivenComputation]]
 [[Biologically_Plausible_Learning_Rules]]
 [[BrainBodyResonance]]
 [[CascadedAdaptiveCombiners]]

@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[EvolutionaryReservoirLearning]]
 [[GraphEmbeddedReservoir]]
 [[HierarchicalModularReservoirs]]
+[[InNetworkNeuromorphicSimulation]]
 [[In_Context_Learning]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]

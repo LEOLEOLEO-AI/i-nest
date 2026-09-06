@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Topology]]
 [[LargeScalePhotonicIntegration]]
 [[Memristor]]
+[[Memristor_Interconnect]]
 [[Memristor_Synapse]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[Network_Topology_Design]]

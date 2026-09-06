@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[CentralityBasedMitigation]]
 [[ColoredNoiseMaximumEntropy]]
 [[CommunicationHeterogeneity]]
+[[CompactBosonDuality]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

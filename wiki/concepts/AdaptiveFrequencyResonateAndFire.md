@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Cytokine_Feedback_Loops]]
 [[DynamicalCriticality]]
 [[EmulationTheoryObserver]]
+[[EnergyProportionalityCeiling]]
 [[EventDrivenComputation]]
 [[EventDrivenMotionDeblurring]]
 [[Event_Driven_Architecture]]

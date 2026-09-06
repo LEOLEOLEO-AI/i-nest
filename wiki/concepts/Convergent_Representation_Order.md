@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[20W_Brain_Inspired_Planning]]
 [[3D_Heterogeneous_Integration]]
 [[3d]]
+[[AIRA_NeuralArchSearch]]
 [[AI_Driven_Architecture_Search]]
 [[AdiabaticMultimodeBend]]
 [[AgenticServiceOrchestration]]

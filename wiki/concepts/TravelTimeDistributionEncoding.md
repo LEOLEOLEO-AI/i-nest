@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Alpha_Coefficient_Phase_Transition_Amplification]]
 [[Analog_InMemory_Processing]]
 [[AsymmetricStochasticInteractions]]
+[[AttentionMap_DifferenceResidual]]
 [[BCM滑动阈值]]
 [[CST_Synergy_Coordination]]
 [[CST_V42_SelfConsistency]]

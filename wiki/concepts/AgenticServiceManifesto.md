@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Critical_Region_Extension]]
 [[CriticalityInducedTopology]]
 [[Criticality]]
+[[Criticality_Metric_Extraction]]
 [[DelayTolerantNetworkUAV]]
 [[ExactlyFlatTopologicalBands]]
 [[Generative_Graph_Models]]

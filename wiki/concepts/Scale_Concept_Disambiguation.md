@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Brain_Connectome]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Connectome]]
 [[CrossbarArrayVLSI]]

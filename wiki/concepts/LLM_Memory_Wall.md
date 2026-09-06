@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[TCC]]
 [[advanced packaging]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

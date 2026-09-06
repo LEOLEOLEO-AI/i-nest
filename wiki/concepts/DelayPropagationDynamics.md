@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveCombinerWeighting]]
 [[AgenticServiceOrchestration]]
 [[Allreduce_Latency_Probe]]
+[[Ant_Swarm_Functional_Control]]
 [[Architectural_Conditioning]]
 [[CounterstreamSignalPropagation]]
 [[CriticalityDrivenStateTransition]]

@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[InterconnectConstrainedEmergence]]
+[[MemoryDrivenRouting]]
 [[Memristive_Interconnect]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[MetaFAIR_ArchitectureDiscovery]]

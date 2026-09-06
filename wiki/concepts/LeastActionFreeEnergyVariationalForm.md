@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveDendriteSNN]]
 [[AlternativeBridgingModels]]
 [[AnisotropicGaussianPrimitives]]
+[[AnomalousSpinTransport]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[SNN]]

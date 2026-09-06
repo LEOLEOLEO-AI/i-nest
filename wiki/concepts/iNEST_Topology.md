@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]
 [[RenormalizationGroup_Scaling]]
+[[SDI节点接口规范与化合键定义]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[STDP_Plasticity]]

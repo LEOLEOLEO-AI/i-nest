@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[DeepSNNTraining]]
 [[Deep_SNN_Trainability]]
 [[DendriticTaskPartitioning]]
+[[DirectTrainingSNN]]
 [[EventBasedMotionDeblurring]]
 [[FPGA_SNN_Inference]]
 [[In_Network_Neuromorphic]]

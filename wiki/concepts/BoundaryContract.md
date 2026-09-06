@@ -61,6 +61,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologyConditionedLearning]]
 [[Topology_Centric_Packaging]]
 [[UltraCompactOpticalComputing]]
+[[Von_Neumann_Complexity_Threshold_Conjecture]]
 [[complex system]]
 [[iNEST]]
 [[涌现]]

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AndersonTransition]]
 [[AnisotropicGaussianPrimitives]]
 [[Categorical_Closure_Criterion]]
+[[CoPackagedOptics]]
 [[CouplingTopologyInducedDynamics]]
 [[Criticality]]
 [[Criticality_of_Natural_Languages]]

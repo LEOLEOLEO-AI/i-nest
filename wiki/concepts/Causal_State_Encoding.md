@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Banded_NonHermitian_Matrix]]
 [[CST计量仪]]
 [[CausalIntegrationPhi]]
+[[CentralityAsStateVariable]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

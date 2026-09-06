@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[EventBasedBioSignalFrontEnd]]
 [[EventStrengthEncoding]]
 [[Event_Driven_Architecture]]
+[[FunctionalEnsemble]]
 [[Neuromorphic_Computing]]
 [[Spiking neural network]]
 [[Spiking_Neural_Network]]

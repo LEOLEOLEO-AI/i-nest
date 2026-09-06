@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[PacketRoutingOptimization]]
 [[PolymerComposite_Substrate]]
 [[SDI_Bond]]
+[[SDI_STDP_Rule]]
 [[SDI_Stream_Aware_NoC_Routing]]
 [[SNN]]
 [[STDP_Plasticity]]

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[2_5D_Interposer]]
+[[3DHI_Stacking]]
 [[3D_Vertical_Interconnect]]
 [[3d]]
 [[4H_SiC_SubstrateProcessing]]

@@ -1,11 +1,11 @@
 ---
-title: iNEST+TCC Research Brief - 2026-09-04
-date: 2026-09-04
+title: iNEST+TCC Research Brief - 2026-09-06
+date: 2026-09-06
 type: research-brief
 target: genspark
 ---
 
-# iNEST + TCC Research Brief - 2026-09-04
+# iNEST + TCC Research Brief - 2026-09-06
 
 > For Genspark deep analysis. Contains actionable research context.
 
@@ -33,23 +33,23 @@ target: genspark
 
 ## 4. Inbox Highlights
 
-- [2026-09-04] **Cerebras Hot Chips 2026 路线图深度解析：CS-4 架构、3D 堆叠 DRAM 与下一代性能展望** (01_GetNotes)
-- [2026-09-04] **AI算力系列六：从盛科通信48亿定增看交换芯片赛道的双重重构与国产差距** (01_GetNotes)
-- [2026-09-03] **关于NCCL通信** (01_GetNotes)
-- [2026-09-03] **复杂度的计算** (01_GetNotes)
-- [2026-09-03] **2026-09-03_arXiv_A Network Science Perspective on Evaluating Deep Graph Gener** (_pipeline_insights)
-- [2026-09-03] **2026-09-03_arXiv_Predicting Phase Ordering in Chaotic Maps and Coupled Map La** (_pipeline_insights)
-- [2026-09-02] **神经动力学入门：把神经网络看成_活的动态系统_** (01_GetNotes)
-- [2026-09-02] **2026-08-30-2608.27440v1** (03_Genspark)
+- [2026-09-06] **2026-09-06_arXiv_A Reconfigurable Hybrid Convolutional-Fully Connected Neurom** (_pipeline_insights)
+- [2026-09-06] **2026-09-06_arXiv_High-Throughput Computational Discovery of Inverted Resistiv** (_pipeline_insights)
+- [2026-09-06] **微软 Maia 200 深度拆解：SDLA 数据流架构如何重构下一代 AI 加速器** (01_GetNotes)
+- [2026-09-06] **类脑芯片深度解析：向大脑学习的_省电智能_路线** (01_GetNotes)
+- [2026-09-06] **论文第5章 晶上系统拓扑搜索算法框架（待合并入拓扑乘性增益定理）** (01_GetNotes)
+- [2026-09-06] **第二份PPT：井芯微企业版（融资路演·完整正式稿）** (01_GetNotes)
+- [2026-09-06] **科研智能体** (01_GetNotes)
+- [2026-09-06] **混沌边缘的计算新脉搏** (01_GetNotes)
 
 ## 5. Knowledge Graph Hotspots
 
-Total notes: 12395
-Graph nodes: 12379 | edges: 233338
+Total notes: 12518
+Graph nodes: 12477 | edges: 243575
 
 Top connected topics:
-- **backlinks** (degree=7006)
-- **index** (degree=5843)
+- **backlinks** (degree=7073)
+- **index** (degree=5905)
 - **00_iNEST_全景知识图谱** (degree=1182)
 - **神经科学、AGI与神经形态计算的融合：统一研究范式与挑战** (degree=395)
 - **TCC_iNEST_成果全景** (degree=291)
@@ -62,4 +62,4 @@ Top connected topics:
 (Run innovation_engine.py to generate)
 
 ---
-*Research brief auto-generated 2026-09-04 09:05*
+*Research brief auto-generated 2026-09-06 23:33*

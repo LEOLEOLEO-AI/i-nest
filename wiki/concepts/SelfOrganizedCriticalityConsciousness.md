@@ -56,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[Self_Organized_Criticality]]
 [[ShortTermMemory]]
+[[Stigmergic_Neural_Plasticity]]
 [[TwoTimescaleNeuroEvolution]]
 [[Whole_Organism_Behavioral_Assay]]
 [[complex system]]

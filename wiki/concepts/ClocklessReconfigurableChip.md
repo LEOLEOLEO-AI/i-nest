@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[BrainBodyResonance]]
 [[CirculateFiringNeuron]]
+[[ClosedLoopNeuromorphicControl]]
 [[CorticalWaveRouting]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence]]

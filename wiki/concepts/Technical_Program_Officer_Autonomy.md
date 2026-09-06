@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuronal_Avalanche_Dynamics]]
 [[NoiseDrivenBackpropReconstruction]]
+[[OpinionDrivenVaccination]]
 [[Reservoir_Computing]]
 [[SDI_Bond]]
 [[SDI_STDP]]

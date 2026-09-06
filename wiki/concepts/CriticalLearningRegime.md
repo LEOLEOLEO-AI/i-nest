@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicRadarFrontend]]
 [[Neuromorphic_Computing]]
 [[OODA_Loop_Breaking]]
+[[Orientation_Encoding_Latent_Spaces]]
 [[Pods4Rail_Topology]]
 [[SelfOrganization]]
 [[Self_Organized_Criticality]]

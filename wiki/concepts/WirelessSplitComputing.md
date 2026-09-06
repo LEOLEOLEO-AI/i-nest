@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenAttentionMechanism]]
 [[EventDrivenTracking]]
 [[EventDrivenTrajectoryEncoding]]
+[[EventDrivenWirelessTransmission]]
 [[Event_Driven_Architecture]]
 [[Event_Driven_Processing]]
 [[InSensorMemoryComputing]]

@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[EventCameraPoseInput]]
 [[EventDrivenComputation]]
+[[EventDrivenFunctionalConnectivity]]
 [[Event_Driven_Architecture]]
 [[Event_Driven_Computation]]
 [[ImpactFallDetection]]

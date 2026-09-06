@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[BrainInspired_Chip]]
 [[BurstTemporalPlasticity]]
+[[Continuous_Control_Spike_Timing_Sensitivity]]
 [[EEGSpikeEncoding]]
 [[EventCameraPoseInput]]
 [[EventCameraTemporalEncoding]]

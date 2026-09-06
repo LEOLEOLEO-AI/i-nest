@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[EventCameraTemporalEncoding]]
 [[EventDrivenAsync]]
 [[EventDrivenAsynchronousRouting]]
+[[EventDriven_AsyncCircuit]]
 [[FC2_Goal_Representation]]
 [[FPGACongestionHotspotMitigation]]
 [[Free_Energy_Principle]]

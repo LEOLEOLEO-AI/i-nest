@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[DARPA_ProjectManager_Model]]
 [[DrivenDissipativeDynamics]]
+[[Efficient_Coding_Constraint]]
 [[FPGA_Neuromorphic_Architectures]]
 [[HippocampalNeocorticalIntelligence]]
 [[Memristive_Interconnect]]

@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Processing]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[FoveationGuidedTokenSelection]]
+[[In_Network_Neuromorphic_Scheduling]]
 [[In_Package_Neuromorphic_Integration]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

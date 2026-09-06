@@ -10,7 +10,7 @@ auto: true
 
 **Domain**: iNEST
 **First mentioned**: auto-extracted
-**Last updated**: 2026-09-02
+**Last updated**: 2026-09-07
 
 ## Definition
 The theoretical framework underlying In-Network Neuromorphic computing, explaining how network-centric architectures support brain-inspired computation. It provides the conceptual basis for designing scalable neuromorphic systems that operate inside network infrastructures.
@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[ComputationEfficientDeepLearning]]
 [[Cortical_Traveling_Waves]]
 [[DARPA_ProjectManager_Model]]
+[[Deep_Network_Architecture_Invariant]]
 [[EfficientDeepLearning]]
 [[Neuromorphic_Computing]]
 [[Scalable_Neuromorphic_System]]

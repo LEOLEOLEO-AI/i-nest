@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3D_Heterogeneous_Integration]]
+[[3d]]
 [[AI-ML — 全景导航 (Map of Content)]]
 [[AdiabaticMultimodeBend]]
 [[Allreduce_Latency_Probe]]
@@ -42,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[GraphBasedSemanticRouting]]
 [[Heterogeneous_Integration]]
 [[IntegratedSensingFusion]]
+[[IntegrationProspectsForVLSI]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[MaterialGrowthFabricationFocus]]

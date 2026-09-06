@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[EvolvingArchitectureDynamics]]
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
+[[FunctionalRelevanceSelfOrganization]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

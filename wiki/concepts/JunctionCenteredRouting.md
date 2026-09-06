@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologicalInvariancePrinciple]]
 [[Topological_Invariant_Shift]]
+[[Topological_Transition_Detection]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

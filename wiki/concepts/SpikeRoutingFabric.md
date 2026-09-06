@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Continuous_Control_Spike_Timing_Sensitivity]]
 [[CorticalWaveRouting]]
 [[EventCameraTemporalEncoding]]
+[[In_Network_Neuromorphic]]
 [[In_Package_Neuromorphic_Integration]]
 [[Intelligence_Emergence]]
 [[InterFPGA_Spike_Routing]]

@@ -25,6 +25,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 
 ## Related Work
 
+[[3d]]
 [[Brain_Connectome]]
 [[Connectome]]
 [[Connectome_Inspired_Architecture]]

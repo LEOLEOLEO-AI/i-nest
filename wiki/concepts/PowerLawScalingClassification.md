@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Connectome]]
+[[Crystallized_Neural_Manifolds]]
 [[Deep_Thermalisation]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
@@ -60,6 +61,7 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 

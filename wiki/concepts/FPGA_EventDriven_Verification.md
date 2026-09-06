@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Architecture]]
 [[In_Network_Neuromorphic]]
 [[NeuromorphicAttentionScaling]]
+[[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]

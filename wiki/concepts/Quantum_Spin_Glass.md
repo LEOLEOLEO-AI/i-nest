@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[PropertyPredictionModeling]]
+[[Quantum_Critical_Scaling]]
 [[RamanInducedGaugeField]]
 [[RecurrentSpikingTopology]]
 [[ReliabilityOverheadTradeoff]]

@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[ERI_2_0_Framework]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[L2_L3_Reconfigurability]]
 [[NCL神经计算定律详解]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]

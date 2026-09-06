@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3DHI_Stacking]]
 [[3D_IC_Stacking]]
 [[3d]]
 [[4H_SiC_SubstrateProcessing]]
@@ -45,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[ThroughSiliconVia_TSV_ThermalPath]]
 [[Topology_Induced_Robustness]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

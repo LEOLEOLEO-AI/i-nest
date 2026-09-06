@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Advanced_Packaging]]
 [[Advanced_Packaging_Route]]
 [[Advanced_Packaging_for_Space]]
+[[ApproximationFidelityTradeoff]]
 [[BackscatteringImmunity]]
 [[ChannelCountScaling]]
 [[ChipletTopologyAwareness]]
@@ -54,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[OpticallyWritableAtomicVaporMemory]]
 [[TCC]]
 [[TypeSafeHardwareGeneration]]
+[[advanced packaging]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

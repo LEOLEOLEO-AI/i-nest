@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Gut_Brain_Immune_Network]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
+[[Intelligent_Emergence_Computing]]
 [[Interconnect_Routing]]
 [[Interpretable_Electrophysiological_Features]]
 [[Memristor]]

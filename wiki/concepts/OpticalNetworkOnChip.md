@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_NoC_Integration]]
 [[SDI_Topology]]
 [[SparseTemporalEncoding]]
+[[SparsityAwareInterconnect]]
 [[TCC]]
 [[Topology_Encapsulation]]
 

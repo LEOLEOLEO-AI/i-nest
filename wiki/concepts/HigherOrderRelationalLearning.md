@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_MasterEquation]]
 [[CST_Spatiotemporal_Complexity]]
 [[CST计量仪]]
+[[CellularSheaf]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]

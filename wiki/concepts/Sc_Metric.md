@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CoexistenceRegime]]
 [[Complex_System_Theory]]
 [[ConformalFieldTheoryScaling]]
+[[Dynamic_Neuron_Activation_Prediction]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]

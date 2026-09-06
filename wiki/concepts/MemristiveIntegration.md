@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[CMOS_Memristor_Devices]]
 [[Heterogeneous_Integration]]
 [[In_Memory_Computing]]
+[[KeyMaterialStrategy]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Mesoscale_Heterogeneous_Integration]]

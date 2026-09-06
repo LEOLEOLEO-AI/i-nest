@@ -33,8 +33,10 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[SDI_Bond]]
 [[SDI_Chiplet]]
+[[SDI_NPU_NoC_Integration]]
 [[TCC]]
 [[WaferScale_Chiplet_Interconnect]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

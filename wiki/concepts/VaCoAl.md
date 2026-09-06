@@ -58,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[SOC]]
 [[SelectorFreeHopfieldNetwork]]
+[[SensoryInMemoryComputing]]
 [[Spiking_Neural_Network]]
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]

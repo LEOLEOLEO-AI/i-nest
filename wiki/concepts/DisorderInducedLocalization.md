@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[BoseCondensateNeuralAnalogy]]
 [[BosonicFieldTopology]]
 [[CST计量仪]]
+[[ComplexSystem_Definition]]
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[DAGGER_Algorithm]]

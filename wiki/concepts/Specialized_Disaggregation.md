@@ -21,12 +21,15 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3DIntegratedPhotonicPackaging]]
+[[3d]]
 [[ASIC_Dualism]]
 [[Active_Inference_Topology]]
 [[Analog_InMemory_Processing]]
 [[ArbitraryWavefunctionConfigurability]]
+[[AutonomousServiceNegotiation]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[iNEST]]

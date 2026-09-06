@@ -939,6 +939,32 @@
         "source_path": "00_Inbox\\_pipeline_insights\\2026-09-03_arXiv_Predicting Phase Ordering in Chaotic Maps and Coupled Map La.md"
       },
       "cached_at": "2026-09-03T06:46:11"
+    },
+    "9e18b15fc12ca83ba6568f9d91c3714ed5e763d8a58cf21b16ac10956adbc4cb": {
+      "analysis": {
+        "id": 1,
+        "title_zh": "A Reconfigurable Hybrid Convolutional-Fully Connected Neuromorphic Core for Biom",
+        "tcc_value": "",
+        "inest_value": "关键词匹配,需深入阅读",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 5,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-09-06_arXiv_A Reconfigurable Hybrid Convolutional-Fully Connected Neurom.md"
+      },
+      "cached_at": "2026-09-06T23:35:04"
+    },
+    "545d775774286f2cc216c8115774be6b2a84870d660e704ee355de65042a82fc": {
+      "analysis": {
+        "id": 2,
+        "title_zh": "High-Throughput Computational Discovery of Inverted Resistive Switching in Two-D",
+        "tcc_value": "",
+        "inest_value": "关键词匹配,需深入阅读",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 5,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-09-06_arXiv_High-Throughput Computational Discovery of Inverted Resistiv.md"
+      },
+      "cached_at": "2026-09-06T23:35:04"
     }
   }
 }

@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[InfluencePropagationLoop]]
 [[Intelligence_Emergence]]
 [[IntrinsicTimingSTDP]]
+[[LatencyCoding]]
 [[Layered_Attractive_Hubbard_Model]]
 [[MeasurementInducedNonlinearity]]
 [[Memristive_STDP]]

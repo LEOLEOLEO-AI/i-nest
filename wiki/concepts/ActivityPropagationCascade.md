@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[InterconnectionStrengthEncoding]]
 [[Local_Approximation_Dynamics]]
+[[LossSpikePhenomenon]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[PhotonicNeuralAccelerator]]

@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[RadiationHardened_ProcessNodeScaling]]
 [[ReEntrantMultifractalization]]
 [[TCC]]
+[[TopologyAwarePhotonicInterconnect]]
 [[TopologyEmbeddedSelfModel]]
 [[chiplet interconnect]]
 [[涌现]]

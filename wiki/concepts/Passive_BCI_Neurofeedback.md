@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicTopologyMapping]]
 [[DynamicTopology]]
 [[Dynamic_Expert_Fusion]]
+[[ElasticSpikingTransformer]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[FPGABasedNeuromorphic]]

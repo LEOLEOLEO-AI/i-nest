@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor]]
 [[Memristor_Network]]
 [[Memristor_Synapse]]
+[[NegotiationAwareRouting]]
 [[NeuromorphicRoutingOptimization]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]

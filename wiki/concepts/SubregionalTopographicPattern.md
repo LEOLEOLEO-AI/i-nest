@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[4H_SiC_SubstrateProcessing]]
 [[AI_Driven_Power_Density_Scaling]]
 [[AI_Faculty_Forum_2026]]
+[[BoundaryContract]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]

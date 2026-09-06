@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[EnergyEfficiencyAI]]
 [[EquilibriumSolution]]
 [[EventDrivenRiskAssessment]]
+[[GraphDelayPropagation]]
 [[HubbardModelVariationalAnsatz]]
 [[Intelligence_Emergence]]
 [[Material_Circularity]]

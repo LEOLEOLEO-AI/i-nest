@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3DHI_Chiplet_Integration]]
+[[3D_Heterogeneous_Integration]]
 [[3d]]
 [[AI_Faculty_Forum_2026]]
 [[Advanced_Packaging]]
@@ -51,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Package_Optical_Interconnect]]
 [[Intelligence_Emergence]]
 [[Intelligent_Power_Management]]
+[[Interconnect_Routing]]
 [[Long_Range_Interactions]]
 [[MemoryDrivenRouting]]
 [[Memristive_CAM_Indexing]]
@@ -62,6 +64,7 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SiC_GaN_Power_Integration]]
+[[Spatiotemporal_Synergy]]
 [[State_Transition_Formalism]]
 [[advanced packaging]]
 

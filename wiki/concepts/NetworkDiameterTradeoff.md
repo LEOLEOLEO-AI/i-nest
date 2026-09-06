@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[PhononicBandgapEngineering]]
 [[RISBeamSpatialSignature]]
 [[SDI_Bond]]
+[[SDI_TopologicalControl]]
 [[STDP_Plasticity]]
 [[Space_Radiation_Hardening]]
 [[SymmetricQuantumCircuit]]

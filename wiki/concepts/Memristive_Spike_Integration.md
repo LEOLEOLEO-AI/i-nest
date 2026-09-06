@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Network_Neuromorphic_Offload]]
 [[LIF_Neuron_Model]]
 [[Memristive_InMemory_Computing]]
+[[Memristive_Interconnect]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Nature_Electronics_Neuromorphic_Validation]]

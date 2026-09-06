@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[OptimalGeneralisationNearInterpolation]]
 [[RecurrentOscillatoryComputation]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SelfOrganizedOscillatoryLearning]]
 [[SpikeDrivenInference]]
 [[SpikingNeuralNetworkTopologyMapping]]
 [[SpikingNeuralNetworkTopology]]

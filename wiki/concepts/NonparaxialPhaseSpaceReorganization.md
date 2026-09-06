@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[BehavioralEpidemicFeedbackLoop]]
 [[Biological_Circuit_Formalization]]
 [[Biological_Neural_Circuit_Formalization]]
+[[Biomimetic_Ion_Dynamics]]
 [[BoseCondensateNeuralAnalogy]]
 [[Complex_System_Theory]]
 [[Network_Topology_Design]]

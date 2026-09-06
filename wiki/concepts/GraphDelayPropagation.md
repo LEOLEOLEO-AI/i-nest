@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[DimensionalityReductionPrinciple]]
 [[DisorderedNetworkInterconnect]]
 [[DistributedEventConditionDesign]]
+[[EnergyEfficiencyAI]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[OpenLearningEcosystem]]

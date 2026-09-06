@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[EventStrengthEncoding]]
 [[Event_Driven_Architecture]]
 [[Event_Driven_Orbital_Object_Pipeline]]
+[[FixedOverheadCost]]
 [[In_Network_Neuromorphic]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]

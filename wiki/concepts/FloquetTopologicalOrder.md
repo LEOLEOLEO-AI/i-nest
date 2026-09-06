@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AIRA_NeuralArchSearch]]
 [[AdaptiveGraphDiffusion]]
 [[Adaptive_Intelligence_Principle]]
+[[Adaptive_Service_Orchestration]]
 [[AndersonTransition]]
 [[AnomalousSpinTransport]]
 [[BackpropagationFreeLearning]]

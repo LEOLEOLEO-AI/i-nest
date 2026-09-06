@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[FlagOS_2_0]]
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
+[[GeTeBasedCBRAM]]
 [[Heterogeneous_Integration]]
 [[HigherOrderSynchronization]]
 [[Intelligence_Emergence]]

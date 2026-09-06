@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Assisted_Energy_Optimization]]
 [[AI_Faculty_Forum_2026]]
 [[AnomalousSpinTransport]]
+[[BigBrainCellularAxis]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]

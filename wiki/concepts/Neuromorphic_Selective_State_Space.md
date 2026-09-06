@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenPlasticity]]
 [[Event_Driven_Architecture]]
+[[FixedOverheadCost]]
 [[FixedOverheadPenalty]]
 [[GeometricNeuromorphicFusion]]
 [[GradientBasedLearningLocalization]]
@@ -50,7 +51,6 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
-[[Neuromorphic_Interconnect]]
 [[NoiseModulated_SynapticPlasticity]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Spike_Encoding_of_fMRI]]
@@ -65,6 +65,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
+[[neuromorphic interconnect]]
 [[神经网络]]
 [[类脑芯片]]
 

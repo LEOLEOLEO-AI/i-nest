@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[BioPlausiblePredictiveCoding]]
 [[CriticalityDrivenStateTransition]]
 [[Criticality]]
+[[EnsembleCreditAssignment]]
 [[EpidemicThreshold]]
 [[FlexibilityThreshold]]
 [[FlexibleManifoldReconfiguration]]

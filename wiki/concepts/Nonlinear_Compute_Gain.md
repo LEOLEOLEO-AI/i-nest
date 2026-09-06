@@ -30,6 +30,8 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_Wafer_Topology]]
 [[ComputationEfficientDeepLearning]]
+[[Deep_Network_Architecture_Invariant]]
+[[EfficientDeepLearning]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

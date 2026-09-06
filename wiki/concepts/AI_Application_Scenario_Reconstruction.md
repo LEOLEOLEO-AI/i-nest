@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Complex_System_Theory]]
+[[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Core_Spacetime_Tensor]]
 [[DRBE_MVP_Mainchain]]
 [[DataProvenanceIntegrity]]
@@ -40,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Intelligent_Computing_Infrastructure]]
 [[Memory_Wall]]
 [[Memristor]]
@@ -67,6 +69,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Strategic_Planning]]
 [[Spacetime_Coupling_Coefficient]]
 [[SpatiotemporalComplexityIndex]]
+[[Spatiotemporal_Synergy]]
 [[Spatiotemporal_Synergy_Complexity]]
 [[SuperlinearGain]]
 [[SuperparamagneticSwitchingRate]]
@@ -85,6 +88,7 @@ Auto-extracted concept from raw material compilation.
 [[chiplet interconnect]]
 [[residual connection]]
 [[vLLM_plugin_FLSDI]]
+[[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources

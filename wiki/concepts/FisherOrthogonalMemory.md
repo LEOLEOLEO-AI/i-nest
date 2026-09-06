@@ -62,11 +62,14 @@ Auto-extracted concept from raw material compilation.
 [[SwarmGradientRouting]]
 [[TCC]]
 [[TemporalInformationStorage]]
+[[Wafer_Scale_Integration]]
+[[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
 [[complex system]]
 [[emerging CMOS memristor]]
 [[iNEST]]
 [[quantum reservoir computing]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

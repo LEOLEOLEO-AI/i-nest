@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[MatrixShapePhaseTransition]]
 [[MetaHardwareAbstraction]]
 [[ModularNeuromorphicReconfiguration]]
+[[NCL神经计算定律详解]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[TCC]]

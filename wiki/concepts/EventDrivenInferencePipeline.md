@@ -57,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeAttentionMechanism]]
 [[SpikeAttention]]
 [[SpikeAwareAlignmentDistillation]]
+[[SpikeEncoding]]
 [[SpikeTemporalDataAssociation]]
 [[SpikeTimeEncoding]]
 [[Spike_Encoding_of_fMRI]]
@@ -64,6 +65,7 @@ Auto-extracted concept from raw material compilation.
 [[StochasticSpikeEncoding]]
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
+[[TemporalCodingOptimization]]
 [[iNEST]]
 [[神经网络]]
 

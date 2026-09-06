@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
+[[Entropy_Connectivity_Path]]
 [[Fixed_Cost_Dominance]]
 [[HippocampalNeocorticalIntelligence]]
 [[HodgkinHuxleyDynamics]]

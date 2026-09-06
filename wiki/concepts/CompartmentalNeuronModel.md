@@ -58,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[NonHermitianTopologicalAndersonInsulator]]
 [[Nonlinear_Gain]]
 [[PromptBasedTimeSeriesForecasting]]
+[[PropertyPredictionModeling]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDDE_Attractor_Emergence]]
 [[SNN]]

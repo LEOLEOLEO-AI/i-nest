@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[IncidenceBasedRandomWalk]]
 [[Intelligence_Emergence]]
+[[InterconnectConstrainedEmergence]]
 [[Interconnect_Topology]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

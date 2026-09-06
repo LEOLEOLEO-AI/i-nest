@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[Random_Parameter_Substitution]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
+[[SelfOrganizedCriticalityConsciousness]]
 [[Self_Organized_Criticality]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]

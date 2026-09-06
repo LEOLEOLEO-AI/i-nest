@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Topology]]
 [[CoPackagedOptics]]
 [[Collective_Offloading]]
+[[CommunicationOverlapMechanism]]
 [[Complex_System_Theory]]
 [[DataMovementMinimization]]
 [[Heterogeneous_Integration]]

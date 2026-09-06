@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[CST计量仪]]
 [[ClassicalQuantum_Query_Benchmark]]
 [[Complex_System_Theory]]
+[[Consumer_GPU_Inference]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]

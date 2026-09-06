@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[ArbitraryWavefunctionConfigurability]]
 [[Blanket_Clock_Tree]]
 [[CavityMethodAnalysis]]
+[[Chiplet_NoC_Fabric]]
 [[DBF_Processor]]
 [[Network_Topology_Design]]
 [[Synaptic_Plasticity]]

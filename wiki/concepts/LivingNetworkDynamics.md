@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Hyper_Dimensional_Computing]]
 [[Intelligence_Emergence]]
 [[Intelligent_Emergence_Computing]]
+[[Loihi2_OnChip_Learning]]
 [[Memristive_Topology]]
 [[Memristor]]
 [[Memristor_Synapse]]

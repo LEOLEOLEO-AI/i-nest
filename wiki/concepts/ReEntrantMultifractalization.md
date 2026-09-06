@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN动力学]]
 [[AdiabaticMultimodeBend]]
 [[AdjointWaveControl]]
+[[Analog_InMemory_Processing]]
 [[BifurcationCandidate]]
 [[CavityMethodAnalysis]]
 [[Chiplet]]

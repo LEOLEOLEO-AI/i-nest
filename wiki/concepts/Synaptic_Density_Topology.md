@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Enabled_Battlefield_Autonomy]]
 [[AI_Forum_Demo_Narrative]]
 [[AdaptiveGraphDiffusion]]
+[[Adaptive_Intelligence_Principle]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Interconnect_Topology]]

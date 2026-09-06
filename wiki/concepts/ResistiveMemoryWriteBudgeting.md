@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[OcclusionHandlingStrategy]]
 [[OpportunisticRoutingRL]]
 [[OpportunisticRouting]]
+[[PropertyPredictionModeling]]
 [[RecurrentSpikingDynamics]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SelectorFreeHopfieldNetwork]]

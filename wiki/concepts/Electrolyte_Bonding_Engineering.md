@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Emerging_CMOS_Memristor_Devices]]
 [[End_Side_Neuromorphic_Deployment]]
 [[EnergyResourceEfficiencyCoOptimization]]
+[[EventDrivenAttentionMechanism]]
 [[FCDC_Architecture]]
 [[FeFET_Polarization_Switching]]
 [[FerroelectricMemoryCell]]

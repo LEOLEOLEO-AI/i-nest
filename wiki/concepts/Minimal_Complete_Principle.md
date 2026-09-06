@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[HybridResistiveMemoryCIM]]
 [[Interconnect_Routing]]
 [[IntraWafer_Fabric]]
+[[Long_Range_Interactions]]
 [[MemoryDrivenRouting]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

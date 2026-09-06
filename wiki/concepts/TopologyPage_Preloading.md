@@ -58,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[Space_Radiation_Hardening]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[TopologyGradientSignal]]
 [[Topology_Aware_NoC_Routing]]
 [[Topology_Page]]
 [[VectorFlowField]]

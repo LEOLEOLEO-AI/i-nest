@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[IMPLYMemristiveISA]]
 [[KV_Cache_To_BoundaryObject]]
+[[MicroRouter_Embedding]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC]]

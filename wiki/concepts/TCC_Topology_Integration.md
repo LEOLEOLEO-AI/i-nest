@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[OscillatoryNeuralNetworkTopology]]
 [[P_Paradigm]]
 [[Processing_in_Array]]
+[[RandomisedMixedLabyrinthFractals]]
 [[TCC]]
 [[TCC_Topology]]
 [[TopologicalAndersonChernInsulator]]

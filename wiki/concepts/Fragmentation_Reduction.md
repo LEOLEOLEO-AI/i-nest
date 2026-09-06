@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[EntropyRegularizedSpikeLoss]]
 [[FirstPrinciples_Derivation]]
 [[FirstSpikeTime]]
+[[FixedOverheadCost]]
 [[GroupCoding]]
 [[HippocampalNeocorticalIntelligence]]
 [[Hypergraph_Label_Noise]]

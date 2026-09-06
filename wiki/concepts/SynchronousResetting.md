@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[ResonateAndFireEncoding]]
 [[STDP_MemristiveLearning]]
 [[STDP_Plasticity]]
+[[SpikeAwareAlignmentDistillation]]
 [[SpikeTimingDependentPlasticityForTracking]]
 [[SpikeTimingDependentPlasticity]]
 [[Spike_Timing_Dependent_Coordination]]

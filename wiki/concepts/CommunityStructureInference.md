@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_Spatiotemporal_Complexity_Theorem]]
 [[Causal_Emergence]]
 [[CellularSheaf]]
+[[ChipletTrafficAwareScheduling]]
 [[Chiplet]]
 [[Chiplet_Based_Trusted_Hardware]]
 [[Chiplet_Heterogeneous_Integration]]

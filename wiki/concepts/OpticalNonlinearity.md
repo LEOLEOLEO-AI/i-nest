@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[GroupInteractionThreshold]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
+[[LatencyCoding]]
 [[MagneticMetamaterialReservoir]]
 [[MeasurementInducedNonlinearity]]
 [[Memristive_STDP]]

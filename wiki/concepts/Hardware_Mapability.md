@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[2_5D_Interposer]]
+[[3DHI_Stacking]]
 [[3D_IC_Stacking]]
 [[3D_Integrated_Chiplet_Stacking]]
 [[3D_Integration]]
@@ -33,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[ConvexNonConvexTradeoff]]
 [[CrossDomainRoleEquivalence]]
 [[Decoupled_Priors]]
+[[Heterogeneous_Integration]]
 [[Inference_Stage_Decomposition]]
 [[IrregularNeuralReduction]]
 [[Network_Topology_Design]]

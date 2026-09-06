@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Reconfigurable_Interconnect]]
 [[Synaptic_Plasticity]]
+[[WS_Rewiring_VariationalExploration]]
 [[iNEST]]
 
 ## Sources

@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[ConverterDrivenStability]]
 [[Criticality]]
 [[EEG_Criticality]]
+[[EventBasedMotionDeblurring]]
 [[FormalLinguisticCompetence]]
 [[HierarchicalBayesianCommunityDetection]]
 [[LocalLearning_SynapticUpdate]]

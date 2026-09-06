@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicEdgeProcessing]]
 [[NeuromorphicGraphAnomalyDetection]]
+[[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[Neuromorphic_Spiking_Integration]]

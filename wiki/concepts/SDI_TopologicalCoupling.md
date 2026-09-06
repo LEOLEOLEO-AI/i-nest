@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AI-ML — 全景导航 (Map of Content)]]
 [[AI_Supply_Chain_Increment]]
 [[AI人工智能 卷积神经网络（CNN）_w3cschool]]
+[[ANN动力学]]
 [[CognitiveSupportTopology]]
 [[CollectiveConsensus]]
 [[Complex_System_Theory]]
@@ -41,7 +42,6 @@ Auto-extracted concept from raw material compilation.
 [[LocalStructuralPlasticity]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
-[[Neuromorphic_Interconnect]]
 [[SDI_Bond]]
 [[SDI_iNEST_Integration]]
 [[STDP_Plasticity]]
@@ -51,8 +51,10 @@ Auto-extracted concept from raw material compilation.
 [[analog computation]]
 [[iNEST]]
 [[iNEST_Integration]]
+[[neuromorphic interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

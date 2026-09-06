@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Driven_Architecture_Search]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BioPlausiblePredictiveCoding]]
+[[BrainInspiredArchitecture]]
 [[BurstGatedRouting]]
 [[ConductingPolymerDendriteMemory]]
 [[ContinualLearningOnNeuromorphic]]

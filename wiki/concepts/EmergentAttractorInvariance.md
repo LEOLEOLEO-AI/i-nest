@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[DendriticReservoirState]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[MachineLearningPotential]]
 [[Network_Topology_Design]]
 [[RandomStateEnsemble]]
 [[Reservoir_Computing]]

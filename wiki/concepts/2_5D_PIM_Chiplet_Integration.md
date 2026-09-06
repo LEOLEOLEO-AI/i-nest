@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossbarArrayPrecision]]
 [[Emerging_CMOS_Memristor_Devices]]
 [[FerroelectricMemoryCell]]
+[[FerroelectricTunnelingJunction]]
 [[Ferroelectric_ComputeInMemory]]
 [[Ferroelectric_Devices]]
 [[Heterogeneous_Integration]]

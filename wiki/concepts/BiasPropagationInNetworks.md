@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CollectiveDynamics]]
 [[Collective_State_Convergence]]
 [[Complex_System_Theory]]
+[[Complexity_Emergent_Intelligence]]
 [[Constructed_Reality_Interconnect]]
 [[ContextualReasoning]]
 [[CooperativeEmergence]]

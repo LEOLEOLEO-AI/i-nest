@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[CouplingMatrixRecovery]]
+[[CouplingTopologyMemoryLink]]
 [[Coupling_Strength_Encoding]]
 [[Course_Based_FPGA_Projects]]
 [[Crystallized_Neural_Manifolds]]

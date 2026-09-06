@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Compact_Sequence_Encoding]]
 [[DecliningModularity]]
 [[DiffAttention_SubtractiveMechanism]]
+[[Discrete_Event_Spike_Simulation]]
 [[Neuromorphic_Computing]]
 [[advanced packaging]]
 [[iNEST]]

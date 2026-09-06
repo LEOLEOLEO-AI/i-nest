@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[NonreciprocalQuasiperiodicLattice]]
 [[OpenLearningEcosystem]]
 [[Port_Hamiltonian_System]]
 [[RecursiveSelfReferentialArchitecture]]

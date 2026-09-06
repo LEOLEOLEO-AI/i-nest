@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[ArtificialLifeTopologyEvolution]]
 [[Asymmetric_Interaction_Graph]]
 [[Complex_System_Theory]]
+[[Critical_Exponent_Extraction_Method]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]

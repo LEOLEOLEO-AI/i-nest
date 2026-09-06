@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Synaptic_Motifs]]
 [[HierarchicalSpatiotemporalProcessing]]
 [[Intelligence_Emergence]]
+[[KernelRegimeScaling]]
 [[Network_Topology_Design]]
 [[TCC]]
 

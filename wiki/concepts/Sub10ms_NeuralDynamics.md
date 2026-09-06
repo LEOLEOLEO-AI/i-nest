@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[ActionPrototypeClustering]]
 [[AddressRedundancyElimination]]
 [[AllOpticalHebbianLearning]]
+[[AnalogDomainCompression]]
 [[Avoided_Criticality]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[BulletTrainScheduling]]

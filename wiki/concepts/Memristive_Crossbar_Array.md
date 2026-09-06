@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3D_Heterogeneous_Integration]]
+[[3d]]
 [[AdaptiveBitPrecisionExploration]]
 [[AdaptiveGraphDiffusion]]
 [[Adaptive_Intelligence_Principle]]
@@ -28,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_InMemory_Processing]]
 [[Architectural_Conditioning]]
 [[CoPackagedOptics]]
+[[Compute_In_Memory_Neuromorphic]]
 [[ConsciousIntegration]]
 [[CrossDomain_Integration]]
 [[Emergent_Intelligence]]
@@ -38,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Ferroelectric_ComputeInMemory]]
 [[Ferroelectric_Devices]]
 [[FisherInformationMetric]]
+[[Heterogeneous_Integration]]
 [[HybridResistiveMemoryCIM]]
 [[IMPLYMemristiveISA]]
 [[In_Memory_Computing]]
@@ -46,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Long_Range_Interactions]]
 [[Memristive_CAM_Indexing]]
+[[Memristive_Crossbar]]
 [[NestedRepresentation]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

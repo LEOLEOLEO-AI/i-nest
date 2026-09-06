@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Criticality]]
 [[DataDrivenCellularAxis]]
+[[DevelopmentalBrainTrajectory]]
 [[Distributed_Spike_Communication]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]

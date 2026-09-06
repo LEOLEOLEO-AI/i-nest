@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[PacketRoutingOptimization]]
 [[Spiking_Neural_Network]]
 [[TCC]]
+[[TSVEncapsulationStress]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]

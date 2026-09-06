@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Learning]]
 [[STDP_Plasticity]]
 [[SpikeRoutingFabric]]
+[[SpikeTimingPreservation]]
 [[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

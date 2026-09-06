@@ -59,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[NonEquilibriumComputing]]
 [[RadiationHardened_ProcessNodeScaling]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SiliconPhotonicsNetwork]]
 [[SuperparamagneticSwitchingRate]]
 [[Swarm_Coordination]]
 [[TCC]]

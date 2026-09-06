@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Package_Neuromorphic_Integration]]
 [[MembranePotentialAlignment]]
 [[Network_Topology_Design]]
+[[NeuralVariabilityEnhancement]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]

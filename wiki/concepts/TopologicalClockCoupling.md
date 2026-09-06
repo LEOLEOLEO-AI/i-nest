@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[AdversarialMedicalRobustness]]
 [[ArbitraryWavefunctionConfigurability]]
 [[Architectural_Conditioning]]
+[[BCM滑动阈值]]
 [[Bioavailability_Enhancement]]
 [[CST_Coordinated_Spatiotemporal_Complexity]]
 [[CST_SynergisticCoordination]]

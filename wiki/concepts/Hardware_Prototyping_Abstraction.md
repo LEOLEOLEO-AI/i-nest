@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[EarlyVisual_Alignment]]
 [[ExplosiveCooperationTransition]]
 [[Intelligence_Emergence]]
+[[MicroTransferPrinting]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[TCC]]

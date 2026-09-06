@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Reconfigurability]]
 [[Free_Energy_Topology_Mapping]]
 [[GenerativeTopologyModels]]
+[[GrandCanonicalOptimization]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[MatrixShapePhaseTransition]]

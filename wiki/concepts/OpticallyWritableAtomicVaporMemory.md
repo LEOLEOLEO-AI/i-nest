@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Interface_Standard]]
 [[STDP_Plasticity]]
 [[SelfOrganization]]
+[[SparseTemporalEncoding]]
 [[Switchless_Dragonfly_Topology]]
 [[Synaptic_Plasticity]]
 [[TCC]]

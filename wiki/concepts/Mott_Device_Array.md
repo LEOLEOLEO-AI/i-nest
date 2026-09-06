@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Neural_Network_Quantum_State_Transfer_Learning]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
+[[OpticalNonlinearity]]
 [[Reservoir_Computing]]
 [[SDDE_Attractor_Emergence]]
 [[STDP_Plasticity]]

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Combinatorial_Optimization_Readout]]
 [[Connectome]]
 [[Connectome_Driven_Architecture]]
+[[Independent_EdgeAI_Player_Endgame]]
 [[Input_Intensity_Gradient]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

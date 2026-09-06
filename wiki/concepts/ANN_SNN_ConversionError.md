@@ -43,9 +43,11 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[SpectralSupportAnalysis]]
 [[SpikeTimingDependentUpdate]]
+[[Spike_Timing_Dependent_Plasticity]]
 [[Spike_timing_dependent_plasticity_learning_rule]]
 [[Spiking neural network]]
 [[Spiking_Neural_Network]]
+[[Spiking_neural_network_dynamics]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
 

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Anomaly_Induced_Quantum_Criticality]]
 [[BioInspired_Interception_Control]]
 [[BurstGatedRouting]]
+[[BurstSuppressionMechanism]]
 [[Cognitive_Relapse_Decoupling]]
 [[Continual_Learning_Modularity]]
 [[ContinuousControlConversion]]

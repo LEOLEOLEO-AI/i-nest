@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenDefenseMechanism]]
 [[EventDrivenMatrixUpdate]]
 [[Event_Driven_Architecture]]
+[[FPGA_EventDriven_Verification]]
 [[In_Network_Neuromorphic]]
 [[NeuromorphicAttentionScaling]]
 [[NeuromorphicTransformerPipeline]]

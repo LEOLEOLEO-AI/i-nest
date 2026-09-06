@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[DiffusionInducedInstability]]
 [[Dimensionality_Modularity_Tradeoff]]
 [[DrivenCriticalityDynamics]]
+[[Driven_Criticality]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[InNetworkComputing]]

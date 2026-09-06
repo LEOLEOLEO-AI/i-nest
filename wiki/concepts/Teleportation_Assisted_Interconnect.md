@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Field_Compression_for_InNetwork_Inference]]
 [[FixedOverheadCost]]
 [[FixedOverheadPenalty]]
+[[HippocampalNeocorticalIntelligence]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[IonotropicPhotoresponse]]

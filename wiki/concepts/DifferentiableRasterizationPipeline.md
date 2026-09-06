@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[EnergyEfficiencyAI]]
 [[Evaluation_Metric_Suite]]
 [[GenerationalAITransition]]
+[[GraphDelayPropagation]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]

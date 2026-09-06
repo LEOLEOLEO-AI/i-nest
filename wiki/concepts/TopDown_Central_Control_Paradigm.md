@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3D_Heterogeneous_Integration]]
 [[AI_Faculty_Forum_2026]]
 [[Adaptive_Deep_Brain_Stimulation]]
 [[AnytimePointCloudRecognition]]

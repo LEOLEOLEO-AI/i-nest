@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[EventCameraActionRecognition]]
+[[ExponentialDenseAssociativeMemory]]
 [[Field_Compression_for_InNetwork_Inference]]
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]

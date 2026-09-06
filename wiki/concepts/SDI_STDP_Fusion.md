@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Environmental_Capability_Context]]
 [[EventCameraTemporalEncoding]]
 [[Interconnect_Routing]]
+[[Loihi2_SpikeEncoding]]
 [[Memristive_STDP]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

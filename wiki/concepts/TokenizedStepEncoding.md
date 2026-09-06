@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[CombinedImportanceScoring]]
 [[CompartmentalizedSpikeIntegration]]
+[[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[DeeplySupervisedSpiking]]
 [[Delay_Aware_Autograd_Spiking_Framework]]
 [[Distributed_Spike_Communication]]

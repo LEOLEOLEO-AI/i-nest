@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Stacking]]
 [[CoPackagedOptics]]
 [[Collective_Offloading]]
+[[CommunicationOverlapMechanism]]
 [[Complex_System_Theory]]
 [[DataMovementMinimization]]
 [[Dynamic_Expert_Fusion]]

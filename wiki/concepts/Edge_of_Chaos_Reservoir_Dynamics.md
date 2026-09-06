@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[FisherInformationMetric]]
 [[FlagOS_2_0]]
 [[Heterogeneous_Compute_Graph]]
+[[HybridResistiveMemoryCIM]]
 [[Long_Range_Interactions]]
 [[MemristiveReservoirBranchPrediction]]
 [[Network_Topology_Design]]

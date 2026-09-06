@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_Interconnect]]
 [[SDI_NPU_NoC_Integration]]
+[[SDI_NoC_Integration]]
 [[TCC]]
 [[iNEST]]
 [[iNEST_Wafer]]

@@ -69,6 +69,7 @@ Auto-extracted concept from raw material compilation.
 [[chiplet interconnect]]
 [[complex system]]
 [[iNEST]]
+[[夏强飞一天2篇Nature大子刊：感存算一体，忆阻器阵列模拟计算]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]

@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Cross_Brain_Connectome]]
 [[Crystallized_Neural_Manifolds]]
 [[EvolutionaryReservoirLearning]]
+[[GraphEmbeddedReservoir]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]
 [[iNEST]]

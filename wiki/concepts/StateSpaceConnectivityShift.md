@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[ErrorSuppressedPipeline]]
 [[FractalPathEntropy]]
 [[HardwareAware_DesignSpace]]
+[[HierarchicalReservoirDynamics]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
 [[SNN]]

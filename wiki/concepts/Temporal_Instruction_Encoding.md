@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalFluctuationReservoir]]
 [[CrossbarArrayIntegration]]
 [[DegreeDependentOpinionThreshold]]
+[[DissipativeQuantumReservoir]]
 [[EndToEndTopologyLearning]]
 [[Memristor]]
 [[Memristor_Synapse]]

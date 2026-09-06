@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Packaging]]
 [[CoPackagedOptics]]
 [[Complex_System_Theory]]
+[[Cryogenic_Syndrome_Compression]]
 [[DirectConnect_Topology]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]

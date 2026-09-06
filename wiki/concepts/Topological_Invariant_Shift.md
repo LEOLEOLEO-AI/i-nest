@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Decoupling]]
 [[Complex_System_Theory]]
 [[ControlDrivenCriticalFluctuations]]
+[[Critical_Region_Extension]]
 [[DTGA]]
 [[Dimensionality_Modularity_Tradeoff]]
 [[DynamicCentralitySteering]]

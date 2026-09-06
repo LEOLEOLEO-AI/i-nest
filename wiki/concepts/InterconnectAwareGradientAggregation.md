@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration_Roadmap]]
 [[Heterogeneous_Integration_Roadmap_HIR]]
 [[Intelligence_Emergence]]
+[[MachineLearningPotential]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[PhotoInducedCurrent]]

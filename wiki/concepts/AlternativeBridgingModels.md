@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Hardware_Accelerated_SNN]]
 [[HigherOrderSimplicialDynamics]]
 [[Intelligence_Emergence]]
+[[LatencyCoding]]
 [[Layered_Attractive_Hubbard_Model]]
 [[Memristor]]
 [[Memristor_Synapse]]

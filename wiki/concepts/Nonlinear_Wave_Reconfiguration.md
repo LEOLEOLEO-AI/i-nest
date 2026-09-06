@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[Random_Markov_Dynamics]]
 [[Reconfigurable_NonHermitian_Nonlinear_System]]
+[[SelfHealing_Interconnect]]
 [[Synaptic_Plasticity]]
 [[ViewDependentAppearance]]
 [[chiplet interconnect]]

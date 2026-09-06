@@ -41,9 +41,12 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[SDI_Bond]]
 [[SDI_Topology]]
+[[SparseTemporalEncoding]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
+[[iNEST]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Bio_plausible_Neuromorphic_Disturbance_Observer]]
 [[BrainBodyResonance]]
 [[ChannelEventSparsity]]
+[[Chiplet_Integration_Route]]
 [[CompetitiveProgramDynamics]]
 [[Complex_System_Theory]]
 [[Cross_Node_Event_Propagation]]

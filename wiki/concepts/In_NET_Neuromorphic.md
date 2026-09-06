@@ -29,10 +29,12 @@ Auto-extracted concept from raw material compilation.
 [[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Scheduling]]
 [[Interconnect_Routing]]
+[[MantelTest_SignCorrection]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Topology]]
 [[NonlinearDynamicalSampling]]
+[[Nonlinear_Gain]]
 [[iNEST]]
 
 ## Sources

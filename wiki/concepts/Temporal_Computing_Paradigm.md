@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[NonEquilibriumPhase]]
 [[On_Chip_STDP_Learning]]
+[[ResonateAndFireEncoding]]
 [[SOC]]
 [[STDP_Learning]]
 [[STDP_MemristiveLearning]]

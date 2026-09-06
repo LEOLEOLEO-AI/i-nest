@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Bipartite_Interconnect_Fabric]]
 [[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
+[[ComplexSystem_Definition]]
 [[Complex_System_Theory]]
 [[FlagOS_2_0]]
 [[IntervalAnalysisUncertainty]]
@@ -46,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologyProgramming]]
 [[complex system]]
 [[iNEST]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

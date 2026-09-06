@@ -62,6 +62,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Interface_Standard]]
 [[STDP_Plasticity]]
 [[ScaleFreeNetwork]]
+[[SparseTemporalEncoding]]
 [[SuperparamagneticSwitchingRate]]
 [[Synaptic_Plasticity]]
 [[TCC]]

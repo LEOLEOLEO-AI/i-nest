@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[NeurovascularUnitEngineering]]
 [[NeurovascularUnit]]
 [[PairwiseCorrelationConstraint]]
+[[PropertyPredictionModeling]]
 [[RenormalizationGroup_ScalingLaws]]
 [[RenormalizationGroup_Scaling]]
 [[SNN]]

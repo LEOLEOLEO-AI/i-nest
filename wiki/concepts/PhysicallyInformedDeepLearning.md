@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Topology]]
 [[Neuromorphic_Topology_Mapping]]
 [[NoC]]
+[[OpticallyWritableAtomicVaporMemory]]
 [[Order_Flexibility_Duality]]
 [[P_Paradigm]]
 [[STDP_Plasticity]]

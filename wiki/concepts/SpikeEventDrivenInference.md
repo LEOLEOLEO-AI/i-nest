@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
+[[NeuromorphicSpikingTopology]]
 [[NeuromorphicStatusAwareness]]
 [[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]

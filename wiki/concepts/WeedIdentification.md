@@ -66,6 +66,7 @@ Auto-extracted concept from raw material compilation.
 [[SpatialPatternStorage]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[ThermalAware_DesignSpaceExploration]]
 [[ThroughSiliconVia_TSV_ThermalPath]]
 [[TopologicalAndersonChernInsulator]]
 [[advanced packaging]]

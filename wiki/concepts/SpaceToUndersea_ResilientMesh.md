@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Cobordism_Classification]]
 [[Complex_System_Theory]]
 [[Complexity_Coordination_Layer]]
+[[Complexity_Emergence_Framework]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]

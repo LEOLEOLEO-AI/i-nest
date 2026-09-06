@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Architecture]]
 [[SparseTemporalEncoding]]
 [[TCC]]
+[[WSE_OnWafer_Fabric]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]

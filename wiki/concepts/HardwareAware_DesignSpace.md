@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[ParallelSNNArchitecture]]
 [[Reservoir_Computing]]
 [[SDDE_Attractor_Emergence]]
+[[SDI_STDP]]
 [[SNN]]
 [[STDP_Plasticity]]
 [[ScaleFreeNetwork]]

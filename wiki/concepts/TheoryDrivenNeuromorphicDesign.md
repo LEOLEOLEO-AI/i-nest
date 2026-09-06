@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[NonEquilibriumPhase]]
 [[Online_Continual_Learning]]
 [[QuantumChaos]]
+[[ResonateAndFireEncoding]]
 [[STDP_Learning]]
 [[STDP_MemristiveLearning]]
 [[STDP_Plasticity]]

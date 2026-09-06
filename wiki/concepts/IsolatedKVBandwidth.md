@@ -65,6 +65,7 @@ Auto-extracted concept from raw material compilation.
 [[SparsityAwareInterconnect]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[TopologyAware_Embedding]]
 [[advanced packaging]]
 [[chiplet interconnect]]
 [[涌现]]

@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[DarkSiliconAwarePowerGating]]
 [[DataAuthenticityCrisis]]
 [[ExtensiveWidthShallowNN]]
+[[Free_Energy_Interconnect_Constraint]]
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[FunctionalInterfaceBlock]]

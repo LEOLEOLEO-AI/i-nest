@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[DataCenter_Chip_Logic_Compression]]
 [[Dynamic_Expert_Fusion]]
+[[EntanglementFidelityBudgeting]]
 [[FreeEnergyMinimization]]
 [[FunctionalMemoryTopology]]
 [[Heterogeneous_Integration]]

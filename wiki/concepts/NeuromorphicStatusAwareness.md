@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstTemporalPlasticity]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Complex_System_Theory]]
+[[Complexity_Emergence_Engineering]]
 [[Event_Driven_Architecture]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[MetaFAIR_ArchitectureDiscovery]]

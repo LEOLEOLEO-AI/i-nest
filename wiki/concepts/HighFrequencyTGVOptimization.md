@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect_Scheduling]]
 [[Chiplet_Packaging]]
 [[Chiplet_Stacking]]
+[[CoPackagedOptics]]
 [[Collective_Offloading]]
 [[Complex_System_Theory]]
 [[ComputeRelocationOverhead]]

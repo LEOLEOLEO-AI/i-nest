@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN_SNN_ConversionError]]
 [[ANN_SNN_WeightSpaceGap]]
 [[ANN_to_SNN_Conversion_Error_Amplification]]
+[[AcceleratorReconfigurationOverhead]]
 [[Nonlinear_Gain]]
 [[PPT]]
 [[SNN]]

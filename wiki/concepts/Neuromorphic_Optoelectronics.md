@@ -29,8 +29,10 @@ Auto-extracted concept from raw material compilation.
 [[Bias_Origin_Taxonomy]]
 [[ByteDance_Ada_Chip]]
 [[ConcentricDiscreteOpticalVortices]]
+[[Deep_Network_Architecture_Invariant]]
 [[Neuromorphic_Computing]]
 [[Synaptic_Plasticity]]
+[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

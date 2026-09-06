@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[PathDivergenceSelection]]
 [[PheromoneTopologySignaling]]
 [[RL_Routing_LEO]]
+[[SDI_TopologicalControl]]
 [[Spin_Quantum_Hall_Critical_Exponents]]
 [[Synaptic_Plasticity]]
 [[TCC]]

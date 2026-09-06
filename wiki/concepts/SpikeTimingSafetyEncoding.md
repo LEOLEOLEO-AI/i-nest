@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[DivergentHigherAreaRanking]]
 [[ElectronicBurstingNeuron]]
 [[EnergyEfficientNeuromorphic]]
+[[EventDrivenModularArchitecture]]
 [[EvolutionarySpikeTimingOptimization]]
 [[Hardware_Aware_SNN_Optimization]]
 [[Interconnect_Routing]]

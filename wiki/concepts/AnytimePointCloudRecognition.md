@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Cytokine_Feedback_Loops]]
 [[Droop_Triggered_Workload_Throttling]]
 [[EventDrivenComputation]]
+[[EventDrivenSpectralProcessing]]
 [[Event_Driven_Architecture]]
 [[Event_Driven_Computation]]
 [[Neuromorphic_Computing]]

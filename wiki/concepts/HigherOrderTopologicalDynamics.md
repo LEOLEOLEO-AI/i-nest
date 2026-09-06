@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[12_三原理协同_FEP_最小作用量_STDP]]
 [[AI-ML — 全景导航 (Map of Content)]]
 [[AI_Orchestrator]]
+[[AI_Supply_Chain_Increment]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

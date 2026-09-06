@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_Network_Brain_Inspired_Computing]]
 [[Complex_System_Theory]]
 [[CrossPopulationCen]]
+[[DeepSpikingNeuralNetworkTraining]]
 [[DendriticTaskPartitioning]]
 [[FlagOS_2_0]]
 [[Free_Energy_Principle]]

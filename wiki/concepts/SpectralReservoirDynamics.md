@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Combinatorial_Optimization_Readout]]
 [[Compressive_Sensing_Reservoir]]
 [[CouplingTopologyInducedDynamics]]
+[[CriticalityInNetworkComputing]]
 [[CriticalityInducedTopology]]
 [[Criticality]]
 [[DARPA_ProjectManager_Model]]

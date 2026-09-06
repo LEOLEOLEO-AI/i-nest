@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[FeFET_Polarization_Switching]]
 [[Free_Energy_Minimization_Interconnect]]
+[[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Interconnect_Scaling]]
 [[NCL神经计算定律详解]]

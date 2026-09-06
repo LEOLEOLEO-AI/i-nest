@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[DTGA]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
+[[Environmental_Capability_Context]]
 [[EventDrivenAsync]]
 [[EventDrivenAsynchronousRouting]]
 [[FPGACongestionHotspotMitigation]]

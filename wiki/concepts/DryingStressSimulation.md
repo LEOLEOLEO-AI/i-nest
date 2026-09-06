@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[EventCameraTemporalEncoding]]
 [[EventDrivenAttentionMasking]]
 [[EventDrivenSynchronization]]
+[[GraphAnomalySpikeEncoding]]
 [[ImpactFallDetection]]
 [[MembranePotentialAlignment]]
 [[Network_Topology_Design]]

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[FiniteSizeTopologicalPhase]]
+[[GNN图神经网络，非结构化数据分析利器！]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Power_Density_Law]]

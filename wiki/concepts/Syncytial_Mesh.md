@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[BrainBodyResonance]]
 [[CascadedAdaptiveCombiners]]
 [[Complex_System_Theory]]
+[[Connectome_Transfer]]
 [[EmulationTheoryObserver]]
 [[FastSlow_Dynamics]]
 [[Free_Energy_Principle]]

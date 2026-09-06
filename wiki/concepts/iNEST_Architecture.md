@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Bipartite_Interconnect]]
 [[BoundaryObject_Abstraction]]
 [[BurstInterleaving]]
+[[Chemical_Bond_Operation_Algebra]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]

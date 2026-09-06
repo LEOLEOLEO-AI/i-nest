@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[3DHI_Interconnect]]
 [[3d]]
+[[AnalogDomainCompression]]
 [[BigBrainCellularAxis]]
 [[ChipletRoutingFabric]]
 [[ChipletWaferInterconnectScaling]]

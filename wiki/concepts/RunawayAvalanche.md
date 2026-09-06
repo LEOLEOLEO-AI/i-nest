@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossLayer_SignalRouting]]
 [[DendriticReservoirState]]
 [[EcosystemTopologyCoupling]]
+[[EnergyEfficientNeuromorphic]]
 [[Environmental_Capability_Context]]
 [[ErrorSuppressedPipeline]]
 [[EventDrivenModularArchitecture]]

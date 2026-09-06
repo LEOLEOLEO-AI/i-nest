@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[NoC]]
+[[NoC_SDI_Integration]]
 [[P_Paradigm]]
 [[PacketRoutingOptimization]]
 [[PolymerComposite_Substrate]]

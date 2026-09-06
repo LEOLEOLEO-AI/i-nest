@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_Intelligence_Emergence]]
 [[CST计量仪]]
 [[CausalEmergenceCondition]]
+[[Causal_Emergence_Integration]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Complex_System_Theory]]
 [[Complexity_Emergence]]
@@ -48,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
+[[神经网络]]
 [[类脑芯片]]
 
 ## Sources

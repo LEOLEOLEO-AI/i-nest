@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Cobordism_Classification]]
 [[CollectiveDynamics]]
 [[Complex_System_Theory]]
+[[Complexity_Coordination_Layer]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence]]

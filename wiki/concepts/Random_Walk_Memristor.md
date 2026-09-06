@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Multi_Scale_Habituation]]
+[[NeuromorphicHardwareTrojan]]
 [[Neuromorphic_Computing]]
 [[iNEST]]
 [[神经网络]]

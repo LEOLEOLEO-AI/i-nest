@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Photonic_Chiplet_Interconnect]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]
+[[SDI_NPU_NoC_Integration]]
 [[SDI_Topology]]
 [[SparseTemporalEncoding]]
 [[SparsityAwareInterconnect]]

@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_Synergy_Coordination]]
 [[ClassicalQuantum_Query_Benchmark]]
 [[Complex_System_Theory]]
+[[ContestedPriorTopology]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]

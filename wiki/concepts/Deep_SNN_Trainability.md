@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Packaging]]
 [[NeurovascularUnitEngineering]]
 [[NeurovascularUnit]]
+[[PropertyPredictionModeling]]
 [[SNN]]
 [[ST_SNN]]
 [[Spike_Encoding_of_fMRI]]

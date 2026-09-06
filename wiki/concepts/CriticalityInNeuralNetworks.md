@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BulletTrainScheduling]]
 [[Continuous_Control_Spiking_Stability]]
 [[CriticalityDrivenEfficientCoding]]
+[[CriticalityOffCriticalityTransition]]
 [[Criticality]]
 [[Criticality_Driven_Coding]]
 [[CrossEntityPreemptiveWarning]]

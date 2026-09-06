@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[SpiNNaker2_Chip]]
 [[SpiNNaker]]
+[[SpikeBasedNeuralRadianceField]]
 [[SpikeDrivenMultiObjectTracking]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking neural network]]

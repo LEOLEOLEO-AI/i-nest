@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[AdaptiveArchitecture]]
 [[Agile_Resilient_Defense_Ecosystem]]
+[[AmoebaInspiredLocomotion]]
 [[Cognitive_Relapse_Decoupling]]
 [[Continual_Learning_Modularity]]
 [[CorticalTypeDiversity]]

@@ -33,6 +33,8 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[Spike_Event_Driven_Attention]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
+[[TemporalAdversarialPerturbation]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

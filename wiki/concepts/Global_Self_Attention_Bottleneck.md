@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Recurrent_Network_Homeostasis]]
 [[SNN]]
 [[SNN_VisualSemanticDecoder]]
+[[Scalable_SNN_Training]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

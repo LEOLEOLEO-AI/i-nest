@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[CriticalNormBoundary]]
+[[CriticalityDrivenTopology]]
 [[Criticality]]
 [[Criticality_Based_Feature_Extraction]]
 [[EdgeIoTEnergyAwareness]]

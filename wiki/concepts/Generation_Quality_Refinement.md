@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[20W_Brain_Inspired_Planning]]
 [[AI_Assisted_Energy_Optimization]]
 [[AddressRedundancyElimination]]
 [[Adjoint_Gradient_Propagation]]
@@ -40,6 +41,8 @@ Auto-extracted concept from raw material compilation.
 [[OpenLearningEcosystem]]
 [[QuantumDistillation]]
 [[Reconfigurable_Neural_Topology]]
+[[SDI_Bond]]
+[[SDI_STDP]]
 [[SDI_STDP_Rule]]
 [[STDPDrivenConnectivity]]
 [[STDP_Plasticity]]

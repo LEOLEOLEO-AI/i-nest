@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[DirectConnect_Topology]]
 [[Evolutionary_Structure_Computability]]
+[[Free_Energy_Principle_Network]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]

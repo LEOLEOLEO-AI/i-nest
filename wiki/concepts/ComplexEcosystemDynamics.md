@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
+[[Constructed_Reality_Interconnect]]
 [[Contested_Priors_Mechanism]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]

@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Topology]]
 [[Network_Topology_Design]]
 [[OpticallyWritableAtomicVaporMemory]]
+[[SDI_TopologicalControl]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[VectorFlowField]]

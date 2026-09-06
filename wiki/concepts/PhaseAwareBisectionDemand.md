@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Synapse]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
+[[NoC_SDI_Integration]]
 [[PhotonicSynapticPlasticity]]
 [[ReconfigurableSpikingRouting]]
 [[Resilient_Satellite_Mesh]]

@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Connectome]]
 [[Connectome_Verification_Protocol]]
+[[InNetworkNeuromorphicSimulation]]
 [[PhysicalReservoir]]
 [[PowerLawScalingClassification]]
 [[PowerLawScaling]]

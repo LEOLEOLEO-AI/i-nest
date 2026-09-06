@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[ReadoutLayer]]
+[[Readout_Layer_Training]]
 [[ReservoirDiversity]]
 [[Reservoir_Computing]]
 [[SuperparamagneticSwitchingRate]]

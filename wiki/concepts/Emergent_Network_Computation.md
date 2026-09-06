@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[AI_Forum_Demo_Narrative]]
 [[Adaptive_Intelligence_Principle]]
+[[Adaptive_Service_Orchestration]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Attention_Residuals]]
 [[AutonomousAdaptation]]

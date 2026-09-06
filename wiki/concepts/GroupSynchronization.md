@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[ConverterDrivenStability]]
 [[DataDrivenCellularAxis]]
 [[DevelopmentalBrainTrajectory]]
+[[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]
 [[Loihi2_SpikeEncoding]]
 [[Loihi]]

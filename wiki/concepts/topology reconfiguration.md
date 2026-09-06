@@ -65,6 +65,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[RTC_Primitives]]
 [[SDI_Bond]]
 [[Software_Defined_Interconnect]]
+[[SpaceToUndersea_ResilientComms]]
 [[TCC]]
 [[chiplet interconnect]]
 [[complex system]]

@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[DarkSiliconAwarePowerGating]]
 [[Intelligence_Emergence]]
+[[MicroTransferPrinting]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[TCC]]

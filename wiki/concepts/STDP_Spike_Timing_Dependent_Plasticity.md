@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AnisotropicGaussianPrimitives]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BioInspiredSequenceLearning]]
+[[Contested_Prior_Resolution]]
 [[Local_Plasticity]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Network_Architecture_Invariant]]
 [[Defense_Industrial_Base_Reshaping]]
 [[EfficientDeepLearning]]
+[[EmergentIntelligence_Spacetime]]
 [[Loihi]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

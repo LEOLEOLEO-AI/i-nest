@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Bidirectional_Temporal_Enhancement]]
 [[CirculateFiringNeuron]]
+[[CollectiveSpikingDynamics]]
 [[Contested_Prior_Resolution]]
 [[DelayAwareSpikeEventDelivery]]
 [[Emergent_Intelligence]]

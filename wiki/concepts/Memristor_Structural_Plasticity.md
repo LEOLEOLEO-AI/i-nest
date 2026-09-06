@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Inspired_Resource_Allocation]]
 [[AutonomousAdaptation]]
 [[DTGA]]
+[[DynamicPlasticNetwork]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]

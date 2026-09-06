@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Frontier_Innovation_Mapping]]
 [[Interconnect_Routing]]
 [[LocalInteractionDrivenReconfiguration]]
+[[MixedLabyrinthFractal]]
 [[MixedSignalSNN_CoDesign]]
 [[Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]

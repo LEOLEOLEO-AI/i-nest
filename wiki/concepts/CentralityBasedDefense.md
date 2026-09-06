@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[ERI_2_0_Strategy]]
 [[EndToEndDesignAutomation]]
 [[HeavyTailedWaitingTime]]
+[[HeavyTailedWaitingTimes]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[MachineLearningPotential]]

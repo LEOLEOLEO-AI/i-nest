@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[AnytimePointCloudRecognition]]
 [[Avoided_Criticality]]
 [[BrainBodyResonance]]
+[[CascadedAdaptiveCombiners]]
 [[Catastrophic_Forgetting_Mitigation]]
 [[Cognitive_Relapse_Decoupling]]
 [[Contested_Priors_Architecture]]

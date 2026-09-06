@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[EntanglementAwareRouting]]
 [[FatalityDrivenRewiring]]
 [[ImaginaryGaugePhaseImprint]]
+[[InSituReconfiguration]]
 [[Inference_Workload_Profiling]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

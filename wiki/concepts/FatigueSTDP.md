@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Meta_Residual_Learning]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
+[[Nonlinear_Gain]]
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SNN]]

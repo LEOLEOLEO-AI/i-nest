@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_ProjectManager_Model]]
 [[Deep_Network_Architecture_Invariant]]
 [[DynamicProgrammingRecycling]]
+[[DynamicTopology]]
 [[Graphlet_Decomposition]]
 [[Memristor]]
 [[Memristor_Synapse]]

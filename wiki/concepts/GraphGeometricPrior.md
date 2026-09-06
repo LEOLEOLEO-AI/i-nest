@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[AnisotropicTensileStrength]]
 [[AnteHoc_Explainability]]
 [[Asymptotic_Exact_Solution]]
+[[Backpropagating_Action_Potential]]
 [[Backpropagation_Comparison]]
 [[Banded_NonHermitian_Matrix]]
 [[Barrier_Hierarchy]]

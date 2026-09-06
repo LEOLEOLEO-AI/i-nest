@@ -66,6 +66,7 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[SuperparamagneticSwitchingRate]]
+[[SynapticFatigueModel]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[TopologicalPhaseTransition]]

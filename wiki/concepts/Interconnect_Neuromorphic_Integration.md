@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[Obsidian_Plugin_Architecture]]
 [[P_Paradigm]]
 [[SelfOrganization]]
 [[TCC]]

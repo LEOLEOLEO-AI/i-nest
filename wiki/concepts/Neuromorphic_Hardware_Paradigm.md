@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenAutoregression]]
 [[EventDrivenRiskAssessment]]
 [[Event_Driven_Architecture]]
+[[FixedOverheadCost]]
 [[In_Network_Neuromorphic]]
 [[In_Package_Neuromorphic_Integration]]
 [[MagnitudePhaseComputationalModel]]

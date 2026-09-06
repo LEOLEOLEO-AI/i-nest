@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[ReservoirDynamics]]
 [[Reservoir_Computing]]
 [[SDDE_Physical_Dynamics]]
+[[SelfFocusingControl]]
 [[TCC]]
 [[ThermallyDrivenSuperparamagnetReservoir]]
 [[神经网络]]

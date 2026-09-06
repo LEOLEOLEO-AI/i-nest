@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[EventTriggeredDistributedControl]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[FinitePool_RareRegime_Discovery]]
+[[GraphLanguageModel_RAG]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[NeuromorphicTransformerPipeline]]

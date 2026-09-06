@@ -21,12 +21,15 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3D_Heterogeneous_Integration]]
+[[3d]]
 [[AI_Driven_Architecture_Search]]
 [[AI_Forum_Demo_Narrative]]
 [[AgenticServiceOrchestration]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Ant_Swarm_Functional_Control]]
 [[Baseline_Draft_Status]]
+[[BoundaryObject_Abstraction]]
+[[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Physical_Neural_Network]]

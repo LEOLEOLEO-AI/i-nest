@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenControlLoop]]
 [[EventDrivenDataAssociation]]
 [[EventDrivenTemplateUpdate]]
+[[EventDrivenTextEncoding]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
 [[SNN]]

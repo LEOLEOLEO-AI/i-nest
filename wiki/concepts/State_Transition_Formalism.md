@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_NoC_Fabric]]
 [[Chiplet_NoC_Interconnect]]
 [[Chiplet_Stacking]]
+[[CoPackagedOptics]]
 [[Complex_System_Theory]]
 [[CrossDomain_Integration]]
 [[Deep_Network_Architecture_Invariant]]

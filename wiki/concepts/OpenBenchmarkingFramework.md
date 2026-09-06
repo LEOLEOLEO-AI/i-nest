@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[OpportunisticRouting]]
 [[PairwiseCorrelationConstraint]]
 [[PowerOfTwoWeightQuantization]]
+[[PropertyPredictionModeling]]
 [[Reservoir_Computing]]
 [[SNN]]
 [[SpikingTopologyEvolution]]

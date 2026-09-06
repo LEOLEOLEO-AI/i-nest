@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Air_Combat_Autonomy]]
 [[AirportNetworkGraphEmbedding]]
 [[Allreduce_Latency_Probe]]
+[[Alpha_Coefficient_Phase_Transition_Amplification]]
 [[AmplifyingNetworkTopology]]
 [[AnalogStateRetention]]
 [[Antiferromagnetic_Topological_Anderson_Insulator]]

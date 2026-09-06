@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[Scalable_Graph_Search_Neuromorphic]]
 [[Self_Organized_Criticality]]
 [[SpikeBasedGradientDescent]]
+[[SpikeBasedNeuralRadianceField]]
 [[SpikePacketCompression]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking neural network]]

@@ -34,6 +34,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[BioInspiredSequenceLearning]]
 [[DiscreteSTDPLearning]]
 [[DiscreteSTDP]]
+[[Ga2O3_STDP_Artificial_Synapse]]
 [[ITP_STDP]]
 [[ITP_STDP_Engine]]
 [[ITP_STDP_Learning_Engine]]

@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[StatisticalTopologicalMatter]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[TopologicalCoordination]]
 [[TopologyDynamicsCoupling]]
 [[iNEST]]
 [[涌现]]

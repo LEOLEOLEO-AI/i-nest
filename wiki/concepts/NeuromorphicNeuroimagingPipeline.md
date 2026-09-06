@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveDendriteSNN]]
 [[Algorithm_Hardware_CoDesign]]
 [[Amorphous_Amorphous_Transition]]
+[[Attention_Mechanism_in_SNN]]
 [[Avoided_Criticality]]
 [[Baseline_Change_Record]]
 [[BulletTrainScheduling]]

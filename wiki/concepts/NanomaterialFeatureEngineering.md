@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[Neuronal_Avalanche_Dynamics]]
+[[Random_Parameter_Substitution]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[SelfOrganizedCriticalityConsciousness]]
@@ -61,6 +62,8 @@ Auto-extracted concept from raw material compilation.
 [[StochasticBinaryDynamics]]
 [[SubsystemInformationCapacity]]
 [[Whole_Organism_Behavioral_Assay]]
+[[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

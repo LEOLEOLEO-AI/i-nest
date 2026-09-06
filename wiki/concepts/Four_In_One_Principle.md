@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AmorphousTopologicalSubstrate]]
 [[BoundaryContract]]
 [[BoundaryObject_Abstraction]]
+[[CST_Intelligence_Emergence_Theory]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]

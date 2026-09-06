@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Receptron_Unit]]
 [[ReconfigurableSNNTopology]]
 [[SNN]]
+[[SelfOrganizationInContinuousMedia]]
 [[SelfOrganization]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Bidirectional_Temporal_Enhancement]]
+[[BioInspiredSequenceLearning]]
 [[DiscreteSTDP]]
 [[FunctionalInterfaceBlock]]
 [[GroupSynchronization]]

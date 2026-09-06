@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Brain_Connectome]]
 [[Connectome]]
 [[Cortical_Traveling_Waves]]
+[[Independent_EdgeAI_Player_Endgame]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]

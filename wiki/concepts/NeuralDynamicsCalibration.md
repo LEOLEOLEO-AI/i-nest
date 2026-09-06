@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[DirectTrainingSNN]]
 [[Direct_Training_Spiking_Neural_Networks]]
 [[DualDrivenHybridNetwork]]
+[[ElectronicBurstingNeuron]]
 [[EnergyEfficientNeuromorphic]]
 [[ErrorAmplificationLimits]]
 [[Frontier_Innovation_Mapping]]

@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[CouplingMatrixRecovery]]
 [[Coupling_Strength_Encoding]]
 [[Crystallized_Neural_Manifolds]]
+[[Deep_Network_Layer_Stacking]]
 [[DendriticReservoirState]]
 [[DeviationScalingIndex]]
 [[EcosystemTopologyCoupling]]

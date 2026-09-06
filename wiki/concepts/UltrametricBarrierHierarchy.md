@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_InMemory_Processing]]
 [[Asymmetric_Interaction_Graph]]
 [[AttractorBasinOrthogonality]]
+[[AutonomousCircuitMorphogenesis]]
 [[Barrier_Hierarchy]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]

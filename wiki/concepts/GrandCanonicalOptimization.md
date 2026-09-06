@@ -56,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologicalAndersonChernInsulator]]
 [[Topological_Anderson_Insulator]]
 [[TopologyEntropyMapping]]
+[[Universal_Computation_Landscape]]
 [[VehicularMultiHopTopology]]
 [[World_Model]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]

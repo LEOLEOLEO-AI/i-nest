@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[Intelligence_Emergence]]
+[[L2_L3_Reconfigurability]]
 [[MitigationLayers]]
 [[MultiplicativeGain]]
 [[Network_Topology_Design]]
@@ -56,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
+[[Spatiotemporal_Synergy]]
 [[Spatiotemporal_Synergy_Complexity]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
@@ -64,6 +66,7 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

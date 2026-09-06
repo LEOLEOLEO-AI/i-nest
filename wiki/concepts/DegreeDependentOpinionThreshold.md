@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[ImaginaryGaugePhaseImprint]]
 [[InNetworkNeuromorphicEmergence]]
+[[InNetworkNeuromorphic]]
 [[In_Network_Neuromorphic]]
 [[Independent_EdgeAI_Player_Endgame]]
 [[Intelligence_Emergence]]
@@ -64,6 +65,7 @@ Auto-extracted concept from raw material compilation.
 [[ThermallyDrivenSuperparamagneticReservoir]]
 [[ViewDependentAppearance]]
 [[WormBrain_FlyBody_Controller]]
+[[fMRI_SpikeEncoding]]
 [[iNEST]]
 
 ## Sources

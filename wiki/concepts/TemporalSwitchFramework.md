@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicInference]]
 [[ERI_2_0_Strategy]]
 [[GNN图神经网络，非结构化数据分析利器！]]
+[[GenerativeTopologyModels]]
 [[ImaginaryGaugePhaseImprint]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[FirstPrinciples_AI]]
 [[ForwardFluctuationGradient]]
 [[GraphEmbeddedReservoir]]
+[[InNetworkNeuromorphicSimulation]]
 [[In_Context_Learning]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]

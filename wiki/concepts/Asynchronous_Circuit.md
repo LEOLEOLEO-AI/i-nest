@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Topology]]
 [[P_Paradigm]]
 [[TCC]]
 [[iNEST]]

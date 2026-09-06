@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Course_Based_FPGA_Projects]]
 [[DARPA_Project_Group_Strategy]]
 [[DataDrivenCellularAxis]]
+[[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[MemristiveSynapticFatigue]]
 [[Neuromorphic_Computing]]

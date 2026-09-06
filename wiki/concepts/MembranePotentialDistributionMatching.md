@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AcousticAnomalyDetection]]
 [[ActiveDendriteSNN]]
 [[Algorithm_Hardware_CoDesign]]
+[[Attention_Mechanism_in_SNN]]
 [[Avoided_Criticality]]
 [[Baseline_Change_Record]]
 [[Bidirectional_Temporal_Enhancement]]

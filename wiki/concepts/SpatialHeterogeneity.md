@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[MechanicalReservoirComputing]]
 [[NISQHardwareAwareEncoding]]
 [[Network_Topology_Design]]
+[[NonlinearDynamicsInMetamaterials]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
 [[Reservoir_State_Projection]]

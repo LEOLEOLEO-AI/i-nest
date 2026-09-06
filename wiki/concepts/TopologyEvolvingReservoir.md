@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[RLFlightControl]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
+[[SDI_NPU_NoC_Integration]]
 [[Self_Organized_Criticality]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]

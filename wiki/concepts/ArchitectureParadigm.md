@@ -31,6 +31,8 @@ Auto-extracted concept from raw material compilation.
 [[CST计量仪]]
 [[Complex_System_Theory]]
 [[ComputationEfficientDeepLearning]]
+[[DARPA_ProjectManager_Model]]
+[[EfficientDeepLearning]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

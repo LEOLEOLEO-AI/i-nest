@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Local_Approximation_Dynamics]]
 [[LossSpikePhenomenon]]
+[[MixedLabyrinthFractal]]
 [[MixedSignalSNN_CoDesign]]
 [[NeuromorphicRoutingOptimization]]
 [[Neuromorphic_Computing]]

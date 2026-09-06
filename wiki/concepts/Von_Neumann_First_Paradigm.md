@@ -29,10 +29,12 @@ Auto-extracted concept from raw material compilation.
 [[BackpropagationFreeLearning]]
 [[Beyond_Moore_Pathway]]
 [[BurstInterleaving]]
+[[Chemical_Bond_Operation_Algebra]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
 [[SOC]]
+[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

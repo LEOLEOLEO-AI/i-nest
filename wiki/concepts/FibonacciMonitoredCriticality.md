@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Edge_of_Chaos_Computation]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
+[[EnergyEfficientSNN]]
 [[EntanglementScaling]]
 [[InNetworkComputing]]
 [[Intelligence_Emergence]]
@@ -52,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Self_Organized_Criticality]]
+[[Spiking_Neural_Network]]
 [[TopologicalAndersonChernInsulator]]
 
 ## Sources

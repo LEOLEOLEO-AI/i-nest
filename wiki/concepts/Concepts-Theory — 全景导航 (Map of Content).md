@@ -63,6 +63,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
+[[SDI节点接口规范与化合键定义]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[STDP_Plasticity]]

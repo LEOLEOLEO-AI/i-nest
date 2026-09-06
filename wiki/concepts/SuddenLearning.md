@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[156QubitScale]]
+[[AI_Application_Scenario_Reconstruction]]
 [[AI_Assisted_Energy_Optimization]]
 [[AdaptiveEntanglementManagement]]
 [[AdaptiveFlexibilityThreshold]]
@@ -45,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[RunawayAvalanche]]
 [[ShortTermMemoryReservoir]]
+[[ShortTermMemory]]
 [[TCC]]
 [[TopologyEmbeddedIntrospection]]
 [[iNEST]]

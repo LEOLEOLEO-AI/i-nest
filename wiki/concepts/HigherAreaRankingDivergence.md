@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[CoreComputationSubspace]]
 [[CriticalStateSelfOrganization]]
 [[Cross_Network_Representation_Transfer]]
+[[CulturalDisseminationDynamics]]
 [[Gaussian_Splatting_Streaming]]
 [[Interconnect_Routing]]
 [[MoE_Routing]]

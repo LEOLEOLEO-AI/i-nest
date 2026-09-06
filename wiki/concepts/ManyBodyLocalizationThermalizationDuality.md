@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstCoding]]
 [[CascadedAdaptiveCombiners]]
 [[Complex_System_Theory]]
+[[ConceptualNetworkEmbedding]]
 [[EventDrivenComputation]]
 [[Event_Driven_Architecture]]
 [[Event_Driven_Computation]]

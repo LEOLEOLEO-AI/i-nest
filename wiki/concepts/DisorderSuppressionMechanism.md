@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[ClassicalSimulability]]
 [[Cobordism_Classification]]
 [[Complex_System_Theory]]
+[[Complexity_Coordination_Layer]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]

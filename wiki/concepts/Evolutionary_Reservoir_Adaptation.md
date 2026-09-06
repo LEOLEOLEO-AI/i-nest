@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[HardwareAware_DesignSpace]]
 [[NISQHardwareAwareEncoding]]
 [[Network_Topology_Design]]
+[[NonlinearDynamicsInMetamaterials]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
 [[TCC]]

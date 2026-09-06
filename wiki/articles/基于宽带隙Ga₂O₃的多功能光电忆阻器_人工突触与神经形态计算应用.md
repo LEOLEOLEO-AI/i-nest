@@ -16,6 +16,7 @@ SDI, STDP, iNEST, 忆阻, 神经形态
 
 ## Related Concepts
 
+[[Memristor]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]

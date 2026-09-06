@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SOC]]
+[[SpikeDrivenDataAssociation]]
 [[SpikingNeuralNetworkTopologyMapping]]
 [[SpikingNeuralNetworkTopology]]
 [[SpikingNeuralNetwork]]

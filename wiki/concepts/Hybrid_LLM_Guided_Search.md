@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[EvolutionaryReservoirOptimization]]
+[[FederatedServiceGraph]]
 [[GateBasedQuantumReservoir]]
 [[HardwareAware_DesignSpace]]
 [[InNetwork_Topological_Reservoir]]

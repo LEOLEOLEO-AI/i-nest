@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[FeatureBasedGraphEmbedding]]
 [[FeatureBasedGraph]]
+[[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
@@ -34,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Topology]]
 [[Photopolymerization_NoC]]
 [[SDI_Bond]]
+[[SparseTemporalEncoding]]
 [[iNEST]]
 
 ## Sources

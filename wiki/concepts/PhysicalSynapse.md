@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Faculty_Forum_2026]]
+[[BigBrainCellularAxis]]
 [[Constructed_Reality_Interconnect]]
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
@@ -31,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[SDSoW_Strategic_Planning]]
+[[Spatiotemporal_Synergy]]
 [[Spatiotemporal_Synergy_Complexity]]
 [[Spiking_Neural_Network]]
 [[SynapseLevelParallelism]]

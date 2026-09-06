@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspiredInterception]]
 [[BulletTrainScheduling]]
 [[BurstGatedRouting]]
+[[BurstSuppressionMechanism]]
 [[BurstSuppression]]
 [[ContinuousControlConversion]]
 [[Criticality]]

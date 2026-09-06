@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[ActionPrototypeClustering]]
 [[ActiveDendriteSNN]]
 [[Activity_Dependent_Plasticity]]
+[[AdaptiveFrequencyResonateAndFire]]
 [[AnytimePointCloudRecognition]]
 [[AsynchronousCircuits]]
 [[AsynchronousNeuromorphicHardware]]
@@ -33,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
+[[Syncytial_Mesh]]
 [[Syncytial_Mesh_Model]]
 [[iNEST]]
 

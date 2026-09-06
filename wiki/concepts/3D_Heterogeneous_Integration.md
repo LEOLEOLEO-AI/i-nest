@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_FullSpectrum_Strategy]]
 [[AdaptiveGraphDiffusion]]
 [[Adaptive_Intelligence_Principle]]
+[[Adaptive_Service_Orchestration]]
 [[Allreduce_Latency_Probe]]
 [[AndersonTransition]]
 [[Architectural_Conditioning]]

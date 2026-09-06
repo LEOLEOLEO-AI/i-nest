@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[HigherOrderStochasticProcess]]
 [[InteractiveRoboticsLoop]]
 [[LowBitSpikingPruning]]
+[[MembranePotentialDynamics]]
 [[NUMA_Balancing_Interference]]
 [[NeuromorphicHardwareIntegration]]
 [[NeuromorphicHardware]]

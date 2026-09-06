@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[Dual_Memory_Pathway_SNN]]
 [[EventDrivenInference]]
+[[In_Network_Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Self_Organized_Criticality]]

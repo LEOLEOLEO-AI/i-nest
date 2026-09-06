@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]
 [[Izhikevich_NeuronModel]]
+[[Linguistic_Phase_Transition]]
 [[Loihi2_OnChip_Learning]]
 [[Loihi]]
 [[Microfluidic_Worm_Trap_Array]]

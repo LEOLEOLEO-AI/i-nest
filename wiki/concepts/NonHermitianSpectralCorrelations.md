@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveSpeechToSpikeEncoding]]
 [[AmoebaInspiredLocomotion]]
 [[AsynchronousEventDrivenComputation]]
+[[Continuous_Control_Spike_Timing_Sensitivity]]
 [[Cross_Network_Representation_Transfer]]
 [[Dynamic_Expert_Routing]]
 [[EpidemicThreshold]]
@@ -56,6 +57,8 @@ Auto-extracted concept from raw material compilation.
 [[SpontaneousSpikingDecision]]
 [[Synaptic_Plasticity]]
 [[Syncytial_Mesh]]
+[[iNEST]]
+[[iNEST_Interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[BandedNonHermitianRandomMatrices]]
 [[BayesianDomainEvolution]]
 [[Co_designed_Online_Continual_Learning]]
+[[Controlled_Release_Kinetics]]
 [[Online_Continual_Learning]]
 [[Synaptic_Plasticity]]
 [[TCC]]

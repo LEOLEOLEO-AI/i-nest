@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Inference_Stage_Decomposition]]
 [[Inference_Workload_Profiling]]
 [[Interconnect_Routing]]
+[[MatrixShapePhaseTransition]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]
 [[SDI_STDP]]

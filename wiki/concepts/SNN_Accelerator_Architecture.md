@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
+[[PropertyPredictionModeling]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDDE_Attractor_Emergence]]
 [[SNN]]

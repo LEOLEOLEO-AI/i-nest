@@ -66,6 +66,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]
 [[TemporalComplexity]]
+[[TemporalDynamicsModeling]]
 [[ThermalNoiseHarnessing]]
 [[complex system]]
 [[iNEST]]

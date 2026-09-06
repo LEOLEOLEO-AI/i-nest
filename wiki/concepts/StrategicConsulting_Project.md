@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Historical_Batch_Data]]
 [[HubbardModelSimulation]]
+[[Independent_AI_Player_Endgame]]
 [[InformationSciences_Division]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Biological_Neural_Circuit_Formalization]]
 [[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
+[[ComplexSystem_Definition]]
 [[Complex_System_Theory]]
 [[HigherOrderPublicGoodsGame]]
 [[Intelligence_Emergence]]

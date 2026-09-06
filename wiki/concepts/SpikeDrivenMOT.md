@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenMotionDeblurring]]
 [[EventDrivenPlasticity]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
+[[FixedOverheadCost]]
 [[GeometricNeuromorphicFusion]]
 [[GradientBasedLearningLocalization]]
 [[Intelligence_Emergence]]

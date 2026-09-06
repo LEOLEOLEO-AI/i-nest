@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenInference]]
 [[EventDriven_Edge_Perception]]
 [[Event_Driven_Architecture]]
+[[Event_Driven_Spike_Communication]]
 [[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Scheduling]]
 [[In_Package_Neuromorphic_Integration]]

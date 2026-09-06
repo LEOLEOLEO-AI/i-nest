@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[ImpactFallDetection]]
 [[MultiModel_Adapter_Architecture]]
 [[Neuromorphic_Computing]]
+[[NeuronModelAbstractionLayer]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[STDP_Learning]]

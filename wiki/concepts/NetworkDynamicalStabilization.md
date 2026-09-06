@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[PolychronousNeuronalGroups]]
 [[Quadratic_Integrate_and_Fire]]
 [[Quadratic_Integrate_and_Fire_Neuron]]
+[[QuantumDeeplySupervisedSpiking]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]
 [[SDI_STDP]]

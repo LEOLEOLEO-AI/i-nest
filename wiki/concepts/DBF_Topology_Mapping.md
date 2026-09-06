@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
+[[Bond_Operation_Algebra]]
 [[Chemical_Bond_Operation_Algebra]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -38,7 +39,9 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[NoC]]
 [[P_Paradigm]]
+[[SDI_NPU_NoC_Integration]]
 [[TCC]]
+[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

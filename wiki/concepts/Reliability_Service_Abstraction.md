@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[HypergraphNeuralDynamics]]
 [[In_Package_Interconnect_Trust]]
 [[Intelligence_Emergence]]
+[[InterconnectConstrainedEmergence]]
 [[Interconnect_Topology]]
 [[Network_Topology_Design]]
 [[TCC]]

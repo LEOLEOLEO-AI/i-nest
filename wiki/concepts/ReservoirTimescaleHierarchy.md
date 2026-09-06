@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[PowerLawScalingClassification]]
 [[PowerLawScaling]]
 [[QuantumReservoirMemoryCapacity]]
+[[RenormalizationGroupIntelligence]]
 [[Reservoir_Computing]]
 [[ScaleFreeNetwork]]
 [[ShortTermMemory]]

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[DivergentHigherAreaRanking]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
+[[FederatedServiceGraph]]
 [[HardwareAware_DesignSpace]]
 [[Intelligence_Emergence]]
 [[NCA_Reservoir]]

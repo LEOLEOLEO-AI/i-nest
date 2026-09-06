@@ -20,15 +20,21 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[ConsciousnessEngineeringLoop]]
 [[Constructed_Reality_Interconnect]]
 [[DARPA_ProjectManager_Model]]
+[[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[HierarchicalSpikePropagation]]
 [[HighThroughputPhenotyping]]
 [[Neural_Manifold_Crystallization]]
+[[SDSoW]]
+[[SDSoW_Architecture]]
 [[SDSoW_Strategic_Planning]]
+[[Spatiotemporal_Synergy]]
 [[Spatiotemporal_Synergy_Complexity]]
+[[Spiking_Neural_Network]]
 [[iNEST]]
 
 ## Sources

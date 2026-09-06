@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Synapse]]
 [[Metriplectic_Twin]]
 [[Model_Routing_Protocol]]
+[[NegotiationAwareRouting]]
 [[Network_Specific_Embedding_Separation]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]

@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[EcosystemTopologyCoupling]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
+[[ErrorSuppressedPipeline]]
 [[FractalPathEntropy]]
 [[HardwareAware_DesignSpace]]
 [[HoldingManeuverDelayPrediction]]

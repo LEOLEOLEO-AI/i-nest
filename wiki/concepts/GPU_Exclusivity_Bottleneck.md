@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Compute_Centric_NoC]]
 [[CrossDomain_Integration]]
+[[DirectConnect_Topology]]
 [[GPU_Bottleneck_Relief]]
 [[GPU_Hegemony_Disruption]]
 [[HeterogeneousInference]]

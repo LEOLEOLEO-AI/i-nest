@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[ANN_SNN_WeightSpaceGap]]
 [[ActiveDendriteSNN]]
+[[Attention_Mechanism_in_SNN]]
 [[Avoided_Criticality]]
 [[BulletTrainScheduling]]
 [[CoDesigned_SNN]]

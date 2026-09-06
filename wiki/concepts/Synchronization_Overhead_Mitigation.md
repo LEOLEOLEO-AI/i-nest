@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[BackflowTransformation]]
 [[Bidirectional_Temporal_Enhancement]]
 [[CollectiveSpikingDynamics]]
+[[CorticalWaveRouting]]
 [[DiscreteSTDP]]
 [[EventCameraTemporalEncoding]]
 [[Event_Driven_Architecture]]

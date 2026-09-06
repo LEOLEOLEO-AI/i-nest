@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[Delay_Aware_Autograd_Spiking_Framework]]
 [[EnergyProportionalityCeiling]]
+[[EventDrivenAutoregression]]
 [[Event_Driven_Architecture]]
 [[In_Network_Neuromorphic]]
 [[Neuromorphic_Computing]]

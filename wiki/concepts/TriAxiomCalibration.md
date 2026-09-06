@@ -38,6 +38,8 @@ Auto-extracted concept from raw material compilation.
 [[ErrorSuppressedPipeline]]
 [[Hardware_Accelerated_SNN]]
 [[InNetworkNeuromorphicEmergence]]
+[[InNetworkNeuromorphicSimulation]]
+[[InNetworkNeuromorphic]]
 [[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Processing]]
 [[Intelligence_Emergence]]

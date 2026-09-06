@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Representation_Learning_Generalization]]
 [[Resilient_Satellite_Mesh]]
+[[ResonateAndFireEncoding]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]
 [[SpikeEncoding]]

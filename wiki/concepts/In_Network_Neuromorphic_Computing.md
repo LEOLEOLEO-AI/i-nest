@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Energy_Aware_Learning]]
+[[StochasticVehicleRouting]]
 [[iNEST]]
 
 ## Sources

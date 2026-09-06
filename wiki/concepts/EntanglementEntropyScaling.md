@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[ClassicalQuantum_Query_Benchmark]]
 [[Complex_System_Theory]]
 [[CriticalDataThreshold]]
+[[DynamicInference]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

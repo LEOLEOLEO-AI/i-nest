@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[CavityMethodAnalysis]]
 [[Complex_System_Theory]]
 [[CriticalWeightNormBoundary]]
+[[Crystallized_Neural_Manifolds]]
 [[EventDrivenSynchronization]]
 [[EventDrivenWeightUpdate]]
 [[EventTriggeredDistributedControl]]

@@ -57,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Interconnect]]
 [[OnDie_Fusion]]
 [[OpticallyWritableAtomicVaporMemory]]
+[[Photonic_Chiplet_Interconnect]]
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[TCC]]

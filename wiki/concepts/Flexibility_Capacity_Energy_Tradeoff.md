@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Network]]
 [[Memristor_Synapse]]
 [[MetaFAIR_ArchitectureDiscovery]]
+[[NegotiationAwareRouting]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[SNN]]

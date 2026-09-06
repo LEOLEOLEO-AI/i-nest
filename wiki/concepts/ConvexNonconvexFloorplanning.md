@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[ComponentLevelPackaging]]
 [[ControlTheoreticNetworkTopology]]
 [[Daily_Article_Increment_Tracking]]
+[[DeepPhotonicTopology]]
 [[Heterogeneous_Integration]]
 [[HybridConvexOptimization]]
 [[Intelligence_Emergence]]

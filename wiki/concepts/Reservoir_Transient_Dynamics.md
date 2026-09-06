@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[156QubitScale]]
 [[ActionPrototypeClustering]]
+[[ActiveMatterComputing]]
 [[Active_Inference_Agent]]
 [[AdjustableDynamics]]
 [[Alpha_Coefficient_Phase_Transition_Amplification]]

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Gate_Synthesis_Readout]]
 [[HierarchicalSpikePropagation]]
 [[HighThroughputPhenotyping]]
+[[HigherOrderAvalanche]]
 [[Neuromorphic_Computing]]
 [[Spiking neural network]]
 [[Spiking_Neural_Network]]

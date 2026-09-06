@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstTemporalPlasticity]]
 [[CollectiveSpikingDynamics]]
 [[CombinedImportanceScoring]]
+[[Course_Based_FPGA_Prototyping]]
 [[DTGA]]
 [[EEGSpikeEncoding]]
 [[ErrorAmplificationLimits]]

@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[DifferentiableRasterizationPipeline]]
 [[Driven_Criticality]]
 [[Dynamic_Expert_Fusion]]
+[[EarlyExiting]]
 [[EdgeIoTEnergyAwareness]]
 [[ExactlyFlatTopologicalBands]]
 [[FeatureBonding]]

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AllOpticalHebbianLearning]]
 [[Analog_Synaptic_Behavior]]
 [[AnytimePointCloudRecognition]]
+[[AsynchronousEventDrivenComputation]]
 [[Neuromorphic_Computing]]
 [[Synaptic_Plasticity]]
 [[iNEST]]

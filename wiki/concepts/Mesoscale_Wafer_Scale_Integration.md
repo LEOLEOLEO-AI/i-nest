@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[AnalogInMemoryComputing]]
 [[Attention_Residuals]]
+[[ComputationEfficientDeepLearning]]
 [[Defense_Industrial_Base_Reshaping]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligent_Power_Management]]
 [[JointEmbeddingPredictiveArchitecture]]
 [[JunctionCenteredFramework]]
+[[MachineLearningPotential]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[Microbiome_Immune_Endocrine_Interplay]]
 [[NCL神经计算定律详解]]

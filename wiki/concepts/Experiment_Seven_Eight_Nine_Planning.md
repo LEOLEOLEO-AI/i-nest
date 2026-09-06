@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicInference]]
 [[ERI_2_0_Strategy]]
 [[Experiment_Seven_Eight_Nine]]
+[[GenerativeTopologyModels]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

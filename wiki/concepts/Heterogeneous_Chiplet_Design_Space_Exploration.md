@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Memory_Infrastructure]]
 [[AdaptiveGraphDiffusion]]
 [[Adaptive_Intelligence_Principle]]
+[[Adaptive_Service_Orchestration]]
 [[AdiabaticMultimodeBend]]
 [[AdvancedPackagingInterconnect]]
 [[Advanced_Packaging]]

@@ -34,6 +34,8 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CompactFieldVariable]]
+[[ConvexNonConvexTradeoff]]
+[[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[TCC]]

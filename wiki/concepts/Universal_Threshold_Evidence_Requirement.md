@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AnisotropicGaussianPrimitives]]
 [[AnomalousSpinTransport]]
 [[Architectural_Conditioning]]
+[[ClocklessReconfigurableChip]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[Controlled_Release_Kinetics]]

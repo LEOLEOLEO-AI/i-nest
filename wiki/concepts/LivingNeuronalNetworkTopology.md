@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[CoPackagedOptics]]
 [[Cognitive_Relapse_Architecture]]
 [[Course_Based_FPGA_Projects]]
+[[Deep_Network_Layer_Stacking]]
 [[DendriticReservoirState]]
 [[Free_Energy_Topology_Mapping]]
 [[FunctionalInterfaceBlock]]

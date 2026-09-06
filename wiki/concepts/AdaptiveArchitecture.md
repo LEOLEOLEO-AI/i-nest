@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Order_Deep_Belief_Networks]]
+[[EnsembleCreditAssignment]]
 [[FlexibleManifoldReconfiguration]]
 [[Free_Energy_Topology_Mapping]]
 [[FunctionalRelevanceDrivenSelfOrganization]]

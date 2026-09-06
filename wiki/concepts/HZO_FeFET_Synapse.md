@@ -30,7 +30,9 @@ Auto-extracted concept from raw material compilation.
 [[FerroelectricNvCap]]
 [[FerroelectricSemiconductorReservoir]]
 [[Ferroelectric_Devices]]
+[[HigherOrderTransitionDynamics]]
 [[Neuromorphic_Computing]]
+[[Reservoir_Computing]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
 

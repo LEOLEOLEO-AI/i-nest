@@ -21,6 +21,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 ## Related Work
 
 [[6万+辛顿2025年度全景实录深读｜真正的智能与硅基智能的非对称演进]]
+[[AIRA_NeuralArchSearch]]
 [[AI_Faculty_Forum_2026]]
 [[ANN动力学]]
 [[BigBrainCellularAxis]]
@@ -39,6 +40,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Memristor_Network]]
 [[Memristor_Synapse]]
 [[ModelOptimizationFederated]]
+[[ModelOptimization]]
 [[Nat Commun丨国防科技大学胡德文等团队揭示用于同时编码时空动态的多突触脉冲神经元]]
 [[Nature Communications_生物神经网络中突触多样性如何让人工神经网络更强大？]]
 [[Network_Topology_Design]]

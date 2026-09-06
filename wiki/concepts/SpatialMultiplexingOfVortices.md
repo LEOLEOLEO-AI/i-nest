@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[PhaseModulationTestability]]
 [[ReadoutLayer]]
+[[Readout_Layer_Training]]
 [[Reservoir_Computing]]
 [[SuperparamagneticSwitchingRate]]
 [[Swarm_Coordination]]

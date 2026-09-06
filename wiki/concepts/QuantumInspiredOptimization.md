@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[SafetyThresholdAsSpikingThreshold]]
 [[Simulated_Annealing]]
+[[SpikeAdversarialTransfer]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]

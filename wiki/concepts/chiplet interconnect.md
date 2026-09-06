@@ -38,6 +38,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Active_Inference_Topology]]
 [[AdaptiveGraphDiffusion]]
 [[Adaptive_Intelligence_Principle]]
+[[Adaptive_Service_Orchestration]]
 [[Additive_Manufacturing_Topology]]
 [[AdiabaticModeEvolution]]
 [[AdiabaticMultimodeBend]]

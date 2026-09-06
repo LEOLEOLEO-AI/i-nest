@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AcademicDevelopmentCoCreation]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Baseline_Draft_Status]]
+[[Bosonic_SPT_Phases]]
 [[BoundaryObject_Abstraction]]
 [[Closed_Loop_Neuromodulation]]
 [[CoexistencePhaseDiagram]]

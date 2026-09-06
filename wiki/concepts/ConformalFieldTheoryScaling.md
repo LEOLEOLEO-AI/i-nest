@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[CommunicationTopologyMismatch]]
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
+[[Dynamic_Neuron_Activation_Prediction]]
 [[EntanglementSignatures]]
 [[GeometricRegularizationLoss]]
 [[Hippocampal_Encoding_Mechanism]]

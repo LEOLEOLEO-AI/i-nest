@@ -64,6 +64,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[ScaleFreeNetwork]]
 [[SelfHealing_Interconnect]]
+[[SpaceToUndersea_ResilientComms]]
 [[SuperparamagneticSwitchingRate]]
 [[Synaptic_Plasticity]]
 [[TCC]]

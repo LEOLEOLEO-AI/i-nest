@@ -61,6 +61,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Reservoir_Computing]]
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
+[[SDI节点接口规范与化合键定义]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[ScaleFreeNetwork]]

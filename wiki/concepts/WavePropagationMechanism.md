@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[NCCL_CollectivePrimitives]]
 [[Network_Topology_Design]]
 [[ScaleHierarchy_Decomposition]]
+[[Switch_Bottleneck]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]

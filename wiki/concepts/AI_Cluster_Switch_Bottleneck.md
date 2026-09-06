@@ -57,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[Representation_Learning_Generalization]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
+[[STDP_Plasticity]]
 [[SpikingTopologyEvolution]]
 [[Spiking_Neural_Network]]
 [[SuperparamagneticSwitchingRate]]
@@ -72,6 +73,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Neuromorphic]]
 [[Wafer_Scale_Neuromorphic_Integration]]
 [[complex system]]
+[[三原理协同_FEP_STDP_最小作用量]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[神经网络]]
 

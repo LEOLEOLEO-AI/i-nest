@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[STDP_Plasticity]]
+[[STDP_iNEST]]
 [[Scale_Dependent_Coherence]]
 [[SelfOrganization]]
 [[SpikeEncoding]]

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[BiologicalNoiseMimicry]]
 [[BrainActivityPrediction]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
+[[CoDesigned_SNN]]
 [[CombinedImportanceScoring]]
 [[Complexity_Emergence]]
 [[CrashHotspotForecasting]]

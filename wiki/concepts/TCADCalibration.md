@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[IntegratedSensingFusion]]
 [[Intelligence_Emergence]]
 [[InterconnectAwareGradientAggregation]]
+[[MachineLearningPotential]]
 [[MeanFieldSpinGlass]]
 [[MetricComputationAuthenticity]]
 [[Microbiome_Immune_Endocrine_Interplay]]

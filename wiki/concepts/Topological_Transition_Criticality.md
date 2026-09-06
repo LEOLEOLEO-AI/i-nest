@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveArchitecture]]
 [[AdaptiveCombinerWeighting]]
 [[AgenticServiceOrchestration]]
+[[AnalogDomainCompression]]
 [[Ant_Swarm_Functional_Control]]
 [[Asymptotic_Exact_Solution]]
 [[Chiplet]]

@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[AutonomousCircuitMorphogenesis]]
 [[BCM滑动阈值]]
 [[Biocompatible_Neuromorphic_Interface]]
+[[CollectiveStabilityMetric]]
 [[Complex_System_Theory]]
 [[EGO_Architecture]]
 [[Intelligence_Emergence]]

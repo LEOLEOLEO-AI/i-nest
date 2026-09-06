@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[GlobalDecision_LocalExecution_ControlPlane]]
 [[GraphBasedSemanticRouting]]
+[[Heterogeneous_3D_Stacking]]
 [[Heterogeneous_Integration]]
 [[HighThroughputParticleRouting]]
 [[Inference_Flow_Stage_Aware_Topology]]

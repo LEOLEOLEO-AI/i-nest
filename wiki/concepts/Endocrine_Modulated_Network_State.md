@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[InfluencePropagationLoop]]
 [[Intelligence_Emergence]]
 [[IntrinsicTimingSTDP]]
+[[JunctionSignalIntegrity]]
 [[Memristive_STDP]]
 [[Memristive_Topology]]
 [[NetworkDynamicalStabilization]]

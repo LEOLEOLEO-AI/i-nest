@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[QuantumReservoirStateReadout]]
 [[ReservoirComputingForOptimization]]
 [[ReservoirYield]]
+[[Reservoir_Closure_Property]]
 [[Reservoir_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]

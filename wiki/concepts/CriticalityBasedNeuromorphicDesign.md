@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Architecture]]
 [[CriticalStateDynamics]]
 [[Criticality]]
+[[EventBasedMotionDeblurring]]
 [[Neural_Avalanche]]
 [[Neuromorphic_Computing]]
 [[SNN]]

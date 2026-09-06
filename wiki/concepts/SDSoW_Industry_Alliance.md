@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Network]]
 [[Memristor_Synapse]]
 [[Mesoscale_Heterogeneous_Integration]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[National_Mesoscale_Innovation_Center]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]

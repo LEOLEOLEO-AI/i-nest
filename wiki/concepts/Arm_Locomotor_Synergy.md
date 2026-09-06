@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[DendriticTaskPartitioning]]
 [[ExcitatoryInhibitoryOscillatoryNetwork]]
 [[HierarchicalSpikePropagation]]
+[[HodgkinHuxleyDynamics]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[SolitonLikeWaves]]

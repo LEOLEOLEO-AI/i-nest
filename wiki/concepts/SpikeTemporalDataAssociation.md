@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[JunctionSignalIntegrity]]
 [[Local_Plasticity]]
 [[Local_Plasticity_Rule]]
+[[ManyBodyLocalizationThermalizationDuality]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]

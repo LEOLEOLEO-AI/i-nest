@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Intelligent_Power_Management]]
 [[JunctionCenteredFramework]]
+[[MachineLearningPotential]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Microbiome_Immune_Endocrine_Interplay]]

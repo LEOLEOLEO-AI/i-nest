@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CorticalWaveRouting]]
 [[CrossLayer_SignalRouting]]
 [[ErrorAmplificationLimits]]
+[[EventCameraActionRecognition]]
 [[EventCameraTemporalEncoding]]
 [[HigherOrderAvalanche]]
 [[In_Network_Neuromorphic]]

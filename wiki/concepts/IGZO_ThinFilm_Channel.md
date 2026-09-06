@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveFlexibilityThreshold]]
 [[Adaptive_Deep_Brain_Stimulation]]
 [[Amorphous_Amorphous_Transition]]
+[[AnisotropicGaussianPrimitives]]
 [[FlexibilityThreshold]]
 [[Neuromorphic_Computing]]
 [[SNN]]

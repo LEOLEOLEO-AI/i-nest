@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AIRA_NeuralArchSearch]]
 [[AI_Faculty_Forum_2026]]
 [[Allreduce_Latency_Probe]]
 [[AnomalousSpinTransport]]
@@ -35,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]
 [[InNetworkNeuromorphicEmergence]]
+[[InNetworkNeuromorphic]]
 [[In_Network_Neuromorphic]]
 [[Intelligence_Emergence]]
 [[Memristor]]

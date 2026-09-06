@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AdvancedPackagingInterconnect]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
 [[Chiplet_NoC_Fabric]]
 [[Chiplet_Stacking]]
 [[HBM_Replacement_Interconnect]]
@@ -42,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_Topology]]
 [[TCC]]
+[[TSV_Interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

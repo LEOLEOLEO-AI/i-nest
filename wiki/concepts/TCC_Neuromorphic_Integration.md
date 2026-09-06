@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Energy_Aware_Learning]]
 [[Neuromorphic_Integration]]
 [[P_Paradigm]]
 [[RecursiveSelfReferentialArchitecture]]

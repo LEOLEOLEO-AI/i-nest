@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Discrete_Event_Spike_Simulation]]
 [[EventDrivenRiskAssessment]]
 [[EventDrivenTemplateUpdate]]
+[[EventDriven_AsyncCircuit]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
 [[Oscillatory_MultiObjective_Optimization]]

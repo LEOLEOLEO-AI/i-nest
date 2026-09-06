@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[GroupInteractionThreshold]]
 [[Intelligence_Emergence]]
+[[LatencyCoding]]
 [[MagneticMetamaterialReservoir]]
 [[MeasurementInducedNonlinearity]]
 [[Memristive_STDP]]

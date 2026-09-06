@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Collective_Offloading]]
 [[Complex_System_Theory]]
 [[EulaminateOverrepresentation]]
+[[HardwareAware_SelfOrganization]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Interposer_Level_Power_Distribution]]

@@ -43,7 +43,9 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Intelligent_Computing_Infrastructure]]
+[[L2_L3_Reconfigurability]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Microgrid_Optimization]]
 [[MitigationLayers]]
@@ -65,6 +67,7 @@ Auto-extracted concept from raw material compilation.
 [[ThermallyDrivenSuperparamagnetReservoir]]
 [[ThermallyDrivenSuperparamagneticReservoir]]
 [[chiplet interconnect]]
+[[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources

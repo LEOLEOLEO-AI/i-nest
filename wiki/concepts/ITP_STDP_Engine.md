@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AdaptiveSTDP]]
+[[AdaptiveSpeechToSpikeEncoding]]
 [[Bidirectional_Temporal_Enhancement]]
 [[DiscreteSTDP]]
 [[ITP_STDP]]

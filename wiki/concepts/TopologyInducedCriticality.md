@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[Dynamic_Expert_Fusion]]
 [[FiniteSizeTopologicalPhase]]
+[[GNN图神经网络，非结构化数据分析利器！]]
 [[Intelligence_Emergence]]
 [[Memristive_STDP]]
 [[Network_Topology_Design]]

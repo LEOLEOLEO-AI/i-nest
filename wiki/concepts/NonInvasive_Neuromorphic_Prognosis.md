@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Avoided_Criticality]]
 [[BCM滑动阈值]]
+[[CST_Synergy_Coordination]]
 [[CST_Theory]]
 [[CST_Theory_V27_FINAL]]
 [[Complex_System_Theory]]

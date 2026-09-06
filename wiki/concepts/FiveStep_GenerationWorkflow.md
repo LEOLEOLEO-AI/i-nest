@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[EvolvingArchitectureDynamics]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[GroupInfluenceThreshold]]
+[[HybridCouplingThermosensitiveNetwork]]
 [[InNetworkComputing]]
 [[Interconnect_Routing]]
 [[Local_Approximation_Dynamics]]

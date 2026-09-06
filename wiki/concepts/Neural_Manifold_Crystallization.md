@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossLayer_SignalRouting]]
 [[DARPA_ProjectManager_Model]]
 [[Dynamic_Expert_Routing]]
+[[Efficient_Coding_Constraint]]
 [[ExplainableEnergyAI]]
 [[HierarchicalSpikePropagation]]
 [[HighThroughputPhenotyping]]

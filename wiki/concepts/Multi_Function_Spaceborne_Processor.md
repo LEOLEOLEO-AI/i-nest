@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Bond_Operation_Algebra]]
 [[Chemical_Bond_Operation_Algebra]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -32,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[InSitu_Adjoint_Wave_Control]]
 [[Inference_Stage_Decomposition]]
+[[Inference_Workload_Profiling]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]

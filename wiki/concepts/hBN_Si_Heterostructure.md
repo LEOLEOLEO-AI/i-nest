@@ -32,7 +32,9 @@ Auto-extracted concept from raw material compilation.
 [[National_Innovation_Center_Framework]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Wafer]]
+[[SDI_Bond]]
 [[SDI_iNEST_CoPackaging]]
+[[SDI_iNEST_Wafer]]
 [[iNEST]]
 
 ## Sources

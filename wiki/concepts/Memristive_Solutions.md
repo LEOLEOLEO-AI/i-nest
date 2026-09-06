@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[FlexibilityThreshold]]
 [[Hardware_Accelerated_SNN]]
 [[HippocampalNeocorticalIntelligence]]
+[[InNetworkNeuromorphicEmergence]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Memristive_Device_Threats]]

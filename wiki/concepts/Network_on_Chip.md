@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Evolutionary_Computability]]
 [[Evolutionary_Structure_Computability]]
 [[Exponential_CST_Coupling]]
+[[FlagOS_2_0]]
 [[FlagScale]]
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
@@ -70,6 +71,7 @@ Auto-extracted concept from raw material compilation.
 [[Second_Curve_Wafer_Industry_Platform]]
 [[Spacetime_Coupling_Coefficient]]
 [[SpatiotemporalComplexityIndex]]
+[[Spatiotemporal_Synergy]]
 [[Spatiotemporal_Synergy_Complexity]]
 [[SuperlinearGain]]
 [[Synaptic_Plasticity]]
@@ -89,3 +91,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- Network_on_Chip (merged 2026-09-07)

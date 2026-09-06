@@ -56,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[NestedRepresentation]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
+[[PostVonNeumannIntelligence]]
 [[PrecisionConfigurableSparseNvCIM]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SOC]]

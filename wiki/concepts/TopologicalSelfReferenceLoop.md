@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[BandedNonHermitianRandomMatrix]]
 [[Barrier_Hierarchy]]
 [[Barrier_Hierarchy_Topology]]
+[[BayesianDiffusionGeneralizationPhaseTransition]]
 [[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]
 [[Intelligence_Emergence]]

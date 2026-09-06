@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[QuantumReservoirMemoryCapacity]]
 [[Readout_Weight_Training]]
 [[RecursiveSelfReferentialArchitecture]]
+[[RenormalizationGroupIntelligence]]
 [[Reservoir_Computing]]
 [[ScaleFreeNetwork]]
 [[SpatiotemporalComplexityIndex]]

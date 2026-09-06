@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
+[[Hebbian_Embedding_Dynamics]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Loihi2_SpikeEncoding]]

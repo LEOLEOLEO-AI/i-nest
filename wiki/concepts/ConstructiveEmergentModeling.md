@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC]]
+[[OptimalControlPolicyLearning]]
 [[Photopolymerization_NoC]]
 [[TCC]]
 [[涌现]]

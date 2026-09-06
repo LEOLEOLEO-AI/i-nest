@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalExponentGamma]]
 [[CriticalityInducedComputationalCapacity]]
 [[Criticality]]
+[[CrossEntityPreemptiveWarning]]
 [[SNN]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]

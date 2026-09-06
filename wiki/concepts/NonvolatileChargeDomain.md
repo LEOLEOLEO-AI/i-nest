@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Edge_of_Chaos]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
+[[EnergyEfficiencyAI]]
 [[EventDrivenRiskAssessment]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]

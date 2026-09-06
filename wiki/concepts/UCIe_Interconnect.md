@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Heterogeneous_Integration]]
+[[Intelligent_Computing_Infrastructure]]
 [[Interconnect_Routing]]
 [[Interconnect_Topology]]
 [[Memory_Wall]]

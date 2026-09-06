@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[PolychronousNeuronalGroups]]
 [[SDI_Bond]]
 [[SDI_STDP]]
+[[SDI_STDP_Fusion]]
 [[SDI_STDP_Topology]]
 [[SNN]]
 [[SNN_STDP_CoDesign]]

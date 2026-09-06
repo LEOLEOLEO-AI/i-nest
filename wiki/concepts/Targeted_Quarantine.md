@@ -61,6 +61,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]
 [[SDI_Interconnect]]
+[[SDI_Topology]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[advanced packaging]]

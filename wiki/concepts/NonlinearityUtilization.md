@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[ComputationEfficientDeepLearning]]
 [[Deep_Network_Architecture_Invariant]]
+[[Drosophila_FC2_Circuit]]
 [[EfficientDeepLearning]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]

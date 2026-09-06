@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenRiskAssessment]]
+[[EventDrivenTracking]]
 [[Event_Driven_Architecture]]
 [[Event_Driven_Communication]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
@@ -45,7 +46,6 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
-[[Neuromorphic_Interconnect]]
 [[Neuromorphic_Selective_State_Space]]
 [[Neuromorphic_Sensor_Fusion]]
 [[RecursiveSelfReferentialArchitecture]]
@@ -61,6 +61,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC_SpikingIntegration]]
 [[advanced packaging]]
 [[iNEST]]
+[[neuromorphic interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

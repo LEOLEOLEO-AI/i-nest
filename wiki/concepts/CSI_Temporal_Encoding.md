@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[OpenBenchmarkingFramework]]
 [[Photonic_Chiplet_Interconnect]]
 [[PrecisionConfigurableSparseNvCIM]]
+[[PropertyPredictionModeling]]
 [[Reservoir_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]

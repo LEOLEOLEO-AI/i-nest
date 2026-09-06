@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[Nonlinear_Gain]]
+[[OpenSource_Neuromorphic_Framework]]
 [[P_Paradigm]]
 [[PersonalizedSNNTransfer]]
 [[PersonalizedSNN]]

@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[JunctionSignalIntegrity]]
 [[Neuromorphic_Computing]]
 [[NonEquilibriumPhase]]
+[[ResonateAndFireEncoding]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]
 [[SpikeEncoding]]

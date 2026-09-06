@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Network_Architecture_Invariant]]
 [[EfficientDeepLearning]]
 [[HierarchicalSpatiotemporalProcessing]]
+[[Intelligent_Emergence_Computing]]
 [[Intelligent_Power_Management]]
 [[Interconnect_Routing]]
 [[Memristive_Interconnect]]

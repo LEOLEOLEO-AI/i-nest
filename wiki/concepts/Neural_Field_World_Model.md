@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
+[[EnsembleCreditAssignment]]
 [[FlexibilityThreshold]]
 [[FrozenRateOperator]]
 [[Intelligence_Emergence]]

@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[LIF_Neuron_Model]]
 [[LowBitSpikingPruning]]
 [[MembranePotentialDynamics]]
+[[Memristive_InMemory_Computing]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Metriplectic_Twin]]

@@ -64,6 +64,7 @@ Auto-extracted concept from raw material compilation.
 [[SpatiotemporalComplexityIndex]]
 [[SpontaneousOrderMechanism]]
 [[Structural_Mismatch]]
+[[SwarmGradientRouting]]
 [[TemporalComplexity]]
 [[analog computation]]
 [[chiplet interconnect]]

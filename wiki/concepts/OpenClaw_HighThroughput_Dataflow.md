@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Stacking]]
 [[DARPA_ProjectManager_Model]]
 [[DisturbancePropagationPath]]
+[[ElectronicPhotonicIntegratedCircuit]]
 [[Heterogeneous_Integration]]
 [[SNN]]
 [[Spiking_Neural_Network]]

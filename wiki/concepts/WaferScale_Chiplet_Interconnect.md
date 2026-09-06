@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[DiagnosticReportFramework]]
 [[EulaminateOverrepresentation]]
 [[FullDimensionalDefinableInterconnect]]
+[[GlobalDecision_LocalExecution_ControlPlane]]
 [[Heterogeneous_Integration]]
 [[Intelligent_Computing_Infrastructure]]
 [[Interconnect_Routing]]

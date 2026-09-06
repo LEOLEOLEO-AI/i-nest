@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[OptimalGeneralisationNearInterpolation]]
 [[QuantumStateSynapticTrace]]
 [[Synaptic_Plasticity]]
 [[advanced packaging]]

@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspired_Interception_Control]]
 [[BioPlausibleDisturbanceObserver]]
 [[BurstGatedRouting]]
+[[BurstSuppressionMechanism]]
 [[Cognitive_Relapse_Decoupling]]
 [[Continual_Learning_Modularity]]
 [[ContinuousControlConversion]]
@@ -45,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[MoE_Routing]]
 [[Neuromorphic_Computing]]
 [[OptimalRepresentation]]
+[[Quantum_Criticality]]
 [[Self_Organized_Criticality]]
 [[iNEST]]
 

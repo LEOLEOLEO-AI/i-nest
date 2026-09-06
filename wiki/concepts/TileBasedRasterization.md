@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
 [[Cognitive_Relapse_Architecture]]
+[[CommunicationHeterogeneity]]
 [[Complex_System_Theory]]
 [[Decoupling_Mechanism]]
 [[DynamicInference]]

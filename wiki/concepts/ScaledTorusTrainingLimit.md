@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[DistinctReentrantPhases]]
 [[ERI_2_0_Strategy]]
 [[EndToEndDesignAutomation]]
+[[HeavyTailedWaitingTimes]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[MachineLearningPotential]]

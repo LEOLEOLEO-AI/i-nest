@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Baseline_Draft_Status]]
 [[CausalEmergenceCondition]]
+[[Closed_Loop_Neuromodulation]]
 [[Complex_System_Theory]]
 [[CriticalWeightNormBoundary]]
 [[CrossLayer_SignalRouting]]

@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Bipartite_Interconnect]]
 [[Bipartite_Interconnect_Design]]
+[[CST_Spatiotemporal_Coefficient]]
 [[DendriticTaskPartitioning]]
 [[EmergentOrder]]
 [[ExcitatoryInhibitoryOscillatoryNetwork]]

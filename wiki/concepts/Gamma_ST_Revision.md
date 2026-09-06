@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[SuperparamagneticSwitchingRate]]
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
+[[Synchronization_Overhead_Mitigation]]
 [[TCC]]
 [[iNEST]]
 [[temporal coding]]

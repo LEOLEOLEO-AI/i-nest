@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3DHI_Chiplet_Integration]]
+[[3D_Heterogeneous_Integration]]
 [[3d]]
 [[AI_Driven_Architecture_Search]]
 [[AI_Faculty_Forum_2026]]
@@ -43,3 +44,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- CST_Intelligence_Emergence_Theory (merged 2026-09-07)

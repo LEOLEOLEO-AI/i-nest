@@ -28,6 +28,8 @@ Auto-extracted concept from raw material compilation.
 [[ChipletWaferInterconnectScaling]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration_Route]]
+[[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Memory_Wall]]
 [[Neuromorphic_Computing]]

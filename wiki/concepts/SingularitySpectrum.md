@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_iNEST]]
 [[Scale_Dependent_Coherence]]
 [[Synaptic_Plasticity]]
+[[Syncytial_Mesh_Model]]
 [[iNEST]]
 
 ## Sources

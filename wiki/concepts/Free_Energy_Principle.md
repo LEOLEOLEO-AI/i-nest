@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveDendriteSNN]]
 [[Active_Inference_Agent]]
 [[Asymmetric_Electrode_Structure]]
+[[BrownianCastleInterface]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]

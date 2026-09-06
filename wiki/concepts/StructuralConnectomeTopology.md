@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[DataProvenanceIntegrity]]
 [[DeviceConductanceTuning]]
 [[FrozenRateOperator]]
+[[Krakencoder_Embedding]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[MushroomBodyModes]]

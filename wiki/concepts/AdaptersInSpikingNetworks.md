@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[EntropyRegularizedSpikeLoss]]
 [[FirstPrinciples_Derivation]]
 [[FirstSpikeTime]]
+[[FixedOverheadCost]]
 [[Fragmentation_Reduction]]
 [[GroupCoding]]
 [[HippocampalNeocorticalIntelligence]]

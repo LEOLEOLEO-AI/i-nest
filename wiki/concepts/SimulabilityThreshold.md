@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[AsymmetricStochasticInteractions]]
 [[AttentionMap_DifferenceResidual]]
+[[BackpropFree_Learning]]
 [[CST_CoordinationMechanism]]
 [[CST计量仪]]
 [[CausalEmergenceCondition]]

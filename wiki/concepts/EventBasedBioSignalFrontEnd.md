@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenDefenseMechanism]]
 [[EventDrivenGraphTraversal]]
 [[EventDrivenInference]]
+[[EventDriven_Edge_Perception]]
 [[Event_Driven_Architecture]]
 [[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Scheduling]]

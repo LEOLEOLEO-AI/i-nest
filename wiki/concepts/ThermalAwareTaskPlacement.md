@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[CrystalPalace_Program]]
 [[Crystallized_Neural_Manifolds]]
 [[DARPA_ProjectManager_Model]]
+[[Deep_Network_Layer_Stacking]]
 [[Deep_Thermalisation]]
 [[DendriticReservoirState]]
 [[Dendritic_Compartmentalization]]

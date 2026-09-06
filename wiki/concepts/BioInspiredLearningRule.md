@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[Brain_Connectome]]
 [[ChannelEventSparsity]]
+[[Chiplet_Integration_Route]]
 [[ConnectomeFidelityClaim]]
 [[Connectome]]
 [[Contested_Priors_Mechanism]]

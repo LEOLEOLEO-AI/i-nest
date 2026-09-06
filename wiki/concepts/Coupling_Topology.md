@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CouplingTopologyMemoryLink]]
 [[CriticalStateReservoir]]
 [[Crystallized_Embedding_Reservoir]]
+[[Crystallized_Neural_Manifolds]]
 [[CytoarchitectonicAxis]]
 [[DataDrivenCytoarchitectonicAxis]]
 [[DiscreteScaleInvariance]]

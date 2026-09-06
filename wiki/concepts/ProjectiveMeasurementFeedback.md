@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[BrainBodyResonance]]
 [[BurstTemporalPlasticity]]
 [[CascadedAdaptiveCombiners]]
+[[ClocklessReconfigurableChip]]
 [[CompartmentalizedSpikeIntegration]]
 [[CompetitiveProgramDynamics]]
 [[Contested_Priors_Mechanism]]

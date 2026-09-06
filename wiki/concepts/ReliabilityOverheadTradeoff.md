@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[CommunicationHeterogeneity]]
 [[Complex_System_Theory]]
 [[Cryogenic_Syndrome_Compression]]
+[[DirectConnect_Topology]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]

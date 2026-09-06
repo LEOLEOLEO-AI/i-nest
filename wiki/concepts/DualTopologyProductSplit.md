@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[LLM_Assisted_Hardware_Design]]
+[[MachineLearningPotential]]
 [[MemristiveMEMSResonator]]
 [[Milinkovic B (2024)：复杂神经系统涌现动力学结构]]
 [[MultiTechnologyInspectionFusion]]

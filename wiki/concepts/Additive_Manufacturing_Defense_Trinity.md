@@ -56,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[Parallelized_Hierarchical_Connectome]]
 [[PowerLawScaling]]
+[[Quantum_Feature_Map]]
 [[RecursiveSelfReferentialArchitecture]]
 [[TopologicalAndersonChernInsulator]]
 [[complex system]]

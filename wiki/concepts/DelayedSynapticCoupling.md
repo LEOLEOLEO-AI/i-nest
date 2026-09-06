@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[BCM滑动阈值]]
 [[BoundaryContract]]
 [[CST_Synergy_Coordination]]
+[[CST_Theory_V27_FINAL]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
 [[Criticality]]

@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[ClassificationPerformance]]
 [[ClinicalPredictionMapping]]
+[[CoEvolvedSpikingEnsembles]]
 [[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence]]

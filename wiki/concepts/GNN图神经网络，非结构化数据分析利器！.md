@@ -28,6 +28,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Alpha_Computation_Consistency]]
 [[BCM滑动阈值]]
 [[CST_Theory]]
+[[CST_Theory_V27_FINAL]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]

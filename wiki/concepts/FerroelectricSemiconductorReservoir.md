@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Neural_Network_Quantum_State_Transfer_Learning]]
 [[Neuromorphic_Computing]]
 [[NonEquilibriumComputing]]
+[[NonlinearPhotonicNode]]
 [[Nonlinear_Gain]]
 [[PhotoInducedCurrent]]
 [[RecursiveSelfReferentialArchitecture]]

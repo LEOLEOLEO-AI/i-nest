@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[CouplingTopologyMemoryLink]]
 [[Coupling_Topology]]
 [[CriticalStateReservoir]]
+[[Crystallized_Neural_Manifolds]]
 [[DiscreteScaleInvariance]]
 [[Fixed_Reservoir_Unitary]]
 [[InNetworkSignalRecovery]]

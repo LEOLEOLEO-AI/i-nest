@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
+[[CriticalFluctuationReservoir]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]

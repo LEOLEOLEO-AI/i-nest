@@ -1,0 +1,30 @@
+
+============================================================
+  iNEST + TCC Research Pipeline v3.3
+  2026-09-06 11:50
+============================================================
+[11:50:30] [S2] Searching Semantic Scholar (19 queries)...
+[11:50:56]   S2: 429 rate limited; skip S2 for this run and continue with arXiv/GN
+[11:50:56] [arXiv] Searching arXiv (via proxy, 21 queries)...
+[11:50:58]   arXiv skip irrelevant: SENTINEL-RL: Offloading Topological Reasoning from LLM Agent
+[11:50:58]   arXiv skip irrelevant: Bernstein--von Mises theorems for Bayesian probabilistic num
+[11:50:58]   arXiv skip irrelevant: Tunable topological enhancement of covariant quantum Fisher 
+[11:51:12]   arXiv skip irrelevant: THz-SynC: Collective Synthesis with Contextual-Bandit-Assist
+[11:51:12]   arXiv skip irrelevant: Designing corrugated surfaces to guide colloidal self-assemb
+[11:51:12]   arXiv skip irrelevant: Every Kernel Is a Join: Automatic Multi-GPU Parallelism for 
+[12:28:44]   arXiv skip irrelevant: Stable and Scalable Bundle Adjustment of Holistic 3D Structu
+[12:28:44]   arXiv skip irrelevant: Common-Witness Certificates and Sharp Feature Bounds for Cou
+[12:28:44]   arXiv skip irrelevant: Approximate maximum-likelihood decoding via truncated free e
+[12:28:51]   arXiv skip irrelevant: Formation Matrix and Energy-based Control of Multi-Agent Sys
+[12:28:51]   arXiv skip irrelevant: Quantifying Power to Voltage and Frequency Dynamics for Osci
+[12:28:51]   arXiv skip irrelevant: Hosting Capacity Assessment of Data Centers with Voltage Rid
+[12:28:56]   arXiv: batch separator, pausing 10s...
+[12:29:09]   arXiv skip irrelevant: THz-SynC: Collective Synthesis with Contextual-Bandit-Assist
+[12:29:09]   arXiv skip irrelevant: Employing the Structural Power to Achieve Supply-Demand Bala
+[12:29:09]   arXiv skip irrelevant: PPO-STGNN: A Proximal Policy Optimization Approach with Spat
+[12:29:15]   arXiv skip irrelevant: THz-SynC: Collective Synthesis with Contextual-Bandit-Assist
+[12:29:15]   arXiv skip irrelevant: From Prior-Guided Heuristics to Deployable Agents: Accelerat
+[12:29:15]   arXiv skip irrelevant: Integrating Wi-Fi into 3GPP 5G Network Slicing: An Experimen
+[12:29:25]   arXiv skip irrelevant: GIFT: Guided Intermediate Feature Training via Action-Orient
+[12:29:25]   arXiv skip irrelevant: B(E2) Serves as a Robust Signature of N = 32,34 Shell Evolut
+[12:29:25]   arXiv skip irrelevant: Effective Hamiltonian description on monitored Majorana chai

@@ -58,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Encoding_of_fMRI]]
 [[Spiking neural network]]
 [[SpikingBrain-1_0_类脑脉冲大模型的革命性突破_]]
+[[SpikingNeuronOptimization]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]

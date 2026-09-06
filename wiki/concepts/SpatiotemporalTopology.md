@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
+[[ClassicalQuantum_Query_Benchmark]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Synaptic_Plasticity]]

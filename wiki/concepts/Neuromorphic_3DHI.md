@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[NoiseDrivenBackpropReconstruction]]
+[[OpinionDrivenVaccination]]
 [[PredictiveCodingVariationalFreeEnergy]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]

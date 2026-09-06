@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CommunicationAsComputation]]
 [[GlobalDecision_LocalExecution_ControlPlane]]
 [[Heterogeneous_Integration]]
+[[Integrated_Cooling]]
 [[Interconnect_Topology]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[MicroRouter_Embedding]]

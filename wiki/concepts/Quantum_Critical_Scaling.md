@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[03 涌现：整体的能力不能还原回个体？ - 得到APP]]
+[[3D_Torus_6_Degree]]
 [[ArbitraryWavefunctionConfigurability]]
 [[CST_Equation]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
@@ -56,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
+[[神经形态计算]]
 [[神经形态计算突破：脉冲神经网络实现机器人超低功耗定位新范式]]
 [[神经网络]]
 [[类脑芯片]]

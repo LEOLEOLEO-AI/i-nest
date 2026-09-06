@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Network_Architecture_Invariant]]
 [[DelayTolerantNetworkUAV]]
 [[FiringRateAdaptation]]
+[[Fixed_Cost_Dominance]]
 [[Independent_EdgeAI_Player_Endgame]]
 [[LLM_Reward_Design]]
 [[Memristive_Interconnect]]

@@ -62,12 +62,14 @@ Auto-extracted concept from raw material compilation.
 [[SOC]]
 [[SiC_GaN_Power_Integration]]
 [[SparseTemporalEncoding]]
+[[Spatiotemporal_Synergy]]
 [[State_Transition_Formalism]]
 [[SystemLevelNonlinearity]]
 [[TCC]]
 [[Textbook_Paradigm_Definition]]
 [[TopologicalAndersonChernInsulator]]
 [[TopologyCentricEngineeringBase]]
+[[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3DHI_Interconnect]]
+[[3D_IC_Stacking]]
 [[3d]]
 [[Additive_Manufacturing_Topology]]
 [[AdvancedPackagingInterconnect]]
@@ -49,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[Photonic_Chiplet_Interconnect]]
 [[SDI_Bond]]
+[[SDI_NPU_NoC_Integration]]
 [[SDI_Topology]]
 [[SDSoW]]
 [[SDSoW_Architecture]]

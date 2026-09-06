@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[NoiseInducedPhaseLocking]]
 [[On_Chip_STDP_Learning]]
 [[PhaseLockedTopologyMapping]]
+[[PhaseSynchronizationDetection]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]
 [[SDI_STDP]]

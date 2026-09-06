@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Constructed_Reality_Prior]]
 [[DendriticTaskPartitioning]]
 [[EventCameraActionRecognition]]
+[[EventDriven_Interconnect]]
 [[FerroelectricDevice]]
 [[Ferroelectric_Devices]]
 [[FirstPrinciples_Derivation]]

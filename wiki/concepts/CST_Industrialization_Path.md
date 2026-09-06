@@ -28,8 +28,10 @@ Auto-extracted concept from raw material compilation.
 [[AI_Driven_Power_Density_Scaling]]
 [[ActionPrototypeClustering]]
 [[Activity_Dependent_Plasticity]]
+[[AnytimePointCloudRecognition]]
 [[Complex_System_Theory]]
 [[Neuromorphic_Computing]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
 

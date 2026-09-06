@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[DynamicInference]]
 [[ERI_2_0_Strategy]]
+[[Experiment_Seven_Eight_Nine_Planning]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

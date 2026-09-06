@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstCoding]]
 [[CascadedAdaptiveCombiners]]
 [[Complex_System_Theory]]
+[[ConceptualNetworkEmbedding]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]

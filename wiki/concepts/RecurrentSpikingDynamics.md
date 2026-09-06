@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
 [[Complex_System_Theory]]
+[[Constructed_Reality_Prior]]
 [[DeeplySupervisedSpiking]]
 [[Distributed_Spike_Communication]]
 [[Emergent_Intelligence]]

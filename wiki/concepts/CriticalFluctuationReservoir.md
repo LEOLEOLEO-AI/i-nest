@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Reservoir_Topology]]
 [[GroupInteractionThreshold]]
 [[Intelligence_Emergence]]
+[[LatencyCoding]]
 [[MagneticMetamaterialReservoir]]
 [[MeasurementInducedNonlinearity]]
 [[Memristive_STDP]]

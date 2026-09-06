@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[SelfMotivatedGrowth]]
 [[Self_Organized_Criticality]]
 [[Synaptic_Plasticity]]
+[[TopologyDrivenScalingLaw]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

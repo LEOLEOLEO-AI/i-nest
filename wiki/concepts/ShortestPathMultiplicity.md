@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[ProjectiveMeasurementRouting]]
 [[PropertyPredictionModeling]]
 [[RecursiveSelfReferentialArchitecture]]
+[[Resilient_Satellite_Constellations]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

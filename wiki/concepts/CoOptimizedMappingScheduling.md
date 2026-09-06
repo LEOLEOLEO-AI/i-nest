@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[EventBasedNeuralDecoding]]
 [[EventCameraTemporalPipeline]]
 [[EventDrivenMotionDeblurring]]
+[[EventDrivenVisualPipeline]]
 [[FirstTimestepConversion]]
 [[GPU_Cluster_SNN_Architecture]]
 [[GradientBasedLearningLocalization]]

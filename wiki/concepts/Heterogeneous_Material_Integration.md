@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_iNEST_CoPackaging]]
 [[WaferScaleMonolithicIntegration]]
 [[WaferScale_System]]
+[[Wafer_Scale_Packaging]]
 [[iNEST]]
 
 ## Sources

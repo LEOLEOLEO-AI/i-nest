@@ -26,7 +26,9 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_Integration]]
+[[CongestionAwareNoCPlacement]]
 [[GPU_Bottleneck_Relief]]
+[[Heterogeneous_Integration]]
 [[Microsecond_Link_Reconfiguration]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
@@ -38,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[ThreeLayerArchitecture]]
 [[TopologyCentricComputing]]
 [[TopologyProgramming]]
+[[Topology_Centric_Computing]]
 [[WaferScaleTopologyCentricComputing]]
 
 ## Sources

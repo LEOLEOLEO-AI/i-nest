@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_SDI_CoDesign]]
 [[NoC_SDI_Integration]]
 [[SDI_Bond]]
+[[SDI_NoC_Fusion]]
 [[TCC]]
 [[TwoDimensionalTransport]]
 [[WaferScale_Chiplet_Interconnect]]

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Faculty_Forum_2026]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
@@ -28,7 +29,9 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Interconnect_Topology]]
+[[Memristor]]
 [[Memristor_Interconnect]]
+[[Memristor_Synapse]]
 [[MicroRouter_Embedding]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]

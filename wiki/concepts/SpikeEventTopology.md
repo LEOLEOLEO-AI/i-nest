@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossLayer_SignalRouting]]
 [[DelayAwareSpikeEventDelivery]]
 [[DynamicTokenSparsity]]
+[[Edge_Neuromorphic_Compute]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[DualDrivenHybridNetwork]]
 [[EventDrivenMotionDeblurring]]
+[[FrequencyAdaptationMechanism]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Self_Organized_Criticality]]

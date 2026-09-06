@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Cryogenic_Syndrome_Compression]]
 [[DataProvenanceIntegrity]]
 [[Deep_Network_Architecture_Invariant]]
+[[Deep_Network_Layer_Stacking]]
 [[DynamicsMatchedReservoir]]
 [[Emergent_Reservoir_Topology]]
 [[Free_Energy_Principle]]

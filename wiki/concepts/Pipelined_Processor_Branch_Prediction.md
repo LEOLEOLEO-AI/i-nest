@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Application_Scenario_Reconstruction]]
 [[AgenticServiceManifesto]]
 [[AnalogDomainCompression]]
+[[AnalogInMemoryComputing]]
 [[BitPrecisionAwareScheduling]]
 [[CriticalityInducedTopology]]
 [[Criticality]]

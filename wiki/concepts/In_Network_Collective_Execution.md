@@ -31,9 +31,13 @@ Auto-extracted concept from raw material compilation.
 [[BioInspired_Interception_Control]]
 [[BurstGatedRouting]]
 [[CommunicationAwareComputeRelocation]]
+[[CriticalBranching]]
+[[Criticality]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Quantum_Criticality]]
+[[Self_Organized_Criticality]]
 [[TCC]]
 [[iNEST]]
 

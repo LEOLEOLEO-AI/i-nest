@@ -60,6 +60,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Yann LeCun：发现智能原理是AI的终极问题]]
 [[chiplet interconnect]]
 [[iNEST]]
+[[五层性能评估框架]]
 [[向大脑学习智能本质，探索通用 AI 的另一条可行路径]]
 [[在 FPGA 上实现并行脉冲神经网络（Spiking Neural Net）]]
 [[忆阻器]]

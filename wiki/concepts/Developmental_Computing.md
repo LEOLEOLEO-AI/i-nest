@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_Network_Brain_Inspired_Computing]]
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
+[[Connectome_Transfer]]
 [[Control_Field_Framework]]
 [[Crossbar_Programming]]
 [[Deep_Network_Architecture_Invariant]]

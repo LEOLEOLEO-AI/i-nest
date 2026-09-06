@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Evolutionary_Reservoir_Adaptation]]
 [[HardwareAware_DesignSpace]]
 [[Network_Topology_Design]]
+[[NonlinearDynamicsInMetamaterials]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
 [[TCC]]

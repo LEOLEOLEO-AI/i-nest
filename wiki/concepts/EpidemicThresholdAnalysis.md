@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[DisorderAwareDetection]]
 [[DisorderFreeAnomalousTransport]]
 [[DisorderInducedLocalization]]
+[[DisorderedQuasiperiodicPotential]]
 [[EpidemicThreshold]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

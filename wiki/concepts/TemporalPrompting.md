@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[ReconfigurableSNNTopology]]
 [[Reliability_As_Service]]
 [[SNN]]
+[[SelfOrganizationInContinuousMedia]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

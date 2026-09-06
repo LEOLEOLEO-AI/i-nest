@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Selection_Theorems]]
 [[Semantic_Least_Energy_Principle]]
+[[StochasticMultiAgentRL]]
 [[TopologicalAndersonChernInsulator]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]

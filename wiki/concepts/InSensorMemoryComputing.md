@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenTracking]]
 [[Event_Driven_Architecture]]
+[[GradientFreeSNNTraining]]
 [[In_Network_Generative_Inference]]
 [[In_Package_Neuromorphic_Integration]]
 [[Intelligence_Emergence]]

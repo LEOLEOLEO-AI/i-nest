@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[Criticality_of_Natural_Languages]]
 [[DisorderInducedEntanglementTransition]]
+[[DynamicalSelfDualCriticality]]
 [[Expert_Review_Arbitration]]
 [[Memristor]]
 [[Memristor_Synapse]]

@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Environmental_Capability_Context]]
 [[EventCameraTemporalEncoding]]
 [[ExtinctionDrivenMetastability]]
+[[FPGA_Accelerated_SNN]]
 [[Fast_Response_Actuator]]
 [[InteractingQuasiPeriodicChain]]
 [[Interconnect_Routing]]

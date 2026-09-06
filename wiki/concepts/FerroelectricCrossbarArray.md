@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[RecurrentSpikingDynamics]]
 [[SOC]]
 [[SelectorFreeHopfieldNetwork]]
+[[SensoryInMemoryComputing]]
 [[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

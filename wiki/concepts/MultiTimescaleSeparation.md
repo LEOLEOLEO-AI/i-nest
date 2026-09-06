@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[CriticalityComputationTradeoff]]
 [[Criticality]]
+[[Crystallized_Neural_Manifolds]]
 [[Deep_Thermalisation]]
 [[Intelligence_Emergence]]
 [[LongRangeNonlinearSigmaModel]]

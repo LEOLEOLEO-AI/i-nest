@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_Interconnect]]
 [[Chiplet_NoC_Interconnect]]
+[[Chiplet_Stacking]]
 [[Chiplet_Topology]]
 [[Chiplet_Topology_Mapping]]
 [[Chiplet_Topology_Packaging]]

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
+[[DataDrivenCellularAxis]]
 [[DataProvenanceIntegrity]]
 [[EmergentOrder]]
 [[GenerativeTopologyModels]]

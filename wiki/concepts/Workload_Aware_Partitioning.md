@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[ChiralSymmetryClasses]]
 [[CoPackagedOptics]]
 [[Complex_System_Theory]]
+[[Compute_In_Memory_Neuromorphic]]
 [[Heterogeneous_Integration]]
 [[Inference_Workload_Profiling]]
 [[Intelligence_Emergence]]

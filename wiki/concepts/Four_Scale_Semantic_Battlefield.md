@@ -20,6 +20,8 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Complex_Network_Class_Brain_Computing]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
@@ -31,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[SDSoW_Industry_Alliance]]
+[[SDSoW_Strategic_Planning]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[iNEST]]

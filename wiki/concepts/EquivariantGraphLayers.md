@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_ProjectManager_Model]]
 [[DTGA]]
 [[Decoupling_Mechanism]]
+[[Deep_Network_Layer_Stacking]]
 [[Deep_Thermalisation]]
 [[Evolutionary_Structure_Computability]]
 [[Free_Energy_Principle]]

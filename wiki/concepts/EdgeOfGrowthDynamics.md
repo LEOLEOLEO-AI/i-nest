@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[BioPlausibleDisturbanceObserver]]
 [[Catastrophic_Forgetting_Mitigation]]
 [[Cognitive_Relapse_Decoupling]]
+[[ConstraintDrivenSelfOrganization]]
 [[Contested_Priors_Architecture]]
 [[Continual_Learning_Modularity]]
 [[CriticalFixedPoint]]

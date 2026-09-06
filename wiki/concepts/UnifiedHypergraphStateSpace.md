@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[BigBrainCellularAxis]]
 [[CST_Spatiotemporal_Coefficient]]
+[[CollectiveSpikingDynamics]]
 [[Complex_System_Theory]]
 [[Contested_Prior_Resolution]]
 [[Emergent_Intelligence]]

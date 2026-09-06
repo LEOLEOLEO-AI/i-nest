@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Architecture]]
 [[Event_Driven_Computation]]
 [[ImpactFallDetection]]
+[[InteractingQuasiPeriodicChain]]
 [[Oncological_Digital_Twin]]
 [[SNN]]
 [[STDP_Plasticity]]

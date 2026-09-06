@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicServiceComposition]]
 [[EarlyExitInference]]
 [[ElectromigrationReliability]]
+[[GPU_Bottleneck_Relief]]
 [[GeneralIntelligenceSubstrate]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]

@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Dimensionality_Modularity_Tradeoff]]
 [[DynamicCentralitySteering]]
 [[EmergentRecurrentConnectivity]]
+[[Emergent_Order_Deep_Belief_Networks]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalFixedPoint]]
 [[CrossInstitutionalNetwork]]
 [[Crystallized_Neural_Manifolds]]
+[[DataDrivenMaterialDesign]]
 [[DendriticReservoirState]]
 [[DifferentiableLifting]]
 [[Epidemic_Mitigation_Strategy]]

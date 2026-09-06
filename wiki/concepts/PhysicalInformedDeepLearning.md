@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[LLM_TopologicalReplicationGap]]
 [[Machine_Decision_Speed_Advantage]]
+[[Material_Circularity]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicHardware]]

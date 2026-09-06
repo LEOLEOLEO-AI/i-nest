@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetwork_Neuromorphic]]
 [[InNetwork_Neuromorphic_Transform]]
 [[In_Network_Neuromorphic]]
+[[Memristive_Interconnect]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[RenormalizationGroup_ScalingLaws]]

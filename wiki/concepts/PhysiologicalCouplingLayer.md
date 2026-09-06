@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[DiscreteContinuous_Unification]]
 [[FormalLinguisticCompetence]]
 [[HierarchicalBayesianCommunityDetection]]
+[[Intelligence_Emergence]]
 [[MacroCriticalityEmergence]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Planning_Architecture]]
@@ -48,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Syncytial_Mesh]]
 [[Syncytial_Mesh_Model]]
+[[TopologyDrivenDynamics]]
 [[iNEST]]
 
 ## Sources

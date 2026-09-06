@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC]]
 [[NoC_EventRouting]]
 [[PacketRoutingForFPGAs]]
+[[PhysicalDesign_ReliabilityTradeoff]]
 [[QuarantineCostTradeoff]]
 [[ReputationPropagation]]
 [[SNN]]

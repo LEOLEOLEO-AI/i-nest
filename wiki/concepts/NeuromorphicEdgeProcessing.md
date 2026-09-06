@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicGraphAnomalyDetection]]
+[[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[Neuromorphic_Spiking_Integration]]

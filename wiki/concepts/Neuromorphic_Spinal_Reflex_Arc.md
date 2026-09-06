@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveSpikingPerception]]
 [[AdaptersInSpikingNetworks]]
 [[Alignment_Tax]]
+[[AllParallelNonVonNeumannArchitecture]]
 [[AstrocyteInspiredRepair]]
 [[AttentionGuidedEntropy]]
 [[BayesMarkovOrientationModel]]

@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[BackpropFree_Learning]]
 [[CoPackagedOptics]]
 [[Complex_System_Theory]]
+[[Compute_In_Memory_Neuromorphic]]
 [[Continual_Learning_Modularity]]
 [[Distributed_Intelligent_Manufacturing]]
 [[Dynamic_Expert_Fusion]]

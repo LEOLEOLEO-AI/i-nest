@@ -60,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Architecture]]
 [[SDSoW_Interface_Standard]]
 [[SelfOrganization]]
+[[SparseTemporalEncoding]]
 [[Switchless_Dragonfly_Topology]]
 [[advanced packaging]]
 [[chiplet interconnect]]

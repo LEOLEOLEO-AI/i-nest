@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
+[[Chiplet_Packaging]]
 [[Complex_System_Theory]]
 [[ComputeRelocationOverhead]]
 [[EndToEndLinkSimulation]]

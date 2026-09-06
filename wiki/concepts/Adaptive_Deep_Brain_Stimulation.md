@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[HippocampalNeocorticalIntelligence]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
+[[Intelligent_Emergence_Computing]]
 [[Interconnect_Routing]]
 [[Memristor]]
 [[Memristor_Synapse]]

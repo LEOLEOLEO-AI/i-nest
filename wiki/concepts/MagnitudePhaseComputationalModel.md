@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenRiskAssessment]]
 [[Event_Driven_Architecture]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
+[[FixedOverheadCost]]
 [[GeometricNeuromorphicFusion]]
 [[GradientBasedLearningLocalization]]
 [[In_Network_Neuromorphic]]

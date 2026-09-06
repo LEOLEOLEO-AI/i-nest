@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicInterconnectTopology]]
 [[NeuromorphicTransformerTopology]]
 [[Neuromorphic_Computing]]
+[[PropertyPredictionModeling]]
 [[ReconfigurableSpikingRouting]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]

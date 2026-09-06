@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[CommunicationOverlapMechanism]]
 [[Complex_System_Theory]]
 [[ComputeRelocationOverhead]]
+[[DataMovementMinimization]]
 [[EulaminateOverrepresentation]]
 [[FlagOS_2_0]]
 [[Free_Energy_Principle]]

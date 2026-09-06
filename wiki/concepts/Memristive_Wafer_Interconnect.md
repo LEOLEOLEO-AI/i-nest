@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[CrossbarArrayVLSI]]
+[[Heterogeneous_Integration]]
 [[Interconnect_Topology]]
 [[Memristor]]
 [[Memristor_Interconnect]]
@@ -36,7 +37,9 @@ Auto-extracted concept from raw material compilation.
 [[NoC]]
 [[NoC_Chiplet_iNEST_Wafer]]
 [[P_Paradigm]]
+[[RuntimeTopologyMapping]]
 [[Wafer_Scale_Integration]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

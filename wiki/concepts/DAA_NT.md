@@ -29,8 +29,11 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveBitPrecisionExploration]]
 [[AdaptiveFrequencyResonateFire]]
 [[AdaptiveSpeechToSpikeEncoding]]
+[[Adaptive_EW_Neuromorphic_Controller]]
 [[Dynamic_Sparse_Activation]]
 [[Neuromorphic_Computing]]
+[[SpikeEncoding]]
+[[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
 

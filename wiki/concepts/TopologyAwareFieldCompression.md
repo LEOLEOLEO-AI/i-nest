@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[GraphTopologyAnalysis]]
 [[Heterogeneous_Integration]]
 [[Historical_Batch_Data]]
+[[HubbardModelSimulation]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]

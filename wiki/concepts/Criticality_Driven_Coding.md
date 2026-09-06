@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Continuous_Control_Spiking_Stability]]
 [[CriticalityDrivenEfficientCoding]]
 [[CriticalityInNeuralNetworks]]
+[[CriticalityOffCriticalityTransition]]
 [[Criticality]]
 [[CrossEntityPreemptiveWarning]]
 [[DeepCode_AlgorithmExtraction]]

@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[ERI_2_0_Strategy]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
+[[Epithelial_Barrier_Integrity]]
 [[Fading_Memory_Property]]
 [[FunctionalInterfaceBlock]]
 [[Generalization_Bound_Spectra]]

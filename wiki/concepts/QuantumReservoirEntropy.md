@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_Exponential_Gain]]
 [[Complex_System_Theory]]
 [[CouplingMatrixRecovery]]
+[[Coupling_Topology]]
 [[Crystallized_Neural_Manifolds]]
 [[DataDrivenMaterialDesign]]
 [[DifferentiableLifting]]
@@ -44,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[ErrorSuppressedPipeline]]
 [[Evolving_System_Adaptation]]
 [[LargeDeviationTopologicalOrder]]
+[[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
 

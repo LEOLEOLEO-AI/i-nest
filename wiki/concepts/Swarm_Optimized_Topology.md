@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[EmergentTaskDecomposition]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
+[[Environmental_Induced_Memory]]
 [[ExponentialDenseAssociativeMemory]]
 [[Fading_Memory_Property]]
 [[FerroelectricTunnelingJunction]]

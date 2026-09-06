@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_InMemory_Processing]]
 [[AnisotropicTensileStrength]]
 [[AnteHoc_Explainability]]
+[[Backpropagation_Comparison]]
 [[CST计量仪]]
 [[CausalIntegrationPhi]]
 [[CentralityAsStateVariable]]

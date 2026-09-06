@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[DistinctReentrantPhases]]
 [[Distributed_Spike_Communication]]
 [[FeFET_Differential_BitCell]]
+[[FerroelectricSynapticArray]]
 [[GradientFreeLowRankTraining]]
 [[HeterogeneousSynapticDelays]]
 [[Heterogeneous_Integration]]

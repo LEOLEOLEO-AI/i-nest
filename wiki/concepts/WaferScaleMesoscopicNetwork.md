@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Brain_Connectome]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration_Route]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Connectome]]
 [[Cross_Node_Event_Propagation]]

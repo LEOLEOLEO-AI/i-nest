@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspiredLearningRule]]
 [[BurstTemporalPlasticity]]
 [[Complex_System_Theory]]
+[[DendriticTaskPartitioning]]
 [[DistinguishableHelium4]]
 [[DrivenDissipativeDynamics]]
 [[EventDrivenAttentionMasking]]

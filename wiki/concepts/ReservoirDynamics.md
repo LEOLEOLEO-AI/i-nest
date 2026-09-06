@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[CriticalFluctuationReservoir]]
+[[Deep_Network_Layer_Stacking]]
 [[DeviceLevelNonlinearityScaling]]
 [[DeviceLevelNonlinearity]]
 [[DissipativeQuantumReservoir]]
@@ -47,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[ReproducibleReservoirComputing]]
 [[Reservoir_Computing]]
 [[STDP_Plasticity]]
+[[Synaptic_Plasticity]]
 [[complex system]]
 [[iNEST]]
 

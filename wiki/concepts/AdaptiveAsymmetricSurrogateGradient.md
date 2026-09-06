@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[SurrogateGradientMethod]]
 [[SynapticFatigueModel]]
+[[SynapticReinforcementConsolidation]]
 [[Synaptic_Plasticity]]
 [[Syncytial_Mesh]]
 [[Syncytial_Mesh_Model]]

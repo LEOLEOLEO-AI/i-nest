@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[HardwareAware_DesignSpace]]
 [[Hardware_Accelerated_SNN]]
 [[Intelligence_Emergence]]
+[[Layered_Attractive_Hubbard_Model]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Nanoencapsulation_Stability_Bioavailability]]

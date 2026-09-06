@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Inspired_Resource_Allocation]]
 [[Attention_Residuals]]
 [[Deep_Network_Architecture_Invariant]]
+[[Memristive_Interconnect]]
 [[Memristor]]
 [[Memristor_Interconnect]]
 [[Memristor_Synapse]]

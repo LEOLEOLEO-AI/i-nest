@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Decoupling]]
 [[CriticalityDrivenStateTransition]]
 [[Criticality]]
+[[EnsembleCreditAssignment]]
 [[FlexibleManifoldReconfiguration]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Interconnect_Routing]]

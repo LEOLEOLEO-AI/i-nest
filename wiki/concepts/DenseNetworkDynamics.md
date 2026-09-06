@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[EmergentAttractorInvariance]]
 [[EmergentReplicaClock]]
 [[Intelligence_Emergence]]
+[[MachineLearningPotential]]
 [[Network_Topology_Design]]
 [[Reservoir_Computing]]
 [[SDI_Bond]]

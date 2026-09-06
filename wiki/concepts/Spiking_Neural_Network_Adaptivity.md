@@ -20,8 +20,10 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Memristor]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
+[[Nonlinear_Gain]]
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SNN]]
@@ -30,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikingSafetyMargin]]
 [[Spiking_Neural_Network]]
 [[Spiking_neural_network_dynamics]]
+[[Synaptic_Plasticity]]
 [[Syncytial_Mesh]]
 [[Syncytial_Mesh_Model]]
 [[TemporalDynamicsModeling]]

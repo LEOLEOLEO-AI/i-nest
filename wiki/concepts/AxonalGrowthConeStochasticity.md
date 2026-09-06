@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_V42_SelfConsistency]]
 [[ClassicalQuantum_Query_Benchmark]]
 [[Complex_System_Theory]]
+[[Consumer_GPU_Inference]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]

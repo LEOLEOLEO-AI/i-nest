@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Crystallized_Neural_Manifolds]]
 [[DevelopmentalConnectomeTemporalGraph]]
 [[DevelopmentalStageEmbedding]]
+[[DynamicsMatchedReservoir]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[EEGSpikeEncoding]]
 [[ErrorAmplificationLimits]]
+[[EventDrivenSynchronization]]
 [[FrequencyAdaptationMechanism]]
 [[GradientAsymmetry]]
 [[Heterogeneous_Integration]]

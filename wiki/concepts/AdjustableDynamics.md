@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[HeterogeneousSynapticDelays]]
 [[Heterogeneous_Integration]]
 [[LIF_Neuron_Model]]
+[[Linguistic_Phase_Transition]]
 [[MemristiveReservoirBranchPrediction]]
 [[Memristive_InMemory_Computing]]
 [[Memristor]]

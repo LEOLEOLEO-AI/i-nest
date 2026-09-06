@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Cobordism_Classification]]
 [[Complex_System_Theory]]
 [[Complexity_Coordination_Layer]]
+[[Complexity_Emergence_Framework]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence]]

@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Environmental_Capability_Context]]
 [[EpidemicThreshold]]
 [[EventCameraTemporalEncoding]]
+[[FPGAInference]]
 [[Interconnect_Routing]]
 [[MoE_Routing]]
 [[MultiFPGAScaling]]

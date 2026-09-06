@@ -35,6 +35,8 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
+[[Syncytial_Mesh_Model]]
 [[iNEST]]
 
 ## Sources

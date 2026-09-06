@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[LatencyGradientDescent]]
 [[MembranePotentialAlignment]]
 [[Network_Topology_Design]]
+[[NeuralVariabilityEnhancement]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]

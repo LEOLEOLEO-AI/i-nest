@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[InterconnectConstrainedEmergence]]
 [[MachineLearningPotential]]
+[[MemoryDrivenRouting]]
 [[NCL神经计算定律详解]]
 [[National_Innovation_Center_Framework]]
 [[National_Mesoscale_Innovation_Center]]

@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AINext_Initiative]]
 [[ActivityPropagationCascade]]
+[[AgenticServiceManifesto]]
 [[AgenticServiceOrchestration]]
 [[Ant_Swarm_Functional_Control]]
 [[BurstGatedRouting]]

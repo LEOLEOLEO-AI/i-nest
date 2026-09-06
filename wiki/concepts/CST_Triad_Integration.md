@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_P_D_Inference]]
 [[Intelligence_Emergence]]
 [[LLM_Assisted_Hardware_Design]]
+[[MachineLearningPotential]]
 [[MatrixShapeToParallelismMapping]]
 [[MemristiveMEMSResonator]]
 [[Network_Topology_Design]]

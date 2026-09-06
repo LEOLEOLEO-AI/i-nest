@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Associative_Memory_Unification]]
 [[Associative_Retrieval]]
 [[AsymmetricTimeDelayedInteractions]]
+[[AtomicGeometryToElectronicTopologyMapping]]
 [[CirculateFiringNeuron]]
 [[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]

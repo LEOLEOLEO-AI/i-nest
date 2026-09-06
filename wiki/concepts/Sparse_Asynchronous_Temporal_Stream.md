@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[Efficient_Coding_Constraint]]
 [[End_Side_Neuromorphic_Deployment]]
+[[EventBasedAnalogFrontEnd]]
 [[Event_Driven_Architecture]]
 [[InputAdaptiveComputation]]
 [[Memory_Wall]]

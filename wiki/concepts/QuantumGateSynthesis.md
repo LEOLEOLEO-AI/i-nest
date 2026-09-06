@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Bio_plausible_Neuromorphic_Disturbance_Observer]]
 [[Biomanufacturing_Control_Loop]]
+[[Bosonic_SPT_Phases]]
 [[BranchingRatio]]
 [[CoexistencePhaseDiagram]]
 [[Contested_Priors_Mechanism]]

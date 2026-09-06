@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Decoupling]]
 [[ConstraintDrivenSelfOrganization]]
 [[ControlDrivenCriticalFluctuations]]
+[[ControlTheoreticTopology]]
 [[CriticalLearningRegime]]
 [[Critical_Region_Extension]]
 [[EdgeIoTEnergyAwareness]]

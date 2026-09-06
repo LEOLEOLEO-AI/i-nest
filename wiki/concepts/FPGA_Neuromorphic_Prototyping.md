@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[SNN_NeuroprostheticPipeline]]
+[[SpectralSpikeEncoding]]
 [[SpikeBasedNeuralRadianceField]]
 [[SpikeTimingGradientPropagation]]
 [[SpikeTimingGradient]]

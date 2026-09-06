@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[PhaseLockedTopologyMapping]]
 [[SDDE_Attractor_Emergence]]
 [[SNN]]
+[[SafetyThresholdAsSpikingThreshold]]
 [[SparseActivationPattern]]
 [[SpikeEncoding]]
 [[SpikeTimingDependentUpdate]]

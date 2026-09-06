@@ -37,6 +37,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[AI_FullSpectrum_Strategy]]
 [[ANN动力学]]
 [[Airborne_Link_Diversity]]
+[[AlgorithmicPhaseTransition]]
 [[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Chiplet]]

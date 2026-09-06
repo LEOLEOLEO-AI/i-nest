@@ -41,6 +41,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Analog_InMemory_Processing]]
 [[ArchitecturalGrounding]]
 [[Architectural_Conditioning]]
+[[AthermalRandomFieldBlumeCapel]]
 [[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Chiplet]]

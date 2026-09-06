@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[InterconnectConstrainedEmergence]]
 [[Master_SDDE]]
+[[MultiplicativeGainMechanism]]
 [[NCL神经计算定律详解]]
 [[Network_Topology_Design]]
 [[Photonic_Chiplet_Interconnect]]

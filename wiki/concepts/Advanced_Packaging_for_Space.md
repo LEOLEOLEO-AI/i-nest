@@ -57,6 +57,8 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_Topology]]
 [[STDP_Plasticity]]
+[[SelfOrganization]]
+[[Spaceborne_Computing_Architecture]]
 [[SparsityAwareInterconnect]]
 [[Synaptic_Plasticity]]
 [[TCC]]

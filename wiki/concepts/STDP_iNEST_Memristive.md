@@ -16,6 +16,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Faculty_Forum_2026]]
 [[ANN动力学]]
+[[AlternativeBridgingModels]]
 [[Attention_Residuals]]
 [[Complex_System_Theory]]
 [[Contested_Prior_Resolution]]

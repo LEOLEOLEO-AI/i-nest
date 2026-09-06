@@ -59,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
 [[Synaptic_Plasticity_Rule]]
+[[TemporalLearning]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

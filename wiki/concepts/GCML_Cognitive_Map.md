@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[CorticalWaveRouting]]
 [[DataDrivenCellularAxis]]
+[[Entropy_Connectivity_Path]]
 [[Fixed_Cost_Dominance]]
 [[FunctionalHardwareComposition]]
 [[Gut_Brain_Immune_Network]]

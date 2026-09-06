@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[DelayPropagationDynamics]]
 [[DelayTolerantNetworkUAV]]
+[[EnsembleCreditAssignment]]
 [[FlexibilityThreshold]]
 [[InNetworkReconfiguration]]
 [[Interconnect_Routing]]

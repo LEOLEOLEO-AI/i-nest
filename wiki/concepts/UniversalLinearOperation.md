@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_Control_Plane_Offload]]
 [[SNN]]
+[[SelfOrganizationInContinuousMedia]]
 [[SelfOrganization]]
 [[Self_Organized_Criticality]]
 [[SensationModulatingNetwork]]

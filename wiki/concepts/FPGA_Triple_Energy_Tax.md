@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[3D_Vertical_Interconnect]]
 [[3d]]
 [[4H_SiC_SubstrateProcessing]]
+[[AI_Driven_Power_Density_Scaling]]
 [[Blanket_Clock_Tree]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]

@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[ERI_2_0_Strategic_Framework]]
 [[Intelligence_Emergence]]
+[[MachineLearningPotential]]
 [[MeanFieldSpinGlass]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

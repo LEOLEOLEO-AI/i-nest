@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Disordered_Frustrated_Dimer_Magnets]]
 [[DualSide_Routing_Layer]]
 [[Environmental_Capability_Context]]
+[[EventDriven_Interconnect]]
 [[FunctionalHardwareComposition]]
 [[GateModelHardware]]
 [[Heterogeneous_Integration]]

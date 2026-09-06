@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[4H_SiC_SubstrateProcessing]]
+[[AI_Application_Scenario_Reconstruction]]
 [[BackpropagationFreeLearning]]
 [[DARPA_ProjectManager_Model]]
 [[Network_Topology_Design]]

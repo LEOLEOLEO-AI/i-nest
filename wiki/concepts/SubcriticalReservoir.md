@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Critical_Exponent_Scaling]]
 [[Crystallized_Embedding_Reservoir]]
 [[DARPA_3DHI_Roadmap]]
+[[Deep_Network_Layer_Stacking]]
 [[DendriticReservoirState]]
 [[DualImpactEvaluation]]
 [[DynamicNeuralManifolds]]

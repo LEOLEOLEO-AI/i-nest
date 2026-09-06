@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[BackpropagationFreeLearning]]
 [[Deep_Network_Architecture_Invariant]]
 [[Learning_Rule_Comparison]]
+[[Memristive_Interconnect]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]

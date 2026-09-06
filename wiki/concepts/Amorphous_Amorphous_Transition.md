@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[CoDesigned_SNN]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[DataDrivenCellularAxis]]
+[[DevelopmentalBrainTrajectory]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[EnsembleSparsity]]

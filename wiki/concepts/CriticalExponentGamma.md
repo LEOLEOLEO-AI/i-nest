@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityInducedComputationalCapacity]]
 [[Criticality]]
 [[CrossEntityPreemptiveWarning]]
+[[DeepCode_AlgorithmExtraction]]
 [[SNN]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]

@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[GraphTopologyAnalysis]]
 [[Heterogeneous_Integration]]
 [[HubbardModelSimulation]]
+[[Independent_AI_Player_Endgame]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]

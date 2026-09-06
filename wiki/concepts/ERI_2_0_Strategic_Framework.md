@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
+[[FunctionalInterfaceBlocks]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[InterconnectConstrainedEmergence]]

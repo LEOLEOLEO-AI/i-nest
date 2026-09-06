@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Edge_Neuromorphic_Compute]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
+[[EnsembleCreditAssignment]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]

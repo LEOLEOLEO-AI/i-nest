@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AI人工智能 卷积神经网络（CNN）_w3cschool]]
 [[AlloyDisorderEngineering]]
 [[BCM滑动阈值]]
+[[CST_Synergy_Coordination]]
 [[CST_Theory]]
 [[CST_Theory_V27_FINAL]]
 [[Complex_System_Theory]]

@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Autonomous_Spiking_Dynamics]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BrainInspired_Chip]]
+[[ConductingPolymerDendriteMemory]]
 [[Event_Driven_Architecture]]
 [[Neuromorphic_Computing]]
 [[SNN]]

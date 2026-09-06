@@ -53,7 +53,9 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Timing_Dependent_Plasticity]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
+[[Syncytial_Mesh]]
 [[Syncytial_Mesh_Model]]
+[[TemporalLearning]]
 [[iNEST]]
 
 ## Sources

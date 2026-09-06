@@ -64,6 +64,7 @@ Auto-extracted concept from raw material compilation.
 [[getnote_2025-07-24_液态神经网络与时空复杂性]]
 [[getnote_2026-06-05_NEST 智能涌现研究进展与工程落地全景]]
 [[人类唯一的出路_变成人工智能_初篇_人类巨灵和大脑结构]]
+[[从CoWoS走向CoPoS，晶圆从圆形变成方形]]
 [[智能涌现]]
 [[涌现]]
 [[神经网络]]

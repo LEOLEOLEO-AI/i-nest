@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[EventBasedGestureEncoding]]
 [[EventDrivenControlLoop]]
 [[EventDrivenTemplateUpdate]]
+[[EventDrivenTextEncoding]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
 [[SNN]]

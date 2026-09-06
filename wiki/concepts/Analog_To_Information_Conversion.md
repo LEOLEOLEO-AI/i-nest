@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[NoiseAsLearningResource]]
 [[Non_Von_Neumann_Architecture]]
 [[Nonlinear_Gain]]
+[[QuantumInspiredHarmonySearch]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SpinalHDL_DSL]]
 [[Syncytial_Information_Integration]]

@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[ExactlyFlatTopologicalBands]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
+[[HigherOrderNetworkDynamics]]
 [[InNetworkComputing]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

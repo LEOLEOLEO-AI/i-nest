@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[BranchingRatio]]
 [[FPGA_Neuromorphic_Architectures]]
 [[Free_Energy_Topology_Mapping]]
+[[KV_Cache_To_BoundaryObject]]
 [[KV_Cache_to_BoundaryObject_Transition]]
 [[Memristor]]
 [[Memristor_Synapse]]
@@ -34,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[ScalableNeuromorphicTopology]]
+[[System_Level_Utility_Control]]
 [[iNEST]]
 
 ## Sources

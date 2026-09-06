@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Packaging]]
 [[Chiplet_Stacking]]
 [[CoPackagedOptics]]
+[[CommunicationOverlapMechanism]]
 [[Complex_System_Theory]]
 [[ComputeRelocationOverhead]]
 [[DataMovementMinimization]]

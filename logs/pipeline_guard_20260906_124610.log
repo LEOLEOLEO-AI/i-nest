@@ -1,0 +1,21 @@
+
+============================================================
+  iNEST + TCC Research Pipeline v3.3
+  2026-09-06 12:46
+============================================================
+[12:46:11] [S2] Searching Semantic Scholar (19 queries)...
+[12:46:12]   S2: 429 rate limited; skip S2 for this run and continue with arXiv/GN
+[12:46:12] [arXiv] Searching arXiv (via proxy, 21 queries)...
+[12:46:13]   arXiv skip irrelevant: SENTINEL-RL: Offloading Topological Reasoning from LLM Agent
+[12:46:13]   arXiv skip irrelevant: Bernstein--von Mises theorems for Bayesian probabilistic num
+[12:46:13]   arXiv skip irrelevant: Tunable topological enhancement of covariant quantum Fisher 
+[12:46:29]   arXiv skip irrelevant: THz-SynC: Collective Synthesis with Contextual-Bandit-Assist
+[12:46:29]   arXiv skip irrelevant: Designing corrugated surfaces to guide colloidal self-assemb
+[12:46:29]   arXiv skip irrelevant: Every Kernel Is a Join: Automatic Multi-GPU Parallelism for 
+[12:46:34]   arXiv skip irrelevant: Stable and Scalable Bundle Adjustment of Holistic 3D Structu
+[12:46:34]   arXiv skip irrelevant: Common-Witness Certificates and Sharp Feature Bounds for Cou
+[12:46:34]   arXiv skip irrelevant: Approximate maximum-likelihood decoding via truncated free e
+[12:46:42]   arXiv skip irrelevant: Formation Matrix and Energy-based Control of Multi-Agent Sys
+[12:46:42]   arXiv skip irrelevant: Quantifying Power to Voltage and Frequency Dynamics for Osci
+[12:46:42]   arXiv skip irrelevant: Hosting Capacity Assessment of Data Centers with Voltage Rid
+[12:46:47]   arXiv: batch separator, pausing 10s...

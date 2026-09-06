@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[EventDrivenRiskAssessment]]
 [[ExactlyFlatTopologicalBands]]
+[[HigherOrderNetworkDynamics]]
 [[InNetworkComputing]]
 [[Intelligence_Emergence]]
 [[Intelligent_Power_Management]]

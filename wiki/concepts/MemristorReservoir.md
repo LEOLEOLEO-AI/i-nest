@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Encoding_Readout]]
 [[AnomalousSpinTransport]]
 [[BrainActivityPrediction]]
+[[CMOS_Memristor_Crossbar]]
 [[Contested_Prior_Resolution]]
 [[CrashHotspotForecasting]]
 [[DivergentHigherAreaRanking]]

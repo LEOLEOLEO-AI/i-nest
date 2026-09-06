@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[2_5D_PIM_Chiplet_Integration]]
 [[AI-ML — 全景导航 (Map of Content)]]
 [[Analog_InMemory_Processing]]
+[[ArbitraryWavefunctionConfigurability]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]

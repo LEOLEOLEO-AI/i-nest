@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[DarkSiliconAwareCooling]]
 [[DarkSiliconAwarePowerGating]]
+[[Evaluation_Resolution]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[MicroTransferPrinting]]

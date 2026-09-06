@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[EnergyEfficiencyAI]]
 [[EquilibriumSolution]]
+[[GraphDelayPropagation]]
 [[Intelligence_Emergence]]
 [[Material_Circularity]]
 [[Multiplex_Epidemic_Threshold]]

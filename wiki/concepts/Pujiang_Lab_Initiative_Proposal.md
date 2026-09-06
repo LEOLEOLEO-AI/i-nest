@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]
 [[DecliningModularity]]
+[[EnergyAwareLearning]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Intelligent_Emergence_Paradigm]]

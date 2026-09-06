@@ -59,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_TCC_Chiplet]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
+[[SDSoW_Interface_Standard]]
 [[STDP_Plasticity]]
 [[ScaleFreeNetwork]]
 [[SuperparamagneticSwitchingRate]]

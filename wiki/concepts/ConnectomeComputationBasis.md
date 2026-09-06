@@ -36,10 +36,12 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Connectome]]
+[[Connectome_Transfer]]
 [[Crystallized_Neural_Manifolds]]
 [[DataProvenanceIntegrity]]
 [[EmergentCompetenceThreshold]]
 [[InNetworkNeuromorphicSimulation]]
+[[InNetworkNeuromorphic]]
 [[Intelligence_Emergence]]
 [[KernelRegimeScaling]]
 [[MushroomBodyModes]]
@@ -49,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Parallelized_Hierarchical_Connectome]]
 [[TCC]]
 [[iNEST]]
+[[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources

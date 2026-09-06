@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[DistributedEventConditionDesign]]
 [[EventDrivenAsync]]
 [[EventDrivenAsynchronousRouting]]
+[[GraphDelayPropagation]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Kinematic_Waves]]

@@ -57,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TCC_RTC原语架构与SDI拓扑变换机理]]
 [[complex system]]
+[[《中国科学基金》]]
 [[具身智能的基本原理、关键技术、应用场景]]
 [[拓扑深度学习捕捉数据的高阶关系：信息传递拓扑神经网络概述]]
 [[涌现]]

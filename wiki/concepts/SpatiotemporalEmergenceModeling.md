@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveMeasurementProtocol]]
 [[AdaptiveModelPartitioning]]
 [[Adaptive_Path_Selection]]
+[[AnalogDomainCompression]]
 [[AnomalousSpinTransport]]
 [[ArbitraryWavefunctionConfigurability]]
 [[BurstTemporalPlasticity]]

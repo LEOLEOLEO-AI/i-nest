@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[QNNtoSNNConversion]]
+[[QuantumInspiredOptimization]]
 [[Real_Time_Neuromorphic_Constraint_Satisfaction]]
 [[SNN]]
 [[SafetyThresholdAsSpikingThreshold]]

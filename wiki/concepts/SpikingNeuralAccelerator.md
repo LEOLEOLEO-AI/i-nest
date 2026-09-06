@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[EEGSpikeEncoding]]
 [[ErrorAmplificationLimits]]
 [[EventBasedMotionDeblurring]]
+[[EventDrivenAutoregression]]
 [[EventDrivenMotionDeblurring]]
 [[EventDrivenSynchronization]]
 [[FrequencyAdaptationMechanism]]

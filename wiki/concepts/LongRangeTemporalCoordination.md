@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_Faculty_Forum_2026]]
 [[Analog_InMemory_Processing]]
+[[AnisotropicTensileStrength]]
 [[Complex_System_Theory]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]

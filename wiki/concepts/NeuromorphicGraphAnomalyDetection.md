@@ -56,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[SynapticRewiringDynamics]]
 [[Synaptic_Plasticity]]
+[[TemporalInformationStorage]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
 [[temporal coding]]

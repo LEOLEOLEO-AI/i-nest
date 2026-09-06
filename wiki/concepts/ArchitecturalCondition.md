@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[GradientBasedTopologyOptimization]]
 [[GutBrainAxis_Reprogramming]]
 [[HierarchicalBayesianCommunityDetection]]
+[[HoldingManeuverDelayGraph]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]

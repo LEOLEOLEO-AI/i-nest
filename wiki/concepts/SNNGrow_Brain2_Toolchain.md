@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstTemporalPlasticity]]
 [[EnsembleSparsity]]
 [[FPGA_Neuromorphic_Acceleration]]
+[[FlexibilityThreshold]]
 [[Intelligence_Emergence]]
 [[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Acceleration]]

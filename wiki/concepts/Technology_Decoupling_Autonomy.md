@@ -59,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_TCC_iNEST_Bridge]]
 [[SDI_iNEST_Encapsulation]]
 [[STDP_Plasticity]]
+[[SimulationReproducibilityAudit]]
 [[SuperparamagneticSwitchingRate]]
 [[Synaptic_Plasticity]]
 [[TCC]]

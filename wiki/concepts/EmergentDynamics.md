@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AI-ML — 全景导航 (Map of Content)]]
 [[ANN动力学]]
 [[ActiveMatterSubstrate]]
+[[Alpha_Coefficient_Phase_Transition_Amplification]]
 [[CST计量仪]]
 [[CertifiedBifurcationDetection]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
@@ -51,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_iNEST]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
+[[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources

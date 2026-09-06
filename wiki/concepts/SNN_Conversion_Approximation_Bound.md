@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicalSelfDualCriticality]]
 [[Fatigue_SpikePattern]]
 [[Globally_Optimal_SNN_Training]]
+[[HardwareAware_DesignSpace]]
 [[Layered_Attractive_Hubbard_Model]]
 [[MembranePotentialModulation]]
 [[Memristor]]

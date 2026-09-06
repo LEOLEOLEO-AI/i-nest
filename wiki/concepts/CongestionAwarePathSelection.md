@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[ConsciousnessEngineeringLoop]]
 [[CriticalityInNetworkComputing]]
 [[CriticalityInducedTopology]]
+[[CriticalityOffCriticalityTransition]]
 [[Criticality]]
 [[CrossLayer_SignalRouting]]
 [[DirtyWeylSemimetal]]

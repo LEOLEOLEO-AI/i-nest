@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[DiscreteContinuous_Unification]]
 [[FirstPrinciples_Derivation]]
 [[Heterogeneous_Integration]]
+[[HierarchicalNetworkPartitioning]]
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]
 [[Memristive_Interconnect]]

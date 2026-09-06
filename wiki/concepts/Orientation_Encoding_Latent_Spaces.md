@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[DynamicalSelfDualCriticality]]
+[[EnsembleCreditAssignment]]
 [[FrequencyAdaptationMechanism]]
 [[InNetworkReconfiguration]]
 [[Interconnect_Routing]]

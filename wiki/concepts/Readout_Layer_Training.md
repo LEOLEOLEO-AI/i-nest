@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[ReadoutLayer]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
+[[SpatialMultiplexingOfVortices]]
 [[SuperparamagneticSwitchingRate]]
 [[Swarm_Coordination]]
 [[TCC]]

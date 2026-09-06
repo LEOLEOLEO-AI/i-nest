@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveSpeechToSpikeEncoding]]
 [[AmoebaInspiredLocomotion]]
 [[Bio_plausible_Neuromorphic_Disturbance_Observer]]
+[[ClocklessReconfigurableChip]]
 [[CompetitiveProgramDynamics]]
 [[Contested_Priors_Mechanism]]
 [[Cross_Network_Representation_Transfer]]

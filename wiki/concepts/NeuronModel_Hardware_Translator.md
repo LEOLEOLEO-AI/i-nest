@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicLearningSurvey]]
 [[Neuromorphic_Computing]]
 [[PowerOfTwoWeightQuantization]]
+[[PropertyPredictionModeling]]
 [[RecurrentSpikingTopology]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]

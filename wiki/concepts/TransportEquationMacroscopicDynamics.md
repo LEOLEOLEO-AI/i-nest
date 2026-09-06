@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[DeepSpikingEnsembleLayers]]
 [[Deep_SNN_Trainability]]
 [[DendriticTaskPartitioning]]
+[[Distributed_Spike_Communication]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]

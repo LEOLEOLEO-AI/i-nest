@@ -67,10 +67,12 @@ Auto-extracted concept from raw material compilation.
 [[RenormalizationGroup_ScalingLaws]]
 [[RenormalizationGroup_Scaling]]
 [[SpatiotemporalComplexityIndex]]
+[[Spatiotemporal_Synergy]]
 [[SystemLevelNonlinearity]]
 [[TCC]]
 [[TemporalComplexity]]
 [[Textbook_Paradigm_Definition]]
+[[TopologyCentricEngineeringBase]]
 [[chiplet interconnect]]
 [[iNEST]]
 

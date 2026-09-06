@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Topology_Interconnect]]
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
+[[DarkSiliconAwarePowerGating]]
 [[FerroelectricMemoryCell]]
 [[Ferroelectric_Devices]]
 [[Heterogeneous_Integration]]
@@ -69,3 +70,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- Wafer_Scale_Interconnect (merged 2026-09-07)

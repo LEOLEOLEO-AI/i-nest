@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Distributed_Sinkhorn_Iteration]]
 [[EndToEndLinkSimulation]]
 [[Energy_Balanced_Interconnect]]
+[[ExactEvolutionaryHybridSearch]]
 [[FlagOS_2_0]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]

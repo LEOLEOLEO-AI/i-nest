@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspiredInterception]]
 [[BioPlausiblePredictiveCoding]]
 [[BulletTrainScheduling]]
+[[BurstGatedRouting]]
 [[Criticality]]
 [[Neuromorphic_Computing]]
 [[SNN]]

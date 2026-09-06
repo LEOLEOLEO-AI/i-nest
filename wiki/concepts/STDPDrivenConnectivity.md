@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[InSitu_Adjoint_Wave_Control]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[JunctionCenteredRouting]]
 [[LLM_Reward_Design]]
 [[Multipath_Adaptive_Reliability]]
 [[Network_Topology_Design]]

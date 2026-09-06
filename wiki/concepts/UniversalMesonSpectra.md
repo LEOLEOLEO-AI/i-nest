@@ -40,12 +40,14 @@ Auto-extracted concept from raw material compilation.
 [[Criticality_Based_Feature_Extraction]]
 [[DynamicTokenSparsity]]
 [[Edge_Neuromorphic_Compute]]
+[[FunctionalRelevanceDrivenSelfOrganization]]
 [[InNetworkComputing]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[MesonSpectra]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Quantum_Criticality]]
 [[Self_Organized_Criticality]]
 
 ## Sources

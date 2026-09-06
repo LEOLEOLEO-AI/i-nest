@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Package_Neuromorphic_Integration]]
 [[MemoryDrivenInterconnect]]
 [[MicroTransferPrintedActiveDevices]]
+[[NeuromorphicReplayBuffer]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[Neuromorphic_Selective_State_Space]]

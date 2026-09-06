@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[ConnectomicDevelopmentalTrajectory]]
 [[Controlled_Release_Kinetics]]
 [[Criticality]]
+[[DiscreteContinuous_Unification]]
 [[DynamicalSelfDualCriticality]]
 [[EmergentAttractorStability]]
 [[Environmental_Capability_Context]]

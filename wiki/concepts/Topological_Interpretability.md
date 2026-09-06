@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenAsync]]
 [[EventDrivenAsynchronousRouting]]
 [[EventDrivenTracking]]
+[[Event_Driven_Communication]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Military_AI_Revolution]]

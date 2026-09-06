@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[InterconnectAwareGradientAggregation]]
+[[MachineLearningPotential]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]

@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[NonEquilibriumPhase]]
 [[OptimalGeneralisationNearInterpolation]]
+[[OscillatoryReservoirDynamics]]
 [[ResonateAndFireEncoding]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

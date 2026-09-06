@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Inference_Workload_Profiling]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[Logic_Folding]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC]]

@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration]]
 [[CommunicationAwareComputeRelocation]]
 [[Complex_System_Theory]]
+[[Compute_In_Memory_Neuromorphic]]
 [[Deep_Thermalisation]]
 [[EnsembleSparsity]]
 [[GraphBasedSemanticRouting]]

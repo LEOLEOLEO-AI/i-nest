@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[Neuromorphic_Organization]]
 [[Neuromorphic_Planning_Architecture]]
 [[SDI_Bond]]
 [[SDI_iNEST_Interconnect]]

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[Deep_SNN_Trainability]]
+[[DivergentHigherAreaRanking]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[FPGA_Neuromorphic_Architectures]]

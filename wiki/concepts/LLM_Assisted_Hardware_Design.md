@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Heterogeneous_P_D_Inference]]
 [[Intelligence_Emergence]]
+[[MachineLearningPotential]]
 [[MemristiveMEMSResonator]]
 [[Network_Topology_Design]]
 [[PPT]]

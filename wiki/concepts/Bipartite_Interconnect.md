@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[PhysicallyInformedDeepLearning]]
 [[Pseudofractal_Web]]
 [[RedundancyControlledStochasticRouting]]
+[[STDPDrivenConnectivity]]
 [[ScalableNeuromorphicTopology]]
 [[Semantic_Optimizer]]
 [[StochasticVehicleRouting]]

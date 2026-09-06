@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[DivergentHigherAreaRanking]]
 [[ElectronicBurstingNeuron]]
 [[EnergyEfficientNeuromorphic]]
+[[EventDrivenModularArchitecture]]
 [[EvolutionarySpikeTimingOptimization]]
 [[Interconnect_Routing]]
 [[LossSpikePhenomenon]]

@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[OpportunisticRoutingRL]]
 [[OpportunisticRouting]]
 [[PairwiseCorrelationConstraint]]
+[[PropertyPredictionModeling]]
 [[RecurrentSpikingTopology]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]

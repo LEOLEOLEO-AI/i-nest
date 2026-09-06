@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Avoided_Criticality]]
 [[BulletTrainScheduling]]
+[[BurstTemporalPlasticity]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Course_Based_FPGA_Prototyping]]

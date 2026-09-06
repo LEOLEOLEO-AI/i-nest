@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[TemporalEchoMemory]]
+[[VariationalFreeEnergyMinimisation]]
 [[complex system]]
 [[iNEST]]
 [[智能涌现]]

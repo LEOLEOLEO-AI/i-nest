@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[FixedOverheadCost]]
 [[FixedOverheadPenalty]]
 [[Hierarchical_Interconnect]]
+[[HippocampalNeocorticalIntelligence]]
 [[In_Network_Neuromorphic]]
 [[In_Package_Neuromorphic_Integration]]
 [[Intelligence_Emergence]]

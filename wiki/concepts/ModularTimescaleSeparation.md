@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[RunawayAvalanche]]
 [[SDDE_Attractor_Emergence]]
 [[SNN]]
+[[SpectralSupportAnalysis]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

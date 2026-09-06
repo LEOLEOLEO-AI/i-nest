@@ -29,9 +29,11 @@ Auto-extracted concept from raw material compilation.
 [[AmorphousSolidPlasticity]]
 [[BayesianDomainEvolution]]
 [[BehavioralFeedbackLoop]]
+[[Biomanufacturing_Control_Loop]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]
 [[SpatioTemporal_Reservoir]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 
 ## Sources

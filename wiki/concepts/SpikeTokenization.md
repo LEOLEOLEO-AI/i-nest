@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[DrivenCriticalityOptimalityTradeoff]]
 [[DualDrivenHybridNetwork]]
 [[EventBasedMotionDeblurring]]
+[[EventDrivenAutoregression]]
 [[EventDrivenMotionDeblurring]]
 [[FormalToolchain]]
 [[FrequencyAdaptationMechanism]]

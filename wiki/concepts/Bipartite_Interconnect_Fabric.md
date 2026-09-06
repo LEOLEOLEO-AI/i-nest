@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[HighDimensionalChaos]]
 [[In_Package_Optical_Interconnect]]
 [[Intelligence_Emergence]]
+[[LiquidStateCrossover]]
 [[Memristive_Topology]]
 [[MetricComputationAuthenticity]]
 [[Network_Topology_Design]]

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN动力学]]
 [[Active_Inference_Agent]]
 [[AdaptiveDensityControl]]
+[[BayesianDomainEvolution]]
 [[Complex_System_Theory]]
 [[Constructed_Reality_Interconnect]]
 [[Emergent_Intelligence]]

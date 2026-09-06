@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[BioPlausiblePredictiveCoding]]
 [[BulletTrainScheduling]]
 [[BurstGatedRouting]]
+[[BurstSuppressionMechanism]]
 [[ContinuousControlConversion]]
 [[Criticality]]
 [[Interconnect_Routing]]

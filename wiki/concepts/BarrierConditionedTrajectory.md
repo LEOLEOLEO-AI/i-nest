@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossbarSNNArchitecture]]
 [[Deep_Thermalisation]]
 [[DelayPropagationDynamics]]
+[[EcosystemTopologyCoupling]]
 [[EdgeIoTEnergyAwareness]]
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]

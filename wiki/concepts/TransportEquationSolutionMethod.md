@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[NoiseDrivenBackpropReconstruction]]
 [[OpenBenchmarkingFramework]]
 [[OpinionDrivenVaccination]]
+[[QuantumFluctuationDrivenTransport]]
 [[Reservoir_Computing]]
 [[Self_Organized_Criticality]]
 [[SpikingTopologyEvolution]]

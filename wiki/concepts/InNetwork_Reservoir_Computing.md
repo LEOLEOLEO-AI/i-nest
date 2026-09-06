@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[DevelopmentalConnectomeTemporalGraph]]
 [[DevelopmentalStageEmbedding]]
 [[DynamicsMatchedReservoir]]
+[[EvolutionaryLearningYield]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]

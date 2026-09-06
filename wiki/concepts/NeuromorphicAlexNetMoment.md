@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AllOpticalHebbianLearning]]
 [[AllParallel_SpikeBased_Computing]]
 [[Arm_Locomotor_Synergy]]
+[[CollectiveDynamics]]
 [[Neuromorphic_Computing]]
 [[PPT]]
 [[SNN]]

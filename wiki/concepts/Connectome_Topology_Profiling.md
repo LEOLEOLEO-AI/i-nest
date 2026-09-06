@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[Parallelized_Hierarchical_Connectome]]
 [[Quantum_Feature_Map]]
 [[RecursiveSelfReferentialArchitecture]]
+[[RenormalizationGroupIntelligence]]
 [[SexBasedConnectomeDifferences]]
 [[Synaptic_Weight_Pruning_by_Connectivity_Statistics]]
 [[TCC]]

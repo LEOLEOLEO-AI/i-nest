@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGAInferenceAccelerator]]
 [[FPGAInference]]
 [[FPGA_SNN_Inference]]
+[[Frontier_Innovation_Mapping]]
 [[HardwareAware_DesignSpace]]
 [[Nonlinear_Gain]]
 [[PPT]]

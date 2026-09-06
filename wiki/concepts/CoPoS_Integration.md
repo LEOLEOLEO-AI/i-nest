@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Stacking]]
 [[Chiplet_Topology]]
 [[Chiplet_Topology_Packaging]]
+[[CoPackagedOptics]]
 [[CoPoS]]
 [[Complex_System_Theory]]
 [[EMIB_Bridge]]

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[ActivityAvalanche]]
 [[AdaptiveArchitecture]]
 [[Adaptive_Intelligence_Principle]]
+[[Adaptive_Service_Orchestration]]
 [[AmoebaInspiredLocomotion]]
 [[BioInspired_Interception_Control]]
 [[Cognitive_Relapse_Architecture]]

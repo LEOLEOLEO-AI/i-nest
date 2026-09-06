@@ -65,6 +65,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[TopologyAware_Embedding]]
+[[Topology_Aware_NoC_Routing]]
 [[advanced packaging]]
 [[chiplet interconnect]]
 [[涌现]]

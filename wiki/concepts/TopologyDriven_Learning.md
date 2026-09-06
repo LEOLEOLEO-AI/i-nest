@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Agile_Resilient_Defense_Ecosystem]]
 [[AndersonTransition]]
 [[Attention_Residuals]]
+[[BigBrainCellularAxis]]
 [[DataDrivenMaterialDesign]]
 [[Deep_Thermalisation]]
 [[FreeFermionTopologicalInvariant]]

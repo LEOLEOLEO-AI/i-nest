@@ -31,6 +31,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 
 [[6万+辛顿2025年度全景实录深读｜真正的智能与硅基智能的非对称演进]]
 [[A1_CST_Theory_V25_FINAL]]
+[[Analog_Synaptic_Behavior]]
 [[CSI_Temporal_Encoding]]
 [[CST_Intelligence_Emergence]]
 [[CST_Theory]]

@@ -54,6 +54,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[MagnetizationSusceptibilityResponse]]
 [[Memristive_InMemory_Computing]]
 [[Memristive_Spike_Integration]]
+[[Nature_Electronics_Neuromorphic_Validation]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]

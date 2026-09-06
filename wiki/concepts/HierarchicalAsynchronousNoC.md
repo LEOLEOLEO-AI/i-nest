@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
+[[Complexity_Emergence_Engineering]]
 [[DelayCouplingMatrix]]
 [[FunctionalHardwareComposition]]
 [[Heterogeneous_Integration]]

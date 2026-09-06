@@ -29,10 +29,12 @@ Auto-extracted concept from raw material compilation.
 [[3D_Vertical_Interconnect]]
 [[3d]]
 [[4H_SiC_SubstrateProcessing]]
+[[AI_Faculty_Forum_2026]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]
 [[Complex_System_Theory]]
+[[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 

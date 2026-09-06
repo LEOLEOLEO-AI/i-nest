@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[C_elegansConnectomeAnalogy]]
 [[CausalEmergenceCondition]]
 [[Causal_Emergence]]
+[[Causal_Emergence_Integration]]
 [[ChaoticAttractorTopology]]
 [[ComputationEfficientDeepLearning]]
 [[ConcentricDiscreteOpticalVortices]]

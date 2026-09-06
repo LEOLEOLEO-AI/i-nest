@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AdaptiveSTDP]]
 [[AnisotropicGaussianPrimitives]]
+[[ClocklessReconfigurableChip]]
 [[Contested_Priors_Mechanism]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AlternativeBridgingModels]]
 [[Categorical_Reservoir_Model]]
 [[Crystallized_Embedding_Reservoir]]
+[[Crystallized_Neural_Manifolds]]
 [[DivergentHigherAreaRanking]]
 [[Dynamic_Expert_Fusion]]
 [[Dynamical_State_Space]]

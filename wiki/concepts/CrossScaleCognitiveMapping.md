@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[ComponentLevelMolding]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
+[[Crystallized_Neural_Manifolds]]
 [[Intelligence_Emergence]]
 [[KV_Cache_To_BoundaryObject]]
 [[KV_Cache_to_BoundaryObject_Transition]]

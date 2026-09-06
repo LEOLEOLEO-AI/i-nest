@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AdjointWaveControl]]
 [[AgenticServiceOrchestration]]
 [[Allreduce_Latency_Probe]]
+[[Anomaly_Mediated_Quantum_Criticality]]
 [[Architectural_Conditioning]]
 [[Capability_Reserve_Index]]
 [[Cognitive_Relapse_Decoupling]]

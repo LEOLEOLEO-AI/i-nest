@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[DeeplySupervisedSpiking]]
 [[DistinctReentrantPhases]]
 [[Distributed_Spike_Communication]]
+[[FerroelectricSynapticArray]]
 [[GradientFreeLowRankTraining]]
 [[HeterogeneousSynapticDelays]]
 [[Heterogeneous_Integration]]

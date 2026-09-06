@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Course_Based_FPGA_Projects]]
 [[DARPA_Manufacturing_Strategy]]
 [[DendriticReservoirState]]
+[[DeviceLevelNonlinearityScaling]]
 [[Emergent_Abilities]]
 [[FunctionalInterfaceBlock]]
 [[IntegrationProspectsForVLSI]]
@@ -48,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

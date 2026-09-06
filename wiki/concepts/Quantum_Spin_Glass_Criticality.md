@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Monitored_Quantum_Circuits]]
+[[MultiSourceTaskonomy]]
 [[Network_Topology_Design]]
 [[Quantum_Criticality]]
 [[Quantum_Spin_Glass]]

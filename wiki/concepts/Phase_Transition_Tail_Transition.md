@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[CouplingMatrixRecovery]]
 [[Coupling_Strength_Encoding]]
+[[CrossInstitutionalNetwork]]
 [[Crystallized_Neural_Manifolds]]
 [[DendriticReservoirState]]
 [[DeviationScalingIndex]]

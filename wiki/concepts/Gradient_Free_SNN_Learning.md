@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[EnergyEfficientNeuromorphic]]
 [[Frontier_Innovation_Mapping]]
+[[GPU_Parallel_Throughput]]
 [[GradientBasedSpikeLearning]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

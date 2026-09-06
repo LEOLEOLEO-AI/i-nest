@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[BurstGatedRouting]]
 [[CST计量仪]]
+[[CavityMethodAnalysis]]
 [[CellEmergence]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -58,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[Topology_Interconnect]]
+[[advanced packaging]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

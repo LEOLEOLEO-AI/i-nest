@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[In_Network_Neuromorphic]]
 [[Intelligence_Emergence]]
+[[InterChipletPHYModeling]]
 [[Interconnect_Routing]]
 [[Memory_Wall]]
 [[MetricComputationAuthenticity]]

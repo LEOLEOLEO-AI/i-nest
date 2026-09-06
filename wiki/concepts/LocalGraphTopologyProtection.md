@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Topological_Alignment]]
 [[Fixed_Cost_Dominance]]
 [[GroupInteractionThreshold]]
+[[HippocampalNeocorticalIntelligence]]
 [[Intelligence_Emergence]]
 [[Loihi2_OnChip_Learning]]
 [[Loihi]]

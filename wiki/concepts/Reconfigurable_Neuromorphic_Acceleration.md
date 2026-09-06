@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[SNN_Topology_Mapping]]
 [[Self_Organized_Criticality]]
+[[SpikeCodedSafetyMonitoring]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[TCC]]

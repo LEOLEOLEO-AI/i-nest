@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[SensorDataSynchronization]]
 [[SpikeTimingAbstraction]]
 [[Spiking_Neural_Network]]
 [[Spiking_Temporal_Encoding]]

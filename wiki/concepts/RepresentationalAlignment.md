@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[DataDrivenCellularAxis]]
 [[DataDrivenCytoarchitectonicAxis]]
 [[DevelopmentalNeuromorphicAdaptation]]
+[[ElectrochemicalSensingArray]]
 [[Entropy_Connectivity_Path]]
 [[FirstPrinciples_Derivation]]
 [[Heterogeneous_Integration]]

@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[BoundaryContract]]
 [[ChipletTrafficAwareScheduling]]
 [[Chiplet]]
+[[Chiplet_Based_Trusted_Hardware]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]
 [[CoarseGrainingFlow]]

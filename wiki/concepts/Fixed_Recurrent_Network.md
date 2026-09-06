@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[SDDE_Attractor_Emergence]]
 [[SNN]]
+[[SpikeEncodingLatency]]
 [[Spiking_Neural_Network]]
 [[Swarm_Coordination]]
 [[Synaptic_Plasticity]]

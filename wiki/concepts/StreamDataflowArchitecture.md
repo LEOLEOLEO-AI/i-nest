@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[SNN_NeuroprostheticPipeline]]
+[[SpikeBasedGradientDescent]]
 [[SpikeBasedNeuralRadianceField]]
 [[SpikeDrivenInference]]
 [[Spike_Encoding_of_fMRI]]

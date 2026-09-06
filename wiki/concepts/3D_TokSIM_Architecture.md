@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[HybridResistiveMemoryCIM]]
 [[IMPLYMemristiveISA]]
 [[In_Memory_Computing]]
+[[Long_Range_Interactions]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[StorageCompute_SeparationBottleneck]]

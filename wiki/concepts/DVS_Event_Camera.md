@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[BrainInspired_Computing_Paradigm]]
+[[Complex_System_Theory]]
 [[ContinualLearningOnNeuromorphic]]
 [[Dynamic_Neuromorphic_Computing]]
 [[EventDrivenAutoregression]]
@@ -30,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Network_Neuromorphic]]
 [[NeuromorphicStatusAwareness]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Hardware_Paradigm]]
 [[iNEST]]
 
 ## Sources

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Reservoir_Topology]]
 [[GroupInteractionThreshold]]
 [[Intelligence_Emergence]]
+[[MeasurementInducedNonlinearity]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]

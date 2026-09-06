@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[ActivityPropagationCascade]]
 [[Activity_Energy_Tradeoff]]
 [[AdaptiveAsymmetricSurrogateGradient]]
+[[AdaptiveAsymmetricSurrogateGradients]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[TCC]]

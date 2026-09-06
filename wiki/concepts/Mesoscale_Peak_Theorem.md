@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Active_Inference_Agent]]
 [[Analog_InMemory_Processing]]
 [[Asymptotic_Exact_Solution]]
+[[CST计量仪]]
 [[Causal_Power]]
 [[Complex_System_Theory]]
 [[Effective_Information]]

@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Decoupling]]
 [[ConstraintDrivenSelfOrganization]]
 [[ControlDrivenCriticalFluctuations]]
+[[ControlTheoreticTopology]]
 [[Network_Topology_Design]]
 [[SelfOrganization]]
 [[TCC]]

@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[FixedOverheadCost]]
 [[FixedOverheadPenalty]]
 [[HippocampalNeocorticalIntelligence]]
+[[In_Network_Neuromorphic_State]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]

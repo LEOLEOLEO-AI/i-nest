@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
+[[Personalised_Strategy_Optimisation]]
 [[SNN]]
 [[Self_Organized_Criticality]]
 [[SpikeBackpropagation]]

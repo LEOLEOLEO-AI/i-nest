@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[EventDrivenAttentionMechanism]]
 [[GradientFreeSNNTraining]]
 [[In_Memory_Computing]]
 [[In_Package_Neuromorphic_Integration]]

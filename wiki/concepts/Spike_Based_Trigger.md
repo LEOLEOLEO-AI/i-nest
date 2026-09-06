@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Co_designed_Online_Continual_Learning]]
 [[Cytokine_Feedback_Loops]]
 [[DelayTunedPopulationAmplitude]]
+[[DynamicalTransitionIdentification]]
 [[EventDrivenComputation]]
 [[Event_Driven_Architecture]]
 [[Event_Driven_Computation]]

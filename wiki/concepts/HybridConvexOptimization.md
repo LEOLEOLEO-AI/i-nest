@@ -57,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Interconnect_Topology]]
 [[IrreversibilityFlow]]
+[[LowCostVideoFeatureExtraction]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
