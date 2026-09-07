@@ -64,6 +64,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_NoC_Integration]]
 [[STDP_Plasticity]]
 [[SerDes_Bandwidth_Convergence]]
+[[Spaceborne_Computing_Architecture]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]

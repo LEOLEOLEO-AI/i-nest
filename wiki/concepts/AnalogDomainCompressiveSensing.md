@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[DifferentiableRasterizationPipeline]]
 [[ErrorSuppressedPipeline]]
 [[FixedOverheadCost]]
+[[HardwareAwareFairness]]
 [[Hierarchical_Attachment]]
 [[INT4PrecisionQuantization]]
 [[MLChiralityDecoder]]

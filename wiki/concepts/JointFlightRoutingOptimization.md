@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkReconfiguration]]
 [[Interconnect_Routing]]
 [[LLMDrivenPathSelection]]
+[[LocalPlasticityPipeline]]
 [[MeasurementInducedLinearity]]
 [[MoE_Routing]]
 [[Network_Topology_Design]]

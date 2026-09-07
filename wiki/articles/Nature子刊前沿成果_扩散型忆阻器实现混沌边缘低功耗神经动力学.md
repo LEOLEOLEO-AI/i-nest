@@ -16,6 +16,8 @@ SDI, iNEST, neuromorphic, 忆阻, 神经形态, 类脑
 
 ## Related Concepts
 
+[[Criticality]]
+[[Memristor]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]

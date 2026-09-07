@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AIRA_NeuralArchSearch]]
 [[Analog_InMemory_Processing]]
 [[Asymptotic_Exact_Solution]]
+[[CST_Spatiotemporal_Complexity]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]

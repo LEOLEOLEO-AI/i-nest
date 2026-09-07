@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[DendriticReservoirState]]
 [[Dynamic_Expert_Fusion]]
+[[EmergentDynamics]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Roadmap]]
 [[Emergent_Intelligence_Threshold]]

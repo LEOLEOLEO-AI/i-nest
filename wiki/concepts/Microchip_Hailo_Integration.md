@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet]]
 [[Chiplet_Advanced_Packaging]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_Integration]]
 [[Chiplet_Stacking]]
 [[Heterogeneous_Integration]]

@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[CavityMethodAnalysis]]
 [[Chip_Floorplanning]]
 [[Complex_System_Theory]]
+[[Critical_Region_Extension]]
 [[Deep_Thermalisation]]
 [[EntanglementAwareRouting]]
 [[FatalityDrivenRewiring]]

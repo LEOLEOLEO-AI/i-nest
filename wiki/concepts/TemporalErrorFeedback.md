@@ -63,6 +63,7 @@ Auto-extracted concept from raw material compilation.
 [[SynapticFatigueModel]]
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
+[[TemporalCreditAssignment]]
 [[neuromorphic substrate]]
 [[residual connection]]
 

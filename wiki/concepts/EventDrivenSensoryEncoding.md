@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[BigBrainCellularAxis]]
 [[BurstInterleaving]]
+[[Chiplet_Integration_Route]]
 [[Complex_System_Theory]]
 [[Efficient_Coding_Constraint]]
 [[End_Side_Neuromorphic_Deployment]]

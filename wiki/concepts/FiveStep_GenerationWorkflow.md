@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkComputing]]
 [[Interconnect_Routing]]
 [[Local_Approximation_Dynamics]]
+[[MobilityEdgeSwitching]]
 [[Network_Topology_Design]]
 [[PPT]]
 [[Reconfigurable_Neural_Topology]]

@@ -43,10 +43,12 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[SNN]]
 [[ST_SNN]]
+[[SpikeEncoding]]
 [[SpikingNeuralImplementation]]
 [[Spiking_Neural_Network]]
 [[TemporalAdversarialPerturbation]]
 [[ThresholdBasedSpikeEncoding]]
+[[VisualPlaceRecognition]]
 [[iNEST]]
 
 ## Sources

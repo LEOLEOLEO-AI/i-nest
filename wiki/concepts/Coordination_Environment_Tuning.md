@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
+[[ReconfigurablePhotonicNetwork]]
 [[Reconfigurable_Neuromorphic_Function]]
 [[Reconfigurable_Nonlinear_Reservoir]]
 [[Reservoir_Computing]]

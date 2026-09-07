@@ -45,6 +45,8 @@ Auto-extracted concept from raw material compilation.
 [[FractalPathEntropy]]
 [[HighThroughputParticleRouting]]
 [[InNetworkNeuromorphic]]
+[[InNetwork_Reservoir_Integration]]
+[[In_Network_Neuromorphic]]
 [[Interconnect_Routing]]
 [[Nanomaterial_Discovery_ML]]
 [[Nature Communications_生物神经网络中突触多样性如何让人工神经网络更强大？]]
@@ -54,8 +56,10 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[branch prediction]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

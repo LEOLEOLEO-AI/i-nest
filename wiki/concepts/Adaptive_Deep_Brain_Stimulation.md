@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Energy_Aware_Learning]]
 [[Neuromorphic_Integration]]
 [[RecursiveSelfReferentialArchitecture]]
 [[RestingStateEEG_Connectivity]]

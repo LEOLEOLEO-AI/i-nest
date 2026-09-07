@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Asymmetric_Interaction_Graph]]
 [[AttractorBasinOrthogonality]]
 [[AutonomousCircuitMorphogenesis]]
+[[Biocompatible_Neuromorphic_Interface]]
 [[Complex_System_Theory]]
 [[Habituation_Dynamics]]
 [[Intelligence_Emergence]]

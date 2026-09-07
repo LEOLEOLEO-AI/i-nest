@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
 [[SDDE_Attractor_Emergence]]
+[[SDI_TCC_iNEST_Interconnect]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[Second_Curve_Industry_Platform]]

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[BigBrainCellularAxis]]
+[[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Chiplet]]
 [[Chiplet_Based_Neuromorphic_Integration]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -54,7 +55,6 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[SpikeEncoding]]
 [[Spike_Encoding_of_fMRI]]
-[[Spiking neural network]]
 [[SpikingNeuronOptimization]]
 [[Spiking_Neural_Network]]
 [[SurrogateGradientTraining]]

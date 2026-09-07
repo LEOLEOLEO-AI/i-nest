@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveNetworkResilience]]
 [[AdaptiveTimeStepTraining]]
 [[AnisotropicGaussianPrimitives]]
+[[Bidirectional_Temporal_Enhancement]]
 [[BrownianCastleInterface]]
 [[BurstTemporalPlasticity]]
 [[CollectiveSpikingDynamics]]

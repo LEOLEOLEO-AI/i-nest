@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AllParallel_SpikeBased_Computing]]
 [[Attention_Residuals]]
 [[BackpropagationFreeLearning]]
+[[Continuous_Discrete_Compute_Gap]]
 [[Deep_Network_Architecture_Invariant]]
 [[Learning_Rule_Comparison]]
 [[Memristive_Interconnect]]

@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeTimingGradient]]
 [[Spiking_Neural_Network]]
 [[SynapseLevelParallelism]]
+[[SynapticDelayModulatedPhaseResponse]]
 [[Synaptic_Plasticity]]
 [[TemporalSpikeEncoding]]
 [[iNEST]]

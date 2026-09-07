@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Learning]]
 [[STDP_Plasticity]]
 [[SpectralSpikeEncoding]]
+[[SpikeBasedInference]]
 [[SpikeEncoding]]
 [[SpikeTimingGradient]]
 [[Spike_Encoding_of_fMRI]]

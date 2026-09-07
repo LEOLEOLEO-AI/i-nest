@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Agile_Resilient_Defense_Ecosystem]]
 [[AndersonTransition]]
 [[ArtificialProprioception]]
+[[BandedConnectivityModel]]
 [[BeyondPTSymmetry]]
 [[BifurcationCandidate]]
 [[CausalEmergenceCondition]]

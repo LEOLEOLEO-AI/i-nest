@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[BoseCondensateNeuralAnalogy]]
 [[BosonicFieldTopology]]
 [[CatalyticReactionNetwork]]
+[[CerebellarLikeCircuit]]
 [[Channel_Decoding_Energy_Landscape]]
 [[Complex_System_Theory]]
 [[Fractal_Scaling]]

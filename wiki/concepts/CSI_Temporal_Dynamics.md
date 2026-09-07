@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[HierarchicalReservoirDynamics]]
 [[MechanicalReservoirComputing]]
 [[ModularTimescaleSeparation]]
+[[MultipartiteEntanglementFractal]]
 [[Nonlinear_Gain]]
 [[ReservoirDynamics]]
 [[Reservoir_Computing]]

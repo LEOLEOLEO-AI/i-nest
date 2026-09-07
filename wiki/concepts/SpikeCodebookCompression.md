@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Encoding_of_fMRI]]
 [[SpikingArchitecture_Search]]
 [[Spiking_Neural_Network]]
+[[Spiking_Topology_Optimization]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[TCC_Topology]]

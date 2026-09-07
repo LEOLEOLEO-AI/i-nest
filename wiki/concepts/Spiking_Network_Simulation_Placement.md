@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenRiskAssessment]]
 [[EventDrivenTrajectoryEncoding]]
 [[EventDrivenWirelessTransmission]]
+[[FunctionalRelevanceDrivenSelfOrganization]]
 [[InNetworkAgentRewiring]]
 [[InputAdaptiveComputation]]
 [[Intelligence_Emergence]]

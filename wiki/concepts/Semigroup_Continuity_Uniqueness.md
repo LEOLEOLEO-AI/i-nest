@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[ComplexSystem_Definition]]
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
+[[DARPA_ERI_2_0_Framework]]
 [[Heterogeneous_Integration]]
 [[Heterogeneous_Synaptic_Motifs]]
 [[Intelligence_Emergence]]

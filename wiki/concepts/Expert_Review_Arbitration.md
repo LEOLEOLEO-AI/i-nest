@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[AdversarialResilience]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[Beyond_Moore_Pathway]]
 [[CSI_Temporal_Encoding]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]

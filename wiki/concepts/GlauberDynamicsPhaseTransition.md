@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[AI_Supply_Chain_Increment]]
 [[AI人工智能 卷积神经网络（CNN）_w3cschool]]
+[[AdditiveTopology_Embedding]]
 [[Allreduce_Latency_Probe]]
 [[AnalogDomainCompression]]
 [[Architectural_Conditioning]]
@@ -58,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

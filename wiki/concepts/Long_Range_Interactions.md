@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[AI_Faculty_Forum_2026]]
 [[ActivityAvalanche]]
+[[AdaptiveGraphDiffusion]]
 [[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[Allreduce_Latency_Probe]]

@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[CircuitTopologyFitnessLandscape]]
 [[CombinatorialTopologySearch]]
 [[Complex_System_Theory]]
+[[ComplexityLandscape_Optimization]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[Heterogeneous_Integration]]

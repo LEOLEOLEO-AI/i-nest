@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Topology]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
+[[Software_Defined_Interconnect]]
 [[Spatiotemporal_Synergy]]
 [[TCC]]
 [[iNEST]]

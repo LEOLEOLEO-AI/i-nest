@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Fading_Memory_Property]]
 [[GenerativeTopologyModels]]
 [[Intelligence_Emergence]]
+[[MetaHardwareAbstraction]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]

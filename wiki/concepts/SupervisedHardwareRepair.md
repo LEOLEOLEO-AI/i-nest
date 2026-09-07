@@ -61,6 +61,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologicalInvariancePrinciple]]
 [[Topological_Invariant_Shift]]
+[[UnifiedHypergraphStateSpace]]
 [[iNEST]]
 
 ## Sources

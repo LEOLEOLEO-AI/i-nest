@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[FixedOverheadCost]]
 [[GradientBasedLearningLocalization]]
 [[ImageToEventConversion]]
+[[In_Network_Neuromorphic_Acceleration]]
 [[Intelligence_Emergence]]
 [[NeuromorphicHardware]]
 [[NeuromorphicTransformerPipeline]]

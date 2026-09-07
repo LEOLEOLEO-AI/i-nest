@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[MetaFAIR_ArchitectureDiscovery]]
 [[National_Innovation_Center_Role]]
 [[NeuromorphicHardware]]
+[[NeuromorphicLocomotionPrimitive]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]

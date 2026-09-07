@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Loihi2_SpikeEncoding]]
 [[Loihi]]
 [[Neuromorphic_Computing]]
+[[NoiseInducedPhaseLocking]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]
 [[SpikeEncoding]]

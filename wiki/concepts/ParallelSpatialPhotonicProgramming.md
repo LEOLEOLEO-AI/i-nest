@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AddressRedundancyElimination]]
 [[AllOpticalHebbianLearning]]
 [[BrainActivityPrediction]]
+[[CombinedImportanceScoring]]
 [[CompartmentalNeuronModel]]
 [[ComplexValuedSNN]]
 [[CurrentInjectionSNN]]
@@ -51,8 +52,10 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[SpatialPhotonicProgramming]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[analog computation]]
 [[iNEST]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AINext_Initiative]]
 [[AcceleratedMaterialScreening]]
+[[Active_Inference_Agent]]
 [[AdversarialResilience]]
 [[AstrocyteInspiredRepair]]
 [[AvalancheTriggeringMechanism]]

@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[DeviceLevelNonlinearity]]
 [[DissipativeQuantumReservoir]]
 [[Emergent_Reservoir_Topology]]
+[[Evolutionary_Computability]]
 [[GroupInteractionThreshold]]
 [[Hierarchical_Reservoir_Topology]]
 [[HybridMemristorArray]]

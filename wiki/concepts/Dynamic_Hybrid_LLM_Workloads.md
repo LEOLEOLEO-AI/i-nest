@@ -55,8 +55,10 @@ Auto-extracted concept from raw material compilation.
 [[SuddenLearning]]
 [[SurrogateGradientAsymmetry]]
 [[SynapticReinforcementConsolidation]]
+[[Synaptic_Plasticity]]
 [[Syncytial_Mesh]]
 [[Syncytial_Mesh_Model]]
+[[TemporalCreditAssignment]]
 [[TemporalErrorFeedback]]
 
 ## Sources

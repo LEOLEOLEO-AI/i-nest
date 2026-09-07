@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[OpportunisticRoutingRL]]
 [[OpportunisticRouting]]
+[[ResonateAndFireNeuron]]
 [[SpikingMoE_SDPrompt]]
 [[Spiking_Mixture_of_Experts]]
 [[Spiking_Neural_Network]]

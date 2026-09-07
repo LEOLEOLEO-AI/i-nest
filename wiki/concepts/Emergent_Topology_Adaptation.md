@@ -60,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[ScalableNeuromorphicTopology]]
 [[Spiking_Neural_Network]]
 [[Swarm_Adaptive_Topology]]
+[[SynchronizationAttractorBasin]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[complex system]]

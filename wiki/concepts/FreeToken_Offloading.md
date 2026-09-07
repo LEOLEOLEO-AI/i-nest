@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Advanced_Packaging_for_Space]]
 [[Asymptotic_Exact_Solution]]
 [[BeyondVonNeumannArchitecture]]
+[[BioInspiredGeneralist]]
 [[Bipartite_Interconnect]]
 [[Bipartite_Interconnect_Fabric]]
 [[Chiplet]]

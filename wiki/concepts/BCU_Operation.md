@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[3DHI_Stacking]]
 [[3D_Vertical_Interconnect]]
 [[3d]]
+[[ChipletTrafficAwareScheduling]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_NoC_Fabric]]

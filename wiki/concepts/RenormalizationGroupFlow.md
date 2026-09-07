@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[DarkSiliconAwarePowerGating]]
 [[Dynamic_Expert_Fusion]]
 [[ExtensiveWidthShallowNN]]
+[[FerroelectricMemoryCell]]
 [[Heterogeneous_Integration]]
 [[Hierarchical_Interconnect]]
 [[Intelligence_Emergence]]

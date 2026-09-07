@@ -29,12 +29,12 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[EnsembleCreditAssignment]]
+[[FlexibleManifoldReconfiguration]]
 [[Interconnect_Routing]]
 [[MoE_Routing]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Self_Organized_Criticality]]
-[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

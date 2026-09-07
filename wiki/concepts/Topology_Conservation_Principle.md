@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AI-ML — 全景导航 (Map of Content)]]
 [[ANN动力学]]
 [[Analog_InMemory_Processing]]
+[[AndersonTransition]]
 [[AutonomousServiceNegotiation]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -56,7 +57,6 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[TCC]]
 [[ThermallyDrivenSuperparamagnetReservoir]]
-[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

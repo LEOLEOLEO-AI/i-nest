@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Architecture]]
 [[Cognitive_Relapse_Decoupling]]
 [[CommunicationAwareComputeRelocation]]
+[[CrossbarArrayVLSI]]
 [[DTGA]]
 [[Dimensionality_Modularity_Tradeoff]]
 [[DynamicCentralitySteering]]

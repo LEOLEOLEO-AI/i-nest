@@ -31,10 +31,10 @@ Auto-extracted concept from raw material compilation.
 [[Complexity_Emergence_Engineering]]
 [[Course_Based_FPGA_Projects]]
 [[DataDrivenCellularAxis]]
+[[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[Neuromorphic_Computing]]
 [[SNN]]
-[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

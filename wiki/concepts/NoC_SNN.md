@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[CorticalWaveRouting]]
 [[EventCameraTemporalEncoding]]
 [[Event_Driven_Architecture]]
 [[Hierarchical_Async_NoC_PlasticityArray]]
@@ -33,7 +34,6 @@ Auto-extracted concept from raw material compilation.
 [[NoC]]
 [[NoC_EventRouting]]
 [[SNN]]
-[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]

@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration]]
 [[Chiplet_Integration_Route]]
 [[Complex_System_Theory]]
+[[EventDriven_Interconnect]]
 [[ExplainableEnergyAI]]
 [[Gut_Brain_Immune_Network]]
 [[Heterogeneous_Integration]]

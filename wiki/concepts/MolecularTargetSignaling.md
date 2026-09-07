@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveBitPrecisionExploration]]
 [[AdversarialResilience]]
 [[Beyond_Moore_Packaging_Strategy]]
+[[Beyond_Moore_Pathway]]
 [[Bio_plausible_Neuromorphic_Disturbance_Observer]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]

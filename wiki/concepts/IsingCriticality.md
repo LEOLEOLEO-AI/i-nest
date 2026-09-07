@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[BioPlausiblePredictiveCoding]]
 [[BurstGatedRouting]]
 [[Continual_Learning_Modularity]]
+[[CouplingTopologyInducedDynamics]]
 [[CriticalityInducedTopology]]
 [[Criticality]]
 [[Criticality_Metric_Extraction]]

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[3D_Heterogeneous_Integration]]
 [[3d]]
 [[AdjointWaveControl]]
+[[AndersonTransition]]
 [[ArbitraryWavefunctionConfigurability]]
 [[BifurcationCandidate]]
 [[CLINKAsCarrierPrimitive]]
@@ -54,7 +55,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologyAwarePhotonicInterconnect]]
 [[TopologyEmbeddedSelfModel]]
-[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

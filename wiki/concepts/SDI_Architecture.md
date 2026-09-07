@@ -21,11 +21,15 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AnisotropicGaussianPrimitives]]
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration]]
 [[Chiplet_Integration_Route]]
 [[ClocklessReconfigurableChip]]
 [[Contested_Prior_Resolution]]
 [[CorticalWaveRouting]]
 [[EventCameraTemporalEncoding]]
+[[Flexible_Spike_Routing]]
 [[Interconnect_Routing]]
 [[Memristor]]
 [[Memristor_Synapse]]

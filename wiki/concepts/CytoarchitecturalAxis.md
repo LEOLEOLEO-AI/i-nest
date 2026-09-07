@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Service_Orchestration]]
 [[AdjointWaveControl]]
 [[BioInspiredGeneralist]]
+[[CellularSheaf]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[TCC]]

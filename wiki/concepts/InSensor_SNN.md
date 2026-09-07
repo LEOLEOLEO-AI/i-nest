@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Synaptic_Behavior]]
 [[Attention_Mechanism_in_SNN]]
 [[Autonomous_Spiking_Dynamics]]
+[[Avoided_Criticality]]
 [[BiSpikCLM]]
 [[BigBrainCellularAxis]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
@@ -35,7 +36,6 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[Self_Organized_Criticality]]
 [[SpikePacketCompression]]
-[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 
 ## Sources

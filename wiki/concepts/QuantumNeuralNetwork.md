@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_InMemory_Processing]]
 [[Backpropagating_Action_Potential]]
 [[CST计量仪]]
+[[CommunicationHeterogeneity]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

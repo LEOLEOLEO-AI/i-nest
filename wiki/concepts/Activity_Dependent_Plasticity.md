@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[ITP_STDP]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
+[[JunctionSignalIntegrity]]
 [[ManyBodyLocalizationThermalizationDuality]]
 [[ManyBodyLocalization]]
 [[MemristiveSignedCouplings]]

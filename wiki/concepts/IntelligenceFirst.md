@@ -32,10 +32,14 @@ Auto-extracted concept from raw material compilation.
 [[BoundaryObject_Abstraction]]
 [[ByteDance_Ada_Chip]]
 [[CST_MasterEquation]]
+[[CST计量仪]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]
+[[Complex_System_Theory]]
+[[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

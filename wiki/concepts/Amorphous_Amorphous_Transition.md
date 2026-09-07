@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Mesoscale_Neural_Dynamics]]
 [[MetaFAIR_ArchitectureDiscovery]]
+[[MinimalNetworkModel]]
 [[National_Innovation_Center_Role]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]

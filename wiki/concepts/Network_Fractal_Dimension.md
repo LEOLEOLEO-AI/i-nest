@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Course_Based_FPGA_Projects]]
 [[Crystallized_Neural_Manifolds]]
+[[DARPA_3DHI_Roadmap]]
 [[HigherOrderSimplicialDynamics]]
 [[Intelligence_Emergence]]
 [[InterconnectConstrainedEmergence]]

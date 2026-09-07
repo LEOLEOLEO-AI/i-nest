@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[EventBasedNeuralDecoding]]
 [[EventDrivenInference]]
 [[EventDrivenSpectralProcessing]]
+[[FibonacciMonitoredCriticality]]
 [[FirstTimestepConversion]]
 [[Intelligence_Emergence]]
 [[InterFPGA_Spike_Routing]]

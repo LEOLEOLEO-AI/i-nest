@@ -47,10 +47,13 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[PipelinedReadout]]
 [[SNN]]
+[[SpikeEncodingLatency]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[UniSpike_Acceleration]]
 [[analog computation]]
 [[iNEST]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

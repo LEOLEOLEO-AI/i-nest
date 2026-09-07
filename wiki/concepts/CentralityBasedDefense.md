@@ -59,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[ScaledTorusTrainingLimit]]
 [[SelfHealing_Interconnect]]
+[[SpaceToUndersea_ResilientComms]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[complex system]]

@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Active_Inference_Agent]]
 [[AlternativeBridgingModels]]
 [[AnisotropicGaussianPrimitives]]
 [[AstrocyteInspiredRepair]]
@@ -41,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[ForwardFluctuationGradient]]
 [[GraphEmbeddedReservoir]]
 [[InNetworkNeuromorphicSimulation]]
+[[InNetworkNeuromorphic]]
 [[In_Context_Learning]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]

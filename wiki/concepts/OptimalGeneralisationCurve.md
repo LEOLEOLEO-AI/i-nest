@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Architecture]]
 [[Complex_System_Theory]]
 [[Complexity_Coordination_Layer]]
+[[Critical_Region_Extension]]
 [[DARPA_3DHI_Roadmap]]
 [[DTGA]]
 [[Decoupling_Mechanism]]

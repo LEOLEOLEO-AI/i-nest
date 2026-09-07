@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[BiasEvaluationMetrics]]
 [[BigBrainCellularAxis]]
 [[BranchingRatio]]
+[[Chiplet_Integration_Route]]
 [[Complex_Network_Class_Brain_Computing]]
 [[Complex_System_Theory]]
 [[Criticality]]

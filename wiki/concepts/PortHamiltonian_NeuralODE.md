@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[DelayCascadePrediction]]
 [[Differential_Encoding]]
 [[DimensionalityReductionForNetworkControl]]
+[[Dual_Threshold_Convergence]]
 [[FemtosecondLaserMachining]]
 [[ImaginaryGaugePhaseImprint]]
 [[Intelligence_Emergence]]

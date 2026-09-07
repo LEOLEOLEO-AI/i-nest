@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Fading_Memory_Property]]
 [[Intelligence_Emergence]]
+[[MachineLearningPotential]]
 [[Memristive_STDP]]
 [[Memristive_Topology]]
 [[NCL神经计算定律详解]]

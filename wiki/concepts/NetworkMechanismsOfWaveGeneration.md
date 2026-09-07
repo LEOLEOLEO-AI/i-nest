@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[EntanglementSignatures]]
 [[GeometricRegularizationLoss]]
 [[HigherOrderPublicGoodsGame]]
+[[InNetwork_Service_Composition]]
 [[InferencePipelineTopologyAwareScheduling]]
 [[Intelligence_Emergence]]
 [[MagicStateDistillationOverheadModel]]

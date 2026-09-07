@@ -59,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[Syncytial_Mesh]]
 [[Syncytial_Mesh_Model]]
 [[TCC]]
+[[Wafer_Scale_Neuromorphic]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
 [[类脑芯片]]

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[BackpropagationFreeLearning]]
 [[ByteDance_Ada_Chip]]
 [[CircuitTopologySearch]]
+[[CompactFieldVariable]]
 [[Complex_System_Theory]]
 [[ComputationEfficientDeepLearning]]
 [[ConcentricDiscreteOpticalVortices]]

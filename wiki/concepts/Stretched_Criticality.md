@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[FastSlow_Dynamics]]
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
+[[GlobalInformationDominance]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Local_Approximation_Dynamics]]

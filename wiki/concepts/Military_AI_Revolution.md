@@ -56,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikingNeuralNetworkTopologyMapping]]
 [[SpikingNeuralNetworkTopology]]
 [[SpikingNeuralNetwork]]
+[[SpikingPlaceCellEnsemble]]
 [[Spiking_Neural_Network]]
 [[SuperparamagneticSwitchingRate]]
 [[Swarm_Coordination]]

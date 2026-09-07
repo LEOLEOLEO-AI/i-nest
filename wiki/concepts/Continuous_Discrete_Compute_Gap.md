@@ -23,13 +23,19 @@ Auto-extracted concept from raw material compilation.
 [[BioPlausiblePredictiveCoding]]
 [[BurstGatedRouting]]
 [[Event_Driven_Architecture]]
+[[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[In_Package_Neuromorphic_Integration]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
+[[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[P_Paradigm]]
+[[SDI_Bond]]
 [[SDI_iNEST_Interconnect]]
 [[SNN]]
 [[Spiking_Neural_Network]]
+[[iNEST]]
+[[iNEST_Interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

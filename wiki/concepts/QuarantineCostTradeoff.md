@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[DifferentiableRasterizationPipeline]]
 [[Distributed_Spike_Communication]]
 [[Environmental_Capability_Context]]
+[[EventDriven_Interconnect]]
 [[Heterogeneous_Integration]]
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]

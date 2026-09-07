@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[FPGA_Accelerated_SNN]]
 [[FPGA_Neuromorphic_Acceleration]]
+[[FiniteSizeCrossover]]
 [[GeneralIntelligenceSubstrate]]
 [[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]
@@ -63,7 +64,6 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[TCC]]
-[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

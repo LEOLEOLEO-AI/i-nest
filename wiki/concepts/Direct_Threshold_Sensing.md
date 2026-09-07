@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Molecular_Electrical_Relationship]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
+[[Photopolymerization_Printing]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
 [[iNEST]]

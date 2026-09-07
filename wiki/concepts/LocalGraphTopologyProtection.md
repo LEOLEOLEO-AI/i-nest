@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Anisotropic_Correlation_Length]]
 [[ArbitraryWavefunctionConfigurability]]
 [[Architectural_Conditioning]]
+[[AstrocyteInspiredRepair]]
 [[BigBrainCellularAxis]]
 [[CST_MasterEquation]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]

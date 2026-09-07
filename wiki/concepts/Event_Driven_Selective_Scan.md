@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenAttentionMasking]]
 [[EventDrivenAttentionMechanism]]
 [[EventDrivenComputation]]
+[[EventDrivenInferencePipeline]]
 [[Event_Driven_Architecture]]
 [[Event_Driven_Computation]]
 [[Intelligence_Emergence]]

@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[BoundaryContract]]
 [[CausalEmergenceCondition]]
 [[CeYIGMagnetoOpticalIsolator]]
+[[ChiralSymmetryClasses]]
 [[Complex_System_Theory]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]

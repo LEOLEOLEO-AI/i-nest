@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Frontier_Innovation_Mapping]]
 [[GradientBasedSpikeLearning]]
 [[Interconnect_Routing]]
+[[KinematicWavePropagation]]
 [[LatencyGradientDescent]]
 [[LossSpikePhenomenon]]
 [[Neuromorphic_Computing]]

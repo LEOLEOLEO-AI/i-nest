@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[EmergentIntelligence_Spacetime]]
 [[Heterogeneous_Inference_Division]]
 [[Heterogeneous_Integration]]
+[[InMateriaComputing]]
 [[Intelligence_Emergence]]
 [[Intelligent_Power_Management]]
 [[Memristor]]

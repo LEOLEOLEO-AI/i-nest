@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_Theory]]
 [[CST_Theory_V27_FINAL]]
 [[Complex_System_Theory]]
+[[CriticalityOnSmallWorlds]]
 [[Criticality]]
 [[Intelligence_Emergence]]
 [[Neuromorphic_Computing]]

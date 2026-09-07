@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Computation]]
 [[In_Context_Learning]]
 [[JunctionSignalIntegrity]]
+[[Local_Plasticity_Rule]]
 [[NeuromorphicRL]]
 [[Neuromorphic_Computing]]
 [[NonEquilibriumPhase]]

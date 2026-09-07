@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Allreduce_Latency_Probe]]
 [[AnomalousSpinTransport]]
+[[AstrocyteInspiredRepair]]
 [[BigBrainCellularAxis]]
 [[BrainBodyResonance]]
 [[ByteDance_Ada_Chip]]
@@ -55,6 +56,8 @@ Auto-extracted concept from raw material compilation.
 [[ScaleFreeNetwork]]
 [[Scale_Dependent_Coherence]]
 [[SelfOrganizedOscillatoryLearning]]
+[[SpikeEncoding]]
+[[Spiking_Neural_Network]]
 [[SuperparamagneticSwitchingRate]]
 [[Synaptic_Plasticity]]
 [[Syncytial_Mesh]]

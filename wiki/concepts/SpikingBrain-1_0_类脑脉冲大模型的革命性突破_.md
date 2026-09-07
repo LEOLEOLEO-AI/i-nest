@@ -31,6 +31,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Chiplet]]
 [[Chiplet_Based_Neuromorphic_Integration]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Communication_Trace_Diagnostics]]
 [[Criticality]]
 [[Distributed_Spike_Communication]]
 [[Event_Driven_Architecture]]

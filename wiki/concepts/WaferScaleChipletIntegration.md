@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[CommunicationAsComputation]]
+[[Cryogenic_Syndrome_Compression]]
 [[EulaminateOverrepresentation]]
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
@@ -60,7 +61,6 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
 [[Wafer_Scale_Topology]]
-[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

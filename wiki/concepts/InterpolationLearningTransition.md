@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Bipartite_Interconnect_Fabric]]
 [[CircuitCoDesign]]
 [[Complex_System_Theory]]
+[[DARPA_ERI_2_0_Framework]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence]]

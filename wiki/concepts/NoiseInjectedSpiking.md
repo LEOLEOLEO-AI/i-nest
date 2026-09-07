@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstSuppression]]
 [[ContinuousControlConversion]]
 [[Criticality]]
+[[DeepLinearNetworkCriticality]]
 [[DifferentiableSpikeTimeDiscretization]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]

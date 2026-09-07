@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[CommunicationOverlapMechanism]]
 [[Complex_System_Theory]]
 [[ComputeRelocationOverhead]]
+[[Cryogenic_Syndrome_Compression]]
 [[DataMovementMinimization]]
 [[DirectConnect_Topology]]
 [[EMIB_Bridge]]
@@ -71,7 +72,6 @@ Auto-extracted concept from raw material compilation.
 [[Topology_Aware_NoC_Routing]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Packaging]]
-[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

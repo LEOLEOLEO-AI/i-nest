@@ -20,16 +20,27 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Four_Scale_Semantic_Battlefield]]
+[[Heterogeneous_Integration]]
+[[Interconnect_Topology]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[MicroRouter_Embedding]]
+[[Network_Topology_Design]]
+[[Network_on_Chip]]
+[[NoC]]
 [[NoC_Chiplet_iNEST_Wafer]]
 [[OnWafer_2D_Mesh]]
 [[SDI_Bond]]
+[[SDSoW]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
+[[iNEST]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

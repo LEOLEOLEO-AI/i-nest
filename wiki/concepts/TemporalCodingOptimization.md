@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AsynchronousEventDrivenComputation]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BurstCoding]]
+[[CascadedAdaptiveCombiners]]
 [[CirculateFiringNeuron]]
 [[Complex_System_Theory]]
 [[Cytokine_Feedback_Loops]]

@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_STDP]]
 [[Memristor]]
 [[Memristor_Synapse]]
+[[NeuromorphicLocomotionPrimitive]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[SDI_Bond]]

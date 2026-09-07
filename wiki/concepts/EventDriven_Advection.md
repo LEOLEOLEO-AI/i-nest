@@ -27,10 +27,10 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[BioPlausiblePredictiveCoding]]
 [[BrainInspiredArchitecture]]
+[[BrainInspired_Chip]]
 [[Event_Driven_Architecture]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
-[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

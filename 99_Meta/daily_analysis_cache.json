@@ -965,6 +965,32 @@
         "source_path": "00_Inbox\\_pipeline_insights\\2026-09-06_arXiv_High-Throughput Computational Discovery of Inverted Resistiv.md"
       },
       "cached_at": "2026-09-06T23:35:04"
+    },
+    "f4e8523773bfe79f22f0af18e7f189ea7b91f0525af5f8706503cbfc95b5c35e": {
+      "analysis": {
+        "id": 1,
+        "title_zh": "Large Language Models with At Most One Spike per Neuron",
+        "tcc_value": "",
+        "inest_value": "关键词匹配,需深入阅读",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 5,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-09-08_arXiv_Large Language Models with At Most One Spike per Neuron.md"
+      },
+      "cached_at": "2026-09-08T06:56:30"
+    },
+    "42040eee3053d6cf5f1aae27a9a60f12f2808d36e5fa33bbfc8dc88559f75fd6": {
+      "analysis": {
+        "id": 2,
+        "title_zh": "Quantum-State Texture Dynamics: Theory and Experiment",
+        "tcc_value": "",
+        "inest_value": "关键词匹配,需深入阅读",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 5,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-09-08_arXiv_Quantum-State Texture Dynamics Theory and Experiment.md"
+      },
+      "cached_at": "2026-09-08T06:56:30"
     }
   }
 }

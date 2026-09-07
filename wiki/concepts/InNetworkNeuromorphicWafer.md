@@ -21,12 +21,16 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[InNetworkNeuromorphic]]
+[[In_Network_Neuromorphic]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[PhysicalSubstrateReservoir]]
+[[Reservoir_Computing]]
 [[SDSoW]]
+[[SDSoW_Architecture]]
 [[SDSoW_Strategic_Planning]]
 [[Scalable_Neuromorphic_System]]
+[[Software_Defined_Wafer_System]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
 [[iNEST]]

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AddressRedundancyElimination]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[BandedConnectivityModel]]
 [[Baseline_Draft_Status]]
 [[CIMWeightUpdateAwareness]]
 [[CollectiveDynamics]]

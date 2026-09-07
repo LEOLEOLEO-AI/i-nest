@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_NoC_Fabric]]
 [[Chiplet_Stacking]]
+[[DTGA]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Topology]]
 [[Network_Topology_Design]]

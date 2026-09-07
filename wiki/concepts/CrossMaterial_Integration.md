@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[BifurcationCandidate]]
 [[Bipartite_Interconnect]]
 [[Bipartite_Interconnect_Fabric]]
+[[ChipletSignalIntegrity]]
 [[ChipletTrafficAwareScheduling]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[DeeplySupervisedSpiking]]
 [[DendriticTaskPartitioning]]
 [[DendriticTaskRouting]]
+[[Distributed_Spike_Communication]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Memristor]]

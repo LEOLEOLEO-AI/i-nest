@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Constructed_Reality_Interconnect]]
 [[DevelopmentalNeuromorphicAdaptation]]
 [[Efficient_Coding_Constraint]]
+[[EventBasedAnalogFrontEnd]]
 [[Inference_Driven_Fitness]]
 [[Intelligence_Emergence]]
 [[InterconnectDrivenPlacement]]

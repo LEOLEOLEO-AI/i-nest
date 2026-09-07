@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[BackpropagationFreeLearning]]
 [[BoundaryObject_Abstraction]]
 [[CST计量仪]]
+[[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
 [[DARPA_ProjectManager_Model]]
 [[Deep_Network_Architecture_Invariant]]

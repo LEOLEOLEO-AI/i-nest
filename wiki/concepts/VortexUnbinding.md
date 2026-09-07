@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossEntityPreemptiveWarning]]
 [[DimensionSeparation_IntensiveExtensive]]
 [[DiscreteContinuous_Unification]]
+[[DrivenCriticalityOptimalityTradeoff]]
 [[EventDrivenMotionDeblurring]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]

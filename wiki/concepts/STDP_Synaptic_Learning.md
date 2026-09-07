@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[DeeplySupervisedSpiking]]
 [[FatigueSTDP]]
 [[Memristive_STDP]]
 [[Memristor]]
@@ -30,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[QuantumDeeplySupervisedSpiking]]
 [[SDI_Bond]]
 [[SDI_STDP]]
+[[SDI_STDP_Bond]]
 [[STDP_Plasticity]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

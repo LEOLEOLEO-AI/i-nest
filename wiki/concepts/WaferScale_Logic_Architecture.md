@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
+[[Chiplet_Packaging]]
 [[Heterogeneous_Integration]]
 [[Hierarchical_Interconnect]]
 [[Interconnect_Routing]]
@@ -43,7 +44,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[Topology_Aware_NoC_Routing]]
 [[UCIe_Interconnect]]
-[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

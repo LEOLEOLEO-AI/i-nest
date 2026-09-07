@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Catastrophic_Forgetting_Mitigation]]
 [[ClosedLoopNeuromorphicControl]]
 [[Cognitive_Relapse_Decoupling]]
+[[Controlled_Release_Kinetics]]
 [[Criticality]]
 [[Neuromorphic_Computing]]
 [[STDP_Plasticity]]

@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[FixedOverheadCost]]
 [[FixedOverheadPenalty]]
 [[Heterogeneous_Integration]]
+[[HodgkinHuxleyDynamics]]
 [[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Learning]]
 [[LIF_Neuron_Model]]

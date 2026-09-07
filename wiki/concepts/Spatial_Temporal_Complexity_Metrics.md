@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Driven_Architecture_Search]]
 [[Automated_Assessment_Framework]]
 [[CellEmergenceMechanism]]
 [[CellEmergence]]
@@ -31,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicSafetyBoundary]]
 [[Neuromorphic_Computing]]
 [[OpenEndedDiscovery]]
+[[QuantumChaos]]
 [[RandomGraphQuantumChaos]]
 [[iNEST]]
 

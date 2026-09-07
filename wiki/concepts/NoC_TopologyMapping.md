@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
+[[CongestionAwareNoCPlacement]]
 [[CorticalTypeDiversity]]
 [[CrossbarArrayVLSI]]
 [[Free_Energy_Principle]]
@@ -55,7 +56,6 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
-[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

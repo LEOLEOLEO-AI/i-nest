@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AutonomousServiceNegotiation]]
 [[BigBrainCellularAxis]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
+[[Complexity_Emergence_Engineering]]
 [[DynamicServiceComposition]]
 [[FPGA_Accelerated_SNN]]
 [[Quantization_HLS_Conversion]]

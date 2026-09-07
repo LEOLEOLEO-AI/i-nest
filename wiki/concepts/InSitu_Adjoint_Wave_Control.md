@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[SelfOrganization]]
 [[Space_Compute_Architecture_Tradeoff]]
+[[Space_Radiation_Hardening]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[VectorFlowField]]

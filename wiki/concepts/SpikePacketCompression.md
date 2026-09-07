@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[EventBasedMotionDeblurring]]
 [[EventDrivenAttentionMechanism]]
 [[EventDrivenMotionDeblurring]]
+[[EventDrivenPlasticity]]
 [[EventDrivenTrajectoryEncoding]]
 [[EventDrivenWirelessTransmission]]
 [[InputAdaptiveComputation]]

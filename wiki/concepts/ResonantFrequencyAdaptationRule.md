@@ -23,6 +23,9 @@ Auto-extracted concept from raw material compilation.
 [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[1M1T1R_SynapticNeuron]]
 [[BurstInterleaving]]
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration]]
 [[Chiplet_Integration_Route]]
 [[Complex_System_Theory]]
 [[EdgeInspectionInference]]
@@ -54,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect_Memristor]]
 [[WirelessSplitComputing]]
 [[iNEST]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

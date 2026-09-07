@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[EdgeInspectionInference]]
 [[End_Side_Neuromorphic_Deployment]]
 [[EventDriven_Interconnect]]
+[[FullSpectrum_Programmability]]
 [[Heterogeneous_Integration]]
 [[InSituNeuralProcessing]]
 [[Memory_Wall]]

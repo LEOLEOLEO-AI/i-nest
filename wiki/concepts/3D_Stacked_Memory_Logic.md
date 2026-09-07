@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CoPackagedOptics]]
 [[Efficient_Coding_Constraint]]
 [[EventBasedAnalogFrontEnd]]
+[[EventDrivenAttentionMechanism]]
 [[InNetworkFieldQuery]]
 [[In_Memory_Computing]]
 [[Memory_Wall]]

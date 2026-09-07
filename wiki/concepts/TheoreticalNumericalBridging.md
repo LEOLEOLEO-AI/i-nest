@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[DenseHighOrderInteractions]]
 [[Dynamic_Expert_Fusion]]
 [[Heterogeneous_Integration]]
+[[HybridConvexOptimization]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

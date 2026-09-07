@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[DevelopmentalNeuromorphicAdaptation]]
 [[Dynamic_Expert_Fusion]]
+[[Efficient_Coding_Constraint]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[ExplainableEnergyAI]]
@@ -49,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[Neuromorphic_Interconnect]]
 [[Neuromorphic_Selective_State_Space]]
 [[RecursiveSelfReferentialArchitecture]]
 [[RestingStateEEG_Connectivity]]
@@ -64,7 +66,6 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
-[[neuromorphic interconnect]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[神经网络]]
 

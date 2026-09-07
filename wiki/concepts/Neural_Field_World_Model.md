@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[LLMDrivenPathSelection]]
+[[LocalPlasticityPipeline]]
 [[Network_Topology_Design]]
 [[Path_State_Awareness]]
 [[PhotonicSynapticPlasticity]]

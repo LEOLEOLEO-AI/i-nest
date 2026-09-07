@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Decoupled_Priors]]
 [[Deep_Network_Architecture_Invariant]]
 [[Defense_Industrial_Base_Reshaping]]
+[[DiagnosticReportFramework]]
 [[EnergyOptimizedManycoreArchitecture]]
 [[FlagScale]]
 [[FlagScale_Training_Inference]]

@@ -31,10 +31,10 @@ Auto-extracted concept from raw material compilation.
 [[InMateriaComputing]]
 [[Intelligence_Emergence]]
 [[Intelligent_Power_Management]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
-[[neuromorphic interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

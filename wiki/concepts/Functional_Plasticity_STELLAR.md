@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AIRA_NeuralArchSearch]]
 [[Constructed_Reality_Interconnect]]
 [[CrossbarInterconnect]]
 [[Evolutionary_Structure_Computability]]
@@ -27,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle_Network]]
 [[Gate_Synthesis_Readout]]
 [[Hypersonic_Weapon_Market_CAGR]]
+[[Interconnect_Routing]]
 [[LossSpikeMechanism]]
 [[Memristor]]
 [[Memristor_Synapse]]

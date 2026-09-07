@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[AnomalousSpinTransport]]
 [[Architectural_Conditioning]]
+[[AstrocyteInspiredRepair]]
 [[BigBrainCellularAxis]]
 [[BrownianCastleInterface]]
 [[BrownianCastleInterfaces]]

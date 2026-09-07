@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Architecture]]
 [[Event_Driven_Computation]]
 [[Intelligence_Emergence]]
+[[JunctionSignalIntegrity]]
 [[ManyBodyLocalization]]
 [[MemristiveSignedCouplings]]
 [[NeuromorphicRL]]

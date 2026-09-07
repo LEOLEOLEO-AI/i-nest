@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[AnisotropicGaussianPrimitives]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BurstTemporalPlasticity]]
+[[CorticalWaveRouting]]
 [[DiscreteSTDP]]
 [[EEGSpikeEncoding]]
 [[EventCameraPoseInput]]

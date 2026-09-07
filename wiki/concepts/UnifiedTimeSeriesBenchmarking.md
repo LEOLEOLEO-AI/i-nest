@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[ERI_2_0_Strategy]]
 [[Fading_Memory_Property]]
 [[GenerativeTopologyModels]]
+[[HeterogeneousNodeDynamics]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

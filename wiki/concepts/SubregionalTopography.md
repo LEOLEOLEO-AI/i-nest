@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[ArbitraryWavefunctionConfigurability]]
 [[AttentionWeightedPatchAggregation]]
 [[AutonomousAdaptation]]
+[[BrownianCastleInterface]]
 [[Free_Energy_Topology_Mapping]]
 [[Inference_Workload_Profiling]]
 [[Interconnect_Routing]]

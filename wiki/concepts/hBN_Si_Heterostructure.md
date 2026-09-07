@@ -35,7 +35,9 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_iNEST_CoPackaging]]
 [[SDI_iNEST_Wafer]]
+[[WaferScale_System]]
 [[iNEST]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

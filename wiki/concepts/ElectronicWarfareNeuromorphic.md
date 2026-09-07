@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Gut_Brain_Immune_Network]]
 [[ITP_STDP]]
 [[InNetworkAgentRewiring]]
+[[InNetworkNeuromorphicSimulation]]
 [[Intelligence_Emergence]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[NeuralNetworkSpectralAnalysis]]

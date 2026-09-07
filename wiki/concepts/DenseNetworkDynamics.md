@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[ERI_2_0_Strategy]]
 [[EmergentAttractorInvariance]]
 [[EmergentReplicaClock]]
+[[EntanglementStructure]]
 [[Intelligence_Emergence]]
 [[MachineLearningPotential]]
 [[Network_Topology_Design]]

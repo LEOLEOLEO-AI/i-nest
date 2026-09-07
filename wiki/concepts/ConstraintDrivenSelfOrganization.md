@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityInNetworkComputing]]
 [[CriticalityOffCriticalityTransition]]
 [[Criticality]]
+[[CrossbarFabricTopology]]
 [[Dimensionality_Modularity_Tradeoff]]
 [[DynamicCentralitySteering]]
 [[Dynamic_Expert_Fusion]]

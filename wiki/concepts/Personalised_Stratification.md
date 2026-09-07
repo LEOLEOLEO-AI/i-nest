@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[DiffusionInducedInstability]]
 [[Dimensionality_Modularity_Tradeoff]]
+[[DrivenCriticalityDynamics]]
 [[Dynamic_Expert_Fusion]]
 [[DynamicalCriticality]]
 [[EmulationTheoryObserver]]

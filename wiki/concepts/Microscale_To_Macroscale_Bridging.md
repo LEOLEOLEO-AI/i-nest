@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[SpinalHDL_DSL]]
 [[SurvivalByServing]]
+[[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[complex system]]
 [[iNEST]]

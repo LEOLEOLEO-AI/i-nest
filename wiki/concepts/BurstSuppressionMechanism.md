@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[Distributed_Spike_Communication]]
 [[DynamicTokenSparsity]]
+[[Edge_Neuromorphic_Compute]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenMotionDeblurring]]

@@ -42,10 +42,10 @@ Auto-extracted concept from raw material compilation.
 [[EvolutionarySpikeTimingOptimization]]
 [[Hardware_Aware_SNN_Optimization]]
 [[Interconnect_Routing]]
+[[KinematicWavePropagation]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[SNN]]
-[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

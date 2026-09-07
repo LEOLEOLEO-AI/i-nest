@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[EventCameraTemporalEncoding]]
 [[Event_Driven_Architecture]]
 [[In_Network_Neuromorphic]]
+[[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]
 [[IntrinsicTimingSTDP]]
 [[Network_on_Chip]]

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Learning_Rule_Comparison]]
 [[Memristive_STDP]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]

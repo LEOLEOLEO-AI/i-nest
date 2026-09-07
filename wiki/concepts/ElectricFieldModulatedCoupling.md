@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AdiabaticModeEvolution]]
 [[AdjointWaveControl]]
 [[ArbitraryWavefunctionConfigurability]]
+[[CircuitTopologyEncoding]]
 [[Complex_System_Theory]]
 [[ControlDrivenCriticalFluctuations]]
 [[ControlTheoreticTopology]]

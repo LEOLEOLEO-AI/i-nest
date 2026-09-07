@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[FlexibleManifoldReconfiguration]]
 [[InNetworkReconfiguration]]
 [[Interconnect_Routing]]
+[[LocalPlasticityPipeline]]
 [[MoE_Routing]]
 [[Network_Topology_Design]]
 [[NeuromorphicRadarFrontend]]

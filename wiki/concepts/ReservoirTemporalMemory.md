@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[UniversalIntelligence_Emergence]]
 [[Yann LeCun：发现智能原理是AI的终极问题]]
+[[iMESO_PhysicalCarrier]]
 [[iNEST]]
 [[待分类]]
 [[神经形态脉冲大语言模型（NSLLM）]]

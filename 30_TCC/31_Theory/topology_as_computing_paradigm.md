@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 理论
+tags: [拓扑计算, 神经可塑性, 存算一体, 动态架构, 计算范式]
+summary: "拓扑即计算：从历史、生物与工程视角论证动态拓扑架构的必然性"
+quality: high
+processed: 2026-09-08 06:47
+---
+---
 title: "当拓扑成为计算本身"
 tags:
   - neural

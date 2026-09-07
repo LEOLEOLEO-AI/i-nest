@@ -57,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[SmallWorldNetworks]]
 [[SparseTemporalEncoding]]
 [[Spiking_Neural_Network]]
+[[Strategic_Surprise_Prevention]]
 [[Technology_Disparity_Offset]]
 [[Topology_Centric_Neuromorphic]]
 [[Yann LeCun：发现智能原理是AI的终极问题]]

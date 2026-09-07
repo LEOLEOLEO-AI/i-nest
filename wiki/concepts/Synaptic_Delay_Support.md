@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[1M1T1R_SynapticNeuron]]
 [[AI_Enabled_Battlefield_Autonomy]]
 [[AcceleratorReconfigurationOverhead]]
+[[AdaptiveTimeStepTraining]]
 [[Adaptive_Deep_Brain_Stimulation]]
 [[AddressRedundancyElimination]]
 [[AgentBasedCorruptionModel]]

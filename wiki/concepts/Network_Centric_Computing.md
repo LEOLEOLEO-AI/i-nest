@@ -36,10 +36,12 @@ Auto-extracted concept from raw material compilation.
 [[EfficientDeepLearning]]
 [[EmergentIntelligence_Spacetime]]
 [[Flow_Network_Memory]]
+[[Heterogeneous_Inference_Division]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[TCC]]
+[[causal emergence]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

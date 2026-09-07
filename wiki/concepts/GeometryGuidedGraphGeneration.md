@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_Cluster_Switch_Bottleneck]]
 [[AI_Forum_Ecosystem]]
+[[Allreduce_Latency_Benchmark]]
 [[Analog_InMemory_Processing]]
 [[AnisotropicTensileStrength]]
 [[Asymptotic_Exact_Solution]]

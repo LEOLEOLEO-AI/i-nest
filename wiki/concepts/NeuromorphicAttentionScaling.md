@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[ST_SNN]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
+[[SynapticReinforcementConsolidation]]
 [[Syncytial_Mesh]]
 [[Syncytial_Mesh_Model]]
 [[TCC]]

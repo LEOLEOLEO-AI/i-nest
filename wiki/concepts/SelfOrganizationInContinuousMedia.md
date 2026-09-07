@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[LocalPlasticityPipeline]]
 [[Memristive_Topology]]
 [[NetworkArchitectureSearch]]
 [[Network_Topology_Design]]

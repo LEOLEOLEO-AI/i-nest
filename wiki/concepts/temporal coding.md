@@ -45,6 +45,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[DendriticTaskPartitioning]]
 [[DrivenDissipativeDynamics]]
 [[FeFET_Differential_BitCell]]
+[[FerroelectricSynapticArray]]
 [[Intelligence_Emergence]]
 [[Memristor]]
 [[Memristor_Synapse]]

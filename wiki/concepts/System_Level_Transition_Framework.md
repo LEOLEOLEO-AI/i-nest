@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[ComponentLevelPackaging]]
 [[CorticalTypeDiversity]]
+[[Critical_Region_Extension]]
 [[DTGA]]
 [[FPGA_Reconfigurability]]
 [[GPU_Bottleneck_Relief]]
@@ -63,6 +64,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Interconnect]]
 [[TCC]]
 [[advanced packaging]]
+[[causal emergence]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

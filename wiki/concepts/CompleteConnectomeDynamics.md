@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Active_Inference_Agent]]
 [[Brain_Connectome]]
 [[C__elegans_Connectome]]
 [[C_elegansConnectomeAnalogy]]

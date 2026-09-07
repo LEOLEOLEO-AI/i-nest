@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[EnergyEfficientSNN]]
 [[Event_Driven_Architecture]]
+[[Event_Driven_Orbital_Object_Pipeline]]
 [[InNetwork_Neuromorphic]]
 [[InNetwork_Neuromorphic_CoDesign]]
 [[In_Network_Neuromorphic]]

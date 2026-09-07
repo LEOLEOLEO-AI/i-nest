@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_NoC_Fabric]]
 [[Chiplet_Stacking]]
 [[Complex_System_Theory]]
+[[Critical_Region_Extension]]
 [[Deep_Thermalisation]]
 [[Defense_Industrial_Base_Reshaping]]
 [[DirectConnect_Topology]]

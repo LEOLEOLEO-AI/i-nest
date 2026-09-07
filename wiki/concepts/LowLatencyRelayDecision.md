@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[FisherOrthogonalMemory]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[Local_LLM_Deployment]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Chiplet]]

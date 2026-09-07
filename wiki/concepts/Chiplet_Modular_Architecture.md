@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Chemical_Bond_Operation_Algebra]]
 [[ChipletRoutingFabric]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]

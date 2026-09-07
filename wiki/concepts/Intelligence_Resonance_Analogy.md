@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AstrocyteInspiredRepair]]
 [[BigBrainCellularAxis]]
 [[Complex_System_Theory]]
+[[DevelopmentalNeuromorphicAdaptation]]
 [[Intelligence_Emergence]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]

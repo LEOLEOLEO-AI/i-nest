@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[FeFET_Polarization_Switching]]
 [[Free_Energy_Minimization_Interconnect]]
 [[Free_Energy_Topology_Mapping]]
+[[FunctionalInterfaceBlocks]]
 [[Intelligence_Emergence]]
 [[Interconnect_Scaling]]
 [[KV_Cache_To_BoundaryObject]]

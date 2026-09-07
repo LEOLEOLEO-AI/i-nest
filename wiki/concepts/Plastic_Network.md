@@ -31,6 +31,8 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Stacking]]
 [[CongestionAwareNoCPlacement]]
 [[Defense_Industrial_Base_Reshaping]]
+[[DynamicServiceComposition]]
+[[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC]]

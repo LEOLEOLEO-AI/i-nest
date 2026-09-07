@@ -28,7 +28,6 @@ iNEST, neuromorphic, spiking
 [[Nature Electronics]]
 [[Neuromorphic_Computing]]
 [[STDP_Plasticity]]
-[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]

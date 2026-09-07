@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_FullSpectrum_Strategy]]
+[[Active_Inference_Agent]]
 [[Brain_Connectome]]
 [[C_elegansConnectomeAnalogy]]
 [[ChaoticAttractorTopology]]

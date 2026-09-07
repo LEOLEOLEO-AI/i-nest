@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Async_Handshake_Protocol]]
 [[Avoided_Criticality]]
 [[Baseline_Change_Record]]
+[[BurstSuppressionMechanism]]
 [[Catastrophic_Forgetting_Mitigation]]
 [[Contested_Priors_Architecture]]
 [[CriticalFixedPoint]]

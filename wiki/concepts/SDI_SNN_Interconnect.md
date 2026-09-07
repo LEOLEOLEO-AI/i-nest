@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AIRA_NeuralArchSearch]]
 [[Bidirectional_Temporal_Enhancement]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
+[[Chiplet_Based_Neuromorphic_Integration]]
 [[ComplexValuedSNN]]
 [[DendriticTaskPartitioning]]
 [[In_Package_Neuromorphic_Integration]]

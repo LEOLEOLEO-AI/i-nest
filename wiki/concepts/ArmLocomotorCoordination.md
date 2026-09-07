@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[OpportunisticRouting]]
 [[PairwiseCorrelationConstraint]]
 [[PropertyPredictionModeling]]
+[[SNN]]
 [[SpikeEncoding]]
 [[SpikeRatePrecisionTradeoff]]
 [[Spike_Encoding_of_fMRI]]

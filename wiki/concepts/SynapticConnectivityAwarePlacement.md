@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Energy_Aware_Learning]]
 [[Neuromorphic_Integration]]
+[[OptimalGeneralisationNearInterpolation]]
 [[PrecisionConfigurableSparseNvCIM]]
 [[RecursiveSelfReferentialArchitecture]]
 [[RestingStateEEG_Connectivity]]

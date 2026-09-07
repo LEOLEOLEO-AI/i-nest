@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Based_Architecture]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
+[[Chiplet_Packaging]]
 [[Chiplet_Stacking]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]

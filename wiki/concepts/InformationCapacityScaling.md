@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[AutonomousCircuitMorphogenesis]]
 [[BCM滑动阈值]]
 [[Biocompatible_Neuromorphic_Interface]]
+[[CertifiedBifurcationDetection]]
 [[CollectiveStabilityMetric]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]

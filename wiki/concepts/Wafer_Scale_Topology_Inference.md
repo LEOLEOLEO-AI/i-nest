@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AutonomousAdaptation]]
 [[Complex_Network_Class_Brain_Computing]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Intelligence_Emergence]]
@@ -28,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[National_Mesoscale_Innovation_Center]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[Wafer_Scale_Emergence]]

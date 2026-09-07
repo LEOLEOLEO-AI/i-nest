@@ -58,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[NCL神经计算定律详解]]
 [[NearSensorComputing]]
 [[Network_Topology_Design]]
+[[PhotonicPackagingEfficiency]]
 [[TCC]]
 [[advanced packaging]]
 [[complex system]]

@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Planning_Architecture]]
 [[Online_Continual_Learning]]
+[[Personalised_Strategy_Optimisation]]
 [[PowerLawScaling]]
 [[Power_Density_Law]]
 [[SNN]]

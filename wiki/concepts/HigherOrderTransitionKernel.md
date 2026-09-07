@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_ProjectManager_Model]]
 [[DrivenDissipativeDynamics]]
 [[Efficient_Coding_Constraint]]
+[[EventBasedAnalogFrontEnd]]
 [[FPGA_Neuromorphic_Architectures]]
 [[HippocampalNeocorticalIntelligence]]
 [[Memristive_Interconnect]]

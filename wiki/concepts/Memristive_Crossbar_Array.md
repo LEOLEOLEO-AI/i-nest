@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[NestedRepresentation]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[OneDimensionalLongRangeInteractions]]
 [[Post_Moore_Paradigm]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SneakPathCurrentSuppression]]

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Accessibility_Plasticity]]
 [[ActiveDendriteSNN]]
 [[AnomalousSpinTransport]]
+[[Avoided_Criticality]]
 [[BigBrainCellularAxis]]
 [[BurstTemporalPlasticity]]
 [[Chiplet]]
@@ -55,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[SynapticFatigueModel]]
 [[Synaptic_Plasticity]]
+[[Syncytial_Mesh]]
 [[Syncytial_Mesh_Model]]
 [[iNEST]]
 

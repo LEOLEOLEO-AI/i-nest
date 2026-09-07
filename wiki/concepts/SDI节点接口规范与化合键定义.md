@@ -77,7 +77,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]
 [[TCC]]
-[[chiplet interconnect]]
+[[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[complex system]]
 [[iNEST]]
 [[涌现]]

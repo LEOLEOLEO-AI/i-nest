@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
+[[CompactFieldVariable]]
 [[DARPA_ProjectManager_Model]]
 [[EulaminateOverrepresentation]]
 [[Evolutionary_Structure_Computability]]
@@ -63,7 +64,6 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[analog computation]]
-[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[EEG_Criticality]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
+[[Fading_Memory_Property]]
 [[Intelligence_Emergence]]
 [[MicroCriticalAgent]]
 [[Neuromorphic_Computing]]

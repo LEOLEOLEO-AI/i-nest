@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[DTGA]]
 [[DifferentiableRasterizationPipeline]]
 [[DistributedModelCompression]]
+[[Distributed_Spike_Communication]]
 [[HigherOrderSimplicialDynamics]]
 [[HodgkinHuxleyDynamics]]
 [[Intelligence_Emergence]]

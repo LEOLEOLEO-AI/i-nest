@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[DiscreteSTDP]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
+[[InNetworkNeuromorphicSimulation]]
 [[Intelligence_Emergence]]
 [[IntrinsicTimingSTDP]]
 [[Memristive_STDP]]

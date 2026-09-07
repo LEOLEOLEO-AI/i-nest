@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[3d]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BioInspiredSequenceLearning]]
+[[CorticalWaveRouting]]
 [[DiscreteSTDP]]
 [[Event_Driven_Architecture]]
 [[IntrinsicTimingSTDP]]

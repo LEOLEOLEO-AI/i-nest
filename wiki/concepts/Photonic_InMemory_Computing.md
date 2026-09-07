@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Advanced_Packaging_for_Space]]
 [[Analog_Synaptic_Weighting]]
 [[Attention_Residuals]]
+[[BioInspiredGeneralist]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]

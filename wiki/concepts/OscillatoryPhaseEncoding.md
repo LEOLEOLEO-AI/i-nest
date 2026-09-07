@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[MembranePotentialBeliefState]]
 [[ModelOptimization]]
 [[MultiDimensionalGrouping]]
+[[MultiSynapticSpikingNeuron]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[SDI_Bond]]

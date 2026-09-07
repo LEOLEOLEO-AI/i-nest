@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Scalable_Graph_Search_Neuromorphic]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
+[[SynapticReinforcementConsolidation]]
 [[iNEST]]
 
 ## Sources

@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Generalization_Bound_Spectra]]
 [[Hyper_Dimensional_Computing]]
 [[IntegratedSensingFusion]]
+[[IntegrationProspectsForVLSI]]
 [[Intelligence_Emergence]]
 [[MeanFieldSpinGlass]]
 [[Network_Topology_Design]]

@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[GenerativeTopologyModels]]
 [[ImaginaryGaugePhaseImprint]]
 [[Intelligence_Emergence]]
+[[MetaHardwareAbstraction]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]

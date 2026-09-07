@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[CytoarchitectonicAxis]]
 [[DataDrivenCytoarchitectonicAxis]]
 [[DiscreteScaleInvariance]]
+[[DistributedInference]]
 [[ErrorSuppressedPipeline]]
 [[HigherOrderTransitionKernel]]
 [[Network_Topology_Design]]

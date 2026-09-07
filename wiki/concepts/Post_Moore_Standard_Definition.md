@@ -58,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[ReproducibleReservoirDynamics]]
 [[ReservoirDynamics]]
 [[Reservoir_Computing]]
+[[SelfFocusingControl]]
 [[SuperparamagneticSwitchingRate]]
 [[Swarm_Coordination]]
 [[TCC]]

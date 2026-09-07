@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[AnalogDomainCompression]]
 [[ApproximationFidelityTradeoff]]
 [[AttractorConvergenceAnalysis]]
+[[BackscatteringImmunity]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]

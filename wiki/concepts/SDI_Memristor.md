@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Synapse]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[MetaFAIR_ArchitectureDiscovery]]
+[[Network_Spatiotemporal_Synergy]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[SDI_Bond]]

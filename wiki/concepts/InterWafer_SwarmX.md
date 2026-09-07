@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[CommunicationAsComputation]]
 [[CrossbarArrayVLSI]]
+[[Dragonfly_Inspired_WaferScale]]
 [[GlobalDecision_LocalExecution_ControlPlane]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Topology]]
@@ -40,7 +41,6 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
-[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

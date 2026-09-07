@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[ContinuousTimeSNN]]
 [[Criticality]]
 [[EnergyEfficientRestoration]]
+[[EventBasedBioSignalFrontEnd]]
 [[EventDrivenMotionDeblurring]]
 [[Event_Driven_Architecture]]
 [[GradientBasedLearningLocalization]]

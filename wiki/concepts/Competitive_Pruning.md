@@ -32,6 +32,8 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Synaptic_Behavior]]
 [[AnytimePointCloudRecognition]]
 [[AsynchronousEventDrivenComputation]]
+[[BackflowTransformation]]
+[[EventDrivenComputation]]
 [[Neuromorphic_Computing]]
 [[Synaptic_Plasticity]]
 [[iNEST]]

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AINext_Initiative]]
 [[AcceleratedMaterialScreening]]
+[[Active_Inference_Agent]]
 [[AdversarialResilience]]
 [[Allreduce_Latency_Probe]]
 [[AnalogDomainCompression]]
@@ -34,7 +35,6 @@ Auto-extracted concept from raw material compilation.
 [[CST_CoordinationMechanism]]
 [[C__elegans_Connectome]]
 [[C_elegansConnectomeAnalogy]]
-[[Causal_Emergence]]
 [[Combinatorial_Optimization_Readout]]
 [[Complex_System_Theory]]
 [[Connectome]]
@@ -49,13 +49,16 @@ Auto-extracted concept from raw material compilation.
 [[GraphEmbeddedReservoir]]
 [[HierarchicalModularReservoirs]]
 [[InNetworkNeuromorphicSimulation]]
+[[InNetworkNeuromorphic]]
 [[In_Context_Learning]]
 [[Intelligence_Emergence]]
+[[Neuromorphic_Computing]]
 [[NonEquilibriumComputing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
+[[causal emergence]]
 [[iNEST]]
 
 ## Sources

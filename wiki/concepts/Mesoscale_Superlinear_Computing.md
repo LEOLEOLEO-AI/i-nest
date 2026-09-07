@@ -20,13 +20,22 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[CongestionAwareNoCPlacement]]
+[[DynamicServiceComposition]]
 [[GPU_Bottleneck_Relief]]
+[[Interconnect_Topology]]
 [[Microsecond_Link_Reconfiguration]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
+[[NoC]]
 [[OnChipOpticalTweezers]]
+[[Renormalization_Group]]
 [[Renormalization_Group_Attention]]
+[[SDI_Bond]]
 [[SDI_NPU_NoC_Integration]]
 [[TCC]]
 [[topology reconfiguration]]

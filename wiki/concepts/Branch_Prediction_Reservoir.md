@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[EcosystemTopologyCoupling]]
 [[Evolving_System_Adaptation]]
 [[Fixed_Reservoir_Unitary]]
+[[FlagOS_2_0]]
 [[Free_Energy_Synchronization]]
 [[InNetworkSignalRecovery]]
 [[MemristiveReservoirBranchPrediction]]

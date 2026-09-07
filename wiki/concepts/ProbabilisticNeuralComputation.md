@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Agile_Resilient_Defense_Ecosystem]]
 [[AnytimePointCloudRecognition]]
 [[ArtificialProprioception]]
+[[BioInspiredGeneralist]]
 [[ClosedLoopNeuromorphicControl]]
 [[Complex_System_Theory]]
 [[Compute_In_Memory_Neuromorphic]]

@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Critical_Region_Extension]]
 [[DelayPropagationDynamics]]
 [[DynamicSynchronyMetric]]
+[[ElectricFieldModulatedCoupling]]
 [[Emergent_Order_Deep_Belief_Networks]]
 [[ExactWiringRouting]]
 [[GrandCanonicalOptimization]]

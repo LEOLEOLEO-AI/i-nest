@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Autonomous_Spiking_Dynamics]]
 [[Continuous_Control_Spike_Timing_Sensitivity]]
+[[CorticalWaveRouting]]
 [[EventCameraTemporalEncoding]]
 [[EventDrivenDefenseMechanism]]
 [[EventStrengthEncoding]]

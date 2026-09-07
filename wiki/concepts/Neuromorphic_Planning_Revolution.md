@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[ConverterDrivenStability]]
 [[Criticality]]
 [[CrossEntityPreemptiveWarning]]
+[[Delay_Aware_Autograd_Spiking_Framework]]
 [[DrivenCriticalityOptimalityTradeoff]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]

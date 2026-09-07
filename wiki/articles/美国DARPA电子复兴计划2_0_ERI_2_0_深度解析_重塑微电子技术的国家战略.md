@@ -18,6 +18,7 @@ SDI, chiplet, iNEST, 互连, 封装, 神经形态
 
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Heterogeneous_Integration]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
 [[TCC]]

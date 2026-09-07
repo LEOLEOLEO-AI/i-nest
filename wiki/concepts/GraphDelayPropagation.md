@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[DisorderedNetworkInterconnect]]
 [[DistributedEventConditionDesign]]
 [[EnergyEfficiencyAI]]
+[[EquilibriumSolution]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[OpenLearningEcosystem]]

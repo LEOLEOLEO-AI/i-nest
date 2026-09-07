@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[DataMovementMinimization]]
 [[Heterogeneous_Integration]]
 [[InInterconnectMemory]]
+[[IsolatedKVBandwidth]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
@@ -37,7 +38,6 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Interconnect]]
 [[TCC]]
 [[advanced packaging]]
-[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

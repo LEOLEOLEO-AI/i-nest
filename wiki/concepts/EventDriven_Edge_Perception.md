@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[DelayCodedWorkingMemory]]
 [[EnergyEfficientRestoration]]
 [[Event_Driven_Architecture]]
+[[Event_Driven_Asynchronous_Circuit]]
 [[Event_Driven_Spike_Communication]]
 [[Event_Driven_Spiking]]
 [[Interconnect_Routing]]

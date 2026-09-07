@@ -33,10 +33,13 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[LocalLearning_SynapticUpdate]]
 [[MoE_Routing]]
+[[Network_Topology_Design]]
+[[NeuromorphicControlBarrierFunction]]
 [[NeuromorphicEdgeProcessing]]
 [[NeuromorphicHandwritingRecognition]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[Neuromorphic_Interconnect]]
 [[Neuromorphic_Selective_State_Space]]
 [[Neuromorphic_Speech_Tokenizer]]
 [[Neuromorphic_Topology]]
@@ -47,7 +50,6 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TemporalSparsityExploitation]]
 [[iNEST]]
-[[neuromorphic interconnect]]
 [[neuromorphic spiking]]
 
 ## Sources

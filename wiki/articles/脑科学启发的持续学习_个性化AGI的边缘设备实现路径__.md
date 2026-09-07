@@ -19,5 +19,6 @@ SDI, STDP, iNEST, neuromorphic, 神经形态, 类脑
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
 [[STDP_Plasticity]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 [[持续学习]]

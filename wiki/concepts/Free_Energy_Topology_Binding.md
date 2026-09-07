@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[DataCenter_Chip_Logic_Compression]]
 [[Dynamic_Expert_Fusion]]
 [[EntanglementFidelityBudgeting]]
+[[Fluidic_Hysterons]]
 [[FreeEnergyMinimization]]
 [[FunctionalMemoryTopology]]
 [[Heterogeneous_Integration]]

@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Theory]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Nonlinear_Dynamics]]
+[[HeavyTailedWaitingTimes]]
 [[Heterogeneous_Synaptic_Motifs]]
 [[InNetworkAgentRewiring]]
 [[IntelligenceEmergence]]

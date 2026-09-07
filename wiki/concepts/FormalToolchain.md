@@ -57,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[SNN_Config_Sensitivity]]
 [[Self_Organized_Criticality]]
+[[SpikeEncodingLatency]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[SynapticReinforcementConsolidation]]

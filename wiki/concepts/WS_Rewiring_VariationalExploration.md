@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AutonomousAdaptation]]
 [[BrownianCastleInterface]]
 [[CavityMethodAnalysis]]
+[[CoPackagedOptics]]
 [[Free_Energy_Topology_Mapping]]
 [[Interconnect_Routing]]
 [[MoE_Routing]]

@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[RedundancyControlledStochasticRouting]]
 [[STDPDrivenConnectivity]]
 [[STDP_Plasticity]]
+[[StochasticVehicleRouting]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[涌现]]

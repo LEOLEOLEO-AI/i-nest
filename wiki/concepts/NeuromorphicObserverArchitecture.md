@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[ITP_STDP]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[Memristive_STDP]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[NeuralNetworkSpectralAnalysis]]

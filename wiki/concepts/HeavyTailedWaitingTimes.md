@@ -57,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI节点接口规范与化合键定义]]
 [[STDP_Plasticity]]
 [[ScaleFreeNetwork]]
+[[ScaledTorusTrainingLimit]]
 [[SelfHealing_Interconnect]]
 [[SpaceToUndersea_ResilientComms]]
 [[SuperparamagneticSwitchingRate]]

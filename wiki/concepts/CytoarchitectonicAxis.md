@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CellEmergence]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration_Route]]
 [[Chiplet_Interconnect]]
 [[Course_Based_FPGA_Projects]]
 [[Heterogeneous_Integration]]
@@ -69,7 +70,6 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect_Memristor]]
 [[Wafer_Scale_Neuromorphic]]
 [[Wafer_Scale_Neuromorphic_Integration]]
-[[chiplet interconnect]]
 [[神经网络]]
 [[类脑芯片]]
 

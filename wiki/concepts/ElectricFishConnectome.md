@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Connectome]]
 [[Crystallized_Neural_Manifolds]]
 [[DataProvenanceIntegrity]]
+[[InNetworkNeuromorphicSimulation]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[iNEST]]

@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenControlLoop]]
 [[EventDrivenDataAssociation]]
 [[EventDrivenTextEncoding]]
+[[EventDriven_Attention]]
 [[Event_Driven_Architecture]]
 [[Event_Driven_Computation]]
 [[Event_Driven_Gait_Transition]]

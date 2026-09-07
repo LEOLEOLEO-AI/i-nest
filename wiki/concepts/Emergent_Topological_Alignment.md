@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration]]
 [[Complex_System_Theory]]
 [[ComputationEfficientDeepLearning]]
+[[DARPA_ERI_Program]]
 [[Deep_Network_Architecture_Invariant]]
 [[Defense_Industrial_Base_Reshaping]]
 [[EarlyExitInference]]

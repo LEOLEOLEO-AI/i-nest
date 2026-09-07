@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[AmorphousTopologicalSubstrate]]
+[[AnalogInMemoryComputing]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]
@@ -36,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[TCC]]
+[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

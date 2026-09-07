@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Deep_Brain_Stimulation]]
 [[AddressRedundancyElimination]]
 [[Algorithm_Hardware_CoDesign]]
+[[Autonomous_Driving_SNN_Application]]
 [[BurstTemporalPlasticity]]
 [[DTGA]]
 [[Edge_AI_Acquisition_Consolidation]]

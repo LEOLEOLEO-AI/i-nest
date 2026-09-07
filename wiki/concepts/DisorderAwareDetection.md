@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[CommunicationTopologyMismatch]]
 [[Complex_System_Theory]]
 [[ConformalFieldTheoryScaling]]
+[[CorticalEfficiencyReliabilityExchange]]
 [[Crack_Generation_Identification]]
 [[DAGGER_Algorithm]]
 [[DisorderFreeAnomalousTransport]]

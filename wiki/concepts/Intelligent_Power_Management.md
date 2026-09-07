@@ -60,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[NoC]]
 [[NoC_Chiplet_Wafer_Stack]]
+[[NonFermiLiquidBehavior]]
 [[Nonlinear_Gain]]
 [[P_Paradigm]]
 [[Photonic_Chiplet_Interconnect]]
@@ -73,7 +74,7 @@ Auto-extracted concept from raw material compilation.
 [[TemporalComplexity]]
 [[Textbook_Paradigm_Definition]]
 [[TopologyCentricEngineeringBase]]
-[[chiplet interconnect]]
+[[causal emergence]]
 [[iNEST]]
 
 ## Sources

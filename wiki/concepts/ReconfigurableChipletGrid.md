@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologyCentricComputing]]
 [[Topology_Centric_Computing]]
 [[Topology_Interconnect]]
+[[WaferScaleCoDesign]]
 [[WaferScaleTopologyCentricComputing]]
 [[Wafer_Chiplet_Topology_Interconnect]]
 [[Wafer_Scale_Integration]]

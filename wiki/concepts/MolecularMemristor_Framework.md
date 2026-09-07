@@ -29,11 +29,13 @@ Auto-extracted concept from raw material compilation.
 [[DevelopmentalNeuromorphicAdaptation]]
 [[FPGAInference]]
 [[FPGASpikingImplementation]]
+[[Flexible_Spike_Routing]]
 [[Interconnect_Routing]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Spiking_Neural_Network]]
 [[iNEST]]
 
 ## Sources

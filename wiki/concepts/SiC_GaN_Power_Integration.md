@@ -56,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[NoC]]
 [[P_Paradigm]]
+[[Photonic_Chiplet_Interconnect]]
 [[RecursiveSelfReferentialArchitecture]]
 [[State_Transition_Formalism]]
 [[TCC]]

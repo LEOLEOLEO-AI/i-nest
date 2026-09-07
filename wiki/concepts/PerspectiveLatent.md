@@ -26,7 +26,6 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[BigBrainCellularAxis]]
 [[Biologically_Plausible_Learning_Rules]]
-[[Causal_Emergence]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[ConverterDrivenStability]]
 [[CriticalityDrivenAdaptation]]
@@ -44,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[NoiseDrivenBackpropReconstruction]]
+[[OpinionDrivenVaccination]]
 [[STDPDrivenGraphLearning]]
 [[STDP_Plasticity]]
 [[STDP_Supervised_Degradation]]
@@ -56,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologyDrivenDynamics]]
 [[TopologyDrivenVulnerability]]
 [[VisualSemanticDecoding]]
+[[causal emergence]]
 [[iNEST]]
 
 ## Sources

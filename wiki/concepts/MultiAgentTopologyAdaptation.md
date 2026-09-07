@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[EmergentSystemSurrogate]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
+[[FPGA_Reconfigurability]]
 [[Free_Energy_Topology_Mapping]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Heterogeneous_Integration]]

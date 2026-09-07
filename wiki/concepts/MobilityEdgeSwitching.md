@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AINext_Initiative]]
+[[Active_Inference_Topology]]
 [[ActivityAvalanche]]
 [[AdaptiveArchitecture]]
 [[Adaptive_Intelligence_Principle]]

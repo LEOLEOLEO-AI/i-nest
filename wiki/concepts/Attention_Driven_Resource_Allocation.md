@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AutonomousAdaptation]]
 [[BigBrainCellularAxis]]
+[[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Roadmap]]
 [[EnsembleSparsity]]

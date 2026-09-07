@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[ComponentLevelMolding]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Crystallized_Neural_Manifolds]]
+[[DarkSiliconAwarePowerGating]]
 [[EdgeIoTEnergyAwareness]]
 [[HeavyTailedWaitingTime]]
 [[HeavyTailedWaitingTimes]]

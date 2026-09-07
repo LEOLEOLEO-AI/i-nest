@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Bipartite_Interconnect]]
 [[BoundaryContract]]
 [[BurstInterleaving]]
+[[ChiralSymmetryClasses]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

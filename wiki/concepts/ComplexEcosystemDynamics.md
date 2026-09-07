@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[Free_Energy_Topology_Mapping]]
+[[HallmarkDrivenCancerModeling]]
 [[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Integration]]
 [[Intelligence_Emergence]]

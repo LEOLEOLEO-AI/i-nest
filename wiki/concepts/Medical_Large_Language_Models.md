@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Defense_Industrial_Base_Reshaping]]
 [[EfficientDeepLearning]]
 [[EmergentIntelligence_Spacetime]]
+[[Flow_Network_Memory]]
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
@@ -72,7 +73,7 @@ Auto-extracted concept from raw material compilation.
 [[TemporalComplexity]]
 [[Textbook_Paradigm_Definition]]
 [[Topology_Centric_Computing]]
-[[chiplet interconnect]]
+[[causal emergence]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

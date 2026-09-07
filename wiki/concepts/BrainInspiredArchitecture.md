@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[LocalLearning_SynapticUpdate]]
 [[MemoryDrivenInterconnect]]
 [[NestedRepresentation]]
+[[NeuromorphicControlBarrierFunction]]
 [[NeuromorphicHandwritingRecognition]]
 [[NeuromorphicTrackerPipeline]]
 [[NeuromorphicTransformerPipeline]]

@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[OpportunisticRouting]]
 [[P_Paradigm]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SpikeDrivenDataAssociation]]
 [[SpikingNeuralNetworkTopologyMapping]]
 [[SpikingNeuralNetworkTopology]]
 [[SpikingNeuralNetwork]]

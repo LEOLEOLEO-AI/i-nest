@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[Beyond_Moore_Pathway]]
+[[BioInspiredGeneralist]]
 [[BioPlausiblePredictiveCoding]]
 [[CST计量仪]]
 [[Chiplet]]

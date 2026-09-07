@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration]]
 [[CongestionAwareNoCPlacement]]
 [[Decoupled_Priors]]
+[[Deep_Network_Architecture_Invariant]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[LatencyCodedInterconnect]]

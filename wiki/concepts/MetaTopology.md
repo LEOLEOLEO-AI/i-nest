@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Active_Inference_Topology]]
 [[AdjointWaveControl]]
 [[Analog_InMemory_Processing]]
+[[AndersonTransition]]
 [[ArbitraryWavefunctionConfigurability]]
 [[AutonomousServiceNegotiation]]
 [[CST_Spatiotemporal_Complexity]]

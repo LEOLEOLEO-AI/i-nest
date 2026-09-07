@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Forum_Demo_Narrative]]
 [[AmorphousTopologicalSubstrate]]
 [[BoundaryContract]]
+[[BoundaryObject_Abstraction]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]

@@ -53,7 +53,6 @@ Auto-extracted concept from raw material compilation.
 [[SOC]]
 [[SelectorFreeHopfieldNetwork]]
 [[Spike_Encoding_of_fMRI]]
-[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[TCC核心概念与基线理论集 (TCC Core Concepts)]]
@@ -69,6 +68,7 @@ Auto-extracted concept from raw material compilation.
 [[神经形态计算]]
 [[神经形态计算突破：脉冲神经网络实现机器人超低功耗定位新范式]]
 [[神经网络]]
+[[类脑芯片]]
 [[脉冲神经网络]]
 
 ## Sources

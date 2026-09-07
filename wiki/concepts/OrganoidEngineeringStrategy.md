@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[BifurcationCandidateSet]]
 [[BifurcationCandidate]]
 [[Biological_Plausibility_Preservation]]
+[[CST_Spatiotemporal_Complexity]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

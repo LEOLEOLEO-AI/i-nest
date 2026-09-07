@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]
+[[MetaHardwareAbstraction]]
 [[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]

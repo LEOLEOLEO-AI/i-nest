@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AutonomousAdaptation]]
 [[DTGA]]
 [[DynamicPlasticNetwork]]
+[[Dynamic_Topological_Bonding]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]

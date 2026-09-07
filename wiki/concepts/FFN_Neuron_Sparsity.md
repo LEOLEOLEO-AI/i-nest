@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[DiffAttention_SubtractiveMechanism]]
 [[Discrete_Event_Spike_Simulation]]
 [[EventDrivenTemplateUpdate]]
+[[FunctionalEnsembleComputation]]
 [[Neuromorphic_Computing]]
 [[Spiking_Neural_Network]]
 [[advanced packaging]]

@@ -34,6 +34,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[DendriticTaskPartitioning]]
 [[Distributed_Spike_Communication]]
 [[EpidemicThreshold]]
+[[ExplosiveTransitionThreshold]]
 [[Interconnect_Routing]]
 [[MultiFPGAScaling]]
 [[Nat Commun丨国防科技大学胡德文等团队揭示用于同时编码时空动态的多突触脉冲神经元]]

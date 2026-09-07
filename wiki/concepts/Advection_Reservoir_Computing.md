@@ -28,10 +28,10 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[Course_Based_FPGA_Projects]]
+[[DARPA_Manufacturing_Strategy]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]
 [[SNN]]
-[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

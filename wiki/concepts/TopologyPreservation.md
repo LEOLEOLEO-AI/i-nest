@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[RandomProjectionLandscapePreservation]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Salca]]
+[[Selection_Theorems]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[emergent computation]]

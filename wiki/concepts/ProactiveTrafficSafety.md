@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[EnergyEfficiencyAI]]
 [[EventDrivenRiskAssessment]]
+[[EventDrivenTracking]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Military_AI_Revolution]]

@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[ERI_2_0_Framework]]
 [[ERI_2_0_Strategic_Framework]]
 [[EpoxyMoldingCompoundFlow]]
+[[FerroelectricMemoryCell]]
 [[Free_Energy_Minimization_Interconnect]]
 [[Intelligence_Emergence]]
 [[InterconnectConstrainedEmergence]]

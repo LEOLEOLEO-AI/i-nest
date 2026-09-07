@@ -21,11 +21,14 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[ChipletOnWafer]]
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
 [[CommunicationAsComputation]]
 [[DARPA_ProjectManager_Model]]
 [[DistributedTrainingPipeline]]
 [[FivePort_Wafer_Router]]
 [[GlobalDecision_LocalExecution_ControlPlane]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[TCC]]

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
+[[CrossbarArrayVLSI]]
 [[DataProvenanceIntegrity]]
 [[Evolutionary_Computability]]
 [[FlagOS_2_0]]
@@ -62,7 +63,6 @@ Auto-extracted concept from raw material compilation.
 [[WaferScaleCoDesign]]
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Topology]]
-[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

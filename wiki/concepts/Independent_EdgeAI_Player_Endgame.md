@@ -57,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[SDI_Bond]]
 [[SDI_STDP]]
+[[SDI_TCC_iNEST_Interconnect]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[STDP_Plasticity]]

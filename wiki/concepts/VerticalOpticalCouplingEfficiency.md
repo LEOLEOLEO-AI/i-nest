@@ -64,7 +64,7 @@ Auto-extracted concept from raw material compilation.
 [[TensorDecisionDiagrams]]
 [[Thermal_Aware_Placement]]
 [[Topological_State_Encoding]]
-[[chiplet interconnect]]
+[[Wafer_Scale_Packaging]]
 [[complex system]]
 [[iNEST]]
 [[智能涌现]]

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[CSI_Temporal_Encoding]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
+[[Chiplet_Based_Neuromorphic_Integration]]
 [[CirculateFiringNeuron]]
 [[ComplexValuedSNN]]
 [[DeeplySupervisedSpiking]]
@@ -30,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[FerroelectricSynapticArray]]
+[[Ferroelectric_Devices]]
 [[Intelligence_Emergence]]
 [[LocalQuantumLearningRule]]
 [[Memristor]]
@@ -47,7 +49,6 @@ Auto-extracted concept from raw material compilation.
 [[SpikeDrivenDetectionBackbone]]
 [[SpikeEncoding]]
 [[Spike_Encoding_of_fMRI]]
-[[Spiking neural network]]
 [[SpikingNeuronOptimization]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

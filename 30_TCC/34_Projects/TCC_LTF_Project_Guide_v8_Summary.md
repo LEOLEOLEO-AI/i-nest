@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 项目
+tags: [TCC, LTF, 拓扑计算, FPGA, 项目指南]
+summary: "TCC范式架构研究与液态拓扑原型验证项目指南v8.0"
+quality: high
+processed: 2026-09-08 06:47
+---
+---
 title: "拓扑中心计算范式架构研究与液态拓扑生成式计算原型验证项目指南 8.0"
 tags:
   - tcc

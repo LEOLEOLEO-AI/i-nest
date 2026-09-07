@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CollectiveConsensus]]
 [[CollectiveDynamics]]
 [[Collective_State_Convergence]]
+[[CompactnessRegularizedFitness]]
 [[ComplexValuedSNN]]
 [[Complex_System_Theory]]
 [[Constructed_Reality_Interconnect]]

@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[EarlyExiting]]
 [[ExactlyFlatTopologicalBands]]
 [[FeatureBonding]]
+[[FunctionalRelevanceDrivenSelfOrganization]]
 [[InNetworkComputing]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

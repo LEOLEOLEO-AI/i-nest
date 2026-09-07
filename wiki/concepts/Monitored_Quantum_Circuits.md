@@ -52,11 +52,13 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[MultifractalCriticalPhase]]
+[[NestedRepresentation]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[NoiseRegimeTransition]]
 [[Quantum_Criticality]]
 [[Reservoir_Computing]]
+[[SelfOrganization]]
 [[Self_Organized_Criticality]]
 
 ## Sources

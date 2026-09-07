@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Asymmetric_Interaction_Matrix]]
 [[BCU_Operation]]
 [[Butterfly_Network]]
+[[ChipletTrafficAwareScheduling]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]

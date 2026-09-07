@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicRadarFrontend]]
 [[Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]
+[[Quantization_HLS_FPGA]]
 [[ReconfigurableSNN_Accelerator]]
 [[Reconfigurable_Neuromorphic_Acceleration]]
 [[RecursiveSelfReferentialArchitecture]]

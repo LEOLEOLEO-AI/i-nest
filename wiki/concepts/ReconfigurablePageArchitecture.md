@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Accessibility_Plasticity]]
 [[BigBrainCellularAxis]]
 [[CrossbarArrayVLSI]]
+[[CrossbarInterconnect]]
 [[DTGA]]
 [[Decoupling_Mechanism]]
 [[FPGAInference]]

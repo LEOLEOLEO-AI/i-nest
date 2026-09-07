@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[CommunicationAwareComputeRelocation]]
 [[CriticalBranching]]
+[[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

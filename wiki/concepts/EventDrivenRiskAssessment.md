@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[ConductingPolymerDendriteMemory]]
 [[Continuous_Spatiotemporal_State_Propagation]]
+[[EcosystemTopologyCoupling]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenTracking]]

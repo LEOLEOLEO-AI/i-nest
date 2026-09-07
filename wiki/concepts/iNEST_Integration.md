@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[BrainInspiredArchitecture]]
 [[ConductingPolymerDendriteMemory]]
 [[Efficient_Coding_Constraint]]
+[[EnergyEfficientRestoration]]
 [[EventDrivenMatrixUpdate]]
 [[Event_Driven_Architecture]]
 [[NestedRepresentation]]

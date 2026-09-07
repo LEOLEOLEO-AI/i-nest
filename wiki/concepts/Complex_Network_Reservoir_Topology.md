@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Beyond_Moore_Packaging_Strategy]]
 [[CST_CoordinationMechanism]]
 [[Complex_System_Theory]]
+[[Crystallized_Neural_Manifolds]]
 [[DARPA_ProjectManager_Model]]
 [[Deep_Thermalisation]]
 [[ERI_2_0_Strategy]]

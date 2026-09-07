@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AllParallel_SpikeBased_Computing]]
 [[Arm_Locomotor_Synergy]]
 [[CollectiveDynamics]]
+[[ConsciousnessEngineeringLoop]]
 [[Neuromorphic_Computing]]
 [[PPT]]
 [[SNN]]

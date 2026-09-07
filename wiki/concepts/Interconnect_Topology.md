@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Driven_Architecture_Search]]
 [[AI_Forum_Demo_Narrative]]
 [[AgenticServiceOrchestration]]
+[[AgenticServiceTopology]]
 [[BurstInterleaving]]
 [[Critical_Region_Extension]]
 [[EventDrivenAsync]]

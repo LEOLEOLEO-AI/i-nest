@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AnalogDomainCompression]]
 [[AnisotropicGaussianPrimitives]]
 [[AnomalousSpinTransport]]
+[[CertifiedBifurcationDetection]]
 [[CouplingMatrixRecovery]]
 [[CouplingTopologyMemoryLink]]
 [[Decoupling_Mechanism]]

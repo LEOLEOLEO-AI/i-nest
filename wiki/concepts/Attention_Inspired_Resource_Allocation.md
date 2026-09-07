@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Network_Architecture_Invariant]]
 [[Defense_Industrial_Base_Reshaping]]
 [[DynamicTopology]]
+[[Memristive_Interconnect]]
 [[Memristor]]
 [[Memristor_Interconnect]]
 [[Memristor_Synapse]]

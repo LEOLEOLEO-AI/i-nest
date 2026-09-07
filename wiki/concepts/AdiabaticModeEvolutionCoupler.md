@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[11_SDI节点接口规范与化合键定义_dup]]
 [[3d]]
 [[AI_Faculty_Forum_2026]]
+[[Accessibility_Plasticity]]
 [[AdiabaticModeEvolution]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]

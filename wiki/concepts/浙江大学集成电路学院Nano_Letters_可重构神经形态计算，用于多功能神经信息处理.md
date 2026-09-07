@@ -29,6 +29,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[BidirectionalRingTopology]]
 [[CSI_Temporal_Encoding]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
+[[Chiplet_Based_Neuromorphic_Integration]]
 [[CirculateFiringNeuron]]
 [[Communication_Trace_Diagnostics]]
 [[ComplexValuedSNN]]

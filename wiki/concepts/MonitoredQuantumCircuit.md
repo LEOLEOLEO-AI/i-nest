@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[INT4PrecisionQuantization]]
 [[InterpretabilityDrivenDesign]]
 [[MLChiralityDecoder]]
+[[MemristiveSNN]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[SNN]]

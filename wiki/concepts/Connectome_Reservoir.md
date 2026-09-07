@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[EvolutionaryReservoirLearning]]
 [[FPGA_Neuromorphic_Acceleration]]
+[[InNetworkNeuromorphicSimulation]]
 [[Intelligence_Emergence]]
 [[Metriplectic_Twin]]
 [[Multifractal_Signatures]]

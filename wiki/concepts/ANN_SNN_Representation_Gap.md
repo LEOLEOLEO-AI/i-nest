@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[ActivityPropagationCascade]]
 [[Activity_Energy_Tradeoff]]
 [[AnisotropicGaussianPrimitives]]
+[[Bidirectional_Temporal_Enhancement]]
 [[Network_Topology_Design]]
 [[SNN]]
 [[Spiking_Neural_Network]]

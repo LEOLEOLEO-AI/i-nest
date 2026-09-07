@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[DTGA]]
 [[DataDrivenCellularAxis]]
 [[Environmental_Capability_Context]]
+[[Flexible_Spike_Routing]]
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
@@ -68,7 +69,6 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
-[[chiplet interconnect]]
 [[iNEST]]
 
 ## Sources

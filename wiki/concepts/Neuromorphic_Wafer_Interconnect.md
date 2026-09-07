@@ -21,6 +21,8 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Brain_Scale_Parameter_Baseline]]
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[CrossbarArrayVLSI]]
 [[Heterogeneous_Integration]]
@@ -32,9 +34,9 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Interconnect]]
 [[Neuromorphic_Wafer]]
+[[SDI_iNEST_Platform]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
-[[neuromorphic interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

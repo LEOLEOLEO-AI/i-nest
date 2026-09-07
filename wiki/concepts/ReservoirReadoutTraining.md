@@ -56,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[Non_Von_Neumann_Architecture]]
 [[ReadoutTraining]]
 [[Reservoir_Computing]]
+[[TCC]]
 [[ThermalNoiseHarnessing]]
 [[complex system]]
 [[emerging CMOS memristor]]

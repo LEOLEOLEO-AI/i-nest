@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[Accessibility_Plasticity]]
 [[Allreduce_Latency_Probe]]
+[[AnisotropicGaussianPrimitives]]
 [[Architectural_Conditioning]]
 [[Biomanufacturing_Control_Loop]]
 [[BranchingRatio]]

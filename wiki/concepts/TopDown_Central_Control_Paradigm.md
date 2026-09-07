@@ -21,8 +21,10 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3D_Heterogeneous_Integration]]
+[[3d]]
 [[AI_Faculty_Forum_2026]]
 [[Adaptive_Deep_Brain_Stimulation]]
+[[Adaptive_Intelligence_Principle]]
 [[AnytimePointCloudRecognition]]
 [[ArtificialProprioception]]
 [[Attention_Residuals]]
@@ -31,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[ByteDance_Ada_Chip]]
 [[CST_MasterEquation]]
 [[Complex_System_Theory]]
+[[Heterogeneous_Integration]]
 [[Intelligent_Power_Management]]
 [[WaveBasedComputation]]
 [[iNEST]]

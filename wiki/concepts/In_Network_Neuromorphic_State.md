@@ -60,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[StateAugmentedLearning]]
 [[Synaptic_Plasticity]]
+[[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[Temporal_Computing_Paradigm]]
 [[iNEST]]
 [[神经网络]]

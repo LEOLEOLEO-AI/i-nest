@@ -32,6 +32,8 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect_Topology]]
 [[DTGA]]
 [[Decoupling_Mechanism]]
+[[Free_Energy_Topology_Mapping]]
+[[Heterogeneous_Integration]]
 [[Interconnect_Topology]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[11_SDI节点接口规范与化合键定义_dup]]
+[[AI_Faculty_Forum_2026]]
 [[BeyondVonNeumannArchitecture]]
 [[CMOS_Memristor_Devices]]
 [[Complex_System_Theory]]
@@ -54,6 +55,8 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Packaging]]
 [[RecurrentSpikingDynamics]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SDI_Bond]]
+[[SDI节点接口规范与化合键定义]]
 [[Spiking_Neural_Network]]
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]

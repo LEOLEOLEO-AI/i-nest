@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[DarkSiliconAwarePowerGating]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
+[[FerroelectricMemoryCell]]
 [[FunctionalInterfaceBlock]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]

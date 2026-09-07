@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AdaptiveTimeStepTraining]]
 [[Adaptive_Deep_Brain_Stimulation]]
 [[Amorphous_Amorphous_Transition]]
 [[AnisotropicGaussianPrimitives]]
@@ -35,7 +36,6 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[SNNGrow]]
 [[SNN]]
-[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]

@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenMotionDeblurring]]
 [[EventDrivenTemplateUpdate]]
 [[EventDrivenTextEncoding]]
+[[EventDriven_Attention]]
 [[Event_Driven_Architecture]]
 [[Event_Driven_Gait_Transition]]
 [[FrequencyAdaptationMechanism]]

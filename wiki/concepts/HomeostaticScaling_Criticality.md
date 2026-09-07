@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveFrequencyResonateAndFire]]
 [[Adaptive_Replication_Strategy]]
 [[Avoided_Criticality]]
+[[BurstGatedRouting]]
 [[Criticality]]
 [[Neuromorphic_Computing]]
 [[SNN]]

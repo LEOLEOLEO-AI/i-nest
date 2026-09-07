@@ -41,17 +41,19 @@ Auto-extracted concept from raw material compilation.
 [[DualSided_Routing_Resource]]
 [[Express_Link_Virtualization]]
 [[FivePort_Wafer_Router]]
+[[GlobalDecision_LocalExecution_ControlPlane]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Interconnect_Topology]]
 [[LargeScalePhotonicIntegration]]
 [[MicroRouter_Embedding]]
 [[Network_Topology_Design]]
+[[P_Paradigm]]
 [[TCC]]
 [[TopologyCentricComputing]]
+[[Topology_Centric_Computing]]
 [[WaferScaleTopologyCentricComputing]]
 [[Wafer_Scale_Integration]]
-[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

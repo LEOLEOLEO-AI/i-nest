@@ -35,11 +35,13 @@ Auto-extracted concept from raw material compilation.
 [[KeyMaterialStrategy]]
 [[Memristive_Wafer_Neuromorphic_Interconnect]]
 [[Mesoscale_Advantage_Equation]]
+[[Mesoscale_Heterogeneous_Integration]]
 [[Network_Topology_Design]]
+[[Neuromorphic_Computing]]
+[[Neuromorphic_Interconnect]]
 [[TCC]]
 [[TemporalComplexity]]
 [[Wafer_Scale_Integration]]
-[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

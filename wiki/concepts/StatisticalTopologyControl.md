@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Decoupling_Mechanism]]
 [[DynamicSynchronyMetric]]
 [[EdgeIoTEnergyAwareness]]
+[[ElectricFieldModulatedCoupling]]
 [[EpidemicTopologyCoevolution]]
 [[EvolvingArchitectureDynamics]]
 [[ExactWiringRouting]]

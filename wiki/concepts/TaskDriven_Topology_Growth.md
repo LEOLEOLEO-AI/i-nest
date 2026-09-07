@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[OpenLearningEcosystem]]
 [[QuantumDistillation]]
 [[Reconfigurable_Neural_Topology]]
+[[STDPDrivenConnectivity]]
 [[iNEST]]
 
 ## Sources

@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Loihi2_OnChip_Learning]]
 [[Loihi]]
+[[MachineLearningPotential]]
 [[MeanFieldSpinGlass]]
 [[Network_Topology_Design]]
 [[OnlinePlasticity]]

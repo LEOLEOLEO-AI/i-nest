@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AINext_Initiative]]
+[[Activity_Dependent_Plasticity]]
 [[AdaptiveLocalLearning]]
 [[AsynchronousEventDrivenComputation]]
 [[Avoided_Criticality]]

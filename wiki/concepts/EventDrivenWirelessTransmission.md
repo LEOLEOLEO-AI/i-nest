@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenSensoryEncoding]]
 [[EventDrivenTracking]]
 [[EventDrivenTrajectoryEncoding]]
+[[EventDriven_Interconnect]]
 [[InNetworkAgentRewiring]]
 [[InSensorMemoryComputing]]
 [[InputAdaptiveComputation]]

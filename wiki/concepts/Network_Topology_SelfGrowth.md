@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]
+[[OpenLearningEcosystem]]
 [[iNEST]]
 
 ## Sources

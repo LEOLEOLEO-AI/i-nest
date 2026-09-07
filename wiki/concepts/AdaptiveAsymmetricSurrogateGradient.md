@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenMotionDeblurring]]
+[[FixedOverheadCost]]
 [[HighTemporalResolutionSensing]]
 [[Intelligence_Emergence]]
 [[LocalPlasticityPipeline]]

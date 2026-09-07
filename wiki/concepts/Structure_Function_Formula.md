@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration]]
 [[Complex_System_Theory]]
 [[CrossDomain_Integration]]
+[[EmergentSwarmTopology]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

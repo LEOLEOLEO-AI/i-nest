@@ -56,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]
+[[StochasticReservoirState]]
 [[iNEST]]
 
 ## Sources

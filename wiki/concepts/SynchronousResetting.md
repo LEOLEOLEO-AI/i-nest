@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Architecture]]
 [[Event_Driven_Computation]]
 [[JunctionSignalIntegrity]]
+[[Local_Plasticity_Rule]]
 [[NeuromorphicGraphAnomalyDetection]]
 [[Neuromorphic_Computing]]
 [[NonEquilibriumPhase]]

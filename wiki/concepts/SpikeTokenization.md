@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[FrequencyAdaptationMechanism]]
 [[ImageToEventConversion]]
 [[NeuralVariabilityEnhancement]]
+[[NeuromorphicGestureEncoding]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Planning_Revolution]]
 [[PowerLawScaling]]

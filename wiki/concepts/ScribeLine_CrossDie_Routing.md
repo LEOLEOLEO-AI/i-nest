@@ -35,10 +35,12 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[OpticalNeuralNetworkTopology]]
 [[SDI_Bond]]
+[[SDSoW]]
+[[SDSoW_Architecture]]
 [[SDSoW_Reconfigurable_Network]]
 [[TCC]]
+[[WaferScaleTopologyCentricComputing]]
 [[Wafer_Scale_Integration]]
-[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

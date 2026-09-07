@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Application_Scenario_Reconstruction]]
 [[BeyondPTSymmetry]]
 [[Decoupled_Priors]]
 [[DiagnosticReportFramework]]
@@ -32,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[OpenEndedDiscovery]]
 [[PhysicalSubstrateReservoir]]
+[[Reservoir_Computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

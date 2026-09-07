@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[ConstructedRealityState]]
 [[Contested_Priors_Architecture]]
 [[Continuous_Control_SNN_Stability]]
+[[CriticalityBasedClassification]]
 [[Criticality]]
 [[CrossEntityPreemptiveWarning]]
 [[DiscreteContinuous_Unification]]

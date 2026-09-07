@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Faculty_Forum_2026]]
 [[AnalogInMemoryComputing]]
+[[Attention_Residuals]]
 [[Collective_Offloading]]
 [[Decoupled_Priors]]
 [[InInterconnectMemory]]

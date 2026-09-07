@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicSynchronyMetric]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
+[[ElectricFieldModulatedCoupling]]
 [[EvolvingArchitectureDynamics]]
 [[ExactWiringRouting]]
 [[FPGA_Reconfigurability]]

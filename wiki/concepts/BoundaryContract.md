@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[BitPrecisionAwareScheduling]]
 [[BoundaryObject_Abstraction]]
 [[CST_MasterEquation]]
+[[CST_Spatiotemporal_Complexity_Theorem]]
 [[CST计量仪]]
 [[Chiplet]]
 [[Chiplet_Based_Trusted_Hardware]]

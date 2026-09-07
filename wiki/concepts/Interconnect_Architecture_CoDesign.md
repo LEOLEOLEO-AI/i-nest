@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration_Roadmap_HIR]]
 [[Intelligence_Emergence]]
 [[InterconnectAwareGradientAggregation]]
+[[L2_L3_Reconfigurability]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[STDP_Plasticity]]

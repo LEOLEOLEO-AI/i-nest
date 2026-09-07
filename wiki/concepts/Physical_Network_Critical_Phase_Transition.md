@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AnalogDomainCompression]]
 [[AvalancheBranchingRatio]]
+[[Brain_Scale_Parameter_Baseline]]
 [[BranchingRatio]]
 [[ChipletOnWafer]]
 [[ChipletWaferInterconnectCoDesign]]
@@ -40,7 +41,6 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
-[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

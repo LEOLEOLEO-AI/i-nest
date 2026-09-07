@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[EmergentDynamics]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
+[[EmulationTheoryObserver]]
 [[Free_Energy_Principle]]
 [[Hypersonic_Systems_Research]]
 [[Intelligence_Emergence]]

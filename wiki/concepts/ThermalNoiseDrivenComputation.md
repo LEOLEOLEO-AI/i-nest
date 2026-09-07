@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Cross_Brain_Connectome]]
 [[Crystallized_Neural_Manifolds]]
 [[InNetworkNeuromorphicSimulation]]
+[[InNetworkNeuromorphic]]
 [[Intelligence_Emergence]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Neuromorphic_Computing]]
@@ -50,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[SexBasedConnectomeDifferences]]
 [[Synaptic_Weight_Pruning_by_Connectivity_Statistics]]
+[[ThermallyDrivenSuperparamagneticReservoir]]
 [[iNEST]]
 
 ## Sources

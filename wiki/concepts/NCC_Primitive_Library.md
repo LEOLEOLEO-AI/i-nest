@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3DHI_Stacking]]
+[[3d]]
 [[4H_SiC_SubstrateProcessing]]
 [[AnalogInMemoryComputing]]
 [[BackpropagationFreeLearning]]
@@ -31,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_NoC_Fabric]]
 [[CompactFieldVariable]]
+[[Decoupled_Priors]]
 [[GeneralIntelligenceSubstrate]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]

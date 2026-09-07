@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[AI_Supply_Chain_Increment]]
 [[AI人工智能 卷积神经网络（CNN）_w3cschool]]
+[[AdditiveTopology_Embedding]]
 [[AlloyDisorderEngineering]]
 [[BerryCurvatureIsolation]]
 [[BioInspired_Interception_Control]]
@@ -48,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologyCriticality]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

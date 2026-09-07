@@ -72,8 +72,8 @@ Auto-extracted concept from raw material compilation.
 [[TCC_Topology]]
 [[TemporalComplexity]]
 [[TopologyCentricEngineeringBase]]
+[[Topology_Centric_Computing]]
 [[advanced packaging]]
-[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

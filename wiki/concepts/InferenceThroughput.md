@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[ERI_2_0_Strategic_Framework]]
 [[EndToEndLinkSimulation]]
 [[Environmental_Capability_Context]]
+[[EventDriven_Interconnect]]
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]

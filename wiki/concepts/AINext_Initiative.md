@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[HardwareAware_DesignSpace]]
 [[Hardware_Accelerated_SNN]]
+[[InNetworkNeuromorphicSimulation]]
 [[Intelligence_Emergence]]
 [[Layered_Attractive_Hubbard_Model]]
 [[Memristor]]

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Deep_SNN_Trainability]]
 [[DeeplySupervisedSpiking]]
+[[Distributed_Spike_Communication]]
 [[FirstPrinciples_Derivation]]
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]

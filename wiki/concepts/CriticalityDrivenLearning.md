@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Intelligence_Verifiability]]
 [[FixedOverheadCost]]
+[[Hardware_Accelerated_SNN]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[MacroCriticalityEmergence]]

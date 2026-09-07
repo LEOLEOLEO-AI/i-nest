@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]
 [[SDI_STDP]]
+[[SDI_STDP_Bond]]
 [[SNN]]
 [[SNN_Sparsity_InformationBound]]
 [[STDP_Plasticity]]

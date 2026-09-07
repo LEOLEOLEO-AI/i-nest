@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[3D_Integration]]
 [[3d]]
 [[4H_SiC_SubstrateProcessing]]
+[[AI_Application_Scenario_Reconstruction]]
 [[AdvancedPackagingInterconnect]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[Capability_Transformation_Mechanism]]

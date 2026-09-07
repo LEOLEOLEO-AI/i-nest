@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicHardware]]
 [[NeuromorphicRL]]
 [[Neuromorphic_Computing]]
+[[NeuronModelAbstractionLayer]]
 [[NonHermitianSpectralCorrelations]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]

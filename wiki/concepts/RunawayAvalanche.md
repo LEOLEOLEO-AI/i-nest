@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[ST_SNN]]
 [[SafetyThresholdAsSpikingThreshold]]
+[[SpikeEncodingLatency]]
 [[Spiking_Neural_Network]]
 
 ## Sources

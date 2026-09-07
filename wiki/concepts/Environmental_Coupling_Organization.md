@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]
 [[Chiplet_Integration_Route]]
+[[CompactLocalizedStates]]
 [[CouplingTopologyMemoryLink]]
 [[Coupling_Topology]]
 [[Criticality]]

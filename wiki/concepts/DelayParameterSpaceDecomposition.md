@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[ImaginaryGaugePhaseImprint]]
 [[Intelligence_Emergence]]
 [[Memristive_STDP]]
+[[MetaHardwareAbstraction]]
 [[MultiTechnologyInspectionFusion]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]

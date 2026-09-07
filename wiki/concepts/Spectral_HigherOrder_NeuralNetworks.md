@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[OpenLearningEcosystem]]
 [[Phase_Synchronization_Collective_Dynamics]]
 [[QuantumConvolutionalTopology]]
+[[RandomProjectionLandscapePreservation]]
 [[RecursiveSelfReferentialArchitecture]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]

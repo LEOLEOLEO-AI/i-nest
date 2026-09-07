@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[BarrierConditionedTrajectory]]
 [[BioInspired_Interception_Control]]
 [[Biologically_Plausible_Learning_Rules]]
 [[BurstGatedRouting]]

@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstSuppression]]
 [[ContinuousControlConversion]]
 [[Criticality]]
+[[DeepLinearNetworkCriticality]]
 [[DirectSNNTraining]]
 [[Discrete_Event_Spike_Simulation]]
 [[EventDrivenComputation]]

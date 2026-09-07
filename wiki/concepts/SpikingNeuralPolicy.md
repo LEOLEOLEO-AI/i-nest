@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetwork_Neuromorphic_CoDesign]]
 [[In_Network_Neuromorphic]]
 [[Interconnect_Routing]]
+[[NeuromorphicSpikingTopology]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Sensor_Fusion]]
 [[SDN_Neuromorphic_Interface]]
@@ -53,7 +54,6 @@ Auto-extracted concept from raw material compilation.
 [[SNN_NeuroprostheticPipeline]]
 [[Self_Organized_Criticality]]
 [[SemanticSpikePattern]]
-[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

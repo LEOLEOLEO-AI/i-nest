@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Stacking]]
 [[Complex_System_Theory]]
 [[CrossLayer_SignalRouting]]
+[[DendriticTaskRouting]]
 [[EdgeIoTEnergyAwareness]]
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[HardwareAware_DesignSpace]]
 [[HighTemporalResolutionSensing]]
 [[InNetworkAgentRewiring]]
+[[InNetworkNeuromorphicSimulation]]
 [[Intelligence_Emergence]]
 [[Layered_Attractive_Hubbard_Model]]
 [[Memristor]]

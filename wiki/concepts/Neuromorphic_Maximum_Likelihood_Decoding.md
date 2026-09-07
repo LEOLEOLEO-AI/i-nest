@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[AllParallelNonVonNeumannArchitecture]]
 [[AstrocyteInspiredRepair]]
 [[AttentionGuidedEntropy]]
+[[AutogradCompatibleSpiking]]
 [[BayesMarkovOrientationModel]]
 [[BioPlausibleDisturbanceRejection]]
 [[Complex_System_Theory]]

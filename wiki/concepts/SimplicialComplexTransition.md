@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
+[[CompactFieldVariable]]
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[DynamicServiceComposition]]
@@ -54,8 +55,8 @@ Auto-extracted concept from raw material compilation.
 [[Software_Defined_System_on_Wafer]]
 [[TCC]]
 [[ThirdWaveAI]]
+[[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
-[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

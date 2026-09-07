@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Nanoparticle_Network_Interconnect]]
 [[Network_Topology_Design]]
 [[NonEquilibriumUniversality]]
+[[OpportunisticRouting]]
 [[TCC]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_FullSpectrum_Strategy]]
 [[AdversarialMedicalRobustness]]
 [[Allreduce_Latency_Probe]]
+[[Alpha_Coefficient_Phase_Transition_Amplification]]
 [[Architectural_Conditioning]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[Bioavailability_Enhancement]]

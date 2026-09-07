@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[AllParallelNonVonNeumannArchitecture]]
 [[AstrocyteInspiredRepair]]
 [[AttentionGuidedEntropy]]
+[[AutogradCompatibleSpiking]]
 [[BayesMarkovOrientationModel]]
 [[BioPlausibleDisturbanceRejection]]
 [[Bio_plausible_Neuromorphic_Disturbance_Observer]]

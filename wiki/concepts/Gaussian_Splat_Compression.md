@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Efficient_Coding_Constraint]]
 [[End_Side_Neuromorphic_Deployment]]
 [[EventBasedAnalogFrontEnd]]
+[[EventDrivenWirelessTransmission]]
 [[EventDriven_Interconnect]]
 [[EventSparseTemporalEncoding]]
 [[FerroelectricCrossbarArray]]

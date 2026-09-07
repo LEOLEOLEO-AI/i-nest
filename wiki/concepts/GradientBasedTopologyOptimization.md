@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Alpha_Computation_Consistency]]
 [[ArtificialProprioception]]
 [[BurstTemporalPlasticity]]
+[[CircuitTopologyEncoding]]
 [[Complex_System_Theory]]
 [[Confinement]]
 [[ConstraintDrivenOptimization]]

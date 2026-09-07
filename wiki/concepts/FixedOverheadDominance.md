@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[Neuromorphic_Selective_State_Space]]
 [[NoiseModulated_SynapticPlasticity]]
+[[OscillatoryReservoirDynamics]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]

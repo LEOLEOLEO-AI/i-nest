@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveSpikingPerception]]
 [[AdaptersInSpikingNetworks]]
 [[Alignment_Tax]]
+[[AllParallelNonVonNeumannArchitecture]]
 [[AstrocyteInspiredRepair]]
 [[Complex_System_Theory]]
 [[Neuromorphic_Computing]]

@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration]]
 [[CircuitTopologySearch]]
 [[Complex_System_Theory]]
+[[Compute_In_Memory_Neuromorphic]]
 [[CrossLingualIdiomGraph]]
 [[Deep_Thermalisation]]
 [[Emergence_Phase]]

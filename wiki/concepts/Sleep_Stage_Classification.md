@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[MicroCriticalAgent]]
+[[Milinkovic B (2024)：复杂神经系统涌现动力学结构]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]

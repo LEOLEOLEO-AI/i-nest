@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[HigherOrderSimplicialDynamics]]
 [[Intelligence_Emergence]]
 [[IntrospectiveRecursion]]
+[[Material_Circularity]]
 [[Network_Topology_Design]]
 [[NeuromorphicSafetyBoundary]]
 [[Neuromorphic_Computing]]

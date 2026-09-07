@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[FlexibilityThreshold]]
 [[InNetworkChaosDetection]]
 [[JunctionSignalIntegrity]]
+[[Local_Plasticity_Rule]]
 [[Loihi]]
 [[Neuromorphic_Computing]]
 [[Online_Continual_Learning]]

@@ -57,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[NoC]]
 [[NoC_Interconnect]]
+[[Package_Level_Interconnect]]
 [[SelfOrganization]]
 [[TCC]]
 [[advanced packaging]]

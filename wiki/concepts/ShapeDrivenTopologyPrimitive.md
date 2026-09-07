@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Driven_Criticality]]
 [[EarlyExiting]]
 [[ExactlyFlatTopologicalBands]]
+[[FeatureBonding]]
 [[InNetworkComputing]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

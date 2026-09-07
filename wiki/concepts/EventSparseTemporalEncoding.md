@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Counterstream_Associative_Memory]]
 [[Distributed_Spike_Communication]]
 [[EdgeInspectionInference]]
+[[Efficient_Coding_Constraint]]
 [[End_Side_Neuromorphic_Deployment]]
 [[EventDriven_Interconnect]]
 [[FerroelectricCrossbarArray]]

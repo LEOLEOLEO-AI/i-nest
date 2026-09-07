@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Prior_Resolution]]
 [[DiscreteSTDP]]
 [[DistinguishableHelium4]]
+[[Distributed_Spike_Communication]]
 [[Dynamic_Expert_Fusion]]
 [[Edge_Neuromorphic_Compute]]
 [[Emergent_Intelligence]]

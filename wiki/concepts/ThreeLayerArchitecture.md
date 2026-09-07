@@ -38,6 +38,8 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Interconnect_Topology]]
 [[Network_Topology_Design]]
+[[Neuromorphic_Computing]]
+[[NoC_Chiplet_iNEST_Wafer]]
 [[P_Paradigm]]
 [[Photonic_Chiplet_Interconnect]]
 [[RecursiveSelfReferentialArchitecture]]
@@ -66,7 +68,6 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Chiplet_Topology_Interconnect]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
-[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

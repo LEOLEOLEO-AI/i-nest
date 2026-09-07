@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BrainInspiredArchitecture]]
 [[BrainInspired_Chip]]
 [[ConductingPolymerDendriteMemory]]
+[[EnergyEfficientRestoration]]
 [[Event_Driven_Architecture]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]

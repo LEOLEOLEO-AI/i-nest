@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Distributed_Spike_Communication]]
 [[ElasticInferenceScheduling]]
 [[EmergencePhaseCitationDynamics]]
+[[Gate_Synthesis_Readout]]
 [[GraphGeometryAlignment]]
 [[GroupSynchronization]]
 [[Heterogeneous_Integration]]

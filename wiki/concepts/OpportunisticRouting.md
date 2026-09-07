@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossDomain_Synthesis]]
 [[DelayTolerantNetworkUAV]]
 [[DisorderedNetworkInterconnect]]
+[[DistributedEventConditionDesign]]
 [[EventDrivenRiskAssessment]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

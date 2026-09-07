@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Crystallized_Neural_Manifolds]]
 [[DARPA_Sensor_EW_Integration]]
 [[DendriticReservoirState]]
+[[DeviceLevelNonlinearityScaling]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]

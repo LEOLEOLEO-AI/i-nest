@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[FeatureBonding]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[GroupInfluenceThreshold]]
+[[HigherOrderNetworkDynamics]]
 [[InNetworkComputing]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

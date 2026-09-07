@@ -28,12 +28,13 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Intelligence_Principle]]
 [[Adaptive_Service_Orchestration]]
 [[Agile_Resilient_Defense_Ecosystem]]
+[[ArtificialProprioception]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Interconnect]]
 [[Structural_Manifold_Attractor]]
 [[TCC]]
 [[iNEST]]
-[[neuromorphic interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Architecture]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[FoveationGuidedTokenSelection]]
+[[FunctionalRelevanceDrivenSelfOrganization]]
 [[Interconnect_Routing]]
 [[LowRankPerturbation]]
 [[Network_Topology_Design]]

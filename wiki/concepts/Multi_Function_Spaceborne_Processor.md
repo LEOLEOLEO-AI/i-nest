@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_NoC_Fabric]]
+[[Critical_Region_Extension]]
 [[CrossbarInterconnect]]
 [[Defense_Industrial_Base_Reshaping]]
 [[EventDrivenAsync]]

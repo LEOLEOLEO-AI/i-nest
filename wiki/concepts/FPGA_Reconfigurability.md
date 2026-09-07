@@ -62,6 +62,7 @@ Auto-extracted concept from raw material compilation.
 [[System_Level_Utility_Control]]
 [[TCC]]
 [[TopologyAwareStateMigration]]
+[[TopologyGradientSignal]]
 [[Topology_Aware_NoC_Routing]]
 [[VectorFlowField]]
 [[涌现]]

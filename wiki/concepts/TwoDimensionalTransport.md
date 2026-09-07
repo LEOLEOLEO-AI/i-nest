@@ -55,11 +55,11 @@ Auto-extracted concept from raw material compilation.
 [[NoC_SDI_Integration]]
 [[SDI_Bond]]
 [[SDI_NoC_Fusion]]
+[[SparseTemporalEncoding]]
 [[SuperparamagneticSwitchingRate]]
 [[Swarm_Coordination]]
 [[TCC]]
 [[WaferScale_Chiplet_Interconnect]]
-[[chiplet interconnect]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

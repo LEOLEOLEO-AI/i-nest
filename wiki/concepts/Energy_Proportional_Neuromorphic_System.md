@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveSpeechToSpikeEncoding]]
 [[AstrocyteInspiredRepair]]
 [[AutonomousAdaptation]]
+[[Avoided_Criticality]]
 [[BigBrainCellularAxis]]
 [[BioPlausibleDisturbanceObserver]]
 [[BoundaryObject_Abstraction]]

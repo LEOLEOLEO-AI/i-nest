@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
+[[ConsciousnessEngineeringLoop]]
 [[DARPA_ProjectManager_Model]]
 [[DisturbancePropagationPath]]
 [[ElectronicPhotonicIntegratedCircuit]]

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Bidirectional_Temporal_Enhancement]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
+[[Chiplet_Based_Neuromorphic_Integration]]
 [[CoDesigned_SNN]]
 [[ComplexValuedSNN]]
 [[Contested_Prior_Resolution]]
@@ -49,7 +50,6 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[SolitonLikeWaves]]
 [[Spike_Encoding_of_fMRI]]
-[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TopologicalAndersonChernInsulator]]

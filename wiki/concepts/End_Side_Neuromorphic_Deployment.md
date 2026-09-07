@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[EdgeInspectionInference]]
 [[Efficient_Coding_Constraint]]
 [[EventBasedAnalogFrontEnd]]
+[[EventDrivenWirelessTransmission]]
 [[EventDriven_Interconnect]]
 [[EventSparseTemporalEncoding]]
 [[FerroelectricCrossbarArray]]

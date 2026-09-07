@@ -21,15 +21,23 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[ASIC_Dualism]]
+[[CLINKAsCarrierPrimitive]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Microsecond_Link_Reconfiguration]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
+[[NoC]]
+[[NoC_SDI]]
 [[NoC_SDI_Integration]]
+[[SDI_Bond]]
 [[SDI_NPU_NoC_Integration]]
 [[SDI_iNEST_Interconnect]]
 [[SDSoW]]
+[[SDSoW_Architecture]]
 [[Synaptic_Plasticity]]
+[[iNEST]]
+[[iNEST_Interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

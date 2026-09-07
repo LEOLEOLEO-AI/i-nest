@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Ant_Swarm_Functional_Control]]
 [[ArchitecturalCondition]]
+[[BioInspiredGeneralist]]
 [[Capability_Reserve_Index]]
 [[Cognitive_Relapse_Decoupling]]
 [[CollectiveStateTopology]]

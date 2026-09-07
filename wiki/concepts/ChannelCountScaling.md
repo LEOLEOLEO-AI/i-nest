@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Advanced_Packaging_Route]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
+[[ChipletOpticalIO]]
 [[ChipletTopologyAwareness]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]

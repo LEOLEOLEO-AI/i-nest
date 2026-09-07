@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[ChipletRoutingFabric]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[CoPackagedOptics]]
 [[Complex_System_Theory]]
 [[ComputeRelocationOverhead]]
 [[Deep_Thermalisation]]

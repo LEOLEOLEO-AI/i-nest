@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_NoC_Fusion]]
 [[SDI_NoC_Integration]]
 [[SDI_Topology]]
+[[SparsityAwareInterconnect]]
 [[TCC]]
 
 ## Sources

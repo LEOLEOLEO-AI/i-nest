@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[EnergyEfficientSNN]]
 [[Event_Driven_Architecture]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
+[[FunctionalRelevanceDrivenSelfOrganization]]
 [[GeometricNeuromorphicFusion]]
 [[GradientBasedLearningLocalization]]
 [[InNetworkAgentRewiring]]

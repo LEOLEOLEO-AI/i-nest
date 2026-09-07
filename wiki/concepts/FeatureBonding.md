@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Anomaly_Induced_Quantum_Criticality]]
 [[Ant_Swarm_Functional_Control]]
+[[BarrierConditionedTrajectory]]
 [[BioInspired_Interception_Control]]
 [[BurstGatedRouting]]
 [[Cognitive_Relapse_Decoupling]]
@@ -50,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[TCC]]
 [[UniversalComputationAtCriticality]]
+[[UniversalComputation]]
 [[Universal_Computation_Link]]
 
 ## Sources

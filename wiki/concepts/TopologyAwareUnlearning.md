@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
+[[Cryogenic_Syndrome_Compression]]
 [[DTGA]]
 [[Deep_Network_Architecture_Invariant]]
 [[Dynamic_Expert_Fusion]]

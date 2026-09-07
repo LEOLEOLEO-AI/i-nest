@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[ComplexSystem_Definition]]
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
+[[Connectome_Transfer]]
 [[Critical_Exponent_Analysis]]
 [[Cryogenic_Syndrome_Compression]]
 [[Emergent_Intelligence]]

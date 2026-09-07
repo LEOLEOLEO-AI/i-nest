@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Dimensionality_Modularity_Tradeoff]]
 [[Disorder_Driven_Quantum_Phase_Transition]]
 [[DrivenCriticalityDynamics]]
+[[Driven_Criticality]]
 [[Dynamic_Expert_Fusion]]
 [[DynamicalCriticality]]
 [[EmulationTheoryObserver]]

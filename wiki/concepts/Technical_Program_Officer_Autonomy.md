@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[ActiveDendriteSNN]]
 [[AnomalousSpinTransport]]
+[[AstrocyteInspiredRepair]]
 [[Avalanche_Dynamics]]
 [[BackflowTransformation]]
 [[CSI_Temporal_Encoding]]

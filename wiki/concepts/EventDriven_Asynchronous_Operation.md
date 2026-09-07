@@ -31,11 +31,13 @@ Auto-extracted concept from raw material compilation.
 [[BrainInspired_Chip]]
 [[Criticality]]
 [[EventDrivenAsync]]
+[[EventDrivenMotionDeblurring]]
 [[Plasticity_Stability_Threshold]]
 [[SNN]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
+[[Syncytial_Mesh]]
 [[Syncytial_Mesh_Model]]
 [[iNEST]]
 

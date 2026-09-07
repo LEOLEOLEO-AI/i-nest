@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Advanced_Packaging_for_Space]]
 [[AttractorConvergenceAnalysis]]
 [[BisectionBandwidthBound]]
+[[BisectionBandwidthMetric]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]

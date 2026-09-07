@@ -58,11 +58,11 @@ Auto-extracted concept from raw material compilation.
 [[OnDie_Fusion]]
 [[OpticallyWritableAtomicVaporMemory]]
 [[Photonic_Chiplet_Interconnect]]
+[[SDI_Chiplet_Interconnect]]
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[advanced packaging]]
-[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

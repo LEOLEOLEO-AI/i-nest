@@ -21,6 +21,8 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
+[[11_SDI节点接口规范与化合键定义_dup]]
+[[Complex_System_Theory]]
 [[ConsciousnessEngineeringLoop]]
 [[Constructed_Reality_Interconnect]]
 [[DARPA_ProjectManager_Model]]

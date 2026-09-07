@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
+[[ST_SNN]]
 [[SpikeRoutingFabric]]
 [[SpikeTimingPreservation]]
 [[Spiking_Neural_Network]]

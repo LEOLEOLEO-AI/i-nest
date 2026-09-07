@@ -38,6 +38,8 @@ Auto-extracted concept from raw material compilation.
 [[Core_Spacetime_Tensor]]
 [[Deep_Thermalisation]]
 [[DeviceLevelNonlinearityScaling]]
+[[DeviceLevelNonlinearity]]
+[[Griffiths_Phase]]
 [[Intelligence_Emergence]]
 [[MitigationLayers]]
 [[Mucosal_Immune_PhaseTransition]]
@@ -51,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[ThermallyDrivenSuperparamagnetReservoir]]
 [[analog computation]]
 [[branch prediction]]
+[[causal emergence]]
 [[类脑芯片]]
 
 ## Sources

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[AthermalDynamics]]
+[[BandedConnectivityModel]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BigBrainCellularAxis]]
 [[Complex_System_Theory]]

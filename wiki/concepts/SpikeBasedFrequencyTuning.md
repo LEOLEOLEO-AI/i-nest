@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[CorticalWaveRouting]]
 [[DevelopmentalNeuromorphicAdaptation]]
 [[ElectrochemicalSensingArray]]
+[[EventDriven_Interconnect]]
 [[Interconnect_Routing]]
 [[LossSpikeMechanism]]
 [[Memristor]]

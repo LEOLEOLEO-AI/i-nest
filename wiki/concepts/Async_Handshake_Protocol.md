@@ -28,9 +28,9 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_EventDriven_Verification]]
 [[In_Network_Neuromorphic]]
 [[NeuromorphicAttentionScaling]]
+[[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
 [[SNN]]
-[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

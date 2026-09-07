@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Neuromorphic_Architectures]]
 [[HardwareAwareFairness]]
 [[HippocampalNeocorticalIntelligence]]
+[[HodgkinHuxleyDynamics]]
 [[Intelligence_Emergence]]
 [[National_Planning_Driven_Research_Alignment]]
 [[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]

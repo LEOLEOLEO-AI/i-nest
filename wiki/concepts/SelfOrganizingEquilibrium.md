@@ -58,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[SuperparamagneticSwitchingRate]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[analog computation]]
 [[complex system]]
 [[iNEST]]

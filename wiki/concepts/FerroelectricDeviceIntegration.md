@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Architecture]]
 [[Communication_Trace_Diagnostics]]
 [[Constructed_Reality_Prior]]
+[[CorticalTypeDiversity]]
 [[DTGA]]
 [[FerroelectricDevice]]
 [[FerroelectricMemoryCell]]
@@ -52,7 +53,6 @@ Auto-extracted concept from raw material compilation.
 [[Switch_Chiplet_Integration]]
 [[TCC]]
 [[TopologyAwareStateMigration]]
-[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -42,6 +42,8 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Memory_Wall]]
+[[Memristor]]
+[[Memristor_Synapse]]
 [[Model_Routing_Protocol]]
 [[Network_on_Chip]]
 [[NeuralNetworkSpectralAnalysis]]
@@ -63,6 +65,8 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[TCC_iNEST_Interconnect]]
+[[Wafer_Scale_Integration]]
+[[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
 [[WavelengthMultiplexedInterconnect]]
 [[advanced packaging]]
@@ -71,6 +75,7 @@ Auto-extracted concept from raw material compilation.
 [[residual connection]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

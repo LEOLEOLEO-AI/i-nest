@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Memristive_Interconnect]]
+[[Memristive_STDP]]
 [[Memristor]]
 [[Memristor_Network]]
 [[Memristor_Synapse]]

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[DegreeDependentOpinionThreshold]]
 [[DissipativeQuantumReservoir]]
 [[EndToEndTopologyLearning]]
+[[InNetworkNeuromorphicSimulation]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[MonitoringProtocol]]

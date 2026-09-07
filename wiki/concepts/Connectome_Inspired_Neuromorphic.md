@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Connectome_Inspired_Architecture]]
 [[Connectome_Transfer]]
 [[FlexibilityThreshold]]
+[[FrozenRateOperator]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[iNEST]]

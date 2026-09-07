@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_iNEST_Interconnect]]
 [[SNN]]
+[[SparseTemporalEncoding]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 [[iNEST_Interconnect]]

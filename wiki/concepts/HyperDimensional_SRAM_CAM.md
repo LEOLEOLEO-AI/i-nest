@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]
+[[CompactFieldVariable]]
 [[Complex_System_Theory]]
 [[CrossDomain_Integration]]
 [[DARPA_ProjectManager_Model]]

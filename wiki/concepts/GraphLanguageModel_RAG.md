@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[CognitiveTaskonomy]]
 [[Complex_System_Theory]]
 [[ContinuousGameOfLife]]
+[[CriticalWeightNormBoundary]]
 [[CrossDomain_Abstraction]]
 [[CrossDomain_Synthesis]]
 [[DARPA_Technology_Incubation]]

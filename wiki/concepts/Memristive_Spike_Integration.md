@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Distributed_Spike_Communication]]
 [[EventCameraActionRecognition]]
 [[FirstPrinciples_Derivation]]
+[[FixedOverheadPenalty]]
 [[Heterogeneous_Integration]]
 [[HigherOrderStochasticProcess]]
 [[Hypergraph_Label_Noise]]

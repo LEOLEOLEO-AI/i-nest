@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[ImmobilizationStabilityMechanism]]
 [[Intelligence_Emergence]]
 [[LLMDrivenPathSelection]]
+[[LocalPlasticityPipeline]]
 [[MagneticOrderTopologyCoupling]]
 [[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]

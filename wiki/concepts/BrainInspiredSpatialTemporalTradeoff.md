@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Data_Debiasing_Techniques]]
 [[Defense_Industrial_Base_Reshaping]]
 [[ElectronicPhotonicIntegratedCircuit]]
+[[FunctionalRelevanceSelfOrganization]]
 [[HighThroughputPhenotyping]]
 [[Neuromorphic_Computing]]
 [[iNEST]]

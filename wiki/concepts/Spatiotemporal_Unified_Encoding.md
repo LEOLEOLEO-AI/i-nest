@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[ElasticInferenceScheduling]]
 [[EventCameraPoseInput]]
+[[ExtinctionDrivenMetastability]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[STDP_Plasticity]]

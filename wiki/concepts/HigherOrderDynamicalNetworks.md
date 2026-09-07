@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN动力学]]
 [[Accessibility_Gradient]]
 [[ActionWeightedPathEnsemble]]
+[[AdditiveTopology_Embedding]]
 [[Complex_System_Theory]]
 [[Complexity_Emergence]]
 [[HiddenTopologyReveal]]

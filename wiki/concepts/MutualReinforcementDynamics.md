@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Active_Inference_Agent]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[AstrocyteInspiredRepair]]
@@ -43,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[GraphEmbeddedReservoir]]
 [[HierarchicalModularReservoirs]]
 [[InNetworkNeuromorphicSimulation]]
+[[InNetworkNeuromorphic]]
 [[In_Context_Learning]]
 [[Intelligence_Emergence]]
 [[Nanoscale_Memristive_Threats]]

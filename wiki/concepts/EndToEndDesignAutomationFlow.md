@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[L2_L3_Reconfigurability]]
 [[MachineLearningPotential]]
 [[Memristive_Topology]]
+[[MetaHardwareAbstraction]]
 [[MultiTechnologyInspectionFusion]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

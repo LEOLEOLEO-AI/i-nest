@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 资料
+tags: [TRL, 成熟度等级, 半导体, 先进封装, 技术转化]
+summary: "半导体先进封装TRL分级体系与阶段划分参考"
+quality: medium
+processed: 2026-09-08 06:47
+---
+---
 title: "成熟度等级TRL"
 tags:
   - research

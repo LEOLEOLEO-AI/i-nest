@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Port_Hamiltonian_System]]
 [[QuantumDistillation]]
 [[RobustnessThroughNoise]]
+[[STDPDrivenConnectivity]]
 [[SelfOrganization]]
 [[analog computation]]
 [[涌现]]

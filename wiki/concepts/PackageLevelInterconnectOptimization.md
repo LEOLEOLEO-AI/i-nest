@@ -54,11 +54,11 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Architecture]]
 [[SDSoW_Interface_Standard]]
 [[SelfOrganization]]
+[[SerDes_Bandwidth_Convergence]]
 [[TCC]]
 [[TopologicalContagion]]
 [[TopologicalDataCompression]]
 [[Topology_Aware_NoC_Routing]]
-[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

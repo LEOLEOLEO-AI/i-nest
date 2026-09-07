@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration]]
 [[Chiplet_Integration_Route]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
+[[Cryogenic_Syndrome_Compression]]
 [[Heterogeneous_Integration]]
 [[Memory_Wall]]
 [[Memristor]]

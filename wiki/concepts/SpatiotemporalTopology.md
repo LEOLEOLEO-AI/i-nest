@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveArchitecture]]
 [[AdaptiveCompetingInteractions]]
 [[AdaptiveDensityControl]]
+[[Beyond_Moore_Pathway]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]

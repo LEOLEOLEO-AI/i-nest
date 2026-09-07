@@ -26,7 +26,9 @@ Auto-extracted concept from raw material compilation.
 [[BarrierConditionedTrajectory]]
 [[BioInspired_Interception_Control]]
 [[CriticalityDrivenStateTransition]]
+[[Criticality]]
 [[DTGA]]
+[[EnsembleCreditAssignment]]
 [[FPGA_SNN_Inference]]
 [[Interconnect_Routing]]
 [[Meta_Residual_Architecture]]
@@ -34,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[SNN]]
+[[Self_Organized_Criticality]]
 [[SpikeDrivenDetectionBackbone]]
 [[Spiking_Neural_Network]]
 

@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[EventCameraTemporalEncoding]]
 [[ExtinctionDrivenMetastability]]
 [[FPGA_Accelerated_SNN]]
+[[Fixed_Term_Project_Structure]]
 [[HardwareAwareTraining]]
 [[ITP_STDP]]
 [[Interconnect_Routing]]

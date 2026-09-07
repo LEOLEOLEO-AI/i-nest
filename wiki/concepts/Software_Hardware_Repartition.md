@@ -33,13 +33,13 @@ Auto-extracted concept from raw material compilation.
 [[CongestionAwareNoCPlacement]]
 [[Decoupled_Priors]]
 [[DiagnosticReportFramework]]
+[[DynamicServiceComposition]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Topology]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC]]
 [[TCC]]
-[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Computation]]
 [[FreeEnergyMinimization]]
 [[InNetworkChaosDetection]]
+[[JunctionSignalIntegrity]]
 [[NeuromorphicRL]]
 [[NeuromorphicRL_Locomotion]]
 [[Neuromorphic_Computing]]

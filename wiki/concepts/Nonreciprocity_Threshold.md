@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[ChiralTopologicalMatter]]
 [[CoPackagedOptics]]
 [[Complex_System_Theory]]
+[[Cryogenic_Syndrome_Compression]]
 [[DTGA]]
 [[Decoupled_Priors]]
 [[Dynamic_Expert_Fusion]]

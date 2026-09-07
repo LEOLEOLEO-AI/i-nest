@@ -56,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[SelfOrganization]]
 [[SparseTemporalEncoding]]
 [[StructuralConstraintAwareLearning]]
+[[Switchless_Dragonfly_Topology]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[TopologyAware_Embedding]]

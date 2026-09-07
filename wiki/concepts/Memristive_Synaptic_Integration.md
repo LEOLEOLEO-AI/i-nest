@@ -26,6 +26,8 @@ Auto-extracted concept from raw material compilation.
 [[EnergyResourceEfficiencyCoOptimization]]
 [[FCDC_Architecture]]
 [[FerroelectricMemoryCell]]
+[[FerroelectricSynapticArray]]
+[[Ferroelectric_Devices]]
 [[In_Memory_Computing]]
 [[Memristor]]
 [[Memristor_Synapse]]

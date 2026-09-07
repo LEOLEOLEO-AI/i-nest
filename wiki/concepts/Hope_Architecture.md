@@ -62,6 +62,7 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[emerging CMOS memristor]]
 [[iNEST]]
+[[忆阻器]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[神经网络]]
 [[类脑芯片]]

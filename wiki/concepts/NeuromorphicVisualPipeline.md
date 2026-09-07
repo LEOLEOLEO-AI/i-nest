@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[EnergyEfficientNeuromorphic]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[LossSpikePhenomenon]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[NeuromorphicHardware]]

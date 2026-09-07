@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[BarrierConditionedTrajectory]]
 [[BifurcationCandidate]]
 [[Cascading_Failure_Mitigation]]
+[[ChipletSignalIntegrity]]
 [[Chiplet]]
 [[Chiplet_Based_Architecture]]
 [[Chiplet_Heterogeneous_Integration]]

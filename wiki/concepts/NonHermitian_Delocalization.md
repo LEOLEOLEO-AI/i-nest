@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[03 涌现：整体的能力不能还原回个体？ - 得到APP]]
 [[3D_Heterogeneous_Integration]]
 [[3d]]
+[[AndersonTransition]]
 [[BifurcationCandidate]]
 [[CLINKAsCarrierPrimitive]]
 [[CavityMethodAnalysis]]
@@ -52,7 +53,6 @@ Auto-extracted concept from raw material compilation.
 [[ReEntrantMultifractalization]]
 [[TopologyAwarePhotonicInterconnect]]
 [[TopologyEmbeddedSelfModel]]
-[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

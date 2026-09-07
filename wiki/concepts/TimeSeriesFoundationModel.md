@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AddressRedundancyElimination]]
 [[Adjoint_Gradient_Propagation]]
 [[AvalanchePropagation]]
+[[BarrierConditionedTrajectory]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[BiasPropagationInNetworks]]
 [[BitPrecisionAwareScheduling]]
@@ -43,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[OpenLearningEcosystem]]
 [[PacketRoutingForFPGAs]]
 [[PacketRoutingOptimization]]
+[[SelfOrganization]]
 [[analog computation]]
 [[iNEST]]
 

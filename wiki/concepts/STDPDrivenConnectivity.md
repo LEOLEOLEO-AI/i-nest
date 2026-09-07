@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[DelayTolerantNetworkUAV]]
 [[EndToEndTopologicalLearning]]
 [[EvolvingArchitectureDynamics]]
+[[GeneralIntelligenceSubstrate]]
 [[HybridCouplingThermosensitiveNetwork]]
 [[InSitu_Adjoint_Wave_Control]]
 [[Intelligence_Emergence]]

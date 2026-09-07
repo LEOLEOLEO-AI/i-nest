@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityBasedClassification]]
 [[CriticalityDrivenLearning]]
 [[Criticality]]
+[[EnergyAwareLearning]]
 [[Self_Organized_Criticality]]
 [[TCC]]
 [[iNEST]]

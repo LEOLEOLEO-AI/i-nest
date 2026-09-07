@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[DisorderedNetworkInterconnect]]
 [[Dynamic_Expert_Fusion]]
 [[EventDrivenRiskAssessment]]
+[[EventDrivenTracking]]
 [[Generative_Graph_Models]]
 [[InNetworkComputing]]
 [[Intelligence_Emergence]]

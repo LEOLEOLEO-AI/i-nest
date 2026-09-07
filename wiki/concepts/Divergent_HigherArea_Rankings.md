@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[AdjointWaveControl]]
 [[Cache_Aware_Flow_Scheduling]]
 [[Complex_System_Theory]]
+[[Critical_Region_Extension]]
 [[DTGA]]
 [[Decoupling_Mechanism]]
 [[FPGA_Reconfigurability]]

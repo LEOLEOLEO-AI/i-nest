@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[CollectiveSpikingDynamics]]
 [[Contested_Prior_Resolution]]
+[[CrossLayer_SignalRouting]]
 [[DelayAwareSpikeEventDelivery]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]

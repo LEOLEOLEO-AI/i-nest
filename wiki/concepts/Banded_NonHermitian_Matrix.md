@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Backpropagation_Comparison]]
 [[CST计量仪]]
 [[CausalIntegrationPhi]]
+[[Causal_State_Encoding]]
 [[CentralityAsStateVariable]]
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]

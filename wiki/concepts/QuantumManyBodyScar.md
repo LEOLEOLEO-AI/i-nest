@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[BifurcationCandidateSet]]
 [[BifurcationCandidate]]
 [[Biocompatible_Neuromorphic_Interface]]
+[[CertifiedBifurcationDetection]]
 [[CollectiveStabilityMetric]]
 [[CollectiveStateStability]]
 [[Complex_System_Theory]]

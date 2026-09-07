@@ -61,8 +61,8 @@ Auto-extracted concept from raw material compilation.
 [[SpatialPatternStorage]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[WeedIdentification]]
 [[advanced packaging]]
-[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Critical_Region_Extension]]
 [[DelayPropagationDynamics]]
 [[Dynamic_Expert_Fusion]]
+[[ElectricFieldModulatedCoupling]]
 [[Emergent_Order_Deep_Belief_Networks]]
 [[ExactWiringRouting]]
 [[Intelligence_Emergence]]

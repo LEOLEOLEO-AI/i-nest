@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossEntityPreemptiveWarning]]
 [[DeepCode_AlgorithmExtraction]]
 [[DelayAwareSpikeEventDelivery]]
+[[DigitalSpikingNeuralNetwork]]
 [[DiscreteContinuous_Unification]]
 [[Neuromorphic_Computing]]
 [[SNN]]

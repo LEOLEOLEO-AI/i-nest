@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[NonreciprocalQuasiperiodicLattice]]
 [[PhotonicSynapticPlasticity]]
+[[QuantumKernelMethods]]
 [[ReconfigurableSpikingRouting]]
 [[SDI_Bond]]
 [[SDI_STDP]]

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[ExtinctionDrivenMetastability]]
 [[FPGA_Accelerated_SNN]]
 [[Fast_Response_Actuator]]
+[[Fixed_Term_Project_Structure]]
 [[InteractingQuasiPeriodicChain]]
 [[Interconnect_Routing]]
 [[NonHermitianSpectralCorrelations]]

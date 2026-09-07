@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[CongestionAwareNoCPlacement]]
 [[CrossbarArrayArchitecture]]
 [[Decoupled_Priors]]
+[[DiagnosticReportFramework]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Topology]]
 [[Network_Topology_Design]]
@@ -41,7 +42,6 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[Software_Defined_Interconnect]]
 [[TCC]]
-[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Entropy_Connectivity_Path]]
 [[FPGA_Neuromorphic_Architectures]]
 [[Fixed_Cost_Dominance]]
+[[Hardware_Accelerated_SNN]]
 [[HippocampalNeocorticalIntelligence]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]

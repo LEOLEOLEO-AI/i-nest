@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[FatigueSTDP]]
 [[HardwareAware_DesignSpace]]
+[[InNetworkNeuromorphicSimulation]]
 [[Intelligence_Emergence]]
 [[Layered_Attractive_Hubbard_Model]]
 [[LocalQuantumLearningRule]]

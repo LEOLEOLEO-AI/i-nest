@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Thermalisation]]
 [[Evolving_System_Adaptation]]
 [[FirstPrinciples_AI]]
+[[FlagOS_2_0]]
 [[Heterogeneous_Compute_Graph]]
 [[Heterogeneous_Integration]]
 [[HierarchicalReservoirDynamics]]

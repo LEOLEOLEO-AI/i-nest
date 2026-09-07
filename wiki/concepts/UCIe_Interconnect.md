@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
+[[Cryogenic_Syndrome_Compression]]
 [[Heterogeneous_Integration]]
 [[Intelligent_Computing_Infrastructure]]
 [[Interconnect_Routing]]
@@ -41,7 +42,6 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[TCC]]
-[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

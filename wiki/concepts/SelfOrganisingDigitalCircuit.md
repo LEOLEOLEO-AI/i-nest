@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveArchitecture]]
 [[AdaptiveEntanglementManagement]]
 [[AdjointWaveControl]]
+[[AgenticServiceOrchestration]]
 [[Capability_Reserve_Index]]
 [[Cognitive_Relapse_Decoupling]]
 [[ConstraintDrivenSelfOrganization]]

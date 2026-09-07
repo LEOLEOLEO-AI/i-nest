@@ -59,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI节点接口规范与化合键定义]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
+[[SNN]]
 [[STDP_Plasticity]]
 [[ST_SNN]]
 [[SelfOrganizedOscillatoryLearning]]
@@ -71,8 +72,8 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect_Memristor]]
 [[Wafer_Scale_Memristor_Interconnect]]
 [[Wafer_Scale_Neuromorphic]]
-[[chiplet interconnect]]
 [[iNEST]]
+[[iNEST_Neuromorphic_Integration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

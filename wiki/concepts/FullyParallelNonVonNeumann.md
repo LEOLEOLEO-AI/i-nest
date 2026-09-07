@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[DualDrivenHybridNetwork]]
 [[EnergyResourceEfficiencyTradeoff]]
 [[ErrorAmplificationLimits]]
+[[EventDriven_AsyncCircuit]]
 [[HighThroughputBioparticleRouting]]
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]

@@ -30,11 +30,12 @@ Auto-extracted concept from raw material compilation.
 [[Distributed_Spike_Communication]]
 [[EdgeInspectionInference]]
 [[EventDrivenPlasticity]]
+[[FixedOverheadCost]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[SNN]]
-[[Spiking neural network]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 
 ## Sources

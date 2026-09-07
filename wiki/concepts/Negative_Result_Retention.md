@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Ant_Swarm_Functional_Control]]
 [[BackflowTransformation]]
 [[BioInspired_Interception_Control]]
+[[BrownianCastleInterface]]
 [[BurstGatedRouting]]
 [[Cognitive_Relapse_Decoupling]]
 [[ConductingPolymerDendriteMemory]]

@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[GeneralIntelligenceSubstrate]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[Microsecond_Link_Reconfiguration]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
@@ -49,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Photonic_Chiplet_Interconnect]]
 [[SDI_Bond]]
 [[SDI_Topology]]
+[[SDSoW]]
 [[SDSoW_Architecture]]
 [[STDP_Plasticity]]
 [[ScalabilityFaultToleranceTradeoff]]
@@ -64,7 +66,6 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
 [[Wafer_Scale_Neuromorphic_Topology]]
-[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

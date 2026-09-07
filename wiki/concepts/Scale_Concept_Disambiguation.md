@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Connectome]]
 [[CrossbarArrayVLSI]]
 [[DataProvenanceIntegrity]]
+[[Four_Scale_Semantic_Battlefield]]
 [[Heterogeneous_Integration]]
 [[KeyMaterialStrategy]]
 [[Mesoscale_Heterogeneous_Integration]]

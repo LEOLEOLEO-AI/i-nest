@@ -33,11 +33,11 @@ Auto-extracted concept from raw material compilation.
 [[GlobalDecision_LocalExecution_ControlPlane]]
 [[Heterogeneous_Integration]]
 [[Integrated_Wafer_Cooling]]
+[[InterWafer_SwarmX]]
 [[Interconnect_Topology]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
-[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

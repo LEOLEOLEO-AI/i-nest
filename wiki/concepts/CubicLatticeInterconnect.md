@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Crystallized_Neural_Manifolds]]
 [[Defect_Mediated_Transport]]
 [[DendriticTaskPartitioning]]
+[[DestructiveInterferenceConfinement]]
 [[DevelopmentalNeuromorphicAdaptation]]
 [[EmergentOrder]]
 [[FrozenRateOperator]]

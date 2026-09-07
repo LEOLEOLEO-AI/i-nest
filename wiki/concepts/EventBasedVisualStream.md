@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[EnergyEfficientNeuromorphicDesign]]
 [[EnergyEfficientNeuromorphic]]
+[[EnergyEfficientSNN]]
 [[EventDrivenComputation]]
 [[EventDrivenInference]]
 [[EventDrivenNeuromorphicLearning]]

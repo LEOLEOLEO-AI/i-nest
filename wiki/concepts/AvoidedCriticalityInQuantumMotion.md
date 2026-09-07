@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[EdgeIoTEnergyAwareness]]
 [[ExactlyFlatTopologicalBands]]
 [[FeatureBonding]]
+[[FunctionalRelevanceDrivenSelfOrganization]]
 [[InNetworkComputing]]
 [[Interconnect_Routing]]
 [[Memristive_Topology]]

@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[NeuralNetworkSpectralAnalysis]]
+[[NeuromorphicSpikingTopology]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Sensor_Fusion]]
 [[RecursiveSelfReferentialArchitecture]]

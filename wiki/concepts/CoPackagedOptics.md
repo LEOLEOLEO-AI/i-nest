@@ -60,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[OptimalRepresentation]]
 [[OptimalRepresentations]]
 [[RecursiveSelfReferentialArchitecture]]
+[[ReliabilityOverheadTradeoff]]
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[TCC]]

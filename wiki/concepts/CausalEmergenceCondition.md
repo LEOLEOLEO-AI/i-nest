@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Crystallized_Neural_Manifolds]]
 [[Deep_Thermalisation]]
 [[DendriticTaskPartitioning]]
+[[DeviceLevelNonlinearityScaling]]
 [[ERI_2_0_Strategic_Framework]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

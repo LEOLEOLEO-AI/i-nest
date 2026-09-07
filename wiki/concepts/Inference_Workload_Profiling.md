@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[CommunicationAwareComputeRelocation]]
 [[Complex_System_Theory]]
 [[DTGA]]
+[[DirectConnect_Topology]]
 [[EventDrivenSynchronization]]
 [[FPGA_Reconfigurability]]
 [[FatalityDrivenRewiring]]

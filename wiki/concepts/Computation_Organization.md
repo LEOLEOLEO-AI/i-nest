@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[AnalogDomainCompressiveSensing]]
 [[ApplicationScenarioReconstruction]]
 [[Co_Optimization_Physical_Computing]]
+[[Contested_Prior_Resolution]]
 [[ErrorSuppressedPipeline]]
 [[HierarchicalReservoirDynamics]]
 [[Intelligence_Emergence]]

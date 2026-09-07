@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityBasedClassification]]
 [[CriticalityDrivenIntegration]]
 [[Criticality]]
+[[CrossEntityPreemptiveWarning]]
 [[DimensionSeparation_IntensiveExtensive]]
 [[Neuromorphic_Computing]]
 [[SNN]]

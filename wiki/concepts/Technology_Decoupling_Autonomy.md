@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Alpha_Coefficient_Phase_Transition_Amplification]]
 [[Architectural_Conditioning]]
 [[BCM滑动阈值]]
+[[BayesianDomainEvolution]]
 [[CUDAQSimulationFramework]]
 [[Complex_System_Theory]]
 [[CrossSubstrateHomology]]

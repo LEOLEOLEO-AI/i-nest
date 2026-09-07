@@ -62,6 +62,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TacticalEdgeIntelligence]]
+[[TemporalSemanticEntropy]]
 [[iNEST]]
 [[神经网络]]
 

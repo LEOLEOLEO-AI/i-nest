@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Network_Neuromorphic]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[LocalPlasticityPipeline]]
 [[NetworkArchitectureSearch]]
 [[Network_Topology_Design]]
 [[Neural_Avalanche]]

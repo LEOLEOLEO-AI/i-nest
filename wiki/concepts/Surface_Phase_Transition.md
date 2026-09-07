@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
+[[Cross_Node_Event_Propagation]]
 [[Heterogeneous_Integration]]
 [[HypergraphRumorPropagation]]
 [[IndexOrderingOptimization]]

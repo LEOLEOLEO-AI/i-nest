@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_iNEST_Wafer]]
 [[Nonlinear_Gain]]
 [[P_Paradigm]]
+[[SDI_TCC_iNEST_Interconnect]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[Second_Curve_Wafer_Industry_Platform]]
@@ -61,7 +62,6 @@ Auto-extracted concept from raw material compilation.
 [[Textbook_Paradigm_Definition]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
-[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

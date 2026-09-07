@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Continual_Learning_Modularity]]
 [[ControlDrivenCriticalFluctuations]]
 [[CounterstreamSignalPropagation]]
+[[Critical_Region_Extension]]
 [[Criticality]]
 [[DelayPropagationDynamics]]
 [[DiffusionInducedInstability]]

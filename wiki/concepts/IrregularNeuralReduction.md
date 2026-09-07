@@ -43,10 +43,10 @@ Auto-extracted concept from raw material compilation.
 [[NoC]]
 [[P_Paradigm]]
 [[Photonic_Chiplet_Interconnect]]
+[[SpatialPatternStorage]]
 [[TCC]]
 [[ThroughSiliconVia_TSV_ThermalPath]]
 [[Topology_Induced_Robustness]]
-[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

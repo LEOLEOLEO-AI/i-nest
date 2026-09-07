@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Next_Gen_AI_Application_Scenarios]]
 [[NoC]]
 [[NoC_Chiplet_Wafer_Stack]]
+[[NoC_Chiplet_iNEST_Wafer]]
 [[NonAbelian_Gauge_Topology]]
 [[Nonlinear_Gain]]
 [[Nonlinear_Topology_Amplification]]
@@ -65,6 +66,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Architecture]]
 [[Second_Curve_Wafer_Industry_Platform]]
 [[Software_Defined_Interconnect]]
+[[Software_Defined_Interconnect_Bond]]
 [[Software_Defined_Interconnect_bonding_mechanism]]
 [[Spacetime_Coupling_Coefficient]]
 [[SpatiotemporalComplexityIndex]]
@@ -81,7 +83,6 @@ Auto-extracted concept from raw material compilation.
 [[Topology_Centric_Computing]]
 [[Topology_Centric_Computing_Paradigm]]
 [[Topology_Interconnect]]
-[[chiplet interconnect]]
 [[residual connection]]
 
 ## Sources

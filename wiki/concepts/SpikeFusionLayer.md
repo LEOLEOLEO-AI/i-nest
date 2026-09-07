@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveSTDP]]
 [[AdaptiveSpeechToSpikeEncoding]]
 [[Bidirectional_Temporal_Enhancement]]
+[[BrainBodyResonance]]
 [[Controlled_Release_Kinetics]]
 [[DiscreteSTDPLearning]]
 [[DiscreteSTDP]]

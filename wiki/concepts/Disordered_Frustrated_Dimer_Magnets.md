@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[DualSide_Routing_Layer]]
 [[ElectrochemicalSensingArray]]
 [[Environmental_Capability_Context]]
+[[EventDriven_Interconnect]]
 [[Heterogeneous_Integration]]
 [[HodgkinHuxleyDynamics]]
 [[Interconnect_Routing]]
@@ -58,7 +59,6 @@ Auto-extracted concept from raw material compilation.
 [[SpikeCommunicationCost]]
 [[Spiking_Neural_Network]]
 [[TCC]]
-[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[6万+辛顿2025年度全景实录深读｜真正的智能与硅基智能的非对称演进]]
 [[Allreduce_Latency_Probe]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
+[[Chiplet_Based_Neuromorphic_Integration]]
 [[CirculateFiringNeuron]]
 [[ComplexValuedSNN]]
 [[Emergent_Intelligence]]

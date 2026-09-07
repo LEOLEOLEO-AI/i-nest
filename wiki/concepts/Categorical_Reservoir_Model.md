@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[3D_Torus_6_Degree]]
+[[3d]]
 [[AINext_Initiative]]
 [[AcceleratedMaterialScreening]]
 [[AdversarialResilience]]
@@ -49,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[ShortTermMemory]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[iNEST 论文矩阵计划]]
 [[iNEST]]
 [[神经网络]]
 

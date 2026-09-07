@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[CoPackagedOptics]]
 [[Complex_System_Theory]]
 [[ComputeRelocationOverhead]]
+[[Cryogenic_Syndrome_Compression]]
 [[DataMovementMinimization]]
 [[DirectConnect_Topology]]
 [[Heterogeneous_Integration]]
@@ -65,7 +66,6 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Packaging]]
 [[advanced packaging]]
-[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

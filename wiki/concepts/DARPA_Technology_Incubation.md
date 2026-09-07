@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[OpenLearningEcosystem]]
 [[P_Paradigm]]
 [[Phase_Synchronization_Collective_Dynamics]]
+[[QuantumConvolutionalTopology]]
 [[Semantic_Least_Energy_Principle]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]

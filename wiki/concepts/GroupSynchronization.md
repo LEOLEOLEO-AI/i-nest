@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_iNEST]]
 [[SpikeEncoding]]
 [[Spike_Encoding_of_fMRI]]
+[[SpikingNeuralNetworkInference]]
 [[SpikingTopologyEvolution]]
 [[Spiking_Neural_Network]]
 [[StochasticBinaryDynamics]]

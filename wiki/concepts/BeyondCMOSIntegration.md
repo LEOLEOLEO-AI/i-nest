@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[LowBitSpikingPruning]]
 [[MembranePotentialDynamics]]
 [[Memristive_InMemory_Computing]]
+[[Memristive_Spike_Integration]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Metriplectic_Twin]]

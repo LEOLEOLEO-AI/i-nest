@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[DeepCode_AlgorithmExtraction]]
 [[DelayAwareSpikeEventDelivery]]
 [[DiscreteContinuous_Unification]]
+[[DrivenCriticalityOptimalityTradeoff]]
 [[EventBasedMotionDeblurring]]
 [[Event_Driven_Architecture]]
 [[Neuromorphic_Computing]]

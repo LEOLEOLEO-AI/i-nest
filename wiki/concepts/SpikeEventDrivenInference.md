@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[BurstGatedRouting]]
 [[Complex_System_Theory]]
+[[Continuous_Discrete_Compute_Gap]]
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[Criticality]]
 [[Criticality_Based_Feature_Extraction]]

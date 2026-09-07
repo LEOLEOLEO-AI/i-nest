@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Inference_Workload_Profiling]]
 [[Interconnect_Routing]]
 [[MatrixShapePhaseTransition]]
+[[MeasurementInducedRouting]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]
 [[SDI_STDP]]

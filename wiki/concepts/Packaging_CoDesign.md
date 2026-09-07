@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC]]
 [[NoC_Chiplet_iNEST_Wafer]]
 [[P_Paradigm]]
+[[SDI_TopologyWaferIntegration]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[SDSoW_TCC_Integration]]
@@ -52,7 +53,6 @@ Auto-extracted concept from raw material compilation.
 [[WaferScaleInterconnectAlgebra]]
 [[Wafer_Scale_Integration]]
 [[advanced packaging]]
-[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

@@ -28,8 +28,8 @@ Auto-extracted concept from raw material compilation.
 [[ConductingPolymerDendriteMemory]]
 [[D_FlipFlop]]
 [[Distributed_Spike_Communication]]
+[[DrivenDissipativeDynamics]]
 [[SNN]]
-[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[FastSlow_Dynamics]]
 [[FieldTopologyEmbedding]]
 [[GoalNormalization]]
+[[HaloConnectivity]]
 [[ImaginaryGaugePhaseImprint]]
 [[Intelligence_Emergence]]
 [[KV_Cache_To_BoundaryObject]]

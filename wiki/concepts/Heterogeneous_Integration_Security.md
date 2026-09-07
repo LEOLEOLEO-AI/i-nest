@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[ComponentLevelMolding]]
 [[CriticalInertiaEstimation]]
+[[DarkSiliconAwarePowerGating]]
 [[EdgeAI_Market_Consolidation_Driver]]
 [[Energy_Efficient_Control]]
 [[FerroelectricMemoryCell]]

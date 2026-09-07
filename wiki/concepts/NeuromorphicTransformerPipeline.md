@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[Neuromorphic_Interconnect]]
 [[Neuromorphic_Selective_State_Space]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDSoW]]
@@ -61,7 +62,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect_Memristor]]
 [[Wafer_Scale_Neuromorphic]]
 [[iNEST]]
-[[neuromorphic interconnect]]
+[[iNEST_Neuromorphic_Integration]]
 [[类脑芯片]]
 
 ## Sources

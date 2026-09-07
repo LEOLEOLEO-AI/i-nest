@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Machine_Decision_Speed_Advantage]]
 [[Memristor]]
 [[Memristor_Synapse]]
+[[National_Planning_Driven_Research_Alignment]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

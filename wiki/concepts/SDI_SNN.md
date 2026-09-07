@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Course_Based_FPGA_Projects]]
 [[DARPA_Manufacturing_Strategy]]
 [[Distributed_Spike_Communication]]
+[[EdgeInspectionInference]]
 [[Heterogeneous_Integration]]
 [[HodgkinHuxleyDynamics]]
 [[In_Package_Neuromorphic_Integration]]

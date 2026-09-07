@@ -1,0 +1,96 @@
+
+============================================================
+  iNEST + TCC Research Pipeline v3.3
+  2026-09-07 06:30
+============================================================
+[06:30:02] [S2] Searching Semantic Scholar (19 queries)...
+[06:30:34]   S2 error (chiplet interconnect wafer-scale routing): <urlopen error [WinError 10054] 远程主机强迫关闭了一个现有的连接。>
+[06:30:59]   S2 error (temporal network dynamic topology reconf): <urlopen error [WinError 10054] 远程主机强迫关闭了一个现有的连接。>
+[06:31:37]   S2: 429 rate limited; skip S2 for this run and continue with arXiv/GN
+[06:31:37] [arXiv] Searching arXiv (via proxy, 21 queries)...
+[06:31:38]   arXiv skip irrelevant: SENTINEL-RL: Offloading Topological Reasoning from LLM Agent
+[06:31:38]   arXiv skip irrelevant: Bernstein--von Mises theorems for Bayesian probabilistic num
+[06:31:38]   arXiv skip irrelevant: Tunable topological enhancement of covariant quantum Fisher 
+[06:31:50]   arXiv skip irrelevant: THz-SynC: Collective Synthesis with Contextual-Bandit-Assist
+[06:31:50]   arXiv skip irrelevant: Designing corrugated surfaces to guide colloidal self-assemb
+[06:31:50]   arXiv skip irrelevant: Every Kernel Is a Join: Automatic Multi-GPU Parallelism for 
+[06:31:56]   arXiv skip irrelevant: Stable and Scalable Bundle Adjustment of Holistic 3D Structu
+[06:31:56]   arXiv skip irrelevant: Common-Witness Certificates and Sharp Feature Bounds for Cou
+[06:31:56]   arXiv skip irrelevant: Approximate maximum-likelihood decoding via truncated free e
+[06:32:02]   arXiv skip irrelevant: Formation Matrix and Energy-based Control of Multi-Agent Sys
+[06:32:02]   arXiv skip irrelevant: Quantifying Power to Voltage and Frequency Dynamics for Osci
+[06:32:02]   arXiv skip irrelevant: Hosting Capacity Assessment of Data Centers with Voltage Rid
+[06:32:07]   arXiv: batch separator, pausing 10s...
+[06:32:17]   arXiv skip irrelevant: THz-SynC: Collective Synthesis with Contextual-Bandit-Assist
+[06:32:17]   arXiv skip irrelevant: Employing the Structural Power to Achieve Supply-Demand Bala
+[06:32:17]   arXiv skip irrelevant: PPO-STGNN: A Proximal Policy Optimization Approach with Spat
+[06:32:23]   arXiv skip irrelevant: THz-SynC: Collective Synthesis with Contextual-Bandit-Assist
+[06:32:23]   arXiv skip irrelevant: From Prior-Guided Heuristics to Deployable Agents: Accelerat
+[06:32:23]   arXiv skip irrelevant: Integrating Wi-Fi into 3GPP 5G Network Slicing: An Experimen
+[06:32:29]   arXiv skip irrelevant: GIFT: Guided Intermediate Feature Training via Action-Orient
+[06:32:29]   arXiv skip irrelevant: B(E2) Serves as a Robust Signature of N = 32,34 Shell Evolut
+[06:32:29]   arXiv skip irrelevant: Effective Hamiltonian description on monitored Majorana chai
+[06:32:37]   arXiv skip irrelevant: Low-Thrust Trajectory Optimization with Quantum Computing an
+[06:32:37]   arXiv skip irrelevant: Exploring Nonlinear Body Oscillations for Natural Quadruped 
+[06:32:43]   arXiv skip irrelevant: Phase-delays shape multistability and basin sizes in Kuramot
+[06:32:48]   arXiv: batch separator, pausing 10s...
+[06:33:05]   跳过重复: High-Throughput Computational Discovery of Inverte... [Title: High-Throughput Computational Discovery of Inverted Resistive Switching in Two-D]
+[06:33:05]   跳过重复: A Reconfigurable Hybrid Convolutional-Fully Connec... [Title: A Reconfigurable Hybrid Convolutional-Fully Connected Neuromorphic Core for Biom]
+[06:33:05]   跳过重复: Conjoint Audio-to-Spikes Encoding and Processing f... [Title: Conjoint Audio-to-Spikes Encoding and Processing for Efficient Neuromorphic Spee]
+[06:33:11]   arXiv skip irrelevant: A Case Study on Emergent Cheating and Whistleblowing in Auto
+[06:33:11]   arXiv skip irrelevant: Spectral and Eigenvector Crossovers in Random Mixed Graphs
+[06:33:11]   arXiv skip irrelevant: The Natural Language Interaction Protocol and Standard for A
+[06:33:16]   arXiv skip irrelevant: LevelSyn: Physical-Aware Logic Synthesis via Level-Asynchron
+[06:33:16]   arXiv skip irrelevant: Skywing: A Platform for Decentralized Mathematical Computing
+[06:33:16]   arXiv skip irrelevant: Efficient Co-simulator Integration with Application to Smart
+[06:33:22]   arXiv skip irrelevant: High-Order Triadic Functional Connectivity in the Brain and 
+[06:33:22]   arXiv skip irrelevant: Spatially-resolved multiphoton photoemission from a lateral 
+[06:33:22]   arXiv skip irrelevant: Spatiotemporal Chaos with Extended Spatial Interactions
+[06:33:28]   arXiv skip irrelevant: Synchronization of directed hypergraphs with heterogeneities
+[06:33:28]   跳过重复: Learning with Volterra Neural Networks: A System T... [Title: Learning with Volterra Neural Networks: A System Theoretic Perspective]
+[06:33:28]   arXiv skip irrelevant: Why Multi-Layer Message Passing Works: Completeness Theory f
+[06:33:33]   arXiv: batch separator, pausing 10s...
+[06:33:51]   arXiv skip irrelevant: Optical Reservoir Computing with Structural Nonlinearity for
+[06:33:51]   arXiv skip irrelevant: Towards Effective Physical Reservoir Computing with a Pneuma
+[06:33:51]   arXiv skip irrelevant: Basin Geometry and Reliable Recall of Dynamical Memories in 
+[06:33:57]   arXiv skip irrelevant: Genetic Algorithms for Tractable Bayesian Network Fusion via
+[06:33:57]   跳过重复: A Network Science Perspective on Evaluating Deep G... [Title: A Network Science Perspective on Evaluating Deep Graph Generative Models]
+[06:34:03]   arXiv skip irrelevant: Renormalization group and long-range conditional mutual info
+[06:34:03]   arXiv skip irrelevant: Agents That Model Agents: Five Principles Toward a Theory of
+[06:34:03]   arXiv skip irrelevant: Local-to-Global Sentence-Level Graph Reranking for Scientifi
+[06:34:14]   arXiv: batch separator, pausing 10s...
+[06:34:24]   arXiv skip irrelevant: THz-SynC: Collective Synthesis with Contextual-Bandit-Assist
+[06:34:24]   arXiv skip irrelevant: Genetic Algorithms for Tractable Bayesian Network Fusion via
+[06:34:29] [arXiv] 0 new papers, 0 errors across 21 queries
+[06:34:29] [GN] Google News RSS...
+[06:34:51]   GN error (TCC): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[06:36:58]   GN error (iNEST): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[06:37:20]   GN error (emergence): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[06:37:42]   GN error (complex-networks): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[06:37:43] [GN] 0 new articles
+
+  Total: 0 new items to inbox
+[06:37:43] [Process] LLM classify (free tier, limit=20)...
+[06:38:07] [Process] Classified: 0
+[06:38:07] [Genspark] Generating research brief...
+[06:38:07] [Genspark] Research brief written: genspark_research_brief.md
+[06:38:07] [Graph] Scanning wiki links...
+[06:39:45] [Graph] 12808 files, 257012 links
+[06:40:49] [Graph] Exported: 12808 nodes, 253549 edges
+[06:40:49] [Graph] 0 missing backlinks
+[06:40:49] [DailyGen] Daily_Action + Focus + Insights generated
+[06:40:49] [Review] Research task proposals refreshed
+
+============================================================
+  Pipeline v3.3 Complete
+  Sources: 0(S2)+0(arXiv)+0(GN) | Written: 0 new papers
+  Processed: 0 | Nodes: 12808 edges: 253549 | Missing links: 0 | Genspark: OK
+  Elapsed: 648s
+============================================================
+[06:40:50] [State] research_state.json updated
+[06:40:50] [Evolution] Evidence + hypotheses updated
+[06:41:33] [Wiki] Karpathy compiler: raw → wiki done
+[06:41:34] [Insight] Cross-domain bridges updated
+[06:42:12] [Tasks] Research recommendations updated
+[06:42:13] [Dashboard] Live dashboard published
+[06:42:13] [Homepage] Home.md auto-refreshed

@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[DivergentHigherAreaRanking]]
 [[HardwareAware_DesignSpace]]
 [[Hardware_Accelerated_SNN]]
+[[INT4PrecisionQuantization]]
 [[Intelligence_Emergence]]
 [[LeftRightAsymmetry]]
 [[MemristiveSNN]]

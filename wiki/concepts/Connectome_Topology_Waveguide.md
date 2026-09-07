@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[3D_Airborne_Connectivity_Characterization]]
 [[3d]]
+[[Active_Inference_Agent]]
 [[AdaptiveFlexibilityThreshold]]
 [[Additive_Manufacturing_Defense_Trinity]]
 [[Autonomous_Physical_Computation]]

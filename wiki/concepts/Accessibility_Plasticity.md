@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[BigBrainCellularAxis]]
 [[ClocklessReconfigurableChip]]
+[[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[CorticalWaveRouting]]
 [[DevelopmentalNeuromorphicAdaptation]]
 [[Dynamic_Expert_Fusion]]

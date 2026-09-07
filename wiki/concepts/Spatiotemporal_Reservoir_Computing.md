@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[BayesianDomainEvolution]]
 [[BehavioralFeedbackLoop]]
 [[Biomanufacturing_Control_Loop]]
+[[BranchingRatio]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]
 [[SpatioTemporal_Reservoir]]

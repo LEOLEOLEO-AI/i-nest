@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_P_D_Inference]]
 [[Intelligence_Emergence]]
 [[LLM_Assisted_Hardware_Design]]
+[[MachineLearningPotential]]
 [[Milinkovic B (2024)：复杂神经系统涌现动力学结构]]
 [[Network_Topology_Design]]
 [[PPT]]

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[AIRA_NeuralArchSearch]]
 [[AI_Forum_Ecosystem]]
 [[AI_Orchestrator]]
+[[Active_Inference_Agent]]
 [[Complex_System_Theory]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]

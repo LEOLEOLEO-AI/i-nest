@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikingPolicyGradient]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
+[[Synaptic_Plasticity_Rule]]
 [[iNEST]]
 [[temporal coding]]
 

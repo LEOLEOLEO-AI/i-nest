@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstInterleaving]]
 [[Collective_State_Convergence]]
 [[ConsciousnessEngineeringLoop]]
+[[Critical_Region_Extension]]
 [[Data_Debiasing_Techniques]]
 [[Deep_Thermalisation]]
 [[Interconnect_Routing]]

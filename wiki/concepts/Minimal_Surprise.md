@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveFrequencyResonateAndFire]]
 [[AdaptiveLocalLearning]]
 [[AnisotropicGaussianPrimitives]]
+[[EventDrivenAsynchronousOperation]]
 [[FlexibilityThreshold]]
 [[HighTemporalResolutionSensing]]
 [[Neuromorphic_Computing]]

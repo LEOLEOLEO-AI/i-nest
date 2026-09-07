@@ -21,9 +21,14 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3DHI_Chiplet_Integration]]
+[[3d]]
 [[AI_Faculty_Forum_2026]]
 [[AnalogInMemoryComputing]]
 [[Attention_Residuals]]
+[[CST_MasterEquation]]
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration]]
 [[Defense_Industrial_Base_Reshaping]]
 [[Emergent_Intelligence]]
 [[Intelligence_Emergence]]

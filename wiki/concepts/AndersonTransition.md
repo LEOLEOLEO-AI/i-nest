@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[ComputeRelocationOverhead]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
+[[Crystallized_Neural_Manifolds]]
 [[DataCenter_Chip_Logic_Compression]]
 [[Deep_Thermalisation]]
 [[DistinctReentrantPhases]]

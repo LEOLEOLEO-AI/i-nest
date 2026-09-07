@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[12_三原理协同_FEP_最小作用量_STDP]]
 [[2026-06-15_大脑的量子纠缠与信息动力学]]
 [[AIRA_NeuralArchSearch]]
+[[AI_Supply_Chain_Increment]]
 [[AnalogDomainCompression]]
 [[Automated_Reward_Shaping]]
 [[CST_Theory]]

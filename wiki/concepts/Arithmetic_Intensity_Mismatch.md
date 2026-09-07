@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CollectiveSpikingDynamics]]
 [[CompactnessRegularizedFitness]]
 [[ConductingPolymerDendriteMemory]]
+[[DARPA_ProjectManager_Model]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]

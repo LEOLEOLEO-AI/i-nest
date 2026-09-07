@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[GenerativeTopologyModels]]
 [[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]
+[[InNetworkNeuromorphicSimulation]]
 [[InNetwork_CST_Offload]]
 [[Intelligence_Emergence]]
 [[Memristive_ANN_Hardware]]

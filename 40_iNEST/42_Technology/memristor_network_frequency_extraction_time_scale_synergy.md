@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 技术
+tags: [memristor, frequency-feature-extraction, time-scale-matching, neuromorphic-hardware, energy-efficiency]
+summary: "忆阻器网络实现频谱提取与时间尺度协同方案"
+quality: high
+processed: 2026-09-08 06:47
+---
+---
 title: "忆阻器网络频谱提取"
 tags:
   - hardware

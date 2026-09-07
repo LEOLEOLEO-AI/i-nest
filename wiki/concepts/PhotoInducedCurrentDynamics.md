@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Reservoir_Topology]]
 [[GroupInteractionThreshold]]
 [[HardwareAware_DesignSpace]]
+[[InNetworkNeuromorphicSimulation]]
 [[Intelligence_Emergence]]
 [[Memristor]]
 [[Memristor_Synapse]]

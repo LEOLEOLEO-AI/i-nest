@@ -57,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[Collective_Offloading]]
 [[CommunicationOverlapMechanism]]
 [[Complex_System_Theory]]
+[[ComputeRelocationOverhead]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Memory_Wall]]
@@ -66,7 +67,6 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Interconnect]]
 [[TCC]]
 [[advanced packaging]]
-[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

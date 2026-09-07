@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
+[[OptimalGeneralisationNearInterpolation]]
 [[Signal_Folding]]
 [[SneakPathCurrentSuppression]]
 [[SpatialPhotonicProgramming]]

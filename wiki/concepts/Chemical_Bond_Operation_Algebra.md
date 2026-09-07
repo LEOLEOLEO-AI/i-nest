@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Stacking]]
 [[Critical_Region_Extension]]
 [[DynamicServiceComposition]]
+[[Dynamic_Communication_Reconfiguration]]
 [[EventDrivenAsync]]
 [[EventDrivenAsynchronousRouting]]
 [[FPGA_NeuromorphicMapping]]

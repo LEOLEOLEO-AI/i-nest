@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[EventBasedBioSignalFrontEnd]]
 [[EventDataNonUniformity]]
 [[EventDrivenDefenseMechanism]]
+[[EventDrivenGraphTraversal]]
 [[Event_Driven_Architecture]]
 [[Spiking_Neural_Network]]
 [[iNEST]]

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[BrainInspired_Chip]]
 [[CollectiveSpikingDynamics]]
 [[CombinedImportanceScoring]]
+[[Complexity_Emergence_Engineering]]
 [[Contested_Prior_Resolution]]
 [[DTGA]]
 [[DistinguishableHelium4]]

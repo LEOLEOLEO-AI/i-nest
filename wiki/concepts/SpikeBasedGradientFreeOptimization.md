@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[Dynamic_Expert_Routing]]
 [[ExplainableEnergyAI]]
+[[ExtinctionDrivenMetastability]]
 [[ITP_STDP]]
 [[Interconnect_Routing]]
 [[LocalQuantumLearningRule]]

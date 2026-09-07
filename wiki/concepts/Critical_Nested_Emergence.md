@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[FormalLinguisticCompetence]]
 [[HierarchicalBayesianCommunityDetection]]
+[[HigherOrderAvalanche]]
 [[Intelligence_Emergence]]
 [[Memristor]]
 [[Memristor_Synapse]]

@@ -56,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[QuantumReservoirMemoryCapacity]]
 [[Readout_Weight_Training]]
 [[RecursiveSelfReferentialArchitecture]]
+[[RenormalizationGroupIntelligence]]
 [[Reservoir_Computing]]
 [[ShortTermMemory]]
 [[complex system]]

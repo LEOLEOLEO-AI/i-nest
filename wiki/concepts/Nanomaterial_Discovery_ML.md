@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[ProjectiveMeasurementRouting]]
+[[Real_Time_Neuromorphic_Constraint_Satisfaction]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

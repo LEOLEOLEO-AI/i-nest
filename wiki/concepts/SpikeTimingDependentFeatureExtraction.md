@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[DivergentHigherAreaRanking]]
 [[DynamicalSelfDualCriticality]]
 [[FatigueSTDP]]
+[[Fatigue_SpikePattern]]
 [[Layered_Attractive_Hubbard_Model]]
 [[Memristor]]
 [[Memristor_Synapse]]

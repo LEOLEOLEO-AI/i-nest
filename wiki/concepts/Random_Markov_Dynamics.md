@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN动力学]]
 [[Active_Inference_Topology]]
 [[Analog_InMemory_Processing]]
+[[AndersonTransition]]
 [[AutonomousAdaptation]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -55,8 +56,9 @@ Auto-extracted concept from raw material compilation.
 [[Reconfigurable_Interconnect]]
 [[Reconfigurable_NonHermitian_Nonlinear_System]]
 [[ReproducibleReservoirDynamics]]
+[[ReservoirDynamics]]
+[[Reservoir_Computing]]
 [[TCC]]
-[[chiplet interconnect]]
 [[neuromorphic substrate]]
 [[Γst_Revision]]
 

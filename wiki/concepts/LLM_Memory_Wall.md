@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_NoC_Interconnect]]
 [[Chiplet_Packaging]]
 [[Chiplet_Packaging_Topology]]
+[[Collective_Offloading]]
 [[EulaminateOverrepresentation]]
 [[Heterogeneous_Integration]]
 [[Memory_Wall]]
@@ -43,7 +44,6 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[TCC]]
 [[advanced packaging]]
-[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[InSituNeuralProcessing]]
 [[In_Package_Neuromorphic_Integration]]
 [[Intelligence_Emergence]]
+[[Interconnect_Routing]]
 [[Memory_Wall]]
 [[Memristive_Topology]]
 [[Memristor]]
@@ -53,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[OpportunisticRoutingRL]]
+[[OpportunisticRouting]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
@@ -66,6 +68,7 @@ Auto-extracted concept from raw material compilation.
 [[忆阻器]]
 [[新型计算]]
 [[神经形态计算]]
+[[神经形态计算突破：脉冲神经网络实现机器人超低功耗定位新范式]]
 [[神经网络]]
 [[类脑芯片]]
 

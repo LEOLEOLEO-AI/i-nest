@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[LossSpikeMechanism]]
 [[Memristive_Interconnect]]
+[[Memristive_STDP]]
 [[Memristor]]
 [[Memristor_Network]]
 [[Memristor_Synapse]]

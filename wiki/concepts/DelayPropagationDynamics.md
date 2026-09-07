@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Ant_Swarm_Functional_Control]]
 [[Architectural_Conditioning]]
+[[CircuitTopologyEncoding]]
 [[CounterstreamSignalPropagation]]
 [[CriticalityDrivenStateTransition]]
 [[Criticality]]

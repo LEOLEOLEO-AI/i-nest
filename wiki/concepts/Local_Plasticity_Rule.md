@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveSpeechToSpikeEncoding]]
 [[AsynchronousEventDrivenComputation]]
 [[BurstCoding]]
+[[CascadedAdaptiveCombiners]]
 [[Complex_System_Theory]]
 [[Cytokine_Feedback_Loops]]
 [[EmergentAttractorStability]]

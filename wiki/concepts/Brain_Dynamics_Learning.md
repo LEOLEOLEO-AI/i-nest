@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Interbrain_Geometry]]
 [[Interbrain_Network_Geometry]]
+[[IntracorticalNeuralDecoding]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]

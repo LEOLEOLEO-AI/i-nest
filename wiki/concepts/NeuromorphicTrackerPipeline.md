@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[NestedRepresentation]]
 [[Network_Topology_Design]]
+[[NeuromorphicControlBarrierFunction]]
 [[NeuromorphicEdgeProcessing]]
 [[NeuromorphicGraphAnomalyDetection]]
 [[NeuromorphicTransformerPipeline]]

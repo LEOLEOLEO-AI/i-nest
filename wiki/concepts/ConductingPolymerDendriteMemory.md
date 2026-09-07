@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[BigBrainCellularAxis]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
+[[Chiplet_Based_Neuromorphic_Integration]]
 [[DrivenDissipativeDynamics]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence]]

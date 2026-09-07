@@ -32,9 +32,11 @@ Auto-extracted concept from raw material compilation.
 [[AtomicGeometryEncoding]]
 [[BrownianCastleInterface]]
 [[BurstTemporalPlasticity]]
+[[EEGSpikeEncoding]]
 [[Network_Topology_Design]]
 [[SNN]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 
 ## Sources

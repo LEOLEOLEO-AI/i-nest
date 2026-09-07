@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[ActiveDendriteSNN]]
 [[AnomalousSpinTransport]]
+[[Avoided_Criticality]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BrainInspired_Chip]]
 [[BurstTemporalPlasticity]]

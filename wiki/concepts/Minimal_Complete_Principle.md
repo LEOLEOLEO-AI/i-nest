@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Advanced_Packaging_for_Space]]
 [[BurstGatedRouting]]
 [[CrossDomain_Integration]]
+[[Dynamic_Communication_Reconfiguration]]
 [[FPGA_NeuromorphicMapping]]
 [[Ferroelectric_ComputeInMemory]]
 [[Ferroelectric_Devices]]

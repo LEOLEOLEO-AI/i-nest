@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[DTGA]]
 [[ElasticSpikingTransformer]]
 [[ErrorSuppressedPipeline]]
+[[ExplosiveTransitionThreshold]]
 [[FlagOS_2_0]]
 [[Heterogeneous_Compute_Graph]]
 [[Heterogeneous_Integration]]

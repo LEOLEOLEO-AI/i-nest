@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_InMemory_Processing]]
 [[ApproximationFidelityTradeoff]]
 [[BCM滑动阈值]]
+[[BackpropagationFreeLearning]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_on_Chip]]

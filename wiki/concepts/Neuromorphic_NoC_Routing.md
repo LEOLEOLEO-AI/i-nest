@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[RobustnessToNoiseInSNN]]
 [[SNN]]
 [[ST_SNN]]
+[[SpikeBasedInference]]
 [[SpikeEncoding]]
 [[Spike_Event_Driven_Attention]]
 [[SpikingMultimodalFusion]]

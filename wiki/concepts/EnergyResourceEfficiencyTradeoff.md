@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Distributed_Spike_Communication]]
 [[DualDrivenHybridNetwork]]
 [[ErrorAmplificationLimits]]
+[[EventDriven_Interconnect]]
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[FullyLocalOnlineSNNTraining]]

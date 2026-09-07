@@ -66,6 +66,7 @@ Auto-extracted concept from raw material compilation.
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
 [[TemporalCodingOptimization]]
+[[TemporalPrecisionScheduling]]
 [[iNEST]]
 [[神经网络]]
 

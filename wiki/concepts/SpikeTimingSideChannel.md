@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Controlled_Release_Kinetics]]
 [[Criticality]]
 [[EventDrivenMotionDeblurring]]
+[[ExtinctionDrivenMetastability]]
 [[Neuromorphic_Computing]]
 [[RateEncodedSpikingNeuralNetwork]]
 [[SDI_Bond]]

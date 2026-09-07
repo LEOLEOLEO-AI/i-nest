@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[ComponentLevelPackaging]]
 [[ControlTheoreticNetworkTopology]]
+[[ConvexNonconvexFloorplanning]]
 [[Heterogeneous_Integration]]
 [[InInterconnectMemory]]
 [[Intelligence_Emergence]]
@@ -54,7 +55,6 @@ Auto-extracted concept from raw material compilation.
 [[Spaceborne_Computing_Architecture]]
 [[TCC]]
 [[advanced packaging]]
-[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

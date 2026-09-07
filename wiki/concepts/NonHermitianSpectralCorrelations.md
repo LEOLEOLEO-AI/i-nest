@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[AmoebaInspiredLocomotion]]
 [[AsynchronousEventDrivenComputation]]
 [[Continuous_Control_Spike_Timing_Sensitivity]]
+[[CorticalWaveRouting]]
 [[Cross_Network_Representation_Transfer]]
 [[Dynamic_Expert_Routing]]
 [[EpidemicThreshold]]

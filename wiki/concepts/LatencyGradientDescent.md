@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[Organic_Neuromorphic_Transistor]]
+[[SDI_STDP]]
 [[SNN]]
 [[SOC]]
 [[SensoryGatedSpikingLoop]]

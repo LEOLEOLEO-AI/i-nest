@@ -31,9 +31,9 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[OptimalGeneralisationNearInterpolation]]
 [[SNN]]
 [[SNN_TopologyOptimization]]
-[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

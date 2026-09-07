@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicServiceComposition]]
 [[ElectromigrationReliability]]
 [[EulaminateOverrepresentation]]
+[[GPU_Bottleneck_Relief]]
 [[GeneralIntelligenceSubstrate]]
 [[GlobalDecision_LocalExecution_ControlPlane]]
 [[Heterogeneous_Integration]]
@@ -39,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Topology]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
+[[Neuromorphic_Computing]]
 [[NoC]]
 [[NoC_Chiplet_iNEST_Wafer]]
 [[P_Paradigm]]
@@ -67,7 +69,6 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Neuromorphic]]
 [[Wafer_Scale_Topology]]
 [[Wafer_Scale_Topology_Control]]
-[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

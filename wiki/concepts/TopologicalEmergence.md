@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Active_Inference_Agent]]
 [[BayesianDomainEvolution]]
 [[CST_Spatiotemporal_Complexity]]
+[[CST_SynergisticCoordination]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

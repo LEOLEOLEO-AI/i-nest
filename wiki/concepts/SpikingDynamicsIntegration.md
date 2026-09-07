@@ -25,11 +25,14 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[BigBrainCellularAxis]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
+[[Complex_System_Theory]]
 [[HodgkinHuxleyDynamics]]
+[[Memristive_STDP]]
 [[Neuromorphic_Computing]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

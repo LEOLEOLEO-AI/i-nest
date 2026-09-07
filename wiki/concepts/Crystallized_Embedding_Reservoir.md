@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[NonEquilibriumComputing]]
+[[OpportunisticRoutingRL]]
 [[RecursiveSelfReferentialArchitecture]]
 [[ReproducibleReservoirComputing]]
 [[Reservoir_Computing]]
@@ -66,6 +67,7 @@ Auto-extracted concept from raw material compilation.
 [[涌现]]
 [[神经形态脉冲大语言模型（NSLLM）]]
 [[神经形态计算]]
+[[神经网络]]
 [[类脑芯片]]
 
 ## Sources

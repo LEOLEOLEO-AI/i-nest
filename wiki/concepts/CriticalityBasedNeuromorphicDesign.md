@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Attention_Mechanism_in_SNN]]
+[[Avoided_Criticality]]
 [[BioPlausibleDisturbanceObserver]]
 [[Biologically_Plausible_Learning_Rules]]
 [[BranchingRatioControl]]

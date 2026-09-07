@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[InverseDesignOptimization]]
 [[LargeScalePhotonicIntegration]]
 [[Memristor]]
+[[Memristor_Interconnect]]
 [[Memristor_Synapse]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[MicroRouter_Embedding]]
@@ -60,7 +61,6 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
-[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

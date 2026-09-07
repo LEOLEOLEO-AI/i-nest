@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[Selection_Theorems]]
 [[Semantic_Least_Energy_Principle]]
 [[StochasticMultiAgentRL]]
+[[Stochastic_Binary_State_Update]]
 [[TopologicalAndersonChernInsulator]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]

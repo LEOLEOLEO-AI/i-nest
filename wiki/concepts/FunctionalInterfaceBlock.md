@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_STDP]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[PacketRoutingOptimization]]
 [[Reconfigurable_Interconnect]]
 [[SDI_Bond]]
 [[SDI_STDP]]

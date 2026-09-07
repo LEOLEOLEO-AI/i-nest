@@ -27,10 +27,10 @@ Auto-extracted concept from raw material compilation.
 [[ConductingPolymerDendriteMemory]]
 [[EnergyEfficientRestoration]]
 [[EventBasedBioSignalFrontEnd]]
+[[EventDriven_Edge_Perception]]
 [[Event_Driven_Architecture]]
 [[Neuromorphic_Computing]]
 [[SNN]]
-[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[CurrentInjectionSNN]]
 [[Intelligence_Emergence]]
 [[MemristiveSNN]]
+[[Meta_Residual_Architecture]]
 [[Neuromorphic_Computing]]
 [[NonKerrTravelingWaveEmergence]]
 [[Nonlinear_Gain]]

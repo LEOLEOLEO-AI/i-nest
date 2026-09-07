@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Edge_Neuromorphic_Compute]]
 [[EventBasedGestureEncoding]]
 [[EventCameraPoseInput]]
+[[EventDrivenControlLoop]]
 [[GradientFreeSNNTraining]]
 [[InNetwork_Neuromorphic]]
 [[InNetwork_Neuromorphic_CoDesign]]

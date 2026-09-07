@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[RecurrentOscillatoryComputation]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SpikeDrivenDataAssociation]]
 [[SpikingNeuralNetworkTopologyMapping]]
 [[SpikingNeuralNetworkTopology]]
 [[SpikingNeuralNetwork]]

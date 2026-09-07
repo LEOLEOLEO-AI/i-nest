@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[ElectromigrationReliability]]
 [[EulaminateOverrepresentation]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
+[[GPU_Bottleneck_Relief]]
 [[GeneralIntelligenceSubstrate]]
 [[HardwareAware_SelfOrganization]]
 [[Heterogeneous_Integration]]
@@ -68,8 +69,9 @@ Auto-extracted concept from raw material compilation.
 [[ThirdWaveAI]]
 [[TopologicalAndersonChernInsulator]]
 [[Topology_Centric_Interconnect]]
+[[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
-[[chiplet interconnect]]
+[[iNEST]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[OpenLearningEcosystem]]
 [[Plasticity_vs_Computation_Separation]]
 [[RedundancyControlledStochasticRouting]]
+[[SDI_TopologicalControl]]
 [[STDPDrivenConnectivity]]
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]

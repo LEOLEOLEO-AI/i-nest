@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspiredSequenceLearning]]
 [[BrainInspired_Chip]]
 [[ConductingPolymerDendriteMemory]]
+[[CorticalWaveRouting]]
 [[DelayCodedWorkingMemory]]
 [[DiscreteSTDP]]
 [[EventCameraTemporalEncoding]]

@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenRiskAssessment]]
 [[ExactlyFlatTopologicalBands]]
 [[FibonacciMonitoredCriticality]]
+[[FunctionalRelevanceDrivenSelfOrganization]]
 [[InNetworkAgentRewiring]]
 [[InNetworkComputing]]
 [[Intelligence_Emergence]]

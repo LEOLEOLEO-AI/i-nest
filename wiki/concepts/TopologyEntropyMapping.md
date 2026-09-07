@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Service_Reconfiguration]]
 [[AdjointWaveControl]]
 [[CircuitTopologyEncoding]]
+[[CoPackagedOptics]]
 [[Cognitive_Relapse_Decoupling]]
 [[Complex_System_Theory]]
 [[CriticalLearningRegime]]

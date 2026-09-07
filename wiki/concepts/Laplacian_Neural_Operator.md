@@ -26,6 +26,8 @@ Auto-extracted concept from raw material compilation.
 [[AllParallel_SpikeBased_Computing]]
 [[Baseline_Draft_Status]]
 [[BurstGatedRouting]]
+[[Continuous_Discrete_Compute_Gap]]
+[[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Neural_Operator]]
 [[Neuromorphic_Computing]]

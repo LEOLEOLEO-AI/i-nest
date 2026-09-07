@@ -21,6 +21,8 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3D_Vertical_Interconnect]]
+[[3d]]
+[[AdvancedPackagingInterconnect]]
 [[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[Chiplet]]
@@ -28,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect]]
 [[Chiplet_NoC_Interconnect]]
 [[Collective_Offloading]]
+[[Heterogeneous_Integration]]
 [[InInterconnectMemory]]
 [[Memory_Wall]]
 [[Network_on_Chip]]
@@ -37,7 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[SOW_BottomLayer]]
 [[Spaceborne_Computing_Architecture]]
 [[TCC]]
-[[chiplet interconnect]]
+[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[CirculateFiringNeuron]]
 [[CorticalWaveRouting]]
 [[DevelopmentalNeuromorphicAdaptation]]
 [[FPGA_Accelerated_SNN]]
@@ -33,9 +34,9 @@ Auto-extracted concept from raw material compilation.
 [[SDI_SNN_Interconnect]]
 [[SDI_iNEST_Interconnect]]
 [[SNN]]
-[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
+[[iNEST_Interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

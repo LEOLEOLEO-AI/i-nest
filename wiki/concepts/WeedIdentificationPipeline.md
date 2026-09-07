@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC]]
 [[PhotonicPackagingEfficiency]]
 [[Resilience_ByTopology]]
+[[SpatialPatternStorage]]
 [[TCC]]
 [[WeedIdentification]]
 [[iNEST]]

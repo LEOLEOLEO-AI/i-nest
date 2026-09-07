@@ -52,7 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_LLM_Inference]]
 [[Wafer_Scale_Memristor_Integration]]
 [[Wafer_Scale_Neuromorphic]]
-[[chiplet interconnect]]
+[[Wafer_Scale_Neuromorphic_Integration]]
 [[iNEST]]
 
 ## Sources

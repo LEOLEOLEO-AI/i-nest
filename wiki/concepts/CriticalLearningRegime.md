@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuromorphicRadarFrontend]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Topology_Reconfiguration]]
 [[OODA_Loop_Breaking]]
 [[Orientation_Encoding_Latent_Spaces]]
 [[Pods4Rail_Topology]]

@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[3D_Heterogeneous_Integration]]
 [[3d]]
 [[AI_Faculty_Forum_2026]]
+[[AdaptiveGraphDiffusion]]
 [[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[Allreduce_Latency_Probe]]

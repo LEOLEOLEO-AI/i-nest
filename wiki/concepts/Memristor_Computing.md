@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[CompactMicroLED_Array]]
 [[Complex_System_Theory]]
+[[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]

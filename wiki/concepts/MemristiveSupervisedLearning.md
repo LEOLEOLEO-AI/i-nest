@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[HybridResistiveMemoryCIM]]
 [[IMPLYMemristiveISA]]
 [[In_Memory_Computing]]
+[[In_Package_Neuromorphic_Integration]]
 [[Memristive_Crossbar]]
 [[Memristive_Crossbar_Array]]
 [[Memristor]]

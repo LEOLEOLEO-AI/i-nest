@@ -53,7 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologyCentricPrimitiveSystem]]
 [[WaferScaleCoDesign]]
 [[Wafer_Scale_Integration]]
-[[chiplet interconnect]]
+[[Wafer_Scale_Interconnect_Topology]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

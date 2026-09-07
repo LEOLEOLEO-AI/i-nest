@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[FeatureBonding]]
 [[FlexibleManifoldReconfiguration]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
+[[GroupInfluenceThreshold]]
 [[InNetworkPowerRouting]]
 [[InNetworkReconfiguration]]
 [[Interconnect_Routing]]

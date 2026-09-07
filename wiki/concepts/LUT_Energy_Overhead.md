@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[4H_SiC_SubstrateProcessing]]
 [[AdvancedPackagingInterconnect]]
 [[BifurcationCandidate]]
+[[CST_Complexity_Metric]]
 [[ChipletTrafficAwareScheduling]]
 [[Chiplet]]
 [[Chiplet_Based_Architecture]]

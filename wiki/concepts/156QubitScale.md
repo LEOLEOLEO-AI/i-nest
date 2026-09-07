@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[ForwardFluctuationGradient]]
 [[FractalPathEntropy]]
 [[HigherOrderSimplicialDynamics]]
+[[HodgkinHuxleyDynamics]]
 [[HoldingManeuverDelayPrediction]]
 [[Intelligence_Emergence]]
 [[Layered_Attractive_Hubbard_Model]]

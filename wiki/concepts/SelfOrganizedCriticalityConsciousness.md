@@ -57,6 +57,8 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[ShortTermMemory]]
 [[Stigmergic_Neural_Plasticity]]
+[[Synaptic_Plasticity]]
+[[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[TwoTimescaleNeuroEvolution]]
 [[Whole_Organism_Behavioral_Assay]]
 [[complex system]]

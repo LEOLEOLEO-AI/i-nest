@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN动力学]]
 [[Analog_InMemory_Processing]]
 [[ArtificialLifeTopologyEvolution]]
+[[AutonomousServiceNegotiation]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]

@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[QuarantineCostTradeoff]]
 [[SpikeTimingPreservation]]
 [[Spike_Event_Driven_Attention]]
+[[SpikingMultimodalFusion]]
 [[Spiking_Neural_Network]]
 [[StarvationSuppression]]
 [[StochasticDelayInference]]

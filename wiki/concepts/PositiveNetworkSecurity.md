@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[DataCenter_Chip_Logic_Compression]]
 [[ERI_2_0_Strategy]]
 [[EntanglementSignatures]]
+[[GeometricRegularizationLoss]]
 [[HeavyTailedWaitingTime]]
 [[HeavyTailedWaitingTimes]]
 [[HypergraphNeuralNetwork]]

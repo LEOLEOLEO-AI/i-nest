@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Brain_Inspired_Switchless_Architecture]]
 [[ByteDance_Ada_Chip]]
 [[CST计量仪]]
+[[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Complex_System_Theory]]
 [[Heterogeneous_Integration]]
 [[Memristor]]

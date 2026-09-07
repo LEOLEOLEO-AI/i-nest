@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[CellularSheaf]]
 [[ChipletTrafficAwareScheduling]]
 [[Chiplet]]
+[[Chiplet_Based_Trusted_Hardware]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]
 [[Chiplet_Topology]]
@@ -57,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[TCC]]
 [[advanced packaging]]
+[[causal emergence]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

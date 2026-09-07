@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[Biologically_Plausible_Learning_Rules]]
 [[BoundaryObject_Abstraction]]
+[[BrownianCastleInterfaces]]
 [[CST_Intelligence_Emergence]]
 [[CoDesigned_SNN]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]

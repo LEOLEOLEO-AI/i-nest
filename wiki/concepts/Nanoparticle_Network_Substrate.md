@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[ArbitraryWavefunctionConfigurability]]
 [[BCM滑动阈值]]
 [[BoseCondensateAnalogy]]
+[[CST_Theory_V27_FINAL]]
 [[CST计量仪]]
 [[CertifiedBifurcationDetection]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]

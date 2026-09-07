@@ -25,15 +25,16 @@ Auto-extracted concept from raw material compilation.
 [[CST_Spatiotemporal_Complexity_Theorem]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
 [[Complex_System_Theory]]
 [[Decoupled_Priors]]
+[[EnergyOptimizedManycoreArchitecture]]
 [[Heterogeneous_Integration]]
 [[HigherOrderTopology]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[TCC]]
 [[advanced packaging]]
-[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

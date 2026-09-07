@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Network_Architecture_Invariant]]
 [[Deep_Network_Layer_Stacking]]
 [[EulaminateOverrepresentation]]
+[[Evolutionary_Computability]]
 [[Evolutionary_Structure_Computability]]
 [[Exponential_CST_Coupling]]
 [[Free_Energy_Principle]]
@@ -84,7 +85,6 @@ Auto-extracted concept from raw material compilation.
 [[TemperatureSensitivityControl]]
 [[TemporalComplexity]]
 [[Topology_Interconnect]]
-[[chiplet interconnect]]
 [[complex system]]
 [[residual connection]]
 

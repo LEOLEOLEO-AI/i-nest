@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[DTGA]]
 [[Deep_Network_Architecture_Invariant]]
 [[DelayTolerantNetworkUAV]]
+[[Emergent_Order_Deep_Belief_Networks]]
 [[FiringRateAdaptation]]
 [[Fixed_Cost_Dominance]]
 [[Independent_EdgeAI_Player_Endgame]]

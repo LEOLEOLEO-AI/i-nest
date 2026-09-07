@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[BioPlausiblePredictiveCoding]]
 [[CellEmergence]]
 [[Complex_System_Theory]]
+[[CorticalWaveRouting]]
 [[DiscreteSTDP]]
 [[DistinguishableHelium4]]
 [[DynamicTokenSparsity]]

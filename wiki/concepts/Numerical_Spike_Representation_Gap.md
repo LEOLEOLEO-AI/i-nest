@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Activity_Energy_Tradeoff]]
 [[AdaptiveAsymmetricSurrogateGradient]]
 [[AdaptiveAsymmetricSurrogateGradients]]
+[[AdaptiveDeltaPulseFrequencyEncoding]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[TCC]]

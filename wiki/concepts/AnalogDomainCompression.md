@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Network_Layer_Stacking]]
 [[DynamicsMatchedReservoir]]
 [[Emergent_Reservoir_Topology]]
+[[Evolutionary_Computability]]
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]

@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[Event_Based_Tracking_Baseline]]
+[[FunctionalRelevanceDrivenSelfOrganization]]
 [[GeneralizationPhaseBoundary]]
 [[HumanVisionInspiredSNN]]
 [[InNetworkAgentRewiring]]

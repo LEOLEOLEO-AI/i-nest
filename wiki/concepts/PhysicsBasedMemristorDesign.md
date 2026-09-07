@@ -62,6 +62,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Neuromorphic]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
+[[iNEST_Neuromorphic_Topology]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

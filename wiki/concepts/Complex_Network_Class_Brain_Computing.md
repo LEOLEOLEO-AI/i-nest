@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[GenerativeTopologyModels]]
 [[HippocampalNeocorticalIntelligence]]
 [[Memristive_Interconnect]]
+[[Memristive_STDP]]
 [[Memristor]]
 [[Memristor_Network]]
 [[Memristor_Synapse]]

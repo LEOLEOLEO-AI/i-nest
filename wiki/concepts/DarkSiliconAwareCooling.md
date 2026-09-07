@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Security_Architecture]]
 [[Complex_System_Theory]]
 [[DarkSiliconAwarePowerGating]]
+[[FerroelectricMemoryCell]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[MicroTransferPrinting]]

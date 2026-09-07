@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[EMIB_Bridge]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[InterChipletPHYModeling]]
 [[Interconnect_Routing]]
 [[Interconnect_Topology]]
 [[Memory_Wall]]
@@ -57,7 +58,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Packaging]]
-[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

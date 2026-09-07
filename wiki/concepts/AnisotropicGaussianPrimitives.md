@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Reservoir_Topology]]
 [[Fixed_Cost_Dominance]]
 [[Gut_Brain_Immune_Network]]
+[[InNetworkNeuromorphicSimulation]]
 [[Intelligence_Emergence]]
 [[Layered_Attractive_Hubbard_Model]]
 [[Memristive_STDP]]

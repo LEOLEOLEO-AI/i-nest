@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[BrainInspired_Chip]]
 [[ConductingPolymerDendriteMemory]]
+[[CorticalWaveRouting]]
 [[DelayCodedWorkingMemory]]
 [[DiscreteSTDP]]
 [[EventCameraTemporalEncoding]]

@@ -29,7 +29,9 @@ Auto-extracted concept from raw material compilation.
 [[EventDriven_Edge_Perception]]
 [[Event_Driven_Architecture]]
 [[Event_Driven_Spike_Communication]]
+[[Event_Driven_Spiking]]
 [[Neuromorphic_Computing]]
+[[Spiking_Neural_Network]]
 [[iNEST]]
 
 ## Sources

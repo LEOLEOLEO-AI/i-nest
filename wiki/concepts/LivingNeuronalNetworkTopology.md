@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Course_Based_FPGA_Projects]]
 [[Deep_Network_Layer_Stacking]]
 [[DendriticReservoirState]]
+[[Evolutionary_Computability]]
 [[Free_Energy_Topology_Mapping]]
 [[FunctionalInterfaceBlock]]
 [[FunctionalInterfaceBlocks]]

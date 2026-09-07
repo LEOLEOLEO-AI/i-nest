@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[OptimalGeneralisationNearInterpolation]]
+[[PhotoIontronicSynapse]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SpikeBasedGradientDescent]]
 [[SpikingNeuralNetworkTopologyMapping]]

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Alignment_Tax]]
 [[AstrocyteInspiredRepair]]
 [[AutogradCompatibleSpiking]]
+[[AutomatedQuantizationFramework]]
 [[Complex_System_Theory]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

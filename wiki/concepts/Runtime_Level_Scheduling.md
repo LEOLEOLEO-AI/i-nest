@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
+[[CommunicationAwareComputeRelocation]]
 [[CrossbarArrayVLSI]]
 [[DTGA]]
 [[Decoupling_Mechanism]]
@@ -53,7 +54,6 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
-[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

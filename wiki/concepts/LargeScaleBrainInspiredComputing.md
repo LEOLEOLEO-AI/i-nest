@@ -31,13 +31,16 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Wafer_Topology]]
+[[Complex_System_Theory]]
 [[ComputationEfficientDeepLearning]]
 [[DARPA_ProjectManager_Model]]
 [[Deep_Network_Architecture_Invariant]]
+[[Defense_Industrial_Base_Reshaping]]
 [[EfficientDeepLearning]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
+[[causal emergence]]
 [[iNEST]]
 
 ## Sources

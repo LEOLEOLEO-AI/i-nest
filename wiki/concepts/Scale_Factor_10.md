@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CoexistenceRegime]]
 [[CommunicationTopologyMismatch]]
 [[Complex_System_Theory]]
+[[ConformalFieldTheoryScaling]]
 [[Network_Fractal_Dimension]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]

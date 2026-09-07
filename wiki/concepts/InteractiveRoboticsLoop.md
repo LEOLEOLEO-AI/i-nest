@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[HigherOrderStochasticProcess]]
 [[Hypergraph_Label_Noise]]
+[[Local_Structure_Aware_Self_Attention]]
 [[LowBitSpikingPruning]]
 [[MembranePotentialDynamics]]
 [[NUMA_Balancing_Interference]]

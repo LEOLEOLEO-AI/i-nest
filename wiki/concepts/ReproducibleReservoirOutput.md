@@ -68,10 +68,10 @@ Auto-extracted concept from raw material compilation.
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
 [[TemporalComplexity]]
+[[ThroughSiliconVia_TSV_ThermalPath]]
 [[TopologyProgramming]]
 [[Topology_Centric_Interconnect]]
 [[advanced packaging]]
-[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

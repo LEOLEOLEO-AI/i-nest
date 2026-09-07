@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 项目
+tags: [tcc, sdi-bond, architecture, network, criticality, green-ai, transformer, research, semiconductor, energy, physics, llm, chip, emergence, design, fpga, hardware, first-principles, ai, infrastructure, computing, paper]
+summary: "拓扑中心计算范式项目立项答辩，提出网络即计算，实现训推一体。"
+quality: high
+processed: 2026-09-08 06:47
+---
+---
 title: "拓扑中心计算范式项目立项答辩"
 tags:
   - tcc

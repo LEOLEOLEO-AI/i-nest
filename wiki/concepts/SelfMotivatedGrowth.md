@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_FullSpectrum_Strategy]]
 [[BigBrainCellularAxis]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
+[[Complexity_Emergence_Engineering]]
 [[Criticality]]
 [[DataDrivenCellularAxis]]
 [[Dynamic_Expert_Fusion]]

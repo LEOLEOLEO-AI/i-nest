@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 资料
+tags: [semiconductor, chip, architecture, neuromorphic, brain-inspired, memristor, fpga, hardware, computing, design, infrastructure, energy, green-ai, network, neural, first-principles, physics, criticality, emergence, neuroscience]
+summary: "计算微系统专著章节提纲，覆盖架构、器件、设计及应用。"
+quality: medium
+processed: 2026-09-08 06:47
+---
+---
 title: "微系统丛书任务"
 tags:
   - semiconductor

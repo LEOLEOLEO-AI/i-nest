@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[LargeScalePhotonicIntegration]]
 [[Memristive_Topology]]
 [[Memristor]]
+[[Memristor_Interconnect]]
 [[Memristor_Synapse]]
 [[Memristor_Topology]]
 [[MicroRouter_Embedding]]
@@ -66,7 +67,6 @@ Auto-extracted concept from raw material compilation.
 [[WaferScaleChipletIntegration]]
 [[WaferScaleTopologyInterconnect]]
 [[Wafer_Scale_Integration]]
-[[chiplet interconnect]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

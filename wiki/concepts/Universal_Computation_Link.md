@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveArchitecture]]
 [[AgenticServiceOrchestration]]
 [[Ant_Swarm_Functional_Control]]
+[[BarrierConditionedTrajectory]]
 [[Cognitive_Relapse_Decoupling]]
 [[ControlDrivenCriticalFluctuations]]
 [[Critical_Region_Extension]]
@@ -50,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Stigmergic_RL]]
 [[TCC]]
 [[UniversalComputationAtCriticality]]
+[[UniversalComputation]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

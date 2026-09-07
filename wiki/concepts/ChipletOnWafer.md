@@ -37,8 +37,8 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[Packaging_CoDesign]]
 [[TCC]]
+[[WaferScaleTopologyCentricComputing]]
 [[Wafer_Scale_Integration]]
-[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[BioPlausiblePredictiveCoding]]
 [[BurstGatedRouting]]
+[[Continuous_Discrete_Compute_Gap]]
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[EventDrivenRiskAssessment]]
 [[Event_Driven_Architecture]]

@@ -58,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[SelfOrganization]]
 [[Spiking_Neural_Network]]
+[[Swarm_Adaptive_Topology]]
 [[TCC]]
 [[TCC_Neuromorphic_Integration]]
 [[ThermalAvalanche]]

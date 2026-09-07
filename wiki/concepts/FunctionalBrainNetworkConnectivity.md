@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Interbrain_Geometry]]
 [[Interbrain_Network_Geometry]]
+[[IntracorticalNeuralDecoding]]
 [[Network_Topology_Design]]
 [[Neural_Manifold_Embedding]]
 [[NeuromorphicHardware]]

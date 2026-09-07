@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Photopolymerization_NoC]]
 [[SDI_Bond]]
 [[SparseTemporalEncoding]]
+[[WaferScale_System]]
 [[iNEST]]
 
 ## Sources

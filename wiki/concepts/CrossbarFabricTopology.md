@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[EnsembleCreditAssignment]]
 [[Intelligence_Emergence]]
+[[LLMDrivenPathSelection]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[PhotonicSynapticPlasticity]]

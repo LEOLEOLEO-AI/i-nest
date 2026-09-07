@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[BCM滑动阈值]]
 [[Bioavailability_Enhancement]]
+[[Bipartite_Interconnect_Fabric]]
 [[CST_Coordinated_Spatiotemporal_Complexity]]
 [[CST_SynergisticCoordination]]
 [[Chiplet]]

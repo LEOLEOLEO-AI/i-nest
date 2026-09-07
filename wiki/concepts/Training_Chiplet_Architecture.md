@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]
 [[Chiplet_Stacking]]
+[[ChiralSymmetryClasses]]
 [[Heterogeneous_Integration]]
 [[TCC]]
 [[advanced packaging]]

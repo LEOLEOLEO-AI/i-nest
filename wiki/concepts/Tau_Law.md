@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Application_Scenario_Reconstruction]]
 [[AdvancedPackagingInterconnect]]
 [[AnalogDomainCompression]]
+[[BCU_Operation]]
 [[CSI_Temporal_Encoding]]
 [[ChipletSignalIntegrity]]
 [[Chiplet]]

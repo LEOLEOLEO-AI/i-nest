@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AddressRedundancyElimination]]
 [[CriticalStateInformationMaximization]]
 [[CrossLayer_SignalRouting]]
+[[DelayCodedWorkingMemory]]
 [[DirectTrainingSNN]]
 [[ElectronicBurstingNeuron]]
 [[Emergent_Intelligence]]

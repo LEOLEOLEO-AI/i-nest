@@ -20,14 +20,17 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Bond_Operation_Algebra]]
 [[Chemical_Bond_Operation_Algebra]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_NoC_Fabric]]
+[[Critical_Region_Extension]]
 [[Defense_Industrial_Base_Reshaping]]
 [[EventDrivenAsync]]
 [[EventDrivenAsynchronousRouting]]
 [[GeneralIntelligenceSubstrate]]
+[[Heterogeneous_Integration]]
 [[InSitu_Adjoint_Wave_Control]]
 [[Inference_Stage_Decomposition]]
 [[Interconnect_Routing]]

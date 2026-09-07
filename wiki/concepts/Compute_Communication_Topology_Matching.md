@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[CommunicationAsComputation]]
 [[CommunicationAwareComputeRelocation]]
 [[Computation_Access_Routing]]
+[[Compute_In_Memory_Neuromorphic]]
 [[CrossMaterial_Integration]]
 [[Deep_Thermalisation]]
 [[EntanglementAwareRouting]]

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Topology]]
 [[Chiplet_Topology_Interconnect]]
+[[CongestionAwareNoCPlacement]]
 [[Heterogeneous_Chiplet_Integration]]
 [[Heterogeneous_Integration]]
 [[Intelligent_Computing_Infrastructure]]
@@ -59,7 +60,6 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Topology]]
 [[Wafer_Scale_Topology_Control]]
-[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

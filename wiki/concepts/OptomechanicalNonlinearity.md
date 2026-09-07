@@ -66,14 +66,15 @@ Auto-extracted concept from raw material compilation.
 [[SuperparamagneticSwitchingRate]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[TemperatureSensitivityControl]]
-[[chiplet interconnect]]
 [[complex system]]
 [[iNEST]]
 [[iNEST_Wafer]]
 [[智能涌现]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

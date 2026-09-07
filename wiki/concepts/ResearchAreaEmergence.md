@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[DendriticReservoirState]]
 [[DualTopologyProductSplit]]
 [[ERI_2_0_Strategy]]
+[[EvanescentFieldTrapping]]
 [[Fading_Memory_Property]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]

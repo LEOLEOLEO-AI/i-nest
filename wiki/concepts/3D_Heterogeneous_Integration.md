@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Stacking]]
 [[CoPackagedOptics]]
 [[Complex_System_Theory]]
+[[Compute_In_Memory_Neuromorphic]]
 [[Deep_Network_Architecture_Invariant]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]

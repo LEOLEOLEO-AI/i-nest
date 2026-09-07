@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[CriticalInertiaEstimation]]
 [[CrossLinkInterferenceMitigation]]
+[[DarkSiliconAwarePowerGating]]
 [[ERI_2_0_Framework]]
 [[EdgeAI_Market_Consolidation_Driver]]
 [[EpoxyMoldingCompoundFlow]]

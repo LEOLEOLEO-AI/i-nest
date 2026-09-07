@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[ApproximationFidelityTradeoff]]
 [[Attention_Residuals]]
 [[BackpropagationFreeLearning]]
+[[CST计量仪]]
 [[Collective_Offloading]]
 [[Complex_System_Theory]]
 [[CorticalTypeDiversity]]

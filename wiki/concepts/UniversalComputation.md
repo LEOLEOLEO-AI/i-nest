@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicSafetyBoundary]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[QuantumSpikingNeuron]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDSoW]]
 [[SDSoW_Architecture]]

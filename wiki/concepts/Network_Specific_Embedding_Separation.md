@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[NeurovascularUnitEngineering]]
 [[NeurovascularUnit]]
+[[QuarantineStrategyOptimization]]
 [[RecursiveSelfReferentialArchitecture]]
 [[ScalableNeuromorphicTopology]]
 [[Spike_Encoding_of_fMRI]]

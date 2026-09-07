@@ -40,15 +40,16 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuromorphicHandwritingRecognition]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[Neuromorphic_Speech_Tokenizer]]
 [[Neuromorphic_Topology]]
 [[Sequence_First_Processing]]
 [[SparseCodingEfficiency]]
 [[Spike_Event_Driven_Attention]]
-[[Spiking neural network]]
 [[SpikingNeuralTransformer]]
 [[Spiking_Neural_Network]]
 [[Spinal_CPG_Coordinated_Control]]
+[[SynapticConsolidation]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

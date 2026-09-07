@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AnisotropicGaussianPrimitives]]
 [[AnomalousSpinTransport]]
+[[AstrocyteInspiredRepair]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BigBrainCellularAxis]]
 [[BrownianCastleInterface]]
@@ -52,7 +53,6 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[Spike_Encoding_of_fMRI]]
-[[Spiking neural network]]
 [[SpikingNeuralNetwork]]
 [[Spiking_Neural_Network]]
 [[Spiking_neural_network_dynamics]]

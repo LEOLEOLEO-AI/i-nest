@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[3D_Heterogeneous_Integration]]
 [[3d]]
 [[AI_Driven_Power_Density_Scaling]]
+[[AdaptiveGraphDiffusion]]
 [[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[Allreduce_Latency_Probe]]

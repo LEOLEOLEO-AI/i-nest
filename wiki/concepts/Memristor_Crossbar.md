@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[InSensorMemoryComputing]]
 [[In_Memory_Computing]]
 [[In_Package_Neuromorphic_Integration]]
+[[Memristive_Interconnect]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[MetaFAIR_ArchitectureDiscovery]]

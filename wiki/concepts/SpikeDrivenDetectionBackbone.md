@@ -47,7 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[ST_SNN]]
 [[Spike_Encoding_of_fMRI]]
-[[Spiking neural network]]
+[[SpikingNeuronOptimization]]
 [[Spiking_Neural_Network]]
 [[Supervised_Hebbian_Learning]]
 [[Synaptic_Plasticity]]

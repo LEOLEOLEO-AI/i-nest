@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[SpectralSupportAnalysis]]
 [[Spiking_Neural_Network]]
+[[TriAxiomCalibration]]
 [[iNEST]]
 
 ## Sources

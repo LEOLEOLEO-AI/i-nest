@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[HybridSearchPartitioning]]
 [[Intelligence_Emergence]]
 [[IntervalAnalysis]]
+[[InverseDesignedPhotonicAccelerator]]
 [[MetricComputationAuthenticity]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]

@@ -31,11 +31,13 @@ Auto-extracted concept from raw material compilation.
 [[Defense_Industrial_Base_Reshaping]]
 [[EventDrivenAsync]]
 [[EventDrivenAsynchronousRouting]]
+[[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Multi_Function_Spaceborne_Processor]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC]]
+[[Programmable_Interconnect_Capacitance]]
 [[TCC]]
 
 ## Sources

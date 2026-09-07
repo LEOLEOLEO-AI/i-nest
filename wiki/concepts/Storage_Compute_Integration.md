@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Alignment_Tax]]
 [[AndersonTransition]]
+[[Bipartite_Interconnect]]
 [[Bipartite_Interconnect_Design]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -36,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[NonHermitian_Topology]]
+[[Package_Level_Topology]]
 [[TCC]]
 [[iNEST]]
 

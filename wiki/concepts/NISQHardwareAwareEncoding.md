@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[DiscreteScaleInvariance]]
 [[DivergentHigherAreaRanking]]
 [[Evolutionary_Reservoir_Adaptation]]
+[[FitnessGuidedTopologySearch]]
 [[HardwareAware_DesignSpace]]
 [[Network_Topology_Design]]
 [[NonlinearDynamicsInMetamaterials]]

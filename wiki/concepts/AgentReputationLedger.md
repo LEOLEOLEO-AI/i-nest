@@ -46,10 +46,10 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[NoC]]
 [[NoC_Interconnect]]
+[[SerDes_Bandwidth_Convergence]]
 [[TCC]]
 [[TopologyCentricPrimitiveSet]]
 [[advanced packaging]]
-[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

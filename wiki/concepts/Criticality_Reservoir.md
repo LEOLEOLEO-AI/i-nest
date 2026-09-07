@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[MeanFieldSpinGlass]]
 [[Neuromorphic_Computing]]
+[[Random_Parameter_Substitution]]
 [[Reservoir_Computing]]
 [[STDP_Plasticity]]
 [[Self_Organized_Criticality]]

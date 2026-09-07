@@ -31,9 +31,11 @@ Auto-extracted concept from raw material compilation.
 [[OrganoidOnChipInterface]]
 [[ReEntrantMultifractalization]]
 [[SDI_Bond]]
+[[SDI_TopologyWaferIntegration]]
 [[SDI_iNEST_CoPackaging]]
 [[WaferScaleMonolithicIntegration]]
 [[WaferScale_System]]
+[[Wafer_Scale_Integration]]
 [[Wafer_Scale_Packaging]]
 [[iNEST]]
 

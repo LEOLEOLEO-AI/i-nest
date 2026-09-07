@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Biomanufacturing_Control_Loop]]
 [[BrainBodyResonance]]
 [[CascadedAdaptiveCombiners]]
+[[ClosedLoopNeuromorphicControl]]
 [[FlexibilityThreshold]]
 [[Neuromorphic_Computing]]
 [[Synaptic_Plasticity]]

@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[OpenSource_Neuromorphic_Framework]]
 [[PPT]]
+[[QDS_SNN]]
 [[ReservoirDynamics]]
 [[Reservoir_Computing]]
 [[SNN]]

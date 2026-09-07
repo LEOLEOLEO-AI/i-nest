@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[DelayCascadePrediction]]
 [[Differential_Encoding]]
+[[Dual_Threshold_Convergence]]
 [[ImaginaryGaugePhaseImprint]]
 [[Intelligence_Emergence]]
 [[KV_Cache_To_BoundaryObject]]

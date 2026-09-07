@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[FederatedServiceGraph]]
+[[HotspotEmergenceModeling]]
 [[InNetwork_Learning_Interface]]
 [[Intelligence_Emergence]]
 [[NCA_Reservoir]]

@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN_Config_Sensitivity]]
 [[Self_Organized_Criticality]]
 [[SpikePacketCompression]]
+[[Spike_Energy_Floor]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

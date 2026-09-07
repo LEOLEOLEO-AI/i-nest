@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[LargeDeviationTopologicalOrder]]
 [[Memristive_Topology]]
+[[Meta_Residual_Learning]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Nonlinear_Gain]]

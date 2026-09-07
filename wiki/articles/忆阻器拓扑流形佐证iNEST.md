@@ -16,6 +16,7 @@ SDI, SNN, TCC, iNEST, 互连, 忆阻, 拓扑, 晶圆
 
 ## Related Concepts
 
+[[Memristor]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]

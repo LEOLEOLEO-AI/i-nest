@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_NeuromorphicMapping]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Interconnect_Routing]]
+[[InterconnectionStrengthEncoding]]
 [[MultiFPGAScaling]]
 [[Network_Topology_Design]]
 [[NeuromorphicRadarFrontend]]

@@ -46,6 +46,8 @@ Auto-extracted concept from raw material compilation.
 [[NetworkArchitectureSearch]]
 [[Network_Topology_Design]]
 [[NeuromorphicRadarFrontend]]
+[[Neuromorphic_Computing]]
+[[Neuromorphic_Topology_Reconfiguration]]
 [[Quantum_Criticality]]
 [[SelfOrganization]]
 [[Self_Organized_Criticality]]

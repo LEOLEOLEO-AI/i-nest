@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[EntanglementAwareRouting]]
 [[Express_Link_Virtualization]]
 [[FPGA_Reconfigurability]]
+[[FatalityDrivenRewiring]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Network_on_Chip]]

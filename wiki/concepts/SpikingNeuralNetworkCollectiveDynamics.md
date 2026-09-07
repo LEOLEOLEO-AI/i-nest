@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_iNEST]]
 [[Scale_Dependent_Coherence]]
 [[SearchGatingPolicy]]
+[[SpeechToSpike_Encoding]]
 [[SpikeEncoding]]
 [[Spike_Encoding_of_fMRI]]
 [[SpikingNeuralNetwork]]

@@ -54,6 +54,8 @@ Auto-extracted concept from raw material compilation.
 [[TopologyConditionedLearning]]
 [[Topology_Centric_Computing]]
 [[Topology_Centric_Interconnect]]
+[[Von_Neumann_Complexity_Threshold_Conjecture]]
+[[causal emergence]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

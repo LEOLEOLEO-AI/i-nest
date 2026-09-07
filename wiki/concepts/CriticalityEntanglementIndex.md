@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[SubsystemInformationCapacity]]
 [[SuperparamagneticSwitchingRate]]
+[[Whole_Organism_Behavioral_Assay]]
 [[iNEST]]
 
 ## Sources

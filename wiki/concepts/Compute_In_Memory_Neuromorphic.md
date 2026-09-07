@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[Signal_Folding]]
 [[TCC]]
 [[TopologyAwareStateMigration]]
+[[Topology_Manifold_Computing]]
 [[advanced packaging]]
 [[iNEST]]
 [[涌现]]

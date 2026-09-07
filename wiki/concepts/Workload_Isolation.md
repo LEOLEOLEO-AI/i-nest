@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenInference]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[Fixed_Term_Project_Structure]]
+[[FunctionalRelevanceDrivenSelfOrganization]]
 [[Interconnect_Routing]]
 [[LowRankPerturbation]]
 [[Network_Topology_Design]]

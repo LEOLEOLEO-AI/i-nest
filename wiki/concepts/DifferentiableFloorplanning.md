@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[InterconnectDrivenCostFunction]]
 [[Interconnect_Routing]]
+[[Logic_Folding]]
 [[MeasurementInducedRouting]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]

@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[SelfOrganization]]
 [[Self_Organized_Criticality]]
 [[SpikeDrivenDetectionBackbone]]
+[[SpikeEncodingLatency]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 理论
+tags: [memristor, topological-manifold, iNEST, TCC, neuroscience, criticality, self-organization, hardware]
+summary: "忆阻器拓扑流形与神经科学证据共同佐证iNEST物理演化范式。"
+quality: high
+processed: 2026-09-08 06:47
+---
+---
 title: "忆阻器拓扑流形佐证iNEST"
 tags:
   - architecture

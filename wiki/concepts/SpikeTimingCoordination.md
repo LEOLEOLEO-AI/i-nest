@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[LocalQuantumLearningRule]]
 [[Loihi2_SpikeEncoding]]
 [[Loihi]]
+[[MemoryDrivenInterconnect]]
 [[Neuromorphic_Computing]]
 [[OcclusionHandlingStrategy]]
 [[ResistiveMemoryWriteBudgeting]]

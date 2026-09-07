@@ -1,12 +1,12 @@
-# 研究洞察 — 2026-09-06
+# 研究洞察 — 2026-09-08
 
 > 入库 2 篇 | 基于题目与摘要的分析 Top 2 篇
 
 ## 文献方法论启示
 
-- **A Reconfigurable Hybrid Convolutional-Fully Connected Neuromorphic Core for Biom**: 建议阅读全文,评估方法论借鉴价值
+- **Large Language Models with At Most One Spike per Neuron**: 建议阅读全文,评估方法论借鉴价值
 
-- **High-Throughput Computational Discovery of Inverted Resistive Switching in Two-D**: 建议阅读全文,评估方法论借鉴价值
+- **Quantum-State Texture Dynamics: Theory and Experiment**: 建议阅读全文,评估方法论借鉴价值
 
 ## 创新迭代建议
 
@@ -15,4 +15,4 @@
 3. 关注 Nature Communications 等高分论文的实验验证范式，对齐自身论文论证强度
 4. 将可借鉴方法写入「研发看板 → 灵感」板块，驱动路线图迭代
 
-*生成于 2026-09-06 23:34*
+*生成于 2026-09-08 06:56*

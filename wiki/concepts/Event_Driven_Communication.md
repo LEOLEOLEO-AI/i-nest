@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[RecurrentOscillatoryComputation]]
 [[ScalableNeuromorphicTopology]]
 [[SelfOrganizedOscillatoryLearning]]
+[[SpikeDrivenDataAssociation]]
 [[Spike_Encoding_of_fMRI]]
 [[SpikingNeuralNetworkTopologyMapping]]
 [[SpikingNeuralNetworkTopology]]

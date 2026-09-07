@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Continuous_Control_Spike_Timing_Sensitivity]]
 [[CorticalWaveRouting]]
 [[DataDrivenCellularAxis]]
+[[Hardware_Accelerated_SNN]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Memristor]]

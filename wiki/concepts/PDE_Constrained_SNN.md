@@ -28,11 +28,11 @@ Auto-extracted concept from raw material compilation.
 [[ANN_SNN_ConversionError]]
 [[ANN_to_SNN_Conversion_Error_Amplification]]
 [[AcceleratorReconfigurationOverhead]]
+[[CMOS_Memristor_Crossbar]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[PPT]]
 [[SNN]]
-[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

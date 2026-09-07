@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Decoupled_Prior_States]]
 [[Decoupled_Priors]]
 [[Deep_Network_Architecture_Invariant]]
+[[Deep_Network_Layer_Stacking]]
 [[EulaminateOverrepresentation]]
 [[Exponential_CST_Coupling]]
 [[FlagOS_2_0]]
@@ -80,7 +81,6 @@ Auto-extracted concept from raw material compilation.
 [[Topological_Criticality]]
 [[TopologyProgramming]]
 [[Topology_Interconnect]]
-[[chiplet interconnect]]
 [[complex system]]
 [[residual connection]]
 

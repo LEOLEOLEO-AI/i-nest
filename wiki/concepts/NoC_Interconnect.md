@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC]]
 [[NoC_SDI]]
 [[NoC_SDI_Topology]]
+[[OpticalNetworkOnChip]]
 [[SDI_Bond]]
 [[SDI_NoC_Integration]]
 [[SDI_Topology]]

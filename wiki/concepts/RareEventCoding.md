@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[ResonantFrequencyAdaptationRule]]
 [[ResonateAndFireEncoding]]
 [[SparseTemporalEncoding]]
+[[SpikingNeuralNetworkTopologyMapping]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

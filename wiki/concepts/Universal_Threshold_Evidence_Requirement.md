@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[Controlled_Release_Kinetics]]
+[[Dendritic_In_Context_Learning]]
 [[DiscreteSTDPLearning]]
 [[DiscreteSTDP]]
 [[ElectronicWarfareNeuromorphic]]

@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Contested_Priors_Mechanism]]
 [[Ga2O3_Optoelectronic_Memristor]]
+[[HighTemporalResolutionSensing]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]

@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[CoPackagedOptics]]
 [[Combinatorial_Optimization_Readout]]
+[[CommunicationHeterogeneity]]
 [[ComplexTopologicalStructures]]
 [[Complex_System_Theory]]
 [[ComputationEfficientDeepLearning]]

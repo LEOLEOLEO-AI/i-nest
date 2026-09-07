@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[CausalIntegrationPhi]]
 [[Causal_State_Encoding]]
 [[CentralityAsStateVariable]]
+[[CommunicationHeterogeneity]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

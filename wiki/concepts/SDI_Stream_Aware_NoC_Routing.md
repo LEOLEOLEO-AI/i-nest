@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]
 [[Chiplet_Integration_Route]]
+[[Chiplet_Interconnect]]
 [[ConsciousnessEngineeringLoop]]
 [[Environmental_Capability_Context]]
 [[FatalityDrivenRewiring]]
@@ -60,7 +61,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
-[[chiplet interconnect]]
+[[Wafer_Scale_Neuromorphic]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveSpeechToSpikeEncoding]]
 [[AnisotropicGaussianPrimitives]]
 [[AsynchronousEventDrivenComputation]]
+[[Avoided_Criticality]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BioInspiredSequenceLearning]]
 [[BrainInspired_Chip]]

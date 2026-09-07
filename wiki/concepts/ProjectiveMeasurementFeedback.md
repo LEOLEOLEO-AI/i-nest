@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[DefectDynamics]]
 [[Dendritic_In_Context_Learning]]
+[[Dynamic_Expert_Routing]]
 [[In_Context_Learning]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]

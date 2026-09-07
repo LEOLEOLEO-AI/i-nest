@@ -34,8 +34,10 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[SNN]]
 [[Spiking_Neural_Network]]
+[[TCC]]
 [[TCC与INEST：2026全局论文与专利战略规划清单]]
 [[iNEST]]
+[[战略报告提纲：物理复杂网络智能涌现——颠覆现有算力范式的新路线]]
 [[神经网络]]
 
 ## Sources

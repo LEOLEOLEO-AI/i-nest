@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_Theory_V27_FINAL]]
 [[CST计量仪]]
 [[CavityMethodAnalysis]]
+[[ChipletRoutingFabric]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

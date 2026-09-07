@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveFunctionalTopology]]
 [[Additive_Manufacturing_Supply_Chain]]
 [[AdjointWaveControl]]
+[[AmorphousSolidPlasticity]]
 [[Analog_InMemory_Processing]]
 [[Cognitive_Relapse_Decoupling]]
 [[ControlTheoreticTopology]]

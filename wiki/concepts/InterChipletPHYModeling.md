@@ -67,7 +67,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[Topological_State_Encoding]]
-[[chiplet interconnect]]
+[[Topology_Aware_NoC_Routing]]
 [[complex system]]
 [[iNEST]]
 [[智能涌现]]

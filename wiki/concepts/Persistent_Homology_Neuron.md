@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicSpikingTopology]]
 [[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
+[[NonlinearDynamicalSampling]]
 [[SNN]]
 [[SNN_NeuroprostheticPipeline]]
 [[Self_Organized_Criticality]]

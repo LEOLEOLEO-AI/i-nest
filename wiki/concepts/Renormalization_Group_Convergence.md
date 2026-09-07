@@ -86,7 +86,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologyFragility]]
 [[TopologyProgramming]]
 [[UniversalIntelligence_Emergence]]
-[[chiplet interconnect]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[complex system]]
 [[iNEST]]
 [[residual connection]]

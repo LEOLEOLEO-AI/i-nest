@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Interconnect]]
 [[P_Paradigm]]
 [[Package_Level_Interconnect]]
+[[Photonic_Chiplet_Interconnect]]
 [[SDI_Bond]]
 [[SDI_Chiplet]]
 [[SDI_Topology]]

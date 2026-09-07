@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[AnisotropicGaussianPrimitives]]
 [[FlexibilityThreshold]]
 [[Neuromorphic_Computing]]
+[[ProjectiveMeasurementRouting]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[CellEmergence]]
 [[Collective_Offloading]]
 [[Complex_System_Theory]]
+[[Compute_In_Memory_Neuromorphic]]
 [[DisorderedNetworkInterconnect]]
 [[EdgeIoTEnergyAwareness]]
 [[EventDrivenRiskAssessment]]

@@ -40,6 +40,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[ArchitecturalGrounding]]
 [[Architectural_Conditioning]]
 [[ArmLocomotorCoordination]]
+[[AthermalRandomFieldBlumeCapel]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityInducedTopology]]
 [[Criticality]]
 [[Criticality_Metric_Extraction]]
+[[DARPA_ProjectManager_Model]]
 [[DelayTolerantNetworkUAV]]
 [[ExactlyFlatTopologicalBands]]
 [[Generative_Graph_Models]]

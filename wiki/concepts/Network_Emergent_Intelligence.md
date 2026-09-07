@@ -26,6 +26,8 @@ Auto-extracted concept from raw material compilation.
 [[BoundaryObject_Abstraction]]
 [[ComputationEfficientDeepLearning]]
 [[Deep_Network_Architecture_Invariant]]
+[[Defense_Industrial_Base_Reshaping]]
+[[EfficientDeepLearning]]
 [[Emergent_Intelligence]]
 [[Intelligence_Emergence]]
 [[Neuromorphic_Computing]]

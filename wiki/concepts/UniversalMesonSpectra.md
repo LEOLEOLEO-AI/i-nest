@@ -45,9 +45,11 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[MesonSpectra]]
+[[Monitored_Quantum_Circuits]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Quantum_Criticality]]
+[[SelfOrganization]]
 [[Self_Organized_Criticality]]
 
 ## Sources

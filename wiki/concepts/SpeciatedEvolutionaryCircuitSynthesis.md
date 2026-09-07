@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[CircuitSynthesis]]
 [[Complex_System_Theory]]
 [[Critical_Exponent_Extraction_Method]]
+[[DelayParameterSpaceDecomposition]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]

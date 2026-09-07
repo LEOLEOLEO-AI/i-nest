@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Intelligence_Principle]]
 [[Adaptive_Service_Orchestration]]
 [[Allreduce_Latency_Probe]]
+[[AndersonTransition]]
 [[ArbitraryWavefunctionConfigurability]]
 [[Architectural_Conditioning]]
 [[Bipartite_Interconnect]]

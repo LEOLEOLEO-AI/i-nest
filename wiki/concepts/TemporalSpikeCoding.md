@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Computation]]
 [[ImpactFallDetection]]
 [[Oncological_Digital_Twin]]
+[[RateEncodedSpikingNeuralNetwork]]
 [[SNN]]
 [[STDP_Plasticity]]
 [[Self_Organized_Criticality]]

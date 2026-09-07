@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[CXL_Deployment_Transition]]
 [[ChannelCountScaling]]
 [[ChipletOpticalIO]]
+[[ChipletRoutingFabric]]
 [[ChipletTopologyAwareness]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Comparative_Formulation_Analysis]]
 [[Course_Based_FPGA_Projects]]
 [[Criticality]]
+[[Deep_Network_Layer_Stacking]]
 [[DendriticReservoirState]]
 [[DynamicNeuralManifolds]]
 [[Emergent_Intelligence]]

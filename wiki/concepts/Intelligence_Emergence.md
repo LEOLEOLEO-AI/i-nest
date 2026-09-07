@@ -66,6 +66,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]
 [[TCC]]
+[[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[TemporalComplexity]]
 [[TopologyFragility]]
 [[UniversalIntelligence_Emergence]]
@@ -75,6 +76,7 @@ Auto-extracted concept from raw material compilation.
 [[三原理协同_FEP_STDP_最小作用量]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

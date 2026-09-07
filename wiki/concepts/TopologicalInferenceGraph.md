@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[Collective_Offloading]]
 [[Complex_System_Theory]]
 [[ComponentLevelPackaging]]
+[[ControlTheoreticNetworkTopology]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[Heterogeneous_Integration]]

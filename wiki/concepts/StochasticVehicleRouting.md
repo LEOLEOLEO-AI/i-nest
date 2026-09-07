@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_To_Information_Conversion]]
 [[ApproximationFidelityTradeoff]]
 [[ArtificialProprioception]]
+[[Bipartite_Interconnect]]
 [[Complex_System_Theory]]
 [[Critical_Region_Extension]]
 [[DelayTolerantNetworkUAV]]

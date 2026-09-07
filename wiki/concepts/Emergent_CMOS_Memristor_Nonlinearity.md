@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[CrashHotspotForecasting]]
 [[CriticalFluctuationReservoir]]
 [[HardwareAware_DesignSpace]]
+[[HighTemporalResolutionSensing]]
 [[Intelligence_Emergence]]
 [[Memristor]]
 [[Memristor_Synapse]]

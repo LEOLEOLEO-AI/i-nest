@@ -36,7 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[SpikeRoutingFabric]]
 [[SpikeTimingPreservation]]
-[[Spiking neural network]]
+[[Spike_Event_Driven_Attention]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]

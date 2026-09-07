@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenMotionDeblurring]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[FPGA_Neuromorphic_Acceleration]]
+[[FunctionalRelevanceDrivenSelfOrganization]]
 [[GradientBasedLearningLocalization]]
 [[Hardware_Accelerated_SNN]]
 [[Intelligence_Emergence]]

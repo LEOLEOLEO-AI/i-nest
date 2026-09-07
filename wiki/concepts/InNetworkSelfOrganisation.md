@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AllOpticalHebbianLearning]]
 [[ArmLocomotorCoordination]]
 [[AsymmetricCoupling]]
+[[BandedConnectivityModel]]
 [[BioInspiredSpikeEncoding]]
 [[Biodefense_Threat_Detection_Network]]
 [[Chiplet]]

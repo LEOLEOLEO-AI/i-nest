@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[HeavyTailedWaitingTime]]
 [[HeavyTailedWaitingTimes]]
 [[HigherOrderPublicGoodsGame]]
+[[InNetwork_Service_Composition]]
 [[Intelligence_Emergence]]
 [[MagicStateDistillationOverheadModel]]
 [[Network_Topology_Design]]

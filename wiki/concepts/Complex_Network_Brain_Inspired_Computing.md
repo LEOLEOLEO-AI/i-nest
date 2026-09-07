@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[CrossPopulationCen]]
 [[DevelopmentalNeuromorphicAdaptation]]
+[[Distributed_Spike_Communication]]
 [[DynamicReconfigurationForFaultTolerance]]
 [[DynamicTopologyMapping]]
 [[DynamicTopology]]

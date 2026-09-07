@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[EnzymeCatalyticDegradation]]
 [[Epithelial_Barrier_Integrity]]
 [[Ethical_AI_Constraints]]
+[[Evolutionary_Computability]]
 [[Expert_Review_Arbitration]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]

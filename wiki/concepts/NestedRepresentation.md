@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
 [[EventBasedAnalogFrontEnd]]
+[[EventDrivenAttentionMechanism]]
 [[Event_Driven_Architecture]]
 [[FPGA_Neuromorphic_Architectures]]
 [[HippocampalNeocorticalIntelligence]]

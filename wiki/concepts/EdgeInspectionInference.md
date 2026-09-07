@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[End_Side_Neuromorphic_Deployment]]
 [[EventDrivenAttentionMechanism]]
 [[EventDrivenTrajectoryEncoding]]
+[[FPGASNNMemoryOptimization]]
 [[FerroelectricSynapticArray]]
 [[Ferroelectric_Devices]]
 [[Heterogeneous_Integration]]

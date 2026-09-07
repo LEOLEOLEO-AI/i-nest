@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[CircadianGateModulation]]
 [[CombinedImportanceScoring]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
+[[Complexity_Emergence_Engineering]]
 [[Course_Based_FPGA_Projects]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence]]

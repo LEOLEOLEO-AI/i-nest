@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[JointUAVFlightAndRouting]]
 [[MultiSourceTaskonomy]]
 [[Network_Topology_Design]]
+[[Personalised_Strategy_Optimisation]]
 [[SelfOrganization]]
 [[Self_Organized_Criticality]]
 [[TCC]]

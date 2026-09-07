@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[AmplifyingNetworkTopology]]
 [[AnalogStateRetention]]
 [[Antiferromagnetic_Topological_Anderson_Insulator]]
+[[ArchitecturalIllusion]]
 [[Associative_Memory_Unification]]
 [[Associative_Retrieval]]
 [[AttractorNeuralNetwork]]

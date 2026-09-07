@@ -26,6 +26,8 @@ Auto-extracted concept from raw material compilation.
 [[BoundaryObject_Abstraction]]
 [[Combinatorial_Optimization_Readout]]
 [[ComputationEfficientDeepLearning]]
+[[DARPA_ProjectManager_Model]]
+[[EfficientDeepLearning]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]

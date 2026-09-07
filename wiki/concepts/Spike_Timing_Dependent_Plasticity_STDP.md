@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[Criticality]]
 [[DynamicalSelfDualCriticality]]
+[[InNetworkNeuromorphicSimulation]]
 [[Intelligence_Emergence]]
 [[LeftRightAsymmetry]]
 [[Local_Plasticity]]

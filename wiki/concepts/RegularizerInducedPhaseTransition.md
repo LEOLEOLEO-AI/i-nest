@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenFunctionalConnectivity]]
 [[ExtinctionDrivenMetastability]]
 [[FPGA_Neuromorphic_Architectures]]
+[[FunctionalRelevanceDrivenSelfOrganization]]
 [[InNetworkComputing]]
 [[Neuromorphic_Computing]]
 [[SelfOrganization]]

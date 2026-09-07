@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3DHI_Interconnect]]
+[[3D_Integration]]
 [[3d]]
 [[AdvancedPackagingInterconnect]]
 [[ApproximationFidelityTradeoff]]

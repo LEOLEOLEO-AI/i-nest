@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[ComputeRelocationOverhead]]
 [[CriticalSlowingDown]]
+[[DARPA_ERI_2_0_Framework]]
 [[Deep_Thermalisation]]
 [[EdgeIoTEnergyAwareness]]
 [[Flow_Aware_Interconnect_Design]]

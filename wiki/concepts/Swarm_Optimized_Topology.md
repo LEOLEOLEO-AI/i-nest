@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[CompactnessRegularizedFitness]]
 [[Complex_System_Theory]]
 [[Contested_Prior_Resolution]]
+[[CrossDomainAwareness]]
 [[Crystallized_Embedding_Reservoir]]
 [[Dendritic_Compartmentalization]]
 [[Dynamic_Expert_Fusion]]

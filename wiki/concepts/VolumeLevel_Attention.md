@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[InterconnectConstrainedEmergence]]
 [[KV_Cache_To_BoundaryObject]]
 [[KV_Cache_to_BoundaryObject_Transition]]
+[[MetaHardwareAbstraction]]
 [[Metastable_State_Hierarchy]]
 [[Multi_Scale_Habituation]]
 [[NCL神经计算定律详解]]

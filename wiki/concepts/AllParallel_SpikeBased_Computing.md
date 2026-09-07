@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Forum_Demo_Narrative]]
 [[Baseline_Draft_Status]]
 [[BurstGatedRouting]]
+[[Continuous_Discrete_Compute_Gap]]
 [[EventDrivenAsync]]
 [[EventDrivenAsynchronousRouting]]
 [[Interconnect_Routing]]

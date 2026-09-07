@@ -29,6 +29,11 @@ Auto-extracted concept from raw material compilation.
 [[Anisotropic_Correlation_Length]]
 [[AnytimePointCloudRecognition]]
 [[Automated_Reward_Shaping]]
+[[Bio_plausible_Neuromorphic_Disturbance_Observer]]
+[[Neuromorphic_Computing]]
+[[SpikeEncoding]]
+[[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 
 ## Sources

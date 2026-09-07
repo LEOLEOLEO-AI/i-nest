@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_MasterEquation]]
 [[CST_Spatiotemporal_Complexity]]
 [[CXL_Deployment_Transition]]
+[[ChipletTrafficAwareScheduling]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]

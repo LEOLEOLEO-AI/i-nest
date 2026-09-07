@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[HeavyTailedWaitingTimes]]
 [[IntellectualBaseModularity]]
 [[Intelligence_Emergence]]
+[[MultiplicativeGainCondition]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[ObsidianV4_Integration]]

@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Faculty_Forum_2026]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -61,7 +62,6 @@ Auto-extracted concept from raw material compilation.
 [[WaferScaleCoDesign]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
-[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

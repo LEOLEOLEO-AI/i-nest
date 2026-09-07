@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Aware_Placement]]
 [[Chiplet_Interconnect_Scheduling]]
+[[Chiplet_NoC_Interconnect]]
 [[Chiplet_Stacking]]
 [[Complex_System_Theory]]
 [[EdgeIoTEnergyAwareness]]

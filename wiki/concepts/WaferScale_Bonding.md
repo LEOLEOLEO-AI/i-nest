@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[1024_Card_SuperNode]]
 [[AdiabaticMultimodeBend]]
+[[AdvancedPackagingInterconnect]]
 [[ChipletWaferInterconnectScaling]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -44,7 +45,6 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Chiplet_Topology]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
-[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

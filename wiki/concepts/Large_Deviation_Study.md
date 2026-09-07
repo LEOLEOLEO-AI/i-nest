@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[InterconnectConstrainedEmergence]]
 [[LargeDeviationTopologicalOrder]]
+[[MicroTransferPrinting]]
 [[MultiplicativeGainMechanism]]
 [[MultiplicativeGain]]
 [[Nature Electronics]]

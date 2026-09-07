@@ -27,9 +27,11 @@ Auto-extracted concept from raw material compilation.
 [[AndersonTransition]]
 [[Compute_In_Memory_Neuromorphic]]
 [[Ferroelectric_ComputeInMemory]]
+[[Ferroelectric_Devices]]
 [[In_Memory_Computing]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[OneDimensionalLongRangeInteractions]]
 [[TCC]]
 [[iNEST]]
 

@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[HodgkinHuxleyDynamics]]
 [[Memristive_Interconnect]]
+[[Memristive_STDP]]
 [[Memristor]]
 [[Memristor_Network]]
 [[Memristor_Synapse]]

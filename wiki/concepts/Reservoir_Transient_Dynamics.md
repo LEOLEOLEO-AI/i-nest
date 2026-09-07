@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[BoseCondensateAnalogy]]
 [[Bosonic_SPT_Phases]]
 [[CST_CoordinationMechanism]]
+[[C_elegansConnectomeAnalogy]]
 [[Complex_System_Theory]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]

@@ -54,6 +54,8 @@ Auto-extracted concept from raw material compilation.
 [[NoiseDrivenBackpropReconstruction]]
 [[NonEquilibriumComputing]]
 [[OpportunisticRoutingRL]]
+[[OpportunisticRouting]]
+[[QuantumFluctuationDrivenTransport]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[SNN_Config_Sensitivity]]

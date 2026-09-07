@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[SNN]]
 [[Spiking_Neural_Network]]
+[[Strategic_Surprise_Prevention]]
 [[Technology_Disparity_Offset]]
 
 ## Sources

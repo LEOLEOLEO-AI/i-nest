@@ -58,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
+[[WormBrain_FlyBody_Controller]]
 [[iNEST]]
 
 ## Sources

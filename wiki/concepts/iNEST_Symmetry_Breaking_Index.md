@@ -35,11 +35,11 @@ Auto-extracted concept from raw material compilation.
 [[CompactFieldVariable]]
 [[DynamicServiceComposition]]
 [[ElectromigrationReliability]]
+[[ErdosRenyiGraphEnergyLandscape]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Interconnect_Topology]]
 [[Network_Topology_Design]]
-[[chiplet interconnect]]
 [[iNEST]]
 
 ## Sources

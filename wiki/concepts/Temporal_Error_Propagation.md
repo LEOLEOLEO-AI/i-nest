@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[LossSpikeMechanism]]
+[[Memristive_Interconnect]]
 [[Memristive_STDP]]
 [[MobilityEdge]]
 [[Network_Topology_Design]]

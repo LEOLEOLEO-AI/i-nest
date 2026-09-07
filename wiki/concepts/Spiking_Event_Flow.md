@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicGraphAnomalyDetection]]
 [[Neuromorphic_Computing]]
 [[SNN]]
+[[SNN_Spiking_Neural_Network]]
 [[SpectralSpikeEncoding]]
 [[SpikeBasedNeuralRadianceField]]
 [[SpikeEncoding]]

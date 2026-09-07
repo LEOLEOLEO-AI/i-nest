@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AdversarialResilience]]
 [[AnomalousSpinTransport]]
 [[AstrocyteInspiredRepair]]
+[[BCM滑动阈值]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -62,10 +63,12 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[ShortTermMemory]]
 [[StochasticBinaryDynamics]]
+[[Synaptic_Plasticity]]
 [[Whole_Organism_Behavioral_Assay]]
 [[iNEST]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

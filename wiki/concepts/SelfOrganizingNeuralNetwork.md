@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[Active_Inference_Agent]]
 [[Alpha_Coefficient_Phase_Transition_Amplification]]
+[[AmorphousSolidPlasticity]]
 [[BayesianDomainEvolution]]
 [[BehavioralFeedbackLoop]]
 [[Bidirectional_Temporal_Enhancement]]

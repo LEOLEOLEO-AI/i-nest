@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Hardware_Accelerated_SNN]]
 [[HierarchicalBayesianCommunityDetection]]
 [[InNetworkAgentRewiring]]
+[[InNetworkNeuromorphicSimulation]]
 [[Intelligence_Emergence]]
 [[LeftRightAsymmetry]]
 [[MacroCriticalityEmergence]]

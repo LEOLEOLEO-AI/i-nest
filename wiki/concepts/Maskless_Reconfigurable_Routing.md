@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor]]
 [[Memristor_Interconnect]]
 [[Memristor_Synapse]]
+[[MicroRouter_Embedding]]
 [[Network_Topology_Design]]
 [[PacketRoutingOptimization]]
 [[Runtime_Level_Scheduling]]
@@ -42,7 +43,6 @@ Auto-extracted concept from raw material compilation.
 [[System_Level_Utility_Control]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
-[[chiplet interconnect]]
 [[topology reconfiguration]]
 
 ## Sources

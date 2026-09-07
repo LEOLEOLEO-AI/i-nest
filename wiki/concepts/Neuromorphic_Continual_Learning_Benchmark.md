@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[DivergentHigherAreaRanking]]
 [[Edge_Intelligence]]
 [[Fixed_Recurrent_Network]]
+[[FractalPathEntropy]]
 [[FullyLocalOnlineSNNTraining]]
 [[HardwareAware_DesignSpace]]
 [[Loihi]]

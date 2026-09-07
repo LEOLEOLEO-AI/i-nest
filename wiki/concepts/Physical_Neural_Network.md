@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[ElectromigrationReliability]]
 [[EulaminateOverrepresentation]]
 [[GPU_Bottleneck_Relief]]
+[[GeneralIntelligenceSubstrate]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC]]

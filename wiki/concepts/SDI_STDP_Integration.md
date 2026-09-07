@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_MemristiveLearning]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
+[[Spike_timing_dependent_plasticity_learning_rule]]
 [[SpikingCorrespondenceMatching]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

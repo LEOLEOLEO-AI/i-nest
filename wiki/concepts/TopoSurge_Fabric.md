@@ -20,16 +20,22 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
 [[CommunicationAsComputation]]
 [[GlobalDecision_LocalExecution_ControlPlane]]
 [[Integrated_Cooling]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
+[[NoC]]
 [[NoC_Chiplet_iNEST_Wafer]]
 [[P_Paradigm]]
 [[Packaging_CoDesign]]
+[[SDI_Chiplet_Topology]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[iNEST]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[PacketRoutingOptimization]]
 [[SNN]]
+[[SpikeEncodingLatency]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[UniSpike_Acceleration]]

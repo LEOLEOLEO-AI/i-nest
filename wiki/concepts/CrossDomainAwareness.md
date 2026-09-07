@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[BandedConnectivityModel]]
 [[Complex_System_Theory]]
 [[Dendritic_Compartmentalization]]
 [[Dynamic_Expert_Fusion]]

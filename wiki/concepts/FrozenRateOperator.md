@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[FlexibilityThreshold]]
 [[GutBrainAxis_Reprogramming]]
 [[Gut_Brain_Immune_Network]]
+[[HallmarkDrivenCancerModeling]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Memristive_Solutions]]

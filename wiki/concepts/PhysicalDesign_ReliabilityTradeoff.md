@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeTimingPreservation]]
 [[Spike_Event_Driven_Attention]]
 [[Spiking_Neural_Network]]
+[[StarvationSuppression]]
 [[StochasticDelayInference]]
 [[TCC]]
 [[TemporalBatchSynchronization]]

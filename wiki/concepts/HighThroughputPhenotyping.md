@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[OscillatoryReservoirDynamics]]
 [[RestingStateEEG_Connectivity]]
 [[Spatiotemporal_Emergence_Model]]
 [[Spiking_Neural_Network]]

@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[MetaHardwareAbstraction]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[ReconfigurablePhotonicNetwork]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

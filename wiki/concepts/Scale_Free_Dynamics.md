@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[BayesianDomainEvolution]]
 [[BehavioralFeedbackLoop]]
 [[Catastrophic_Forgetting_Mitigation]]
+[[Contested_Priors_Architecture]]
 [[Criticality]]
 [[FlexibilityThreshold]]
 [[LeftRightAsymmetry]]

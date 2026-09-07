@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
 [[Contested_Priors_Architecture]]
+[[CriticalityBasedClassification]]
 [[Criticality]]
 [[DrivenCriticalityOptimalityTradeoff]]
 [[Dynamic_Expert_Fusion]]

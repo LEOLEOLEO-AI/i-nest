@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[ASIC_Dualism]]
 [[Active_Inference_Topology]]
 [[Analog_InMemory_Processing]]
+[[AndersonTransition]]
 [[ArbitraryWavefunctionConfigurability]]
 [[AutonomousServiceNegotiation]]
 [[Chiplet]]

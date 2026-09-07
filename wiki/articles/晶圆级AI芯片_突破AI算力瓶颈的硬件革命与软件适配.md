@@ -16,7 +16,9 @@ NoC, SDI, wafer, 互连, 封装, 拓扑, 晶圆, 芯粒
 
 ## Related Concepts
 
+[[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]

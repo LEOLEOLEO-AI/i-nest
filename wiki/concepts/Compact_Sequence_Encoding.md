@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Compute_In_Memory_Neuromorphic]]
 [[ConductingPolymerDendriteMemory]]
 [[CouplingTopologyMemoryLink]]
+[[Efficient_Coding_Constraint]]
 [[EventDrivenPlasticity]]
 [[EventDrivenTemplateUpdate]]
 [[EventStrengthEncoding]]

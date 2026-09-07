@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Driven_Architecture_Search]]
 [[BackpropagationFreeLearning]]
+[[BoundaryObject_Abstraction]]
 [[DARPA_ProjectManager_Model]]
 [[DynamicServiceComposition]]
 [[Hardware_Programming]]
@@ -35,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[TCCNPU_Coordination_Roadmap]]
 [[TCC]]
 [[ThirdWaveAI]]
+[[Wafer_Scale_Neuromorphic]]
 [[iNEST]]
 
 ## Sources

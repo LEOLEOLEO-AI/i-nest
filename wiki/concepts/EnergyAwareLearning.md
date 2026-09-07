@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[NonEquilibriumComputing]]
 [[PowerLawScaling]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SDI_STDP]]
 [[SelfOrganizedOscillatoryLearning]]
 [[Self_Organized_Criticality]]
 [[SynapticReinforcementConsolidation]]

@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicReconfigurationForFaultTolerance]]
 [[DynamicTopologyMapping]]
 [[DynamicTopology]]
+[[Efficient_Coding_Constraint]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[FPGABasedNeuromorphic]]

@@ -21,12 +21,18 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Faculty_Forum_2026]]
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Intelligence_Emergence]]
+[[Interconnect_Topology]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[NoC_Chiplet_iNEST_Wafer]]
 [[P_Paradigm]]
 [[SDSoW]]
+[[SDSoW_Architecture]]
 [[SDSoW_Strategic_Planning]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]

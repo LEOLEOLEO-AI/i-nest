@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[CircuitCoDesign]]
 [[Complex_System_Theory]]
+[[DarkSiliconAwarePowerGating]]
 [[Energy_Efficient_Control]]
 [[FerroelectricMemoryCell]]
 [[Ferroelectric_Devices]]

@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Roadmap]]
 [[Emergent_Systems]]
+[[EntanglementAwareRouting]]
 [[GutBrainAxis_Reprogramming]]
 [[HallmarkDrivenCancerModeling]]
 [[Intelligence_Emergence]]
@@ -53,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[OptimalControlPolicyLearning]]
 [[Photopolymerization_NoC]]
 [[TCC]]
+[[causal emergence]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

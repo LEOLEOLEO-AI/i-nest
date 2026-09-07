@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Connectome]]
 [[Contested_Prior_Resolution]]
 [[DataDrivenCellularAxis]]
+[[Distributed_Spike_Communication]]
 [[EpidemicThreshold]]
 [[EventDrivenFunctionalConnectivity]]
 [[Hardware_Accelerated_SNN]]

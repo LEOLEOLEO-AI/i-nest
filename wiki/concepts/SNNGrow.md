@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Battery_Technology_Integration]]
 [[DARPA_ProjectManager_Model]]
+[[FCDC_Architecture]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[FPGA_Accelerated_SNN]]
 [[FPGA_Neuromorphic_Acceleration]]
@@ -30,7 +31,6 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]
 [[SNN]]
-[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

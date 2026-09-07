@@ -59,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[Renormalization_Group]]
 [[Renormalization_Group_Convergence]]
 [[SDI_Bond]]
+[[SDI_STDP_Bond]]
 [[SNN]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]

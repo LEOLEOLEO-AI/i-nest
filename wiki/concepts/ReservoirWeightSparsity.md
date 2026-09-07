@@ -56,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[Pipelined_Processor_Integration]]
+[[QuantumDissipativeReservoir]]
 [[ReproducibleReservoirOutput]]
 [[Reservoir_Computing]]
 [[TCC]]

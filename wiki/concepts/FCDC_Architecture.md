@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[EnergyResourceEfficiencyCoOptimization]]
+[[FPGASNNMemoryOptimization]]
 [[FeFET_Polarization_Switching]]
 [[FerroelectricCrossbarArray]]
 [[FerroelectricMemoryCell]]

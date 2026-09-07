@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[BrainBodyResonance]]
 [[ClocklessReconfigurableChip]]
+[[Dendritic_In_Context_Learning]]
 [[Dynamic_Expert_Fusion]]
 [[ElectronicWarfareNeuromorphic]]
 [[Emergent_Intelligence]]

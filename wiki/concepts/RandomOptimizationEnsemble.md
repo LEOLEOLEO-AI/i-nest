@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[03 涌现：整体的能力不能还原回个体？ - 得到APP]]
 [[3D_Integration]]
+[[3D_Stacking]]
 [[3d]]
 [[4H_SiC_SubstrateProcessing]]
 [[AdvancedPackagingInterconnect]]
@@ -37,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect_Topology]]
 [[ChiralSymmetryClasses]]
 [[Complex_System_Theory]]
+[[Critical_Region_Extension]]
 [[Deep_Thermalisation]]
 [[EndToEndLinkSimulation]]
 [[FloquetTopologicalOrder]]
@@ -55,7 +57,6 @@ Auto-extracted concept from raw material compilation.
 [[SelfOrganization]]
 [[SiliconPhotonicsNetwork]]
 [[TCC]]
-[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

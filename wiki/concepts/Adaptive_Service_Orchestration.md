@@ -57,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[Switch_Chiplet_Integration]]
 [[TCC]]
 [[TopologyAwareStateMigration]]
+[[Topology_Manifold_Computing]]
 [[advanced packaging]]
 [[iNEST]]
 [[涌现]]

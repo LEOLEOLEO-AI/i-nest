@@ -58,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[SneakPathCurrentSuppression]]
 [[Swarm_Coordination]]
 [[Syncytial_Information_Integration]]
+[[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[TwoTimescaleNeuroEvolution]]
 [[complex system]]
 [[iNEST]]

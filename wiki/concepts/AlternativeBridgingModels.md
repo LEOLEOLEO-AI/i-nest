@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[HardwareAware_DesignSpace]]
 [[Hardware_Accelerated_SNN]]
 [[HigherOrderSimplicialDynamics]]
+[[InNetworkNeuromorphicSimulation]]
 [[Intelligence_Emergence]]
 [[LatencyCoding]]
 [[Layered_Attractive_Hubbard_Model]]

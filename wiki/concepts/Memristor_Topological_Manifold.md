@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Faculty_Forum_2026]]
 [[InNetworkRadarProcessing]]
+[[In_Package_Neuromorphic_Integration]]
 [[Memristive_Crossbar]]
 [[Memristive_Crossbar_Array]]
 [[Memristor]]

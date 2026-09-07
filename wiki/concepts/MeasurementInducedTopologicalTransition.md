@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Intelligent_Computing_Infrastructure]]
 [[MetaFAIR_ArchitectureDiscovery]]
+[[MitigationLayers]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Organization]]
@@ -51,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[RestrictedConnectivityTopology]]
 [[SpinGlassOrderAbsence]]
 [[ThermallyDrivenSuperparamagnetReservoir]]
+[[causal emergence]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
 [[AndersonTransition]]
+[[AnomalousSpinTransport]]
 [[Bipartite_Interconnect]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -52,7 +53,6 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[TopologicalDataCompression]]
 [[WaveBasedInformationRouting]]
-[[chiplet interconnect]]
 [[涌现]]
 [[神经形态计算]]
 [[类脑芯片]]

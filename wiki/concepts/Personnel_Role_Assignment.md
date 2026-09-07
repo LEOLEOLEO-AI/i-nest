@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[ContinuousGameOfLife]]
 [[CrossDomain_Abstraction]]
 [[DailyResearchDigest]]
+[[DelayTolerantNetworkUAV]]
 [[FermiSurfaceTopologySignature]]
 [[HigherOrderDynamicsPreservation]]
 [[Intelligence_Emergence]]

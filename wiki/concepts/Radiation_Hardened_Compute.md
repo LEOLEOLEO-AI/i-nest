@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[DualSide_Routing_Layer]]
 [[Environmental_Capability_Context]]
 [[EventDriven_Interconnect]]
+[[FiniteSizeCrossover]]
 [[FunctionalHardwareComposition]]
 [[GateModelHardware]]
 [[Heterogeneous_Integration]]

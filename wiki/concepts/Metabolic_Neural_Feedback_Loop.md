@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[EntropyProductionRate]]
 [[Epithelial_Barrier_Integrity]]
 [[Ethical_AI_Constraints]]
+[[Evolutionary_Computability]]
 [[Fading_Memory_Property]]
 [[FisherOrthogonalMemory]]
 [[Heterogeneous_Integration]]

@@ -53,6 +53,8 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[神经形态计算]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

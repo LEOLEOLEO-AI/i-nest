@@ -26,7 +26,9 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_ProjectManager_Model]]
 [[DataDrivenMaterialDesign]]
 [[DisorderInducedEntanglementTransition]]
+[[EcosystemTopologyCoupling]]
 [[EndToEndTopologyLearning]]
+[[EventDrivenInference]]
 [[Generative_Graph_Models]]
 [[JumpDiffusion_StochasticQuantization]]
 [[MantelTest_SignCorrection]]
@@ -45,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[Self_Organized_Criticality]]
 [[SpikeEventDrivenInference]]
+[[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]
 

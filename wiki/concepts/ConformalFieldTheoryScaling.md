@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[EntanglementSignatures]]
 [[GeometricRegularizationLoss]]
 [[Hippocampal_Encoding_Mechanism]]
+[[InferencePipelineTopologyAwareScheduling]]
 [[Intelligence_Emergence]]
 [[MeasurementEfficientDisorderAware]]
 [[Network_Topology_Design]]

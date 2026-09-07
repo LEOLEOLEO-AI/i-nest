@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[Event_Driven_Architecture]]
+[[InNetworkNeuromorphicSimulation]]
 [[Intelligence_Emergence]]
 [[IntrinsicTimingSTDP]]
 [[Network_Topology_Design]]

@@ -59,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]
 [[ScaleFreeNetwork]]
+[[SparseTemporalEncoding]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
 [[iNEST]]

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[GenerativeTopologyModels]]
 [[Hardware_Accelerated_SNN]]
+[[InNetworkNeuromorphicSimulation]]
 [[InNetwork_CST_Offload]]
 [[Intelligence_Emergence]]
 [[MacroscopicDescriptor]]

@@ -34,12 +34,18 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Based_Trusted_Hardware]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_NoC_Interconnect]]
+[[Chiplet_Stacking]]
+[[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
+[[NoC]]
+[[NoC_Interconnect]]
 [[P_Paradigm]]
 [[SwarmX_InterWafer]]
 [[TCC]]
 [[advanced packaging]]
+[[causal emergence]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

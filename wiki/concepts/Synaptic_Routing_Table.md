@@ -30,9 +30,12 @@ Auto-extracted concept from raw material compilation.
 [[OpenLearningEcosystem]]
 [[QuantumDistillation]]
 [[Reconfigurable_Neural_Topology]]
+[[SDI_Bond]]
+[[SDI_STDP]]
 [[SDI_STDP_Rule]]
 [[STDPDrivenConnectivity]]
 [[STDP_Plasticity]]
+[[Space_Radiation_Hardening]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
 

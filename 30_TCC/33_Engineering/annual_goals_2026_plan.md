@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 工程
+tags: [年度目标, KPI, 芯片研发, 项目管理, 半导体]
+summary: "2026年公司级战略与经营目标，涵盖财务、市场、研发、项目、人力、质量六大维度。"
+quality: medium
+processed: 2026-09-08 06:46
+---
+---
 title: "年度目标（2026年）"
 tags:
   - chip

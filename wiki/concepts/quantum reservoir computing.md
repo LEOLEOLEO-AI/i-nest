@@ -29,6 +29,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 
 ## Related Work
 
+[[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[AI_Application_Scenario_Reconstruction]]
 [[ActionPrototypeClustering]]
 [[AdjustableDynamics]]

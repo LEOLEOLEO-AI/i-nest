@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[03 涌现：整体的能力不能还原回个体？ - 得到APP]]
+[[3DHI_Integration]]
 [[3DHI_Stacking]]
 [[3D_Heterogeneous_Integration]]
 [[3d]]
@@ -66,6 +67,7 @@ Auto-extracted concept from raw material compilation.
 [[State_Transition_Formalism]]
 [[TCC]]
 [[advanced packaging]]
+[[causal emergence]]
 [[iNEST]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]

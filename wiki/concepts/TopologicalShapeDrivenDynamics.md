@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[Criticality_Induced_Plasticity]]
 [[Edge_AI_Acquisition_Consolidation]]
+[[FirstPrinciples_Derivation]]
 [[FormalLinguisticCompetence]]
 [[HierarchicalBayesianCommunityDetection]]
 [[Intelligence_Emergence]]

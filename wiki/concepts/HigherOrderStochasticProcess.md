@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[FirstPrinciples_Derivation]]
 [[Heterogeneous_Integration]]
 [[Hypergraph_Label_Noise]]
+[[In_Network_Neuromorphic_Offload]]
 [[LIF_Neuron_Model]]
 [[LowBitSpikingPruning]]
 [[NUMA_Balancing_Interference]]

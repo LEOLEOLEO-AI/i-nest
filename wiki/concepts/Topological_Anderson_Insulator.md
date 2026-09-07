@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[OpenLearningEcosystem]]
 [[Routing_Color_Bits]]
 [[SpectralGapMoE]]
+[[StretchablePhotonicInterconnect]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[涌现]]

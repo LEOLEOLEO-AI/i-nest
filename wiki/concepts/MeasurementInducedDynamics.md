@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[BeyondPTSymmetry]]
 [[BifurcationCandidate]]
 [[BoundaryContract]]
+[[ChiralSymmetryClasses]]
 [[Course_Based_FPGA_Projects]]
 [[CrystalPalace_Program]]
 [[Deep_Thermalisation]]

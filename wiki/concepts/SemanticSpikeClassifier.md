@@ -45,7 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[SDDE_Attractor_Emergence]]
 [[SNN]]
 [[SolitonLikeWaves]]
-[[Spiking neural network]]
+[[SpikeEncodingLatency]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]

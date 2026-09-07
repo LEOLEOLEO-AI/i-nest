@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Driven_Power_Density_Scaling]]
 [[AdaptiveGraphDiffusion]]
 [[Adaptive_Intelligence_Principle]]
+[[Adaptive_Service_Orchestration]]
 [[AnalogInMemoryComputing]]
 [[BurstGatedRouting]]
 [[BurstInterleaving]]

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Driven_Architecture_Search]]
 [[AdaptiveGraphDiffusion]]
 [[Adaptive_Intelligence_Principle]]
+[[Adaptive_Service_Orchestration]]
 [[AgenticServiceOrchestration]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[AndersonTransition]]
@@ -54,7 +55,6 @@ Auto-extracted concept from raw material compilation.
 [[ScalableNeuromorphicTopology]]
 [[TCC]]
 [[TopologicalDataCompression]]
-[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

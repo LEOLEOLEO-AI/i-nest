@@ -38,8 +38,8 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_iNEST_Wafer]]
 [[P_Paradigm]]
 [[RuntimeTopologyMapping]]
+[[SDI_NPU_NoC_Integration]]
 [[Wafer_Scale_Integration]]
-[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

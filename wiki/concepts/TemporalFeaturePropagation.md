@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenModularArchitecture]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[KinematicWavePropagation]]
 [[LossSpikePhenomenon]]
 [[MixedLabyrinthFractal]]
 [[MixedSignalSNN_CoDesign]]

@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[InMateriaComputing]]
 [[Intelligence_Emergence]]
+[[Intelligent_Power_Management]]
 [[Medical_Large_Language_Models]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Spatiotemporal_Synergy]]
@@ -70,7 +71,7 @@ Auto-extracted concept from raw material compilation.
 [[Topology_Centric_Computing]]
 [[Wafer_Level_Integration]]
 [[Wafer_Scale_Integration]]
-[[chiplet interconnect]]
+[[causal emergence]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

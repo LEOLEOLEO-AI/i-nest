@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[ControlTheoreticNetworkTopology]]
 [[ConvexNonconvexFloorplanning]]
 [[Daily_Article_Increment_Tracking]]
+[[DeepPhotonicTopology]]
 [[DifferentiableRasterizationPipeline]]
 [[EdgeIoTEnergyAwareness]]
 [[Heterogeneous_Integration]]

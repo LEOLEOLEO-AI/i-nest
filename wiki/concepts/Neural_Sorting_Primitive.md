@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Brain_Inspired_Switchless_Architecture]]
 [[BrownianCastleInterface]]
 [[ClocklessReconfigurableChip]]
+[[Dynamic_Expert_Routing]]
 [[ExplainableEnergyAI]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]

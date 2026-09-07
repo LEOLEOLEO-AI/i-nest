@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicCentralitySteering]]
 [[EnsembleCreditAssignment]]
 [[Intelligence_Emergence]]
+[[LLMDrivenPathSelection]]
 [[Network_Topology_Design]]
 [[PhotonicSynapticPlasticity]]
 [[PolarizationModulatedPhotoresponse]]

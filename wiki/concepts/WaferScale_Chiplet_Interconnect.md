@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
+[[CompactFieldVariable]]
 [[CongestionAwareNoCPlacement]]
 [[Decoupled_Priors]]
 [[DiagnosticReportFramework]]
@@ -60,7 +61,6 @@ Auto-extracted concept from raw material compilation.
 [[SparseTemporalEncoding]]
 [[SparsityAwareInterconnect]]
 [[TCC]]
-[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

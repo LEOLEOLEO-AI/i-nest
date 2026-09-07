@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikingNeuralNetworkTopology]]
 [[SpikingNeuralNetwork]]
 [[Spiking_Neural_Network]]
+[[SpontaneousOrderMechanism]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]

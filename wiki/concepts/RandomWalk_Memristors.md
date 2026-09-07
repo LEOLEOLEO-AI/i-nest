@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Network_Architecture_Invariant]]
 [[DynamicProgrammingRecycling]]
 [[DynamicTopology]]
+[[Dynamic_Communication_Reconfiguration]]
 [[Graphlet_Decomposition]]
 [[Memristor]]
 [[Memristor_Synapse]]

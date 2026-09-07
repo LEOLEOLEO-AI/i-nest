@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
+[[ProjectiveMeasurementRouting]]
 [[Reservoir_Computing]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

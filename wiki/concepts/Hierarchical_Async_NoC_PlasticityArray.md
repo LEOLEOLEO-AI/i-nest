@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[EventCameraTemporalEncoding]]
 [[Event_Driven_Architecture]]
 [[In_Network_Neuromorphic]]
+[[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]
 [[LLM_Driven_NoC_Control]]
 [[Network_on_Chip]]

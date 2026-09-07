@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Topology]]
 [[Chiplet_Topology_Interconnect]]
+[[CongestionAwareNoCPlacement]]
 [[EulaminateOverrepresentation]]
 [[GlobalDecision_LocalExecution_ControlPlane]]
 [[Heterogeneous_Chiplet_Integration]]
@@ -39,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[NCCLCollectiveCommunicationMapping]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
+[[Neuromorphic_Computing]]
 [[NoC]]
 [[NoC_SDI]]
 [[P_Paradigm]]
@@ -61,7 +63,6 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Neuromorphic]]
 [[Wafer_Scale_Topology]]
 [[Wafer_Scale_Topology_Control]]
-[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

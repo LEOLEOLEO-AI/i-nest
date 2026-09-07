@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[Complex_System_Theory]]
 [[DeeplySupervisedSpiking]]
+[[DendriticTaskPartitioning]]
 [[DrivenDissipativeDynamics]]
 [[GeTeBasedCBRAM]]
 [[Heterogeneous_Integration]]

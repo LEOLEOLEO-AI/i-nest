@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Faculty_Forum_2026]]
+[[AgentBasedCorruptionModel]]
 [[Attention_Residuals]]
 [[BoundaryObject_Abstraction]]
 [[ByteDance_Ada_Chip]]

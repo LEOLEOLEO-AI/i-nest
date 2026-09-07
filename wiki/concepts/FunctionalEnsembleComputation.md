@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Processing]]
 [[FoveationGuidedTokenSelection]]
 [[FunctionalEnsemble]]
+[[In_Package_Neuromorphic_Integration]]
 [[InputAdaptiveComputation]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

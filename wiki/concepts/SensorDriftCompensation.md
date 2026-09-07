@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[Real_Time_Neuromorphic_Constraint_Satisfaction]]
+[[Recurrent_Network_Homeostasis]]
 [[Reservoir_Computing]]
 [[SDDE_Attractor_Emergence]]
 [[SNN]]

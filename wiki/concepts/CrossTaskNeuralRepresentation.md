@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkNeuromorphicEmergence]]
 [[InNetworkNeuromorphic]]
 [[In_Network_Neuromorphic]]
+[[In_Network_Neuromorphic_Processing]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[IntracorticalNeuralDecoding]]

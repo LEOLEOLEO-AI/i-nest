@@ -59,10 +59,10 @@ Auto-extracted concept from raw material compilation.
 [[NoC]]
 [[NoC_Interconnect]]
 [[NonvisualGroundClassification]]
+[[Package_Level_Interconnect]]
 [[SelfOrganization]]
 [[TCC]]
 [[advanced packaging]]
-[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

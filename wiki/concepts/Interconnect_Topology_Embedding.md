@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityInducedTopology]]
 [[Criticality]]
 [[Deep_Network_Architecture_Invariant]]
+[[Generative_Graph_Models]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Interconnect_Topology]]

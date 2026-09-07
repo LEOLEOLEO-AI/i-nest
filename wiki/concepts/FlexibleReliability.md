@@ -26,12 +26,14 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[Critical_Region_Extension]]
 [[Criticality]]
+[[EventDrivenAsync]]
 [[EventDrivenAsynchronousRouting]]
 [[Flexible_Reliability]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[Self_Organized_Criticality]]
+[[Stigmergic_RL]]
 [[TCC]]
 
 ## Sources

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveFunctionalTopology]]
 [[AdiabaticModeEvolution]]
 [[AdjointWaveControl]]
+[[CircuitTopologyEncoding]]
 [[Complex_System_Theory]]
 [[ControlDrivenCriticalFluctuations]]
 [[Critical_Region_Extension]]

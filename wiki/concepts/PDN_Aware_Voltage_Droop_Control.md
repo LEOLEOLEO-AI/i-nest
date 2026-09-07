@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[3d]]
 [[AI_Driven_Power_Density_Scaling]]
 [[AI_Faculty_Forum_2026]]
+[[AdaptiveGraphDiffusion]]
 [[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[Attention_Residuals]]

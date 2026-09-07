@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Reservoir_Topology]]
 [[Epithelial_Barrier_Integrity]]
 [[Fading_Memory_Property]]
+[[FunctionalInterfaceBlocks]]
 [[Heterogeneous_Integration]]
 [[Hyper_Dimensional_Computing]]
 [[IntegratedSensingFusion]]

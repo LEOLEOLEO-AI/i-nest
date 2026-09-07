@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[EnergyEfficientInference]]
 [[EnergyEfficientNeuromorphicDesign]]
 [[EnergyEfficientNeuromorphic]]
+[[EnergyEfficientSNN]]
 [[EventDrivenInference]]
 [[Event_Driven_Architecture]]
 [[Hybrid_ANN_SNN_Pipeline]]

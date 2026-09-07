@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Computation]]
 [[FlexibilityThreshold]]
 [[JunctionSignalIntegrity]]
+[[Local_Plasticity_Rule]]
 [[Neuromorphic_Computing]]
 [[Online_Continual_Learning]]
 [[STDP_Plasticity]]

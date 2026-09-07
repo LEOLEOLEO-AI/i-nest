@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[AI_Assisted_Energy_Management]]
 [[Active_Inference_Agent]]
+[[AdaptiveMeasurementProtocol]]
 [[BackflowTransformation]]
 [[BayesianDomainEvolution]]
 [[BehavioralFeedbackLoop]]

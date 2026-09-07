@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[KV_Cache_to_BoundaryObject_Transition]]
 [[MachineLearningPotential]]
 [[ManyCore_Neuromorphic_Scaling]]
+[[MetaHardwareAbstraction]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Scaling]]

@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration_Route]]
 [[CompetitiveProgramDynamics]]
 [[Complex_System_Theory]]
+[[CorticalTravelingWave]]
 [[Dynamic_Expert_Routing]]
 [[FlexibilityThreshold]]
 [[Hebbian_Embedding_Dynamics]]

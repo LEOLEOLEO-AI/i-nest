@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AnomalousSpinTransport]]
 [[ArbitraryWavefunctionConfigurability]]
 [[ArchitecturalCondition]]
+[[AstrocyteInspiredRepair]]
 [[Biologically_Plausible_Learning_Rules]]
 [[Complex_System_Theory]]
 [[Course_Based_FPGA_Projects]]

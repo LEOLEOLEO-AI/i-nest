@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3D_IC_Stacking]]
 [[3D_Integrated_Chiplet_Stacking]]
 [[3D_Integration]]
 [[3D_Torus_6_Degree]]
@@ -37,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
+[[ConsciousnessEngineeringLoop]]
 [[DARPA_ProjectManager_Model]]
 [[DTGA]]
 [[ElectronicPhotonicIntegratedCircuit]]

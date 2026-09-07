@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[SOC]]
 [[STDPDrivenTemporalBinding]]
 [[STDP_Learning]]
+[[STDP_Memristive_Synapse]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[SearchGatingPolicy]]

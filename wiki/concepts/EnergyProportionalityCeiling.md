@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[BioPlausiblePredictiveCoding]]
 [[Contested_Prior_Resolution]]
+[[CorticalWaveRouting]]
 [[Criticality]]
 [[DelayAwareSpikeEventDelivery]]
 [[DiscreteSTDP]]

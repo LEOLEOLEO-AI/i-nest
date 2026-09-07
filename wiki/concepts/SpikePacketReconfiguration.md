@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CorticalWaveRouting]]
 [[CriticalityDrivenStateTransition]]
 [[Criticality]]
+[[Cross_Network_Representation_Transfer]]
 [[Dynamic_Expert_Routing]]
 [[EnsembleCreditAssignment]]
 [[ExplainableEnergyAI]]

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Beyond_Moore_Packaging_Strategy]]
 [[BiasPropagationInNetworks]]
 [[BitPrecisionAwareScheduling]]
+[[CascadedAdaptiveCombiners]]
 [[Emergent_Intelligence]]
 [[Intelligence_Emergence]]
 [[Neuromorphic_Computing]]

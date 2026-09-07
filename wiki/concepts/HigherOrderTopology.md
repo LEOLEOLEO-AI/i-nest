@@ -57,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologicalComplexityCeiling]]
 [[TopologyConditionedLearning]]
+[[Topology_Centric_Packaging]]
 [[Von_Neumann_Complexity_Threshold_Conjecture]]
 [[complex system]]
 [[涌现]]

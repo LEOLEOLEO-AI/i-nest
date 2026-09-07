@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[BoundaryObject_Abstraction]]
 [[Complex_System_Theory]]
 [[ComputationEfficientDeepLearning]]
+[[DARPA_ERI_Program]]
 [[DARPA_Technology_Incubation]]
 [[Deep_Network_Architecture_Invariant]]
 [[Defense_Industrial_Base_Reshaping]]

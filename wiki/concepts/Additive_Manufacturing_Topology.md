@@ -50,10 +50,10 @@ Auto-extracted concept from raw material compilation.
 [[NoC_SDI_Integration]]
 [[SDI_Bond]]
 [[SDI_NoC_Fusion]]
+[[SparseTemporalEncoding]]
 [[TCC]]
 [[TwoDimensionalTransport]]
 [[WaferScale_Chiplet_Interconnect]]
-[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

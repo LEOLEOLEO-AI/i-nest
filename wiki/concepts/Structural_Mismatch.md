@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetwork_CST_Offload]]
 [[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Integration]]
+[[Macro_System_Description]]
 [[Memory_Wall]]
 [[Memristive_STDP]]
 [[Memristor]]
@@ -59,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Synapse]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[MetricComputationAuthenticity]]
+[[Network_CST]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[Network_topology_and_interconnection_patterns]]
@@ -84,7 +86,6 @@ Auto-extracted concept from raw material compilation.
 [[TemperatureSensitivityControl]]
 [[TemporalComplexity]]
 [[Topology_Interconnect]]
-[[chiplet interconnect]]
 [[complex system]]
 [[residual connection]]
 

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Avoided_Criticality]]
 [[BackflowTransformation]]
 [[ConverterDrivenStability]]
+[[CriticalityBasedClassification]]
 [[Criticality]]
 [[EEG_Criticality]]
 [[EventBasedMotionDeblurring]]

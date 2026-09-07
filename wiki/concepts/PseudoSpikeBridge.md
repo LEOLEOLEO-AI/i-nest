@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[HeterogeneousFederatedDistillation]]
 [[ImageToEventConversion]]
 [[NeuralVariabilityEnhancement]]
+[[NeuromorphicGestureEncoding]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Planning_Revolution]]
 [[PowerLawScaling]]

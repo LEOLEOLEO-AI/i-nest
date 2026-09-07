@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Packaging]]
 [[CoPackagedOptics]]
+[[CommunicationOverlapMechanism]]
 [[Complex_System_Theory]]
 [[ComputeRelocationOverhead]]
 [[CorticalTypeDiversity]]
@@ -60,7 +61,6 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Self_Organized_Criticality]]
 [[TCC]]
-[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

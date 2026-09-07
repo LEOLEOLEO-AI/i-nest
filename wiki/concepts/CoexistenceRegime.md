@@ -62,6 +62,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[SelfHealing_Interconnect]]
 [[Simulation_Handoff_Recommendation]]
+[[SpaceToUndersea_ResilientComms]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[TopologyAwareScheduling]]

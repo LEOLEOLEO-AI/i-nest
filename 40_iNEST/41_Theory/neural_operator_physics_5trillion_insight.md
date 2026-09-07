@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 理论
+tags: [neural-operator, physics, architecture, transformer, scientific-computing]
+summary: "神经算子实现5万亿级物理场推演，挑战Transformer范式"
+quality: high
+processed: 2026-09-08 06:47
+---
+---
 title: "抛弃Transformer：神经算子如何实现5万亿级物理上下文推演？"
 tags:
   - neural

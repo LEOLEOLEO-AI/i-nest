@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AstrocyteInspiredRepair]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[CST计量仪]]
+[[CertifiedBifurcationDetection]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[ComplexSystem_Definition]]
 [[Complex_System_Theory]]

@@ -59,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[OpportunisticRouting]]
 [[PinkNoiseDeviance]]
 [[ProbabilityDistributionAnalysis]]
+[[RandomNoiseRobustness]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SOC]]
 [[SelfOrganizedOscillatoryLearning]]

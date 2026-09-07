@@ -58,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[complex system]]
+[[iNEST]]
 [[忆阻器]]
 [[无反向传播的 4D 连续蚁群神经网络拓扑搜索]]
 [[智能涌现]]

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Course_Based_FPGA_Projects]]
 [[DataDrivenCellularAxis]]
+[[Distributed_Spike_Communication]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]

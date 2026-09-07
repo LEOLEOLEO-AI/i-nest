@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[BCM滑动阈值]]
 [[CST_Synergy_Coordination]]
 [[CST_V42_SelfConsistency]]
+[[CertifiedBifurcationDetection]]
 [[Complex_System_Theory]]
 [[CriticalBranchingMechanism]]
 [[CriticalBranching]]

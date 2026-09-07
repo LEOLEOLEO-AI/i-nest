@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[Neuronal_Avalanche_Dynamics]]
 [[NeurovascularUnitEngineering]]
 [[NeurovascularUnit]]
 [[OpenBenchmarkingFramework]]

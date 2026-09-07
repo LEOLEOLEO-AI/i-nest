@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[BackpropagationFreeLearning]]
 [[Beyond_Moore_Pathway]]
 [[BiasEvaluationMetrics]]
+[[Bias_Origin_Taxonomy]]
 [[CST计量仪]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet]]
@@ -72,7 +73,6 @@ Auto-extracted concept from raw material compilation.
 [[Spatiotemporal_Synergy]]
 [[Synaptic_Plasticity]]
 [[advanced packaging]]
-[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

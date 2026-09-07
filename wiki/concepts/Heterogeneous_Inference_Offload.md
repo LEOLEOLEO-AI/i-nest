@@ -62,13 +62,13 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Topology]]
 [[SpatialPatternStorage]]
 [[TCC]]
+[[TSV_Interconnect]]
 [[Tau_Law]]
 [[TemporalFeatureProjection]]
 [[ThroughSiliconVia_TSV_ThermalPath]]
 [[TopologyAwareTaskScheduling]]
 [[Topology_Centric_Interconnect]]
 [[advanced packaging]]
-[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

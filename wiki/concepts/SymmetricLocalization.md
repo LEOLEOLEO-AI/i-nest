@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Communication_Trace_Diagnostics]]
 [[Complex_System_Theory]]
 [[ComputeRelocationOverhead]]
+[[Compute_In_Memory_Neuromorphic]]
 [[Confinement]]
 [[Deep_Thermalisation]]
 [[EdgeIoTEnergyAwareness]]

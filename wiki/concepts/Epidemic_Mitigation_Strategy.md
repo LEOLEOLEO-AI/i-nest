@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[CouplingMatrixRecovery]]
 [[Coupling_Strength_Encoding]]
 [[CrossInstitutionalNetwork]]
+[[CrystalPalace_Program]]
 [[Crystallized_Neural_Manifolds]]
 [[DTGA]]
 [[DendriticReservoirState]]

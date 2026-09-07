@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenControlLoop]]
 [[EventDrivenDataAssociation]]
 [[EventDrivenTemplateUpdate]]
+[[EventDrivenTextEncoding]]
 [[Event_Driven_Architecture]]
 [[Event_Driven_Computation]]
 [[Interconnect_Routing]]

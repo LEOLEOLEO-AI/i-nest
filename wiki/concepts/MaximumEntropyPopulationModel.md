@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[CollectiveDynamics]]
 [[CriticalityConstrainedPruning]]
 [[CriticalityDrivenStateTransition]]
+[[CriticalityOffCriticalityTransition]]
 [[Criticality]]
 [[DynamicTokenSparsity]]
 [[Edge_Neuromorphic_Compute]]

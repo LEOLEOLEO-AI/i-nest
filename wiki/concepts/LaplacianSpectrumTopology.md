@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[ImmobilizationStabilityMechanism]]
 [[Intelligence_Emergence]]
+[[LLMDrivenPathSelection]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[Quantum_Criticality]]

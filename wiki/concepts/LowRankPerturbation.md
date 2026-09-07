@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[ErrorAmplificationLimits]]
 [[EventCameraPoseInput]]
 [[EventDrivenSynchronization]]
+[[FunctionalRelevanceDrivenSelfOrganization]]
 [[ImpactFallDetection]]
 [[Interconnect_Routing]]
 [[LossSpikePhenomenon]]

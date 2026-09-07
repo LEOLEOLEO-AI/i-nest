@@ -26,9 +26,12 @@ Auto-extracted concept from raw material compilation.
 [[BrainInspired_Computing_Paradigm]]
 [[BurstGatedRouting]]
 [[Event_Driven_Architecture]]
+[[In_Network_Neuromorphic_Scheduling]]
 [[In_Package_Neuromorphic_Integration]]
+[[Interconnect_Routing]]
 [[NestedRepresentation]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[iNEST]]
 
 ## Sources

@@ -29,9 +29,12 @@ Auto-extracted concept from raw material compilation.
 [[Agile_Resilient_Defense_Ecosystem]]
 [[ApproximationFidelityTradeoff]]
 [[AssociativeMemoryTopology]]
+[[BurstInterleaving]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
+[[SOC]]
+[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

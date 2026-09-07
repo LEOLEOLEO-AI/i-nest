@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveDendriteSNN]]
 [[AdaptiveArchitecture]]
 [[AdaptiveFunctionalTopology]]
+[[AdjustableDynamicsReservoir]]
 [[AstrocyteInspiredModulation]]
 [[BarrierConditionedTrajectory]]
 [[BrownianCastleInterface]]

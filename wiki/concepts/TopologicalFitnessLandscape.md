@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Critical_Region_Extension]]
 [[DelayTolerantNetworkUAV]]
 [[DisorderedNetworkInterconnect]]
+[[DistributedEventConditionDesign]]
 [[EdgeIoTEnergyAwareness]]
 [[ErdosRenyi_Graph_Energy_Surface]]
 [[FunctionalRelevanceDrivenSelfOrganization]]

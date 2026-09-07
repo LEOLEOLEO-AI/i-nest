@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[BoseCondensateAnalogy]]
 [[Bosonic_SPT_Phases]]
 [[CST_CoordinationMechanism]]
+[[C_elegansConnectomeAnalogy]]
 [[Complex_Network_Reservoir_Topology]]
 [[Complex_System_Theory]]
 [[Network_Topology_Design]]

@@ -51,6 +51,8 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalInterfaceBlock]]
 [[GenerativeTopologyModels]]
 [[Heterogeneous_Integration]]
+[[HierarchicalNetworkPartitioning]]
+[[Interconnect_Routing]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
@@ -67,7 +69,6 @@ Auto-extracted concept from raw material compilation.
 [[SwarmGradientRouting]]
 [[TemporalComplexity]]
 [[analog computation]]
-[[chiplet interconnect]]
 [[complex system]]
 [[神经网络]]
 

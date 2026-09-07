@@ -64,6 +64,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[StochasticBinaryDynamics]]
 [[Synaptic_Plasticity]]
+[[TemporalDynamicsModeling]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[iNEST]]

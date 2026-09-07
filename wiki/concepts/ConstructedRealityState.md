@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityDrivenIntegration]]
 [[Criticality]]
 [[CrossEntityPreemptiveWarning]]
+[[DiscreteContinuous_Unification]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Self_Organized_Criticality]]

@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC]]
 [[Package_Level_Topology]]
 [[Packaging_Aware_NoC_Design]]
+[[RadiationHardened_ProcessNodeScaling]]
 [[SDI_Bond]]
 [[SDI_Control_Plane_Offload]]
 [[TCC]]

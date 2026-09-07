@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC]]
 [[OnChipOpticalTweezers]]
 [[OpticallyWritableAtomicVaporMemory]]
+[[RegularizerAsControlParameter]]
 [[SDI_Bond]]
 [[SDI_NPU_NoC_Integration]]
 [[SDI_TCC_iNEST_Bridge]]

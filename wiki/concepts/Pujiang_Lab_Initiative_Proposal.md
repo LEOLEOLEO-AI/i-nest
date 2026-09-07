@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Intelligent_Emergence_Paradigm]]
+[[Pujiang_Lab_Project_Proposal]]
 [[iNEST]]
 
 ## Sources

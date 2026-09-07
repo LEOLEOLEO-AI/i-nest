@@ -59,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[State_Transition_Formalism]]
 [[Swarm_Coordination]]
+[[TCADCalibration]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]

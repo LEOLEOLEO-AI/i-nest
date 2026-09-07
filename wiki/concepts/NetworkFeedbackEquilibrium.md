@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[CST计量仪]]
 [[CommunicationHeterogeneity]]
 [[Complex_System_Theory]]
+[[HallmarkDrivenCancerModeling]]
 [[ImaginaryGaugePhaseImprint]]
 [[Intelligence_Emergence]]
 [[LocalStructuralPlasticity]]

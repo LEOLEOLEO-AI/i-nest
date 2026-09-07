@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[EventBasedNeuralDecoding]]
 [[EventDrivenFusion]]
 [[EventDrivenMotionDeblurring]]
+[[FibonacciMonitoredCriticality]]
 [[FirstTimestepConversion]]
 [[ImageToEventConversion]]
 [[Intelligence_Emergence]]

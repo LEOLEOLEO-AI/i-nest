@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AlternativeBridgingModels]]
 [[AnomalousSpinTransport]]
 [[BrainActivityPrediction]]
+[[CollectiveSpikingDynamics]]
 [[CombinedImportanceScoring]]
 [[CrashHotspotForecasting]]
 [[CurrentInjectionSNN]]

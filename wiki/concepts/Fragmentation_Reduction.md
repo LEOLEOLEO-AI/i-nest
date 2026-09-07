@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Minimum_Activity_Requirement]]
 [[Neuromorphic_Computing]]
 [[NoiseRobust_Hyperedge_Aggregation]]
+[[PerturbationInducedBifurcation]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
 [[Spiking_Neural_Network]]

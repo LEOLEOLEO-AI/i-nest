@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[HybridResistiveMemoryCIM]]
 [[IMPLYMemristiveISA]]
 [[In_Package_Neuromorphic_Integration]]
+[[IntraWafer_Fabric]]
 [[LightweightNeuromorphicArchitecture]]
 [[LightweightNeuromorphic]]
 [[Long_Range_Interactions]]

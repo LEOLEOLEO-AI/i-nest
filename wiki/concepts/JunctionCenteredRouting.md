@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[AdsorptionBiosorptionHybrid]]
 [[CavityMethodAnalysis]]
 [[Complex_System_Theory]]
+[[ControlDrivenCriticalFluctuations]]
 [[EvolvingArchitectureDynamics]]
 [[HybridCouplingThermosensitiveNetwork]]
 [[InNetworkReconfiguration]]

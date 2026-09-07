@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[AdjustableDynamicsReservoir]]
+[[AdjustableDynamics]]
 [[AlternativeBridgingModels]]
 [[AmorphousSolidPlasticity]]
 [[Biomanufacturing_Control_Loop]]
@@ -32,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[CollectiveSpikingDynamics]]
 [[CouplingTopologyMemoryLink]]
 [[Coupling_Topology]]
+[[CrossInstitutionalNetwork]]
 [[Crystallized_Embedding_Reservoir]]
 [[DARPA_ProjectManager_Model]]
 [[DivergentHigherAreaRanking]]

@@ -21,11 +21,14 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Brain_Scale_Parameter_Baseline]]
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[CrossbarArrayVLSI]]
 [[KeyMaterialStrategy]]
 [[Mesoscale_Advantage_Equation]]
+[[Mesoscale_Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[Wafer_Scale_Integration]]

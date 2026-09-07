@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[PromptBasedTimeSeriesForecasting]]
 [[QuantumAnnealerSynapticTest]]
 [[Reservoir_Computing]]
+[[RoleGeometryEmbedding]]
 [[SNN]]
 [[ScaleFreeNetwork]]
 [[Spiking_Neural_Network]]
@@ -61,6 +62,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TopologicalFeatureInvariance]]
 [[iNEST]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

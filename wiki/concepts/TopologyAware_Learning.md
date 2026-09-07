@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_Topology]]
 [[NearSensorComputing]]
 [[Network_Topology_Design]]
+[[PhotonicPackagingEfficiency]]
 [[PhotonicStateRetention]]
 [[RecursiveSelfReferentialArchitecture]]
 [[TCC]]

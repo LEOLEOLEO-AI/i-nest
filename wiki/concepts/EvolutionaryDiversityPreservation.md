@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[AssociativeMemoryTopology]]
 [[AthermalDynamics]]
 [[BackflowTransformation]]
+[[BarrierConditionedTrajectory]]
 [[Bidirectional_Temporal_Enhancement]]
 [[CollectiveSpikingDynamics]]
 [[CrossLayer_SignalRouting]]

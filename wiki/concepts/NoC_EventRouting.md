@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Environmental_Capability_Context]]
 [[EventDrivenAsync]]
 [[EventDrivenAsynchronousRouting]]
+[[EventDriven_Interconnect]]
 [[FPGACongestionHotspotMitigation]]
 [[FunctionalHardwareComposition]]
 [[Heterogeneous_Integration]]

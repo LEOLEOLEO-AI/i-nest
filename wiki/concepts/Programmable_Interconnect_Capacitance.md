@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[BarrierConditionedTrajectory]]
+[[Bond_Operation_Algebra]]
 [[Chemical_Bond_Operation_Algebra]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -28,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[ControlDrivenCriticalFluctuations]]
 [[Critical_Region_Extension]]
 [[CrossbarInterconnect]]
+[[DBF_Reconfigurable_Processor]]
 [[EventDrivenAsync]]
 [[EventDrivenAsynchronousRouting]]
 [[EvolvingArchitectureDynamics]]

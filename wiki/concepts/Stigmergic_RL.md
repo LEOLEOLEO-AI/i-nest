@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenRiskAssessment]]
+[[FibonacciMonitoredCriticality]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

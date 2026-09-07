@@ -24,12 +24,22 @@ Auto-extracted concept from raw material compilation.
 [[Brain_Scale_Parameter_Baseline]]
 [[ChipletRoutingFabric]]
 [[ChipletWaferInterconnectScaling]]
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration]]
 [[Chiplet_Integration_Route]]
+[[Chiplet_Interconnect_Topology]]
+[[Interconnect_Routing]]
 [[Memory_Wall]]
+[[Network_Topology_Design]]
 [[OpticalNeuralNetworkTopology]]
+[[SDI_Bond]]
 [[SDI_iNEST_Wafer]]
 [[SDSoW]]
+[[SDSoW_Architecture]]
 [[Wafer_Scale_Integration]]
+[[iNEST]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

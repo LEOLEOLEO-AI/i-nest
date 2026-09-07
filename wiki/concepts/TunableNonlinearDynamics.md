@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[156QubitScale]]
 [[AdaptiveFunctionalTopology]]
 [[CoexistencePhaseDiagram]]
+[[CoexistencePhaseTransition]]
 [[CouplingMatrixRecovery]]
 [[CouplingTopologyMemoryLink]]
 [[Crystallized_Neural_Manifolds]]

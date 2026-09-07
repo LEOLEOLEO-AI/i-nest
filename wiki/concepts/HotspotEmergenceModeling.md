@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[CollectiveStateResilience]]
 [[Contested_Priors_Mechanism]]
 [[CoupledOscillatorReservoir]]
+[[CouplingMatrixRecovery]]
 [[Coupling_Strength_Encoding]]
 [[CriticalFixedPoint]]
 [[DendriticReservoirState]]

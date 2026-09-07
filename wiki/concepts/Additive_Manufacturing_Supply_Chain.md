@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AnalogInMemoryComputing]]
 [[Analog_InMemory_Processing]]
 [[ArbitraryWavefunctionConfigurability]]
+[[AvalancheBranchingRatio]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
@@ -65,7 +66,6 @@ Auto-extracted concept from raw material compilation.
 [[Representation_Learning_Generalization]]
 [[Resilient_Satellite_Mesh]]
 [[Self_Organized_Criticality]]
-[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossbarSNNArchitecture]]
 [[Dynamic_Expert_Fusion]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
+[[FunctionalRelevanceDrivenSelfOrganization]]
 [[Interconnect_Routing]]
 [[InterconnectionStrengthEncoding]]
 [[LowRankPerturbation]]

@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[LocalPlasticityPipeline]]
 [[Local_Approximation_Dynamics]]
 [[Network_Topology_Design]]
 [[NeuromorphicRadarFrontend]]

@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[OpenLearningEcosystem]]
 [[PacketRoutingForFPGAs]]
+[[Plasticity_vs_Computation_Separation]]
 [[RLFlightControl]]
 [[RedundancyControlledStochasticRouting]]
 [[STDPDrivenConnectivity]]

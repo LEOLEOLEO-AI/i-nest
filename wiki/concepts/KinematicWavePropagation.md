@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Kinematic_Waves]]
 [[LossSpikePhenomenon]]
+[[MixedSignalSNN_CoDesign]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicHardwareCoDesign]]
 [[NeuromorphicHardware]]

@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[EvolutionaryDiversityPreservation]]
 [[Interconnect_Routing]]
 [[LowRankPerturbation]]
+[[Memristive_Solutions]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Nanomaterial_Discovery_ML]]

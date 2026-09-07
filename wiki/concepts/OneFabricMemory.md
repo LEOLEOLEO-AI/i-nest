@@ -28,8 +28,10 @@ Auto-extracted concept from raw material compilation.
 [[EulaminateOverrepresentation]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
+[[NoC_Chiplet_iNEST_Wafer]]
 [[OneFabric_Memory]]
 [[P_Paradigm]]
+[[SDI_Bond]]
 [[SDI_Chip_Indicator_Change]]
 [[TCC]]
 

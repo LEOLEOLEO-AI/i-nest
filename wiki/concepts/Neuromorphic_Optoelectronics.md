@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[ByteDance_Ada_Chip]]
 [[ConcentricDiscreteOpticalVortices]]
 [[Deep_Network_Architecture_Invariant]]
+[[Defense_Industrial_Base_Reshaping]]
 [[Neuromorphic_Computing]]
 [[Synaptic_Plasticity]]
 [[advanced packaging]]

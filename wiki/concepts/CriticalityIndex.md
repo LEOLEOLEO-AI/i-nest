@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Discrete_Event_Spike_Simulation]]
 [[EEG_Criticality]]
 [[ElasticSpikingTransformer]]
+[[EventDrivenMotionDeblurring]]
 [[EventDrivenTemplateUpdate]]
 [[FPGAInference]]
 [[HigherOrderAvalanche]]

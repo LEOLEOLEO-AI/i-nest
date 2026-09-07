@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[GenerativeTopologyModels]]
 [[Heterogeneous_Chiplet_Customization]]
 [[Heterogeneous_Integration]]
+[[MitigationLayers]]
 [[MultiplicativeGain]]
 [[Network_Topology_Design]]
 [[PhotonicPackagingEfficiency]]
@@ -66,7 +67,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TemporalComplexity]]
 [[analog computation]]
-[[chiplet interconnect]]
 [[iNEST]]
 
 ## Sources

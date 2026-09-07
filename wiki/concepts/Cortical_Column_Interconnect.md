@@ -22,9 +22,11 @@ Auto-extracted concept from raw material compilation.
 
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[FlagOS_2_0]]
+[[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[MetricComputationAuthenticity]]
+[[National_Mesoscale_Innovation_Center]]
 [[Neuromorphic_Computing]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]

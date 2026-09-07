@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Differential_Encoding]]
 [[EntropyBoundaryMaintenance]]
 [[EpoxyMoldingCompoundFlow]]
+[[GateModelQuantumOptimization]]
 [[Intelligence_Emergence]]
 [[KV_Cache_To_BoundaryObject]]
 [[KV_Cache_to_BoundaryObject_Transition]]

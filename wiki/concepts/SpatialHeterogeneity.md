@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[DiscreteScaleInvariance]]
 [[Dynamics_Matching]]
 [[Evolutionary_Reservoir_Adaptation]]
+[[FitnessGuidedTopologySearch]]
 [[HybridReservoirComputing]]
 [[MechanicalReservoirComputing]]
 [[NISQHardwareAwareEncoding]]

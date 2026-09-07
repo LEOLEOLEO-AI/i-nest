@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[DTGA]]
 [[DarkSiliconAwarePowerGating]]
 [[FPGA_Neuromorphic_Architectures]]
+[[FerroelectricMemoryCell]]
 [[GenerativeTopologyModels]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

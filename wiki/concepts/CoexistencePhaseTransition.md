@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Prior_Resolution]]
 [[CouplingTopologyMemoryLink]]
 [[Coupling_Strength_Encoding]]
+[[Crystallized_Neural_Manifolds]]
 [[DendriticReservoirState]]
 [[DeviationScalingIndex]]
 [[EcosystemTopologyCoupling]]

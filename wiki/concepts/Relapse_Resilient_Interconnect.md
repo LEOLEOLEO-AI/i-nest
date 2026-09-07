@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_Faculty_Forum_2026]]
 [[AI_FullSpectrum_Strategy]]
+[[AI人工智能 卷积神经网络（CNN）_w3cschool]]
 [[Allreduce_Latency_Probe]]
 [[AnalogDomainCompression]]
 [[AndersonTransition]]
@@ -58,10 +59,12 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[SixClassSkeletonAsRPrimitiveSpace]]
 [[SuperparamagneticSwitchingRate]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
+[[神经网络]]
 [[类脑芯片]]
 
 ## Sources

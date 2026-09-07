@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[ElasticSpikingTransformer]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
+[[EnergyEfficientSNN]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

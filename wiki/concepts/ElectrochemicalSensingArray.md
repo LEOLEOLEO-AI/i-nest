@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[CorticalWaveRouting]]
 [[Environmental_Capability_Context]]
+[[EventDriven_Interconnect]]
 [[FirstPrinciples_Derivation]]
 [[Hebbian_Embedding_Dynamics]]
 [[Heterogeneous_Integration]]

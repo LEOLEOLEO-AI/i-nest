@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[ChargeDomainAttention]]
 [[ConstructedRealityState]]
 [[Continuous_Control_SNN_Stability]]
+[[CriticalityBasedClassification]]
 [[CriticalityDrivenIntegration]]
 [[Criticality]]
 [[CrossDomain_Integration]]

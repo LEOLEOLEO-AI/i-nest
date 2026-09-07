@@ -25,11 +25,12 @@ Auto-extracted concept from raw material compilation.
 [[ANN_SNN_WeightSpaceGap]]
 [[Adaptive_Deep_Brain_Stimulation]]
 [[AstrocyteInspiredRepair]]
+[[Avoided_Criticality]]
 [[BurstTemporalPlasticity]]
 [[Neuromorphic_Computing]]
 [[SNN]]
-[[Spiking neural network]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 
 ## Sources

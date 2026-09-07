@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[LLMDrivenPathSelection]]
+[[LocalPlasticityPipeline]]
 [[MatrixShapePhaseTransition]]
 [[NetworkArchitectureSearch]]
 [[Network_Topology_Design]]

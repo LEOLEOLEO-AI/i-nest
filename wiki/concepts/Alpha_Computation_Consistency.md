@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[DTGA]]
 [[DataProvenanceIntegrity]]
 [[Deep_Network_Architecture_Invariant]]
+[[Deep_Network_Layer_Stacking]]
 [[EulaminateOverrepresentation]]
 [[Exponential_CST_Coupling]]
 [[Heterogeneous_Integration]]
@@ -82,7 +83,6 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect_Memristor]]
 [[Wafer_Scale_Neuromorphic]]
 [[Wafer_Scale_Neuromorphic_Integration]]
-[[chiplet interconnect]]
 [[complex system]]
 [[residual connection]]
 

@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossDomain_Synthesis]]
 [[CrossLingualIdiomGraph]]
 [[DARPA_Technology_Incubation]]
+[[DelayRobustEmergence]]
 [[GenericObjectTracking]]
 [[Independent_EdgeAI_Player_Endgame]]
 [[Intelligence_Emergence]]

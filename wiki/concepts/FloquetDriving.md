@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_iNEST_Wafer]]
 [[NoC_SDI]]
 [[NoC_SDI_Integration]]
+[[OptomechanicalNonlinearity]]
 [[SDI_Bond]]
 [[SDI_NPU_NoC_Integration]]
 [[SDI_STDP]]

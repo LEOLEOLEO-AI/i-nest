@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Critical_Region_Extension]]
 [[DelayPropagationDynamics]]
 [[EdgeIoTEnergyAwareness]]
+[[ElectricFieldModulatedCoupling]]
 [[Emergent_Order_Deep_Belief_Networks]]
 [[GrandCanonicalOptimization]]
 [[Intelligence_Emergence]]

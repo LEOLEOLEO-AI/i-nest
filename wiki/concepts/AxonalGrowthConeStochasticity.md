@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[BCM滑动阈值]]
 [[CST_Synergy_Coordination]]
 [[CST_V42_SelfConsistency]]
+[[CertifiedBifurcationDetection]]
 [[ClassicalQuantum_Query_Benchmark]]
 [[Complex_System_Theory]]
 [[Consumer_GPU_Inference]]

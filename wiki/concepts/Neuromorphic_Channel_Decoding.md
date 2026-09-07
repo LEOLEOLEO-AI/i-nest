@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Complexity_Emergence]]
 [[Complexity_Emergence_Engineering]]
+[[Continuous_Control_Spike_Timing_Sensitivity]]
 [[CooperativeEmergenceThreshold]]
 [[CooperativeEmergence]]
 [[DevelopmentalNeuromorphicAdaptation]]
@@ -51,7 +52,6 @@ Auto-extracted concept from raw material compilation.
 [[SDI节点接口规范与化合键定义]]
 [[SNN]]
 [[SNN_Sparsity_InformationBound]]
-[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[神经网络]]
 

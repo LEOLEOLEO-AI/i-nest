@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CongestionAwareNoCPlacement]]
 [[Critical_Region_Extension]]
 [[DARPA_ProjectManager_Model]]
+[[GeneralIntelligenceSubstrate]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Topology]]
 [[Network_Topology_Design]]
@@ -37,6 +38,8 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[TCC]]
 [[Topology_Centric_Computing]]
+[[iNEST]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

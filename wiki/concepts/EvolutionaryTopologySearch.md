@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_iNEST_Wafer]]
 [[NoC_SDI]]
 [[Photopolymerization_NoC]]
+[[ReliabilityOverheadTradeoff]]
 [[SDI_Bond]]
 [[SDI_NPU_NoC_Integration]]
 [[SparseTemporalEncoding]]

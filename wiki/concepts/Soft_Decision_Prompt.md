@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[SpikeRatePrecisionTradeoff]]
 [[Spike_Encoding_of_fMRI]]
+[[SpikingNeuronOptimization]]
 [[Spiking_Neural_Network]]
 [[StochasticBinaryDynamics]]
 [[SynapticWeightPlasticity]]

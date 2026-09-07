@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Ferroelectric_Devices]]
 [[Ferroelectric_Synaptic_Devices]]
 [[HigherOrderStochasticProcess]]
+[[HodgkinHuxleyDynamics]]
 [[InNetworkNeuromorphicAdaptation]]
 [[InNetworkNeuromorphic]]
 [[In_Network_Neuromorphic]]

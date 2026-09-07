@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[DataProvenanceIntegrity]]
 [[Deep_Network_Architecture_Invariant]]
 [[EulaminateOverrepresentation]]
+[[Evolutionary_Structure_Computability]]
 [[Exponential_CST_Coupling]]
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
@@ -85,7 +86,6 @@ Auto-extracted concept from raw material compilation.
 [[TemporalComplexity]]
 [[TopologyFragility]]
 [[UniversalIntelligence_Emergence]]
-[[chiplet interconnect]]
 [[complex system]]
 [[residual connection]]
 

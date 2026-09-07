@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[Controlled_Release_Kinetics]]
+[[CorticalTravelingWave]]
 [[CorticalWaveRouting]]
 [[Dynamic_Expert_Routing]]
 [[ExplainableEnergyAI]]

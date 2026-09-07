@@ -37,14 +37,18 @@ Auto-extracted concept from raw material compilation.
 [[EMIB_Bridge]]
 [[Heterogeneous_3D_Stacking]]
 [[Heterogeneous_Integration]]
+[[HighDensitySiliconInterposer]]
 [[Interconnect_Bottleneck]]
 [[Interconnect_Topology]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
+[[NoC]]
 [[NoC_Chiplet_iNEST_Wafer]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
-[[chiplet interconnect]]
+[[iNEST]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3D_Heterogeneous_Integration]]
+[[3d]]
 [[AI_Driven_Power_Density_Scaling]]
 [[AdaptiveGraphDiffusion]]
 [[Adaptive_Intelligence_Principle]]
@@ -31,8 +32,10 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[Compute_In_Memory_Neuromorphic]]
 [[DecliningModularity]]
+[[Heterogeneous_Integration]]
 [[In_Memory_Computing]]
 [[Interconnect_Routing]]
+[[LightweightNeuromorphicArchitecture]]
 [[Neuromorphic_Computing]]
 [[TCC]]
 [[advanced packaging]]

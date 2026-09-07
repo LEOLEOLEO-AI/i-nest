@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CST计量仪]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Complex_System_Theory]]
 [[Complexity_Emergence]]
@@ -41,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[InNetworkNeuromorphicEmergence]]
 [[InNetworkNeuromorphic]]
+[[In_Network_Neuromorphic]]
 [[Intelligence_Emergence]]
 [[Loihi2_OnChip_Learning]]
 [[Loihi]]
@@ -63,6 +65,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
+[[SDI_TCC_iNEST_Interconnect]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[Second_Curve_Industry_Platform]]
@@ -72,7 +75,6 @@ Auto-extracted concept from raw material compilation.
 [[SystemLevelNonlinearity]]
 [[TCC]]
 [[Textbook_Paradigm_Definition]]
-[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -76,6 +76,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Renormalization_Group]]
 [[Renormalization_Group_Convergence]]
+[[Renormalization_Group_Emergence]]
 [[STDP_Plasticity]]
 [[Spacetime_Coupling_Coefficient]]
 [[SpatiotemporalComplexityIndex]]
@@ -84,7 +85,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TemperatureSensitivityControl]]
 [[TemporalComplexity]]
-[[chiplet interconnect]]
 [[complex system]]
 [[residual connection]]
 

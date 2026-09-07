@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Accelerated_SNN]]
 [[FPGA_Neuromorphic_Acceleration]]
 [[FPGA_SNN_Inference]]
+[[IMPLY_ISA]]
 [[Intelligence_Emergence]]
 [[MixedLabyrinthFractal]]
 [[MultiFPGAScaling]]

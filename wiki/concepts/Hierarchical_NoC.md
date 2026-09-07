@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Decoupled_Priors]]
 [[Deep_Network_Architecture_Invariant]]
 [[Deep_Network_Layer_Stacking]]
+[[DiagnosticReportFramework]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]

@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[BackpropagationFreeLearning]]
 [[Beyond_Moore_Pathway]]
 [[Bias_Origin_Taxonomy]]
+[[BioInspiredGeneralist]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]

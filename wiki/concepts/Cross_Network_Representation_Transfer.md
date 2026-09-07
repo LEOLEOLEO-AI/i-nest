@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Localized_Feedback_Array]]
 [[MoE_Routing]]
+[[NeuromorphicObserverArchitecture]]
 [[Neuromorphic_Computing]]
 [[NonHermitianSpectralCorrelations]]
 [[SDI_Bond]]

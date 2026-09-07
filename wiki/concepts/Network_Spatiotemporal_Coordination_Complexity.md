@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Advanced_Packaging_Route]]
 [[Advanced_Packaging_for_Space]]
 [[AnalogDomainCompression]]
+[[ApproximationFidelityTradeoff]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_Integration]]
 [[CongestionAwareNoCPlacement]]
+[[DynamicServiceComposition]]
 [[GPU_Bottleneck_Relief]]
 [[Heterogeneous_Integration]]
 [[Microsecond_Link_Reconfiguration]]

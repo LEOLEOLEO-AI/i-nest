@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[3DHI_Chiplet_Integration]]
 [[3DHI_Stacking]]
 [[3D_IC_Stacking]]
+[[3D_Integration]]
 [[3d]]
 [[4H_SiC_SubstrateProcessing]]
 [[AdvancedPackagingInterconnect]]
@@ -67,7 +68,6 @@ Auto-extracted concept from raw material compilation.
 [[ThroughSiliconVia_TSV_ThermalPath]]
 [[WeedIdentification]]
 [[advanced packaging]]
-[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[CircuitTopologySearch]]
 [[CrossDomain_Integration]]
 [[CrossLingualIdiomGraph]]
+[[Dynamic_Communication_Reconfiguration]]
 [[Heterogeneous_Integration]]
 [[In_Package_Neuromorphic_Integration]]
 [[MetaFAIR_ArchitectureDiscovery]]

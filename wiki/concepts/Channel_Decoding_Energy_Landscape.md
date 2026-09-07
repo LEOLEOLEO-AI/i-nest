@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[BoseCondensateNeuralAnalogy]]
 [[BosonicFieldTopology]]
 [[CatalyticReactionNetwork]]
+[[CerebellarLikeCircuit]]
 [[Complex_System_Theory]]
 [[DAGGER_Algorithm]]
 [[DisorderInducedLocalization]]

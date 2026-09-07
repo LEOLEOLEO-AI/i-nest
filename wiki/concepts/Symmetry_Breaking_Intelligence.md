@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[ArtificialProprioception]]
 [[Attention_Based_Dynamic_Neuromorphic_Computing]]
 [[ClosedLoopNeuromorphicControl]]
+[[DecliningModularity]]
 [[Dynamic_Neuromorphic_Computing]]
 [[Neuromorphic_Computing]]
 [[iNEST]]

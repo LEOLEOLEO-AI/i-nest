@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[3nm_Autonomous_Driving_Chip]]
 [[AINext_Initiative]]
 [[AI_Assisted_Energy_Management]]
+[[AI_Supply_Chain_Increment]]
 [[Active_Inference_Agent]]
 [[AdaptiveArchitecture]]
 [[AdaptiveDensityControl]]

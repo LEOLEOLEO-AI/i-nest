@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
+[[DiagnosticReportFramework]]
 [[EulaminateOverrepresentation]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Topology]]
@@ -40,7 +41,6 @@ Auto-extracted concept from raw material compilation.
 [[Second_Curve_Wafer_Industry_Platform]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
-[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

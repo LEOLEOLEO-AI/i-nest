@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Deep_Network_Architecture_Invariant]]
+[[DynamicServiceComposition]]
 [[EulaminateOverrepresentation]]
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
@@ -43,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Spatiotemporal_Synergy]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
+[[Neuromorphic_Computing]]
 [[NoC]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[NoC_Chiplet_iNEST_Wafer]]
@@ -68,7 +70,6 @@ Auto-extracted concept from raw material compilation.
 [[WaferScaleCoDesign]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
-[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_Topology]]
 [[Military_AI_Revolution]]
 [[Network_Topology_Design]]
+[[NeuromorphicPnPBenchmark]]
 [[Neuromorphic_Computing]]
 [[SpikeTimingAbstraction]]
 [[SpikeTimingUncertaintyEncoding]]

@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[HigherOrderPublicGoodsGame]]
 [[Intelligence_Emergence]]
 [[MagicStateDistillationOverheadModel]]
+[[MultiplicativeGainCondition]]
 [[NetworkMechanismsOfWaveGeneration]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

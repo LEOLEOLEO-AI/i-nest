@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_NoC_Interconnect]]
 [[Chiplet_Packaging]]
 [[Chiplet_Packaging_Topology]]
+[[Collective_Offloading]]
 [[EulaminateOverrepresentation]]
 [[GPU_Exclusivity_Bottleneck]]
 [[HardwareAware_SelfOrganization]]
@@ -42,7 +43,6 @@ Auto-extracted concept from raw material compilation.
 [[SelfOrganization]]
 [[TCC]]
 [[advanced packaging]]
-[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

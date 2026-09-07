@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[ActionPrototypeClustering]]
 [[Activity_Dependent_Plasticity]]
 [[AnytimePointCloudRecognition]]
+[[BackflowTransformation]]
 [[Complex_System_Theory]]
 [[Neuromorphic_Computing]]
 [[Synaptic_Plasticity]]

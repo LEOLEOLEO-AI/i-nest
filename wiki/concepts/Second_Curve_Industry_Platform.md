@@ -86,7 +86,7 @@ Auto-extracted concept from raw material compilation.
 [[ThermalNoiseHarnessing]]
 [[TopologyAware_Renormalization]]
 [[TopologyFragility]]
-[[chiplet interconnect]]
+[[UniversalIntelligence_Emergence]]
 [[iNEST]]
 [[iNEST_Interconnect]]
 [[iNEST_Wafer]]

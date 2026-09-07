@@ -20,11 +20,19 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3D_IC_Stacking]]
 [[3D_Integrated_Chiplet_Stacking]]
+[[3d]]
 [[AdvancedPackagingInterconnect]]
 [[ChipletWaferInterconnectScaling]]
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Packaging]]
+[[Chiplet_Stacking]]
+[[Heterogeneous_3D_Stacking]]
+[[Interconnect_Topology]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[TCC]]

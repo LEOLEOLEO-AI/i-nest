@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspired_Interception_Control]]
 [[BurstGatedRouting]]
 [[CriticalityDrivenStateTransition]]
+[[CriticalityOffCriticalityTransition]]
 [[Criticality]]
 [[DelayAwareSpikeEventDelivery]]
 [[DynamicTokenSparsity]]

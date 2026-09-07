@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CollectiveSpikingDynamics]]
 [[Communication_Trace_Diagnostics]]
 [[ConductingPolymerDendriteMemory]]
+[[Distributed_Spike_Communication]]
 [[EpidemicThreshold]]
 [[Event_Driven_Orbital_Object_Pipeline]]
 [[Heterogeneous_Integration]]

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Efficient_Coding_Constraint]]
 [[EventBasedAnalogFrontEnd]]
 [[EventDrivenRiskAssessment]]
+[[EventDrivenSensoryEncoding]]
 [[EventDrivenTracking]]
 [[Event_Driven_Architecture]]
 [[InputAdaptiveComputation]]

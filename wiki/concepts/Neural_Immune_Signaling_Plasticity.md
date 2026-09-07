@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[EmulationTheoryObserver]]
 [[FrozenRateOperator]]
+[[HallmarkDrivenCancerModeling]]
 [[InNetworkAgentRewiring]]
 [[In_Context_Learning]]
 [[Intelligence_Emergence]]

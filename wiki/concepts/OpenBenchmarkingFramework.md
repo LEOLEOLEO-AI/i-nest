@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[PropertyPredictionModeling]]
 [[Reservoir_Computing]]
 [[SNN]]
+[[SpikeRatePrecisionTradeoff]]
 [[SpikingTopologyEvolution]]
 [[Spiking_Neural_Network]]
 [[Stochastic_LIF_Inference]]

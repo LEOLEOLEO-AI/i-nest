@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[ArbitraryWavefunctionConfigurability]]
 [[Architectural_Conditioning]]
+[[CST_Exponential_Gain]]
 [[CST_MasterEquation]]
 [[CircadianGateModulation]]
 [[Complex_System_Theory]]

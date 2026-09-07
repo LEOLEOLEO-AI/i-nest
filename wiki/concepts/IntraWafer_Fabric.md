@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[ScalableNeuromorphicTopology]]
 [[TCC]]
 [[TopologicalDataCompression]]
+[[Topology_Centric_Computing]]
 [[VectorFlowField]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]

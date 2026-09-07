@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AthermalDynamics]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BurstTemporalPlasticity]]
+[[CorticalWaveRouting]]
 [[DiscreteContinuous_Unification]]
 [[DiscreteSTDP]]
 [[DistinguishableHelium4]]

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Driven_Architecture_Search]]
 [[AI_Forum_Demo_Narrative]]
 [[Agile_Resilient_Defense_Ecosystem]]
+[[BandedConnectivityModel]]
 [[Baseline_Draft_Status]]
 [[Closed_Loop_Neuromodulation]]
 [[Complex_System_Theory]]

@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[ErrorSuppressedPipeline]]
 [[FederatedServiceGraph]]
 [[FitnessGuidedTopologySearch]]
+[[MultipartiteEntanglementFractal]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]

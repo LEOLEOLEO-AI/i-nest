@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
 [[AI-ML — 全景导航 (Map of Content)]]
 [[Allreduce_Latency_Probe]]
+[[AndersonTransition]]
 [[Architectural_Conditioning]]
 [[AutonomousAdaptation]]
 [[BigBrainCellularAxis]]
@@ -44,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkNeuromorphicEmergence]]
 [[InNetworkNeuromorphic]]
+[[In_Network_Neuromorphic]]
 [[Intelligence_Emergence]]
 [[NCL神经计算定律详解]]
 [[Network_Topology_Design]]
@@ -61,6 +63,7 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 [[类脑芯片]]
 

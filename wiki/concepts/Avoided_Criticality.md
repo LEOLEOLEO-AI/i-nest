@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AdaptiveDeltaPulseFrequencyEncoding]]
+[[AstrocyteInspiredRepair]]
 [[BigBrainCellularAxis]]
 [[BulletTrainScheduling]]
 [[BurstTemporalPlasticity]]

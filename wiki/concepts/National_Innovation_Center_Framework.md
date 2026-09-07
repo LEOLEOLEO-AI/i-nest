@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveInference]]
 [[AnomalousSpinTransport]]
 [[AstrocyteInspiredRepair]]
+[[Avalanche_Dynamics]]
 [[CSI_Temporal_Encoding]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -56,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[ScaleFreeNetwork]]
 [[SmallWorldNetworks]]
 [[Spiking_Neural_Network]]
+[[Stochastic_LIF_Inference]]
 [[TCC]]
 [[iNEST]]
 

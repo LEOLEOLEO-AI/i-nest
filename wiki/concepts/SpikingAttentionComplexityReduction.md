@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[CollectiveSpikingDynamics]]
 [[ConductingPolymerDendriteMemory]]
+[[Distributed_Spike_Communication]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[Event_Driven_Architecture]]

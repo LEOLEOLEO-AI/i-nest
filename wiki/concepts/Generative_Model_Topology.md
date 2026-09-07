@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[DendriticTaskPartitioning]]
 [[DynamicTopologyMapping]]
 [[DynamicTopology]]
+[[Environmental_Capability_Context]]
 [[FerroelectricDevice]]
 [[Ferroelectric_Devices]]
 [[GraphStructuredRetrieval]]

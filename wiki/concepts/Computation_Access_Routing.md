@@ -54,10 +54,10 @@ Auto-extracted concept from raw material compilation.
 [[SDI_TopologicalControl]]
 [[SelfOrganization]]
 [[Space_Compute_Architecture_Tradeoff]]
+[[Space_Radiation_Hardening]]
 [[TCC]]
 [[TopologyPage_Preloading]]
 [[VectorFlowField]]
-[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

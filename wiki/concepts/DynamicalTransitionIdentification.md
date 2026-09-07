@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[FlexibilityThreshold]]
 [[Intelligence_Emergence]]
 [[JunctionSignalIntegrity]]
+[[Local_Plasticity_Rule]]
 [[ManyBodyLocalizationThermalizationDuality]]
 [[ManyBodyLocalization]]
 [[MemristiveSignedCouplings]]

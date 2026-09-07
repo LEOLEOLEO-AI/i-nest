@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[03 涌现：整体的能力不能还原回个体？ - 得到APP]]
 [[AIRA_NeuralArchSearch]]
 [[Adaptive_Intelligence_Principle]]
+[[Adaptive_Service_Orchestration]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[ArtificialProprioception]]
 [[CavityMethodAnalysis]]

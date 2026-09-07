@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[4H_SiC_SubstrateProcessing]]
 [[AI_Faculty_Forum_2026]]
+[[Active_Inference_Agent]]
 [[Attention_Residuals]]
 [[Automated_Assessment_Framework]]
 [[BackflowTransformation]]

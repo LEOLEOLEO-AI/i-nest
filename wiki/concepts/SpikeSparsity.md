@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeRoutingFabric]]
 [[SpikeTimingPreservation]]
 [[Spike_Event_Driven_Attention]]
+[[SpikingMultimodalFusion]]
 [[Spiking_Neural_Network]]
 [[SyntheticInertiaProvision]]
 [[TemporalBatchSynchronization]]

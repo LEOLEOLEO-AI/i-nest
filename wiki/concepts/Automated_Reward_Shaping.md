@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[BrainBodyResonance]]
 [[CascadedAdaptiveCombiners]]
 [[Catastrophic_Forgetting_Mitigation]]
+[[ClosedLoopNeuromorphicControl]]
 [[Cognitive_Relapse_Decoupling]]
 [[Contested_Priors_Architecture]]
 [[CriticalityInducedComputationalCapacity]]

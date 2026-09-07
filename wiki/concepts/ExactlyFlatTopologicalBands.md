@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenRiskAssessment]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
+[[FunctionalRelevanceDrivenSelfOrganization]]
 [[HigherOrderNetworkDynamics]]
 [[HigherOrderNetwork]]
 [[InNetworkComputing]]

@@ -28,8 +28,8 @@ Auto-extracted concept from raw material compilation.
 [[HierarchicalSpikePropagation]]
 [[HighThroughputPhenotyping]]
 [[HigherOrderAvalanche]]
+[[Neural_Manifold_Crystallization]]
 [[Neuromorphic_Computing]]
-[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

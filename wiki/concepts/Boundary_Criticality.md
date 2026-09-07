@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Generative_Graph_Models]]
 [[HierarchicalBayesianCommunityDetection]]
 [[InNetworkComputing]]
+[[MacroCriticalityEmergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

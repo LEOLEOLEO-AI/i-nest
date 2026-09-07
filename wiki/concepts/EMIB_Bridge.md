@@ -56,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_3D_Stacking]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[InterChipletPHYModeling]]
 [[Interconnect_Routing]]
 [[Interconnect_Topology]]
 [[Memory_Wall]]
@@ -72,7 +73,6 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Packaging]]
 [[advanced packaging]]
-[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

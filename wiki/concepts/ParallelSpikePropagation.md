@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[HigherOrderAvalanche]]
 [[Interconnect_Routing]]
+[[Local_Approximation_Dynamics]]
 [[Network_Topology_Design]]
 [[SNN]]
 [[SNN_NeuroprostheticPipeline]]

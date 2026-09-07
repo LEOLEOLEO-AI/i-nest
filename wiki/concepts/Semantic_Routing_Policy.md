@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[PhysicallyInformedDeepLearning]]
 [[Pseudofractal_Web]]
 [[RedundancyControlledStochasticRouting]]
+[[STDPDrivenConnectivity]]
 [[ScalableNeuromorphicTopology]]
 [[SelfOrganization]]
 [[TCC]]

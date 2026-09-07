@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_Driven_Power_Density_Scaling]]
 [[AcceleratedMaterialScreening]]
+[[Active_Inference_Topology]]
 [[AdaptiveGraphDiffusion]]
 [[AdaptiveModelPartitioning]]
 [[Adaptive_Path_Selection]]

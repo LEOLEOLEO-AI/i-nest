@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Local_Approximation_Dynamics]]
+[[MultiSourceTaskonomy]]
 [[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Resilient_Satellite_Mesh]]

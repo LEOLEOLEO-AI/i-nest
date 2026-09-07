@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Attention_Residuals]]
 [[Beyond_Moore_Pathway]]
+[[CST_MasterEquation]]
 [[CST计量仪]]
 [[Causal_Emergence]]
 [[Causal_Emergence_Architecture]]
@@ -69,6 +70,7 @@ Auto-extracted concept from raw material compilation.
 [[Textbook_Paradigm_Definition]]
 [[TopologicalAndersonChernInsulator]]
 [[TopologyCentricEngineeringBase]]
+[[causal emergence]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

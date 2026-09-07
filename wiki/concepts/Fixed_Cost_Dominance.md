@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[BrainBodyResonance]]
 [[ClosedLoopNeuromorphicControl]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
+[[DataDrivenCellularAxis]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[HippocampalNeocorticalIntelligence]]

@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Interconnect_Scaling]]
 [[LatencyCoding]]
+[[LocalQuantumLearningRule]]
 [[Memristive_Topology]]
 [[NCL神经计算定律详解]]
 [[Network_Topology_Design]]

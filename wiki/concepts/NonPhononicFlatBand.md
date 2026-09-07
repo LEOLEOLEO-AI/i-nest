@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[BosonicFieldTopology]]
 [[CatalyticReactionNetwork]]
 [[Complex_System_Theory]]
+[[CorticalEfficiencyReliabilityExchange]]
 [[DAGGER_Algorithm]]
 [[DisorderInducedLocalization]]
 [[Edge_Temporal_Signal_Processing]]

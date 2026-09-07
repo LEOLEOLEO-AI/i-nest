@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Accelerated_SNN]]
 [[FPGA_Neuromorphic_Acceleration]]
 [[NeuromorphicTransformerPipeline]]
+[[NeuromorphicVisionPipeline]]
 [[Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]
 [[SNN]]

@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicRL]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
+[[ParallelMultiCompartmentSNN]]
 [[ProjectiveMeasurementRouting]]
 [[SDPromptGuidedExpertFusion]]
 [[SNN]]

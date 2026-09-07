@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3d]]
+[[Active_Inference_Agent]]
 [[AdaptiveFlexibilityThreshold]]
 [[Automated_Assessment_Framework]]
 [[Autonomous_Physical_Computation]]

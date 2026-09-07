@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[SimulationReproducibilityAudit]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[iNEST]]
 [[无反向传播的 4D 连续蚁群神经网络拓扑搜索]]
 [[涌现]]

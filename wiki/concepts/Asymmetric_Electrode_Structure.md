@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[BrownianCastleInterface]]
 [[Free_Energy_Principle]]
 [[IGZO_ThinFilm_Channel]]
+[[Nanomaterial_Discovery_ML]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]

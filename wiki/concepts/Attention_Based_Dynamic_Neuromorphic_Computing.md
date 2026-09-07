@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Service_Orchestration]]
 [[AnytimePointCloudRecognition]]
 [[ArtificialProprioception]]
+[[ClosedLoopNeuromorphicControl]]
 [[Dynamic_Neuromorphic_Computing]]
 [[Neuromorphic_Computing]]
 [[iNEST]]

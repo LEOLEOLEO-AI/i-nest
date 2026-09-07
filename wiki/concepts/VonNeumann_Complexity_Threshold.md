@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Network_Layer_Stacking]]
 [[EulaminateOverrepresentation]]
 [[Evolutionary_Computability]]
+[[Evolutionary_Structure_Computability]]
 [[Exponential_CST_Coupling]]
 [[FlagOS_2_0]]
 [[Free_Energy_Principle]]
@@ -86,7 +87,6 @@ Auto-extracted concept from raw material compilation.
 [[TemporalComplexity]]
 [[Topology_Interconnect]]
 [[UniversalIntelligence_Emergence]]
-[[chiplet interconnect]]
 [[complex system]]
 [[residual connection]]
 

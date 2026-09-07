@@ -43,12 +43,12 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenControlLoop]]
 [[EventDrivenDataAssociation]]
 [[EventDrivenTemplateUpdate]]
+[[EventDrivenTextEncoding]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[SOC]]
 [[Self_Organized_Criticality]]
-[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

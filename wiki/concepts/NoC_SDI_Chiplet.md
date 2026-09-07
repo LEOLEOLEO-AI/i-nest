@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC]]
+[[NoC_Chiplet_iNEST_Wafer]]
 [[NoC_SDI]]
 [[P_Paradigm]]
 [[SDI_Bond]]
@@ -36,7 +37,6 @@ Auto-extracted concept from raw material compilation.
 [[SDI_NPU_NoC_Integration]]
 [[TCC]]
 [[WaferScale_Chiplet_Interconnect]]
-[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

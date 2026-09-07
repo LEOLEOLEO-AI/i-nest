@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AlternativeBridgingModels]]
 [[AndersonTransition]]
 [[AnisotropicGaussianPrimitives]]
+[[BioInspiredGeneralist]]
 [[Categorical_Closure_Criterion]]
 [[CoPackagedOptics]]
 [[CouplingTopologyInducedDynamics]]

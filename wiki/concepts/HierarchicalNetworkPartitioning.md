@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration_Route]]
 [[Complex_System_Theory]]
 [[DTGA]]
+[[Distributed_Spike_Communication]]
 [[Dynamic_Expert_Fusion]]
 [[Environmental_Capability_Context]]
 [[Heterogeneous_Integration]]

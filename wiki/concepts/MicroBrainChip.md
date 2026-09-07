@@ -27,12 +27,14 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveSpeechToSpikeEncoding]]
 [[AstrocyteInspiredRepair]]
 [[AsynchronousCircuits]]
+[[Avoided_Criticality]]
 [[Branch_Prediction_in_Pipelined_Processors]]
 [[BurstTemporalPlasticity]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[SpikeEncoding]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 
 ## Sources

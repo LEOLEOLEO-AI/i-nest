@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicRadarFrontend]]
 [[Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]
+[[Quantization_HLS_FPGA]]
 [[SNN]]
 [[SNNtoFPGADesignFlow]]
 [[Spiking_Neural_Network]]

@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGASNNMemoryOptimization]]
 [[FixedOverheadCost]]
 [[FixedOverheadPenalty]]
+[[GradientFreeLowRankTraining]]
 [[HippocampalNeocorticalIntelligence]]
 [[Hope_Architecture]]
 [[InNetworkAgentRewiring]]

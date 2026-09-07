@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[GroupInteractionThreshold]]
 [[Intelligence_Emergence]]
 [[MassConservationBias]]
+[[Mott_Device_Array]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[NonlinearDynamicalSampling]]

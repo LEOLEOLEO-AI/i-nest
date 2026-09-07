@@ -42,9 +42,9 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[SNN_VisualSemanticDecoder]]
 [[SpikeEventScheduling]]
-[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[TriAxiomCalibration]]
+[[UnifiedHypergraphStateSpace]]
 [[iNEST]]
 
 ## Sources

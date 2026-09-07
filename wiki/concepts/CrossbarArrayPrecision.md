@@ -66,11 +66,11 @@ Auto-extracted concept from raw material compilation.
 [[SpatialPatternStorage]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
+[[ThroughSiliconVia_TSV_ThermalPath]]
 [[TopologyProgramming]]
 [[WideLink_NoC_Router]]
 [[advanced packaging]]
 [[analog computation]]
-[[chiplet interconnect]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

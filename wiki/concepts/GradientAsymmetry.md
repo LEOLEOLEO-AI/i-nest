@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_SNN_Inference]]
 [[Frontier_Innovation_Mapping]]
 [[HardwareAware_DesignSpace]]
+[[IMPLY_ISA]]
 [[Nonlinear_Gain]]
 [[PPT]]
 [[SNN]]

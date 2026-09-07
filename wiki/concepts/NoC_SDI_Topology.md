@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[Photonic_Chiplet_Interconnect]]
 [[SDI_Bond]]
+[[SDI_Chiplet_Topology]]
 [[SDI_NPU_NoC_Integration]]
 [[SDI_Topology]]
 [[SDSoW]]
@@ -61,7 +62,6 @@ Auto-extracted concept from raw material compilation.
 [[WaferScale_Chiplet_Interconnect]]
 [[WideLink_NoC_Router]]
 [[advanced packaging]]
-[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

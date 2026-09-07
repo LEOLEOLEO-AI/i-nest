@@ -60,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[TCC_SpikingIntegration]]
+[[TemporalSpikePattern]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]
 [[神经网络]]

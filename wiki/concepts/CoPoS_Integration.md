@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Topology_Packaging]]
 [[CoPackagedOptics]]
 [[CoPoS]]
+[[CommunicationOverlapMechanism]]
 [[Complex_System_Theory]]
 [[EMIB_Bridge]]
 [[Free_Energy_Principle]]
@@ -70,7 +71,6 @@ Auto-extracted concept from raw material compilation.
 [[TemporalComplexity]]
 [[Topology_Encapsulation]]
 [[advanced packaging]]
-[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

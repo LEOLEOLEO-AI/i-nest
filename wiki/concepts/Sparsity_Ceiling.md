@@ -56,7 +56,6 @@ Auto-extracted concept from raw material compilation.
 [[OpportunisticRouting]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Spike_Encoding_of_fMRI]]
-[[Spiking neural network]]
 [[SpikingBrain-1_0_类脑脉冲大模型的革命性突破_]]
 [[SpikingNeuronOptimization]]
 [[Spiking_Neural_Network]]
@@ -65,6 +64,7 @@ Auto-extracted concept from raw material compilation.
 [[忆阻器]]
 [[新型计算]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[神经形态计算]]
 [[类脑芯片]]
 
 ## Sources

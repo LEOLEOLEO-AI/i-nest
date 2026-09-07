@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_TopologicalControl]]
 [[Space_Radiation_Hardening]]
 [[TCC]]
+[[TopologyAwarePhotonicInterconnect]]
 [[TopologyGradientSignal]]
 [[VectorFlowField]]
 [[涌现]]

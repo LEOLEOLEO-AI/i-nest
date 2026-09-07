@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[DataDrivenMaterialDesign]]
 [[DiscreteScaleInvariance]]
 [[DivergentHigherAreaRanking]]
+[[FitnessGuidedTopologySearch]]
 [[HardwareAware_DesignSpace]]
 [[NISQHardwareAwareEncoding]]
 [[Network_Topology_Design]]

@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Architecture]]
 [[Event_Driven_Communication]]
 [[In_Package_Neuromorphic_Integration]]
+[[Intelligence_Emergence]]
 [[Memristive_Interconnect]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
@@ -52,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[TCC_SpikingIntegration]]
+[[Topology_Centric_Spiking]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

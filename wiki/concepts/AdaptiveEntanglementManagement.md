@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Ant_Swarm_Functional_Control]]
 [[Architectural_Conditioning]]
+[[BarrierConditionedTrajectory]]
 [[Capability_Reserve_Index]]
 [[Cognitive_Relapse_Decoupling]]
 [[CollectiveStateTopology]]
@@ -56,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[Swarm_Coordination]]
 [[TCC]]
 [[UniversalComputationAtCriticality]]
+[[UniversalComputation]]
 [[Universal_Computation_Link]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

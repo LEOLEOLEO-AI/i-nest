@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[HigherOrderTopology]]
 [[Independent_AI_Player_Endgame]]
 [[Intelligence_Emergence]]
+[[NetworkTopologyDrivenIntervention]]
 [[Network_Topology_Design]]
 [[OscillatoryDynamicsTopology]]
 [[P_Paradigm]]

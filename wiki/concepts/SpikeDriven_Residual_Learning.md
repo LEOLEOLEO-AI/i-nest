@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[DeepLinearNetworkCriticality]]
 [[DirectSNNTraining]]
+[[Discrete_Event_Spike_Simulation]]
 [[Interconnect_Routing]]
 [[NetworkCriticality]]
 [[Neuromorphic_Computing]]

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[ITP_STDP_Learning_Engine]]
 [[IntrinsicTimingSTDP]]
 [[IonotronicPhotoplasticity]]
+[[Loihi2_SpikeEncoding]]
 [[Memristive_STDP]]
 [[Neuromorphic_Computing]]
 [[NonEquilibriumPhase]]

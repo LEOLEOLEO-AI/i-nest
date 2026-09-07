@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[DeviceLevelNonlinearity]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Abilities]]
+[[Evolutionary_Computability]]
 [[FirstPrinciples_AI]]
 [[Hierarchical_Reservoir_Topology]]
 [[HypergraphMeanFieldApproximation]]

@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[KinematicWavePropagation]]
 [[LossSpikePhenomenon]]
+[[MixedSignalSNN_CoDesign]]
 [[NeuromorphicHardwareCoDesign]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[Free_Energy_Topology_Mapping]]
+[[GPU_Bottleneck_Relief]]
 [[GenerativeTopologyModels]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Topology]]
@@ -65,8 +66,8 @@ Auto-extracted concept from raw material compilation.
 [[TopologyProgramming]]
 [[Topology_Centric_Computing]]
 [[WaferScaleTopologyCentricComputing]]
+[[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
-[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

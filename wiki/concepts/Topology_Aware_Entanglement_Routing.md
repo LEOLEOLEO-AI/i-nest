@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Logic_Folding]]
 [[NetworkDiffusionCoupling]]
 [[Network_Topology_Design]]
+[[PhotonicPackagingEfficiency]]
 [[RadiationHardened_ProcessNodeScaling]]
 [[SelfOrganization]]
 [[TCC]]

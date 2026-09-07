@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[Fading_Memory_Property]]
+[[FlagOS_2_0]]
 [[Intelligence_Emergence]]
 [[Long_Range_Interactions]]
 [[MeanFieldSpinGlass]]

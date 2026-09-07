@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[NoC]]
 [[NoC_Chiplet_Wafer_Stack]]
+[[NonFermiLiquidBehavior]]
 [[Nonlinear_Gain]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDSoW]]
@@ -66,6 +67,7 @@ Auto-extracted concept from raw material compilation.
 [[Textbook_Paradigm_Definition]]
 [[TopologicalAndersonChernInsulator]]
 [[TopologyCentricEngineeringBase]]
+[[causal emergence]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

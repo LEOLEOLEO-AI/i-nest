@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[NonlinearTransientDynamics]]
 [[Nonlinear_Dynamics_From_Topology]]
 [[Nonlinear_Gain]]
+[[Parallelized_Hierarchical_Connectome]]
 [[TCC]]
 [[complex system]]
 [[iNEST]]

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3D_Heterogeneous_Integration]]
+[[3d]]
 [[AI_Driven_Power_Density_Scaling]]
 [[AI_FullSpectrum_Strategy]]
 [[AdaptiveGraphDiffusion]]
@@ -33,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[BiasEvaluationMetrics]]
 [[BlumeEmeryGriffithsModel]]
 [[CoPackagedOptics]]
+[[Compact_Boson_Dynamics]]
 [[Compute_In_Memory_Neuromorphic]]
 [[CrossDomain_Integration]]
 [[CrossbarArrayPrecision]]
@@ -41,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Ferroelectric_ComputeInMemory]]
 [[Ferroelectric_Devices]]
 [[FisherInformationMetric]]
+[[Heterogeneous_Integration]]
 [[HybridResistiveMemoryCIM]]
 [[In_Memory_Computing]]
 [[Interconnect_Routing]]

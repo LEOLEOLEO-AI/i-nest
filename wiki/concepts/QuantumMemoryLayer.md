@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[DendriticTaskPartitioning]]
 [[Distributed_Spike_Communication]]
 [[DrivenDissipativeDynamics]]
+[[EventDrivenPlasticity]]
 [[FixedOverheadCost]]
 [[FixedOverheadPenalty]]
 [[HippocampalNeocorticalIntelligence]]

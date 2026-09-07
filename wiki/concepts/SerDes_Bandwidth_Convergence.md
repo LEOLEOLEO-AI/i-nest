@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AdvancedPackagingInterconnect]]
 [[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
+[[ApproximationFidelityTradeoff]]
 [[Chiplet]]
 [[Chiplet_Based_Trusted_Hardware]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -47,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[InInterconnectMemory]]
 [[Intelligence_Emergence]]
 [[InterChipletPHYModeling]]
+[[Interconnect_Routing]]
 [[IsolatedKVBandwidth]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
@@ -67,7 +69,6 @@ Auto-extracted concept from raw material compilation.
 [[TopologyAware_Embedding]]
 [[Topology_Aware_NoC_Routing]]
 [[advanced packaging]]
-[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

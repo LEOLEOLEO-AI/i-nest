@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[EulaminateOverrepresentation]]
 [[GlobalDecision_LocalExecution_ControlPlane]]
 [[Heterogeneous_Integration]]
+[[Integrated_Cooling]]
 [[Interconnect_Topology]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[MetaFAIR_ArchitectureDiscovery]]
@@ -66,7 +67,6 @@ Auto-extracted concept from raw material compilation.
 [[WaferScale_System]]
 [[Wafer_Chiplet_Topology_Interconnect]]
 [[Wafer_Scale_Integration]]
-[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

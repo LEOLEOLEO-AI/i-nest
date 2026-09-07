@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AnalogDomainCompression]]
 [[AnisotropicGaussianPrimitives]]
 [[AnomalousSpinTransport]]
+[[AstrocyteInspiredRepair]]
 [[Avalanche_Dynamics]]
 [[BayesianDomainEvolution]]
 [[BehavioralFeedbackLoop]]

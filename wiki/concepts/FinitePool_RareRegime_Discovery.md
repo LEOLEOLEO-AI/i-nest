@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[HardwareSoftwareCoThermalManagement]]
 [[HigherOrderConnectivity]]
 [[Intelligence_Emergence]]
+[[IntrospectiveRecursion]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[TCC]]

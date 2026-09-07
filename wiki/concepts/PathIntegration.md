@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicNetworkFabric]]
 [[Neuromorphic_Computing]]
+[[NonHermitianTopologicalAndersonInsulator]]
 [[Nonlinear_Gain]]
 [[PromptBasedTimeSeriesForecasting]]
 [[QuantumAnnealerSynapticTest]]
@@ -64,6 +65,7 @@ Auto-extracted concept from raw material compilation.
 [[TemporalSemanticEntropy]]
 [[iNEST]]
 [[neuromorphic substrate]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

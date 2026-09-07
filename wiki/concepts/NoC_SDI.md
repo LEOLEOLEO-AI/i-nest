@@ -72,7 +72,9 @@ Auto-extracted concept from raw material compilation.
 [[Renormalization_Group]]
 [[Renormalization_Group_Convergence]]
 [[ReproducibleReservoirComputing]]
+[[Reservoir_Computing]]
 [[SDI_Bond]]
+[[SDI_Four_Rules]]
 [[SDI_STDP]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
@@ -82,7 +84,6 @@ Auto-extracted concept from raw material compilation.
 [[SystemLevelNonlinearity]]
 [[TCC]]
 [[TemporalComplexity]]
-[[chiplet interconnect]]
 [[iNEST]]
 [[residual connection]]
 

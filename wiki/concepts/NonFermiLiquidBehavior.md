@@ -62,8 +62,10 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Spatiotemporal_Synergy]]
 [[SystemLevelNonlinearity]]
+[[TCC]]
 [[Textbook_Paradigm_Definition]]
 [[TopologicalAndersonChernInsulator]]
+[[causal emergence]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Interconnect]]
 [[OnChipOpticalTweezers]]
 [[P_Paradigm]]
+[[Pipelined_Processor_Integration]]
 [[ReproducibleReservoirOutput]]
 [[Reservoir_Computing]]
 [[TemporalFeatureProjection]]

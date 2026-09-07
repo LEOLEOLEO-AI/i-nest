@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[EnergyEfficiencyAI]]
 [[EquilibriumSolution]]
 [[GraphDelayPropagation]]
+[[HubbardModelVariationalAnsatz]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[OpenLearningEcosystem]]

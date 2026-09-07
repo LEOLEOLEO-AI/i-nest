@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AI-ML — 全景导航 (Map of Content)]]
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_Orchestrator]]
+[[Active_Inference_Agent]]
 [[Complex_System_Theory]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

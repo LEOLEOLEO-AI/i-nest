@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[FlexibilityThreshold]]
 [[NeuromorphicEdgeProcessing]]
 [[Neuromorphic_Computing]]
+[[PowerLawScaling]]
 [[Self_Organized_Criticality]]
 [[Synaptic_Plasticity]]
 [[Syncytial_Mesh]]

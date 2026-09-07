@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalInterfaceBlocks]]
 [[GeometryGuidedGenerativeModel]]
 [[GitWhitelistQuotaEnforcement]]
+[[HigherOrderConnectivity]]
 [[IncidenceBasedRandomWalk]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

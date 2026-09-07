@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[EventCameraActionRecognition]]
 [[EventDrivenPlasticity]]
 [[FPGASNNMemoryOptimization]]
+[[FerroelectricSynapticArray]]
 [[FixedOverheadCost]]
 [[Intelligence_Emergence]]
 [[Memristor]]

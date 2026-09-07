@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
 [[3DGS_SplatPrimitive]]
 [[3d]]
+[[AI_Application_Scenario_Reconstruction]]
 [[AI_Faculty_Forum_2026]]
 [[BackpropagationFreeLearning]]
 [[CST计量仪]]
@@ -54,7 +55,6 @@ Auto-extracted concept from raw material compilation.
 [[SimulationReproducibilityAudit]]
 [[TCC]]
 [[TopologicalSignals]]
-[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

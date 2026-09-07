@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[EndToEndTopologicalLearning]]
 [[EpidemicTopologyCoevolution]]
 [[EvolvingArchitectureDynamics]]
+[[ExactEvolutionLaw]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Synaptic_Plasticity]]

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration]]
 [[Chiplet_Integration_Route]]
 [[Complex_System_Theory]]
+[[Cryogenic_Syndrome_Compression]]
 [[DTGA]]
 [[EdgeIoTEnergyAwareness]]
 [[Heterogeneous_Integration]]

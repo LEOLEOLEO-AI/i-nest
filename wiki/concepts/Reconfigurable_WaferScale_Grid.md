@@ -34,9 +34,11 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[Plastic_Network]]
 [[SDI_Bond]]
+[[SDI_NPU_NoC_Integration]]
 [[SDI_Topology]]
 [[TCC]]
 [[TopologyCentricComputing]]
+[[Topology_Centric_Computing]]
 [[WaferScaleTopologyCentricComputing]]
 
 ## Sources

@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[EndToEndTopologicalLearning]]
 [[EvolvingArchitectureDynamics]]
+[[GeneralIntelligenceSubstrate]]
 [[HybridCouplingThermosensitiveNetwork]]
 [[Intelligence_Emergence]]
 [[Intelligent_Power_Management]]

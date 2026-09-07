@@ -49,7 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeDrivenDetectionBackbone]]
 [[SpikePacketRouting]]
 [[Spike_Encoding_of_fMRI]]
-[[Spiking neural network]]
+[[SpikingNeuronOptimization]]
 [[Spiking_Neural_Network]]
 [[Supervised_Hebbian_Learning]]
 [[Synaptic_Plasticity]]

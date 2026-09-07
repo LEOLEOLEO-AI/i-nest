@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Edge_of_Chaos_Reservoir_Dynamics]]
 [[Environmental_Induced_Memory]]
 [[Fading_Memory_Property]]
+[[FlagOS_2_0]]
 [[Heterogeneous_Compute_Graph]]
 [[Heterogeneous_Integration]]
 [[HierarchicalReservoirDynamics]]

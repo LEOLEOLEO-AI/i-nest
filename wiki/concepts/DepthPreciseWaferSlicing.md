@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Continual_Learning_Topology]]
 [[CorticalTypeDiversity]]
 [[DTGA]]
+[[DendriticReservoirState]]
 [[DynamicInference]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Roadmap]]

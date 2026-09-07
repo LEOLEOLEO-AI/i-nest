@@ -34,9 +34,9 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Interconnect]]
+[[SDI_iNEST_Platform]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
-[[neuromorphic interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

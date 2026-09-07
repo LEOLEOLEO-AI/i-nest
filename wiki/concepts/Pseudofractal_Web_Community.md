@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[CircuitTopologyFitnessLandscape]]
 [[Community_Structure_Detection]]
 [[Complex_System_Theory]]
 [[EdgeIoTEnergyAwareness]]

@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[MesonSpectra]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
+[[Rare_Event_Dynamics]]
 [[Reservoir_Computing]]
 [[RunawayAvalanche]]
 [[SimulabilityThreshold]]

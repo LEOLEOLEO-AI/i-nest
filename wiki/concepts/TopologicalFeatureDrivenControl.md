@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[ControlDrivenCriticalFluctuations]]
 [[Critical_Region_Extension]]
 [[DynamicSynchronyMetric]]
+[[ElectricFieldModulatedCoupling]]
 [[EpidemicTopologyCoevolution]]
 [[EvolvingArchitectureDynamics]]
 [[FPGA_Reconfigurability]]

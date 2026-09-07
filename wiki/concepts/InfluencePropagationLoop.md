@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[Endocrine_Modulated_Network_State]]
+[[InNetworkNeuromorphicSimulation]]
 [[Intelligence_Emergence]]
 [[IntrinsicTimingSTDP]]
 [[Network_Topology_Design]]

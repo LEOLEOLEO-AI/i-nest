@@ -65,7 +65,7 @@ Auto-extracted concept from raw material compilation.
 [[TemperatureSensitivityControl]]
 [[TemporalComplexity]]
 [[TileBasedRasterization]]
-[[chiplet interconnect]]
+[[UniversalIntelligence_Emergence]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

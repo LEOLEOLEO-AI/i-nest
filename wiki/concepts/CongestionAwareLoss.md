@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Chip_Floorplanning]]
 [[Communication_Trace_Diagnostics]]
 [[ConductingPolymerDendriteMemory]]
+[[DendriticTaskPartitioning]]
 [[DifferentiablePlacement]]
 [[EpidemicThreshold]]
 [[Event_Driven_Architecture]]

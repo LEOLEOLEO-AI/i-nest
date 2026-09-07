@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenModularArchitecture]]
 [[EvolutionarySpikeTimingOptimization]]
 [[Interconnect_Routing]]
+[[KinematicWavePropagation]]
 [[LossSpikePhenomenon]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]

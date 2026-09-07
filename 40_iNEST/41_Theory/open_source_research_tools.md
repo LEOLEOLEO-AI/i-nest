@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 资料
+tags: [开源工具, 研究工具, AI, 仿真, 神经形态]
+summary: "汇总多个开源研究工具，涵盖AI、爬虫、演示及神经形态相关库。"
+quality: medium
+processed: 2026-09-08 06:46
+---
+---
 title: "开源工具"
 tags:
   - paper

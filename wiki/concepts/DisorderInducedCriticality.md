@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality_Induced_Plasticity]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
+[[Fading_Memory_Property]]
 [[InformationCompressionAtCriticality]]
 [[Intelligence_Emergence]]
 [[NearThreeDimensionalCriticality]]

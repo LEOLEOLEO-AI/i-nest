@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Packaging]]
 [[CoPackagedOptics]]
+[[CommunicationOverlapMechanism]]
 [[Complex_System_Theory]]
 [[ComputeRelocationOverhead]]
 [[CorticalTypeDiversity]]
@@ -55,7 +56,6 @@ Auto-extracted concept from raw material compilation.
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[TCC]]
-[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

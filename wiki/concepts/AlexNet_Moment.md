@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveMatterSubstrate]]
 [[Analog_InMemory_Processing]]
 [[AsymmetricStochasticInteractions]]
+[[AttentionMap_DifferenceResidual]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[MicroLED_Array_Programmer]]

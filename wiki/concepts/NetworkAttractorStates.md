@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Packaging]]
 [[OpportunisticRoutingRL]]
 [[OpportunisticRouting]]
+[[PropertyPredictionModeling]]
 [[RecurrentSpikingTopology]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SpikeEncoding]]

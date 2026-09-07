@@ -45,9 +45,11 @@ Auto-extracted concept from raw material compilation.
 [[Reliability_As_Service]]
 [[SNN]]
 [[SelfOrganizationInContinuousMedia]]
+[[SelfOrganization]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
+[[SyntheticInertiaPlacement]]
 [[iNEST]]
 
 ## Sources

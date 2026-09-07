@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[ERI_2_0_Strategy]]
 [[EntanglementSignatures]]
 [[GeometricRegularizationLoss]]
+[[HigherOrderPublicGoodsGame]]
 [[Hippocampal_Encoding_Mechanism]]
 [[Intelligence_Emergence]]
 [[MagicStateDistillationOverheadModel]]

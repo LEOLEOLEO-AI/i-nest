@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[Pseudofractal_Web]]
 [[TCC]]
 [[TopologyAwareStateMigration]]
+[[Topology_Manifold_Computing]]
 [[advanced packaging]]
 [[iNEST]]
 [[涌现]]

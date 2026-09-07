@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Interconnect]]
 [[NoC_SDI]]
 [[NoC_SDI_Topology]]
+[[OnDie_Fusion]]
 [[P_Paradigm]]
 [[Photonic_Chiplet_Interconnect]]
 [[SDI_Bond]]
@@ -53,7 +54,6 @@ Auto-extracted concept from raw material compilation.
 [[SparsityAwareInterconnect]]
 [[TCC]]
 [[advanced packaging]]
-[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

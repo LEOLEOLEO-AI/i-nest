@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicalSelfDualCriticality]]
 [[EndToEndTopologyLearning]]
 [[Fractal_Scaling]]
+[[InNetworkNeuromorphicSimulation]]
 [[Intelligence_Emergence]]
 [[LeftRightAsymmetry]]
 [[Memristor]]

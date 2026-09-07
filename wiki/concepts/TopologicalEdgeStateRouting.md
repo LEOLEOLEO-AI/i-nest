@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[Neuromorphic_Packaging]]
+[[OpenBenchmarkingFramework]]
 [[QuantumKernelMethods]]
 [[Resilient_Satellite_Mesh]]
 [[SNN]]

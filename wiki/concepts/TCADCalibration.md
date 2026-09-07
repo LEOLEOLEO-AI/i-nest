@@ -59,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[SelfOrganizedOscillatoryLearning]]
 [[StochasticBinaryDynamics]]
+[[TCC]]
 [[complex system]]
 [[iNEST]]
 [[涌现]]

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[CorticalWaveRouting]]
 [[EventCameraActionRecognition]]
 [[EventCameraTemporalEncoding]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
@@ -35,7 +36,6 @@ Auto-extracted concept from raw material compilation.
 [[SDI_iNEST_Interconnect]]
 [[SNN]]
 [[ST_SNN]]
-[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 [[iNEST_Interconnect]]

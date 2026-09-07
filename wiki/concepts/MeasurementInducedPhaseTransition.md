@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[NoiseModulated_SynapticPlasticity]]
 [[NonEquilibriumComputing]]
 [[OcclusionHandlingStrategy]]
+[[OpportunisticRoutingRL]]
 [[OscillatoryReservoirDynamics]]
 [[RecursiveSelfReferentialArchitecture]]
 [[ReservoirDynamics]]

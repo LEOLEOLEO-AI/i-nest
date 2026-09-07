@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[ComplexValuedSNN]]
 [[Complex_System_Theory]]
 [[Continual_Learning_Topology]]
+[[Distributed_Spike_Communication]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[EventCameraActionRecognition]]

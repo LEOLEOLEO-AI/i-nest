@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Loihi]]
 [[MeanFieldSpikeRateApproximation]]
 [[Memristive_STDP]]
+[[NeuromorphicLocomotionPrimitive]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]

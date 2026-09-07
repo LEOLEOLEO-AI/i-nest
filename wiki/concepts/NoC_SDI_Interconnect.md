@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect]]
 [[Chiplet_NoC_Interconnect]]
 [[Chiplet_Stacking]]
+[[CommunicationAsComputation]]
 [[CongestionAwareNoCPlacement]]
 [[Decoupled_Priors]]
 [[Deep_Network_Architecture_Invariant]]
@@ -68,7 +69,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[WideLink_NoC_Router]]
 [[advanced packaging]]
-[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

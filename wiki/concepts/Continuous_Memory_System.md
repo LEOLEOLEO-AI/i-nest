@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Continual_Learning_Topology]]
 [[Dynamic_Expert_Fusion]]
+[[Efficient_Coding_Constraint]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[Free_Energy_Topology_Mapping]]

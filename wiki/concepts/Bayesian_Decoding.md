@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Packaging]]
 [[PerturbationBoundAnalysis]]
+[[State_Transition_Formalism]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]

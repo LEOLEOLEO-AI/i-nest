@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[GlobalInformationDominance]]
+[[HierarchicalInferenceTopology]]
 [[HighThroughputPhenotyping]]
 [[HigherOrderAvalanche]]
 [[Intelligence_Emergence]]

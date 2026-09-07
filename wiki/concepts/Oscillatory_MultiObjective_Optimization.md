@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenRiskAssessment]]
 [[EventDrivenTemplateUpdate]]
 [[EventDriven_AsyncCircuit]]
+[[FunctionalEnsembleComputation]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
 [[NoiseInjectionLearning]]

@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_FullSpectrum_Strategy]]
 [[AlternativeBridgingModels]]
 [[Categorical_Reservoir_Model]]
+[[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Crystallized_Embedding_Reservoir]]
 [[Crystallized_Neural_Manifolds]]
 [[DivergentHigherAreaRanking]]

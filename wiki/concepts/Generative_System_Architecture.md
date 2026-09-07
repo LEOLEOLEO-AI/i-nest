@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AndersonTransition]]
 [[CavityMethodAnalysis]]
 [[CommunicationAwareComputeRelocation]]
+[[Compute_In_Memory_Neuromorphic]]
 [[Deep_Thermalisation]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]

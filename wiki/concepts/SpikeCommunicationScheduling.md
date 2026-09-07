@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Enabled_Battlefield_Autonomy]]
 [[Bidirectional_Temporal_Enhancement]]
 [[Contested_Prior_Resolution]]
+[[CorticalWaveRouting]]
 [[CrossLayer_SignalRouting]]
 [[EnergyEfficientNeuromorphic]]
 [[EventCameraTemporalEncoding]]

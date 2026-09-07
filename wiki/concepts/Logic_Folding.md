@@ -61,6 +61,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[SiliconPhotonicsNetwork]]
 [[Space_Compute_Architecture_Tradeoff]]
+[[Space_Radiation_Hardening]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[ThroughSiliconVia_TSV_ThermalPath]]

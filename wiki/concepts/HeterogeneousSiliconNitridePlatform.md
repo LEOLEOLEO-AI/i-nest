@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]
 [[Chiplet_Integration_Route]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Packaging]]
 [[Complex_System_Theory]]
 [[CorticalTypeDiversity]]
@@ -46,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[EndToEndLinkSimulation]]
 [[EntanglementAwareRouting]]
 [[GraphBasedSemanticRouting]]
+[[Heterogeneous_3D_Stacking]]
 [[Heterogeneous_Integration]]
 [[Inference_Flow_Stage_Aware_Topology]]
 [[Intelligence_Emergence]]
@@ -60,7 +62,6 @@ Auto-extracted concept from raw material compilation.
 [[TSVInterconnectReliability]]
 [[TopologyAware_Routing]]
 [[VisibleToNIRPhotonicPlatform]]
-[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

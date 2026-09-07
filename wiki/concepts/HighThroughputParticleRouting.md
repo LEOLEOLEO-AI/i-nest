@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration_Route]]
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
+[[CongestionAwareNoCPlacement]]
 [[CounterstreamSignalPropagation]]
 [[DARPA_ProjectManager_Model]]
 [[Deep_Thermalisation]]
@@ -60,7 +61,6 @@ Auto-extracted concept from raw material compilation.
 [[Swarm_Coordination]]
 [[TCC]]
 [[WavelengthMultiplexedInterconnect]]
-[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

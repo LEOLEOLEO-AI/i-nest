@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CorticalWaveRouting]]
 [[EventCameraTemporalEncoding]]
 [[Event_Driven_Architecture]]
+[[FiniteSizeCrossover]]
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[Gradient_Signal_Preservation]]

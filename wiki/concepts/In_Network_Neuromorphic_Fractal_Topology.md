@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[BackpropagationFreeLearning]]
 [[Deep_Network_Architecture_Invariant]]
 [[Defense_Industrial_Base_Reshaping]]
+[[DynamicServiceComposition]]
 [[In_Network_Neuromorphic]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

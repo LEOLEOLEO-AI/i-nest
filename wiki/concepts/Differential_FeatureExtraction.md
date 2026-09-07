@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_Integration]]
 [[CongestionAwareNoCPlacement]]
+[[Dynamic_Communication_Reconfiguration]]
 [[EventDrivenFusion]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[FixedOverheadCost]]
 [[FixedOverheadPenalty]]
 [[Fixed_Cost_Dominance]]
+[[GraphGeometryAlignment]]
 [[ITP_STDP]]
 [[Memristive_STDP]]
 [[On_Chip_STDP_Learning]]

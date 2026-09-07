@@ -44,9 +44,9 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[SpikePacketCompression]]
 [[Spike_Energy_Floor]]
-[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[SynapticReinforcementConsolidation]]
+[[Syncytial_Mesh_Model]]
 [[catastrophic forgetting]]
 [[iNEST]]
 

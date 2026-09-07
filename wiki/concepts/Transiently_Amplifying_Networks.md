@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[CorticalOrientationSelectivity]]
 [[ErrorSuppressedPipeline]]
 [[Generative_Design_Frameworks]]
+[[HierarchicalReservoirDynamics]]
 [[Nonlinear_Gain]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]

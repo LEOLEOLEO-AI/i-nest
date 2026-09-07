@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality_Based_Feature_Extraction]]
 [[CrossLayer_SignalRouting]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
+[[FibonacciMonitoredCriticality]]
 [[Gradient_Signal_Preservation]]
 [[Interconnect_Routing]]
 [[InterconnectionStrengthEncoding]]

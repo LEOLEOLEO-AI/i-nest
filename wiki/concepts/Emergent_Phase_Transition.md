@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality_Induced_Plasticity]]
 [[DiscreteContinuous_Unification]]
 [[EmulationTheoryDisturbanceObserver]]
+[[FormalLinguisticCompetence]]
 [[Intelligence_Emergence]]
 [[Neuromorphic_Computing]]
 [[Self_Organized_Criticality]]

@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[DataCenter_Chip_Logic_Compression]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
+[[EntanglementFidelityBudgeting]]
 [[Free_Energy_Topology_Binding]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]

@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[ERI_2_0_Framework]]
 [[EdgeFeatureEncoding]]
 [[ExplosiveCooperationTransition]]
+[[FerroelectricMemoryCell]]
 [[Intelligence_Emergence]]
 [[LocalEvolutionRules]]
 [[MajoranaZeroModeDetection]]

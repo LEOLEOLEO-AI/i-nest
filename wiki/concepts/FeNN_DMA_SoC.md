@@ -27,10 +27,12 @@ Auto-extracted concept from raw material compilation.
 [[Autonomous_Spiking_Dynamics]]
 [[BiSpikCLM]]
 [[ChipletOpticalIO]]
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration_Route]]
 [[FeNN_DMA]]
 [[Neuromorphic_Computing]]
 [[SOC]]
-[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[AmorphousTopologicalSubstrate]]
 [[BackpropagationFreeLearning]]
 [[Beyond_Moore_Pathway]]
+[[BioInspiredGeneralist]]
 [[CellularSheaf]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]

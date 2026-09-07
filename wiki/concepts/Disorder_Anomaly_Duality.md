@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality_Transition]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
+[[Fading_Memory_Property]]
 [[FormalLinguisticCompetence]]
 [[Fractal_Wavefront_Scaling]]
 [[HierarchicalBayesianCommunityDetection]]

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Packaging]]
 [[Chiplet_Topology]]
 [[Chiplet_Topology_Encapsulation]]
+[[CommunicationOverlapMechanism]]
 [[DirectConnect_Topology]]
 [[FullDimensionalDefinableInterconnect]]
 [[Heterogeneous_Integration]]
@@ -58,7 +59,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[Topology_Encapsulation]]
 [[WaferScale_Chiplet_Interconnect]]
-[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

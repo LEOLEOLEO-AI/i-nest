@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[SelectorFreeHopfieldNetwork]]
 [[Sparsity_Degradation_Threshold]]
 [[Spike_Encoding_of_fMRI]]
+[[SpikingPlaceCellEnsemble]]
 [[Spiking_Neural_Network]]
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]

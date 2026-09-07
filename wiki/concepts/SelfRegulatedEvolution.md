@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[EmergentDynamics]]
 [[EmergentTaskDecomposition]]
+[[EmulationTheoryObserver]]
 [[Free_Energy_Principle]]
 [[GeometryGuidedGenerativeModel]]
 [[Intelligence_Emergence]]

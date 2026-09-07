@@ -26,12 +26,14 @@ Auto-extracted concept from raw material compilation.
 [[ActiveDendriteSNN]]
 [[AdsorptionBiosorptionHybrid]]
 [[AnomalousSpinTransport]]
+[[BandedConnectivityModel]]
 [[BigBrainCellularAxis]]
 [[ChipletWaferInterconnectScaling]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]
 [[Chiplet_Integration_Route]]
+[[Chiplet_Interconnect]]
 [[ComplexValuedSNN]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[CorticalTypeDiversity]]
@@ -58,7 +60,6 @@ Auto-extracted concept from raw material compilation.
 [[SpikeCommunicationCost]]
 [[Spiking_Neural_Network]]
 [[TCC]]
-[[chiplet interconnect]]
 [[iNEST]]
 
 ## Sources

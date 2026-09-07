@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[DisturbancePropagationPath]]
 [[EventDrivenAsync]]
 [[EventDrivenAsynchronousRouting]]
+[[EventDriven_Interconnect]]
 [[Event_Driven_Architecture]]
 [[FPGACongestionHotspotMitigation]]
 [[Gradient_Signal_Preservation]]

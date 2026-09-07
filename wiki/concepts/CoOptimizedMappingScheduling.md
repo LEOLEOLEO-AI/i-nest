@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[EventCameraTemporalPipeline]]
 [[EventDrivenMotionDeblurring]]
 [[EventDrivenVisualPipeline]]
+[[Event_Driven_Orbital_Object_Pipeline]]
 [[FirstTimestepConversion]]
 [[GPU_Cluster_SNN_Architecture]]
 [[GradientBasedLearningLocalization]]

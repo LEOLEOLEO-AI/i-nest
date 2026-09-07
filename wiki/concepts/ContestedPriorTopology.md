@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[AxonalGrowthConeStochasticity]]
 [[BCM滑动阈值]]
 [[CST_Synergy_Coordination]]
+[[CertifiedBifurcationDetection]]
 [[ClassicalQuantum_Query_Benchmark]]
 [[Complex_System_Theory]]
 [[ControllableSubspace]]

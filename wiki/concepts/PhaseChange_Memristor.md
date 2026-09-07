@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[EnergyResourceEfficiencyCoOptimization]]
 [[FCDC_Architecture]]
 [[FeFET_Polarization_Switching]]
+[[FerroelectricMemoryCell]]
 [[In_Memory_Computing]]
 [[Memristor]]
 [[Memristor_Synapse]]

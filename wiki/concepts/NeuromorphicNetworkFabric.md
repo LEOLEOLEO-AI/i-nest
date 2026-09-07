@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[CoreComputationSubspace]]
 [[CulturalDisseminationDynamics]]
 [[Edge_Intelligence]]
+[[Electronic_Warfare_Integration]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[FlexibilityThreshold]]
@@ -61,6 +62,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

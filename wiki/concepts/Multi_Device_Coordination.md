@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveInference]]
 [[AnomalousSpinTransport]]
 [[AstrocyteInspiredRepair]]
+[[Avalanche_Dynamics]]
 [[CSI_Temporal_Encoding]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -56,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[Stochastic_LIF_Inference]]
 [[iMESO_PhysicalCarrier]]
 [[iNEST]]
+[[神经形态脉冲大语言模型（NSLLM）]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

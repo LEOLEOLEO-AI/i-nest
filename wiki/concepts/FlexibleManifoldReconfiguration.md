@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkPowerRouting]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[LocalPlasticityPipeline]]
 [[Memristive_Topology]]
 [[Model_Routing_Protocol]]
 [[NetworkArchitectureSearch]]

@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenDataAssociation]]
 [[EventDrivenTemplateUpdate]]
 [[EventDrivenTextEncoding]]
+[[EventDriven_Attention]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
 [[SNN]]

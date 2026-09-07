@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Interconnect]]
 [[SDI_NPU_NoC_Integration]]
 [[SDI_NoC_Integration]]
+[[SparseTemporalEncoding]]
 [[TCC]]
 [[iNEST]]
 [[iNEST_Wafer]]

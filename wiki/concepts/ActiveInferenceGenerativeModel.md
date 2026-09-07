@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Summarize_Analysis]]
 [[TemporalEnhancementModeling]]
+[[fMRIToElectrophysiologyMapping]]
 [[iNEST]]
 [[perspective latents]]
 

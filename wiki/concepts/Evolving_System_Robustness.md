@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Ant_Swarm_Functional_Control]]
 [[Architectural_Conditioning]]
 [[Asymptotic_Exact_Solution]]
+[[Beyond_Moore_Pathway]]
 [[BioInspiredGeneralist]]
 [[CertifiedBifurcationDetection]]
 [[Chiplet]]

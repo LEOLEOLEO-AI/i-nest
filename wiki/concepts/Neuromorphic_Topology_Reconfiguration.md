@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[EnsembleCreditAssignment]]
+[[InNetworkReconfiguration]]
 [[Interconnect_Routing]]
 [[MoE_Routing]]
 [[Network_Topology_Design]]

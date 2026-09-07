@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AIRA_NeuralArchSearch]]
 [[AI_Faculty_Forum_2026]]
 [[BackflowTransformation]]
+[[Brain_Connectome]]
 [[CST_Equation]]
 [[CST_MasterEquation]]
 [[CST计量仪]]
@@ -37,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration_Route]]
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
+[[Connectome]]
 [[Connectome_Transfer]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
@@ -60,6 +62,7 @@ Auto-extracted concept from raw material compilation.
 [[Temporal_Dynamics_Integration]]
 [[complex system]]
 [[iNEST]]
+[[夏强飞一天2篇Nature大子刊：感存算一体，忆阻器阵列模拟计算]]
 [[神经网络]]
 
 ## Sources

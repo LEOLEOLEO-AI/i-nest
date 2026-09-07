@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Cytokine_Feedback_Loops]]
 [[DelayTunedPopulationAmplitude]]
 [[DynamicalTransitionIdentification]]
+[[Dynamical_Principle_Formalization]]
 [[EventDrivenComputation]]
 [[Event_Driven_Architecture]]
 [[Event_Driven_Computation]]

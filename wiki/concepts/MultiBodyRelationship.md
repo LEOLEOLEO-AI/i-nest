@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Energy_Balanced_Interconnect]]
 [[ExactEvolutionaryHybridSearch]]
 [[FlagOS_2_0]]
+[[GraphBasedSemanticRouting]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[TCC]]

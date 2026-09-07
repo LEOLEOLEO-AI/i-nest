@@ -76,7 +76,7 @@ Auto-extracted concept from raw material compilation.
 [[TemporalComplexity]]
 [[TopologyProgramming]]
 [[Topology_Centric_Computing]]
-[[chiplet interconnect]]
+[[Topology_Page]]
 [[complex system]]
 [[iNEST]]
 [[iNEST_Wafer]]

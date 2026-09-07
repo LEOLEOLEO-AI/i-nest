@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Faculty_Forum_2026]]
 [[Attention_Inspired_Resource_Allocation]]
+[[Attention_Residuals]]
 [[HybridResistiveMemoryCIM]]
 [[Memristor]]
 [[Memristor_Synapse]]

@@ -75,6 +75,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[Residual_Connection_Removal]]
 [[SDI_Bond]]
+[[SDI_Four_Rules]]
 [[SDI_TCC_Chiplet]]
 [[STDP_Plasticity]]
 [[Spacetime_Coupling_Coefficient]]
@@ -85,7 +86,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TemperatureSensitivityControl]]
 [[TemporalComplexity]]
-[[chiplet interconnect]]
 [[complex system]]
 [[residual connection]]
 

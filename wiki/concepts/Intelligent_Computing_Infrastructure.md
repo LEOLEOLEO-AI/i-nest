@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Interconnect_Topology]]
 [[Memory_Wall]]
+[[Memristive_STDP]]
 [[Memristor]]
 [[Memristor_Network]]
 [[Memristor_Synapse]]
@@ -83,7 +84,6 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect_Memristor]]
 [[Wafer_Scale_Neuromorphic]]
 [[Wafer_Scale_Neuromorphic_Integration]]
-[[chiplet interconnect]]
 [[complex system]]
 [[residual connection]]
 

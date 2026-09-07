@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_NoC_Fabric]]
 [[Chiplet_Stacking]]
 [[Complex_System_Theory]]
+[[Critical_Region_Extension]]
 [[DTGA]]
 [[DynamicServiceComposition]]
 [[EntanglementAwareRouting]]
@@ -58,7 +59,6 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[TCC]]
-[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

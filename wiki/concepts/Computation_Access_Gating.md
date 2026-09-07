@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[AtomicGeometryToElectronicTopologyMapping]]
 [[Autonomous_Unmanned_Combat_Coordination]]
 [[BCM滑动阈值]]
+[[BandedNonHermitianRandomMatrix]]
 [[CST_Theory]]
 [[Capable_Agent_Knowledge]]
 [[Complex_System_Theory]]

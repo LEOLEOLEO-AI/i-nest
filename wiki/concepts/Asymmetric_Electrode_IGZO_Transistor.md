@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AdjustableDynamicsReservoir]]
 [[AdjustableDynamics]]
+[[AnisotropicGaussianPrimitives]]
 [[AstrocyteInspiredModulation]]
 [[Biomanufacturing_Control_Loop]]
 [[BranchingRatio]]

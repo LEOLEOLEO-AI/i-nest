@@ -59,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[Spatiotemporal_Synergy]]
 [[SystemLevelNonlinearity]]
 [[TCC]]
+[[TCC_Topology]]
 [[Weight_Reinitialization]]
 [[branch prediction]]
 [[pipelined processor]]

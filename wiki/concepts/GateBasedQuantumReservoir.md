@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[CombinedImportanceScoring]]
 [[Compressed_Glass_Network]]
+[[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[CouplingMatrixRecovery]]

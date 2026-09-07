@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AllOpticalHebbianLearning]]
 [[AnalogDomainCompression]]
 [[Avoided_Criticality]]
+[[BandedConnectivityModel]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[BulletTrainScheduling]]
 [[Catastrophic_Forgetting_Mitigation]]

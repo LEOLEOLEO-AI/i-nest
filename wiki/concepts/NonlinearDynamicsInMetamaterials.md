@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Core_Spacetime_Tensor]]
 [[CouplingTopologyMemoryLink]]
 [[Coupling_Topology]]
+[[Crystallized_Neural_Manifolds]]
 [[Deep_Thermalisation]]
 [[ErrorSuppressedPipeline]]
 [[Intelligent_Computing_Infrastructure]]

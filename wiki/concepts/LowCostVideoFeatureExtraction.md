@@ -62,8 +62,10 @@ Auto-extracted concept from raw material compilation.
 [[NoC]]
 [[NoC_Interconnect]]
 [[P_Paradigm]]
+[[QuantumProbabilityFlowTopology]]
 [[TCC]]
 [[advanced packaging]]
+[[causal emergence]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

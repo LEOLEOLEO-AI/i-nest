@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikingMOT]]
 [[SpikingMotorControl]]
 [[SpikingMuscleActivation]]
+[[SpikingNeuralNetworkInference]]
 [[SpikingTopologyEvolution]]
 [[Spiking_Neural_Network]]
 [[StochasticBinaryDynamics]]

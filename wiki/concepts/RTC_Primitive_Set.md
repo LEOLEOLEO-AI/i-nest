@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[AvalancheBranchingRatio]]
 [[BigBrainCellularAxis]]
+[[BranchingRatio]]
 [[CST_Equation]]
 [[CST_Exponential_Form]]
 [[CST计量仪]]
@@ -58,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Hardware_ANN]]
 [[Memristor_Network]]
 [[Memristor_Synapse]]
+[[Mesoscale_Heterogeneous_Integration]]
 [[MetricComputationAuthenticity]]
 [[Network_CST]]
 [[Network_Topology_Design]]
@@ -87,7 +89,6 @@ Auto-extracted concept from raw material compilation.
 [[TemperatureSensitivityControl]]
 [[TemporalComplexity]]
 [[Topology_Interconnect]]
-[[chiplet interconnect]]
 [[complex system]]
 [[residual connection]]
 

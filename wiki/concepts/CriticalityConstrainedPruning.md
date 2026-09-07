@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[LowRankEvolutionStrategies]]
 [[MemristiveSpikingAccelerator]]
 [[MultiFPGA_Spiking_Scaling]]
+[[NanoBanana_SNNDeck]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]

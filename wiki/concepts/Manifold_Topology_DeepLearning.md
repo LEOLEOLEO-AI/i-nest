@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[NearSensorComputing]]
 [[Network_Topology_Design]]
 [[OscillatoryDynamicsTopology]]
+[[PhotonicPackagingEfficiency]]
 [[PhotonicStateRetention]]
 [[TCC]]
 [[TopologyAware_Learning]]

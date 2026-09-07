@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Spiking_Temporal_Encoding]]
 [[TCC]]
+[[TemporalSpikePattern]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Faculty_Forum_2026]]
 [[Bond_Operation_Algebra]]
 [[Chemical_Bond_Operation_Algebra]]
 [[Chiplet]]
@@ -29,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenAsync]]
 [[EventDrivenAsynchronousRouting]]
 [[FPGA_NeuromorphicMapping]]
+[[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Memristor]]
 [[Memristor_Interconnect]]

@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Packaging]]
 [[OpportunisticRoutingRL]]
 [[OpportunisticRouting]]
+[[PropertyPredictionModeling]]
 [[RecurrentSpikingDynamics]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SelectorFreeHopfieldNetwork]]

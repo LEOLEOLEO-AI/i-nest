@@ -48,12 +48,15 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[ParallelMultiCompartmentSNN]]
 [[ParallelSpatialPhotonicProgramming]]
+[[PropertyPredictionModeling]]
 [[RobustnessToNoiseInSNN]]
 [[SNN]]
 [[SpatialPhotonicProgramming]]
 [[Spiking_Neural_Network]]
 [[SurrogateGradientTracking]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

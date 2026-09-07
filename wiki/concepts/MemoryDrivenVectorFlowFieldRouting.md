@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[ChiralSymmetryClasses]]
 [[Complex_System_Theory]]
 [[Deep_Thermalisation]]
+[[Emergent_Order_Deep_Belief_Networks]]
 [[FreeFermionTopologicalInvariant]]
 [[FunctionalBrainGraphEmbedding]]
 [[GraphBasedSemanticRouting]]

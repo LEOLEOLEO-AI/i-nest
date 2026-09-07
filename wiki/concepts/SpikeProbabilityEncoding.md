@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CorticalWaveRouting]]
 [[ElasticInferenceScheduling]]
 [[EventCameraTemporalEncoding]]
+[[ExtinctionDrivenMetastability]]
 [[Flexible_Spike_Routing]]
 [[GraphGeometryAlignment]]
 [[GroupSynchronization]]

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Allreduce_Latency_Probe]]
 [[AnomalousSpinTransport]]
+[[AstrocyteInspiredRepair]]
 [[Avoided_Criticality]]
 [[BandedConnectivityModel]]
 [[BigBrainCellularAxis]]

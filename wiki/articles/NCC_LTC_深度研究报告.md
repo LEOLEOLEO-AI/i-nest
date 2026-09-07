@@ -22,4 +22,5 @@ SDI, STDP, 拓扑
 [[Network_Topology_Design]]
 [[SDI_Bond]]
 [[STDP_Plasticity]]
+[[Synaptic_Plasticity]]
 [[TCC]]

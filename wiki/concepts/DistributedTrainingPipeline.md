@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[NoC]]
 [[NoC_Chiplet_iNEST_Wafer]]
+[[NoC_SDI_Topology]]
 [[OnDie_Fusion]]
 [[P_Paradigm]]
 [[Packaging_CoDesign]]

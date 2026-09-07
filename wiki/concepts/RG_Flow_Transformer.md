@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Epithelial_Barrier_Integrity]]
 [[ExtensiveWidthShallowNN]]
+[[FerroelectricMemoryCell]]
 [[FunctionalInterfaceBlock]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]

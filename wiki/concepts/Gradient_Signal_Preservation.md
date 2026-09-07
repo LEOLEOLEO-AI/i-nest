@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[ErrorAmplificationLimits]]
 [[EventCameraActionRecognition]]
 [[EventCameraTemporalEncoding]]
+[[FiniteSizeCrossover]]
 [[HigherOrderAvalanche]]
 [[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Scheduling]]

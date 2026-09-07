@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[ExactlyFlatTopologicalBands]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
+[[HigherOrderNetworkDynamics]]
 [[InNetworkComputing]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

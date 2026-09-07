@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[DeviceLevelNonlinearityScaling]]
 [[DeviceLevelNonlinearity]]
 [[Emergent_Abilities]]
+[[Evolutionary_Computability]]
 [[Hierarchical_Reservoir_Topology]]
 [[High_Dimensional_Projection]]
 [[HybridMemristorArray]]

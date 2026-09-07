@@ -293,6 +293,35 @@
     "30_TCC\\31_Theory\\Erlangen_Program_to_Geometric_DL_for_TCC_iNEST.md": {
       "date": "2026-09-07T03:34:24.246587",
       "error": true
+    },
+    "30_TCC\\34_Projects\\TCC_project_proposal_defense_notes.md": {
+      "date": "2026-09-08T06:53:13.870492",
+      "card": "20260908_TCC_project_proposal_defense_notes.md",
+      "method": "llm"
+    },
+    "30_TCC\\34_Projects\\TCC_LTF_Project_Guide_v8_Summary.md": {
+      "date": "2026-09-08T06:53:36.603266",
+      "card": "20260908_TCC_LTF_Project_Guide_v8_Summary.md",
+      "method": "llm"
+    },
+    "30_TCC\\31_Theory\\Edge_AI_Interconnect_Report_Plan.md": {
+      "date": "2026-09-08T06:54:28.777282",
+      "card": "20260908_Edge_AI_Interconnect_Report_Plan.md",
+      "method": "llm"
+    },
+    "30_TCC\\31_Theory\\TRL_semiconductor_advanced_packaging_framework.md": {
+      "date": "2026-09-08T06:54:41.031317",
+      "error": true
+    },
+    "30_TCC\\32_Technology\\Maia200_SDLA_Architecture_Analysis.md": {
+      "date": "2026-09-08T06:55:17.201014",
+      "card": "20260908_Maia200_SDLA_Architecture_Analysis.md",
+      "method": "llm"
+    },
+    "30_TCC\\31_Theory\\computational_microsystems_book_chapter_outline.md": {
+      "date": "2026-09-08T06:55:36.318233",
+      "card": "20260908_computational_microsystems_book_chapter_outline.md",
+      "method": "llm"
     }
   }
 }

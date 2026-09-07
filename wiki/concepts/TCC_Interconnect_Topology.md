@@ -30,7 +30,9 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Wafer_Topology]]
+[[Complex_System_Theory]]
 [[Deep_Network_Architecture_Invariant]]
+[[DiagnosticReportFramework]]
 [[EulaminateOverrepresentation]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Topology]]
@@ -60,7 +62,6 @@ Auto-extracted concept from raw material compilation.
 [[Textbook_Paradigm_Definition]]
 [[TopologyCentricPrimitiveSystem]]
 [[Wafer_Scale_Integration]]
-[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

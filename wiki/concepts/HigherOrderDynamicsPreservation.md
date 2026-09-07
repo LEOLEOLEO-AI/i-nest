@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[BiologicalParadigmValidation]]
 [[Complex_System_Theory]]
 [[DailyResearchDigest]]
+[[DelayTolerantNetworkUAV]]
 [[FermiSurfaceTopologySignature]]
 [[FixedOverheadFloor]]
 [[Intelligence_Emergence]]

@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC]]
 [[NoC_Topology]]
 [[Package_Level_Topology]]
+[[PacketRoutingOptimization]]
 [[PhysicalWaferTriplet]]
 [[SDI_Bond]]
 [[SDSoW]]
@@ -64,7 +65,6 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
-[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

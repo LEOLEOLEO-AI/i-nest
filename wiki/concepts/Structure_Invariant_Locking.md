@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_MasterEquation]]
 [[CST计量仪]]
 [[Complex_System_Theory]]
+[[DARPA_ProjectManager_Model]]
 [[TCC]]
 [[complex system]]
 [[iNEST]]

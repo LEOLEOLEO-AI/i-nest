@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Bipartite_Interconnect]]
 [[Bipartite_Interconnect_Design]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
+[[DataDrivenCellularAxis]]
 [[EmergentOrder]]
 [[ExcitatoryInhibitoryOscillatoryNetwork]]
 [[Free_Energy_Principle]]

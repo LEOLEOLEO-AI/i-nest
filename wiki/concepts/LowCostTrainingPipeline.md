@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_ProjectManager_Model]]
 [[Deep_Network_Architecture_Invariant]]
 [[DynamicProgrammingRecycling]]
+[[Dynamic_Communication_Reconfiguration]]
 [[EulaminateOverrepresentation]]
 [[FractureMechanism]]
 [[GeneralizedReadoutMap]]

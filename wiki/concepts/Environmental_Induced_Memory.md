@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[DARPA_ProjectManager_Model]]
 [[DistinctReentrantPhases]]
+[[Emerging_CMOS_Memristor_Devices]]
 [[Environmental_Coupling_Organization]]
 [[FerroelectricTunnelingJunction]]
 [[Ferroelectric_Devices]]

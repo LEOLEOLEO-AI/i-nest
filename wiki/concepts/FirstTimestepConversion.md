@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[EventBasedMotionDeblurring]]
 [[EventBasedNeuralDecoding]]
 [[EventDrivenMotionDeblurring]]
+[[FibonacciMonitoredCriticality]]
 [[GPU_Cluster_SNN_Architecture]]
 [[GradientBasedLearningLocalization]]
 [[InNetworkAgentRewiring]]

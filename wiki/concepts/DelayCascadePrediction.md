@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Differential_Encoding]]
+[[Dual_Threshold_Convergence]]
 [[FemtosecondLaserMachining]]
 [[ImaginaryGaugePhaseImprint]]
 [[Intelligence_Emergence]]

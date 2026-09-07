@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Ant_Swarm_Functional_Control]]
 [[BurstGatedRouting]]
 [[Compressive_Sensing_Reservoir]]
+[[CouplingTopologyInducedDynamics]]
 [[CriticalityInducedTopology]]
 [[Criticality]]
 [[Generative_Graph_Models]]

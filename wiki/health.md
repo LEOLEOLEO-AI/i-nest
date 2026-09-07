@@ -1,12 +1,12 @@
 # Knowledge Health Report
 
-**Generated**: 2026-09-07
-**Last Grow**: 2026-09-07
+**Generated**: 2026-09-08
+**Last Grow**: 2026-09-08
 
 ## Stats
 - **Total Concepts**: 5984
 - **Total Articles**: 1420
-- **Orphan Concepts**: 1957
+- **Orphan Concepts**: 1889
 - **Knowledge Graph Density**: High
 
 ## Orphan Concepts (no incoming links)
@@ -23,7 +23,6 @@
 - [[AI_Principal]]
 - [[ANN_SNN_Representation_Gap]]
 - [[Academic_Integrity_Assessment]]
-- [[Advanced_Packaging_Based_Integration]]
 - [[Advection_Reservoir_Computing]]
 - [[Aerial_Network_Measurement_Testbed]]
 - [[AgranularLimbicInclusion]]
@@ -48,9 +47,10 @@
 - [[Asymmetric_Technology_Overmatch]]
 - [[AutonomousAirCombat]]
 - [[AutonomousCombatScenarios]]
-- [[Autonomous_Driving_SNN_Application]]
 - [[B3_Competition_Landscape]]
-- ... 1917 more
+- [[B3_Paper_Competitive_Landscape]]
+- [[B7_TCC OneFabric_论文计划]]
+- ... 1849 more
 
 ## Next Steps
 1. Run `[[wiki_compiler.py]]` after each new raw import.

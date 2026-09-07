@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[Complex_System_Theory]]
 [[DevelopmentalNeuromorphicAdaptation]]
+[[FPGA_Accelerated_SNN]]
 [[FPGA_Neuromorphic_Acceleration]]
 [[NeuromorphicObserverArchitecture]]
 [[NeuromorphicTransformerPipeline]]

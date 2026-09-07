@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Chiplet]]
+[[Chiplet_Based_Neuromorphic_Integration]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
 [[CurrentInjectionSNN]]
@@ -29,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[FerroelectricSynapticArray]]
+[[Ferroelectric_Devices]]
 [[Hardware_Accelerated_SNN]]
 [[HeterogeneousSynapticDelays]]
 [[Heterogeneous_Integration]]

@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[DelayPropagationDynamics]]
 [[EcosystemTopologyCoupling]]
 [[EdgeIoTEnergyAwareness]]
+[[EvolutionaryDiversityPreservation]]
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[FunctionalRelevanceDrivenSelfOrganization]]

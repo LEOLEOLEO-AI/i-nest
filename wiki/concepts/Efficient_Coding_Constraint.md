@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenTracking]]
 [[EventDrivenTrajectoryEncoding]]
 [[EventDrivenWirelessTransmission]]
+[[EventDriven_Interconnect]]
 [[InNetworkAgentRewiring]]
 [[InputAdaptiveComputation]]
 [[Intelligence_Emergence]]

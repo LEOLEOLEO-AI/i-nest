@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveArchitecture]]
 [[AdjointWaveControl]]
 [[ArtificialProprioception]]
+[[CircuitTopologyEncoding]]
 [[Complex_System_Theory]]
 [[Confinement]]
 [[ControlDrivenCriticalFluctuations]]

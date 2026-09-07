@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Brain_Connectome]]
 [[ConnectomeFidelityClaim]]
 [[Connectome]]
+[[EmulationTheoryObserver]]
 [[FlexibilityThreshold]]
 [[FrozenRateOperator]]
 [[Neuromorphic_Computing]]

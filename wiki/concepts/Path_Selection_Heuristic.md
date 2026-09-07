@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Inference_Workload_Profiling]]
 [[Interconnect_Routing]]
 [[Interconnect_Topology]]
+[[InverseDesignedPhotonicRouting]]
 [[Memory_Wall]]
 [[Memristor]]
 [[Memristor_Synapse]]
@@ -60,7 +61,6 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
-[[chiplet interconnect]]
 [[Γst_Revision]]
 
 ## Sources

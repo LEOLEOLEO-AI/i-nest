@@ -73,7 +73,7 @@ Auto-extracted concept from raw material compilation.
 [[Topology_Centric_Computing]]
 [[Topology_Centric_Computing_Paradigm]]
 [[Topology_Page]]
-[[chiplet interconnect]]
+[[Topology_Page_Switching]]
 [[iNEST]]
 [[iNEST_Interconnect]]
 [[iNEST_Wafer]]

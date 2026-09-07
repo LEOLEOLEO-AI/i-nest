@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[DiscreteSTDP]]
 [[GraphGeometryAlignment]]
 [[IntrinsicTimingSTDP]]
+[[Memristive_STDP]]
 [[Neuromorphic_Computing]]
 [[STDP_Learning]]
 [[STDP_Learning_Rule]]

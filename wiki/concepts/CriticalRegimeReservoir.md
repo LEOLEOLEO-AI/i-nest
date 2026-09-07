@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[SelfOrganizedCriticalityConsciousness]]
 [[Self_Organized_Criticality]]
+[[SubsystemInformationCapacity]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]

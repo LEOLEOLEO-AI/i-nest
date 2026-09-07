@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptersInSpikingNetworks]]
 [[Alignment_Tax]]
 [[AllParallelNonVonNeumannArchitecture]]
+[[AstrocyteInspiredRepair]]
 [[Complex_System_Theory]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]

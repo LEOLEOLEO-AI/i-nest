@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[AttractorNeuralNetwork]]
 [[AutoAssociativeMemoryRobustness]]
 [[BCM滑动阈值]]
+[[Battlefield_AI_Deployment]]
 [[CST_Theory]]
 [[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]

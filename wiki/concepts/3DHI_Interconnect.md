@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_Integration]]
 [[Chiplet_NoC_Fabric]]
+[[Chiplet_NoC_Interconnect]]
 [[Compute_Centric_NoC]]
 [[Dynamic_Expert_Fusion]]
 [[Heterogeneous_Integration]]

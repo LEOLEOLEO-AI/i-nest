@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Environmental_Capability_Context]]
 [[EventCameraActionRecognition]]
 [[FirstPrinciples_Derivation]]
+[[FixedOverheadPenalty]]
 [[Heterogeneous_Integration]]
 [[HigherOrderStochasticProcess]]
 [[Hypergraph_Label_Noise]]

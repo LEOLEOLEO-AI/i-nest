@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Plasticity_vs_Computation_Separation]]
 [[RLFlightControl]]
+[[SDI_TopologicalControl]]
 [[SelfOrganization]]
 [[Synaptic_Plasticity]]
 [[TCC]]

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AI人工智能 卷积神经网络（CNN）_w3cschool]]
 [[AdditiveTopology_Embedding]]
 [[Analog_InMemory_Processing]]
+[[BCM滑动阈值]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

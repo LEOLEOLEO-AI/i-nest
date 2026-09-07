@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[EnergyEfficientSNN]]
 [[EventDrivenRiskAssessment]]
 [[Event_Driven_Architecture]]
+[[Event_Driven_Orbital_Object_Pipeline]]
 [[FoveationGuidedTokenSelection]]
 [[InNetwork_Neuromorphic]]
 [[InNetwork_Neuromorphic_CoDesign]]

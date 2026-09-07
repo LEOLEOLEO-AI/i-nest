@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Defense_Industrial_Base_Reshaping]]
 [[EvolvingArchitectureDynamics]]
 [[HybridCouplingThermosensitiveNetwork]]
+[[LocalStructuralPlasticity]]
 [[Neuromorphic_Computing]]
 [[Scalable_Neuromorphic_System]]
 [[Synaptic_Plasticity]]

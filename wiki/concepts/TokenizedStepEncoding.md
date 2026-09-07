@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Distributed_Spike_Communication]]
 [[ErrorAmplificationLimits]]
 [[Heterogeneous_Integration]]
+[[InterFPGA_Spike_Routing]]
 [[LatencyGradientDescent]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Chiplet]]

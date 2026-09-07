@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AI-ML — 全景导航 (Map of Content)]]
 [[ActiveInference]]
 [[Analog_InMemory_Processing]]
+[[AndersonTransition]]
 [[AutonomousAdaptation]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -55,7 +56,6 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[TCC]]
 [[ThermallyDrivenSuperparamagnetReservoir]]
-[[chiplet interconnect]]
 [[iNEST]]
 [[Γst_Revision]]
 

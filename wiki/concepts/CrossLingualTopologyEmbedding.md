@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[KV_Cache_to_BoundaryObject_Transition]]
 [[MachineLearningPotentialMD]]
 [[MachineLearningPotential]]
+[[MetaHardwareAbstraction]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]

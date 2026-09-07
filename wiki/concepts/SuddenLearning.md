@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[PhysicalTransientEncoding]]
+[[Rare_Event_Dynamics]]
 [[ReservoirDiversity]]
 [[Reservoir_Computing]]
 [[RunawayAvalanche]]

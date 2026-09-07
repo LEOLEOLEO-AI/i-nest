@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]
+[[StochasticReservoirState]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

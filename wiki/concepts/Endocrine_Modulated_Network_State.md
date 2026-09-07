@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstCoding]]
 [[Complex_System_Theory]]
 [[Contested_Prior_Resolution]]
+[[CorticalWaveRouting]]
 [[DiscreteSTDP]]
 [[DistinguishableHelium4]]
 [[Dynamic_Expert_Fusion]]

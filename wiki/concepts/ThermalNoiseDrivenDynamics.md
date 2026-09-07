@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[HodgkinHuxleyDynamics]]
 [[InNetworkAgentRewiring]]
+[[InNetworkNeuromorphicEmergence]]
 [[In_Network_Neuromorphic]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]

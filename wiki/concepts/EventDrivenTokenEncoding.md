@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[ContinuousControlConversion]]
 [[ContinuousTimeSNN]]
 [[Criticality]]
+[[DeepLinearNetworkCriticality]]
 [[DelayAwareSpikeEventDelivery]]
 [[DirectSNNTraining]]
 [[EnergyEfficientSNN]]

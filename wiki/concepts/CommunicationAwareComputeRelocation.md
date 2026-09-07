@@ -58,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_NPU_NoC_Integration]]
 [[SDI_STDP]]
 [[SDI_STDP_Rule]]
+[[SDSoW]]
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[System_Level_Utility_Control]]

@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[HardwareAware_DesignSpace]]
 [[Hardware_Accelerated_SNN]]
 [[InNetworkAgentRewiring]]
+[[InNetworkNeuromorphicSimulation]]
 [[Intelligence_Emergence]]
 [[Memristor]]
 [[Memristor_Network]]

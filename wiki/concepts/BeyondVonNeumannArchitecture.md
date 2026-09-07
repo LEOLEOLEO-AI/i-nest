@@ -57,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Synapse]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
+[[OptimalGeneralisationNearInterpolation]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SneakPathCurrentSuppression]]
 [[TCC]]

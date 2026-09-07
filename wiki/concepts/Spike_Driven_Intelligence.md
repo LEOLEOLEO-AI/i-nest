@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Spiking]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Topology]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

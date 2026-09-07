@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[ClosedLoopNeuromorphicControl]]
 [[CorticalWaveRouting]]
 [[Dynamic_Expert_Fusion]]
+[[Dynamic_Expert_Routing]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[ExplainableEnergyAI]]

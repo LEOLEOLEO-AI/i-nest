@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[MultiModel_Adapter_Architecture]]
 [[Neuromorphic_Computing]]
 [[NeuronModelAbstractionLayer]]
+[[Personalised_Strategy_Optimisation]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[STDP_Learning]]

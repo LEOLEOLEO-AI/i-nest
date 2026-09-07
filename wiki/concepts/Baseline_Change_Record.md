@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[DrivenCriticalityOptimalityTradeoff]]
 [[EnergyProportionalityCeiling]]
 [[EventBasedMotionDeblurring]]
+[[EventCameraTemporalPipeline]]
 [[EventDrivenAutoregression]]
 [[EventDrivenMotionDeblurring]]
 [[EventDrivenSynchronization]]

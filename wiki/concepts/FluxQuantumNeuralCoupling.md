@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[OpportunisticRoutingRL]]
 [[OpportunisticRouting]]
+[[RandomGraphQuantumChaos]]
 [[SOC]]
 [[Scalable_Neuromorphic_System]]
 [[Spiking_Neural_Network]]

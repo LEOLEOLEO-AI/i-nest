@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeTimingDependentUpdate]]
 [[SpikeTimingEncoding]]
 [[Spiking_Neural_Network]]
+[[TemporalFeaturePropagation]]
 [[iNEST]]
 
 ## Sources

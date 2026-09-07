@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration_Roadmap_HIR]]
 [[HypergraphNeuralDynamics]]
 [[Intelligence_Emergence]]
+[[InterconnectConstrainedEmergence]]
 [[Memristive_Topology]]
 [[MicroTransferPrinting]]
 [[Network_Topology_Design]]

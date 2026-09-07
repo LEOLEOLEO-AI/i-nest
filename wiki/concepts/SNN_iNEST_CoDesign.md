@@ -32,10 +32,10 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Network]]
 [[Memristor_Synapse]]
 [[MetaFAIR_ArchitectureDiscovery]]
+[[National_Innovation_Center_Role]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[SNN_iNEST]]
-[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

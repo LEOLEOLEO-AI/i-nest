@@ -34,7 +34,6 @@ Auto-extracted concept from raw material compilation.
 [[Bias_Origin_Taxonomy]]
 [[BoundaryObject_Abstraction]]
 [[CST_MasterEquation]]
-[[Causal_Emergence]]
 [[Chiplet]]
 [[Chiplet_Based_Trusted_Hardware]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -51,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicServiceComposition]]
 [[EarlyExitInference]]
 [[ElectromigrationReliability]]
+[[EnergyOptimizedManycoreArchitecture]]
 [[GPU_Bottleneck_Relief]]
 [[GeneralIntelligenceSubstrate]]
 [[Heterogeneous_Integration]]
@@ -62,6 +62,7 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[TCC]]
 [[advanced packaging]]
+[[causal emergence]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

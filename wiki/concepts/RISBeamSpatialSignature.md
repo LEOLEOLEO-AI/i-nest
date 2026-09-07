@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[NoC]]
 [[NoC_SDI]]
+[[Packaging_Aware_NoC_Design]]
 [[PhononicBandgapEngineering]]
 [[PinAssignmentOptimization]]
 [[RadiationHardened_ProcessNodeScaling]]

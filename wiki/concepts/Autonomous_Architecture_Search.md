@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[Convergent_Evolution_Representation_Space]]
 [[Decoupled_Prior_Integration]]
+[[DelayParameterSpaceDecomposition]]
 [[Inference_Stage_Decomposition]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[BeyondVonNeumannArchitecture]]
 [[FullSpectrumPhotonicMemristor]]
 [[HybridResistiveMemoryCIM]]
+[[IMPLYMemristiveISA]]
 [[In_Memory_Computing]]
 [[Memristor]]
 [[Memristor_Crossbar]]

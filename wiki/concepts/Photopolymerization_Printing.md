@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[DAGGER_Algorithm]]
 [[DisorderInducedLocalization]]
 [[DistributedInference]]
+[[ErrorSuppressedPipeline]]
 [[MagicStateProtocol]]
 [[MemristorStateEvolution]]
 [[Memristor]]

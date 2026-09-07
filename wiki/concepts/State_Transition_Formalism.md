@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Network_Architecture_Invariant]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
+[[GPU_Bottleneck_Relief]]
 [[Heterogeneous_Integration]]
 [[HybridResistiveMemoryCIM]]
 [[InMateriaComputing]]

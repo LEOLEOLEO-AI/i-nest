@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[SpectralSpikeEncoding]]
 [[SpikeEncoding]]
 [[Spike_Encoding_of_fMRI]]
+[[SpikingAttentionComplexityReduction]]
 [[Spiking_Neural_Network]]
 [[SynapticRewiringDynamics]]
 [[Synaptic_Plasticity]]

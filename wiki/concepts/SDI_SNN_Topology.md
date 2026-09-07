@@ -28,13 +28,14 @@ Auto-extracted concept from raw material compilation.
 [[BrownianCastleInterface]]
 [[BrownianCastleInterfaces]]
 [[BurstTemporalPlasticity]]
+[[CST_Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
 [[SDI_SNN]]
 [[SNN]]
-[[Spiking neural network]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 
 ## Sources

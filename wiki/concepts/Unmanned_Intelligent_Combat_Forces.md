@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Computation]]
 [[ExplainableEnergyAI]]
 [[Intelligence_Emergence]]
+[[JunctionSignalIntegrity]]
 [[ManyBodyLocalizationThermalizationDuality]]
 [[ManyBodyLocalization]]
 [[MemristiveSignedCouplings]]

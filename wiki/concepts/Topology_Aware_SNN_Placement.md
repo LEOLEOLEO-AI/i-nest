@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_Interconnect]]
 [[MixedLabyrinthFractal]]
 [[Network_Topology_Design]]
+[[NeuromorphicVisualPipeline]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[OpenSource_Neuromorphic_Framework]]

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_SynergisticCoordination]]
 [[CST计量仪]]
 [[Chain_of_Thought_Reasoning]]
+[[Chiplet_Security_Architecture]]
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[ConnectomicDevelopmentalTrajectory]]

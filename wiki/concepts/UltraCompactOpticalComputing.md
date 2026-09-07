@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[ChiralSymmetryClasses]]
 [[Complex_System_Theory]]
 [[ComputeRelocationOverhead]]
+[[Compute_In_Memory_Neuromorphic]]
 [[Deep_Network_Architecture_Invariant]]
 [[Deep_Thermalisation]]
 [[Dynamic_Expert_Fusion]]

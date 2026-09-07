@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[DisorderedNetworkDynamics]]
 [[Heterogeneous_Integration]]
 [[Heterogeneous_Synaptic_Motifs]]
+[[Intelligence_Emergence]]
 [[MIT_异构Chiplet集成构建下一代计算的_超级芯片_]]
 [[NCL神经计算定律详解]]
 [[Nat_Hum_Behav_用「全拓扑网络」重塑视皮层地图]]
@@ -54,7 +55,11 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[iNEST 论文矩阵计划]]
 [[iNEST]]
+[[复杂网络]]
 [[战略报告提纲：物理复杂网络智能涌现——颠覆现有算力范式的新路线]]
+[[智能涌现]]
+[[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

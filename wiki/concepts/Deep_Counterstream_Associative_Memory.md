@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicHardware]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_MuscleInterface]]
 [[RecurrentSpikingDynamics]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SOC]]

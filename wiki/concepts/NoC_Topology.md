@@ -40,9 +40,9 @@ Auto-extracted concept from raw material compilation.
 [[NoC_TopologyMapping]]
 [[OnWafer_2D_Mesh]]
 [[Packaging_CoDesign]]
+[[PhaseII_Organization_Model]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
-[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

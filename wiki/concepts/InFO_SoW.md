@@ -21,10 +21,13 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[4H_SiC_SubstrateProcessing]]
+[[AI_Faculty_Forum_2026]]
 [[AnalogInMemoryComputing]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
+[[Neuromorphic_Computing]]
 [[P_Paradigm]]
 [[TCC]]
 [[Wafer_Level_Interconnect]]

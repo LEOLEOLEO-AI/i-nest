@@ -38,8 +38,8 @@ Auto-extracted concept from raw material compilation.
 [[National_Mesoscale_Innovation_Center]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[SDSoW]]
 [[Wafer_Scale_Integration]]
-[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

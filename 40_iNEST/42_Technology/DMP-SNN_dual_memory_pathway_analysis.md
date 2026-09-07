@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 技术
+tags: [neuromorphic-computing, hardware-software-co-design, spiking-neural-network, energy-efficiency, memory-architecture]
+summary: "双记忆通路神经形态网络软硬件协同设计，实现高能效长程时序建模"
+quality: high
+processed: 2026-09-08 06:46
+---
+---
 title: "帝国理工2026年Nature Machine Intelligence论文深度解析：双记忆通路神经形态网络的软硬件协同设计"
 tags:
   - green-ai

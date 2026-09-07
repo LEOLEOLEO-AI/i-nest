@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[EvolvingArchitectureDynamics]]
 [[Gate_Synthesis_Readout]]
 [[Generation_Quality_Refinement]]
+[[Halide_Perovskite_Synapse]]
 [[HybridCouplingThermosensitiveNetwork]]
 [[InterDomain_Synergy]]
 [[LatencyGradientDescent]]

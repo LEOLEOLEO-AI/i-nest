@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[ActionPrototypeClustering]]
 [[Activity_Dependent_Plasticity]]
 [[BigBrainCellularAxis]]
+[[Chiplet_Integration_Route]]
 [[Memory_Wall]]
 [[Neuromorphic_Computing]]
 [[SDSoW]]

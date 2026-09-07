@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicTrackingPipeline]]
 [[Neuromorphic_Computing]]
 [[OpticallyWritableAtomicVaporMemory]]
+[[QueryComplexityScaling]]
 [[TCC]]
 
 ## Sources

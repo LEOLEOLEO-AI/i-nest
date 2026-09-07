@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[DisorderedNetworkInterconnect]]
 [[ExactlyFlatTopologicalBands]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
+[[Generative_Graph_Models]]
 [[InNetworkComputing]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

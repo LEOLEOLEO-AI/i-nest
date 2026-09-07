@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[BCM滑动阈值]]
 [[CST_Synergy_Coordination]]
 [[CST计量仪]]
+[[CertifiedBifurcationDetection]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
 [[CriticalBranchingMechanism]]

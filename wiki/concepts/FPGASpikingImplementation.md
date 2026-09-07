@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicTopologyMapping]]
 [[DynamicTopology]]
 [[EventDrivenModularArchitecture]]
+[[EventDriven_Interconnect]]
 [[FPGA_Neuromorphic_Acceleration]]
 [[FPGA_Neuromorphic_Architectures]]
 [[Interconnect_Routing]]

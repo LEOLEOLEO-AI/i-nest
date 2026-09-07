@@ -39,8 +39,10 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[NoC]]
 [[P_Paradigm]]
+[[SDI_Bond]]
 [[SDI_NPU_NoC_Integration]]
 [[TCC]]
+[[WaferScaleTopologyCentricComputing]]
 [[advanced packaging]]
 
 ## Sources

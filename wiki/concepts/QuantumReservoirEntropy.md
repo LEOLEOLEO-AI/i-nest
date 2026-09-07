@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Crystallized_Neural_Manifolds]]
 [[DataDrivenMaterialDesign]]
 [[DifferentiableLifting]]
+[[DistributedInference]]
 [[Epidemic_Mitigation_Strategy]]
 [[ErrorSuppressedPipeline]]
 [[Evolving_System_Adaptation]]

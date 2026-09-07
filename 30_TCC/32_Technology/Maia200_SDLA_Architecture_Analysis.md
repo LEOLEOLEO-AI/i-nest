@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 技术
+tags: [AI加速器, 数据流架构, 芯片设计, LLM推理, 微软Maia200]
+summary: "微软Maia200芯片采用SDLA数据流架构，通过软件管理数据移动优化AI推理效率。"
+quality: high
+processed: 2026-09-08 06:47
+---
+---
 title: "微软 Maia 200 深度拆解：SDLA 数据流架构如何重构下一代 AI 加速器"
 tags:
   - transformer

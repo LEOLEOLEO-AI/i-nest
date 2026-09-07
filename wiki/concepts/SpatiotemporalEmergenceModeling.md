@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[AnalogDomainCompression]]
 [[AnomalousSpinTransport]]
 [[ArbitraryWavefunctionConfigurability]]
+[[AstrocyteInspiredRepair]]
 [[BurstTemporalPlasticity]]
 [[CSI_Temporal_Encoding]]
 [[Chiplet]]

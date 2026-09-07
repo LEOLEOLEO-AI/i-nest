@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[MagicStateProtocol]]
 [[Manifold_Topology_DeepLearning]]
 [[Network_Topology_Design]]
+[[NoCPlacementRoutingCoDesign]]
 [[TCC]]
 [[complex system]]
 [[iNEST]]

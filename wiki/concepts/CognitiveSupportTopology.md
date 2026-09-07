@@ -56,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[SpatiotemporalCooperativeIntelligence]]
 [[Spatiotemporal_Synergy]]
 [[Spatiotemporal_Synergy_Complexity]]
+[[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[Thermopneumatic_Actuation]]
 [[TopologicalAndersonChernInsulator]]
 [[analog computation]]

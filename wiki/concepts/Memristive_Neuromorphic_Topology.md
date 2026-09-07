@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[BoundaryObject_Abstraction]]
 [[Deep_Network_Architecture_Invariant]]
+[[Independent_EdgeAI_Player_Endgame]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]

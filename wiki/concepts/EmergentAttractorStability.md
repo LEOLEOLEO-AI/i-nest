@@ -57,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[StochasticSpikeEncoding]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[TemporalCodingOptimization]]
 [[iNEST]]
 [[神经网络]]
 

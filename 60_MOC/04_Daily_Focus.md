@@ -1,4 +1,4 @@
-## 今日焦点 — 2026-09-06
+## 今日焦点 — 2026-09-08
 
 **并行主线 (7月30日前)**
 
@@ -9,7 +9,7 @@
 
 ## 今日文献 (0 TCC + 2 iNEST)
 
-- [iNEST] High-Throughput Computational Discovery of Inverted Resistive Switchin
-- [iNEST] A Reconfigurable Hybrid Convolutional-Fully Connected Neuromorphic Cor
+- [iNEST] Quantum-State Texture Dynamics: Theory and Experiment
+- [iNEST] Large Language Models with At Most One Spike per Neuron
 
-*生成于 2026-09-06 23:34*
+*生成于 2026-09-08 06:56*

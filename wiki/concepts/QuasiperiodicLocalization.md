@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[AttractorBasinOrthogonality]]
 [[AutonomousCircuitMorphogenesis]]
 [[BCM滑动阈值]]
+[[Biocompatible_Neuromorphic_Interface]]
 [[CST计量仪]]
 [[Complex_System_Theory]]
 [[Confinement]]

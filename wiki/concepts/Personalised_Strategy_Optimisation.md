@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstTemporalPlasticity]]
 [[Cognitive_Relapse_Decoupling]]
 [[CriticalityDrivenStateTransition]]
+[[CriticalityOffCriticalityTransition]]
 [[Criticality]]
 [[DelayAwareSpikeEventDelivery]]
 [[DynamicTokenSparsity]]

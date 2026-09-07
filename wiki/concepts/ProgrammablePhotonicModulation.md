@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[CMOS_Memristor_Devices]]
 [[ChargeDomainAttention]]
 [[Emerging_CMOS_Memristor_Devices]]
+[[FerroelectricMemoryCell]]
 [[In_Memory_Computing]]
 [[Memristor]]
 [[Memristor_Crossbar]]

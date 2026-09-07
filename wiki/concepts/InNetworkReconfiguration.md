@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[FlexibleManifoldReconfiguration]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Interconnect_Routing]]
+[[LocalPlasticityPipeline]]
 [[MoE_Routing]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

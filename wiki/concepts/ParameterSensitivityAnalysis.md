@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]
 [[Neuromorphic_Computing]]
 [[ProbabilityDensityNeuralField]]
+[[SNN]]
 [[SNN_Sparsity_InformationBound]]
 [[STDP_Plasticity]]
 [[Spiking_Neural_Network]]
@@ -54,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[iNEST]]
 [[神经网络]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[FiniteSizeTopologicalPhase]]
 [[GNN图神经网络，非结构化数据分析利器！]]
 [[Intelligence_Emergence]]
+[[Milinkovic B (2024)：复杂神经系统涌现动力学结构]]
 [[Network_Topology_Design]]
 [[Power_Density_Law]]
 [[QuasiperiodicCriticalPhase]]

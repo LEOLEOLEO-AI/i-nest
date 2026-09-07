@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[BrainBodyResonance]]
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
+[[InNetworkNeuromorphicSimulation]]
 [[Master_SDDE]]
 [[Memristive_STDP]]
 [[Memristor]]

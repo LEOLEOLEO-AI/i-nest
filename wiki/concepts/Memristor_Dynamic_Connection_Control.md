@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveCompetingInteractions]]
 [[Adaptive_Deep_Brain_Stimulation]]
 [[CommunicationAwareComputeRelocation]]
+[[Emergent_Order_Deep_Belief_Networks]]
 [[Interconnect_Routing]]
 [[Memristor]]
 [[Memristor_Synapse]]

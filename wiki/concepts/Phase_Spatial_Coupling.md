@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AnisotropicGaussianPrimitives]]
 [[AnomalousSpinTransport]]
 [[Bidirectional_Temporal_Enhancement]]
+[[CST_Exponential_Gain]]
 [[CirculateFiringNeuron]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]

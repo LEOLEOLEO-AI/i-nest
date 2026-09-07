@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[EmulationTheoryDisturbanceObserver]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Organization]]
+[[Neuromorphic_Planning_Architecture]]
 [[Self_Organized_Criticality]]
 [[UnifiedHypergraphStateSpace]]
 

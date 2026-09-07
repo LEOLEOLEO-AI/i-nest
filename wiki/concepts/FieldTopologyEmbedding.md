@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[FastSlow_Dynamics]]
 [[GoalNormalization]]
 [[HallmarksOfCancer]]
+[[HaloConnectivity]]
 [[ImaginaryGaugePhaseImprint]]
 [[Intelligence_Emergence]]
 [[KV_Cache_To_BoundaryObject]]

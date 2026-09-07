@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[DeeplySupervisedSpiking]]
 [[DendriticTaskPartitioning]]
+[[Distributed_Spike_Communication]]
 [[DrivenDissipativeDynamics]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]

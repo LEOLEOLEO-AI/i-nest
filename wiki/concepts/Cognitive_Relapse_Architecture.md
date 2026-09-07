@@ -73,15 +73,16 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]
 [[TCC]]
+[[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[TemporalComplexity]]
 [[Topology_Interconnect]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
 [[analog computation]]
-[[chiplet interconnect]]
 [[iNEST]]
 [[residual connection]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

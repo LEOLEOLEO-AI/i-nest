@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[CulturalDisseminationDynamics]]
 [[EdgeIoTEnergyAwareness]]
 [[Edge_Intelligence]]
+[[Electronic_Warfare_Integration]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[FlexibilityThreshold]]
@@ -61,6 +62,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TacticalEdgeIntelligence]]
 [[TemporalSemanticEntropy]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

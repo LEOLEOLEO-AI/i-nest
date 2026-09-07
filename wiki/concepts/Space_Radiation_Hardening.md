@@ -59,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC]]
 [[NoC_Interconnect]]
 [[Packaging_Aware_NoC_Design]]
+[[RadiationHardened_ProcessNodeScaling]]
 [[SDI_Bond]]
 [[SDI_NPU_NoC_Integration]]
 [[SDI_TopologicalControl]]

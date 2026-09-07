@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveFunctionalTopology]]
 [[BarrierConditionedTrajectory]]
 [[DirectoryManagementLaws]]
+[[LowRankParameterPerturbation]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[SNN]]

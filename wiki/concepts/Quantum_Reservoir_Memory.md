@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[CouplingTopologyMemoryLink]]
 [[Coupling_Topology]]
+[[CrossDomainAwareness]]
 [[Crystallized_Embedding_Reservoir]]
 [[DARPA_ProjectManager_Model]]
 [[Deep_Network_Layer_Stacking]]

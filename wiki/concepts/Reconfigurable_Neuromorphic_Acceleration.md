@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Reconfigurability]]
 [[FPGA_SNN_Inference]]
 [[FlexibleNeuromorphicAccelerator]]
+[[FunctionalRelevanceDrivenSelfOrganization]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

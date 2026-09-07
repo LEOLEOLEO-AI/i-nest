@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[BrownianCastleInterface]]
 [[CouplingTopologyMemoryLink]]
+[[DTGA]]
 [[Generation_Readiness_Assessment]]
 [[InteractingQuasiPeriodicChain]]
 [[Interconnect_Routing]]

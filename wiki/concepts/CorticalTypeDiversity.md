@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[AvalancheBranchingRatio]]
 [[BigBrainCellularAxis]]
+[[BranchingRatio]]
 [[CST_Equation]]
 [[CST_Exponential_Form]]
 [[CST计量仪]]
@@ -34,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_based_heterogeneous_integration]]
 [[Cognitive_Relapse_Architecture]]
 [[Complex_System_Theory]]
+[[Core_Spacetime_Tensor]]
 [[DRBE_MVP_Mainchain]]
 [[DTGA]]
 [[EulaminateOverrepresentation]]
@@ -80,7 +82,6 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
-[[chiplet interconnect]]
 [[residual connection]]
 [[Γst_Revision]]
 

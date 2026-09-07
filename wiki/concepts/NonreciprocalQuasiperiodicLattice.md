@@ -59,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[SynchronizationAttractorBasin]]
 [[TCC]]
 [[TCC_Neuromorphic_Integration]]
+[[TemporalSpikePattern]]
 [[Topology_Dynamics_Aware_RL]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]

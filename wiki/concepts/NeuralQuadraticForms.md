@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[OpenLearningEcosystem]]
 [[P_Paradigm]]
 [[Phase_Synchronization_Collective_Dynamics]]
+[[QuantumConvolutionalTopology]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicCentralitySteering]]
 [[DynamicalCriticality]]
 [[EmulationTheoryDisturbanceObserver]]
+[[EventDrivenMotionDeblurring]]
 [[InNetworkComputing]]
 [[Neuromorphic_Computing]]
 [[Self_Organized_Criticality]]

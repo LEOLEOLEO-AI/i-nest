@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[CorticalTypeDiversity]]
 [[DTGA]]
 [[Decoupling_Mechanism]]
+[[Deep_Network_Layer_Stacking]]
 [[DendriticReservoirState]]
 [[Free_Energy_Topology_Mapping]]
 [[FunctionalInterfaceBlock]]
@@ -54,7 +55,6 @@ Auto-extracted concept from raw material compilation.
 [[ReproducibleReservoirComputing]]
 [[Reservoir_Computing]]
 [[TCC]]
-[[chiplet interconnect]]
 [[iNEST]]
 
 ## Sources

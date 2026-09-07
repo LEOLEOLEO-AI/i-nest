@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Reservoir_Topology]]
 [[HardwareAware_DesignSpace]]
 [[InNetworkAgentRewiring]]
+[[InNetworkNeuromorphicSimulation]]
 [[Intelligence_Emergence]]
 [[Izhikevich_NeuronModel]]
 [[LatencyCoding]]

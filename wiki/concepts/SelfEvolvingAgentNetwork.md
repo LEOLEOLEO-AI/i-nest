@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityInNetworkComputing]]
 [[CriticalityOffCriticalityTransition]]
 [[Criticality]]
+[[DiffusionInducedInstability]]
 [[FlexibilityThreshold]]
 [[InNetworkComputing]]
 [[Network_Topology_Design]]

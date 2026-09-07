@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 资料
+tags: [AI, 端边侧, 互连网络, OODA, 软件定义, 芯片, 产业趋势, 报告规划]
+summary: "端边侧AI互连新赛道报告规划，论证产业逻辑与战略升级。"
+quality: high
+processed: 2026-09-08 06:47
+---
+---
 title: "报告时长与内容规划"
 tags:
   - neuroscience

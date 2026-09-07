@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[DissipativeQuantumReservoir]]
 [[Emergent_Reservoir_Topology]]
 [[GroupInteractionThreshold]]
+[[InNetworkNeuromorphicSimulation]]
 [[Intelligence_Emergence]]
 [[LatencyCoding]]
 [[MeasurementInducedNonlinearity]]

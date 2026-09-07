@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Control_Field_Framework]]
 [[CrossLayer_Feedback]]
 [[Crossbar_Programming]]
+[[Crystallized_Neural_Manifolds]]
 [[DevelopmentalNeuromorphicAdaptation]]
 [[DissipativePhaseTransition]]
 [[DynamicReconfigurationForFaultTolerance]]

@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[EfficientDeepLearning]]
 [[EmergentIntelligence_Spacetime]]
+[[Flow_Network_Memory]]
 [[Heterogeneous_Inference_Division]]
 [[Heterogeneous_Integration]]
 [[InMateriaComputing]]
@@ -65,6 +66,7 @@ Auto-extracted concept from raw material compilation.
 [[Textbook_Paradigm_Definition]]
 [[TopologicalAndersonChernInsulator]]
 [[Topological_Synchrony]]
+[[causal emergence]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

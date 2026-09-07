@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[3D_Torus_6_Degree]]
 [[3d]]
 [[AutonomousAdaptation]]
+[[BarrierConditionedTrajectory]]
 [[Cognitive_Relapse_Decoupling]]
 [[CorticalWaveRouting]]
 [[CriticalNormBoundary]]

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[3d]]
 [[AI-ML — 全景导航 (Map of Content)]]
 [[AI_Application_Scenario_Reconstruction]]
+[[Allreduce_Latency_Benchmark]]
 [[Analog_InMemory_Processing]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]

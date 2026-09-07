@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[20W_Brain_Inspired_Planning]]
 [[AI-ML — 全景导航 (Map of Content)]]
 [[AI_Orchestrator]]
+[[Active_Inference_Agent]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

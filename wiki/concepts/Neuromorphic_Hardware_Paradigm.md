@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[ClosedLoopNeuromorphicControl]]
 [[Complex_System_Theory]]
 [[ContinualLearningOnNeuromorphic]]
+[[CorticalWaveRouting]]
 [[DiscreteSTDP]]
 [[EventDrivenAutoregression]]
 [[EventDrivenRiskAssessment]]

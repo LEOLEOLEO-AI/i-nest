@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Inference_Stage_Decomposition]]
 [[Inference_Workload_Profiling]]
+[[Liquid_Topology_Computing]]
 [[Memristive_Topology]]
 [[Memristor]]
 [[Memristor_Interconnect]]

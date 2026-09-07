@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Wafer_Topology]]
 [[Collective_Offloading]]
 [[ComponentLevelPackaging]]
+[[ComputationEfficientDeepLearning]]
 [[DARPA_ProjectManager_Model]]
 [[Decoupled_Priors]]
 [[Deep_Network_Architecture_Invariant]]
@@ -71,7 +72,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TemporalComplexity]]
 [[advanced packaging]]
-[[chiplet interconnect]]
+[[causal emergence]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveGraphDiffusion]]
 [[Adaptive_Intelligence_Principle]]
 [[Adaptive_Service_Orchestration]]
+[[Agile_Resilient_Defense_Ecosystem]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[TCC]]

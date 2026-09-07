@@ -49,7 +49,9 @@ Auto-extracted concept from raw material compilation.
 [[STDP_iNEST]]
 [[Scale_Dependent_Coherence]]
 [[Synaptic_Plasticity]]
+[[Syncytial_Mesh]]
 [[Syncytial_Mesh_Model]]
+[[WormBrain_FlyBody_Controller]]
 [[iNEST]]
 
 ## Sources

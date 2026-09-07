@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Specific_Embedding_Separation]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Energy_Aware_Learning]]
 [[Neuromorphic_Integration]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDPrompt_Guided_Dynamic_Expert_Fusion]]

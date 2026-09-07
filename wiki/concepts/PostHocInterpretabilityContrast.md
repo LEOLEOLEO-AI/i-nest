@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[CriticalityAwareTopology]]
 [[Criticality]]
+[[Generalized_Synchronization_Bond]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

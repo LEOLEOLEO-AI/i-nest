@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[EnergyEfficientSNN]]
 [[EventDrivenInference]]
 [[Event_Driven_Architecture]]
+[[Event_Driven_Orbital_Object_Pipeline]]
 [[Hybrid_ANN_SNN_Pipeline]]
 [[InNetwork_Neuromorphic]]
 [[InNetwork_Neuromorphic_CoDesign]]

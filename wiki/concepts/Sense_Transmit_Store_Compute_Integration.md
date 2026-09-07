@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3D_Heterogeneous_Integration]]
+[[3d]]
 [[AI_Driven_Power_Density_Scaling]]
 [[AdaptiveBitPrecisionExploration]]
 [[AdaptiveGraphDiffusion]]
@@ -29,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[AndersonTransition]]
+[[BioInspiredGeneralist]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Compute_In_Memory_Neuromorphic]]

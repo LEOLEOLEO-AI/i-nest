@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Compact_Sequence_Encoding]]
 [[Discrete_Event_Spike_Simulation]]
 [[EventDrivenTemplateUpdate]]
+[[FFN_Neuron_Sparsity]]
 [[Neuromorphic_Computing]]
 [[Spiking_Neural_Network]]
 [[advanced packaging]]

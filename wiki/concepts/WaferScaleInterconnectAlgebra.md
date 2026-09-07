@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
 [[NoC]]
+[[NoC_Chiplet_Wafer_Stack]]
 [[NoC_Chiplet_iNEST_Wafer]]
 [[P_Paradigm]]
 [[Packaging_CoDesign]]
@@ -57,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[SDSoW_TCC_Integration]]
+[[Spatiotemporal_Synergy]]
 [[Switchless_Computing]]
 [[TCC]]
 [[ThreeLayerArchitecture]]
@@ -65,7 +67,6 @@ Auto-extracted concept from raw material compilation.
 [[WaferScaleTopologyCentricComputing]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
-[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

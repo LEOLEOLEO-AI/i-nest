@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[Nonlinear_Gain]]
 [[PhysicalSubstrateReservoir]]
 [[Reservoir_Computing]]
@@ -53,9 +54,11 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
+[[Wafer_Scale_Neuromorphic]]
 [[Wafer_Scale_Neuromorphic_Integration]]
 [[iNEST]]
 [[neuromorphic spiking]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

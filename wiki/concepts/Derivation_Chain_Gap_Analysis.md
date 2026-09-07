@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[BayesianConnectivityEstimation]]
 [[BioInspired_Interception_Control]]
 [[BioPlausibleDisturbanceObserver]]
+[[BurstGatedRouting]]
 [[Criticality]]
 [[Intelligence_Emergence]]
 [[Quantum_Criticality]]

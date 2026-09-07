@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_FullSpectrum_Strategy]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[CST_Exponential_Gain]]
 [[CST_MasterEquation]]
 [[CircadianGateModulation]]
 [[Complex_System_Theory]]

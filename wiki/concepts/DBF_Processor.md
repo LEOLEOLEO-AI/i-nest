@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[ConvexNonConvexTradeoff]]
 [[Defense_Industrial_Base_Reshaping]]
 [[DynamicServiceComposition]]
+[[Dynamic_Communication_Reconfiguration]]
 [[GPU_Bottleneck_Relief]]
 [[GeneralIntelligenceSubstrate]]
 [[Heterogeneous_Integration]]

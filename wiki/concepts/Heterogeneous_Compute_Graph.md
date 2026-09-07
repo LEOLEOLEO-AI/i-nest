@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
 [[ComputeRelocationOverhead]]
+[[DARPA_ERI_2_0_Framework]]
 [[Data_Movement_Bottleneck]]
 [[Deep_Thermalisation]]
 [[DendriticReservoirState]]

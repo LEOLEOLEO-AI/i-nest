@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Network_Architecture_Invariant]]
 [[EquilibriumTreePacking]]
 [[Heterogeneous_Integration]]
+[[IndexOrderingOptimization]]
 [[Interconnect_Routing]]
 [[Memristor]]
 [[Memristor_Interconnect]]
@@ -58,7 +59,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[WaferScale_Chiplet_Interconnect]]
 [[advanced packaging]]
-[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

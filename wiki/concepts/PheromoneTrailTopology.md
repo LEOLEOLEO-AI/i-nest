@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Architecture]]
 [[Complex_System_Theory]]
 [[Continual_Learning_Topology]]
+[[Cryogenic_Syndrome_Compression]]
 [[Dynamic_Expert_Fusion]]
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]

@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Alpha_Computation_Consistency]]
 [[AndersonTransition]]
 [[Ant_Swarm_Functional_Control]]
+[[BioInspiredGeneralist]]
 [[Cognitive_Relapse_Decoupling]]
 [[CollectiveStateTopology]]
 [[CommunicationAwareComputeRelocation]]

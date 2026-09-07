@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration_Route]]
 [[Chiplet_Stacking]]
 [[Complex_System_Theory]]
+[[Cryogenic_Syndrome_Compression]]
 [[DataProvenanceIntegrity]]
 [[Deep_Network_Architecture_Invariant]]
 [[Deep_Network_Layer_Stacking]]

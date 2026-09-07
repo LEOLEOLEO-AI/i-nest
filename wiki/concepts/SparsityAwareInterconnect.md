@@ -19,7 +19,9 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[1024_Card_SuperNode]]
 [[3DHI_Interconnect]]
+[[3D_IC_Stacking]]
 [[3d]]
 [[Additive_Manufacturing_Topology]]
 [[Advanced_Packaging]]
@@ -60,7 +62,6 @@ Auto-extracted concept from raw material compilation.
 [[WaferScale_Chiplet_Interconnect]]
 [[WideLink_NoC_Router]]
 [[advanced packaging]]
-[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]

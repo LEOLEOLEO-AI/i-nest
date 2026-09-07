@@ -26,6 +26,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 ## Related Work
 
 [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
+[[11_SDI节点接口规范与化合键定义_dup]]
 [[AI_Faculty_Forum_2026]]
 [[ANN动力学]]
 [[Alpha_Computation_Consistency]]
@@ -33,6 +34,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
+[[Complex_System_Theory]]
 [[Criticality]]
 [[EmergentOrder]]
 [[Emergent_Intelligence]]
@@ -76,7 +78,6 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Wafer_Scale_Interconnect_Memristor]]
 [[Wafer_Scale_Neuromorphic]]
 [[Wafer_Scale_Neuromorphic_Integration]]
-[[chiplet interconnect]]
 [[iNEST]]
 [[三原理协同_FEP_STDP_最小作用量]]
 [[神经网络]]

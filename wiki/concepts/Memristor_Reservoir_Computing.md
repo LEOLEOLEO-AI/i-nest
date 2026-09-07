@@ -57,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[SNN_TCC_Integration]]
 [[SNN_Topology_Integration]]
+[[SpikeTemporalAwareCompression]]
 [[Spiking_Neural_Network]]
 [[Stochastic_LIF_Inference]]
 [[TCC]]

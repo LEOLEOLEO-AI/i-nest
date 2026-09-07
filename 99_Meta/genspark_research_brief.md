@@ -1,11 +1,11 @@
 ---
-title: iNEST+TCC Research Brief - 2026-09-06
-date: 2026-09-06
+title: iNEST+TCC Research Brief - 2026-09-08
+date: 2026-09-08
 type: research-brief
 target: genspark
 ---
 
-# iNEST + TCC Research Brief - 2026-09-06
+# iNEST + TCC Research Brief - 2026-09-08
 
 > For Genspark deep analysis. Contains actionable research context.
 
@@ -33,23 +33,23 @@ target: genspark
 
 ## 4. Inbox Highlights
 
+- [2026-09-08] **2026-09-08_arXiv_Large Language Models with At Most One Spike per Neuron** (_pipeline_insights)
+- [2026-09-08] **2026-09-08_arXiv_Quantum-State Texture Dynamics Theory and Experiment** (_pipeline_insights)
+- [2026-09-08] **通用GPU时代是否终结：AI定制芯片行业分析** (01_GetNotes)
+- [2026-09-08] **宇宙的三种数学语言：π、e与黄金分割phi** (01_GetNotes)
+- [2026-09-08] **博通3.5D异构向内扩展架构深度解析：突破数据中心算力瓶颈** (01_GetNotes)
+- [2026-09-08] **Cerebras CTO访谈深度解读：晶圆级芯片与超快推理的未来** (01_GetNotes)
 - [2026-09-06] **2026-09-06_arXiv_A Reconfigurable Hybrid Convolutional-Fully Connected Neurom** (_pipeline_insights)
 - [2026-09-06] **2026-09-06_arXiv_High-Throughput Computational Discovery of Inverted Resistiv** (_pipeline_insights)
-- [2026-09-06] **微软 Maia 200 深度拆解：SDLA 数据流架构如何重构下一代 AI 加速器** (01_GetNotes)
-- [2026-09-06] **类脑芯片深度解析：向大脑学习的_省电智能_路线** (01_GetNotes)
-- [2026-09-06] **论文第5章 晶上系统拓扑搜索算法框架（待合并入拓扑乘性增益定理）** (01_GetNotes)
-- [2026-09-06] **第二份PPT：井芯微企业版（融资路演·完整正式稿）** (01_GetNotes)
-- [2026-09-06] **科研智能体** (01_GetNotes)
-- [2026-09-06] **混沌边缘的计算新脉搏** (01_GetNotes)
 
 ## 5. Knowledge Graph Hotspots
 
-Total notes: 12518
-Graph nodes: 12477 | edges: 243575
+Total notes: 12829
+Graph nodes: 12808 | edges: 253549
 
 Top connected topics:
-- **backlinks** (degree=7073)
-- **index** (degree=5905)
+- **backlinks** (degree=7367)
+- **index** (degree=5984)
 - **00_iNEST_全景知识图谱** (degree=1182)
 - **神经科学、AGI与神经形态计算的融合：统一研究范式与挑战** (degree=395)
 - **TCC_iNEST_成果全景** (degree=291)
@@ -62,4 +62,4 @@ Top connected topics:
 (Run innovation_engine.py to generate)
 
 ---
-*Research brief auto-generated 2026-09-06 23:33*
+*Research brief auto-generated 2026-09-08 06:50*

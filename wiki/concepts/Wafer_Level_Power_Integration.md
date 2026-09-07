@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[CommunicationAsComputation]]
+[[CommunicationAwareComputeRelocation]]
 [[DistributedTrainingPipeline]]
 [[Express_Link_Virtualization]]
 [[FlagOS_2_0]]
@@ -41,7 +42,6 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
-[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

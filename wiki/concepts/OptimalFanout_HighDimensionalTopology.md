@@ -27,7 +27,9 @@ Auto-extracted concept from raw material compilation.
 [[ANN动力学]]
 [[AdaptiveCompetingInteractions]]
 [[AdaptiveNetworkResilience]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
+[[Cognitive_Relapse_Architecture]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]
 

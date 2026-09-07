@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[JointFlightRoutingOptimization]]
 [[LLMDrivenPathSelection]]
+[[LocalPlasticityPipeline]]
 [[MeasurementInducedLinearity]]
 [[MoE_Routing]]
 [[Network_Topology_Design]]

@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[FrozenRateOperator]]
 [[InNetworkReconfiguration]]
 [[Interconnect_Routing]]
+[[LocalPlasticityPipeline]]
 [[MoE_Routing]]
 [[Network_Topology_Design]]
 [[Orientation_Encoding_Latent_Spaces]]

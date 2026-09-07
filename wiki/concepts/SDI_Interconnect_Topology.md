@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CommunicationAwareComputeRelocation]]
 [[FPGA_Reconfigurability]]
 [[InSitu_Adjoint_Wave_Control]]
+[[Inference_Workload_Profiling]]
 [[Interconnect_Routing]]
 [[Interconnect_Topology]]
 [[Network_Topology_Design]]

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[AnisotropicGaussianPrimitives]]
+[[BigBrainCellularAxis]]
 [[CoDesigned_SNN]]
 [[CombinedImportanceScoring]]
 [[CompartmentalNeuronModel]]
@@ -55,7 +56,6 @@ Auto-extracted concept from raw material compilation.
 [[SNN_Accelerator_Architecture]]
 [[SolitonLikeWaves]]
 [[Spike_Encoding_of_fMRI]]
-[[Spiking neural network]]
 [[SpikingTopologyEvolution]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

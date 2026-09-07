@@ -63,9 +63,11 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[Spatiotemporal_Synergy]]
 [[SystemLevelNonlinearity]]
+[[TCC]]
 [[Textbook_Paradigm_Definition]]
 [[TopologicalAndersonChernInsulator]]
 [[TopologyCentricEngineeringBase]]
+[[causal emergence]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

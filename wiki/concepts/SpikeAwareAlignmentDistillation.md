@@ -46,6 +46,8 @@ Auto-extracted concept from raw material compilation.
 [[Local_Plasticity]]
 [[Local_Plasticity_Rule]]
 [[ManyBodyLocalizationThermalizationDuality]]
+[[ManyBodyLocalization]]
+[[MemristiveSignedCouplings]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

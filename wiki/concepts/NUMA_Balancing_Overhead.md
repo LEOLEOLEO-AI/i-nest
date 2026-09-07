@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[6万+辛顿2025年度全景实录深读｜真正的智能与硅基智能的非对称演进]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[CirculateFiringNeuron]]
 [[ComplexValuedSNN]]
@@ -29,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[LocalQuantumLearningRule]]
 [[Memristive_STDP]]
+[[Memristor]]
 [[Memristor_Synapse]]
 [[Nature Communications_生物神经网络中突触多样性如何让人工神经网络更强大？]]
 [[NeuralNetworkSpectralAnalysis]]
@@ -42,7 +44,6 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[SolitonLikeWaves]]
 [[SpikeEncoding]]
-[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[Swarm_Coordination]]
 [[SynapticWeightPlasticity]]

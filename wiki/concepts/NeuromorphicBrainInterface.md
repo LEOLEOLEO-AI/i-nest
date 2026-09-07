@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalEnsemble]]
 [[HumanVisionInspiredDeblurring]]
 [[In_Network_Neuromorphic]]
+[[In_Network_Neuromorphic_Acceleration]]
 [[In_Package_Neuromorphic_Integration]]
 [[LocalLearning_SynapticUpdate]]
 [[NestedRepresentation]]
@@ -44,7 +45,6 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Spiking_Integration]]
 [[SensorMemoryFusion]]
 [[Sequence_First_Processing]]
-[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

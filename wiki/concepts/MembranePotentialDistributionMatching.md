@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[DrivenCriticalityOptimalityTradeoff]]
 [[DualDrivenHybridNetwork]]
 [[EEG_Criticality]]
+[[EnergyProportionalityCeiling]]
 [[EventBasedMotionDeblurring]]
 [[EventDrivenMotionDeblurring]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]

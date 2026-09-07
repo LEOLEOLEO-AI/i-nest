@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]
+[[Memristive_STDP]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Network_on_Chip]]

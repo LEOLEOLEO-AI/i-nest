@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveAsymmetricSurrogateGradient]]
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[AthermalDynamics]]
+[[Avoided_Criticality]]
 [[BrainInspiredArchitecture]]
 [[BrainInspired_Chip]]
 [[BurstTemporalPlasticity]]

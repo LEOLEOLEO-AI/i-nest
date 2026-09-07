@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Cryogenic_Syndrome_Compression]]
 [[Deep_Network_Architecture_Invariant]]
 [[DelayTolerantNetworkUAV]]
+[[DynamicServiceComposition]]
 [[Evaluation_Resolution]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

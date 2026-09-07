@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[RareEventSignalCoding]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
+[[SafetyThresholdAsSpikingThreshold]]
 [[SpikeTimingEncoding]]
 [[SpikingTrafficSignRecognition]]
 [[Spiking_Neural_Network]]

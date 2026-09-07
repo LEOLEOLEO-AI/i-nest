@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkPowerRouting]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[LocalPlasticityPipeline]]
 [[NetworkArchitectureSearch]]
 [[Network_Topology_Design]]
 [[NeuromorphicRadarFrontend]]

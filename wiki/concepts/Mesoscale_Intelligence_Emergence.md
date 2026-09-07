@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Network_Architecture_Invariant]]
 [[Defense_Industrial_Base_Reshaping]]
 [[EfficientDeepLearning]]
+[[Independent_EdgeAI_Player_Endgame]]
 [[Intelligence_Emergence]]
 [[Neuromorphic_Computing]]
 [[iNEST]]

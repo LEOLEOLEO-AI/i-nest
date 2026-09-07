@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Cross_Network_Representation_Transfer]]
 [[Edge_AI_Acquisition_Consolidation]]
 [[ExactRateChaosTransition]]
+[[Fixed_Term_Project_Structure]]
 [[HighTemporalResolutionSensing]]
 [[Localized_Feedback_Array]]
 [[Meta_Residual_Learning]]

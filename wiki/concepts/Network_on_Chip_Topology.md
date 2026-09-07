@@ -21,15 +21,22 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[ChipletRoutingFabric]]
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
 [[Compute_Centric_NoC]]
 [[FullDimensionalDefinableInterconnect]]
+[[Interconnect_Routing]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
+[[NoC]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[NoC_Chiplet_iNEST_Wafer]]
+[[NoC_SDI_Topology]]
 [[TCC]]
+[[iNEST]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

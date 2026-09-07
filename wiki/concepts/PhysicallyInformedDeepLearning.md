@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Collective_Offloading]]
 [[Complex_System_Theory]]
 [[CorticalWaveRouting]]
+[[Critical_Region_Extension]]
 [[DelayTolerantNetworkUAV]]
 [[DynamicServiceComposition]]
 [[EarlyExitInference]]

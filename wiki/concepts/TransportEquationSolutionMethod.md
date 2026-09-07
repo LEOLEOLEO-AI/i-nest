@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[OpinionDrivenVaccination]]
 [[QuantumFluctuationDrivenTransport]]
 [[Reservoir_Computing]]
+[[SNN_Intrusion_Detection_Config]]
 [[Self_Organized_Criticality]]
 [[SpikingTopologyEvolution]]
 [[Spiking_Neural_Network]]

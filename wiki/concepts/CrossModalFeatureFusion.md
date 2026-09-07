@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[BulletTrainScheduling]]
+[[ConsciousnessEngineeringLoop]]
 [[Continuous_Control_Spike_Timing_Sensitivity]]
 [[DisturbancePropagationPath]]
 [[EventCameraTemporalEncoding]]

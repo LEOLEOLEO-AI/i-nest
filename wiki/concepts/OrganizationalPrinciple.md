@@ -32,14 +32,15 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Topology]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
+[[NoC_Chiplet_iNEST_Wafer]]
 [[Nonlinear_Gain]]
 [[P_Paradigm]]
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
 [[SDI_TCC_Chiplet_Interconnect]]
 [[SDSoW]]
+[[SDSoW_Architecture]]
 [[TCC]]
-[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

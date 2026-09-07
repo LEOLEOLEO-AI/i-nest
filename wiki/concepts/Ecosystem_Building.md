@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[AttractorNeuralNetwork]]
 [[AutoAssociativeMemoryRobustness]]
 [[BCM滑动阈值]]
+[[Battlefield_AI_Deployment]]
 [[CST_Synergy_Coordination]]
 [[CST_Theory]]
 [[CST计量仪]]

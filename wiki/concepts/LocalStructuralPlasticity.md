@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Active_Inference_Agent]]
 [[AdaptiveDensityControl]]
 [[BayesianDomainEvolution]]
+[[BehavioralFeedbackLoop]]
 [[Complex_System_Theory]]
 [[Constructed_Reality_Interconnect]]
 [[Emergent_Intelligence]]

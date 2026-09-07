@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[CrossEntityPreemptiveWarning]]
 [[DeepCode_AlgorithmExtraction]]
+[[DelayAwareSpikeEventDelivery]]
 [[SNN]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]

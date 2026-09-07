@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossLayer_SignalRouting]]
 [[DirectoryManagementLaws]]
 [[Dynamic_Expert_Fusion]]
+[[EcosystemTopologyCoupling]]
 [[EpidemicThreshold]]
 [[Event_Driven_Architecture]]
 [[EvolutionaryDiversityPreservation]]

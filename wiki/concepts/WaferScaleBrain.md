@@ -20,16 +20,23 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3D_IC_Stacking]]
 [[4H_SiC_SubstrateProcessing]]
 [[AI_Application_Scenario_Reconstruction]]
+[[AI_Faculty_Forum_2026]]
+[[Heterogeneous_Integration]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[Neuromorphic_Computing]]
+[[SDI_Bond]]
 [[SDI_iNEST_Wafer]]
 [[SDSoW]]
+[[SDSoW_Architecture]]
 [[SDSoW_Strategic_Planning]]
 [[TSV_Interconnect]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
+[[iNEST]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

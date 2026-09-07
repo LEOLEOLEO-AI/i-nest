@@ -36,13 +36,13 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Packaging]]
 [[Chiplet_Stacking]]
 [[CoPackagedOptics]]
+[[CommunicationOverlapMechanism]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Interconnect_Topology]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[TCC]]
-[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

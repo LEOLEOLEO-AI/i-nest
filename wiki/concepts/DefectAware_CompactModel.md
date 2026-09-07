@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Crystallized_Embedding_Reservoir]]
 [[Deep_Counterstream_Associative_Memory]]
 [[DefectDynamics]]
+[[DualImpactEvaluation]]
 [[Electrolyte_Bonding_Engineering]]
 [[Emerging_CMOS_Memristor_Devices]]
 [[EnergyResourceEfficiencyCoOptimization]]

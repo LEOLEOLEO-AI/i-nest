@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[PacketRoutingOptimization]]
 [[Plasticity_vs_Computation_Separation]]
 [[QuantumDistillation]]
+[[RedundancyControlledStochasticRouting]]
 [[STDPDrivenConnectivity]]
 [[STDP_Plasticity]]
 [[Self_Organized_Criticality]]

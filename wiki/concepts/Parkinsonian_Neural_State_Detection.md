@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AnomalousSpinTransport]]
 [[Architectural_Conditioning]]
 [[Bidirectional_Temporal_Enhancement]]
+[[CST_Exponential_Gain]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[CriticalFluctuationReservoir]]

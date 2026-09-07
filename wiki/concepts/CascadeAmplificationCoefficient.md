@@ -31,8 +31,10 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[Memristive_STDP]]
+[[MultiplicativeGain]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
+[[STDP_Plasticity]]
 [[TCC]]
 
 ## Sources

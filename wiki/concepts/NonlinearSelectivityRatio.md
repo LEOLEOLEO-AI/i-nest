@@ -64,6 +64,7 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[iNEST]]
 [[memristor device]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 [[类脑芯片]]
 

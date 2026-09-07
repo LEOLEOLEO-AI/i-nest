@@ -47,6 +47,8 @@ Auto-extracted concept from raw material compilation.
 [[NonEquilibriumPhaseTransition]]
 [[NonEquilibriumPhase]]
 [[OptimalRepresentationCriticality]]
+[[OptimalRepresentation]]
+[[PhenomenologicalRenormalizationGroup]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Self_Organized_Criticality]]
 [[Synaptic_Plasticity]]

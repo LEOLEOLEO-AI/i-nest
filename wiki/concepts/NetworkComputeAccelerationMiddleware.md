@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[1024_Card_SuperNode]]
 [[CongestionAwareNoCPlacement]]
+[[DynamicServiceComposition]]
 [[GPU_Bottleneck_Relief]]
 [[Jalapeno_Inference_Chip]]
 [[Microsecond_Link_Reconfiguration]]

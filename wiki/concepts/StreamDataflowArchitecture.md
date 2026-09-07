@@ -53,8 +53,8 @@ Auto-extracted concept from raw material compilation.
 [[SpikeBasedNeuralRadianceField]]
 [[SpikeDrivenInference]]
 [[Spike_Encoding_of_fMRI]]
-[[Spiking neural network]]
 [[Spiking_Neural_Network]]
+[[Topology_Aware_Spike_Routing]]
 [[neuromorphic spiking]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

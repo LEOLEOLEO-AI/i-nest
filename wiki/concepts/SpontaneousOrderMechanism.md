@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AIRA_NeuralArchSearch]]
 [[AI_Faculty_Forum_2026]]
 [[Analog_InMemory_Processing]]
+[[BandedConnectivityModel]]
 [[BiasEvaluationMetrics]]
 [[BigBrainCellularAxis]]
 [[Bipartite_Interconnect]]

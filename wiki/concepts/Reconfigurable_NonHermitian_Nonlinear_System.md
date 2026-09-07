@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[3d]]
 [[Active_Inference_Topology]]
 [[Analog_InMemory_Processing]]
+[[AndersonTransition]]
 [[AutonomousAdaptation]]
 [[CellEmergence]]
 [[Chiplet]]
@@ -53,7 +54,8 @@ Auto-extracted concept from raw material compilation.
 [[Random_Markov_Dynamics]]
 [[ReEntrantMultifractalization]]
 [[ReproducibleReservoirDynamics]]
-[[chiplet interconnect]]
+[[ReservoirDynamics]]
+[[Reservoir_Computing]]
 [[Γst_Revision]]
 
 ## Sources

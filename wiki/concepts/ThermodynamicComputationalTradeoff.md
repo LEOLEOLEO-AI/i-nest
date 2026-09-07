@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Alpha_Coefficient_Phase_Transition_Amplification]]
 [[Analog_InMemory_Processing]]
 [[Architectural_Conditioning]]
+[[CST_CoordinationMechanism]]
 [[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[CircuitCoDesign]]

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Synaptic_Weighting]]
 [[ApproximationFidelityTradeoff]]
 [[Asymmetric_Interaction_Matrix]]
+[[Attention_Residuals]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]

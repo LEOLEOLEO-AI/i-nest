@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Contested_Priors_Mechanism]]
 [[DendriticReservoirState]]
+[[Fading_Memory_Property]]
 [[Free_Energy_Topology_Mapping]]
 [[In_Network_Neuromorphic]]
 [[Intelligence_Emergence]]

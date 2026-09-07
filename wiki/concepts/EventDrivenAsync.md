@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[BrainInspired_Chip]]
 [[Branch_Prediction_in_Pipelined_Processors]]
 [[Criticality]]
+[[EventDrivenMotionDeblurring]]
 [[Neuromorphic_Computing]]
 [[Plasticity_Stability_Threshold]]
 [[SNN]]

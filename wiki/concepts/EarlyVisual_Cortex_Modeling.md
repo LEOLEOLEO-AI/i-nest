@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[DisorderedNetworkInterconnect]]
 [[EnergyEfficiencyAI]]
 [[FLAME_Lab_PhD_Admissions]]
+[[GroupNeuronEnsemble]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Non_Von_Neumann_Architecture]]
 [[QuantumInspiredHarmonySearch]]
 [[SpinalHDL_DSL]]
+[[Syncytial_Information_Integration]]
 [[TCC]]
 [[TemporalComplexity]]
 [[complex system]]

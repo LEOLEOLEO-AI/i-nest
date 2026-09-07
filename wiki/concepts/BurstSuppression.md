@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstSuppressionMechanism]]
 [[ContinuousControlConversion]]
 [[Criticality]]
+[[DeepLinearNetworkCriticality]]
 [[Interconnect_Routing]]
 [[SNN]]
 [[Self_Organized_Criticality]]

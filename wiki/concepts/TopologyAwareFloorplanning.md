@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[InterconnectDrivenCostFunction]]
 [[Interconnect_Routing]]
 [[Interconnect_Topology]]
+[[Logic_Folding]]
 [[MeasurementInducedRouting]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

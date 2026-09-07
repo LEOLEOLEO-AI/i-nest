@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_iNEST]]
 [[SparseTemporalEncoding]]
 [[SpikeCodingProbabilisticVariables]]
+[[Spike_Phase_Separation]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[Wafer_Scale_Integration]]

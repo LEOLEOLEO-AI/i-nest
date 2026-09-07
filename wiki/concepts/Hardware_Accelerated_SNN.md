@@ -72,7 +72,6 @@ Auto-extracted concept from raw material compilation.
 [[Small_World_Network]]
 [[SpatiotemporalComplexityIndex]]
 [[Spike_Encoding_of_fMRI]]
-[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]
@@ -86,6 +85,7 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
+[[iNEST_Neuromorphic_Topology]]
 [[residual connection]]
 
 ## Sources

@@ -33,9 +33,9 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Topology]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
+[[NoC_Chiplet_iNEST_Wafer]]
 [[P_Paradigm]]
 [[TCC]]
-[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

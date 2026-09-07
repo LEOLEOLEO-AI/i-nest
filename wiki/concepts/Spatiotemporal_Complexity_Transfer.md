@@ -35,10 +35,12 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Topology]]
 [[KeyMaterialStrategy]]
 [[Memristive_Wafer_Neuromorphic_Interconnect]]
+[[Mesoscale_Advantage_Equation]]
 [[Minimum_Energy_Consumption_Law]]
 [[Network_Topology_Design]]
+[[Neuromorphic_Computing]]
+[[Neuromorphic_Interconnect]]
 [[Wafer_Scale_Integration]]
-[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveDendriteSNN]]
 [[Activity_Dependent_Plasticity]]
 [[AdaptiveFrequencyResonateAndFire]]
+[[AnisotropicGaussianPrimitives]]
 [[AnytimePointCloudRecognition]]
 [[AsynchronousCircuits]]
 [[AsynchronousNeuromorphicHardware]]

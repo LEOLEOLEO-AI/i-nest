@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN_NonIdeality_Modeling]]
 [[SpikeCodebookCompression]]
 [[Spike_Encoding_of_fMRI]]
+[[SpikingArchitecture_Search]]
 [[Spiking_Neural_Network]]
 [[Spiking_Topology]]
 [[Synaptic_Plasticity]]

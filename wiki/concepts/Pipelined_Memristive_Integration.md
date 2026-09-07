@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Network_Layer_Stacking]]
 [[EcosystemTopologyCoupling]]
 [[ErrorSuppressedPipeline]]
+[[Evolutionary_Computability]]
 [[ExplosiveTransitionThreshold]]
 [[Fixed_Reservoir_Unitary]]
 [[GeneralizedReadoutMap]]

@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Architecture]]
 [[Event_Driven_Orbital_Object_Pipeline]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
+[[FibonacciMonitoredCriticality]]
 [[FirstTimestepConversion]]
 [[GPU_Cluster_SNN_Architecture]]
 [[GeometricNeuromorphicFusion]]

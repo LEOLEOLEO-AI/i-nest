@@ -56,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[NonEquilibriumComputing]]
 [[OpportunisticRoutingRL]]
 [[OpportunisticRouting]]
+[[PairwiseCorrelationConstraint]]
 [[PostVonNeumannIntelligence]]
 [[PropertyPredictionModeling]]
 [[RecursiveSelfReferentialArchitecture]]

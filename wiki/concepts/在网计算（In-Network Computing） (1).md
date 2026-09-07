@@ -25,6 +25,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 
 ## Related Work
 
+[[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
 [[AI-ML — 全景导航 (Map of Content)]]
 [[BNN vs ANN (1)]]
 [[CST计量仪]]
@@ -39,6 +40,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[HotChip2024-Day2_AI加速器互联和云AI处理器,_Tesla是亮点_1]]
 [[III IV V族元素 (1)]]
 [[Intelligence_Emergence]]
+[[Less_is_more，大脑“低能耗”并“高效响应”的秘诀：模块化_NSR]]
 [[Less_is_more，大脑“低能耗”并“高效响应”的秘诀：模块化_NSR_1]]
 [[LocalMeasurementSheaf]]
 [[MIT_异构Chiplet集成构建下一代计算的_超级芯片_]]

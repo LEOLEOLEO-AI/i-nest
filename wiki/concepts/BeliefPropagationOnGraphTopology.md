@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration]]
 [[ChiralSurfaceFermiProjection]]
 [[CircuitTopologySearch]]
+[[CompactAnalogPredictor]]
 [[Complex_System_Theory]]
 [[CriticalPointControl]]
 [[DelayTolerantNetworkUAV]]

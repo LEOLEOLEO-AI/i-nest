@@ -1,0 +1,72 @@
+
+============================================================
+  iNEST + TCC Research Pipeline v3.3
+  2026-09-08 06:45
+============================================================
+[06:45:55] [S2] Searching Semantic Scholar (19 queries)...
+[06:45:56]   S2: 429 rate limited; skip S2 for this run and continue with arXiv/GN
+[06:45:56] [arXiv] Searching arXiv (via proxy, 21 queries)...
+[06:45:57]   arXiv skip irrelevant: ACE: Adaptive Calibration-Free Expert Skipping for MoE-based
+[06:45:57]   arXiv skip irrelevant: Compact Bellman-Grounded Cognitive Maps for Cost-Aware Navig
+[06:45:57]   arXiv skip irrelevant: On Being Prepared: Automated Vehicle Incident Management Exe
+[06:46:09]   arXiv skip irrelevant: Proton Irradiation Characterization of an Open-Source ML Acc
+[06:46:09]   arXiv skip irrelevant: A Wavelength Borrowing Architecture for Optical Data Center 
+[06:46:09]   arXiv skip irrelevant: A Constraint-Aware Generative Framework for Synthetic Origin
+[06:46:15]   arXiv skip irrelevant: Hessian-based molecular conformation augmentation for a scal
+[06:46:15]   arXiv skip irrelevant: Low-Dimensional Phase Diagram of Higher-Order Networked Syst
+[06:46:15]   arXiv skip irrelevant: Stable and Scalable Bundle Adjustment of Holistic 3D Structu
+[06:46:21]   arXiv skip irrelevant: A double-resonator coupler for high-fidelity two-qubit gates
+[06:46:21]   arXiv skip irrelevant: Formation Matrix and Energy-based Control of Multi-Agent Sys
+[06:46:21]   arXiv skip irrelevant: Quantifying Power to Voltage and Frequency Dynamics for Osci
+[06:46:26]   arXiv: batch separator, pausing 10s...
+[06:46:38]   arXiv skip irrelevant: Quantum Optimisation for Protein-Protein Interaction Network
+[06:46:38]   arXiv skip irrelevant: Latency-Optimal Geo-Distributed Storage over Structured Netw
+[06:46:38]   arXiv skip irrelevant: Global to Local: Topology-Preserving Adaptive Graph Pooling 
+[06:46:44]   arXiv skip irrelevant: Locational Marginal Pricing for Adaptive Robust Look-Ahead D
+[06:46:44]   arXiv skip irrelevant: Tuning Collective Patterns to Alleviate Congestion in Shared
+[06:46:44]   arXiv skip irrelevant: THz-SynC: Collective Synthesis with Contextual-Bandit-Assist
+[06:46:54]   arXiv skip irrelevant: Trust-Aware Adaptive Disclosure for Inference Privacy Preser
+[06:47:15]   Insight [1/3]: Quantum-State Texture Dynamics: Theory and Experim...
+[06:47:15]   arXiv skip irrelevant: PRICE: A Systematic Study of LLM Adaptation Choices for Bitc
+[06:47:21]   arXiv skip irrelevant: Low-Dimensional Phase Diagram of Higher-Order Networked Syst
+[06:47:21]   arXiv skip irrelevant: Lagrangian dynamics unveil polymer conformation in viscoelas
+[06:47:21]   arXiv skip irrelevant: Low-Thrust Trajectory Optimization with Quantum Computing an
+[06:47:27]   arXiv skip irrelevant: Phase-delays shape multistability and basin sizes in Kuramot
+[06:47:32]   arXiv: batch separator, pausing 10s...
+[06:47:44]   Insight [1/3]: Large Language Models with At Most One Spike per N...
+[06:47:44]   arXiv skip irrelevant: Efficient Multi-Timescale Event Representations for Feed-For
+[06:47:44]   跳过重复: High-Throughput Computational Discovery of Inverte... [Title: High-Throughput Computational Discovery of Inverted Resistive Switching in Two-D]
+[06:47:50]   arXiv skip irrelevant: Towards Federated, Green, and Resilient 6G Non-Terrestrial N
+[06:47:50]   arXiv skip irrelevant: Task-oriented Framework for Communication-Efficient Federate
+[06:47:50]   arXiv skip irrelevant: Dynamic Heterogeneous Graph Representation Learning: A Surve
+[06:47:56]   arXiv skip irrelevant: MIVAIS: A Study Environment for Multi-Agent Mixed-Initiative
+[06:47:56]   arXiv skip irrelevant: QUASAR: Quantum Satellite Architecture and Routing Simulator
+[06:48:03]   arXiv skip irrelevant: Learning Spatial-Spectral Refinement and Calibrating Complem
+[06:48:03]   arXiv skip irrelevant: Efficient Multi-Timescale Event Representations for Feed-For
+[06:48:03]   arXiv skip irrelevant: Coherent-structure dynamics in wall turbulence from state-sp
+[06:48:08]   arXiv skip irrelevant: Low-Dimensional Phase Diagram of Higher-Order Networked Syst
+[06:48:08]   arXiv skip irrelevant: Synchronization of directed hypergraphs with heterogeneities
+[06:48:08]   跳过重复: Learning with Volterra Neural Networks: A System T... [Title: Learning with Volterra Neural Networks: A System Theoretic Perspective]
+[06:48:13]   arXiv: batch separator, pausing 10s...
+[06:48:30]   arXiv skip irrelevant: Optical Reservoir Computing with Structural Nonlinearity for
+[06:48:30]   arXiv skip irrelevant: Towards Effective Physical Reservoir Computing with a Pneuma
+[06:48:30]   arXiv skip irrelevant: Basin Geometry and Reliable Recall of Dynamical Memories in 
+[06:48:38]   arXiv skip irrelevant: Genetic Algorithms for Tractable Bayesian Network Fusion via
+[06:48:38]   跳过重复: A Network Science Perspective on Evaluating Deep G... [Title: A Network Science Perspective on Evaluating Deep Graph Generative Models]
+[06:48:44]   arXiv skip irrelevant: Renormalization group and long-range conditional mutual info
+[06:48:44]   arXiv skip irrelevant: Agents That Model Agents: Five Principles Toward a Theory of
+[06:49:10]   arXiv: batch separator, pausing 10s...
+[06:49:21]   arXiv skip irrelevant: Latency-Optimal Geo-Distributed Storage over Structured Netw
+[06:49:21]   arXiv skip irrelevant: Dynamic Heterogeneous Graph Representation Learning: A Surve
+[06:49:21]   arXiv skip irrelevant: IPGeoAI: Transformer-Based Geolocation with LLM Semantic Fus
+[06:49:26] [arXiv] 2 new papers, 0 errors across 21 queries
+[06:49:26] [GN] Google News RSS...
+[06:49:36] [GN] 0 new articles
+
+  Total: 2 new items to inbox
+[06:49:36] [Process] LLM classify (free tier, limit=20)...
+[06:50:04] [Process] Classified: 0
+[06:50:04] [Genspark] Generating research brief...
+[06:50:06] [Genspark] Research brief written: genspark_research_brief.md
+[06:50:06] [Graph] Scanning wiki links...
+[06:51:11] [Graph] 12816 files, 263492 links

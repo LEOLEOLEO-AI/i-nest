@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Faculty_Forum_2026]]
+[[Chemical_Bond_Operation_Algebra]]
 [[Complex_System_Theory]]
 [[EventDrivenRiskAssessment]]
 [[Event_Driven_Architecture]]

@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[MachineLearningPotential]]
 [[Network_Topology_Design]]
+[[RandomStateEnsemble]]
 [[Reservoir_Computing]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]

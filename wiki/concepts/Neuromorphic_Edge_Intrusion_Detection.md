@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[EnsembleCreditAssignment]]
 [[EventDrivenMotionDeblurring]]
+[[FunctionalRelevanceDrivenSelfOrganization]]
 [[GeneralizationPhaseBoundary]]
 [[HumanVisionInspiredSNN]]
 [[Intelligence_Emergence]]

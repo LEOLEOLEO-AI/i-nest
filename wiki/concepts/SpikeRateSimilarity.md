@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[ElasticInferenceScheduling]]
 [[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Learning]]
+[[ManyBodyLocalizationThermalizationDuality]]
 [[Neuromorphic_Computing]]
 [[Spiking_Neural_Network]]
 [[SynapticConnectivityAwarePlacement]]

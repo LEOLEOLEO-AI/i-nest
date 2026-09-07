@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[ComputationEfficientDeepLearning]]
 [[DARPA_ProjectManager_Model]]
+[[Deep_Network_Architecture_Invariant]]
 [[EfficientDeepLearning]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]

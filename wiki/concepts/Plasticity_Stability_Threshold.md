@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[MembranePotentialAlignment]]
 [[Memristive_Solutions]]
 [[Neuromorphic_Computing]]
+[[PowerLawScaling]]
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SNN]]

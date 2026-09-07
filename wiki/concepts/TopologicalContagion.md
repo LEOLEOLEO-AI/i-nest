@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC]]
 [[NoC_Interconnect]]
 [[OpenLearningEcosystem]]
+[[OpticallyWritableAtomicVaporMemory]]
 [[Package_Level_Interconnect]]
 [[PacketRoutingForFPGAs]]
 [[SDSoW]]

@@ -44,7 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_iNEST_Interconnect]]
 [[SNN]]
-[[Spiking neural network]]
+[[SNN_HighLevel_DesignTraining]]
 [[Spiking_Neural_Network]]
 [[Transformer_Based_SNN]]
 [[iNEST]]

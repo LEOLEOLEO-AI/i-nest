@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Evaluation_Resolution]]
 [[Evaluation_Resolution_Confound]]
 [[EvolvingArchitectureDynamics]]
+[[HallmarkDrivenCancerModeling]]
 [[HybridCouplingThermosensitiveNetwork]]
 [[ImaginaryGaugePhaseImprint]]
 [[Intelligence_Emergence]]

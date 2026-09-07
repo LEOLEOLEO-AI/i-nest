@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[Neuromorphic_Packaging]]
 [[PropertyPredictionModeling]]
+[[RecurrentSpikingTopology]]
 [[Representation_Learning_Generalization]]
 [[SNN]]
 [[Spiking_Neural_Network]]

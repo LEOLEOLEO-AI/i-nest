@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[CongestionAwareNoCPlacement]]
 [[DynamicServiceComposition]]
 [[Free_Energy_Topology_Mapping]]
+[[GeneralIntelligenceSubstrate]]
 [[GlobalDecision_LocalExecution_ControlPlane]]
 [[Heterogeneous_Chiplet_Integration]]
 [[Heterogeneous_Integration]]
@@ -41,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[NCCLCollectiveCommunicationMapping]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
+[[Neuromorphic_Computing]]
 [[NoC]]
 [[NoC_Chiplet_iNEST_Wafer]]
 [[NoC_SDI]]
@@ -65,7 +67,6 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
 [[Wafer_Scale_Topology]]
-[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

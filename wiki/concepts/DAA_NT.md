@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveFrequencyResonateFire]]
 [[AdaptiveSpeechToSpikeEncoding]]
 [[Adaptive_EW_Neuromorphic_Controller]]
+[[AnytimePointCloudRecognition]]
 [[Dynamic_Sparse_Activation]]
 [[Neuromorphic_Computing]]
 [[SpikeEncoding]]

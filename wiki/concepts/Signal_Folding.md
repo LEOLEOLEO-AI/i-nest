@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[MemristiveSupervisedLearning]]
 [[Memristive_Crossbar]]
 [[Memristive_Crossbar_Array]]
+[[Memristive_Synaptic_Integration]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[NeuromorphicHardware]]

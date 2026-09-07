@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDriven_Edge_Perception]]
 [[Event_Driven_Architecture]]
 [[Event_Driven_Spike_Communication]]
+[[Event_Driven_Spiking]]
 [[FunctionalEnsemble]]
 [[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Scheduling]]

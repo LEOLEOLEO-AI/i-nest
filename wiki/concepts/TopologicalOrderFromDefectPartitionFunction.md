@@ -56,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[DefectPartitionFunction]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
+[[EntanglementFidelityBudgeting]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]

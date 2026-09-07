@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Bidirectional_Temporal_Enhancement]]
 [[BigBrainCellularAxis]]
+[[CollectiveSpikingDynamics]]
 [[ConductingPolymerDendriteMemory]]
 [[DelayCodedWorkingMemory]]
 [[Dynamic_Expert_Fusion]]
@@ -50,7 +51,6 @@ Auto-extracted concept from raw material compilation.
 [[SpectralSpikeEncoding]]
 [[SpikeEncoding]]
 [[Spike_Encoding_of_fMRI]]
-[[Spiking neural network]]
 [[SpikingAttentionComplexityReduction]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

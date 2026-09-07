@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_InMemory_Processing]]
 [[AttractorBasinOrthogonality]]
 [[Biocompatible_Neuromorphic_Interface]]
+[[CertifiedBifurcationDetection]]
 [[CollectiveStabilityMetric]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]

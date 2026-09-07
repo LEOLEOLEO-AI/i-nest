@@ -56,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[Distributed_Sinkhorn_Iteration]]
 [[Dynamic_Expert_Fusion]]
 [[Heterogeneous_Integration]]
+[[HybridConvexOptimization]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

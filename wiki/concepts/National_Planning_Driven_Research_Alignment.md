@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[NeurovascularUnit]]
 [[NonEquilibriumComputing]]
 [[PhysicalSubstrateReservoir]]
+[[QuantumSpikingNeuron]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[SDSoW]]

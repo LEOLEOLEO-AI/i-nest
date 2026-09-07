@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Ant_Swarm_Functional_Control]]
 [[ArchitecturalCondition]]
 [[Architectural_Conditioning]]
+[[BioInspiredGeneralist]]
 [[Cognitive_Relapse_Decoupling]]
 [[CollectiveStateTopology]]
 [[CommunicationAwareComputeRelocation]]

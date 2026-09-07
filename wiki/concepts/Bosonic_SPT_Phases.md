@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[CouplingMatrixRecovery]]
+[[CrossInstitutionalNetwork]]
 [[Crystallized_Neural_Manifolds]]
 [[DataDrivenMaterialDesign]]
 [[Emergent_Intelligence]]

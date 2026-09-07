@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Phase_Transition_Tail_Transition]]
+[[QuantumFluctuationDrivenTransport]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Relapse_Resilient_Interconnect]]
 [[ReservoirDiversity]]

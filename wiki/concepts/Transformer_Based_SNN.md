@@ -39,7 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_iNEST_Interconnect]]
 [[SNN]]
 [[ST_SNN]]
-[[Spiking neural network]]
+[[SpikeBasedInference]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 [[iNEST_Interconnect]]

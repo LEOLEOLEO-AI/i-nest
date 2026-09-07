@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGASNNMemoryOptimization]]
 [[FPGA_SNN_Inference]]
 [[FunctionalEnsemble]]
+[[INT4PrecisionQuantization]]
 [[In_Package_Neuromorphic_Integration]]
 [[IntegratedInformationFreeEnergyBridge]]
 [[Neuromorphic_Computing]]
@@ -50,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[ScalableSNN_GPU_Training]]
 [[SpikingTransformer]]
 [[Spiking_Neural_Network]]
+[[TCC]]
 [[iNEST]]
 
 ## Sources

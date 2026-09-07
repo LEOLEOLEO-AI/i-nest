@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[2026-06-15_大脑的量子纠缠与信息动力学]]
 [[AI_Supply_Chain_Increment]]
 [[AI人工智能 卷积神经网络（CNN）_w3cschool]]
+[[AdditiveTopology_Embedding]]
 [[AnalogDomainCompression]]
 [[AvalancheBranchingRatio]]
 [[BranchingRatio]]
@@ -50,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[大脑临界性_健康脑功能的统一设定点假说_Neuron观点文章深度解析]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

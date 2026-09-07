@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicTrackingPipeline]]
 [[Neuromorphic_Computing]]
 [[Passivity_Preserving_Computation]]
+[[RecurrentOscillatoryComputation]]
 [[SpikeEventDrivenInference]]
 [[Spiking_Neural_Network]]
 [[StochasticBinaryNetwork]]

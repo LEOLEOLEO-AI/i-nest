@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveCompetingInteractions]]
 [[AdjointWaveControl]]
 [[CLINKAsCarrierPrimitive]]
+[[Cache_Aware_Flow_Scheduling]]
 [[CavityMethodAnalysis]]
 [[FPGA_Reconfigurability]]
 [[InSitu_Adjoint_Wave_Control]]

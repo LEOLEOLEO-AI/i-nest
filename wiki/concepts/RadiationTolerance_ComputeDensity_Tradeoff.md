@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[CommunicationOverlapMechanism]]
 [[Complex_System_Theory]]
 [[ComputeRelocationOverhead]]
+[[CriticalSlowingDown]]
 [[External_to_OnDie_Evolution]]
 [[FlagOS_2_0]]
 [[Heterogeneous_Chiplet_Customization]]

@@ -58,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[NonlinearSelectivityRatio]]
 [[Nonlinear_Gain]]
 [[TCC]]
+[[TopologyAwareGeneration]]
 [[complex system]]
 [[iNEST]]
 [[神经网络]]

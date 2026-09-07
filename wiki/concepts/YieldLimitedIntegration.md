@@ -21,15 +21,26 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Chemical_Bond_Effect]]
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[CrossbarArrayVLSI]]
+[[Interconnect_Topology]]
 [[MicroRouter_Embedding]]
+[[Network_Topology_Design]]
+[[Network_on_Chip]]
+[[NoC]]
 [[NoC_Chiplet_iNEST_Wafer]]
 [[PhaseII_Organization_Model]]
 [[SDSoW]]
+[[SDSoW_Architecture]]
 [[SDSoW_Reconfigurable_Network]]
 [[TCC]]
+[[WaferScaleCoDesign]]
 [[Wafer_Scale_Integration]]
+[[iNEST]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

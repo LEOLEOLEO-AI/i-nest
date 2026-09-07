@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Cross_Node_Event_Propagation]]
 [[Distributed_Spike_Communication]]
 [[DrivenDissipativeDynamics]]
+[[Efficient_Coding_Constraint]]
 [[EventDrivenPlasticity]]
 [[FixedOverheadCost]]
 [[Intelligence_Emergence]]

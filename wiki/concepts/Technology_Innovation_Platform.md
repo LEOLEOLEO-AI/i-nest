@@ -74,7 +74,7 @@ Auto-extracted concept from raw material compilation.
 [[Topology_Centric_Computing]]
 [[Topology_Centric_Computing_Paradigm]]
 [[Topology_Interconnect]]
-[[chiplet interconnect]]
+[[Topology_Page]]
 [[iNEST]]
 [[iNEST_Wafer]]
 [[residual connection]]

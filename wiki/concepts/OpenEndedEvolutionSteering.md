@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[SensoryGatedSpikingLoop]]
 [[SpikeCodedAssociation]]
 [[SpikeEncoding]]
+[[SpikeInformationDensity]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]

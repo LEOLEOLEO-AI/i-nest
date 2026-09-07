@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor]]
 [[Memristor_Interconnect]]
 [[Memristor_Synapse]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[RuntimeTopologyMapping]]

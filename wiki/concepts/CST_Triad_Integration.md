@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[MachineLearningPotential]]
 [[MatrixShapeToParallelismMapping]]
 [[MemristiveMEMSResonator]]
+[[MultiTechnologyInspectionFusion]]
 [[Network_Topology_Design]]
 [[PPT]]
 [[ResearchAreaEmergence]]

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Prior_Resolution]]
 [[CrossLayer_SignalRouting]]
 [[DirectTrainingSNN]]
+[[Direct_Training_Spiking_Neural_Networks]]
 [[DiscreteContinuous_Unification]]
 [[Distributed_Spike_Communication]]
 [[EarlyVisualCortexAliasing]]
@@ -44,7 +45,6 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[SNN]]
-[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

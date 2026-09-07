@@ -33,10 +33,12 @@ Auto-extracted concept from raw material compilation.
 [[Memristor]]
 [[Memristor_Network]]
 [[Memristor_Synapse]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[NeuromorphicNetworkSecurity]]
 [[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[Neuromorphic_Interconnect]]
 [[Neuromorphic_Planning_Architecture]]
 [[Neuromorphic_Selective_State_Space]]
 [[SNN]]
@@ -45,7 +47,6 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
-[[neuromorphic interconnect]]
 [[类脑芯片]]
 
 ## Sources

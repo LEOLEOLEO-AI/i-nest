@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_NoC_Fabric]]
 [[Critical_Region_Extension]]
 [[DARPA_ProjectManager_Model]]
+[[HeterogeneousInference]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]

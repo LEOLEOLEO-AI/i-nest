@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CoreComputationSubspace]]
 [[Crystallized_Neural_Manifolds]]
 [[CulturalDisseminationDynamics]]
+[[Deep_Network_Layer_Stacking]]
 [[DendriticReservoirState]]
 [[DeviceLevelNonlinearityScaling]]
 [[DeviceLevelNonlinearity]]

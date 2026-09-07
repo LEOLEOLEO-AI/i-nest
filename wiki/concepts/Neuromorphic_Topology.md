@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Faculty_Forum_2026]]
 [[ConductingPolymerDendriteMemory]]
+[[Continuous_Spatiotemporal_State_Propagation]]
 [[Event_Driven_Architecture]]
 [[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Scheduling]]

@@ -57,12 +57,13 @@ Auto-extracted concept from raw material compilation.
 [[SelfHealing_Interconnect]]
 [[SpaceToUndersea_ResilientComms]]
 [[TCC]]
+[[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[ThermodynamicLimitScaling]]
-[[chiplet interconnect]]
 [[complex system]]
 [[iNEST]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

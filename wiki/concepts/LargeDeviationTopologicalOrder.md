@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[Readout_Layer_Training]]
 [[ReservoirDiversity]]
 [[Reservoir_Computing]]
+[[SpatialMultiplexingOfVortices]]
 [[SuperparamagneticSwitchingRate]]
 [[Swarm_Coordination]]
 [[TCC]]

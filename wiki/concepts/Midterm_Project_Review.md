@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
 [[Chiplet_NoC_Interconnect]]
+[[Chiplet_Stacking]]
 [[Complex_System_Theory]]
 [[Decoupled_Priors]]
 [[Deep_Network_Architecture_Invariant]]
@@ -71,7 +72,6 @@ Auto-extracted concept from raw material compilation.
 [[TopologyAware_Embedding]]
 [[WaveguideToWaveguideCoupler]]
 [[advanced packaging]]
-[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

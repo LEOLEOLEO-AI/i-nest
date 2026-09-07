@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Ant_Swarm_Functional_Control]]
 [[Baseline_Draft_Status]]
 [[BoundaryObject_Abstraction]]
+[[CST_Intelligence_Emergence_Theory]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

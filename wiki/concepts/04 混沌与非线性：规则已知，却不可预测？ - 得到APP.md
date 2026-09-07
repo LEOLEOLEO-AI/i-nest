@@ -42,6 +42,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Intelligence_Emergence]]
 [[Memristor]]
 [[Memristor_Synapse]]
+[[Metastable_State_Hierarchy]]
 [[Nature Communications_生物神经网络中突触多样性如何让人工神经网络更强大？]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

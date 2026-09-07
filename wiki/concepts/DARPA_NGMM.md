@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[3d]]
 [[4H_SiC_SubstrateProcessing]]
 [[AI-ML — 全景导航 (Map of Content)]]
+[[AI_Application_Scenario_Reconstruction]]
 [[Advanced_Packaging]]
 [[Advanced_Packaging_Foundry]]
 [[ArchitectureParadigm]]

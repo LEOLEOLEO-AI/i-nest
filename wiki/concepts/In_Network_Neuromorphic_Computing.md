@@ -31,10 +31,12 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Intelligent_Emergence_Computing]]
 [[Intelligent_Power_Management]]
+[[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Energy_Aware_Learning]]
 [[StochasticVehicleRouting]]
+[[TCC_Neuromorphic_Integration]]
 [[iNEST]]
 
 ## Sources

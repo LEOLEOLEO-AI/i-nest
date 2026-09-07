@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[EmergentTaskDecomposition]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
+[[EmulationTheoryObserver]]
 [[Free_Energy_Principle]]
 [[GeometryGuidedGenerativeModel]]
 [[Intelligence_Emergence]]

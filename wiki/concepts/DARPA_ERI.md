@@ -61,6 +61,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[TCC_iNEST_Interconnect]]
+[[TopologyAware_Embedding]]
 [[iNEST]]
 [[iNEST_Interconnect]]
 [[residual connection]]

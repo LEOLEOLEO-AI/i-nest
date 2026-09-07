@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Exponential_CST_Coupling]]
 [[FlagOS_2_0]]
 [[FlagScale]]
+[[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
 [[Memory_Wall]]
 [[Memristive_STDP]]
@@ -73,7 +74,6 @@ Auto-extracted concept from raw material compilation.
 [[TemperatureSensitivityControl]]
 [[TemporalComplexity]]
 [[Topology_Interconnect]]
-[[chiplet interconnect]]
 [[complex system]]
 [[residual connection]]
 

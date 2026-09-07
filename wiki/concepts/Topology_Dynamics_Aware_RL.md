@@ -60,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[SynchronizationAttractorBasin]]
 [[TCC]]
 [[TCC_Neuromorphic_Integration]]
+[[TemporalSpikePattern]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]

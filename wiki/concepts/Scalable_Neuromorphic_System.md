@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[ErrorSuppressedPipeline]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
+[[NeuromorphicStatusAwareness]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[P_Paradigm]]

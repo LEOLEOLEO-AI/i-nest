@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[FloquetTopologicalOrder]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[HighThroughputParticleRouting]]
+[[HigherOrderConnectivity]]
 [[HigherOrderSimplicialDynamics]]
 [[HigherOrderTransitionKernel]]
 [[IncidenceBasedRandomWalk]]

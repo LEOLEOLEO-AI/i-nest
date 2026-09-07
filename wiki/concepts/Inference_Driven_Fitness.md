@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[DendriticTaskPartitioning]]
 [[DendriticTaskRouting]]
 [[DrivenDissipativeDynamics]]
+[[GradientTopologyOptimization]]
 [[Intelligence_Emergence]]
 [[InterconnectDrivenPlacement]]
 [[Interconnect_Routing]]

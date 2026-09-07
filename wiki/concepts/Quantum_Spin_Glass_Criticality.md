@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkComputing]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[LLMDrivenPathSelection]]
 [[Monitored_Quantum_Circuits]]
 [[MultiSourceTaskonomy]]
 [[Network_Topology_Design]]

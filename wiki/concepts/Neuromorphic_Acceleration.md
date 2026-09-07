@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Offload]]
 [[LIF_Neuron_Model]]
+[[LandauGinzburgFreeEnergy]]
 [[MagnetizationSusceptibilityResponse]]
 [[Metriplectic_Twin]]
 [[Neuromorphic_Computing]]

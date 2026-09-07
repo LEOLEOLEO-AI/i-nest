@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[4H_SiC_SubstrateProcessing]]
 [[AI_Faculty_Forum_2026]]
 [[Analog_Weight_Storage]]
 [[Attention_Residuals]]
@@ -59,7 +60,6 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[TCC]]
-[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

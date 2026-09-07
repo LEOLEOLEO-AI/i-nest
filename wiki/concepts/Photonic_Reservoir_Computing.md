@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AddressRedundancyElimination]]
 [[Analog_To_Information_Conversion]]
 [[Attention_Residuals]]
+[[BehaviorAlignedQuantization]]
 [[BoundaryObject_Abstraction]]
 [[BrainActivityPrediction]]
 [[DataDrivenMaterialDesign]]

@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[AttentionMap_DifferenceResidual]]
 [[BCM滑动阈值]]
 [[CST_Synergy_Coordination]]
+[[CST_Theory_V27_FINAL]]
 [[CST_V42_SelfConsistency]]
 [[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]

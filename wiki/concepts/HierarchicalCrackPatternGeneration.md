@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalFixedPoint]]
 [[CrossInstitutionalNetwork]]
 [[Crystallized_Neural_Manifolds]]
+[[DataDrivenMaterialDesign]]
 [[DendriticReservoirState]]
 [[DifferentiableLifting]]
 [[Dynamic_Expert_Fusion]]

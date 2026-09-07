@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[ImaginaryGaugePhaseImprint]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]
+[[MetaHardwareAbstraction]]
 [[Nanowire_Network_Interconnection_Graph]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

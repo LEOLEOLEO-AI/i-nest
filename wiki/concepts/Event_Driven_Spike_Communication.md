@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[EnergyEfficientRestoration]]
 [[EventDriven_Edge_Perception]]
 [[Event_Driven_Architecture]]
+[[Event_Driven_Asynchronous_Circuit]]
 [[Event_Driven_Spiking]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]

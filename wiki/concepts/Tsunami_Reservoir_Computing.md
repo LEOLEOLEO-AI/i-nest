@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossInstitutionalNetwork]]
 [[CrystalPalace_Program]]
 [[Crystallized_Neural_Manifolds]]
+[[DataDrivenMaterialDesign]]
 [[Edge_of_Chaos]]
 [[Intelligence_Emergence]]
 [[NonlinearProjectionEncoding]]

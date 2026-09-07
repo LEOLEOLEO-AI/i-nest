@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[LowRankPerturbation]]
 [[MatrixShapePhaseTransition]]
 [[Memristive_Topology]]
+[[MixedLabyrinthFractal]]
 [[Nanomaterial_Discovery_ML]]
 [[Network_Topology_Design]]
 [[NeuromorphicRadarFrontend]]

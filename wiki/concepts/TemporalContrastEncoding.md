@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[SelfOrganizedOscillatoryLearning]]
 [[SpectralSpikeEncoding]]
+[[SpikeBasedInference]]
 [[SpikeEncoding]]
 [[SpikeTimingFidelity]]
 [[SpikeTimingGradientPropagation]]

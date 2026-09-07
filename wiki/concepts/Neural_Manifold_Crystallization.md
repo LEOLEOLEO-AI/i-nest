@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Synapse]]
 [[MoE_Routing]]
 [[Neuromorphic_Computing]]
+[[OscillatoryReservoirDynamics]]
 [[SpikingMoE_SDPrompt]]
 [[Spiking_Neural_Network]]
 [[Wafer_Scale_Integration]]

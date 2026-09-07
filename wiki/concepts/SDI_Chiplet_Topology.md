@@ -38,9 +38,10 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_Chiplet]]
 [[SDSoW]]
+[[SDSoW_Architecture]]
+[[SDSoW_TCC_Integration]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
-[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
+[[CommunicationAwareComputeRelocation]]
 [[FlagOS_2_0]]
 [[Heterogeneous_Integration]]
 [[KV_Cache_To_BoundaryObject]]
@@ -34,7 +35,6 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Package_Level_Topology]]
 [[TCC]]
-[[chiplet interconnect]]
 [[iNEST]]
 
 ## Sources

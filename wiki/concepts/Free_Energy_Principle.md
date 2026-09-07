@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Active_Inference_Agent]]
 [[Asymmetric_Electrode_Structure]]
 [[BrownianCastleInterface]]
+[[IGZO_ThinFilm_Channel]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]

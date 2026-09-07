@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[BoundaryContract]]
 [[CST_MasterEquation]]
 [[Chemical_Bond_Operation_Algebra]]
+[[ChiralSurfaceFermiProjection]]
 [[Complex_System_Theory]]
 [[Decoupled_Priors]]
 [[FixedOverheadFloor]]

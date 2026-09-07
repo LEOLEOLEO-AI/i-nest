@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Supply_Chain_Increment]]
 [[AdaptiveDensityControl]]
 [[ArbitraryWavefunctionConfigurability]]
+[[CertifiedBifurcationDetection]]
 [[Complex_System_Theory]]
 [[Decoupled_Prior_Integration]]
 [[DendriticReservoirState]]

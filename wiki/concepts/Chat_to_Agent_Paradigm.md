@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[ClosedLoopNeuromorphicControl]]
 [[Closed_Loop_Neuromodulation]]
 [[Compact_Boson_Dynamics]]
+[[Compute_In_Memory_Neuromorphic]]
 [[ContinualLearningOnNeuromorphic]]
 [[Continual_Learning_Modularity]]
 [[DebiasingTechniques]]

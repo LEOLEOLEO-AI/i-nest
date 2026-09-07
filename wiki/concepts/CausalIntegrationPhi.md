@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Backpropagation_Comparison]]
 [[Banded_NonHermitian_Matrix]]
 [[CST计量仪]]
+[[Causal_State_Encoding]]
 [[CentralityAsStateVariable]]
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]

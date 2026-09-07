@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Inference_Workload_Profiling]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[Kinematic_Waves]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[涌现]]

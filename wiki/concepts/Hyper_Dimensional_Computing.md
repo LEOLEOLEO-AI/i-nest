@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[ActiveMatterComputing]]
 [[Allreduce_Latency_Probe]]
+[[Alpha_Coefficient_Phase_Transition_Amplification]]
 [[Analog_To_Information_Conversion]]
 [[Architectural_Conditioning]]
 [[Attention_Residuals]]

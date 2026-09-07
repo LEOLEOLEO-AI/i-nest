@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AdversarialSpikePerturbation]]
 [[AgentBasedCorruptionModel]]
 [[Analog_Synaptic_Behavior]]
+[[Avoided_Criticality]]
 [[BurstTemporalPlasticity]]
 [[EventDrivenSynchronization]]
 [[Neuromorphic_Computing]]

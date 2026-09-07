@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[AdsorptionBiosorptionMechanism]]
 [[Analog_InMemory_Processing]]
 [[AnteHoc_Explainability]]
+[[Backpropagating_Action_Potential]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

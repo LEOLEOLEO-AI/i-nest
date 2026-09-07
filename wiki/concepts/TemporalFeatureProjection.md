@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[4H_SiC_SubstrateProcessing]]
 [[AnalogDomainCompression]]
 [[BCU_Operation]]
+[[ChipletTrafficAwareScheduling]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
@@ -53,7 +54,6 @@ Auto-extracted concept from raw material compilation.
 [[SpatialPatternStorage]]
 [[TCC]]
 [[ThroughSiliconVia_TSV_ThermalPath]]
-[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

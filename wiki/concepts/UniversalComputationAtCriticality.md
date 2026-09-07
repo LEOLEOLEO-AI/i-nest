@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[JunctionCenteredRouting]]
 [[Logic_Folding]]
 [[MatrixShapePhaseTransition]]
+[[MeasurementInducedRouting]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[OpenLearningEcosystem]]

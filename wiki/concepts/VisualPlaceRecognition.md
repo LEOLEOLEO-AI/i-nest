@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[FixedOverheadCost]]
 [[GeometricNeuromorphicFusion]]
 [[In_Network_Neuromorphic]]
+[[In_Package_Neuromorphic_Integration]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[SNN]]

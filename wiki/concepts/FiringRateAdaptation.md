@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Fixed_Cost_Dominance]]
 [[FlexibilityThreshold]]
 [[Gut_Brain_Immune_Network]]
+[[HippocampalNeocorticalIntelligence]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]

@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[ReconfigurableSpikingRouting]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
+[[SelfOrganizationInContinuousMedia]]
 [[SelfOrganization]]
 [[Self_Organized_Criticality]]
 [[SensationModulatingNetwork]]

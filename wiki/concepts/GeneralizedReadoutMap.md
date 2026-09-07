@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[P_Paradigm]]
 [[Pipelined_Processor_Integration]]
+[[QuantumCircuitCompression]]
 [[QuantumDissipativeReservoir]]
 [[Reservoir_Computing]]
 [[Spatiotemporal_Synergy]]
