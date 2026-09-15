@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[EndToEndDesignAutomationFlow]]
 [[EndToEndDesignAutomation]]
 [[EvanescentFieldTrapping]]
+[[Evolving_System_Adaptation]]
 [[FirstPrinciples_AI]]
 [[MasterEquationRG]]
 [[MeanFieldSpinGlass]]

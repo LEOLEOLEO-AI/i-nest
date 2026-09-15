@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[MeshReduce_U]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
+[[Network_on_Chip_Topology]]
 [[NoC]]
 [[NoC_SDI]]
 [[NoC_SDI_Topology]]
@@ -50,7 +51,6 @@ Auto-extracted concept from raw material compilation.
 [[SparsityAwareInterconnect]]
 [[TCC]]
 [[WideLink_NoC_Router]]
-[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

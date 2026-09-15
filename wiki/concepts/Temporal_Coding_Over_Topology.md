@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[CorticalWaveRouting]]
+[[CrossbarArrayVLSI]]
 [[Environmental_Capability_Context]]
 [[Hebbian_Embedding_Dynamics]]
 [[Heterogeneous_Integration]]

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[3d]]
 [[4H_SiC_SubstrateProcessing]]
 [[AI_Driven_Power_Density_Scaling]]
+[[AssemblyAndBondingChallenge]]
 [[BoundaryContract]]
 [[BoundaryObject_Abstraction]]
 [[Chiplet]]

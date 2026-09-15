@@ -18,6 +18,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Faculty_Forum_2026]]
 [[ANN动力学]]
+[[AutonomousAdaptation]]
 [[BigBrainCellularAxis]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Complex_System_Theory]]
@@ -30,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]
 [[InNetworkNeuromorphicSimulation]]
+[[InNetworkNeuromorphic]]
 [[InNetwork_CST_Offload]]
 [[Intelligence_Emergence]]
 [[Memristive_STDP]]
@@ -58,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Encoding_of_fMRI]]
 [[Spike_Timing_Dependent_Plasticity]]
 [[Spike_timing_dependent_plasticity_learning_rule]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]

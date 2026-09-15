@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[NonEquilibriumComputing]]
 [[Non_Von_Neumann_Architecture]]
+[[QuantumReservoirMemoryCapacity]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Stigmergic_Neural_Plasticity]]
 [[SynapticWeightPlasticity]]

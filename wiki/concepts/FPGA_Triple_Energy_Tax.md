@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Driven_Power_Density_Scaling]]
 [[Blanket_Clock_Tree]]
 [[BoundaryContract]]
+[[BoundaryObject_Abstraction]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]

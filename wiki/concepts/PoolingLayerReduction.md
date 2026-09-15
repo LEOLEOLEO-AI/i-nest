@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[BayesianDomainEvolution]]
 [[BehavioralFeedbackLoop]]
 [[BoseCondensateAnalogy]]
+[[CST_Emergence_Theory]]
 [[CST_SynergisticCoordination]]
 [[CST_Synergy_Coordination]]
 [[CST_Theory]]

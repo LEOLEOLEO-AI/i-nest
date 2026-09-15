@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Driven_Architecture_Search]]
 [[AI_Forum_Demo_Narrative]]
+[[Agile_Resilient_Defense_Ecosystem]]
 [[Bond_Operation_Algebra]]
 [[Chemical_Bond_Operation_Algebra]]
 [[Defense_Industrial_Base_Reshaping]]

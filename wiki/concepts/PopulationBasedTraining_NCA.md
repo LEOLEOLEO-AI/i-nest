@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[BackpropFree_Learning]]
 [[Beyond_Moore_Pathway]]
+[[BioInspiredGeneralist]]
 [[CoPackagedOptics]]
 [[Complex_System_Theory]]
 [[Compute_In_Memory_Neuromorphic]]

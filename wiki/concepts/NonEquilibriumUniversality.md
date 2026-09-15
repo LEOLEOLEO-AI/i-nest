@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[NonvolatileChargeDomain]]
 [[OpportunisticRouting]]
 [[ProactiveTrafficSafety]]
+[[RoutingBasedComputation]]
 [[StochasticMultiAgentRL]]
 [[TopologicalDataCompression]]
 [[Topology_Manifold_Computing]]

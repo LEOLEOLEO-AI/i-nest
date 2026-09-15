@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[Crystallized_Neural_Manifolds]]
 [[DarkSiliconAwarePowerGating]]
 [[EdgeIoTEnergyAwareness]]
+[[FerroelectricMemoryCell]]
 [[HeavyTailedWaitingTime]]
 [[HeavyTailedWaitingTimes]]
 [[Intelligence_Emergence]]

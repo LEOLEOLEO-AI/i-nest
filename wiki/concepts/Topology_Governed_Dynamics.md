@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[InterconnectConstrainedEmergence]]
 [[Interconnect_Topology]]
+[[MicroTransferPrinting]]
 [[MultiplicativeGainMechanism]]
 [[MultiplicativeGain]]
 [[NCCL_CollectivePrimitives]]

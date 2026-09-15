@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[DrivenCriticalityDynamics]]
 [[Driven_Criticality]]
 [[DynamicCentralitySteering]]
+[[DynamicalCriticality]]
 [[InNetworkComputing]]
 [[Network_Topology_Design]]
 [[Quantum_Criticality]]

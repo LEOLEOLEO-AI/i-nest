@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[ContinualLearningOnNeuromorphic]]
 [[ContinuousTimeSNN]]
+[[CriticalityOffCriticalityTransition]]
 [[Criticality]]
 [[Criticality_Based_Feature_Extraction]]
 [[DelayAwareSpikeEventDelivery]]

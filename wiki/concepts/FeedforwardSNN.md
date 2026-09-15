@@ -31,8 +31,11 @@ Auto-extracted concept from raw material compilation.
 [[CompactnessRegularizedFitness]]
 [[ConductingPolymerDendriteMemory]]
 [[DARPA_ProjectManager_Model]]
+[[D_FlipFlop]]
 [[D_FlipFlop_Spike_Memory]]
+[[Distributed_Spike_Communication]]
 [[SNN]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

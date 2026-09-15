@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[DelayParameterSpaceDecomposition]]
 [[DynamicInference]]
 [[Evolutionary_Computability]]
+[[Experiment_Seven_Eight_Nine_Planning]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]

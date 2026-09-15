@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Plasticity_vs_Computation_Separation]]
 [[RLFlightControl]]
 [[RedundancyControlledStochasticRouting]]
+[[SDI_TopologicalControl]]
 [[STDPDrivenConnectivity]]
 [[STDP_Plasticity]]
 [[StochasticVehicleRouting]]

@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[MemristiveSignedCouplings]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicHardware]]
+[[NeuromorphicRL_Locomotion]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SOC]]

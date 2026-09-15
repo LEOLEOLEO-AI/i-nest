@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveTimeStepTraining]]
 [[AnomalousSpinTransport]]
 [[ApproximateMacroscopicDynamics]]
+[[BrownianCastleInterface]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[SNN]]

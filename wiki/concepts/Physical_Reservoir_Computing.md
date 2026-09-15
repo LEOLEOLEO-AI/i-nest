@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_MasterEquation]]
 [[CST计量仪]]
 [[Complex_System_Theory]]
+[[Complexity_Emergence]]
 [[ComputationEfficientDeepLearning]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]

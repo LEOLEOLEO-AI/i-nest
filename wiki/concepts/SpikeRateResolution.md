@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[DendriticTaskPartitioning]]
 [[DirectTrainingSNN]]
 [[Direct_Training_Spiking_Neural_Networks]]
+[[DualModeSNNConventionalInference]]
 [[EventBasedMotionDeblurring]]
 [[FPGA_SNN_Inference]]
 [[In_Network_Neuromorphic]]

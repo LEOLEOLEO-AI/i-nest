@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AlternativeBridgingModels]]
 [[AnisotropicGaussianPrimitives]]
 [[AnomalousSpinTransport]]
+[[CST_Exponential_Gain]]
 [[CirculateFiringNeuron]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]

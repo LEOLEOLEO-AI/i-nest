@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_NoC_Fabric]]
 [[Chiplet_Stacking]]
 [[Complex_System_Theory]]
+[[Critical_Region_Extension]]
 [[DirectConnect_Topology]]
 [[EntanglementAwareRouting]]
 [[External_to_OnDie_Evolution]]

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Categorical_Reservoir_Model]]
 [[CompactMemristorCircuits]]
 [[Complex_System_Theory]]
+[[Complexity_Emergence]]
 [[ConnectivityDerivedReservoir]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]

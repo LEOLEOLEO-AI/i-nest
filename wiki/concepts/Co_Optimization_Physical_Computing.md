@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[ApplicationScenarioReconstruction]]
 [[Computation_Organization]]
 [[Contested_Prior_Resolution]]
+[[Contested_Priors_Mechanism]]
 [[ErrorSuppressedPipeline]]
 [[HierarchicalReservoirDynamics]]
 [[Intelligence_Emergence]]

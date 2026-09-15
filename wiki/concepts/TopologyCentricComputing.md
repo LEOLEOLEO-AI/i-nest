@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CongestionAwareNoCPlacement]]
 [[Critical_Region_Extension]]
 [[DARPA_ProjectManager_Model]]
+[[Defense_Industrial_Base_Reshaping]]
 [[GeneralIntelligenceSubstrate]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Topology]]

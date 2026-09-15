@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Biologically_Plausible_Learning_Rules]]
 [[Boundary_Criticality]]
 [[BrownianCastleInterface]]
+[[BrownianCastleInterfaces]]
 [[CriticalStateDynamics]]
 [[Criticality]]
 [[FormalLinguisticCompetence]]

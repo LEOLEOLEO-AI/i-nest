@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[MagnitudePhaseComputationalModel]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[SDI_iNEST_Interconnect]]
 [[SNN]]
 [[ST_SNN]]
 [[SpikeEncoding]]

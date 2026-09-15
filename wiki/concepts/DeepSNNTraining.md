@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Direct_Training_Spiking_Neural_Networks]]
 [[DiscreteContinuous_Unification]]
 [[Distributed_Spike_Communication]]
+[[DualModeSNNConventionalInference]]
 [[EarlyVisualCortexAliasing]]
 [[EnergyEfficientNeuromorphic]]
 [[FPGA_Accelerated_SNN]]
@@ -45,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[SNN]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

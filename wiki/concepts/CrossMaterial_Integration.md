@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[ChipletSignalIntegrity]]
 [[ChipletTrafficAwareScheduling]]
 [[Chiplet]]
+[[Chiplet_Based_Architecture]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]
 [[Chiplet_Stacking]]

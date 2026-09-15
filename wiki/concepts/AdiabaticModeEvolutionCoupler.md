@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Communication_Trace_Diagnostics]]
 [[CrossbarArrayVLSI]]
 [[CrossbarFabricTopology]]
+[[CrossbarInterconnect]]
 [[DTGA]]
 [[Heterogeneous_Integration]]
 [[ImmobilizationStabilityMechanism]]

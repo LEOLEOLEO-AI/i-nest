@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Environmental_Capability_Context]]
 [[FerroelectricDevice]]
 [[Ferroelectric_Devices]]
+[[FirstPrinciples_Derivation]]
 [[Generative_Model_Topology]]
 [[GraphStructuredRetrieval]]
 [[Heterogeneous_Integration]]

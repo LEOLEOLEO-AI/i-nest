@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkNeuromorphicComms]]
 [[InNetworkNeuromorphic]]
 [[In_Network_Neuromorphic]]
+[[InputAdaptiveComputation]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

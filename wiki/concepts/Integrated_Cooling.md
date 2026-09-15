@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Topology]]
 [[CommunicationAsComputation]]
 [[GlobalDecision_LocalExecution_ControlPlane]]
 [[Heterogeneous_Integration]]
@@ -32,7 +33,9 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_iNEST_Wafer]]
 [[P_Paradigm]]
 [[Packaging_CoDesign]]
+[[PhaseII_Organization_Model]]
 [[SDI_Bond]]
+[[SDI_Chiplet]]
 [[SDI_Chiplet_Topology]]
 [[SDI_TopologyWaferIntegration]]
 [[SDI_Topology]]

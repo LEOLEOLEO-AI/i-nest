@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[InMateriaComputing]]
 [[Intelligence_Emergence]]
 [[Intelligent_Power_Management]]
+[[Medical_Large_Language_Models]]
 [[Memristive_Topology]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[MetaFAIR_ArchitectureDiscovery]]

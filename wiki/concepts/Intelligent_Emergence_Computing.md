@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AnisotropicGaussianPrimitives]]
 [[AstrocyteInspiredRepair]]
 [[BandedConnectivityModel]]
+[[BigBrainCellularAxis]]
 [[Complex_Network_Brain_Inspired_Computing]]
 [[Complex_System_Theory]]
 [[DevelopmentalNeuromorphicAdaptation]]

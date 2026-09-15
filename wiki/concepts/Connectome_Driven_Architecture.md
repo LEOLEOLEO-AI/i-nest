@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Driven_Architecture_Search]]
 [[AI_Driven_Power_Density_Scaling]]
 [[AI_Forum_Demo_Narrative]]
+[[Active_Inference_Agent]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[BackflowTransformation]]
 [[BoundaryObject_Abstraction]]

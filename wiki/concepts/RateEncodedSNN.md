@@ -43,9 +43,11 @@ Auto-extracted concept from raw material compilation.
 [[Hardware_Aware_SNN_Optimization]]
 [[Interconnect_Routing]]
 [[KinematicWavePropagation]]
+[[LossSpikePhenomenon]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[SNN]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

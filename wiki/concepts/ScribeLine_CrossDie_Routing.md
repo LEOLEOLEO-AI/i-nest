@@ -39,8 +39,11 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Architecture]]
 [[SDSoW_Reconfigurable_Network]]
 [[TCC]]
+[[TopologyCentricComputing]]
 [[WaferScaleTopologyCentricComputing]]
+[[Wafer_Chiplet_Topology_Interconnect]]
 [[Wafer_Scale_Integration]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

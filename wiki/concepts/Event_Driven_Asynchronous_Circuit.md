@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[DelayCodedWorkingMemory]]
 [[Discrete_Event_Spike_Simulation]]
 [[EnergyEfficientRestoration]]
+[[EnergyResourceEfficiencyTradeoff]]
 [[EventDriven_Edge_Perception]]
 [[Event_Driven_Architecture]]
 [[Event_Driven_Spike_Communication]]

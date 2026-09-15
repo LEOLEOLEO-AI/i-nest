@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Efficient_Coding_Constraint]]
 [[EventBasedAnalogFrontEnd]]
 [[EventDrivenAttentionMechanism]]
+[[EventDrivenSensoryEncoding]]
 [[InNetworkFieldQuery]]
 [[In_Memory_Computing]]
 [[Memory_Wall]]
@@ -36,7 +37,6 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[TCC]]
 [[TCC_Topology]]
-[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

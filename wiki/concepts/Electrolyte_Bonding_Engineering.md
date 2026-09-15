@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Signal_Folding]]
 [[SneakPathCurrentSuppression]]
 [[SpatialPhotonicProgramming]]
+[[SpontaneousOrderMechanism]]
 [[VaCoAl]]
 [[emerging CMOS memristor]]
 [[iNEST]]

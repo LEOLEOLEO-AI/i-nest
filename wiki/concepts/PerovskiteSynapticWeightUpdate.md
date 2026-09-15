@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[RecurrentSpikingTopology]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
+[[SolitonLikeWaves]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[Temporal_Dynamics_Integration]]

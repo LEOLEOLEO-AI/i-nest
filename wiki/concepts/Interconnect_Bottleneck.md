@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AdvancedPackagingInterconnect]]
 [[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
+[[AnalogInMemoryComputing]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
@@ -40,7 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[SOW_BottomLayer]]
 [[Spaceborne_Computing_Architecture]]
 [[TCC]]
-[[advanced packaging]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

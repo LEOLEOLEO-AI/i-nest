@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGAInference]]
 [[FunctionalBrainGraphEmbedding]]
 [[Hierarchical_Interconnect]]
+[[MatrixShapePhaseTransition]]
 [[Memristive_STDP]]
 [[Memristor]]
 [[Memristor_Synapse]]

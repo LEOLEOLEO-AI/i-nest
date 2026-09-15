@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[InterconnectAwareGradientAggregation]]
 [[MachineLearningPotential]]
 [[Milinkovic B (2024)：复杂神经系统涌现动力学结构]]
+[[MultiplicativeGainCondition]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]

@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[ExplainableAutonomy]]
 [[Fading_Memory_Property]]
+[[FerroelectricNvCap]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

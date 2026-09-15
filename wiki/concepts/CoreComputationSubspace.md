@@ -59,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[RoleGeometryEmbedding]]
 [[SDDE_Attractor_Emergence]]
 [[SNN]]
+[[SpikeEncodingLatency]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TacticalEdgeIntelligence]]

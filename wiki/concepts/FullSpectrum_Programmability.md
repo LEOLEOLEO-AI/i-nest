@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[End_Side_Neuromorphic_Deployment]]
 [[EventDriven_Interconnect]]
 [[Heterogeneous_Integration]]
+[[InNetworkRadarProcessing]]
 [[InSituNeuralProcessing]]
 [[Memory_Wall]]
 [[Memristor]]

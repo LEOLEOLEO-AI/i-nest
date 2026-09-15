@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3D_Heterogeneous_Integration]]
 [[AcceleratedMaterialScreening]]
 [[AdversarialResilience]]
 [[AnomalousSpinTransport]]

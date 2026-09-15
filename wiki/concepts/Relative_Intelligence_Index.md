@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AnytimePointCloudRecognition]]
 [[Automated_Reward_Shaping]]
 [[Bio_plausible_Neuromorphic_Disturbance_Observer]]
+[[BrainBodyResonance]]
 [[Neuromorphic_Computing]]
 [[SpikeEncoding]]
 [[Spiking_Neural_Network]]

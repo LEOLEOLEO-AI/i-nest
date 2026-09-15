@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[ComplexValuedSNN]]
 [[ConductingPolymerDendriteMemory]]
 [[Criticality]]
+[[Distributed_Spike_Communication]]
 [[EventDrivenFunctionalConnectivity]]
 [[Event_Driven_Architecture]]
 [[Fluidic_Hysterons]]

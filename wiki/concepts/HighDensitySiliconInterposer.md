@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[3D_IC_Stacking]]
 [[3D_Integrated_Chiplet_Stacking]]
+[[3D_Stacking]]
 [[3d]]
 [[AdvancedPackagingInterconnect]]
 [[ChipletWaferInterconnectScaling]]
@@ -31,13 +32,16 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Packaging]]
 [[Chiplet_Stacking]]
+[[DirectConnect_Topology]]
 [[Heterogeneous_3D_Stacking]]
+[[Heterogeneous_Integration]]
 [[Interconnect_Topology]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[Through_Silicon_Via]]
 [[Wafer_Scale_Integration]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

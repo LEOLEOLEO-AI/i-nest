@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Active_Inference_Topology]]
 [[Additive_Manufacturing_Supply_Chain]]
 [[AnalogDomainCompression]]
 [[Analog_InMemory_Processing]]

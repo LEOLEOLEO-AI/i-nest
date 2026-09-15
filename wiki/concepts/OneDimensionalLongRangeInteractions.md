@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Compute_In_Memory_Neuromorphic]]
 [[CrossDomain_Integration]]
 [[CrossbarArrayPrecision]]
+[[Emergence_Phase]]
 [[FeFET_Polarization_Switching]]
 [[FerroelectricMemoryCell]]
 [[Ferroelectric_ComputeInMemory]]
@@ -56,7 +57,6 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[OpticalIonicMemory]]
 [[Process_Recycling_Paradigm]]
-[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

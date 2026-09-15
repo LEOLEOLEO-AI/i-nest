@@ -56,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[DiagnosticReportFramework]]
 [[EulaminateOverrepresentation]]
 [[Evolutionary_Computability]]
+[[Evolutionary_Structure_Computability]]
 [[Heterogeneous_Integration]]
 [[Memory_Wall]]
 [[Memristive_ANN_Hardware]]
@@ -82,6 +83,8 @@ Auto-extracted concept from raw material compilation.
 [[TemperatureSensitivityControl]]
 [[TemporalComplexity]]
 [[Topology_Interconnect]]
+[[Wafer_Interconnect]]
+[[chiplet interconnect]]
 [[residual connection]]
 
 ## Sources

@@ -30,7 +30,9 @@ Auto-extracted concept from raw material compilation.
 [[CollectiveSpikingDynamics]]
 [[CompactnessRegularizedFitness]]
 [[ConductingPolymerDendriteMemory]]
+[[DARPA_ProjectManager_Model]]
 [[SNN]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

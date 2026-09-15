@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[ConformalFieldTheoryScaling]]
 [[Dynamic_Neuron_Activation_Prediction]]
 [[EntanglementSignatures]]
+[[GeometricRegularizationLoss]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AnisotropicTensileStrength]]
 [[ArbitraryWavefunctionConfigurability]]
 [[AstrocyteInspiredRepair]]
+[[AutonomousAdaptation]]
 [[BackflowTransformation]]
 [[BigBrainCellularAxis]]
 [[BrainBodyResonance]]

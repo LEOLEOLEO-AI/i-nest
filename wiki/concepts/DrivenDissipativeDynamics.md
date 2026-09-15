@@ -57,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
+[[TCC与INEST：2026全局论文与专利战略规划清单]]
 [[complex system]]
 [[iNEST]]
 [[忆阻器]]

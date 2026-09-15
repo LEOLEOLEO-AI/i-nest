@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_STDP]]
 [[STDP_Plasticity]]
 [[SelfHealing_Interconnect]]
+[[SpaceToUndersea_ResilientComms]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[涌现]]

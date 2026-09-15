@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[BifurcationCandidate]]
 [[CST计量仪]]
 [[CausalIntegrationPhi]]
+[[Causal_State_Encoding]]
 [[Complex_System_Theory]]
 [[Evaluation_Resolution]]
 [[Intelligence_Emergence]]

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[DrivenDissipativeDynamics]]
 [[Efficient_Coding_Constraint]]
 [[EventBasedAnalogFrontEnd]]
+[[EventDrivenWirelessTransmission]]
 [[FPGA_Neuromorphic_Architectures]]
 [[HippocampalNeocorticalIntelligence]]
 [[Memristive_Interconnect]]

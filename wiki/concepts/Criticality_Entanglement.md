@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Mott_Device_Array]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[NoiseRegimeTransition]]
 [[NonlinearDynamicalSampling]]
 [[Nonlinear_Gain]]
 [[PhysicalSubstrateReservoirComputing]]

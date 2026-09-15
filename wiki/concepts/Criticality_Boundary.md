@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[GeometricNeuromorphicFusion]]
 [[HierarchicalBayesianCommunityDetection]]
+[[InputAdaptiveComputation]]
 [[Intelligence_Emergence]]
 [[Local_Approximation_Dynamics]]
 [[MacroCriticalityEmergence]]

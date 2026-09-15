@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[DevelopmentalNeuromorphicAdaptation]]
 [[Distributed_Spike_Communication]]
 [[FixedOverheadCost]]
+[[FixedOverheadPenalty]]
 [[FlexibilityThreshold]]
 [[Heterogeneous_Integration]]
 [[HippocampalNeocorticalIntelligence]]

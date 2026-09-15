@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Evolutionary_Reservoir_Adaptation]]
 [[FitnessGuidedTopologySearch]]
 [[HardwareAware_DesignSpace]]
+[[MicrostateReservoirDynamics]]
 [[Network_Topology_Design]]
 [[NonlinearDynamicsInMetamaterials]]
 [[Nonlinear_Gain]]

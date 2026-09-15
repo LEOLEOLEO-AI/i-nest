@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveLocalLearning]]
 [[AnisotropicGaussianPrimitives]]
 [[EventDrivenAsynchronousOperation]]
+[[EventDriven_Asynchronous_Operation]]
 [[FlexibilityThreshold]]
 [[HighTemporalResolutionSensing]]
 [[Neuromorphic_Computing]]

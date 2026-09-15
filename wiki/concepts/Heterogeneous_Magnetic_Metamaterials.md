@@ -56,6 +56,8 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TemperatureSensitivityControl]]
 [[ThermallyDrivenSuperparamagnetReservoir]]
+[[chiplet interconnect]]
+[[iNEST 论文矩阵计划]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

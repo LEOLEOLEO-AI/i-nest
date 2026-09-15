@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[ActiveDendriteSNN]]
+[[BackflowTransformation]]
 [[BrainBodyResonance]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]

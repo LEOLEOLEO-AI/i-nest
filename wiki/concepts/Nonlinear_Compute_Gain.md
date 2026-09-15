@@ -28,10 +28,10 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
-[[Chiplet_Interconnect]]
 [[Chiplet_Wafer_Topology]]
 [[ComputationEfficientDeepLearning]]
 [[Deep_Network_Architecture_Invariant]]
+[[Defense_Industrial_Base_Reshaping]]
 [[EfficientDeepLearning]]
 [[EmergentIntelligence_Spacetime]]
 [[Heterogeneous_Integration]]
@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[TCC]]
 [[causal emergence]]
+[[chiplet interconnect]]
 [[iNEST]]
 
 ## Sources

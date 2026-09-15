@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[DelayCouplingMatrix]]
 [[FunctionalHardwareComposition]]
 [[Heterogeneous_Integration]]
+[[HypergraphRumorPropagation]]
 [[Intelligence_Emergence]]
 [[LLM_Driven_NoC_Control]]
 [[Network_on_Chip]]

@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[CompetitiveEdgeRewiring]]
 [[Complex_System_Theory]]
 [[Cryogenic_Syndrome_Compression]]
+[[Crystallized_Neural_Manifolds]]
 [[ExplainableEnergyAI]]
 [[InNetworkNeuromorphicComms]]
 [[InNetworkNeuromorphic]]

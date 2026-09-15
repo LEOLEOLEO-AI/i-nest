@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Resilient_Satellite_Mesh]]
 [[Self_Organized_Criticality]]
+[[SensationModulatingNetwork]]
 [[Stigmergic_RL]]
 [[Synaptic_Plasticity]]
 [[TCC]]

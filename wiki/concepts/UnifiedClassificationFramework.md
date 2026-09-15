@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[ClassicalQuantum_Query_Benchmark]]
 [[Complex_System_Theory]]
 [[ContestedPriorTopology]]
+[[ControllableSubspace]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]

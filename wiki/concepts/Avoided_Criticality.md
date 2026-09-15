@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[AstrocyteInspiredRepair]]
 [[BigBrainCellularAxis]]
+[[BioPlausibleDisturbanceObserver]]
 [[BulletTrainScheduling]]
 [[BurstTemporalPlasticity]]
 [[Chiplet]]

@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Entanglement_Phase_Transition]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[InNetworkComputing]]
+[[InputAdaptiveComputation]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[MultifractalCriticalPhase]]

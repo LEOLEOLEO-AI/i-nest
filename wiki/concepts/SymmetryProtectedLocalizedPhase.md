@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicInference]]
 [[Experiment_Seven_Eight_Nine]]
 [[Experiment_Seven_Eight_Nine_Planning]]
+[[Flexible_Neuromorphic_Substrate]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

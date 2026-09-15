@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[STDPDrivenConnectivity]]
 [[STDP_Plasticity]]
 [[StochasticVehicleRouting]]
+[[Swarmalator_Phase_Transition]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[涌现]]

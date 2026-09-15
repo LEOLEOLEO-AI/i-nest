@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[AstrocyteInspiredRepair]]
 [[AttentionGuidedEntropy]]
 [[AutogradCompatibleSpiking]]
+[[AutomatedQuantizationFramework]]
 [[BayesMarkovOrientationModel]]
 [[BioPlausibleDisturbanceRejection]]
 [[Complex_System_Theory]]

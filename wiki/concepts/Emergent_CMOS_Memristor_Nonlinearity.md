@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalFluctuationReservoir]]
 [[HardwareAware_DesignSpace]]
 [[HighTemporalResolutionSensing]]
+[[InNetworkNeuromorphicSimulation]]
 [[Intelligence_Emergence]]
 [[Memristor]]
 [[Memristor_Synapse]]

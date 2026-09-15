@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveEntanglementManagement]]
 [[AdjointWaveControl]]
 [[AgenticServiceOrchestration]]
+[[Anomaly_Mediated_Quantum_Criticality]]
 [[Capability_Reserve_Index]]
 [[Cognitive_Relapse_Decoupling]]
 [[ConstraintDrivenSelfOrganization]]

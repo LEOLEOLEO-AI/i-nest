@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[EnergyAwareLearning]]
 [[Epithelial_Barrier_Integrity]]
+[[FunctionalInterfaceBlocks]]
 [[Heterogeneous_Integration]]
 [[Hyper_Dimensional_Computing]]
 [[Intelligence_Emergence]]

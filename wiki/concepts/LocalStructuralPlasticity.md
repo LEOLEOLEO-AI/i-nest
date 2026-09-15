@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[BehavioralFeedbackLoop]]
 [[Complex_System_Theory]]
 [[Constructed_Reality_Interconnect]]
+[[DendriticReservoirState]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[Free_Energy_Principle]]

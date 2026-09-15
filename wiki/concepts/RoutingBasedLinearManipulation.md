@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstInterleaving]]
 [[Cascading_Failure_Mitigation]]
 [[ConsciousnessEngineeringLoop]]
+[[Continuous_Control_Spike_Timing_Sensitivity]]
 [[CrossLayer_SignalRouting]]
 [[DisturbancePropagationPath]]
 [[EventCameraTemporalEncoding]]

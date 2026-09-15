@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[2026-06-15_大脑的量子纠缠与信息动力学]]
 [[AIRA_NeuralArchSearch]]
 [[AI_Supply_Chain_Increment]]
+[[AI人工智能 卷积神经网络（CNN）_w3cschool]]
 [[AnalogDomainCompression]]
 [[Automated_Reward_Shaping]]
 [[CST_Theory]]

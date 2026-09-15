@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[ActivityAvalanche]]
 [[Avoided_Criticality]]
+[[ContinualLearningOnNeuromorphic]]
 [[CriticalityOffCriticalityTransition]]
 [[Criticality]]
 [[Dynamic_Expert_Fusion]]

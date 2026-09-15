@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Intelligence_Principle]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[ArtificialProprioception]]
+[[Beyond_Moore_Pathway]]
 [[BurstGatedRouting]]
 [[Complex_System_Theory]]
 [[Critical_Region_Extension]]

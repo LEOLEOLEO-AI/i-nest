@@ -24,9 +24,13 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
+[[Heterogeneous_Integration]]
 [[Interconnect_Topology]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
+[[NoC]]
 [[NoC_Chiplet_iNEST_Wafer]]
+[[P_Paradigm]]
 [[SDI_Bond]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
@@ -34,9 +38,14 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[ThreeLayerArchitecture]]
 [[TopologyCentricComputing]]
+[[Topology_Centric_Computing]]
 [[WaferScaleCoDesign]]
 [[WaferScaleTopologyCentricComputing]]
+[[Wafer_Chiplet_Topology_Interconnect]]
 [[Wafer_Scale_Integration]]
+[[chiplet interconnect]]
+[[iNEST]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

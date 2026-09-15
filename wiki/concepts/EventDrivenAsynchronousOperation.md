@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AsynchronousCircuits]]
 [[AsynchronousNeuromorphicHardware]]
 [[Autonomous_Spiking_Dynamics]]
+[[Avoided_Criticality]]
 [[EventDriven_Asynchronous_Operation]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]

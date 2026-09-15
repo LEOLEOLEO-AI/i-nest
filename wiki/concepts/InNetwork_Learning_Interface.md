@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CertifiedBifurcationDetection]]
 [[Cognitive_Relapse_Architecture]]
 [[ComplexEcosystemDynamics]]
+[[Complexity_Emergence]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[Continual_Learning_Topology]]

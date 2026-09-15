@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AgenticServiceOrchestration]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Allreduce_Latency_Probe]]
+[[Analog_InMemory_Processing]]
 [[Ant_Swarm_Functional_Control]]
 [[ArbitraryWavefunctionConfigurability]]
 [[Architectural_Conditioning]]

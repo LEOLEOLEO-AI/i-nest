@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[HZO_FerroelectricCapacitor]]
 [[Hysteretic_State_Encoding]]
 [[Interconnect_Routing]]
+[[MemristiveReservoirBranchPrediction]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]

@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[Neuromorphic_Topology]]
+[[Spike_Driven_Intelligence]]
 [[Spike_Event_Driven_Attention]]
 [[SpikingNeuralTransformer]]
 [[Spiking_Neural_Network]]

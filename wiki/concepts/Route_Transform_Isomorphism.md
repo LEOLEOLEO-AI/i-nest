@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Critical_Region_Extension]]
 [[Data_Debiasing_Techniques]]
 [[Deep_Thermalisation]]
+[[DirectConnect_Topology]]
 [[Interconnect_Routing]]
 [[TCC]]
 [[iNEST]]

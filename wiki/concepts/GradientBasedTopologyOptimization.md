@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[NonreciprocalQuasiperiodicLattice]]
 [[OpenEndedDiscovery]]
 [[OpenLearningEcosystem]]
+[[OptimalControlPolicyLearning]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[涌现]]

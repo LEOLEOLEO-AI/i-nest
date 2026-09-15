@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Network_Architecture_Invariant]]
 [[Defense_Industrial_Base_Reshaping]]
 [[Heterogeneous_Integration]]
+[[In_Network_Neuromorphic_Processing]]
 [[Intelligence_Emergence]]
 [[Memristive_STDP]]
 [[Memristor]]
@@ -66,10 +67,13 @@ Auto-extracted concept from raw material compilation.
 [[Spatiotemporal_Synergy]]
 [[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]
+[[TCC]]
+[[TCC_iNEST_Interconnect]]
 [[TemporalDynamicsModeling]]
 [[Textbook_Paradigm_Definition]]
 [[UniversalIntelligence_Emergence]]
 [[iNEST]]
+[[iNEST_Interconnect]]
 [[iNEST_Wafer]]
 
 ## Sources

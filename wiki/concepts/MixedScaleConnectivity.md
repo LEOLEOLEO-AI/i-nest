@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[ErrorSuppressedPipeline]]
 [[Independent_EdgeAI_Player_Endgame]]
 [[Neuromorphic_Computing]]
+[[SDI_Review_Process]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

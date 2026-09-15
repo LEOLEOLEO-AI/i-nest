@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[Complex_System_Theory]]
 [[Complexity_Emergent_Intelligence]]
+[[Compositional_Continuum]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Crystallized_Neural_Manifolds]]
 [[Dynamic_Expert_Fusion]]

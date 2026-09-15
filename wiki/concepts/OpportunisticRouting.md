@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[DelayTolerantNetworkUAV]]
 [[DisorderedNetworkInterconnect]]
 [[DistributedEventConditionDesign]]
+[[EnergyEfficiencyAI]]
 [[EventDrivenRiskAssessment]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

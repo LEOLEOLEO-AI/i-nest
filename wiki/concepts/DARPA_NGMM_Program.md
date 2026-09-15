@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[3DHI_Chiplet_Integration]]
 [[3DHI_Integration]]
 [[3DHI_Stacking]]
+[[3D_Heterogeneous_Integration]]
 [[3d]]
 [[Advanced_Packaging]]
 [[Advanced_Packaging_Architecture]]
@@ -37,7 +38,6 @@ Auto-extracted concept from raw material compilation.
 [[NGMM_Manufacturing_Ecosystem]]
 [[NGMM_Program]]
 [[TCC]]
-[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

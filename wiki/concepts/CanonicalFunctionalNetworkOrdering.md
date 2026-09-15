@@ -30,10 +30,10 @@ Auto-extracted concept from raw material compilation.
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Baseline_Draft_Status]]
 [[BiologicalParadigmValidation]]
+[[Bipartite_Interconnect]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
-[[advanced packaging]]
 [[iNEST]]
 [[neuromorphic substrate]]
 

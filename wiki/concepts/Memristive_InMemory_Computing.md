@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[HigherOrderStochasticProcess]]
 [[In_Network_Neuromorphic]]
+[[In_Network_Neuromorphic_Learning]]
 [[In_Network_Neuromorphic_Offload]]
 [[LIF_Neuron_Model]]
 [[Memristive_STDP]]

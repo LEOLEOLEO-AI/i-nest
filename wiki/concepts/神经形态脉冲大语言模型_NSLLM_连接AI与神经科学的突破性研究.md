@@ -52,6 +52,8 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Neuromorphic_Computing]]
 [[Neuron论文：Neuromorphic is dead, 神经形态已死。]]
 [[RISC-V 鏋舵瀯涓_SDI 鏅虹畻浜掕仈绯荤粺璁捐锛氶潰鍚_LLM 浣庡欢杩熸帹鐞嗕笌璁粌]]
+[[SDI_Bond]]
+[[SOC]]
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[TCC]]

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AdiabaticModeEvolutionCoupler]]
 [[AdiabaticModeEvolution]]
 [[BigBrainCellularAxis]]
+[[ChannelEventSparsity]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]
@@ -72,6 +73,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect_Memristor]]
 [[Wafer_Scale_Memristor_Interconnect]]
 [[Wafer_Scale_Neuromorphic]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
 

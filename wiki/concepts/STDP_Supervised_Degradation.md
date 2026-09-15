@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[MacroCriticalityEmergence]]
 [[Mesoscale_Neural_Dynamics]]
 [[MetaFAIR_ArchitectureDiscovery]]
+[[MinimalNetworkModel]]
 [[National_Innovation_Center_Role]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]

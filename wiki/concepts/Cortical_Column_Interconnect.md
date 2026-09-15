@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[MetricComputationAuthenticity]]
 [[National_Mesoscale_Innovation_Center]]
 [[Neuromorphic_Computing]]
+[[SDSoW]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
 [[iNEST]]

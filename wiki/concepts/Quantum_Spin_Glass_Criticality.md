@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[HigherOrderNetworkDynamics]]
 [[HigherOrderNetwork]]
 [[InNetworkComputing]]
+[[InputAdaptiveComputation]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[LLMDrivenPathSelection]]

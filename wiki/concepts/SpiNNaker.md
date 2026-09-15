@@ -30,6 +30,8 @@ Auto-extracted concept from raw material compilation.
 [[HigherOrderAvalanche]]
 [[Neural_Manifold_Crystallization]]
 [[Neuromorphic_Computing]]
+[[OscillatoryReservoirDynamics]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

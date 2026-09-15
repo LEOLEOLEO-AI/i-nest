@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[ContinualLearningOnNeuromorphic]]
 [[ContinuousTimeSNN]]
 [[EnergyEfficientRestoration]]
+[[EnergyResourceEfficiencyTradeoff]]
 [[EventDrivenInference]]
 [[EventDriven_Edge_Perception]]
 [[Event_Driven_Architecture]]

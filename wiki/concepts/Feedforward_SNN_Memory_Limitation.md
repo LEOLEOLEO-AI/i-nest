@@ -34,8 +34,10 @@ Auto-extracted concept from raw material compilation.
 [[LocalLearning_SynapticUpdate]]
 [[Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Organization]]
 [[SNN]]
 [[Self_Organized_Criticality]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

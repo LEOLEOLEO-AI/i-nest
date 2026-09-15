@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_NoC_Fabric]]
 [[Chiplet_Packaging]]
 [[Chiplet_Stacking]]
+[[CrossbarArrayPrecision]]
 [[HeterogeneousInference]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]

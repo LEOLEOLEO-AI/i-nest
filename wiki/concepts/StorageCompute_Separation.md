@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]
 [[ConsciousIntegration]]
+[[CrossDomain_Integration]]
 [[Electrolyte_Bonding_Engineering]]
 [[EnergyResourceEfficiencyCoOptimization]]
 [[Ferroelectric_ComputeInMemory]]

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[ITP_STDP]]
 [[ITP_STDP_Engine]]
 [[ITP_STDP_Learning_Engine]]
+[[Ion_Modulated_Synaptic_Plasticity]]
 [[IonotronicPhotoplasticity]]
 [[Loihi2_SpikeEncoding]]
 [[Loihi]]

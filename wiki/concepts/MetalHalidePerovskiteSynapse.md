@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_InMemory_Processing]]
 [[Antiferromagnetic_Topological_Anderson_Insulator]]
 [[ArchitecturalIllusion]]
+[[ArtificialSynapticFunctionality]]
 [[BiasEvaluationMetrics]]
 [[Complex_System_Theory]]
 [[Free_Energy_Principle]]

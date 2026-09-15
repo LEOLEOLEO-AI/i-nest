@@ -56,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_Crossbar_Array]]
 [[Memristor]]
 [[Memristor_Synapse]]
+[[MetricComputationAuthenticity]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

@@ -44,11 +44,11 @@ Auto-extracted concept from raw material compilation.
 [[Ferroelectric_Devices]]
 [[HybridResistiveMemoryCIM]]
 [[IMPLYMemristiveISA]]
+[[In_Package_Optical_Interconnect]]
 [[Intelligence_Emergence]]
 [[Long_Range_Interactions]]
 [[Memristive_CAM_Indexing]]
 [[Neuromorphic_Computing]]
-[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

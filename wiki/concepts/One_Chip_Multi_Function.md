@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[InSitu_Adjoint_Wave_Control]]
 [[Inference_Stage_Decomposition]]
 [[Interconnect_Routing]]
+[[Liquid_Topological_Generative_Computing]]
 [[Logic_Folding]]
 [[MitigationLayers]]
 [[Network_on_Chip]]

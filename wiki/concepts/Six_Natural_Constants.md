@@ -34,9 +34,9 @@ Auto-extracted concept from raw material compilation.
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[ComplexSystem_Definition]]
 [[Complex_System_Theory]]
+[[Complexity_Emergent_Intelligence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
-[[advanced packaging]]
 [[iNEST]]
 [[神经网络]]
 

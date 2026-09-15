@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenRiskAssessment]]
 [[FibonacciMonitoredCriticality]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
+[[InputAdaptiveComputation]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Local_Approximation_Dynamics]]

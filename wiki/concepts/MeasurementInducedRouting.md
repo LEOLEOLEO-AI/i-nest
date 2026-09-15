@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[CongestionAwareNoCPlacement]]
 [[Critical_Region_Extension]]
 [[DTGA]]
+[[EntanglementAwareRouting]]
 [[FPGA_Reconfigurability]]
 [[FatalityDrivenRewiring]]
 [[InSitu_Adjoint_Wave_Control]]

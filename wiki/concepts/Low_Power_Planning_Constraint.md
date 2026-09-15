@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[CognitiveFeedbackLoop]]
 [[CompetitiveEdgeRewiring]]
 [[Complex_System_Theory]]
+[[ConceptualNetworkEmbedding]]
 [[EmulationTheoryObserver]]
 [[FlexibilityThreshold]]
 [[Intelligence_Emergence]]

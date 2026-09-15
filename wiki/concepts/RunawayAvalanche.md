@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[AlternativeBridgingModels]]
 [[AnisotropicGaussianPrimitives]]
+[[BarrierConditionedTrajectory]]
 [[BioInspiredLearningRule]]
 [[ChannelEventSparsity]]
 [[Contested_Prior_Resolution]]
@@ -53,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[ST_SNN]]
 [[SafetyThresholdAsSpikingThreshold]]
 [[SpikeEncodingLatency]]
+[[SpikeEncoding]]
 [[Spiking_Neural_Network]]
 
 ## Sources

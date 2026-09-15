@@ -57,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
+[[TCC与INEST：2026全局论文与专利战略规划清单]]
 [[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[WeightNorm_Criticality]]
 [[complex system]]

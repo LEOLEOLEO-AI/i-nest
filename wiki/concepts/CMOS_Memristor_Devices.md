@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor]]
 [[Memristor_Hardware_ANN]]
 [[Memristor_Synapse]]
+[[MetricComputationAuthenticity]]
 [[NestedRepresentation]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]

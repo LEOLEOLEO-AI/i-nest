@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Forum_Demo_Narrative]]
 [[AdaptersInSpikingNetworks]]
 [[AstrocyteInspiredRepair]]
+[[BackflowTransformation]]
 [[BigBrainCellularAxis]]
 [[Biologically_Plausible_Learning_Rules]]
 [[Chiplet]]

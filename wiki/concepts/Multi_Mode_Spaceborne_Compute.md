@@ -38,12 +38,12 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Stacking]]
 [[CoPackagedOptics]]
 [[Compute_In_Memory_Neuromorphic]]
+[[CrossDomain_Integration]]
 [[DecliningModularity]]
 [[Expert_Review_Arbitration]]
 [[Heterogeneous_Integration]]
 [[In_Memory_Computing]]
 [[Neuromorphic_Computing]]
-[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

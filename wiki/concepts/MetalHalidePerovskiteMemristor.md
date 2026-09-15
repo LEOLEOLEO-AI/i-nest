@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[DeeplySupervisedSpiking]]
 [[DendriticTaskPartitioning]]
+[[Distributed_Spike_Communication]]
 [[DrivenDissipativeDynamics]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence]]

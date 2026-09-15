@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_SynergisticCoordination]]
 [[CST计量仪]]
 [[CausalEmergenceCondition]]
+[[Collective_State_Convergence]]
 [[Complex_Network_Brain_Inspired_Computing]]
 [[Complex_System_Theory]]
 [[Complexity_Emergent_Intelligence]]

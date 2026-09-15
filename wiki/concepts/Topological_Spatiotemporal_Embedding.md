@@ -33,12 +33,12 @@ Auto-extracted concept from raw material compilation.
 [[Chemical_Bond_Operation_Algebra]]
 [[DailyResearchDigest]]
 [[DelayTolerantNetworkUAV]]
+[[EventDrivenTracking]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
 [[SOC]]
 [[TCC]]
-[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

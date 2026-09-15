@@ -42,6 +42,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Bipartite_Topology]]
 [[Bipartite_Topology_Robustness]]
 [[CST计量仪]]
+[[C_ST_Capability_Formula]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]

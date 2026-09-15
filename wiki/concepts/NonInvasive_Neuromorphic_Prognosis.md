@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[Fading_Memory_Property]]
+[[GNN图神经网络，非结构化数据分析利器！]]
 [[Intelligence_Emergence]]
 [[MicroCriticalAgent]]
 [[Neuromorphic_Computing]]

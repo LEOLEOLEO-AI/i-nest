@@ -67,6 +67,8 @@ Auto-extracted concept from raw material compilation.
 [[TemporalComplexity]]
 [[ThermallyDrivenSuperparamagnetReservoir]]
 [[ThermallyDrivenSuperparamagneticReservoir]]
+[[chiplet interconnect]]
+[[iNEST 论文矩阵计划]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
+[[20W_Brain_Inspired_Planning]]
 [[AdaptiveFunctionalTopology]]
 [[AmorphousSolidPlasticity]]
 [[AnomalousSpinTransport]]
@@ -42,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[FirstPrinciples_AI]]
 [[Fixed_Cost_Dominance]]
 [[IntegratedInformationFreeEnergyBridge]]
+[[Interconnect_Routing]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Meta_Residual_Learning]]

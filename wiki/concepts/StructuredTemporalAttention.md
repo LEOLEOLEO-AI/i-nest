@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[ContinuousTimeSNN]]
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[EnergyEfficientRestoration]]
+[[EnergyResourceEfficiencyTradeoff]]
 [[EventDrivenInference]]
 [[EventDriven_Edge_Perception]]
 [[Event_Driven_Architecture]]

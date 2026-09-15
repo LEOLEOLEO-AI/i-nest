@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Local_Approximation_Dynamics]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[PhotonicNeuralAccelerator]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDN_Neuromorphic_Interface]]
 [[SNN]]

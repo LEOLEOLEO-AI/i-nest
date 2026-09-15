@@ -36,7 +36,11 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Chiplet]]
 [[SDI_NPU_NoC_Integration]]
 [[TCC]]
+[[ThreeLayerArchitecture]]
 [[WaferScale_Chiplet_Interconnect]]
+[[chiplet interconnect]]
+[[iNEST]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

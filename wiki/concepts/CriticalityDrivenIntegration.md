@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Mechanism_in_SNN]]
 [[Avoided_Criticality]]
 [[Baseline_Change_Record]]
+[[BioPlausibleDisturbanceObserver]]
 [[BulletTrainScheduling]]
 [[C_ST_cap_Formula]]
 [[Catastrophic_Forgetting_Mitigation]]

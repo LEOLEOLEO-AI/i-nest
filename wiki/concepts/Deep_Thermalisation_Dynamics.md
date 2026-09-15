@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[AdvancedPackagingInterconnect]]
 [[Allreduce_Latency_Diagnostic]]
 [[Allreduce_Latency_Probe]]
+[[AnalogInMemoryComputing]]
 [[AndersonTransition]]
 [[Architectural_Conditioning]]
 [[Bipartite_Interconnect]]

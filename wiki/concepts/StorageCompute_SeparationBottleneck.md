@@ -39,7 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[OneDimensionalLongRangeInteractions]]
 [[P_Paradigm]]
 [[StorageCompute_Separation]]
-[[advanced packaging]]
+[[Theoretical_Numerical_Analysis]]
 [[iNEST]]
 
 ## Sources

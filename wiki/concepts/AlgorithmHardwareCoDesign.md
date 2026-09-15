@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[ANN_SNN_ConversionError]]
 [[ANN_SNN_WeightSpaceGap]]
+[[AdaptiveFlexibilityThreshold]]
 [[Adaptive_Deep_Brain_Stimulation]]
 [[AddressRedundancyElimination]]
 [[Algorithm_Hardware_CoDesign]]

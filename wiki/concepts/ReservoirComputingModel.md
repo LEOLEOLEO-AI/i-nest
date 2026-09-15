@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[SDDE_Attractor_Emergence]]
 [[SNN]]
 [[Spiking_Neural_Network]]
+[[TCCNPU_Coordination_Roadmap]]
 [[TemporalFeatureDecorrelation]]
 [[branch prediction]]
 [[emerging CMOS memristor]]

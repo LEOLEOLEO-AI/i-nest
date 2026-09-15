@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[BandedConnectivityModel]]
 [[BeyondPTSymmetry]]
 [[BigBrainCellularAxis]]
+[[Bipartite_Interconnect_Design]]
 [[BrainActivityPrediction]]
 [[BrainBodyResonance]]
 [[Brain_Connectome]]

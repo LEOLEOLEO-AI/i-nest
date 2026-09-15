@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[Syncytial_Information_Integration]]
 [[TCC]]
 [[TemporalComplexity]]
+[[ThermalFluctuationComputing]]
 [[complex system]]
 [[iNEST]]
 [[涌现]]

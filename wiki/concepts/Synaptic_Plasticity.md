@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Cognitive_Relapse_Architecture]]
 [[CompactMicroLED_Array]]
+[[ComplexEcosystemDynamics]]
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Constructed_Reality_Interconnect]]

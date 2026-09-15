@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Active_Inference_Agent]]
 [[Additive_Manufacturing_Defense_Trinity]]
 [[BackflowTransformation]]
+[[BayesianDomainEvolution]]
 [[Brain_Connectome]]
 [[C_elegansConnectomeAnalogy]]
 [[ChaoticAttractorTopology]]

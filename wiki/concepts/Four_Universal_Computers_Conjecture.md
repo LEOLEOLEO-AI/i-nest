@@ -30,15 +30,16 @@ Auto-extracted concept from raw material compilation.
 [[Advanced_Packaging_for_Space]]
 [[BeyondVonNeumannArchitecture]]
 [[BurstGatedRouting]]
+[[Compact_Boson_Dynamics]]
 [[Compute_In_Memory_Neuromorphic]]
 [[DecliningModularity]]
 [[Heterogeneous_Integration]]
 [[In_Memory_Computing]]
 [[Interconnect_Routing]]
 [[LightweightNeuromorphicArchitecture]]
+[[LightweightNeuromorphic]]
 [[Neuromorphic_Computing]]
 [[TCC]]
-[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

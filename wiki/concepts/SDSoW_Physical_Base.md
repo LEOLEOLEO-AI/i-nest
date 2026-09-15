@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[ModelToChipCompilation]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Obsidian_Plugin_Architecture]]
 [[P_Paradigm]]
 [[Photonic_Chiplet_Interconnect]]
 [[RTC_Primitive]]
@@ -66,6 +67,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologyProgramming]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
+[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

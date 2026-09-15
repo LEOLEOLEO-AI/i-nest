@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Based_Neuromorphic_Integration]]
 [[Chiplet_Heterogeneous_Integration]]
 [[DeeplySupervisedSpiking]]
+[[Distributed_Spike_Communication]]
 [[Electronic_Neuron_Circuit]]
 [[EnsembleSparsity]]
 [[Event_Driven_Architecture]]

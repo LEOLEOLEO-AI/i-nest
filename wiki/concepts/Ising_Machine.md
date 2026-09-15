@@ -32,11 +32,11 @@ Auto-extracted concept from raw material compilation.
 [[BurstInterleaving]]
 [[Chemical_Bond_Operation_Algebra]]
 [[CrossDomain_Integration]]
+[[DelayTolerantNetworkUAV]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
 [[SOC]]
-[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

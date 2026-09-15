@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenTrajectoryEncoding]]
 [[EventDrivenWirelessTransmission]]
 [[ExtinctionDrivenMetastability]]
+[[FixedOverheadDominance]]
 [[MemoryDrivenInterconnect]]
 [[Neuromorphic_Computing]]
 [[OptimalGeneralisationNearInterpolation]]

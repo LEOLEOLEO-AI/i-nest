@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenTracking]]
 [[EventDrivenTrajectoryEncoding]]
 [[EventDrivenWirelessTransmission]]
+[[EventDriven_Interconnect]]
 [[Event_Driven_Architecture]]
 [[Event_Driven_Processing]]
 [[InputAdaptiveComputation]]

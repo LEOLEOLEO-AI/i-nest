@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Alpha_Coefficient_Phase_Transition_Amplification]]
 [[ArbitraryWavefunctionConfigurability]]
 [[Architectural_Conditioning]]
+[[BCM滑动阈值]]
 [[BackpropFree_Learning]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[CST_Theory]]

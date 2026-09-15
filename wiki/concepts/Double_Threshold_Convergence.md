@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[Accessibility_Plasticity]]
 [[ActiveDendriteSNN]]
+[[AdaptiveFlexibilityThreshold]]
 [[AdaptiveTimeStepTraining]]
 [[Amorphous_Amorphous_Transition]]
 [[Neuromorphic_Computing]]

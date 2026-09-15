@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC]]
 [[NoC_Chiplet_iNEST_Wafer]]
 [[NoC_SDI]]
+[[Obsidian_Plugin_Architecture]]
 [[RTC_Primitive]]
 [[RTC_Primitives]]
 [[SDI_Bond]]

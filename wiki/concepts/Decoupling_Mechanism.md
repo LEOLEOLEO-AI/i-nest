@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Architecture]]
 [[Course_Based_FPGA_Projects]]
 [[DTGA]]
+[[Defense_Industrial_Base_Reshaping]]
 [[DendriticReservoirState]]
 [[FlagOS_2_0]]
 [[Free_Energy_Principle]]
@@ -40,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Integration]]
+[[Intelligence_Emergence]]
 [[L2_L3_Reconfigurability]]
 [[Memristive_STDP]]
 [[Network_Topology_Design]]
@@ -66,6 +68,7 @@ Auto-extracted concept from raw material compilation.
 [[TemporalComplexity]]
 [[TileBasedRasterization]]
 [[UniversalIntelligence_Emergence]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

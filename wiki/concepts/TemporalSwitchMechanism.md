@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[JunctionSignalIntegrity]]
+[[Local_Plasticity_Rule]]
 [[ManyBodyLocalizationThermalizationDuality]]
 [[ManyBodyLocalization]]
 [[MemristiveSignedCouplings]]

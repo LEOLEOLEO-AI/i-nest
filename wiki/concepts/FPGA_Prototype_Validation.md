@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[Evolutionary_Structure_Computability]]
 [[Exponential_CST_Coupling]]
 [[FlagOS_2_0]]
+[[FlagScale]]
 [[Heterogeneous_Integration]]
 [[Memory_Wall]]
 [[MetricComputationAuthenticity]]
@@ -77,6 +78,8 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TemperatureSensitivityControl]]
 [[TemporalComplexity]]
+[[Wafer_Interconnect]]
+[[chiplet interconnect]]
 [[complex system]]
 [[residual connection]]
 

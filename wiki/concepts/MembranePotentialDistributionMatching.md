@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Avoided_Criticality]]
 [[Baseline_Change_Record]]
 [[Bidirectional_Temporal_Enhancement]]
+[[BrainScaleS_AsyncEventCircuit]]
 [[BulletTrainScheduling]]
 [[Course_Based_FPGA_Prototyping]]
 [[Criticality]]

@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Autonomous_Spiking_Dynamics]]
 [[Avoided_Criticality]]
 [[Bidirectional_Temporal_Enhancement]]
+[[BrainScaleS_AsyncEventCircuit]]
 [[Criticality]]
 [[Delay_Aware_Autograd_Spiking_Framework]]
 [[EnergyProportionalityCeiling]]

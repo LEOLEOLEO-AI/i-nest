@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkNeuromorphicComms]]
 [[InNetworkNeuromorphic]]
 [[In_Network_Neuromorphic]]
+[[In_Network_Neuromorphic_Learning]]
 [[Interconnect_Routing]]
 [[Memristive_Interconnect]]
 [[Memristor]]

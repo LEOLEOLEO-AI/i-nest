@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Hope_Architecture]]
 [[Intelligence_Emergence]]
+[[Memristive_STDP]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[MetaFAIR_ArchitectureDiscovery]]

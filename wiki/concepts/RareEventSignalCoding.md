@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[KinematicWavePropagation]]
 [[LossSpikePhenomenon]]
 [[MeasurementInducedPhaseTransition]]
+[[MembranePotentialModulation]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicHardwareCoDesign]]
 [[NeuromorphicHardware]]

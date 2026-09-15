@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Local_Approximation_Dynamics]]
 [[Network_Topology_Design]]
+[[PhotonicNeuralAccelerator]]
 [[SNN]]
 [[SNN_NeuroprostheticPipeline]]
 [[Self_Organized_Criticality]]

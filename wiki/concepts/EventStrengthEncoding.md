@@ -38,9 +38,9 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicReplayBuffer]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
-[[Neuromorphic_Interconnect]]
 [[Neuromorphic_Selective_State_Space]]
 [[NoiseModulated_SynapticPlasticity]]
+[[SelfOrthogonalizingAttractor]]
 [[Spike_Event_Driven_Attention]]
 [[Spiking_Neural_Network]]
 [[SynapticConsolidation]]
@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[TemporalSparsityExploitation]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
+[[neuromorphic interconnect]]
 [[类脑芯片]]
 
 ## Sources

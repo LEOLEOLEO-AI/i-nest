@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Defense_Industrial_Base_Reshaping]]
 [[Free_Energy_Topology_Mapping]]
 [[Heterogeneous_Integration]]
+[[Independent_EdgeAI_Player_Endgame]]
 [[Interconnect_Routing]]
 [[Memristor]]
 [[Memristor_Synapse]]

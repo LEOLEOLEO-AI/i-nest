@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Hardware_Software_CoDesign]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[LossSpikePhenomenon]]
 [[Material_Implication]]
 [[Memristive_Crossbar]]
 [[Memristive_Crossbar_Array]]

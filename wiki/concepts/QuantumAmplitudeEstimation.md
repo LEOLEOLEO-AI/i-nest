@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[3D_Torus_6_Degree]]
 [[3d]]
 [[AI_PPT_Workflow]]
+[[ANN_SNN_FederatedAlignment]]
 [[ANN_to_SNN_Conversion_Error_Amplification]]
 [[ActivityAvalanche]]
 [[ActivityPropagationCascade]]

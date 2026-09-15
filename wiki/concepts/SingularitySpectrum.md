@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AcceleratedMaterialScreening]]
 [[ActiveInference]]
 [[AdaptiveDensityControl]]
+[[AdaptiveFlexibilityThreshold]]
 [[AlternativeBridgingModels]]
 [[AnisotropicGaussianPrimitives]]
 [[AnomalousSpinTransport]]

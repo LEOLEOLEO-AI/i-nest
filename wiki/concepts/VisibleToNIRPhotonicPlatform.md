@@ -55,9 +55,11 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Topology]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
+[[PhononicCrystalMicrowaveCoupling]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Packaging]]
+[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

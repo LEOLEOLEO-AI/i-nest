@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[OODA_Loop_Breaking]]
 [[PhotonicSynapticPlasticity]]
 [[Receptron_Unit]]
+[[ReconfigurableSNN_Accelerator]]
 [[ReconfigurableSpikingRouting]]
 [[Reconfigurable_Interconnect]]
 [[RecursiveSelfReferentialArchitecture]]

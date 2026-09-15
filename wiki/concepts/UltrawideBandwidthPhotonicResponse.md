@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDriven_Interconnect]]
 [[FullSpectrum_Programmability]]
 [[Heterogeneous_Integration]]
+[[InNetworkRadarProcessing]]
 [[InSituNeuralProcessing]]
 [[Memory_Wall]]
 [[Memristor]]

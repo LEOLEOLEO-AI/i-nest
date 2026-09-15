@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[CorticalWaveRouting]]
+[[CrossbarArrayVLSI]]
 [[FirstPrinciples_Derivation]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]

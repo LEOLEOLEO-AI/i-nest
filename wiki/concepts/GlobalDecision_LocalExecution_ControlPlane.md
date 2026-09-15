@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC]]
 [[NoC_Chiplet_iNEST_Wafer]]
 [[NoC_SDI]]
+[[OnChipOpticalTweezers]]
 [[P_Paradigm]]
 [[SDI_Bond]]
 [[SDI_TopologyWaferIntegration]]
@@ -60,6 +61,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Topology]]
 [[Wafer_Scale_Topology_Control]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

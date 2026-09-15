@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[CoDesigned_SNN]]
 [[CombinedImportanceScoring]]
 [[Complexity_Emergence]]
+[[Complexity_Emergence_Engineering]]
 [[CrashHotspotForecasting]]
 [[Criticality]]
 [[CurrentInjectionSNN]]

@@ -26,6 +26,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 ## Related Work
 
 [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
+[[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
 [[11_SDI节点接口规范与化合键定义_dup]]
 [[AI_Faculty_Forum_2026]]
 [[ANN动力学]]
@@ -61,6 +62,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Nonlinear_Gain]]
 [[Photonic_Chiplet_Interconnect]]
 [[SDI_Bond]]
+[[SDI节点接口规范与化合键定义]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[STDP_Plasticity]]
@@ -78,6 +80,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Wafer_Scale_Interconnect_Memristor]]
 [[Wafer_Scale_Neuromorphic]]
 [[Wafer_Scale_Neuromorphic_Integration]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[三原理协同_FEP_STDP_最小作用量]]
 [[神经网络]]

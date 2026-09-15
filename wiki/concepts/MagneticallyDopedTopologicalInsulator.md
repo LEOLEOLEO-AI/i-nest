@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Decoupling]]
 [[Complex_System_Theory]]
 [[Computation_Access_Routing]]
+[[Deep_Thermalisation]]
 [[Electronic_Crystal_Dynamics]]
 [[Emergent_Topology_Adaptation]]
 [[FatalityDrivenRewiring]]
@@ -55,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologyAwarePhotonicInterconnect]]
 [[TopologyEmbeddedSelfModel]]
+[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

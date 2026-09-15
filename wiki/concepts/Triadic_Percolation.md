@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AnomalousSpinTransport]]
 [[BackflowTransformation]]
 [[BigBrainCellularAxis]]
+[[BurstTemporalPlasticity]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[SNN]]

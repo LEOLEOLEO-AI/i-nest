@@ -1,11 +1,11 @@
 ---
-title: iNEST+TCC Research Brief - 2026-09-08
-date: 2026-09-08
+title: iNEST+TCC Research Brief - 2026-09-14
+date: 2026-09-14
 type: research-brief
 target: genspark
 ---
 
-# iNEST + TCC Research Brief - 2026-09-08
+# iNEST + TCC Research Brief - 2026-09-14
 
 > For Genspark deep analysis. Contains actionable research context.
 
@@ -33,23 +33,23 @@ target: genspark
 
 ## 4. Inbox Highlights
 
-- [2026-09-08] **2026-09-08_arXiv_Large Language Models with At Most One Spike per Neuron** (_pipeline_insights)
-- [2026-09-08] **2026-09-08_arXiv_Quantum-State Texture Dynamics Theory and Experiment** (_pipeline_insights)
-- [2026-09-08] **通用GPU时代是否终结：AI定制芯片行业分析** (01_GetNotes)
-- [2026-09-08] **宇宙的三种数学语言：π、e与黄金分割phi** (01_GetNotes)
-- [2026-09-08] **博通3.5D异构向内扩展架构深度解析：突破数据中心算力瓶颈** (01_GetNotes)
-- [2026-09-08] **Cerebras CTO访谈深度解读：晶圆级芯片与超快推理的未来** (01_GetNotes)
-- [2026-09-06] **2026-09-06_arXiv_A Reconfigurable Hybrid Convolutional-Fully Connected Neurom** (_pipeline_insights)
-- [2026-09-06] **2026-09-06_arXiv_High-Throughput Computational Discovery of Inverted Resistiv** (_pipeline_insights)
+- [2026-09-13] **第二份PPT：井芯微企业版（融资路演·修订稿v2）** (01_GetNotes)
+- [2026-09-13] **第二份PPT：井芯微企业版（融资路演·佐证增强版v3）** (01_GetNotes)
+- [2026-09-13] **第二份PPT提纲：井芯微电子（24页融资路演版）** (01_GetNotes)
+- [2026-09-13] **海马体时空计算深度解读：序列优先，还是时空先验？** (01_GetNotes)
+- [2026-09-13] **写作论文skill** (01_GetNotes)
+- [2026-09-13] **PhyDNet 深度解析：把物理规律和神经网络拆开用的视频预测模型** (01_GetNotes)
+- [2026-09-13] **Groq TSP 张量流处理器深度解析：把确定性写进硬件的深度学习加速架构** (01_GetNotes)
+- [2026-09-12] **SNN上FPGA：老外已经在干了，你还在用CNN卷算力？** (02_网页剪藏)
 
 ## 5. Knowledge Graph Hotspots
 
-Total notes: 12829
-Graph nodes: 12808 | edges: 253549
+Total notes: 12953
+Graph nodes: 12924 | edges: 258763
 
 Top connected topics:
-- **backlinks** (degree=7367)
-- **index** (degree=5984)
+- **index** (degree=6006)
+- **backlinks** (degree=5982)
 - **00_iNEST_全景知识图谱** (degree=1182)
 - **神经科学、AGI与神经形态计算的融合：统一研究范式与挑战** (degree=395)
 - **TCC_iNEST_成果全景** (degree=291)
@@ -62,4 +62,4 @@ Top connected topics:
 (Run innovation_engine.py to generate)
 
 ---
-*Research brief auto-generated 2026-09-08 06:50*
+*Research brief auto-generated 2026-09-14 08:24*

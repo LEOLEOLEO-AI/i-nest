@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Alpha_Coefficient_Phase_Transition_Amplification]]
 [[ArbitraryWavefunctionConfigurability]]
 [[Architectural_Conditioning]]
+[[BCM滑动阈值]]
 [[BayesianDomainEvolution]]
 [[BoseCondensateAnalogy]]
 [[CST计量仪]]

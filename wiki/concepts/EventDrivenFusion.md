@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenSpectralProcessing]]
 [[FibonacciMonitoredCriticality]]
 [[FirstTimestepConversion]]
+[[FormalToolchain]]
 [[Intelligence_Emergence]]
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]

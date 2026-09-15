@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Assisted_Energy_Management]]
 [[ActiveMatterComputing]]
 [[Active_Inference_Agent]]
+[[AdaptiveMeasurementProtocol]]
 [[Allreduce_Latency_Probe]]
 [[AnisotropicGaussianPrimitives]]
 [[Architectural_Conditioning]]

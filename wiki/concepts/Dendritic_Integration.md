@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN动力学]]
 [[Active_Inference_Topology]]
 [[Analog_InMemory_Processing]]
+[[CST_CoordinationMechanism]]
 [[CST计量仪]]
 [[CertifiedBifurcationDetection]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]

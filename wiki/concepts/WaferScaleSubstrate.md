@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Industrial_Ecosystem]]
 [[Attention_Residuals]]
 [[BoundaryObject_Abstraction]]
+[[CST_MasterEquation]]
 [[Causal_Emergence]]
 [[Causal_Emergence_Architecture]]
 [[ChipletWaferInterconnectTopology]]
@@ -72,6 +73,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Level_Integration]]
 [[Wafer_Scale_Integration]]
 [[causal emergence]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

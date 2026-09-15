@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalEnsemble]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[KinematicWavePropagation]]
 [[LossSpikePhenomenon]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicHardware]]

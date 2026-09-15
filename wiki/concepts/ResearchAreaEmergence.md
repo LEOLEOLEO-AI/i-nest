@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[LLM_Assisted_Hardware_Design]]
+[[MachineLearningPotential]]
 [[MemristiveMEMSResonator]]
 [[Network_Topology_Design]]
 [[PPT]]

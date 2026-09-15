@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[IntegratedInformationFreeEnergyBridge]]
 [[LocalInteractionDrivenReconfiguration]]
 [[LowRankPerturbation]]
+[[MixedSignalSNN_CoDesign]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]

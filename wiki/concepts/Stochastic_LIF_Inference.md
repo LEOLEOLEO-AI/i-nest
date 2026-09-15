@@ -67,6 +67,7 @@ Auto-extracted concept from raw material compilation.
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[术语对照表]]
 [[神经形态脉冲大语言模型（NSLLM）]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

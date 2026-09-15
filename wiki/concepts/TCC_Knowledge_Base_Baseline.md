@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[BackpropagationFreeLearning]]
 [[Beyond_Moore_Pathway]]
+[[CST计量仪]]
 [[Causal_Emergence]]
 [[Causal_Emergence_Architecture]]
 [[ChipletTrafficAwareScheduling]]
@@ -68,8 +69,8 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologyAware_Embedding]]
 [[WaveguideToWaveguideCoupler]]
-[[advanced packaging]]
 [[causal emergence]]
+[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

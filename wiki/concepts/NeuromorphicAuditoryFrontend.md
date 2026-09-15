@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspiredInterception]]
 [[BulletTrainScheduling]]
 [[CirculateFiringNeuron]]
+[[ContinualLearningOnNeuromorphic]]
 [[Continuous_Control_Spiking_Stability]]
 [[Criticality]]
 [[CrossEntityPreemptiveWarning]]

@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossLingualIdiomGraph]]
 [[DARPA_Technology_Incubation]]
 [[DelayRobustEmergence]]
+[[DelayTolerantNetworkUAV]]
 [[GenericObjectTracking]]
 [[Independent_EdgeAI_Player_Endgame]]
 [[Intelligence_Emergence]]

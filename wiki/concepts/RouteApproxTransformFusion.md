@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AdiabaticModeEvolution]]
 [[AdsorptionBiosorptionHybrid]]
 [[AmoebaInspiredLocomotion]]
+[[BioInspired_Interception_Control]]
 [[BioPlausiblePredictiveCoding]]
 [[CriticalityDrivenStateTransition]]
 [[Criticality]]

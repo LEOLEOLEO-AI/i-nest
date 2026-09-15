@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[BehavioralFeedbackLoop]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BoseCondensateAnalogy]]
+[[CertifiedBifurcationDetection]]
 [[CircadianGateModulation]]
 [[Complex_System_Theory]]
 [[Contested_Prior_Resolution]]

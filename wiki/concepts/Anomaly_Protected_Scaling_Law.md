@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[ArchitecturalCondition]]
 [[AvalancheBranchingRatio]]
 [[BayesianConnectivityEstimation]]
+[[BioInspired_Interception_Control]]
 [[BranchingRatio]]
 [[CriticalityDrivenStateTransition]]
 [[Criticality]]

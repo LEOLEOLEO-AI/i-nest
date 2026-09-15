@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Bio_plausible_Neuromorphic_Disturbance_Observer]]
 [[ClocklessReconfigurableChip]]
 [[CompetitiveProgramDynamics]]
+[[Continuous_Control_Spike_Timing_Sensitivity]]
 [[Controlled_Release_Kinetics]]
 [[CorticalWaveRouting]]
 [[Dynamic_Expert_Fusion]]

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Faculty_Forum_2026]]
+[[BiasEvaluationMetrics]]
 [[Brain_Connectome]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -35,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[KeyMaterialStrategy]]
 [[Scale_Concept_Disambiguation]]
 [[TCC]]
+[[Wafer_Interconnect]]
 [[Wafer_Scale_Integration]]
 
 ## Sources

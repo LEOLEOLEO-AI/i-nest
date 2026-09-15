@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Epithelial_Barrier_Integrity]]
 [[Fading_Memory_Property]]
 [[FunctionalInterfaceBlock]]
+[[Generalization_Bound_Spectra]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Loihi2_OnChip_Learning]]

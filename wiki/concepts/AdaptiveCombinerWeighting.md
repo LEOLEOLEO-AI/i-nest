@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[ArchitecturalCondition]]
 [[Architectural_Conditioning]]
 [[BayesianConnectivityEstimation]]
+[[BioInspired_Interception_Control]]
 [[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[CrossbarFabricTopology]]

@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalInertiaEstimation]]
 [[Critical_Region_Extension]]
 [[DTGA]]
+[[EntanglementAwareRouting]]
 [[FPGA_Reconfigurability]]
 [[FatalityDrivenRewiring]]
 [[Free_Energy_Topology_Mapping]]
@@ -57,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologyAwarePhotonicInterconnect]]
 [[TopologyGradientSignal]]
 [[VectorFlowField]]
+[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[BioPlausiblePredictiveCoding]]
 [[BurstGatedRouting]]
 [[CellEmergence]]
+[[ContinuousTimeSNN]]
 [[CriticalityDrivenStateTransition]]
 [[CriticalityOffCriticalityTransition]]
 [[Criticality]]

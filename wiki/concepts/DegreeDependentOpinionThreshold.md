@@ -69,6 +69,7 @@ Auto-extracted concept from raw material compilation.
 [[ViewDependentAppearance]]
 [[WormBrain_FlyBody_Controller]]
 [[fMRI_SpikeEncoding]]
+[[iMESO_PhysicalCarrier]]
 [[iNEST]]
 
 ## Sources

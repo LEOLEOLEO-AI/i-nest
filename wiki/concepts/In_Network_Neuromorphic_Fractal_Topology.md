@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Defense_Industrial_Base_Reshaping]]
 [[DynamicServiceComposition]]
 [[In_Network_Neuromorphic]]
+[[Independent_EdgeAI_Player_Endgame]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]

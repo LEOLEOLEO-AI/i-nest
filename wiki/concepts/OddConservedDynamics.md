@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Service_Reconfiguration]]
 [[AdiabaticModeEvolution]]
 [[AmoebaInspiredLocomotion]]
+[[BioInspired_Interception_Control]]
 [[CircuitTopologyEncoding]]
 [[CriticalityDrivenStateTransition]]
 [[Criticality]]

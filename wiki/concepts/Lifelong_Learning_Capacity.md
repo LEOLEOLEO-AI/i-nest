@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Analysis_Framework]]
 [[DerivativeLineage]]
 [[Differential_Encoding]]
+[[DoobBarrierConditioning]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveTimeStepTraining]]
 [[BigBrainCellularAxis]]
 [[BioInspiredLearningRule]]
+[[Bio_plausible_Neuromorphic_Disturbance_Observer]]
 [[BrainBodyResonance]]
 [[ClosedLoopNeuromorphicControl]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]

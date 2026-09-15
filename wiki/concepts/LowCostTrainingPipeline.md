@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkSignalRecovery]]
 [[In_Package_Neuromorphic_Integration]]
 [[Memristive_Interconnect]]
+[[Memristive_Wafer_Interconnect]]
 [[Memristor]]
 [[Memristor_Reservoir_Branch_Prediction]]
 [[Memristor_Synapse]]

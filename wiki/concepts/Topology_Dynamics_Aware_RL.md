@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[EpidemicThreshold]]
 [[FPGA_Neuromorphic_Architectures]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
+[[HodgkinHuxleyDynamics]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[MatrixShapePhaseTransition]]

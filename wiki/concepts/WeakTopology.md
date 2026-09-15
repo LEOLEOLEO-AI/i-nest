@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[MeshReduce_U]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
+[[Network_on_Chip_Topology]]
 [[NoC]]
 [[NoC_Chiplet_iNEST_Wafer]]
 [[NoC_Interconnect]]
@@ -61,6 +62,9 @@ Auto-extracted concept from raw material compilation.
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
+[[chiplet interconnect]]
+[[iNEST]]
+[[iNEST_Wafer]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

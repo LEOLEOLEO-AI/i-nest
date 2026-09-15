@@ -29,9 +29,11 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Network_Architecture_Invariant]]
 [[DynamicProgrammingRecycling]]
 [[DynamicTopology]]
+[[Dynamic_Communication_Reconfiguration]]
 [[Memristor]]
 [[Memristor_Crossbar]]
 [[Memristor_Synapse]]
+[[Network_Topology_Design]]
 [[TCC]]
 [[iNEST]]
 

@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[HierarchicalInferenceTopology]]
 [[Hierarchical_Bayesian_Inference]]
 [[Intelligence_Emergence]]
+[[Mesoscale_Physical_Computing_Framework]]
 [[Network_Topology_Design]]
 [[iNEST]]
 

@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Reconfigurable_Neural_Topology]]
 [[SDI_Bond]]
 [[SDI_STDP]]
+[[SDI_STDP_Fusion]]
 [[SDI_STDP_Rule]]
 [[STDPDrivenConnectivity]]
 [[STDP_Plasticity]]

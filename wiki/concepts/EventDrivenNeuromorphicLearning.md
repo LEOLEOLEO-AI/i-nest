@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Driven_Architecture_Search]]
 [[ActivityAvalanche]]
 [[Activity_Energy_Tradeoff]]
+[[AdaptiveAsymmetricSurrogateGradients]]
 [[Agent_Interaction_Sequencing]]
 [[AsynchronousEventDrivenComputation]]
 [[Avoided_Criticality]]

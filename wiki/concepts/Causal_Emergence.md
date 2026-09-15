@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[ConnectomeComputationBasis]]
 [[Connectome]]
+[[Crystallized_Neural_Manifolds]]
 [[Effective_Information]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

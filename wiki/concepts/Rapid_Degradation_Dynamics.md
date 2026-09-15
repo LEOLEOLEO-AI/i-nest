@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[EntropyBoundaryMaintenance]]
 [[FibonacciMonitoredDynamics]]
 [[FractionalStatisticsPreservation]]
+[[GateModelQuantumOptimization]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]

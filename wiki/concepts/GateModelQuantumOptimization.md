@@ -60,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[NoC_SDI]]
+[[OptimalRepresentations]]
 [[SDI_Bond]]
 [[SDSoW]]
 [[SDSoW_Architecture]]

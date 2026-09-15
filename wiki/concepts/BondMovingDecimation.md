@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Network_Neuromorphic_Integration]]
 [[Intelligence_Emergence]]
 [[Koopman_Constants_Of_Motion]]
+[[Less is more，大脑“低能耗”并“高效响应”的秘诀：模块化]]
 [[Macro_System_Description]]
 [[MemristiveTopologyCoupling]]
 [[Network_CST]]

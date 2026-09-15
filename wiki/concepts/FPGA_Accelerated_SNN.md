@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[ActiveDendriteSNN]]
 [[AnisotropicGaussianPrimitives]]
+[[AutonomousAdaptation]]
 [[BackflowTransformation]]
 [[BiasEvaluationMetrics]]
 [[Bidirectional_Temporal_Enhancement]]
@@ -53,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_SNN_Interconnect]]
 [[SDI_STDP]]
 [[SDI_STDP_Rule]]
+[[SDI_iNEST]]
 [[SDI_iNEST_Interconnect]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
@@ -61,6 +63,7 @@ Auto-extracted concept from raw material compilation.
 [[ST_SNN]]
 [[SpatiotemporalComplexityIndex]]
 [[Spike_Encoding_of_fMRI]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TemporalBatchSynchronization]]

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[ConductingPolymerDendriteMemory]]
 [[DARPA_ProjectManager_Model]]
 [[DTGA]]
+[[Distributed_Spike_Communication]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]

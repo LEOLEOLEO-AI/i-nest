@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[DivergentHigherAreaRanking]]
 [[FitnessGuidedTopologySearch]]
 [[HardwareAware_DesignSpace]]
+[[MicrostateReservoirDynamics]]
 [[NISQHardwareAwareEncoding]]
 [[Network_Topology_Design]]
 [[NonlinearDynamicsInMetamaterials]]

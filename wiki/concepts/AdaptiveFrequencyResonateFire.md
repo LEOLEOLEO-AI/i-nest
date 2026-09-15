@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[ClocklessReconfigurableChip]]
 [[Contested_Priors_Mechanism]]
 [[Controlled_Release_Kinetics]]
+[[Dendritic_In_Context_Learning]]
 [[Dynamic_Expert_Fusion]]
 [[ElectronicWarfareNeuromorphic]]
 [[Emergent_Intelligence]]

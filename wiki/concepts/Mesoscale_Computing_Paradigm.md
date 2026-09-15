@@ -31,8 +31,11 @@ Auto-extracted concept from raw material compilation.
 [[ByteDance_Ada_Chip]]
 [[CST_MasterEquation]]
 [[CST计量仪]]
+[[Causal_Emergence]]
 [[Causal_Emergence_Architecture]]
+[[Chiplet_Wafer_Topology]]
 [[Complex_System_Theory]]
+[[Intelligence_Emergence]]
 [[Mesoscale_Computing]]
 [[TCC]]
 

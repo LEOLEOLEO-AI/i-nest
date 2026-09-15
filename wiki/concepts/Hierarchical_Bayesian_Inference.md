@@ -56,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Architecture]]
 [[Spatiotemporal_Synergy]]
 [[Spatiotemporal_Synergy_Complexity]]
+[[Stigmergic_RL_Coordination]]
 [[TCC]]
 [[TCC_Topology]]
 [[TopologicalAndersonChernInsulator]]

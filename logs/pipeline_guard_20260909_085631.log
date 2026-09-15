@@ -1,0 +1,89 @@
+
+============================================================
+  iNEST + TCC Research Pipeline v3.3
+  2026-09-09 08:56
+============================================================
+[08:56:32] [S2] Searching Semantic Scholar (19 queries)...
+[08:56:33]   S2: 429 rate limited; skip S2 for this run and continue with arXiv/GN
+[08:56:33] [arXiv] Searching arXiv (via proxy, 21 queries)...
+[08:56:34]   arXiv skip irrelevant: ACE: Adaptive Calibration-Free Expert Skipping for MoE-based
+[08:56:34]   arXiv skip irrelevant: Compact Bellman-Grounded Cognitive Maps for Cost-Aware Navig
+[08:56:34]   arXiv skip irrelevant: On Being Prepared: Automated Vehicle Incident Management Exe
+[08:56:45]   arXiv skip irrelevant: Proton Irradiation Characterization of an Open-Source ML Acc
+[08:56:45]   arXiv skip irrelevant: A Wavelength Borrowing Architecture for Optical Data Center 
+[08:56:45]   arXiv skip irrelevant: A Constraint-Aware Generative Framework for Synthetic Origin
+[08:56:56]   arXiv skip irrelevant: Hessian-based molecular conformation augmentation for a scal
+[08:56:59]   arXiv skip irrelevant: Low-Dimensional Phase Diagram of Higher-Order Networked Syst
+[08:56:59]   arXiv skip irrelevant: Stable and Scalable Bundle Adjustment of Holistic 3D Structu
+[08:57:09]   arXiv skip irrelevant: A double-resonator coupler for high-fidelity two-qubit gates
+[08:57:09]   arXiv skip irrelevant: Formation Matrix and Energy-based Control of Multi-Agent Sys
+[08:57:09]   arXiv skip irrelevant: Quantifying Power to Voltage and Frequency Dynamics for Osci
+[08:57:14]   arXiv: batch separator, pausing 10s...
+[08:57:24]   arXiv skip irrelevant: Quantum Optimisation for Protein-Protein Interaction Network
+[08:57:24]   arXiv skip irrelevant: Latency-Optimal Geo-Distributed Storage over Structured Netw
+[08:57:24]   arXiv skip irrelevant: Global to Local: Topology-Preserving Adaptive Graph Pooling 
+[08:57:30]   arXiv skip irrelevant: Locational Marginal Pricing for Adaptive Robust Look-Ahead D
+[08:57:30]   arXiv skip irrelevant: Tuning Collective Patterns to Alleviate Congestion in Shared
+[08:57:30]   arXiv skip irrelevant: THz-SynC: Collective Synthesis with Contextual-Bandit-Assist
+[08:57:36]   arXiv skip irrelevant: Trust-Aware Adaptive Disclosure for Inference Privacy Preser
+[08:57:36]   跳过重复: Quantum-State Texture Dynamics: Theory and Experim... [Title: Quantum-State Texture Dynamics: Theory and Experiment]
+[08:57:36]   arXiv skip irrelevant: PRICE: A Systematic Study of LLM Adaptation Choices for Bitc
+[08:57:42]   arXiv skip irrelevant: Low-Dimensional Phase Diagram of Higher-Order Networked Syst
+[08:57:42]   arXiv skip irrelevant: Lagrangian dynamics unveil polymer conformation in viscoelas
+[08:57:48]   arXiv skip irrelevant: Phase-delays shape multistability and basin sizes in Kuramot
+[08:57:53]   arXiv: batch separator, pausing 10s...
+[08:58:03]   跳过重复: Large Language Models with At Most One Spike per N... [Title: Large Language Models with At Most One Spike per Neuron]
+[08:58:03]   arXiv skip irrelevant: Efficient Multi-Timescale Event Representations for Feed-For
+[08:58:03]   跳过重复: High-Throughput Computational Discovery of Inverte... [Title: High-Throughput Computational Discovery of Inverted Resistive Switching in Two-D]
+[08:58:09]   arXiv skip irrelevant: Towards Federated, Green, and Resilient 6G Non-Terrestrial N
+[08:58:09]   arXiv skip irrelevant: Task-oriented Framework for Communication-Efficient Federate
+[08:58:09]   arXiv skip irrelevant: Dynamic Heterogeneous Graph Representation Learning: A Surve
+[08:58:15]   arXiv skip irrelevant: MIVAIS: A Study Environment for Multi-Agent Mixed-Initiative
+[08:58:15]   arXiv skip irrelevant: QUASAR: Quantum Satellite Architecture and Routing Simulator
+[08:58:21]   arXiv skip irrelevant: Learning Spatial-Spectral Refinement and Calibrating Complem
+[08:58:21]   arXiv skip irrelevant: Efficient Multi-Timescale Event Representations for Feed-For
+[08:58:21]   arXiv skip irrelevant: Coherent-structure dynamics in wall turbulence from state-sp
+[08:58:27]   arXiv skip irrelevant: Low-Dimensional Phase Diagram of Higher-Order Networked Syst
+[08:58:27]   arXiv skip irrelevant: Synchronization of directed hypergraphs with heterogeneities
+[08:58:32]   arXiv: batch separator, pausing 10s...
+[08:58:49]   arXiv skip irrelevant: Optical Reservoir Computing with Structural Nonlinearity for
+[08:58:49]   arXiv skip irrelevant: Towards Effective Physical Reservoir Computing with a Pneuma
+[08:58:55]   arXiv skip irrelevant: Genetic Algorithms for Tractable Bayesian Network Fusion via
+[08:59:01]   arXiv skip irrelevant: Renormalization group and long-range conditional mutual info
+[08:59:12]   arXiv: batch separator, pausing 10s...
+[08:59:26]   arXiv skip irrelevant: Latency-Optimal Geo-Distributed Storage over Structured Netw
+[08:59:26]   arXiv skip irrelevant: Dynamic Heterogeneous Graph Representation Learning: A Surve
+[08:59:26]   arXiv skip irrelevant: IPGeoAI: Transformer-Based Geolocation with LLM Semantic Fus
+[08:59:33] [arXiv] 0 new papers, 0 errors across 21 queries
+[08:59:33] [GN] Google News RSS...
+[09:01:28]   GN error (TCC): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[09:02:19]   GN error (iNEST): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[09:02:41]   GN error (emergence): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[09:03:03]   GN error (complex-networks): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[09:03:04] [GN] 0 new articles
+
+  Total: 0 new items to inbox
+[09:03:04] [Process] LLM classify (free tier, limit=20)...
+[09:03:32] [Process] Classified: 0
+[09:03:32] [Genspark] Generating research brief...
+[09:03:35] [Genspark] Research brief written: genspark_research_brief.md
+[09:03:35] [Graph] Scanning wiki links...
+[09:08:06] [Graph] 12824 files, 263522 links
+[09:16:38] [Graph] Exported: 12824 nodes, 260054 edges
+[09:16:38] [Graph] 0 missing backlinks
+[09:16:39] [DailyGen] Daily_Action + Focus + Insights generated
+[09:16:39] [Review] Research task proposals refreshed
+
+============================================================
+  Pipeline v3.3 Complete
+  Sources: 0(S2)+0(arXiv)+0(GN) | Written: 0 new papers
+  Processed: 0 | Nodes: 12824 edges: 260054 | Missing links: 0 | Genspark: OK
+  Elapsed: 1207s
+============================================================
+[09:16:40] [State] research_state.json updated
+[09:16:41] [Evolution] Evidence + hypotheses updated
+[09:17:41] [Wiki] Warning: Command '['C:\\Users\\LEO\\AppData\\Local\\Programs\\Python\\Python310\\python.exe', 'D:\\Obsidian\\vault\\90_System\\scripts\\wiki_compiler.py']' timed out after 60 seconds
+[09:17:42] [Insight] Cross-domain bridges updated
+[09:19:03] [Tasks] Research recommendations updated
+[09:19:04] [Dashboard] Live dashboard published
+[09:19:05] [Homepage] Home.md auto-refreshed

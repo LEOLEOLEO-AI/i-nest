@@ -39,7 +39,11 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[SDSoW]]
+[[SDSoW_Architecture]]
+[[SDSoW_Industry_Alliance]]
+[[Wafer_Interconnect]]
 [[Wafer_Scale_Integration]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

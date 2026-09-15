@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveTimeStepTraining]]
 [[BigBrainCellularAxis]]
 [[BioInspiredLearningRule]]
+[[ChannelEventSparsity]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[CorticalWaveRouting]]
 [[DataDrivenCellularAxis]]

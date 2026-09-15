@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[FatigueSTDP]]
 [[Fatigue_SpikePattern]]
 [[Layered_Attractive_Hubbard_Model]]
+[[LeftRightAsymmetry]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Nanoencapsulation_Stability_Bioavailability]]

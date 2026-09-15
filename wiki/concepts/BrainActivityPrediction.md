@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossTaskNeuralRepresentation]]
 [[DataDrivenCellularAxis]]
 [[DevelopmentalNeuromorphicAdaptation]]
+[[EmergentOrder]]
 [[ErrorSuppressedPipeline]]
 [[Gut_Brain_Immune_Network]]
 [[Hardware_Accelerated_SNN]]

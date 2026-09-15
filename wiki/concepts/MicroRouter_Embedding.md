@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[PacketRoutingOptimization]]
 [[PhysicalWaferTriplet]]
 [[RoutabilityDrivenFloorplanning]]
+[[Runtime_Level_Scheduling]]
 [[SDI_Bond]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
@@ -60,9 +61,11 @@ Auto-extracted concept from raw material compilation.
 [[System_Level_Utility_Control]]
 [[TCC]]
 [[ThreeLayerArchitecture]]
+[[Wafer_Interconnect]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

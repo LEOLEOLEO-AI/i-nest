@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[BehavioralFeedbackLoop]]
 [[CST_Spatiotemporal_Complexity]]
 [[CST_SynergisticCoordination]]
+[[CST计量仪]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

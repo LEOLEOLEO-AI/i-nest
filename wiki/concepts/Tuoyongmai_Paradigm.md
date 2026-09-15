@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration]]
 [[Chiplet_NoC_Interconnect]]
 [[Chiplet_Stacking]]
+[[Chiplet_Wafer_Topology]]
 [[Complex_System_Theory]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
@@ -47,7 +48,6 @@ Auto-extracted concept from raw material compilation.
 [[NoC]]
 [[NoC_Interconnect]]
 [[TCC]]
-[[advanced packaging]]
 [[causal emergence]]
 
 ## Sources

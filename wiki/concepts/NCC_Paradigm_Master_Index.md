@@ -28,12 +28,12 @@ Auto-extracted concept from raw material compilation.
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Baseline_Draft_Status]]
 [[BiologicalParadigmValidation]]
+[[Bipartite_Interconnect]]
 [[NCC_Paradigm]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
 [[TCC]]
-[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

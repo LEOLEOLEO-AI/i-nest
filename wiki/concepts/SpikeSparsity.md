@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[PhysicalDesign_ReliabilityTradeoff]]
 [[RobustnessToNoiseInSNN]]
 [[SNN]]
+[[SNN_STDP_Learning]]
 [[SpikeBasedGradientDescent]]
 [[SpikeEncoding]]
 [[SpikeRoutingFabric]]

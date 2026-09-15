@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveDensityControl]]
 [[ArbitraryWavefunctionConfigurability]]
 [[CertifiedBifurcationDetection]]
+[[ChiralTopologicalMatter]]
 [[Complex_System_Theory]]
 [[Decoupled_Prior_Integration]]
 [[DendriticReservoirState]]

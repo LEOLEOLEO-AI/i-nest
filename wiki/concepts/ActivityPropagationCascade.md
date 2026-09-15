@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[Cascading_Failure_Mitigation]]
 [[CriticalNormBoundary]]
+[[CriticalityOffCriticalityTransition]]
 [[Criticality]]
 [[Criticality_Based_Feature_Extraction]]
 [[CrossLayer_SignalRouting]]

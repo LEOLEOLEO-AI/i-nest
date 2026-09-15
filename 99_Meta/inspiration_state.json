@@ -322,6 +322,35 @@
       "date": "2026-09-08T06:55:36.318233",
       "card": "20260908_computational_microsystems_book_chapter_outline.md",
       "method": "llm"
+    },
+    "30_TCC\\32_Technology\\google_tpuv7_ironwood_inference_cost_analysis.md": {
+      "date": "2026-09-15T08:18:23.739288",
+      "card": "20260915_google_tpuv7_ironwood_inference_cost_analysis.md",
+      "method": "llm"
+    },
+    "30_TCC\\32_Technology\\google_tpu_ici_3d_torus_collective_communication_tcc_analysis.md": {
+      "date": "2026-09-15T08:18:28.819125",
+      "card": "20260915_google_tpu_ici_3d_torus_collective_communication_t.md",
+      "method": "llm"
+    },
+    "30_TCC\\31_Theory\\Chip_System_Topology_Search_Algorithm_Framework.md": {
+      "date": "2026-09-15T08:18:34.133397",
+      "card": "20260915_Chip_System_Topology_Search_Algorithm_Framework.md",
+      "method": "llm"
+    },
+    "30_TCC\\34_Projects\\jingxinwei_financing_ppt_v2_interconnect_chiplet.md": {
+      "date": "2026-09-15T08:18:39.670883",
+      "card": "20260915_jingxinwei_financing_ppt_v2_interconnect_chiplet.md",
+      "method": "llm"
+    },
+    "30_TCC\\34_Projects\\jingxinwei_financing_roadshow_interconnect_v3.md": {
+      "date": "2026-09-15T08:18:46.407341",
+      "error": true
+    },
+    "30_TCC\\34_Projects\\Jingxin_Micro_Edge_AI_Interconnect_Financing_PPT_Outline.md": {
+      "date": "2026-09-15T08:18:50.728882",
+      "card": "20260915_Jingxin_Micro_Edge_AI_Interconnect_Financing_PPT_O.md",
+      "method": "llm"
     }
   }
 }

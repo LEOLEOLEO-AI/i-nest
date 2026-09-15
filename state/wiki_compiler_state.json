@@ -1,5 +1,5 @@
 {
-  "last_compile": "2026-09-07",
+  "last_compile": "2026-09-10",
   "processed_files": {
     "imports/00_教材编写规划_两本配套.md": 1785465203.5583253,
     "imports/2026-06-23-comprehensive_diagnosis.md": 1785465203.560326,
@@ -1477,7 +1477,30 @@
     "20_Processing/21_Pending/信创海河实验室TCC晶上先导专项项目指南全套学术配图汇总.md": 1788132208.8764985,
     "20_Processing/21_Pending/偏微分方程与神经网络相关笔记.md": 1788132200.8675883,
     "20_Processing/21_Pending/元拓扑+化合键=六类通信原语.md": 1788132208.046883,
-    "20_Processing/21_Pending/元拓扑✖️SDI化合键的六种最优通信拓扑数学证明.md": 1788132208.0578966
+    "20_Processing/21_Pending/元拓扑✖️SDI化合键的六种最优通信拓扑数学证明.md": 1788132208.0578966,
+    "00_Inbox/01_GetNotes/Celero 2.75亿美元C轮融资 & OCP无交换机AI网络架构深度解读.md": 1788958815.839118,
+    "00_Inbox/01_GetNotes/Celero 2.75亿美元C轮融资 + OCP无交换机AI网络架构深度解析.md": 1788958815.840715,
+    "00_Inbox/01_GetNotes/Cerebras CS-4 深度解析：三块晶圆组成的机架级 AI 计算机.md": 1788958815.8561497,
+    "00_Inbox/01_GetNotes/FBLayout 深度解析：用 Tile 级内存布局让手机 GPU 跑 LLM 微调快 5.7 倍.md": 1788958815.8653047,
+    "00_Inbox/01_GetNotes/LEAP 架构深度拆解：存算一体做大模型推理，瓶颈到底在哪？.md": 1788958815.8884609,
+    "00_Inbox/01_GetNotes/Nature Electronics 2026：五层范德华异质结梯度势垒隧道结选通器，非线性突破10⁷.md": 1788958815.89242,
+    "00_Inbox/01_GetNotes/NVIDIA Rubin GPU 互连架构深度拆解：从显存到整机柜的四层数据高速路.md": 1788958815.906145,
+    "00_Inbox/01_GetNotes/OpenAI Jalapeño 推理芯片深度拆解：从Nvidia缺陷到第一性原理设计.md": 1788958815.9155765,
+    "00_Inbox/01_GetNotes/SDI 节点产品定义与产业落地路径.md": 1788958815.9236915,
+    "00_Inbox/01_GetNotes/果蝇全脑连接组登《Cell》：16万神经元的_布线图_能给AI什么启发？.md": 1788958815.9236915,
+    "00_Inbox/01_GetNotes/液态拓扑的数学框架.md": 1788958815.9404962,
+    "00_Inbox/01_GetNotes/英伟达 NVSwitch 与 BlueField 集合通信加速研究.md": 1788958815.948144,
+    "00_Inbox/01_GetNotes/谷歌 TPU 内部路由交换与集合通信研究.md": 1788958815.9596136,
+    "00_Inbox/01_GetNotes/谷歌TPUv7 Ironwood深度解析：推理性价比反超英伟达Blackwell的真相.md": 1788958815.9596136,
+    "00_Inbox/01_GetNotes/通用GPU时代是否终结：AI定制芯片行业分析.md": 1788821190.8877494,
+    "00_Inbox/_pipeline_insights/2026-09-08_arXiv_Large Language Models with At Most One Spike per Neuron.md": 1788821264.0415392,
+    "00_Inbox/_pipeline_insights/2026-09-08_arXiv_Quantum-State Texture Dynamics Theory and Experiment.md": 1788821235.7425823,
+    "00_Inbox/_pipeline_insights/2026-09-09_arXiv_A Gradient-based yet Spike-Timing-Dependent Solution to the .md": 1788926503.5773864,
+    "00_Inbox/_pipeline_insights/2026-09-09_arXiv_Autonomous Chaotic Time Series Prediction using Physical Neu.md": 1788926568.8745766,
+    "00_Inbox/_pipeline_insights/2026-09-09_arXiv_Determinants of hyperparameter robustness in connectome rese.md": 1788926568.8620234,
+    "00_Inbox/_pipeline_insights/2026-09-09_arXiv_FlexSpIM An Event-Based Digital Compute-In-Memory Accelerato.md": 1788926503.566382,
+    "00_Inbox/_pipeline_insights/2026-09-09_arXiv_Limit Cycles in a Photonic Dimer with Tuneable Non-Hermitian.md": 1788926482.2147539,
+    "00_Inbox/_pipeline_insights/2026-09-09_arXiv_Phase oscillator networks with multiple and state-dependent .md": 1788926616.8024619
   },
   "concept_graph": {}
 }

@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Core_Spacetime_Tensor]]
 [[Cryogenic_Syndrome_Compression]]
 [[Deep_Thermalisation]]
+[[DestructiveInterferenceConfinement]]
 [[EntanglementAwareRouting]]
 [[Fractal_Multipartite_Entanglement]]
 [[GraphBasedSemanticRouting]]

@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Daily_Article_Increment_Tracking]]
 [[DeepPhotonicTopology]]
 [[DenseHighOrderInteractions]]
+[[GasSensorArrayFusion]]
 [[Heterogeneous_Integration]]
 [[HybridConvexOptimization]]
 [[Intelligence_Emergence]]
@@ -57,7 +58,6 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Interconnect]]
 [[P_Paradigm]]
 [[TCC]]
-[[advanced packaging]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

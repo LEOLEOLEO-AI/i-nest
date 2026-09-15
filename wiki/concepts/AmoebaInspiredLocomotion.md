@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Active_Inference_Architecture]]
 [[Activity_Dependent_Plasticity]]
 [[AdaptiveAsymmetricSurrogateGradient]]
+[[BioInspired_Interception_Control]]
 [[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[Dynamic_Expert_Fusion]]

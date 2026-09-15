@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CoPackagedOptics]]
 [[Cognitive_Relapse_Decoupling]]
 [[Complex_System_Theory]]
+[[ControlDrivenCriticalFluctuations]]
 [[CriticalLearningRegime]]
 [[Critical_Region_Extension]]
 [[Emergent_Order_Deep_Belief_Networks]]

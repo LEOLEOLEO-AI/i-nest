@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[NonHermitian_Random_Matrix_Spectra]]
 [[NonHermitian_Topological_Phase]]
 [[ObsidianV4_Integration]]
+[[OptomechanicalNonlinearity]]
 [[ReleaseFreePhononic]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]

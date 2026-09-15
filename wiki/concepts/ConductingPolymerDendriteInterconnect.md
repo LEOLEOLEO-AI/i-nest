@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[ApproximationFidelityTradeoff]]
 [[AttractorConvergenceAnalysis]]
 [[BackscatteringImmunity]]
+[[BisectionBandwidthBound]]
 [[ChannelCountScaling]]
 [[ChipletTopologyAwareness]]
 [[Chiplet]]
@@ -57,7 +58,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologyAware_Convergence]]
 [[TypeSafeHardwareGeneration]]
-[[advanced packaging]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

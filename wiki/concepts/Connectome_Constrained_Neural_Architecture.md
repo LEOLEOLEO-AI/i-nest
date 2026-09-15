@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Active_Inference_Agent]]
 [[Autonomous_Physical_Computation]]
 [[BackflowTransformation]]
+[[BayesianDomainEvolution]]
 [[Brain_Connectome]]
 [[C__elegans_Connectome]]
 [[C_elegansConnectomeAnalogy]]

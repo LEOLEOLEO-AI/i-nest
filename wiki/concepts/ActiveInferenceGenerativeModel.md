@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[11_SDI节点接口规范与化合键定义_dup]]
 [[1M1T1R_SynapticNeuron]]
 [[20W_Brain_Inspired_Planning]]
+[[AI_Faculty_Forum_2026]]
 [[ActiveInference]]
 [[ActiveSpikingPerception]]
 [[AttentionGuidedEntropy]]

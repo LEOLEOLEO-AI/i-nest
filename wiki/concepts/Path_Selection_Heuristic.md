@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDriven_Interconnect]]
 [[Heterogeneous_Integration]]
 [[HierarchicalNetworkPartitioning]]
+[[InNetworkRadarProcessing]]
 [[Inference_Workload_Profiling]]
 [[Interconnect_Routing]]
 [[Interconnect_Topology]]
@@ -61,6 +62,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
+[[chiplet interconnect]]
 [[Γst_Revision]]
 
 ## Sources

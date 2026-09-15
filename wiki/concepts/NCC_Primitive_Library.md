@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_NoC_Fabric]]
 [[CompactFieldVariable]]
 [[Decoupled_Priors]]
+[[DiagnosticReportFramework]]
 [[GeneralIntelligenceSubstrate]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]

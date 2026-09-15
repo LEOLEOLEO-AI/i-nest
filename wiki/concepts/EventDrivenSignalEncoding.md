@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Processing]]
 [[FixedOverheadFloor]]
 [[FoveationGuidedTokenSelection]]
+[[InNetworkRadarProcessing]]
 [[Interconnect_Routing]]
 [[MemoryDrivenInterconnect]]
 [[Military_AI_Revolution]]

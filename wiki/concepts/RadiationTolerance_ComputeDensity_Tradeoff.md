@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AdiabaticMultimodeBend]]
 [[AdsorptionBiosorptionHybrid]]
 [[AdvancedPackagingInterconnect]]
+[[Advanced_Packaging]]
 [[Allreduce_Latency_Diagnostic]]
 [[AndersonTransition]]
 [[CausalIntegrationTopology]]
@@ -43,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[ComputeRelocationOverhead]]
 [[CriticalSlowingDown]]
+[[Deep_Thermalisation]]
 [[External_to_OnDie_Evolution]]
 [[FlagOS_2_0]]
 [[Heterogeneous_Chiplet_Customization]]
@@ -59,7 +61,6 @@ Auto-extracted concept from raw material compilation.
 [[NichePreservationMechanism]]
 [[OnDie_Fusion]]
 [[TCC]]
-[[advanced packaging]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

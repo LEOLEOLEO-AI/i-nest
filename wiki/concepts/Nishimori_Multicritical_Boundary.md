@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[DiffusionInducedInstability]]
 [[Dimensionality_Modularity_Tradeoff]]
 [[DrivenCriticalityDynamics]]
+[[Driven_Criticality]]
 [[InNetworkComputing]]
 [[Network_Topology_Design]]
 [[Nishimori_Multicritical_Point]]

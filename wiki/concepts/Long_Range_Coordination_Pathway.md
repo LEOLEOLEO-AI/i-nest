@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[ExcitatoryInhibitoryOscillatoryNetwork]]
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
+[[Hardware_Accelerated_SNN]]
 [[HierarchicalSpikePropagation]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

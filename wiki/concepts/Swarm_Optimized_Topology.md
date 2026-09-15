@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[Dynamical_State_Space]]
 [[EmergentTaskDecomposition]]
+[[Emergent_Abilities]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[Environmental_Induced_Memory]]

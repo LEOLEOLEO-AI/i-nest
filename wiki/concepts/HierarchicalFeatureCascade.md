@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_Assisted_Energy_Optimization]]
 [[AI_Supply_Chain_Increment]]
+[[AI人工智能 卷积神经网络（CNN）_w3cschool]]
 [[ActivityAvalanche]]
 [[AdversarialMedicalRobustness]]
 [[AnalogInMemoryComputing]]

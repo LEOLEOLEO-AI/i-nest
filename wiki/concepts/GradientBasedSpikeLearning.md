@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[LossSpikePhenomenon]]
 [[MixedLabyrinthFractal]]
 [[MixedSignalSNN_CoDesign]]
+[[NeuromorphicHardwareCoDesign]]
 [[NeuromorphicRoutingOptimization]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]

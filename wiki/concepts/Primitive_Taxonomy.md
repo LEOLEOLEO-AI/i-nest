@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicVisionPipeline]]
 [[Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]
+[[OpenSource_Neuromorphic_Framework]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[TCC]]

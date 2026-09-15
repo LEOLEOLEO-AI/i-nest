@@ -58,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[SynchronousResetting]]
 [[Temporal_Computing_Paradigm]]
+[[TheoryDrivenNeuromorphicDesign]]
 [[iNEST]]
 [[神经网络]]
 

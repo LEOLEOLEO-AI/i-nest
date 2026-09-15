@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspired_Interception_Control]]
 [[BrownianCastleInterface]]
 [[BurstGatedRouting]]
+[[Chemical_Bond_Operation_Algebra]]
 [[Cognitive_Relapse_Decoupling]]
 [[ConductingPolymerDendriteMemory]]
 [[ConstraintDrivenSelfOrganization]]

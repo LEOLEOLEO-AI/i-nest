@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[ActiveMatterSubstrate]]
 [[AlexNet_Moment]]
+[[Annealing_Based_Decoder]]
 [[Complex_System_Theory]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

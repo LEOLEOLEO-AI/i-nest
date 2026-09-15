@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[BurstGatedRouting]]
 [[BurstInterleaving]]
+[[CellEmergence]]
 [[Complex_System_Theory]]
 [[DebiasingTechniques]]
 [[EventDrivenAsync]]

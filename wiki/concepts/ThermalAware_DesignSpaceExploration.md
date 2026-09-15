@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[3DHI_Stacking]]
 [[3D_Heterogeneous_Integration]]
 [[3D_IC_Stacking]]
+[[3D_Integration]]
 [[3d]]
 [[AdvancedPackagingInterconnect]]
 [[Advanced_Packaging]]
@@ -59,7 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[ThroughSiliconVia_TSV_ThermalPath]]
 [[WeedIdentification]]
-[[advanced packaging]]
+[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AcousticAnomalyDetection]]
 [[AstrocyteInspiredRepair]]
 [[Avoided_Criticality]]
+[[BackflowTransformation]]
 [[Baseline_Change_Record]]
 [[BigBrainCellularAxis]]
 [[Biologically_Plausible_Learning_Rules]]

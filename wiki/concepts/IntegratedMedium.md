@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN动力学]]
 [[AdaptiveDensityControl]]
 [[Advanced_Computing_Project]]
+[[CertifiedBifurcationDetection]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

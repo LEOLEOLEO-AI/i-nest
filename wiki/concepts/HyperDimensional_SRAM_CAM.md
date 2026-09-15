@@ -51,12 +51,12 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[Pseudofractal_Web]]
 [[QueryComplexityScaling]]
+[[SDI_Chip_Indicator_Change]]
 [[SOC]]
 [[SelfOrganization]]
 [[SiC_GaN_Power_Integration]]
 [[State_Transition_Formalism]]
 [[TopologicalDataCompression]]
-[[advanced packaging]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

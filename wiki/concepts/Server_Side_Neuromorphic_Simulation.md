@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_iNEST]]
 [[ST_SNN]]
 [[SelfOrganizedOscillatoryLearning]]
+[[SparseRandomNetworkSymmetryBreaking]]
 [[SpikeEncoding]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]

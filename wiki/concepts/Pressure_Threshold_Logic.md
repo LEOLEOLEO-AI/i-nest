@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Thermalisation]]
 [[Dynamic_Expert_Fusion]]
 [[ERI_2_0_Framework]]
+[[EdgeAI_Market_Consolidation_Driver]]
 [[EdgeIoTEnergyAwareness]]
 [[Heterogeneous_Integration]]
 [[Heterogeneous_Synaptic_Motifs]]

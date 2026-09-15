@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[InterconnectAwareGradientAggregation]]
 [[MachineLearningPotential]]
 [[MetricComputationAuthenticity]]
+[[Milinkovic B (2024)：复杂神经系统涌现动力学结构]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

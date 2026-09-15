@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN动力学]]
 [[AdaptiveDensityControl]]
 [[Complex_System_Theory]]
+[[DendriticReservoirState]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AsynchronousEventDrivenComputation]]
 [[Avoided_Criticality]]
 [[Biologically_Plausible_Learning_Rules]]
+[[Branch_Prediction_in_Pipelined_Processors]]
 [[BurstCoding]]
 [[Criticality]]
 [[DynamicalCriticality]]

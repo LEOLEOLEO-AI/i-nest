@@ -61,6 +61,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Topology]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
+[[PhononicCrystalMicrowaveCoupling]]
 [[Photonic_Chiplet_Interconnect]]
 [[RenormalizationGroup_ScalingLaws]]
 [[RenormalizationGroup_Scaling]]
@@ -72,7 +73,7 @@ Auto-extracted concept from raw material compilation.
 [[VisibleToNIRPhotonicPlatform]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Packaging]]
-[[advanced packaging]]
+[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

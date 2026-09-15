@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[RadiationHardened_ProcessNodeScaling]]
 [[ReconfigurablePageArchitecture]]
 [[SDI_Bond]]
+[[SDI_Control_Plane_Offload]]
 [[SDI_STDP]]
 [[STDP_Plasticity]]
 [[SymmetricQuantumCircuit]]

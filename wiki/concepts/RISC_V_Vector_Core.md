@@ -36,13 +36,13 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_NoC_Fabric]]
 [[Chiplet_NoC_Interconnect]]
+[[Chiplet_Packaging]]
 [[Heterogeneous_Integration]]
 [[Network_on_Chip]]
 [[NoC]]
 [[NoC_Interconnect]]
 [[SDI_Bond]]
 [[TCC]]
-[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

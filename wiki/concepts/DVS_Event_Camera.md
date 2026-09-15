@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Hardware_Paradigm]]
 [[Neuromorphic_Planning_Architecture]]
+[[ST_SNN]]
 [[iNEST]]
 
 ## Sources

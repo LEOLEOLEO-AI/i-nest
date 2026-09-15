@@ -27,6 +27,7 @@ NoC, SNN, TCC, iNEST, neuromorphic, spiking
 [[Neuromorphic_Computing]]
 [[NoC]]
 [[SNN]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]

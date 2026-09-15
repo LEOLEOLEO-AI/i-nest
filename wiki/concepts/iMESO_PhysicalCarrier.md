@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet]]
 [[Chiplet_Based_Neuromorphic_Integration]]
 [[Chiplet_Heterogeneous_Integration]]
+[[CoDesigned_SNN]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Course_Based_FPGA_Projects]]
 [[DataDrivenCellularAxis]]

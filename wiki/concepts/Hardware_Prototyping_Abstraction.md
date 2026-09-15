@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[EarlyVisual_Alignment]]
 [[EpoxyMoldingCompoundEncapsulation]]
 [[ExplosiveCooperationTransition]]
+[[FerroelectricMemoryCell]]
 [[Intelligence_Emergence]]
 [[MicroTransferPrinting]]
 [[Network_Topology_Design]]

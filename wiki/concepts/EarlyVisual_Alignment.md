@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[DarkSiliconAwarePowerGating]]
 [[EpoxyMoldingCompoundEncapsulation]]
 [[ExplosiveCooperationTransition]]
+[[FerroelectricMemoryCell]]
 [[Hardware_Prototyping_Abstraction]]
 [[Intelligence_Emergence]]
 [[MicroTransferPrinting]]

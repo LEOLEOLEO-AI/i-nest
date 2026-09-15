@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[AnalogDomainCompression]]
 [[Architectural_Conditioning]]
+[[AstrocyteInspiredRepair]]
 [[AutonomousAdaptation]]
 [[BigBrainCellularAxis]]
 [[Biologically_Plausible_Learning_Rules]]

@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[FixedOverheadPenalty]]
 [[HippocampalNeocorticalIntelligence]]
 [[Intelligence_Emergence]]
+[[IonotropicPhotoresponse]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]

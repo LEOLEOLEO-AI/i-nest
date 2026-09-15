@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[GNN图神经网络，非结构化数据分析利器！]]
 [[InfluencePropagationLoop]]
 [[Intelligence_Emergence]]
+[[InterChipletPHYModeling]]
 [[Interconnect_Routing]]
 [[Layer_Specific_Spreading_Rate]]
 [[LocalGraphTopologyProtection]]

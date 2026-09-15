@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[GraphDelayPropagation]]
 [[HubbardModelVariationalAnsatz]]
 [[Intelligence_Emergence]]
+[[Material_Circularity]]
 [[Network_Topology_Design]]
 [[OpenLearningEcosystem]]
 [[P_Paradigm]]

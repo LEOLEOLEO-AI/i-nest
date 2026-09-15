@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[CLINKAsCarrierPrimitive]]
 [[CavityMethodAnalysis]]
 [[Complex_System_Theory]]
+[[Critical_Region_Extension]]
 [[DTGA]]
 [[Decoupling_Mechanism]]
 [[EntanglementAwareRouting]]

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[CriticalityOnSmallWorlds]]
 [[Criticality]]
+[[Criticality_Induced_Computation]]
 [[Criticality_Induced_Plasticity]]
 [[DisorderInducedCriticality]]
 [[Dynamic_Expert_Fusion]]

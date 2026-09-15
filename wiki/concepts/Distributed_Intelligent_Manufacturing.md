@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[BackpropFree_Learning]]
 [[Beyond_Moore_Pathway]]
 [[Bias_Origin_Taxonomy]]
+[[BioInspiredGeneralist]]
 [[CoPackagedOptics]]
 [[Complex_System_Theory]]
 [[Continual_Learning_Modularity]]

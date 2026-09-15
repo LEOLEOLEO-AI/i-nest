@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[BigBrainCellularAxis]]
 [[Complex_System_Theory]]
+[[CorticalWaveRouting]]
 [[DiscreteSTDP]]
 [[DistinguishableHelium4]]
 [[Emergent_Intelligence]]

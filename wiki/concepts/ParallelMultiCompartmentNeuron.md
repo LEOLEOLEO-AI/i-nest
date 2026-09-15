@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration_Route]]
 [[CompetitiveProgramDynamics]]
 [[Complex_System_Theory]]
+[[CorticalTravelingWave]]
 [[Cross_Node_Event_Propagation]]
 [[Distributed_Spike_Communication]]
 [[End_Side_Neuromorphic_Deployment]]

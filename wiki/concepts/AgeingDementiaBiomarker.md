@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[AutonomousAdaptation]]
 [[Avoided_Criticality]]
 [[BackflowTransformation]]
+[[BioPlausibleDisturbanceObserver]]
 [[ConverterDrivenStability]]
 [[CriticalityBasedClassification]]
 [[Criticality]]

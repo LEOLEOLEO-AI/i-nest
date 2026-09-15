@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NonlinearDynamicsInMetamaterials]]
 [[Nonlinear_Gain]]
+[[Rare_Event_Dynamics]]
 [[Reservoir_Computing]]
 [[Reservoir_State_Projection]]
 [[TCC]]

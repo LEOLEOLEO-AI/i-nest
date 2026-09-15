@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityDrivenLearning]]
 [[Criticality]]
 [[EnergyAwareLearning]]
+[[FPGAInference]]
 [[Self_Organized_Criticality]]
 [[TCC]]
 [[iNEST]]

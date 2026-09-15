@@ -80,9 +80,14 @@ Auto-extracted concept from raw material compilation.
 [[TemporalComplexity]]
 [[Textbook_Paradigm_Definition]]
 [[TopologyCentricEngineeringBase]]
+[[TopologyProgramming]]
 [[Topology_Centric_Computing]]
 [[Topology_Centric_Computing_Paradigm]]
 [[Topology_Interconnect]]
+[[Wafer_Interconnect]]
+[[chiplet interconnect]]
+[[iNEST]]
+[[iNEST_Wafer]]
 [[residual connection]]
 
 ## Sources

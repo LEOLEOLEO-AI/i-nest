@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[SOC]]
 [[SpikeDrivenDataAssociation]]
+[[Spiking neural network]]
 [[SpikingNeuralNetworkTopologyMapping]]
 [[SpikingNeuralNetworkTopology]]
 [[SpikingNeuralNetwork]]
@@ -50,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikingTopologyMapping]]
 [[Spiking_Neural_Network]]
 [[TCC]]
+[[TCC_SpikingIntegration]]
 [[iNEST]]
 [[neuromorphic substrate]]
 

@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[PlanarNetworkSimulation]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
+[[RunawayAvalanche]]
 [[Self_Organized_Criticality]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]

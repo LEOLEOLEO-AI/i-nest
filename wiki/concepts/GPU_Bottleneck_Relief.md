@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[NoC]]
 [[NoC_Interconnect]]
+[[Obsidian_Plugin_Architecture]]
 [[OnDie_Fusion]]
 [[P_Paradigm]]
 [[RTC_Primitive]]
@@ -77,7 +78,6 @@ Auto-extracted concept from raw material compilation.
 [[WaferScaleTopologyCentricComputing]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
-[[advanced packaging]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

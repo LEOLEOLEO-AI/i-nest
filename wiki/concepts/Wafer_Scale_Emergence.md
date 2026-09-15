@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkNeuromorphicEmergence]]
 [[InNetworkNeuromorphic]]
 [[In_Network_Neuromorphic]]
+[[In_Network_Neuromorphic_Processing]]
 [[InkjetPrintedElectrochemicalSensors]]
 [[Intelligence_Emergence]]
 [[KV_Cache_To_BoundaryObject]]

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[HybridCouplingThermosensitiveNetwork]]
 [[InterDomain_Synergy]]
 [[LatencyGradientDescent]]
+[[LocalStructuralPlasticity]]
 [[Neuromorphic_Computing]]
 [[OpenLearningEcosystem]]
 [[QuantumDistillation]]

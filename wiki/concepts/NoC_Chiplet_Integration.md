@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[CongestionAwareNoCPlacement]]
 [[Decoupled_Priors]]
 [[Deep_Network_Architecture_Invariant]]
+[[Dynamic_Communication_Reconfiguration]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[LatencyCodedInterconnect]]

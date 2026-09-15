@@ -68,6 +68,7 @@ Auto-extracted concept from raw material compilation.
 [[TemporalDynamicsModeling]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
+[[WormBrain_FlyBody_Controller]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
 

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CouplingTopologyMemoryLink]]
 [[Coupling_Topology]]
 [[Crystallized_Embedding_Reservoir]]
+[[Crystallized_Neural_Manifolds]]
 [[DiscreteScaleInvariance]]
 [[EigenvalueLocalizationTransition]]
 [[ErrorSuppressedPipeline]]

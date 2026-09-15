@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Accelerated_SNN]]
 [[Hardware_Accelerated_SNN]]
 [[Intelligence_Emergence]]
+[[Interconnect_Routing]]
 [[Memristor]]
 [[Memristor_Network]]
 [[Memristor_Synapse]]
@@ -56,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[Wafer_Scale_Integration]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[Wafer_Scale_Neuromorphic]]
 [[iNEST]]
 

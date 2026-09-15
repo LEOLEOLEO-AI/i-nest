@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Accessibility_Plasticity]]
 [[BandedConnectivityModel]]
 [[BigBrainCellularAxis]]
+[[Bipartite_Interconnect_Design]]
 [[ChipletRoutingFabric]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Change_Record]]
 [[BioInspiredInterceptionTask]]
 [[BioInspiredInterception]]
+[[BrainScaleS_AsyncEventCircuit]]
 [[BranchingRatio]]
 [[BulletTrainScheduling]]
 [[CoDesigned_SNN]]
@@ -48,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Self_Organized_Criticality]]
+[[SpikingNeuralNetwork]]
 [[Spiking_Neural_Network]]
 
 ## Sources

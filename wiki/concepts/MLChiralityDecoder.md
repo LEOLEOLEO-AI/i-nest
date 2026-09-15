@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AcademicDevelopmentCoCreation]]
 [[ActiveDendriteSNN]]
 [[Agile_Resilient_Defense_Ecosystem]]
+[[AutonomousAdaptation]]
 [[BackflowTransformation]]
 [[BigBrainCellularAxis]]
 [[BrownianCastleInterface]]

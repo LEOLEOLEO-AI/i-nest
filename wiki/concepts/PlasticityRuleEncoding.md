@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Hypersonic_Systems_Research]]
 [[Intelligence_Emergence]]
 [[LocalLearningRules]]
+[[MicrobiomeImmuneMetabolicCrosstalk]]
 [[Network_Topology_Design]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]

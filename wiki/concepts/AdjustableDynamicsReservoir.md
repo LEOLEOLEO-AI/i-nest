@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[SpectralSupportAnalysis]]
 [[Spiking_Neural_Network]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
 [[neuromorphic substrate]]
 

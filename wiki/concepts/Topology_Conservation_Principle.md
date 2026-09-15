@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[CriticalInertiaEstimation]]
 [[DTGA]]
+[[Deep_Thermalisation]]
 [[Defense_Industrial_Base_Reshaping]]
 [[ERI_2_0_Framework]]
 [[EdgeAI_Market_Consolidation_Driver]]
@@ -57,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[TCC]]
 [[ThermallyDrivenSuperparamagnetReservoir]]
+[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveDendriteSNN]]
 [[ActivityAvalanche]]
 [[AdaptiveAsymmetricSurrogateGradient]]
+[[AdaptiveAsymmetricSurrogateGradients]]
 [[Adaptive_Replication_Strategy]]
 [[Avoided_Criticality]]
 [[BurstGatedRouting]]

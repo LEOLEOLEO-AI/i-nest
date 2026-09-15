@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[ErrorSuppressedPipeline]]
 [[FerroelectricSemiconductorPhotocurrent]]
 [[Ferroelectric_Devices]]
+[[Fixed_Reservoir_Unitary]]
 [[Memristor]]
 [[Memristor_Crossbar]]
 [[Memristor_Synapse]]

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveTimeStepTraining]]
 [[Adaptive_Deep_Brain_Stimulation]]
 [[BandedConnectivityModel]]
+[[BigBrainCellularAxis]]
 [[BrainBodyResonance]]
 [[CirculateFiringNeuron]]
 [[ClosedLoopNeuromorphicControl]]

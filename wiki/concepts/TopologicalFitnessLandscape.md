@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[DisorderedNetworkInterconnect]]
 [[DistributedEventConditionDesign]]
 [[EdgeIoTEnergyAwareness]]
+[[EnergyLandscape_Regularization]]
 [[ErdosRenyi_Graph_Energy_Surface]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[GitWhitelistQuotaEnforcement]]

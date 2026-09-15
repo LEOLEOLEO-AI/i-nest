@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[DataMovementMinimization]]
 [[DirectConnect_Topology]]
 [[Heterogeneous_Integration]]
+[[InNetwork_KVCache_Access]]
 [[Intelligence_Emergence]]
 [[Interconnect_Topology]]
 [[Memory_Wall]]
@@ -62,7 +63,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC]]
 [[NoC_Interconnect]]
 [[TCC]]
-[[advanced packaging]]
+[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

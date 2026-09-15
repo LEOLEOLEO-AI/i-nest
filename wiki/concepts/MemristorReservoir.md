@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[SpectralSupportAnalysis]]
 [[Spiking_Neural_Network]]
 [[TemporalFeatureDecorrelation]]
+[[TriAxiomCalibration]]
 [[iNEST]]
 [[reservoir computing architecture]]
 

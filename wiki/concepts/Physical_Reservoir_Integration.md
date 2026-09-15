@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Crystallized_Neural_Manifolds]]
 [[DARPA_Manufacturing_Strategy]]
 [[DARPA_ProjectManager_Model]]
+[[DTGA]]
 [[DendriticReservoirState]]
 [[FunctionalInterfaceBlock]]
 [[InNetwork_Learning_Interface]]

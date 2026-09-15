@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveTimeStepTraining]]
 [[AgeingDementiaBiomarker]]
 [[Amorphous_Amorphous_Transition]]
+[[Avoided_Criticality]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]

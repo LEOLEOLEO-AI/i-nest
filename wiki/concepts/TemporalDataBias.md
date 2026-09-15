@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[BioInspiredInterceptionTask]]
 [[BioInspiredInterception]]
+[[BrainScaleS_AsyncEventCircuit]]
 [[BulletTrainScheduling]]
 [[CoDesigned_SNN]]
 [[CoDesigned_SNN_Online_Learning]]

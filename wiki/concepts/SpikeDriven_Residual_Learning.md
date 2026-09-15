@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN_SNN_WeightSpaceGap]]
 [[AcousticAnomalyDetection]]
 [[ActiveDendriteSNN]]
+[[AdaptiveAsymmetricSurrogateGradients]]
 [[Adaptive_Replication_Strategy]]
 [[Amorphous_Amorphous_Transition]]
 [[Avoided_Criticality]]

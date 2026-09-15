@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[Criticality_Metric_Extraction]]
 [[DARPA_ProjectManager_Model]]
+[[EarlyExiting]]
 [[ErrorSuppressedPipeline]]
 [[Fixed_Reservoir_Unitary]]
 [[Generative_Graph_Models]]

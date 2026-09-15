@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveEntanglementManagement]]
 [[AdaptiveFunctionalTopology]]
 [[AdjustableDynamicsReservoir]]
+[[AdjustableDynamics]]
 [[AstrocyteInspiredModulation]]
 [[AtomicGeometryEncoding]]
 [[BarrierConditionedTrajectory]]
@@ -43,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[EnsembleSparsity]]
 [[EvolutionaryDiversityPreservation]]
 [[Generation_Readiness_Assessment]]
+[[InNetworkNeuromorphicInterconnect]]
 [[Interconnect_Routing]]
 [[LowRankPerturbation]]
 [[MembranePotentialAlignment]]
@@ -50,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[ProjectiveMeasurementRouting]]
+[[Reservoir_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 

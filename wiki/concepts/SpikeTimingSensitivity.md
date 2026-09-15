@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration_Route]]
 [[CirculateFiringNeuron]]
 [[CorticalWaveRouting]]
+[[CrossbarArrayVLSI]]
 [[Environmental_Capability_Context]]
 [[Flexible_Spike_Routing]]
 [[Gate_Synthesis_Readout]]

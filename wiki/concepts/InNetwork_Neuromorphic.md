@@ -29,12 +29,12 @@ Auto-extracted concept from raw material compilation.
 [[Advanced_Packaging_for_Space]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[AllParallel_SpikeBased_Computing]]
+[[AnytimePointCloudRecognition]]
 [[ClosedLoopNeuromorphicControl]]
 [[In_Network_Neuromorphic]]
 [[Neuromorphic_Computing]]
 [[Spiking_Neural_Network]]
 [[WaveBasedComputation]]
-[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

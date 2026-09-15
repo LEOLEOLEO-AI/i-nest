@@ -56,9 +56,11 @@ Auto-extracted concept from raw material compilation.
 [[NoC]]
 [[OpticallyWritableAtomicVaporMemory]]
 [[Packaging_Aware_NoC_Design]]
+[[RadiationHardened_ProcessNodeScaling]]
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

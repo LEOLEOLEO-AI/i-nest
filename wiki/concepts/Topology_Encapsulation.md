@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Interconnect_Topology]]
+[[MachineLearningPotential]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]
 [[SDI_Standard_Review]]

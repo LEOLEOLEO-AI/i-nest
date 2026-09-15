@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[FixedOverheadFloor]]
 [[HigherOrderDynamicsPreservation]]
 [[Intelligence_Emergence]]
+[[LLM_Reward_Design]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
@@ -51,7 +52,6 @@ Auto-extracted concept from raw material compilation.
 [[SOC]]
 [[SpatialAutocorrelationMetric]]
 [[TopologicalDataCompression]]
-[[advanced packaging]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

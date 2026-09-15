@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Active_Inference_Topology]]
 [[AdaptiveCompetingInteractions]]
 [[Analog_InMemory_Processing]]
+[[AndersonTransition]]
 [[AutonomousAdaptation]]
 [[AutonomousServiceNegotiation]]
 [[BrainScaleTopologyExploitation]]

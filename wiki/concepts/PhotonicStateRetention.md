@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[AmorphousTopologicalSubstrate]]
 [[BoundaryContract]]
 [[CST_MasterEquation]]
+[[CST_Spatiotemporal_Complexity_Theorem]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]

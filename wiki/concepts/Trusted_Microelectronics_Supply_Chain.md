@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[AlgorithmicPhaseTransition]]
 [[Allreduce_Latency_Probe]]
 [[Analog_InMemory_Processing]]
+[[ArchitecturalGrounding]]
 [[Architectural_Conditioning]]
 [[CST_SynergisticCoordination]]
 [[Chain_of_Thought_Reasoning]]

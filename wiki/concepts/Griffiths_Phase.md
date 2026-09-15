@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[ReservoirDynamics]]
 [[Reservoir_Computing]]
 [[TCC]]
+[[ThermallyDrivenSuperparamagnetReservoir]]
 [[Topological_Quantum_Error_Correction]]
 [[causal emergence]]
 [[类脑芯片]]

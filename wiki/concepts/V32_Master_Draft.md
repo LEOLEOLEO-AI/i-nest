@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_CoordinationMechanism]]
 [[CST_Theory]]
 [[Complex_System_Theory]]
+[[Complexity_Emergence]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[CriticalFixedPoint]]

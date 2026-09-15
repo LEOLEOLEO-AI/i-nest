@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Compositional_Continuum]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Crystallized_Neural_Manifolds]]
+[[DARPA_ERI_2_0_Framework]]
 [[Energy_Efficient_Control]]
 [[ExplosiveCooperationTransition]]
 [[FeFET_Polarization_Switching]]

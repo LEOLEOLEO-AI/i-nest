@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[FederatedServiceGraph]]
 [[GateBasedQuantumReservoir]]
 [[HardwareAware_DesignSpace]]
+[[HierarchicalCrackPatternGeneration]]
 [[Hybrid_LLM_Guided_Search]]
 [[InNetwork_Topological_Reservoir]]
 [[Intelligence_Emergence]]

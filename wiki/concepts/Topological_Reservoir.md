@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[ErrorSuppressedPipeline]]
 [[FitnessGuidedTopologySearch]]
 [[HybridReservoirComputing]]
+[[LargeDeviationTopologicalOrder]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]

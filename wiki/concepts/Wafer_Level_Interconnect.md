@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[4H_SiC_SubstrateProcessing]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Defense_Industrial_Base_Reshaping]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Topology]]
 [[Network_Topology_Design]]

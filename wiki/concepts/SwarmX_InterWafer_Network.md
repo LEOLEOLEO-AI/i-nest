@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Synaptic_Weighting]]
 [[Attention_Residuals]]
 [[BackpropagationFreeLearning]]
+[[Beyond_Moore_Pathway]]
 [[Causal_Emergence]]
 [[Causal_Emergence_Architecture]]
 [[Chiplet]]
@@ -44,7 +45,6 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[SwarmX_InterWafer]]
 [[TCC]]
-[[advanced packaging]]
 [[causal emergence]]
 
 ## Sources

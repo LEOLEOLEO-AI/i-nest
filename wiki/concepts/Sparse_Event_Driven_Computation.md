@@ -30,10 +30,12 @@ Auto-extracted concept from raw material compilation.
 [[Continuous_Discrete_Compute_Gap]]
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[DebiasingTechniques]]
+[[Discrete_Event_Spike_Simulation]]
 [[Event_Driven_Architecture]]
 [[Event_Driven_Computation]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 

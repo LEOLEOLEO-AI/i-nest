@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[PhotonicPackagingEfficiency]]
 [[Resilience_ByTopology]]
 [[SpatialPatternStorage]]
+[[StigmergicRL_Control]]
 [[TCC]]
 [[WeedIdentification]]
 [[iNEST]]

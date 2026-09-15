@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[NeuromorphicSafetyBoundary]]
 [[Neuromorphic_Computing]]
+[[NonEquilibrium_CorticalDynamics]]
 [[OpenEndedDiscovery]]
 [[SDI_Bond]]
 [[SDI_STDP]]

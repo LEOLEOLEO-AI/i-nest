@@ -21,6 +21,8 @@ Auto-extracted concept from raw material compilation.
 
 [[3DHI_Stacking]]
 [[3D_Heterogeneous_Integration]]
+[[3D_IC_Stacking]]
+[[3D_Vertical_Interconnect]]
 [[3d]]
 [[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
@@ -69,8 +71,8 @@ Auto-extracted concept from raw material compilation.
 [[ThroughSiliconVia_TSV_ThermalPath]]
 [[TopologyProgramming]]
 [[WideLink_NoC_Router]]
-[[advanced packaging]]
 [[analog computation]]
+[[chiplet interconnect]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

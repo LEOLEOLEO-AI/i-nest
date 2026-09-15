@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenRiskAssessment]]
 [[EventDrivenTracking]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
+[[IMPLY_ISA]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[LossSpikePhenomenon]]

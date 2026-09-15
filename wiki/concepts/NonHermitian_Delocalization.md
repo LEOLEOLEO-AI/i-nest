@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Computation_Access_Routing]]
 [[CorticalWaveRouting]]
+[[Deep_Thermalisation]]
 [[Emergent_Topology_Adaptation]]
 [[FatalityDrivenRewiring]]
 [[FunctionalInterfaceBlock]]
@@ -53,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[ReEntrantMultifractalization]]
 [[TopologyAwarePhotonicInterconnect]]
 [[TopologyEmbeddedSelfModel]]
+[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

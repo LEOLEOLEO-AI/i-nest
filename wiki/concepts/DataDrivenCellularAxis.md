@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[ANN动力学]]
 [[Attention_Residuals]]
+[[AutonomousAdaptation]]
 [[BigBrainCellularAxis]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -53,7 +54,6 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
-[[Neuromorphic_Interconnect]]
 [[NoC]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[Nonlinear_Gain]]
@@ -86,6 +86,7 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
+[[neuromorphic interconnect]]
 [[residual connection]]
 [[三原理协同_FEP_STDP_最小作用量]]
 

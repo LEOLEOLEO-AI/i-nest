@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[ChiralTopologicalMatterEncoding]]
 [[ChiralTopologicalMatter]]
 [[CoexistenceRegime]]
+[[CommunicationTopologyMismatch]]
 [[Complex_System_Theory]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]

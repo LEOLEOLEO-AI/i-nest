@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[DTGA]]
 [[Distributed_Spike_Communication]]
 [[DrivenDissipativeDynamics]]
+[[ExplosiveTransitionThreshold]]
 [[FPGASNNMemoryOptimization]]
 [[Hypersonic_Weapon_Market_CAGR]]
 [[LIF_Neuron_Model]]

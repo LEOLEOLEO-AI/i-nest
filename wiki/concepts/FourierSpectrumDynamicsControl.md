@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[DissipativeQuantumReservoir]]
 [[Emergent_Reservoir_Topology]]
 [[Fourier_Spectrum_Regulation]]
+[[GroupInteractionThreshold]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

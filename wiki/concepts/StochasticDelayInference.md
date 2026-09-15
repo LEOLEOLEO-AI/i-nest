@@ -57,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Event_Driven_Attention]]
 [[Spiking_Neural_Network]]
 [[Spiking_Temporal_Encoding]]
+[[Surface_Phase_Transition]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[Wafer_Scale_Integration]]

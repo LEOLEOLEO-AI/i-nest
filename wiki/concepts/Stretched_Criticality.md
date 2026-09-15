@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalStateDynamics]]
 [[Critical_Exponent_Scaling]]
 [[Criticality]]
+[[Defense_Industrial_Base_Reshaping]]
 [[Dynamic_Expert_Fusion]]
 [[DynamicalSelfDualCriticality]]
 [[ERI_2_0_Strategic_Framework]]

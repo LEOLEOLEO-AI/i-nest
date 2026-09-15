@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[ANN_SNN_WeightSpaceGap]]
 [[ActiveDendriteSNN]]
+[[AdaptiveAsymmetricSurrogateGradients]]
 [[AdaptiveFrequencyResonateAndFire]]
 [[Adaptive_Replication_Strategy]]
 [[AsynchronousEventDrivenComputation]]

@@ -65,6 +65,7 @@ Auto-extracted concept from raw material compilation.
 [[SpaceToUndersea_ResilientComms]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[TopologyAwareScheduling]]
 [[complex system]]
 [[涌现]]

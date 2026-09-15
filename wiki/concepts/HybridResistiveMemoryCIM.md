@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[Beyond_Moore_Pathway]]
 [[BoundaryObject_Abstraction]]
+[[CST计量仪]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]
@@ -70,7 +71,6 @@ Auto-extracted concept from raw material compilation.
 [[SystemLevelNonlinearity]]
 [[Textbook_Paradigm_Definition]]
 [[TopologicalAndersonChernInsulator]]
-[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

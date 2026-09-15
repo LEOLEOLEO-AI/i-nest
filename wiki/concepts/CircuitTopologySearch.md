@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[3DHI_Chiplet_Integration]]
 [[3DHI_Integration]]
 [[3DHI_Stacking]]
+[[3D_Heterogeneous_Integration]]
 [[3d]]
 [[4H_SiC_SubstrateProcessing]]
 [[AI_Driven_Architecture_Search]]
@@ -57,7 +58,6 @@ Auto-extracted concept from raw material compilation.
 [[Pseudofractal_Web]]
 [[TCC]]
 [[TopologicalDataCompression]]
-[[advanced packaging]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[CubicLatticeInterconnect]]
 [[Deep_Thermalisation]]
 [[Defect_Mediated_Transport]]
+[[DestructiveInterferenceConfinement]]
 [[EmergentOrder]]
 [[EntanglementAwareRouting]]
 [[Heterogeneous_Integration]]

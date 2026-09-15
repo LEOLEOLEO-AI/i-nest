@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Dual_Memory_Pathway_SNN]]
 [[EnergyEfficientRestoration]]
 [[EventBasedBioSignalFrontEnd]]
+[[EventDrivenInference]]
 [[Event_Driven_Architecture]]
 [[Neuromorphic_Computing]]
 [[SNN]]

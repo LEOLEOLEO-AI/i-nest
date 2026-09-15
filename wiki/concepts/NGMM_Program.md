@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[ComplexSystem_Definition]]
 [[Complex_System_Theory]]
 [[ComponentLevelMolding]]
+[[Concepts-Theory — 全景导航 (Map of Content)]]
 [[HIR_Roadmap]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]

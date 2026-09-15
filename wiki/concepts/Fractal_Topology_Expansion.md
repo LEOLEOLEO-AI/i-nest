@@ -33,11 +33,14 @@ Auto-extracted concept from raw material compilation.
 [[Communication_Primitive]]
 [[CrossbarArrayVLSI]]
 [[Dragonfly_Inspired_WaferScale]]
+[[Hard_Breakdown]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Topology]]
 [[Network_Topology_Design]]
 [[TCC]]
+[[Wafer_Interconnect]]
 [[Wafer_Scale_Integration]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

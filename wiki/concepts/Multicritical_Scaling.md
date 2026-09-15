@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Roadmap]]
+[[Emergent_Order_Deep_Belief_Networks]]
 [[FPGA_Neuromorphic_Architectures]]
 [[Free_Energy_Topology_Mapping]]
 [[FunctionalBrainGraphEmbedding]]

@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Dimensionality_Modularity_Tradeoff]]
 [[DynamicCentralitySteering]]
 [[EnsembleCreditAssignment]]
+[[FlexibleManifoldReconfiguration]]
 [[Intelligence_Emergence]]
 [[LLMDrivenPathSelection]]
 [[Network_Topology_Design]]

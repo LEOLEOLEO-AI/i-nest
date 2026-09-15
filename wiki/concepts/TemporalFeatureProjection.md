@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
 [[Chiplet_NoC_Fabric]]
+[[CrossbarArrayPrecision]]
 [[DARPA_ProjectManager_Model]]
 [[FractureMechanism]]
 [[HeterogeneousInference]]
@@ -54,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[SpatialPatternStorage]]
 [[TCC]]
 [[ThroughSiliconVia_TSV_ThermalPath]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

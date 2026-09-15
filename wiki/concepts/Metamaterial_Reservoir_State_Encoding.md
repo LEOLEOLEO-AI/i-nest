@@ -47,6 +47,8 @@ Auto-extracted concept from raw material compilation.
 [[DualDrivenHybridNetwork]]
 [[FractureMechanism]]
 [[Heterogeneous_Integration]]
+[[Network_Topology_Design]]
+[[Process_Recycling_Paradigm]]
 [[Reservoir_Computing]]
 [[Reservoir_State_Encoding]]
 [[TCC]]

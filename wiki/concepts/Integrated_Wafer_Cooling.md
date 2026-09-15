@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Faculty_Forum_2026]]
 [[BiasEvaluationMetrics]]
+[[Bipartite_Interconnect_Design]]
 [[Brain_Scale_Parameter_Baseline]]
 [[ChipletWaferInterconnectCoDesign]]
 [[ChipletWaferInterconnectScaling]]
@@ -38,7 +39,9 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[TCC]]
 [[WaferScaleMesoscopicNetwork]]
+[[Wafer_Interconnect]]
 [[Wafer_Scale_Integration]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveArchitecture]]
 [[AdaptiveFunctionalTopology]]
 [[AmoebaInspiredLocomotion]]
+[[BioInspired_Interception_Control]]
 [[Biologically_Plausible_Learning_Rules]]
 [[Cognitive_Relapse_Decoupling]]
 [[CriticalityDrivenStateTransition]]

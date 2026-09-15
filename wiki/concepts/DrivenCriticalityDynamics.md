@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Driven_Criticality]]
 [[DynamicCentralitySteering]]
 [[Dynamic_Expert_Fusion]]
+[[DynamicalCriticality]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[ExactlyFlatTopologicalBands]]

@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[EnsembleCreditAssignment]]
 [[FlexibilityThreshold]]
+[[FlexibleManifoldReconfiguration]]
 [[FrozenRateOperator]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

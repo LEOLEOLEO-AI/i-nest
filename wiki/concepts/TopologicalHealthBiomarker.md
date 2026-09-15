@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Package_Neuromorphic_Integration]]
 [[Intelligence_Emergence]]
 [[Intelligent_Power_Management]]
+[[Medical_Large_Language_Models]]
 [[Memristive_Interconnect]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Spatiotemporal_Synergy]]

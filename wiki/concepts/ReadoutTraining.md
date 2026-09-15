@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Bosonic_SPT_Phases]]
 [[BranchingRatio]]
 [[Complex_System_Theory]]
+[[Complexity_Emergence]]
 [[Compressed_Glass_Network]]
 [[ConnectivityDerivedReservoir]]
 [[Contested_Prior_Resolution]]

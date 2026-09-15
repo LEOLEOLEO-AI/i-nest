@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[CorticalWaveRouting]]
 [[CrossbarArrayVLSI]]
 [[DataDrivenCellularAxis]]
+[[FPGAInference]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Memristive_Interconnect]]

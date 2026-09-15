@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[ArbitraryWavefunctionConfigurability]]
 [[AttentionWeightedPatchAggregation]]
 [[AutonomousAdaptation]]
+[[BioInspired_Interception_Control]]
 [[BrownianCastleInterface]]
 [[Free_Energy_Topology_Mapping]]
 [[Inference_Workload_Profiling]]

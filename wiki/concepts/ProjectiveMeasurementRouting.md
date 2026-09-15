@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[BrownianCastleInterface]]
 [[CouplingTopologyMemoryLink]]
 [[DTGA]]
+[[EmergentOrder]]
 [[Generation_Readiness_Assessment]]
 [[InteractingQuasiPeriodicChain]]
 [[Interconnect_Routing]]

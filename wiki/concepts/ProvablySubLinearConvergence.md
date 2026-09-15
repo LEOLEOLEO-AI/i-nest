@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Loihi]]
 [[MachineLearningPotential]]
 [[MeanFieldSpinGlass]]
+[[Microbiome_Immune_Endocrine_Interplay]]
 [[Network_Topology_Design]]
 [[OnlinePlasticity]]
 [[ReproducibleEmergenceValidation]]

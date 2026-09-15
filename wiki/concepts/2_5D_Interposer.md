@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[NoC]]
 [[P_Paradigm]]
+[[ReproducibleReservoirOutput]]
 [[TCC]]
 [[TemporalFeatureProjection]]
 

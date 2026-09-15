@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[ActiveDendriteSNN]]
+[[AdaptiveFlexibilityThreshold]]
 [[BackflowTransformation]]
 [[BurstTemporalPlasticity]]
 [[ChannelEventSparsity]]
@@ -34,8 +35,10 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SNN]]
+[[SNN_Topology]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[SynapticFatigueModel]]
 [[Synaptic_Plasticity]]

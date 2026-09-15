@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Enabled_Battlefield_Autonomy]]
 [[BarrierConditionedTrajectory]]
 [[Bidirectional_Temporal_Enhancement]]
+[[CUDAQSimulationFramework]]
 [[CirculateFiringNeuron]]
 [[CollectiveSpikingDynamics]]
 [[Contested_Prior_Resolution]]

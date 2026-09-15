@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[Active_Inference_Agent]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[BayesianDomainEvolution]]
 [[Brain_Connectome]]
 [[C__elegans_Connectome]]
 [[C_elegansConnectomeAnalogy]]

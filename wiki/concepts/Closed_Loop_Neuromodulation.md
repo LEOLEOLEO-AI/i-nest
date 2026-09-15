@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[DelayRobustEmergence]]
 [[DimensionalityReductionPrinciple]]
 [[DisorderedNetworkInterconnect]]
+[[DistributedEventConditionDesign]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[EnergyEfficiencyAI]]

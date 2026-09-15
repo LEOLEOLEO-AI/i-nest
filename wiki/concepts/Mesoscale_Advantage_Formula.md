@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Application_Scenario_Reconstruction]]
 [[Allreduce_Latency_Benchmark]]
 [[Analog_InMemory_Processing]]
+[[ArbitraryWavefunctionConfigurability]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]

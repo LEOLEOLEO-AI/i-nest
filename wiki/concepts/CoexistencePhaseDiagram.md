@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[HotspotEmergenceModeling]]
 [[InNetwork_Learning_Interface]]
 [[Intelligence_Emergence]]
+[[MultiScalePathDivergence]]
 [[NCA_Reservoir]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

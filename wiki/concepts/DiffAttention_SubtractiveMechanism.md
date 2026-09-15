@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Intelligence_Principle]]
 [[Adaptive_Service_Orchestration]]
 [[AdsorptionBiosorptionHybrid]]
+[[Advanced_Packaging]]
 [[Alignment_Tax]]
 [[AthermalDynamics]]
 [[BerryCurvatureIsolation]]
@@ -35,13 +36,13 @@ Auto-extracted concept from raw material compilation.
 [[BioInspired_Interception_Control]]
 [[BrainInspiredArchitecture]]
 [[Branch_Prediction_in_Pipelined_Processors]]
+[[CTVolumeManipulationDetection]]
 [[Compact_Sequence_Encoding]]
 [[Discrete_Event_Spike_Simulation]]
 [[EventDrivenTemplateUpdate]]
 [[FFN_Neuron_Sparsity]]
 [[Neuromorphic_Computing]]
 [[Spiking_Neural_Network]]
-[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

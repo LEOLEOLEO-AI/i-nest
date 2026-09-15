@@ -59,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfImprovementGate]]
 [[RecursiveSelfReferentialArchitecture]]
 [[STDP_Plasticity]]
+[[SignalingPathwayComputation]]
 [[SuperparamagneticSwitchingRate]]
 [[Synaptic_Plasticity]]
 [[TCC]]

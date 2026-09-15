@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[LLM_Assisted_Hardware_Design]]
 [[MachineLearningPotential]]
+[[MemristiveMEMSResonator]]
 [[NetworkMechanismsOfWaveGeneration]]
 [[Network_Topology_Design]]
 [[Reservoir_Computing]]

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3D_Heterogeneous_Integration]]
 [[3d]]
 [[4H_SiC_SubstrateProcessing]]
 [[AI_Driven_Power_Density_Scaling]]

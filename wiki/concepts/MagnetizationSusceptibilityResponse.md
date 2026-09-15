@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[LandauGinzburgFreeEnergy]]
 [[Loihi2_OnChip_Learning]]
 [[Loihi]]
+[[Metriplectic_Twin]]
 [[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]

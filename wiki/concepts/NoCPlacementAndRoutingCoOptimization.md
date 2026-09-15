@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[ChipletRoutingFabric]]
 [[ChipletWaferInterconnectScaling]]
 [[Chiplet]]
+[[Chiplet_Based_Trusted_Hardware]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
@@ -64,7 +65,7 @@ Auto-extracted concept from raw material compilation.
 [[Topology_Aware_NoC_Routing]]
 [[Topology_Encapsulation]]
 [[Topology_Interconnect]]
-[[advanced packaging]]
+[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

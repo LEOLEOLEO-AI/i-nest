@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AnalogDomainCompression]]
 [[AnalogInMemoryComputing]]
 [[Architectural_Conditioning]]
+[[Beyond_Moore_Pathway]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -67,6 +68,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TemporalComplexity]]
 [[analog computation]]
+[[chiplet interconnect]]
 [[iNEST]]
 
 ## Sources

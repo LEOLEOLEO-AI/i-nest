@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Network_Layer_Stacking]]
 [[Dynamical_State_Space]]
 [[EmergentTaskDecomposition]]
+[[Emergent_Abilities]]
 [[ExponentialDenseAssociativeMemory]]
 [[Fading_Memory_Property]]
 [[FerroelectricTunnelingJunction]]

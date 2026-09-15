@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[Collective_Offloading]]
 [[Decoupled_Priors]]
+[[Deep_Network_Architecture_Invariant]]
 [[InInterconnectMemory]]
 [[Interconnect_Routing]]
 [[IntraWafer_Fabric]]

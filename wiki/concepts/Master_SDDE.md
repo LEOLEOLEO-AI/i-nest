@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[C_elegansConnectomeAnalogy]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
+[[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Connectome]]
 [[Contested_Prior_Resolution]]
 [[Crystallized_Neural_Manifolds]]
@@ -43,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[MacroscopicDescriptor]]
 [[MasterEquationRG]]
 [[MeanFieldSpinGlass]]
+[[Memristor_Synapse]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Metastable_State_Hierarchy]]
 [[MultiplicativeGain]]
@@ -64,6 +66,8 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[iNEST]]
 [[夏强飞一天2篇Nature大子刊：感存算一体，忆阻器阵列模拟计算]]
+[[存算一体]]
+[[忆阻器]]
 [[神经网络]]
 
 ## Sources

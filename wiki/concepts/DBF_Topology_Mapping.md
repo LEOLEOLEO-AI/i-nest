@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[4H_SiC_SubstrateProcessing]]
 [[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[Bond_Operation_Algebra]]
@@ -42,8 +43,8 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_NPU_NoC_Integration]]
 [[TCC]]
+[[TopologyCentricComputing]]
 [[WaferScaleTopologyCentricComputing]]
-[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

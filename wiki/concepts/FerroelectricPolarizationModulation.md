@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AdjointWaveControl]]
 [[AmorphousSolidPlasticity]]
 [[Analog_InMemory_Processing]]
+[[ArbitraryWavefunctionConfigurability]]
 [[Cognitive_Relapse_Decoupling]]
 [[ControlTheoreticTopology]]
 [[Critical_Region_Extension]]

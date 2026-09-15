@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
+[[OptimalControlPolicyLearning]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]

@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Critical_Region_Extension]]
 [[DTGA]]
 [[EvolvingArchitectureDynamics]]
+[[ExactWiringRouting]]
 [[FPGA_Reconfigurability]]
 [[GenerativeTopologyModels]]
 [[HybridCouplingThermosensitiveNetwork]]

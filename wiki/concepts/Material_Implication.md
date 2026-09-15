@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Continual_Learning_Topology]]
 [[DistributedTrainingCommunicationPattern]]
 [[Dynamic_Expert_Fusion]]
+[[Emergent_Abilities]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[EventCameraActionRecognition]]

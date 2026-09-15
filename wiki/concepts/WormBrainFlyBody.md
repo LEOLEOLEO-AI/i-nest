@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[FrozenRateOperator]]
 [[Neuromorphic_Computing]]
 [[Synaptic_Plasticity]]
+[[Syncytial_Mesh]]
 [[iNEST]]
 
 ## Sources

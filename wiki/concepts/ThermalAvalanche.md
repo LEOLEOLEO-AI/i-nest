@@ -61,6 +61,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[SuperparamagneticSwitchingRate]]
 [[Swarm_Adaptive_Topology]]
+[[SynchronizationAttractorBasin]]
 [[TCC]]
 [[TCC_Neuromorphic_Integration]]
 [[analog computation]]

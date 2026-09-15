@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[GraphLanguageModel]]
 [[GraphLanguageModel_RAG]]
 [[GrowthBoundaryDynamics]]
+[[HigherOrderConnectivity]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[NeuromorphicTransformerPipeline]]

@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[ERI_2_0_Framework]]
 [[EdgeAI_Market_Consolidation_Driver]]
 [[EpoxyMoldingCompoundFlow]]
+[[FerroelectricMemoryCell]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

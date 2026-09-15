@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[BackflowTransformation]]
 [[BioPlausibleDisturbanceObserver]]
 [[BrainInspired_Chip]]
+[[Branch_Prediction_in_Pipelined_Processors]]
 [[Criticality]]
 [[EventDrivenAsync]]
 [[EventDrivenMotionDeblurring]]

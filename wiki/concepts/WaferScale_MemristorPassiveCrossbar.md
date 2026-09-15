@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Mesoscale_Heterogeneous_Integration]]
 [[National_Mesoscale_Innovation_Center]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Wafer]]
 [[Wafer_Scale_Integration]]
 [[iNEST]]
 

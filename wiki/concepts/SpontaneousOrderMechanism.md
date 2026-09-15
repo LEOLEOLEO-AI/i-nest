@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
 [[HigherOrderSynchronization]]
+[[InNetworkRadarProcessing]]
 [[InNetworkSelfOrganisation]]
 [[Interconnect_Routing]]
 [[Knowledge_Graph_Navigation]]

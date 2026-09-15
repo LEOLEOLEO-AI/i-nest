@@ -52,8 +52,10 @@ Auto-extracted concept from raw material compilation.
 [[SDI_NoC_Fusion]]
 [[SparseTemporalEncoding]]
 [[TCC]]
+[[Topology_Aware_NeuroTrain]]
 [[TwoDimensionalTransport]]
 [[WaferScale_Chiplet_Interconnect]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

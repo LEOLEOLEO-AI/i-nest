@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN动力学]]
 [[Analog_Weight_Storage]]
 [[Attention_Residuals]]
+[[AutonomousAdaptation]]
 [[BigBrainCellularAxis]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]

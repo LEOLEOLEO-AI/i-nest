@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[AxonalGrowthConeStochasticity]]
 [[BCM滑动阈值]]
 [[CST计量仪]]
+[[CertifiedBifurcationDetection]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]

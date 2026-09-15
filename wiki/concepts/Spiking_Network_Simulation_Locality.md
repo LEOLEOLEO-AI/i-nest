@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[ActionPrototypeClustering]]
 [[Autonomous_Spiking_Dynamics]]
 [[Bidirectional_Temporal_Enhancement]]
+[[Bipartite_Interconnect_Design]]
 [[BrainInspiredArchitecture]]
 [[BrainScaleS_AsyncEventCircuit]]
 [[ConductingPolymerDendriteMemory]]

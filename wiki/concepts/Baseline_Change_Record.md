@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Mechanism_in_SNN]]
 [[Avoided_Criticality]]
 [[Bidirectional_Temporal_Enhancement]]
+[[BrainScaleS_AsyncEventCircuit]]
 [[BulletTrainScheduling]]
 [[Contested_Prior_Resolution]]
 [[Criticality]]

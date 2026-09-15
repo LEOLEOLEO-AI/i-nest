@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Bipartite_Interconnect]]
 [[Bipartite_Interconnect_Design]]
 [[CausalIntegrationTopology]]
+[[Chiplet_Based_Architecture]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[TCC]]

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Cryogenic_Syndrome_Compression]]
 [[DTGA]]
+[[Distributed_Spike_Communication]]
 [[EdgeIoTEnergyAwareness]]
 [[Heterogeneous_Integration]]
 [[HierarchicalNetworkPartitioning]]

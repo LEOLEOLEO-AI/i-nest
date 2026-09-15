@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveLocalLearning]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Avoided_Criticality]]
+[[BioPlausibleDisturbanceObserver]]
 [[Catastrophic_Forgetting_Mitigation]]
 [[Cognitive_Relapse_Decoupling]]
 [[Contested_Priors_Architecture]]

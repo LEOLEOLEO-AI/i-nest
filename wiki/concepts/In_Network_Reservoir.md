@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[DisorderInducedEntanglementTransition]]
 [[DynamicalSelfDualCriticality]]
 [[EnergyResourceEfficiencyCoOptimization]]
+[[Environmental_Coupling_Organization]]
 [[Expert_Review_Arbitration]]
 [[Memristor]]
 [[Memristor_Synapse]]

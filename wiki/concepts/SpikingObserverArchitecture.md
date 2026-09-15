@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Distributed_Spike_Communication]]
 [[FerroelectricSynapse]]
 [[Ferroelectric_Devices]]
+[[FixedOverheadPenalty]]
 [[Heterogeneous_Integration]]
 [[HodgkinHuxleyDynamics]]
 [[InNetworkNeuromorphicAdaptation]]

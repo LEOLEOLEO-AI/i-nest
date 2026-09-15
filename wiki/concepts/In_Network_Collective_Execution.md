@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[CommunicationAwareComputeRelocation]]
 [[CriticalBranching]]
 [[CriticalityDrivenStateTransition]]
+[[CriticalityOffCriticalityTransition]]
 [[Criticality]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

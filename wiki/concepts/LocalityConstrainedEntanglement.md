@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Dynamic_Neuron_Activation_Prediction]]
 [[Effective_Information]]
+[[EntanglementSignatures]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]

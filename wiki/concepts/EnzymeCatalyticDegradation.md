@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[DualImpactEvaluation]]
 [[DynamicNeuralManifolds]]
 [[Electronic_Neuron_Circuit]]
+[[Emergent_Abilities]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]

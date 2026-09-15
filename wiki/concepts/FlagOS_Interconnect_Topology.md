@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[EdgeIoTEnergyAwareness]]
 [[Energy_Efficient_Control]]
 [[Heterogeneous_Integration]]
+[[HypergraphNeuralDynamics]]
 [[In_Package_Interconnect_Trust]]
 [[Intelligence_Emergence]]
 [[Interconnect_Topology]]

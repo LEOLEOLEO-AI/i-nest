@@ -60,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[SelfHealing_Interconnect]]
 [[SpaceToUndersea_ResilientComms]]
 [[Switch_Bottleneck]]
+[[Switch_Fabric_Bottleneck]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[complex system]]

@@ -30,6 +30,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[CriticalPhaseTransitionStatisticalTest]]
 [[DeviceConductanceTuning]]
 [[HigherOrderSimplicialDynamics]]
+[[Krakencoder_Embedding]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]

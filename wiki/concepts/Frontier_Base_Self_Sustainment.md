@@ -57,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[EdgeIoTEnergyAwareness]]
 [[EntanglementFidelityBudgeting]]
 [[Fluidic_Hysterons]]
+[[FreeFermion_Topological_Classification]]
 [[Free_Energy_Synchronization]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]

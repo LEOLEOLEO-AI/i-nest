@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Ferroelectric_Devices]]
 [[FisherOrthogonalMemory]]
 [[HybridResistiveMemoryCIM]]
+[[IMPLYMemristiveISA]]
 [[In_Memory_Computing]]
 [[MemristiveIntegration]]
 [[Memristor]]

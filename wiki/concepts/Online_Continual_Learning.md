@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Avoided_Criticality]]
 [[BulletTrainScheduling]]
 [[BurstGatedRouting]]
+[[ContinualLearningOnNeuromorphic]]
 [[Criticality]]
 [[CrossEntityPreemptiveWarning]]
 [[DrivenCriticalityOptimalityTradeoff]]

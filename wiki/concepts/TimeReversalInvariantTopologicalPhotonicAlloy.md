@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[DirectConnect_Topology]]
 [[Disordered_Frustrated_Dimer_Magnets]]
 [[DualSide_Routing_Layer]]
+[[DualSided_3D_Integration]]
 [[DualSided_Routing_Resource]]
 [[GraphBasedSemanticRouting]]
 [[Heterogeneous_Integration]]
@@ -56,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[TCC]]
+[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

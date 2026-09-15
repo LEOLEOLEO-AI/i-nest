@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[DataDrivenCellularAxis]]
 [[Distributed_Spike_Communication]]
 [[FirstPrinciples_Derivation]]
+[[FixedOverheadPenalty]]
 [[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]
 [[InNetworkNeuromorphicEmergence]]

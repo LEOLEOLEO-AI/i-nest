@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[ConductingPolymerDendriteMemory]]
 [[ContinualLearningOnNeuromorphic]]
 [[ContinuousTimeSNN]]
+[[EnergyResourceEfficiencyTradeoff]]
 [[EventDrivenInference]]
 [[EventDriven_Edge_Perception]]
 [[Event_Driven_Architecture]]

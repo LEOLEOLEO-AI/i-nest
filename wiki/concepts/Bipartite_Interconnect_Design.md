@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[SparseTemporalEncoding]]
 [[Spiking_Neural_Network]]
+[[SpontaneousOrderMechanism]]
 [[TCC]]
 [[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[Wafer_Scale_Integration]]

@@ -60,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[RG_Flow_Transformer]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Recursive_Metric_Contraction]]
+[[RenormalizationGroupFlow]]
 [[TCC]]
 [[complex system]]
 [[iNEST]]

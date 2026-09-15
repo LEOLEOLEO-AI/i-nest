@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Network_Neuromorphic]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[NeuromorphicSpikingTopology]]
 [[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Sensor_Fusion]]

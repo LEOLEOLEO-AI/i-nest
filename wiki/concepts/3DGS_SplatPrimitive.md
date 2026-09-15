@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[CommunicationHeterogeneity]]
+[[CompactFieldVariable]]
 [[Complex_System_Theory]]
 [[DiagnosticReportFramework]]
 [[EulaminateOverrepresentation]]
@@ -63,6 +64,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TemporalComplexity]]
 [[TopologicalSignals]]
+[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

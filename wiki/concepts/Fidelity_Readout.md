@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[CouplingMatrixRecovery]]
 [[CouplingTopologyMemoryLink]]
 [[Decoupling_Mechanism]]
+[[EmergentDynamics]]
 [[EquivariantGraphLayers]]
 [[Expert_Review_Arbitration]]
 [[Network_Topology_Design]]

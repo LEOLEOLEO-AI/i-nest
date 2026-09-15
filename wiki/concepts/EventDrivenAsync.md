@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[EventDrivenMotionDeblurring]]
 [[Neuromorphic_Computing]]
+[[Organic_Neuromorphic_Transistor]]
 [[Plasticity_Stability_Threshold]]
 [[SNN]]
 [[Self_Organized_Criticality]]

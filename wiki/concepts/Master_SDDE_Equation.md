@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[DeepSpikingNeuralNetworkTraining]]
 [[DendriticTaskPartitioning]]
 [[DevelopmentalNeuromorphicAdaptation]]
+[[Distributed_Spike_Communication]]
 [[FlagOS_2_0]]
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]

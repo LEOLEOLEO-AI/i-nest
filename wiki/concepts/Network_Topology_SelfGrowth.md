@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]
 [[OpenLearningEcosystem]]
+[[SDSoW]]
 [[iNEST]]
 
 ## Sources

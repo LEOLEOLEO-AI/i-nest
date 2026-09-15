@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AddressRedundancyElimination]]
 [[ApproximateMacroscopicDynamics]]
 [[Arm_Locomotor_Synergy]]
+[[AutonomousAdaptation]]
 [[BehaviorAlignedQuantization]]
 [[BigBrainCellularAxis]]
 [[BrainActivityPrediction]]

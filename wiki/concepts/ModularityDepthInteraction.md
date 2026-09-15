@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_STDP]]
 [[Memristor]]
 [[Memristor_Synapse]]
+[[Metriplectic_Twin]]
 [[Model_Routing_Protocol]]
 [[Multifractal_Signatures]]
 [[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]

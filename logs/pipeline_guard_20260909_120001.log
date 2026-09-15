@@ -1,0 +1,100 @@
+
+============================================================
+  iNEST + TCC Research Pipeline v3.3
+  2026-09-09 12:00
+============================================================
+[12:00:01] [S2] Searching Semantic Scholar (19 queries)...
+[12:00:02]   S2: 429 rate limited; skip S2 for this run and continue with arXiv/GN
+[12:00:02] [arXiv] Searching arXiv (via proxy, 21 queries)...
+[12:00:05]   arXiv skip irrelevant: TASG-Explore: Traversability-Aware Sector-Guided Exploration
+[12:00:05]   arXiv skip irrelevant: SE-GoS: Self-Evolving Graph-of-Skills for Skill Library at S
+[12:00:05]   arXiv skip irrelevant: Non-linear Pairwise Velocities as a Cosmological Probe
+[12:00:11]   arXiv skip irrelevant: Stimulated Brillouin Scattering in InGaP-on-Insulator Wavegu
+[12:00:11]   arXiv skip irrelevant: Non-destructive 3D doping imaging of silicon sensors
+[12:00:11]   arXiv skip irrelevant: Hardware Trojan Threats to Multi-Chiplet Photonic Neural Net
+[12:00:16]   arXiv skip irrelevant: Structure-Informed Bayesian Inference of Anomalous Transport
+[12:00:16]   arXiv skip irrelevant: Encoding Propagation Invariance into Light
+[12:00:16]   arXiv skip irrelevant: Universal Broadband Linear Optical Transformations by an Int
+[12:00:22]   arXiv skip irrelevant: Double explosive transitions in adaptive multilayer networks
+[12:00:22]   arXiv skip irrelevant: Causal-Class Hierarchies in Coherence-Constrained Channel Tr
+[12:00:22]   arXiv skip irrelevant: Spatial Audio Coding Through Relative Room Impulse Response 
+[12:00:27]   arXiv skip irrelevant: A double-resonator coupler for high-fidelity two-qubit gates
+[12:00:27]   arXiv skip irrelevant: Formation Matrix and Energy-based Control of Multi-Agent Sys
+[12:00:27]   arXiv skip irrelevant: Quantifying Power to Voltage and Frequency Dynamics for Osci
+[12:00:32]   arXiv: batch separator, pausing 10s...
+[12:00:43]   arXiv skip irrelevant: Structure-Informed Bayesian Inference of Anomalous Transport
+[12:00:43]   arXiv skip irrelevant: Geodesic-informed Generative Diffusion Model For Topology-pr
+[12:00:43]   arXiv skip irrelevant: Scalability Analysis of Distributed Kolmogorov-Arnold Networ
+[12:00:49]   arXiv skip irrelevant: Structure-Informed Bayesian Inference of Anomalous Transport
+[12:00:49]   arXiv skip irrelevant: Submodular Welfare under Routing Coupling: A Hierarchical De
+[12:00:49]   arXiv skip irrelevant: Perception-Aware Joint Power and Sub-Band Allocation for 6G 
+[12:00:55]   arXiv skip irrelevant: NOAH: Learning the Full Patient Journey. A Longitudinal Mult
+[12:00:55]   arXiv skip irrelevant: Effects of Interaction Range on Fluid Multicriticality: A Co
+[12:00:55]   arXiv skip irrelevant: ToolLoop: Closed-Loop Tool-Use Data Synthesis via Decomposed
+[12:01:00]   arXiv skip irrelevant: Nonlinear dynamics in an artificial feedback spin maser II: 
+[12:01:22]   Insight [1/3]: Limit Cycles in a Photonic Dimer with Tuneable Non...
+[12:01:22]   arXiv skip irrelevant: Latent geometry organizes higher-order interactions
+[12:01:27]   arXiv skip irrelevant: Phase-delays shape multistability and basin sizes in Kuramot
+[12:01:32]   arXiv: batch separator, pausing 10s...
+[12:01:43]   Insight [1/3]: FlexSpIM: An Event-Based Digital Compute-In-Memory...
+[12:01:43]   Insight [1/3]: A Gradient-based yet Spike-Timing-Dependent Soluti...
+[12:01:43]   arXiv skip irrelevant: Brain-Inspired User Positioning for mmWave Beam Management
+[12:01:49]   arXiv skip irrelevant: CVT-GS: Learning to Simplify 3D Gaussian Splatting with Cent
+[12:01:49]   arXiv skip irrelevant: CrossRAFT: Cross-Domain Complex-Valued Feature Extraction fo
+[12:01:49]   arXiv skip irrelevant: Navigating the Latent Manifold: Proactive Concept Drift Adap
+[12:01:54]   arXiv skip irrelevant: Sound Compilation of Weighted Event Signal Temporal Logic to
+[12:01:54]   arXiv skip irrelevant: Deadline-Aware Adaptive Prefill Chunking for Efficient Large
+[12:01:54]   arXiv skip irrelevant: Real-Time dApps for AI-RAN: Measured Interface Requirements 
+[12:02:00]   arXiv skip irrelevant: Beyond Gait: Person Identification from Millimeter-Wave Poin
+[12:02:00]   arXiv skip irrelevant: Dynamic Chirality in Photonic Time Crystals
+[12:02:00]   arXiv skip irrelevant: Learned Diffractive Optics for Quantum-Optimal Inference
+[12:02:06]   arXiv skip irrelevant: Double explosive transitions in adaptive multilayer networks
+[12:02:06]   arXiv skip irrelevant: Formation of structural attractors in neuromorphic systems
+[12:02:06]   arXiv skip irrelevant: Low-Dimensional Phase Diagram of Higher-Order Networked Syst
+[12:02:11]   arXiv: batch separator, pausing 10s...
+[12:02:21]   arXiv skip irrelevant: Predictive-Coding-Based Autonomous Regulation of Internally 
+[12:02:22]   arXiv skip irrelevant: Endogenous Exploration in Reinforcement Learning with Intrin
+[12:02:48]   Insight [1/3]: Determinants of hyperparameter robustness in conne...
+[12:02:48]   Insight [2/3]: Autonomous Chaotic Time Series Prediction using Ph...
+[12:02:48]   arXiv skip irrelevant: Quantum Sensing of Non-Repeatable Events Enhanced by In-Sens
+[12:02:54]   arXiv skip irrelevant: Momentum-Space-Engineered Spatial Photonic Ising Machine for
+[12:02:54]   arXiv skip irrelevant: Genetic Algorithms for Tractable Bayesian Network Fusion via
+[12:03:00]   arXiv skip irrelevant: Non-Uniform Antenna Array Design with Large Inter-Element Sp
+[12:03:00]   arXiv skip irrelevant: Renormalization group and long-range conditional mutual info
+[12:03:26]   arXiv: batch separator, pausing 10s...
+[12:03:36]   Insight [1/3]: Phase oscillator networks with multiple and state-...
+[12:03:36]   arXiv skip irrelevant: Latent geometry organizes higher-order interactions
+[12:03:36]   arXiv skip irrelevant: A Fundamental Limit in Decentralized Decision-Making
+[12:03:41] [arXiv] 6 new papers, 0 errors across 21 queries
+[12:03:41] [GN] Google News RSS...
+[12:04:02]   GN error (TCC): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[12:04:24]   GN error (iNEST): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[12:04:47]   GN error (emergence): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[12:05:09]   GN error (complex-networks): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[12:05:10] [GN] 0 new articles
+
+  Total: 6 new items to inbox
+[12:05:10] [Process] LLM classify (free tier, limit=20)...
+[12:05:33] [Process] Classified: 0
+[12:05:33] [Genspark] Generating research brief...
+[12:05:33] [Genspark] Research brief written: genspark_research_brief.md
+[12:05:33] [Graph] Scanning wiki links...
+[12:06:05] [Graph] 12831 files, 263538 links
+[12:07:18] [Graph] Exported: 12831 nodes, 260052 edges
+[12:07:18] [Graph] 0 missing backlinks
+[12:07:40] [DailyGen] Daily_Action + Focus + Insights generated
+[12:07:40] [Review] Research task proposals refreshed
+
+============================================================
+  Pipeline v3.3 Complete
+  Sources: 0(S2)+6(arXiv)+0(GN) | Written: 6 new papers
+  Processed: 0 | Nodes: 12831 edges: 260052 | Missing links: 0 | Genspark: OK
+  Elapsed: 458s
+============================================================
+[12:07:40] [State] research_state.json updated
+[12:07:40] [Evolution] Evidence + hypotheses updated
+[12:08:40] [Wiki] Warning: Command '['C:\\Users\\LEO\\AppData\\Local\\Programs\\Python\\Python310\\python.exe', 'D:\\Obsidian\\vault\\90_System\\scripts\\wiki_compiler.py']' timed out after 60 seconds
+[12:08:41] [Insight] Cross-domain bridges updated
+[12:09:22] [Tasks] Research recommendations updated
+[12:09:22] [Dashboard] Live dashboard published
+[12:09:23] [Homepage] Home.md auto-refreshed

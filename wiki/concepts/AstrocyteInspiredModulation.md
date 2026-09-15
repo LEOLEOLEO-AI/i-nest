@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Gaussian_Splatting_Streaming]]
 [[HigherAreaRankingDivergence]]
 [[Interconnect_Routing]]
+[[MembranePotentialModulation]]
 [[MoE_Routing]]
 [[Nanomaterial_Discovery_ML]]
 [[Network_Topology_Design]]

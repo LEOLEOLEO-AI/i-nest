@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[BoundaryContract]]
 [[BoundaryObject_Abstraction]]
 [[CST_MasterEquation]]
+[[CST_Spatiotemporal_Complexity_Theorem]]
 [[CellularSheaf]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]

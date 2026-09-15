@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[ConvexNonconvexFloorplanning]]
 [[Daily_Article_Increment_Tracking]]
 [[DeepPhotonicTopology]]
+[[DenseHighOrderInteractions]]
 [[DifferentiableRasterizationPipeline]]
 [[EdgeIoTEnergyAwareness]]
 [[Heterogeneous_Integration]]
@@ -66,7 +67,6 @@ Auto-extracted concept from raw material compilation.
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
-[[advanced packaging]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[PhysicalReservoir]]
 [[PhysicalSubstrateReservoirComputing]]
 [[PhysicalSubstrateReservoir]]
+[[PlanarNetworkSimulation]]
 [[RecursiveSelfReferentialArchitecture]]
 [[ReproducibleReservoirDynamics]]
 [[ReservoirDynamics]]

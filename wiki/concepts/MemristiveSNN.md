@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[AnisotropicGaussianPrimitives]]
+[[AnomalousSpinTransport]]
 [[BigBrainCellularAxis]]
 [[Chiplet]]
 [[Chiplet_Based_Neuromorphic_Integration]]
@@ -63,8 +64,10 @@ Auto-extracted concept from raw material compilation.
 [[SDDE_Attractor_Emergence]]
 [[SNN]]
 [[Spike_Encoding_of_fMRI]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
+[[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_STDP]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[PhaseLockedTopologyMapping]]
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SDI_STDP_Fusion]]

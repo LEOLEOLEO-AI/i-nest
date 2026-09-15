@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
 [[NoC]]
+[[Obsidian_Plugin_Architecture]]
 [[OnDie_Fusion]]
 [[P_Paradigm]]
 [[RTC_Primitive]]

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[CompactnessRegularizedFitness]]
 [[Complex_System_Theory]]
+[[Complexity_Emergence_Engineering]]
 [[Contested_Prior_Resolution]]
 [[Course_Based_FPGA_Projects]]
 [[EventCameraActionRecognition]]

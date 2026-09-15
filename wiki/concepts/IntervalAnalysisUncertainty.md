@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[IntervalAnalysis]]
 [[InverseDesignedPhotonicAccelerator]]
 [[MetricComputationAuthenticity]]
+[[MultiplicativeGainCondition]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[TCC]]

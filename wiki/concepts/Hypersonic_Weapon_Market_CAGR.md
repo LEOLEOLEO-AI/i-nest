@@ -58,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[TSVEncapsulationStress]]
+[[Temporal_Dynamics_Integration]]
 [[complex system]]
 [[iNEST]]
 [[忆阻器]]

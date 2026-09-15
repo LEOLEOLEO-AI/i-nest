@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[AutonomousCircuitMorphogenesis]]
 [[Barrier_Hierarchy]]
 [[Biocompatible_Neuromorphic_Interface]]
+[[CertifiedBifurcationDetection]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[HigherOrderAvalanche]]
 [[Intelligence_Emergence]]
 [[Mesoscale_Physical_Computing_Framework]]
+[[Microfluidic_Worm_Trap_Array]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Performance_Prediction_Model]]

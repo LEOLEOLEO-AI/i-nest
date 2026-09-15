@@ -30,6 +30,8 @@ Auto-extracted concept from raw material compilation.
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Algorithm_Hardware_CoDesign]]
 [[BackflowTransformation]]
+[[CriticalityOffCriticalityTransition]]
+[[Criticality]]
 [[CrossLayer_SignalRouting]]
 [[EvolutionaryDiversityPreservation]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
@@ -38,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[SNN]]
+[[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 

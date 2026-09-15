@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[DarkSiliconAwareCooling]]
 [[DarkSiliconAwarePowerGating]]
 [[Evaluation_Resolution]]
+[[FerroelectricMemoryCell]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[MicroTransferPrinting]]

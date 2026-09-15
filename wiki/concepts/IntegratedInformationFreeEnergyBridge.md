@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[CollectiveSpikingDynamics]]
 [[CombinedImportanceScoring]]
 [[Course_Based_FPGA_Prototyping]]
+[[CrossbarSNNArchitecture]]
 [[DTGA]]
 [[EEGSpikeEncoding]]
 [[ErrorAmplificationLimits]]

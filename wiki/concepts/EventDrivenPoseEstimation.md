@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Change_Record]]
 [[BioInspiredInterceptionTask]]
 [[BioInspiredInterception]]
+[[BioPlausibleDisturbanceObserver]]
 [[BulletTrainScheduling]]
 [[CoDesigned_SNN]]
 [[CoDesigned_SNN_Online_Learning]]

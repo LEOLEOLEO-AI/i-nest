@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Differential_Encoding]]
 [[Dynamic_Expert_Fusion]]
 [[ERI_2_0_Strategy]]
+[[EndToEndDesignAutomationFlow]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

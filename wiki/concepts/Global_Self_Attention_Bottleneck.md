@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[CollectiveSpikingDynamics]]
 [[CombinedImportanceScoring]]
 [[CurrentInjectionSNN]]
+[[EventDrivenWeightUpdate]]
 [[Intelligence_Emergence]]
 [[MemristiveSNN]]
 [[Meta_Residual_Architecture]]

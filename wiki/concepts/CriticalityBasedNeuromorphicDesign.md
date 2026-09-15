@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Avoided_Criticality]]
 [[BioPlausibleDisturbanceObserver]]
 [[Biologically_Plausible_Learning_Rules]]
+[[BrainScaleS_AsyncEventCircuit]]
 [[BranchingRatioControl]]
 [[BranchingRatio]]
 [[Catastrophic_Forgetting_Mitigation]]

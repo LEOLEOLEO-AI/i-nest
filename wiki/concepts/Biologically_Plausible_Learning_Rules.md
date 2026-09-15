@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[FormalLinguisticCompetence]]
 [[Gut_Brain_Immune_Network]]
+[[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]
 [[HierarchicalBayesianCommunityDetection]]
 [[InNetworkAgentRewiring]]

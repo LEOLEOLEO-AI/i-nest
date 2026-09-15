@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[BifurcationCandidate]]
 [[Cascading_Failure_Mitigation]]
 [[ChipletSignalIntegrity]]
+[[ChipletTrafficAwareScheduling]]
 [[Chiplet]]
 [[Chiplet_Based_Architecture]]
 [[Chiplet_Heterogeneous_Integration]]

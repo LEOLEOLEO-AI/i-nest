@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[AndersonTransition]]
 [[Ant_Swarm_Functional_Control]]
 [[BioInspiredGeneralist]]
+[[ChiralSymmetryClasses]]
 [[Cognitive_Relapse_Decoupling]]
 [[CollectiveStateTopology]]
 [[CommunicationAwareComputeRelocation]]

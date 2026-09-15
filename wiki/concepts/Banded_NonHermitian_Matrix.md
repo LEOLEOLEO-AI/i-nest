@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[CausalIntegrationPhi]]
 [[Causal_State_Encoding]]
 [[CentralityAsStateVariable]]
+[[CommunicationHeterogeneity]]
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Daily_Research_Compilation]]

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[CurrentInjectionSNN]]
 [[DTGA]]
 [[ElasticSpikingTransformer]]
+[[Electronic_Warfare_Integration]]
 [[ErrorSuppressedPipeline]]
 [[ExplosiveTransitionThreshold]]
 [[FlagOS_2_0]]

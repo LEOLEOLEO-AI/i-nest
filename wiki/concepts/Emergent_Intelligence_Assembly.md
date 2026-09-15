@@ -57,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NonlinearSelectivityRatio]]
 [[Nonlinear_Gain]]
+[[RenormalizationGroup_DeviceNonlinearity]]
 [[TCC]]
 [[TopologyAwareGeneration]]
 [[complex system]]

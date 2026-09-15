@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalInertiaEstimation]]
 [[Deep_Thermalisation]]
 [[Dynamic_Expert_Fusion]]
+[[EdgeAI_Market_Consolidation_Driver]]
 [[EdgeIoTEnergyAwareness]]
 [[Energy_Efficient_Control]]
 [[FirstPrinciples_Derivation]]

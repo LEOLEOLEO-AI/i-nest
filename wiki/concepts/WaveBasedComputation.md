@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[BigBrainCellularAxis]]
 [[BioPlausiblePredictiveCoding]]
+[[Bipartite_Interconnect_Design]]
 [[BrainInspiredArchitecture]]
 [[BurstGatedRouting]]
 [[Chiplet]]

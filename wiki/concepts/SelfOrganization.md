@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[Activity_Dependent_Plasticity]]
 [[AdaptiveLocalLearning]]
+[[AdaptiveSpeechToSpikeEncoding]]
 [[AsynchronousEventDrivenComputation]]
 [[Avoided_Criticality]]
 [[Biologically_Plausible_Learning_Rules]]

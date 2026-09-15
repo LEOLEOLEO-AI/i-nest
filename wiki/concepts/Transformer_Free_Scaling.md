@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Faculty_Forum_2026]]
 [[BigBrainCellularAxis]]
+[[Bipartite_Interconnect_Design]]
 [[BoundaryObject_Abstraction]]
 [[CrossbarInterconnect]]
 [[FPGAInference]]

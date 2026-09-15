@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[4H_SiC_SubstrateProcessing]]
 [[BackpropagationFreeLearning]]
 [[CompactFieldVariable]]
+[[CongestionAwareNoCPlacement]]
 [[Liquid_Topological_Generative_Computing]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

@@ -29,6 +29,8 @@ Auto-extracted concept from raw material compilation.
 [[ANN动力学]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
+[[DrivenDissipativeDynamics]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
@@ -37,7 +39,10 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TCC与INEST：2026全局论文与专利战略规划清单]]
 [[iNEST]]
+[[复杂网络]]
 [[战略报告提纲：物理复杂网络智能涌现——颠覆现有算力范式的新路线]]
+[[智能涌现]]
+[[涌现]]
 [[神经网络]]
 
 ## Sources

@@ -34,8 +34,10 @@ Auto-extracted concept from raw material compilation.
 [[MetaFAIR_ArchitectureDiscovery]]
 [[National_Innovation_Center_Role]]
 [[Neuromorphic_Computing]]
+[[SDI_STDP]]
 [[SNN]]
 [[SNN_iNEST]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

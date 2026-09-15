@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[3DHI_Chiplet_Integration]]
 [[3DHI_Stacking]]
+[[3D_IC_Stacking]]
 [[3d]]
 [[4H_SiC_SubstrateProcessing]]
 [[AI_Application_Scenario_Reconstruction]]
@@ -71,7 +72,8 @@ Auto-extracted concept from raw material compilation.
 [[ThroughSiliconVia_TSV_ThermalPath]]
 [[TopologyProgramming]]
 [[Topology_Centric_Interconnect]]
-[[advanced packaging]]
+[[WeedIdentification]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[CongestionAwareNoCPlacement]]
 [[Decoupled_Priors]]
 [[Deep_Network_Architecture_Invariant]]
+[[Defense_Industrial_Base_Reshaping]]
 [[DiagnosticReportFramework]]
 [[DynamicServiceComposition]]
 [[EulaminateOverrepresentation]]
@@ -68,7 +69,7 @@ Auto-extracted concept from raw material compilation.
 [[SparseTemporalEncoding]]
 [[TCC]]
 [[WideLink_NoC_Router]]
-[[advanced packaging]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

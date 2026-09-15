@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_STDP]]
 [[SDI_STDP_Fusion]]
 [[SDI_STDP_Rule]]
+[[SDI_iNEST_Interconnect]]
 [[SDI节点接口规范与化合键定义]]
 [[SNN]]
 [[STDP_Plasticity]]

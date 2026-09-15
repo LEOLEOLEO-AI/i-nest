@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[CSI_Temporal_Encoding]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
+[[Chiplet_Based_Neuromorphic_Integration]]
 [[CirculateFiringNeuron]]
 [[ComplexValuedSNN]]
 [[DendriticTaskPartitioning]]
@@ -49,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeDrivenDetectionBackbone]]
 [[SpikePacketRouting]]
 [[Spike_Encoding_of_fMRI]]
+[[Spiking neural network]]
 [[SpikingNeuronOptimization]]
 [[Spiking_Neural_Network]]
 [[Supervised_Hebbian_Learning]]

@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_STDP]]
 [[Memristor]]
 [[Memristor_Synapse]]
+[[Metriplectic_Twin]]
 [[Model_Routing_Protocol]]
 [[ModularityDepthInteraction]]
 [[Multifractal_Signatures]]

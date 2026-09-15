@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Differential_Encoding]]
 [[EntropyBoundaryMaintenance]]
 [[GateModelQuantumOptimization]]
+[[GraphTopologyMetrics]]
 [[HypergraphNeuralNetwork]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

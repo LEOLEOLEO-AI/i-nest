@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Stacking]]
 [[ChiralSymmetryClasses]]
 [[CoPackagedOptics]]
+[[CommunicationAwareComputeRelocation]]
 [[Heterogeneous_Integration]]
 [[TCC]]
 

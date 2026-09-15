@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AnisotropicGaussianPrimitives]]
 [[AnomalousSpinTransport]]
 [[Architectural_Conditioning]]
+[[AutonomousAdaptation]]
 [[BifurcationCandidate]]
 [[BigBrainCellularAxis]]
 [[CompartmentalNeuronModel]]

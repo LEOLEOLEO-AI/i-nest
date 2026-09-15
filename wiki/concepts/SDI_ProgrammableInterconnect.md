@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[4H_SiC_SubstrateProcessing]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
@@ -43,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_TCC_iNEST_Bridge]]
 [[SDI_Topology]]
 [[SDI_Topology_Control]]
+[[SDI_iNEST]]
 [[SDI_iNEST_Encapsulation]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
@@ -58,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[Topology_Page_Switching]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
+[[chiplet interconnect]]
 [[iNEST]]
 
 ## Sources

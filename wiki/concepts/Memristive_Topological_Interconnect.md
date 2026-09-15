@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[AdvancedPackagingInterconnect]]
 [[AgentReputationLedger]]
 [[AndersonTransition]]
+[[ChiralSymmetryClasses]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

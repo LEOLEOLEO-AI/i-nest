@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[NonreciprocalQuasiperiodicLattice]]
 [[Receptron_Unit]]
+[[ReconfigurableSNN_Accelerator]]
 [[ReconfigurableSpikingRouting]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SelfOrganization]]

@@ -39,9 +39,11 @@ Auto-extracted concept from raw material compilation.
 [[NoC]]
 [[NoC_Chiplet_iNEST_Wafer]]
 [[OnChipOpticalTweezers]]
+[[OpticallyWritableAtomicVaporMemory]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[TCC]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

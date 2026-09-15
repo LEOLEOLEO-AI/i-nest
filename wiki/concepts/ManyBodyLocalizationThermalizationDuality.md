@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Computation]]
 [[Intelligence_Emergence]]
 [[JunctionSignalIntegrity]]
+[[Local_Plasticity_Rule]]
 [[ManyBodyLocalization]]
 [[MemristiveSignedCouplings]]
 [[NeuromorphicRL]]

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AI4PDE｜综述·论文推荐 08｜物理信息神经网络在偏微分方程问题中的应用：全面综述]]
 [[AI_Faculty_Forum_2026]]
 [[ActiveMatterSubstrate]]
+[[Active_Inference_Agent]]
 [[AlexNet_Moment]]
 [[Annealing_Based_Decoder]]
 [[CST计量仪]]
@@ -37,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[DAGGER_Algorithm]]
 [[DisorderInducedLocalization]]
 [[ErrorSuppressedPipeline]]
+[[Intelligence_Emergence]]
 [[MagicStateProtocol]]
 [[MemristorStateEvolution]]
 [[Memristor]]
@@ -53,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[ThermallyDrivenSuperparamagneticReservoir]]
 [[iNEST]]
+[[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 

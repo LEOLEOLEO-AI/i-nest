@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_NoC_Integration]]
 [[SparseTemporalEncoding]]
 [[TCC]]
+[[Topology_Aware_NeuroTrain]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

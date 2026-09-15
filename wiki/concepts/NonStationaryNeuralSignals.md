@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Disorder_Driven_Quantum_Phase_Transition]]
 [[DrivenCriticalityDynamics]]
 [[Driven_Criticality]]
+[[DynamicCentralitySteering]]
 [[Dynamic_Expert_Fusion]]
 [[DynamicalCriticality]]
 [[EmulationTheoryObserver]]

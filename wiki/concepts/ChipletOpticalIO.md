@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Memory_Wall]]
+[[Memristor]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[NeuroRing_Topology]]
@@ -61,14 +62,17 @@ Auto-extracted concept from raw material compilation.
 [[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[complex system]]
 [[iNEST]]
+[[五层性能评估框架]]
 [[忆阻器]]
 [[智能涌现]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
+[[神经形态计算]]
 [[神经形态计算突破：脉冲神经网络实现机器人超低功耗定位新范式]]
 [[神经网络]]
 [[类脑芯片]]
+[[脉冲神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveFunctionalTopology]]
 [[Adaptive_Service_Reconfiguration]]
 [[AmoebaInspiredLocomotion]]
+[[BioInspired_Interception_Control]]
 [[BurstGatedRouting]]
 [[CircuitTopologyEncoding]]
 [[CorticalTypeDiversity]]

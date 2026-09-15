@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AllOpticalHebbianLearning]]
 [[BandedConnectivityModel]]
 [[BigBrainCellularAxis]]
+[[Bipartite_Interconnect_Design]]
 [[Cascading_Failure_Mitigation]]
 [[ConsciousnessEngineeringLoop]]
 [[CorticalWaveRouting]]

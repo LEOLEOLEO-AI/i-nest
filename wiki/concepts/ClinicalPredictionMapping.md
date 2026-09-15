@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossPopulationCen]]
 [[DeepSpikingNeuralNetworkTraining]]
 [[DevelopmentalNeuromorphicAdaptation]]
+[[Distributed_Spike_Communication]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]

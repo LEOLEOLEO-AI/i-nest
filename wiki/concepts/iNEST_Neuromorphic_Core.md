@@ -26,6 +26,8 @@ Auto-extracted concept from raw material compilation.
 [[BrainInspired_Computing_Paradigm]]
 [[BurstGatedRouting]]
 [[Event_Driven_Architecture]]
+[[FunctionalEnsembleComputation]]
+[[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Scheduling]]
 [[In_Package_Neuromorphic_Integration]]
 [[Interconnect_Routing]]

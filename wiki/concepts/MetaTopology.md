@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AutonomousServiceNegotiation]]
 [[CST_Spatiotemporal_Complexity]]
 [[CavityMethodAnalysis]]
+[[Chemical_Bond_Operation_Algebra]]
 [[Complex_System_Theory]]
 [[Meta_Topology]]
 [[Network_Topology_Design]]

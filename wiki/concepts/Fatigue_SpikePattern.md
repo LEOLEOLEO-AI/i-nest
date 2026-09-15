@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[DivergentHigherAreaRanking]]
 [[DynamicalSelfDualCriticality]]
 [[Layered_Attractive_Hubbard_Model]]
+[[LeftRightAsymmetry]]
 [[MembranePotentialModulation]]
 [[Memristor]]
 [[Memristor_Synapse]]

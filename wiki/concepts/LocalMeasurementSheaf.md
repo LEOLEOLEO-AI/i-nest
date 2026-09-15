@@ -67,6 +67,7 @@ Auto-extracted concept from raw material compilation.
 [[人类唯一的出路_变成人工智能_初篇_人类巨灵和大脑结构]]
 [[从CoWoS走向CoPoS，晶圆从圆形变成方形]]
 [[启示AGI之路_脑机制自下而上梳理_上部_5万字]]
+[[在网计算（In-Network Computing） (1)]]
 [[智能涌现]]
 [[涌现]]
 [[神经网络]]

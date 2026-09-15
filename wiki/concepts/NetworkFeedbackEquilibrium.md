@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
 [[NoC]]
+[[OptimalControlPolicyLearning]]
 [[PhaseLockedTopologyMapping]]
 [[Photopolymerization_NoC]]
 [[SDI_Bond]]

@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[NeuronModelAbstractionLayer]]
 [[NonHermitianSpectralCorrelations]]
+[[Plasticity_Stability_Threshold]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[STDP_Learning]]

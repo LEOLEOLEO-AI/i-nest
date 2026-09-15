@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[BayesianDomainEvolution]]
 [[ConvexNonConvexTradeoff]]
 [[CrossDomainRoleEquivalence]]
+[[Decoupled_Prior_Integration]]
 [[Decoupled_Priors]]
 [[Network_Topology_Design]]
 [[Synaptic_Plasticity]]

@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[ModelOptimization]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[PolymerComposite_Substrate]]
 [[SDI_Bond]]
 [[SNN]]
 [[Spiking_Neural_Network]]

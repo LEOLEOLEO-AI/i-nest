@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[4H_SiC_SubstrateProcessing]]
+[[ASIC_Dualism]]
 [[Archaeological_Audit]]
 [[AutonomousServiceNegotiation]]
 [[BackpropagationFreeLearning]]
@@ -40,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[NoC]]
 [[TCC]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

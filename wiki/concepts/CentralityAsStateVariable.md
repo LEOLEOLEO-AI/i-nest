@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[CST计量仪]]
 [[CausalIntegrationPhi]]
 [[Causal_State_Encoding]]
+[[CommunicationHeterogeneity]]
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Daily_Research_Compilation]]

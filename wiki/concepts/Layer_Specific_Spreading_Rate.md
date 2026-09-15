@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[ComplexityLandscape]]
 [[ComplexityLandscape_Optimization]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
+[[DataCenter_Chip_Logic_Compression]]
 [[Decoupled_Priors]]
 [[Dynamic_Expert_Fusion]]
 [[Fluidic_Hysterons]]

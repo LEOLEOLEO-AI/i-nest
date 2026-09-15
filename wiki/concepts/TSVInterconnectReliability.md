@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[12_三原理协同_FEP_最小作用量_STDP]]
+[[3DHI_Stacking]]
 [[3D_IC_Stacking]]
 [[3D_Integrated_Chiplet_Stacking]]
 [[3D_Integration]]
@@ -64,6 +65,7 @@ Auto-extracted concept from raw material compilation.
 [[Topology_Aware_NoC_Routing]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Packaging]]
+[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[FibonacciMonitoredCriticality]]
+[[FunctionalRelevanceDrivenSelfOrganization]]
 [[InNetworkComputing]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

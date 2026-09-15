@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_SNN]]
 [[SNN]]
 [[ST_SNN]]
+[[SpikingMultimodalFusion]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]

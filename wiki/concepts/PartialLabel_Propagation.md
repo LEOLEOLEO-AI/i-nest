@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveDendriteSNN]]
 [[ActivityAvalanche]]
 [[BulletTrainScheduling]]
+[[Cascading_Failure_Mitigation]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]

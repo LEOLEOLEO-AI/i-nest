@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[MassConservationBias]]
 [[MassConservationInductiveBias]]
 [[MeanFieldSpinGlass]]
+[[MonitoredQuantumReservoir]]
 [[Nanoencapsulation_Stability_Bioavailability]]
 [[NanomaterialFeatureEngineering]]
 [[Network_Topology_Design]]

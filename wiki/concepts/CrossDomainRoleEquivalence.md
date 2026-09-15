@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveAsymmetricSurrogateGradient]]
 [[AdaptiveDensityControl]]
 [[AdaptiveFrequencyResonateAndFire]]
+[[AdaptiveFrequencyResonateFire]]
 [[AdaptiveSTDP]]
 [[AnisotropicGaussianPrimitives]]
 [[Contested_Priors_Mechanism]]

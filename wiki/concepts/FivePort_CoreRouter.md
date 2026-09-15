@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration]]
 [[Chiplet_Stacking]]
 [[ChiralSymmetryClasses]]
+[[Compute_In_Memory_Neuromorphic]]
 [[Heterogeneous_Integration]]
 [[TCC]]
 

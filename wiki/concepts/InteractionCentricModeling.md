@@ -45,11 +45,11 @@ Auto-extracted concept from raw material compilation.
 [[Critical_Region_Extension]]
 [[CrossLingualIdiomGraph]]
 [[DiluteDipolarNetwork]]
+[[EmergentSwarmTopology]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[TCC]]
-[[advanced packaging]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

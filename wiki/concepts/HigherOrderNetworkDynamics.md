@@ -46,10 +46,12 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[HigherOrderNetwork]]
 [[InNetworkComputing]]
+[[InputAdaptiveComputation]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[SelfOrganization]]
 [[Self_Organized_Criticality]]
 [[TCC]]
 

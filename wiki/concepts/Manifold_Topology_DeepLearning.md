@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[PhotonicPackagingEfficiency]]
 [[PhotonicStateRetention]]
 [[TCC]]
+[[TopologicalComplexityCeiling]]
 [[TopologyAware_Learning]]
 [[complex system]]
 [[iNEST]]

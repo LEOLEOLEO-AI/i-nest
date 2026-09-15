@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Efficient_Coding_Constraint]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
+[[EventBasedAnalogFrontEnd]]
 [[FixedOverheadCost]]
 [[FixedOverheadPenalty]]
 [[HippocampalNeocorticalIntelligence]]

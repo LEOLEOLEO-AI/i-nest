@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[ArtificialProprioception]]
 [[ClosedLoopNeuromorphicControl]]
 [[Dynamic_Neuromorphic_Computing]]
+[[InNetwork_Neuromorphic]]
 [[Neuromorphic_Computing]]
 [[iNEST]]
 

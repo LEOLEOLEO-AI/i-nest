@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[BehaviorAlignedQuantization]]
 [[BoundaryObject_Abstraction]]
 [[BrainActivityPrediction]]
+[[Complexity_Emergence]]
 [[DataDrivenMaterialDesign]]
 [[ErrorSuppressedPipeline]]
 [[HierarchicalReservoirDynamics]]

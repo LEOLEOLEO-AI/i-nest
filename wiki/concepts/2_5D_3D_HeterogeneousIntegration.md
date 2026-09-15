@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[ASIC_Power_Efficiency]]
 [[AdiabaticMultimodeBend]]
 [[AdvancedPackagingInterconnect]]
+[[Advanced_Packaging_Route]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]

@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[DataCenter_Chip_Logic_Compression]]
 [[Differential_Encoding]]
 [[EntropyBoundaryMaintenance]]
+[[GateModelQuantumOptimization]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]

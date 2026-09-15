@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Based_Dynamic_Neuromorphic_Computing]]
 [[ClosedLoopNeuromorphicControl]]
 [[DecliningModularity]]
+[[Discrete_Event_Spike_Simulation]]
 [[Dynamic_Neuromorphic_Computing]]
 [[Neuromorphic_Computing]]
 [[iNEST]]

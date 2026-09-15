@@ -58,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Resilient_Satellite_Constellations]]
 [[SNN]]
+[[SpikeEncodingLatency]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TacticalEdgeIntelligence]]

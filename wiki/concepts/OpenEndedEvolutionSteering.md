@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeCodedAssociation]]
 [[SpikeEncoding]]
 [[SpikeInformationDensity]]
+[[Spike_Residual_Connection]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]

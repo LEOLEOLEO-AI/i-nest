@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[HybridCouplingThermosensitiveNetwork]]
 [[LocalStructuralPlasticity]]
 [[Neuromorphic_Computing]]
+[[OpenLearningEcosystem]]
 [[Scalable_Neuromorphic_System]]
 [[Synaptic_Plasticity]]
 [[iNEST]]

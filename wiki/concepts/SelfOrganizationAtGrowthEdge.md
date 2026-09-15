@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Roadmap]]
 [[Emergent_Intelligence_Threshold]]
 [[FlexibilityThreshold]]
+[[GutBrainAxis_Reprogramming]]
 [[Gut_Brain_Immune_Network]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

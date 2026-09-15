@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[ChiralTopologicalMatterEncoding]]
 [[ChiralTopologicalMatter]]
+[[CoexistenceRegime]]
 [[Complex_System_Theory]]
 [[ComponentLevelMolding]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]

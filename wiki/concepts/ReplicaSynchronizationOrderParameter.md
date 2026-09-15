@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AgenticServiceOrchestration]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[AmorphousTopologicalSubstrate]]
+[[BandedNonHermitianRandomMatrices]]
 [[BoundaryContract]]
 [[Complex_System_Theory]]
 [[CriticalPointControl]]

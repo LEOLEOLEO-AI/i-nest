@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AndersonTransition]]
 [[Avoided_Criticality]]
 [[BioPlausiblePredictiveCoding]]
+[[BrainScaleS_AsyncEventCircuit]]
 [[Criticality]]
 [[Deep_Thermalisation]]
 [[Discrete_Event_Spike_Simulation]]

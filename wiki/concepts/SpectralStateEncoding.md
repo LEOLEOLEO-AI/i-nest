@@ -62,6 +62,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing_Branch_Prediction]]
 [[Reservoir_Computing_DP_Recycling]]
 [[TemporalFeatureDecorrelation]]
+[[TensorNetworkReservoir]]
 [[iNEST]]
 
 ## Sources

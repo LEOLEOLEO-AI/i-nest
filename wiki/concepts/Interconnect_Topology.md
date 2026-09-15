@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenAsync]]
 [[EventDrivenAsynchronousRouting]]
 [[Interconnect_Routing]]
+[[Liquid_Topological_Generative_Computing]]
 [[Network_Topology_Design]]
 [[OpenLearningEcosystem]]
 [[P_Paradigm]]

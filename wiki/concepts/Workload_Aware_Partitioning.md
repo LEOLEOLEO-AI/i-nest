@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[CoPackagedOptics]]
 [[Complex_System_Theory]]
 [[Compute_In_Memory_Neuromorphic]]
+[[Emergence_Phase]]
 [[Heterogeneous_Integration]]
 [[In_Memory_Computing]]
 [[Inference_Workload_Profiling]]
@@ -58,7 +59,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologyAwareStateMigration]]
 [[Workload_Adaptive_Resource_Provisioning]]
-[[advanced packaging]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

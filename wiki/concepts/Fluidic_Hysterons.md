@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[Decoupled_Priors]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
+[[EntanglementFidelityBudgeting]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Layer_Specific_Spreading_Rate]]

@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[CorticalWaveRouting]]
 [[DTGA]]
+[[Deep_Thermalisation]]
 [[DevelopmentalNeuromorphicAdaptation]]
 [[DynamicTopologyMapping]]
 [[DynamicTopology]]
@@ -59,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[ReservoirDynamics]]
 [[Reservoir_Computing]]
 [[TCC]]
+[[chiplet interconnect]]
 [[neuromorphic substrate]]
 [[Γst_Revision]]
 

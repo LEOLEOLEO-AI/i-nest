@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[CorticalWaveRouting]]
 [[DTGA]]
+[[Deep_Thermalisation]]
 [[FunctionalInterfaceBlock]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
@@ -56,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[TCC]]
 [[ThermallyDrivenSuperparamagnetReservoir]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[Γst_Revision]]
 

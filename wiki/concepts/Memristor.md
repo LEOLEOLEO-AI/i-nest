@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[CompactMicroLED_Array]]
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
+[[Cryogenic_Syndrome_Compression]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

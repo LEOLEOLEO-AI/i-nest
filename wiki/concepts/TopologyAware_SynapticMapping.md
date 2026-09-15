@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[CircuitTopologyEncoding]]
 [[Complex_System_Theory]]
 [[ControlDrivenCriticalFluctuations]]
+[[ControlTheoreticTopology]]
 [[CouplingMatrixRecovery]]
 [[Critical_Region_Extension]]
 [[DelayTolerantNetworkUAV]]

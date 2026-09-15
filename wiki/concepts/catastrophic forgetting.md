@@ -57,6 +57,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Complex_System_Theory]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[MetaHardwareAbstraction]]
 [[Network_Topology_Design]]
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]

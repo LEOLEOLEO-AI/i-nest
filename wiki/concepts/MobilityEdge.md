@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[FatalityDrivenRewiring]]
 [[FirstPrinciples_Derivation]]
 [[Heterogeneous_Integration]]
+[[HierarchicalNetworkPartitioning]]
 [[HodgkinHuxleyDynamics]]
 [[InkjetPrintedElectrochemicalSensors]]
 [[InterFPGA_Spike_Routing]]

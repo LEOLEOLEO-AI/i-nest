@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
+[[Ferroelectric_ComputeInMemory]]
 [[FisherInformationMetric]]
 [[Heterogeneous_Integration]]
 [[In_Memory_Computing]]

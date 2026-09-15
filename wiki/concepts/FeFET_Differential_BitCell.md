@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[HeterogeneousSynapticDelays]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[Linguistic_Phase_Transition]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[NCL神经计算定律详解]]

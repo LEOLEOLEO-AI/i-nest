@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[In_Memory_Computing]]
 [[Intelligence_Emergence]]
+[[Linguistic_Phase_Transition]]
 [[Memristive_ANN_Hardware]]
 [[Memristor]]
 [[Memristor_Hardware_ANN]]

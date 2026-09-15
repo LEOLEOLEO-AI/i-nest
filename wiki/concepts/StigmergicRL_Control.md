@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[NoC]]
 [[NoC_Interconnect]]
+[[Photonic_Chiplet_Interconnect]]
 [[STDP_Plasticity]]
 [[SpatialPatternStorage]]
 [[Synaptic_Plasticity]]
@@ -60,7 +61,6 @@ Auto-extracted concept from raw material compilation.
 [[ThermalAware_DesignSpaceExploration]]
 [[ThroughSiliconVia_TSV_ThermalPath]]
 [[WeedIdentification]]
-[[advanced packaging]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

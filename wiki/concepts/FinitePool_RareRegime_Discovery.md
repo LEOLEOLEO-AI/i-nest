@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[HigherOrderConnectivity]]
 [[Intelligence_Emergence]]
 [[IntrospectiveRecursion]]
+[[Material_Circularity]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[TCC]]

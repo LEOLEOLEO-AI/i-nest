@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[AttractorBasinOrthogonality]]
 [[AutonomousCircuitMorphogenesis]]
 [[Biocompatible_Neuromorphic_Interface]]
+[[CertifiedBifurcationDetection]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

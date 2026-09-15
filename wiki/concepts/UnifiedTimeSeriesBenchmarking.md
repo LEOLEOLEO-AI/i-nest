@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[GenerativeTopologyModels]]
 [[HeterogeneousNodeDynamics]]
 [[Intelligence_Emergence]]
+[[MetaHardwareAbstraction]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]

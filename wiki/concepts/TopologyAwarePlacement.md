@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Critical_Region_Extension]]
 [[Deep_Thermalisation]]
 [[EntanglementAwareRouting]]
+[[FPGA_Reconfigurability]]
 [[FatalityDrivenRewiring]]
 [[ImaginaryGaugePhaseImprint]]
 [[InSituReconfiguration]]

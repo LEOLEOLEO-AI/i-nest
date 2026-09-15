@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[ActiveDendriteSNN]]
 [[AdaptiveDeltaPulseFrequencyEncoding]]
+[[AdaptiveFlexibilityThreshold]]
 [[AnomalousSpinTransport]]
 [[BigBrainCellularAxis]]
 [[BurstTemporalPlasticity]]
@@ -56,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikingMotorControl]]
 [[SpikingMuscleActivation]]
 [[SpikingNeuralNetworkInference]]
+[[SpikingNeuralNetwork]]
 [[SpikingTopologyEvolution]]
 [[Spiking_Neural_Network]]
 [[StochasticBinaryDynamics]]

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_Faculty_Forum_2026]]
 [[AdiabaticMultimodeBend]]
+[[Allreduce_Latency_Benchmark]]
 [[Allreduce_Latency_Diagnostic]]
 [[Analog_InMemory_Processing]]
 [[ArbitraryWavefunctionConfigurability]]

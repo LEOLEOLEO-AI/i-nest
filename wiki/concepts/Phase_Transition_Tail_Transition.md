@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[Epidemic_Mitigation_Strategy]]
+[[HoldingManeuverDelayPrediction]]
 [[InNetwork_Learning_Interface]]
 [[Intelligence_Emergence]]
 [[LargeDeviationTopologicalOrder]]

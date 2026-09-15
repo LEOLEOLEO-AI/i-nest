@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[OpportunisticRouting]]
 [[P_Paradigm]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SOC]]
 [[SpikeDrivenDataAssociation]]
 [[SpikingNeuralNetworkTopologyMapping]]
 [[SpikingNeuralNetworkTopology]]
@@ -60,6 +61,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC_SpikingIntegration]]
 [[TopologicalAndersonChernInsulator]]
 [[Topology_Centric_Spiking]]
+[[Topology_Centric_Spiking_Architecture]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[神经网络]]
 

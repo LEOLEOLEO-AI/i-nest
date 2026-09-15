@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Memristor]]
 [[Memristor_Synapse]]
+[[NeuromorphicObserverArchitecture]]
 [[Neuromorphic_Computing]]
 [[On_Chip_STDP_Learning]]
 [[SDI_Bond]]

@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[Simulation_Handoff_Recommendation]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[complex system]]
 [[iNEST]]
 [[神经网络]]

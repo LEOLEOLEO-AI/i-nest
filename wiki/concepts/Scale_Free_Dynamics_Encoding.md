@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
+[[RenormalizationGroup_DeviceNonlinearity]]
 [[Scale_Free_Dynamics]]
 [[TCC]]
 [[TinySubstrateEmergence]]

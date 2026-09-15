@@ -57,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[NonEquilibriumComputing]]
 [[PerturbationBoundAnalysis]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SiC_GaN_Power_Integration]]
 [[State_Transition_Formalism]]
 [[Swarm_Coordination]]
 [[TCADCalibration]]

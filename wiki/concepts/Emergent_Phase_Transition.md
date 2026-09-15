@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[ActivityAvalanche]]
 [[AlloyDisorderEngineering]]
+[[BioPlausibleDisturbanceObserver]]
 [[Biologically_Plausible_Learning_Rules]]
 [[CST_Theory]]
 [[CST_Theory_V27_FINAL]]

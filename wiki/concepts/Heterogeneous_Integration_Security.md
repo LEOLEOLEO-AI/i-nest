@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Package_Interconnect_Trust]]
 [[Intelligence_Emergence]]
 [[InterconnectConstrainedEmergence]]
+[[MicroTransferPrinting]]
 [[MultiplicativeGainMechanism]]
 [[MultiplicativeGain]]
 [[NCCL_CollectivePrimitives]]

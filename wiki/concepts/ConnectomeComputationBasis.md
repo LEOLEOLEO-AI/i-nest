@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Crystallized_Neural_Manifolds]]
 [[DataProvenanceIntegrity]]
 [[EmergentCompetenceThreshold]]
+[[FastSlow_Dynamics]]
 [[InNetworkNeuromorphicSimulation]]
 [[InNetworkNeuromorphic]]
 [[In_Network_Neuromorphic]]

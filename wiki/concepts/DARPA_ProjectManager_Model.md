@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[HierarchicalNetworkPartitioning]]
 [[HodgkinHuxleyDynamics]]
 [[Memristive_Interconnect]]
+[[Memristive_STDP]]
 [[Memristor]]
 [[Memristor_Network]]
 [[Memristor_Synapse]]

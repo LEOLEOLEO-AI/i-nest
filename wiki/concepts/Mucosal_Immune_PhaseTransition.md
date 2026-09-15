@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Core_Spacetime_Tensor]]
 [[Crystallized_Neural_Manifolds]]
 [[DataDrivenCellularAxis]]
+[[DeviceLevelNonlinearityScaling]]
 [[DrivenDissipativeDynamics]]
 [[Dynamic_Expert_Fusion]]
 [[EmergentOrder]]

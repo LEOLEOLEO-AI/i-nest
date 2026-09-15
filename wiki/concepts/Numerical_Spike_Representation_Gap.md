@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveAsymmetricSurrogateGradient]]
 [[AdaptiveAsymmetricSurrogateGradients]]
 [[AdaptiveDeltaPulseFrequencyEncoding]]
+[[AdaptiveFlexibilityThreshold]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[TCC]]

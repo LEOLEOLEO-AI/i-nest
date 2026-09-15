@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Bipartite_Interconnect]]
 [[Bipartite_Interconnect_Design]]
 [[BondMovingDecimation]]
+[[Cascading_Failure_Mitigation]]
 [[ChipletRoutingFabric]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]

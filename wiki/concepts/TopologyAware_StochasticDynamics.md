@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Critical_Exponent_Extraction_Method]]
 [[DelayParameterSpaceDecomposition]]
 [[DynamicInference]]
+[[Evolutionary_Computability_Principle]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]

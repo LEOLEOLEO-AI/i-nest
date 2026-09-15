@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence]]
 [[Energy_Efficient_Control]]
 [[ExplosiveCooperationTransition]]
+[[ExtensiveWidthShallowNN]]
 [[FeFET_Polarization_Switching]]
 [[FerroelectricMemoryCell]]
 [[Ferroelectric_Devices]]

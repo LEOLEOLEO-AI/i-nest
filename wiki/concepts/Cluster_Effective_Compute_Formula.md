@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[SparsityAwareInterconnect]]
 [[Switchless_Computing]]
 [[TCC]]
+[[ThreeLayerArchitecture]]
 [[TopologyAwareTaskScheduling]]
 [[TopologyCentricComputing]]
 [[Topology_Centric_Computing]]

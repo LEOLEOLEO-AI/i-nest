@@ -35,9 +35,12 @@ Auto-extracted concept from raw material compilation.
 [[Integrated_Wafer_Cooling]]
 [[InterWafer_SwarmX]]
 [[Interconnect_Topology]]
+[[KeyMaterialStrategy]]
 [[Network_Topology_Design]]
 [[TCC]]
+[[Wafer_Interconnect]]
 [[Wafer_Scale_Integration]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

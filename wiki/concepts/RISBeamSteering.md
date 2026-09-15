@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Microsecond_Link_Reconfiguration]]
 [[NetworkDiameterTradeoff]]
 [[Network_Topology_Design]]
+[[PathDivergenceSelection]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[涌现]]

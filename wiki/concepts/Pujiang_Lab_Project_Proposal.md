@@ -32,12 +32,15 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Service_Orchestration]]
 [[Avoided_Criticality]]
 [[BioInspiredGeneralist]]
+[[BioPlausibleDisturbanceObserver]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]
+[[Criticality]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Intelligent_Emergence_Paradigm]]
+[[Self_Organized_Criticality]]
 [[iNEST]]
 
 ## Sources

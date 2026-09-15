@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Inference_Division]]
 [[InMateriaComputing]]
 [[Intelligence_Emergence]]
+[[Intelligent_Power_Management]]
 [[Neuromorphic_Computing]]
 [[TCC]]
 [[iNEST]]

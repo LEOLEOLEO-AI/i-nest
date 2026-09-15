@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[MixedSignalSNN_CoDesign]]
 [[Model_Routing_Protocol]]
 [[NeuralNetworkSpectralAnalysis]]
+[[NeuromorphicHardwareCoDesign]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[Real_Time_Neuromorphic_Constraint_Satisfaction]]

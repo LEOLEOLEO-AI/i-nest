@@ -56,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[ST_SNN]]
 [[Self_Organized_Criticality]]
+[[SpikeEncodingLatency]]
 [[Spiking_Neural_Network]]
 [[Swarm_Coordination]]
 [[SynapticReinforcementConsolidation]]

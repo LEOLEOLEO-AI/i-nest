@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Avoided_Criticality]]
+[[BandedConnectivityModel]]
 [[BioPlausibleDisturbanceObserver]]
 [[BulletTrainScheduling]]
 [[CST_Theory]]

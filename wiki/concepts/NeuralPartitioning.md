@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Replication_Strategy]]
 [[BioPlausiblePredictiveCoding]]
 [[BurstGatedRouting]]
+[[BurstSuppressionMechanism]]
 [[CSI_Temporal_Encoding]]
 [[ContinuousControlConversion]]
 [[ContinuousTimeSNN]]

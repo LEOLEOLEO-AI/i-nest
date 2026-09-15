@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[BranchingRatio]]
 [[BurstGatedRouting]]
 [[Cognitive_Relapse_Decoupling]]
+[[CollectiveStateTopology]]
 [[CriticalLearningRegime]]
 [[CriticalityInNetworkComputing]]
 [[CriticalityOffCriticalityTransition]]
@@ -48,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Quantum_Criticality]]
+[[SelfOrganization]]
 [[Self_Organized_Criticality]]
 [[TCC]]
 

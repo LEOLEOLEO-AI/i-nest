@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[BandedConnectivityModel]]
 [[BigBrainCellularAxis]]
 [[CirculateFiringNeuron]]
+[[CompactnessRegularizedFitness]]
 [[ComplexValuedSNN]]
 [[Complex_System_Theory]]
 [[DevelopmentalNeuromorphicAdaptation]]

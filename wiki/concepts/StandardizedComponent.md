@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[DataProvenanceIntegrity]]
 [[Decoupled_Prior_States]]
 [[Decoupled_Priors]]
+[[Deep_Network_Architecture_Invariant]]
 [[EulaminateOverrepresentation]]
 [[Heterogeneous_Integration]]
 [[Less is more，大脑“低能耗”并“高效响应”的秘诀：模块化]]
@@ -76,6 +77,8 @@ Auto-extracted concept from raw material compilation.
 [[TemperatureSensitivityControl]]
 [[TemporalComplexity]]
 [[Topology_Interconnect]]
+[[Wafer_Interconnect]]
+[[chiplet interconnect]]
 [[residual connection]]
 
 ## Sources

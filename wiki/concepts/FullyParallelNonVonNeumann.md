@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
 [[PhysicalDesign_ReliabilityTradeoff]]
+[[SpikeBasedGradientDescent]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

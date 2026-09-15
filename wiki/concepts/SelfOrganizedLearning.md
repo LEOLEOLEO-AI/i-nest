@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[LocalStructuralPlasticity]]
 [[MachineLearningPotential]]
 [[Memristive_Topology]]
+[[Microbiome_Immune_Endocrine_Interplay]]
 [[NCL神经计算定律详解]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]

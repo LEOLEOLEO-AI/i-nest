@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Computation_Access_Routing]]
 [[CongestionAwareLoss]]
+[[Critical_Region_Extension]]
 [[DifferentiableFloorplanning]]
 [[DifferentiablePlacement]]
 [[EntanglementAwareRouting]]

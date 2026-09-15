@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[CytokineStormAttractor]]
 [[EntanglementSignatures]]
 [[GeometricRegularizationLoss]]
+[[HeavyTailedWaitingTimes]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]

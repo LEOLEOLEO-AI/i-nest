@@ -42,10 +42,12 @@ Auto-extracted concept from raw material compilation.
 [[PhysicalReservoirInterconnect]]
 [[PhysicalReservoir]]
 [[PhysicalSubstrateReservoirComputing]]
+[[PhysicalSubstrateReservoir]]
 [[PlanarNetworkSimulation]]
 [[Reservoir_Computing]]
 [[RunawayAvalanche]]
 [[Self_Organized_Criticality]]
+[[SpikeEventDrivenInference]]
 [[TCC]]
 [[TopologyAwareTimescaleSeparation]]
 

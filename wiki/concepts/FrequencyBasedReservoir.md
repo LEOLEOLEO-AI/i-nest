@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3D_Heterogeneous_Integration]]
 [[AI_Faculty_Forum_2026]]
 [[AcceleratedMaterialScreening]]
 [[ActiveMatterComputing]]
@@ -39,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[ComputationEfficientDeepLearning]]
 [[Course_Based_FPGA_Projects]]
+[[DARPA_ERI]]
 [[DARPA_ERI_Program]]
 [[Deep_Network_Architecture_Invariant]]
 [[Deep_Network_Layer_Stacking]]

@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[AI_Faculty_Forum_2026]]
+[[Analog_Weight_Storage]]
 [[Attention_Residuals]]
 [[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
@@ -50,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
 [[SDDE_Attractor_Emergence]]
+[[SDI_Bond]]
 [[SDI_TCC_iNEST_Interconnect]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
@@ -58,9 +60,12 @@ Auto-extracted concept from raw material compilation.
 [[Spatiotemporal_Synergy]]
 [[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]
+[[TCC]]
+[[TCC_iNEST_Interconnect]]
 [[Textbook_Paradigm_Definition]]
 [[emerging CMOS memristor]]
 [[iNEST]]
+[[iNEST_Interconnect]]
 [[神经网络]]
 
 ## Sources

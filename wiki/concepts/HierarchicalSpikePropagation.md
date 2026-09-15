@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration]]
 [[Chiplet_Integration_Route]]
 [[CollectiveDynamics]]
+[[CompetitiveProgramDynamics]]
 [[Complex_Network_Class_Brain_Computing]]
 [[Complex_System_Theory]]
 [[Environmental_Capability_Context]]

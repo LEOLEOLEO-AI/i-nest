@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[CoPackagedOptics]]
 [[Complex_System_Theory]]
 [[ComputeRelocationOverhead]]
+[[Compute_In_Memory_Neuromorphic]]
 [[Deep_Thermalisation]]
 [[EdgeIoTEnergyAwareness]]
 [[GraphBasedSemanticRouting]]

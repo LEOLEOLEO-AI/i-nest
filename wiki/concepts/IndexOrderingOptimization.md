@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
 [[AIRA_NeuralArchSearch]]
 [[AI_Faculty_Forum_2026]]
 [[Allreduce_Latency_Benchmark]]
@@ -62,6 +63,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
 [[Yann LeCun：发现智能原理是AI的终极问题]]
+[[chiplet interconnect]]
 [[向大脑学习智能本质，探索通用 AI 的另一条可行路径]]
 [[智能涌现]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]

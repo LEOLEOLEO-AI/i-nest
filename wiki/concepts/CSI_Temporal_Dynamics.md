@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[ReservoirDynamics]]
 [[Reservoir_Computing]]
+[[RunawayAvalanche]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 

@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicObserverArchitecture]]
 [[Neuromorphic_Computing]]
 [[NonHermitianSpectralCorrelations]]
+[[ProjectiveMeasurementFeedback]]
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SDI_STDP_Fusion]]

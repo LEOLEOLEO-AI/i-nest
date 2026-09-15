@@ -63,6 +63,7 @@ Auto-extracted concept from raw material compilation.
 [[ProbabilityDistributionAnalysis]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SOC]]
+[[ScalingBehaviourDeviations]]
 [[catastrophic forgetting]]
 [[iNEST]]
 [[涌现]]

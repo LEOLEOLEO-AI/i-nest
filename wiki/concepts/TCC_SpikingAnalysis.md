@@ -48,6 +48,8 @@ Auto-extracted concept from raw material compilation.
 [[RecurrentOscillatoryComputation]]
 [[RecursiveSelfReferentialArchitecture]]
 [[ScalableNeuromorphicTopology]]
+[[SelfOrganizedOscillatoryLearning]]
+[[Spiking neural network]]
 [[SpikingNeuralNetworkTopologyMapping]]
 [[SpikingNeuralNetworkTopology]]
 [[SpikingNeuralNetwork]]

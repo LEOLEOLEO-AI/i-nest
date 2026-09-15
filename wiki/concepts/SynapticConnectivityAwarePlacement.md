@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Edge_Neuromorphic_Compute]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
+[[Emergent_Order_Deep_Belief_Networks]]
 [[FPGA_Neuromorphic_Architectures]]
 [[InputAdaptiveComputation]]
 [[Intelligence_Emergence]]

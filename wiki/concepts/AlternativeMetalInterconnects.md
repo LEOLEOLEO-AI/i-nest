@@ -19,10 +19,12 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
 [[11_SDI节点接口规范与化合键定义_dup]]
 [[3D_IC_Stacking]]
 [[3d]]
 [[AI_Faculty_Forum_2026]]
+[[Advanced_Packaging]]
 [[Allreduce_Latency_Benchmark]]
 [[Allreduce_Latency_Probe]]
 [[AnomalousSpinTransport]]
@@ -30,7 +32,6 @@ Auto-extracted concept from raw material compilation.
 [[ChipletRoutingFabric]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
 [[Heterogeneous_Integration]]
 [[IndexOrderingOptimization]]
 [[InkjetPrintedElectrochemicalSensors]]
@@ -43,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[ModelOptimization]]
 [[ModularityDepthInteraction]]
 [[Network_Topology_Design]]
+[[Neuromorphic_Computing]]
 [[PinAssignmentOptimization]]
 [[QuantumKernelMethods]]
 [[SDI_Bond]]
@@ -64,7 +66,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
 [[Yann LeCun：发现智能原理是AI的终极问题]]
-[[advanced packaging]]
+[[chiplet interconnect]]
 [[向大脑学习智能本质，探索通用 AI 的另一条可行路径]]
 [[智能涌现]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]

@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[DisorderAwareDetection]]
 [[DisorderFreeAnomalousTransport]]
 [[DisorderInducedLocalization]]
+[[DisorderedQuasiperiodicPotential]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]

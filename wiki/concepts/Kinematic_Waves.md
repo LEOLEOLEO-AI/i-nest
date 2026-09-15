@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[DisorderedNetworkInterconnect]]
 [[DistributedEventConditionDesign]]
 [[EventDrivenTracking]]
+[[GraphBasedSemanticRouting]]
 [[InInterconnectMemory]]
 [[Independent_AI_Player_Endgame]]
 [[Intelligence_Emergence]]

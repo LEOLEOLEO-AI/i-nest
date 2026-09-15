@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[STDP_Topology]]
 [[STDP_iNEST]]
+[[SpikeCodingGradient]]
 [[Spike_Timing_Dependent_Plasticity]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

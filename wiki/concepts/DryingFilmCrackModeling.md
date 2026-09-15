@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Entropy_Connectivity_Path]]
 [[FixedOverheadCost]]
 [[Fixed_Cost_Dominance]]
+[[GCML_Cognitive_Map]]
 [[Gut_Brain_Immune_Network]]
 [[HippocampalNeocorticalIntelligence]]
 [[Intelligence_Emergence]]
@@ -43,7 +44,6 @@ Auto-extracted concept from raw material compilation.
 [[NestedRepresentation]]
 [[Network_Specific_Embedding_Separation]]
 [[Neuromorphic_Computing]]
-[[Neuromorphic_Interconnect]]
 [[NonEquilibrium_CorticalDynamics]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]
@@ -62,6 +62,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect_Memristor]]
 [[Wafer_Scale_Neuromorphic]]
 [[iNEST]]
+[[neuromorphic interconnect]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
+[[Emergent_Order_Deep_Belief_Networks]]
 [[FPGABasedNeuromorphic]]
 [[FPGASpikeImplementation]]
 [[FPGA_Neuromorphic_Acceleration]]

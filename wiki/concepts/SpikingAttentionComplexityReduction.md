@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[Event_Driven_Architecture]]
+[[Field_Compression_for_InNetwork_Inference]]
 [[HippocampalNeocorticalIntelligence]]
 [[In_Package_Neuromorphic_Integration]]
 [[Intelligence_Emergence]]

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[End_Side_Neuromorphic_Deployment]]
 [[EventBasedAnalogFrontEnd]]
 [[EventDrivenAttentionMechanism]]
+[[EventDrivenSensoryEncoding]]
 [[Event_Driven_Architecture]]
 [[InputAdaptiveComputation]]
 [[Memory_Wall]]

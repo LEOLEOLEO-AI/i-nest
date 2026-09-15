@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[ExplosiveTransitionThreshold]]
 [[HardwareAware_DesignSpace]]
 [[Hardware_Accelerated_SNN]]
+[[HighTemporalResolutionSensing]]
 [[Intelligence_Emergence]]
 [[Memristor]]
 [[Memristor_Synapse]]

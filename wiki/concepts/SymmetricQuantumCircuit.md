@@ -59,9 +59,11 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[STDP_Plasticity]]
 [[SelfHealing_Interconnect]]
+[[SpaceToUndersea_ResilientComms]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[Topology_Aware_NoC_Routing]]
+[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

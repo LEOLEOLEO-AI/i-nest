@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[11_SDI节点接口规范与化合键定义_dup]]
 [[AI_Faculty_Forum_2026]]
 [[BeyondVonNeumannArchitecture]]
+[[BigBrainCellularAxis]]
 [[CMOS_Memristor_Devices]]
 [[Complex_System_Theory]]
 [[CrossDomain_Integration]]

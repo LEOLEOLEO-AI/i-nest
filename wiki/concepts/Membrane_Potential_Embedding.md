@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveAsymmetricSurrogateGradient]]
 [[AdaptiveAsymmetricSurrogateGradients]]
 [[AdaptiveDeltaPulseFrequencyEncoding]]
+[[AdaptiveFlexibilityThreshold]]
 [[AdaptiveFrequencyResonateAndFire]]
 [[AdaptiveTimeStepTraining]]
 [[Adaptive_Deep_Brain_Stimulation]]

@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[GenerativeTopologyModels]]
 [[Intelligence_Emergence]]
 [[InterconnectAwareFaultTolerance]]
+[[InterconnectAwareModelOrderReduction]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]

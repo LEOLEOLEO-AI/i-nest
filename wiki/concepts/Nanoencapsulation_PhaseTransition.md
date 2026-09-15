@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[FlexibilityThreshold]]
 [[GradientBasedSpikeLearning]]
 [[HierarchicalReservoirDynamics]]
+[[MembranePotentialModulation]]
 [[MemristiveSynapticFatigue]]
 [[Meta_Residual_Learning]]
 [[Network_Topology_Design]]

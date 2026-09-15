@@ -29,8 +29,10 @@ Auto-extracted concept from raw material compilation.
 [[EventBasedBioSignalFrontEnd]]
 [[EventDriven_Edge_Perception]]
 [[Event_Driven_Architecture]]
+[[Event_Driven_Spike_Communication]]
 [[Neuromorphic_Computing]]
 [[SNN]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

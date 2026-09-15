@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Critical_Region_Extension]]
 [[CrossLingualIdiomGraph]]
 [[DiluteDipolarNetwork]]
+[[EmergentSwarmTopology]]
 [[FractalLabyrinthTopology]]
 [[GraphIsomorphismNetworks_EdgeFeatures]]
 [[GraphTopologyAnalysis]]

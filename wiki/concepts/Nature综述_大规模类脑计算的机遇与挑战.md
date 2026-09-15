@@ -45,6 +45,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Self_Organized_Criticality]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[Topological_Recurrent_Feedback_Loops]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
 [[conflict-files-obsidian-git]]

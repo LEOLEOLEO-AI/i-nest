@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Topology_Mapping]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Topology]]
+[[Memristor_Interconnect]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Plastic_Network]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

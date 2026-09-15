@@ -34,9 +34,15 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Interconnect]]
+[[SDI_Bond]]
+[[SDI_iNEST]]
 [[SDI_iNEST_Platform]]
+[[SDI_iNEST_Wafer]]
 [[TCC]]
+[[Wafer_Interconnect]]
 [[Wafer_Scale_Integration]]
+[[iNEST]]
+[[neuromorphic interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

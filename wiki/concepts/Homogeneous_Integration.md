@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN动力学]]
 [[AdaptiveDensityControl]]
 [[Complex_System_Theory]]
+[[DendriticReservoirState]]
 [[Intelligence_Emergence]]
 [[Interconnect_Bottleneck]]
 [[Network_Topology_Design]]

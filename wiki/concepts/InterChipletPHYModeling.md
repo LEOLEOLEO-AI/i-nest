@@ -68,6 +68,8 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[Topological_State_Encoding]]
 [[Topology_Aware_NoC_Routing]]
+[[Wafer_Scale_Interconnect_Memristor]]
+[[chiplet interconnect]]
 [[complex system]]
 [[iNEST]]
 [[智能涌现]]

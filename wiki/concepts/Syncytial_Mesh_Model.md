@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AnomalousSpinTransport]]
 [[Avoided_Criticality]]
 [[BigBrainCellularAxis]]
+[[BioPlausibleDisturbanceObserver]]
 [[BrainBodyResonance]]
 [[BrownianCastleInterface]]
 [[BrownianCastleInterfaces]]

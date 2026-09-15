@@ -66,10 +66,12 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TemporalComplexity]]
 [[ThirdWaveAI]]
+[[ThreeLayerArchitecture]]
 [[TopologyCentricPrimitiveSystem]]
 [[WaferScaleCoDesign]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

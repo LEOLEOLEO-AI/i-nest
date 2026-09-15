@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[Complex_System_Theory]]
 [[FPGA_Neuromorphic_Architectures]]
+[[Fixed_Cost_Dominance]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

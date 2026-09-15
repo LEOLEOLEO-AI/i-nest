@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[FreeFermionTopologicalInvariant]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[In_Network_Collective_Execution]]
+[[InputAdaptiveComputation]]
 [[Interconnect_Routing]]
 [[Local_Approximation_Dynamics]]
 [[LowRankPerturbation]]

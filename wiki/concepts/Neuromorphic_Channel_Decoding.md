@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Continuous_Control_Spike_Timing_Sensitivity]]
 [[CooperativeEmergenceThreshold]]
 [[CooperativeEmergence]]
+[[CorticalWaveRouting]]
 [[DevelopmentalNeuromorphicAdaptation]]
 [[FirstPrinciples_Derivation]]
 [[FixedOverheadCost]]
@@ -52,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI节点接口规范与化合键定义]]
 [[SNN]]
 [[SNN_Sparsity_InformationBound]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[神经网络]]
 

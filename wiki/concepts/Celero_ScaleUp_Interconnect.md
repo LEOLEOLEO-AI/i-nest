@@ -1,0 +1,38 @@
+---
+title: "Celero_ScaleUp_Interconnect"
+type: concept
+domain: TCC
+created: 2026-09-10
+auto: true
+---
+
+# Celero_ScaleUp_Interconnect
+
+**Domain**: TCC
+**First mentioned**: auto-extracted
+**Last updated**: 2026-09-10
+
+## Definition
+Celero's commercial optical interconnect solution for GPU-to-GPU scale-up fabrics, likely supporting switchless high-radix topologies in AI data centers. It represents an industry deployment of extreme-radix interconnects, giving TCC concrete constraints and performance targets for topology analysis.
+
+## Context
+Auto-extracted concept from raw material compilation.
+
+## Related Work
+
+[[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
+[[1024_Card_SuperNode]]
+[[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
+[[11_SDI节点接口规范与化合键定义_dup]]
+[[3DIntegratedPhotonicPackaging]]
+[[3D_Integrated_Chiplet_Stacking]]
+[[3D_Integration]]
+[[3D_Torus_6_Degree]]
+[[Network_Topology_Design]]
+[[TCC]]
+
+## Sources
+- See wiki/articles/ for source article summaries
+
+## Open Questions
+- *(Explore connections to other concepts)*

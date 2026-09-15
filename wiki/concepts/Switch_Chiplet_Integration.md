@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[AndersonTransition]]
 [[ArbitraryWavefunctionConfigurability]]
 [[Architectural_Conditioning]]
+[[Beyond_Moore_Pathway]]
 [[Bipartite_Interconnect]]
 [[Bipartite_Interconnect_Fabric]]
 [[CST_Spatiotemporal_Complexity]]

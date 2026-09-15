@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Differential_Encoding]]
 [[FreeEnergyMinimization]]
 [[GateModelQuantumOptimization]]
+[[GraphTopologyMetrics]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]

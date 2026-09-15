@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Driven_Architecture_Search]]
 [[AI_Driven_Power_Density_Scaling]]
 [[ActionPrototypeClustering]]
+[[Active_Inference_Agent]]
 [[Activity_Dependent_Plasticity]]
 [[AnytimePointCloudRecognition]]
 [[BackflowTransformation]]

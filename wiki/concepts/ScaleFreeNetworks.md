@@ -15,6 +15,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
 [[AI_Faculty_Forum_2026]]
 [[ANN动力学]]
 [[Analog_Weight_Storage]]
@@ -85,10 +86,13 @@ Auto-extracted concept from raw material compilation.
 [[TemporalComplexity]]
 [[TopologyFragility]]
 [[UniversalIntelligence_Emergence]]
+[[Wafer_Interconnect]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
+[[Wafer_Scale_Neuromorphic]]
 [[Wafer_Scale_Neuromorphic_Integration]]
+[[chiplet interconnect]]
 [[complex system]]
 [[iNEST]]
 [[residual connection]]

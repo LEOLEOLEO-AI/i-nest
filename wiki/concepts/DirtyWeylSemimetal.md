@@ -56,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[OpportunisticRouting]]
 [[RecursiveSelfReferentialArchitecture]]
 [[StochasticMultiAgentRL]]
+[[SynergisticRemediationPathway]]
 [[TopologicalAndersonChernInsulator]]
 [[Topology_Neuromorphic_Bridge]]
 [[iNEST]]

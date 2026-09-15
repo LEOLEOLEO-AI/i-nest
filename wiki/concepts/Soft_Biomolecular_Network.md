@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[CompetitiveEdgeRewiring]]
 [[Complex_System_Theory]]
 [[ConceptualNetworkEmbedding]]
+[[Connectome_Transfer]]
 [[EmulationTheoryObserver]]
 [[FlexibilityThreshold]]
 [[Intelligence_Emergence]]

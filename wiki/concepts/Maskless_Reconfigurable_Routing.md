@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
+[[CommunicationAwareComputeRelocation]]
 [[CorticalTypeDiversity]]
 [[DTGA]]
 [[Free_Energy_Topology_Mapping]]
@@ -43,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[System_Level_Utility_Control]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
+[[chiplet interconnect]]
 [[topology reconfiguration]]
 
 ## Sources

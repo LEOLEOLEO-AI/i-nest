@@ -70,3 +70,21 @@
 [06:50:06] [Genspark] Research brief written: genspark_research_brief.md
 [06:50:06] [Graph] Scanning wiki links...
 [06:51:11] [Graph] 12816 files, 263492 links
+[06:56:08] [Graph] Exported: 12816 nodes, 260046 edges
+[06:56:09] [Graph] 0 missing backlinks
+[06:56:30] [DailyGen] Daily_Action + Focus + Insights generated
+[06:56:30] [Review] Research task proposals refreshed
+
+============================================================
+  Pipeline v3.3 Complete
+  Sources: 0(S2)+2(arXiv)+0(GN) | Written: 2 new papers
+  Processed: 0 | Nodes: 12816 edges: 260046 | Missing links: 0 | Genspark: OK
+  Elapsed: 635s
+============================================================
+[06:56:32] [State] research_state.json updated
+[06:56:33] [Evolution] Evidence + hypotheses updated
+[06:57:33] [Wiki] Warning: Command '['C:\\Users\\LEO\\AppData\\Local\\Programs\\Python\\Python310\\python.exe', 'D:\\Obsidian\\vault\\90_System\\scripts\\wiki_compiler.py']' timed out after 60 seconds
+[06:57:34] [Insight] Cross-domain bridges updated
+[06:58:50] [Tasks] Research recommendations updated
+[06:58:51] [Dashboard] Live dashboard published
+[06:58:52] [Homepage] Home.md auto-refreshed

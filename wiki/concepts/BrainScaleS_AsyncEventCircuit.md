@@ -22,7 +22,9 @@ Auto-extracted concept from raw material compilation.
 
 [[Autonomous_Spiking_Dynamics]]
 [[Avoided_Criticality]]
+[[Criticality]]
 [[EnergyProportionalityCeiling]]
+[[EventBasedMotionDeblurring]]
 [[EventDrivenDefenseMechanism]]
 [[EventDrivenMatrixUpdate]]
 [[Event_Driven_Architecture]]
@@ -34,6 +36,8 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[SNN]]
 [[ST_SNN]]
+[[Self_Organized_Criticality]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]

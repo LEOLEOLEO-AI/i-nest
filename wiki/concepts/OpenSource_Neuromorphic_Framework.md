@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[PerturbationSpaceTrajectory]]
 [[PhaseLockedTopologyMapping]]
+[[Real_Time_Neuromorphic_Constraint_Satisfaction]]
 [[Recurrent_Network_Homeostasis]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]

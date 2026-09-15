@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Thermalisation]]
 [[FreeFermionTopologicalInvariant]]
 [[GraphBasedSemanticRouting]]
+[[InNetworkRadarProcessing]]
 [[Intelligent_Computing_Infrastructure]]
 [[Interconnect_Routing]]
 [[Kinematic_Waves]]

@@ -78,6 +78,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Four_Rules]]
 [[SDI_TCC_Chiplet]]
 [[STDP_Plasticity]]
+[[SingleSourceOfTruthMetric]]
 [[Spacetime_Coupling_Coefficient]]
 [[SpatiotemporalComplexityIndex]]
 [[Spatiotemporal_Synergy]]
@@ -86,6 +87,8 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TemperatureSensitivityControl]]
 [[TemporalComplexity]]
+[[Wafer_Interconnect]]
+[[chiplet interconnect]]
 [[complex system]]
 [[residual connection]]
 

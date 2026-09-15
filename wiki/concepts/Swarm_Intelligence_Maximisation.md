@@ -57,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[SDPrompt_Guided_Dynamic_Expert_Fusion]]
 [[Swarm_Adaptive_Topology]]
 [[Synaptic_Plasticity]]
+[[SynchronizationAttractorBasin]]
 [[TCC]]
 [[TCC_Neuromorphic_Integration]]
 [[Wafer_Scale_Integration]]

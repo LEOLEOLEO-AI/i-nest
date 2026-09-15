@@ -56,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_DeviceNonlinearity]]
+[[RestrictedConnectivityTopology]]
 [[TCC]]
 [[analog computation]]
 [[complex system]]

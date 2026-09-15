@@ -26,7 +26,6 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]
 [[Chiplet_Integration_Route]]
-[[Chiplet_Interconnect]]
 [[ConsciousnessEngineeringLoop]]
 [[Environmental_Capability_Context]]
 [[FatalityDrivenRewiring]]
@@ -45,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[MobilityEdge]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
+[[Neuromorphic_Computing]]
 [[NoC]]
 [[NoC_SDI]]
 [[PacketRoutingOptimization]]
@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Architecture]]
 [[STDP_Plasticity]]
 [[SparseTemporalEncoding]]
+[[SpikeCommunicationCost]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]
@@ -62,6 +63,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
 [[Wafer_Scale_Neuromorphic]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[BCM滑动阈值]]
 [[Biocompatible_Neuromorphic_Interface]]
 [[CST计量仪]]
+[[CertifiedBifurcationDetection]]
 [[Complex_System_Theory]]
 [[Confinement]]
 [[Intelligence_Emergence]]

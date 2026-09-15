@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration]]
 [[Chiplet_Stacking]]
 [[Critical_Region_Extension]]
+[[CrossDomain_Integration]]
 [[DARPA_ProjectManager_Model]]
 [[DynamicProgrammingRecycling]]
 [[EdgeIoTEnergyAwareness]]
@@ -64,7 +65,6 @@ Auto-extracted concept from raw material compilation.
 [[TemporalFeatureProjection]]
 [[TopologicalAndersonChernInsulator]]
 [[Topological_Semantic_Flow]]
-[[advanced packaging]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

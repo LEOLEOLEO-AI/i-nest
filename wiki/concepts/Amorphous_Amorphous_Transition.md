@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[MetaFAIR_ArchitectureDiscovery]]
 [[MinimalNetworkModel]]
 [[National_Innovation_Center_Role]]
+[[NeuromorphicLocomotionPrimitive]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[SDI_Bond]]

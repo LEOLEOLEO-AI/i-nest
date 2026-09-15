@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[EnsembleSparsity]]
+[[Gut_Brain_Immune_Network]]
 [[Hardware_Accelerated_SNN]]
 [[InNetworkAgentRewiring]]
 [[In_Network_Neuromorphic]]

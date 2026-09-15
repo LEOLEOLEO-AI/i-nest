@@ -991,6 +991,188 @@
         "source_path": "00_Inbox\\_pipeline_insights\\2026-09-08_arXiv_Quantum-State Texture Dynamics Theory and Experiment.md"
       },
       "cached_at": "2026-09-08T06:56:30"
+    },
+    "927aabcf9a3e74fd15039db91076aed61a9d76262afba7e725cfc51958857fc9": {
+      "analysis": {
+        "id": 1,
+        "title_zh": "Autonomous Chaotic Time Series Prediction using Physical Neuromorphic Networks",
+        "tcc_value": "",
+        "inest_value": "关键词匹配,需深入阅读",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 5,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-09-09_arXiv_Autonomous Chaotic Time Series Prediction using Physical Neu.md"
+      },
+      "cached_at": "2026-09-09T12:07:40"
+    },
+    "0e158c88d1e9eaf76695ef4d82fa34a0323fb21c2fcace29c8e4692a8bb3537d": {
+      "analysis": {
+        "id": 2,
+        "title_zh": "A Gradient-based yet Spike-Timing-Dependent Solution to the Feedback Learning Pr",
+        "tcc_value": "",
+        "inest_value": "关键词匹配,需深入阅读",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 5,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-09-09_arXiv_A Gradient-based yet Spike-Timing-Dependent Solution to the .md"
+      },
+      "cached_at": "2026-09-09T12:07:40"
+    },
+    "f426160767e7b9f13bf68547a6b2edfde679c767726fcd0083d18493f536efe6": {
+      "analysis": {
+        "id": 3,
+        "title_zh": "Limit Cycles in a Photonic Dimer with Tuneable Non-Hermitian Interactions",
+        "tcc_value": "",
+        "inest_value": "关键词匹配,需深入阅读",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 5,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-09-09_arXiv_Limit Cycles in a Photonic Dimer with Tuneable Non-Hermitian.md"
+      },
+      "cached_at": "2026-09-09T12:07:40"
+    },
+    "0a6abcc967cd01b76baefc3886303e85be9fe002e65ce1e4eb4dac5d755cfd58": {
+      "analysis": {
+        "id": 4,
+        "title_zh": "FlexSpIM: An Event-Based Digital Compute-In-Memory Accelerator with Flexible Ope",
+        "tcc_value": "",
+        "inest_value": "关键词匹配,需深入阅读",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 5,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-09-09_arXiv_FlexSpIM An Event-Based Digital Compute-In-Memory Accelerato.md"
+      },
+      "cached_at": "2026-09-09T12:07:40"
+    },
+    "68aa12be98f90d1c3fc6211cd0d1b1d92b56372af7207e52f8fb153389288ab8": {
+      "analysis": {
+        "id": 5,
+        "title_zh": "Determinants of hyperparameter robustness in connectome reservoir computing",
+        "tcc_value": "",
+        "inest_value": "关键词匹配,需深入阅读",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 4,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-09-09_arXiv_Determinants of hyperparameter robustness in connectome rese.md"
+      },
+      "cached_at": "2026-09-09T12:07:40"
+    },
+    "e3ad66ede3a55a839f74149c8825319552df1a5bce9afe1fb8fa0de89388a29d": {
+      "analysis": {
+        "id": 6,
+        "title_zh": "Phase oscillator networks with multiple and state-dependent delays: A framework ",
+        "tcc_value": "",
+        "inest_value": "关键词匹配,需深入阅读",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 2,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-09-09_arXiv_Phase oscillator networks with multiple and state-dependent .md"
+      },
+      "cached_at": "2026-09-09T12:07:40"
+    },
+    "d23b8a5e24a8aaaba4753494b1edf181a856f19f9972ccded6409afdf38c73b9": {
+      "analysis": {
+        "id": 1,
+        "title_zh": "Dual-unitary Circuits as a Platform for Quantum Reservoir Computing",
+        "tcc_value": "",
+        "inest_value": "关键词匹配,需深入阅读",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 5,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-09-10_arXiv_Dual-unitary Circuits as a Platform for Quantum Reservoir Co.md"
+      },
+      "cached_at": "2026-09-10T16:08:06"
+    },
+    "52d476713861c68282b514521cd53940c17c609e4a2b715be9f331b049fe27c9": {
+      "analysis": {
+        "id": 2,
+        "title_zh": "Energy pathway variety and the progress of the energy transition in European cou",
+        "tcc_value": "",
+        "inest_value": "关键词匹配,需深入阅读",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 2,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-09-10_arXiv_Energy pathway variety and the progress of the energy transi.md"
+      },
+      "cached_at": "2026-09-10T16:08:06"
+    },
+    "d3611c3608d56f0aa15c972c1f95722b4355a508806410839409c02a3b71d873": {
+      "analysis": {
+        "id": 1,
+        "title_zh": "A Time-Based Readout for Vector-Matrix Multiplication in Fully Analog Memristive",
+        "tcc_value": "",
+        "inest_value": "关键词匹配,需深入阅读",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 5,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-09-11_arXiv_A Time-Based Readout for Vector-Matrix Multiplication in Ful.md"
+      },
+      "cached_at": "2026-09-11T14:27:53"
+    },
+    "64b53e82f0d6ee5bb14e6e6f5bca60eb2b44fb862cc551320847ed8d01881e7b": {
+      "analysis": {
+        "id": 2,
+        "title_zh": "Polyhedral Geometry of Time-to-First-Spike Neural Networks",
+        "tcc_value": "",
+        "inest_value": "关键词匹配,需深入阅读",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 5,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-09-11_arXiv_Polyhedral Geometry of Time-to-First-Spike Neural Networks.md"
+      },
+      "cached_at": "2026-09-11T14:27:53"
+    },
+    "a50dfeb378a1d286b99d136060869473263e1050c9fed95333e3ab397c3e3cb7": {
+      "analysis": {
+        "id": 3,
+        "title_zh": "Coherent Floquet quantum reservoirs for molecular property prediction",
+        "tcc_value": "",
+        "inest_value": "关键词匹配,需深入阅读",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 5,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-09-11_arXiv_Coherent Floquet quantum reservoirs for molecular property p.md"
+      },
+      "cached_at": "2026-09-11T14:27:53"
+    },
+    "a990339c165e5ff76999d23c400b6eedb102efbb670a1acb973fb94fbac56901": {
+      "analysis": {
+        "id": 4,
+        "title_zh": "A Chip-scale Space-time Multiplexed Gaussian Boson Sampling Processor Beyond 10,",
+        "tcc_value": "关键词匹配,需深入阅读",
+        "inest_value": "",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 5,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-09-11_arXiv_A Chip-scale Space-time Multiplexed Gaussian Boson Sampling .md"
+      },
+      "cached_at": "2026-09-11T14:27:53"
+    },
+    "6436f8fe84618e03bf9a869f461fd7b6fbe5ba73caf38217a262130b42251f3b": {
+      "analysis": {
+        "id": 5,
+        "title_zh": "CausalArena: Benchmarking Causal Discovery in the Foundation Model Era",
+        "tcc_value": "",
+        "inest_value": "关键词匹配,需深入阅读",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 4,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-09-11_arXiv_CausalArena Benchmarking Causal Discovery in the Foundation .md"
+      },
+      "cached_at": "2026-09-11T14:27:53"
+    },
+    "a0a85538e0f19496161da6700235f698b7c04b370ce998464d53edd3df71d4c5": {
+      "analysis": {
+        "id": 6,
+        "title_zh": "Cortical information transfer reveals conserved hemispherical network dynamics a",
+        "tcc_value": "",
+        "inest_value": "关键词匹配,需深入阅读",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 3,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-09-11_arXiv_Cortical information transfer reveals conserved hemispherica.md"
+      },
+      "cached_at": "2026-09-11T14:27:53"
     }
   }
 }

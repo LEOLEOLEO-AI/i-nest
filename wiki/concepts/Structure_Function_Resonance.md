@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[BayesianDomainEvolution]]
 [[BehavioralFeedbackLoop]]
 [[CST_Spatiotemporal_Complexity]]
+[[CST_SynergisticCoordination]]
 [[Complex_System_Theory]]
 [[Emergent_Intelligence]]
 [[Intelligence_Emergence]]

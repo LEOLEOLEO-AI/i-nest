@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[ProjectiveMeasurementRouting]]
 [[PropertyPredictionModeling]]
+[[ReconfigurableSpikingRouting]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Resilient_Satellite_Constellations]]
 [[SNN]]

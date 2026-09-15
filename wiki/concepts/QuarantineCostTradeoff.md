@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Distributed_Spike_Communication]]
 [[Environmental_Capability_Context]]
 [[EventDriven_Interconnect]]
+[[FixedOverheadPenalty]]
 [[Heterogeneous_Integration]]
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]

@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[ElectromigrationReliability]]
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
+[[GPU_Bottleneck_Relief]]
 [[GenerativeTopologyModels]]
 [[HardwareAware_SelfOrganization]]
 [[Heterogeneous_Inference_Division]]
@@ -72,7 +73,7 @@ Auto-extracted concept from raw material compilation.
 [[SelfOrganization]]
 [[Spatiotemporal_Synergy]]
 [[Synaptic_Plasticity]]
-[[advanced packaging]]
+[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

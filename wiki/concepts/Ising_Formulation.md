@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[FractionalStatisticsPreservation]]
 [[In_Network_Redundancy_Management]]
 [[Intelligence_Emergence]]
+[[IntelligentInspectionPipeline]]
 [[Network_Topology_Design]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]

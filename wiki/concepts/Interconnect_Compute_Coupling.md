@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Reconfigurability]]
 [[FatalityDrivenRewiring]]
 [[Heterogeneous_Integration]]
+[[Inference_Workload_Profiling]]
 [[Interconnect_Routing]]
 [[Network_on_Chip]]
 [[NoC]]

@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Hypersonic_Systems_Research]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]
+[[MicrobiomeImmuneMetabolicCrosstalk]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]

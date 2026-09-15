@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AlternativeBridgingModels]]
 [[Amorphous_Amorphous_Transition]]
 [[AnomalousSpinTransport]]
+[[AutonomousAdaptation]]
 [[BehaviorAlignedQuantization]]
 [[BrainActivityPrediction]]
 [[CombinedImportanceScoring]]

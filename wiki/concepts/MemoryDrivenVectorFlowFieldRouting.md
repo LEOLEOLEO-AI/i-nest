@@ -33,6 +33,8 @@ Auto-extracted concept from raw material compilation.
 [[FreeFermionTopologicalInvariant]]
 [[FunctionalBrainGraphEmbedding]]
 [[GraphBasedSemanticRouting]]
+[[InNetworkRadarProcessing]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[MatrixShapePhaseTransition]]
 [[MemoryDrivenInterconnect]]

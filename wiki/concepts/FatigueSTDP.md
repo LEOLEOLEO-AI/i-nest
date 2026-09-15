@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[DiscreteSTDP]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
+[[HardwareAware_DesignSpace]]
 [[HighTemporalResolutionSensing]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]

@@ -54,7 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[SOC]]
 [[StorageCompute_SeparationBottleneck]]
 [[StorageCompute_Separation]]
-[[advanced packaging]]
+[[TopologicalDataCompression]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

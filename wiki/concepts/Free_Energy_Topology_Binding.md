@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[EntanglementFidelityBudgeting]]
 [[Fluidic_Hysterons]]
 [[FreeEnergyMinimization]]
+[[FreeFermion_Topological_Classification]]
 [[FunctionalMemoryTopology]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[CavityMethodAnalysis]]
 [[CriticalityDrivenStateTransition]]
+[[CriticalityOffCriticalityTransition]]
 [[Criticality]]
 [[FatalityDrivenRewiring]]
 [[FunctionalRelevanceDrivenSelfOrganization]]

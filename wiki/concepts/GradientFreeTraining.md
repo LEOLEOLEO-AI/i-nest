@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
+[[DARPA_ERI_2_0_Framework]]
 [[Deep_Network_Architecture_Invariant]]
 [[Deep_Thermalisation]]
 [[Dynamic_Expert_Fusion]]

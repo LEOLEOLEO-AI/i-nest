@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CoDesigned_SNN]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
+[[ContinualLearningOnNeuromorphic]]
 [[Continuous_Control_Spiking_Stability]]
 [[Criticality]]
 [[CrossEntityPreemptiveWarning]]

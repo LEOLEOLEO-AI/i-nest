@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[ConformalFieldTheoryScaling]]
 [[EntanglementSignatures]]
 [[ExtensiveWidthInterpolation]]
+[[GeometricRegularizationLoss]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[ReputationPropagation]]

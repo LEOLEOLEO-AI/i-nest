@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Network_Architecture_Invariant]]
 [[EquilibriumTreePacking]]
 [[Heterogeneous_Integration]]
+[[Independent_EdgeAI_Player_Endgame]]
 [[IndexOrderingOptimization]]
 [[Interconnect_Routing]]
 [[Memristor]]
@@ -58,7 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[Spatiotemporal_Synergy]]
 [[TCC]]
 [[WaferScale_Chiplet_Interconnect]]
-[[advanced packaging]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

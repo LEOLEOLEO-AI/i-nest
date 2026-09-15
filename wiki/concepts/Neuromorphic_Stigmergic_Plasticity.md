@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[OnChipWeightUpdate]]
 [[On_Chip_STDP_Learning]]
+[[OptimalRepresentations]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]

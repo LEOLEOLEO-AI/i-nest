@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[AI_Faculty_Forum_2026]]
+[[Active_Inference_Agent]]
 [[Analog_To_Information_Conversion]]
 [[AstrocyteInspiredRepair]]
 [[Attention_Residuals]]
@@ -41,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Crystallized_Neural_Manifolds]]
 [[InNetworkNeuromorphicSimulation]]
 [[InNetworkNeuromorphic]]
+[[In_Network_Neuromorphic]]
 [[Intelligence_Emergence]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Neuromorphic_Computing]]

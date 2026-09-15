@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Compute_In_Memory_Neuromorphic]]
 [[CrossDomain_Integration]]
 [[FPGA_NeuromorphicMapping]]
+[[Ferroelectric_ComputeInMemory]]
 [[Heterogeneous_Integration]]
 [[In_Memory_Computing]]
 [[In_Package_Neuromorphic_Integration]]

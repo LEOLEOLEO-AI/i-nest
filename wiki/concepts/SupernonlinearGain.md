@@ -31,10 +31,13 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Bottleneck]]
 [[Interconnect_Topology]]
 [[Mesoscale_Heterogeneous_Integration]]
+[[MetricComputationAuthenticity]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[TCC]]
+[[Wafer_Interconnect]]
 [[Wafer_Scale_Integration]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

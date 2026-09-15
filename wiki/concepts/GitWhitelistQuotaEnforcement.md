@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[RandomGraphQuantumChaos]]
 [[SixClassSkeletonAsRPrimitiveSpace]]
 [[TCC]]
+[[TopologicalFitnessLandscape]]
 [[TopologicalObservers]]
 [[TopologyCentricPrimitiveSet]]
 [[iNEST]]

@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Neuromorphic_Architectures]]
 [[Fixed_Cost_Dominance]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
+[[GutBrainAxis_Reprogramming]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[MachineLearningNanomaterialDiscovery]]

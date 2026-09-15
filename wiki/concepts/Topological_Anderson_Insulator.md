@@ -56,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[StretchablePhotonicInterconnect]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[Universal_Computation_Landscape]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

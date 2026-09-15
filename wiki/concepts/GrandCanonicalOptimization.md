@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[CircuitTopologyEncoding]]
 [[Complex_System_Theory]]
 [[ControlDrivenCriticalFluctuations]]
+[[ControlTheoreticTopology]]
 [[Critical_Region_Extension]]
 [[DelayPropagationDynamics]]
 [[Dynamic_Expert_Fusion]]

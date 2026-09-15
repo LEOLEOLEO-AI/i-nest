@@ -32,6 +32,8 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]
 [[DARPA_ProjectManager_Model]]
+[[Deep_Thermalisation]]
+[[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[TCC]]

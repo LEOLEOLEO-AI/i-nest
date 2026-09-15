@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Fading_Memory_Property]]
 [[FormalLinguisticCompetence]]
 [[Fractal_Wavefront_Scaling]]
+[[GNN图神经网络，非结构化数据分析利器！]]
 [[HierarchicalBayesianCommunityDetection]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

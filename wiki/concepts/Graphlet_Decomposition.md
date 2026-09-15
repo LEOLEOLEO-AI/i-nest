@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]
 [[CircuitTopologySearch]]
+[[Communication_Primitive_Generation_Theory]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]

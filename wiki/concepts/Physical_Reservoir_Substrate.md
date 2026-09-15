@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Complexity_Emergent_Intelligence]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Crystallized_Neural_Manifolds]]
+[[DeviceLevelNonlinearityScaling]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]

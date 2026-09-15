@@ -33,11 +33,13 @@ Auto-extracted concept from raw material compilation.
 [[DTGA]]
 [[Decoupling_Mechanism]]
 [[Free_Energy_Topology_Mapping]]
+[[GenerativeTopologyModels]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Topology]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[TCC]]
+[[chiplet interconnect]]
 [[iNEST]]
 
 ## Sources

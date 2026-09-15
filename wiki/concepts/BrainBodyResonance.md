@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet]]
 [[Chiplet_Based_Neuromorphic_Integration]]
 [[Chiplet_Heterogeneous_Integration]]
+[[ClosedLoopNeuromorphicControl]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[ConsciousIntegration]]
 [[DataDrivenCellularAxis]]

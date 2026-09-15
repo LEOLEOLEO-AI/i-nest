@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Associative_Retrieval]]
 [[AsymmetricTimeDelayedInteractions]]
 [[Asymmetric_Time_Delayed_Network_Dynamics]]
+[[AtomicGeometryToElectronicTopologyMapping]]
 [[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]
 [[Edge_Intelligence]]

@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[EndToEndDesignAutomationFlow]]
 [[EndToEndDesignAutomation]]
+[[Epithelial_Barrier_Integrity]]
 [[FunctionalInterfaceBlock]]
 [[Intelligence_Emergence]]
 [[Loihi2_OnChip_Learning]]

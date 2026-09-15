@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[KinematicWavePropagation]]
 [[LossSpikePhenomenon]]
+[[MembranePotentialModulation]]
 [[MixedLabyrinthFractal]]
 [[MixedSignalSNN_CoDesign]]
 [[Network_Topology_Design]]

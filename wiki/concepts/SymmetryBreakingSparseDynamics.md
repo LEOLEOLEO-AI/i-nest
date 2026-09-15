@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspired_Interception_Control]]
 [[BioPlausiblePredictiveCoding]]
 [[BurstGatedRouting]]
+[[ContinuousTimeSNN]]
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[CriticalStateInformationMaximization]]
 [[CriticalityDrivenStateTransition]]

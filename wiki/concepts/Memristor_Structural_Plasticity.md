@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[DTGA]]
 [[DynamicPlasticNetwork]]
 [[Dynamic_Topological_Bonding]]
+[[Emergent_Order_Deep_Belief_Networks]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]

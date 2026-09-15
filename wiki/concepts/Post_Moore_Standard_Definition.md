@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[EdgeAI_Market_Consolidation_Driver]]
 [[FlagOS_Interconnect_Topology]]
 [[Heterogeneous_Integration]]
+[[HypergraphNeuralDynamics]]
 [[In_Package_Interconnect_Trust]]
 [[Intelligence_Emergence]]
 [[Interconnect_Topology]]

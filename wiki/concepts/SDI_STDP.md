@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Processing]]
 [[Intelligence_Emergence]]
+[[MacroscopicDescriptor]]
 [[Memristive_ANN_Hardware]]
 [[Memristive_STDP]]
 [[Memristor]]

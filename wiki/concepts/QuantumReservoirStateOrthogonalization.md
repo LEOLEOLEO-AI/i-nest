@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[PhysicalReservoir]]
 [[QuantumGateSynthesis]]
 [[Quantum_Reservoir_Architecture]]
+[[Quantum_Reservoir_State]]
 [[RecursiveSelfReferentialArchitecture]]
 [[ReservoirDynamics]]
 [[ReservoirYieldMaximization]]
@@ -61,6 +62,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing_Branch_Prediction]]
 [[Reservoir_Computing_DP_Recycling]]
 [[SpectralStateEncoding]]
+[[TemporalFeatureDecorrelation]]
 [[iNEST]]
 
 ## Sources

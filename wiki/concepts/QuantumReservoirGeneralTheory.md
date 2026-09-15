@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[MeanFieldSpinGlass]]
 [[Memory_Technology_Coexistence]]
 [[MemristiveReservoirBranchPrediction]]
+[[MetricComputationAuthenticity]]
 [[QuantumReservoirMemoryCapacity]]
 [[ReservoirDynamics]]
 [[Reservoir_Computing]]

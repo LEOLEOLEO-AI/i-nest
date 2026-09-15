@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Synaptic_Motifs]]
 [[Hyper_Dimensional_Computing]]
 [[Intelligence_Emergence]]
+[[Memristor]]
 [[Memristor_Synapse]]
 [[NCL神经计算定律详解]]
 [[Network_Topology_Design]]
@@ -68,6 +69,7 @@ Auto-extracted concept from raw material compilation.
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

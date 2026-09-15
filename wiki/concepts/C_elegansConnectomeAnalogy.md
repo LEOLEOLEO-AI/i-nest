@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[PowerLawScalingClassification]]
 [[PowerLawScaling]]
 [[RecursiveSelfReferentialArchitecture]]
+[[RenormalizationGroupIntelligence]]
 [[Reservoir_Computing]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]

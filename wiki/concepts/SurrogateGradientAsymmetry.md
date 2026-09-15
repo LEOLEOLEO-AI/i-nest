@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[ActiveDendriteSNN]]
 [[AdaptiveDeltaPulseFrequencyEncoding]]
+[[AdaptiveFlexibilityThreshold]]
 [[BurstTemporalPlasticity]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]

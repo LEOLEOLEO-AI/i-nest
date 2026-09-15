@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AndersonTransition]]
 [[ArbitraryWavefunctionConfigurability]]
 [[AutonomousServiceNegotiation]]
+[[CST_Spatiotemporal_Complexity]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Heterogeneous_Integration]]

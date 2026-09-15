@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Agile_Resilient_Defense_Ecosystem]]
 [[AnomalousSpinTransport]]
 [[ArbitraryWavefunctionConfigurability]]
+[[Beyond_Moore_Pathway]]
 [[CSI_Temporal_Encoding]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]

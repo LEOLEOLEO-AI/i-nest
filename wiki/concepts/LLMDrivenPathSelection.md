@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[PhotonicSynapticPlasticity]]
 [[Receptron_Unit]]
+[[ReconfigurableSNN_Accelerator]]
 [[ReconfigurableSpikingRouting]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Resilient_Satellite_Mesh]]

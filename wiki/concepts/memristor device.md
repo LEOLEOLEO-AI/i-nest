@@ -50,6 +50,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[DistinctReentrantPhases]]
 [[Distributed_Spike_Communication]]
 [[Environmental_Capability_Context]]
+[[FixedOverheadPenalty]]
 [[Heterogeneous_Integration]]
 [[LIF_Neuron_Model]]
 [[Memristive_InMemory_Computing]]

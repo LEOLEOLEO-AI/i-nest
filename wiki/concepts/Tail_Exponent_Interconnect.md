@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[SpikeBasedInference]]
+[[SpikingCorrespondenceMatching]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TemporalBatchSynchronization]]

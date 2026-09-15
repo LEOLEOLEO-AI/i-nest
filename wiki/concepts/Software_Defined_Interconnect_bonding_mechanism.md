@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[DRBE_MVP_Mainchain]]
 [[DataProvenanceIntegrity]]
 [[Decoupled_Priors]]
+[[Deep_Network_Architecture_Invariant]]
 [[DiagnosticReportFramework]]
 [[EulaminateOverrepresentation]]
 [[Free_Energy_Principle]]
@@ -75,8 +76,11 @@ Auto-extracted concept from raw material compilation.
 [[Topology_Centric_Computing]]
 [[Topology_Centric_Computing_Paradigm]]
 [[Topology_Page]]
+[[Wafer_Interconnect]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Interconnect]]
+[[iNEST_Wafer]]
 [[residual connection]]
 
 ## Sources

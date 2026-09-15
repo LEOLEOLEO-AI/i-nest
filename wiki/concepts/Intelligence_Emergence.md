@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Constructed_Reality_Interconnect]]
 [[Contested_Priors_Mechanism]]
+[[Crystallized_Neural_Manifolds]]
 [[EmergentOrder]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]

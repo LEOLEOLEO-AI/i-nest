@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[DiscreteScaleInvariance]]
 [[DivergentHigherAreaRanking]]
 [[EvolutionaryReservoirOptimization]]
+[[LindbladInspiredReservoir]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]

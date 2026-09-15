@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[IMPLY_ISA]]
 [[Intelligence_Emergence]]
 [[MixedLabyrinthFractal]]
+[[MixedSignalSNN_CoDesign]]
 [[MultiFPGAScaling]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Acceleration]]

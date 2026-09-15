@@ -38,6 +38,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[AI4PDE｜综述·论文推荐 08｜物理信息神经网络在偏微分方程问题中的应用：全面综述]]
 [[AI_Faculty_Forum_2026]]
 [[AI人工智能 卷积神经网络（CNN）_w3cschool]]
+[[Active_Inference_Agent]]
 [[Alpha_Coefficient_Phase_Transition_Amplification]]
 [[BackpropFree_Learning]]
 [[Beyond_Moore_Packaging_Strategy]]

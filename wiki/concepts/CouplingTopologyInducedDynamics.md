@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[PhysicalReservoir]]
 [[PhysicalSubstrateReservoirComputing]]
 [[PhysicalSubstrateReservoir]]
+[[PlanarNetworkSimulation]]
 [[ReservoirDynamics]]
 [[Reservoir_Computing]]
 [[Self_Organized_Criticality]]

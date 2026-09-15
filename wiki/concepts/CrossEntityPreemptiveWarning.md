@@ -59,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[SNN_Config_Sensitivity]]
 [[Self_Organized_Criticality]]
+[[SpikeEncodingLatency]]
 [[Spiking_Neural_Network]]
 [[SuperparamagneticSwitchingRate]]
 [[Swarm_Coordination]]

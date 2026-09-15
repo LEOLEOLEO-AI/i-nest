@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AstrocyteInspiredRepair]]
 [[Avoided_Criticality]]
 [[BigBrainCellularAxis]]
+[[BioPlausibleDisturbanceObserver]]
 [[BulletTrainScheduling]]
 [[BurstTemporalPlasticity]]
 [[Chiplet]]

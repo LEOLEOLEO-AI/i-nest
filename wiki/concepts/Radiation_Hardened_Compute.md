@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Bipartite_Interconnect_Design]]
 [[BurstGatedRouting]]
 [[CSI_Temporal_Encoding]]
+[[Cascading_Failure_Mitigation]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]

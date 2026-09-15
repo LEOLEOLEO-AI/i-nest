@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
+[[Nishimori_Threshold]]
 [[Packaging_CoDesign]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]

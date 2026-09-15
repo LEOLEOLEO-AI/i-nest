@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_ProjectManager_Model]]
 [[DynamicServiceComposition]]
 [[Hardware_Programming]]
+[[MultiScaleTemporalProcessing]]
 [[Neuromorphic_Computing]]
 [[NonequilibriumLangevinComputing]]
 [[PhysicalSubstrateReservoir]]
@@ -36,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[TCCNPU_Coordination_Roadmap]]
 [[TCC]]
 [[ThirdWaveAI]]
+[[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
 [[iNEST]]
 

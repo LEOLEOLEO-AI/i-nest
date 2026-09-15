@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[NoC]]
 [[NoC_Chiplet_iNEST_Wafer]]
+[[OnChipOpticalTweezers]]
 [[P_Paradigm]]
 [[SDI_Bond]]
 [[SDI_NPU_NoC_Integration]]
@@ -69,6 +70,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Neuromorphic]]
 [[Wafer_Scale_Topology]]
 [[Wafer_Scale_Topology_Control]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[BosonicFieldTopology]]
 [[CST计量仪]]
 [[CatalyticReactionNetwork]]
+[[CerebellarLikeCircuit]]
 [[Complex_System_Theory]]
 [[EmergentBeatPatternResolution]]
 [[Intelligence_Emergence]]

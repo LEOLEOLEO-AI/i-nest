@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_ProjectManager_Model]]
 [[DisturbancePropagationPath]]
 [[ElectronicPhotonicIntegratedCircuit]]
+[[EnergyResourceEfficiencyTradeoff]]
 [[GateModelHardware]]
 [[Heterogeneous_Integration]]
 [[ImmobilizationStabilityEnhancement]]

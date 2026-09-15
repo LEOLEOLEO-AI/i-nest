@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Topology]]
 [[NonlinearDynamicalSampling]]
 [[Nonlinear_Gain]]
+[[SDI_Sparse_Dataflow_Interconnect]]
 [[iNEST]]
 
 ## Sources

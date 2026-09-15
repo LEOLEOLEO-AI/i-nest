@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[ContinualLearningOnNeuromorphic]]
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[ConvolutionalRestrictedHopfieldNetwork]]
+[[CrossDomain_Integration]]
 [[DelayCodedWorkingMemory]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]

@@ -60,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[SystemLevelNonlinearity]]
 [[TCC]]
 [[TCC_Topology]]
+[[Textbook_Paradigm_Definition]]
 [[Weight_Reinitialization]]
 [[branch prediction]]
 [[pipelined processor]]

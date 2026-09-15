@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[CavityMethodAnalysis]]
 [[Complex_System_Theory]]
 [[ControlDrivenCriticalFluctuations]]
+[[Critical_Region_Extension]]
 [[EvolvingArchitectureDynamics]]
 [[HybridCouplingThermosensitiveNetwork]]
 [[InNetworkReconfiguration]]

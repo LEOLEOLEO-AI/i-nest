@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3D_Heterogeneous_Integration]]
 [[AI_Assisted_Energy_Optimization]]
 [[AdaptiveBitPrecisionExploration]]
 [[AdaptiveDensityControl]]
@@ -29,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Beyond_Moore_Pathway]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Heterogeneous_Integration]]
 [[Neuromorphic_Computing]]
 [[TCC]]
 [[iNEST]]

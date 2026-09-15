@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[InterconnectConstrainedEmergence]]
+[[KV_Cache_to_BoundaryObject_Transition]]
 [[L2_L3_Reconfigurability]]
 [[Mesoscale_Physical_Computing_Framework]]
 [[NCL神经计算定律详解]]

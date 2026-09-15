@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Combinatorial_Optimization_Readout]]
 [[CompactMemristorCircuits]]
 [[Complex_System_Theory]]
+[[Complexity_Emergence]]
 [[Connectome]]
 [[Connectome_Reservoir]]
 [[Contested_Prior_Resolution]]

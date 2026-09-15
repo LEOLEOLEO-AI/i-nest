@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeEventDrivenInference]]
 [[Spiking_Neural_Network]]
 [[TCC]]
+[[UnifiedEventReasoning]]
 [[iNEST]]
 
 ## Sources

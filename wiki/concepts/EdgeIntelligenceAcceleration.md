@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDriven_Interconnect]]
 [[Express_Link_Virtualization]]
 [[Heterogeneous_Integration]]
+[[InNetworkRadarProcessing]]
 [[Interconnect_Routing]]
 [[Interconnect_Topology]]
 [[InverseDesignOptimization]]
@@ -50,9 +51,11 @@ Auto-extracted concept from raw material compilation.
 [[PhysicalWaferTriplet]]
 [[TCC]]
 [[WaferScaleChipletIntegration]]
+[[Wafer_Interconnect]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

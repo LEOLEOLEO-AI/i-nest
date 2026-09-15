@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveEntanglementManagement]]
 [[AdaptiveFlexibilityThreshold]]
 [[AdjointWaveControl]]
+[[AdjustableDynamicsReservoir]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[BioInspiredLearningRule]]
 [[ChannelEventSparsity]]

@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[HigherOrderStochasticProcess]]
 [[Hypergraph_Label_Noise]]
+[[In_Network_Neuromorphic_Offload]]
 [[InteractiveRoboticsLoop]]
 [[Local_Structure_Aware_Self_Attention]]
 [[LowBitSpikingPruning]]

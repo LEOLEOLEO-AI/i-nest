@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Avoided_Criticality]]
 [[BackflowTransformation]]
 [[Bidirectional_Temporal_Enhancement]]
+[[BioPlausibleDisturbanceObserver]]
 [[BurstTemporalPlasticity]]
 [[Criticality]]
 [[DiscreteSTDP]]

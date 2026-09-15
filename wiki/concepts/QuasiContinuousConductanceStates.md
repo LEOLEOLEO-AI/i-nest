@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SurvivalByServing]]
 [[TCADCalibration]]
 [[TCC]]
 [[complex system]]

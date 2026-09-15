@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[End_Side_Neuromorphic_Deployment]]
 [[EventDriven_Interconnect]]
 [[EventSparseTemporalEncoding]]
+[[FullSpectrum_Programmability]]
 [[Gaussian_Splat_Compression]]
 [[Heterogeneous_Integration]]
 [[Memory_Wall]]

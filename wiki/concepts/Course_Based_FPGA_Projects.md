@@ -25,7 +25,6 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Complexity_Emergence]]
 [[Complexity_Emergence_Engineering]]
@@ -69,11 +68,13 @@ Auto-extracted concept from raw material compilation.
 [[TemporalDynamicsModeling]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
+[[chiplet interconnect]]
 [[iMESO_PhysicalCarrier]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
 [[iNEST_Neuromorphic_Topology]]
 [[神经形态脉冲大语言模型（NSLLM）]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

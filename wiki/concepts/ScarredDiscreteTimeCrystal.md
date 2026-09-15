@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[ControlDrivenCriticalFluctuations]]
 [[ControlTheoreticTopology]]
 [[CriticalLearningRegime]]
+[[Critical_Region_Extension]]
 [[Network_Topology_Design]]
 [[SelfOrganization]]
 [[TCC]]

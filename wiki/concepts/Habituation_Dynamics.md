@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenMotionDeblurring]]
 [[FlexibilityThreshold]]
 [[HighThroughputPhenotyping]]
+[[Neural_Manifold_Crystallization]]
 [[Neuromorphic_Computing]]
 [[OscillatoryReservoirDynamics]]
 [[ReservoirDynamics]]

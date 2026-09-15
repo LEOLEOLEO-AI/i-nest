@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[CerebellarLikeCircuit]]
 [[Channel_Decoding_Energy_Landscape]]
 [[Complex_System_Theory]]
+[[CorticalEfficiencyReliabilityExchange]]
 [[Crystallized_Neural_Manifolds]]
 [[DAGGER_Algorithm]]
 [[Intelligence_Emergence]]

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveCompetingInteractions]]
 [[AdaptiveDensityControl]]
 [[AmoebaInspiredLocomotion]]
+[[BioInspired_Interception_Control]]
 [[Contested_Priors_Mechanism]]
 [[CriticalityDrivenStateTransition]]
 [[Criticality]]

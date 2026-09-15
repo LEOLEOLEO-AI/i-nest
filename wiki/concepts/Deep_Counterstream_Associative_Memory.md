@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[FerroelectricCrossbarArray]]
 [[FerroelectricSynapticArray]]
 [[Ferroelectric_Devices]]
+[[FixedOverheadPenalty]]
 [[GradientFreeLowRankTraining]]
 [[Heterogeneous_Integration]]
 [[InNetworkAgentRewiring]]

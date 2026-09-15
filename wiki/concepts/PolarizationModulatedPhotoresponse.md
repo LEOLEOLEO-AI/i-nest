@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveArchitecture]]
 [[AnisotropicGaussianPrimitives]]
 [[ArbitraryWavefunctionConfigurability]]
+[[BioInspired_Interception_Control]]
 [[Cognitive_Relapse_Architecture]]
 [[Contested_Priors_Mechanism]]
 [[Continual_Learning_Topology]]

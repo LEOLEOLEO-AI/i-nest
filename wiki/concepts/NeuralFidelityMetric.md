@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Distributed_Spike_Communication]]
 [[EventCameraActionRecognition]]
 [[FirstPrinciples_Derivation]]
+[[FixedOverheadPenalty]]
 [[GeTeBasedCBRAM]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]

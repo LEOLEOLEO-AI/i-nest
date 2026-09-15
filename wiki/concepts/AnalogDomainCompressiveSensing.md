@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[National_Planning_Driven_Research_Alignment]]
 [[Neuromorphic_Computing]]
 [[NonlinearConnectomeScaling]]
+[[NonlinearDynamicalSystemsInference]]
 [[Nonlinear_Gain]]
 [[ParallelSNNArchitecture]]
 [[PhysicalSubstrateReservoir]]

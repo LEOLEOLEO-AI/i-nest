@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Interconnect_Topology]]
 [[Memory_Wall]]
+[[NCCLCollectiveCommunicationMapping]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC]]
@@ -61,6 +62,7 @@ Auto-extracted concept from raw material compilation.
 [[SparseTemporalEncoding]]
 [[SparsityAwareInterconnect]]
 [[TCC]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

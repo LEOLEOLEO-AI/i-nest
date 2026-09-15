@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalFixedPoint]]
 [[CrossInstitutionalNetwork]]
 [[Crystallized_Neural_Manifolds]]
+[[DataDrivenMaterialDesign]]
 [[DendriticReservoirState]]
 [[EcosystemTopologyCoupling]]
 [[Edge_of_Chaos]]

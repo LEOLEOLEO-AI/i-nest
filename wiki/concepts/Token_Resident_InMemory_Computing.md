@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[ContinualLearningOnNeuromorphic]]
 [[Efficient_Coding_Constraint]]
 [[EventBasedAnalogFrontEnd]]
+[[EventDrivenAttentionMechanism]]
 [[EventDrivenRiskAssessment]]
 [[EventDrivenSensoryEncoding]]
 [[EventDrivenTracking]]

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicTokenSparsity]]
 [[DynamicalSelfDualCriticality]]
 [[Edge_Neuromorphic_Compute]]
+[[EnergyEfficientSNN]]
 [[EventDrivenSynchronization]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Interconnect_Routing]]

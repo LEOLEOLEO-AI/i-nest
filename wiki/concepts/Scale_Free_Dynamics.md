@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Avoided_Criticality]]
 [[BayesianDomainEvolution]]
 [[BehavioralFeedbackLoop]]
+[[BioPlausibleDisturbanceObserver]]
 [[Catastrophic_Forgetting_Mitigation]]
 [[Contested_Priors_Architecture]]
 [[Criticality]]

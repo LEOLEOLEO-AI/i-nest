@@ -31,8 +31,12 @@ Auto-extracted concept from raw material compilation.
 [[EventStrengthEncoding]]
 [[Event_Driven_Architecture]]
 [[FunctionalEnsemble]]
+[[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Acceleration]]
+[[In_Package_Neuromorphic_Integration]]
+[[Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

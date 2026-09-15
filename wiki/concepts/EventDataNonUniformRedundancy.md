@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_NoC_Routing]]
 [[NoC]]
+[[PhysicalDesign_ReliabilityTradeoff]]
 [[RobustnessToNoiseInSNN]]
 [[SNN]]
 [[SpikeRoutingFabric]]

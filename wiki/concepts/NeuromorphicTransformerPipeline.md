@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[BioPlausiblePredictiveCoding]]
 [[BurstGatedRouting]]
+[[CompactnessRegularizedFitness]]
 [[ConductingPolymerDendriteMemory]]
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[DevelopmentalNeuromorphicAdaptation]]
@@ -47,7 +48,6 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
-[[Neuromorphic_Interconnect]]
 [[Neuromorphic_Selective_State_Space]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDSoW]]
@@ -63,6 +63,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Neuromorphic]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
+[[neuromorphic interconnect]]
 [[类脑芯片]]
 
 ## Sources

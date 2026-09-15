@@ -60,9 +60,9 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SOC]]
+[[SiC_GaN_Power_Integration]]
 [[State_Transition_Formalism]]
 [[TopologicalAndersonChernInsulator]]
-[[advanced packaging]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

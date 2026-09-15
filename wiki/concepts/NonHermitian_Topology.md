@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDriven_Interconnect]]
 [[Heterogeneous_Integration]]
 [[HodgkinHuxleyDynamics]]
+[[InNetworkRadarProcessing]]
 [[Interconnect_Routing]]
 [[Interconnect_Topology]]
 [[LossSpikeMechanism]]
@@ -59,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeCommunicationCost]]
 [[Spiking_Neural_Network]]
 [[TCC]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

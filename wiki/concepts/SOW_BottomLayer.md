@@ -39,14 +39,17 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_Wafer_Stack]]
 [[NoC_Chiplet_iNEST_Wafer]]
 [[NoC_Interconnect]]
+[[SDI_Bond]]
 [[SDI_TCC_iNEST_Interconnect]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
+[[SDSoW_TCC_Integration]]
 [[TCC]]
+[[TCC_iNEST_Interconnect]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
-[[advanced packaging]]
 [[iNEST]]
+[[iNEST_Interconnect]]
 [[iNEST_Wafer]]
 
 ## Sources

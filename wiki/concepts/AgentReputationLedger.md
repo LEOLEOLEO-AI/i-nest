@@ -34,7 +34,6 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]
-[[Chiplet_Interconnect]]
 [[Chiplet_NoC_Interconnect]]
 [[Collective_Offloading]]
 [[ComponentLevelPackaging]]
@@ -42,6 +41,8 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[InInterconnectMemory]]
 [[Interconnect_Routing]]
+[[IsolatedKVBandwidth]]
+[[Memory_Wall]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC]]
@@ -49,7 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[SerDes_Bandwidth_Convergence]]
 [[TCC]]
 [[TopologyCentricPrimitiveSet]]
-[[advanced packaging]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

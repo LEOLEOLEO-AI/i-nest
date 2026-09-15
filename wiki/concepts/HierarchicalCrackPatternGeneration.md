@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[DendriticReservoirState]]
 [[DifferentiableLifting]]
 [[Dynamic_Expert_Fusion]]
+[[EcosystemTopologyCoupling]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[Epidemic_Mitigation_Strategy]]

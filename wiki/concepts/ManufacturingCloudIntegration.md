@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[EnergyAwareLearning]]
 [[EventDrivenMotionDeblurring]]
 [[FlexibilityThreshold]]
+[[MSF_Neuron]]
 [[NeuromorphicEdgeProcessing]]
 [[Neuromorphic_Computing]]
 [[PowerLawScaling]]

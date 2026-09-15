@@ -56,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[InterconnectConstrainedEmergence]]
 [[Interconnect_Topology]]
+[[MeasurementEfficiency]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[complex system]]

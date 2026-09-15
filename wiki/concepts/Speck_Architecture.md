@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[ActiveDendriteSNN]]
 [[Avoided_Criticality]]
+[[BioPlausibleDisturbanceObserver]]
 [[BurstTemporalPlasticity]]
 [[Course_Based_FPGA_Prototyping]]
 [[Criticality]]
@@ -32,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Self_Organized_Criticality]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]

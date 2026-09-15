@@ -61,6 +61,7 @@ Auto-extracted concept from raw material compilation.
 [[PhysicalSubstrateReservoir]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
+[[SDI_STDP_Bond]]
 [[complex system]]
 [[quantum reservoir computing]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]

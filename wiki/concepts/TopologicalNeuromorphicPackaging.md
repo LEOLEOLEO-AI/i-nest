@@ -31,10 +31,12 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
 [[SDI_Bond]]
+[[SDI_iNEST]]
 [[SDI_iNEST_Interconnect]]
 [[SNN]]
 [[SparseTemporalEncoding]]
 [[Spiking_Neural_Network]]
+[[TCC_Neuromorphic_Integration]]
 [[iNEST]]
 [[iNEST_Interconnect]]
 

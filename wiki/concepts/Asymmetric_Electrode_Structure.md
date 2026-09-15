@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[IGZO_ThinFilm_Channel]]
 [[Nanomaterial_Discovery_ML]]
 [[Neuromorphic_Computing]]
+[[ProjectiveMeasurementRouting]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

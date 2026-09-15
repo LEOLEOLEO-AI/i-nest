@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Alignment_Tax]]
 [[AstrocyteInspiredRepair]]
 [[BayesMarkovOrientationModel]]
+[[BeyondCMOSIntegration]]
 [[Complex_System_Theory]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]

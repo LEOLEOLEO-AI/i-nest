@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[Spin_Quantum_Hall_Critical_Exponents]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[TopologyAwarePhotonicInterconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

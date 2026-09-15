@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[PhysicalReservoirTransientDynamics]]
 [[PhysicalReservoir]]
+[[PropertyPredictionModeling]]
 [[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]
 [[RenormalizationGroup_Scaling]]
@@ -71,6 +72,7 @@ Auto-extracted concept from raw material compilation.
 [[智能涌现]]
 [[涌现]]
 [[神经形态脉冲大语言模型（NSLLM）]]
+[[神经网络]]
 [[类脑芯片]]
 
 ## Sources

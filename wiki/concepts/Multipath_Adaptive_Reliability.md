@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AgenticServiceOrchestration]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Ant_Swarm_Functional_Control]]
+[[Bipartite_Interconnect]]
 [[BurstGatedRouting]]
 [[Collective_Offloading]]
 [[Complex_System_Theory]]

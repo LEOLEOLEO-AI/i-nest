@@ -60,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[PostVonNeumannIntelligence]]
 [[PropertyPredictionModeling]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SNN]]
 [[SpikeEncoding]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

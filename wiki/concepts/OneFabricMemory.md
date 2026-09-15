@@ -21,6 +21,8 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[BackpropagationFreeLearning]]
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
 [[CompactFieldVariable]]
 [[DARPA_ProjectManager_Model]]
 [[Decoupled_Priors]]
@@ -28,12 +30,17 @@ Auto-extracted concept from raw material compilation.
 [[EulaminateOverrepresentation]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
+[[NoC]]
 [[NoC_Chiplet_iNEST_Wafer]]
 [[OneFabric_Memory]]
 [[P_Paradigm]]
 [[SDI_Bond]]
 [[SDI_Chip_Indicator_Change]]
+[[SDI_TCC_Chiplet]]
 [[TCC]]
+[[iNEST]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Decoupling_Mechanism]]
 [[FPGA_Neuromorphic_Architectures]]
 [[FPGA_Reconfigurability]]
+[[Free_Energy_Principle_Network]]
 [[Free_Energy_Topology_Mapping]]
 [[GenerativeTopologyModels]]
 [[Heterogeneous_Integration]]
@@ -54,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

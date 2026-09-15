@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[TCC]]
+[[getnote_2025-11-16_iNEST开发流程]]
 [[iNEST]]
 
 ## Sources

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Driven_Architecture_Search]]
 [[AI_Forum_Demo_Narrative]]
+[[Advanced_Packaging]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Baseline_Draft_Status]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Communication]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[FoveationGuidedTokenSelection]]
+[[In_Network_Generative_Inference]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Memristive_Synapse]]
@@ -46,11 +48,11 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
-[[Neuromorphic_Interconnect]]
 [[Neuromorphic_Selective_State_Space]]
 [[Neuromorphic_Sensor_Fusion]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Spike_Encoding_of_fMRI]]
+[[Spiking neural network]]
 [[SpikingMoE_SDPrompt]]
 [[SpikingTopologyAnalysis]]
 [[SpikingTopologyMapping]]
@@ -60,8 +62,8 @@ Auto-extracted concept from raw material compilation.
 [[SynapticConsolidation]]
 [[TCC]]
 [[TCC_SpikingIntegration]]
-[[advanced packaging]]
 [[iNEST]]
+[[neuromorphic interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

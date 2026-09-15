@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[Expert_Review_Arbitration]]
+[[Ferroelectric_ComputeInMemory]]
 [[Heterogeneous_Integration]]
 [[In_Memory_Computing]]
 [[In_Network_Neuromorphic]]

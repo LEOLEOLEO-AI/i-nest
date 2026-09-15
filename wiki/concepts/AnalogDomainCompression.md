@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicsMatchedReservoir]]
 [[Emergent_Reservoir_Topology]]
 [[Evolutionary_Computability]]
+[[FlagOS_2_0]]
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]

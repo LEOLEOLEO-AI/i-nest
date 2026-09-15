@@ -31,12 +31,12 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[BackpropagationFreeLearning]]
 [[BurstInterleaving]]
+[[CompactFieldVariable]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
 [[TCC]]
 [[TSV_Interconnect]]
-[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

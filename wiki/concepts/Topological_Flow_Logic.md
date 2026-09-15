@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[PolicyDrivenInnovation]]
 [[RoutingBasedComputation]]
 [[TCC]]
+[[Topology_Manifold_Computing]]
 [[WirelessSplitComputing]]
 
 ## Sources

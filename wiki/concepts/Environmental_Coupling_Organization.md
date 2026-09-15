@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Coupling_Topology]]
 [[Criticality]]
 [[CrossbarArrayIntegration]]
+[[Cryogenic_Syndrome_Compression]]
 [[Crystallized_Embedding_Reservoir]]
 [[DARPA_ProjectManager_Model]]
 [[Environmental_Induced_Memory]]

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDataNonUniformity]]
 [[EventDrivenDefenseMechanism]]
 [[EventDrivenGraphTraversal]]
+[[EventDriven_AsyncCircuit]]
 [[Event_Driven_Architecture]]
 [[Spiking_Neural_Network]]
 [[iNEST]]

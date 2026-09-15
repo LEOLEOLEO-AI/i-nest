@@ -28,9 +28,11 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Neuromorphic_Acceleration]]
 [[FormalToolchain]]
 [[NeuromorphicTransformerPipeline]]
+[[NeuromorphicVisionPipeline]]
 [[Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]
 [[SNN]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

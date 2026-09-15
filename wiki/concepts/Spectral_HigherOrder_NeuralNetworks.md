@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[QuantumConvolutionalTopology]]
 [[RandomProjectionLandscapePreservation]]
 [[RecursiveSelfReferentialArchitecture]]
+[[Selection_Theorems]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]

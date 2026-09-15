@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[ControlDrivenCriticalFluctuations]]
 [[EvolvingArchitectureDynamics]]
 [[HybridCouplingThermosensitiveNetwork]]
 [[Interconnect_Topology]]
@@ -30,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[QuantumDistillation]]
 [[Reconfigurable_Neural_Topology]]
 [[STDPDrivenConnectivity]]
+[[STDP_Plasticity]]
 [[iNEST]]
 
 ## Sources

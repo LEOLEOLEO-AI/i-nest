@@ -38,6 +38,8 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenTrajectoryEncoding]]
 [[EventDrivenWirelessTransmission]]
 [[EventDriven_Interconnect]]
+[[Heterogeneous_Integration]]
+[[InNetworkRadarProcessing]]
 [[InputAdaptiveComputation]]
 [[Memory_Wall]]
 [[Memristor]]

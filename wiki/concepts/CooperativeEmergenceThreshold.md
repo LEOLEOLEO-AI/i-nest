@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[BackflowTransformation]]
 [[BandedConnectivityModel]]
 [[BigBrainCellularAxis]]
+[[BioPlausibleDisturbanceObserver]]
 [[BrownianCastleInterface]]
 [[BrownianCastleInterfaces]]
 [[BurstTemporalPlasticity]]

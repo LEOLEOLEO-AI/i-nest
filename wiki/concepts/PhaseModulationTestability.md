@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Reservoir_Topology]]
 [[Epithelial_Barrier_Integrity]]
 [[Ethical_AI_Constraints]]
+[[Evolutionary_Computability]]
 [[FastSlow_Dynamics]]
 [[ForwardFluctuationGradient]]
 [[Free_Energy_Principle]]

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Routing]]
 [[ExplainableEnergyAI]]
 [[Interconnect_Routing]]
+[[Memristor_Interconnect]]
 [[Neuromorphic_Computing]]
 [[Synaptic_Plasticity]]
 [[iNEST]]

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[BrainActivityPrediction]]
 [[BrownianCastleInterface]]
 [[CorticalWaveRouting]]
+[[EmergentOrder]]
 [[FreeEnergyMinimizationRouting]]
 [[FreeEnergyMinimization]]
 [[Interconnect_Routing]]

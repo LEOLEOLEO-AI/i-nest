@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[PhysicalReservoirInterconnect]]
 [[PhysicalReservoir]]
+[[PlanarNetworkSimulation]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[Self_Organized_Criticality]]

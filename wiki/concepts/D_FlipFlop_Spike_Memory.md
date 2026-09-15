@@ -29,7 +29,9 @@ Auto-extracted concept from raw material compilation.
 [[D_FlipFlop]]
 [[Distributed_Spike_Communication]]
 [[DrivenDissipativeDynamics]]
+[[EnergyEfficientRestoration]]
 [[SNN]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

@@ -35,9 +35,11 @@ Auto-extracted concept from raw material compilation.
 [[ComplexSystem_Definition]]
 [[Complex_System_Theory]]
 [[Complexity_Emergent_Intelligence]]
+[[Compositional_Continuum]]
+[[Emergent_Intelligence]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
-[[advanced packaging]]
 [[iNEST]]
 [[神经网络]]
 

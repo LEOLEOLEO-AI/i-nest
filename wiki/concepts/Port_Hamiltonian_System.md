@@ -61,6 +61,7 @@ Auto-extracted concept from raw material compilation.
 [[SuperparamagneticSwitchingRate]]
 [[Swarm_Adaptive_Topology]]
 [[Swarm_Coordination]]
+[[SynchronizationAttractorBasin]]
 [[TCC]]
 [[TCC_Neuromorphic_Integration]]
 [[ThermalAvalanche]]

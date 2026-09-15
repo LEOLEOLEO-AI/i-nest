@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[ActivityAvalanche]]
 [[BigBrainCellularAxis]]
 [[Cascading_Failure_Mitigation]]
+[[CompactnessRegularizedFitness]]
 [[Complexity_Emergence]]
 [[CorticalWaveRouting]]
 [[CrossLayer_SignalRouting]]

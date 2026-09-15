@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Hyper_Dimensional_Computing]]
 [[IntegrationProspectsForVLSI]]
 [[Intelligence_Emergence]]
+[[MachineLearningPotential]]
 [[MemristiveReservoirBranchPrediction]]
 [[Memristor]]
 [[Memristor_Synapse]]

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Dimensionality_Modularity_Tradeoff]]
 [[DynamicCentralitySteering]]
 [[Dynamic_Expert_Fusion]]
+[[Emergent_Intelligence_Roadmap]]
 [[FPGA_Neuromorphic_Architectures]]
 [[Free_Energy_Topology_Mapping]]
 [[GenerativeTopologyModels]]

@@ -44,6 +44,8 @@ Auto-extracted concept from raw material compilation.
 [[HigherOrderNetworkDynamics]]
 [[HigherOrderNetwork]]
 [[InNetworkComputing]]
+[[InputAdaptiveComputation]]
+[[Interconnect_Routing]]
 [[JointUAVFlightAndRouting]]
 [[Memristive_Topology]]
 [[MultiSourceTaskonomy]]

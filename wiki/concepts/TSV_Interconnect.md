@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[SDI_Bond]]
 [[SDI_Topology]]
+[[SDSoW_TCC_Integration]]
 [[SparseTemporalEncoding]]
 [[TCC]]
 [[Wafer_Scale_Integration]]

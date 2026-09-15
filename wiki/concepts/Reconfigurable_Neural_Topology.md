@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Plasticity_vs_Computation_Separation]]
 [[QuantumDistillation]]
 [[RedundancyControlledStochasticRouting]]
+[[SDI_STDP_Fusion]]
 [[STDPDrivenConnectivity]]
 [[STDP_Plasticity]]
 [[Self_Organized_Criticality]]

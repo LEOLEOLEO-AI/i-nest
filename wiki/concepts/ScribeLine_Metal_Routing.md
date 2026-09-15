@@ -41,9 +41,11 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[PacketRoutingOptimization]]
+[[Runtime_Level_Scheduling]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

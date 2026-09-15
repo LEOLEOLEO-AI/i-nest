@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[GeometricRegularizationLoss]]
 [[HigherOrderPublicGoodsGame]]
 [[Hippocampal_Encoding_Mechanism]]
+[[InNetwork_Service_Composition]]
 [[Intelligence_Emergence]]
 [[MagicStateDistillationOverheadModel]]
 [[Network_Topology_Design]]

@@ -38,7 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
 [[TCC]]
-[[advanced packaging]]
+[[TopologicalDataCompression]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

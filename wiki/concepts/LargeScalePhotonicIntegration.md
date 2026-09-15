@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[1024_Card_SuperNode]]
 [[AdiabaticMultimodeBend]]
 [[AdvancedPackagingInterconnect]]
+[[Allreduce_Latency_Benchmark]]
 [[Allreduce_Latency_Diagnostic]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
@@ -57,9 +58,11 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
+[[Wafer_Interconnect]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
+[[chiplet interconnect]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

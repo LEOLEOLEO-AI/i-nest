@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[ConsciousnessEngineeringLoop]]
+[[CrossbarArrayVLSI]]
 [[DTGA]]
 [[FPGA_Neuromorphic_Architectures]]
 [[Heterogeneous_Integration]]

@@ -61,6 +61,7 @@ Auto-extracted concept from raw material compilation.
 [[SparseHubsCoupling]]
 [[Spiking_Neural_Network]]
 [[TopologicalAndersonChernInsulator]]
+[[Transferable_Lightweight_Neuromorphic]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[complex system]]

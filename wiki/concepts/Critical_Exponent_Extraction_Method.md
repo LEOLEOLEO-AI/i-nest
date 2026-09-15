@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicInference]]
 [[Evolutionary_Computability]]
 [[Evolutionary_Computability_Principle]]
+[[Experiment_Seven_Eight_Nine_Planning]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]

@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[OpenEndedEvolutionSteering]]
 [[Organic_Neuromorphic_Transistor]]
+[[PowerLawScaling]]
 [[SNN]]
 [[Self_Organized_Criticality]]
 [[SpikeEncoding]]

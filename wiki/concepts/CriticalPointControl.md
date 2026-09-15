@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Agile_Resilient_Defense_Ecosystem]]
 [[AmorphousTopologicalSubstrate]]
 [[AssociativeMemoryTopology]]
+[[BandedNonHermitianRandomMatrices]]
 [[Bond_Operation_Algebra]]
 [[BoundaryContract]]
 [[CST_MasterEquation]]

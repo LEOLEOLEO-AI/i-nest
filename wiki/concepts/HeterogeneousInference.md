@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Stacking]]
 [[Collective_Offloading]]
 [[Complex_System_Theory]]
+[[DirectConnect_Topology]]
 [[GeneralIntelligenceSubstrate]]
 [[Heterogeneous_Chiplet_Customization]]
 [[Heterogeneous_Integration]]
@@ -67,7 +68,7 @@ Auto-extracted concept from raw material compilation.
 [[ThermalAware_DesignSpaceExploration]]
 [[ThroughSiliconVia_TSV_ThermalPath]]
 [[WeedIdentification]]
-[[advanced packaging]]
+[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[AstrocyteInspiredModulation]]
 [[BarrierConditionedTrajectory]]
+[[BioInspired_Interception_Control]]
 [[BrownianCastleInterface]]
 [[BurstGatedRouting]]
 [[Communication_Trace_Diagnostics]]

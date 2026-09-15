@@ -56,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Network_Neuromorphic_Integration]]
 [[Macro_System_Description]]
 [[Memory_Wall]]
+[[Memristive_ANN_Hardware]]
 [[Memristive_STDP]]
 [[Memristor]]
 [[Memristor_Network]]
@@ -90,6 +91,8 @@ Auto-extracted concept from raw material compilation.
 [[TemperatureSensitivityControl]]
 [[TemporalComplexity]]
 [[Topological_Criticality]]
+[[Wafer_Interconnect]]
+[[chiplet interconnect]]
 [[complex system]]
 [[residual connection]]
 

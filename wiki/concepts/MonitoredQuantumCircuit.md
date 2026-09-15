@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[CombinedImportanceScoring]]
 [[CurrentInjectionSNN]]
 [[ErrorSuppressedPipeline]]
+[[EventDrivenWeightUpdate]]
 [[Global_Self_Attention_Bottleneck]]
 [[INT4PrecisionQuantization]]
 [[InterpretabilityDrivenDesign]]

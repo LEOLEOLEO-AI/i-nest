@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[FerroelectricSemiconductorReservoir]]
 [[Ferroelectric_Devices]]
+[[FirstPrinciples_AI]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]

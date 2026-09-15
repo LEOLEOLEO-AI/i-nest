@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[GlobalDecision_LocalExecution_ControlPlane]]
 [[Heterogeneous_Chiplet_Integration]]
 [[Heterogeneous_Integration]]
+[[Independent_EdgeAI_Player_Endgame]]
 [[Interconnect_Topology]]
 [[Memristor]]
 [[Memristor_Interconnect]]
@@ -65,8 +66,10 @@ Auto-extracted concept from raw material compilation.
 [[TopologyCentricComputing]]
 [[Topology_Centric_Computing]]
 [[WaferScaleTopologyCentricComputing]]
+[[Wafer_Interconnect]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

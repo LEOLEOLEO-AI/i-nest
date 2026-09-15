@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[Order_Flexibility_Duality]]
 [[PostVonNeumannIntelligence]]
 [[RecursiveSelfReferentialArchitecture]]
+[[ReservoirDiversity]]
 [[Reservoir_Computing]]
 [[ScaleFreeNetwork]]
 [[SwarmGradientRouting]]

@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Activity_Energy_Tradeoff]]
 [[Avoided_Criticality]]
+[[BandedConnectivityModel]]
 [[BranchingRatioControl]]
 [[BranchingRatio]]
 [[BulletTrainScheduling]]
@@ -41,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
+[[SelfOrganization]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
 [[iNEST]]

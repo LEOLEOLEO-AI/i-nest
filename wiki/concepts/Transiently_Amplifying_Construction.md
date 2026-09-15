@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[FerroelectricCrossbarArray]]
 [[FerroelectricSynapticArray]]
 [[Ferroelectric_Devices]]
+[[FixedOverheadPenalty]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Linguistic_Phase_Transition]]

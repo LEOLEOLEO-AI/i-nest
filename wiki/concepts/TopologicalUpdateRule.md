@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalStateReservoir]]
 [[CrossInstitutionalNetwork]]
 [[Crystallized_Neural_Manifolds]]
+[[DataDrivenMaterialDesign]]
 [[DiscreteScaleInvariance]]
 [[Fixed_Reservoir_Unitary]]
 [[InNetworkSignalRecovery]]

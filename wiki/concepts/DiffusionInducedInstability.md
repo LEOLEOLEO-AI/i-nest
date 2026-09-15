@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AINext_Initiative]]
 [[AI_FullSpectrum_Strategy]]
+[[Active_Inference_Agent]]
 [[AdaptiveArchitecture]]
 [[Allreduce_Latency_Probe]]
 [[ArchitecturalCondition]]

@@ -46,6 +46,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[CST_Theory_V27_FINAL]]
 [[CST_Triad_Framework]]
 [[CST_Triad_Integration]]
+[[CST_V42_SelfConsistency]]
 [[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]

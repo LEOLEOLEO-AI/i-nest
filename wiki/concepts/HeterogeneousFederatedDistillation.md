@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[DrivenCriticalityOptimalityTradeoff]]
 [[DualDrivenHybridNetwork]]
 [[EventBasedMotionDeblurring]]
+[[EventDataNonUniformity]]
 [[EventDrivenAutoregression]]
 [[EventDrivenMotionDeblurring]]
 [[FormalToolchain]]

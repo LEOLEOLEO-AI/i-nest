@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[ComplexValuedSNN]]
 [[ConsciousnessEngineeringLoop]]
 [[CrossLayer_SignalRouting]]
+[[Electronic_Warfare_Integration]]
 [[Frontier_Innovation_Mapping]]
 [[GradientBasedSpikeLearning]]
 [[Gradient_Free_SNN_Learning]]

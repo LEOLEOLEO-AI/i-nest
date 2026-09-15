@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AnisotropicGaussianPrimitives]]
 [[AnomalousSpinTransport]]
 [[Architectural_Conditioning]]
+[[AutonomousAdaptation]]
 [[BigBrainCellularAxis]]
 [[ClocklessReconfigurableChip]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Benchmark]]
 [[Analog_InMemory_Processing]]
 [[AnisotropicTensileStrength]]
+[[Asymptotic_Exact_Solution]]
 [[Causal_Power]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]

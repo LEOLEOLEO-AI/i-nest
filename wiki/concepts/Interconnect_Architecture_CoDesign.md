@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[InterconnectAwareGradientAggregation]]
 [[L2_L3_Reconfigurability]]
+[[MetaHardwareAbstraction]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[STDP_Plasticity]]

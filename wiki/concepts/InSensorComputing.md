@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect_Topology]]
 [[CompactFieldVariable]]
 [[DARPA_ProjectManager_Model]]
+[[DiagnosticReportFramework]]
 [[EulaminateOverrepresentation]]
 [[Evolutionary_Structure_Computability]]
 [[Ferroelectric_Devices]]
@@ -64,6 +65,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[analog computation]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

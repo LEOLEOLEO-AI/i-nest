@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[BiasPropagationInNetworks]]
 [[BitPrecisionAwareScheduling]]
 [[CascadedAdaptiveCombiners]]
+[[Collective_State_Convergence]]
 [[Emergent_Intelligence]]
 [[Intelligence_Emergence]]
 [[Neuromorphic_Computing]]

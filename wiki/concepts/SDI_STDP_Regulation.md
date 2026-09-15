@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Prior_Resolution]]
 [[Cross_Node_Event_Propagation]]
 [[Distributed_Spike_Communication]]
+[[FixedOverheadPenalty]]
 [[Heterogeneous_Integration]]
 [[HodgkinHuxleyDynamics]]
 [[Loihi2_SpikeEncoding]]
@@ -45,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[Photonic_Chiplet_Interconnect]]
 [[SDI_Bond]]
 [[SDI_STDP]]
@@ -68,6 +70,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect_Memristor]]
 [[Wafer_Scale_Neuromorphic]]
 [[Wafer_Scale_Neuromorphic_Integration]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[神经网络]]
 

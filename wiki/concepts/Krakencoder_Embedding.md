@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[TCC]]
+[[Topological_Recurrent_Feedback_Loops]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
 [[getnote_2026-01-03_16 介观峰值定理对晶上大脑的工程指导]]

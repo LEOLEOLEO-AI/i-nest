@@ -64,6 +64,7 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[Semiconductor_Market_Consolidation]]
 [[Synaptic_Plasticity]]
+[[TCC_RTC原语架构与SDI拓扑变换机理]]
 [[complex system]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]

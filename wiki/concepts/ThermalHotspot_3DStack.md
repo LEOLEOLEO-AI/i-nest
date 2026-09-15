@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Die_to_Die_Protocol]]
 [[DirectConnect_Topology]]
 [[DualSided_3D_Integration]]
+[[EMIB_Bridge]]
 [[EdgeIoTEnergyAwareness]]
 [[FreeFermionTopologicalInvariant]]
 [[Heterogeneous_Integration]]
@@ -57,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[TCC]]
+[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[ExplainableEnergyAI]]
 [[Fixed_Cost_Dominance]]
+[[GCML_Cognitive_Map]]
 [[ITP_STDP]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityOnSmallWorlds]]
 [[Criticality]]
 [[Criticality_Induced_Computation]]
+[[Criticality_Reservoir]]
 [[Intelligence_Emergence]]
 [[Neuromorphic_Computing]]
 [[STDP_Plasticity]]

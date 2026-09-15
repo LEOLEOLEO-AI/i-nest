@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Frontier_Innovation_Mapping]]
 [[FrozenRateOperator]]
 [[FunctionalInterfaceBlock]]
+[[IMPLY_ISA]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[LocalSynapticRules]]

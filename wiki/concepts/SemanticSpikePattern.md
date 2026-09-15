@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetwork_Neuromorphic_CoDesign]]
 [[In_Network_Neuromorphic]]
 [[Interconnect_Routing]]
+[[NeuromorphicSpikingTopology]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Sensor_Fusion]]
 [[SDN_Neuromorphic_Interface]]

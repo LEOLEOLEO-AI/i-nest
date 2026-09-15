@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Cross_Node_Event_Propagation]]
 [[Distributed_Spike_Communication]]
 [[FirstPrinciples_Derivation]]
+[[FixedOverheadPenalty]]
 [[Heterogeneous_Integration]]
 [[HigherOrderStochasticProcess]]
 [[Hypergraph_Label_Noise]]

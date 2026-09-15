@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[CulturalDisseminationDynamics]]
 [[Gaussian_Splatting_Streaming]]
 [[Interconnect_Routing]]
+[[MembranePotentialModulation]]
 [[MoE_Routing]]
 [[Nanomaterial_Discovery_ML]]
 [[NeuromorphicRL]]

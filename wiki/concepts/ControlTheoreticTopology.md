@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[DTGA]]
 [[ElectricFieldModulatedCoupling]]
 [[EvolvingArchitectureDynamics]]
+[[ExactWiringRouting]]
 [[FPGA_Reconfigurability]]
 [[GenerativeTopologyModels]]
 [[HybridCouplingThermosensitiveNetwork]]

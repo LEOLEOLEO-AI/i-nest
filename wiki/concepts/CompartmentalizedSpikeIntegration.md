@@ -56,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TemporalDynamicsModeling]]
+[[WormBrain_FlyBody_Controller]]
 [[fMRI_SpikeEncoding]]
 [[iNEST]]
 

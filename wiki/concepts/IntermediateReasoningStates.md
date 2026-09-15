@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI节点接口规范与化合键定义]]
 [[Self_Organized_Criticality]]
 [[Spike_Train_Regression]]
+[[SpikingPnPSolver]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[TCC核心概念与基线理论集 (TCC Core Concepts)]]

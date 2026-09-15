@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalFluctuationReservoir]]
 [[DissipativeQuantumReservoir]]
 [[Emergent_Reservoir_Topology]]
+[[FourierSpectrumDynamicsControl]]
 [[GroupInteractionThreshold]]
 [[Intelligence_Emergence]]
 [[MeasurementInducedNonlinearity]]

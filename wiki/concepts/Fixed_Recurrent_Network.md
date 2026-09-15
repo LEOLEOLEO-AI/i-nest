@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[SDDE_Attractor_Emergence]]
 [[SNN]]
+[[SNN_Accelerator_Architecture]]
 [[SpikeEncodingLatency]]
 [[SpikeEncoding]]
 [[Spiking_Neural_Network]]

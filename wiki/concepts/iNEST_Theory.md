@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Cortical_Traveling_Waves]]
 [[DARPA_ProjectManager_Model]]
 [[Deep_Network_Architecture_Invariant]]
+[[Defense_Industrial_Base_Reshaping]]
 [[EfficientDeepLearning]]
 [[Neuromorphic_Computing]]
 [[Scalable_Neuromorphic_System]]

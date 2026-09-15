@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[AdvancedPackagingInterconnect]]
 [[AdversarialMedicalRobustness]]
 [[AnalogInMemoryComputing]]
+[[ArbitraryWavefunctionConfigurability]]
 [[Capability_Forging_Pipeline]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]

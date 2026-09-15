@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[CollectiveDynamics]]
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
+[[Constructed_Reality_Interconnect]]
 [[Evolutionary_Structure_Computability]]
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]

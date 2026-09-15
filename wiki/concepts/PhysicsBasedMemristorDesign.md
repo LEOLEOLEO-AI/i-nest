@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AnisotropicGaussianPrimitives]]
 [[AnomalousSpinTransport]]
+[[AutonomousAdaptation]]
 [[BigBrainCellularAxis]]
 [[CST_Intelligence_Emergence]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
@@ -48,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[Neuromorphic_Topology]]
 [[Order_Flexibility_Duality]]
 [[SDI_Bond]]
 [[SDI_STDP]]

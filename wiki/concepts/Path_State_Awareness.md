@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[LEO_Satellite_Routing_RL]]
 [[LLMDrivenPathSelection]]
 [[MatrixShapePhaseTransition]]
+[[MoE_Routing]]
 [[Network_Topology_Design]]
 [[NonreciprocalQuasiperiodicLattice]]
 [[OpenLearningEcosystem]]

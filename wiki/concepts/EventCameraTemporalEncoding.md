@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CorticalWaveRouting]]
 [[DataDrivenCellularAxis]]
 [[Hardware_Accelerated_SNN]]
+[[In_Network_Neuromorphic]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Memristor]]

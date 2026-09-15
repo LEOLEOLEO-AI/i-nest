@@ -57,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Selective_State_Space]]
 [[OcclusionHandlingStrategy]]
+[[OpenEndedDiscovery]]
 [[RecursiveSelfReferentialArchitecture]]
 [[ResistiveMemoryWriteBudgeting]]
 [[SOC]]

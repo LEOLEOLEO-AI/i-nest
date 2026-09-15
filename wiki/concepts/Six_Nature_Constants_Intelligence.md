@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Current_Compliance_Multilevel_LRS]]
 [[EulaminateI_Overrepresentation]]
 [[GenerativeTopologyModels]]
+[[HierarchicalAttention_MIL]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Six_Natural_Constants]]

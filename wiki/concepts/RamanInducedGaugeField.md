@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[Accessibility_Plasticity]]
 [[AdiabaticMultimodeBend]]
 [[ArbitraryWavefunctionConfigurability]]
+[[AutonomousAdaptation]]
 [[BigBrainCellularAxis]]
 [[CST_Equation]]
 [[CST_Intelligence_Emergence]]

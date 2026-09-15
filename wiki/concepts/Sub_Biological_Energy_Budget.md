@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[FerroelectricSynapse]]
 [[Ferroelectric_Devices]]
 [[FirstPrinciples_Derivation]]
+[[FixedOverheadPenalty]]
 [[Heterogeneous_Integration]]
 [[HigherOrderStochasticProcess]]
 [[HigherOrderSynchronization]]

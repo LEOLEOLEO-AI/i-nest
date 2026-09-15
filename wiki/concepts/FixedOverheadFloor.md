@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TCC_SpikingIntegration]]
 [[Topology_Centric_Spiking]]
+[[Topology_Centric_Spiking_Architecture]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

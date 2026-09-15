@@ -53,10 +53,12 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Interconnect_Topology]]
 [[Logic_Folding]]
+[[NearSensorComputing]]
 [[Network_Topology_Design]]
 [[SelfOrganization]]
 [[SiliconPhotonicsNetwork]]
 [[TCC]]
+[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

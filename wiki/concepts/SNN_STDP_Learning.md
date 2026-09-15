@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Continuous_Control_Spike_Timing_Sensitivity]]
 [[CorticalWaveRouting]]
 [[EventCameraTemporalEncoding]]
+[[Event_Driven_Architecture]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
 [[RobustnessToNoiseInSNN]]
@@ -37,8 +38,10 @@ Auto-extracted concept from raw material compilation.
 [[SpikeRoutingFabric]]
 [[SpikeTimingPreservation]]
 [[Spike_Event_Driven_Attention]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
+[[TemporalBatchSynchronization]]
 [[iNEST]]
 
 ## Sources

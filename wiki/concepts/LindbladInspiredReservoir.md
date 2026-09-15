@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[DiscreteScaleInvariance]]
 [[DivergentHigherAreaRanking]]
 [[EvolutionaryReservoirOptimization]]
+[[MultipartiteEntanglementFractal]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]

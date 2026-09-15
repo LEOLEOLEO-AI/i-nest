@@ -47,13 +47,16 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Topology]]
 [[LargeScalePhotonicIntegration]]
 [[MicroRouter_Embedding]]
+[[NCCLCollectiveCommunicationMapping]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[TCC]]
 [[TopologyCentricComputing]]
 [[Topology_Centric_Computing]]
 [[WaferScaleTopologyCentricComputing]]
+[[Wafer_Interconnect]]
 [[Wafer_Scale_Integration]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

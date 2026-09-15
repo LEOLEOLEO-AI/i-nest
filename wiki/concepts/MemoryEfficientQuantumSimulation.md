@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[BackpropagationFreeLearning]]
 [[CST计量仪]]
 [[Capability_Forging_Pipeline]]
+[[ChipletWaferInterconnectCoDesign]]
 [[ChipletWaferTopologyCoDesign]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]

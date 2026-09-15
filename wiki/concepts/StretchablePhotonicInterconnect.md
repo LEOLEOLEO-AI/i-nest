@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[LEO_Satellite_Routing_RL]]
 [[MatrixShapePhaseTransition]]
 [[Memristive_Topology]]
+[[MoE_Routing]]
 [[Network_Topology_Design]]
 [[OpenLearningEcosystem]]
 [[RecursiveSelfReferentialArchitecture]]

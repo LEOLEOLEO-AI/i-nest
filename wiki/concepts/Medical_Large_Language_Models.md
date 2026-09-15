@@ -59,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[NoC_Chiplet_iNEST_Wafer]]
+[[NonFermiLiquidBehavior]]
 [[Nonlinear_Gain]]
 [[P_Paradigm]]
 [[Photonic_Chiplet_Interconnect]]
@@ -74,6 +75,7 @@ Auto-extracted concept from raw material compilation.
 [[Textbook_Paradigm_Definition]]
 [[Topology_Centric_Computing]]
 [[causal emergence]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

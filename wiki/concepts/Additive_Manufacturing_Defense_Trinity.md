@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[NCL神经计算定律详解]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
+[[Nonlinear_Dynamics_From_Topology]]
 [[Parallelized_Hierarchical_Connectome]]
 [[PowerLawScaling]]
 [[Quantum_Feature_Map]]

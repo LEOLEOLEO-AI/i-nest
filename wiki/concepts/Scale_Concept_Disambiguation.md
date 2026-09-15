@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AdaptiveFlexibilityThreshold]]
 [[Brain_Connectome]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -34,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Mesoscale_Heterogeneous_Integration]]
 [[TCC]]
 [[WaferScaleMesoscopicNetwork]]
+[[Wafer_Interconnect]]
 [[Wafer_Scale_Integration]]
 [[iNEST]]
 

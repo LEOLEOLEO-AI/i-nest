@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Asymptotic_Exact_Solution]]
 [[Beyond_Moore_Pathway]]
 [[BioInspiredGeneralist]]
+[[CellularSheaf]]
 [[CertifiedBifurcationDetection]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]

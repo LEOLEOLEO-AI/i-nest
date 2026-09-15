@@ -30,15 +30,18 @@ Auto-extracted concept from raw material compilation.
 [[Intelligent_Computing_Infrastructure]]
 [[Interconnect_Topology]]
 [[Mesoscale_Heterogeneous_Integration]]
+[[National_Mesoscale_Innovation_Center]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Wafer]]
 [[SDI_Bond]]
+[[SDI_iNEST]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[SDSoW_Strategic_Planning]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
+[[chiplet interconnect]]
 [[iNEST]]
 
 ## Sources

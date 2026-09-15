@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration_Route]]
 [[EventDriven_Interconnect]]
 [[Heterogeneous_Integration]]
+[[InNetworkRadarProcessing]]
 [[Interconnect_Routing]]
 [[Memory_Wall]]
 [[Neuromorphic_Computing]]

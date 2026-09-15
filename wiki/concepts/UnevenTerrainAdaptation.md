@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Change_Record]]
 [[BioInspiredInterceptionTask]]
 [[BioInspiredInterception]]
+[[BioPlausibleDisturbanceObserver]]
 [[BulletTrainScheduling]]
 [[C_ST_cap_Formula]]
 [[CoDesigned_SNN]]

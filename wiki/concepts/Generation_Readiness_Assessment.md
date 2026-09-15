@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveDendriteSNN]]
 [[AdaptiveArchitecture]]
 [[AdaptiveFrequencyResonateAndFire]]
+[[AdjustableDynamicsReservoir]]
 [[AstrocyteInspiredModulation]]
 [[AtomicGeometryEncoding]]
 [[BigBrainCellularAxis]]

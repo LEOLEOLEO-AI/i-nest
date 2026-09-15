@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[ActiveDendriteSNN]]
 [[AdaptiveDeltaPulseFrequencyEncoding]]
+[[AdaptiveFlexibilityThreshold]]
 [[Avoided_Criticality]]
 [[BurstTemporalPlasticity]]
 [[Chiplet]]
@@ -51,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeInformationDensity]]
 [[Spike_Encoding_of_fMRI]]
 [[Spike_Residual_Connection]]
+[[Spiking neural network]]
 [[SpikingMOT]]
 [[SpikingMotorControl]]
 [[SpikingMuscleActivation]]

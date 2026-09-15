@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[GeometricRegularizationLoss]]
 [[HeavyTailedWaitingTime]]
 [[HeavyTailedWaitingTimes]]
+[[HypergraphNeuralNetwork]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]

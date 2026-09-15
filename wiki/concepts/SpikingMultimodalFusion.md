@@ -46,6 +46,8 @@ Auto-extracted concept from raw material compilation.
 [[NoC_EventRouting]]
 [[SNN]]
 [[SpikeEncoding]]
+[[Spike_Event_Driven_Attention]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]

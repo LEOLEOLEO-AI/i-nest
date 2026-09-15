@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Memory_Computing]]
 [[Long_Range_Interactions]]
 [[Memristive_CAM_Indexing]]
+[[Memristive_Crossbar_Array]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[StorageCompute_SeparationBottleneck]]

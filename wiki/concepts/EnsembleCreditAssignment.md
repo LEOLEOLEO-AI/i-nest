@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicalSelfDualCriticality]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
+[[FlexibleManifoldReconfiguration]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[HumanVisionInspiredSNN]]
 [[InNetworkAgentRewiring]]

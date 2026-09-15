@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[MachineLearningPotential]]
 [[MeanFieldSpinGlass]]
+[[MultiTechnologyInspectionFusion]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]

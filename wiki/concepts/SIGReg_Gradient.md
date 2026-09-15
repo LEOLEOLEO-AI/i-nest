@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_Theory]]
 [[CST_Theory_V27_FINAL]]
 [[CST计量仪]]
+[[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
 [[CrossDomain_Integration]]
 [[Dynamic_Expert_Fusion]]

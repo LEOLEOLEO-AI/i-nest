@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[BioPlausiblePredictiveCoding]]
 [[BurstGatedRouting]]
+[[CellEmergence]]
 [[ConductingPolymerDendriteMemory]]
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[EcosystemTopologyCoupling]]

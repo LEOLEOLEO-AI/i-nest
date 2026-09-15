@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveAsymmetricSurrogateGradient]]
 [[AmoebaInspiredLocomotion]]
 [[AstrocyteInspiredModulation]]
+[[BioInspired_Interception_Control]]
 [[Contested_Priors_Mechanism]]
 [[CriticalStateSelfOrganization]]
 [[CriticalityDrivenStateTransition]]

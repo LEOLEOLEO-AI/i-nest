@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Chip-Hardware — 全景导航 (Map of Content)]]
+[[Chiplet_Based_Neuromorphic_Integration]]
 [[ComplexValuedSNN]]
 [[DendriticTaskPartitioning]]
 [[Dynamic_Expert_Fusion]]
@@ -47,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[ST_SNN]]
 [[Spike_Encoding_of_fMRI]]
+[[Spiking neural network]]
 [[SpikingNeuronOptimization]]
 [[Spiking_Neural_Network]]
 [[Supervised_Hebbian_Learning]]

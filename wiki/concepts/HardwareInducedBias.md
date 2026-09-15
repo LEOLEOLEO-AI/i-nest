@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenAutoregression]]
 [[EventDrivenMotionDeblurring]]
 [[ImageToEventConversion]]
+[[Multi_Board_SNN_Runtime]]
 [[Neuromorphic_Computing]]
 [[Online_Continual_Learning]]
 [[PowerLawScaling]]

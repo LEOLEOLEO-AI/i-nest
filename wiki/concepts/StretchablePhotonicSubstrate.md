@@ -60,6 +60,8 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[SystemInPackage_SiP]]
 [[TCC]]
+[[TSVInterconnectReliability]]
+[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

@@ -38,15 +38,16 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
-[[Neuromorphic_Interconnect]]
 [[Neuromorphic_Planning_Architecture]]
 [[Neuromorphic_Selective_State_Space]]
 [[SNN]]
 [[ST_SNN]]
+[[SpiNNaker2_Chip]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
+[[neuromorphic interconnect]]
 [[类脑芯片]]
 
 ## Sources

@@ -60,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]
 [[RenormalizationGroup_Scaling]]
+[[Resilient_Sensing_Comms_Network]]
 [[SelfHealing_Interconnect]]
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]

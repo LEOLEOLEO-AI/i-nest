@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[BandedConnectivityModel]]
 [[Baseline_Draft_Status]]
 [[BioPlausiblePredictiveCoding]]
+[[Bipartite_Interconnect_Design]]
 [[BurstGatedRouting]]
 [[Complex_System_Theory]]
 [[Continuous_Spatiotemporal_State_Propagation]]

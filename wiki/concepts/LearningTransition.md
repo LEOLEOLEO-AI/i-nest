@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[ML_Accelerated_Characterization]]
 [[ManufacturingCloudOrchestration]]
+[[Metropolis_Update]]
 [[NetworkScienceLossFunction]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

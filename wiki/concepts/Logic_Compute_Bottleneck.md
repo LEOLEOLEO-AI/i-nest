@@ -34,13 +34,13 @@ Auto-extracted concept from raw material compilation.
 [[AttractorConvergenceAnalysis]]
 [[BisectionBandwidthBound]]
 [[BisectionBandwidthMetric]]
+[[CXL_Deployment_Transition]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
 [[Heterogeneous_Integration]]
 [[Memory_Wall]]
 [[TCC]]
-[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

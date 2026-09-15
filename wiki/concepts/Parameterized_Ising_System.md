@@ -30,11 +30,11 @@ Auto-extracted concept from raw material compilation.
 [[ApproximationFidelityTradeoff]]
 [[AssociativeMemoryTopology]]
 [[BurstInterleaving]]
+[[Chemical_Bond_Operation_Algebra]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
 [[SOC]]
-[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

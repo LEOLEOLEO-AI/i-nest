@@ -30,11 +30,15 @@ Auto-extracted concept from raw material compilation.
 [[Complex_Network_Class_Brain_Computing]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[CrossbarArrayVLSI]]
+[[Heterogeneous_Integration]]
 [[Interconnect_Topology]]
+[[KeyMaterialStrategy]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
+[[Wafer_Interconnect]]
 [[Wafer_Scale_Integration]]
+[[chiplet interconnect]]
 [[iNEST]]
 
 ## Sources

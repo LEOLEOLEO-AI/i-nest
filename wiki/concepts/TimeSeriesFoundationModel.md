@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Habituation_Dynamics]]
 [[HighThroughputPhenotyping]]
 [[HybridCouplingThermosensitiveNetwork]]
+[[InNetworkGradientPropagation]]
 [[InterDomain_Synergy]]
 [[Interconnect_Routing]]
 [[Neural_Manifold_Crystallization]]

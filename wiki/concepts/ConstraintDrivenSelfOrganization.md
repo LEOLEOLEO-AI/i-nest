@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityOffCriticalityTransition]]
 [[Criticality]]
 [[CrossbarFabricTopology]]
+[[DiffusionInducedInstability]]
 [[Dimensionality_Modularity_Tradeoff]]
 [[DynamicCentralitySteering]]
 [[Dynamic_Expert_Fusion]]

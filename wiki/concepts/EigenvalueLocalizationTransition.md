@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AnalogDomainCompression]]
 [[AnalogDomainCompressiveSensing]]
 [[AnomalousSpinTransport]]
+[[AtomicGeometryEncoding]]
 [[BigBrainCellularAxis]]
 [[Biomanufacturing_Control_Loop]]
 [[BrownianCastleInterface]]

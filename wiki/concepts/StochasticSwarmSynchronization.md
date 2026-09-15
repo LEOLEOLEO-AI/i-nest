@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[EmergentPatternFormation]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
+[[Emergent_Order_Deep_Belief_Networks]]
 [[EnergyEfficientNeuromorphic]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

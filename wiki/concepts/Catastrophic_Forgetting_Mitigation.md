@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstTemporalPlasticity]]
 [[CST_Theory]]
 [[CST_Theory_V27_FINAL]]
+[[ChannelEventSparsity]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]

@@ -81,13 +81,18 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]
 [[TCC]]
+[[TCC_iNEST_Interconnect]]
 [[TemporalComplexity]]
 [[Textbook_Paradigm_Definition]]
 [[TopologyCentricEngineeringBase]]
 [[TopologyFragility]]
 [[UniversalIntelligence_Emergence]]
+[[Wafer_Interconnect]]
+[[Wafer_Scale_Interconnect_Memristor]]
+[[chiplet interconnect]]
 [[complex system]]
 [[iNEST]]
+[[iNEST_Interconnect]]
 [[residual connection]]
 
 ## Sources

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor]]
 [[Memristor_Synapse]]
 [[MetricComputationAuthenticity]]
+[[NestedRepresentation]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[ReservoirDynamics]]

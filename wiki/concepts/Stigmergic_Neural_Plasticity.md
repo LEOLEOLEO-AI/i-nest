@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
+[[QuantumReservoirMemoryCapacity]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[STDP_Plasticity]]

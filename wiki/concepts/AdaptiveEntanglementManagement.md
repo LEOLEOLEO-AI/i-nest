@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Ant_Swarm_Functional_Control]]
 [[Architectural_Conditioning]]
 [[BarrierConditionedTrajectory]]
+[[BioInspired_Interception_Control]]
 [[Capability_Reserve_Index]]
 [[Cognitive_Relapse_Decoupling]]
 [[CollectiveStateTopology]]

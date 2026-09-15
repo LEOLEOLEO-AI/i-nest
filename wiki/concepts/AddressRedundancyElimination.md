@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[MixedLabyrinthFractal]]
 [[MixedSignalSNN_CoDesign]]
 [[NeuralNetworkSpectralAnalysis]]
+[[NeuromorphicHardwareCoDesign]]
 [[NeuromorphicRoutingOptimization]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]

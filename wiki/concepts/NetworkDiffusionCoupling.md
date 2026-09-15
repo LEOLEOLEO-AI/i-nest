@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Logic_Folding]]
 [[Network_Topology_Design]]
+[[PhotonicPackagingEfficiency]]
 [[RadiationHardened_ProcessNodeScaling]]
 [[RoutingBasedComputation]]
 [[SelfOrganization]]

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveDendriteSNN]]
 [[AdaptiveFrequencyResonateAndFire]]
 [[AdaptiveFunctionalTopology]]
+[[AdjustableDynamicsReservoir]]
 [[AstrocyteInspiredModulation]]
 [[AtomicGeometryEncoding]]
 [[BurstTemporalPlasticity]]

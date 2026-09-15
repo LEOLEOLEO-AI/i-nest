@@ -41,11 +41,13 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Organization]]
 [[Neuromorphic_Speech_Tokenizer]]
 [[SNN]]
+[[SNN_Spiking_Neural_Network]]
 [[ST_SNN]]
 [[SpiNNaker2_Chip]]
 [[SpiNNaker]]
 [[SpikeCodingAdversarialPerturbation]]
 [[Spike_Encoding_of_fMRI]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

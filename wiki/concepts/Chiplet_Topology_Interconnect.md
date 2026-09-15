@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[InterconnectConstrainedEmergence]]
 [[MachineLearningNanomaterialDiscovery]]
 [[Memristive_Interconnect]]
+[[MicroTransferPrinting]]
 [[MultiplicativeGainMechanism]]
 [[MultiplicativeGain]]
 [[NCL神经计算定律详解]]

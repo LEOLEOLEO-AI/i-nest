@@ -51,6 +51,8 @@ Auto-extracted concept from raw material compilation.
 [[Decoupled_Priors]]
 [[Deep_Network_Architecture_Invariant]]
 [[DynamicProgrammingRecycling]]
+[[EfficientDeepLearning]]
+[[EmergentIntelligence_Spacetime]]
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
@@ -71,8 +73,8 @@ Auto-extracted concept from raw material compilation.
 [[Structural_Mismatch]]
 [[TCC]]
 [[TemporalComplexity]]
-[[advanced packaging]]
 [[causal emergence]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

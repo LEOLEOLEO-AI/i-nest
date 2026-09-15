@@ -36,9 +36,13 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_iNEST_Wafer]]
 [[P_Paradigm]]
 [[Packaging_CoDesign]]
+[[Software_Defined_Wafer_System]]
 [[TCC]]
+[[TopologyCentricComputing]]
 [[WaferScaleTopologyCentricComputing]]
+[[Wafer_Interconnect]]
 [[Wafer_Scale_Integration]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

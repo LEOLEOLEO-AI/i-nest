@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AstrocyteInspiredRepair]]
 [[BigBrainCellularAxis]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
+[[CompactnessRegularizedFitness]]
 [[ComplexValuedSNN]]
 [[Complex_System_Theory]]
 [[Deep_SNN_Trainability]]

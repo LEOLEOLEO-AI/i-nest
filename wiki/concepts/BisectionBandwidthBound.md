@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[3d]]
 [[AdiabaticMultimodeBend]]
 [[AdvancedPackagingInterconnect]]
+[[Advanced_Packaging]]
 [[BisectionBandwidthMetric]]
 [[ChipletRoutingFabric]]
 [[ChipletTopologyAwareness]]
@@ -63,8 +64,9 @@ Auto-extracted concept from raw material compilation.
 [[ModeCouplingSuppression]]
 [[NetworkHysteresis]]
 [[Network_Topology_Design]]
+[[PathActionFunctional]]
 [[TCC]]
-[[advanced packaging]]
+[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

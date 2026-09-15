@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_Faculty_Forum_2026]]
 [[AdaptiveFlexibilityThreshold]]
+[[Allreduce_Latency_Benchmark]]
 [[Analog_InMemory_Processing]]
 [[AndersonTransition]]
 [[CST计量仪]]

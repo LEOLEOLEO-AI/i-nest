@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AmoebaInspiredLocomotion]]
 [[Anomaly_Protected_Scaling_Law]]
 [[BayesianConnectivityEstimation]]
+[[BioInspired_Interception_Control]]
 [[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[EnsembleCreditAssignment]]

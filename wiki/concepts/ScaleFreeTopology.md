@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Nishimori_Threshold]]
 [[NonHermitian_Random_Matrix_Spectra]]
+[[OptomechanicalNonlinearity]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
 [[TCC]]

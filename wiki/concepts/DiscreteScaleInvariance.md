@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalStateReservoir]]
 [[Crystallized_Neural_Manifolds]]
 [[DataDrivenMaterialDesign]]
+[[DistributedInference]]
 [[EcosystemTopologyCoupling]]
 [[ErrorSuppressedPipeline]]
 [[FederatedServiceGraph]]

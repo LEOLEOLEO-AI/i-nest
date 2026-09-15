@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Security_Architecture]]
 [[Complex_System_Theory]]
+[[CriticalInertiaEstimation]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[KV_Cache_To_BoundaryObject]]

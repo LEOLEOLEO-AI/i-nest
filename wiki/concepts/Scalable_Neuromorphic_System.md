@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Faculty_Forum_2026]]
 [[Adaptive_Deep_Brain_Stimulation]]
+[[Complex_System_Theory]]
 [[DARPA_ProjectManager_Model]]
 [[ErrorSuppressedPipeline]]
 [[MetaFAIR_ArchitectureDiscovery]]
@@ -30,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[P_Paradigm]]
+[[RuntimeTopologyMapping]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[TCC]]

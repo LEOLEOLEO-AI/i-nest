@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[EnsembleSparsity]]
 [[Entropy_Connectivity_Path]]
 [[Fixed_Cost_Dominance]]
+[[GutBrainAxis_Reprogramming]]
 [[Gut_Brain_Immune_Network]]
 [[Hardware_Accelerated_SNN]]
 [[HippocampalNeocorticalIntelligence]]

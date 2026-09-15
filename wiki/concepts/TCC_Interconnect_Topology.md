@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[DiagnosticReportFramework]]
 [[EulaminateOverrepresentation]]
 [[Heterogeneous_Integration]]
+[[Independent_EdgeAI_Player_Endgame]]
 [[Interconnect_Topology]]
 [[Medical_Large_Language_Models]]
 [[Memristor]]
@@ -62,6 +63,7 @@ Auto-extracted concept from raw material compilation.
 [[Textbook_Paradigm_Definition]]
 [[TopologyCentricPrimitiveSystem]]
 [[Wafer_Scale_Integration]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

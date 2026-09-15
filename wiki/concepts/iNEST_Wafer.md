@@ -20,6 +20,8 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
+[[Advanced_Packaging]]
 [[Complex_Network_Class_Brain_Computing]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[CrossbarArrayVLSI]]
@@ -31,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Mesoscale_Heterogeneous_Integration]]
 [[National_Mesoscale_Innovation_Center]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[Neuromorphic_Wafer]]
 [[Packaging_CoDesign]]
 [[SDSoW]]
@@ -45,7 +48,6 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Memristor_Integration]]
 [[Wafer_Scale_Neuromorphic]]
 [[Wafer_Scale_Neuromorphic_Integration]]
-[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

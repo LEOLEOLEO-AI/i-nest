@@ -27,7 +27,6 @@ Auto-extracted concept from raw material compilation.
 [[BackpropagationFreeLearning]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
 [[Complex_System_Theory]]
 [[Decoupled_Priors]]
 [[DiagnosticReportFramework]]
@@ -41,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[ModelToChipCompilation]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Obsidian_Plugin_Architecture]]
 [[P_Paradigm]]
 [[RTC_Primitive]]
 [[RTC_Primitives]]
@@ -59,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologyProgramming]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
+[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

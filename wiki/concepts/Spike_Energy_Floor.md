@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[EventBasedMotionDeblurring]]
 [[EventDrivenMotionDeblurring]]
+[[EventDrivenPlasticity]]
 [[ImageToEventConversion]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]

@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[DeepSpikingNeuralNetworkTraining]]
 [[DendriticTaskPartitioning]]
 [[DevelopmentalNeuromorphicAdaptation]]
+[[Distributed_Spike_Communication]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]

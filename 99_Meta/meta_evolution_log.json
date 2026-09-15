@@ -122,5 +122,36 @@
       }
     },
     "proposal": "D:\\Obsidian\\vault\\99_Meta\\evolution_proposals\\2026-09-06.md"
+  },
+  {
+    "date": "2026-09-13",
+    "window_days": 7,
+    "evidence": {
+      "self_evolve_runs": 2,
+      "git_commits": 6,
+      "health_trend": {
+        "notes": {
+          "first": 9114,
+          "last": 12460,
+          "delta": 3346
+        },
+        "broken": {
+          "first": 2081,
+          "last": 2053,
+          "delta": -28
+        },
+        "orphans": {
+          "first": 3341,
+          "last": 2713,
+          "delta": -628
+        },
+        "missing_fm": {
+          "first": 367,
+          "last": 679,
+          "delta": 312
+        }
+      }
+    },
+    "proposal": "D:\\Obsidian\\vault\\99_Meta\\evolution_proposals\\2026-09-13.md"
   }
 ]

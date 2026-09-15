@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Asymmetric_Electrode_Structure]]
 [[BrownianCastleInterface]]
 [[IGZO_ThinFilm_Channel]]
+[[Nanomaterial_Discovery_ML]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]

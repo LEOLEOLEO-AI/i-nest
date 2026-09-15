@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[ComputationEfficientDeepLearning]]
 [[DARPA_ProjectManager_Model]]
+[[Deep_Network_Architecture_Invariant]]
 [[Defense_Industrial_Base_Reshaping]]
 [[EfficientDeepLearning]]
 [[Network_Topology_Design]]

@@ -65,6 +65,7 @@ Auto-extracted concept from raw material compilation.
 [[OnDie_Fusion]]
 [[OpticalNeuralNetworkTopology]]
 [[Photonic_Chiplet_Interconnect]]
+[[ReliabilityOverheadTradeoff]]
 [[SDI_Bond]]
 [[SDI_Chiplet]]
 [[SDI_Chiplet_Interconnect]]
@@ -72,6 +73,7 @@ Auto-extracted concept from raw material compilation.
 [[Topology_Aware_NoC_Routing]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Packaging]]
+[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

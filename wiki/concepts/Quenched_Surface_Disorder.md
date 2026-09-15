@@ -49,6 +49,8 @@ Auto-extracted concept from raw material compilation.
 [[DarkSiliconAwarePowerGating]]
 [[Evaluation_Resolution]]
 [[FerroelectricMemoryCell]]
+[[Ferroelectric_Devices]]
+[[FirstLevelsSpectralClass]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

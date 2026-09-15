@@ -57,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Neuromorphic_Integration]]
 [[complex system]]
 [[emergent computation]]
+[[iNEST]]
 [[神经网络]]
 
 ## Sources

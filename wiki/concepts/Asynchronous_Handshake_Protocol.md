@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[BurstGatedRouting]]
 [[Continuous_Discrete_Compute_Gap]]
+[[Continuous_Spatiotemporal_State_Propagation]]
 [[EventDrivenAsync]]
 [[EventDrivenAsynchronousRouting]]
 [[Interconnect_Routing]]
@@ -35,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[SpikeBasedInference]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[Spiking_Temporal_Encoding]]
 

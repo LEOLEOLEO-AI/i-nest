@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AdjointWaveControl]]
+[[CavityMethodAnalysis]]
 [[CommunicationAwareComputeRelocation]]
 [[Free_Energy_Topology_Mapping]]
 [[HallmarkDrivenCancerModeling]]

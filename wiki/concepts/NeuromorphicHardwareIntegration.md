@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Ferroelectric_Devices]]
 [[Heterogeneous_Integration]]
 [[HigherOrderStochasticProcess]]
+[[In_Network_Neuromorphic_Offload]]
 [[InteractiveRoboticsLoop]]
 [[Local_Structure_Aware_Self_Attention]]
 [[LowBitSpikingPruning]]
@@ -52,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[Quadratic_Integrate_and_Fire]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[神经网络]]
 

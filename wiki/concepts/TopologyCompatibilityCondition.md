@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossLayer_SignalRouting]]
 [[DataMovementMinimization]]
 [[Decoupled_Priors]]
+[[Die_to_Die_Protocol]]
 [[Disordered_Frustrated_Dimer_Magnets]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
@@ -61,6 +62,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Self_Organized_Criticality]]
 [[TCC]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

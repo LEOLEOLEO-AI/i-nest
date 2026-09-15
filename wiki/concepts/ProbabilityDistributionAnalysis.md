@@ -63,6 +63,7 @@ Auto-extracted concept from raw material compilation.
 [[RandomNoiseRobustness]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SOC]]
+[[ScalingBehaviourDeviations]]
 [[SelfOrganizedOscillatoryLearning]]
 [[catastrophic forgetting]]
 [[涌现]]

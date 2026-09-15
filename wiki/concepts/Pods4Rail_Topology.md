@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[FlexibleManifoldReconfiguration]]
 [[Free_Energy_Topology_Mapping]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
+[[HigherOrderNetworkDynamics]]
 [[InNetworkComputing]]
 [[InNetworkPowerRouting]]
 [[Intelligence_Emergence]]

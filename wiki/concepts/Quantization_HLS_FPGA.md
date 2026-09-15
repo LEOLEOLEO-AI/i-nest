@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[DTGA]]
 [[EnsembleCreditAssignment]]
 [[FPGA_SNN_Inference]]
+[[FunctionalRelevanceDrivenSelfOrganization]]
 [[Interconnect_Routing]]
 [[Meta_Residual_Architecture]]
 [[MoE_Routing]]

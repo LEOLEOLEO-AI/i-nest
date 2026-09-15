@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AI人工智能 卷积神经网络（CNN）_w3cschool]]
 [[ANN动力学]]
 [[Active_Inference_Agent]]
+[[Alpha_Coefficient_Phase_Transition_Amplification]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

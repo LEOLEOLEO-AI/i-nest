@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[DataDrivenCellularAxis]]
 [[DiscreteContinuous_Unification]]
 [[Dynamic_Expert_Fusion]]
+[[EnsembleSparsity]]
 [[FlexibilityThreshold]]
 [[Gut_Brain_Immune_Network]]
 [[Heterogeneous_Integration]]

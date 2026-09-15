@@ -35,10 +35,12 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect_Topology]]
 [[CompactFieldVariable]]
 [[CrossbarArrayArchitecture]]
+[[DARPA_ProjectManager_Model]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Topology]]
 [[Network_Topology_Design]]
 [[TCC]]
+[[chiplet interconnect]]
 [[iNEST]]
 
 ## Sources

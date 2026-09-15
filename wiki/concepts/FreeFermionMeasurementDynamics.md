@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Critical_Region_Extension]]
 [[DirectConnect_Topology]]
 [[External_to_OnDie_Evolution]]
+[[GeneralIntelligenceSubstrate]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

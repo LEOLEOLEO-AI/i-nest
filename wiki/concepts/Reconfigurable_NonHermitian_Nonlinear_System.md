@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Decoupling]]
 [[ComplexTopologicalStructures]]
 [[Complex_System_Theory]]
+[[Deep_Thermalisation]]
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[Free_Energy_Topology_Mapping]]
@@ -56,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[ReproducibleReservoirDynamics]]
 [[ReservoirDynamics]]
 [[Reservoir_Computing]]
+[[chiplet interconnect]]
 [[Γst_Revision]]
 
 ## Sources

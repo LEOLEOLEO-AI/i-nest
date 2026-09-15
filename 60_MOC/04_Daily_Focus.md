@@ -1,4 +1,4 @@
-## 今日焦点 — 2026-09-08
+## 今日焦点 — 2026-09-14
 
 **并行主线 (7月30日前)**
 
@@ -7,9 +7,4 @@
 3. [专利] TCC 架构 + 实现专利 — 申报
 4. [工程] CST 仿真实验 — SDI N=1024 相位扫描
 
-## 今日文献 (0 TCC + 2 iNEST)
-
-- [iNEST] Quantum-State Texture Dynamics: Theory and Experiment
-- [iNEST] Large Language Models with At Most One Spike per Neuron
-
-*生成于 2026-09-08 06:56*
+*生成于 2026-09-14 08:28*

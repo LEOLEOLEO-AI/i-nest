@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[NonEquilibriumComputing]]
 [[OptimalGeneralisationNearInterpolation]]
+[[PolicyDrivenInnovation]]
 [[RecurrentOscillatoryComputation]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SelfOrganizedOscillatoryLearning]]

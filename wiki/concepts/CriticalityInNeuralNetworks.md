@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspiredInterceptionTask]]
 [[BioInspiredInterception]]
 [[BulletTrainScheduling]]
+[[ContinualLearningOnNeuromorphic]]
 [[Continuous_Control_Spiking_Stability]]
 [[CriticalityDrivenEfficientCoding]]
 [[CriticalityOffCriticalityTransition]]

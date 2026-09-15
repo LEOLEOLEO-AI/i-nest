@@ -57,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[RenormalizationGroup_DeviceNonlinearity]]
 [[Reservoir_Computing]]
 [[RestrictedConnectivityTopology]]
+[[TCC]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]

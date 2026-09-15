@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[3DGS_SplatPrimitive]]
 [[3d]]
 [[4H_SiC_SubstrateProcessing]]
+[[ASIC_Dualism]]
 [[BackpropagationFreeLearning]]
 [[BarrierConditionedTrajectory]]
 [[BeyondPTSymmetry]]
@@ -40,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Interconnect_Topology]]
 [[Network_Topology_Design]]
+[[chiplet interconnect]]
 [[iNEST]]
 
 ## Sources

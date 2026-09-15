@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Edge_Neuromorphic_Compute]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[InNetworkComputing]]
+[[InputAdaptiveComputation]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[MesonSpectra]]

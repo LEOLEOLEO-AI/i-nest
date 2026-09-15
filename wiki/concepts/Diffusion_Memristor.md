@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[1M1T1R_SynapticNeuron]]
 [[20W_Brain_Inspired_Planning]]
 [[Complex_System_Theory]]
+[[Conductive_Filament_Switching]]
 [[Direct_Threshold_Sensing]]
 [[DistributedInference]]
 [[Memristive_Synapse]]

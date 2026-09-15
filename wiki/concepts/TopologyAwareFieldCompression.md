@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Driven_Architecture_Search]]
 [[AI_Faculty_Forum_2026]]
 [[AI_Forum_Demo_Narrative]]
+[[Advanced_Packaging]]
 [[AmorphousTopologicalSubstrate]]
 [[BoundaryContract]]
 [[CellularSheaf]]
@@ -43,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Critical_Region_Extension]]
 [[CrossLingualIdiomGraph]]
 [[DiluteDipolarNetwork]]
+[[EmergentSwarmTopology]]
 [[FractalLabyrinthTopology]]
 [[GraphIsomorphismNetworks_EdgeFeatures]]
 [[GraphTopologyAnalysis]]
@@ -54,7 +56,6 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[TCC]]
 [[World_Model]]
-[[advanced packaging]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

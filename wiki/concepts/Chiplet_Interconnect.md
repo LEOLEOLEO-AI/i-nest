@@ -38,8 +38,9 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Interconnect]]
 [[P_Paradigm]]
 [[Photonic_Chiplet_Interconnect]]
+[[SDSoW_TCC_Integration]]
 [[TCC]]
-[[advanced packaging]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

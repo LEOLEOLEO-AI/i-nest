@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Network_Neuromorphic_Learning]]
 [[Interconnect_Routing]]
 [[MIND_Model]]
+[[Memristive_Interconnect]]
 [[Memristive_STDP]]
 [[Memristor]]
 [[Memristor_Synapse]]

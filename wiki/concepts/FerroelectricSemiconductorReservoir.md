@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AnomalousSpinTransport]]
 [[CST_Exponential_Gain]]
+[[Complex_System_Theory]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[CrashHotspotForecasting]]
@@ -32,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Reservoir_Topology]]
 [[Ferroelectric_Devices]]
 [[GroupInteractionThreshold]]
+[[InNetworkNeuromorphicSimulation]]
 [[Intelligence_Emergence]]
 [[LatencyCoding]]
 [[MeasurementInducedNonlinearity]]

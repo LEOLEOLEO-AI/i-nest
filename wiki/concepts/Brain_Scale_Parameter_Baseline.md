@@ -34,7 +34,9 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Industry_Alliance]]
 [[SDSoW_Strategic_Planning]]
 [[SensorMemoryCoLocation]]
+[[Software_Defined_Wafer_System]]
 [[TCC]]
+[[Wafer_Interconnect]]
 [[Wafer_Scale_Integration]]
 [[iNEST]]
 

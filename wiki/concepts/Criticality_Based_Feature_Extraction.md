@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[BioPlausiblePredictiveCoding]]
 [[BurstGatedRouting]]
+[[ContinuousTimeSNN]]
 [[Criticality]]
 [[DelayAwareSpikeEventDelivery]]
 [[DynamicTokenSparsity]]

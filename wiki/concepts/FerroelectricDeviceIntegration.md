@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Additive_Manufacturing_Supply_Chain]]
 [[AnalogInMemoryComputing]]
 [[Analog_InMemory_Processing]]
+[[CST_Spatiotemporal_Complexity]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]
@@ -53,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[Switch_Chiplet_Integration]]
 [[TCC]]
 [[TopologyAwareStateMigration]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

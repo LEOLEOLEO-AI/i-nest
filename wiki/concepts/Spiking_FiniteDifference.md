@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TemporalAdversarialPerturbation]]
 [[TemporalCodingForPointClouds]]
+[[TemporalSparsityExploitation]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

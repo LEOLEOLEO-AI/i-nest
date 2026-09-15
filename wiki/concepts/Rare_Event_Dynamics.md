@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[RunawayAvalanche]]
 [[SuddenLearning]]
 [[TCC]]
+[[Topological_Reservoir]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

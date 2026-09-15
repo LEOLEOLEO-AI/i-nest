@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Compositional_Continuum]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Crystallized_Neural_Manifolds]]
+[[DeviceLevelNonlinearityScaling]]
 [[Dynamic_Expert_Fusion]]
 [[ERI_2_0_Strategic_Framework]]
 [[EdgeFeatureEncoding]]

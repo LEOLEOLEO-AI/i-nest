@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Bidirectional_Temporal_Enhancement]]
 [[CorticalWaveRouting]]
+[[CrossbarArrayVLSI]]
 [[DiscreteSTDP]]
 [[Environmental_Capability_Context]]
 [[Hebbian_Embedding_Dynamics]]

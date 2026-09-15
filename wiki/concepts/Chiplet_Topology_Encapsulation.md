@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Packaging]]
 [[Chiplet_Topology]]
 [[CoPackagedOptics]]
+[[CommunicationOverlapMechanism]]
 [[Cryogenic_Syndrome_Compression]]
 [[DataMovementMinimization]]
 [[DirectConnect_Topology]]
@@ -55,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[SparseTemporalEncoding]]
 [[TCC]]
 [[Topology_Encapsulation]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

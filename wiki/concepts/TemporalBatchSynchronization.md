@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenFunctionalConnectivity]]
 [[Hardware_Accelerated_SNN]]
 [[Hebbian_Embedding_Dynamics]]
+[[In_Network_Neuromorphic]]
 [[Interconnect_Routing]]
 [[Memristor]]
 [[Memristor_Synapse]]

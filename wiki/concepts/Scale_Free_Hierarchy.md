@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_SNN_Trainability]]
 [[DeeplySupervisedSpiking]]
 [[DevelopmentalNeuromorphicAdaptation]]
+[[Distributed_Spike_Communication]]
 [[DrivenDissipativeDynamics]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence]]

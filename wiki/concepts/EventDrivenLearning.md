@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikingNeuralNetwork]]
 [[Spiking_Neural_Network]]
 [[TCC]]
+[[WaveBasedComputation]]
 [[iNEST]]
 
 ## Sources

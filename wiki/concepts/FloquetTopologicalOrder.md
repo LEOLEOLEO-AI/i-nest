@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[03 涌现：整体的能力不能还原回个体？ - 得到APP]]
+[[3D_Heterogeneous_Integration]]
 [[AIRA_NeuralArchSearch]]
 [[AdaptiveGraphDiffusion]]
 [[Adaptive_Intelligence_Principle]]
@@ -45,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Heterogeneous_Integration]]
 [[ImaginaryGaugePhaseImprint]]
+[[In_Memory_Computing]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Interconnect_Topology]]
@@ -54,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[OpticallyWritableAtomicVaporMemory]]
 [[SelfOrganization]]
 [[TCC]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]

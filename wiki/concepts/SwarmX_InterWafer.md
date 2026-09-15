@@ -35,10 +35,13 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Integrated_Cooling]]
 [[Integrated_Wafer_Cooling]]
+[[InterWafer_SwarmX]]
 [[Interconnect_Topology]]
 [[Network_Topology_Design]]
 [[TCC]]
+[[Wafer_Interconnect]]
 [[Wafer_Scale_Integration]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

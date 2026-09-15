@@ -58,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC]]
 [[OnDie_Fusion]]
 [[PhononicCrystalMicrowaveCoupling]]
+[[ReliabilityOverheadTradeoff]]
 [[SDI_Bond]]
 [[SDI_Chiplet]]
 [[SDI_Chiplet_Interconnect]]
@@ -66,7 +67,7 @@ Auto-extracted concept from raw material compilation.
 [[Topology_Aware_NoC_Routing]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Packaging]]
-[[advanced packaging]]
+[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

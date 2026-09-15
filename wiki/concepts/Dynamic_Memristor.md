@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[ClocklessReconfigurableChip]]
 [[ClosedLoopNeuromorphicControl]]
 [[Defense_Industrial_Base_Reshaping]]
+[[Dynamic_Expert_Routing]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]

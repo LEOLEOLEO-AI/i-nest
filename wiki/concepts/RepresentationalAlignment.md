@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[BeyondPTSymmetry]]
 [[BigBrain3DHistology]]
 [[BigBrainCellularAxis]]
+[[Bipartite_Interconnect_Design]]
 [[BrainActivityPrediction]]
 [[BrainBodyResonance]]
 [[Brain_Connectome]]

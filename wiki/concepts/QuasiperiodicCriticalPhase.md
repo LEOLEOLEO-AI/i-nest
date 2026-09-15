@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_Theory_V27_FINAL]]
 [[Complex_System_Theory]]
 [[Criticality]]
+[[DisorderInducedCriticality]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence]]

@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[BioPlausiblePredictiveCoding]]
 [[BurstGatedRouting]]
+[[Continuous_Spatiotemporal_State_Propagation]]
 [[Event_Driven_Architecture]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[In_Package_Neuromorphic_Integration]]
@@ -31,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[P_Paradigm]]
 [[SDI_Bond]]
+[[SDI_iNEST]]
 [[SDI_iNEST_Interconnect]]
 [[SNN]]
 [[Spiking_Neural_Network]]

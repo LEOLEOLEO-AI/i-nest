@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspired_Interception_Control]]
 [[BrainInspiredArchitecture]]
 [[Branch_Prediction_in_Pipelined_Processors]]
+[[CTVolumeManipulationDetection]]
 [[Compact_Sequence_Encoding]]
 [[DiffAttention_SubtractiveMechanism]]
 [[Discrete_Event_Spike_Simulation]]
@@ -42,7 +43,6 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Spiking_Neural_Network]]
 [[TCC]]
-[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

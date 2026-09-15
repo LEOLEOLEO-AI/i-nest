@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Additive_Manufacturing_Supply_Chain]]
 [[AdjointWaveControl]]
 [[AmoebaInspiredLocomotion]]
+[[BioInspired_Interception_Control]]
 [[CircuitTopologyEncoding]]
 [[ControlDrivenCriticalFluctuations]]
 [[Critical_Region_Extension]]

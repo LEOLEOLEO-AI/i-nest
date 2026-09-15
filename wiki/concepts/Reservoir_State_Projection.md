@@ -56,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[SDDE_Attractor_Emergence]]
 [[SemanticRelationTemporalGraph]]
 [[SimulabilityThreshold]]
+[[SpatialMultiplexingOfVortices]]
 [[TCC]]
 [[iNEST]]
 

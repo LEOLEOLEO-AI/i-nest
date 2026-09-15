@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveFlexibilityThreshold]]
 [[Autonomous_Physical_Computation]]
 [[BackflowTransformation]]
+[[BayesianDomainEvolution]]
 [[BioInspiredLearningRule]]
 [[Brain_Connectome]]
 [[C__elegans_Connectome]]

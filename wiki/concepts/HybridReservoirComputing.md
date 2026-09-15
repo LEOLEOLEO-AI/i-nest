@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Hybrid_LLM_Guided_Search]]
 [[InNetwork_Topological_Reservoir]]
 [[Intelligence_Emergence]]
+[[LLM_Heuristic_Pruning]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[ReadoutLayer]]
@@ -55,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[SemanticRelationTemporalGraph]]
 [[SimulabilityThreshold]]
 [[TCC]]
+[[Topological_Reservoir]]
 [[iNEST]]
 
 ## Sources

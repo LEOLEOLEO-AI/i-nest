@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[CeYIGMagnetoOpticalIsolator]]
 [[CellEmergence]]
 [[ChiralSymmetryClasses]]
+[[Compact_Boson_Dynamics]]
 [[Complex_System_Theory]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]

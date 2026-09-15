@@ -32,6 +32,8 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Topology]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
+[[NoC]]
 [[NoC_Chiplet_iNEST_Wafer]]
 [[Nonlinear_Gain]]
 [[P_Paradigm]]
@@ -40,7 +42,11 @@ Auto-extracted concept from raw material compilation.
 [[SDI_TCC_Chiplet_Interconnect]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
+[[Second_Curve_Wafer_Industry_Platform]]
 [[TCC]]
+[[chiplet interconnect]]
+[[iNEST]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

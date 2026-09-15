@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[GroupCoding]]
 [[HippocampalNeocorticalIntelligence]]
 [[Hypergraph_Label_Noise]]
+[[InNetworkRadarProcessing]]
 [[LatencyAwareLoss]]
 [[Minimum_Activity_Requirement]]
 [[Neuromorphic_Computing]]

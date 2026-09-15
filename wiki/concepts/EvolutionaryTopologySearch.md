@@ -53,7 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[SparseTemporalEncoding]]
 [[TCC]]
 [[Topology_Aware_NeuroTrain]]
-[[advanced packaging]]
+[[Wafer_Scale_Packaging]]
 [[iNEST]]
 [[iNEST_Wafer]]
 [[涌现]]

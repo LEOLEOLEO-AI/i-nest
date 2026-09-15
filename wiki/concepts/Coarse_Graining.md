@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Crystallized_Neural_Manifolds]]
 [[DarkSiliconAwarePowerGating]]
+[[Energy_Efficient_Control]]
 [[Network_Topology_Design]]
 [[iNEST]]
 [[神经网络]]

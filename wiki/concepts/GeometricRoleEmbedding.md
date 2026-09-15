@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[HighDimensionalContinuousRepresentation]]
 [[HigherOrderPublicGoodsGame]]
 [[InNetwork_Service_Composition]]
+[[Information_Theoretic_Selection]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]

@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[CoPoS]]
 [[CommunicationOverlapMechanism]]
 [[Complex_System_Theory]]
+[[ComputeRelocationOverhead]]
 [[EMIB_Bridge]]
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
@@ -70,7 +71,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TemporalComplexity]]
 [[Topology_Encapsulation]]
-[[advanced packaging]]
+[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

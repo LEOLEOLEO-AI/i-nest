@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[DeepSpikingNeuralNetworkTraining]]
 [[DevelopmentalNeuromorphicAdaptation]]
+[[Distributed_Spike_Communication]]
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[Intelligence_Emergence]]

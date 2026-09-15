@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikingNeuralNetworkTopology]]
 [[SpikingNeuralNetwork]]
 [[Spiking_Neural_Network]]
+[[WaveBasedComputation]]
 [[iNEST]]
 
 ## Sources

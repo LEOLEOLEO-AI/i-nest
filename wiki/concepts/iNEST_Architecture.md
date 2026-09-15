@@ -34,11 +34,11 @@ Auto-extracted concept from raw material compilation.
 [[BurstInterleaving]]
 [[Chemical_Bond_Operation_Algebra]]
 [[Closed_Loop_Neuromodulation]]
+[[ConnectionCentricParadigm]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
 [[TCC]]
-[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

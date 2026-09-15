@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[3d]]
 [[AI_Faculty_Forum_2026]]
 [[Attention_Residuals]]
+[[Beyond_Moore_Pathway]]
 [[Causal_Emergence]]
 [[Causal_Emergence_Architecture]]
 [[Chiplet]]

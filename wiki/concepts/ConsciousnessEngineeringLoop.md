@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[DataDrivenCellularAxis]]
 [[Environmental_Capability_Context]]
 [[EventCameraActionRecognition]]
+[[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]

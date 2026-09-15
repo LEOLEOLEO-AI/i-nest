@@ -39,10 +39,13 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Industry_Alliance]]
 [[SDSoW_Strategic_Planning]]
 [[SDSoW_TCC_Integration]]
+[[Software_Defined_System_on_Wafer]]
 [[TCC]]
 [[Topology_Interconnect]]
+[[Wafer_Interconnect]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

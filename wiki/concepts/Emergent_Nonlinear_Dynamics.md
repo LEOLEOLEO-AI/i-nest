@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
+[[NonlinearSelectivityRatio]]
 [[Nonlinear_Gain]]
 [[RecursiveSelfReferentialArchitecture]]
 [[TCC]]

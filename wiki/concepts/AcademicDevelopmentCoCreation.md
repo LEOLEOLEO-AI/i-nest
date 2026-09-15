@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[ArchitecturalCondition]]
 [[Architectural_Conditioning]]
 [[Bosonic_SPT_Phases]]
+[[CausalEmergenceCondition]]
 [[CoexistencePhaseDiagram]]
 [[CombinedImportanceScoring]]
 [[Complex_System_Theory]]

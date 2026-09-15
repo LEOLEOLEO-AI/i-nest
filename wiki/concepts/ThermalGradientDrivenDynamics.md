@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[ArchitecturalCondition]]
 [[BioInspiredGeneralist]]
 [[Capability_Reserve_Index]]
+[[ChiralSymmetryClasses]]
 [[Cognitive_Relapse_Decoupling]]
 [[CollectiveStateTopology]]
 [[CommunicationAwareComputeRelocation]]

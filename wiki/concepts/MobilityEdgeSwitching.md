@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[GroupInfluenceThreshold]]
 [[InNetworkComputing]]
+[[InputAdaptiveComputation]]
 [[Interconnect_Routing]]
 [[MoE_Routing]]
 [[MobilityEdge]]

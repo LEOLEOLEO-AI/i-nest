@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalInertiaEstimation]]
 [[DarkSiliconAwarePowerGating]]
 [[EpoxyMoldingCompoundEncapsulation]]
+[[FerroelectricMemoryCell]]
 [[Intelligence_Emergence]]
 [[MicroTransferPrinting]]
 [[Network_Topology_Design]]

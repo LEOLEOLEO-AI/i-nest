@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[ConductingPolymerDendriteMemory]]
 [[CongestionAwareLoss]]
 [[DendriticTaskPartitioning]]
+[[DendriticTaskRouting]]
 [[EpidemicThreshold]]
 [[Event_Driven_Architecture]]
 [[InSensorMemoryComputing]]

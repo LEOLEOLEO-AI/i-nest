@@ -21,10 +21,12 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[InNetworkNeuromorphicSimulation]]
+[[InNetworkNeuromorphic]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
+[[Reservoir_Computing]]
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SNN]]

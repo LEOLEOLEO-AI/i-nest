@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveModelPartitioning]]
 [[Adaptive_Path_Selection]]
 [[ArbitraryWavefunctionConfigurability]]
+[[Beyond_Moore_Pathway]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]

@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[DiagnosticReportFramework]]
 [[Dynamic_Expert_Fusion]]
 [[EulaminateOverrepresentation]]
+[[Memory_Wall]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Spatiotemporal_Synergy]]
 [[Network_Topology_Design]]

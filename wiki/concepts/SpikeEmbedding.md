@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Ferroelectric_Devices]]
 [[Heterogeneous_Integration]]
 [[HigherOrderStochasticProcess]]
+[[In_Network_Neuromorphic_Offload]]
 [[InteractiveRoboticsLoop]]
 [[Local_Structure_Aware_Self_Attention]]
 [[LowBitSpikingPruning]]

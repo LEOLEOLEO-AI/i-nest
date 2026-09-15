@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Synaptic_Behavior]]
 [[AvalancheBranchingRatio]]
 [[Avoided_Criticality]]
+[[BioPlausibleDisturbanceObserver]]
 [[BranchingRatio]]
 [[BurstTemporalPlasticity]]
 [[CST_Theory]]

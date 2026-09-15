@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[BigBrainCellularAxis]]
+[[Bipartite_Interconnect_Design]]
 [[Cascading_Failure_Mitigation]]
 [[ConductingPolymerDendriteMemory]]
 [[ConsciousnessEngineeringLoop]]

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[ElasticInferenceScheduling]]
 [[EventCameraPoseInput]]
 [[ExtinctionDrivenMetastability]]
+[[Fixed_Term_Project_Structure]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[STDP_Plasticity]]

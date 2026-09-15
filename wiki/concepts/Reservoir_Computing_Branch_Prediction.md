@@ -62,6 +62,7 @@ Auto-extracted concept from raw material compilation.
 [[ReservoirYield]]
 [[Reservoir_Computing]]
 [[Reservoir_Computing_DP_Recycling]]
+[[TensorNetworkReservoir]]
 [[branch prediction]]
 [[pipelined processor]]
 

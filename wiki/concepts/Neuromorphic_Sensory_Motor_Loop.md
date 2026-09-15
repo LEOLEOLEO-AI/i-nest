@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Generalization]]
 [[Emergent_Generalization_Dynamics]]
 [[EnergyEfficientNeuromorphic]]
+[[EventDrivenModularArchitecture]]
 [[FullyLocalOnlineSNNTraining]]
 [[GradientBasedSpikeLearning]]
 [[Intelligence_Emergence]]

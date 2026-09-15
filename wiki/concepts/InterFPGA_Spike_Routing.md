@@ -62,6 +62,7 @@ Auto-extracted concept from raw material compilation.
 [[ST_SNN]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
+[[Surface_Phase_Transition]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]

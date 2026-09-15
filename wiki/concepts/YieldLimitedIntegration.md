@@ -26,6 +26,8 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[CrossbarArrayVLSI]]
+[[Dynamic_Structural_Hole_Reconfiguration]]
+[[Heterogeneous_Integration]]
 [[Interconnect_Topology]]
 [[MicroRouter_Embedding]]
 [[Network_Topology_Design]]
@@ -39,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[WaferScaleCoDesign]]
 [[Wafer_Scale_Integration]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

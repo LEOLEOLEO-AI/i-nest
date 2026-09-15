@@ -55,6 +55,8 @@ Auto-extracted concept from raw material compilation.
 [[SelfHealing_Interconnect]]
 [[Synaptic_Plasticity]]
 [[ViewDependentAppearance]]
+[[chiplet interconnect]]
+[[iNEST 论文矩阵计划]]
 [[Γst_Revision]]
 
 ## Sources

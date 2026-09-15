@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Co_designed_Online_Continual_Learning]]
 [[Controlled_Release_Kinetics]]
 [[Cytokine_Feedback_Loops]]
+[[Decoupled_Prior_Integration]]
 [[Online_Continual_Learning]]
 [[Synaptic_Plasticity]]
 [[TCC]]

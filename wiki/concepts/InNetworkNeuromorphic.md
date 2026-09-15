@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Active_Inference_Architecture]]
 [[Activity_Dependent_Plasticity]]
 [[AnisotropicGaussianPrimitives]]
+[[Edge_AI_Acquisition_Consolidation]]
 [[In_Network_Neuromorphic]]
 [[Neuromorphic_Computing]]
 [[SNN]]

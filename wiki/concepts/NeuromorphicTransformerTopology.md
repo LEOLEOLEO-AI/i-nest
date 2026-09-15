@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[PropertyPredictionModeling]]
 [[SNN]]
 [[Spiking_Neural_Network]]
+[[StateSpaceSequenceModeling]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[智能涌现]]

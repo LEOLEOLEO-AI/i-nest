@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[ActivityAvalanche]]
 [[ActivityPropagationCascade]]
 [[Activity_Energy_Tradeoff]]
+[[AdaptiveFlexibilityThreshold]]
 [[AnisotropicGaussianPrimitives]]
 [[Bidirectional_Temporal_Enhancement]]
 [[Network_Topology_Design]]

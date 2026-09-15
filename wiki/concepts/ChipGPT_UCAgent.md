@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Service_Orchestration]]
 [[AndersonTransition]]
 [[Compute_In_Memory_Neuromorphic]]
+[[CrossDomain_Integration]]
 [[Ferroelectric_ComputeInMemory]]
 [[Ferroelectric_Devices]]
 [[In_Memory_Computing]]

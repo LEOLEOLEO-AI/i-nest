@@ -58,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[Spatiotemporal_Synergy]]
 [[Spatiotemporal_Synergy_Complexity]]
 [[TCC]]
+[[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[TopologicalAndersonChernInsulator]]
 [[analog computation]]
 [[vLLM_plugin_FLSDI]]

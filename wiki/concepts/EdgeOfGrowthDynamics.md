@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[EdgeOfGrowth]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
+[[EmulationTheoryDisturbanceObserver]]
 [[InNetworkComputing]]
 [[Intelligence_Emergence]]
 [[RecursiveSelfReferentialArchitecture]]

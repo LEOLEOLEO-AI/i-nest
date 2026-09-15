@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[DeviceLevelNonlinearity]]
 [[Griffiths_Phase]]
 [[Intelligence_Emergence]]
+[[L2_L3_Reconfigurability]]
 [[MitigationLayers]]
 [[Mucosal_Immune_PhaseTransition]]
 [[Network_Topology_Design]]

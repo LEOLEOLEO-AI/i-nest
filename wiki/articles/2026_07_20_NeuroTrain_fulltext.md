@@ -27,5 +27,6 @@ SNN, neuromorphic, spiking
 [[Neuromorphic_Computing]]
 [[OpenBenchmarkingFramework]]
 [[SNN]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]

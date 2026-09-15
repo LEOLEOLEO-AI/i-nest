@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenComputation]]
 [[Event_Driven_Architecture]]
 [[Event_Driven_Computation]]
+[[JunctionSignalIntegrity]]
 [[Neuromorphic_Computing]]
 [[STDP_Plasticity]]
 [[SpikeEncoding]]

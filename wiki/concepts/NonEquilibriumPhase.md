@@ -41,6 +41,8 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Architecture]]
 [[Event_Driven_Computation]]
 [[In_Network_Neuromorphic]]
+[[Intelligence_Emergence]]
+[[JunctionSignalIntegrity]]
 [[Neuromorphic_Computing]]
 [[On_Chip_STDP_Learning]]
 [[ResonateAndFireEncoding]]

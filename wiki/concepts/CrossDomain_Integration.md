@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[3d]]
 [[AI_Faculty_Forum_2026]]
 [[AdaptiveGraphDiffusion]]
+[[Adaptive_Intelligence_Principle]]
 [[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[Allreduce_Latency_Probe]]
@@ -67,7 +68,6 @@ Auto-extracted concept from raw material compilation.
 [[State_Transition_Formalism]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
-[[advanced packaging]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

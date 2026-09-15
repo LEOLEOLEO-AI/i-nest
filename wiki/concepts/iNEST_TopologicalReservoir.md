@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AnomalousSpinTransport]]
 [[AstrocyteInspiredRepair]]
 [[Autonomous_Physical_Computation]]
+[[BayesianDomainEvolution]]
 [[Brain_Connectome]]
 [[C__elegans_Connectome]]
 [[C_elegansConnectomeAnalogy]]

@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[EmergentSwarmTopology]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[TCC]]

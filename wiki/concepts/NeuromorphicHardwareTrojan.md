@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Bipartite_Interconnect]]
 [[Bipartite_Interconnect_Design]]
 [[Complex_System_Theory]]
+[[Emergent_Order_Deep_Belief_Networks]]
 [[FPGA_Neuromorphic_Architectures]]
 [[Intelligence_Emergence]]
 [[Intelligent_Emergence_Computing]]

@@ -57,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[ReservoirYieldMaximization]]
 [[ReservoirYield]]
 [[Reservoir_Computing]]
+[[SDSoW]]
 [[SelfOrganizedOscillatoryLearning]]
 [[SuperparamagneticSwitchingRate]]
 [[TwoTimescaleNeuroEvolution]]

@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[CulturalDisseminationDynamics]]
 [[HigherAreaRankingDivergence]]
 [[Interconnect_Routing]]
+[[MembranePotentialModulation]]
 [[MoE_Routing]]
 [[Nanomaterial_Discovery_ML]]
 [[NeuromorphicRL]]

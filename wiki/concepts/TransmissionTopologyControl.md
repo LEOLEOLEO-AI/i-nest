@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[EdgeIoTEnergyAwareness]]
 [[ElectricFieldModulatedCoupling]]
 [[EvolvingArchitectureDynamics]]
+[[ExactWiringRouting]]
 [[FPGA_Reconfigurability]]
 [[GenerativeTopologyModels]]
 [[HybridCouplingThermosensitiveNetwork]]

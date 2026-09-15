@@ -46,11 +46,11 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration]]
 [[Chiplet_Stacking]]
 [[ChiralSymmetryClasses]]
+[[CoPackagedOptics]]
 [[ComputeRelocationOverhead]]
 [[EndToEndLinkSimulation]]
 [[Heterogeneous_Integration]]
 [[TCC]]
-[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

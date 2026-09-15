@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AmoebaInspiredLocomotion]]
 [[Analog_InMemory_Processing]]
 [[AutonomousAdaptation]]
+[[BioInspired_Interception_Control]]
 [[BrownianCastleInterface]]
 [[CavityMethodAnalysis]]
 [[CoPackagedOptics]]

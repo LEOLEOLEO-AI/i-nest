@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Faculty_Forum_2026]]
+[[DARPA_ProjectManager_Model]]
 [[InNetworkRadarProcessing]]
 [[In_Package_Neuromorphic_Integration]]
 [[Memristive_Crossbar]]
@@ -28,6 +29,8 @@ Auto-extracted concept from raw material compilation.
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
+[[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[P_Paradigm]]
 [[Spiking_Neural_Network]]
 [[iNEST]]

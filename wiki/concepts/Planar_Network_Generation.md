@@ -58,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[OneDimensionalSpinGlass]]
+[[PhaseTransitionExistence]]
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[TCC]]

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[ActionPrototypeClustering]]
+[[Bipartite_Interconnect_Design]]
 [[BrainInspiredArchitecture]]
 [[ConductingPolymerDendriteMemory]]
 [[Efficient_Coding_Constraint]]

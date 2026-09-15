@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Endocrine_Modulated_Network_State]]
 [[EventDrivenAttentionMasking]]
+[[EventDrivenAttentionMechanism]]
 [[HippocampalNeocorticalIntelligence]]
 [[Intelligence_Emergence]]
 [[IntrinsicTimingSTDP]]

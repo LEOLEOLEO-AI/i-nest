@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Anomaly_Protected_Scaling_Law]]
 [[ArchitecturalCondition]]
 [[Architectural_Conditioning]]
+[[BioInspired_Interception_Control]]
 [[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[CrossbarFabricTopology]]

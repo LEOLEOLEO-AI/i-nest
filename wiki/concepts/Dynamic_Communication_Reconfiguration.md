@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenAsynchronousRouting]]
 [[FPGA_NeuromorphicMapping]]
 [[Heterogeneous_Integration]]
+[[InNetworkRadarProcessing]]
 [[Interconnect_Routing]]
 [[Memristor]]
 [[Memristor_Interconnect]]

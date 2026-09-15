@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AI人工智能 卷积神经网络（CNN）_w3cschool]]
 [[AdditiveTopology_Embedding]]
 [[AlloyDisorderEngineering]]
+[[BCM滑动阈值]]
 [[BerryCurvatureIsolation]]
 [[BioInspired_Interception_Control]]
 [[CST_Theory]]

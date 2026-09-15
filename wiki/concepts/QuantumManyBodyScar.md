@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[CollectiveStabilityMetric]]
 [[CollectiveStateStability]]
 [[Complex_System_Theory]]
+[[ConfinementMechanism]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_iNEST]]
 [[Spike_Timing_Dependent_Plasticity]]
 [[Spike_timing_dependent_plasticity_learning_rule]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[Synaptic_Plasticity_Rule]]

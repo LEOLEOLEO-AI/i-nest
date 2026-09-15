@@ -54,6 +54,8 @@ Auto-extracted concept from raw material compilation.
 [[SpikeTimingCoding]]
 [[SpikeTimingGradientPropagation]]
 [[SpikeTimingGradient]]
+[[SpikeTimingSideChannel]]
+[[SpikingNeuralNetwork]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]

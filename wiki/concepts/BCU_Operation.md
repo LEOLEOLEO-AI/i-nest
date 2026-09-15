@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_NoC_Fabric]]
+[[DynamicProgrammingRecycling]]
 [[HBM_Replacement_Interconnect]]
 [[HeterogeneousInference]]
 [[Heterogeneous_Inference_Offload]]

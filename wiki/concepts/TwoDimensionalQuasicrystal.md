@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[CircuitTopologyEncoding]]
 [[Complex_System_Theory]]
 [[Confinement]]
+[[ConstraintDrivenOptimization]]
 [[ControlDrivenCriticalFluctuations]]
 [[Critical_Region_Extension]]
 [[CubicLatticeInterconnect]]

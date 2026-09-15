@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Physical_Reservoir_Computing]]
 [[ReservoirDynamics]]
 [[Reservoir_Computing]]
+[[ShortTermMemoryReservoir]]
 [[SpatialMultiplexingOfVortices]]
 [[ThermalNoiseHarnessing]]
 [[iNEST]]

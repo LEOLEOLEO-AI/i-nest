@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[RecurrentOscillatoryComputation]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SOC]]
 [[ScalableNeuromorphicTopology]]
 [[SelfOrganizedOscillatoryLearning]]
 [[SpikeDrivenDataAssociation]]
@@ -61,6 +62,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC_SpikingAnalysis]]
 [[TCC_SpikingIntegration]]
 [[TopologicalAndersonChernInsulator]]
+[[Topology_Centric_Spiking]]
 [[iNEST]]
 [[神经网络]]
 

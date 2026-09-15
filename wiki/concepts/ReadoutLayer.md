@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[Bosonic_SPT_Phases]]
 [[BoundaryObject_Abstraction]]
+[[CausalEmergenceCondition]]
 [[Complex_System_Theory]]
 [[CrystalPalace_Program]]
 [[Crystallized_Neural_Manifolds]]

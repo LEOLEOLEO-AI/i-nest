@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[BifurcationCandidate]]
 [[BoundaryContract]]
 [[ChiralSymmetryClasses]]
+[[Compute_In_Memory_Neuromorphic]]
 [[Course_Based_FPGA_Projects]]
 [[CrystalPalace_Program]]
 [[Deep_Thermalisation]]

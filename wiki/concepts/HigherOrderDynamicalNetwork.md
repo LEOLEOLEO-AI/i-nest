@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration]]
 [[Chiplet_Integration_Route]]
 [[ChiralTopologicalMatter]]
+[[CommunicationHeterogeneity]]
 [[Complex_System_Theory]]
 [[Cryogenic_Syndrome_Compression]]
 [[Deep_Thermalisation]]

@@ -86,6 +86,9 @@ Auto-extracted concept from raw material compilation.
 [[TemporalComplexity]]
 [[TopologyFragility]]
 [[UniversalIntelligence_Emergence]]
+[[VonNeumann_Complexity_Threshold]]
+[[Wafer_Interconnect]]
+[[chiplet interconnect]]
 [[complex system]]
 [[residual connection]]
 

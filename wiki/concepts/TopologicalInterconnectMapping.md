@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[EdgeIoTEnergyAwareness]]
 [[FiniteSizeTopologicalPhase]]
+[[GNN图神经网络，非结构化数据分析利器！]]
 [[Intelligence_Emergence]]
 [[Less is more，大脑“低能耗”并“高效响应”的秘诀：模块化]]
 [[Memristive_Topology]]

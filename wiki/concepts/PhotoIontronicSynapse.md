@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[OptimalGeneralisationNearInterpolation]]
 [[RecursiveSelfReferentialArchitecture]]
+[[ResonantFrequencyAdaptationRule]]
 [[SpikePacketCompression]]
 [[SpikingNeuralNetworkTopologyMapping]]
 [[SpikingNeuralNetworkTopology]]

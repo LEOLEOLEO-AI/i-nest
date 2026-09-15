@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[KinematicWavePropagation]]
 [[LatencyGradientDescent]]
 [[LossSpikePhenomenon]]
+[[LowRankPerturbation]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[ProbabilisticSpikingNeuralNetwork]]

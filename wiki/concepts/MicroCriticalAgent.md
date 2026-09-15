@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Milinkovic B (2024)：复杂神经系统涌现动力学结构]]
 [[Minimal_Computational_Unit]]
+[[Nature Communications：具有片上学习的神经形态处理器，用于超越CMOS设备的集成]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]

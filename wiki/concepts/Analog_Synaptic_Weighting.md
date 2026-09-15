@@ -73,7 +73,8 @@ Auto-extracted concept from raw material compilation.
 [[TemporalComplexity]]
 [[TopologyCentricEngineeringBase]]
 [[Topology_Centric_Computing]]
-[[advanced packaging]]
+[[chiplet interconnect]]
+[[iNEST]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

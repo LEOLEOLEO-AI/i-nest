@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[DisorderInducedLocalization]]
 [[HigherOrderPublicGoodsGame]]
 [[Intelligence_Emergence]]
+[[ManufacturingCloudOrchestration]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]

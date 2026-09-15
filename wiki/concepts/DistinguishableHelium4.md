@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[ExactFiringRateModel]]
 [[HippocampalNeocorticalIntelligence]]
 [[Intelligence_Emergence]]
+[[Interconnect_Routing]]
 [[IntrinsicTimingSTDP]]
 [[Network_Topology_Design]]
 [[NeuromorphicAuditoryFrontend]]
@@ -63,6 +64,7 @@ Auto-extracted concept from raw material compilation.
 [[TemporalPrecisionScheduling]]
 [[TemporalSpikePattern]]
 [[Temporally_Precise_Training_Parallelization]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[神经网络]]
 [[类脑芯片]]
 

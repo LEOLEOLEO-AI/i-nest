@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Ferroelectric_ComputeInMemory]]
 [[Ferroelectric_Devices]]
 [[FisherOrthogonalMemory]]
+[[FlagOS_2_0]]
 [[Heterogeneous_Integration]]
 [[HybridResistiveMemoryCIM]]
 [[In_Memory_Computing]]
@@ -56,7 +57,6 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[SneakPathCurrentSuppression]]
 [[TCC]]
-[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

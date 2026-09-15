@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[CLINKAsCarrierPrimitive]]
 [[Cache_Aware_Flow_Scheduling]]
 [[CavityMethodAnalysis]]
+[[Electronic_Crystal_Dynamics]]
 [[FPGA_Reconfigurability]]
 [[InSitu_Adjoint_Wave_Control]]
 [[Inference_Workload_Profiling]]

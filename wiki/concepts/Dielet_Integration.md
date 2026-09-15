@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[AdiabaticMultimodeBend]]
 [[AdsorptionBiosorptionHybrid]]
 [[AdvancedPackagingInterconnect]]
+[[Allreduce_Latency_Benchmark]]
 [[Analog_InMemory_Processing]]
 [[BackpropagationFreeLearning]]
 [[CST计量仪]]

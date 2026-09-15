@@ -37,6 +37,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[AdjustableDynamicsReservoir]]
 [[AdjustableDynamics]]
 [[AstrocyteInspiredModulation]]
+[[AtomicGeometryEncoding]]
 [[BarrierConditionedTrajectory]]
 [[Closed_Loop_SNN_Stability_Boundary]]
 [[CrashHotspotForecasting]]

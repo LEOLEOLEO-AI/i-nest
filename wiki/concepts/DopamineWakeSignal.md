@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[CerebellarLikeCircuit]]
 [[Channel_Decoding_Energy_Landscape]]
 [[Complex_System_Theory]]
+[[CorticalEfficiencyReliabilityExchange]]
 [[DAGGER_Algorithm]]
 [[DisorderInducedLocalization]]
 [[EdgeIntelligence_Framework]]

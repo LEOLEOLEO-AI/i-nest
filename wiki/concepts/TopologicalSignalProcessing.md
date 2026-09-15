@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[4H_SiC_SubstrateProcessing]]
+[[ASIC_Dualism]]
 [[BackpropagationFreeLearning]]
 [[BeyondPTSymmetry]]
 [[CellEmergenceMechanism]]
@@ -41,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[TOOLS]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

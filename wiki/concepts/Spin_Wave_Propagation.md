@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Weight_Storage]]
 [[AnomalousSpinTransport]]
 [[Attention_Residuals]]
+[[BigBrainCellularAxis]]
 [[BurstInterleaving]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -36,7 +37,6 @@ Auto-extracted concept from raw material compilation.
 [[Memory_Wall]]
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
-[[Neuromorphic_Interconnect]]
 [[NoC]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[Nonlinear_Gain]]
@@ -58,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[analog computation]]
 [[iNEST]]
 [[iNEST_Interconnect]]
+[[neuromorphic interconnect]]
 [[vLLM_plugin_FLSDI]]
 
 ## Sources

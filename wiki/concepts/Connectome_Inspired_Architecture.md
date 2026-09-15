@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[Topological_Recurrent_Feedback_Loops]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
 [[getnote_2026-01-12_数字孪生大脑工程化路径]]

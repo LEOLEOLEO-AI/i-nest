@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveDensityControl]]
 [[AmorphousSolidPlasticity]]
 [[CertifiedBifurcationDetection]]
+[[CoexistencePhaseTransition]]
 [[CouplingTopologyMemoryLink]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

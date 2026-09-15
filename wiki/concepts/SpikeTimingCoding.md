@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Architecture]]
 [[Event_Driven_Computation]]
 [[ExtinctionDrivenMetastability]]
+[[Fixed_Term_Project_Structure]]
 [[ImpactFallDetection]]
 [[InteractingQuasiPeriodicChain]]
 [[Oncological_Digital_Twin]]

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspired_Interception_Control]]
 [[BioPlausiblePredictiveCoding]]
 [[BurstGatedRouting]]
+[[CriticalityOffCriticalityTransition]]
 [[Criticality]]
 [[Criticality_Based_Feature_Extraction]]
 [[DevelopmentalNeuromorphicAdaptation]]

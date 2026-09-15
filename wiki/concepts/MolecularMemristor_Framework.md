@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[SDI_STDP_Rule]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

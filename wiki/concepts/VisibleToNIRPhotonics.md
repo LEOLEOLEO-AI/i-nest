@@ -60,9 +60,11 @@ Auto-extracted concept from raw material compilation.
 [[ModeCouplingSuppression]]
 [[NetworkHysteresis]]
 [[Network_Topology_Design]]
+[[PathActionFunctional]]
 [[PhononicCrystalMicrowaveCoupling]]
 [[SpectralGapLazyRandomWalk]]
 [[TCC]]
+[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

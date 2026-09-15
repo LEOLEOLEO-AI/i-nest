@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Fading_Memory_Property]]
 [[FormalLinguisticCompetence]]
+[[GNN图神经网络，非结构化数据分析利器！]]
 [[HierarchicalBayesianCommunityDetection]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

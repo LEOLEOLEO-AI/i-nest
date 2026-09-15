@@ -16,6 +16,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Faculty_Forum_2026]]
 [[ANN动力学]]
+[[AlternativeBridgingModels]]
 [[AnomalousSpinTransport]]
 [[Attention_Residuals]]
 [[Complex_System_Theory]]
@@ -28,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[GenerativeTopologyModels]]
 [[Hardware_Accelerated_SNN]]
 [[InNetworkNeuromorphicSimulation]]
+[[InNetworkNeuromorphic]]
 [[InNetwork_CST_Offload]]
 [[Intelligence_Emergence]]
 [[Memristive_ANN_Hardware]]

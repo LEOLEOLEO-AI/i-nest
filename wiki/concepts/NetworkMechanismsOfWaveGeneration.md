@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[Meta_Topology]]
 [[NetworkDiameterMetric]]
 [[Network_Topology_Design]]
+[[NeuronalCultureConnectivityGraph]]
 [[Nonlinear_Gain]]
 [[OneDimensionalTopologicalPhase]]
 [[SDI_Bond]]

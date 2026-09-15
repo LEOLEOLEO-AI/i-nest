@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Topology_Mapping]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Heterogeneous_Integration]]
+[[Inference_Workload_Profiling]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]

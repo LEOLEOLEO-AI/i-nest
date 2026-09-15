@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Decoupling_Mechanism]]
 [[Deep_Network_Layer_Stacking]]
 [[DendriticReservoirState]]
+[[Evolutionary_Computability]]
 [[Free_Energy_Topology_Mapping]]
 [[FunctionalInterfaceBlock]]
 [[FunctionalInterfaceBlocks]]
@@ -55,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[ReproducibleReservoirComputing]]
 [[Reservoir_Computing]]
 [[TCC]]
+[[chiplet interconnect]]
 [[iNEST]]
 
 ## Sources

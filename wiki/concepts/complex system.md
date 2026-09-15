@@ -44,6 +44,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Cross_Node_Event_Propagation]]
 [[Distributed_Spike_Communication]]
 [[Environmental_Capability_Context]]
+[[FixedOverheadPenalty]]
 [[Heterogeneous_Integration]]
 [[HigherOrderStochasticProcess]]
 [[Hypergraph_Label_Noise]]

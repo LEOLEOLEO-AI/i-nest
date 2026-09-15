@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[ComputationEfficientDeepLearning]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Deep_Network_Architecture_Invariant]]
+[[DeviceLevelNonlinearityScaling]]
 [[EdgeFeatureEncoding]]
 [[EfficientDeepLearning]]
 [[EmergentIntelligence_Spacetime]]
@@ -66,6 +67,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

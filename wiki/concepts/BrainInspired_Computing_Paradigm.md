@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Faculty_Forum_2026]]
+[[Bond_Operation_Algebra]]
 [[Chemical_Bond_Operation_Algebra]]
 [[Complex_System_Theory]]
 [[EventDrivenRiskAssessment]]
@@ -34,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Organization]]
 [[Neuromorphic_Topology]]
 [[Sequence_First_Processing]]
+[[WaveBasedComputation]]
 [[iNEST]]
 
 ## Sources

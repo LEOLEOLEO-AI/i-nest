@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[AutonomousAdaptation]]
 [[BigBrainCellularAxis]]
+[[ChannelEventSparsity]]
 [[Cognitive_Relapse_Architecture]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Complexity_Emergence]]

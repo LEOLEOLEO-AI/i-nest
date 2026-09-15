@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[3D_Integrated_Chiplet_Stacking]]
 [[3d]]
 [[AdvancedPackagingInterconnect]]
+[[Advanced_Packaging_for_Space]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
@@ -45,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Topology]]
 [[TCC]]
 [[TSV_Interconnect]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

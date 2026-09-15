@@ -61,6 +61,7 @@ Auto-extracted concept from raw material compilation.
 [[TemporalComplexity]]
 [[TemporalDynamicsModeling]]
 [[Wafer_Scale_Integration]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[Wafer_Scale_Neuromorphic]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]

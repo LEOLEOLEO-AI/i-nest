@@ -52,6 +52,8 @@ Auto-extracted concept from raw material compilation.
 [[Reconfigurable_Spiking_Architecture]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
+[[SNN_Topology_Mapping]]
+[[SelfOrganization]]
 [[Self_Organized_Criticality]]
 [[SpikeEventTopology]]
 [[SpikePacketRouting]]

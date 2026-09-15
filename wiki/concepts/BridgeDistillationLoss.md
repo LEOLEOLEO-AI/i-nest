@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[FerroelectricSynapse]]
 [[Ferroelectric_Devices]]
 [[Ferroelectric_Synaptic_Devices]]
+[[FixedOverheadPenalty]]
 [[HigherOrderStochasticProcess]]
 [[HodgkinHuxleyDynamics]]
 [[InNetworkNeuromorphicAdaptation]]

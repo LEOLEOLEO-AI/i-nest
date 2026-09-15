@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Fading_Memory_Property]]
 [[FormalLinguisticCompetence]]
+[[Fractal_Wavefront_Scaling]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

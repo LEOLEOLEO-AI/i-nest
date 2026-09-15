@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspiredInterceptionTask]]
 [[BioInspiredInterception]]
 [[BioPlausibleDisturbanceObserver]]
+[[BrainScaleS_AsyncEventCircuit]]
 [[BulletTrainScheduling]]
 [[C_ST_cap_Formula]]
 [[CoDesigned_SNN]]

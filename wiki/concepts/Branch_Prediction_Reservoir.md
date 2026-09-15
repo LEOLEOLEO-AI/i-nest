@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Fixed_Reservoir_Unitary]]
 [[FlagOS_2_0]]
 [[Free_Energy_Synchronization]]
+[[GeneralizedReadoutMap]]
 [[InNetworkSignalRecovery]]
 [[MemristiveReservoirBranchPrediction]]
 [[Memristive_Topology]]

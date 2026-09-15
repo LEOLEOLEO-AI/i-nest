@@ -39,6 +39,8 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenTracking]]
 [[EventDriven_Interconnect]]
 [[FixedOverheadDominance]]
+[[Heterogeneous_Integration]]
+[[InNetworkRadarProcessing]]
 [[In_Package_Neuromorphic_Integration]]
 [[Interconnect_Routing]]
 [[Memristive_Interconnect]]

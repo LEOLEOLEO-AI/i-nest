@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
+[[CompactFieldVariable]]
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[EulaminateOverrepresentation]]
@@ -54,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[Topology_Page]]
 [[Wafer_Scale_Integration]]
 [[Z3ToricCode]]
+[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

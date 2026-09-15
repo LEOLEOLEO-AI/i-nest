@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle]]
 [[Hypersonic_Systems_Research]]
 [[Intelligence_Emergence]]
+[[MicrobiomeImmuneMetabolicCrosstalk]]
 [[Network_Topology_Design]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]

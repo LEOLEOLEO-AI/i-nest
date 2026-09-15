@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Computation]]
 [[Event_Driven_Selective_Scan]]
 [[ExactFiringRateModel]]
+[[FixedOverheadCost]]
 [[Intelligence_Emergence]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicGraphAnomalyDetection]]

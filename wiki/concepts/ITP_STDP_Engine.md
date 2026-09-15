@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveSpeechToSpikeEncoding]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BrainBodyResonance]]
+[[Controlled_Release_Kinetics]]
 [[DiscreteSTDP]]
 [[ITP_STDP]]
 [[IonotronicPhotoplasticity]]

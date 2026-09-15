@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Application_Scenario_Reconstruction]]
 [[ANN动力学]]
 [[Analog_InMemory_Processing]]
+[[CST_CoordinationMechanism]]
 [[CST计量仪]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]

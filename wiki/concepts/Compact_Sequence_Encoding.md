@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[ConductingPolymerDendriteMemory]]
 [[CouplingTopologyMemoryLink]]
 [[Efficient_Coding_Constraint]]
+[[EventDrivenAttentionMechanism]]
 [[EventDrivenPlasticity]]
 [[EventDrivenTemplateUpdate]]
 [[EventStrengthEncoding]]
@@ -49,7 +50,6 @@ Auto-extracted concept from raw material compilation.
 [[OptimalGeneralisationNearInterpolation]]
 [[QuantumStateSynapticTrace]]
 [[Synaptic_Plasticity]]
-[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

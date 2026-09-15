@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AnomalousSpinTransport]]
 [[BackpropagationFreeLearning]]
 [[BigBrainCellularAxis]]
+[[ChannelEventSparsity]]
 [[Chiplet]]
 [[Chiplet_Based_Neuromorphic_Integration]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -64,6 +65,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[TCC]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

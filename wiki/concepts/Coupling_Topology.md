@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[DistributedInference]]
 [[ErrorSuppressedPipeline]]
 [[HigherOrderTransitionKernel]]
+[[MultipartiteEntanglementFractal]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]

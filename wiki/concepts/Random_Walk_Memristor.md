@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[AdaptiveNetworkResilience]]
 [[Analog_Weight_Storage]]
+[[BehavioralNeuromorphicCorrelates]]
 [[Complex_System_Theory]]
 [[Current_Compliance_Multilevel_LRS]]
 [[FPGA_Neuromorphic_Architectures]]

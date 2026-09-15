@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[DTGA]]
 [[Free_Energy_Topology_Mapping]]
 [[Heterogeneous_Integration]]
+[[InSituReconfiguration]]
 [[Microsecond_Topology_Switch]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]

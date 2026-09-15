@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Topology]]
 [[Memristor_Topology_Integration]]
 [[MicroRouter_Embedding]]
+[[NCCLCollectiveCommunicationMapping]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC]]
@@ -61,9 +62,11 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[WaferScaleChipletIntegration]]
 [[WaferScaleTopologyInterconnect]]
+[[Wafer_Interconnect]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

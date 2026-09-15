@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Activity_Energy_Tradeoff]]
 [[AdaptiveAsymmetricSurrogateGradient]]
+[[AdaptiveAsymmetricSurrogateGradients]]
 [[BurstGatedRouting]]
 [[DynamicTokenSparsity]]
 [[Dynamic_Expert_Fusion]]
@@ -53,8 +54,10 @@ Auto-extracted concept from raw material compilation.
 [[OptimalGeneralisationNearInterpolation]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
+[[SelfOrganization]]
 [[SpikeAttention]]
 [[Spike_Encoding_of_fMRI]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[VaCoAl]]
 [[iNEST]]

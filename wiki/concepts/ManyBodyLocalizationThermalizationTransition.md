@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[3d]]
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_Driven_Power_Density_Scaling]]
+[[Active_Inference_Topology]]
 [[AdaptiveArchitecture]]
 [[AdaptiveEntanglementManagement]]
 [[AdaptiveFunctionalTopology]]

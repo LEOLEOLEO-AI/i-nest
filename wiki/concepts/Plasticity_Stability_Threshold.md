@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikingMOT]]
 [[SpikingMotorControl]]
 [[Spiking_Neural_Network]]
+[[SynapticReinforcementConsolidation]]
 [[Synaptic_Plasticity]]
 [[Syncytial_Mesh]]
 [[Syncytial_Mesh_Model]]

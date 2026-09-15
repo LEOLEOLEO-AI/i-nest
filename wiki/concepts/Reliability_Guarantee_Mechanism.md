@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[FirstPrinciples_Derivation]]
 [[HardwareAwareFairness]]
 [[HierarchicalSpikePropagation]]
+[[HippocampalNeocorticalIntelligence]]
 [[Intelligence_Emergence]]
 [[MacroEmergentProperty]]
 [[Memristor]]

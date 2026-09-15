@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenAsynchronousRouting]]
 [[EventDriven_Interconnect]]
 [[FPGACongestionHotspotMitigation]]
+[[FiniteSizeCrossover]]
 [[FunctionalHardwareComposition]]
 [[Heterogeneous_Integration]]
 [[InterFPGA_Spike_Routing]]

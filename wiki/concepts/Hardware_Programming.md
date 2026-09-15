@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[4H_SiC_SubstrateProcessing]]
+[[ASIC_Dualism]]
 [[AutonomousServiceNegotiation]]
 [[BackpropagationFreeLearning]]
 [[Battery_Technology_Integration]]
@@ -37,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Topology]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[chiplet interconnect]]
 [[iNEST]]
 
 ## Sources

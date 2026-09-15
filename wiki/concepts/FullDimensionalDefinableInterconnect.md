@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
 [[HierarchicalNetworkPartitioning]]
+[[InNetworkRadarProcessing]]
 [[IndexOrderingOptimization]]
 [[Intelligent_Computing_Infrastructure]]
 [[InterChipletPHYModeling]]
@@ -64,6 +65,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

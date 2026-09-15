@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Asymptotic_Exact_Solution]]
 [[AvalancheBranchingRatio]]
 [[BCM滑动阈值]]
+[[Beyond_Moore_Pathway]]
 [[BranchingRatio]]
 [[CST_Theory]]
 [[CST_Theory_V27_FINAL]]

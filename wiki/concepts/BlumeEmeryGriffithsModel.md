@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[DTGA]]
 [[DendriticTaskPartitioning]]
 [[DistributedModelCompression]]
+[[Distributed_Spike_Communication]]
 [[EdgeIoTEnergyAwareness]]
 [[Environmental_Capability_Context]]
 [[FerroelectricDevice]]

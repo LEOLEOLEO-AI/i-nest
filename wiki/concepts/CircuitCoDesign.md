@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Compositional_Continuum]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
+[[DarkSiliconAwarePowerGating]]
 [[Dynamic_Expert_Fusion]]
 [[ERI_2_0_Framework]]
 [[ERI_2_0_Strategic_Framework]]

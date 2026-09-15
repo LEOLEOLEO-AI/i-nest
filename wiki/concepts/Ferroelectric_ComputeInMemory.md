@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[3d]]
 [[AI_Faculty_Forum_2026]]
 [[AdaptiveGraphDiffusion]]
+[[Adaptive_Intelligence_Principle]]
 [[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[Allreduce_Latency_Probe]]
@@ -67,7 +68,6 @@ Auto-extracted concept from raw material compilation.
 [[SiC_GaN_Power_Integration]]
 [[Spatiotemporal_Synergy]]
 [[State_Transition_Formalism]]
-[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

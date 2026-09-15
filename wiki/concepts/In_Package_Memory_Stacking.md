@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[ComputeRelocationOverhead]]
 [[DataMovementMinimization]]
+[[DefectPartitionFunction]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Memory_Wall]]
@@ -60,7 +61,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC]]
 [[NoC_Interconnect]]
 [[TCC]]
-[[advanced packaging]]
+[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

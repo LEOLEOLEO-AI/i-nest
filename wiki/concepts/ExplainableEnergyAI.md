@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Routing]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
+[[Fixed_Cost_Dominance]]
 [[Gut_Brain_Immune_Network]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

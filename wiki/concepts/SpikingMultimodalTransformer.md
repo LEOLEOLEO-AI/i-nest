@@ -48,6 +48,8 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Speech_Tokenizer]]
 [[SNN]]
 [[SNN_Neuromorphic_Integration]]
+[[SNN_Spiking_Neural_Network]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

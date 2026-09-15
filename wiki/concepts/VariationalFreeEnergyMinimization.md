@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[FreeEnergyMinimization]]
 [[InNetworkChaosDetection]]
 [[JunctionSignalIntegrity]]
+[[Local_Plasticity_Rule]]
 [[NeuromorphicRL]]
 [[NeuromorphicRL_Locomotion]]
 [[Neuromorphic_Computing]]

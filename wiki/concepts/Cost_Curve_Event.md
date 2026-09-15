@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[BurstInterleaving]]
 [[Continuous_Discrete_Compute_Gap]]
+[[Continuous_Spatiotemporal_State_Propagation]]
 [[EventDrivenAsync]]
 [[EventDrivenAsynchronousRouting]]
 [[FPGA_NeuromorphicMapping]]

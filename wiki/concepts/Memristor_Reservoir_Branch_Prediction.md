@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AlternativeBridgingModels]]
 [[AnalogInMemoryComputing]]
 [[Attention_Residuals]]
+[[BoundaryObject_Abstraction]]
 [[CMOS_Memristor_Devices]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]

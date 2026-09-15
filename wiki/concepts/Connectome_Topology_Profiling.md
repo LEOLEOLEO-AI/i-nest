@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[3d]]
 [[AI-ML — 全景导航 (Map of Content)]]
 [[AI4PDE｜综述·论文推荐 08｜物理信息神经网络在偏微分方程问题中的应用：全面综述]]
+[[AI_Application_Scenario_Reconstruction]]
 [[AI_FullSpectrum_Strategy]]
 [[Additive_Manufacturing_Defense_Trinity]]
 [[Allreduce_Latency_Probe]]
@@ -60,6 +61,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -63,7 +63,8 @@ Auto-extracted concept from raw material compilation.
 [[SparseTemporalEncoding]]
 [[StructuralConstraintAwareLearning]]
 [[Switchless_Dragonfly_Topology]]
-[[advanced packaging]]
+[[WavelengthMultiplexedInterconnect]]
+[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

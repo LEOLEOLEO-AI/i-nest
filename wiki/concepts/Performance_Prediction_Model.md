@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossLayer_Feedback]]
 [[Crossbar_Programming]]
 [[Crystallized_Neural_Manifolds]]
+[[Deep_Thermalisation]]
 [[Defense_Industrial_Base_Reshaping]]
 [[DevelopmentalNeuromorphicAdaptation]]
 [[DissipativePhaseTransition]]

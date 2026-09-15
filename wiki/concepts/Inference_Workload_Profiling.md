@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[InInterconnectMemory]]
 [[InputAdaptiveComputation]]
 [[Intelligence_Emergence]]
+[[InterChipletPHYModeling]]
 [[Interconnect_Routing]]
 [[IsolatedKVBandwidth]]
 [[Memory_Wall]]

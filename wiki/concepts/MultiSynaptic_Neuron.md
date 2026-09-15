@@ -33,11 +33,11 @@ Auto-extracted concept from raw material compilation.
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[CrossDomain_Integration]]
 [[DelayTolerantNetworkUAV]]
+[[Dynamic_Communication_Reconfiguration]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
 [[SOC]]
-[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

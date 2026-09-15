@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN动力学]]
 [[Analog_Weight_Storage]]
 [[Attention_Residuals]]
+[[AutonomousAdaptation]]
 [[BigBrainCellularAxis]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -90,6 +91,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST_Neuromorphic_Integration]]
 [[iNEST_Neuromorphic_Topology]]
 [[residual connection]]
+[[神经网络]]
 [[类脑芯片]]
 
 ## Sources

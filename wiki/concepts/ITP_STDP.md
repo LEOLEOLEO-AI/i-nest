@@ -57,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[Syncytial_Mesh]]
 [[Syncytial_Mesh_Model]]
 [[TemporalLearning]]
+[[TimeToFirstSpikeEncoding]]
 [[iNEST]]
 
 ## Sources

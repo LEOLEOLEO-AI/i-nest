@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Active_Inference_Agent]]
 [[Alpha_Coefficient_Phase_Transition_Amplification]]
 [[Analog_InMemory_Processing]]
+[[ArbitraryWavefunctionConfigurability]]
 [[Competitive_Pruning]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]

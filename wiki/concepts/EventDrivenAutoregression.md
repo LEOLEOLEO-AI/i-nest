@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[3d]]
 [[AI_Faculty_Forum_2026]]
 [[Avoided_Criticality]]
+[[BackflowTransformation]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]

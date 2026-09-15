@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
+[[NonreciprocalQuasiperiodicLattice]]
 [[RandomOptimizationEnsemble]]
 [[Real_Time_Neuromorphic_Constraint_Satisfaction]]
 [[RecurrentOscillatoryComputation]]

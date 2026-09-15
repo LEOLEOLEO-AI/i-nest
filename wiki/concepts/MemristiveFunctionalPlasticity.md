@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
 [[NoC]]
+[[OptimalControlPolicyLearning]]
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[STDP_Plasticity]]

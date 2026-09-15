@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Application_Scenario_Reconstruction]]
 [[CompactMemristorCircuits]]
+[[Complexity_Emergence]]
 [[CouplingTopologyInducedDynamics]]
 [[Coupling_Topology]]
 [[Course_Based_FPGA_Projects]]
@@ -36,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[HybridMemristorArray]]
 [[InNetworkNeuromorphicSimulation]]
 [[InNetworkNeuromorphic]]
+[[In_Network_Neuromorphic]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[NCA_Reservoir]]

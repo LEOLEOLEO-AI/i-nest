@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[EdgeIoTEnergyAwareness]]
 [[EvolvingArchitectureDynamics]]
 [[FPGA_Neuromorphic_Architectures]]
+[[FPGA_Reconfigurability]]
 [[Free_Energy_Topology_Mapping]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[HybridCouplingThermosensitiveNetwork]]

@@ -53,8 +53,10 @@ Auto-extracted concept from raw material compilation.
 [[InterChipletPHYModeling]]
 [[Interconnect_Routing]]
 [[Memory_Wall]]
+[[MetricSubstitutionByRandomization]]
 [[Network_Topology_Design]]
 [[TCC]]
+[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

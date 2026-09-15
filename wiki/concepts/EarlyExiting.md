@@ -39,12 +39,14 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenRiskAssessment]]
 [[ExactlyFlatTopologicalBands]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
+[[FunctionalRelevanceDrivenSelfOrganization]]
 [[HigherOrderNetworkDynamics]]
 [[HigherOrderNetwork]]
 [[InNetworkComputing]]
 [[Intelligent_Power_Management]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
+[[Neuromorphic_Computing]]
 [[Self_Organized_Criticality]]
 
 ## Sources

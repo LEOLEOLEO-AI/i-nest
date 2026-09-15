@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[NestedRepresentation]]
 [[NeuromorphicReplayBuffer]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Selective_State_Space]]
 [[NonEquilibriumPhase]]
 [[OptimalGeneralisationNearInterpolation]]
 [[OscillatoryReservoirDynamics]]

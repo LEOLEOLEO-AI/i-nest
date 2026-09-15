@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Evolutionary_Computability]]
 [[Evolutionary_Structure_Computability]]
 [[Exponential_CST_Coupling]]
+[[FlagOS_2_0]]
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
@@ -85,6 +86,8 @@ Auto-extracted concept from raw material compilation.
 [[TemperatureSensitivityControl]]
 [[TemporalComplexity]]
 [[Topology_Interconnect]]
+[[Wafer_Interconnect]]
+[[chiplet interconnect]]
 [[complex system]]
 [[residual connection]]
 

@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[MachineLearningPotential]]
 [[MasterEquationRG]]
 [[Memristive_Topology]]
+[[Memristor]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[PowerLawScalingClassification]]
@@ -64,6 +65,7 @@ Auto-extracted concept from raw material compilation.
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

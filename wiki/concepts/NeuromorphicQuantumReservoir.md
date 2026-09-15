@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[ErrorSuppressedPipeline]]
 [[Fixed_Reservoir_Unitary]]
 [[Globally_Optimal_SNN_Training]]
+[[HardwareAware_DesignSpace]]
 [[Memristor]]
 [[Memristor_Crossbar]]
 [[Memristor_Reservoir_Computing]]

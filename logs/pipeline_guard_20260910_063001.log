@@ -1,0 +1,98 @@
+
+============================================================
+  iNEST + TCC Research Pipeline v3.3
+  2026-09-10 06:30
+============================================================
+[06:30:02] [S2] Searching Semantic Scholar (19 queries)...
+[06:30:11]   S2: 429 rate limited; skip S2 for this run and continue with arXiv/GN
+[06:30:11] [arXiv] Searching arXiv (via proxy, 21 queries)...
+[06:30:12]   arXiv skip irrelevant: TASG-Explore: Traversability-Aware Sector-Guided Exploration
+[06:30:12]   arXiv skip irrelevant: SE-GoS: Self-Evolving Graph-of-Skills for Skill Library at S
+[06:30:12]   arXiv skip irrelevant: Non-linear Pairwise Velocities as a Cosmological Probe
+[06:30:18]   arXiv skip irrelevant: Stimulated Brillouin Scattering in InGaP-on-Insulator Wavegu
+[06:30:18]   arXiv skip irrelevant: Non-destructive 3D doping imaging of silicon sensors
+[06:30:18]   arXiv skip irrelevant: Hardware Trojan Threats to Multi-Chiplet Photonic Neural Net
+[06:30:23]   arXiv skip irrelevant: Structure-Informed Bayesian Inference of Anomalous Transport
+[06:30:23]   arXiv skip irrelevant: Encoding Propagation Invariance into Light
+[06:30:23]   arXiv skip irrelevant: Universal Broadband Linear Optical Transformations by an Int
+[06:30:29]   arXiv skip irrelevant: Double explosive transitions in adaptive multilayer networks
+[06:30:29]   arXiv skip irrelevant: Causal-Class Hierarchies in Coherence-Constrained Channel Tr
+[06:30:29]   arXiv skip irrelevant: Spatial Audio Coding Through Relative Room Impulse Response 
+[06:30:36]   arXiv skip irrelevant: A double-resonator coupler for high-fidelity two-qubit gates
+[06:30:36]   arXiv skip irrelevant: Formation Matrix and Energy-based Control of Multi-Agent Sys
+[06:30:36]   arXiv skip irrelevant: Quantifying Power to Voltage and Frequency Dynamics for Osci
+[06:30:41]   arXiv: batch separator, pausing 10s...
+[06:31:07]   arXiv skip irrelevant: Structure-Informed Bayesian Inference of Anomalous Transport
+[06:31:07]   arXiv skip irrelevant: Geodesic-informed Generative Diffusion Model For Topology-pr
+[06:31:07]   arXiv skip irrelevant: Scalability Analysis of Distributed Kolmogorov-Arnold Networ
+[06:31:13]   arXiv skip irrelevant: Structure-Informed Bayesian Inference of Anomalous Transport
+[06:31:13]   arXiv skip irrelevant: Submodular Welfare under Routing Coupling: A Hierarchical De
+[06:31:13]   arXiv skip irrelevant: Perception-Aware Joint Power and Sub-Band Allocation for 6G 
+[06:31:22]   arXiv skip irrelevant: NOAH: Learning the Full Patient Journey. A Longitudinal Mult
+[06:31:22]   arXiv skip irrelevant: Effects of Interaction Range on Fluid Multicriticality: A Co
+[06:31:22]   arXiv skip irrelevant: ToolLoop: Closed-Loop Tool-Use Data Synthesis via Decomposed
+[06:31:28]   arXiv skip irrelevant: Nonlinear dynamics in an artificial feedback spin maser II: 
+[06:31:28]   跳过重复: Limit Cycles in a Photonic Dimer with Tuneable Non... [Title: Limit Cycles in a Photonic Dimer with Tuneable Non-Hermitian Interactions]
+[06:31:28]   arXiv skip irrelevant: Latent geometry organizes higher-order interactions
+[06:31:39]   arXiv: batch separator, pausing 10s...
+[06:31:51]   跳过重复: FlexSpIM: An Event-Based Digital Compute-In-Memory... [Title: FlexSpIM: An Event-Based Digital Compute-In-Memory Accelerator with Flexible Ope]
+[06:31:51]   跳过重复: A Gradient-based yet Spike-Timing-Dependent Soluti... [Title: A Gradient-based yet Spike-Timing-Dependent Solution to the Feedback Learning Pr]
+[06:31:51]   arXiv skip irrelevant: Brain-Inspired User Positioning for mmWave Beam Management
+[06:31:57]   arXiv skip irrelevant: CVT-GS: Learning to Simplify 3D Gaussian Splatting with Cent
+[06:31:57]   arXiv skip irrelevant: CrossRAFT: Cross-Domain Complex-Valued Feature Extraction fo
+[06:31:57]   arXiv skip irrelevant: Navigating the Latent Manifold: Proactive Concept Drift Adap
+[06:32:07]   arXiv skip irrelevant: Sound Compilation of Weighted Event Signal Temporal Logic to
+[06:32:07]   arXiv skip irrelevant: Deadline-Aware Adaptive Prefill Chunking for Efficient Large
+[06:32:07]   arXiv skip irrelevant: Real-Time dApps for AI-RAN: Measured Interface Requirements 
+[06:32:13]   arXiv skip irrelevant: Beyond Gait: Person Identification from Millimeter-Wave Poin
+[06:32:13]   arXiv skip irrelevant: Dynamic Chirality in Photonic Time Crystals
+[06:32:13]   arXiv skip irrelevant: Learned Diffractive Optics for Quantum-Optimal Inference
+[06:32:19]   arXiv skip irrelevant: Double explosive transitions in adaptive multilayer networks
+[06:32:19]   arXiv skip irrelevant: Formation of structural attractors in neuromorphic systems
+[06:32:19]   arXiv skip irrelevant: Low-Dimensional Phase Diagram of Higher-Order Networked Syst
+[06:32:24]   arXiv: batch separator, pausing 10s...
+[06:32:35]   arXiv skip irrelevant: Predictive-Coding-Based Autonomous Regulation of Internally 
+[06:32:35]   arXiv skip irrelevant: Endogenous Exploration in Reinforcement Learning with Intrin
+[06:32:56]   跳过重复: Determinants of hyperparameter robustness in conne... [Title: Determinants of hyperparameter robustness in connectome reservoir computing]
+[06:32:56]   跳过重复: Autonomous Chaotic Time Series Prediction using Ph... [Title: Autonomous Chaotic Time Series Prediction using Physical Neuromorphic Networks]
+[06:32:56]   arXiv skip irrelevant: Quantum Sensing of Non-Repeatable Events Enhanced by In-Sens
+[06:33:02]   arXiv skip irrelevant: Momentum-Space-Engineered Spatial Photonic Ising Machine for
+[06:33:02]   arXiv skip irrelevant: Genetic Algorithms for Tractable Bayesian Network Fusion via
+[06:33:11]   arXiv skip irrelevant: Non-Uniform Antenna Array Design with Large Inter-Element Sp
+[06:33:22]   arXiv: batch separator, pausing 10s...
+[06:33:34]   跳过重复: Phase oscillator networks with multiple and state-... [Title: Phase oscillator networks with multiple and state-dependent delays: A framework ]
+[06:33:34]   arXiv skip irrelevant: Latent geometry organizes higher-order interactions
+[06:33:34]   arXiv skip irrelevant: A Fundamental Limit in Decentralized Decision-Making
+[06:33:39] [arXiv] 0 new papers, 0 errors across 21 queries
+[06:33:39] [GN] Google News RSS...
+[06:34:00]   GN error (TCC): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[06:34:23]   GN error (iNEST): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[06:34:45]   GN error (emergence): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[06:35:07]   GN error (complex-networks): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[06:35:08] [GN] 0 new articles
+
+  Total: 0 new items to inbox
+[06:35:08] [Process] LLM classify (free tier, limit=20)...
+[06:35:31] [Process] Classified: 0
+[06:35:31] [Genspark] Generating research brief...
+[06:35:32] [Genspark] Research brief written: genspark_research_brief.md
+[06:35:32] [Graph] Scanning wiki links...
+[06:36:34] [Graph] 12870 files, 262187 links
+[06:38:09] [Graph] Exported: 12870 nodes, 258720 edges
+[06:38:09] [Graph] 0 missing backlinks
+[06:38:09] [DailyGen] Daily_Action + Focus + Insights generated
+[06:38:09] [Review] Research task proposals refreshed
+
+============================================================
+  Pipeline v3.3 Complete
+  Sources: 0(S2)+0(arXiv)+0(GN) | Written: 0 new papers
+  Processed: 0 | Nodes: 12870 edges: 258720 | Missing links: 0 | Genspark: OK
+  Elapsed: 487s
+============================================================
+[06:38:10] [State] research_state.json updated
+[06:38:10] [Evolution] Evidence + hypotheses updated
+[06:39:06] [Wiki] Karpathy compiler: raw → wiki done
+[06:39:07] [Insight] Cross-domain bridges updated
+[06:40:15] [Tasks] Research recommendations updated
+[06:40:15] [Dashboard] Live dashboard published
+[06:40:16] [Homepage] Home.md auto-refreshed

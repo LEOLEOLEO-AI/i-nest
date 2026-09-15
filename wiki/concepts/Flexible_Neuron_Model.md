@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN_to_SNN_Conversion_Error_Amplification]]
 [[AcceleratorReconfigurationOverhead]]
 [[CMOS_Memristor_Crossbar]]
+[[FPGA_SNN_Mapping]]
 [[Memristor]]
 [[Memristor_Crossbar]]
 [[Memristor_Synapse]]

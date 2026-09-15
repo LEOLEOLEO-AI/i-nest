@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[OptimalGeneralisationNearInterpolation]]
 [[PhotoIontronicSynapse]]
+[[QuarantineStrategyOptimization]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SpikePacketCompression]]
 [[Spike_Encoding_of_fMRI]]

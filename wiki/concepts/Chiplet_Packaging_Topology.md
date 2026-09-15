@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[InInterconnectMemory]]
 [[Inference_Workload_Profiling]]
 [[Intelligence_Emergence]]
+[[InterChipletPHYModeling]]
 [[IsolatedKVBandwidth]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
@@ -64,7 +65,7 @@ Auto-extracted concept from raw material compilation.
 [[Spaceborne_Computing_Architecture]]
 [[Synaptic_Plasticity]]
 [[TCC]]
-[[advanced packaging]]
+[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

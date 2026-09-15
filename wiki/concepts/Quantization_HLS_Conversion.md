@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AutonomousAdaptation]]
 [[AutonomousServiceNegotiation]]
 [[FPGA_Accelerated_SNN]]
 [[FPGA_Implementation_Verification]]

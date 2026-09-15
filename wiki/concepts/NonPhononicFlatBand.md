@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[LearningTransition]]
 [[ML_Accelerated_Characterization]]
 [[ManufacturingCloudOrchestration]]
+[[Metropolis_Update]]
 [[NetworkScienceLossFunction]]
 [[Network_Topology_Design]]
 [[Neural_Operator]]

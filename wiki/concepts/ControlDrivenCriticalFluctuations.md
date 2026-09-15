@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[QuantumDistillation]]
 [[RLFlightControl]]
 [[RadiationHardened_ProcessNodeScaling]]
+[[RedundancyControlledStochasticRouting]]
 [[STDPDrivenConnectivity]]
 [[STDP_Plasticity]]
 [[SelfOrganization]]

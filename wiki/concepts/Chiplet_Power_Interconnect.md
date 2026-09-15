@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Advanced_Packaging_for_Space]]
 [[Attention_Residuals]]
 [[BackpropagationFreeLearning]]
+[[Beyond_Moore_Pathway]]
 [[Bias_Origin_Taxonomy]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -35,7 +36,6 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
 [[TCC]]
-[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

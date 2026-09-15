@@ -60,12 +60,14 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[SNN]]
+[[ST_SNN]]
 [[SelfOrganizedOscillatoryLearning]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[SuperparamagneticSwitchingRate]]
 [[TopologicalPhaseTransition]]
 [[iMESO_PhysicalCarrier]]
+[[iNEST]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

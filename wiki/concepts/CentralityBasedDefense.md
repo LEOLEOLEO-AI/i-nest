@@ -60,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[ScaledTorusTrainingLimit]]
 [[SelfHealing_Interconnect]]
 [[SpaceToUndersea_ResilientComms]]
+[[Switch_Fabric_Bottleneck]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[complex system]]

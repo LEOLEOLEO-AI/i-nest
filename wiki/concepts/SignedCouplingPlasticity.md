@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[CellEmergenceMechanism]]
 [[CellEmergence]]
 [[CertifiedBifurcationDetection]]
+[[CircuitTopologyEncoding]]
 [[CoPackagedOptics]]
 [[Cognitive_Relapse_Architecture]]
 [[Complex_System_Theory]]

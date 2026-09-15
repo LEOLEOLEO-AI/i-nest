@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[RecurrentSpikingDynamics]]
+[[SelectorFreeHopfieldNetwork]]
 [[Signal_Folding]]
 [[SneakPathCurrentSuppression]]
 [[Spiking_Neural_Network]]

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[ContinuousTimeSNN]]
 [[Criticality]]
 [[EnergyProportionalityCeiling]]
+[[EventBasedMotionDeblurring]]
 [[EventDrivenMotionDeblurring]]
 [[Event_Driven_Architecture]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]

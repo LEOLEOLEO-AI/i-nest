@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenTemplateUpdate]]
 [[EventDriven_AsyncCircuit]]
 [[FunctionalEnsembleComputation]]
+[[FunctionalEnsemble]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
 [[Oscillatory_MultiObjective_Optimization]]
@@ -46,7 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[Trustworthiness_Aware_Training]]
 [[TrustworthyLearning]]
-[[advanced packaging]]
+[[WaveBasedComputation]]
 [[iNEST]]
 [[neuromorphic substrate]]
 

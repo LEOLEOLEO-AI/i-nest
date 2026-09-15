@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[SNN_TCC_Integration]]
+[[SNN_Topology_Integration]]
 [[ST_SNN]]
 [[SpikeEncodingLatency]]
 [[SpikeEncoding]]

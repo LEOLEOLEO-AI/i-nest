@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[DTGA]]
+[[Defense_Industrial_Base_Reshaping]]
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[Free_Energy_Topology_Mapping]]
@@ -60,8 +61,10 @@ Auto-extracted concept from raw material compilation.
 [[TemporalComplexity]]
 [[TopologyCentricPrimitiveSystem]]
 [[WaferScaleCoDesign]]
+[[Wafer_Interconnect]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

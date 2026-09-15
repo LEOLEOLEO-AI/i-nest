@@ -20,14 +20,18 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AutonomousAdaptation]]
 [[AutonomousServiceNegotiation]]
 [[BigBrainCellularAxis]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
+[[Complexity_Emergence]]
 [[Complexity_Emergence_Engineering]]
 [[DynamicServiceComposition]]
 [[FPGA_Accelerated_SNN]]
+[[Intelligence_Emergence]]
 [[Quantization_HLS_Conversion]]
 [[SDI_Bond]]
+[[SDI_iNEST]]
 [[SDI_iNEST_Interconnect]]
 [[SDSoW]]
 [[SDSoW_Architecture]]

@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Counterstream_Associative_Memory]]
 [[Distributed_Spike_Communication]]
 [[EdgeInspectionInference]]
+[[FixedOverheadPenalty]]
 [[HeterogeneousSynapticDelays]]
 [[Heterogeneous_Integration]]
 [[LIF_Neuron_Model]]

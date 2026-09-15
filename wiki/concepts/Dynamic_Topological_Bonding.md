@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[4H_SiC_SubstrateProcessing]]
 [[ASIC_Dualism]]
 [[CLINKAsCarrierPrimitive]]
 [[Memristor]]
@@ -32,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_SDI_Integration]]
 [[SDI_Bond]]
 [[SDI_NPU_NoC_Integration]]
+[[SDI_iNEST]]
 [[SDI_iNEST_Interconnect]]
 [[SDSoW]]
 [[SDSoW_Architecture]]

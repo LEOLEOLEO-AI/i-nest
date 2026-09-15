@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Decoupling]]
 [[Controlled_Release_Kinetics]]
 [[Criticality]]
+[[Dynamic_Expert_Routing]]
 [[Neuromorphic_Computing]]
 [[STDP_Plasticity]]
 [[SelfMotivatedGrowth]]

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Beyond_Moore_Packaging_Strategy]]
 [[BoundaryObject_Abstraction]]
 [[CST计量仪]]
+[[C_elegansConnectomeAnalogy]]
 [[Complex_Network_Brain_Inspired_Computing]]
 [[Complex_System_Theory]]
 [[Deep_Network_Architecture_Invariant]]

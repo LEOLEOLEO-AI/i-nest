@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[4H_SiC_SubstrateProcessing]]
 [[Attention_Inspired_Resource_Allocation]]
 [[Bond_Operation_Algebra]]
 [[Chemical_Bond_Operation_Algebra]]

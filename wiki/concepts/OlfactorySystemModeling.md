@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveMeasurementProtocol]]
 [[AnytimePointCloudRecognition]]
 [[Asymptotic_Exact_Solution]]
+[[Automated_Reward_Shaping]]
 [[BayesianDomainEvolution]]
 [[BehavioralFeedbackLoop]]
 [[BehavioralNeuromorphicCorrelates]]

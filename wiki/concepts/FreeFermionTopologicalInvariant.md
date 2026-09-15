@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[ChiralSymmetryClasses]]
 [[CoPackagedOptics]]
 [[CommunicationAsComputation]]
+[[CommunicationAwareComputeRelocation]]
 [[ComputeRelocationOverhead]]
 [[Deep_Thermalisation]]
 [[Dynamic_Expert_Fusion]]

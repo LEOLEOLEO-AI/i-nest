@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect]]
 [[Chiplet_NoC_Fabric]]
 [[Chiplet_Stacking]]
+[[CrossbarArrayPrecision]]
 [[DynamicProgrammingRecycling]]
 [[External_to_OnDie_Evolution]]
 [[HeterogeneousInference]]
@@ -68,7 +69,7 @@ Auto-extracted concept from raw material compilation.
 [[ThroughSiliconVia_TSV_ThermalPath]]
 [[TopologyAwareTaskScheduling]]
 [[Topology_Centric_Interconnect]]
-[[advanced packaging]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

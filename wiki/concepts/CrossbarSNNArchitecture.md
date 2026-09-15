@@ -56,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[Reconfigurable_Neuromorphic_Acceleration]]
 [[Recurrent_Network_Homeostasis]]
 [[RecursiveSelfReferentialArchitecture]]
+[[RunawayAvalanche]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[SupervisedHardwareRepair]]

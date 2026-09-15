@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Critical_Exponent_Extraction_Method]]
 [[DelayParameterSpaceDecomposition]]
+[[DimerizedSpinChain]]
 [[Disordered_Heisenberg_Model]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

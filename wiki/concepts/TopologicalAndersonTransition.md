@@ -57,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[OpenLearningEcosystem]]
 [[OptimalControlPolicyLearning]]
+[[Routing_Color_Bits]]
 [[SpectralGapMoE]]
 [[Synaptic_Plasticity]]
 [[TCC]]

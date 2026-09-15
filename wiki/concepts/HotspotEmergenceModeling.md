@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[CouplingMatrixRecovery]]
 [[Coupling_Strength_Encoding]]
 [[CriticalFixedPoint]]
+[[CrossInstitutionalNetwork]]
 [[DendriticReservoirState]]
 [[DeviationScalingIndex]]
 [[Dynamic_Expert_Fusion]]

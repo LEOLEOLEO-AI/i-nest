@@ -61,6 +61,7 @@ Auto-extracted concept from raw material compilation.
 [[SelfHealing_Interconnect]]
 [[SpaceToUndersea_ResilientComms]]
 [[SuperparamagneticSwitchingRate]]
+[[Switch_Fabric_Bottleneck]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[TopologyFragility]]

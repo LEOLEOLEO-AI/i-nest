@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AdversarialResilience]]
 [[Allreduce_Latency_Probe]]
 [[BackpropagationFreeLearning]]
+[[CLINKAsCarrierPrimitive]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]
@@ -48,8 +49,10 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Topology]]
 [[Model_Routing_Protocol]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
+[[NoC]]
 [[OnChipOpticalTweezers]]
 [[PacketRoutingOptimization]]
 [[Reservoir_Computing]]
@@ -61,6 +64,7 @@ Auto-extracted concept from raw material compilation.
 [[Swarm_Coordination]]
 [[TCC]]
 [[WavelengthMultiplexedInterconnect]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

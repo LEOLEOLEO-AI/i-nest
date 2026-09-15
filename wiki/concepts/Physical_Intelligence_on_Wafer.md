@@ -25,6 +25,8 @@ Auto-extracted concept from raw material compilation.
 [[BackpropagationFreeLearning]]
 [[DARPA_ProjectManager_Model]]
 [[InNetworkNeuromorphicWafer]]
+[[InNetworkNeuromorphic]]
+[[MultiScaleTemporalProcessing]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[NonequilibriumLangevinComputing]]

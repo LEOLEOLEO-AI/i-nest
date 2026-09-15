@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[4H_SiC_SubstrateProcessing]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
@@ -36,10 +37,12 @@ Auto-extracted concept from raw material compilation.
 [[OnChipOpticalTweezers]]
 [[SDI_Bond]]
 [[SDI_ProgrammableInterconnect]]
+[[SDI_iNEST]]
 [[SDI_iNEST_Interconnect]]
 [[SDI_iNEST_Interconnect_Topology]]
 [[Software_Defined_Interconnect]]
 [[TCC]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Interconnect]]
 [[iNEST_Interconnect_Topology]]

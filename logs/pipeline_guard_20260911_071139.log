@@ -1,0 +1,98 @@
+
+============================================================
+  iNEST + TCC Research Pipeline v3.3
+  2026-09-11 07:11
+============================================================
+[07:11:39] [S2] Searching Semantic Scholar (19 queries)...
+[07:11:40]   S2: 429 rate limited; skip S2 for this run and continue with arXiv/GN
+[07:11:40] [arXiv] Searching arXiv (via proxy, 21 queries)...
+[07:11:41]   arXiv skip irrelevant: Characterizing particle rearrangements in sheared highly pol
+[07:11:41]   arXiv skip irrelevant: Loss-correcting fault-tolerant quantum computing architectur
+[07:11:41]   arXiv skip irrelevant: MetroLLM-Bench: Evaluating Language Models as Transit Kiosk 
+[07:11:47]   arXiv skip irrelevant: Stimulated Brillouin Scattering in InGaP-on-Insulator Wavegu
+[07:11:47]   arXiv skip irrelevant: Non-destructive 3D doping imaging of silicon sensors
+[07:11:47]   arXiv skip irrelevant: Hardware Trojan Threats to Multi-Chiplet Photonic Neural Net
+[07:11:53]   arXiv skip irrelevant: Reconfigurable field-free spin Hall nano-oscillators enabled
+[07:11:53]   arXiv skip irrelevant: Semi-Cooperative Passive Integrated Sensing and Communicatio
+[07:11:53]   arXiv skip irrelevant: Pairit: A Platform for Live Experiments on Human-AI Collabor
+[07:11:59]   arXiv skip irrelevant: Superpolynomial lower bounds for vertex numbers of real proj
+[07:11:59]   arXiv skip irrelevant: A Trust-Network-Based Federated Learning Framework for Multi
+[07:11:59]   arXiv skip irrelevant: Stable Coexistence in Ecologies and Games
+[07:12:05]   arXiv skip irrelevant: The U.S. Interconnection Queue System: Cascading Vulnerabili
+[07:12:05]   arXiv skip irrelevant: A double-resonator coupler for high-fidelity two-qubit gates
+[07:12:10]   arXiv: batch separator, pausing 10s...
+[07:12:21]   arXiv skip irrelevant: Enhancing Pauli Correlation Encoding for quantum optimizatio
+[07:12:21]   arXiv skip irrelevant: Contextual Bandit-Based Decomposition of Network Slice Requi
+[07:12:21]   arXiv skip irrelevant: Communication-efficient ADMM over Hierarchical Networks
+[07:12:27]   arXiv skip irrelevant: Economic Evaluation of V2G-Enabled Fast Charging Stations Un
+[07:12:27]   arXiv skip irrelevant: Decentralized network congestion control for DAG-based distr
+[07:12:27]   arXiv skip irrelevant: Minimal Deadlock-Free Routing for Degree-Six Triangular-Latt
+[07:12:32]   arXiv skip irrelevant: Phase transitions in first-detection statistics of monitored
+[07:12:32]   arXiv skip irrelevant: The U.S. Interconnection Queue System: Cascading Vulnerabili
+[07:12:32]   arXiv skip irrelevant: JarvisGUI: Towards Cross-Device GUI Agents with Dynamic Task
+[07:12:38]   arXiv skip irrelevant: Nonlinear dynamics in an artificial feedback spin maser II: 
+[07:12:38]   跳过重复: Limit Cycles in a Photonic Dimer with Tuneable Non... [Title: Limit Cycles in a Photonic Dimer with Tuneable Non-Hermitian Interactions]
+[07:12:38]   arXiv skip irrelevant: Latent geometry organizes higher-order interactions
+[07:12:49]   arXiv: batch separator, pausing 10s...
+[07:13:00]   arXiv skip irrelevant: SymbolicLight V2: Hybrid Neuromorphic Architecture and Spars
+[07:13:00]   arXiv skip irrelevant: Robust Industrial Cyber Physical Classification Using Neurom
+[07:13:00]   跳过重复: FlexSpIM: An Event-Based Digital Compute-In-Memory... [Title: FlexSpIM: An Event-Based Digital Compute-In-Memory Accelerator with Flexible Ope]
+[07:13:06]   arXiv skip irrelevant: Learning with Covariance Matrices: Principal Component Analy
+[07:13:06]   arXiv skip irrelevant: Making the Graph Laplacian Physical: Multiscale Coarse-Grain
+[07:13:06]   arXiv skip irrelevant: A Systematic Evaluation of Molecule Generation Models for De
+[07:13:12]   arXiv skip irrelevant: HybridFLow: SDN-Orchestrated Client Partitioning for Hybrid 
+[07:13:12]   arXiv skip irrelevant: UNISON: A Co-Designed Near-Memory Scheduler of Session KV Re
+[07:13:12]   arXiv skip irrelevant: Sound Compilation of Weighted Event Signal Temporal Logic to
+[07:13:17]   arXiv skip irrelevant: Spectral Geometry and Dispersion-Constrained Projection of D
+[07:13:17]   arXiv skip irrelevant: XAI-Refine: An Automated Explanation-Knowledge Loop for Brai
+[07:13:17]   arXiv skip irrelevant: The GAPS programme at TNG LXXVIII. Phase-resolved detection 
+[07:13:23]   arXiv skip irrelevant: Aldous' spectral gap phenomena in stochastic exchange models
+[07:13:23]   arXiv skip irrelevant: Stable Coexistence in Ecologies and Games
+[07:13:23]   arXiv skip irrelevant: Double explosive transitions in adaptive multilayer networks
+[07:13:28]   arXiv: batch separator, pausing 10s...
+[07:13:39]   arXiv skip irrelevant: Seven Sources of Physical AI Capability Formation
+[07:13:39]   arXiv skip irrelevant: Predictive-Coding-Based Autonomous Regulation of Internally 
+[07:13:39]   arXiv skip irrelevant: Endogenous Exploration in Reinforcement Learning with Intrin
+[07:13:45]   跳过重复: Dual-unitary Circuits as a Platform for Quantum Re... [Title: Dual-unitary Circuits as a Platform for Quantum Reservoir Computing]
+[07:13:45]   跳过重复: Determinants of hyperparameter robustness in conne... [Title: Determinants of hyperparameter robustness in connectome reservoir computing]
+[07:13:45]   跳过重复: Autonomous Chaotic Time Series Prediction using Ph... [Title: Autonomous Chaotic Time Series Prediction using Physical Neuromorphic Networks]
+[07:13:51]   arXiv skip irrelevant: Link prediction in complex networks via fusing node centrali
+[07:13:51]   arXiv skip irrelevant: Momentum-Space-Engineered Spatial Photonic Ising Machine for
+[07:13:56]   arXiv skip irrelevant: Non-Uniform Antenna Array Design with Large Inter-Element Sp
+[07:14:07]   arXiv: batch separator, pausing 10s...
+[07:14:18]   arXiv skip irrelevant: Link prediction in complex networks via fusing node centrali
+[07:14:18]   跳过重复: Energy pathway variety and the progress of the ene... [Title: Energy pathway variety and the progress of the energy transition in European cou]
+[07:14:18]   arXiv skip irrelevant: QPS-ToR: A Parallel Iterative Switching Algorithm for Reconf
+[07:14:23] [arXiv] 0 new papers, 0 errors across 21 queries
+[07:14:23] [GN] Google News RSS...
+[07:16:29]   GN error (TCC): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[07:16:51]   GN error (iNEST): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[07:17:14]   GN error (emergence): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[07:17:36]   GN error (complex-networks): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[07:17:37] [GN] 0 new articles
+
+  Total: 0 new items to inbox
+[07:17:37] [Process] LLM classify (free tier, limit=20)...
+[07:18:00] [Process] Classified: 0
+[07:18:00] [Genspark] Generating research brief...
+[07:18:01] [Genspark] Research brief written: genspark_research_brief.md
+[07:18:01] [Graph] Scanning wiki links...
+[07:19:43] [Graph] 12882 files, 262203 links
+[07:21:10] [Graph] Exported: 12882 nodes, 258718 edges
+[07:21:10] [Graph] 0 missing backlinks
+[07:21:11] [DailyGen] Daily_Action + Focus + Insights generated
+[07:21:11] [Review] Research task proposals refreshed
+
+============================================================
+  Pipeline v3.3 Complete
+  Sources: 0(S2)+0(arXiv)+0(GN) | Written: 0 new papers
+  Processed: 0 | Nodes: 12882 edges: 258718 | Missing links: 0 | Genspark: OK
+  Elapsed: 572s
+============================================================
+[07:21:11] [State] research_state.json updated
+[07:21:11] [Evolution] Evidence + hypotheses updated
+[07:22:11] [Wiki] Warning: Command '['C:\\Users\\LEO\\AppData\\Local\\Programs\\Python\\Python310\\python.exe', 'D:\\Obsidian\\vault\\90_System\\scripts\\wiki_compiler.py']' timed out after 60 seconds
+[07:22:12] [Insight] Cross-domain bridges updated
+[07:22:57] [Tasks] Research recommendations updated
+[07:22:57] [Dashboard] Live dashboard published
+[07:22:58] [Homepage] Home.md auto-refreshed

@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[GeometricRoleEmbedding]]
 [[Gsk_Summarize_Pipeline]]
 [[HighDimensionalContinuousRepresentation]]
+[[HigherOrderPublicGoodsGame]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]

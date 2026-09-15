@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalDataThreshold]]
 [[DynamicInference]]
 [[EntanglementEntropyScaling]]
+[[ExactlyFlatBand]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

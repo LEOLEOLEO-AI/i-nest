@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[Intelligence_Emergence_Paradigm]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]

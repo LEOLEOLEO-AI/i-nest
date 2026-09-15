@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Architecture]]
 [[Event_Driven_Communication]]
 [[FPGA_NeuromorphicMapping]]
+[[FixedOverheadFloor]]
 [[FoveationGuidedTokenSelection]]
 [[InNetworkComputing]]
 [[Intelligence_Emergence]]

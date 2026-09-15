@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[NoC]]
 [[NoC_Chiplet_iNEST_Wafer]]
+[[Obsidian_Plugin_Architecture]]
 [[OpenLearningEcosystem]]
 [[P_Paradigm]]
 [[RTC_Primitive]]

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
 [[Fixed_Cost_Dominance]]
+[[InNetworkNeuromorphicSimulation]]
 [[Intelligence_Emergence]]
 [[MeasurementInducedNonlinearity]]
 [[Memristive_STDP]]

@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[4H_SiC_SubstrateProcessing]]
 [[AI_Faculty_Forum_2026]]
+[[ASIC_Dualism]]
 [[Analog_Weight_Storage]]
 [[Attention_Residuals]]
 [[CST计量仪]]
@@ -60,6 +61,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[TCC]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

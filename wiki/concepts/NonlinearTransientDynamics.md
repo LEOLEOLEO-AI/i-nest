@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[MachineLearningPotential]]
 [[Microbiome_Immune_Endocrine_Interplay]]
+[[Milinkovic B (2024)：复杂神经系统涌现动力学结构]]
 [[NCL神经计算定律详解]]
 [[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]
 [[Network_Topology_Design]]

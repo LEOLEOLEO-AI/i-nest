@@ -45,6 +45,8 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[STDP_Plasticity]]
 [[SolitonLikeWaves]]
+[[Sparsity_Degradation_Threshold]]
+[[SpikeEncoding]]
 [[Spiking_Neural_Network]]
 [[StateAugmentedLearning]]
 [[Synaptic_Plasticity]]

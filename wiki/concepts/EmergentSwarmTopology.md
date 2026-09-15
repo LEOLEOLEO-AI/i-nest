@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[ComputationalProcessReuse]]
 [[Critical_Region_Extension]]
+[[CrossLingualIdiomGraph]]
 [[DARPA_ERI]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]

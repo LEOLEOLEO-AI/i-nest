@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[AddressRedundancyElimination]]
 [[Adjoint_Gradient_Propagation]]
 [[BulletTrainScheduling]]
+[[Cascading_Failure_Mitigation]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]

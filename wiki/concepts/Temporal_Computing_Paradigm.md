@@ -43,6 +43,8 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Architecture]]
 [[Event_Driven_Computation]]
 [[ITP_STDP]]
+[[Intelligence_Emergence]]
+[[JunctionSignalIntegrity]]
 [[Neuromorphic_Computing]]
 [[NonEquilibriumPhase]]
 [[On_Chip_STDP_Learning]]

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[ConsciousnessEngineeringLoop]]
 [[Delay_Aware_Autograd_Spiking_Framework]]
 [[DisturbancePropagationPath]]
 [[DualDrivenHybridNetwork]]
@@ -27,8 +28,10 @@ Auto-extracted concept from raw material compilation.
 [[ErrorAmplificationLimits]]
 [[HigherOrderAvalanche]]
 [[InterFPGA_Spike_Routing]]
+[[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
 [[SNN]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]

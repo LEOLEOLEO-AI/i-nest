@@ -31,8 +31,10 @@ Auto-extracted concept from raw material compilation.
 [[Defense_Industrial_Base_Reshaping]]
 [[ElectronicPhotonicIntegratedCircuit]]
 [[FunctionalRelevanceSelfOrganization]]
+[[Gate_Synthesis_Readout]]
 [[HighThroughputPhenotyping]]
 [[Neuromorphic_Computing]]
+[[SelfOrganization]]
 [[iNEST]]
 
 ## Sources

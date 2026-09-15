@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Generalization_Dynamics]]
 [[EnergyEfficientNeuromorphic]]
 [[Frontier_Innovation_Mapping]]
+[[GPU_Parallel_Throughput]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]

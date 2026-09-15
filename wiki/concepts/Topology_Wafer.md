@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Heterogeneous_Integration]]
 [[Interconnect_Topology]]
 [[NCCLCollectiveCommunicationMapping]]
 [[Network_Topology_Design]]
@@ -30,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_iNEST_Wafer]]
 [[P_Paradigm]]
 [[SDI_Bond]]
+[[SDSoW_TCC_Integration]]
 [[Second_Curve_Wafer_Industry_Platform]]
 [[TCC]]
 [[TCC_Interconnect_Topology]]

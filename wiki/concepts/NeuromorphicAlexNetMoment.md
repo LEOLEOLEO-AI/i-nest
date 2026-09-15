@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Arm_Locomotor_Synergy]]
 [[CollectiveDynamics]]
 [[ConsciousnessEngineeringLoop]]
+[[CriticalStateInformationMaximization]]
 [[Neuromorphic_Computing]]
 [[PPT]]
 [[SNN]]

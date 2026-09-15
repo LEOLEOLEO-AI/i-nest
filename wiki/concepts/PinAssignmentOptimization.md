@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[ScaleFreeNetwork]]
 [[SparseTemporalEncoding]]
+[[SpikeCommunicationCost]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]

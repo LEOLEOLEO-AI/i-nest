@@ -60,7 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[TopologyAware_Embedding]]
-[[advanced packaging]]
+[[WavelengthMultiplexedInterconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 [[涌现]]

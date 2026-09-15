@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[SOC]]
 [[STDPDrivenTemporalBinding]]
 [[STDP_Learning]]
+[[STDP_Local_Gradient]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[SpikeCodedFeatureAssociation]]

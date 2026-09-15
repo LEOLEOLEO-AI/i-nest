@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[4H_SiC_SubstrateProcessing]]
 [[BackpropagationFreeLearning]]
 [[CLINKAsCarrierPrimitive]]
 [[Chiplet]]
@@ -67,6 +68,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
 [[Wafer_Scale_Topology]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

@@ -39,6 +39,8 @@ Auto-extracted concept from raw material compilation.
 [[FlagOS_2_0]]
 [[GraphBasedSemanticRouting]]
 [[Heterogeneous_Integration]]
+[[InterChipletPHYModeling]]
+[[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[complex system]]

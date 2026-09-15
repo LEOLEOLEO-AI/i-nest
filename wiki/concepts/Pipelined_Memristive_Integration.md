@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[ErrorSuppressedPipeline]]
 [[Evolutionary_Computability]]
 [[ExplosiveTransitionThreshold]]
+[[Exponential_CST_Coupling]]
 [[Fixed_Reservoir_Unitary]]
 [[GeneralizedReadoutMap]]
 [[InNetworkSignalRecovery]]

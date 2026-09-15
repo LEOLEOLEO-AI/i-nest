@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_SNN]]
 [[QuarantineCostTradeoff]]
 [[RobustnessToNoiseInSNN]]
+[[SDI_iNEST_Interconnect]]
 [[SNN]]
 [[ST_SNN]]
 [[SpikeBasedInference]]

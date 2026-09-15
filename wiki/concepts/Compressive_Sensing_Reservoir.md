@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Forum_Demo_Narrative]]
 [[AgenticServiceManifesto]]
 [[AgenticServiceOrchestration]]
+[[AndersonTransition]]
 [[CouplingTopologyInducedDynamics]]
 [[CriticalityInducedTopology]]
 [[Criticality]]

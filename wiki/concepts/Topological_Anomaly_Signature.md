@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[3DGS_SplatPrimitive]]
 [[3d]]
 [[4H_SiC_SubstrateProcessing]]
+[[ASIC_Dualism]]
 [[BackpropagationFreeLearning]]
 [[BarrierConditionedTrajectory]]
 [[BeyondPTSymmetry]]
@@ -57,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[Obsidian_Plugin_Architecture]]
 [[SDI_Bond]]
 [[TCC]]
+[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

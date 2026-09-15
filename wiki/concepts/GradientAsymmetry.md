@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Frontier_Innovation_Mapping]]
 [[HardwareAware_DesignSpace]]
 [[IMPLY_ISA]]
+[[LocalInteractionDrivenReconfiguration]]
 [[Nonlinear_Gain]]
 [[PPT]]
 [[SNN]]

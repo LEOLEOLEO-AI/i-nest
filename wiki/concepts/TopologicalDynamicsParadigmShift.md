@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_MasterEquation]]
 [[CST计量仪]]
 [[Complex_System_Theory]]
+[[Core_Spacetime_Tensor]]
 [[Heterogeneous_Integration]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]

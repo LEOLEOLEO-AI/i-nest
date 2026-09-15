@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Topology]]
 [[P_Paradigm]]
+[[SDI_Sparse_Dataflow_Interconnect]]
 [[TCC]]
 [[iNEST]]
 

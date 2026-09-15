@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Reconfigurable_Neuromorphic_Architecture]]
 [[Synaptic_Plasticity]]
+[[Topological_Phase_Transition_Scaling]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

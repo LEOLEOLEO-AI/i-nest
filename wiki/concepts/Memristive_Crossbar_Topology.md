@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[DataCenter_Chip_Logic_Compression]]
 [[EdgeIoTEnergyAwareness]]
 [[EntanglementFidelityBudgeting]]
+[[Fluidic_Hysterons]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Memristive_Crossbar]]

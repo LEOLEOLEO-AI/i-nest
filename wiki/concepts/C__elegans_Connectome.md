@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_FullSpectrum_Strategy]]
 [[Active_Inference_Agent]]
+[[BayesianDomainEvolution]]
 [[Brain_Connectome]]
 [[C_elegansConnectomeAnalogy]]
 [[ChaoticAttractorTopology]]

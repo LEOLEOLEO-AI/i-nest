@@ -15,6 +15,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[ANN动力学]]
+[[AnisotropicGaussianPrimitives]]
 [[Attention_Residuals]]
 [[Complex_System_Theory]]
 [[Contested_Prior_Resolution]]
@@ -25,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[GenerativeTopologyModels]]
 [[Hardware_Accelerated_SNN]]
 [[InNetworkNeuromorphicSimulation]]
+[[InNetworkNeuromorphic]]
 [[InNetwork_CST_Offload]]
 [[Intelligence_Emergence]]
 [[MacroscopicDescriptor]]

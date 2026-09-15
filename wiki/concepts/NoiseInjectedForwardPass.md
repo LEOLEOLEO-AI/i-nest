@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
+[[DendriticReservoirState]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[FlagOS_2_0]]

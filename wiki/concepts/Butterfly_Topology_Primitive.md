@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Butterfly_Topology]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[ChiralSymmetryClasses]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Compute_In_Memory_Neuromorphic]]
 [[CrossDomain_Integration]]
 [[CrossbarArrayPrecision]]
+[[DistributedIntelligence]]
 [[Dynamic_Expert_Fusion]]
 [[Expert_Review_Arbitration]]
 [[Ferroelectric_ComputeInMemory]]
@@ -61,7 +62,6 @@ Auto-extracted concept from raw material compilation.
 [[Theoretical_Numerical_Analysis]]
 [[TopologicalAndersonChernInsulator]]
 [[TopologyAwareStateMigration]]
-[[advanced packaging]]
 [[neuromorphic computing architecture]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

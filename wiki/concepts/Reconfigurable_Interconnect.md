@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Accessibility_Plasticity]]
 [[AdaptiveCompetingInteractions]]
+[[Cryogenic_Syndrome_Compression]]
 [[Emergent_Order_Deep_Belief_Networks]]
 [[Free_Energy_Topology_Mapping]]
 [[Intelligence_Emergence]]
@@ -39,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[NonreciprocalQuasiperiodicLattice]]
 [[PacketRoutingOptimization]]
 [[SDI_Bond]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]

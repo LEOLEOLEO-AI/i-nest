@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[Bio_plausible_Neuromorphic_Disturbance_Observer]]
 [[BrainBodyResonance]]
+[[BridgeDistillationLoss]]
 [[CompetitiveProgramDynamics]]
 [[ComplexValuedSNN]]
 [[Complex_System_Theory]]

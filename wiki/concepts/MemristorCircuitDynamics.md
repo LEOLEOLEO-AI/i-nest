@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[DevelopmentalNeuromorphicAdaptation]]
 [[Efficient_Coding_Constraint]]
 [[EventBasedAnalogFrontEnd]]
+[[EventDrivenWirelessTransmission]]
 [[Inference_Driven_Fitness]]
 [[Intelligence_Emergence]]
 [[InterconnectDrivenPlacement]]

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[Edge_of_Chaos]]
 [[EventBasedMotionDeblurring]]
+[[EventDataNonUniformity]]
 [[EventDrivenMotionDeblurring]]
 [[EventDrivenTemplateUpdate]]
 [[In_Network_Neuromorphic]]

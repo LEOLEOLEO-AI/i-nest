@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Compute_In_Memory_Neuromorphic]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
+[[Emergence_Phase]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[Heterogeneous_Integration]]

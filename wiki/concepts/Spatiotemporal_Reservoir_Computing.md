@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[BehavioralFeedbackLoop]]
 [[Biomanufacturing_Control_Loop]]
 [[BranchingRatio]]
+[[CertifiedBifurcationDetection]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]
 [[SpatioTemporal_Reservoir]]

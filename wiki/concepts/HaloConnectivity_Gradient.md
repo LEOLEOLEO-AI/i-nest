@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CompactnessRegularizedFitness]]
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
+[[Cryogenic_Syndrome_Compression]]
 [[Crystallized_Neural_Manifolds]]
 [[DistinctReentrantPhases]]
 [[EmergentOrder]]

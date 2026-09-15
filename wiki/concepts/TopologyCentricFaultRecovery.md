@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[OpticallyWritableAtomicVaporMemory]]
 [[QueryComplexityScaling]]
 [[TCC]]
+[[TopologicalDataCompression]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

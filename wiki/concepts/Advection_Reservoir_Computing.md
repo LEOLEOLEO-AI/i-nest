@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[ActionPrototypeClustering]]
 [[AdjustableDynamics]]
 [[AstrocyteInspiredRepair]]
+[[Complexity_Emergence]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[Course_Based_FPGA_Projects]]
@@ -32,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]
 [[SNN]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

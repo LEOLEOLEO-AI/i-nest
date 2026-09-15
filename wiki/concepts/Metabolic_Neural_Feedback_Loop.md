@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Evolutionary_Computability]]
 [[Fading_Memory_Property]]
 [[FisherOrthogonalMemory]]
+[[FlagOS_2_0]]
 [[Heterogeneous_Integration]]
 [[IntegratedSensingFusion]]
 [[IntegrationProspectsForVLSI]]

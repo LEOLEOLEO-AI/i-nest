@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[QuantumGateSynthesis]]
 [[ReadoutLayer]]
+[[Readout_Layer_Training]]
 [[Reservoir_Computing]]
 [[SDDE_Attractor_Emergence]]
 [[TopologicalAndersonChernInsulator]]

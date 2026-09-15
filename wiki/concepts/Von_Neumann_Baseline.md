@@ -32,11 +32,11 @@ Auto-extracted concept from raw material compilation.
 [[Chemical_Bond_Operation_Algebra]]
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[CrossDomain_Integration]]
+[[DelayTolerantNetworkUAV]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
 [[SOC]]
-[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[InMateriaComputing]]
 [[Intelligence_Emergence]]
 [[Intelligent_Power_Management]]
+[[Medical_Large_Language_Models]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[NCL神经计算定律详解]]
@@ -71,6 +72,7 @@ Auto-extracted concept from raw material compilation.
 [[Textbook_Paradigm_Definition]]
 [[TopologyCentricEngineeringBase]]
 [[causal emergence]]
+[[chiplet interconnect]]
 [[iNEST]]
 
 ## Sources

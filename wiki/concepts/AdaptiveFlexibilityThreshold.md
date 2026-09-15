@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
 [[Gut_Brain_Immune_Network]]
+[[Heterogeneous_Integration]]
 [[Master_SDDE]]
 [[Memristor]]
 [[Memristor_Synapse]]
@@ -54,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_STDP]]
 [[SDI_STDP_Rule]]
 [[SDI节点接口规范与化合键定义]]
+[[SNN]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[ST_SNN]]
@@ -67,6 +69,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
+[[iNEST_Neuromorphic_Integration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

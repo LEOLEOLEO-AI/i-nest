@@ -30,6 +30,8 @@ Auto-extracted concept from raw material compilation.
 [[FCDC_Architecture]]
 [[FeFET_Polarization_Switching]]
 [[FerroelectricMemoryCell]]
+[[FerroelectricSynapticArray]]
+[[Ferroelectric_Devices]]
 [[In_Memory_Computing]]
 [[Memristor]]
 [[Memristor_Synapse]]

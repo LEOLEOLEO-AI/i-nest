@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Forum_Demo_Narrative]]
 [[BandedConnectivityModel]]
 [[Baseline_Draft_Status]]
+[[Bipartite_Interconnect_Design]]
 [[Complex_System_Theory]]
 [[CorticalWaveRouting]]
 [[DevelopmentalNeuromorphicAdaptation]]

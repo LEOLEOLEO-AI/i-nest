@@ -31,9 +31,9 @@ Auto-extracted concept from raw material compilation.
 [[ConcentricDiscreteOpticalVortices]]
 [[Deep_Network_Architecture_Invariant]]
 [[Defense_Industrial_Base_Reshaping]]
+[[DynamicServiceComposition]]
 [[Neuromorphic_Computing]]
 [[Synaptic_Plasticity]]
-[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

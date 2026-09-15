@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[ReproducibleReservoirComputing]]
 [[Reservoir_Computing]]
 [[STDP_Plasticity]]
+[[SelfOrganizedLearning]]
 [[Stigmergic_Neural_Plasticity]]
 [[Synaptic_Plasticity]]
 [[TCC]]

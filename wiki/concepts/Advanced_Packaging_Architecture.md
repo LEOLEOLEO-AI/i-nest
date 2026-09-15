@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[3DHI_Stacking]]
 [[3D_Heterogeneous_Integration]]
 [[3D_IC_Stacking]]
+[[3D_Integrated_Chiplet_Stacking]]
 [[3d]]
 [[Advanced_Packaging]]
 [[Chiplet]]
@@ -34,7 +35,6 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[TCC]]
-[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

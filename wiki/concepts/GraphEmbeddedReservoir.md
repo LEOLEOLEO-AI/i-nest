@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Epithelial_Barrier_Integrity]]
 [[EvolutionaryReservoirLearning]]
 [[Evolutionary_Computability]]
+[[FlagOS_2_0]]
 [[Heterogeneous_Synaptic_Motifs]]
 [[HierarchicalModularReservoirs]]
 [[In_Context_Learning]]

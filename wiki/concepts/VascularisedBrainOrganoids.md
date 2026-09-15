@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[Biologically_Plausible_Learning_Rules]]
 [[Complex_System_Theory]]
+[[Complexity_Emergence]]
 [[Course_Based_FPGA_Projects]]
 [[Criticality]]
 [[Criticality_Induced_Plasticity]]

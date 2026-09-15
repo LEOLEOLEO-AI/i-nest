@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptersInSpikingNetworks]]
 [[Alignment_Tax]]
 [[AllParallelNonVonNeumannArchitecture]]
+[[AstrocyteInspiredRepair]]
 [[Complex_System_Theory]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]

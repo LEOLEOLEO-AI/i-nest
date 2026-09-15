@@ -61,6 +61,7 @@ Auto-extracted concept from raw material compilation.
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[TemporalCreditAssignment]]
 [[TemporalErrorFeedback]]
 [[iNEST]]
 [[residual connection]]

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[1024_Card_SuperNode]]
+[[4H_SiC_SubstrateProcessing]]
 [[CongestionAwareNoCPlacement]]
 [[DynamicServiceComposition]]
 [[GPU_Bottleneck_Relief]]

@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicInference]]
 [[GenerativeTopologyModels]]
 [[Intelligence_Emergence]]
+[[MetaHardwareAbstraction]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]

@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_ProjectManager_Model]]
 [[DTGA]]
 [[DendriticTaskPartitioning]]
+[[Distributed_Spike_Communication]]
 [[Dynamic_Expert_Fusion]]
 [[Environmental_Capability_Context]]
 [[FerroelectricDevice]]

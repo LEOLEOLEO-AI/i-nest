@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
 [[NoC]]
+[[NoC_Chiplet_iNEST_Wafer]]
 [[NoC_SDI]]
 [[P_Paradigm]]
 [[SDI_Bond]]
@@ -63,6 +64,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Neuromorphic]]
 [[Wafer_Scale_Topology]]
 [[Wafer_Scale_Topology_Control]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

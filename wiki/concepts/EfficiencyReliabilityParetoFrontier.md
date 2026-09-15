@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Additive_Manufacturing_Defense_Trinity]]
 [[Analog_InMemory_Processing]]
 [[CST计量仪]]
+[[ComplexSystem_Definition]]
 [[Complex_System_Theory]]
 [[Network_Topology_Design]]
 [[iNEST]]

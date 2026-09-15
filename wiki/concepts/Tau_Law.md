@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[BCU_Operation]]
 [[CSI_Temporal_Encoding]]
 [[ChipletSignalIntegrity]]
+[[ChipletTrafficAwareScheduling]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_NoC_Fabric]]

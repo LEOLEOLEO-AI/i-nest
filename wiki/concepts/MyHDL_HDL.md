@@ -33,11 +33,11 @@ Auto-extracted concept from raw material compilation.
 [[EfficientDeepLearning]]
 [[EmergentIntelligence_Spacetime]]
 [[Emergent_Topological_Alignment]]
+[[Heterogeneous_Inference_Division]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
-[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[FlagOS_2_0]]
 [[Heterogeneous_Integration]]
 [[IMPLYMemristiveISA]]
+[[Interconnect_Routing]]
 [[KV_Cache_To_BoundaryObject]]
 [[MicroRouter_Embedding]]
 [[Network_Topology_Design]]
@@ -46,10 +47,10 @@ Auto-extracted concept from raw material compilation.
 [[NoC]]
 [[NoC_Interconnect]]
 [[System_Level_Transition_Framework]]
+[[System_Level_Utility_Control]]
 [[TCC]]
 [[TopologyProgramming]]
 [[Topology_Aware_NoC_Routing]]
-[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

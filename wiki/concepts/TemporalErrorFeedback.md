@@ -64,6 +64,7 @@ Auto-extracted concept from raw material compilation.
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
 [[TemporalCreditAssignment]]
+[[Three_Dimensional_Analysis]]
 [[neuromorphic substrate]]
 [[residual connection]]
 

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Course_Based_FPGA_Projects]]
 [[DataDrivenCellularAxis]]
 [[DevelopmentalNeuromorphicAdaptation]]
+[[EmergentOrder]]
 [[EnsembleSparsity]]
 [[FlexibilityThreshold]]
 [[Gut_Brain_Immune_Network]]

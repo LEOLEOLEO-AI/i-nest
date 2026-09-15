@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[AI_Assisted_Energy_Management]]
 [[AI_Supply_Chain_Increment]]
+[[AI人工智能 卷积神经网络（CNN）_w3cschool]]
 [[Active_Inference_Agent]]
 [[AdaptiveArchitecture]]
 [[AdaptiveDensityControl]]

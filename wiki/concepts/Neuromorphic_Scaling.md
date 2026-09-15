@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Faculty_Forum_2026]]
+[[Analog_To_Information_Conversion]]
 [[Attention_Residuals]]
 [[BackpropagationFreeLearning]]
 [[BoundaryObject_Abstraction]]

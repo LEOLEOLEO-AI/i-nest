@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Beyond_Moore_Packaging_Strategy]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[CirculateFiringNeuron]]
+[[ConductingPolymerDendriteMemory]]
 [[Crystallized_Embedding_Reservoir]]
 [[DrivenDissipativeDynamics]]
 [[Dynamic_Expert_Fusion]]

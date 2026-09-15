@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Forum_Demo_Narrative]]
 [[ActiveMatterComputing]]
 [[Adaptive_Deep_Brain_Stimulation]]
+[[Adaptive_Intelligence_Principle]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]

@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[HardwareAware_SelfOrganization]]
 [[Heterogeneous_Integration]]
 [[InInterconnectMemory]]
+[[Inference_Workload_Profiling]]
 [[Intelligence_Emergence]]
 [[Level_of_Splat_Detail]]
 [[Memory_Wall]]
@@ -66,7 +67,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[Topology_Embedded_Field_Encoding]]
 [[WavelengthMultiplexedInterconnect]]
-[[advanced packaging]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

@@ -21,13 +21,16 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3D_IC_Stacking]]
+[[3d]]
 [[4H_SiC_SubstrateProcessing]]
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_Faculty_Forum_2026]]
+[[Attention_Residuals]]
 [[Heterogeneous_Integration]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
+[[SDI_iNEST]]
 [[SDI_iNEST_Wafer]]
 [[SDSoW]]
 [[SDSoW_Architecture]]

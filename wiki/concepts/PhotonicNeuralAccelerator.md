@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[CSI_Temporal_Encoding]]
 [[CollectiveDynamics]]
+[[ContinuousTimeSNN]]
 [[CriticalStateInformationMaximization]]
 [[CriticalityDrivenStateTransition]]
 [[Criticality]]

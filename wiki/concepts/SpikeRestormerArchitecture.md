@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Mechanism_in_SNN]]
 [[Avoided_Criticality]]
 [[Baseline_Change_Record]]
+[[BrainScaleS_AsyncEventCircuit]]
 [[BulletTrainScheduling]]
 [[ConverterDrivenStability]]
 [[Course_Based_FPGA_Prototyping]]
@@ -46,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[Self_Organized_Criticality]]
 [[SpikeRestormer]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

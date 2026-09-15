@@ -20,12 +20,14 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3d]]
 [[AnomalousSpinTransport]]
 [[BackpropagationFreeLearning]]
 [[Complex_System_Theory]]
 [[Course_Based_FPGA_Projects]]
 [[Crystallized_Neural_Manifolds]]
 [[DARPA_3DHI_Roadmap]]
+[[Deep_Network_Layer_Stacking]]
 [[HigherOrderSimplicialDynamics]]
 [[Intelligence_Emergence]]
 [[InterconnectConstrainedEmergence]]

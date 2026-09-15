@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[EmergentSocialDynamics]]
 [[Fading_Memory_Property]]
 [[Intelligence_Emergence]]
+[[MachineLearningPotential]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]

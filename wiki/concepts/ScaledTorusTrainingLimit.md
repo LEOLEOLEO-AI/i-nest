@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[HeavyTailedWaitingTimes]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[L2_L3_Reconfigurability]]
 [[MachineLearningPotential]]
 [[NCL神经计算定律详解]]
 [[Network_Topology_Design]]

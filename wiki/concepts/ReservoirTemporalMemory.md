@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[UniversalIntelligence_Emergence]]
+[[Universal_Claim_Evidence_Requirement]]
 [[Yann LeCun：发现智能原理是AI的终极问题]]
 [[iMESO_PhysicalCarrier]]
 [[iNEST]]

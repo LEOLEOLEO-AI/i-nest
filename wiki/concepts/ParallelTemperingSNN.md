@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[AI_Enabled_Battlefield_Autonomy]]
+[[AlternativeBridgingModels]]
 [[AnisotropicGaussianPrimitives]]
 [[ApproximateMacroscopicDynamics]]
 [[Bidirectional_Temporal_Enhancement]]
@@ -55,8 +56,10 @@ Auto-extracted concept from raw material compilation.
 [[SNN_NonIdeality_Modeling]]
 [[SpikeCodebookCompression]]
 [[Spike_Encoding_of_fMRI]]
+[[Spiking neural network]]
 [[SpikingArchitecture_Search]]
 [[Spiking_Neural_Network]]
+[[Spiking_Topology]]
 [[Spiking_Topology_Optimization]]
 [[Synaptic_Plasticity]]
 [[iNEST]]

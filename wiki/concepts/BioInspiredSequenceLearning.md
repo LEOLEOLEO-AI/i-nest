@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[GroupSynchronization]]
 [[IntrinsicTimingSTDP]]
 [[Learning_Rule_Comparison]]
+[[NetworkDynamicalStabilization]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[PhaseLockedTopologyMapping]]

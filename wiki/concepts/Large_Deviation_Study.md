@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[CounterstreamSignalPropagation]]
 [[DarkSiliconAwarePowerGating]]
 [[Environmental_Capability_Context]]
+[[ExtensiveWidthShallowNN]]
 [[FerroelectricMemoryCell]]
 [[Ferroelectric_Devices]]
 [[Heterogeneous_Integration]]

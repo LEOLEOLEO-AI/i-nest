@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[MatrixShapePhaseTransition]]
 [[MeasurementInducedRouting]]
+[[Memristor_Interconnect]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]
 [[SDI_STDP]]

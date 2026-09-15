@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Capability_Forging_Pipeline]]
 [[Chain_of_Thought_Reasoning]]
 [[ChipletSignalIntegrity]]
+[[ChipletWaferInterconnectCoDesign]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]

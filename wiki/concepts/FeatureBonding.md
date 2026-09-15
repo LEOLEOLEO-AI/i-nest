@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[BarrierConditionedTrajectory]]
 [[BioInspired_Interception_Control]]
 [[BurstGatedRouting]]
+[[CircuitTopologyEncoding]]
 [[Cognitive_Relapse_Decoupling]]
 [[ControlDrivenCriticalFluctuations]]
 [[CriticalLearningRegime]]

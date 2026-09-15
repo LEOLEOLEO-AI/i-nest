@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[4H_SiC_SubstrateProcessing]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
@@ -27,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CongestionAwareNoCPlacement]]
 [[DynamicServiceComposition]]
 [[GPU_Bottleneck_Relief]]
+[[Heterogeneous_Integration]]
 [[Interconnect_Topology]]
 [[Microsecond_Link_Reconfiguration]]
 [[Network_Topology_Design]]
@@ -38,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_NPU_NoC_Integration]]
 [[TCC]]
+[[chiplet interconnect]]
 [[topology reconfiguration]]
 
 ## Sources

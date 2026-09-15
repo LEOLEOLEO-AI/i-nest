@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[FullSpectrum_DomainIntegration]]
 [[FunctionalInterfaceBlock]]
 [[FunctionalInterfaceBlocks]]
+[[GeTeBasedCBRAM]]
 [[Heterogeneous_Integration]]
 [[IntegrationProspectsForVLSI]]
 [[Intelligence_Emergence]]

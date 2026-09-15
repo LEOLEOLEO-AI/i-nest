@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[DisorderAwareDetection]]
 [[DisorderInducedLocalization]]
 [[DynamicalMeanFieldAnalysis]]
+[[Edge_Temporal_Signal_Processing]]
 [[Encapsulation_Topology]]
 [[Euclidean_LatticeFieldSampling]]
 [[FaultTolerantLogicalOperation]]

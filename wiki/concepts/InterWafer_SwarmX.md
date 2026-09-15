@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Dragonfly_Inspired_WaferScale]]
 [[GlobalDecision_LocalExecution_ControlPlane]]
 [[Heterogeneous_Integration]]
+[[Integrated_Wafer_Cooling]]
 [[Interconnect_Topology]]
 [[KeyMaterialStrategy]]
 [[Mesoscale_Advantage_Equation]]
@@ -40,7 +41,9 @@ Auto-extracted concept from raw material compilation.
 [[MicroRouter_Embedding]]
 [[Network_Topology_Design]]
 [[TCC]]
+[[Wafer_Interconnect]]
 [[Wafer_Scale_Integration]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

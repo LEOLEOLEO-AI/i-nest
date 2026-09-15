@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Assisted_Energy_Management]]
 [[Active_Inference_Agent]]
 [[AdaptiveMeasurementProtocol]]
+[[AmorphousSolidPlasticity]]
 [[BackflowTransformation]]
 [[BayesianDomainEvolution]]
 [[BehavioralFeedbackLoop]]

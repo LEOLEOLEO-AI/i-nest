@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Stacking]]
 [[Collective_Offloading]]
 [[Complex_System_Theory]]
+[[ControlTheoreticNetworkTopology]]
 [[GasSensorArrayFusion]]
 [[Heterogeneous_Integration]]
 [[InInterconnectMemory]]
@@ -59,8 +60,8 @@ Auto-extracted concept from raw material compilation.
 [[State_Transition_Formalism]]
 [[TCC]]
 [[TopologyCentricPrimitiveSet]]
-[[advanced packaging]]
 [[causal emergence]]
+[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

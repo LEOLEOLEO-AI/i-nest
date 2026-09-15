@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NonEquilibriumPhaseTransition]]
 [[NonEquilibriumPhase]]
+[[NonlinearConnectomeScaling]]
 [[Self_Organized_Criticality]]
 [[Synaptic_Plasticity]]
 [[TCC]]

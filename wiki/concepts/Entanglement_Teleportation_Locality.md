@@ -52,6 +52,8 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[MachineLearningPotential]]
+[[Memristor]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]

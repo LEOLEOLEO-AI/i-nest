@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
+[[1024_Card_SuperNode]]
 [[3DHI_Chiplet_Integration]]
 [[3DHI_Integration]]
 [[3DHI_Interconnect]]
@@ -64,7 +65,7 @@ Auto-extracted concept from raw material compilation.
 [[Spaceborne_Computing_Architecture]]
 [[TCC]]
 [[WideLink_NoC_Router]]
-[[advanced packaging]]
+[[chiplet interconnect]]
 [[待分类]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]

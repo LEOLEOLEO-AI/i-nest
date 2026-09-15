@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AutonomousAdaptation]]
 [[CirculateFiringNeuron]]
 [[CorticalWaveRouting]]
 [[DevelopmentalNeuromorphicAdaptation]]
@@ -32,8 +33,11 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_SNN]]
 [[SDI_SNN_Interconnect]]
+[[SDI_iNEST]]
 [[SDI_iNEST_Interconnect]]
 [[SNN]]
+[[SNN_Topology]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 [[iNEST_Interconnect]]

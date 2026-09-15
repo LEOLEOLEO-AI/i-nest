@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicCentralitySteering]]
 [[EnsembleCreditAssignment]]
 [[FPGA_Neuromorphic_Architectures]]
+[[FlexibleManifoldReconfiguration]]
 [[InNetworkReconfiguration]]
 [[Interconnect_Routing]]
 [[LocalPlasticityPipeline]]

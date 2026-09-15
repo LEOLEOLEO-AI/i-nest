@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[PersonalizedSNNTransfer]]
 [[PersonalizedSNN]]
+[[QuantumDeepSupervision]]
 [[Reservoir_Computing]]
 [[SDDE_Attractor_Emergence]]
 [[SNN]]

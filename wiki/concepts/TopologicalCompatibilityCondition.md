@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[DataMovementMinimization]]
 [[Decoupled_Priors]]
 [[Die_to_Die_Protocol]]
+[[DirectConnect_Topology]]
 [[Disordered_Frustrated_Dimer_Magnets]]
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
@@ -68,6 +69,7 @@ Auto-extracted concept from raw material compilation.
 [[Structural_Mismatch]]
 [[TCC]]
 [[TemporalComplexity]]
+[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

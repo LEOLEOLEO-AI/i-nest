@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalBrainGraphEmbedding]]
 [[Hierarchical_Interconnect]]
 [[Interconnect_Routing]]
+[[MatrixShapePhaseTransition]]
 [[Memristive_STDP]]
 [[Memristor]]
 [[Memristor_Synapse]]

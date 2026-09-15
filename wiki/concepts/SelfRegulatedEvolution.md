@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[EmulationTheoryObserver]]
 [[Free_Energy_Principle]]
 [[GeometryGuidedGenerativeModel]]
+[[Hypersonic_Systems_Research]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Reservoir_Computing]]

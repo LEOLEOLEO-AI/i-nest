@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[EventCameraTemporalEncoding]]
 [[EventDrivenAsync]]
 [[EventDrivenAsynchronousRouting]]
+[[FiniteSizeCrossover]]
 [[Gradient_Signal_Preservation]]
 [[HigherOrderAvalanche]]
 [[In_Network_Neuromorphic]]

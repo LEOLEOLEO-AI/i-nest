@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Faculty_Forum_2026]]
 [[BigBrainCellularAxis]]
+[[ConsciousnessEngineeringLoop]]
 [[Continuous_Control_Spike_Timing_Sensitivity]]
 [[CorticalWaveRouting]]
 [[EventCameraTemporalEncoding]]

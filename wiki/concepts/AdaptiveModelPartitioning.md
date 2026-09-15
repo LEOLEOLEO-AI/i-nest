@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
 [[Chiplet，解决车规芯片既要、又要、还要难题的唯一解？_智车星球]]
+[[ClassicalQuantum_Query_Benchmark]]
 [[CoPackagedOptics]]
 [[Cognitive_Relapse_Architecture]]
 [[Complex_System_Theory]]

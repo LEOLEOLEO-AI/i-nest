@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[CombinatorialTopologySearch]]
 [[Complex_System_Theory]]
+[[ComplexityLandscape_Optimization]]
 [[EvolutionarySearch]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]

@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[ApproximateMacroscopicDynamics]]
 [[Arm_Locomotor_Synergy]]
+[[AutonomousAdaptation]]
 [[Battery_Technology_Integration]]
 [[FPGA_Implementation_Verification]]
 [[Quantization_HLS_Conversion]]
@@ -29,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN_HighLevel_DesignTraining]]
 [[SNN_Software_Hardware_CoDesign]]
 [[SNNtoFPGADesignFlow]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[hls4ml_SNN_Conversion]]
 [[iNEST]]

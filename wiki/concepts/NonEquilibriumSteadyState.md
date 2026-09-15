@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[AxonalGrowthConeStochasticity]]
 [[BCM滑动阈值]]
 [[CST计量仪]]
+[[CertifiedBifurcationDetection]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

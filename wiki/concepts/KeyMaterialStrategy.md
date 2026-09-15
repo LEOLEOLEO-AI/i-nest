@@ -40,12 +40,14 @@ Auto-extracted concept from raw material compilation.
 [[National_Mesoscale_Innovation_Center]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[SDSoW_Industry_Alliance]]
 [[SDSoW_Strategic_Planning]]
 [[SensorMemoryCoLocation]]
 [[TCC]]
+[[Wafer_Interconnect]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
@@ -53,6 +55,8 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Memristor_Integration]]
 [[Wafer_Scale_Neuromorphic]]
 [[Wafer_Scale_Neuromorphic_Integration]]
+[[Wafer_scale_integration_and_chip_design]]
+[[chiplet interconnect]]
 [[iNEST]]
 
 ## Sources

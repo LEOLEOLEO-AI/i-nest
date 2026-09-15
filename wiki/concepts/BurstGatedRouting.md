@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Driven_Architecture_Search]]
 [[Architectural_Conditioning]]
 [[BioPlausiblePredictiveCoding]]
+[[ContinuousTimeSNN]]
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[Criticality]]
 [[Criticality_Based_Feature_Extraction]]

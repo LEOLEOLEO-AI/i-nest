@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[BigBrainCellularAxis]]
 [[Complex_System_Theory]]
 [[Event_Driven_Architecture]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
@@ -30,10 +31,12 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[Neuromorphic_Planning_Architecture]]
 [[SDI_Bond]]
+[[SDI_iNEST]]
 [[SDI_iNEST_Interconnect]]
 [[SNN]]
 [[ST_SNN]]
 [[SpikeBasedInference]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]

@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
+[[NonreciprocalQuasiperiodicLattice]]
 [[OptimalGeneralisationNearInterpolation]]
 [[QuarantineStrategyOptimization]]
 [[Reservoir_Computing]]
@@ -55,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
+[[iNEST]]
 [[类脑芯片]]
 
 ## Sources

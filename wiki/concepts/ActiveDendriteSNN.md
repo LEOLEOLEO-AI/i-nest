@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AdaptiveDeltaPulseFrequencyEncoding]]
+[[AdaptiveFlexibilityThreshold]]
 [[AnomalousSpinTransport]]
 [[BackflowTransformation]]
 [[BigBrainCellularAxis]]
@@ -52,10 +53,12 @@ Auto-extracted concept from raw material compilation.
 [[SpikeInformationDensity]]
 [[Spike_Encoding_of_fMRI]]
 [[Spike_Residual_Connection]]
+[[Spiking neural network]]
 [[SpikingMOT]]
 [[SpikingMotorControl]]
 [[SpikingMuscleActivation]]
 [[SpikingNeuralNetworkInference]]
+[[SpikingNeuralNetwork]]
 [[SpikingTopologyEvolution]]
 [[Spiking_Neural_Network]]
 [[StochasticBinaryDynamics]]

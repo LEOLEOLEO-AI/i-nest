@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AcceleratedMaterialScreening]]
 [[AdaptiveArchitecture]]
 [[AdaptiveCombinerWeighting]]
+[[AdaptiveModelPartitioning]]
 [[AgenticServiceOrchestration]]
 [[AnalogDomainCompression]]
 [[Ant_Swarm_Functional_Control]]

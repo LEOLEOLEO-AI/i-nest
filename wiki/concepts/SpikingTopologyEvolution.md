@@ -58,12 +58,14 @@ Auto-extracted concept from raw material compilation.
 [[SpikeEncodingLatency]]
 [[SpikeEncoding]]
 [[Spike_Encoding_of_fMRI]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[TemporalFeatureDecorrelation]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]
+[[神经形态计算]]
 [[神经网络]]
 
 ## Sources

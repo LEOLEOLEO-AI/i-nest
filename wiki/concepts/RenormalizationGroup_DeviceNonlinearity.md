@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[Renormalization_Group]]
 [[Reservoir_Computing]]
 [[RestrictedConnectivityTopology]]
+[[TCC]]
 [[Universal_Scaling_Laws]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]

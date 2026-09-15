@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[AttractorConvergenceAnalysis]]
 [[BisectionBandwidthBound]]
 [[BisectionBandwidthMetric]]
+[[CXL_Deployment_Transition]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
@@ -39,7 +40,6 @@ Auto-extracted concept from raw material compilation.
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[TCC]]
-[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

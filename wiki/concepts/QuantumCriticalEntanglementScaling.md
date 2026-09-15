@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Avoided_Criticality]]
 [[BioInspiredInterceptionTask]]
 [[BioInspiredInterception]]
+[[BioPlausibleDisturbanceObserver]]
 [[Biologically_Plausible_Learning_Rules]]
 [[BulletTrainScheduling]]
 [[Catastrophic_Forgetting_Mitigation]]

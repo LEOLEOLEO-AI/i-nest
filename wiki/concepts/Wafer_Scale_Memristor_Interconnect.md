@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration_Route]]
 [[Chiplet_Interconnect]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
+[[CorticalWaveRouting]]
 [[CrossbarArrayVLSI]]
 [[DataDrivenCellularAxis]]
 [[Flexible_Spike_Routing]]
@@ -36,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
 [[Heterogeneous_Integration]]
+[[Interconnect_Routing]]
 [[Memristor]]
 [[Memristor_Interconnect]]
 [[Memristor_Network]]
@@ -63,6 +65,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect_Memristor]]
 [[Wafer_Scale_Neuromorphic]]
 [[Wafer_Scale_Neuromorphic_Integration]]
+[[chiplet interconnect]]
 [[iNEST]]
 
 ## Sources

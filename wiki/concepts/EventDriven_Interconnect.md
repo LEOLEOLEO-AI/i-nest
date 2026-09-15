@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenSensoryEncoding]]
 [[EventDrivenTracking]]
 [[Heterogeneous_Integration]]
+[[HierarchicalNetworkPartitioning]]
 [[InNetworkRadarProcessing]]
 [[Interconnect_Routing]]
 [[Memory_Wall]]

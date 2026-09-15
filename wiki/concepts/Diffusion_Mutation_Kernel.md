@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[3DGS_Scene_Graph]]
 [[3D_Torus_6_Degree]]
 [[3d]]
+[[ActiveMatterSubstrate]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

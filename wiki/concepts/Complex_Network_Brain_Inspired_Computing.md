@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Flexible_Neural_Mapping]]
 [[HippocampalNeocorticalIntelligence]]
 [[Intelligence_Emergence]]
+[[IntracorticalNeuralDecoding]]
 [[Memristive_Topology]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[MultiScaleTemporalProcessing]]

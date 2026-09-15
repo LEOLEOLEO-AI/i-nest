@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Faculty_Forum_2026]]
+[[Advanced_Packaging]]
 [[Attention_Residuals]]
 [[BackpropagationFreeLearning]]
 [[BoundaryObject_Abstraction]]
@@ -43,16 +44,19 @@ Auto-extracted concept from raw material compilation.
 [[NoC]]
 [[NoC_Chiplet_iNEST_Wafer]]
 [[P_Paradigm]]
+[[SDI_Bond]]
 [[SDI_TopologyWaferIntegration]]
+[[SDI_Topology]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[SDSoW_TCC_Integration]]
+[[SoftwareDefined_NoC_Routing]]
 [[Spatiotemporal_Synergy]]
 [[TCC]]
 [[WSE_OnWafer_Fabric]]
 [[WaferScaleInterconnectAlgebra]]
 [[Wafer_Scale_Integration]]
-[[advanced packaging]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

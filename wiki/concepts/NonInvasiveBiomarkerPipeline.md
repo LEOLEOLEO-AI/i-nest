@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[ContinuousControlConversion]]
 [[CriticalityConstrainedPruning]]
 [[CriticalityDrivenStateTransition]]
+[[CriticalityOffCriticalityTransition]]
 [[Criticality]]
 [[DeepLinearNetworkCriticality]]
 [[DirectSNNTraining]]

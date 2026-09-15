@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[ImaginaryGaugePhaseImprint]]
 [[Intelligence_Emergence]]
 [[Memristive_STDP]]
+[[MetaHardwareAbstraction]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[STDP_Plasticity]]

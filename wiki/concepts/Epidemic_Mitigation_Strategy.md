@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AnalogDomainCompression]]
 [[Architectural_Conditioning]]
 [[Bosonic_SPT_Phases]]
+[[CausalEmergenceCondition]]
 [[Cognitive_Relapse_Architecture]]
 [[Cognitive_Relapse_Decoupling]]
 [[CollectiveStateTopology]]

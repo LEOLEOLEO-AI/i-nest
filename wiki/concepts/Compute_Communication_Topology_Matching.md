@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[ChiralSymmetryClasses]]
 [[CommunicationAsComputation]]
 [[CommunicationAwareComputeRelocation]]
+[[Compact_Boson_Dynamics]]
 [[Computation_Access_Routing]]
 [[Compute_In_Memory_Neuromorphic]]
 [[CrossMaterial_Integration]]
@@ -48,13 +49,14 @@ Auto-extracted concept from raw material compilation.
 [[GPU_Hegemony_Disruption]]
 [[GraphBasedSemanticRouting]]
 [[Heterogeneous_Integration]]
+[[In_Memory_Computing]]
 [[InterconnectDrivenCostFunction]]
 [[Interconnect_Routing]]
 [[MaterialGrowthFabricationFocus]]
 [[MemoryDrivenRouting]]
 [[Network_Topology_Design]]
+[[Neuromorphic_Computing]]
 [[TCC]]
-[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

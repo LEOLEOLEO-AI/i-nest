@@ -63,6 +63,7 @@ Auto-extracted concept from raw material compilation.
 [[Topological_Invariant_Shift]]
 [[UnifiedHypergraphStateSpace]]
 [[iNEST]]
+[[iNEST_Neuromorphic_Integration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

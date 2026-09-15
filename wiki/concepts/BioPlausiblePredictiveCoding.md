@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Activity_Energy_Tradeoff]]
 [[BurstGatedRouting]]
+[[ContinuousTimeSNN]]
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[Criticality]]
 [[Criticality_Based_Feature_Extraction]]

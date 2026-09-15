@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AtomicVaporNonlinearity]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[CST_CoordinationMechanism]]
+[[CausalEmergenceCondition]]
 [[Complex_System_Theory]]
 [[CriticalFixedPoint]]
 [[CrossInstitutionalNetwork]]

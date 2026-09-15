@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Change_Record]]
 [[BioInspiredInterceptionTask]]
 [[BioInspiredInterception]]
+[[BrainScaleS_AsyncEventCircuit]]
 [[BulletTrainScheduling]]
 [[CoDesigned_SNN]]
 [[CoDesigned_SNN_Online_Learning]]
@@ -45,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Self_Organized_Criticality]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

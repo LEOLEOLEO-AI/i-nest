@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Cryogenic_Syndrome_Compression]]
 [[DTGA]]
 [[Decoupled_Priors]]
+[[DirectConnect_Topology]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[Free_Energy_Principle]]
