@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Topology_Mapping]]
 [[Heterogeneous_Integration]]
 [[InSituReconfiguration]]
+[[Inference_Workload_Profiling]]
 [[Microsecond_Topology_Switch]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]

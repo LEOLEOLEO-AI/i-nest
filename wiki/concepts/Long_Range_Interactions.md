@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[3D_Heterogeneous_Integration]]
 [[3d]]
 [[AINext_Initiative]]
+[[AI_Driven_Power_Density_Scaling]]
 [[AI_Faculty_Forum_2026]]
 [[ActivityAvalanche]]
 [[AdaptiveGraphDiffusion]]
@@ -68,6 +69,7 @@ Auto-extracted concept from raw material compilation.
 [[Spatiotemporal_Synergy]]
 [[State_Transition_Formalism]]
 [[TopologicalAndersonChernInsulator]]
+[[advanced packaging]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

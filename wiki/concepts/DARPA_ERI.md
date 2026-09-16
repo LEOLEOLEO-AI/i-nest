@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CST计量仪]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[CoPackagedOptics]]
 [[CommunicationHeterogeneity]]
 [[Complex_System_Theory]]
 [[Cryogenic_Syndrome_Compression]]

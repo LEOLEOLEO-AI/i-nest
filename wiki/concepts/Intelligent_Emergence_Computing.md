@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[MultiScaleTemporalProcessing]]
 [[NestedRepresentation]]
 [[Network_Topology_Design]]
+[[NeuromorphicHardwareTrojan]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Energy_Aware_Learning]]
 [[Neuromorphic_Integration]]

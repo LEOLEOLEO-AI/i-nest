@@ -56,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[Path_Redundancy_Management]]
 [[RTC_Primitive]]
 [[RTC_Primitives]]
+[[Renormalization_Group_Attention]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[STDP_Plasticity]]

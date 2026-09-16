@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Active_Inference_Agent]]
 [[AdaptiveBitPrecisionExploration]]
 [[AdaptiveMeasurementProtocol]]
+[[Advanced_Computing_Project]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[AutonomousAdaptation]]

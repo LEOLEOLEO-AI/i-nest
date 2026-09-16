@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
+[[ConductingPolymerDendriteMemory]]
 [[ConverterDrivenStability]]
 [[Criticality]]
 [[CrossEntityPreemptiveWarning]]

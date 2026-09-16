@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AdversarialSpikePerturbation]]
 [[Attention_Mechanism_in_SNN]]
 [[Avoided_Criticality]]
 [[BioPlausibleDisturbanceObserver]]

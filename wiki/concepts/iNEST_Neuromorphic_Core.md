@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[Event_Driven_Architecture]]
 [[FunctionalEnsembleComputation]]
+[[FunctionalEnsemble]]
 [[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Scheduling]]
 [[In_Package_Neuromorphic_Integration]]
@@ -34,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[NestedRepresentation]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[Neuromorphic_Topology]]
 [[iNEST]]
 
 ## Sources

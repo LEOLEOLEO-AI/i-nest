@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_STDP_Rule]]
 [[STDPDrivenTemporalBinding]]
 [[STDP_Learning]]
+[[STDP_Local_Gradient]]
 [[STDP_Plasticity]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

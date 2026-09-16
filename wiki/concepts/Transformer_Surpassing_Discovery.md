@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]
 [[ChiralSurfaceFermiProjection]]
+[[ChiralSymmetryClasses]]
 [[CircuitTopologySearch]]
 [[CompactAnalogPredictor]]
 [[Complex_System_Theory]]

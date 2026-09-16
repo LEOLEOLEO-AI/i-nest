@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Faculty_Forum_2026]]
 [[BiasEvaluationMetrics]]
+[[Bipartite_Interconnect_Design]]
 [[Brain_Connectome]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]

@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Computation_Organization]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
+[[CrashHotspotForecasting]]
 [[ErrorSuppressedPipeline]]
 [[HierarchicalReservoirDynamics]]
 [[Intelligence_Emergence]]

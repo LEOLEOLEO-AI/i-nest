@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[ErrorAmplificationLimits]]
 [[EventCameraActionRecognition]]
 [[EventCameraTemporalEncoding]]
+[[ExponentialDenseAssociativeMemory]]
 [[FiniteSizeCrossover]]
 [[HigherOrderAvalanche]]
 [[In_Network_Neuromorphic]]

@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Ferroelectric_Devices]]
 [[Free_Energy_Minimization_Interconnect]]
 [[HierarchicalAttention_MIL]]
+[[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[InterconnectConstrainedEmergence]]
 [[Interconnect_Scaling]]

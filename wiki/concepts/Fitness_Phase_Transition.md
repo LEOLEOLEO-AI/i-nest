@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Ant_Swarm_Functional_Control]]
 [[ArtificialProprioception]]
+[[BayesianDomainEvolution]]
 [[BurstTemporalPlasticity]]
 [[Cache_Aware_Flow_Scheduling]]
 [[Capability_Reserve_Index]]

@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[MemoryEfficientSimulation]]
 [[Network_Topology_Design]]
+[[NextNearestNeighborHopping]]
 [[NonEquilibriumComputing]]
 [[PersistenceThresholdOptimization]]
 [[RandomFieldDisorder]]

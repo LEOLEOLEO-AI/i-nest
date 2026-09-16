@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_NetworkCoDesign]]
+[[RegularizerAsControlParameter]]
 [[SDDE_SDI_Stack]]
 [[SDI_Bond]]
 [[SDI_TCC_iNEST_Bridge]]

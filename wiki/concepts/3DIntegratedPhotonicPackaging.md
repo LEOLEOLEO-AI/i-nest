@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Defense_Industrial_Base_Reshaping]]
 [[DiagnosticReportFramework]]
 [[EulaminateOverrepresentation]]
+[[Evolutionary_Structure_Computability]]
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[Free_Energy_Topology_Mapping]]

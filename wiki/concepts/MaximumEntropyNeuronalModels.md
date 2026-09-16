@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[AdaptiveFrequencyResonateAndFire]]
 [[Adaptive_Replication_Strategy]]
+[[Algorithmic_Warfare]]
 [[AmoebaInspiredLocomotion]]
 [[Anomaly_Induced_Quantum_Criticality]]
 [[Avoided_Criticality]]

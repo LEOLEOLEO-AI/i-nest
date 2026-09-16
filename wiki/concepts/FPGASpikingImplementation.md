@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[ScalableNeuromorphicTopology]]
 [[SparseHubsCoupling]]
 [[Spiking_Neural_Network]]
+[[SpontaneousOrderMechanism]]
 [[VerticalOpticalInterconnect]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]

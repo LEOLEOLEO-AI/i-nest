@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[ErrorSuppressedPipeline]]
 [[Evolutionary_Reservoir_Adaptation]]
 [[FractalPathEntropy]]
+[[Generation_Readiness_Assessment]]
 [[HardwareAware_DesignSpace]]
 [[HierarchicalReservoirDynamics]]
 [[ModularTimescaleSeparation]]

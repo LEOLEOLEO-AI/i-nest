@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[BCM滑动阈值]]
 [[CertifiedBifurcationDetection]]
 [[Complex_System_Theory]]
+[[DTGA]]
 [[Decoupled_Prior_Integration]]
 [[DynamicInference]]
 [[Intelligence_Emergence]]

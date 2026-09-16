@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[Exponential_CST_Coupling]]
 [[FPGA_Prototype_Validation]]
 [[FlagOS_2_0]]
+[[FlagScale]]
 [[Heterogeneous_Integration]]
 [[Memory_Wall]]
 [[MetricComputationAuthenticity]]

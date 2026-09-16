@@ -58,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[PacketRoutingOptimization]]
 [[RealTimeClassification]]
 [[RelocationOverheadModel]]
+[[SDI_Stream_Aware_NoC_Routing]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
 [[TCC]]

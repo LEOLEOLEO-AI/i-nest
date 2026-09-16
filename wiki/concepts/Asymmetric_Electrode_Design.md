@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[BiologicalNoiseMimicry]]
 [[CoEvolvedSNNEnsemble]]
 [[CombinedImportanceScoring]]
+[[ConfigurableSNNInference]]
 [[Nonlinear_Gain]]
 [[SNN]]
 [[SpikeEncoding]]

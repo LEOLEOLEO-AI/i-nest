@@ -45,8 +45,8 @@ Auto-extracted concept from raw material compilation.
 [[PerturbationSpaceTrajectory]]
 [[QuantumDeepSupervision]]
 [[ReSCom_Accelerator]]
+[[Recurrent_Network_Homeostasis]]
 [[SNN]]
-[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

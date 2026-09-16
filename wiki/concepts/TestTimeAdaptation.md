@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Architecture]]
 [[Event_Driven_Communication]]
 [[Event_Driven_Processing]]
+[[FPGA_NeuromorphicMapping]]
 [[FoveationGuidedTokenSelection]]
 [[InNetworkComputing]]
 [[InSitu_Compute]]

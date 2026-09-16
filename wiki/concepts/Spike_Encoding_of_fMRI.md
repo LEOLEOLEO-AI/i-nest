@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
+[[ConductingPolymerDendriteMemory]]
 [[Criticality]]
 [[Delay_Aware_Autograd_Spiking_Framework]]
 [[EEGSpikeEncoding]]

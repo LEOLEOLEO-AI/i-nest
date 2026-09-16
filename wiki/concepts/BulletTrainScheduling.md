@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Avoided_Criticality]]
+[[BandedConnectivityModel]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
@@ -55,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[ST_SNN]]
 [[Self_Organized_Criticality]]
 [[SpikeEncodingLatency]]
+[[SpikeEncoding]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[SynapticReinforcementConsolidation]]

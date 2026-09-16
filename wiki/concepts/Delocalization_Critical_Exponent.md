@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[DelayAwareSpikeEventDelivery]]
 [[DigitalSpikingNeuralNetwork]]
 [[DiscreteContinuous_Unification]]
+[[EfficientCodingCriticality]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Self_Organized_Criticality]]

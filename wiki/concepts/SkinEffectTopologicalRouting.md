@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Based_Trusted_Hardware]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_NoC_Interconnect]]
+[[Chiplet_Stacking]]
 [[Collective_Offloading]]
 [[Complex_System_Theory]]
 [[CongestionAwareNoCPlacement]]
@@ -51,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC]]
+[[NoC_Interconnect]]
 [[Package_Level_Interconnect]]
 [[PacketRoutingForFPGAs]]
 [[SDI_Bond]]
@@ -61,6 +63,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[Topology_Interconnect]]
+[[advanced packaging]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

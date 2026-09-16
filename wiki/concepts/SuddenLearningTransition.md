@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[DTGA]]
 [[DualDrivenHybridNetwork]]
 [[EEGSpikeEncoding]]
+[[ElasticInferenceScheduling]]
 [[ErrorAmplificationLimits]]
 [[EventDrivenMotionDeblurring]]
 [[EventDrivenSynchronization]]

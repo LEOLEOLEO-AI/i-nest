@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[Signal_Folding]]
 [[SneakPathCurrentSuppression]]
 [[Spiking_Neural_Network]]
+[[SpontaneousOrderMechanism]]
 [[VaCoAl]]
 [[analog computation]]
 [[iNEST]]

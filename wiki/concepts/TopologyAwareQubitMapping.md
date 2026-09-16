@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstInterleaving]]
 [[ChiralSymmetryClasses]]
 [[CommunicationAwareComputeRelocation]]
+[[Compact_Boson_Dynamics]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_InMemory_Processing]]
 [[ArchitecturalGrounding]]
 [[Architectural_Conditioning]]
+[[AthermalRandomFieldBlumeCapel]]
 [[CST_SynergisticCoordination]]
 [[Chain_of_Thought_Reasoning]]
 [[Chiplet]]

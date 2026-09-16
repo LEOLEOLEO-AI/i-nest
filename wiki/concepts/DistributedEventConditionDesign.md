@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[HubbardModelVariationalAnsatz]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[Kinematic_Waves]]
 [[Memristive_Topology]]
 [[Nanoparticle_Network_Interconnect]]
 [[Network_Topology_Design]]

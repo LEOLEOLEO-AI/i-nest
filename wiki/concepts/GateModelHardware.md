@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_EventRouting]]
 [[PacketRoutingOptimization]]
 [[Radiation_Hardened_Compute]]
+[[SDI_Stream_Aware_NoC_Routing]]
 [[SparseTemporalEncoding]]
 [[SpikeCommunicationCost]]
 [[Spiking_Neural_Network]]

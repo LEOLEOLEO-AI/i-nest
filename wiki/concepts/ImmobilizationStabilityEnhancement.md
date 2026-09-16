@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[EnergyResourceEfficiencyTradeoff]]
 [[ErrorAmplificationLimits]]
 [[Feedback_Ising_Neural_Networks]]
+[[FormalToolchain]]
 [[Heterogeneous_Integration]]
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]

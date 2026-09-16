@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveDendriteSNN]]
 [[AdaptiveAsymmetricSurrogateGradient]]
 [[AdaptiveAsymmetricSurrogateGradients]]
+[[AdaptiveDeltaPulseFrequencyEncoding]]
 [[Adaptive_Replication_Strategy]]
 [[AddressRedundancyElimination]]
 [[Avoided_Criticality]]

@@ -25,9 +25,11 @@ Auto-extracted concept from raw material compilation.
 [[ANN_to_SNN_Conversion_Error_Amplification]]
 [[AcousticAnomalyDetection]]
 [[ActionPrototypeClustering]]
+[[ActiveDendriteSNN]]
 [[Edge_Intelligence]]
 [[Event_Driven_Architecture]]
 [[Neuromorphic_Computing]]
+[[SNN]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

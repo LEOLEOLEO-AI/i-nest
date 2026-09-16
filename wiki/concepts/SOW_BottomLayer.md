@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Faculty_Forum_2026]]
 [[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[AnalogInMemoryComputing]]
@@ -48,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC_iNEST_Interconnect]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
+[[advanced packaging]]
 [[iNEST]]
 [[iNEST_Interconnect]]
 [[iNEST_Wafer]]

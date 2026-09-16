@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Coupling_Topology]]
 [[Crystallized_Neural_Manifolds]]
 [[DataDrivenMaterialDesign]]
+[[DifferentiableLifting]]
 [[DiscreteScaleInvariance]]
 [[EcosystemTopologyCoupling]]
 [[ErrorSuppressedPipeline]]

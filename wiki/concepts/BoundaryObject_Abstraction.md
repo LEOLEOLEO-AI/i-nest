@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[AutonomousAdaptation]]
 [[BigBrainCellularAxis]]
+[[ByteDance_Ada_Chip]]
 [[CST_Equation]]
 [[CST_Exponential_Form]]
 [[CST计量仪]]

@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[DelayPropagationDynamics]]
 [[ElectricFieldModulatedCoupling]]
 [[Emergent_Order_Deep_Belief_Networks]]
+[[EvolvingArchitectureDynamics]]
 [[ExactWiringRouting]]
 [[GrandCanonicalOptimization]]
 [[Intelligence_Emergence]]

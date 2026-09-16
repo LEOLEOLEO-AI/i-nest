@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[BoundaryObject_Abstraction]]
 [[CST_Exponential_Form]]
+[[CST_MasterEquation]]
 [[CST计量仪]]
 [[Causal_Emergence]]
 [[Causal_Emergence_Architecture]]

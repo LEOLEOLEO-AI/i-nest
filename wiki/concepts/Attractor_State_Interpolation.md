@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Cryogenic_Syndrome_Compression]]
 [[Crystallized_Neural_Manifolds]]
+[[CubicLatticeInterconnect]]
 [[ExplainableEnergyAI]]
 [[InNetworkNeuromorphicComms]]
 [[InNetworkNeuromorphic]]

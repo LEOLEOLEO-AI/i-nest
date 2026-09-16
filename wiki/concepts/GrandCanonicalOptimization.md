@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[ElectricFieldModulatedCoupling]]
 [[Emergent_Order_Deep_Belief_Networks]]
+[[EvolvingArchitectureDynamics]]
 [[ExactWiringRouting]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

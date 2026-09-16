@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[OpportunisticRouting]]
 [[PropertyPredictionModeling]]
 [[SNN]]
+[[SolitonLikeWaves]]
 [[SpikeEncoding]]
 [[SpikeRatePrecisionTradeoff]]
 [[Spike_Encoding_of_fMRI]]

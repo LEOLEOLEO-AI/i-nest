@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Topology_Mapping]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[HybridCouplingThermosensitiveNetwork]]
+[[InSitu_Adjoint_Wave_Control]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[JunctionCenteredRouting]]

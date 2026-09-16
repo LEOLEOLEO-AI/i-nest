@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[ExplainableEnergyAI]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
+[[GCML_Cognitive_Map]]
 [[Interconnect_Routing]]
 [[Memristor]]
 [[Memristor_Synapse]]

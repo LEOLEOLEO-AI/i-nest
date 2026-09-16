@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[Continuous_Discrete_Compute_Gap]]
 [[Continuous_Spatiotemporal_State_Propagation]]
+[[FPGA_NeuromorphicMapping]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Neural_Operator]]

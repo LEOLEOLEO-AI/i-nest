@@ -57,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Salca]]
 [[Selection_Theorems]]
+[[StochasticMultiAgentRL]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]

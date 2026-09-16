@@ -25,6 +25,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 
 ## Related Work
 
+[[3d]]
 [[CST计量仪]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -39,7 +40,10 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[NCL神经计算定律详解]]
 [[Nat_Hum_Behav_用「全拓扑网络」重塑视皮层地图]]
 [[Network_Topology_Design]]
+[[Neuromorphic_Computing]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[_Nature大子刊_3D集成技术如何打破神经形态计算的_互连墙_]]
+[[getnote_2026-01-12_低功耗智能新范式]]
 [[iNEST]]
+[[神经形态计算]]

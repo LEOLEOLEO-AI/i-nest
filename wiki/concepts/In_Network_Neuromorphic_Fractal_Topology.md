@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicServiceComposition]]
 [[In_Network_Neuromorphic]]
 [[Independent_EdgeAI_Player_Endgame]]
+[[Koopman_Constants_Of_Motion]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]

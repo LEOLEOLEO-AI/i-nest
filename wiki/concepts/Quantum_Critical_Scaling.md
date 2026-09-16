@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[DTGA]]
 [[DelayParameterSpaceDecomposition]]
+[[DendriticTaskRouting]]
 [[Environmental_Capability_Context]]
 [[Fractal_Scaling]]
 [[GraphBasedSemanticRouting]]

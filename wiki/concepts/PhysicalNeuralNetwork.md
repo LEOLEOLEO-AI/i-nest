@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AgenticServiceOrchestration]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Ant_Swarm_Functional_Control]]
+[[BandedNonHermitianRandomMatrices]]
 [[Baseline_Draft_Status]]
 [[BoundaryObject_Abstraction]]
 [[CST_Intelligence_Emergence]]

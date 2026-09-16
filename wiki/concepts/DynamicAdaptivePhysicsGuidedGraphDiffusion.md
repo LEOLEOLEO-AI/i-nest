@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Intelligence_Principle]]
 [[Adaptive_Path_Selection]]
 [[Adaptive_Service_Orchestration]]
+[[Algebraic_Completeness]]
 [[Allreduce_Latency_Probe]]
 [[AnisotropicGaussianPrimitives]]
 [[Architectural_Conditioning]]

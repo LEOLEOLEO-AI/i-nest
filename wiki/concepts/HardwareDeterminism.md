@@ -25,10 +25,13 @@ Auto-extracted concept from raw material compilation.
 [[ByteDance_Ada_Chip]]
 [[DisorderDrivenTemporalOrdering]]
 [[ElectronicWarfareNeuromorphic]]
+[[EventDrivenAsync]]
 [[EventDrivenAsynchronousRouting]]
+[[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
 [[PHYPowerTimingCoOptimization]]
 [[TCC]]
+[[TopologicalDataCompression]]
 [[iNEST]]
 
 ## Sources

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_NoC_Fabric]]
 [[Chiplet_Stacking]]
+[[CoPackagedOptics]]
 [[Complex_System_Theory]]
 [[Computation_Access_Routing]]
 [[EntanglementAwareRouting]]

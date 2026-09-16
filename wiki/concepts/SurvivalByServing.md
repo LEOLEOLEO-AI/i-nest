@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[ObjectDirectedPhenomenology]]
 [[Pseudogap_Formation]]
+[[Readout_Weight_Training]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Swarm_Coordination]]
 [[TCC]]

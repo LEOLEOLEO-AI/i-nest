@@ -58,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
 [[TemporalInformationStorage]]
+[[TemporalPrecisionScheduling]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
 [[类脑芯片]]

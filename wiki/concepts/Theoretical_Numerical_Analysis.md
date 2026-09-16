@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Beyond_Moore_Pathway]]
 [[BiasEvaluationMetrics]]
 [[ConsciousIntegration]]
+[[Continuous_Spatiotemporal_State_Propagation]]
 [[CrossDomain_Integration]]
 [[DARPA_ProjectManager_Model]]
 [[Deep_Network_Architecture_Invariant]]
@@ -55,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[StorageCompute_SeparationBottleneck]]
 [[StorageCompute_Separation]]
 [[TopologicalDataCompression]]
+[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

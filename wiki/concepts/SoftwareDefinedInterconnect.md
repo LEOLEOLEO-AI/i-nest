@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Decoupled_Priors]]
 [[DiagnosticReportFramework]]
 [[DynamicServiceComposition]]
+[[Dynamic_Structural_Hole_Reconfiguration]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Topology]]
 [[Network_Topology_Design]]

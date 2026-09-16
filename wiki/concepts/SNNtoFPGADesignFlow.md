@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Accelerated_SNN]]
 [[In_Network_Neuromorphic]]
 [[Interconnect_Routing]]
+[[Meta_Residual_Architecture]]
 [[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Planning_Architecture]]

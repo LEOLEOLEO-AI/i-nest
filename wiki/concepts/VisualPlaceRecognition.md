@@ -43,9 +43,12 @@ Auto-extracted concept from raw material compilation.
 [[In_Package_Neuromorphic_Integration]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[SDI_Bond]]
+[[SDI_iNEST]]
 [[SDI_iNEST_Interconnect]]
 [[SNN]]
 [[ST_SNN]]
+[[SensorMemoryFusion]]
 [[SpikeEncoding]]
 [[SpikingNeuralImplementation]]
 [[Spiking_Neural_Network]]
@@ -53,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[ThresholdBasedSpikeEncoding]]
 [[iNEST]]
+[[iNEST_Interconnect]]
 [[iNEST_Neuromorphic_Integration]]
 
 ## Sources

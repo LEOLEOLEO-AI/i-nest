@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[EdgeIoTEnergyAwareness]]
 [[ElectricFieldModulatedCoupling]]
 [[Emergent_Order_Deep_Belief_Networks]]
+[[EvolvingArchitectureDynamics]]
 [[GrandCanonicalOptimization]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

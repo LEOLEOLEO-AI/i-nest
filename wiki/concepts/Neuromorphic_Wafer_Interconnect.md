@@ -38,11 +38,12 @@ Auto-extracted concept from raw material compilation.
 [[SDI_iNEST]]
 [[SDI_iNEST_Platform]]
 [[SDSoW]]
+[[SDSoW_Architecture]]
+[[SDSoW_Industry_Alliance]]
 [[TCC]]
 [[Wafer_Interconnect]]
 [[Wafer_Scale_Integration]]
 [[iNEST]]
-[[neuromorphic interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

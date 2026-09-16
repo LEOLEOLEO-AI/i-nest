@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[3D_Stacked_Memory_Logic]]
 [[3d]]
+[[AI_Driven_Power_Density_Scaling]]
 [[ConsciousIntegration]]
 [[CrossDomain_Integration]]
 [[Ferroelectric_ComputeInMemory]]
@@ -31,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Memory_Computing]]
 [[Long_Range_Interactions]]
 [[Memristive_CAM_Indexing]]
+[[Memristive_Crossbar]]
 [[Memristive_Crossbar_Array]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

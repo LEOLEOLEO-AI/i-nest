@@ -60,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[HybridBondingForPhotonicLayers]]
 [[Intelligence_Emergence]]
+[[InterconnectConstrainedEmergence]]
 [[Microgrid_Optimization]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[BiologicalNoiseMimicry]]
 [[CollectiveSpikingDynamics]]
 [[CombinedImportanceScoring]]
 [[CrossLayer_SignalRouting]]
@@ -52,9 +53,11 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[StructuralPriorEncoding]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[Topology_Centric_Neuromorphic]]
 [[Topology_Centric_Neuromorphic_Integration]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

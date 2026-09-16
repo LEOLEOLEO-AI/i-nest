@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Order_Deep_Belief_Networks]]
+[[EventBasedAnalogFrontEnd]]
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[FrozenRateOperator]]

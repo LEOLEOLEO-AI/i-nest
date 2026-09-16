@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Bio_plausible_Neuromorphic_Disturbance_Observer]]
 [[BrainBodyResonance]]
 [[ClosedLoopNeuromorphicControl]]
+[[CompetitiveProgramDynamics]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[DataDrivenCellularAxis]]
 [[EmulationTheoryObserver]]

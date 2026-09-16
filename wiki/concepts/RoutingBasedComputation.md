@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[BurstInterleaving]]
 [[CellEmergence]]
+[[Compact_Boson_Dynamics]]
 [[Complex_System_Theory]]
 [[Compute_In_Memory_Neuromorphic]]
 [[Continuous_Spatiotemporal_State_Propagation]]

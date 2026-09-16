@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicTopology]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
+[[GeTeBasedCBRAM]]
 [[HippocampalNeocorticalIntelligence]]
 [[Intelligence_Emergence]]
 [[Memristor]]

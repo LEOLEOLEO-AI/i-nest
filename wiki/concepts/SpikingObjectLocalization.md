@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
+[[Connectome_Transfer]]
 [[ElasticInferenceScheduling]]
 [[EmergencePhaseCitationDynamics]]
 [[Gate_Synthesis_Readout]]

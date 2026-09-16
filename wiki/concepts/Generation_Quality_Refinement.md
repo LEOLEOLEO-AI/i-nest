@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[STDPDrivenConnectivity]]
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
+[[Syncytial_Mesh]]
 [[analog computation]]
 [[iNEST]]
 

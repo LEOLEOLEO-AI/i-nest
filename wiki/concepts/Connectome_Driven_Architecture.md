@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Active_Inference_Agent]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[BackflowTransformation]]
+[[BayesianDomainEvolution]]
 [[BoundaryObject_Abstraction]]
 [[Brain_Connectome]]
 [[Connectome]]

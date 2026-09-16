@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_InMemory_Processing]]
 [[AnisotropicTensileStrength]]
 [[AnteHoc_Explainability]]
+[[Backpropagating_Action_Potential]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

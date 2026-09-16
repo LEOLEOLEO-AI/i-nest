@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AutonomousServiceNegotiation]]
 [[BackpropagationFreeLearning]]
 [[Battery_Technology_Integration]]
+[[Brain_Scale_Parameter_Baseline]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]

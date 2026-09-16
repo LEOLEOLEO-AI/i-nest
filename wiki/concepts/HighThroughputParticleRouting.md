@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle_Network]]
 [[FunctionalInterfaceBlock]]
 [[FunctionalInterfaceBlocks]]
+[[GeneralIntelligenceSubstrate]]
 [[Heterogeneous_Integration]]
 [[IncidenceBasedRandomWalk]]
 [[Intelligent_Computing_Infrastructure]]

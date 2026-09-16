@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[DevelopmentalNeuromorphicAdaptation]]
 [[EmergentOrder]]
 [[Emergent_Order_Deep_Belief_Networks]]
+[[EventTriggeredDistributedControl]]
 [[FrozenRateOperator]]
 [[ImaginaryGaugePhaseImprint]]
 [[Intelligence_Emergence]]

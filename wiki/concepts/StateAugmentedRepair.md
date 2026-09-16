@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[KV_Cache_To_BoundaryObject]]
 [[KV_Cache_to_BoundaryObject_Transition]]
 [[MelanomaMAPKPathway]]
+[[MetaHardwareAbstraction]]
 [[Network_Topology_Design]]
 [[Polymer_Composite_Conductivity]]
 [[SDI_Bond]]

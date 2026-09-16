@@ -62,7 +62,10 @@ Auto-extracted concept from raw material compilation.
 [[StructuralConstraintAwareLearning]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[TopologyAware_Embedding]]
 [[Topology_Interconnect]]
+[[advanced packaging]]
+[[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

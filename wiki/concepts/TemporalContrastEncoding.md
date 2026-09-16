@@ -30,6 +30,8 @@ Auto-extracted concept from raw material compilation.
 [[EventCameraTemporalEncoding]]
 [[EventDrivenAttentionMasking]]
 [[Event_Driven_Architecture]]
+[[ImpactFallDetection]]
+[[Interconnect_Routing]]
 [[IntrinsicTimingSTDP]]
 [[Network_Topology_Design]]
 [[NeuromorphicAuditoryFrontend]]

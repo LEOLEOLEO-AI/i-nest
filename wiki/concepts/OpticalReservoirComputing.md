@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[ErrorSuppressedPipeline]]
 [[FullyLocalOnlineSNNTraining]]
 [[HierarchicalReservoirDynamics]]
+[[HigherOrderSimplicialDynamics]]
 [[Intelligence_Emergence]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Nanoencapsulation_PhaseTransition]]

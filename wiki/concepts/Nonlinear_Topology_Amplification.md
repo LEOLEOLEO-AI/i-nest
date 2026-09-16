@@ -90,6 +90,7 @@ Auto-extracted concept from raw material compilation.
 [[chiplet interconnect]]
 [[complex system]]
 [[emergent computation]]
+[[iNEST]]
 [[residual connection]]
 
 ## Sources

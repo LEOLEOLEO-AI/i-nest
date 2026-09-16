@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[FerroelectricMemoryCell]]
 [[Ferroelectric_Devices]]
 [[FlagOS_2_0]]
+[[Flow_Aware_Interconnect_Design]]
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]

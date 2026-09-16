@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[6万+辛顿2025年度全景实录深读｜真正的智能与硅基智能的非对称演进]]
 [[AIRA_NeuralArchSearch]]
+[[ArmLocomotorCoordination]]
 [[Bidirectional_Temporal_Enhancement]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Chiplet]]
@@ -30,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[ComplexValuedSNN]]
 [[DendriticTaskPartitioning]]
+[[Heterogeneous_Integration]]
 [[In_Package_Neuromorphic_Integration]]
 [[Interconnect_Routing]]
 [[Nature Communications_生物神经网络中突触多样性如何让人工神经网络更强大？]]

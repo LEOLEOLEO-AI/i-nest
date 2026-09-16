@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[HeavyTailedWaitingTimes]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[L2_L3_Reconfigurability]]
 [[Milinkovic B (2024)：复杂神经系统涌现动力学结构]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]

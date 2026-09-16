@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[DifferentiableRasterizationPipeline]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
+[[ElectricFieldModulatedCoupling]]
 [[EvolvingArchitectureDynamics]]
 [[FPGA_Reconfigurability]]
 [[Free_Energy_Principle]]

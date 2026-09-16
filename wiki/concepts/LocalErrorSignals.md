@@ -38,11 +38,13 @@ Auto-extracted concept from raw material compilation.
 [[Compact_Sequence_Encoding]]
 [[DiffAttention_SubtractiveMechanism]]
 [[Discrete_Event_Spike_Simulation]]
+[[ElasticInferenceScheduling]]
 [[EventDrivenTemplateUpdate]]
 [[FFN_Neuron_Sparsity]]
 [[Neuromorphic_Computing]]
 [[Spiking_Neural_Network]]
 [[TCC]]
+[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

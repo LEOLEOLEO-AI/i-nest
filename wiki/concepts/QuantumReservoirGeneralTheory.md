@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Memory_Technology_Coexistence]]
 [[MemristiveReservoirBranchPrediction]]
 [[MetricComputationAuthenticity]]
+[[NanomaterialFeatureEngineering]]
 [[QuantumReservoirMemoryCapacity]]
 [[ReservoirDynamics]]
 [[Reservoir_Computing]]

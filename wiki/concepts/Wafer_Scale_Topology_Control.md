@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_SDI]]
 [[OnChipOpticalTweezers]]
 [[P_Paradigm]]
+[[Packaging_CoDesign]]
 [[SDI_Bond]]
 [[SDI_NPU_NoC_Integration]]
 [[SDI_TopologyWaferIntegration]]

@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Topology]]
 [[SpatialPatternStorage]]
 [[TCC]]
+[[TSV_Interconnect]]
 [[ThroughSiliconVia_TSV_ThermalPath]]
 [[chiplet interconnect]]
 

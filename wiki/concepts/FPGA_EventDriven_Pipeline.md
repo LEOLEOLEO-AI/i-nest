@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Discrete_Event_Spike_Simulation]]
 [[EarlyVisualCortexAliasing]]
 [[Endocrine_Modulated_Network_State]]
+[[EnergyProportionalityCeiling]]
 [[EventDrivenAsync]]
 [[EventDrivenAsynchronousRouting]]
 [[EventDrivenFunctionalConnectivity]]

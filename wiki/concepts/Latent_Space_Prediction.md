@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3D_Heterogeneous_Integration]]
+[[3d]]
 [[4H_SiC_SubstrateProcessing]]
 [[AI_Driven_Architecture_Search]]
 [[AI_Faculty_Forum_2026]]
@@ -30,12 +31,14 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Service_Orchestration]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[ArtificialProprioception]]
+[[Chat_to_Agent_Paradigm]]
+[[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Interconnect]]
 [[Structural_Manifold_Attractor]]
 [[TCC]]
 [[iNEST]]
-[[neuromorphic interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[CompetitiveProgramDynamics]]
 [[Contested_Priors_Mechanism]]
 [[Dynamic_Expert_Routing]]
+[[EpidemicThreshold]]
 [[ExactRateChaosTransition]]
 [[ExplainableEnergyAI]]
 [[InteractingQuasiPeriodicChain]]

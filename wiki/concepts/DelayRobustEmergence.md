@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[Phase_Synchronization_Collective_Dynamics]]
 [[QuantumConvolutionalTopology]]
+[[RandomProjectionLandscapePreservation]]
 [[TCC]]
 [[emergent computation]]
 [[iNEST]]

@@ -57,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[TCC_SpikingIntegration]]
+[[TopologyDrivenSpiking]]
 [[Topology_Centric_Spiking]]
 [[Topology_Centric_Spiking_Architecture]]
 [[iNEST]]

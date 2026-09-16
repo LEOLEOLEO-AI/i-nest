@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NonlinearWaveMixing]]
 [[Nonlinear_Gain]]
+[[Readout_Weight_Training]]
 [[SelfHealing_Interconnect]]
 [[Self_Organized_Criticality]]
 [[StandardizedComponent]]

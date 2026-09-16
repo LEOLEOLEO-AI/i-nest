@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[Spike_State_Propagation]]
 [[Spike_Timing_Dependent_Plasticity]]
 [[Spike_timing_dependent_plasticity_learning_rule]]
+[[SpikingNeuralNetworkInference]]
 [[SpikingObjectLocalization]]
 [[Spiking_Neural_Network]]
 [[StochasticBinaryDynamics]]

@@ -71,6 +71,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TemperatureSensitivityControl]]
 [[TemporalComplexity]]
+[[Textbook_Paradigm_Definition]]
 [[TopologyProgramming]]
 [[Topology_Centric_Computing]]
 [[Topology_Centric_Computing_Paradigm]]

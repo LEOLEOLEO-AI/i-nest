@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[3D_Heterogeneous_Integration]]
 [[3d]]
 [[AI_Faculty_Forum_2026]]
+[[AdaptiveFlexibilityThreshold]]
 [[Adaptive_Deep_Brain_Stimulation]]
 [[Adaptive_Intelligence_Principle]]
 [[AnytimePointCloudRecognition]]
@@ -35,7 +36,9 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Heterogeneous_Integration]]
 [[Intelligent_Power_Management]]
+[[Memristor]]
 [[Memristor_Interconnect]]
+[[Memristor_Synapse]]
 [[WaveBasedComputation]]
 [[iNEST]]
 

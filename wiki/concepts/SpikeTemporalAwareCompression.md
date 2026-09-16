@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[3d]]
 [[ActiveDendriteSNN]]
 [[AlternativeBridgingModels]]
+[[AnisotropicGaussianPrimitives]]
 [[Bidirectional_Temporal_Enhancement]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Forum_Demo_Narrative]]
 [[ActionPrototypeClustering]]
 [[Baseline_Draft_Status]]
+[[Bipartite_Interconnect_Design]]
 [[BrainInspiredArchitecture]]
 [[BurstGatedRouting]]
 [[CIMWeightUpdateAwareness]]

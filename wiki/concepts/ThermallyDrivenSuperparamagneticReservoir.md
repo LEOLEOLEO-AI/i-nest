@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkNeuromorphicEmergence]]
 [[InNetworkNeuromorphic]]
 [[In_Network_Neuromorphic]]
+[[InkjetPrintedElectrochemicalSensors]]
 [[Intelligence_Emergence]]
 [[Memristor]]
 [[Memristor_Network]]

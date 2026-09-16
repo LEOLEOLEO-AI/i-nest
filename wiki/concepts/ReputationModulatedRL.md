@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN动力学]]
 [[AdaptiveBitPrecisionExploration]]
 [[AdaptiveNetworkResilience]]
+[[Advanced_Computing_Project]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[Bias_Origin_Taxonomy]]
 [[CST计量仪]]

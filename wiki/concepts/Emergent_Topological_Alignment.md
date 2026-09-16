@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[EfficientDeepLearning]]
 [[EmergentIntelligence_Spacetime]]
 [[EnergyOptimizedManycoreArchitecture]]
+[[HardwareAware_SelfOrganization]]
 [[Heterogeneous_Integration]]
 [[InMateriaComputing]]
 [[Intelligence_Emergence]]
@@ -57,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[Selection_Theorems]]
 [[TCC]]
+[[advanced packaging]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

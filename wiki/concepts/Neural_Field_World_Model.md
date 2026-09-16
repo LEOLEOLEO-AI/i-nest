@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[FlexibilityThreshold]]
 [[FlexibleManifoldReconfiguration]]
 [[FrozenRateOperator]]
+[[InNetworkPowerRouting]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[LLMDrivenPathSelection]]

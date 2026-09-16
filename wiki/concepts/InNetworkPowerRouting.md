@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[LLMDrivenPathSelection]]
 [[LocalPlasticityPipeline]]
 [[Memristive_Topology]]
 [[NetworkArchitectureSearch]]

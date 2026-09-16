@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[BeyondVonNeumannArchitecture]]
 [[CMOS_Memristor_Devices]]
 [[ChargeDomainAttention]]
+[[CompactMicroLED_Array]]
 [[HybridResistiveMemoryCIM]]
 [[In_Memory_Computing]]
 [[Memristive_Synaptic_Device]]

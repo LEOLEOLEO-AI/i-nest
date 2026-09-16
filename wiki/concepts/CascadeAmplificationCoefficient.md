@@ -34,8 +34,11 @@ Auto-extracted concept from raw material compilation.
 [[MultiplicativeGain]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
+[[SDSoW]]
+[[SDSoW_Architecture]]
 [[SDSoW_Strategic_Planning]]
 [[STDP_Plasticity]]
+[[Spatiotemporal_Synergy_Complexity]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 

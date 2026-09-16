@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CrossbarArrayVLSI]]
+[[CrossbarInterconnect]]
 [[CytoarchitectonicAxis]]
 [[FunctionalBrainGraphEmbedding]]
 [[Heterogeneous_Integration]]

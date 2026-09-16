@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Koopman_Constants_Of_Motion]]
 [[MemristiveTopologyCoupling]]
 [[Memristive_STDP]]
+[[Memristor_Interconnect]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Spatiotemporal_Synergy]]

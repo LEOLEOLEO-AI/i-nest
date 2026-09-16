@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicTopologyMapping]]
 [[DynamicTopology]]
 [[Dynamic_Expert_Fusion]]
+[[Emergent_Order_Deep_Belief_Networks]]
 [[FPGA_Neuromorphic_Architectures]]
 [[Fermi_Surface_Reconstruction]]
 [[Free_Energy_Principle]]

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AcceleratorReconfigurationOverhead]]
 [[CMOS_Memristor_Crossbar]]
 [[FPGA_SNN_Mapping]]
+[[Flexible_Neuron_Model]]
 [[Memristor]]
 [[Memristor_Crossbar]]
 [[Memristor_Synapse]]

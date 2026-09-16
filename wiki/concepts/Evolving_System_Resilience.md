@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3D_Heterogeneous_Integration]]
+[[3d]]
 [[AI_FullSpectrum_Strategy]]
 [[AdaptiveArchitecture]]
 [[AdaptiveEntanglementManagement]]
@@ -32,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Decoupling]]
 [[ControlDrivenCriticalFluctuations]]
 [[Critical_Region_Extension]]
+[[CrossDomain_Integration]]
 [[DTGA]]
 [[DynamicSynchronyMetric]]
 [[Dynamic_Expert_Fusion]]
@@ -41,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Neuromorphic_Architectures]]
 [[Free_Energy_Topology_Mapping]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
+[[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[MatrixShapePhaseTransition]]
 [[Memristive_Topology]]

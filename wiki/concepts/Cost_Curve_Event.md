@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenAsync]]
 [[EventDrivenAsynchronousRouting]]
 [[FPGA_NeuromorphicMapping]]
+[[FoveationGuidedTokenSelection]]
 [[In_Package_Neuromorphic_Integration]]
 [[Interconnect_Routing]]
 [[LossSpikePhenomenon]]

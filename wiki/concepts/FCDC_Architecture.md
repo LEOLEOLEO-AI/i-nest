@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[FlagOS_2_0]]
 [[GeTeBasedCBRAM]]
 [[GradientFreeSNNTraining]]
+[[HeterogeneousSynapticDelays]]
 [[HybridResistiveMemoryCIM]]
 [[IMPLYMemristiveISA]]
 [[In_Memory_Computing]]

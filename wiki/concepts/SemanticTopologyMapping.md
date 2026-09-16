@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[BalancedRouting]]
 [[Baseline_Draft_Status]]
 [[Bipartite_Interconnect]]
+[[BoundaryContract]]
 [[CellEmergence]]
 [[Complex_System_Theory]]
 [[DisorderedNetworkInterconnect]]

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[BioPlausibleDisturbanceObserver]]
 [[BrainInspired_Chip]]
 [[Branch_Prediction_in_Pipelined_Processors]]
+[[Catastrophic_Forgetting_Mitigation]]
 [[Criticality]]
 [[EventDrivenAsync]]
 [[EventDrivenMotionDeblurring]]

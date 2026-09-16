@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[3D_TokSIM_Architecture]]
 [[3d]]
+[[AI_Driven_Power_Density_Scaling]]
 [[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[CrossDomain_Integration]]
@@ -40,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[StorageCompute_Separation]]
 [[Theoretical_Numerical_Analysis]]
+[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AnomalousSpinTransport]]
 [[BiologicalNoiseMimicry]]
 [[CSI_Temporal_Encoding]]
+[[Causal_Emergence_Integration]]
 [[CollectiveStateResilience]]
 [[CompartmentalNeuronModel]]
 [[CoreComputationSubspace]]

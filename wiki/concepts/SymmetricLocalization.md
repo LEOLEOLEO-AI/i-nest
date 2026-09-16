@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Compute_In_Memory_Neuromorphic]]
 [[Confinement]]
 [[Deep_Thermalisation]]
+[[DistributedIntelligence]]
 [[EdgeIoTEnergyAwareness]]
 [[GraphBasedSemanticRouting]]
 [[Heterogeneous_Integration]]

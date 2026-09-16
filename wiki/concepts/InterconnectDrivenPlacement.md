@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Intelligence_Verifiability]]
 [[EventBasedAnalogFrontEnd]]
+[[EventDrivenWirelessTransmission]]
 [[GradientTopologyOptimization]]
 [[GutBrainAxis_Reprogramming]]
 [[Gut_Brain_Immune_Network]]

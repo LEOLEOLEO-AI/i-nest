@@ -43,6 +43,8 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[Erdos_Renyi_Graph_Energy_Topology]]
 [[Network_Topology_Design]]
+[[PerspectiveLatent]]
+[[STDP_Plasticity]]
 [[STDP_Supervised_Degradation]]
 [[SelfMotivatedGrowth]]
 [[Self_Organized_Criticality]]

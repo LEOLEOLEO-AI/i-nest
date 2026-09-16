@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AmorphousSolidPlasticity]]
 [[AstrocyteInspiredRepair]]
 [[AsymmetricStochasticInteractions]]
+[[AttentionMap_DifferenceResidual]]
 [[AvalancheTriggeringMechanism]]
 [[Biomanufacturing_Control_Loop]]
 [[BranchingRatio]]

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AllParallel_SpikeBased_Computing]]
 [[BurstGatedRouting]]
 [[Continuous_Discrete_Compute_Gap]]
 [[Continuous_Spatiotemporal_State_Propagation]]
@@ -32,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Topology]]
 [[P_Paradigm]]
+[[SDI_Bond]]
 [[SDI_Sparse_Dataflow_Interconnect]]
 [[TCC]]
 [[iNEST]]

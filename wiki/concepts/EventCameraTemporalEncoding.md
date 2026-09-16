@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Hardware_Accelerated_SNN]]
 [[In_Network_Neuromorphic]]
 [[Intelligence_Emergence]]
+[[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]
 [[Memristor]]
 [[Memristor_Network]]

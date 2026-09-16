@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Loihi2_OnChip_Learning]]
 [[Loihi]]
 [[MetaFAIR_ArchitectureDiscovery]]
+[[MetalHalidePerovskiteMemristor]]
 [[NeuromorphicHardwareDeployment]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]

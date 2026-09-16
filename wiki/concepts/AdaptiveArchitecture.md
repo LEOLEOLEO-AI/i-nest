@@ -54,6 +54,8 @@ Auto-extracted concept from raw material compilation.
 [[ReconfigurableSpikingRouting]]
 [[Reconfigurable_Interconnect]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SNN]]
+[[SelfOrganizationInContinuousMedia]]
 [[SelfOrganization]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]

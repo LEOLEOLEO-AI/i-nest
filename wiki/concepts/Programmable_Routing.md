@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Synapse]]
 [[NegotiationAwareRouting]]
 [[Network_Topology_Design]]
+[[NeuromorphicHardwareTrojan]]
 [[Neuromorphic_Computing]]
 [[iNEST]]
 

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[BigBrainCellularAxis]]
 [[Brain_Connectome]]
+[[BurstTemporalPlasticity]]
 [[CST_Intelligence_Emergence]]
 [[CST_MasterEquation]]
 [[Chiplet]]

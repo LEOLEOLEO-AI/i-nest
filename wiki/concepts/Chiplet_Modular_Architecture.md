@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CongestionAwareNoCPlacement]]
 [[DelayCouplingMatrix]]
 [[Differential_FeatureExtraction]]
+[[Dynamic_Communication_Reconfiguration]]
 [[EquilibriumTreePacking]]
 [[EvolutionaryTopologySearch]]
 [[Heterogeneous_Integration]]

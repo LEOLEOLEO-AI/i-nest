@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Learning]]
 [[STDP_MemristiveLearning]]
 [[STDP_Plasticity]]
+[[STDP_Topology]]
 [[STDP_Topology_Integration]]
 [[STDP_iNEST]]
 [[SpikeBasedInference]]
@@ -49,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[Synchronization_Overhead_Mitigation]]
 [[TemporalAdversarialPerturbation]]
+[[TemporalCodingForPointClouds]]
 [[iNEST]]
 
 ## Sources

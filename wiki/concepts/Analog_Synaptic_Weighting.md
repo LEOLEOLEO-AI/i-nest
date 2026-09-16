@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Attention_Residuals]]
 [[BackpropagationFreeLearning]]
+[[Beyond_Moore_Pathway]]
 [[CST计量仪]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet]]
@@ -73,6 +74,7 @@ Auto-extracted concept from raw material compilation.
 [[TemporalComplexity]]
 [[TopologyCentricEngineeringBase]]
 [[Topology_Centric_Computing]]
+[[advanced packaging]]
 [[chiplet interconnect]]
 [[iNEST]]
 

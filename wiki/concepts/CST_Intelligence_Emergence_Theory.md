@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[3d]]
 [[AI_Driven_Architecture_Search]]
 [[AI_Faculty_Forum_2026]]
+[[BeliefPropagationOnGraphTopology]]
 [[BoundaryObject_Abstraction]]
 [[CST_Intelligence_Emergence]]
 [[Chiplet]]

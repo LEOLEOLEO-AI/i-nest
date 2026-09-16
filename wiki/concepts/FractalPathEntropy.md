@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Reservoir_Topology]]
 [[FlexibilityThreshold]]
 [[FunctionalInterfaceBlock]]
+[[HigherOrderSimplicialDynamics]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[LocalSynapticRules]]

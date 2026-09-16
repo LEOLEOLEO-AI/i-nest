@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[NonEquilibriumPhase]]
 [[ResonateAndFireEncoding]]
 [[STDP_Plasticity]]
+[[SparseActivationSkipping]]
 [[SpikeAwareAlignmentDistillation]]
 [[SpikeTimingDependentPlasticityForTracking]]
 [[SpikeTimingDependentPlasticity]]

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Assisted_Energy_Optimization]]
 [[Complex_System_Theory]]
 [[ControlDrivenCriticalFluctuations]]
+[[CooperativeEmergence]]
 [[Critical_Region_Extension]]
 [[DelayTolerantNetworkUAV]]
 [[EvolvingArchitectureDynamics]]

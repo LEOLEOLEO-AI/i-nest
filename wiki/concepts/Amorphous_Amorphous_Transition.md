@@ -63,6 +63,7 @@ Auto-extracted concept from raw material compilation.
 [[Syncytial_Mesh_Model]]
 [[TemporalDynamicsModeling]]
 [[TwoTimescaleNeuroEvolution]]
+[[WormBrain_FlyBody_Controller]]
 [[iNEST]]
 [[neuromorphic substrate]]
 

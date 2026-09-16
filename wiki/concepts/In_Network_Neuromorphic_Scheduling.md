@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[QuantumFluctuationDrivenTransport]]
 [[RenormalizationGroup_ScalingLaws]]
 [[RenormalizationGroup_Scaling]]
+[[SDI_iNEST_Interconnect]]
 [[SNN]]
 [[ST_SNN]]
 [[SpatiotemporalComplexityIndex]]

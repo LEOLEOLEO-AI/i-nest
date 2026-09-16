@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Event_Driven_Attention]]
 [[SpikingNeuralPolicies]]
 [[Spiking_Neural_Network]]
+[[TemporalAdversarialPerturbation]]
 [[TemporalSparsityExploitation]]
 
 ## Sources

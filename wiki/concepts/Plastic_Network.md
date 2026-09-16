@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[4H_SiC_SubstrateProcessing]]
 [[Attention_Inspired_Resource_Allocation]]
 [[Bond_Operation_Algebra]]
+[[CLINKAsCarrierPrimitive]]
 [[Chemical_Bond_Operation_Algebra]]
 [[ChipletOnWafer]]
 [[Chiplet]]

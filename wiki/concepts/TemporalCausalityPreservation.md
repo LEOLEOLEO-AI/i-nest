@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstSuppression]]
 [[Contested_Prior_Resolution]]
 [[ContinuousTimeSNN]]
+[[CriticalityOffCriticalityTransition]]
 [[Criticality]]
 [[DelayAwareSpikeEventDelivery]]
 [[DifferentiableSpikeTimeDiscretization]]

@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Spatiotemporal_Synergy]]
 [[Network_Topology_Design]]
+[[NoC_Chiplet_iNEST_Wafer]]
 [[Nonlinear_Gain]]
 [[P_Paradigm]]
 [[PhysicalSubstrateReservoir]]

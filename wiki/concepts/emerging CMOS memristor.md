@@ -45,6 +45,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[DivergentHigherAreaRanking]]
 [[EchoState_n_ch]]
 [[EnvironmentalEmbedding]]
+[[ErrorSuppressedPipeline]]
 [[Memristor]]
 [[Memristor_Crossbar]]
 [[Memristor_Reservoir_Branch_Prediction]]

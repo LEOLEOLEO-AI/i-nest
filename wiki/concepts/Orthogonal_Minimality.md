@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityOffCriticalityTransition]]
 [[Criticality]]
 [[CrossLayer_SignalRouting]]
+[[EnergyProportionalityCeiling]]
 [[EvolutionaryDiversityPreservation]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[FibonacciMonitoredCriticality]]

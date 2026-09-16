@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Speech_Tokenizer]]
 [[Neuromorphic_Spiking_Integration]]
 [[SNN]]
+[[SNN_HighLevel_DesignTraining]]
 [[ST_SNN]]
 [[SensorMemoryFusion]]
 [[Spiking_Neural_Network]]

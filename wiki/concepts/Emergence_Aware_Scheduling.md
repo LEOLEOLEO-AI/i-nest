@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_iNEST]]
 [[Scale_Dependent_Coherence]]
 [[SearchGatingPolicy]]
+[[SelfMotivatedGrowth]]
 [[SelfOrganization]]
 [[SpikeEncoding]]
 [[Spiking_Neural_Network]]

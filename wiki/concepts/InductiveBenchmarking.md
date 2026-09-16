@@ -60,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI节点接口规范与化合键定义]]
 [[STDP_Plasticity]]
 [[Simulation_Data_Provenance]]
+[[Simulation_Handoff_Recommendation]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[TopologyAwareScheduling]]

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
+[[Defense_Industrial_Base_Reshaping]]
 [[Free_Energy_Topology_Mapping]]
 [[GlobalDecision_LocalExecution_ControlPlane]]
 [[Heterogeneous_Chiplet_Integration]]

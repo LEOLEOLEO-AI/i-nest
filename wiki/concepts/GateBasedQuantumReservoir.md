@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[HardwareAware_DesignSpace]]
+[[HigherOrderSimplicialDynamics]]
 [[Hybrid_LLM_Guided_Search]]
 [[InNetwork_Topological_Reservoir]]
 [[Intelligence_Emergence]]

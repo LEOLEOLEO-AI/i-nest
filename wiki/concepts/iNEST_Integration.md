@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[ActionPrototypeClustering]]
+[[Bipartite_Interconnect]]
 [[Bipartite_Interconnect_Design]]
 [[BrainInspiredArchitecture]]
 [[ConductingPolymerDendriteMemory]]
@@ -34,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[SpiNNaker2_Chip]]
 [[SpiNNaker]]
+[[Spiking_Network_Simulation_Locality]]
 [[iNEST]]
 [[iNEST_Interconnect]]
 [[iNEST_Neuromorphic_Integration]]

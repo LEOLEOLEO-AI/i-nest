@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Cryogenic_Syndrome_Compression]]
 [[DataCenter_Chip_Logic_Compression]]
 [[Differential_Encoding]]
+[[Distributed_Spike_Communication]]
 [[EntropyMinimization]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

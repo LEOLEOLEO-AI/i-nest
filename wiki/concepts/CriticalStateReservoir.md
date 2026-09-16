@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AdjustableDynamicsReservoir]]
 [[AdjustableDynamics]]
 [[AnomalousSpinTransport]]
+[[AtomicGeometryEncoding]]
 [[BigBrainCellularAxis]]
 [[CouplingTopologyMemoryLink]]
 [[Coupling_Topology]]

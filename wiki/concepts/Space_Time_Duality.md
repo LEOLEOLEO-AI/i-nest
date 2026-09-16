@@ -25,9 +25,12 @@ Auto-extracted concept from raw material compilation.
 [[Compressive_Sensing_Reservoir]]
 [[CouplingTopologyInducedDynamics]]
 [[CriticalityInducedTopology]]
+[[Criticality]]
+[[Criticality_Metric_Extraction]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[Reservoir_Computing]]
+[[Self_Organized_Criticality]]
 [[TCC]]
 [[iNEST]]
 
@@ -36,3 +39,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- Space_Time_Duality (merged 2026-09-17)

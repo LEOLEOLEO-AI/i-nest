@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[ClinicalTranslationBridge]]
 [[Complex_Network_Brain_Inspired_Computing]]
 [[Complex_System_Theory]]
+[[DeepSpikingNeuralNetworkTraining]]
 [[DevelopmentalNeuromorphicAdaptation]]
 [[DynamicReconfigurationForFaultTolerance]]
 [[DynamicTopologyMapping]]

@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Topology]]
 [[Neuromorphic_Topology_Reconfiguration]]
 [[OODA_Loop_Breaking]]
+[[Orientation_Encoding_Latent_Spaces]]
 [[Quantum_Criticality]]
 [[SelfOrganization]]
 [[Self_Organized_Criticality]]

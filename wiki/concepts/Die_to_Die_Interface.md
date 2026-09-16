@@ -22,9 +22,9 @@ Auto-extracted concept from raw material compilation.
 
 [[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
+[[AgentReputationLedger]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
 [[Chiplet_NoC_Interconnect]]
 [[Collective_Offloading]]
 [[DataMovementMinimization]]
@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC]]
 [[NoC_Interconnect]]
 [[TCC]]
+[[advanced packaging]]
 [[chiplet interconnect]]
 
 ## Sources

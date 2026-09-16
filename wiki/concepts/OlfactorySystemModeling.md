@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[BrainBodyResonance]]
 [[CascadedAdaptiveCombiners]]
 [[ClosedLoopNeuromorphicControl]]
+[[CompetitiveProgramDynamics]]
 [[FlexibilityThreshold]]
 [[Neuromorphic_Computing]]
 [[Synaptic_Plasticity]]

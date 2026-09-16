@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Metriplectic_Twin]]
 [[MultiScaleTemporalProcessing]]
+[[Multifractal_Signatures]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicHardware]]

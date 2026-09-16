@@ -20,7 +20,9 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Bipartite_Interconnect]]
 [[Bipartite_Interconnect_Design]]
+[[ChannelEventSparsity]]
 [[EventDrivenAttentionMechanism]]
 [[GradientFreeSNNTraining]]
 [[In_Memory_Computing]]
@@ -36,7 +38,6 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[SNN_TopologyOptimization]]
 [[SNN_Topology]]
-[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

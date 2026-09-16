@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3D_Heterogeneous_Integration]]
+[[3d]]
 [[AI_Driven_Architecture_Search]]
 [[AI_Driven_Power_Density_Scaling]]
 [[AI_Forum_Demo_Narrative]]
@@ -28,6 +29,8 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Intelligence_Principle]]
 [[Adaptive_Service_Orchestration]]
 [[Agile_Resilient_Defense_Ecosystem]]
+[[BioInspiredGeneralist]]
+[[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[TCC]]

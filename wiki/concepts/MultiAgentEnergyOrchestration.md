@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalInterfaceBlock]]
 [[FunctionalInterfaceBlocks]]
 [[GeTeBasedCBRAM]]
+[[GradientFreeTraining]]
 [[Heterogeneous_Integration]]
 [[IntegrationProspectsForVLSI]]
 [[Intelligence_Emergence]]

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[CSI_Temporal_Encoding]]
 [[Criticality]]
 [[Edge_of_Chaos]]
+[[ElasticInferenceScheduling]]
 [[EventBasedMotionDeblurring]]
 [[EventDataNonUniformity]]
 [[EventDrivenMotionDeblurring]]

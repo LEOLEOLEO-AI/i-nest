@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Avoided_Criticality]]
 [[BioPlausibleDisturbanceObserver]]
+[[Biologically_Plausible_Learning_Rules]]
 [[BulletTrainScheduling]]
 [[BurstTemporalPlasticity]]
 [[CirculateFiringNeuron]]

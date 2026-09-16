@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossLayer_SignalRouting]]
 [[CrossbarSNNArchitecture]]
 [[EventDrivenModularArchitecture]]
+[[IMPLY_ISA]]
 [[Interconnect_Routing]]
 [[LocalInteractionDrivenReconfiguration]]
 [[LossSpikePhenomenon]]

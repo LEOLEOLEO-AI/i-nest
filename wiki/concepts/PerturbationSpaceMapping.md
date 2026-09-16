@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[AttentionMap_DifferenceResidual]]
 [[Attention_ResidualCancellation]]
 [[BehavioralEpidemicFeedbackLoop]]
+[[BigBrainCellularAxis]]
 [[Biological_Circuit_Formalization]]
 [[Biological_Neural_Circuit_Formalization]]
 [[BoseCondensateNeuralAnalogy]]

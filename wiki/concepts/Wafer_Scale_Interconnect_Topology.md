@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Chiplet_Integration]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Topology]]
+[[Memristor_Interconnect]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[Microgrid_Optimization]]
 [[Network_Topology_Design]]

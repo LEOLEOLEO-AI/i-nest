@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[CommunicationAsComputation]]
 [[Defense_Industrial_Base_Reshaping]]
 [[DistributedTrainingPipeline]]
+[[Dynamic_Structural_Hole_Reconfiguration]]
 [[EdgeIoTEnergyAwareness]]
 [[GlobalDecision_LocalExecution_ControlPlane]]
 [[Heterogeneous_Chiplet_Integration]]

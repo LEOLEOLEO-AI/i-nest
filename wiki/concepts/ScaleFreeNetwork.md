@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Macro_System_Description]]
 [[MacroscopicDescriptor]]
 [[Memory_Wall]]
+[[Memristive_ANN_Hardware]]
 [[Memristive_STDP]]
 [[Memristor]]
 [[Memristor_Network]]

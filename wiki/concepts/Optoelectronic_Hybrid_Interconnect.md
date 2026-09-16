@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect_Topology]]
 [[Cryogenic_Syndrome_Compression]]
 [[Heterogeneous_Integration]]
+[[InNetworkRadarProcessing]]
 [[Interconnect_Routing]]
 [[Interconnect_Topology]]
 [[Memory_Wall]]
@@ -43,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[Wafer_Scale_Integration]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

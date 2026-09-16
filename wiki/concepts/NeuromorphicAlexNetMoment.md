@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[CollectiveDynamics]]
 [[ConsciousnessEngineeringLoop]]
 [[CriticalStateInformationMaximization]]
+[[CrossLayer_SignalRouting]]
 [[Neuromorphic_Computing]]
 [[PPT]]
 [[SNN]]

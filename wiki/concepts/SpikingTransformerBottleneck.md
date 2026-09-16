@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Algorithm_Hardware_CoDesign]]
 [[CollectiveSpikingDynamics]]
 [[DMP_SNN_DualMemoryPathway]]
+[[DirectTrainingSNN]]
 [[Distributed_Spike_Communication]]
 [[EnergyEfficientRestoration]]
 [[EventDrivenInference]]

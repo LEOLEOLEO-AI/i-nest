@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[4H_SiC_SubstrateProcessing]]
 [[ASIC_Dualism]]
 [[BackpropagationFreeLearning]]
+[[CLINKAsCarrierPrimitive]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]

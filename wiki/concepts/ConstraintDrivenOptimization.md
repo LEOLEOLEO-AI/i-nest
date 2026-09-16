@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[LEO_Satellite_Routing_RL]]
 [[MatrixShapePhaseTransition]]
+[[MoE_Routing]]
 [[Network_Topology_Design]]
 [[OptimalControlPolicyLearning]]
 [[Synaptic_Plasticity]]

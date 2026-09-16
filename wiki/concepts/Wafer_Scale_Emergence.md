@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkNeuromorphic]]
 [[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Processing]]
+[[Independent_EdgeAI_Player_Endgame]]
 [[InkjetPrintedElectrochemicalSensors]]
 [[Intelligence_Emergence]]
 [[KV_Cache_To_BoundaryObject]]

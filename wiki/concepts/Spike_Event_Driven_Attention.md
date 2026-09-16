@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_NoC_Routing]]
 [[NoC]]
 [[RobustnessToNoiseInSNN]]
+[[SDI_iNEST_Interconnect]]
 [[SNN]]
 [[STDP_Plasticity]]
 [[ST_SNN]]

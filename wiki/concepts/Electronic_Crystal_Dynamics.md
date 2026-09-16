@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Interconnect_Topology]]
+[[Logic_Folding]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]
 [[SDI_TopologicalControl]]

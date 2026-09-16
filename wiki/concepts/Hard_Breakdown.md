@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[KeyMaterialStrategy]]
 [[Memristor]]
 [[Memristor_Synapse]]
+[[Mesoscale_Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Wafer_Interconnect]]
 [[Wafer_Scale_Integration]]

@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Oncological_Digital_Twin]]
 [[Personalised_Strategy_Optimisation]]
+[[SDI_STDP_Fusion]]
 [[SNN]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]

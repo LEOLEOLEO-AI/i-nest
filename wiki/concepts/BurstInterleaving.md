@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[OptimalGeneralisationNearInterpolation]]
 [[P_Paradigm]]
 [[PacketRoutingForFPGAs]]
+[[PolicyDrivenInnovation]]
 [[SparseTemporalEncoding]]
 [[SpikingNeuralNetworkTopologyMapping]]
 [[SpikingNeuralNetworkTopology]]

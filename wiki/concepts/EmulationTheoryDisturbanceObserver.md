@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenMotionDeblurring]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[InterFPGA_Spike_Routing]]
 [[MultiModel_Adapter_Architecture]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicObserverArchitecture]]

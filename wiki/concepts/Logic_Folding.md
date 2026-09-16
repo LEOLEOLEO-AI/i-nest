@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[4H_SiC_SubstrateProcessing]]
 [[AI_Application_Scenario_Reconstruction]]
 [[AdvancedPackagingInterconnect]]
+[[AdvancedPackaging]]
 [[CavityMethodAnalysis]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -66,6 +67,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TSVInterconnectReliability]]
 [[ThroughSiliconVia_TSV_ThermalPath]]
+[[TopologyGradientSignal]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

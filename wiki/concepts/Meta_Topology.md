@@ -39,9 +39,11 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration]]
 [[CircuitTopologySearch]]
 [[Critical_Region_Extension]]
+[[CrossLingualIdiomGraph]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
+[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

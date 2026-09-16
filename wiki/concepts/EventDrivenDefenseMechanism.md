@@ -41,6 +41,8 @@ Auto-extracted concept from raw material compilation.
 [[MagnitudePhaseComputationalModel]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[SDI_Bond]]
+[[SDI_iNEST]]
 [[SDI_iNEST_Interconnect]]
 [[SNN]]
 [[ST_SNN]]
@@ -51,6 +53,8 @@ Auto-extracted concept from raw material compilation.
 [[ThresholdBasedSpikeEncoding]]
 [[VisualPlaceRecognition]]
 [[iNEST]]
+[[iNEST_Interconnect]]
+[[iNEST_Neuromorphic_Integration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

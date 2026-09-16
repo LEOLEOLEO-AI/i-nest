@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenMotionDeblurring]]
 [[FlexibilityThreshold]]
 [[MSF_Neuron]]
+[[MultiModel_Adapter_Architecture]]
 [[NeuromorphicEdgeProcessing]]
 [[Neuromorphic_Computing]]
 [[PowerLawScaling]]

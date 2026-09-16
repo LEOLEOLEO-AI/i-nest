@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[LocalQuantumLearningRule]]
 [[Memristive_Topology]]
 [[Memristor]]
 [[Memristor_Network]]

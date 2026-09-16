@@ -58,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Photonic_Chiplet_Interconnect]]
+[[QuarantineStrategyOptimization]]
 [[RenormalizationGroup_ScalingLaws]]
 [[RenormalizationGroup_Scaling]]
 [[SpatiotemporalComplexityIndex]]

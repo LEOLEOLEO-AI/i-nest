@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_NoC_Fabric]]
 [[Chiplet_Stacking]]
 [[CrossbarArrayVLSI]]
+[[CrossbarInterconnect]]
 [[DARPA_ProjectManager_Model]]
 [[DTGA]]
 [[Heterogeneous_Integration]]

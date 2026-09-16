@@ -30,6 +30,8 @@ Auto-extracted concept from raw material compilation.
 [[DynamicPlasticNetwork]]
 [[Dynamic_Topological_Bonding]]
 [[Emergent_Order_Deep_Belief_Networks]]
+[[FPGA_Neuromorphic_Architectures]]
+[[Intelligence_Emergence]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]

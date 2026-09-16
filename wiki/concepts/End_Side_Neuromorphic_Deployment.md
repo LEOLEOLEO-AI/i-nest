@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[EdgeInspectionInference]]
 [[Efficient_Coding_Constraint]]
 [[EventBasedAnalogFrontEnd]]
+[[EventDrivenSensoryEncoding]]
 [[EventDrivenWirelessTransmission]]
 [[EventDriven_Interconnect]]
 [[EventSparseTemporalEncoding]]
@@ -60,6 +61,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
+[[advanced packaging]]
 [[iNEST]]
 [[类脑芯片]]
 

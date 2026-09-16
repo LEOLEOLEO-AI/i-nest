@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AddressRedundancyElimination]]
 [[AnisotropicGaussianPrimitives]]
 [[BehaviorPreservingNetworkSparsity]]
+[[BiologicalNoiseMimicry]]
 [[Contested_Prior_Resolution]]
 [[CrossLayer_SignalRouting]]
 [[DirectTrainingSNN]]
@@ -46,7 +47,6 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[SNN]]
-[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

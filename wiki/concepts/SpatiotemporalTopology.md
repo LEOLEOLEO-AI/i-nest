@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Stacking]]
 [[ClassicalQuantum_Query_Benchmark]]
 [[CoPackagedOptics]]
+[[Cognitive_Relapse_Architecture]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Synaptic_Plasticity]]

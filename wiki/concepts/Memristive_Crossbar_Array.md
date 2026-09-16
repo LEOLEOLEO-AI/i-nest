@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[3D_Heterogeneous_Integration]]
 [[3d]]
+[[AI_Driven_Power_Density_Scaling]]
 [[AdaptiveBitPrecisionExploration]]
 [[AdaptiveGraphDiffusion]]
 [[Adaptive_Intelligence_Principle]]

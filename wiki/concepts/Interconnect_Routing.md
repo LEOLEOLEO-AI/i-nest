@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[MatrixShapePhaseTransition]]
 [[Memristive_STDP]]
 [[Memristor]]
+[[Memristor_Interconnect]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]

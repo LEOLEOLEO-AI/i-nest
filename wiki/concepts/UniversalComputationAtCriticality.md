@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[Multipath_Adaptive_Reliability]]
 [[Network_Topology_Design]]
 [[OpenLearningEcosystem]]
+[[Phase_Transition_Decoding]]
 [[Pods4Rail_Topology]]
 [[Reconfigurable_Neural_Topology]]
 [[RecursiveSelfReferentialArchitecture]]

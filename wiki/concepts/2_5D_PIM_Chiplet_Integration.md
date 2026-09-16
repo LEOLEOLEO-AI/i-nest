@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[FlagOS_2_0]]
 [[Heterogeneous_Integration]]
 [[HybridResistiveMemoryCIM]]
+[[Hysteretic_State_Encoding]]
 [[In_Memory_Computing]]
 [[Long_Range_Interactions]]
 [[Memristor]]
@@ -57,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[SneakPathCurrentSuppression]]
 [[TCC]]
+[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

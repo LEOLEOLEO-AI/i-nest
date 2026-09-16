@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Branch_Prediction_in_Pipelined_Processors]]
 [[BurstTemporalPlasticity]]
 [[Criticality]]
+[[ElasticInferenceScheduling]]
 [[EventDrivenAsync]]
 [[Neuromorphic_Computing]]
 [[SNN]]

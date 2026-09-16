@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[MemristiveSignedCouplings]]
 [[NeuromorphicAuditoryFrontend]]
 [[Neuromorphic_Computing]]
+[[NonEquilibriumPhase]]
 [[SOC]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]

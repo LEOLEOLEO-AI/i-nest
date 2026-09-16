@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralOscillationSynchrony]]
 [[Neuromorphic_Computing]]
 [[Parallelized_Hierarchical_Connectome]]
+[[PowerLawScalingClassification]]
 [[TCC]]
 [[causal emergence]]
 [[iNEST]]

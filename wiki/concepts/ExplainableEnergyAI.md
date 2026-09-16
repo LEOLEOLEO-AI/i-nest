@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[Fixed_Cost_Dominance]]
+[[GCML_Cognitive_Map]]
 [[Gut_Brain_Immune_Network]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

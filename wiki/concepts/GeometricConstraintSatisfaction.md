@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[BackpropagationFreeLearning]]
 [[BarrierConditionedTrajectory]]
 [[BeyondPTSymmetry]]
+[[CLINKAsCarrierPrimitive]]
 [[CellEmergence]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]

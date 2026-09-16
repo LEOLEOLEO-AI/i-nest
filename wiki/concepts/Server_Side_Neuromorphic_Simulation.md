@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[BrownianCastleInterfaces]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[CoDesigned_SNN]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[DataDrivenCellularAxis]]
 [[DevelopmentalBrainTrajectory]]

@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[OpticallyWritableAtomicVaporMemory]]
 [[RadiationHardened_ProcessNodeScaling]]
 [[ReEntrantMultifractalization]]
+[[RoutabilityDrivenPinAssignment]]
 [[TCC]]
 [[TopologyAwarePhotonicInterconnect]]
 [[TopologyEmbeddedSelfModel]]

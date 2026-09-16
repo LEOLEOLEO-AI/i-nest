@@ -35,6 +35,8 @@ Auto-extracted concept from raw material compilation.
 [[EventCameraTemporalEncoding]]
 [[Event_Driven_Architecture]]
 [[FPGA_Accelerated_SNN]]
+[[Flexible_Spike_Routing]]
+[[Heterogeneous_Integration]]
 [[In_Package_Neuromorphic_Integration]]
 [[Interconnect_Routing]]
 [[Memristor]]

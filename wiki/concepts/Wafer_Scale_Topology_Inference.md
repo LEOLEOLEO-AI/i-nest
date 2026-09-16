@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AutonomousAdaptation]]
 [[BigBrainCellularAxis]]
+[[BoundaryObject_Abstraction]]
 [[Complex_Network_Class_Brain_Computing]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Intelligence_Emergence]]

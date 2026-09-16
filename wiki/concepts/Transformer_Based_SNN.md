@@ -42,7 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN_HighLevel_DesignTraining]]
 [[ST_SNN]]
 [[SpikeBasedInference]]
-[[Spiking neural network]]
+[[Spiking_Mamba_Encoder]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 [[iNEST_Interconnect]]

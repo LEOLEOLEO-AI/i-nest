@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Neural_Substrate_Independence]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_MuscleInterface]]
+[[NonlinearConnectomeScaling]]
 [[NonlinearDynamicalSystemsInference]]
 [[Nonlinear_Gain]]
 [[ReservoirDynamics]]

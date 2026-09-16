@@ -57,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[RenormalizationGroupIntelligence]]
 [[Reservoir_Computing]]
 [[TCC]]
+[[ThermalFluctuationComputing]]
 [[TopologicalAndersonChernInsulator]]
 [[causal emergence]]
 [[complex system]]

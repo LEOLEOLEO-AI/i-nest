@@ -25,9 +25,13 @@ Auto-extracted concept from raw material compilation.
 [[ANN_SNN_ConversionError]]
 [[ASIC_Dualism]]
 [[AdaptiveFrequencyResonateFire]]
+[[Contested_Priors_Mechanism]]
 [[Deterministic_Execution]]
 [[Fixed_Term_Project_Structure]]
+[[RTC_Primitive]]
 [[RTC_Primitives]]
+[[SNN]]
+[[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]
 

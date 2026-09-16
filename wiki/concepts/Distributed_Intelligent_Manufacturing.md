@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Bias_Origin_Taxonomy]]
 [[BioInspiredGeneralist]]
 [[CoPackagedOptics]]
+[[Compact_Boson_Dynamics]]
 [[Complex_System_Theory]]
 [[Continual_Learning_Modularity]]
 [[Dynamic_Expert_Fusion]]

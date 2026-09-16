@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AnalogInMemoryComputing]]
 [[BurstGatedRouting]]
 [[BurstInterleaving]]
+[[Compact_Boson_Dynamics]]
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[DARPA_ProjectManager_Model]]
 [[Decoupled_Priors]]

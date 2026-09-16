@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[DeviceLevelNonlinearityScaling]]
 [[DeviceLevelNonlinearity]]
 [[Intelligence_Emergence]]
+[[L2_L3_Reconfigurability]]
 [[Network_Topology_Design]]
 [[NeuromorphicStatusAwareness]]
 [[Neuromorphic_Computing]]

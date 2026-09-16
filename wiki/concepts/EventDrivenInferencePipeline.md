@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicGraphAnomalyDetection]]
 [[Neuromorphic_Computing]]
 [[NonEquilibriumComputing]]
+[[NonEquilibriumPhase]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SOC]]
 [[STDP_Plasticity]]

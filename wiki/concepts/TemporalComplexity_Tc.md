@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[MetricComputationAuthenticity]]
 [[MultiplicativeGainCondition]]
 [[MultiplicativeGain]]
+[[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]
 [[Network_Topology_Design]]
 [[Network_topology_and_interconnection_patterns]]
 [[Next_Gen_AI_Application_Scenarios]]
@@ -83,6 +84,7 @@ Auto-extracted concept from raw material compilation.
 [[Γst_Revision]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

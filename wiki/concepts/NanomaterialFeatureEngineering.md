@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AstrocyteInspiredRepair]]
 [[AvalancheTriggeringMechanism]]
 [[Avalanche_Dynamics]]
+[[BCM滑动阈值]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[CST_Theory]]
 [[CST_Theory_V27_FINAL]]
@@ -64,9 +65,11 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[StochasticBinaryDynamics]]
 [[SubsystemInformationCapacity]]
+[[Synaptic_Plasticity]]
 [[Whole_Organism_Behavioral_Assay]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

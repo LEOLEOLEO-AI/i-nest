@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Fading_Memory_Property]]
 [[Fractal_Wavefront_Scaling]]
+[[GNN图神经网络，非结构化数据分析利器！]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]

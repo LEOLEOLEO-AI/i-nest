@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Continual_Learning_Modularity]]
 [[ContinuousGameOfLife]]
 [[CriticalityInNetworkComputing]]
+[[CriticalityInducedTopology]]
 [[Criticality]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence]]

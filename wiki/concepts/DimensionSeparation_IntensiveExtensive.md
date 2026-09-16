@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[BackflowTransformation]]
 [[BioPlausibleDisturbanceObserver]]
 [[BurstTemporalPlasticity]]
+[[Catastrophic_Forgetting_Mitigation]]
 [[Complex_System_Theory]]
 [[CriticalityInducedComputationalCapacity]]
 [[Criticality]]

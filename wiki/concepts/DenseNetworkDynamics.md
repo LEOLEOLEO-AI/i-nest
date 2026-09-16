@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[EmergentAttractorInvariance]]
 [[EmergentReplicaClock]]
 [[EntanglementStructure]]
+[[EvanescentFieldTrapping]]
 [[Intelligence_Emergence]]
 [[MachineLearningPotential]]
 [[Network_Topology_Design]]

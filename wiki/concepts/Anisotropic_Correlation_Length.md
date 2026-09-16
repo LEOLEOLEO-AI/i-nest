@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossLayer_SignalRouting]]
 [[CrossTaskNeuralRepresentation]]
 [[DataDrivenCellularAxis]]
+[[DevelopmentalNeuromorphicAdaptation]]
 [[DirtyWeylSemimetal]]
 [[DistributedTrainingCommunicationPattern]]
 [[Dynamic_Expert_Fusion]]

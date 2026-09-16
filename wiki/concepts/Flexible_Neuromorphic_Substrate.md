@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicInference]]
 [[EmergentDynamics]]
 [[GenerativeTopologyModels]]
+[[GraphAugmentedGeneration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[FlexibleManifoldReconfiguration]]
 [[FlexibleNeuromorphicAccelerator]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
+[[InNetworkPowerRouting]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[LocalPlasticityPipeline]]

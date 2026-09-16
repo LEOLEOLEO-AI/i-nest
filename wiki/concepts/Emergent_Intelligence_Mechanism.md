@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]
+[[ComplexSystem_Definition]]
 [[Complex_System_Theory]]
 [[Emergent_Intelligence]]
 [[Heterogeneous_Integration]]

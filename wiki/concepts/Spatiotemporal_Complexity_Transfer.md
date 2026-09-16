@@ -38,13 +38,13 @@ Auto-extracted concept from raw material compilation.
 [[Mesoscale_Advantage_Equation]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[Minimum_Energy_Consumption_Law]]
+[[National_Mesoscale_Innovation_Center]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Interconnect]]
 [[Wafer_Interconnect]]
 [[Wafer_Scale_Integration]]
 [[chiplet interconnect]]
-[[neuromorphic interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

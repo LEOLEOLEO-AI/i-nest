@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Stacking]]
 [[Complex_System_Theory]]
 [[ConsciousnessEngineeringLoop]]
+[[CrossbarArrayIntegration]]
 [[Heterogeneous_Integration]]
 [[iNEST]]
 

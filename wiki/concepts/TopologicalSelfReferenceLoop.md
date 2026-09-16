@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[BayesianDiffusionGeneralizationPhaseTransition]]
 [[BayesianInverseBayesianInference]]
 [[Bias_Mitigation_Stages]]
+[[CST_Synergy_Coordination]]
 [[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]
 [[Intelligence_Emergence]]

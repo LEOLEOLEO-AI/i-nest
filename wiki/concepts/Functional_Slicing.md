@@ -21,13 +21,19 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AgentReputationLedger]]
+[[Bipartite_Interconnect]]
 [[Bipartite_Interconnect_Design]]
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
+[[Chiplet_Stacking]]
 [[Collective_Offloading]]
 [[CorticalTypeDiversity]]
 [[Crystallized_Neural_Manifolds]]
 [[DataMovementMinimization]]
 [[Interconnect_Routing]]
+[[Interconnect_Topology]]
 [[Network_Topology_Design]]
 [[TCC]]
 

@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[EnsembleCreditAssignment]]
 [[Entangled_Criticality]]
+[[FlexibleManifoldReconfiguration]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[LLMDrivenPathSelection]]

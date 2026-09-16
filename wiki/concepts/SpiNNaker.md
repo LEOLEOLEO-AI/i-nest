@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[ActionPrototypeClustering]]
 [[ConsciousnessEngineeringLoop]]
 [[DARPA_ProjectManager_Model]]
 [[ElectronicPhotonicIntegratedCircuit]]
@@ -31,7 +32,8 @@ Auto-extracted concept from raw material compilation.
 [[Neural_Manifold_Crystallization]]
 [[Neuromorphic_Computing]]
 [[OscillatoryReservoirDynamics]]
-[[Spiking neural network]]
+[[ReservoirDynamics]]
+[[Reservoir_Computing]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

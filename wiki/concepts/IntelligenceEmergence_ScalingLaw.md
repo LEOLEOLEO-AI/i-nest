@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[JunctionCenteredFramework]]
 [[NCL神经计算定律详解]]
+[[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]
 [[Network_Topology_Design]]
 [[NoiseAsLearningResource]]
 [[Nonlinear_Gain]]

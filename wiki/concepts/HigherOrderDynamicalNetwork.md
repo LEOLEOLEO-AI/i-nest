@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AndersonTransition]]
 [[ApproximationFidelityTradeoff]]
 [[BiologicalNoiseMimicry]]
+[[Brain_Inspired_Switchless_Architecture]]
 [[CLINKAsCarrierPrimitive]]
 [[CST计量仪]]
 [[ChipletRoutingFabric]]

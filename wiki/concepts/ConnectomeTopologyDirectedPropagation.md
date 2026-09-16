@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[EfficientDeepLearning]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[LargeScaleBrainInspiredComputing]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[TCC]]

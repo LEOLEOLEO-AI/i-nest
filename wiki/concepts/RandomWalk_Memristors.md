@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[AnalogInMemoryComputing]]
 [[Analog_Synaptic_Weighting]]
+[[Attention_Inspired_Resource_Allocation]]
 [[Attention_Residuals]]
 [[DARPA_ProjectManager_Model]]
 [[Deep_Network_Architecture_Invariant]]

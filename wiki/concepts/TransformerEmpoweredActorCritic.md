@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AdversarialResilience]]
 [[AllOpticalHebbianLearning]]
 [[AnomalousSpinTransport]]
+[[BandedConnectivityModel]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]

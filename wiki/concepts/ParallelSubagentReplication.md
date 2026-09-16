@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[NoCPlacementRoutingCoDesign]]
 [[NoC]]
 [[Nonreciprocity_Threshold]]
+[[SixClassSkeletonAsRPrimitiveSpace]]
 [[TCC]]
 [[complex system]]
 [[iNEST]]

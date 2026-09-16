@@ -47,10 +47,10 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[SpikeEncoding]]
 [[Spike_Event_Driven_Attention]]
-[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[TemporalBatchSynchronization]]
 [[ThresholdBasedSpikeEncoding]]
 [[iNEST]]
 

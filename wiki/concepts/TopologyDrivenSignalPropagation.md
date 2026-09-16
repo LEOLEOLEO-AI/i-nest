@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[CellEmergence]]
 [[Complex_System_Theory]]
 [[Core_Spacetime_Tensor]]
+[[Crystallized_Neural_Manifolds]]
 [[Deep_Thermalisation]]
 [[DeviceLevelNonlinearityScaling]]
 [[DeviceLevelNonlinearity]]

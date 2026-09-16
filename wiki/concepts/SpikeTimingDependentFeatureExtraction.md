@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Timing_Dependent_Plasticity_STDP]]
 [[SpikingTemporalCoding]]
 [[Spiking_Neural_Network]]
+[[SurrogateGradientMethod]]
 [[Synaptic_Plasticity]]
 [[TemporalPrecisionParallelism]]
 [[iNEST]]

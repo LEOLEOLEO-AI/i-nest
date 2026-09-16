@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[AmorphousTopologicalSubstrate]]
 [[BandedNonHermitianRandomMatrices]]
 [[BoundaryContract]]
+[[BoundaryObject_Abstraction]]
 [[ChiralSurfaceFermiProjection]]
 [[Complex_System_Theory]]
 [[CriticalPointControl]]

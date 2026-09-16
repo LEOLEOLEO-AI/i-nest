@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Path_Selection]]
 [[AdjointWaveControl]]
 [[Advanced_Computing_Project]]
+[[Algebraic_Completeness]]
 [[AmorphousSolidPlasticity]]
 [[ArbitraryWavefunctionConfigurability]]
 [[AxonalGrowthConeStochasticity]]

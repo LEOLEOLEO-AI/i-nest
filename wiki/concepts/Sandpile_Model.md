@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AstrocyteInspiredRepair]]
 [[AutonomousAdaptation]]
 [[BigBrainCellularAxis]]
+[[BioPlausibleDisturbanceObserver]]
 [[Biologically_Plausible_Learning_Rules]]
 [[CST_Intelligence_Emergence]]
 [[CST_Theory]]

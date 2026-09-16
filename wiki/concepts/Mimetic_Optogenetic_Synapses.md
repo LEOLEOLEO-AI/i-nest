@@ -58,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[STDP_Plasticity]]
+[[SelfOrganizedCriticalityConsciousness]]
 [[Stigmergic_Neural_Plasticity]]
 [[Synaptic_Plasticity]]
 [[TwoTimescaleNeuroEvolution]]

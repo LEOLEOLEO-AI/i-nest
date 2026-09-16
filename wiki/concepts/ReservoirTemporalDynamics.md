@@ -57,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC与INEST：2026全局论文与专利战略规划清单]]
 [[UniversalIntelligence_Emergence]]
 [[complex system]]
+[[iNEST 论文矩阵计划]]
 [[iNEST]]
 [[复杂网络]]
 [[战略报告提纲：物理复杂网络智能涌现——颠覆现有算力范式的新路线]]

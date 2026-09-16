@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN_Backpropagation_Through_Time]]
 [[STDP_Plasticity]]
 [[SelectorFreeHopfieldNetwork]]
+[[SolitonLikeWaves]]
 [[SpikeEncoding]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]

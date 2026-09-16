@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[DifferentiableRasterizationPipeline]]
 [[Edge_of_Chaos]]
 [[Heterogeneous_Integration]]
+[[In_Network_Neuromorphic_Processing]]
 [[In_Package_Neuromorphic_Integration]]
 [[InkjetPrintedElectrochemicalSensors]]
 [[Intelligence_Emergence]]

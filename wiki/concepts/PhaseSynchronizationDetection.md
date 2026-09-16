@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[Synaptic_Plasticity_Rule]]
 [[TemporalLearning]]
+[[TimeToFirstSpikeEncoding]]
 [[iNEST]]
 [[temporal coding]]
 

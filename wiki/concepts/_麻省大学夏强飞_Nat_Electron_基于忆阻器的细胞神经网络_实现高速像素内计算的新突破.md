@@ -61,6 +61,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[_麻省大学夏强飞_Nat_Electron_基于忆阻器的细胞神经网络_实现高速像素内计算的新突破_1]]
 [[iNEST]]
 [[存算一体]]
 [[忆阻器]]

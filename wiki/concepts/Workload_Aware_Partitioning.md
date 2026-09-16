@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Service_Orchestration]]
 [[AdiabaticMultimodeBend]]
 [[AdvancedPackagingInterconnect]]
+[[AdvancedPackaging]]
 [[Advanced_Packaging]]
 [[Advanced_Packaging_Route]]
 [[Advanced_Packaging_for_Space]]
@@ -49,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Compute_In_Memory_Neuromorphic]]
 [[Emergence_Phase]]
+[[FloquetTopologicalOrder]]
 [[Heterogeneous_Integration]]
 [[In_Memory_Computing]]
 [[Inference_Workload_Profiling]]
@@ -59,6 +61,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologyAwareStateMigration]]
 [[Workload_Adaptive_Resource_Provisioning]]
+[[advanced packaging]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[ASIC_Dualism]]
 [[BackpropagationFreeLearning]]
 [[BeyondPTSymmetry]]
+[[CLINKAsCarrierPrimitive]]
 [[CellEmergenceMechanism]]
 [[CellEmergence]]
 [[Chiplet]]

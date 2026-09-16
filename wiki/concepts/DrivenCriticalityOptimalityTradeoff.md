@@ -57,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[OpportunisticRoutingRL]]
 [[OpportunisticRouting]]
 [[QuantumFluctuationDrivenTransport]]
+[[RealTimeImageToEventConversion]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[SNN_Config_Sensitivity]]

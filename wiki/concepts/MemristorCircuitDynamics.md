@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[National_Planning_Driven_Research_Alignment]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[QuarantineStrategyOptimization]]
 [[TCC]]
 [[UniversalComputation]]
 [[iNEST]]

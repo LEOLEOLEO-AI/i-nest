@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CollectiveStateTopology]]
 [[Continual_Learning_Modularity]]
 [[CorticalTypeDiversity]]
+[[CounterstreamSignalPropagation]]
 [[CriticalityInNetworkComputing]]
 [[CriticalityOffCriticalityTransition]]
 [[Criticality]]

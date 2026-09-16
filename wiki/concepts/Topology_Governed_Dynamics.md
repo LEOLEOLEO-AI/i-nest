@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[MultiplicativeGain]]
 [[NCCL_CollectivePrimitives]]
 [[Network_Topology_Design]]
+[[Nishimori_Threshold]]
 [[ScaleHierarchy_Decomposition]]
 [[Switch_Bottleneck]]
 [[TCC]]

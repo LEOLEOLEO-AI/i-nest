@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_ERI_2_0_Framework]]
 [[ERI_2_0_Framework]]
 [[Energy_Efficient_Control]]
+[[ExtensiveWidthShallowNN]]
 [[FeFET_Polarization_Switching]]
 [[FerroelectricMemoryCell]]
 [[Ferroelectric_Devices]]

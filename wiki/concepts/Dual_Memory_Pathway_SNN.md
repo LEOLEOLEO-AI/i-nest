@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenInference]]
 [[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Acceleration]]
+[[InputAdaptiveComputation]]
 [[LocalLearning_SynapticUpdate]]
 [[Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]

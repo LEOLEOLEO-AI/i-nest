@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[DifferentiableRasterizationPipeline]]
 [[ERI_2_0_Strategic_Framework]]
 [[Emergent_Intelligence]]
+[[Emergent_Intelligence_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

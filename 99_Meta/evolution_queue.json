@@ -862,7 +862,9 @@
       "type": "pipeline_fix",
       "title": "Pipeline zero-paper alert: API connectivity check",
       "detail": "Recent runs with zero new papers: 5",
-      "status": "pending"
+      "status": "resolved",
+      "resolved_at": "2026-09-16T16:18:33.270117",
+      "resolution": "A recent run ingested papers successfully; network and relevance gates are working."
     },
     {
       "id": "EV-2026-09-14-002",
@@ -878,7 +880,9 @@
       "type": "pipeline_fix",
       "title": "Pipeline zero-paper alert: API connectivity check",
       "detail": "Recent runs with zero new papers: 5",
-      "status": "pending"
+      "status": "resolved",
+      "resolved_at": "2026-09-16T16:18:33.270117",
+      "resolution": "A recent run ingested papers successfully; network and relevance gates are working."
     },
     {
       "id": "EV-2026-09-15-002",
@@ -887,7 +891,41 @@
       "title": "Git hygiene: 296 uncommitted changes",
       "detail": "Commit or review outstanding changes.",
       "status": "pending"
+    },
+    {
+      "id": "EV-2026-09-16-001",
+      "priority": "high",
+      "type": "pipeline_fix",
+      "title": "Pipeline zero-paper alert: API connectivity check",
+      "detail": "Recent runs with zero new papers: 5",
+      "status": "resolved",
+      "resolved_at": "2026-09-16T20:11:06.236786",
+      "resolution": "A recent run ingested papers successfully; network and relevance gates are working."
+    },
+    {
+      "id": "EV-2026-09-16-002",
+      "priority": "medium",
+      "type": "git_hygiene",
+      "title": "Git hygiene: 120 uncommitted changes",
+      "detail": "Commit or review outstanding changes.",
+      "status": "pending"
+    },
+    {
+      "id": "EV-2026-09-17-001",
+      "priority": "high",
+      "type": "pipeline_fix",
+      "title": "Pipeline zero-paper alert: API connectivity check",
+      "detail": "Recent runs with zero new papers: 5",
+      "status": "pending"
+    },
+    {
+      "id": "EV-2026-09-17-002",
+      "priority": "medium",
+      "type": "git_hygiene",
+      "title": "Git hygiene: 266 uncommitted changes",
+      "detail": "Commit or review outstanding changes.",
+      "status": "pending"
     }
   ],
-  "last_updated": "2026-09-15T08:12:37.036290"
+  "last_updated": "2026-09-17T07:31:56.260904"
 }

@@ -63,6 +63,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_TCC_Chiplet]]
 [[SDI节点接口规范与化合键定义]]
 [[SNN]]
+[[ST_SNN]]
 [[ScaleFreeNetwork]]
 [[Spiking_Neural_Network]]
 [[SuperparamagneticSwitchingRate]]

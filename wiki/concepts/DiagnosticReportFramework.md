@@ -76,6 +76,7 @@ Auto-extracted concept from raw material compilation.
 [[Technology_Innovation_Platform]]
 [[TemperatureSensitivityControl]]
 [[TemporalComplexity]]
+[[Textbook_Paradigm_Definition]]
 [[TopologyProgramming]]
 [[Topology_Centric_Computing]]
 [[Topology_Centric_Computing_Paradigm]]

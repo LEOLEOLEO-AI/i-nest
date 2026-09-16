@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AnomalousSpinTransport]]
 [[BigBrainCellularAxis]]
 [[BoundaryObject_Abstraction]]
+[[CST_Equation]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Core_Spacetime_Tensor]]

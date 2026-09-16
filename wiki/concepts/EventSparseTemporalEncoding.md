@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Ferroelectric_Synaptic_Devices]]
 [[Gaussian_Splat_Compression]]
 [[Heterogeneous_Integration]]
+[[InNetworkRadarProcessing]]
 [[Memory_Wall]]
 [[ModelOptimization]]
 [[Neuromorphic_Computing]]

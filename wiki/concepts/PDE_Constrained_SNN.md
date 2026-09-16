@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AcceleratorReconfigurationOverhead]]
 [[CMOS_Memristor_Crossbar]]
 [[FPGA_SNN_Mapping]]
+[[Flexible_Neuron_Model]]
 [[Memristor]]
 [[Memristor_Crossbar]]
 [[Memristor_Synapse]]
@@ -37,7 +38,6 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[PPT]]
 [[SNN]]
-[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

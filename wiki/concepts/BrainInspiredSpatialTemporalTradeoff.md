@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalRelevanceSelfOrganization]]
 [[Gate_Synthesis_Readout]]
 [[HighThroughputPhenotyping]]
+[[InNetworkGradientPropagation]]
 [[Neuromorphic_Computing]]
 [[SelfOrganization]]
 [[iNEST]]

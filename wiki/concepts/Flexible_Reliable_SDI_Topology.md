@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[CavityMethodAnalysis]]
 [[Electronic_Crystal_Dynamics]]
 [[FPGA_Reconfigurability]]
+[[FluxAttachmentTopology]]
 [[InSitu_Adjoint_Wave_Control]]
 [[Inference_Workload_Profiling]]
 [[Interconnect_Routing]]

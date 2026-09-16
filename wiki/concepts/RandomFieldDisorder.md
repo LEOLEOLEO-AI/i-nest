@@ -57,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[MemoryEfficientSimulation]]
 [[NetworkCentralityMetrics]]
 [[Network_Topology_Design]]
+[[NextNearestNeighborHopping]]
 [[NonEquilibriumComputing]]
 [[PersistenceThresholdOptimization]]
 [[RecursiveSelfReferentialArchitecture]]

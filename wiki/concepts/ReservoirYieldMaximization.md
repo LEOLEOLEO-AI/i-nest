@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Epithelial_Barrier_Integrity]]
 [[ErrorSuppressedPipeline]]
+[[Evolutionary_Computability]]
 [[Fading_Memory_Property]]
 [[FirstPrinciples_AI]]
 [[Intelligence_Emergence]]

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AthermalDynamics]]
 [[Baseline_Draft_Status]]
 [[Bidirectional_Temporal_Enhancement]]
+[[CorticalWaveRouting]]
 [[Cytokine_Feedback_Loops]]
 [[Droop_Triggered_Workload_Throttling]]
 [[EndToEndTopologyLearning]]

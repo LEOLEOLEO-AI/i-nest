@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[ComponentLevelMolding]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
+[[DTGA]]
 [[FlagOS_2_0]]
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]

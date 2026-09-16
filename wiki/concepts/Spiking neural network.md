@@ -38,6 +38,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SDI_STDP_Bond]]
+[[SDI_STDP_Fusion]]
 [[SNN]]
 [[STDP_Plasticity]]
 [[Sparsity_Ceiling]]

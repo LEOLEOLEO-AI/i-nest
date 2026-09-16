@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[BackflowTransformation]]
 [[BigBrainCellularAxis]]
 [[BurstTemporalPlasticity]]
+[[ChannelEventSparsity]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[SNN]]

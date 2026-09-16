@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[ComponentLevelPackaging]]
 [[DataMovementMinimization]]
 [[DynamicProgrammingRecycling]]
+[[Express_Link_Virtualization]]
 [[External_to_OnDie_Evolution]]
 [[FPGA_Reconfigurability]]
 [[FlagOS_2_0]]
@@ -51,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologyProgramming]]
 [[Topology_Aware_NoC_Routing]]
+[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

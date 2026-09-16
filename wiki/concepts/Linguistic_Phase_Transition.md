@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGASNNMemoryOptimization]]
 [[FerroelectricSynapticArray]]
 [[Ferroelectric_Devices]]
+[[HeterogeneousSynapticDelays]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Loihi2_OnChip_Learning]]

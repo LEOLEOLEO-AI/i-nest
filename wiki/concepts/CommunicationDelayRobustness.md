@@ -56,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[SlowerSystemEvolution]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[TopologicalPhaseControl]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]

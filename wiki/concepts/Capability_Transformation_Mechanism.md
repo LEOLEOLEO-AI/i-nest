@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Bioavailability_Enhancement]]
 [[BitPrecisionAwareScheduling]]
 [[CST_Coordinated_Spatiotemporal_Complexity]]
+[[CST_CoordinationMechanism]]
 [[CST_SynergisticCoordination]]
 [[Chain_of_Thought_Reasoning]]
 [[Complex_System_Theory]]

@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_Theory_V27_FINAL]]
 [[CST_Triad_Framework]]
 [[CST_Triad_Integration]]
+[[CST_V42_SelfConsistency]]
 [[CollectiveDynamics]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]

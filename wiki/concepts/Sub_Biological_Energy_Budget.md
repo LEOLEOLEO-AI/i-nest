@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[HigherOrderStochasticProcess]]
 [[HigherOrderSynchronization]]
 [[Hypergraph_Label_Noise]]
+[[In_Network_Neuromorphic_Learning]]
 [[LIF_Neuron_Model]]
 [[MagnetizationSusceptibilityResponse]]
 [[Memristive_Spike_Integration]]

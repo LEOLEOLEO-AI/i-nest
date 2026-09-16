@@ -46,6 +46,8 @@ Auto-extracted concept from raw material compilation.
 [[Hardware_Accelerated_SNN]]
 [[HippocampalNeocorticalIntelligence]]
 [[InNetworkNeuromorphicEmergence]]
+[[InNetworkNeuromorphic]]
+[[In_Network_Neuromorphic_Processing]]
 [[Intelligence_Emergence]]
 [[MacroCriticalityEmergence]]
 [[Network_Topology_Design]]

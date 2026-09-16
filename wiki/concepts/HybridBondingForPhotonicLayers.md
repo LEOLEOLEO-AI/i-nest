@@ -57,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[HigherOrderInteractions]]
 [[Intelligence_Emergence]]
+[[InterconnectConstrainedEmergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

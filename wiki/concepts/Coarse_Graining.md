@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Crystallized_Neural_Manifolds]]
 [[DarkSiliconAwarePowerGating]]
 [[Energy_Efficient_Control]]
+[[EpoxyMoldingCompoundEncapsulation]]
 [[Network_Topology_Design]]
 [[iNEST]]
 [[神经网络]]

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AllParallel_SpikeBased_Computing]]
 [[Baseline_Draft_Status]]
 [[BioPlausiblePredictiveCoding]]
+[[BrainInspired_Chip]]
 [[BurstGatedRouting]]
 [[ContinualLearningOnNeuromorphic]]
 [[Continuous_Discrete_Compute_Gap]]
@@ -35,7 +36,6 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Computation]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
-[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 

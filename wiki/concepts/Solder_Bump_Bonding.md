@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_iNEST_Wafer]]
 [[OpticalNeuralNetworkTopology]]
 [[PhysicalWaferTriplet]]
+[[Residual_Connection_Removal]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[SDSoW_TCC_Integration]]

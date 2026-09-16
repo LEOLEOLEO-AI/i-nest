@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[BayesianDomainEvolution]]
 [[BehavioralFeedbackLoop]]
 [[Bidirectional_Temporal_Enhancement]]
+[[CertifiedBifurcationDetection]]
 [[CircadianGateModulation]]
 [[Complex_System_Theory]]
 [[Contested_Prior_Resolution]]

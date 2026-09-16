@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC]]
 [[NoC_EventRouting]]
 [[PhysicallyInformedDeepLearning]]
+[[QuarantineCostTradeoff]]
 [[RobustnessToNoiseInSNN]]
 [[SNN]]
 [[SpikeCodingProbabilisticVariables]]

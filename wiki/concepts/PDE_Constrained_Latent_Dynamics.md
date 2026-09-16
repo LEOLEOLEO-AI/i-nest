@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[BrainInspired_Computing_Paradigm]]
+[[Complex_System_Theory]]
 [[DVS_Event_Camera]]
 [[Dynamic_Neuromorphic_Computing]]
 [[EventDrivenMatrixUpdate]]
@@ -29,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[MagnitudePhaseComputationalModel]]
 [[NeuromorphicStatusAwareness]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Hardware_Paradigm]]
 [[iNEST]]
 
 ## Sources

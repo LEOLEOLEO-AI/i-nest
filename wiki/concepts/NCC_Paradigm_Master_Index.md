@@ -29,11 +29,13 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[BiologicalParadigmValidation]]
 [[Bipartite_Interconnect]]
+[[BoundaryObject_Abstraction]]
 [[NCC_Paradigm]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
 [[TCC]]
+[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

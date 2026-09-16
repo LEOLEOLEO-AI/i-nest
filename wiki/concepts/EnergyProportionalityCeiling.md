@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[DelayAwareSpikeEventDelivery]]
 [[DiscreteSTDP]]
+[[EpidemicThreshold]]
 [[Event_Driven_Architecture]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[FormalLinguisticCompetence]]

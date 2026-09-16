@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN_SNN_WeightSpaceGap]]
 [[Adjoint_Gradient_Propagation]]
 [[BiologicalNoiseMimicry]]
+[[CUDAQSimulationFramework]]
 [[CoEvolvedSNNEnsemble]]
 [[CombinedImportanceScoring]]
 [[CompartmentalNeuronModel]]

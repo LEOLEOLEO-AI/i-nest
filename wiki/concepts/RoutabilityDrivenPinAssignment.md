@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet]]
 [[Chiplet_Based_Architecture]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Stacking]]
 [[Complex_System_Theory]]
 [[Computation_Access_Routing]]
 [[CongestionAwareLoss]]

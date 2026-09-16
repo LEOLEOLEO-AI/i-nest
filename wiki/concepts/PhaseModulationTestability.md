@@ -59,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[SuperparamagneticSwitchingRate]]
 [[Swarm_Coordination]]
+[[Syncytial_Information_Integration]]
 [[TCC]]
 [[TwoTimescaleNeuroEvolution]]
 [[Whole_Organism_Behavioral_Assay]]

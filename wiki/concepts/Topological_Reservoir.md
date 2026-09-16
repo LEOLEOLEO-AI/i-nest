@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Coupling_Topology]]
 [[Crystallized_Neural_Manifolds]]
 [[DataDrivenMaterialDesign]]
+[[DifferentiableLifting]]
 [[DiscreteScaleInvariance]]
 [[Dynamic_Expert_Fusion]]
 [[EcosystemTopologyCoupling]]

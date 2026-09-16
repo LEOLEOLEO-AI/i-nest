@@ -43,11 +43,11 @@ Auto-extracted concept from raw material compilation.
 [[EnergyProportionalityCeiling]]
 [[EventBasedMotionDeblurring]]
 [[EventDrivenMotionDeblurring]]
+[[Event_Driven_Multiscale_Plasticity]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Self_Organized_Criticality]]
 [[SpikeRestormer]]
-[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

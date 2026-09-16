@@ -26,6 +26,8 @@ Auto-extracted concept from raw material compilation.
 [[ClosedLoopNeuromorphicControl]]
 [[Defense_Industrial_Base_Reshaping]]
 [[Dynamic_Expert_Routing]]
+[[ExplainableEnergyAI]]
+[[Interconnect_Routing]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]

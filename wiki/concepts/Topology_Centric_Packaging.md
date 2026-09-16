@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[PhotonicStateRetention]]
 [[Pseudofractal_Web]]
+[[SixClassSkeletonAsRPrimitiveSpace]]
 [[TCC]]
 [[TopologicalComplexityCeiling]]
 [[TopologicalDataCompression]]

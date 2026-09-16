@@ -26,10 +26,17 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[AI人工智能 卷积神经网络（CNN）_w3cschool]]
 [[ASIC_Dualism]]
+[[AdaptiveBitPrecisionExploration]]
+[[Complex_System_Theory]]
 [[Deterministic_Execution]]
+[[Intelligence_Emergence]]
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
 [[NoC]]
+[[STDP_Plasticity]]
+[[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityInducedTopology]]
 [[CriticalityOffCriticalityTransition]]
 [[Criticality]]
+[[CrossDomain_Integration]]
 [[DisorderedNetworkInterconnect]]
 [[DistributedEventConditionDesign]]
 [[Dynamic_Expert_Fusion]]

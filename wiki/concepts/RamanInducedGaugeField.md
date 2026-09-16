@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Complexity_Emergence]]
 [[Complexity_Emergence_Engineering]]
 [[Contested_Prior_Resolution]]
+[[CrossTaskNeuralRepresentation]]
 [[DataDrivenCellularAxis]]
 [[DevelopmentalNeuromorphicAdaptation]]
 [[EdgeIoTEnergyAwareness]]

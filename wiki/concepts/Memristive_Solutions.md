@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[DataDrivenCellularAxis]]
 [[EnsembleSparsity]]
 [[FlexibilityThreshold]]
+[[GutBrainAxis_Reprogramming]]
 [[Hardware_Accelerated_SNN]]
 [[HippocampalNeocorticalIntelligence]]
 [[InNetworkNeuromorphicEmergence]]

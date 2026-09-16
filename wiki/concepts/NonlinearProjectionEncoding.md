@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[AttentionMap_DifferenceResidual]]
 [[Bosonic_SPT_Phases]]
 [[CST_CoordinationMechanism]]
+[[CST_Metric]]
 [[Complex_System_Theory]]
 [[Compressed_Glass_Network]]
 [[ConnectivityDerivedReservoir]]

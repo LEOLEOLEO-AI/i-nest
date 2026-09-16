@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[FullSpectrum_DomainIntegration]]
 [[FunctionalInterfaceBlock]]
 [[FunctionalInterfaceBlocks]]
+[[Hysteretic_State_Encoding]]
 [[IntegrationProspectsForVLSI]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

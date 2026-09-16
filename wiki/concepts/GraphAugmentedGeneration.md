@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicInference]]
 [[EmergentDynamics]]
 [[Flexible_Neuromorphic_Substrate]]
+[[In_NET_Sleep_Neurofeedback]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

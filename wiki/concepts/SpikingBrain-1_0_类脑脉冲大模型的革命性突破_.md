@@ -35,6 +35,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[ConductingPolymerDendriteMemory]]
 [[Criticality]]
 [[Distributed_Spike_Communication]]
+[[EpidemicThreshold]]
 [[Event_Driven_Architecture]]
 [[Heterogeneous_Integration]]
 [[In_Package_Neuromorphic_Integration]]

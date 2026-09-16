@@ -34,7 +34,6 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_FullSpectrum_Strategy]]
-[[Advanced_Packaging]]
 [[Allreduce_Latency_Probe]]
 [[AndersonTransition]]
 [[Architectural_Conditioning]]
@@ -52,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Memory_Technology_Coexistence]]
 [[MemristiveReservoirBranchPrediction]]
 [[Memristive_Topology]]
+[[MultiTimescaleSeparation]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[OnDeviceInference]]
@@ -63,10 +63,12 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TemperatureSensitivityControl]]
 [[TopologicalAndersonChernInsulator]]
+[[advanced packaging]]
 [[branch prediction]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

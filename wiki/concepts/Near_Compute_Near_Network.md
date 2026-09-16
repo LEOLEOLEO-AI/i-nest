@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[ChiralSymmetryClasses]]
 [[CoPackagedOptics]]
 [[CommunicationAwareComputeRelocation]]
+[[Communication_Compute_Deep_Coupling]]
 [[Heterogeneous_Integration]]
 [[TCC]]
 

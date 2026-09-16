@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[ProjectiveMeasurementRouting]]
 [[PropertyPredictionModeling]]
+[[ReconfigurableSpikingRouting]]
 [[SNN]]
 [[ShortestPathMultiplicity]]
 [[Spiking_Neural_Network]]

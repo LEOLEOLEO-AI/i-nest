@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Energy_Aware_Learning]]
 [[Neuromorphic_Integration]]
+[[NonreciprocalQuasiperiodicLattice]]
 [[ScalableNeuromorphicTopology]]
 [[SpikingMoE_SDPrompt]]
 [[Spiking_Neural_Network]]

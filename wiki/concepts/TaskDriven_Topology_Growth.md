@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[ControlDrivenCriticalFluctuations]]
 [[EvolvingArchitectureDynamics]]
+[[FPGA_Neuromorphic_Architectures]]
 [[HybridCouplingThermosensitiveNetwork]]
 [[Interconnect_Topology]]
 [[Network_Topology_Design]]
@@ -32,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Reconfigurable_Neural_Topology]]
 [[STDPDrivenConnectivity]]
 [[STDP_Plasticity]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 
 ## Sources

@@ -34,8 +34,8 @@ Auto-extracted concept from raw material compilation.
 [[D_FlipFlop]]
 [[D_FlipFlop_Spike_Memory]]
 [[Distributed_Spike_Communication]]
+[[DrivenDissipativeDynamics]]
 [[SNN]]
-[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

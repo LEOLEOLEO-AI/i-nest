@@ -33,9 +33,11 @@ Auto-extracted concept from raw material compilation.
 [[AdiabaticMultimodeBend]]
 [[AdsorptionBiosorptionHybrid]]
 [[AdvancedPackagingInterconnect]]
+[[AdvancedPackaging]]
 [[Advanced_Packaging]]
 [[Advanced_Packaging_Route]]
 [[Advanced_Packaging_for_Space]]
+[[AgentReputationLedger]]
 [[AndersonTransition]]
 [[AttractorConvergenceAnalysis]]
 [[Bayesian_Decoding]]
@@ -51,12 +53,13 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_Integration]]
-[[Chiplet_Interconnect]]
 [[Chiplet_Stacking]]
 [[Heterogeneous_Integration]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[TCC]]
+[[advanced packaging]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

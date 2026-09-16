@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[FirstPrinciples_AI]]
 [[FisherOrthogonalMemory]]
 [[FunctionalInterfaceBlock]]
+[[Hysteretic_State_Encoding]]
 [[IntegrationProspectsForVLSI]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

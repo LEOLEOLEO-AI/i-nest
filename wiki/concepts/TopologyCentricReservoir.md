@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Connectome]]
 [[Connectome_Inspired_Architecture]]
 [[Course_Based_FPGA_Projects]]
+[[CrossSubstrateHomology]]
 [[Crystallized_Neural_Manifolds]]
 [[Deep_Network_Architecture_Invariant]]
 [[EfficientDeepLearning]]

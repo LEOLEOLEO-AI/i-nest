@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Network_Neuromorphic]]
 [[Intelligence_Emergence]]
 [[LeftRightAsymmetry]]
+[[Loihi2_OnChip_Learning]]
 [[MeasurementInducedPhaseTransition]]
 [[Memristor]]
 [[Memristor_Synapse]]

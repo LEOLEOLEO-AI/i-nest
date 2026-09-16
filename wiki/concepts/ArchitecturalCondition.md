@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Baseline_Draft_Status]]
+[[BayesianDomainEvolution]]
 [[BigBrainCellularAxis]]
 [[BrownianCastleInterface]]
 [[Core_Spacetime_Tensor]]

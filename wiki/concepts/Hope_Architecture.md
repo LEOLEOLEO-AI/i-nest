@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Cross_Node_Event_Propagation]]
 [[Deep_Network_Architecture_Invariant]]
 [[Distributed_Spike_Communication]]
+[[DrivenDissipativeDynamics]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[FPGASNNMemoryOptimization]]

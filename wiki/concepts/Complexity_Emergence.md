@@ -73,6 +73,7 @@ Auto-extracted concept from raw material compilation.
 [[ScaleFreeNetwork]]
 [[Small_World_Network]]
 [[SpatiotemporalComplexityIndex]]
+[[Spike_timing_dependent_plasticity_learning_rule]]
 [[Spiking_Neural_Network]]
 [[Spiking_neural_network_dynamics]]
 [[Synaptic_Plasticity]]

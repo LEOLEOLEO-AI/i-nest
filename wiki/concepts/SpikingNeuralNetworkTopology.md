@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[DevelopmentalNeuromorphicAdaptation]]
 [[Distributed_Spike_Communication]]
 [[DynamicReconfigurationForFaultTolerance]]
+[[DynamicTopologyMapping]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]

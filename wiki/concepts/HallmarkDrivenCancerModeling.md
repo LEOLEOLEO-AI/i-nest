@@ -56,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[NoC]]
 [[OptimalControlPolicyLearning]]
+[[OptimalRepresentations]]
 [[Photopolymerization_NoC]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]

@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenSynchronization]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[ImpactFallDetection]]
+[[InputAdaptiveComputation]]
 [[Interconnect_Routing]]
 [[LossSpikePhenomenon]]
 [[Network_Topology_Design]]

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspiredInterception]]
 [[BulletTrainScheduling]]
 [[CoDesigned_SNN]]
+[[CoOptimizedMappingScheduling]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[ContinualLearningOnNeuromorphic]]

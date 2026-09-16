@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalBranching]]
 [[CriticalLearningRegime]]
 [[CriticalityConstrainedPruning]]
+[[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[Interconnect_Routing]]
 [[MoE_Routing]]

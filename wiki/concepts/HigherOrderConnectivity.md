@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[GraphLanguageModel_RAG]]
 [[HigherOrderSimplicialDynamics]]
 [[Intelligence_Emergence]]
+[[InterconnectDrivenPlacement]]
 [[IntrospectiveRecursion]]
 [[Material_Circularity]]
 [[Multiplex_Epidemic_Threshold]]

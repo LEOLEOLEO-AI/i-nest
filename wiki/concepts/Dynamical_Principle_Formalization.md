@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[ManyBodyLocalizationThermalizationDuality]]
 [[ManyBodyLocalization]]
 [[MemristiveSignedCouplings]]
+[[NeuromorphicRL_Locomotion]]
 [[Neuromorphic_Computing]]
 [[Online_Continual_Learning]]
 [[STDP_Plasticity]]

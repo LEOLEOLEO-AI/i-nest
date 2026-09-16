@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[PairwiseCorrelationConstraint]]
 [[PropertyPredictionModeling]]
 [[SNN]]
+[[SolitonLikeWaves]]
 [[SpikeEncoding]]
 [[SpikeRateEncoding]]
 [[Spike_Encoding_of_fMRI]]

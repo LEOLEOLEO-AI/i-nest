@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Based_Neuromorphic_Integration]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
+[[ConductingPolymerDendriteMemory]]
 [[Criticality]]
 [[Distributed_Spike_Communication]]
 [[Emergent_Intelligence]]

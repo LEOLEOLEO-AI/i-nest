@@ -64,6 +64,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[ThermallyDrivenSuperparamagneticReservoir]]
 [[TopologicalAndersonChernInsulator]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]

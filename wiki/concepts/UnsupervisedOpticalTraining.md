@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[IntrinsicTimingSTDP]]
 [[NoiseInducedPhaseLocking]]
+[[NonEquilibriumPhase]]
 [[On_Chip_STDP_Learning]]
 [[PhaseSynchronizationDetection]]
 [[SDI_Bond]]

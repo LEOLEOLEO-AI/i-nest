@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicInference]]
 [[ExactlyFlatBand]]
 [[GenerativeTopologyModels]]
+[[Heterogeneous_Graph_Synchronization]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

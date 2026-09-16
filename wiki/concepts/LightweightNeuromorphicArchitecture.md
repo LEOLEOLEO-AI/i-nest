@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossbarArrayPrecision]]
 [[DistributedIntelligence]]
 [[Dynamic_Expert_Fusion]]
+[[Emergence_Phase]]
 [[Expert_Review_Arbitration]]
 [[Ferroelectric_ComputeInMemory]]
 [[Ferroelectric_Devices]]
@@ -62,6 +63,7 @@ Auto-extracted concept from raw material compilation.
 [[Theoretical_Numerical_Analysis]]
 [[TopologicalAndersonChernInsulator]]
 [[TopologyAwareStateMigration]]
+[[advanced packaging]]
 [[neuromorphic computing architecture]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

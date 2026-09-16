@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[NichePreservationMechanism]]
 [[Nonlinear_Gain]]
 [[OpenSource_Neuromorphic_Framework]]
+[[PerturbationSpaceTrajectory]]
 [[Real_Time_Neuromorphic_Constraint_Satisfaction]]
 [[Reservoir_Computing]]
 [[SDDE_Attractor_Emergence]]

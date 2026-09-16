@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[AnalogInMemoryComputing]]
+[[Analog_Synaptic_Weighting]]
 [[Butterfly_Network]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[TCC]]
 [[Three_Primitives]]
+[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

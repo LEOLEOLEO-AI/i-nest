@@ -60,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[Sparsity_Ceiling]]
 [[Spike_Encoding_of_fMRI]]
 [[SpikingBrain-1_0_类脑脉冲大模型的革命性突破_]]
+[[SpikingNeuronOptimization]]
 [[Spiking_Neural_Network]]
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]

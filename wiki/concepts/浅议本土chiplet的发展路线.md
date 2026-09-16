@@ -34,6 +34,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[3DIC_EDA之一_基于Chiplet集成的计算架构]]
 [[3d]]
 [[AI-ML — 全景导航 (Map of Content)]]
+[[AI_FullSpectrum_Strategy]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]

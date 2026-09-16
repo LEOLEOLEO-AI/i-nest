@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[ResonateAndFireEncoding]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]
+[[SparseActivationSkipping]]
 [[SpikeAwareAlignmentDistillation]]
 [[SpikeEncoding]]
 [[SpikeTimingDependentPlasticityForTracking]]

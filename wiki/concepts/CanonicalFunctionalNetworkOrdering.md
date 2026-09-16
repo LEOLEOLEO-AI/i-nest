@@ -31,9 +31,11 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[BiologicalParadigmValidation]]
 [[Bipartite_Interconnect]]
+[[BoundaryObject_Abstraction]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
+[[advanced packaging]]
 [[iNEST]]
 [[neuromorphic substrate]]
 

@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[InverseDesignedPhotonicRouting]]
 [[KeyMaterialStrategy]]
 [[LargeScalePhotonicIntegration]]
+[[Memristive_Wafer_Interconnect]]
 [[Memristor]]
 [[Memristor_Interconnect]]
 [[Memristor_Synapse]]

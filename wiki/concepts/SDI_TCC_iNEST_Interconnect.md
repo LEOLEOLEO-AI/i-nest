@@ -86,6 +86,7 @@ Auto-extracted concept from raw material compilation.
 [[TemporalComplexity]]
 [[Textbook_Paradigm_Definition]]
 [[TopologyAware_Renormalization]]
+[[TopologyFragility]]
 [[Wafer_Interconnect]]
 [[chiplet interconnect]]
 [[iNEST]]

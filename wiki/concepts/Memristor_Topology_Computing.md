@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Memory_Computing]]
 [[Memristive_ANN_Hardware]]
 [[Memristor]]
+[[Memristor_Hardware_ANN]]
 [[Memristor_Synapse]]
 [[Memristor_Topology]]
 [[Mesoscale_Heterogeneous_Integration]]

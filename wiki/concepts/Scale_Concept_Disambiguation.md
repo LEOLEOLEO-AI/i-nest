@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AdaptiveFlexibilityThreshold]]
+[[BioInspiredLearningRule]]
 [[Brain_Connectome]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -29,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Connectome]]
 [[CrossbarArrayVLSI]]
 [[DataProvenanceIntegrity]]
+[[FlexibilityThreshold]]
 [[Four_Scale_Semantic_Battlefield]]
 [[Heterogeneous_Integration]]
 [[KeyMaterialStrategy]]

@@ -1,12 +1,12 @@
 # Knowledge Health Report
 
-**Generated**: 2026-09-15
-**Last Grow**: 2026-09-15
+**Generated**: 2026-09-17
+**Last Grow**: 2026-09-17
 
 ## Stats
-- **Total Concepts**: 6039
-- **Total Articles**: 1453
-- **Orphan Concepts**: 1867
+- **Total Concepts**: 6123
+- **Total Articles**: 1475
+- **Orphan Concepts**: 1850
 - **Knowledge Graph Density**: High
 
 ## Orphan Concepts (no incoming links)
@@ -16,26 +16,21 @@
 - [[400篇综述文献，认知神经科学到自主智能体的记忆系统统一综述]]
 - [[8State_3Bit_Storage]]
 - [[9位院士12位专家联合撰文：智能计算的新进展、挑战与未来_Science合作期刊]]
-- [[AGI_Neuromorphic_Substrate]]
 - [[AIInnovationPlatform]]
 - [[AI_Infrastructure_Commercialization]]
 - [[AI_Material_Design_Production_Gap]]
 - [[AI_Principal]]
-- [[ANN_SNN_Representation_Gap]]
 - [[Academic_Integrity_Assessment]]
-- [[Advection_Reservoir_Computing]]
 - [[Aerial_Network_Measurement_Testbed]]
 - [[AgranularLimbicInclusion]]
-- [[Algebraic_Completeness]]
-- [[AlgorithmHardwareCoDesign]]
 - [[AllHardware_CNN_Integration]]
 - [[AllInOneImageRestoration]]
 - [[AlphaCascadedAmplification]]
 - [[Alpha_Cascade_Coefficient]]
 - [[AmortizedRegretSeparation]]
+- [[AnalogMemristiveSNN]]
 - [[Analog_Speech_Recognition]]
 - [[AnalyticalMobilityEdgeSolution]]
-- [[Analyze_Reconstruct_Regulate]]
 - [[Anti_Scaling_Law]]
 - [[AperiodicLatticeTransport]]
 - [[ArchaeologicalDataAudit]]
@@ -45,12 +40,17 @@
 - [[Asymmetric_Electrode_IGZO_Transistor]]
 - [[Asymmetric_Technology_Overmatch]]
 - [[AutonomousAirCombat]]
-- [[AutonomousCombatScenarios]]
 - [[B3_Competition_Landscape]]
 - [[B3_Paper_Competitive_Landscape]]
 - [[B7_TCC OneFabric_论文计划]]
 - [[Battery_Aware_Scheduling]]
-- ... 1827 more
+- [[Bayesian_Inference_Decoding]]
+- [[Beads_Into_Chain_Integration]]
+- [[Behavior_Inertia_HMM]]
+- [[Bioavailability_Enhancement_Network]]
+- [[BiocharImmobilizedEnzyme]]
+- [[Biological_Analogy_Engineering_Constraint]]
+- ... 1810 more
 
 ## Next Steps
 1. Run `[[wiki_compiler.py]]` after each new raw import.

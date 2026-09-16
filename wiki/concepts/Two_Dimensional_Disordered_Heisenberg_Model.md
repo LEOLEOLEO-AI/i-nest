@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[DelayParameterSpaceDecomposition]]
 [[DimerizedSpinChain]]
 [[Disordered_Heisenberg_Model]]
+[[DynamicInference]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_Topology]]
 [[Chiplet_Topology_Interconnect]]
+[[Dynamic_Structural_Hole_Reconfiguration]]
 [[Heterogeneous_Integration]]
 [[Memristive_Wafer_Interconnect]]
 [[NCCLCollectiveCommunicationMapping]]

@@ -61,6 +61,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TCC_Topology]]
 [[Textbook_Paradigm_Definition]]
+[[Topology_Centric_Computing]]
 [[Weight_Reinitialization]]
 [[branch prediction]]
 [[pipelined processor]]

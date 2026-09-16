@@ -46,6 +46,8 @@ Auto-extracted concept from raw material compilation.
 [[CollectiveStabilityMetric]]
 [[Complex_System_Theory]]
 [[ConfinementMechanism]]
+[[Confinement]]
+[[CooperationEmergenceThreshold]]
 [[EGO_Architecture]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

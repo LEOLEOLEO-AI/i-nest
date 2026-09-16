@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[BurstGatedRouting]]
+[[Chemical_Bond_Operation_Algebra]]
 [[CrossDomain_Integration]]
 [[Dynamic_Communication_Reconfiguration]]
 [[FPGA_NeuromorphicMapping]]
@@ -39,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[TCC]]
 [[TopologicalDataCompression]]
+[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

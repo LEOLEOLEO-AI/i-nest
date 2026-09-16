@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_STDP]]
 [[Memristor]]
 [[Memristor_Synapse]]
+[[Meta_Residual_Learning]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
 [[SDI_STDP]]

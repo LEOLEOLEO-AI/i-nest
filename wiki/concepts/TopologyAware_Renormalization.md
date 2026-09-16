@@ -88,6 +88,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC_iNEST_Interconnect]]
 [[TemperatureSensitivityControl]]
 [[TemporalComplexity]]
+[[Textbook_Paradigm_Definition]]
 [[Topology_Interconnect]]
 [[Wafer_Interconnect]]
 [[chiplet interconnect]]

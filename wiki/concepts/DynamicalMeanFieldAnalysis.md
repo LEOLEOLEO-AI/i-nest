@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Biological_Circuit_Formalization]]
 [[Biological_Neural_Circuit_Formalization]]
 [[Biomimetic_Ion_Dynamics]]
+[[BoseCondensateNeuralAnalogy]]
 [[Complex_System_Theory]]
 [[EmergentBeatPatternResolution]]
 [[Intelligence_Emergence]]

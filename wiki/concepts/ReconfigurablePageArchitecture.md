@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_NPU_NoC_Integration]]
 [[SDI_STDP]]
 [[SDI_STDP_Rule]]
+[[SDI_Stream_Aware_NoC_Routing]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[STDP_Plasticity]]

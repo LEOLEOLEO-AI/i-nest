@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[GeometricNeuromorphicFusion]]
 [[GradientBasedLearningLocalization]]
 [[InNetworkAgentRewiring]]
+[[InputAdaptiveComputation]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[MagnitudePhaseComputationalModel]]

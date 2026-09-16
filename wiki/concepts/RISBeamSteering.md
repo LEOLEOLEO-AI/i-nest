@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[NetworkDiameterTradeoff]]
 [[Network_Topology_Design]]
 [[PathDivergenceSelection]]
+[[PheromoneTopologySignaling]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[涌现]]

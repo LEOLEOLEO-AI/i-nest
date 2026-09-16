@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Stacking]]
 [[ComponentLevelMolding]]
 [[DBF_Processor]]
+[[DTGA]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]

@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Interconnect_Topology]]
 [[MachineLearningPotential]]
+[[MetaHardwareAbstraction]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]
 [[SDI_Standard_Review]]

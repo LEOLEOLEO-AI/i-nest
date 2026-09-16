@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[EnergyEfficientSNN]]
+[[Event_Driven_Orbital_Object_Pipeline]]
 [[FlexibleManifoldReconfiguration]]
 [[FlexibleNeuromorphicAccelerator]]
 [[InputAdaptiveComputation]]

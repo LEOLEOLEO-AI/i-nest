@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[ScalableNeuromorphicTopology]]
 [[Semantic_Optimizer]]
+[[Semantic_Routing_Policy]]
 [[StochasticVehicleRouting]]
 [[Synaptic_Plasticity]]
 [[TCC]]

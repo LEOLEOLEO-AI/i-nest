@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_FullSpectrum_Strategy]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BioPlausiblePredictiveCoding]]
+[[Chip-Hardware — 全景导航 (Map of Content)]]
 [[CollectiveSpikingDynamics]]
 [[ConductingPolymerDendriteMemory]]
 [[Criticality]]

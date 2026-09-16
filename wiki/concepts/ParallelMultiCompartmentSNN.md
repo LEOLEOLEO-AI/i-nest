@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Local_Structure_Aware_Self_Attention]]
 [[Memristor]]
 [[Memristor_Synapse]]
+[[Meta_Residual_Architecture]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicHardware]]
 [[NeuromorphicRoutingOptimization]]

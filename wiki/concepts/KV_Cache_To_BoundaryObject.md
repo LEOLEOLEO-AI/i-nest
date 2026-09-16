@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[MetricComputationAuthenticity]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[PowerLawScalingClassification]]
 [[QuantumReservoirMemoryCapacity]]
 [[Readout_Weight_Training]]
 [[Reservoir_Computing]]

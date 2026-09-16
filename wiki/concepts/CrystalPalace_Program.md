@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Verifiability]]
 [[Emergent_Reservoir_Topology]]
 [[Evolutionary_Computability]]
+[[FlagOS_2_0]]
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[HybridMemristorArray]]

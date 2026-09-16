@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Organization]]
 [[Neuromorphic_Planning_Architecture]]
 [[Self_Organized_Criticality]]
+[[SpikeDrivenMOT]]
 [[UnifiedHypergraphStateSpace]]
 
 ## Sources

@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Technology_Disparity_Offset]]
 [[TemporalLearning]]
+[[Temporal_Computing_Paradigm]]
 [[iNEST]]
 
 ## Sources

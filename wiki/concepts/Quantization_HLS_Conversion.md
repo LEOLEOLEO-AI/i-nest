@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Neuromorphic_Acceleration]]
 [[FPGA_SNN_Inference]]
 [[IMPLY_ISA]]
+[[LLMDrivenPathSelection]]
 [[Meta_Residual_Architecture]]
 [[NeuromorphicRadarFrontend]]
 [[Neuromorphic_Acceleration]]

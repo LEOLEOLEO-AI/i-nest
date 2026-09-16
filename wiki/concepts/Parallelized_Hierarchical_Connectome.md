@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Crystallized_Neural_Manifolds]]
 [[DataProvenanceIntegrity]]
 [[DisorderedNetworkDynamics]]
+[[Distributed_Spike_Communication]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence]]

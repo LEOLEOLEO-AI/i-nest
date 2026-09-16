@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Activity_Dependent_Plasticity]]
 [[AdaptiveAsymmetricSurrogateGradient]]
 [[AdaptiveFrequencyResonateAndFire]]
+[[AdaptiveLocalLearning]]
 [[AnisotropicGaussianPrimitives]]
 [[AnytimePointCloudRecognition]]
 [[AsynchronousEventDrivenComputation]]

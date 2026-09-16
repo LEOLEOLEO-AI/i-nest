@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[2_5D_Interposer]]
 [[3DHI_Chiplet_Integration]]
 [[3DHI_Integration]]
 [[3DHI_Stacking]]
@@ -53,6 +54,8 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[LowCostTrainingPipeline]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
+[[NoC]]
 [[P_Paradigm]]
 [[RecursiveSelfReferentialArchitecture]]
 [[ReproducibleReservoirOutput]]
@@ -62,6 +65,7 @@ Auto-extracted concept from raw material compilation.
 [[TemporalFeatureProjection]]
 [[TopologicalAndersonChernInsulator]]
 [[Topological_Semantic_Flow]]
+[[advanced packaging]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

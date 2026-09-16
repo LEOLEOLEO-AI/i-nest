@@ -21,15 +21,19 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AdaptiveCompetingInteractions]]
+[[Bipartite_Interconnect]]
 [[Bipartite_Interconnect_Design]]
-[[Chiplet_Interconnect]]
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Express_Link_Virtualization]]
 [[MicroRouter_Embedding]]
 [[Multi_Wafer_Rack]]
 [[Network_Topology_Design]]
+[[SDSoW_Reconfigurable_Network]]
 [[TCC]]
 [[Wafer_Level_Power_Integration]]
 [[Wafer_Scale_Integration]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

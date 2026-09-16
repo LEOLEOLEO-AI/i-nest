@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Complex_System_Theory]]
+[[Cross_Node_Event_Propagation]]
 [[EdgeIoTEnergyAwareness]]
 [[EventDriven_Interconnect]]
 [[Heterogeneous_Integration]]

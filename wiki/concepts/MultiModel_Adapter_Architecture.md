@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[BulletTrainScheduling]]
 [[BurstTemporalPlasticity]]
 [[Catastrophic_Forgetting_Mitigation]]
+[[ChannelEventSparsity]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Cognitive_Relapse_Architecture]]

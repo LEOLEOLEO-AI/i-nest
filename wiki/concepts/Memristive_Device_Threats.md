@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalInterfaceBlocks]]
 [[Heterogeneous_Synaptic_Motifs]]
 [[Hyper_Dimensional_Computing]]
+[[Hysteretic_State_Encoding]]
 [[InNetworkAgentRewiring]]
 [[IntegratedSensingFusion]]
 [[IntegrationProspectsForVLSI]]

@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[TwoTimescaleNeuroEvolution]]
 [[Yann LeCun：发现智能原理是AI的终极问题]]
 [[互连感知算力]]
+[[五层性能评估框架]]
 [[向大脑学习智能本质，探索通用 AI 的另一条可行路径]]
 [[忆阻器]]
 [[智能涌现]]

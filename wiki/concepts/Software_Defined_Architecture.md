@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_iNEST_Wafer]]
 [[P_Paradigm]]
 [[SDI_Bond]]
+[[SDI_TCC_Chiplet]]
 [[TCC]]
 [[chiplet interconnect]]
 [[iNEST]]

@@ -41,6 +41,8 @@ Auto-extracted concept from raw material compilation.
 [[MultiFPGAScaling]]
 [[QuantumProbabilityFlowHebbian]]
 [[RobustnessToNoiseInSNN]]
+[[SDI_Bond]]
+[[SDI_iNEST]]
 [[SDI_iNEST_Interconnect]]
 [[SNN]]
 [[Self_Organized_Criticality]]
@@ -49,7 +51,9 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[TemporalBatchSynchronization]]
 [[iNEST]]
+[[iNEST_Interconnect]]
 [[Γst_Revision]]
 
 ## Sources

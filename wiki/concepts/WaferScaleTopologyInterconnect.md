@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Topology]]
 [[InverseDesignOptimization]]
 [[LargeScalePhotonicIntegration]]
+[[Memristive_Wafer_Interconnect]]
 [[Memristor]]
 [[Memristor_Interconnect]]
 [[Memristor_Synapse]]

@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[ERI_2_0_Strategic_Framework]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[L2_L3_Reconfigurability]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Metastable_State_Hierarchy]]
 [[Milinkovic B (2024)：复杂神经系统涌现动力学结构]]

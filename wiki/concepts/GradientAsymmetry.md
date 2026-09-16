@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[HardwareAware_DesignSpace]]
 [[IMPLY_ISA]]
 [[LocalInteractionDrivenReconfiguration]]
+[[MixedLabyrinthFractal]]
 [[Nonlinear_Gain]]
 [[PPT]]
 [[SNN]]

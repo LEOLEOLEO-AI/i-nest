@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[ExactWiringRouting]]
 [[FPGA_Reconfigurability]]
 [[GenerativeTopologyModels]]
+[[GrandCanonicalOptimization]]
 [[HybridCouplingThermosensitiveNetwork]]
 [[InSitu_Adjoint_Wave_Control]]
 [[IncidenceMatrixPropagation]]

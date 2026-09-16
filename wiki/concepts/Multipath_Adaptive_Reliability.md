@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Ant_Swarm_Functional_Control]]
 [[Bipartite_Interconnect]]
 [[BurstGatedRouting]]
+[[CLINKAsCarrierPrimitive]]
 [[Collective_Offloading]]
 [[Complex_System_Theory]]
 [[ControlDrivenCriticalFluctuations]]

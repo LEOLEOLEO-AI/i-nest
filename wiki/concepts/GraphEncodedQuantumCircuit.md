@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[InputAdaptiveComputation]]
 [[Interconnect_Routing]]
 [[Local_Approximation_Dynamics]]
+[[Long_Range_Interactions]]
 [[LowRankPerturbation]]
 [[Memristive_Topology]]
 [[NetworkArchitectureSearch]]

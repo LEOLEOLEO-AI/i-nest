@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[MachineLearningPotential]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[ProgrammerGuideAbstraction]]
 [[Reservoir_Computing]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]

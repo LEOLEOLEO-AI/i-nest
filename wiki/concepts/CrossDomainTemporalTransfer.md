@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[Consumer_GPU_Inference]]
 [[DynamicInference]]
 [[ExactlyFlatBand]]
+[[GenerativeTopologyModels]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

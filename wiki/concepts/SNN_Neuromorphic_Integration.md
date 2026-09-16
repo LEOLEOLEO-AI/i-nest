@@ -43,11 +43,11 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[SNN_Spiking_Neural_Network]]
 [[ST_SNN]]
+[[SensorMemoryFusion]]
 [[SpiNNaker2_Chip]]
 [[SpiNNaker]]
 [[SpikeCodingAdversarialPerturbation]]
 [[Spike_Encoding_of_fMRI]]
-[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

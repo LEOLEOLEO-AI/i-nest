@@ -57,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[InterconnectConstrainedEmergence]]
 [[MeasurementEfficiency]]
+[[MicroTransferPrinting]]
 [[Network_Topology_Design]]
 [[ScaleFreeNetwork]]
 [[SuperparamagneticSwitchingRate]]

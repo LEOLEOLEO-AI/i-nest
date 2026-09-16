@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[CorticalTypeDiversity]]
+[[Cryogenic_Syndrome_Compression]]
 [[EmergentOrder]]
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Beyond_Moore_Packaging_Strategy]]
 [[BiologicalNoiseMimicry]]
 [[CausalEmergenceCondition]]
+[[Causal_Emergence_Integration]]
 [[CirculateFiringNeuron]]
 [[CompartmentalNeuronModel]]
 [[CoreComputationSubspace]]

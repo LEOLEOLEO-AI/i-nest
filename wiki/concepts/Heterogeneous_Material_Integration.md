@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Packaging]]
 [[iNEST]]
+[[关于“十五五”布局晶上产业平台开辟“第二曲线”的战略建议_1]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

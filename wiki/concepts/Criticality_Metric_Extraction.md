@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AgenticServiceOrchestration]]
 [[Ant_Swarm_Functional_Control]]
 [[BurstGatedRouting]]
+[[ColorRouting]]
 [[Compressive_Sensing_Reservoir]]
 [[CouplingTopologyInducedDynamics]]
 [[CriticalityInducedTopology]]

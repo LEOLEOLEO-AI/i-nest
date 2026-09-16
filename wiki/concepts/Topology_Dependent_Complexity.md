@@ -31,13 +31,17 @@ Auto-extracted concept from raw material compilation.
 [[EnergyOptimizedManycoreArchitecture]]
 [[FlagScale]]
 [[FlagScale_Training_Inference]]
+[[Hardware_Mappability]]
 [[Independent_EdgeAI_Player_Endgame]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[SDI_Bond]]
 [[SDI_Review_Process]]
+[[SDI_iNEST]]
 [[SDI_iNEST_Topology]]
 [[TCC]]
+[[iNEST]]
+[[iNEST_Topology]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalRelevanceSelfOrganization]]
 [[GlobalInformationDominance]]
 [[HierarchicalInferenceTopology]]
+[[InNetworkGradientPropagation]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

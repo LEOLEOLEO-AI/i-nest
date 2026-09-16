@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Supply_Chain_Increment]]
 [[AI人工智能 卷积神经网络（CNN）_w3cschool]]
 [[Active_Inference_Agent]]
+[[AllReduce_Decomposition]]
 [[Alpha_Coefficient_Phase_Transition_Amplification]]
 [[Analog_InMemory_Processing]]
 [[ArbitraryWavefunctionConfigurability]]

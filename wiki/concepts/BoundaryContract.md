@@ -59,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[PhotonicPackagingEfficiency]]
 [[PhotonicStateRetention]]
+[[SixClassSkeletonAsRPrimitiveSpace]]
 [[TCC]]
 [[TopologicalComplexityCeiling]]
 [[TopologyConditionedLearning]]

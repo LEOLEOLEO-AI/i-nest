@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[EventDrivenMotionDeblurring]]
 [[Neuromorphic_Computing]]
+[[PowerLawScaling]]
 [[Self_Organized_Criticality]]
 [[SpikeEncoding]]
 [[Spiking_Neural_Network]]

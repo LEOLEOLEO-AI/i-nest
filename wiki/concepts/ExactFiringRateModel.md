@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BioPlausiblePredictiveCoding]]
 [[CSI_Temporal_Encoding]]
 [[Complex_System_Theory]]
+[[Cross_Node_Event_Propagation]]
 [[DiscreteSTDP]]
 [[DistinguishableHelium4]]
 [[Distributed_Spike_Communication]]

@@ -62,6 +62,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Neuromorphic]]
 [[Wafer_Scale_Neuromorphic_Integration]]
 [[complex system]]
+[[iNEST]]
 [[scaling laws]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]

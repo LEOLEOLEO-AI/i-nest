@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Course_Based_FPGA_Projects]]
 [[DataDrivenCellularAxis]]
 [[DevelopmentalBrainTrajectory]]
+[[Distributed_Spike_Communication]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[Hardware_Accelerated_SNN]]

@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect]]
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
+[[DTGA]]
 [[DendriticReservoirState]]
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]

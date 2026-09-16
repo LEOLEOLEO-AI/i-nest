@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[CompactFieldVariable]]
 [[CrossbarArrayArchitecture]]
 [[DARPA_ProjectManager_Model]]
+[[Decoupled_Priors]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Topology]]
 [[Network_Topology_Design]]

@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Distributed_Spike_Communication]]
 [[ErrorAmplificationLimits]]
 [[Heterogeneous_Integration]]
+[[HypergraphRumorPropagation]]
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]
 [[LatencyGradientDescent]]

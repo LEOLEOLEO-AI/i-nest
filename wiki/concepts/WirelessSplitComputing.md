@@ -56,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[OptimalGeneralisationNearInterpolation]]
 [[PhotoIontronicSynapse]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SelfOrganizedOscillatoryLearning]]
 [[SparseTemporalEncoding]]
 [[SpikeBasedGradientDescent]]
 [[SpikingNeuralNetworkTopologyMapping]]

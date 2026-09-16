@@ -30,6 +30,8 @@ Auto-extracted concept from raw material compilation.
 [[BioPlausiblePredictiveCoding]]
 [[BurstGatedRouting]]
 [[BurstSuppressionMechanism]]
+[[BurstSuppression]]
+[[CriticalityOffCriticalityTransition]]
 [[Criticality]]
 [[DifferentiableSpikeTimeDiscretization]]
 [[DynamicTokenSparsity]]

@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Thermalisation]]
 [[DistributedIntelligence]]
 [[Dynamic_Expert_Fusion]]
+[[Emergence_Phase]]
 [[Heterogeneous_Integration]]
 [[In_Memory_Computing]]
 [[Inference_Workload_Profiling]]

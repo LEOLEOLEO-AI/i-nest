@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Network_Embedding]]
 [[NoC]]
 [[NoC_EventRouting]]
+[[QuantumFluctuationDrivenTransport]]
 [[RecurrentOscillatoryComputation]]
 [[SNN]]
 [[SensationModulatingNetwork]]

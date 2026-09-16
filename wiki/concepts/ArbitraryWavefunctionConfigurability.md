@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[MachineLearningPotential]]
 [[Memristive_STDP]]
 [[Memristive_Topology]]
+[[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]
 [[Network_Topology_Design]]
 [[OptimalRepresentation]]
 [[OptimalRepresentations]]

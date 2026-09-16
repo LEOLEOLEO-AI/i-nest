@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[CircuitTopologySearch]]
 [[Communication_Primitive]]
 [[Communication_Primitive_Generation_Theory]]
+[[Critical_Region_Extension]]
 [[CrossLingualIdiomGraph]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]

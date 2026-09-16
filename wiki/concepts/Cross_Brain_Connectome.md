@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[IntrinsicDynamicsAutonomy]]
 [[Loihi2_OnChip_Learning]]
+[[Loihi]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Metriplectic_Twin]]
@@ -59,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[SexBasedConnectomeDifferences]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[神经网络]]
 

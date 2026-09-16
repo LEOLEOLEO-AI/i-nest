@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[EmergentRecurrentConnectivity]]
 [[Emergent_Order_Deep_Belief_Networks]]
 [[EnsembleCreditAssignment]]
+[[ExactWiringRouting]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

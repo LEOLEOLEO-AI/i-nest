@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGASNNMemoryOptimization]]
 [[FerroelectricSynapticArray]]
 [[Ferroelectric_Devices]]
+[[HeterogeneousSynapticDelays]]
 [[Heterogeneous_Integration]]
 [[InNetworkRadarProcessing]]
 [[Intelligence_Emergence]]

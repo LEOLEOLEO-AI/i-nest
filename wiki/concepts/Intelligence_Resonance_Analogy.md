@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[DevelopmentalNeuromorphicAdaptation]]
 [[FirstPrinciples_Derivation]]
+[[FixedOverheadCost]]
 [[Intelligence_Emergence]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]

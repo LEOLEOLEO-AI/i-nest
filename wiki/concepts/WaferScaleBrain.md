@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_Faculty_Forum_2026]]
 [[Attention_Residuals]]
+[[ByteDance_Ada_Chip]]
 [[Heterogeneous_Integration]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[Neuromorphic_Computing]]

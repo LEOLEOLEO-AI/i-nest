@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[ActivityAvalanche]]
 [[AdaptiveAsymmetricSurrogateGradient]]
 [[AdaptiveAsymmetricSurrogateGradients]]
+[[AdaptiveDeltaPulseFrequencyEncoding]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Avoided_Criticality]]

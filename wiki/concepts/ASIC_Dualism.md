@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicServiceComposition]]
 [[EdgeIoTEnergyAwareness]]
 [[ElectromigrationReliability]]
+[[GPU_Bottleneck_Relief]]
 [[GeneralIntelligenceSubstrate]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]

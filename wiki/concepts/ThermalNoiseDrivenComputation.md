@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AstrocyteInspiredRepair]]
 [[Attention_Residuals]]
 [[AutonomousAdaptation]]
+[[BayesianDomainEvolution]]
 [[BigBrainCellularAxis]]
 [[BoundaryObject_Abstraction]]
 [[BrainActivityPrediction]]

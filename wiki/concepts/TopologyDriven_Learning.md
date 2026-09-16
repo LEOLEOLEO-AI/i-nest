@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AndersonTransition]]
 [[Attention_Residuals]]
 [[BigBrainCellularAxis]]
+[[Bipartite_Interconnect_Design]]
 [[BoundaryObject_Abstraction]]
 [[DataDrivenMaterialDesign]]
 [[Deep_Thermalisation]]

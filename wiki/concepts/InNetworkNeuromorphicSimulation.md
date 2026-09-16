@@ -82,6 +82,7 @@ Auto-extracted concept from raw material compilation.
 [[SystemLevelNonlinearity]]
 [[TemporalComplexity]]
 [[TemporalDynamicsModeling]]
+[[ThermalNoiseHarnessing]]
 [[complex system]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicServiceComposition]]
 [[FPGA_Accelerated_SNN]]
 [[Intelligence_Emergence]]
+[[Meta_Residual_Architecture]]
 [[Quantization_HLS_Conversion]]
 [[SDI_Bond]]
 [[SDI_iNEST]]

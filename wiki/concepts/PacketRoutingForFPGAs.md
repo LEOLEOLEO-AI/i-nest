@@ -59,6 +59,8 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologicalContagion]]
 [[Topology_Centric_Computing]]
+[[WavelengthMultiplexedInterconnect]]
+[[advanced packaging]]
 [[iNEST]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Faculty_Forum_2026]]
 [[ChipletOnWafer]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -30,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[GlobalDecision_LocalExecution_ControlPlane]]
 [[Heterogeneous_Integration]]
 [[MetaFAIR_ArchitectureDiscovery]]
+[[Network_Topology_Design]]
 [[RuntimeTopologyMapping]]
 [[SNN]]
 [[Spiking_Neural_Network]]

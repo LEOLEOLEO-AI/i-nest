@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[FirstPrinciples_Derivation]]
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
+[[GeTeBasedCBRAM]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

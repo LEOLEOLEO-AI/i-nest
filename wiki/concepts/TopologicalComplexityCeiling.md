@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]
+[[Chiplet_Stacking]]
 [[CoarseGrainingFlow]]
 [[Complex_System_Theory]]
 [[DARPA_ProjectManager_Model]]

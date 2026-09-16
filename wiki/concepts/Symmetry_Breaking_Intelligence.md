@@ -35,7 +35,9 @@ Auto-extracted concept from raw material compilation.
 [[DecliningModularity]]
 [[Discrete_Event_Spike_Simulation]]
 [[Dynamic_Neuromorphic_Computing]]
+[[FunctionalEnsembleComputation]]
 [[Neuromorphic_Computing]]
+[[Spiking_Neural_Network]]
 [[iNEST]]
 
 ## Sources

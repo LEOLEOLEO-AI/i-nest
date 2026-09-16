@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AstrocyteInspiredRepair]]
 [[Avalanche_Dynamics]]
 [[BackflowTransformation]]
+[[Biologically_Plausible_Learning_Rules]]
 [[CSI_Temporal_Encoding]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]

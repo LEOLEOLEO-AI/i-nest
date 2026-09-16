@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Autonomous_Physical_Computation]]
 [[BackflowTransformation]]
 [[BayesianDomainEvolution]]
+[[BehavioralFeedbackLoop]]
 [[BioInspiredLearningRule]]
 [[Brain_Connectome]]
 [[C__elegans_Connectome]]

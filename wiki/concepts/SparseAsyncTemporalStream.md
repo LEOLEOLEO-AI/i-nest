@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[EdgeInspectionInference]]
 [[Efficient_Coding_Constraint]]
 [[End_Side_Neuromorphic_Deployment]]
+[[EventDrivenSensoryEncoding]]
 [[EventDriven_Interconnect]]
 [[EventSparseTemporalEncoding]]
 [[FullSpectrum_Programmability]]

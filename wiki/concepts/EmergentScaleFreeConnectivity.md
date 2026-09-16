@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_Network_Topology]]
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
+[[Connectome_Transfer]]
 [[DendriticReservoirState]]
 [[FastSlow_Dynamics]]
 [[Intelligence_Emergence]]

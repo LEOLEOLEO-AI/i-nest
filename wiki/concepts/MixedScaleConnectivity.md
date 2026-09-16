@@ -46,7 +46,9 @@ Auto-extracted concept from raw material compilation.
 [[ElectromigrationReliability]]
 [[ErrorSuppressedPipeline]]
 [[Independent_EdgeAI_Player_Endgame]]
+[[Koopman_Constants_Of_Motion]]
 [[Neuromorphic_Computing]]
+[[SDI_Bond]]
 [[SDI_Review_Process]]
 
 ## Sources

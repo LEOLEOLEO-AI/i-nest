@@ -56,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[OpenLearningEcosystem]]
 [[RecursiveSelfReferentialArchitecture]]
+[[Routing_Color_Bits]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]

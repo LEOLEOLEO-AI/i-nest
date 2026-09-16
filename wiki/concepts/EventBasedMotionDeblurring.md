@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[BulletTrainScheduling]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[CoDesigned_SNN]]
 [[Criticality]]
 [[CrossEntityPreemptiveWarning]]
 [[Emergent_Intelligence]]

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[DivergentHigherAreaRanking]]
 [[DynamicalSelfDualCriticality]]
+[[Globally_Optimal_SNN_Training]]
 [[Layered_Attractive_Hubbard_Model]]
 [[LeftRightAsymmetry]]
 [[MembranePotentialModulation]]

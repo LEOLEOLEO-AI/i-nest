@@ -85,6 +85,7 @@ Auto-extracted concept from raw material compilation.
 [[TemporalComplexity]]
 [[TopologyFragility]]
 [[Topology_Interconnect]]
+[[UniversalIntelligence_Emergence]]
 [[Wafer_Interconnect]]
 [[analog computation]]
 [[chiplet interconnect]]

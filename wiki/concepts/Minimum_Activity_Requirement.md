@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[HippocampalNeocorticalIntelligence]]
 [[Hypergraph_Label_Noise]]
 [[InNetworkRadarProcessing]]
+[[Intelligence_Resonance_Analogy]]
 [[LatencyAwareLoss]]
 [[Neuromorphic_Computing]]
 [[NoiseRobust_Hyperedge_Aggregation]]

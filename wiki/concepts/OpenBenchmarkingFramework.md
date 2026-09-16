@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
 [[Communication_Trace_Diagnostics]]
+[[ConductingPolymerDendriteMemory]]
 [[DeeplySupervisedSpiking]]
 [[EdgeIoTEnergyAwareness]]
 [[Event_Driven_Architecture]]

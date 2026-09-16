@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration]]
 [[DARPA_ProjectManager_Model]]
 [[Deep_Thermalisation]]
+[[Defense_Industrial_Base_Reshaping]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

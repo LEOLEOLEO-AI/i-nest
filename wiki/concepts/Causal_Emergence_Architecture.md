@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Wafer_Topology]]
 [[Complex_System_Theory]]
 [[ComputationEfficientDeepLearning]]
+[[Core_Spacetime_Tensor]]
 [[Deep_Network_Architecture_Invariant]]
 [[Drosophila_FC2_Circuit]]
 [[EfficientDeepLearning]]

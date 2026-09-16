@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AINext_Initiative]]
 [[ANN_SNN_WeightSpaceGap]]
+[[Analog_Synaptic_Behavior]]
 [[Attention_Mechanism_in_SNN]]
 [[Avoided_Criticality]]
 [[BulletTrainScheduling]]
@@ -45,7 +46,6 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[SpikePacketCompression]]
 [[Spike_Energy_Floor]]
-[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[SynapticReinforcementConsolidation]]
 [[Syncytial_Mesh]]

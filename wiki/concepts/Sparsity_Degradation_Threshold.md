@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGASNNMemoryOptimization]]
 [[FerroelectricSynapticArray]]
 [[Ferroelectric_Devices]]
+[[HeterogeneousSynapticDelays]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Linguistic_Phase_Transition]]

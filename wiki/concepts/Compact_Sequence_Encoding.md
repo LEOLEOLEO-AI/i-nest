@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[20W_Brain_Inspired_Planning]]
 [[AdaptiveBitPrecisionExploration]]
 [[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
@@ -50,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[OptimalGeneralisationNearInterpolation]]
 [[QuantumStateSynapticTrace]]
 [[Synaptic_Plasticity]]
+[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
+[[ReceptiveField_Processing]]
 [[TCC]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]

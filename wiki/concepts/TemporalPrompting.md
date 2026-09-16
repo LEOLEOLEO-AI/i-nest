@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[EnsembleCreditAssignment]]
 [[FPGA_Neuromorphic_Architectures]]
 [[FlexibleManifoldReconfiguration]]
+[[InNetworkPowerRouting]]
 [[InNetworkReconfiguration]]
 [[Interconnect_Routing]]
 [[LocalPlasticityPipeline]]

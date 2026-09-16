@@ -72,6 +72,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_Wafer_Stack]]
 [[NonAbelian_Gauge_Topology]]
 [[Nonlinear_Gain]]
+[[Nonlinear_Parameter_Alpha]]
 [[Photonic_Chiplet_Interconnect]]
 [[RTC_Primitive]]
 [[RecursiveSelfReferentialArchitecture]]

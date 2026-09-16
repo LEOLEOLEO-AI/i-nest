@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3D_Heterogeneous_Integration]]
+[[3d]]
 [[AcceleratedMaterialScreening]]
 [[AdversarialResilience]]
 [[AnomalousSpinTransport]]
@@ -52,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[Ferroelectric_ComputeInMemory]]
 [[FisherOrthogonalMemory]]
 [[Heterogeneous_Integration]]
+[[Hysteretic_State_Encoding]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Long_Range_Interactions]]

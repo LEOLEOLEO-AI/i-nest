@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalDataThreshold]]
 [[DelayParameterSpaceDecomposition]]
 [[Distributed_KVCache_Coherence]]
+[[DynamicInference]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

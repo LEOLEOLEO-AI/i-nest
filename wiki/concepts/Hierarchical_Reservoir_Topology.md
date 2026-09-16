@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Epithelial_Barrier_Integrity]]
 [[Evolutionary_Computability]]
+[[Evolutionary_Pattern_Modeling]]
 [[FirstPrinciples_AI]]
 [[ForwardFluctuationGradient]]
 [[FunctionalInterfaceBlock]]

@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Autonomous_Spiking_Dynamics]]
 [[Avoided_Criticality]]
+[[Baseline_Change_Record]]
 [[Criticality]]
 [[EnergyProportionalityCeiling]]
 [[EventBasedMotionDeblurring]]
@@ -37,7 +38,6 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[ST_SNN]]
 [[Self_Organized_Criticality]]
-[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]

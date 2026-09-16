@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[AnomalousSpinTransport]]
 [[AstrocyteInspiredRepair]]
+[[BackflowTransformation]]
 [[BigBrainCellularAxis]]
 [[BrainBodyResonance]]
 [[ByteDance_Ada_Chip]]

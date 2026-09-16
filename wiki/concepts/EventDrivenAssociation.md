@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[DeepCode_AlgorithmExtraction]]
 [[DelayAwareSpikeEventDelivery]]
 [[DiscreteContinuous_Unification]]
+[[EventBasedMotionDeblurring]]
 [[SNN]]
 [[SOC]]
 [[Self_Organized_Criticality]]

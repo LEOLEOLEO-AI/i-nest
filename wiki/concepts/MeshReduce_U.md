@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Compute_Centric_NoC]]
 [[CongestionAwareNoCPlacement]]
 [[Heterogeneous_Integration]]
+[[HighFrequency_Interconnect_Optimization]]
 [[InInterconnectMemory]]
 [[Interconnect_Routing]]
 [[Memory_Wall]]

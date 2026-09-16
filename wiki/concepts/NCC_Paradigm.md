@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[AnalogInMemoryComputing]]
 [[Attention_Residuals]]
+[[Chiplet_Stacking]]
 [[Collective_Offloading]]
 [[Decoupled_Priors]]
 [[Deep_Network_Architecture_Invariant]]

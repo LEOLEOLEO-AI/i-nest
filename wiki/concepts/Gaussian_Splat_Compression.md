@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Ferroelectric_Devices]]
 [[Ferroelectric_Synaptic_Devices]]
 [[Heterogeneous_Integration]]
+[[InNetworkRadarProcessing]]
 [[Memory_Wall]]
 [[Neuromorphic_Computing]]
 [[SOC]]

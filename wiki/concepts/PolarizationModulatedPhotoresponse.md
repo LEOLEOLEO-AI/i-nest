@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[EmergentTaskDecomposition]]
 [[EnsembleCreditAssignment]]
 [[Ferroelectric_Devices]]
+[[FlexibleManifoldReconfiguration]]
 [[Free_Energy_Topology_Mapping]]
 [[Intelligence_Emergence]]
 [[LLMDrivenPathSelection]]

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[EnergyResourceEfficiencyCoOptimization]]
 [[Environmental_Coupling_Organization]]
 [[Expert_Review_Arbitration]]
+[[Fatigue_SpikePattern]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]

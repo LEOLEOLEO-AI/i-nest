@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Autonomous_Physical_Computation]]
 [[AvalancheTriggeringMechanism]]
 [[BayesianDomainEvolution]]
+[[BehavioralFeedbackLoop]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[Bosonic_SPT_Phases]]
 [[Brain_Connectome]]

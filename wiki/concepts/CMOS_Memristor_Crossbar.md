@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalInterfaceBlock]]
 [[Globally_Optimal_SNN_Training]]
 [[HardwareAware_DesignSpace]]
+[[HigherOrderSimplicialDynamics]]
 [[Intelligence_Emergence]]
 [[Memory_Capacity_Maximization]]
 [[Memristor]]

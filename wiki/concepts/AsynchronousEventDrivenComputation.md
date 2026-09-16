@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicRL]]
 [[NeuromorphicRL_Locomotion]]
 [[Neuromorphic_Computing]]
+[[NonEquilibriumPhase]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SOC]]
 [[STDP_Learning]]

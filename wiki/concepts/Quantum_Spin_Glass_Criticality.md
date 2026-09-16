@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspired_Interception_Control]]
 [[BurstGatedRouting]]
 [[Cognitive_Relapse_Decoupling]]
+[[CounterstreamSignalPropagation]]
 [[CriticalityInNetworkComputing]]
 [[CriticalityOffCriticalityTransition]]
 [[Criticality]]

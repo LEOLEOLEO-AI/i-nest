@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Critical_Region_Extension]]
 [[CrossbarInterconnect]]
 [[DBF_Reconfigurable_Processor]]
+[[Dynamic_Communication_Reconfiguration]]
 [[EventDrivenAsync]]
 [[EventDrivenAsynchronousRouting]]
 [[EvolvingArchitectureDynamics]]

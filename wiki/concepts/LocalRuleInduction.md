@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[ERI_2_0_Strategic_Framework]]
 [[EdgeFeatureEncoding]]
 [[EmergentCompetenceThreshold]]
+[[Emergent_Nonlinear_Dynamics]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]

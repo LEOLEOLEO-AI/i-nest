@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Topology_Mapping]]
 [[Heterogeneous_Integration]]
 [[In_Network_Neuromorphic]]
+[[Intelligent_Computing_Infrastructure]]
 [[Memory_Wall]]
 [[Memristive_STDP]]
 [[Memristor]]

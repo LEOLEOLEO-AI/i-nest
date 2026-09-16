@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_NoC_Interconnect]]
 [[Chiplet_Stacking]]
+[[Chiplet_Wafer_Topology]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
@@ -45,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[SwarmX_InterWafer]]
 [[TCC]]
+[[advanced packaging]]
 [[causal emergence]]
 
 ## Sources

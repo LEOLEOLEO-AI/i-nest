@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[BulletTrainScheduling]]
 [[CirculateFiringNeuron]]
 [[CoDesigned_SNN]]
+[[CoOptimizedMappingScheduling]]
 [[Contested_Prior_Resolution]]
 [[ContinualLearningOnNeuromorphic]]
 [[Continuous_Control_Spiking_Stability]]

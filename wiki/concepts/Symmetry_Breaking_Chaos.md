@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Automated_Assessment_Framework]]
 [[Autonomous_Physical_Computation]]
 [[BayesianDomainEvolution]]
+[[BehavioralFeedbackLoop]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[Brain_Connectome]]
 [[C_elegansConnectomeAnalogy]]

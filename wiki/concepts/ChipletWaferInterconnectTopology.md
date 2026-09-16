@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetwork_CST_Offload]]
 [[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Integration]]
+[[Intelligent_Computing_Infrastructure]]
 [[Macro_System_Description]]
 [[Memory_Wall]]
 [[Memristive_STDP]]

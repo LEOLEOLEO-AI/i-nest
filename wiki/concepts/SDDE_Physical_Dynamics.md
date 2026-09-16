@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
+[[Chiplet_Security_Architecture]]
 [[Complex_System_Theory]]
 [[Core_Spacetime_Tensor]]
 [[CytoarchitectonicAxis]]
@@ -69,6 +70,7 @@ Auto-extracted concept from raw material compilation.
 [[ThermallyDrivenSuperparamagneticReservoir]]
 [[chiplet interconnect]]
 [[iNEST 论文矩阵计划]]
+[[iNEST]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[GradientFreeSNNTraining]]
 [[HigherOrderSimplicialDynamics]]
 [[InNetworkAgentRewiring]]
+[[InSensorMemoryComputing]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]
 [[Memristor]]

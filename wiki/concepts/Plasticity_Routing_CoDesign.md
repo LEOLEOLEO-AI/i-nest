@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Critical_Region_Extension]]
 [[DelayTolerantNetworkUAV]]
 [[Dynamic_Expert_Fusion]]
+[[ElectricFieldModulatedCoupling]]
 [[EvolvingArchitectureDynamics]]
 [[FPGA_Reconfigurability]]
 [[Free_Energy_Principle]]

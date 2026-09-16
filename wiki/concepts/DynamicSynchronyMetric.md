@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[FluxAttachmentTopology]]
 [[Free_Energy_Topology_Mapping]]
 [[GenerativeTopologyModels]]
+[[GrandCanonicalOptimization]]
 [[HybridCouplingThermosensitiveNetwork]]
 [[InSitu_Adjoint_Wave_Control]]
 [[Intelligence_Emergence]]

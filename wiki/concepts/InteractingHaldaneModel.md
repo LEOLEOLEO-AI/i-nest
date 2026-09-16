@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
 [[Evolutionary_Computability]]
+[[Evolutionary_Pattern_Modeling]]
 [[Hierarchical_Reservoir_Topology]]
 [[High_Dimensional_Projection]]
 [[HybridMemristorArray]]

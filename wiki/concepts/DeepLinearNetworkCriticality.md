@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[Adaptive_Replication_Strategy]]
 [[AdversarialSpikePerturbation]]
+[[Algorithmic_Warfare]]
 [[AmoebaInspiredLocomotion]]
 [[Avoided_Criticality]]
 [[BioInspired_Interception_Control]]

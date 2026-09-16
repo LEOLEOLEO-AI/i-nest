@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[ImaginaryGaugePhaseImprint]]
 [[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_State]]
+[[L2_L3_Reconfigurability]]
 [[MitigationLayers]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicReplayBuffer]]

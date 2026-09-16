@@ -34,7 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[CurrentInjectionSNN]]
 [[EventDrivenWeightUpdate]]
 [[Intelligence_Emergence]]
-[[MemristiveSNN]]
+[[Memristive_SNN]]
 [[Meta_Residual_Architecture]]
 [[Neuromorphic_Computing]]
 [[NonKerrTravelingWaveEmergence]]
@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[SNN_VisualSemanticDecoder]]
 [[Scalable_SNN_Training]]
+[[SpikeEventScheduling]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
+[[Cross_Substrate_Scaling]]
 [[DataCenter_Chip_Logic_Compression]]
 [[DelayParameterSpaceDecomposition]]
 [[Dielet_Integration]]

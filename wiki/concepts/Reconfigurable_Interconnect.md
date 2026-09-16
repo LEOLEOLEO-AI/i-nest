@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Accessibility_Plasticity]]
 [[AdaptiveCompetingInteractions]]
+[[CoPackagedOptics]]
 [[Cryogenic_Syndrome_Compression]]
 [[Emergent_Order_Deep_Belief_Networks]]
 [[Free_Energy_Topology_Mapping]]

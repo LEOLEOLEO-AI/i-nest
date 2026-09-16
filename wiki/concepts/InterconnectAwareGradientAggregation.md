@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
+[[Complexity_Coordination_Layer]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[DendriticReservoirState]]
 [[ERI_2_0_Strategy]]

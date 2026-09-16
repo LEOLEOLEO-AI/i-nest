@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[Reservoir_State_Projection]]
 [[TCC]]
+[[Topological_Reservoir]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Crystallized_Neural_Manifolds]]
 [[Deep_Network_Layer_Stacking]]
+[[DrivenDissipativeDynamics]]
 [[Intelligence_Emergence]]
 [[Memristor]]
 [[Memristor_Crossbar]]

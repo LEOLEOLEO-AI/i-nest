@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[ArchitecturalCondition]]
 [[Architectural_Conditioning]]
+[[BayesianDomainEvolution]]
 [[BigBrainCellularAxis]]
 [[Core_Spacetime_Tensor]]
 [[Criticality]]

@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Architecture]]
 [[CorticalTravelingWave]]
 [[Criticality]]
+[[Energy_Proportional_Neuromorphic_System]]
 [[EventDrivenMotionDeblurring]]
 [[FlexibilityThreshold]]
 [[HighThroughputPhenotyping]]

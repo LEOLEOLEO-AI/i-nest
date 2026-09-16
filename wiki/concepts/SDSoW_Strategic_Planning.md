@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Topology_Mapping]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[Intelligent_Computing_Infrastructure]]
 [[MacroscopicDescriptor]]
 [[Memory_Wall]]
 [[Memristor]]

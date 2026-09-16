@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet，解决车规芯片既要、又要、还要难题的唯一解？_智车星球]]
 [[ComplexSystem_Definition]]
 [[Complex_System_Theory]]
+[[ComponentLevelMolding]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

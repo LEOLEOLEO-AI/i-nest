@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Memory_Infrastructure]]
 [[AdiabaticMultimodeBend]]
 [[AdvancedPackagingInterconnect]]
+[[AdvancedPackaging]]
 [[Advanced_Packaging]]
 [[Advanced_Packaging_Route]]
 [[Advanced_Packaging_for_Space]]
@@ -33,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[BisectionBandwidthBound]]
 [[BisectionBandwidthMetric]]
 [[CXL_Deployment_Transition]]
+[[ChipletTopologyAwareness]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
@@ -40,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[TCC]]
+[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Complex_System_Theory]]
 [[Complexity_Emergence]]
+[[Cross_Node_Event_Propagation]]
 [[Cryogenic_Syndrome_Compression]]
 [[Distributed_Spike_Communication]]
 [[Emergent_Intelligence]]

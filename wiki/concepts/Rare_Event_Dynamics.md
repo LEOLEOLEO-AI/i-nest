@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
 [[RunawayAvalanche]]
+[[SpatialHeterogeneity]]
 [[SuddenLearning]]
 [[TCC]]
 [[Topological_Reservoir]]

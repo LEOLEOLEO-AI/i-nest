@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[BrownianCastleInterface]]
 [[BrownianCastleInterfaces]]
 [[BurstTemporalPlasticity]]
+[[ChannelEventSparsity]]
 [[Chiplet]]
 [[Chiplet_Based_Neuromorphic_Integration]]
 [[Chiplet_Heterogeneous_Integration]]

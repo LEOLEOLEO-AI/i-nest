@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Brain_Connectome]]
 [[Connectome]]
 [[Connectome_Reservoir]]
+[[Connectome_Transfer]]
 [[Cross_Brain_Connectome]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]

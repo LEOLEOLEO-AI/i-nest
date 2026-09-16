@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Thermalisation]]
 [[DifferentiableRasterizationPipeline]]
 [[DistinctReentrantPhases]]
+[[Distributed_Spike_Communication]]
 [[ERI_2_0_Strategy]]
 [[EdgeIoTEnergyAwareness]]
 [[EpoxyMoldingCompoundFlow]]

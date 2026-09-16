@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[Delay_Aware_Autograd_Spiking_Framework]]
 [[EnergyProportionalityCeiling]]
+[[EventDataNonUniformity]]
 [[EventDrivenAutoregression]]
 [[EventDrivenMotionDeblurring]]
 [[Event_Driven_Architecture]]

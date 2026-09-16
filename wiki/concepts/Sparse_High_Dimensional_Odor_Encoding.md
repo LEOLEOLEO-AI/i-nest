@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3D_Heterogeneous_Integration]]
+[[3d]]
 [[AI_Faculty_Forum_2026]]
 [[ActiveMatterComputing]]
 [[Adaptive_Deep_Brain_Stimulation]]
@@ -37,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossSubstrateHomology]]
 [[Deep_Network_Architecture_Invariant]]
 [[EfficientDeepLearning]]
+[[Heterogeneous_Integration]]
 [[HierarchicalSpatiotemporalProcessing]]
 [[HigherOrder_Interaction_Modeling]]
 [[In_Network_Neuromorphic]]
@@ -52,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[StochasticVehicleRouting]]
 [[TCC]]
 [[TCC_Neuromorphic_Integration]]
+[[Trustworthiness_Aware_Training]]
 [[iNEST]]
 
 ## Sources

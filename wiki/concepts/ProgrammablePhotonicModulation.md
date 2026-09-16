@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Synapse]]
 [[Memristor_Synaptic_Device]]
 [[Neuromorphic_Computing]]
+[[SneakPathCurrentSuppression]]
 [[WaferScale_Memristor_Array]]
 [[iNEST]]
 

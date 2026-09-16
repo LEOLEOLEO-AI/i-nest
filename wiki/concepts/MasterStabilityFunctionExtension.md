@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Consumer_GPU_Inference]]
 [[CriticalDataThreshold]]
 [[CrossDomainTemporalTransfer]]
+[[DelayParameterSpaceDecomposition]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]

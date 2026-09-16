@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Macro_System_Description]]
 [[MultiplicativeGain]]
+[[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]
 [[Network_CST]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
@@ -78,6 +79,7 @@ Auto-extracted concept from raw material compilation.
 [[三原理协同_FEP_STDP_最小作用量]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

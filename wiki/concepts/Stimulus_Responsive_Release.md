@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Routing]]
 [[ExactRateChaosTransition]]
 [[ExplainableEnergyAI]]
+[[GCML_Cognitive_Map]]
 [[InteractingQuasiPeriodicChain]]
 [[Interconnect_Routing]]
 [[Localized_Feedback_Array]]

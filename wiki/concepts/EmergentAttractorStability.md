@@ -59,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[TemporalCodingOptimization]]
+[[Temporal_Computing_Paradigm]]
 [[iNEST]]
 [[神经网络]]
 

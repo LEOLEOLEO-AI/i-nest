@@ -31,8 +31,10 @@ Auto-extracted concept from raw material compilation.
 [[Advanced_Packaging_for_Space]]
 [[Cognitive_Relapse_Architecture]]
 [[GenerativeTopologyModels]]
+[[HierarchicalAttention_MIL]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]
+[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

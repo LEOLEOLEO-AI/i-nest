@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Dragonfly_Inspired_WaferScale]]
 [[Hard_Breakdown]]
 [[Heterogeneous_Integration]]
+[[Integrated_Wafer_Cooling]]
 [[Interconnect_Topology]]
 [[Network_Topology_Design]]
 [[TCC]]

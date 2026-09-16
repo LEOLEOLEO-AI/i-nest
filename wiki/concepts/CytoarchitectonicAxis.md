@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration_Route]]
 [[Chiplet_Interconnect]]
 [[Course_Based_FPGA_Projects]]
+[[Cross_Node_Event_Propagation]]
 [[Distributed_Spike_Communication]]
 [[Heterogeneous_Integration]]
 [[HodgkinHuxleyDynamics]]

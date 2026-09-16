@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[GNN图神经网络，非结构化数据分析利器！]]
 [[HierarchicalBayesianCommunityDetection]]
 [[Intelligence_Emergence]]
+[[MeanFieldSpinGlass]]
 [[Network_Topology_Design]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]

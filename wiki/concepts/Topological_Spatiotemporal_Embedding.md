@@ -34,11 +34,13 @@ Auto-extracted concept from raw material compilation.
 [[DailyResearchDigest]]
 [[DelayTolerantNetworkUAV]]
 [[EventDrivenTracking]]
+[[FixedOverheadFloor]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
 [[SOC]]
 [[TCC]]
+[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[OpenEndedDiscovery]]
 [[OpportunisticRoutingRL]]
 [[OpportunisticRouting]]
 [[QuantumChaos]]

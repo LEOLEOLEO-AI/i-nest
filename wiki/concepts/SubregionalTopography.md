@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AutonomousAdaptation]]
 [[BioInspired_Interception_Control]]
 [[BrownianCastleInterface]]
+[[CavityMethodAnalysis]]
 [[Free_Energy_Topology_Mapping]]
 [[Inference_Workload_Profiling]]
 [[Interconnect_Routing]]

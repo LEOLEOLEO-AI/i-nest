@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
+[[OpticalReservoirComputing]]
 [[Real_Time_Neuromorphic_Constraint_Satisfaction]]
 [[Recurrent_Network_Homeostasis]]
 [[Reservoir_Computing]]

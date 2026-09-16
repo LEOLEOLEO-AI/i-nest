@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Topology]]
 [[CommunicationAsComputation]]
+[[Dynamic_Structural_Hole_Reconfiguration]]
 [[GlobalDecision_LocalExecution_ControlPlane]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Topology]]

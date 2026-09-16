@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Network]]
 [[Memristor_Synapse]]
 [[MetaFAIR_ArchitectureDiscovery]]
+[[MetalHalidePerovskiteMemristor]]
 [[Metastable_State_Hierarchy]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Acceleration]]

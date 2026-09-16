@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BackpropagationFreeLearning]]
 [[Beyond_Moore_Pathway]]
 [[Bias_Origin_Taxonomy]]
+[[BoundaryObject_Abstraction]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Topology]]
@@ -36,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
 [[TCC]]
+[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

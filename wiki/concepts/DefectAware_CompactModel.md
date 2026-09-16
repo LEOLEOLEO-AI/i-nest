@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AdjustableDynamicsReservoir]]
 [[AdjustableDynamics]]
 [[Analog_Encoding_Readout]]
 [[Analog_InMemory_Processing]]

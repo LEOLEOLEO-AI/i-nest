@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CellEmergence]]
 [[ConductingPolymerDendriteMemory]]
 [[Continuous_Spatiotemporal_State_Propagation]]
+[[CriticalityInNetworkComputing]]
 [[EcosystemTopologyCoupling]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]

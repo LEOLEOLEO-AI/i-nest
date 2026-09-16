@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalBranching]]
 [[DynamicInference]]
 [[EmergentDynamics]]
+[[Flexible_Neuromorphic_Substrate]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

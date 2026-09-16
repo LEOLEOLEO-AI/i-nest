@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[PropertyPredictionModeling]]
 [[ReconfigurableSpikingRouting]]
 [[RoutabilityDrivenFloorplanning]]
+[[SpikingBrain-1_0_类脑脉冲大模型的革命性突破_]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]

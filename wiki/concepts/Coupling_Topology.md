@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
+[[Photopolymerization_Printing]]
 [[ReproducibleReservoirDynamics]]
 [[ReservoirDynamics]]
 [[ReservoirYieldMaximization]]

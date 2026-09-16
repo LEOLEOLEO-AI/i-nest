@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[NonEquilibrium_CorticalDynamics]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SDI_STDP]]
 [[SNN]]
 [[STDP_Plasticity]]
 [[SelfMotivatedGrowth]]

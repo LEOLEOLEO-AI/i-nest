@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[CongestionAwareNoCPlacement]]
 [[Deep_Network_Architecture_Invariant]]
+[[Defense_Industrial_Base_Reshaping]]
 [[DynamicServiceComposition]]
 [[EulaminateOverrepresentation]]
 [[Free_Energy_Topology_Mapping]]

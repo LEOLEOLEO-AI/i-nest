@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[ControlTheoreticTopology]]
 [[CriticalLearningRegime]]
 [[Critical_Region_Extension]]
+[[CrossbarFabricTopology]]
 [[Network_Topology_Design]]
 [[SelfOrganization]]
 [[TCC]]

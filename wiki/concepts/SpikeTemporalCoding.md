@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Continuous_Control_Spike_Timing_Sensitivity]]
 [[Criticality]]
 [[EEGSpikeEncoding]]
+[[ElasticInferenceScheduling]]
 [[EventCameraPoseInput]]
 [[EventCameraTemporalEncoding]]
 [[EventDrivenComputation]]

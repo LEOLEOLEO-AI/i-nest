@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_STDP_Regulation]]
 [[SDI_STDP_Rule]]
 [[SOC]]
+[[STDPDrivenTemporalBinding]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]
 [[SelfInhibitionFeedbackLoop]]

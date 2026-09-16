@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[LocalStructuralPlasticity]]
 [[Neuromorphic_Computing]]
 [[OpenLearningEcosystem]]
+[[OscillatoryReservoirDynamics]]
 [[Scalable_Neuromorphic_System]]
 [[Synaptic_Plasticity]]
 [[iNEST]]

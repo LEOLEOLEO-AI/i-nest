@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_SDI_Integration]]
 [[SDI_Architecture]]
 [[SDI_Bond]]
+[[SDI_ProgrammableInterconnect]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[TCC]]

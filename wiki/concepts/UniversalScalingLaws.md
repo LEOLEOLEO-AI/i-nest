@@ -33,6 +33,8 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_STDP]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
+[[SDI_Review_Process]]
+[[STDP_Plasticity]]
 [[TCC]]
 [[Universal_Scaling_Laws]]
 [[iNEST]]

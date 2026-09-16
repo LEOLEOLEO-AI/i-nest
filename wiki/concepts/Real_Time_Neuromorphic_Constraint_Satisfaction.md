@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[EnergyEfficientNeuromorphic]]
 [[EventDrivenModularArchitecture]]
 [[EventDrivenWeightUpdate]]
+[[IMPLY_ISA]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

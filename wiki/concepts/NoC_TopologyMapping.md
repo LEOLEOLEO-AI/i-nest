@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CongestionAwareNoCPlacement]]
 [[CorticalTypeDiversity]]
 [[CrossbarArrayVLSI]]
+[[Express_Link_Virtualization]]
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]

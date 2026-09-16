@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[KinematicWavePropagation]]
 [[LossSpikePhenomenon]]
 [[MixedSignalSNN_CoDesign]]
+[[NeuromorphicHardwareCoDesign]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[SNN]]

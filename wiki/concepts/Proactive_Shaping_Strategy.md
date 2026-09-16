@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Ant_Swarm_Functional_Control]]
 [[ArchitecturalCondition]]
 [[Architectural_Conditioning]]
+[[Autonomous_Unmanned_Combat_Networking]]
 [[Capability_Reserve_Index]]
 [[Cognitive_Relapse_Decoupling]]
 [[ConstraintDrivenSelfOrganization]]

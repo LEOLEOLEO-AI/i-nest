@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AINext_Initiative]]
 [[AlloyDisorderEngineering]]
+[[BerryCurvatureIsolation]]
 [[BioInspired_Interception_Control]]
 [[BurstGatedRouting]]
 [[Cascading_Failure_Mitigation]]

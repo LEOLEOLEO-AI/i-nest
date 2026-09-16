@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Autonomous_Physical_Computation]]
 [[BackflowTransformation]]
 [[BayesianDomainEvolution]]
+[[BehavioralFeedbackLoop]]
 [[BigBrain3DHistology]]
 [[BioInspiredLearningRule]]
 [[BrainActivityPrediction]]

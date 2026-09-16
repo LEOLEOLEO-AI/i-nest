@@ -20,10 +20,13 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
+[[3D_Torus_6_Degree]]
 [[AlternativeBridgingModels]]
 [[AnomalousSpinTransport]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
+[[Chiplet]]
 [[Chiplet_Based_Neuromorphic_Integration]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Communication_Trace_Diagnostics]]
 [[ComplexValuedSNN]]
 [[Contested_Prior_Resolution]]
@@ -45,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[NetworkAttractorStates]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[Nonlinear_Gain]]
 [[PowerOfTwoWeightQuantization]]
 [[PropertyPredictionModeling]]

@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[GrandCanonicalOptimization]]
 [[GravityPathIntegralTopology]]
 [[HybridCouplingThermosensitiveNetwork]]
+[[InSitu_Adjoint_Wave_Control]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Memristive_Topology]]

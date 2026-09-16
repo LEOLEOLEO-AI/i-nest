@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Controlled_Release_Kinetics]]
 [[Criticality]]
 [[EEGSpikeEncoding]]
+[[ElasticInferenceScheduling]]
 [[EnsembleSparsity]]
 [[EventDrivenMotionDeblurring]]
 [[EventDrivenSynchronization]]

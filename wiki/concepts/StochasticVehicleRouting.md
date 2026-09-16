@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[RedundancyControlledStochasticRouting]]
 [[STDPDrivenConnectivity]]
 [[STDP_Plasticity]]
+[[ScalableNeuromorphicTopology]]
 [[StochasticMultiAgentRL]]
 [[Synaptic_Plasticity]]
 [[Topology_Centric_Computing]]

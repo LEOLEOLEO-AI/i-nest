@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[EmergentOrder]]
 [[EventCameraActionRecognition]]
 [[Event_Driven_Architecture]]
+[[ExponentialDenseAssociativeMemory]]
 [[FrozenRateOperator]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
@@ -39,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[Neuromorphic_Interconnect]]
 [[Order_Flexibility_Duality]]
 [[SNN]]
 [[ST_SNN]]
@@ -46,7 +48,6 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
-[[neuromorphic interconnect]]
 [[类脑芯片]]
 
 ## Sources

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3D_Heterogeneous_Integration]]
+[[3d]]
 [[AI_Faculty_Forum_2026]]
 [[AcceleratedMaterialScreening]]
 [[ActiveMatterComputing]]
@@ -63,6 +64,7 @@ Auto-extracted concept from raw material compilation.
 [[QuantumInspiredHarmonySearch]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
+[[Syncytial_Information_Integration]]
 [[iNEST]]
 
 ## Sources

@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[PhysicalReservoirInterconnect]]
 [[PhysicalReservoir]]
+[[PhysicalSubstrateReservoirComputing]]
 [[PlanarNetworkSimulation]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]

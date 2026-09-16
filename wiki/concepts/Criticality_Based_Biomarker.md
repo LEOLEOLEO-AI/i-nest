@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityInNetworkComputing]]
 [[CriticalityOffCriticalityTransition]]
 [[Criticality]]
+[[DifferentiableSpikeTimeDiscretization]]
 [[EEG_Criticality]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]

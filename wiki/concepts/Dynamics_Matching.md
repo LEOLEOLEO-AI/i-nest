@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[DivergentHigherAreaRanking]]
 [[ErrorSuppressedPipeline]]
 [[FractalPathEntropy]]
+[[Generation_Readiness_Assessment]]
 [[HardwareAware_DesignSpace]]
 [[HierarchicalReservoirDynamics]]
 [[MechanicalReservoirComputing]]

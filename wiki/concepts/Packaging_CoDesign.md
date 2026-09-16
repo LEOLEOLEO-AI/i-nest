@@ -21,7 +21,6 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Faculty_Forum_2026]]
-[[Advanced_Packaging]]
 [[Attention_Residuals]]
 [[BackpropagationFreeLearning]]
 [[BoundaryObject_Abstraction]]
@@ -34,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Network_Architecture_Invariant]]
 [[ElectromigrationReliability]]
 [[Heterogeneous_Integration]]
+[[Interconnect_Routing]]
 [[Interconnect_Topology]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[MetaFAIR_ArchitectureDiscovery]]
@@ -55,7 +55,9 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[WSE_OnWafer_Fabric]]
 [[WaferScaleInterconnectAlgebra]]
+[[WaferScaleTopologyCentricComputing]]
 [[Wafer_Scale_Integration]]
+[[advanced packaging]]
 [[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]

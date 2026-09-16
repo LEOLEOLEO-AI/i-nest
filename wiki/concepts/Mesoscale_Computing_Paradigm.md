@@ -33,11 +33,16 @@ Auto-extracted concept from raw material compilation.
 [[CST计量仪]]
 [[Causal_Emergence]]
 [[Causal_Emergence_Architecture]]
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Wafer_Topology]]
 [[Complex_System_Theory]]
+[[ComputationEfficientDeepLearning]]
 [[Intelligence_Emergence]]
 [[Mesoscale_Computing]]
+[[Network_Topology_Design]]
 [[TCC]]
+[[causal emergence]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

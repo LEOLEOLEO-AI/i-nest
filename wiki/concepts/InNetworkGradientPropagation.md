@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[EventCameraActionRecognition]]
+[[ExponentialDenseAssociativeMemory]]
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[FunctionalRelevanceSelfOrganization]]

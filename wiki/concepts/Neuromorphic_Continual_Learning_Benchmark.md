@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[CurrentInjectionSNN]]
 [[DivergentHigherAreaRanking]]
 [[Edge_Intelligence]]
+[[Electronic_Warfare_Integration]]
 [[Fixed_Recurrent_Network]]
 [[FractalPathEntropy]]
 [[FullyLocalOnlineSNNTraining]]

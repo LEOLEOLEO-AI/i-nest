@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3D_Heterogeneous_Integration]]
+[[3d]]
 [[AI_Driven_Architecture_Search]]
 [[AI_Forum_Demo_Narrative]]
 [[Adaptive_Intelligence_Principle]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Compute_In_Memory_Neuromorphic]]
 [[ContinualLearningOnNeuromorphic]]
 [[Continual_Learning_Modularity]]
+[[CrossDomain_Integration]]
 [[DebiasingTechniques]]
 [[DelayTolerantNetworkUAV]]
 [[DisorderedNetworkInterconnect]]
@@ -46,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Edge_of_Chaos_Computation]]
 [[Emergence_Phase]]
 [[EndToEndTopologicalLearning]]
+[[Heterogeneous_Integration]]
 [[In_Memory_Computing]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

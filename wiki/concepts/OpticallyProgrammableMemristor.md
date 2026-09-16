@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Edge_Intelligence]]
 [[Heterogeneous_Integration]]
 [[InNetworkRadarProcessing]]
+[[In_Network_Generative_Inference]]
 [[Memory_Wall]]
 [[Memristor]]
 [[Memristor_Synapse]]

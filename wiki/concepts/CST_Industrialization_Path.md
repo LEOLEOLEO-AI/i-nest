@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Active_Inference_Agent]]
 [[Activity_Dependent_Plasticity]]
 [[AnytimePointCloudRecognition]]
+[[Automated_Reward_Shaping]]
 [[BackflowTransformation]]
 [[Complex_System_Theory]]
 [[Neuromorphic_Computing]]

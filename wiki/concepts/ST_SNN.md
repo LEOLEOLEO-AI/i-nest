@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[Neuromorphic_Topology]]
 [[NoC]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[Nonlinear_Gain]]
@@ -72,7 +73,6 @@ Auto-extracted concept from raw material compilation.
 [[Small_World_Network]]
 [[SpatiotemporalComplexityIndex]]
 [[Spike_Encoding_of_fMRI]]
-[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]
@@ -88,6 +88,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST_Neuromorphic_Integration]]
 [[iNEST_Neuromorphic_Topology]]
 [[residual connection]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

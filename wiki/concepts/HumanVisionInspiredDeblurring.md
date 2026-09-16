@@ -34,9 +34,10 @@ Auto-extracted concept from raw material compilation.
 [[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Acceleration]]
 [[In_Package_Neuromorphic_Integration]]
+[[LocalLearning_SynapticUpdate]]
 [[Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]
-[[Spiking neural network]]
+[[Neuromorphic_Integration]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

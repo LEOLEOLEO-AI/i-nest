@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[RobustEmbodiedNavigation]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
+[[Speck_Chip]]
 [[Spiking_Diffusion_Process]]
 [[Spiking_Neural_Network]]
 [[Summarize_Analysis]]

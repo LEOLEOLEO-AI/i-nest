@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenWeightUpdate]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[GeometricNeuromorphicFusion]]
+[[IMPLY_ISA]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[LossSpikePhenomenon]]

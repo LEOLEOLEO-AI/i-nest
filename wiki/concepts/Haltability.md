@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[NoC]]
 [[NoC_Chiplet_iNEST_Wafer]]
+[[Obsidian_Plugin_Architecture]]
 [[RTC_Primitive]]
 [[RTC_Primitives]]
 [[RecursiveSelfReferentialArchitecture]]

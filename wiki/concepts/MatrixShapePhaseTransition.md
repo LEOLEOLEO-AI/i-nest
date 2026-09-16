@@ -57,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SDI_STDP_Rule]]
+[[SDSoW]]
 [[STDP_Plasticity]]
 [[ScalableNeuromorphicTopology]]
 [[SelfOrganization]]

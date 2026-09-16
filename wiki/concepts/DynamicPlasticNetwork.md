@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[20W_Brain_Inspired_Planning]]
 [[AutonomousAdaptation]]
 [[Cognitive_Relapse_Architecture]]
+[[Defense_Industrial_Base_Reshaping]]
 [[Free_Energy_Topology_Mapping]]
 [[Memristor]]
 [[Memristor_Interconnect]]

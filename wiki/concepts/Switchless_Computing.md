@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Topology_Interconnect]]
 [[CommunicationAsComputation]]
 [[Deep_Network_Architecture_Invariant]]
+[[Dynamic_Structural_Hole_Reconfiguration]]
 [[ElectromigrationReliability]]
 [[EulaminateOverrepresentation]]
 [[GlobalDecision_LocalExecution_ControlPlane]]

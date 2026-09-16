@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[CorticalWaveRouting]]
 [[Dynamic_Expert_Fusion]]
 [[Dynamic_Expert_Routing]]
+[[EventCameraTemporalEncoding]]
 [[ExplainableEnergyAI]]
 [[ExtinctionDrivenMetastability]]
 [[ITP_STDP]]

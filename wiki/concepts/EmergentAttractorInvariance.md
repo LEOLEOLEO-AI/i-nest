@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[ArbitraryWavefunctionConfigurability]]
 [[BCM滑动阈值]]
 [[CST_SynergisticCoordination]]
+[[CST_Theory_V27_FINAL]]
 [[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[CommunicationDelayRobustness]]

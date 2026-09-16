@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Network_Architecture_Invariant]]
 [[Drosophila_FC2_Circuit]]
 [[EfficientDeepLearning]]
+[[EmergentIntelligence_Spacetime]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[Flow_Network_Memory]]

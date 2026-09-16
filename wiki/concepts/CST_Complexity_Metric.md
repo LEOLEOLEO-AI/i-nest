@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[ExtensiveWidthShallowNN]]
 [[FerroelectricMemoryCell]]
 [[Ferroelectric_Devices]]
+[[Free_Energy_Interconnect_Constraint]]
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]

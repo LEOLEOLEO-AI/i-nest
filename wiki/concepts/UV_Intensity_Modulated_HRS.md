@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Conductive_Filament_Switching]]
 [[DistributedInference]]
+[[Memristive_Synapse]]
 [[MemristorStateEvolution]]
 [[Memristor]]
 [[Memristor_Synapse]]

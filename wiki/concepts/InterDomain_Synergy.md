@@ -62,6 +62,7 @@ Auto-extracted concept from raw material compilation.
 [[Syncytial_Mesh]]
 [[Syncytial_Mesh_Model]]
 [[TCC]]
+[[Temporal_Computing_Paradigm]]
 [[iNEST]]
 
 ## Sources

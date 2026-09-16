@@ -62,6 +62,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[QuantumFluctuationDrivenTransport]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[TCC]]

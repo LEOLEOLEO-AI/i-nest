@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalEnsembleComputation]]
 [[FunctionalEnsemble]]
 [[Hybrid_ANN_SNN_Pipeline]]
+[[InputAdaptiveComputation]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[NeuralNetworkSpectralAnalysis]]

@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[FlexibilityThreshold]]
 [[FrozenRateOperator]]
 [[Neuromorphic_Computing]]
+[[Soft_Biomolecular_Network]]
 [[Synaptic_Plasticity]]
 [[Syncytial_Mesh]]
 [[iNEST]]

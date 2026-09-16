@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AstrocyteInspiredModulation]]
 [[Autonomous_Architecture_Search]]
 [[BayesianDomainEvolution]]
+[[CommunicationAwareComputeRelocation]]
 [[ConvexNonConvexTradeoff]]
 [[CrossDomainRoleEquivalence]]
 [[Decoupled_Prior_Integration]]

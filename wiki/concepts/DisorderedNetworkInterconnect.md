@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[OpenLearningEcosystem]]
 [[OpportunisticRouting]]
 [[P_Paradigm]]
+[[QuantumConvolutionalTopology]]
 [[RecursiveSelfReferentialArchitecture]]
 [[ScalableNeuromorphicTopology]]
 [[StochasticMultiAgentRL]]

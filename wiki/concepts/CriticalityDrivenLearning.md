@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Hardware_Accelerated_SNN]]
 [[HippocampalNeocorticalIntelligence]]
 [[InNetworkAgentRewiring]]
+[[InNetworkNeuromorphicEmergence]]
 [[Intelligence_Emergence]]
 [[MacroCriticalityEmergence]]
 [[MetaFAIR_ArchitectureDiscovery]]

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[NoC]]
 [[NoC_Chiplet_iNEST_Wafer]]
+[[OnChipOpticalTweezers]]
 [[P_Paradigm]]
 [[TCC]]
 [[Topology_Centric_Computing]]

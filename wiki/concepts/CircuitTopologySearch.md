@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[BackpropagationFreeLearning]]
+[[Beyond_Moore_Pathway]]
 [[CellularSheaf]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -58,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[Pseudofractal_Web]]
 [[TCC]]
 [[TopologicalDataCompression]]
+[[advanced packaging]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

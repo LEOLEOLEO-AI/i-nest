@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet]]
 [[Chiplet_Based_Neuromorphic_Integration]]
 [[Chiplet_Heterogeneous_Integration]]
+[[ConductingPolymerDendriteMemory]]
 [[DeeplySupervisedSpiking]]
 [[Distributed_Spike_Communication]]
 [[EnsembleSparsity]]

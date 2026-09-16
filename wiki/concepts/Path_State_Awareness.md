@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[MatrixShapePhaseTransition]]
 [[MoE_Routing]]
 [[Network_Topology_Design]]
+[[Neural_Field_World_Model]]
 [[NonreciprocalQuasiperiodicLattice]]
 [[OpenLearningEcosystem]]
 [[PhotonicSynapticPlasticity]]

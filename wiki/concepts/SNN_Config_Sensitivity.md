@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AINext_Initiative]]
 [[Avoided_Criticality]]
+[[BandedConnectivityModel]]
 [[BulletTrainScheduling]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -57,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[ST_SNN]]
 [[Self_Organized_Criticality]]
 [[SpikeEncodingLatency]]
+[[SpikeEncoding]]
 [[Spiking_Neural_Network]]
 [[Swarm_Coordination]]
 [[SynapticReinforcementConsolidation]]

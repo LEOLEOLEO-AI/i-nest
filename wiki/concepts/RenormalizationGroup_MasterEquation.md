@@ -60,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[MemoryEfficientSimulation]]
 [[NetworkCentralityMetrics]]
 [[Network_Topology_Design]]
+[[NextNearestNeighborHopping]]
 [[Photonic_Chiplet_Interconnect]]
 [[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]

@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[DisorderDrivenTemporalOrdering]]
 [[DisorderedNetworkInterconnect]]
 [[DistributedEventConditionDesign]]
+[[EventDrivenAsynchronousRouting]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Kinematic_Waves]]

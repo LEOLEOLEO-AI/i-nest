@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_STDP]]
 [[NetworkDynamicalStabilization]]
 [[Neuromorphic_Computing]]
+[[PhaseLockedTopologyMapping]]
 [[STDP_Learning]]
 [[STDP_Learning_Rule]]
 [[STDP_Plasticity]]

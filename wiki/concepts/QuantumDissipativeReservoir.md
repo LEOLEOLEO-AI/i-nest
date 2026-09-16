@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Synaptic_Weighting]]
 [[Architectural_Conditioning]]
 [[Attention_Residuals]]
+[[BoundaryObject_Abstraction]]
 [[Branch_Prediction_Reservoir]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]

@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Network_Layer_Stacking]]
 [[DendriticReservoirState]]
 [[Evolutionary_Computability]]
+[[FlagOS_2_0]]
 [[Free_Energy_Topology_Mapping]]
 [[FunctionalInterfaceBlock]]
 [[FunctionalInterfaceBlocks]]

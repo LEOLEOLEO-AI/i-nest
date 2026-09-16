@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[SDI_Bond]]
 [[SDI_STDP]]
+[[SNN_STDP_CoDesign]]
 [[STDP_Plasticity]]
 [[STDP_Topology]]
 [[STDP_Topology_Integration]]

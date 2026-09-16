@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[HardwareAware_DesignSpace]]
 [[InNetworkNeuromorphicSimulation]]
 [[InNetworkNeuromorphic]]
+[[In_Network_Neuromorphic]]
 [[Intelligence_Emergence]]
 [[LocalQuantumLearningRule]]
 [[Memristor]]
@@ -41,6 +42,8 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
 [[SDDE_Attractor_Emergence]]
+[[SDI_Bond]]
+[[SDI_STDP]]
 [[SDI_STDP_Bond]]
 [[SNN]]
 [[STDP_Plasticity]]
@@ -48,10 +51,10 @@ Auto-extracted concept from raw material compilation.
 [[SpikeTimingDependentUpdate]]
 [[Spike_Timing_Dependent_Plasticity]]
 [[Spike_timing_dependent_plasticity_learning_rule]]
-[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[Spiking_neural_network_dynamics]]
 [[Synaptic_Plasticity]]
+[[ThermalNoiseHarnessing]]
 [[iNEST]]
 
 ## Sources

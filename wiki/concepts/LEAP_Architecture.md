@@ -22,8 +22,13 @@ Auto-extracted concept from raw material compilation.
 
 [[1024_Card_SuperNode]]
 [[2_5D_PIM_Chiplet_Integration]]
+[[AI_Driven_Power_Density_Scaling]]
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration]]
 [[CrossbarArrayPrecision]]
 [[Ferroelectric_ComputeInMemory]]
+[[Ferroelectric_Devices]]
 [[HybridResistiveMemoryCIM]]
 [[In_Memory_Computing]]
 [[Network_Topology_Design]]

@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Verifiability]]
 [[EnsembleSparsity]]
+[[FPGA_Neuromorphic_Architectures]]
 [[Fixed_Cost_Dominance]]
 [[Free_Energy_Topology_Mapping]]
 [[GutBrainAxis_Reprogramming]]

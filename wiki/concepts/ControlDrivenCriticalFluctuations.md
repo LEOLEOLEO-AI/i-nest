@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[RLFlightControl]]
 [[RadiationHardened_ProcessNodeScaling]]
 [[RedundancyControlledStochasticRouting]]
+[[SDI_TopologicalControl]]
 [[STDPDrivenConnectivity]]
 [[STDP_Plasticity]]
 [[SelfOrganization]]

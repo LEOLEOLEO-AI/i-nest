@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CertifiedBifurcationDetection]]
 [[CoexistencePhaseTransition]]
 [[CouplingTopologyMemoryLink]]
+[[EmergentDynamics]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[ProgrammerGuideAbstraction]]

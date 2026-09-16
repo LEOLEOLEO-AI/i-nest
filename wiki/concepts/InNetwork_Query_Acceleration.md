@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenWirelessTransmission]]
 [[ExtinctionDrivenMetastability]]
 [[FixedOverheadDominance]]
+[[HighThroughputPhenotyping]]
 [[MemoryDrivenInterconnect]]
 [[Neuromorphic_Computing]]
 [[OptimalGeneralisationNearInterpolation]]

@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SDI_STDP_Rule]]
+[[SDI_Stream_Aware_NoC_Routing]]
 [[STDP_Plasticity]]
 [[SpikeTimingPreservation]]
 [[Spike_Event_Driven_Attention]]

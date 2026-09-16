@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Biomanufacturing_Control_Loop]]
 [[BranchingRatio]]
 [[CertifiedBifurcationDetection]]
+[[Contested_Priors_Mechanism]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]
 [[SpatioTemporal_Reservoir]]

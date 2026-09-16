@@ -26,7 +26,11 @@ Auto-extracted concept from raw material compilation.
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_Assisted_Energy_Management]]
 [[ANN_SNN_ConversionError]]
+[[AdjustableDynamicsReservoir]]
+[[Nonlinear_Gain]]
 [[Reservoir_Computing]]
+[[SNN]]
+[[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]
 [[quantum reservoir computing]]
@@ -36,3 +40,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- Dual_Unitary_Circuits (merged 2026-09-17)

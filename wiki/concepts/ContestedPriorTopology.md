@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[ControllableSubspace]]
 [[CriticalDataThreshold]]
+[[DelayParameterSpaceDecomposition]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]

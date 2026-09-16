@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[RobustnessToNoiseInSNN]]
 [[SDI_Bond]]
 [[SDI_STDP]]
+[[SDI_Stream_Aware_NoC_Routing]]
 [[SNN]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]

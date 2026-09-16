@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Cryogenic_Syndrome_Compression]]
 [[DistinctReentrantPhases]]
+[[Distributed_Spike_Communication]]
 [[ERI_2_0_Strategy]]
 [[EvanescentFieldTrapping]]
 [[ImaginaryGaugePhaseImprint]]

@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[FastSlow_Dynamics]]
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
+[[GeneralIntelligenceSubstrate]]
 [[Heterogeneous_Integration]]
 [[IncidenceBasedRandomWalk]]
 [[Intelligence_Emergence]]

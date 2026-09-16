@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[HBM_Replacement_Interconnect]]
 [[HeterogeneousInference]]
 [[Heterogeneous_Integration]]
+[[IrregularNeuralReduction]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC]]

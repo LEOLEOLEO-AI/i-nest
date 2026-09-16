@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Continual_Learning_Topology]]
 [[CouplingMatrixRecovery]]
 [[Coupling_Strength_Encoding]]
+[[CrossInstitutionalNetwork]]
 [[Crystallized_Neural_Manifolds]]
 [[Deep_Network_Layer_Stacking]]
 [[DendriticReservoirState]]

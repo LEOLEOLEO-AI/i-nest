@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[DiscreteSTDP]]
 [[Event_Driven_Architecture]]
 [[FPGA_Neuromorphic_Prototyping]]
+[[NeuromorphicGraphAnomalyDetection]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[STDP_Plasticity]]

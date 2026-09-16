@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[FourElementEmergenceKernel]]
 [[Generalization_Bound_Spectra]]
 [[GenerativeTopologyModels]]
+[[HybridMemristorArray]]
 [[Hyper_Dimensional_Computing]]
 [[Intelligence_Emergence]]
 [[Kappa_Weibull_Distribution]]

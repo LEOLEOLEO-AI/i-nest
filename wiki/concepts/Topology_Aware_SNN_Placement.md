@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[OpenSource_Neuromorphic_Framework]]
 [[P_Paradigm]]
+[[PerturbationSpaceTrajectory]]
 [[Real_Time_Neuromorphic_Constraint_Satisfaction]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenTracking]]
 [[Event_Driven_Architecture]]
 [[Event_Driven_Communication]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Military_AI_Revolution]]
 [[Network_Topology_Design]]
@@ -45,7 +46,6 @@ Auto-extracted concept from raw material compilation.
 [[SOC]]
 [[ScalableNeuromorphicTopology]]
 [[SpikeDrivenDataAssociation]]
-[[Spiking neural network]]
 [[SpikingNeuralNetworkTopologyMapping]]
 [[SpikingNeuralNetworkTopology]]
 [[SpikingNeuralNetwork]]
@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[TCC_SpikingIntegration]]
+[[TopologyDrivenSpiking]]
 [[Topology_Centric_Spiking]]
 
 ## Sources

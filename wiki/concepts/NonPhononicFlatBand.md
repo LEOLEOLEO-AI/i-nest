@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[ML_Accelerated_Characterization]]
 [[ManufacturingCloudOrchestration]]
 [[Metropolis_Update]]
+[[Metropolis_Update_Rule]]
 [[NetworkScienceLossFunction]]
 [[Network_Topology_Design]]
 [[Neural_Operator]]

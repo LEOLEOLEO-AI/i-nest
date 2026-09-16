@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Critical_Region_Extension]]
 [[CrossbarFabricTopology]]
 [[Crossover_Physics]]
+[[Dimensionality_Modularity_Tradeoff]]
 [[EdgeIoTEnergyAwareness]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

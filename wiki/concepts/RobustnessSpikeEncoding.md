@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Loihi2_OnChip_Learning]]
 [[Loihi]]
+[[MetalHalidePerovskiteMemristor]]
 [[MultibodyInteractionCascade]]
 [[NeuromorphicHardwareDeployment]]
 [[NeuromorphicHardware]]

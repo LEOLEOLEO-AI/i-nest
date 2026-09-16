@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[GraphBasedSemanticRouting]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[InterconnectConstrainedEmergence]]
 [[Interconnect_Routing]]
 [[MemoryDrivenRouting]]
 [[Memristive_Interconnect]]

@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AINext_Initiative]]
 [[ANN_SNN_WeightSpaceGap]]
+[[AcousticAnomalyDetection]]
 [[AdaptiveAsymmetricSurrogateGradient]]
 [[Avoided_Criticality]]
 [[BurstSuppressionMechanism]]
@@ -46,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
 [[SynapticReinforcementConsolidation]]
+[[Syncytial_Mesh]]
 [[Syncytial_Mesh_Model]]
 [[iNEST]]
 

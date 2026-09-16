@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Avoided_Criticality]]
+[[Baseline_Change_Record]]
 [[BrainScaleS_AsyncEventCircuit]]
 [[BurstSuppressionMechanism]]
 [[BurstSuppression]]
@@ -39,7 +40,6 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]
 [[Self_Organized_Criticality]]
-[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[Syncytial_Mesh]]
 [[Syncytial_Mesh_Model]]

@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_Theory]]
 [[CST_Theory_V27_FINAL]]
 [[CST计量仪]]
+[[Capable_Agent_Knowledge]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[ComplexSystemMemory]]
 [[ComplexSystem_Definition]]

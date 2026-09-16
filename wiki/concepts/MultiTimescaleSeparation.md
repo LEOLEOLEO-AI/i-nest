@@ -38,6 +38,8 @@ Auto-extracted concept from raw material compilation.
 [[Crystallized_Neural_Manifolds]]
 [[Deep_Thermalisation]]
 [[EdgeAI_Market_Consolidation_Driver]]
+[[FlagOS_Interconnect_Topology]]
+[[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[LongRangeNonlinearSigmaModel]]
 [[MasterEquationRG]]

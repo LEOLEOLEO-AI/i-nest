@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenRiskAssessment]]
 [[EventDrivenSensoryEncoding]]
 [[EventDrivenTracking]]
+[[EventDrivenTrajectoryEncoding]]
 [[Event_Driven_Architecture]]
 [[InputAdaptiveComputation]]
 [[Memory_Wall]]

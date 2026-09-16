@@ -62,6 +62,7 @@ Auto-extracted concept from raw material compilation.
 [[Representation_Learning_Generalization]]
 [[Reservoir_Computing]]
 [[Swarm_Coordination]]
+[[Syncytial_Information_Integration]]
 [[TemporalEchoMemory]]
 [[Whole_Organism_Behavioral_Assay]]
 [[analog computation]]

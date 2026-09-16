@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]
 [[RenormalizationGroup_Scaling]]
+[[Runtime_Level_Scheduling]]
 [[SDI_Bond]]
 [[SDSoW]]
 [[SDSoW_Architecture]]

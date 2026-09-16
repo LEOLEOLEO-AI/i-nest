@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Network_Layer_Stacking]]
 [[EulaminateOverrepresentation]]
 [[Evolutionary_Computability]]
+[[Evolutionary_Structure_Computability]]
 [[Exponential_CST_Coupling]]
 [[Heterogeneous_Integration]]
 [[Intelligent_Computing_Infrastructure]]

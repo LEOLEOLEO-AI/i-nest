@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_NoC_Fabric]]
 [[Critical_Region_Extension]]
 [[CrossbarInterconnect]]
+[[DBF_Reconfigurable_Processor]]
 [[Defense_Industrial_Base_Reshaping]]
 [[EventDrivenAsync]]
 [[EventDrivenAsynchronousRouting]]

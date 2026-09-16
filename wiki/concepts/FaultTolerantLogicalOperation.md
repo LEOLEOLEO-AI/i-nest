@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetwork_Service_Composition]]
 [[Information_Theoretic_Selection]]
 [[Intelligence_Emergence]]
+[[IoTEdgeEnergyOptimization]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[SDI_Bond]]

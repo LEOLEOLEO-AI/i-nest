@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Fading_Memory_Property]]
 [[FirstPrinciples_AI]]
 [[Fixed_Cost_Dominance]]
+[[Generation_Readiness_Assessment]]
 [[IntegratedInformationFreeEnergyBridge]]
 [[Interconnect_Routing]]
 [[Memristor]]

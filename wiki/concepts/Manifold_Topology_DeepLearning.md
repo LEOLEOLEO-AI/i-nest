@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[OscillatoryDynamicsTopology]]
 [[PhotonicPackagingEfficiency]]
 [[PhotonicStateRetention]]
+[[SixClassSkeletonAsRPrimitiveSpace]]
 [[TCC]]
 [[TopologicalComplexityCeiling]]
 [[TopologyAware_Learning]]

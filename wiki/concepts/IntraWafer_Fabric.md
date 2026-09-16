@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Driven_Power_Density_Scaling]]
+[[AI_Faculty_Forum_2026]]
 [[Bipartite_Interconnect]]
 [[Bipartite_Interconnect_Design]]
 [[Interconnect_Routing]]

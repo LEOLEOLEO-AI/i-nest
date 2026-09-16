@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[LLMDrivenPathSelection]]
 [[MagneticOrderTopologyCoupling]]
 [[Memristive_Topology]]
+[[NetworkArchitectureSearch]]
 [[Network_Topology_Design]]
 [[Quantum_Criticality]]
 [[SelfOrganization]]

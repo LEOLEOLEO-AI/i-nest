@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[EvolutionaryDiversityPreservation]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[GeometricNeuromorphicFusion]]
+[[IMPLY_ISA]]
 [[In_Package_Neuromorphic_Integration]]
 [[IntegratedInformationFreeEnergyBridge]]
 [[Interconnect_Routing]]

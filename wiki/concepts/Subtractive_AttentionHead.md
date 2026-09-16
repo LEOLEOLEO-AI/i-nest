@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Analysis_Framework]]
 [[DerivativeLineage]]
 [[Differential_Encoding]]
+[[Distributed_Spike_Communication]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

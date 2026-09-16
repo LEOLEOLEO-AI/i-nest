@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[ActionPrototypeClustering]]
 [[Algorithm_Hardware_CoDesign]]
 [[AnisotropicGaussianPrimitives]]
 [[CST_Spatiotemporal_Coefficient]]
@@ -33,8 +34,8 @@ Auto-extracted concept from raw material compilation.
 [[FixedOverheadCost]]
 [[Memristor]]
 [[Memristor_Synapse]]
+[[Neuromorphic_Computing]]
 [[SNN]]
-[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]

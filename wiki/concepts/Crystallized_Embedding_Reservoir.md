@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[NonEquilibriumComputing]]
 [[OpportunisticRoutingRL]]
 [[OpportunisticRouting]]
+[[PropertyPredictionModeling]]
 [[RecursiveSelfReferentialArchitecture]]
 [[ReproducibleReservoirComputing]]
 [[Reservoir_Computing]]

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[CertifiedBifurcationDetection]]
 [[ChiralTopologicalMatter]]
 [[Complex_System_Theory]]
+[[Complexity_Coordination_Layer]]
 [[Decoupled_Prior_Integration]]
 [[DendriticReservoirState]]
 [[ERI_2_0_Strategy]]

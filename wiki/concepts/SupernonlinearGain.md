@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[CommunicationAsComputation]]
+[[Express_Link_Virtualization]]
 [[FlagOS_2_0]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Bottleneck]]

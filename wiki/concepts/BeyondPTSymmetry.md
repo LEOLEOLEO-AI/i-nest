@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[NonEquilibriumComputing]]
 [[OpportunisticRoutingRL]]
 [[OpportunisticRouting]]
 [[PairwiseCorrelationConstraint]]

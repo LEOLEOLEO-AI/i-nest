@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Compact_Boson_Dynamics]]
 [[Computation_Access_Routing]]
 [[Compute_In_Memory_Neuromorphic]]
+[[CrossDomain_Integration]]
 [[CrossMaterial_Integration]]
 [[Deep_Thermalisation]]
 [[EntanglementAwareRouting]]
@@ -57,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[TCC]]
+[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

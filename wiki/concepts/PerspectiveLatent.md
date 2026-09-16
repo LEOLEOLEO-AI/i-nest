@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[BigBrainCellularAxis]]
 [[Biologically_Plausible_Learning_Rules]]
+[[BurstTemporalPlasticity]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[ConverterDrivenStability]]
 [[CriticalityDrivenAdaptation]]

@@ -58,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[NoC_Chiplet_iNEST_Wafer]]
+[[Obsidian_Plugin_Architecture]]
 [[P_Paradigm]]
 [[RTC_Primitive]]
 [[RTC_Primitives]]

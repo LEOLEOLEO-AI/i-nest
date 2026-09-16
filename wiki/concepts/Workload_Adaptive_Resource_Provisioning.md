@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Compute_In_Memory_Neuromorphic]]
 [[Emergence_Phase]]
+[[FloquetTopologicalOrder]]
 [[FreeToken_Offloading]]
 [[Heterogeneous_Integration]]
 [[In_Memory_Computing]]
@@ -59,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologyAwareStateMigration]]
 [[Workload_Aware_Partitioning]]
+[[advanced packaging]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

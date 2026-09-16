@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Service_Orchestration]]
 [[AdiabaticMultimodeBend]]
 [[AdvancedPackagingInterconnect]]
+[[AdvancedPackaging]]
 [[Advanced_Packaging]]
 [[Advanced_Packaging_Route]]
 [[Advanced_Packaging_for_Space]]
@@ -47,8 +48,10 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Stacking]]
 [[ChiralSymmetryClasses]]
 [[CoPackagedOptics]]
+[[Compute_In_Memory_Neuromorphic]]
 [[Heterogeneous_Integration]]
 [[TCC]]
+[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

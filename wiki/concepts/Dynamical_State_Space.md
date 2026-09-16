@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Fixed_Reservoir_Unitary]]
 [[GateBasedQuantumReservoir]]
 [[HardwareAware_DesignSpace]]
+[[HigherOrderSimplicialDynamics]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[MeanFieldSpinGlass]]

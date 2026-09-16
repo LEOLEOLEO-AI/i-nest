@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Active_Inference_Topology]]
 [[AnomalousSpinTransport]]
 [[AutonomousAdaptation]]
+[[Chemical_Bond_Effect]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]

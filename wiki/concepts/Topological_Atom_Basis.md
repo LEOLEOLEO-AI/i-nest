@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[AllReduce_Decomposition]]
 [[Alpha_Coefficient_Phase_Transition_Amplification]]
 [[Analog_InMemory_Processing]]
+[[AnisotropicTensileStrength]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

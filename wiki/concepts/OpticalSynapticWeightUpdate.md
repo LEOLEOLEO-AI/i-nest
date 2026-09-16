@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Attention_Residuals]]
 [[AutonomousAdaptation]]
+[[Beyond_Moore_Pathway]]
 [[CST计量仪]]
 [[Causal_Emergence]]
 [[Causal_Emergence_Architecture]]

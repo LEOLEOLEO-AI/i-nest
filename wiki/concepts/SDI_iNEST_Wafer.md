@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[11_SDI节点接口规范与化合键定义_dup]]
 [[AI_Faculty_Forum_2026]]
+[[AnalogDomainCompression]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]
@@ -39,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[NoC]]
 [[NoC_Chiplet_Wafer_Stack]]
+[[OptimalRepresentation]]
 [[OptimalRepresentations]]
 [[Residual_Connection_Removal]]
 [[SDI_Bond]]

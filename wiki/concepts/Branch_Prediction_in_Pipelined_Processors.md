@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[Discrete_Event_Spike_Simulation]]
 [[EEGSpikeEncoding]]
+[[ElasticInferenceScheduling]]
 [[ErrorAmplificationLimits]]
 [[EventDrivenAsync]]
 [[EventDrivenMotionDeblurring]]

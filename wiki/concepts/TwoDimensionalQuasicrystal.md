@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveArchitecture]]
 [[AdjointWaveControl]]
 [[ArtificialProprioception]]
+[[Brain_Inspired_Switchless_Architecture]]
 [[CircuitTopologyEncoding]]
 [[Complex_System_Theory]]
 [[Confinement]]

@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Consumer_GPU_Inference]]
 [[CriticalDataThreshold]]
 [[DynamicInference]]
+[[EntanglementEntropyScaling]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

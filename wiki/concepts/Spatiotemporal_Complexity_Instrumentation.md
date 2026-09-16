@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveDensityControl]]
 [[Asymmetric_Interaction_Graph]]
 [[Complex_System_Theory]]
+[[DynamicInference]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

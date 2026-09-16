@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC]]
 [[Obsidian_Plugin_Architecture]]
 [[OnChipOpticalTweezers]]
+[[OpticalTopologyReconfiguration]]
 [[RTC_Primitive]]
 [[RTC_Primitives]]
 [[SDI_Bond]]

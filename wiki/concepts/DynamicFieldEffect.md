@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[FreeEnergyMinimizationRouting]]
 [[FreeEnergyMinimization]]
 [[Generation_Readiness_Assessment]]
+[[InNetworkNeuromorphicInterconnect]]
 [[Interconnect_Routing]]
 [[LowRankPerturbation]]
 [[MLChiralityDecoder]]

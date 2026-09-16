@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[EcosystemTopologyCoupling]]
 [[EmergentTaskDecomposition]]
+[[HierarchicalCrackPatternGeneration]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]
 [[MultiScalePathDivergence]]

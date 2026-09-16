@@ -1,0 +1,101 @@
+
+============================================================
+  iNEST + TCC Research Pipeline v3.3
+  2026-09-16 16:08
+============================================================
+[16:08:11] [S2] Searching Semantic Scholar (19 queries)...
+[16:08:28]   S2: 429 rate limited; skip S2 for this run and continue with arXiv/GN
+[16:08:28] [arXiv] Searching arXiv (via proxy, 21 queries)...
+[16:08:31]   arXiv skip irrelevant: Persistent Recurrent Memory Between Transformer Layers - Imp
+[16:08:31]   arXiv skip irrelevant: Repurposing Unified Topological Signatures for Graph Represe
+[16:08:31]   arXiv skip irrelevant: Structural Negative Transfer in Federated Graph Neural Netwo
+[16:08:59]   Insight [1/3]: Stitch-Free, Diamond-Scribed Silicon Nitride Photo...
+[16:08:59]   arXiv skip irrelevant: Parametric two-qubit gates via Landau-Zener interference
+[16:08:59]   arXiv skip irrelevant: HydroMap: Probabilistic Water Surface Elevation Mapping for 
+[16:09:06]   arXiv skip irrelevant: Pinching Antennas for Next-Generation Wireless Communication
+[16:09:06]   arXiv skip irrelevant: Quantum Simulation of Two-Dimensional Free Dirac Hamiltonian
+[16:09:06]   arXiv skip irrelevant: A 420 GOPS/W CGRA with a Configurable MAC and Dynamic Trunca
+[16:09:13]   arXiv skip irrelevant: Nonlinear electron-phonon interactions from first principles
+[16:09:13]   arXiv skip irrelevant: Multiscale Reconstruction of Multiplex Networks with Higher-
+[16:09:13]   arXiv skip irrelevant: Adaptive Relational Learning on Multi-instance Quantum Data 
+[16:09:20]   跳过低相关: A Modular, Topology-Aware Software Stack for Entan...
+[16:09:20]   arXiv skip irrelevant: Distributed Convex Second-Order Optimization for AC/DC Hybri
+[16:09:20]   Insight [3/3]: A Unified Interconnection Network for Chiplet-Base...
+[16:09:25]   arXiv: batch separator, pausing 10s...
+[16:09:36]   arXiv skip irrelevant: Repurposing Unified Topological Signatures for Graph Represe
+[16:09:36]   arXiv skip irrelevant: Unified Heterogeneous Graph Neural Network solver for Power 
+[16:09:36]   arXiv skip irrelevant: A Cyber Range Evaluation of Autonomous Network Incident Resp
+[16:09:43]   Insight [1/3]: Budgeted Express-Mesh: Traffic-Aware Link Placemen...
+[16:09:43]   arXiv skip irrelevant: HYDRA: Quantifying Botnet Resource Thresholds for Efficient 
+[16:09:43]   Insight [1/3]: Topology-Aware Congestion Pricing: Demand Robust R...
+[16:09:49]   arXiv skip irrelevant: A Case Study on Noise Resilient Operator Selection in Adapti
+[16:09:49]   arXiv skip irrelevant: Hamilton-Jacobi Reachability for Hybrid Systems: Unified Goa
+[16:09:49]   arXiv skip irrelevant: Learning-Guided Planning in Large Dynamic Action Spaces: Bud
+[16:09:56]   arXiv skip irrelevant: Terahertz two-dimensional coherent spectroscopy: unlocking c
+[16:09:56]   arXiv skip irrelevant: Topological Characteristics for the Analysis of Vector Field
+[16:09:56]   arXiv skip irrelevant: Spontaneous Vortex Instability in Active Nematics
+[16:10:05]   arXiv skip irrelevant: Recovering Physical Parameters from Fragmented Observations 
+[16:10:05]   arXiv skip irrelevant: AutoLab: An Internet-Accessible Experimental Platform for Op
+[16:10:10]   arXiv: batch separator, pausing 10s...
+[16:10:22]   arXiv skip irrelevant: A Spatiotemporal Extension of the Neuromorphic DBSCAN Implem
+[16:10:22]   arXiv skip irrelevant: Optical-Flow Wingbeat Counting in MuJoCo: A Comparison of Co
+[16:10:43]   Insight [2/3]: Scaled Hippocampus-inspired Neural Networks on Neu...
+[16:10:50]   Insight [1/3]: Self-Emergence Agent Architecture:Behavior-Inertia...
+[16:10:50]   arXiv skip irrelevant: Emergence World: Adversarial Stress-Testing of Long-Horizon 
+[16:10:50]   arXiv skip irrelevant: Development of a Physics-Informed Neural Framework, MEOWN, f
+[16:10:57]   arXiv skip irrelevant: Bridging the Gap Between Homogeneous and Heterogeneous Async
+[16:10:57]   arXiv skip irrelevant: Exo-GPU: Safe, Imperative, User-schedulable Programming for 
+[16:10:57]   arXiv skip irrelevant: Privacy-enhanced federated learning via asynchronous aggrega
+[16:11:03]   arXiv skip irrelevant: A system-centered probabilistic formalism linking multiple e
+[16:11:03]   arXiv skip irrelevant: Toward Governance-Aware Autonomous GIS: A Narrative Review o
+[16:11:03]   arXiv skip irrelevant: Generalized Parton Distributions: Phenomenology, Extraction,
+[16:11:11]   arXiv skip irrelevant: Multiscale Reconstruction of Multiplex Networks with Higher-
+[16:11:11]   arXiv skip irrelevant: WCCS: Efficient Wedge Conductance Community Search over Larg
+[16:11:11]   arXiv skip irrelevant: STHMoE: Hypergraph-Enhanced Heterogeneous Dependency Coordin
+[16:11:16]   arXiv: batch separator, pausing 10s...
+[16:11:28]   arXiv skip irrelevant: Bio-inspired Learning and Decision-Making with Probabilistic
+[16:11:28]   arXiv skip irrelevant: Seven Sources of Physical AI Capability Formation
+[16:11:38]   arXiv skip irrelevant: A Chip-scale Space-time Multiplexed Gaussian Boson Sampling 
+[16:11:38]   跳过重复: Coherent Floquet quantum reservoirs for molecular ... [Title: Coherent Floquet quantum reservoirs for molecular property prediction]
+[16:11:45]   arXiv skip irrelevant: Colored Interaction-Profile Realization: Complexity of Match
+[16:11:45]   Insight [1/3]: Learning to Solve Hard Problems in RL for LLMs by ...
+[16:11:45]   跳过重复: Cortical information transfer reveals conserved he... [Title: Cortical information transfer reveals conserved hemispherical network dynamics a]
+[16:11:52]   Insight [1/3]: Partial projected ensembles reveal slow tilt-const...
+[16:11:52]   arXiv skip irrelevant: A neural-astrocyte architecture implements a hybrid automato
+[16:11:52]   arXiv skip irrelevant: Dependency, Compression, and Synergy: A Unified Information-
+[16:12:04]   arXiv: batch separator, pausing 10s...
+[16:12:18]   arXiv skip irrelevant: HYDRA: Quantifying Botnet Resource Thresholds for Efficient 
+[16:12:18]   arXiv skip irrelevant: Distributed Fast Fixed-Point Algorithms for Composite Monoto
+[16:12:23] [arXiv] 8 new papers, 0 errors across 21 queries
+[16:12:23] [GN] Google News RSS...
+[16:12:44]   GN error (TCC): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[16:13:06]   GN error (iNEST): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[16:13:28]   GN error (emergence): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[16:13:50]   GN error (complex-networks): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[16:13:51] [GN] 0 new articles
+
+  Total: 8 new items to inbox
+[16:13:51] [Process] LLM classify (free tier, limit=20)...
+[16:14:14] [Process] Classified: 0
+[16:14:14] [Genspark] Generating research brief...
+[16:14:15] [Genspark] Research brief written: genspark_research_brief.md
+[16:14:15] [Graph] Scanning wiki links...
+[16:16:02] [Graph] 12997 files, 272989 links
+[16:18:10] [Graph] Exported: 12997 nodes, 269487 edges
+[16:18:11] [Graph] 0 missing backlinks
+[16:18:32] [DailyGen] Daily_Action + Focus + Insights generated
+[16:18:32] [Review] Research task proposals refreshed
+
+============================================================
+  Pipeline v3.3 Complete
+  Sources: 0(S2)+8(arXiv)+0(GN) | Written: 8 new papers
+  Processed: 0 | Nodes: 12997 edges: 269487 | Missing links: 0 | Genspark: OK
+  Elapsed: 621s
+============================================================
+[16:18:33] [State] research_state.json updated
+[16:18:33] [Evolution] Evidence + hypotheses updated
+[16:19:33] [Wiki] Warning: Command '['C:\\Users\\LEO\\AppData\\Local\\Programs\\Python\\Python310\\python.exe', 'D:\\Obsidian\\vault\\90_System\\scripts\\wiki_compiler.py']' timed out after 60 seconds
+[16:19:34] [Insight] Cross-domain bridges updated
+[16:20:20] [Tasks] Research recommendations updated
+[16:20:21] [Dashboard] Live dashboard published
+[16:20:22] [Homepage] Home.md auto-refreshed

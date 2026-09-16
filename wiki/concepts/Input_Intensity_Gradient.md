@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveCompetingInteractions]]
 [[Analog_InMemory_Processing]]
 [[AndersonTransition]]
+[[Asymptotic_Exact_Solution]]
 [[AutonomousAdaptation]]
 [[AutonomousServiceNegotiation]]
 [[BrainScaleTopologyExploitation]]

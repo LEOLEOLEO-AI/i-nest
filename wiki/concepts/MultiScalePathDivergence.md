@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[EcosystemTopologyCoupling]]
 [[Epidemic_Mitigation_Strategy]]
 [[FederatedServiceGraph]]
+[[HierarchicalCrackPatternGeneration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]

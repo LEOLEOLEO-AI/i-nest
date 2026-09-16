@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Network_Layer_Stacking]]
 [[DeviceLevelNonlinearityScaling]]
 [[DeviceLevelNonlinearity]]
+[[Emergent_Intelligence_Threshold]]
 [[HybridMemristorArray]]
 [[Intelligence_Emergence]]
 [[Memristor]]

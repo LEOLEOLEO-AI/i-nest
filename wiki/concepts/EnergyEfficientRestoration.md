@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikingNeuralPolicies]]
 [[Spiking_Neural_Network]]
 [[StructuredTemporalAttention]]
+[[TemporalAdversarialPerturbation]]
 [[TemporalSparsityExploitation]]
 [[iNEST]]
 

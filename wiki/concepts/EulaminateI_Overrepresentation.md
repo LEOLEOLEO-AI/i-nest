@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[BehavioralNeuromorphicCorrelates]]
 [[Complex_System_Theory]]
 [[Current_Compliance_Multilevel_LRS]]
+[[DTGA]]
 [[EpoxyMoldingCompoundEncapsulation]]
 [[GenerativeTopologyModels]]
 [[HierarchicalAttention_MIL]]

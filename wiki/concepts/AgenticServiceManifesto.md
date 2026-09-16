@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Agile_Resilient_Defense_Ecosystem]]
 [[AnalogDomainCompression]]
 [[Ant_Swarm_Functional_Control]]
+[[ColorRouting]]
 [[Critical_Region_Extension]]
 [[CriticalityInducedTopology]]
 [[Criticality]]

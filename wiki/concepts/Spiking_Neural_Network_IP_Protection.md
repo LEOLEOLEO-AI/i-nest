@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenMotionDeblurring]]
 [[EventDrivenSynchronization]]
 [[Neuromorphic_Computing]]
+[[PowerLawScaling]]
 [[SNN]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]

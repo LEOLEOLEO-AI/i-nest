@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveDendriteSNN]]
 [[AnomalousSpinTransport]]
 [[AstrocyteInspiredRepair]]
+[[BackflowTransformation]]
 [[BigBrainCellularAxis]]
 [[BrownianCastleInterface]]
 [[BrownianCastleInterfaces]]

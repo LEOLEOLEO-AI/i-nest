@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Communication]]
 [[FPGA_NeuromorphicMapping]]
 [[FixedOverheadFloor]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[NeuromorphicStatusAwareness]]
@@ -54,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[TCC_SpikingIntegration]]
+[[TopologyDrivenSpiking]]
 [[Topology_Centric_Spiking]]
 
 ## Sources

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[AnisotropicGaussianPrimitives]]
 [[Architectural_Conditioning]]
+[[AtomicGeometryEncoding]]
 [[AvalancheTriggeringMechanism]]
 [[Bosonic_SPT_Phases]]
 [[CSI_Temporal_Encoding]]

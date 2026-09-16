@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[BranchingRatio]]
 [[ChannelEventSparsity]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
+[[ConnectomeFidelityClaim]]
 [[Connectome]]
 [[ConsciousnessEngineeringLoop]]
 [[CorticalTravelingWave]]

@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicSynchronyMetric]]
 [[ElectricFieldModulatedCoupling]]
 [[Emergent_Order_Deep_Belief_Networks]]
+[[EvolvingArchitectureDynamics]]
 [[ExactWiringRouting]]
 [[GrandCanonicalOptimization]]
 [[Intelligence_Emergence]]

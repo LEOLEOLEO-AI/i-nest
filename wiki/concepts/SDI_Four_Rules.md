@@ -81,6 +81,7 @@ Auto-extracted concept from raw material compilation.
 [[SingleSourceOfTruthMetric]]
 [[SmallWorldNetworks]]
 [[Spacetime_Coupling_Coefficient]]
+[[SpatiotemporalComplexityIndex]]
 [[Spatiotemporal_Synergy]]
 [[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]

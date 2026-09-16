@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[CommunicationAwareComputeRelocation]]
 [[CorticalTypeDiversity]]
 [[DTGA]]
+[[Express_Link_Virtualization]]
 [[Free_Energy_Topology_Mapping]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]

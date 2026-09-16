@@ -21,9 +21,11 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Application_Scenario_Reconstruction]]
+[[AcceleratedMaterialScreening]]
 [[ActionPrototypeClustering]]
 [[Active_Inference_Topology]]
 [[AdjustableDynamics]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]
 [[TCC]]
@@ -36,3 +38,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- Dual_Unitary_Reservoir (merged 2026-09-17)

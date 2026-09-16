@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Architecture]]
 [[SDSoW_Industry_Alliance]]
 [[SDSoW_Industry_Ecosystem_Collaboration]]
+[[SDSoW_Strategic_Planning]]
 [[TCC]]
 [[Wafer_Interconnect]]
 [[Wafer_Scale_Integration]]

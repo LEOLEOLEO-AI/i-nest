@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[ContinuousTimeSNN]]
 [[CriticalityDrivenStateTransition]]
+[[CriticalityOffCriticalityTransition]]
 [[Criticality]]
 [[Criticality_Based_Feature_Extraction]]
 [[CrossLayer_SignalRouting]]

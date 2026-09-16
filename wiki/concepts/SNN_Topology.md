@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AllParallel_SpikeBased_Computing]]
 [[BurstGatedRouting]]
 [[Continuous_Discrete_Compute_Gap]]
 [[Interconnect_Routing]]
@@ -27,7 +28,6 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
 [[SNN]]
-[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 

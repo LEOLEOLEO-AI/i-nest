@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Combinatorial_Optimization_Readout]]
 [[Complex_System_Theory]]
 [[Connectome]]
+[[Connectome_Verification_Protocol]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[Course_Based_FPGA_Projects]]

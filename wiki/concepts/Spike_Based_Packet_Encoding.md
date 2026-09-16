@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[BrainInspired_Chip]]
 [[ConductingPolymerDendriteMemory]]
 [[EnergyEfficientRestoration]]
+[[EventBasedBioSignalFrontEnd]]
 [[Event_Driven_Architecture]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]

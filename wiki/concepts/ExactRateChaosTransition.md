@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[Cross_Network_Representation_Transfer]]
 [[Dynamic_Expert_Routing]]
+[[EpidemicThreshold]]
 [[ExplainableEnergyAI]]
 [[InteractingQuasiPeriodicChain]]
 [[Interconnect_Routing]]

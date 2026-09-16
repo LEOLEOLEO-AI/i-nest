@@ -67,6 +67,7 @@ Auto-extracted concept from raw material compilation.
 [[ScalingBehaviourDeviations]]
 [[Scaling_Law_Breakdown]]
 [[SelfOrganizedOscillatoryLearning]]
+[[SelfOrganized_Stability]]
 [[catastrophic forgetting]]
 [[iNEST]]
 [[涌现]]

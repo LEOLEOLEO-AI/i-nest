@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Forum_Demo_Narrative]]
 [[Baseline_Draft_Status]]
 [[BioPlausiblePredictiveCoding]]
+[[Bipartite_Interconnect_Design]]
 [[BurstGatedRouting]]
 [[BurstInterleaving]]
 [[Complex_System_Theory]]

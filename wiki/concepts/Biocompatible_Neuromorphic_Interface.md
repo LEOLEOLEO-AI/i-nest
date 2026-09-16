@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[AutonomousCircuitMorphogenesis]]
 [[CertifiedBifurcationDetection]]
 [[CollectiveStabilityMetric]]
+[[CollectiveStateStability]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

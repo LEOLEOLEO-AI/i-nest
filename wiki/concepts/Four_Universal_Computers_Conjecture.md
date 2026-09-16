@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[Compact_Boson_Dynamics]]
 [[Compute_In_Memory_Neuromorphic]]
+[[CrossDomain_Integration]]
 [[DecliningModularity]]
 [[Heterogeneous_Integration]]
 [[In_Memory_Computing]]
@@ -40,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[LightweightNeuromorphic]]
 [[Neuromorphic_Computing]]
 [[TCC]]
+[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

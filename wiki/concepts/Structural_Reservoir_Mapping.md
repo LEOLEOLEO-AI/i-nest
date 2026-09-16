@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Fixed_Reservoir_Unitary]]
 [[HardwareAware_DesignSpace]]
 [[LindbladInspiredReservoir]]
+[[MultipartiteEntanglementFractal]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]

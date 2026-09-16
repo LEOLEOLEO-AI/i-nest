@@ -60,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[RecursiveSelfReferentialArchitecture]]
+[[RenormalizationGroup_DeviceNonlinearity]]
 [[Reservoir_Computing]]
 [[complex system]]
 [[iNEST]]

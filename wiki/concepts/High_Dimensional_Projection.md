@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Abilities]]
 [[Evolutionary_Computability]]
+[[FermiSurfaceChiralityProjection]]
 [[FirstPrinciples_AI]]
 [[Hierarchical_Reservoir_Topology]]
 [[HypergraphMeanFieldApproximation]]

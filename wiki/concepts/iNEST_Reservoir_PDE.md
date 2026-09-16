@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_ProjectManager_Model]]
 [[EndToEndTopologyLearning]]
 [[ErrorSuppressedPipeline]]
+[[Fixed_Reservoir_Unitary]]
 [[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_State]]
 [[Network_Topology_Design]]

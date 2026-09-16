@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveFunctionalTopology]]
 [[AdjointWaveControl]]
 [[CavityMethodAnalysis]]
+[[CoPackagedOptics]]
 [[Complex_System_Theory]]
 [[Computation_Access_Routing]]
 [[EvolvingArchitectureDynamics]]

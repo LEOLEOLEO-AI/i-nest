@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[InputAdaptiveComputation]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[Long_Range_Interactions]]
 [[MultiSourceTaskonomy]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

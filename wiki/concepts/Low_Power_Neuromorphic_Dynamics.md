@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Advanced_Packaging_for_Space]]
 [[Analog_InMemory_Processing]]
 [[AutonomousServiceNegotiation]]
+[[BigBrainCellularAxis]]
 [[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[ComplexSystem_Definition]]
@@ -40,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[advanced packaging]]
 [[iNEST]]
 [[神经网络]]
 

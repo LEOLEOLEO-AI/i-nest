@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Delay_Aware_Autograd_Spiking_Framework]]
 [[Distributed_Spike_Communication]]
 [[EEGSpikeEncoding]]
+[[ElasticInferenceScheduling]]
 [[ErrorAmplificationLimits]]
 [[EventDataNonUniformity]]
 [[EventDrivenAutoregression]]

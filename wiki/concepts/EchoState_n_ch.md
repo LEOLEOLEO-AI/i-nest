@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Ferroelectric_Devices]]
 [[Fixed_Reservoir_Unitary]]
 [[Globally_Optimal_SNN_Training]]
+[[HardwareAware_DesignSpace]]
 [[Memristor]]
 [[Memristor_Crossbar]]
 [[Memristor_Synapse]]

@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicTransformerTopology]]
 [[Neuromorphic_Computing]]
 [[PropertyPredictionModeling]]
+[[Quantum_Spin_Glass]]
 [[ReconfigurableSpikingRouting]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]

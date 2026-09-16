@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Mixture_of_Experts]]
 [[Spiking_Neural_Network]]
 [[SpontaneousOrderMechanism]]
+[[Sub_Biological_Energy_Budget]]
 [[TCC]]
 [[TSVEncapsulationStress]]
 [[VerticalOpticalInterconnect]]

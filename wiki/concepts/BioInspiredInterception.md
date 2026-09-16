@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Bipartite_Interconnect]]
 [[Bipartite_Interconnect_Design]]
 [[Complex_System_Theory]]
+[[DistinguishableHelium4]]
 [[ElasticSpikingTransformer]]
 [[EventDrivenAttentionMechanism]]
 [[Event_Driven_Architecture]]

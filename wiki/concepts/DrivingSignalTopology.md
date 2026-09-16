@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Decoupling]]
 [[CollectiveStateTopology]]
 [[Complex_System_Theory]]
+[[Critical_Region_Extension]]
 [[Criticality]]
 [[Heterogeneous_Integration]]
 [[InNetworkComputing]]

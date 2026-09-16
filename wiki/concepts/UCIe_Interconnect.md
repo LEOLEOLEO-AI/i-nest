@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_iNEST_Wafer]]
 [[OnChipOpticalTweezers]]
 [[OpticallyWritableAtomicVaporMemory]]
+[[RTC_Primitives]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[TCC]]

@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Hippocampal_Encoding_Mechanism]]
 [[InferencePipelineTopologyAwareScheduling]]
 [[Intelligence_Emergence]]
+[[LocalityConstrainedEntanglement]]
 [[MeasurementEfficientDisorderAware]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]

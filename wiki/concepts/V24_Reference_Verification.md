@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AmorphousTopologicalSubstrate]]
 [[Asymmetric_Interaction_Matrix]]
 [[Attention_Residuals]]
+[[BackpropagationFreeLearning]]
 [[CST_Intelligence_Emergence]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -41,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[TCC]]
+[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

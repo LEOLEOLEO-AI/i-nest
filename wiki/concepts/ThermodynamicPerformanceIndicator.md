@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[ComplexSystem_Definition]]
 [[Complex_System_Theory]]
+[[Complexity_Coordination_Layer]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[CrossDomain_Neuromorphic_Abstraction]]
 [[Differential_Readout_Scheme]]

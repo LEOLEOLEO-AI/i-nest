@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[PhaseSynchronizationDetection]]
 [[SDI_Bond]]
 [[SDI_STDP]]
+[[SDI_STDP_Bond]]
 [[SDI_STDP_Rule]]
 [[SOC]]
 [[STDPDrivenTemporalBinding]]

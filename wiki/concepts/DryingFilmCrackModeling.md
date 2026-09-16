@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Gut_Brain_Immune_Network]]
 [[HippocampalNeocorticalIntelligence]]
 [[Intelligence_Emergence]]
+[[Memristive_STDP]]
 [[Memristor]]
 [[Memristor_Network]]
 [[Memristor_Synapse]]
@@ -44,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[NestedRepresentation]]
 [[Network_Specific_Embedding_Separation]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Interconnect]]
 [[NonEquilibrium_CorticalDynamics]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]
@@ -62,7 +64,6 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect_Memristor]]
 [[Wafer_Scale_Neuromorphic]]
 [[iNEST]]
-[[neuromorphic interconnect]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

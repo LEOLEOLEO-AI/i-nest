@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[BioPlausibleDisturbanceObserver]]
 [[BulletTrainScheduling]]
 [[BurstTemporalPlasticity]]
+[[Catastrophic_Forgetting_Mitigation]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Criticality]]

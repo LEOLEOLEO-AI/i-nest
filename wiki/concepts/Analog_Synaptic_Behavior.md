@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[FerroelectricSynapticArray]]
 [[Ferroelectric_Devices]]
 [[FixedOverheadCost]]
+[[HeterogeneousSynapticDelays]]
 [[Intelligence_Emergence]]
 [[Linguistic_Phase_Transition]]
 [[Memristor]]

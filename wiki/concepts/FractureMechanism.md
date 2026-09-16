@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicProgrammingRecycling]]
 [[EdgeIoTEnergyAwareness]]
 [[EquivariantGraphLayers]]
+[[Ferroelectric_ComputeInMemory]]
 [[HeterogeneousInference]]
 [[Heterogeneous_Chiplet_Customization]]
 [[Heterogeneous_Inference_Offload]]
@@ -65,6 +66,7 @@ Auto-extracted concept from raw material compilation.
 [[TemporalFeatureProjection]]
 [[TopologicalAndersonChernInsulator]]
 [[Topological_Semantic_Flow]]
+[[advanced packaging]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

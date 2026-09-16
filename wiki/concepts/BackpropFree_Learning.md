@@ -57,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[NCL神经计算定律详解]]
 [[Network_Topology_Design]]
 [[Non_Von_Neumann_Architecture]]
+[[QuantumInspiredHarmonySearch]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[TCC]]

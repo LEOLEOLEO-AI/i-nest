@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration]]
 [[Chiplet_Integration_Route]]
 [[CirculateFiringNeuron]]
+[[ConnectomeFidelityClaim]]
 [[FlexibilityThreshold]]
 [[Gate_Synthesis_Readout]]
 [[GroupSynchronization]]

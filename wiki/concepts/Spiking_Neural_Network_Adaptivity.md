@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[InNetworkNeuromorphicSimulation]]
 [[InNetworkNeuromorphic]]
+[[In_Network_Neuromorphic]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
@@ -29,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[SDI_Bond]]
 [[SDI_STDP]]
+[[SDI_STDP_Bond]]
 [[SNN]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]

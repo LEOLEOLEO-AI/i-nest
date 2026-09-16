@@ -38,9 +38,11 @@ Auto-extracted concept from raw material compilation.
 [[CrossDomain_Integration]]
 [[Data_Movement_Bottleneck]]
 [[DecliningModularity]]
+[[Emergence_Phase]]
 [[Heterogeneous_Integration]]
 [[In_Memory_Computing]]
 [[Neuromorphic_Computing]]
+[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[EnergyEfficientRestoration]]
 [[EventBasedBioSignalFrontEnd]]
 [[EventDrivenInference]]
+[[EventDriven_Edge_Perception]]
 [[Event_Driven_Architecture]]
 [[Neuromorphic_Computing]]
 [[SNN]]

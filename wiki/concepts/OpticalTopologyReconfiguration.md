@@ -65,6 +65,7 @@ Auto-extracted concept from raw material compilation.
 [[Swarm_Coordination]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[ThirdWaveAI]]
 [[TopologicalAndersonChernInsulator]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]

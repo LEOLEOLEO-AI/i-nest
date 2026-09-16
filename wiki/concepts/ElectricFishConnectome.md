@@ -32,9 +32,12 @@ Auto-extracted concept from raw material compilation.
 [[DataProvenanceIntegrity]]
 [[InNetworkNeuromorphicSimulation]]
 [[InNetworkNeuromorphic]]
+[[In_Network_Neuromorphic]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[TCC]]
+[[causal emergence]]
 [[iNEST]]
 
 ## Sources

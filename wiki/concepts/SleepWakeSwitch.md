@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[EnsembleCreditAssignment]]
+[[FlexibleManifoldReconfiguration]]
 [[InNetworkReconfiguration]]
 [[Interconnect_Routing]]
 [[JointFlightRoutingOptimization]]

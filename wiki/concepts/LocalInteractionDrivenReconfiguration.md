@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[EvolutionaryDiversityPreservation]]
 [[FPGA_Accelerated_SNN]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
+[[IMPLY_ISA]]
 [[Interconnect_Routing]]
 [[LossSpikePhenomenon]]
 [[MixedLabyrinthFractal]]

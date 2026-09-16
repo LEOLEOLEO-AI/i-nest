@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[ArchitecturalCondition]]
 [[Architectural_Conditioning]]
 [[Autonomous_Unmanned_Combat_Networking]]
+[[BarrierConditionedTrajectory]]
 [[Cognitive_Relapse_Decoupling]]
 [[ConstraintDrivenSelfOrganization]]
 [[Criticality]]

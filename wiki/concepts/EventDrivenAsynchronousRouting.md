@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Architecture]]
 [[Event_Driven_Communication]]
 [[FPGA_NeuromorphicMapping]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Military_AI_Revolution]]
 [[Network_Topology_Design]]
@@ -55,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Spiking_Temporal_Encoding]]
 [[TCC]]
+[[TCC_SpikingIntegration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

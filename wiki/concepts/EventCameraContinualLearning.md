@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Hardware_Paradigm]]
 [[QuantumStateSynapticTrace]]
 [[TrustworthyLearning]]
+[[WaveBasedComputation]]
 [[catastrophic forgetting]]
 [[iNEST]]
 

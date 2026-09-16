@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[CST计量仪]]
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
+[[Cryogenic_Syndrome_Compression]]
 [[DataCenter_Chip_Logic_Compression]]
 [[DimensionalityReductionForNetworkControl]]
 [[Disordered_Heisenberg_Model]]

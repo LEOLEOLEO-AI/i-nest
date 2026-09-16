@@ -33,14 +33,17 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_NoC_Routing]]
 [[NoC]]
 [[NoC_EventRouting]]
+[[SDI_Bond]]
+[[SDI_iNEST]]
 [[SDI_iNEST_Interconnect]]
 [[SNN]]
-[[Spiking neural network]]
+[[ST_SNN]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[TCC_Topology]]
 [[iNEST]]
+[[iNEST_Interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

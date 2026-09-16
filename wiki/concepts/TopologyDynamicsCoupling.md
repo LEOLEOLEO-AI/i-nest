@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[CST计量仪]]
 [[CatalyticReactionNetwork]]
 [[CerebellarLikeCircuit]]
+[[CertifiedBifurcationDetection]]
 [[Complex_System_Theory]]
 [[EmergentBeatPatternResolution]]
 [[Intelligence_Emergence]]

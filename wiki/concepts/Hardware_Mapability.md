@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[3D_Vertical_Interconnect]]
 [[3d]]
 [[4H_SiC_SubstrateProcessing]]
+[[AdvancedPackagingInterconnect]]
 [[ByteDance_Ada_Chip]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]

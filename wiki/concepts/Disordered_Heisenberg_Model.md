@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[DataCenter_Chip_Logic_Compression]]
 [[Deep_Thermalisation]]
 [[EpoxyMoldingCompoundFlow]]
+[[ErdosRenyi_Graph_Energy_Surface]]
 [[Heterogeneous_Integration]]
 [[ImaginaryGaugePhaseImprint]]
 [[IndexOrderingOptimization]]

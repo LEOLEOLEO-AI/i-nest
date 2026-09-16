@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[CrossbarArrayVLSI]]
 [[Dragonfly_Inspired_WaferScale]]
+[[Fractal_Topology_Expansion]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Topology]]
 [[Network_Topology_Design]]

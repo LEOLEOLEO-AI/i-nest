@@ -35,10 +35,12 @@ Auto-extracted concept from raw material compilation.
 [[CST计量仪]]
 [[Complex_System_Theory]]
 [[Heterogeneous_Integration]]
+[[Memristive_Interconnect]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
 [[TCC]]
+[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3D_Heterogeneous_Integration]]
+[[3d]]
 [[AI_Assisted_Energy_Optimization]]
 [[AdaptiveBitPrecisionExploration]]
 [[AdaptiveDensityControl]]
@@ -28,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Service_Orchestration]]
 [[Asymptotic_Exact_Solution]]
 [[Beyond_Moore_Pathway]]
+[[BioInspiredGeneralist]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Heterogeneous_Integration]]

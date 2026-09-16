@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[DistributedEventConditionDesign]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
+[[EquilibriumSolution]]
 [[EventDrivenRiskAssessment]]
 [[Intelligence_Emergence]]
 [[Material_Circularity]]

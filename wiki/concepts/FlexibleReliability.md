@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Ant_Swarm_Functional_Control]]
 [[BurstGatedRouting]]
+[[BurstInterleaving]]
 [[Critical_Region_Extension]]
 [[Criticality]]
 [[EventDrivenAsync]]

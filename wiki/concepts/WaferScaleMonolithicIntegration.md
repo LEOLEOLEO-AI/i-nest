@@ -29,6 +29,8 @@ Auto-extracted concept from raw material compilation.
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_Faculty_Forum_2026]]
 [[AdvancedPackagingInterconnect]]
+[[AdvancedPackaging]]
+[[Allreduce_Latency_Benchmark]]
 [[Analog_InMemory_Processing]]
 [[BackpropagationFreeLearning]]
 [[CST计量仪]]

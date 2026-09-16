@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Hyper_Dimensional_Computing]]
 [[Intelligence_Emergence]]
+[[JunctionCenteredFramework]]
 [[Master_SDDE]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[Microbiome_Immune_Endocrine_Interplay]]

@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Obsidian_Plugin_Architecture]]
 [[OnChipOpticalTweezers]]
 [[OpticallyWritableAtomicVaporMemory]]
+[[OptimalRepresentations]]
 [[RegularizerAsControlParameter]]
 [[SDI_Bond]]
 [[SDI_NPU_NoC_Integration]]

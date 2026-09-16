@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[AmorphousTopologicalSubstrate]]
+[[BeliefPropagationOnGraphTopology]]
 [[BoundaryContract]]
 [[CellularSheaf]]
 [[Chiplet]]
@@ -50,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[TCC]]
+[[advanced packaging]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

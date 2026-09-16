@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[EnergyEfficientRestoration]]
 [[EnergyResourceEfficiencyTradeoff]]
 [[EventBasedBioSignalFrontEnd]]
+[[EventBasedMotionDeblurring]]
 [[EventDrivenMotionDeblurring]]
 [[Event_Driven_Architecture]]
 [[GradientBasedLearningLocalization]]

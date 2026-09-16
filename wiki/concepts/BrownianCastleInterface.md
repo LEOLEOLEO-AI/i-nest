@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveFrequencyResonateAndFire]]
 [[AdaptiveFunctionalTopology]]
 [[AdjustableDynamicsReservoir]]
+[[AdjustableDynamics]]
 [[AstrocyteInspiredModulation]]
 [[AtomicGeometryEncoding]]
 [[BurstTemporalPlasticity]]
@@ -51,9 +52,11 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[ProjectiveMeasurementRouting]]
 [[Real_Time_Neuromorphic_Constraint_Satisfaction]]
+[[Reservoir_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
+[[Topological_Origin_of_Barriers]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

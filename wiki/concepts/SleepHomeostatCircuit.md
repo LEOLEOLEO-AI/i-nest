@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[NeuronModelAbstractionLayer]]
 [[Personalised_Strategy_Optimisation]]
+[[Plasticity_Stability_Threshold]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[STDP_Learning]]

@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[EnergyEfficientSNN]]
 [[EventDrivenSynchronization]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
+[[InputAdaptiveComputation]]
 [[Interconnect_Routing]]
 [[LowRankPerturbation]]
 [[MoE_Routing]]

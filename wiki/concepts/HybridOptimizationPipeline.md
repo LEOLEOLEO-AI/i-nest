@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[AdsorptionBiosorptionMechanism]]
 [[Advanced_Computing_Project]]
 [[AgentReinforcementLoop]]
+[[Algebraic_Completeness]]
 [[Alpha_Coefficient_Phase_Transition_Amplification]]
 [[Anisotropic_Square_Lattice]]
 [[Asymmetric_Interaction_Graph]]

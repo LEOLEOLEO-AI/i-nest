@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicProgrammingRecycling]]
 [[EfficientDeepLearning]]
 [[EmergentIntelligence_Spacetime]]
+[[FlagOS_2_0]]
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
@@ -73,6 +74,7 @@ Auto-extracted concept from raw material compilation.
 [[Structural_Mismatch]]
 [[TCC]]
 [[TemporalComplexity]]
+[[advanced packaging]]
 [[causal emergence]]
 [[chiplet interconnect]]
 

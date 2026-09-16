@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[CollectiveSpikingDynamics]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
+[[Complexity_Emergence_Engineering]]
 [[Contested_Prior_Resolution]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence]]

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Cryogenic_Syndrome_Compression]]
 [[Crystallized_Neural_Manifolds]]
+[[Dendritic_Compartmentalization]]
 [[DistinctReentrantPhases]]
 [[EmergentOrder]]
 [[Emergent_Intelligence]]

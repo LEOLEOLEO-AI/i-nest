@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[FractionalDiffusion2D]]
 [[FractionalDiffusion]]
 [[GenerativeTopologyModels]]
+[[HeavyTailedWaitingTimes]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]

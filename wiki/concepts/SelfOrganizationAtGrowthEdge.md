@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Complexity_Emergence_Engineering]]
 [[Continual_Learning_Topology]]
 [[CorticalWaveRouting]]
+[[CrossTaskNeuralRepresentation]]
 [[EmergentOrder]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Roadmap]]

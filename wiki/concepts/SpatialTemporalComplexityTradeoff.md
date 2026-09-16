@@ -40,12 +40,12 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Interconnect]]
+[[SDI_iNEST_Platform]]
 [[TCC]]
 [[TemporalComplexity]]
 [[Wafer_Interconnect]]
 [[Wafer_Scale_Integration]]
 [[chiplet interconnect]]
-[[neuromorphic interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

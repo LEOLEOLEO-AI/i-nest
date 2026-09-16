@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Critical_Exponent_Extraction_Method]]
 [[DelayParameterSpaceDecomposition]]
 [[DimerizedSpinChain]]
+[[DynamicInference]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]

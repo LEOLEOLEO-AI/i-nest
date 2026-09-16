@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Active_Inference_Topology]]
+[[AdjustableDynamicsReservoir]]
 [[AutonomousAdaptation]]
 [[CouplingTopologyMemoryLink]]
 [[ExplainableEnergyAI]]

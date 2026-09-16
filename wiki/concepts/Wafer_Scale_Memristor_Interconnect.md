@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[CorticalWaveRouting]]
 [[CrossbarArrayVLSI]]
+[[CrossbarInterconnect]]
 [[DataDrivenCellularAxis]]
 [[Flexible_Spike_Routing]]
 [[Free_Energy_Principle]]

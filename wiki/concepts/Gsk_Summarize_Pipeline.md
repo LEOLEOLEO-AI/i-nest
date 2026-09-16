@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[CorticalEfficiencyReliabilityExchange]]
 [[DAGGER_Algorithm]]
 [[DisorderInducedLocalization]]
+[[DistributedInference]]
 [[DopamineWakeSignal]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

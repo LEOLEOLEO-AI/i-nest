@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[CompactFieldVariable]]
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
+[[Cryogenic_Syndrome_Compression]]
 [[DiagnosticReportFramework]]
 [[EulaminateOverrepresentation]]
 [[Free_Energy_Principle]]

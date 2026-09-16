@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
 [[HierarchicalNetworkPartitioning]]
+[[Hysteretic_State_Encoding]]
 [[Intelligent_Computing_Infrastructure]]
 [[Interconnect_Routing]]
 [[Memristor]]

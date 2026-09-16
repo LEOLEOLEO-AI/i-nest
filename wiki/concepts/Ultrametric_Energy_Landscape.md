@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[FibonacciMonitoredCriticality]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
+[[GeometricNeuromorphicFusion]]
 [[InNetworkComputing]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

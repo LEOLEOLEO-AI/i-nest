@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Complexity_Coordination_Layer]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
+[[Cross_Node_Event_Propagation]]
 [[Distributed_Spike_Communication]]
 [[ERI_2_0_Strategy]]
 [[Emergent_Reservoir_Topology]]

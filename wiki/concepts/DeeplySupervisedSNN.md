@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Frontier_Innovation_Mapping]]
 [[INT4PrecisionQuantization]]
 [[MLChiralityDecoder]]
+[[Memristive_SNN_Accelerator]]
 [[Meta_Residual_Architecture]]
 [[MixedLabyrinthFractal]]
 [[Nonlinear_Gain]]

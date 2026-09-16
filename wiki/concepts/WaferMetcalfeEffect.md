@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
+[[Express_Link_Virtualization]]
 [[Four_Scale_Semantic_Battlefield]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Topology]]

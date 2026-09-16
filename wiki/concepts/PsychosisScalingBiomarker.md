@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicalCriticality]]
 [[EarlyExiting]]
 [[EmulationTheoryDisturbanceObserver]]
+[[Energy_Proportional_Neuromorphic_System]]
 [[EventDrivenMotionDeblurring]]
 [[InNetworkComputing]]
 [[Neuromorphic_Computing]]

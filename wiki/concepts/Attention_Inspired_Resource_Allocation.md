@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Defense_Industrial_Base_Reshaping]]
 [[DynamicTopology]]
 [[Independent_EdgeAI_Player_Endgame]]
+[[Interconnect_Routing]]
 [[Memristive_Interconnect]]
 [[Memristor]]
 [[Memristor_Interconnect]]

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[BioPlausiblePredictiveCoding]]
 [[BrainInspired_Chip]]
+[[CNN_to_SNN_Transition]]
 [[EventBasedBioSignalFrontEnd]]
 [[EventDataNonUniformity]]
 [[EventDrivenDefenseMechanism]]

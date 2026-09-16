@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Benchmark]]
 [[AndersonTransition]]
 [[ApproximationFidelityTradeoff]]
+[[Brain_Inspired_Switchless_Architecture]]
 [[CST_Spatiotemporal_Complexity]]
 [[ChipletRoutingFabric]]
 [[ChipletWaferInterconnectScaling]]

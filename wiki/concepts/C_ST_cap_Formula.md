@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenVisualPipeline]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[GeometricNeuromorphicFusion]]
+[[NeuromorphicAttentionScaling]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Self_Organized_Criticality]]

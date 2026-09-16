@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_iNEST_Wafer]]
 [[Nonlinear_Gain]]
 [[P_Paradigm]]
+[[Residual_Connection_Removal]]
 [[SDI_Bond]]
 [[SDI_TCC_iNEST_Interconnect]]
 [[SDSoW]]

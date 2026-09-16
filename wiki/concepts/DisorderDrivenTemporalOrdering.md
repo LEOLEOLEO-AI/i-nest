@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[DelayTolerantNetworkUAV]]
 [[DisorderedNetworkInterconnect]]
 [[EnergyEfficiencyAI]]
+[[EventDrivenAsynchronousRouting]]
 [[FLAME_Lab_PhD_Admissions]]
 [[GroupNeuronEnsemble]]
 [[HigherOrderRelations]]

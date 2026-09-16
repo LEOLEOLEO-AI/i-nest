@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[EnergyEfficientNeuromorphic]]
 [[EventDrivenModularArchitecture]]
 [[HardwareAware_DesignSpace]]
+[[IMPLY_ISA]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[LossSpikePhenomenon]]

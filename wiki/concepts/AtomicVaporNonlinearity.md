@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AnomalousSpinTransport]]
 [[CST_CoordinationMechanism]]
 [[Complex_System_Theory]]
+[[Complexity_Emergence]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[CriticalFluctuationReservoir]]

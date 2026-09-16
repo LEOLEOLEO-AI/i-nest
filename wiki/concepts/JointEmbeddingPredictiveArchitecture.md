@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[Hysteretic_State_Encoding]]
 [[InNetworkAgentRewiring]]
 [[IntegratedSensingFusion]]
+[[IntegrationProspectsForVLSI]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Model_Routing_Protocol]]

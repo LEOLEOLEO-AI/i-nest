@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[ConstraintDrivenSelfOrganization]]
 [[Contested_Priors_Architecture]]
 [[Continual_Learning_Modularity]]
+[[CounterstreamSignalPropagation]]
 [[CriticalFixedPoint]]
 [[CriticalityInNetworkComputing]]
 [[CriticalityOffCriticalityTransition]]

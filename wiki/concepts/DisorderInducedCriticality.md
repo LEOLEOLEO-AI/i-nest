@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[GNN图神经网络，非结构化数据分析利器！]]
 [[InformationCompressionAtCriticality]]
 [[Intelligence_Emergence]]
+[[Milinkovic B (2024)：复杂神经系统涌现动力学结构]]
 [[NearThreeDimensionalCriticality]]
 [[Network_Topology_Design]]
 [[NonEquilibriumPhaseTransition]]

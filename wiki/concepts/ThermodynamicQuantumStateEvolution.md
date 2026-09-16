@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[TCC]]
 [[TopologyAwareTimescaleSeparation]]
+[[TumorMicroenvironmentTopology]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

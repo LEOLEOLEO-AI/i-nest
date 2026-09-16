@@ -1,6 +1,39 @@
 {
   "schema": "knowledge-compiler-review-v1",
-  "generated": "2026-09-15T08:12:35",
+  "generated": "2026-09-16T20:11:05",
   "status": "pending_user_review",
-  "items": []
+  "items": [
+    {
+      "title": "Scaled Hippocampus-inspired Neural Networks on Neuromorphic Memristive Hardware",
+      "source": "arXiv",
+      "url": "http://arxiv.org/abs/2609.16429v1",
+      "track": "iNEST",
+      "relevance": 2,
+      "file": "00_Inbox/_pipeline_insights/2026-09-16_arXiv_Scaled Hippocampus-inspired Neural Networks on Neuromorphic .md",
+      "tcc_insight": "无直接关联或待确认。",
+      "inest_insight": "Keyword: spiking neural, neuromorphic",
+      "candidate_actions": [],
+      "knowledge_state": "processed",
+      "evidence_status": "[引用] 待人工核验",
+      "provenance": "external",
+      "user_decision": "pending",
+      "analysis_mode": "metadata-only"
+    },
+    {
+      "title": "A Unified Interconnection Network for Chiplet-Based Scaling of the BrainScaleS Neuromorphic System",
+      "source": "arXiv",
+      "url": "http://arxiv.org/abs/2609.13563v1",
+      "track": "TCC",
+      "relevance": 3,
+      "file": "00_Inbox/_pipeline_insights/2026-09-16_arXiv_A Unified Interconnection Network for Chiplet-Based Scaling .md",
+      "tcc_insight": "Keyword: chiplet",
+      "inest_insight": "Keyword: spiking neural, neuromorphic",
+      "candidate_actions": [],
+      "knowledge_state": "processed",
+      "evidence_status": "[引用] 待人工核验",
+      "provenance": "external",
+      "user_decision": "pending",
+      "analysis_mode": "metadata-only"
+    }
+  ]
 }

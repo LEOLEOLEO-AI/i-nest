@@ -63,6 +63,7 @@ Auto-extracted concept from raw material compilation.
 [[SuperparamagneticSwitchingRate]]
 [[Swarm_Coordination]]
 [[TCC]]
+[[TemperatureSensitivityControl]]
 [[TopologicalAndersonChernInsulator]]
 [[TopologicalContagion]]
 [[analog computation]]

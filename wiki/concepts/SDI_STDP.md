@@ -57,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[Nonlinear_Gain]]
+[[Order_Flexibility_Duality]]
 [[Renormalization_Group]]
 [[Renormalization_Group_Convergence]]
 [[SDI_Bond]]

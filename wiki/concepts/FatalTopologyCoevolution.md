@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveEntanglementManagement]]
 [[AdaptiveModelPartitioning]]
 [[Adaptive_Path_Selection]]
+[[Algebraic_Completeness]]
 [[ArbitraryWavefunctionConfigurability]]
 [[Beyond_Moore_Pathway]]
 [[CST_Triad_Integration]]

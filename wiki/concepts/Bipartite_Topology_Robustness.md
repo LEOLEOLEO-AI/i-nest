@@ -56,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[ComplexityLandscape]]
 [[ComplexityLandscape_Optimization]]
 [[ComponentLevelMolding]]
+[[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[Heterogeneous_Integration]]

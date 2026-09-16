@@ -82,6 +82,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[SingleSourceOfTruthMetric]]
+[[SmallWorldNetworks]]
 [[Spacetime_Coupling_Coefficient]]
 [[Spatiotemporal_Synergy]]
 [[SuperlinearGain]]

@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossDomain_Integration]]
 [[CrossbarArrayPrecision]]
 [[Emergence_Phase]]
+[[Expert_Review_Arbitration]]
 [[FeFET_Polarization_Switching]]
 [[FerroelectricMemoryCell]]
 [[Ferroelectric_ComputeInMemory]]
@@ -49,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[HybridResistiveMemoryCIM]]
 [[IMPLYMemristiveISA]]
 [[In_Memory_Computing]]
+[[Intelligence_Emergence]]
 [[Long_Range_Interactions]]
 [[Memristive_ANN_Hardware]]
 [[Memristive_Crossbar]]
@@ -57,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[OpticalIonicMemory]]
 [[Process_Recycling_Paradigm]]
+[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

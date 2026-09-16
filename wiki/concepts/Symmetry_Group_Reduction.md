@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveMatterSubstrate]]
 [[AgentReputationGraph]]
 [[AndersonLocalizationTopology]]
+[[Annealing_Based_Decoder]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

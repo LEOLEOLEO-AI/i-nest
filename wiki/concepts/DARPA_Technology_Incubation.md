@@ -56,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[Phase_Synchronization_Collective_Dynamics]]
 [[QuantumConvolutionalTopology]]
 [[RandomProjectionLandscapePreservation]]
+[[STDPDrivenConnectivity]]
 [[Semantic_Least_Energy_Principle]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]

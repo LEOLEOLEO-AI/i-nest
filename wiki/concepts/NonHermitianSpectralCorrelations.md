@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
 [[SDI_STDP]]
+[[SDI_STDP_Fusion]]
 [[SDI_STDP_Rule]]
 [[SDI_iNEST]]
 [[SDI_iNEST_Interconnect]]

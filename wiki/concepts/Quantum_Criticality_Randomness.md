@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityOnSmallWorlds]]
 [[Criticality]]
 [[Criticality_Induced_Computation]]
+[[Criticality_Transition]]
 [[Intelligence_Emergence]]
 [[Neuromorphic_Computing]]
 [[Quantum_Criticality]]

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[4H_SiC_SubstrateProcessing]]
+[[CLINKAsCarrierPrimitive]]
 [[CongestionAwareNoCPlacement]]
 [[DynamicServiceComposition]]
 [[GeneralIntelligenceSubstrate]]

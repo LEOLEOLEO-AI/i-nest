@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[EventCameraTemporalEncoding]]
 [[EventDrivenFunctionalConnectivity]]
 [[FPGA_Accelerated_SNN]]
+[[Fixed_Term_Project_Structure]]
 [[Inference_Workload_Profiling]]
 [[Interconnect_Routing]]
 [[MatrixShapePhaseTransition]]

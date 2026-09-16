@@ -72,6 +72,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Industry_Alliance]]
 [[SDSoW_Strategic_Planning]]
 [[STDP_Plasticity]]
+[[ScaleFreeNetworks]]
 [[Second_Curve_Wafer_Industry_Platform]]
 [[Software_Defined_Interconnect]]
 [[Spacetime_Coupling_Coefficient]]

@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikingNeuralNetworkTopology]]
 [[SpikingNeuralNetwork]]
 [[Spiking_Neural_Network]]
+[[WirelessSplitComputing]]
 [[iNEST]]
 
 ## Sources

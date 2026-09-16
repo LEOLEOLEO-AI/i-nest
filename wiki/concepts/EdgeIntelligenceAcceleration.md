@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[LargeScalePhotonicIntegration]]
 [[Memristor]]
 [[Memristor_Synapse]]
+[[MicroRouter_Embedding]]
 [[Network_Topology_Design]]
 [[PhysicalWaferTriplet]]
 [[TCC]]

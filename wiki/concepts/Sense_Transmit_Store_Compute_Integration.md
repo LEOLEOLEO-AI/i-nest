@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspiredGeneralist]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[ChiralSymmetryClasses]]
 [[Compute_In_Memory_Neuromorphic]]
 [[CrossDomain_Integration]]
 [[Heterogeneous_Integration]]
@@ -40,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[TCC]]
+[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

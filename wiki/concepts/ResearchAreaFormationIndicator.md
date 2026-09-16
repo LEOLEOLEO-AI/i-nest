@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[ASIC_Dualism]]
 [[AutonomousServiceNegotiation]]
 [[BackpropagationFreeLearning]]
+[[CLINKAsCarrierPrimitive]]
 [[CellEmergenceMechanism]]
 [[CellEmergence]]
 [[Complex_System_Theory]]

@@ -60,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[PhysicalSubstrateReservoir]]
 [[QuantumFluctuationDrivenTransport]]
 [[QuarantineCostTradeoff]]
+[[Recurrent_Network_Homeostasis]]
 [[Reservoir_Computing]]
 [[Resilient_Satellite_Mesh]]
 [[SNN]]

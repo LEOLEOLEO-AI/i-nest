@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[FixedOverheadCost]]
 [[FixedOverheadPenalty]]
 [[Heterogeneous_Integration]]
+[[HierarchicalNetworkPartitioning]]
 [[HodgkinHuxleyDynamics]]
 [[Intelligence_Emergence]]
 [[Memory_Wall]]

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3D_Heterogeneous_Integration]]
+[[3d]]
 [[AI_Faculty_Forum_2026]]
 [[Adaptive_Deep_Brain_Stimulation]]
 [[ArtificialProprioception]]
@@ -28,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[BoundaryObject_Abstraction]]
 [[CST计量仪]]
 [[Complex_System_Theory]]
+[[Heterogeneous_Integration]]
 [[In_Network_Neuromorphic]]
 [[Intelligence_Emergence]]
 [[Intelligent_Emergence_Computing]]
@@ -40,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[StochasticVehicleRouting]]
 [[TCC]]
 [[TCC_Neuromorphic_Integration]]
+[[Trustworthiness_Aware_Training]]
 [[iNEST]]
 
 ## Sources

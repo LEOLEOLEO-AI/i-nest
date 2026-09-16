@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[3D_Vertical_Interconnect]]
 [[3d]]
 [[AdvancedPackagingInterconnect]]
+[[AdvancedPackaging]]
 [[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[BurstInterleaving]]
@@ -42,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Interconnect]]
 [[P_Paradigm]]
 [[TCC]]
+[[advanced packaging]]
 [[chiplet interconnect]]
 
 ## Sources

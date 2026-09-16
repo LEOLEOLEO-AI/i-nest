@@ -61,6 +61,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[TemporalFeaturePropagation]]
+[[TemporalSemanticEntropy]]
 [[TopologicalAndersonChernInsulator]]
 [[Topology_Aware_SNN_Placement]]
 [[branch prediction]]

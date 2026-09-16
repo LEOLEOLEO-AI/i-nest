@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[NoC]]
 [[NoC_Chiplet_iNEST_Wafer]]
+[[Obsidian_Plugin_Architecture]]
 [[OpticalTopologyReconfiguration]]
 [[Photonic_Chiplet_Interconnect]]
 [[RTC_Primitive]]

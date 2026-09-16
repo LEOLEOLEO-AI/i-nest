@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[ERI_2_0_Strategy]]
 [[FlagOS_2_0]]
+[[GNN图神经网络，非结构化数据分析利器！]]
 [[Heterogeneous_Integration]]
 [[Heterogeneous_Integration_Roadmap]]
 [[Heterogeneous_Integration_Roadmap_HIR]]

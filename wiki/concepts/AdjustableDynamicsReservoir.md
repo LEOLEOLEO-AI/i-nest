@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[ANN_SNN_ConversionError]]
+[[Adaptive_Deep_Brain_Stimulation]]
 [[AdjustableDynamics]]
 [[AlternativeBridgingModels]]
 [[Analog_Encoding_Readout]]
@@ -52,6 +53,8 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[SpectralSupportAnalysis]]
 [[Spiking_Neural_Network]]
+[[Wafer_Scale_Integration]]
+[[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
 [[neuromorphic substrate]]

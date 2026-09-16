@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[AnalogInMemoryComputing]]
 [[BigBrainCellularAxis]]
+[[Bipartite_Interconnect_Design]]
 [[CST_SynergisticCoordination]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]

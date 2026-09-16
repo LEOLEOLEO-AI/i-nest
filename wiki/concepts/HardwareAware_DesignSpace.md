@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[AlternativeBridgingModels]]
+[[AnisotropicGaussianPrimitives]]
 [[AnomalousSpinTransport]]
 [[CirculateFiringNeuron]]
 [[Contested_Prior_Resolution]]
@@ -33,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkAgentRewiring]]
 [[InNetworkNeuromorphicSimulation]]
 [[InNetworkNeuromorphic]]
+[[In_Network_Neuromorphic]]
 [[Intelligence_Emergence]]
 [[Memristor]]
 [[Memristor_Synapse]]

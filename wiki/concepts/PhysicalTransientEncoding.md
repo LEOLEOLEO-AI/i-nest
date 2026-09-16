@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[ArbitraryWavefunctionConfigurability]]
 [[CST_CoordinationMechanism]]
 [[CST计量仪]]
+[[CausalEmergenceCondition]]
 [[Complex_System_Theory]]
 [[CouplingMatrixRecovery]]
 [[Crystallized_Neural_Manifolds]]

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Bond_Operation_Algebra]]
 [[BoundaryObject_Abstraction]]
 [[BurstInterleaving]]
+[[CanonicalFunctionalNetworkOrdering]]
 [[Chemical_Bond_Operation_Algebra]]
 [[Closed_Loop_Neuromodulation]]
 [[ConnectionCentricParadigm]]
@@ -39,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
 [[TCC]]
+[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

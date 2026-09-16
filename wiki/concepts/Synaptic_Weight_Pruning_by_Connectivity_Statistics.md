@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Connectome_Reservoir]]
 [[Crystallized_Neural_Manifolds]]
 [[DataProvenanceIntegrity]]
+[[DistributedInference]]
 [[DrivenDissipativeDynamics]]
 [[FrozenRateOperator]]
 [[InNetworkNeuromorphicSimulation]]

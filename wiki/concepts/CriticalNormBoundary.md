@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[Criticality_Based_Feature_Extraction]]
 [[CrossbarSNNArchitecture]]
+[[EpidemicThreshold]]
 [[EventDrivenAsync]]
 [[EventDrivenAsynchronousRouting]]
 [[FPGA_NeuromorphicMapping]]

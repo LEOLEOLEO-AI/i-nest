@@ -36,6 +36,8 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Wafer_Topology]]
 [[Complex_System_Theory]]
 [[ComputationEfficientDeepLearning]]
+[[ConnectomeTopologyDirectedPropagation]]
+[[EfficientDeepLearning]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

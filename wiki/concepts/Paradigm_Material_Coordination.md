@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[PacketRoutingForFPGAs]]
 [[RecurrentOscillatoryComputation]]
 [[SOW_BottomLayer]]
+[[ScalableNeuromorphicTopology]]
 [[TCC]]
 [[iNEST]]
 

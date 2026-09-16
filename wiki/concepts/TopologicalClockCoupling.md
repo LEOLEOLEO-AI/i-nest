@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Bipartite_Interconnect_Fabric]]
 [[CST_Coordinated_Spatiotemporal_Complexity]]
 [[CST_SynergisticCoordination]]
+[[CST_Theory_V27_FINAL]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]

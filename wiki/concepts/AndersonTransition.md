@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[ChiralSymmetryClasses]]
 [[Complex_System_Theory]]
+[[Complexity_Coordination_Layer]]
 [[ComputeRelocationOverhead]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Crystallized_Neural_Manifolds]]

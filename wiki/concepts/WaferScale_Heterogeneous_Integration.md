@@ -57,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Strategic_Planning]]
 [[SDSoW_TCC_Integration]]
 [[SOW_BottomLayer]]
+[[Second_Curve_Wafer_Industry_Platform]]
 [[TCC]]
 [[TCC_iNEST_Interconnect]]
 [[Wafer_Interconnect]]

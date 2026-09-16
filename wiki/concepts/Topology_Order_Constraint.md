@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Bipartite_Interconnect]]
 [[BoundaryContract]]
 [[BurstGatedRouting]]
+[[BurstInterleaving]]
 [[CellEmergence]]
 [[Complex_System_Theory]]
 [[Continuous_Spatiotemporal_State_Propagation]]

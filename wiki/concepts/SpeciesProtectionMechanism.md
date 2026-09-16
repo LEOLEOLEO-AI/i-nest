@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[Criticality_Based_Feature_Extraction]]
 [[EdgeIoTEnergyAwareness]]
+[[EpidemicThreshold]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Interconnect_Routing]]

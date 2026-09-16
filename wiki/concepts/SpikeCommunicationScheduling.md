@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[EventCameraTemporalEncoding]]
 [[EventDrivenModularArchitecture]]
 [[EvolutionaryDiversityPreservation]]
+[[IMPLY_ISA]]
 [[Interconnect_Routing]]
 [[LocalInteractionDrivenReconfiguration]]
 [[LossSpikePhenomenon]]

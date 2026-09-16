@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveFunctionalTopology]]
 [[AmoebaInspiredLocomotion]]
 [[BioInspired_Interception_Control]]
+[[CriticalLearningRegime]]
 [[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[EnsembleCreditAssignment]]

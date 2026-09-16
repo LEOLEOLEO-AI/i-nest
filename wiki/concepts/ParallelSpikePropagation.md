@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[CriticalStateInformationMaximization]]
 [[Criticality]]
+[[EnergyProportionalityCeiling]]
 [[HigherOrderAvalanche]]
 [[Interconnect_Routing]]
 [[Local_Approximation_Dynamics]]

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AdjustableDynamics]]
 [[AnisotropicGaussianPrimitives]]
 [[AstrocyteInspiredModulation]]
+[[AtomicGeometryEncoding]]
 [[BehavioralNeuromorphicCorrelates]]
 [[Biomanufacturing_Control_Loop]]
 [[BranchingRatio]]

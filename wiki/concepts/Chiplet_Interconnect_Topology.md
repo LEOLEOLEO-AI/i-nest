@@ -79,6 +79,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST_Interconnect]]
 [[iNEST_Wafer]]
 [[residual connection]]
+[[Γst_Revision]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

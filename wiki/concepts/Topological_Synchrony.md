@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Medical_Large_Language_Models]]
 [[Memristive_Interconnect]]
 [[Memristive_Topology]]
+[[Mesoscale_Heterogeneous_Integration]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Spatiotemporal_Synergy]]
 [[Network_Topology_Design]]

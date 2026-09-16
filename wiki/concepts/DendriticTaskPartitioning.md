@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[FPGA_Neuromorphic_Architectures]]
+[[GeTeBasedCBRAM]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Memristor]]

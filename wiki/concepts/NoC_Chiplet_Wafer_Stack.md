@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[DRBE_MVP_Mainchain]]
 [[DataProvenanceIntegrity]]
 [[Deep_Network_Architecture_Invariant]]
+[[Defense_Industrial_Base_Reshaping]]
 [[EmergentOrder]]
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]

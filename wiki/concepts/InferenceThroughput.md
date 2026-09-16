@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_EventRouting]]
 [[PacketRoutingOptimization]]
 [[QuarantineCostTradeoff]]
+[[SDI_Stream_Aware_NoC_Routing]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[TSVEncapsulationStress]]

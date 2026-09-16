@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[DiscreteContinuous_Unification]]
 [[DynamicalSelfDualCriticality]]
+[[ElasticInferenceScheduling]]
 [[EmergentAttractorStability]]
 [[Environmental_Capability_Context]]
 [[EpidemicThreshold]]

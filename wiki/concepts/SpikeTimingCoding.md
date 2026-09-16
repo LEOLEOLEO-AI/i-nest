@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[BioInspiredSequenceLearning]]
 [[BurstCoding]]
+[[ElasticInferenceScheduling]]
 [[EventCameraPoseInput]]
 [[EventDrivenComputation]]
 [[Event_Driven_Architecture]]

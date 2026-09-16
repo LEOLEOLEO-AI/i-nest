@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[ReconfigurableSNN_Accelerator]]
 [[Reconfigurable_Neuromorphic_Acceleration]]
 [[SDI_Bond]]
+[[SDI_STDP_Fusion]]
 [[SDI_iNEST]]
 [[SDI_iNEST_Interconnect]]
 [[SNN]]

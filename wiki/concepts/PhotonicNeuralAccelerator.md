@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[ContinuousTimeSNN]]
 [[CriticalStateInformationMaximization]]
 [[CriticalityDrivenStateTransition]]
+[[CriticalityOffCriticalityTransition]]
 [[Criticality]]
 [[Criticality_Based_Feature_Extraction]]
 [[DelayAwareSpikeEventDelivery]]

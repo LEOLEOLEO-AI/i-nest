@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[DataCenter_Chip_Logic_Compression]]
 [[DeepParsing]]
 [[Differential_Encoding]]
+[[Distributed_Spike_Communication]]
 [[Hippocampal_Topology_Mapping]]
 [[Intelligence_Emergence]]
 [[KV_Cache_To_BoundaryObject]]

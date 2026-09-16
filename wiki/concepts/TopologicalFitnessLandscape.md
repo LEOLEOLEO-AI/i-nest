@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[EdgeIoTEnergyAwareness]]
 [[EnergyLandscape_Regularization]]
 [[ErdosRenyi_Graph_Energy_Surface]]
+[[EventTriggeredDistributedControl]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[GitWhitelistQuotaEnforcement]]
 [[Intelligence_Emergence]]

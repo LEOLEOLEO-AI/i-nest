@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Interconnect_Topology]]
+[[L2_L3_Reconfigurability]]
 [[Logic_Folding]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]

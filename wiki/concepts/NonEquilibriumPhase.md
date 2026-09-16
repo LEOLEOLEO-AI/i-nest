@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Network_Neuromorphic]]
 [[Intelligence_Emergence]]
 [[JunctionSignalIntegrity]]
+[[Local_Plasticity_Rule]]
 [[Neuromorphic_Computing]]
 [[On_Chip_STDP_Learning]]
 [[ResonateAndFireEncoding]]

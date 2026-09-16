@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Neuron_Activation_Prediction]]
 [[Effective_Information]]
 [[EntanglementSignatures]]
+[[GeometricRegularizationLoss]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]

@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TemporalComplexity]]
 [[ThermalFluctuationComputing]]
+[[ThermalNoiseComputation]]
 [[complex system]]
 [[iNEST]]
 [[涌现]]

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[ConductingPolymerDendriteMemory]]
 [[EnergyEfficientRestoration]]
 [[EventBasedBioSignalFrontEnd]]
+[[EventDriven_Advection]]
 [[Event_Driven_Architecture]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]

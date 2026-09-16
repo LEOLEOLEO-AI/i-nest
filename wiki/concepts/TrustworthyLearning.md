@@ -27,7 +27,6 @@ Auto-extracted concept from raw material compilation.
 [[ActiveMatterComputing]]
 [[AdaptiveGraphDiffusion]]
 [[Adaptive_Deep_Brain_Stimulation]]
-[[Advanced_Packaging]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[ArtificialProprioception]]
 [[Complex_System_Theory]]
@@ -46,12 +45,14 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicStatusAwareness]]
 [[Neuromorphic_Computing]]
 [[NonEquilibriumUniversality]]
+[[RoutingBasedComputation]]
 [[StochasticMultiAgentRL]]
 [[StochasticVehicleRouting]]
 [[TCC]]
 [[Topology_Manifold_Computing]]
 [[Trustworthiness_Aware_Training]]
 [[WaveBasedComputation]]
+[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

@@ -61,6 +61,7 @@ Auto-extracted concept from raw material compilation.
 [[SparsityAwareInterconnect]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
+[[ThreeLayerArchitecture]]
 [[TopologicalAndersonChernInsulator]]
 [[chiplet interconnect]]
 [[iNEST]]

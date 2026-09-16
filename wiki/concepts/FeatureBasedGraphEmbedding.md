@@ -71,6 +71,7 @@ Auto-extracted concept from raw material compilation.
 [[ST_SNN]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
+[[TemporalDynamicsModeling]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]

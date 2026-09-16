@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[Active_Inference_Agent]]
 [[BackflowTransformation]]
+[[BayesianDomainEvolution]]
 [[BoundaryObject_Abstraction]]
 [[Brain_Connectome]]
 [[Combinatorial_Optimization_Readout]]

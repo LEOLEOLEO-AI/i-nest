@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Gsk_Summarize_Pipeline]]
 [[HighDimensionalContinuousRepresentation]]
 [[HigherOrderPublicGoodsGame]]
+[[InNetwork_Service_Composition]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]

@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[VonNeumann_Complexity_Threshold]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
+[[getnote_2026-01-25_清华团队类脑计算突破]]
 [[getnote_2026-02-22_晶上自演化复杂网络的基础理论_关键技术与应用验证_项目群_]]
 [[iNEST]]
 [[五层性能评估框架]]

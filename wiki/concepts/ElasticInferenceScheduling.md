@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicLocomotionPrimitive]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
+[[PowerLawScaling]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]
 [[SDI_STDP]]

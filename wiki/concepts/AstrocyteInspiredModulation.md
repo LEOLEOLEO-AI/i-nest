@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[BrownianCastleInterface]]
 [[Contested_Priors_Mechanism]]
 [[CriticalStateSelfOrganization]]
+[[FreeEnergyMinimizationRouting]]
 [[Gaussian_Splatting_Streaming]]
 [[HigherAreaRankingDivergence]]
 [[Interconnect_Routing]]

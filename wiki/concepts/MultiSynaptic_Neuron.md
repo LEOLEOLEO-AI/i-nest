@@ -34,10 +34,12 @@ Auto-extracted concept from raw material compilation.
 [[CrossDomain_Integration]]
 [[DelayTolerantNetworkUAV]]
 [[Dynamic_Communication_Reconfiguration]]
+[[Minimal_Complete_Principle]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
 [[SOC]]
+[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

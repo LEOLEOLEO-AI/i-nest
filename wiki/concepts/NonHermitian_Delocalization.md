@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[OpportunisticRouting]]
 [[OpticallyWritableAtomicVaporMemory]]
 [[ReEntrantMultifractalization]]
+[[RoutabilityDrivenPinAssignment]]
 [[TopologyAwarePhotonicInterconnect]]
 [[TopologyEmbeddedSelfModel]]
 [[chiplet interconnect]]

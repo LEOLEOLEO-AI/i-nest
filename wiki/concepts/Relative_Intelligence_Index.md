@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Automated_Reward_Shaping]]
 [[Bio_plausible_Neuromorphic_Disturbance_Observer]]
 [[BrainBodyResonance]]
+[[CascadedAdaptiveCombiners]]
 [[Neuromorphic_Computing]]
 [[SpikeEncoding]]
 [[Spiking_Neural_Network]]

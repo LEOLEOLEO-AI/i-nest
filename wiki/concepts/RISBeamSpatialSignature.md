@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_Control_Plane_Offload]]
 [[SDI_STDP]]
+[[SDI_TopologicalControl]]
 [[STDP_Plasticity]]
 [[SymmetricQuantumCircuit]]
 [[Synaptic_Plasticity]]

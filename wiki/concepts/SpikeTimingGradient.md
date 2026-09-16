@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeCodingAdversarialPerturbation]]
 [[SpikeRoutingFabric]]
 [[SpikeTimingPreservation]]
+[[Spike_Event_Driven_Attention]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]

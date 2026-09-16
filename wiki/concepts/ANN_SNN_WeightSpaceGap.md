@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[BioPlausibleDisturbanceObserver]]
 [[BulletTrainScheduling]]
 [[BurstTemporalPlasticity]]
+[[Catastrophic_Forgetting_Mitigation]]
 [[CriticalityBasedClassification]]
 [[Criticality]]
 [[CrossEntityPreemptiveWarning]]

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Faculty_Forum_2026]]
 [[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[Chiplet]]
@@ -38,8 +39,11 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Interconnect]]
 [[P_Paradigm]]
 [[Photonic_Chiplet_Interconnect]]
+[[SDSoW]]
+[[SDSoW_Architecture]]
 [[SDSoW_TCC_Integration]]
 [[TCC]]
+[[advanced packaging]]
 [[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Automated_Assessment_Framework]]
 [[AvalancheTriggeringMechanism]]
 [[BayesianDomainEvolution]]
+[[BehavioralFeedbackLoop]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[Bosonic_SPT_Phases]]
 [[Brain_Connectome]]

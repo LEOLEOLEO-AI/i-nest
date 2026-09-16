@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalInterfaceBlock]]
 [[Heterogeneous_Integration]]
 [[HigherOrderInteractions]]
+[[HybridBondingForPhotonicLayers]]
 [[Intelligence_Emergence]]
 [[MachineLearningNanomaterialDiscovery]]
 [[Master_SDDE]]

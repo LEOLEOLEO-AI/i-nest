@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[ComplexSystem_Definition]]
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
+[[Distributed_Spike_Communication]]
 [[ERI_2_0_Strategy]]
 [[Fading_Memory_Property]]
 [[GNN图神经网络，非结构化数据分析利器！]]

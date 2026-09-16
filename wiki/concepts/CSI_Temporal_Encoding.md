@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_Interconnect]]
 [[Communication_Trace_Diagnostics]]
+[[ConductingPolymerDendriteMemory]]
 [[DeeplySupervisedSpiking]]
 [[Emergent_Reservoir_Topology]]
 [[Heterogeneous_Integration]]

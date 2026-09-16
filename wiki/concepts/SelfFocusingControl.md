@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[DistinctReentrantPhases]]
 [[ERI_2_0_Framework]]
 [[EdgeAI_Market_Consolidation_Driver]]
+[[FlagOS_Interconnect_Topology]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[L2_L3_Reconfigurability]]

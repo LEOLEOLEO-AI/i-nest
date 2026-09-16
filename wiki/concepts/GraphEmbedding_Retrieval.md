@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[CrossDomain_Neuromorphic_Abstraction]]
 [[Differential_Readout_Scheme]]
+[[Distributed_Spike_Communication]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[ExplainableAutonomy]]

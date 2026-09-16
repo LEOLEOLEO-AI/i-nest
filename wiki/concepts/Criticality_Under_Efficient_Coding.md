@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspiredInterceptionTask]]
 [[BioInspiredInterception]]
 [[BioPlausibleDisturbanceObserver]]
+[[Biologically_Plausible_Learning_Rules]]
 [[BulletTrainScheduling]]
 [[CoDesigned_SNN]]
 [[CoDesigned_SNN_Online_Learning]]

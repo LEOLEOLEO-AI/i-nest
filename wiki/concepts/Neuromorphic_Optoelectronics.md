@@ -32,8 +32,10 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Network_Architecture_Invariant]]
 [[Defense_Industrial_Base_Reshaping]]
 [[DynamicServiceComposition]]
+[[EarlyExitInference]]
 [[Neuromorphic_Computing]]
 [[Synaptic_Plasticity]]
+[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

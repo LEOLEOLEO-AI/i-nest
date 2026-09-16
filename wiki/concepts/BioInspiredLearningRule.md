@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[ConnectomeFidelityClaim]]
 [[Connectome]]
 [[Contested_Priors_Mechanism]]
+[[Cross_Node_Event_Propagation]]
 [[Fixed_Cost_Dominance]]
 [[FlagOS_2_0]]
 [[FlexibilityThreshold]]

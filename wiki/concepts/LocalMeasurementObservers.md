@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[RegularizerAsControlParameter]]
 [[SDI_Bond]]
 [[SDI_TCC_iNEST_Bridge]]
+[[SDI_Topology_Control]]
 [[SDI_iNEST]]
 [[SDI_iNEST_Encapsulation]]
 [[TCC]]

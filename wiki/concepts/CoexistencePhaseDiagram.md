@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[DataDrivenMaterialDesign]]
 [[DendriticReservoirState]]
 [[DeviationScalingIndex]]
+[[DifferentiableLifting]]
 [[Dynamic_Expert_Fusion]]
 [[EcosystemTopologyCoupling]]
 [[Emergent_Intelligence]]

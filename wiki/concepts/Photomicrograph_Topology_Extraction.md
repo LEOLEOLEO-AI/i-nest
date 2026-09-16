@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[ComplexSystemMemory]]
 [[ComplexSystem_Definition]]
 [[Complex_System_Theory]]
+[[Complexity_Coordination_Layer]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[ConstrainedHebbianLearning]]
 [[Continual_Learning_Stability]]

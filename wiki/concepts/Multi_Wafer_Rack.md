@@ -21,13 +21,20 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AdaptiveCompetingInteractions]]
+[[Bipartite_Interconnect]]
 [[Bipartite_Interconnect_Design]]
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[CommunicationAsComputation]]
+[[CommunicationAwareComputeRelocation]]
+[[Interconnect_Topology]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[TCC]]
+[[Wafer_Interconnect]]
 [[Wafer_Scale_Integration]]
 [[iNEST]]
 

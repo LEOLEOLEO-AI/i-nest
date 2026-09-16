@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[PetriNet_NeuralCircuit_Model]]
+[[RobustEmbodiedNavigation]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
 [[Spiking_Neural_Network]]

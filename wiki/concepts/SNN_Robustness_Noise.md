@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspiredInterception]]
 [[BulletTrainScheduling]]
 [[CoDesigned_SNN]]
+[[CoOptimizedMappingScheduling]]
 [[ContinualLearningOnNeuromorphic]]
 [[Continuous_Control_Spiking_Stability]]
 [[Criticality]]
@@ -57,7 +58,6 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[Self_Organized_Criticality]]
 [[Spike_Encoding_of_fMRI]]
-[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

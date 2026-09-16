@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[ExplainableEnergyAI]]
 [[Ferroelectric_Devices]]
+[[GCML_Cognitive_Map]]
 [[ITP_STDP]]
 [[InNetworkNeuromorphicSimulation]]
 [[InNetworkNeuromorphic]]

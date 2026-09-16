@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[3d]]
 [[Additive_Manufacturing_Topology]]
 [[AdvancedPackagingInterconnect]]
+[[AdvancedPackaging]]
 [[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[BondMovingDecimation]]
@@ -49,8 +50,10 @@ Auto-extracted concept from raw material compilation.
 [[SDI_NoC_Integration]]
 [[SDI_Topology]]
 [[SparsityAwareInterconnect]]
+[[SpatialPatternStorage]]
 [[TCC]]
 [[WideLink_NoC_Router]]
+[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

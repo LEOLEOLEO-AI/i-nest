@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologyAwareTaskScheduling]]
 [[TopologyCentricComputing]]
 [[Topology_Centric_Computing]]
+[[WaferScaleInterconnectAlgebra]]
 [[WaferScaleTopologyCentricComputing]]
 
 ## Sources

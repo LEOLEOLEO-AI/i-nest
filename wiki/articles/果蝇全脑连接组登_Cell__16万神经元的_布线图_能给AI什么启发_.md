@@ -17,6 +17,7 @@ iNEST, 拓扑
 ## Related Concepts
 
 [[Brain_Connectome]]
+[[Connectome]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[iNEST]]

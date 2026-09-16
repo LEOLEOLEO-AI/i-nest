@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[DAGGER_Algorithm]]
 [[DisorderInducedLocalization]]
 [[EdgeIntelligence_Framework]]
+[[Edge_Temporal_Signal_Processing]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

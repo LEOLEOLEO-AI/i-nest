@@ -46,6 +46,8 @@ Auto-extracted concept from raw material compilation.
 [[MeasurementEfficientDisorderAware]]
 [[MetaTopologyLibraryCompleteness]]
 [[MetaTopology]]
+[[Meta_Topology]]
+[[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]
 [[NetworkMechanismsOfWaveGeneration]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]

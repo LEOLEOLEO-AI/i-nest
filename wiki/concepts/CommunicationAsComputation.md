@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Architecture]]
 [[SDSoW_Industry_Alliance]]
 [[SDSoW_Strategic_Planning]]
+[[SDSoW_TCC_Integration]]
 [[SuperparamagneticSwitchingRate]]
 [[Switchless_Computing]]
 [[TCC]]

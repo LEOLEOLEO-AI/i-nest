@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenSynchronization]]
 [[EventDrivenWeightUpdate]]
 [[EventTriggeredDistributedControl]]
+[[FunctionalInterfaceBlocks]]
 [[ImaginaryGaugePhaseImprint]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

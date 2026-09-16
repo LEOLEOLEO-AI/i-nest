@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[2_5D_PIM_Chiplet_Integration]]
+[[AI_Driven_Power_Density_Scaling]]
 [[AnalogInMemoryComputing]]
 [[BeyondVonNeumannArchitecture]]
 [[CMOS_Memristor_Devices]]

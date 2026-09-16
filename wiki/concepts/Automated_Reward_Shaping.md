@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[AnalogDomainCompressiveSensing]]
 [[AnytimePointCloudRecognition]]
 [[Avoided_Criticality]]
+[[BayesianDomainEvolution]]
 [[BrainBodyResonance]]
 [[CascadedAdaptiveCombiners]]
 [[Catastrophic_Forgetting_Mitigation]]

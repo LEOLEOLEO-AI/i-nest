@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[NanomaterialFeatureEngineering]]
 [[Network_Topology_Design]]
 [[NoiseRegimeTransition]]
+[[QuantumReservoirMemoryCapacity]]
 [[Random_Parameter_Substitution]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Compute_Centric_NoC]]
 [[FullDimensionalDefinableInterconnect]]
 [[Heterogeneous_Integration]]
+[[HighFrequency_Interconnect_Optimization]]
 [[Interconnect_Routing]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]

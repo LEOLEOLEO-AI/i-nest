@@ -20,11 +20,14 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
 [[Compute_Centric_NoC]]
 [[In_Memory_Computing]]
 [[Interconnect_Topology]]
 [[Memory_Wall]]
+[[MeshReduce_U]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC]]

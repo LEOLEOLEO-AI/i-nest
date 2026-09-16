@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[FixedOverheadPenalty]]
 [[Heterogeneous_Integration]]
 [[HigherOrderStochasticProcess]]
+[[InNetworkRadarProcessing]]
 [[InteractiveRoboticsLoop]]
 [[LIF_Neuron_Model]]
 [[LowBitSpikingPruning]]

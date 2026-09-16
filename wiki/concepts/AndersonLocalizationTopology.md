@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Confinement]]
 [[CorticalEfficiencyReliabilityExchange]]
 [[DAGGER_Algorithm]]
+[[DisorderInducedLocalization]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]

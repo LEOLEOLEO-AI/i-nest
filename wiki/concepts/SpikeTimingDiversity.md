@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[EvolutionaryDiversityPreservation]]
 [[Fatigue_SpikePattern]]
 [[Globally_Optimal_SNN_Training]]
+[[IMPLY_ISA]]
 [[Interconnect_Routing]]
 [[LossSpikePhenomenon]]
 [[MixedSignalSNN_CoDesign]]

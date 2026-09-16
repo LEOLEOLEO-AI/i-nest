@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[DevelopmentalNeuromorphicAdaptation]]
 [[DualModeSNNConventionalInference]]
 [[EarlyVisualCortexAliasing]]
+[[EpidemicThreshold]]
 [[EventDrivenModularArchitecture]]
 [[EvolutionaryDiversityPreservation]]
 [[FPGA_Accelerated_SNN]]

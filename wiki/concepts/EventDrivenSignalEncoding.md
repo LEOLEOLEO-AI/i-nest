@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Driven_Architecture_Search]]
 [[AI_Forum_Demo_Narrative]]
 [[Baseline_Draft_Status]]
+[[Bipartite_Interconnect_Design]]
 [[BurstGatedRouting]]
 [[BurstInterleaving]]
 [[Complex_System_Theory]]

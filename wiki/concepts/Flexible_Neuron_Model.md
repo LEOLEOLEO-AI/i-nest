@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Meta_Residual_Architecture]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
+[[PDE_Constrained_SNN]]
 [[PPT]]
 [[SNN]]
 [[Spiking_Neural_Network]]

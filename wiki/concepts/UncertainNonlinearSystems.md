@@ -56,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[Parallelized_Hierarchical_Connectome]]
 [[Quantum_Feature_Map]]
+[[RenormalizationGroupIntelligence]]
 [[TCC]]
 [[UncertainNonlinearSystem]]
 [[complex system]]

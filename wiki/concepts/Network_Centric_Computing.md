@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[EfficientDeepLearning]]
 [[EmergentIntelligence_Spacetime]]
 [[Flow_Network_Memory]]
+[[Heterogeneous_Chiplet_Customization]]
 [[Heterogeneous_Inference_Division]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]

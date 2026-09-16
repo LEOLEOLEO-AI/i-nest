@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Cryogenic_Syndrome_Compression]]
 [[DataCenter_Chip_Logic_Compression]]
+[[Distributed_Spike_Communication]]
 [[EntropyMinimization]]
 [[FC2_NeuralCircuit]]
 [[FastSlow_Dynamics]]

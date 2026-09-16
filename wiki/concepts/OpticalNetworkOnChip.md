@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[CongestionAwareNoCPlacement]]
 [[Differential_FeatureExtraction]]
 [[Heterogeneous_Integration]]
+[[HighFrequency_Interconnect_Optimization]]
 [[InInterconnectMemory]]
 [[Interconnect_Routing]]
 [[LatencyCodedInterconnect]]

@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Barrier_Hierarchy]]
 [[Barrier_Hierarchy_Topology]]
 [[BayesianDiffusionGeneralizationPhaseTransition]]
+[[BayesianInverseBayesianInference]]
 [[Complex_System_Theory]]
 [[EdgeIoTEnergyAwareness]]
 [[Intelligence_Emergence]]

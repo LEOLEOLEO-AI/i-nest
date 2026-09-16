@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Efficient_Coding_Constraint]]
 [[EventBasedAnalogFrontEnd]]
 [[EventDrivenAttentionMechanism]]
+[[EventDrivenTrajectoryEncoding]]
 [[FPGA_Neuromorphic_Architectures]]
 [[FastSlow_Dynamics]]
 [[FixedOverheadCost]]

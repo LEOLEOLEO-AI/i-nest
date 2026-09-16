@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[ErdosRenyi_Graph_Energy_Surface]]
 [[HallmarkDrivenCancerModeling]]
 [[Intelligence_Emergence]]
+[[LocalStructuralPlasticity]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]

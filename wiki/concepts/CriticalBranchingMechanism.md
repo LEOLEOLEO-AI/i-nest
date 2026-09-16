@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Belief_Network_Manifold]]
 [[DynamicInference]]
 [[EmergentDynamics]]
+[[Flexible_Neuromorphic_Substrate]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

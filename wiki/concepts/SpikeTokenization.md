@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Delay_Aware_Autograd_Spiking_Framework]]
 [[DrivenCriticalityOptimalityTradeoff]]
 [[DualDrivenHybridNetwork]]
+[[ElasticInferenceScheduling]]
 [[EventBasedMotionDeblurring]]
 [[EventDataNonUniformity]]
 [[EventDrivenAutoregression]]

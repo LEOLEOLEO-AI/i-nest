@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[EnergyEfficientNeuromorphic]]
 [[Frontier_Innovation_Mapping]]
 [[GPU_Parallel_Throughput]]
+[[GradientBasedSpikeLearning]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]

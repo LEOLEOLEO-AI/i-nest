@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[ContactOpportunityExploitation]]
 [[DataCenter_Chip_Logic_Compression]]
 [[Differential_Encoding]]
+[[Distributed_Spike_Communication]]
 [[FreeEnergyMinimization]]
 [[GateModelQuantumOptimization]]
 [[GraphTopologyMetrics]]

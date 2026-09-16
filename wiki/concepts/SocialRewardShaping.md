@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN动力学]]
 [[ActiveMatterSubstrate]]
 [[AdaptiveDensityControl]]
+[[Advanced_Computing_Project]]
 [[Analog_InMemory_Processing]]
 [[BCM滑动阈值]]
 [[CST计量仪]]

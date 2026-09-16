@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[3d]]
 [[AI-ML — 全景导航 (Map of Content)]]
 [[AI_FullSpectrum_Strategy]]
+[[ANN动力学]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
@@ -40,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[advanced packaging]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

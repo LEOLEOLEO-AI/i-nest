@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[GlobalInformationDominance]]
+[[HierarchicalInferenceTopology]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Local_Approximation_Dynamics]]

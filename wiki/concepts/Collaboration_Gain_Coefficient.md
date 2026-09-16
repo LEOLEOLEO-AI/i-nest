@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Memory_Infrastructure]]
 [[AdaptiveBitPrecisionExploration]]
 [[AdaptiveGraphDiffusion]]
+[[Adaptive_Intelligence_Principle]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]

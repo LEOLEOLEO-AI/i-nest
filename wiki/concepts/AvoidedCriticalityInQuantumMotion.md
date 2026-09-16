@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[Cognitive_Relapse_Decoupling]]
 [[CollectiveStateTopology]]
+[[CounterstreamSignalPropagation]]
 [[CriticalLearningRegime]]
 [[Critical_State_Interconnect]]
 [[CriticalityInNetworkComputing]]

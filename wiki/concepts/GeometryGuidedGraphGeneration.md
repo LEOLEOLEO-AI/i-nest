@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Cryogenic_Syndrome_Compression]]
 [[DataCenter_Chip_Logic_Compression]]
 [[DeepThermalization]]
+[[Differential_Encoding]]
 [[DimensionalityReductionForNetworkControl]]
 [[Disordered_Heisenberg_Model]]
 [[Intelligence_Emergence]]

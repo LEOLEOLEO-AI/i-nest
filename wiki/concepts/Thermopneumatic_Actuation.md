@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AdversarialMedicalRobustness]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[Beyond_Moore_Packaging_Strategy]]
 [[CST_SynergisticCoordination]]
 [[CST计量仪]]
 [[CognitiveSupportTopology]]

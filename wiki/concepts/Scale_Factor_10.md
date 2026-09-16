@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Conductive_Filament_Switching]]
 [[ConformalFieldTheoryScaling]]
+[[DistributedInference]]
 [[Network_Fractal_Dimension]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]

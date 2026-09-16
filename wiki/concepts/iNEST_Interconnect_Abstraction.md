@@ -59,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[ThirdWaveAI]]
+[[WavelengthMultiplexedInterconnect]]
 [[iNEST]]
 [[iNEST_Interconnect]]
 [[涌现]]

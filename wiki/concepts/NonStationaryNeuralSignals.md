@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicCentralitySteering]]
 [[Dynamic_Expert_Fusion]]
 [[DynamicalCriticality]]
+[[EarlyExiting]]
 [[EmulationTheoryObserver]]
 [[InNetworkComputing]]
 [[MembranePotentialAlignment]]

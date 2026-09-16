@@ -1,5 +1,5 @@
 {
-  "last_compile": "2026-09-10",
+  "last_compile": "2026-09-17",
   "processed_files": {
     "imports/00_教材编写规划_两本配套.md": 1785465203.5583253,
     "imports/2026-06-23-comprehensive_diagnosis.md": 1785465203.560326,
@@ -1500,7 +1500,30 @@
     "00_Inbox/_pipeline_insights/2026-09-09_arXiv_Determinants of hyperparameter robustness in connectome rese.md": 1788926568.8620234,
     "00_Inbox/_pipeline_insights/2026-09-09_arXiv_FlexSpIM An Event-Based Digital Compute-In-Memory Accelerato.md": 1788926503.566382,
     "00_Inbox/_pipeline_insights/2026-09-09_arXiv_Limit Cycles in a Photonic Dimer with Tuneable Non-Hermitian.md": 1788926482.2147539,
-    "00_Inbox/_pipeline_insights/2026-09-09_arXiv_Phase oscillator networks with multiple and state-dependent .md": 1788926616.8024619
+    "00_Inbox/_pipeline_insights/2026-09-09_arXiv_Phase oscillator networks with multiple and state-dependent .md": 1788926616.8024619,
+    "00_Inbox/01_GetNotes/CGRA深度解析：后摩尔时代的算力架构革命.md": 1789563616.506703,
+    "00_Inbox/01_GetNotes/OnnxSlim 深度解析：让AI模型部署又快又轻的纯Python优化工具.md": 1789563616.5228696,
+    "00_Inbox/01_GetNotes/可重构处理器硬件架构拆解：CGRA为什么和GPU不一样？.md": 1789563616.5299191,
+    "00_Inbox/01_GetNotes/思科2026广域网AI报告解读：Agent时代，网络要从_服务人_变_服务任务_.md": 1789563616.545539,
+    "00_Inbox/01_GetNotes/晶圆级计算架构深度解析：从技术路线到产业落地.md": 1789563616.5541172,
+    "00_Inbox/01_GetNotes/果蝇大脑连接组 MaleCNS v1.0 深度解析：把真实脑神经做成神经网络.md": 1789563616.5611787,
+    "00_Inbox/01_GetNotes/清微智能4096芯片Mesh超节点深度拆解：用对称内存打破万卡集群通信墙.md": 1789563616.5689447,
+    "00_Inbox/_pipeline_insights/2026-09-10_arXiv_Dual-unitary Circuits as a Platform for Quantum Reservoir Co.md": 1789027001.246522,
+    "00_Inbox/_pipeline_insights/2026-09-10_arXiv_Energy pathway variety and the progress of the energy transi.md": 1789027072.9234142,
+    "00_Inbox/_pipeline_insights/2026-09-11_arXiv_A Chip-scale Space-time Multiplexed Gaussian Boson Sampling .md": 1789107454.1143937,
+    "00_Inbox/_pipeline_insights/2026-09-11_arXiv_A Time-Based Readout for Vector-Matrix Multiplication in Ful.md": 1789107620.1237328,
+    "00_Inbox/_pipeline_insights/2026-09-11_arXiv_CausalArena Benchmarking Causal Discovery in the Foundation .md": 1789107627.8082426,
+    "00_Inbox/_pipeline_insights/2026-09-11_arXiv_Coherent Floquet quantum reservoirs for molecular property p.md": 1789107686.6722534,
+    "00_Inbox/_pipeline_insights/2026-09-11_arXiv_Cortical information transfer reveals conserved hemispherica.md": 1789107710.3300793,
+    "00_Inbox/_pipeline_insights/2026-09-11_arXiv_Polyhedral Geometry of Time-to-First-Spike Neural Networks.md": 1789107646.3162315,
+    "00_Inbox/_pipeline_insights/2026-09-16_arXiv_A Unified Interconnection Network for Chiplet-Based Scaling .md": 1789546160.2484074,
+    "00_Inbox/_pipeline_insights/2026-09-16_arXiv_Budgeted Express-Mesh Traffic-Aware Link Placement and Deadl.md": 1789546183.5443108,
+    "00_Inbox/_pipeline_insights/2026-09-16_arXiv_Learning to Solve Hard Problems in RL for LLMs by Never Givi.md": 1789546305.2014935,
+    "00_Inbox/_pipeline_insights/2026-09-16_arXiv_Partial projected ensembles reveal slow tilt-constrained inf.md": 1789546312.8346,
+    "00_Inbox/_pipeline_insights/2026-09-16_arXiv_Scaled Hippocampus-inspired Neural Networks on Neuromorphic .md": 1789546243.8428757,
+    "00_Inbox/_pipeline_insights/2026-09-16_arXiv_Self-Emergence Agent ArchitectureBehavior-Inertia HMM, Refle.md": 1789546250.2733738,
+    "00_Inbox/_pipeline_insights/2026-09-16_arXiv_Stitch-Free, Diamond-Scribed Silicon Nitride Photonic Integr.md": 1789546139.7865672,
+    "00_Inbox/_pipeline_insights/2026-09-16_arXiv_Topology-Aware Congestion Pricing Demand Robust Routing usin.md": 1789546183.5572226
   },
   "concept_graph": {}
 }

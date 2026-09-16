@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[3D_Integration]]
 [[3D_Torus_6_Degree]]
 [[3d]]
+[[AI_Enabled_Battlefield_Autonomy]]
 [[ANN_to_SNN_Conversion_Error_Amplification]]
 [[ActivityAvalanche]]
 [[AddressRedundancyElimination]]

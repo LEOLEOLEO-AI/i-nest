@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AutonomousServiceNegotiation]]
 [[BackpropagationFreeLearning]]
 [[Battery_Technology_Integration]]
+[[CLINKAsCarrierPrimitive]]
 [[CUDAQSimulationFramework]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]

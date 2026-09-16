@@ -72,6 +72,8 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[TopologyAware_Embedding]]
+[[WavelengthMultiplexedInterconnect]]
+[[advanced packaging]]
 [[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]

@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Sensory_Motor_Loop]]
 [[Nonlinear_Gain]]
+[[ParallelSpatialPhotonicProgramming]]
 [[PipelinedReadout]]
 [[SNN]]
 [[SpikeEncodingLatency]]

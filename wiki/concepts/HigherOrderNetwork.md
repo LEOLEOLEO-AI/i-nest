@@ -51,6 +51,8 @@ Auto-extracted concept from raw material compilation.
 [[OpticallyWritableAtomicVaporMemory]]
 [[TCC]]
 [[TopologicalDataCompression]]
+[[TopologyEmbeddedSelfModel]]
+[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Integration]]
 [[Independent_EdgeAI_Player_Endgame]]
+[[Intelligent_Computing_Infrastructure]]
 [[Interconnect_Routing]]
 [[Memristive_Topology]]
 [[Memristor]]

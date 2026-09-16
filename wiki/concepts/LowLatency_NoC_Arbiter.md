@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AdjointWaveControl]]
 [[CXL_Deployment_Transition]]
 [[CavityMethodAnalysis]]
+[[Chiplet_Stacking]]
 [[Collective_Offloading]]
 [[CommunicationAsComputation]]
 [[CommunicationAwareComputeRelocation]]

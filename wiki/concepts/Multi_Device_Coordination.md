@@ -56,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[SmallWorldNetworks]]
 [[Spiking_Neural_Network]]
 [[Stochastic_LIF_Inference]]
+[[Universal_Claim_Evidence_Requirement]]
 [[iMESO_PhysicalCarrier]]
 [[iNEST]]
 [[神经形态脉冲大语言模型（NSLLM）]]

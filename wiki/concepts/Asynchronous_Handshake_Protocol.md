@@ -31,12 +31,12 @@ Auto-extracted concept from raw material compilation.
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[EventDrivenAsync]]
 [[EventDrivenAsynchronousRouting]]
+[[FPGA_NeuromorphicMapping]]
 [[Interconnect_Routing]]
 [[Learning_Rule_Comparison]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[SpikeBasedInference]]
-[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[Spiking_Temporal_Encoding]]
 

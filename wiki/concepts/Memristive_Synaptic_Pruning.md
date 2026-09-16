@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveCompetingInteractions]]
 [[Analog_InMemory_Processing]]
 [[AutonomousAdaptation]]
+[[Cognitive_Relapse_Architecture]]
 [[DTGA]]
 [[Decoupling_Mechanism]]
 [[Defense_Industrial_Base_Reshaping]]

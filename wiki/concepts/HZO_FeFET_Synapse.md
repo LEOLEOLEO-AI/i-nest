@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Network_Neuromorphic_State]]
 [[Neuromorphic_Computing]]
 [[PhotoInducedCurrent]]
+[[ReservoirTemporalMemory]]
 [[Reservoir_Computing]]
 [[Synaptic_Plasticity]]
 [[iNEST]]

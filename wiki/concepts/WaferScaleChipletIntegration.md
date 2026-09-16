@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[HierarchicalNetworkPartitioning]]
 [[InNetworkRadarProcessing]]
 [[Intelligent_Computing_Infrastructure]]
+[[InterChipletPHYModeling]]
 [[Interconnect_Routing]]
 [[Interconnect_Topology]]
 [[InverseDesignedPhotonicRouting]]

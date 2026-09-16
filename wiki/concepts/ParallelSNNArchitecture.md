@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicHardwareCoDesign]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Sensory_Motor_Loop]]
 [[Nonlinear_Gain]]
 [[RareEventSignalCoding]]
 [[RecursiveSelfReferentialArchitecture]]

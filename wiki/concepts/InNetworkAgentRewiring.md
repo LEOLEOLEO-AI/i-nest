@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalInterfaceBlock]]
 [[FunctionalInterfaceBlocks]]
 [[Intelligence_Emergence]]
+[[InterconnectConstrainedEmergence]]
 [[Interconnect_Scaling]]
 [[KV_Cache_To_BoundaryObject]]
 [[KV_Cache_to_BoundaryObject_Transition]]

@@ -1,0 +1,66 @@
+
+============================================================
+  iNEST + TCC Research Pipeline v3.3
+  2026-09-17 07:23
+============================================================
+[07:23:53] [S2] Searching Semantic Scholar (19 queries)...
+[07:23:54]   S2: 429 rate limited; skip S2 for this run and continue with arXiv/GN
+[07:23:54] [arXiv] Searching arXiv (via proxy, 21 queries)...
+[07:23:54]   arXiv TCC-scale-noc: HTTP 406, skipping
+[07:24:01]   arXiv TCC-wafer-chiplet: HTTP 406, skipping
+[07:24:07]   arXiv TCC-reconfigurable: HTTP 406, skipping
+[07:24:13]   arXiv TCC-higher-order: HTTP 406, skipping
+[07:24:22]   arXiv TCC-sim-compile: HTTP 406, skipping
+[07:24:27]   arXiv: batch separator, pausing 10s...
+[07:24:38]   arXiv TCC-topology-opt: HTTP 406, skipping
+[07:24:43]   arXiv TCC-qos: HTTP 406, skipping
+[07:24:48]   arXiv iNEST-selforg-critical: HTTP 406, skipping
+[07:24:54]   arXiv iNEST-nonlinear: HTTP 406, skipping
+[07:25:00]   arXiv iNEST-spatiotemporal: HTTP 406, skipping
+[07:25:05]   arXiv: batch separator, pausing 10s...
+[07:25:15]   arXiv iNEST-snn: HTTP 406, skipping
+[07:25:21]   arXiv iNEST-emergence: HTTP 406, skipping
+[07:25:26]   arXiv iNEST-async: HTTP 406, skipping
+[07:25:32]   arXiv iNEST-structure: HTTP 406, skipping
+[07:25:37]   arXiv iNEST-higher-order: HTTP 406, skipping
+[07:25:42]   arXiv: batch separator, pausing 10s...
+[07:25:53]   arXiv iNEST-free-energy: HTTP 406, skipping
+[07:25:58]   arXiv iNEST-reservoir: HTTP 406, skipping
+[07:26:03]   arXiv bridge-network-comp: HTTP 406, skipping
+[07:26:09]   arXiv bridge-info-emergence: HTTP 406, skipping
+[07:26:14]   arXiv TCC-topology-centric: HTTP 406, skipping
+[07:26:19]   arXiv: batch separator, pausing 10s...
+[07:26:30]   arXiv bridge-complex-emergence: HTTP 406, skipping
+[07:26:35] [arXiv] 0 new papers, 21 errors across 21 queries
+[07:26:35] [GN] Google News RSS...
+[07:26:56]   GN error (TCC): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[07:27:18]   GN error (iNEST): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[07:27:40]   GN error (emergence): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[07:28:02]   GN error (complex-networks): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[07:28:03] [GN] 0 new articles
+
+  Total: 0 new items to inbox
+[07:28:03] [Process] LLM classify (free tier, limit=20)...
+[07:28:26] [Process] Classified: 0
+[07:28:26] [Genspark] Generating research brief...
+[07:28:27] [Genspark] Research brief written: genspark_research_brief.md
+[07:28:27] [Graph] Scanning wiki links...
+[07:29:52] [Graph] 13066 files, 273116 links
+[07:31:55] [Graph] Exported: 13066 nodes, 269612 edges
+[07:31:55] [Graph] 0 missing backlinks
+[07:31:55] [DailyGen] Daily_Action + Focus + Insights generated
+[07:31:55] [Review] Research task proposals refreshed
+
+============================================================
+  Pipeline v3.3 Complete
+  Sources: 0(S2)+0(arXiv)+0(GN) | Written: 0 new papers
+  Processed: 0 | Nodes: 13066 edges: 269612 | Missing links: 0 | Genspark: OK
+  Elapsed: 482s
+============================================================
+[07:31:56] [State] research_state.json updated
+[07:31:56] [Evolution] Evidence + hypotheses updated
+[07:32:56] [Wiki] Warning: Command '['C:\\Users\\LEO\\AppData\\Local\\Programs\\Python\\Python310\\python.exe', 'D:\\Obsidian\\vault\\90_System\\scripts\\wiki_compiler.py']' timed out after 60 seconds
+[07:32:57] [Insight] Cross-domain bridges updated
+[07:33:44] [Tasks] Research recommendations updated
+[07:33:45] [Dashboard] Live dashboard published
+[07:33:46] [Homepage] Home.md auto-refreshed

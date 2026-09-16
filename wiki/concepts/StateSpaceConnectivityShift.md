@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamics_Matching]]
 [[ErrorSuppressedPipeline]]
 [[FractalPathEntropy]]
+[[Generation_Readiness_Assessment]]
 [[HardwareAware_DesignSpace]]
 [[HierarchicalReservoirDynamics]]
 [[MechanicalReservoirComputing]]

@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_Wafer_Stack]]
 [[NoC_Chiplet_iNEST_Wafer]]
 [[NoC_SDI]]
+[[Obsidian_Plugin_Architecture]]
 [[OnChipOpticalTweezers]]
 [[P_Paradigm]]
 [[SDI_Bond]]

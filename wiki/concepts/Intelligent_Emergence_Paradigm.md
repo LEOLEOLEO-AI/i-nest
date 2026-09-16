@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Deep_Brain_Stimulation]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[BrainBodyResonance]]
+[[CascadedAdaptiveCombiners]]
 [[ClosedLoopNeuromorphicControl]]
 [[Intelligence_Emergence]]
 [[Neuromorphic_Computing]]

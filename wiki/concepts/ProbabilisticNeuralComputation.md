@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Compute_In_Memory_Neuromorphic]]
 [[Continual_Learning_Modularity]]
 [[DelayTolerantNetworkUAV]]
+[[DistributedIntelligence]]
 [[Distributed_Intelligent_Manufacturing]]
 [[EndToEndTopologicalLearning]]
 [[Heterogeneous_Integration]]

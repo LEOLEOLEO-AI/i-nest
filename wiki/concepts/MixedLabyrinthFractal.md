@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[OpenSource_Neuromorphic_Framework]]
+[[PerturbationSpaceTrajectory]]
 [[ReSCom_Accelerator]]
 [[Real_Time_Neuromorphic_Constraint_Satisfaction]]
 [[RecursiveSelfReferentialArchitecture]]

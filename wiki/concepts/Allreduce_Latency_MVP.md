@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Prototype_Validation]]
 [[FlagOS_2_0]]
 [[FlagScale]]
+[[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
 [[Memory_Wall]]
 [[MetricComputationAuthenticity]]

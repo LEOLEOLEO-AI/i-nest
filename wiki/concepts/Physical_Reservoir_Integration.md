@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_Manufacturing_Strategy]]
 [[DARPA_ProjectManager_Model]]
 [[DTGA]]
+[[Deep_Network_Layer_Stacking]]
 [[DendriticReservoirState]]
 [[FunctionalInterfaceBlock]]
 [[InNetwork_Learning_Interface]]

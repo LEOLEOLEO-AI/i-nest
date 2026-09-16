@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[SelfOrganization]]
 [[TCC]]
+[[advanced packaging]]
 [[chiplet interconnect]]
 
 ## Sources

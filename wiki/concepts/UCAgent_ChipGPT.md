@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AmorphousTopologicalSubstrate]]
+[[BeliefPropagationOnGraphTopology]]
 [[BoundaryContract]]
 [[BoundaryObject_Abstraction]]
 [[CST_Intelligence_Emergence]]

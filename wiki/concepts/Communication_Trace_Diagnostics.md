@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[ConductingPolymerDendriteMemory]]
+[[DendriticTaskRouting]]
 [[EdgeIoTEnergyAwareness]]
 [[EpidemicThreshold]]
 [[Event_Driven_Architecture]]

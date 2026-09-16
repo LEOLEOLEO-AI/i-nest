@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[BigBrainCellularAxis]]
+[[Bipartite_Interconnect]]
 [[Bipartite_Interconnect_Design]]
 [[Cascading_Failure_Mitigation]]
 [[ConductingPolymerDendriteMemory]]
@@ -28,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossLayer_SignalRouting]]
 [[DTGA]]
 [[DisturbancePropagationPath]]
+[[EpidemicThreshold]]
 [[EventDrivenAsync]]
 [[EventDrivenAsynchronousRouting]]
 [[EventDriven_Interconnect]]

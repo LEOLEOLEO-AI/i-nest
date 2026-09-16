@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Scaling]]
 [[L2_L3_Reconfigurability]]
 [[Memristive_Topology]]
+[[Mesoscale_Physical_Computing_Framework]]
 [[NCL神经计算定律详解]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]

@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[RandomProjectionLandscapePreservation]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Selection_Theorems]]
+[[Semantic_Least_Energy_Principle]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]

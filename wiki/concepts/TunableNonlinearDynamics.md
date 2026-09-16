@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[DTGA]]
 [[Decoupling_Mechanism]]
 [[DifferentiableLifting]]
+[[DiscreteScaleInvariance]]
 [[EcosystemTopologyCoupling]]
 [[Epidemic_Mitigation_Strategy]]
 [[Evolutionary_Reservoir_Adaptation]]

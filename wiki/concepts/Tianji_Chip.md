@@ -26,6 +26,8 @@ Auto-extracted concept from raw material compilation.
 [[3D_Vertical_Interconnect]]
 [[3d]]
 [[AI_Driven_Power_Density_Scaling]]
+[[Battery_Technology_Integration]]
+[[Bipartite_Interconnect]]
 [[Bipartite_Interconnect_Design]]
 [[BrainInspired_Chip]]
 [[Chiplet]]

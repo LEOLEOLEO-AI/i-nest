@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[GeometryGuidedGenerativeModel]]
 [[Hypersonic_Systems_Research]]
 [[Intelligence_Emergence]]
+[[LocalStructuralPlasticity]]
 [[Network_Topology_Design]]
 [[Reservoir_Computing]]
 [[Synaptic_Plasticity]]

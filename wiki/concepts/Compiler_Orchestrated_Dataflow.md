@@ -26,8 +26,13 @@ Auto-extracted concept from raw material compilation.
 [[3DHI_Stacking]]
 [[3D_TokSIM_Architecture]]
 [[3D_Vertical_Interconnect]]
+[[3d]]
 [[AI_Driven_Power_Density_Scaling]]
 [[AI_Faculty_Forum_2026]]
+[[BoundaryContract]]
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 

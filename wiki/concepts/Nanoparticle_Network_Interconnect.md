@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[NoiseModulatedLearning]]
 [[NonvolatileChargeDomain]]
 [[OpenLearningEcosystem]]
+[[OpportunisticRouting]]
 [[P_Paradigm]]
 [[RecursiveSelfReferentialArchitecture]]
 [[StochasticMultiAgentRL]]

@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[ErrorSuppressedPipeline]]
 [[Evolving_System_Adaptation]]
 [[FederatedServiceGraph]]
+[[HierarchicalCrackPatternGeneration]]
 [[LargeDeviationTopologicalOrder]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]

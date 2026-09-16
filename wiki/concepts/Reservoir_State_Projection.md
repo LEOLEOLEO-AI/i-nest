@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Crystallized_Neural_Manifolds]]
 [[DataDrivenMaterialDesign]]
 [[DifferentiableLifting]]
+[[DistributedInference]]
 [[DivergentHigherAreaRanking]]
 [[Epidemic_Mitigation_Strategy]]
 [[ErrorSuppressedPipeline]]

@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[EmergentRecurrentConnectivity]]
 [[EnsembleCreditAssignment]]
 [[Entangled_Criticality]]
+[[FlexibleManifoldReconfiguration]]
 [[Fractal_Wavefront_Scaling]]
 [[ImmobilizationStabilityMechanism]]
 [[Intelligence_Emergence]]

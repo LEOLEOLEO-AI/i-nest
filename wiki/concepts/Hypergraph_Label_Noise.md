@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Distributed_Spike_Communication]]
 [[Environmental_Capability_Context]]
 [[FirstPrinciples_Derivation]]
+[[FixedOverheadPenalty]]
 [[Heterogeneous_Integration]]
 [[HigherOrderStochasticProcess]]
 [[In_Network_Neuromorphic]]

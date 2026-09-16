@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Processing]]
 [[ExponentialDenseAssociativeMemory]]
 [[FerroelectricTunnelingJunction]]
+[[Ferroelectric_ComputeInMemory]]
 [[Ferroelectric_Devices]]
 [[Field_Compression_for_InNetwork_Inference]]
 [[FoveationGuidedTokenSelection]]

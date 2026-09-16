@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_iNEST_Wafer]]
 [[NoC_SDI]]
 [[P_Paradigm]]
+[[Packaging_CoDesign]]
 [[SDI_Bond]]
 [[SDI_TopologyWaferIntegration]]
 [[SDI_Topology]]
@@ -65,6 +66,8 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Topology]]
 [[Wafer_Scale_Topology_Control]]
 [[chiplet interconnect]]
+[[iNEST]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

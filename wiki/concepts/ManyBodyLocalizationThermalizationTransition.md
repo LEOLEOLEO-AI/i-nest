@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveEntanglementManagement]]
 [[AdaptiveFunctionalTopology]]
 [[AdaptiveGraphDiffusion]]
+[[Adaptive_Intelligence_Principle]]
 [[Additive_Manufacturing_Supply_Chain]]
 [[AdjointWaveControl]]
 [[Alpha_Computation_Consistency]]

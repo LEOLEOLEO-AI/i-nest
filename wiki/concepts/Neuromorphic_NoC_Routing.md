@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Bidirectional_Temporal_Enhancement]]
+[[BrainInspired_Chip]]
 [[ConsciousnessEngineeringLoop]]
 [[Continuous_Control_Spike_Timing_Sensitivity]]
 [[CorticalWaveRouting]]
@@ -40,6 +41,8 @@ Auto-extracted concept from raw material compilation.
 [[NoC_SNN]]
 [[QuarantineCostTradeoff]]
 [[RobustnessToNoiseInSNN]]
+[[SDI_Bond]]
+[[SDI_iNEST]]
 [[SDI_iNEST_Interconnect]]
 [[SNN]]
 [[ST_SNN]]
@@ -55,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[TemporalSparsityExploitation]]
 [[ThresholdBasedSpikeEncoding]]
 [[iNEST]]
+[[iNEST_Interconnect]]
 [[iNEST_Neuromorphic_Integration]]
 
 ## Sources

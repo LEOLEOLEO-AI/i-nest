@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Causal_Emergence]]
 [[Causal_Emergence_Integration]]
 [[CavityMethodAnalysis]]
+[[ChipletRoutingFabric]]
 [[Complex_System_Theory]]
 [[Confinement]]
 [[Core_Spacetime_Tensor]]

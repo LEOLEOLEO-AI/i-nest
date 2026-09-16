@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Microbiome_Immune_Endocrine_Interplay]]
 [[Network_Topology_Design]]
 [[OnlinePlasticity]]
+[[QuantumReservoirMemoryCapacity]]
 [[ReproducibleEmergenceValidation]]
 [[Reservoir_Computing]]
 [[ScaleFreeNetwork]]

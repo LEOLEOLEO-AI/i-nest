@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[BackpropagationFreeLearning]]
+[[CLINKAsCarrierPrimitive]]
 [[CST计量仪]]
 [[ChipletWaferTopologyCoDesign]]
 [[Chiplet]]

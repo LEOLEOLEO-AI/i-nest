@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Beyond_Moore_Pathway]]
 [[BioInspiredGeneralist]]
 [[CoPackagedOptics]]
+[[Compact_Boson_Dynamics]]
 [[Complex_System_Theory]]
 [[Compute_In_Memory_Neuromorphic]]
 [[Continual_Learning_Modularity]]

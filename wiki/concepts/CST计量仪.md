@@ -44,6 +44,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[DTGA]]
 [[Deep_Network_Architecture_Invariant]]
+[[Distributed_Spike_Communication]]
 [[EmergentOrder]]
 [[EulaminateOverrepresentation]]
 [[Heterogeneous_Integration]]

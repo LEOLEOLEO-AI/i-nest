@@ -56,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Synapse]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
+[[NoC_EventRouting]]
 [[SNN]]
 [[SpikeCommunicationCost]]
 [[Spiking_Neural_Network]]

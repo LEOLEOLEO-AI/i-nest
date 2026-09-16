@@ -1,0 +1,55 @@
+---
+direction: both
+category: 理论
+tags: [对称性破缺, 序参数, 突然学习, 缩放定律, Lotka-Volterra, 神经二次型]
+summary: "神经二次型统一模型揭示突然学习与缩放定律的对称性机制"
+quality: high
+processed: 2026-09-16 20:12
+---
+---
+title: "Neural Quadratic Forms: A Unified Minimal Model for Sudden Learning and Scaling Laws"
+arxiv_id: "2608.13335v1"
+link: "http://arxiv.org/abs/2608.13335v1"
+date_added: "2026-08-15"
+tags:
+  - arxiv-auto
+  - literature
+  - 2026-08
+---
+
+# Neural Quadratic Forms: A Unified Minimal Model for Sudden Learning and Scaling Laws
+
+🔗 http://arxiv.org/abs/2608.13335v1
+
+---
+
+## 1. 核心创新
+
+verbatim: We show that a symmetry fixes what those variables are: a network layer is a sum over interchangeable units, so relabeling the units leaves it unchanged; given smoothness and the condition that a unit's gradient vanish at the origin, symmetry then enforces a universal leading form for the expansion about the near-zero weights... Its training dynamics then close on the 'order parameter'
+
+## 2. 对 TCC / iNEST 的价值分析
+
+verbatim: the cost holds on long plateaus and then drops abruptly. Meanwhile, training losses instead follow smooth power laws. Variants of both behaviors occur in architectures with very different microscopic structures, which is the signature of a few relevant collective variables... the plateaus appear as a singular limit of a smooth flow; when many modes are unresolved the same events merge i
+
+## 3. 后续应用方案建议
+
+verbatim: We confirm both numerically across training methods and architectures... Its training dynamics then close on the 'order parameter' M=WWᵀ and, whenever the data matrices share an eigenbasis, reduce to a Lotka–Volterra equation whose modes switch on one after another.
+answer: 1. **理论引用与建模**：在iNEST/TCC的理论体系中引用本文的对称性破缺与序参数 $M=WW^T$ 概念，用于解释大规模SOC神经网络中自发涌现的计算能力阶梯现象。
+2. **实验验证与改进**：借鉴文中的Lotka-
+
+---
+
+## 原始摘要
+
+> Neural networks trained by gradient descent on a smooth cost function can nevertheless learn in steps: the cost holds on long plateaus and then drops abruptly. Meanwhile, training losses instead follow smooth power laws. Variants of both behaviors occur in architectures with very different microscopic structures, which is the signature of a few relevant collective variables. We show that a symmetry fixes what those variables are: a network layer is a sum over interchangeable units, so relabeling the units leaves it unchanged; given smoothness and the condition that a unit's gradient vanish at 
+
+---
+*自动抓取于 2026-08-15 | iNEST arXiv WikiBot v2.2-gsk*
+
+
+## 相关链接
+- [[Neural_Quadratic_Forms_Unified_Model_Sudden_Learning_Scaling_Laws]]
+- [[DNN-Orientation-Generalization-Neural-Mechanisms]]
+- [[2026-07-14-2607.10770]]
+- [[Generalized_Master_Stability_Heterogeneous_Delay_Coupled_Networks_2012]]
+- [[2026-07-14-2607.11662]]

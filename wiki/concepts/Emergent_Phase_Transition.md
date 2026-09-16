@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[DiscreteContinuous_Unification]]
 [[EmulationTheoryDisturbanceObserver]]
 [[FormalLinguisticCompetence]]
+[[HierarchicalBayesianCommunityDetection]]
 [[Intelligence_Emergence]]
 [[Neuromorphic_Computing]]
 [[Self_Organized_Criticality]]

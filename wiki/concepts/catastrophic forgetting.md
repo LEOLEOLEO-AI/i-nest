@@ -62,6 +62,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[getnote_2025-10-17_能量函数驱动神经网络设计]]
 [[iNEST]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]

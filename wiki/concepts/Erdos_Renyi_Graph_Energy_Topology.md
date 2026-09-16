@@ -42,6 +42,8 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityDrivenAdaptation]]
 [[Criticality]]
 [[Network_Topology_Design]]
+[[PerspectiveLatent]]
+[[STDP_Plasticity]]
 [[STDP_Supervised_Degradation]]
 [[SelfMotivatedGrowth]]
 [[Self_Organized_Criticality]]

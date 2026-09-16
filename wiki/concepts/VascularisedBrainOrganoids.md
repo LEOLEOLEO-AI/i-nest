@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Complexity_Emergence]]
 [[Course_Based_FPGA_Projects]]
+[[CriticalStateDynamics]]
 [[Criticality]]
 [[Criticality_Induced_Plasticity]]
 [[Crystallized_Neural_Manifolds]]

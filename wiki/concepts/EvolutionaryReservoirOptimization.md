@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[FederatedServiceGraph]]
 [[HardwareAware_DesignSpace]]
+[[HigherOrderSimplicialDynamics]]
 [[Intelligence_Emergence]]
 [[NCA_Reservoir]]
 [[Network_Topology_Design]]

@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Reservoir_Topology]]
 [[Heterogeneous_Integration]]
 [[IncidenceBasedRandomWalk]]
+[[InkjetPrintedElectrochemicalSensors]]
 [[Intelligence_Emergence]]
 [[MitigationLayers]]
 [[Network_Topology_Design]]

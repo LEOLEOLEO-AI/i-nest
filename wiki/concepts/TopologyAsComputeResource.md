@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[3D_Integration]]
 [[3D_Stacking]]
 [[3D_Vertical_Interconnect]]
+[[3_Plus_1_Chiplet_Array]]
 [[3d]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Cascading_Failure_Mitigation]]
 [[ConsciousnessEngineeringLoop]]
 [[Continuous_Control_Spike_Timing_Sensitivity]]
+[[CorticalWaveRouting]]
 [[CrossLayer_SignalRouting]]
 [[DisturbancePropagationPath]]
 [[EventCameraTemporalEncoding]]

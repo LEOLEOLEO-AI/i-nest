@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[CatalyticReactionNetwork]]
 [[CerebellarLikeCircuit]]
 [[CertifiedBifurcationDetection]]
+[[Channel_Decoding_Energy_Landscape]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

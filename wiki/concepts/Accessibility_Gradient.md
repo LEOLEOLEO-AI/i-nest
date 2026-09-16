@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[AtomicGeometryToElectronicTopologyMapping]]
 [[AttractorNeuralNetwork]]
 [[AutoAssociativeMemoryRobustness]]
+[[AutonomousCombatScenarios]]
 [[Complex_System_Theory]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]

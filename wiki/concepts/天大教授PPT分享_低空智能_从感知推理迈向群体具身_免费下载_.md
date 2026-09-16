@@ -67,6 +67,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[TopologicalComplexityReduction]]
+[[TopologicalFeatureEmbedding]]
 [[complex system]]
 [[getnote_2025-12-17_3D异构集成_3DHI_技术深度研究_机遇_挑战与未来路径]]
 [[iNEST]]

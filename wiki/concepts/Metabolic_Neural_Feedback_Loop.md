@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[CircadianGateModulation]]
 [[Comparative_Formulation_Analysis]]
+[[Complexity_Coordination_Layer]]
 [[Critical_Exponent_Scaling]]
 [[Deep_Network_Layer_Stacking]]
 [[DendriticReservoirState]]

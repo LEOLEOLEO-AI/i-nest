@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[BulletTrainScheduling]]
 [[BurstSuppressionMechanism]]
 [[BurstSuppression]]
+[[Catastrophic_Forgetting_Mitigation]]
 [[CirculateFiringNeuron]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]

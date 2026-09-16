@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[InputAdaptiveComputation]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[Long_Range_Interactions]]
 [[MesonSpectra]]
 [[Monitored_Quantum_Circuits]]
 [[Network_Topology_Design]]

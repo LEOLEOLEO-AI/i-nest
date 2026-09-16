@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AvalancheBranchingRatio]]
 [[BCM滑动阈值]]
 [[BranchingRatio]]
+[[CST_Synergy_Coordination]]
 [[CST_Theory]]
 [[CST_Theory_V27_FINAL]]
 [[Complex_System_Theory]]

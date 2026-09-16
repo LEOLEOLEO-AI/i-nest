@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Autonomous_Physical_Computation]]
 [[BackflowTransformation]]
 [[BayesianDomainEvolution]]
+[[BehavioralFeedbackLoop]]
 [[Brain_Connectome]]
 [[C__elegans_Connectome]]
 [[C_elegansConnectomeAnalogy]]

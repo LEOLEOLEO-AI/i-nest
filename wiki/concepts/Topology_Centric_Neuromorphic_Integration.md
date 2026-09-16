@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[PerturbationSpaceTrajectory]]
 [[QuantumDeepSupervision]]
 [[ReSCom_Accelerator]]
+[[Recurrent_Network_Homeostasis]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[SNN_TCC_Integration]]

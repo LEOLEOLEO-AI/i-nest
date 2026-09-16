@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[FirstTimestepConversion]]
 [[FoveationGuidedTokenSelection]]
 [[FunctionalEnsemble]]
+[[InputAdaptiveComputation]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[MagnitudePhaseComputationalModel]]

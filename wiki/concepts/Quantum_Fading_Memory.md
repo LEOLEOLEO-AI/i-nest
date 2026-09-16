@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[CombinatorialOptimizationReservoirMapping]]
 [[CrossbarArrayIntegration]]
 [[DARPA_ProjectManager_Model]]
 [[MemoryComputeIntegration]]
@@ -28,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Neural_Manifold_Crystallization]]
 [[Neuromorphic_Computing]]
 [[OscillatoryReservoirDynamics]]
+[[ReservoirDynamics]]
 [[Reservoir_Computing]]
 [[iNEST]]
 

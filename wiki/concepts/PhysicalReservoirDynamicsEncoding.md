@@ -56,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing_Branch_Prediction]]
 [[Reservoir_Computing_DP_Recycling]]
 [[TensorNetworkReservoir]]
+[[TriAxiomCalibration]]
 [[analog computation]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]

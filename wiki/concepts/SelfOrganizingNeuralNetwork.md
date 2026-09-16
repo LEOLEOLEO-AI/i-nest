@@ -61,6 +61,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[SDDE_Attractor_Emergence]]
 [[STDP_Plasticity]]
+[[SpikingTopologyPreservation]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
 [[涌现]]

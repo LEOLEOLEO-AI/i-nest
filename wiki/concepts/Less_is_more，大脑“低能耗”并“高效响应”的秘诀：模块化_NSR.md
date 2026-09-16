@@ -25,6 +25,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 
 ## Related Work
 
+[[3d]]
 [[Brain_Connectome]]
 [[CST计量仪]]
 [[Chiplet]]
@@ -46,11 +47,13 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Nat_Hum_Behav_用「全拓扑网络」重塑视皮层地图]]
 [[Nature_Computational_Science_用AI发现高维复杂网络的动力学公式]]
 [[Network_Topology_Design]]
+[[Neuromorphic_Computing]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[_Nature大子刊_3D集成技术如何打破神经形态计算的_互连墙_]]
 [[complex system]]
 [[getnote_2025-09-18_Sandia国家实验室]]
+[[getnote_2026-01-12_低功耗智能新范式]]
 [[getnote_2026-01-12_数字孪生大脑工程化路径]]
 [[getnote_2026-01-12_晶圆级神经网络能效革命]]
 [[getnote_2026-06-27_智能涌现理论框架]]
@@ -61,6 +64,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[复杂网络]]
 [[智能涌现]]
 [[涌现]]
+[[神经形态计算]]
 [[神经网络]]
 [[科技丨据说互联网过时了！他的发明人准备造个新网络！ (1)]]
 [[自然_物理_当拓扑_动起来_高阶网络重塑动力学]]

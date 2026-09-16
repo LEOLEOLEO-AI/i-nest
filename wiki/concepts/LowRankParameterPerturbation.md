@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[AstrocyteInspiredModulation]]
 [[AtomicGeometryEncoding]]
 [[BarrierConditionedTrajectory]]
+[[BrownianCastleInterface]]
 [[Closed_Loop_SNN_Stability_Boundary]]
 [[CrashHotspotForecasting]]
 [[DirectoryManagementLaws]]

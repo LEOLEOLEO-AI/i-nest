@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Photopolymerization_Printing]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
+[[UV_Intensity_Modulated_HRS]]
 [[iNEST]]
 
 ## Sources

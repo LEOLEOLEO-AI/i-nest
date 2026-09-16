@@ -57,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[ReproducibleReservoirDynamics]]
 [[ReservoirDynamics]]
 [[Reservoir_Computing]]
+[[ThermallyDrivenSuperparamagnetReservoir]]
 [[chiplet interconnect]]
 [[Γst_Revision]]
 

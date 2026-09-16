@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[DissipativeQuantumReservoir]]
 [[Emergent_Reservoir_Topology]]
 [[EndToEndTopologyLearning]]
+[[Epithelial_Barrier_Integrity]]
 [[FirstPrinciples_AI]]
 [[FisherOrthogonalMemory]]
 [[Heterogeneous_Integration]]

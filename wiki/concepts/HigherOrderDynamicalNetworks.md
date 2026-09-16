@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[ActionWeightedPathEnsemble]]
 [[AdditiveTopology_Embedding]]
 [[AdversarialRobustness]]
+[[AdversarialSensingResilience]]
 [[Complex_System_Theory]]
 [[Complexity_Emergence]]
 [[HiddenTopologyReveal]]

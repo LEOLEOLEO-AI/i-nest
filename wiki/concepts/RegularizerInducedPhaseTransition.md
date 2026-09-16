@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[DTGA]]
 [[DimensionSeparation_IntensiveExtensive]]
 [[Dimensionality_Modularity_Tradeoff]]
+[[DirectoryManagementLaws]]
 [[DynamicCentralitySteering]]
 [[DynamicalCriticality]]
 [[EmulationTheoryDisturbanceObserver]]

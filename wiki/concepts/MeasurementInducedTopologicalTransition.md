@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[ImaginaryGaugePhaseImprint]]
 [[Intelligence_Emergence]]
 [[Intelligent_Computing_Infrastructure]]
+[[L2_L3_Reconfigurability]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[MitigationLayers]]
 [[Network_Topology_Design]]

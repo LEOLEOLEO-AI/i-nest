@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Replication_Strategy]]
 [[Avoided_Criticality]]
 [[BurstGatedRouting]]
+[[BurstSuppressionMechanism]]
 [[ContinuousControlConversion]]
 [[Course_Based_FPGA_Prototyping]]
 [[Criticality]]

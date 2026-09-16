@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3D_Heterogeneous_Integration]]
+[[3d]]
 [[AdaptiveBitPrecisionExploration]]
 [[AdaptiveGraphDiffusion]]
 [[Adaptive_Intelligence_Principle]]
@@ -30,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AndersonTransition]]
 [[BioInspiredGeneralist]]
 [[Chiplet_Heterogeneous_Integration]]
+[[ChiralSymmetryClasses]]
 [[CoPackagedOptics]]
 [[Compute_In_Memory_Neuromorphic]]
 [[FreeToken_Offloading]]
@@ -40,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[TCC]]
+[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

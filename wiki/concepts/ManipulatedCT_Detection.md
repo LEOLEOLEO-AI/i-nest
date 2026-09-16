@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Edge_Neuromorphic_Compute]]
 [[EventBasedMotionDeblurring]]
 [[EventCameraPoseInput]]
+[[ExplosiveTransitionThreshold]]
 [[FlagOS_2_0]]
 [[ImpactFallDetection]]
 [[In_Network_Neuromorphic]]

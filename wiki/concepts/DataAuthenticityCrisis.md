@@ -58,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[HigherOrderInteractions]]
 [[HybridBondingForPhotonicLayers]]
 [[Intelligence_Emergence]]
+[[InterconnectConstrainedEmergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Topology]]

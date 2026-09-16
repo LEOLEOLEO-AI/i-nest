@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Alpha_Computation_Consistency]]
 [[Analog_Weight_Storage]]
 [[BehavioralNeuromorphicCorrelates]]
+[[BigBrainCellularAxis]]
 [[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
+[[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[神经网络]]
 

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Avoided_Criticality]]
 [[BandedConnectivityModel]]
 [[BigBrainCellularAxis]]
+[[Biologically_Plausible_Learning_Rules]]
 [[BrownianCastleInterface]]
 [[BrownianCastleInterfaces]]
 [[BurstTemporalPlasticity]]

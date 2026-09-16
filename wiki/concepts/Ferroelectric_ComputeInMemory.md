@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[3DHI_Chiplet_Integration]]
 [[3D_Heterogeneous_Integration]]
 [[3d]]
+[[AI_Driven_Power_Density_Scaling]]
 [[AI_Faculty_Forum_2026]]
 [[AdaptiveGraphDiffusion]]
 [[Adaptive_Intelligence_Principle]]
@@ -68,6 +69,7 @@ Auto-extracted concept from raw material compilation.
 [[SiC_GaN_Power_Integration]]
 [[Spatiotemporal_Synergy]]
 [[State_Transition_Formalism]]
+[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

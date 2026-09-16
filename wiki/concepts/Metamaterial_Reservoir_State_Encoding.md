@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Active_Inference_Topology]]
 [[AdaptiveGraphDiffusion]]
 [[AdaptiveModelPartitioning]]
+[[Adaptive_Intelligence_Principle]]
 [[Adaptive_Path_Selection]]
 [[AnalogDomainCompression]]
 [[AndersonTransition]]

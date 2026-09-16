@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[BackflowTransformation]]
 [[BayesianDomainEvolution]]
 [[Brain_Connectome]]
+[[Brain_Verified_Scaling_Target]]
 [[C_elegansConnectomeAnalogy]]
 [[ChaoticAttractorTopology]]
 [[ConnectomeComputationBasis]]

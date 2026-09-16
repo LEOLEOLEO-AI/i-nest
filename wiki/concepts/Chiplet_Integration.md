@@ -24,8 +24,10 @@ Auto-extracted concept from raw material compilation.
 [[3d]]
 [[AI_Application_Scenario_Reconstruction]]
 [[AdvancedPackagingInterconnect]]
+[[AdvancedPackaging]]
 [[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
+[[ApproximationFidelityTradeoff]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
@@ -36,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[SOW_BottomLayer]]
 [[SynapticWeightMatrixCompression]]
 [[WavelengthMultiplexedInterconnect]]
+[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

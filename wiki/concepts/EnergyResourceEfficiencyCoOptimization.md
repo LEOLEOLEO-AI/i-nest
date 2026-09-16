@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[LearningTransition]]
 [[Long_Range_Interactions]]
 [[MemristiveReservoirBranchPrediction]]
+[[Memristive_ANN_Hardware]]
 [[Memristive_CAM_Indexing]]
 [[Memristive_Crossbar]]
 [[Memristive_Crossbar_Array]]

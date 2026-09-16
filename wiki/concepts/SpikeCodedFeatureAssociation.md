@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_STDP]]
 [[Neuromorphic_Computing]]
 [[NoiseInducedPhaseLocking]]
+[[NonEquilibriumPhase]]
 [[On_Chip_STDP_Learning]]
 [[PhaseSynchronizationDetection]]
 [[RecursiveSelfReferentialArchitecture]]

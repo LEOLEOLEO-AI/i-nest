@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[FerroelectricSynapticArray]]
 [[Ferroelectric_Devices]]
 [[HybridResistiveMemoryCIM]]
+[[IMPLYMemristiveISA]]
 [[In_Memory_Computing]]
 [[Memristor]]
 [[Memristor_Synapse]]

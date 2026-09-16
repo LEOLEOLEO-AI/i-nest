@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[EmulationTheoryObserver]]
 [[Free_Energy_Principle]]
 [[Intelligence_Emergence]]
+[[LocalStructuralPlasticity]]
 [[Memristive_Topology]]
 [[MicrobiomeImmuneMetabolicCrosstalk]]
 [[Network_Topology_Design]]

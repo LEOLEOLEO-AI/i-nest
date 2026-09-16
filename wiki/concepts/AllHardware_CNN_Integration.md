@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[6万+辛顿2025年度全景实录深读｜真正的智能与硅基智能的非对称演进]]
 [[AI-ML — 全景导航 (Map of Content)]]
 [[AI_Application_Scenario_Reconstruction]]
+[[AI_Faculty_Forum_2026]]
 [[Allreduce_Latency_Benchmark]]
 [[CST_Spatiotemporal_Complexity]]
 [[Chiplet]]

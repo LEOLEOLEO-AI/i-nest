@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[DTGA]]
 [[DarkSiliconAwarePowerGating]]
+[[ExtensiveWidthShallowNN]]
 [[FerroelectricMemoryCell]]
 [[Ferroelectric_Devices]]
 [[FirstPrinciples_Derivation]]

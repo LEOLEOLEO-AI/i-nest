@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_Faculty_Forum_2026]]
 [[Allreduce_Latency_Benchmark]]
+[[BigBrainCellularAxis]]
 [[Bipartite_Interconnect]]
 [[Bipartite_Interconnect_Design]]
 [[CST计量仪]]

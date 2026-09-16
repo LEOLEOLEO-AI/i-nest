@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[DeviceConductanceTuning]]
 [[DifferentiableRasterizationPipeline]]
 [[DistinctReentrantPhases]]
+[[Distributed_Spike_Communication]]
 [[Founder_Technical_Lineage]]
 [[Intelligence_Emergence]]
 [[Memristor]]

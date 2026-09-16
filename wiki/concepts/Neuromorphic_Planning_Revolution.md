@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstTemporalPlasticity]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[ConductingPolymerDendriteMemory]]
 [[ContinuousTimeSNN]]
 [[ConverterDrivenStability]]
 [[Criticality]]

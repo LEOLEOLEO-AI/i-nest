@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AllParallel_SpikeBased_Computing]]
 [[Attention_Residuals]]
 [[BackpropagationFreeLearning]]
+[[BurstGatedRouting]]
 [[Continuous_Discrete_Compute_Gap]]
 [[Deep_Network_Architecture_Invariant]]
 [[Learning_Rule_Comparison]]
@@ -37,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_Sparse_Dataflow_Interconnect]]
 [[Spiking_Neural_Network]]
+[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

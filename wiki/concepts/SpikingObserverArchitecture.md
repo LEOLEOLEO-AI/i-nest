@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Learning]]
 [[In_Network_Neuromorphic_State]]
+[[LIF_Neuron_Model]]
 [[LandauGinzburgFreeEnergy]]
 [[Loihi2_OnChip_Learning]]
 [[Loihi]]

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[DelayCodedWorkingMemory]]
 [[Delay_Aware_Autograd_Spiking_Framework]]
+[[DirectTrainingSNN]]
 [[Event_Driven_Architecture]]
 [[FPGA_Neuromorphic_Prototyping]]
 [[NeuromorphicGraphAnomalyDetection]]

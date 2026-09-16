@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[BurstGatedRouting]]
 [[CellEmergence]]
+[[ColorRouting]]
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[CriticalityInducedTopology]]
 [[Criticality]]

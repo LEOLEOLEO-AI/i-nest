@@ -56,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[NonlinearSelectivityRatio]]
 [[Nonlinear_Gain]]
 [[RecursiveSelfReferentialArchitecture]]
+[[RenormalizationGroup_DeviceNonlinearity]]
 [[TCC]]
 [[TopologyAwareGeneration]]
 [[complex system]]

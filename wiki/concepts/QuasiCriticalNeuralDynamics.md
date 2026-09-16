@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Avoided_Criticality]]
 [[Baseline_Change_Record]]
 [[BioPlausibleDisturbanceObserver]]
+[[BrainScaleS_AsyncEventCircuit]]
 [[BurstSuppressionMechanism]]
 [[BurstSuppression]]
 [[Catastrophic_Forgetting_Mitigation]]

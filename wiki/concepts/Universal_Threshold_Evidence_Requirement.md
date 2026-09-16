@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Faculty_Forum_2026]]
 [[AdaptiveFrequencyResonateFire]]
+[[AdaptiveLocalLearning]]
 [[AdaptiveSTDP]]
 [[AdaptiveSpeechToSpikeEncoding]]
 [[Adaptive_EW_Neuromorphic_Controller]]
@@ -41,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Context_Learning]]
 [[Intelligence_Emergence]]
 [[Memristive_STDP]]
+[[Memristive_Synapse]]
 [[Meta_Residual_Learning]]
 [[Neuromorphic_Computing]]
 [[NoiseInducedPhaseLocking]]

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3D_Heterogeneous_Integration]]
+[[3d]]
 [[AINext_Initiative]]
 [[AdaptiveBitPrecisionExploration]]
 [[AdaptiveGraphDiffusion]]
@@ -33,11 +34,13 @@ Auto-extracted concept from raw material compilation.
 [[AnisotropicGaussianPrimitives]]
 [[BioInspiredGeneralist]]
 [[Categorical_Closure_Criterion]]
+[[ChiralSymmetryClasses]]
 [[CoPackagedOptics]]
 [[CouplingTopologyInducedDynamics]]
 [[Criticality]]
 [[Criticality_of_Natural_Languages]]
 [[Heterogeneous_Compute_Graph]]
+[[Heterogeneous_Integration]]
 [[HierarchicalReservoirDynamics]]
 [[KV_Cache_To_BoundaryObject]]
 [[NestedRepresentation]]

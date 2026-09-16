@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[ExplainableEnergyAI]]
 [[FPGAInference]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
+[[GCML_Cognitive_Map]]
 [[Interconnect_Routing]]
 [[LocalPlasticityPipeline]]
 [[NeuromorphicObserverArchitecture]]

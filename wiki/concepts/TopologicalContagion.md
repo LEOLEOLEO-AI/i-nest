@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[12_三原理协同_FEP_最小作用量_STDP]]
 [[AdvancedPackagingInterconnect]]
+[[AdvancedPackaging]]
 [[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[AnalogInMemoryComputing]]
@@ -64,6 +65,8 @@ Auto-extracted concept from raw material compilation.
 [[StructuralConstraintAwareLearning]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[WavelengthMultiplexedInterconnect]]
+[[advanced packaging]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

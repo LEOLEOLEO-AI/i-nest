@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[EmergentOrder]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
+[[Emergent_Intelligence_Verifiability]]
 [[GenerativeTopologyModels]]
 [[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]

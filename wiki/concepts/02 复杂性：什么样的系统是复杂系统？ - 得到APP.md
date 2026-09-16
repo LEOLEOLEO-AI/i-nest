@@ -40,6 +40,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Chiplet_Interconnect]]
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
+[[Cross_Node_Event_Propagation]]
 [[DTGA]]
 [[EmergentOrder]]
 [[Heterogeneous_Integration]]

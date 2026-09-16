@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[DataProvenanceIntegrity]]
 [[Deep_Network_Architecture_Invariant]]
 [[EulaminateOverrepresentation]]
+[[Evolutionary_Structure_Computability]]
 [[FlagScale]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Topology]]

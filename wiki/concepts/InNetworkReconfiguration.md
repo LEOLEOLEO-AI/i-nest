@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[EnsembleCreditAssignment]]
 [[FlexibleManifoldReconfiguration]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
+[[InNetworkPowerRouting]]
 [[Interconnect_Routing]]
 [[LocalPlasticityPipeline]]
 [[MoE_Routing]]

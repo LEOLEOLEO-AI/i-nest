@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[EventBasedAnalogFrontEnd]]
 [[EventDrivenAttentionMechanism]]
 [[EventDrivenTrajectoryEncoding]]
+[[EventDrivenWirelessTransmission]]
 [[Event_Driven_Architecture]]
 [[FPGA_Neuromorphic_Architectures]]
 [[HippocampalNeocorticalIntelligence]]

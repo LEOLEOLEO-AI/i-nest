@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[NonHermitianTopologicalAndersonInsulator]]
 [[Nonlinear_Gain]]
+[[OrganicElectrolyteGatedTransistor]]
 [[PromptBasedTimeSeriesForecasting]]
 [[QuantumAnnealerSynapticTest]]
 [[RecursiveSelfReferentialArchitecture]]

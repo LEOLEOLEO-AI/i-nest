@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Delay_Aware_Autograd_Spiking_Framework]]
 [[DualDrivenHybridNetwork]]
 [[EEGSpikeEncoding]]
+[[ElasticInferenceScheduling]]
 [[ErrorAmplificationLimits]]
 [[EventDrivenMotionDeblurring]]
 [[EventDrivenSynchronization]]

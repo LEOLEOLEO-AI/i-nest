@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[AsymmetricStochasticInteractions]]
 [[AttentionLikeHebbianMechanism]]
 [[AttentionMap_DifferenceResidual]]
+[[Attention_ResidualCancellation]]
 [[Complex_System_Theory]]
 [[In_Network_Neuromorphic]]
 [[Intelligence_Emergence]]

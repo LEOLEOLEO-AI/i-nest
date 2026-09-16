@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[CompetitiveProgramDynamics]]
 [[ComplexValuedSNN]]
 [[Complex_System_Theory]]
+[[Connectome_Transfer]]
 [[DevelopmentalNeuromorphicAdaptation]]
 [[Distributed_Spike_Communication]]
 [[FerroelectricSynapse]]

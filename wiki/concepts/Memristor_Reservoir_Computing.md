@@ -62,6 +62,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Stochastic_LIF_Inference]]
 [[StructuralPriorEncoding]]
+[[TCCNPU_Coordination_Roadmap]]
 [[TCC]]
 [[branch prediction]]
 [[emerging CMOS memristor]]

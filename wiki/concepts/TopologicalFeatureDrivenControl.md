@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Critical_Region_Extension]]
 [[DynamicSynchronyMetric]]
 [[ElectricFieldModulatedCoupling]]
+[[Emergent_Order_Deep_Belief_Networks]]
 [[EpidemicTopologyCoevolution]]
 [[EvolvingArchitectureDynamics]]
 [[FPGA_Reconfigurability]]

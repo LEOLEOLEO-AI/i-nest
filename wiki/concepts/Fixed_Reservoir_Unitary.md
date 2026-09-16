@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[SDDE_Attractor_Emergence]]
 [[SNN]]
+[[SNN_TCC_Integration]]
 [[SpikeTemporalAwareCompression]]
 [[Spiking_Neural_Network]]
 [[neuromorphic substrate]]

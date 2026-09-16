@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Defense_Industrial_Base_Reshaping]]
 [[DevelopmentalNeuromorphicAdaptation]]
 [[Developmental_Computing]]
+[[Distributed_Spike_Communication]]
 [[Dynamic_Expert_Fusion]]
 [[ERI_2_0_Strategic_Framework]]
 [[Emergent_Intelligence]]

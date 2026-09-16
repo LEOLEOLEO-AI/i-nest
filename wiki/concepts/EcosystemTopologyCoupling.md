@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[NonreciprocalQuasiperiodicLattice]]
 [[OptimalGeneralisationNearInterpolation]]
 [[QuarantineStrategyOptimization]]
+[[Recurrent_Network_Homeostasis]]
 [[Reservoir_Computing]]
 [[RunawayAvalanche]]
 [[Spiking_Neural_Network]]

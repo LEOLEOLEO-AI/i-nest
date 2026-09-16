@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[HigherOrderConnectivity]]
 [[IncidenceBasedRandomWalk]]
 [[Intelligence_Emergence]]
+[[LocalStructuralPlasticity]]
 [[MachineLearningPotential]]
 [[Network_Topology_Design]]
 [[QuantumChaos]]

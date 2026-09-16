@@ -25,7 +25,6 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[AI_Forum_Demo_Narrative]]
 [[AI_FullSpectrum_Strategy]]
-[[Advanced_Packaging]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Attention_Residuals]]
@@ -33,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstInterleaving]]
 [[CellEmergence]]
 [[Complex_System_Theory]]
+[[DebiasingTechniques]]
 [[Deep_Network_Architecture_Invariant]]
 [[Dynamic_Expert_Fusion]]
 [[EventDrivenTracking]]
@@ -63,6 +63,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologicalAndersonChernInsulator]]
 [[Topology_Centric_Spiking]]
 [[Topology_Centric_Spiking_Architecture]]
+[[advanced packaging]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[神经网络]]
 

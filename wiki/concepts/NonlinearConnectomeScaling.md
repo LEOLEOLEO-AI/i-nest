@@ -62,6 +62,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_STDP_Bond]]
 [[SNN]]
 [[STDP_Plasticity]]
+[[Spike_timing_dependent_plasticity_learning_rule]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]

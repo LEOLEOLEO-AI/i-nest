@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Asynchronous_Event_Circuit]]
+[[Battery_Technology_Integration]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[FPGA_Accelerated_SNN]]
 [[FormalToolchain]]
@@ -30,7 +31,6 @@ Auto-extracted concept from raw material compilation.
 [[OpenSource_Neuromorphic_Framework]]
 [[SNNGrow]]
 [[SNN]]
-[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[TOOLS]]
 [[iNEST]]

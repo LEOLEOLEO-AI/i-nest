@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Distributed_Spike_Communication]]
 [[EdgeInspectionInference]]
 [[End_Side_Neuromorphic_Deployment]]
+[[EventDrivenSensoryEncoding]]
 [[EventDriven_Interconnect]]
 [[FullSpectrum_Programmability]]
 [[Heterogeneous_Integration]]

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[ComplexEcosystemDynamics]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Connectome]]
+[[CrossTaskNeuralRepresentation]]
 [[DataDrivenCellularAxis]]
 [[DataProvenanceIntegrity]]
 [[DevelopmentalNeuromorphicAdaptation]]

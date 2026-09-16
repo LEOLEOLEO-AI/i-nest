@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[Metriplectic_Twin]]
 [[NeuromorphicReplayBuffer]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_MuscleInterface]]
 [[NeurovascularUnitEngineering]]
 [[NeurovascularUnit]]
 [[PhysicalReservoir]]

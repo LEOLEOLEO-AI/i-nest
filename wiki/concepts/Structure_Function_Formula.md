@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Forum_Demo_Narrative]]
 [[AgenticServiceOrchestration]]
 [[Agile_Resilient_Defense_Ecosystem]]
+[[BeliefPropagationOnGraphTopology]]
 [[BoundaryObject_Abstraction]]
 [[CST_Intelligence_Emergence]]
 [[CST_Intelligence_Emergence_Theory]]

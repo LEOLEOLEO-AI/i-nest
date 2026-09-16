@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Catastrophic_Forgetting_Mitigation]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[CoDesigned_SNN]]
 [[Complex_System_Theory]]
 [[Contested_Priors_Architecture]]
 [[Critical_Exponent_Scaling]]

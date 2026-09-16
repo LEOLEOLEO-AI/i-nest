@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration]]
 [[Chiplet_Wafer_Topology]]
 [[Complex_System_Theory]]
+[[ComputationEfficientDeepLearning]]
 [[Deep_Network_Architecture_Invariant]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]

@@ -59,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Swarm_Adaptive_Topology]]
 [[Synaptic_Plasticity]]
+[[SynchronizationAttractorBasin]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[Wafer_Scale_Integration]]

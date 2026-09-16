@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[Packaging_Aware_NoC_Design]]
 [[RadiationHardened_ProcessNodeScaling]]
 [[SDI_Bond]]
+[[SDI_Control_Plane_Offload]]
 [[SDI_NPU_NoC_Integration]]
 [[SDI_TopologicalControl]]
 [[STDP_Plasticity]]

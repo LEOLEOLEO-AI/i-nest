@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Course_Based_FPGA_Projects]]
 [[DataDrivenCellularAxis]]
 [[Dynamic_Expert_Fusion]]
+[[EmergentOrder]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[EnsembleSparsity]]

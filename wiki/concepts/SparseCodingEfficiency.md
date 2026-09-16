@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[StructuredTemporalAttention]]
 [[TCC]]
+[[TemporalAdversarialPerturbation]]
 [[TemporalSparsityExploitation]]
 [[iNEST]]
 

@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI-ML — 全景导航 (Map of Content)]]
 [[Brain_Connectome]]
+[[CommunicationHeterogeneity]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Connectome]]
 [[Connectome_Inspired_Architecture]]

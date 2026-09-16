@@ -40,10 +40,12 @@ Auto-extracted concept from raw material compilation.
 [[Compute_In_Memory_Neuromorphic]]
 [[CrossDomain_Integration]]
 [[DecliningModularity]]
+[[Emergence_Phase]]
 [[Expert_Review_Arbitration]]
 [[Heterogeneous_Integration]]
 [[In_Memory_Computing]]
 [[Neuromorphic_Computing]]
+[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

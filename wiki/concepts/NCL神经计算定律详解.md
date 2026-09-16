@@ -51,6 +51,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[EulaminateOverrepresentation]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[KV_Cache_to_BoundaryObject_Transition]]
 [[L2_L3_Reconfigurability]]
 [[Memory_Wall]]
 [[Memristive_STDP]]

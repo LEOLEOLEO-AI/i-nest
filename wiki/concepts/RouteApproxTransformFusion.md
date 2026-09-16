@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[FlexibilityThreshold]]
 [[FlexibleManifoldReconfiguration]]
 [[FrozenRateOperator]]
+[[InNetworkPowerRouting]]
 [[InNetworkReconfiguration]]
 [[Interconnect_Routing]]
 [[LocalPlasticityPipeline]]

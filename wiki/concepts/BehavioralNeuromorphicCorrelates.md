@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[HierarchicalAttention_MIL]]
 [[HybridMemristorArray]]
 [[Intelligence_Emergence]]
+[[Kappa_Weibull_Distribution]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Multi_Scale_Habituation]]

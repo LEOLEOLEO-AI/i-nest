@@ -1173,6 +1173,97 @@
         "source_path": "00_Inbox\\_pipeline_insights\\2026-09-11_arXiv_Cortical information transfer reveals conserved hemispherica.md"
       },
       "cached_at": "2026-09-11T14:27:53"
+    },
+    "834e1bfad54012d69fa63315ff7e1f3ef17bab88db3ed3c2fa8b51dacca328e6": {
+      "analysis": {
+        "id": 1,
+        "title_zh": "A Unified Interconnection Network for Chiplet-Based Scaling of the BrainScaleS N",
+        "tcc_value": "",
+        "inest_value": "关键词匹配,需深入阅读",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 5,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-09-16_arXiv_A Unified Interconnection Network for Chiplet-Based Scaling .md"
+      },
+      "cached_at": "2026-09-16T16:18:32"
+    },
+    "668d8e8c1adbb9e1382f51313ee3da9b519f677ff7c3a92965ce8705d7dec424": {
+      "analysis": {
+        "id": 2,
+        "title_zh": "Scaled Hippocampus-inspired Neural Networks on Neuromorphic Memristive Hardware",
+        "tcc_value": "",
+        "inest_value": "关键词匹配,需深入阅读",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 5,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-09-16_arXiv_Scaled Hippocampus-inspired Neural Networks on Neuromorphic .md"
+      },
+      "cached_at": "2026-09-16T16:18:32"
+    },
+    "c657172b7210112cf0f9a19014baf7fe8eb024f55be433af26c691dcf9bb1b30": {
+      "analysis": {
+        "id": 3,
+        "title_zh": "Topology-Aware Congestion Pricing: Demand Robust Routing using the Forman-Ricci ",
+        "tcc_value": "关键词匹配,需深入阅读",
+        "inest_value": "",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 5,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-09-16_arXiv_Topology-Aware Congestion Pricing Demand Robust Routing usin.md"
+      },
+      "cached_at": "2026-09-16T16:18:32"
+    },
+    "c0295bf34ec7a31f9a82be532166abca88aec816e14d6e96aabf13468e1c766a": {
+      "analysis": {
+        "id": 4,
+        "title_zh": "Stitch-Free, Diamond-Scribed Silicon Nitride Photonic Integrated Circuits for th",
+        "tcc_value": "关键词匹配,需深入阅读",
+        "inest_value": "",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 5,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-09-16_arXiv_Stitch-Free, Diamond-Scribed Silicon Nitride Photonic Integr.md"
+      },
+      "cached_at": "2026-09-16T16:18:32"
+    },
+    "0064746c53ba9e64b8a2c71cc6f69e9fd1783a3a4f7a207776b979178669a78a": {
+      "analysis": {
+        "id": 5,
+        "title_zh": "Budgeted Express-Mesh: Traffic-Aware Link Placement and Deadlock-Free Adaptive R",
+        "tcc_value": "关键词匹配,需深入阅读",
+        "inest_value": "",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 5,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-09-16_arXiv_Budgeted Express-Mesh Traffic-Aware Link Placement and Deadl.md"
+      },
+      "cached_at": "2026-09-16T16:18:32"
+    },
+    "270001245ac80feac1c6b7fac9b67f62ee134dac09391676c461fbb34f526024": {
+      "analysis": {
+        "id": 6,
+        "title_zh": "Self-Emergence Agent Architecture:Behavior-Inertia HMM, Reflexive Metacognition,",
+        "tcc_value": "",
+        "inest_value": "关键词匹配,需深入阅读",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 4,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-09-16_arXiv_Self-Emergence Agent ArchitectureBehavior-Inertia HMM, Refle.md"
+      },
+      "cached_at": "2026-09-16T16:18:32"
+    },
+    "445cdc37e7ec4aa24eb258c684c03dd587f70f6989d1718f20b54e52d040f764": {
+      "analysis": {
+        "id": 7,
+        "title_zh": "Partial projected ensembles reveal slow tilt-constrained information spreading",
+        "tcc_value": "",
+        "inest_value": "关键词匹配,需深入阅读",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 2,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-09-16_arXiv_Partial projected ensembles reveal slow tilt-constrained inf.md"
+      },
+      "cached_at": "2026-09-16T16:18:32"
     }
   }
 }

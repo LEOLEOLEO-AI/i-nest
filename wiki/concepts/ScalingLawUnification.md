@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Adjoint_Gradient_Propagation]]
 [[AdsorptionBiosorptionHybrid]]
 [[AdvancedPackagingInterconnect]]
+[[AdvancedPackaging]]
 [[Advanced_Packaging]]
 [[Advanced_Packaging_Route]]
 [[Alignment_Tax]]
@@ -49,8 +50,10 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Stacking]]
 [[ChiralSymmetryClasses]]
 [[CoPackagedOptics]]
+[[Compute_In_Memory_Neuromorphic]]
 [[Heterogeneous_Integration]]
 [[TCC]]
+[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

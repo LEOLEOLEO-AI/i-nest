@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[DeviceLevelNonlinearityScaling]]
 [[DeviceLevelNonlinearity]]
 [[DissipativeQuantumReservoir]]
+[[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
 [[Evolutionary_Computability]]
 [[Fixed_Recurrent_Network]]

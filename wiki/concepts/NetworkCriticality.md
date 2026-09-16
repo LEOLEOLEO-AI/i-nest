@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Edge_of_Chaos_Coastal_Dynamics]]
 [[Generative_Graph_Models]]
 [[JumpDiffusion_StochasticQuantization]]
+[[Layered_Attractive_Hubbard_Model]]
 [[Network_Topology_Design]]
 [[Reservoir_Computing]]
 [[Self_Organized_Criticality]]

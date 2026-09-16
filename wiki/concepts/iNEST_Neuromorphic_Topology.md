@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[DataDrivenCellularAxis]]
 [[DataProvenanceIntegrity]]
 [[EmergentOrder]]
+[[Emergent_Intelligence_Verifiability]]
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[Free_Energy_Topology_Mapping]]

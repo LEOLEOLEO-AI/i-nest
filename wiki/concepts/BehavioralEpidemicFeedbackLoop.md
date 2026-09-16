@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Conductive_Filament_Switching]]
 [[Crystallized_Neural_Manifolds]]
 [[DAGGER_Algorithm]]
+[[DistributedInference]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]

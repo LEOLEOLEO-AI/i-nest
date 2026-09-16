@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
 [[complex system]]
+[[getnote_2025-09-18_Sandia国家实验室]]
 [[getnote_2026-01-12_数字孪生大脑工程化路径]]
 [[getnote_2026-01-12_晶圆级神经网络能效革命]]
 [[getnote_2026-01-25_清华团队类脑计算突破]]

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[CST计量仪]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Complex_System_Theory]]
+[[Deep_Network_Architecture_Invariant]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Topology]]
 [[Mesoscale_Heterogeneous_Integration]]

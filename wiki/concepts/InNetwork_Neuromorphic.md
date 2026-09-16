@@ -30,11 +30,13 @@ Auto-extracted concept from raw material compilation.
 [[Agile_Resilient_Defense_Ecosystem]]
 [[AllParallel_SpikeBased_Computing]]
 [[AnytimePointCloudRecognition]]
+[[BrainBodyResonance]]
 [[ClosedLoopNeuromorphicControl]]
 [[In_Network_Neuromorphic]]
 [[Neuromorphic_Computing]]
 [[Spiking_Neural_Network]]
 [[WaveBasedComputation]]
+[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

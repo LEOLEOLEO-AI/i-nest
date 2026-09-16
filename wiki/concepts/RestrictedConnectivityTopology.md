@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
+[[Heterogeneous_Synaptic_Motifs]]
 [[Intelligence_Emergence]]
 [[Memristor]]
 [[Memristor_Synapse]]

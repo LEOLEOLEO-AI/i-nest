@@ -23,11 +23,11 @@ Auto-extracted concept from raw material compilation.
 [[156QubitScale]]
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_Assisted_Energy_Optimization]]
-[[Advanced_Packaging]]
 [[Allreduce_Latency_Probe]]
 [[AnalogDomainCompression]]
 [[Architectural_Conditioning]]
 [[Bosonic_SPT_Phases]]
+[[CoexistencePhaseDiagram]]
 [[CouplingMatrixRecovery]]
 [[Coupling_Strength_Encoding]]
 [[CriticalFixedPoint]]
@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Epidemic_Mitigation_Strategy]]
 [[FederatedServiceGraph]]
 [[HierarchicalCrackPatternGeneration]]
+[[HierarchicalCrackPattern]]
 [[InNetwork_Learning_Interface]]
 [[Intelligence_Emergence]]
 [[LargeDeviationTopologicalOrder]]
@@ -60,6 +61,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologyEmbeddedIntrospection]]
 [[TriAxiomCalibration]]
+[[advanced packaging]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

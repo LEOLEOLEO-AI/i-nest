@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[CommunicationAwareComputeRelocation]]
 [[Emergent_Order_Deep_Belief_Networks]]
 [[FlexibilityThreshold]]
+[[FrozenRateOperator]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Memristor]]

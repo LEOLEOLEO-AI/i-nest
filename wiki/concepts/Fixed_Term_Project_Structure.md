@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_SNN]]
 [[SDI_SNN_Interconnect]]
 [[SDI_STDP]]
+[[SDI_STDP_Fusion]]
 [[SDI_iNEST]]
 [[SDI_iNEST_Interconnect]]
 [[SNN]]

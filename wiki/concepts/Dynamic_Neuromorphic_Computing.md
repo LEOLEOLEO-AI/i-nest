@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Driven_Architecture_Search]]
 [[AI_Forum_Demo_Narrative]]
 [[AnytimePointCloudRecognition]]
+[[Baseline_Draft_Status]]
 [[Complex_System_Theory]]
 [[ContinualLearningOnNeuromorphic]]
 [[EventDrivenAutoregression]]
@@ -33,7 +34,6 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicStatusAwareness]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Hardware_Paradigm]]
-[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

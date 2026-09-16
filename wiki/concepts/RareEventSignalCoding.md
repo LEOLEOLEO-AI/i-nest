@@ -56,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeBasedNeuralRadianceField]]
 [[SpikeTimingEncoding]]
 [[Spike_Encoding_of_fMRI]]
+[[SpikingTrafficSignRecognition]]
 [[Spiking_Neural_Network]]
 [[StreamDataflowArchitecture]]
 [[TemporalFeaturePropagation]]

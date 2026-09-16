@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AdaptiveLocalLearning]]
 [[AdaptiveSTDP]]
 [[AdaptiveSpeechToSpikeEncoding]]
 [[Bidirectional_Temporal_Enhancement]]
@@ -51,7 +52,6 @@ Auto-extracted concept from raw material compilation.
 [[SpikeEncoding]]
 [[SpikeFusionLayer]]
 [[Spike_Encoding_of_fMRI]]
-[[Spiking neural network]]
 [[SpikingNeuralDynamics]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

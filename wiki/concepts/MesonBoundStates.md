@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityOffCriticalityTransition]]
 [[Criticality]]
 [[DynamicTokenSparsity]]
+[[EarlyExiting]]
 [[InNetworkComputing]]
 [[Interconnect_Routing]]
 [[MoE_Routing]]

@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[InSensorComputing]]
 [[Intelligence_Emergence]]
+[[InterconnectConstrainedEmergence]]
 [[MultiplicativeGain]]
 [[Network_Topology_Design]]
 [[PhotonicPackagingEfficiency]]

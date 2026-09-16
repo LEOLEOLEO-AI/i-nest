@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[BandedConnectivityModel]]
 [[BigBrainCellularAxis]]
 [[BioPlausibleDisturbanceObserver]]
+[[Biologically_Plausible_Learning_Rules]]
 [[BrownianCastleInterface]]
 [[BrownianCastleInterfaces]]
 [[BurstTemporalPlasticity]]

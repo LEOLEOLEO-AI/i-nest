@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Based_Trusted_Hardware]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]
+[[Chiplet_NoC_Fabric]]
 [[CoarseGrainingFlow]]
 [[Complex_System_Theory]]
 [[DARPA_ProjectManager_Model]]
@@ -55,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[TCC]]
+[[advanced packaging]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

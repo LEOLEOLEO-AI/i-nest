@@ -47,8 +47,10 @@ Auto-extracted concept from raw material compilation.
 [[In_Package_Optical_Interconnect]]
 [[Intelligence_Emergence]]
 [[Long_Range_Interactions]]
+[[MemristiveReservoirBranchPrediction]]
 [[Memristive_CAM_Indexing]]
 [[Neuromorphic_Computing]]
+[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

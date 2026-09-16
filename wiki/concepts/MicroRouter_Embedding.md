@@ -61,6 +61,7 @@ Auto-extracted concept from raw material compilation.
 [[System_Level_Utility_Control]]
 [[TCC]]
 [[ThreeLayerArchitecture]]
+[[WaferScaleTopologyCentricComputing]]
 [[Wafer_Interconnect]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]

@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[AutonomousCircuitMorphogenesis]]
 [[Biocompatible_Neuromorphic_Interface]]
 [[CertifiedBifurcationDetection]]
+[[CollectiveStabilityMetric]]
 [[Complex_System_Theory]]
 [[Habituation_Dynamics]]
 [[Intelligence_Emergence]]

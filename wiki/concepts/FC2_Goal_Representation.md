@@ -64,6 +64,7 @@ Auto-extracted concept from raw material compilation.
 [[RandomNoiseRobustness]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SOC]]
+[[ScalingBehaviourDeviations]]
 [[Swarm_Coordination]]
 [[analog computation]]
 [[catastrophic forgetting]]

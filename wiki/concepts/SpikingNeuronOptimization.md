@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AIRA_NeuralArchSearch]]
 [[ArmLocomotorCoordination]]
 [[BigBrainCellularAxis]]
+[[BioInspiredSpikeEncoding]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Chiplet]]
 [[Chiplet_Based_Neuromorphic_Integration]]

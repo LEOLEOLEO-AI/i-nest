@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[AmoebaInspiredLocomotion]]
 [[BioInspired_Interception_Control]]
 [[CircuitTopologyEncoding]]
+[[CriticalLearningRegime]]
 [[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[DelayPropagationDynamics]]

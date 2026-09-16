@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_FullSpectrum_Strategy]]
 [[AdjointWaveControl]]
 [[Allreduce_Latency_Probe]]
+[[AndersonTransition]]
 [[Architectural_Conditioning]]
 [[BifurcationCandidate]]
 [[CavityMethodAnalysis]]

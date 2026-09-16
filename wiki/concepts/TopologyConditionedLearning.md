@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Forum_Demo_Narrative]]
 [[ASIC_Dualism]]
 [[AdaptiveGraphDiffusion]]
+[[Adaptive_Intelligence_Principle]]
 [[BoundaryContract]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]

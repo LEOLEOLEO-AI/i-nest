@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[Clinical_Knowledge_Embedding]]
 [[ComplexSystem_Definition]]
 [[Complex_System_Theory]]
+[[Complexity_Coordination_Layer]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]

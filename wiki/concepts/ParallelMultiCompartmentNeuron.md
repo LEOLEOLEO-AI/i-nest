@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[FlexibilityThreshold]]
 [[Heterogeneous_Integration]]
 [[HigherOrderStochasticProcess]]
+[[In_Network_Neuromorphic_Learning]]
 [[LIF_Neuron_Model]]
 [[Neuromorphic_Computing]]
 [[OnChipWeightUpdate]]

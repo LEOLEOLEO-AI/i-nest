@@ -69,6 +69,8 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologyAware_Embedding]]
 [[Topology_Interconnect]]
+[[WaveguideToWaveguideCoupler]]
+[[advanced packaging]]
 [[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]

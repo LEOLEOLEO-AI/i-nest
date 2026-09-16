@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Connectome_Verification_Protocol]]
 [[CriticalPhaseTransitionStatisticalTest]]
 [[DeviceConductanceTuning]]
+[[Krakencoder_Embedding]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]

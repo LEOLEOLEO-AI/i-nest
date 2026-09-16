@@ -26,8 +26,10 @@ Auto-extracted concept from raw material compilation.
 [[AmorphousSolidPlasticity]]
 [[AnalogDomainCompression]]
 [[AndersonTransition]]
+[[ArbitraryWavefunctionConfigurability]]
 [[Network_Topology_Design]]
 [[Reservoir_Computing]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
 

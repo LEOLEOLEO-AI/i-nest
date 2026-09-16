@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Active_Inference_Agent]]
 [[AdaptiveArchitecture]]
 [[AdaptiveDensityControl]]
+[[AdditiveTopology_Embedding]]
 [[AnalogDomainCompression]]
 [[AvalancheBranchingRatio]]
 [[BranchingRatio]]
@@ -51,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[UniversalComputation]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

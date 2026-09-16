@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[Nonlinear_Gain]]
+[[ParallelMultiCompartmentSNN]]
 [[QuantumChaos]]
 [[SDI_Bond]]
 [[SDI_STDP]]

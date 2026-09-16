@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[EnergyAwareLearning]]
 [[FPGAInference]]
+[[FormalLinguisticCompetence]]
 [[Self_Organized_Criticality]]
 [[TCC]]
 [[iNEST]]

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_Theory]]
 [[Catastrophic_Forgetting_Mitigation]]
 [[Complex_System_Theory]]
+[[Contested_Priors_Architecture]]
 [[Criticality]]
 [[DimensionSeparation_IntensiveExtensive]]
 [[DiscreteContinuous_Unification]]

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[AnomalousSpinTransport]]
 [[AnytimePointCloudRecognition]]
 [[AstrocyteInspiredRepair]]
+[[Automated_Assessment_Framework]]
 [[AutonomousAdaptation]]
 [[BackflowTransformation]]
 [[BandedConnectivityModel]]

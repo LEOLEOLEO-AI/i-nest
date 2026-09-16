@@ -33,13 +33,16 @@ Auto-extracted concept from raw material compilation.
 [[ByteDance_Ada_Chip]]
 [[CST_MasterEquation]]
 [[CST计量仪]]
+[[Causal_Emergence]]
 [[Causal_Emergence_Architecture]]
 [[Chiplet]]
+[[Chiplet_Based_Trusted_Hardware]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]
 [[Complex_System_Theory]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

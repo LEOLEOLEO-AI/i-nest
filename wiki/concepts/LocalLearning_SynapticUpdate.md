@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[Self_Organized_Criticality]]
 [[SparseCodingEfficiency]]
+[[SpikeBasedNeuralRadianceField]]
 [[Spike_Event_Driven_Attention]]
 [[SpikingNeuralPolicies]]
 [[Spiking_Neural_Network]]

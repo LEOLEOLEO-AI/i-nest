@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Defense_Industrial_Base_Reshaping]]
 [[DevelopmentalNeuromorphicAdaptation]]
 [[DissipativePhaseTransition]]
+[[ERI_2_0_Strategic_Framework]]
 [[EmergentSystemSurrogate]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]

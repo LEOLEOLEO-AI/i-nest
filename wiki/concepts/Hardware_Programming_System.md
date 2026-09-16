@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[MultiScaleTemporalProcessing]]
 [[Neuromorphic_Computing]]
 [[NonequilibriumLangevinComputing]]
+[[OnChipOpticalTweezers]]
 [[PhysicalSubstrateReservoir]]
 [[Physical_Intelligence_on_Wafer]]
 [[Reservoir_Computing]]

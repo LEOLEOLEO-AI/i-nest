@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[SparseTemporalEncoding]]
 [[TCC]]
 [[Topology_Aware_NeuroTrain]]
+[[VLSI_CrossbarIntegration]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

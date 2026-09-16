@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
+[[NeuromorphicHardwareTrojan]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[NonreciprocalQuasiperiodicLattice]]

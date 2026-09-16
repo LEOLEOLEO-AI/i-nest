@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[EventBasedAnalogFrontEnd]]
 [[EventDrivenAttentionMechanism]]
 [[EventDrivenSensoryEncoding]]
+[[EventDrivenTrajectoryEncoding]]
 [[Event_Driven_Architecture]]
 [[InputAdaptiveComputation]]
 [[Memory_Wall]]

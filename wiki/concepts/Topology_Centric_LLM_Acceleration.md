@@ -21,13 +21,19 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3DHI_Interconnect]]
+[[3d]]
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
 [[Compute_Centric_NoC]]
+[[CrossbarArrayPrecision]]
 [[Ferroelectric_ComputeInMemory]]
+[[Ferroelectric_Devices]]
 [[HybridResistiveMemoryCIM]]
 [[In_Memory_Computing]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
+[[NoC]]
 [[P_Paradigm]]
 [[TCC]]
 

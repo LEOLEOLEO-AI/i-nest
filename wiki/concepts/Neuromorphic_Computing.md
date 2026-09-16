@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]
 [[InNetworkNeuromorphicEmergence]]
+[[InNetworkNeuromorphicSimulation]]
 [[InNetworkNeuromorphic]]
 [[InNetwork_CST_Offload]]
 [[In_Network_Neuromorphic]]

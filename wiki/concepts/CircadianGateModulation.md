@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Ethical_AI_Constraints]]
 [[Evolutionary_Computability]]
 [[FastSlow_Dynamics]]
+[[FlagOS_2_0]]
 [[ForwardFluctuationGradient]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]

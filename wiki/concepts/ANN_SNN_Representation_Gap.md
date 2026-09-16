@@ -27,6 +27,8 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveFlexibilityThreshold]]
 [[AnisotropicGaussianPrimitives]]
 [[Bidirectional_Temporal_Enhancement]]
+[[BioInspiredLearningRule]]
+[[FlexibilityThreshold]]
 [[Network_Topology_Design]]
 [[SNN]]
 [[Spiking_Neural_Network]]

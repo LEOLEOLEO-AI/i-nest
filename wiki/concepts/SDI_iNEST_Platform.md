@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Wafer]]
+[[NoC_Chiplet_iNEST_Wafer]]
 [[SDI_Bond]]
 [[SDI_iNEST]]
 [[SDSoW]]

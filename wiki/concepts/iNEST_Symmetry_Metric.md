@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Strategic_Planning]]
 [[SneakPathCurrentSuppression]]
 [[SpatiotemporalCooperativeIntelligence]]
+[[Spatiotemporal_Synergy_Complexity]]
 [[iNEST]]
 
 ## Sources

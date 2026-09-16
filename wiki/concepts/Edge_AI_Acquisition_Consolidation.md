@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstTemporalPlasticity]]
 [[CST_Equation]]
 [[CST_Intelligence_Emergence]]
+[[ChannelEventSparsity]]
 [[CircadianGateModulation]]
 [[CommunicationPrimitiveTopologyCoupling]]
 [[ComplexValuedSNN]]

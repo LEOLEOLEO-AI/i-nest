@@ -59,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[OptimalControlPolicyLearning]]
 [[Routing_Color_Bits]]
 [[SpectralGapMoE]]
+[[StretchablePhotonicInterconnect]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[Topological_Anderson_Insulator]]

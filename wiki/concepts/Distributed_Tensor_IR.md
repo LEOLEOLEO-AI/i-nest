@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[2026-06-15_大脑的量子纠缠与信息动力学]]
 [[AI-ML — 全景导航 (Map of Content)]]
 [[Active_Inference_Agent]]
+[[Alpha_Coefficient_Phase_Transition_Amplification]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

@@ -60,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[NearSensorComputing]]
 [[Neuromorphic_Computing]]
 [[NonEquilibriumComputing]]
+[[Pseudofractal_Web]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]

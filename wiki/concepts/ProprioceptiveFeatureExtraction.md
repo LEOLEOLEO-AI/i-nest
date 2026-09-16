@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration]]
 [[CircuitTopologySearch]]
 [[Complex_System_Theory]]
+[[Compute_In_Memory_Neuromorphic]]
 [[CrossLingualIdiomGraph]]
 [[GraphTopologyAnalysis]]
 [[Heterogeneous_Integration]]
@@ -61,6 +62,7 @@ Auto-extracted concept from raw material compilation.
 [[Spatiotemporal_Prior_Encoding]]
 [[TCC]]
 [[TopologicalDataCompression]]
+[[advanced packaging]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

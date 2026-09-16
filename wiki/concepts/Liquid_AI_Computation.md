@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspired_Interception_Control]]
 [[CircuitTopologyEncoding]]
 [[ControlDrivenCriticalFluctuations]]
+[[ControlTheoreticTopology]]
 [[Critical_Region_Extension]]
 [[Interconnect_Routing]]
 [[Liquid_AI]]

@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Performance_Prediction_Model]]
+[[Reconfigurable_Neuromorphic_Architecture]]
 [[TCC]]
 [[iNEST]]
 [[topology reconfiguration]]

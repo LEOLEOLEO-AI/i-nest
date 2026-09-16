@@ -59,6 +59,8 @@ Auto-extracted concept from raw material compilation.
 [[ReproducibleReservoirOutput]]
 [[Reservoir_Computing]]
 [[TemporalFeatureProjection]]
+[[advanced packaging]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

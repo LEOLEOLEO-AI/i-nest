@@ -58,7 +58,9 @@ Auto-extracted concept from raw material compilation.
 [[Syncytial_Mesh_Model]]
 [[TCC]]
 [[TemporalSwitchMechanism]]
+[[TimeSeriesFoundationModel]]
 [[TimeSeriesFoundationModels]]
+[[Unmanned_Intelligent_Combat_Forces]]
 [[iNEST]]
 [[神经网络]]
 

@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[ExactlyFlatTopologicalBands]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
+[[Generative_Graph_Models]]
 [[HigherOrderNetworkDynamics]]
 [[HigherOrderNetwork]]
 [[InNetworkComputing]]
@@ -47,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[SelfOrganization]]
 [[Self_Organized_Criticality]]
 
 ## Sources

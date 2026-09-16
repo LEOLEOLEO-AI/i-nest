@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[EvolutionaryReservoirLearning]]
 [[Evolutionary_Computability]]
 [[FlagOS_2_0]]
+[[ForwardFluctuationGradient]]
 [[GraphEmbeddedReservoir]]
 [[Heterogeneous_Synaptic_Motifs]]
 [[HierarchicalModularReservoirs]]

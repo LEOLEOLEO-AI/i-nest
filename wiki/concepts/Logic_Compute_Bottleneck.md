@@ -28,9 +28,11 @@ Auto-extracted concept from raw material compilation.
 [[ASIC_Power_Efficiency]]
 [[AdiabaticMultimodeBend]]
 [[AdvancedPackagingInterconnect]]
+[[AdvancedPackaging]]
 [[Advanced_Packaging]]
 [[Advanced_Packaging_Route]]
 [[Advanced_Packaging_for_Space]]
+[[AgentReputationLedger]]
 [[AttractorConvergenceAnalysis]]
 [[BisectionBandwidthBound]]
 [[BisectionBandwidthMetric]]
@@ -41,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Memory_Wall]]
 [[TCC]]
+[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

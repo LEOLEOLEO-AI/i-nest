@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[HippocampalNeocorticalIntelligence]]
 [[In_Network_Neuromorphic]]
+[[LIF_Neuron_Model]]
 [[Loihi2_OnChip_Learning]]
 [[Loihi]]
 [[Memristor]]

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[EfficientDeepLearning]]
 [[EmergentIntelligence_Spacetime]]
 [[Emergent_Intelligence]]
+[[Heterogeneous_Inference_Division]]
 [[Intelligence_Emergence]]
 [[Neuromorphic_Computing]]
 [[iNEST]]

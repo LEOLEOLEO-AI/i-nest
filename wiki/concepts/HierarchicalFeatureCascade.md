@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[CriticalityAwareTopology]]
 [[Criticality]]
+[[Generalized_Synchronization_Bond]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
@@ -56,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[analog computation]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

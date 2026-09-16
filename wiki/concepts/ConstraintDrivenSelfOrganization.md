@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossbarFabricTopology]]
 [[DiffusionInducedInstability]]
 [[Dimensionality_Modularity_Tradeoff]]
+[[DrivenCriticalityDynamics]]
 [[DynamicCentralitySteering]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence]]

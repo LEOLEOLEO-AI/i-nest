@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalBranching]]
 [[Deep_Belief_Network_Manifold]]
 [[DynamicInference]]
+[[EmergentDynamics]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

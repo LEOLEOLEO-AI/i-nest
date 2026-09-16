@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_ProjectManager_Model]]
 [[DTGA]]
 [[Distributed_Spike_Communication]]
+[[DisturbancePropagationPath]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]

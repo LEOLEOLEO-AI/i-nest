@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Long_Range_Interactions]]
 [[MeanFieldSpinGlass]]
 [[MetricComputationAuthenticity]]
+[[NanomaterialFeatureEngineering]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[QuantumReservoirGeneralTheory]]

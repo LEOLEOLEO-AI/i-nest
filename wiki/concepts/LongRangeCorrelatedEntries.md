@@ -59,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[PropertyPredictionModeling]]
 [[Quantum_Spin_Glass]]
+[[SDI_STDP]]
 [[SNN]]
 [[STDP_Plasticity]]
 [[Spiking_Neural_Network]]

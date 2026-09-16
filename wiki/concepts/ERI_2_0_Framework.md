@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[EdgeIoTEnergyAwareness]]
 [[Energy_Efficient_Control]]
 [[FirstPrinciples_Derivation]]
+[[FlagOS_Interconnect_Topology]]
 [[Heterogeneous_Integration]]
 [[HypergraphNeuralDynamics]]
 [[Intelligence_Emergence]]

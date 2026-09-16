@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[MultiScaleTemporalProcessing]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
+[[NeuromorphicHardwareTrojan]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]

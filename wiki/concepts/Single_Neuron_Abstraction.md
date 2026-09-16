@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Mesoscale_Physical_Computing_Framework]]
 [[Network_Topology_Design]]
+[[SDSoW_Strategic_Planning]]
 [[iNEST]]
 
 ## Sources

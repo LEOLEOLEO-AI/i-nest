@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]
 [[ChiralSurfaceFermiProjection]]
+[[ChiralSymmetryClasses]]
 [[CircuitTopologySearch]]
 [[CompactAnalogPredictor]]
 [[Complex_System_Theory]]
@@ -58,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Topology_Manifold_Computing]]
 [[Transformer_Surpassing_Discovery]]
+[[advanced packaging]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

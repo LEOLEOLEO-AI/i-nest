@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Network_Layer_Stacking]]
 [[Deep_Thermalisation]]
 [[ErrorSuppressedPipeline]]
+[[Evolutionary_Computability]]
 [[Intelligent_Computing_Infrastructure]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]

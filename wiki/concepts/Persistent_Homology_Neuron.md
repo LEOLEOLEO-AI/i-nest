@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Architecture]]
 [[EvolutionaryDiversityPreservation]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
+[[InputAdaptiveComputation]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[NeuromorphicSpikingTopology]]

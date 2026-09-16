@@ -20,8 +20,8 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
-[[Advanced_Packaging]]
 [[BoundaryContract]]
+[[BoundaryObject_Abstraction]]
 [[CST_Spatiotemporal_Complexity]]
 [[CST_Spatiotemporal_Complexity_Theorem]]
 [[Chiplet]]
@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[TCC]]
+[[advanced packaging]]
 [[chiplet interconnect]]
 
 ## Sources

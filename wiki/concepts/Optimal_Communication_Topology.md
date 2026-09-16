@@ -20,11 +20,13 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
 [[11_SDI节点接口规范与化合键定义_dup]]
 [[4H_SiC_SubstrateProcessing]]
 [[6万+辛顿2025年度全景实录深读｜真正的智能与硅基智能的非对称演进]]
 [[AI_Application_Scenario_Reconstruction]]
 [[AdvancedPackagingInterconnect]]
+[[AdvancedPackaging]]
 [[AllParallel_SpikeBased_Computing]]
 [[Bioavailability_Enhancement]]
 [[CST_SynergisticCoordination]]

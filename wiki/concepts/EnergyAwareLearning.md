@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]
 [[SDI_STDP]]
+[[SDSoW]]
 [[STDP_Plasticity]]
 [[SelfOrganizedOscillatoryLearning]]
 [[Self_Organized_Criticality]]

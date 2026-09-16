@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Topology]]
 [[GNN图神经网络，非结构化数据分析利器！]]
+[[Heterogeneous_Integration_Roadmap_HIR]]
 [[InNetworkAgentRewiring]]
 [[InNetwork_Neuromorphic]]
 [[In_Network_Neuromorphic]]

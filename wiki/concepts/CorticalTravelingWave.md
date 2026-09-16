@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Cross_Node_Event_Propagation]]
 [[Dynamic_Expert_Fusion]]
 [[ExplainableEnergyAI]]
+[[FixedOverheadPenalty]]
 [[FlexibilityThreshold]]
 [[FunctionalInterfaceBlock]]
 [[FunctionalInterfaceBlocks]]

@@ -36,6 +36,8 @@ Auto-extracted concept from raw material compilation.
 [[BifurcationCandidate]]
 [[CausalEmergenceCondition]]
 [[Complex_System_Theory]]
+[[Confinement]]
+[[ConstructiveEmergentModeling]]
 [[CorticalWaveRouting]]
 [[Cryogenic_Syndrome_Compression]]
 [[CubicLatticeInterconnect]]

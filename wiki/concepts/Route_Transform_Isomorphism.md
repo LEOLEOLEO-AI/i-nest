@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AddressRedundancyElimination]]
 [[Adjoint_Gradient_Propagation]]
 [[AdvancedPackagingInterconnect]]
+[[AdvancedPackaging]]
 [[AllOpticalHebbianLearning]]
 [[BurstInterleaving]]
 [[Collective_State_Convergence]]
@@ -33,7 +34,9 @@ Auto-extracted concept from raw material compilation.
 [[Data_Debiasing_Techniques]]
 [[Deep_Thermalisation]]
 [[DirectConnect_Topology]]
+[[EndToEndLinkSimulation]]
 [[Interconnect_Routing]]
+[[Network_Topology_Design]]
 [[TCC]]
 [[iNEST]]
 

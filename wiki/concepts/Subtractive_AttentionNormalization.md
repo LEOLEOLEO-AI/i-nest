@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Cross_Node_Event_Propagation]]
 [[Distributed_Spike_Communication]]
 [[FirstPrinciples_Derivation]]
+[[FixedOverheadPenalty]]
 [[FlexibilityThreshold]]
 [[Heterogeneous_Integration]]
 [[HigherOrderStochasticProcess]]

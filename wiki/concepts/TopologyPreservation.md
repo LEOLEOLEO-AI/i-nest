@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[Salca]]
 [[Selection_Theorems]]
 [[StochasticMultiAgentRL]]
+[[Systemic_Innovation_Mechanism]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[emergent computation]]

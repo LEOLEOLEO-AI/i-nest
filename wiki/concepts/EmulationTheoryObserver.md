@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[ExplainableEnergyAI]]
 [[FastSlow_Dynamics]]
+[[Functional_Food_Complexity]]
 [[HallmarkDrivenCancerModeling]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]

@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[ERI_2_0_Framework]]
 [[EdgeAI_Market_Consolidation_Driver]]
 [[EdgeIoTEnergyAwareness]]
+[[FlagOS_Interconnect_Topology]]
 [[Heterogeneous_Integration]]
 [[Heterogeneous_Synaptic_Motifs]]
 [[L2_L3_Reconfigurability]]

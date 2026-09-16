@@ -33,9 +33,11 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration]]
 [[CoPackagedOptics]]
 [[End_Side_Neuromorphic_Deployment]]
+[[EventDrivenSensoryEncoding]]
 [[Heterogeneous_Integration]]
 [[Memory_Wall]]
 [[Neuromorphic_Computing]]
+[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

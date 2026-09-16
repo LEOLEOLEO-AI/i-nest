@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Collective_State_Convergence]]
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
+[[Distributed_Spike_Communication]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[Entanglement_Teleportation_Locality]]

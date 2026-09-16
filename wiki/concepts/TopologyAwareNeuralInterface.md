@@ -62,10 +62,12 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_NPU_NoC_Integration]]
 [[SDI_NoC_Integration]]
+[[SDSoW_Reconfigurable_Network]]
 [[System_Level_Utility_Control]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[WideLink_NoC_Router]]
+[[advanced packaging]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

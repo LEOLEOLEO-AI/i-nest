@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[DelayCodedWorkingMemory]]
 [[Distributed_Spike_Communication]]
 [[EvolutionarySpikeTimingOptimization]]
+[[HeterogeneousSynapticDelays]]
 [[LocalQuantumLearningRule]]
 [[MembranePotentialModulation]]
 [[Memristive_STDP]]

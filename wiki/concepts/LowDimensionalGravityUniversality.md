@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[AI_FullSpectrum_Strategy]]
 [[ANN动力学]]
+[[AdversarialMedicalRobustness]]
 [[Airborne_Link_Diversity]]
 [[Analog_InMemory_Processing]]
 [[ArbitraryWavefunctionConfigurability]]

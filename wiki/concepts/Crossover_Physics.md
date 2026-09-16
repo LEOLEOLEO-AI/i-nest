@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkPowerRouting]]
 [[InNetworkReconfiguration]]
 [[Interconnect_Routing]]
+[[LLMDrivenPathSelection]]
 [[MoE_Routing]]
 [[Negative_Result_Retention]]
 [[Network_Topology_Design]]

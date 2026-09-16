@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[Criticality_Induced_Computation]]
 [[Criticality_Induced_Plasticity]]
+[[Criticality_Transition]]
 [[DisorderInducedCriticality]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence]]

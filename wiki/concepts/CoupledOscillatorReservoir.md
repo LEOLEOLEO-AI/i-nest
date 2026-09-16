@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[EvolutionaryReservoirOptimization]]
 [[FederatedServiceGraph]]
 [[HardwareAware_DesignSpace]]
+[[HigherOrderSimplicialDynamics]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]

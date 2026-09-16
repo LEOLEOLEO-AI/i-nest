@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[BarrierConditionedTrajectory]]
 [[BioInspired_Interception_Control]]
 [[Capability_Reserve_Index]]
+[[CircuitTopologyEncoding]]
 [[Cognitive_Relapse_Decoupling]]
 [[CollectiveStateTopology]]
 [[Critical_Region_Extension]]

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AutonomousAdaptation]]
 [[AvalancheBranchingRatio]]
 [[BigBrainCellularAxis]]
+[[Biologically_Plausible_Learning_Rules]]
 [[BranchingRatio]]
 [[CST_Intelligence_Emergence]]
 [[CollectiveDynamics]]

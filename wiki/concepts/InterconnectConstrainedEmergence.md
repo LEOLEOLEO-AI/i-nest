@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[DTGA]]
 [[DarkSiliconAwarePowerGating]]
 [[Energy_Efficient_Control]]
+[[ExtensiveWidthShallowNN]]
 [[FerroelectricMemoryCell]]
 [[Ferroelectric_Devices]]
 [[Free_Energy_Principle]]

@@ -82,6 +82,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_iNEST]]
 [[SingleSourceOfTruthMetric]]
 [[Spacetime_Coupling_Coefficient]]
+[[SpatiotemporalComplexityIndex]]
 [[Spatiotemporal_Synergy]]
 [[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]

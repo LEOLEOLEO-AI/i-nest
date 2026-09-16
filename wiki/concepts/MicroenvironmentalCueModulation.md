@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveAsymmetricSurrogateGradient]]
 [[AdaptiveAsymmetricSurrogateGradients]]
 [[AdaptiveDeltaPulseFrequencyEncoding]]
+[[Algorithmic_Warfare]]
 [[Anomaly_Induced_Quantum_Criticality]]
 [[Avoided_Criticality]]
 [[BioInspired_Interception_Control]]

@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[NonlinearConnectomeScaling]]
 [[Nonlinear_Gain]]
 [[Parallelized_Hierarchical_Connectome]]
+[[PowerLawScalingClassification]]
 [[RenormalizationGroupIntelligence]]
 [[Self_Organized_Criticality]]
 [[TCC]]

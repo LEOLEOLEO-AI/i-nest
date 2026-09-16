@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Asynchronous_Circuit]]
 [[Autonomous_Spiking_Dynamics]]
+[[Avoided_Criticality]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BrainScaleS_AsyncEventCircuit]]
 [[ContinualLearningOnNeuromorphic]]
@@ -32,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicAttentionScaling]]
 [[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[SNN]]
 [[ST_SNN]]
 [[Spiking_Neural_Network]]

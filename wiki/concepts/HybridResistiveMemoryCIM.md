@@ -33,6 +33,8 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]
+[[Complex_System_Theory]]
+[[ComputationEfficientDeepLearning]]
 [[ConsciousIntegration]]
 [[CrossDomain_Integration]]
 [[Deep_Network_Architecture_Invariant]]
@@ -71,6 +73,7 @@ Auto-extracted concept from raw material compilation.
 [[SystemLevelNonlinearity]]
 [[Textbook_Paradigm_Definition]]
 [[TopologicalAndersonChernInsulator]]
+[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

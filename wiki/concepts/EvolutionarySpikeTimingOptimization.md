@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
+[[ParallelSNNArchitecture]]
 [[SNN]]
 [[SpikeEncoding]]
 [[SpikeTimingEncoding]]

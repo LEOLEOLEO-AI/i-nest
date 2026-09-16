@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Change_Record]]
 [[BiSpikCLM]]
 [[BioPlausibleDisturbanceObserver]]
+[[BrainScaleS_AsyncEventCircuit]]
 [[BulletTrainScheduling]]
 [[ConstructedRealityState]]
 [[CriticalityBasedClassification]]
@@ -47,7 +48,6 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Self_Organized_Criticality]]
-[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

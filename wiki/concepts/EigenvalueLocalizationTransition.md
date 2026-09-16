@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[CytoarchitectonicAxis]]
 [[DataDrivenCytoarchitectonicAxis]]
 [[ErrorSuppressedPipeline]]
+[[L2_L3_Reconfigurability]]
 [[NestedRepresentation]]
 [[Network_Topology_Design]]
 [[NonlinearDynamicsInMetamaterials]]

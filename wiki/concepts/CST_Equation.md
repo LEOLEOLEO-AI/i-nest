@@ -88,6 +88,7 @@ Auto-extracted concept from raw material compilation.
 [[UniversalIntelligence_Emergence]]
 [[VonNeumann_Complexity_Threshold]]
 [[Wafer_Interconnect]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[chiplet interconnect]]
 [[complex system]]
 [[residual connection]]

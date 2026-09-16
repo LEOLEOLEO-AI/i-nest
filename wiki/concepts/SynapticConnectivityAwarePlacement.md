@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Order_Deep_Belief_Networks]]
+[[EventDrivenAttentionMechanism]]
 [[FPGA_Neuromorphic_Architectures]]
 [[InputAdaptiveComputation]]
 [[Intelligence_Emergence]]

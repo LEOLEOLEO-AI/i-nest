@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[JunctionSignalIntegrity]]
 [[Local_Plasticity]]
 [[Neuromorphic_Computing]]
+[[NonEquilibriumPhase]]
 [[SOC]]
 [[STDP_Plasticity]]
 [[SparseActivationSkipping]]

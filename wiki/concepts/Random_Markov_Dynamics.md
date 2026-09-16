@@ -60,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[ReservoirDynamics]]
 [[Reservoir_Computing]]
 [[TCC]]
+[[ThermallyDrivenSuperparamagnetReservoir]]
 [[chiplet interconnect]]
 [[neuromorphic substrate]]
 [[Γst_Revision]]

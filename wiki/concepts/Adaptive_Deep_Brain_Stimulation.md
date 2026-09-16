@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Intelligent_Emergence_Computing]]
 [[Interconnect_Routing]]
+[[IonotropicPhotoresponse]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Model_Routing_Protocol]]

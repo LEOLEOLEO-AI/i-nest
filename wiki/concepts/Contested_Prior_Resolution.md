@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkNeuromorphicSimulation]]
 [[InNetworkNeuromorphic]]
 [[InNetwork_CST_Offload]]
+[[In_Network_Neuromorphic]]
 [[Intelligence_Emergence]]
 [[MacroscopicDescriptor]]
 [[Memristive_ANN_Hardware]]
@@ -73,6 +74,7 @@ Auto-extracted concept from raw material compilation.
 [[ThermalNoiseHarnessing]]
 [[complex system]]
 [[iNEST]]
+[[iNEST_Neuromorphic_Integration]]
 [[residual connection]]
 [[三原理协同_FEP_STDP_最小作用量]]
 

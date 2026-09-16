@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
 [[CollectiveSpikingDynamics]]
+[[ConductingPolymerDendriteMemory]]
 [[Contested_Prior_Resolution]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]

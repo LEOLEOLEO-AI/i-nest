@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
+[[SpikeBasedNeuralRadianceField]]
 [[SpikeDrivenInference]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]

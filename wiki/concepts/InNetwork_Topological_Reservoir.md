@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Avalanche_Dynamics]]
 [[Bosonic_SPT_Phases]]
+[[CoexistencePhaseDiagram]]
 [[Compressed_Glass_Network]]
 [[CoupledOscillatorReservoir]]
 [[CouplingMatrixRecovery]]

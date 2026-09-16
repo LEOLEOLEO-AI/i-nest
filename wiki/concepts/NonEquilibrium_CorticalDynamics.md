@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Gut_Brain_Immune_Network]]
 [[HippocampalNeocorticalIntelligence]]
 [[Intelligence_Emergence]]
+[[Memristive_STDP]]
 [[Memristor]]
 [[Memristor_Network]]
 [[Memristor_Synapse]]

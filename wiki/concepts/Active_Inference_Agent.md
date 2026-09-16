@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[EmulationTheoryObserver]]
 [[ExplainableEnergyAI]]
 [[FastSlow_Dynamics]]
+[[Functional_Food_Complexity]]
 [[HallmarkDrivenCancerModeling]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

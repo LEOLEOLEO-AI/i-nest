@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[EmulationTheoryObserver]]
 [[Intelligence_Emergence]]
+[[LivingNetworkDynamics]]
 [[MeanFieldSpinGlass]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

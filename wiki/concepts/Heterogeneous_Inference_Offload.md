@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[4H_SiC_SubstrateProcessing]]
 [[AI_Application_Scenario_Reconstruction]]
 [[AdvancedPackagingInterconnect]]
+[[AdvancedPackaging]]
 [[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[AnalogDomainCompression]]
@@ -69,6 +70,8 @@ Auto-extracted concept from raw material compilation.
 [[ThroughSiliconVia_TSV_ThermalPath]]
 [[TopologyAwareTaskScheduling]]
 [[Topology_Centric_Interconnect]]
+[[WeedIdentification]]
+[[advanced packaging]]
 [[chiplet interconnect]]
 
 ## Sources

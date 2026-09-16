@@ -33,12 +33,14 @@ Auto-extracted concept from raw material compilation.
 [[Chemical_Bond_Operation_Algebra]]
 [[CrossDomain_Integration]]
 [[DelayTolerantNetworkUAV]]
+[[Dynamic_Communication_Reconfiguration]]
 [[Minimal_Complete_Set]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
 [[SOC]]
 [[TCC]]
+[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

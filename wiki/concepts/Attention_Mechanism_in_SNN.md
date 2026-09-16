@@ -33,7 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[PowerLawScaling]]
 [[SNN]]
 [[Self_Organized_Criticality]]
-[[Spiking neural network]]
+[[Spike_Energy_Floor]]
 [[Spiking_Neural_Network]]
 [[Syncytial_Mesh]]
 [[Syncytial_Mesh_Model]]

@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Discrete_Event_Spike_Simulation]]
 [[DynamicTokenSparsity]]
 [[DynamicalSelfDualCriticality]]
+[[EnergyProportionalityCeiling]]
 [[EventDrivenComputation]]
 [[Event_Driven_Architecture]]
 [[Event_Driven_Computation]]

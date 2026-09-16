@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[EnsembleSparsity]]
 [[FlexibilityThreshold]]
+[[GutBrainAxis_Reprogramming]]
 [[Gut_Brain_Immune_Network]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]

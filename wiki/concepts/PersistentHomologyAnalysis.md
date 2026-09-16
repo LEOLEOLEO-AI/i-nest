@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[FirstPrinciples_AI]]
 [[FourElementEmergenceKernel]]
 [[Generalization_Bound_Spectra]]
+[[HybridMemristorArray]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
+[[AnomalousSpinTransport]]
 [[BiSpikCLM]]
 [[BigBrainCellularAxis]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
@@ -37,7 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGASNNMemoryOptimization]]
 [[Hypersonic_Weapon_Market_CAGR]]
 [[LIF_Neuron_Model]]
-[[MemristiveSNN]]
+[[Memristive_SNN]]
 [[Memristive_SNN_Accelerator]]
 [[Memristor]]
 [[Memristor_Network]]

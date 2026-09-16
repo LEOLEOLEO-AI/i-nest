@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[ElectronicPhotonicIntegratedCircuit]]
 [[EvanescentFieldTrapping]]
 [[FractalPathEntropy]]
+[[FreeEnergyMinimizationRouting]]
 [[HighThroughputParticleRouting]]
 [[InNetworkNeuromorphic]]
 [[InNetwork_Reservoir_Integration]]

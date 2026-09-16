@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AutonomousAdaptation]]
 [[DTGA]]
 [[Emergent_Order_Deep_Belief_Networks]]
+[[FPGA_Neuromorphic_Architectures]]
 [[Free_Energy_Topology_Mapping]]
 [[Intelligence_Emergence]]
 [[MatrixShapePhaseTransition]]

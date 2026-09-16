@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[GeometryGuidedGenerativeModel]]
 [[Hypersonic_Systems_Research]]
 [[Intelligence_Emergence]]
+[[LocalStructuralPlasticity]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]

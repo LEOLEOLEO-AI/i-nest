@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
+[[CoPackagedOptics]]
 [[Complex_System_Theory]]
 [[Critical_Exponent_Analysis]]
 [[Cross_Node_Event_Propagation]]

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[InterWafer_SwarmX]]
 [[Interconnect_Topology]]
 [[KeyMaterialStrategy]]
+[[Mesoscale_Advantage_Equation]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[Wafer_Interconnect]]

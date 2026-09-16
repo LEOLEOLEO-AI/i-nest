@@ -58,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[SimulabilityThreshold]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
+[[TopologyEmbeddedIntrospection]]
 [[TriAxiomCalibration]]
 [[iMESO_PhysicalCarrier]]
 [[iNEST]]

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AdaptiveFrequencyResonateFire]]
+[[AdaptiveLocalLearning]]
 [[AdaptiveSpeechToSpikeEncoding]]
 [[Bidirectional_Temporal_Enhancement]]
 [[Controlled_Release_Kinetics]]

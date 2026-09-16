@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[ActionPrototypeClustering]]
 [[BigBrainCellularAxis]]
 [[CIMWeightUpdateAwareness]]
+[[Chiplet_Integration_Route]]
 [[Complex_System_Theory]]
 [[ConductingPolymerDendriteMemory]]
 [[Cross_Node_Event_Propagation]]

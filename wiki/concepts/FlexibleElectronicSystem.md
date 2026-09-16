@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[DarkSiliconAwarePowerGating]]
 [[DataAuthenticityCrisis]]
+[[EnzymeImmobilizationMatrix]]
 [[FlagOS_2_0]]
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]

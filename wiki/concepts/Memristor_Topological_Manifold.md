@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Package_Neuromorphic_Integration]]
 [[Memristive_Crossbar]]
 [[Memristive_Crossbar_Array]]
+[[Memristive_Interconnect]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]

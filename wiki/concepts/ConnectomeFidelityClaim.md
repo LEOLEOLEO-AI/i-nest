@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration]]
 [[Chiplet_Integration_Route]]
 [[Connectome]]
+[[Cross_Node_Event_Propagation]]
 [[Fixed_Cost_Dominance]]
 [[FlexibilityThreshold]]
 [[Free_Energy_Principle]]

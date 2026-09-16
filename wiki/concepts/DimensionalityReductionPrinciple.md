@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[HubbardModelVariationalAnsatz]]
 [[Intelligence_Emergence]]
 [[Material_Circularity]]
+[[Multiplex_Epidemic_Threshold]]
 [[Network_Topology_Design]]
 [[OpenLearningEcosystem]]
 [[P_Paradigm]]

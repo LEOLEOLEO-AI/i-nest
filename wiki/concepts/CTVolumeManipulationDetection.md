@@ -39,10 +39,12 @@ Auto-extracted concept from raw material compilation.
 [[DecliningModularity]]
 [[DiffAttention_SubtractiveMechanism]]
 [[Discrete_Event_Spike_Simulation]]
+[[ElasticInferenceScheduling]]
 [[EventDrivenAttentionMechanism]]
 [[EventDrivenTemplateUpdate]]
 [[Neuromorphic_Computing]]
 [[Spiking_Neural_Network]]
+[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

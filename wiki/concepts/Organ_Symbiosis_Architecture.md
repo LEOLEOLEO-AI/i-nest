@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[BandedNonHermitianRandomMatrices]]
 [[BayesianDomainEvolution]]
 [[Co_designed_Online_Continual_Learning]]
+[[CommunicationAwareComputeRelocation]]
 [[Controlled_Release_Kinetics]]
 [[Cytokine_Feedback_Loops]]
 [[Decoupled_Prior_Integration]]

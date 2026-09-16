@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC]]
 [[PacketRoutingOptimization]]
 [[QuarantineCostTradeoff]]
+[[QuarantineStrategyOptimization]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[SparseTemporalEncoding]]

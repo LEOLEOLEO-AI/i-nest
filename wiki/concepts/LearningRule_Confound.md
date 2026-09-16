@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[CST计量仪]]
 [[CausalIntegrationPhi]]
 [[Causal_State_Encoding]]
+[[CentralityAsStateVariable]]
 [[Complex_System_Theory]]
 [[Evaluation_Resolution]]
 [[Intelligence_Emergence]]

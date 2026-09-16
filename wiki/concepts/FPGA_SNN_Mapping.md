@@ -33,11 +33,11 @@ Auto-extracted concept from raw material compilation.
 [[Memristor]]
 [[Memristor_Crossbar]]
 [[Memristor_Synapse]]
+[[Meta_Residual_Architecture]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[PPT]]
 [[SNN]]
-[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

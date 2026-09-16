@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[ExplainableEnergyAI]]
 [[FlexibilityThreshold]]
 [[FrozenRateOperator]]
+[[FunctionalRelevanceSelfOrganization]]
 [[InNetworkAgentRewiring]]
 [[InNetworkNeuromorphicComms]]
 [[InNetworkNeuromorphic]]

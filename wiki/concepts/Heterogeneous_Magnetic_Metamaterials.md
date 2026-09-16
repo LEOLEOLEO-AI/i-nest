@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AutonomousAdaptation]]
 [[CST计量仪]]
 [[Chiplet]]
+[[Chiplet_Based_Interconnect_Fabric]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]

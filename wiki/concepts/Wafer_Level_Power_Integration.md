@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Mesoscale_Heterogeneous_Integration]]
 [[MicroRouter_Embedding]]
 [[Network_Topology_Design]]
+[[SDSoW_Reconfigurable_Network]]
 [[TCC]]
 [[Wafer_Interconnect]]
 [[Wafer_Scale_Integration]]

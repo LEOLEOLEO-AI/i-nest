@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[3D_Vertical_Interconnect]]
 [[3d]]
 [[4H_SiC_SubstrateProcessing]]
+[[BCU_Operation]]
 [[ChipletTrafficAwareScheduling]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC]]
 [[P_Paradigm]]
 [[ReproducibleReservoirOutput]]
+[[Reservoir_Computing]]
 [[TCC]]
 [[TemporalFeatureProjection]]
 

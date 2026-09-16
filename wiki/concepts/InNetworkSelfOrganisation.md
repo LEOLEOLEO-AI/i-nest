@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration_Route]]
 [[CompactLocalizedStates]]
 [[Complex_System_Theory]]
+[[DendriticReservoirState]]
 [[EventCameraActionRecognition]]
 [[Flexible_Spike_Routing]]
 [[GeTeBasedCBRAM]]

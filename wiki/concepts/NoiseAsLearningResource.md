@@ -61,6 +61,7 @@ Auto-extracted concept from raw material compilation.
 [[SuperparamagneticSwitchingRate]]
 [[Syncytial_Information_Integration]]
 [[TCC]]
+[[ThermalFluctuationComputing]]
 [[complex system]]
 [[iNEST]]
 [[涌现]]

@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Computation_Access_Routing]]
 [[CorticalWaveRouting]]
 [[Critical_Region_Extension]]
+[[Deep_Thermalisation]]
 [[Electronic_Crystal_Dynamics]]
 [[Emergent_Topology_Adaptation]]
 [[EntanglementAwareRouting]]

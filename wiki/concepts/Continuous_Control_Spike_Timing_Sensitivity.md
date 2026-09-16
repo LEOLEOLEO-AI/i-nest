@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[CorticalWaveRouting]]
 [[DataDrivenCellularAxis]]
+[[EmergencePhaseCitationDynamics]]
 [[EventCameraTemporalEncoding]]
 [[HypergraphRumorPropagation]]
 [[In_Network_Neuromorphic]]

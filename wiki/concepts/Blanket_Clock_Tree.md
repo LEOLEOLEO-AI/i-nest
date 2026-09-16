@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Stacking]]
 [[ComponentLevelMolding]]
 [[DTGA]]
+[[Free_Energy_Topology_Constraint]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]

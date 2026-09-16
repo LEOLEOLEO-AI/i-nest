@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[4H_SiC_SubstrateProcessing]]
 [[ASIC_Dualism]]
 [[CLINKAsCarrierPrimitive]]
+[[Chiplet_Interconnect_Topology]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Microsecond_Link_Reconfiguration]]

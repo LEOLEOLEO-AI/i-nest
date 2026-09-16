@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Complex_Network_Class_Brain_Computing]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
+[[Four_Scale_Semantic_Battlefield]]
 [[Heterogeneous_Integration]]
 [[Memristor]]
 [[Memristor_Crossbar]]

@@ -64,6 +64,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[SOC]]
 [[ScalingBehaviourDeviation]]
+[[Scaling_Law_Breakdown]]
 [[SelfOrganizedOscillatoryLearning]]
 [[TOOLS]]
 [[catastrophic forgetting]]

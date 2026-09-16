@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle_Network]]
 [[FunctionalInterfaceBlock]]
 [[FunctionalInterfaceBlocks]]
+[[Hysteretic_State_Encoding]]
 [[IntegrationProspectsForVLSI]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

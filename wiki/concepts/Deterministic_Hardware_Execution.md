@@ -25,11 +25,16 @@ Auto-extracted concept from raw material compilation.
 [[AnisotropicGaussianPrimitives]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BioInspiredSequenceLearning]]
+[[Defense_Industrial_Base_Reshaping]]
 [[Learning_Rule_Comparison]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
+[[SDI_Bond]]
+[[SDI_STDP]]
 [[SDI_STDP_Topology]]
+[[STDP_Plasticity]]
+[[STDP_Topology]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

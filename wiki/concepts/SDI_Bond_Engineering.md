@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Advanced_Packaging_for_Space]]
 [[Attention_Residuals]]
 [[BackpropagationFreeLearning]]
+[[CLINKAsCarrierPrimitive]]
 [[CommunicationAsComputation]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
@@ -34,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond_Parameter]]
 [[TCC]]
 [[TOOLS]]
+[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

@@ -58,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuralQuantumState]]
 [[NoiseModulatedLearning]]
+[[NonvolatileChargeDomain]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]

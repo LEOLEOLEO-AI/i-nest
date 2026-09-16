@@ -63,6 +63,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing_DP_Recycling]]
 [[TimeSeriesPrediction]]
 [[TopologicalAndersonChernInsulator]]
+[[TopologyEmbeddedIntrospection]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

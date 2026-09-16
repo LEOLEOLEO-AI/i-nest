@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[Active_Inference_Agent]]
 [[BayesianDomainEvolution]]
+[[BigBrainCellularAxis]]
 [[CST_Spatiotemporal_Complexity]]
 [[CST_SynergisticCoordination]]
 [[CST计量仪]]

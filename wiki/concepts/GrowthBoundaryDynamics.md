@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Analog_InMemory_Processing]]
 [[AndersonTransition]]
+[[AutonomousServiceNegotiation]]
 [[CavityMethodAnalysis]]
 [[Complex_System_Theory]]
 [[ERI_2_0_Framework]]

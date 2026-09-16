@@ -56,6 +56,8 @@ Auto-extracted concept from raw material compilation.
 [[Non_Von_Neumann_Architecture]]
 [[QuantumReservoirMemoryCapacity]]
 [[RecursiveSelfReferentialArchitecture]]
+[[Reservoir_Computing]]
+[[ShortTermMemory]]
 [[Stigmergic_Neural_Plasticity]]
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]

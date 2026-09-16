@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SIGReg_Gradient]]
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[TCC]]

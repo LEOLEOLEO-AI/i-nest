@@ -38,9 +38,9 @@ Auto-extracted concept from raw material compilation.
 [[SpikeRoutingFabric]]
 [[SpikeTimingPreservation]]
 [[Spike_Event_Driven_Attention]]
-[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
+[[TemporalAdversarialPerturbation]]
 [[TemporalBatchSynchronization]]
 [[iNEST]]
 

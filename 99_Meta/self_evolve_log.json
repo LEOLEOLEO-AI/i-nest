@@ -7765,5 +7765,161 @@
       "已提交 6028 个文件。",
       "已推送 github main。"
     ]
+  },
+  {
+    "date": "2026-09-15",
+    "time": "2026-09-15T08:12:32.799830",
+    "steps": {
+      "compile": false,
+      "grow": true,
+      "health": {
+        "date": "2026-09-15",
+        "total_notes": 12666,
+        "missing_frontmatter": 719,
+        "broken_links": 2082,
+        "broken_samples": [
+          [
+            "GetNote_20260606_100554_kb_project-guide_getnote_1902402582405550008_晶上自演化复杂网络的基础理论_关键技术与应用验证_项目群_",
+            30
+          ],
+          [
+            "GetNote_20260606_100554_kb_project-guide_getnote_1907691712224232464_海河实验室晶上先导项目检查",
+            19
+          ],
+          [
+            "GetNote_20260606_100554_kb_paper-ideas_getnote_1906500077841850152_从冯诺依曼到网络中心_计算范式迁移的第一性原理综述",
+            18
+          ],
+          [
+            "Universal Scaling Laws for Intelligence Emergence from Device-Level Nonlinearities  A Renormalization Group Approach",
+            17
+          ],
+          [
+            "GetNote_20260606_100554_getnote_1911898566117388992_NEST 智能涌现研究进展与工程落地全景",
+            14
+          ],
+          [
+            "2026-06-28_Getnote_2026-06-28_拓扑中心计算范式架构研究与液态拓扑生成式计算原型验证项目指南 8.0",
+            14
+          ],
+          [
+            "GetNote_20260606_100554_kb_DARPA-research_getnote_1896185525975594536_DARPA传感器_电子战与通信领域深度研究报告_下册__能力与技术预测_2025-2035_",
+            14
+          ],
+          [
+            "GetNote_20260606_100554_kb_iNEST_getnote_1899812166295444000_清华团队类脑计算突破",
+            14
+          ],
+          [
+            "GetNote_20260606_100554_kb_iNEST_getnote_1887266194235479456_晶上大脑基础研究课题",
+            11
+          ],
+          [
+            "GetNote_20260606_100554_kb_iNEST_getnote_1887095535857468536_ResNEST论文修订",
+            11
+          ],
+          [
+            "2025年10月28号 日记",
+            11
+          ],
+          [
+            "C.elegans",
+            10
+          ],
+          [
+            "GetNote_20260606_100554_kb_DARPA-research_getnote_1896186120829089320_3D异构集成_3DHI_技术深度研究_机遇_挑战与未来路径",
+            10
+          ],
+          [
+            "GetNote_20260606_100554_kb_iNEST_getnote_1898552298842526592_神经网络时空协同智能涌现",
+            9
+          ],
+          [
+            "GetNote_20260606_100554_kb_iNEST_getnote_1911898566117388992_NEST 智能涌现研究进展与工程落地全景",
+            9
+          ],
+          [
+            "GetNote_20260606_100554_kb_iNEST_getnote_1899812152336800288_吴华强团队与iNEST技术互补",
+            9
+          ],
+          [
+            "GetNote_20260606_100554_kb_project-guide_getnote_1906074590464742600_海河实验室",
+            9
+          ],
+          [
+            "00_Inbox/_pipeline_insights/八大神经网络，从原理到应用",
+            9
+          ],
+          [
+            "getnote_2026-06-28_拓扑中心计算范式架构研究与液态拓扑生成式计算原型验证项目指南 8.0",
+            8
+          ],
+          [
+            "GetNote_20260606_100554_getnote_1911847292798033216_软件定义晶上系统赋能超线性增益与智能涌现范式报告提纲设计",
+            8
+          ],
+          [
+            "GetNote_20260606_100554_kb_iNEST_getnote_1898555559796441760_数字孪生大脑工程化路径",
+            8
+          ],
+          [
+            "GetNote_20260606_100554_kb_project-guide_getnote_1902181985369076264_基于SDI_软件定义晶上系统_化合键作用的可塑性网络构建及ARC-AGI流体智能基础探索",
+            8
+          ],
+          [
+            "getnote_2026-06-28_智算算力芯片网络互连创新实践与发展趋势综述_从固定拓扑到液态拓扑计算",
+            8
+          ],
+          [
+            "GetNote_20260606_100554_kb_DARPA-research_getnote_1896186147673664688_美国DARPA 2025年在研项目深度研究报告_以技术代差重塑未来战争形态",
+            8
+          ],
+          [
+            "30_TCC\\34_Projects\\_from_ideas\\卫星智能体重大专项建议_v4.md",
+            8
+          ]
+        ],
+        "orphan_notes": 2827
+      },
+      "grow_concepts": [],
+      "phase4": {
+        "import_processor": true,
+        "task_recommender": true,
+        "research_evolution": true,
+        "cross_domain_insight": true,
+        "hypothesis_engine": true,
+        "inspiration_engine": true,
+        "patent_scout": true
+      },
+      "homepage": true,
+      "dashboard": true,
+      "git": true
+    },
+    "log": [
+      "=== 自进化编排开始 ===",
+      "运行 wiki_compiler (增量; 无新来源则仅健康检查, 不消耗 LLM)...",
+      "wiki_compiler 退出码=1 | \n  File \"C:\\Users\\LEO\\AppData\\Local\\Programs\\Python\\Python310\\lib\\pathlib.py\", line 1097, in stat\n    return self._accessor.stat(self, follow_symlinks=follow_symlinks)\nFileNotFoundError: [WinError 2] 系统找不到指定的文件。: 'D:\\\\Obsidian\\\\vault\\\\00_Inbox\\\\01_GetNotes\\\\Groq TSP 张量流处理器深度解析：把确定性写进硬件的深度学习加速架构.md'\n",
+      "运行 wiki_grow 交叉链接/去重...",
+      "wiki_grow 退出码=0 | iling regexes...\n  regexes ready: 6009 phrases + 6039 slugs\n  AC automaton built (6039 concepts)\n  linking concepts...\n  shared-term linking...\n  linking articles...\n  concepts now: 6039 | linked: 6034 | orphans: 1867\n  index/backlinks/health refreshed.\n[08:16:35] wiki_grow done — orphans 1867/6039\n",
+      "运行全库健康自检 (纯本地, 贴近 Obsidian 链接解析)...",
+      "健康自检: 笔记 12666 | 真正断链 2082 | 孤儿 2827 | 缺FM 719 -> vault_health.md",
+      "自我生长: 补全高频缺失概念占位笔记...",
+      "无新的缺失概念需补全(或已达上限/已有)。",
+      "运行 Phase 4 自进化引擎 (import/task/evolution/cross-domain)...",
+      "import_processor 退出码=0 | cessor ===\n[08:17:23] Genspark dir not found, skipping\n[08:17:23] Imported: Genspark=0, 得到大脑=0, Codex=0\n[08:17:23] Total new files in raw/: 0\n[08:17:23] Inbox pending: 0 files\n[08:17:23] === Done ===\n",
+      "task_recommender 退出码=0 | on queue item\n  [MEDIUM] Process evolution queue item\n  [MEDIUM] Process evolution queue item\n  [LOW   ] Link these concepts: 00_ADR_决策记录, 2025年10月11号 日记, 2026新年巨献_追问大模型智能, 40\n[08:18:10] === Done ===\n",
+      "research_evolution 退出码=0 | [08:18:10] === Research Evolution Engine ===\n[08:18:10] Hypothesis updates: 0\n[08:18:10] Research directions: 0\n[08:18:10] Report: wiki/evolution_report.md\n[08:18:10] === Done ===\n",
+      "cross_domain_insight 退出码=0 | SoW_TCC_Integration\n       iNEST: Defect_to_Advantage, Electrolyte_Bonding_Engineering, FeFET_Polarization_Switching\n\nCross-domain articles: 0\n\nReport: D:\\Obsidian\\vault\\wiki\\cross_domain_insights.md\n",
+      "hypothesis_engine 退出码=0 | [hypothesis_engine] 无新假设需添加\n",
+      "inspiration_engine 退出码=0 | _v3...\n    ❌ LLM分析失败, 跳过 (LLM不可用或返回异常)\n  分析: Jingxin_Micro_Edge_AI_Interconnect_Financing_...\n    ✅ 20260915_Jingxin_Micro_Edge_AI_Interconnect_Financing_PPT_O.md\n[inspiration_engine] 完成: 5 成功 / 1 失败\n",
+      "patent_scout 退出码=0 |  H8_disclosure.md\n  [MEDIUM] H9: TCC×iNEST: 3D-IC堆叠模拟皮层柱状架构可实现密集神经处理层 → H9_disclosure.md\n  [HIGH] H10: TCC×iNEST: 脑连接组拓扑模式可启发晶圆级NoC最优拓扑设计 → H10_disclosure.md\n\n[patent_scout] 扫描完成: 10 个假设中识别出 9 个可专利方向\n",
+      "刷新 Home.md (实时 git)...",
+      "homepage 退出码=0 | [08:18:51] === Homepage Generator ===\n[08:18:52] 70_Dashboard/data.js generated\n[08:18:52] Home.md generated (5752 chars)\n[08:18:52] === Done ===\n",
+      "research_dashboard 退出码=0",
+      "git add 部分目录无匹配(正常): warning: in the working copy of '40_iNEST/42_Technology/2026-06-23_S2_Modeling macroscopic brain dyn",
+      "已提交 6196 个文件。",
+      "push 失败, 尝试 pull --no-rebase 后重推: behind\nhint: its remote counterpart. If you want to integrate the remote changes,\nhint: use 'git pull' before pushing again.\nhint: See the 'Note about fast-forwards' in 'git push --help' for details.\n",
+      "⚠️ 重推仍失败: behind\nhint: its remote counterpart. If you want to integrate the remote changes,\nhint: use 'git pull' before pushing again.\nhint: See the 'Note about fast-forwards' in 'git push --help' for details.\n"
+    ]
   }
 ]

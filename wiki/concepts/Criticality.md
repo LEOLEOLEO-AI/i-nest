@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Long_Range_Interactions]]
 [[MeanFieldSpinGlass]]
+[[NanomaterialFeatureEngineering]]
 [[Neuromorphic_Computing]]
 [[Random_Parameter_Substitution]]
 [[Reservoir_Computing]]

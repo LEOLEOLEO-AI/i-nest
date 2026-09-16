@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Cryogenic_Syndrome_Compression]]
 [[DimensionalityReductionForNetworkControl]]
 [[DistinctReentrantPhases]]
+[[Distributed_Spike_Communication]]
 [[ERI_2_0_Strategy]]
 [[EvanescentFieldTrapping]]
 [[HierarchicalAttention_MIL]]

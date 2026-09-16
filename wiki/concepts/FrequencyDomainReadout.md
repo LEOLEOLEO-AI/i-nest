@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[ErrorSuppressedPipeline]]
 [[FractalPathEntropy]]
+[[HigherOrderSimplicialDynamics]]
 [[InNetwork_Learning_Interface]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]
@@ -51,7 +52,9 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicVisualPipeline]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[Nonlinear_Gain]]
+[[P_Paradigm]]
 [[PersonalizedSNNTransfer]]
 [[PersonalizedSNN]]
 [[QuantumDeepSupervision]]
@@ -65,6 +68,7 @@ Auto-extracted concept from raw material compilation.
 [[StructuralPriorEncoding]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
+[[Topology_Centric_Neuromorphic]]
 [[Topology_Centric_Neuromorphic_Integration]]
 
 ## Sources

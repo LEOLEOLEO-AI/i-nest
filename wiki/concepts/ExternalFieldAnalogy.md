@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[DataCenter_Chip_Logic_Compression]]
 [[Differential_Encoding]]
 [[DisorderAveragedEntanglement]]
+[[Distributed_Spike_Communication]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]

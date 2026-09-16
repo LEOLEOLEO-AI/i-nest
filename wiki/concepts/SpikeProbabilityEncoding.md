@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[11_SDI节点接口规范与化合键定义_dup]]
 [[20W_Brain_Inspired_Planning]]
 [[Bidirectional_Temporal_Enhancement]]
+[[BrainInspired_Chip]]
 [[ClocklessReconfigurableChip]]
 [[Contested_Prior_Resolution]]
 [[Continuous_Control_Spike_Timing_Sensitivity]]
@@ -44,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_STDP]]
 [[SDI_STDP_Fusion]]
 [[SDI_STDP_Rule]]
+[[SDI_iNEST]]
 [[SDI_iNEST_Interconnect]]
 [[SDI节点接口规范与化合键定义]]
 [[SNN]]
@@ -54,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
+[[iNEST_Interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

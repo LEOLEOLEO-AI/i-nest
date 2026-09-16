@@ -46,7 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[QuantumInspiredOptimization]]
 [[Real_Time_Neuromorphic_Constraint_Satisfaction]]
 [[SNN]]
-[[Spiking neural network]]
+[[SafetyThresholdAsSpikingThreshold]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

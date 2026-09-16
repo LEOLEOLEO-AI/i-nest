@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[InterconnectConstrainedEmergence]]
 [[Interconnect_Topology]]
 [[MicroTransferPrinting]]
+[[MultiplicativeGainMechanism]]
 [[NCL神经计算定律详解]]
 [[Network_Topology_Design]]
 [[NishimoriLine]]

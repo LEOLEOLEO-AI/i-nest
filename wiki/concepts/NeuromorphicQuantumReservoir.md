@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Crossbar]]
 [[Memristor_Reservoir_Computing]]
 [[Memristor_Synapse]]
+[[Meta_Residual_Learning]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[ReservoirComputingModel]]

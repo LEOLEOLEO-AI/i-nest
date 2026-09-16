@@ -351,6 +351,36 @@
       "date": "2026-09-15T08:18:50.728882",
       "card": "20260915_Jingxin_Micro_Edge_AI_Interconnect_Financing_PPT_O.md",
       "method": "llm"
+    },
+    "30_TCC\\31_Theory\\in_situ_adjoint_wave_control_nonhermitian_nonlinear.md": {
+      "date": "2026-09-17T07:39:58.268578",
+      "card": "20260917_in_situ_adjoint_wave_control_nonhermitian_nonlinea.md",
+      "method": "llm"
+    },
+    "30_TCC\\31_Theory\\Generalized_Master_Stability_Heterogeneous_Delay_Coupled_Networks_2012.md": {
+      "date": "2026-09-17T07:40:09.333008",
+      "card": "20260917_Generalized_Master_Stability_Heterogeneous_Delay_C.md",
+      "method": "llm"
+    },
+    "30_TCC\\31_Theory\\HigherOrderNetworkDimensionReduction_2608.12676.md": {
+      "date": "2026-09-17T07:40:20.020564",
+      "card": "20260917_HigherOrderNetworkDimensionReduction_2608.12676.md",
+      "method": "llm"
+    },
+    "30_TCC\\31_Theory\\control-driven-critical-fluctuations-quantum-trajectories.md": {
+      "date": "2026-09-17T07:40:32.058163",
+      "card": "20260917_control-driven-critical-fluctuations-quantum-traje.md",
+      "method": "llm"
+    },
+    "30_TCC\\31_Theory\\arxiv_daily_index_2026-08-13.md": {
+      "date": "2026-09-17T07:40:43.839630",
+      "card": "20260917_arxiv_daily_index_2026-08-13.md",
+      "method": "llm"
+    },
+    "30_TCC\\31_Theory\\symmetric_approximant_statistical_topological_matter.md": {
+      "date": "2026-09-17T07:41:40.590701",
+      "card": "20260917_symmetric_approximant_statistical_topological_matt.md",
+      "method": "llm"
     }
   }
 }

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[AI_Forum_Demo_Narrative]]
 [[AmorphousTopologicalSubstrate]]
+[[BeliefPropagationOnGraphTopology]]
 [[BoundaryContract]]
 [[BoundaryObject_Abstraction]]
 [[CST_Intelligence_Emergence]]

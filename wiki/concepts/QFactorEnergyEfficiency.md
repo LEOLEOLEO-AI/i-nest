@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Intelligence_Principle]]
 [[Adaptive_Service_Orchestration]]
 [[Chiplet]]
+[[Chiplet_Based_3D_Packaging]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]
 [[Heterogeneous_Integration]]

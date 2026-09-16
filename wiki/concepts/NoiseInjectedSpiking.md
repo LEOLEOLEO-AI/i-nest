@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[Adaptive_Replication_Strategy]]
 [[AdversarialSpikePerturbation]]
+[[Algorithmic_Warfare]]
 [[Avoided_Criticality]]
 [[BackflowTransformation]]
 [[Baseline_Change_Record]]

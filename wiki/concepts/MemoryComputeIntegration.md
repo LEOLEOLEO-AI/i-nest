@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[BeyondVonNeumannArchitecture]]
 [[DARPA_ProjectManager_Model]]
 [[FullyLocalOnlineSNNTraining]]
+[[HeterogeneousSynapticDelays]]
 [[HierarchicalReservoirDynamics]]
 [[In_Package_Neuromorphic_Integration]]
 [[Memristor]]

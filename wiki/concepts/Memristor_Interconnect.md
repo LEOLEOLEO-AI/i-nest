@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveCompetingInteractions]]
 [[Attention_Residuals]]
 [[AutonomousAdaptation]]
+[[ByteDance_Ada_Chip]]
 [[CST计量仪]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]

@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Complexity_Emergence]]
 [[Complexity_Emergence_Engineering]]
 [[Constructed_Reality_Interconnect]]
+[[Course_Based_FPGA_Projects]]
 [[Intelligence_Emergence]]
 [[Neuromorphic_Computing]]
 [[causal emergence]]

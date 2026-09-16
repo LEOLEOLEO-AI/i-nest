@@ -48,6 +48,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
+[[HodgkinHuxleyDynamics]]
 [[Intelligence_Emergence]]
 [[Memory_Wall]]
 [[Memristive_STDP]]

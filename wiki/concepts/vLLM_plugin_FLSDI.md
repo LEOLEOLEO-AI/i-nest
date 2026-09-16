@@ -85,6 +85,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TCC_iNEST_Interconnect]]
 [[TemporalComplexity]]
+[[Textbook_Paradigm_Definition]]
 [[Wafer_Interconnect]]
 [[analog computation]]
 [[chiplet interconnect]]

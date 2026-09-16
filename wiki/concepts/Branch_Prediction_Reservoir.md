@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[MemristiveReservoirBranchPrediction]]
 [[Memristive_Topology]]
 [[Memristor]]
+[[Memristor_Reservoir_Branch_Prediction]]
 [[Memristor_Synapse]]
 [[Nanoencapsulation_Stability_Bioavailability]]
 [[Network_Topology_Design]]

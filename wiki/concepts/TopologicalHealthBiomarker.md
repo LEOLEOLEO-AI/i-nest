@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligent_Power_Management]]
 [[Medical_Large_Language_Models]]
 [[Memristive_Interconnect]]
+[[Mesoscale_Heterogeneous_Integration]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Spatiotemporal_Synergy]]
 [[Network_Topology_Design]]

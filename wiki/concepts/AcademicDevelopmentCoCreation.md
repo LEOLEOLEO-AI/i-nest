@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Coupling_Strength_Encoding]]
 [[CrystalPalace_Program]]
 [[Crystallized_Embedding_Reservoir]]
+[[Crystallized_Neural_Manifolds]]
 [[DataDrivenMaterialDesign]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]

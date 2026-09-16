@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration_Route]]
 [[ClocklessReconfigurableChip]]
 [[Contested_Prior_Resolution]]
+[[CorticalTravelingWave]]
 [[CorticalWaveRouting]]
 [[EventCameraTemporalEncoding]]
 [[Flexible_Spike_Routing]]
@@ -38,12 +39,14 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SDI_STDP_Rule]]
+[[SDI_iNEST]]
 [[SDI_iNEST_Interconnect]]
 [[STDP_Plasticity]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TemporalBatchSynchronization]]
 [[iNEST]]
+[[iNEST_Interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

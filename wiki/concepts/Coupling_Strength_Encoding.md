@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Roadmap]]
 [[ErrorSuppressedPipeline]]
 [[Free_Energy_Topology_Mapping]]
+[[HigherOrderSimplicialDynamics]]
 [[InNetwork_Learning_Interface]]
 [[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Integration]]

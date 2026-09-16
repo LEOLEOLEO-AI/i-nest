@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Ferroelectric_ComputeInMemory]]
 [[Ferroelectric_Devices]]
 [[In_Memory_Computing]]
+[[Long_Range_Interactions]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[OneDimensionalLongRangeInteractions]]

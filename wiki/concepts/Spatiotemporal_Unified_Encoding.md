@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[EventCameraPoseInput]]
 [[ExtinctionDrivenMetastability]]
 [[Fixed_Term_Project_Structure]]
+[[ImpactFallDetection]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[STDP_Plasticity]]

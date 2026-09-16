@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[DAGGER_Algorithm]]
 [[DisorderInducedLocalization]]
 [[DopamineWakeSignal]]
+[[EdgeIntelligence_Framework]]
 [[Free_Energy_Principle]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

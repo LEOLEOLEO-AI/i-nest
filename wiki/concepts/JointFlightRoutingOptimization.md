@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[CircuitTopologyEncoding]]
 [[CorticalTypeDiversity]]
+[[CriticalLearningRegime]]
 [[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[DelayPropagationDynamics]]

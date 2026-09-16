@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[OptimalControlPolicyLearning]]
+[[Photopolymerization_NoC]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]

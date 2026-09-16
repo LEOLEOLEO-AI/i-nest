@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[InterconnectConstrainedEmergence]]
+[[ManyBodyMobilityEdge]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[涌现]]

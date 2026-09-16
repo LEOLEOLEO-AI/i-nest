@@ -38,6 +38,9 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[PhaseLockedTopologyMapping]]
+[[SDI_Bond]]
+[[SDI_STDP_Fusion]]
+[[SDI_iNEST]]
 [[SDI_iNEST_Interconnect]]
 [[SNN]]
 [[STDP_Integration]]
@@ -53,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[Synchronization_Overhead_Mitigation]]
 [[TemporalCodingForPointClouds]]
 [[iNEST]]
+[[iNEST_Interconnect]]
 [[temporal coding]]
 
 ## Sources

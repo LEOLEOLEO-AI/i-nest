@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Memory_Infrastructure]]
 [[AdiabaticMultimodeBend]]
 [[AdvancedPackagingInterconnect]]
+[[AdvancedPackaging]]
 [[Advanced_Packaging]]
 [[Advanced_Packaging_Route]]
 [[Advanced_Packaging_for_Space]]
@@ -36,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[AttractorConvergenceAnalysis]]
 [[BackscatteringImmunity]]
 [[BisectionBandwidthBound]]
+[[BisectionBandwidthMetric]]
 [[ChannelCountScaling]]
 [[ChipletTopologyAwareness]]
 [[Chiplet]]
@@ -58,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologyAware_Convergence]]
 [[TypeSafeHardwareGeneration]]
+[[advanced packaging]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

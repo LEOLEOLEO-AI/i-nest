@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Boundary_Criticality]]
 [[BrownianCastleInterface]]
 [[BrownianCastleInterfaces]]
+[[BurstTemporalPlasticity]]
 [[CriticalStateDynamics]]
 [[Criticality]]
 [[FormalLinguisticCompetence]]

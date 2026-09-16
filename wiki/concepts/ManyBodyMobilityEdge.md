@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[FirstLevelsSpectralClass]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[InterconnectConstrainedEmergence]]
 [[MobilityEdge]]
 [[Network_Topology_Design]]
 [[TCC]]

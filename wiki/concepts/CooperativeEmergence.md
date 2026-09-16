@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[03 涌现：整体的能力不能还原回个体？ - 得到APP]]
+[[AIRA_NeuralArchSearch]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[BitPrecisionAwareScheduling]]
 [[CognitiveSupportTopology]]
@@ -50,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[STDPDrivenConnectivity]]
 [[STDP_Plasticity]]
 [[SelfOrganization]]
+[[Synaptic_Plasticity]]
 [[TopologicalDynamics]]
 [[analog computation]]
 [[涌现]]

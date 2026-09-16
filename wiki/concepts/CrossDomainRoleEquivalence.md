@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[ProjectiveMeasurementFeedback]]
 [[SDI_Bond]]
 [[SDI_STDP]]
+[[SDI_STDP_Fusion]]
 [[SNN]]
 [[SNN_Spike_Timing_Dependent_Plasticity]]
 [[STDP_Plasticity]]

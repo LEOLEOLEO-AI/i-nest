@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AnalogInMemoryComputing]]
 [[ApproximationFidelityTradeoff]]
 [[Attention_Residuals]]
+[[BackpropagationFreeLearning]]
 [[CST计量仪]]
 [[Collective_Offloading]]
 [[Complex_System_Theory]]
@@ -55,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologicalDataCompression]]
 [[Topology_Centric_Computing]]
+[[advanced packaging]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[LocalLearning_SynapticUpdate]]
 [[NeuromorphicEdgeProcessing]]
 [[NeuromorphicGraphAnomalyDetection]]
+[[NeuromorphicNetworkSecurity]]
 [[Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]

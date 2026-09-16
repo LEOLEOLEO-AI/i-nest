@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[EfficientDeepLearning]]
 [[EmergentIntelligence_Spacetime]]
 [[Heterogeneous_Inference_Division]]
+[[InMateriaComputing]]
 [[Intelligence_Emergence]]
 [[Loihi]]
 [[Network_Topology_Design]]

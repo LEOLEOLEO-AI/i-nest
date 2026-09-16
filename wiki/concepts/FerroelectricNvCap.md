@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Differential_Readout_Scheme]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
+[[ExplainableAutonomy]]
 [[Ferroelectric_Devices]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]

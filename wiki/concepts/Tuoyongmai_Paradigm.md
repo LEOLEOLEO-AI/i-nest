@@ -42,12 +42,15 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Stacking]]
 [[Chiplet_Wafer_Topology]]
 [[Complex_System_Theory]]
+[[ComputationEfficientDeepLearning]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC]]
 [[NoC_Interconnect]]
 [[TCC]]
+[[advanced packaging]]
 [[causal emergence]]
 
 ## Sources

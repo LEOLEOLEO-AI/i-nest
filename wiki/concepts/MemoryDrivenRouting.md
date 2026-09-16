@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[ComputeRelocationOverhead]]
 [[DARPA_ERI]]
 [[DARPA_ERI_2_0_Framework]]
+[[DarkSiliconAwarePowerGating]]
 [[Deep_Thermalisation]]
 [[DifferentiableRasterizationPipeline]]
 [[DistinctReentrantPhases]]

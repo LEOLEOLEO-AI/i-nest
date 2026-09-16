@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_ProjectManager_Model]]
 [[DisturbancePropagationPath]]
 [[ElectronicPhotonicIntegratedCircuit]]
+[[Feedback_Ising_Neural_Networks]]
 [[Heterogeneous_Integration]]
 [[SNN]]
 [[Spiking_Neural_Network]]

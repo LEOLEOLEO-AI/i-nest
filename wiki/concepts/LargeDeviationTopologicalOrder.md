@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Reservoir_Topology]]
 [[Epidemic_Mitigation_Strategy]]
 [[FederatedServiceGraph]]
+[[HierarchicalCrackPatternGeneration]]
 [[Intelligence_Emergence]]
 [[MultiScalePathDivergence]]
 [[Network_Topology_Design]]

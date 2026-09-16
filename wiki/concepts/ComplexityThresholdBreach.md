@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_Theory]]
 [[CST_Theory_Integration]]
 [[ChiralSurfaceFermiProjection]]
+[[CompactAnalogPredictor]]
 [[Complex_System_Theory]]
 [[ConcentricDiscreteOpticalVortices]]
 [[ConvexNonConvexTradeoff]]

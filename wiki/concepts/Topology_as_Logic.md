@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[AttentionLikeHebbianMechanism]]
 [[AttentionMap_DifferenceResidual]]
 [[Attention_ResidualCancellation]]
+[[BNN vs ANN (1)]]
 [[Biological_Circuit_Formalization]]
 [[Biological_Neural_Circuit_Formalization]]
 [[Biomimetic_Ion_Dynamics]]

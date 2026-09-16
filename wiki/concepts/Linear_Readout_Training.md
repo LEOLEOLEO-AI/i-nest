@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_Network_Reservoir_Topology]]
 [[Complex_System_Theory]]
 [[Connectome]]
+[[Connectome_Verification_Protocol]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]

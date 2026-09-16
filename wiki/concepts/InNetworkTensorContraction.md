@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AstrocyteInspiredRepair]]
 [[AvalancheTriggeringMechanism]]
 [[BayesianDomainEvolution]]
+[[BehavioralFeedbackLoop]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[Bio_plausible_Neuromorphic_Disturbance_Observer]]
 [[Bosonic_SPT_Phases]]

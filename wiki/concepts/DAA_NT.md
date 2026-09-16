@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_EW_Neuromorphic_Controller]]
 [[AnytimePointCloudRecognition]]
 [[Bio_plausible_Neuromorphic_Disturbance_Observer]]
+[[BrainBodyResonance]]
 [[Dynamic_Sparse_Activation]]
 [[Neuromorphic_Computing]]
 [[SpikeEncoding]]

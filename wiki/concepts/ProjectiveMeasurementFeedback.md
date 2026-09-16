@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Dendritic_In_Context_Learning]]
 [[Dynamic_Expert_Routing]]
 [[ExplainableEnergyAI]]
+[[GCML_Cognitive_Map]]
 [[In_Context_Learning]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]

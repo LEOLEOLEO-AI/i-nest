@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Conductive_Filament_Switching]]
 [[Crystallized_Neural_Manifolds]]
+[[DistributedInference]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]

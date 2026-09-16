@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Path_Selection]]
 [[ArbitraryWavefunctionConfigurability]]
 [[Beyond_Moore_Pathway]]
+[[Brain_Inspired_Switchless_Architecture]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]

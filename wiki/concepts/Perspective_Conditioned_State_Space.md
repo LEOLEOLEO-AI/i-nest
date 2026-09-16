@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[EpoxyMoldingCompoundFlow]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]
 [[Network_Attached_Memory_Pool]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]

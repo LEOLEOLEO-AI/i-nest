@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[FixedOverheadPenalty]]
 [[FlexibilityThreshold]]
 [[Heterogeneous_Integration]]
+[[In_Network_Neuromorphic_Learning]]
 [[Neuromorphic_Computing]]
 [[OnChipWeightUpdate]]
 [[ParallelMultiCompartmentNeuron]]

@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Evolutionary_Computability]]
 [[Expert_Review_Arbitration]]
 [[Fading_Memory_Property]]
+[[Ferroelectric_Devices]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[MixedLabyrinthFractal]]

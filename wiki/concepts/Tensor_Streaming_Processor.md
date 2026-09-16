@@ -21,15 +21,25 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3DHI_Chiplet_Integration]]
+[[3d]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[AgentReputationLedger]]
+[[Bipartite_Interconnect]]
 [[Bipartite_Interconnect_Design]]
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration]]
 [[Chiplet_Interconnect]]
 [[Chiplet_NoC_Interconnect]]
 [[Chiplet_Stacking]]
 [[Collective_Offloading]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
+[[NoC]]
+[[NoC_Interconnect]]
 [[TCC]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Space_Radiation_Hardening]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[TopologyAdaptiveComputation]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

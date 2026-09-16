@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SDI_STDP_Rule]]
+[[STDPDrivenTemporalBinding]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]
 [[Spiking_Neural_Network]]

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
+[[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
 [[11_SDI节点接口规范与化合键定义_dup]]
 [[3D_Torus_6_Degree]]
 [[3d]]
@@ -50,6 +51,8 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_Interconnect]]
 [[Memristive_STDP]]
 [[Memristive_Topology]]
+[[Memristor]]
+[[Memristor_Synapse]]
 [[Metriplectic_Twin]]
 [[ModularityDepthInteraction]]
 [[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]
@@ -67,6 +70,8 @@ Auto-extracted concept from raw material compilation.
 [[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[TopologicalAndersonChernInsulator]]
 [[VerticalOpticalInterconnect]]
+[[Wafer_Scale_Integration]]
+[[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
 [[complex system]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]

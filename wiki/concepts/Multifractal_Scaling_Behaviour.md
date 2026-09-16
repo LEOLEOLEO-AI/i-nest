@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Fractal_Scaling]]
 [[InNetworkNeuromorphicSimulation]]
 [[InNetworkNeuromorphic]]
+[[In_Network_Neuromorphic]]
 [[Intelligence_Emergence]]
 [[Memristive_STDP]]
 [[Memristor]]
@@ -42,11 +43,13 @@ Auto-extracted concept from raw material compilation.
 [[SDI_STDP_Bond]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
+[[STDP_iNEST_Memristive]]
 [[Spike_Timing_Dependent_Plasticity]]
 [[Spike_timing_dependent_plasticity_learning_rule]]
 [[Spiking_Neural_Network]]
 [[Spiking_neural_network_dynamics]]
 [[Synaptic_Plasticity]]
+[[iNEST]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

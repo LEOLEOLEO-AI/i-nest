@@ -40,6 +40,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[AI人工智能 卷积神经网络（CNN）_w3cschool]]
 [[Active_Inference_Agent]]
 [[Alpha_Coefficient_Phase_Transition_Amplification]]
+[[ArbitraryWavefunctionConfigurability]]
 [[BackpropFree_Learning]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[CST_Metric]]

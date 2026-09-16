@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeBasedInference]]
 [[Spiking_Neural_Network]]
 [[TCC]]
+[[TemporalBatchSynchronization]]
 [[iNEST]]
 [[iNEST_Interconnect]]
 [[iNEST_Neuromorphic_Integration]]

@@ -40,7 +40,9 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[MatrixShapePhaseTransition]]
 [[MeasurementInducedRouting]]
+[[Memristor]]
 [[Memristor_Interconnect]]
+[[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]
 [[SDI_STDP]]
@@ -48,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[StatisticalTopologyControl]]
 [[Synaptic_Plasticity]]
+[[System_Level_Utility_Control]]
 [[TCC]]
 [[Topology_Time_Coupling]]
 

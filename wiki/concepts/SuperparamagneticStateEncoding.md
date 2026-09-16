@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AnalogDomainCompression]]
 [[AstrocyteInspiredRepair]]
 [[AtomicVaporNonlinearity]]
+[[CST_CoordinationMechanism]]
 [[CST计量仪]]
 [[Complex_System_Theory]]
 [[Course_Based_FPGA_Projects]]

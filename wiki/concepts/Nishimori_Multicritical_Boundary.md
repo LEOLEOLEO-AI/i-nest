@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityInNetworkComputing]]
 [[CriticalityOffCriticalityTransition]]
 [[Criticality]]
+[[Criticality_Boundary]]
 [[DiffusionInducedInstability]]
 [[Dimensionality_Modularity_Tradeoff]]
 [[DrivenCriticalityDynamics]]

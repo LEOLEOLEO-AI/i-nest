@@ -33,6 +33,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[AI-ML — 全景导航 (Map of Content)]]
 [[AndersonTransition]]
 [[CST计量仪]]
+[[CausalEmergenceCondition]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Nat_Hum_Behav_用「全拓扑网络」重塑视皮层地图]]

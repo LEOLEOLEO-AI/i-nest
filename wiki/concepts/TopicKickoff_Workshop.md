@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Selective_State_Space]]
 [[Neuron_Synapse_Connectivity_Ratio]]
 [[Nonlinear_Gain]]
+[[Photopolymerization_Printing]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
 [[StrategicConsulting_Project]]

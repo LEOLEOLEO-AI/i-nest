@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC]]
 [[P_Paradigm]]
 [[Photonic_Chiplet_Interconnect]]
+[[ReproducibleReservoirOutput]]
 [[SpatialPatternStorage]]
 [[TCC]]
 [[ThroughSiliconVia_TSV_ThermalPath]]

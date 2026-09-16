@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[InMateriaComputing]]
 [[Intelligence_Emergence]]
 [[Intelligent_Power_Management]]
+[[Koopman_Constants_Of_Motion]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[TCC]]

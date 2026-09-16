@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[EmergentTaskDecomposition]]
 [[Epidemic_Mitigation_Strategy]]
 [[FlexibilityThreshold]]
+[[HierarchicalCrackPatternGeneration]]
 [[Intelligence_Emergence]]
 [[LargeDeviationTopologicalOrder]]
 [[MultiScalePathDivergence]]

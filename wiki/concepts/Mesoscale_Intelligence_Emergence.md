@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[EfficientDeepLearning]]
 [[Independent_EdgeAI_Player_Endgame]]
 [[Intelligence_Emergence]]
+[[Koopman_Constants_Of_Motion]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Neuromorphic_Computing]]
 [[iNEST]]

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
 [[3D_Torus_6_Degree]]
 [[3d]]
+[[AI-ML — 全景导航 (Map of Content)]]
 [[Accessibility_Plasticity]]
 [[Active_Inference_Topology]]
 [[AdiabaticModeEvolution]]
@@ -57,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[ViewDependentAppearance]]
 [[chiplet interconnect]]
 [[iNEST 论文矩阵计划]]
+[[iNEST]]
 [[Γst_Revision]]
 
 ## Sources

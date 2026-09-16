@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_SNN_Inference]]
 [[FlexibleNeuromorphicAccelerator]]
 [[GeometricNeuromorphicFusion]]
+[[IMPLY_ISA]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[LocalInteractionDrivenReconfiguration]]

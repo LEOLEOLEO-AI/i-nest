@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[Controlled_Release_Kinetics]]
 [[Criticality]]
+[[ElasticInferenceScheduling]]
 [[EventDrivenMotionDeblurring]]
 [[ExtinctionDrivenMetastability]]
 [[Fixed_Term_Project_Structure]]

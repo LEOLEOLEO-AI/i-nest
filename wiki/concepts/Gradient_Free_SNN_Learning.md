@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN_to_SNN_Conversion_Error_Amplification]]
 [[ActivityAvalanche]]
 [[AddressRedundancyElimination]]
+[[BiologicalNoiseMimicry]]
 [[CoEvolvedSNNEnsemble]]
 [[CollectiveDynamics]]
 [[ComplexValuedSNN]]
@@ -59,10 +60,12 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[SurrogateGradientTraining]]
+[[Synaptic_Plasticity]]
 [[Teleportation_Assisted_Interconnect]]
 [[VonEconomoNeuron]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

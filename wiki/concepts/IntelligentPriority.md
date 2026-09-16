@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Package_Level_Interconnect]]
 [[SelfOrganization]]
 [[TCC]]
+[[advanced packaging]]
 [[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]

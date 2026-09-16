@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Asymmetric_Interaction_Graph]]
 [[AttractorBasinOrthogonality]]
 [[AxonalGrowthConeStochasticity]]
+[[CertifiedBifurcationDetection]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

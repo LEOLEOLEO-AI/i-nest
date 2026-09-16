@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Decoupling]]
 [[Complex_System_Theory]]
 [[ControlDrivenCriticalFluctuations]]
+[[ControlTheoreticTopology]]
 [[CriticalLearningRegime]]
 [[Critical_Region_Extension]]
 [[Emergent_Order_Deep_Belief_Networks]]

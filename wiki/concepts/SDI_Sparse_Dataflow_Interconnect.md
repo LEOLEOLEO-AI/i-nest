@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_iNEST]]
 [[SDI_iNEST_Interconnect]]
 [[SpikeBasedInference]]
+[[SpikeEventDrivenInference]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 [[iNEST_Interconnect]]

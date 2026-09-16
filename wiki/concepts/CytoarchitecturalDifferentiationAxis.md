@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstTemporalPlasticity]]
 [[EEGSpikeEncoding]]
 [[ErrorAmplificationLimits]]
+[[EventDrivenSynchronization]]
 [[Network_Topology_Design]]
 [[SNN]]
 [[SpikeEncoding]]

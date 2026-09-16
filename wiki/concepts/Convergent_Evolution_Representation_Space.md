@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[CertifiedBifurcationDetection]]
 [[CircadianGateModulation]]
 [[Complex_System_Theory]]
+[[Complexity_Coordination_Layer]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[Emergent_Topological_Alignment]]

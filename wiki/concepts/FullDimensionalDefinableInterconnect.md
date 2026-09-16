@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect_Topology]]
 [[Cryogenic_Syndrome_Compression]]
 [[EulaminateOverrepresentation]]
+[[EventDriven_Interconnect]]
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]

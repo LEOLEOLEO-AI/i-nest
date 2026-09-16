@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Biological_Plausibility_Preservation]]
 [[CST_Spatiotemporal_Complexity]]
 [[CST计量仪]]
+[[CausalIntegrationPhi]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

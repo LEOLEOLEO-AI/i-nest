@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[NestedRepresentation]]
 [[NeuralNetworkSpectralAnalysis]]
+[[NeuromorphicSpikingTopology]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Sensor_Fusion]]
 [[RecursiveSelfReferentialArchitecture]]

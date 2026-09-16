@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration]]
 [[ConsciousIntegration]]
 [[CrossDomain_Integration]]
+[[CrossbarArrayPrecision]]
 [[Electrolyte_Bonding_Engineering]]
 [[EnergyResourceEfficiencyCoOptimization]]
 [[Ferroelectric_ComputeInMemory]]

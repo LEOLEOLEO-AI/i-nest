@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[LatencyGradientDescent]]
 [[LossSpikePhenomenon]]
 [[LowRankPerturbation]]
+[[MembranePotentialModulation]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[ProbabilisticSpikingNeuralNetwork]]

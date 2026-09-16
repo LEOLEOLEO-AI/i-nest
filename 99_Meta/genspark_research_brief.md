@@ -1,11 +1,11 @@
 ---
-title: iNEST+TCC Research Brief - 2026-09-14
-date: 2026-09-14
+title: iNEST+TCC Research Brief - 2026-09-17
+date: 2026-09-17
 type: research-brief
 target: genspark
 ---
 
-# iNEST + TCC Research Brief - 2026-09-14
+# iNEST + TCC Research Brief - 2026-09-17
 
 > For Genspark deep analysis. Contains actionable research context.
 
@@ -33,23 +33,23 @@ target: genspark
 
 ## 4. Inbox Highlights
 
-- [2026-09-13] **第二份PPT：井芯微企业版（融资路演·修订稿v2）** (01_GetNotes)
-- [2026-09-13] **第二份PPT：井芯微企业版（融资路演·佐证增强版v3）** (01_GetNotes)
-- [2026-09-13] **第二份PPT提纲：井芯微电子（24页融资路演版）** (01_GetNotes)
-- [2026-09-13] **海马体时空计算深度解读：序列优先，还是时空先验？** (01_GetNotes)
-- [2026-09-13] **写作论文skill** (01_GetNotes)
-- [2026-09-13] **PhyDNet 深度解析：把物理规律和神经网络拆开用的视频预测模型** (01_GetNotes)
-- [2026-09-13] **Groq TSP 张量流处理器深度解析：把确定性写进硬件的深度学习加速架构** (01_GetNotes)
-- [2026-09-12] **SNN上FPGA：老外已经在干了，你还在用CNN卷算力？** (02_网页剪藏)
+- [2026-09-17] **2026-08-16-2608.09038v1** (03_Genspark)
+- [2026-09-16] **清微智能4096芯片Mesh超节点深度拆解：用对称内存打破万卡集群通信墙** (01_GetNotes)
+- [2026-09-16] **果蝇大脑连接组 MaleCNS v1.0 深度解析：把真实脑神经做成神经网络** (01_GetNotes)
+- [2026-09-16] **晶圆级计算架构深度解析：从技术路线到产业落地** (01_GetNotes)
+- [2026-09-16] **思科2026广域网AI报告解读：Agent时代，网络要从_服务人_变_服务任务_** (01_GetNotes)
+- [2026-09-16] **可重构处理器硬件架构拆解：CGRA为什么和GPU不一样？** (01_GetNotes)
+- [2026-09-16] **OnnxSlim 深度解析：让AI模型部署又快又轻的纯Python优化工具** (01_GetNotes)
+- [2026-09-16] **CGRA深度解析：后摩尔时代的算力架构革命** (01_GetNotes)
 
 ## 5. Knowledge Graph Hotspots
 
-Total notes: 12953
-Graph nodes: 12924 | edges: 258763
+Total notes: 13067
+Graph nodes: 12997 | edges: 269487
 
 Top connected topics:
-- **index** (degree=6006)
-- **backlinks** (degree=5982)
+- **backlinks** (degree=7454)
+- **index** (degree=6039)
 - **00_iNEST_全景知识图谱** (degree=1182)
 - **神经科学、AGI与神经形态计算的融合：统一研究范式与挑战** (degree=395)
 - **TCC_iNEST_成果全景** (degree=291)
@@ -62,4 +62,4 @@ Top connected topics:
 (Run innovation_engine.py to generate)
 
 ---
-*Research brief auto-generated 2026-09-14 08:24*
+*Research brief auto-generated 2026-09-17 07:28*

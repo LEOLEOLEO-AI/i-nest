@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[SpectralSupportAnalysis]]
 [[SpikeTimingDependentUpdate]]
+[[SpikeTimingEncoding]]
 [[SpikeTimingFidelity]]
 [[SpikeTimingGradient]]
 [[Spike_Encoding_of_fMRI]]

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Avoided_Criticality]]
 [[BioPlausibleDisturbanceObserver]]
 [[BulletTrainScheduling]]
+[[Catastrophic_Forgetting_Mitigation]]
 [[CriticalityBasedClassification]]
 [[Criticality]]
 [[CrossEntityPreemptiveWarning]]

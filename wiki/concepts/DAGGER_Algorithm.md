@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[HigherOrderPublicGoodsGame]]
 [[Intelligence_Emergence]]
 [[ManufacturingCloudOrchestration]]
+[[MultiplicativeGainCondition]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]

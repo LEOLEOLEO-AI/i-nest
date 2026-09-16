@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[PhysicalDesign_ReliabilityTradeoff]]
 [[SpikeBasedGradientDescent]]
+[[SpikeBasedNeuralRadianceField]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

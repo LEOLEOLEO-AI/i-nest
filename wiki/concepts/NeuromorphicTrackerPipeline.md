@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Sequence_First_Processing]]
 [[SpikingNeuralTransformer]]
 [[Spiking_Neural_Network]]
+[[SynapticConsolidation]]
 [[iNEST]]
 [[iNEST_Interconnect]]
 

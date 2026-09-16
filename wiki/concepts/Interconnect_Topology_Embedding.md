@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
+[[PhysicalReservoirInterconnect]]
 [[ScalableNeuromorphicTopology]]
 [[Self_Organized_Criticality]]
 [[Spatiotemporal_Synergy]]

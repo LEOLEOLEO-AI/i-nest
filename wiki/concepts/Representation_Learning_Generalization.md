@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[EnsembleCreditAssignment]]
 [[Entangled_Criticality]]
+[[FlexibleManifoldReconfiguration]]
 [[Free_Energy_Topology_Mapping]]
 [[ImmobilizationStabilityMechanism]]
 [[Intelligence_Emergence]]

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[DevelopmentalNeuromorphicAdaptation]]
 [[FPGA_Accelerated_SNN]]
 [[FPGA_Neuromorphic_Acceleration]]
+[[FixedOverheadCost]]
 [[NeuromorphicObserverArchitecture]]
 [[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Acceleration]]

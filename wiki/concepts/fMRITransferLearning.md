@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[National_Innovation_Center_Role]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicHardware]]
+[[NeuromorphicLocomotionPrimitive]]
 [[Neuromorphic_3DHI]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]

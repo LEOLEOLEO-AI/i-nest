@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[DARPA_ProjectManager_Model]]
 [[Deep_Network_Architecture_Invariant]]
+[[Defense_Industrial_Base_Reshaping]]
 [[DynamicProgrammingRecycling]]
 [[Dynamic_Communication_Reconfiguration]]
 [[EulaminateOverrepresentation]]
@@ -58,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[Spatiotemporal_Synergy]]
 [[TCC]]
+[[Wafer_Interconnect]]
 [[branch prediction]]
 
 ## Sources

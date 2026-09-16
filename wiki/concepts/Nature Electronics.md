@@ -49,6 +49,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[MultiplicativeGainMechanism]]
 [[MultiplicativeGain]]
 [[NCL神经计算定律详解]]
+[[NearSensorComputing]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Synaptic_Plasticity]]

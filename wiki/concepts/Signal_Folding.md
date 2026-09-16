@@ -22,10 +22,10 @@ Auto-extracted concept from raw material compilation.
 
 [[3D_TokSIM_Architecture]]
 [[3d]]
-[[Advanced_Packaging]]
 [[BeyondVonNeumannArchitecture]]
 [[CMOS_Memristor_Devices]]
 [[ChargeDomainAttention]]
+[[ChipGPT_UCAgent]]
 [[CrossDomain_Integration]]
 [[DARPA_ProjectManager_Model]]
 [[Electrolyte_Bonding_Engineering]]
@@ -56,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[SpatialPhotonicProgramming]]
 [[StorageCompute_SeparationBottleneck]]
 [[StorageCompute_Separation]]
+[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

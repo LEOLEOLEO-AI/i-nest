@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Inference_Workload_Profiling]]
 [[Interconnect_Routing]]
+[[Logic_Folding]]
 [[Network_on_Chip]]
 [[NoC]]
 [[TCC]]

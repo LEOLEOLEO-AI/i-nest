@@ -30,10 +30,11 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[Course_Based_FPGA_Projects]]
 [[DARPA_Manufacturing_Strategy]]
+[[Emergent_Intelligence_Threshold]]
+[[Intelligence_Emergence]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]
 [[SNN]]
-[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

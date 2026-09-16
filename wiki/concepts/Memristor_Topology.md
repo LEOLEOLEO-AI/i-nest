@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[GenerativeTopologyModels]]
 [[Heterogeneous_Integration]]
 [[HierarchicalNetworkPartitioning]]
+[[Hysteretic_State_Encoding]]
 [[IntegrationProspectsForVLSI]]
 [[Interconnect_Routing]]
 [[Memristor]]

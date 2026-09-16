@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Collective_State_Convergence]]
 [[ConstraintDrivenSelfOrganization]]
 [[CriticalityDrivenStateTransition]]
+[[CriticalityInNetworkComputing]]
 [[CriticalityOffCriticalityTransition]]
 [[Criticality]]
 [[CrossLayer_SignalRouting]]

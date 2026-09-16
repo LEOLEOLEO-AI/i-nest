@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AllParallel_SpikeBased_Computing]]
 [[BioPlausiblePredictiveCoding]]
 [[BurstGatedRouting]]
 [[Continuous_Discrete_Compute_Gap]]
@@ -36,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Topology]]
 [[NonlinearDynamicalSampling]]
 [[Nonlinear_Gain]]
+[[SDI_Bond]]
 [[SDI_Sparse_Dataflow_Interconnect]]
 [[iNEST]]
 

@@ -79,6 +79,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_TCC_Chiplet]]
 [[STDP_Plasticity]]
 [[SingleSourceOfTruthMetric]]
+[[SmallWorldNetworks]]
 [[Spacetime_Coupling_Coefficient]]
 [[SpatiotemporalComplexityIndex]]
 [[Spatiotemporal_Synergy]]

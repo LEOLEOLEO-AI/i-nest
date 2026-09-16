@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AlloyDisorderEngineering]]
 [[AthermalDynamics]]
 [[Baseline_Draft_Status]]
+[[CriticalityInNetworkComputing]]
 [[CriticalityOffCriticalityTransition]]
 [[Criticality]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]

@@ -31,6 +31,8 @@ Auto-extracted concept from raw material compilation.
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_Assisted_Energy_Optimization]]
 [[AdvancedPackagingInterconnect]]
+[[AdvancedPackaging]]
+[[Advanced_Packaging_Based_Integration]]
 [[AdversarialMedicalRobustness]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]

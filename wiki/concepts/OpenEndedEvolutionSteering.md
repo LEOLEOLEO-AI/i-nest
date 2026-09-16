@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeEncoding]]
 [[SpikeInformationDensity]]
 [[Spike_Residual_Connection]]
+[[SpikingMotorControl]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]

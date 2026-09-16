@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalInterfaceBlock]]
 [[FunctionalInterfaceBlocks]]
 [[Heterogeneous_Integration]]
+[[Hysteretic_State_Encoding]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[MachineLearningNanomaterialDiscovery]]

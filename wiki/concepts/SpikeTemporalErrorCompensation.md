@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[JunctionSignalIntegrity]]
 [[Local_Plasticity]]
 [[Local_Plasticity_Rule]]
+[[NonEquilibriumPhase]]
 [[SOC]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]

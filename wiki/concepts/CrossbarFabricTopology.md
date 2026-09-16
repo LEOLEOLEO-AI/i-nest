@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[EnsembleCreditAssignment]]
 [[FlexibleManifoldReconfiguration]]
+[[InNetworkPowerRouting]]
 [[Intelligence_Emergence]]
 [[LLMDrivenPathSelection]]
 [[Network_Topology_Design]]

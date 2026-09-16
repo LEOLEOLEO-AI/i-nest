@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[RobustnessToNoiseInSNN]]
 [[SNN]]
 [[SpikeRoutingFabric]]
+[[SpikeSparsity]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

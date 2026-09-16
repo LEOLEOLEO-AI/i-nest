@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityDrivenStateTransition]]
 [[CriticalityOffCriticalityTransition]]
 [[Criticality]]
+[[DynamicTokenSparsity]]
 [[FatalityDrivenRewiring]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Interconnect_Routing]]
