@@ -1,0 +1,9 @@
+version: 1.0.0
+schema: research-evolve-papers-v1
+works:
+- key: vaswani2017attention
+  title: Attention Is All You Need
+  identifier: arXiv:1706.03762
+  status: verified
+  added: '2026-09-18'
+  source: selftest

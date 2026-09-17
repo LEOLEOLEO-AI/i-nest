@@ -1,0 +1,39 @@
+{
+  "updated": "2026-09-18T00:13:31.478356",
+  "round": 1,
+  "rounds": {
+    "round": 1,
+    "date": "2026-09-18",
+    "at": "2026-09-18T00:13:31.472304",
+    "opened": 138,
+    "closed": 5,
+    "escalated": 56,
+    "open_total": 133,
+    "gate_violations": 0,
+    "note": ""
+  },
+  "stagnation_streak": 0,
+  "gate_new_violations": 0,
+  "gate_known_debt": 942,
+  "gate_fixed_this_round": 0,
+  "gate_total": 942,
+  "freeze_new_concepts": false,
+  "new_source_total": 15,
+  "open_total": 133,
+  "stats": {
+    "total": 138,
+    "by_verdict": {
+      "open": 133,
+      "rejected": 5
+    },
+    "by_kind": {
+      "hypothesis": 10,
+      "evolution_item": 51,
+      "idea": 70,
+      "bridge": 7
+    },
+    "open": 133,
+    "round": 1,
+    "stagnation_streak": 0
+  }
+}

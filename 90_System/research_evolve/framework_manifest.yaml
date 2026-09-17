@@ -1,0 +1,400 @@
+schema: research-evolve-framework-v1
+sealed: '2026-09-18'
+files:
+- path: 60_MOC/00_治理/SSOT_公式与术语裁定_20260826.md
+  sha1: ad09fb72818f73d9f6761369a95032006366c91f
+  bytes: 3738
+- path: 60_MOC/00_治理/00_科研智能体使用手册_20260821.md
+  sha1: 4457ba5e1471fdfbb165f51202c6df9eda5a6bb5
+  bytes: 4058
+- path: 30_TCC/31_Theory/01_论文/1plus1gt2_TCC_Topology_Superlinear_Proof_v1.0.md
+  sha1: a005b2d025c748e1640692c1ef3de77485a21666
+  bytes: 36376
+- path: 30_TCC/31_Theory/01_论文/B组_SDI-CC互连体系/P-Theory_v2_MetaTopology_SDI_Bond_Draft.md
+  sha1: 758f570e154c018d98a741d5a9a007174a985c6e
+  bytes: 25226
+- path: 30_TCC/31_Theory/01_论文/evidence_industrial_data.md
+  sha1: 9a45024db760418d6cec454f7e45b8cc24cab3bc
+  bytes: 22080
+- path: 30_TCC/31_Theory/01_论文/proof_framework_core.md
+  sha1: 9e6978f199bbd9a92d16cea9783f0ca047bc3163
+  bytes: 2015
+- path: 30_TCC/31_Theory/16 介观峰值定理对晶上大脑的工程指导.md
+  sha1: c11c9b0a2e2381d792a7da06e41b49244c70f873
+  bytes: 19144
+- path: 30_TCC/31_Theory/1M1T1R_spiking_neuron_nature_electronics.md
+  sha1: 18a55d6c275cb2898150b522c55c838a42502d8a
+  bytes: 5152
+- path: 30_TCC/31_Theory/2025-06-25_AI梦境与意识涌现.md
+  sha1: d0e2210cfa7e4bb77998a471959c3e8004da5375
+  bytes: 17784
+- path: 30_TCC/31_Theory/2025-06-25_意识最小单位之谜.md
+  sha1: d00c83f9f9e4913575daa0ed036a8bcb8de2626d
+  bytes: 17498
+- path: 30_TCC/31_Theory/2025-07-24_液态神经网络与时空复杂性.md
+  sha1: a0830113bb1a00a30216447559d9c5980cf1defe
+  bytes: 14776
+- path: 30_TCC/31_Theory/2025-08-23_忆阻器网络.md
+  sha1: 3a38ec5246386b2cea79bc8c2065145edebfa954
+  bytes: 13995
+- path: 30_TCC/31_Theory/2025-09-10_ResNEST论文修订.md
+  sha1: c38a83b08040d29a0b40ed5fca3050f1b98d32fe
+  bytes: 22970
+- path: 30_TCC/31_Theory/2025-09-12_晶上大脑基础研究课题.md
+  sha1: 763094725b0f15bf8421e8d62d6928bfc8f86708
+  bytes: 11635
+- path: 30_TCC/31_Theory/2025-10-17_能量函数驱动神经网络设计.md
+  sha1: 5528beac51d76b881cca9b2c7d7096fbab09c0d2
+  bytes: 9816
+- path: 30_TCC/31_Theory/2025-10-25_自由能优化感知行动.md
+  sha1: a906e93f7e10ac20c83a79d13c2305a2c19068f7
+  bytes: 7611
+- path: 30_TCC/31_Theory/2025-11-16_iNEST开发流程.md
+  sha1: 6d67f1964e2c3d49834990165a1836dfbbdbf5f1
+  bytes: 6503
+- path: 30_TCC/31_Theory/2025-12-17_3D异构集成_3DHI_技术深度研究_机遇_挑战与未来路径.md
+  sha1: edeee29ffa7ec54110bfb2ba4d3e9ab5e9a63d40
+  bytes: 6209
+- path: 30_TCC/31_Theory/2026 年 6 月 8 号 .md
+  sha1: 4d4e931e0adb01533a5736deb706206ec131215a
+  bytes: 2671
+- path: 30_TCC/31_Theory/2026-01-03_16 介观峰值定理对晶上大脑的工程指导.md
+  sha1: a83c985316a352c7746ca37246b3d24dcf1f01e5
+  bytes: 17380
+- path: 30_TCC/31_Theory/2026-01-12_低功耗智能新范式.md
+  sha1: 091a277bf916cf98c51da6eaa805589131ccac71
+  bytes: 8396
+- path: 30_TCC/31_Theory/2026-01-12_基于SDI的物理Synapse与NN.md
+  sha1: 181ef46ff1e6daffd43773f43eefc79086856b2c
+  bytes: 3425
+- path: 30_TCC/31_Theory/2026-01-12_数字孪生大脑工程化路径.md
+  sha1: ae00e1c4cf6e509e6e72028927f2fdf9ac68d4c7
+  bytes: 7551
+- path: 30_TCC/31_Theory/2026-01-12_晶圆级神经网络能效革命.md
+  sha1: 9d66ad2fbb353ec5ead3309221a280d97a15b6fa
+  bytes: 9771
+- path: 30_TCC/31_Theory/2026-01-12_神经网络时空协同智能涌现.md
+  sha1: fcbb29a1a4a467df7c095d481334421f59918bb4
+  bytes: 7239
+- path: 30_TCC/31_Theory/2026-01-23_iNEST研究路线及方案.md
+  sha1: dd04ffbf578a80123c32f333489125d0967fc060
+  bytes: 26371
+- path: 30_TCC/31_Theory/2026-01-25_吴华强团队与iNEST技术互补.md
+  sha1: d23ff5098b51a20dd8f547a2c61b83d3b23a0b00
+  bytes: 5761
+- path: 30_TCC/31_Theory/2026-01-25_清华团队类脑计算突破.md
+  sha1: 61ab9fa7ada12b1fd97a78a5ae8b50d33860e104
+  bytes: 4798
+- path: 30_TCC/31_Theory/2026-02-20_基于SDI_软件定义晶上系统_化合键作用的可塑性网络构建及ARC-AGI流体智能基础探索.md
+  sha1: 5457c118f7dfad36144131c3f472e41bd3a86c78
+  bytes: 13230
+- path: 30_TCC/31_Theory/2026-02-20_神经突触和神经元二合一物理神经网络构建.md
+  sha1: 5fa40ec91b0e916ea216ea00dc509d5dea2aa632
+  bytes: 18066
+- path: 30_TCC/31_Theory/2026-02-22_晶上自演化复杂网络的基础理论_关键技术与应用验证_项目群_.md
+  sha1: e9f26360521cd61c68e516e265c56352d643257d
+  bytes: 32855
+- path: 30_TCC/31_Theory/2026-03-13_晶圆级SDI互联架构与最优扇出高维拓扑_面向大模型的网内计算设计.md
+  sha1: dad4f1b118b347d8156bf7e9f8b8b20e2c104d82
+  bytes: 11352
+- path: 30_TCC/31_Theory/2026-04-07_从冯诺依曼到网络中心_计算范式迁移的第一性原理综述.md
+  sha1: ae0a4f943df3649fed1bcb239050f112638b12af
+  bytes: 61607
+- path: 30_TCC/31_Theory/2026-04-20_海河实验室晶上先导项目检查.md
+  sha1: 1c1664d51d48d7091f5427d753db33036aa3307c
+  bytes: 30737
+- path: 30_TCC/31_Theory/2026-04-20_路由即变换_分布式系统中通信与计算的结构同构性.md
+  sha1: 81a3a6a35d222e89002b6c81a1ef28f0f9233c70
+  bytes: 16544
+- path: 30_TCC/31_Theory/2026-04-24_类脑动态可塑物理网络颠覆性研究 体系布局.md
+  sha1: 225a2c7d78bb022e7e1e3b0a63751960c9407207
+  bytes: 73077
+- path: 30_TCC/31_Theory/2026-04-30_AI集群网络隐藏瓶颈深度分析_PCIe Lane对NIC性能的决定性影响.md
+  sha1: 306c088b5323f48ca00ee7a057f1714959a5cab8
+  bytes: 5170
+- path: 30_TCC/31_Theory/2026-06-02_iNEST落地计划探讨.md
+  sha1: 99fd98b66bcac2b92e2cdfe2675262b4020db273
+  bytes: 12421
+- path: 30_TCC/31_Theory/2026-06-05_NEST 智能涌现研究进展与工程落地全景.md
+  sha1: 2ed5e95848f40cfff42729c32cfcb401cebceca9
+  bytes: 9839
+- path: 30_TCC/31_Theory/2026-06-15_AI算力网络深度解析_同步通信架构与性能优化.md
+  sha1: e88b7977e977a2de2c01b47783e1eb47a32ced52
+  bytes: 6233
+- path: 30_TCC/31_Theory/2026-06-15_工程技术系统发展路线与分类.md
+  sha1: d4f6faa9e11e1394350cf02f060593fea5dee632
+  bytes: 2335
+- path: 30_TCC/31_Theory/2026-06-15_能量函数驱动神经网络设计.md
+  sha1: 6d4606e4a4f9e449e7ef4f8d0d5548d9892eb9c4
+  bytes: 10943
+- path: 30_TCC/31_Theory/2026-06-15_通过复杂网络连接计算_存储等资源_在系统层面追求1_1_2的系统最优_如何设计这个复杂网络及评价指标.md
+  sha1: 7a40a85c83cc47dd1b7fe584708fef98311d1a70
+  bytes: 5198
+- path: 30_TCC/31_Theory/2026-06-20_iNEST_S2_Ferroelectric Tunnel Junction Memristor
+    Crossbar Array with .md
+  sha1: 371d398e245b05ef23f7c69ff1962c1184497311
+  bytes: 1912
+- path: 30_TCC/31_Theory/2026-06-20_TCC_arXiv_Incorporating physical source parameters
+    into microlensing m.md
+  sha1: be7a9d7b2b0feee5b10cbfcaa2515a9ad4ab204a
+  bytes: 1360
+- path: 30_TCC/31_Theory/2026-06-20_TCC_arXiv_JanusMesh Fast and Zero-Shot 3D Visual
+    Illusion Generation v.md
+  sha1: 928fef4f69f4d2073772275b8a3d17e5eae5aa58
+  bytes: 1513
+- path: 30_TCC/31_Theory/2026-06-20_TCC_arXiv_Observation of electroweak production
+    of pairs of Z bosons i.md
+  sha1: b68b23bcc219f70a629cbbb9db4d0b27ca4e043d
+  bytes: 1397
+- path: 30_TCC/31_Theory/2026-06-20_TCC_arXiv_Thinking in Boxes 3D Editing in Real
+    Images Made Easy.md
+  sha1: a7f209e818ffa304f3486835c4bd79ca859304db
+  bytes: 1349
+- path: 30_TCC/31_Theory/2026-06-21_2026-06-21_复杂系统涌现的统一理论_三元生成内核与惯性制动的动力学框架.md
+  sha1: 5e0544eab446a03b53af8e65d70f8e59e002d673
+  bytes: 10943
+- path: 30_TCC/31_Theory/2026-06-21_iNEST三元映射框架.md
+  sha1: ae9a17ee9ddb74edfdd97ae00d1ac91631d39230
+  bytes: 13801
+- path: 30_TCC/31_Theory/2026-06-21_TCC_S2_Fast Routing Algorithm for Mask Stitching
+    Region of Ultra La.md
+  sha1: e76a3ac208ecc699f56911ce8e49d3f66e3a7074
+  bytes: 1820
+- path: 30_TCC/31_Theory/2026-06-21_TCC_S2_Scale-robust Low Resistance Transport in
+    Atomic Layer Deposi.md
+  sha1: 9b800d47047cbea16dbf7798830b28c07c2f4f60
+  bytes: 1887
+- path: 30_TCC/31_Theory/2026-06-22_TCC_arXiv_How Transparent is DiffusionGemma.md
+  sha1: 2ee305c4d5334a581756aa84e6a869acc07022d3
+  bytes: 1661
+- path: 30_TCC/31_Theory/2026-06-22_TCC_arXiv_JanusMesh Fast and Zero-Shot 3D Visual
+    Illusion Generation v.md
+  sha1: 31d7a347f3e516383f52b653ccfea88cd9d1b420
+  bytes: 1767
+- path: 30_TCC/31_Theory/2026-06-22_TCC_arXiv_Optimal Deterministic Multicalibration
+    and Omniprediction.md
+  sha1: 580fe87da52c1f851df712eec3f20ef49b0b0f0f
+  bytes: 1331
+- path: 30_TCC/31_Theory/2026-06-22_TCC_S2_Advanced Chiplet Placement and Routing
+    Optimization Consider.md
+  sha1: 35d75d58655471b7a52f0c2aba162079f143952c
+  bytes: 2269
+- path: 30_TCC/31_Theory/2026-06-22_TCC_S2_Fast Routing Algorithm for Mask Stitching
+    Region of Ultra La.md
+  sha1: c77232e6b2186ff0e7af8fc54627a3a00eea9a71
+  bytes: 2221
+- path: 30_TCC/31_Theory/2026-06-22_TCC_S2_MEIN A Multicast-Efficient Interconnect
+    Network for Multi-Ch.md
+  sha1: 8424267ca00aa68687781769c684732022977f0d
+  bytes: 2177
+- path: 30_TCC/31_Theory/2026-06-22_TCC_S2_Scale-robust Low Resistance Transport in
+    Atomic Layer Deposi.md
+  sha1: 948873219cc3b11da4bb7d8dbd52a0cb08662e09
+  bytes: 2177
+- path: 30_TCC/31_Theory/2026-06-23_S2_A Deep Reinforcement Learning Approach for
+    Network-on-Chip L.md
+  sha1: af173ace011b774700961170f4d78f321320e3a5
+  bytes: 2432
+- path: 30_TCC/31_Theory/2026-06-23_S2_Advanced Chiplet Placement and Routing Optimization
+    Consider.md
+  sha1: f5a44c7962cde99ff755bf6521e620d56e813f85
+  bytes: 2665
+- path: 30_TCC/31_Theory/2026-06-23_S2_AI Enabled Lead-free Halide Perovskite Memristor
+    Crossbars A.md
+  sha1: 5f9f9044c12444ae9582399d10fbb543637b536d
+  bytes: 1971
+- path: 40_iNEST/41_Theory/01_论文/2026-07-15-2412.04847.md
+  sha1: 4e283a2a698c7ef9b992e8590b79658c31966c26
+  bytes: 4539
+- path: 40_iNEST/41_Theory/01_论文/2026-07-15-2506.21324.md
+  sha1: 472e9756806f31f585f1c317882bb3e5d8db8da3
+  bytes: 4564
+- path: 40_iNEST/41_Theory/01_论文/2026-07-15-2603.24171.md
+  sha1: 6f3c8d8d9a2ea2279515b25907cca416a8738ea9
+  bytes: 1761
+- path: 40_iNEST/41_Theory/01_论文/2026-07-15-2607.11914.md
+  sha1: 3761ebdf2530d72ba58c06748d9dd15f8368129d
+  bytes: 1826
+- path: 40_iNEST/41_Theory/01_论文/2026-07-15-2607.12619.md
+  sha1: 27813cf8aa90f7a7b3a6827b88300e0ef237ad1e
+  bytes: 2618
+- path: 40_iNEST/41_Theory/01_论文/2026-07-15-2607.12862.md
+  sha1: d438754d916ae201125610e56c8ea12f573e1907
+  bytes: 4617
+- path: 40_iNEST/41_Theory/01_论文/2026-07-15-2607.12901.md
+  sha1: 3ee31d38ed668098d0d1c531bcd800a4bb1c6ddd
+  bytes: 4179
+- path: 40_iNEST/41_Theory/01_论文/2026-07-15-index.md
+  sha1: a0d29cd4b147368b7204f6be36001104a913ce32
+  bytes: 1069
+- path: 40_iNEST/41_Theory/01_论文/arxiv-daily/2026-07-02.md
+  sha1: 7b0d00f74c5c930d0a3f03bd65119275d6f87a79
+  bytes: 3529
+- path: 40_iNEST/41_Theory/03_Inbox_文献与碎片/Get笔记同步/2026-05/2026-05-03_待办_SyncBrain：基于神经振荡同步的物理知情深度学习模型——重新定义脑功能解码范式.md
+  sha1: 425395eff879768c62baf600fc986785a0cf3db0
+  bytes: 7040
+- path: 40_iNEST/41_Theory/03_Inbox_文献与碎片/iNEST配图.md
+  sha1: 53c9a1b21fb8e61d8e465d3fc9ceb435b41d50ca
+  bytes: 1748
+- path: 40_iNEST/41_Theory/03_Inbox_文献与碎片/NeuralComputers_CNC_iNEST深度分析.md
+  sha1: 58b7b771014d8addea1dfaeff124950693600190
+  bytes: 5328
+- path: 40_iNEST/41_Theory/03_Inbox_文献与碎片/预测编码_脑启发学习框架_与iNEST关联分析.md
+  sha1: 659bed54925b90543bf6c5acf70a0cf6afa7e132
+  bytes: 4228
+- path: 40_iNEST/41_Theory/03_涌现：整体的能力不能还原回个体？_-_得到APP.md
+  sha1: 56928208dda7a5a71cd90c8b999e1423bd0c7ab3
+  bytes: 33913
+- path: 40_iNEST/41_Theory/04_混沌与非线性：规则已知，却不可预测？_-_得到APP.md
+  sha1: de21fd3edfee2431a3bc1a063b7d6723bf67c1c4
+  bytes: 40724
+- path: 40_iNEST/41_Theory/06_因果倒置：个体是怎样被整体操控的？_-_得到APP.md
+  sha1: 7fb4c467090a32a59a517a3fd7b615f8a5ade1b1
+  bytes: 31400
+- path: 40_iNEST/41_Theory/07_标度对称性：尺度任意缩放，特征保持不变？_-_得到APP.md
+  sha1: 687d7cf4c478e316d5568b1a7ba71ed1cd042c37
+  bytes: 32585
+- path: 40_iNEST/41_Theory/07_核心定义_超非线性增益与智能视角.md
+  sha1: 403cce9363e28c69f5b80e15de95020124c4f4f7
+  bytes: 7923
+- path: 40_iNEST/41_Theory/08_NCL神经计算定律详解.md
+  sha1: 7541a945f56964dbef8528dab82e3ef5634f8117
+  bytes: 1942
+- path: 40_iNEST/41_Theory/08_SDI化合物键_四型架构.md
+  sha1: 0e512e582affa9a00cfb4c5cc2f9dd203c3dffda
+  bytes: 1763
+- path: 40_iNEST/41_Theory/08_STDP-FEP梯度下降统一映射.md
+  sha1: 1fd0be0b6557660512c4fe6999057b8442169aa3
+  bytes: 2430
+- path: 40_iNEST/41_Theory/08_关键指标参考手册.md
+  sha1: 4e2985b4e40a001ae0c677fdc8d833126a1004f2
+  bytes: 3257
+- path: 40_iNEST/41_Theory/08_技术路线宣言.md
+  sha1: 8fc1fdf5e8d4cfd7cee6f2d42d7308b47e0bf46a
+  bytes: 9566
+- path: 40_iNEST/41_Theory/09_战略报告提纲_决策层.md
+  sha1: 3f9da34e9e06bf6b4bd7a3e485eecb6fb1742823
+  bytes: 11995
+- path: 40_iNEST/41_Theory/09_战略报告提纲_决策层_v2.md
+  sha1: d1b0e3e23a0d2b8633fdcf008c63e4b88dd45468
+  bytes: 11995
+- path: 40_iNEST/41_Theory/10_克莱伯定律：摄入能量维持生命的准则_-_得到APP.md
+  sha1: 627f34b7035596d02d87b10d403ff9db7eaf9468
+  bytes: 37182
+- path: 40_iNEST/41_Theory/2024年诺奖解读：统计物理、人工智能与复杂科学.md
+  sha1: 12e15c6802c45058212f5f67a6a2596cd7818d1e
+  bytes: 66207
+- path: 40_iNEST/41_Theory/2025年10月29号 .md
+  sha1: 6636ef843aa286f604abb9a1d692d7ddc7f18023
+  bytes: 1158
+- path: 40_iNEST/41_Theory/2025年《Nature Physics》重磅论文解析：高阶拓扑动力学重构复杂系统研究范式.md
+  sha1: 6b258648e183bb75cf7f2267913c82922d1b793f
+  bytes: 6241
+- path: 40_iNEST/41_Theory/2026-05-03_待办_液态神经网络：MIT CSAIL的_流体智能_革命——从2万参数无人机导航看AI范式转移.md
+  sha1: a445a1bff3752668ffca7de909538a5400f98200
+  bytes: 7134
+- path: 40_iNEST/41_Theory/2026-05-30_Concurrent scale-free and small-world networks
+    support criticality in cortical ensembles.md
+  sha1: 89472b82f11a5a80cb75fb55fd226cde3ba7df9e
+  bytes: 1529
+- path: 40_iNEST/41_Theory/2026-05-30_The Structure and Function of Complex Networks.md
+  sha1: 113e27f69dfe91319a9ea0e64c9650c9816199e8
+  bytes: 1422
+- path: 40_iNEST/41_Theory/2026-06-03 iNEST Daily Crawl.md
+  sha1: 6c3615a6fb2ab896a0fc0aa1fa7fa83bf9c58b84
+  bytes: 944
+- path: 40_iNEST/41_Theory/2026-06-06 iNEST Daily Crawl.md
+  sha1: ef57db01e642f9f0c34a77dbc063fb81dc3fcc67
+  bytes: 5885
+- path: 40_iNEST/41_Theory/2026-06-07 iNEST Daily Crawl.md
+  sha1: bfa3f7ac651f9afa179422b341a3cb2ff1c2fcd6
+  bytes: 5797
+- path: 40_iNEST/41_Theory/2026-06-08 iNEST Daily Crawl.md
+  sha1: bfc1d9b78b9202225c1632ca78b26a15c2c86cb3
+  bytes: 6117
+- path: 40_iNEST/41_Theory/2026-06-09 iNEST Daily Crawl.md
+  sha1: 08498c7452b36740f800b70db3eaa71f86f5663a
+  bytes: 4635
+- path: 40_iNEST/41_Theory/2026-06-10 iNEST Daily Crawl.md
+  sha1: af13a2e1d8b47d68e218c86c21389e47f5d47620
+  bytes: 6123
+- path: 40_iNEST/41_Theory/2026-06-11 iNEST Daily Crawl.md
+  sha1: c8ac0df553daa3c675883695114a2724a3e60869
+  bytes: 6549
+- path: 40_iNEST/41_Theory/2026-06-18 iNEST Daily Crawl.md
+  sha1: bca43501aee21698ce51c04e02ae334d5d195d86
+  bytes: 3605
+- path: 40_iNEST/41_Theory/2026-06-19 iNEST Daily Crawl.md
+  sha1: a4d7ca049f0fe0de6866269b8196af4ce0bbfa92
+  bytes: 6881
+- path: 40_iNEST/41_Theory/2026-06-20 iNEST Daily Crawl.md
+  sha1: e5a80aa49cd8d2d799b6a68e5abc1c5c03f9de73
+  bytes: 4580
+- path: 40_iNEST/41_Theory/2026-06-20_iNEST_arXiv_MemoryWAM Efficient World Action
+    Modeling with Persistent Me.md
+  sha1: 34672e109adca7b9670933ffddf28c6404b6ce46
+  bytes: 903
+- path: 40_iNEST/41_Theory/2026-06-20_iNEST_S2_Constructive community race full-density
+    spiking neural netw.md
+  sha1: 6aa3c4d7ef7287cc45f0e2fa50ac4ca4ebcc3d8d
+  bytes: 1423
+- path: 40_iNEST/41_Theory/2026-06-20_iNEST_S2_FerroelectricAntiferroelectric HfZrOx
+    Artificial SynapsesNeu.md
+  sha1: baa345e25dfb0ec50cb3608bb0033849494658e5
+  bytes: 1422
+- path: 40_iNEST/41_Theory/2026-06-20_iNEST_S2_Neuromorphic computing spiking neural
+    network edge detection.md
+  sha1: 4cb574b49bbfb7a6bec4b605d746a0eda04165c6
+  bytes: 1353
+- path: 40_iNEST/41_Theory/2026-06-20_TCC_S2_Deep Variational Free Energy Calculation
+    of Hydrogen Hugonio.md
+  sha1: c8b5f6a5fb7e17d67aa6590f40f1d13a4ef7fb23
+  bytes: 1514
+- path: 40_iNEST/41_Theory/2026-06-20_TCC_S2_Expected Free Energy-based Planning as
+    Variational Inference.md
+  sha1: c13f10282e7110be7dde04ec46075fe7fcecbf18
+  bytes: 1530
+- path: 40_iNEST/41_Theory/2026-06-20_TCC_S2_Protein engineering using variational
+    free energy approximat.md
+  sha1: 52677d97776c5faa1cb2ac5dd9d988b944c1e14b
+  bytes: 1484
+- path: 40_iNEST/41_Theory/2026-06-20_大脑如何在有限成本下实现高效计算？.md
+  sha1: 0f0467cd1596174c7cf9d2cc540509d5c03bf210
+  bytes: 12878
+- path: 40_iNEST/41_Theory/2026-06-21 iNEST Daily Crawl.md
+  sha1: e53990a44938e616aefb6ac012ae4b92a4bb1632
+  bytes: 6856
+- path: 40_iNEST/41_Theory/2026-06-22 iNEST Daily Crawl.md
+  sha1: 4316a5e97ac31b0bbe567d0fbf28d09f2b2795fb
+  bytes: 2786
+- path: 40_iNEST/41_Theory/2026-06-23 iNEST Daily Crawl.md
+  sha1: caaa24a27c891b6586bac43dc482ac10541155ab
+  bytes: 6553
+- path: 40_iNEST/41_Theory/2026-06-23_S2_A Novel Approach for Solving the Time-Varying
+    Complex-Valued.md
+  sha1: f3ca1a49f36ab3b94b8b6aba1b508ab292e3b22b
+  bytes: 1495
+- path: 40_iNEST/41_Theory/2026-06-23_S2_Constructive community race full-density
+    spiking neural netw.md
+  sha1: a315894b7882611776fcfba20ae3a8fa1c7ece5d
+  bytes: 2059
+- path: 40_iNEST/41_Theory/2026-06-23_S2_Deep Variational Free Energy Calculation
+    of Hydrogen Hugonio.md
+  sha1: 3331ec5a4cb9c27cedeaf8caa097e45a5637ea2d
+  bytes: 2137
+- path: 40_iNEST/41_Theory/2026-06-23_S2_Emergence and Causality in Complex Systems
+    A Survey of Causa.md
+  sha1: 5f398d66ac26c1f31f6733e934bc18eb7b4acc33
+  bytes: 2260
+- path: 40_iNEST/41_Theory/2026-06-23_S2_Expected Free Energy-based Planning as Variational
+    Inference.md
+  sha1: d53f0a1c04bcff7660fe65d7cd516f32a050d83d
+  bytes: 2183
+- path: 40_iNEST/41_Theory/2026-06-23_S2_FerroelectricAntiferroelectric HfZrOx Artificial
+    SynapsesNeu.md
+  sha1: 4e3e319a67655ab10c09e183505409afa49f0259
+  bytes: 2323
+- path: 40_iNEST/41_Theory/2026-06-23_S2_Network structure influences self-organized
+    criticality in n.md
+  sha1: 9a3abf5fa9b11073f81bd961e24db9904d6b65cf
+  bytes: 2282

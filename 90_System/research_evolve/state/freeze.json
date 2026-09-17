@@ -1,0 +1,12 @@
+{
+  "evaluated": "2026-09-18T00:13:31.471304",
+  "new_source_total": 15,
+  "new_source_counts": {
+    "00_Inbox": 15,
+    "20_Processing": 0,
+    "raw": 0
+  },
+  "window_days": 2,
+  "freeze_new_concepts": false,
+  "reason": "有新来源 15 篇，允许增量编译"
+}
