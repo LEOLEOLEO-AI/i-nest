@@ -38,6 +38,7 @@ from .common import (
     RunLog,
     append_run_log,
     days_between,
+    dedup_key,
     load_config,
     read_text,
     today,
@@ -155,9 +156,18 @@ def run_round(log) -> dict:
     reg.next_round()
     log(f"=== 第 {reg.round} 轮开始 ===")
 
-    # 1) 收集
+    # 1) 收集（先按"种类+规范化标题"在**本批内**去重，保证计数自洽）
     raw = collect(log)
-    log(f"候选合计: {len(raw)} 条")
+    seen_keys: dict[str, dict] = {}
+    batch_dups = 0
+    for c in raw:
+        k = dedup_key(c["kind"], c["title"])
+        if k in seen_keys:
+            batch_dups += 1
+            continue
+        seen_keys[k] = c
+    raw = list(seen_keys.values())
+    log(f"候选合计: {len(raw)} 条（批内重复已并 {batch_dups} 条）")
 
     # 2) 去重记账
     new_n = recur_n = closed_seen_n = 0
