@@ -130,3 +130,7 @@ wiki/_merged/
 
 # self_evolve 单例锁 (运行时文件, 不入库)
 state/self_evolve.lock
+90_System/state/HEALTH_ALERT.md
+
+# research_evolve 单例锁 (运行时文件, 不入库)
+90_System/research_evolve/state/evolve.lock

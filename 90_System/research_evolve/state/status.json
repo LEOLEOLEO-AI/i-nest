@@ -1,22 +1,22 @@
 {
-  "updated": "2026-09-18T00:16:52.601754",
-  "round": 4,
+  "updated": "2026-09-18T00:17:55.729860",
+  "round": 5,
   "rounds": {
-    "round": 4,
+    "round": 5,
     "date": "2026-09-18",
-    "at": "2026-09-18T00:16:52.595346",
+    "at": "2026-09-18T00:17:55.723859",
     "opened": 0,
     "closed": 0,
     "escalated": 55,
     "open_total": 78,
-    "gate_violations": 9,
+    "gate_violations": 8,
     "note": ""
   },
   "stagnation_streak": 0,
-  "gate_new_violations": 9,
-  "gate_known_debt": 942,
+  "gate_new_violations": 8,
+  "gate_known_debt": 947,
   "gate_fixed_this_round": 0,
-  "gate_total": 951,
+  "gate_total": 955,
   "freeze_new_concepts": false,
   "new_source_total": 15,
   "open_total": 78,
@@ -35,7 +35,7 @@
       "bridge": 7
     },
     "open": 78,
-    "round": 4,
+    "round": 5,
     "stagnation_streak": 0
   }
 }

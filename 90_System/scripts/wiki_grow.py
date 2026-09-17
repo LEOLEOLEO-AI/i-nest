@@ -492,6 +492,39 @@ def main():
             bl += f"## [[{target}]]\nReferenced by: " + ", ".join(f"[[{s}]]" for s in srcs) + "\n\n"
     (WIKI / "backlinks.md").write_text(bl, encoding='utf-8')
 
+    # ---- Step 4b: 真实图指标 (2026-09-18 修正伪造指标) ----
+    # 旧实现: "Knowledge Graph Density": 'Low' if len(concept_names) < 50
+    #         else 'Medium' if len(concept_names) < 200 else 'High'
+    #   —— 它测的是"概念**数量**"，不是图的密度。库里 6123 个概念时永远返回
+    #      "High"，哪怕其中 30% 是没有任何链接的孤儿。这属于伪造指标，
+    #      违反 AGENTS.md 0.1「禁止杜撰数字」。
+    # 新实现: 有向图密度 = 指向概念的边数 / (N*(N-1))，口径写进报告供复核。
+    n_concepts = len(concept_names)
+    edges_in = sum(len(incoming.get(n, ())) for n in concept_names)
+    max_edges = n_concepts * (n_concepts - 1)
+    density = (edges_in / max_edges) if max_edges > 0 else 0.0
+    linked_n = n_concepts - len(orphans)
+    orphan_ratio = (len(orphans) / n_concepts) if n_concepts else 0.0
+    linked_ratio = (linked_n / n_concepts) if n_concepts else 0.0
+    if density >= 0.05:
+        band = "密"
+    elif density >= 0.01:
+        band = "中"
+    elif density >= 0.001:
+        band = "稀疏"
+    else:
+        band = "极稀疏"
+
+    # 冻结守卫状态 (由 90_System/research_evolve/state/freeze.json 维护)
+    freeze_note = "(未接入)"
+    try:
+        _fz = json.loads((VAULT / "90_System" / "research_evolve" / "state"
+                          / "freeze.json").read_text(encoding="utf-8"))
+        freeze_note = ("**冻结新增概念**" if _fz.get("freeze_new_concepts")
+                       else "允许增量编译") + f" — {_fz.get('reason','')}"
+    except Exception:
+        pass
+
     # health.md
     health = f"""# Knowledge Health Report
 
@@ -499,10 +532,15 @@ def main():
 **Last Grow**: {TODAY}
 
 ## Stats
-- **Total Concepts**: {len(concept_names)}
+- **Total Concepts**: {n_concepts}
 - **Total Articles**: {len(list(ART.glob('*.md')))}
 - **Orphan Concepts**: {len(orphans)}
-- **Knowledge Graph Density**: {'Low' if len(concept_names) < 50 else 'Medium' if len(concept_names) < 200 else 'High'}
+- **Graph Density (directed)**: {density:.6f} ({band})
+  - 口径: 指向概念的边数 {edges_in} / N×(N-1) = {max_edges}
+  - 有链接概念占比: {linked_ratio*100:.1f}%  ·  孤儿占比: {orphan_ratio*100:.1f}%
+
+## 冻结守卫
+- {freeze_note}
 
 ## Orphan Concepts (no incoming links)
 """

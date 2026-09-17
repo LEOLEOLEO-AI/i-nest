@@ -58,7 +58,9 @@ CITE_PATTERNS = [
 # 裸 @key2019 形式：要求含 4 位年份，避免命中邮箱/句柄
 ATKEY_RE = re.compile(r"(?<![A-Za-z0-9_.@])@([A-Za-z][A-Za-z\-]{1,20}\d{4}[a-z]?)\b")
 ARXIV_RE = re.compile(r"arXiv[:\s]*(\d{4}\.\d{4,5})(v\d+)?", re.I)
-DOI_RE = re.compile(r"(?:doi[:\s]*|doi\.org/)(10\.\d{4,9}/[^\s)\]}\"'，。]+)", re.I)
+# DOI 在 URL 查询串里会带上 &format=json 之类的尾巴，必须在此截断，
+# 否则同一个 DOI 会被计两次（一次干净、一次带查询串）。
+DOI_RE = re.compile(r"(?:doi[:\s]*|doi\.org/)(10\.\d{4,9}/[^\s)\]}\"'，。&?#]+)", re.I)
 
 
 def extract_citations(text: str) -> dict:
@@ -296,7 +298,16 @@ def check_framework() -> list[dict]:
 
 # ---------------------------------------------------------------- 基线（棘轮）
 def _fingerprint(v: dict) -> str:
-    raw = f"{v.get('type')}|{v.get('file','')}|{v.get('value','')}|{v.get('line','')}"
+    """违规指纹：用于基线比对。
+
+    刻意**不使用行号**——行号会随文件任何编辑而漂移，那会让所有存量违规
+    瞬间变成"新增"、旧指纹又变成"已修复"，基线变成噪声源。
+    改用 (类型, 文件, 值/正文归一) 作为身份，对行漂移免疫。
+    """
+    ident = v.get("value") or ""
+    if not ident and v.get("excerpt"):
+        ident = re.sub(r"\s+", " ", str(v["excerpt"])).strip()[:120]
+    raw = f"{v.get('type')}|{v.get('file','')}|{ident}"
     return hashlib.sha1(raw.encode("utf-8")).hexdigest()[:16]
 
 

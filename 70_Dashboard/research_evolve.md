@@ -1,15 +1,15 @@
 # 科研自进化闭环报告
 
-> 第 **4** 轮 · 2026-09-18 00:16 · 由 `research_evolve.evolve` 生成（每次运行一轮，一轮一次提交）
+> 第 **5** 轮 · 2026-09-18 00:17 · 由 `research_evolve.evolve` 生成（每次运行一轮，一轮一次提交）
 
 ## 一、闭环四数（判定"进化"还是"空转"的唯一依据）
 
 | 指标 | 本轮 | 上轮 | Δ | 含义 |
 |---|---|---|---|---|
 | 新增候选 opened | 0 | 0 | 0 | 本轮新进来的问题 |
-| 关闭候选 closed | 0 | 54 | -54 | **已给出裁决并出队** |
-| 升级 escalated | 55 | 56 | -1 | 久挂未裁决，需拍板 |
-| 门禁违规 | 9 | 0 | +9 | 引用/证据标签/正本改动 |
+| 关闭候选 closed | 0 | 0 | 0 | **已给出裁决并出队** |
+| 升级 escalated | 55 | 55 | 0 | 久挂未裁决，需拍板 |
+| 门禁违规 | 8 | 9 | -1 | 引用/证据标签/正本改动 |
 | 当前 open 总数 | 78 | — | — | 待办池水位 |
 
 
@@ -22,7 +22,7 @@
 
 ## 三、待您裁决（7 条，最高优先在前）
 
-### C-00007 · 🔺升级 score=0.8806 · hypothesis · 挂起 25 天 · 见 4 次
+### C-00007 · 🔺升级 score=0.8806 · hypothesis · 挂起 25 天 · 见 5 次
 
 **H7: TCC×iNEST: NoC路由算法为事件驱动spike包重设计可降低延迟一个数量级**
 
@@ -33,7 +33,7 @@
 - 证据就绪: 有来源/证据字段
 - 裁决：`python -m research_evolve.evolve --decide C-00007 accepted|rejected|deferred "理由"`
 
-### C-00117 · 🔺升级 score=0.8806 · idea · 挂起 23 天 · 见 4 次
+### C-00117 · 🔺升级 score=0.8806 · idea · 挂起 23 天 · 见 5 次
 
 **MTIA 300将通信拓扑提升为一等计算资源：计算/通信双平面分离+近内存归约，让通信不打断计算，实现3.9倍通信性能提升，印证拓扑本身是计算能力维度，而非开销。**
 
@@ -44,7 +44,7 @@
 - 证据就绪: 有来源/证据字段
 - 裁决：`python -m research_evolve.evolve --decide C-00117 accepted|rejected|deferred "理由"`
 
-### C-00010 · 🔺升级 score=0.8806 · hypothesis · 挂起 20 天 · 见 4 次
+### C-00010 · 🔺升级 score=0.8806 · hypothesis · 挂起 20 天 · 见 5 次
 
 **H10: TCC×iNEST: 脑连接组拓扑模式可启发晶圆级NoC最优拓扑设计**
 
@@ -55,7 +55,7 @@
 - 证据就绪: 有来源/证据字段
 - 裁决：`python -m research_evolve.evolve --decide C-00010 accepted|rejected|deferred "理由"`
 
-### C-00109 · 🔺升级 score=0.8806 · idea · 挂起 19 天 · 见 4 次
+### C-00109 · 🔺升级 score=0.8806 · idea · 挂起 19 天 · 见 5 次
 
 **网络局部motif结构（如三节点连接模式）直接决定全局动力学稳定性与任务适配性，说明拓扑本身即计算资源，而非仅参数规模。**
 
@@ -66,7 +66,7 @@
 - 证据就绪: 有来源/证据字段
 - 裁决：`python -m research_evolve.evolve --decide C-00109 accepted|rejected|deferred "理由"`
 
-### C-00106 · 🔺升级 score=0.8806 · idea · 挂起 19 天 · 见 4 次
+### C-00106 · 🔺升级 score=0.8806 · idea · 挂起 19 天 · 见 5 次
 
 **Hala Point通过1152颗Loihi 2芯片集成11.5亿神经元，验证了多芯片异步SNN系统可扩展性，且能效优于数据中心AI加速器，但尚未达到单die晶圆级集成。**
 
@@ -77,7 +77,7 @@
 - 证据就绪: 有来源/证据字段
 - 裁决：`python -m research_evolve.evolve --decide C-00106 accepted|rejected|deferred "理由"`
 
-### C-00100 · 🔺升级 score=0.8806 · idea · 挂起 18 天 · 见 4 次
+### C-00100 · 🔺升级 score=0.8806 · idea · 挂起 18 天 · 见 5 次
 
 **三个元拓扑(P2/星/环)与五种SDI-bond操作构成完备生成集，可产生所有通信原语拓扑并分形扩展；最优拓扑满足最小作用量变分原理。**
 
@@ -88,7 +88,7 @@
 - 证据就绪: 有来源/证据字段
 - 裁决：`python -m research_evolve.evolve --decide C-00100 accepted|rejected|deferred "理由"`
 
-### C-00006 · 🔺升级 score=0.8194 · hypothesis · 挂起 25 天 · 见 4 次
+### C-00006 · 🔺升级 score=0.8194 · hypothesis · 挂起 25 天 · 见 5 次
 
 **H6: TCC×iNEST: Chiplet异构集成CMOS+忆阻器crossbar可实现存算一体神经形态加速**
 
@@ -103,26 +103,25 @@
 
 _无。_
 
-## 五、门禁（新增违规 9 · 存量债 942 · 本轮消除 0）
+## 五、门禁（新增违规 8 · 存量债 947 · 本轮消除 0）
 
 扫描 183 个交付草稿文件。**只有基线之外的新违规才判失败**——门禁是回归检测器，不是把存量债每天重报一遍（那会退化成第二个"每天 18 条建议"）。
 
 | 类型 | 总数 | 其中新增 |
 |---|---|---|
 | unlabeled-number | 636 | 0 |
-| citation-unregistered | 315 | 9 |
+| citation-unregistered | 319 | 8 |
 
 **新增违规（须处理）**
 
-- `50_Output/53_Monographs/18_iNEST_Final_Theory_20260917/11_Additional_Source_Records.md` **citation-unregistered** — DOI 未在白名单登记
-- `50_Output/53_Monographs/18_iNEST_Final_Theory_20260917/11_Additional_Source_Records.md` **citation-unregistered** — DOI 未在白名单登记
-- `50_Output/53_Monographs/18_iNEST_Final_Theory_20260917/11_Additional_Source_Records.md` **citation-unregistered** — DOI 未在白名单登记
-- `50_Output/53_Monographs/18_iNEST_Final_Theory_20260917/11_Additional_Source_Records.md` **citation-unregistered** — DOI 未在白名单登记
-- `50_Output/53_Monographs/18_iNEST_Final_Theory_20260917/11_Additional_Source_Records.md` **citation-unregistered** — DOI 未在白名单登记
-- `50_Output/53_Monographs/18_iNEST_Final_Theory_20260917/11_Additional_Source_Records.md` **citation-unregistered** — DOI 未在白名单登记
-- `50_Output/53_Monographs/18_iNEST_Final_Theory_20260917/11_Additional_Source_Records.md` **citation-unregistered** — DOI 未在白名单登记
-- `50_Output/53_Monographs/18_iNEST_Final_Theory_20260917/11_Additional_Source_Records.md` **citation-unregistered** — DOI 未在白名单登记
-- `50_Output/53_Monographs/18_iNEST_Final_Theory_20260917/11_Additional_Source_Records.md` **citation-unregistered** — DOI 未在白名单登记
+- `50_Output/53_Monographs/18_iNEST_Final_Theory_20260917/01_Final_Theory.md` **citation-unregistered** — DOI 未在白名单登记
+- `50_Output/53_Monographs/18_iNEST_Final_Theory_20260917/01_Final_Theory.md` **citation-unregistered** — DOI 未在白名单登记
+- `50_Output/53_Monographs/18_iNEST_Final_Theory_20260917/01_Final_Theory.md` **citation-unregistered** — DOI 未在白名单登记
+- `50_Output/53_Monographs/18_iNEST_Final_Theory_20260917/01_Final_Theory.md` **citation-unregistered** — DOI 未在白名单登记
+- `50_Output/53_Monographs/18_iNEST_Final_Theory_20260917/01_Final_Theory.md` **citation-unregistered** — DOI 未在白名单登记
+- `50_Output/53_Monographs/18_iNEST_Final_Theory_20260917/01_Final_Theory.md` **citation-unregistered** — DOI 未在白名单登记
+- `50_Output/53_Monographs/18_iNEST_Final_Theory_20260917/01_Final_Theory.md` **citation-unregistered** — DOI 未在白名单登记
+- `50_Output/53_Monographs/18_iNEST_Final_Theory_20260917/01_Final_Theory.md` **citation-unregistered** — DOI 未在白名单登记
 
 > 收敛方式：人工复核后运行 `python -m research_evolve.gates --update-baseline` 接受当前存量为债。
 

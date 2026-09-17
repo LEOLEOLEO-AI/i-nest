@@ -20,6 +20,7 @@ self_evolve.py — 知识库自进化 / 自生长 编排器 (Karpathy LLM-Wiki �
 import json
 import os
 import subprocess
+import tempfile
 import sys
 import re
 import datetime
@@ -97,18 +98,62 @@ def release_lock():
         pass
 
 
-def run_script(rel, *args, timeout=600):
-    """运行一个脚本, 返回 (rc, out). 失败隔离, 不抛异常。"""
-    cmd = [PY, str(SCRIPTS / rel), *args]
+def _read_tail(path, n=1500):
+    """读取文件末尾 n 个字符, 用于回显子进程输出。"""
     try:
-        r = subprocess.run(cmd, cwd=str(VAULT), capture_output=True,
-                           text=True, encoding="utf-8", errors="ignore", timeout=timeout)
-        out = (r.stdout + r.stderr)[-1500:]
-        return r.returncode, out
+        with open(path, "r", encoding="utf-8", errors="ignore") as f:
+            return f.read()[-n:]
+    except Exception:
+        return ""
+
+
+def run_script(rel, *args, timeout=600):
+    """运行一个脚本, 返回 (rc, out). 失败隔离, 不抛异常。
+
+    健壮性改进(2026-09-05): 子进程输出重定向到临时文件而非 PIPE,
+    避免孙进程继承 stdout 管道导致 timeout 后 subprocess 仍阻塞等 EOF
+    (旧实现曾因此被卡 5.5h); 超时时用 taskkill /T 杀整棵进程树,
+    使超时真正有界。
+    """
+    cmd = [PY, "-u", str(SCRIPTS / rel), *args]  # -u: 子进程无缓冲, 超时也能抓到真实输出
+    tmp_path = None
+    proc = None
+    f = None
+    try:
+        fd, tmp_path = tempfile.mkstemp(suffix=".log", prefix="se_")
+        os.close(fd)  # 仅取路径, 文件由下方以文本模式打开
+        f = open(tmp_path, "w", encoding="utf-8", errors="ignore", newline="")
+        proc = subprocess.Popen(
+            cmd, cwd=str(VAULT), stdout=f, stderr=subprocess.STDOUT,
+            creationflags=subprocess.CREATE_NEW_PROCESS_GROUP)
+        proc.wait(timeout=timeout)
+        return proc.returncode, _read_tail(tmp_path)
     except subprocess.TimeoutExpired:
-        return 124, f"TIMEOUT after {timeout}s"
+        # 杀整棵进程树(含孙进程), 避免孤儿进程残留并真正解除阻塞
+        try:
+            if proc is not None and proc.poll() is None:
+                subprocess.run(["taskkill", "/T", "/F", "/PID", str(proc.pid)],
+                               capture_output=True, timeout=20)
+        except Exception:
+            try:
+                if proc is not None:
+                    proc.kill()
+            except Exception:
+                pass
+        return 124, f"TIMEOUT after {timeout}s\n{_read_tail(tmp_path)}"
     except Exception as e:
         return 1, f"ERR {type(e).__name__}: {e}"
+    finally:
+        try:
+            if f is not None:
+                f.close()
+        except Exception:
+            pass
+        if tmp_path and os.path.exists(tmp_path):
+            try:
+                os.unlink(tmp_path)
+            except Exception:
+                pass
 
 
 def step_compile_if_new():
@@ -300,6 +345,26 @@ def step_grow_missing_concepts(broken_freq, max_new=10, min_refs=3):
     生成的占位笔记带 frontmatter + 回链来源, 下一轮 wiki_grow 会自动交叉链接。
     """
     log("自我生长: 补全高频缺失概念占位笔记...")
+
+    # ---- 冻结守卫 (2026-09-18 接入) --------------------------------------
+    # 背景: 08-27 诊断已提出"self_evolve 无新论文则冻结新增概念", 但一直未落地。
+    # 实测后果: 2026-09-15/09-17 两次自进化各提交 6193/6196 个文件, 而当日论文
+    # 管线 new_papers=0; wiki/concepts 6123 个文件中 5940 个 (97%) 带 auto:true,
+    # 3184 个 (52%) 文件名近似文章标题 —— 即"没有新论文, 概念却在长"。
+    # 守卫状态由 90_System/research_evolve 每轮评估写入 state/freeze.json。
+    # 状态不可读时**不阻断**(失败开放), 但会明确记录, 避免静默改变既有行为。
+    try:
+        _fz = json.loads((VAULT / "90_System" / "research_evolve" / "state"
+                          / "freeze.json").read_text(encoding="utf-8"))
+        if _fz.get("freeze_new_concepts"):
+            log(f"⏸ 冻结守卫生效: {_fz.get('reason', '无新来源')} -> 本轮不新增概念占位。")
+            return []
+        log(f"冻结守卫: 允许新增 ({_fz.get('reason', '')})")
+    except FileNotFoundError:
+        log("⚠️ 冻结守卫状态缺失 (state/freeze.json), 本轮按放行处理。")
+    except Exception as e:
+        log(f"⚠️ 冻结守卫读取失败({type(e).__name__}), 本轮按放行处理。")
+
     created = []
     out_dir = VAULT / "wiki" / "concepts"
     out_dir.mkdir(parents=True, exist_ok=True)
