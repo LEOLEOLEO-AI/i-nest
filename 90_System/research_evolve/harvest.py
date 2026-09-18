@@ -82,8 +82,12 @@ def harvest_evolution_queue() -> list[dict]:
     for it in items:
         if not isinstance(it, dict):
             continue
+        # 注意: "superseded" 必须一并跳过。
+        # consolidate_evolution_queue.py 把 51 条历史堆积标记为 superseded
+        # （而非删除），若这里不排除，它们仍会被当作活跃候选重新收进来
+        # ——实测发现 open 池里凭空多出 51 条 evolution_item 就是这个原因。
         status = str(it.get("status", "pending")).lower()
-        if status in ("done", "closed", "resolved", "dismissed"):
+        if status in ("done", "closed", "resolved", "dismissed", "superseded"):
             continue
         iid = it.get("id", "?")
         title = it.get("title") or it.get("summary") or ""
@@ -141,29 +145,42 @@ def harvest_ideas(limit: int = 400) -> list[dict]:
 
 
 # ---------------------------------------------------------------- 跨域桥
-_BRIDGE_RE = re.compile(r"^###\s+(\S+)\s+\(Strength:\s*(\d+)\)\s*$", re.M)
+# 兼容两种输出格式：
+#   旧: ### SDI_Plastic_Interconnect (Strength: 1212)
+#   新: ### SDI_Plastic_Interconnect (Strength: 1212 · Coverage: 0.6103)
+# 教训: 我改写了 cross_domain_insight.py 的报告格式，却没同步更新这里的解析，
+# 结果下一轮"收集 跨域桥: 0 条"——改输出格式必须同时改解析方。
+_BRIDGE_RE = re.compile(
+    r"^###\s+(\S+)\s+\(Strength:\s*(\d+)(?:\s*·\s*Coverage:\s*([\d.]+))?\s*\)\s*$",
+    re.M,
+)
 
 
 def harvest_bridges() -> list[dict]:
     """从 wiki/cross_domain_insights.md 收集 TCC×iNEST 桥。
 
-    注意（实测缺陷）：该文件的 Strength 值并不能反映相关性——生成器取的是
-    按字母序排在最前的 3 个概念，因此 6 条顶级桥反复列着同样的
+    注意（实测缺陷）：该文件的 Strength 值并不能反映相关性——旧生成器取的是
+    按字母序排在最前的概念，因此 6 条顶级桥反复列着同样的
     [[1024_Card_SuperNode]] / [[2_5D_3D_HeterogeneousIntegration]] / [[2_5D_Interposer]]。
-    这里保留原值但打上 quality_flag，交由评分层降权。
+    该生成器已于 2026-09-18 改为术语特异性排序；这里保留原值但打上
+    quality_flag，交由评分层降权。
     """
     p = WIKI / "cross_domain_insights.md"
     if not p.exists():
         return []
     txt = read_text(p)
     out = []
-    for name, strength in _BRIDGE_RE.findall(txt):
+    for m in _BRIDGE_RE.finditer(txt):
+        name, strength, coverage = m.group(1), m.group(2), m.group(3)
+        ev = {"strength": int(strength),
+              "quality_flag": "strength-is-corpus-frequency-not-relevance"}
+        if coverage is not None:
+            ev["coverage"] = float(coverage)
         out.append(_mk(
             "bridge", f"跨域桥 {name}",
             "wiki/cross_domain_insights.md",
-            detail=f"Strength={strength}",
-            evidence={"strength": int(strength),
-                      "quality_flag": "alphabetical-artifact-suspected"},
+            detail=f"Strength={strength}" + (f" · Coverage={coverage}" if coverage else ""),
+            evidence=ev,
         ))
     return [c for c in out if c]
 

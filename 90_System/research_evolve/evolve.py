@@ -40,6 +40,7 @@ from .common import (
     days_between,
     dedup_key,
     load_config,
+    load_json,
     read_text,
     today,
 )
@@ -505,6 +506,42 @@ def cmd_decide(cid: str, verdict: str, reason: str) -> int:
     return 0
 
 
+def cmd_reconcile_queue() -> int:
+    """把进化队列里已退休的条目，在候选注册表里一并关闭。
+
+    背景: consolidate_evolution_queue.py 在**队列**层面标记了 51 条历史堆积为
+    superseded（未删除，以便回滚）。但候选注册表(registry.json)里更早登记的
+    对应候选仍是 open，于是 open 池虚高——实测 81 条里有 51 条是已退休的重复项。
+    本命令按"队列 id -> 状态"把注册表对齐，只把已退休者置为 superseded。
+    """
+    reg = Registry.load()
+    qdata = load_json(VAULT / "99_Meta" / "evolution_queue.json", default={}) or {}
+    retired = {}
+    for it in qdata.get("items", []) or []:
+        if not isinstance(it, dict):
+            continue
+        st = str(it.get("status", "pending")).lower()
+        if st in ("superseded", "resolved", "done", "closed", "dismissed"):
+            retired[str(it.get("id", ""))] = st
+
+    n = 0
+    for rec in reg.open_candidates():
+        if rec.get("kind") != "evolution_item":
+            continue
+        title = str(rec.get("title") or "")
+        # 候选标题形如 "EV-2026-07-19-002: Git清理: ..."
+        qid = title.split(":", 1)[0].strip()
+        if qid in retired:
+            reg.set_verdict(rec, "superseded",
+                            f"队列中该条目已 {retired[qid]}（历史重复堆积，"
+                            f"由 consolidate_evolution_queue.py 退休）",
+                            by="reconcile")
+            n += 1
+    reg.save()
+    print(f"已对齐 {n} 条已退休候选 -> superseded；当前 open = {len(reg.open_candidates())}")
+    return 0
+
+
 def main(argv: list[str] | None = None) -> int:
     argv = list(sys.argv[1:] if argv is None else argv)
     if argv and argv[0] == "--status":
@@ -512,6 +549,8 @@ def main(argv: list[str] | None = None) -> int:
     if argv and argv[0] == "--list":
         n = int(argv[1]) if len(argv) > 1 else 20
         return cmd_list(n)
+    if argv and argv[0] == "--reconcile-queue":
+        return cmd_reconcile_queue()
     if argv and argv[0] == "--decide":
         if len(argv) < 4:
             print('用法: --decide <id> <accepted|rejected|deferred|adopted|done> "理由"')

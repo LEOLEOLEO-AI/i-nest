@@ -1,28 +1,29 @@
 # 科研自进化闭环报告
 
-> 第 **7** 轮 · 2026-09-18 08:36 · 由 `research_evolve.evolve` 生成（每次运行一轮，一轮一次提交）
+> 第 **9** 轮 · 2026-09-18 11:30 · 由 `research_evolve.evolve` 生成（每次运行一轮，一轮一次提交）
 
 ## 一、闭环四数（判定"进化"还是"空转"的唯一依据）
 
 | 指标 | 本轮 | 上轮 | Δ | 含义 |
 |---|---|---|---|---|
-| 新增候选 opened | 3 | 0 | +3 | 本轮新进来的问题 |
-| 关闭候选 closed | 0 | 0 | 0 | **已给出裁决并出队** |
+| 新增候选 opened | 0 | 0 | 0 | 本轮新进来的问题 |
+| 关闭候选 closed | 2 | 0 | +2 | **已给出裁决并出队** |
 | 升级 escalated | 55 | 55 | 0 | 久挂未裁决，需拍板 |
-| 门禁违规 | 1 | 14 | -13 | 引用/证据标签/正本改动 |
-| 当前 open 总数 | 81 | — | — | 待办池水位 |
+| 门禁违规 | 1 | 1 | 0 | 引用/证据标签/正本改动 |
+| 当前 open 总数 | 78 | — | — | 待办池水位 |
 
+> ✅ 本轮关闭 **2** 条，构成一次真正的进化轮（进化 = 变异 + **选择** + 留存；旧系统只有变异与留存）。
 
 ## 二、冻结守卫（无新论文则不许长概念）
 
-- 近 **2** 天新来源材料：**229** 篇 （00_Inbox=8, 20_Processing=221, raw=0）
+- 近 **2** 天新来源材料：**231** 篇 （00_Inbox=10, 20_Processing=221, raw=0）
 - 判定：**允许增量编译**
-- 依据：有新来源 229 篇，允许增量编译
+- 依据：有新来源 231 篇，允许增量编译
 - 状态文件：`90_System/research_evolve/state/freeze.json`
 
 ## 三、待您裁决（7 条，最高优先在前）
 
-### C-00007 · 🔺升级 score=0.8806 · hypothesis · 挂起 25 天 · 见 7 次
+### C-00007 · 🔺升级 score=0.8806 · hypothesis · 挂起 25 天 · 见 9 次
 
 **H7: TCC×iNEST: NoC路由算法为事件驱动spike包重设计可降低延迟一个数量级**
 
@@ -33,7 +34,7 @@
 - 证据就绪: 有来源/证据字段
 - 裁决：`python -m research_evolve.evolve --decide C-00007 accepted|rejected|deferred "理由"`
 
-### C-00117 · 🔺升级 score=0.8806 · idea · 挂起 23 天 · 见 7 次
+### C-00117 · 🔺升级 score=0.8806 · idea · 挂起 23 天 · 见 9 次
 
 **MTIA 300将通信拓扑提升为一等计算资源：计算/通信双平面分离+近内存归约，让通信不打断计算，实现3.9倍通信性能提升，印证拓扑本身是计算能力维度，而非开销。**
 
@@ -44,7 +45,7 @@
 - 证据就绪: 有来源/证据字段
 - 裁决：`python -m research_evolve.evolve --decide C-00117 accepted|rejected|deferred "理由"`
 
-### C-00010 · 🔺升级 score=0.8806 · hypothesis · 挂起 20 天 · 见 7 次
+### C-00010 · 🔺升级 score=0.8806 · hypothesis · 挂起 20 天 · 见 9 次
 
 **H10: TCC×iNEST: 脑连接组拓扑模式可启发晶圆级NoC最优拓扑设计**
 
@@ -55,7 +56,7 @@
 - 证据就绪: 有来源/证据字段
 - 裁决：`python -m research_evolve.evolve --decide C-00010 accepted|rejected|deferred "理由"`
 
-### C-00109 · 🔺升级 score=0.8806 · idea · 挂起 20 天 · 见 7 次
+### C-00109 · 🔺升级 score=0.8806 · idea · 挂起 20 天 · 见 9 次
 
 **网络局部motif结构（如三节点连接模式）直接决定全局动力学稳定性与任务适配性，说明拓扑本身即计算资源，而非仅参数规模。**
 
@@ -66,7 +67,7 @@
 - 证据就绪: 有来源/证据字段
 - 裁决：`python -m research_evolve.evolve --decide C-00109 accepted|rejected|deferred "理由"`
 
-### C-00106 · 🔺升级 score=0.8806 · idea · 挂起 19 天 · 见 7 次
+### C-00106 · 🔺升级 score=0.8806 · idea · 挂起 19 天 · 见 9 次
 
 **Hala Point通过1152颗Loihi 2芯片集成11.5亿神经元，验证了多芯片异步SNN系统可扩展性，且能效优于数据中心AI加速器，但尚未达到单die晶圆级集成。**
 
@@ -77,7 +78,7 @@
 - 证据就绪: 有来源/证据字段
 - 裁决：`python -m research_evolve.evolve --decide C-00106 accepted|rejected|deferred "理由"`
 
-### C-00100 · 🔺升级 score=0.8806 · idea · 挂起 18 天 · 见 7 次
+### C-00100 · 🔺升级 score=0.8806 · idea · 挂起 18 天 · 见 9 次
 
 **三个元拓扑(P2/星/环)与五种SDI-bond操作构成完备生成集，可产生所有通信原语拓扑并分形扩展；最优拓扑满足最小作用量变分原理。**
 
@@ -88,7 +89,7 @@
 - 证据就绪: 有来源/证据字段
 - 裁决：`python -m research_evolve.evolve --decide C-00100 accepted|rejected|deferred "理由"`
 
-### C-00006 · 🔺升级 score=0.8194 · hypothesis · 挂起 25 天 · 见 7 次
+### C-00006 · 🔺升级 score=0.8194 · hypothesis · 挂起 25 天 · 见 9 次
 
 **H6: TCC×iNEST: Chiplet异构集成CMOS+忆阻器crossbar可实现存算一体神经形态加速**
 
@@ -99,9 +100,10 @@
 - 证据就绪: 有来源/证据字段
 - 裁决：`python -m research_evolve.evolve --decide C-00006 accepted|rejected|deferred "理由"`
 
-## 四、本轮关闭 0 条（含原因，永不复活）
+## 四、本轮关闭 2 条（含原因，永不复活）
 
-_无。_
+- `C-00139` **EV-2026-07-19-002: Git hygiene: 113 uncommitted changes** → **deferred**（已出现 3 次仍无来源且无验证方法，暂缓（保留以备出现新材料））
+- `C-00140` **EV-2026-09-18-001: Pipeline zero-paper alert: API connectivity check** → **deferred**（已出现 3 次仍无来源且无验证方法，暂缓（保留以备出现新材料））
 
 ## 五、门禁（新增违规 1 · 存量债 819 · 本轮消除 125）
 

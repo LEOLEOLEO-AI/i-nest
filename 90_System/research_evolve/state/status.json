@@ -1,32 +1,33 @@
 {
-  "updated": "2026-09-18T08:36:00.804688",
-  "round": 7,
+  "updated": "2026-09-18T11:30:02.312126",
+  "round": 9,
   "rounds": {
-    "round": 7,
+    "round": 9,
     "date": "2026-09-18",
-    "at": "2026-09-18T08:36:00.795492",
-    "opened": 3,
-    "closed": 0,
+    "at": "2026-09-18T11:30:02.304867",
+    "opened": 0,
+    "closed": 2,
     "escalated": 55,
-    "open_total": 81,
+    "open_total": 78,
     "gate_violations": 1,
     "note": ""
   },
-  "stagnation_streak": 1,
+  "stagnation_streak": 0,
   "gate_new_violations": 1,
   "gate_known_debt": 819,
   "gate_fixed_this_round": 125,
   "gate_total": 820,
   "freeze_new_concepts": false,
-  "new_source_total": 229,
-  "open_total": 81,
+  "new_source_total": 231,
+  "open_total": 78,
   "stats": {
     "total": 141,
     "by_verdict": {
-      "open": 81,
-      "deferred": 54,
+      "open": 78,
+      "deferred": 56,
       "accepted": 1,
-      "rejected": 5
+      "rejected": 5,
+      "superseded": 1
     },
     "by_kind": {
       "hypothesis": 10,
@@ -34,8 +35,8 @@
       "idea": 70,
       "bridge": 7
     },
-    "open": 81,
-    "round": 7,
-    "stagnation_streak": 1
+    "open": 78,
+    "round": 9,
+    "stagnation_streak": 0
   }
 }
