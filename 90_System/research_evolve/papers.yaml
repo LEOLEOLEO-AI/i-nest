@@ -7,3 +7,239 @@ works:
   status: verified
   added: '2026-09-18'
   source: selftest
+- key: R01
+  title: Information Processing Capacity of Dynamical Systems
+  identifier: doi:10.1038/srep00514
+  status: verified
+  added: '2026-09-18'
+  source: 50_Output/53_Monographs/18_iNEST_Final_Theory_20260917/01_Final_Theory.md
+    (文稿声明题录/正文已核)
+  updated: '2026-09-18'
+- key: R04
+  title: Stochastic thermodynamics, fluctuation theorems and molecular machines
+  identifier: doi:10.1088/0034-4885/75/12/126001
+  status: verified
+  added: '2026-09-18'
+  source: 50_Output/53_Monographs/18_iNEST_Final_Theory_20260917/01_Final_Theory.md
+    (文稿声明题录/正文已核)
+  updated: '2026-09-18'
+- key: R06
+  title: Irreversibility and Heat Generation in the Computing Process
+  identifier: doi:10.1147/rd.53.0183
+  status: verified
+  added: '2026-09-18'
+  source: 50_Output/53_Monographs/18_iNEST_Final_Theory_20260917/01_Final_Theory.md
+    (文稿声明题录/正文已核)
+  updated: '2026-09-18'
+- key: R11
+  title: 'Equilibrium Propagation: Bridging the Gap between Energy-Based Models and
+    Backpropagation'
+  identifier: doi:10.3389/fncom.2017.00024
+  status: verified
+  added: '2026-09-18'
+  source: 50_Output/53_Monographs/18_iNEST_Final_Theory_20260917/01_Final_Theory.md
+    (文稿声明题录/正文已核)
+  updated: '2026-09-18'
+- key: R13
+  title: 'Computational Mechanics: Pattern and Prediction, Structure and Simplicity'
+  identifier: doi:10.1023/A:1010388907793
+  status: verified
+  added: '2026-09-18'
+  source: 50_Output/53_Monographs/18_iNEST_Final_Theory_20260917/01_Final_Theory.md
+    (文稿声明题录/正文已核)
+  updated: '2026-09-18'
+- key: R25
+  title: Experience-dependent structural synaptic plasticity in the mammalian brain
+  identifier: doi:10.1038/nrn2699
+  status: pending
+  added: '2026-09-18'
+  source: 50_Output/53_Monographs/18_iNEST_Final_Theory_20260917/01_Final_Theory.md
+    (文稿有核验说明但未声明题录已核)
+  updated: '2026-09-18'
+- key: R26
+  title: 'Eligibility Traces and Plasticity on Behavioral Time Scales: Experimental
+    Support of NeoHebbian Three-Factor Learning Rules'
+  identifier: doi:10.3389/fncir.2018.00053
+  status: verified
+  added: '2026-09-18'
+  source: 50_Output/53_Monographs/18_iNEST_Final_Theory_20260917/01_Final_Theory.md
+    (文稿声明题录/正文已核)
+  updated: '2026-09-18'
+- key: R27
+  title: 'The self-tuning neuron: synaptic scaling of excitatory synapses'
+  identifier: doi:10.1016/j.cell.2008.10.008
+  status: pending
+  added: '2026-09-18'
+  source: 50_Output/53_Monographs/18_iNEST_Final_Theory_20260917/01_Final_Theory.md
+    (文稿有核验说明但未声明题录已核)
+  updated: '2026-09-18'
+- key: R28
+  title: 'Supervised Learning in Physical Networks: From Machine Learning to Learning
+    Machines'
+  identifier: doi:10.1103/PhysRevX.11.021045
+  status: pending
+  added: '2026-09-18'
+  source: 50_Output/53_Monographs/18_iNEST_Final_Theory_20260917/01_Final_Theory.md
+    (文稿声明仅摘要已核)
+  updated: '2026-09-18'
+- key: R29
+  title: Demonstration of Decentralized Physics-Driven Learning
+  identifier: doi:10.1103/PhysRevApplied.18.014040
+  status: pending
+  added: '2026-09-18'
+  source: 50_Output/53_Monographs/18_iNEST_Final_Theory_20260917/01_Final_Theory.md
+    (文稿声明仅摘要已核)
+  updated: '2026-09-18'
+- key: R31
+  title: Appearance of Gauge Structure in Simple Dynamical Systems
+  identifier: doi:10.1103/PhysRevLett.52.2111
+  status: pending
+  added: '2026-09-18'
+  source: 50_Output/53_Monographs/18_iNEST_Final_Theory_20260917/01_Final_Theory.md
+    (文稿声明仅摘要已核)
+- key: R32
+  title: Artificial neural manifolds. Nature Communications
+  identifier: doi:10.1038/s41467-026-75979-6
+  status: verified
+  added: '2026-09-18'
+  source: 50_Output/53_Monographs/18_iNEST_Final_Theory_20260917/01_Final_Theory.md
+    (文稿声明题录/正文已核)
+  updated: '2026-09-18'
+- key: R33
+  title: Self-organizing neuromorphic nanowire networks as stochastic dynamical systems.
+    Nature Communications
+  identifier: doi:10.1038/s41467-025-58741-2
+  status: verified
+  added: '2026-09-18'
+  source: 50_Output/53_Monographs/18_iNEST_Final_Theory_20260917/01_Final_Theory.md
+    (文稿声明题录/正文已核)
+  updated: '2026-09-18'
+- key: R36
+  title: Physical neural networks using sharpness-aware training. Nature Communications
+  identifier: doi:10.1038/s41467-026-68470-9
+  status: verified
+  added: '2026-09-18'
+  source: 50_Output/53_Monographs/18_iNEST_Final_Theory_20260917/01_Final_Theory.md
+    (文稿声明题录/正文已核)
+  updated: '2026-09-18'
+- key: R38
+  title: Training of physical neural networks. Nature
+  identifier: doi:10.1038/s41586-025-09384-2
+  status: pending
+  added: '2026-09-18'
+  source: 50_Output/53_Monographs/18_iNEST_Final_Theory_20260917/01_Final_Theory.md
+    (文稿声明仅摘要已核)
+  updated: '2026-09-18'
+- key: R39
+  title: Neural constraints on learning. Nature
+  identifier: doi:10.1038/nature13665
+  status: pending
+  added: '2026-09-18'
+  source: 50_Output/53_Monographs/18_iNEST_Final_Theory_20260917/01_Final_Theory.md
+    (文稿声明仅摘要已核)
+  updated: '2026-09-18'
+- key: R40
+  title: Backpropagation-free training of deep physical neural networks. Science
+  identifier: doi:10.1126/science.adi8474
+  status: pending
+  added: '2026-09-18'
+  source: 50_Output/53_Monographs/18_iNEST_Final_Theory_20260917/01_Final_Theory.md
+    (文稿声明仅摘要已核)
+  updated: '2026-09-18'
+- key: R41
+  title: Self-organization of an inhomogeneous memristive hardware for sequence learning.
+    Nature Communications
+  identifier: doi:10.1038/s41467-022-33476-6
+  status: pending
+  added: '2026-09-18'
+  source: 50_Output/53_Monographs/18_iNEST_Final_Theory_20260917/01_Final_Theory.md
+    (文稿有核验说明但未声明题录已核)
+  updated: '2026-09-18'
+- key: R42
+  title: Global brain dynamics embed the motor command sequence of Caenorhabditis
+    elegans. Cell
+  identifier: doi:10.1016/j.cell.2015.09.034
+  status: pending
+  added: '2026-09-18'
+  source: 50_Output/53_Monographs/18_iNEST_Final_Theory_20260917/01_Final_Theory.md
+    (文稿声明仅摘要已核)
+  updated: '2026-09-18'
+- key: R43
+  title: Wafer-scale fabrication of memristive passive crossbar circuits for brain-scale
+    neuromorphic computing. Nature Communications
+  identifier: doi:10.1038/s41467-025-63831-2
+  status: pending
+  added: '2026-09-18'
+  source: 50_Output/53_Monographs/18_iNEST_Final_Theory_20260917/01_Final_Theory.md
+    (文稿声明仅摘要已核)
+  updated: '2026-09-18'
+- key: API-nature13665
+  title: Neural constraints on learning
+  identifier: doi:10.1038/nature13665
+  status: pending
+  added: '2026-09-18'
+  source: 50_Output/53_Monographs/18_iNEST_Final_Theory_20260917/11_Additional_Source_Records.md
+    (题录取自 Crossref/EuropePMC 返回)
+- key: API-s41467-022-33476-6
+  title: Self-organization of an inhomogeneous memristive hardware for sequence learning
+  identifier: doi:10.1038/s41467-022-33476-6
+  status: pending
+  added: '2026-09-18'
+  source: 50_Output/53_Monographs/18_iNEST_Final_Theory_20260917/11_Additional_Source_Records.md
+    (题录取自 Crossref/EuropePMC 返回)
+- key: API-j.cell.2015.09.034
+  title: Global brain dynamics embed the motor command sequence of Caenorhabditis
+    elegans
+  identifier: doi:10.1016/j.cell.2015.09.034
+  status: pending
+  added: '2026-09-18'
+  source: 50_Output/53_Monographs/18_iNEST_Final_Theory_20260917/11_Additional_Source_Records.md
+    (题录取自 Crossref/EuropePMC 返回)
+- key: API-s41467-025-63831-2
+  title: Wafer-scale fabrication of memristive passive crossbar circuits for brain-scale
+    neuromorphic computing
+  identifier: doi:10.1038/s41467-025-63831-2
+  status: pending
+  added: '2026-09-18'
+  source: 50_Output/53_Monographs/18_iNEST_Final_Theory_20260917/11_Additional_Source_Records.md
+    (题录取自 Crossref/EuropePMC 返回)
+- key: API-science.adi8474
+  title: Backpropagation-free training of deep physical neural networks
+  identifier: doi:10.1126/science.adi8474
+  status: pending
+  added: '2026-09-18'
+  source: 50_Output/53_Monographs/18_iNEST_Final_Theory_20260917/11_Additional_Source_Records.md
+    (题录取自 Crossref/EuropePMC 返回)
+- key: R30
+  title: Gauge Equivariant Convolutional Networks and the Icosahedral CNN. [arXiv:1902.04615](https://arxiv.org/abs/1902.04615)。题录及摘要已核；规范等变的算法用途，不支持物理认知场断言。
+    - [R31] Wilczek, Zee (1984). Appearance of Gauge Structure in Simple Dynamical
+    Systems
+  identifier: doi:10.1103/PhysRevLett.52.2111
+  status: pending
+  added: '2026-09-18'
+  source: 50_Output/53_Monographs/18_iNEST_Final_Theory_20260917/01_Final_Theory.md
+    (文稿声明仅摘要已核)
+- key: R34
+  title: Online dynamical learning and sequence memory with neuromorphic nanowire
+    networks
+  identifier: doi:10.1038/s41467-023-42470-5
+  status: verified
+  added: '2026-09-18'
+  source: 50_Output/53_Monographs/18_iNEST_Final_Theory_20260917/01_Final_Theory.md
+    (文稿声明题录/正文已核)
+- key: R35
+  title: Training all-mechanical neural networks for task learning through in situ
+    backpropagation
+  identifier: doi:10.1038/s41467-024-54849-z
+  status: pending
+  added: '2026-09-18'
+  source: 50_Output/53_Monographs/18_iNEST_Final_Theory_20260917/01_Final_Theory.md
+    (文稿有核验说明但未声明题录已核)
+- key: R37
+  title: Emergence and reconfiguration of modular structure for artificial neural
+    networks during continual familiarity detection
+  identifier: doi:10.1126/sciadv.adm8430
+  status: verified
+  added: '2026-09-18'
+  source: 50_Output/53_Monographs/18_iNEST_Final_Theory_20260917/01_Final_Theory.md
+    (文稿声明题录/正文已核)

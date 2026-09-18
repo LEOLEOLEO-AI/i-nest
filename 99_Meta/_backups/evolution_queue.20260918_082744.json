@@ -17,65 +17,8 @@
       "title": "Git hygiene: 113 uncommitted changes",
       "detail": "Commit or review outstanding changes.",
       "status": "pending",
-      "last_seen": "2026-09-18T08:27:44.963903",
-      "occurrences": 52,
-      "observed_values": [
-        "113 uncommitted changes",
-        "83 uncommitted changes",
-        "86 uncommitted changes",
-        "78 uncommitted changes",
-        "773 uncommitted changes",
-        "830 uncommitted changes",
-        "20 uncommitted changes",
-        "24 uncommitted changes",
-        "2494 uncommitted changes",
-        "12 uncommitted changes",
-        "230 uncommitted changes",
-        "17 uncommitted changes",
-        "71 uncommitted changes",
-        "74 uncommitted changes",
-        "76 uncommitted changes",
-        "18 uncommitted changes",
-        "209 uncommitted changes",
-        "258 uncommitted changes",
-        "267 uncommitted changes",
-        "289 uncommitted changes",
-        "314 uncommitted changes",
-        "322 uncommitted changes",
-        "30 uncommitted changes",
-        "22 uncommitted changes",
-        "22 uncommitted changes",
-        "17 uncommitted changes",
-        "21 uncommitted changes",
-        "20 uncommitted changes",
-        "22 uncommitted changes",
-        "20 uncommitted changes",
-        "18 uncommitted changes",
-        "24 uncommitted changes",
-        "12 uncommitted changes",
-        "44 uncommitted changes",
-        "22 uncommitted changes",
-        "27 uncommitted changes",
-        "92 uncommitted changes",
-        "92 uncommitted changes",
-        "115 uncommitted changes",
-        "30 uncommitted changes",
-        "39 uncommitted changes",
-        "39 uncommitted changes",
-        "6026 uncommitted changes",
-        "122 uncommitted changes",
-        "148 uncommitted changes",
-        "168 uncommitted changes",
-        "224 uncommitted changes",
-        "296 uncommitted changes",
-        "296 uncommitted changes",
-        "120 uncommitted changes",
-        "266 uncommitted changes",
-        "113 uncommitted changes"
-      ],
-      "first_seen": "EV-2026-07-19-",
-      "consolidated_at": "2026-09-18T08:27:44.963903",
-      "consolidated_note": "由 consolidate_evolution_queue.py 合并 52 条同类历史堆积（原因为旧实现每天生成新 id 导致去重失效）"
+      "last_seen": "2026-09-18T08:27:33.218840",
+      "occurrences": 2
     },
     {
       "id": "EV-2026-07-20-001",
@@ -93,9 +36,7 @@
       "type": "git_hygiene",
       "title": "Git hygiene: 83 uncommitted changes",
       "detail": "Commit or review outstanding changes.",
-      "status": "superseded",
-      "superseded_by": "EV-2026-07-19-002",
-      "superseded_at": "2026-09-18T08:27:44.963903"
+      "status": "pending"
     },
     {
       "id": "EV-2026-07-22-001",
@@ -113,9 +54,7 @@
       "type": "git_hygiene",
       "title": "Git hygiene: 86 uncommitted changes",
       "detail": "Commit or review outstanding changes.",
-      "status": "superseded",
-      "superseded_by": "EV-2026-07-19-002",
-      "superseded_at": "2026-09-18T08:27:44.963903"
+      "status": "pending"
     },
     {
       "id": "EV-2026-07-24-001",
@@ -133,9 +72,7 @@
       "type": "git_hygiene",
       "title": "Git hygiene: 78 uncommitted changes",
       "detail": "Commit or review outstanding changes.",
-      "status": "superseded",
-      "superseded_by": "EV-2026-07-19-002",
-      "superseded_at": "2026-09-18T08:27:44.963903"
+      "status": "pending"
     },
     {
       "id": "EV-2026-07-25-001",
@@ -153,9 +90,7 @@
       "type": "git_hygiene",
       "title": "Git hygiene: 773 uncommitted changes",
       "detail": "Commit or review outstanding changes.",
-      "status": "superseded",
-      "superseded_by": "EV-2026-07-19-002",
-      "superseded_at": "2026-09-18T08:27:44.963903"
+      "status": "pending"
     },
     {
       "id": "EV-2026-07-26-001",
@@ -173,9 +108,7 @@
       "type": "git_hygiene",
       "title": "Git hygiene: 830 uncommitted changes",
       "detail": "Commit or review outstanding changes.",
-      "status": "superseded",
-      "superseded_by": "EV-2026-07-19-002",
-      "superseded_at": "2026-09-18T08:27:44.963903"
+      "status": "pending"
     },
     {
       "id": "EV-2026-07-31-001",
@@ -193,9 +126,7 @@
       "type": "git_hygiene",
       "title": "Git hygiene: 20 uncommitted changes",
       "detail": "Commit or review outstanding changes.",
-      "status": "superseded",
-      "superseded_by": "EV-2026-07-19-002",
-      "superseded_at": "2026-09-18T08:27:44.963903"
+      "status": "pending"
     },
     {
       "id": "EV-2026-08-01-001",
@@ -233,9 +164,7 @@
       "type": "git_hygiene",
       "title": "Git hygiene: 24 uncommitted changes",
       "detail": "Commit or review outstanding changes.",
-      "status": "superseded",
-      "superseded_by": "EV-2026-07-19-002",
-      "superseded_at": "2026-09-18T08:27:44.963903"
+      "status": "pending"
     },
     {
       "id": "EV-2026-08-04-001",
@@ -253,9 +182,7 @@
       "type": "git_hygiene",
       "title": "Git hygiene: 2494 uncommitted changes",
       "detail": "Commit or review outstanding changes.",
-      "status": "superseded",
-      "superseded_by": "EV-2026-07-19-002",
-      "superseded_at": "2026-09-18T08:27:44.963903"
+      "status": "pending"
     },
     {
       "id": "EV-2026-08-05-001",
@@ -273,9 +200,7 @@
       "type": "git_hygiene",
       "title": "Git hygiene: 12 uncommitted changes",
       "detail": "Commit or review outstanding changes.",
-      "status": "superseded",
-      "superseded_by": "EV-2026-07-19-002",
-      "superseded_at": "2026-09-18T08:27:44.963903"
+      "status": "pending"
     },
     {
       "id": "EV-2026-08-06-001",
@@ -293,9 +218,7 @@
       "type": "git_hygiene",
       "title": "Git hygiene: 230 uncommitted changes",
       "detail": "Commit or review outstanding changes.",
-      "status": "superseded",
-      "superseded_by": "EV-2026-07-19-002",
-      "superseded_at": "2026-09-18T08:27:44.963903"
+      "status": "pending"
     },
     {
       "id": "EV-2026-08-07-001",
@@ -313,9 +236,7 @@
       "type": "git_hygiene",
       "title": "Git hygiene: 17 uncommitted changes",
       "detail": "Commit or review outstanding changes.",
-      "status": "superseded",
-      "superseded_by": "EV-2026-07-19-002",
-      "superseded_at": "2026-09-18T08:27:44.963903"
+      "status": "pending"
     },
     {
       "id": "EV-2026-08-08-001",
@@ -333,9 +254,7 @@
       "type": "git_hygiene",
       "title": "Git hygiene: 71 uncommitted changes",
       "detail": "Commit or review outstanding changes.",
-      "status": "superseded",
-      "superseded_by": "EV-2026-07-19-002",
-      "superseded_at": "2026-09-18T08:27:44.963903"
+      "status": "pending"
     },
     {
       "id": "EV-2026-08-09-001",
@@ -353,9 +272,7 @@
       "type": "git_hygiene",
       "title": "Git hygiene: 74 uncommitted changes",
       "detail": "Commit or review outstanding changes.",
-      "status": "superseded",
-      "superseded_by": "EV-2026-07-19-002",
-      "superseded_at": "2026-09-18T08:27:44.963903"
+      "status": "pending"
     },
     {
       "id": "EV-2026-08-10-001",
@@ -373,9 +290,7 @@
       "type": "git_hygiene",
       "title": "Git hygiene: 76 uncommitted changes",
       "detail": "Commit or review outstanding changes.",
-      "status": "superseded",
-      "superseded_by": "EV-2026-07-19-002",
-      "superseded_at": "2026-09-18T08:27:44.963903"
+      "status": "pending"
     },
     {
       "id": "EV-2026-08-12-001",
@@ -393,9 +308,7 @@
       "type": "git_hygiene",
       "title": "Git hygiene: 18 uncommitted changes",
       "detail": "Commit or review outstanding changes.",
-      "status": "superseded",
-      "superseded_by": "EV-2026-07-19-002",
-      "superseded_at": "2026-09-18T08:27:44.963903"
+      "status": "pending"
     },
     {
       "id": "EV-2026-08-13-001",
@@ -413,9 +326,7 @@
       "type": "git_hygiene",
       "title": "Git hygiene: 209 uncommitted changes",
       "detail": "Commit or review outstanding changes.",
-      "status": "superseded",
-      "superseded_by": "EV-2026-07-19-002",
-      "superseded_at": "2026-09-18T08:27:44.963903"
+      "status": "pending"
     },
     {
       "id": "EV-2026-08-14-001",
@@ -433,9 +344,7 @@
       "type": "git_hygiene",
       "title": "Git hygiene: 258 uncommitted changes",
       "detail": "Commit or review outstanding changes.",
-      "status": "superseded",
-      "superseded_by": "EV-2026-07-19-002",
-      "superseded_at": "2026-09-18T08:27:44.963903"
+      "status": "pending"
     },
     {
       "id": "EV-2026-08-15-002",
@@ -443,9 +352,7 @@
       "type": "git_hygiene",
       "title": "Git hygiene: 267 uncommitted changes",
       "detail": "Commit or review outstanding changes.",
-      "status": "superseded",
-      "superseded_by": "EV-2026-07-19-002",
-      "superseded_at": "2026-09-18T08:27:44.963903"
+      "status": "pending"
     },
     {
       "id": "EV-2026-08-16-001",
@@ -463,9 +370,7 @@
       "type": "git_hygiene",
       "title": "Git hygiene: 289 uncommitted changes",
       "detail": "Commit or review outstanding changes.",
-      "status": "superseded",
-      "superseded_by": "EV-2026-07-19-002",
-      "superseded_at": "2026-09-18T08:27:44.963903"
+      "status": "pending"
     },
     {
       "id": "EV-2026-08-17-001",
@@ -483,9 +388,7 @@
       "type": "git_hygiene",
       "title": "Git hygiene: 314 uncommitted changes",
       "detail": "Commit or review outstanding changes.",
-      "status": "superseded",
-      "superseded_by": "EV-2026-07-19-002",
-      "superseded_at": "2026-09-18T08:27:44.963903"
+      "status": "pending"
     },
     {
       "id": "EV-2026-08-19-001",
@@ -503,9 +406,7 @@
       "type": "git_hygiene",
       "title": "Git hygiene: 322 uncommitted changes",
       "detail": "Commit or review outstanding changes.",
-      "status": "superseded",
-      "superseded_by": "EV-2026-07-19-002",
-      "superseded_at": "2026-09-18T08:27:44.963903"
+      "status": "pending"
     },
     {
       "id": "EV-2026-08-20-001",
@@ -523,9 +424,7 @@
       "type": "git_hygiene",
       "title": "Git hygiene: 30 uncommitted changes",
       "detail": "Commit or review outstanding changes.",
-      "status": "superseded",
-      "superseded_by": "EV-2026-07-19-002",
-      "superseded_at": "2026-09-18T08:27:44.963903"
+      "status": "pending"
     },
     {
       "id": "EV-2026-08-21-001",
@@ -543,9 +442,7 @@
       "type": "git_hygiene",
       "title": "Git hygiene: 22 uncommitted changes",
       "detail": "Commit or review outstanding changes.",
-      "status": "superseded",
-      "superseded_by": "EV-2026-07-19-002",
-      "superseded_at": "2026-09-18T08:27:44.963903"
+      "status": "pending"
     },
     {
       "id": "EV-2026-08-22-001",
@@ -563,9 +460,7 @@
       "type": "git_hygiene",
       "title": "Git hygiene: 22 uncommitted changes",
       "detail": "Commit or review outstanding changes.",
-      "status": "superseded",
-      "superseded_by": "EV-2026-07-19-002",
-      "superseded_at": "2026-09-18T08:27:44.963903"
+      "status": "pending"
     },
     {
       "id": "EV-2026-08-23-001",
@@ -583,9 +478,7 @@
       "type": "git_hygiene",
       "title": "Git hygiene: 17 uncommitted changes",
       "detail": "Commit or review outstanding changes.",
-      "status": "superseded",
-      "superseded_by": "EV-2026-07-19-002",
-      "superseded_at": "2026-09-18T08:27:44.963903"
+      "status": "pending"
     },
     {
       "id": "EV-2026-08-24-001",
@@ -603,9 +496,7 @@
       "type": "git_hygiene",
       "title": "Git hygiene: 21 uncommitted changes",
       "detail": "Commit or review outstanding changes.",
-      "status": "superseded",
-      "superseded_by": "EV-2026-07-19-002",
-      "superseded_at": "2026-09-18T08:27:44.963903"
+      "status": "pending"
     },
     {
       "id": "EV-2026-08-25-001",
@@ -623,9 +514,7 @@
       "type": "git_hygiene",
       "title": "Git hygiene: 20 uncommitted changes",
       "detail": "Commit or review outstanding changes.",
-      "status": "superseded",
-      "superseded_by": "EV-2026-07-19-002",
-      "superseded_at": "2026-09-18T08:27:44.963903"
+      "status": "pending"
     },
     {
       "id": "EV-2026-08-26-001",
@@ -643,9 +532,7 @@
       "type": "git_hygiene",
       "title": "Git hygiene: 22 uncommitted changes",
       "detail": "Commit or review outstanding changes.",
-      "status": "superseded",
-      "superseded_by": "EV-2026-07-19-002",
-      "superseded_at": "2026-09-18T08:27:44.963903"
+      "status": "pending"
     },
     {
       "id": "EV-2026-08-27-001",
@@ -663,9 +550,7 @@
       "type": "git_hygiene",
       "title": "Git hygiene: 20 uncommitted changes",
       "detail": "Commit or review outstanding changes.",
-      "status": "superseded",
-      "superseded_by": "EV-2026-07-19-002",
-      "superseded_at": "2026-09-18T08:27:44.963903"
+      "status": "pending"
     },
     {
       "id": "EV-2026-08-28-001",
@@ -683,9 +568,7 @@
       "type": "git_hygiene",
       "title": "Git hygiene: 18 uncommitted changes",
       "detail": "Commit or review outstanding changes.",
-      "status": "superseded",
-      "superseded_by": "EV-2026-07-19-002",
-      "superseded_at": "2026-09-18T08:27:44.963903"
+      "status": "pending"
     },
     {
       "id": "EV-2026-08-29-001",
@@ -703,9 +586,7 @@
       "type": "git_hygiene",
       "title": "Git hygiene: 24 uncommitted changes",
       "detail": "Commit or review outstanding changes.",
-      "status": "superseded",
-      "superseded_by": "EV-2026-07-19-002",
-      "superseded_at": "2026-09-18T08:27:44.963903"
+      "status": "pending"
     },
     {
       "id": "EV-2026-08-30-001",
@@ -723,9 +604,7 @@
       "type": "git_hygiene",
       "title": "Git hygiene: 12 uncommitted changes",
       "detail": "Commit or review outstanding changes.",
-      "status": "superseded",
-      "superseded_by": "EV-2026-07-19-002",
-      "superseded_at": "2026-09-18T08:27:44.963903"
+      "status": "pending"
     },
     {
       "id": "EV-2026-08-31-001",
@@ -743,9 +622,7 @@
       "type": "git_hygiene",
       "title": "Git hygiene: 44 uncommitted changes",
       "detail": "Commit or review outstanding changes.",
-      "status": "superseded",
-      "superseded_by": "EV-2026-07-19-002",
-      "superseded_at": "2026-09-18T08:27:44.963903"
+      "status": "pending"
     },
     {
       "id": "EV-2026-09-01-001",
@@ -763,9 +640,7 @@
       "type": "git_hygiene",
       "title": "Git hygiene: 22 uncommitted changes",
       "detail": "Commit or review outstanding changes.",
-      "status": "superseded",
-      "superseded_by": "EV-2026-07-19-002",
-      "superseded_at": "2026-09-18T08:27:44.963903"
+      "status": "pending"
     },
     {
       "id": "EV-2026-09-02-001",
@@ -783,9 +658,7 @@
       "type": "git_hygiene",
       "title": "Git hygiene: 27 uncommitted changes",
       "detail": "Commit or review outstanding changes.",
-      "status": "superseded",
-      "superseded_by": "EV-2026-07-19-002",
-      "superseded_at": "2026-09-18T08:27:44.963903"
+      "status": "pending"
     },
     {
       "id": "EV-2026-09-03-001",
@@ -803,9 +676,7 @@
       "type": "git_hygiene",
       "title": "Git hygiene: 92 uncommitted changes",
       "detail": "Commit or review outstanding changes.",
-      "status": "superseded",
-      "superseded_by": "EV-2026-07-19-002",
-      "superseded_at": "2026-09-18T08:27:44.963903"
+      "status": "pending"
     },
     {
       "id": "EV-2026-09-04-001",
@@ -823,9 +694,7 @@
       "type": "git_hygiene",
       "title": "Git hygiene: 92 uncommitted changes",
       "detail": "Commit or review outstanding changes.",
-      "status": "superseded",
-      "superseded_by": "EV-2026-07-19-002",
-      "superseded_at": "2026-09-18T08:27:44.963903"
+      "status": "pending"
     },
     {
       "id": "EV-2026-09-05-001",
@@ -843,9 +712,7 @@
       "type": "git_hygiene",
       "title": "Git hygiene: 115 uncommitted changes",
       "detail": "Commit or review outstanding changes.",
-      "status": "superseded",
-      "superseded_by": "EV-2026-07-19-002",
-      "superseded_at": "2026-09-18T08:27:44.963903"
+      "status": "pending"
     },
     {
       "id": "EV-2026-09-06-001",
@@ -863,9 +730,7 @@
       "type": "git_hygiene",
       "title": "Git hygiene: 30 uncommitted changes",
       "detail": "Commit or review outstanding changes.",
-      "status": "superseded",
-      "superseded_by": "EV-2026-07-19-002",
-      "superseded_at": "2026-09-18T08:27:44.963903"
+      "status": "pending"
     },
     {
       "id": "EV-2026-09-07-001",
@@ -883,9 +748,7 @@
       "type": "git_hygiene",
       "title": "Git hygiene: 39 uncommitted changes",
       "detail": "Commit or review outstanding changes.",
-      "status": "superseded",
-      "superseded_by": "EV-2026-07-19-002",
-      "superseded_at": "2026-09-18T08:27:44.963903"
+      "status": "pending"
     },
     {
       "id": "EV-2026-09-08-001",
@@ -903,9 +766,7 @@
       "type": "git_hygiene",
       "title": "Git hygiene: 39 uncommitted changes",
       "detail": "Commit or review outstanding changes.",
-      "status": "superseded",
-      "superseded_by": "EV-2026-07-19-002",
-      "superseded_at": "2026-09-18T08:27:44.963903"
+      "status": "pending"
     },
     {
       "id": "EV-2026-09-09-001",
@@ -923,9 +784,7 @@
       "type": "git_hygiene",
       "title": "Git hygiene: 6026 uncommitted changes",
       "detail": "Commit or review outstanding changes.",
-      "status": "superseded",
-      "superseded_by": "EV-2026-07-19-002",
-      "superseded_at": "2026-09-18T08:27:44.963903"
+      "status": "pending"
     },
     {
       "id": "EV-2026-09-10-001",
@@ -943,9 +802,7 @@
       "type": "git_hygiene",
       "title": "Git hygiene: 122 uncommitted changes",
       "detail": "Commit or review outstanding changes.",
-      "status": "superseded",
-      "superseded_by": "EV-2026-07-19-002",
-      "superseded_at": "2026-09-18T08:27:44.963903"
+      "status": "pending"
     },
     {
       "id": "EV-2026-09-11-001",
@@ -963,9 +820,7 @@
       "type": "git_hygiene",
       "title": "Git hygiene: 148 uncommitted changes",
       "detail": "Commit or review outstanding changes.",
-      "status": "superseded",
-      "superseded_by": "EV-2026-07-19-002",
-      "superseded_at": "2026-09-18T08:27:44.963903"
+      "status": "pending"
     },
     {
       "id": "EV-2026-09-12-001",
@@ -983,9 +838,7 @@
       "type": "git_hygiene",
       "title": "Git hygiene: 168 uncommitted changes",
       "detail": "Commit or review outstanding changes.",
-      "status": "superseded",
-      "superseded_by": "EV-2026-07-19-002",
-      "superseded_at": "2026-09-18T08:27:44.963903"
+      "status": "pending"
     },
     {
       "id": "EV-2026-09-13-001",
@@ -1003,9 +856,7 @@
       "type": "git_hygiene",
       "title": "Git hygiene: 224 uncommitted changes",
       "detail": "Commit or review outstanding changes.",
-      "status": "superseded",
-      "superseded_by": "EV-2026-07-19-002",
-      "superseded_at": "2026-09-18T08:27:44.963903"
+      "status": "pending"
     },
     {
       "id": "EV-2026-09-14-001",
@@ -1023,9 +874,7 @@
       "type": "git_hygiene",
       "title": "Git hygiene: 296 uncommitted changes",
       "detail": "Commit or review outstanding changes.",
-      "status": "superseded",
-      "superseded_by": "EV-2026-07-19-002",
-      "superseded_at": "2026-09-18T08:27:44.963903"
+      "status": "pending"
     },
     {
       "id": "EV-2026-09-15-001",
@@ -1043,9 +892,7 @@
       "type": "git_hygiene",
       "title": "Git hygiene: 296 uncommitted changes",
       "detail": "Commit or review outstanding changes.",
-      "status": "superseded",
-      "superseded_by": "EV-2026-07-19-002",
-      "superseded_at": "2026-09-18T08:27:44.963903"
+      "status": "pending"
     },
     {
       "id": "EV-2026-09-16-001",
@@ -1063,9 +910,7 @@
       "type": "git_hygiene",
       "title": "Git hygiene: 120 uncommitted changes",
       "detail": "Commit or review outstanding changes.",
-      "status": "superseded",
-      "superseded_by": "EV-2026-07-19-002",
-      "superseded_at": "2026-09-18T08:27:44.963903"
+      "status": "pending"
     },
     {
       "id": "EV-2026-09-17-001",
@@ -1083,9 +928,7 @@
       "type": "git_hygiene",
       "title": "Git hygiene: 266 uncommitted changes",
       "detail": "Commit or review outstanding changes.",
-      "status": "superseded",
-      "superseded_by": "EV-2026-07-19-002",
-      "superseded_at": "2026-09-18T08:27:44.963903"
+      "status": "pending"
     },
     {
       "id": "EV-2026-09-18-001",
@@ -1094,14 +937,8 @@
       "title": "Pipeline zero-paper alert: API connectivity check",
       "detail": "Recent runs with zero new papers: 6",
       "status": "pending",
-      "last_seen": "2026-09-18T08:27:44.963903",
-      "occurrences": 1,
-      "observed_values": [
-        "API connectivity check"
-      ],
-      "first_seen": "EV-2026-09-18-",
-      "consolidated_at": "2026-09-18T08:27:44.963903",
-      "consolidated_note": "由 consolidate_evolution_queue.py 合并 1 条同类历史堆积（原因为旧实现每天生成新 id 导致去重失效）"
+      "last_seen": "2026-09-18T08:27:33.218840",
+      "occurrences": 2
     },
     {
       "id": "EV-2026-09-18-002",
@@ -1109,24 +946,8 @@
       "type": "git_hygiene",
       "title": "Git hygiene: 113 uncommitted changes",
       "detail": "Commit or review outstanding changes.",
-      "status": "superseded",
-      "superseded_by": "EV-2026-07-19-002",
-      "superseded_at": "2026-09-18T08:27:44.963903"
+      "status": "pending"
     }
   ],
-  "last_updated": "2026-09-18T08:27:44.963903",
-  "consolidated": {
-    "at": "2026-09-18T08:27:44.963903",
-    "by": "consolidate_evolution_queue.py",
-    "groups": {
-      "git_hygiene": {
-        "kept": "EV-2026-07-19-002",
-        "superseded": 51
-      },
-      "pipeline_fix": {
-        "kept": "EV-2026-09-18-001",
-        "superseded": 0
-      }
-    }
-  }
+  "last_updated": "2026-09-18T08:27:33.218840"
 }

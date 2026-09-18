@@ -132,27 +132,59 @@ def analyze_hypotheses():
 # Evolution queue analysis
 # ============================================================
 
-def analyze_evolution_queue():
-    """Read evolution queue and extract pending actions"""
+def analyze_evolution_queue(limit=8):
+    """读取进化队列中的 **pending** 条目，按真实优先级排序后返回 top-N。
+
+    修正三个已实测缺陷 (2026-09-18)：
+      1. 旧实现 `for item in items[:10]` 固定取数组**最旧的 10 条**，与优先级、
+         状态都无关 —— 于是每天都重播同一批 2026-07-19 的条目（"同一批建议
+         永远重播"的直接原因之一）。
+      2. 旧实现 `str(item)[:100]` 把 dict 直接字符串化，报告里因此出现被截断的
+         Python repr，形如 `{'id': 'EV-2026-07-19-001', 'priority': 'high', ...`。
+      3. 旧实现把每条硬编码为 `"priority": "MEDIUM"`，**丢掉条目自身的真实
+         priority**（输出的方括号标签与条目内文自相矛盾）。
+    """
     evo_file = META / "evolution_queue.json"
     if not evo_file.exists():
         return []
-    
+
     try:
         data = json.loads(evo_file.read_text(encoding='utf-8'))
         items = data.get("queue", data.get("items", []))
-    except:
+    except Exception:
         return []
-    
+
+    prio_rank = {"high": 0, "medium": 1, "low": 2}
+    pend = []
+    seen = set()
+    for item in items:
+        if not isinstance(item, dict):
+            continue
+        if str(item.get("status", "pending")).lower() not in ("pending", "open", ""):
+            continue
+        title = str(item.get("title") or item.get("summary") or "").strip()
+        etype = str(item.get("type") or "general")
+        key = (etype, title)
+        if not title or key in seen:      # 同类同题只报一次
+            continue
+        seen.add(key)
+        pend.append(item)
+
+    pend.sort(key=lambda i: (prio_rank.get(str(i.get("priority", "medium")).lower(), 1),
+                             str(i.get("first_seen") or i.get("created") or "")))
+
     recs = []
-    for item in items[:10]:
+    for item in pend[:limit]:
+        etype = str(item.get("type") or "general")
+        title = str(item.get("title") or item.get("summary") or "").strip()
+        occ = item.get("occurrences")
+        detail = str(item.get("detail") or "").strip()
         recs.append({
             "type": "evolution_item",
-            "item": str(item)[:100],
-            "priority": "MEDIUM",
-            "action": "Process evolution queue item"
+            "item": f"[{etype}] {title}" + (f" (出现 {occ} 次)" if occ else ""),
+            "priority": str(item.get("priority", "medium")).upper(),
+            "action": detail or "Process evolution queue item",
         })
-    
     return recs
 
 # ============================================================

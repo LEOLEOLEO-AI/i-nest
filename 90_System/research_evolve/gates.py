@@ -186,15 +186,34 @@ DOCMETA_RE = re.compile(r"\d[\d.,]*\s*(?:KB|MB|GB|TB|行|字|字符|页)\b", re.
 PROXIMITY = 30
 # 行首有序/无序列表标记：扫描前剥掉，避免 "1. Accuracy ..." 的序号被当成量值
 LISTMARK_RE = re.compile(r"^\s*(?:[-*+•]\s+|\d{1,3}[.、)]\s+)")
+# 数学公式片段：$...$ / $$...$$ 内部的数字是符号量，不是性能指标
+MATH_SPAN_RE = re.compile(r"\$\$.+?\$\$|\$.+?\$", re.S)
+# 交叉引用（式(16) / 表 3 / 图 2 / [R01] / Eq.(4) / Section 5）：
+# 其中数字是编号而非量值。实测误报来源之一正是 "按正文式（16）…结合成本项"。
+XREF_RE = re.compile(
+    r"(?:式|公式|表|图|附录|第)\s*[（(]?\s*\d{1,4}[A-Za-z]?\s*[）)]?\s*[章节]?"
+    r"|\[\s*[A-Za-z]?\d{1,3}\s*\]"
+    r"|\b(?:Eq|Eqs|Fig|Figs|Table|Section|Sec|Ref|Refs)\.?\s*\(?\d{1,3}\)?"
+    # 定理类环境编号（Remark 3 / Theorem 2.1 / 引理 4）：数字是编号，不是量值
+    r"|\b(?:Remark|Theorem|Thm|Lemma|Proposition|Corollary|Definition|Def|"
+    r"Assumption|Claim|Note|Step|Algorithm|Alg|Appendix|Equation)\s*\.?\s*\d{1,3}(?:\.\d{1,3})*"
+    r"|(?:定理|引理|推论|定义|假设|命题|性质|注|步骤|算法|附录)\s*\d{1,3}",
+    re.I,
+)
 
 
 def _metric_near_number(s: str) -> tuple[bool, str]:
-    """数字与指标名词在 PROXIMITY 字符窗口内共现则算论断，并返回命中的名词。"""
-    low = LISTMARK_RE.sub("", s).lower()
-    for m in NUM_RE.finditer(low):
+    """数字与指标名词在 PROXIMITY 字符窗口内共现则算论断，并返回命中的名词。
+
+    扫描前先剔除三类"数字但不是量值"的内容：行首列表标记、数学公式、交叉引用编号。
+    """
+    scan = MATH_SPAN_RE.sub(" ", s)
+    scan = XREF_RE.sub(" ", scan)
+    scan = LISTMARK_RE.sub("", scan).lower()
+    for m in NUM_RE.finditer(scan):
         lo = max(0, m.start() - PROXIMITY)
-        hi = min(len(low), m.end() + PROXIMITY)
-        window = low[lo:hi]
+        hi = min(len(scan), m.end() + PROXIMITY)
+        window = scan[lo:hi]
         for noun in METRIC_NOUNS_L:
             if noun in window:
                 return True, noun

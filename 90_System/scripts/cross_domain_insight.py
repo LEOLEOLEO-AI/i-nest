@@ -60,48 +60,85 @@ BRIDGE_PATTERNS = {
 # Keyword-based cross-domain discovery
 # ============================================================
 
+def _term_specificity(term, *doc_sets):
+    """术语特异性（逆文档频率式）：越少见的词越有区分度。
+
+    背景（2026-09-18 修复）：旧实现用 `matched_tcc[:5]` 取匹配概念，
+    而 matched_tcc 是按 concepts 目录的**文件顺序（≈字母序）**累积的，
+    于是每条桥反复列出同样的字母序靠前概念
+    （[[1024_Card_SuperNode]] / [[2_5D_3D_HeterogeneousIntegration]] /
+     [[2_5D_Interposer]]），"Strength" 也只是原始命中计数——
+    像 "topology"/"interconnect" 这种高频词能刷出 1212 的假强度。
+    这里改为按术语特异性加权排序，并按文档频率归一。
+    """
+    docs = [d for ds in doc_sets for d in ds]
+    if not docs:
+        return 1.0
+    n = sum(1 for t in docs if term.lower() in t.lower())
+    return 1.0 / (1.0 + n)
+
+
 def scan_concepts_for_bridges():
-    """Scan wiki concepts to find actual cross-domain bridges"""
+    """扫描 wiki 概念，按**术语特异性**排序找出真正的跨域桥。
+
+    与旧版的区别：
+      * 匹配概念按特异性得分排序，不再按目录字母序取前几个；
+      * strength 保留（= 两侧较小命中数）以兼容下游，但另给出
+        coverage（占本域概念比例）与 top 概念得分，使强度可复核；
+      * 输出 matched 概念时带上得分，便于人工判断是否真有相关性。
+    """
     concepts_dir = WIKI / "concepts"
     if not concepts_dir.exists():
         return []
-    
+
     tcc_texts = {}
     inest_texts = {}
-    
+
     for f in concepts_dir.glob("*.md"):
         content = f.read_text(encoding='utf-8')
         if "**Domain**: TCC" in content:
             tcc_texts[f.stem] = content
         elif "**Domain**: iNEST" in content:
             inest_texts[f.stem] = content
-    
+
     bridged = []
     for bridge_name, patterns in BRIDGE_PATTERNS.items():
-        tcc_hits = 0
-        inest_hits = 0
-        matched_tcc = []
-        matched_inest = []
-        
-        for name, text in tcc_texts.items():
-            if any(t.lower() in text.lower() for t in patterns["tcc_terms"]):
-                tcc_hits += 1
-                matched_tcc.append(name)
-        
-        for name, text in inest_texts.items():
-            if any(t.lower() in text.lower() for t in patterns["inest_terms"]):
-                inest_hits += 1
-                matched_inest.append(name)
-        
-        if tcc_hits > 0 and inest_hits > 0:
+        def _score_side(texts):
+            scored = []
+            for name, text in texts.items():
+                low = text.lower()
+                hits = [t for t in patterns.get("tcc_terms", []) +
+                        patterns.get("inest_terms", []) if t.lower() in low]
+                # 只用本侧的词表计算（TCC 侧用 tcc_terms，iNEST 侧用 inest_terms）
+                hits = [t for t in hits if t in
+                        (patterns.get("tcc_terms", []) if texts is tcc_texts
+                         else patterns.get("inest_terms", []))]
+                if hits:
+                    s = sum(_term_specificity(t, tcc_texts, inest_texts) for t in hits)
+                    scored.append((round(s, 6), name, hits))
+            scored.sort(key=lambda x: -x[0])
+            return scored
+
+        tcc_scored = _score_side(tcc_texts)
+        inest_scored = _score_side(inest_texts)
+
+        if tcc_scored and inest_scored:
             bridged.append({
                 "bridge": bridge_name,
                 "insight": patterns["insight"],
-                "tcc_concepts": matched_tcc[:5],
-                "inest_concepts": matched_inest[:5],
-                "strength": min(tcc_hits, inest_hits)
+                "tcc_concepts": [n for _, n, _ in tcc_scored[:5]],
+                "inest_concepts": [n for _, n, _ in inest_scored[:5]],
+                "tcc_top_scores": [s for s, _, _ in tcc_scored[:5]],
+                "inest_top_scores": [s for s, _, _ in inest_scored[:5]],
+                "tcc_matched": len(tcc_scored),
+                "inest_matched": len(inest_scored),
+                "strength": min(len(tcc_scored), len(inest_scored)),
+                "coverage": round(min(
+                    len(tcc_scored) / max(len(tcc_texts), 1),
+                    len(inest_scored) / max(len(inest_texts), 1)), 4),
+                "ranking": "term-specificity-weighted (非字母序)",
             })
-    
+
     bridged.sort(key=lambda x: x["strength"], reverse=True)
     return bridged
 
@@ -159,14 +196,23 @@ def main():
 
 **Generated**: {TODAY}
 
+> **口径说明（2026-09-18 修订）**：以下每条桥的匹配概念按**术语特异性**
+> （逆文档频率式）排序，不再按概念目录的字母序取前几个——旧实现因此让
+> 每条桥都反复列出相同的字母序靠前概念。
+> `Strength` = 两侧匹配概念数的较小者，是**语料频次量级**而非相关性度量
+> （高频词如 topology/interconnect 会把它推高），故同时给出 `Coverage`
+> （占本域概念比例）与 top 概念的特异性得分，供复核。
+
 ## Active Bridges ({len(bridges)})
 """
     for b in bridges:
         report += f"""
-### {b['bridge']} (Strength: {b['strength']})
+### {b['bridge']} (Strength: {b['strength']} · Coverage: {b.get('coverage', 0):.4f})
 {b['insight']}
-- TCC concepts: {', '.join(f'[[{c}]]' for c in b['tcc_concepts'][:3])}
-- iNEST concepts: {', '.join(f'[[{c}]]' for c in b['inest_concepts'][:3])}
+- 匹配规模：TCC {b.get('tcc_matched','?')} 个 / iNEST {b.get('inest_matched','?')} 个
+- TCC concepts（按特异性）: {', '.join(f'[[{c}]]' for c in b['tcc_concepts'][:3])}
+- iNEST concepts（按特异性）: {', '.join(f'[[{c}]]' for c in b['inest_concepts'][:3])}
+- 排序依据: {b.get('ranking','')}
 """
     
     report += f"""

@@ -515,6 +515,32 @@ def main():
     else:
         band = "极稀疏"
 
+    # ---- Step 4c: 区分"真概念"与"自动占位" (2026-09-18 新增) ----
+    # 实测: 6123 个概念文件里 5940 个 (97%) 带 auto:true, 只有 183 个是
+    # 非占位的真概念。也就是说**链接图看着密，是因为 97% 的节点是空占位**
+    # （占位是按"某处 [[链接]] 指向了不存在的概念"生成的，所以按构造必有入链）。
+    # 这不是靠看一个总密度能发现的，必须把两类分开报，否则"密度"毫无意义。
+    stub_names = set()
+    real_names = set()
+    for n in concept_names:
+        head = ""
+        try:
+            head = (CPT / f"{n}.md").read_text(encoding="utf-8", errors="ignore")[:400]
+        except Exception:
+            pass
+        (stub_names if "auto: true" in head else real_names).add(n)
+    n_real = len(real_names)
+    # 注意：必须用**两端都是真概念**的边数(edges_real_internal)来算密度。
+    # 若误用 edges_real（来源可以是任意笔记，含占位与文章），分子会超过
+    # n_real×(n_real-1)，算出 >1 的"密度"——2026-09-18 首版即犯了此错
+    # (报告出 1.86 的密度)。密度必须落在 [0,1]。
+    max_real = n_real * (n_real - 1)
+    # 真概念之间的边：目标与来源都在 real_names 内
+    edges_real_internal = sum(
+        1 for n in real_names for s in incoming.get(n, ()) if s in real_names)
+    density_real = (edges_real_internal / max_real) if max_real > 0 else 0.0
+    stub_ratio = (len(stub_names) / n_concepts) if n_concepts else 0.0
+
     # 冻结守卫状态 (由 90_System/research_evolve/state/freeze.json 维护)
     freeze_note = "(未接入)"
     try:
@@ -538,6 +564,15 @@ def main():
 - **Graph Density (directed)**: {density:.6f} ({band})
   - 口径: 指向概念的边数 {edges_in} / N×(N-1) = {max_edges}
   - 有链接概念占比: {linked_ratio*100:.1f}%  ·  孤儿占比: {orphan_ratio*100:.1f}%
+
+## 概念构成（真概念 vs 自动占位）⚠️
+- **真概念（非占位）**: {n_real}
+- **自动占位 `auto: true`**: {len(stub_names)}  （占 {stub_ratio*100:.1f}%）
+- **仅真概念之间的密度**: {density_real:.6f}
+  - 口径: 真概念内部边数 {edges_real_internal} / {n_real}×({n_real}-1) = {max_real}
+- 说明: 占位笔记由 `self_evolve.step_grow_missing_concepts` 按「某处 `[[链接]]`
+  指向了不存在的概念」生成，**按构造必然有入链**——因此上面的总密度会被
+  大量空占位抬高。判断知识库质量请看**真概念**那一行。
 
 ## 冻结守卫
 - {freeze_note}

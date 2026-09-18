@@ -1,0 +1,11 @@
+{
+  "generated": "2026-09-18T08:29:18.719104",
+  "total": 6123,
+  "buckets": {
+    "stub_linked": 5940,
+    "stub_orphan": 0,
+    "real_orphan": 0,
+    "real_linked": 183
+  },
+  "title_like_in_stubs": 3104
+}

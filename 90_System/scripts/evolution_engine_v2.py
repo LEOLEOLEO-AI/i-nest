@@ -1,4 +1,4 @@
-﻿#!/usr/bin/env python3
+#!/usr/bin/env python3
 """
 Self-Evolution Engine v1.0
 - Evidence Ledger: tracks key findings with sources
@@ -159,14 +159,40 @@ def update_evolution_queue():
             "status": "pending"
         })
     
-    existing_ids = {i["id"] for i in queue.get("items", [])}
+    # ---- 去重语义修正 (2026-09-18) --------------------------------------
+    # 旧实现: id = f"EV-{TODAY}-002"，而 id 每天都不同，于是
+    #   `if item["id"] not in existing_ids` **永远成立** —— 每天追加一条新的
+    #   "Git hygiene" 条目。实测: 2026-07-19 起累积 51 条，再由
+    #   task_recommender 固定取最旧 10 条反复上报，成为"同一批建议永远重播"的根因。
+    #   （每类条目数 ≈ 天数，正是这个 bug 的指纹。）
+    # 新语义: 同一 type 只保留**一条 pending**；重复出现时就地更新
+    #   last_seen / occurrences，而不是新增。把"只增日志"改回"待办清单"。
+    now_iso = datetime.now().isoformat()
+    open_by_type = {}
+    for existing in queue.get("items", []):
+        if existing.get("status") == "pending" and existing.get("type"):
+            open_by_type.setdefault(existing["type"], existing)   # 保留最早一条
+
     for item in items:
-        if item["id"] not in existing_ids:
+        prev = open_by_type.get(item["type"])
+        if prev is not None:
+            prev["title"] = item["title"]
+            prev["detail"] = item["detail"]
+            prev["priority"] = item["priority"]
+            prev["last_seen"] = now_iso
+            prev["occurrences"] = int(prev.get("occurrences", 1)) + 1
+        else:
+            item["first_seen"] = now_iso
+            item["last_seen"] = now_iso
+            item["occurrences"] = 1
             queue.setdefault("items", []).append(item)
-    
-    queue["last_updated"] = datetime.now().isoformat()
+            open_by_type[item["type"]] = item
+
+    pending_n = sum(1 for i in queue.get("items", []) if i.get("status") == "pending")
+    queue["last_updated"] = now_iso
     save_json(EVOLUTION_FILE, queue)
-    print(f"[Evolution] {len(items)} new issues queued (total: {len(queue.get('items', []))})")
+    print(f"[Evolution] {len(items)} detected issue(s) merged "
+          f"(pending now: {pending_n}, total: {len(queue.get('items', []))})")
     return queue
 
 def run_all():
