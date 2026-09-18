@@ -289,20 +289,54 @@ python -m research_evolve.gates --register <key> "<title>" "doi:10.1038/s41467-0
 | 12 | **伪造指标修正** | `wiki_grow.py`：`Knowledge Graph Density` 原按**概念数量**分档（6123 个时永远 `High`）→ 改为真实有向图密度，并**区分真概念与自动占位** |
 | 13 | **scripts 纳入版本控制** | 新建 `D:\Obsidian` 独立 git 仓库（本机回退，暂不配远端）。纳入 AGENTS.md、`.codex/`、`scripts/`、`.agents/`、`docs/` 共 **201 文件 / 1.52 MB**；排除 `vault/`(独立仓库)、`_backups/`、`Agent/`、`.venv/`、浏览器 profile 缓存、全部 `.env*` 与二进制。提交 `d09a111` |
 
-### 5.2 待网络恢复（方案 A 的第 5 步未完成）
+### 5.2 方案 A 第 5 步：推送 —— ✅ 已完成（11:05）
 
-**实测阻塞**：到 GitHub 的 **SSH 全部入口均不可达**（`github.com:22`、`ssh.github.com:443`、`ssh.github.com:22`，两个 IP `20.205.243.166` / `20.205.243.160` 均超时或 `Connection reset`）。TCP 可连但 SSH 握手超时，符合链路层干扰特征。`vpn_fix.log` 显示 `No VPN connected`；本机无 HTTP/SOCKS 代理监听；Windows 凭据管理器中只有 gitee 凭据，故 HTTPS 通道亦不可用（需 Token）。
+**结果**（2026-09-18 11:05 实测）：
 
-> 注：08:18 那次"成功推送备份分支"之所以成功，是因为目标提交**已存在于远端**，属**仅更新引用**、几乎不传数据。真正的 161 MB 批量传输从未成功过；此前两次尝试分别以 `Broken pipe` / `remote end hung up` 中断。
+```
+阶段1  git push github HEAD:refs/heads/local-main-20260918   → exit 0，39.8s
+       remote: Resolving deltas: 100% (107075/107075)
+阶段2  git push github HEAD:refs/heads/main --force-with-lease → exit 0，6.0s
+       + 877c4aa0f...d8bc7dc2f HEAD -> main (forced update)
+```
 
-**已就位的解法**（`scripts/git_divergence_fix.ps1` + 计划任务 `iNEST_Git_Divergence_Push`，每 2 小时自动重试）：
+**验证**：
 
-- **两阶段**：先把对象批量传到临时分支 `local-main-20260918`，成功后再把 `main` 指向它——此时**几乎不传数据**，是原子引用更新，中途失败风险极低；
-- **守卫 0（幂等）**：`merge-base` 非空即立即退出 → 成功后再跑是空操作，不会反复强推；
-- **守卫 1（安全）**：强推 `main` 前确认远端已存在 `backup-remote-main-20260918`，否则拒绝；
-- **只用 `--force-with-lease`**，绝不用裸 `--force`；
-- 退避重试，全程记日志；网络恢复后会自动完成。
-- 撤销：`Unregister-ScheduledTask -TaskName iNEST_Git_Divergence_Push -Confirm:$false`
+| 检查 | 结果 |
+|---|---|
+| `git merge-base HEAD github/main` | `d8bc7dc2f…`（非空）→ **已同源** |
+| 本地独有 / 落后远端 | **0 / 0** |
+| `git push github main` | `Everything up-to-date` |
+| 远端历史备份分支 | `backup-remote-main-20260918` = 877c4aa0f，**721 提交完整保留** |
+| 看门狗 `github_divergence` | **`OK : 与 github/main 同源; 本地独有 0 / 落后 0`** |
+| 临时中转分支 | 已删除（内容已并入 main） |
+| 重试任务 | 已 `Disable`（定义保留，随时可重启） |
+
+**过程记录（值得留档的失败模式）**：本次推送前后失败 **6 次**，耗时约 2.5 小时才成功。
+失败不是一次性的——到 GitHub 的 SSH 呈现**秒级抖动**：
+- 08:36:25 手动 `git ls-remote` 成功 → 08:36:50 起连续 8 次失败；
+- 08:44 前后连续 9 次成功（含两种调用方式）→ 随后又失败；
+- 11:05 再次成功 → 39.8s 传完 107075 个 delta。
+
+期间我曾两次提出**错误假设并自行证伪**，一并记录：
+1. 怀疑是脚本里 `GIT_SSH_COMMAND` 的 `IPQoS=throughput` 等选项导致 → A/B 对照测试（裸命令 / 带选项 / 仅 keepalive）**三种全部成功**，假设否定；
+2. 怀疑后台作业环境有问题 → 后台 `ls-remote` 连试 4 次**全部成功**，假设否定。
+结论：就是链路本身在抖动，与选项、调用方式、前后台无关。这也说明
+**"某次成功/失败"不足以推断环境差异，必须做对照**。
+
+**当时的规避设计（仍然保留、有价值）**：
+- **两阶段**：先把 161 MB 对象批量传到临时分支，成功后再把 `main` 指向它——
+  实测阶段 2 只花 **6 秒**且几乎不传数据，把"易失败的大传输"与"权威引用更新"彻底分离。
+  若一次性强推 main，中途断线会反复重来（此前两次即 `Broken pipe` / `remote end hung up`）。
+- **守卫 0（幂等）**：`merge-base` 非空即退出；
+- **守卫 1（安全）**：强推前确认远端存在历史备份分支，否则拒绝；
+- 只用 `--force-with-lease`，**全程未使用裸 `--force`**。
+
+### 5.2.1 遗留（非本轮能解决）
+
+- `working_tree_backlog = CRIT : 6003 pending changes` —— 这是 `self_evolve` 每日
+  6000+ 文件churn 的产物，非本轮改动；21:00 同步恢复后应自行收敛。
+- `daily_sync = WARN` —— 上次成功同步停在 2026-09-09；**分叉已解决，今晚 21:00 应恢复**。
 
 ### 5.3 一次被实测推翻的设计（重要，须记录）
 
