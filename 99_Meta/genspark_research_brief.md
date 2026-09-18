@@ -1,11 +1,11 @@
 ---
-title: iNEST+TCC Research Brief - 2026-09-17
-date: 2026-09-17
+title: iNEST+TCC Research Brief - 2026-09-18
+date: 2026-09-18
 type: research-brief
 target: genspark
 ---
 
-# iNEST + TCC Research Brief - 2026-09-17
+# iNEST + TCC Research Brief - 2026-09-18
 
 > For Genspark deep analysis. Contains actionable research context.
 
@@ -33,33 +33,33 @@ target: genspark
 
 ## 4. Inbox Highlights
 
-- [2026-09-17] **2026-08-16-2608.09038v1** (03_Genspark)
-- [2026-09-16] **清微智能4096芯片Mesh超节点深度拆解：用对称内存打破万卡集群通信墙** (01_GetNotes)
-- [2026-09-16] **果蝇大脑连接组 MaleCNS v1.0 深度解析：把真实脑神经做成神经网络** (01_GetNotes)
-- [2026-09-16] **晶圆级计算架构深度解析：从技术路线到产业落地** (01_GetNotes)
-- [2026-09-16] **思科2026广域网AI报告解读：Agent时代，网络要从_服务人_变_服务任务_** (01_GetNotes)
-- [2026-09-16] **可重构处理器硬件架构拆解：CGRA为什么和GPU不一样？** (01_GetNotes)
-- [2026-09-16] **OnnxSlim 深度解析：让AI模型部署又快又轻的纯Python优化工具** (01_GetNotes)
-- [2026-09-16] **CGRA深度解析：后摩尔时代的算力架构革命** (01_GetNotes)
+- [2026-09-16] **2026-09-16_arXiv_Partial projected ensembles reveal slow tilt-constrained inf** (_pipeline_insights)
+- [2026-09-16] **2026-09-16_arXiv_Learning to Solve Hard Problems in RL for LLMs by Never Givi** (_pipeline_insights)
+- [2026-09-16] **2026-09-16_arXiv_Self-Emergence Agent ArchitectureBehavior-Inertia HMM, Refle** (_pipeline_insights)
+- [2026-09-16] **2026-09-16_arXiv_Scaled Hippocampus-inspired Neural Networks on Neuromorphic ** (_pipeline_insights)
+- [2026-09-16] **2026-09-16_arXiv_Topology-Aware Congestion Pricing Demand Robust Routing usin** (_pipeline_insights)
+- [2026-09-16] **2026-09-16_arXiv_Budgeted Express-Mesh Traffic-Aware Link Placement and Deadl** (_pipeline_insights)
+- [2026-09-16] **2026-09-16_arXiv_A Unified Interconnection Network for Chiplet-Based Scaling ** (_pipeline_insights)
+- [2026-09-16] **2026-09-16_arXiv_Stitch-Free, Diamond-Scribed Silicon Nitride Photonic Integr** (_pipeline_insights)
 
 ## 5. Knowledge Graph Hotspots
 
-Total notes: 13067
-Graph nodes: 12997 | edges: 269487
+Total notes: 13157
+Graph nodes: 13114 | edges: 278312
 
 Top connected topics:
-- **backlinks** (degree=7454)
-- **index** (degree=6039)
+- **backlinks** (degree=7560)
+- **index** (degree=6123)
 - **00_iNEST_全景知识图谱** (degree=1182)
 - **神经科学、AGI与神经形态计算的融合：统一研究范式与挑战** (degree=395)
 - **TCC_iNEST_成果全景** (degree=291)
 - **00_研究资料导航** (degree=194)
 - **10_Own_Research_Diagnosis** (degree=103)
-- **2025年AI与HPC网络加速芯片技术对比** (degree=85)
+- **Residual_Connection_Removal** (degree=86)
 
 ## 6. Innovation Brief (latest)
 
 (Run innovation_engine.py to generate)
 
 ---
-*Research brief auto-generated 2026-09-17 07:28*
+*Research brief auto-generated 2026-09-18 06:37*

@@ -395,6 +395,51 @@ python -m research_evolve.gates --register <key> "<title>" "doi:10.1038/s41467-0
 
 ---
 
+### 5.6 收尾验证中发现并修掉的三个自身缺陷
+
+推完之后做端到端验证，又抓出**我自己**引入的三个缺陷：
+
+1. **改输出却没改解析方**。我把 `cross_domain_insight.py` 的报告格式改成
+   `(Strength: N · Coverage: X)`，却没有同步更新 `harvest.py` 的正则 →
+   下一轮直接"收集 跨域桥: **0 条**"。教训：**改输出格式必须同时改解析方**，
+   否则是静默丢数据（不报错、不给红，只是内容凭空消失）。
+2. **`superseded` 未排除**。`harvest.py` 跳过了 `done/closed/resolved/dismissed`，
+   唯独漏了 `superseded` → `consolidate_evolution_queue.py` 已退休的 51 条
+   又被当作活跃候选收了回来。
+3. **注册表与队列未对齐**。队列层面退休了 51 条，但候选注册表里更早登记的
+   对应候选仍是 `open` → open 池虚高。新增 `--reconcile-queue` 按
+   "队列 id → 状态"对齐，只关闭已退休者。
+
+### 5.7 端到端验证（全部实测 exit=0）
+
+| 验证项 | 结果 |
+|---|---|
+| `evolution_engine_v2.py` 连跑两次 | 总条目**恒为 105**；`git_hygiene occurrences` 由 52→**53** —— 证明是"就地累加"而非"追加新条目"，根因确已除掉 |
+| `gitee_sync.ps1 -StatusOnly` | **exit=0，未再抛分叉 FATAL**（该 FATAL 自 2026-09-09 起每天出现两次）。报告 `Public candidates: 61; excluded changes: 5944` → **同步链路确已解锁** |
+| `state_generator.py` / `research_publisher.py` / `home_v2_generator.py` | 均 exit=0（我的队列改动未破坏下游消费者） |
+| `wiki_grow.py` | 密度自检通过：总密度 0.0071、真概念密度 0.2703，均在 [0,1] 内 |
+| `research_evolve` 第 9 轮 | opened=0 / closed=2 / open=78；门禁仅剩 1 项（真实标注缺失，非误报） |
+| 远端同步 | `local = remote = b0c38cdc1`，本地独有 0 / 落后 0 |
+
+### 5.8 人工裁决队列已清干净
+
+清理后队列里只剩**真实的、高分的、与框架相关的**候选：
+
+| 候选 | 分数 | 已挂起 |
+|---|---|---|
+| H7 NoC 事件驱动 spike 路由 | 0.8806 | 25 天 |
+| MTIA300 通信/计算双平面分离 | 0.8806 | 23 天 |
+| H10 连接组启发晶圆级 NoC 拓扑 | 0.8806 | 20 天 |
+| motif 动态重配置 | 0.8806 | 20 天 |
+| Hala Point 借鉴 | 0.8806 | 19 天 |
+| P-理论 元拓扑生成集 | 0.8806 | 18 天 |
+| H6 Chiplet+忆阻器存算一体 | 0.8194 | 25 天 |
+| H8 晶圆级百万神经元仿真 | 0.8194 | 25 天 |
+
+对比：清理前 `wiki/task_recommendations.md` 每天列出 18 条，其中 10 条是
+2026-07-19 的 `Git hygiene` 旧账；现在呈交的是 **8 条真正等你拍板的研究方向**。
+裁决命令：`python -m research_evolve.evolve --decide <id> accepted|rejected|deferred "理由"`
+
 ## 六、第二轮的诚实声明
 
 - 第五节所有数字均为 2026-09-18 08:00–08:35 实测（扫描输出 / `git` 命令返回）。
