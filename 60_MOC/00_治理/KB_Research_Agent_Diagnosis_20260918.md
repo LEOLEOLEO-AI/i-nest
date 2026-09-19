@@ -440,6 +440,94 @@ python -m research_evolve.gates --register <key> "<title>" "doi:10.1038/s41467-0
 2026-07-19 的 `Git hygiene` 旧账；现在呈交的是 **8 条真正等你拍板的研究方向**。
 裁决命令：`python -m research_evolve.evolve --decide <id> accepted|rejected|deferred "理由"`
 
+### 5.9 第三轮（2026-09-19）：按用户四项指令执行
+
+用户指令：① vault 是知识库目录，其他地方的重复文件均可删除；② 概念债先清除，等正确机制验证后再生成；③ scripts 与 AGENTS.md 纳入版本控制；④ 保留那八个方向。
+
+#### ① 清理 vault 之外的重复文件 —— 一次被实测推翻的假设
+
+初版按"**相对路径**是否存在于候选目录"判断重复，得到 0%~31% 的重叠率，据此以为"几乎不重复"。
+**这个判据是错的**：vault 多次重组（`10_Inbox→00_Inbox`、`30_TCC/32_Tech→32_Technology` …），
+各历史快照的**目录结构不同**，路径不同 ≠ 内容不同，**更 ≠ 可以删**——里面可能有独有内容。
+
+改为**内容级比对**（大小分桶 + sha1），实测：
+
+| | 结果 |
+|---|---|
+| vault 内容索引 | 34777 文件 / 1374 MB |
+| 外部扫描 | 40808 文件 |
+| **内容重复（可删）** | **12968 个 / 1058.5 MB** |
+| 独有（**一律保留**） | 27840 个 |
+
+已删除 12968 个内容重复文件（失败 0）。空间回收：`_backups` 4531→3866 MB、
+`_external_archive` 1574→1331 MB、`.rescue_clean` 311→162 MB。
+清单 `_backups/content_dedup_20260918/duplicates.json`（记录每个被删文件）。
+工具已纳入版本控制：`scripts/content_dedup.py`。
+
+> 注：`Agent/`（2.9 GB）与 `tmp/`（884 MB）经内容比对**基本无重复**，故未动——
+> 它们不是 vault 的副本，删它们属于删独有内容，超出"删除重复文件"的授权范围。
+
+#### ② 清空概念债 —— 先停机制，再删数据
+
+**关键前置**：不清掉生成机制就删数据，下一轮自进化会按同样的链接**重建**。
+（实测佐证：清理前概念数已从 6123 涨到 6546——9-19 凌晨的自进化又加了约 400 个。）
+
+- 新增 `state/concept_stub_policy.json`（`auto_stub_generation=false`，含停用依据与重启方法）
+- `self_evolve.step_grow_missing_concepts` 优先读该策略，停用时直接返回（实测返回 `[]`）
+- `clear_concept_debt.py` 双重前置检查：策略仍为 true → 拒绝；`self_evolve` 在跑 → 拒绝
+
+**单写者让路**：首次执行时报 `FileNotFoundError: 156QubitScale.md`——因为 `self_evolve`
+正在**并发写** `wiki/concepts`（20 分钟写 384 个文件）。加入锁守卫后，
+由 `wait_then_clear_concepts.py` 等它让出（等了 20 分钟）再执行。
+
+| 指标 | 清理前 | 清理后 |
+|---|---|---|
+| wiki/concepts 文件数 | 6546 | **183** |
+| 自动占位占比 | 97.2% | **0%** |
+| Orphan Concepts | 1794 | **11** |
+| Graph Density (directed) | 0.0071（稀疏） | **0.3736（密）** |
+| `wiki_grow.py` 耗时 | 约 2.5 分钟 | **约 3 秒** |
+
+密度从 0.0071 变 0.3736 不是"图变好了"，而是**分母终于只由真概念构成**——
+原先 0.0071 是被大量空占位稀释的结果，那个数本来就没有意义。
+
+备份 `concept_stubs_backup.tar.gz`（2.8 MB，6363 个文件）+ `MANIFEST.json`（逐文件路径与字节数）；
+回滚：`tar -xzf concept_stubs_backup.tar.gz -C D:\Obsidian\vault`。
+
+**已知副作用（用户明确接受）**：删除后产生 2507 个断链目标 / 5589 处引用——
+这些占位本就是为满足"某处 `[[链接]]` 指向不存在的概念"而生成的。待机制修好后再生成。
+
+#### ③ scripts 与 AGENTS.md 纳入版本控制
+
+`D:\Obsidian` 独立仓库（本机回退，暂不配远端）。本轮收口：
+
+- 排除 12 个**运行时**日志/状态文件（`git rm --cached`，磁盘保留）：
+  起因是 `!scripts/**/*.json` 把 `getnotes_state.json`、`sync_state.json` 等
+  每次运行都变的文件也放进了版本控制，导致每次提交都有噪声 diff。
+  **配置要版本化（`llm_config.json`/`model_switch.json` 保留），状态不要。**
+- 跟踪文件 201 → **189**；`AGENTS.md`、`kb_health_watchdog.ps1`、`git_divergence_fix.ps1`、
+  `research_evolve_daily.ps1`、`.codex/` 治理契约均在库中。
+- 如实收录**并行会话**对 `gitee_sync.ps1` 的修正（把 `wiki/`、`99_Meta/` 加入同步白名单，
+  理由是它们长期不在白名单导致积压）。非本次改动，已在提交信息中注明。
+
+#### ④ 保留八个方向
+
+已登记为 `accepted`（连同先前的 H5 共 9 条）：H6 / H7 / H8 / H10 /
+MTIA300 通信双平面 / motif 动态重配置 / Hala Point 借鉴 / P-理论元拓扑生成集。open 池 78 → 70。
+
+#### 5.10 看门狗从"假绿"到"如实报"的完整闭环
+
+| 检查项 | 修复前 | 现在 |
+|---|---|---|
+| `github_divergence` | （无此检查） | **OK** 同源 0/0 |
+| `daily_sync` | WARN — 自 09-09 起 10 天未完成 | **OK — last sync completed 0.2h ago** |
+| `working_tree_backlog` | OK（95 项也报 OK，阈值过松） | CRIT 1578（**如实报**，已从 5986 下降） |
+| `self_evolve_outcome` | （无此检查） | WARN — 门禁 1 项真实标注缺失 |
+| `scheduled_tasks` | OK（漏检 `iNEST_Self_Evolve`） | OK + 注明依设计禁用原因 |
+
+**同步链路恢复**是第三轮最实的收益：10:38 与 10:51 出现两个 `sync:` 提交并成功推送，
+vault 与 GitHub 保持 0/0 同源——这是它自 2026-09-09 以来第一次真正跑通。
+
 ## 六、第二轮的诚实声明
 
 - 第五节所有数字均为 2026-09-18 08:00–08:35 实测（扫描输出 / `git` 命令返回）。
