@@ -3873,6 +3873,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Scientific Reports)
+  updated: '2026-09-19'
 - key: lurieCorticalTimescalesModular2023
   title: Cortical timescales and the modular organization of structural and functional
     brain networks
@@ -3880,12 +3881,14 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:preprint
+  updated: '2026-09-19'
 - key: wuDevelopmentBrainNetwork2024
   title: Development of the brain network control theory and its implications
   identifier: doi:10.1093/psyrad/kkae028
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Psychoradiology)
+  updated: '2026-09-19'
 - key: finziEntropyEpiplexityRethinking2026
   title: 'From Entropy to Epiplexity: Rethinking Information for Computationally Bounded
     Intelligence'
@@ -3893,6 +3896,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:preprint
+  updated: '2026-09-19'
 - key: yanHSG12MLargeScaleBenchmark2025
   title: 'HSG-12M: A Large-Scale Benchmark of Spatial Multigraphs from the Energy
     Spectra of Non-Hermitian Crystals'
@@ -3900,6 +3904,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:preprint
+  updated: '2026-09-19'
 - key: leakekidaneRuntimeReconfigurableNetworkOnChip2018
   title: 'Run-time Reconfigurable Network-On-Chip: A Survey'
   identifier: doi:10.1109/ssd.2018.8570678
@@ -3907,24 +3912,28 @@ works:
   added: '2026-09-19'
   source: zotero:conferencePaper (2018 15th International Multi-Conference on Systems,
     Signals &amp; Devices (SSD))
+  updated: '2026-09-19'
 - key: vandenheuvelInvestigatingMethodologicalFoundation2026
   title: Investigating the methodological foundation of lesion network mapping
   identifier: doi:10.1038/s41593-025-02196-7
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Nature Neuroscience)
+  updated: '2026-09-19'
 - key: fraigniaudTopologyLocalComputing2024a
   title: The topology of local computing in networks
   identifier: doi:10.1007/s41468-024-00185-6
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Journal of Applied and Computational Topology)
+  updated: '2026-09-19'
 - key: hengenCriticalityUnifiedSetpoint2025
   title: Is criticality a unified setpoint of brain function?
   identifier: doi:10.1016/j.neuron.2025.05.020
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Neuron)
+  updated: '2026-09-19'
 - key: prabhakarSambaNovaSN40LScaling2024
   title: 'SambaNova SN40L: Scaling the AI Memory Wall with Dataflow and Composition
     of Experts'
@@ -3932,6 +3941,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:preprint
+  updated: '2026-09-19'
 - key: schmidtKuramotoModelSimulation2015
   title: Kuramoto model simulation of neural hubs and dynamic synchrony in the human
     cerebral connectome
@@ -3939,12 +3949,14 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (BMC Neuroscience)
+  updated: '2026-09-19'
 - key: wuLearningGeodesicsGeometric2025
   title: Learning Geodesics of Geometric Shape Deformations From Images
   identifier: doi:10.59275/j.melba.2025-f9f4
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Machine Learning for Biomedical Imaging)
+  updated: '2026-09-19'
 - key: baeMixtureofRecursionsLearningDynamic2025
   title: 'Mixture-of-Recursions: Learning Dynamic Recursive Depths for Adaptive Token-Level
     Computation'
@@ -3953,6 +3965,7 @@ works:
   added: '2026-09-19'
   source: zotero:conferencePaper (Advances in Neural Information Processing Systems
     38)
+  updated: '2026-09-19'
 - key: horowitz11ComputingsEnergy2014
   title: 1.1 Computing's energy problem (and what we can do about it)
   identifier: doi:10.1109/isscc.2014.6757323
@@ -3960,12 +3973,14 @@ works:
   added: '2026-09-19'
   source: zotero:conferencePaper (2014 IEEE International Solid-State Circuits Conference
     Digest of Technical Papers (ISSCC))
+  updated: '2026-09-19'
 - key: farooqNetworkCurvatureHallmark2019
   title: Network curvature as a hallmark of brain structural connectivity
   identifier: doi:10.1038/s41467-019-12915-x
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Nature Communications)
+  updated: '2026-09-19'
 - key: wonTACOSTopologyAwareCollective2023
   title: 'TACOS: Topology-Aware Collective Algorithm Synthesizer for Distributed Machine
     Learning'
@@ -3973,6 +3988,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:preprint
+  updated: '2026-09-19'
 - key: kazemiPhaseSynchronizationMeasure2022
   title: Phase synchronization and measure of criticality in a network of neural mass
     models
@@ -3980,6 +3996,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Scientific Reports)
+  updated: '2026-09-19'
 - key: hajizadaOnlineContinualLearning2025
   title: Online Continual Learning on Intel Loihi 2 via a Co-designed Spiking Neural
     Network
@@ -3987,12 +4004,14 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:preprint
+  updated: '2026-09-19'
 - key: fronczakScalingTheoryFractal2024
   title: Scaling theory of fractal complex networks
   identifier: doi:10.1038/s41598-024-59765-2
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Scientific Reports)
+  updated: '2026-09-19'
 - key: gargPersonalizedSpikingNeural2026
   title: Personalized spiking neural networks with ferroelectric synapses for EEG
     signal processing
@@ -4000,12 +4019,14 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (APL Machine Learning)
+  updated: '2026-09-19'
 - key: zamora-lopezSizingComplexNetworks2019
   title: Sizing complex networks
   identifier: doi:10.1038/s42005-019-0239-0
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Communications Physics)
+  updated: '2026-09-19'
 - key: oreilly-shahNeuralManifoldsCrystallized2026
   title: 'Neural Manifolds as Crystallized Embeddings: A Synthesis of the Free Energy
     Principle, Generalized Synchronization, and Hebbian Plasticity'
@@ -4013,6 +4034,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:preprint
+  updated: '2026-09-19'
 - key: mullerCriticalDynamicsPredicts2025a
   title: Critical dynamics predicts cognitive performance and provides a common framework
     for heterogeneous mechanisms impacting cognition
@@ -4020,6 +4042,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Proceedings of the National Academy of Sciences)
+  updated: '2026-09-19'
 - key: hajizadaCLANEContinualLearning2026
   title: 'CLANE: Continual Learning of Actions on Neuromorphic Hardware from Event
     Cameras'
@@ -4027,6 +4050,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:preprint
+  updated: '2026-09-19'
 - key: rajReconfigurableMultistateMRAM2026
   title: Reconfigurable Multistate MRAM Synapses with Vortex STNO based Neurons for
     Scalable In-Memory Convolutional Neural Networks
@@ -4034,6 +4058,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:preprint
+  updated: '2026-09-19'
 - key: quCompactEnergyEfficientMemristive2026
   title: Compact and Energy-Efficient Memristive Spiking Neuromorphic Accelerator
     for Bio-inspired Interception Tasks
@@ -4041,12 +4066,14 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:preprint
+  updated: '2026-09-19'
 - key: berettaLatentGeometryEmerging2025
   title: Latent geometry emerging from network-driven processes
   identifier: doi:10.1038/s44260-025-00063-x
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (npj Complexity)
+  updated: '2026-09-19'
 - key: quMemristorBasedSpikingNeural2026
   title: Memristor-Based Spiking Neural Network Accelerator for Bio-inspired Interception
     Task
@@ -4054,6 +4081,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:preprint
+  updated: '2026-09-19'
 - key: kasenbacherConvolutionalSparseCoding2026
   title: Convolutional Sparse Coding via the Locally Competitive Algorithm on Loihi
     2
@@ -4062,6 +4090,7 @@ works:
   added: '2026-09-19'
   source: zotero:conferencePaper (Proceedings of the International Conference on Neuromorphic
     Systems)
+  updated: '2026-09-19'
 - key: liEnhanceStrongScaling2023
   title: Enhance the Strong Scaling of LAMMPS on Fugaku
   identifier: doi:10.1145/3581784.3607064
@@ -4069,9 +4098,11 @@ works:
   added: '2026-09-19'
   source: zotero:conferencePaper (Proceedings of the International Conference for
     High Performance Computing, Networking, Storage and Analysis)
+  updated: '2026-09-19'
 - key: noarovOptimalDeterministicMulticalibration2026
   title: Optimal Deterministic Multicalibration and Omniprediction
   identifier: zotero:CU4YFV6G
   status: pending
   added: '2026-09-19'
   source: zotero:preprint
+  updated: '2026-09-19'

@@ -1,6 +1,6 @@
 # Zotero 阅读索引
 
-**同步**: 2026-09-19 22:36 · 来源 Zotero + Better BibTeX（本机）
+**同步**: 2026-09-19 22:42 · 来源 Zotero + Better BibTeX（本机）
 
 ## 统计
 
