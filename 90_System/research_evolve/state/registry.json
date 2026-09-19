@@ -1,10 +1,10 @@
 {
   "schema": "research-evolve-registry-v1",
   "created": "2026-09-18T00:13:30.121722",
-  "updated": "2026-09-19T22:42:13.267134",
-  "round": 10,
+  "updated": "2026-09-20T04:30:04.170091",
+  "round": 12,
   "counters": {
-    "next_id": 147
+    "next_id": 150
   },
   "candidates": {
     "a90a3224ffc4e637": {
@@ -14,10 +14,10 @@
       "title": "H1: TCC: 拓扑互连可实现超加性计算增益 (1+1>2)",
       "norm": "h1 tcc 拓扑互连可实现超加性计算增益 1+1 2",
       "first_seen": "2026-09-18T00:13:30.129132",
-      "last_seen": "2026-09-19T22:42:11.736457",
+      "last_seen": "2026-09-20T04:30:02.942505",
       "first_round": 1,
-      "last_round": 10,
-      "seen_count": 10,
+      "last_round": 12,
+      "seen_count": 12,
       "source": "99_Meta/hypothesis_registry.json",
       "detail": "",
       "evidence": {
@@ -56,10 +56,10 @@
       "title": "H2: CST: 智能涌现依赖自组织临界性",
       "norm": "h2 cst 智能涌现依赖自组织临界性",
       "first_seen": "2026-09-18T00:13:30.129132",
-      "last_seen": "2026-09-19T22:42:11.736457",
+      "last_seen": "2026-09-20T04:30:02.942505",
       "first_round": 1,
-      "last_round": 10,
-      "seen_count": 10,
+      "last_round": 12,
+      "seen_count": 12,
       "source": "99_Meta/hypothesis_registry.json",
       "detail": "",
       "evidence": {
@@ -99,10 +99,10 @@
       "title": "H3: iNEST: 脉冲神经网络在晶上系统可实现类脑计算",
       "norm": "h3 inest 脉冲神经网络在晶上系统可实现类脑计算",
       "first_seen": "2026-09-18T00:13:30.129132",
-      "last_seen": "2026-09-19T22:42:11.736457",
+      "last_seen": "2026-09-20T04:30:02.942505",
       "first_round": 1,
-      "last_round": 10,
-      "seen_count": 10,
+      "last_round": 12,
+      "seen_count": 12,
       "source": "99_Meta/hypothesis_registry.json",
       "detail": "",
       "evidence": {
@@ -148,10 +148,10 @@
       "title": "H4: TCC: SDSoW架构可线性扩展至晶圆级",
       "norm": "h4 tcc sdsow架构可线性扩展至晶圆级",
       "first_seen": "2026-09-18T00:13:30.129132",
-      "last_seen": "2026-09-19T22:42:11.736457",
+      "last_seen": "2026-09-20T04:30:02.942505",
       "first_round": 1,
-      "last_round": 10,
-      "seen_count": 10,
+      "last_round": 12,
+      "seen_count": 12,
       "source": "99_Meta/hypothesis_registry.json",
       "detail": "",
       "evidence": {
@@ -190,10 +190,10 @@
       "title": "H5: TCC×iNEST: SDI软件定义互连可实现类突触可塑性拓扑重构",
       "norm": "h5 tcc×inest sdi软件定义互连可实现类突触可塑性拓扑重构",
       "first_seen": "2026-08-24T00:00:00",
-      "last_seen": "2026-09-19T22:42:11.736457",
+      "last_seen": "2026-09-20T04:30:02.942505",
       "first_round": 1,
-      "last_round": 10,
-      "seen_count": 10,
+      "last_round": 12,
+      "seen_count": 12,
       "source": "99_Meta/hypothesis_registry.json",
       "detail": "理由: 将STDP权重更新规则映射到NoC路由表更新，实现互连拓扑按负载自适应调整 | 验证方法: 在sdi_network仿真框架中对比固定拓扑vs可塑拓扑的吞吐/延迟 | 来源桥: SDI_Plastic_Interconnect",
       "evidence": {
@@ -243,10 +243,10 @@
       "title": "H6: TCC×iNEST: Chiplet异构集成CMOS+忆阻器crossbar可实现存算一体神经形态加速",
       "norm": "h6 tcc×inest chiplet异构集成cmos+忆阻器crossbar可实现存算一体神经形态加速",
       "first_seen": "2026-08-24T00:00:00",
-      "last_seen": "2026-09-19T22:42:11.736457",
+      "last_seen": "2026-09-20T04:30:02.942505",
       "first_round": 1,
-      "last_round": 10,
-      "seen_count": 10,
+      "last_round": 12,
+      "seen_count": 12,
       "source": "99_Meta/hypothesis_registry.json",
       "detail": "理由: 1M1T1R突触神经元阵列通过3DHI堆叠与逻辑chiplet集成，消除von Neumann瓶颈 | 验证方法: 估算面积/能耗/延迟 vs GPU baseline，验证超加性增益(H1) | 来源桥: Chiplet_Heterogeneous_Neuromorphic",
       "evidence": {
@@ -296,10 +296,10 @@
       "title": "H7: TCC×iNEST: NoC路由算法为事件驱动spike包重设计可降低延迟一个数量级",
       "norm": "h7 tcc×inest noc路由算法为事件驱动spike包重设计可降低延迟一个数量级",
       "first_seen": "2026-08-24T00:00:00",
-      "last_seen": "2026-09-19T22:42:11.736457",
+      "last_seen": "2026-09-20T04:30:02.942505",
       "first_round": 1,
-      "last_round": 10,
-      "seen_count": 10,
+      "last_round": 12,
+      "seen_count": 12,
       "source": "99_Meta/hypothesis_registry.json",
       "detail": "理由: spike稀疏性+异步性使传统同步流水线浪费严重，event-driven路由可大幅提升效率 | 验证方法: 在仿真中实现async路由协议，对比packet latency分布 | 来源桥: NoC_Spiking_Routing",
       "evidence": {
@@ -349,10 +349,10 @@
       "title": "H8: TCC×iNEST: 晶圆级集成可在单die上实现百万级神经元实时仿真",
       "norm": "h8 tcc×inest 晶圆级集成可在单die上实现百万级神经元实时仿真",
       "first_seen": "2026-08-24T00:00:00",
-      "last_seen": "2026-09-19T22:42:11.736457",
+      "last_seen": "2026-09-20T04:30:02.942505",
       "first_round": 1,
-      "last_round": 10,
-      "seen_count": 10,
+      "last_round": 12,
+      "seen_count": 12,
       "source": "99_Meta/hypothesis_registry.json",
       "detail": "理由: Cerebras CS-2已证明晶圆级AI推理可行，扩展至SNN域 | 验证方法: 映射Izhikevich神经元阵列到wafer-scale mesh，评估通信瓶颈 | 来源桥: WaferScale_Neuromorphic",
       "evidence": {
@@ -402,10 +402,10 @@
       "title": "H9: TCC×iNEST: 3D-IC堆叠模拟皮层柱状架构可实现密集神经处理层",
       "norm": "h9 tcc×inest 3d ic堆叠模拟皮层柱状架构可实现密集神经处理层",
       "first_seen": "2026-08-24T00:00:00",
-      "last_seen": "2026-09-19T22:42:11.736457",
+      "last_seen": "2026-09-20T04:30:02.942505",
       "first_round": 1,
-      "last_round": 10,
-      "seen_count": 10,
+      "last_round": 12,
+      "seen_count": 12,
       "source": "99_Meta/hypothesis_registry.json",
       "detail": "理由: 皮层的垂直柱状结构与3D堆叠的层间TSV连接天然对应 | 验证方法: 建立层间连接模型，对比2D平面布局的信息传递效率 | 来源桥: 3DIC_Neural_Stacking",
       "evidence": {
@@ -440,7 +440,7 @@
         }
       ],
       "flags": [],
-      "age_days": 26.9
+      "age_days": 27.2
     },
     "0c30dd8970891789": {
       "id": "C-00010",
@@ -449,10 +449,10 @@
       "title": "H10: TCC×iNEST: 脑连接组拓扑模式可启发晶圆级NoC最优拓扑设计",
       "norm": "h10 tcc×inest 脑连接组拓扑模式可启发晶圆级noc最优拓扑设计",
       "first_seen": "2026-08-29T00:00:00",
-      "last_seen": "2026-09-19T22:42:11.736457",
+      "last_seen": "2026-09-20T04:30:02.942505",
       "first_round": 1,
-      "last_round": 10,
-      "seen_count": 10,
+      "last_round": 12,
+      "seen_count": 12,
       "source": "99_Meta/hypothesis_registry.json",
       "detail": "理由: 大脑的小世界/模块化拓扑是亿年优化的结果，直接移植到芯片设计 | 验证方法: 用连接组数据生成NoC拓扑，vs mesh/torus对比性能 | 来源桥: Topology_Brain_Connectome",
       "evidence": {
@@ -3001,10 +3001,10 @@
       "title": "多径递归与非线性缺陷使物理系统自身完成正向/伴随传播，仅凭测量即可提取梯度，无需数字孪生或数值反传。",
       "norm": "多径递归与非线性缺陷使物理系统自身完成正向 伴随传播 仅凭测量即可提取梯度 无需数字孪生或数值反传",
       "first_seen": "2026-09-17T07:39:00",
-      "last_seen": "2026-09-19T22:42:11.737457",
+      "last_seen": "2026-09-20T04:30:02.942505",
       "first_round": 1,
-      "last_round": 10,
-      "seen_count": 10,
+      "last_round": 12,
+      "seen_count": 12,
       "source": "60_MOC/灵感卡片/20260917_in_situ_adjoint_wave_control_nonhermitian_nonlinea.md",
       "detail": "在SDSoW/SDI互连中把NoC多径回波当作伴随信道，以忆阻器作非线性缺陷节点，用测量梯度直接更新权重，验证'拓扑复杂度—学习容量'标度律并对比数字孪生方案精度。 | [ ] 搭建T型结+非线性缺陷多径平台，测梯度保真度随路径数/非厄米增益的变化曲线。",
       "evidence": {
@@ -3041,10 +3041,10 @@
       "title": "无序系统中强制精确对称性反而破坏拓扑相，只需'平均对称性'即可维持拓扑不变量的鲁棒性。",
       "norm": "无序系统中强制精确对称性反而破坏拓扑相 只需 平均对称性 即可维持拓扑不变量的鲁棒性",
       "first_seen": "2026-09-17T07:41:00",
-      "last_seen": "2026-09-19T22:42:11.737457",
+      "last_seen": "2026-09-20T04:30:02.942505",
       "first_round": 1,
-      "last_round": 10,
-      "seen_count": 10,
+      "last_round": 12,
+      "seen_count": 12,
       "source": "60_MOC/灵感卡片/20260917_symmetric_approximant_statistical_topological_matt.md",
       "detail": "为SDI定义'平均拓扑不变量'：在随机链路故障的NoC仿真中，对比精确对称性保持vs平均对称性保持的重构策略，验证后者在类突触可塑性重连下仍能维持任务精度。 | [ ] 推导SDI动态重构下的统计拓扑不变量表达式，并在NoC链路故障仿真中做对照验证。",
       "evidence": {
@@ -3081,10 +3081,10 @@
       "title": "延迟耦合网络中，度异质性与非互易性反而增强同步稳定性，颠覆无延迟时全连接同质拓扑最优的结论。",
       "norm": "延迟耦合网络中 度异质性与非互易性反而增强同步稳定性 颠覆无延迟时全连接同质拓扑最优的结论",
       "first_seen": "2026-09-17T07:40:00",
-      "last_seen": "2026-09-19T22:42:11.737457",
+      "last_seen": "2026-09-20T04:30:02.942505",
       "first_round": 1,
-      "last_round": 10,
-      "seen_count": 10,
+      "last_round": 12,
+      "seen_count": 12,
       "source": "60_MOC/灵感卡片/20260917_Generalized_Master_Stability_Heterogeneous_Delay_C.md",
       "detail": "将MSF优化器嵌入SDI控制器：以晶圆级NoC物理传播延迟为约束，搜索使脉冲同步最优的异质有向边权拓扑，验证其同步误差/延迟优于2D mesh，并以脑连接组作初始解热启动。 | [ ] 复现该网络优化器，在带真实延迟的8×8 NoC上求解最优有向权重拓扑并与mesh对比。",
       "evidence": {
@@ -3121,10 +3121,10 @@
       "title": "稀有区域可自发诱导Griffiths相，使系统无需参数微调即出现临界慢化——临界性可由拓扑异质性'免费'获得",
       "norm": "稀有区域可自发诱导griffiths相 使系统无需参数微调即出现临界慢化 临界性可由拓扑异质性 免费 获得",
       "first_seen": "2026-09-17T07:40:00",
-      "last_seen": "2026-09-19T22:42:11.737457",
+      "last_seen": "2026-09-20T04:30:02.942505",
       "first_round": 1,
-      "last_round": 10,
-      "seen_count": 10,
+      "last_round": 12,
+      "seen_count": 12,
       "source": "60_MOC/灵感卡片/20260917_arxiv_daily_index_2026-08-13.md",
       "detail": "在晶圆级NoC中将部分链路设为稀有慢链路(模拟Griffiths稀有区域)，跑spike包事件驱动仿真，测端到端延迟自相关是否呈幂律长尾；若是，则SOC可由拓扑异质性自发涌现，无需显式调参。 | [ ] 在NoC仿真器注入稀有慢链路，测延迟幂律指数，与脑连接组拓扑对比",
       "evidence": {
@@ -3161,10 +3161,10 @@
       "title": "控制相变由反馈驱动，在面积律纠缠相内发生；量子相干性从体积律到面积律对数不连续，且量子涨落在临界点达到临界，证明其量子本质而非纯经典。",
       "norm": "控制相变由反馈驱动 在面积律纠缠相内发生 量子相干性从体积律到面积律对数不连续 且量子涨落在临界点达到临界 证明其量子本质而非纯经典",
       "first_seen": "2026-09-17T07:40:00",
-      "last_seen": "2026-09-19T22:42:11.737457",
+      "last_seen": "2026-09-20T04:30:02.942505",
       "first_round": 1,
-      "last_round": 10,
-      "seen_count": 10,
+      "last_round": 12,
+      "seen_count": 12,
       "source": "60_MOC/灵感卡片/20260917_control-driven-critical-fluctuations-quantum-traje.md",
       "detail": "设计反馈受控Bernoulli量子电路作为临界reservoir：将spike包映射为测量/反馈，以相干体积-面积律转变点为工作点，测试晶圆级NoC上信息容量与延迟是否超线性增益。 | [ ] 复现2504.10803的Bernoulli电路，提取相干缩放与临界指数。",
       "evidence": {
@@ -3201,10 +3201,10 @@
       "title": "纯高阶（三角）耦合网络动力学可由单一有效作用强度β_Δ一维降维，降维精度由节点态同质性决定，故高阶拓扑的稳态与相变可被宏观序参量预测。",
       "norm": "纯高阶 三角 耦合网络动力学可由单一有效作用强度β δ一维降维 降维精度由节点态同质性决定 故高阶拓扑的稳态与相变可被宏观序参量预测",
       "first_seen": "2026-09-17T07:40:00",
-      "last_seen": "2026-09-19T22:42:11.737457",
+      "last_seen": "2026-09-20T04:30:02.942505",
       "first_round": 1,
-      "last_round": 10,
-      "seen_count": 10,
+      "last_round": 12,
+      "seen_count": 12,
       "source": "60_MOC/灵感卡片/20260917_HigherOrderNetworkDimensionReduction_2608.12676.md",
       "detail": "在晶圆级NoC/spiking仿真中，用三节点路由簇构造纯三角高阶耦合的脉冲网络，扫掠耦合强度测发放率方差（同质性）与β_Δ，验证一维序参量能否预测网络进入临界同步态及超加性增益拐点，并推广到SDI动态重构拓扑。 | [ ] 复现论文三个高阶模型，将三角耦合替换为spike事件驱动并测β_Δ-临界阈值关系。",
       "evidence": {
@@ -3241,10 +3241,10 @@
       "title": "井芯微的SDI软件定义互连与三层硬件级QoS已在军口量产,证明H5所需的'可重构拓扑互连'底层硬件已成熟商用,瓶颈不在重构能力,而在缺少神经形态语义映射层。",
       "norm": "井芯微的sdi软件定义互连与三层硬件级qos已在军口量产 证明h5所需的 可重构拓扑互连 底层硬件已成熟商用 瓶颈不在重构能力 而在缺少神经形态语义映射层",
       "first_seen": "2026-09-15T08:18:00",
-      "last_seen": "2026-09-19T22:42:11.737457",
+      "last_seen": "2026-09-20T04:30:02.942505",
       "first_round": 1,
-      "last_round": 10,
-      "seen_count": 10,
+      "last_round": 12,
+      "seen_count": 12,
       "source": "60_MOC/灵感卡片/20260915_Jingxin_Micro_Edge_AI_Interconnect_Financing_PPT_O.md",
       "detail": "将SRIO虚通道+信用量机制借用为SNN事件队列:用虚通道分离兴奋/抑制spike,信用量近似突触权重做流控,在井芯微多协议融合芯片上跑小规模可重构拓扑的脉冲路由实验,验证H1超加增益。 | [ ] 向井芯微索取SDI/SRIO虚通道硬件接口与QoS配置文档,评估spike包封装可行性。",
       "evidence": {
@@ -3281,10 +3281,10 @@
       "title": "井芯微将SDI软件定义互连实化为物理级+协议级+调度级三层硬件QoS，使互连首次具备可编程拓扑与P999确定性时延，这正是类脑spike路由急需的物理底座。",
       "norm": "井芯微将sdi软件定义互连实化为物理级+协议级+调度级三层硬件qos 使互连首次具备可编程拓扑与p999确定性时延 这正是类脑spike路由急需的物理底座",
       "first_seen": "2026-09-15T08:18:00",
-      "last_seen": "2026-09-19T22:42:11.737457",
+      "last_seen": "2026-09-20T04:30:02.942505",
       "first_round": 1,
-      "last_round": 10,
-      "seen_count": 10,
+      "last_round": 12,
+      "seen_count": 12,
       "source": "60_MOC/灵感卡片/20260915_jingxinwei_financing_ppt_v2_interconnect_chiplet.md",
       "detail": "把RapidIO虚通道映射为突触权重通道，在FPGA搭SDI-SNN桥；用其P999可验收时延作为H1超加性增益的度量基线，对比固定NoC与SDI重构拓扑下SNN时序编码的信息增益差异。 | [ ] 索取SDI Bond协议规范与虚通道配置API，评估承载事件驱动spike包的可行性。",
       "evidence": {
@@ -3321,10 +3321,10 @@
       "title": "乘性增益经对数变换转为加性空间，配合12维拓扑不变量特征空间，将NP-hard离散拓扑搜索降维为连续可导优化问题",
       "norm": "乘性增益经对数变换转为加性空间 配合12维拓扑不变量特征空间 将np hard离散拓扑搜索降维为连续可导优化问题",
       "first_seen": "2026-09-15T08:18:00",
-      "last_seen": "2026-09-19T22:42:11.737457",
+      "last_seen": "2026-09-20T04:30:02.942505",
       "first_round": 1,
-      "last_round": 10,
-      "seen_count": 10,
+      "last_round": 12,
+      "seen_count": 12,
       "source": "60_MOC/灵感卡片/20260915_Chip_System_Topology_Search_Algorithm_Framework.md",
       "detail": "用12维拓扑不变量训练代理模型预测U值，在特征空间做梯度引导的遗传搜索；验证Lipschitz常数L_f作为可搜索性判据 | [ ] 在2D Mesh/环面/胖树基准上提取12维特征并拟合U，测Lipschitz常数",
       "evidence": {
@@ -3363,10 +3363,10 @@
       "title": "TPU将路由功能内嵌于每个计算节点，规约随数据流经节点就地完成，通信与计算完全重叠——拓扑本身即计算单元，无需独立交换芯片。",
       "norm": "tpu将路由功能内嵌于每个计算节点 规约随数据流经节点就地完成 通信与计算完全重叠 拓扑本身即计算单元 无需独立交换芯片",
       "first_seen": "2026-09-15T08:18:00",
-      "last_seen": "2026-09-19T22:42:11.737457",
+      "last_seen": "2026-09-20T04:30:02.942505",
       "first_round": 1,
-      "last_round": 10,
-      "seen_count": 10,
+      "last_round": 12,
+      "seen_count": 12,
       "source": "60_MOC/灵感卡片/20260915_google_tpu_ici_3d_torus_collective_communication_t.md",
       "detail": "把TPU多维环规约移植到SNN：在每个NoC路由器内嵌LIF膜电位累加器，spike包在转发路径上就地累加，实现'脉冲网内规约'。用3D Torus仿真对比集中式聚合，验证延迟降一个数量级且事件稀疏时能耗近线性。 | [ ] 搭建3D Torus网内spike规约仿真，对比集中式All-Reduce的延迟与能耗。",
       "evidence": {
@@ -3403,10 +3403,10 @@
       "title": "TPUv7性价比优势来自ICI低延迟互连支撑千芯pod与SparseCore卸载集合通信的软硬件协同，而非单芯片峰值。",
       "norm": "tpuv7性价比优势来自ici低延迟互连支撑千芯pod与sparsecore卸载集合通信的软硬件协同 而非单芯片峰值",
       "first_seen": "2026-09-15T08:18:00",
-      "last_seen": "2026-09-19T22:42:11.737457",
+      "last_seen": "2026-09-20T04:30:02.942505",
       "first_round": 1,
-      "last_round": 10,
-      "seen_count": 10,
+      "last_round": 12,
+      "seen_count": 12,
       "source": "60_MOC/灵感卡片/20260915_google_tpuv7_ironwood_inference_cost_analysis.md",
       "detail": "把SparseCore式通信卸载+MoE专家路由思想移植到神经形态NoC：为spike包设计分层拓扑，用专用路由单元卸载跨靶集体事件聚合与重排，验证H7/H10。 | [ ] 绘制TPU ICI分层拓扑并映射到spike-NoC，建模事件延迟",
       "evidence": {
@@ -3443,10 +3443,10 @@
       "title": "领域特定架构(DSA)与跨层协同设计(器件-电路-架构-算法)是降低能耗、突破冯·诺依曼瓶颈的通用方法论，直接支撑面向超加性增益的定制微系统设计。",
       "norm": "领域特定架构 dsa 与跨层协同设计 器件 电路 架构 算法 是降低能耗 突破冯 诺依曼瓶颈的通用方法论 直接支撑面向超加性增益的定制微系统设计",
       "first_seen": "2026-09-08T06:55:00",
-      "last_seen": "2026-09-19T22:42:11.737457",
+      "last_seen": "2026-09-20T04:30:02.942505",
       "first_round": 1,
-      "last_round": 10,
-      "seen_count": 10,
+      "last_round": 12,
+      "seen_count": 12,
       "source": "60_MOC/灵感卡片/20260908_computational_microsystems_book_chapter_outline.md",
       "detail": "以触觉/视觉感算融合为题，依据DSA跨层设计：将SNN分层映射到3D芯粒，忆阻器阵列实现权重更新，顶层互连做可塑性重构，记录超加性增益指标。 | [ ] 设计DSA跨层映射表：将SNN特性映射到Chiplet/忆阻器/互连架构，完成一条链路评估。",
       "evidence": {
@@ -3485,10 +3485,10 @@
       "title": "微软SDLA将数据移动视为一等资源，用软件显式管理缓存和异步信号量同步，实现99.69%峰值利用率，并可将数据流无缝扩展到6144芯片，证明软硬协同数据流是突破带宽墙的关键。",
       "norm": "微软sdla将数据移动视为一等资源 用软件显式管理缓存和异步信号量同步 实现99 69%峰值利用率 并可将数据流无缝扩展到6144芯片 证明软硬协同数据流是突破带宽墙的关键",
       "first_seen": "2026-09-08T06:55:00",
-      "last_seen": "2026-09-19T22:42:11.737457",
+      "last_seen": "2026-09-20T04:30:02.942505",
       "first_round": 1,
-      "last_round": 10,
-      "seen_count": 10,
+      "last_round": 12,
+      "seen_count": 12,
       "source": "60_MOC/灵感卡片/20260908_Maia200_SDLA_Architecture_Analysis.md",
       "detail": "设计iNEST-SDNoC：借鉴SDLA指令中的Pre/Post信号量机制，为spike包动态配置优先级化NoC路径，用编译器离线规划稀疏脉冲路由，在事件驱动下实现可塑性拓扑重构；在FPGA原型上对比传统NoC延迟并测量能耗。 | [ ] 阅读Maia SDLA论文，提取数据流指令集，结合FPGA原型设计SDNoC事件驱动路由仿真实验。",
       "evidence": {
@@ -3525,10 +3525,10 @@
       "title": "端边侧AI装备的瓶颈已从算力转向互连；异构协议碎片化和硬件-软件迭代错配使软件定义的异构互连网络成为OODA闭环落地的关键。",
       "norm": "端边侧ai装备的瓶颈已从算力转向互连 异构协议碎片化和硬件 软件迭代错配使软件定义的异构互连网络成为ooda闭环落地的关键",
       "first_seen": "2026-09-08T06:54:00",
-      "last_seen": "2026-09-19T22:42:11.737457",
+      "last_seen": "2026-09-20T04:30:02.942505",
       "first_round": 1,
-      "last_round": 10,
-      "seen_count": 10,
+      "last_round": 12,
+      "seen_count": 12,
       "source": "60_MOC/灵感卡片/20260908_Edge_AI_Interconnect_Report_Plan.md",
       "detail": "提出OODA感知的SDI动态拓扑重构机制：将OODA四阶段的数据流特征映射为互连拓扑的QoS类，用类似突触可塑性的规则调整端口权重，并在片内NoC验证延迟收益。 | [ ] 梳理端边侧典型装备OODA数据流，分析映射到SDI/NoC的时延瓶颈并建模。",
       "evidence": {
@@ -3565,10 +3565,10 @@
       "title": "TCC将拓扑态作为第一可编程对象，通过SDI化合键与TopoColor μRouter实现液态拓扑织构，使互连生成/切换本身成为计算过程而非通信开销。",
       "norm": "tcc将拓扑态作为第一可编程对象 通过sdi化合键与topocolor μrouter实现液态拓扑织构 使互连生成 切换本身成为计算过程而非通信开销",
       "first_seen": "2026-09-08T06:53:00",
-      "last_seen": "2026-09-19T22:42:11.737457",
+      "last_seen": "2026-09-20T04:30:02.942505",
       "first_round": 1,
-      "last_round": 10,
-      "seen_count": 10,
+      "last_round": 12,
+      "seen_count": 12,
       "source": "60_MOC/灵感卡片/20260908_TCC_LTF_Project_Guide_v8_Summary.md",
       "detail": "设计动态拓扑态切换实验：在FPGA上实现TopoColor μRouter，对同一计算任务在固定拓扑与液态拓扑间切换，测量AllReduce/FFT的时延与超加性增益，验证拓扑重构成本收益。 | [ ] 在VU13P上实现TopoColor μRouter最小原型，测量拓扑切换时延，验证液态机制可行性。",
       "evidence": {
@@ -3605,10 +3605,10 @@
       "title": "系统瓶颈是拓扑刚性：任务通信模式随训练/推理变化，物理拓扑却焊死。TCC将互连拓扑本身作为可编程对象，以Route/Transform原语+Topology Page+Epoch Commit实现'网络即计算'，支持μs级拓扑液态切换。",
       "norm": "系统瓶颈是拓扑刚性 任务通信模式随训练 推理变化 物理拓扑却焊死 tcc将互连拓扑本身作为可编程对象 以route transform原语+topology page+epoch commit实现 网络即计算 支持μs级拓扑液态切换",
       "first_seen": "2026-09-08T06:53:00",
-      "last_seen": "2026-09-19T22:42:11.737457",
+      "last_seen": "2026-09-20T04:30:02.942505",
       "first_round": 1,
-      "last_round": 10,
-      "seen_count": 10,
+      "last_round": 12,
+      "seen_count": 12,
       "source": "60_MOC/灵感卡片/20260908_TCC_project_proposal_defense_notes.md",
       "detail": "将SNN的突触权重映射为Topology Page，学习规则转化为Epoch原子提交条件；用FPGA验证液态拓扑切换，使spike路由路径随STDP实时重构，实现iNEST的突触可塑性硬件化。 | [ ] 设计'拓扑页即突触权重页'映射方案，并在VU13P上搭建FPGA验证回路。",
       "evidence": {
@@ -3645,10 +3645,10 @@
       "title": "AI基础设施价值正从GPU节点转向互连与网络（占CAPEX 30-50%），博通增速221%超英伟达，验证了拓扑互连的产业价值拐点已至。",
       "norm": "ai基础设施价值正从gpu节点转向互连与网络 占capex 30 50% 博通增速221%超英伟达 验证了拓扑互连的产业价值拐点已至",
       "first_seen": "2026-09-07T03:33:00",
-      "last_seen": "2026-09-19T22:42:11.737457",
+      "last_seen": "2026-09-20T04:30:02.942505",
       "first_round": 1,
-      "last_round": 10,
-      "seen_count": 10,
+      "last_round": 12,
+      "seen_count": 12,
       "source": "60_MOC/灵感卡片/20260907_Broadcom_Marvell_earnings_AI_network_analysis.md",
       "detail": "借鉴博通XPU+网络捆绑模式，设计TCC晶圆级NoC的‘互连价值占比’指标，量化SDSoW中拓扑资源对端到端训练吞吐的边际贡献，与1+1>2理论预测对比。 | [ ] 收集博通/Marvell网络芯片带宽与XPU比例数据，映射到TCC拓扑增益模型做拟合验证。",
       "evidence": {
@@ -3685,10 +3685,10 @@
       "title": "SDI作为‘化合键’将PE功能、连接拓扑与算法逻辑三位一体动态重构，把ARC任务规则解耦为原子DFG并直接硬件化，实现无静态参数、少样本泛化的流体智能。",
       "norm": "sdi作为‘化合键’将pe功能 连接拓扑与算法逻辑三位一体动态重构 把arc任务规则解耦为原子dfg并直接硬件化 实现无静态参数 少样本泛化的流体智能",
       "first_seen": "2026-09-07T03:33:00",
-      "last_seen": "2026-09-19T22:42:11.737457",
+      "last_seen": "2026-09-20T04:30:02.942505",
       "first_round": 1,
-      "last_round": 10,
-      "seen_count": 10,
+      "last_round": 12,
+      "seen_count": 12,
       "source": "60_MOC/灵感卡片/20260907_SDI_Bond_Plastic_Network_for_ARC_AGI_Project.md",
       "detail": "设计一个‘知识编译-拓扑生成’流程：将ARC任务规则自动映射为DFG，再编译为SDI可重构阵列的配置流，使同一晶圆硬件可即时切换不同任务专用计算结构，替代Transformer权重迭代。 | [ ] 在可重构AI芯粒上实现ARC-AGI任务DFG到SDI配置的自动编译映射原型。",
       "evidence": {
@@ -3727,10 +3727,10 @@
       "title": "复杂性同步（MFD谱联动）将集体能力从线性叠加提升为多重分形维度的笛卡尔积扩展，产生乘法式涌现（1+1>N），其定量标志是MFD时间序列互信息突增。",
       "norm": "复杂性同步 mfd谱联动 将集体能力从线性叠加提升为多重分形维度的笛卡尔积扩展 产生乘法式涌现 1+1 n 其定量标志是mfd时间序列互信息突增",
       "first_seen": "2026-09-07T03:31:00",
-      "last_seen": "2026-09-19T22:42:11.737457",
+      "last_seen": "2026-09-20T04:30:02.942505",
       "first_round": 1,
-      "last_round": 10,
-      "seen_count": 10,
+      "last_round": 12,
+      "seen_count": 12,
       "source": "60_MOC/灵感卡片/20260907_complexity-synchronization-multiplicative-emergenc.md",
       "detail": "在SDI互连的NoC中，用流量的多重分形谱作为复杂度指纹，设计实时MFD同步度量的路由/拓扑重构算法，验证动态耦合是否触发超线性算力增益。 | [ ] 仿真验证：在NoC中注入多分形流量，测量MFD同步强度与任务吞吐增益的关系。",
       "evidence": {
@@ -3767,10 +3767,10 @@
       "title": "SDI是通过元拓扑递归分形生成的动态自演化互连，已在C.elegans仿真中5/5达标，证明其足以支撑类神经物理网络的液态重构与时空演化。",
       "norm": "sdi是通过元拓扑递归分形生成的动态自演化互连 已在c elegans仿真中5 5达标 证明其足以支撑类神经物理网络的液态重构与时空演化",
       "first_seen": "2026-09-05T10:02:00",
-      "last_seen": "2026-09-19T22:42:11.737457",
+      "last_seen": "2026-09-20T04:30:02.942505",
       "first_round": 1,
-      "last_round": 10,
-      "seen_count": 10,
+      "last_round": 12,
+      "seen_count": 12,
       "source": "60_MOC/灵感卡片/20260905_SDI-软件定义互连.md",
       "detail": "将SDI递归分形规则作为晶圆级NoC拓扑生成器，以C.elegans连接组为黄金参考，在FPGA原型上动态重配置关键路径，测量事件驱动spike包延迟与功耗，验证类脑拓扑优势。 | [ ] 搭建SDI-FPGA原型，移植C.elegans连接组并跑通动态重配置事件流测试。",
       "evidence": {
@@ -3805,7 +3805,7 @@
         }
       ],
       "flags": [],
-      "age_days": 14.5
+      "age_days": 14.8
     },
     "642fd52387603424": {
       "id": "C-00082",
@@ -3814,10 +3814,10 @@
       "title": "高阶拓扑动力学将拓扑结构从静态背景提升为可激发动力学自由度，拓扑洞可作为稳定同步态和非耗散模式，从而为计算系统提供额外信息编码维度。",
       "norm": "高阶拓扑动力学将拓扑结构从静态背景提升为可激发动力学自由度 拓扑洞可作为稳定同步态和非耗散模式 从而为计算系统提供额外信息编码维度",
       "first_seen": "2026-09-02T04:08:00",
-      "last_seen": "2026-09-19T22:42:11.737457",
+      "last_seen": "2026-09-20T04:30:02.942505",
       "first_round": 1,
-      "last_round": 10,
-      "seen_count": 10,
+      "last_round": 12,
+      "seen_count": 12,
       "source": "60_MOC/灵感卡片/20260902_higher_order_topological_dynamics_complex_systems_.md",
       "detail": "在晶圆级NoC中引入高阶拓扑动力学设计，将网络空洞作为稳定同步态编码信息；利用Dirac算子建模跨层信号跃迁，仿真比较不同Betti数下的任务处理能力，验证超加性增益。 | [ ] 精读原文，提取Dirac算子动力学模型，建立NoC拓扑-Betti数-计算增益映射仿真。",
       "evidence": {
@@ -3852,7 +3852,7 @@
         }
       ],
       "flags": [],
-      "age_days": 17.8
+      "age_days": 18.0
     },
     "0930f890eff1b39c": {
       "id": "C-00083",
@@ -3861,10 +3861,10 @@
       "title": "多芯粒系统扩展的瓶颈正从制造工艺转向互连与系统语义；NoC跨die扩展能力决定性能上限，缓存一致性是规模化协同的关键。",
       "norm": "多芯粒系统扩展的瓶颈正从制造工艺转向互连与系统语义 noc跨die扩展能力决定性能上限 缓存一致性是规模化协同的关键",
       "first_seen": "2026-09-02T04:08:00",
-      "last_seen": "2026-09-19T22:42:11.737457",
+      "last_seen": "2026-09-20T04:30:02.942505",
       "first_round": 1,
-      "last_round": 10,
-      "seen_count": 10,
+      "last_round": 12,
+      "seen_count": 12,
       "source": "60_MOC/灵感卡片/20260902_Chiplet_Multi-Die_Interconnect_Analysis.md",
       "detail": "借鉴脑连接组小世界属性，为晶圆级多芯粒NoC设计分层一致性域：域内硬件缓存一致，域间事件驱动松耦合，可降低跨die一致性开销并验证H10与H7。 | [ ] 梳理UCIe/CXS一致性协议在跨dieNoC的延迟开销，建模spike流量下的NUMA与路由延迟。",
       "evidence": {
@@ -3899,7 +3899,7 @@
         }
       ],
       "flags": [],
-      "age_days": 17.8
+      "age_days": 18.0
     },
     "99b14d533cdb1c85": {
       "id": "C-00084",
@@ -3908,10 +3908,10 @@
       "title": "将忆阻器交叉阵列的串扰电流映射为graphlet枚举路径，随机开关阈值作为随机游走概率源，把器件缺陷转化为计算优势，实现graphlet分解的硬件加速。",
       "norm": "将忆阻器交叉阵列的串扰电流映射为graphlet枚举路径 随机开关阈值作为随机游走概率源 把器件缺陷转化为计算优势 实现graphlet分解的硬件加速",
       "first_seen": "2026-09-02T04:07:00",
-      "last_seen": "2026-09-19T22:42:11.737457",
+      "last_seen": "2026-09-20T04:30:02.942505",
       "first_round": 1,
-      "last_round": 10,
-      "seen_count": 10,
+      "last_round": 12,
+      "seen_count": 12,
       "source": "60_MOC/灵感卡片/20260902_Graphlet_Decomposition_Memristors_Hardware_Acceler.md",
       "detail": "设计忆阻器交叉阵列，将随机游走采样与SNN事件驱动结合，在晶圆级NoC中实时提取graphlet指纹，用于自适应拓扑重构和类突触可塑性映射。 | [ ] 调研忆阻器随机开关特性，设计graphlet分解与SNN结合的仿真原型验证方案。",
       "evidence": {
@@ -3946,7 +3946,7 @@
         }
       ],
       "flags": [],
-      "age_days": 17.8
+      "age_days": 18.0
     },
     "1cd9ea369e0efad0": {
       "id": "C-00085",
@@ -3955,10 +3955,10 @@
       "title": "微凸点间距从40μm缩至10μm可实现高密度互连，热压键合与预填充工艺是支撑2.5D/3D封装的关键，为晶圆级集成和Chiplet异构堆叠奠定物理基础。",
       "norm": "微凸点间距从40μm缩至10μm可实现高密度互连 热压键合与预填充工艺是支撑2 5d 3d封装的关键 为晶圆级集成和chiplet异构堆叠奠定物理基础",
       "first_seen": "2026-09-02T04:05:00",
-      "last_seen": "2026-09-19T22:42:11.737457",
+      "last_seen": "2026-09-20T04:30:02.942505",
       "first_round": 1,
-      "last_round": 10,
-      "seen_count": 10,
+      "last_round": 12,
+      "seen_count": 12,
       "source": "60_MOC/灵感卡片/20260902_imec_2.5D_3D_packaging_TCB_analysis.md",
       "detail": "基于10μm微凸点/TCB工艺，设计面向事件驱动spike传输的晶圆级NoC：将μbump映射为物理链路，评估微凸点寄生参数对spike时序的影响，并模拟拓扑重构实现突触可塑性。 | [ ] 调研imec最新μbump/TCB工艺参数，建立晶圆级NoC链路寄生模型并仿真spike延迟。",
       "evidence": {
@@ -3993,7 +3993,7 @@
         }
       ],
       "flags": [],
-      "age_days": 17.8
+      "age_days": 18.0
     },
     "fdba4657843c89b5": {
       "id": "C-00086",
@@ -4002,10 +4002,10 @@
       "title": "拓扑结构不再是被动背景，而是可激发自由度；拓扑洞成为不可消除的动力学模式，Dirac算子统一跨层级演化。",
       "norm": "拓扑结构不再是被动背景 而是可激发自由度 拓扑洞成为不可消除的动力学模式 dirac算子统一跨层级演化",
       "first_seen": "2026-09-01T04:10:00",
-      "last_seen": "2026-09-19T22:42:11.737457",
+      "last_seen": "2026-09-20T04:30:02.942505",
       "first_round": 1,
-      "last_round": 10,
-      "seen_count": 10,
+      "last_round": 12,
+      "seen_count": 12,
       "source": "60_MOC/灵感卡片/20260901_topological_dynamics_paradigm_shift_2025.md",
       "detail": "基于Dirac算子设计晶圆级NoC拓扑生成算法，将高阶拓扑不变量（洞）映射为信息处理模式，验证超加性增益。 | [ ] 精读原文，提取高阶Dirac算子形式化框架，映射到SDSoW互连拓扑设计。",
       "evidence": {
@@ -4040,7 +4040,7 @@
         }
       ],
       "flags": [],
-      "age_days": 18.8
+      "age_days": 19.0
     },
     "543f9cb4d5b14379": {
       "id": "C-00087",
@@ -4049,10 +4049,10 @@
       "title": "3D-TokSIM用混合键合堆叠DRAM和逻辑die，搭配Token驻留存内计算数据流，将投机解码的多token并行验证与内存带宽匹配，解决LLM推理的存储墙瓶颈。",
       "norm": "3d toksim用混合键合堆叠dram和逻辑die 搭配token驻留存内计算数据流 将投机解码的多token并行验证与内存带宽匹配 解决llm推理的存储墙瓶颈",
       "first_seen": "2026-09-01T04:09:00",
-      "last_seen": "2026-09-19T22:42:11.737457",
+      "last_seen": "2026-09-20T04:30:02.942505",
       "first_round": 1,
-      "last_round": 10,
-      "seen_count": 10,
+      "last_round": 12,
+      "seen_count": 12,
       "source": "60_MOC/灵感卡片/20260901_3D-TokSIM_LLM_Inference_Acceleration_Architecture.md",
       "detail": "借鉴TS-CIM，将Token驻留改为Spike事件驻留：事件驱动SNN中，输入脉冲驻留CIM阵列，权重由3D DRAM流式传输，配合NoC路由降低延迟，验证H7与H6的联合增益。 | [ ] 设计仿真对比：TS-CIM数据流在Transformer vs SNN加速器上的吞吐与能效，评估事件驻留优势。",
       "evidence": {
@@ -4087,7 +4087,7 @@
         }
       ],
       "flags": [],
-      "age_days": 18.8
+      "age_days": 19.0
     },
     "2bd326d8d7ea6a83": {
       "id": "C-00088",
@@ -4096,10 +4096,10 @@
       "title": "AI算力驱动电源架构从12V向48V中枢跃迁，GaN功率器件以低损耗、高频化支撑1000A级供电，是晶圆级高功率密度系统的关键使能技术。",
       "norm": "ai算力驱动电源架构从12v向48v中枢跃迁 gan功率器件以低损耗 高频化支撑1000a级供电 是晶圆级高功率密度系统的关键使能技术",
       "first_seen": "2026-09-01T04:07:00",
-      "last_seen": "2026-09-19T22:42:11.737457",
+      "last_seen": "2026-09-20T04:30:02.942505",
       "first_round": 1,
-      "last_round": 10,
-      "seen_count": 10,
+      "last_round": 12,
+      "seen_count": 12,
       "source": "60_MOC/灵感卡片/20260901_AI_Power_Semiconductor_Evolution_2025-2030.md",
       "detail": "在SDSoW设计中引入功率-拓扑协同优化：将GaN 48V供电微网格与NoC拓扑联合布局，用功率密度约束修正线性扩展模型，评估百万神经元晶圆级系统的供电路由。 | [ ] 建立GaN 48V供电微网格与晶圆级NoC协同仿真模型，量化扩展损耗。",
       "evidence": {
@@ -4134,7 +4134,7 @@
         }
       ],
       "flags": [],
-      "age_days": 18.8
+      "age_days": 19.0
     },
     "4c7433c177439313": {
       "id": "C-00089",
@@ -4143,10 +4143,10 @@
       "title": "摩尔定律放缓后，3DHI将竞争主轴从“制程微缩”转向“基于Chiplet和3D堆叠的系统级架构创新”；DARPA通过NGMM国家级开放平台降低异构集成门槛，使“架构为王”成为可落地的产业范式。",
       "norm": "摩尔定律放缓后 3dhi将竞争主轴从“制程微缩”转向“基于chiplet和3d堆叠的系统级架构创新” darpa通过ngmm国家级开放平台降低异构集成门槛 使“架构为王”成为可落地的产业范式",
       "first_seen": "2026-09-01T04:05:00",
-      "last_seen": "2026-09-19T22:42:11.737457",
+      "last_seen": "2026-09-20T04:30:02.942505",
       "first_round": 1,
-      "last_round": 10,
-      "seen_count": 10,
+      "last_round": 12,
+      "seen_count": 12,
       "source": "60_MOC/灵感卡片/20260901_3DHI_technology_opportunities_challenges_DARPA_roa.md",
       "detail": "基于NGMM开放平台，设计双芯粒神经形态原型：底部CMOS芯粒集成LIF神经元和事件驱动NoC，顶部忆阻器crossbar芯粒作突触权重阵列，通过混合键合/TSV垂直互连，并加入可重构拓扑逻辑以联合验证H5/H6/H7。 | [ ] 调研NGMM/3DHI开放流片渠道，撰写双芯粒CMOS+忆阻器crossbar神经形态测试芯片立项书。",
       "evidence": {
@@ -4181,7 +4181,7 @@
         }
       ],
       "flags": [],
-      "age_days": 18.8
+      "age_days": 19.0
     },
     "99894ff46ca69a0e": {
       "id": "C-00090",
@@ -4190,10 +4190,10 @@
       "title": "芯粒与异构集成通过模块化分解和先进封装（EMIB/2.5D/3D）实现系统级性能-成本最优，成为后摩尔时代新缩放范式。",
       "norm": "芯粒与异构集成通过模块化分解和先进封装 emib 2 5d 3d 实现系统级性能 成本最优 成为后摩尔时代新缩放范式",
       "first_seen": "2026-09-01T04:04:00",
-      "last_seen": "2026-09-19T22:42:11.737457",
+      "last_seen": "2026-09-20T04:30:02.942505",
       "first_round": 1,
-      "last_round": 10,
-      "seen_count": 10,
+      "last_round": 12,
+      "seen_count": 12,
       "source": "60_MOC/灵感卡片/20260901_Chiplet_Heterogeneous_Integration_TCC_Insights.md",
       "detail": "基于UCIe标准设计动态可重构chiplet互连拓扑，模拟突触可塑性；结合忆阻器crossbar芯粒，在3D堆叠中实现存算一体类脑加速器原型验证。 | [ ] 调研UCIe协议与现有SDI架构映射，设计可重构互连实验方案",
       "evidence": {
@@ -4228,7 +4228,7 @@
         }
       ],
       "flags": [],
-      "age_days": 18.8
+      "age_days": 19.0
     },
     "39ec827468707adc": {
       "id": "C-00091",
@@ -4237,10 +4237,10 @@
       "title": "3DHI通过三维堆叠与高密度互连（混合键合、TSV）集成异质芯片，是超越摩尔的关键路径，可大幅提升能效与集成度，如存算一体能效提升100倍。",
       "norm": "3dhi通过三维堆叠与高密度互连 混合键合 tsv 集成异质芯片 是超越摩尔的关键路径 可大幅提升能效与集成度 如存算一体能效提升100倍",
       "first_seen": "2026-09-01T04:04:00",
-      "last_seen": "2026-09-19T22:42:11.737457",
+      "last_seen": "2026-09-20T04:30:02.943505",
       "first_round": 1,
-      "last_round": 10,
-      "seen_count": 10,
+      "last_round": 12,
+      "seen_count": 12,
       "source": "60_MOC/灵感卡片/20260901_DARPA_3DHI_strategy_analysis.md",
       "detail": "设计基于混合键合的3D堆叠神经形态芯片，每层模拟一个皮层柱，层间TSV传递spike，集成忆阻器实现突触存算，验证H9。 | [ ] 调研混合键合与TSV在3D-IC神经形态芯片中的工艺参数，撰写可行性报告。",
       "evidence": {
@@ -4277,7 +4277,7 @@
       "flags": [
         "off-framework"
       ],
-      "age_days": 18.8
+      "age_days": 19.0
     },
     "937ba26ddac46706": {
       "id": "C-00092",
@@ -4286,10 +4286,10 @@
       "title": "神经元电活动第一性，长距离依赖髓鞘绝缘传输，短距离可用分级电位模拟信号节能；后天学习只塑形局部连接，骨架由基因固定。",
       "norm": "神经元电活动第一性 长距离依赖髓鞘绝缘传输 短距离可用分级电位模拟信号节能 后天学习只塑形局部连接 骨架由基因固定",
       "first_seen": "2026-08-31T15:52:00",
-      "last_seen": "2026-09-19T22:42:11.737457",
+      "last_seen": "2026-09-20T04:30:02.943505",
       "first_round": 1,
-      "last_round": 10,
-      "seen_count": 10,
+      "last_round": 12,
+      "seen_count": 12,
       "source": "60_MOC/灵感卡片/20260831_neural_evolution_and_action_potential_mechanisms.md",
       "detail": "设计晶圆级NoC拓扑：核心骨干采用“髓鞘化”低串扰专用长程通道，边缘局部采用事件驱动可重构连接，模拟分级电位与脉冲混合编码，降低延迟与能耗。 | [ ] 调研现有NoC长距离传输线路的绝缘/屏蔽技术，对照髓鞘结构设计原型。",
       "evidence": {
@@ -4326,7 +4326,7 @@
       "flags": [
         "no-acceptance-criterion"
       ],
-      "age_days": 19.3
+      "age_days": 19.5
     },
     "ee9e0598c14cdc52": {
       "id": "C-00093",
@@ -4335,10 +4335,10 @@
       "title": "忆阻器高阶动力学应视为计算资源而非非理想性，通过可微物理演化（MEMprop）与多尺度自组织规则（STDP/BMC/E-I平衡）融合，让物理器件自身成为智能涌现的载体。",
       "norm": "忆阻器高阶动力学应视为计算资源而非非理想性 通过可微物理演化 memprop 与多尺度自组织规则 stdp bmc e i平衡 融合 让物理器件自身成为智能涌现的载体",
       "first_seen": "2026-08-31T15:46:00",
-      "last_seen": "2026-09-19T22:42:11.737457",
+      "last_seen": "2026-09-20T04:30:02.943505",
       "first_round": 1,
-      "last_round": 10,
-      "seen_count": 10,
+      "last_round": 12,
+      "seen_count": 12,
       "source": "60_MOC/灵感卡片/20260831_iNEST_implementation_memristor_pathway.md",
       "detail": "设计'可微自组织忆阻SNN'：将MEMprop可微物理模型与STDP/BMC局部规则结合，在忆阻crossbar上实现临界态自组织，并记录雪崩幂律指数与任务精度，验证临界态对学习增益的影响。 | [ ] 复现MEMprop忆阻MIF神经元模型，并在仿真中引入STDP/BMC局部规则测试自组织临界性。",
       "evidence": {
@@ -4375,7 +4375,7 @@
       "flags": [
         "off-framework"
       ],
-      "age_days": 19.3
+      "age_days": 19.5
     },
     "91db9efb5c6e2c38": {
       "id": "C-00094",
@@ -4384,10 +4384,10 @@
       "title": "1M1T1R将银离子动力学与栅极耦合，使三种元件在同一物理过程中同时实现六种神经动态，器件自身保存状态，大幅简化外围电路，并具有aJ级能耗潜力。",
       "norm": "1m1t1r将银离子动力学与栅极耦合 使三种元件在同一物理过程中同时实现六种神经动态 器件自身保存状态 大幅简化外围电路 并具有aj级能耗潜力",
       "first_seen": "2026-08-31T15:46:00",
-      "last_seen": "2026-09-19T22:42:11.737457",
+      "last_seen": "2026-09-20T04:30:02.943505",
       "first_round": 1,
-      "last_round": 10,
-      "seen_count": 10,
+      "last_round": 12,
+      "seen_count": 12,
       "source": "60_MOC/灵感卡片/20260831_1M1T1R_neuron_six_dynamics_analysis.md",
       "detail": "设计3D异质集成架构：底层CMOS驱动与读写电路，中层忆阻器crossbar突触，顶层1M1T1R神经元阵列；利用器件内建随机性作为训练正则化，实现片上实时因果学习。 | [ ] 在SpikingJelly中实现1M1T1R神经元模型，复现SHD分类实验并验证器件变异鲁棒性。",
       "evidence": {
@@ -4424,7 +4424,7 @@
       "flags": [
         "off-framework"
       ],
-      "age_days": 19.3
+      "age_days": 19.5
     },
     "ed98ac42d453b7e3": {
       "id": "C-00095",
@@ -4433,10 +4433,10 @@
       "title": "TCC将连接结构提升为一等设计对象，通过拓扑样与RTC映射应用与底层连接，实现存算传一体，可解决多节点系统扩展中的路由与异构适配瓶颈。",
       "norm": "tcc将连接结构提升为一等设计对象 通过拓扑样与rtc映射应用与底层连接 实现存算传一体 可解决多节点系统扩展中的路由与异构适配瓶颈",
       "first_seen": "2026-08-31T15:44:00",
-      "last_seen": "2026-09-19T22:42:11.737457",
+      "last_seen": "2026-09-20T04:30:02.943505",
       "first_round": 1,
-      "last_round": 10,
-      "seen_count": 10,
+      "last_round": 12,
+      "seen_count": 12,
       "source": "60_MOC/灵感卡片/20260831_TCC_CID_research_progress_meeting_20260826.md",
       "detail": "设计TCC原型验证：在C284多节点系统上实现拓扑样与RTC动态映射，对比传统NoC，测量加速比、通信占比、能耗；并测试不同拓扑连接模式是否产生超加性收益。 | [ ] 整理TCC核心公式与实验设计，优先完成拓扑与RTC映射的仿真验证。",
       "evidence": {
@@ -4471,7 +4471,7 @@
         }
       ],
       "flags": [],
-      "age_days": 19.3
+      "age_days": 19.5
     },
     "b605508f1da85d58": {
       "id": "C-00096",
@@ -4480,10 +4480,10 @@
       "title": "系统行为由连接结构而非节点本身决定；小世界、尺度无关、群落等网络拓扑特征可使整体涌现出远超个体简单相加的新功能，这正是超加性计算增益的理论基础。",
       "norm": "系统行为由连接结构而非节点本身决定 小世界 尺度无关 群落等网络拓扑特征可使整体涌现出远超个体简单相加的新功能 这正是超加性计算增益的理论基础",
       "first_seen": "2026-08-31T07:38:00",
-      "last_seen": "2026-09-19T22:42:11.737457",
+      "last_seen": "2026-09-20T04:30:02.943505",
       "first_round": 1,
-      "last_round": 10,
-      "seen_count": 10,
+      "last_round": 12,
+      "seen_count": 12,
       "source": "60_MOC/灵感卡片/20260831_network_science_complex_systems_overview.md",
       "detail": "设计NoC仿真实验：在2D mesh基础上加入模仿脑连接组hub结构的长程链路，形成小世界拓扑，运行事件驱动SNN工作负载，测量延迟/吞吐量是否获得超线性提升。 | [ ] 在NoC仿真器（Booksim/SystemC）中实现小世界拓扑并运行SNN基准测试",
       "evidence": {
@@ -4518,7 +4518,7 @@
         }
       ],
       "flags": [],
-      "age_days": 19.6
+      "age_days": 19.9
     },
     "396991a6b917d246": {
       "id": "C-00097",
@@ -4527,10 +4527,10 @@
       "title": "SK海力士/TetraMem忆阻器SoC用zig-zag交叉阵列100%利用DWC单元，65nm下能效21.3TOPS/W，SK海力士BEOL集成是存算一体工业落地的关键。",
       "norm": "sk海力士 tetramem忆阻器soc用zig zag交叉阵列100%利用dwc单元 65nm下能效21 3tops w sk海力士beol集成是存算一体工业落地的关键",
       "first_seen": "2026-08-31T07:37:00",
-      "last_seen": "2026-09-19T22:42:11.737457",
+      "last_seen": "2026-09-20T04:30:02.943505",
       "first_round": 1,
-      "last_round": 10,
-      "seen_count": 10,
+      "last_round": 12,
+      "seen_count": 12,
       "source": "60_MOC/灵感卡片/20260831_Memristor_IMC_SoC_Edge_AI_Breakthrough.md",
       "detail": "设计忆阻器zig-zag阵列专用于稀疏事件驱动SNN卷积：将3×3脉冲卷积映射到28列锯齿单元，空洞脉冲零填充，充分利用阵列并行性与时间稀疏性。 | [ ] 仿真验证zig-zag阵列映射SNN卷积的利用率与能效，对比DWC NPU，产出映射方案文档。",
       "evidence": {
@@ -4567,7 +4567,7 @@
       "flags": [
         "off-framework"
       ],
-      "age_days": 19.6
+      "age_days": 19.9
     },
     "d266c4b08703338d": {
       "id": "C-00098",
@@ -4576,10 +4576,10 @@
       "title": "统一收件箱将所有外部输入先暂存，再按状态转移至知识、项目或输出，实现科研信息从采集到沉淀的有序流动，避免信息散落。",
       "norm": "统一收件箱将所有外部输入先暂存 再按状态转移至知识 项目或输出 实现科研信息从采集到沉淀的有序流动 避免信息散落",
       "first_seen": "2026-08-31T07:30:00",
-      "last_seen": "2026-09-19T22:42:11.737457",
+      "last_seen": "2026-09-20T04:30:02.943505",
       "first_round": 1,
-      "last_round": 10,
-      "seen_count": 10,
+      "last_round": 12,
+      "seen_count": 12,
       "source": "60_MOC/灵感卡片/20260831_00_Inbox 使用说明.md",
       "detail": "设计一个基于该收件箱的科研假设追踪系统，自动按假设ID标签聚合文献、实验和讨论片段，链接至TCC/iNEST概念图谱，形成可追溯的证据链与置信度更新机制。 | [ ] 为H1建立专属证据收集模板，并将现有相关笔记导入统一收件箱。",
       "evidence": {
@@ -4614,7 +4614,7 @@
         }
       ],
       "flags": [],
-      "age_days": 19.6
+      "age_days": 19.9
     },
     "6255831681490846": {
       "id": "C-00099",
@@ -4623,10 +4623,10 @@
       "title": "端侧7B推理核心瓶颈是权重带宽而非算力；通过3D-DRAM堆叠与W4A8量化，内存功耗降9倍，且以95mm²面积窗口倒推工艺选型。",
       "norm": "端侧7b推理核心瓶颈是权重带宽而非算力 通过3d dram堆叠与w4a8量化 内存功耗降9倍 且以95mm2面积窗口倒推工艺选型",
       "first_seen": "2026-08-31T07:17:00",
-      "last_seen": "2026-09-19T22:42:11.737457",
+      "last_seen": "2026-09-20T04:30:02.943505",
       "first_round": 1,
-      "last_round": 10,
-      "seen_count": 10,
+      "last_round": 12,
+      "seen_count": 12,
       "source": "60_MOC/灵感卡片/20260831_Edge_AI_Chip_Architecture_Design_7B.md",
       "detail": "将3D-DRAM高带宽用于SNN事件驱动：突触权重存于3D-DRAM，NoC按需路由至计算层，利用垂直堆叠降低spike传输功耗，验证存算协同能效。 | [ ] 调研3D-DRAM与忆阻器crossbar集成方案，评估3D-IC中存算一体的可行性。",
       "evidence": {
@@ -4661,7 +4661,7 @@
         }
       ],
       "flags": [],
-      "age_days": 19.6
+      "age_days": 19.9
     },
     "4e6f67b01a6ea7ea": {
       "id": "C-00100",
@@ -4670,10 +4670,10 @@
       "title": "三个元拓扑(P2/星/环)与五种SDI-bond操作构成完备生成集，可产生所有通信原语拓扑并分形扩展；最优拓扑满足最小作用量变分原理。",
       "norm": "三个元拓扑 p2 星 环 与五种sdi bond操作构成完备生成集 可产生所有通信原语拓扑并分形扩展 最优拓扑满足最小作用量变分原理",
       "first_seen": "2026-08-31T07:15:00",
-      "last_seen": "2026-09-19T22:42:11.737457",
+      "last_seen": "2026-09-20T04:30:02.943505",
       "first_round": 1,
-      "last_round": 10,
-      "seen_count": 10,
+      "last_round": 12,
+      "seen_count": 12,
       "source": "60_MOC/灵感卡片/20260831_P-Theory_v2_MetaTopology_SDI_Bond_Draft.md",
       "detail": "以六种通信原语的流量模式为约束，用SDI-bond图代数搜索最小化网络作用量的晶圆级NoC拓扑，并在Mesh/环/树/星拓扑上对比延迟与能耗。 | [ ] 实现SDI-bond图代数库，枚举三基元组合生成六种通信原语拓扑，验证完备性。",
       "evidence": {
@@ -4723,10 +4723,10 @@
       "title": "固定拓扑与通信模式失配是AI算力提升的关键瓶颈，动态拓扑变换可消除‘拓扑-原语失配税’，在晶圆级集成中重要性尤为突出。",
       "norm": "固定拓扑与通信模式失配是ai算力提升的关键瓶颈 动态拓扑变换可消除‘拓扑 原语失配税’ 在晶圆级集成中重要性尤为突出",
       "first_seen": "2026-08-31T07:10:00",
-      "last_seen": "2026-09-19T22:42:11.737457",
+      "last_seen": "2026-09-20T04:30:02.943505",
       "first_round": 1,
-      "last_round": 10,
-      "seen_count": 10,
+      "last_round": 12,
+      "seen_count": 12,
       "source": "60_MOC/灵感卡片/20260831_military_ai_ecosystem_topology_interconnect_analys.md",
       "detail": "设计基于SDI的晶圆级动态拓扑NoC，按集合通信原语实时重构拓扑，消除失配税；可借鉴脑连接组小世界拓扑，仿真验证训练效率提升。 | [ ] 搭建晶圆级NoC仿真平台，对比动态重构与固定Mesh在AllReduce/AlltoAll下的性能。",
       "evidence": {
@@ -4761,7 +4761,7 @@
         }
       ],
       "flags": [],
-      "age_days": 19.6
+      "age_days": 19.9
     },
     "19e4356f6ca5b04f": {
       "id": "C-00102",
@@ -4770,10 +4770,10 @@
       "title": "退火温度调控HZO基FTJ的晶相与界面陷阱，实现饱和铁电开关和稳定多电平导态，是提升忆阻器crossbar存内计算可靠性的关键工艺优化。",
       "norm": "退火温度调控hzo基ftj的晶相与界面陷阱 实现饱和铁电开关和稳定多电平导态 是提升忆阻器crossbar存内计算可靠性的关键工艺优化",
       "first_seen": "2026-08-30T03:25:00",
-      "last_seen": "2026-09-19T22:42:11.737457",
+      "last_seen": "2026-09-20T04:30:02.943505",
       "first_round": 1,
-      "last_round": 10,
-      "seen_count": 10,
+      "last_round": 12,
+      "seen_count": 12,
       "source": "60_MOC/灵感卡片/20260830_2026-06-20_iNEST_S2_Ferroelectric Tunnel Junction .md",
       "detail": "将退火优化后的FTJ crossbar用于SNN突触，测试不同退火温度下电导更新线性度/对称性，并设计片上学习规则适配HZO器件的非理想特性。 | [ ] 对比不同PMA温度下FTJ突触权重更新的线性度与对称性，筛选最优工艺窗口。",
       "evidence": {
@@ -4810,7 +4810,7 @@
       "flags": [
         "off-framework"
       ],
-      "age_days": 20.8
+      "age_days": 21.0
     },
     "d820e6f09f703a63": {
       "id": "C-00103",
@@ -4819,10 +4819,10 @@
       "title": "迭代细化算法使低精度3-bit RRAM通过'粗求逆+精乘法'循环校准，达到FP32级精度，突破模拟计算精度瓶颈，同时保持高吞吐和高能效。",
       "norm": "迭代细化算法使低精度3 bit rram通过 粗求逆+精乘法 循环校准 达到fp32级精度 突破模拟计算精度瓶颈 同时保持高吞吐和高能效",
       "first_seen": "2026-08-30T03:25:00",
-      "last_seen": "2026-09-19T22:42:11.737457",
+      "last_seen": "2026-09-20T04:30:02.943505",
       "first_round": 1,
-      "last_round": 10,
-      "seen_count": 10,
+      "last_round": 12,
+      "seen_count": 12,
       "source": "60_MOC/灵感卡片/20260830__Nature大子刊__北大团队打破模拟计算精度限制_用3-bit忆阻器实现32-bit数字级精度_.md",
       "detail": "将迭代细化引入SNN在线学习：用低精度忆阻器计算突触权重更新梯度，数字电路做残差修正，可缓解阻变器件低精度导致的训练退化，实现端侧持续学习。 | [ ] 搭建基于迭代细化的RRAM矩阵求逆仿真平台，验证SNN训练加速效果。",
       "evidence": {
@@ -4859,7 +4859,7 @@
       "flags": [
         "off-framework"
       ],
-      "age_days": 20.8
+      "age_days": 21.0
     },
     "1502817115810e59": {
       "id": "C-00104",
@@ -4868,10 +4868,10 @@
       "title": "暗硅众核中能量与寿命优化需协同考虑：通过动态启停核心、任务映射和功耗预算分配，在性能约束下最大化芯片寿命，这对晶圆级大规模集成有直接启示。",
       "norm": "暗硅众核中能量与寿命优化需协同考虑 通过动态启停核心 任务映射和功耗预算分配 在性能约束下最大化芯片寿命 这对晶圆级大规模集成有直接启示",
       "first_seen": "2026-08-30T03:23:00",
-      "last_seen": "2026-09-19T22:42:11.737457",
+      "last_seen": "2026-09-20T04:30:02.943505",
       "first_round": 1,
-      "last_round": 10,
-      "seen_count": 10,
+      "last_round": 12,
+      "seen_count": 12,
       "source": "60_MOC/灵感卡片/20260830_2026-06-23_S2_Energy and Lifetime Optimizations fo.md",
       "detail": "借鉴暗硅调度思想，为晶圆级NoC设计事件驱动的核心休眠/唤醒机制，将spike路由任务迁移至空闲核心，同时均衡老化，实验可模拟不同映射策略下的能耗与MTTF对比。 | [ ] 搭建暗硅众核仿真平台，对比功耗约束下任务映射策略对能耗和寿命的影响。",
       "evidence": {
@@ -4906,7 +4906,7 @@
         }
       ],
       "flags": [],
-      "age_days": 20.8
+      "age_days": 21.0
     },
     "5c524ab8ee195918": {
       "id": "C-00105",
@@ -4915,10 +4915,10 @@
       "title": "退火优化HZO基FTJ使正交相结晶、界面陷阱减少，实现初始饱和极化与>1e4耐久；48×48阵列半偏压操作验证无串扰，为存算一体交叉阵列提供可靠模拟突触器件。",
       "norm": "退火优化hzo基ftj使正交相结晶 界面陷阱减少 实现初始饱和极化与 1e4耐久 48×48阵列半偏压操作验证无串扰 为存算一体交叉阵列提供可靠模拟突触器件",
       "first_seen": "2026-08-30T03:20:00",
-      "last_seen": "2026-09-19T22:42:11.737457",
+      "last_seen": "2026-09-20T04:30:02.943505",
       "first_round": 1,
-      "last_round": 10,
-      "seen_count": 10,
+      "last_round": 12,
+      "seen_count": 12,
       "source": "60_MOC/灵感卡片/20260830_2026-06-23_S2_Ferroelectric Tunnel Junction Memris.md",
       "detail": "用该FTJ阵列验证事件驱动STDP：将spike编码为半偏压脉宽/幅值，测量电导更新线性度与对称性；在阵列中映射突触权值并对比退火前后在线学习准确率，量化半偏压串扰对SNN推理的影响。 | [ ] 设计FTJ交叉阵列+CMOS神经元测试芯片，测STDP和半偏压串扰",
       "evidence": {
@@ -4955,7 +4955,7 @@
       "flags": [
         "off-framework"
       ],
-      "age_days": 20.8
+      "age_days": 21.0
     },
     "7bcf0b62f45a9c37": {
       "id": "C-00106",
@@ -4964,10 +4964,10 @@
       "title": "Hala Point通过1152颗Loihi 2芯片集成11.5亿神经元，验证了多芯片异步SNN系统可扩展性，且能效优于数据中心AI加速器，但尚未达到单die晶圆级集成。",
       "norm": "hala point通过1152颗loihi 2芯片集成11 5亿神经元 验证了多芯片异步snn系统可扩展性 且能效优于数据中心ai加速器 但尚未达到单die晶圆级集成",
       "first_seen": "2026-08-30T03:17:00",
-      "last_seen": "2026-09-19T22:42:11.737457",
+      "last_seen": "2026-09-20T04:30:02.943505",
       "first_round": 1,
-      "last_round": 10,
-      "seen_count": 10,
+      "last_round": 12,
+      "seen_count": 12,
       "source": "60_MOC/灵感卡片/20260830_Hala_Point：英特尔打造全球最大“类脑”计算系统.md",
       "detail": "借鉴Loihi的片上学习引擎和事件驱动通信，在TCC的SDSoW中设计Spike流感知的NoC路由，并用忆阻器crossbar替代数字突触，实现晶圆级SNN存算一体加速，可测试MNIST能效。 | [ ] 调研Loihi 2和Lava架构，对比SDSoW的NoC设计，制定SNN加速器原型方案。",
       "evidence": {
@@ -5017,10 +5017,10 @@
       "title": "MoE/Agentic时代通信由规则All-Reduce转向高熵All-to-All，对分带宽成瓶颈，高维Torus可显著缓解拥塞，拓扑互连本身带来计算系统超加性增益。",
       "norm": "moe agentic时代通信由规则all reduce转向高熵all to all 对分带宽成瓶颈 高维torus可显著缓解拥塞 拓扑互连本身带来计算系统超加性增益",
       "first_seen": "2026-08-29T18:05:00",
-      "last_seen": "2026-09-19T22:42:11.737457",
+      "last_seen": "2026-09-20T04:30:02.943505",
       "first_round": 1,
-      "last_round": 10,
-      "seen_count": 10,
+      "last_round": 12,
+      "seen_count": 12,
       "source": "60_MOC/灵感卡片/20260829_MoE_Agentic_AI_Interconnect_Demand_Analysis.md",
       "detail": "设计晶圆级NoC时采用脑启发小世界+高维Torus混合拓扑，模拟MoE负载，验证是否比纯高维Torus更低延迟/成本，支撑TCC超加性。 | [ ] 在NoC模拟器中实现4D/6D Torus并运行MoE All-to-All流量基准测试。",
       "evidence": {
@@ -5055,7 +5055,7 @@
         }
       ],
       "flags": [],
-      "age_days": 21.2
+      "age_days": 21.4
     },
     "5c12420ca3be8b19": {
       "id": "C-00108",
@@ -5064,10 +5064,10 @@
       "title": "固定高阶Torus物理拓扑上，SDI控制平面将电路交换颜色路径用于确定性长流、分组交换虚通道用于突发流量，实现物理拓扑固定+逻辑拓扑可编程，兼顾低延迟确定性与灵活性。",
       "norm": "固定高阶torus物理拓扑上 sdi控制平面将电路交换颜色路径用于确定性长流 分组交换虚通道用于突发流量 实现物理拓扑固定+逻辑拓扑可编程 兼顾低延迟确定性与灵活性",
       "first_seen": "2026-08-29T18:04:00",
-      "last_seen": "2026-09-19T22:42:11.737457",
+      "last_seen": "2026-09-20T04:30:02.943505",
       "first_round": 1,
-      "last_round": 10,
-      "seen_count": 10,
+      "last_round": 12,
+      "seen_count": 12,
       "source": "60_MOC/灵感卡片/20260829_SDI_Hybrid_Torus_Architecture_VC_Circuit_Packet_Sw.md",
       "detail": "设计FPGA验证平台：2D Torus上实现4条CS-VC颜色路径+2条PS-VC，SDI控制器在线调整路径映射模拟突触重构；测量重配置延迟和确定性流抖动，验证H5。 | [ ] 在RTL级实现8节点2D Torus的CS/PS混合交换机，并验证SDI重配置状态机与颜色分配算法。",
       "evidence": {
@@ -5102,7 +5102,7 @@
         }
       ],
       "flags": [],
-      "age_days": 21.2
+      "age_days": 21.4
     },
     "50758b1270c4acb9": {
       "id": "C-00109",
@@ -5111,10 +5111,10 @@
       "title": "网络局部motif结构（如三节点连接模式）直接决定全局动力学稳定性与任务适配性，说明拓扑本身即计算资源，而非仅参数规模。",
       "norm": "网络局部motif结构 如三节点连接模式 直接决定全局动力学稳定性与任务适配性 说明拓扑本身即计算资源 而非仅参数规模",
       "first_seen": "2026-08-29T18:04:00",
-      "last_seen": "2026-09-19T22:42:11.737457",
+      "last_seen": "2026-09-20T04:30:02.943505",
       "first_round": 1,
-      "last_round": 10,
-      "seen_count": 10,
+      "last_round": 12,
+      "seen_count": 12,
       "source": "60_MOC/灵感卡片/20260829_TCC_iNEST_Systematic_Evidence_Review.md",
       "detail": "设计SDI动态motif重配置实验：在晶圆级NoC上在线切换Level1/Level3 motif富集区域，验证同一硬件在不同任务下通过拓扑重构获得性能提升。 | [ ] 构建NoC仿真器，比较静态拓扑与动态motif重配置在噪声识别和连续控制任务上的增益。",
       "evidence": {
@@ -5164,10 +5164,10 @@
       "title": "将互连连接类比为化学键，区分刚性、柔性、可重构、自适应四型，为SDI提供分类学框架，强调连接动态性分级。",
       "norm": "将互连连接类比为化学键 区分刚性 柔性 可重构 自适应四型 为sdi提供分类学框架 强调连接动态性分级",
       "first_seen": "2026-08-29T18:03:00",
-      "last_seen": "2026-09-19T22:42:11.737457",
+      "last_seen": "2026-09-20T04:30:02.943505",
       "first_round": 1,
-      "last_round": 10,
-      "seen_count": 10,
+      "last_round": 12,
+      "seen_count": 12,
       "source": "60_MOC/灵感卡片/20260829_SDI化合物键_四型架构.md",
       "detail": "设计基于键型的动态配置协议：根据计算负载实时切换连接类型，例如刚性键用于固定通信，自适应键用于在线学习路径。 | [ ] 为四型键定义状态转换条件与硬件抽象层接口，并仿真验证。",
       "evidence": {
@@ -5202,7 +5202,7 @@
         }
       ],
       "flags": [],
-      "age_days": 21.2
+      "age_days": 21.4
     },
     "e3963f2ceb4628a4": {
       "id": "C-00111",
@@ -5211,10 +5211,10 @@
       "title": "FeNN-DMA证明RISC-V+向量协处理器+DMA双缓冲可灵活支持稀疏/延迟SNN，单核1.6万神经元2.56亿突触，但吞吐较固定加速器低3-4倍，揭示可编程性与性能的平衡点。",
       "norm": "fenn dma证明risc v+向量协处理器+dma双缓冲可灵活支持稀疏 延迟snn 单核1 6万神经元2 56亿突触 但吞吐较固定加速器低3 4倍 揭示可编程性与性能的平衡点",
       "first_seen": "2026-08-29T03:35:00",
-      "last_seen": "2026-09-19T22:42:11.737457",
+      "last_seen": "2026-09-20T04:30:02.943505",
       "first_round": 1,
-      "last_round": 10,
-      "seen_count": 10,
+      "last_round": 12,
+      "seen_count": 12,
       "source": "60_MOC/灵感卡片/20260829_2026-06-19_2026-06-19_FeNN-DMA_面向脉冲神经网络加速的RISC-V系统.md",
       "detail": "在FeNN-DMA的lane-local memory基础上，将NoC路由表改为事件驱动稀疏spike包动态重配置，类比突触可塑性；并在晶圆级多die间用脑连接组拓扑（H10）映射路由，减少平均跳数。 | [ ] 设计NoC事件驱动spike包路由算法，并在现有FPGA平台仿真验证延迟。",
       "evidence": {
@@ -5249,7 +5249,7 @@
         }
       ],
       "flags": [],
-      "age_days": 21.8
+      "age_days": 22.0
     },
     "07a90e5c5f6be334": {
       "id": "C-00112",
@@ -5258,10 +5258,10 @@
       "title": "固定物理Torus上，将VC分为电路交换颜色路径和分组交换通道，由SDI控制平面按RWA做颜色分配，可实现确定性长流与弹性短流混合，兼具低延迟和利用率。",
       "norm": "固定物理torus上 将vc分为电路交换颜色路径和分组交换通道 由sdi控制平面按rwa做颜色分配 可实现确定性长流与弹性短流混合 兼具低延迟和利用率",
       "first_seen": "2026-08-28T10:19:00",
-      "last_seen": "2026-09-19T22:42:11.737457",
+      "last_seen": "2026-09-20T04:30:02.943505",
       "first_round": 1,
-      "last_round": 10,
-      "seen_count": 10,
+      "last_round": 12,
+      "seen_count": 12,
       "source": "60_MOC/灵感卡片/20260828_SDI_Hybrid_Torus_Architecture_VC_Circuit_Packet_Sw.md",
       "detail": "将SNN同步脉冲映射为颜色CS-VC组播树，突发spike走PS-VC自适应通道；在Torus上仿真混合模式相对纯分组交换的延迟、能耗与死锁表现。 | [ ] 搭建Torus片上网络仿真器，对比CS-VC/PS-VC/混合模式在spike流量下的延迟和能耗。",
       "evidence": {
@@ -5296,7 +5296,7 @@
         }
       ],
       "flags": [],
-      "age_days": 22.5
+      "age_days": 22.8
     },
     "011d09b4e0ad9d28": {
       "id": "C-00113",
@@ -5305,10 +5305,10 @@
       "title": "网络拓扑（motif富集）而非参数规模决定任务适配；涌现三元内核（对称破缺+局域规则+粗粒化）需剔除旧约束（惯性制动γ→0）才能实现高阶跃迁，拓扑互连可产生乘法式涌现增益。",
       "norm": "网络拓扑 motif富集 而非参数规模决定任务适配 涌现三元内核 对称破缺+局域规则+粗粒化 需剔除旧约束 惯性制动γ→0 才能实现高阶跃迁 拓扑互连可产生乘法式涌现增益",
       "first_seen": "2026-08-28T09:38:00",
-      "last_seen": "2026-09-19T22:42:11.737457",
+      "last_seen": "2026-09-20T04:30:02.943505",
       "first_round": 1,
-      "last_round": 10,
-      "seen_count": 10,
+      "last_round": 12,
+      "seen_count": 12,
       "source": "60_MOC/灵感卡片/20260828_TCC_iNEST_Systematic_Evidence_Review.md",
       "detail": "设计可动态调整motif富集程度的SDI互连架构：在噪声鲁棒任务中增强Level1 motif，在连续控制任务中增强Level3 motif，并通过γ→0机制定期重置约束，验证乘法式涌现。 | [ ] 基于SDI实现motif动态重构原型，在MNIST噪声任务与Ant-v2控制任务上对比固定拓扑与动态motif的增益。",
       "evidence": {
@@ -5343,7 +5343,7 @@
         }
       ],
       "flags": [],
-      "age_days": 22.5
+      "age_days": 22.8
     },
     "bc1671338e52466a": {
       "id": "C-00114",
@@ -5352,10 +5352,10 @@
       "title": "7B端侧推理的本质瓶颈是权重访存带宽而非算力，采用3D-DRAM堆叠以1.3W代价提供1.9TB/s带宽，为晶圆级/3D堆叠神经形态架构提供定量设计范式。",
       "norm": "7b端侧推理的本质瓶颈是权重访存带宽而非算力 采用3d dram堆叠以1 3w代价提供1 9tb s带宽 为晶圆级 3d堆叠神经形态架构提供定量设计范式",
       "first_seen": "2026-08-27T03:54:00",
-      "last_seen": "2026-09-19T22:42:11.737457",
+      "last_seen": "2026-09-20T04:30:02.943505",
       "first_round": 1,
-      "last_round": 10,
-      "seen_count": 10,
+      "last_round": 12,
+      "seen_count": 12,
       "source": "60_MOC/灵感卡片/20260827_Edge_AI_Chip_Architecture_Design_7B.md",
       "detail": "将3D-DRAM每层划分为可独立供电的带宽域，动态匹配事件驱动spike流量与推理负载的bank映射，验证仿皮层柱状堆叠在稀疏激活下能耗缩放特性。 | [ ] 基于此架构按需脉冲流量模型做带宽功耗预算仿真，量化3D-DRAM事件驱动增益。",
       "evidence": {
@@ -5392,7 +5392,7 @@
       "flags": [
         "off-framework"
       ],
-      "age_days": 23.8
+      "age_days": 24.0
     },
     "c44912be37b94960": {
       "id": "C-00115",
@@ -5401,10 +5401,10 @@
       "title": "生物皮层证明高效计算依赖高维连续表征空间而非功能模块堆叠，与TCC“拓扑即计算”及能量-粒度线性关系一致，支撑架构转向表征空间构造。",
       "norm": "生物皮层证明高效计算依赖高维连续表征空间而非功能模块堆叠 与tcc“拓扑即计算”及能量 粒度线性关系一致 支撑架构转向表征空间构造",
       "first_seen": "2026-08-27T03:53:00",
-      "last_seen": "2026-09-19T22:42:11.737457",
+      "last_seen": "2026-09-20T04:30:02.943505",
       "first_round": 1,
-      "last_round": 10,
-      "seen_count": 10,
+      "last_round": 12,
+      "seen_count": 12,
       "source": "60_MOC/灵感卡片/20260827_biocomputing_paradigm_validation_tcc_inest.md",
       "detail": "设计“表征空间优先”的晶圆级互连拓扑生成算法，以最大化表征维度为目标，在Chiplet间建立连续高维空间，并用TCI分析计算增益与能量-粒度关系，验证超加性。 | [ ] 提取生物皮层高维表征的关键拓扑特征，转化为TCC互连设计约束。",
       "evidence": {
@@ -5439,7 +5439,7 @@
         }
       ],
       "flags": [],
-      "age_days": 23.8
+      "age_days": 24.0
     },
     "b0466efc75ae2b04": {
       "id": "C-00116",
@@ -5448,10 +5448,10 @@
       "title": "证明P2、星形、环形三种元拓扑经五种SDI-bond图操作可完备生成全部六种通信原语，并可用最小作用量/自由能原理指导分形网络演化。",
       "norm": "证明p2 星形 环形三种元拓扑经五种sdi bond图操作可完备生成全部六种通信原语 并可用最小作用量 自由能原理指导分形网络演化",
       "first_seen": "2026-08-27T03:53:00",
-      "last_seen": "2026-09-19T22:42:11.737457",
+      "last_seen": "2026-09-20T04:30:02.943505",
       "first_round": 1,
-      "last_round": 10,
-      "seen_count": 10,
+      "last_round": 12,
+      "seen_count": 12,
       "source": "60_MOC/灵感卡片/20260827_P-Theory_v2_MetaTopology_SDI_Bond_Draft.md",
       "detail": "设计基于SDI-bond的片上网络动态重构算法：将通信原语需求映射为元拓扑组合，在线调整互连结构以最小化网络作用量，并在晶圆级仿真中验证延迟下降。 | [ ] 实现SDI-bond代数库，验证六种通信原语拓扑生成完备性。",
       "evidence": {
@@ -5486,7 +5486,7 @@
         }
       ],
       "flags": [],
-      "age_days": 23.8
+      "age_days": 24.0
     },
     "ef92e41fa3c68d28": {
       "id": "C-00117",
@@ -5495,10 +5495,10 @@
       "title": "MTIA 300将通信拓扑提升为一等计算资源：计算/通信双平面分离+近内存归约，让通信不打断计算，实现3.9倍通信性能提升，印证拓扑本身是计算能力维度，而非开销。",
       "norm": "mtia 300将通信拓扑提升为一等计算资源 计算 通信双平面分离+近内存归约 让通信不打断计算 实现3 9倍通信性能提升 印证拓扑本身是计算能力维度 而非开销",
       "first_seen": "2026-08-26T03:16:00",
-      "last_seen": "2026-09-19T22:42:11.737457",
+      "last_seen": "2026-09-20T04:30:02.943505",
       "first_round": 1,
-      "last_round": 10,
-      "seen_count": 10,
+      "last_round": 12,
+      "seen_count": 12,
       "source": "60_MOC/灵感卡片/20260826_MTIA300_communication_offloading_TCC_insights.md",
       "detail": "在晶圆级SDSoW上增设独立的集合通信物理平面：边缘布置通信引擎（ME）近HBM，将AllReduce/归约下沉到内存旁路；NoC采用双平面路由，使计算流与通信流完全重叠，可扩展至百万神经元实时仿真。 | [ ] 设计TCC晶圆级双平面NoC仿真，对比单平面Mesh的AllReduce延迟与计算吞吐。",
       "evidence": {
@@ -5548,10 +5548,10 @@
       "title": "CST用复杂度×时间×结构耦合指数定量智能涌现，五公理将alpha定义为器件特性，为计算增益提供可测度量。",
       "norm": "cst用复杂度×时间×结构耦合指数定量智能涌现 五公理将alpha定义为器件特性 为计算增益提供可测度量",
       "first_seen": "2026-08-26T03:15:00",
-      "last_seen": "2026-09-19T22:42:11.738457",
+      "last_seen": "2026-09-20T04:30:02.943505",
       "first_round": 1,
-      "last_round": 10,
-      "seen_count": 10,
+      "last_round": 12,
+      "seen_count": 12,
       "source": "60_MOC/灵感卡片/20260826_CST理论.md",
       "detail": "在脉冲神经网络晶圆级仿真中，以CST为损失函数，扫描拓扑Gamma_st和温度等参数，观察超加性增益与临界点，验证alpha与材料/器件类型对应关系。 | [ ] 在v28多尺度仿真中集成CST指标，扫描不同NoC路由延迟下的Gamma_st，定位涌现临界点。",
       "evidence": {
@@ -5586,7 +5586,7 @@
         }
       ],
       "flags": [],
-      "age_days": 24.8
+      "age_days": 25.1
     },
     "a44e39da2dad407b": {
       "id": "C-00119",
@@ -5595,10 +5595,10 @@
       "title": "涌现现象源于大量简单单元局部交互，产生全局新属性，不可还原为个体。系统临界性（如自组织临界）是涌现的关键条件，为智能涌现提供理论支撑。",
       "norm": "涌现现象源于大量简单单元局部交互 产生全局新属性 不可还原为个体 系统临界性 如自组织临界 是涌现的关键条件 为智能涌现提供理论支撑",
       "first_seen": "2026-08-26T03:15:00",
-      "last_seen": "2026-09-19T22:42:11.738457",
+      "last_seen": "2026-09-20T04:30:02.943505",
       "first_round": 1,
-      "last_round": 10,
-      "seen_count": 10,
+      "last_round": 12,
+      "seen_count": 12,
       "source": "60_MOC/灵感卡片/20260826_涌现现象：复杂系统的神奇力量_-_科普教育_-_上海市非线性科学研究会.md",
       "detail": "在晶圆级NoC中引入自组织临界动态（如沙堆模型），通过局部阈值触发全局重连，模拟临界态，验证涌现计算增益。 | [ ] 设计晶圆级NoC临界态仿真实验，对比随机与临界拓扑的涌现性能。",
       "evidence": {
@@ -5633,7 +5633,7 @@
         }
       ],
       "flags": [],
-      "age_days": 24.8
+      "age_days": 25.1
     },
     "d2575e5a60a99028": {
       "id": "C-00120",
@@ -5642,10 +5642,10 @@
       "title": "晶上系统二期需从原型验证转向工程牵引，以软件定义拓扑为核心，把拓扑作为一等计算资源，实现架构换道和超线性战斗力增益。",
       "norm": "晶上系统二期需从原型验证转向工程牵引 以软件定义拓扑为核心 把拓扑作为一等计算资源 实现架构换道和超线性战斗力增益",
       "first_seen": "2026-08-25T22:30:00",
-      "last_seen": "2026-09-19T22:42:11.738457",
+      "last_seen": "2026-09-20T04:30:02.943505",
       "first_round": 1,
-      "last_round": 10,
-      "seen_count": 10,
+      "last_round": 12,
+      "seen_count": 12,
       "source": "60_MOC/灵感卡片/20260825_Chiplet_II_Software_Defined_Topology_Strategy.md",
       "detail": "针对晶上数字射频战场，设计基于忆阻器crossbar的物理计算加速单元，嵌入拓扑编译器，实时将电磁场方程映射到可重构拓扑，测量与PCB基线的延迟/能效比。 | [ ] 完成晶上拓扑编译器需求分析与IR设计文档",
       "evidence": {
@@ -5682,7 +5682,7 @@
       "flags": [
         "off-framework"
       ],
-      "age_days": 25.0
+      "age_days": 25.3
     },
     "636f52915d389049": {
       "id": "C-00121",
@@ -5691,10 +5691,10 @@
       "title": "小米O100用6nm Wafer-on-Wafer混合键合，以28672根连线实现1.22TB/s带宽，并以拓扑动态切换（环形/广播）适配AI计算模式，直接验证了拓扑互连架构在近存计算中的实际可行性。",
       "norm": "小米o100用6nm wafer on wafer混合键合 以28672根连线实现1 22tb s带宽 并以拓扑动态切换 环形 广播 适配ai计算模式 直接验证了拓扑互连架构在近存计算中的实际可行性",
       "first_seen": "2026-08-25T22:30:00",
-      "last_seen": "2026-09-19T22:42:11.738457",
+      "last_seen": "2026-09-20T04:30:02.943505",
       "first_round": 1,
-      "last_round": 10,
-      "seen_count": 10,
+      "last_round": 12,
+      "seen_count": 12,
       "source": "60_MOC/灵感卡片/20260825_Xiaomi_Xuanjie_chip_analysis.md",
       "detail": "借鉴O100的分区拓扑动态切换，设计事件驱动spike传输的NoC：预填充对应全局广播，解码对应环形路由，用混合键合3D堆叠实现突触权重近存，验证H7延迟降低一个数量级。 | [ ] 在FPGA原型上实现O100式双拓扑切换NoC，用MNIST事件流对比单拓扑延迟。",
       "evidence": {
@@ -5729,7 +5729,7 @@
         }
       ],
       "flags": [],
-      "age_days": 25.0
+      "age_days": 25.3
     },
     "c235f7f92e846a76": {
       "id": "C-00122",
@@ -5738,10 +5738,10 @@
       "title": "晶上系统二期应以超低轨卫星智能体和数字射频战场为战略牵引，通过软件定义架构与晶圆级集成协同，实现从'做出来'到'用起来'的1+1>2超线性战斗力倍增。",
       "norm": "晶上系统二期应以超低轨卫星智能体和数字射频战场为战略牵引 通过软件定义架构与晶圆级集成协同 实现从 做出来 到 用起来 的1+1 2超线性战斗力倍增",
       "first_seen": "2026-08-25T22:30:00",
-      "last_seen": "2026-09-19T22:42:11.738457",
+      "last_seen": "2026-09-20T04:30:02.943505",
       "first_round": 1,
-      "last_round": 10,
-      "seen_count": 10,
+      "last_round": 12,
+      "seen_count": 12,
       "source": "60_MOC/灵感卡片/20260825_proposal_software_defined_chiplet_system_phase2_st.md",
       "detail": "设计面向超低轨星上智能体的TCC拓扑互连原型：将脉冲神经网络映射到晶上可重构域，利用软件定义拓扑实现事件驱动稀疏通信，验证超加性增益在SWaP约束下的效能。 | [ ] 撰写TCC超加性增益用于超低轨星上智能体的概念验证方案，并对比传统架构。",
       "evidence": {
@@ -5776,7 +5776,7 @@
         }
       ],
       "flags": [],
-      "age_days": 25.0
+      "age_days": 25.3
     },
     "cfacba067175a428": {
       "id": "C-00123",
@@ -5785,10 +5785,10 @@
       "title": "CS-4通过0.5mm极限供电和3D封装将单芯片带宽翻倍至43.2PB/s，三晶圆无交换机直连实现2μs延迟，证明晶圆级互连可极大降低通信成本，为超加性计算增益提供硬件基础。",
       "norm": "cs 4通过0 5mm极限供电和3d封装将单芯片带宽翻倍至43 2pb s 三晶圆无交换机直连实现2μs延迟 证明晶圆级互连可极大降低通信成本 为超加性计算增益提供硬件基础",
       "first_seen": "2026-08-25T22:28:00",
-      "last_seen": "2026-09-19T22:42:11.738457",
+      "last_seen": "2026-09-20T04:30:02.943505",
       "first_round": 1,
-      "last_round": 10,
-      "seen_count": 10,
+      "last_round": 12,
+      "seen_count": 12,
       "source": "60_MOC/灵感卡片/20260825_Cerebras_CS4_wafer_scale_AI_accelerator_analysis.md",
       "detail": "借鉴CS-4的晶圆直连拓扑，设计事件驱动spike包的无交换机路由协议，利用2μs延迟特性实现跨晶圆脉冲同步，在H7框架下验证NoC延迟降低一个数量级。 | [ ] 建模CS-4直连拓扑，在iNEST仿真器中评估spike传输延迟与吞吐量，对比传统NoC。",
       "evidence": {
@@ -5823,7 +5823,7 @@
         }
       ],
       "flags": [],
-      "age_days": 25.0
+      "age_days": 25.3
     },
     "c95f2ee88bb599b8": {
       "id": "C-00124",
@@ -5832,10 +5832,10 @@
       "title": "纯前馈Transformer因缺乏循环连接而难以稳定跟踪动态状态；循环架构通过固定层级激活递进和权重共享，实现更稳定的状态演化，并提供了二维分类体系指导架构选择。",
       "norm": "纯前馈transformer因缺乏循环连接而难以稳定跟踪动态状态 循环架构通过固定层级激活递进和权重共享 实现更稳定的状态演化 并提供了二维分类体系指导架构选择",
       "first_seen": "2026-08-25T22:28:00",
-      "last_seen": "2026-09-19T22:42:11.738457",
+      "last_seen": "2026-09-20T04:30:02.943505",
       "first_round": 1,
-      "last_round": 10,
-      "seen_count": 10,
+      "last_round": 12,
+      "seen_count": 12,
       "source": "60_MOC/灵感卡片/20260825_Topological_Trouble_Transformers_Recurrent_Archite.md",
       "detail": "在SDI互连仿真器中实现循环Transformer映射，对比不同循环轴与token步长比配置下的状态跟踪精度和延迟，验证反馈路径的动态重构是否等效于权重共享循环。 | [ ] 设计基准实验：在SDI仿真器中实现循环vs前馈状态跟踪对比。",
       "evidence": {
@@ -5870,7 +5870,7 @@
         }
       ],
       "flags": [],
-      "age_days": 25.0
+      "age_days": 25.3
     },
     "4c046555892baf7a": {
       "id": "C-00125",
@@ -5879,10 +5879,10 @@
       "title": "文章涉及 TCC×iNEST 方向（3d、sdi、chip × emergence、critical）",
       "norm": "文章涉及 tcc×inest 方向 3d sdi chip × emergence critical",
       "first_seen": "2026-08-25T22:24:00",
-      "last_seen": "2026-09-19T22:42:11.738457",
+      "last_seen": "2026-09-20T04:30:02.943505",
       "first_round": 1,
-      "last_round": 10,
-      "seen_count": 12,
+      "last_round": 12,
+      "seen_count": 14,
       "source": "60_MOC/灵感卡片/20260825_CAE_Info_Division_15th_FYP_Strategic_Projects_Kick.md",
       "detail": "[ ] 人工审阅这篇文章，判断是否值得深入",
       "evidence": {
@@ -5919,7 +5919,7 @@
       "flags": [
         "no-acceptance-criterion"
       ],
-      "age_days": 25.0
+      "age_days": 25.3
     },
     "5175125d1ac9e2f7": {
       "id": "C-00126",
@@ -5928,10 +5928,10 @@
       "title": "文章涉及 TCC×iNEST 方向（cache × spike、attention）",
       "norm": "文章涉及 tcc×inest 方向 cache × spike attention",
       "first_seen": "2026-08-25T22:24:00",
-      "last_seen": "2026-09-19T22:42:11.738457",
+      "last_seen": "2026-09-20T04:30:02.943505",
       "first_round": 1,
-      "last_round": 10,
-      "seen_count": 10,
+      "last_round": 12,
+      "seen_count": 12,
       "source": "60_MOC/灵感卡片/20260825_diff_transformer_attention_noise_reduction.md",
       "detail": "[ ] 人工审阅这篇文章，判断是否值得深入",
       "evidence": {
@@ -5968,7 +5968,7 @@
       "flags": [
         "no-acceptance-criterion"
       ],
-      "age_days": 25.0
+      "age_days": 25.3
     },
     "d1b02c8d2bc0feb6": {
       "id": "C-00127",
@@ -5977,10 +5977,10 @@
       "title": "文章涉及 TCC×iNEST 方向（topology、sdi、chip × neuromorphic、stdp、memristor）",
       "norm": "文章涉及 tcc×inest 方向 topology sdi chip × neuromorphic stdp memristor",
       "first_seen": "2026-08-25T22:24:00",
-      "last_seen": "2026-09-19T22:42:11.738457",
+      "last_seen": "2026-09-20T04:30:02.943505",
       "first_round": 1,
-      "last_round": 10,
-      "seen_count": 10,
+      "last_round": 12,
+      "seen_count": 12,
       "source": "60_MOC/灵感卡片/20260825_Topological_Manifold_Computing_and_iNEST_TCC_Fusio.md",
       "detail": "[ ] 人工审阅这篇文章，判断是否值得深入",
       "evidence": {
@@ -6017,7 +6017,7 @@
       "flags": [
         "no-acceptance-criterion"
       ],
-      "age_days": 25.0
+      "age_days": 25.3
     },
     "95c1eab978e89ee5": {
       "id": "C-00128",
@@ -6026,10 +6026,10 @@
       "title": "文章涉及 TCC×iNEST 方向（sdi、architecture × memristor、emergence、critical）",
       "norm": "文章涉及 tcc×inest 方向 sdi architecture × memristor emergence critical",
       "first_seen": "2026-08-25T22:24:00",
-      "last_seen": "2026-09-19T22:42:11.738457",
+      "last_seen": "2026-09-20T04:30:02.943505",
       "first_round": 1,
-      "last_round": 10,
-      "seen_count": 10,
+      "last_round": 12,
+      "seen_count": 12,
       "source": "60_MOC/灵感卡片/20260825_CST_topological_manifold_formulation.md",
       "detail": "[ ] 人工审阅这篇文章，判断是否值得深入",
       "evidence": {
@@ -6066,7 +6066,7 @@
       "flags": [
         "no-acceptance-criterion"
       ],
-      "age_days": 25.0
+      "age_days": 25.3
     },
     "44b67c8c94b2a5c0": {
       "id": "C-00129",
@@ -6075,10 +6075,10 @@
       "title": "文章涉及 TCC 方向（chiplet、wafer、3d × ）",
       "norm": "文章涉及 tcc 方向 chiplet wafer 3d ×",
       "first_seen": "2026-08-25T22:24:00",
-      "last_seen": "2026-09-19T22:42:11.738457",
+      "last_seen": "2026-09-20T04:30:02.943505",
       "first_round": 1,
-      "last_round": 10,
-      "seen_count": 10,
+      "last_round": 12,
+      "seen_count": 12,
       "source": "60_MOC/灵感卡片/20260825_Tao-Law-AI-Computing-3D-Integration-Analysis.md",
       "detail": "[ ] 人工审阅这篇文章，判断是否值得深入",
       "evidence": {
@@ -6115,7 +6115,7 @@
       "flags": [
         "no-acceptance-criterion"
       ],
-      "age_days": 25.0
+      "age_days": 25.3
     },
     "318144b88121db2f": {
       "id": "C-00130",
@@ -6124,10 +6124,10 @@
       "title": "文章涉及 TCC 方向（3d × ）",
       "norm": "文章涉及 tcc 方向 3d ×",
       "first_seen": "2026-08-25T22:24:00",
-      "last_seen": "2026-09-19T22:42:11.738457",
+      "last_seen": "2026-09-20T04:30:02.943505",
       "first_round": 1,
-      "last_round": 10,
-      "seen_count": 10,
+      "last_round": 12,
+      "seen_count": 12,
       "source": "60_MOC/灵感卡片/20260825_UAV_Cloud_Platform_Project_Discussion.md",
       "detail": "[ ] 人工审阅这篇文章，判断是否值得深入",
       "evidence": {
@@ -6164,7 +6164,7 @@
       "flags": [
         "no-acceptance-criterion"
       ],
-      "age_days": 25.0
+      "age_days": 25.3
     },
     "231f8d8b300e459a": {
       "id": "C-00131",
@@ -6173,10 +6173,10 @@
       "title": "文章涉及 TCC×iNEST 方向（architecture × attention）",
       "norm": "文章涉及 tcc×inest 方向 architecture × attention",
       "first_seen": "2026-08-25T22:24:00",
-      "last_seen": "2026-09-19T22:42:11.738457",
+      "last_seen": "2026-09-20T04:30:02.943505",
       "first_round": 1,
-      "last_round": 10,
-      "seen_count": 10,
+      "last_round": 12,
+      "seen_count": 12,
       "source": "60_MOC/灵感卡片/20260825_combinatoriality_continuum_neural_modules_insight.md",
       "detail": "[ ] 人工审阅这篇文章，判断是否值得深入",
       "evidence": {
@@ -6213,7 +6213,7 @@
       "flags": [
         "no-acceptance-criterion"
       ],
-      "age_days": 25.0
+      "age_days": 25.3
     },
     "251c067f8d969a51": {
       "id": "C-00132",
@@ -6222,16 +6222,16 @@
       "title": "跨域桥 SDI_Plastic_Interconnect",
       "norm": "跨域桥 sdi plastic interconnect",
       "first_seen": "2026-09-18T00:13:30.132148",
-      "last_seen": "2026-09-19T22:42:11.738457",
+      "last_seen": "2026-09-20T04:30:02.944012",
       "first_round": 1,
-      "last_round": 10,
-      "seen_count": 8,
+      "last_round": 12,
+      "seen_count": 10,
       "source": "wiki/cross_domain_insights.md",
-      "detail": "Strength=40 · Coverage=0.9518",
+      "detail": "Strength=41 · Coverage=0.9111",
       "evidence": {
-        "strength": 40,
+        "strength": 41,
         "quality_flag": "strength-is-corpus-frequency-not-relevance",
-        "coverage": 0.9518
+        "coverage": 0.9111
       },
       "score": 0.3112,
       "score_reasons": [
@@ -6271,16 +6271,16 @@
       "title": "跨域桥 Chiplet_Heterogeneous_Neuromorphic",
       "norm": "跨域桥 chiplet heterogeneous neuromorphic",
       "first_seen": "2026-09-18T00:13:30.132148",
-      "last_seen": "2026-09-19T22:42:11.738457",
+      "last_seen": "2026-09-20T04:30:02.944012",
       "first_round": 1,
-      "last_round": 10,
-      "seen_count": 8,
+      "last_round": 12,
+      "seen_count": 10,
       "source": "wiki/cross_domain_insights.md",
-      "detail": "Strength=41 · Coverage=0.9518",
+      "detail": "Strength=44 · Coverage=0.9419",
       "evidence": {
-        "strength": 41,
+        "strength": 44,
         "quality_flag": "strength-is-corpus-frequency-not-relevance",
-        "coverage": 0.9518
+        "coverage": 0.9419
       },
       "score": 0.0873,
       "score_reasons": [
@@ -6321,16 +6321,16 @@
       "title": "跨域桥 NoC_Spiking_Routing",
       "norm": "跨域桥 noc spiking routing",
       "first_seen": "2026-09-18T00:13:30.132148",
-      "last_seen": "2026-09-19T22:42:11.738457",
+      "last_seen": "2026-09-20T04:30:02.944012",
       "first_round": 1,
-      "last_round": 10,
-      "seen_count": 8,
+      "last_round": 12,
+      "seen_count": 10,
       "source": "wiki/cross_domain_insights.md",
-      "detail": "Strength=36 · Coverage=0.8780",
+      "detail": "Strength=38 · Coverage=0.8444",
       "evidence": {
-        "strength": 36,
+        "strength": 38,
         "quality_flag": "strength-is-corpus-frequency-not-relevance",
-        "coverage": 0.878
+        "coverage": 0.8444
       },
       "score": 0.2899,
       "score_reasons": [
@@ -6370,16 +6370,16 @@
       "title": "跨域桥 WaferScale_Neuromorphic",
       "norm": "跨域桥 waferscale neuromorphic",
       "first_seen": "2026-09-18T00:13:30.132148",
-      "last_seen": "2026-09-19T22:42:11.738457",
+      "last_seen": "2026-09-20T04:30:02.944012",
       "first_round": 1,
-      "last_round": 10,
-      "seen_count": 8,
+      "last_round": 12,
+      "seen_count": 10,
       "source": "wiki/cross_domain_insights.md",
-      "detail": "Strength=40 · Coverage=0.9398",
+      "detail": "Strength=43 · Coverage=0.9070",
       "evidence": {
-        "strength": 40,
+        "strength": 43,
         "quality_flag": "strength-is-corpus-frequency-not-relevance",
-        "coverage": 0.9398
+        "coverage": 0.907
       },
       "score": 0.0608,
       "score_reasons": [
@@ -6420,16 +6420,16 @@
       "title": "跨域桥 3DIC_Neural_Stacking",
       "norm": "跨域桥 3dic neural stacking",
       "first_seen": "2026-09-18T00:13:30.132148",
-      "last_seen": "2026-09-18T11:30:00.631007",
+      "last_seen": "2026-09-20T04:30:02.944012",
       "first_round": 1,
-      "last_round": 9,
-      "seen_count": 7,
+      "last_round": 12,
+      "seen_count": 8,
       "source": "wiki/cross_domain_insights.md",
-      "detail": "Strength=304 · Coverage=0.1531",
+      "detail": "Strength=3 · Coverage=0.0667",
       "evidence": {
-        "strength": 304,
+        "strength": 3,
         "quality_flag": "strength-is-corpus-frequency-not-relevance",
-        "coverage": 0.1531
+        "coverage": 0.0667
       },
       "score": 0.0492,
       "score_reasons": [
@@ -6470,16 +6470,16 @@
       "title": "跨域桥 Topology_Brain_Connectome",
       "norm": "跨域桥 topology brain connectome",
       "first_seen": "2026-09-18T00:13:30.132148",
-      "last_seen": "2026-09-19T22:42:11.738457",
+      "last_seen": "2026-09-20T04:30:02.944012",
       "first_round": 1,
-      "last_round": 10,
-      "seen_count": 8,
+      "last_round": 12,
+      "seen_count": 10,
       "source": "wiki/cross_domain_insights.md",
-      "detail": "Strength=1 · Coverage=0.0244",
+      "detail": "Strength=1 · Coverage=0.0222",
       "evidence": {
         "strength": 1,
         "quality_flag": "strength-is-corpus-frequency-not-relevance",
-        "coverage": 0.0244
+        "coverage": 0.0222
       },
       "score": 0.0491,
       "score_reasons": [
@@ -6620,10 +6620,10 @@
       "title": "EV-2026-09-18-001: Pipeline zero-paper alert: API connectivity check",
       "norm": "ev 2026 09 18 001 pipeline zero paper alert api connectivity check",
       "first_seen": "2026-09-18T08:35:59.503270",
-      "last_seen": "2026-09-19T22:42:11.736457",
+      "last_seen": "2026-09-20T04:30:02.942505",
       "first_round": 7,
-      "last_round": 10,
-      "seen_count": 4,
+      "last_round": 12,
+      "seen_count": 6,
       "source": "99_Meta/evolution_queue.json",
       "detail": "Recent runs with zero new papers: 6",
       "evidence": {
@@ -6718,10 +6718,10 @@
       "title": "EV-2026-07-19-002: Git hygiene: 1590 uncommitted changes",
       "norm": "ev 2026 07 19 002 git hygiene 1590 uncommitted changes",
       "first_seen": "2026-09-19T22:42:11.736457",
-      "last_seen": "2026-09-19T22:42:11.736457",
+      "last_seen": "2026-09-20T04:30:02.942505",
       "first_round": 10,
-      "last_round": 10,
-      "seen_count": 1,
+      "last_round": 12,
+      "seen_count": 3,
       "source": "99_Meta/evolution_queue.json",
       "detail": "Commit or review outstanding changes.",
       "evidence": {
@@ -6737,15 +6737,21 @@
         "证据就绪: 无来源，属未落地构思"
       ],
       "escalated": false,
-      "verdict": "open",
-      "verdict_reason": "",
-      "verdict_by": "",
-      "verdict_round": null,
-      "verdict_at": "",
+      "verdict": "deferred",
+      "verdict_reason": "已出现 3 次仍无来源且无验证方法，暂缓（保留以备出现新材料）",
+      "verdict_by": "auto",
+      "verdict_round": 12,
+      "verdict_at": "2026-09-20T04:30:03.408733",
       "history": [
         {
           "round": 10,
           "verdict": "open"
+        },
+        {
+          "round": 12,
+          "verdict": "deferred",
+          "reason": "已出现 3 次仍无来源且无验证方法，暂缓（保留以备出现新材料）",
+          "by": "auto"
         }
       ],
       "flags": [
@@ -6761,10 +6767,10 @@
       "title": "纯三元高阶交互网络的宏观动力学可化归为一维方程，精度由有效高阶强度β_Δ与节点状态同质性共同决定，状态越趋同宏观预测越准。",
       "norm": "纯三元高阶交互网络的宏观动力学可化归为一维方程 精度由有效高阶强度β δ与节点状态同质性共同决定 状态越趋同宏观预测越准",
       "first_seen": "2026-09-19T10:59:00",
-      "last_seen": "2026-09-19T22:42:11.736457",
+      "last_seen": "2026-09-20T04:30:02.942505",
       "first_round": 10,
-      "last_round": 10,
-      "seen_count": 1,
+      "last_round": 12,
+      "seen_count": 3,
       "source": "60_MOC/灵感卡片/20260919_higher_order_network_dimension_reduction_tcc_inest.md",
       "detail": "把晶圆级SNN中的triplet-STDP突触簇建模为三元超边，用β_Δ一维模型预测全局放电临界点；以spike-rate方差（同质性）作在线判据，低于阈值才信任降维预测，并据此触发SDI拓扑重构。 | [ ] 仿真三节点motif的triplet-STDP网络，绘制β_Δ–临界性曲线并检验同质性判据。",
       "evidence": {
@@ -6801,10 +6807,10 @@
       "title": "索引里最值得串读的是两篇非标签论文：自调节重尾权重分布与空间早期预警信号，二者合起来给出临界性的可在线测量判据——尾指数α＋方差/自相关升高可作SNN逼近自组织临界态的实时探针。",
       "norm": "索引里最值得串读的是两篇非标签论文 自调节重尾权重分布与空间早期预警信号 二者合起来给出临界性的可在线测量判据 尾指数α+方差 自相关升高可作snn逼近自组织临界态的实时探针",
       "first_seen": "2026-09-19T10:58:00",
-      "last_seen": "2026-09-19T22:42:11.737457",
+      "last_seen": "2026-09-20T04:30:02.942505",
       "first_round": 10,
-      "last_round": 10,
-      "seen_count": 1,
+      "last_round": 12,
+      "seen_count": 3,
       "source": "60_MOC/灵感卡片/20260919_2026-08-18-arxiv-daily-index.md",
       "detail": "在晶圆级NoC上跑事件驱动SNN，扫描SDI重连速率作为控制参量，同步记录权重尾指数α、雪崩幂律指数与空间EWS指标（方差、滞后自相关、恢复率）；若EWS在任务性能跃升前先行升高，即证明H5的拓扑重构是驱动H2临界涌现的杠杆，而非单纯布线优化。 | [ ] 精读2508.21445与2608.15476，提取尾指数估计法与EWS指标体系，做成SNN可插桩的观测清单。",
       "evidence": {
@@ -6841,10 +6847,10 @@
       "title": "表观临界相变可纯由有限尺寸效应伪造：当关联长度ξ与系统尺寸L同量级时出现伪MIPT；扩到L≈18000并做FSS后临界监测强度趋于零，系统始终面积律。",
       "norm": "表观临界相变可纯由有限尺寸效应伪造 当关联长度ξ与系统尺寸l同量级时出现伪mipt 扩到l≈18000并做fss后临界监测强度趋于零 系统始终面积律",
       "first_seen": "2026-09-19T10:58:00",
-      "last_seen": "2026-09-19T22:42:11.737457",
+      "last_seen": "2026-09-20T04:30:02.942505",
       "first_round": 10,
-      "last_round": 10,
-      "seen_count": 1,
+      "last_round": 12,
+      "seen_count": 3,
       "source": "60_MOC/灵感卡片/20260919_no_mipt_monitored_1d_fermions_disordered_quasiperi.md",
       "detail": "在iNEST脉冲网络上做'有限尺寸标度优先'实验：对神经元数N=10^3→10^6扫描雪崩指数与关联长度，用1/L外推临界耦合；若临界点随N单调下降，则SOC涌现为有限尺寸伪影，需据此重设晶圆级涌现验证指标。 | [ ] 复现该文FSS流程并移植到iNEST雪崩数据，拟合ξ(N)与临界点外推。",
       "evidence": {
@@ -6881,10 +6887,10 @@
       "title": "DSI随机图的邻接矩阵领先特征值按√n标度、正负交替并落于对数螺旋上（可由Gamma函数解析刻画），特征向量呈对数周期振荡，说明离散尺度不变性可直接从谱几何中读出。",
       "norm": "dsi随机图的邻接矩阵领先特征值按√n标度 正负交替并落于对数螺旋上 可由gamma函数解析刻画 特征向量呈对数周期振荡 说明离散尺度不变性可直接从谱几何中读出",
       "first_seen": "2026-09-19T10:58:00",
-      "last_seen": "2026-09-19T22:42:11.737457",
+      "last_seen": "2026-09-20T04:30:02.942505",
       "first_round": 10,
-      "last_round": 10,
-      "seen_count": 1,
+      "last_round": 12,
+      "seen_count": 3,
       "source": "60_MOC/灵感卡片/20260919_random_graphs_discrete_scale_invariance_spectra.md",
       "detail": "定义'谱对数螺旋拟合残差'作为拓扑重正化不变性评分，对fat-tree、分形、随机三类NoC邻接矩阵打分，再与事件驱动spike包延迟仿真做相关性分析，联合验证H10与H7。 | [ ] 编写脚本对候选NoC邻接矩阵做特征值对数螺旋拟合，输出DSI评分与延迟相关系数。",
       "evidence": {
@@ -6909,6 +6915,126 @@
       "history": [
         {
           "round": 10,
+          "verdict": "open"
+        }
+      ],
+      "flags": []
+    },
+    "f58e908fb3dccd63": {
+      "id": "C-00147",
+      "key": "f58e908fb3dccd63",
+      "kind": "idea",
+      "title": "在时滞耦合网络中，度异质性与非互惠有向加权拓扑反而比全连接更利于同步，颠覆了无时滞系统的最优拓扑直觉。",
+      "norm": "在时滞耦合网络中 度异质性与非互惠有向加权拓扑反而比全连接更利于同步 颠覆了无时滞系统的最优拓扑直觉",
+      "first_seen": "2026-09-20T03:04:00",
+      "last_seen": "2026-09-20T04:30:02.942505",
+      "first_round": 12,
+      "last_round": 12,
+      "seen_count": 1,
+      "source": "60_MOC/灵感卡片/20260920_generalized_master_stability_heterogeneous_delay_c.md",
+      "detail": "将论文的有向边加权优化器嵌入SDI控制器：以NoC实测路由延迟构建时滞矩阵，离线求解最优非互惠拓扑并编码为重构查找表，在脉冲NoC上验证同步指数相对全连接的增益。 | [ ] 复现MSF优化器，在16节点时滞网络上求最优有向加权拓扑并与全连接对比。",
+      "evidence": {
+        "source_ref": "[[generalized_master_stability_heterogeneous_delay_coupled_networks]]",
+        "hypothesis_link": "H5：SDI可通过有向加权动态重构互连，非互惠性为突触可塑性拓扑重构提供了同步稳定性判据。",
+        "has_next_step": true,
+        "method": "llm",
+        "card_date": "2026-09-20 03:04"
+      },
+      "score": 0.8194,
+      "score_reasons": [
+        "框架契合: 命中 2 个词表项 ['SDI', 'NoC']",
+        "可验证性: 有验证方法且含判据词 ['对比', '复现', '验证']",
+        "证据就绪: 有来源/证据字段"
+      ],
+      "escalated": false,
+      "verdict": "open",
+      "verdict_reason": "",
+      "verdict_by": "",
+      "verdict_round": null,
+      "verdict_at": "",
+      "history": [
+        {
+          "round": 12,
+          "verdict": "open"
+        }
+      ],
+      "flags": []
+    },
+    "f92e9d8e99e3b0a9": {
+      "id": "C-00148",
+      "key": "f92e9d8e99e3b0a9",
+      "kind": "idea",
+      "title": "CGRA以字级可重构互连加数据流握手，将拓扑本身变为可编程资源，微秒级重构即可切换功能与数据流向，直接规避内存墙1280倍搬运能耗。",
+      "norm": "cgra以字级可重构互连加数据流握手 将拓扑本身变为可编程资源 微秒级重构即可切换功能与数据流向 直接规避内存墙1280倍搬运能耗",
+      "first_seen": "2026-09-20T03:03:00",
+      "last_seen": "2026-09-20T04:30:02.942505",
+      "first_round": 12,
+      "last_round": 12,
+      "seen_count": 1,
+      "source": "60_MOC/灵感卡片/20260920_CGRA_Post_Moore_Computing_Architecture_Revolution.md",
+      "detail": "把CGRA的Valid-Ready握手改造为spike事件令牌，突触权重映射到PE配置寄存器；脉冲到达即触发互连重构，构建「拓扑即权重」的神经形态CGRA，对比传统SNN权重存储的能效与延迟增益。 | [ ] 建立CGRA互连重构开销模型，量化微秒级切换可支撑的突触更新频率上限。",
+      "evidence": {
+        "source_ref": "[[CGRA_Post_Moore_Computing_Architecture_Revolution]]",
+        "hypothesis_link": "H5最相关：CGRA可重构互连能微秒级改写数据通路，与「SDI软件定义互连实现类突触可塑性拓扑重构」在机制上同构，互连即权重。",
+        "has_next_step": true,
+        "method": "llm",
+        "card_date": "2026-09-20 03:03"
+      },
+      "score": 0.7582,
+      "score_reasons": [
+        "框架契合: 命中 1 个词表项 ['可重构互连']",
+        "可验证性: 有验证方法且含判据词 ['对比']",
+        "证据就绪: 有来源/证据字段"
+      ],
+      "escalated": false,
+      "verdict": "open",
+      "verdict_reason": "",
+      "verdict_by": "",
+      "verdict_round": null,
+      "verdict_at": "",
+      "history": [
+        {
+          "round": 12,
+          "verdict": "open"
+        }
+      ],
+      "flags": []
+    },
+    "755b576482a0d236": {
+      "id": "C-00149",
+      "key": "755b576482a0d236",
+      "kind": "idea",
+      "title": "晶圆级计算的本质是用消除物理边界换取τ累积归零；但Dojo层级数据显示跨封装边界带宽从2TB/s骤降至50GB/s，扩展性在机柜级断裂。",
+      "norm": "晶圆级计算的本质是用消除物理边界换取τ累积归零 但dojo层级数据显示跨封装边界带宽从2tb s骤降至50gb s 扩展性在机柜级断裂",
+      "first_seen": "2026-09-20T03:03:00",
+      "last_seen": "2026-09-20T04:30:02.942505",
+      "first_round": 12,
+      "last_round": 12,
+      "seen_count": 1,
+      "source": "60_MOC/灵感卡片/20260920_wafer_scale_computing_architecture_analysis.md",
+      "detail": "设计'边界带宽密度扫描'实验：在仿真NoC上将跨die带宽由2TB/s逐级降至50GB/s，跑MoE/稀疏注意力，测出超加性增益(1+1>2)消失的临界带宽比B*，形成H1×H4联合判据。 | [ ] 收集Dojo/Cerebras各层级带宽-延迟-算力数据，拟合τ累积曲线并标定B*临界点。",
+      "evidence": {
+        "source_ref": "[[wafer_scale_computing_architecture_analysis]]",
+        "hypothesis_link": "H4——Dojo的25芯粒→Tile→Tray→Cabinet→ExaPOD阶梯提供晶圆级扩展实测标尺，跨边界带宽断崖直接证伪'线性扩展'。",
+        "has_next_step": true,
+        "method": "llm",
+        "card_date": "2026-09-20 03:03"
+      },
+      "score": 0.7582,
+      "score_reasons": [
+        "框架契合: 命中 1 个词表项 ['NoC']",
+        "可验证性: 有验证方法且含判据词 ['仿真', '实验']",
+        "证据就绪: 有来源/证据字段"
+      ],
+      "escalated": false,
+      "verdict": "open",
+      "verdict_reason": "",
+      "verdict_by": "",
+      "verdict_round": null,
+      "verdict_at": "",
+      "history": [
+        {
+          "round": 12,
           "verdict": "open"
         }
       ],
@@ -7023,6 +7149,28 @@
       "closed": 0,
       "escalated": 48,
       "open_total": 75,
+      "gate_violations": 0,
+      "note": ""
+    },
+    {
+      "round": 11,
+      "date": "2026-09-19",
+      "at": "2026-09-19T22:58:26.522537",
+      "opened": 0,
+      "closed": 0,
+      "escalated": 48,
+      "open_total": 75,
+      "gate_violations": 0,
+      "note": ""
+    },
+    {
+      "round": 12,
+      "date": "2026-09-20",
+      "at": "2026-09-20T04:30:04.170091",
+      "opened": 3,
+      "closed": 1,
+      "escalated": 48,
+      "open_total": 77,
       "gate_violations": 0,
       "note": ""
     }
