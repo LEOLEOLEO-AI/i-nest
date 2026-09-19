@@ -1,0 +1,49 @@
+{
+  "schema": "sim-platform-registry-v1",
+  "experiments": {
+    "celegans_cross_species_criticality": {
+      "id": "celegans_cross_species_criticality",
+      "title": "跨物种连接组临界性交叉仿真（秀丽线虫/果蝇/猕猴）",
+      "workstream": "SIM",
+      "canonical_script": "sim_platform/experiments/celegans_cross_species_criticality.py",
+      "created": "2026-09-19T22:56:44.040431",
+      "versions": [
+        {
+          "v": 1,
+          "at": "2026-09-19T22:56:44.040431",
+          "note": "初始登记"
+        }
+      ],
+      "runs": [
+        {
+          "run_id": "20260919-225644-s0",
+          "at": "2026-09-19T22:56:53.961688",
+          "seed": 0,
+          "config_hash": "602905f36c86",
+          "result_hash": "0f4a6389b400",
+          "manifest": "sim_platform\\runs\\celegans_cross_species_criticality\\20260919-225644-s0\\run_manifest.json",
+          "evidence": "[仿真]"
+        },
+        {
+          "run_id": "20260919-225713-s0",
+          "at": "2026-09-19T22:57:21.361064",
+          "seed": 0,
+          "config_hash": "adf102b95bbe",
+          "result_hash": "04ed44050b5c",
+          "manifest": "sim_platform\\runs\\celegans_cross_species_criticality\\20260919-225713-s0\\run_manifest.json",
+          "evidence": "[仿真]"
+        },
+        {
+          "run_id": "20260919-225734-s0",
+          "at": "2026-09-19T22:57:42.524274",
+          "seed": 0,
+          "config_hash": "adf102b95bbe",
+          "result_hash": "37665f4b2011",
+          "manifest": "sim_platform\\runs\\celegans_cross_species_criticality\\20260919-225734-s0\\run_manifest.json",
+          "evidence": "[仿真]"
+        }
+      ]
+    }
+  },
+  "updated": "2026-09-19T22:57:42.536278"
+}

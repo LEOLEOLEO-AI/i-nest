@@ -1,0 +1,2898 @@
+{
+  "updated": "2026-09-19T22:54:26.722205",
+  "stats": {
+    "counts": {
+      "park": 754,
+      "reject": 18,
+      "keep": 119
+    },
+    "per_workstream": {
+      "PAPER": 68,
+      "GUIDE": 7,
+      "SIM": 22,
+      "CODE": 14,
+      "READ": 8
+    },
+    "scanned": 891,
+    "today": 15,
+    "backlog": 58
+  },
+  "rejected_paths": [
+    "00_Inbox/_pipeline_insights/2026-07-18_OA_Computation-efficient deep learning for computer vision A survey.md",
+    "D:/Obsidian/GetNotes_Inbox/_processed/2026年8月28号日记.md",
+    "D:/Obsidian/GetNotes_Inbox/_processed/2026年9月4日 日记.md",
+    "D:/Obsidian/GetNotes_Inbox/_processed/AI与网络、算力、行业应用研讨交流.md",
+    "D:/Obsidian/GetNotes_Inbox/_processed/CNCC2026新架构AI芯片生态论坛：从芯片创新到生态共建的全栈破局.md",
+    "D:/Obsidian/GetNotes_Inbox/_processed/Jeff Dean 离职创业与 Google Brain 系 AI 创始人全景图.md",
+    "D:/Obsidian/GetNotes_Inbox/_processed/MIT FLAME Lab（Rachit Nigam组）27Fall申博全指南.md",
+    "D:/Obsidian/GetNotes_Inbox/_processed/NVIDIA Rubin GPU 互连架构深度拆解：从显存到整机柜的四层数据高速路.md",
+    "D:/Obsidian/GetNotes_Inbox/_processed/getnote_1915074219839467072_天基计算的现状、挑战与机遇：韩银和团队最新研究成果深度解析.md",
+    "D:/Obsidian/GetNotes_Inbox/_processed/getnote_1915558041462438464_天津大学精仪学院考研高概率上岸攻略.md",
+    "D:/Obsidian/GetNotes_Inbox/_processed/getnote_1917222099698775312_《科学：新黄金时代》报告深度解读：美国科研体系的全面重构蓝图.md",
+    "D:/Obsidian/GetNotes_Inbox/_processed/getnote_1917418432316609944_Microchip 收购 Hailo 深度解析：边缘 AI 独立玩家的终局.md",
+    "D:/Obsidian/GetNotes_Inbox/_processed/getnote_1917419291312689240_太空算力硬件架构之争：FPGA vs ASIC vs GPU 全维度拆解.md",
+    "D:/Obsidian/GetNotes_Inbox/_processed/京上联盟十五五业务战略规划讨论.md",
+    "D:/Obsidian/GetNotes_Inbox/_processed/核查折子关键事实.md",
+    "D:/Obsidian/GetNotes_Inbox/_processed/比亚迪与学术界关于晶上系统智能驾驶计算方案的合作讨论.md",
+    "D:/Obsidian/GetNotes_Inbox/_processed/高端AI芯片晶上系统方案项目指标讨论会议.md"
+  ],
+  "keep": [
+    {
+      "path": "D:/Obsidian/GetNotes_Inbox/_processed/2026年9月5号日记.md",
+      "title": "2026年9月5号日记",
+      "verdict": "keep",
+      "why": "PAPER 相关(命中 ['论文', '专利'])；含交付物/待办信号 ['指南']",
+      "workstream": "PAPER",
+      "ws_hits": [
+        "论文",
+        "专利"
+      ],
+      "rank": 9,
+      "domain_hits": [
+        "TCC",
+        "iNEST"
+      ],
+      "strong": [
+        "指南"
+      ],
+      "todo_lines": 0,
+      "bytes": 392,
+      "source": "GetNotes_Inbox",
+      "dupes": 0,
+      "dupe_paths": []
+    },
+    {
+      "path": "D:/Obsidian/GetNotes_Inbox/_processed/getnote_1914939533960712232_2026 年 7 月 6 号 日记.md",
+      "title": "getnote_1914939533960712232_2026 年 7 月 6 号 日记",
+      "verdict": "keep",
+      "why": "GUIDE 相关(命中 ['指南', '申报', '立项'])；含交付物/待办信号 ['指南']",
+      "workstream": "GUIDE",
+      "ws_hits": [
+        "指南",
+        "申报",
+        "立项"
+      ],
+      "rank": 10,
+      "domain_hits": [
+        "TCC",
+        "iNEST"
+      ],
+      "strong": [
+        "指南"
+      ],
+      "todo_lines": 0,
+      "bytes": 446,
+      "source": "GetNotes_Inbox",
+      "dupes": 0,
+      "dupe_paths": []
+    },
+    {
+      "path": "D:/Obsidian/GetNotes_Inbox/_processed/getnote_1916095782105285728_Nature皮层层级表征研究对iNEST架构设计的启发.md",
+      "title": "getnote_1916095782105285728_Nature皮层层级表征研究对iNEST架构设计的启发",
+      "verdict": "keep",
+      "why": "PAPER 相关(命中 ['Nature', '论文'])；含交付物/待办信号 ['下一步']",
+      "workstream": "PAPER",
+      "ws_hits": [
+        "Nature",
+        "论文"
+      ],
+      "rank": 9,
+      "domain_hits": [
+        "TCC",
+        "iNEST"
+      ],
+      "strong": [
+        "下一步"
+      ],
+      "todo_lines": 0,
+      "bytes": 1210,
+      "source": "GetNotes_Inbox",
+      "dupes": 0,
+      "dupe_paths": []
+    },
+    {
+      "path": "D:/Obsidian/GetNotes_Inbox/_processed/getnote_1916568535598535232_2026 年 7 月 24 号日记.md",
+      "title": "getnote_1916568535598535232_2026 年 7 月 24 号日记",
+      "verdict": "keep",
+      "why": "SIM 相关(命中 ['仿真'])；含交付物/待办信号 ['下一步']",
+      "workstream": "SIM",
+      "ws_hits": [
+        "仿真"
+      ],
+      "rank": 8,
+      "domain_hits": [
+        "TCC",
+        "iNEST"
+      ],
+      "strong": [
+        "下一步"
+      ],
+      "todo_lines": 0,
+      "bytes": 487,
+      "source": "GetNotes_Inbox",
+      "dupes": 0,
+      "dupe_paths": []
+    },
+    {
+      "path": "D:/Obsidian/GetNotes_Inbox/_processed/getnote_1916660227781174664_拓扑中心计算：面向通信受限智能计算的第三类体系结构范式.md",
+      "title": "getnote_1916660227781174664_拓扑中心计算：面向通信受限智能计算的第三类体系结构范式",
+      "verdict": "keep",
+      "why": "PAPER 相关(命中 ['投稿', 'abstract', '稿'])；含交付物/待办信号 ['spec']",
+      "workstream": "PAPER",
+      "ws_hits": [
+        "投稿",
+        "abstract",
+        "稿"
+      ],
+      "rank": 28,
+      "domain_hits": [
+        "TCC",
+        "拓扑中心计算",
+        "topology-centric computing",
+        "reconfigurable interconnect",
+        "可重构互连"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 29024,
+      "source": "GetNotes_Inbox",
+      "dupes": 0,
+      "dupe_paths": []
+    },
+    {
+      "path": "D:/Obsidian/GetNotes_Inbox/_processed/getnote_1916700372840365288_上海市先进计算专项项目申报讨论：拓扑中心计算与生成式计算架构项目修订.md",
+      "title": "getnote_1916700372840365288_上海市先进计算专项项目申报讨论：拓扑中心计算与生成式计算架构项目修订",
+      "verdict": "keep",
+      "why": "GUIDE 相关(命中 ['申报', '指南', '评审'])；含交付物/待办信号 ['指南']",
+      "workstream": "GUIDE",
+      "ws_hits": [
+        "申报",
+        "指南",
+        "评审"
+      ],
+      "rank": 10,
+      "domain_hits": [
+        "TCC",
+        "拓扑中心计算"
+      ],
+      "strong": [
+        "指南"
+      ],
+      "todo_lines": 0,
+      "bytes": 4540,
+      "source": "GetNotes_Inbox",
+      "dupes": 0,
+      "dupe_paths": []
+    },
+    {
+      "path": "D:/Obsidian/GetNotes_Inbox/_processed/getnote_1916995724856561752_SDSoW接口标准评审意见.md",
+      "title": "getnote_1916995724856561752_SDSoW接口标准评审意见",
+      "verdict": "keep",
+      "why": "CODE 相关(命中 ['接口', '实现', '重构'])；含交付物/待办信号 ['评审意见']",
+      "workstream": "CODE",
+      "ws_hits": [
+        "接口",
+        "实现",
+        "重构",
+        "测试",
+        "验证"
+      ],
+      "rank": 10,
+      "domain_hits": [
+        "SDSoW"
+      ],
+      "strong": [
+        "评审意见"
+      ],
+      "todo_lines": 0,
+      "bytes": 35053,
+      "source": "GetNotes_Inbox",
+      "dupes": 0,
+      "dupe_paths": []
+    },
+    {
+      "path": "D:/Obsidian/GetNotes_Inbox/_processed/getnote_1917123806150410144_CST 主方程的重整化群第一性原理推导.md",
+      "title": "getnote_1917123806150410144_CST 主方程的重整化群第一性原理推导",
+      "verdict": "keep",
+      "why": "SIM 相关(命中 ['临界', '相变'])；含交付物/待办信号 ['未完成']",
+      "workstream": "SIM",
+      "ws_hits": [
+        "临界",
+        "相变"
+      ],
+      "rank": 7,
+      "domain_hits": [
+        "iNEST"
+      ],
+      "strong": [
+        "未完成"
+      ],
+      "todo_lines": 0,
+      "bytes": 13865,
+      "source": "GetNotes_Inbox",
+      "dupes": 0,
+      "dupe_paths": []
+    },
+    {
+      "path": "D:/Obsidian/GetNotes_Inbox/_processed/getnote_1917124086397026208_CST三条证明.md",
+      "title": "getnote_1917124086397026208_CST三条证明",
+      "verdict": "keep",
+      "why": "SIM 相关(命中 ['涌现', '临界', '复杂网络'])；含交付物/待办信号 ['未完成']",
+      "workstream": "SIM",
+      "ws_hits": [
+        "涌现",
+        "临界",
+        "复杂网络",
+        "相变"
+      ],
+      "rank": 9,
+      "domain_hits": [
+        "iNEST"
+      ],
+      "strong": [
+        "未完成"
+      ],
+      "todo_lines": 0,
+      "bytes": 10005,
+      "source": "GetNotes_Inbox",
+      "dupes": 0,
+      "dupe_paths": []
+    },
+    {
+      "path": "D:/Obsidian/GetNotes_Inbox/_processed/getnote_1917124279670183320_苏州实验室 iNEST 先导项目指南.md",
+      "title": "getnote_1917124279670183320_苏州实验室 iNEST 先导项目指南",
+      "verdict": "keep",
+      "why": "GUIDE 相关(命中 ['指南', '立项'])；含交付物/待办信号 ['指南']",
+      "workstream": "GUIDE",
+      "ws_hits": [
+        "指南",
+        "立项"
+      ],
+      "rank": 13,
+      "domain_hits": [
+        "可重构互连",
+        "iNEST",
+        "涌现智能",
+        "SDDE"
+      ],
+      "strong": [
+        "指南"
+      ],
+      "todo_lines": 0,
+      "bytes": 5501,
+      "source": "GetNotes_Inbox",
+      "dupes": 0,
+      "dupe_paths": []
+    },
+    {
+      "path": "D:/Obsidian/GetNotes_Inbox/_processed/getnote_1917217265712035088_TCCNPU协同路线图.md",
+      "title": "getnote_1917217265712035088_TCCNPU协同路线图",
+      "verdict": "keep",
+      "why": "CODE 相关(命中 ['实现', '重构', '接口'])；含交付物/待办信号 ['spec']",
+      "workstream": "CODE",
+      "ws_hits": [
+        "实现",
+        "重构",
+        "接口",
+        "测试",
+        "验证"
+      ],
+      "rank": 25,
+      "domain_hits": [
+        "TCC",
+        "拓扑中心计算",
+        "拓扑计算",
+        "拓扑重构",
+        "SDI"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 10068,
+      "source": "GetNotes_Inbox",
+      "dupes": 0,
+      "dupe_paths": []
+    },
+    {
+      "path": "D:/Obsidian/GetNotes_Inbox/_processed/getnote_1917399284279185496_2026 年 8 月 2 号日记.md",
+      "title": "getnote_1917399284279185496_2026 年 8 月 2 号日记",
+      "verdict": "keep",
+      "why": "CODE 相关(命中 ['代码'])；含交付物/待办信号 ['下一步']",
+      "workstream": "CODE",
+      "ws_hits": [
+        "代码"
+      ],
+      "rank": 6,
+      "domain_hits": [
+        "TCC"
+      ],
+      "strong": [
+        "下一步"
+      ],
+      "todo_lines": 0,
+      "bytes": 669,
+      "source": "GetNotes_Inbox",
+      "dupes": 0,
+      "dupe_paths": []
+    },
+    {
+      "path": "D:/Obsidian/GetNotes_Inbox/_processed/getnote_1917532783674956432_拓扑中心计算范式架构关键技术研究.md",
+      "title": "getnote_1917532783674956432_拓扑中心计算范式架构关键技术研究",
+      "verdict": "keep",
+      "why": "CODE 相关(命中 ['实现', '算法', '重构'])；含交付物/待办信号 ['建议书']",
+      "workstream": "CODE",
+      "ws_hits": [
+        "实现",
+        "算法",
+        "重构",
+        "验证",
+        "code"
+      ],
+      "rank": 24,
+      "domain_hits": [
+        "TCC",
+        "拓扑中心计算",
+        "topology-centric computing",
+        "拓扑重构",
+        "Topology Page"
+      ],
+      "strong": [
+        "建议书"
+      ],
+      "todo_lines": 0,
+      "bytes": 15273,
+      "source": "GetNotes_Inbox",
+      "dupes": 0,
+      "dupe_paths": []
+    },
+    {
+      "path": "D:/Obsidian/GetNotes_Inbox/_processed/iNEST 与涌现理论映射清单.md",
+      "title": "iNEST 与涌现理论映射清单",
+      "verdict": "keep",
+      "why": "SIM 相关(命中 ['涌现', '临界', '相变'])；含交付物/待办信号 ['未完成']",
+      "workstream": "SIM",
+      "ws_hits": [
+        "涌现",
+        "临界",
+        "相变",
+        "自组织临界"
+      ],
+      "rank": 15,
+      "domain_hits": [
+        "TCC",
+        "拓扑中心计算",
+        "SDSoW",
+        "iNEST"
+      ],
+      "strong": [
+        "未完成"
+      ],
+      "todo_lines": 0,
+      "bytes": 2411,
+      "source": "GetNotes_Inbox",
+      "dupes": 0,
+      "dupe_paths": []
+    },
+    {
+      "path": "D:/Obsidian/GetNotes_Inbox/_processed/kb_iNEST_getnote_1916095782105285728_Nature皮层层级表征研究对iNEST架构设计的启发.md",
+      "title": "kb_iNEST_getnote_1916095782105285728_Nature皮层层级表征研究对iNEST架构设计的启发",
+      "verdict": "keep",
+      "why": "PAPER 相关(命中 ['Nature', '论文'])；含交付物/待办信号 ['下一步']",
+      "workstream": "PAPER",
+      "ws_hits": [
+        "Nature",
+        "论文"
+      ],
+      "rank": 9,
+      "domain_hits": [
+        "TCC",
+        "iNEST"
+      ],
+      "strong": [
+        "下一步"
+      ],
+      "todo_lines": 0,
+      "bytes": 1215,
+      "source": "GetNotes_Inbox",
+      "dupes": 0,
+      "dupe_paths": []
+    },
+    {
+      "path": "D:/Obsidian/GetNotes_Inbox/_processed/OpenAI Jalapeño AI 加速器深度拆解：从用户体验反推的芯片架构设计.md",
+      "title": "OpenAI Jalapeño AI 加速器深度拆解：从用户体验反推的芯片架构设计",
+      "verdict": "keep",
+      "why": "CODE 相关(命中 ['加速', '接口', '验证'])；含交付物/待办信号 ['草稿', 'spec']",
+      "workstream": "CODE",
+      "ws_hits": [
+        "加速",
+        "接口",
+        "验证",
+        "code"
+      ],
+      "rank": 12,
+      "domain_hits": [
+        "NoC"
+      ],
+      "strong": [
+        "草稿",
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 2624,
+      "source": "GetNotes_Inbox",
+      "dupes": 0,
+      "dupe_paths": []
+    },
+    {
+      "path": "D:/Obsidian/GetNotes_Inbox/_processed/OpenAI Jalapeño 推理芯片架构深度拆解：从 GPU 瓶颈到软硬件重新分工.md",
+      "title": "OpenAI Jalapeño 推理芯片架构深度拆解：从 GPU 瓶颈到软硬件重新分工",
+      "verdict": "keep",
+      "why": "CODE 相关(命中 ['算法', '验证', 'code'])；含交付物/待办信号 ['draft', 'spec']",
+      "workstream": "CODE",
+      "ws_hits": [
+        "算法",
+        "验证",
+        "code",
+        "RTL"
+      ],
+      "rank": 12,
+      "domain_hits": [
+        "NoC"
+      ],
+      "strong": [
+        "draft",
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 3834,
+      "source": "GetNotes_Inbox",
+      "dupes": 0,
+      "dupe_paths": []
+    },
+    {
+      "path": "D:/Obsidian/GetNotes_Inbox/_processed/OpenAI Jalapeño 推理芯片深度拆解：从Nvidia缺陷到第一性原理设计.md",
+      "title": "OpenAI Jalapeño 推理芯片深度拆解：从Nvidia缺陷到第一性原理设计",
+      "verdict": "keep",
+      "why": "CODE 相关(命中 ['code', '性能'])；含交付物/待办信号 ['draft']",
+      "workstream": "CODE",
+      "ws_hits": [
+        "code",
+        "性能"
+      ],
+      "rank": 7,
+      "domain_hits": [
+        "NoC"
+      ],
+      "strong": [
+        "draft"
+      ],
+      "todo_lines": 0,
+      "bytes": 4198,
+      "source": "GetNotes_Inbox",
+      "dupes": 0,
+      "dupe_paths": []
+    },
+    {
+      "path": "D:/Obsidian/GetNotes_Inbox/_processed/TCC计算范式论文讨论与CID智能复杂度研究进展课题组会议.md",
+      "title": "TCC计算范式论文讨论与CID智能复杂度研究进展课题组会议",
+      "verdict": "keep",
+      "why": "PAPER 相关(命中 ['论文', '会议', '投稿'])；含交付物/待办信号 ['spec']",
+      "workstream": "PAPER",
+      "ws_hits": [
+        "论文",
+        "会议",
+        "投稿",
+        "专利",
+        "审稿"
+      ],
+      "rank": 15,
+      "domain_hits": [
+        "TCC",
+        "SDI"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 8400,
+      "source": "GetNotes_Inbox",
+      "dupes": 0,
+      "dupe_paths": []
+    },
+    {
+      "path": "D:/Obsidian/GetNotes_Inbox/_processed/先进计算芯片互联方向科研项目申报与课程筹备组内讨论.md",
+      "title": "先进计算芯片互联方向科研项目申报与课程筹备组内讨论",
+      "verdict": "keep",
+      "why": "GUIDE 相关(命中 ['申报', '指南', '课题'])；含交付物/待办信号 ['指南']",
+      "workstream": "GUIDE",
+      "ws_hits": [
+        "申报",
+        "指南",
+        "课题"
+      ],
+      "rank": 10,
+      "domain_hits": [
+        "拓扑重构",
+        "SDI"
+      ],
+      "strong": [
+        "指南"
+      ],
+      "todo_lines": 0,
+      "bytes": 6132,
+      "source": "GetNotes_Inbox",
+      "dupes": 0,
+      "dupe_paths": []
+    },
+    {
+      "path": "D:/Obsidian/GetNotes_Inbox/_processed/关于“十五五”晶上二期组织与实施模式的建议.md",
+      "title": "关于“十五五”晶上二期组织与实施模式的建议",
+      "verdict": "keep",
+      "why": "CODE 相关(命中 ['实现', '重构', '验证'])；含交付物/待办信号 ['指南']",
+      "workstream": "CODE",
+      "ws_hits": [
+        "实现",
+        "重构",
+        "验证",
+        "加速"
+      ],
+      "rank": 9,
+      "domain_hits": [
+        "拓扑中心计算"
+      ],
+      "strong": [
+        "指南"
+      ],
+      "todo_lines": 0,
+      "bytes": 6494,
+      "source": "GetNotes_Inbox",
+      "dupes": 0,
+      "dupe_paths": []
+    },
+    {
+      "path": "D:/Obsidian/GetNotes_Inbox/_processed/关于十五五软件定义晶上系统二期布局的若干建议（正式版）.md",
+      "title": "关于十五五软件定义晶上系统二期布局的若干建议（正式版）",
+      "verdict": "keep",
+      "why": "CODE 相关(命中 ['实现', '重构', '验证'])；含交付物/待办信号 ['指南']",
+      "workstream": "CODE",
+      "ws_hits": [
+        "实现",
+        "重构",
+        "验证",
+        "加速"
+      ],
+      "rank": 9,
+      "domain_hits": [
+        "拓扑中心计算"
+      ],
+      "strong": [
+        "指南"
+      ],
+      "todo_lines": 0,
+      "bytes": 7079,
+      "source": "GetNotes_Inbox",
+      "dupes": 0,
+      "dupe_paths": []
+    },
+    {
+      "path": "D:/Obsidian/GetNotes_Inbox/_processed/军事智能拓扑中心计算网络底座项目指南（完整版·优化稿）.md",
+      "title": "军事智能拓扑中心计算网络底座项目指南（完整版·优化稿）",
+      "verdict": "keep",
+      "why": "GUIDE 相关(命中 ['指南', '立项'])；含交付物/待办信号 ['指南']",
+      "workstream": "GUIDE",
+      "ws_hits": [
+        "指南",
+        "立项"
+      ],
+      "rank": 17,
+      "domain_hits": [
+        "TCC",
+        "拓扑中心计算",
+        "topology-centric computing",
+        "拓扑重构",
+        "可重构互连"
+      ],
+      "strong": [
+        "指南"
+      ],
+      "todo_lines": 0,
+      "bytes": 21929,
+      "source": "GetNotes_Inbox",
+      "dupes": 0,
+      "dupe_paths": []
+    },
+    {
+      "path": "D:/Obsidian/GetNotes_Inbox/_processed/军事智能生态基座-拓扑中心计算网络底座项目指南建议（3年期·修订版）.md",
+      "title": "军事智能生态基座-拓扑中心计算网络底座项目指南建议（3年期·修订版）",
+      "verdict": "keep",
+      "why": "GUIDE 相关(命中 ['指南', '立项'])；含交付物/待办信号 ['指南']",
+      "workstream": "GUIDE",
+      "ws_hits": [
+        "指南",
+        "立项"
+      ],
+      "rank": 21,
+      "domain_hits": [
+        "TCC",
+        "拓扑中心计算",
+        "拓扑重构",
+        "Topology Page",
+        "软件定义互连"
+      ],
+      "strong": [
+        "指南"
+      ],
+      "todo_lines": 0,
+      "bytes": 13873,
+      "source": "GetNotes_Inbox",
+      "dupes": 1,
+      "dupe_paths": [
+        "D:/Obsidian/GetNotes_Inbox/_processed/军事智能生态基座-拓扑中心计算网络底座项目指南建议（3年期·修订版）_2.md"
+      ]
+    },
+    {
+      "path": "D:/Obsidian/GetNotes_Inbox/_processed/军事智能生态基座-拓扑中心计算网络底座项目指南建议（3年期·修订版）_2.md",
+      "title": "军事智能生态基座-拓扑中心计算网络底座项目指南建议（3年期·修订版）_2",
+      "verdict": "keep",
+      "why": "GUIDE 相关(命中 ['指南', '立项'])；含交付物/待办信号 ['指南']",
+      "workstream": "GUIDE",
+      "ws_hits": [
+        "指南",
+        "立项"
+      ],
+      "rank": 21,
+      "domain_hits": [
+        "TCC",
+        "拓扑中心计算",
+        "拓扑重构",
+        "Topology Page",
+        "软件定义互连"
+      ],
+      "strong": [
+        "指南"
+      ],
+      "todo_lines": 0,
+      "bytes": 13886,
+      "source": "GetNotes_Inbox"
+    },
+    {
+      "path": "D:/Obsidian/GetNotes_Inbox/_processed/基于氧化铌Mott器件阵列的拓扑流形计算与CST时空协同验证——项目指南.md",
+      "title": "基于氧化铌Mott器件阵列的拓扑流形计算与CST时空协同验证——项目指南",
+      "verdict": "keep",
+      "why": "CODE 相关(命中 ['验证', '实现', '算法'])；含交付物/待办信号 ['指南']",
+      "workstream": "CODE",
+      "ws_hits": [
+        "验证",
+        "实现",
+        "算法",
+        "重构",
+        "性能"
+      ],
+      "rank": 18,
+      "domain_hits": [
+        "拓扑重构",
+        "软件定义互连",
+        "SDI",
+        "SDSoW",
+        "iNEST"
+      ],
+      "strong": [
+        "指南"
+      ],
+      "todo_lines": 0,
+      "bytes": 3322,
+      "source": "GetNotes_Inbox",
+      "dupes": 0,
+      "dupe_paths": []
+    },
+    {
+      "path": "D:/Obsidian/GetNotes_Inbox/_processed/实施方案修订建议.md",
+      "title": "实施方案修订建议",
+      "verdict": "keep",
+      "why": "CODE 相关(命中 ['代码', '接口', '验证'])；含交付物/待办信号 ['spec']",
+      "workstream": "CODE",
+      "ws_hits": [
+        "代码",
+        "接口",
+        "验证",
+        "性能",
+        "加速"
+      ],
+      "rank": 13,
+      "domain_hits": [
+        "SDI",
+        "SDSoW"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 15494,
+      "source": "GetNotes_Inbox",
+      "dupes": 0,
+      "dupe_paths": []
+    },
+    {
+      "path": "D:/Obsidian/GetNotes_Inbox/_processed/拓扑中心计算网络底座项目建议书（正式版·优化稿）.md",
+      "title": "拓扑中心计算网络底座项目建议书（正式版·优化稿）",
+      "verdict": "keep",
+      "why": "PAPER 相关(命中 ['稿'])；含交付物/待办信号 ['建议书']",
+      "workstream": "PAPER",
+      "ws_hits": [
+        "稿"
+      ],
+      "rank": 12,
+      "domain_hits": [
+        "TCC",
+        "拓扑中心计算",
+        "topology-centric computing",
+        "拓扑重构"
+      ],
+      "strong": [
+        "建议书"
+      ],
+      "todo_lines": 0,
+      "bytes": 11216,
+      "source": "GetNotes_Inbox"
+    },
+    {
+      "path": "D:/Obsidian/GetNotes_Inbox/_processed/英伟达 NVSwitch 与 BlueField 集合通信加速研究.md",
+      "title": "英伟达 NVSwitch 与 BlueField 集合通信加速研究",
+      "verdict": "keep",
+      "why": "CODE 相关(命中 ['加速', '实现', '重构'])；含交付物/待办信号 ['spec']",
+      "workstream": "CODE",
+      "ws_hits": [
+        "加速",
+        "实现",
+        "重构",
+        "接口",
+        "性能"
+      ],
+      "rank": 10,
+      "domain_hits": [
+        "SDI"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 6496,
+      "source": "GetNotes_Inbox",
+      "dupes": 0,
+      "dupe_paths": []
+    },
+    {
+      "path": "00_Inbox/01_GetNotes/拓扑中心计算网络底座项目建议书（正式版·优化稿）.md",
+      "title": "拓扑中心计算网络底座项目建议书（正式版·优化稿）",
+      "verdict": "keep",
+      "why": "PAPER 相关(命中 ['稿', 'paper'])；含交付物/待办信号 ['建议书']",
+      "workstream": "PAPER",
+      "ws_hits": [
+        "稿",
+        "paper"
+      ],
+      "rank": 13,
+      "domain_hits": [
+        "TCC",
+        "拓扑中心计算",
+        "topology-centric computing",
+        "拓扑重构"
+      ],
+      "strong": [
+        "建议书"
+      ],
+      "todo_lines": 0,
+      "bytes": 11877,
+      "source": "00_Inbox",
+      "dupes": 1,
+      "dupe_paths": [
+        "D:/Obsidian/GetNotes_Inbox/_processed/拓扑中心计算网络底座项目建议书（正式版·优化稿）.md"
+      ]
+    },
+    {
+      "path": "00_Inbox/03_Genspark/2026-08-21-2608.20155.md",
+      "title": "2026-08-21-2608.20155",
+      "verdict": "keep",
+      "why": "PAPER 相关(命中 [])；含交付物/待办信号 ['spec']",
+      "workstream": "PAPER",
+      "ws_hits": [],
+      "rank": 7,
+      "domain_hits": [
+        "TCC",
+        "iNEST"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 1482,
+      "source": "00_Inbox",
+      "dupes": 0,
+      "dupe_paths": []
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-07-18_OA_A Survey on Medical Large Language Models Technology, Application, Trustworthine.md",
+      "title": "2026-07-18_OA_A Survey on Medical Large Language Models Technology, Application, Trustworthine",
+      "verdict": "keep",
+      "why": "READ 相关(命中 ['survey', 'review'])；含交付物/待办信号 ['spec']",
+      "workstream": "READ",
+      "ws_hits": [
+        "survey",
+        "review"
+      ],
+      "rank": 7,
+      "domain_hits": [
+        "causal emergence"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 2552,
+      "source": "00_Inbox",
+      "dupes": 1,
+      "dupe_paths": [
+        "00_Inbox/_pipeline_insights/2026-07-18_OA_A Survey on Medical Large Language Models Technology, Application, Trustworthine.md"
+      ]
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-07-18_OA_Application and mechanisms of biochar-immobilized enzymes in environmental remed.md",
+      "title": "2026-07-18_OA_Application and mechanisms of biochar-immobilized enzymes in environmental remed",
+      "verdict": "keep",
+      "why": "PAPER 相关(命中 ['abstract'])；含交付物/待办信号 ['spec']",
+      "workstream": "PAPER",
+      "ws_hits": [
+        "abstract"
+      ],
+      "rank": 8,
+      "domain_hits": [
+        "TCC",
+        "network-on-chip"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 2543,
+      "source": "00_Inbox",
+      "dupes": 1,
+      "dupe_paths": [
+        "00_Inbox/_pipeline_insights/2026-07-18_OA_Application and mechanisms of biochar-immobilized enzymes in environmental remed.md"
+      ]
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-07-18_OA_Design of an Intelligent Inspection System for Power Equipment Based on Multi-Te.md",
+      "title": "2026-07-18_OA_Design of an Intelligent Inspection System for Power Equipment Based on Multi-Te",
+      "verdict": "keep",
+      "why": "PAPER 相关(命中 ['abstract'])；含交付物/待办信号 ['spec']",
+      "workstream": "PAPER",
+      "ws_hits": [
+        "abstract"
+      ],
+      "rank": 6,
+      "domain_hits": [
+        "iNEST"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 2549,
+      "source": "00_Inbox",
+      "dupes": 1,
+      "dupe_paths": [
+        "00_Inbox/_pipeline_insights/2026-07-18_OA_Design of an Intelligent Inspection System for Power Equipment Based on Multi-Te.md"
+      ]
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-07-18_OA_Edge-Cloud Collaborative Computing on Distributed Intelligence and Model Optimiz.md",
+      "title": "2026-07-18_OA_Edge-Cloud Collaborative Computing on Distributed Intelligence and Model Optimiz",
+      "verdict": "keep",
+      "why": "PAPER 相关(命中 ['abstract', 'IEEE'])；含交付物/待办信号 ['spec']",
+      "workstream": "PAPER",
+      "ws_hits": [
+        "abstract",
+        "IEEE"
+      ],
+      "rank": 7,
+      "domain_hits": [
+        "iNEST"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 2375,
+      "source": "00_Inbox",
+      "dupes": 1,
+      "dupe_paths": [
+        "00_Inbox/_pipeline_insights/2026-07-18_OA_Edge-Cloud Collaborative Computing on Distributed Intelligence and Model Optimiz.md"
+      ]
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-07-18_OA_End-to-End Physical Design Automation Flow for Yield-Optimized Inverse-Designed .md",
+      "title": "2026-07-18_OA_End-to-End Physical Design Automation Flow for Yield-Optimized Inverse-Designed ",
+      "verdict": "keep",
+      "why": "PAPER 相关(命中 ['abstract'])；含交付物/待办信号 ['spec']",
+      "workstream": "PAPER",
+      "ws_hits": [
+        "abstract"
+      ],
+      "rank": 10,
+      "domain_hits": [
+        "TCC",
+        "wafer-scale interconnect",
+        "reservoir computing"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 2568,
+      "source": "00_Inbox",
+      "dupes": 1,
+      "dupe_paths": [
+        "00_Inbox/_pipeline_insights/2026-07-18_OA_End-to-End Physical Design Automation Flow for Yield-Optimized Inverse-Designed .md"
+      ]
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-07-18_OA_High-Throughput Toxicity Screening with iC. elegansi  Current Platforms, Key Adv.md",
+      "title": "2026-07-18_OA_High-Throughput Toxicity Screening with iC. elegansi  Current Platforms, Key Adv",
+      "verdict": "keep",
+      "why": "SIM 相关(命中 ['C. elegans', 'connectome'])；含交付物/待办信号 ['spec']",
+      "workstream": "SIM",
+      "ws_hits": [
+        "C. elegans",
+        "connectome"
+      ],
+      "rank": 7,
+      "domain_hits": [
+        "iNEST"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 2314,
+      "source": "00_Inbox",
+      "dupes": 1,
+      "dupe_paths": [
+        "00_Inbox/_pipeline_insights/2026-07-18_OA_High-Throughput Toxicity Screening with iC. elegansi  Current Platforms, Key Adv.md"
+      ]
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-07-18_OA_In-Sensor-Memory Computing for Post-Von Neumann Intelligence A Perspective.md",
+      "title": "2026-07-18_OA_In-Sensor-Memory Computing for Post-Von Neumann Intelligence A Perspective",
+      "verdict": "keep",
+      "why": "SIM 相关(命中 ['neuromorphic', 'reservoir'])；含交付物/待办信号 ['spec']",
+      "workstream": "SIM",
+      "ws_hits": [
+        "neuromorphic",
+        "reservoir"
+      ],
+      "rank": 11,
+      "domain_hits": [
+        "TCC",
+        "wafer-scale interconnect",
+        "reservoir computing"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 2525,
+      "source": "00_Inbox",
+      "dupes": 1,
+      "dupe_paths": [
+        "00_Inbox/_pipeline_insights/2026-07-18_OA_In-Sensor-Memory Computing for Post-Von Neumann Intelligence A Perspective.md"
+      ]
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-07-18_OA_Inflammatory bowel diseases pathological mechanisms and therapeutic perspectives.md",
+      "title": "2026-07-18_OA_Inflammatory bowel diseases pathological mechanisms and therapeutic perspectives",
+      "verdict": "keep",
+      "why": "PAPER 相关(命中 ['abstract'])；含交付物/待办信号 ['spec']",
+      "workstream": "PAPER",
+      "ws_hits": [
+        "abstract"
+      ],
+      "rank": 6,
+      "domain_hits": [
+        "iNEST"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 2430,
+      "source": "00_Inbox",
+      "dupes": 1,
+      "dupe_paths": [
+        "00_Inbox/_pipeline_insights/2026-07-18_OA_Inflammatory bowel diseases pathological mechanisms and therapeutic perspectives.md"
+      ]
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-07-18_OA_Inverse-designed nanophotonic neural network accelerators for ultra-compact opti.md",
+      "title": "2026-07-18_OA_Inverse-designed nanophotonic neural network accelerators for ultra-compact opti",
+      "verdict": "keep",
+      "why": "PAPER 相关(命中 ['abstract', 'Nature'])；含交付物/待办信号 ['spec']",
+      "workstream": "PAPER",
+      "ws_hits": [
+        "abstract",
+        "Nature"
+      ],
+      "rank": 11,
+      "domain_hits": [
+        "TCC",
+        "wafer-scale interconnect",
+        "reservoir computing"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 2512,
+      "source": "00_Inbox",
+      "dupes": 1,
+      "dupe_paths": [
+        "00_Inbox/_pipeline_insights/2026-07-18_OA_Inverse-designed nanophotonic neural network accelerators for ultra-compact opti.md"
+      ]
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-07-18_OA_Large Models for Time Series and Spatio-Temporal Data A Survey and Outlook.md",
+      "title": "2026-07-18_OA_Large Models for Time Series and Spatio-Temporal Data A Survey and Outlook",
+      "verdict": "keep",
+      "why": "READ 相关(命中 ['survey', 'review'])；含交付物/待办信号 ['spec']",
+      "workstream": "READ",
+      "ws_hits": [
+        "survey",
+        "review"
+      ],
+      "rank": 7,
+      "domain_hits": [
+        "iNEST"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 2366,
+      "source": "00_Inbox",
+      "dupes": 1,
+      "dupe_paths": [
+        "00_Inbox/_pipeline_insights/2026-07-18_OA_Large Models for Time Series and Spatio-Temporal Data A Survey and Outlook.md"
+      ]
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-07-18_OA_Natural Neurobiological Active Compounds in Parkinson’s Disease Molecular Target.md",
+      "title": "2026-07-18_OA_Natural Neurobiological Active Compounds in Parkinson’s Disease Molecular Target",
+      "verdict": "keep",
+      "why": "SIM 相关(命中 ['connectome', 'C. elegans'])；含交付物/待办信号 ['spec']",
+      "workstream": "SIM",
+      "ws_hits": [
+        "connectome",
+        "C. elegans"
+      ],
+      "rank": 7,
+      "domain_hits": [
+        "iNEST"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 2654,
+      "source": "00_Inbox",
+      "dupes": 1,
+      "dupe_paths": [
+        "00_Inbox/_pipeline_insights/2026-07-18_OA_Natural Neurobiological Active Compounds in Parkinson’s Disease Molecular Target.md"
+      ]
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-07-18_OA_Neuromorphic hierarchical modular reservoirs.md",
+      "title": "2026-07-18_OA_Neuromorphic hierarchical modular reservoirs",
+      "verdict": "keep",
+      "why": "SIM 相关(命中 ['neuromorphic', 'reservoir', 'criticality'])；含交付物/待办信号 ['spec']",
+      "workstream": "SIM",
+      "ws_hits": [
+        "neuromorphic",
+        "reservoir",
+        "criticality"
+      ],
+      "rank": 12,
+      "domain_hits": [
+        "iNEST",
+        "self-organized criticality",
+        "reservoir computing"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 2364,
+      "source": "00_Inbox",
+      "dupes": 1,
+      "dupe_paths": [
+        "00_Inbox/_pipeline_insights/2026-07-18_OA_Neuromorphic hierarchical modular reservoirs.md"
+      ]
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-07-18_OA_Real-time on-device weed identification using a hardware-efficient lightweight C.md",
+      "title": "2026-07-18_OA_Real-time on-device weed identification using a hardware-efficient lightweight C",
+      "verdict": "keep",
+      "why": "PAPER 相关(命中 ['abstract'])；含交付物/待办信号 ['spec']",
+      "workstream": "PAPER",
+      "ws_hits": [
+        "abstract"
+      ],
+      "rank": 8,
+      "domain_hits": [
+        "TCC",
+        "network-on-chip"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 2524,
+      "source": "00_Inbox",
+      "dupes": 1,
+      "dupe_paths": [
+        "00_Inbox/_pipeline_insights/2026-07-18_OA_Real-time on-device weed identification using a hardware-efficient lightweight C.md"
+      ]
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-07-18_OA_Reducibility of higher-order networks from dynamics.md",
+      "title": "2026-07-18_OA_Reducibility of higher-order networks from dynamics",
+      "verdict": "keep",
+      "why": "PAPER 相关(命中 ['abstract', 'Nature'])；含交付物/待办信号 ['spec']",
+      "workstream": "PAPER",
+      "ws_hits": [
+        "abstract",
+        "Nature"
+      ],
+      "rank": 7,
+      "domain_hits": [
+        "higher-order network"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 2384,
+      "source": "00_Inbox",
+      "dupes": 1,
+      "dupe_paths": [
+        "00_Inbox/_pipeline_insights/2026-07-18_OA_Reducibility of higher-order networks from dynamics.md"
+      ]
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-07-18_OA_Rumor propagation on hypergraphs.md",
+      "title": "2026-07-18_OA_Rumor propagation on hypergraphs",
+      "verdict": "keep",
+      "why": "PAPER 相关(命中 ['abstract', 'Nature'])；含交付物/待办信号 ['spec']",
+      "workstream": "PAPER",
+      "ws_hits": [
+        "abstract",
+        "Nature"
+      ],
+      "rank": 7,
+      "domain_hits": [
+        "higher-order network"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 2427,
+      "source": "00_Inbox",
+      "dupes": 1,
+      "dupe_paths": [
+        "00_Inbox/_pipeline_insights/2026-07-18_OA_Rumor propagation on hypergraphs.md"
+      ]
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-07-18_OA_Self-Rectifying Memristors for Beyond-CMOS Computing Mechanisms, Materials, and .md",
+      "title": "2026-07-18_OA_Self-Rectifying Memristors for Beyond-CMOS Computing Mechanisms, Materials, and ",
+      "verdict": "keep",
+      "why": "READ 相关(命中 ['review', 'survey'])；含交付物/待办信号 ['spec']",
+      "workstream": "READ",
+      "ws_hits": [
+        "review",
+        "survey"
+      ],
+      "rank": 7,
+      "domain_hits": [
+        "TCC"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 2571,
+      "source": "00_Inbox",
+      "dupes": 1,
+      "dupe_paths": [
+        "00_Inbox/_pipeline_insights/2026-07-18_OA_Self-Rectifying Memristors for Beyond-CMOS Computing Mechanisms, Materials, and .md"
+      ]
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-07-18_OA_The digital sphinx Can a worm brain control a fly body.md",
+      "title": "2026-07-18_OA_The digital sphinx Can a worm brain control a fly body",
+      "verdict": "keep",
+      "why": "SIM 相关(命中 ['connectome', 'C. elegans'])；含交付物/待办信号 ['spec']",
+      "workstream": "SIM",
+      "ws_hits": [
+        "connectome",
+        "C. elegans"
+      ],
+      "rank": 7,
+      "domain_hits": [
+        "iNEST"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 2572,
+      "source": "00_Inbox",
+      "dupes": 1,
+      "dupe_paths": [
+        "00_Inbox/_pipeline_insights/2026-07-18_OA_The digital sphinx Can a worm brain control a fly body.md"
+      ]
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-07-19_arXiv_Dissipative phase transitions and chaos in two-photon driven.md",
+      "title": "2026-07-19_arXiv_Dissipative phase transitions and chaos in two-photon driven",
+      "verdict": "keep",
+      "why": "PAPER 相关(命中 ['abstract'])；含交付物/待办信号 ['spec']",
+      "workstream": "PAPER",
+      "ws_hits": [
+        "abstract"
+      ],
+      "rank": 8,
+      "domain_hits": [
+        "TCC",
+        "iNEST"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 1255,
+      "source": "00_Inbox",
+      "dupes": 1,
+      "dupe_paths": [
+        "00_Inbox/_pipeline_insights/2026-07-19_arXiv_Dissipative phase transitions and chaos in two-photon driven.md"
+      ]
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-07-19_arXiv_General theory of monitored Quantum Reservoir Computing.md",
+      "title": "2026-07-19_arXiv_General theory of monitored Quantum Reservoir Computing",
+      "verdict": "keep",
+      "why": "SIM 相关(命中 ['reservoir'])；含交付物/待办信号 ['spec']",
+      "workstream": "SIM",
+      "ws_hits": [
+        "reservoir"
+      ],
+      "rank": 10,
+      "domain_hits": [
+        "TCC",
+        "iNEST",
+        "reservoir computing"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 1191,
+      "source": "00_Inbox",
+      "dupes": 1,
+      "dupe_paths": [
+        "00_Inbox/_pipeline_insights/2026-07-19_arXiv_General theory of monitored Quantum Reservoir Computing.md"
+      ]
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-07-19_arXiv_Inherent interpretability provides inherent value in quantum.md",
+      "title": "2026-07-19_arXiv_Inherent interpretability provides inherent value in quantum",
+      "verdict": "keep",
+      "why": "PAPER 相关(命中 ['abstract'])；含交付物/待办信号 ['spec']",
+      "workstream": "PAPER",
+      "ws_hits": [
+        "abstract"
+      ],
+      "rank": 8,
+      "domain_hits": [
+        "TCC",
+        "iNEST"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 1218,
+      "source": "00_Inbox",
+      "dupes": 1,
+      "dupe_paths": [
+        "00_Inbox/_pipeline_insights/2026-07-19_arXiv_Inherent interpretability provides inherent value in quantum.md"
+      ]
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-07-19_arXiv_Stigmergic Graph Memory An Environment-Aware Approach for Ma.md",
+      "title": "2026-07-19_arXiv_Stigmergic Graph Memory An Environment-Aware Approach for Ma",
+      "verdict": "keep",
+      "why": "PAPER 相关(命中 ['abstract'])；含交付物/待办信号 ['spec']",
+      "workstream": "PAPER",
+      "ws_hits": [
+        "abstract"
+      ],
+      "rank": 8,
+      "domain_hits": [
+        "TCC",
+        "iNEST"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 1269,
+      "source": "00_Inbox",
+      "dupes": 1,
+      "dupe_paths": [
+        "00_Inbox/_pipeline_insights/2026-07-19_arXiv_Stigmergic Graph Memory An Environment-Aware Approach for Ma.md"
+      ]
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-07-19_arXiv_Visual Place Recognition Using Rate-Encoded Spiking Neural N.md",
+      "title": "2026-07-19_arXiv_Visual Place Recognition Using Rate-Encoded Spiking Neural N",
+      "verdict": "keep",
+      "why": "CODE 相关(命中 ['code', 'implement'])；含交付物/待办信号 ['spec']",
+      "workstream": "CODE",
+      "ws_hits": [
+        "code",
+        "implement"
+      ],
+      "rank": 9,
+      "domain_hits": [
+        "TCC",
+        "iNEST"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 1257,
+      "source": "00_Inbox",
+      "dupes": 1,
+      "dupe_paths": [
+        "00_Inbox/_pipeline_insights/2026-07-19_arXiv_Visual Place Recognition Using Rate-Encoded Spiking Neural N.md"
+      ]
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-07-20_arXiv_DAPGNet Dynamic Adaptive Physics-Guided Graph Diffusion Netw.md",
+      "title": "2026-07-20_arXiv_DAPGNet Dynamic Adaptive Physics-Guided Graph Diffusion Netw",
+      "verdict": "keep",
+      "why": "PAPER 相关(命中 ['paper', 'abstract'])；含交付物/待办信号 ['spec']",
+      "workstream": "PAPER",
+      "ws_hits": [
+        "paper",
+        "abstract"
+      ],
+      "rank": 9,
+      "domain_hits": [
+        "TCC",
+        "iNEST"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 1346,
+      "source": "00_Inbox",
+      "dupes": 1,
+      "dupe_paths": [
+        "00_Inbox/_pipeline_insights/2026-07-20_arXiv_DAPGNet Dynamic Adaptive Physics-Guided Graph Diffusion Netw.md"
+      ]
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-07-24_arXiv_Nanowire networks' interconnection graphs from their photomi.md",
+      "title": "2026-07-24_arXiv_Nanowire networks' interconnection graphs from their photomi",
+      "verdict": "keep",
+      "why": "PAPER 相关(命中 ['abstract'])；含交付物/待办信号 ['spec']",
+      "workstream": "PAPER",
+      "ws_hits": [
+        "abstract"
+      ],
+      "rank": 8,
+      "domain_hits": [
+        "TCC",
+        "iNEST"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 1196,
+      "source": "00_Inbox",
+      "dupes": 1,
+      "dupe_paths": [
+        "00_Inbox/_pipeline_insights/2026-07-24_arXiv_Nanowire networks' interconnection graphs from their photomi.md"
+      ]
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-07-24_arXiv_Spectral Higher-Order Neural Networks Have Sharp Expressivit.md",
+      "title": "2026-07-24_arXiv_Spectral Higher-Order Neural Networks Have Sharp Expressivit",
+      "verdict": "keep",
+      "why": "PAPER 相关(命中 ['abstract'])；含交付物/待办信号 ['spec']",
+      "workstream": "PAPER",
+      "ws_hits": [
+        "abstract"
+      ],
+      "rank": 8,
+      "domain_hits": [
+        "TCC",
+        "iNEST"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 1194,
+      "source": "00_Inbox",
+      "dupes": 1,
+      "dupe_paths": [
+        "00_Inbox/_pipeline_insights/2026-07-24_arXiv_Spectral Higher-Order Neural Networks Have Sharp Expressivit.md"
+      ]
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-07-25_arXiv_Cross-Domain Generalization in Optical Networks via Joint Co.md",
+      "title": "2026-07-25_arXiv_Cross-Domain Generalization in Optical Networks via Joint Co",
+      "verdict": "keep",
+      "why": "PAPER 相关(命中 ['abstract'])；含交付物/待办信号 ['spec']",
+      "workstream": "PAPER",
+      "ws_hits": [
+        "abstract"
+      ],
+      "rank": 8,
+      "domain_hits": [
+        "TCC",
+        "iNEST"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 1247,
+      "source": "00_Inbox",
+      "dupes": 1,
+      "dupe_paths": [
+        "00_Inbox/_pipeline_insights/2026-07-25_arXiv_Cross-Domain Generalization in Optical Networks via Joint Co.md"
+      ]
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-07-25_arXiv_Perspective Latents as an Architectural Condition for Causal.md",
+      "title": "2026-07-25_arXiv_Perspective Latents as an Architectural Condition for Causal",
+      "verdict": "keep",
+      "why": "PAPER 相关(命中 ['abstract', 'Nature'])；含交付物/待办信号 ['spec']",
+      "workstream": "PAPER",
+      "ws_hits": [
+        "abstract",
+        "Nature"
+      ],
+      "rank": 11,
+      "domain_hits": [
+        "TCC",
+        "iNEST",
+        "causal emergence"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 1255,
+      "source": "00_Inbox",
+      "dupes": 1,
+      "dupe_paths": [
+        "00_Inbox/_pipeline_insights/2026-07-25_arXiv_Perspective Latents as an Architectural Condition for Causal.md"
+      ]
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-07-31_arXiv_Recycling computational processes of dynamic programming for.md",
+      "title": "2026-07-31_arXiv_Recycling computational processes of dynamic programming for",
+      "verdict": "keep",
+      "why": "PAPER 相关(命中 ['abstract'])；含交付物/待办信号 ['spec']",
+      "workstream": "PAPER",
+      "ws_hits": [
+        "abstract"
+      ],
+      "rank": 10,
+      "domain_hits": [
+        "TCC",
+        "iNEST",
+        "reservoir computing"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 1317,
+      "source": "00_Inbox",
+      "dupes": 1,
+      "dupe_paths": [
+        "00_Inbox/_pipeline_insights/2026-07-31_arXiv_Recycling computational processes of dynamic programming for.md"
+      ]
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-08-01_arXiv_MANTA Multi-Agent Network Topology Adaptation for Self-Evolv.md",
+      "title": "2026-08-01_arXiv_MANTA Multi-Agent Network Topology Adaptation for Self-Evolv",
+      "verdict": "keep",
+      "why": "PAPER 相关(命中 ['abstract'])；含交付物/待办信号 ['spec']",
+      "workstream": "PAPER",
+      "ws_hits": [
+        "abstract"
+      ],
+      "rank": 8,
+      "domain_hits": [
+        "TCC",
+        "iNEST"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 1200,
+      "source": "00_Inbox",
+      "dupes": 1,
+      "dupe_paths": [
+        "00_Inbox/_pipeline_insights/2026-08-01_arXiv_MANTA Multi-Agent Network Topology Adaptation for Self-Evolv.md"
+      ]
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-08-04_arXiv_CENDRe Concept Extraction with Natural Domain Representation.md",
+      "title": "2026-08-04_arXiv_CENDRe Concept Extraction with Natural Domain Representation",
+      "verdict": "keep",
+      "why": "PAPER 相关(命中 ['abstract'])；含交付物/待办信号 ['spec']",
+      "workstream": "PAPER",
+      "ws_hits": [
+        "abstract"
+      ],
+      "rank": 8,
+      "domain_hits": [
+        "TCC",
+        "iNEST"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 1171,
+      "source": "00_Inbox",
+      "dupes": 1,
+      "dupe_paths": [
+        "00_Inbox/_pipeline_insights/2026-08-04_arXiv_CENDRe Concept Extraction with Natural Domain Representation.md"
+      ]
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-08-04_arXiv_Fisher-Orthogonal Memory in Quantum Reservoir Computing.md",
+      "title": "2026-08-04_arXiv_Fisher-Orthogonal Memory in Quantum Reservoir Computing",
+      "verdict": "keep",
+      "why": "SIM 相关(命中 ['reservoir'])；含交付物/待办信号 ['spec']",
+      "workstream": "SIM",
+      "ws_hits": [
+        "reservoir"
+      ],
+      "rank": 10,
+      "domain_hits": [
+        "TCC",
+        "iNEST",
+        "reservoir computing"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 1160,
+      "source": "00_Inbox",
+      "dupes": 1,
+      "dupe_paths": [
+        "00_Inbox/_pipeline_insights/2026-08-04_arXiv_Fisher-Orthogonal Memory in Quantum Reservoir Computing.md"
+      ]
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-08-06_arXiv_Scaling behavior in non-reciprocal and odd conserved dynamic.md",
+      "title": "2026-08-06_arXiv_Scaling behavior in non-reciprocal and odd conserved dynamic",
+      "verdict": "keep",
+      "why": "PAPER 相关(命中 ['abstract'])；含交付物/待办信号 ['spec']",
+      "workstream": "PAPER",
+      "ws_hits": [
+        "abstract"
+      ],
+      "rank": 8,
+      "domain_hits": [
+        "TCC",
+        "iNEST"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 1205,
+      "source": "00_Inbox",
+      "dupes": 1,
+      "dupe_paths": [
+        "00_Inbox/_pipeline_insights/2026-08-06_arXiv_Scaling behavior in non-reciprocal and odd conserved dynamic.md"
+      ]
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-08-24_arXiv_HYDRA A Heterogeneous Chiplet DSE Framework for Serving Dyna.md",
+      "title": "2026-08-24_arXiv_HYDRA A Heterogeneous Chiplet DSE Framework for Serving Dyna",
+      "verdict": "keep",
+      "why": "PAPER 相关(命中 ['abstract'])；含交付物/待办信号 ['spec']",
+      "workstream": "PAPER",
+      "ws_hits": [
+        "abstract"
+      ],
+      "rank": 8,
+      "domain_hits": [
+        "TCC",
+        "iNEST"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 1145,
+      "source": "00_Inbox",
+      "dupes": 1,
+      "dupe_paths": [
+        "00_Inbox/_pipeline_insights/2026-08-24_arXiv_HYDRA A Heterogeneous Chiplet DSE Framework for Serving Dyna.md"
+      ]
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-08-24_arXiv_Universal meson spectra near $(1+1)$-dimensional Ising criti.md",
+      "title": "2026-08-24_arXiv_Universal meson spectra near $(1+1)$-dimensional Ising criti",
+      "verdict": "keep",
+      "why": "PAPER 相关(命中 ['abstract'])；含交付物/待办信号 ['spec']",
+      "workstream": "PAPER",
+      "ws_hits": [
+        "abstract"
+      ],
+      "rank": 8,
+      "domain_hits": [
+        "TCC",
+        "iNEST"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 1117,
+      "source": "00_Inbox",
+      "dupes": 1,
+      "dupe_paths": [
+        "00_Inbox/_pipeline_insights/2026-08-24_arXiv_Universal meson spectra near $(1+1)$-dimensional Ising criti.md"
+      ]
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-08-26_arXiv_Quantum Reservoir Computing with Physics-Informed Correction.md",
+      "title": "2026-08-26_arXiv_Quantum Reservoir Computing with Physics-Informed Correction",
+      "verdict": "keep",
+      "why": "SIM 相关(命中 ['reservoir'])；含交付物/待办信号 ['proposal']",
+      "workstream": "SIM",
+      "ws_hits": [
+        "reservoir"
+      ],
+      "rank": 10,
+      "domain_hits": [
+        "TCC",
+        "iNEST",
+        "reservoir computing"
+      ],
+      "strong": [
+        "proposal"
+      ],
+      "todo_lines": 0,
+      "bytes": 1181,
+      "source": "00_Inbox",
+      "dupes": 1,
+      "dupe_paths": [
+        "00_Inbox/_pipeline_insights/2026-08-26_arXiv_Quantum Reservoir Computing with Physics-Informed Correction.md"
+      ]
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-08-26_arXiv_Spiking Neural Networks for Continuous Control Neuromorphic .md",
+      "title": "2026-08-26_arXiv_Spiking Neural Networks for Continuous Control Neuromorphic ",
+      "verdict": "keep",
+      "why": "SIM 相关(命中 ['neuromorphic', 'SNN'])；含交付物/待办信号 ['spec']",
+      "workstream": "SIM",
+      "ws_hits": [
+        "neuromorphic",
+        "SNN"
+      ],
+      "rank": 11,
+      "domain_hits": [
+        "TCC",
+        "iNEST",
+        "spiking neural network"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 1220,
+      "source": "00_Inbox",
+      "dupes": 1,
+      "dupe_paths": [
+        "00_Inbox/_pipeline_insights/2026-08-26_arXiv_Spiking Neural Networks for Continuous Control Neuromorphic .md"
+      ]
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-08-26_arXiv_The Emergence of Relevance Through Axiomatic Attention Patte.md",
+      "title": "2026-08-26_arXiv_The Emergence of Relevance Through Axiomatic Attention Patte",
+      "verdict": "keep",
+      "why": "PAPER 相关(命中 ['abstract'])；含交付物/待办信号 ['spec']",
+      "workstream": "PAPER",
+      "ws_hits": [
+        "abstract"
+      ],
+      "rank": 8,
+      "domain_hits": [
+        "TCC",
+        "iNEST"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 1157,
+      "source": "00_Inbox",
+      "dupes": 1,
+      "dupe_paths": [
+        "00_Inbox/_pipeline_insights/2026-08-26_arXiv_The Emergence of Relevance Through Axiomatic Attention Patte.md"
+      ]
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-08-29_arXiv_Spectral Fingerprints of Gauge Theories on a Quantum Compute.md",
+      "title": "2026-08-29_arXiv_Spectral Fingerprints of Gauge Theories on a Quantum Compute",
+      "verdict": "keep",
+      "why": "PAPER 相关(命中 ['abstract'])；含交付物/待办信号 ['spec']",
+      "workstream": "PAPER",
+      "ws_hits": [
+        "abstract"
+      ],
+      "rank": 8,
+      "domain_hits": [
+        "TCC",
+        "iNEST"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 1107,
+      "source": "00_Inbox",
+      "dupes": 1,
+      "dupe_paths": [
+        "00_Inbox/_pipeline_insights/2026-08-29_arXiv_Spectral Fingerprints of Gauge Theories on a Quantum Compute.md"
+      ]
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-09-02_arXiv_Non-uniform Memory Partitioning For Low-Power Spiking Neural.md",
+      "title": "2026-09-02_arXiv_Non-uniform Memory Partitioning For Low-Power Spiking Neural",
+      "verdict": "keep",
+      "why": "PAPER 相关(命中 ['abstract'])；含交付物/待办信号 ['spec']",
+      "workstream": "PAPER",
+      "ws_hits": [
+        "abstract"
+      ],
+      "rank": 8,
+      "domain_hits": [
+        "TCC",
+        "iNEST"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 1126,
+      "source": "00_Inbox",
+      "dupes": 1,
+      "dupe_paths": [
+        "00_Inbox/_pipeline_insights/2026-09-02_arXiv_Non-uniform Memory Partitioning For Low-Power Spiking Neural.md"
+      ]
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-09-02_arXiv_Sparse Competition during Training For the Emergence of Spec.md",
+      "title": "2026-09-02_arXiv_Sparse Competition during Training For the Emergence of Spec",
+      "verdict": "keep",
+      "why": "PAPER 相关(命中 ['abstract'])；含交付物/待办信号 ['spec']",
+      "workstream": "PAPER",
+      "ws_hits": [
+        "abstract"
+      ],
+      "rank": 8,
+      "domain_hits": [
+        "TCC",
+        "iNEST"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 1168,
+      "source": "00_Inbox",
+      "dupes": 1,
+      "dupe_paths": [
+        "00_Inbox/_pipeline_insights/2026-09-02_arXiv_Sparse Competition during Training For the Emergence of Spec.md"
+      ]
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-09-03_arXiv_A Network Science Perspective on Evaluating Deep Graph Gener.md",
+      "title": "2026-09-03_arXiv_A Network Science Perspective on Evaluating Deep Graph Gener",
+      "verdict": "keep",
+      "why": "READ 相关(命中 ['review', 'reproduce'])；含交付物/待办信号 ['spec']",
+      "workstream": "READ",
+      "ws_hits": [
+        "review",
+        "reproduce"
+      ],
+      "rank": 9,
+      "domain_hits": [
+        "TCC",
+        "iNEST"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 1137,
+      "source": "00_Inbox",
+      "dupes": 1,
+      "dupe_paths": [
+        "00_Inbox/_pipeline_insights/2026-09-03_arXiv_A Network Science Perspective on Evaluating Deep Graph Gener.md"
+      ]
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-09-05_arXiv_Learning with Volterra Neural Networks A System Theoretic Pe.md",
+      "title": "2026-09-05_arXiv_Learning with Volterra Neural Networks A System Theoretic Pe",
+      "verdict": "keep",
+      "why": "PAPER 相关(命中 ['paper', 'abstract'])；含交付物/待办信号 ['spec']",
+      "workstream": "PAPER",
+      "ws_hits": [
+        "paper",
+        "abstract"
+      ],
+      "rank": 9,
+      "domain_hits": [
+        "TCC",
+        "iNEST"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 1138,
+      "source": "00_Inbox",
+      "dupes": 1,
+      "dupe_paths": [
+        "00_Inbox/_pipeline_insights/2026-09-05_arXiv_Learning with Volterra Neural Networks A System Theoretic Pe.md"
+      ]
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-09-08_arXiv_Large Language Models with At Most One Spike per Neuron.md",
+      "title": "2026-09-08_arXiv_Large Language Models with At Most One Spike per Neuron",
+      "verdict": "keep",
+      "why": "PAPER 相关(命中 ['abstract'])；含交付物/待办信号 ['spec']",
+      "workstream": "PAPER",
+      "ws_hits": [
+        "abstract"
+      ],
+      "rank": 8,
+      "domain_hits": [
+        "TCC",
+        "iNEST"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 1098,
+      "source": "00_Inbox",
+      "dupes": 1,
+      "dupe_paths": [
+        "00_Inbox/_pipeline_insights/2026-09-08_arXiv_Large Language Models with At Most One Spike per Neuron.md"
+      ]
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-09-11_arXiv_CausalArena Benchmarking Causal Discovery in the Foundation .md",
+      "title": "2026-09-11_arXiv_CausalArena Benchmarking Causal Discovery in the Foundation ",
+      "verdict": "keep",
+      "why": "PAPER 相关(命中 ['abstract'])；含交付物/待办信号 ['spec']",
+      "workstream": "PAPER",
+      "ws_hits": [
+        "abstract"
+      ],
+      "rank": 8,
+      "domain_hits": [
+        "TCC",
+        "iNEST"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 1123,
+      "source": "00_Inbox",
+      "dupes": 1,
+      "dupe_paths": [
+        "00_Inbox/_pipeline_insights/2026-09-11_arXiv_CausalArena Benchmarking Causal Discovery in the Foundation .md"
+      ]
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-07-18_OA_A Survey on Medical Large Language Models Technology, Application, Trustworthine.md",
+      "title": "2026-07-18_OA_A Survey on Medical Large Language Models Technology, Application, Trustworthine",
+      "verdict": "keep",
+      "why": "READ 相关(命中 ['survey', 'review'])；含交付物/待办信号 ['spec']",
+      "workstream": "READ",
+      "ws_hits": [
+        "survey",
+        "review"
+      ],
+      "rank": 7,
+      "domain_hits": [
+        "causal emergence"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 2552,
+      "source": "_pipeline_insights"
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-07-18_OA_Application and mechanisms of biochar-immobilized enzymes in environmental remed.md",
+      "title": "2026-07-18_OA_Application and mechanisms of biochar-immobilized enzymes in environmental remed",
+      "verdict": "keep",
+      "why": "PAPER 相关(命中 ['abstract'])；含交付物/待办信号 ['spec']",
+      "workstream": "PAPER",
+      "ws_hits": [
+        "abstract"
+      ],
+      "rank": 8,
+      "domain_hits": [
+        "TCC",
+        "network-on-chip"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 2543,
+      "source": "_pipeline_insights"
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-07-18_OA_Design of an Intelligent Inspection System for Power Equipment Based on Multi-Te.md",
+      "title": "2026-07-18_OA_Design of an Intelligent Inspection System for Power Equipment Based on Multi-Te",
+      "verdict": "keep",
+      "why": "PAPER 相关(命中 ['abstract'])；含交付物/待办信号 ['spec']",
+      "workstream": "PAPER",
+      "ws_hits": [
+        "abstract"
+      ],
+      "rank": 6,
+      "domain_hits": [
+        "iNEST"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 2549,
+      "source": "_pipeline_insights"
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-07-18_OA_Edge-Cloud Collaborative Computing on Distributed Intelligence and Model Optimiz.md",
+      "title": "2026-07-18_OA_Edge-Cloud Collaborative Computing on Distributed Intelligence and Model Optimiz",
+      "verdict": "keep",
+      "why": "PAPER 相关(命中 ['abstract', 'IEEE'])；含交付物/待办信号 ['spec']",
+      "workstream": "PAPER",
+      "ws_hits": [
+        "abstract",
+        "IEEE"
+      ],
+      "rank": 7,
+      "domain_hits": [
+        "iNEST"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 2375,
+      "source": "_pipeline_insights"
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-07-18_OA_End-to-End Physical Design Automation Flow for Yield-Optimized Inverse-Designed .md",
+      "title": "2026-07-18_OA_End-to-End Physical Design Automation Flow for Yield-Optimized Inverse-Designed ",
+      "verdict": "keep",
+      "why": "PAPER 相关(命中 ['abstract'])；含交付物/待办信号 ['spec']",
+      "workstream": "PAPER",
+      "ws_hits": [
+        "abstract"
+      ],
+      "rank": 10,
+      "domain_hits": [
+        "TCC",
+        "wafer-scale interconnect",
+        "reservoir computing"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 2568,
+      "source": "_pipeline_insights"
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-07-18_OA_High-Throughput Toxicity Screening with iC. elegansi  Current Platforms, Key Adv.md",
+      "title": "2026-07-18_OA_High-Throughput Toxicity Screening with iC. elegansi  Current Platforms, Key Adv",
+      "verdict": "keep",
+      "why": "SIM 相关(命中 ['C. elegans', 'connectome'])；含交付物/待办信号 ['spec']",
+      "workstream": "SIM",
+      "ws_hits": [
+        "C. elegans",
+        "connectome"
+      ],
+      "rank": 7,
+      "domain_hits": [
+        "iNEST"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 2314,
+      "source": "_pipeline_insights"
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-07-18_OA_In-Sensor-Memory Computing for Post-Von Neumann Intelligence A Perspective.md",
+      "title": "2026-07-18_OA_In-Sensor-Memory Computing for Post-Von Neumann Intelligence A Perspective",
+      "verdict": "keep",
+      "why": "SIM 相关(命中 ['neuromorphic', 'reservoir'])；含交付物/待办信号 ['spec']",
+      "workstream": "SIM",
+      "ws_hits": [
+        "neuromorphic",
+        "reservoir"
+      ],
+      "rank": 11,
+      "domain_hits": [
+        "TCC",
+        "wafer-scale interconnect",
+        "reservoir computing"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 2525,
+      "source": "_pipeline_insights"
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-07-18_OA_Inflammatory bowel diseases pathological mechanisms and therapeutic perspectives.md",
+      "title": "2026-07-18_OA_Inflammatory bowel diseases pathological mechanisms and therapeutic perspectives",
+      "verdict": "keep",
+      "why": "PAPER 相关(命中 ['abstract'])；含交付物/待办信号 ['spec']",
+      "workstream": "PAPER",
+      "ws_hits": [
+        "abstract"
+      ],
+      "rank": 6,
+      "domain_hits": [
+        "iNEST"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 2430,
+      "source": "_pipeline_insights"
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-07-18_OA_Inverse-designed nanophotonic neural network accelerators for ultra-compact opti.md",
+      "title": "2026-07-18_OA_Inverse-designed nanophotonic neural network accelerators for ultra-compact opti",
+      "verdict": "keep",
+      "why": "PAPER 相关(命中 ['abstract', 'Nature'])；含交付物/待办信号 ['spec']",
+      "workstream": "PAPER",
+      "ws_hits": [
+        "abstract",
+        "Nature"
+      ],
+      "rank": 11,
+      "domain_hits": [
+        "TCC",
+        "wafer-scale interconnect",
+        "reservoir computing"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 2512,
+      "source": "_pipeline_insights"
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-07-18_OA_Large Models for Time Series and Spatio-Temporal Data A Survey and Outlook.md",
+      "title": "2026-07-18_OA_Large Models for Time Series and Spatio-Temporal Data A Survey and Outlook",
+      "verdict": "keep",
+      "why": "READ 相关(命中 ['survey', 'review'])；含交付物/待办信号 ['spec']",
+      "workstream": "READ",
+      "ws_hits": [
+        "survey",
+        "review"
+      ],
+      "rank": 7,
+      "domain_hits": [
+        "iNEST"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 2366,
+      "source": "_pipeline_insights"
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-07-18_OA_Natural Neurobiological Active Compounds in Parkinson’s Disease Molecular Target.md",
+      "title": "2026-07-18_OA_Natural Neurobiological Active Compounds in Parkinson’s Disease Molecular Target",
+      "verdict": "keep",
+      "why": "SIM 相关(命中 ['connectome', 'C. elegans'])；含交付物/待办信号 ['spec']",
+      "workstream": "SIM",
+      "ws_hits": [
+        "connectome",
+        "C. elegans"
+      ],
+      "rank": 7,
+      "domain_hits": [
+        "iNEST"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 2654,
+      "source": "_pipeline_insights"
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-07-18_OA_Neuromorphic hierarchical modular reservoirs.md",
+      "title": "2026-07-18_OA_Neuromorphic hierarchical modular reservoirs",
+      "verdict": "keep",
+      "why": "SIM 相关(命中 ['neuromorphic', 'reservoir', 'criticality'])；含交付物/待办信号 ['spec']",
+      "workstream": "SIM",
+      "ws_hits": [
+        "neuromorphic",
+        "reservoir",
+        "criticality"
+      ],
+      "rank": 12,
+      "domain_hits": [
+        "iNEST",
+        "self-organized criticality",
+        "reservoir computing"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 2364,
+      "source": "_pipeline_insights"
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-07-18_OA_Real-time on-device weed identification using a hardware-efficient lightweight C.md",
+      "title": "2026-07-18_OA_Real-time on-device weed identification using a hardware-efficient lightweight C",
+      "verdict": "keep",
+      "why": "PAPER 相关(命中 ['abstract'])；含交付物/待办信号 ['spec']",
+      "workstream": "PAPER",
+      "ws_hits": [
+        "abstract"
+      ],
+      "rank": 8,
+      "domain_hits": [
+        "TCC",
+        "network-on-chip"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 2524,
+      "source": "_pipeline_insights"
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-07-18_OA_Reducibility of higher-order networks from dynamics.md",
+      "title": "2026-07-18_OA_Reducibility of higher-order networks from dynamics",
+      "verdict": "keep",
+      "why": "PAPER 相关(命中 ['abstract', 'Nature'])；含交付物/待办信号 ['spec']",
+      "workstream": "PAPER",
+      "ws_hits": [
+        "abstract",
+        "Nature"
+      ],
+      "rank": 7,
+      "domain_hits": [
+        "higher-order network"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 2384,
+      "source": "_pipeline_insights"
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-07-18_OA_Rumor propagation on hypergraphs.md",
+      "title": "2026-07-18_OA_Rumor propagation on hypergraphs",
+      "verdict": "keep",
+      "why": "PAPER 相关(命中 ['abstract', 'Nature'])；含交付物/待办信号 ['spec']",
+      "workstream": "PAPER",
+      "ws_hits": [
+        "abstract",
+        "Nature"
+      ],
+      "rank": 7,
+      "domain_hits": [
+        "higher-order network"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 2427,
+      "source": "_pipeline_insights"
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-07-18_OA_Self-Rectifying Memristors for Beyond-CMOS Computing Mechanisms, Materials, and .md",
+      "title": "2026-07-18_OA_Self-Rectifying Memristors for Beyond-CMOS Computing Mechanisms, Materials, and ",
+      "verdict": "keep",
+      "why": "READ 相关(命中 ['review', 'survey'])；含交付物/待办信号 ['spec']",
+      "workstream": "READ",
+      "ws_hits": [
+        "review",
+        "survey"
+      ],
+      "rank": 7,
+      "domain_hits": [
+        "TCC"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 2571,
+      "source": "_pipeline_insights"
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-07-18_OA_The digital sphinx Can a worm brain control a fly body.md",
+      "title": "2026-07-18_OA_The digital sphinx Can a worm brain control a fly body",
+      "verdict": "keep",
+      "why": "SIM 相关(命中 ['connectome', 'C. elegans'])；含交付物/待办信号 ['spec']",
+      "workstream": "SIM",
+      "ws_hits": [
+        "connectome",
+        "C. elegans"
+      ],
+      "rank": 7,
+      "domain_hits": [
+        "iNEST"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 2572,
+      "source": "_pipeline_insights"
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-07-19_arXiv_Dissipative phase transitions and chaos in two-photon driven.md",
+      "title": "2026-07-19_arXiv_Dissipative phase transitions and chaos in two-photon driven",
+      "verdict": "keep",
+      "why": "PAPER 相关(命中 ['abstract'])；含交付物/待办信号 ['spec']",
+      "workstream": "PAPER",
+      "ws_hits": [
+        "abstract"
+      ],
+      "rank": 8,
+      "domain_hits": [
+        "TCC",
+        "iNEST"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 1255,
+      "source": "_pipeline_insights"
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-07-19_arXiv_General theory of monitored Quantum Reservoir Computing.md",
+      "title": "2026-07-19_arXiv_General theory of monitored Quantum Reservoir Computing",
+      "verdict": "keep",
+      "why": "SIM 相关(命中 ['reservoir'])；含交付物/待办信号 ['spec']",
+      "workstream": "SIM",
+      "ws_hits": [
+        "reservoir"
+      ],
+      "rank": 10,
+      "domain_hits": [
+        "TCC",
+        "iNEST",
+        "reservoir computing"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 1191,
+      "source": "_pipeline_insights"
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-07-19_arXiv_Inherent interpretability provides inherent value in quantum.md",
+      "title": "2026-07-19_arXiv_Inherent interpretability provides inherent value in quantum",
+      "verdict": "keep",
+      "why": "PAPER 相关(命中 ['abstract'])；含交付物/待办信号 ['spec']",
+      "workstream": "PAPER",
+      "ws_hits": [
+        "abstract"
+      ],
+      "rank": 8,
+      "domain_hits": [
+        "TCC",
+        "iNEST"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 1218,
+      "source": "_pipeline_insights"
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-07-19_arXiv_Stigmergic Graph Memory An Environment-Aware Approach for Ma.md",
+      "title": "2026-07-19_arXiv_Stigmergic Graph Memory An Environment-Aware Approach for Ma",
+      "verdict": "keep",
+      "why": "PAPER 相关(命中 ['abstract'])；含交付物/待办信号 ['spec']",
+      "workstream": "PAPER",
+      "ws_hits": [
+        "abstract"
+      ],
+      "rank": 8,
+      "domain_hits": [
+        "TCC",
+        "iNEST"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 1269,
+      "source": "_pipeline_insights"
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-07-19_arXiv_Visual Place Recognition Using Rate-Encoded Spiking Neural N.md",
+      "title": "2026-07-19_arXiv_Visual Place Recognition Using Rate-Encoded Spiking Neural N",
+      "verdict": "keep",
+      "why": "CODE 相关(命中 ['code', 'implement'])；含交付物/待办信号 ['spec']",
+      "workstream": "CODE",
+      "ws_hits": [
+        "code",
+        "implement"
+      ],
+      "rank": 9,
+      "domain_hits": [
+        "TCC",
+        "iNEST"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 1257,
+      "source": "_pipeline_insights"
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-07-20_arXiv_DAPGNet Dynamic Adaptive Physics-Guided Graph Diffusion Netw.md",
+      "title": "2026-07-20_arXiv_DAPGNet Dynamic Adaptive Physics-Guided Graph Diffusion Netw",
+      "verdict": "keep",
+      "why": "PAPER 相关(命中 ['paper', 'abstract'])；含交付物/待办信号 ['spec']",
+      "workstream": "PAPER",
+      "ws_hits": [
+        "paper",
+        "abstract"
+      ],
+      "rank": 9,
+      "domain_hits": [
+        "TCC",
+        "iNEST"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 1346,
+      "source": "_pipeline_insights"
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-07-24_arXiv_Nanowire networks' interconnection graphs from their photomi.md",
+      "title": "2026-07-24_arXiv_Nanowire networks' interconnection graphs from their photomi",
+      "verdict": "keep",
+      "why": "PAPER 相关(命中 ['abstract'])；含交付物/待办信号 ['spec']",
+      "workstream": "PAPER",
+      "ws_hits": [
+        "abstract"
+      ],
+      "rank": 8,
+      "domain_hits": [
+        "TCC",
+        "iNEST"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 1196,
+      "source": "_pipeline_insights"
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-07-24_arXiv_Spectral Higher-Order Neural Networks Have Sharp Expressivit.md",
+      "title": "2026-07-24_arXiv_Spectral Higher-Order Neural Networks Have Sharp Expressivit",
+      "verdict": "keep",
+      "why": "PAPER 相关(命中 ['abstract'])；含交付物/待办信号 ['spec']",
+      "workstream": "PAPER",
+      "ws_hits": [
+        "abstract"
+      ],
+      "rank": 8,
+      "domain_hits": [
+        "TCC",
+        "iNEST"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 1194,
+      "source": "_pipeline_insights"
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-07-25_arXiv_Cross-Domain Generalization in Optical Networks via Joint Co.md",
+      "title": "2026-07-25_arXiv_Cross-Domain Generalization in Optical Networks via Joint Co",
+      "verdict": "keep",
+      "why": "PAPER 相关(命中 ['abstract'])；含交付物/待办信号 ['spec']",
+      "workstream": "PAPER",
+      "ws_hits": [
+        "abstract"
+      ],
+      "rank": 8,
+      "domain_hits": [
+        "TCC",
+        "iNEST"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 1247,
+      "source": "_pipeline_insights"
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-07-25_arXiv_Perspective Latents as an Architectural Condition for Causal.md",
+      "title": "2026-07-25_arXiv_Perspective Latents as an Architectural Condition for Causal",
+      "verdict": "keep",
+      "why": "PAPER 相关(命中 ['abstract', 'Nature'])；含交付物/待办信号 ['spec']",
+      "workstream": "PAPER",
+      "ws_hits": [
+        "abstract",
+        "Nature"
+      ],
+      "rank": 11,
+      "domain_hits": [
+        "TCC",
+        "iNEST",
+        "causal emergence"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 1255,
+      "source": "_pipeline_insights"
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-07-31_arXiv_Recycling computational processes of dynamic programming for.md",
+      "title": "2026-07-31_arXiv_Recycling computational processes of dynamic programming for",
+      "verdict": "keep",
+      "why": "PAPER 相关(命中 ['abstract'])；含交付物/待办信号 ['spec']",
+      "workstream": "PAPER",
+      "ws_hits": [
+        "abstract"
+      ],
+      "rank": 10,
+      "domain_hits": [
+        "TCC",
+        "iNEST",
+        "reservoir computing"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 1317,
+      "source": "_pipeline_insights"
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-08-01_arXiv_MANTA Multi-Agent Network Topology Adaptation for Self-Evolv.md",
+      "title": "2026-08-01_arXiv_MANTA Multi-Agent Network Topology Adaptation for Self-Evolv",
+      "verdict": "keep",
+      "why": "PAPER 相关(命中 ['abstract'])；含交付物/待办信号 ['spec']",
+      "workstream": "PAPER",
+      "ws_hits": [
+        "abstract"
+      ],
+      "rank": 8,
+      "domain_hits": [
+        "TCC",
+        "iNEST"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 1200,
+      "source": "_pipeline_insights"
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-08-04_arXiv_CENDRe Concept Extraction with Natural Domain Representation.md",
+      "title": "2026-08-04_arXiv_CENDRe Concept Extraction with Natural Domain Representation",
+      "verdict": "keep",
+      "why": "PAPER 相关(命中 ['abstract'])；含交付物/待办信号 ['spec']",
+      "workstream": "PAPER",
+      "ws_hits": [
+        "abstract"
+      ],
+      "rank": 8,
+      "domain_hits": [
+        "TCC",
+        "iNEST"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 1171,
+      "source": "_pipeline_insights"
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-08-04_arXiv_Fisher-Orthogonal Memory in Quantum Reservoir Computing.md",
+      "title": "2026-08-04_arXiv_Fisher-Orthogonal Memory in Quantum Reservoir Computing",
+      "verdict": "keep",
+      "why": "SIM 相关(命中 ['reservoir'])；含交付物/待办信号 ['spec']",
+      "workstream": "SIM",
+      "ws_hits": [
+        "reservoir"
+      ],
+      "rank": 10,
+      "domain_hits": [
+        "TCC",
+        "iNEST",
+        "reservoir computing"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 1160,
+      "source": "_pipeline_insights"
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-08-06_arXiv_Scaling behavior in non-reciprocal and odd conserved dynamic.md",
+      "title": "2026-08-06_arXiv_Scaling behavior in non-reciprocal and odd conserved dynamic",
+      "verdict": "keep",
+      "why": "PAPER 相关(命中 ['abstract'])；含交付物/待办信号 ['spec']",
+      "workstream": "PAPER",
+      "ws_hits": [
+        "abstract"
+      ],
+      "rank": 8,
+      "domain_hits": [
+        "TCC",
+        "iNEST"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 1205,
+      "source": "_pipeline_insights"
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-08-24_arXiv_HYDRA A Heterogeneous Chiplet DSE Framework for Serving Dyna.md",
+      "title": "2026-08-24_arXiv_HYDRA A Heterogeneous Chiplet DSE Framework for Serving Dyna",
+      "verdict": "keep",
+      "why": "PAPER 相关(命中 ['abstract'])；含交付物/待办信号 ['spec']",
+      "workstream": "PAPER",
+      "ws_hits": [
+        "abstract"
+      ],
+      "rank": 8,
+      "domain_hits": [
+        "TCC",
+        "iNEST"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 1145,
+      "source": "_pipeline_insights"
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-08-24_arXiv_Universal meson spectra near $(1+1)$-dimensional Ising criti.md",
+      "title": "2026-08-24_arXiv_Universal meson spectra near $(1+1)$-dimensional Ising criti",
+      "verdict": "keep",
+      "why": "PAPER 相关(命中 ['abstract'])；含交付物/待办信号 ['spec']",
+      "workstream": "PAPER",
+      "ws_hits": [
+        "abstract"
+      ],
+      "rank": 8,
+      "domain_hits": [
+        "TCC",
+        "iNEST"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 1117,
+      "source": "_pipeline_insights"
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-08-26_arXiv_Quantum Reservoir Computing with Physics-Informed Correction.md",
+      "title": "2026-08-26_arXiv_Quantum Reservoir Computing with Physics-Informed Correction",
+      "verdict": "keep",
+      "why": "SIM 相关(命中 ['reservoir'])；含交付物/待办信号 ['proposal']",
+      "workstream": "SIM",
+      "ws_hits": [
+        "reservoir"
+      ],
+      "rank": 10,
+      "domain_hits": [
+        "TCC",
+        "iNEST",
+        "reservoir computing"
+      ],
+      "strong": [
+        "proposal"
+      ],
+      "todo_lines": 0,
+      "bytes": 1181,
+      "source": "_pipeline_insights"
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-08-26_arXiv_Spiking Neural Networks for Continuous Control Neuromorphic .md",
+      "title": "2026-08-26_arXiv_Spiking Neural Networks for Continuous Control Neuromorphic ",
+      "verdict": "keep",
+      "why": "SIM 相关(命中 ['neuromorphic', 'SNN'])；含交付物/待办信号 ['spec']",
+      "workstream": "SIM",
+      "ws_hits": [
+        "neuromorphic",
+        "SNN"
+      ],
+      "rank": 11,
+      "domain_hits": [
+        "TCC",
+        "iNEST",
+        "spiking neural network"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 1220,
+      "source": "_pipeline_insights"
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-08-26_arXiv_The Emergence of Relevance Through Axiomatic Attention Patte.md",
+      "title": "2026-08-26_arXiv_The Emergence of Relevance Through Axiomatic Attention Patte",
+      "verdict": "keep",
+      "why": "PAPER 相关(命中 ['abstract'])；含交付物/待办信号 ['spec']",
+      "workstream": "PAPER",
+      "ws_hits": [
+        "abstract"
+      ],
+      "rank": 8,
+      "domain_hits": [
+        "TCC",
+        "iNEST"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 1157,
+      "source": "_pipeline_insights"
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-08-29_arXiv_Spectral Fingerprints of Gauge Theories on a Quantum Compute.md",
+      "title": "2026-08-29_arXiv_Spectral Fingerprints of Gauge Theories on a Quantum Compute",
+      "verdict": "keep",
+      "why": "PAPER 相关(命中 ['abstract'])；含交付物/待办信号 ['spec']",
+      "workstream": "PAPER",
+      "ws_hits": [
+        "abstract"
+      ],
+      "rank": 8,
+      "domain_hits": [
+        "TCC",
+        "iNEST"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 1107,
+      "source": "_pipeline_insights"
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-09-02_arXiv_Non-uniform Memory Partitioning For Low-Power Spiking Neural.md",
+      "title": "2026-09-02_arXiv_Non-uniform Memory Partitioning For Low-Power Spiking Neural",
+      "verdict": "keep",
+      "why": "PAPER 相关(命中 ['abstract'])；含交付物/待办信号 ['spec']",
+      "workstream": "PAPER",
+      "ws_hits": [
+        "abstract"
+      ],
+      "rank": 8,
+      "domain_hits": [
+        "TCC",
+        "iNEST"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 1126,
+      "source": "_pipeline_insights"
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-09-02_arXiv_Sparse Competition during Training For the Emergence of Spec.md",
+      "title": "2026-09-02_arXiv_Sparse Competition during Training For the Emergence of Spec",
+      "verdict": "keep",
+      "why": "PAPER 相关(命中 ['abstract'])；含交付物/待办信号 ['spec']",
+      "workstream": "PAPER",
+      "ws_hits": [
+        "abstract"
+      ],
+      "rank": 8,
+      "domain_hits": [
+        "TCC",
+        "iNEST"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 1168,
+      "source": "_pipeline_insights"
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-09-03_arXiv_A Network Science Perspective on Evaluating Deep Graph Gener.md",
+      "title": "2026-09-03_arXiv_A Network Science Perspective on Evaluating Deep Graph Gener",
+      "verdict": "keep",
+      "why": "READ 相关(命中 ['review', 'reproduce'])；含交付物/待办信号 ['spec']",
+      "workstream": "READ",
+      "ws_hits": [
+        "review",
+        "reproduce"
+      ],
+      "rank": 9,
+      "domain_hits": [
+        "TCC",
+        "iNEST"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 1137,
+      "source": "_pipeline_insights"
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-09-05_arXiv_Learning with Volterra Neural Networks A System Theoretic Pe.md",
+      "title": "2026-09-05_arXiv_Learning with Volterra Neural Networks A System Theoretic Pe",
+      "verdict": "keep",
+      "why": "PAPER 相关(命中 ['paper', 'abstract'])；含交付物/待办信号 ['spec']",
+      "workstream": "PAPER",
+      "ws_hits": [
+        "paper",
+        "abstract"
+      ],
+      "rank": 9,
+      "domain_hits": [
+        "TCC",
+        "iNEST"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 1138,
+      "source": "_pipeline_insights"
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-09-08_arXiv_Large Language Models with At Most One Spike per Neuron.md",
+      "title": "2026-09-08_arXiv_Large Language Models with At Most One Spike per Neuron",
+      "verdict": "keep",
+      "why": "PAPER 相关(命中 ['abstract'])；含交付物/待办信号 ['spec']",
+      "workstream": "PAPER",
+      "ws_hits": [
+        "abstract"
+      ],
+      "rank": 8,
+      "domain_hits": [
+        "TCC",
+        "iNEST"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 1098,
+      "source": "_pipeline_insights"
+    },
+    {
+      "path": "00_Inbox/_pipeline_insights/2026-09-11_arXiv_CausalArena Benchmarking Causal Discovery in the Foundation .md",
+      "title": "2026-09-11_arXiv_CausalArena Benchmarking Causal Discovery in the Foundation ",
+      "verdict": "keep",
+      "why": "PAPER 相关(命中 ['abstract'])；含交付物/待办信号 ['spec']",
+      "workstream": "PAPER",
+      "ws_hits": [
+        "abstract"
+      ],
+      "rank": 8,
+      "domain_hits": [
+        "TCC",
+        "iNEST"
+      ],
+      "strong": [
+        "spec"
+      ],
+      "todo_lines": 0,
+      "bytes": 1123,
+      "source": "_pipeline_insights"
+    }
+  ],
+  "park_count": 754
+}

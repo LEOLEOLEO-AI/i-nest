@@ -1,131 +1,126 @@
 # 科研自进化闭环报告
 
-> 第 **9** 轮 · 2026-09-18 11:30 · 由 `research_evolve.evolve` 生成（每次运行一轮，一轮一次提交）
+> 第 **10** 轮 · 2026-09-19 22:42 · 由 `research_evolve.evolve` 生成（每次运行一轮，一轮一次提交）
 
 ## 一、闭环四数（判定"进化"还是"空转"的唯一依据）
 
 | 指标 | 本轮 | 上轮 | Δ | 含义 |
 |---|---|---|---|---|
-| 新增候选 opened | 0 | 0 | 0 | 本轮新进来的问题 |
-| 关闭候选 closed | 2 | 0 | +2 | **已给出裁决并出队** |
-| 升级 escalated | 55 | 55 | 0 | 久挂未裁决，需拍板 |
-| 门禁违规 | 1 | 1 | 0 | 引用/证据标签/正本改动 |
-| 当前 open 总数 | 78 | — | — | 待办池水位 |
+| 新增候选 opened | 5 | 0 | +5 | 本轮新进来的问题 |
+| 关闭候选 closed | 0 | 2 | -2 | **已给出裁决并出队** |
+| 升级 escalated | 48 | 55 | -7 | 久挂未裁决，需拍板 |
+| 门禁违规 | 0 | 1 | -1 | 引用/证据标签/正本改动 |
+| 当前 open 总数 | 75 | — | — | 待办池水位 |
 
-> ✅ 本轮关闭 **2** 条，构成一次真正的进化轮（进化 = 变异 + **选择** + 留存；旧系统只有变异与留存）。
 
 ## 二、冻结守卫（无新论文则不许长概念）
 
-- 近 **2** 天新来源材料：**231** 篇 （00_Inbox=10, 20_Processing=221, raw=0）
+- 近 **2** 天新来源材料：**226** 篇 （00_Inbox=4, 20_Processing=222, raw=0）
 - 判定：**允许增量编译**
-- 依据：有新来源 231 篇，允许增量编译
+- 依据：有新来源 226 篇，允许增量编译
 - 状态文件：`90_System/research_evolve/state/freeze.json`
 
 ## 三、待您裁决（7 条，最高优先在前）
 
-### C-00007 · 🔺升级 score=0.8806 · hypothesis · 挂起 25 天 · 见 9 次
+### C-00081 · 🔺升级 score=0.8806 · idea · 挂起 15 天 · 见 10 次
 
-**H7: TCC×iNEST: NoC路由算法为事件驱动spike包重设计可降低延迟一个数量级**
+**SDI是通过元拓扑递归分形生成的动态自演化互连，已在C.elegans仿真中5/5达标，证明其足以支撑类神经物理网络的液态重构与时空演化。**
 
-- 详情：理由: spike稀疏性+异步性使传统同步流水线浪费严重，event-driven路由可大幅提升效率 | 验证方法: 在仿真中实现async路由协议，对比packet latency分布 | 来源桥: NoC_Spiking_Routing
-- 来源：`99_Meta/hypothesis_registry.json`
-- 框架契合: 命中 3 个词表项 ['TCC', 'NoC', 'iNEST']
-- 可验证性: 有验证方法且含判据词 ['对比', '仿真', '验证']
-- 证据就绪: 有来源/证据字段
-- 裁决：`python -m research_evolve.evolve --decide C-00007 accepted|rejected|deferred "理由"`
-
-### C-00117 · 🔺升级 score=0.8806 · idea · 挂起 23 天 · 见 9 次
-
-**MTIA 300将通信拓扑提升为一等计算资源：计算/通信双平面分离+近内存归约，让通信不打断计算，实现3.9倍通信性能提升，印证拓扑本身是计算能力维度，而非开销。**
-
-- 详情：在晶圆级SDSoW上增设独立的集合通信物理平面：边缘布置通信引擎（ME）近HBM，将AllReduce/归约下沉到内存旁路；NoC采用双平面路由，使计算流与通信流完全重叠，可扩展至百万神经元实时仿真。 | [ ] 设计TCC晶圆级双平面NoC仿真，对比单平面Mesh的AllReduce延迟与计算吞吐。
-- 来源：`60_MOC/灵感卡片/20260826_MTIA300_communication_offloading_TCC_insights.md`
-- 框架契合: 命中 3 个词表项 ['TCC', 'SDSoW', 'NoC']
-- 可验证性: 有验证方法且含判据词 ['对比', '仿真']
-- 证据就绪: 有来源/证据字段
-- 裁决：`python -m research_evolve.evolve --decide C-00117 accepted|rejected|deferred "理由"`
-
-### C-00010 · 🔺升级 score=0.8806 · hypothesis · 挂起 20 天 · 见 9 次
-
-**H10: TCC×iNEST: 脑连接组拓扑模式可启发晶圆级NoC最优拓扑设计**
-
-- 详情：理由: 大脑的小世界/模块化拓扑是亿年优化的结果，直接移植到芯片设计 | 验证方法: 用连接组数据生成NoC拓扑，vs mesh/torus对比性能 | 来源桥: Topology_Brain_Connectome
-- 来源：`99_Meta/hypothesis_registry.json`
-- 框架契合: 命中 3 个词表项 ['TCC', 'NoC', 'iNEST']
-- 可验证性: 有验证方法且含判据词 ['对比', '验证']
-- 证据就绪: 有来源/证据字段
-- 裁决：`python -m research_evolve.evolve --decide C-00010 accepted|rejected|deferred "理由"`
-
-### C-00109 · 🔺升级 score=0.8806 · idea · 挂起 20 天 · 见 9 次
-
-**网络局部motif结构（如三节点连接模式）直接决定全局动力学稳定性与任务适配性，说明拓扑本身即计算资源，而非仅参数规模。**
-
-- 详情：设计SDI动态motif重配置实验：在晶圆级NoC上在线切换Level1/Level3 motif富集区域，验证同一硬件在不同任务下通过拓扑重构获得性能提升。 | [ ] 构建NoC仿真器，比较静态拓扑与动态motif重配置在噪声识别和连续控制任务上的增益。
-- 来源：`60_MOC/灵感卡片/20260829_TCC_iNEST_Systematic_Evidence_Review.md`
-- 框架契合: 命中 3 个词表项 ['拓扑重构', 'SDI', 'NoC']
-- 可验证性: 有验证方法且含判据词 ['仿真', '实验', '验证']
-- 证据就绪: 有来源/证据字段
-- 裁决：`python -m research_evolve.evolve --decide C-00109 accepted|rejected|deferred "理由"`
-
-### C-00106 · 🔺升级 score=0.8806 · idea · 挂起 19 天 · 见 9 次
-
-**Hala Point通过1152颗Loihi 2芯片集成11.5亿神经元，验证了多芯片异步SNN系统可扩展性，且能效优于数据中心AI加速器，但尚未达到单die晶圆级集成。**
-
-- 详情：借鉴Loihi的片上学习引擎和事件驱动通信，在TCC的SDSoW中设计Spike流感知的NoC路由，并用忆阻器crossbar替代数字突触，实现晶圆级SNN存算一体加速，可测试MNIST能效。 | [ ] 调研Loihi 2和Lava架构，对比SDSoW的NoC设计，制定SNN加速器原型方案。
-- 来源：`60_MOC/灵感卡片/20260830_Hala_Point：英特尔打造全球最大“类脑”计算系统.md`
-- 框架契合: 命中 3 个词表项 ['TCC', 'SDSoW', 'NoC']
-- 可验证性: 有验证方法且含判据词 ['对比', '验证']
-- 证据就绪: 有来源/证据字段
-- 裁决：`python -m research_evolve.evolve --decide C-00106 accepted|rejected|deferred "理由"`
-
-### C-00100 · 🔺升级 score=0.8806 · idea · 挂起 18 天 · 见 9 次
-
-**三个元拓扑(P2/星/环)与五种SDI-bond操作构成完备生成集，可产生所有通信原语拓扑并分形扩展；最优拓扑满足最小作用量变分原理。**
-
-- 详情：以六种通信原语的流量模式为约束，用SDI-bond图代数搜索最小化网络作用量的晶圆级NoC拓扑，并在Mesh/环/树/星拓扑上对比延迟与能耗。 | [ ] 实现SDI-bond图代数库，枚举三基元组合生成六种通信原语拓扑，验证完备性。
-- 来源：`60_MOC/灵感卡片/20260831_P-Theory_v2_MetaTopology_SDI_Bond_Draft.md`
+- 详情：将SDI递归分形规则作为晶圆级NoC拓扑生成器，以C.elegans连接组为黄金参考，在FPGA原型上动态重配置关键路径，测量事件驱动spike包延迟与功耗，验证类脑拓扑优势。 | [ ] 搭建SDI-FPGA原型，移植C.elegans连接组并跑通动态重配置事件流测试。
+- 来源：`60_MOC/灵感卡片/20260905_SDI-软件定义互连.md`
 - 框架契合: 命中 3 个词表项 ['元拓扑', 'SDI', 'NoC']
-- 可验证性: 有验证方法且含判据词 ['对比', '验证']
+- 可验证性: 有验证方法且含判据词 ['仿真', '验证']
 - 证据就绪: 有来源/证据字段
-- 裁决：`python -m research_evolve.evolve --decide C-00100 accepted|rejected|deferred "理由"`
+- 裁决：`python -m research_evolve.evolve --decide C-00081 accepted|rejected|deferred "理由"`
 
-### C-00006 · 🔺升级 score=0.8194 · hypothesis · 挂起 25 天 · 见 9 次
+### C-00009 · 🔺升级 score=0.8194 · hypothesis · 挂起 27 天 · 见 10 次
 
-**H6: TCC×iNEST: Chiplet异构集成CMOS+忆阻器crossbar可实现存算一体神经形态加速**
+**H9: TCC×iNEST: 3D-IC堆叠模拟皮层柱状架构可实现密集神经处理层**
 
-- 详情：理由: 1M1T1R突触神经元阵列通过3DHI堆叠与逻辑chiplet集成，消除von Neumann瓶颈 | 验证方法: 估算面积/能耗/延迟 vs GPU baseline，验证超加性增益(H1) | 来源桥: Chiplet_Heterogeneous_Neuromorphic
+- 详情：理由: 皮层的垂直柱状结构与3D堆叠的层间TSV连接天然对应 | 验证方法: 建立层间连接模型，对比2D平面布局的信息传递效率 | 来源桥: 3DIC_Neural_Stacking
 - 来源：`99_Meta/hypothesis_registry.json`
 - 框架契合: 命中 2 个词表项 ['TCC', 'iNEST']
-- 可验证性: 有验证方法且含判据词 ['baseline', '验证']
+- 可验证性: 有验证方法且含判据词 ['对比', '验证']
 - 证据就绪: 有来源/证据字段
-- 裁决：`python -m research_evolve.evolve --decide C-00006 accepted|rejected|deferred "理由"`
+- 裁决：`python -m research_evolve.evolve --decide C-00009 accepted|rejected|deferred "理由"`
 
-## 四、本轮关闭 2 条（含原因，永不复活）
+### C-00123 · 🔺升级 score=0.8194 · idea · 挂起 25 天 · 见 10 次
 
-- `C-00139` **EV-2026-07-19-002: Git hygiene: 113 uncommitted changes** → **deferred**（已出现 3 次仍无来源且无验证方法，暂缓（保留以备出现新材料））
-- `C-00140` **EV-2026-09-18-001: Pipeline zero-paper alert: API connectivity check** → **deferred**（已出现 3 次仍无来源且无验证方法，暂缓（保留以备出现新材料））
+**CS-4通过0.5mm极限供电和3D封装将单芯片带宽翻倍至43.2PB/s，三晶圆无交换机直连实现2μs延迟，证明晶圆级互连可极大降低通信成本，为超加性计算增益提供硬件基础。**
 
-## 五、门禁（新增违规 1 · 存量债 819 · 本轮消除 125）
+- 详情：借鉴CS-4的晶圆直连拓扑，设计事件驱动spike包的无交换机路由协议，利用2μs延迟特性实现跨晶圆脉冲同步，在H7框架下验证NoC延迟降低一个数量级。 | [ ] 建模CS-4直连拓扑，在iNEST仿真器中评估spike传输延迟与吞吐量，对比传统NoC。
+- 来源：`60_MOC/灵感卡片/20260825_Cerebras_CS4_wafer_scale_AI_accelerator_analysis.md`
+- 框架契合: 命中 2 个词表项 ['NoC', 'iNEST']
+- 可验证性: 有验证方法且含判据词 ['对比', '仿真', '验证']
+- 证据就绪: 有来源/证据字段
+- 裁决：`python -m research_evolve.evolve --decide C-00123 accepted|rejected|deferred "理由"`
+
+### C-00116 · 🔺升级 score=0.8194 · idea · 挂起 24 天 · 见 10 次
+
+**证明P2、星形、环形三种元拓扑经五种SDI-bond图操作可完备生成全部六种通信原语，并可用最小作用量/自由能原理指导分形网络演化。**
+
+- 详情：设计基于SDI-bond的片上网络动态重构算法：将通信原语需求映射为元拓扑组合，在线调整互连结构以最小化网络作用量，并在晶圆级仿真中验证延迟下降。 | [ ] 实现SDI-bond代数库，验证六种通信原语拓扑生成完备性。
+- 来源：`60_MOC/灵感卡片/20260827_P-Theory_v2_MetaTopology_SDI_Bond_Draft.md`
+- 框架契合: 命中 2 个词表项 ['元拓扑', 'SDI']
+- 可验证性: 有验证方法且含判据词 ['仿真', '验证']
+- 证据就绪: 有来源/证据字段
+- 裁决：`python -m research_evolve.evolve --decide C-00116 accepted|rejected|deferred "理由"`
+
+### C-00107 · 🔺升级 score=0.8194 · idea · 挂起 21 天 · 见 10 次
+
+**MoE/Agentic时代通信由规则All-Reduce转向高熵All-to-All，对分带宽成瓶颈，高维Torus可显著缓解拥塞，拓扑互连本身带来计算系统超加性增益。**
+
+- 详情：设计晶圆级NoC时采用脑启发小世界+高维Torus混合拓扑，模拟MoE负载，验证是否比纯高维Torus更低延迟/成本，支撑TCC超加性。 | [ ] 在NoC模拟器中实现4D/6D Torus并运行MoE All-to-All流量基准测试。
+- 来源：`60_MOC/灵感卡片/20260829_MoE_Agentic_AI_Interconnect_Demand_Analysis.md`
+- 框架契合: 命中 2 个词表项 ['TCC', 'NoC']
+- 可验证性: 有验证方法且含判据词 ['验证']
+- 证据就绪: 有来源/证据字段
+- 裁决：`python -m research_evolve.evolve --decide C-00107 accepted|rejected|deferred "理由"`
+
+### C-00101 · 🔺升级 score=0.8194 · idea · 挂起 20 天 · 见 10 次
+
+**固定拓扑与通信模式失配是AI算力提升的关键瓶颈，动态拓扑变换可消除‘拓扑-原语失配税’，在晶圆级集成中重要性尤为突出。**
+
+- 详情：设计基于SDI的晶圆级动态拓扑NoC，按集合通信原语实时重构拓扑，消除失配税；可借鉴脑连接组小世界拓扑，仿真验证训练效率提升。 | [ ] 搭建晶圆级NoC仿真平台，对比动态重构与固定Mesh在AllReduce/AlltoAll下的性能。
+- 来源：`60_MOC/灵感卡片/20260831_military_ai_ecosystem_topology_interconnect_analys.md`
+- 框架契合: 命中 2 个词表项 ['SDI', 'NoC']
+- 可验证性: 有验证方法且含判据词 ['对比', '仿真', '验证']
+- 证据就绪: 有来源/证据字段
+- 裁决：`python -m research_evolve.evolve --decide C-00101 accepted|rejected|deferred "理由"`
+
+### C-00098 · 🔺升级 score=0.8194 · idea · 挂起 20 天 · 见 10 次
+
+**统一收件箱将所有外部输入先暂存，再按状态转移至知识、项目或输出，实现科研信息从采集到沉淀的有序流动，避免信息散落。**
+
+- 详情：设计一个基于该收件箱的科研假设追踪系统，自动按假设ID标签聚合文献、实验和讨论片段，链接至TCC/iNEST概念图谱，形成可追溯的证据链与置信度更新机制。 | [ ] 为H1建立专属证据收集模板，并将现有相关笔记导入统一收件箱。
+- 来源：`60_MOC/灵感卡片/20260831_00_Inbox 使用说明.md`
+- 框架契合: 命中 2 个词表项 ['TCC', 'iNEST']
+- 可验证性: 有验证方法且含判据词 ['实验']
+- 证据就绪: 有来源/证据字段
+- 裁决：`python -m research_evolve.evolve --decide C-00098 accepted|rejected|deferred "理由"`
+
+## 四、本轮关闭 0 条（含原因，永不复活）
+
+_无。_
+
+## 五、门禁（新增违规 0 · 存量债 806 · 本轮消除 138）
 
 扫描 190 个交付草稿文件。**只有基线之外的新违规才判失败**——门禁是回归检测器，不是把存量债每天重报一遍（那会退化成第二个"每天 18 条建议"）。
 
 | 类型 | 总数 | 其中新增 |
 |---|---|---|
-| unlabeled-number | 542 | 1 |
-| citation-unregistered | 278 | 0 |
+| unlabeled-number | 541 | 0 |
+| citation-unregistered | 265 | 0 |
 
-**新增违规（须处理）**
-
-- `50_Output/51_Papers/CST V4.3理论证明（V4.3完整版）.md:231` **unlabeled-number** — 性能论断（指标词：精度）未带证据标签（AGENTS.md 0.1）
 
 > 收敛方式：人工复核后运行 `python -m research_evolve.gates --update-baseline` 接受当前存量为债。
 
 ## 六、概念层负债（实测口径）
 
-- 概念文件总数：**6123**
-- 带 `auto: true` 自动占位：**5940** （97.0%）
-- 文件名近似文章标题：**3184** （52.0%）
-- 孤儿概念（自报）：**1732** — 来源 `wiki/health.md (生成器自报)`
+- 概念文件总数：**183**
+- 带 `auto: true` 自动占位：**0** （0.0%）
+- 文件名近似文章标题：**81** （44.3%）
+- 孤儿概念（自报）：**11** — 来源 `wiki/health.md (生成器自报)`
 
 > 说明：孤儿数取自生成器自报，未在本轮重算（重算 6000+ 文件全库链接成本高，且 `wiki_grow.py` 的 `Knowledge Graph Density` 是按概念**数量**分档的伪造指标，不可用于判断图质量）。
 
