@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[Intelligence_Emergence]]
+[[Intelligent_Emergence_Computing]]
 [[Interconnect_Routing]]
 [[Military_AI_Revolution]]
 [[Network_Topology_Design]]

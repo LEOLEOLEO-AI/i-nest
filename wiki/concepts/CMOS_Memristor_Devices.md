@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[CSI_Temporal_Encoding]]
 [[ChargeDomainAttention]]
 [[Crystallized_Embedding_Reservoir]]
+[[DualImpactEvaluation]]
 [[Dynamic_Expert_Fusion]]
 [[Dynamical_State_Space]]
 [[Embodied_AI_Models]]

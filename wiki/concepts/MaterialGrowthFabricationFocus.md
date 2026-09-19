@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[EdgeIoTEnergyAwareness]]
 [[EndToEndLinkSimulation]]
 [[Energy_Balanced_Interconnect]]
+[[ExactEvolutionaryHybridSearch]]
 [[Flow_Aware_Interconnect_Design]]
 [[GraphBasedSemanticRouting]]
 [[Heterogeneous_Integration]]

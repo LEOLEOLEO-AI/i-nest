@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Obsidian_Plugin_Architecture]]
+[[OpticalTopologyReconfiguration]]
 [[P_Paradigm]]
 [[PhotonicNeuralAccelerator]]
 [[SDI_Bond]]

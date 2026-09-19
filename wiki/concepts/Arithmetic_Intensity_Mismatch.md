@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[DrivenDissipativeDynamics]]
 [[EnergyEfficientRestoration]]
 [[EnergyResourceEfficiencyTradeoff]]
+[[EventBasedBioSignalFrontEnd]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]

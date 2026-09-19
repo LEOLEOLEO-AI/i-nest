@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[ConfigurableSNNInference]]
 [[CoreComputationSubspace]]
 [[CrashHotspotForecasting]]
+[[CulturalDisseminationDynamics]]
 [[Nonlinear_Gain]]
 [[SNN]]
 [[SpikeEncoding]]

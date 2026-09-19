@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BulletTrainScheduling]]
 [[CoDesigned_SNN]]
 [[CoOptimizedMappingScheduling]]
+[[Cognitive_Relapse_Decoupling]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[ContinualLearningOnNeuromorphic]]

@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Reconfigurability]]
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
+[[GrandCanonicalOptimization]]
 [[HybridCouplingThermosensitiveNetwork]]
 [[InSitu_Adjoint_Wave_Control]]
 [[IncidenceMatrixPropagation]]

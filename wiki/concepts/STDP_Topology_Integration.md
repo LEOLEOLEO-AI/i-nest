@@ -29,7 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Evolutionary_Pattern_Modeling]]
 [[InNetworkNeuromorphicSimulation]]
-[[In_Network_Neuromorphic]]
+[[InNetworkNeuromorphic]]
 [[In_Network_Neuromorphic]]
 [[Intelligence_Emergence]]
 [[IntrinsicTimingSTDP]]
@@ -60,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Spiking_neural_network_dynamics]]
 [[Synaptic_Plasticity]]
+[[Synaptic_Plasticity_Rule]]
 [[TCC]]
 [[iNEST]]
 

@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[CollectiveSpikingDynamics]]
 [[CrossLayer_SignalRouting]]
 [[CrossbarSNNArchitecture]]
+[[DirectoryManagementLaws]]
 [[EventDrivenModularArchitecture]]
 [[IMPLY_ISA]]
 [[Interconnect_Routing]]

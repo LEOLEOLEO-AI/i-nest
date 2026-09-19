@@ -67,6 +67,7 @@ Auto-extracted concept from raw material compilation.
 [[ThermalAvalanche]]
 [[TopologicalAndersonChernInsulator]]
 [[Topology_Dynamics_Aware_RL]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[analog computation]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]

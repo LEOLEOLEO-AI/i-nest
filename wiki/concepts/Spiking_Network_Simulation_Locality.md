@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[DelayCodedWorkingMemory]]
 [[Efficient_Coding_Constraint]]
 [[EnergyEfficientRestoration]]
+[[EnergyResourceEfficiencyTradeoff]]
 [[EventDrivenInference]]
 [[EventStrengthEncoding]]
 [[Event_Driven_Architecture]]

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[BackflowTransformation]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BigBrainCellularAxis]]
+[[BrainBodyResonance]]
 [[BrownianCastleInterface]]
 [[BrownianCastleInterfaces]]
 [[BurstTemporalPlasticity]]

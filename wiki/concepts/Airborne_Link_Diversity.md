@@ -57,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[ContinuousTimeRandomWalk]]
 [[ContrastiveRepresentationLearning]]
 [[CorrelationInducedChaos]]
+[[CrossDomainGeneralization]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]

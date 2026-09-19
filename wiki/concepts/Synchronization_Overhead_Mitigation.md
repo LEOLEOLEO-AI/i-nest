@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[20W_Brain_Inspired_Planning]]
 [[ActiveDendriteSNN]]
 [[BackflowTransformation]]
 [[Bidirectional_Temporal_Enhancement]]
@@ -56,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeTimingGradient]]
 [[Spike_Encoding_of_fMRI]]
 [[SpikingCorrespondenceMatching]]
+[[SpikingTopology]]
 [[Spiking_Mamba_Block]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

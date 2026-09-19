@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Crystallized_Embedding_Reservoir]]
 [[DARPA_ProjectManager_Model]]
 [[Deep_Network_Layer_Stacking]]
+[[Dendritic_Compartmentalization]]
 [[Dynamical_State_Space]]
 [[EmergentTaskDecomposition]]
 [[Emergent_Abilities]]
@@ -53,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[PostVonNeumannIntelligence]]
+[[Quantum_Reservoir_Computing]]
 [[Reservoir_Computing]]
 [[SOC]]
 [[SwarmGradientRouting]]
@@ -60,7 +62,6 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[emerging CMOS memristor]]
 [[iNEST]]
-[[quantum reservoir computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

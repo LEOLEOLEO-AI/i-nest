@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[InterChipletPHYModeling]]
 [[Interconnect_Topology]]
 [[MachineLearningPotential]]
+[[Memristive_STDP]]
 [[MetaHardwareAbstraction]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[CoDesigned_SNN]]
 [[CoOptimizedMappingScheduling]]
+[[Cognitive_Relapse_Decoupling]]
 [[Contested_Prior_Resolution]]
 [[ContinualLearningOnNeuromorphic]]
 [[Continuous_Control_Spiking_Stability]]

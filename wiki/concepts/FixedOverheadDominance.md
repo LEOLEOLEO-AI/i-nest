@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[ActionPrototypeClustering]]
 [[BigBrainCellularAxis]]
+[[Bipartite_Interconnect_Design]]
 [[CIMWeightUpdateAwareness]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -63,6 +64,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
+[[神经网络]]
 [[类脑芯片]]
 
 ## Sources

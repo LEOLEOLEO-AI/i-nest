@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[IndirectCoordinationSignal]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[KinematicWavePropagation]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[OptimalRepresentation]]

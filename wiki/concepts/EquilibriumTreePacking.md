@@ -22,7 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[4H_SiC_SubstrateProcessing]]
 [[AI_Faculty_Forum_2026]]
-[[advanced packaging]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[Analog_InMemory_Processing]]
 [[Analog_Weight_Storage]]
@@ -38,8 +38,10 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Cryogenic_Syndrome_Compression]]
 [[EvolutionaryTopologySearch]]
+[[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
+[[ImaginaryGaugePhaseImprint]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
@@ -57,7 +59,6 @@ Auto-extracted concept from raw material compilation.
 [[SparseTemporalEncoding]]
 [[TCC]]
 [[Topology_Aware_NeuroTrain]]
-[[advanced packaging]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

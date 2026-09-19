@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Coupling_Strength_Encoding]]
 [[Crystallized_Embedding_Reservoir]]
 [[Crystallized_Neural_Manifolds]]
+[[DataDrivenMaterialDesign]]
 [[DivergentHigherAreaRanking]]
 [[Dynamic_Expert_Fusion]]
 [[Dynamical_State_Space]]

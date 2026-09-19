@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[ProbabilityDensityNeuralField]]
+[[SNN_Sparsity_InformationBound]]
 [[ScalableNeuromorphicTopology]]
 [[SemanticSpikeRepresentation]]
 [[Spiking_Neural_Network]]

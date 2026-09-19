@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Based_3D_Packaging]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CoPackagedOptics]]
+[[Cognitive_Relapse_Architecture]]
 [[Heterogeneous_Integration]]
 [[Neuromorphic_Computing]]
 [[TCC]]

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BioPlausiblePredictiveCoding]]
 [[BrainInspired_Chip]]
 [[CNN_to_SNN_Transition]]
+[[Continuous_Control_Spike_Timing_Sensitivity]]
 [[Discrete_Event_Spike_Simulation]]
 [[EventBasedBioSignalFrontEnd]]
 [[EventDataNonUniformity]]

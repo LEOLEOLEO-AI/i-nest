@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Bio_plausible_Neuromorphic_Disturbance_Observer]]
 [[Biomanufacturing_Control_Loop]]
 [[BranchingRatio]]
+[[CST_Intelligence_Emergence]]
 [[CausalEmergenceCondition]]
 [[CircadianGateModulation]]
 [[CoexistencePhaseDiagram]]

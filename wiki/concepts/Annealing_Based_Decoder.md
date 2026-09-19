@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[EdgeIntelligence_Framework]]
 [[Edge_Temporal_Signal_Processing]]
 [[EmergentBeatPatternResolution]]
+[[EquilibriumManifoldProjection]]
 [[Intelligence_Emergence]]
 [[Ising_Formulation]]
 [[Network_Topology_Design]]

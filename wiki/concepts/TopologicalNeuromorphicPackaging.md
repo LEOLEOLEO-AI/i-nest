@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[AdaptiveFlexibilityThreshold]]
 [[Adaptive_Deep_Brain_Stimulation]]
+[[BioInspiredLearningRule]]
 [[Complex_System_Theory]]
 [[DARPA_ProjectManager_Model]]
 [[ErrorSuppressedPipeline]]

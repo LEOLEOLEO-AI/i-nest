@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Synaptic_Behavior]]
 [[Avoided_Criticality]]
 [[BurstTemporalPlasticity]]
+[[CriticalityInducedComputationalCapacity]]
 [[Criticality]]
 [[EventDrivenMotionDeblurring]]
 [[EventDrivenSynchronization]]

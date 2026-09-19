@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalPhaseTransitionStatisticalTest]]
 [[Criticality]]
 [[DelayedSynapticCoupling]]
+[[DisorderInducedCriticality]]
 [[FPGAInference]]
 [[Fading_Memory_Property]]
 [[Intelligence_Emergence]]

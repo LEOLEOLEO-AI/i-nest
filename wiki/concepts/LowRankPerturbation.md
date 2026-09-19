@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Activity_Energy_Tradeoff]]
 [[AdaptiveAsymmetricSurrogateGradient]]
 [[AddressRedundancyElimination]]
+[[Anomaly_Induced_Quantum_Criticality]]
 [[Baseline_Change_Record]]
 [[BidirectionalRingTopology]]
 [[BioInspired_Interception_Control]]

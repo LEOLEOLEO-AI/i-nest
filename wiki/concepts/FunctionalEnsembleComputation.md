@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[Neuromorphic_Selective_State_Space]]
 [[Neuromorphic_Sensor_Fusion]]
+[[OptimalGeneralisationNearInterpolation]]
 [[PrecisionConfigurableSparseNvCIM]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SpikeAttention]]

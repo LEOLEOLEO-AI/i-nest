@@ -26,10 +26,11 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveGraphDiffusion]]
 [[Adaptive_Intelligence_Principle]]
 [[Adaptive_Service_Orchestration]]
-[[advanced packaging]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[AndersonTransition]]
 [[BioInspiredGeneralist]]
+[[Butterfly_Topology_Primitive]]
 [[CellularSheaf]]
 [[Chiplet_Heterogeneous_Integration]]
 [[ChiralSymmetryClasses]]
@@ -44,7 +45,6 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[TCC]]
-[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

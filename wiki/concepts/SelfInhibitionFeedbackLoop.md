@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[NoiseInducedPhaseLocking]]
 [[NonEquilibriumPhase]]
 [[On_Chip_STDP_Learning]]
+[[PhaseSynchronizationDetection]]
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SDI_STDP_Regulation]]

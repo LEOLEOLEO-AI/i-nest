@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CircadianGateModulation]]
 [[Combinatorial_Optimization_Readout]]
 [[CompleteConnectomeDynamics]]
+[[Complexity_Emergence]]
 [[ConnectomeWiringSeparability]]
 [[Connectome]]
 [[Connectome_Reservoir]]

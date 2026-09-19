@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[JunctionCenteredRouting]]
 [[LLM_Reward_Design]]
+[[MatrixShapePhaseTransition]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

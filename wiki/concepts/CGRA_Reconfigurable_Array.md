@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Reconfigurable_Network]]
 [[System_Level_Utility_Control]]
 [[TCC]]
+[[TopologyAwareNeuralInterface]]
 [[iNEST]]
 
 ## Sources

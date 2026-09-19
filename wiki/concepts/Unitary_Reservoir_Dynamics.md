@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalStateReservoir]]
 [[DataDrivenMaterialDesign]]
 [[DiscreteScaleInvariance]]
+[[LindbladInspiredReservoir]]
 [[MultipartiteEntanglementFractal]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

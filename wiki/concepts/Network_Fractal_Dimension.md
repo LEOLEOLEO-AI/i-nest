@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[BackpropagationFreeLearning]]
 [[Complex_System_Theory]]
 [[Course_Based_FPGA_Projects]]
+[[CrystalPalace_Program]]
 [[Crystallized_Neural_Manifolds]]
 [[DARPA_3DHI_Roadmap]]
 [[Deep_Network_Layer_Stacking]]

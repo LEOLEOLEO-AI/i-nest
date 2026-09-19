@@ -60,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[QuantumReservoirMemoryCapacity]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
+[[SNN]]
 [[ShortTermMemory]]
 [[Spiking_Neural_Network]]
 [[Stigmergic_Neural_Plasticity]]

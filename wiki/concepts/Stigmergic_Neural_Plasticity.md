@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Loihi]]
 [[MachineLearningPotential]]
 [[MeanFieldSpinGlass]]
+[[Memristor_Synapse]]
 [[MetaHardwareAbstraction]]
 [[Microbiome_Immune_Endocrine_Interplay]]
 [[Milinkovic B (2024)：复杂神经系统涌现动力学结构]]
@@ -70,9 +71,12 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[iNEST]]
 [[夏强飞一天2篇Nature大子刊：感存算一体，忆阻器阵列模拟计算]]
+[[存算一体]]
+[[忆阻器]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

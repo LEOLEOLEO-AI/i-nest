@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Analog_InMemory_Processing]]
 [[Architectural_Conditioning]]
+[[Chat_to_Agent_Paradigm]]
 [[CoPackagedOptics]]
 [[Compute_In_Memory_Neuromorphic]]
 [[ConsciousIntegration]]

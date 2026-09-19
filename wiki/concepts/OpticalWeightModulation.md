@@ -58,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Packaging]]
 [[PropertyPredictionModeling]]
+[[RecurrentSpikingTopology]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[Spiking_Neural_Network]]

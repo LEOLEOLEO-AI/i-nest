@@ -34,13 +34,14 @@ Auto-extracted concept from raw material compilation.
 [[Chat_to_Agent_Paradigm]]
 [[CircuitTopologySearch]]
 [[Compact_Boson_Dynamics]]
+[[Compute_In_Memory_Neuromorphic]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Interconnect]]
 [[Structural_Manifold_Attractor]]
 [[TCC]]
 [[iNEST]]
-[[neuromorphic interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

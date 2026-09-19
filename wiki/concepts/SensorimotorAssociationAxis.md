@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[ImaginaryGaugePhaseImprint]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[Interconnect_Topology]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[NCL神经计算定律详解]]
@@ -58,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[UnconventionalRotationalDynamics]]
 [[iNEST]]
+[[iNEST_Interconnect]]
 [[iNEST_Interconnect_Topology]]
 [[夏强飞一天2篇Nature大子刊：感存算一体，忆阻器阵列模拟计算]]
 [[存算一体]]
@@ -65,6 +67,7 @@ Auto-extracted concept from raw material compilation.
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

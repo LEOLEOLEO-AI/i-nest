@@ -27,7 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveGraphDiffusion]]
 [[Adaptive_Intelligence_Principle]]
 [[Adaptive_Service_Orchestration]]
-[[advanced packaging]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[AndersonTransition]]
 [[BioInspiredGeneralist]]
@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Based_3D_Packaging]]
 [[Chiplet_Heterogeneous_Integration]]
 [[ChiralSymmetryClasses]]
+[[CircuitTopologySearch]]
 [[Compute_In_Memory_Neuromorphic]]
 [[CrossDomain_Integration]]
 [[Heterogeneous_Integration]]
@@ -43,7 +44,6 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[TCC]]
-[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

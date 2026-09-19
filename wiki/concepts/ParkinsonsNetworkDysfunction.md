@@ -63,6 +63,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[NonEquilibriumComputing]]
 [[PhotoInducedCurrent]]
+[[PhotonicIonicCrosstalk]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[SelfOrganizedOscillatoryLearning]]

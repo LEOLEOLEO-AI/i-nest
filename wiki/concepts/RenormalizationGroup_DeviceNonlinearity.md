@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[DeviceLevelNonlinearityScaling]]
 [[DeviceLevelNonlinearity]]
 [[DrivenDissipativeDynamics]]
+[[ERI_2_0_Strategic_Framework]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[HybridMemristorArray]]

@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicStatusAwareness]]
 [[Neuromorphic_Computing]]
 [[OptimalGeneralisationNearInterpolation]]
+[[PDE_Constrained_Latent_Dynamics]]
 [[ResonateAndFireEncoding]]
 [[iNEST]]
 

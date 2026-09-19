@@ -25,7 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Driven_Power_Density_Scaling]]
 [[AI_Faculty_Forum_2026]]
 [[AI_Forum_Demo_Narrative]]
-[[advanced packaging]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[AssociativeMemoryTopology]]
 [[Bond_Operation_Algebra]]
@@ -37,11 +37,11 @@ Auto-extracted concept from raw material compilation.
 [[Ising_Machine]]
 [[Minimal_Complete_Principle]]
 [[NCC_11]]
+[[NCC_LTC]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
 [[SOC]]
-[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

@@ -31,7 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveLocalLearning]]
 [[AnisotropicGaussianPrimitives]]
 [[Edge_AI_Acquisition_Consolidation]]
-[[EventDriven_Asynchronous_Operation]]
+[[EventDrivenAsynchronousOperation]]
 [[EventDriven_Asynchronous_Operation]]
 [[FlexibilityThreshold]]
 [[HighTemporalResolutionSensing]]

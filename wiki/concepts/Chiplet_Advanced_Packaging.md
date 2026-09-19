@@ -25,12 +25,12 @@ Auto-extracted concept from raw material compilation.
 [[3d]]
 [[AdiabaticMultimodeBend]]
 [[AdvancedPackagingInterconnect]]
-[[advanced packaging]]
-[[advanced packaging]]
+[[AdvancedPackaging]]
+[[Advanced_Packaging]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
-[[chiplet interconnect]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Packaging]]
 [[Chiplet_Stacking]]
 [[CoPackagedOptics]]
@@ -39,7 +39,6 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
-[[advanced packaging]]
 [[chiplet interconnect]]
 
 ## Sources

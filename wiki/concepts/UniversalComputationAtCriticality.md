@@ -57,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[Plasticity_vs_Computation_Separation]]
 [[Pods4Rail_Topology]]
 [[QuantumDistillation]]
+[[RadiationHardened_ProcessNodeScaling]]
 [[Reconfigurable_Neural_Topology]]
 [[RecursiveSelfReferentialArchitecture]]
 [[STDPDrivenConnectivity]]

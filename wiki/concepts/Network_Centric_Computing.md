@@ -26,7 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[Beyond_Moore_Pathway]]
 [[Bias_Origin_Taxonomy]]
-[[causal emergence]]
+[[Causal_Emergence]]
 [[Causal_Emergence_Architecture]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -43,8 +43,10 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[InMateriaComputing]]
 [[Intelligence_Emergence]]
+[[Intelligent_Power_Management]]
 [[Network_Topology_Design]]
 [[TCC]]
+[[causal emergence]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

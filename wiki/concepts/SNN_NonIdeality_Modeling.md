@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[CoreComputationSubspace]]
 [[CulturalDisseminationDynamics]]
 [[Dynamic_Expert_Fusion]]
+[[Edge_Intelligence]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]

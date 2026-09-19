@@ -33,6 +33,8 @@ Auto-extracted concept from raw material compilation.
 [[ComplexSystem_Definition]]
 [[Complex_System_Theory]]
 [[Complexity_Emergent_Intelligence]]
+[[Concepts-Theory — 全景导航 (Map of Content)]]
+[[Emergent_Intelligence]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

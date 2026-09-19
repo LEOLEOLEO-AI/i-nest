@@ -27,9 +27,10 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveBitPrecisionExploration]]
 [[AdiabaticMultimodeBend]]
 [[AdvancedPackagingInterconnect]]
-[[advanced packaging]]
-[[advanced packaging]]
+[[AdvancedPackaging]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_Route]]
+[[Advanced_Packaging_for_Space]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
@@ -38,7 +39,6 @@ Auto-extracted concept from raw material compilation.
 [[Inference_Workload_Profiling]]
 [[Memory_Wall]]
 [[TCC]]
-[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Avoided_Criticality]]
 [[BrainInspired_Chip]]
 [[Branch_Prediction_in_Pipelined_Processors]]
+[[Course_Based_FPGA_Prototyping]]
 [[Criticality]]
 [[ElasticInferenceScheduling]]
 [[EventDrivenMotionDeblurring]]

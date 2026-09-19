@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[MemoryDrivenInterconnect]]
 [[MicroTransferPrintedActiveDevices]]
 [[NestedRepresentation]]
+[[Neural_Manifold_Crystallization]]
 [[NeuromorphicReplayBuffer]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Selective_State_Space]]

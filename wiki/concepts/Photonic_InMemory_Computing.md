@@ -26,7 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[Adaptive_Intelligence_Principle]]
 [[Adaptive_Service_Orchestration]]
-[[advanced packaging]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[Analog_Synaptic_Weighting]]
 [[Attention_Residuals]]
@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Data_Movement_Bottleneck]]
 [[DecliningModularity]]
 [[Emergence_Phase]]
+[[Expert_Review_Arbitration]]
 [[Ferroelectric_ComputeInMemory]]
 [[Ferroelectric_Devices]]
 [[Heterogeneous_Integration]]
@@ -46,7 +47,6 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Long_Range_Interactions]]
 [[Neuromorphic_Computing]]
-[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

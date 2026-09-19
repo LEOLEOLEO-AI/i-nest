@@ -21,9 +21,10 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Faculty_Forum_2026]]
+[[ApproximationFidelityTradeoff]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
-[[chiplet interconnect]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Topology]]
 [[EulaminateOverrepresentation]]

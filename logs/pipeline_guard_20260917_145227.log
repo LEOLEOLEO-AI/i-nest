@@ -1,0 +1,70 @@
+
+============================================================
+  iNEST + TCC Research Pipeline v3.3
+  2026-09-17 14:52
+============================================================
+[14:52:27] [S2] Searching Semantic Scholar (19 queries)...
+[14:53:01]   S2 error (chiplet interconnect wafer-scale routing): <urlopen error [WinError 10054] 远程主机强迫关闭了一个现有的连接。>
+[14:53:39]   S2 error (temporal network dynamic topology reconf): <urlopen error _ssl.c:990: The handshake operation timed out>
+[14:54:14]   S2 error (self-organized criticality neuronal aval): <urlopen error _ssl.c:990: The handshake operation timed out>
+[15:30:19]   S2 error (neuromorphic memristor spiking neural ne): <urlopen error [Errno 11001] getaddrinfo failed>
+[19:52:19]   S2: 429 rate limited; skip S2 for this run and continue with arXiv/GN
+[19:52:19] [arXiv] Searching arXiv (via proxy, 21 queries)...
+[19:52:21]   arXiv TCC-scale-noc: HTTP 406, skipping
+[19:52:27]   arXiv TCC-wafer-chiplet: HTTP 406, skipping
+[19:52:34]   arXiv TCC-reconfigurable: HTTP 406, skipping
+[19:52:42]   arXiv TCC-higher-order: HTTP 406, skipping
+[19:52:49]   arXiv TCC-sim-compile: HTTP 406, skipping
+[19:52:54]   arXiv: batch separator, pausing 10s...
+[19:53:06]   arXiv TCC-topology-opt: HTTP 406, skipping
+[19:53:12]   arXiv TCC-qos: HTTP 406, skipping
+[19:53:18]   arXiv iNEST-selforg-critical: HTTP 406, skipping
+[19:53:24]   arXiv iNEST-nonlinear: HTTP 406, skipping
+[19:53:30]   arXiv iNEST-spatiotemporal: HTTP 406, skipping
+[19:53:35]   arXiv: batch separator, pausing 10s...
+[19:53:46]   arXiv iNEST-snn: HTTP 406, skipping
+[19:53:52]   arXiv iNEST-emergence: HTTP 406, skipping
+[19:53:59]   arXiv iNEST-async: HTTP 406, skipping
+[19:54:05]   arXiv iNEST-structure: HTTP 406, skipping
+[19:54:11]   arXiv iNEST-higher-order: HTTP 406, skipping
+[19:54:16]   arXiv: batch separator, pausing 10s...
+[19:54:27]   arXiv iNEST-free-energy: HTTP 406, skipping
+[19:54:33]   arXiv iNEST-reservoir: HTTP 406, skipping
+[19:54:39]   arXiv bridge-network-comp: HTTP 406, skipping
+[19:54:45]   arXiv bridge-info-emergence: HTTP 406, skipping
+[19:54:53]   arXiv TCC-topology-centric: HTTP 406, skipping
+[19:54:58]   arXiv: batch separator, pausing 10s...
+[19:55:09]   arXiv bridge-complex-emergence: HTTP 406, skipping
+[19:55:14] [arXiv] 0 new papers, 21 errors across 21 queries
+[19:55:14] [GN] Google News RSS...
+[19:55:36]   GN error (TCC): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[19:55:58]   GN error (iNEST): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[19:56:20]   GN error (emergence): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[19:56:42]   GN error (complex-networks): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[19:56:43] [GN] 0 new articles
+
+  Total: 0 new items to inbox
+[19:56:43] [Process] LLM classify (free tier, limit=20)...
+[19:57:08] [Process] Classified: 0
+[19:57:08] [Genspark] Generating research brief...
+[19:57:12] [Genspark] Research brief written: genspark_research_brief.md
+[19:57:13] [Graph] Scanning wiki links...
+[19:58:54] [Graph] 13114 files, 281846 links
+[20:01:46] [Graph] Exported: 13114 nodes, 278312 edges
+[20:01:46] [Graph] 0 missing backlinks
+[20:01:47] [DailyGen] Daily_Action + Focus + Insights generated
+[20:01:47] [Review] Research task proposals refreshed
+
+============================================================
+  Pipeline v3.3 Complete
+  Sources: 0(S2)+0(arXiv)+0(GN) | Written: 0 new papers
+  Processed: 0 | Nodes: 13114 edges: 278312 | Missing links: 0 | Genspark: OK
+  Elapsed: 18560s
+============================================================
+[20:01:47] [State] research_state.json updated
+[20:01:48] [Evolution] Evidence + hypotheses updated
+[20:02:48] [Wiki] Warning: Command '['C:\\Users\\LEO\\AppData\\Local\\Programs\\Python\\Python310\\python.exe', 'D:\\Obsidian\\vault\\90_System\\scripts\\wiki_compiler.py']' timed out after 60 seconds
+[20:02:49] [Insight] Cross-domain bridges updated
+[20:03:51] [Tasks] Research recommendations updated
+[20:03:52] [Dashboard] Live dashboard published
+[20:03:52] [Homepage] Home.md auto-refreshed

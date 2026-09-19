@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[CoPackagedOptics]]
 [[Complex_System_Theory]]
 [[Compute_In_Memory_Neuromorphic]]
+[[CrossLingualIdiomGraph]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergence_Phase]]

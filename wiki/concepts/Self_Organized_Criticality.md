@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[InternalStateCriticality]]
 [[MicroCriticalAgent]]
+[[NeuronalCriticality]]
 [[NonEquilibriumPhaseTransition]]
 [[NonEquilibriumPhase]]
 [[OptimalRepresentationAtCriticality]]

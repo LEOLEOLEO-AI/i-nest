@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[12_三原理协同_FEP_最小作用量_STDP]]
 [[20W_Brain_Inspired_Planning]]
 [[AI-ML — 全景导航 (Map of Content)]]
+[[AI_Faculty_Forum_2026]]
 [[Analog_InMemory_Processing]]
 [[CST计量仪]]
 [[CommunicationHeterogeneity]]

@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Obsidian_Plugin_Architecture]]
 [[OpticalTopologyReconfiguration]]
 [[P_Paradigm]]
+[[Path_Redundancy_Management]]
 [[RTC_Primitive]]
 [[RTC_Primitives]]
 [[Renormalization_Group]]

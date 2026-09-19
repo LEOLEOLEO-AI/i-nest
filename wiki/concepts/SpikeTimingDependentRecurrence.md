@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveLocalLearning]]
 [[AdaptiveSTDP]]
 [[AdaptiveSpeechToSpikeEncoding]]
+[[Adaptive_EW_Neuromorphic_Controller]]
 [[Controlled_Release_Kinetics]]
 [[DiscreteSTDPLearning]]
 [[DiscreteSTDP]]

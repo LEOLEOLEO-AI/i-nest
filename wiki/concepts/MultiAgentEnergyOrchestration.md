@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[GradientFreeTraining]]
 [[Heterogeneous_Integration]]
 [[Hysteretic_State_Encoding]]
+[[IntegratedSensingFusion]]
 [[IntegrationProspectsForVLSI]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

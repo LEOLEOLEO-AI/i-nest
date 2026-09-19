@@ -60,6 +60,8 @@ Auto-extracted concept from raw material compilation.
 [[SpikeEncodingLatency]]
 [[SpikeEncoding]]
 [[Spike_Encoding_of_fMRI]]
+[[Spiking neural network]]
+[[SpikingTopology]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]
@@ -69,6 +71,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[神经形态计算]]
 [[神经网络]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

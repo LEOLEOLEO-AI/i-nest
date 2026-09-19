@@ -67,6 +67,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Neuromorphic]]
 [[Wafer_Scale_Neuromorphic_Integration]]
 [[chiplet interconnect]]
+[[iNEST]]
 [[Γst_Revision]]
 [[神经网络]]
 [[类脑芯片]]

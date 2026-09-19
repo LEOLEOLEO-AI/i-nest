@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[BioPlausiblePredictiveCoding]]
+[[Bipartite_Interconnect_Design]]
 [[BrainInspiredArchitecture]]
 [[BrainInspired_Chip]]
 [[BrainInspired_Computing_Paradigm]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[Neuromorphic_Topology]]
 [[Spike_Driven_Intelligence]]
+[[Spiking_Neural_Network]]
 [[TemporalAdversarialPerturbation]]
 [[iNEST]]
 

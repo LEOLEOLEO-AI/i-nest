@@ -58,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[MultiplicativeGain]]
 [[Network_Topology_Design]]
 [[Nishimori_Threshold]]
+[[Resilient_Sensing_Comms_Network]]
 [[TCC]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]

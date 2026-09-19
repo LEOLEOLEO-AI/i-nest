@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[LossSpikePhenomenon]]
 [[NeuromorphicHardwareCoDesign]]
 [[NeuromorphicHardware]]
+[[NeuromorphicVisualPipeline]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[PPT]]

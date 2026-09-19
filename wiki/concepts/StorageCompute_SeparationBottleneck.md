@@ -23,7 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[3D_TokSIM_Architecture]]
 [[3d]]
 [[AI_Driven_Power_Density_Scaling]]
-[[advanced packaging]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[CellularSheaf]]
 [[ChipGPT_UCAgent]]
@@ -41,9 +41,9 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[OneDimensionalLongRangeInteractions]]
 [[P_Paradigm]]
+[[Process_Recycling_Paradigm]]
 [[StorageCompute_Separation]]
 [[Theoretical_Numerical_Analysis]]
-[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

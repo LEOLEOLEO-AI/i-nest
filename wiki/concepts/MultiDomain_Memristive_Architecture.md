@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_Synaptic_Integration]]
 [[Memristor]]
 [[Memristor_Synapse]]
+[[PRIME_Framework]]
 [[iNEST]]
 
 ## Sources

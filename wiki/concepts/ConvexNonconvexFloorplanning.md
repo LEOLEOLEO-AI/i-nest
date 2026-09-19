@@ -28,7 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[3d]]
 [[4H_SiC_SubstrateProcessing]]
 [[AI_Faculty_Forum_2026]]
-[[advanced packaging]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[AnalogInMemoryComputing]]
 [[Asymmetric_Interaction_Matrix]]
@@ -60,8 +60,8 @@ Auto-extracted concept from raw material compilation.
 [[NoC]]
 [[NoC_Interconnect]]
 [[P_Paradigm]]
+[[QuantumProbabilityFlowTopology]]
 [[TCC]]
-[[advanced packaging]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

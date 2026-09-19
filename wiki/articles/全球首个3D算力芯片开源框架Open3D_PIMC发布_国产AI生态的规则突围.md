@@ -12,3 +12,13 @@ SDI, chiplet, iNEST, 芯粒
 
 ---
 *Auto-compiled by wiki_compiler.py*
+
+
+## Related Concepts
+
+[[3d]]
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
+[[SDI_Bond]]
+[[TCC]]
+[[iNEST]]

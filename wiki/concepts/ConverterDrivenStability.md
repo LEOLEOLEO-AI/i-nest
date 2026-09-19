@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Loihi2_OnChip_Learning]]
+[[Loihi]]
 [[MeasurementInducedTopologicalPhaseTransition]]
 [[Memristor]]
 [[Memristor_Network]]
@@ -74,6 +75,7 @@ Auto-extracted concept from raw material compilation.
 [[SynapticFatigueModel]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[TemporalDynamicsModeling]]
 [[TopologicalPhaseTransition]]
 [[iNEST]]
 

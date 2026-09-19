@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Defense_Industrial_Base_Reshaping]]
 [[DendriticReservoirState]]
 [[EvolvingArchitectureDynamics]]
+[[Gate_Synthesis_Readout]]
 [[HybridCouplingThermosensitiveNetwork]]
 [[LocalStructuralPlasticity]]
 [[Network_Topology_Design]]

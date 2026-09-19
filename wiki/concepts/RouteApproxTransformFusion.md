@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[LLMDrivenPathSelection]]
 [[LocalPlasticityPipeline]]
 [[MoE_Routing]]
+[[MultifractalCriticalPhase]]
 [[Network_Topology_Design]]
 [[Orientation_Encoding_Latent_Spaces]]
 [[PhotonicSynapticPlasticity]]

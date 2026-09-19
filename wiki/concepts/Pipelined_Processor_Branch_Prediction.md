@@ -50,7 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[TCC]]
 [[TopologyAwareTimescaleSeparation]]
-[[Topology_Centric_Computing]]
+[[TopologyCentricComputing]]
 [[Topology_Centric_Computing]]
 [[branch prediction]]
 [[pipelined processor]]

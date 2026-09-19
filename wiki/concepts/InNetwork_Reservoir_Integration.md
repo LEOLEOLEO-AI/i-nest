@@ -49,7 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[FractalPathEntropy]]
 [[HierarchicalReservoirDynamics]]
 [[InNetworkNeuromorphicInterconnect]]
-[[In_Network_Neuromorphic]]
+[[InNetworkNeuromorphic]]
 [[In_Network_Neuromorphic]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
@@ -60,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]
+[[Topological_Origin_of_Barriers]]
 [[iNEST]]
 
 ## Sources

@@ -21,7 +21,6 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
-[[156QubitScale]]
 [[3D_Torus_6_Degree]]
 [[3d]]
 [[AI_Application_Scenario_Reconstruction]]
@@ -35,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_CoordinationMechanism]]
 [[CST_Intelligence_Emergence]]
 [[CST_Metric]]
+[[C_elegansConnectomeAnalogy]]
 [[CausalEmergenceCondition]]
 [[Complex_System_Theory]]
 [[Compressed_Glass_Network]]

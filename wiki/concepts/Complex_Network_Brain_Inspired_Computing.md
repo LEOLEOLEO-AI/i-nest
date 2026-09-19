@@ -65,6 +65,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[ScalableNeuromorphicTopology]]
+[[SensoryInMemoryComputing]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[complex system]]

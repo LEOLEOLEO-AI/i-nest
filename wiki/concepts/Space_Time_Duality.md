@@ -29,6 +29,8 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityInducedTopology]]
 [[Criticality]]
 [[Criticality_Metric_Extraction]]
+[[Generative_Graph_Models]]
+[[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[Reservoir_Computing]]

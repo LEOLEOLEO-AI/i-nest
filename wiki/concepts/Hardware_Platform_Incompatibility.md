@@ -22,7 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[3DHI_Chiplet_Integration]]
 [[3d]]
-[[advanced packaging]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[BioPlausiblePredictiveCoding]]
 [[Bipartite_Interconnect]]
@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Disordered_Frustrated_Dimer_Magnets]]
 [[DualSide_Routing_Layer]]
 [[Heterogeneous_Integration]]
+[[In_Network_Generative_Inference]]
 [[In_Package_Neuromorphic_Integration]]
 [[Interconnect_Routing]]
 [[MetaFAIR_ArchitectureDiscovery]]
@@ -43,7 +44,6 @@ Auto-extracted concept from raw material compilation.
 [[Platform_Incompatibility]]
 [[SNN]]
 [[Spiking_Neural_Network]]
-[[advanced packaging]]
 [[chiplet interconnect]]
 [[iNEST]]
 

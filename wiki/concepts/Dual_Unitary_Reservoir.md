@@ -23,16 +23,17 @@ Auto-extracted concept from raw material compilation.
 [[AI_Application_Scenario_Reconstruction]]
 [[AcceleratedMaterialScreening]]
 [[ActionPrototypeClustering]]
+[[ActiveMatterComputing]]
 [[Active_Inference_Topology]]
 [[AdjustableDynamicsReservoir]]
 [[AdjustableDynamics]]
 [[AdversarialResilience]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Quantum_Reservoir_Computing]]
 [[Reservoir_Computing]]
 [[TCC]]
 [[iNEST]]
-[[quantum reservoir computing]]
 [[reservoir computing architecture]]
 
 ## Sources

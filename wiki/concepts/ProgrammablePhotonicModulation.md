@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[CMOS_Memristor_Devices]]
 [[ChargeDomainAttention]]
 [[CrossbarArrayVLSI]]
+[[DMP_SNN_DualMemoryPathway]]
 [[Emerging_CMOS_Memristor_Devices]]
 [[FerroelectricMemoryCell]]
 [[Ferroelectric_Devices]]

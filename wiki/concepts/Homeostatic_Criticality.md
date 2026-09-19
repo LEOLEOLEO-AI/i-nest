@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[MeanFieldSpinGlass]]
 [[Mimetic_Optogenetic_Synapses]]
+[[NanomaterialFeatureEngineering]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]
 [[STDP_Plasticity]]

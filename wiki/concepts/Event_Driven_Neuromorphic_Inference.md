@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[ActionPrototypeClustering]]
 [[ActiveDendriteSNN]]
 [[Activity_Energy_Tradeoff]]
+[[Attention_Mechanism_in_SNN]]
 [[Edge_Intelligence]]
 [[Event_Driven_Architecture]]
 [[Neuromorphic_Computing]]

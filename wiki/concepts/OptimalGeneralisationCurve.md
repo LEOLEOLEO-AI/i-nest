@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicInference]]
 [[ERI_2_0_Strategy]]
 [[EvanescentFieldTrapping]]
+[[FatalTopologyCoevolution]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[L2_L3_Reconfigurability]]

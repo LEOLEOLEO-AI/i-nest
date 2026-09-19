@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[4H_SiC_SubstrateProcessing]]
 [[AI_Faculty_Forum_2026]]
 [[Attention_Residuals]]
+[[ByteDance_Ada_Chip]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CommunicationAsComputation]]

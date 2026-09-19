@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BiologicalNoiseMimicry]]
 [[CombinedImportanceScoring]]
 [[CoreComputationSubspace]]
+[[Edge_Intelligence]]
 [[Electronic_Warfare_Integration]]
 [[ErrorSuppressedPipeline]]
 [[HigherOrderSimplicialDynamics]]

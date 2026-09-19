@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[LLM_Reward_Design]]
 [[LLM_TopologicalReplicationGap]]
+[[Material_Circularity]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[TCC]]

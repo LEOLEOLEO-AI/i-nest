@@ -37,6 +37,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Distributed_Spike_Communication]]
 [[EpidemicThreshold]]
 [[Event_Driven_Architecture]]
+[[Hardware_Neuron_Equations]]
 [[Heterogeneous_Integration]]
 [[In_Network_Generative_Inference]]
 [[In_Package_Neuromorphic_Integration]]

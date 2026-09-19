@@ -24,7 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[12_三原理协同_FEP_最小作用量_STDP]]
 [[AI_Driven_Architecture_Search]]
 [[AI_Forum_Demo_Narrative]]
-[[advanced packaging]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[AgenticServiceOrchestration]]
 [[Agile_Resilient_Defense_Ecosystem]]
@@ -66,7 +66,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[Topology_Interconnect]]
-[[advanced packaging]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

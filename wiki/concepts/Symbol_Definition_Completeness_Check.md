@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_SynergisticCoordination]]
 [[ChannelEventSparsity]]
 [[Complex_System_Theory]]
+[[Cryogenic_Syndrome_Compression]]
 [[DARPA_3DHI_Roadmap]]
 [[DendriticReservoirState]]
 [[DenseNetworkDynamics]]

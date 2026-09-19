@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[CrossbarArrayVLSI]]
 [[CrossbarInterconnect]]
+[[Cryogenic_Syndrome_Compression]]
 [[DTGA]]
 [[Decoupling_Mechanism]]
 [[FPGAInference]]

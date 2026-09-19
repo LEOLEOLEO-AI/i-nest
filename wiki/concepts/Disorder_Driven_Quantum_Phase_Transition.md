@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Controlled_Release_Kinetics]]
 [[Criticality]]
 [[Dynamic_Expert_Routing]]
+[[EnergyProportionalityCeiling]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]

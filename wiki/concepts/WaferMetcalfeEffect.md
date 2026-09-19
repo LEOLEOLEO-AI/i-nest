@@ -22,7 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
-[[chiplet interconnect]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Express_Link_Virtualization]]
@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Reconfigurable_Network]]
 [[System_Collaborative_Capability]]
 [[TCC]]
+[[WaferScaleCoDesign]]
 [[Wafer_Interconnect]]
 [[Wafer_Scale_Integration]]
 [[chiplet interconnect]]

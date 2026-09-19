@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Architecture]]
 [[SDSoW_Industry_Alliance]]
 [[SDSoW_Strategic_Planning]]
+[[SimulationReproducibilityAudit]]
 [[Synaptic_Plasticity]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]

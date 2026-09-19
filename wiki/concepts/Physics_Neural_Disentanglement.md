@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[3D_Torus_6_Degree]]
 [[3d]]
 [[AI-ML — 全景导航 (Map of Content)]]
+[[AI_Faculty_Forum_2026]]
 [[AI_Supply_Chain_Increment]]
 [[AI人工智能 卷积神经网络（CNN）_w3cschool]]
 [[Complex_System_Theory]]
@@ -44,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

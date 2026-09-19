@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[ExplainableEnergyAI]]
 [[FPGA_Neuromorphic_Acceleration]]
 [[FPGA_Neuromorphic_Architectures]]
+[[FunctionalBrainGraphEmbedding]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Gut_Brain_Immune_Network]]
 [[Intelligence_Emergence]]
@@ -54,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[Neuromorphic_Interconnect]]
 [[Neuromorphic_Selective_State_Space]]
 [[RecursiveSelfReferentialArchitecture]]
 [[RestingStateEEG_Connectivity]]
@@ -69,7 +71,6 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
-[[neuromorphic interconnect]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[神经网络]]
 

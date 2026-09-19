@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[CorticalWaveRouting]]
 [[CrossbarArrayVLSI]]
+[[Cryogenic_Syndrome_Compression]]
 [[Environmental_Capability_Context]]
 [[Hebbian_Embedding_Dynamics]]
 [[Heterogeneous_Integration]]

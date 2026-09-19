@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Architecture]]
 [[Criticality]]
 [[DecliningModularity]]
+[[ElasticInferenceScheduling]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Intelligent_Emergence_Paradigm]]

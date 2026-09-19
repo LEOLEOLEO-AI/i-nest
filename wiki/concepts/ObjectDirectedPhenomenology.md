@@ -63,6 +63,7 @@ Auto-extracted concept from raw material compilation.
 [[Pseudogap_Formation]]
 [[Readout_Weight_Training]]
 [[RecursiveSelfReferentialArchitecture]]
+[[RenormalizationGroup_DeviceNonlinearity]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[complex system]]

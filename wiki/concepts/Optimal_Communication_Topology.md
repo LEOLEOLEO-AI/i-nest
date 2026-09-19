@@ -27,12 +27,14 @@ Auto-extracted concept from raw material compilation.
 [[AI-ML — 全景导航 (Map of Content)]]
 [[AI_Application_Scenario_Reconstruction]]
 [[AdvancedPackagingInterconnect]]
-[[advanced packaging]]
+[[AdvancedPackaging]]
+[[Advanced_Packaging]]
 [[AllParallel_SpikeBased_Computing]]
 [[Bioavailability_Enhancement]]
 [[CST_SynergisticCoordination]]
 [[Capability_Forging_Pipeline]]
 [[Complex_System_Theory]]
+[[Entanglement_Teleportation_Locality]]
 [[Gate_Synthesis_Readout]]
 [[LossSpikeMechanism]]
 [[Network_Topology_Design]]
@@ -41,7 +43,6 @@ Auto-extracted concept from raw material compilation.
 [[SDI节点接口规范与化合键定义]]
 [[Spiking_Neural_Network]]
 [[TCC]]
-[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Inference_Workload_Profiling]]
 [[ManyBodyLocalization]]
+[[Multipath_Adaptive_Reliability]]
 [[Negative_Result_Retention]]
 [[Network_Topology_Design]]
 [[SOC]]

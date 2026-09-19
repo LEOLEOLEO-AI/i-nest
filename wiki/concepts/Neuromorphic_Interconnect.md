@@ -38,9 +38,9 @@ Auto-extracted concept from raw material compilation.
 [[Network_Spatiotemporal_Synergy]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[NoC_Chiplet_Wafer_Stack]]
 [[P_Paradigm]]
 [[Spatiotemporal_Synergy]]
-[[neuromorphic interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

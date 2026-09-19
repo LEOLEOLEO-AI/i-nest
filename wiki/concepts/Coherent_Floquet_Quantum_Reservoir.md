@@ -31,9 +31,10 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
+[[PhysicalReservoirInterconnect]]
+[[Quantum_Reservoir_Computing]]
 [[Reservoir_Computing]]
 [[Self_Organized_Criticality]]
-[[quantum reservoir computing]]
 [[reservoir computing architecture]]
 
 ## Sources

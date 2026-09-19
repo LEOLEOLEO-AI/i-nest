@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
 [[Signal_Folding]]
+[[StateAugmentedLearning]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
 

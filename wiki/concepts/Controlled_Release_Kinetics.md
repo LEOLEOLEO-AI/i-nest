@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_EW_Neuromorphic_Controller]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[Avoided_Criticality]]
 [[BrainBodyResonance]]
 [[ClocklessReconfigurableChip]]
 [[Dendritic_In_Context_Learning]]

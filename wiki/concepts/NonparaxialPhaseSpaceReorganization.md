@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Conductive_Filament_Switching]]
 [[CouplingMatrixRecovery]]
 [[DistributedInference]]
+[[HierarchicalReservoirDynamics]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]

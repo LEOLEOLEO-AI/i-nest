@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[Accessibility_Plasticity]]
 [[Attention_Residuals]]
+[[ByteDance_Ada_Chip]]
 [[Deep_Network_Architecture_Invariant]]
 [[Defense_Industrial_Base_Reshaping]]
 [[DynamicTopology]]

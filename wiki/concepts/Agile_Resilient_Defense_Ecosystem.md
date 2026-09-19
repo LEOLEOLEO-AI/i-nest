@@ -62,6 +62,7 @@ Auto-extracted concept from raw material compilation.
 [[NonvolatileChargeDomain]]
 [[OpenLearningEcosystem]]
 [[P_Paradigm]]
+[[QueryComplexityScaling]]
 [[RecursiveSelfReferentialArchitecture]]
 [[StochasticMultiAgentRL]]
 [[TCC]]

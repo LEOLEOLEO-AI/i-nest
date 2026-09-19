@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[Attention_Residuals]]
 [[BoundaryObject_Abstraction]]
+[[ByteDance_Ada_Chip]]
 [[CST计量仪]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Complex_System_Theory]]

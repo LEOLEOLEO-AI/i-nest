@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[EnsembleCreditAssignment]]
+[[FlexibleManifoldReconfiguration]]
 [[Free_Energy_Topology_Mapping]]
 [[Interconnect_Routing]]
 [[MoE_Routing]]

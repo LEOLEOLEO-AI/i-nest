@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Compute_In_Memory_Neuromorphic]]
 [[DecliningModularity]]
 [[DistributedIntelligence]]
+[[Emergence_Phase]]
 [[Heterogeneous_Integration]]
 [[In_Memory_Computing]]
 [[Intelligence_Emergence]]

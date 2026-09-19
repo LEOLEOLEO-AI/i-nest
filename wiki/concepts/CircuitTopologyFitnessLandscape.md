@@ -57,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[ComplexityLandscape_Optimization]]
 [[Complexity_Coordination_Layer]]
 [[ComponentLevelMolding]]
+[[Concepts-Theory — 全景导航 (Map of Content)]]
 [[EvolutionarySearch]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]

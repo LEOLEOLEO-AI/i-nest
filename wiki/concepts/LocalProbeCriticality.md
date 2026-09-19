@@ -42,6 +42,8 @@ Auto-extracted concept from raw material compilation.
 [[CriticalFixedPoint]]
 [[CriticalPhaseTransitionStatisticalTest]]
 [[CriticalSusceptibilityResponse]]
+[[Critical_Exponents]]
+[[CriticalityOnSmallWorlds]]
 [[Criticality]]
 [[Disorder_Anomaly_Duality]]
 [[Intelligence_Emergence]]

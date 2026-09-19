@@ -23,7 +23,8 @@ Auto-extracted concept from raw material compilation.
 [[1024_Card_SuperNode]]
 [[AdiabaticMultimodeBend]]
 [[AdvancedPackagingInterconnect]]
-[[advanced packaging]]
+[[AdvancedPackaging]]
+[[Advanced_Packaging]]
 [[AlternativeMetalInterconnects]]
 [[ChipletRoutingFabric]]
 [[ChipletWaferInterconnectScaling]]
@@ -35,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDriven_Interconnect]]
 [[FullDimensionalDefinableInterconnect]]
 [[Heterogeneous_Integration]]
+[[HierarchicalNetworkPartitioning]]
 [[InNetworkRadarProcessing]]
 [[Interconnect_Routing]]
 [[InverseDesignedPhotonicRouting]]
@@ -45,7 +47,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
-[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

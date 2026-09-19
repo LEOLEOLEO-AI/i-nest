@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[DiscreteContinuous_Unification]]
 [[DrivenCriticalityOptimalityTradeoff]]
 [[EnergyEfficientSNN]]
+[[EnergyProportionalityCeiling]]
 [[EventBasedMotionDeblurring]]
 [[EventDrivenAssociation]]
 [[EventDrivenMotionDeblurring]]

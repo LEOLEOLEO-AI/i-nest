@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[ReservoirTemporalDynamics]]
 [[Reservoir_Computing]]
 [[SDI_Bond]]
+[[SDI_STDP_Regulation]]
 [[SDI节点接口规范与化合键定义]]
 [[SDSoW]]
 [[SDSoW_Architecture]]

@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Edge_Temporal_Signal_Processing]]
 [[Encapsulation_Topology]]
 [[EntanglementSignatures]]
+[[EpidemicThresholdAnalysis]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]

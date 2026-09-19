@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[ControlDrivenCriticalFluctuations]]
 [[Critical_Region_Extension]]
+[[EntanglementAwareRouting]]
 [[EvolvingArchitectureDynamics]]
 [[FPGA_Reconfigurability]]
 [[HybridCouplingThermosensitiveNetwork]]

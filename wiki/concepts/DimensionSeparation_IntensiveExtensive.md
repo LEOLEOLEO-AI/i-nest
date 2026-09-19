@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[AlloyDisorderEngineering]]
 [[Analog_Synaptic_Behavior]]
+[[Autonomous_Driving_SNN_Application]]
 [[Avoided_Criticality]]
 [[BackflowTransformation]]
 [[BioPlausibleDisturbanceObserver]]

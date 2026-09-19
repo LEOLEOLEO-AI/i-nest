@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[FatalityDrivenRewiring]]
 [[Heterogeneous_Integration]]
 [[ImaginaryGaugePhaseImprint]]
+[[InSituReconfiguration]]
 [[Inference_Workload_Profiling]]
 [[Intelligence_Emergence]]
 [[Intelligent_Computing_Infrastructure]]

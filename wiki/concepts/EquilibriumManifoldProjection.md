@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[EdgeIntelligence_Framework]]
 [[Edge_Temporal_Signal_Processing]]
 [[EmergentBeatPatternResolution]]
+[[FreeEnergyPrincipleDynamics]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

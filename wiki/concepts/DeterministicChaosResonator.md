@@ -20,7 +20,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
-[[156QubitScale]]
 [[AI_Application_Scenario_Reconstruction]]
 [[AdjustableDynamics]]
 [[AlternativeBridgingModels]]
@@ -35,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_CoordinationMechanism]]
 [[CST_Intelligence_Emergence]]
 [[CST_Metric]]
+[[C_elegansConnectomeAnalogy]]
 [[Complex_System_Theory]]
 [[Complexity_Emergence]]
 [[Contested_Prior_Resolution]]

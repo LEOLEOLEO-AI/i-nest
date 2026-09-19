@@ -22,7 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[20W_Brain_Inspired_Planning]]
 [[AdaptiveBitPrecisionExploration]]
-[[advanced packaging]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[Asymptotic_Exact_Solution]]
 [[AthermalDynamics]]
@@ -51,9 +51,9 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[OptimalGeneralisationNearInterpolation]]
+[[PRIME_Framework]]
 [[QuantumStateSynapticTrace]]
 [[Synaptic_Plasticity]]
-[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

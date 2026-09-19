@@ -48,6 +48,8 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[Neuromorphic_Planning_Revolution]]
 [[SNN]]
+[[Spike_Event_Driven_Attention]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[TemporalAdversarialPerturbation]]
 [[iNEST]]

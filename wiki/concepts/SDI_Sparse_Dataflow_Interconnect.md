@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_In_Network_Computation]]
 [[P_Paradigm]]
 [[SDI_Bond]]
 [[SDI_iNEST]]

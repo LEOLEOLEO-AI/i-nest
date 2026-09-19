@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Diagnostic]]
 [[Allreduce_Latency_Probe]]
 [[Alpha_Coefficient_Phase_Transition_Amplification]]
+[[AnalogDomainCompression]]
 [[ArbitraryWavefunctionConfigurability]]
 [[Architectural_Conditioning]]
 [[BCM滑动阈值]]

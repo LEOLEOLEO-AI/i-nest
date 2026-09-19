@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[DiscreteScaleInvariance]]
 [[DivergentHigherAreaRanking]]
 [[EvolutionaryReservoirOptimization]]
+[[Interconnect_Routing]]
 [[LindbladInspiredReservoir]]
 [[MultipartiteEntanglementFractal]]
 [[Network_Topology_Design]]
@@ -50,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[ProjectiveMeasurementRouting]]
 [[Reservoir_Computing]]
+[[Structural_Reservoir_Mapping]]
 [[iNEST]]
 [[neuromorphic substrate]]
 

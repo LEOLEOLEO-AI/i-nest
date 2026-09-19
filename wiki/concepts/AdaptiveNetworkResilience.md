@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Complexity_Emergence_Engineering]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Constructed_Reality_Interconnect]]
+[[Course_Based_FPGA_Projects]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Roadmap]]
 [[Emergent_Intelligence_Threshold]]

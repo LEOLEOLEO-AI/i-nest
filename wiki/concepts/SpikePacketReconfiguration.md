@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Routing]]
 [[EnsembleCreditAssignment]]
 [[ExplainableEnergyAI]]
+[[ExtinctionDrivenMetastability]]
 [[FPGAInference]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[GCML_Cognitive_Map]]

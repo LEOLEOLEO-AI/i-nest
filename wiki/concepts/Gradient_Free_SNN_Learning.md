@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[DirectTrainingSNN]]
 [[Direct_Training_Spiking_Neural_Networks]]
 [[Dynamic_Expert_Fusion]]
+[[Edge_Intelligence]]
 [[ElectronicBurstingNeuron]]
 [[Emergent_Cooperation]]
 [[Emergent_Generalization]]

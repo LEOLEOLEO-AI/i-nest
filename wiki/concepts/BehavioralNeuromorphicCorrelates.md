@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[ProgrammerGuideAbstraction]]
 [[Readout_Weight_Training]]
+[[RenormalizationGroup_DeviceNonlinearity]]
 [[Reservoir_Computing]]
 [[VolumeLevel_Attention]]
 [[analog computation]]

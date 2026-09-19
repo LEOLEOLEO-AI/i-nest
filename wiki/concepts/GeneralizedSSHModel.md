@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Critical_Exponent_Extraction_Method]]
 [[DelayParameterSpaceDecomposition]]
+[[DimerizedSpinChain]]
 [[DynamicInference]]
 [[Evolutionary_Computability]]
 [[Evolutionary_Computability_Principle]]

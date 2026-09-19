@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Chiplet]]
+[[Chiplet_Based_Interconnect_Fabric]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Security_Architecture]]
 [[Complex_System_Theory]]

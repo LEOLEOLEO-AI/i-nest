@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[12_三原理协同_FEP_最小作用量_STDP]]
 [[20W_Brain_Inspired_Planning]]
 [[AI-ML — 全景导航 (Map of Content)]]
+[[AI_Faculty_Forum_2026]]
 [[AI_Orchestrator]]
 [[AI_Supply_Chain_Increment]]
 [[Analog_InMemory_Processing]]
@@ -53,15 +54,16 @@ Auto-extracted concept from raw material compilation.
 [[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Interconnect]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
-[[neuromorphic interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[ActionPrototypeClustering]]
 [[ActiveDendriteSNN]]
 [[AnomalousSpinTransport]]
 [[BackflowTransformation]]
@@ -58,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikingMotorControl]]
 [[SpikingMuscleActivation]]
 [[SpikingTopologyEvolution]]
+[[SpikingTopology]]
 [[Spiking_Neural_Network]]
 [[StochasticBinaryDynamics]]
 [[SynapticFatigueModel]]

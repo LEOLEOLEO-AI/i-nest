@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NonEquilibriumUniversality]]
 [[OpportunisticRouting]]
+[[QueryComplexityScaling]]
 [[ReputationPropagation]]
 [[ResourceAwareCompilation]]
 [[RoutingBasedComputation]]

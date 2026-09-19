@@ -37,7 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[Endocrine_Modulated_Network_State]]
-[[Event_Driven_Computation]]
+[[EventDrivenComputation]]
 [[EventDrivenMotionDeblurring]]
 [[Event_Driven_Architecture]]
 [[Event_Driven_Computation]]
@@ -74,6 +74,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TemporalLearning]]
 [[TimeToFirstSpikeEncoding]]
+[[Universal_Threshold_Evidence_Requirement]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

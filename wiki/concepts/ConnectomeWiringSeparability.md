@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[CircadianGateModulation]]
 [[Combinatorial_Optimization_Readout]]
 [[CompleteConnectomeDynamics]]
+[[Complexity_Emergence]]
 [[Connectome]]
 [[Connectome_Reservoir]]
 [[Cross_Brain_Connectome]]

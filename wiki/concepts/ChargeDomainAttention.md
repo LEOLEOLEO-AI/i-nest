@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[CMOS_Memristor_Devices]]
 [[CST计量仪]]
+[[CommunicationHeterogeneity]]
 [[Complex_System_Theory]]
 [[CrossDomain_Integration]]
 [[Dynamic_Expert_Fusion]]

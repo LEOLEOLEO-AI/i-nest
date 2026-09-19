@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Distributed_Spike_Communication]]
 [[End_Side_Neuromorphic_Deployment]]
 [[EventDrivenSensoryEncoding]]
+[[EventDriven_Interconnect]]
 [[Heterogeneous_Integration]]
 [[Memory_Wall]]
 [[Neuromorphic_Computing]]

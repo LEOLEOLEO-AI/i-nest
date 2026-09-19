@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Conductive_Filament_Switching]]
 [[MicroLED_Array_Programmer]]
 [[Network_Topology_Design]]
+[[NeuroAI_Benchmarking]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Selective_State_Space]]
 [[Neuron_Synapse_Connectivity_Ratio]]

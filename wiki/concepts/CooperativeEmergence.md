@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Beyond_Moore_Packaging_Strategy]]
 [[Bipartite_Interconnect]]
 [[BitPrecisionAwareScheduling]]
+[[CavityMethodAnalysis]]
 [[CognitiveSupportTopology]]
 [[CollectiveDynamics]]
 [[Collective_State_Convergence]]

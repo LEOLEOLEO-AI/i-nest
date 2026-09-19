@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[20W_Brain_Inspired_Planning]]
 [[CorticalWaveRouting]]
 [[EventCameraTemporalEncoding]]
 [[Event_Driven_Architecture]]
@@ -30,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[Neuromorphic_NoC_Routing]]
 [[NoC]]
 [[NoC_EventRouting]]
@@ -38,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_iNEST_Interconnect]]
 [[SNN]]
 [[ST_SNN]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]

@@ -35,10 +35,12 @@ Auto-extracted concept from raw material compilation.
 [[ChargeDomainAttention]]
 [[ConstructedRealityState]]
 [[Contested_Priors_Architecture]]
+[[Continuous_Control_SNN]]
 [[Continuous_Control_SNN_Stability]]
 [[CriticalityBasedClassification]]
 [[CriticalityDrivenIntegration]]
 [[Criticality]]
+[[Criticality_Under_Efficient_Coding]]
 [[CrossDomain_Integration]]
 [[CrossEntityPreemptiveWarning]]
 [[DiscreteContinuous_Unification]]
@@ -52,8 +54,8 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Sensor_Fusion]]
 [[SNN]]
 [[Self_Organized_Criticality]]
-[[Spiking_Transformer]]
 [[Spiking_Neural_Network]]
+[[Spiking_Transformer]]
 [[iNEST]]
 
 ## Sources

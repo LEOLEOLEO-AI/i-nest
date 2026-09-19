@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[Semantic_Least_Energy_Principle]]
 [[TCC]]
+[[TopologyCentricComputing]]
 [[Topology_Centric_Computing]]
 
 ## Sources

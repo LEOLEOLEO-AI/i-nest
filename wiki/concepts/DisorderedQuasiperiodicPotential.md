@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Edge_Temporal_Signal_Processing]]
 [[Encapsulation_Topology]]
 [[EntanglementSignatures]]
+[[EpidemicThresholdAnalysis]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
@@ -58,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[Topological_Edge_States]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

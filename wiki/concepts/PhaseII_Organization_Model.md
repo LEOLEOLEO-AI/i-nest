@@ -20,12 +20,13 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[4H_SiC_SubstrateProcessing]]
 [[ChipletWaferInterconnectCoDesign]]
 [[ChipletWaferInterconnectScaling]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]
-[[chiplet interconnect]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Topology]]
 [[Chiplet_Topology_Interconnect]]
@@ -58,7 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Strategic_Planning]]
 [[Switchless_Computing]]
 [[TCC]]
-[[Topology_Centric_Computing]]
+[[TopologyCentricComputing]]
 [[Topology_Centric_Computing]]
 [[Topology_Interconnect]]
 [[WaferScaleCoDesign]]

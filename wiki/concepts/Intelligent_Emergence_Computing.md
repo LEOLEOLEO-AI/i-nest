@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[CST计量仪]]
 [[Complex_Network_Brain_Inspired_Computing]]
 [[Complex_System_Theory]]
+[[Cryogenic_Syndrome_Compression]]
 [[DevelopmentalNeuromorphicAdaptation]]
 [[FPGA_Neuromorphic_Architectures]]
 [[Free_Energy_Principle]]

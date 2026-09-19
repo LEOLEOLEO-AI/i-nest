@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[BioPlausiblePredictiveCoding]]
 [[BurstGatedRouting]]
 [[Cognitive_Relapse_Decoupling]]
+[[ContinualLearningOnNeuromorphic]]
 [[Continual_Learning_Modularity]]
 [[CriticalityInNetworkComputing]]
 [[CriticalityInducedTopology]]

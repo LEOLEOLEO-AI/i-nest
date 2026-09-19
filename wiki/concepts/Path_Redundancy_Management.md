@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[NoC]]
 [[Obsidian_Plugin_Architecture]]
+[[OpticalTopologyReconfiguration]]
 [[P_Paradigm]]
 [[Renormalization_Group]]
 [[Renormalization_Group_Attention]]

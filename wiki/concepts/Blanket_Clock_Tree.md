@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Topology_Constraint]]
 [[Free_Energy_Topology_Mapping]]
 [[Heterogeneous_Integration]]
+[[L2_L3_Reconfigurability]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC]]

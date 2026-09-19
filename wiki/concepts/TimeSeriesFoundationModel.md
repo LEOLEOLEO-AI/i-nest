@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[OpenLearningEcosystem]]
 [[PacketRoutingForFPGAs]]
 [[PacketRoutingOptimization]]
+[[Paradigm_Material_Coordination]]
 [[Port_Hamiltonian_System]]
 [[QuantumDistillation]]
 [[SelfOrganization]]

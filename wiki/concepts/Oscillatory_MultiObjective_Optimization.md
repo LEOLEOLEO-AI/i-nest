@@ -26,7 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Forum_Demo_Narrative]]
 [[ActiveMatterComputing]]
 [[Adaptive_Deep_Brain_Stimulation]]
-[[advanced packaging]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[AnytimePointCloudRecognition]]
 [[ArtificialProprioception]]
@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[BrainInspired_Chip]]
 [[BurstGatedRouting]]
 [[ClosedLoopNeuromorphicControl]]
+[[Continuous_Control_Spike_Timing_Sensitivity]]
 [[Discrete_Event_Spike_Simulation]]
 [[EmulationTheoryDisturbanceObserver]]
 [[EventDrivenRiskAssessment]]
@@ -52,7 +53,6 @@ Auto-extracted concept from raw material compilation.
 [[Trustworthiness_Aware_Training]]
 [[TrustworthyLearning]]
 [[WaveBasedComputation]]
-[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

@@ -62,6 +62,7 @@ Auto-extracted concept from raw material compilation.
 [[PersistenceThresholdOptimization]]
 [[RandomFieldDisorder]]
 [[Recursive_Metric_Contraction]]
+[[ReleaseFreePhononic]]
 [[Representation_Learning_Generalization]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]

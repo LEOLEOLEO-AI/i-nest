@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Complexity_Emergence]]
 [[Complexity_Emergence_Engineering]]
+[[CrystalPalace_Program]]
 [[DataDrivenCellularAxis]]
 [[DrivenDissipativeDynamics]]
 [[Emergent_Intelligence]]

@@ -66,6 +66,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[TacticalEdgeIntelligence]]
 [[TopologicalAndersonChernInsulator]]
 [[Topological_Anderson_Insulator]]
 [[iNEST]]

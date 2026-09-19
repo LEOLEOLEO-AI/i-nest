@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[EventBasedMotionDeblurring]]
 [[EventDataNonUniformity]]
 [[EventDrivenAutoregression]]
+[[EventDrivenGraphTraversal]]
 [[EventDrivenMotionDeblurring]]
 [[Heterogeneous_Integration]]
 [[ImageToEventConversion]]

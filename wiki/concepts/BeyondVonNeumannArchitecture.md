@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[CMOS_Memristor_Devices]]
 [[CST计量仪]]
+[[CapacityScalingLaw]]
 [[ChargeDomainAttention]]
 [[Complex_System_Theory]]
 [[ConsciousIntegration]]

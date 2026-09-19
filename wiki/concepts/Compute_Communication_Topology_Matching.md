@@ -29,7 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Intelligence_Principle]]
 [[Adaptive_Service_Orchestration]]
 [[AdiabaticMultimodeBend]]
-[[advanced packaging]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_Route]]
 [[Alpha_Computation_Consistency]]
 [[AndersonTransition]]
@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[DecliningModularity]]
 [[Deep_Thermalisation]]
 [[DistributedIntelligence]]
+[[Emergence_Phase]]
 [[EntanglementAwareRouting]]
 [[FatalityDrivenRewiring]]
 [[FlagOS_2_0]]
@@ -60,7 +61,6 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[TCC]]
-[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

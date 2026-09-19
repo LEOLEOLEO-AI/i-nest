@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_NoC_Fabric]]
 [[Chiplet_Stacking]]
+[[CorticalTypeDiversity]]
 [[Critical_Region_Extension]]
 [[DynamicServiceComposition]]
 [[Dynamic_Communication_Reconfiguration]]

@@ -43,6 +43,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Intelligence_Emergence]]
 [[Less_is_more，大脑“低能耗”并“高效响应”的秘诀：模块化_NSR]]
 [[Less_is_more，大脑“低能耗”并“高效响应”的秘诀：模块化_NSR_1]]
+[[LocalMeasurementSheaf]]
 [[NCL神经计算定律详解]]
 [[Nat_Hum_Behav_用「全拓扑网络」重塑视皮层地图]]
 [[Network_Topology_Design]]

@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[1M1T1R_SynapticNeuron]]
 [[AINext_Initiative]]
 [[ActiveDendriteSNN]]
 [[AnomalousSpinTransport]]
@@ -58,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_iNEST]]
 [[Self_Organized_Criticality]]
 [[SpikingTopologyEvolution]]
+[[SpikingTopology]]
 [[Spiking_Neural_Network]]
 [[StochasticBinaryDynamics]]
 [[Synaptic_Plasticity]]

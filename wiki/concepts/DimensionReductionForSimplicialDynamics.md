@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[KV_Cache_To_BoundaryObject]]
 [[KV_Cache_to_BoundaryObject_Transition]]
+[[Memristive_STDP]]
 [[MetaHardwareAbstraction]]
 [[Multi_Scale_Biological_Integration]]
 [[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]

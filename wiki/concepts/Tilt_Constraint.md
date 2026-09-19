@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Ant_Swarm_Functional_Control]]
 [[Baseline_Draft_Status]]
 [[CrossDomain_Integration]]
+[[EventDrivenRiskAssessment]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[FatalTopologyCoevolution]]
 [[Gate_Synthesis_Readout]]
 [[Heterogeneous_Integration]]
+[[In_Network_Neuromorphic_Integration]]
 [[Intelligence_Emergence]]
 [[LivingNeuronalNetworkTopology]]
 [[Network_Topology_Design]]

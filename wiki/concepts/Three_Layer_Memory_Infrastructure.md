@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Service_Orchestration]]
 [[AdiabaticMultimodeBend]]
 [[AdjointWaveControl]]
+[[Advanced_Packaging]]
 [[AndersonTransition]]
 [[BeyondVonNeumannArchitecture]]
 [[Bipartite_Interconnect]]
@@ -37,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Compute_Communication_Topology_Matching]]
 [[Compute_In_Memory_Neuromorphic]]
 [[CrossDomain_Integration]]
+[[DecliningModularity]]
 [[Deep_Thermalisation]]
 [[FatalityDrivenPruning]]
 [[FatalityDrivenRewiring]]
@@ -57,7 +59,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologyAware_Grouping]]
 [[VectorFlowField]]
-[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

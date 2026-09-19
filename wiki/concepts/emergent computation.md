@@ -50,6 +50,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Criticality]]
 [[Intelligence_Emergence]]
 [[MeanFieldSpinGlass]]
+[[Memristive_STDP]]
 [[Mimetic_Optogenetic_Synapses]]
 [[Network_Topology_Design]]
 [[STDP_Plasticity]]

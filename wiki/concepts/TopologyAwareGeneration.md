@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Theory]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Topological_Alignment]]
+[[FirstPrinciples_AI]]
 [[HybridMemristorArray]]
 [[Intelligence_Emergence]]
 [[Intelligent_Power_Management]]

@@ -68,6 +68,7 @@ Auto-extracted concept from raw material compilation.
 [[ScalingBehaviourDeviation]]
 [[ScalingBehaviourDeviations]]
 [[Scaling_Law_Breakdown]]
+[[Spectral_Generalization_Criteria]]
 [[catastrophic forgetting]]
 [[iNEST]]
 [[涌现]]

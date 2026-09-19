@@ -28,9 +28,10 @@ Auto-extracted concept from raw material compilation.
 [[3d]]
 [[AdiabaticMultimodeBend]]
 [[AdvancedPackagingInterconnect]]
-[[advanced packaging]]
-[[advanced packaging]]
+[[AdvancedPackaging]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
+[[BisectionBandwidthMetric]]
 [[CXL_Deployment_Transition]]
 [[CavityMethodAnalysis]]
 [[Chiplet]]
@@ -47,7 +48,6 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Interconnect]]
 [[SDI_Bond]]
 [[TCC]]
-[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

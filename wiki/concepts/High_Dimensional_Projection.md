@@ -19,7 +19,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
-[[156QubitScale]]
 [[AI_FullSpectrum_Strategy]]
 [[Allreduce_Latency_Probe]]
 [[AnalogDomainCompression]]
@@ -28,10 +27,12 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[AtomicVaporNonlinearity]]
 [[Beyond_Moore_Packaging_Strategy]]
+[[Brain_Connectome]]
 [[CST_CoordinationMechanism]]
 [[C_elegansConnectomeAnalogy]]
 [[CausalEmergenceCondition]]
 [[Complex_System_Theory]]
+[[Connectome]]
 [[CriticalFixedPoint]]
 [[CrossInstitutionalNetwork]]
 [[CrystalPalace_Program]]
@@ -54,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[InteractingHaldaneModel]]
 [[Memristive_Topology]]
 [[MultifractalWavefunction]]
+[[NISQHardwareAwareMapping]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[PhysicalSubstrateReservoir]]

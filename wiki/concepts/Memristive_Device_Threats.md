@@ -61,6 +61,8 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Non_Von_Neumann_Architecture]]
 [[PowerLawScalingClassification]]
+[[PowerLawScaling]]
+[[QuantumInspiredHarmonySearch]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[complex system]]

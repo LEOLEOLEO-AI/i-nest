@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Service_Reconfiguration]]
 [[AdiabaticModeEvolution]]
 [[AmoebaInspiredLocomotion]]
+[[Anomaly_Protected_Scaling_Law]]
 [[BioInspired_Interception_Control]]
 [[CircuitTopologyEncoding]]
 [[CriticalLearningRegime]]

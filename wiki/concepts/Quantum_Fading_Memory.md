@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[CombinatorialOptimizationReservoirMapping]]
 [[CrossbarArrayIntegration]]
 [[DARPA_ProjectManager_Model]]
+[[DualImpactEvaluation]]
 [[MemoryComputeIntegration]]
 [[MitigationLayers]]
 [[MolecularTargetSignaling]]

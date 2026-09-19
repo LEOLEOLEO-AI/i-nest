@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[BarrierConditionedTrajectory]]
 [[CrossLayer_SignalRouting]]
 [[CrossbarSNNArchitecture]]
+[[DirectoryManagementLaws]]
 [[DualModeSNNConventionalInference]]
 [[EarlyVisualCortexAliasing]]
 [[EventDrivenModularArchitecture]]

@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Hypersonic_Weapon_Market_CAGR]]
 [[Intelligence_Emergence]]
+[[KV_Cache_To_BoundaryObject]]
 [[KV_Cache_to_BoundaryObject_Transition]]
 [[Memristive_STDP]]
 [[Memristor]]
@@ -80,6 +81,7 @@ Auto-extracted concept from raw material compilation.
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
+[[神经网络]]
 [[类脑芯片]]
 
 ## Sources

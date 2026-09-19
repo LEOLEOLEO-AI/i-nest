@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Memory_Computing]]
 [[MemristiveSupervisedLearning]]
 [[Memristive_Synaptic_Device]]
+[[Memristive_Synaptic_Integration]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]

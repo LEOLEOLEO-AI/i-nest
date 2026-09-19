@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Weight_Storage]]
 [[Attention_Residuals]]
 [[BigBrainCellularAxis]]
+[[ByteDance_Ada_Chip]]
 [[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Chiplet]]

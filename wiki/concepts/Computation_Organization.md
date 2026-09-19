@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[CrashHotspotForecasting]]
+[[DivergentHigherAreaRanking]]
 [[ErrorSuppressedPipeline]]
 [[HierarchicalReservoirDynamics]]
 [[Intelligence_Emergence]]

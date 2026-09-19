@@ -58,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[PacketRoutingForFPGAs]]
 [[PhysicallyInformedDeepLearning]]
 [[Pseudofractal_Web]]
+[[QueryComplexityScaling]]
 [[RedundancyControlledStochasticRouting]]
 [[STDPDrivenConnectivity]]
 [[STDP_Plasticity]]

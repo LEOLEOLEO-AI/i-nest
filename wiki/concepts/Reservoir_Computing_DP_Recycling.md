@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[FederatedServiceGraph]]
 [[FrequencyDomainReadout]]
 [[Generative_Graph_Models]]
+[[HotspotEmergenceModeling]]
 [[Intelligence_Emergence]]
 [[MantelTest_SignCorrection]]
 [[MetaFAIR_ArchitectureDiscovery]]

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
+[[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[03 涌现：整体的能力不能还原回个体？ - 得到APP]]
 [[3DHI_Chiplet_Integration]]
 [[3d]]
@@ -32,7 +33,6 @@ Auto-extracted concept from raw material compilation.
 [[Bias_Origin_Taxonomy]]
 [[BoundaryObject_Abstraction]]
 [[CST_MasterEquation]]
-[[causal emergence]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]
@@ -55,7 +55,9 @@ Auto-extracted concept from raw material compilation.
 [[MixedLabyrinthFractal]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
+[[Neuromorphic_Computing]]
 [[OscillatoryNeuralNetworkTopology]]
+[[P_Paradigm]]
 [[Processing_in_Array]]
 [[RandomisedMixedLabyrinthFractals]]
 [[RecursiveSelfReferentialArchitecture]]
@@ -66,6 +68,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC_iNEST_Interconnect]]
 [[TopologicalAndersonChernInsulator]]
 [[Topology_Centric_Neuromorphic]]
+[[causal emergence]]
 [[iNEST]]
 [[iNEST_Interconnect]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]

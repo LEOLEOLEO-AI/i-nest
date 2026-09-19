@@ -31,7 +31,8 @@ Auto-extracted concept from raw material compilation.
 [[AI_Memory_Infrastructure]]
 [[AdaptiveGraphDiffusion]]
 [[Adaptive_Intelligence_Principle]]
-[[advanced packaging]]
+[[Adaptive_Service_Orchestration]]
+[[Advanced_Packaging]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]
@@ -39,7 +40,6 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[TCC]]
-[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

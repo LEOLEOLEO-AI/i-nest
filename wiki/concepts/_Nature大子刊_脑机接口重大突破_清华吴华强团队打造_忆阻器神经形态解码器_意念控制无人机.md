@@ -38,6 +38,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Memristor_Synapse]]
 [[Nature Communications_生物神经网络中突触多样性如何让人工神经网络更强大？]]
 [[Nature_Computational_Science_用AI发现高维复杂网络的动力学公式]]
+[[Nature综述_大规模类脑计算的机遇与挑战]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[Pipelined_Processor_Neuromorphic_Integration]]

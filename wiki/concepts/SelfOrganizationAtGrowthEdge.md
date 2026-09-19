@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AnisotropicGaussianPrimitives]]
 [[AnomalousSpinTransport]]
 [[Architectural_Conditioning]]
+[[AstrocyteInspiredRepair]]
 [[BigBrainCellularAxis]]
 [[Cognitive_Relapse_Architecture]]
 [[ComplexEcosystemDynamics]]

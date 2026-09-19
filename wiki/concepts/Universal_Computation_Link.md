@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[GroupInfluenceThreshold]]
 [[HybridCouplingThermosensitiveNetwork]]
+[[InSitu_Adjoint_Wave_Control]]
 [[In_Network_Computing]]
 [[Interconnect_Routing]]
 [[Local_Approximation_Dynamics]]

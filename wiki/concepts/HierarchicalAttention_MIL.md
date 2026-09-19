@@ -62,6 +62,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_Standard_Review]]
 [[TCC]]
+[[VariationalFreeEnergyMinimisation]]
 [[VolumeLevel_Attention]]
 [[analog computation]]
 [[complex system]]

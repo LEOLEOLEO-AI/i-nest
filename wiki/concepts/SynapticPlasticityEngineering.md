@@ -53,12 +53,14 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[NeuronModelComparativeAnalysis]]
 [[OscillatoryDynamicsOptimization]]
+[[OscillatoryDynamics]]
 [[PulseFrequencyModulationSpikeCoding]]
 [[RecursiveSelfReferentialArchitecture]]
 [[RobustnessSpikeEncoding]]
 [[SNN]]
 [[SpikeEncoding]]
 [[Spike_Encoding_of_fMRI]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[StochasticBinaryDynamics]]
 [[Synaptic_Plasticity]]
@@ -67,6 +69,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[忆阻器]]
 [[神经网络]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

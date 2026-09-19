@@ -20,12 +20,12 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
-[[advanced packaging]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[Chiplet]]
 [[Chiplet_Based_Trusted_Hardware]]
 [[Chiplet_Heterogeneous_Integration]]
-[[chiplet interconnect]]
+[[Chiplet_Interconnect]]
 [[Chiplet_NoC_Interconnect]]
 [[Chiplet_Packaging]]
 [[Chiplet_Packaging_Topology]]
@@ -44,7 +44,6 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[SelfOrganization]]
 [[TCC]]
-[[advanced packaging]]
 [[chiplet interconnect]]
 
 ## Sources

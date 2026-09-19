@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[DimensionalityReductionForNetworkControl]]
 [[Disordered_Heisenberg_Model]]
 [[EpoxyMoldingCompoundFlow]]
+[[GeometryGuidedGraphGeneration]]
 [[ImaginaryGaugePhaseImprint]]
 [[Intelligence_Emergence]]
 [[KV_Cache_To_BoundaryObject]]

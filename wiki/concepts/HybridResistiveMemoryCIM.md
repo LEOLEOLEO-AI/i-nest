@@ -22,7 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[3DHI_Chiplet_Integration]]
 [[3d]]
 [[AI_Faculty_Forum_2026]]
-[[advanced packaging]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[Allreduce_Latency_Probe]]
 [[AnalogInMemoryComputing]]
@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Network_Architecture_Invariant]]
 [[Defense_Industrial_Base_Reshaping]]
 [[EfficientDeepLearning]]
+[[EmergentIntelligence_Spacetime]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[FeFET_Polarization_Switching]]
@@ -76,7 +77,6 @@ Auto-extracted concept from raw material compilation.
 [[SystemLevelNonlinearity]]
 [[Textbook_Paradigm_Definition]]
 [[TopologicalAndersonChernInsulator]]
-[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

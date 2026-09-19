@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[BioPlausibleDisturbanceObserver]]
 [[BrainBodyResonance]]
 [[BurstTemporalPlasticity]]
+[[Catastrophic_Forgetting_Mitigation]]
 [[Cognitive_Relapse_Architecture]]
 [[Controlled_Release_Kinetics]]
 [[Criticality]]

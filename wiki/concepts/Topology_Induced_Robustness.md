@@ -56,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[NoC]]
 [[Obsidian_Plugin_Architecture]]
+[[OpticalTopologyReconfiguration]]
 [[P_Paradigm]]
 [[Path_Redundancy_Management]]
 [[RecursiveSelfReferentialArchitecture]]

@@ -20,7 +20,6 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
-[[156QubitScale]]
 [[AcademicDevelopmentCoCreation]]
 [[AlternativeBridgingModels]]
 [[AnomalousSpinTransport]]
@@ -43,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[HardwareAware_DesignSpace]]
 [[HierarchicalCrackPatternGeneration]]
 [[HierarchicalCrackPattern]]
+[[HigherOrderSimplicialDynamics]]
 [[Hybrid_LLM_Guided_Search]]
 [[InNetwork_Topological_Reservoir]]
 [[Intelligence_Emergence]]
@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[Neural_Avalanche]]
 [[NonEquilibriumComputing]]
 [[Nonlinear_Gain]]
+[[Physical_Reservoir]]
 [[QuantumGateSynthesis]]
 [[ReadoutLayer]]
 [[RecursiveSelfReferentialArchitecture]]

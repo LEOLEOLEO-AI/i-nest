@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[DecliningModularity]]
 [[Discrete_Event_Spike_Simulation]]
 [[Dynamic_Neuromorphic_Computing]]
+[[ExtinctionDrivenMetastability]]
 [[FunctionalEnsembleComputation]]
 [[FunctionalEnsemble]]
 [[Neuromorphic_Computing]]

@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[OpportunisticRouting]]
 [[P_Paradigm]]
+[[QueryComplexityScaling]]
 [[RecursiveSelfReferentialArchitecture]]
 [[ReputationPropagation]]
 [[ResourceAwareCompilation]]

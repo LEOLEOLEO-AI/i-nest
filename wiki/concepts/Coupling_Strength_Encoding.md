@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveDensityControl]]
 [[AdaptiveNetworkResilience]]
 [[BioInspired_Interception_Control]]
+[[Categorical_Reservoir_Model]]
 [[CertifiedBifurcationDetection]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Cognitive_Relapse_Architecture]]

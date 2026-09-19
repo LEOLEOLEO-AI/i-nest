@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Neural_Avalanche]]
 [[Neural_Avalanche_Dynamics]]
 [[PolarizationModulatedPhotoresponse]]
+[[ProvablySubLinearConvergence]]
 [[QuantumReservoirMemoryCapacity]]
 [[Random_Parameter_Substitution]]
 [[RecursiveSelfReferentialArchitecture]]

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AdjustableDynamics]]
 [[AstrocyteInspiredRepair]]
 [[Bidirectional_Temporal_Enhancement]]
+[[CST_Intelligence_Emergence]]
 [[Complexity_Emergence]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]
 [[SNN]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[SNN_HighLevel_DesignTraining]]
 [[SNN_Neuromorphic_Integration]]
+[[SNN_Spiking_Neural_Network]]
 [[ST_SNN]]
 [[SensorMemoryFusion]]
 [[Spiking_Neural_Network]]

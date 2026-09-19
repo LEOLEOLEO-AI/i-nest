@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[ConceptualNetworkEmbedding]]
 [[Connectome]]
 [[Connectome_Transfer]]
+[[Convergent_Evolution_Representation_Space]]
 [[Developmental_Computing]]
 [[EmulationTheoryObserver]]
 [[FlexibilityThreshold]]

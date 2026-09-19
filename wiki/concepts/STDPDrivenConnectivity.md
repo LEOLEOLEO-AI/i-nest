@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[JunctionCenteredRouting]]
 [[LLM_Reward_Design]]
+[[MeasurementInducedRouting]]
 [[Multipath_Adaptive_Reliability]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

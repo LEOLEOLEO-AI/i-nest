@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[SDDE_Attractor_Emergence]]
 [[SNN]]
+[[SNN_VisualSemanticDecoder]]
 [[SpikeTemporalAwareCompression]]
 [[Spiking_Neural_Network]]
 [[Stochastic_LIF_Inference]]

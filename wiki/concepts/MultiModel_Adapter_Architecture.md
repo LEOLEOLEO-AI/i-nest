@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[EmulationTheoryDisturbanceObserver]]
 [[EnergyAwareLearning]]
+[[EventBasedMotionDeblurring]]
 [[EventDrivenMotionDeblurring]]
 [[Heterogeneous_Integration]]
 [[ImageToEventConversion]]

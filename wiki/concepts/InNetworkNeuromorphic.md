@@ -28,7 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Activity_Dependent_Plasticity]]
 [[AnisotropicGaussianPrimitives]]
 [[Edge_AI_Acquisition_Consolidation]]
-[[EventDriven_Asynchronous_Operation]]
+[[EventDrivenAsynchronousOperation]]
 [[EventDriven_Asynchronous_Operation]]
 [[In_Network_Neuromorphic]]
 [[Neuromorphic_Computing]]

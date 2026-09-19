@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossTaskNeuralRepresentation]]
 [[DataDrivenCellularAxis]]
 [[DevelopmentalBrainTrajectory]]
+[[DevelopmentalNeuromorphicAdaptation]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]

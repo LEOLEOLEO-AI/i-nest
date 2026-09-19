@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[20W_Brain_Inspired_Planning]]
+[[Anisotropic_Correlation_Length]]
 [[AutonomousAdaptation]]
 [[CirculateFiringNeuron]]
 [[ComplexValuedSNN]]
@@ -40,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_iNEST_Interconnect]]
 [[SNN]]
 [[SNN_Topology]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 [[iNEST_Interconnect]]

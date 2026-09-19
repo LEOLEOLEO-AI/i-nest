@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Complexity_Emergence]]
 [[Complexity_Emergence_Engineering]]
+[[Contested_Priors_Architecture]]
 [[CooperativeEmergence]]
 [[Course_Based_FPGA_Projects]]
 [[Heterogeneous_Integration]]

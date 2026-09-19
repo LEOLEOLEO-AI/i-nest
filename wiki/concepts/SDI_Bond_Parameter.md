@@ -22,7 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[4H_SiC_SubstrateProcessing]]
 [[AI_Faculty_Forum_2026]]
-[[advanced packaging]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[AllParallel_SpikeBased_Computing]]
 [[Asynchronous_Circuit]]
@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[BackpropagationFreeLearning]]
 [[BurstGatedRouting]]
 [[Continuous_Discrete_Compute_Gap]]
+[[Continuous_Spatiotemporal_State_Propagation]]
 [[Deep_Network_Architecture_Invariant]]
 [[Interconnect_Routing]]
 [[Learning_Rule_Comparison]]
@@ -41,7 +42,6 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_Sparse_Dataflow_Interconnect]]
 [[Spiking_Neural_Network]]
-[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

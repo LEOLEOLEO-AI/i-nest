@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[CoDesigned_SNN]]
+[[CollectiveSpikingDynamics]]
 [[CombinedImportanceScoring]]
 [[CompartmentalNeuronModel]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]

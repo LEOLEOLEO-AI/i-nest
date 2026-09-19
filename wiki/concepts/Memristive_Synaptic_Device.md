@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[FerroelectricSynapticArray]]
 [[Ferroelectric_Devices]]
 [[GeTeBasedCBRAM]]
+[[HeterogeneousSynapticDelays]]
 [[In_Memory_Computing]]
 [[Intelligence_Emergence]]
 [[Memristive_ANN_Hardware]]

@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[DelayAwareSpikeEventDelivery]]
 [[DiscreteContinuous_Unification]]
 [[DrivenCriticalityOptimalityTradeoff]]
+[[EnergyProportionalityCeiling]]
 [[EventBasedMotionDeblurring]]
 [[EventDrivenMotionDeblurring]]
 [[Event_Driven_Architecture]]

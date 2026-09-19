@@ -23,7 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[3D_Stacked_Memory_Logic]]
 [[3d]]
 [[AdaptiveBitPrecisionExploration]]
-[[advanced packaging]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[BurstInterleaving]]
 [[ChannelCountScaling]]
@@ -35,11 +35,11 @@ Auto-extracted concept from raw material compilation.
 [[EdgeInspectionInference]]
 [[End_Side_Neuromorphic_Deployment]]
 [[EventDrivenSensoryEncoding]]
+[[EventDriven_Interconnect]]
 [[Heterogeneous_Integration]]
 [[Memory_Wall]]
 [[Neuromorphic_Computing]]
 [[ResonantFrequencyAdaptationRule]]
-[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

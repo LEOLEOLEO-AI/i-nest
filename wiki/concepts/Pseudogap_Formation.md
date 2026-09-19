@@ -63,6 +63,7 @@ Auto-extracted concept from raw material compilation.
 [[ObjectDirectedPhenomenology]]
 [[Readout_Weight_Training]]
 [[RecursiveSelfReferentialArchitecture]]
+[[RenormalizationGroup_DeviceNonlinearity]]
 [[TopologicalAndersonChernInsulator]]
 [[complex system]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]

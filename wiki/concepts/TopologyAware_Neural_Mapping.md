@@ -62,6 +62,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[RG_Flow_Transformer]]
 [[RecursiveSelfReferentialArchitecture]]
+[[Resilient_Sensing_Comms_Network]]
 [[SpectralDimension]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]

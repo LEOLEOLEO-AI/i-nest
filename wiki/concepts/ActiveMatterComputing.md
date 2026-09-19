@@ -65,6 +65,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[SelfOrganizedOscillatoryLearning]]
+[[ShortTermMemory]]
 [[Syncytial_Information_Integration]]
 [[TCC]]
 [[complex system]]

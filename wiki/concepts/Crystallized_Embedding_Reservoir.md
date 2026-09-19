@@ -61,6 +61,7 @@ Auto-extracted concept from raw material compilation.
 [[ReproducibleReservoirComputing]]
 [[Reservoir_Computing]]
 [[RestrictedConnectivityTopology]]
+[[SpikingNeuronOptimization]]
 [[Synaptic_Plasticity]]
 [[TopologicalPhaseTransition]]
 [[WaveBasedInformationRouting]]

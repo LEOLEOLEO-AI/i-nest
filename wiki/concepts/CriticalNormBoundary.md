@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AlloyDisorderEngineering]]
 [[BioInspired_Interception_Control]]
 [[BurstGatedRouting]]
+[[Cognitive_Relapse_Decoupling]]
 [[CriticalityDrivenTopology]]
 [[Criticality]]
 [[Criticality_Based_Feature_Extraction]]

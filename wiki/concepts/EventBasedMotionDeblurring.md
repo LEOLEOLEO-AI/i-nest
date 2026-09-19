@@ -63,6 +63,7 @@ Auto-extracted concept from raw material compilation.
 [[Syncytial_Mesh]]
 [[Syncytial_Mesh_Model]]
 [[TCC]]
+[[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
 [[iNEST]]

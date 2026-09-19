@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AcceleratedMaterialScreening]]
 [[Advection_Reservoir_Computing]]
 [[AstrocyteInspiredRepair]]
+[[AtomicGeometryEncoding]]
 [[Bidirectional_Temporal_Enhancement]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]
@@ -34,7 +35,6 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Temporal_Information_Processing]]
 [[iNEST]]
-[[quantum reservoir computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

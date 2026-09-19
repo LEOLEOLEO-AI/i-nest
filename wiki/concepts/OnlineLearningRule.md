@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[DeeplySupervisedSpiking]]
 [[DistinctReentrantPhases]]
 [[Distributed_Spike_Communication]]
+[[FPGASNNMemoryOptimization]]
 [[FeFET_Differential_BitCell]]
 [[FerroelectricSynapticArray]]
 [[Ferroelectric_Devices]]

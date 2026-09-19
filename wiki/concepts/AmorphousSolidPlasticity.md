@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Supply_Chain_Increment]]
 [[AdaptiveDensityControl]]
 [[ArbitraryWavefunctionConfigurability]]
+[[CST_Triad_Integration]]
 [[CertifiedBifurcationDetection]]
 [[ChiralTopologicalMatter]]
 [[Complex_System_Theory]]

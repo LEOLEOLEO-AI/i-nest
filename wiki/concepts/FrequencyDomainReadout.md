@@ -65,6 +65,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN_TCC_Integration]]
 [[SNN_Topology]]
 [[SNN_Topology_Integration]]
+[[SpikeTemporalAwareCompression]]
 [[Spiking_Neural_Network]]
 [[StructuralPriorEncoding]]
 [[TCCNPU_Coordination_Roadmap]]

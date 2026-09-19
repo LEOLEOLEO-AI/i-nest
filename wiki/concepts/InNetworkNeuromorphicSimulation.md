@@ -15,6 +15,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[ANN动力学]]
+[[AnisotropicGaussianPrimitives]]
 [[Attention_Residuals]]
 [[BigBrainCellularAxis]]
 [[Brain_Connectome]]
@@ -36,7 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[GenerativeTopologyModels]]
 [[Hardware_Accelerated_SNN]]
 [[InNetworkNeuromorphicEmergence]]
-[[In_Network_Neuromorphic]]
+[[InNetworkNeuromorphic]]
 [[InNetwork_CST_Offload]]
 [[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Processing]]

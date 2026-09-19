@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[CompetitiveProgramDynamics]]
 [[Complex_System_Theory]]
 [[CorticalTravelingWave]]
+[[Cryogenic_Syndrome_Compression]]
 [[Dynamic_Expert_Routing]]
 [[FlexibilityThreshold]]
 [[Hebbian_Embedding_Dynamics]]

@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[DopamineWakeSignal]]
 [[Edge_Temporal_Signal_Processing]]
 [[EmergentBeatPatternResolution]]
+[[EquilibriumManifoldProjection]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

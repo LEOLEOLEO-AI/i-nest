@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[BigBrainCellularAxis]]
 [[BoundaryObject_Abstraction]]
+[[ByteDance_Ada_Chip]]
 [[CST_MasterEquation]]
 [[CST计量仪]]
 [[Chiplet]]
@@ -76,9 +77,12 @@ Auto-extracted concept from raw material compilation.
 [[Spatiotemporal_Synergy]]
 [[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]
+[[TCC]]
+[[TCC_iNEST_Interconnect]]
 [[TemporalComplexity]]
 [[Textbook_Paradigm_Definition]]
 [[iNEST]]
+[[iNEST_Interconnect]]
 [[iNEST_Topology]]
 
 ## Sources

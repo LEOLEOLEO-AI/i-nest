@@ -47,9 +47,12 @@ Auto-extracted concept from raw material compilation.
 [[Compact_Boson_Dynamics]]
 [[Compute_Communication_Topology_Matching]]
 [[Compute_In_Memory_Neuromorphic]]
+[[CrossDomain_Integration]]
 [[Heterogeneous_Integration]]
+[[In_Memory_Computing]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
+[[Neuromorphic_Computing]]
 [[TCC]]
 
 ## Sources

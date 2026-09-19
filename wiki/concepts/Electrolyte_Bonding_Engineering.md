@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CompactLocalisedStates]]
 [[ConsciousIntegration]]
 [[Constructed_Reality_Prior]]
+[[ConvolutionalRestrictedHopfieldNetwork]]
 [[CrossDomain_Integration]]
 [[Emerging_CMOS_Memristor_Devices]]
 [[End_Side_Neuromorphic_Deployment]]

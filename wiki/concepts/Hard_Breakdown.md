@@ -24,7 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[ChipletWaferInterconnectScaling]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
-[[chiplet interconnect]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Complex_Network_Class_Brain_Computing]]
@@ -38,11 +38,15 @@ Auto-extracted concept from raw material compilation.
 [[Mesoscale_Heterogeneous_Integration]]
 [[National_Mesoscale_Innovation_Center]]
 [[Network_Topology_Design]]
+[[SDI_Bond]]
+[[SDI_iNEST]]
 [[SDI_iNEST_Wafer]]
+[[SDSoW]]
 [[Wafer_Interconnect]]
 [[Wafer_Scale_Integration]]
 [[chiplet interconnect]]
 [[iNEST]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

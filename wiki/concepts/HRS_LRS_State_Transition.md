@@ -38,6 +38,8 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
 [[SNN]]
+[[SensorMemoryFusion]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[BrainInspired_Chip]]
 [[BulletTrainScheduling]]
 [[Cascading_Failure_Mitigation]]
 [[ConsciousnessEngineeringLoop]]

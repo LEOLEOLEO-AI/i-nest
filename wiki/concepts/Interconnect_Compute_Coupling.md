@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[MicroRouter_Embedding]]
 [[Network_on_Chip]]
 [[NoC]]
+[[Packaging_Aware_NoC_Design]]
 [[TCC]]
 
 ## Sources

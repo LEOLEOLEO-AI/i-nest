@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Reliable_Service_Abstraction]]
+[[Resilient_Sensing_Comms_Network]]
 [[analog computation]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]

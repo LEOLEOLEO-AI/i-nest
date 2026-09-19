@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Enabled_Battlefield_Autonomy]]
 [[Active_Inference_Topology]]
 [[AdaptiveGraphDiffusion]]
+[[Adaptive_Intelligence_Principle]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

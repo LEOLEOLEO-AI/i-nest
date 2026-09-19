@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Forum_Demo_Narrative]]
 [[BeliefPropagationOnGraphTopology]]
 [[BoundaryContract]]
+[[CST_Spatiotemporal_Complexity_Theorem]]
 [[CellularSheaf]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]

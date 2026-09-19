@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Continuous_Control_Spike_Timing_Sensitivity]]
 [[CorticalWaveRouting]]
 [[Dynamic_Expert_Routing]]
+[[EventCameraPoseInput]]
 [[EventCameraTemporalEncoding]]
 [[ExtinctionDrivenMetastability]]
 [[Fixed_Term_Project_Structure]]

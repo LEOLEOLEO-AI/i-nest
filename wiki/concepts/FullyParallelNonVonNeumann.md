@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Adjoint_Gradient_Propagation]]
 [[Arm_Locomotor_Synergy]]
 [[ConsciousnessEngineeringLoop]]
+[[DVS_SNN_FPGA_Pipeline]]
 [[Delay_Aware_Autograd_Spiking_Framework]]
 [[DualDrivenHybridNetwork]]
 [[EnergyResourceEfficiencyTradeoff]]

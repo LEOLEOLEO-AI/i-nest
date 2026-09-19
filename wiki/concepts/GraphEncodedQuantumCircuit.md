@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[NetworkArchitectureSearch]]
 [[Network_Topology_Design]]
 [[NeuromorphicRadarFrontend]]
+[[NeuromorphicSpikingTopology]]
 [[Neuromorphic_Computing]]
 [[NonEquilibriumComputing]]
 [[OODA_Loop_Breaking]]

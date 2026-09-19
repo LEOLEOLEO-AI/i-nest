@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[MagneticOrderTopologyCoupling]]
 [[MultifractalCriticalPhase]]
 [[Network_Topology_Design]]
+[[Neural_Field_World_Model]]
 [[OptimalRepresentation]]
 [[Path_State_Awareness]]
 [[PhotonicSynapticPlasticity]]

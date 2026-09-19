@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[FixedOverheadCost]]
 [[ImageToEventConversion]]
 [[InNetworkAgentRewiring]]
+[[In_Network_Neuromorphic]]
 [[Intelligence_Emergence]]
 [[MarginalContributionFitness]]
 [[NeuralNetworkSpectralAnalysis]]

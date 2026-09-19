@@ -21,26 +21,30 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Faculty_Forum_2026]]
-[[advanced packaging]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[AnalogInMemoryComputing]]
 [[Attention_Residuals]]
 [[Bias_Origin_Taxonomy]]
 [[CST_MasterEquation]]
-[[causal emergence]]
+[[Causal_Emergence]]
 [[Causal_Emergence_Architecture]]
 [[Chiplet]]
 [[Chiplet_Based_Trusted_Hardware]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]
 [[Chiplet_NoC_Interconnect]]
+[[Chiplet_Stacking]]
 [[Complex_System_Theory]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
+[[NoC]]
+[[NoC_Interconnect]]
 [[P_Paradigm]]
 [[TCC]]
-[[advanced packaging]]
+[[causal emergence]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

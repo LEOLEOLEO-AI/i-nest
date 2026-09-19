@@ -32,9 +32,11 @@ Auto-extracted concept from raw material compilation.
 [[EnergyEfficientRestoration]]
 [[EventBasedBioSignalFrontEnd]]
 [[EventDataNonUniformity]]
+[[EventDriven_Edge_Perception]]
 [[Event_Driven_Architecture]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

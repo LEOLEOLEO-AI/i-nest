@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[PhysicalReservoirInterconnect]]
 [[Physical_Reservoir]]
+[[PlanarNetworkSimulation]]
 [[Reservoir_Computing]]
 [[ScalableNeuromorphicTopology]]
 [[Self_Organized_Criticality]]

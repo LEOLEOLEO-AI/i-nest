@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[GrowthBoundaryDynamics]]
 [[HigherOrderConnectivity]]
 [[Intelligence_Emergence]]
+[[InterconnectDrivenPlacement]]
 [[Network_Topology_Design]]
 [[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]

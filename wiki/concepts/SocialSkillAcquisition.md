@@ -60,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[SOC]]
 [[SelfOrganizedOscillatoryLearning]]
 [[Spike_Encoding_of_fMRI]]
+[[SpikingNeuralNetworkTopologyMapping]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[VisualPlaceRecognition]]

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AcousticAnomalyDetection]]
 [[Analog_Synaptic_Behavior]]
 [[CollectiveSpikingDynamics]]
 [[CompactnessRegularizedFitness]]
@@ -40,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[SpikeDrivenInference]]
 [[SpikePacketCompression]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

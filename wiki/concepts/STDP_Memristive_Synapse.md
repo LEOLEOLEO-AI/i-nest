@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[ClocklessReconfigurableChip]]
 [[Contested_Priors_Mechanism]]
 [[Controlled_Release_Kinetics]]
+[[Dendritic_In_Context_Learning]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[FatigueSTDP]]

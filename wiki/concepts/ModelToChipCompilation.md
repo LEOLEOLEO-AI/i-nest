@@ -58,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Architecture]]
 [[SDSoW_Physical_Base]]
 [[ScalabilityFaultToleranceTradeoff]]
+[[SimplicialComplexDynamics]]
 [[Software_Defined_Interconnect]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]

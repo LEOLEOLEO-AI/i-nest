@@ -58,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[NonEquilibriumComputing]]
 [[OpportunisticRoutingRL]]
 [[OpportunisticRouting]]
+[[PredictiveCodingVariationalFreeEnergy]]
 [[PropertyPredictionModeling]]
 [[QuantumFluctuationDrivenTransport]]
 [[RealTimeImageToEventConversion]]

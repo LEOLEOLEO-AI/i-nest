@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[FlagOS_2_0]]
 [[Heterogeneous_Integration]]
 [[Hysteretic_State_Encoding]]
+[[InNetwork_CST_Offload]]
 [[IntegratedSensingFusion]]
 [[IntegrationProspectsForVLSI]]
 [[Intelligence_Emergence]]

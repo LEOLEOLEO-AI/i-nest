@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenRiskAssessment]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[Interconnect_Topology]]
 [[Interconnect_Topology_Embedding]]
 [[JumpDiffusion_StochasticQuantization]]
 [[MantelTest_SignCorrection]]
@@ -48,9 +49,9 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[P_Paradigm]]
 [[PhysicalReservoirInterconnect]]
-[[Physical_Reservoir]]
 [[PhysicalSubstrateReservoirComputing]]
 [[PhysicalSubstrateReservoir]]
+[[Physical_Reservoir]]
 [[PlanarNetworkSimulation]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
@@ -59,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[TopologyAwareTimescaleSeparation]]
+[[TopologyCentricInference]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

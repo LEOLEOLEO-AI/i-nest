@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalNormBoundary]]
 [[Criticality]]
 [[Criticality_Based_Feature_Extraction]]
+[[Cross_Network_Representation_Transfer]]
 [[CrossbarSNNArchitecture]]
 [[Decoupling_Mechanism]]
 [[EnergyProportionalityCeiling]]

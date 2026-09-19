@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[SearchGatingPolicy]]
+[[SpeechToSpike_Encoding]]
 [[SpikeEncoding]]
 [[Spike_Timing_Dependent_Plasticity]]
 [[Spiking_Neural_Network]]

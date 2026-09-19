@@ -68,6 +68,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[ThermallyDrivenSuperparamagnetReservoir]]
 [[complex system]]
+[[iNEST 论文矩阵计划]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[神经网络]]
 

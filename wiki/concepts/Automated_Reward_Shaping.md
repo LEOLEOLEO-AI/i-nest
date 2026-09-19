@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Alpha_Computation_Consistency]]
 [[AnalogDomainCompressiveSensing]]
 [[AnytimePointCloudRecognition]]
+[[ArchitecturalCondition]]
 [[Avoided_Criticality]]
 [[BayesianDomainEvolution]]
 [[BehavioralFeedbackLoop]]

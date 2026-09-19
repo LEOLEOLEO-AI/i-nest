@@ -26,7 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[DisorderDrivenTemporalOrdering]]
 [[EventDrivenAsync]]
 [[EventDrivenAsynchronousRouting]]
-[[Flexible_Reliability]]
+[[FlexibleReliability]]
 [[Flexible_Reliability]]
 [[Interconnect_Routing]]
 [[LatencyCodedInterconnect]]

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Prior_Resolution]]
 [[Continuous_Control_Spike_Timing_Sensitivity]]
 [[CorticalWaveRouting]]
+[[Cryogenic_Syndrome_Compression]]
 [[DataDrivenCellularAxis]]
 [[FixedOverheadCost]]
 [[Hardware_Accelerated_SNN]]

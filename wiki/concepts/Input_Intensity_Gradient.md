@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[ReconfigurablePhotonicNetwork]]
+[[Topological_Phase_Transition_Scaling]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

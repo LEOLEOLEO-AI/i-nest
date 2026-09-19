@@ -18,6 +18,7 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[ASIC_Dualism]]
 [[Active_Inference_Agent]]
+[[AdaptiveCompetingInteractions]]
 [[AdaptiveDensityControl]]
 [[AmorphousSolidPlasticity]]
 [[AnisotropicGaussianPrimitives]]

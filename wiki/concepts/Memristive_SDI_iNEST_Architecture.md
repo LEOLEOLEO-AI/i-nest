@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveNetworkResilience]]
 [[Ag_Ga2O3_Pt_Memristor]]
 [[AnomalousSpinTransport]]
+[[BrainBodyResonance]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
@@ -37,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_iNEST]]
 [[SDI节点接口规范与化合键定义]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 [[iNEST_Architecture]]
 

@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[CircadianGateModulation]]
 [[Combinatorial_Optimization_Readout]]
 [[CompleteConnectomeDynamics]]
+[[Complexity_Emergence]]
 [[ConnectomeWiringSeparability]]
 [[Connectome]]
 [[Connectome_Reservoir]]
@@ -55,11 +56,11 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Quantum_Reservoir_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[TCC]]
 [[iNEST]]
-[[quantum reservoir computing]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

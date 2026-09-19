@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AutonomousAdaptation]]
 [[AutonomousServiceNegotiation]]
 [[BifurcationCandidate]]
+[[BigBrainCellularAxis]]
 [[CirculateFiringNeuron]]
 [[DevelopmentalNeuromorphicAdaptation]]
 [[Endocrine_Modulated_Network_State]]

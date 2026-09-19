@@ -28,17 +28,19 @@ Auto-extracted concept from raw material compilation.
 [[AdiabaticMultimodeBend]]
 [[AdsorptionBiosorptionHybrid]]
 [[AdvancedPackagingInterconnect]]
-[[advanced packaging]]
+[[AdvancedPackaging]]
+[[Advanced_Packaging]]
 [[Allreduce_Latency_Diagnostic]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
 [[ChiralSymmetryClasses]]
 [[CoPackagedOptics]]
+[[CommunicationAwareComputeRelocation]]
+[[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[TCC]]
-[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[Fading_Memory_Property]]
+[[Generalization_Bound_Spectra]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[InterconnectAwareGradientAggregation]]

@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Photonic_Memristor]]
 [[ResonantFrequencyAdaptationRule]]
 [[Spiking_Neural_Network]]
+[[UltrawideBandwidthPhotonicResponse]]
 [[iNEST]]
 
 ## Sources

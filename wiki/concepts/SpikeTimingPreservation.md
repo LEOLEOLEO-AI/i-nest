@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[20W_Brain_Inspired_Planning]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BigBrainCellularAxis]]
+[[BrainInspired_Chip]]
 [[ConsciousnessEngineeringLoop]]
 [[Contested_Priors_Mechanism]]
 [[Continuous_Control_Spike_Timing_Sensitivity]]

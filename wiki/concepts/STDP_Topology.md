@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[Bidirectional_Temporal_Enhancement]]
 [[Contested_Priors_Mechanism]]
 [[Memristive_STDP]]
@@ -35,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
+[[Spike_Timing_Dependent_Plasticity]]
 [[Spike_timing_dependent_plasticity_learning_rule]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

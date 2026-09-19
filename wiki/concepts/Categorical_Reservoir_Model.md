@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Coupling_Strength_Encoding]]
 [[Crystallized_Neural_Manifolds]]
+[[DefectTwistOperator]]
 [[DeviationScalingIndex]]
 [[InNetwork_Learning_Interface]]
 [[Intelligence_Emergence]]

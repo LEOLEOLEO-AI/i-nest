@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[DivergentHigherAreaRanking]]
 [[EchoState_n_ch]]
 [[ErrorSuppressedPipeline]]
+[[FPGA_SNN_Mapping]]
 [[FerroelectricSemiconductorPhotocurrent]]
 [[Ferroelectric_Devices]]
 [[Fixed_Reservoir_Unitary]]

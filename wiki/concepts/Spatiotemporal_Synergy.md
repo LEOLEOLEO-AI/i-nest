@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalRelevanceSelfOrganization]]
 [[InNetworkGradientPropagation]]
 [[Intelligence_Emergence]]
+[[LocalStructuralPlasticity]]
 [[Neuromorphic_Computing]]
 [[SelfOrganization]]
 [[iNEST]]

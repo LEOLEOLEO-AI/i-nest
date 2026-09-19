@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDataNonUniformity]]
 [[Event_Driven_Architecture]]
 [[FunctionalEnsemble]]
+[[In_Network_Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[SpikeBasedNeuralRadianceField]]

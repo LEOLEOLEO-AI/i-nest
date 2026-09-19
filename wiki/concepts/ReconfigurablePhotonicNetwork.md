@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Application_Scenario_Reconstruction]]
 [[AI_Faculty_Forum_2026]]
 [[Analog_Weight_Storage]]
 [[Attention_Residuals]]
@@ -28,7 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CST计量仪]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
-[[chiplet interconnect]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Cognitive_Relapse_Architecture]]

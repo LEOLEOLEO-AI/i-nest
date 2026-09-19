@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Architecture]]
 [[CriticalDataThreshold]]
 [[DTGA]]
+[[Decoupling_Mechanism]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Synaptic_Plasticity]]

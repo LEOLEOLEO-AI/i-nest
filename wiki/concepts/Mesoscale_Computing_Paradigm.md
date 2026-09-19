@@ -32,7 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[ByteDance_Ada_Chip]]
 [[CST_MasterEquation]]
 [[CST计量仪]]
-[[causal emergence]]
+[[Causal_Emergence]]
 [[Causal_Emergence_Architecture]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -45,9 +45,11 @@ Auto-extracted concept from raw material compilation.
 [[EfficientDeepLearning]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[LargeScaleBrainInspiredComputing]]
 [[Mesoscale_Computing]]
 [[Network_Topology_Design]]
 [[TCC]]
+[[causal emergence]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

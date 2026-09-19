@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Closed_Loop_Neuromodulation]]
 [[CognitiveTaskonomy]]
 [[Cognitive_Relapse_Decoupling]]
+[[ContinualLearningOnNeuromorphic]]
 [[Continual_Learning_Modularity]]
 [[ContinuousGameOfLife]]
 [[CriticalityInNetworkComputing]]

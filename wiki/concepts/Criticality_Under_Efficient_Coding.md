@@ -37,6 +37,8 @@ Auto-extracted concept from raw material compilation.
 [[CoDesigned_SNN]]
 [[CoDesigned_SNN_Online_Learning]]
 [[ConstructedRealityState]]
+[[Contested_Priors_Architecture]]
+[[Continuous_Control_SNN]]
 [[Continuous_Control_SNN_Stability]]
 [[Continuous_Control_Spiking_Stability]]
 [[CriticalStateDynamics]]

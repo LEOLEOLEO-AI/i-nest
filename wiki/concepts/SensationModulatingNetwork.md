@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[LocalPlasticityPipeline]]
 [[Local_Approximation_Dynamics]]
+[[NetworkArchitectureSearch]]
 [[Network_Topology_Design]]
 [[NeuromorphicRadarFrontend]]
 [[Neuromorphic_Computing]]

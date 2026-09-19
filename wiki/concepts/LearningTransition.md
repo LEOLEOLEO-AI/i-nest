@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetwork_TopologyNative_Mapping]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
+[[OnnxSlim]]
 [[Persistent_Machine_Monitoring]]
 [[Physical_Topology_To_Computational_Graph]]
 [[RepresentationalDissimilarityMatrix]]

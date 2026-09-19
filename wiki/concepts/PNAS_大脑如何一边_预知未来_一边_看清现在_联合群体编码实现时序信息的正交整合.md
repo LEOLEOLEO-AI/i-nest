@@ -46,6 +46,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Intelligence_Emergence]]
 [[L2_L3_Reconfigurability]]
 [[Milinkovic B (2024)：复杂神经系统涌现动力学结构]]
+[[NCL神经计算定律详解]]
 [[Nature Communications_生物神经网络中突触多样性如何让人工神经网络更强大？]]
 [[Nature重磅_揭秘大脑中的共享神经子空间与几何缩放]]
 [[Network_Topology_Design]]

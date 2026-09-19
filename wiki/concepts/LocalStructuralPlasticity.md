@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Active_Inference_Agent]]
 [[AdaptiveDensityControl]]
 [[AmorphousSolidPlasticity]]
+[[ArbitraryWavefunctionConfigurability]]
 [[BayesianDomainEvolution]]
 [[BehavioralFeedbackLoop]]
 [[Complex_System_Theory]]

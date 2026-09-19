@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[CertifiedBifurcationDetection]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[ClassicalQuantum_Query_Benchmark]]
+[[Coastal_Resilience_Feedback_Loop]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

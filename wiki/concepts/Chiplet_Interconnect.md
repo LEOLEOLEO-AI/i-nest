@@ -21,7 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Faculty_Forum_2026]]
-[[advanced packaging]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[Attention_Residuals]]
 [[Chiplet]]
@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_NoC_Interconnect]]
 [[Collective_Offloading]]
+[[Deep_Network_Architecture_Invariant]]
 [[EulaminateOverrepresentation]]
 [[Heterogeneous_Integration]]
 [[InInterconnectMemory]]
@@ -45,7 +46,6 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Architecture]]
 [[SDSoW_TCC_Integration]]
 [[TCC]]
-[[advanced packaging]]
 [[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]

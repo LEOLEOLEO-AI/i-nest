@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[Continuous_Discrete_Compute_Gap]]
 [[Discrete_Event_Spike_Simulation]]
+[[EventDrivenDefenseMechanism]]
 [[EventDrivenInference]]
 [[EventDriven_Edge_Perception]]
 [[Event_Driven_Architecture]]

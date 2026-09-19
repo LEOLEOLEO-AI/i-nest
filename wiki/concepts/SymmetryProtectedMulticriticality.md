@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Algorithmic_Warfare]]
 [[Allreduce_Latency_Probe]]
 [[Anomaly_Induced_Quantum_Criticality]]
+[[Ant_Swarm_Functional_Control]]
 [[Architectural_Conditioning]]
 [[Avoided_Criticality]]
 [[BioInspired_Interception_Control]]
@@ -58,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[Quantum_Criticality]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Self_Organized_Criticality]]
+[[Universality_Class]]
 [[iNEST]]
 
 ## Sources

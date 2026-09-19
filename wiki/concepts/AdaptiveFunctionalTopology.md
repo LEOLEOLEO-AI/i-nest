@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[Communication_Trace_Diagnostics]]
 [[CrossbarSNNArchitecture]]
+[[DirectoryManagementLaws]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[EpidemicThreshold]]

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Hardware_Paradigm]]
 [[Neuromorphic_Integration]]
 [[NoC]]
 [[NoC_EventRouting]]

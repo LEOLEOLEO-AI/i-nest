@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Loihi2_OnChip_Learning]]
 [[Loihi]]
 [[MachineLearningPotential]]
+[[Microbiome_Immune_Endocrine_Interplay]]
 [[Milinkovic B (2024)：复杂神经系统涌现动力学结构]]
 [[Mimetic_Optogenetic_Synapses]]
 [[NCL神经计算定律详解]]

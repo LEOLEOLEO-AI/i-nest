@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[BioPlausibleDisturbanceObserver]]
 [[BurstTemporalPlasticity]]
 [[Catastrophic_Forgetting_Mitigation]]
+[[Contested_Priors_Architecture]]
 [[Criticality]]
 [[DTGA]]
 [[Edge_AI_Acquisition_Consolidation]]

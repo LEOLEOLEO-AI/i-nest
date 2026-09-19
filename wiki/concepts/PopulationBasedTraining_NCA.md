@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Compute_In_Memory_Neuromorphic]]
 [[Continual_Learning_Modularity]]
+[[CrossLingualIdiomGraph]]
 [[Distributed_Intelligent_Manufacturing]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence]]

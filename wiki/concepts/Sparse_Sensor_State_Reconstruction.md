@@ -21,7 +21,6 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
-[[156QubitScale]]
 [[3D_Integrated_Chiplet_Stacking]]
 [[3d]]
 [[AINext_Initiative]]
@@ -47,7 +46,9 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle_Network]]
 [[Free_Energy_Topology_Mapping]]
 [[Heterogeneous_Integration]]
+[[InNetwork_CST_Offload]]
 [[Memory_Wall]]
+[[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC]]
 [[NoC_Chiplet_Wafer_Stack]]

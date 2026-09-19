@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalBranching]]
 [[CriticalTransitionDetection]]
 [[DLRM_Optimized_Dataflow]]
+[[Deep_Belief_Network_Manifold]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

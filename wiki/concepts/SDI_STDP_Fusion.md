@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[CorticalWaveRouting]]
 [[DiscreteSTDP]]
+[[EnergyProportionalityCeiling]]
 [[Environmental_Capability_Context]]
 [[EventCameraTemporalEncoding]]
 [[ExtinctionDrivenMetastability]]

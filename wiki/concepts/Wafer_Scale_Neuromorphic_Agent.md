@@ -38,6 +38,8 @@ Auto-extracted concept from raw material compilation.
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Cross_Node_Event_Propagation]]
 [[Cryogenic_Syndrome_Compression]]
+[[FixedOverheadPenalty]]
+[[Heterogeneous_Integration]]
 [[KV_Cache_To_BoundaryObject]]
 [[KV_Cache_to_BoundaryObject_Transition]]
 [[Network_Topology_Design]]

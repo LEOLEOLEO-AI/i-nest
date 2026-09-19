@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Neuromorphic_Architectures]]
 [[Fixed_Cost_Dominance]]
 [[FlexibilityThreshold]]
+[[FunctionalBrainGraphEmbedding]]
 [[GutBrainAxis_Reprogramming]]
 [[Gut_Brain_Immune_Network]]
 [[HallmarkDrivenCancerModeling]]

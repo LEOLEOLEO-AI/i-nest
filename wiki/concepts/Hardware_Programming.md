@@ -28,7 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Brain_Scale_Parameter_Baseline]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
-[[chiplet interconnect]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[CompactFieldVariable]]
 [[DARPA_ProjectManager_Model]]
@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[SDSoW_Strategic_Planning]]
+[[SimulationReproducibilityAudit]]
 [[chiplet interconnect]]
 [[iNEST]]
 

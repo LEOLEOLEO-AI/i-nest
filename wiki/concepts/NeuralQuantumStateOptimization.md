@@ -61,6 +61,7 @@ Auto-extracted concept from raw material compilation.
 [[NonvolatileChargeDomain]]
 [[QuantumConvolutionalTopology]]
 [[QuantumCriticalAmorphousCarbon]]
+[[RandomProjectionLandscapePreservation]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]

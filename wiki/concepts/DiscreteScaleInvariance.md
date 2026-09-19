@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[ReservoirYield]]
 [[Reservoir_Computing]]
 [[TCC]]
+[[TopologyEmbeddedIntrospection]]
 [[TunableNonlinearDynamics]]
 
 ## Sources

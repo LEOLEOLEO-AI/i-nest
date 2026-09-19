@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[ElectronicBurstingNeuron]]
 [[Event_Driven_Architecture]]
 [[FPGA_Neuromorphic_Prototyping]]
+[[KinematicWavePropagation]]
 [[NeuromorphicGraphAnomalyDetection]]
 [[Neuromorphic_Computing]]
 [[SNN]]

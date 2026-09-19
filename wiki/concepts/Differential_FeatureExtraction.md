@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[LatencyCodedInterconnect]]
 [[MetaFAIR_ArchitectureDiscovery]]
+[[MicroRouter_Embedding]]
 [[Multi_Objective_Routing]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]

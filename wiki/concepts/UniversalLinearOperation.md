@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AmoebaInspiredLocomotion]]
 [[AnalogDomainCompression]]
 [[AndersonTransition]]
+[[Anomaly_Induced_Quantum_Criticality]]
 [[BioInspired_Interception_Control]]
 [[Biologically_Plausible_Learning_Rules]]
 [[BurstGatedRouting]]

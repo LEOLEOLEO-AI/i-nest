@@ -29,10 +29,12 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Service_Orchestration]]
 [[AdiabaticMultimodeBend]]
 [[AdvancedPackagingInterconnect]]
-[[advanced packaging]]
+[[AdvancedPackaging]]
+[[Advanced_Packaging]]
 [[AndersonTransition]]
 [[Bipartite_Interconnect]]
 [[Bipartite_Interconnect_Design]]
+[[CavityMethodAnalysis]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
@@ -61,7 +63,6 @@ Auto-extracted concept from raw material compilation.
 [[Three_Layer_Memory_Infrastructure]]
 [[TimeReversalInvariantTopologicalAlloy]]
 [[VectorFlowField]]
-[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

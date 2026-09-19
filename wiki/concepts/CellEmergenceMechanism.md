@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[Obsidian_Plugin_Architecture]]
+[[PhysicalSubstrateReservoir]]
 [[RegularizerAsControlParameter]]
 [[SDDE_SDI_Stack]]
 [[SDI_Bond]]

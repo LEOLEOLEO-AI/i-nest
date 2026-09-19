@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[Biologically_Plausible_Learning_Rules]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
+[[CoDesigned_SNN_Online_Learning]]
 [[CompactnessRegularizedFitness]]
 [[ContinualLearningOnNeuromorphic]]
 [[CriticalityInducedComputationalCapacity]]
@@ -40,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[Self_Organized_Criticality]]
 [[SpikePacketCompression]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 
 ## Sources

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BulletTrainScheduling]]
 [[CirculateFiringNeuron]]
 [[CoOptimizedMappingScheduling]]
+[[Cognitive_Relapse_Decoupling]]
 [[ContinualLearningOnNeuromorphic]]
 [[Continuous_Control_Spiking_Stability]]
 [[ConventionalAndSpikingDualMode]]

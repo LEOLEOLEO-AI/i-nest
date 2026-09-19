@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AI-ML — 全景导航 (Map of Content)]]
 [[ByteDance_Ada_Chip]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
+[[Cross_Substrate_Scaling]]
 [[Heterogeneous_Integration]]
 [[Heterogeneous_Integration_Roadmap]]
 [[Heterogeneous_Integration_Roadmap_HIR]]

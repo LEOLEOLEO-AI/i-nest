@@ -36,8 +36,9 @@ Auto-extracted concept from raw material compilation.
 [[Beyond_Moore_Pathway]]
 [[Bias_Origin_Taxonomy]]
 [[CST_CoordinationMechanism]]
+[[CST_Spatiotemporal_Complexity]]
 [[CST计量仪]]
-[[causal emergence]]
+[[Causal_Emergence]]
 [[Causal_Emergence_Architecture]]
 [[Cognitive_Relapse_Architecture]]
 [[ComplexTopologicalStructures]]
@@ -61,6 +62,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[Topological_Phase_Transition_Scaling]]
+[[causal emergence]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[OpenLearningEcosystem]]
 [[P_Paradigm]]
+[[QuantumConvolutionalTopology]]
 [[Semantic_Least_Energy_Principle]]
 [[TCC]]
 [[涌现]]

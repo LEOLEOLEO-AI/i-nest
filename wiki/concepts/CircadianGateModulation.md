@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[ForwardFluctuationGradient]]
 [[Heterogeneous_Integration]]
 [[InNetwork_CST_Offload]]
+[[In_Network_Neuromorphic_Integration]]
 [[Intelligence_Emergence]]
 [[Loihi2_OnChip_Learning]]
 [[Loihi]]

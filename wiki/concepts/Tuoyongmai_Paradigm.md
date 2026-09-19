@@ -24,7 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[3DHI_Integration]]
 [[3d]]
 [[AI_Faculty_Forum_2026]]
-[[advanced packaging]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[AnalogInMemoryComputing]]
 [[Asymmetric_Interaction_Matrix]]
@@ -33,7 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[BoundaryObject_Abstraction]]
 [[ByteDance_Ada_Chip]]
 [[CST计量仪]]
-[[causal emergence]]
+[[Causal_Emergence]]
 [[Causal_Emergence_Architecture]]
 [[Chiplet]]
 [[Chiplet_Based_Trusted_Hardware]]
@@ -41,7 +41,9 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration]]
 [[Chiplet_NoC_Interconnect]]
 [[Chiplet_Stacking]]
+[[Chiplet_Topology]]
 [[Chiplet_Topology_Mapping]]
+[[Chiplet_Topology_Packaging]]
 [[Chiplet_Wafer_Topology]]
 [[Complex_System_Theory]]
 [[ComputationEfficientDeepLearning]]
@@ -53,7 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC]]
 [[NoC_Interconnect]]
 [[TCC]]
-[[advanced packaging]]
+[[causal emergence]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

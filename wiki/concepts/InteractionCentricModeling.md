@@ -29,7 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Driven_Architecture_Search]]
 [[AI_Faculty_Forum_2026]]
 [[AI_Forum_Demo_Narrative]]
-[[advanced packaging]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[AmorphousTopologicalSubstrate]]
 [[BeliefPropagationOnGraphTopology]]
@@ -53,7 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[ReceptiveField_Processing]]
 [[TCC]]
 [[TopologicalEdgeStateTransport]]
-[[advanced packaging]]
+[[TopologyAsComputation]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

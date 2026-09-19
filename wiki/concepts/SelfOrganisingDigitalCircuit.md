@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveEntanglementManagement]]
 [[Additive_Manufacturing_Supply_Chain]]
 [[AdjointWaveControl]]
+[[AgenticServiceManifesto]]
 [[AgenticServiceOrchestration]]
 [[Anomaly_Mediated_Quantum_Criticality]]
 [[Ant_Swarm_Functional_Control]]

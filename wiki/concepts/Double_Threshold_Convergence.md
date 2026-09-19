@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[AnisotropicGaussianPrimitives]]
 [[Avoided_Criticality]]
 [[BioPlausibleDisturbanceObserver]]
+[[Catastrophic_Forgetting_Mitigation]]
 [[Criticality]]
 [[FlexibilityThreshold]]
 [[Neuromorphic_Computing]]

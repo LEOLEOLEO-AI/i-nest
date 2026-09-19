@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[CircadianGateModulation]]
 [[Combinatorial_Optimization_Readout]]
 [[CompleteConnectomeDynamics]]
+[[Complexity_Emergence]]
 [[ConnectomeWiringSeparability]]
 [[Connectome]]
 [[Connectome_Constrained_Neural_Architecture]]
@@ -50,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicsMatchedReservoir]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Physical_Reservoir]]
 [[Reservoir_Computing]]
 [[iNEST]]
 

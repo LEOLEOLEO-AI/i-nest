@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AdjustableDynamicsReservoir]]
 [[AdjustableDynamics]]
 [[AlternativeBridgingModels]]
+[[Analog_Encoding_Readout]]
 [[CMOS_Memristor_Crossbar]]
 [[FPGA_SNN_Mapping]]
 [[Memristor]]

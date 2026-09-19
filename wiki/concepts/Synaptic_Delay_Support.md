@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[AutonomousAdaptation]]
 [[BioPlausibleDisturbanceObserver]]
 [[BurstTemporalPlasticity]]
+[[Catastrophic_Forgetting_Mitigation]]
 [[ExtinctionDrivenMetastability]]
 [[Neuromorphic_Computing]]
 [[SNN]]

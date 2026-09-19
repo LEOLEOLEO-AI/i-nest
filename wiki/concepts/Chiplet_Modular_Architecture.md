@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC]]
 [[NoC_Chiplet_Integration]]
 [[NoC_EventRouting]]
+[[NoC_SDI_Integration]]
 [[TCC]]
 
 ## Sources

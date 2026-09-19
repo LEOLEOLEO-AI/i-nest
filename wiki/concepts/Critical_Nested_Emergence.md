@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neural_Avalanche]]
 [[Neuromorphic_Computing]]
+[[NoiseDrivenBackpropReconstruction]]
 [[Self_Organized_Criticality]]
 [[iNEST]]
 [[neuromorphic substrate]]

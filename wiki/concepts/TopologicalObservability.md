@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Security_Architecture]]
+[[CircuitTopologyFitnessLandscape]]
 [[Complex_System_Theory]]
 [[ComponentLevelMolding]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]

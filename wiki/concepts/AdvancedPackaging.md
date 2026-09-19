@@ -25,14 +25,15 @@ Auto-extracted concept from raw material compilation.
 [[3D_IC_Stacking]]
 [[3D_Integrated_Chiplet_Stacking]]
 [[3D_Integration]]
+[[3D_Stacking]]
 [[3d]]
+[[Advanced_Packaging]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[TCC]]
-[[advanced packaging]]
 [[chiplet interconnect]]
 
 ## Sources

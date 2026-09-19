@@ -60,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikingMotorControl]]
 [[SpikingMuscleActivation]]
 [[Spiking_Neural_Network]]
+[[SurrogateGradientAsymmetry]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 

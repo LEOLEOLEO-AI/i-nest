@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[HBM_Replacement_Interconnect]]
 [[HeterogeneousInference]]
 [[Heterogeneous_Integration]]
+[[Interconnection_Topology]]
 [[IrregularNeuralReduction]]
 [[Liquid_Topological_Generative_Computing]]
 [[Network_Motif_Spectral_Analysis]]
@@ -43,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[NoC]]
 [[P_Paradigm]]
+[[ReproducibleReservoirOutput]]
 [[TCC]]
 
 ## Sources

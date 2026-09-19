@@ -30,7 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Intelligence_Principle]]
 [[Adaptive_Service_Orchestration]]
 [[Additive_Manufacturing_Supply_Chain]]
-[[advanced packaging]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[BioInspiredGeneralist]]
 [[CellularSheaf]]
@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[CircuitTopologySearch]]
 [[Compute_In_Memory_Neuromorphic]]
 [[CrossDomain_Integration]]
+[[CrossLingualIdiomGraph]]
 [[CrossbarArrayPrecision]]
 [[Emergence_Phase]]
 [[Expert_Review_Arbitration]]
@@ -61,7 +62,6 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[OpticalIonicMemory]]
 [[Process_Recycling_Paradigm]]
-[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

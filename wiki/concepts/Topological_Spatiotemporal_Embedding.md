@@ -24,7 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Driven_Architecture_Search]]
 [[AI_Faculty_Forum_2026]]
 [[AI_Forum_Demo_Narrative]]
-[[advanced packaging]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[AssociativeMemoryTopology]]
@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstInterleaving]]
 [[Chemical_Bond_Operation_Algebra]]
 [[DailyResearchDigest]]
+[[DebiasingTechniques]]
 [[DelayTolerantNetworkUAV]]
 [[EventDrivenTracking]]
 [[FixedOverheadFloor]]
@@ -42,7 +43,6 @@ Auto-extracted concept from raw material compilation.
 [[QueryComplexityScaling]]
 [[SOC]]
 [[TCC]]
-[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

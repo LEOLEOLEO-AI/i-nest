@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[DiagnosticReportFramework]]
 [[Flow_Aware_Interconnect_Design]]
 [[GradientFreeTraining]]
+[[GraphBasedSemanticRouting]]
 [[TCC]]
 [[complex system]]
 [[iNEST]]

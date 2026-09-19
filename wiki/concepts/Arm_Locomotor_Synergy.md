@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AlloyDisorderEngineering]]
 [[ApproximateMacroscopicDynamics]]
 [[BigBrainCellularAxis]]
+[[Bipartite_Interconnect_Design]]
 [[BranchingRatioControl]]
 [[BranchingRatio]]
 [[CST计量仪]]

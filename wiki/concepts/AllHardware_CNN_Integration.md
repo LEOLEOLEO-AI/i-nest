@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Cluster_Switch_Bottleneck]]
 [[AI_Faculty_Forum_2026]]
 [[Allreduce_Latency_Benchmark]]
+[[BeyondCMOSIntegration]]
 [[BigBrainCellularAxis]]
 [[CST_Spatiotemporal_Complexity]]
 [[Chiplet]]

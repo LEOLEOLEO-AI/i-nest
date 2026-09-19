@@ -49,10 +49,12 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[ScalableTraining]]
 [[SpikeTimingEncoding]]
-[[Spiking_Neural_Network]]
+[[Spiking neural network]]
+[[SpikingNeuralNetwork]]
 [[SpikingTrafficSignRecognition]]
 [[Spiking_Neural_Network]]
 [[TemporalFeaturePropagation]]
+[[UniSpike_Acceleration]]
 [[iNEST]]
 
 ## Sources

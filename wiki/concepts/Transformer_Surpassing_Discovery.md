@@ -57,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[MagneticTopologicalPhaseDiagram]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[ProprioceptiveFeatureExtraction]]
 [[TCC]]
 [[Topology_Manifold_Computing]]
 [[iNEST]]

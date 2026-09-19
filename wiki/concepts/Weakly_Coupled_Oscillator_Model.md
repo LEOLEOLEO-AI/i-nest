@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[BrownianCastleInterface]]
 [[BurstTemporalPlasticity]]
 [[ChannelEventSparsity]]
+[[Course_Based_FPGA_Prototyping]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[SNN]]

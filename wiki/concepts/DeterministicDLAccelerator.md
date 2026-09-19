@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Beyond_Moore_Pathway]]
 [[CoPackagedOptics]]
 [[Complex_System_Theory]]
+[[DTGA]]
 [[Deterministic_Execution]]
 [[Intelligence_Emergence]]
 [[Network_on_Chip]]

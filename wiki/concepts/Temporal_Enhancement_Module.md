@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[ForwardFluctuationGradient]]
 [[HippocampalNeocorticalIntelligence]]
 [[Intelligence_Emergence]]
+[[IonotropicPhotoresponse]]
 [[Memristive_Topology]]
 [[MultiScaleTemporalProcessing]]
 [[Network_Topology_Design]]

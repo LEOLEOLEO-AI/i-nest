@@ -57,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[SynchronizationManifoldStability]]
 [[TemporalSwitchFramework]]
 [[TileBasedRasterization]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]

@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Complexity_Emergent_Intelligence]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
+[[Crystallized_Neural_Manifolds]]
 [[Emergent_Intelligence]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

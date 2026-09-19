@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[BiologicallyAccurateMultilayer]]
 [[BrainScaleTopologyExploitation]]
 [[Brain_Dynamics_Learning]]
+[[CSPNeuralEncoding]]
 [[CirculateFiringNeuron]]
 [[ClinicalTranslationBridge]]
 [[CollectiveDynamics]]

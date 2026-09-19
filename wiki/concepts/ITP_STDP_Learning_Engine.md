@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Learning]]
 [[STDP_Local_Gradient]]
 [[STDP_Plasticity]]
+[[STDP_PredictionErrorMinimization]]
 [[SelfInhibitionFeedbackLoop]]
 [[SpikeCodedFeatureAssociation]]
 [[Spiking_Neural_Network]]

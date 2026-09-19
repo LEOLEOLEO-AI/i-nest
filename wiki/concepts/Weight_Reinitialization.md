@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[P_Paradigm]]
+[[SDI_Review_Process]]
 [[SparseTemporalEncoding]]
 [[Synaptic_Plasticity]]
 [[TCC]]

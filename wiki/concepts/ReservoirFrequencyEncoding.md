@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[CoupledOscillatorReservoir]]
 [[CriticalFluctuationReservoir]]
+[[CrystalPalace_Program]]
 [[Crystallized_Neural_Manifolds]]
 [[DataDrivenMaterialDesign]]
 [[Deep_Network_Layer_Stacking]]

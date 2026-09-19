@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[LocalSynapticRules]]
+[[Memristive_SNN_Accelerator]]
 [[Memristive_Topology]]
 [[Model_Routing_Protocol]]
 [[Nature Communications_生物神经网络中突触多样性如何让人工神经网络更强大？]]

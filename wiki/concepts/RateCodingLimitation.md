@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN_SNN_WeightSpaceGap]]
 [[ANN_to_SNN_Conversion_Error_Amplification]]
 [[AcceleratorReconfigurationOverhead]]
+[[AdjustableDynamicsReservoir]]
 [[CMOS_Memristor_Crossbar]]
 [[FPGA_SNN_Mapping]]
 [[Flexible_Neuron_Model]]

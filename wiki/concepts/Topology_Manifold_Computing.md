@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveGraphDiffusion]]
 [[Adaptive_Intelligence_Principle]]
 [[Adaptive_Service_Orchestration]]
+[[Advanced_Packaging]]
 [[AndersonTransition]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -64,7 +65,7 @@ Auto-extracted concept from raw material compilation.
 [[Strategic_Surprise_Prevention]]
 [[TCC]]
 [[TopologicalDataCompression]]
-[[advanced packaging]]
+[[TopologyConditionedLearning]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

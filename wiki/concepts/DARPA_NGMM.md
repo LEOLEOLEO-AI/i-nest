@@ -31,7 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Cluster_Switch_Bottleneck]]
 [[AI_Faculty_Forum_2026]]
 [[ASIC_Dualism]]
-[[advanced packaging]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_Foundry]]
 [[ArchitectureParadigm]]
 [[CST计量仪]]
@@ -41,9 +41,9 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
+[[SensoryInMemoryComputing]]
 [[Switch_Bottleneck]]
 [[TCC]]
-[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

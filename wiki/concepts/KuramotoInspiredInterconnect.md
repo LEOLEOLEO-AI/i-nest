@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[ConceptualCrossLinguisticNetworks]]
 [[ContinuousTimeRandomWalk]]
+[[ContrastiveRepresentationLearning]]
 [[EdgeIoTEnergyAwareness]]
 [[GNN图神经网络，非结构化数据分析利器！]]
 [[Heterogeneous_Integration]]

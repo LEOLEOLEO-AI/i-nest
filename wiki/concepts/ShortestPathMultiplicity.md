@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[DTGA]]
 [[Electronic_Warfare_Integration]]
 [[EpidemicThreshold]]
+[[ExplosiveTransitionThreshold]]
 [[FractalPathEntropy]]
 [[FreeEnergyMinimizationRouting]]
 [[FreeEnergyMinimization]]

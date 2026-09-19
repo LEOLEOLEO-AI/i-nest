@@ -42,8 +42,10 @@ Auto-extracted concept from raw material compilation.
 [[CircuitTopologySearch]]
 [[Compute_In_Memory_Neuromorphic]]
 [[CrossDomain_Integration]]
+[[CrossLingualIdiomGraph]]
 [[Heterogeneous_Integration]]
 [[In_Memory_Computing]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[TCC]]
 

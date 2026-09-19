@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[KinematicWavePropagation]]
 [[LossSpikePhenomenon]]
 [[MembranePotentialModulation]]
+[[MixedLabyrinthFractal]]
 [[MixedSignalSNN_CoDesign]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicHardwareCoDesign]]

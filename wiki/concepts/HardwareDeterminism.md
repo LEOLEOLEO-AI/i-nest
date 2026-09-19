@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Chemical_Bond_Operation_Algebra]]
 [[CorticalWaveRouting]]
 [[DisorderDrivenTemporalOrdering]]
+[[Dynamic_Communication_Reconfiguration]]
 [[ElectronicWarfareNeuromorphic]]
 [[EventDrivenAsync]]
 [[EventDrivenAsynchronousRouting]]

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[2026-06-15_大脑的量子纠缠与信息动力学]]
+[[20W_Brain_Inspired_Planning]]
 [[AINext_Initiative]]
 [[AI_Faculty_Forum_2026]]
 [[Analog_Synaptic_Behavior]]
@@ -53,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeDrivenMOT]]
 [[SpikeEventDrivenInference]]
 [[Spiking_Neural_Network]]
+[[Syncytial_Mesh]]
 [[Syncytial_Mesh_Model]]
 [[UnifiedHypergraphStateSpace]]
 

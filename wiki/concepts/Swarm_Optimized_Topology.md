@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Fading_Memory_Property]]
 [[FerroelectricTunnelingJunction]]
 [[Ferroelectric_Devices]]
+[[Field_Compression_for_InNetwork_Inference]]
 [[FirstPrinciples_AI]]
 [[FisherOrthogonalMemory]]
 [[FunctionalInterfaceBlock]]

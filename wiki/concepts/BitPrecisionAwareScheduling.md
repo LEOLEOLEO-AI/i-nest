@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Topological_Alignment]]
 [[FastSlow_Dynamics]]
 [[GeneralIntelligenceSubstrate]]
+[[HamiltonianAwareFolding]]
 [[InMateriaComputing]]
 [[Intelligence_Emergence]]
 [[Intelligent_Power_Management]]

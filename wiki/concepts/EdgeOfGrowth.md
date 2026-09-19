@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityOnSmallWorlds]]
 [[Criticality]]
 [[Criticality_Induced_Plasticity]]
+[[Criticality_Transition]]
 [[DisorderInducedCriticality]]
 [[Dynamic_Expert_Fusion]]
 [[FiniteSizeTopologicalPhase]]

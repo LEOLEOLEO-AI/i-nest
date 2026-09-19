@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossbarArrayArchitecture]]
 [[DynamicServiceComposition]]
 [[ElectromigrationReliability]]
+[[GPU_Bottleneck_Relief]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

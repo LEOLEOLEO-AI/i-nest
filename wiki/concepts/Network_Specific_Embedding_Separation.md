@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[EventCameraActionRecognition]]
 [[FixedOverheadPenalty]]
+[[FunctionalInterfaceBlocks]]
 [[Heterogeneous_Integration]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]

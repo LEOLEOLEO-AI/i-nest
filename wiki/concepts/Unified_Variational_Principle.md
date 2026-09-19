@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Advanced_Computing_Project]]
 [[CertifiedBifurcationDetection]]
 [[Complex_System_Theory]]
+[[DendriticReservoirState]]
 [[Free_Energy_Principle]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

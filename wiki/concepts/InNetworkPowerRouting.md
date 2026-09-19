@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[ReconfigurableSNN_Accelerator]]
 [[ReconfigurableSpikingRouting]]
 [[RecursiveSelfReferentialArchitecture]]
+[[Resilient_Satellite_Mesh]]
 [[SNN]]
 [[SelfOrganizationInContinuousMedia]]
 [[SelfOrganization]]

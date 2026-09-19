@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuron论文：Neuromorphic is dead, 神经形态已死。]]
 [[NonEquilibriumPhaseTransition]]
 [[NonEquilibriumPhase]]
+[[Physical_First_Principles]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SOC — 自组织临界（Self-Organized Criticality）]]
 [[SOC]]

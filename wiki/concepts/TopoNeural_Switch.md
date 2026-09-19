@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Ant_Swarm_Functional_Control]]
 [[Architectural_Conditioning]]
 [[Cognitive_Relapse_Decoupling]]
+[[ContinualLearningOnNeuromorphic]]
 [[Continual_Learning_Modularity]]
 [[CriticalityInNetworkComputing]]
 [[CriticalityOffCriticalityTransition]]

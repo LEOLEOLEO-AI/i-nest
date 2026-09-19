@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Decoupling]]
 [[CollectiveStateTopology]]
 [[ConstraintDrivenSelfOrganization]]
+[[ContinualLearningOnNeuromorphic]]
 [[Continual_Learning_Modularity]]
 [[CounterstreamSignalPropagation]]
 [[CriticalityInNetworkComputing]]

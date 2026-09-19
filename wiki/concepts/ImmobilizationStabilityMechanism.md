@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[MultifractalCriticalPhase]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
+[[Neural_Field_World_Model]]
 [[Path_State_Awareness]]
 [[PhotonicSynapticPlasticity]]
 [[Self_Organized_Criticality]]

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[EventBasedBioSignalFrontEnd]]
 [[EventDataNonUniformity]]
 [[EventDriven_Advection]]
+[[EventDriven_Edge_Perception]]
 [[Event_Driven_Architecture]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]

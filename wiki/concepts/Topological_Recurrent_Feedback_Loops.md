@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
 [[Yann LeCun：发现智能原理是AI的终极问题]]
+[[getnote_2026-01-12_数字孪生大脑工程化路径]]
 [[getnote_2026-01-25_清华团队类脑计算突破]]
 [[getnote_2026-02-22_晶上自演化复杂网络的基础理论_关键技术与应用验证_项目群_]]
 [[iNEST]]

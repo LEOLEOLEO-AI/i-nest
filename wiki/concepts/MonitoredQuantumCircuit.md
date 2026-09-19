@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenWeightUpdate]]
 [[Global_Self_Attention_Bottleneck]]
 [[INT4PrecisionQuantization]]
+[[IntegratedInformationFreeEnergyBridge]]
 [[InterpretabilityDrivenDesign]]
 [[MLChiralityDecoder]]
 [[Memristive_SNN]]

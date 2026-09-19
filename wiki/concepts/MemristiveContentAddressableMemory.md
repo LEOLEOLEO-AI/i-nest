@@ -65,6 +65,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[PhaseTransitionExistence]]
 [[RandomizedRecursiveMaze]]
+[[RecursiveSelfImprovementGate]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SOC]]
 [[STDP_Plasticity]]

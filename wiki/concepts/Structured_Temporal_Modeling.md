@@ -63,6 +63,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
 [[Self_Organized_Criticality]]
+[[Spike_Train_Regression]]
 [[Spiking_Neural_Network]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]

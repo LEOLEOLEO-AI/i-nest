@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Active_Inference_Topology]]
 [[AgenticServiceOrchestration]]
+[[BifurcationCandidate]]
 [[BurstInterleaving]]
 [[Cognitive_Relapse_Decoupling]]
 [[Constructed_Reality_Model]]

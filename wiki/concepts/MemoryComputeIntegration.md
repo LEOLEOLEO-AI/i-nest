@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor]]
 [[Memristor_Synapse]]
 [[MetaFAIR_ArchitectureDiscovery]]
+[[NUMA_Balancing_Overhead]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[Photonic_Memristor]]

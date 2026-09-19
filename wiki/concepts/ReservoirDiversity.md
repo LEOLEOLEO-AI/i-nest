@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Model_Routing_Protocol]]
+[[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]
 [[Network_Specific_Embedding_Separation]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]

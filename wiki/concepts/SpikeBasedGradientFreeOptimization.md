@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[EventCameraTemporalEncoding]]
 [[ExplainableEnergyAI]]
 [[ExtinctionDrivenMetastability]]
+[[Fixed_Term_Project_Structure]]
 [[ITP_STDP]]
 [[InteractingQuasiPeriodicChain]]
 [[Interconnect_Routing]]

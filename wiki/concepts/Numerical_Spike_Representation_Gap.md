@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[AdaptiveFlexibilityThreshold]]
 [[AdaptiveFrequencyResonateAndFire]]
+[[AnisotropicGaussianPrimitives]]
 [[FlexibilityThreshold]]
 [[SNN]]
 [[Spiking_Neural_Network]]

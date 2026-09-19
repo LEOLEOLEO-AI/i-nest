@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[BerryCurvatureIsolation]]
 [[BioPlausiblePredictiveCoding]]
 [[BurstGatedRouting]]
+[[CounterstreamSignalPropagation]]
 [[CriticalStateInformationMaximization]]
 [[Criticality]]
 [[EnergyProportionalityCeiling]]

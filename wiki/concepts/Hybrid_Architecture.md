@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspiredLearningRule]]
 [[BurstTemporalPlasticity]]
 [[ChannelEventSparsity]]
+[[Edge_AI_Acquisition_Consolidation]]
 [[FlexibilityThreshold]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

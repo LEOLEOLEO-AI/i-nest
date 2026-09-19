@@ -25,7 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[3d]]
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_Faculty_Forum_2026]]
-[[advanced packaging]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[AnalogInMemoryComputing]]
 [[Attention_Residuals]]
@@ -38,9 +38,9 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
+[[SpikingNeuralNetworkTopologyMapping]]
 [[TCC]]
 [[TSV_Interconnect]]
-[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

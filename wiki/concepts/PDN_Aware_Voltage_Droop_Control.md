@@ -33,7 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveGraphDiffusion]]
 [[Adaptive_Intelligence_Principle]]
 [[Adaptive_Service_Orchestration]]
-[[advanced packaging]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[Attention_Residuals]]
 [[Bipartite_Interconnect]]
@@ -57,13 +57,13 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Long_Range_Interactions]]
 [[MemoryDrivenRouting]]
+[[MemristiveSupervisedLearning]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[Process_Recycling_Paradigm]]
 [[TCC]]
-[[advanced packaging]]
 [[emerging CMOS memristor]]
 
 ## Sources

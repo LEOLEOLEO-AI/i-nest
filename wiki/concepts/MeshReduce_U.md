@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[HighFrequency_Interconnect_Optimization]]
 [[InInterconnectMemory]]
 [[Interconnect_Routing]]
+[[IsolatedKVBandwidth]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]

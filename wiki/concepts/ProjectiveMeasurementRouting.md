@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[AtomicGeometryEncoding]]
 [[BigBrainCellularAxis]]
 [[BrownianCastleInterface]]
+[[CollectiveSpikingDynamics]]
 [[CouplingTopologyMemoryLink]]
 [[DTGA]]
 [[EmergentOrder]]

@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Package_Neuromorphic_Integration]]
 [[LocalLearning_SynapticUpdate]]
 [[NeuromorphicEdgeProcessing]]
+[[NeuromorphicGestureEncoding]]
 [[NeuromorphicGraphAnomalyDetection]]
 [[NeuromorphicNetworkSecurity]]
 [[Neuromorphic_Acceleration]]

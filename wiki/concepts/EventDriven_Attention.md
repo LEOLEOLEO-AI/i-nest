@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveFrequencyResonateAndFire]]
 [[Adaptive_Replication_Strategy]]
 [[Agent_Interaction_Sequencing]]
+[[Anomaly_Induced_Quantum_Criticality]]
 [[Avoided_Criticality]]
 [[BurstGatedRouting]]
 [[BurstSuppressionMechanism]]
@@ -56,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[SOC]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
+[[Spiking_Transformer]]
 [[iNEST]]
 
 ## Sources

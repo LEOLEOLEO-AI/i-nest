@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Topology_Mapping]]
 [[FunctionalInterfaceBlock]]
 [[FunctionalInterfaceBlocks]]
+[[Heterogeneous_Synaptic_Motifs]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]

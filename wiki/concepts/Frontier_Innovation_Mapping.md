@@ -58,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Sensory_Motor_Loop]]
 [[Nonlinear_Gain]]
+[[ParallelSNNArchitecture]]
 [[Real_Time_Neuromorphic_Constraint_Satisfaction]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]

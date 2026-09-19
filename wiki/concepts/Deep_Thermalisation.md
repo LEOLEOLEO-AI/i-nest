@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[DataCenter_Chip_Logic_Compression]]
 [[DistinctReentrantPhases]]
+[[Flow_Aware_Interconnect_Design]]
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]

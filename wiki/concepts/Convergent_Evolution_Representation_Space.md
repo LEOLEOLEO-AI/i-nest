@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[CircadianGateModulation]]
 [[Complex_System_Theory]]
 [[Complexity_Coordination_Layer]]
+[[Complexity_Emergence]]
 [[Connectome]]
 [[Connectome_Transfer]]
 [[Contested_Prior_Resolution]]

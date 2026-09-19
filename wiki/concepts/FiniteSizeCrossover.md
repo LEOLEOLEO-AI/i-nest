@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[EnergyProportionalityCeiling]]
 [[EventCameraActionRecognition]]
 [[Heterogeneous_Integration]]
+[[In_Network_Neuromorphic_Processing]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Memristor]]

@@ -27,8 +27,9 @@ Auto-extracted concept from raw material compilation.
 [[BoundaryObject_Abstraction]]
 [[Brain_Connectome]]
 [[Brain_Verified_Scaling_Target]]
+[[ByteDance_Ada_Chip]]
 [[CST_MasterEquation]]
-[[causal emergence]]
+[[Causal_Emergence]]
 [[Causal_Emergence_Architecture]]
 [[ChipletOnWafer]]
 [[Chiplet]]
@@ -47,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[TCC]]
+[[causal emergence]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

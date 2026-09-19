@@ -46,8 +46,10 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Strategic_Planning]]
 [[Spatiotemporal_Synergy]]
 [[Spatiotemporal_Synergy_Complexity]]
+[[Stigmergic_RL]]
 [[Stigmergic_RL_Coordination]]
 [[iNEST]]
+[[vLLM_plugin_FLSDI]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

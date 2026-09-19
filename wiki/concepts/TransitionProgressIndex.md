@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[4H_SiC_SubstrateProcessing]]
 [[ASIC_Dualism]]
 [[Active_Inference_Topology]]
+[[AdaptiveBitPrecisionExploration]]
 [[AdaptiveCompetingInteractions]]
 [[AdaptiveFrequencyResonateFire]]
 [[AdaptiveSpeechToSpikeEncoding]]

@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[TileBasedRasterization]]
+[[Topological_Phase_Transition_Scaling]]
 [[UniversalIntelligence_Emergence]]
 [[WavelengthMultiplexedInterconnect]]
 [[catastrophic forgetting]]

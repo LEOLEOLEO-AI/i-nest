@@ -29,6 +29,8 @@ Auto-extracted concept from raw material compilation.
 [[Adjoint_Gradient_Propagation]]
 [[AllParallel_SpikeBased_Computing]]
 [[Arm_Locomotor_Synergy]]
+[[BarrierConditionedTrajectory]]
+[[PPT]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[TCC]]

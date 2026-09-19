@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Replication_Strategy]]
 [[AdversarialSpikePerturbation]]
 [[Algorithmic_Warfare]]
+[[Anomaly_Induced_Quantum_Criticality]]
 [[Avoided_Criticality]]
 [[BackflowTransformation]]
 [[Baseline_Change_Record]]

@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicHardwareCoDesign]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
+[[ParallelSNNArchitecture]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[SpikeBasedNeuralRadianceField]]

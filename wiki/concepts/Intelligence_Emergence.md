@@ -74,6 +74,7 @@ Auto-extracted concept from raw material compilation.
 [[TemporalComplexity]]
 [[TopologyFragility]]
 [[UniversalIntelligence_Emergence]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[complex system]]
 [[iNEST]]
 [[residual connection]]

@@ -50,6 +50,8 @@ Auto-extracted concept from raw material compilation.
 [[SpikeCodingAdversarialPerturbation]]
 [[Spike_Encoding_of_fMRI]]
 [[Spike_Event_Driven_Attention]]
+[[Spiking neural network]]
+[[SpikingMultimodalTransformer]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

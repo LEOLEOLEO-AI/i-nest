@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[BurstInterleaving]]
 [[DebiasingTechniques]]
+[[EventDrivenRiskAssessment]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

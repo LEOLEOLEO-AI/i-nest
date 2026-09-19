@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[AstrocyteInspiredRepair]]
 [[Avoided_Criticality]]
+[[BigBrainCellularAxis]]
 [[BrainBodyResonance]]
 [[BulletTrainScheduling]]
 [[BurstTemporalPlasticity]]

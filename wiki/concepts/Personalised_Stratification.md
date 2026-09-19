@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[CollectiveStateTopology]]
 [[ConstraintDrivenSelfOrganization]]
 [[Contested_Priors_Architecture]]
+[[ContinualLearningOnNeuromorphic]]
 [[Continual_Learning_Modularity]]
 [[CounterstreamSignalPropagation]]
 [[CriticalityInNetworkComputing]]

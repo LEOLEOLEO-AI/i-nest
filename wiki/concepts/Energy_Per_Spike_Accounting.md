@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Replication_Strategy]]
 [[Algorithmic_Warfare]]
 [[AnisotropicGaussianPrimitives]]
+[[Anomaly_Induced_Quantum_Criticality]]
 [[Avoided_Criticality]]
 [[Branch_Prediction_in_Pipelined_Processors]]
 [[Criticality]]

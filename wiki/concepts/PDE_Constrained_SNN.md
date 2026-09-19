@@ -29,6 +29,8 @@ Auto-extracted concept from raw material compilation.
 [[ANN_to_SNN_Conversion_Error_Amplification]]
 [[AcceleratorReconfigurationOverhead]]
 [[AdjustableDynamicsReservoir]]
+[[AdjustableDynamics]]
+[[AlternativeBridgingModels]]
 [[CMOS_Memristor_Crossbar]]
 [[FPGA_SNN_Mapping]]
 [[Flexible_Neuron_Model]]
@@ -39,7 +41,9 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[PPT]]
+[[Reservoir_Computing]]
 [[SNN]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

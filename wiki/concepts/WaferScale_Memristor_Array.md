@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Memory_Computing]]
 [[KV_Cache_To_BoundaryObject]]
 [[KV_Cache_to_BoundaryObject_Transition]]
+[[MemristiveIntegration]]
 [[Memristive_ANN_Hardware]]
 [[Memristive_Interconnect]]
 [[Memristor]]

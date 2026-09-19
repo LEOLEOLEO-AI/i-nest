@@ -60,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[NoiseDrivenBackpropReconstruction]]
 [[OpportunisticRoutingRL]]
 [[OpportunisticRouting]]
+[[OptimalRepresentations]]
 [[QuantumFluctuationDrivenTransport]]
 [[QuarantineStrategyOptimization]]
 [[RecursiveSelfReferentialArchitecture]]

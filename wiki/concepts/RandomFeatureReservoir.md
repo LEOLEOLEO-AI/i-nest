@@ -63,6 +63,7 @@ Auto-extracted concept from raw material compilation.
 [[ReservoirTemporalDynamics]]
 [[Reservoir_Computing]]
 [[Synaptic_Plasticity]]
+[[TCC]]
 [[complex system]]
 [[iNEST]]
 [[涌现]]

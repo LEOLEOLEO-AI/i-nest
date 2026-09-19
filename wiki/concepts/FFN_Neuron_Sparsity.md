@@ -29,7 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Intelligence_Principle]]
 [[Adaptive_Service_Orchestration]]
 [[AdsorptionBiosorptionHybrid]]
-[[advanced packaging]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[Alignment_Tax]]
 [[BioInspired_Interception_Control]]
@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[DiffAttention_SubtractiveMechanism]]
 [[Discrete_Event_Spike_Simulation]]
 [[ElasticInferenceScheduling]]
+[[EventCameraPoseInput]]
 [[EventDrivenAttentionMechanism]]
 [[EventDrivenTemplateUpdate]]
 [[FunctionalEnsembleComputation]]
@@ -47,7 +48,6 @@ Auto-extracted concept from raw material compilation.
 [[LocalErrorSignals]]
 [[Neuromorphic_Computing]]
 [[Spiking_Neural_Network]]
-[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

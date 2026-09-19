@@ -56,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[NoiseModulated_SynapticPlasticity]]
 [[NonEquilibriumComputing]]
 [[OcclusionHandlingStrategy]]
+[[OptimalRepresentations]]
 [[RecursiveSelfReferentialArchitecture]]
 [[ResistiveMemoryWriteBudgeting]]
 [[SNN]]

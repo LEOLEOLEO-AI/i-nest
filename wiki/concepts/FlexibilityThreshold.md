@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[20W_Brain_Inspired_Planning]]
 [[AdaptiveTimeStepTraining]]
 [[Adaptive_Deep_Brain_Stimulation]]
 [[AnisotropicGaussianPrimitives]]
@@ -66,6 +67,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[SelfOrganizationAtGrowthEdge]]
+[[SelfOrganization]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[Wafer_Scale_Integration]]

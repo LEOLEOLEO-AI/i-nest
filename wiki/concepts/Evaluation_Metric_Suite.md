@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[EnergyEfficiencyAI]]
 [[GenerationalAITransition]]
+[[GradientFreeTraining]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[LLM_TopologicalReplicationGap]]

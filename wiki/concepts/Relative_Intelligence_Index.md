@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[CascadedAdaptiveCombiners]]
 [[ClosedLoopNeuromorphicControl]]
 [[CompetitiveProgramDynamics]]
+[[ConceptualNetworkEmbedding]]
 [[Neuromorphic_Computing]]
 [[SpikeEncoding]]
 [[Spiking_Neural_Network]]

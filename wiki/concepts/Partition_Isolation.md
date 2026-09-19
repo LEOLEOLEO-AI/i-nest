@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[AdiabaticMultimodeBend]]
 [[Analog_InMemory_Processing]]
+[[AnisotropicTensileStrength]]
 [[Asymptotic_Exact_Solution]]
 [[CST计量仪]]
 [[Cauchy_Aczel_Uniqueness]]

@@ -24,10 +24,11 @@ refs: 6
 _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 
 ## Merged From
-- GSK_Summarize (merged 2026-08-25)
+- gsk summarize (merged 2026-08-25)
 
 
 ## Related Work
 
+[[GSK_Summarize]]
 [[TCC]]
 [[iNEST]]

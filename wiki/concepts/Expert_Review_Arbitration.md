@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Compute_In_Memory_Neuromorphic]]
 [[CrossDomain_Integration]]
 [[DendriticReservoirState]]
+[[DualImpactEvaluation]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence]]

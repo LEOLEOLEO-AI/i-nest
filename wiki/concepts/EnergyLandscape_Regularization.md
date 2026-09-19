@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[DisorderDrivenTemporalOrdering]]
 [[DisorderedNetworkInterconnect]]
 [[DistributedEventConditionDesign]]
+[[Hopfield_Energy_Landscape]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Kinematic_Waves]]
@@ -53,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologyAwareSemanticRouting]]
 [[TopologyAware_FlowScheduling]]
 [[Topology_Computation_Mapping]]
+[[Topology_Order_Constraint]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

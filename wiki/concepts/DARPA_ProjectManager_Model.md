@@ -65,6 +65,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[ScalableNeuromorphicTopology]]
 [[SensorMemoryCoLocation]]
+[[SensoryInMemoryComputing]]
 [[SparseTemporalEncoding]]
 [[Spiking_Neural_Network]]
 [[SuperparamagneticSwitchingRate]]

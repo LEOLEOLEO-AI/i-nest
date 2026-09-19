@@ -65,6 +65,7 @@ Auto-extracted concept from raw material compilation.
 [[ShortTermMemory]]
 [[Stigmergic_Neural_Plasticity]]
 [[Synaptic_Plasticity]]
+[[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[TwoTimescaleNeuroEvolution]]
 [[complex system]]
 [[iNEST]]

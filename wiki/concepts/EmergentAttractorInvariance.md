@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[MachineLearningPotential]]
+[[Multifractal_Signatures]]
 [[Network_Topology_Design]]
 [[RandomStateEnsemble]]
 [[Reservoir_Computing]]

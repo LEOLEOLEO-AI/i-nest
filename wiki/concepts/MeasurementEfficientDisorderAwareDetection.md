@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Evolving_System_Adaptation]]
 [[FaultTolerantLogicalOperation]]
 [[Generative_Model_Conditioning]]
+[[GeometricRoleEmbedding]]
 [[Intelligence_Emergence]]
 [[MeasurementEfficientDisorderAware]]
 [[Network_Topology_Design]]

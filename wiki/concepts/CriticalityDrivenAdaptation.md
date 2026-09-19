@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[OpinionDrivenVaccination]]
 [[PerspectiveLatent]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SDI_STDP]]
 [[STDPDrivenGraphLearning]]
 [[STDP_Plasticity]]
 [[STDP_Supervised_Degradation]]

@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[Course_Based_FPGA_Projects]]
+[[CrystalPalace_Program]]
 [[DARPA_Project_Group_Strategy]]
 [[DataDrivenCellularAxis]]
 [[EmergentOrder]]

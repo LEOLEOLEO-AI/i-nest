@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveCombinerWeighting]]
 [[AdaptiveCompetingInteractions]]
 [[AdaptiveEntanglementManagement]]
+[[AdaptiveModelPartitioning]]
 [[AdjointWaveControl]]
 [[Cache_Aware_Flow_Scheduling]]
 [[Complex_System_Theory]]

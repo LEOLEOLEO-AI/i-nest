@@ -59,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[OpportunisticRouting]]
 [[P_Paradigm]]
 [[QuantumConvolutionalTopology]]
+[[QueryComplexityScaling]]
 [[RecursiveSelfReferentialArchitecture]]
 [[StochasticMultiAgentRL]]
 [[TCC]]

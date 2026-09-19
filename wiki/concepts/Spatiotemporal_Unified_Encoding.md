@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[InteractingQuasiPeriodicChain]]
 [[Neuromorphic_Computing]]
 [[NonHermitianSpectralCorrelations]]
+[[Oncological_Digital_Twin]]
 [[SNN]]
 [[STDP_Plasticity]]
 [[SpikeEncoding]]

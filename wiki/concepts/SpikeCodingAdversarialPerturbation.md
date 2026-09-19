@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveDendriteSNN]]
 [[AnomalousSpinTransport]]
 [[Avoided_Criticality]]
+[[BackflowTransformation]]
 [[BrainInspired_Chip]]
 [[BurstTemporalPlasticity]]
 [[Chiplet]]

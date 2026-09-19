@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[OptimalGeneralisationNearInterpolation]]
+[[PhotoIontronicSynapse]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

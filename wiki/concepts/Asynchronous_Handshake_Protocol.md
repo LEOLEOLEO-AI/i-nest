@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[EventDrivenAsync]]
 [[EventDrivenAsynchronousRouting]]
+[[EventDrivenTracking]]
 [[FPGA_NeuromorphicMapping]]
 [[FoveationGuidedTokenSelection]]
 [[Interconnect_Routing]]
@@ -40,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
 [[SpikeBasedInference]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[Spiking_Temporal_Encoding]]
 

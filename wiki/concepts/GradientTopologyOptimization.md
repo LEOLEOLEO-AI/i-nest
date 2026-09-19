@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[Machine_Decision_Speed_Advantage]]
 [[Memristor]]
 [[Memristor_Synapse]]
+[[Mucosal_Immune_PhaseTransition]]
 [[National_Planning_Driven_Research_Alignment]]
 [[NetworkAttractorStates]]
 [[Network_Topology_Design]]

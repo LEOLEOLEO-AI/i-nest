@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[CompactFieldVariable]]
 [[CongestionAwareNoCPlacement]]
 [[DynamicServiceComposition]]
+[[GeneralIntelligenceSubstrate]]
 [[Liquid_Topological_Generative_Computing]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]

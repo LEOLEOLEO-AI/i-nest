@@ -381,6 +381,34 @@
       "date": "2026-09-17T07:41:40.590701",
       "card": "20260917_symmetric_approximant_statistical_topological_matt.md",
       "method": "llm"
+    },
+    "30_TCC\\31_Theory\\random_graphs_discrete_scale_invariance_spectra.md": {
+      "date": "2026-09-19T10:58:30.653210",
+      "card": "20260919_random_graphs_discrete_scale_invariance_spectra.md",
+      "method": "llm"
+    },
+    "30_TCC\\31_Theory\\no_mipt_monitored_1d_fermions_disordered_quasiperiodic.md": {
+      "date": "2026-09-19T10:58:38.250977",
+      "card": "20260919_no_mipt_monitored_1d_fermions_disordered_quasiperi.md",
+      "method": "llm"
+    },
+    "30_TCC\\31_Theory\\2026-08-18-arxiv-daily-index.md": {
+      "date": "2026-09-19T10:58:46.264770",
+      "card": "20260919_2026-08-18-arxiv-daily-index.md",
+      "method": "llm"
+    },
+    "30_TCC\\31_Theory\\Memory_Caching_RNN_Growable_Memory_Notes.md": {
+      "date": "2026-09-19T10:59:25.008646",
+      "error": true
+    },
+    "30_TCC\\31_Theory\\higher_order_network_dimension_reduction_tcc_inest.md": {
+      "date": "2026-09-19T10:59:31.354624",
+      "card": "20260919_higher_order_network_dimension_reduction_tcc_inest.md",
+      "method": "llm"
+    },
+    "30_TCC\\31_Theory\\Generalized_Master_Stability_Heterogeneous_Delay_Coupled_Networks_1954.md": {
+      "date": "2026-09-19T10:59:39.470349",
+      "error": true
     }
   }
 }

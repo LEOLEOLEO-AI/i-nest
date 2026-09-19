@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicRadarFrontend]]
 [[Neuromorphic_Computing]]
 [[OODA_Loop_Breaking]]
+[[PhotonicSynapticPlasticity]]
 [[Pods4Rail_Topology]]
 [[Receptron_Unit]]
 [[ReconfigurableSNN_Accelerator]]

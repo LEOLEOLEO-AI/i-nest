@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[AdaptiveFrequencyResonateAndFire]]
 [[Adaptive_Replication_Strategy]]
+[[Amorphous_Amorphous_Transition]]
 [[Avoided_Criticality]]
 [[Baseline_Change_Record]]
 [[BioInspiredInterceptionTask]]

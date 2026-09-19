@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration_Route]]
 [[ConsciousnessEngineeringLoop]]
 [[CrossbarInterconnect]]
+[[Cryogenic_Syndrome_Compression]]
 [[CrystalPalace_Program]]
 [[DARPA_ProjectManager_Model]]
 [[Deep_Thermalisation]]

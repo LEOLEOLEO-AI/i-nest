@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AnomalousSpinTransport]]
+[[AstrocyteInspiredRepair]]
 [[BigBrainCellularAxis]]
 [[BrownianCastleInterface]]
 [[BrownianCastleInterfaces]]
@@ -42,7 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[HodgkinHuxleyDynamics]]
 [[InNetworkAgentRewiring]]
 [[InNetworkNeuromorphicEmergence]]
-[[In_Network_Neuromorphic]]
+[[InNetworkNeuromorphic]]
 [[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Processing]]
 [[Intelligence_Emergence]]

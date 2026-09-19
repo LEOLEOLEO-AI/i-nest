@@ -48,7 +48,9 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Physical_Reservoir]]
 [[PolarizationModulatedPhotoresponse]]
+[[ProvablySubLinearConvergence]]
 [[QuantumReservoirMemoryCapacity]]
+[[Quantum_Reservoir_Computing]]
 [[Random_Parameter_Substitution]]
 [[Reservoir_Computing]]
 [[SelfOrganizedCriticalityConsciousness]]
@@ -58,7 +60,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[Whole_Organism_Behavioral_Assay]]
 [[iNEST]]
-[[quantum reservoir computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

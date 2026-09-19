@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[BerryCurvatureIsolation]]
 [[BioInspired_Interception_Control]]
 [[BurstGatedRouting]]
+[[Cognitive_Relapse_Decoupling]]
 [[CriticalNormBoundary]]
 [[CriticalityDrivenTopology]]
 [[CriticalityOffCriticalityTransition]]

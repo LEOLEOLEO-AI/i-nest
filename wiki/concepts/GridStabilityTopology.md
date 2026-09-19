@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[CounterstreamSignalPropagation]]
 [[Critical_Region_Extension]]
 [[Criticality]]
+[[Criticality_Induced_Plasticity]]
 [[DelayPropagationDynamics]]
 [[DiffusionInducedInstability]]
 [[Driven_Criticality]]

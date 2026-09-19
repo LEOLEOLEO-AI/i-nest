@@ -46,11 +46,12 @@ Auto-extracted concept from raw material compilation.
 [[DelayAwareSpikeEventDelivery]]
 [[Delocalization_Critical_Exponent]]
 [[DigitalSpikingNeuralNetwork]]
+[[EnergyProportionalityCeiling]]
 [[EventBasedMotionDeblurring]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Self_Organized_Criticality]]
-[[Spiking_Neural_Network]]
+[[SpikingNeuralNetwork]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

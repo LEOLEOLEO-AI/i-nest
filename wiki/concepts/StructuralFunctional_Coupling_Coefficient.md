@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[BeliefPropagationOnGraphTopology]]
 [[BoundaryContract]]
 [[BoundaryObject_Abstraction]]
+[[ByteDance_Ada_Chip]]
 [[CST_Intelligence_Emergence]]
 [[CST_Intelligence_Emergence_Theory]]
 [[CellularSheaf]]

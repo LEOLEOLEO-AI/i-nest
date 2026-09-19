@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[ClosedLoopNeuromorphicControl]]
 [[CompetitiveProgramDynamics]]
 [[CorticalWaveRouting]]
+[[Cryogenic_Syndrome_Compression]]
 [[Dynamic_Expert_Fusion]]
 [[Dynamic_Expert_Routing]]
 [[Emergent_Intelligence]]

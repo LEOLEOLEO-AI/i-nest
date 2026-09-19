@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Faculty_Forum_2026]]
 [[AnomalousSpinTransport]]
+[[AstrocyteInspiredRepair]]
 [[BigBrainCellularAxis]]
 [[BrainBodyResonance]]
 [[BrownianCastleInterface]]
@@ -44,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[HodgkinHuxleyDynamics]]
 [[InNetworkAgentRewiring]]
 [[InNetworkNeuromorphicEmergence]]
+[[InNetworkNeuromorphic]]
 [[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Processing]]
 [[Intelligence_Emergence]]

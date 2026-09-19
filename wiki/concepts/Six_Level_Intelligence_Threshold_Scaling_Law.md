@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Nishimori_Threshold]]
 [[Resilient_Sensing_Comms_Network]]
+[[Substrate_Level_Computation]]
 [[TCC]]
 [[analog computation]]
 [[complex system]]

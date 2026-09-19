@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Electronic_Crystal_Dynamics]]
 [[FPGA_Reconfigurability]]
 [[FluxAttachmentTopology]]
+[[GravityPathIntegralTopology]]
 [[InSitu_Adjoint_Wave_Control]]
 [[Inference_Workload_Profiling]]
 [[Interconnect_Routing]]

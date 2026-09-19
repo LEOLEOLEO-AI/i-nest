@@ -52,6 +52,9 @@ Auto-extracted concept from raw material compilation.
 [[SensorMemoryFusion]]
 [[SparseCodingEfficiency]]
 [[SpiNNaker2_Chip]]
+[[SpiNNaker]]
+[[Spike_Encoding_of_fMRI]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AgenticServiceManifesto]]
 [[AnomalousSpinTransport]]
 [[BoundaryObject_Abstraction]]
 [[BurstGatedRouting]]
@@ -30,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[DisorderInducedEntanglementTransition]]
 [[Generative_Graph_Models]]
 [[Interconnect_Routing]]
+[[Interconnect_Topology]]
 [[Interconnect_Topology_Embedding]]
 [[MantelTest_SignCorrection]]
 [[NCA_Reservoir]]
@@ -42,9 +44,9 @@ Auto-extracted concept from raw material compilation.
 [[PhysicalReservoirDynamicsEncoding]]
 [[PhysicalReservoirDynamics]]
 [[PhysicalReservoirInterconnect]]
-[[Physical_Reservoir]]
 [[PhysicalSubstrateReservoirComputing]]
 [[PhysicalSubstrateReservoir]]
+[[Physical_Reservoir]]
 [[PlanarNetworkSimulation]]
 [[ReservoirDynamics]]
 [[Reservoir_Computing]]

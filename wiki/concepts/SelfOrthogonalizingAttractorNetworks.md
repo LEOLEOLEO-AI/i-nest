@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[Metastable_State_Hierarchy]]
 [[Model_Routing_Protocol]]
 [[NetworkAttractorStates]]
 [[NeuralNetworkSpectralAnalysis]]

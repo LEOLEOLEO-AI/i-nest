@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN动力学]]
 [[AdaptiveDensityControl]]
 [[Alpha_Coefficient_Phase_Transition_Amplification]]
+[[CST_Triad_Integration]]
 [[Complex_System_Theory]]
 [[DendriticReservoirState]]
 [[Homogeneous_Integration]]

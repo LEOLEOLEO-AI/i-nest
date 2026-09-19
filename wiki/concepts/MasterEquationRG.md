@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[AI_Faculty_Forum_2026]]
 [[AcceleratedMaterialScreening]]
+[[ActiveMatterComputing]]
 [[Alpha_Coefficient_Phase_Transition_Amplification]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[CST计量仪]]

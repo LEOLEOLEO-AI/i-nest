@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor]]
 [[Memristor_Network]]
 [[Memristor_Synapse]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]

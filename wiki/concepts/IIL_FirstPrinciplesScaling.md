@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[DataCenter_Chip_Logic_Compression]]
 [[DistinctReentrantPhases]]
+[[Distributed_Spike_Communication]]
 [[ERI_2_0_Strategy]]
 [[Heterogeneous_Synaptic_Motifs]]
 [[Intelligence_Emergence]]

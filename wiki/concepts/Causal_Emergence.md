@@ -39,9 +39,11 @@ Auto-extracted concept from raw material compilation.
 [[Crystallized_Neural_Manifolds]]
 [[Effective_Information]]
 [[Intelligence_Emergence]]
+[[KernelRegimeScaling]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[TinySubstrateEmergence]]
+[[causal emergence]]
 [[iNEST]]
 [[神经网络]]
 

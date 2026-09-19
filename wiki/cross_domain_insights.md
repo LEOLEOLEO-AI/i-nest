@@ -1,6 +1,6 @@
 # Cross-Domain Insights
 
-**Generated**: 2026-09-18
+**Generated**: 2026-09-19
 
 > **口径说明（2026-09-18 修订）**：以下每条桥的匹配概念按**术语特异性**
 > （逆文档频率式）排序，不再按概念目录的字母序取前几个——旧实现因此让
@@ -11,49 +11,49 @@
 
 ## Active Bridges (7)
 
-### SDI_Plastic_Interconnect (Strength: 1225 · Coverage: 0.6159)
+### SDI_Plastic_Interconnect (Strength: 1278 · Coverage: 0.6174)
 SDI's software-defined interconnect could implement plastic (reconfigurable) network topologies inspired by synaptic plasticity.
-- 匹配规模：TCC 1343 个 / iNEST 1225 个
+- 匹配规模：TCC 1395 个 / iNEST 1278 个
 - TCC concepts（按特异性）: [[ChipletWaferTopologyCoDesign]], [[Chiplet_Interconnect_Topology]], [[Dynamic_Structural_Hole_Reconfiguration]]
 - iNEST concepts（按特异性）: [[IGZO_Thin_Film_Transistor]], [[20W_Brain_Inspired_Planning]], [[ActiveDendriteSNN]]
 - 排序依据: term-specificity-weighted (非字母序)
 
-### Chiplet_Heterogeneous_Neuromorphic (Strength: 1043 · Coverage: 0.6804)
+### Chiplet_Heterogeneous_Neuromorphic (Strength: 1076 · Coverage: 0.6696)
 Chiplet-based heterogeneous integration enables combining CMOS logic with memristor crossbar arrays for neuromorphic acceleration.
-- 匹配规模：TCC 1043 个 / iNEST 1883 个
+- 匹配规模：TCC 1076 个 / iNEST 1952 个
 - TCC concepts（按特异性）: [[1024_Card_SuperNode]], [[2_5D_3D_HeterogeneousIntegration]], [[2_5D_Interposer]]
 - iNEST concepts（按特异性）: [[Developmental_Computing]], [[FerroelectricSynapticArray]], [[Neuromorphic_Chiplet]]
 - 排序依据: term-specificity-weighted (非字母序)
 
-### NoC_Spiking_Routing (Strength: 815 · Coverage: 0.5316)
+### NoC_Spiking_Routing (Strength: 841 · Coverage: 0.5233)
 NoC routing algorithms could be redesigned for event-driven spike packet delivery, reducing latency by orders of magnitude.
-- 匹配规模：TCC 815 个 / iNEST 1303 个
+- 匹配规模：TCC 841 个 / iNEST 1345 个
 - TCC concepts（按特异性）: [[Chiplet_Heterogeneous_Stacking]], [[Color_Channels]], [[Compute_Centric_NoC]]
 - iNEST concepts（按特异性）: [[ActiveInferenceEdgeLoop]], [[ArmLocomotorCoordination]], [[Asynchronous_Event_Circuit]]
 - 排序依据: term-specificity-weighted (非字母序)
 
-### WaferScale_Neuromorphic (Strength: 534 · Coverage: 0.3483)
+### WaferScale_Neuromorphic (Strength: 547 · Coverage: 0.3404)
 Wafer-scale integration could enable massive-scale neuromorphic chips with millions of neurons on a single die.
-- 匹配规模：TCC 534 个 / iNEST 1936 个
+- 匹配规模：TCC 547 个 / iNEST 2015 个
 - TCC concepts（按特异性）: [[3D_Torus_Topology]], [[Analyze_Reconstruct_Regulate]], [[Chemical_Bond_Effect]]
 - iNEST concepts（按特异性）: [[1M1T1R_SynapticNeuron]], [[ActiveDendriteSNN]], [[AdaptiveFlexibilityThreshold]]
 - 排序依据: term-specificity-weighted (非字母序)
 
-### Topology_Brain_Connectome (Strength: 310 · Coverage: 0.1559)
+### Topology_Brain_Connectome (Strength: 324 · Coverage: 0.1565)
 Brain connectome topology patterns can inspire optimal NoC topologies for wafer-scale AI chips.
-- 匹配规模：TCC 1467 个 / iNEST 310 个
+- 匹配规模：TCC 1540 个 / iNEST 324 个
 - TCC concepts（按特异性）: [[AdditiveTopology_Embedding]], [[AI_Cluster_Switch_Bottleneck]], [[AlgorithmicPhaseTransition]]
-- iNEST concepts（按特异性）: [[EvolutionaryReservoirLearning]], [[HierarchicalModularReservoirs]], [[SpikingSafetyMargin]]
+- iNEST concepts（按特异性）: [[DefectDynamics]], [[EvolutionaryReservoirLearning]], [[HierarchicalModularReservoirs]]
 - 排序依据: term-specificity-weighted (非字母序)
 
-### 3DIC_Neural_Stacking (Strength: 308 · Coverage: 0.1549)
+### 3DIC_Neural_Stacking (Strength: 316 · Coverage: 0.1527)
 3D-IC stacking mimics cortical columnar architecture, enabling dense neural processing layers.
-- 匹配规模：TCC 556 个 / iNEST 308 个
+- 匹配规模：TCC 580 个 / iNEST 316 个
 - TCC concepts（按特异性）: [[3DIntegratedPhotonicPackaging]], [[AlternativeMetalInterconnects]], [[EpoxyMoldingCompoundEncapsulation]]
 - iNEST concepts（按特异性）: [[Mesoscale_Neural_Dynamics]], [[ActivityAvalanche]], [[AdaptersInSpikingNetworks]]
 - 排序依据: term-specificity-weighted (非字母序)
 
-### Memory_Wall_Neuromorphic_Solution (Strength: 3 · Coverage: 0.0020)
+### Memory_Wall_Neuromorphic_Solution (Strength: 3 · Coverage: 0.0019)
 Neuromorphic in-memory computing is a potential solution to the wafer-scale memory wall problem.
 - 匹配规模：TCC 3 个 / iNEST 18 个
 - TCC concepts（按特异性）: [[HBM_Alternative_Interconnect]], [[Memory_Wall]], [[SDSoW_TCC_Integration]]

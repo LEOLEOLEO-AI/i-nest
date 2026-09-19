@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[DirtyWeylSemimetal]]
 [[ElectromigrationResistance]]
 [[EventDrivenRiskAssessment]]
+[[ExactlyFlatTopologicalBands]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[FibonacciMonitoredCriticality]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
@@ -53,8 +54,9 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[SelfOrganization]]
 [[Self_Organized_Criticality]]
-[[Spiking_Transformer]]
+[[SpikingTopology]]
 [[Spiking_Neural_Network]]
+[[Spiking_Transformer]]
 [[TCC]]
 
 ## Sources

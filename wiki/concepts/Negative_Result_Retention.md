@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[JointFlightRoutingOptimization]]
 [[LowRankPerturbation]]
+[[NetworkArchitectureSearch]]
 [[Network_Topology_Design]]
 [[Persistent_Homology_Neuron]]
 [[PhaseAwareBisectionDemand]]

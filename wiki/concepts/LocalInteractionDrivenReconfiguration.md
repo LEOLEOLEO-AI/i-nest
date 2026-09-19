@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossLayer_SignalRouting]]
 [[CrossbarSNNArchitecture]]
 [[Dimensionality_Modularity_Tradeoff]]
+[[DirectoryManagementLaws]]
 [[DynamicCentralitySteering]]
 [[EarlyVisualCortexAliasing]]
 [[EnergyEfficientNeuromorphic]]
@@ -56,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[SelfOrganization]]
 [[SpikeCommunicationScheduling]]
 [[SpikeEncodingLatency]]
+[[SpikeEncoding]]
 [[Spiking_Neural_Network]]
 
 ## Sources

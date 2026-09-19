@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalExponentGamma]]
 [[CriticalStateDynamics]]
 [[Criticality]]
+[[Delocalization_Critical_Exponent]]
 [[EventBasedMotionDeblurring]]
 [[Neural_Avalanche]]
 [[Neuromorphic_Computing]]

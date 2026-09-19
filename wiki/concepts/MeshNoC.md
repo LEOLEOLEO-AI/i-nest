@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_SDI_Integration]]
 [[SDI_Bond]]
 [[SparseTemporalEncoding]]
+[[Surface_Phase_Transition]]
 [[TCC]]
 
 ## Sources

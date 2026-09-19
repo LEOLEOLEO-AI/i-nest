@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Model_Routing_Protocol]]
 [[MultifractalCriticalPhase]]
 [[NeuralNetworkSpectralAnalysis]]
+[[NeuromorphicRadarFrontend]]
 [[Neuromorphic_Computing]]
 [[OnlinePlasticity]]
 [[PhotonicSynapticPlasticity]]

@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[PhotoIontronicRetina]]
+[[ProgrammerGuideAbstraction]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
 [[STDP_Plasticity]]

@@ -24,7 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[3d]]
 [[AI_Driven_Power_Density_Scaling]]
 [[AI_Faculty_Forum_2026]]
-[[advanced packaging]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[Analog_InMemory_Processing]]
 [[AssociativeMemoryTopology]]
@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Beyond_Moore_Pathway]]
 [[BiasEvaluationMetrics]]
 [[CellularSheaf]]
+[[Chat_to_Agent_Paradigm]]
 [[CircuitTopologySearch]]
 [[ConsciousIntegration]]
 [[Continuous_Spatiotemporal_State_Propagation]]
@@ -58,7 +59,6 @@ Auto-extracted concept from raw material compilation.
 [[StorageCompute_SeparationBottleneck]]
 [[StorageCompute_Separation]]
 [[TopologicalDataCompression]]
-[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -1,17 +1,17 @@
 {
-  "generated": "2026-09-18T11:29:55.432688",
+  "generated": "2026-09-18T18:30:05.143528",
   "generator": "state_generator.py v1.0",
   "vault": {
-    "total_md": 13381,
+    "total_md": 13392,
     "inbox_00": 239,
     "processing_20": 830,
     "tcc_30": 1954,
     "inest_40": 1406,
     "output_50": 450,
-    "moc_60": 106
+    "moc_60": 107
   },
   "services": {
-    "preview_server_8899": true,
+    "preview_server_8899": false,
     "jojo_llm_57321": false,
     "jojo_fixer_57320": false
   },
@@ -22,6 +22,17 @@
       "recent": []
     },
     "recent_runs": [
+      {
+        "date": "2026-09-18T17:39:28.168170",
+        "new_papers": 0,
+        "api_results": 0,
+        "classified": 0,
+        "graph_nodes": 13367,
+        "graph_edges": 293349,
+        "elapsed_s": 534.2,
+        "genspark_snapshot": "99_Meta\\genspark_research_brief.md",
+        "_file": "pipeline_20260918_1739.json"
+      },
       {
         "date": "2026-09-18T06:41:32.196431",
         "new_papers": 0,
@@ -87,22 +98,11 @@
         "elapsed_s": 3482.9,
         "genspark_snapshot": "99_Meta\\genspark_research_brief.md",
         "_file": "pipeline_20260914_0828.json"
-      },
-      {
-        "date": "2026-09-13T08:46:02.425726",
-        "new_papers": 0,
-        "api_results": 0,
-        "classified": 0,
-        "graph_nodes": 12924,
-        "graph_edges": 258763,
-        "elapsed_s": 5290.8,
-        "genspark_snapshot": "99_Meta\\genspark_research_brief.md",
-        "_file": "pipeline_20260913_0846.json"
       }
     ]
   },
   "git": {
-    "uncommitted": 6012,
+    "uncommitted": 6014,
     "details": [
       "M .obsidian/community-plugins.json",
       " M .obsidian/workspace.json",

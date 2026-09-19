@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[SNN]]
 [[Self_Organized_Criticality]]
+[[SpikeDrivenInference]]
 [[SpikeEventDrivenInference]]
 [[Spiking_Neural_Network]]
 [[TCC]]

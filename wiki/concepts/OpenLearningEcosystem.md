@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Beyond_Moore_Pathway]]
 [[Bipartite_Interconnect]]
 [[BitPrecisionAwareScheduling]]
+[[CLINKAsCarrierPrimitive]]
 [[Complex_System_Theory]]
 [[ControlDrivenCriticalFluctuations]]
 [[Critical_Region_Extension]]

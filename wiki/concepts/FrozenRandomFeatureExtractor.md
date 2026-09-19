@@ -69,6 +69,7 @@ Auto-extracted concept from raw material compilation.
 [[SelfOrganizedOscillatoryLearning]]
 [[SelfOrganized_Stability]]
 [[Spectral_Generalization_Criteria]]
+[[SpinGlass_Embedding]]
 [[TCC]]
 [[catastrophic forgetting]]
 [[iNEST]]

@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Independent_AI_Player_Endgame]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[Manifold_Topology_DeepLearning]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[PhotonicStateRetention]]

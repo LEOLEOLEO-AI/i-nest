@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDriven_Interconnect]]
 [[Event_Driven_Architecture]]
 [[FunctionalEnsemble]]
+[[InNetworkRadarProcessing]]
 [[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Scheduling]]
 [[In_Package_Neuromorphic_Integration]]

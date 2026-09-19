@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenModularArchitecture]]
 [[EvolutionarySpikeTimingOptimization]]
 [[Hardware_Aware_SNN_Optimization]]
+[[IMPLY_ISA]]
 [[Interconnect_Routing]]
 [[KinematicWavePropagation]]
 [[LossSpikePhenomenon]]
@@ -51,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[ParallelSNNArchitecture]]
 [[SNN]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

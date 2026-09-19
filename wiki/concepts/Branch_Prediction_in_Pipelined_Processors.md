@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[BrainInspired_Chip]]
 [[BurstTemporalPlasticity]]
 [[Compact_Sequence_Encoding]]
+[[Course_Based_FPGA_Prototyping]]
 [[Criticality]]
 [[Discrete_Event_Spike_Simulation]]
 [[EEGSpikeEncoding]]

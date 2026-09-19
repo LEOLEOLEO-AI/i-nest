@@ -30,12 +30,13 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 ## Related Work
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
+[[AI_Faculty_Forum_2026]]
 [[Analog_InMemory_Processing]]
 [[CLINKAsCarrierPrimitive]]
 [[CST计量仪]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
-[[chiplet interconnect]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Communication_Primitive]]
 [[Complex_System_Theory]]
@@ -52,7 +53,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Interconnect_Routing]]
 [[Interconnect_Topology]]
 [[L2_L3_Reconfigurability]]
-[[Meta_Topology]]
+[[MetaTopology]]
 [[Meta_Topology]]
 [[MoE_Routing]]
 [[NCL神经计算定律详解]]

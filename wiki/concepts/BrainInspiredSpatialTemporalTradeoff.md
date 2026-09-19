@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AdjustableDynamicsReservoir]]
 [[CascadedAdaptiveCombiners]]
 [[CollectiveDynamics]]
 [[Collective_State_Convergence]]
@@ -37,6 +38,8 @@ Auto-extracted concept from raw material compilation.
 [[Neural_Manifold_Crystallization]]
 [[Neuromorphic_Computing]]
 [[OscillatoryReservoirDynamics]]
+[[ReservoirDynamics]]
+[[Reservoir_Computing]]
 [[SelfOrganization]]
 [[iNEST]]
 

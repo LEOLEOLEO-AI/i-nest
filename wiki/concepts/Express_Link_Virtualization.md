@@ -19,13 +19,14 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Chemical_Bond_Effect]]
 [[ChipletWaferInterconnectCoDesign]]
 [[ChipletWaferInterconnectScaling]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]
 [[Chiplet_Integration_Route]]
-[[chiplet interconnect]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[CommunicationAsComputation]]
@@ -53,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[NoC]]
 [[NoC_Topology]]
+[[P_Paradigm]]
 [[Package_Level_Topology]]
 [[PacketRoutingOptimization]]
 [[PhysicalWaferTriplet]]
@@ -63,6 +65,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Reconfigurable_Network]]
 [[System_Level_Utility_Control]]
 [[TCC]]
+[[TopologyCentricComputing]]
 [[Topology_Centric_Computing]]
 [[WaferScaleTopologyCentricComputing]]
 [[WaferScaleTopologyInterconnect]]

@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[LIF_Neuron_Model]]
 [[Loihi2_OnChip_Learning]]
 [[Loihi]]
+[[Memristive_Interconnect]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Metriplectic_Twin]]

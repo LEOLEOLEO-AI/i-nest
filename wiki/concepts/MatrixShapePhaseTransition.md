@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[Communication_Trace_Diagnostics]]
 [[Complex_System_Theory]]
+[[Cryogenic_Syndrome_Compression]]
 [[DTGA]]
 [[Emergent_Order_Deep_Belief_Networks]]
 [[FPGA_Neuromorphic_Architectures]]

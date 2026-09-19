@@ -39,6 +39,8 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[NonreciprocalQuasiperiodicLattice]]
 [[PhotonicSynapticPlasticity]]
+[[ProjectiveMeasurementRouting]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]

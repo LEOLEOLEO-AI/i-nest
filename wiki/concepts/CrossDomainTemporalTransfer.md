@@ -61,6 +61,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
 [[STDP_Plasticity]]
+[[SciTech_Company_Preparation]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
 [[涌现]]

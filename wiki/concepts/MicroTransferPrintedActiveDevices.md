@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[KV_Cache_To_BoundaryObject]]
 [[KV_Cache_to_BoundaryObject_Transition]]
+[[Memristive_STDP]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[National_Planning_Driven_Research_Alignment]]

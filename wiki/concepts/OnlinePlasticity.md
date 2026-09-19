@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[MultifractalCriticalPhase]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuroactiveCompoundTherapeutics]]
+[[NeuromorphicRadarFrontend]]
 [[Neuromorphic_Computing]]
 [[PhotonicSynapticPlasticity]]
 [[QuantumProbabilityFlowHebbian]]

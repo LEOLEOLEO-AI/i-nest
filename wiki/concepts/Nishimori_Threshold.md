@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[DarkSiliconAwarePowerGating]]
 [[DistinctReentrantPhases]]
 [[Energy_Efficient_Control]]
+[[ExplosiveCooperationTransition]]
 [[FerroelectricMemoryCell]]
 [[Ferroelectric_Devices]]
 [[Heterogeneous_Integration]]

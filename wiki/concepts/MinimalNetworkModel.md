@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveTimeStepTraining]]
 [[AnisotropicGaussianPrimitives]]
 [[AnomalousSpinTransport]]
+[[AstrocyteInspiredRepair]]
 [[BigBrainCellularAxis]]
 [[BrainBodyResonance]]
 [[Complex_Network_Brain_Inspired_Computing]]

@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[DiluteDipolarNetwork]]
 [[EmergentSwarmTopology]]
 [[Intelligence_Emergence]]
+[[Intelligence_Emergence_Paradigm]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[TCC]]

@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[FastSlow_Dynamics]]
+[[Functional_Food_Complexity]]
 [[Intelligence_Emergence]]
 [[Interconnect_Topology]]
 [[Memristor]]

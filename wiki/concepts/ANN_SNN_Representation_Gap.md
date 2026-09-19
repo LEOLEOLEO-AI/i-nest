@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[BioInspiredLearningRule]]
 [[BurstGatedRouting]]
+[[DryingStressSimulation]]
 [[FlexibilityThreshold]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

@@ -21,7 +21,6 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
-[[156QubitScale]]
 [[AINext_Initiative]]
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_Assisted_Energy_Management]]
@@ -30,13 +29,14 @@ Auto-extracted concept from raw material compilation.
 [[AdjustableDynamics]]
 [[AlternativeBridgingModels]]
 [[CSI_Temporal_Dynamics]]
+[[CrashHotspotForecasting]]
 [[Nonlinear_Gain]]
+[[Quantum_Reservoir_Computing]]
 [[Reservoir_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]
-[[quantum reservoir computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

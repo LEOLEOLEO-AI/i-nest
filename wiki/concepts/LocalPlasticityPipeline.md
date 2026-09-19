@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveFrequencyResonateFire]]
 [[AdaptiveLocalLearning]]
 [[BioInspired_Interception_Control]]
+[[Cognitive_Relapse_Decoupling]]
 [[Contested_Priors_Mechanism]]
 [[CriticalityDrivenStateTransition]]
 [[Criticality]]

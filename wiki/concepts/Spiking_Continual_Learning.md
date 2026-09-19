@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AdaptiveFrequencyResonateFire]]
 [[AdaptiveSTDP]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BioInspiredSequenceLearning]]
@@ -43,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_iNEST]]
 [[SpikeCodedFeatureAssociation]]
 [[SpikeFusionLayer]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[SubharmonicResponse]]
 [[Synaptic_Plasticity]]

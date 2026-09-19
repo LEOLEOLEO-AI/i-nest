@@ -60,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[SelfOrganizationInContinuousMedia]]
 [[SelfOrganization]]
 [[Self_Organized_Criticality]]
+[[SensationModulatingNetwork]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]

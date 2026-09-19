@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[GlobalDecision_LocalExecution_ControlPlane]]
 [[Heterogeneous_Integration]]
 [[Integrated_Cooling]]
+[[MicroRouter_Embedding]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC]]

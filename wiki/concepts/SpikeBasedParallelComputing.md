@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[ClosedLoopNeuromorphicControl]]
 [[CollectiveDynamics]]
 [[Discrete_Event_Spike_Simulation]]
+[[DualDrivenHybridNetwork]]
 [[ErrorAmplificationLimits]]
 [[EventDriven_AsyncCircuit]]
 [[LatencyGradientDescent]]

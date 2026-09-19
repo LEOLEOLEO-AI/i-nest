@@ -66,6 +66,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[PersistentHomologyAnalysis]]
 [[Readout_Weight_Training]]
+[[RelationalGraphModularity]]
 [[Reservoir_Computing]]
 [[ScaleFreeNetwork]]
 [[SpatiotemporalComplexityIndex]]

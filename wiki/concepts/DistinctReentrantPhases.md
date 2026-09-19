@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Interconnect_Topology]]
+[[MachineLearningPotential]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Milinkovic B (2024)：复杂神经系统涌现动力学结构]]

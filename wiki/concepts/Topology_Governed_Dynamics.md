@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[DarkSiliconAwarePowerGating]]
 [[Energy_Efficient_Control]]
+[[ExplosiveCooperationTransition]]
 [[FerroelectricMemoryCell]]
 [[Ferroelectric_Devices]]
 [[Heterogeneous_Integration]]

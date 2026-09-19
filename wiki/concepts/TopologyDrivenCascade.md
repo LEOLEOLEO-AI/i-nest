@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Allreduce_Latency_Probe]]
+[[Anomaly_Induced_Quantum_Criticality]]
 [[Architectural_Conditioning]]
 [[Avalanche_Dynamics]]
 [[BioInspired_Interception_Control]]
@@ -56,8 +57,9 @@ Auto-extracted concept from raw material compilation.
 [[SpikeEventDrivenInference]]
 [[Spike_Computation_Energy_Model]]
 [[SpikingGraphNeuralNetwork]]
-[[Spiking_Transformer]]
+[[SpikingTopology]]
 [[Spiking_Neural_Network]]
+[[Spiking_Transformer]]
 [[TCC]]
 [[Topology_Aware_Spike_Routing]]
 

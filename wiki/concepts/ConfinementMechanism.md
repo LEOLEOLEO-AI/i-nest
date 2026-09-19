@@ -50,6 +50,8 @@ Auto-extracted concept from raw material compilation.
 [[Confinement]]
 [[CooperationEmergenceThreshold]]
 [[CriticalBranchingMechanism]]
+[[CriticalBranching]]
+[[CriticalTransitionDetection]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

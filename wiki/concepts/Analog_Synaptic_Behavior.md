@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[FerroelectricSynapticArray]]
 [[Ferroelectric_Devices]]
 [[FixedOverheadCost]]
+[[GeTeBasedCBRAM]]
 [[HeterogeneousSynapticDelays]]
 [[Intelligence_Emergence]]
 [[Linguistic_Phase_Transition]]

@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[EnergyEfficiencyAI]]
 [[EventDrivenRiskAssessment]]
 [[EventDrivenTracking]]
+[[GradientFreeTraining]]
 [[Heterogeneous_Integration]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]

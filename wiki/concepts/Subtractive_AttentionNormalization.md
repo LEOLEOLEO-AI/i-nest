@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Network_Neuromorphic_Learning]]
 [[LIF_Neuron_Model]]
 [[MagnetizationSusceptibilityResponse]]
+[[Memristive_Interconnect]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Metriplectic_Twin]]

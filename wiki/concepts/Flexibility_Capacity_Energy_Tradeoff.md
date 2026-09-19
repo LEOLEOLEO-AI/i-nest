@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[BigBrainCellularAxis]]
+[[Bipartite_Interconnect]]
 [[Bipartite_Interconnect_Design]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[CompactnessRegularizedFitness]]
@@ -28,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[EventCameraActionRecognition]]
 [[ExponentialDenseAssociativeMemory]]
 [[Field_Compression_for_InNetwork_Inference]]
+[[HierarchicalNetworkPartitioning]]
 [[HodgkinHuxleyDynamics]]
 [[Interconnect_Routing]]
 [[Memristor]]

@@ -27,7 +27,9 @@ Auto-extracted concept from raw material compilation.
 [[4H_SiC_SubstrateProcessing]]
 [[AI_Faculty_Forum_2026]]
 [[AdvancedPackagingInterconnect]]
-[[advanced packaging]]
+[[AdvancedPackaging]]
+[[Advanced_Packaging]]
+[[ApproximationFidelityTradeoff]]
 [[Attention_Residuals]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -53,7 +55,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
-[[advanced packaging]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

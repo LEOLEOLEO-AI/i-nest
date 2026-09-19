@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[AtomicGeometryEncoding]]
 [[BrownianCastleInterface]]
 [[BurstTemporalPlasticity]]
+[[Course_Based_FPGA_Prototyping]]
 [[EEGSpikeEncoding]]
 [[ErrorAmplificationLimits]]
 [[EventDrivenSynchronization]]

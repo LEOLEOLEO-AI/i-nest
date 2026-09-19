@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[Alignment_Tax]]
 [[AstrocyteInspiredRepair]]
+[[Backpropagating_Action_Potential]]
 [[BayesMarkovOrientationModel]]
 [[BigBrainCellularAxis]]
 [[Bio_plausible_Neuromorphic_Disturbance_Observer]]

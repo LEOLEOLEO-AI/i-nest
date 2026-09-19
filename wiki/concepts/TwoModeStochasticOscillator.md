@@ -61,6 +61,7 @@ Auto-extracted concept from raw material compilation.
 [[NeurovascularUnit]]
 [[OpportunisticRoutingRL]]
 [[OpportunisticRouting]]
+[[OptimalRepresentations]]
 [[QuarantineStrategyOptimization]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Spike_Encoding_of_fMRI]]

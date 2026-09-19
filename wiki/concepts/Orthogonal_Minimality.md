@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Algorithm_Hardware_CoDesign]]
 [[BackflowTransformation]]
+[[Cognitive_Relapse_Decoupling]]
 [[CriticalityInNetworkComputing]]
 [[CriticalityOffCriticalityTransition]]
 [[Criticality]]

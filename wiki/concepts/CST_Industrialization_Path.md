@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Automated_Reward_Shaping]]
 [[BackflowTransformation]]
 [[BayesianDomainEvolution]]
+[[BehavioralFeedbackLoop]]
 [[Complex_System_Theory]]
 [[Neuromorphic_Computing]]
 [[Synaptic_Plasticity]]

@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
+[[NeuromorphicObserverArchitecture]]
 [[Neuromorphic_Computing]]
 [[Synaptic_Plasticity]]
 [[iNEST]]

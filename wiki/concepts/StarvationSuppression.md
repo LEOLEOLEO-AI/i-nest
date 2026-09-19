@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[ConsciousnessEngineeringLoop]]
 [[CrossLayer_SignalRouting]]
 [[CrossbarInterconnect]]
+[[Cryogenic_Syndrome_Compression]]
 [[DTGA]]
 [[Disordered_Frustrated_Dimer_Magnets]]
 [[DisturbancePropagationPath]]

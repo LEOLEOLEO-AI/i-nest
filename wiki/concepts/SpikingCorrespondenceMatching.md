@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[CorticalWaveRouting]]
 [[DiscreteSTDP]]
 [[EnergyProportionalityCeiling]]
+[[EpidemicThreshold]]
 [[EventCameraTemporalEncoding]]
 [[Event_Driven_Architecture]]
 [[Interconnect_Routing]]

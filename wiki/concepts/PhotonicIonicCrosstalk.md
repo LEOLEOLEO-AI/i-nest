@@ -60,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[ParkinsonsNetworkDysfunction]]
+[[PhotoInducedCurrent]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[SelfOrganizedOscillatoryLearning]]

@@ -25,7 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[CST计量仪]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
-[[chiplet interconnect]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Chiplet_based_heterogeneous_integration]]
 [[Complex_System_Theory]]
@@ -98,6 +98,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST_Interconnect]]
 [[iNEST_Wafer]]
 [[residual connection]]
+[[vLLM_plugin_FLSDI]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

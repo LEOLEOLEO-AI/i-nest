@@ -58,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[SelfOrganizedCriticalityConsciousness]]
 [[Self_Organized_Criticality]]
 [[ShortTermMemory]]
+[[Stigmergic_Neural_Plasticity]]
 [[SuperparamagneticSwitchingRate]]
 [[SynapticWeightDynamics]]
 [[Synaptic_Plasticity]]

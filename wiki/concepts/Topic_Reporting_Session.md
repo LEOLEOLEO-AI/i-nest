@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[HigherOrderSynchronization]]
 [[Interconnect_Routing]]
 [[Knowledge_Graph_Navigation]]
+[[Memristive_Interconnect]]
 [[MoE_Routing]]
 [[MultibodyInteractionCascade]]
 [[Network_Specific_Embedding_Separation]]

@@ -26,12 +26,13 @@ Auto-extracted concept from raw material compilation.
 [[3DHI_Stacking]]
 [[3d]]
 [[4H_SiC_SubstrateProcessing]]
+[[AI_Application_Scenario_Reconstruction]]
 [[AI_Driven_Architecture_Search]]
 [[AI_Driven_Power_Density_Scaling]]
 [[AI_Faculty_Forum_2026]]
 [[AI_Forum_Demo_Narrative]]
 [[Active_Inference_Topology]]
-[[advanced packaging]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[Bond_Operation_Algebra]]
 [[BoundaryObject_Abstraction]]
@@ -54,7 +55,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologicalDataCompression]]
 [[TopologyEmbeddedSelfModel]]
-[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

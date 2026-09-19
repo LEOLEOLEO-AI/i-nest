@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[DifferentiableLifting]]
 [[Dynamic_Expert_Fusion]]
 [[Edge_of_Chaos]]
+[[Efficient_Coding_Constraint]]
 [[Emergent_Abilities]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]

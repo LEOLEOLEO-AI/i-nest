@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[CompetitiveProgramDynamics]]
 [[ConceptualNetworkEmbedding]]
 [[Edge_AI_Acquisition_Consolidation]]
+[[ElectronicWarfareNeuromorphic]]
 [[FlexibilityThreshold]]
 [[Neuromorphic_Computing]]
 [[Synaptic_Plasticity]]

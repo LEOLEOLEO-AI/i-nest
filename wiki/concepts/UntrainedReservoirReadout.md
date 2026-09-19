@@ -20,13 +20,13 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
-[[156QubitScale]]
 [[Allreduce_Latency_Probe]]
 [[AlternativeBridgingModels]]
 [[AnisotropicGaussianPrimitives]]
 [[AnomalousSpinTransport]]
 [[AstrocyteInspiredRepair]]
 [[Brain_Connectome]]
+[[CST_Intelligence_Emergence]]
 [[Complexity_Emergence]]
 [[Connectome]]
 [[Contested_Prior_Resolution]]
@@ -47,7 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[HigherOrderSimplicialDynamics]]
 [[HoldingManeuverDelayPrediction]]
 [[InNetworkNeuromorphicSimulation]]
-[[In_Network_Neuromorphic]]
+[[InNetworkNeuromorphic]]
 [[In_Network_Neuromorphic]]
 [[Intelligence_Emergence]]
 [[Memristor]]

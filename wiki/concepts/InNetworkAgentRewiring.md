@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[FPGA_Neuromorphic_Architectures]]
 [[FeFET_Polarization_Switching]]
+[[FerroelectricMemoryCell]]
 [[Free_Energy_Minimization_Interconnect]]
 [[Free_Energy_Topology_Mapping]]
 [[FunctionalInterfaceBlock]]

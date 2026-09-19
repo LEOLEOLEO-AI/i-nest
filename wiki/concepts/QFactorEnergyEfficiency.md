@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration]]
 [[CircuitTopologySearch]]
 [[ComputeInMemory_LLM_Inference]]
+[[Compute_In_Memory_Neuromorphic]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[getnote_2026-06-28_海河实验室项目指南_中间版本_]]

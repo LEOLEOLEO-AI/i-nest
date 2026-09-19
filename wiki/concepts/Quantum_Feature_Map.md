@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Connectome]]
 [[Crystallized_Neural_Manifolds]]
 [[DisorderedNetworkDynamics]]
+[[Distributed_Spike_Communication]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence]]

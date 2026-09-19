@@ -21,7 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Faculty_Forum_2026]]
-[[advanced packaging]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[Analog_Synaptic_Weighting]]
 [[Attention_Residuals]]
@@ -39,12 +39,12 @@ Auto-extracted concept from raw material compilation.
 [[EmergentIntelligence_Spacetime]]
 [[Heterogeneous_Inference_Division]]
 [[Heterogeneous_Integration]]
+[[InMateriaComputing]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
-[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveAsymmetricSurrogateGradients]]
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[Allreduce_Latency_Probe]]
+[[Anomaly_Induced_Quantum_Criticality]]
 [[Architectural_Conditioning]]
 [[Avoided_Criticality]]
 [[BurstGatedRouting]]

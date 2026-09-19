@@ -61,6 +61,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[TCC与INEST：2026全局论文与专利战略规划清单]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 [[神经形态计算]]

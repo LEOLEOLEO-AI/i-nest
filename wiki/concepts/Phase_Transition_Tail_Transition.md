@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[BranchingRatio]]
 [[BurstTemporalPlasticity]]
 [[CertifiedBifurcationDetection]]
+[[CoexistencePhaseTransition]]
 [[Cognitive_Relapse_Architecture]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]

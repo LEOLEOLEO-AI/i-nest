@@ -49,6 +49,8 @@ Auto-extracted concept from raw material compilation.
 [[CollectiveStateStability]]
 [[Complex_System_Theory]]
 [[ConfinementMechanism]]
+[[Confinement]]
+[[CooperationEmergenceThreshold]]
 [[Habituation_Dynamics]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

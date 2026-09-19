@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrain3DHistology]]
 [[BioInspiredLearningRule]]
 [[Bio_plausible_Neuromorphic_Disturbance_Observer]]
+[[BrainBodyResonance]]
 [[Brain_Connectome]]
 [[ConnectomeFidelityClaim]]
 [[Connectome]]

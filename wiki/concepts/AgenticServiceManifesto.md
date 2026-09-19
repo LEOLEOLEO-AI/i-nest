@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Network_Computing]]
 [[Intelligent_Power_Management]]
 [[Interconnect_Routing]]
+[[Interconnect_Topology_Embedding]]
 [[JumpDiffusion_StochasticQuantization]]
 [[MantelTest_SignCorrection]]
 [[Network_State_Awareness]]

@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[MachineLearningPotential]]
 [[MeanFieldSpinGlass]]
 [[Metriplectic_Twin]]
+[[Microbiome_Immune_Endocrine_Interplay]]
 [[Multifractal_Signatures]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Chiplet]]

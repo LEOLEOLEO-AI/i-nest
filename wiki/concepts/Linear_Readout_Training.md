@@ -20,7 +20,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
-[[156QubitScale]]
 [[AI_Application_Scenario_Reconstruction]]
 [[ActiveMatterComputing]]
 [[Active_Inference_Agent]]
@@ -42,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Brain_Connectome]]
 [[CST_CoordinationMechanism]]
 [[C_elegansConnectomeAnalogy]]
+[[CircadianGateModulation]]
 [[Combinatorial_Optimization_Readout]]
 [[Complex_Network_Reservoir_Topology]]
 [[Complex_System_Theory]]
@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Connectome]]
 [[Connectome_Verification_Protocol]]
 [[CrossSubstrateHomology]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]

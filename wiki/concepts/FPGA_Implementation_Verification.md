@@ -33,6 +33,8 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Meta_Residual_Architecture]]
+[[NeuromorphicObserverArchitecture]]
+[[Neuromorphic_Computing]]
 [[Quantization_HLS_Conversion]]
 [[SDI_Bond]]
 [[SDI_iNEST]]

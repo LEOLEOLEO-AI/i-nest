@@ -23,7 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
-[[chiplet interconnect]]
+[[Chiplet_Interconnect]]
 [[Cluster_Effective_Compute_Formula]]
 [[CommunicationAsComputation]]
 [[DistributedTrainingPipeline]]

@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Loihi]]
 [[MeanFieldSpikeRateApproximation]]
 [[Memristive_STDP]]
+[[Neuromorphic_Computing]]
 [[Neuromorphic_Hardware_Paradigm]]
 [[RobustnessToNoiseInSNN]]
 [[SDI_Architecture]]
@@ -58,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Event_Driven_Attention]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
+[[TemporalAdversarialPerturbation]]
 [[iNEST]]
 [[iNEST_Interconnect]]
 

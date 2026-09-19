@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveDensityControl]]
 [[AdaptiveEntanglementManagement]]
 [[Additive_Manufacturing_Supply_Chain]]
+[[AdjointWaveControl]]
 [[AgenticServiceOrchestration]]
 [[AlloyDisorderEngineering]]
 [[AnalogDomainCompression]]

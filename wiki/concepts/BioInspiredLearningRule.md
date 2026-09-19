@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle_Network]]
 [[Gut_Brain_Immune_Network]]
 [[Heterogeneous_Integration]]
+[[In_Network_Neuromorphic_Learning]]
 [[LIF_Neuron_Model]]
 [[Memristor]]
 [[Memristor_Synapse]]

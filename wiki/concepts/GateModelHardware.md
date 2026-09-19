@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration]]
 [[Chiplet_Integration_Route]]
 [[CongestionAwareNoCPlacement]]
+[[Cryogenic_Syndrome_Compression]]
 [[Disordered_Frustrated_Dimer_Magnets]]
 [[Environmental_Capability_Context]]
 [[EventCameraActionRecognition]]

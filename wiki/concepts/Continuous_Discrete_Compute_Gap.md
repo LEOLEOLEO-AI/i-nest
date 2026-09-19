@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[P_Paradigm]]
 [[SDI_Bond]]
+[[SDI_Sparse_Dataflow_Interconnect]]
 [[SDI_iNEST]]
 [[SDI_iNEST_Interconnect]]
 [[SNN]]

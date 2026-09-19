@@ -27,7 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Bias_Origin_Taxonomy]]
 [[BoundaryObject_Abstraction]]
 [[CST_MasterEquation]]
-[[causal emergence]]
+[[Causal_Emergence]]
 [[Causal_Emergence_Architecture]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -41,11 +41,13 @@ Auto-extracted concept from raw material compilation.
 [[EfficientDeepLearning]]
 [[EmergentIntelligence_Spacetime]]
 [[Flow_Network_Memory]]
+[[Heterogeneous_Inference_Division]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[TCC]]
+[[causal emergence]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

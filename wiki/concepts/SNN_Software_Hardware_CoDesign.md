@@ -37,9 +37,11 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Intelligence_Verifiability]]
 [[Evolutionary_Pattern_Modeling]]
+[[FPGA_Neuromorphic_Acceleration]]
 [[Intelligence_Emergence]]
 [[Neuromorphic_Computing]]
 [[SNN]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

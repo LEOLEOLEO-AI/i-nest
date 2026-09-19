@@ -60,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[Kuramoto_Symmetry_Reduction]]
 [[Memristor]]
 [[Memristor_Synapse]]
+[[NISQHardwareAwareMapping]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[RecursiveSelfReferentialArchitecture]]

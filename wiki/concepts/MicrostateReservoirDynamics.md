@@ -21,7 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
-[[156QubitScale]]
+[[AtomicGeometryEncoding]]
 [[Bosonic_SPT_Phases]]
 [[CoexistencePhaseDiagram]]
 [[ConnectivityDerivedReservoir]]
@@ -43,8 +43,8 @@ Auto-extracted concept from raw material compilation.
 [[Photonic_Reservoir_Computing]]
 [[PhysicalReservoirDynamicsEncoding]]
 [[PhysicalReservoirDynamics]]
-[[Physical_Reservoir]]
 [[PhysicalSubstrateReservoir]]
+[[Physical_Reservoir]]
 [[Physical_Reservoir_Computing]]
 [[ReservoirDynamics]]
 [[Reservoir_Computing]]

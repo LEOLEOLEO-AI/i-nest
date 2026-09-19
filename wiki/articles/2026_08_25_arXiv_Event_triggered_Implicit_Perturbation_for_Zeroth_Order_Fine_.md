@@ -25,5 +25,6 @@ SNN, TCC, iNEST, spiking
 
 [[SNN]]
 [[Spiking_Neural_Network]]
+[[Spiking_Transformer]]
 [[TCC]]
 [[iNEST]]

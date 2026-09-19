@@ -60,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikingNeuralAccelerator]]
 [[Spiking_Neural_Network]]
 [[SuddenLearning]]
+[[SurrogateGradientAsymmetry]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]

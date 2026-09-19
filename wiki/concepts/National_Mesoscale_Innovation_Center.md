@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[DataDrivenCellularAxis]]
 [[DataProvenanceIntegrity]]
+[[Deep_Network_Architecture_Invariant]]
 [[EmergentOrder]]
 [[GenerativeTopologyModels]]
 [[Heterogeneous_Integration]]

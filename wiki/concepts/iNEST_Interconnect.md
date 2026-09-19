@@ -36,12 +36,14 @@ Auto-extracted concept from raw material compilation.
 [[FrozenRateOperator]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[IonotropicPhotoresponse]]
 [[NestedRepresentation]]
 [[Network_Specific_Embedding_Separation]]
 [[Network_Topology_Design]]
 [[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[Neuromorphic_Interconnect]]
 [[Order_Flexibility_Duality]]
 [[SNN]]
 [[SOC]]
@@ -50,7 +52,6 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
-[[neuromorphic interconnect]]
 [[类脑芯片]]
 
 ## Sources

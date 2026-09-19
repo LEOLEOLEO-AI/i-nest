@@ -58,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[Semantic_Least_Energy_Principle]]
 [[StochasticMultiAgentRL]]
 [[Stochastic_Binary_State_Update]]
+[[Systemic_Innovation_Mechanism]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]

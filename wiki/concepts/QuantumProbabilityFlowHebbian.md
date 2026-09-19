@@ -62,6 +62,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeEncodingLatency]]
 [[SpikeEncoding]]
 [[Spike_Encoding_of_fMRI]]
+[[SpikingBrain-1_0_类脑脉冲大模型的革命性突破_]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[UniSpike_Architecture]]

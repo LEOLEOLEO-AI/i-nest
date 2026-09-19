@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[BigBrainCellularAxis]]
 [[CST计量仪]]
+[[Chiplet_Integration_Route]]
 [[Complex_System_Theory]]
 [[ConsciousnessEngineeringLoop]]
 [[Constructed_Reality_Interconnect]]

@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
+[[GradientFreeLowRankTraining]]
 [[HardwareAwareFairness]]
 [[HippocampalNeocorticalIntelligence]]
 [[Intelligence_Emergence]]

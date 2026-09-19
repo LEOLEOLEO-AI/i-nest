@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[DisorderDrivenTemporalOrdering]]
 [[DisorderedNetworkInterconnect]]
 [[EnergyEfficiencyAI]]
+[[EventDrivenPlasticity]]
 [[EventTriggeredDistributedControl]]
 [[GraphLanguageModel]]
 [[GraphLanguageModel_RAG]]

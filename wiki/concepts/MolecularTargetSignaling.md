@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[FisherInformationMetric]]
 [[Gate_Synthesis_Readout]]
 [[Heterogeneous_Integration]]
+[[In_Network_Neuromorphic_Integration]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

@@ -20,12 +20,13 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[ApproximationFidelityTradeoff]]
 [[BackpropagationFreeLearning]]
 [[ChipletRoutingFabric]]
 [[ChipletWaferInterconnectScaling]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
-[[chiplet interconnect]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Cryogenic_Syndrome_Compression]]
 [[Heterogeneous_Integration]]

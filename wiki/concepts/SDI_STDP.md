@@ -34,7 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[InNetworkNeuromorphicEmergence]]
 [[InNetworkNeuromorphicSimulation]]
-[[In_Network_Neuromorphic]]
+[[InNetworkNeuromorphic]]
 [[InNetwork_CST_Offload]]
 [[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Processing]]
@@ -82,6 +82,7 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
+[[iNEST_Neuromorphic_Topology]]
 [[residual connection]]
 [[三原理协同_FEP_STDP_最小作用量]]
 

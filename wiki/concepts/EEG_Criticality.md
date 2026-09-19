@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[BrainInspired_Chip]]
 [[Branch_Prediction_in_Pipelined_Processors]]
 [[CSI_Temporal_Encoding]]
+[[Course_Based_FPGA_Prototyping]]
 [[Criticality]]
 [[Discrete_Event_Spike_Simulation]]
 [[Edge_of_Chaos]]

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstInterleaving]]
 [[CellularSheaf]]
 [[CircuitTopologySearch]]
+[[CrossLingualIdiomGraph]]
 [[DailyResearchDigest]]
 [[DelayTolerantNetworkUAV]]
 [[Intelligence_Emergence]]

@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Packaging_Aware_NoC_Design]]
 [[PacketRoutingForFPGAs]]
 [[PacketRoutingOptimization]]
+[[RISBeamSpatialSignature]]
 [[RadiationHardened_ProcessNodeScaling]]
 [[SDI_Bond]]
 [[SDI_TopologicalControl]]

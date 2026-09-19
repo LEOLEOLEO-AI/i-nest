@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[MultiplicativeGain]]
 [[Network_Topology_Design]]
 [[Nishimori_Threshold]]
+[[Reliable_Service_Abstraction]]
 [[Resilient_Sensing_Comms_Network]]
 [[SOC]]
 [[TCC]]

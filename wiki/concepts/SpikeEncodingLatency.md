@@ -63,6 +63,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
+[[TCC与INEST：2026全局论文与专利战略规划清单]]
 [[UnifiedHypergraphStateSpace]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]

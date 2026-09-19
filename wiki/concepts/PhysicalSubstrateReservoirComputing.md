@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[CellEmergence]]
+[[ContinualLearningOnNeuromorphic]]
 [[CouplingTopologyInducedDynamics]]
 [[CriticalityInducedTopology]]
 [[Criticality]]
@@ -46,8 +47,8 @@ Auto-extracted concept from raw material compilation.
 [[PhysicalReservoirDynamicsEncoding]]
 [[PhysicalReservoirDynamics]]
 [[PhysicalReservoirInterconnect]]
-[[Physical_Reservoir]]
 [[PhysicalSubstrateReservoir]]
+[[Physical_Reservoir]]
 [[ReservoirDynamics]]
 [[Reservoir_Computing]]
 [[Self_Organized_Criticality]]

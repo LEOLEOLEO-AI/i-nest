@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicsMatchedReservoir]]
 [[Edge_Neuromorphic_Compute]]
 [[Emergent_Reservoir_Topology]]
+[[EnergyEfficientNeuromorphicDesign]]
 [[Entanglement_Phase_Transition]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[In_Network_Computing]]

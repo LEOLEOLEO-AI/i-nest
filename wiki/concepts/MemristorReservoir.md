@@ -39,6 +39,8 @@ Auto-extracted concept from raw material compilation.
 [[Globally_Optimal_SNN_Training]]
 [[HardwareAware_DesignSpace]]
 [[Intelligence_Emergence]]
+[[Interconnect_Routing]]
+[[MemristiveSynapticFatigue]]
 [[Memristor]]
 [[Memristor_Crossbar]]
 [[Memristor_Reservoir_Computing]]

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration]]
 [[Chiplet_Integration_Route]]
 [[Cross_Node_Event_Propagation]]
+[[Cryogenic_Syndrome_Compression]]
 [[Distributed_Spike_Communication]]
 [[Edge_Intelligence]]
 [[Heterogeneous_Integration]]

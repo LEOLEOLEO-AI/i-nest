@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[3d]]
 [[3nm_Autonomous_Driving_Chip]]
 [[AI-ML — 全景导航 (Map of Content)]]
+[[AI_Faculty_Forum_2026]]
 [[AdsorptionBiosorptionMechanism]]
 [[Analog_InMemory_Processing]]
 [[AnisotropicTensileStrength]]

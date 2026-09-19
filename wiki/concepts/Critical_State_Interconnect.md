@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[ActivityPropagationCascade]]
 [[AdaptiveArchitecture]]
 [[AdaptiveEntanglementManagement]]
+[[AgenticServiceManifesto]]
 [[AgenticServiceOrchestration]]
 [[AnalogDomainCompression]]
 [[Anomaly_Induced_Quantum_Criticality]]

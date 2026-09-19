@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologicalDataCompression]]
 [[TopologicalFitnessLandscape]]
 [[TopologicalObservers]]
+[[Topological_Encapsulation]]
 [[TopologyCentricPrimitiveSet]]
 [[iNEST]]
 [[涌现]]

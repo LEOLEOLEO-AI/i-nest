@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[DynamicalCriticality]]
 [[EarlyExiting]]
+[[EdgeOfGrowthDynamics]]
 [[EmulationTheoryObserver]]
 [[In_Network_Computing]]
 [[MembranePotentialAlignment]]
@@ -56,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[SelfOrganization]]
 [[Self_Organized_Criticality]]
+[[Spiking_Neural_Network]]
 [[catastrophic forgetting]]
 [[iNEST]]
 

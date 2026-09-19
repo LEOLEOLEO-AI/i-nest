@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_Exponential_Gain]]
 [[CirculateFiringNeuron]]
 [[Complex_System_Theory]]
+[[Complexity_Emergence]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[CriticalFluctuationReservoir]]
@@ -39,7 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[GroupInteractionThreshold]]
 [[HardwareAware_DesignSpace]]
 [[InNetworkNeuromorphicSimulation]]
-[[In_Network_Neuromorphic]]
+[[InNetworkNeuromorphic]]
 [[In_Network_Neuromorphic]]
 [[Intelligence_Emergence]]
 [[LatencyCoding]]
@@ -62,9 +63,11 @@ Auto-extracted concept from raw material compilation.
 [[STDP_iNEST]]
 [[SpikeTimingFidelity]]
 [[SpikingTopologyPreservation]]
+[[SpikingTopology]]
 [[Spiking_Neural_Network]]
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
+[[TopologyPreservation]]
 [[iNEST]]
 
 ## Sources

@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[OpenLearningEcosystem]]
 [[SelfOrganization]]
+[[SelfOrganizedLearning]]
 [[Synaptic_Plasticity]]
 [[analog computation]]
 [[iNEST]]

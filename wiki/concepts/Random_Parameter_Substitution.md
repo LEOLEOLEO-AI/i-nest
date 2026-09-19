@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[MachineLearningPotential]]
 [[MeanFieldSpinGlass]]
 [[Microbiome_Immune_Endocrine_Interplay]]
+[[Milinkovic B (2024)：复杂神经系统涌现动力学结构]]
 [[NanomaterialFeatureEngineering]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]

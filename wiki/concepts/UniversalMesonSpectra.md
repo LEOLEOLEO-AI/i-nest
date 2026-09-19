@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[DelayAwareSpikeEventDelivery]]
 [[DynamicTokenSparsity]]
 [[Edge_Neuromorphic_Compute]]
+[[EnergyEfficientNeuromorphicDesign]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[In_Network_Computing]]
 [[InputAdaptiveComputation]]

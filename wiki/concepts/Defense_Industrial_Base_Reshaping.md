@@ -60,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]
+[[SDI_Review_Process]]
 [[SDI_TCC_iNEST_Interconnect]]
 [[SDI_iNEST]]
 [[SDI_iNEST_Topology]]

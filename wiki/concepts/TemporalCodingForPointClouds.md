@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[STDP_Plasticity]]
 [[ST_SNN]]
+[[SpikeBasedInference]]
 [[Spike_Event_Driven_Attention]]
 [[Spiking_Neural_Network]]
 [[SynapticRewiringDynamics]]

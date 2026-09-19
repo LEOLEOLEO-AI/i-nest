@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Topology_Mapping]]
 [[HallmarkDrivenCancerModeling]]
 [[InSitu_Adjoint_Wave_Control]]
+[[Inference_Workload_Profiling]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]

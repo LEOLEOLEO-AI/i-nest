@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[LLM_TopologicalReplicationGap]]
 [[Material_Circularity]]
 [[Multiplex_Epidemic_Threshold]]
+[[Nanoparticle_Network_Interconnect]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[涌现]]

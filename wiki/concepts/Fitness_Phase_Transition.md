@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[EpidemicTopologyCoevolution]]
 [[EvolvingArchitectureDynamics]]
 [[ExactEvolutionLaw]]
+[[ExactWiringRouting]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Synaptic_Plasticity]]

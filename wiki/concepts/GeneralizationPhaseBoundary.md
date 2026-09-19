@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveAsymmetricSurrogateGradient]]
 [[AdaptiveAsymmetricSurrogateGradients]]
 [[AdaptiveDeltaPulseFrequencyEncoding]]
+[[Anomaly_Induced_Quantum_Criticality]]
 [[Baseline_Draft_Status]]
 [[BioPlausiblePredictiveCoding]]
 [[BurstGatedRouting]]

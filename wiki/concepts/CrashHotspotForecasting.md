@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
+[[ANN_SNN_ConversionError]]
 [[AlternativeBridgingModels]]
 [[AnisotropicGaussianPrimitives]]
 [[AnomalousSpinTransport]]
@@ -37,7 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Hardware_Accelerated_SNN]]
 [[HighTemporalResolutionSensing]]
 [[InNetworkNeuromorphicSimulation]]
-[[In_Network_Neuromorphic]]
+[[InNetworkNeuromorphic]]
 [[In_Network_Neuromorphic]]
 [[Intelligence_Emergence]]
 [[Memristor]]

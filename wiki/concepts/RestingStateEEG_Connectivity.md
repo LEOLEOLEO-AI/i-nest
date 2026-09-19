@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[Complex_System_Theory]]
 [[CorticalNetwork_Dynamics]]
+[[Cryogenic_Syndrome_Compression]]
 [[DevelopmentalNeuromorphicAdaptation]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence]]

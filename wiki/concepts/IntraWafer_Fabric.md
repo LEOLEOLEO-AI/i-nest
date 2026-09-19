@@ -22,10 +22,11 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Driven_Power_Density_Scaling]]
 [[AI_Faculty_Forum_2026]]
-[[advanced packaging]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[Bipartite_Interconnect]]
 [[Bipartite_Interconnect_Design]]
+[[CorticalTypeDiversity]]
 [[Interconnect_Routing]]
 [[MemoryDrivenVectorFlowFieldRouting]]
 [[MetaFAIR_ArchitectureDiscovery]]

@@ -33,7 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Mesoscale_Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
-[[neuromorphic interconnect]]
+[[Neuromorphic_Interconnect]]
 [[Neuromorphic_Wafer]]
 [[SDI_Bond]]
 [[SDI_iNEST]]
@@ -42,11 +42,11 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Architecture]]
 [[SDSoW_Industry_Alliance]]
 [[SDSoW_Industry_Ecosystem_Collaboration]]
+[[SDSoW_Strategic_Planning]]
 [[TCC]]
 [[Wafer_Interconnect]]
 [[Wafer_Scale_Integration]]
 [[iNEST]]
-[[neuromorphic interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

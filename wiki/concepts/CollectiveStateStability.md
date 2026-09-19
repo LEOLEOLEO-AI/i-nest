@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[DisorderInducedTopologicalOrder]]
 [[Disorder_Interaction_Competition]]
 [[DynamicInference]]
+[[DynamicalReducibility]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

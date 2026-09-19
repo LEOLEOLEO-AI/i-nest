@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AIRA_NeuralArchSearch]]
 [[AgentBasedCorruptionModel]]
 [[AnalogDomainCompression]]
+[[ArchitecturalCondition]]
 [[AstrocyteInspiredRepair]]
 [[Automated_Reward_Shaping]]
 [[AutonomousAdaptation]]

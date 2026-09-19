@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityOffCriticalityTransition]]
 [[Criticality]]
 [[DelayAwareSpikeEventDelivery]]
+[[Direct_Spike_Attention]]
 [[DynamicTokenSparsity]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

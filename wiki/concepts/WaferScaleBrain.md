@@ -28,6 +28,8 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[ByteDance_Ada_Chip]]
 [[CST计量仪]]
+[[Complex_System_Theory]]
+[[Deep_Network_Architecture_Invariant]]
 [[Heterogeneous_Integration]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[Neuromorphic_Computing]]

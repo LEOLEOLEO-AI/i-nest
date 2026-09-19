@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[FixedOverheadCost]]
 [[FixedOverheadPenalty]]
 [[HippocampalNeocorticalIntelligence]]
+[[HodgkinHuxleyDynamics]]
 [[NeuromorphicObserverArchitecture]]
 [[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Acceleration]]

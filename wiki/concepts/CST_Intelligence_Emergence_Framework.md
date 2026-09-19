@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[3DGS_Scene_Graph]]
 [[3d]]
 [[ActiveMatterSubstrate]]
+[[Annealing_Based_Decoder]]
 [[CST_Intelligence_Emergence]]
 [[Complex_System_Theory]]
 [[ConformalFieldTheoryScaling]]

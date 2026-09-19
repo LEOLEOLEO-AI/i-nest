@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Neuromorphic_Computing]]
 [[EventDrivenMatrixUpdate]]
 [[Event_Driven_Architecture]]
+[[ExtinctionDrivenMetastability]]
 [[In_Network_Neuromorphic]]
 [[MagnitudePhaseComputationalModel]]
 [[NeuromorphicStatusAwareness]]

@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
+[[GradientFreeTraining]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[JunctionCenteredFramework]]

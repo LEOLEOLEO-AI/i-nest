@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[GutBrainAxis_Reprogramming]]
 [[Gut_Brain_Immune_Network]]
 [[HallmarkDrivenCancerModeling]]
+[[ImaginaryGaugePhaseImprint]]
 [[Intelligence_Emergence]]
 [[KV_Cache_To_BoundaryObject]]
 [[KV_Cache_to_BoundaryObject_Transition]]

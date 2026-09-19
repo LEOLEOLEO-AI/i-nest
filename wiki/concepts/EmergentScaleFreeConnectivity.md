@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[DendriticReservoirState]]
 [[EmulationTheoryObserver]]
 [[FastSlow_Dynamics]]
+[[Functional_Food_Complexity]]
 [[Intelligence_Emergence]]
 [[MachineLearningPotential]]
 [[Network_Topology_Design]]

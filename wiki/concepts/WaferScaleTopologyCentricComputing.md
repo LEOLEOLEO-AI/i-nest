@@ -19,13 +19,14 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[4H_SiC_SubstrateProcessing]]
 [[BackpropagationFreeLearning]]
 [[CLINKAsCarrierPrimitive]]
 [[ChipletWaferInterconnectScaling]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
-[[chiplet interconnect]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Topology]]
 [[Chiplet_Topology_Interconnect]]
@@ -62,7 +63,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[ThirdWaveAI]]
 [[ThreeLayerArchitecture]]
-[[Topology_Centric_Computing]]
+[[TopologyCentricComputing]]
 [[TopologyProgramming]]
 [[Topology_Centric_Computing]]
 [[Topology_Interconnect]]

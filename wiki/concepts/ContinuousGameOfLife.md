@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[EnergyEfficiencyAI]]
 [[EquilibriumSolution]]
 [[EventDrivenRiskAssessment]]
+[[EventDrivenTracking]]
 [[Intelligence_Emergence]]
 [[Material_Circularity]]
 [[Multiplex_Epidemic_Threshold]]

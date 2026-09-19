@@ -51,10 +51,12 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuromorphicTrackingPipeline]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_FPGA_Architectures]]
 [[SpikingNeuralNetworkTopologyMapping]]
 [[SpikingNeuralNetworkTopology]]
-[[Spiking_Neural_Network]]
+[[SpikingNeuralNetwork]]
 [[SpikingTopologyAnalysis]]
+[[SpikingTopology]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

@@ -63,6 +63,7 @@ Auto-extracted concept from raw material compilation.
 [[Swarm_Adaptive_Topology]]
 [[SynchronizationAttractorBasin]]
 [[TopologicalAndersonChernInsulator]]
+[[Topology_Dynamics_Aware_RL]]
 [[UniversalComputation]]
 [[iNEST]]
 [[神经网络]]

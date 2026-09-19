@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[LearningTransition]]
 [[NeuralVariabilityEnhancement]]
+[[Organic_Neuromorphic_Transistor]]
 [[PowerLawScaling]]
 [[SNN]]
 [[SNN_Intrusion_Detection_Config]]

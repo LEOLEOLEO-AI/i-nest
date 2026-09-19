@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[DendriticReservoirState]]
 [[DynamicalSelfDualCriticality]]
 [[Heterogeneous_Integration]]
+[[In_Network_Neuromorphic_Integration]]
 [[Intelligence_Emergence]]
 [[MacroCriticalityEmergence]]
 [[MeanFieldSpinGlass]]

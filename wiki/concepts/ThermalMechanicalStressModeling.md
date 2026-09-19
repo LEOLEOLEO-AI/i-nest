@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Intelligent_Power_Management]]
 [[InteractionSensitivityMatrix]]
+[[Meaning_Preserving_Compression]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[MixedLabyrinthFractal]]
 [[Network_Topology_Design]]

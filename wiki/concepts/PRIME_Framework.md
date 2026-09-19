@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[20W_Brain_Inspired_Planning]]
 [[Bipartite_Interconnect]]
 [[Bipartite_Interconnect_Design]]
+[[BrainInspiredArchitecture]]
 [[ChannelEventSparsity]]
 [[ConductingPolymerDendriteMemory]]
 [[EventDrivenAttentionMechanism]]
@@ -40,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[SNN_TopologyOptimization]]
 [[SNN_Topology]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

@@ -55,13 +55,16 @@ Auto-extracted concept from raw material compilation.
 [[SpikeEventScheduling]]
 [[Spike_Encoding_of_fMRI]]
 [[Spike_Temporal_Dynamics]]
+[[Spiking neural network]]
 [[SpikingAttentionComplexityReduction]]
 [[Spiking_Neural_Network]]
 [[SynapticRewiringDynamics]]
 [[Synaptic_Plasticity]]
 [[TopologicalAndersonChernInsulator]]
+[[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
 [[iNEST]]
+[[iNEST_Neuromorphic_Integration]]
 [[类脑芯片]]
 
 ## Sources

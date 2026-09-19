@@ -21,7 +21,6 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
-[[156QubitScale]]
 [[Biomanufacturing_Control_Loop]]
 [[Bosonic_SPT_Phases]]
 [[BranchingRatio]]
@@ -45,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[HierarchicalCrackPatternGeneration]]
 [[HierarchicalCrackPattern]]
 [[Intelligence_Emergence]]
+[[LargeDeviationTopologicalOrder]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[Readout_Layer_Training]]

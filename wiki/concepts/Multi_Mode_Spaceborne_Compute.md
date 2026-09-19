@@ -28,7 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Intelligence_Principle]]
 [[Adaptive_Service_Orchestration]]
 [[AdsorptionBiosorptionHybrid]]
-[[advanced packaging]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_Route]]
 [[Advanced_Packaging_for_Space]]
 [[BioInspiredGeneralist]]
@@ -48,8 +48,8 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[In_Memory_Computing]]
 [[Intelligence_Emergence]]
+[[Long_Range_Interactions]]
 [[Neuromorphic_Computing]]
-[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

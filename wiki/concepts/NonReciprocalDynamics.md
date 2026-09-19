@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[BrownianCastleInterfaces]]
 [[BurstTemporalPlasticity]]
 [[CST_Intelligence_Emergence]]
+[[ChannelEventSparsity]]
 [[Complex_System_Theory]]
 [[CriticalStateDynamics]]
 [[Criticality]]

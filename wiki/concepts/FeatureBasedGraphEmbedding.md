@@ -42,7 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[HypergraphRumorPropagation]]
 [[InNetworkNeuromorphicEmergence]]
-[[In_Network_Neuromorphic]]
+[[InNetworkNeuromorphic]]
 [[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Processing]]
 [[IndexOrderingOptimization]]
@@ -58,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[NoC]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[NoC_SDI]]
@@ -77,6 +78,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Neuromorphic]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
+[[iNEST_Neuromorphic_Topology]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[NestedRepresentation]]
 [[NeuromorphicControlBarrierFunction]]
 [[NeuromorphicEdgeProcessing]]
+[[NeuromorphicGraphAnomalyDetection]]
 [[NeuromorphicHandwritingRecognition]]
 [[NeuromorphicNetworkSecurity]]
 [[NeuromorphicTransformerPipeline]]
@@ -50,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Spiking_Integration]]
 [[SensorMemoryFusion]]
 [[Sequence_First_Processing]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

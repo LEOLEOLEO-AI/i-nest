@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[20W_Brain_Inspired_Planning]]
 [[Attention_Driven_Resource_Allocation]]
+[[AutonomousAdaptation]]
 [[BrainBodyResonance]]
 [[HallmarkDrivenCancerModeling]]
 [[LLM_Driven_NoC_Control]]

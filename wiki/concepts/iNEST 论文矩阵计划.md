@@ -64,6 +64,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[TemperatureSensitivityControl]]
 [[ThermallyDrivenSuperparamagnetReservoir]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[complex system]]
 [[iNEST]]
 [[五层性能评估框架]]

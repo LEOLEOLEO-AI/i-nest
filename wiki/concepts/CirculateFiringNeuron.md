@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[GradientFreeSNNTraining]]
 [[Heterogeneous_Integration]]
 [[InNetworkAgentRewiring]]
+[[In_Network_Generative_Inference]]
 [[Intelligence_Emergence]]
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]

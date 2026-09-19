@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveArchitecture]]
 [[AdaptiveCombinerWeighting]]
 [[Additive_Manufacturing_Supply_Chain]]
+[[AgenticServiceManifesto]]
 [[AgenticServiceOrchestration]]
 [[Allreduce_Latency_Probe]]
 [[AnalogDomainCompression]]

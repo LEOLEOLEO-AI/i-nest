@@ -70,6 +70,7 @@ Auto-extracted concept from raw material compilation.
 [[SelfOrganizedOscillatoryLearning]]
 [[SelfOrganized_Stability]]
 [[Spectral_Generalization_Criteria]]
+[[SpinGlass_Embedding]]
 [[catastrophic forgetting]]
 [[iNEST]]
 [[涌现]]

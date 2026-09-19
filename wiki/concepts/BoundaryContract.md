@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[JointEmbeddingPredictiveArchitecture]]
+[[Manifold_Topology_DeepLearning]]
 [[MemoryDrivenRouting]]
 [[NearSensorComputing]]
 [[Network_Topology_Design]]

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Accessibility_Plasticity]]
 [[AdaptiveNetworkResilience]]
 [[Analog_Weight_Storage]]
+[[Attention_Driven_Resource_Allocation]]
 [[AutonomousAdaptation]]
 [[BigBrainCellularAxis]]
 [[BrainBodyResonance]]

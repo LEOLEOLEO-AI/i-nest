@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[Cognitive_Relapse_Decoupling]]
 [[Confinement]]
+[[ContinualLearningOnNeuromorphic]]
 [[Continual_Learning_Modularity]]
 [[ContinuousTimeSNN]]
 [[CriticalBranching]]

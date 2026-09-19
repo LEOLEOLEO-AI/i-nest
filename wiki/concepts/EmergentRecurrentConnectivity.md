@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[LocalPlasticityPipeline]]
 [[MultifractalCriticalPhase]]
 [[Network_Topology_Design]]
+[[NeuromorphicRadarFrontend]]
 [[PhotonicSynapticPlasticity]]
 [[PolarizationModulatedPhotoresponse]]
 [[Receptron_Unit]]

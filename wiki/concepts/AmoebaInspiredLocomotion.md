@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkPowerRouting]]
 [[InNetworkReconfiguration]]
 [[Interconnect_Routing]]
+[[LLMDrivenPathSelection]]
 [[LocalPlasticityPipeline]]
 [[MoE_Routing]]
 [[Network_Topology_Design]]

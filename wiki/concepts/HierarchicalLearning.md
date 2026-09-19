@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[DistributedInference]]
 [[MicroLED_Array_Programmer]]
 [[Network_Topology_Design]]
+[[NeuroAI_Benchmarking]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[Photopolymerization_Printing]]

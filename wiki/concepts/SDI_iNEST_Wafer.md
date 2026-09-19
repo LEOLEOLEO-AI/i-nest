@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[NoC]]
 [[NoC_Chiplet_Wafer_Stack]]
+[[OpticalNeuralNetworkTopology]]
 [[OptimalRepresentation]]
 [[OptimalRepresentations]]
 [[Residual_Connection_Removal]]

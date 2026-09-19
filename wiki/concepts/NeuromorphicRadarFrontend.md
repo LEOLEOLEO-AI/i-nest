@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]
+[[OODA_Loop_Breaking]]
 [[ReconfigurableSNN_Accelerator]]
 [[ReconfigurableSpikingRouting]]
 [[RecursiveSelfReferentialArchitecture]]

@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[AgenticServiceManifesto]]
 [[AgenticServiceOrchestration]]
+[[Ant_Swarm_Functional_Control]]
 [[BurstGatedRouting]]
 [[Categorical_Closure_Criterion]]
 [[Combinatorial_Optimization_Readout]]

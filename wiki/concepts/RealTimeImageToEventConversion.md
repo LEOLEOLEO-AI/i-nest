@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[FormalToolchain]]
 [[Heterogeneous_Integration]]
 [[ImageToEventConversion]]
+[[In_Network_Generative_Inference]]
 [[Intelligence_Emergence]]
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]

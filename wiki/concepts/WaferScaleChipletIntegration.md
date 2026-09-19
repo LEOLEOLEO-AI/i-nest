@@ -21,13 +21,14 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AnalogDomainCompression]]
+[[ApproximationFidelityTradeoff]]
 [[ChipletRoutingFabric]]
 [[ChipletWaferInterconnectScaling]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]
 [[Chiplet_Integration_Route]]
-[[chiplet interconnect]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[CommunicationAsComputation]]

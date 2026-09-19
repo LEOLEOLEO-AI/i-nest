@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[DiscreteSTDP]]
 [[Dynamic_Expert_Fusion]]
 [[ElectronicWarfareNeuromorphic]]
+[[Emergence_Aware_Scheduling]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[ITP_STDP]]

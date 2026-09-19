@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[HigherOrderSimplicialDynamics]]
 [[HigherOrderTransitionKernel]]
 [[HybridCouplingThermosensitiveNetwork]]
+[[InNetworkGradientPropagation]]
 [[IncidenceBasedRandomWalk]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

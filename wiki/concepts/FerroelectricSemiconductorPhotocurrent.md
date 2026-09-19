@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[EchoState_n_ch]]
 [[EnvironmentalEmbedding]]
 [[ErrorSuppressedPipeline]]
+[[FPGA_SNN_Mapping]]
 [[FerroelectricSemiconductorReservoir]]
 [[Ferroelectric_Devices]]
 [[Fixed_Reservoir_Unitary]]

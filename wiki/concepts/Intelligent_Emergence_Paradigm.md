@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveSpeechToSpikeEncoding]]
 [[Adaptive_Deep_Brain_Stimulation]]
 [[Agile_Resilient_Defense_Ecosystem]]
+[[AnytimePointCloudRecognition]]
 [[BrainBodyResonance]]
 [[CascadedAdaptiveCombiners]]
 [[ClosedLoopNeuromorphicControl]]

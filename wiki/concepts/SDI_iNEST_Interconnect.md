@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[In_Package_Neuromorphic_Integration]]
 [[Interconnect_Routing]]
+[[Memristive_Interconnect]]
 [[Memristor]]
 [[Memristor_Network]]
 [[Memristor_Synapse]]

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_FullSpectrum_Strategy]]
 [[ASIC_Dualism]]
 [[Allreduce_Latency_Probe]]
+[[ApproximationFidelityTradeoff]]
 [[Architectural_Conditioning]]
 [[BackpropagationFreeLearning]]
 [[CLINKAsCarrierPrimitive]]

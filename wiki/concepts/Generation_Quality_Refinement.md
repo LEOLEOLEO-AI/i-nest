@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[Syncytial_Mesh]]
+[[TaskDriven_Topology_Growth]]
 [[analog computation]]
 [[iNEST]]
 

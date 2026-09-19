@@ -45,6 +45,8 @@ Auto-extracted concept from raw material compilation.
 [[Coupling_Strength_Encoding]]
 [[Crystallized_Neural_Manifolds]]
 [[DTGA]]
+[[Deep_Network_Layer_Stacking]]
+[[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Memristor]]
 [[Memristor_Crossbar]]

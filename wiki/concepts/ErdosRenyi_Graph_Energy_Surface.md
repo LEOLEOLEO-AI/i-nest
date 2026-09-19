@@ -63,6 +63,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TemperatureSensitivityControl]]
 [[ThermallyDrivenSuperparamagneticReservoir]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[chiplet interconnect]]
 [[iNEST]]
 [[涌现]]

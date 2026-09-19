@@ -33,13 +33,14 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Service_Orchestration]]
 [[AdiabaticMultimodeBend]]
 [[AdvancedPackagingInterconnect]]
-[[advanced packaging]]
-[[advanced packaging]]
+[[AdvancedPackaging]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_Route]]
 [[Advanced_Packaging_for_Space]]
 [[Allreduce_Latency_Diagnostic]]
 [[AndersonTransition]]
 [[Bipartite_Interconnect]]
+[[Butterfly_Topology_Primitive]]
 [[CXL_Deployment_Transition]]
 [[Chiplet]]
 [[Chiplet_Based_Architecture]]
@@ -55,9 +56,9 @@ Auto-extracted concept from raw material compilation.
 [[EndToEndLinkSimulation]]
 [[Heterogeneous_Integration]]
 [[In_Memory_Computing]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[TCC]]
-[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

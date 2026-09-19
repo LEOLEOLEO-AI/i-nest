@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Architecture]]
 [[FPGA_EventDriven_Verification]]
 [[GradientBasedLearningLocalization]]
+[[HigherOrderAvalanche]]
 [[In_Network_Neuromorphic]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]

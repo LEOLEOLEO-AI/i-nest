@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkPowerRouting]]
 [[InNetworkReconfiguration]]
 [[Interconnect_Routing]]
+[[LLMDrivenPathSelection]]
 [[MoE_Routing]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AlternativeBridgingModels]]
 [[AnisotropicGaussianPrimitives]]
 [[Bidirectional_Temporal_Enhancement]]
+[[Complexity_Emergence]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[DiscreteSTDP]]

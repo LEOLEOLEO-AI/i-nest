@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[ContinualLearningOnNeuromorphic]]
 [[Continual_Learning_Modularity]]
 [[ContinuousControlConversion]]
+[[ContinuousTimeSNN]]
 [[CriticalBranching]]
 [[Criticality]]
 [[DynamicalCriticality]]

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Activity_Dependent_Plasticity]]
 [[AdaptiveFlexibilityThreshold]]
 [[AdaptiveFrequencyResonateFire]]
+[[AdaptiveSpeechToSpikeEncoding]]
 [[AddressRedundancyElimination]]
 [[AnytimePointCloudRecognition]]
 [[FlexibilityThreshold]]

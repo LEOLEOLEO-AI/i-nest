@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor]]
 [[Memristor_Crossbar]]
 [[Memristor_Synapse]]
+[[NCC_Paradigm]]
 [[Network_Topology_Design]]
 [[RandomWalk_Memristors]]
 [[TCC]]

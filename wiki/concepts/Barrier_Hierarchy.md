@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[2026-06-15_大脑的量子纠缠与信息动力学]]
 [[20W_Brain_Inspired_Planning]]
 [[AI-ML — 全景导航 (Map of Content)]]
+[[AI_Faculty_Forum_2026]]
 [[AI_Orchestrator]]
 [[AI_Supply_Chain_Increment]]
 [[AI人工智能 卷积神经网络（CNN）_w3cschool]]

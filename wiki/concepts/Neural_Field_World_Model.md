@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AgenticServiceOrchestration]]
 [[Allreduce_Latency_Probe]]
 [[Anomaly_Induced_Quantum_Criticality]]
+[[Anomaly_Protected_Scaling_Law]]
 [[Ant_Swarm_Functional_Control]]
 [[Architectural_Conditioning]]
 [[BioInspired_Interception_Control]]

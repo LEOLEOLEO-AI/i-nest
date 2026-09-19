@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveArchitecture]]
 [[AdaptiveFunctionalTopology]]
 [[Allreduce_Latency_Probe]]
+[[AnomalousSpinTransport]]
 [[Architectural_Conditioning]]
 [[AthermalDynamics]]
 [[BigBrainCellularAxis]]

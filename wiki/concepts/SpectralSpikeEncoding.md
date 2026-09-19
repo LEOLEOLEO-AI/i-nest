@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[BurstTemporalPlasticity]]
 [[CirculateFiringNeuron]]
+[[CollectiveSpikingDynamics]]
 [[ConductingPolymerDendriteMemory]]
 [[Contested_Prior_Resolution]]
 [[DiscreteSTDP]]

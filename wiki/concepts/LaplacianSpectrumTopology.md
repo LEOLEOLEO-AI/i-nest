@@ -57,12 +57,14 @@ Auto-extracted concept from raw material compilation.
 [[NetworkArchitectureSearch]]
 [[Network_Topology_Design]]
 [[Neural_Field_World_Model]]
+[[NeuromorphicRadarFrontend]]
 [[Quantum_Criticality]]
 [[SelfOrganization]]
 [[Self_Organized_Criticality]]
 [[SpectralDimension]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
+[[World_Model]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Sparse_Dataflow_Interconnect]]
 [[SpikeEventDrivenInference]]
 [[Spiking_Neural_Network]]
+[[Spiking_Neural_Network_Overlay]]
 [[TCC]]
 [[iNEST]]
 

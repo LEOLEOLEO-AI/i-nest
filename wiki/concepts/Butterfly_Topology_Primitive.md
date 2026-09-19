@@ -38,9 +38,12 @@ Auto-extracted concept from raw material compilation.
 [[ChiralSymmetryClasses]]
 [[CoPackagedOptics]]
 [[Compute_In_Memory_Neuromorphic]]
+[[CrossDomain_Integration]]
 [[Heterogeneous_Integration]]
+[[In_Memory_Computing]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
+[[Neuromorphic_Computing]]
 [[TCC]]
 
 ## Sources

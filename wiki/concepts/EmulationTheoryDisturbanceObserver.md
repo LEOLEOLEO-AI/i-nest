@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[20W_Brain_Inspired_Planning]]
 [[Avoided_Criticality]]
+[[BandedConnectivityModel]]
 [[BioPlausibleDisturbanceObserver]]
 [[Biologically_Plausible_Learning_Rules]]
 [[BrainBodyResonance]]

@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[GeneralIntelligenceSubstrate]]
 [[Heterogeneous_Integration]]
 [[InInterconnectMemory]]
+[[Inference_Workload_Profiling]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Computation_Access_Routing]]
 [[CongestionAwareLoss]]
 [[Critical_Region_Extension]]
+[[DARPA_3DHI_Roadmap]]
 [[Deep_Thermalisation]]
 [[DifferentiableFloorplanning]]
 [[DifferentiablePlacement]]

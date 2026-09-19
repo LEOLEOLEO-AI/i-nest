@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[CorticalOrientationSelectivity]]
 [[Generative_Design_Frameworks]]
 [[Membrane_Potential_Belief_State]]
+[[ModelOptimization]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[SDI_Bond]]

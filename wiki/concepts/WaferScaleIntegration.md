@@ -23,8 +23,10 @@ Auto-extracted concept from raw material compilation.
 [[3D_IC_Stacking]]
 [[3D_Integrated_Chiplet_Stacking]]
 [[3d]]
+[[AdiabaticMultimodeBend]]
 [[AdvancedPackagingInterconnect]]
-[[advanced packaging]]
+[[AdvancedPackaging]]
+[[Advanced_Packaging]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Packaging]]
@@ -40,7 +42,6 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
 [[Wafer_Scale_Packaging]]
-[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

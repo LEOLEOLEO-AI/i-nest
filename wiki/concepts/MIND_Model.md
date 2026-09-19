@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Network_Redundancy_Management]]
 [[Intelligence_Emergence]]
 [[IntelligentInspectionPipeline]]
+[[Ising_Formulation]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]

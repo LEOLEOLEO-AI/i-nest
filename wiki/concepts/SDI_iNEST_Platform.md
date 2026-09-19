@@ -22,7 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
-[[chiplet interconnect]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[CrossbarArrayVLSI]]
@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_iNEST_Wafer]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
+[[SDSoW_Industry_Alliance]]
 [[SDSoW_Strategic_Planning]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]

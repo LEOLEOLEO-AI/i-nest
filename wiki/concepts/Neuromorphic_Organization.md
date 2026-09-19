@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkRadarProcessing]]
 [[In_Package_Neuromorphic_Integration]]
 [[Interconnect_Routing]]
+[[Memristive_Solutions]]
 [[Memristor]]
 [[Memristor_Network]]
 [[Memristor_Synapse]]

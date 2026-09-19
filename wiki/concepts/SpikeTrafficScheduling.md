@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[BioPlausiblePredictiveCoding]]
 [[BurstGatedRouting]]
 [[CirculateFiringNeuron]]
+[[Cognitive_Relapse_Decoupling]]
 [[ContinuousTimeSNN]]
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[CriticalityDrivenStateTransition]]

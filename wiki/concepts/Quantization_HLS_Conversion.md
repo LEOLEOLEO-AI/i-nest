@@ -34,11 +34,15 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Quantization_HLS_FPGA]]
 [[ReconfigurableSNN_Accelerator]]
+[[SDI_Bond]]
+[[SDI_iNEST]]
 [[SDI_iNEST_Interconnect]]
+[[SDSoW]]
 [[SNN]]
 [[SNNtoFPGADesignFlow]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
+[[iNEST_Interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

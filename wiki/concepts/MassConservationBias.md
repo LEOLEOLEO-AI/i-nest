@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[AI_Assisted_Energy_Management]]
 [[Avalanche_Dynamics]]
+[[Bidirectional_Temporal_Enhancement]]
 [[CST_Exponential_Gain]]
 [[Complex_System_Theory]]
 [[Contested_Prior_Resolution]]
@@ -38,7 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Ferroelectric_Devices]]
 [[GroupInteractionThreshold]]
 [[InNetworkNeuromorphicSimulation]]
-[[In_Network_Neuromorphic]]
+[[InNetworkNeuromorphic]]
 [[In_Network_Neuromorphic]]
 [[Intelligence_Emergence]]
 [[Izhikevich_NeuronModel]]
@@ -64,8 +65,10 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[SpikeTimingFidelity]]
 [[SpikingTopologyPreservation]]
+[[SpikingTopology]]
 [[Spiking_Neural_Network]]
 [[SubsystemInformationCapacity]]
+[[TopologyPreservation]]
 [[iNEST]]
 
 ## Sources

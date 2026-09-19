@@ -39,6 +39,8 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration_Route]]
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
+[[Cross_Node_Event_Propagation]]
+[[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]

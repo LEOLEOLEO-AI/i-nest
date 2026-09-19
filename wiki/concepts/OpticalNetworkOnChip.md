@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[LatencyCodedInterconnect]]
 [[Memory_Wall]]
 [[MeshReduce_U]]
+[[Multi_Objective_Routing]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[Network_on_Chip_Topology]]

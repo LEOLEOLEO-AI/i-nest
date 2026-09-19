@@ -24,5 +24,6 @@ TCC, iNEST, neuromorphic
 ## Related Concepts
 
 [[Neuromorphic_Computing]]
+[[Resistive_Switching_Dynamics]]
 [[TCC]]
 [[iNEST]]

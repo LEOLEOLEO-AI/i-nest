@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[Second_Curve_Industry_Platform]]
+[[ShortTermMemoryReservoir]]
 [[Spatiotemporal_Synergy]]
 [[TCC]]
 [[TCC_iNEST_Interconnect]]

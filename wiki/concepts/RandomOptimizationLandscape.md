@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[DarkSiliconAwarePowerGating]]
 [[EdgeIoTEnergyAwareness]]
+[[ExplosiveCooperationTransition]]
 [[FerroelectricMemoryCell]]
 [[Ferroelectric_Devices]]
 [[Heterogeneous_Integration]]

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AstrocyteInspiredRepair]]
 [[BigBrainCellularAxis]]
 [[BioPlausibleDisturbanceObserver]]
+[[Biologically_Plausible_Learning_Rules]]
 [[BulletTrainScheduling]]
 [[BurstTemporalPlasticity]]
 [[Catastrophic_Forgetting_Mitigation]]

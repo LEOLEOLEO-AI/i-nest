@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[ActionPrototypeClustering]]
 [[BigBrainCellularAxis]]
+[[Bipartite_Interconnect_Design]]
 [[BrainInspiredArchitecture]]
 [[CIMWeightUpdateAwareness]]
 [[ChipletOpticalIO]]
@@ -67,6 +68,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Neuromorphic_Integration]]
 [[catastrophic forgetting]]
 [[iNEST]]
+[[神经网络]]
 [[类脑芯片]]
 
 ## Sources

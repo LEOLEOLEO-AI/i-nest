@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[P_Paradigm]]
 [[RuntimeTopologyMapping]]
+[[ScalableNeuromorphicTopology]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

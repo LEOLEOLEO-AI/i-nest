@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AnisotropicGaussianPrimitives]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BioInspiredSequenceLearning]]
+[[ByteDance_Ada_Chip]]
 [[Defense_Industrial_Base_Reshaping]]
 [[EndToEndTopologyLearning]]
 [[Independent_EdgeAI_Player_Endgame]]

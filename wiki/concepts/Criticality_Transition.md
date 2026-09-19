@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityOnSmallWorlds]]
 [[Criticality]]
 [[Criticality_Induced_Computation]]
+[[DisorderInducedCriticality]]
 [[Disorder_Anomaly_Duality]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]

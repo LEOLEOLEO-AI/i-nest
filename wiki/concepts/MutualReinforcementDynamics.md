@@ -47,7 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[GraphEmbeddedReservoir]]
 [[HierarchicalModularReservoirs]]
 [[InNetworkNeuromorphicSimulation]]
-[[In_Network_Neuromorphic]]
+[[InNetworkNeuromorphic]]
 [[In_Context_Learning]]
 [[In_Network_Neuromorphic]]
 [[Intelligence_Emergence]]
@@ -63,6 +63,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[TCC]]
+[[TopologyAwareDiffusion]]
 [[complex system]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

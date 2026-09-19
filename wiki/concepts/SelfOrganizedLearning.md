@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Theory]]
 [[Emergent_Intelligence_Threshold]]
+[[Generalization_Bound_Spectra]]
 [[Hyper_Dimensional_Computing]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]

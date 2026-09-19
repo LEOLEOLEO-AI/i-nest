@@ -63,6 +63,7 @@ Auto-extracted concept from raw material compilation.
 [[PersistenceThresholdOptimization]]
 [[RandomFieldDisorder]]
 [[RecursiveSelfReferentialArchitecture]]
+[[Recursive_Metric_Contraction]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[Topology_Interconnect]]

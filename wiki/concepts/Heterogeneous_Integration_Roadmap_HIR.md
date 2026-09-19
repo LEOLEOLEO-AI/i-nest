@@ -63,6 +63,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[NoiseInjectedForwardPass]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SDI_iNEST_Packaging]]
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[TCC]]

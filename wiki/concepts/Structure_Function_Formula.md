@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[ReceptiveField_Processing]]
 [[TCC]]
 [[TopologicalEdgeStateTransport]]
+[[TopologyAsComputation]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[HybridResistiveMemoryCIM]]
 [[InMateriaComputing]]
 [[Intelligence_Emergence]]
+[[Intelligent_Power_Management]]
 [[Neuromorphic_Computing]]
 [[iNEST]]
 

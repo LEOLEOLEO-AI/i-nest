@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[EnergyEfficiencyAI]]
 [[Evaluation_Metric_Suite]]
 [[GenerationalAITransition]]
+[[GradientFreeTraining]]
 [[GraphDelayPropagation]]
 [[Heterogeneous_Integration]]
 [[InNetworkAgentRewiring]]

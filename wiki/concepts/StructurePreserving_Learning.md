@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[DisorderDrivenTemporalOrdering]]
 [[DisorderedNetworkInterconnect]]
 [[EarlyVisual_Cortex_Modeling]]
+[[EnergyEfficiencyAI]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

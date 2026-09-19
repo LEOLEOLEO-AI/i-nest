@@ -27,7 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[Bias_Origin_Taxonomy]]
 [[CST_MasterEquation]]
-[[causal emergence]]
+[[Causal_Emergence]]
 [[Causal_Emergence_Architecture]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -35,13 +35,16 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Wafer_Topology]]
 [[Complex_System_Theory]]
 [[ComputationEfficientDeepLearning]]
+[[Computing_Layer_Material]]
 [[Defense_Industrial_Base_Reshaping]]
+[[EfficientDeepLearning]]
 [[Emergent_Intelligence]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[TCC]]
+[[causal emergence]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

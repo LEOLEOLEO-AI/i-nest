@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
+[[Hysteretic_State_Encoding]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Chiplet]]

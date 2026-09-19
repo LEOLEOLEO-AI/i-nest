@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Endocrine_Modulated_Network_State]]
 [[EventTriggeredDistributedControl]]
 [[Frontier_Innovation_Mapping]]
+[[FunctionalRelevanceDrivenSelfOrganization]]
 [[HigherOrderConnectivity]]
 [[HigherOrderSimplicialDynamics]]
 [[Intelligence_Emergence]]

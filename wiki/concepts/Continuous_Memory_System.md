@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Efficient_Coding_Constraint]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
+[[EventBasedAnalogFrontEnd]]
 [[Free_Energy_Topology_Mapping]]
 [[FunctionalBrainGraphEmbedding]]
 [[Hybrid_Volatile_NonVolatile_Mode]]

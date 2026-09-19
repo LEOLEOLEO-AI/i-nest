@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CoexistencePhaseTransition]]
 [[CouplingTopologyMemoryLink]]
 [[EmergentDynamics]]
+[[In_Network_Neuromorphic_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

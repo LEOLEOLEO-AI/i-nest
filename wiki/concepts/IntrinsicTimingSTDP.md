@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[BurstTemporalPlasticity]]
 [[Complexity_Emergence]]
+[[Contested_Prior_Resolution]]
 [[DiscreteSTDPLearning]]
 [[DiscreteSTDP]]
 [[Emergent_Intelligence]]

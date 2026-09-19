@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AdjointWaveControl]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Anomaly_Induced_Quantum_Criticality]]
+[[Anomaly_Protected_Scaling_Law]]
 [[BioInspired_Interception_Control]]
 [[BurstGatedRouting]]
 [[CircuitTopologyEncoding]]

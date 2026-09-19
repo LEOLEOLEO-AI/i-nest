@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[LandauGinzburgFreeEnergy]]
 [[Loihi2_OnChip_Learning]]
 [[Loihi]]
+[[Memristive_Interconnect]]
 [[Metriplectic_Twin]]
 [[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]
 [[Network_Topology_Design]]

@@ -28,7 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BoundaryObject_Abstraction]]
 [[BranchingRatio]]
 [[CST计量仪]]
-[[causal emergence]]
+[[Causal_Emergence]]
 [[Causal_Emergence_Architecture]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_Interconnect]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[MetaFAIR_ArchitectureDiscovery]]
+[[NCL神经计算定律详解]]
 [[Network_Spatiotemporal_Synergy]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
@@ -70,6 +71,7 @@ Auto-extracted concept from raw material compilation.
 [[Textbook_Paradigm_Definition]]
 [[TopologicalAndersonChernInsulator]]
 [[Topological_Synchrony]]
+[[causal emergence]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

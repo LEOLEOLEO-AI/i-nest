@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AnytimePointCloudRecognition]]
 [[ArtificialProprioception]]
 [[Attention_Residuals]]
+[[BioInspiredLearningRule]]
 [[BoundaryObject_Abstraction]]
 [[BrainInspired_Chip]]
 [[ByteDance_Ada_Chip]]

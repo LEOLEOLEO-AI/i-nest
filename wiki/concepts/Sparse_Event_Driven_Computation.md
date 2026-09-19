@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[BrainInspiredArchitecture]]
 [[BrainInspired_Chip]]
 [[BurstGatedRouting]]
+[[CNN_to_SNN_Transition]]
 [[ContinualLearningOnNeuromorphic]]
 [[Continuous_Discrete_Compute_Gap]]
 [[Continuous_Spatiotemporal_State_Propagation]]
@@ -39,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Computation]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 

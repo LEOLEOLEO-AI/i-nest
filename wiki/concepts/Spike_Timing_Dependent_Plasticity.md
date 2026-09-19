@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveSTDP]]
 [[AdaptiveSpeechToSpikeEncoding]]
 [[Adaptive_EW_Neuromorphic_Controller]]
+[[Avoided_Criticality]]
 [[BrainBodyResonance]]
 [[ClocklessReconfigurableChip]]
 [[Controlled_Release_Kinetics]]

@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenRiskAssessment]]
 [[FrustratedDimerMagnet]]
 [[GradientBasedSpikeLearning]]
+[[IMPLY_ISA]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Local_Approximation_Dynamics]]

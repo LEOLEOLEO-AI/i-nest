@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[DisorderedNetworkInterconnect]]
 [[EnergyEfficiencyAI]]
 [[ErdosRenyi_Graph_Energy_Surface]]
+[[EventDrivenPlasticity]]
 [[EventTriggeredDistributedControl]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[GraphLanguageModel]]

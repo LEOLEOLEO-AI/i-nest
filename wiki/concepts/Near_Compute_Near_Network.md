@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveGraphDiffusion]]
 [[Adaptive_Intelligence_Principle]]
 [[Adaptive_Service_Orchestration]]
+[[AdjointWaveControl]]
 [[Chiplet]]
 [[Chiplet_Based_3D_Packaging]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -44,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[CommunicationAwareComputeRelocation]]
 [[Communication_Compute_Deep_Coupling]]
 [[Heterogeneous_Integration]]
+[[Network_Topology_Design]]
 [[TCC]]
 
 ## Sources

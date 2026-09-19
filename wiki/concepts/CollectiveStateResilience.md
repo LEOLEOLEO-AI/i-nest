@@ -26,10 +26,11 @@ Auto-extracted concept from raw material compilation.
 [[Beyond_Moore_Packaging_Strategy]]
 [[BiologicalNoiseMimicry]]
 [[CausalEmergenceCondition]]
-[[causal emergence]]
+[[Causal_Emergence]]
 [[Causal_Emergence_Integration]]
 [[CirculateFiringNeuron]]
 [[CompartmentalNeuronModel]]
+[[ComplexTopologicalStructures]]
 [[CoreComputationSubspace]]
 [[CouplingMatrixRecovery]]
 [[Course_Based_FPGA_Projects]]
@@ -67,6 +68,7 @@ Auto-extracted concept from raw material compilation.
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
 [[TopologyEmbeddedIntrospection]]
+[[causal emergence]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

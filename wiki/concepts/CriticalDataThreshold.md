@@ -58,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[MassGapSpectroscopy]]
 [[MetaHardwareAbstraction]]
 [[Network_Topology_Design]]
+[[PrintedSensorSubstrateIntegration]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
 [[STDP_Plasticity]]

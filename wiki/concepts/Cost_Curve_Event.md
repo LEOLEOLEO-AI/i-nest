@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[ActivityAvalanche]]
 [[AllParallel_SpikeBased_Computing]]
 [[Asynchronous_Circuit]]
+[[BrainInspired_Chip]]
 [[BurstGatedRouting]]
 [[BurstInterleaving]]
 [[Continuous_Discrete_Compute_Gap]]

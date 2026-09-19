@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[EnsembleCreditAssignment]]
 [[FlexibleManifoldReconfiguration]]
 [[FrequencyAdaptationMechanism]]
+[[InNetworkPowerRouting]]
 [[InNetworkReconfiguration]]
 [[Interconnect_Routing]]
 [[LocalPlasticityPipeline]]

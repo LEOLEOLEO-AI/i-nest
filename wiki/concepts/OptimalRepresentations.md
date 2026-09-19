@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Memory_Wall]]
+[[Memristive_STDP]]
 [[Memristive_Topology]]
 [[Memristor]]
 [[Memristor_Synapse]]

@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[FormalLinguisticCompetence]]
 [[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]
+[[HodgkinHuxleyDynamics]]
 [[Intelligence_Emergence]]
 [[MeasurementInducedTopologicalPhaseTransition]]
 [[Memristor]]

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AnisotropicTensileStrength]]
 [[ByteDance_Ada_Chip]]
 [[CST_Equation]]
 [[CST_MasterEquation]]
@@ -36,12 +37,14 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_Review_Process]]
 [[SDI_STDP]]
+[[SDI_iNEST]]
 [[SDI_iNEST_Topology]]
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[Universal_Scaling_Laws]]
 [[iNEST]]
+[[iNEST_Topology]]
 [[scaling laws]]
 
 ## Sources

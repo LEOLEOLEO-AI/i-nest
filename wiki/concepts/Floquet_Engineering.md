@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Pipelined_Processor_Integration]]
 [[QuantumDissipativeReservoir]]
 [[Reservoir_Computing]]
+[[TCCNPU_Coordination_Roadmap]]
 [[TCC]]
 [[iNEST]]
 

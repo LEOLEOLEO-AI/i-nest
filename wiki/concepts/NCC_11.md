@@ -24,12 +24,13 @@ Auto-extracted concept from raw material compilation.
 [[AI_Driven_Architecture_Search]]
 [[AI_Faculty_Forum_2026]]
 [[AI_Forum_Demo_Narrative]]
-[[advanced packaging]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[AssociativeMemoryTopology]]
 [[Bond_Operation_Algebra]]
 [[BurstInterleaving]]
+[[CellularSheaf]]
 [[Chemical_Bond_Operation_Algebra]]
 [[CrossDomain_Integration]]
 [[DelayTolerantNetworkUAV]]
@@ -42,7 +43,6 @@ Auto-extracted concept from raw material compilation.
 [[SOC]]
 [[TCC]]
 [[Topology_Centric_Placement]]
-[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[ST_SNN]]
 [[SpikingMultimodalFusion]]
+[[SpikingNeuralImplementation]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TemporalBatchSynchronization]]

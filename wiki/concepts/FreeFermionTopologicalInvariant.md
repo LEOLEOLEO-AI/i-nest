@@ -29,12 +29,14 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Service_Orchestration]]
 [[AdiabaticMultimodeBend]]
 [[AdvancedPackagingInterconnect]]
-[[advanced packaging]]
+[[AdvancedPackaging]]
+[[Advanced_Packaging]]
 [[Allreduce_Latency_Probe]]
 [[AndersonTransition]]
 [[Architectural_Conditioning]]
 [[Bipartite_Interconnect]]
 [[Bipartite_Interconnect_Design]]
+[[CavityMethodAnalysis]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
@@ -65,7 +67,6 @@ Auto-extracted concept from raw material compilation.
 [[TopologicalAndersonChernInsulator]]
 [[TopologyAware_Grouping]]
 [[VectorFlowField]]
-[[advanced packaging]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

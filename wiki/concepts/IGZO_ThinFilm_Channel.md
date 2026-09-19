@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[AtomicGeometryEncoding]]
 [[BrownianCastleInterface]]
 [[CouplingTopologyMemoryLink]]
+[[DynamicFieldEffect]]
 [[FlexibilityThreshold]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

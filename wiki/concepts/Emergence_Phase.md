@@ -58,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[Pseudofractal_Web]]
 [[TCC]]
 [[TopologicalDataCompression]]
+[[TopologyConditionedLearning]]
 [[Topology_Manifold_Computing]]
 [[iNEST]]
 [[涌现]]

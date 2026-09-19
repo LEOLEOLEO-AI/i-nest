@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Continuous_Control_Spike_Timing_Sensitivity]]
 [[CorticalWaveRouting]]
 [[DiscreteSTDP]]
+[[EnergyProportionalityCeiling]]
 [[EventCameraTemporalEncoding]]
 [[EventDrivenRiskAssessment]]
 [[Event_Driven_Architecture]]

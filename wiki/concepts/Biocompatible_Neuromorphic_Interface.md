@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[ConfinementMechanism]]
 [[Confinement]]
 [[CooperationEmergenceThreshold]]
+[[CriticalBranchingMechanism]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

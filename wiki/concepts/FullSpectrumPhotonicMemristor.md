@@ -26,6 +26,8 @@ Auto-extracted concept from raw material compilation.
 [[CST计量仪]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[CommunicationHeterogeneity]]
+[[Complex_System_Theory]]
 [[Heterogeneous_Integration]]
 [[HybridResistiveMemoryCIM]]
 [[In_Memory_Computing]]

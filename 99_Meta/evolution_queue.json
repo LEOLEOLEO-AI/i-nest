@@ -14,11 +14,11 @@
       "id": "EV-2026-07-19-002",
       "priority": "medium",
       "type": "git_hygiene",
-      "title": "Git hygiene: 113 uncommitted changes",
+      "title": "Git hygiene: 5995 uncommitted changes",
       "detail": "Commit or review outstanding changes.",
       "status": "pending",
-      "last_seen": "2026-09-18T11:29:23.871225",
-      "occurrences": 53,
+      "last_seen": "2026-09-18T18:30:05.081457",
+      "occurrences": 55,
       "observed_values": [
         "113 uncommitted changes",
         "83 uncommitted changes",
@@ -1094,8 +1094,8 @@
       "title": "Pipeline zero-paper alert: API connectivity check",
       "detail": "Recent runs with zero new papers: 6",
       "status": "pending",
-      "last_seen": "2026-09-18T11:29:23.871225",
-      "occurrences": 2,
+      "last_seen": "2026-09-18T18:30:05.081457",
+      "occurrences": 4,
       "observed_values": [
         "API connectivity check"
       ],
@@ -1114,7 +1114,7 @@
       "superseded_at": "2026-09-18T08:27:44.963903"
     }
   ],
-  "last_updated": "2026-09-18T11:29:23.871225",
+  "last_updated": "2026-09-18T18:30:05.081457",
   "consolidated": {
     "at": "2026-09-18T08:27:44.963903",
     "by": "consolidate_evolution_queue.py",

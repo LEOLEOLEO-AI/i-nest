@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[MagnitudePhaseComputationalModel]]
 [[MixedSignalSNN_CoDesign]]
 [[Network_Topology_Design]]
+[[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[Nonlinear_Gain]]

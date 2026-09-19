@@ -22,7 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
-[[chiplet interconnect]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Topology]]
@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Interconnect]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
+[[Wafer_Scale_Topology]]
 [[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]

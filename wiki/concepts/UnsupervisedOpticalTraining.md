@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveLocalLearning]]
 [[AdaptiveSTDP]]
 [[AdaptiveSpeechToSpikeEncoding]]
+[[Adaptive_EW_Neuromorphic_Controller]]
 [[Bidirectional_Temporal_Enhancement]]
 [[CirculateFiringNeuron]]
 [[Controlled_Release_Kinetics]]

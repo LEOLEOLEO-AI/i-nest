@@ -62,6 +62,7 @@ Auto-extracted concept from raw material compilation.
 [[StressDrivenNetworkMorphogenesis]]
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
+[[Technology_Readiness_Forecast_2045]]
 [[iNEST]]
 
 ## Sources

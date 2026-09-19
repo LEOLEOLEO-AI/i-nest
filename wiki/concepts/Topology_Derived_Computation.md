@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Active_Inference_Agent]]
 [[AndersonTransition]]
+[[AthermalDynamics]]
 [[BackflowTransformation]]
 [[BayesianDomainEvolution]]
 [[BoundaryObject_Abstraction]]

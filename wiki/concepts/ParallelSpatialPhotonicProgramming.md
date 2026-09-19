@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[ActivityAvalanche]]
 [[Adaptive_Deep_Brain_Stimulation]]
 [[AddressRedundancyElimination]]
+[[Adjoint_Gradient_Propagation]]
 [[AllOpticalHebbianLearning]]
 [[BrainActivityPrediction]]
 [[CombinedImportanceScoring]]

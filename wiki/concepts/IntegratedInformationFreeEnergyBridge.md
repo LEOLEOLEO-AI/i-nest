@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[DiscreteSTDP]]
 [[EEGSpikeEncoding]]
 [[ErrorAmplificationLimits]]
+[[EventDrivenSynchronization]]
 [[EventDrivenWeightUpdate]]
 [[FlexibilityThreshold]]
 [[Network_Topology_Design]]

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveDensityControl]]
 [[Anisotropic_Square_Lattice]]
 [[AnomalousLocalization]]
+[[ApproximantLattice]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[DirectTrainingSNN]]
 [[Direct_Training_Spiking_Neural_Networks]]
 [[Distributed_Spike_Communication]]
+[[ElectronicBurstingNeuron]]
 [[EnergyEfficientRestoration]]
 [[EventDrivenInference]]
 [[EventDrivenWeightUpdate]]
@@ -54,8 +55,8 @@ Auto-extracted concept from raw material compilation.
 [[ScalableSNN_GPU_Training]]
 [[SpikeEncodingLatency]]
 [[SpikeEncoding]]
-[[Spiking_Transformer]]
 [[Spiking_Neural_Network]]
+[[Spiking_Transformer]]
 [[TCC]]
 [[iNEST]]
 

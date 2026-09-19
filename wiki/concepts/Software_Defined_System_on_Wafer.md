@@ -22,7 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
-[[chiplet interconnect]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[CommunicationAsComputation]]
 [[Heterogeneous_Integration]]
@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC]]
 [[NoC_Chiplet_iNEST_Wafer]]
 [[OnWafer_2D_Mesh]]
+[[Packaging_CoDesign]]
 [[SDI_Bond]]
 [[SDSoW]]
 [[SDSoW_Architecture]]

@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[ImaginaryGaugePhaseImprint]]
 [[Intelligence_Emergence]]
 [[LocalStructuralPlasticity]]
+[[Memristive_STDP]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]

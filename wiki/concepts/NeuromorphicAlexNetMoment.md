@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalStateInformationMaximization]]
 [[CrossLayer_SignalRouting]]
 [[DVS_SNN_FPGA_Pipeline]]
+[[DelayCodedWorkingMemory]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
 [[PPT]]

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Defense_Industrial_Base_Reshaping]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Topology]]
+[[MicroRouter_Embedding]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC]]

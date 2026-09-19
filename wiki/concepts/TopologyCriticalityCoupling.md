@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalSusceptibilityResponse]]
 [[CriticalityOnSmallWorlds]]
 [[Criticality]]
+[[Criticality_Feature_Encoding]]
 [[Criticality_Transition]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

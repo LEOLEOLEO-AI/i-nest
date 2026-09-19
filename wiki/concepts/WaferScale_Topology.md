@@ -27,7 +27,8 @@ Auto-extracted concept from raw material compilation.
 [[AdiabaticMultimodeBend]]
 [[AdsorptionBiosorptionHybrid]]
 [[AdvancedPackagingInterconnect]]
-[[advanced packaging]]
+[[AdvancedPackaging]]
+[[Advanced_Packaging]]
 [[Allreduce_Latency_Diagnostic]]
 [[Bipartite_Interconnect]]
 [[Bipartite_Interconnect_Design]]
@@ -36,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet]]
 [[Chiplet_Based_Architecture]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_Packaging]]
 [[Chiplet_Stacking]]
 [[Heterogeneous_Integration]]
@@ -44,7 +46,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Topology]]
-[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

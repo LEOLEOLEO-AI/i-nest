@@ -31,7 +31,8 @@ Auto-extracted concept from raw material compilation.
 [[ActivityPropagationCascade]]
 [[AddressRedundancyElimination]]
 [[AdvancedPackagingInterconnect]]
-[[advanced packaging]]
+[[AdvancedPackaging]]
+[[Advanced_Packaging]]
 [[AdversarialMedicalRobustness]]
 [[AllOpticalHebbianLearning]]
 [[BulletTrainScheduling]]
@@ -57,12 +58,12 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[NoC]]
 [[NoC_EventRouting]]
+[[NonHermitian_Topology]]
 [[PartialLabel_Propagation]]
 [[QuarantineCostTradeoff]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[Technology_Disparity_Offset]]
-[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

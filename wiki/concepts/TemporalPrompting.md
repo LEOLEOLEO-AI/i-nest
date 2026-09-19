@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[MoE_Routing]]
 [[MultifractalCriticalPhase]]
 [[Network_Topology_Design]]
+[[NeuromorphicRadarFrontend]]
 [[Neuromorphic_Computing]]
 [[Orientation_Encoding_Latent_Spaces]]
 [[Receptron_Unit]]

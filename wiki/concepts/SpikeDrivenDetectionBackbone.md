@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[6万+辛顿2025年度全景实录深读｜真正的智能与硅基智能的非对称演进]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Chiplet]]
 [[Chiplet_Based_Neuromorphic_Integration]]
@@ -53,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[ST_SNN]]
 [[SpikeRatePrecisionTradeoff]]
 [[Spike_Encoding_of_fMRI]]
+[[Spiking neural network]]
 [[SpikingNeuronOptimization]]
 [[Spiking_Neural_Network]]
 [[Supervised_Hebbian_Learning]]

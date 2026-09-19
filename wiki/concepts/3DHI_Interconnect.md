@@ -25,8 +25,8 @@ Auto-extracted concept from raw material compilation.
 [[3d]]
 [[Additive_Manufacturing_Topology]]
 [[AdvancedPackagingInterconnect]]
-[[advanced packaging]]
-[[advanced packaging]]
+[[AdvancedPackaging]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
@@ -51,7 +51,9 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Interconnect]]
 [[NoC_SDI]]
 [[NoC_SDI_Topology]]
+[[NoC_Topology_Bottleneck]]
 [[OpticalNetworkOnChip]]
+[[P_Paradigm]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]
 [[SDI_NoC_Integration]]
@@ -61,7 +63,6 @@ Auto-extracted concept from raw material compilation.
 [[TopologicalAndersonChernInsulator]]
 [[Topology_Centric_LLM_Acceleration]]
 [[WideLink_NoC_Router]]
-[[advanced packaging]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

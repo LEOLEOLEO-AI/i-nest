@@ -22,13 +22,13 @@ Auto-extracted concept from raw material compilation.
 
 [[3DHI_Chiplet_Integration]]
 [[3d]]
-[[advanced packaging]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[AgentReputationLedger]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]
-[[chiplet interconnect]]
+[[Chiplet_Interconnect]]
 [[Chiplet_NoC_Interconnect]]
 [[Chiplet_Stacking]]
 [[Collective_Offloading]]
@@ -39,7 +39,6 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Interconnect]]
 [[P_Paradigm]]
 [[TCC]]
-[[advanced packaging]]
 [[chiplet interconnect]]
 [[iNEST]]
 

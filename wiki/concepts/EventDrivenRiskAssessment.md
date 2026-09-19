@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[CellEmergence]]
 [[ConductingPolymerDendriteMemory]]
+[[ContinualLearningOnNeuromorphic]]
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[CriticalityInNetworkComputing]]
 [[Criticality]]
@@ -59,12 +60,14 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Encoding_of_fMRI]]
 [[SpikingNeuralNetworkTopologyMapping]]
 [[SpikingNeuralNetworkTopology]]
-[[Spiking_Neural_Network]]
+[[SpikingNeuralNetwork]]
 [[SpikingTopologyAnalysis]]
 [[SpikingTopologyMapping]]
+[[SpikingTopology]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[TCC_SpikingIntegration]]
+[[TCC_Spiking]]
 [[iNEST]]
 
 ## Sources

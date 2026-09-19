@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[3d]]
 [[AcceleratorReconfigurationOverhead]]
 [[AdaptiveFunctionalTopology]]
+[[AtomicGeometryEncoding]]
 [[BarrierConditionedTrajectory]]
 [[BrownianCastleInterface]]
 [[CollectiveSpikingDynamics]]

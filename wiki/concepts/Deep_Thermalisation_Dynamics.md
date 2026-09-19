@@ -31,7 +31,8 @@ Auto-extracted concept from raw material compilation.
 [[AdiabaticMultimodeBend]]
 [[AdsorptionBiosorptionHybrid]]
 [[AdvancedPackagingInterconnect]]
-[[advanced packaging]]
+[[AdvancedPackaging]]
+[[Advanced_Packaging]]
 [[Allreduce_Latency_Diagnostic]]
 [[Allreduce_Latency_Probe]]
 [[AnalogInMemoryComputing]]
@@ -41,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Bipartite_Interconnect_Design]]
 [[CausalIntegrationTopology]]
 [[CavityMethodAnalysis]]
+[[ChipletTrafficAwareScheduling]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
@@ -66,7 +68,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TSVInterconnectReliability]]
 [[TopologicalAndersonChernInsulator]]
-[[advanced packaging]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenModularArchitecture]]
 [[EvolutionarySpikeTimingOptimization]]
 [[Hardware_Aware_SNN_Optimization]]
+[[IMPLY_ISA]]
 [[Interconnect_Routing]]
 [[KinematicWavePropagation]]
 [[LossSpikePhenomenon]]

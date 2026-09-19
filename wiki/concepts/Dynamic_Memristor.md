@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor]]
 [[Memristor_Interconnect]]
 [[Memristor_Synapse]]
+[[NeuromorphicObserverArchitecture]]
 [[Neuromorphic_Computing]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]

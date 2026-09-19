@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[CorticalWaveRouting]]
 [[CrossbarArrayVLSI]]
+[[Cryogenic_Syndrome_Compression]]
 [[FirstPrinciples_Derivation]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]

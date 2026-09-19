@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[EdgeIoTEnergyAwareness]]
 [[GNN图神经网络，非结构化数据分析利器！]]
 [[GroupWise_DragonflyPlus]]
+[[HighSpeedInference]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]
 [[Milinkovic B (2024)：复杂神经系统涌现动力学结构]]

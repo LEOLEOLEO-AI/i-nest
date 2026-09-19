@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[Attention_Residuals]]
 [[BoundaryObject_Abstraction]]
+[[ByteDance_Ada_Chip]]
 [[DARPA_ProjectManager_Model]]
 [[Deep_Network_Architecture_Invariant]]
 [[Defense_Industrial_Base_Reshaping]]

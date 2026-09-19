@@ -34,7 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveGraphDiffusion]]
 [[Adaptive_Intelligence_Principle]]
 [[Adaptive_Service_Orchestration]]
-[[advanced packaging]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[AmorphousTopologicalSubstrate]]
 [[Attention_Residuals]]
@@ -67,7 +67,7 @@ Auto-extracted concept from raw material compilation.
 [[Spatiotemporal_Prior_Encoding]]
 [[TCC]]
 [[TopologicalDataCompression]]
-[[advanced packaging]]
+[[TopologyConditionedLearning]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

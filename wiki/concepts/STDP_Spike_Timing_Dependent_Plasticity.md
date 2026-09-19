@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[CriticalFluctuationReservoir]]
 [[DissipativeQuantumReservoir]]
+[[DynamicalSelfDualCriticality]]
 [[Intelligence_Emergence]]
 [[Local_Plasticity]]
 [[Network_Topology_Design]]

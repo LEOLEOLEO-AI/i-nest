@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[AINext_Initiative]]
 [[AnomalousSpinTransport]]
 [[AstrocyteInspiredRepair]]
@@ -59,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN_Intrusion_Detection_Config]]
 [[Self_Organized_Criticality]]
 [[SpikingTopologyEvolution]]
+[[SpikingTopology]]
 [[Spiking_Neural_Network]]
 [[StochasticBinaryDynamics]]
 [[SurrogateGradientAsymmetry]]

@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[DiscreteScaleInvariance]]
 [[DivergentHigherAreaRanking]]
 [[EvolutionaryReservoirOptimization]]
+[[Interconnect_Routing]]
 [[MultipartiteEntanglementFractal]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
@@ -51,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[ProjectiveMeasurementRouting]]
 [[RandomisedPathGeneration]]
 [[Reservoir_Computing]]
+[[Structural_Reservoir_Mapping]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

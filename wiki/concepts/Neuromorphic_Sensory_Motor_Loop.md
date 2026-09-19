@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_SNN]]
 [[MixedSignalSNN_CoDesign]]
 [[NUMA_Balancing_Overhead]]
+[[NeuromorphicHardwareCoDesign]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[PipelinedReadout]]

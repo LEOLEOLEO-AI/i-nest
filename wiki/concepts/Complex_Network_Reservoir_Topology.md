@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Evolving_System_Adaptation]]
 [[FirstPrinciples_AI]]
 [[FisherOrthogonalMemory]]
+[[Hyper_Dimensional_Computing]]
 [[MasterEquationRG]]
 [[MeanFieldSpinGlass]]
 [[Memory_Technology_Coexistence]]

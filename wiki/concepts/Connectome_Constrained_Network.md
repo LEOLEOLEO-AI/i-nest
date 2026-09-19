@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[ConnectomeFidelityClaim]]
 [[Connectome]]
 [[FlexibilityThreshold]]
+[[FrozenRateOperator]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]

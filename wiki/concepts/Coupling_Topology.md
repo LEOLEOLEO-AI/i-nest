@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[ErrorSuppressedPipeline]]
 [[HierarchicalReservoirDynamics]]
 [[HigherOrderTransitionKernel]]
+[[L2_L3_Reconfigurability]]
 [[MultipartiteEntanglementFractal]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

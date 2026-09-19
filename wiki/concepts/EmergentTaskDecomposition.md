@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[InterconnectAwareGradientAggregation]]
 [[MachineLearningPotential]]
+[[MeasurementEfficientProtocol]]
 [[NestedRepresentation]]
 [[Network_Topology_Design]]
 [[NoiseInjectedForwardPass]]

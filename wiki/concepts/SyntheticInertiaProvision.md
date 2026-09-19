@@ -62,6 +62,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeBasedGradientDescent]]
 [[Spiking_Neural_Network]]
 [[TCC]]
+[[Technology_Disparity_Offset]]
 [[Topology_Aware_Spike_Routing]]
 [[analog computation]]
 [[iNEST]]

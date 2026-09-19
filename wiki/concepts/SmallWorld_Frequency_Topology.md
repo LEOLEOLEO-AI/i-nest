@@ -27,17 +27,21 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[BigBrainCellularAxis]]
 [[CST计量仪]]
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration]]
 [[Chiplet_Integration_Route]]
+[[CommunicationHeterogeneity]]
 [[Complex_System_Theory]]
 [[Memristor]]
 [[Memristor_Network]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Interconnect]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
 [[iNEST]]
-[[neuromorphic interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

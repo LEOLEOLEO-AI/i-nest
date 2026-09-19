@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[EmergentIntelligence_Spacetime]]
 [[ErrorSuppressedPipeline]]
 [[Heterogeneous_Inference_Division]]
+[[InMateriaComputing]]
 [[Intelligence_Emergence]]
 [[Neuromorphic_Computing]]
 [[Scalable_Neuromorphic_System]]

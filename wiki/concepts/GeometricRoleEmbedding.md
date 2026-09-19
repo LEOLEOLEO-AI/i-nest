@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[IoTEdgeEnergyOptimization]]
 [[LC_Resonance_Emergence]]
+[[LearningTransition]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[SDI_Bond]]

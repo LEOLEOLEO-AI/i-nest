@@ -35,7 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]
 [[InNetworkNeuromorphicEmergence]]
-[[In_Network_Neuromorphic]]
+[[InNetworkNeuromorphic]]
 [[InNetwork_CST_Offload]]
 [[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Processing]]
@@ -89,6 +89,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST_Neuromorphic_Integration]]
 [[iNEST_Neuromorphic_Topology]]
 [[residual connection]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

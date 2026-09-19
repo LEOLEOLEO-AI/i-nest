@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Distributed_Spike_Communication]]
 [[EdgeInspectionInference]]
 [[Event_Driven_Architecture]]
+[[FPGASNNMemoryOptimization]]
 [[Hardware_Neuron_Equations]]
 [[Heterogeneous_Integration]]
 [[In_Package_Neuromorphic_Integration]]

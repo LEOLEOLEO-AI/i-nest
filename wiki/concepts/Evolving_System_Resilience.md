@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[InterpolationLearningTransition]]
 [[Long_Range_Interactions]]
 [[MatrixShapePhaseTransition]]
 [[Memristive_Topology]]

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Decoupling_Mechanism]]
 [[Defense_Industrial_Base_Reshaping]]
 [[DynamicPlasticNetwork]]
+[[FPGA_Neuromorphic_Architectures]]
 [[Free_Energy_Topology_Mapping]]
 [[GenerativeTopologyModels]]
 [[Network_Topology_Design]]

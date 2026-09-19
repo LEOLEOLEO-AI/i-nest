@@ -58,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[Nanoscale_Memristive_Threats]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Parallelized_Hierarchical_Connectome]]
 [[PowerLawScaling]]
 [[QuantumReservoirMemoryCapacity]]
 [[Readout_Weight_Training]]

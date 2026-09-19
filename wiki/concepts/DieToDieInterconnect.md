@@ -21,10 +21,12 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3D_IC_Stacking]]
+[[3D_Integrated_Chiplet_Stacking]]
+[[3d]]
 [[ChipletWaferInterconnectScaling]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
-[[chiplet interconnect]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Heterogeneous_Integration]]
 [[HighDensitySiliconInterposer]]

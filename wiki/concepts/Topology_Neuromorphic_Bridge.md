@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenRiskAssessment]]
 [[EventTriggeredDistributedControl]]
 [[FrustratedDimerMagnet]]
+[[FunctionalInterfaceBlocks]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

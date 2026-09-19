@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AcousticAnomalyDetection]]
 [[CommunicationAwareComputeRelocation]]
 [[DecliningModularity]]
+[[EmulationTheoryDisturbanceObserver]]
 [[Express_Links]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]

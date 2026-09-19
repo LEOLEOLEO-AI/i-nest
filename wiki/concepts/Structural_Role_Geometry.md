@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[Generative_Model_Topology]]
 [[GraphStructuredRetrieval]]
 [[Heterogeneous_Integration]]
+[[HigherOrderStochasticProcess]]
 [[HigherOrderSynchronization]]
 [[Knowledge_Graph_Navigation]]
 [[Network_Topology_Design]]

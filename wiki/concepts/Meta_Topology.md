@@ -28,11 +28,12 @@ Auto-extracted concept from raw material compilation.
 [[AI_Driven_Architecture_Search]]
 [[AI_Faculty_Forum_2026]]
 [[AI_Forum_Demo_Narrative]]
-[[advanced packaging]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[Bond_Operation_Algebra]]
 [[BoundaryContract]]
 [[BoundaryObject_Abstraction]]
+[[ByteDance_Ada_Chip]]
 [[Chemical_Bond_Operation_Algebra]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -45,7 +46,6 @@ Auto-extracted concept from raw material compilation.
 [[Independent_EdgeAI_Player_Endgame]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
-[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Architecture]]
 [[Heterogeneous_Integration]]
 [[InSensorMemoryComputing]]
+[[In_Network_Generative_Inference]]
 [[In_Package_Neuromorphic_Integration]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]

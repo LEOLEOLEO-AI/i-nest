@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[EvolutionaryReservoirOptimization]]
 [[Fixed_Reservoir_Unitary]]
 [[HardwareAware_DesignSpace]]
+[[Interconnect_Routing]]
 [[LindbladInspiredReservoir]]
 [[MultipartiteEntanglementFractal]]
 [[Network_Topology_Design]]
@@ -56,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[ShortTermMemoryReservoir]]
 [[ShortTermMemory]]
+[[Structural_Reservoir_Mapping]]
 [[iNEST]]
 
 ## Sources

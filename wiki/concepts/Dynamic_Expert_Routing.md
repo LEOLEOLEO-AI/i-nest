@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Controlled_Release_Kinetics]]
 [[CorticalTravelingWave]]
 [[CorticalWaveRouting]]
+[[CrossbarArrayVLSI]]
 [[Dynamic_Expert_Fusion]]
 [[ExplainableEnergyAI]]
 [[FunctionalRelevanceDrivenSelfOrganization]]

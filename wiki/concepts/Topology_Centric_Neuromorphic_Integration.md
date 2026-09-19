@@ -59,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[StructuralPriorEncoding]]
 [[TCC]]
+[[TemperatureReplicaExchange]]
 [[Topology_Centric_Neuromorphic]]
 [[neuromorphic spiking]]
 

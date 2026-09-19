@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[DiagnosticReportFramework]]
 [[DynamicServiceComposition]]
 [[EfficientDeepLearning]]
+[[EnergyOptimizedManycoreArchitecture]]
 [[GraphBasedSemanticRouting]]
 [[Heterogeneous_Integration]]
 [[HigherOrderTopology]]

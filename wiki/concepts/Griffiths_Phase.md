@@ -33,7 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[CST_Spatiotemporal_Coefficient]]
 [[CausalEmergenceCondition]]
-[[causal emergence]]
+[[Causal_Emergence]]
 [[Causal_Emergence_Integration]]
 [[CeYIGMagnetoOpticalIsolator]]
 [[ChannelCountScaling]]
@@ -42,8 +42,10 @@ Auto-extracted concept from raw material compilation.
 [[DendriticReservoirState]]
 [[DeviceLevelNonlinearityScaling]]
 [[DeviceLevelNonlinearity]]
+[[Dynamical_Critical_Exponent]]
 [[Intelligence_Emergence]]
 [[L2_L3_Reconfigurability]]
+[[Mucosal_Immune_PhaseTransition]]
 [[Network_Topology_Design]]
 [[NeuromorphicStatusAwareness]]
 [[Neuromorphic_Computing]]
@@ -57,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[ThermallyDrivenSuperparamagnetReservoir]]
 [[Topological_Quantum_Error_Correction]]
 [[TopologyDrivenSignalPropagation]]
+[[causal emergence]]
 [[类脑芯片]]
 
 ## Sources

@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalPhaseTransitionStatisticalTest]]
 [[Criticality]]
 [[Criticality_Induced_Plasticity]]
+[[Crystallized_Neural_Manifolds]]
 [[DataProvenanceIntegrity]]
 [[Edge_AI_Acquisition_Consolidation]]
 [[FirstPrinciples_Derivation]]

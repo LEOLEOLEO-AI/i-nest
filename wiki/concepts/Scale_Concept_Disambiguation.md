@@ -36,11 +36,13 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[KeyMaterialStrategy]]
 [[Mesoscale_Heterogeneous_Integration]]
+[[Neuromorphic_Computing]]
 [[SpaceForTime_Neuromorphic]]
 [[TCC]]
 [[WaferScaleMesoscopicNetwork]]
 [[Wafer_Interconnect]]
 [[Wafer_Scale_Integration]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
 
 ## Sources

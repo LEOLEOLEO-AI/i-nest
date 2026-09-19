@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[NetworkArchitectureSearch]]
 [[Network_Topology_Design]]
 [[Neural_Avalanche]]
 [[Neuromorphic_Acceleration]]

@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[ActionPrototypeClustering]]
 [[AdversarialSensingResilience]]
+[[Air_Combat_Autonomy]]
 [[Analog_InMemory_Processing]]
 [[ChargeDomainAttention]]
 [[CrossbarArrayVLSI]]

@@ -34,7 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Verifiability]]
 [[Hardware_Accelerated_SNN]]
 [[InNetworkNeuromorphicEmergence]]
-[[In_Network_Neuromorphic]]
+[[InNetworkNeuromorphic]]
 [[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Processing]]
 [[Intelligence_Emergence]]
@@ -60,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[ST_SNN]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]
@@ -70,6 +71,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect_Memristor]]
 [[Wafer_Scale_Neuromorphic]]
 [[iNEST]]
+[[iNEST_Neuromorphic_Integration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

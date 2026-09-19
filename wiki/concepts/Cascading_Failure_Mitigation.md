@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[ConsciousnessEngineeringLoop]]
 [[CrossInstitutionalNetwork]]
 [[CrossLayer_SignalRouting]]
+[[Cryogenic_Syndrome_Compression]]
 [[CrystalPalace_Program]]
 [[DTGA]]
 [[Deep_Thermalisation]]

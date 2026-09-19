@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[CrossLayer_SignalRouting]]
 [[CrossbarArrayVLSI]]
+[[Cryogenic_Syndrome_Compression]]
 [[ElectrochemicalSensingArray]]
 [[Environmental_Capability_Context]]
 [[FirstPrinciples_Derivation]]

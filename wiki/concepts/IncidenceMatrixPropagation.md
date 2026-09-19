@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[ExactEvolutionLaw]]
 [[ExactWiringRouting]]
 [[FPGA_Reconfigurability]]
+[[GrandCanonicalOptimization]]
 [[HybridCouplingThermosensitiveNetwork]]
 [[InSitu_Adjoint_Wave_Control]]
 [[Inference_Workload_Profiling]]

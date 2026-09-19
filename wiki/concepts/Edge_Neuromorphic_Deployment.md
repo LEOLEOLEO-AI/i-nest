@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[AdaptiveFlexibilityThreshold]]
 [[Adaptive_Deep_Brain_Stimulation]]
+[[AtomicGeometryEncoding]]
 [[FlexibilityThreshold]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[MatrixShapePhaseTransition]]
+[[MemoryDrivenVectorFlowFieldRouting]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]

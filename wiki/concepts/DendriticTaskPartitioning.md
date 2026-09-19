@@ -57,6 +57,8 @@ Auto-extracted concept from raw material compilation.
 [[SpikeRatePrecisionTradeoff]]
 [[Spike_Encoding_of_fMRI]]
 [[SpikingPlaceCellEnsemble]]
+[[SpikingPointCloudPEFT]]
+[[SpikingTopology]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]

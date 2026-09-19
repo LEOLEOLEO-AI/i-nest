@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Environmental_Capability_Context]]
 [[ErrorSuppressedPipeline]]
 [[EventDrivenModularArchitecture]]
+[[EvolutionaryDiversityPreservation]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[LargeDeviationTopologicalOrder]]

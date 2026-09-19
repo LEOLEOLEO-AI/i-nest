@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[ActivityPropagationCascade]]
 [[Activity_Energy_Tradeoff]]
 [[Adaptive_Deep_Brain_Stimulation]]
+[[EventCameraPoseInput]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[NonreciprocalQuasiperiodicLattice]]
@@ -34,7 +35,9 @@ Auto-extracted concept from raw material compilation.
 [[SDI_STDP_Fusion]]
 [[SNN]]
 [[STDP_Plasticity]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
 

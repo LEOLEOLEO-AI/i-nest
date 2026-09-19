@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspired_Interception_Control]]
 [[CircuitTopologyEncoding]]
 [[Cognitive_Relapse_Decoupling]]
+[[ContinualLearningOnNeuromorphic]]
 [[Continual_Learning_Modularity]]
 [[CounterstreamSignalPropagation]]
 [[CriticalityDrivenStateTransition]]

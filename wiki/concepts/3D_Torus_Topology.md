@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[CrossbarArrayVLSI]]
 [[Heterogeneous_Integration]]
+[[InterWafer_SwarmX]]
 [[KeyMaterialStrategy]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

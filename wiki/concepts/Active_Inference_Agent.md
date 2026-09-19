@@ -66,6 +66,7 @@ Auto-extracted concept from raw material compilation.
 [[Scale_Dependent_Coherence]]
 [[Synaptic_Plasticity]]
 [[Syncytial_Mesh]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
 [[perspective latents]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]

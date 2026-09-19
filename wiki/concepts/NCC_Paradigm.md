@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
 [[Collective_Offloading]]
+[[CorticalTypeDiversity]]
 [[Decoupled_Priors]]
 [[Deep_Network_Architecture_Invariant]]
 [[Dynamic_Communication_Reconfiguration]]

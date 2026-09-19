@@ -60,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_iNEST_Wafer]]
 [[Obsidian_Plugin_Architecture]]
 [[P_Paradigm]]
+[[Path_Redundancy_Management]]
 [[RTC_Primitive]]
 [[RTC_Primitives]]
 [[RecursiveSelfReferentialArchitecture]]

@@ -26,12 +26,13 @@ Auto-extracted concept from raw material compilation.
 [[3d]]
 [[4H_SiC_SubstrateProcessing]]
 [[AI_Faculty_Forum_2026]]
-[[advanced packaging]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[AnalogInMemoryComputing]]
 [[Analog_Synaptic_Weighting]]
 [[Asymmetric_Interaction_Matrix]]
 [[Attention_Residuals]]
+[[BackpropagationFreeLearning]]
 [[Butterfly_Network]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -41,7 +42,6 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[TCC]]
 [[Three_Primitives]]
-[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

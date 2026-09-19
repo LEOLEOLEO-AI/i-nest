@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Emerging_CMOS_Memristor_Devices]]
 [[Energy_Efficient_Control]]
 [[Evolutionary_Computability]]
+[[ExplosiveCooperationTransition]]
 [[FerroelectricMemoryCell]]
 [[FerroelectricTunnelingJunction]]
 [[Ferroelectric_Devices]]

@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[ConnectomeFidelityClaim]]
 [[Connectome]]
 [[Connectome_Inspired_Neuromorphic]]
+[[DefectDynamics]]
 [[FlexibilityThreshold]]
 [[Neuromorphic_Computing]]
 [[iNEST]]

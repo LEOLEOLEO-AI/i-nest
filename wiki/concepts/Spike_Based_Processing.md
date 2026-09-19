@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[BioPlausiblePredictiveCoding]]
+[[BrainInspiredArchitecture]]
 [[BrainInspired_Chip]]
 [[BurstGatedRouting]]
 [[ContinualLearningOnNeuromorphic]]

@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Theory]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Topological_Alignment]]
+[[GradientFreeTraining]]
 [[Heterogeneous_Integration]]
 [[Hyper_Dimensional_Computing]]
 [[InNetworkAgentRewiring]]

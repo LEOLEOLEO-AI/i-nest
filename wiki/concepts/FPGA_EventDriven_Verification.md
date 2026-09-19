@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[DelayAwareSpikeEventDelivery]]
 [[EnergyEfficientSNN]]
+[[EnergyProportionalityCeiling]]
 [[Event_Driven_Architecture]]
 [[GradientBasedLearningLocalization]]
 [[In_Network_Neuromorphic]]

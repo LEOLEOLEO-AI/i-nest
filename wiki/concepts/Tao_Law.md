@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Capability_Forging_Pipeline]]
 [[CognitiveSupportTopology]]
 [[Complex_System_Theory]]
+[[Complexity_Emergence_Engineering]]
 [[Constructed_Reality_Interconnect]]
 [[Defense_Industrial_Base_Reshaping]]
 [[Dynamic_Hybrid_LLM_Workload_Scheduling]]

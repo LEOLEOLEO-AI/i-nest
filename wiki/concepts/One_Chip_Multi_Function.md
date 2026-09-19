@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Liquid_Topological_Generative_Computing]]
 [[Logic_Folding]]
 [[MitigationLayers]]
+[[Multi_Function_Spaceborne_Processor]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC]]

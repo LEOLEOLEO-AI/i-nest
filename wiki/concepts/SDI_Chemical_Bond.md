@@ -22,9 +22,10 @@ Auto-extracted concept from raw material compilation.
 
 [[4H_SiC_SubstrateProcessing]]
 [[ASIC_Dualism]]
+[[CLINKAsCarrierPrimitive]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
-[[chiplet interconnect]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[CongestionAwareNoCPlacement]]
 [[DynamicServiceComposition]]

@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Application_Scenario_Reconstruction]]
 [[AndersonTransition]]
 [[AnomalousSpinTransport]]
+[[AstrocyteInspiredRepair]]
 [[Automated_Assessment_Framework]]
 [[BeyondPTSymmetry]]
 [[CausalEmergenceCondition]]

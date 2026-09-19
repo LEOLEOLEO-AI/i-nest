@@ -21,7 +21,6 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
-[[156QubitScale]]
 [[AI_Assisted_Energy_Optimization]]
 [[AdaptiveDensityControl]]
 [[AdaptiveFlexibilityThreshold]]
@@ -50,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[EmergentTaskDecomposition]]
 [[Epidemic_Mitigation_Strategy]]
 [[ErrorSuppressedPipeline]]
+[[FederatedServiceGraph]]
 [[FlexibilityThreshold]]
 [[HierarchicalCrackPatternGeneration]]
 [[HierarchicalCrackPattern]]

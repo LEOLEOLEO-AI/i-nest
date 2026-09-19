@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[BulletTrainScheduling]]
 [[BurstGatedRouting]]
 [[ContinualLearningOnNeuromorphic]]
+[[Continual_Learning_Modularity]]
 [[CriticalityInNetworkComputing]]
 [[CriticalityOffCriticalityTransition]]
 [[Criticality]]

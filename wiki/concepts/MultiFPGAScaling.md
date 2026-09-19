@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3D_Torus_6_Degree]]
 [[6万+辛顿2025年度全景实录深读｜真正的智能与硅基智能的非对称演进]]
 [[AIRA_NeuralArchSearch]]
 [[AI_FullSpectrum_Strategy]]
@@ -34,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[HigherOrderSimplicialDynamics]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[Interconnect_Topology]]
 [[Memristive_Topology]]
 [[Memristor]]
 [[Memristor_Network]]
@@ -43,9 +45,10 @@ Auto-extracted concept from raw material compilation.
 [[Nature Communications_生物神经网络中突触多样性如何让人工神经网络更强大？]]
 [[Network_Topology_Design]]
 [[NeuroRing_Topology]]
-[[Neuromorphic_Interconnect_Topology]]
 [[NeuromorphicTransformerTopology]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Interconnect]]
+[[Neuromorphic_Interconnect_Topology]]
 [[PropertyPredictionModeling]]
 [[Quantum_Spin_Glass]]
 [[ReconfigurableSpikingRouting]]

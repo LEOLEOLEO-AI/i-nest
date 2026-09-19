@@ -20,7 +20,6 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
-[[156QubitScale]]
 [[AcademicDevelopmentCoCreation]]
 [[Allreduce_Latency_Probe]]
 [[AlternativeBridgingModels]]
@@ -40,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[EcosystemTopologyCoupling]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
+[[Epidemic_Mitigation_Strategy]]
 [[ErrorSuppressedPipeline]]
 [[EvolutionaryReservoirOptimization]]
 [[FederatedServiceGraph]]

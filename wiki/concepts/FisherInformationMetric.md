@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[CoPackagedOptics]]
 [[Compute_In_Memory_Neuromorphic]]
 [[CrossDomain_Integration]]
+[[DualImpactEvaluation]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[Expert_Review_Arbitration]]

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[BoundaryObject_Abstraction]]
 [[Branch_Prediction_Reservoir]]
+[[ByteDance_Ada_Chip]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[DARPA_ProjectManager_Model]]

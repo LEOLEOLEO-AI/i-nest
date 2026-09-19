@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[DeepCode_AlgorithmExtraction]]
 [[Delocalization_Critical_Exponent]]
 [[EfficientCodingCriticality]]
+[[EnergyProportionalityCeiling]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Self_Organized_Criticality]]

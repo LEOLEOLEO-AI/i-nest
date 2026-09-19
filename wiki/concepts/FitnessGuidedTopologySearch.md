@@ -21,7 +21,6 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
-[[156QubitScale]]
 [[AINext_Initiative]]
 [[AI_Application_Scenario_Reconstruction]]
 [[AcceleratedMaterialScreening]]
@@ -50,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[RunawayAvalanche]]
 [[SimulabilityThreshold]]
 [[SpatialHeterogeneity]]
+[[SuddenLearning]]
 [[TCC]]
 [[Topological_Reservoir]]
 

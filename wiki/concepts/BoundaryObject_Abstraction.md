@@ -61,6 +61,7 @@ Auto-extracted concept from raw material compilation.
 [[NonequilibriumLangevinComputing]]
 [[Nonlinear_Gain]]
 [[P_Paradigm]]
+[[SDI_Review_Process]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[Second_Curve_Industry_Platform]]

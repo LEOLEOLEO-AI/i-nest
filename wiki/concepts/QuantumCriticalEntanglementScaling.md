@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[ContinualLearningOnNeuromorphic]]
 [[Continual_Learning_Modularity]]
 [[Continuous_Control_Spiking_Stability]]
+[[ConventionalAndSpikingDualMode]]
 [[CriticalStateDynamics]]
 [[CriticalityBasedClassification]]
 [[CriticalityDrivenEfficientCoding]]

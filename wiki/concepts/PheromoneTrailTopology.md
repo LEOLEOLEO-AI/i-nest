@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Continual_Learning_Topology]]
 [[Cryogenic_Syndrome_Compression]]
 [[DTGA]]
+[[DestructiveInterferenceConfinement]]
 [[Dynamic_Expert_Fusion]]
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]

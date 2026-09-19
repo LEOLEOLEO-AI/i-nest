@@ -55,8 +55,11 @@ Auto-extracted concept from raw material compilation.
 [[InterChipletPHYModeling]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
+[[NoC]]
 [[Photopolymerization_NoC]]
 [[TCC]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

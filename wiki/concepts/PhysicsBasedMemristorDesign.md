@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AnisotropicGaussianPrimitives]]
 [[AnomalousSpinTransport]]
+[[AstrocyteInspiredRepair]]
 [[AutonomousAdaptation]]
 [[BigBrainCellularAxis]]
 [[BrownianCastleInterface]]
@@ -40,7 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[EnsembleSparsity]]
 [[Hardware_Accelerated_SNN]]
 [[InNetworkNeuromorphicEmergence]]
-[[In_Network_Neuromorphic]]
+[[InNetworkNeuromorphic]]
 [[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Processing]]
 [[Intelligence_Emergence]]

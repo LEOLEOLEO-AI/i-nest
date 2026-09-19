@@ -21,9 +21,9 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
-[[156QubitScale]]
 [[AI_Application_Scenario_Reconstruction]]
 [[AdaptiveFunctionalTopology]]
+[[AtomicGeometryEncoding]]
 [[CoexistencePhaseDiagram]]
 [[CoexistencePhaseTransition]]
 [[CouplingMatrixRecovery]]

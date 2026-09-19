@@ -23,7 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Driven_Architecture_Search]]
 [[AI_Faculty_Forum_2026]]
 [[AI_Forum_Demo_Narrative]]
-[[advanced packaging]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[AgenticServiceOrchestration]]
 [[Agile_Resilient_Defense_Ecosystem]]
@@ -32,12 +32,12 @@ Auto-extracted concept from raw material compilation.
 [[Bipartite_Interconnect]]
 [[BoundaryObject_Abstraction]]
 [[BurstInterleaving]]
+[[ByteDance_Ada_Chip]]
 [[NCC_Paradigm]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
 [[TCC]]
-[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

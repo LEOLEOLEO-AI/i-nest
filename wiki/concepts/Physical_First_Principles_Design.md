@@ -58,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[SOC]]
 [[STDP_Plasticity]]
 [[Self_Organized_Criticality]]
+[[Semiconductor_Market_Consolidation]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[TCC_RTC原语架构与SDI拓扑变换机理]]

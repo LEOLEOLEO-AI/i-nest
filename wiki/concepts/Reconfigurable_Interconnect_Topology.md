@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspired_Interception_Control]]
 [[ControlDrivenCriticalFluctuations]]
 [[FPGA_Reconfigurability]]
+[[FunctionalRelevanceDrivenSelfOrganization]]
 [[Interconnect_Routing]]
 [[Interconnect_Topology]]
 [[Network_Topology_Design]]

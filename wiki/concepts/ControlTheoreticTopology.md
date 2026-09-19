@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[JunctionCenteredRouting]]
 [[LEO_Satellite_Routing_RL]]
+[[MeasurementInducedRouting]]
 [[Network_Topology_Design]]
 [[Synaptic_Plasticity]]
 [[TCC]]

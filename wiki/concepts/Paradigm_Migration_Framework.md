@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossDomain_Integration]]
 [[CrossLingualIdiomGraph]]
 [[Dynamic_Communication_Reconfiguration]]
+[[Dynamic_Structural_Hole_Reconfiguration]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]

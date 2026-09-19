@@ -20,12 +20,12 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
-[[advanced packaging]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[AgentReputationLedger]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
-[[chiplet interconnect]]
+[[Chiplet_Interconnect]]
 [[Chiplet_NoC_Interconnect]]
 [[Collective_Offloading]]
 [[DataMovementMinimization]]
@@ -39,8 +39,8 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Interconnect]]
 [[Photonic_Chiplet_Interconnect]]
 [[SerDes_Bandwidth_Convergence]]
+[[Spaceborne_Computing_Architecture]]
 [[TCC]]
-[[advanced packaging]]
 [[chiplet interconnect]]
 
 ## Sources

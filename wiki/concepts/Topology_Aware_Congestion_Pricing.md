@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Driven_Power_Density_Scaling]]
 [[Accessibility_Plasticity]]
 [[AdaptiveArchitecture]]
+[[AdjointWaveControl]]
 [[CommunicationAwareComputeRelocation]]
 [[DecliningModularity]]
 [[Heterogeneous_Integration]]

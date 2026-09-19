@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[AI_Orchestrator]]
 [[AdaptersInSpikingNetworks]]
+[[Agent_Workflow_Automation]]
 [[Alignment_Tax]]
 [[AllParallelNonVonNeumannArchitecture]]
 [[AstrocyteInspiredRepair]]

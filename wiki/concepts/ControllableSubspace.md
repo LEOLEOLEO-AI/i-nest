@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[DelayParameterSpaceDecomposition]]
 [[DelayParameterSweep]]
 [[Disorder_Induced_Error_Threshold_Shift]]
+[[DynamicInference]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]

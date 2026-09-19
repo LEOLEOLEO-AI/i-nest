@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[MemoryDrivenInterconnect]]
 [[Military_AI_Revolution]]
 [[Neural_Manifold_Crystallization]]
+[[NeuromorphicReplayBuffer]]
 [[Neuromorphic_Computing]]
 [[OptimalGeneralisationNearInterpolation]]
 [[OscillatoryReservoirDynamics]]

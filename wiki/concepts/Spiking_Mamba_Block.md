@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[ST_SNN]]
 [[SaliencyDrivenAttention]]
 [[SpectralSpikeEncoding]]
+[[SpikeDrivenMultiObjectTracking]]
 [[SpikeEncoding]]
 [[Spike_Encoding_of_fMRI]]
 [[SpikingAttentionComplexityReduction]]

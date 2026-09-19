@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Bond_Operation_Algebra]]
 [[BoundaryContract]]
 [[BoundaryObject_Abstraction]]
+[[ByteDance_Ada_Chip]]
 [[Chemical_Bond_Operation_Algebra]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]

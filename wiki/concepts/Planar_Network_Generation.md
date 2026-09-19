@@ -62,6 +62,7 @@ Auto-extracted concept from raw material compilation.
 [[OneDimensionalSpinGlass]]
 [[PhaseTransitionExistence]]
 [[RandomizedRecursiveMaze]]
+[[RecursiveSelfImprovementGate]]
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[TCC]]

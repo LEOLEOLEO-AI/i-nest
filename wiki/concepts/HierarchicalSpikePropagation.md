@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Bio_plausible_Neuromorphic_Disturbance_Observer]]
 [[Bipartite_Interconnect]]
 [[Bipartite_Interconnect_Design]]
+[[BranchingRatioControl]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]

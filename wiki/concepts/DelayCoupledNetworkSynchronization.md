@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[FormalLinguisticCompetence]]
 [[Fractal_Scaling]]
 [[GlassInterposerSignalIntegrity]]
+[[GutBrainAxis_Reprogramming]]
 [[HierarchicalBayesianCommunityDetection]]
 [[Intelligence_Emergence]]
 [[LocalQuantumLearningRule]]

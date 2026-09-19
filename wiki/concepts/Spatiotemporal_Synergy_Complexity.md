@@ -24,7 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[CST计量仪]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
-[[chiplet interconnect]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Complex_System_Theory]]
@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[Mesoscale_Heterogeneous_Integration]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[MetricComputationAuthenticity]]
+[[MultiplicativeGain]]
 [[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]
 [[Network_Spatiotemporal_Synergy]]
 [[Network_Topology_Design]]
@@ -100,6 +101,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[residual connection]]
 [[vLLM_plugin_FLSDI]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

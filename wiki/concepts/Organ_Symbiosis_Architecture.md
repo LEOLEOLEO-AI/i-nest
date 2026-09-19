@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Active_Inference_Agent]]
 [[AdaptiveCompetingInteractions]]
 [[AdaptiveDensityControl]]
+[[AdjointWaveControl]]
 [[AmorphousSolidPlasticity]]
 [[ArbitraryWavefunctionConfigurability]]
 [[Automated_Reward_Shaping]]

@@ -33,8 +33,12 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[Network_on_Chip_Topology]]
 [[NoC]]
+[[NoC_SDI]]
 [[NoC_SDI_Topology]]
 [[NoC_Topology]]
+[[OpticalNetworkOnChip]]
+[[SDI_Bond]]
+[[SDI_Topology]]
 [[TCC]]
 
 ## Sources

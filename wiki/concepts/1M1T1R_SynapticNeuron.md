@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[FixedOverheadPenalty]]
 [[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]
+[[In_Network_Neuromorphic_Learning]]
 [[LIF_Neuron_Model]]
 [[Loihi2_OnChip_Learning]]
 [[Loihi]]

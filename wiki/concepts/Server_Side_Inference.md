@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[DistinctReentrantPhases]]
 [[Distributed_Spike_Communication]]
+[[GoogleBrain_Spinout_Ecosystem]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[KV_Cache_To_BoundaryObject]]

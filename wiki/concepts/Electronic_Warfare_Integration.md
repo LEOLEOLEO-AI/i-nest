@@ -68,6 +68,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC与INEST：2026全局论文与专利战略规划清单]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]
+[[复杂网络]]
 [[战略报告提纲：物理复杂网络智能涌现——颠覆现有算力范式的新路线]]
 [[智能涌现]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
@@ -75,6 +76,7 @@ Auto-extracted concept from raw material compilation.
 [[神经形态计算]]
 [[神经形态计算突破：脉冲神经网络实现机器人超低功耗定位新范式]]
 [[神经网络]]
+[[类脑芯片]]
 [[脉冲神经网络]]
 
 ## Sources

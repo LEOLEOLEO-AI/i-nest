@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Neuromorphic_Acceleration]]
 [[FPGA_Neuromorphic_Architectures]]
 [[FixedOverheadCost]]
+[[GradientFreeLowRankTraining]]
 [[HardwareAwareFairness]]
 [[HippocampalNeocorticalIntelligence]]
 [[Intelligence_Emergence]]

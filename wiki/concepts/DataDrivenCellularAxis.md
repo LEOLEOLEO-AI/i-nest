@@ -15,6 +15,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
 [[3d]]
 [[AI_Faculty_Forum_2026]]
 [[ANN动力学]]
@@ -35,7 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]
 [[InNetworkNeuromorphicEmergence]]
-[[In_Network_Neuromorphic]]
+[[InNetworkNeuromorphic]]
 [[InNetwork_CST_Offload]]
 [[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Processing]]
@@ -55,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[Neuromorphic_Interconnect]]
 [[Neuromorphic_Topology]]
 [[NoC]]
 [[NoC_Chiplet_Wafer_Stack]]
@@ -89,7 +91,6 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
 [[iNEST_Neuromorphic_Topology]]
-[[neuromorphic interconnect]]
 [[residual connection]]
 [[三原理协同_FEP_STDP_最小作用量]]
 [[类脑芯片]]

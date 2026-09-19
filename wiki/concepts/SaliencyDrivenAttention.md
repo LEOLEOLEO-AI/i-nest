@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Endocrine_Modulated_Network_State]]
 [[EventDrivenAttentionMasking]]
 [[EventDrivenAttentionMechanism]]
+[[EventDrivenPlasticity]]
 [[ExactFiringRateModel]]
 [[FixedOverheadCost]]
 [[HippocampalNeocorticalIntelligence]]

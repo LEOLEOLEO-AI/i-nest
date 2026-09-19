@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[Functional_Food_Complexity]]
 [[Intelligence_Emergence]]
 [[MachineLearningPotential]]
+[[Multifractal_Signatures]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]

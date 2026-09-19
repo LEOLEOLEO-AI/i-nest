@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[ChaoticAttractorTopology]]
 [[CircadianGateModulation]]
 [[Combinatorial_Optimization_Readout]]
+[[Complexity_Emergence]]
 [[ConnectomeWiringSeparability]]
 [[Connectome]]
 [[Connectome_Reservoir]]

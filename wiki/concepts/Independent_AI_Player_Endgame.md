@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[Independent_EdgeAI_Player_Endgame]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[Manifold_Topology_DeepLearning]]
 [[MemoryDrivenRouting]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[NearSensorComputing]]

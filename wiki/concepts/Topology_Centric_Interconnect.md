@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration_Route]]
 [[Complex_System_Theory]]
 [[CongestionAwareNoCPlacement]]
+[[ConvexNonConvexTradeoff]]
 [[CorticalTypeDiversity]]
 [[Deep_Network_Architecture_Invariant]]
 [[DynamicServiceComposition]]

@@ -56,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[IntegrationProspectsForVLSI]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[Microbiome_Immune_Endocrine_Interplay]]
 [[Model_Routing_Protocol]]
 [[Network_Specific_Embedding_Separation]]
 [[NeuralNetworkSpectralAnalysis]]

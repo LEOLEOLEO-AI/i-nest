@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuron论文：Neuromorphic is dead, 神经形态已死。]]
+[[Physical_First_Principles]]
 [[Physical_First_Principles_Design]]
 [[RISC-V 鏋舵瀯涓_SDI 鏅虹畻浜掕仈绯荤粺璁捐锛氶潰鍚_LLM 浣庡欢杩熸帹鐞嗕笌璁粌]]
 [[SDI_Bond]]
@@ -70,6 +71,7 @@ Auto-extracted concept from raw material compilation.
 [[涌现动力学如何用来分析复杂系统？]]
 [[研究进展：AI+新材料，5篇类脑智能]]
 [[神经网络]]
+[[自动微分•自组织生长_ 打造新一代的自组织生长模型]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

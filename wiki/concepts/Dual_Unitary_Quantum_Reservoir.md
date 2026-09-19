@@ -26,11 +26,12 @@ Auto-extracted concept from raw material compilation.
 [[BCU_Operation]]
 [[BackpropFree_Learning]]
 [[Coherent_Floquet_Quantum_Reservoir]]
+[[ColorRouting]]
 [[Network_Topology_Design]]
+[[Quantum_Reservoir_Computing]]
 [[Reservoir_Computing]]
 [[TCC]]
 [[iNEST]]
-[[quantum reservoir computing]]
 [[reservoir computing architecture]]
 
 ## Sources

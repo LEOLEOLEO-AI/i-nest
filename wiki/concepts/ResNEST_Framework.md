@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Active_Inference_Agent]]
 [[AutogradCompatibleSpiking]]
 [[AutomatedQuantizationFramework]]
+[[Automated_Assessment_Framework]]
 [[BayesianDomainEvolution]]
 [[BehavioralFeedbackLoop]]
 [[CST_Spatiotemporal_Complexity]]

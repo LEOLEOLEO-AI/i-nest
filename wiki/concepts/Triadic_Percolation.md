@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[ChannelEventSparsity]]
 [[EEGSpikeEncoding]]
 [[ErrorAmplificationLimits]]
+[[EventCameraPoseInput]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[SNN]]

@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[EventCameraActionRecognition]]
 [[EventDriven_Interconnect]]
 [[Heterogeneous_Integration]]
+[[InNetworkRadarProcessing]]
 [[Interconnect_Routing]]
 [[LossSpikeMechanism]]
 [[MachineLearningNanomaterialDiscovery]]

@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Intellectual_Base]]
 [[Intelligence_Emergence]]
 [[Microsecond_Link_Reconfiguration]]
+[[NanophotonicNeuralAccelerator]]
 [[Network_Topology_Design]]
 [[NeuromorphicRadarFrontend]]
 [[NeuromorphicTransformerPipeline]]

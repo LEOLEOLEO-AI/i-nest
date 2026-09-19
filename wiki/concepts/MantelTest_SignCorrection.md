@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Generative_Graph_Models]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[Interconnect_Topology]]
 [[Interconnect_Topology_Embedding]]
 [[JumpDiffusion_StochasticQuantization]]
 [[Material_Circularity]]
@@ -47,14 +48,15 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[P_Paradigm]]
 [[PhysicalReservoirInterconnect]]
-[[Physical_Reservoir]]
 [[PhysicalSubstrateReservoirComputing]]
 [[PhysicalSubstrateReservoir]]
+[[Physical_Reservoir]]
 [[PlanarNetworkSimulation]]
 [[Reservoir_Computing]]
 [[RunawayAvalanche]]
 [[Self_Organized_Criticality]]
 [[TopologyAwareTimescaleSeparation]]
+[[TopologyCentricInference]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

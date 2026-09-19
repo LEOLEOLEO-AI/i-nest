@@ -57,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[StreamDataflowArchitecture]]
 [[SynapticConsolidation]]
 [[TemporalAdversarialPerturbation]]
+[[TemporalCodingForPointClouds]]
 [[iNEST]]
 [[neuromorphic spiking]]
 

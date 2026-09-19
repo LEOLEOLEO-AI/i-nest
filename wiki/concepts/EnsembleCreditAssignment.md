@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveAsymmetricSurrogateGradient]]
 [[BioInspired_Interception_Control]]
 [[CirculateFiringNeuron]]
+[[Cognitive_Relapse_Decoupling]]
 [[Contested_Priors_Mechanism]]
 [[CriticalityDrivenStateTransition]]
 [[Criticality]]

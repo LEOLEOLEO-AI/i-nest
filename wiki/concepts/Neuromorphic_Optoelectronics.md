@@ -21,7 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Faculty_Forum_2026]]
-[[advanced packaging]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[Attention_Residuals]]
 [[BackpropagationFreeLearning]]
@@ -35,9 +35,9 @@ Auto-extracted concept from raw material compilation.
 [[DynamicServiceComposition]]
 [[EarlyExitInference]]
 [[ErrorSuppressedPipeline]]
+[[Evaluation_Resolution_Confound]]
 [[Neuromorphic_Computing]]
 [[Synaptic_Plasticity]]
-[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

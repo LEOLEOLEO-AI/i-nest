@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Architecture]]
 [[Heterogeneous_Integration]]
 [[ImageToEventConversion]]
+[[In_Network_Generative_Inference]]
 [[In_Package_Neuromorphic_Integration]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[NeuromorphicGestureEncoding]]

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[Adaptive_Replication_Strategy]]
 [[AddressRedundancyElimination]]
+[[Anomaly_Induced_Quantum_Criticality]]
 [[Avoided_Criticality]]
 [[Baseline_Change_Record]]
 [[BioInspiredInterception]]

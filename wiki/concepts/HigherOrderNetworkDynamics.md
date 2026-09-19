@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Local_Approximation_Dynamics]]
 [[Long_Range_Interactions]]
+[[ManifoldBasedFlexibility]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[SelfOrganization]]

@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[DelayParameterSpaceDecomposition]]
 [[DynamicInference]]
+[[GenerativeTopologyModels]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]

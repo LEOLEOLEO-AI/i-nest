@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AtomicGeometryEncoding]]
 [[BigBrainCellularAxis]]
 [[BrainActivityPrediction]]
+[[CollectiveSpikingDynamics]]
 [[Contested_Priors_Mechanism]]
 [[CouplingTopologyMemoryLink]]
 [[CrashHotspotForecasting]]

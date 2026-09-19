@@ -28,7 +28,8 @@ Auto-extracted concept from raw material compilation.
 [[4H_SiC_SubstrateProcessing]]
 [[AI_Faculty_Forum_2026]]
 [[ASIC_Dualism]]
-[[advanced packaging]]
+[[ActiveMatterComputing]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_Architecture]]
 [[Advanced_Packaging_Foundry]]
 [[ArchitectureParadigm]]
@@ -41,7 +42,6 @@ Auto-extracted concept from raw material compilation.
 [[NGMM_Manufacturing_Ecosystem]]
 [[NGMM_Program]]
 [[TCC]]
-[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

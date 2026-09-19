@@ -27,7 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet]]
 [[Chiplet_Based_Neuromorphic_Integration]]
 [[Chiplet_Heterogeneous_Integration]]
-[[chiplet interconnect]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[CompactFieldVariable]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
@@ -48,7 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[HodgkinHuxleyDynamics]]
 [[InNetworkNeuromorphicEmergence]]
-[[In_Network_Neuromorphic]]
+[[InNetworkNeuromorphic]]
 [[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Processing]]
 [[Intelligence_Emergence]]
@@ -73,6 +73,7 @@ Auto-extracted concept from raw material compilation.
 [[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Interconnect]]
+[[iNEST_Neuromorphic_Integration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

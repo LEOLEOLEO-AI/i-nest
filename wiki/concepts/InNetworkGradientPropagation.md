@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Constructed_Reality_Interconnect]]
 [[CrossLayer_SignalRouting]]
+[[Cryogenic_Syndrome_Compression]]
 [[Data_Debiasing_Techniques]]
 [[DevelopmentalNeuromorphicAdaptation]]
 [[Dynamic_Expert_Fusion]]

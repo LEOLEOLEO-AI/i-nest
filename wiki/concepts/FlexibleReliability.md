@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[BurstInterleaving]]
 [[ColorRouting]]
+[[CounterstreamSignalPropagation]]
 [[Critical_Region_Extension]]
 [[Criticality]]
 [[EventDrivenAsync]]

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[DTGA]]
 [[HodgkinHuxleyDynamics]]
+[[L2_L3_Reconfigurability]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[TCC]]

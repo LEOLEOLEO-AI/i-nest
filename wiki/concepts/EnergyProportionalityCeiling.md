@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SDI_STDP_Fusion]]
+[[SDI_iNEST_Interconnect]]
 [[SNN]]
 [[STDP_Plasticity]]
 [[ST_SNN]]

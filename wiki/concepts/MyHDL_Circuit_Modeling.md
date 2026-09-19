@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Deep_Brain_Stimulation]]
 [[AddressRedundancyElimination]]
 [[Adjoint_Gradient_Propagation]]
+[[AlgorithmHardwareCoDesign]]
 [[Algorithm_Hardware_CoDesign]]
 [[FlexibilityThreshold]]
 [[Neuromorphic_Computing]]

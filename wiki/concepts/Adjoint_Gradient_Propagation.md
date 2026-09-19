@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[DirectTrainingSNN]]
 [[Direct_Training_Spiking_Neural_Networks]]
 [[DualModeSNNConventionalInference]]
+[[Edge_Intelligence]]
 [[Electronic_Warfare_Integration]]
 [[FastSlow_Dynamics]]
 [[FlagOS_2_0]]

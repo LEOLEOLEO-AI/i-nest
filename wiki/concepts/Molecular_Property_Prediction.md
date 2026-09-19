@@ -21,7 +21,6 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
-[[156QubitScale]]
 [[2_5D_Interposer]]
 [[3D_Stacking]]
 [[3d]]
@@ -29,6 +28,8 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[AI_Application_Scenario_Reconstruction]]
 [[AdjustableDynamicsReservoir]]
+[[AdjustableDynamics]]
+[[AlternativeBridgingModels]]
 [[Coherent_Floquet_Quantum_Reservoir]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]

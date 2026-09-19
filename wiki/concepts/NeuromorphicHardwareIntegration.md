@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveInference]]
 [[AstrocyteInspiredRepair]]
 [[BayesMarkovOrientationModel]]
+[[BeyondCMOSIntegration]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]
@@ -57,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[ScalableNeuromorphicIntegration]]
 [[SpikeEmbedding]]
 [[SpikformerV2_Architecture]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[神经网络]]
 

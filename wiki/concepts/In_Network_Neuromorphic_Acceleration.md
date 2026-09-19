@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[SensorMemoryFusion]]
 [[SpiNNaker2_Chip]]
 [[SpiNNaker]]
+[[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[SynapticReinforcementConsolidation]]
 [[SynapticRewiringDynamics]]

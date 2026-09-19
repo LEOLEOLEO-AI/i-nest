@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Activity_Energy_Tradeoff]]
 [[BurstGatedRouting]]
+[[ContinualLearningOnNeuromorphic]]
 [[ContinuousTimeSNN]]
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[Criticality]]
@@ -40,7 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Orbital_Object_Pipeline]]
 [[FoveationGuidedTokenSelection]]
 [[Hybrid_ANN_SNN_Pipeline]]
-[[In_Network_Neuromorphic]]
+[[InNetwork_Neuromorphic]]
 [[InNetwork_Neuromorphic_CoDesign]]
 [[In_Network_Neuromorphic]]
 [[Intelligence_Emergence]]

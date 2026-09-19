@@ -40,6 +40,8 @@ Auto-extracted concept from raw material compilation.
 [[Cross_Node_Event_Propagation]]
 [[Cryogenic_Syndrome_Compression]]
 [[DistinctReentrantPhases]]
+[[Distributed_Spike_Communication]]
+[[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]

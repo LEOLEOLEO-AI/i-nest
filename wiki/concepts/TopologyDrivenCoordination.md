@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[CollectiveStateTopology]]
 [[CommunicationAwareComputeRelocation]]
 [[Compact_Boson_Dynamics]]
+[[Compute_Communication_Topology_Matching]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[FatalityDrivenPruning]]

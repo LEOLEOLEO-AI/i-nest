@@ -37,7 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Architecture]]
 [[Event_Driven_Orbital_Object_Pipeline]]
 [[Hybrid_ANN_SNN_Pipeline]]
-[[In_Network_Neuromorphic]]
+[[InNetwork_Neuromorphic]]
 [[InNetwork_Neuromorphic_CoDesign]]
 [[In_Network_Neuromorphic]]
 [[InputAdaptiveComputation]]
@@ -51,6 +51,8 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[Self_Organized_Criticality]]
 [[SemanticSpikePattern]]
+[[SemanticTrafficAwareness]]
+[[SpikingTopology]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

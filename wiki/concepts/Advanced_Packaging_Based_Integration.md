@@ -28,8 +28,8 @@ Auto-extracted concept from raw material compilation.
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_Assisted_Energy_Optimization]]
 [[AdvancedPackagingInterconnect]]
-[[advanced packaging]]
-[[advanced packaging]]
+[[AdvancedPackaging]]
+[[Advanced_Packaging]]
 [[AdversarialMedicalRobustness]]
 [[AnalogInMemoryComputing]]
 [[Capability_Forging_Pipeline]]
@@ -37,11 +37,11 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]
+[[Chiplet_NoC_Fabric]]
 [[Chiplet_Stacking]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[TCC]]
-[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -27,7 +27,8 @@ Auto-extracted concept from raw material compilation.
 [[3D_Vertical_Interconnect]]
 [[3d]]
 [[AdvancedPackagingInterconnect]]
-[[advanced packaging]]
+[[AdvancedPackaging]]
+[[Advanced_Packaging]]
 [[ChipletTrafficAwareScheduling]]
 [[Chiplet]]
 [[Chiplet_Based_Architecture]]
@@ -43,11 +44,11 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC]]
+[[NoC_Interconnect]]
 [[ReproducibleReservoirOutput]]
 [[Reservoir_Computing]]
 [[SpatialPatternStorage]]
 [[TCC]]
-[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

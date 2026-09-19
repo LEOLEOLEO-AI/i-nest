@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspiredGeneralist]]
 [[CellularSheaf]]
 [[Chat_to_Agent_Paradigm]]
+[[CircuitTopologySearch]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

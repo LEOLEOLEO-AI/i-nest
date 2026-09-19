@@ -25,7 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[3d]]
 [[AdaptiveGraphDiffusion]]
 [[AdjointWaveControl]]
-[[advanced packaging]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[CoPackagedOptics]]
 [[Collective_Offloading]]
 [[FPGA_Reconfigurability]]
+[[Free_Energy_Topology_Mapping]]
 [[Heterogeneous_Integration]]
 [[Inference_Workload_Profiling]]
 [[Interconnect_Topology]]
@@ -48,7 +49,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologyProgramming]]
 [[WirelessSplitComputing]]
-[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

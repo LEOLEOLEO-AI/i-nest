@@ -25,7 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Additive_Manufacturing_Defense_Trinity]]
 [[Brain_Connectome]]
 [[C_elegansConnectomeAnalogy]]
-[[causal emergence]]
+[[Causal_Emergence]]
 [[Complexity_Emergence]]
 [[ConnectomeComputationBasis]]
 [[Connectome]]
@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[DataProvenanceIntegrity]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
+[[causal emergence]]
 [[iNEST]]
 
 ## Sources

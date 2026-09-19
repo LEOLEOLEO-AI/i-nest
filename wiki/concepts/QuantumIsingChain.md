@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalFixedPoint]]
 [[CriticalPhaseTransitionStatisticalTest]]
 [[CriticalStateDynamics]]
+[[CriticalSusceptibilityResponse]]
 [[Criticality]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

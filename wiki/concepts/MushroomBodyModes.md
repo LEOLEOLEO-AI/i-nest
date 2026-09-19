@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Connectome]]
 [[Continuous_Memory_System]]
 [[DataProvenanceIntegrity]]
+[[Dendritic_Compartmentalization]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]

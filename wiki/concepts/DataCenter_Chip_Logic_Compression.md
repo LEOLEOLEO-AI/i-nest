@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[InterChipletPHYModeling]]
 [[Interconnect_Topology]]
 [[MachineLearningPotential]]
+[[Memristive_STDP]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[MetaHardwareAbstraction]]

@@ -65,6 +65,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Architecture]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
+[[Scale_Dependent_Coherence]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]

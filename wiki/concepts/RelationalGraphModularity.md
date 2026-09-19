@@ -60,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_Topology]]
 [[Memristor]]
 [[Memristor_Synapse]]
+[[NISQHardwareAwareMapping]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Nonlinear_Gain]]

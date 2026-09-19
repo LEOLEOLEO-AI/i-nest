@@ -29,12 +29,13 @@ Auto-extracted concept from raw material compilation.
 [[ASIC_Power_Efficiency]]
 [[AdiabaticMultimodeBend]]
 [[AdvancedPackagingInterconnect]]
-[[advanced packaging]]
-[[advanced packaging]]
+[[AdvancedPackaging]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_Route]]
 [[Advanced_Packaging_for_Space]]
 [[AgentReputationLedger]]
 [[AnalogDomainCompression]]
+[[ApproximationFidelityTradeoff]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
@@ -43,7 +44,6 @@ Auto-extracted concept from raw material compilation.
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[TCC]]
-[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

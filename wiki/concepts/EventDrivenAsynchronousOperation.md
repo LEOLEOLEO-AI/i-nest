@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Autonomous_Spiking_Dynamics]]
 [[Avoided_Criticality]]
 [[Branch_Prediction_in_Pipelined_Processors]]
+[[Course_Based_FPGA_Prototyping]]
 [[Criticality]]
 [[ElasticInferenceScheduling]]
 [[EventDrivenAsync]]

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[ActivityAvalanche]]
 [[Activity_Energy_Tradeoff]]
 [[AlloyDisorderEngineering]]
+[[Anomaly_Induced_Quantum_Criticality]]
 [[BioInspired_Interception_Control]]
 [[BioPlausiblePredictiveCoding]]
 [[BurstGatedRouting]]

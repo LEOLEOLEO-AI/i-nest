@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[GeneralizedReadoutMap]]
 [[InNetworkSignalRecovery]]
 [[IntegrationProspectsForVLSI]]
+[[L2_L3_Reconfigurability]]
 [[Memristor]]
 [[Memristor_Reservoir_Branch_Prediction]]
 [[Memristor_Reservoir_Computing]]

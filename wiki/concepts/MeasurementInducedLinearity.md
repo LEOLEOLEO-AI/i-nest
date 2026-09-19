@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptivePhotonicRouter]]
 [[Adaptive_Service_Reconfiguration]]
 [[AmoebaInspiredLocomotion]]
+[[Anomaly_Protected_Scaling_Law]]
 [[BioInspired_Interception_Control]]
 [[CircuitTopologyEncoding]]
 [[CriticalLearningRegime]]

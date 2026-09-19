@@ -22,14 +22,14 @@ Auto-extracted concept from raw material compilation.
 
 [[3D_Vertical_Interconnect]]
 [[3d]]
-[[advanced packaging]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[BurstInterleaving]]
 [[Chiplet]]
 [[Chiplet_Based_Trusted_Hardware]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
-[[chiplet interconnect]]
+[[Chiplet_Interconnect]]
 [[Chiplet_NoC_Interconnect]]
 [[Chiplet_Packaging]]
 [[Chiplet_Packaging_Topology]]
@@ -45,7 +45,6 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Interconnect]]
 [[P_Paradigm]]
 [[TCC]]
-[[advanced packaging]]
 [[chiplet interconnect]]
 
 ## Sources

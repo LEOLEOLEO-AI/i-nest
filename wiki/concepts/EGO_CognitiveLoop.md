@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalBranchingMechanism]]
 [[CriticalBranching]]
 [[CriticalTransitionDetection]]
+[[DLRM_Optimized_Dataflow]]
 [[EGO_Architecture]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

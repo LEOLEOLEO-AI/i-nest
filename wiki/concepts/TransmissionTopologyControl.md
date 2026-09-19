@@ -58,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[LEO_Satellite_Routing_RL]]
 [[MeasurementInducedRouting]]
 [[Memristive_Topology]]
+[[MoE_Routing]]
 [[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Synaptic_Plasticity]]

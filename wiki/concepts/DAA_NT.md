@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[BrainBodyResonance]]
 [[CascadedAdaptiveCombiners]]
 [[ClosedLoopNeuromorphicControl]]
+[[CompetitiveProgramDynamics]]
 [[Dynamic_Sparse_Activation]]
 [[Neuromorphic_Computing]]
 [[SpikeEncoding]]

@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality_Avoidance_Theory]]
 [[Criticality_Induced_Computation]]
 [[Criticality_Transition]]
+[[DisorderInducedCriticality]]
 [[Disorder_Anomaly_Duality]]
 [[Intelligence_Emergence]]
 [[Neuromorphic_Computing]]

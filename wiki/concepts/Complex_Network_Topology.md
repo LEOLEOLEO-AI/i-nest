@@ -60,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Non_Von_Neumann_Architecture]]
+[[PowerLawScalingClassification]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[TCC]]

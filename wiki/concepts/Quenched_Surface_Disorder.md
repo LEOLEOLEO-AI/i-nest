@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[ComponentLevelMolding]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[DarkSiliconAwarePowerGating]]
+[[Demonstration_Validation_Protocol]]
 [[Evaluation_Resolution]]
 [[FerroelectricMemoryCell]]
 [[Ferroelectric_Devices]]

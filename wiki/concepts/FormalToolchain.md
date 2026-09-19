@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Planning_Revolution]]
+[[OpenBenchmarkingFramework]]
 [[OpportunisticRoutingRL]]
 [[OpportunisticRouting]]
 [[PowerLawScaling]]

@@ -27,7 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveGraphDiffusion]]
 [[Adaptive_Intelligence_Principle]]
 [[Adaptive_Service_Orchestration]]
-[[advanced packaging]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
@@ -71,7 +71,7 @@ Auto-extracted concept from raw material compilation.
 [[SiC_GaN_Power_Integration]]
 [[Spatiotemporal_Synergy]]
 [[State_Transition_Formalism]]
-[[advanced packaging]]
+[[TopologyConditionedLearning]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

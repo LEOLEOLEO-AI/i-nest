@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Faculty_Forum_2026]]
+[[AstrocyteInspiredRepair]]
 [[Attention_Residuals]]
 [[AutonomousAdaptation]]
 [[BigBrainCellularAxis]]
@@ -48,7 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[HippocampalNeocorticalIntelligence]]
 [[InNetworkAgentRewiring]]
 [[InNetworkNeuromorphicEmergence]]
-[[In_Network_Neuromorphic]]
+[[InNetworkNeuromorphic]]
 [[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Processing]]
 [[Intelligence_Emergence]]

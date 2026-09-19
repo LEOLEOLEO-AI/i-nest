@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Minimal_Complete_Principle]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[OneDimensionalLongRangeInteractions]]
 [[StorageCompute_SeparationBottleneck]]
 [[StorageCompute_Separation]]
 [[TCC]]

@@ -58,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Kinematic_Waves]]
+[[Material_Circularity]]
 [[Memristive_Topology]]
 [[Nanoparticle_Network_Interconnect]]
 [[Network_Topology_Design]]

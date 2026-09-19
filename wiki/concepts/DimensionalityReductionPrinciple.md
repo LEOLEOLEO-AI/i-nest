@@ -59,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[OpenLearningEcosystem]]
 [[P_Paradigm]]
 [[QuantumConvolutionalTopology]]
+[[RandomProjectionLandscapePreservation]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Semantic_Least_Energy_Principle]]
 [[TCC]]

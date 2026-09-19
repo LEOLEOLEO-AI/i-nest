@@ -28,7 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
-[[chiplet interconnect]]
+[[Chiplet_Interconnect]]
 [[Cognitive_Relapse_Architecture]]
 [[Course_Based_FPGA_Projects]]
 [[DTGA]]
@@ -69,11 +69,13 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[System_Level_Utility_Control]]
 [[TCC]]
+[[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[TemperatureSensitivityControl]]
 [[TemporalComplexity]]
 [[TileBasedRasterization]]
 [[UniversalIntelligence_Emergence]]
 [[chiplet interconnect]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

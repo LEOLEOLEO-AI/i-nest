@@ -22,13 +22,15 @@ Auto-extracted concept from raw material compilation.
 
 [[4H_SiC_SubstrateProcessing]]
 [[AI_Faculty_Forum_2026]]
-[[advanced packaging]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[Attention_Residuals]]
 [[BackpropagationFreeLearning]]
 [[Beyond_Moore_Pathway]]
 [[Bias_Origin_Taxonomy]]
+[[Bond_Operation_Algebra]]
 [[BoundaryObject_Abstraction]]
+[[ByteDance_Ada_Chip]]
 [[CLINKAsCarrierPrimitive]]
 [[Chemical_Bond_Operation_Algebra]]
 [[Chiplet]]
@@ -39,7 +41,6 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
 [[TCC]]
-[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

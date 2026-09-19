@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[3d]]
 [[4H_SiC_SubstrateProcessing]]
 [[AI_Application_Scenario_Reconstruction]]
+[[AI_Assisted_Energy_Optimization]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]

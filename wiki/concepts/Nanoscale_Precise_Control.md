@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[DeviceLevelNonlinearityScaling]]
 [[DeviceLevelNonlinearity]]
 [[ERI_2_0_Strategic_Framework]]
+[[EdgeFeatureEncoding]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Theory]]
 [[Emergent_Intelligence_Threshold]]

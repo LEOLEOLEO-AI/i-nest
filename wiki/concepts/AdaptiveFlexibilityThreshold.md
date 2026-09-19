@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[GenerativeTopologyModels]]
 [[Gut_Brain_Immune_Network]]
 [[Heterogeneous_Integration]]
+[[In_Network_Neuromorphic_Learning]]
 [[LIF_Neuron_Model]]
 [[Master_SDDE]]
 [[Memristor]]

@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[StochasticVehicleRouting]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

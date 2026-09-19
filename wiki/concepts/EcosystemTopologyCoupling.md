@@ -21,7 +21,6 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
-[[156QubitScale]]
 [[AI_Driven_Architecture_Search]]
 [[AI_Faculty_Forum_2026]]
 [[AgenticServiceOrchestration]]
@@ -55,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[StochasticMultiAgentRL]]
 [[Swarm_Adaptive_Topology]]
+[[SynchronizationAttractorBasin]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]

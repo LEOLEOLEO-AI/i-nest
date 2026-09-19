@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenMatrixUpdate]]
 [[EventDrivenMotionDeblurring]]
 [[Event_Driven_Architecture]]
+[[Event_Driven_Multiscale_Plasticity]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[FPGA_EventDriven_Verification]]
 [[GeometricNeuromorphicFusion]]

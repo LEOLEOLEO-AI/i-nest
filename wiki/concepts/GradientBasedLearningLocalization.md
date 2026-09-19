@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[BioPlausiblePredictiveCoding]]
 [[BrainScaleS_AsyncEventCircuit]]
 [[BulletTrainScheduling]]
+[[Catastrophic_Forgetting_Mitigation]]
 [[ContinuousTimeSNN]]
 [[CriticalityBasedClassification]]
 [[Criticality]]

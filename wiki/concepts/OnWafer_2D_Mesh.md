@@ -20,9 +20,10 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Brain_Scale_Parameter_Baseline]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
-[[chiplet interconnect]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[CommunicationAsComputation]]

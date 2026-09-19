@@ -21,7 +21,6 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
-[[156QubitScale]]
 [[AI_Application_Scenario_Reconstruction]]
 [[Alpha_Computation_Consistency]]
 [[AndersonTransition]]
@@ -36,10 +35,12 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Network_Layer_Stacking]]
 [[Deep_Thermalisation]]
 [[DeviceLevelNonlinearityScaling]]
+[[DeviceLevelNonlinearity]]
 [[ErrorSuppressedPipeline]]
 [[Evolutionary_Computability]]
 [[Intelligent_Computing_Infrastructure]]
 [[L2_L3_Reconfigurability]]
+[[LongRangeNonlinearSigmaModel]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[ReproducibleReservoirComputing]]

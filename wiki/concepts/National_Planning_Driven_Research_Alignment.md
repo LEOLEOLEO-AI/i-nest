@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[FixedOverheadCost]]
 [[HippocampalNeocorticalIntelligence]]
 [[Intelligence_Emergence]]
+[[KV_Cache_To_BoundaryObject]]
 [[KV_Cache_to_BoundaryObject_Transition]]
 [[Memristor]]
 [[Memristor_Synapse]]
@@ -74,6 +75,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[忆阻器]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 [[类脑芯片]]
 

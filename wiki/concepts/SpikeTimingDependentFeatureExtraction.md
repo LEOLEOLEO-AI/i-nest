@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AINext_Initiative]]
+[[AlternativeBridgingModels]]
 [[AnisotropicGaussianPrimitives]]
 [[AnomalousSpinTransport]]
 [[Bidirectional_Temporal_Enhancement]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Nanoencapsulation_Stability_Bioavailability]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[RateCodingVulnerability]]
 [[Reservoir_Computing]]

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Cryogenic_Syndrome_Compression]]
+[[DataCenter_Chip_Logic_Compression]]
 [[DimensionalityReductionForNetworkControl]]
 [[Distributed_Spike_Communication]]
 [[EpoxyMoldingCompoundFlow]]
@@ -59,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[NonequilibriumLangevinComputing]]
+[[SDI_Review_Process]]
 [[iNEST]]
 
 ## Sources

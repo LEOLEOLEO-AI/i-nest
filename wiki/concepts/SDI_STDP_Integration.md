@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Bidirectional_Temporal_Enhancement]]
 [[BioInspiredSequenceLearning]]
+[[Complexity_Emergence]]
 [[DiscreteSTDP]]
 [[FunctionalInterfaceBlock]]
 [[GroupSynchronization]]
@@ -47,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikingCorrespondenceMatching]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
+[[Triadic_Percolation]]
 [[Triadic_Percolation_STDP]]
 [[iNEST]]
 

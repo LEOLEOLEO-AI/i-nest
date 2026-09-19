@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[ElectromigrationReliability]]
 [[GPU_Bottleneck_Relief]]
 [[GeneralIntelligenceSubstrate]]
+[[Haltability]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

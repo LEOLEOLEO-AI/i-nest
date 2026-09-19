@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Adjoint_Gradient_Propagation]]
 [[Arm_Locomotor_Synergy]]
 [[CollectiveDynamics]]
+[[Collective_State_Convergence]]
 [[Memristive_Crossbar]]
 [[Neuromorphic_Computing]]
 [[PPT]]

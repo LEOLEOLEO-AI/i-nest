@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[20W_Brain_Inspired_Planning]]
 [[Activity_Energy_Tradeoff]]
+[[AthermalDynamics]]
 [[Avoided_Criticality]]
 [[BandedConnectivityModel]]
 [[BranchingRatioControl]]

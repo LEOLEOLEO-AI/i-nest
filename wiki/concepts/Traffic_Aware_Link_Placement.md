@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[20W_Brain_Inspired_Planning]]
 [[AI-ML — 全景导航 (Map of Content)]]
 [[AI_Faculty_Forum_2026]]
+[[AI_Orchestrator]]
 [[Complex_System_Theory]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]

@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration]]
 [[Chiplet_Stacking]]
 [[ChiralSymmetryClasses]]
+[[CircuitTopologySearch]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Spaceborne_Computing_Architecture]]

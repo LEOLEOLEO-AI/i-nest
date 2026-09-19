@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Advanced_Computing_Project]]
 [[Algebraic_Completeness]]
 [[Anisotropic_Square_Lattice]]
+[[AnomalousLocalization]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

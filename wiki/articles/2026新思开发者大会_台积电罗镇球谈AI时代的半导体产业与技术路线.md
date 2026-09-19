@@ -12,3 +12,11 @@ SDI, iNEST, 互连, 封装, 晶圆
 
 ---
 *Auto-compiled by wiki_compiler.py*
+
+
+## Related Concepts
+
+[[SDI_Bond]]
+[[TCC]]
+[[Wafer_Scale_Integration]]
+[[iNEST]]

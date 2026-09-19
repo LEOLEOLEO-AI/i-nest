@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[20W_Brain_Inspired_Planning]]
 [[CorticalWaveRouting]]
+[[EnergyProportionalityCeiling]]
 [[EventCameraActionRecognition]]
 [[EventCameraTemporalEncoding]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
@@ -44,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[ST_SNN]]
 [[SpikeBasedInference]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TemporalBatchSynchronization]]

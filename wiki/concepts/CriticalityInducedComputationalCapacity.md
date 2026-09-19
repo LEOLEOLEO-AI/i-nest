@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[DiscreteContinuous_Unification]]
 [[EdgeInspectionInference]]
 [[Efficient_Coding_Constraint]]
+[[EmulationTheoryDisturbanceObserver]]
 [[EventBasedAnalogFrontEnd]]
 [[EventDrivenAttentionMechanism]]
 [[EventDrivenMotionDeblurring]]

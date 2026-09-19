@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Network_Layer_Stacking]]
 [[DrivenDissipativeDynamics]]
 [[ErrorSuppressedPipeline]]
+[[HigherOrderSimplicialDynamics]]
 [[Intelligence_Emergence]]
 [[Memristor]]
 [[Memristor_Crossbar]]

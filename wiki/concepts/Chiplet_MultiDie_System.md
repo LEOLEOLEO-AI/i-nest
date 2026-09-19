@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[AnisotropicTensileStrength]]
 [[ArbitraryWavefunctionConfigurability]]
 [[Asymptotic_Exact_Solution]]
+[[BigBrainCellularAxis]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]

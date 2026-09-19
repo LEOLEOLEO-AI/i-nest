@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Order_Deep_Belief_Networks]]
+[[Field_Compression_for_InNetwork_Inference]]
 [[FlexibilityThreshold]]
 [[Gut_Brain_Immune_Network]]
 [[HippocampalNeocorticalIntelligence]]

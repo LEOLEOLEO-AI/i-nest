@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[PRIME_Framework]]
 [[P_Paradigm]]
 [[RuntimeTopologyMapping]]
 [[SNN]]

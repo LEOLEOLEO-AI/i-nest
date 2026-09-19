@@ -62,6 +62,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Architecture]]
 [[SNN]]
 [[STDP_Plasticity]]
+[[SensoryInMemoryComputing]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[SuperparamagneticSwitchingRate]]

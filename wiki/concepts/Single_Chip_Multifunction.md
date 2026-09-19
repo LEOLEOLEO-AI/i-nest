@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Algebraic_Completeness]]
 [[ClassicalQuantum_Query_Benchmark]]
 [[Complex_System_Theory]]
+[[Complexity_Synchronization]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]

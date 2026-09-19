@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[HierarchicalInferenceTopology]]
 [[InNetworkGradientPropagation]]
 [[Intelligence_Emergence]]
+[[LocalStructuralPlasticity]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[SelfOrganization]]

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
+[[Complexity_Emergence_Engineering]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Constructed_Reality_Interconnect]]
 [[Defense_Industrial_Base_Reshaping]]

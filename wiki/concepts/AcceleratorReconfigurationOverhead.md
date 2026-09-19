@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[Recurrent_Network_Homeostasis]]
 [[SNN]]
 [[SOC]]
+[[SafetyThresholdAsSpikingThreshold]]
 [[Spiking_Neural_Network]]
 
 ## Sources

@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicInference]]
 [[EmergentDynamics]]
 [[Flexible_Neuromorphic_Substrate]]
+[[GraphAugmentedGeneration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Material_Circularity]]
 [[Multiplex_Epidemic_Threshold]]
 [[Nanoparticle_Network_Interconnect]]
+[[NaturalDomainRepresentation]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]

@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[GPU_Parallel_Throughput]]
 [[GradientBasedSpikeLearning]]
 [[Gradient_Free_SNN_Learning]]
+[[IndirectCoordinationSignal]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]

@@ -29,7 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[CST计量仪]]
 [[CausalEmergenceCondition]]
-[[causal emergence]]
+[[Causal_Emergence]]
 [[Causal_Emergence_Integration]]
 [[Closed_Loop_Neuromodulation]]
 [[Cognitive_Relapse_Decoupling]]
@@ -59,6 +59,8 @@ Auto-extracted concept from raw material compilation.
 [[Surface_Phase_Transition]]
 [[TCC]]
 [[TheoreticalNumericalBifurcation]]
+[[Wafer_Scale_Interconnect_Memristor]]
+[[causal emergence]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

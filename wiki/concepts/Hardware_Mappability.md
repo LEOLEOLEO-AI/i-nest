@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Faculty_Forum_2026]]
 [[Attention_Residuals]]
+[[ByteDance_Ada_Chip]]
 [[CST_MasterEquation]]
 [[Complex_System_Theory]]
 [[Decoupled_Priors]]
@@ -38,9 +39,12 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[SDI_Bond]]
 [[SDI_Review_Process]]
+[[SDI_iNEST]]
 [[SDI_iNEST_Topology]]
 [[TCC]]
 [[WaferScaleSubstrate]]
+[[iNEST]]
+[[iNEST_Topology]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

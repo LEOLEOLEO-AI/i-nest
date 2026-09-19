@@ -43,6 +43,8 @@ Auto-extracted concept from raw material compilation.
 [[Edge_of_Chaos]]
 [[Edge_of_Chaos_Coastal_Dynamics]]
 [[Generative_Graph_Models]]
+[[Interconnect_Routing]]
+[[Interconnect_Topology_Embedding]]
 [[JumpDiffusion_StochasticQuantization]]
 [[Layered_Attractive_Hubbard_Model]]
 [[Network_Topology_Design]]

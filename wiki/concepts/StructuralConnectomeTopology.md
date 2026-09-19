@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[TCC]]
 [[UnconventionalRotationalDynamics]]
+[[getnote_2026-01-12_数字孪生大脑工程化路径]]
 [[夏强飞一天2篇Nature大子刊：感存算一体，忆阻器阵列模拟计算]]
 [[存算一体]]
 [[忆阻器]]

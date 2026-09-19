@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[EndToEndLinkSimulation]]
 [[Fading_Memory_Property]]
 [[FisherOrthogonalMemory]]
+[[Flow_Aware_Interconnect_Design]]
 [[GraphBasedSemanticRouting]]
 [[Heterogeneous_Integration]]
 [[Hysteretic_State_Encoding]]

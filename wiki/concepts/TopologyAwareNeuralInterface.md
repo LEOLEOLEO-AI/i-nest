@@ -24,7 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[3d]]
 [[AI_FullSpectrum_Strategy]]
 [[Additive_Manufacturing_Topology]]
-[[advanced packaging]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[CommunicationAwareComputeRelocation]]
 [[Compute_Centric_NoC]]
 [[CongestionAwareNoCPlacement]]
+[[Defense_Industrial_Base_Reshaping]]
 [[Differential_FeatureExtraction]]
 [[Dynamic_Expert_Fusion]]
 [[Express_Link_Virtualization]]
@@ -71,7 +72,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[WideLink_NoC_Router]]
-[[advanced packaging]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

@@ -42,6 +42,8 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[ImmobilizationStabilityEnhancement]]
 [[InterFPGA_Spike_Routing]]
+[[Interconnect_Routing]]
+[[NoC_EventRouting]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[TCC]]

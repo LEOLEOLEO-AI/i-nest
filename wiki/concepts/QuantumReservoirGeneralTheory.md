@@ -46,7 +46,9 @@ Auto-extracted concept from raw material compilation.
 [[MetricComputationAuthenticity]]
 [[NanomaterialFeatureEngineering]]
 [[NoiseInjectedForwardPass]]
+[[PowerLawScalingClassification]]
 [[QuantumReservoirMemoryCapacity]]
+[[Quantum_Reservoir_Computing]]
 [[ReservoirDynamics]]
 [[Reservoir_Computing]]
 [[SelfOrganizedCriticalityConsciousness]]
@@ -54,7 +56,6 @@ Auto-extracted concept from raw material compilation.
 [[SpectralLogPeriodicity]]
 [[Spin_Glass_Order_Parameter]]
 [[iNEST]]
-[[quantum reservoir computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[TemporalAdversarialPerturbation]]
 [[TemporalCodingForPointClouds]]
 [[TemporalSparsityExploitation]]
+[[VisualPlaceRecognition]]
 [[iNEST]]
 
 ## Sources

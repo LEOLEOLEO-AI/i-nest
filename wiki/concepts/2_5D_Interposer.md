@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[ReproducibleReservoirOutput]]
 [[Reservoir_Computing]]
+[[SiC_GaN_Power_Integration]]
 [[TCC]]
 [[TemporalFeatureProjection]]
 

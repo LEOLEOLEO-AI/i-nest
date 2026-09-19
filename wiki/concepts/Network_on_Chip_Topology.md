@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[HighFrequency_Interconnect_Optimization]]
 [[Interconnect_Routing]]
 [[Memory_Wall]]
+[[MeshReduce_U]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC]]

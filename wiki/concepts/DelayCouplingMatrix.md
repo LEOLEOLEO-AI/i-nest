@@ -24,7 +24,8 @@ Auto-extracted concept from raw material compilation.
 [[3D_Integration]]
 [[3d]]
 [[AdvancedPackagingInterconnect]]
-[[advanced packaging]]
+[[AdvancedPackaging]]
+[[Advanced_Packaging]]
 [[ApproximationFidelityTradeoff]]
 [[BondMovingDecimation]]
 [[CLINKAsCarrierPrimitive]]
@@ -62,8 +63,8 @@ Auto-extracted concept from raw material compilation.
 [[SOC]]
 [[STDP_Plasticity]]
 [[SparseTemporalEncoding]]
+[[Surface_Phase_Transition]]
 [[Synaptic_Plasticity]]
-[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

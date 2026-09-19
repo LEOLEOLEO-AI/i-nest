@@ -21,7 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Faculty_Forum_2026]]
-[[advanced packaging]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[Asynchronous_Handshake_Protocol]]
 [[Attention_Residuals]]
@@ -38,10 +38,10 @@ Auto-extracted concept from raw material compilation.
 [[InMateriaComputing]]
 [[Intelligence_Emergence]]
 [[Intelligent_Power_Management]]
+[[Medical_Large_Language_Models]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
-[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

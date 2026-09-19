@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Feedback_Ising_Neural_Networks]]
 [[FormalToolchain]]
 [[Heterogeneous_Integration]]
+[[InferenceThroughput]]
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]
 [[LatencyGradientDescent]]

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AnisotropicGaussianPrimitives]]
 [[BehaviorPreservingNetworkSparsity]]
 [[Bidirectional_Temporal_Enhancement]]
+[[BioInspiredSequenceLearning]]
 [[Memristive_SNN]]
 [[SNN]]
 [[Spiking_Neural_Network]]

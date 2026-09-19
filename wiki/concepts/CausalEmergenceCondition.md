@@ -62,6 +62,7 @@ Auto-extracted concept from raw material compilation.
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
 [[ThermallyDrivenSuperparamagnetReservoir]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[WaveBasedInformationRouting]]
 [[complex system]]
 [[iNEST]]

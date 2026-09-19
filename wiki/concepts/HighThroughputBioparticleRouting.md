@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[CorticalWaveRouting]]
 [[CrossLayer_SignalRouting]]
 [[CrossbarInterconnect]]
+[[Cryogenic_Syndrome_Compression]]
 [[DirectConnect_Topology]]
 [[EventCameraTemporalEncoding]]
 [[EventDrivenAsync]]

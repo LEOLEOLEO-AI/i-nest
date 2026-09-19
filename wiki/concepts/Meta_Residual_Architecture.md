@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[EmergentOrder]]
 [[FPGA_Accelerated_SNN]]
 [[Hardware_Accelerated_SNN]]
+[[HodgkinHuxleyDynamics]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Memristor]]

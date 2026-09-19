@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralVariabilityEnhancement]]
 [[NeuromorphicGestureEncoding]]
 [[NeuromorphicHarmonyEncoding]]
+[[NeuromorphicPointCloudAdapter]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Planning_Revolution]]
 [[PowerLawScaling]]

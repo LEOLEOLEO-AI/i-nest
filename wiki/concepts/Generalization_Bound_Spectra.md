@@ -57,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[QuantumReservoirMemoryCapacity]]
 [[ReservoirTemporalDynamics]]
 [[Reservoir_Computing]]
+[[SNN]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]
 [[ScaleFreeNetwork]]

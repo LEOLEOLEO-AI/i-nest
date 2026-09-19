@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Intelligent_Power_Management]]
 [[Koopman_Constants_Of_Motion]]
+[[Medical_Large_Language_Models]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[iNEST]]

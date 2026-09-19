@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Defense_Industrial_Base_Reshaping]]
 [[DistributedTrainingPipeline]]
 [[DynamicServiceComposition]]
+[[DynamicTopology]]
 [[Dynamic_Communication_Reconfiguration]]
 [[GPU_Bottleneck_Relief]]
 [[GeneralIntelligenceSubstrate]]

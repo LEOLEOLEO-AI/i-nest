@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration]]
 [[Chiplet_Integration_Route]]
 [[CrossbarArrayVLSI]]
+[[Cryogenic_Syndrome_Compression]]
 [[FPGAInference]]
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]

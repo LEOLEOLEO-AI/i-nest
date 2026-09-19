@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[FormalToolchain]]
 [[Heterogeneous_Integration]]
 [[ImmobilizationStabilityEnhancement]]
+[[InferenceThroughput]]
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]
 [[LatencyGradientDescent]]

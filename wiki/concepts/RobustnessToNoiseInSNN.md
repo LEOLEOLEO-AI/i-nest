@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Faculty_Forum_2026]]
 [[BigBrainCellularAxis]]
+[[BrainInspired_Chip]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Complexity_Emergence]]
 [[ConsciousnessEngineeringLoop]]
@@ -50,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[ST_SNN]]
 [[SpikeEncoding]]
 [[SpikeRoutingFabric]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]

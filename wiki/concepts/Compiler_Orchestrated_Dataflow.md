@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]
 [[CircuitTopologySearch]]
+[[CrossDomain_Integration]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]

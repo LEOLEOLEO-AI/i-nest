@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[CouplingMatrixRecovery]]
 [[Coupling_Strength_Encoding]]
 [[CrossInstitutionalNetwork]]
+[[Crystallized_Neural_Manifolds]]
 [[DeviationScalingIndex]]
 [[DivergentHigherAreaRanking]]
 [[Dynamic_Expert_Fusion]]

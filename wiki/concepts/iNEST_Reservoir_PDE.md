@@ -35,6 +35,8 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[PhysicalSubstrateReservoir]]
 [[Reservoir_Computing]]
+[[SNN]]
+[[SpikeTemporalAwareCompression]]
 [[Spiking_Neural_Network]]
 [[TCCNPU_Coordination_Roadmap]]
 [[TCC]]

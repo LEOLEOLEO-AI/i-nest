@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[ConfigurableSNNInference]]
 [[CoreComputationSubspace]]
 [[CulturalDisseminationDynamics]]
+[[Edge_Intelligence]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]

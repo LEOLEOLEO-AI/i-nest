@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Communication_Primitive]]
 [[Criticality]]
 [[CrossbarInterconnect]]
+[[Cryogenic_Syndrome_Compression]]
 [[DTGA]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Heterogeneous_Integration]]

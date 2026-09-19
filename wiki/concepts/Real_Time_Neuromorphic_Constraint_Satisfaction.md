@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[CorticalWaveRouting]]
 [[CrossLayer_SignalRouting]]
+[[CrossbarSNNArchitecture]]
 [[DevelopmentalNeuromorphicAdaptation]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]

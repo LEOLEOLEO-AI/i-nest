@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[NeuronModelComparativeAnalysis]]
 [[OscillatoryDynamicsOptimization]]
+[[OscillatoryDynamics]]
 [[PulseFrequencyModulationSpikeCoding]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
@@ -66,6 +67,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[complex system]]
 [[iNEST]]
+[[忆阻器]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[神经网络]]
 

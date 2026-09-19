@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[Criticality_Induced_Computation]]
 [[Criticality_Transition]]
+[[DisorderInducedCriticality]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[Fading_Memory_Property]]

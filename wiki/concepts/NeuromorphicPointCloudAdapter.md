@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
+[[Course_Based_FPGA_Prototyping]]
 [[Criticality]]
 [[DeeplySupervisedSpiking]]
 [[Delay_Aware_Autograd_Spiking_Framework]]

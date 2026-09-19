@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Catastrophic_Forgetting_Mitigation]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Contested_Priors_Architecture]]
 [[Course_Based_FPGA_Prototyping]]
 [[Criticality]]
 [[Delay_Aware_Autograd_Spiking_Framework]]

@@ -58,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[ConceptualCrossLinguisticNetworks]]
 [[CryogenicCompressor]]
 [[DARPA_TechnologyGap]]
+[[DegreeWeightGovernance]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]

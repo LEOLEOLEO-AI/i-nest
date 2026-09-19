@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AdsorptionBiosorptionHybrid]]
+[[ByteDance_Ada_Chip]]
 [[Chemical_Bond_Effect]]
 [[Chip_Floorplanning]]
 [[ChipletWaferInterconnectScaling]]
@@ -28,7 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]
 [[Chiplet_Integration_Route]]
-[[chiplet interconnect]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[CommunicationAsComputation]]
@@ -63,7 +64,7 @@ Auto-extracted concept from raw material compilation.
 [[System_Level_Utility_Control]]
 [[TCC]]
 [[ThreeLayerArchitecture]]
-[[Topology_Centric_Computing]]
+[[TopologyCentricComputing]]
 [[Topology_Centric_Computing]]
 [[WaferScaleTopologyCentricComputing]]
 [[Wafer_Interconnect]]

@@ -28,14 +28,16 @@ Auto-extracted concept from raw material compilation.
 [[3d]]
 [[Additive_Manufacturing_Topology]]
 [[AdvancedPackagingInterconnect]]
-[[advanced packaging]]
-[[advanced packaging]]
+[[AdvancedPackaging]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[BondMovingDecimation]]
+[[ChipletTrafficAwareScheduling]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_NoC_Fabric]]
+[[Chiplet_Stacking]]
 [[Compute_Centric_NoC]]
 [[DirectConnect_Topology]]
 [[HeterogeneousInference]]
@@ -56,7 +58,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[ThroughSiliconVia_TSV_ThermalPath]]
 [[WideLink_NoC_Router]]
-[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

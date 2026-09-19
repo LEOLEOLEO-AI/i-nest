@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicTopology]]
 [[Dynamic_Communication_Reconfiguration]]
 [[Floquet_Engineering]]
+[[GeneralizedReadoutMap]]
 [[Graphlet_Decomposition]]
 [[LowCostTrainingPipeline]]
 [[Memristor]]

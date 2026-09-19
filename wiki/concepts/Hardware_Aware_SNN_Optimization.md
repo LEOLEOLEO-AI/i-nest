@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[EnergyEfficientNeuromorphic]]
 [[EventDrivenModularArchitecture]]
 [[EvolutionarySpikeTimingOptimization]]
+[[IMPLY_ISA]]
 [[Interconnect_Routing]]
 [[KinematicWavePropagation]]
 [[LossSpikePhenomenon]]

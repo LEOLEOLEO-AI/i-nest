@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Agile_Resilient_Defense_Ecosystem]]
 [[AnomalousSpinTransport]]
 [[ArbitraryWavefunctionConfigurability]]
+[[AstrocyteInspiredRepair]]
 [[Beyond_Moore_Pathway]]
 [[CSI_Temporal_Encoding]]
 [[Chiplet]]

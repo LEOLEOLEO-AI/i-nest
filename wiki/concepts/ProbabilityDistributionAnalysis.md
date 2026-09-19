@@ -69,6 +69,7 @@ Auto-extracted concept from raw material compilation.
 [[Scaling_Law_Breakdown]]
 [[SelfOrganizedOscillatoryLearning]]
 [[SelfOrganized_Stability]]
+[[Spectral_Generalization_Criteria]]
 [[catastrophic forgetting]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]

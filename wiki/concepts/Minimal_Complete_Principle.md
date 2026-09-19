@@ -21,7 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Driven_Power_Density_Scaling]]
-[[advanced packaging]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[Bond_Operation_Algebra]]
 [[BurstGatedRouting]]
@@ -30,11 +30,13 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
+[[Chiplet_Stacking]]
 [[CrossDomain_Integration]]
 [[Dynamic_Communication_Reconfiguration]]
 [[FPGA_NeuromorphicMapping]]
 [[Ferroelectric_ComputeInMemory]]
 [[Ferroelectric_Devices]]
+[[Heterogeneous_Integration]]
 [[HybridResistiveMemoryCIM]]
 [[Interconnect_Routing]]
 [[IntraWafer_Fabric]]
@@ -45,7 +47,6 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[TCC]]
 [[TopologicalDataCompression]]
-[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

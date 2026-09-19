@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Compute_Communication_Topology_Matching]]
 [[Compute_In_Memory_Neuromorphic]]
 [[CrossDomain_Integration]]
+[[DecliningModularity]]
 [[Deep_Thermalisation]]
 [[Heterogeneous_Integration]]
 [[In_Memory_Computing]]

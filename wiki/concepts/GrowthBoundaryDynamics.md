@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_3DHI_Roadmap]]
 [[Deep_Thermalisation]]
 [[ERI_2_0_Framework]]
+[[ERI_2_0_Strategy]]
 [[EpidemicThreshold]]
 [[EventDrivenFunctionalConnectivity]]
 [[ExtinctionDrivenMetastability]]

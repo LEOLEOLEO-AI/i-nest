@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[SDSoW_CoDesign]]
+[[SDSoW_Industry_Alliance]]
 [[Wafer_Scale_Integration]]
 [[iNEST]]
 

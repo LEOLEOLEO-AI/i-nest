@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3D_TokSIM_Architecture]]
+[[3d]]
 [[AI_Driven_Power_Density_Scaling]]
 [[AdaptiveGraphDiffusion]]
 [[Adaptive_Intelligence_Principle]]
@@ -37,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[OneDimensionalLongRangeInteractions]]
+[[Process_Recycling_Paradigm]]
 [[TCC]]
 [[iNEST]]
 

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Categorical_Closure_Criterion]]
 [[CellularSheaf]]
 [[ChiralSymmetryClasses]]
+[[CircuitTopologySearch]]
 [[CoPackagedOptics]]
 [[CouplingTopologyInducedDynamics]]
 [[Criticality]]

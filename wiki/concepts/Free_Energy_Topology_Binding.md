@@ -60,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[FreeFermion_Topological_Classification]]
 [[Frontier_Base_Self_Sustainment]]
 [[FunctionalMemoryTopology]]
+[[Graph_Embedded_Markers]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]

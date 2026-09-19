@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[AdversarialSpikePerturbation]]
 [[Algorithmic_Warfare]]
 [[AmoebaInspiredLocomotion]]
+[[Anomaly_Induced_Quantum_Criticality]]
 [[Avoided_Criticality]]
 [[BioInspired_Interception_Control]]
 [[BurstGatedRouting]]

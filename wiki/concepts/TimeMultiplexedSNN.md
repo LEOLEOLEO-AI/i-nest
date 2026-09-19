@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveAsymmetricSurrogateGradients]]
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[Adaptive_Replication_Strategy]]
+[[Anomaly_Induced_Quantum_Criticality]]
 [[BioInspired_Interception_Control]]
 [[BioPlausiblePredictiveCoding]]
 [[BurstGatedRouting]]
@@ -51,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Self_Organized_Criticality]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

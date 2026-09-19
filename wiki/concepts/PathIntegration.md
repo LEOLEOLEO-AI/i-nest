@@ -63,6 +63,7 @@ Auto-extracted concept from raw material compilation.
 [[Resilient_Satellite_Constellations]]
 [[RoleGeometryEmbedding]]
 [[SNN]]
+[[SpikeEncodingLatency]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TacticalEdgeIntelligence]]

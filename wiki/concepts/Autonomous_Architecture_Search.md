@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_MasterEquation]]
 [[CircadianGateModulation]]
 [[Complex_System_Theory]]
+[[Connectome_Transfer]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[Convergent_Evolution_Representation_Space]]

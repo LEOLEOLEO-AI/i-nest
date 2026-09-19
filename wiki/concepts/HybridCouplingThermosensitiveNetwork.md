@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[ControlDrivenCriticalFluctuations]]
 [[CooperativeEmergence]]
 [[Critical_Region_Extension]]
+[[DelayTolerantNetworkUAV]]
 [[DualDrivenHybridNetwork]]
 [[ErrorAmplificationLimits]]
 [[EvolvingArchitectureDynamics]]

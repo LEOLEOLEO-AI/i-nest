@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[DistributedIntelligence]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergence_Phase]]
+[[FloquetTopologicalOrder]]
 [[GraphBasedSemanticRouting]]
 [[Heterogeneous_Integration]]
 [[InSitu_Compute]]

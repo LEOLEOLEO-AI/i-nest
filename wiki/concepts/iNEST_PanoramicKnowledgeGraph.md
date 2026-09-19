@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[BackpropagationFreeLearning]]
 [[BoundaryObject_Abstraction]]
+[[ByteDance_Ada_Chip]]
 [[Combinatorial_Optimization_Readout]]
 [[ComputationEfficientDeepLearning]]
 [[DARPA_ProjectManager_Model]]

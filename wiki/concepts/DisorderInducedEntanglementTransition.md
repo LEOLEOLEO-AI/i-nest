@@ -22,7 +22,9 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Application_Scenario_Reconstruction]]
 [[CST_Intelligence_Emergence]]
+[[Causal_Emergence_Integration]]
 [[CompactMemristorCircuits]]
+[[Complex_System_Theory]]
 [[Complexity_Emergence]]
 [[CouplingTopologyInducedDynamics]]
 [[Coupling_Topology]]
@@ -39,7 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Generative_Graph_Models]]
 [[HybridMemristorArray]]
 [[InNetworkNeuromorphicSimulation]]
-[[In_Network_Neuromorphic]]
+[[InNetworkNeuromorphic]]
 [[In_Network_Neuromorphic]]
 [[Intelligence_Emergence]]
 [[Memristor]]

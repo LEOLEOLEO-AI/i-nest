@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN动力学]]
 [[AdaptiveDensityControl]]
 [[Algebraic_Completeness]]
+[[ClassicalQuantum_Query_Benchmark]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

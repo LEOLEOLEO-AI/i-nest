@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[NishimoriLine]]
 [[TCC]]
+[[Z3_Toric_Code]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

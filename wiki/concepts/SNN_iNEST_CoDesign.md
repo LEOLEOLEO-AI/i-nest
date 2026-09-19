@@ -41,9 +41,11 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[ST_SNN]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TemporalDynamicsModeling]]
+[[Wafer_Scale_Neuromorphic]]
 [[iNEST]]
 
 ## Sources

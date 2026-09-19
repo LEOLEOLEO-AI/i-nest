@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[BrainInspired_Chip]]
 [[CorticalWaveRouting]]
 [[DVS_Event_Camera]]
+[[EventDrivenDefenseMechanism]]
 [[Event_Driven_Architecture]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[FPGA_Accelerated_SNN]]

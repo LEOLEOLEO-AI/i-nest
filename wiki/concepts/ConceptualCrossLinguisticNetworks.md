@@ -57,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[CryogenicCompressor]]
 [[DARPA_TechnologyGap]]
 [[DegreeWeightGovernance]]
+[[DendriticReservoirState]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence]]

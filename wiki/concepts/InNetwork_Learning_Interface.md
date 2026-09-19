@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[FlexibilityThreshold]]
 [[FractalPathEntropy]]
 [[Free_Energy_Topology_Mapping]]
+[[In_Network_Neuromorphic_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[OnChipSNNTrainingEngine]]
 [[Organic_Neuromorphic_Transistor]]
+[[PredictiveCodingVariationalFreeEnergy]]
 [[SNN]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]

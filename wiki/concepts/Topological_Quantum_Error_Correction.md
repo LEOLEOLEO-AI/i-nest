@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Cryogenic_Syndrome_Compression]]
 [[Crystallized_Neural_Manifolds]]
 [[CubicLatticeInterconnect]]
+[[DARPA_3DHI_Roadmap]]
 [[Deep_Thermalisation]]
 [[DelayTolerantNetworkUAV]]
 [[EventDrivenSynchronization]]

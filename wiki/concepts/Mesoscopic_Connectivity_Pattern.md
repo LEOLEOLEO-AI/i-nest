@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Forum_Ecosystem]]
 [[AI_Industrial_Ecosystem]]
 [[Analog_InMemory_Processing]]
+[[AnisotropicTensileStrength]]
 [[BigBrainCellularAxis]]
 [[CST计量仪]]
 [[ComplexSystem_Definition]]

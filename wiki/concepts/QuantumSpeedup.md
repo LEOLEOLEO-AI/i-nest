@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[AttractorBasinOrthogonality]]
 [[AxonalGrowthConeStochasticity]]
 [[CertifiedBifurcationDetection]]
+[[ClassicalQuantum_Query_Benchmark]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

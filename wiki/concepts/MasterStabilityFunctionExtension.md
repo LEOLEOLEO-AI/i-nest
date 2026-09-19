@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[DelayParameterSpaceDecomposition]]
 [[Distributed_KVCache_Coherence]]
 [[DynamicInference]]
+[[EntanglementEntropyScaling]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]

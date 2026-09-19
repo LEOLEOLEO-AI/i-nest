@@ -42,6 +42,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[SDI_STDP_Topology]]
 [[SNN]]
 [[SNN_STDP_CoDesign]]
+[[SNN_STDP_Topology]]
 [[STDP_Plasticity]]
 [[STDP_Topology]]
 [[Sparsity_Ceiling]]

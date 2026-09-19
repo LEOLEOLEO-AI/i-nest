@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AdjustableDynamicsReservoir]]
 [[AdjustableDynamics]]
 [[AnomalousSpinTransport]]
+[[AstrocyteInspiredRepair]]
 [[Bipartite_Interconnect]]
 [[Bipartite_Interconnect_Design]]
 [[FlagOS_2_0]]

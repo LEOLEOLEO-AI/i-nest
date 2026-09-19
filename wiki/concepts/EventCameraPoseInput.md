@@ -62,9 +62,11 @@ Auto-extracted concept from raw material compilation.
 [[SpikeTimingGradientPropagation]]
 [[SpikeTimingGradient]]
 [[Spike_Encoding_of_fMRI]]
+[[SpikingTopology]]
 [[Spiking_Mamba_Block]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
+[[TemporalAdversarialPerturbation]]
 [[Temporally_Precise_Training_Parallelization]]
 [[iNEST]]
 

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AthermalDynamics]]
 [[BigBrainCellularAxis]]
 [[Complex_System_Theory]]
+[[Cryogenic_Syndrome_Compression]]
 [[DistinguishableHelium4]]
 [[FPGA_Neuromorphic_Architectures]]
 [[Fixed_Cost_Dominance]]

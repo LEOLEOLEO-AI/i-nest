@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Endocrine_Modulated_Network_State]]
 [[ErdosRenyi_Graph_Energy_Surface]]
 [[EventDrivenAttentionMasking]]
+[[EventDrivenPlasticity]]
 [[EventDrivenWeightUpdate]]
 [[EventTriggeredDistributedControl]]
 [[ExactFiringRateModel]]

@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Order_Deep_Belief_Networks]]
 [[Endocrine_Modulated_Network_State]]
+[[EventDrivenAsynchronousRouting]]
 [[GradientBasedSpikeLearning]]
 [[Intelligence_Emergence]]
 [[InterFPGA_Spike_Routing]]

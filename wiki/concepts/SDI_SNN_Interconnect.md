@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[DendriticTaskPartitioning]]
 [[GeTeBasedCBRAM]]
 [[Heterogeneous_Integration]]
+[[In_Network_Generative_Inference]]
 [[In_Package_Neuromorphic_Integration]]
 [[Interconnect_Routing]]
 [[Nature Communications_生物神经网络中突触多样性如何让人工神经网络更强大？]]

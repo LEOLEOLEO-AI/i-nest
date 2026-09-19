@@ -61,6 +61,7 @@ Auto-extracted concept from raw material compilation.
 [[RenormalizationGroup_DeviceNonlinearity]]
 [[Reservoir_Computing]]
 [[RestrictedConnectivityTopology]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[WaveBasedInformationRouting]]
 [[analog computation]]
 [[complex system]]

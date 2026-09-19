@@ -33,8 +33,10 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_NPU_NoC_Integration]]
 [[SDI_TCC_iNEST_Bridge]]
+[[SDI_iNEST_Encapsulation]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
+[[TCC]]
 [[iNEST]]
 
 ## Sources

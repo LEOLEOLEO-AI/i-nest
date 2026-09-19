@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[DAGGER_Algorithm]]
 [[Disentangled_Physics_Neural_Architecture]]
 [[DisorderInducedLocalization]]
+[[DistributedInference]]
 [[Fractal_Scaling]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

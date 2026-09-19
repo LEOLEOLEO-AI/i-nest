@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Evolutionary_Computability]]
 [[Evolutionary_Pattern_Modeling]]
 [[Fixed_Recurrent_Network]]
+[[FlagOS_2_0]]
 [[GroupInteractionThreshold]]
 [[HybridMemristorArray]]
 [[Intelligence_Emergence]]

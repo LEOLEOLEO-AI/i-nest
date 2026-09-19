@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[SpikeBasedNeuralRadianceField]]
 [[SpikeDrivenInference]]
+[[SpikePacketCompression]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

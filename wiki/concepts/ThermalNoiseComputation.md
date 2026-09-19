@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Epithelial_Barrier_Integrity]]
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
+[[GradientFreeTraining]]
 [[Heterogeneous_Integration]]
 [[Hyper_Dimensional_Computing]]
 [[Intelligence_Emergence]]

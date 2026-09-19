@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[DTGA]]
 [[Floquet_Driving]]
 [[Free_Energy_Topology_Constraint]]
+[[Free_Energy_Topology_Mapping]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]

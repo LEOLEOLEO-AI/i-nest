@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Structural_Plasticity]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
+[[NeuromorphicObserverArchitecture]]
 [[Neuromorphic_Computing]]
 [[NonreciprocalQuasiperiodicLattice]]
 [[Swarm_Adaptive_Topology]]

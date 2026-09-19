@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Theory]]
 [[EnergyAwareEdgeOrchestration]]
 [[FastSlow_Dynamics]]
+[[FunctionalRelevanceSelfOrganization]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

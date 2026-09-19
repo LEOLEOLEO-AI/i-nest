@@ -58,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[Pods4Rail_Topology]]
 [[Quantization_HLS_FPGA]]
 [[ReconfigurableSNNTopology]]
+[[ReconfigurableSNN_Accelerator]]
 [[SNN]]
 [[SelfOrganization]]
 [[Self_Organized_Criticality]]

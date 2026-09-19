@@ -21,10 +21,11 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Faculty_Forum_2026]]
-[[advanced packaging]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[AnalogInMemoryComputing]]
 [[Attention_Residuals]]
+[[CST计量仪]]
 [[Chiplet]]
 [[Chiplet_Based_Trusted_Hardware]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -50,7 +51,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC_iNEST_Interconnect]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
-[[advanced packaging]]
 [[iNEST]]
 [[iNEST_Interconnect]]
 [[iNEST_Wafer]]

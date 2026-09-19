@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[OpportunisticRouting]]
 [[P_Paradigm]]
+[[QueryComplexityScaling]]
 [[ReputationPropagation]]
 [[ResourceAwareCompilation]]
 [[SemanticTopologyMapping]]

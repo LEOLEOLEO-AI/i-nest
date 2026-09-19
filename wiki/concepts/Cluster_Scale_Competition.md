@@ -24,7 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Bipartite_Interconnect_Design]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
-[[chiplet interconnect]]
+[[Chiplet_Interconnect]]
 [[CommunicationAwareComputeRelocation]]
 [[Express_Link_Virtualization]]
 [[FlagOS_2_0]]

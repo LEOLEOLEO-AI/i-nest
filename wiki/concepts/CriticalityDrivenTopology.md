@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[BioInspired_Interception_Control]]
 [[BurstGatedRouting]]
+[[Cognitive_Relapse_Decoupling]]
 [[CriticalNormBoundary]]
 [[Criticality]]
 [[Criticality_Based_Feature_Extraction]]

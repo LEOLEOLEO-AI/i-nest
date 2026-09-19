@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[HigherOrderSimplicialDynamics]]
 [[HotspotEmergenceModeling]]
 [[Intelligence_Emergence]]
+[[MultipartiteEntanglementFractal]]
 [[NCA_Reservoir]]
 [[Network_Topology_Design]]
 [[NeuromorphicHardware]]

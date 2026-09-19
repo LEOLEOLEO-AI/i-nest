@@ -26,7 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[3d]]
 [[4H_SiC_SubstrateProcessing]]
 [[AI_Faculty_Forum_2026]]
-[[advanced packaging]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[AnalogInMemoryComputing]]
 [[Analog_Synaptic_Weighting]]
@@ -37,12 +37,12 @@ Auto-extracted concept from raw material compilation.
 [[Beyond_Moore_Pathway]]
 [[Bias_Origin_Taxonomy]]
 [[BoundaryContract]]
+[[Butterfly_Topology]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]
 [[Heterogeneous_Integration]]
 [[TCC]]
-[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

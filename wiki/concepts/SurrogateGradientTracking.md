@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[LossSpikePhenomenon]]
 [[MembranePotentialModulation]]
 [[Meta_Residual_Architecture]]
+[[MixedLabyrinthFractal]]
 [[NeuromorphicHardwareCoDesign]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]

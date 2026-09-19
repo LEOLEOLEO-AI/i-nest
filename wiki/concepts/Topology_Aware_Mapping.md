@@ -23,18 +23,21 @@ Auto-extracted concept from raw material compilation.
 [[ChipletOnWafer]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
-[[chiplet interconnect]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[DistributedTrainingPipeline]]
 [[Dynamic_Structural_Hole_Reconfiguration]]
 [[Express_Link_Virtualization]]
+[[Heterogeneous_Integration]]
 [[Integrated_Cooling]]
 [[Interconnect_Topology]]
+[[InverseDesignOptimization]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[ScalableNeuromorphicTopology]]
 [[Spiking_Neural_Network]]
+[[Spiking_Neural_Network_Overlay]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

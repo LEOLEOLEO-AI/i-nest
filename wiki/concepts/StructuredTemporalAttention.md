@@ -52,9 +52,11 @@ Auto-extracted concept from raw material compilation.
 [[SpikingNeuralImplementation]]
 [[SpikingNeuralPolicies]]
 [[Spiking_Neural_Network]]
+[[Spiking_Transformer]]
 [[TemporalAdversarialPerturbation]]
 [[TemporalCodingForPointClouds]]
 [[TemporalSparsityExploitation]]
+[[VisualPlaceRecognition]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

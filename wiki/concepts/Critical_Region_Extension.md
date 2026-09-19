@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC]]
 [[OpenLearningEcosystem]]
 [[OpticalSynapticWeightUpdate]]
+[[OpticallyWritableAtomicVaporMemory]]
 [[P_Paradigm]]
 [[PacketRoutingForFPGAs]]
 [[RLFlightControl]]

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[EventDrivenAsync]]
 [[EventDrivenAsynchronousRouting]]
+[[EventDrivenTracking]]
 [[FPGA_NeuromorphicMapping]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

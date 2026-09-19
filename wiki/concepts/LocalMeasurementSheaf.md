@@ -72,8 +72,10 @@ Auto-extracted concept from raw material compilation.
 [[学术前沿_北京大学团队推出革命性光子计算芯片：实现多功能神经网络重构]]
 [[智能涌现]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[涌现动力学如何用来分析复杂系统？_新课上线]]
 [[神经网络]]
+[[科研_王龙课题组发现群体智能涌现和演化调控机制]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

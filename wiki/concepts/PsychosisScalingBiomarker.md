@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[2026-06-15_大脑的量子纠缠与信息动力学]]
 [[AINext_Initiative]]
 [[AgenticServiceOrchestration]]
+[[Autonomous_Driving_SNN_Application]]
 [[Avoided_Criticality]]
 [[BioPlausibleDisturbanceObserver]]
 [[Catastrophic_Forgetting_Mitigation]]

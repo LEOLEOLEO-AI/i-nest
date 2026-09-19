@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC]]
 [[NoC_EventRouting]]
 [[One_Chip_Multi_Function]]
+[[OpticallyWritableAtomicVaporMemory]]
 [[TCC]]
 
 ## Sources

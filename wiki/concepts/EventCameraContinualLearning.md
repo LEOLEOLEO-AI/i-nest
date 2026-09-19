@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[ContinualLearningOnNeuromorphic]]
 [[Continual_Learning_Modularity]]
 [[ContinuousGameOfLife]]
+[[Continuous_Control_Spike_Timing_Sensitivity]]
 [[CrossDomain_Abstraction]]
 [[CrossDomain_Synthesis]]
 [[DebiasingTechniques]]

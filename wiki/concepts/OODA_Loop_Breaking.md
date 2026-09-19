@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveArchitecture]]
 [[AdaptiveBitPrecisionExploration]]
 [[Allreduce_Latency_Probe]]
+[[Anomaly_Induced_Quantum_Criticality]]
 [[Architectural_Conditioning]]
 [[BioInspired_Interception_Control]]
 [[BurstGatedRouting]]

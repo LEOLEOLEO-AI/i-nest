@@ -21,8 +21,10 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[20W_Brain_Inspired_Planning]]
+[[3D_IC_Stacking]]
 [[AIRA_NeuralArchSearch]]
 [[ArmLocomotorCoordination]]
+[[Cascading_Failure_Mitigation]]
 [[Constructed_Reality_Interconnect]]
 [[CrossbarInterconnect]]
 [[Evolutionary_Structure_Computability]]

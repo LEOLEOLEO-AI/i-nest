@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[GroupWise_DragonflyPlus]]
 [[HighSpeedInference]]
 [[Intelligence_Emergence]]
+[[Interconnect_As_Computational_Resource]]
 [[InterconnectionInertiaProfile]]
 [[Loihi]]
 [[Milinkovic B (2024)：复杂神经系统涌现动力学结构]]

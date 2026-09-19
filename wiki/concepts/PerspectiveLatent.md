@@ -29,7 +29,6 @@ Auto-extracted concept from raw material compilation.
 [[Biologically_Plausible_Learning_Rules]]
 [[BrainBodyResonance]]
 [[BurstTemporalPlasticity]]
-[[causal emergence]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[ConverterDrivenStability]]
 [[CriticalityDrivenAdaptation]]
@@ -39,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Entropy_Connectivity_Path]]
 [[FPGA_Neuromorphic_Architectures]]
+[[Fixed_Cost_Dominance]]
 [[FormalLinguisticCompetence]]
 [[HierarchicalBayesianCommunityDetection]]
 [[HierarchyOfApproximations]]
@@ -61,6 +61,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologyDrivenDynamics]]
 [[TopologyDrivenVulnerability]]
 [[VisualSemanticDecoding]]
+[[causal emergence]]
 [[iNEST]]
 
 ## Sources

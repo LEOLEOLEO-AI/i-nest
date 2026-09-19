@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[Complex_System_Theory]]
 [[CorticalWaveRouting]]
+[[Cross_Node_Event_Propagation]]
 [[DiscreteSTDP]]
 [[DistinguishableHelium4]]
 [[Emergent_Intelligence]]

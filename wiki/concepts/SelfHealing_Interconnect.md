@@ -70,6 +70,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[TemperatureSensitivityControl]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[chiplet interconnect]]
 [[complex system]]
 [[iNEST]]

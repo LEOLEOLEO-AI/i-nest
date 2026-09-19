@@ -36,6 +36,8 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Cross_Node_Event_Propagation]]
+[[Cryogenic_Syndrome_Compression]]
+[[Heterogeneous_Integration]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]

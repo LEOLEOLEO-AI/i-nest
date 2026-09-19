@@ -36,7 +36,8 @@ Auto-extracted concept from raw material compilation.
 [[AdiabaticMultimodeBend]]
 [[AdsorptionBiosorptionHybrid]]
 [[AdvancedPackagingInterconnect]]
-[[advanced packaging]]
+[[AdvancedPackaging]]
+[[Advanced_Packaging]]
 [[Allreduce_Latency_Benchmark]]
 [[AlternativeMetalInterconnects]]
 [[AndersonTransition]]
@@ -47,11 +48,13 @@ Auto-extracted concept from raw material compilation.
 [[ChiralSymmetryClasses]]
 [[Compact_Boson_Dynamics]]
 [[Compute_In_Memory_Neuromorphic]]
+[[CrossDomain_Integration]]
 [[Heterogeneous_Integration]]
+[[In_Memory_Computing]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
+[[Neuromorphic_Computing]]
 [[TCC]]
-[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

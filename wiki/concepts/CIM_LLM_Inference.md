@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]
 [[CrossbarArrayPrecision]]
+[[FCDC_Architecture]]
 [[Heterogeneous_Integration]]
 [[HybridResistiveMemoryCIM]]
 [[IMPLYMemristiveISA]]

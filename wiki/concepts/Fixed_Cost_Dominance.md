@@ -60,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[TemporalDynamicsModeling]]
 [[TopologicalAndersonChernInsulator]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]

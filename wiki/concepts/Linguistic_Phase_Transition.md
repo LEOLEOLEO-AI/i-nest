@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[FeFET_Differential_BitCell]]
 [[FerroelectricSynapticArray]]
 [[Ferroelectric_Devices]]
+[[GeTeBasedCBRAM]]
 [[HeterogeneousSynapticDelays]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]

@@ -63,6 +63,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[PersistentHomologyAnalysis]]
+[[Readout_Weight_Training]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[ScaleFreeNetwork]]

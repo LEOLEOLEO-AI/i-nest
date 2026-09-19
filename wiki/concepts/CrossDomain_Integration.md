@@ -27,7 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveGraphDiffusion]]
 [[Adaptive_Intelligence_Principle]]
 [[Adaptive_Service_Orchestration]]
-[[advanced packaging]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[Allreduce_Latency_Probe]]
 [[Analog_InMemory_Processing]]
@@ -71,7 +71,7 @@ Auto-extracted concept from raw material compilation.
 [[State_Transition_Formalism]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
-[[advanced packaging]]
+[[TopologyConditionedLearning]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

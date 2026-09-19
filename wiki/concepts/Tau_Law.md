@@ -30,7 +30,8 @@ Auto-extracted concept from raw material compilation.
 [[3d]]
 [[AI_Application_Scenario_Reconstruction]]
 [[AdvancedPackagingInterconnect]]
-[[advanced packaging]]
+[[AdvancedPackaging]]
+[[Advanced_Packaging]]
 [[AnalogDomainCompression]]
 [[BCU_Operation]]
 [[CSI_Temporal_Encoding]]
@@ -60,13 +61,13 @@ Auto-extracted concept from raw material compilation.
 [[ReproducibleReservoirComputing]]
 [[ReproducibleReservoirOutput]]
 [[Reservoir_Computing]]
+[[SiC_GaN_Power_Integration]]
 [[SiliconPhotonicsNetwork]]
 [[Space_Compute_Architecture_Tradeoff]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
 [[TemporalFeatureProjection]]
 [[ThroughSiliconVia_TSV_ThermalPath]]
-[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

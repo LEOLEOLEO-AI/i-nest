@@ -62,6 +62,7 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
+[[TCC与INEST：2026全局论文与专利战略规划清单]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]

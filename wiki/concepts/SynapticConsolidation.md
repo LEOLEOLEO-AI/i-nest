@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[20W_Brain_Inspired_Planning]]
+[[Autonomous_Spiking_Dynamics]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BrainInspiredArchitecture]]
 [[BrainInspired_Chip]]
@@ -40,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicHandwritingRecognition]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[Neuromorphic_Interconnect]]
 [[Neuromorphic_Selective_State_Space]]
 [[Neuromorphic_Speech_Tokenizer]]
 [[Neuromorphic_Topology]]
@@ -56,7 +58,6 @@ Auto-extracted concept from raw material compilation.
 [[TemporalSparsityExploitation]]
 [[iNEST]]
 [[iNEST_Interconnect]]
-[[neuromorphic interconnect]]
 [[neuromorphic spiking]]
 
 ## Sources

@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Neural_Manifold_Crystallization]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[Neuromorphic_Selective_State_Space]]
 [[OscillatoryReservoirDynamics]]
 [[ReservoirDynamics]]
 [[Reservoir_Computing]]

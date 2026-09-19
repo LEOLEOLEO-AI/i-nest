@@ -25,6 +25,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 
 ## Related Work
 
+[[3D_Torus_6_Degree]]
 [[AIRA_NeuralArchSearch]]
 [[ArmLocomotorCoordination]]
 [[BioInspiredSpikeEncoding]]
@@ -69,3 +70,4 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[神经形态计算]]
 [[神经形态计算突破：脉冲神经网络实现机器人超低功耗定位新范式]]
 [[神经网络]]
+[[脉冲神经网络]]

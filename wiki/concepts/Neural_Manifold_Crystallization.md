@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Routing]]
 [[Efficient_Coding_Constraint]]
 [[EventBasedAnalogFrontEnd]]
+[[EventDrivenAttentionMechanism]]
 [[ExplainableEnergyAI]]
 [[HierarchicalSpikePropagation]]
 [[HighThroughputPhenotyping]]

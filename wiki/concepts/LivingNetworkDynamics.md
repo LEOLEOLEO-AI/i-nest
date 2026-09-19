@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Neuromorphic_Architectures]]
 [[HybridMemristorArray]]
 [[Hyper_Dimensional_Computing]]
+[[In_Network_Neuromorphic_Integration]]
 [[Intelligence_Emergence]]
 [[Intelligent_Emergence_Computing]]
 [[Loihi2_OnChip_Learning]]

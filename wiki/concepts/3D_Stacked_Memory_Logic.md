@@ -22,7 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[3d]]
 [[AdaptiveBitPrecisionExploration]]
-[[advanced packaging]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[ApproximationFidelityTradeoff]]
 [[CoPackagedOptics]]
@@ -38,9 +38,9 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[OptimalGeneralisationNearInterpolation]]
+[[PhotoIontronicSynapse]]
 [[TCC]]
 [[TCC_Topology]]
-[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

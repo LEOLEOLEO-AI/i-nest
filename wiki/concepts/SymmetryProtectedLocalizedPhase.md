@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[GraphAugmentedGeneration]]
 [[Intelligence_Emergence]]
 [[InterconnectAwareFaultTolerance]]
+[[InterconnectAwareModelOrderReduction]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]

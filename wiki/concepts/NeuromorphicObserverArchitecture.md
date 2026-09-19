@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[ClosedLoopNeuromorphicControl]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[CorticalWaveRouting]]
+[[Cryogenic_Syndrome_Compression]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]

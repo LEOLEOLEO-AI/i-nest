@@ -20,11 +20,13 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3D_Heterogeneous_Integration]]
+[[3d]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Analog_InMemory_Processing]]
 [[BeyondVonNeumannArchitecture]]
 [[CIMWeightUpdateAwareness]]
 [[CapacityScalingLaw]]
+[[Chat_to_Agent_Paradigm]]
 [[CirculateFiringNeuron]]
 [[CompactLocalisedStates]]
 [[CompactnessRegularizedFitness]]
@@ -48,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[FoveationGuidedTokenSelection]]
 [[FunctionalEnsembleComputation]]
 [[FunctionalEnsemble]]
+[[Heterogeneous_Integration]]
 [[Hopfield_Energy_Landscape]]
 [[InNetworkAgentRewiring]]
 [[InputAdaptiveComputation]]

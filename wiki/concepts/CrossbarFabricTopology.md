@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[MultifractalCriticalPhase]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
+[[NeuromorphicRadarFrontend]]
 [[PhotonicSynapticPlasticity]]
 [[PolarizationModulatedPhotoresponse]]
 [[Receptron_Unit]]

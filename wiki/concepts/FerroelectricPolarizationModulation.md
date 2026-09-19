@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Inference_Workload_Profiling]]
 [[Interconnect_Routing]]
 [[MetaHardwareAbstraction]]
+[[Multipath_Adaptive_Reliability]]
 [[Network_Topology_Design]]
 [[PhaseAwareBisectionDemand]]
 [[Synaptic_Plasticity]]

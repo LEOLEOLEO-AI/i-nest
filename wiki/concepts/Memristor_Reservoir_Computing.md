@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[3D_Torus_6_Degree]]
+[[3d]]
 [[AI_Faculty_Forum_2026]]
 [[AlternativeBridgingModels]]
 [[AnomalousSpinTransport]]
@@ -66,6 +67,7 @@ Auto-extracted concept from raw material compilation.
 [[StructuralPriorEncoding]]
 [[TCCNPU_Coordination_Roadmap]]
 [[TCC]]
+[[Topology_Aware_SNN_Placement]]
 [[Topology_Centric_Neuromorphic]]
 [[Topology_Centric_Neuromorphic_Integration]]
 [[branch prediction]]

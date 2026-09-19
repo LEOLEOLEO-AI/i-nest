@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Inference_Workload_Profiling]]
 [[Interconnect_Routing]]
 [[Liquid_Topological_Generative_Computing]]
+[[Logic_Folding]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC]]

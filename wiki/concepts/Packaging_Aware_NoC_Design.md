@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
+[[ImaginaryGaugePhaseImprint]]
 [[Inference_Workload_Profiling]]
 [[Intelligence_Emergence]]
 [[Intelligent_Computing_Infrastructure]]

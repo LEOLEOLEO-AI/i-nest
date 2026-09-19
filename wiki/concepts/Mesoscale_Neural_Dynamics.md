@@ -57,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_iNEST]]
 [[ST_SNN]]
 [[SelfMotivatedGrowth]]
+[[Silicon_Neuron_Dynamics]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

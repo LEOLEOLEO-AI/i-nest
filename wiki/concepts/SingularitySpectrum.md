@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[DegreeDependentOpinionThreshold]]
 [[FlexibilityThreshold]]
 [[Heterogeneous_Integration]]
+[[In_Network_Neuromorphic_Integration]]
 [[Memristor]]
 [[Memristor_Interconnect]]
 [[Memristor_Synapse]]

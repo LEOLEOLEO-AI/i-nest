@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[CorticalTypeDiversity]]
 [[DARPA_ProjectManager_Model]]
 [[Deep_Network_Architecture_Invariant]]
 [[Defense_Industrial_Base_Reshaping]]

@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveTimeStepTraining]]
 [[Amorphous_Amorphous_Transition]]
 [[AnisotropicGaussianPrimitives]]
+[[AnomalousSpinTransport]]
 [[BigBrainCellularAxis]]
 [[Biologically_Plausible_Learning_Rules]]
 [[BrainBodyResonance]]

@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AsynchronousNeuromorphicHardware]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BrainInspired_Chip]]
+[[Continuous_Control_Spike_Timing_Sensitivity]]
 [[DelayCodedWorkingMemory]]
 [[DiscreteSTDP]]
 [[Event_Driven_Architecture]]

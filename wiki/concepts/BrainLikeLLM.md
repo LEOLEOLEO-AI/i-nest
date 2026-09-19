@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveInference]]
 [[Active_Spiking_Perception]]
 [[AdaptersInSpikingNetworks]]
+[[Agent_Workflow_Automation]]
 [[Alignment_Tax]]
 [[AllParallelNonVonNeumannArchitecture]]
 [[Allreduce_Latency_Benchmark]]

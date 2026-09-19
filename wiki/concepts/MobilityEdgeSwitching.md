@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspired_Interception_Control]]
 [[Cognitive_Relapse_Architecture]]
 [[Cognitive_Relapse_Decoupling]]
+[[ContinualLearningOnNeuromorphic]]
 [[Continual_Learning_Modularity]]
 [[Continual_Learning_Topology]]
 [[Continuous_Memory_System]]

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityOnSmallWorlds]]
 [[Criticality]]
 [[Criticality_Transition]]
+[[DisorderInducedCriticality]]
 [[Disorder_Anomaly_Duality]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence]]

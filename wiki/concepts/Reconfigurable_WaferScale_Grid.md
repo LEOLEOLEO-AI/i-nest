@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[DistributedTrainingPipeline]]
 [[Heterogeneous_Integration]]
 [[Jalapeno_Inference_Chip]]
+[[MicroRouter_Embedding]]
 [[Microsecond_Link_Reconfiguration]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
@@ -41,7 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Topology]]
 [[Switchless_Computing]]
 [[TCC]]
-[[Topology_Centric_Computing]]
+[[TopologyCentricComputing]]
 [[Topology_Centric_Computing]]
 [[WaferScaleTopologyCentricComputing]]
 

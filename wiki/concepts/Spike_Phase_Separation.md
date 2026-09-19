@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Controlled_Release_Kinetics]]
 [[CorticalTravelingWave]]
 [[CorticalWaveRouting]]
+[[Cryogenic_Syndrome_Compression]]
 [[Dynamic_Expert_Routing]]
 [[ExplainableEnergyAI]]
 [[Hebbian_Embedding_Dynamics]]

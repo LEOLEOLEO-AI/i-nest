@@ -56,6 +56,8 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Kinematic_Waves]]
 [[MemoryDrivenRouting]]
+[[Network_Topology_Design]]
+[[NeuralFluxAttachment]]
 [[Neuromorphic_Computing]]
 [[NonEquilibriumComputing]]
 [[RecursiveSelfReferentialArchitecture]]

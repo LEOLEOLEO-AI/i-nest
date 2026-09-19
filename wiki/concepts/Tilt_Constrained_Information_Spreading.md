@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[3D_Vertical_Interconnect]]
 [[3d]]
 [[4H_SiC_SubstrateProcessing]]
+[[AI_Faculty_Forum_2026]]
 [[AllParallel_SpikeBased_Computing]]
 [[AnalogInMemoryComputing]]
 [[BCU_Operation]]

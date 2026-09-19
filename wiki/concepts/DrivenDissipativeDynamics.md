@@ -57,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[SolitonLikeWaves]]
 [[Spike_Encoding_of_fMRI]]
 [[SpikingPlaceCellEnsemble]]
+[[SpikingPointCloudPEFT]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]

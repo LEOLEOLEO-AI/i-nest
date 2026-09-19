@@ -39,6 +39,8 @@ Auto-extracted concept from raw material compilation.
 [[EpoxyMoldingCompoundEncapsulation]]
 [[ExplosiveCooperationTransition]]
 [[FerroelectricMemoryCell]]
+[[Ferroelectric_Devices]]
+[[InterconnectConstrainedEmergence]]
 [[Network_Topology_Design]]
 [[iNEST]]
 [[神经网络]]

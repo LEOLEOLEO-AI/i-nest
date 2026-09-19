@@ -63,6 +63,7 @@ Auto-extracted concept from raw material compilation.
 [[Switch_Chiplet_Integration]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
+[[TopologyEmbeddedSelfModel]]
 [[iNEST]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]

@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[ExtinctionDrivenMetastability]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[FPGA_Accelerated_SNN]]
+[[Fast_Response_Actuator]]
 [[FormalToolchain]]
 [[GPU_Cluster_SNN_Architecture]]
 [[Interconnect_Routing]]

@@ -58,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[Fluidic_Hysterons]]
 [[FreeFermion_Topological_Classification]]
 [[Free_Energy_Topology_Binding]]
+[[Frontier_Base_Self_Sustainment]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]

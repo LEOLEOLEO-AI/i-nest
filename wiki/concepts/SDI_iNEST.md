@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveFlexibilityThreshold]]
 [[AdaptiveTimeStepTraining]]
 [[Amorphous_Amorphous_Transition]]
+[[AnisotropicGaussianPrimitives]]
 [[FlexibilityThreshold]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]

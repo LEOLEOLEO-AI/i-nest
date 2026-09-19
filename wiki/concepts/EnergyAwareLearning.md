@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Architecture]]
 [[CriticalityBasedClassification]]
 [[Criticality]]
+[[Defense_Industrial_Base_Reshaping]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]

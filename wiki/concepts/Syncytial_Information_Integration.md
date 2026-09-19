@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Network_Architecture_Invariant]]
 [[DendriticReservoirState]]
 [[DistinctReentrantPhases]]
+[[Distributed_Spike_Communication]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[Epithelial_Barrier_Integrity]]

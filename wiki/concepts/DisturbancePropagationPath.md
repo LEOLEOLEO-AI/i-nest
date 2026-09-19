@@ -30,7 +30,8 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[ANN_to_SNN_Conversion_Error_Amplification]]
 [[AdvancedPackagingInterconnect]]
-[[advanced packaging]]
+[[AdvancedPackaging]]
+[[Advanced_Packaging]]
 [[AnalogInMemoryComputing]]
 [[AnomalousSpinTransport]]
 [[BarrierConditionedTrajectory]]
@@ -44,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
 [[ConsciousnessEngineeringLoop]]
+[[Cryogenic_Syndrome_Compression]]
 [[DARPA_ProjectManager_Model]]
 [[DTGA]]
 [[ElectronicPhotonicIntegratedCircuit]]
@@ -65,7 +67,6 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[TSVEncapsulationStress]]
-[[advanced packaging]]
 [[analog computation]]
 
 ## Sources

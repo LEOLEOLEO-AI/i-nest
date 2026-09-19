@@ -20,7 +20,6 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
-[[156QubitScale]]
 [[AI_FullSpectrum_Strategy]]
 [[AcademicDevelopmentCoCreation]]
 [[AdaptiveTimeStepTraining]]
@@ -52,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[FlexibilityThreshold]]
 [[HierarchicalCrackPattern]]
 [[Intelligence_Emergence]]
+[[LargeDeviationTopologicalOrder]]
 [[MultiScalePathDivergence]]
 [[NestedRepresentation]]
 [[Network_Topology_Design]]

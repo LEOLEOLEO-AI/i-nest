@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[BehavioralNeuromorphicCorrelates]]
 [[Beyond_Moore_Pathway]]
 [[BioInspiredLearningRule]]
+[[Biocompatible_Neuromorphic_Interface]]
 [[Biomanufacturing_Control_Loop]]
 [[Complex_System_Theory]]
 [[FlexibilityThreshold]]

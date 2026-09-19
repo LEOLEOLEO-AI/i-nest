@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[FlexibleManifoldReconfiguration]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[GrandCanonicalOptimization]]
+[[ImmobilizationStabilityMechanism]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

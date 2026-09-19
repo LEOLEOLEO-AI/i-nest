@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Connectome_Transfer]]
 [[Distributed_Spike_Communication]]
 [[FastSlow_Dynamics]]
+[[Functional_Food_Complexity]]
 [[GateModelQuantumOptimization]]
 [[Heterogeneous_Integration]]
 [[ImaginaryGaugePhaseImprint]]

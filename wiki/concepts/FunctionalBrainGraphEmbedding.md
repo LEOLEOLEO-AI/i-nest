@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[EventBasedAnalogFrontEnd]]
 [[EventCameraActionRecognition]]
 [[EventDrivenAttentionMechanism]]
+[[EventDrivenTrajectoryEncoding]]
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[FrozenRateOperator]]

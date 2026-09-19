@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CorticalTravelingWave]]
 [[CorticalWaveRouting]]
 [[CrossbarArrayVLSI]]
+[[Cryogenic_Syndrome_Compression]]
 [[EventCameraTemporalEncoding]]
 [[Flexible_Spike_Routing]]
 [[Heterogeneous_Integration]]

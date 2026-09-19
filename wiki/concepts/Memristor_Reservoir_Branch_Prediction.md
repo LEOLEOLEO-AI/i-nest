@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AnalogInMemoryComputing]]
 [[Attention_Residuals]]
 [[BoundaryObject_Abstraction]]
+[[ByteDance_Ada_Chip]]
 [[CMOS_Memristor_Devices]]
 [[CST计量仪]]
 [[Chiplet]]

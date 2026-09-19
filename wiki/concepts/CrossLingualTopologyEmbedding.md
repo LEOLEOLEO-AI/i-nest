@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[3d]]
 [[3nm_Autonomous_Driving_Chip]]
 [[AI-ML — 全景导航 (Map of Content)]]
+[[AI_Faculty_Forum_2026]]
 [[Analog_InMemory_Processing]]
 [[CST计量仪]]
 [[Chiplet]]
@@ -45,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[DelayCascadePrediction]]
 [[Differential_Encoding]]
 [[FemtosecondLaserMachining]]
+[[Heterogeneous_Integration]]
 [[ImaginaryGaugePhaseImprint]]
 [[Intelligence_Emergence]]
 [[InterChipletPHYModeling]]
@@ -65,6 +67,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

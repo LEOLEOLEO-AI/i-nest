@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossbarArrayVLSI]]
 [[CrossbarFabricTopology]]
 [[CrossbarInterconnect]]
+[[Cryogenic_Syndrome_Compression]]
 [[DTGA]]
 [[Heterogeneous_Integration]]
 [[ImmobilizationStabilityMechanism]]

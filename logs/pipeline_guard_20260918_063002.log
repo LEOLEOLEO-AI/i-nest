@@ -1,0 +1,106 @@
+
+============================================================
+  iNEST + TCC Research Pipeline v3.3
+  2026-09-18 06:30
+============================================================
+[06:30:02] [S2] Searching Semantic Scholar (19 queries)...
+[06:30:02]   S2: 429 rate limited; skip S2 for this run and continue with arXiv/GN
+[06:30:02] [arXiv] Searching arXiv (via proxy, 21 queries)...
+[06:30:03]   arXiv TCC-scale-noc: HTTP 406, skipping
+[06:30:09]   arXiv TCC-wafer-chiplet: HTTP 406, skipping
+[06:30:15]   arXiv TCC-reconfigurable: HTTP 406, skipping
+[06:30:21]   arXiv TCC-higher-order: HTTP 406, skipping
+[06:30:27]   arXiv TCC-sim-compile: HTTP 406, skipping
+[06:30:32]   arXiv: batch separator, pausing 10s...
+[06:30:43]   arXiv TCC-topology-opt: HTTP 406, skipping
+[06:30:49]   arXiv TCC-qos: HTTP 406, skipping
+[06:30:54]   arXiv iNEST-selforg-critical: HTTP 406, skipping
+[06:31:00]   arXiv iNEST-nonlinear: HTTP 406, skipping
+[06:31:06]   arXiv iNEST-spatiotemporal: HTTP 406, skipping
+[06:31:11]   arXiv: batch separator, pausing 10s...
+[06:31:22]   arXiv iNEST-snn: HTTP 406, skipping
+[06:31:28]   arXiv iNEST-emergence: HTTP 406, skipping
+[06:31:34]   arXiv iNEST-async: HTTP 406, skipping
+[06:31:40]   arXiv iNEST-structure: HTTP 406, skipping
+[06:31:46]   arXiv iNEST-higher-order: HTTP 406, skipping
+[06:31:51]   arXiv: batch separator, pausing 10s...
+[06:32:02]   arXiv iNEST-free-energy: HTTP 406, skipping
+[06:32:08]   arXiv iNEST-reservoir: HTTP 406, skipping
+[06:32:14]   arXiv bridge-network-comp: HTTP 406, skipping
+[06:32:19]   arXiv bridge-info-emergence: HTTP 406, skipping
+[06:32:25]   arXiv TCC-topology-centric: HTTP 406, skipping
+[06:32:30]   arXiv: batch separator, pausing 10s...
+[06:32:41]   arXiv bridge-complex-emergence: HTTP 406, skipping
+[06:32:46] [arXiv] 0 new papers, 21 errors across 21 queries
+[06:32:46] [GN] Google News RSS...
+[06:33:07]   GN error (TCC): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[06:33:29]   GN error (iNEST): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[06:33:52]   GN error (emergence): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[06:34:14]   GN error (complex-networks): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[06:34:15] [GN] 0 new articles
+
+  Total: 0 new items to inbox
+[06:34:15] [Process] LLM classify (free tier, limit=20)...
+[06:34:35]   归档 10_Knowledge\Insights\03_Diagnosis_B.md [TCC]
+[06:34:35] [Process] LLM classified inbox note
+[06:34:52]   归档 10_Knowledge\Concepts\04_Diagnosis_C.md [iNEST]
+[06:34:52] [Process] LLM classified inbox note
+[06:34:59]   归档 10_Knowledge\Articles\02_Diagnosis_A.md [General]
+[06:34:59] [Process] LLM classified inbox note
+[06:35:07]   归档 10_Knowledge\Papers\01_Original_Manuscript.md [TCC]
+[06:35:07] [Process] LLM classified inbox note
+[06:35:13]   归档 10_Knowledge\Concepts\晶圆级融合类脑芯片最终方案 V2.1（12寸_12nm_全面修订版）.md [TCC]
+[06:35:13] [Process] LLM classified inbox note
+[06:35:20]   归档 10_Knowledge\Concepts\晶圆级融合类脑芯片最终方案 V2.0（12寸_12nm_2NPU+1SNN+NI-Switch_功耗重校准版）.md [TCC]
+[06:35:20] [Process] LLM classified inbox note
+[06:35:29]   归档 10_Knowledge\Concepts\晶圆级融合类脑芯片最终方案 V1.0（12寸_12nm_2NPU+1SNN+NI-Switch 簇架构）.md [TCC]
+[06:35:29] [Process] LLM classified inbox note
+[06:35:49]   归档 10_Knowledge\Papers\2026-08-30-2608.27440v1.md [iNEST]
+[06:35:49] [Process] LLM classified inbox note
+[06:35:59]   归档 10_Knowledge\Papers\2026-08-17-2608.14019.md [iNEST]
+[06:35:59] [Process] LLM classified inbox note
+[06:36:09]   归档 10_Knowledge\Papers\2026-08-17-2608.14416.md [iNEST]
+[06:36:09] [Process] LLM classified inbox note
+[06:36:19]   归档 10_Knowledge\Fleeting\2026-08-17-index.md [General]
+[06:36:19] [Process] LLM classified inbox note
+[06:36:26]   归档 10_Knowledge\Papers\2026-08-18-2506.08138.md [iNEST]
+[06:36:26] [Process] LLM classified inbox note
+[06:36:33]   归档 10_Knowledge\Papers\2026-08-18-2508.21445.md [iNEST]
+[06:36:33] [Process] LLM classified inbox note
+[06:36:39]   归档 10_Knowledge\Papers\2026-08-18-2601.20532.md [TCC]
+[06:36:39] [Process] LLM classified inbox note
+[06:36:50]   归档 10_Knowledge\Papers\2026-08-18-2606.01593.md [TCC]
+[06:36:50] [Process] LLM classified inbox note
+[06:36:58]   归档 10_Knowledge\Papers\2026-08-18-2607.26208.md [TCC]
+[06:36:58] [Process] LLM classified inbox note
+[06:37:09]   归档 10_Knowledge\Papers\2026-08-18-2608.15077.md [iNEST]
+[06:37:09] [Process] LLM classified inbox note
+[06:37:17]   归档 10_Knowledge\Papers\2026-08-18-2608.15476.md [TCC]
+[06:37:17] [Process] LLM classified inbox note
+[06:37:23]   归档 10_Knowledge\Papers\2026-08-18-2608.16451.md [TCC]
+[06:37:23] [Process] LLM classified inbox note
+[06:37:30]   归档 10_Knowledge\Papers\2026-08-18-2608.16616.md [iNEST]
+[06:37:30] [Process] LLM classified inbox note
+[06:37:30] [Process] Classified: 20
+[06:37:30] [Genspark] Generating research brief...
+[06:37:31] [Genspark] Research brief written: genspark_research_brief.md
+[06:37:31] [Graph] Scanning wiki links...
+[06:38:34] [Graph] 13143 files, 281888 links
+[06:41:31] [Graph] Exported: 13143 nodes, 278335 edges
+[06:41:31] [Graph] 0 missing backlinks
+[06:41:32] [DailyGen] Daily_Action + Focus + Insights generated
+[06:41:32] [Review] Research task proposals refreshed
+
+============================================================
+  Pipeline v3.3 Complete
+  Sources: 0(S2)+0(arXiv)+0(GN) | Written: 0 new papers
+  Processed: 20 | Nodes: 13143 edges: 278335 | Missing links: 0 | Genspark: OK
+  Elapsed: 690s
+============================================================
+[06:41:32] [State] research_state.json updated
+[06:41:32] [Evolution] Evidence + hypotheses updated
+[06:42:32] [Wiki] Warning: Command '['C:\\Users\\LEO\\AppData\\Local\\Programs\\Python\\Python310\\python.exe', 'D:\\Obsidian\\vault\\90_System\\scripts\\wiki_compiler.py']' timed out after 60 seconds
+[06:42:33] [Insight] Cross-domain bridges updated
+[06:43:28] [Tasks] Research recommendations updated
+[06:43:29] [Dashboard] Live dashboard published
+[06:43:30] [Homepage] Home.md auto-refreshed

@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[EnergyEfficiencyAI]]
 [[Evaluation_Metric_Suite]]
 [[GenerationalAITransition]]
+[[GradientFreeTraining]]
 [[Heterogeneous_Integration]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]

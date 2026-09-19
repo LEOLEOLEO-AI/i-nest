@@ -56,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[MachineLearningPotential]]
 [[NCL神经计算定律详解]]
 [[Network_Topology_Design]]
+[[NonHermitian_Random_Matrix_Spectra]]
 [[Nonlinear_Gain]]
 [[OptomechanicalNonlinearity]]
 [[STDP_Plasticity]]

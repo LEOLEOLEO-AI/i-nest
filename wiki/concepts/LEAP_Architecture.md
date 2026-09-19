@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[HybridResistiveMemoryCIM]]
 [[In_Memory_Computing]]
+[[Long_Range_Interactions]]
 [[Network_Topology_Design]]
 [[OneDimensionalLongRangeInteractions]]
 [[Process_Recycling_Paradigm]]

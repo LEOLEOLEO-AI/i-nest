@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[PhysicalReservoirDynamics]]
 [[Physical_Reservoir]]
 [[Physical_Reservoir_Substrate]]
+[[QuasiContinuousConductanceStates]]
 [[Readout_Weight_Training]]
 [[ReproducibleReservoirComputing]]
 [[ReservoirDynamics]]

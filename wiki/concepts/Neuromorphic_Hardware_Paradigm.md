@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[Neuromorphic_Organization]]
+[[RobustnessToNoiseInSNN]]
 [[SDI_Bond]]
 [[SDI_iNEST]]
 [[SDI_iNEST_Interconnect]]

@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Network_Architecture_Invariant]]
 [[DiagnosticReportFramework]]
 [[Heterogeneous_Integration]]
+[[HierarchicalSpatiotemporalProcessing]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]

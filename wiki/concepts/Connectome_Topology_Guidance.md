@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[ConnectomeTopologyDirectedPropagation]]
 [[ConnectomeWiringSeparability]]
 [[Connectome]]
+[[Connectome_Constrained_Network]]
 [[Cortical_Traveling_Waves]]
 [[Network_Topology_Design]]
 [[TCC]]

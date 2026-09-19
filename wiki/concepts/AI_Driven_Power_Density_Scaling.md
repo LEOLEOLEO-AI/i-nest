@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[P_Paradigm]]
+[[Process_Recycling_Paradigm]]
 [[TCC]]
 [[Topological_Encapsulation]]
 [[TopologyCentricPrimitiveSet]]

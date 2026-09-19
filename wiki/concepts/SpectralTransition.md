@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[BayesianDomainEvolution]]
 [[BehavioralFeedbackLoop]]
 [[Biologically_Plausible_Learning_Rules]]
+[[CST_Intelligence_Emergence]]
 [[Complex_System_Theory]]
 [[Course_Based_FPGA_Projects]]
 [[CriticalityDrivenAdaptation]]

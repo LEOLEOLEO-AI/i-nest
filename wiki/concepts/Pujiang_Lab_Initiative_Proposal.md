@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Service_Orchestration]]
 [[Avoided_Criticality]]
 [[BioPlausibleDisturbanceObserver]]
+[[Catastrophic_Forgetting_Mitigation]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]

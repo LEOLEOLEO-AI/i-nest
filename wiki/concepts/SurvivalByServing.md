@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Complexity_Emergent_Intelligence]]
 [[Compositional_Continuum]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
+[[Continual_Learning_Topology]]
 [[Crystallized_Neural_Manifolds]]
 [[Dynamic_Expert_Fusion]]
 [[ERI_2_0_Strategic_Framework]]

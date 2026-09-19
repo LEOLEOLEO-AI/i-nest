@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[ClosedLoopNeuromorphicControl]]
 [[DecliningModularity]]
 [[Dynamic_Neuromorphic_Computing]]
+[[ExtinctionDrivenMetastability]]
 [[In_Network_Neuromorphic]]
 [[Neuromorphic_Computing]]
 [[iNEST]]

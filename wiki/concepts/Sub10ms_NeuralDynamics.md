@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[20W_Brain_Inspired_Planning]]
 [[3D_Integrated_Chiplet_Stacking]]
 [[3d]]
 [[AI_Faculty_Forum_2026]]

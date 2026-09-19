@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[HodgkinHuxleyDynamics]]
 [[HypergraphRumorPropagation]]
 [[ImageToEventConversion]]
+[[In_Network_Generative_Inference]]
 [[Intelligence_Emergence]]
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]

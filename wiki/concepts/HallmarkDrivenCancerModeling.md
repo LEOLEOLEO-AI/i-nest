@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[GutBrainAxis_Reprogramming]]
 [[Gut_Brain_Immune_Network]]
+[[ImaginaryGaugePhaseImprint]]
 [[Intelligence_Emergence]]
 [[KV_Cache_To_BoundaryObject]]
 [[KV_Cache_to_BoundaryObject_Transition]]

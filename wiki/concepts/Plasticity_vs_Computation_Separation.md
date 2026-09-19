@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[EvolvingArchitectureDynamics]]
 [[FPGA_NeuromorphicMapping]]
 [[FPGA_Reconfigurability]]
+[[FatalityDrivenRewiring]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[HybridCouplingThermosensitiveNetwork]]
 [[InNetworkReconfiguration]]

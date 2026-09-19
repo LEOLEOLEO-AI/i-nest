@@ -43,6 +43,8 @@ Auto-extracted concept from raw material compilation.
 [[Cross_Substrate_Scaling]]
 [[Cryogenic_Syndrome_Compression]]
 [[DimensionalityReductionForNetworkControl]]
+[[Distributed_Spike_Communication]]
+[[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Active_Inference_Topology]]
 [[AdaptiveDensityControl]]
 [[AdaptiveEntanglementManagement]]
+[[AdjointWaveControl]]
 [[BifurcationCandidate]]
 [[CLINKAsCarrierPrimitive]]
 [[CST_Spatiotemporal_Complexity]]

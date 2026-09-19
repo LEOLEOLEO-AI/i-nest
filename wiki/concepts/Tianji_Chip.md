@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]
+[[ConductingPolymerDendriteMemory]]
 [[FullyLocalOnlineSNNTraining]]
 [[Heterogeneous_Integration]]
 [[In_Package_Neuromorphic_Integration]]

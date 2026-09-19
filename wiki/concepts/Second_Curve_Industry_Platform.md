@@ -15,6 +15,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
 [[AI_Faculty_Forum_2026]]
 [[ANN动力学]]
 [[Alpha_Computation_Consistency]]
@@ -24,7 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[CST计量仪]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
-[[chiplet interconnect]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Complex_System_Theory]]
@@ -52,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[Network_topology_and_interconnection_patterns]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[NoC]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[NoC_Chiplet_iNEST_Wafer]]

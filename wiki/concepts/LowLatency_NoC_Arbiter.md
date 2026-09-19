@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AdjointWaveControl]]
 [[CXL_Deployment_Transition]]
 [[CavityMethodAnalysis]]
+[[Chip_Floorplanning]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
@@ -54,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_Control_Plane_Offload]]
 [[SDI_TopologicalControl]]
+[[SDSoW_Reconfigurable_Network]]
 [[TCC]]
 [[VectorFlowField]]
 

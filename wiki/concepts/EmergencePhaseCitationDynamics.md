@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[1M1T1R_SynapticNeuron]]
+[[AstrocyteInspiredRepair]]
 [[BigBrainCellularAxis]]
 [[CST_SynergisticCoordination]]
 [[Chiplet]]
@@ -37,7 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]
 [[InNetworkNeuromorphicEmergence]]
-[[In_Network_Neuromorphic]]
+[[InNetworkNeuromorphic]]
 [[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Processing]]
 [[Intelligence_Emergence]]

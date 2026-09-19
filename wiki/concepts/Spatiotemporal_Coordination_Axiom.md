@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[DataCenter_Chip_Logic_Compression]]
 [[Decoupled_Priors]]
+[[Distributed_Spike_Communication]]
 [[EndToEndTopologyLearning]]
 [[Fixed_Cost_Dominance]]
 [[Fluidic_Hysterons]]

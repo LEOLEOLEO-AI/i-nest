@@ -29,7 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CellEmergence]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
-[[chiplet interconnect]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[CompactFieldVariable]]
 [[DynamicServiceComposition]]
@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Topology]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Obsidian_Plugin_Architecture]]
 [[TOOLS]]
 [[chiplet interconnect]]
 

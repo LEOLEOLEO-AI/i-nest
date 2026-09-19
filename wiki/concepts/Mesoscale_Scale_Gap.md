@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[BranchingRatioControl]]
 [[BranchingRatio]]
 [[ChannelEventSparsity]]
+[[ChipletWaferInterconnectCoDesign]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[ConnectomeFidelityClaim]]
 [[Connectome]]
@@ -36,11 +37,13 @@ Auto-extracted concept from raw material compilation.
 [[CorticalTravelingWave]]
 [[FlexibilityThreshold]]
 [[Scale_Concept_Disambiguation]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[WaferScaleMesoscopicNetwork]]
 [[Wafer_Scale_Integration]]
 [[getnote_2026-02-20_神经突触和神经元二合一物理神经网络构建]]
 [[iNEST]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

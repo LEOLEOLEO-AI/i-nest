@@ -65,6 +65,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_Standard_Review]]
 [[TCC]]
+[[VariationalFreeEnergyMinimisation]]
 [[complex system]]
 [[iNEST]]
 [[涌现]]

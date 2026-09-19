@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
+[[HierarchicalNetworkPartitioning]]
 [[HigherOrderSynchronization]]
 [[Memristive_Interconnect]]
 [[Memristor]]

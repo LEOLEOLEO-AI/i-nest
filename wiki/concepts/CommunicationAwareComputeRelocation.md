@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Attention_Residuals]]
 [[BigBrainCellularAxis]]
+[[ByteDance_Ada_Chip]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Defense_Industrial_Base_Reshaping]]

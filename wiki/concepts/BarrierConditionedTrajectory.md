@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspired_Interception_Control]]
 [[CUDAQSimulationFramework]]
 [[CellEmergence]]
+[[Cognitive_Relapse_Decoupling]]
 [[CrossLayer_SignalRouting]]
 [[CrossbarSNNArchitecture]]
 [[Deep_Thermalisation]]

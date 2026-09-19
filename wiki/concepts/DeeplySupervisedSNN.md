@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[CollectiveSpikingDynamics]]
 [[CombinedImportanceScoring]]
 [[CurrentInjectionSNN]]
+[[EigenvalueLocalizationTransition]]
 [[ErrorSuppressedPipeline]]
 [[ExtinctionDrivenMetastability]]
 [[FPGA_Accelerated_SNN]]

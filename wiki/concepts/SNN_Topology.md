@@ -25,11 +25,13 @@ Auto-extracted concept from raw material compilation.
 [[Asynchronous_Handshake_Protocol]]
 [[BurstGatedRouting]]
 [[Continuous_Discrete_Compute_Gap]]
+[[Continuous_Spatiotemporal_State_Propagation]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
 [[SNN]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 

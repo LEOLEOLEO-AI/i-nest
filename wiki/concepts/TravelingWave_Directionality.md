@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Connectome]]
 [[Connectome_Inspired_Neuromorphic]]
 [[Cortical_Traveling_Waves]]
+[[EmulationTheoryObserver]]
 [[FlexibilityThreshold]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

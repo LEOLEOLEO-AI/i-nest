@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Contested_Prior_Resolution]]
 [[CorticalWaveRouting]]
+[[Cryogenic_Syndrome_Compression]]
 [[DataDrivenCellularAxis]]
 [[EventCameraTemporalEncoding]]
 [[EventDrivenFunctionalConnectivity]]

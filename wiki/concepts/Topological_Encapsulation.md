@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AdiabaticMultimodeBend]]
 [[AdjointWaveControl]]
 [[AdsorptionBiosorptionHybrid]]
+[[Advanced_Packaging]]
 [[AgenticServiceTopology]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[AndersonTransition]]
@@ -57,7 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[SelfOrganization]]
 [[TCC]]
 [[TopologyCentricPrimitiveSet]]
-[[advanced packaging]]
+[[TopologyConditionedLearning]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

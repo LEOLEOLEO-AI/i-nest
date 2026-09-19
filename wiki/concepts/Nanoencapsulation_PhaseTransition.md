@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AddressRedundancyElimination]]
 [[AnalogDomainCompressiveSensing]]
 [[AnisotropicGaussianPrimitives]]
+[[Bidirectional_Temporal_Enhancement]]
 [[BioInspiredLearningRule]]
 [[Biomanufacturing_Control_Loop]]
 [[BranchingRatio]]

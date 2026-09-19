@@ -57,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Topology_Embedding]]
 [[Long_Range_Interactions]]
 [[ManifoldBasedFlexibility]]
+[[MantelTest_SignCorrection]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Self_Organized_Criticality]]

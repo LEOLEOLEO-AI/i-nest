@@ -25,7 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[3D_Heterogeneous_Integration]]
 [[3d]]
 [[AdiabaticMultimodeBend]]
-[[advanced packaging]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_Route]]
 [[AnalogInMemoryComputing]]
 [[Analog_InMemory_Processing]]
@@ -56,12 +56,12 @@ Auto-extracted concept from raw material compilation.
 [[In_Memory_Computing]]
 [[InterChipletPHYModeling]]
 [[Long_Range_Interactions]]
+[[Material_Implication]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[SneakPathCurrentSuppression]]
 [[TCC]]
-[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveGraphDiffusion]]
 [[Adaptive_Intelligence_Principle]]
 [[Adaptive_Service_Orchestration]]
+[[AdjointWaveControl]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[ChiralSymmetryClasses]]
 [[CommunicationAwareComputeRelocation]]

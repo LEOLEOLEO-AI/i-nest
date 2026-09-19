@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[DirectSNNTraining]]
 [[DynamicTokenSparsity]]
 [[Edge_Neuromorphic_Compute]]
+[[EmulationTheoryDisturbanceObserver]]
 [[EventBasedGestureEncoding]]
 [[EventDrivenControlLoop]]
 [[EventDrivenDataAssociation]]

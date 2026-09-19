@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[LLMDrivenPathSelection]]
+[[Local_Approximation_Dynamics]]
 [[Network_Topology_Design]]
 [[Neural_Field_World_Model]]
 [[OpenLearningEcosystem]]

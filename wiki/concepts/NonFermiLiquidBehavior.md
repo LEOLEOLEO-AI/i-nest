@@ -28,7 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BoundaryObject_Abstraction]]
 [[CST_MasterEquation]]
 [[CST计量仪]]
-[[causal emergence]]
+[[Causal_Emergence]]
 [[Causal_Emergence_Architecture]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -69,6 +69,8 @@ Auto-extracted concept from raw material compilation.
 [[TopologicalHealthBiomarker]]
 [[Topological_Synchrony]]
 [[TopologyCentricEngineeringBase]]
+[[causal emergence]]
+[[iNEST]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

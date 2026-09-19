@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[SpatiotemporalCooperativeIntelligence]]
 [[Spatiotemporal_Synergy]]
 [[Spatiotemporal_Synergy_Complexity]]
+[[Thermopneumatic_Actuation]]
 [[iNEST]]
 [[vLLM_plugin_FLSDI]]
 

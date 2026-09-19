@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[ConsciousnessEngineeringLoop]]
 [[CounterstreamSignalPropagation]]
 [[Course_Based_FPGA_Projects]]
+[[CrystalPalace_Program]]
 [[CytoarchitectonicAxis]]
 [[DARPA_ProjectManager_Model]]
 [[DTGA]]

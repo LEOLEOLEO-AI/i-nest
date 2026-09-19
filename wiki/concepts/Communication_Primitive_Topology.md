@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Anisotropic_Square_Lattice]]
 [[AnomalousLocalization]]
 [[ApproximantLattice]]
+[[Asymmetric_Interaction_Graph]]
 [[Communication_Primitive]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]

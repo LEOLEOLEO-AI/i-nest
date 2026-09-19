@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[AdversarialMedicalRobustness]]
 [[Allreduce_Latency_Benchmark]]
+[[BeyondCMOSIntegration]]
 [[BigBrainCellularAxis]]
 [[CST_Spatiotemporal_Complexity]]
 [[CST计量仪]]

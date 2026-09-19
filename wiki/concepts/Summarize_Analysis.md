@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[ModelOptimization]]
 [[MultiDimensionalGrouping]]
 [[MultiSynapticSpikingNeuron]]
+[[NeuroAI_Benchmarking]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[OscillatoryPhaseEncoding]]

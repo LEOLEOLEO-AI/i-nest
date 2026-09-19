@@ -22,6 +22,8 @@ Auto-extracted concept from raw material compilation.
 
 [[4H_SiC_SubstrateProcessing]]
 [[CLINKAsCarrierPrimitive]]
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
 [[CongestionAwareNoCPlacement]]
 [[DynamicServiceComposition]]
 [[Dynamic_Structural_Hole_Reconfiguration]]
@@ -32,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[NoC]]
 [[NoC_Chiplet_iNEST_Wafer]]
+[[Obsidian_Plugin_Architecture]]
 [[P_Paradigm]]
 [[SDI_Bond]]
 [[SDI_NPU_NoC_Integration]]
@@ -46,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[iNEST_Interconnect]]
 [[iNEST_Interconnect_Topology]]
+[[iNEST_Wafer]]
 [[topology reconfiguration]]
 
 ## Sources

@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[DiagnosticReportFramework]]
 [[Flow_Aware_Interconnect_Design]]
 [[GraphBasedSemanticRouting]]
+[[HardwareAware_SelfOrganization]]
 [[Heterogeneous_Integration]]
 [[Independent_AI_Player_Endgame]]
 [[Intelligence_Emergence]]

@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[CouplingTopologyMemoryLink]]
 [[Criticality]]
 [[FlexibilityThreshold]]
+[[In_Network_Neuromorphic_Integration]]
 [[LeftRightAsymmetry]]
 [[Network_Topology_Design]]
 [[PhaseAwareBisectionDemand]]

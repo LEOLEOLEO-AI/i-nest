@@ -61,6 +61,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[InterconnectConstrainedEmergence]]
 [[LocalEvolutionRules]]
+[[MajoranaZeroModeDetection]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[SuperparamagneticSwitchingRate]]

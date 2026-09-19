@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Military_AI_Revolution]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[NonEquilibriumUniversality]]
 [[PolicyDrivenInnovation]]
 [[RoutingBasedComputation]]
 [[TCC]]

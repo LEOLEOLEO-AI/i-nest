@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Crystallized_Neural_Manifolds]]
 [[Distributed_Spike_Communication]]
 [[Epithelial_Barrier_Integrity]]
+[[Functional_Food_Complexity]]
 [[GenerativeTopologyModels]]
 [[Heterogeneous_Synaptic_Motifs]]
 [[In_Memory_Computing]]

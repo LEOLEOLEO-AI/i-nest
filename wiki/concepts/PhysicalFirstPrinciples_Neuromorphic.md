@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[DTGA]]
 [[DarkSiliconAwarePowerGating]]
 [[DataAuthenticityCrisis]]
+[[ExplosiveCooperationTransition]]
 [[ExtensiveWidthShallowNN]]
 [[FerroelectricMemoryCell]]
 [[Ferroelectric_Devices]]

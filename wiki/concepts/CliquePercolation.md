@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Channel_Decoding_Energy_Landscape]]
 [[CoexistenceRegime]]
 [[CommunicationTopologyMismatch]]
+[[Communication_Primitive_Completeness]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

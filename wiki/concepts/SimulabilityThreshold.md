@@ -59,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[Readout_Weight_Training]]
+[[RenormalizationGroup_DeviceNonlinearity]]
 [[Representation_Learning_Generalization]]
 [[Reservoir_Computing]]
 [[SDDE_Attractor_Emergence]]

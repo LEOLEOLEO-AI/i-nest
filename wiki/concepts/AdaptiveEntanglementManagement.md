@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveFunctionalTopology]]
 [[Additive_Manufacturing_Supply_Chain]]
 [[AdjointWaveControl]]
+[[AgenticServiceManifesto]]
 [[AgenticServiceOrchestration]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Allreduce_Latency_Probe]]

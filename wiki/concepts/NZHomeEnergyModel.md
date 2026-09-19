@@ -62,6 +62,7 @@ Auto-extracted concept from raw material compilation.
 [[MachineLearningPotential]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
+[[PrintedElectrodeArchitecture]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[STDP_Plasticity]]

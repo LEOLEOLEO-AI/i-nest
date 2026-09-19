@@ -67,6 +67,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[TCC_RTC原语架构与SDI拓扑变换机理]]
+[[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[TemporalEchoMemory]]
 [[complex system]]
 [[iNEST]]

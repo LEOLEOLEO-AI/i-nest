@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Generalization_Bound_Spectra]]
 [[Intelligence_Emergence]]
 [[MachineLearningPotential]]
+[[Multifractal_Signatures]]
 [[Network_Topology_Design]]
 [[Reservoir_Computing]]
 [[SDI_Bond]]

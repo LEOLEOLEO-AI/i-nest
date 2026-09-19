@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[GravityPathIntegralTopology]]
 [[HybridCouplingThermosensitiveNetwork]]
 [[InSitu_Adjoint_Wave_Control]]
+[[IncidenceMatrixPropagation]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[JunctionCenteredRouting]]

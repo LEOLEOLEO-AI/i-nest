@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Replication_Strategy]]
 [[AdversarialSpikePerturbation]]
 [[Algorithmic_Warfare]]
+[[Anomaly_Induced_Quantum_Criticality]]
 [[Autonomous_Spiking_Dynamics]]
 [[Avoided_Criticality]]
 [[Baseline_Change_Record]]
@@ -51,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Self_Organized_Criticality]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

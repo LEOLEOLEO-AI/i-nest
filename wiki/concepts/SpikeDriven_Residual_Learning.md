@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Replication_Strategy]]
 [[Algorithmic_Warfare]]
 [[Amorphous_Amorphous_Transition]]
+[[Anomaly_Induced_Quantum_Criticality]]
 [[Avoided_Criticality]]
 [[Baseline_Change_Record]]
 [[Bidirectional_Temporal_Enhancement]]

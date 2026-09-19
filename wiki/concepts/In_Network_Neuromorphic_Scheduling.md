@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[BioPlausiblePredictiveCoding]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Complexity_Emergence]]
+[[Continuous_Control_Spike_Timing_Sensitivity]]
 [[CorticalWaveRouting]]
 [[EventCameraTemporalEncoding]]
 [[Event_Driven_Architecture]]

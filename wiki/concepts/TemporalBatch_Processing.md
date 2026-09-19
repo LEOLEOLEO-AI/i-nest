@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[Scalable_Graph_Search_Neuromorphic]]
 [[Self_Organized_Criticality]]
+[[SpikePacketCompression]]
 [[Spiking_Neural_Network]]
 [[SynapticReinforcementConsolidation]]
 [[Syncytial_Mesh]]

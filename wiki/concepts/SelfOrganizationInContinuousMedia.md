@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[LLMDrivenPathSelection]]
 [[LocalPlasticityPipeline]]
 [[Memristive_Topology]]
+[[MultifractalCriticalPhase]]
 [[NetworkArchitectureSearch]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]

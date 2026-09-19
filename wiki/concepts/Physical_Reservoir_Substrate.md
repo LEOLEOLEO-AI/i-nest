@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[Physical_Reservoir]]
+[[QuasiContinuousConductanceStates]]
 [[Readout_Weight_Training]]
 [[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_DeviceNonlinearity]]

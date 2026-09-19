@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossDomainRoleEquivalence]]
 [[Deterministic_Execution]]
 [[ExtinctionDrivenMetastability]]
+[[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[Fixed_Term_Project_Structure]]
 [[RTC_Primitive]]
 [[RTC_Primitives]]

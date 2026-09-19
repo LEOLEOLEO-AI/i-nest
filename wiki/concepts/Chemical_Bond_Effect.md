@@ -22,7 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
-[[chiplet interconnect]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[CrossbarArrayVLSI]]
 [[Free_Energy_Topology_Mapping]]
@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[System_Level_Utility_Control]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[Wafer_Scale_Neuromorphic]]
 [[chiplet interconnect]]
 

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[ActivityPropagationCascade]]
 [[AdaptiveArchitecture]]
 [[AdaptiveFunctionalTopology]]
+[[AgenticServiceManifesto]]
 [[AgenticServiceOrchestration]]
 [[Alpha_Computation_Consistency]]
 [[AndersonTransition]]

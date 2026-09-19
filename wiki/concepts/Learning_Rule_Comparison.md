@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AnisotropicGaussianPrimitives]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BioInspiredSequenceLearning]]
+[[Complexity_Emergence]]
 [[DiscreteSTDP]]
 [[Memristive_STDP]]
 [[Network_Topology_Design]]

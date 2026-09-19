@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Synapse]]
 [[NeuromorphicObserverArchitecture]]
 [[Neuromorphic_Computing]]
+[[PacketRoutingOptimization]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
 

@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[NetworkAttractorStates]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Packaging]]
 [[OpportunisticRoutingRL]]
 [[OpportunisticRouting]]
 [[PropertyPredictionModeling]]

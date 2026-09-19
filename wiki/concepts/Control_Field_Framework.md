@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[AutonomousAdaptation]]
 [[BrainScaleTopologyExploitation]]
+[[CST_Spatiotemporal_Complexity]]
 [[CST计量仪]]
 [[CommunicationHeterogeneity]]
 [[Complex_System_Theory]]

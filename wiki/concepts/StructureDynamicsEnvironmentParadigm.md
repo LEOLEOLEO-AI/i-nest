@@ -21,10 +21,11 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Faculty_Forum_2026]]
-[[advanced packaging]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[Attention_Residuals]]
 [[BoundaryObject_Abstraction]]
+[[ByteDance_Ada_Chip]]
 [[CST计量仪]]
 [[Complex_System_Theory]]
 [[Complexity_Emergence]]
@@ -44,7 +45,6 @@ Auto-extracted concept from raw material compilation.
 [[SDI_iNEST]]
 [[SDI_iNEST_Topology]]
 [[ThermalNoiseHarnessing]]
-[[advanced packaging]]
 [[iNEST]]
 [[iNEST_Emergent_Intelligence]]
 [[iNEST_Topology]]

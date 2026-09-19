@@ -64,6 +64,7 @@ Auto-extracted concept from raw material compilation.
 [[RandomFieldDisorder]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Recursive_Metric_Contraction]]
+[[ReleaseFreePhononic]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[Topology_Interconnect]]

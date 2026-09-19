@@ -51,10 +51,13 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[Neuromorphic_Topology]]
 [[P_Paradigm]]
+[[SOC]]
 [[SpikeDrivenDataAssociation]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[Spiking_neural_network_dynamics]]
 [[TCC]]
+[[Topology_Centric_Spiking]]
 [[iNEST]]
 
 ## Sources

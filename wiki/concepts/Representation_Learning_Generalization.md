@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[MagneticOrderTopologyCoupling]]
 [[MultifractalCriticalPhase]]
 [[Network_Topology_Design]]
+[[Neural_Field_World_Model]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Self_Organized_Criticality]]
 [[Synaptic_Plasticity]]

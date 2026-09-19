@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[EfficientDeepLearning]]
 [[Flow_Aware_Interconnect_Design]]
 [[GraphBasedSemanticRouting]]
+[[HardwareAware_SelfOrganization]]
 [[Heterogeneous_Integration]]
 [[HigherOrderTopology]]
 [[Independent_AI_Player_Endgame]]

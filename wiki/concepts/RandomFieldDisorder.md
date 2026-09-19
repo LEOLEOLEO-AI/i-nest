@@ -63,6 +63,7 @@ Auto-extracted concept from raw material compilation.
 [[PersistenceThresholdOptimization]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Recursive_Metric_Contraction]]
+[[ReleaseFreePhononic]]
 [[ScaleFreeNetwork]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]

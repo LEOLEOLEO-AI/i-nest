@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[ArchitecturalCondition]]
 [[ArtificialProprioception]]
 [[AstrocyteInspiredRepair]]
+[[Attention_Driven_Resource_Allocation]]
 [[AutonomousAdaptation]]
 [[BackflowTransformation]]
 [[BandedConnectivityModel]]

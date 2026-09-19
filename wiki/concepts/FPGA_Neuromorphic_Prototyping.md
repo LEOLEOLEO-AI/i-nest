@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Direct_Training_Spiking_Neural_Networks]]
 [[ElectronicBurstingNeuron]]
 [[Event_Driven_Architecture]]
+[[KinematicWavePropagation]]
 [[NeuromorphicGraphAnomalyDetection]]
 [[Neuromorphic_Computing]]
 [[SNN]]

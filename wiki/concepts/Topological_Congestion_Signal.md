@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveCompetingInteractions]]
 [[AdaptiveGraphDiffusion]]
 [[Adaptive_Intelligence_Principle]]
+[[Adaptive_Service_Orchestration]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]

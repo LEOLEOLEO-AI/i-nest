@@ -58,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[STDP_Plasticity]]
 [[STDP_Supervised_Degradation]]
+[[ST_SNN]]
 [[SelfMotivatedGrowth]]
 [[Self_Organized_Criticality]]
 [[SpatiotemporalComplexityIndex]]

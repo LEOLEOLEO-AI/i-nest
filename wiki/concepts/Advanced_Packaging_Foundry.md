@@ -32,7 +32,8 @@ Auto-extracted concept from raw material compilation.
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_Cluster_Switch_Bottleneck]]
 [[AI_Faculty_Forum_2026]]
-[[advanced packaging]]
+[[Advanced_Packaging]]
+[[Allreduce_Latency_Benchmark]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
@@ -42,7 +43,6 @@ Auto-extracted concept from raw material compilation.
 [[SDI节点接口规范与化合键定义]]
 [[Switch_Bottleneck]]
 [[TCC]]
-[[advanced packaging]]
 [[神经网络]]
 
 ## Sources

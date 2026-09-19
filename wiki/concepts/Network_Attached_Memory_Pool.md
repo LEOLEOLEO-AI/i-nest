@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[AdiabaticMultimodeBend]]
 [[Analog_InMemory_Processing]]
 [[Analog_Weight_Storage]]
+[[AnisotropicTensileStrength]]
 [[Asymptotic_Exact_Solution]]
 [[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN动力学]]
 [[AdsorptionBiosorptionMechanism]]
 [[Analog_InMemory_Processing]]
+[[AnisotropicTensileStrength]]
 [[ArtificialLifeTopologyEvolution]]
 [[AutonomousServiceNegotiation]]
 [[BeamDomainMLFingerprinting]]

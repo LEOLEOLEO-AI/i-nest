@@ -42,7 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Orbital_Object_Pipeline]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[Hybrid_ANN_SNN_Pipeline]]
-[[In_Network_Neuromorphic]]
+[[InNetwork_Neuromorphic]]
 [[InNetwork_Neuromorphic_CoDesign]]
 [[In_Network_Neuromorphic]]
 [[InputAdaptiveComputation]]
@@ -59,6 +59,9 @@ Auto-extracted concept from raw material compilation.
 [[SemanticSpikePattern]]
 [[SemanticTrafficAwareness]]
 [[SequenceAwareSpikingDetection]]
+[[SoftmaxFreeSpikingAttention]]
+[[Spiking neural network]]
+[[SpikingTopology]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

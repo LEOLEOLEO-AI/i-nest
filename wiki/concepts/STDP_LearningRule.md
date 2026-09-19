@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Bidirectional_Temporal_Enhancement]]
 [[BioInspiredSequenceLearning]]
+[[DeeplySupervisedSpiking]]
 [[DiscreteSTDP]]
 [[GraphGeometryAlignment]]
 [[IntrinsicTimingSTDP]]
@@ -33,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Quadratic_Integrate_and_Fire]]
 [[Quadratic_Integrate_and_Fire_Neuron]]
 [[QuantumDeeplySupervisedSpiking]]
+[[SDI_STDP]]
 [[STDP_Learning]]
 [[STDP_Learning_Rule]]
 [[STDP_Plasticity]]

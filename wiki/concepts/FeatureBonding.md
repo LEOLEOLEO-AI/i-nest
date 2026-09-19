@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveFunctionalTopology]]
 [[Adaptive_Service_Reconfiguration]]
 [[AdjointWaveControl]]
+[[AgenticServiceManifesto]]
 [[AgenticServiceOrchestration]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Anomaly_Induced_Quantum_Criticality]]

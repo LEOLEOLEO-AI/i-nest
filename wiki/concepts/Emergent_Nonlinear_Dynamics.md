@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[FirstPrinciples_AI]]
 [[HybridMemristorArray]]
 [[Intelligence_Emergence]]
+[[MemristiveTopologyAwareness]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Memristor_Topology]]

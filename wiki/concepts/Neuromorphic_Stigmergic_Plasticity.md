@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Hybrid_Volatile_NonVolatile_Mode]]
 [[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Integration]]
+[[Intelligence_Emergence]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[MetaHardwareAbstraction]]
@@ -60,8 +61,10 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
+[[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

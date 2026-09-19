@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Resilient_Community_Feedback_Loop]]
 [[SparseActivationSkipping]]
 [[Spiking_Neural_Network]]
+[[SupervisedTrainingDegradation]]
 [[SynapticConnectivityAwarePlacement]]
 [[Synaptic_Plasticity]]
 [[iNEST]]

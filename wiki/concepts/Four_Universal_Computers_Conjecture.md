@@ -26,7 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveGraphDiffusion]]
 [[Adaptive_Intelligence_Principle]]
 [[Adaptive_Service_Orchestration]]
-[[advanced packaging]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[BeyondVonNeumannArchitecture]]
 [[BurstGatedRouting]]
@@ -36,14 +36,15 @@ Auto-extracted concept from raw material compilation.
 [[DecliningModularity]]
 [[DistributedIntelligence]]
 [[Emergence_Phase]]
+[[Ferroelectric_ComputeInMemory]]
 [[Heterogeneous_Integration]]
 [[In_Memory_Computing]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[LightweightNeuromorphicArchitecture]]
 [[LightweightNeuromorphic]]
 [[Neuromorphic_Computing]]
 [[TCC]]
-[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

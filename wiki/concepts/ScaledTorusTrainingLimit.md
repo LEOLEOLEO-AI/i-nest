@@ -66,6 +66,7 @@ Auto-extracted concept from raw material compilation.
 [[Switch_Fabric_Bottleneck]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[TemperatureSensitivityControl]]
 [[complex system]]
 [[iNEST]]
 [[涌现]]

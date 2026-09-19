@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[3DGS_SplatPrimitive]]
 [[3d]]
 [[AI-ML — 全景导航 (Map of Content)]]
+[[AI_Faculty_Forum_2026]]
 [[AdsorptionBiosorptionMechanism]]
 [[Analog_InMemory_Processing]]
 [[AnteHoc_Explainability]]

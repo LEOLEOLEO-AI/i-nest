@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
+[[SDSoW_Industry_Alliance]]
 [[TCC]]
 [[Wafer_Interconnect]]
 [[Wafer_Scale_Integration]]

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Advanced_Packaging]]
 [[Alignment_Tax]]
 [[AndersonTransition]]
 [[Bipartite_Interconnect]]
@@ -36,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[InterChipletPHYModeling]]
 [[Interconnect_Routing]]
+[[LowLatency_NoC_Arbiter]]
 [[MicroRouter_Embedding]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
@@ -45,7 +47,6 @@ Auto-extracted concept from raw material compilation.
 [[Packaging_Aware_NoC_Design]]
 [[RoutabilityDrivenFloorplanning]]
 [[TCC]]
-[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

@@ -37,9 +37,11 @@ Auto-extracted concept from raw material compilation.
 [[In_Package_Neuromorphic_Integration]]
 [[LocalLearning_SynapticUpdate]]
 [[NeuromorphicControlBarrierFunction]]
+[[NeuromorphicHandwritingRecognition]]
 [[Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

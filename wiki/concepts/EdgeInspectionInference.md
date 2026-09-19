@@ -56,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[SelectorFreeHopfieldNetwork]]
 [[Sparsity_Degradation_Threshold]]
 [[Spiking_Neural_Network]]
+[[TCC与INEST：2026全局论文与专利战略规划清单]]
 [[iNEST]]
 [[忆阻器]]
 [[智能涌现]]

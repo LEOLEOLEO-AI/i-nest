@@ -56,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[SpiNNaker2_Chip]]
 [[SpiNNaker]]
 [[SpikeBasedNeuralRadianceField]]
+[[SpikePacketCompression]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[SynapticReinforcementConsolidation]]

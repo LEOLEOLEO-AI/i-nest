@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Distributed_Spike_Communication]]
 [[EdgeInspectionInference]]
 [[Epithelial_Barrier_Integrity]]
+[[EventCameraActionRecognition]]
 [[FixedOverheadPenalty]]
 [[HeterogeneousSynapticDelays]]
 [[Heterogeneous_Integration]]

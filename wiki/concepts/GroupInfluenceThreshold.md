@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AgenticServiceOrchestration]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[AmoebaInspiredLocomotion]]
+[[Ant_Swarm_Functional_Control]]
 [[BarrierConditionedTrajectory]]
 [[BioInspired_Interception_Control]]
 [[Cognitive_Relapse_Decoupling]]

@@ -57,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[OpenLearningEcosystem]]
 [[P_Paradigm]]
 [[Phase_Synchronization_Collective_Dynamics]]
+[[PhysicalSubstrateReservoir]]
 [[QuantumConvolutionalTopology]]
 [[RandomProjectionLandscapePreservation]]
 [[RecursiveSelfReferentialArchitecture]]

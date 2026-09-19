@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AnalogDomainCompression]]
+[[ApproximationFidelityTradeoff]]
 [[Brain_Scale_Parameter_Baseline]]
 [[ChipletRoutingFabric]]
 [[ChipletWaferInterconnectScaling]]
@@ -28,7 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]
 [[Chiplet_Integration_Route]]
-[[chiplet interconnect]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Cryogenic_Syndrome_Compression]]
 [[Heterogeneous_Integration]]

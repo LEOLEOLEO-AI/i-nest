@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[ConductingPolymerDendriteMemory]]
 [[Efficient_Coding_Constraint]]
 [[EnergyEfficientRestoration]]
+[[EnergyResourceEfficiencyTradeoff]]
 [[EventDrivenMatrixUpdate]]
 [[Event_Driven_Architecture]]
 [[NestedRepresentation]]

@@ -29,7 +29,8 @@ Auto-extracted concept from raw material compilation.
 [[3d]]
 [[4H_SiC_SubstrateProcessing]]
 [[AdvancedPackagingInterconnect]]
-[[advanced packaging]]
+[[AdvancedPackaging]]
+[[Advanced_Packaging]]
 [[BifurcationCandidate]]
 [[CST_Complexity_Metric]]
 [[CST_Triple_Proof]]
@@ -40,12 +41,14 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Based_Architecture]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
+[[Chiplet_Topology]]
 [[Chiplet_Topology_Interconnect]]
 [[Complex_System_Theory]]
+[[DARPA_ERI_2_0_Framework]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[TCC]]
-[[advanced packaging]]
+[[Topology_Interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

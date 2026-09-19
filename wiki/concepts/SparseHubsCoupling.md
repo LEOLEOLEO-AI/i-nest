@@ -65,6 +65,7 @@ Auto-extracted concept from raw material compilation.
 [[ScalableNeuromorphicTopology]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
+[[Transferable_Lightweight_Neuromorphic]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[complex system]]

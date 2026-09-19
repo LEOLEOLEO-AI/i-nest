@@ -24,7 +24,8 @@ Auto-extracted concept from raw material compilation.
 [[AdiabaticMultimodeBend]]
 [[AdjointWaveControl]]
 [[AdvancedPackagingInterconnect]]
-[[advanced packaging]]
+[[AdvancedPackaging]]
+[[Advanced_Packaging]]
 [[Anisotropic_Correlation_Length]]
 [[ApproximationFidelityTradeoff]]
 [[CommunicationAwareComputeRelocation]]
@@ -33,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Inference_Workload_Profiling]]
 [[Interconnect_Routing]]
 [[Interconnect_Topology]]
+[[LongRangeCorrelationMatrix]]
 [[Network_Topology_Design]]
 [[Plasticity_vs_Computation_Separation]]
 [[RLFlightControl]]
@@ -42,7 +44,6 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[System_Level_Utility_Control]]
 [[TCC]]
-[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -64,6 +64,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Nonlinear_Gain]]
+[[PersistentHomologyAnalysis]]
 [[Reservoir_Computing]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]

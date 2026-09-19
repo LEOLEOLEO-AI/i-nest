@@ -61,6 +61,7 @@ Auto-extracted concept from raw material compilation.
 [[OneDimensionalSpinGlass]]
 [[PhaseTransitionExistence]]
 [[Planar_Network_Generation]]
+[[RandomizedRecursiveMaze]]
 [[RecursiveSelfReferentialArchitecture]]
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]

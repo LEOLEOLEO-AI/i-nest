@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Network_Generative_Inference]]
 [[In_Package_Neuromorphic_Integration]]
 [[Intelligence_Emergence]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]

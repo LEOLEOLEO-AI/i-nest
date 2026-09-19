@@ -24,7 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[3d]]
 [[AdiabaticMultimodeBend]]
 [[AdsorptionBiosorptionHybrid]]
-[[advanced packaging]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[AndersonTransition]]
 [[BioInspired_Interception_Control]]
@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_Integration]]
+[[Chiplet_Interconnect]]
 [[Chiplet_NoC_Interconnect]]
 [[Collective_Offloading]]
 [[ComponentLevelPackaging]]
@@ -52,7 +53,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologyCentricPrimitiveSet]]
 [[WideLink_NoC_Router]]
-[[advanced packaging]]
 [[chiplet interconnect]]
 
 ## Sources

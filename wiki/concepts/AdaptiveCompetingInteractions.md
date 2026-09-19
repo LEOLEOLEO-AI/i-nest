@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Roadmap]]
 [[FPGA_Neuromorphic_Architectures]]
 [[FlagOS_2_0]]
+[[Free_Energy_Principle_Network]]
 [[Free_Energy_Topology_Mapping]]
 [[GenerativeTopologyModels]]
 [[Intelligence_Emergence]]

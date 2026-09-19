@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[L2_L3_Reconfigurability]]
+[[MetaHardwareAbstraction]]
 [[Network_Topology_Design]]
 [[NonEquilibrium_SpinGlass_Dynamics]]
 [[OptimalGeneralisationCurve]]

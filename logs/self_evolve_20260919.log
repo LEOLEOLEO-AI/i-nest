@@ -1,0 +1,45 @@
+[self_evolve] === 自进化编排开始 ===
+[self_evolve] 运行 wiki_compiler (增量; 无新来源则仅健康检查, 不消耗 LLM)...
+[self_evolve] wiki_compiler 退出码=0 | :39:23]   Article: 2026_09_12_2609_11713v1.md
+[10:39:23]   Article: arXiv_日报索引___2026_09_12.md
+[10:39:23] Phase 2-3: 224 articles, 458 concepts
+[10:44:35] Phase 4: Index and backlinks updated
+[10:49:08] Phase 5: Health report generated
+[10:49:08] === Compile complete: 224 articles, 458 concepts ===
+
+[self_evolve] 运行 wiki_grow 交叉链接/去重...
+[self_evolve] wiki_grow 退出码=0 | iling regexes...
+  regexes ready: 6514 phrases + 6544 slugs
+  AC automaton built (6544 concepts)
+  linking concepts...
+  shared-term linking...
+  linking articles...
+  concepts now: 6544 | linked: 6539 | orphans: 1978
+  index/backlinks/health refreshed.
+[10:56:08] wiki_grow done — orphans 1978/6544
+
+[self_evolve] 运行全库健康自检 (纯本地, 贴近 Obsidian 链接解析)...
+[self_evolve] 健康自检: 笔记 13628 | 真正断链 2159 | 孤儿 2974 | 缺FM 904 -> vault_health.md
+[self_evolve] 自我生长: 补全高频缺失概念占位笔记...
+[self_evolve] 冻结守卫: 允许新增 (有新来源 231 篇，允许增量编译)
+[self_evolve] 已补全 2 个缺失概念: ['自组织临界', '自组织临界性']
+[self_evolve] 运行 Phase 4 自进化引擎 (import/task/evolution/cross-domain)...
+[self_evolve] import_processor 退出码=0 | cessor ===
+[10:56:52] Genspark dir not found, skipping
+[10:56:52] Imported: Genspark=0, 得到大脑=0, Codex=0
+[10:56:52] Total new files in raw/: 0
+[10:56:52] Inbox pending: 0 files
+[10:56:52] === Done ===
+
+[self_evolve] task_recommender 退出码=0 | sights into wiki
+  [LOW   ] Review and incorporate insights into wiki
+  [LOW   ] Review and incorporate insights into wiki
+  [LOW   ] Review and incorporate insights into wiki
+[10:58:05] === Done ===
+
+[self_evolve] research_evolution 退出码=0 | [10:58:06] === Research Evolution Engine ===
+[10:58:06] Hypothesis updates: 0
+[10:58:07] Research directions: 0
+[10:58:07] Report: wiki/evolution_report.md
+[10:58:07] === Done ===
+

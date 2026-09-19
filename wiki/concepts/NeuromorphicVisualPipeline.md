@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CombinedImportanceScoring]]
 [[CoreComputationSubspace]]
 [[CrossLayer_SignalRouting]]
+[[CulturalDisseminationDynamics]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[EnergyEfficientNeuromorphic]]

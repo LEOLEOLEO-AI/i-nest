@@ -57,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[Hysteretic_State_Encoding]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[Long_Range_Interactions]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]

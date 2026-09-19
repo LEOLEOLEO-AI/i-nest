@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Activity_Energy_Tradeoff]]
 [[AlloyDisorderEngineering]]
 [[Allreduce_Latency_Probe]]
+[[Anomaly_Induced_Quantum_Criticality]]
 [[Architectural_Conditioning]]
 [[BioInspired_Interception_Control]]
 [[BioPlausiblePredictiveCoding]]

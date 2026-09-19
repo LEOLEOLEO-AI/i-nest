@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[CrossbarFabricTopology]]
+[[Crossover_Physics]]
 [[EnsembleCreditAssignment]]
 [[FlexibleManifoldReconfiguration]]
 [[InNetworkPowerRouting]]

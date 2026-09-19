@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AnomalousSpinTransport]]
+[[AstrocyteInspiredRepair]]
 [[BigBrainCellularAxis]]
 [[BrownianCastleInterface]]
 [[BrownianCastleInterfaces]]
@@ -62,6 +63,7 @@ Auto-extracted concept from raw material compilation.
 [[ST_SNN]]
 [[Single_Layer_SNN_Architecture]]
 [[Spike_Encoding_of_fMRI]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TemporalDynamicsModeling]]

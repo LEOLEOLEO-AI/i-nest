@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Categorical_Reservoir_Model]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[CombinedImportanceScoring]]
+[[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Crystallized_Embedding_Reservoir]]
 [[Crystallized_Neural_Manifolds]]
 [[DivergentHigherAreaRanking]]

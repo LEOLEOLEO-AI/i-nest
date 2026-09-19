@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[AmorphousTopologicalSubstrate]]
 [[BeliefPropagationOnGraphTopology]]
 [[BoundaryContract]]
+[[CST_Spatiotemporal_Complexity_Theorem]]
 [[CellularSheaf]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]

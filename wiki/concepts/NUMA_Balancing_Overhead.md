@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[6万+辛顿2025年度全景实录深读｜真正的智能与硅基智能的非对称演进]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
+[[Chiplet_Based_Neuromorphic_Integration]]
 [[CirculateFiringNeuron]]
 [[ComplexValuedSNN]]
 [[Distributed_Spike_Communication]]
@@ -45,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[SolitonLikeWaves]]
 [[SpikeEncoding]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[Swarm_Coordination]]
 [[SynapticWeightPlasticity]]
@@ -56,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[Yann LeCun：发现智能原理是AI的终极问题]]
 [[iNEST]]
 [[向大脑学习智能本质，探索通用 AI 的另一条可行路径]]
+[[复杂网络]]
 [[忆阻器]]
 [[战略报告提纲：物理复杂网络智能涌现——颠覆现有算力范式的新路线]]
 [[智能涌现]]

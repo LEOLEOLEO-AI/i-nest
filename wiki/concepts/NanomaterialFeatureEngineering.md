@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[GNN图神经网络，非结构化数据分析利器！]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[InterconnectAwareGradientAggregation]]
 [[Izhikevich_NeuronModel]]
 [[MeanFieldSpinGlass]]
 [[Network_Topology_Design]]

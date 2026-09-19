@@ -23,9 +23,11 @@ Auto-extracted concept from raw material compilation.
 [[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
 [[11_SDI节点接口规范与化合键定义_dup]]
 [[4H_SiC_SubstrateProcessing]]
+[[AI-ML — 全景导航 (Map of Content)]]
 [[AI_Application_Scenario_Reconstruction]]
 [[AdvancedPackagingInterconnect]]
-[[advanced packaging]]
+[[AdvancedPackaging]]
+[[Advanced_Packaging]]
 [[CST_SynergisticCoordination]]
 [[Complex_System_Theory]]
 [[Defense_Industrial_Base_Reshaping]]
@@ -39,11 +41,11 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
 [[SDI_Topology]]
+[[SDI节点接口规范与化合键定义]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
-[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

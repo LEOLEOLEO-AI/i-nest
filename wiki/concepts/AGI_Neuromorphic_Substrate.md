@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[MultiScaleTemporalProcessing]]
 [[National_Planning_Driven_Research_Alignment]]
 [[NeuromorphicObserverArchitecture]]
+[[NeuromorphicSafetyBoundary]]
 [[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]

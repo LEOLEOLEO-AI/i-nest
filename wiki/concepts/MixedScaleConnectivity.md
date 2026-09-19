@@ -48,11 +48,14 @@ Auto-extracted concept from raw material compilation.
 [[Independent_EdgeAI_Player_Endgame]]
 [[Koopman_Constants_Of_Motion]]
 [[MemristiveTopologyCoupling]]
+[[Memristor]]
 [[Memristor_Interconnect]]
+[[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
 [[SDI_Review_Process]]
+[[SDI_iNEST_Topology]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

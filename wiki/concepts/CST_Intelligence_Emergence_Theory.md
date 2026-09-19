@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[ReceptiveField_Processing]]
 [[Structure_Function_Formula]]
+[[TopologicalEdgeStateTransport]]
 [[iNEST]]
 
 ## Sources

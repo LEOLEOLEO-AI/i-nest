@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[GPU_Bottleneck_Relief]]
 [[Heterogeneous_Integration]]
 [[InterconnectAwarePartitioning]]
+[[MicroRouter_Embedding]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC]]

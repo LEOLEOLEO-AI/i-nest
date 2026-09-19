@@ -20,7 +20,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
-[[156QubitScale]]
 [[ActionPrototypeClustering]]
 [[ActiveMatterComputing]]
 [[Active_Inference_Agent]]
@@ -41,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Brain_Connectome]]
 [[CST_CoordinationMechanism]]
 [[C_elegansConnectomeAnalogy]]
+[[CircadianGateModulation]]
 [[Combinatorial_Optimization_Readout]]
 [[Complex_System_Theory]]
 [[Complexity_Emergence]]
@@ -50,7 +50,9 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[Course_Based_FPGA_Projects]]
 [[CrossSubstrateHomology]]
+[[Intelligence_Emergence]]
 [[Neuromorphic_Computing]]
+[[Physical_Reservoir]]
 [[Reservoir_Computing]]
 [[iNEST]]
 

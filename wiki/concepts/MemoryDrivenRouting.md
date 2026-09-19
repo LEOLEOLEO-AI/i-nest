@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[FerroelectricMemoryCell]]
 [[Ferroelectric_Devices]]
 [[Flow_Aware_Interconnect_Design]]
+[[GradientFreeTraining]]
 [[GraphBasedSemanticRouting]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]

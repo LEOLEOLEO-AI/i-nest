@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalInertiaEstimation]]
 [[CrossLinkInterferenceMitigation]]
 [[DarkSiliconAwarePowerGating]]
+[[Demonstration_Validation_Protocol]]
 [[ERI_2_0_Framework]]
 [[EdgeAI_Market_Consolidation_Driver]]
 [[EpoxyMoldingCompoundFlow]]

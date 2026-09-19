@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologyAdaptiveComputation]]
 [[TopologyGradientSignal]]
+[[VectorFlowField]]
 
 ## Sources
 - See wiki/articles/ for source article summaries
