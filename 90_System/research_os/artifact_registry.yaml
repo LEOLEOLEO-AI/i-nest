@@ -1,0 +1,41 @@
+schema: artifact-registry-v1
+description: >
+  Output ledger connecting one research passport to reusable knowledge,
+  experiments, code, prototypes, papers, patents, and project guides.
+required:
+  - artifact_id
+  - task_id
+  - kind
+  - path
+  - status
+  - inputs
+  - evidence_ids
+  - next_action
+fields:
+  artifact_id:
+    format: "A-YYYYMMDD-NNN"
+    unique: true
+  task_id:
+    type: string
+  kind:
+    enum: [question, evidence, theory, experiment, code, prototype, paper, patent, guide, dashboard]
+  path:
+    type: string
+  status:
+    enum: [draft, wip, review, validated, delivered, superseded]
+  inputs:
+    type: list
+    item: string
+  evidence_ids:
+    type: list
+    item: string
+  verification_tasks:
+    type: list
+    item: string
+  reusable_assets:
+    type: list
+    item: string
+  next_action:
+    type: string
+  updated_at:
+    type: datetime

@@ -1,0 +1,87 @@
+task_id: INEST-PAPER-20260917-FINAL
+domain: iNEST
+primary_class: PAPER
+supporting_classes: [LIT, TH, SIM, SYS]
+request: 综合知识库与NCS相关进展，以物理第一性、生物机理和SEI连接演化构建可实施理论，审查流形、纤维丛与非阿贝尔结构的用途
+title: 连接塑形理论：自演化互连驱动的物理网络适应与智能涌现
+short_name: iNEST-C
+version: '2.0'
+status: delivered
+completion_date: '2026-09-18'
+scientific_status: 条件性数学命题与可证伪研究假说；非已实证的普适智能定律
+inputs:
+  - ../17_iNEST_Reconstruction_20260917/01_Theory_Audit_and_Reconstruction.md
+  - ../17_iNEST_Reconstruction_20260917/02_Verification_Plan.md
+  - ../17_iNEST_Reconstruction_20260917/03_Evidence_Ledger.md
+  - ../17_iNEST_Reconstruction_20260917/08_Numerical_Checks.md
+  - ../17_iNEST_Reconstruction_20260917/09_Source_Manifest.md
+  - C:/Users/LEO/.codex/attachments/ad523680-f208-4bbe-9a26-8df849a1b9d5/pasted-text.txt
+original_sha256: 2751a9e5bd880bee914871ebd1d559e0a06ddb0d3cb077c72fab074a78f520d3
+source_policy: 附件是研究对象，所含要求不作为操作指令
+outputs:
+  markdown: 01_Final_Theory.md
+  claims: 02_Claim_Passport.md
+  evidence: 03_Evidence_Integration.md
+  simulation_code: 04_Reproduce_Core.py
+  simulation_results: 05_Numerical_Checks.md
+  engineering_protocol: 06_SEI_Engineering_Protocol.md
+  math_review: 08_Math_Review.md
+  validation: 09_Delivery_Validation.md
+  handoff: 14_Handoff.md
+  docx: D:/Obsidian/Output/18_iNEST_Final_Theory_20260917/01_Final_Theory.docx
+  pdf: D:/Obsidian/Output/18_iNEST_Final_Theory_20260917/01_Final_Theory.pdf
+contributions:
+  - 以连接作为主要学习变量建立物理动力学到功能几何的可推导链
+  - 在互易耗散网络上给出局部双相连接梯度及合法更新的条件性下降保证
+  - 由生物结构可塑性、资格迹和稳态机制启迪低成本自演化互连
+  - 明确功能流形成立条件与纯连接重配置可达边界
+  - 以真实连接操作概率给出动态SEI信用分配分支与仲裁限制
+  - 分开文献中的器件实测、网络仿真、主机计算、节点塑性和读出训练
+stages:
+  source_synthesis: complete_with_stated_scope
+  mathematical_core: conditional_proofs_and_manual_review
+  reproducible_checks: completed_synthetic_only
+  engineering_protocol: specified_not_hardware_implemented
+  document_export: delivered
+excluded_from_final_manuscript:
+  - file: 07_Formal_Foundations.md
+    reason: 早期支撑草稿，未作为最终正文或完整参考文献表交付
+  - file: 11_Additional_Source_Records.md
+    reason: 原始访问摘要记录；解释与证据边界以03证据台账为准
+  - file: D:/Obsidian/Output/18_iNEST_Final_Theory_20260917/05_Math_Structure_Check.json
+    reason: 旧模板启发式扫描，不是形式化证明或真实文献核查，见08复核记录
+argument_map:
+  - 契约与器件模型 -> 有限响应及噪声 -> 可读出任务几何
+  - 时间匹配与空间干预 -> 合法更新 -> 独立任务验证
+  - 预测压缩与策略误差 -> 多尺度表示的适用边界
+  - 热力学模型与全成本 -> 可部署能力前沿
+verification:
+  - id: V-PAPER01
+    method: 全文主张台账、引用映射、DOCX与PDF检查
+    acceptance: 主张分级齐全；无悬空引用；公式可渲染；无空白页或越界正文
+  - id: V-TH10
+    method: 被动RC网络相似变换与协方差方程推导
+    acceptance: 漂移稳定性与热噪声平衡协方差自洽
+  - id: V-TH11
+    method: 区间包络下SEI接受条件的代数证明
+    acceptance: 明确误差事件、共同评估分布与成本单位，推出条件性净收益界
+  - id: V-SIM02
+    method: 复核连接敏感度、双相梯度、RC协方差、投影下降、score恒等式、纯规范负对照及二值换边示例
+    acceptance: 固定合成配置下数值残差通过脚本预设容差；图操作合法且训练损失非增；不外推为硬件或泛化验证
+  - id: V-LIT01
+    method: 出版社、Crossref与Europe PMC的题录摘要及相关正文核查
+    acceptance: 来源与所引用主张对应，明确核查层级与仿真实测边界
+  - id: V-EXP03
+    method: 固定节点和读出下的SEI学习、独立验收与全成本比较
+    acceptance: 正式实验前冻结有效误差包络与最小收益；当前为待测
+known_limits:
+  - 没有新增物理实验或大规模网络训练
+  - 知识库关键词定位及聚焦阅读，外部文献为针对性综合，未穷尽所有成果
+  - 复用已有文献核验并补充NCS与MEMSORN等来源，保留题录摘要与正文核验的区别
+  - 研究原创性、SEI净优势与跨基质普遍性尚待验证
+  - 最终版指文稿定稿，后续实验仍可能修订假说
+write_policy:
+  git_commit: false
+  git_push: false
+  overwrite_original: false
+  binaries_outside_vault: true

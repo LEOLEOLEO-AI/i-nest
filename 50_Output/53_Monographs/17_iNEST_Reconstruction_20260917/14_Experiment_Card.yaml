@@ -1,0 +1,60 @@
+task_id: INEST-R-20260917
+primary_class: TH
+experiment_id: V-EXP01
+status: planned_not_run
+evidence_label: "[假设]"
+question: "Can a calibrated finite-horizon response model predict the task effect of unseen topology interventions under matched budgets?"
+first_model: linear_discrete_state_space
+followup_model: existing_reservoir_library_after_linear_validation
+dimensions: [16, 32, 64]
+pilot_seed_rule: "20260917 + i, i = 0,...,11"
+seed_status: pilot_only_not_confirmatory_power
+input_distribution: independent_zero_mean_unit_variance_for_first_analytic_stage
+targets:
+  - instantaneous_linear_transform
+  - delayed_input_reconstruction
+  - orthogonal_quadratic_history_functions
+  - noisy_signal_estimation
+splits:
+  - calibration
+  - training
+  - validation
+  - held_out_test
+  - held_out_topology_operations
+baselines:
+  - fixed_network
+  - random_legal_reconfiguration
+  - spectral_diagnostics_predictor
+  - simple_input_output_statistics_predictor
+  - task_trained_same_network_class
+  - budget_matched_digital_filter
+negative_controls:
+  - same_internal_process_different_readout
+  - irrelevant_disconnected_chaotic_module
+  - degree_preserving_rewiring
+  - specified_temporal_shuffling_with_confound_accounting
+  - partition_and_retrain
+primary_metrics:
+  - held_out_intervention_risk_prediction_error
+  - paired_task_utility_gain
+secondary_metrics:
+  - predefined_spatial_temporal_interaction
+  - total_energy
+  - end_to_end_latency
+  - operating_constraint_violations
+statistical_plan:
+  confidence_level: 0.95
+  label: "[假设·统计设计]"
+  independent_unit: network_seed_or_physical_device_not_individual_time_point
+  confirmatory_sample_size: freeze_after_separate_pilot_and_application_effect_threshold
+  multiplicity: preregister_primary_comparison_adjust_or_label_secondary_exploratory
+acceptance:
+  - out_of_sample_prediction_beats_tuned_spectral_and_simple_statistical_baselines
+  - no_extra_ports_readout_or_training_budget_explains_gain
+  - report_all_factor_cells_and_confidence_intervals
+  - application_effect_threshold_frozen_before_test_for_practical_claims
+limitations:
+  - no_hardware_selected_or_measured
+  - no_main_experiment_executed
+  - physical_budgets_and_application_threshold_pending
+  - finite_test_suite_does_not_prove_all_policy_path_bound

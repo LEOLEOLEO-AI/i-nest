@@ -1,0 +1,69 @@
+schema: research-passport-v1
+description: >
+  TCC+iNEST research unit of work. Every research question, experiment,
+  engineering prototype, paper, patent, or project guide must link to one passport.
+required:
+  - task_id
+  - domain
+  - question
+  - claim_type
+  - status
+  - verification_tasks
+  - artifacts
+  - provenance
+fields:
+  task_id:
+    format: "TCC-I-YYYYMMDD-NNN"
+    unique: true
+  domain:
+    enum: [TCC, iNEST, cross, SDI]
+  question:
+    type: string
+  claim_type:
+    enum: [fact, measurement, derivation, hypothesis, design, synthesis]
+  status:
+    enum: [seed, active, blocked, validating, delivered, archived]
+  provenance:
+    type: list
+    item:
+      source_system: [codex, genspark, getnotes, tracework, doubao, local]
+      source_id: string
+      captured_at: datetime
+      evidence_label: "[引用]"
+  hypotheses:
+    type: list
+    item: string
+  verification_tasks:
+    type: list
+    item:
+      id: string
+      method: string
+      acceptance: string
+      status: [planned, running, passed, failed, blocked]
+  artifacts:
+    type: list
+    item:
+      artifact_id: string
+      kind: [question, evidence, theory, experiment, code, prototype, paper, patent, guide]
+      path: string
+      status: [draft, wip, reviewed, delivered]
+  outputs:
+    type: list
+    item:
+      target: [paper, patent, project_guide, prototype, internal_note]
+      claim_ids: list
+      evidence_ids: list
+  risks:
+    type: list
+  next_action:
+    type: string
+  updated_at:
+    type: datetime
+evidence_rules:
+  numeric_labels: ["[实测]", "[仿真]", "[引用]", "[推导]", "[待测]"]
+  every_claim_requires:
+    - evidence_label
+    - source_or_method
+    - verification_task_id
+    - acceptance_criterion
+  simulation_is_not_causality: true

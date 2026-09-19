@@ -1,0 +1,32 @@
+project: INEST-R-20260917
+status: delivery_complete_with_research_limits
+primary_class: TH
+stages:
+  RQ:
+    status: PASS
+    artifacts: [00_Task_Card.md]
+    evidence: task_and_resource_conditioned_falsifiable_question
+  LIT:
+    status: PASS_WITH_LIMITS
+    artifacts: [03_Evidence_Ledger.md, 10_Reference_Metadata.md]
+    evidence: identifier_and_content_support_separated
+    limitation: not_exhaustive_original_bibliography_or_novelty_search
+  TH:
+    status: PASS_WITH_SCOPE
+    artifacts: [01_Theory_Audit_and_Reconstruction.md]
+    evidence: analytic_counterexamples_conditional_proofs_and_independent_review
+    limitation: not_a_universal_intelligence_theory
+  SIM:
+    status: PLAN_COMPLETE_EXAMPLES_CHECKED
+    artifacts: [02_Verification_Plan.md, 05_Reproduce_Checks.py, 08_Numerical_Checks.md, 14_Experiment_Card.yaml]
+    evidence: numerical_assertions_passed
+    limitation: main_network_and_hardware_experiments_not_run
+  DELIVERY:
+    status: PASS
+    artifacts: [04_Manifest.md, 09_Source_Manifest.md, 15_Delivery_Validation.md]
+next_action: V-EXP01_held_out_topology_interventions
+side_effects:
+  source_files_changed: false
+  git_commit: false
+  git_push: false
+  external_publish: false

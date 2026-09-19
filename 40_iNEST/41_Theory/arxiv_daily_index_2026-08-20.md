@@ -1,0 +1,25 @@
+---
+direction: both
+category: 资料
+tags: [arXiv日报, 索引, 神经形态计算, 涌现系统, 纠缠相变]
+summary: "2026-08-20 arXiv日报索引，收录4篇论文，含2篇神经形态方向。"
+quality: medium
+processed: 2026-09-18 18:45
+---
+# arXiv 日报索引 — 2026-08-20
+
+> 本日新增 **4** 篇 | 分析方式：gsk summarize 三维分析
+
+| 序号 | 论文 | 标签 |
+|------|------|------|
+| 1 | [[2026-08-20-2608.18248\|Learning constructive models of emergent systems...]] | - |
+| 2 | [[2026-08-20-2605.10758\|No measurement induced phase transition in the entangle...]] | - |
+| 3 | [[2026-08-20-2608.18341\|Low-Power, Neuromorphic, Acoustic Anomaly Detection for...]] | NM |
+| 4 | [[2026-08-20-2606.20151\|Hybrid ANN-SNN Pipeline with Local Plasticity...]] | NM |
+
+## 相关链接
+- [[arxiv_daily_index_2026-08-12]]
+- [[2026-08-18-arxiv-daily-index]]
+- [[arxiv_daily_index_2026-08-19]]
+- [[arxiv_daily_index_2026-08-11]]
+- [[2026-08-14-arxiv-daily-index]]
