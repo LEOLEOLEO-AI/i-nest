@@ -134,3 +134,7 @@ state/self_evolve.lock
 
 # research_evolve 单例锁 (运行时文件, 不入库)
 90_System/research_evolve/state/evolve.lock
+
+# ---- Zotero 桥 / 论文阅读器的派生缓存（可由脚本重建，不入库）----
+90_System/research_evolve/zotero/text_cache/
+90_System/research_evolve/zotero/corpus.jsonl

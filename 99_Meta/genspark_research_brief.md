@@ -1,11 +1,11 @@
 ---
-title: iNEST+TCC Research Brief - 2026-09-18
-date: 2026-09-18
+title: iNEST+TCC Research Brief - 2026-09-19
+date: 2026-09-19
 type: research-brief
 target: genspark
 ---
 
-# iNEST + TCC Research Brief - 2026-09-18
+# iNEST + TCC Research Brief - 2026-09-19
 
 > For Genspark deep analysis. Contains actionable research context.
 
@@ -33,19 +33,19 @@ target: genspark
 
 ## 4. Inbox Highlights
 
-- [2026-09-18] **Memory Caching 论文深度笔记：让 RNN 拥有可增长的记忆** (01_GetNotes)
-- [2026-09-18] **2026新思开发者大会：台积电罗镇球谈AI时代的半导体产业与技术路线** (01_GetNotes)
+- [2026-09-19] **拓扑中心计算网络底座项目建议书（正式版·优化稿）** (01_GetNotes)
+- [2026-09-18] **华为廖恒嵌套并行冯·诺依曼架构论文深度解读：百万处理器如何仍是一台计算机** (01_GetNotes)
+- [2026-09-18] **全球首个3D算力芯片开源框架Open3D-PIMC发布：国产AI生态的规则突围** (01_GetNotes)
+- [2026-09-18] **iNEST体系第一性原理诊断报告（V1.0）** (01_GetNotes)
 - [2026-09-16] **2026-09-16_arXiv_Partial projected ensembles reveal slow tilt-constrained inf** (_pipeline_insights)
 - [2026-09-16] **2026-09-16_arXiv_Learning to Solve Hard Problems in RL for LLMs by Never Givi** (_pipeline_insights)
 - [2026-09-16] **2026-09-16_arXiv_Self-Emergence Agent ArchitectureBehavior-Inertia HMM, Refle** (_pipeline_insights)
 - [2026-09-16] **2026-09-16_arXiv_Scaled Hippocampus-inspired Neural Networks on Neuromorphic ** (_pipeline_insights)
-- [2026-09-16] **2026-09-16_arXiv_Topology-Aware Congestion Pricing Demand Robust Routing usin** (_pipeline_insights)
-- [2026-09-16] **2026-09-16_arXiv_Budgeted Express-Mesh Traffic-Aware Link Placement and Deadl** (_pipeline_insights)
 
 ## 5. Knowledge Graph Hotspots
 
-Total notes: 13381
-Graph nodes: 13143 | edges: 278335
+Total notes: 7623
+Graph nodes: 13367 | edges: 293349
 
 Top connected topics:
 - **backlinks** (degree=7560)
@@ -55,11 +55,11 @@ Top connected topics:
 - **TCC_iNEST_成果全景** (degree=291)
 - **00_研究资料导航** (degree=194)
 - **10_Own_Research_Diagnosis** (degree=103)
-- **Residual_Connection_Removal** (degree=86)
+- **Residual_Connection_Removal** (degree=89)
 
 ## 6. Innovation Brief (latest)
 
 (Run innovation_engine.py to generate)
 
 ---
-*Research brief auto-generated 2026-09-18 17:35*
+*Research brief auto-generated 2026-09-19 12:05*

@@ -118,21 +118,43 @@ def paper_index(papers: dict) -> tuple[set[str], set[str], set[str], set[str]]:
     return keys, arxiv, doi, blocked
 
 
-def register_paper(key: str, title: str, identifier: str,
-                   status: str = "pending", source: str = "") -> dict:
+def register_papers_bulk(records: list[dict]) -> dict:
+    """批量登记：**一次** load、**一次** save。
+
+    为什么需要: register_paper() 每条都 load+save 整个 YAML，n 条就是 O(n²)。
+    实测用 Zotero 播种 540 条时超过 120 秒仍未完成（每次都重写几百 KB 的 YAML）。
+    批量版把复杂度降到 O(n)。
+
+    records: [{"key","title","identifier","status","source"}, ...]
+    """
     papers = load_papers()
     works = papers.setdefault("works", [])
-    for w in works:
-        if isinstance(w, dict) and str(w.get("key")) == key:
-            w.update({"title": title, "identifier": identifier,
-                      "status": status, "source": source, "updated": today()})
-            save_yaml(PAPERS_FILE, papers)
-            return w
-    w = {"key": key, "title": title, "identifier": identifier,
-         "status": status, "added": today(), "source": source}
-    works.append(w)
+    index = {str(w.get("key")): w for w in works if isinstance(w, dict)}
+    added = updated = 0
+    for r in records:
+        k = str(r["key"])
+        if k in index:
+            index[k].update({"title": r["title"], "identifier": r["identifier"],
+                             "status": r["status"], "source": r["source"],
+                             "updated": today()})
+            updated += 1
+        else:
+            w = {"key": k, "title": r["title"], "identifier": r["identifier"],
+                 "status": r["status"], "added": today(), "source": r["source"]}
+            works.append(w)
+            index[k] = w
+            added += 1
     save_yaml(PAPERS_FILE, papers)
-    return w
+    return {"added": added, "updated": updated, "total": len(works)}
+
+
+def register_paper(key: str, title: str, identifier: str,
+                   status: str = "pending", source: str = "") -> dict:
+    """单条登记。批量场景请用 register_papers_bulk()。"""
+    register_papers_bulk([{"key": key, "title": title, "identifier": identifier,
+                           "status": status, "source": source}])
+    return {"key": key, "title": title, "identifier": identifier,
+            "status": status, "source": source}
 
 
 def check_citations(text: str, papers: dict) -> list[dict]:

@@ -1,0 +1,810 @@
+{
+  "generated": "2026-09-19T22:36:58.204565",
+  "count": 268,
+  "map": {
+    "hasaniInterpretableRecurrentNeural": [
+      "C:\\Users\\LEO\\Zotero\\storage\\74CFELF2\\Hasani - Interpretable Recurrent Neural Networks in Continuous-time Control Environments.pdf"
+    ],
+    "abdiOrganizedViewReservoir2024": [
+      "C:\\Users\\LEO\\Zotero\\storage\\AKN6NT7M\\Abdi 等 - 2024 - An organized view of reservoir computing a perspective on theory and technology development.pdf"
+    ],
+    "dingComprehensiveSurveyArtificial2025": [
+      "C:\\Users\\LEO\\Zotero\\storage\\CCA2P3EV\\Ding 等 - 2025 - A Comprehensive Survey on Artificial Intelligence for Complex Network Potential, Methodology and Ap.pdf"
+    ],
+    "schmidgallBraininspiredLearningArtificial2024": [
+      "C:\\Users\\LEO\\Zotero\\storage\\MW7HRPRX\\Schmidgall 等 - 2024 - Brain-inspired learning in artificial neural networks A review.pdf"
+    ],
+    "khacefBraininspiredSelforganizationCellular2020": [
+      "C:\\Users\\LEO\\Zotero\\storage\\V8343QVS\\Khacef 等 - 2020 - Brain-inspired self-organization with cellular neuromorphic computing for multimodal unsupervised le.pdf"
+    ],
+    "zhuBridgingGapArtificial2024": [
+      "C:\\Users\\LEO\\Zotero\\storage\\TBWJRHUL\\Zhu 等 - 2024 - Bridging the gap between artificial intelligence and natural intelligence.pdf"
+    ],
+    "zadorCatalyzingNextgenerationArtificial2023": [
+      "C:\\Users\\LEO\\Zotero\\storage\\D7YAG6RM\\Zador 等 - 2023 - Catalyzing next-generation Artificial Intelligence through NeuroAI.pdf"
+    ],
+    "mahmoodiComplexitySynchronizationEmergent2024": [
+      "C:\\Users\\LEO\\Zotero\\storage\\AZZ8EWUF\\Mahmoodi 等 - 2024 - Complexity synchronization in emergent intelligence.pdf"
+    ],
+    "stanleyDesigningNeuralNetworks2019": [
+      "C:\\Users\\LEO\\Zotero\\storage\\KA4AJRRL\\Stanley 等 - 2019 - Designing neural networks through neuroevolution.pdf"
+    ],
+    "plantecEvolvingSelfAssemblingNeural2024": [
+      "C:\\Users\\LEO\\Zotero\\storage\\AR7XSWBB\\Plantec 等 - 2024 - Evolving Self-Assembling Neural Networks From Spontaneous Activity to Experience-Dependent Learning.pdf"
+    ],
+    "watanabeFractalSmallWorldNetworks2015": [
+      "C:\\Users\\LEO\\Zotero\\storage\\8A2PKPBP\\Watanabe 等 - 2015 - Fractal and Small-World Networks Formed by Self-Organized Critical Dynamics.pdf"
+    ],
+    "zhaoInsightsDeepSeekV3Scaling2025": [
+      "C:\\Users\\LEO\\Zotero\\storage\\26CDGDU7\\Zhao 等 - 2025 - Insights into DeepSeek-V3 Scaling Challenges and Reflections on Hardware for AI Architectures.pdf"
+    ],
+    "hilgetagBrainReallySmallworld2016": [
+      "C:\\Users\\LEO\\Zotero\\storage\\RE2H9KI5\\Hilgetag和Goulas - 2016 - Is the brain really a small-world network.pdf"
+    ],
+    "liangLessMoreWiringeconomical2022": [
+      "C:\\Users\\LEO\\Zotero\\storage\\B2AT4WZI\\Liang 等 - 2022 - Less is more wiring-economical modular networks support self-sustained firing-economical neural ava.pdf"
+    ],
+    "kumarLiquidNeuralNetworks2023": [
+      "C:\\Users\\LEO\\Zotero\\storage\\WPS4ZVGI\\Kumar 等 - 2023 - Liquid Neural Networks A Novel Approach to Dynamic Information Processing.pdf"
+    ],
+    "youvanModelingEmergentIntelligence2024": [
+      "C:\\Users\\LEO\\Zotero\\storage\\4VFIUAT4\\Youvan - 2024 - Modeling Emergent Intelligence in Neural Networks A Geometric and Dynamical Perspective.pdf"
+    ],
+    "heNetworkModelInternal2024": [
+      "C:\\Users\\LEO\\Zotero\\storage\\FCPEE7K6\\He 等 - 2024 - Network model with internal complexity bridges artificial intelligence and neuroscience.pdf"
+    ],
+    "schmittNeuromorphicHardwareLoop2017": [
+      "C:\\Users\\LEO\\Zotero\\storage\\IL93ECD9\\Schmitt 等 - 2017 - Neuromorphic Hardware In The Loop Training a Deep Spiking Network on the BrainScaleS Wafer-Scale Sy.pdf"
+    ],
+    "khacefNeuromorphicHardwareSelforganizing2018": [
+      "C:\\Users\\LEO\\Zotero\\storage\\ZKHSKZMH\\Khacef 等 - 2018 - Neuromorphic hardware as a self-organizing computing system.pdf"
+    ],
+    "mehonicRoadmapNeuromorphicComputing2024": [
+      "C:\\Users\\LEO\\Zotero\\storage\\6PHZTMEV\\Mehonic 等 - 2024 - Roadmap to neuromorphic computing with emerging technologies.pdf"
+    ],
+    "katsnelsonSelforganizedCriticalityNeural2021": [
+      "C:\\Users\\LEO\\Zotero\\storage\\2M7YNHUW\\Katsnelson 等 - 2021 - Self-organized criticality in neural networks.pdf"
+    ],
+    "zhangDevelopmentGeneralpurposeBraininspired2024": [
+      "C:\\Users\\LEO\\Zotero\\storage\\VCTIBM8C\\Zhang 等 - 2024 - The development of general-purpose brain-inspired computing.pdf"
+    ],
+    "heWaferLLMLargeLanguage2025": [
+      "C:\\Users\\LEO\\Zotero\\storage\\FZJ3RMVI\\He 等 - 2025 - WaferLLM Large Language Model Inference at Wafer Scale.pdf"
+    ],
+    "bergnerOneFlavourAdjoint2022": [
+      "C:\\Users\\LEO\\Zotero\\storage\\XI88IBPN\\Bergner 等 - 2022 - One flavour adjoint QCD with overlap fermions.pdf"
+    ],
+    "boccalettiComplexNetworksStructure2006": [
+      "C:\\Users\\LEO\\Zotero\\storage\\QG92H7FT\\Boccaletti 等 - 2006 - Complex networks Structure and dynamics.pdf"
+    ],
+    "szelogowskiEngramMemoryEncoding2025": [
+      "C:\\Users\\LEO\\Zotero\\storage\\7TNDUNP9\\Szelogowski - 2025 - Engram Memory Encoding and Retrieval A Neurocomputational Perspective.pdf"
+    ],
+    "zhangHowMemoriesAre": [
+      "C:\\Users\\LEO\\Zotero\\storage\\JHTFKEVH\\Zhang - How memories are stored in the brain – the declarative memory model.pdf"
+    ],
+    "savidisPhysicalDesignTrends2008": [
+      "C:\\Users\\LEO\\Zotero\\storage\\RV9EIBZU\\Physical Design Trends for Interconnects.pdf"
+    ],
+    "zhuScalableMatMulfreeLanguage2024": [
+      "C:\\Users\\LEO\\Zotero\\storage\\QH289F4S\\Scalable MatMul-free Language Modeling.pdf"
+    ],
+    "aguilarStochasticEngramsEfficient2025": [
+      "C:\\Users\\LEO\\Zotero\\storage\\3VGGRI3H\\Stochastic Engrams for Efficient Continual Learning with BNNs.pdf"
+    ],
+    "graumannSpatiotemporalNeuralDynamics2022": [
+      "C:\\Users\\LEO\\Zotero\\storage\\YPXTCHL6\\The spatiotemporal neural dynamics of object location repesentation in the human barin.pdf"
+    ],
+    "chakrabortyTopologicalRepresentationsHeterogeneous2024": [
+      "C:\\Users\\LEO\\Zotero\\storage\\BPNPRFU6\\Topological Representations of Heterogeneous Learning Dynamcis of Recurrent SNN.pdf"
+    ],
+    "raichlenAdaptiveCapacityEvolutionary2017": [
+      "C:\\Users\\LEO\\Zotero\\storage\\GMMLE4MF\\1-s2.0-S0166223617300899-am.pdf"
+    ],
+    "zhangFastRobustLearning2019": [
+      "C:\\Users\\LEO\\Zotero\\storage\\UG7STYDU\\10.1016j.neucom.2019.07.009.pdf"
+    ],
+    "wuComprehensiveReviewPropagation2024": [
+      "C:\\Users\\LEO\\Zotero\\storage\\KRSJIGH8\\A Comprehensive Review of Propagation Models in Complex Networks.pdf"
+    ],
+    "sarmastaniNeuronalModelEdge2025": [
+      "C:\\Users\\LEO\\Zotero\\storage\\F5IH35WF\\A Neuronal Model at the Edge of Criticality An Ising-Inspired Approach to Brain dynamics.pdf"
+    ],
+    "krohnSpatiotemporalComplexityArchitecture2021": [
+      "C:\\Users\\LEO\\Zotero\\storage\\TXL6N9Y8\\A spatiotemporal complexity architecture of human brain activity.pdf"
+    ],
+    "kumarArtificialNeurovascularNetwork2021": [
+      "C:\\Users\\LEO\\Zotero\\storage\\KHNALFPW\\Artifcial neurovascular network.pdf"
+    ],
+    "mahmoodiComplexitySynchronizationEmergent2024a": [
+      "C:\\Users\\LEO\\Zotero\\storage\\QL62ZA6M\\Complexity synchronization in emergent intelligence.pdf"
+    ],
+    "angiolelliCriticalityExplainsStructurefunction2024": [
+      "C:\\Users\\LEO\\Zotero\\storage\\NJ72DTRR\\Criticality explains structure-function relationships in the human brain.pdf"
+    ],
+    "chialvoEmergentComplexNeural2010": [
+      "C:\\Users\\LEO\\Zotero\\storage\\AIUVC35R\\Emergent complex neural dynamics the brain at the edge.pdf"
+    ],
+    "liEnergyEfficientSynaptic2020": [
+      "C:\\Users\\LEO\\Zotero\\storage\\X2G2ZCPF\\Energy efficient synaptic plasticity.pdf"
+    ],
+    "axelrodIntegratingNeuroplasticityEvolution2023": [
+      "C:\\Users\\LEO\\Zotero\\storage\\AEHUSAZ2\\Integrating neuroplasticity and evolution.pdf"
+    ],
+    "shenLearningPlasticityPlasticityDriven2025": [
+      "C:\\Users\\LEO\\Zotero\\storage\\PSNN3SMI\\Learning the Plasticity Plasticity-Driven Learning Framework in SNN.pdf"
+    ],
+    "vidiellaNetworksVisualLanguage2025": [
+      "C:\\Users\\LEO\\Zotero\\storage\\6G7E493V\\Networks The Visual Language of Complexity.pdf"
+    ],
+    "mandolesiEnvironmentalFactorsPromoting2017": [
+      "C:\\Users\\LEO\\Zotero\\storage\\64ZH8LL5\\Neural Plasticity - 2017 - Mandolesi - Environmental Factors Promoting Neural Plasticity  Insights from Animal and Human.pdf"
+    ],
+    "qiOptimalSignalTransmission2024": [
+      "C:\\Users\\LEO\\Zotero\\storage\\5VGQVENZ\\Optimal signal transmission and timescale diversity in a model of human brain.pdf"
+    ],
+    "rochaRecoveryNeuralDynamics2022": [
+      "C:\\Users\\LEO\\Zotero\\storage\\9I4Y8RJ4\\Recovery of neural dynamics criticality.pdf"
+    ],
+    "deneveBrainEfficientRobust2017": [
+      "C:\\Users\\LEO\\Zotero\\storage\\IDK2EV8E\\The Brain as an Efficient and robust adaptive learner.pdf"
+    ],
+    "shinnSpatialTemporalAutocorrelation2021": [
+      "C:\\Users\\LEO\\Zotero\\storage\\HUNWVGCW\\Spatial and temporal autocorrelation weave complexity in neural networks.pdf"
+    ],
+    "liSpatiotemporalDynamicsQuantity2026": [
+      "C:\\Users\\LEO\\Zotero\\storage\\RBNECH2Y\\Spatiotemporal dynamics of quantity quality synergy along dual pathways in urban household energy transition.pdf"
+    ],
+    "lombardiStatisticalModelingAdaptive2023": [
+      "C:\\Users\\LEO\\Zotero\\storage\\SPCWUIMK\\Statistical modeling of adaptive neural networks explains co-existence of avalanches and oscillations in resting human brain.pdf"
+    ],
+    "zhangTestingProportionalityFirstorder2017": [
+      "C:\\Users\\LEO\\Zotero\\storage\\BCYIA874\\Testing proportionality between the first-order intensity functions of spatial point processes.pdf"
+    ],
+    "leeHiddenControlArchitecture2019": [
+      "C:\\Users\\LEO\\Zotero\\storage\\GYDI6FI9\\The Hidden Control Architecture of Complex Brain Networks.pdf"
+    ],
+    "paquolaArchitectureHumanDefault2025": [
+      "C:\\Users\\LEO\\Zotero\\storage\\KL3UZYDQ\\The architecture of the human default mode network explored through cytoarchitecture, wiring and signal flow.pdf"
+    ],
+    "millanTriadicPercolationInduces2023": [
+      "C:\\Users\\LEO\\Zotero\\storage\\SZLQCJPT\\Triadic_percolation_induces_dynamical_topological_patterns_arxiv.pdf"
+    ],
+    "isomuraTripleEquivalenceEmergence2025": [
+      "C:\\Users\\LEO\\Zotero\\storage\\TQ2PLW5Z\\Triple equivalence for the emergence of biological intelligence.pdf"
+    ],
+    "sarkarUniversalityCriticalDynamics2024": [
+      "C:\\Users\\LEO\\Zotero\\storage\\G3PJYKFN\\Universality of critical dynamics on a complex network.pdf"
+    ],
+    "wangWATOSEfficientLLM2026": [
+      "C:\\Users\\LEO\\Zotero\\storage\\EW9ARKBC\\WATOS  Efficient LLM Training Strategies and Atchitecture co-design on wafer level chip.pdf"
+    ],
+    "fristonFreeenergyPrincipleUnified2010": [
+      "C:\\Users\\LEO\\Zotero\\storage\\EE4DAEU9\\friston_2010_free_energy_principle.pdf"
+    ],
+    "heAIpoweredSemiconductorWafer2026": [
+      "C:\\Users\\LEO\\Zotero\\storage\\JTBHY26A\\AI-powered semiconductor wafer fabrication A manufacturing paradigm shiftn.pdf"
+    ],
+    "caoAdvancedDesignHighPerformance2025": [
+      "C:\\Users\\LEO\\Zotero\\storage\\WCFTXIXE\\Advanced Design for High‑Performance and AI.pdf"
+    ],
+    "sharmaDesigningHighPerformanceThermally2025": [
+      "C:\\Users\\LEO\\Zotero\\storage\\HNZHEZM8\\Designing High-Performance and Thermally Feasible Multi-Chiplet Architectures Enabled by Non-Bendable Glass Interposer.pdf"
+    ],
+    "wangIntegratedNeuromorphicPhotonic2025": [
+      "C:\\Users\\LEO\\Zotero\\storage\\8TBW3GAC\\Integrated Neuromorphic Photonic Computing for AI Acceleration  Emerging Devices .pdf"
+    ],
+    "caiCaiLearningatCriticalityLargeLanguage2025": [
+      "C:\\Users\\LEO\\Zotero\\storage\\HLBXT79V\\Learning-at-Criticality in Large Language Models for Quantum Field Theory and Beyond.pdf"
+    ],
+    "luoMozartModularizedEfficient2025": [
+      "C:\\Users\\LEO\\Zotero\\storage\\VSBFR2M4\\Mozart Modularized and Efficient MoE Training on 3.5D Wafer-Scale Chiplet Architectures.pdf"
+    ],
+    "yangPDConstraintawarePhysical2025": [
+      "C:\\Users\\LEO\\Zotero\\storage\\AT4FCZUS\\PD Constraint-aware Physical Logical Topology Co-Design for Network on Wafer.pdf"
+    ],
+    "ozkanPerformanceEfficiencyCost2025": [
+      "C:\\Users\\LEO\\Zotero\\storage\\KK9HJY8M\\Performance, efficiency, and cost analysis of wafer-scale AI accelerators vs. single-chip GPUs.pdf"
+    ],
+    "matsumuraPhaseTransitionsLinear2025": [
+      "C:\\Users\\LEO\\Zotero\\storage\\8Y9ILRXA\\Phase transitions from linear to nonlinear information processing in neural networks.pdf"
+    ],
+    "fengSwitchLessDragonflyWafers2024": [
+      "C:\\Users\\LEO\\Zotero\\storage\\57A94YYM\\Switch-Less Dragonfly on Wafers A Scalable Interconnect Architecture .pdf"
+    ],
+    "huTypicalDisruptedSmallworld2025": [
+      "C:\\Users\\LEO\\Zotero\\storage\\7APJNLW5\\Typical and disrupted small-world architecture and.pdf"
+    ],
+    "tamaiUniversalScalingLaws2025": [
+      "C:\\Users\\LEO\\Zotero\\storage\\GZ87V4GG\\Universal scaling laws of absorbing phase transitions in artificial deep neural networks.pdf"
+    ],
+    "huWaferScaleComputingAdvancements2024": [
+      "C:\\Users\\LEO\\Zotero\\storage\\E68LB43W\\Wafer-Scale_Computing_Advancements_Challenges_and_Future_Perspectives_Feature.pdf"
+    ],
+    "heineyCriticalityConnectivityNeural2021": [
+      "C:\\Users\\LEO\\Zotero\\storage\\L85XUTYI\\fncom-15-611183.pdf"
+    ],
+    "andersonAllocatingStructureFunction2014": [
+      "C:\\Users\\LEO\\Zotero\\storage\\D3PCZWDZ\\fnhum-07-00918.pdf"
+    ],
+    "mullerCriticalDynamicsPredicts2025": [
+      "C:\\Users\\LEO\\Zotero\\storage\\S5H2YHMB\\müller-et-al-critical-dynamics-predicts-cognitive-performance-and-provides-a-common-framework-for-heterogeneous.pdf"
+    ],
+    "isomuraCanonicalNeuralNetworks2022": [
+      "C:\\Users\\LEO\\Zotero\\storage\\WW3VYA69\\2022-01-free-energy-principle-brain.pdf"
+    ],
+    "millanTopologyShapesDynamics2025": [
+      "C:\\Users\\LEO\\Zotero\\storage\\8QHWJKIN\\2025-02-topology-complexity-brain-climate-ai.pdf"
+    ],
+    "chenHierarchicalFrameworkSpatioTemporal2025": [
+      "C:\\Users\\LEO\\Zotero\\storage\\5VCUAIZQ\\A Hierarchical Framework with Spatio-Temporal Consistency Learning for Emergence Detection of Complex Adaptive System.pdf"
+    ],
+    "liuNeuralNetworkImplementation2023": [
+      "C:\\Users\\LEO\\Zotero\\storage\\RAMZBAY9\\A Neural Network Implementation for FreeEnergy Principle.pdf"
+    ],
+    "krohnSpatiotemporalComplexityArchitecture2021a": [
+      "C:\\Users\\LEO\\Zotero\\storage\\64BJGU5U\\A spatiotemporal complexity architecture of human brain activity.pdf"
+    ],
+    "fedorovaAdvancingNeuralNetworks2024": [
+      "C:\\Users\\LEO\\Zotero\\storage\\QWVU2X86\\Adv Elect Materials - 2024 - Fedorova - Advancing Neural Networks  Innovations and Impacts on Energy Consumption.pdf"
+    ],
+    "wangAdvancesSpatiotemporalGraph2023": [
+      "C:\\Users\\LEO\\Zotero\\storage\\JSUXLHA7\\Advances in spatiotemporal graph neural network prediction research.pdf"
+    ],
+    "budzinskiExactMathematicalDescription2024": [
+      "C:\\Users\\LEO\\Zotero\\storage\\65EZYH5L\\An exact mathematical description of computation with transient spatiotemporal dynamics in a complex-valued neural network.pdf"
+    ],
+    "dingArtificialIntelligenceComplex2025": [
+      "C:\\Users\\LEO\\Zotero\\storage\\FY4X4B78\\Artificial Intelligence for Complex Network.pdf"
+    ],
+    "wangBrainTopologyImproved2024": [
+      "C:\\Users\\LEO\\Zotero\\storage\\RAEUGFIK\\Brain topology improved spiking neural network for efficient reinforcement learning of continuous control.pdf"
+    ],
+    "isomuraCanonicalNeuralNetworks2022a": [
+      "C:\\Users\\LEO\\Zotero\\storage\\YXT5RN5D\\Canonical neural networks perform active inference.pdf"
+    ],
+    "papoDoesBrainBehave2024": [
+      "C:\\Users\\LEO\\Zotero\\storage\\CYSG9ZX3\\Does the brain behave like a (complex) network I. Dynamics.pdf"
+    ],
+    "gouDynamicSpatiotemporalPruning2025": [
+      "C:\\Users\\LEO\\Zotero\\storage\\4SKKRAJU\\Dynamic spatio-temporal pruning for efficient spiking neural networks.pdf"
+    ],
+    "guEmergenceReconfigurationModular2024": [
+      "C:\\Users\\LEO\\Zotero\\storage\\Z4CR95X3\\Emergence and reconfiguration of modular structure.pdf"
+    ],
+    "jordanEvolvingInterpretablePlasticity2021": [
+      "C:\\Users\\LEO\\Zotero\\storage\\AH8WCKDG\\Evolving interpretable plasticity for spiking networks.pdf"
+    ],
+    "fedorovaAdvancingNeuralNetworks2024a": [
+      "C:\\Users\\LEO\\Zotero\\storage\\FWCFBSJI\\Fedorova-2024-Advancing-neural-networks-innovation.pdf"
+    ],
+    "fristonFreeenergyBrain2007": [
+      "C:\\Users\\LEO\\Zotero\\storage\\Y8SC7III\\Free-energy and the brain.pdf"
+    ],
+    "schneiderLLMsGlobalBrain2024": [
+      "C:\\Users\\LEO\\Zotero\\storage\\SBPH7ABS\\From LLMs to the Global Brain.pdf"
+    ],
+    "wangHierarchicalReasoningModel2025": [
+      "C:\\Users\\LEO\\Zotero\\storage\\YTXHTYCP\\Hierarchical Reasoning Model-20250723.pdf"
+    ],
+    "safaviBrainComplexSystem2023": [
+      "C:\\Users\\LEO\\Zotero\\storage\\FWG8RXQP\\Brain as complex system.pdf"
+    ],
+    "ProceedingsNationalAcademy2024": [
+      "C:\\Users\\LEO\\Zotero\\storage\\SNI6C6N7\\brain-inspired-neural-circuit-evolution-for-spiking-neural-networks.pdf"
+    ],
+    "thommesDemonstratingBrainScaleS2InterChip2022": [
+      "C:\\Users\\LEO\\Zotero\\storage\\EUY77GHW\\Demonstrating BrainScaleS-2 Inter-Chip Pulse-Communication.pdf"
+    ],
+    "schaefferAreEmergentAbilities2023": [
+      "C:\\Users\\LEO\\Zotero\\storage\\359HSSAF\\Emergent Abilities of Large Language Models.pdf"
+    ],
+    "hoelQuantifyingCausalEmergence2013": [
+      "C:\\Users\\LEO\\Zotero\\storage\\G7SHGBBV\\hoel-et-al-quantifying-causal-emergence-shows-that-macro-can-beat-micro.pdf"
+    ],
+    "meunierModularHierarchicallyModular2010": [
+      "C:\\Users\\LEO\\Zotero\\storage\\WDHY9522\\Meunier-2010-Modular-and-hierarchically-modular-.pdf"
+    ],
+    "guptaNeuromorphicPhotonicOnChip2025": [
+      "C:\\Users\\LEO\\Zotero\\storage\\UJ25WNUR\\Neuromorphic Photonic On-Chip Computing.pdf"
+    ],
+    "cholletMeasureIntelligence2019": [
+      "C:\\Users\\LEO\\Zotero\\storage\\EK8NAYRN\\On the Measure of Intelligence.pdf"
+    ],
+    "pehleBrainScaleS2AcceleratedNeuromorphic2022": [
+      "C:\\Users\\LEO\\Zotero\\storage\\L8N9EINX\\Pehle-2022-The-brainscales--accelerated-neurom.pdf"
+    ],
+    "liangPhysicalReservoirComputing2024": [
+      "C:\\Users\\LEO\\Zotero\\storage\\BYSJCQBJ\\Physical reservoir computing with emerging electronic.pdf"
+    ],
+    "suStrategyEvolutionDynamic2023": [
+      "C:\\Users\\LEO\\Zotero\\storage\\S76EP597\\Strategy evolution on dynamic networks.pdf"
+    ],
+    "schneiderSelftrainingSpikingSuperconducting2025": [
+      "C:\\Users\\LEO\\Zotero\\storage\\IRXR5DDZ\\A self-training spiking superconducting neuromorphic architecture.pdf"
+    ],
+    "gabayreAdvancementsNeuromorphicComputing2025": [
+      "C:\\Users\\LEO\\Zotero\\storage\\UI2I6C23\\Advancements in neuromorphic computing for bio-inspired artificial vision_ A review.pdf"
+    ],
+    "daviesAdvancingNeuromorphicComputing2021": [
+      "C:\\Users\\LEO\\Zotero\\storage\\8BII28VP\\Advancing Neuromorphic computing with loihi.pdf"
+    ],
+    "sooterDefiningMeasuringProximity2025": [
+      "C:\\Users\\LEO\\Zotero\\storage\\27EAUTBD\\Defining and measuring proximity to criticality.pdf"
+    ],
+    "stradmannDemonstratingAnalogInference2022": [
+      "C:\\Users\\LEO\\Zotero\\storage\\UJRMDK84\\Demonstrating_Analog_Inference_on_the_BrainScaleS-2_Mobile_System.pdf"
+    ],
+    "deyMappingValidatingPoint2022": [
+      "C:\\Users\\LEO\\Zotero\\storage\\TENSILFR\\Mapping and Validating a Point Neuron Model on Intel's Neuromorphic loihi.pdf"
+    ],
+    "mcdonoughNetworkComplexityMeasure2014": [
+      "C:\\Users\\LEO\\Zotero\\storage\\ZJALYMJ8\\Network Complexity as a Measure of Information.pdf"
+    ],
+    "carneyNeuromorphicKalmanFilter2017": [
+      "C:\\Users\\LEO\\Zotero\\storage\\XHUT5S7M\\Neuromorphic Kalman filter implementation in IBM TrueNorth.pdf"
+    ],
+    "paniFPGAPlatformRealTime2017": [
+      "C:\\Users\\LEO\\Zotero\\storage\\2MDBWT95\\Pani-2017-An-fpga-platform-for-real-time-simu.pdf"
+    ],
+    "tangSENECABuildingFully2023": [
+      "C:\\Users\\LEO\\Zotero\\storage\\YF5BMCJW\\SENECA building a fully digital neuromorphic processor, design trade-offs and challenges.pdf"
+    ],
+    "yaoSpikebasedDynamicComputing2024": [
+      "C:\\Users\\LEO\\Zotero\\storage\\9MKSB3CR\\Spike-based dynamic computing with asynchronous sensing-computing neuromorphic chip.pdf"
+    ],
+    "billaudelleStructuralPlasticityAccelerated2021": [
+      "C:\\Users\\LEO\\Zotero\\storage\\6LC494C8\\Structural_plasticity_on_an_accelerated_analog_neu.pdf"
+    ],
+    "stuijtMBrainEventDrivenFully2021": [
+      "C:\\Users\\LEO\\Zotero\\storage\\H5P4RE2B\\Stuijt-2021-Brain-an-event-driven-and-fully-syn.pdf"
+    ],
+    "wuBraininspiredGloballocalLearning2022": [
+      "C:\\Users\\LEO\\Zotero\\storage\\Z9M8CQAH\\Wu-2022-Brain-inspired-global-local-learnin.pdf"
+    ],
+    "birkobenMatterMindMatter2022": [
+      "C:\\Users\\LEO\\Zotero\\storage\\ECYB2QRS\\M ATTER &M IND M ATTER.pdf"
+    ],
+    "gabayreAdvancementsNeuromorphicComputing2025a": [
+      "C:\\Users\\LEO\\Zotero\\storage\\IGKUHJWL\\Advancements in neuromorphic computing for bio-inspired artificial vision A review.pdf"
+    ],
+    "liuAdvancingBraininspiredComputing2024": [
+      "C:\\Users\\LEO\\Zotero\\storage\\KVGL2ZCM\\Advancing brain-inspired computing with hybrid neural.pdf"
+    ],
+    "bhanjaNeedNeuromorphicComputing2023": [
+      "C:\\Users\\LEO\\Zotero\\storage\\FRKNFYC7\\Brain-inspired computing from neuroscience to neuromorphic electronics for new forms of artificial intelligence.pdf"
+    ],
+    "shankarBridgingBrainsMachines2025": [
+      "C:\\Users\\LEO\\Zotero\\storage\\5BFU3GYL\\Bridging Brains and Machines A Unified Frontier in Neuroscience, Artificial Intelligence, and Neuromorphic Systems.pdf"
+    ],
+    "lohnAIComputeHow2022": [
+      "C:\\Users\\LEO\\Zotero\\storage\\H3Z46FN5\\AI-and-Compute-How-Much-Longer-Can-Computing-Power-Drive-Artificial-Intelligence-Progress.pdf"
+    ],
+    "liBrainInspiredComputing2023": [
+      "C:\\Users\\LEO\\Zotero\\storage\\44BNFWF5\\Brain-inspired computing A systematic survey and future trends.pdf"
+    ],
+    "ngaiBRAIN20Transforming2022": [
+      "C:\\Users\\LEO\\Zotero\\storage\\B4IWCMS3\\BRAIN-2.0--Transforming-neuroscience_cell.pdf"
+    ],
+    "breytonSpatiotemporalBrainComplexity2024": [
+      "C:\\Users\\LEO\\Zotero\\storage\\CDWL4JCX\\Breyton-2024-Spatiotemporal-brain-complexity-qua.pdf"
+    ],
+    "ciniScalableSpatiotemporalGraph2023": [
+      "C:\\Users\\LEO\\Zotero\\storage\\ICN62IY9\\Cini-2023-Scalable-spatiotemporal-graph-neura (1).pdf"
+    ],
+    "kangHowBuildMemristive2021": [
+      "C:\\Users\\LEO\\Zotero\\storage\\4MWM4Z6V\\How_to_Build_a_Memristive_Integrate-and-Fire_Model_for_Spiking_Neuronal_Signal_Generation.pdf"
+    ],
+    "saffariSpatiotemporalDeepLearning2024": [
+      "C:\\Users\\LEO\\Zotero\\storage\\2D4ZGTYW\\Saffari-2024-Spatiotemporal-deep-learning-for-po.pdf"
+    ],
+    "zhuTheseusExploringEfficient2024": [
+      "C:\\Users\\LEO\\Zotero\\storage\\C4JWX7A8\\Theseus Exploring Efficient Wafer-Scale Chip.pdf"
+    ],
+    "thieleMultimodalBrainSignal2023": [
+      "C:\\Users\\LEO\\Zotero\\storage\\9GF5CYZB\\Thiele-2023-Multimodal-brain-signal-complexity- (1).pdf"
+    ],
+    "wangTMACTrainingTargetedMapping2024": [
+      "C:\\Users\\LEO\\Zotero\\storage\\8LDTN5MH\\Wang-2024-Tmac-training-targeted-mapping-and-.pdf"
+    ],
+    "xuWSCLLMEfficientLLM2025": [
+      "C:\\Users\\LEO\\Zotero\\storage\\XWZWMLRV\\WSC-LLM Efficient LLM Service and Architecture.pdf"
+    ],
+    "xinGraphMetricsReveal2024": [
+      "C:\\Users\\LEO\\Zotero\\storage\\D4ZTJZY9\\Xin-2024-Graph-metrics-reveal-brain-network-.pdf"
+    ],
+    "yuSTSCSNNSpatioTemporalSynaptic2022": [
+      "C:\\Users\\LEO\\Zotero\\storage\\LCVYMMXK\\Yu-2022-Stsc-snn-spatio-temporal-synaptic-c (1).pdf"
+    ],
+    "wangDeepNeuralNetwork2019": [
+      "C:\\Users\\LEO\\Zotero\\storage\\FJFL5JCJ\\A_Deep_Neural_Network_Accelerator_Based_on_Tiled_RRAM_Architecture.pdf"
+    ],
+    "zhouGradientBasedNeuromorphicLearning2022": [
+      "C:\\Users\\LEO\\Zotero\\storage\\4LZMFNBJ\\Gradient-Based_Neuromorphic_Learning_on_Dynamical_RRAM_Arrays.pdf"
+    ],
+    "perez-nievesNeuralHeterogeneityPromotes2021": [
+      "C:\\Users\\LEO\\Zotero\\storage\\7D9PF9DG\\Neural heterogeneity promotes robust learning.pdf"
+    ],
+    "edmundsonTheorySelfreproducingAutomata1969": [
+      "C:\\Users\\LEO\\Zotero\\storage\\GARS7C78\\theory of selfreproduction von neumann.pdf"
+    ],
+    "panBrainInspiredMultiscaleEvolutionary2025": [
+      "C:\\Users\\LEO\\Zotero\\storage\\JTRDHCPH\\Brain-Inspired_Multiscale_Evolutionary_Neural_Architecture_Search_for_Deep_Spiking_Neural_Networks.pdf"
+    ],
+    "wangEvolvingConnectivityRecurrent2023": [
+      "C:\\Users\\LEO\\Zotero\\storage\\KFMJ7HVD\\Evolving Connectivity for Recurrent Spiking Neural Network.pdf"
+    ],
+    "duTemporalFlexibilitySpiking2025": [
+      "C:\\Users\\LEO\\Zotero\\storage\\DAYD33Z5\\TEMPORAL FLEXIBILITY IN SPIKING NEURAL network.pdf"
+    ],
+    "goodgeSpatioTemporalFoundationModels2025": [
+      "C:\\Users\\LEO\\Zotero\\storage\\LWFCT8L5\\2501.09045v2.pdf"
+    ],
+    "schaefferAreEmergentAbilities2023a": [
+      "C:\\Users\\LEO\\Zotero\\storage\\RGBF37HT\\Emergent Abilities of Large Language Models.pdf"
+    ],
+    "teamGemini15Unlocking2024": [
+      "C:\\Users\\LEO\\Zotero\\storage\\NWDCSJGC\\Gemini 1.5 Unlocking multimodal understanding across millions of tokens of context.pdf"
+    ],
+    "minaeeLargeLanguageModels2024": [
+      "C:\\Users\\LEO\\Zotero\\storage\\BA4FU44T\\Large Language Models A Survey.pdf"
+    ],
+    "behrouzNestedLearningIllusion2025": [
+      "C:\\Users\\LEO\\Zotero\\storage\\VK5BSGJR\\Nested Learning The Illusion of Deep Learning Architecture.pdf"
+    ],
+    "muirRoadCommercialSuccess2025": [
+      "C:\\Users\\LEO\\Zotero\\storage\\WBDRPFWN\\The road to commercial success for neuromorphic technologies.pdf"
+    ],
+    "wangTopologyOptimizationRandom2025": [
+      "C:\\Users\\LEO\\Zotero\\storage\\FVQYJWVY\\Topology optimization of random memristors for input-aware dynamic SNN.pdf"
+    ],
+    "wilting25YearsCriticality2019": [
+      "C:\\Users\\LEO\\Zotero\\storage\\HFUCETX8\\25 years of criticality in neuroscience — established results, open controversies, novel concepts.pdf"
+    ],
+    "monacoBrainBasisDynamical2021": [
+      "C:\\Users\\LEO\\Zotero\\storage\\K5ACLDNX\\A brain basis of dynamical intelligence for AI and computational neuroscience.pdf"
+    ],
+    "bahramiMixedmodelingFrameworkWholebrain2022": [
+      "C:\\Users\\LEO\\Zotero\\storage\\QL64BZWT\\A mixed-modeling framework for whole-brain dynamic network analysis.pdf"
+    ],
+    "zhaoApplicationDeepNeural2025": [
+      "C:\\Users\\LEO\\Zotero\\storage\\T2YQR3XI\\Application of deep neural networks for computing the renormalization group flow of the two-dimensional .pdf"
+    ],
+    "fischerAssociationStructuralGlobal2014": [
+      "C:\\Users\\LEO\\Zotero\\storage\\YBX43BBR\\Association of structural global brain network properties with intelligence in normal aging.pdf"
+    ],
+    "mallinsonAvalanchesCriticalitySelforganized2019": [
+      "C:\\Users\\LEO\\Zotero\\storage\\IMIABR8C\\Avalanches and criticality in self-organized nanoscale networks.pdf"
+    ],
+    "sudarshanCarbonPATHCarbonawarePathfinding2026": [
+      "C:\\Users\\LEO\\Zotero\\storage\\A6XJNHLU\\CarbonPATH Carbon-aware pathfinding and architecture optimization for chiplet-based AI systems.pdf"
+    ],
+    "bizzarriCoemergenceCollapseMesoscopic2019": [
+      "C:\\Users\\LEO\\Zotero\\storage\\XMZGDZ9R\\Co-emergence and collapse the mesoscopic approach for conceptualizing and investigating the functional integration of organisms.pdf"
+    ],
+    "tangColloquiumControlDynamics2018": [
+      "C:\\Users\\LEO\\Zotero\\storage\\IGQXXRHA\\Colloquium Control of dynamics in brain networks.pdf"
+    ],
+    "bullmoreComplexBrainNetworks2009": [
+      "C:\\Users\\LEO\\Zotero\\storage\\AMUZ4IRE\\Complex brain networks graph theoretical analysis of structural and functional systems.pdf"
+    ],
+    "maDarwin3LargescaleNeuromorphic2024": [
+      "C:\\Users\\LEO\\Zotero\\storage\\FX8AVXV9\\Darwin3 a large-scale neuromorphic chip with a novel ISA and on-chip learning.pdf"
+    ],
+    "levinaDynamicalSynapsesCausing2007": [
+      "C:\\Users\\LEO\\Zotero\\storage\\UYNYWJ2A\\Dynamical synapses causing self-organized criticality in neural networks.pdf"
+    ],
+    "lynnEmergentScalefreeNetworks2024": [
+      "C:\\Users\\LEO\\Zotero\\storage\\GRQJICH9\\Emergent scale-free networks - Knowledge UChicago.pdf"
+    ],
+    "dasExtremelyLargeArea2023": [
+      "C:\\Users\\LEO\\Zotero\\storage\\GT8H4WI2\\enabling-high-density-heterogeneous-integration-using-wafer-scale-chiplet-reconstitution-technology.pdf"
+    ],
+    "iffFoldedHexaTorusInterChipletInterconnect2025": [
+      "C:\\Users\\LEO\\Zotero\\storage\\8YK23MCF\\Good_FoldedHexaTorus An Inter-Chiplet Interconnect Topology for glass and organic substrate.pdf"
+    ],
+    "wangInterconnectAwareLogicResynthesis2026": [
+      "C:\\Users\\LEO\\Zotero\\storage\\YY2C7HM5\\Interconnect-Aware Logic Resynthesis for Multi-Die FPGAs.pdf"
+    ],
+    "goldenfeldLecturesPhaseTransitions2018": [
+      "C:\\Users\\LEO\\Zotero\\storage\\HETAHPKN\\Lectures on Phase Transitions and the Renormalization Group.pdf"
+    ],
+    "wernerMetastabilityCriticalityPhase2007": [
+      "C:\\Users\\LEO\\Zotero\\storage\\YRNLCWUD\\Metastability, Criticality and Phase Transitions in brain and its models.pdf"
+    ],
+    "spornsNetworkAnalysisComplexity2002": [
+      "C:\\Users\\LEO\\Zotero\\storage\\N72QDFIG\\Network Analysis, Complexity, and Brain Function.pdf"
+    ],
+    "iffNetworkDesignWaferScale2026": [
+      "C:\\Users\\LEO\\Zotero\\storage\\L2NTPVFP\\Network Design for Wafer-Scale Systems with Wafer-on-Wafer HB (GOOD).pdf"
+    ],
+    "franklinRenormalizationGroupExplanation2018": [
+      "C:\\Users\\LEO\\Zotero\\storage\\86KZM8FL\\On the renormalization group explanation of universality.pdf"
+    ],
+    "depolsiPrecisionCalculationCritical2020": [
+      "C:\\Users\\LEO\\Zotero\\storage\\LWBNC5P7\\Precision calculation of critical exponents in the O (N) universality classes with the nonperturbative renormalization group.pdf"
+    ],
+    "xianProbingIndividualDifferences2024": [
+      "C:\\Users\\LEO\\Zotero\\storage\\HIAQUQYZ\\Probing Individual Differences in the Topological Landscape of Naturalistic Brain Dynamicsl.pdf"
+    ],
+    "plenzSelfOrganizedCriticalityBrain2021": [
+      "C:\\Users\\LEO\\Zotero\\storage\\R4Q8WDKD\\Self-organized criticality in the brain.pdf"
+    ],
+    "mansonSimplifyingComplexityReview2001": [
+      "C:\\Users\\LEO\\Zotero\\storage\\PY9ACMXL\\Simplifying_complexity_a_review_of_complexity.pdf"
+    ],
+    "liuSurveyChipletTechnology2025": [
+      "C:\\Users\\LEO\\Zotero\\storage\\YGB4EEAQ\\Survey_of_Chiplet_Technology_SoC_Architecture_Interconnect_EDA_and_Advanced_Packaging.pdf"
+    ],
+    "spornsComplexBrainConnectivity2022": [
+      "C:\\Users\\LEO\\Zotero\\storage\\WWWMLPJ7\\The complex brain connectivity, dynamics, information.pdf"
+    ],
+    "nickelSurveyArchitecturesHardware2024": [
+      "C:\\Users\\LEO\\Zotero\\storage\\J89WSPAQ\\A Survey on Architectures, Hardware Acceleration and Challenges for In-Network Computing.pdf"
+    ],
+    "jiangSwitchCentricInNetworkArchitecture2026": [
+      "C:\\Users\\LEO\\Zotero\\storage\\SBJEF57N\\A Switch-Centric In-Network Architecture for Accelerating LLM.pdf"
+    ],
+    "forntEnergyEfficientGeMMBasedConvolution2023": [
+      "C:\\Users\\LEO\\Zotero\\storage\\5JNDREWE\\An Energy-Efficient GeMM-based CNN Accelerator with on-the-fly im2col .pdf"
+    ],
+    "maFPGAbasedAISmart2022": [
+      "C:\\Users\\LEO\\Zotero\\storage\\KQEM5AYT\\FPGA-based AI Smart NICs for Scalable.pdf"
+    ],
+    "kikuchiImplementationPerformanceEvaluation2023": [
+      "C:\\Users\\LEO\\Zotero\\storage\\9AFWK3MT\\Implementation and Performance Evaluation of CollectiveCommunications Using CIRCUS on Multiple FPGAs.pdf"
+    ],
+    "iffNetworkDesignWaferScale2026a": [
+      "C:\\Users\\LEO\\Zotero\\storage\\Y5DY8VGF\\Network Design for Wafer-Scale Systems with Wafer-on-Wafer HB.pdf"
+    ],
+    "gomezREDSEAProjectNewgeneration2024": [
+      "C:\\Users\\LEO\\Zotero\\storage\\X9MA5ERK\\RED-SEA Project_ Towards a new-generation European interconnect.pdf"
+    ],
+    "leightonWaferScaleIntegrationSystolic1985": [
+      "C:\\Users\\LEO\\Zotero\\storage\\HXKS7KYT\\Wafer-Scale Integration of Systolic Arrays.pdf"
+    ],
+    "pawlakExploringLiquidNeural2024": [
+      "C:\\Users\\LEO\\Zotero\\storage\\HPBY6HBJ\\Exploring Liquid Neural Networks on Loihi-2.pdf"
+    ],
+    "toddIntelligenceHighdimensionalCoherence2026": [
+      "C:\\Users\\LEO\\Zotero\\storage\\Y6Y8WB5M\\Intelligence as high-dimensional coherence.pdf"
+    ],
+    "uenoVCSNVirtualCircuitSwitching2023": [
+      "C:\\Users\\LEO\\Zotero\\storage\\ACXZIU9J\\3579848.pdf"
+    ],
+    "choiWaferscaleFabricationMemristive2025": [
+      "C:\\Users\\LEO\\Zotero\\storage\\CX2MZF2Q\\41467_2025_Article_63831.pdf"
+    ],
+    "zhengAdaptNoCFlexibleNetworkonChip2021": [
+      "C:\\Users\\LEO\\Zotero\\storage\\3LBXHRZV\\Adapt-NoC_A_Flexible_Network-on-Chip_Design_for_Heterogeneous_Manycore_Architectures.pdf"
+    ],
+    "liuControllabilityComplexNetworks2011": [
+      "C:\\Users\\LEO\\Zotero\\storage\\YDHREN4F\\barabasi-network-controllability-nature-2011.pdf"
+    ],
+    "rodriguesBifurcationsCliffordTorus2026": [
+      "C:\\Users\\LEO\\Zotero\\storage\\3U3RSJPC\\BIFURCATIONS OF THE CLIFFORD TORUS AS WILLMORE SURFACES.pdf"
+    ],
+    "weiCommunicationOptimizationDistributed2025": [
+      "C:\\Users\\LEO\\Zotero\\storage\\D9YLKBJY\\Communication Optimization for Distributed Training Architecture, Advances, and Opportunities.pdf"
+    ],
+    "ProceedingsGreatLakes2025": [
+      "C:\\Users\\LEO\\Zotero\\storage\\738QE6DF\\EATS Energy-Aware Adaptive Topology Switching for NoCs.pdf"
+    ],
+    "lambiotteNetworksOptimalHigherorder2019": [
+      "C:\\Users\\LEO\\Zotero\\storage\\H9GEGC27\\emss-81685.pdf"
+    ],
+    "simFPGAImplementationEfficient2023": [
+      "C:\\Users\\LEO\\Zotero\\storage\\SL59Y43N\\FPGA Implementation of Efficient CFAR Algorithm for Radar Systems.pdf"
+    ],
+    "fraigniaudTopologyLocalComputing2024": [
+      "C:\\Users\\LEO\\Zotero\\storage\\LPQRQQ34\\LIPIcs-ICALP-2020-128.pdf"
+    ],
+    "liaoMixNetRuntimeReconfigurable2025": [
+      "C:\\Users\\LEO\\Zotero\\storage\\RMMXY37Z\\MixNet A Runtime Reconfigurable Optical-Electrical Fabric for Distributed Mixture-of-Experts Training.pdf"
+    ],
+    "hyunParallelPipelinedHardware2015": [
+      "C:\\Users\\LEO\\Zotero\\storage\\9KLQ54YN\\Parallel and Pipelined Hardware Implementationof Radar Signal Processing for an FMCWMulti-channel Radar.pdf"
+    ],
+    "leonePhysicallyAwarePreemptiveVirtual2026": [
+      "C:\\Users\\LEO\\Zotero\\storage\\BY2TC7U2\\Physically-Aware Preemptive Virtual Channels for AXI NOC.pdf"
+    ],
+    "georgeReconfigurationAwareDirectConnectAI2026": [
+      "C:\\Users\\LEO\\Zotero\\storage\\RRCD4LC3\\ReconfigurationAware_DirectConnect_AI_Cluster_Using_Spatial_and_Wavelength_Selective_Switching.pdf"
+    ],
+    "avinRevolutionizingDatacenterNetworks2025": [
+      "C:\\Users\\LEO\\Zotero\\storage\\KGF8PLF2\\Revolutionizing Datacenter Networks via Reconfigurable Topologies.pdf"
+    ],
+    "jouppiTPUV4Optically2023": [
+      "C:\\Users\\LEO\\Zotero\\storage\\P4FYDIZJ\\TPU v4 An Optically Reconfigurable Supercomputer for.pdf"
+    ],
+    "mangalamMultifractalEmergentProcesses2024": [
+      "C:\\Users\\LEO\\Zotero\\storage\\YVDY5G9A\\2401.05105v1.pdf"
+    ],
+    "tsybinaDualTimescaleMemorySpiking2026": [
+      "C:\\Users\\LEO\\Zotero\\storage\\2EIRYQD8\\2604.15391v1.pdf"
+    ],
+    "ancilottoElasticSpikingTransformers2026": [
+      "C:\\Users\\LEO\\Zotero\\storage\\SJ52B44C\\2605.13869v1.pdf"
+    ],
+    "liBreakingGlobalSelfAttention2026": [
+      "C:\\Users\\LEO\\Zotero\\storage\\BVD7D5AZ\\2605.13887v1.pdf"
+    ],
+    "cavigliaNeuroTrainSurveyingLocal2026": [
+      "C:\\Users\\LEO\\Zotero\\storage\\Z32NPIZS\\2605.15058v1.pdf"
+    ],
+    "majhiDynamicsHigherorderNetworks2022": [
+      "C:\\Users\\LEO\\Zotero\\storage\\JVXTS3Q7\\Dynamics on higher-order networks.pdf"
+    ],
+    "buckwarIntroductionNumericalAnalysis2000": [
+      "C:\\Users\\LEO\\Zotero\\storage\\VDWQZKUW\\Introduction to the numerical analysis of stochastic delay differential equations(1).pdf"
+    ],
+    "neuenkirchHighamKloedenIntroduction2021": [
+      "C:\\Users\\LEO\\Zotero\\storage\\BW46ERPR\\NSDE_Neuenkirc(1).pdf"
+    ],
+    "highamIntroductionNumericalSimulation2021": [
+      "C:\\Users\\LEO\\Zotero\\storage\\4883AR99\\Petersen_SDE(1).pdf"
+    ],
+    "santoroHigherorderConnectomicsHuman2024": [
+      "C:\\Users\\LEO\\Zotero\\storage\\VAE9DM9T\\Higher-order connectomics of human brain function reveals local topological signatures of task decoding, individual identification, and behavior.pdf"
+    ],
+    "adamovichTaskspecificTopologyBrain2024": [
+      "C:\\Users\\LEO\\Zotero\\storage\\HCHIKET8\\Human Brain Mapping - 2024 - Adamovich - Task‐specific topology of brain networks supporting working memory and inhibition.pdf"
+    ],
+    "mullerHyperbrainHyperfrequencyNetwork2024": [
+      "C:\\Users\\LEO\\Zotero\\storage\\WILHFBN2\\Hyper-brain hyper-frequency network topology dynamics when playing guitar in quartet.pdf"
+    ],
+    "liEnergyEfficiencyCoding2023": [
+      "C:\\Users\\LEO\\Zotero\\storage\\65YEXQ2H\\Li-2023-Energy-efficiency-and-coding-of-neu.pdf"
+    ],
+    "susnjakEdgeChaosExcess2024": [
+      "C:\\Users\\LEO\\Zotero\\storage\\WI895FQD\\OVER THE EDGE OF CHAOS  EXCESS COMPLEXITY AS .pdf"
+    ],
+    "cramerSurrogateGradientsAnalog2022": [
+      "C:\\Users\\LEO\\Zotero\\storage\\HMZ7C28Z\\surrogate-gradients-for-analog-neuromorphic-computing.pdf"
+    ],
+    "fristonFreeenergyPrincipleUnified2010a": [
+      "C:\\Users\\LEO\\Zotero\\storage\\D9HNLLTZ\\The free-energy principle A unified brain theory.pdf"
+    ],
+    "bessadokGraphNeuralNetworks2021": [
+      "C:\\Users\\LEO\\Zotero\\storage\\9AVJS94R\\Topological Deep Learning for Interpretable Brain Network.pdf"
+    ],
+    "gershmanWhatDoesFree2019": [
+      "C:\\Users\\LEO\\Zotero\\storage\\6XBKBT86\\What does the free energy principle tell us about the brain_.pdf"
+    ],
+    "wuAdaptiveSpatiotemporalNeural2024": [
+      "C:\\Users\\LEO\\Zotero\\storage\\3JFJ7IMH\\Wu-2024-Adaptive-spatiotemporal-neural-network.pdf"
+    ],
+    "yangChallengesOpportunitiesEnable2023": [
+      "C:\\Users\\LEO\\Zotero\\storage\\8GAT6W7U\\Challenges and Opportunities to Enable Large-Scale Computing.pdf"
+    ],
+    "manleyHeterogeneousIntegrationTechnologies2024": [
+      "C:\\Users\\LEO\\Zotero\\storage\\RDN6WEJY\\Heterogeneous_Integration_Technologies_for_Artificial_Intelligence_Applications.pdf"
+    ],
+    "liHighBandwidthChipletInterconnects2024": [
+      "C:\\Users\\LEO\\Zotero\\storage\\BDDUQ3ZE\\High-Bandwidth_Chiplet_Interconnects_for_Advanced_Packaging_Technologies_in_AI_ML_Applications_Challenges_and_Solutions.pdf"
+    ],
+    "voggingerNeuromorphicHardwareSustainable2024": [
+      "C:\\Users\\LEO\\Zotero\\storage\\UHMUHFUL\\Neuromorphic hardware for sustainable AI data.pdf"
+    ],
+    "prucnalPhotonicsNeuromorphicComputing2024": [
+      "C:\\Users\\LEO\\Zotero\\storage\\AXKB87SY\\Photonics for Neuromorphic Computing.pdf"
+    ],
+    "changPhysicalDesignChallenges2024": [
+      "C:\\Users\\LEO\\Zotero\\storage\\SDXTJXT9\\Physical Design Challenges in Modern Heterogeneous Integration.pdf"
+    ],
+    "yuanEmergenceCausalityComplex2024": [
+      "C:\\Users\\LEO\\Zotero\\storage\\TCV8UPIT\\2312.16815v3.pdf"
+    ],
+    "turkheimerComplexSystemsPerspective2021": [
+      "C:\\Users\\LEO\\Zotero\\storage\\A6WCX946\\A Complex Systems Perspective on.pdf"
+    ],
+    "gaoSurveySelfEvolvingAgents2025": [
+      "C:\\Users\\LEO\\Zotero\\storage\\YJL3FBLQ\\A SURVEY OF SELFEVOLVING AGENTS.pdf"
+    ],
+    "jiUltralowEnergyAdaptive2025": [
+      "C:\\Users\\LEO\\Zotero\\storage\\FJBDN9P3\\Ultralow energy adaptive neuromorphic computing using reconfigurable zinc memeristors.pdf"
+    ],
+    "krohnSpatiotemporalComplexityArchitecture2021b": [
+      "C:\\Users\\LEO\\Zotero\\storage\\65W9EAA5\\A spatiotemporal complexity architecture of human brain activity.pdf"
+    ],
+    "hanSmallworldNetworkNeuroscience2025": [
+      "C:\\Users\\LEO\\Zotero\\storage\\EHW94JR7\\Brain-X - 2025 - Han - Small‐world network and neuroscience.pdf"
+    ],
+    "chuCorepresentationFunctionalBrain2024": [
+      "C:\\Users\\LEO\\Zotero\\storage\\GRW5RBDG\\Co-representation of Functional Brain Networks Is Shaped by Cortical Myeloarchitecture and Reveals Individual Behavioral Ability.pdf"
+    ],
+    "chorowskiCoexistenceCriticalPhenomena2024": [
+      "C:\\Users\\LEO\\Zotero\\storage\\FA2RGPZ4\\Coexistence of critical phenomena the concept of manifold multi-spectral criticality.pdf"
+    ],
+    "lurieCorticalTimescalesModular2023": [
+      "C:\\Users\\LEO\\Zotero\\storage\\WSMXBAYA\\Cortical timescales and the modular organization of structural and functional brain networks.pdf"
+    ],
+    "wuDevelopmentBrainNetwork2024": [
+      "C:\\Users\\LEO\\Zotero\\storage\\JLNSIUY7\\Development of the brain network control theory and its implications.pdf"
+    ],
+    "finziEntropyEpiplexityRethinking2026": [
+      "C:\\Users\\LEO\\Zotero\\storage\\CM5C2JII\\From Entropy to Epiplexity  Rethinking Information for Computationally Bounded Intelligence.pdf"
+    ],
+    "yanHSG12MLargeScaleBenchmark2025": [
+      "C:\\Users\\LEO\\Zotero\\storage\\QVJLRAKE\\HSG-12M A Large-Scale Benchmark of Spatial Multigraphs from the Energy Spectra of Non-Hermitian Crystals.pdf"
+    ],
+    "leakekidaneRuntimeReconfigurableNetworkOnChip2018": [
+      "C:\\Users\\LEO\\Zotero\\storage\\HBEYFJJC\\SSD18paper_HiliwiKIDANE.pdf"
+    ],
+    "vandenheuvelInvestigatingMethodologicalFoundation2026": [
+      "C:\\Users\\LEO\\Zotero\\storage\\QYJHRSDC\\Investigating the methodological foundation of lesion network mapping.pdf"
+    ],
+    "fraigniaudTopologyLocalComputing2024a": [
+      "C:\\Users\\LEO\\Zotero\\storage\\6FBD82CW\\The topology of local computing in networks.pdf"
+    ],
+    "hengenCriticalityUnifiedSetpoint2025": [
+      "C:\\Users\\LEO\\Zotero\\storage\\8Z9TDVDH\\Is criticality a unified setpoint of brain function.pdf"
+    ],
+    "prabhakarSambaNovaSN40LScaling2024": [
+      "C:\\Users\\LEO\\Zotero\\storage\\VACSXUIT\\SambaNova SN40L Scaling the AI Memory Wall.pdf"
+    ],
+    "schmidtKuramotoModelSimulation2015": [
+      "C:\\Users\\LEO\\Zotero\\storage\\9WH5TVUL\\Kuramoto model simulation of neural hubs.pdf"
+    ],
+    "wuLearningGeodesicsGeometric2025": [
+      "C:\\Users\\LEO\\Zotero\\storage\\5AEYHP74\\Learning Geodesics of Geometric Shape Deformations From Images.pdf"
+    ],
+    "baeMixtureofRecursionsLearningDynamic2025": [
+      "C:\\Users\\LEO\\Zotero\\storage\\G4GFZ9GM\\Mixture-of-Recursions Learning Dynamic Recursive Depths for Adaption.pdf"
+    ],
+    "horowitz11ComputingsEnergy2014": [
+      "C:\\Users\\LEO\\Zotero\\storage\\UHH8BYHI\\2014-horowitz-2.pdf"
+    ],
+    "farooqNetworkCurvatureHallmark2019": [
+      "C:\\Users\\LEO\\Zotero\\storage\\VG2QWPUA\\Network curvature as a hallmark of brain structural connectivity.pdf"
+    ],
+    "wonTACOSTopologyAwareCollective2023": [
+      "C:\\Users\\LEO\\Zotero\\storage\\LHZVAPVI\\2304.05301v3.pdf"
+    ],
+    "kazemiPhaseSynchronizationMeasure2022": [
+      "C:\\Users\\LEO\\Zotero\\storage\\6IC2VGI6\\Phase synchronization and measure of criticality in a network.pdf"
+    ],
+    "hajizadaOnlineContinualLearning2025": [
+      "C:\\Users\\LEO\\Zotero\\storage\\8XAT69BP\\2511.01553v2.pdf"
+    ],
+    "fronczakScalingTheoryFractal2024": [
+      "C:\\Users\\LEO\\Zotero\\storage\\AHRKJZI2\\Scaling theory of fractal complex networks.pdf"
+    ],
+    "gargPersonalizedSpikingNeural2026": [
+      "C:\\Users\\LEO\\Zotero\\storage\\LYCMEJ87\\2601.00020v3.pdf"
+    ],
+    "zamora-lopezSizingComplexNetworks2019": [
+      "C:\\Users\\LEO\\Zotero\\storage\\UUFA7FL2\\Sizing complex networks.pdf"
+    ],
+    "oreilly-shahNeuralManifoldsCrystallized2026": [
+      "C:\\Users\\LEO\\Zotero\\storage\\K46SKZBU\\2605.04200v2.pdf"
+    ],
+    "mullerCriticalDynamicsPredicts2025a": [
+      "C:\\Users\\LEO\\Zotero\\storage\\DFRIG3AQ\\müller-et-al-2025-critical-dynamics-predicts-cognitive-performance-and-provides-a-common-framework-for-heterogeneous.pdf"
+    ],
+    "hajizadaCLANEContinualLearning2026": [
+      "C:\\Users\\LEO\\Zotero\\storage\\2H56NRT8\\2605.28387v1.pdf"
+    ],
+    "rajReconfigurableMultistateMRAM2026": [
+      "C:\\Users\\LEO\\Zotero\\storage\\XILAKD4X\\2605.29942v1.pdf"
+    ],
+    "quCompactEnergyEfficientMemristive2026": [
+      "C:\\Users\\LEO\\Zotero\\storage\\5VJMLNU9\\2605.31141v1.pdf"
+    ],
+    "berettaLatentGeometryEmerging2025": [
+      "C:\\Users\\LEO\\Zotero\\storage\\8RV8DTC5\\Latent geometry emerging from network-driven processes.pdf"
+    ],
+    "quMemristorBasedSpikingNeural2026": [
+      "C:\\Users\\LEO\\Zotero\\storage\\WM3VDLIK\\2605.31299v1.pdf"
+    ],
+    "kasenbacherConvolutionalSparseCoding2026": [
+      "C:\\Users\\LEO\\Zotero\\storage\\UFGXYB9N\\2606.08584v1.pdf"
+    ],
+    "liEnhanceStrongScaling2023": [
+      "C:\\Users\\LEO\\Zotero\\storage\\ND6S72B4\\MTGA64FX_15-Enhance_the_Strong_Scaling_of_LAMMPS_on_Fugaku.pdf"
+    ],
+    "noarovOptimalDeterministicMulticalibration2026": [
+      "C:\\Users\\LEO\\Zotero\\storage\\8SDPPZE7\\2606.20557v1.pdf"
+    ]
+  }
+}
