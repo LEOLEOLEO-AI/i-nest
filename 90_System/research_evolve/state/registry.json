@@ -1,7 +1,7 @@
 {
   "schema": "research-evolve-registry-v1",
   "created": "2026-09-18T00:13:30.121722",
-  "updated": "2026-09-18T11:30:02.304867",
+  "updated": "2026-09-19T10:39:58.001092",
   "round": 9,
   "counters": {
     "next_id": 142
@@ -263,11 +263,11 @@
         "证据就绪: 有来源/证据字段"
       ],
       "escalated": true,
-      "verdict": "open",
-      "verdict_reason": "",
-      "verdict_by": "",
-      "verdict_round": null,
-      "verdict_at": "",
+      "verdict": "accepted",
+      "verdict_reason": "用户 2026-09-18 决定保留该研究方向",
+      "verdict_by": "human",
+      "verdict_round": 9,
+      "verdict_at": "2026-09-19T10:39:56.258720",
       "history": [
         {
           "round": 1,
@@ -278,6 +278,12 @@
           "verdict": "escalate",
           "reason": "已挂起 25 天未裁决",
           "by": "auto"
+        },
+        {
+          "round": 9,
+          "verdict": "accepted",
+          "reason": "用户 2026-09-18 决定保留该研究方向",
+          "by": "human"
         }
       ],
       "flags": [],
@@ -310,11 +316,11 @@
         "证据就绪: 有来源/证据字段"
       ],
       "escalated": true,
-      "verdict": "open",
-      "verdict_reason": "",
-      "verdict_by": "",
-      "verdict_round": null,
-      "verdict_at": "",
+      "verdict": "accepted",
+      "verdict_reason": "用户 2026-09-18 决定保留该研究方向",
+      "verdict_by": "human",
+      "verdict_round": 9,
+      "verdict_at": "2026-09-19T10:39:57.693553",
       "history": [
         {
           "round": 1,
@@ -325,6 +331,12 @@
           "verdict": "escalate",
           "reason": "已挂起 25 天未裁决",
           "by": "auto"
+        },
+        {
+          "round": 9,
+          "verdict": "accepted",
+          "reason": "用户 2026-09-18 决定保留该研究方向",
+          "by": "human"
         }
       ],
       "flags": [],
@@ -357,11 +369,11 @@
         "证据就绪: 有来源/证据字段"
       ],
       "escalated": true,
-      "verdict": "open",
-      "verdict_reason": "",
-      "verdict_by": "",
-      "verdict_round": null,
-      "verdict_at": "",
+      "verdict": "accepted",
+      "verdict_reason": "用户 2026-09-18 决定保留该研究方向",
+      "verdict_by": "human",
+      "verdict_round": 9,
+      "verdict_at": "2026-09-19T10:39:56.583018",
       "history": [
         {
           "round": 1,
@@ -372,6 +384,12 @@
           "verdict": "escalate",
           "reason": "已挂起 25 天未裁决",
           "by": "auto"
+        },
+        {
+          "round": 9,
+          "verdict": "accepted",
+          "reason": "用户 2026-09-18 决定保留该研究方向",
+          "by": "human"
         }
       ],
       "flags": [],
@@ -451,11 +469,11 @@
         "证据就绪: 有来源/证据字段"
       ],
       "escalated": true,
-      "verdict": "open",
-      "verdict_reason": "",
-      "verdict_by": "",
-      "verdict_round": null,
-      "verdict_at": "",
+      "verdict": "accepted",
+      "verdict_reason": "用户 2026-09-18 决定保留该研究方向",
+      "verdict_by": "human",
+      "verdict_round": 9,
+      "verdict_at": "2026-09-19T10:39:57.101865",
       "history": [
         {
           "round": 1,
@@ -466,6 +484,12 @@
           "verdict": "escalate",
           "reason": "已挂起 20 天未裁决",
           "by": "auto"
+        },
+        {
+          "round": 9,
+          "verdict": "accepted",
+          "reason": "用户 2026-09-18 决定保留该研究方向",
+          "by": "human"
         }
       ],
       "flags": [],
@@ -4659,11 +4683,11 @@
         "证据就绪: 有来源/证据字段"
       ],
       "escalated": true,
-      "verdict": "open",
-      "verdict_reason": "",
-      "verdict_by": "",
-      "verdict_round": null,
-      "verdict_at": "",
+      "verdict": "accepted",
+      "verdict_reason": "用户 2026-09-18 决定保留该研究方向",
+      "verdict_by": "human",
+      "verdict_round": 9,
+      "verdict_at": "2026-09-19T10:39:55.590663",
       "history": [
         {
           "round": 1,
@@ -4674,6 +4698,12 @@
           "verdict": "escalate",
           "reason": "已挂起 18 天未裁决",
           "by": "auto"
+        },
+        {
+          "round": 9,
+          "verdict": "accepted",
+          "reason": "用户 2026-09-18 决定保留该研究方向",
+          "by": "human"
         }
       ],
       "flags": [],
@@ -4947,11 +4977,11 @@
         "证据就绪: 有来源/证据字段"
       ],
       "escalated": true,
-      "verdict": "open",
-      "verdict_reason": "",
-      "verdict_by": "",
-      "verdict_round": null,
-      "verdict_at": "",
+      "verdict": "accepted",
+      "verdict_reason": "用户 2026-09-18 决定保留该研究方向",
+      "verdict_by": "human",
+      "verdict_round": 9,
+      "verdict_at": "2026-09-19T10:39:56.858813",
       "history": [
         {
           "round": 1,
@@ -4962,6 +4992,12 @@
           "verdict": "escalate",
           "reason": "已挂起 19 天未裁决",
           "by": "auto"
+        },
+        {
+          "round": 9,
+          "verdict": "accepted",
+          "reason": "用户 2026-09-18 决定保留该研究方向",
+          "by": "human"
         }
       ],
       "flags": [],
@@ -5088,11 +5124,11 @@
         "证据就绪: 有来源/证据字段"
       ],
       "escalated": true,
-      "verdict": "open",
-      "verdict_reason": "",
-      "verdict_by": "",
-      "verdict_round": null,
-      "verdict_at": "",
+      "verdict": "accepted",
+      "verdict_reason": "用户 2026-09-18 决定保留该研究方向",
+      "verdict_by": "human",
+      "verdict_round": 9,
+      "verdict_at": "2026-09-19T10:39:58.001092",
       "history": [
         {
           "round": 1,
@@ -5103,6 +5139,12 @@
           "verdict": "escalate",
           "reason": "已挂起 19 天未裁决",
           "by": "auto"
+        },
+        {
+          "round": 9,
+          "verdict": "accepted",
+          "reason": "用户 2026-09-18 决定保留该研究方向",
+          "by": "human"
         }
       ],
       "flags": [],
@@ -5466,11 +5508,11 @@
         "证据就绪: 有来源/证据字段"
       ],
       "escalated": true,
-      "verdict": "open",
-      "verdict_reason": "",
-      "verdict_by": "",
-      "verdict_round": null,
-      "verdict_at": "",
+      "verdict": "accepted",
+      "verdict_reason": "用户 2026-09-18 决定保留该研究方向",
+      "verdict_by": "human",
+      "verdict_round": 9,
+      "verdict_at": "2026-09-19T10:39:57.341044",
       "history": [
         {
           "round": 1,
@@ -5481,6 +5523,12 @@
           "verdict": "escalate",
           "reason": "已挂起 23 天未裁决",
           "by": "auto"
+        },
+        {
+          "round": 9,
+          "verdict": "accepted",
+          "reason": "用户 2026-09-18 决定保留该研究方向",
+          "by": "human"
         }
       ],
       "flags": [],

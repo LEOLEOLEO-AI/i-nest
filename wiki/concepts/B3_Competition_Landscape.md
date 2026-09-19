@@ -15,8 +15,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
-[[TCC]]
-[[iNEST]]
+*(no related concepts yet)*
 
 ## Sources
 - See wiki/articles/ for source article summaries

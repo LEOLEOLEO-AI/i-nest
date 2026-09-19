@@ -13,7 +13,7 @@
                 "元拓扑优化",
                 "物理拓扑映射 (PTM)"
             ],
-            "tags": ["topology", "center-computing", "collective-communication", "network-primitives", "meta-topology", "SDI-bond"]
+            "tags": ["topology", "center-computing", "topology-first-architecture", "topology-reconfiguration", "collective-communication", "compute-in-transit", "meta-topology", "compound-bond", "topology-page", "SDI", "SDSoW"]
         },
         "iNEST": {
             "name": "iNEST — 智能涌现网络系统 (Intelligent Network Emergence Systems)",
@@ -24,7 +24,7 @@
                 "类脑脉冲神经网络",
                 "晶上智能互连架构"
             ],
-            "tags": ["emergence", "self-organization", "criticality", "FEP", "STDP", "neuromorphic", "spiking", "edge"]
+            "tags": ["emergence", "physical-evolution-computing", "self-organization", "self-organized-criticality", "edge-of-chaos", "SDDE", "Lyapunov-spectrum", "time-scale-separation", "memristive-network", "neuromorphic", "spiking", "reservoir-computing", "higher-order-network", "causal-emergence"]
         }
     },
 
@@ -49,11 +49,11 @@
     "paper_search": {
         "daily_cron": "09:00",
         "sources": [
-            {"name": "arXiv", "categories": ["cs.NE", "cs.AI", "cs.MA", "cs.SI", "physics.soc-ph", "cs.NI", "cs.DC"], "keywords": ["emergent intelligence", "complex networks", "small-world", "scale-free", "topological computing"], "enabled": true},
-            {"name": "IEEE Xplore", "keywords": ["network topology optimization", "collective communication", "emergent computing"], "enabled": true},
-            {"name": "ACM Digital Library", "keywords": ["topology", "flexible computing", "network intelligence", "center computing"], "enabled": true},
-            {"name": "Nature/Science", "keywords": ["emergent intelligence", "complex systems", "network dynamics"], "enabled": true},
-            {"name": "CNKI (知网)", "keywords": ["复杂网络涌现智能", "拓扑优化", "高效计算", "网络中心计算"], "enabled": true}
+            {"name": "arXiv", "categories": ["cs.AI", "cs.NE", "cs.MA", "cs.SI", "cs.NI", "cs.DC", "physics.soc-ph", "physics.comp-ph", "cond-mat.mes-hall"], "keywords": ["topology-centric computing", "topology reconfiguration", "meta-topology", "compute-in-transit", "stochastic delay differential equation", "memristive network", "physical reservoir computing", "higher-order network", "time-scale separation", "emergent computation"], "enabled": true},
+            {"name": "IEEE Xplore", "keywords": ["reconfigurable interconnect", "NoC topology synthesis", "collective communication", "software-defined interconnect", "wafer-scale interconnect", "neuromorphic device physics"], "enabled": true},
+            {"name": "ACM Digital Library", "keywords": ["topology-aware computing", "in-network computing", "route-as-transform", "higher-order network", "emergent computation"], "enabled": true},
+            {"name": "Nature/Science", "keywords": ["physical evolution computing", "self-organized criticality", "edge of chaos", "complexity matching", "causal emergence", "collective dynamics"], "enabled": true},
+            {"name": "CNKI (知网)", "keywords": ["拓扑中心计算", "拓扑优先架构", "元拓扑", "化合键", "存算传一体", "物理演化计算", "随机时滞微分方程", "忆阻器网络", "复杂网络涌现智能"], "enabled": true}
         ]
     },
 

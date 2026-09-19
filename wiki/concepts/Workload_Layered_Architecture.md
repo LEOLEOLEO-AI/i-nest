@@ -14,29 +14,16 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
-[[4H_SiC_SubstrateProcessing]]
-[[AINext_Initiative]]
-[[ASIC_Dualism]]
-[[Active_Inference_Agent]]
-[[AdaptiveCompetingInteractions]]
-[[AdaptiveDensityControl]]
-[[AmorphousSolidPlasticity]]
-[[AnisotropicGaussianPrimitives]]
-[[AstrocyteInspiredModulation]]
-[[Autonomous_Architecture_Search]]
-[[BayesianDomainEvolution]]
-[[CommunicationAwareComputeRelocation]]
-[[ConvexNonConvexTradeoff]]
-[[CrossDomainRoleEquivalence]]
-[[Decoupled_Prior_Integration]]
+[[CST_Equation]]
+[[Chiplet_Interconnect_Topology]]
+[[Cognitive_Relapse_Architecture]]
+[[DTGA]]
 [[Decoupled_Priors]]
-[[Inference_Stage_Decomposition]]
-[[Microsecond_Link_Reconfiguration]]
+[[FlagOS_2_0]]
+[[Free_Energy_Topology_Mapping]]
 [[Network_Topology_Design]]
-[[Synaptic_Plasticity]]
-[[TCC]]
-[[Topology_Induced_Robustness]]
-[[Workload_Isolation]]
+[[SDSoW]]
+[[TopologyProgramming]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

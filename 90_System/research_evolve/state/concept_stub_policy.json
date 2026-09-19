@@ -1,0 +1,21 @@
+{
+  "auto_stub_generation": false,
+  "decided_at": "2026-09-18",
+  "decided_by": "用户指令",
+  "reason": "用户决定: 概念债先全部清除, 等正确的机制验证正确后再重新生成。",
+  "evidence": {
+    "measured_at": "2026-09-18",
+    "concept_files": 6123,
+    "auto_stubs": 5940,
+    "auto_stub_ratio": 0.970,
+    "real_concepts": 183,
+    "why_mechanism_is_wrong": [
+      "step_grow_missing_concepts 的触发条件是「某处 [[链接]] 指向了不存在的概念」，",
+      "因此它生成的占位按构造必然有入链 —— 链接图的密度被空节点抬高，",
+      "且无入链的占位数为 0，不存在『既安全又有量』的自动清理子集。",
+      "实测 2026-09-15/09-17 两次自进化各提交 6193/6196 个文件，而当日论文管线 new_papers=0。"
+    ]
+  },
+  "reenable": "把 auto_stub_generation 改为 true（或删除本文件）即恢复。建议先修好机制：区分『真实概念』与『链接占位』，占位不得计入概念数与图密度，且需有准入标准而非黑名单。",
+  "affected_code": "vault/90_System/scripts/self_evolve.py :: step_grow_missing_concepts()"
+}
