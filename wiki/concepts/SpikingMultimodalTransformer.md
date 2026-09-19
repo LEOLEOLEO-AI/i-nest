@@ -50,6 +50,8 @@ Auto-extracted concept from raw material compilation.
 [[SNN_Neuromorphic_Integration]]
 [[SNN_Spiking_Neural_Network]]
 [[SensorMemoryFusion]]
+[[SparseCodingEfficiency]]
+[[SpiNNaker2_Chip]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

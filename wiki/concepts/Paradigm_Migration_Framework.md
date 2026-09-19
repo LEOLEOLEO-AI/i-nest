@@ -38,6 +38,8 @@ Auto-extracted concept from raw material compilation.
 [[CircuitTopologySearch]]
 [[Critical_Region_Extension]]
 [[CrossDomain_Integration]]
+[[CrossLingualIdiomGraph]]
+[[Dynamic_Communication_Reconfiguration]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]

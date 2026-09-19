@@ -48,6 +48,8 @@ Auto-extracted concept from raw material compilation.
 [[ConfinementMechanism]]
 [[Confinement]]
 [[DLRM_Optimized_Dataflow]]
+[[DisorderInducedTopologicalOrder]]
+[[Disorder_Interaction_Competition]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

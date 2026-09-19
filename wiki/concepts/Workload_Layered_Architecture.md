@@ -29,6 +29,8 @@ Auto-extracted concept from raw material compilation.
 [[CrossDomainRoleEquivalence]]
 [[Decoupled_Prior_Integration]]
 [[Decoupled_Priors]]
+[[Inference_Stage_Decomposition]]
+[[Microsecond_Link_Reconfiguration]]
 [[Network_Topology_Design]]
 [[Synaptic_Plasticity]]
 [[TCC]]

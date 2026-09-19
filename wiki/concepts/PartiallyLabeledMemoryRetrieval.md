@@ -39,6 +39,8 @@ Auto-extracted concept from raw material compilation.
 [[EventCameraActionRecognition]]
 [[ExponentialDenseAssociativeMemory]]
 [[Field_Compression_for_InNetwork_Inference]]
+[[FixedOverheadCost]]
+[[FixedOverheadPenalty]]
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[FunctionalInterfaceBlock]]

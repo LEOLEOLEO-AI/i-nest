@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[ActionPrototypeClustering]]
+[[Autonomous_Spiking_Dynamics]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BrainInspiredArchitecture]]
 [[BrainInspired_Chip]]
@@ -33,12 +34,12 @@ Auto-extracted concept from raw material compilation.
 [[FixedOverheadCost]]
 [[FixedOverheadDominance]]
 [[In_Package_Neuromorphic_Integration]]
+[[Loss_Spike_Trigger]]
 [[MicroTransferPrintedActiveDevices]]
 [[NestedRepresentation]]
 [[NeuromorphicReplayBuffer]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
-[[Neuromorphic_Interconnect]]
 [[Neuromorphic_Selective_State_Space]]
 [[NoiseModulated_SynapticPlasticity]]
 [[SelfOrthogonalizingAttractor]]
@@ -51,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[TemporalSparsityExploitation]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
+[[neuromorphic interconnect]]
 [[类脑芯片]]
 
 ## Sources

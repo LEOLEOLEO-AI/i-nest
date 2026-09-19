@@ -40,6 +40,8 @@ Auto-extracted concept from raw material compilation.
 [[Communication_Primitive]]
 [[Communication_Primitive_Generation_Theory]]
 [[Critical_Region_Extension]]
+[[CrossDomain_Integration]]
+[[CrossLingualIdiomGraph]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]

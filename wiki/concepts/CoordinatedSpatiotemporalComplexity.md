@@ -26,7 +26,8 @@ Auto-extracted concept from raw material compilation.
 [[4H_SiC_SubstrateProcessing]]
 [[AI_Application_Scenario_Reconstruction]]
 [[AdvancedPackagingInterconnect]]
-[[AdvancedPackaging]]
+[[advanced packaging]]
+[[AnalogInMemoryComputing]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[Capability_Transformation_Mechanism]]
 [[Chiplet]]
@@ -36,11 +37,13 @@ Auto-extracted concept from raw material compilation.
 [[Defense_Industrial_Base_Reshaping]]
 [[DirectConnect_Topology]]
 [[EndToEndLinkSimulation]]
+[[Evolutionary_Structure_Computability]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[TemporalComplexity]]
+[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

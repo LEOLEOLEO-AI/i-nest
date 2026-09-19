@@ -38,6 +38,8 @@ Auto-extracted concept from raw material compilation.
 [[DelayTolerantNetworkUAV]]
 [[ElectricFieldModulatedCoupling]]
 [[EvolvingArchitectureDynamics]]
+[[ExactEvolutionLaw]]
+[[ExactWiringRouting]]
 [[FPGA_Reconfigurability]]
 [[HybridCouplingThermosensitiveNetwork]]
 [[InSitu_Adjoint_Wave_Control]]

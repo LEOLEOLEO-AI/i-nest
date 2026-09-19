@@ -20,9 +20,11 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[CLINKAsCarrierPrimitive]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
+[[Chiplet_Heterogeneous_Stacking]]
+[[chiplet interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Topology]]
 [[Chiplet_Topology_Interconnect]]
@@ -42,12 +44,13 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Architecture]]
 [[SDSoW_Reconfigurable_Network]]
 [[TCC]]
-[[TopologyCentricComputing]]
+[[Topology_Centric_Computing]]
 [[Topology_Centric_Computing]]
 [[Topology_Interconnect]]
 [[WaferScaleTopologyCentricComputing]]
 [[Wafer_Chiplet_Topology_Interconnect]]
 [[Wafer_Scale_Integration]]
+[[Wafer_Scale_Topology]]
 [[Wafer_Scale_Topology_Control]]
 [[chiplet interconnect]]
 

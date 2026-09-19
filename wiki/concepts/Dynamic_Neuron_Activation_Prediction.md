@@ -47,6 +47,8 @@ Auto-extracted concept from raw material compilation.
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[EntanglementSignatures]]
 [[GeometricRegularizationLoss]]
+[[HigherOrderPublicGoodsGame]]
+[[Hippocampal_Encoding_Mechanism]]
 [[Intelligence_Emergence]]
 [[LocalityConstrainedEntanglement]]
 [[Network_Topology_Design]]

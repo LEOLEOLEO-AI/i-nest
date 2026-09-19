@@ -32,7 +32,9 @@ Auto-extracted concept from raw material compilation.
 [[BackpropagationFreeLearning]]
 [[Baseline_Draft_Status]]
 [[BoundaryObject_Abstraction]]
+[[BurstInterleaving]]
 [[CellEmergence]]
+[[Chemical_Bond_Operation_Algebra]]
 [[CircuitTopologySearch]]
 [[Complex_System_Theory]]
 [[CrossLingualIdiomGraph]]
@@ -50,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[OpticallyWritableAtomicVaporMemory]]
 [[QueryComplexityScaling]]
+[[SOC]]
 [[TCC]]
 [[TopologicalDataCompression]]
 

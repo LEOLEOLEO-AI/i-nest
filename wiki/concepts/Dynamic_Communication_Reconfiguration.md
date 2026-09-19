@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[InNetworkRadarProcessing]]
 [[Interconnect_Routing]]
+[[Liquid_Topological_Generative_Computing]]
 [[Memristor]]
 [[Memristor_Interconnect]]
 [[Memristor_Synapse]]
@@ -44,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_iNEST_Wafer]]
 [[OpticallyWritableAtomicVaporMemory]]
 [[P_Paradigm]]
+[[SparseTemporalEncoding]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

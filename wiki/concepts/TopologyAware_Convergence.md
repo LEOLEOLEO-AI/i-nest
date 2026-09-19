@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
+[[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[03 涌现：整体的能力不能还原回个体？ - 得到APP]]
 [[1024_Card_SuperNode]]
 [[3D_Integrated_Chiplet_Stacking]]
@@ -29,8 +30,8 @@ Auto-extracted concept from raw material compilation.
 [[AI_Memory_Infrastructure]]
 [[AdiabaticMultimodeBend]]
 [[AdvancedPackagingInterconnect]]
-[[AdvancedPackaging]]
-[[Advanced_Packaging]]
+[[advanced packaging]]
+[[advanced packaging]]
 [[Advanced_Packaging_Route]]
 [[Advanced_Packaging_for_Space]]
 [[ApproximationFidelityTradeoff]]
@@ -46,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[ConductingPolymerDendriteInterconnect]]
 [[ConductingPolymerDendriteMemory]]
+[[Cryogenic_Syndrome_Compression]]
 [[FixedOverheadFloor]]
 [[Heterogeneous_Integration]]
 [[InInterconnectMemory]]

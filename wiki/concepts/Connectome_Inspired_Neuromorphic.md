@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[20W_Brain_Inspired_Planning]]
 [[Accessibility_Plasticity]]
+[[ActiveDendriteSNN]]
 [[AdaptiveFlexibilityThreshold]]
 [[BackflowTransformation]]
 [[BioInspiredLearningRule]]
@@ -33,8 +34,13 @@ Auto-extracted concept from raw material compilation.
 [[Connectome_Transfer]]
 [[FlexibilityThreshold]]
 [[FrozenRateOperator]]
+[[Loihi2_SpikeEncoding]]
+[[Loihi]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[SpikeEncoding]]
+[[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 [[neuromorphic computing architecture]]
 

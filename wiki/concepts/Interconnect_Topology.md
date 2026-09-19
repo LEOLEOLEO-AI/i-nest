@@ -25,6 +25,8 @@ Auto-extracted concept from raw material compilation.
 [[AgenticServiceOrchestration]]
 [[AgenticServiceTopology]]
 [[Agile_Resilient_Defense_Ecosystem]]
+[[AllParallel_SpikeBased_Computing]]
+[[Baseline_Draft_Status]]
 [[BurstInterleaving]]
 [[Critical_Region_Extension]]
 [[EventDrivenAsync]]
@@ -36,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[PacketRoutingForFPGAs]]
 [[ReputationPropagation]]
+[[Spiking_Neural_Network]]
 [[TCC]]
 
 ## Sources

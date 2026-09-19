@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[3D_Torus_6_Degree]]
+[[3d]]
 [[AI_Enabled_Battlefield_Autonomy]]
 [[AI_FullSpectrum_Strategy]]
 [[Allreduce_Latency_Probe]]
@@ -40,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[FlexibilityThreshold]]
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
+[[GeTeBasedCBRAM]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[MachineLearningNanomaterialDiscovery]]
@@ -66,6 +68,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC与INEST：2026全局论文与专利战略规划清单]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]
+[[战略报告提纲：物理复杂网络智能涌现——颠覆现有算力范式的新路线]]
 [[智能涌现]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]

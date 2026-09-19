@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Assisted_Energy_Optimization]]
 [[AI_PPT_Workflow]]
+[[ANN_SNN_FederatedAlignment]]
 [[ANN_to_SNN_Conversion_Error_Amplification]]
 [[ActivityAvalanche]]
 [[AddressRedundancyElimination]]
@@ -33,6 +34,8 @@ Auto-extracted concept from raw material compilation.
 [[ConsciousnessEngineeringLoop]]
 [[CriticalStateInformationMaximization]]
 [[CrossLayer_SignalRouting]]
+[[DVS_SNN_FPGA_Pipeline]]
+[[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
 [[PPT]]
 [[SNN]]

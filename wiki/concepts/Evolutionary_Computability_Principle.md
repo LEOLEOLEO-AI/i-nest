@@ -37,6 +37,8 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveDensityControl]]
 [[Analog_InMemory_Processing]]
 [[Anisotropic_Square_Lattice]]
+[[AnomalousLocalization]]
+[[ApproximantLattice]]
 [[ArbitraryWavefunctionConfigurability]]
 [[Asymmetric_Interaction_Graph]]
 [[BCM滑动阈值]]

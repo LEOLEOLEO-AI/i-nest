@@ -44,7 +44,9 @@ Auto-extracted concept from raw material compilation.
 [[SNN_VisualSemanticDecoder]]
 [[Scalable_SNN_Training]]
 [[SpikeEventScheduling]]
+[[Spike_Temporal_Dynamics]]
 [[Spiking_Neural_Network]]
+[[SupervisedHardwareRepair]]
 [[iNEST]]
 
 ## Sources

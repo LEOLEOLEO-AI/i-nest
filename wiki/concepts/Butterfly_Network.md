@@ -37,6 +37,8 @@ Auto-extracted concept from raw material compilation.
 [[HeterogeneousInference]]
 [[Heterogeneous_Integration]]
 [[IrregularNeuralReduction]]
+[[Liquid_Topological_Generative_Computing]]
+[[Network_Motif_Spectral_Analysis]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC]]

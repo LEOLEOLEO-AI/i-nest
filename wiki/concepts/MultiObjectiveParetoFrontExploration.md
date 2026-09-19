@@ -43,6 +43,8 @@ Auto-extracted concept from raw material compilation.
 [[Algebraic_Completeness]]
 [[Alpha_Coefficient_Phase_Transition_Amplification]]
 [[Anisotropic_Square_Lattice]]
+[[AnomalousLocalization]]
+[[ApproximantLattice]]
 [[Asymmetric_Interaction_Graph]]
 [[AttractorBasinOrthogonality]]
 [[AxonalGrowthConeStochasticity]]

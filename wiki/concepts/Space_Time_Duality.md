@@ -22,6 +22,8 @@ Auto-extracted concept from raw material compilation.
 
 [[AgenticServiceManifesto]]
 [[BCU_Operation]]
+[[Coherent_Floquet_Quantum_Reservoir]]
+[[ColorRouting]]
 [[Compressive_Sensing_Reservoir]]
 [[CouplingTopologyInducedDynamics]]
 [[CriticalityInducedTopology]]

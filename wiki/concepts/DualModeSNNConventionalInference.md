@@ -47,6 +47,8 @@ Auto-extracted concept from raw material compilation.
 [[Real_Time_Neuromorphic_Constraint_Satisfaction]]
 [[SNN]]
 [[SafetyThresholdAsSpikingThreshold]]
+[[SpikeAdversarialTransfer]]
+[[SpikeCommunicationScheduling]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

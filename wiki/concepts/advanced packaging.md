@@ -41,6 +41,8 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[BoundaryObject_Abstraction]]
 [[Chip_Floorplanning]]
 [[CommunicationAwareComputeRelocation]]
+[[Complex_Network_Class_Brain_Inspired_Intelligence]]
+[[Complexity_Emergence_Engineering]]
 [[EntanglementAwareRouting]]
 [[FatalityDrivenRewiring]]
 [[FullDimensionalDefinableInterconnect]]

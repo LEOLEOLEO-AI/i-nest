@@ -39,6 +39,8 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[ElectricFieldModulatedCoupling]]
 [[EvolvingArchitectureDynamics]]
+[[ExactEvolutionLaw]]
+[[ExactWiringRouting]]
 [[FPGA_Reconfigurability]]
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]

@@ -32,6 +32,8 @@ Auto-extracted concept from raw material compilation.
 [[3D_Vertical_Interconnect]]
 [[3_Plus_1_Chiplet_Array]]
 [[3d]]
+[[AI_Driven_Power_Density_Scaling]]
+[[AdaptiveGraphDiffusion]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]

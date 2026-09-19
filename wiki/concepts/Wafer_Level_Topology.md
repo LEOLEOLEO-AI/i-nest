@@ -52,6 +52,8 @@ Auto-extracted concept from raw material compilation.
 [[NCL神经计算定律详解]]
 [[Network_Topology_Design]]
 [[Nishimori_Threshold]]
+[[Resilient_Sensing_Comms_Network]]
+[[ScaleHierarchy_Decomposition]]
 [[SpaceToUndersea_ResilientComms]]
 [[TCC]]
 [[Wafer_Scale_Integration]]

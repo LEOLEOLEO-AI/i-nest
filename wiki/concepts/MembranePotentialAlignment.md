@@ -19,10 +19,12 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[20W_Brain_Inspired_Planning]]
 [[ActiveDendriteSNN]]
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[AdaptiveFlexibilityThreshold]]
 [[AnomalousSpinTransport]]
+[[BackflowTransformation]]
 [[BigBrainCellularAxis]]
 [[BrownianCastleInterface]]
 [[BrownianCastleInterfaces]]
@@ -34,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[EEGSpikeEncoding]]
 [[ErrorAmplificationLimits]]
 [[EventDrivenSynchronization]]
+[[FlexibilityThreshold]]
 [[FrequencyAdaptationMechanism]]
 [[GraphAnomalySpikeEncoding]]
 [[Heterogeneous_Integration]]
@@ -61,7 +64,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikingMotorControl]]
 [[SpikingMuscleActivation]]
 [[SpikingNeuralNetworkInference]]
-[[SpikingNeuralNetwork]]
+[[Spiking_Neural_Network]]
 [[SpikingTopologyEvolution]]
 [[Spiking_Neural_Network]]
 [[StochasticBinaryDynamics]]

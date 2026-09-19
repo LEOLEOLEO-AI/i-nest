@@ -21,13 +21,17 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3D_Airborne_Connectivity_Characterization]]
+[[3d]]
 [[Additive_Manufacturing_Defense_Trinity]]
 [[Brain_Connectome]]
 [[C_elegansConnectomeAnalogy]]
-[[Causal_Emergence]]
+[[causal emergence]]
+[[Complexity_Emergence]]
 [[ConnectomeComputationBasis]]
 [[Connectome]]
 [[Crystallized_Neural_Manifolds]]
+[[DataProvenanceIntegrity]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[iNEST]]
 

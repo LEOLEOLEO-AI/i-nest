@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[EcosystemTopologyCoupling]]
 [[ErrorSuppressedPipeline]]
 [[HybridReservoirComputing]]
+[[LargeDeviationTopologicalOrder]]
 [[MesonSpectra]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
@@ -48,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[RunawayAvalanche]]
 [[SimulabilityThreshold]]
+[[SpatialHeterogeneity]]
 [[TCC]]
 [[Topological_Reservoir]]
 

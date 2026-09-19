@@ -34,6 +34,8 @@ Auto-extracted concept from raw material compilation.
 [[AttentionMap_DifferenceResidual]]
 [[Attention_ResidualCancellation]]
 [[Biological_Circuit_Formalization]]
+[[Biological_Neural_Circuit_Formalization]]
+[[Biomimetic_Ion_Dynamics]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

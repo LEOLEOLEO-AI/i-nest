@@ -48,6 +48,8 @@ Auto-extracted concept from raw material compilation.
 [[CertifiedBifurcationDetection]]
 [[ClassicalQuantum_Query_Benchmark]]
 [[Coastal_Resilience_Feedback_Loop]]
+[[Cohomology_Invariants]]
+[[CompactificationRadius]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

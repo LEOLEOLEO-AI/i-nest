@@ -43,15 +43,18 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityOffCriticalityTransition]]
 [[Criticality]]
 [[Criticality_Boundary]]
+[[DelayAwareSpikeEventDelivery]]
 [[DiffusionInducedInstability]]
 [[Dimensionality_Modularity_Tradeoff]]
 [[DrivenCriticalityDynamics]]
 [[Driven_Criticality]]
-[[InNetworkComputing]]
+[[DynamicalCriticality]]
+[[In_Network_Computing]]
 [[Network_Topology_Design]]
 [[Quantum_Criticality]]
 [[SelfOrganization]]
 [[Self_Organized_Criticality]]
+[[Spiking_Neural_Network]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -55,6 +55,8 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[SynchronizationManifoldStability]]
+[[TemporalSwitchFramework]]
+[[TileBasedRasterization]]
 [[iNEST]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]

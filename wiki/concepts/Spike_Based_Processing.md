@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[ContinualLearningOnNeuromorphic]]
 [[Continuous_Spatiotemporal_State_Propagation]]
+[[EventDriven_AsyncCircuit]]
 [[EventDriven_Edge_Perception]]
 [[Event_Driven_Architecture]]
 [[Event_Driven_Spike_Communication]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Driven_Intelligence]]
 [[Spiking_Neural_Network]]
 [[TCC]]
+[[TemporalAdversarialPerturbation]]
 [[iNEST]]
 
 ## Sources

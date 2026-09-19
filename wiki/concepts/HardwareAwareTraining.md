@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[20W_Brain_Inspired_Planning]]
 [[ANN_SNN_ConversionError]]
 [[ActiveDendriteSNN]]
 [[AdaptiveAsymmetricSurrogateGradient]]
@@ -33,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[CorticalWaveRouting]]
 [[DryingStressSimulation]]
 [[Environmental_Capability_Context]]
+[[EventCameraPoseInput]]
 [[EventCameraTemporalEncoding]]
 [[ExtinctionDrivenMetastability]]
 [[FPGA_Accelerated_SNN]]
@@ -51,7 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_iNEST]]
 [[SpikeBasedGradientFreeOptimization]]
 [[SpikeEncoding]]
-[[SpikingNeuralNetwork]]
+[[Spiking_Neural_Network]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]

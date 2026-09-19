@@ -32,6 +32,8 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_ProjectManager_Model]]
 [[Distributed_Spike_Communication]]
 [[DrivenDissipativeDynamics]]
+[[EnergyEfficientRestoration]]
+[[EnergyResourceEfficiencyTradeoff]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]

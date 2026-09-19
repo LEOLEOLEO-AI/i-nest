@@ -20,6 +20,8 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[20W_Brain_Inspired_Planning]]
+[[Attention_Driven_Resource_Allocation]]
 [[BrainBodyResonance]]
 [[HallmarkDrivenCancerModeling]]
 [[LLM_Driven_NoC_Control]]
@@ -35,6 +37,8 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[Synaptic_Plasticity]]
+[[Wafer_Scale_Integration]]
+[[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
 [[memristor device]]

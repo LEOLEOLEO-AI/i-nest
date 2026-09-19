@@ -55,6 +55,8 @@ Auto-extracted concept from raw material compilation.
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[ConceptualCrossLinguisticNetworks]]
 [[CryogenicCompressor]]
+[[DARPA_TechnologyGap]]
+[[DegreeWeightGovernance]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]

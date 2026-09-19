@@ -26,6 +26,8 @@ Auto-extracted concept from raw material compilation.
 [[AcademicDevelopmentCoCreation]]
 [[AcceleratedMaterialScreening]]
 [[Advection_Reservoir_Computing]]
+[[AstrocyteInspiredRepair]]
+[[Bidirectional_Temporal_Enhancement]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]
 [[SNN]]

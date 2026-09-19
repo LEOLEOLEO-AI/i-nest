@@ -20,16 +20,21 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AgenticServiceOrchestration]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Beyond_Moore_Pathway]]
 [[CellularSheaf]]
 [[CircuitTopologySearch]]
 [[CriticalityInNetworkComputing]]
+[[Criticality]]
 [[CrossDomain_Integration]]
 [[CrossLingualIdiomGraph]]
+[[EventDrivenRiskAssessment]]
+[[In_Network_Computing]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
+[[Self_Organized_Criticality]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

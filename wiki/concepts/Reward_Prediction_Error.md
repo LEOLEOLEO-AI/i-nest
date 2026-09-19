@@ -33,8 +33,12 @@ Auto-extracted concept from raw material compilation.
 [[AgeingDementiaBiomarker]]
 [[Amorphous_Amorphous_Transition]]
 [[AtomicGeometryEncoding]]
+[[Avoided_Criticality]]
+[[BioPlausibleDisturbanceObserver]]
+[[Criticality]]
 [[Neuromorphic_Computing]]
 [[SNN]]
+[[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

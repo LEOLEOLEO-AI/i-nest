@@ -47,6 +47,8 @@ Auto-extracted concept from raw material compilation.
 [[GeometricNeuromorphicFusion]]
 [[NeuromorphicAttentionScaling]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Organization]]
+[[Pattern_Sequencing_Analysis]]
 [[SNN]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]

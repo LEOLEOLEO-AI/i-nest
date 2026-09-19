@@ -22,7 +22,9 @@ Auto-extracted concept from raw material compilation.
 
 [[ActionPrototypeClustering]]
 [[Algorithm_Hardware_CoDesign]]
+[[Analog_Synaptic_Behavior]]
 [[AnisotropicGaussianPrimitives]]
+[[BackflowTransformation]]
 [[CST_Spatiotemporal_Coefficient]]
 [[CompactnessRegularizedFitness]]
 [[Complex_System_Theory]]

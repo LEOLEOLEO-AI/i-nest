@@ -55,6 +55,8 @@ Auto-extracted concept from raw material compilation.
 [[Complexity_Coordination_Layer]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[ConceptualCrossLinguisticNetworks]]
+[[CryogenicCompressor]]
+[[DegreeWeightGovernance]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence]]

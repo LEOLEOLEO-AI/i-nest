@@ -38,6 +38,8 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TCC_Interconnect_Topology]]
 [[TopologyCentricPrimitiveSystem]]
+[[WaferScaleCoDesign]]
+[[WaferScaleComputing]]
 [[Wafer_Scale_Integration]]
 [[iNEST]]
 [[iNEST_Wafer]]

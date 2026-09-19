@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[20W_Brain_Inspired_Planning]]
 [[AINext_Initiative]]
 [[ActiveDendriteSNN]]
 [[AdaptiveDeltaPulseFrequencyEncoding]]
@@ -44,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Izhikevich_NeuronModel]]
 [[LatencyGradientDescent]]
+[[MembranePotentialAlignment]]
 [[Network_Topology_Design]]
 [[NeuralVariabilityEnhancement]]
 [[Neuromorphic_Chiplet]]

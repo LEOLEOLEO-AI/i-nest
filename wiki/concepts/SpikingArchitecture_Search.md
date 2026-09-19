@@ -37,6 +37,8 @@ Auto-extracted concept from raw material compilation.
 [[CombinedImportanceScoring]]
 [[ComplexValuedSNN]]
 [[ConfigurableSNNInference]]
+[[CoreComputationSubspace]]
+[[CulturalDisseminationDynamics]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]

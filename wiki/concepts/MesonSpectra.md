@@ -21,15 +21,17 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AnomalousSpinTransport]]
+[[Complexity_Emergence]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[CriticalFluctuationReservoir]]
 [[DissipativeQuantumReservoir]]
 [[DivergentHigherAreaRanking]]
+[[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
 [[Emergent_Topological_Alignment]]
 [[InNetworkNeuromorphicSimulation]]
-[[InNetworkNeuromorphic]]
+[[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic]]
 [[Independent_EdgeAI_Player_Endgame]]
 [[Intelligence_Emergence]]

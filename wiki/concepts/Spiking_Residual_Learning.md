@@ -29,6 +29,8 @@ Auto-extracted concept from raw material compilation.
 [[EnergyEfficientRestoration]]
 [[EnergyResourceEfficiencyTradeoff]]
 [[EventBasedBioSignalFrontEnd]]
+[[EventDataNonUniformity]]
+[[EventDrivenAutoregression]]
 [[EventDrivenInference]]
 [[Event_Driven_Architecture]]
 [[FPGA_Neuromorphic_Prototyping]]

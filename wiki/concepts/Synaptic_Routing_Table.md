@@ -22,8 +22,10 @@ Auto-extracted concept from raw material compilation.
 
 [[20W_Brain_Inspired_Planning]]
 [[ControlDrivenCriticalFluctuations]]
+[[CorticalWaveRouting]]
 [[DelayPropagationDynamics]]
 [[EvolvingArchitectureDynamics]]
+[[FPGA_Accelerated_SNN]]
 [[HybridCouplingThermosensitiveNetwork]]
 [[Inference_Workload_Profiling]]
 [[Interconnect_Routing]]

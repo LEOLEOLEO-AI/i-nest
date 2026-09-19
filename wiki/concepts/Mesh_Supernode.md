@@ -20,16 +20,21 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
-[[Chiplet_Interconnect]]
+[[chiplet interconnect]]
 [[Cluster_Effective_Compute_Formula]]
 [[CommunicationAsComputation]]
 [[DistributedTrainingPipeline]]
+[[GPU_Bottleneck_Relief]]
+[[Heterogeneous_Integration]]
 [[Interconnect_Bottleneck]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[Supernode_Architecture]]
 [[TCC]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

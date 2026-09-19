@@ -20,10 +20,12 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[20W_Brain_Inspired_Planning]]
 [[AutonomousAdaptation]]
 [[CirculateFiringNeuron]]
 [[ComplexValuedSNN]]
 [[CorticalWaveRouting]]
+[[CrossTaskNeuralRepresentation]]
 [[DevelopmentalNeuromorphicAdaptation]]
 [[FPGA_Accelerated_SNN]]
 [[FPGA_Neuromorphic_Acceleration]]

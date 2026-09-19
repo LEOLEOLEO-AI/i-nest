@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[ANN_SNN_ConversionError]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BioInspiredSequenceLearning]]
@@ -28,7 +29,8 @@ Auto-extracted concept from raw material compilation.
 [[DiscreteSTDP]]
 [[GroupSynchronization]]
 [[InNetworkNeuromorphicSimulation]]
-[[InNetworkNeuromorphic]]
+[[In_Network_Neuromorphic]]
+[[In_Network_Neuromorphic]]
 [[IntrinsicTimingSTDP]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
@@ -39,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_STDP_Bond]]
 [[SDI_STDP_Fusion]]
 [[SNN]]
+[[STDP_GraphLearning]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[SpikeCodingGradient]]

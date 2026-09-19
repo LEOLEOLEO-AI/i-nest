@@ -30,12 +30,15 @@ Auto-extracted concept from raw material compilation.
 [[DynamicProgrammingRecycling]]
 [[DynamicTopology]]
 [[Dynamic_Communication_Reconfiguration]]
+[[Floquet_Engineering]]
 [[Graphlet_Decomposition]]
 [[LowCostTrainingPipeline]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
+[[ReservoirWeightSparsity]]
+[[Reservoir_Computing]]
 [[memristor device]]
 
 ## Sources

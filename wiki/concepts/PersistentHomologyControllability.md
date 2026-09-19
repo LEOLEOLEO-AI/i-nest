@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Brain_Connectome]]
 [[Brain_Verified_Scaling_Target]]
 [[C_elegansConnectomeAnalogy]]
+[[causal emergence]]
 [[ChaoticAttractorTopology]]
 [[ConnectomeComputationBasis]]
 [[ConnectomeTopologyDirectedPropagation]]
@@ -36,6 +37,8 @@ Auto-extracted concept from raw material compilation.
 [[Crystallized_Neural_Manifolds]]
 [[DataProvenanceIntegrity]]
 [[DeviceConductanceTuning]]
+[[Dragonfly_Hierarchical_Scaling]]
+[[Functional_Food_Complexity]]
 [[Heterogeneous_Synaptic_Motifs]]
 [[HierarchicalSpatiotemporalProcessing]]
 [[Intelligence_Emergence]]
@@ -43,7 +46,6 @@ Auto-extracted concept from raw material compilation.
 [[Less_is_more，大脑“低能耗”并“高效响应”的秘诀：模块化_NSR]]
 [[Network_Topology_Design]]
 [[TCC]]
-[[causal emergence]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

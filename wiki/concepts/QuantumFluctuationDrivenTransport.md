@@ -67,8 +67,10 @@ Auto-extracted concept from raw material compilation.
 [[SuperparamagneticSwitchingRate]]
 [[TopologicalOrderLearning]]
 [[TopologicalPhaseTransition]]
+[[TwoModeStochasticOscillator]]
 [[iMESO_PhysicalCarrier]]
 [[iNEST]]
+[[iNEST_Neuromorphic_Integration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

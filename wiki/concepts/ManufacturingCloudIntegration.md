@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[2026-06-15_大脑的量子纠缠与信息动力学]]
+[[20W_Brain_Inspired_Planning]]
 [[AINext_Initiative]]
 [[AdaptiveFlexibilityThreshold]]
 [[Avoided_Criticality]]
@@ -44,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[PowerLawScaling]]
 [[Self_Organized_Criticality]]
+[[SynapticReinforcementConsolidation]]
 [[Synaptic_Plasticity]]
 [[Syncytial_Mesh]]
 [[Syncytial_Mesh_Model]]

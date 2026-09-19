@@ -20,12 +20,14 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[20W_Brain_Inspired_Planning]]
 [[ActiveDendriteSNN]]
 [[AdaptiveFlexibilityThreshold]]
 [[BackflowTransformation]]
 [[BurstTemporalPlasticity]]
 [[ChannelEventSparsity]]
 [[Complex_System_Theory]]
+[[Edge_AI_Acquisition_Consolidation]]
 [[EventDrivenSynchronization]]
 [[FlexibilityThreshold]]
 [[GutBrainAxis_Reprogramming]]

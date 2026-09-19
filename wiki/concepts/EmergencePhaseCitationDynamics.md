@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[1M1T1R_SynapticNeuron]]
 [[BigBrainCellularAxis]]
 [[CST_SynergisticCoordination]]
 [[Chiplet]]
@@ -36,11 +37,12 @@ Auto-extracted concept from raw material compilation.
 [[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]
 [[InNetworkNeuromorphicEmergence]]
-[[InNetworkNeuromorphic]]
+[[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Processing]]
 [[Intelligence_Emergence]]
 [[InterChipletPHYModeling]]
+[[MacroscopicDescriptor]]
 [[Memristive_STDP]]
 [[Memristor]]
 [[Memristor_Network]]

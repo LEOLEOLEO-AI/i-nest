@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[20W_Brain_Inspired_Planning]]
 [[AINext_Initiative]]
 [[Biologically_Plausible_Learning_Rules]]
 [[Cognitive_Relapse_Decoupling]]
@@ -40,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[OpenLearningEcosystem]]
 [[PacketRoutingOptimization]]
+[[PhaseAwareBisectionDemand]]
 [[Plasticity_vs_Computation_Separation]]
 [[QuantumDistillation]]
 [[RedundancyControlledStochasticRouting]]

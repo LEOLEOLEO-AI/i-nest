@@ -31,6 +31,8 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenAttentionMasking]]
 [[Event_Driven_Architecture]]
+[[FixedOverheadCost]]
+[[FixedOverheadPenalty]]
 [[HippocampalNeocorticalIntelligence]]
 [[Intelligence_Emergence]]
 [[IntrinsicTimingSTDP]]

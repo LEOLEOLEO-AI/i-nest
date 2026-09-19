@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[AutonomousAdaptation]]
 [[BigBrainCellularAxis]]
+[[CST计量仪]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
@@ -31,12 +32,13 @@ Auto-extracted concept from raw material compilation.
 [[DataDrivenCellularAxis]]
 [[DataProvenanceIntegrity]]
 [[EmergentOrder]]
+[[Emergent_Intelligence]]
 [[Emergent_Intelligence_Verifiability]]
 [[GenerativeTopologyModels]]
 [[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]
 [[InNetworkNeuromorphicEmergence]]
-[[InNetworkNeuromorphic]]
+[[In_Network_Neuromorphic]]
 [[InNetwork_CST_Offload]]
 [[In_Network_Neuromorphic]]
 [[Intelligence_Emergence]]
@@ -92,6 +94,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST_Neuromorphic_Topology]]
 [[residual connection]]
 [[三原理协同_FEP_STDP_最小作用量]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

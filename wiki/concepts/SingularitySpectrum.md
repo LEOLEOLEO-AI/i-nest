@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[20W_Brain_Inspired_Planning]]
 [[AcceleratedMaterialScreening]]
 [[ActiveInference]]
 [[AdaptiveDensityControl]]
@@ -29,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AnomalousSpinTransport]]
 [[AstrocyteInspiredRepair]]
 [[Beyond_Moore_Packaging_Strategy]]
+[[BioInspiredLearningRule]]
 [[Bio_plausible_Neuromorphic_Disturbance_Observer]]
 [[BrainBodyResonance]]
 [[ChipletOpticalIO]]
@@ -41,7 +43,9 @@ Auto-extracted concept from raw material compilation.
 [[DegreeDependentOpinionThreshold]]
 [[FlexibilityThreshold]]
 [[Heterogeneous_Integration]]
+[[Memristor]]
 [[Memristor_Interconnect]]
+[[Memristor_Synapse]]
 [[NeuromorphicLocomotionPrimitive]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]

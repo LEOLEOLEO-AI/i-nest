@@ -46,6 +46,8 @@ Auto-extracted concept from raw material compilation.
 [[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Offload]]
 [[InteractiveRoboticsLoop]]
+[[LowBitSpikingPruning]]
+[[MembranePotentialDynamics]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]

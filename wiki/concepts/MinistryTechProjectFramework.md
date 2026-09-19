@@ -31,7 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[ChipletWaferTopologyCoDesign]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
+[[chiplet interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[RTC_Primitives]]
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
+[[SDI节点接口规范与化合键定义]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[SDSoW_Physical_Base]]
@@ -55,12 +56,14 @@ Auto-extracted concept from raw material compilation.
 [[SimulationReproducibilityAudit]]
 [[TCC]]
 [[TCC核心概念与基线理论集 (TCC Core Concepts)]]
+[[TemperatureSensitivityControl]]
 [[TopologicalSignals]]
-[[Z3ToricCode]]
+[[Z3_Toric_Code]]
 [[chiplet interconnect]]
 [[iNEST]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

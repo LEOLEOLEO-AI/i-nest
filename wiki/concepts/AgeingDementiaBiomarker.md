@@ -34,6 +34,8 @@ Auto-extracted concept from raw material compilation.
 [[BackflowTransformation]]
 [[Baseline_Change_Record]]
 [[BioPlausibleDisturbanceObserver]]
+[[BrainScaleS_AsyncEventCircuit]]
+[[Catastrophic_Forgetting_Mitigation]]
 [[ConverterDrivenStability]]
 [[CriticalityBasedClassification]]
 [[Criticality]]

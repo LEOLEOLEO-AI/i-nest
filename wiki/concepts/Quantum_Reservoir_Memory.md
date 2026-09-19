@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AnalogDomainCompression]]
 [[CST_CoordinationMechanism]]
+[[CST_Spatiotemporal_Coefficient]]
 [[CompactnessRegularizedFitness]]
 [[Complex_System_Theory]]
 [[Contested_Prior_Resolution]]
@@ -35,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamical_State_Space]]
 [[EmergentTaskDecomposition]]
 [[Emergent_Abilities]]
+[[Environmental_Induced_Memory]]
 [[ExponentialDenseAssociativeMemory]]
 [[Fading_Memory_Property]]
 [[FerroelectricTunnelingJunction]]

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[AI_Faculty_Forum_2026]]
 [[AnisotropicGaussianPrimitives]]
 [[BioInspiredSequenceLearning]]
@@ -33,12 +34,14 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[SDI_Bond]]
 [[SDI_STDP]]
+[[SNN]]
 [[SNN_STDP_CoDesign]]
 [[STDP_Plasticity]]
 [[STDP_Topology]]
 [[STDP_Topology_Integration]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
+[[Synaptic_Plasticity_Rule]]
 [[TCC]]
 
 ## Sources

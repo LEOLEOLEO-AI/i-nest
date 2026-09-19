@@ -33,15 +33,18 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Interconnect_Routing]]
 [[LLMDrivenPathSelection]]
+[[LocalPlasticityPipeline]]
 [[Meta_Residual_Architecture]]
 [[MoE_Routing]]
 [[Network_Topology_Design]]
+[[NeuromorphicRadarFrontend]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[SelfOrganization]]
 [[Self_Organized_Criticality]]
 [[SpikeDrivenDetectionBackbone]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

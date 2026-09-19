@@ -55,6 +55,8 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[NeuronalNetworkSelfOrganization]]
+[[NoiseInjectedForwardPass]]
+[[ProgrammerGuideAbstraction]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[SelfOrganization]]

@@ -19,7 +19,9 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[20W_Brain_Inspired_Planning]]
 [[AdaptiveDeltaPulseFrequencyEncoding]]
+[[AstrocyteInspiredRepair]]
 [[Avoided_Criticality]]
 [[BrainBodyResonance]]
 [[BulletTrainScheduling]]
@@ -45,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicHardware]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[PowerLawScaling]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]

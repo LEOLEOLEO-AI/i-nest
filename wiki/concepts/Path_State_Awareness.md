@@ -35,8 +35,10 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Decoupling]]
 [[Critical_Region_Extension]]
 [[Criticality]]
+[[CrossbarFabricTopology]]
 [[DelayPropagationDynamics]]
 [[Emergent_Order_Deep_Belief_Networks]]
+[[Entangled_Criticality]]
 [[EvolvingArchitectureDynamics]]
 [[ExactWiringRouting]]
 [[FeatureBonding]]
@@ -58,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[World_Model]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

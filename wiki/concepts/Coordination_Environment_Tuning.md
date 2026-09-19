@@ -22,7 +22,10 @@ Auto-extracted concept from raw material compilation.
 
 [[Active_Inference_Topology]]
 [[AdjustableDynamicsReservoir]]
+[[AdjustableDynamics]]
 [[AutonomousAdaptation]]
+[[Causal_Emergence_Integration]]
+[[Cognitive_Relapse_Architecture]]
 [[CouplingTopologyMemoryLink]]
 [[ExplainableEnergyAI]]
 [[FPGA_Neuromorphic_Architectures]]

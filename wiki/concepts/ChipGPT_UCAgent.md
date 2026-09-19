@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3D_TokSIM_Architecture]]
 [[AI_Driven_Power_Density_Scaling]]
 [[AdaptiveGraphDiffusion]]
 [[Adaptive_Intelligence_Principle]]
@@ -31,6 +32,8 @@ Auto-extracted concept from raw material compilation.
 [[Ferroelectric_Devices]]
 [[In_Memory_Computing]]
 [[Long_Range_Interactions]]
+[[Memristive_Crossbar]]
+[[Memristive_Crossbar_Array]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[OneDimensionalLongRangeInteractions]]

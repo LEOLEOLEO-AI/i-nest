@@ -33,19 +33,19 @@ target: genspark
 
 ## 4. Inbox Highlights
 
+- [2026-09-18] **Memory Caching 论文深度笔记：让 RNN 拥有可增长的记忆** (01_GetNotes)
+- [2026-09-18] **2026新思开发者大会：台积电罗镇球谈AI时代的半导体产业与技术路线** (01_GetNotes)
 - [2026-09-16] **2026-09-16_arXiv_Partial projected ensembles reveal slow tilt-constrained inf** (_pipeline_insights)
 - [2026-09-16] **2026-09-16_arXiv_Learning to Solve Hard Problems in RL for LLMs by Never Givi** (_pipeline_insights)
 - [2026-09-16] **2026-09-16_arXiv_Self-Emergence Agent ArchitectureBehavior-Inertia HMM, Refle** (_pipeline_insights)
 - [2026-09-16] **2026-09-16_arXiv_Scaled Hippocampus-inspired Neural Networks on Neuromorphic ** (_pipeline_insights)
 - [2026-09-16] **2026-09-16_arXiv_Topology-Aware Congestion Pricing Demand Robust Routing usin** (_pipeline_insights)
 - [2026-09-16] **2026-09-16_arXiv_Budgeted Express-Mesh Traffic-Aware Link Placement and Deadl** (_pipeline_insights)
-- [2026-09-16] **2026-09-16_arXiv_A Unified Interconnection Network for Chiplet-Based Scaling ** (_pipeline_insights)
-- [2026-09-16] **2026-09-16_arXiv_Stitch-Free, Diamond-Scribed Silicon Nitride Photonic Integr** (_pipeline_insights)
 
 ## 5. Knowledge Graph Hotspots
 
-Total notes: 13157
-Graph nodes: 13114 | edges: 278312
+Total notes: 13381
+Graph nodes: 13143 | edges: 278335
 
 Top connected topics:
 - **backlinks** (degree=7560)
@@ -62,4 +62,4 @@ Top connected topics:
 (Run innovation_engine.py to generate)
 
 ---
-*Research brief auto-generated 2026-09-18 06:37*
+*Research brief auto-generated 2026-09-18 17:35*

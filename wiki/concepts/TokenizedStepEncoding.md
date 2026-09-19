@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[1M1T1R_SynapticNeuron]]
+[[20W_Brain_Inspired_Planning]]
 [[ActiveDendriteSNN]]
 [[AnomalousSpinTransport]]
 [[BigBrainCellularAxis]]
@@ -35,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[CompartmentalizedSpikeIntegration]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[ConsciousnessEngineeringLoop]]
+[[DARPA_ProjectManager_Model]]
 [[DeeplySupervisedSpiking]]
 [[Delay_Aware_Autograd_Spiking_Framework]]
 [[Distributed_Spike_Communication]]

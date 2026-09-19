@@ -44,6 +44,8 @@ Auto-extracted concept from raw material compilation.
 [[DTGA]]
 [[Decoupled_Prior_Integration]]
 [[DynamicInference]]
+[[EmergentDynamics]]
+[[Flexible_Neuromorphic_Substrate]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

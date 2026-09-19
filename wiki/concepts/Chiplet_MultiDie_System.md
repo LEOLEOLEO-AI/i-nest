@@ -32,6 +32,8 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Benchmark]]
 [[Analog_InMemory_Processing]]
 [[AnisotropicTensileStrength]]
+[[ArbitraryWavefunctionConfigurability]]
+[[Asymptotic_Exact_Solution]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]

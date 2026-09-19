@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
+[[3D_Torus_6_Degree]]
 [[6万+辛顿2025年度全景实录深读｜真正的智能与硅基智能的非对称演进]]
 [[AIRA_NeuralArchSearch]]
 [[Accessibility_Plasticity]]
@@ -41,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor]]
 [[Memristor_Network]]
 [[Memristor_Synapse]]
+[[Metastable_State_Hierarchy]]
 [[Nature Communications_生物神经网络中突触多样性如何让人工神经网络更强大？]]
 [[NetworkHysteresis]]
 [[Network_Topology_Design]]

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[2_5D_PIM_Chiplet_Integration]]
+[[AI_Application_Scenario_Reconstruction]]
 [[Additive_Manufacturing_Supply_Chain]]
 [[AnalogInMemoryComputing]]
 [[Analog_InMemory_Processing]]
@@ -28,7 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]
-[[Chiplet_Interconnect]]
+[[chiplet interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Cognitive_Relapse_Architecture]]
 [[Communication_Trace_Diagnostics]]
@@ -36,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Constructed_Reality_Prior]]
 [[CorticalTypeDiversity]]
 [[DTGA]]
+[[Decoupling_Mechanism]]
 [[FerroelectricDevice]]
 [[FerroelectricMemoryCell]]
 [[Ferroelectric_Devices]]

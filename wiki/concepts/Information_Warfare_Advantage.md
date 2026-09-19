@@ -39,6 +39,8 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
+[[Emergent_Order_Deep_Belief_Networks]]
+[[Endocrine_Modulated_Network_State]]
 [[GradientBasedSpikeLearning]]
 [[Intelligence_Emergence]]
 [[InterFPGA_Spike_Routing]]

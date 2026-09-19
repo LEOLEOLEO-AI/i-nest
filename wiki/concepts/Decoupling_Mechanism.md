@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
 [[AI_Faculty_Forum_2026]]
 [[AdaptiveDensityControl]]
 [[Analog_InMemory_Processing]]
@@ -27,7 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
+[[chiplet interconnect]]
 [[Cognitive_Relapse_Architecture]]
 [[Course_Based_FPGA_Projects]]
 [[DTGA]]
@@ -44,7 +45,10 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[L2_L3_Reconfigurability]]
 [[Memristive_STDP]]
+[[Memristor]]
 [[Memristor_Interconnect]]
+[[Memristor_Synapse]]
+[[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]

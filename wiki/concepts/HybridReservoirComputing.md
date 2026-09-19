@@ -39,6 +39,8 @@ Auto-extracted concept from raw material compilation.
 [[CrossInstitutionalNetwork]]
 [[Crystallized_Neural_Manifolds]]
 [[DataDrivenMaterialDesign]]
+[[DifferentiableLifting]]
+[[DistributedInference]]
 [[DivergentHigherAreaRanking]]
 [[EcosystemTopologyCoupling]]
 [[ErrorSuppressedPipeline]]

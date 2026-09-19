@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[20W_Brain_Inspired_Planning]]
 [[AI_Faculty_Forum_2026]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BigBrainCellularAxis]]
@@ -29,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Continuous_Control_Spike_Timing_Sensitivity]]
 [[CorticalWaveRouting]]
 [[DataDrivenCellularAxis]]
+[[FixedOverheadCost]]
 [[Hardware_Accelerated_SNN]]
 [[In_Network_Neuromorphic]]
 [[Intelligence_Emergence]]

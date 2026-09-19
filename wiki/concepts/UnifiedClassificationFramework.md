@@ -48,6 +48,8 @@ Auto-extracted concept from raw material compilation.
 [[ContestedPriorTopology]]
 [[ControllableSubspace]]
 [[CriticalDataThreshold]]
+[[DelayParameterSpaceDecomposition]]
+[[DelayParameterSweep]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]

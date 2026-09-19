@@ -36,6 +36,8 @@ Auto-extracted concept from raw material compilation.
 [[BoundaryContract]]
 [[BoundaryObject_Abstraction]]
 [[CST_MasterEquation]]
+[[CST_Theory]]
+[[CST_Theory_Integration]]
 [[Chemical_Bond_Operation_Algebra]]
 [[ChiralSurfaceFermiProjection]]
 [[Complex_System_Theory]]
@@ -49,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[PhotonicStateRetention]]
 [[SOC]]
 [[TCC]]
+[[TopologyAware_Learning]]
 [[TopologyConditionedLearning]]
 [[Topology_Centric_Packaging]]
 

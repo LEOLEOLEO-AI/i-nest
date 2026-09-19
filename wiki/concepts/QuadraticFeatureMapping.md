@@ -47,6 +47,8 @@ Auto-extracted concept from raw material compilation.
 [[Conductive_Filament_Switching]]
 [[Crystallized_Neural_Manifolds]]
 [[DistributedInference]]
+[[HierarchicalReservoirDynamics]]
+[[ImmuneMicrobiomeFeedbackLoop]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]

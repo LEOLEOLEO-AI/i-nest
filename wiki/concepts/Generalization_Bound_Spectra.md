@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Distributed_Spike_Communication]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
+[[Epithelial_Barrier_Integrity]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[KV_Cache_To_BoundaryObject]]
@@ -50,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Milinkovic B (2024)：复杂神经系统涌现动力学结构]]
 [[NCL神经计算定律详解]]
 [[Network_Topology_Design]]
+[[Neuromorphic_Computing]]
 [[OptimalRepresentation]]
 [[OptimalRepresentations]]
 [[QuantumReservoirMemoryCapacity]]
@@ -58,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Learning]]
 [[STDP_Plasticity]]
 [[ScaleFreeNetwork]]
+[[Spiking_Neural_Network]]
 [[Stigmergic_Neural_Plasticity]]
 [[SynapticWeightDynamics]]
 [[Synaptic_Plasticity]]
@@ -73,6 +76,7 @@ Auto-extracted concept from raw material compilation.
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

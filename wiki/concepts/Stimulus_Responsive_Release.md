@@ -50,6 +50,8 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SDI_STDP_Fusion]]
+[[SDI_STDP_Rule]]
+[[SDPrompt_Guided_Dynamic_Expert_Fusion]]
 [[SNN]]
 [[STDP_Plasticity]]
 [[SpikeEncoding]]

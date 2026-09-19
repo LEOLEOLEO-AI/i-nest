@@ -28,14 +28,19 @@ Auto-extracted concept from raw material compilation.
 [[3d]]
 [[AI_Driven_Power_Density_Scaling]]
 [[AI_Faculty_Forum_2026]]
-[[Advanced_Packaging]]
+[[advanced packaging]]
 [[Advanced_Packaging_for_Space]]
+[[Bond_Operation_Algebra]]
 [[BoundaryContract]]
+[[Chemical_Bond_Operation_Algebra]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]
+[[CircuitTopologySearch]]
+[[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
+[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

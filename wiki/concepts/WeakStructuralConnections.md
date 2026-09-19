@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_Topology]]
 [[MitigationLayers]]
 [[MultiplicativeGain]]
+[[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]
 [[Network_Topology_Design]]
 [[NonEquilibriumComputing]]
 [[RecursiveSelfReferentialArchitecture]]
@@ -57,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[SimulationReproducibilityAudit]]
+[[SneakPathCurrentSuppression]]
 [[Spatiotemporal_Synergy]]
 [[Spatiotemporal_Synergy_Complexity]]
 [[SuperparamagneticSwitchingRate]]
@@ -67,6 +69,7 @@ Auto-extracted concept from raw material compilation.
 [[vLLM_plugin_FLSDI]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

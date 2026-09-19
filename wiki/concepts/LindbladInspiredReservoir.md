@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Coupling_Topology]]
 [[CriticalStateReservoir]]
 [[Crystallized_Neural_Manifolds]]
+[[DataDrivenMaterialDesign]]
 [[DiscreteScaleInvariance]]
 [[DivergentHigherAreaRanking]]
 [[EvolutionaryReservoirOptimization]]
@@ -47,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
+[[ProjectiveMeasurementRouting]]
 [[RandomisedPathGeneration]]
 [[Reservoir_Computing]]
 

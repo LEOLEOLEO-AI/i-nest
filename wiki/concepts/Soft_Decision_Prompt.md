@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[6万+辛顿2025年度全景实录深读｜真正的智能与硅基智能的非对称演进]]
 [[ArmLocomotorCoordination]]
 [[BioInspiredSpikeEncoding]]
 [[CSI_Temporal_Encoding]]
@@ -27,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
 [[DeeplySupervisedSpiking]]
+[[GeTeBasedCBRAM]]
 [[Heterogeneous_Integration]]
 [[In_Package_Neuromorphic_Integration]]
 [[Intelligence_Emergence]]
@@ -44,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[PairwiseCorrelationConstraint]]
 [[PropertyPredictionModeling]]
 [[SNN]]
+[[SpikeEncoding]]
 [[SpikeRatePrecisionTradeoff]]
 [[Spike_Encoding_of_fMRI]]
 [[SpikingNeuronOptimization]]

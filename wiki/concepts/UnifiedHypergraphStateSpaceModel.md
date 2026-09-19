@@ -45,11 +45,15 @@ Auto-extracted concept from raw material compilation.
 [[DiscreteContinuous_Unification]]
 [[DrivenCriticalityOptimalityTradeoff]]
 [[EmulationTheoryDisturbanceObserver]]
+[[EventDrivenInference]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Organization]]
 [[Neuromorphic_Planning_Architecture]]
 [[Self_Organized_Criticality]]
 [[SpikeDrivenMOT]]
+[[SpikeEventDrivenInference]]
+[[Spiking_Neural_Network]]
+[[Syncytial_Mesh_Model]]
 [[UnifiedHypergraphStateSpace]]
 
 ## Sources

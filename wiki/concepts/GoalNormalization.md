@@ -49,18 +49,22 @@ Auto-extracted concept from raw material compilation.
 [[MetaHardwareAbstraction]]
 [[MultiplicativeGainCondition]]
 [[MultiplicativeGain]]
+[[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[OptimalRepresentations]]
 [[OrganoidOnChipInterface]]
 [[Renormalization_Group]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
 [[STDP_Plasticity]]
+[[Spiking_Neural_Network]]
 [[Strong_Randomness_Renormalization_Group]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

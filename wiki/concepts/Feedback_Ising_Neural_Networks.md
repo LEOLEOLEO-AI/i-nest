@@ -31,7 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[ActivityPropagationCascade]]
 [[AddressRedundancyElimination]]
 [[AdvancedPackagingInterconnect]]
-[[AdvancedPackaging]]
+[[advanced packaging]]
 [[AdversarialMedicalRobustness]]
 [[AllOpticalHebbianLearning]]
 [[BulletTrainScheduling]]
@@ -43,7 +43,9 @@ Auto-extracted concept from raw material compilation.
 [[CrossEntityPreemptiveWarning]]
 [[CrossModalFeatureFusion]]
 [[DARPA_ProjectManager_Model]]
+[[Disordered_Frustrated_Dimer_Magnets]]
 [[DisturbancePropagationPath]]
+[[DualSide_Routing_Layer]]
 [[ElectronicPhotonicIntegratedCircuit]]
 [[EnergyResourceEfficiencyTradeoff]]
 [[GateModelHardware]]
@@ -60,6 +62,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[Technology_Disparity_Offset]]
+[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

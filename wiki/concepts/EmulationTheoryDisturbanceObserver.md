@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[20W_Brain_Inspired_Planning]]
 [[Avoided_Criticality]]
 [[BioPlausibleDisturbanceObserver]]
 [[Biologically_Plausible_Learning_Rules]]
@@ -44,6 +45,9 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[InterFPGA_Spike_Routing]]
+[[Interconnect_Routing]]
+[[Memristor]]
+[[Memristor_Synapse]]
 [[MultiModel_Adapter_Architecture]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicObserverArchitecture]]
@@ -54,11 +58,15 @@ Auto-extracted concept from raw material compilation.
 [[PowerLawScaling]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Self_Organized_Criticality]]
+[[Spiking_Neural_Network]]
 [[SynapticFatigueModel]]
 [[SynapticReinforcementConsolidation]]
 [[Synaptic_Plasticity]]
 [[Syncytial_Mesh]]
 [[Syncytial_Mesh_Model]]
+[[Wafer_Scale_Integration]]
+[[Wafer_Scale_Interconnect]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[catastrophic forgetting]]
 [[iNEST]]
 

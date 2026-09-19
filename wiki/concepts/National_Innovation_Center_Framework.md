@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[ForwardFluctuationGradient]]
 [[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]
+[[HigherOrderSimplicialDynamics]]
 [[Izhikevich_NeuronModel]]
 [[Loihi2_OnChip_Learning]]
 [[Loihi]]
@@ -62,6 +63,7 @@ Auto-extracted concept from raw material compilation.
 [[Universal_Claim_Evidence_Requirement]]
 [[iMESO_PhysicalCarrier]]
 [[iNEST]]
+[[神经形态脉冲大语言模型（NSLLM）]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

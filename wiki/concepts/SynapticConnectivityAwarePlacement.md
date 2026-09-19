@@ -27,6 +27,8 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Deep_Brain_Stimulation]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[AthermalDynamics]]
+[[BandedConnectivityModel]]
 [[BioInspired_Interception_Control]]
 [[BurstGatedRouting]]
 [[Complex_System_Theory]]

@@ -27,13 +27,14 @@ Auto-extracted concept from raw material compilation.
 [[AdiabaticMultimodeBend]]
 [[AdsorptionBiosorptionHybrid]]
 [[AdvancedPackagingInterconnect]]
-[[AdvancedPackaging]]
-[[Advanced_Packaging]]
+[[advanced packaging]]
+[[advanced packaging]]
 [[Allreduce_Latency_Diagnostic]]
 [[AndersonTransition]]
 [[Bipartite_Interconnect]]
 [[Bipartite_Interconnect_Design]]
 [[CausalIntegrationTopology]]
+[[CavityMethodAnalysis]]
 [[Chiplet]]
 [[Chiplet_Advanced_Packaging]]
 [[Chiplet_Based_Architecture]]
@@ -44,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[TCC]]
 [[advanced packaging]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

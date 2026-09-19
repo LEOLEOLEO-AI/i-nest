@@ -43,6 +43,8 @@ Auto-extracted concept from raw material compilation.
 [[FixedOverheadDominance]]
 [[HighThroughputPhenotyping]]
 [[MemoryDrivenInterconnect]]
+[[Military_AI_Revolution]]
+[[Neural_Manifold_Crystallization]]
 [[Neuromorphic_Computing]]
 [[OptimalGeneralisationNearInterpolation]]
 [[OscillatoryReservoirDynamics]]

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[20W_Brain_Inspired_Planning]]
 [[AINext_Initiative]]
 [[ActiveDendriteSNN]]
 [[AdaptiveArchitecture]]
@@ -57,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeTimingGradient]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
+[[Synchronization_Overhead_Mitigation]]
 [[iNEST]]
 
 ## Sources

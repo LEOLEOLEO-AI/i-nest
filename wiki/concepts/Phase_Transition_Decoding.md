@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AdjointWaveControl]]
 [[AgenticServiceOrchestration]]
 [[Agile_Resilient_Defense_Ecosystem]]
+[[CavityMethodAnalysis]]
 [[Complex_System_Theory]]
 [[ControlDrivenCriticalFluctuations]]
 [[Critical_Region_Extension]]
@@ -54,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[TopologyGradientSignal]]
+[[VectorFlowField]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

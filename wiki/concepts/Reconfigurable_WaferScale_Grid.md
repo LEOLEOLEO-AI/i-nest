@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
 [[DBF_Topology_Mapping]]
+[[DistributedTrainingPipeline]]
 [[Heterogeneous_Integration]]
 [[Jalapeno_Inference_Chip]]
 [[Microsecond_Link_Reconfiguration]]
@@ -38,8 +39,9 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_NPU_NoC_Integration]]
 [[SDI_Topology]]
+[[Switchless_Computing]]
 [[TCC]]
-[[TopologyCentricComputing]]
+[[Topology_Centric_Computing]]
 [[Topology_Centric_Computing]]
 [[WaferScaleTopologyCentricComputing]]
 

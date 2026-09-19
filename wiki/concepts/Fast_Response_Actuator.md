@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[20W_Brain_Inspired_Planning]]
 [[ANN_SNN_ConversionError]]
 [[ActiveDendriteSNN]]
 [[AdaptiveAsymmetricSurrogateGradient]]
@@ -42,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[HardwareAwareTraining]]
 [[ITP_STDP]]
 [[Interconnect_Routing]]
+[[Neuromorphic_Hardware_Paradigm]]
 [[RobustnessToNoiseInSNN]]
 [[SDI_Bond]]
 [[SDI_STDP]]

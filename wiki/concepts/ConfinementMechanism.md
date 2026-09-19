@@ -48,6 +48,8 @@ Auto-extracted concept from raw material compilation.
 [[CollectiveStateStability]]
 [[Complex_System_Theory]]
 [[Confinement]]
+[[CooperationEmergenceThreshold]]
+[[CriticalBranchingMechanism]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

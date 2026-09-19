@@ -22,8 +22,9 @@ Auto-extracted concept from raw material compilation.
 
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
+[[chiplet interconnect]]
 [[Chiplet_Interconnect_Topology]]
+[[CommunicationAsComputation]]
 [[Heterogeneous_Integration]]
 [[Intelligent_Computing_Infrastructure]]
 [[Interconnect_Topology]]
@@ -32,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[NoC]]
 [[NoC_Chiplet_iNEST_Wafer]]
+[[OnWafer_2D_Mesh]]
 [[SDI_Bond]]
 [[SDSoW]]
 [[SDSoW_Architecture]]

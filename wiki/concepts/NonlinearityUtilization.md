@@ -25,7 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[BoundaryObject_Abstraction]]
 [[CST_MasterEquation]]
-[[Causal_Emergence]]
+[[causal emergence]]
 [[Causal_Emergence_Architecture]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -39,12 +39,13 @@ Auto-extracted concept from raw material compilation.
 [[Flow_Network_Memory]]
 [[Heterogeneous_Inference_Division]]
 [[Heterogeneous_Integration]]
+[[HybridResistiveMemoryCIM]]
+[[InMateriaComputing]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[P_Paradigm]]
 [[TCC]]
-[[causal emergence]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

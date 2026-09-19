@@ -21,8 +21,10 @@ Auto-extracted concept from raw material compilation.
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[12_三原理协同_FEP_最小作用量_STDP]]
+[[AI人工智能 卷积神经网络（CNN）_w3cschool]]
 [[AlloyDisorderEngineering]]
 [[Avoided_Criticality]]
+[[BCM滑动阈值]]
 [[CST_Theory]]
 [[CST_Theory_V27_FINAL]]
 [[Complex_System_Theory]]
@@ -50,12 +52,14 @@ Auto-extracted concept from raw material compilation.
 [[PhenomenologicalRenormalizationGroup]]
 [[QuasiCriticalDynamics]]
 [[RecursiveSelfReferentialArchitecture]]
+[[STDP_Plasticity]]
 [[Self_Organized_Criticality]]
 [[Synaptic_Plasticity]]
 [[complex system]]
 [[iNEST]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

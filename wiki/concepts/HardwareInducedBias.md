@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[CrossEntityPreemptiveWarning]]
 [[DARPA_Manufacturing_Strategy]]
+[[DigitalSpikingNeuralNetwork]]
 [[DrivenCriticalityOptimalityTradeoff]]
 [[EventBasedMotionDeblurring]]
 [[EventDrivenAutoregression]]
@@ -47,7 +48,9 @@ Auto-extracted concept from raw material compilation.
 [[SpikePacketCompression]]
 [[Spike_Energy_Floor]]
 [[Spiking_Neural_Network]]
+[[Spiking_Neural_Network]]
 [[SynapticReinforcementConsolidation]]
+[[Syncytial_Mesh_Model]]
 [[iNEST]]
 
 ## Sources

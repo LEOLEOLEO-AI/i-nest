@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[20W_Brain_Inspired_Planning]]
 [[AstrocyteInspiredRepair]]
 [[Attention_Mechanism_in_SNN]]
 [[Avoided_Criticality]]
@@ -35,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
+[[SynapticReinforcementConsolidation]]
 [[Syncytial_Mesh]]
 [[Syncytial_Mesh_Model]]
 [[iNEST]]

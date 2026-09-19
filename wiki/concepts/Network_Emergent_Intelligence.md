@@ -31,6 +31,8 @@ Auto-extracted concept from raw material compilation.
 [[EmergentIntelligence_Spacetime]]
 [[Emergent_Intelligence]]
 [[Heterogeneous_Inference_Division]]
+[[HybridResistiveMemoryCIM]]
+[[InMateriaComputing]]
 [[Intelligence_Emergence]]
 [[Neuromorphic_Computing]]
 [[iNEST]]

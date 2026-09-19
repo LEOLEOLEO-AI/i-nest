@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[20W_Brain_Inspired_Planning]]
 [[AINext_Initiative]]
 [[AI_Faculty_Forum_2026]]
 [[ANN_SNN_WeightSpaceGap]]
@@ -29,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveAsymmetricSurrogateGradients]]
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[AdaptiveFrequencyResonateAndFire]]
+[[Adaptive_Replication_Strategy]]
 [[Avoided_Criticality]]
 [[Baseline_Change_Record]]
 [[BioInspiredInterceptionTask]]

@@ -55,6 +55,8 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[ComplexityLandscape]]
 [[ComplexityLandscape_Optimization]]
+[[Complexity_Coordination_Layer]]
+[[ComponentLevelMolding]]
 [[EvolutionarySearch]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]

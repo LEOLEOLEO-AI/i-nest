@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
+[[Concepts-Theory — 全景导航 (Map of Content)]]
 [[DARPA_ERI]]
 [[DARPA_ERI_2_0_Framework]]
 [[Deep_Network_Architecture_Invariant]]
@@ -59,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[NearSensorComputing]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
+[[Neuromorphic_Computing]]
 [[Non_Von_Neumann_Architecture]]
 [[PhotonicPackagingEfficiency]]
 [[RecursiveSelfReferentialArchitecture]]
@@ -70,6 +72,7 @@ Auto-extracted concept from raw material compilation.
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

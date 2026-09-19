@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Topology_Interconnect]]
 [[Complex_System_Theory]]
 [[Complexity_Coordination_Layer]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
@@ -55,9 +56,10 @@ Auto-extracted concept from raw material compilation.
 [[InverseDesignedPhotonicAccelerator]]
 [[NCL神经计算定律详解]]
 [[Network_Topology_Design]]
+[[Neuromorphic_Computing]]
 [[RG_Flow_Transformer]]
 [[RecursiveSelfReferentialArchitecture]]
-[[RenormalizationGroupFlow]]
+[[Renormalization_Group_Flow]]
 [[RenormalizationGroup_ScalingLaws]]
 [[RenormalizationGroup_Scaling]]
 [[Renormalization_Group]]
@@ -75,6 +77,7 @@ Auto-extracted concept from raw material compilation.
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

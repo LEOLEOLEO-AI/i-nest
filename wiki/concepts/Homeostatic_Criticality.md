@@ -37,6 +37,8 @@ Auto-extracted concept from raw material compilation.
 [[Criticality_Reservoir]]
 [[Fading_Memory_Property]]
 [[Intelligence_Emergence]]
+[[MeanFieldSpinGlass]]
+[[Mimetic_Optogenetic_Synapses]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]
 [[STDP_Plasticity]]

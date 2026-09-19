@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[ExplosiveTransitionThreshold]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[L2_L3_Reconfigurability]]
 [[LocalMeasurementSheaf]]
 [[MIT_异构Chiplet集成构建下一代计算的_超级芯片_]]
 [[MagicStateDistillationOverheadModel]]
@@ -54,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[Nature Communications_生物神经网络中突触多样性如何让人工神经网络更强大？]]
 [[NetworkMechanismsOfWaveGeneration]]
 [[Network_Topology_Design]]
+[[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[ScaleFreeNetwork]]
 [[SelfHealing_Interconnect]]
@@ -71,6 +73,7 @@ Auto-extracted concept from raw material compilation.
 [[智能涌现]]
 [[涌现]]
 [[神经网络]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

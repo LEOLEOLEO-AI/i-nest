@@ -25,17 +25,21 @@ Auto-extracted concept from raw material compilation.
 [[Bipartite_Interconnect_Design]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
+[[chiplet interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Stacking]]
 [[Collective_Offloading]]
 [[CorticalTypeDiversity]]
 [[Crystallized_Neural_Manifolds]]
 [[DataMovementMinimization]]
+[[Decoupled_Priors]]
+[[FPGACongestionModel]]
+[[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Interconnect_Topology]]
 [[Network_Topology_Design]]
 [[TCC]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

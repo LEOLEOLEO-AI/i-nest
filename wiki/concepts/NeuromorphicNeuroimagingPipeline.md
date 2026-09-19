@@ -42,14 +42,18 @@ Auto-extracted concept from raw material compilation.
 [[EnergyProportionalityCeiling]]
 [[EventBasedMotionDeblurring]]
 [[EventDrivenMotionDeblurring]]
+[[Event_Driven_Architecture]]
 [[Event_Driven_Multiscale_Plasticity]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[FormalToolchain]]
 [[FrequencyAdaptationMechanism]]
+[[HigherOrderAvalanche]]
+[[MembranePotentialDistributionMatching]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 
 ## Sources

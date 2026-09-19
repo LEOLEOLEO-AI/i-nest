@@ -38,6 +38,8 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Organization]]
 [[SNN]]
 [[Self_Organized_Criticality]]
+[[SpikeDrivenInference]]
+[[SpikePacketCompression]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

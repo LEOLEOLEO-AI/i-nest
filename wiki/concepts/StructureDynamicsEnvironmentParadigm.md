@@ -21,12 +21,13 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Faculty_Forum_2026]]
-[[Advanced_Packaging]]
+[[advanced packaging]]
 [[Advanced_Packaging_for_Space]]
 [[Attention_Residuals]]
 [[BoundaryObject_Abstraction]]
 [[CST计量仪]]
 [[Complex_System_Theory]]
+[[Complexity_Emergence]]
 [[Contested_Prior_Resolution]]
 [[Defense_Industrial_Base_Reshaping]]
 [[Emergent_Intelligence]]
@@ -37,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[MemristiveTopologyCoupling]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[NonequilibriumLangevinComputing]]
 [[SDI_Bond]]
 [[SDI_Review_Process]]
 [[SDI_iNEST]]

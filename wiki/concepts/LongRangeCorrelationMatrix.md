@@ -20,12 +20,14 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AdaptiveCompetingInteractions]]
 [[AdaptiveDensityControl]]
 [[AdjointWaveControl]]
 [[Anisotropic_Correlation_Length]]
 [[ArbitraryWavefunctionConfigurability]]
 [[CST_Equation]]
 [[ChiralTopologicalMatter]]
+[[CommunicationAwareComputeRelocation]]
 [[CommunicationPrimitiveTopologyCoupling]]
 [[Complex_System_Theory]]
 [[CorticalTypeDiversity]]

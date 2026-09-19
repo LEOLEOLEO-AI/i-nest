@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Faculty_Forum_2026]]
+[[Adaptive_Deep_Brain_Stimulation]]
 [[DARPA_ProjectManager_Model]]
 [[GeTeBasedCBRAM]]
 [[HybridResistiveMemoryCIM]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[RuntimeTopologyMapping]]
 [[SNN]]
 [[Spiking_Neural_Network]]
+[[Stochastic_LIF_Inference]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

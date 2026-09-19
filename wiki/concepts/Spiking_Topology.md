@@ -33,12 +33,15 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[EnergyEfficientNeuromorphicDesign]]
+[[EnergyEfficientNeuromorphic]]
 [[EnergyEfficientSNN]]
+[[EventDrivenInference]]
 [[Event_Driven_Architecture]]
 [[Event_Driven_Orbital_Object_Pipeline]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[GeometricNeuromorphicFusion]]
-[[InNetwork_Neuromorphic]]
+[[Hybrid_ANN_SNN_Pipeline]]
+[[In_Network_Neuromorphic]]
 [[InNetwork_Neuromorphic_CoDesign]]
 [[In_Network_Neuromorphic]]
 [[Intelligence_Emergence]]
@@ -72,4 +75,4 @@ Auto-extracted concept from raw material compilation.
 - *(Explore connections to other concepts)*
 
 ## Merged From
-- SpikingTopology (merged 2026-08-04)
+- Spiking_Topology (merged 2026-08-04)

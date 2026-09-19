@@ -20,12 +20,14 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3D_Torus_Topology]]
+[[3d]]
 [[Brain_Scale_Parameter_Baseline]]
 [[ChipletWaferInterconnectCoDesign]]
 [[ChipletWaferInterconnectScaling]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
+[[chiplet interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[CommunicationAsComputation]]
@@ -41,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[MicroRouter_Embedding]]
 [[Migration_Roadmap]]
 [[Network_Topology_Design]]
+[[Neuromorphic_Wafer_Interconnect]]
 [[TCC]]
 [[Wafer_Interconnect]]
 [[Wafer_Scale_Integration]]

@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[ChiralTopologicalMatter]]
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Cryogenic_Syndrome_Compression]]
@@ -47,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[ImaginaryGaugePhaseImprint]]
 [[Intelligence_Emergence]]
+[[L2_L3_Reconfigurability]]
 [[MachineLearningPotential]]
 [[Memristive_STDP]]
 [[Memristive_Topology]]
@@ -72,6 +74,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -20,13 +20,17 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Bidirectional_Temporal_Enhancement]]
 [[ContinualLearningOnNeuromorphic]]
 [[EventDrivenAutoregression]]
 [[EventDrivenDefenseMechanism]]
 [[EventDrivenRiskAssessment]]
 [[Event_Driven_Architecture]]
+[[In_NET_Neuromorphic]]
 [[MagnitudePhaseComputationalModel]]
+[[Neuromorphic_Computing]]
 [[NonlinearDynamicalSampling]]
+[[Nonlinear_Gain]]
 [[SpikeDrivenInference]]
 [[Spiking_Neural_Network]]
 [[iNEST]]

@@ -32,7 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
+[[chiplet interconnect]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
@@ -66,6 +66,9 @@ Auto-extracted concept from raw material compilation.
 [[Spatiotemporal_Synergy]]
 [[Spatiotemporal_Synergy_Complexity]]
 [[Structural_Mismatch]]
+[[TCC]]
+[[TCC核心概念与基线理论集 (TCC Core Concepts)]]
+[[TemperatureSensitivityControl]]
 [[TemporalComplexity]]
 [[ThermallyDrivenSuperparamagnetReservoir]]
 [[analog computation]]
@@ -74,6 +77,7 @@ Auto-extracted concept from raw material compilation.
 [[vLLM_plugin_FLSDI]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
+[[神经网络]]
 [[类脑芯片]]
 
 ## Sources

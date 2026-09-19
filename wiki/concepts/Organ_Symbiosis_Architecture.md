@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AINext_Initiative]]
 [[Active_Inference_Agent]]
+[[AdaptiveCompetingInteractions]]
 [[AdaptiveDensityControl]]
 [[AmorphousSolidPlasticity]]
 [[ArbitraryWavefunctionConfigurability]]
@@ -35,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Controlled_Release_Kinetics]]
 [[Cytokine_Feedback_Loops]]
 [[Decoupled_Prior_Integration]]
+[[Inference_Stage_Decomposition]]
 [[Online_Continual_Learning]]
 [[Synaptic_Plasticity]]
 [[TCC]]

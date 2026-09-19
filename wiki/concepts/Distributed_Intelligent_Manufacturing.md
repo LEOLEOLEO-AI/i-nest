@@ -39,6 +39,8 @@ Auto-extracted concept from raw material compilation.
 [[Beyond_Moore_Pathway]]
 [[Bias_Origin_Taxonomy]]
 [[BioInspiredGeneralist]]
+[[CellularSheaf]]
+[[CircuitTopologySearch]]
 [[CoPackagedOptics]]
 [[Compact_Boson_Dynamics]]
 [[Complex_System_Theory]]

@@ -44,6 +44,8 @@ Auto-extracted concept from raw material compilation.
 [[Alpha_Coefficient_Phase_Transition_Amplification]]
 [[Analog_InMemory_Processing]]
 [[Anisotropic_Square_Lattice]]
+[[AnomalousLocalization]]
+[[ApproximantLattice]]
 [[Asymmetric_Interaction_Graph]]
 [[AttractorBasinOrthogonality]]
 [[AxonalGrowthConeStochasticity]]

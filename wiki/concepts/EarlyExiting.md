@@ -34,8 +34,10 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityInducedTopology]]
 [[CriticalityOffCriticalityTransition]]
 [[Criticality]]
+[[DelayAwareSpikeEventDelivery]]
 [[DelayTolerantNetworkUAV]]
 [[Driven_Criticality]]
+[[EnergyEfficientSNN]]
 [[EventDrivenRiskAssessment]]
 [[ExactlyFlatTopologicalBands]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
@@ -43,13 +45,14 @@ Auto-extracted concept from raw material compilation.
 [[Generative_Graph_Models]]
 [[HigherOrderNetworkDynamics]]
 [[HigherOrderNetwork]]
-[[InNetworkComputing]]
+[[In_Network_Computing]]
 [[Intelligent_Power_Management]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[SelfOrganization]]
 [[Self_Organized_Criticality]]
+[[Spiking_Neural_Network]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

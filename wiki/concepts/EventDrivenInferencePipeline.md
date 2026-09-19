@@ -32,7 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Endocrine_Modulated_Network_State]]
 [[EventDrivenAttentionMasking]]
-[[EventDrivenComputation]]
+[[Event_Driven_Computation]]
 [[EventDrivenInference]]
 [[EventDrivenSpectralProcessing]]
 [[EventDrivenStateEstimation]]
@@ -69,6 +69,8 @@ Auto-extracted concept from raw material compilation.
 [[TemporalCodingOptimization]]
 [[TemporalPrecisionScheduling]]
 [[TemporalSpikePattern]]
+[[Temporal_Coding_Signal_Representation]]
+[[Temporal_Computing_Paradigm]]
 [[iNEST]]
 [[神经网络]]
 

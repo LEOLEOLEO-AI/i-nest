@@ -35,6 +35,8 @@ Auto-extracted concept from raw material compilation.
 [[AnisotropicTensileStrength]]
 [[AnteHoc_Explainability]]
 [[Backpropagating_Action_Potential]]
+[[Backpropagation_Comparison]]
+[[Banded_NonHermitian_Matrix]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

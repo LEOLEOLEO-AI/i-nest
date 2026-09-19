@@ -52,6 +52,8 @@ Auto-extracted concept from raw material compilation.
 [[SpikingNeuralTransformer]]
 [[Spiking_Neural_Network]]
 [[SynapticConsolidation]]
+[[TemporalAdversarialPerturbation]]
+[[TemporalCodingForPointClouds]]
 [[iNEST]]
 [[iNEST_Interconnect]]
 

@@ -48,6 +48,8 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[CorticalEfficiencyReliabilityExchange]]
 [[DAGGER_Algorithm]]
+[[Disentangled_Physics_Neural_Architecture]]
+[[DisorderInducedLocalization]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]

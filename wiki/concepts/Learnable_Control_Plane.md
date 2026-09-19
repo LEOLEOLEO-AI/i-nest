@@ -26,6 +26,8 @@ Auto-extracted concept from raw material compilation.
 [[Bio_plausible_Neuromorphic_Disturbance_Observer]]
 [[ClocklessReconfigurableChip]]
 [[DTGA]]
+[[Dynamic_Expert_Routing]]
+[[ExplainableEnergyAI]]
 [[GeneralizationPhaseBoundary]]
 [[Interconnect_Routing]]
 [[Memristor]]

@@ -23,6 +23,8 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_ProjectManager_Model]]
 [[FPGA_Neuromorphic_Acceleration]]
 [[HigherOrderTransitionKernel]]
+[[MultiScaleTemporalProcessing]]
+[[National_Planning_Driven_Research_Alignment]]
 [[NeuromorphicObserverArchitecture]]
 [[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Acceleration]]

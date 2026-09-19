@@ -42,6 +42,8 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[BurstSuppressionMechanism]]
 [[BurstSuppression]]
+[[Cognitive_Relapse_Decoupling]]
+[[ContinualLearningOnNeuromorphic]]
 [[Criticality]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

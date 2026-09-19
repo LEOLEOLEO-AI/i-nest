@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[20W_Brain_Inspired_Planning]]
 [[ActiveDendriteSNN]]
 [[AnisotropicGaussianPrimitives]]
 [[AutonomousAdaptation]]
@@ -35,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenWeightUpdate]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[FPGA_Neuromorphic_Acceleration]]
+[[FixedOverheadCost]]
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]

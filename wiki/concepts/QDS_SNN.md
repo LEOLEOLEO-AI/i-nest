@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Amorphous_Amorphous_Transition]]
 [[AnisotropicGaussianPrimitives]]
 [[AnomalousSpinTransport]]
+[[AtomicGeometryEncoding]]
 [[BiologicalNoiseMimicry]]
 [[BrainActivityPrediction]]
 [[CollectiveSpikingDynamics]]
@@ -48,6 +49,8 @@ Auto-extracted concept from raw material compilation.
 [[SNNFairnessBenchmark]]
 [[SNN]]
 [[Spiking_Neural_Network]]
+[[TCCNPU_Coordination_Roadmap]]
+[[TCC]]
 [[TriAxiomCalibration]]
 [[iNEST]]
 

@@ -22,7 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
+[[chiplet interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[CommunicationAsComputation]]
@@ -33,6 +33,8 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Topology]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[MetricComputationAuthenticity]]
+[[MicroRouter_Embedding]]
+[[Multi_Wafer_Rack]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[TCC]]

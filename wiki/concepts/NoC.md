@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[3DHI_Interconnect]]
 [[3DHI_Stacking]]
+[[3D_Vertical_Interconnect]]
 [[3d]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -43,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Topology]]
 [[SparsityAwareInterconnect]]
 [[TCC]]
+[[Topology_Centric_LLM_Acceleration]]
 [[WideLink_NoC_Router]]
 
 ## Sources

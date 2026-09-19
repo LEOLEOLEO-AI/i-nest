@@ -21,11 +21,14 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[1M1T1R_SynapticNeuron]]
+[[20W_Brain_Inspired_Planning]]
 [[3D_Torus_6_Degree]]
 [[3d]]
 [[6万+辛顿2025年度全景实录深读｜真正的智能与硅基智能的非对称演进]]
 [[AINext_Initiative]]
 [[AdaptiveFlexibilityThreshold]]
+[[Adaptive_Deep_Brain_Stimulation]]
+[[FlexibilityThreshold]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[SNN]]

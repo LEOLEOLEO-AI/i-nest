@@ -45,6 +45,8 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Roadmap]]
 [[ErrorSuppressedPipeline]]
+[[Evolutionary_Computability]]
+[[FlagOS_2_0]]
 [[Free_Energy_Topology_Mapping]]
 [[HigherOrderSimplicialDynamics]]
 [[InNetwork_Learning_Interface]]

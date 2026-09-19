@@ -30,6 +30,8 @@ Auto-extracted concept from raw material compilation.
 [[CoPackagedOptics]]
 [[Complex_System_Theory]]
 [[Computation_Access_Routing]]
+[[ControlDrivenCriticalFluctuations]]
+[[EntanglementAwareRouting]]
 [[EvolvingArchitectureDynamics]]
 [[FPGA_NeuromorphicMapping]]
 [[FPGA_Reconfigurability]]

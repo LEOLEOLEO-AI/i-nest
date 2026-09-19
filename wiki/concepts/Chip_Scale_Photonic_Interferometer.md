@@ -22,13 +22,19 @@ Auto-extracted concept from raw material compilation.
 
 [[1024_Card_SuperNode]]
 [[3D_Integration]]
+[[3d]]
 [[Accessibility_Plasticity]]
 [[Additive_Manufacturing_Topology]]
 [[AdiabaticModeEvolutionCoupler]]
+[[AdiabaticModeEvolution]]
 [[AdiabaticMultimodeBend]]
 [[AdsorptionBiosorptionHybrid]]
+[[AdvancedPackagingInterconnect]]
+[[advanced packaging]]
+[[AlternativeMetalInterconnects]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 
 ## Sources

@@ -20,7 +20,7 @@ VAULT = Path(r"D:\Obsidian\vault")
 INBOX = VAULT / "00_Inbox"
 KEY = os.environ.get("DEEPSEEK_API_KEY", "")
 DEEPSEEK_BASE_URL = os.environ.get("DEEPSEEK_BASE_URL", "https://api.deepseek.com/v1")
-DEEPSEEK_MODEL = os.environ.get("DEEPSEEK_MODEL", "deepseek-v4-pro")
+DEEPSEEK_MODEL = os.environ.get("DEEPSEEK_MODEL", "deepseek-v4-flash")
 client = OpenAI(api_key=KEY, base_url=DEEPSEEK_BASE_URL)
 
 TCC_DIRS = {"理论": "31_Theory", "技术": "32_Technology", "工程": "33_Engineering", "项目": "34_Projects", "仿真": "35_Simulation"}

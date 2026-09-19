@@ -47,6 +47,8 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration_Roadmap_HIR]]
 [[HybridSearchPartitioning]]
 [[Intelligence_Emergence]]
+[[InterconnectAwareGradientAggregation]]
+[[MachineLearningPotential]]
 [[MetricComputationAuthenticity]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]

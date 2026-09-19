@@ -49,8 +49,10 @@ Auto-extracted concept from raw material compilation.
 [[RunawayAvalanche]]
 [[SpatialHeterogeneity]]
 [[SuddenLearning]]
+[[TCCNPU_Coordination_Roadmap]]
 [[TCC]]
 [[Topological_Reservoir]]
+[[TunableNonlinearDynamics]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

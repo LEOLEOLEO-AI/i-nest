@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenWeightUpdate]]
 [[Event_Driven_Architecture]]
+[[FixedOverheadCost]]
 [[InSensorMemoryComputing]]
 [[Intelligence_Emergence]]
 [[Memristive_SNN]]
@@ -59,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[SynapticRewiringDynamics]]
 [[Synaptic_Plasticity]]
 [[TopologicalAndersonChernInsulator]]
+[[Wafer_Scale_Neuromorphic]]
 [[iNEST]]
 [[类脑芯片]]
 

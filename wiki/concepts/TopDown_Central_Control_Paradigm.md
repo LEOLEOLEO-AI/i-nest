@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[20W_Brain_Inspired_Planning]]
 [[3D_Heterogeneous_Integration]]
 [[3d]]
 [[AI_Faculty_Forum_2026]]
@@ -34,11 +35,14 @@ Auto-extracted concept from raw material compilation.
 [[ByteDance_Ada_Chip]]
 [[CST_MasterEquation]]
 [[Complex_System_Theory]]
+[[FlexibilityThreshold]]
 [[Heterogeneous_Integration]]
 [[Intelligent_Power_Management]]
 [[Memristor]]
 [[Memristor_Interconnect]]
 [[Memristor_Synapse]]
+[[Neuromorphic_Computing]]
+[[SpaceForTime_Neuromorphic]]
 [[WaveBasedComputation]]
 [[iNEST]]
 

@@ -59,6 +59,8 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[NoiseModulatedLearning]]
 [[NonEquilibriumComputing]]
+[[NonvolatileChargeDomain]]
+[[PhysicalInformedDeepLearning]]
 [[RecursiveSelfReferentialArchitecture]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]

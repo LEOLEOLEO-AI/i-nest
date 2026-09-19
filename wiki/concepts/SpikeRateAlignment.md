@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
+[[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
 [[11_SDI节点接口规范与化合键定义_dup]]
 [[1M1T1R_SynapticNeuron]]
 [[20W_Brain_Inspired_Planning]]
@@ -48,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[HigherOrderStochasticProcess]]
 [[Hypergraph_Label_Noise]]
+[[InNetworkRadarProcessing]]
 [[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Offload]]
 [[LIF_Neuron_Model]]
@@ -55,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[MagnetizationSusceptibilityResponse]]
 [[Metriplectic_Twin]]
 [[Network_Specific_Embedding_Separation]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]
 [[NoiseRobust_Hyperedge_Aggregation]]
@@ -62,7 +65,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
 [[SpikingNeuralNetworkBenchmark]]
-[[SpikingNeuralNetwork]]
+[[Spiking_Neural_Network]]
 [[Spiking_Neural_Network]]
 [[complex system]]
 [[iNEST]]

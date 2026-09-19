@@ -27,6 +27,8 @@ Auto-extracted concept from raw material compilation.
 [[BrownianCastleInterfaces]]
 [[CoDesigned_SNN]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
+[[Complexity_Emergence]]
+[[Complexity_Emergence_Engineering]]
 [[Criticality]]
 [[DataDrivenCellularAxis]]
 [[Emergent_Intelligence]]

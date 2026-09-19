@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[20W_Brain_Inspired_Planning]]
 [[BiasEvaluationMetrics]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BigBrainCellularAxis]]
@@ -39,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Hardware_Accelerated_SNN]]
 [[HierarchicalBayesianCommunityDetection]]
 [[In_Network_Neuromorphic]]
+[[In_Network_Neuromorphic_Scheduling]]
 [[Interconnect_Routing]]
 [[Master_SDDE]]
 [[Microgrid_Optimization]]

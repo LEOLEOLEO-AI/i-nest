@@ -41,6 +41,8 @@ Auto-extracted concept from raw material compilation.
 [[CascadedAdaptiveCombiners]]
 [[ClosedLoopNeuromorphicControl]]
 [[CompetitiveProgramDynamics]]
+[[ConceptualNetworkEmbedding]]
+[[Edge_AI_Acquisition_Consolidation]]
 [[FlexibilityThreshold]]
 [[Neuromorphic_Computing]]
 [[Synaptic_Plasticity]]

@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[NonEquilibriumComputing]]
+[[OptimalRepresentation]]
 [[OptimalRepresentations]]
 [[QuantumReservoirMemoryCapacity]]
 [[RecursiveSelfReferentialArchitecture]]
@@ -65,6 +66,7 @@ Auto-extracted concept from raw material compilation.
 [[Swarm_Coordination]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[TCC与INEST：2026全局论文与专利战略规划清单]]
 [[TwoTimescaleNeuroEvolution]]
 [[complex system]]
 [[iNEST]]
@@ -75,6 +77,7 @@ Auto-extracted concept from raw material compilation.
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

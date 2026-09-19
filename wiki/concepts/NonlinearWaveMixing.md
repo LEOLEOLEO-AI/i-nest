@@ -34,7 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
+[[chiplet interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[ChiralTopologicalMatter]]
 [[ComplexTopologicalStructures]]
@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[CorticalTypeDiversity]]
 [[Cryogenic_Syndrome_Compression]]
+[[Deep_Thermalisation]]
 [[EmergentOrder]]
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
@@ -62,6 +63,7 @@ Auto-extracted concept from raw material compilation.
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

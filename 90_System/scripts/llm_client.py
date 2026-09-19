@@ -1,17 +1,18 @@
 # -*- coding: utf-8 -*-
-"""llm_client.py v2 — 统一 LLM 客户端（DeepSeek 直连主力）
+"""llm_client.py v2 — 统一 LLM 客户端（仅 DeepSeek 付费 API）
 
-模型: deepseek-v4-flash (快速便宜, 批量分析够用)
-       deepseek-v4-pro   (复杂任务手动切换)
+模型选型（"合适的"原则）:
+  - deepseek-v4-flash : 默认, 快速便宜, 批量分析/抽取够用
+  - deepseek-chat     : 分类/对话类任务用 Chat 更合适
+  - 不使用 deepseek-v4-pro（贵）, 不使用 OpenRouter / NVIDIA NIM 等免费模型
 
-回退链: DeepSeek API -> NVIDIA NIM -> 全部失败返回 None(调用方报错, 不降级规则)
+仅走付费 DeepSeek API (https://api.deepseek.com); 失败返回 None 由调用方处理, 不降级免费端点。
 Key 来源: ~/.dsh/.credentials.yaml (与 DSH harness 同源) 或环境变量
 """
-import json, os, re, urllib.request, urllib.error
+import json, os, re, time, random, urllib.request, urllib.error
 from pathlib import Path
 
 PRIMARY_MODEL = os.environ.get("LLM_MODEL", "deepseek-v4-flash")
-PRO_MODEL = "deepseek-v4-pro"
 BASE_URL = "https://api.deepseek.com"
 
 
@@ -43,52 +44,50 @@ def _post(url, payload, headers, timeout=90):
         return None
 
 
-def call(prompt, max_tokens=1500, timeout=90, model=None, retries=3):
-    """调用 LLM。返回文本或 None。带重试(限速/网络波动)。"""
+def call(prompt, max_tokens=1500, timeout=90, model=None, retries=3, total_timeout=None):
+    """调用 LLM（仅 DeepSeek 付费 API）。返回文本或 None。带重试(限速/网络波动)。
+
+    total_timeout: 整个调用(含重试+退避)的墙钟上限秒数; 不传则按 retries*timeout+20 兜底,
+    防止单次调用因端点挂起而无限累加 timeout。
+    """
     chosen = model or PRIMARY_MODEL
     key = _load_key()
+    if total_timeout is None:
+        total_timeout = timeout * (retries + 1) + 20
+    deadline = time.time() + total_timeout
 
     def attempt():
-        # 1) DeepSeek 直连（主力）
-        if key:
-            r = _post(
-                f"{BASE_URL}/v1/chat/completions",
-                {"model": chosen, "messages": [{"role": "user", "content": prompt}],
-                 "max_tokens": max_tokens, "temperature": 0.3},
-                {"Content-Type": "application/json", "Authorization": f"Bearer {key}"},
-                timeout=timeout,
-            )
-            if r:
-                return r
-        # 2) NVIDIA NIM 免费（备用, 网络可达时）
-        nv = os.environ.get("NVIDIA_API_KEY", "")
-        if nv:
-            r = _post(
-                "https://integrate.api.nvidia.com/v1/chat/completions",
-                {"model": "deepseek-ai/deepseek-v4-flash-0731",
-                 "messages": [{"role": "user", "content": prompt}],
-                 "max_tokens": max_tokens, "temperature": 0.3},
-                {"Content-Type": "application/json", "Authorization": f"Bearer {nv}"},
-                timeout=timeout,
-            )
-            if r:
-                return r
-        return None
+        # 仅 DeepSeek 付费 API（不回落免费端点）
+        if not key:
+            return None
+        # 单次调用超时也掐到剩余墙钟, 使 total_timeout 成为硬上限(防挂起)
+        remaining = max(1.0, deadline - time.time())
+        return _post(
+            f"{BASE_URL}/v1/chat/completions",
+            {"model": chosen, "messages": [{"role": "user", "content": prompt}],
+             "max_tokens": max_tokens, "temperature": 0.3},
+            {"Content-Type": "application/json", "Authorization": f"Bearer {key}"},
+            timeout=min(timeout, remaining),
+        )
 
-    import time, random
     for i in range(retries + 1):
+        if time.time() > deadline:
+            print(f"  [llm_client] 总超时({total_timeout:.0f}s), 放弃剩余重试")
+            return None
         r = attempt()
         if r:
             return r
         if i < retries:
-            # 指数退避 + 抖动：~2s, 4s, 8s（DeepSeek 间歇性连接拒绝/超时时更稳健）
-            time.sleep((2 ** i) + random.uniform(0, 1))
+            remaining = deadline - time.time()
+            sleep_t = min((2 ** i) + random.uniform(0, 1), max(0.5, remaining))
+            if sleep_t > 0:
+                time.sleep(sleep_t)
     return None
 
 
-def call_json(prompt, max_tokens=1500, timeout=90, model=None):
+def call_json(prompt, max_tokens=1500, timeout=90, model=None, total_timeout=None):
     """调用 LLM 并解析 JSON 返回 dict。失败返回 None。"""
-    r = call(prompt, max_tokens=max_tokens, timeout=timeout, model=model)
+    r = call(prompt, max_tokens=max_tokens, timeout=timeout, model=model, total_timeout=total_timeout)
     if not r:
         return None
     m = re.search(r'\{.*\}', r, re.DOTALL)

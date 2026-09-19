@@ -20,9 +20,11 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[4H_SiC_SubstrateProcessing]]
+[[CLINKAsCarrierPrimitive]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
+[[chiplet interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Topology]]
 [[Chiplet_Topology_Interconnect]]
@@ -39,13 +41,14 @@ Auto-extracted concept from raw material compilation.
 [[Software_Defined_Wafer_System]]
 [[TCC]]
 [[ThreeLayerArchitecture]]
-[[TopologyCentricComputing]]
+[[Topology_Centric_Computing]]
 [[Topology_Centric_Computing]]
 [[Topology_Interconnect]]
 [[WaferScaleCoDesign]]
 [[WaferScaleTopologyCentricComputing]]
 [[Wafer_Chiplet_Topology_Interconnect]]
 [[Wafer_Scale_Integration]]
+[[Wafer_Scale_Topology]]
 [[Wafer_Scale_Topology_Control]]
 [[chiplet interconnect]]
 [[iNEST]]

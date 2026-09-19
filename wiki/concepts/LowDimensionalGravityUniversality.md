@@ -40,12 +40,14 @@ Auto-extracted concept from raw material compilation.
 [[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
+[[Complexity_Coordination_Layer]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Intelligence_Emergence]]
 [[Interconnect_Scaling]]
 [[Memristive_STDP]]
 [[NCL神经计算定律详解]]
 [[Network_Topology_Design]]
+[[Neuromorphic_Computing]]
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[TCC]]
@@ -55,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

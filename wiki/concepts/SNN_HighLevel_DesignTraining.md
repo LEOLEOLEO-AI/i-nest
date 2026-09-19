@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Autonomous_Spiking_Dynamics]]
 [[BigBrainCellularAxis]]
+[[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Complex_System_Theory]]
 [[Event_Driven_Architecture]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
@@ -29,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Network_Neuromorphic]]
 [[NeuromorphicStatusAwareness]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Hardware_Paradigm]]
 [[Neuromorphic_Integration]]
 [[Neuromorphic_Planning_Architecture]]
 [[SDI_Bond]]

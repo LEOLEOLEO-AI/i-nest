@@ -34,6 +34,8 @@ Auto-extracted concept from raw material compilation.
 [[ConfigurableSNNInference]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
+[[CoreComputationSubspace]]
+[[CulturalDisseminationDynamics]]
 [[DeeplySupervisedSpiking]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence]]

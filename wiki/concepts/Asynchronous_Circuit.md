@@ -21,9 +21,11 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AllParallel_SpikeBased_Computing]]
+[[Asynchronous_Handshake_Protocol]]
 [[BurstGatedRouting]]
 [[Continuous_Discrete_Compute_Gap]]
 [[Continuous_Spatiotemporal_State_Propagation]]
+[[EventDrivenInference]]
 [[EventDrivenRiskAssessment]]
 [[Event_Driven_Architecture]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
@@ -35,6 +37,8 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[SDI_Bond]]
 [[SDI_Sparse_Dataflow_Interconnect]]
+[[SpikeEventDrivenInference]]
+[[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]
 

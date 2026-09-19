@@ -48,6 +48,8 @@ Auto-extracted concept from raw material compilation.
 [[Cauchy_Aczel_Uniqueness]]
 [[CerebellarLikeCircuit]]
 [[Channel_Decoding_Energy_Landscape]]
+[[CoexistenceRegime]]
+[[CommunicationTopologyMismatch]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

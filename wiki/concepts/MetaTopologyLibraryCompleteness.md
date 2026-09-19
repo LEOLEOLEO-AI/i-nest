@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[12_三原理协同_FEP_最小作用量_STDP]]
 [[156QubitScale]]
 [[AI-ML — 全景导航 (Map of Content)]]
+[[AI4PDE｜综述·论文推荐 08｜物理信息神经网络在偏微分方程问题中的应用：全面综述]]
 [[Analog_InMemory_Processing]]
 [[CST计量仪]]
 [[Cauchy_Aczel_Uniqueness]]
@@ -46,7 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[InferencePipelineTopologyAwareScheduling]]
 [[Intelligence_Emergence]]
 [[MeasurementEfficientDisorderAware]]
-[[MetaTopology]]
+[[Meta_Topology]]
 [[Meta_Topology]]
 [[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]
 [[NetworkDiameterMetric]]
@@ -67,8 +68,10 @@ Auto-extracted concept from raw material compilation.
 [[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[TopologyAwareScheduling]]
 [[complex system]]
+[[iNEST]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

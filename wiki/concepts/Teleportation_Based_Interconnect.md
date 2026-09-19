@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
 [[11_SDI节点接口规范与化合键定义_dup]]
 [[AI-ML — 全景导航 (Map of Content)]]
 [[AIRA_NeuralArchSearch]]
@@ -46,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Synapse]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[MobilityEdge]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[PolymerComposite_Substrate]]
@@ -70,6 +72,7 @@ Auto-extracted concept from raw material compilation.
 [[Yann LeCun：发现智能原理是AI的终极问题]]
 [[chiplet interconnect]]
 [[iNEST]]
+[[iNEST_Interconnect_Topology]]
 [[iNEST_Neuromorphic_Integration]]
 [[夏强飞一天2篇Nature大子刊：感存算一体，忆阻器阵列模拟计算]]
 [[存算一体]]

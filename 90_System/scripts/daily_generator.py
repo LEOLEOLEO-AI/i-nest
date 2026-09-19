@@ -17,7 +17,7 @@ def _call_jojo_fallback(prompt, system="", max_tokens=3000):  # deprecated, use 
     import urllib.request, json
     url = "http://127.0.0.1:57321/v1/chat/completions"
     payload = {
-        "model": "deepseek-v4-pro",
+        "model": "deepseek-v4-flash",
         "messages": [
             {"role": "system", "content": system},
             {"role": "user", "content": prompt}

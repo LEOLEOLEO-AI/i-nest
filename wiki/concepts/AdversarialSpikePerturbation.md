@@ -37,6 +37,8 @@ Auto-extracted concept from raw material compilation.
 [[CoDesigned_SNN]]
 [[CoDesigned_SNN_Online_Learning]]
 [[Continuous_Control_Spiking_Stability]]
+[[CriticalExponentGamma]]
+[[CriticalityBasedNeuromorphicDesign]]
 [[CriticalityInducedComputationalCapacity]]
 [[Criticality]]
 [[CrossEntityPreemptiveWarning]]

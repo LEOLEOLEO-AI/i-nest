@@ -50,14 +50,16 @@ Auto-extracted concept from raw material compilation.
 [[ManufacturingCloudOrchestration]]
 [[MeasurementEfficientDisorderAware]]
 [[MetaTopologyLibraryCompleteness]]
-[[MetaTopology]]
 [[Meta_Topology]]
+[[Meta_Topology]]
+[[MicroLED_Array_Programmer]]
 [[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]
 [[NetworkDiameterMetric]]
 [[Network_Topology_Design]]
 [[NeuronalCultureConnectivityGraph]]
 [[Nonlinear_Gain]]
 [[OneDimensionalTopologicalPhase]]
+[[QuantumCircuitSimulation]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
 [[STDP_Plasticity]]
@@ -68,6 +70,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

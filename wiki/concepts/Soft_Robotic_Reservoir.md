@@ -38,6 +38,8 @@ Auto-extracted concept from raw material compilation.
 [[Coupling_Topology]]
 [[CriticalStateReservoir]]
 [[Crystallized_Neural_Manifolds]]
+[[DiscreteScaleInvariance]]
+[[DynamicFieldEffect]]
 [[Free_Energy_Topology_Mapping]]
 [[MagneticMetamaterialReservoir]]
 [[Network_Topology_Design]]

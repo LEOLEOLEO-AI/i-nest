@@ -29,12 +29,18 @@ Auto-extracted concept from raw material compilation.
 [[CrossbarArrayPrecision]]
 [[Ferroelectric_ComputeInMemory]]
 [[Ferroelectric_Devices]]
+[[Heterogeneous_Integration]]
 [[HybridResistiveMemoryCIM]]
 [[In_Memory_Computing]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC]]
+[[NoC_SDI]]
+[[NoC_SDI_Topology]]
 [[P_Paradigm]]
+[[SDI_Bond]]
+[[SDI_NoC_Integration]]
+[[SDI_Topology]]
 [[TCC]]
 
 ## Sources

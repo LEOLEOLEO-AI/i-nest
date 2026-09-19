@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
+[[OpenBenchmarkingFramework]]
 [[ProjectiveMeasurementRouting]]
 [[PropertyPredictionModeling]]
 [[ReconfigurableSpikingRouting]]
@@ -56,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[专家观点_余山：从脑网络到类脑计算]]
 [[神经形态计算]]
 [[神经网络]]
 

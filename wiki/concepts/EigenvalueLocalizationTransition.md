@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Biomanufacturing_Control_Loop]]
 [[BrownianCastleInterface]]
 [[Categorical_Reservoir_Model]]
+[[CollectiveSpikingDynamics]]
 [[CombinedImportanceScoring]]
 [[Core_Spacetime_Tensor]]
 [[CouplingTopologyMemoryLink]]
@@ -54,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[Synaptic_Plasticity]]
 [[ThermallyDrivenSuperparamagnetReservoir]]
+[[iNEST 论文矩阵计划]]
 [[iNEST]]
 
 ## Sources

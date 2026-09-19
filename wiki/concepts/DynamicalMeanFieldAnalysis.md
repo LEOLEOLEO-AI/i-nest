@@ -43,6 +43,8 @@ Auto-extracted concept from raw material compilation.
 [[Biological_Neural_Circuit_Formalization]]
 [[Biomimetic_Ion_Dynamics]]
 [[BoseCondensateNeuralAnalogy]]
+[[BosonicFieldTopology]]
+[[CatalyticReactionNetwork]]
 [[Complex_System_Theory]]
 [[EmergentBeatPatternResolution]]
 [[Intelligence_Emergence]]

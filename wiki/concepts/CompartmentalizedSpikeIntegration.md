@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[1M1T1R_SynapticNeuron]]
+[[20W_Brain_Inspired_Planning]]
 [[ActiveDendriteSNN]]
 [[AnisotropicGaussianPrimitives]]
 [[AnomalousSpinTransport]]
@@ -31,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[BrainBodyResonance]]
 [[BrownianCastleInterface]]
 [[BrownianCastleInterfaces]]
+[[BurstTemporalPlasticity]]
 [[Chiplet]]
 [[Chiplet_Based_Neuromorphic_Integration]]
 [[Chiplet_Heterogeneous_Integration]]

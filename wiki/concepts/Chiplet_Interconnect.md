@@ -21,10 +21,12 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Faculty_Forum_2026]]
-[[Advanced_Packaging]]
+[[advanced packaging]]
 [[Advanced_Packaging_for_Space]]
+[[Attention_Residuals]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_NoC_Interconnect]]
 [[Collective_Offloading]]
 [[EulaminateOverrepresentation]]

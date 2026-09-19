@@ -29,7 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CST计量仪]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
+[[chiplet interconnect]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
+[[L2_L3_Reconfigurability]]
 [[Memory_Wall]]
 [[Memristive_STDP]]
 [[Memristor]]
@@ -74,6 +75,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Architecture]]
 [[SDSoW_Industry_Alliance]]
 [[STDP_Plasticity]]
+[[ScaleFreeNetwork]]
 [[ScaleFreeNetworks]]
 [[Second_Curve_Industry_Platform]]
 [[Spacetime_Coupling_Coefficient]]
@@ -93,6 +95,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[iNEST_Wafer]]
 [[residual connection]]
+[[Γst_Revision]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

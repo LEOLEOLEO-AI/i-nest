@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[ComputationEfficientDeepLearning]]
 [[CrossSubstrateHomology]]
+[[DecliningModularity]]
 [[Deep_Network_Architecture_Invariant]]
 [[EfficientDeepLearning]]
 [[HierarchicalSpatiotemporalProcessing]]
@@ -52,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[StochasticVehicleRouting]]
 [[TCC]]
 [[TCC_Neuromorphic_Integration]]
+[[Trustworthiness_Aware_Training]]
 [[WaveBasedComputation]]
 [[iNEST]]
 

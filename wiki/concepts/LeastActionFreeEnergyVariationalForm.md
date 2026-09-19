@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[1M1T1R_SynapticNeuron]]
+[[20W_Brain_Inspired_Planning]]
 [[6万+辛顿2025年度全景实录深读｜真正的智能与硅基智能的非对称演进]]
 [[AINext_Initiative]]
 [[ActiveDendriteSNN]]
@@ -30,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AnisotropicGaussianPrimitives]]
 [[AnomalousSpinTransport]]
 [[BioInspiredLearningRule]]
+[[BurstTemporalPlasticity]]
 [[FlexibilityThreshold]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

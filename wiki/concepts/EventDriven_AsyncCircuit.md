@@ -39,6 +39,8 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Based_Processing]]
 [[Spike_Driven_Intelligence]]
 [[Spiking_Neural_Network]]
+[[SyntheticInertiaProvision]]
+[[Technology_Disparity_Offset]]
 [[iNEST]]
 
 ## Sources

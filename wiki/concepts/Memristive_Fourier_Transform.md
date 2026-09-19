@@ -29,6 +29,8 @@ Auto-extracted concept from raw material compilation.
 [[CMOS_Compatible_TaOx_Memristor]]
 [[Complex_System_Theory]]
 [[Conductive_Filament_Switching]]
+[[DistributedInference]]
+[[HierarchicalReservoirDynamics]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]

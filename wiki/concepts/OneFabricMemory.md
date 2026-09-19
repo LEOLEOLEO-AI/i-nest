@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[BackpropagationFreeLearning]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[chiplet interconnect]]
 [[CompactFieldVariable]]
 [[DARPA_ProjectManager_Model]]
 [[Decoupled_Priors]]
@@ -40,7 +41,10 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Chip_Indicator_Change]]
 [[SDI_TCC_Chiplet]]
 [[SDI_TCC_Chiplet_Interconnect]]
+[[Second_Curve_Wafer_Industry_Platform]]
+[[Software_Defined_Interconnect]]
 [[TCC]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

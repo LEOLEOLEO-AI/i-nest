@@ -20,9 +20,12 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Complexity_Emergence]]
+[[Emergent_Intelligence_Threshold]]
 [[InNetworkNeuromorphicSimulation]]
-[[InNetworkNeuromorphic]]
 [[In_Network_Neuromorphic]]
+[[In_Network_Neuromorphic]]
+[[Intelligence_Emergence]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]

@@ -39,11 +39,13 @@ Auto-extracted concept from raw material compilation.
 [[Inference_Workload_Profiling]]
 [[Interconnect_Routing]]
 [[Liquid_Topological_Generative_Computing]]
+[[Logic_Folding]]
 [[Multi_Function_Spaceborne_Processor]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC]]
 [[NoC_EventRouting]]
+[[One_Chip_Multi_Function]]
 [[TCC]]
 
 ## Sources

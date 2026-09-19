@@ -50,6 +50,8 @@ Auto-extracted concept from raw material compilation.
 [[CorticalEfficiencyReliabilityExchange]]
 [[DAGGER_Algorithm]]
 [[DisorderInducedLocalization]]
+[[DopamineWakeSignal]]
+[[Dynamic_Neuron_Activation_Prediction]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]

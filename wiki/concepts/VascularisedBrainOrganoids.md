@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[BehavioralFeedbackLoop]]
 [[BigBrainCellularAxis]]
 [[Biologically_Plausible_Learning_Rules]]
+[[BoseCondensateAnalogy]]
 [[Complex_System_Theory]]
 [[Complexity_Emergence]]
 [[Course_Based_FPGA_Projects]]
@@ -54,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[SpectralTransition]]
 [[Synaptic_Plasticity]]
+[[VisualSemanticDecoding]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

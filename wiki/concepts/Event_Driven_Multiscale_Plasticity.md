@@ -31,6 +31,8 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenAutoregression]]
 [[EventDrivenMotionDeblurring]]
 [[Event_Driven_Architecture]]
+[[FPGA_EventDriven_Verification]]
+[[GradientBasedLearningLocalization]]
 [[In_Network_Neuromorphic]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]

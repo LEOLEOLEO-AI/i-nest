@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[20W_Brain_Inspired_Planning]]
 [[3DHI_Interconnect]]
 [[3d]]
 [[AI_Faculty_Forum_2026]]
@@ -35,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration]]
 [[Chiplet_Integration_Route]]
 [[CongestionAwareNoCPlacement]]
+[[Disordered_Frustrated_Dimer_Magnets]]
 [[Environmental_Capability_Context]]
 [[EventCameraActionRecognition]]
 [[FullDimensionalDefinableInterconnect]]
@@ -53,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_EventRouting]]
 [[PacketRoutingOptimization]]
 [[Radiation_Hardened_Compute]]
+[[SDI_Bond]]
 [[SDI_Stream_Aware_NoC_Routing]]
 [[SparseTemporalEncoding]]
 [[SpikeCommunicationCost]]

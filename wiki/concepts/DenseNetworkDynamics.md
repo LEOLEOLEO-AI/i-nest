@@ -47,6 +47,8 @@ Auto-extracted concept from raw material compilation.
 [[EmergentReplicaClock]]
 [[EntanglementStructure]]
 [[EvanescentFieldTrapping]]
+[[Functional_Food_Complexity]]
+[[Generalization_Bound_Spectra]]
 [[Intelligence_Emergence]]
 [[MachineLearningPotential]]
 [[Network_Topology_Design]]

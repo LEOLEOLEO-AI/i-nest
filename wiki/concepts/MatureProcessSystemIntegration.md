@@ -32,6 +32,8 @@ Auto-extracted concept from raw material compilation.
 [[EnergyOptimizedManycoreArchitecture]]
 [[Heterogeneous_Integration]]
 [[HigherOrderTopology]]
+[[Independent_AI_Player_Endgame]]
+[[Independent_EdgeAI_Player_Endgame]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[TCC]]

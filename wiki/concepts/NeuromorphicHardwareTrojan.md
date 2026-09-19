@@ -45,6 +45,8 @@ Auto-extracted concept from raw material compilation.
 [[ScalableNeuromorphicTopology]]
 [[SpikingMoE_SDPrompt]]
 [[Spiking_Neural_Network]]
+[[Swarm_Adaptive_Topology]]
+[[SynchronizationAttractorBasin]]
 [[TCC]]
 [[TCC_Neuromorphic_Integration]]
 [[Wafer_Scale_Integration]]

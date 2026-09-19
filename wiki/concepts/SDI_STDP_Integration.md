@@ -39,12 +39,15 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Integration]]
 [[STDP_MemristiveLearning]]
 [[STDP_Plasticity]]
+[[STDP_Topology]]
+[[STDP_Topology_Integration]]
 [[STDP_iNEST]]
 [[Spike_Timing_Dependent_Plasticity]]
 [[Spike_timing_dependent_plasticity_learning_rule]]
 [[SpikingCorrespondenceMatching]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
+[[Triadic_Percolation_STDP]]
 [[iNEST]]
 
 ## Sources

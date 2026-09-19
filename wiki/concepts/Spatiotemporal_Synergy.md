@@ -30,8 +30,11 @@ Auto-extracted concept from raw material compilation.
 [[Collective_State_Convergence]]
 [[Data_Debiasing_Techniques]]
 [[Emergent_Intelligence]]
+[[FunctionalRelevanceSelfOrganization]]
+[[InNetworkGradientPropagation]]
 [[Intelligence_Emergence]]
 [[Neuromorphic_Computing]]
+[[SelfOrganization]]
 [[iNEST]]
 
 ## Sources

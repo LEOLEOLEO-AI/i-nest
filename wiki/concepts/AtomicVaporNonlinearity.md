@@ -23,6 +23,8 @@ Auto-extracted concept from raw material compilation.
 [[AI_Application_Scenario_Reconstruction]]
 [[AnomalousSpinTransport]]
 [[CST_CoordinationMechanism]]
+[[CST_Intelligence_Emergence]]
+[[CST_Metric]]
 [[Complex_System_Theory]]
 [[Complexity_Emergence]]
 [[Contested_Prior_Resolution]]

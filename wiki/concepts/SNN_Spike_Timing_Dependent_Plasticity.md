@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AINext_Initiative]]
+[[ANN_SNN_ConversionError]]
 [[ActiveDendriteSNN]]
 [[AdaptiveAsymmetricSurrogateGradient]]
 [[AdaptiveFrequencyResonateFire]]
@@ -41,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[NonHermitianSpectralCorrelations]]
+[[RecurrentSpikingSocialNetwork]]
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SDI_STDP_Fusion]]

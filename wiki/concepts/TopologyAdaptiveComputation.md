@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Ant_Swarm_Functional_Control]]
 [[BurstGatedRouting]]
 [[CommunicationAwareComputeRelocation]]
+[[ControlDrivenCriticalFluctuations]]
 [[Critical_Region_Extension]]
 [[DelayTolerantNetworkUAV]]
 [[Distributed_Intelligent_Manufacturing]]
@@ -51,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[StochasticVehicleRouting]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[TopologyGradientSignal]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

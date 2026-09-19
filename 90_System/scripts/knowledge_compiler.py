@@ -64,7 +64,7 @@ evidence_status: 只能是 [引用] 待人工核验
     try:
         client = OpenAI(api_key=key, base_url=os.environ.get("DEEPSEEK_BASE_URL", "https://api.deepseek.com/v1"))
         response = client.chat.completions.create(
-            model=os.environ.get("DEEPSEEK_MODEL", "deepseek-v4-pro"),
+            model=os.environ.get("DEEPSEEK_MODEL", "deepseek-v4-flash"),
             messages=[{"role": "user", "content": prompt}], temperature=0.1, max_tokens=700, timeout=90,
         )
         match = re.search(r"\{[\s\S]*\}", response.choices[0].message.content)
@@ -103,7 +103,7 @@ def compile_notes(use_llm=False):
         if action and action != "无":
             actions = [action, *actions]
         file_key = str(path.relative_to(VAULT)).replace("\\", "/")
-        item = {"title": fm.get("title", path.stem), "source": fm.get("source", "unknown"), "url": fm.get("url", ""), "track": analysis.get("direction", fm.get("track", "unclassified")), "relevance": relevance, "file": file_key, "tcc_insight": analysis.get("tcc_insight", tcc) or "无直接关联或待确认。", "inest_insight": analysis.get("inest_insight", inest) or "无直接关联或待确认。", "candidate_actions": actions[:5], "knowledge_state": "processed", "evidence_status": analysis.get("evidence_status", "[引用] 待人工核验"), "provenance": "external", "user_decision": "pending", "analysis_mode": "deepseek-v4-pro" if analysis else "metadata-only"}
+        item = {"title": fm.get("title", path.stem), "source": fm.get("source", "unknown"), "url": fm.get("url", ""), "track": analysis.get("direction", fm.get("track", "unclassified")), "relevance": relevance, "file": file_key, "tcc_insight": analysis.get("tcc_insight", tcc) or "无直接关联或待确认。", "inest_insight": analysis.get("inest_insight", inest) or "无直接关联或待确认。", "candidate_actions": actions[:5], "knowledge_state": "processed", "evidence_status": analysis.get("evidence_status", "[引用] 待人工核验"), "provenance": "external", "user_decision": "pending", "analysis_mode": "deepseek-v4-flash" if analysis else "metadata-only"}
         prior = previous.get(file_key, {})
         if prior.get("user_decision") not in (None, "", "pending"):
             for key in ("knowledge_state", "evidence_status", "user_decision", "tcc_insight", "inest_insight", "candidate_actions"):

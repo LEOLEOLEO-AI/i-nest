@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Connectome_Inspired_Architecture]]
 [[CriticalPhaseTransitionStatisticalTest]]
 [[DistinctReentrantPhases]]
+[[Distributed_Spike_Communication]]
 [[Ferroelectric_Devices]]
 [[Intelligence_Emergence]]
 [[Krakencoder_Embedding]]
@@ -67,6 +68,7 @@ Auto-extracted concept from raw material compilation.
 [[涌现]]
 [[神经网络]]
 [[科技丨据说互联网过时了！他的发明人准备造个新网络！ (1)]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

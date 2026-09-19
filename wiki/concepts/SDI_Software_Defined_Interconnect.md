@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[BackpropagationFreeLearning]]
 [[Interconnect_Routing]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
@@ -27,9 +28,13 @@ Auto-extracted concept from raw material compilation.
 [[OnChipOpticalTweezers]]
 [[Packaging_CoDesign]]
 [[SDI_Bond]]
+[[SDI_iNEST]]
 [[SDI_iNEST_Interconnect]]
+[[SDSoW]]
+[[SDSoW_Architecture]]
 [[Software_Defined_Interconnect]]
 [[iNEST]]
+[[iNEST_Interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

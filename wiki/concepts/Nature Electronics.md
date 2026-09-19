@@ -52,6 +52,8 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[NearSensorComputing]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[RG_Flow_Transformer]]
+[[Renormalization_Group_Flow]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[Topology_Interconnect]]

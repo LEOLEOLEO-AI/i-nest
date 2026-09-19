@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[11_SDI节点接口规范与化合键定义_dup]]
 [[20W_Brain_Inspired_Planning]]
 [[AI-ML — 全景导航 (Map of Content)]]
+[[AI_Application_Scenario_Reconstruction]]
 [[Complex_System_Theory]]
 [[DistributedInference]]
 [[Memristor]]
@@ -37,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
 [[TCC]]
+[[fMRIToElectrophysiologyMapping]]
 [[iNEST]]
 
 ## Sources

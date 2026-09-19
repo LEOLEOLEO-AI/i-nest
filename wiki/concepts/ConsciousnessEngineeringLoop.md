@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[20W_Brain_Inspired_Planning]]
 [[3D_IC_Stacking]]
 [[3d]]
 [[AI_Faculty_Forum_2026]]
@@ -43,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor]]
 [[Memristor_Network]]
 [[Memristor_Synapse]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Specific_Embedding_Separation]]
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]

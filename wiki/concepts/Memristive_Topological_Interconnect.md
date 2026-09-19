@@ -30,14 +30,17 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Service_Orchestration]]
 [[AdiabaticMultimodeBend]]
 [[AdvancedPackagingInterconnect]]
-[[AdvancedPackaging]]
+[[advanced packaging]]
 [[AgentReputationLedger]]
 [[AndersonTransition]]
 [[Chat_to_Agent_Paradigm]]
 [[ChiralSymmetryClasses]]
+[[Compact_Boson_Dynamics]]
+[[Compute_In_Memory_Neuromorphic]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
+[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

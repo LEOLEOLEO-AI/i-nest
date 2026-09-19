@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Decoupling]]
 [[CollectiveStateTopology]]
 [[CommunicationAwareComputeRelocation]]
+[[ControlDrivenCriticalFluctuations]]
 [[FPGA_Reconfigurability]]
 [[FatalityDrivenPruning]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
@@ -50,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[TopologyAdaptiveComputation]]
+[[TopologyGradientSignal]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -28,6 +28,8 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityIndex]]
 [[Criticality]]
 [[Discrete_Event_Spike_Simulation]]
+[[EmulationTheoryDisturbanceObserver]]
+[[Energy_Proportional_Neuromorphic_System]]
 [[EventBasedMotionDeblurring]]
 [[EventDrivenMatrixUpdate]]
 [[EventDrivenMotionDeblurring]]

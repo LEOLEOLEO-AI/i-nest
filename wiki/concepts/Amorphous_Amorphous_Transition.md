@@ -23,6 +23,8 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveTimeStepTraining]]
 [[AnisotropicGaussianPrimitives]]
 [[AnomalousSpinTransport]]
+[[AstrocyteInspiredRepair]]
+[[Avoided_Criticality]]
 [[BigBrainCellularAxis]]
 [[BrainBodyResonance]]
 [[BrownianCastleInterface]]

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[3D_Vertical_Interconnect]]
 [[3d]]
 [[4H_SiC_SubstrateProcessing]]
+[[AI_Faculty_Forum_2026]]
 [[AllParallel_SpikeBased_Computing]]
 [[AnalogInMemoryComputing]]
 [[DARPA_ProjectManager_Model]]
@@ -33,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[Spiking_Neural_Network]]
 [[TCC]]
+[[Tilt_Constrained_Information_Spreading]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

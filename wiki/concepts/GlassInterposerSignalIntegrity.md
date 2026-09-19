@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3D_Torus_6_Degree]]
 [[6万+辛顿2025年度全景实录深读｜真正的智能与硅基智能的非对称演进]]
 [[Algorithm_Hardware_CoDesign]]
 [[Allreduce_Latency_Probe]]
@@ -38,7 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Nature Communications_生物神经网络中突触多样性如何让人工神经网络更强大？]]
 [[Network_Topology_Design]]
 [[NeuroRing_Topology]]
-[[NeuromorphicInterconnectTopology]]
+[[Neuromorphic_Interconnect_Topology]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Packaging]]
 [[NonEquilibriumComputing]]
@@ -51,8 +52,10 @@ Auto-extracted concept from raw material compilation.
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[TCC与INEST：2026全局论文与专利战略规划清单]]
 [[TwoTimescaleNeuroEvolution]]
 [[Yann LeCun：发现智能原理是AI的终极问题]]
+[[iNEST]]
 [[互连感知算力]]
 [[五层性能评估框架]]
 [[向大脑学习智能本质，探索通用 AI 的另一条可行路径]]

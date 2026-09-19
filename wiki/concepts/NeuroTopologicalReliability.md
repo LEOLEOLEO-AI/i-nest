@@ -31,15 +31,19 @@ Auto-extracted concept from raw material compilation.
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_Assisted_Energy_Optimization]]
 [[AdvancedPackagingInterconnect]]
-[[AdvancedPackaging]]
+[[advanced packaging]]
+[[advanced packaging]]
 [[Advanced_Packaging_Based_Integration]]
 [[AdversarialMedicalRobustness]]
+[[AnalogInMemoryComputing]]
+[[Butterfly_Network]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[TCC]]
+[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

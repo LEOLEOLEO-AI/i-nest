@@ -20,11 +20,13 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[CLINKAsCarrierPrimitive]]
 [[ChipletOnWafer]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Topology]]
 [[Chiplet_Topology_Interconnect]]
+[[CommunicationAsComputation]]
 [[CongestionAwareNoCPlacement]]
 [[GlobalDecision_LocalExecution_ControlPlane]]
 [[Heterogeneous_Integration]]
@@ -38,7 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Packaging_CoDesign]]
 [[SoftwareDefined_NoC_Routing]]
 [[TCC]]
-[[TopologyCentricComputing]]
+[[Topology_Centric_Computing]]
 [[Topology_Centric_Computing]]
 [[Topology_Interconnect]]
 [[WSE_OnWafer_Fabric]]

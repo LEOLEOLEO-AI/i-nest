@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AcceleratorReconfigurationOverhead]]
 [[AutonomousAdaptation]]
+[[AutonomousServiceNegotiation]]
 [[BifurcationCandidate]]
 [[CirculateFiringNeuron]]
 [[DevelopmentalNeuromorphicAdaptation]]
@@ -37,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[ScalableNeuromorphicTopology]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 
 ## Sources

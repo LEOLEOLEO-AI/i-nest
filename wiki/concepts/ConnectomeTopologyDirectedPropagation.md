@@ -27,7 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Brain_Verified_Scaling_Target]]
 [[CST_MasterEquation]]
 [[C_elegansConnectomeAnalogy]]
-[[Causal_Emergence]]
+[[causal emergence]]
 [[Causal_Emergence_Architecture]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -36,6 +36,8 @@ Auto-extracted concept from raw material compilation.
 [[ComputationEfficientDeepLearning]]
 [[Connectome]]
 [[Deep_Network_Architecture_Invariant]]
+[[Defense_Industrial_Base_Reshaping]]
+[[Dragonfly_Hierarchical_Scaling]]
 [[EfficientDeepLearning]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
@@ -43,7 +45,6 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[TCC]]
-[[causal emergence]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

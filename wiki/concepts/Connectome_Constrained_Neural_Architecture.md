@@ -21,10 +21,12 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Active_Inference_Agent]]
+[[Automated_Assessment_Framework]]
 [[Autonomous_Physical_Computation]]
 [[BackflowTransformation]]
 [[BayesianDomainEvolution]]
 [[BehavioralFeedbackLoop]]
+[[BoseCondensateAnalogy]]
 [[Brain_Connectome]]
 [[C__elegans_Connectome]]
 [[C_elegansConnectomeAnalogy]]

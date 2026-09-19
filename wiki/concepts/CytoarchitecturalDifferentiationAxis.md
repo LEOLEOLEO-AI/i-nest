@@ -35,6 +35,8 @@ Auto-extracted concept from raw material compilation.
 [[EEGSpikeEncoding]]
 [[ErrorAmplificationLimits]]
 [[EventDrivenSynchronization]]
+[[GraphAnomalySpikeEncoding]]
+[[LatencyGradientDescent]]
 [[Network_Topology_Design]]
 [[SNN]]
 [[SpikeEncoding]]

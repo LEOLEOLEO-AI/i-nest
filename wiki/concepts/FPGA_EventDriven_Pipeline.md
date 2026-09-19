@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[20W_Brain_Inspired_Planning]]
 [[Activity_Energy_Tradeoff]]
 [[Avoided_Criticality]]
 [[BandedConnectivityModel]]
@@ -34,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[DevelopmentalNeuromorphicAdaptation]]
 [[Discrete_Event_Spike_Simulation]]
 [[EarlyVisualCortexAliasing]]
+[[EmulationTheoryDisturbanceObserver]]
 [[Endocrine_Modulated_Network_State]]
 [[EnergyProportionalityCeiling]]
 [[EventDrivenAsync]]

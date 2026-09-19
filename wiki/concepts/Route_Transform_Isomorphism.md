@@ -20,14 +20,18 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3D_Integrated_Chiplet_Stacking]]
 [[3D_Integration]]
 [[3d]]
 [[AddressRedundancyElimination]]
 [[Adjoint_Gradient_Propagation]]
 [[AdvancedPackagingInterconnect]]
-[[AdvancedPackaging]]
+[[advanced packaging]]
 [[AllOpticalHebbianLearning]]
 [[BurstInterleaving]]
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Stacking]]
 [[Collective_State_Convergence]]
 [[ConsciousnessEngineeringLoop]]
 [[Critical_Region_Extension]]
@@ -35,9 +39,11 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Thermalisation]]
 [[DirectConnect_Topology]]
 [[EndToEndLinkSimulation]]
+[[Free_Energy_Principle_Network]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[TCC]]
+[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

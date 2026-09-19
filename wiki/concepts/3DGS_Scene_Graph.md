@@ -49,6 +49,8 @@ Auto-extracted concept from raw material compilation.
 [[CoexistenceRegime]]
 [[CommunicationTopologyMismatch]]
 [[Complex_System_Theory]]
+[[ConformalFieldTheoryScaling]]
+[[CorticalEfficiencyReliabilityExchange]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[1M1T1R_SynapticNeuron]]
+[[20W_Brain_Inspired_Planning]]
 [[ActiveDendriteSNN]]
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[AdaptiveFlexibilityThreshold]]
@@ -28,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[BioInspiredLearningRule]]
 [[BurstTemporalPlasticity]]
+[[ChannelEventSparsity]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
@@ -61,7 +63,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikingMOT]]
 [[SpikingMuscleActivation]]
 [[SpikingNeuralNetworkInference]]
-[[SpikingNeuralNetwork]]
+[[Spiking_Neural_Network]]
 [[SpikingTopologyEvolution]]
 [[Spiking_Neural_Network]]
 [[StochasticBinaryDynamics]]

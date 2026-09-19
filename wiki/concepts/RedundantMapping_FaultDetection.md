@@ -20,12 +20,15 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AdiabaticModeEvolutionCoupler]]
+[[AdiabaticModeEvolution]]
+[[Chemical_Bond_Effect]]
 [[ChipletWaferInterconnectCoDesign]]
 [[ChipletWaferInterconnectScaling]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]
-[[Chiplet_Interconnect]]
+[[chiplet interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[CommunicationAsComputation]]

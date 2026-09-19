@@ -32,11 +32,13 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenSensoryEncoding]]
 [[EventDrivenTracking]]
 [[EventDrivenTrajectoryEncoding]]
+[[EventDrivenWirelessTransmission]]
 [[Event_Driven_Architecture]]
 [[InputAdaptiveComputation]]
 [[Memory_Wall]]
 [[NeuromorphicStatusAwareness]]
 [[Neuromorphic_Computing]]
+[[OptimalGeneralisationNearInterpolation]]
 [[ResonateAndFireEncoding]]
 [[iNEST]]
 

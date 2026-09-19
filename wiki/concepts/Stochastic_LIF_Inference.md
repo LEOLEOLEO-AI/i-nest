@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
 [[AI_Faculty_Forum_2026]]
 [[AnomalousSpinTransport]]
 [[BackpropagationFreeLearning]]
@@ -31,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Course_Based_FPGA_Projects]]
 [[DARPA_Manufacturing_Strategy]]
 [[DARPA_ProjectManager_Model]]
+[[Distributed_Spike_Communication]]
 [[Gate_Synthesis_Readout]]
 [[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]

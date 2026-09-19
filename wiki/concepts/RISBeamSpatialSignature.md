@@ -56,6 +56,8 @@ Auto-extracted concept from raw material compilation.
 [[SDI_STDP]]
 [[SDI_TopologicalControl]]
 [[STDP_Plasticity]]
+[[Space_Compute_Architecture_Tradeoff]]
+[[Space_Radiation_Hardening]]
 [[SymmetricQuantumCircuit]]
 [[Synaptic_Plasticity]]
 [[TCC]]

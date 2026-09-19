@@ -42,7 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[HodgkinHuxleyDynamics]]
 [[InNetworkNeuromorphicEmergence]]
-[[InNetworkNeuromorphic]]
+[[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Processing]]
 [[Intelligence_Emergence]]
@@ -73,7 +73,9 @@ Auto-extracted concept from raw material compilation.
 [[chiplet interconnect]]
 [[iMESO_PhysicalCarrier]]
 [[iNEST]]
+[[iNEST_Neuromorphic_Integration]]
 [[神经形态脉冲大语言模型（NSLLM）]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

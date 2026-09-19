@@ -36,6 +36,8 @@ Auto-extracted concept from raw material compilation.
 [[CertifiedBifurcationDetection]]
 [[Complex_System_Theory]]
 [[DynamicInference]]
+[[EmergentDynamics]]
+[[Flexible_Neuromorphic_Substrate]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

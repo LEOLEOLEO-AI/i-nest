@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Driven_Architecture_Search]]
 [[AI_Forum_Demo_Narrative]]
 [[AddressRedundancyElimination]]
+[[AthermalDynamics]]
 [[BandedConnectivityModel]]
 [[Baseline_Draft_Status]]
 [[Bipartite_Interconnect]]
@@ -43,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[LossSpikeMechanism]]
 [[Military_AI_Revolution]]
 [[PacketRoutingOptimization]]
+[[QuarantineCostTradeoff]]
 [[RateEncodedVisualPlaceRecognition]]
 [[RecurrentOscillatoryComputation]]
 [[SOC]]
@@ -51,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[SurrogateGradientTracking]]
 [[SynapseLevelParallelism]]
 [[TCC]]
+[[VisualPlaceRecognition]]
 [[iNEST]]
 [[神经网络]]
 

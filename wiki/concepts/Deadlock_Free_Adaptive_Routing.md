@@ -22,12 +22,17 @@ Auto-extracted concept from raw material compilation.
 
 [[20W_Brain_Inspired_Planning]]
 [[3D_Heterogeneous_Integration]]
+[[3d]]
 [[AI_Driven_Power_Density_Scaling]]
 [[Accessibility_Plasticity]]
 [[AcousticAnomalyDetection]]
+[[CommunicationAwareComputeRelocation]]
+[[DecliningModularity]]
 [[Express_Links]]
+[[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
 

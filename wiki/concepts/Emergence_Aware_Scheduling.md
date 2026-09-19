@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[11_SDI节点接口规范与化合键定义_dup]]
 [[AI_Faculty_Forum_2026]]
+[[AdaptiveFrequencyResonateFire]]
 [[AdaptiveSTDP]]
 [[AdaptiveSpeechToSpikeEncoding]]
 [[Automated_Assessment_Framework]]
@@ -52,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[SelfMotivatedGrowth]]
 [[SelfOrganization]]
 [[SpikeEncoding]]
+[[Spike_Timing_Dependent_Plasticity]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]

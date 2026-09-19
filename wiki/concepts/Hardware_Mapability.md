@@ -30,7 +30,10 @@ Auto-extracted concept from raw material compilation.
 [[3d]]
 [[4H_SiC_SubstrateProcessing]]
 [[AdvancedPackagingInterconnect]]
+[[advanced packaging]]
 [[ByteDance_Ada_Chip]]
+[[ChipletSignalIntegrity]]
+[[ChipletTrafficAwareScheduling]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
@@ -44,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[ThroughSiliconVia_TSV_ThermalPath]]
 [[Topology_Induced_Robustness]]
+[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

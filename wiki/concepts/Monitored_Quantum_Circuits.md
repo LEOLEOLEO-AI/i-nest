@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Decoupling]]
 [[CollectiveStateResilience]]
 [[Continual_Learning_Modularity]]
+[[ContinuousTimeSNN]]
 [[CriticalBranching]]
 [[CriticalFixedPoint]]
 [[Critical_Exponent_Scaling]]
@@ -41,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[CytoarchitectonicAxis]]
 [[DataDrivenCytoarchitectonicAxis]]
+[[DelayAwareSpikeEventDelivery]]
 [[DynamicTokenSparsity]]
 [[Dynamical_State_Space]]
 [[DynamicsMatchedReservoir]]
@@ -48,7 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Reservoir_Topology]]
 [[Entanglement_Phase_Transition]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
-[[InNetworkComputing]]
+[[In_Network_Computing]]
 [[InputAdaptiveComputation]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
@@ -60,8 +62,10 @@ Auto-extracted concept from raw material compilation.
 [[NoiseRegimeTransition]]
 [[Quantum_Criticality]]
 [[Reservoir_Computing]]
+[[SNN]]
 [[SelfOrganization]]
 [[Self_Organized_Criticality]]
+[[Spiking_Neural_Network]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -34,7 +34,9 @@ Auto-extracted concept from raw material compilation.
 [[BurstSuppressionMechanism]]
 [[BurstSuppression]]
 [[Cognitive_Relapse_Decoupling]]
+[[ContinualLearningOnNeuromorphic]]
 [[Continual_Learning_Modularity]]
+[[ContinuousTimeSNN]]
 [[CriticalBranching]]
 [[CriticalityConstrainedPruning]]
 [[CriticalityDrivenStateTransition]]
@@ -46,7 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]
-[[InNetworkComputing]]
+[[In_Network_Computing]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[NeuralNetworkSpectralAnalysis]]
@@ -56,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Self_Organized_Criticality]]
 [[Sleep_EEG_Criticality]]
+[[Spiking_Neural_Network]]
 [[iNEST]]
 
 ## Sources

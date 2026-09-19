@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[20W_Brain_Inspired_Planning]]
 [[ActiveDendriteSNN]]
 [[Avoided_Criticality]]
 [[BulletTrainScheduling]]
@@ -66,6 +67,7 @@ Auto-extracted concept from raw material compilation.
 [[Syncytial_Mesh_Model]]
 [[TemporalCreditAssignment]]
 [[TemporalErrorFeedback]]
+[[Three_Dimensional_Analysis]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

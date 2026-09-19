@@ -33,12 +33,14 @@ Auto-extracted concept from raw material compilation.
 [[AdditiveTopology_Embedding]]
 [[BCM滑动阈值]]
 [[CST_Synergy_Coordination]]
+[[CST_Theory]]
 [[CST_Theory_V27_FINAL]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
 [[Criticality]]
 [[GNN图神经网络，非结构化数据分析利器！]]
 [[GroupWise_DragonflyPlus]]
+[[HighSpeedInference]]
 [[Intelligence_Emergence]]
 [[Milinkovic B (2024)：复杂神经系统涌现动力学结构]]
 [[Nature Communications：具有片上学习的神经形态处理器，用于超越CMOS设备的集成]]
@@ -68,6 +70,7 @@ Auto-extracted concept from raw material compilation.
 [[研究进展：AI+新材料，5篇类脑智能]]
 [[神经网络]]
 [[自动微分•自组织生长_ 打造新一代的自组织生长模型]]
+[[集合通信NaaS完整报告]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

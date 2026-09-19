@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[HybridResistiveMemoryCIM]]
 [[InNetworkSignalRecovery]]
 [[In_Package_Neuromorphic_Integration]]
+[[L2_L3_Reconfigurability]]
 [[Memristive_Interconnect]]
 [[Memristive_Wafer_Interconnect]]
 [[Memristor]]
@@ -59,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[Spatiotemporal_Synergy]]
 [[TCC]]
+[[TCC_Topology]]
 [[Wafer_Interconnect]]
 [[branch prediction]]
 

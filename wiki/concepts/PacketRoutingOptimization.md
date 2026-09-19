@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Faculty_Forum_2026]]
 [[BigBrainCellularAxis]]
+[[CST计量仪]]
 [[ChipletRoutingFabric]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -42,6 +43,8 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
 [[NoC]]
+[[NoC_SDI]]
+[[NoC_SDI_Integration]]
 [[QuarantineCostTradeoff]]
 [[RuntimeTopologyMapping]]
 [[SDI_Bond]]

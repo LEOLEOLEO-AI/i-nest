@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[20W_Brain_Inspired_Planning]]
 [[BackflowTransformation]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BigBrainCellularAxis]]
@@ -33,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[EventCameraTemporalEncoding]]
 [[Event_Driven_Architecture]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
+[[FixedOverheadCost]]
 [[GeometricNeuromorphicFusion]]
 [[HippocampalNeocorticalIntelligence]]
 [[InNetworkRadarProcessing]]

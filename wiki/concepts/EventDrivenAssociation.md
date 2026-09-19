@@ -45,6 +45,8 @@ Auto-extracted concept from raw material compilation.
 [[DelayAwareSpikeEventDelivery]]
 [[DiscreteContinuous_Unification]]
 [[EventBasedMotionDeblurring]]
+[[EventDrivenMotionDeblurring]]
+[[Event_Driven_Dataflow_Control]]
 [[SNN]]
 [[SOC]]
 [[Self_Organized_Criticality]]

@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI-ML — 全景导航 (Map of Content)]]
 [[ByteDance_Ada_Chip]]
+[[Chip-Hardware — 全景导航 (Map of Content)]]
 [[CoreComputationSubspace]]
 [[Cross_Substrate_Scaling]]
 [[EnergyResourceEfficiencyTradeoff]]
@@ -31,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Material_Integration]]
 [[Mesoscale_Physical_Computing_Framework]]
 [[National_Innovation_Center_Framework]]
+[[Nature Electronics]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Wafer]]
 [[SDI_Bond]]
@@ -38,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_iNEST_CoPackaging]]
 [[SDI_iNEST_Wafer]]
 [[WaferScale_System]]
+[[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
 [[iNEST]]
 [[iNEST_Wafer]]

@@ -50,6 +50,8 @@ Auto-extracted concept from raw material compilation.
 [[CST_Spatiotemporal_Complexity]]
 [[CST计量仪]]
 [[CausalIntegrationPhi]]
+[[Causal_State_Encoding]]
+[[CentralityAsStateVariable]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

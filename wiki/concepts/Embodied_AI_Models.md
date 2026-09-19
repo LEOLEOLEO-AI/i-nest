@@ -21,7 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Faculty_Forum_2026]]
-[[Advanced_Packaging]]
+[[advanced packaging]]
 [[Advanced_Packaging_for_Space]]
 [[Attention_Residuals]]
 [[BackpropagationFreeLearning]]
@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Bias_Origin_Taxonomy]]
 [[BoundaryObject_Abstraction]]
 [[ByteDance_Ada_Chip]]
+[[CSI_Temporal_Encoding]]
 [[ComputationEfficientDeepLearning]]
 [[ConcentricDiscreteOpticalVortices]]
 [[ConsciousIntegration]]
@@ -36,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_ProjectManager_Model]]
 [[Deep_Network_Architecture_Invariant]]
 [[Defense_Industrial_Base_Reshaping]]
+[[DualImpactEvaluation]]
 [[DynamicServiceComposition]]
 [[EarlyExitInference]]
 [[EfficientDeepLearning]]
@@ -50,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[MemristiveReservoirBranchPrediction]]
 [[Memristive_CAM_Indexing]]
 [[Neuromorphic_Computing]]
+[[Reservoir_Computing]]
 [[advanced packaging]]
 [[iNEST]]
 

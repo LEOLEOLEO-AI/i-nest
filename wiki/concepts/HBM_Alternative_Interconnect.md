@@ -26,8 +26,8 @@ Auto-extracted concept from raw material compilation.
 [[AI_Memory_Infrastructure]]
 [[AdiabaticMultimodeBend]]
 [[AdvancedPackagingInterconnect]]
-[[AdvancedPackaging]]
-[[Advanced_Packaging]]
+[[advanced packaging]]
+[[advanced packaging]]
 [[Advanced_Packaging_Route]]
 [[Advanced_Packaging_for_Space]]
 [[AttractorConvergenceAnalysis]]
@@ -37,12 +37,14 @@ Auto-extracted concept from raw material compilation.
 [[ChipletTopologyAwareness]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[chiplet interconnect]]
 [[Chiplet_Stacking]]
 [[Heterogeneous_Integration]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[advanced packaging]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

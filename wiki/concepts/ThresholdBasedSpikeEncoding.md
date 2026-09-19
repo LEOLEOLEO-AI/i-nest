@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Autonomous_Spiking_Dynamics]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BigBrainCellularAxis]]
 [[BrainInspired_Chip]]
@@ -31,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[EventCameraTemporalEncoding]]
 [[Event_Driven_Architecture]]
 [[In_Network_Neuromorphic]]
+[[In_Network_Neuromorphic_Scheduling]]
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]
 [[Network_on_Chip]]

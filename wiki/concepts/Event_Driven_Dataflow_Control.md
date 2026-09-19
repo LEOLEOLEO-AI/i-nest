@@ -46,6 +46,8 @@ Auto-extracted concept from raw material compilation.
 [[EventBasedMotionDeblurring]]
 [[EventDrivenMotionDeblurring]]
 [[Event_Driven_Architecture]]
+[[FPGA_EventDriven_Verification]]
+[[GradientBasedLearningLocalization]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Self_Organized_Criticality]]

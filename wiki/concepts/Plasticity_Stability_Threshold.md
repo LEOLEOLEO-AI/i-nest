@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[20W_Brain_Inspired_Planning]]
 [[AINext_Initiative]]
 [[ActiveDendriteSNN]]
 [[AdaptiveAsymmetricSurrogateGradient]]
@@ -27,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveLocalLearning]]
 [[AdaptiveSTDP]]
 [[Avoided_Criticality]]
+[[BioPlausibleDisturbanceObserver]]
 [[BrainBodyResonance]]
 [[BurstTemporalPlasticity]]
 [[Cognitive_Relapse_Architecture]]

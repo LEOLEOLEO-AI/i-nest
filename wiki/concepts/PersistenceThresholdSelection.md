@@ -48,6 +48,8 @@ Auto-extracted concept from raw material compilation.
 [[Consumer_GPU_Inference]]
 [[ContestedPriorTopology]]
 [[ControllableSubspace]]
+[[CriticalDataThreshold]]
+[[DelayParameterSpaceDecomposition]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]

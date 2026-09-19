@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[2026-06-15_大脑的量子纠缠与信息动力学]]
+[[20W_Brain_Inspired_Planning]]
 [[AINext_Initiative]]
 [[ANN_SNN_WeightSpaceGap]]
 [[AdaptiveAsymmetricSurrogateGradient]]
@@ -32,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstSuppressionMechanism]]
 [[BurstSuppression]]
 [[Catastrophic_Forgetting_Mitigation]]
+[[ChannelEventSparsity]]
 [[Contested_Priors_Architecture]]
 [[CriticalFixedPoint]]
 [[CriticalStateDynamics]]

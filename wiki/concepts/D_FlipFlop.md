@@ -20,12 +20,13 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Async_Handshake_Protocol]]
 [[Autonomous_Spiking_Dynamics]]
 [[ConductingPolymerDendriteMemory]]
 [[ContinualLearningOnNeuromorphic]]
 [[DVS_Event_Camera]]
 [[DelayCodedWorkingMemory]]
-[[DualMemoryPathwaySNN]]
+[[Delay_Aware_Autograd_Spiking_Framework]]
 [[Dual_Memory_Pathway_SNN]]
 [[EnergyEfficientRestoration]]
 [[EventDrivenInference]]

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveLocalLearning]]
 [[AdaptiveSTDP]]
 [[AdaptiveSpeechToSpikeEncoding]]
+[[AnytimePointCloudRecognition]]
 [[AsynchronousEventDrivenComputation]]
 [[BurstCoding]]
 [[CascadedAdaptiveCombiners]]
@@ -35,7 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Endocrine_Modulated_Network_State]]
 [[EventDrivenAttentionMasking]]
-[[EventDrivenComputation]]
+[[Event_Driven_Computation]]
 [[EventDrivenSpectralProcessing]]
 [[Event_Driven_Architecture]]
 [[Event_Driven_Computation]]
@@ -70,6 +71,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TemporalCodingOptimization]]
 [[Temporal_Coding_Signal_Representation]]
+[[Temporal_Computing_Paradigm]]
 [[神经网络]]
 
 ## Sources

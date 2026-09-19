@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[HigherOrderPublicGoodsGame]]
 [[Intelligence_Emergence]]
 [[MagicStateDistillationOverheadModel]]
+[[MicroLED_Array_Programmer]]
 [[MultiplicativeGainCondition]]
 [[MultiplicativeGain]]
 [[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]
@@ -58,10 +59,12 @@ Auto-extracted concept from raw material compilation.
 [[SelfHealing_Interconnect]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[complex system]]
 [[iNEST]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

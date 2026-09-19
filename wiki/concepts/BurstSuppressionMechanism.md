@@ -33,6 +33,8 @@ Auto-extracted concept from raw material compilation.
 [[BulletTrainScheduling]]
 [[BurstGatedRouting]]
 [[BurstSuppression]]
+[[ContinuousTimeSNN]]
+[[CriticalityOffCriticalityTransition]]
 [[Criticality]]
 [[Distributed_Spike_Communication]]
 [[DynamicTokenSparsity]]

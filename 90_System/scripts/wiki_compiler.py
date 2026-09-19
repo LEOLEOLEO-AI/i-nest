@@ -24,6 +24,11 @@ USE_LLM = True  # llm_client 自动读 ~/.dsh 凭证
 
 TODAY = datetime.now().strftime("%Y-%m-%d")
 
+# 运行配额(防止 self_evolve 超时): 单次编译最多处理的新文件数; 其余下轮继续(状态已持久化)
+MAX_FILES_PER_RUN = 120
+# LLM 抽取阶段墙钟预算(秒): 超预算后剩余文件仅用关键词, 保底不拖满 3600s
+LLM_PHASE_BUDGET = 1440
+
 # ============================================================
 # Utility
 # ============================================================
@@ -202,11 +207,15 @@ CONCEPT_PATTERNS = [
     (r'(heterogeneous.integrat\w*|异构集成)', "Cross", "Heterogeneous_Integration", "Heterogeneous integration across domains"),
 ]
 
-def call_llm(prompt, max_tokens=2500):
-    """Use unified llm_client (DeepSeek direct, key from ~/.dsh)."""
+def call_llm(prompt, max_tokens=2500, timeout=60, total_timeout=120):
+    """Use unified llm_client (DeepSeek direct, key from ~/.dsh).
+
+    单调用墙钟上限 total_timeout(默认120s); 端点挂起时不会无限累加 retries*timeout,
+    从而单次 LLM 抽取最坏被锁在 120s 内(配合 LLM_PHASE_BUDGET 不会再拖满 3600s)。
+    """
     sys.path.insert(0, str(Path(__file__).parent))
     import llm_client
-    return llm_client.call(prompt, max_tokens=max_tokens, timeout=150)
+    return llm_client.call(prompt, max_tokens=max_tokens, timeout=timeout, total_timeout=total_timeout)
 
 def extract_concepts_llm(article_text, domain):
     """Use LLM to extract domain-specific concepts from article text"""
@@ -242,7 +251,7 @@ Output ONLY the JSON array, no other text."""
         pass
     return []
 
-def extract_concepts(summary_data, existing_concepts):
+def extract_concepts(summary_data, existing_concepts, allow_llm=True):
     """Extract concepts from summary using keyword + LLM hybrid approach"""
     concept_names = []
     text = summary_data["summary"] + " " + " ".join(summary_data["keywords"])
@@ -261,8 +270,8 @@ def extract_concepts(summary_data, existing_concepts):
     
     keyword_count = len(concept_names)
     
-    # Phase B: LLM-based extraction for deeper concepts (if enabled and keyword coverage is low)
-    if USE_LLM and len(concept_names) < 3:
+    # Phase B: LLM-based extraction for deeper concepts (if enabled, keyword coverage low, and budget allows)
+    if USE_LLM and allow_llm and len(concept_names) < 3:
         try:
             llm_concepts = extract_concepts_llm(text, domain)
             for lc in llm_concepts:
@@ -388,17 +397,25 @@ def update_index():
     (WIKI / "index.md").write_text(index_content, encoding='utf-8')
 
 def update_backlinks():
-    """Generate backlinks from concept files"""
+    """Generate backlinks from concept files (single-pass regex, O(N) scans)."""
     concepts_dir = WIKI / "concepts"
     if not concepts_dir.exists():
         return
     
+    all_files = sorted(concepts_dir.glob("*.md"))
+    names = [f.stem for f in all_files]
+    if not names:
+        (WIKI / "backlinks.md").write_text(
+            f"# Backlinks Index\n\n*Auto-generated: {TODAY}*\n\n*No concepts yet.*\n", encoding="utf-8")
+        return
+    # 长名优先, 避免短名作为前缀误匹配(如 SNN 误命中 SNN_Reservoir)
+    name_re = re.compile("|".join(re.escape(n) for n in sorted(names, key=len, reverse=True)))
     backlinks = defaultdict(list)
-    for concept_file in concepts_dir.glob("*.md"):
-        content = concept_file.read_text(encoding='utf-8')
-        for other in concepts_dir.glob("*.md"):
-            if other.stem != concept_file.stem and other.stem in content:
-                backlinks[other.stem].append(concept_file.stem)
+    for cf in all_files:
+        content = cf.read_text(encoding="utf-8")
+        for nm in set(name_re.findall(content)):
+            if nm != cf.stem:
+                backlinks[nm].append(cf.stem)
     
     bl_content = f"# Backlinks Index\n\n*Auto-generated: {TODAY}*\n\n"
     for target, sources in sorted(backlinks.items()):
@@ -420,17 +437,20 @@ def health_check(state):
     num_concepts = len(list(concepts_dir.glob("*.md"))) if concepts_dir.exists() else 0
     num_articles = len(list(articles_dir.glob("*.md"))) if articles_dir.exists() else 0
     
-    # Find orphans (concepts with no incoming links)
+    # Find orphans (concepts with no incoming links) — 单次正则扫描, 避免 O(N^2) 子串匹配
     orphans = []
     if concepts_dir.exists():
-        all_names = {f.stem for f in concepts_dir.glob("*.md")}
-        backlink_map = defaultdict(set)
-        for f in concepts_dir.glob("*.md"):
-            content = f.read_text(encoding='utf-8')
-            for name in all_names:
-                if name != f.stem and name in content:
-                    backlink_map[name].add(f.stem)
-        orphans = [n for n in all_names if not backlink_map[n]]
+        all_files = sorted(concepts_dir.glob("*.md"))
+        all_names = {f.stem for f in all_files}
+        if all_names:
+            name_re = re.compile("|".join(re.escape(n) for n in sorted(all_names, key=len, reverse=True)))
+            backlink_map = defaultdict(set)
+            for f in all_files:
+                content = f.read_text(encoding='utf-8')
+                for nm in set(name_re.findall(content)):
+                    if nm != f.stem:
+                        backlink_map[nm].add(f.stem)
+            orphans = [n for n in all_names if not backlink_map[n]]
     
     report = f"""# Knowledge Health Report
 
@@ -506,6 +526,7 @@ def main():
     # Phase 2: Summarize
     articles_written = 0
     concepts_created = 0
+    llm_deadline = time.time() + LLM_PHASE_BUDGET  # LLM 抽取阶段墙钟预算
     
     for f in new_files:
         summary = summarize_file(f)
@@ -516,9 +537,10 @@ def main():
         articles_written += 1
         log(f"  Article: {article_path.name}")
         
-        # Phase 3: Extract concepts
+        # Phase 3: Extract concepts (预算内才用 LLM, 否则仅关键词)
+        allow_llm = time.time() < llm_deadline
         existing = {c.stem for c in (WIKI / "concepts").glob("*.md")} if (WIKI / "concepts").exists() else set()
-        concepts = extract_concepts(summary, existing)
+        concepts = extract_concepts(summary, existing, allow_llm=allow_llm)
         for c in concepts:
             cp = write_concept(c)
             concepts_created += 1

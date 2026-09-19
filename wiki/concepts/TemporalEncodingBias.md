@@ -61,6 +61,8 @@ Auto-extracted concept from raw material compilation.
 [[SpikeEncoding]]
 [[Spike_Encoding_Scheme]]
 [[Spike_Encoding_of_fMRI]]
+[[Spike_Train_Regression]]
+[[SpikingPnPSolver]]
 [[Spiking_Neural_Network]]
 [[complex system]]
 [[iNEST]]

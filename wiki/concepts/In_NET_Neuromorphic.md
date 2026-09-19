@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[Continuous_Discrete_Compute_Gap]]
 [[Continuous_Spatiotemporal_State_Propagation]]
+[[EventDrivenInference]]
 [[EventDrivenRiskAssessment]]
 [[Event_Driven_Architecture]]
 [[FoveationGuidedTokenSelection]]
@@ -39,6 +40,8 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[SDI_Bond]]
 [[SDI_Sparse_Dataflow_Interconnect]]
+[[Spiking_Neural_Network]]
+[[TemporalAdversarialPerturbation]]
 [[iNEST]]
 
 ## Sources

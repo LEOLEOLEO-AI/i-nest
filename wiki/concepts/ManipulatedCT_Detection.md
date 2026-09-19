@@ -20,7 +20,9 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
+[[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
 [[AI_Faculty_Forum_2026]]
 [[AthermalDynamics]]
 [[BigBrainCellularAxis]]
@@ -29,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[BrainInspired_Chip]]
 [[CollectiveSpikingDynamics]]
 [[CombinedImportanceScoring]]
+[[Complex_System_Theory]]
 [[Complexity_Emergence]]
 [[Complexity_Emergence_Engineering]]
 [[Contested_Prior_Resolution]]

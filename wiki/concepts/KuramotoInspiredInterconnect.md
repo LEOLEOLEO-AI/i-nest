@@ -53,6 +53,8 @@ Auto-extracted concept from raw material compilation.
 [[Complexity_Emergence]]
 [[Complexity_Emergence_Framework]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
+[[ConceptualCrossLinguisticNetworks]]
+[[ContinuousTimeRandomWalk]]
 [[EdgeIoTEnergyAwareness]]
 [[GNN图神经网络，非结构化数据分析利器！]]
 [[Heterogeneous_Integration]]

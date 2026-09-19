@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Faculty_Forum_2026]]
+[[AnisotropicGaussianPrimitives]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BioInspiredSequenceLearning]]
 [[DiscreteSTDP]]
@@ -32,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_STDP]]
 [[SDI_STDP_Bond]]
 [[SDI_STDP_Fusion]]
+[[SDI_STDP_Regulation]]
 [[SDI_STDP_Rule]]
 [[SDI_STDP_Topology]]
 [[STDP_MemristiveLearning]]

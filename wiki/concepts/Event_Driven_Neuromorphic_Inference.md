@@ -20,12 +20,14 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[20W_Brain_Inspired_Planning]]
 [[AI_Driven_Architecture_Search]]
 [[AI_Forum_Demo_Narrative]]
 [[ANN_to_SNN_Conversion_Error_Amplification]]
 [[AcousticAnomalyDetection]]
 [[ActionPrototypeClustering]]
 [[ActiveDendriteSNN]]
+[[Activity_Energy_Tradeoff]]
 [[Edge_Intelligence]]
 [[Event_Driven_Architecture]]
 [[Neuromorphic_Computing]]

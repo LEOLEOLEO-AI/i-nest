@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspiredSequenceLearning]]
 [[CorticalWaveRouting]]
 [[DiscreteSTDP]]
+[[EnergyProportionalityCeiling]]
 [[EventCameraTemporalEncoding]]
 [[Event_Driven_Architecture]]
 [[Interconnect_Routing]]
@@ -48,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Synchronization_Overhead_Mitigation]]
 [[TCC]]
 [[TemporalAdversarialPerturbation]]
+[[TemporalCodingForPointClouds]]
 [[iNEST]]
 
 ## Sources

@@ -38,6 +38,8 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Based_3D_Packaging]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]
+[[CircuitTopologySearch]]
+[[ComputeInMemory_LLM_Inference]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[TCC]]

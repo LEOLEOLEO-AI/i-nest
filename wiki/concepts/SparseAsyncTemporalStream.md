@@ -38,6 +38,8 @@ Auto-extracted concept from raw material compilation.
 [[FullSpectrum_Programmability]]
 [[Gaussian_Splat_Compression]]
 [[Heterogeneous_Integration]]
+[[InNetworkRadarProcessing]]
+[[InSituNeuralProcessing]]
 [[Memory_Wall]]
 [[Neuromorphic_Computing]]
 [[SparseTemporalEncoding]]

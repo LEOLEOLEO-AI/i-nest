@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[20W_Brain_Inspired_Planning]]
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[AstrocyteInspiredRepair]]
 [[Avoided_Criticality]]
@@ -29,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Catastrophic_Forgetting_Mitigation]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Contested_Priors_Architecture]]
 [[Criticality]]
 [[CrossEntityPreemptiveWarning]]
 [[Distributed_Spike_Communication]]

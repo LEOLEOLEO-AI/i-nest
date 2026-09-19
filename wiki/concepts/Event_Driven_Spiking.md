@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Asynchronous_Circuit]]
+[[Autonomous_Spiking_Dynamics]]
 [[BioPlausiblePredictiveCoding]]
 [[BrainInspired_Chip]]
 [[BurstGatedRouting]]
@@ -32,6 +33,8 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Asynchronous_Circuit]]
 [[Event_Driven_Spike_Communication]]
 [[FunctionalEnsemble]]
+[[In_Network_Neuromorphic]]
+[[In_Network_Neuromorphic_Scheduling]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
 [[SNN]]

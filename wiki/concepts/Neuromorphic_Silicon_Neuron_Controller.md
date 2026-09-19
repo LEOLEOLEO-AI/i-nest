@@ -33,6 +33,8 @@ Auto-extracted concept from raw material compilation.
 [[CompetitiveProgramDynamics]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[DataDrivenCellularAxis]]
+[[DryingFilmCrackModeling]]
+[[Dynamic_Expert_Routing]]
 [[EmulationTheoryObserver]]
 [[EnsembleSparsity]]
 [[Entropy_Connectivity_Path]]

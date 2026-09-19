@@ -50,6 +50,8 @@ Auto-extracted concept from raw material compilation.
 [[QuantumConvolutionalTopology]]
 [[RandomProjectionLandscapePreservation]]
 [[Selection_Theorems]]
+[[Semantic_Least_Energy_Principle]]
+[[StochasticMultiAgentRL]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

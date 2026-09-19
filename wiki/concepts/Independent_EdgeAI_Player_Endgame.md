@@ -41,6 +41,8 @@ Auto-extracted concept from raw material compilation.
 [[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Processing]]
 [[Intelligence_Emergence]]
+[[Koopman_Constants_Of_Motion]]
+[[MemristiveTopologyCoupling]]
 [[Memristive_STDP]]
 [[Memristor]]
 [[Memristor_Interconnect]]

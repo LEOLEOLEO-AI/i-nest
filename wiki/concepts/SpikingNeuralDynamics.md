@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AdaptiveFrequencyResonateFire]]
 [[AdaptiveLocalLearning]]
 [[AdaptiveSTDP]]
 [[AdaptiveSpeechToSpikeEncoding]]
@@ -26,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Controlled_Release_Kinetics]]
 [[DiscreteSTDPLearning]]
 [[DiscreteSTDP]]
+[[EventDrivenFunctionalConnectivity]]
 [[ITP_STDP]]
 [[Intelligence_Emergence]]
 [[IntrinsicTimingSTDP]]

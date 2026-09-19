@@ -20,10 +20,12 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[20W_Brain_Inspired_Planning]]
 [[AINext_Initiative]]
 [[ANN_SNN_WeightSpaceGap]]
 [[AcousticAnomalyDetection]]
 [[AdaptiveAsymmetricSurrogateGradient]]
+[[AdaptiveAsymmetricSurrogateGradients]]
 [[Avoided_Criticality]]
 [[BurstSuppressionMechanism]]
 [[BurstSuppression]]

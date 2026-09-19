@@ -30,6 +30,8 @@ Auto-extracted concept from raw material compilation.
 [[CoOptimizedMappingScheduling]]
 [[ContinualLearningOnNeuromorphic]]
 [[Continuous_Control_Spiking_Stability]]
+[[ConventionalAndSpikingDualMode]]
+[[CriticalityInNetworkComputing]]
 [[Criticality]]
 [[CrossEntityPreemptiveWarning]]
 [[DeepCode_AlgorithmExtraction]]

@@ -35,11 +35,13 @@ Auto-extracted concept from raw material compilation.
 [[FastSlow_Dynamics]]
 [[Memristor]]
 [[Memristor_Synapse]]
+[[MultifractalSpaceFillingCurve]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
 [[Synaptic_Plasticity]]
+[[UnconventionalRotationalDynamics]]
 [[iNEST]]
 
 ## Sources

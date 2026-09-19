@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[ErrorSuppressedPipeline]]
 [[FederatedServiceGraph]]
 [[FitnessGuidedTopologySearch]]
+[[L2_L3_Reconfigurability]]
 [[MultipartiteEntanglementFractal]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
@@ -51,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[ReservoirYield]]
 [[Reservoir_Computing]]
 [[TCC]]
+[[TunableNonlinearDynamics]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

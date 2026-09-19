@@ -34,6 +34,8 @@ Auto-extracted concept from raw material compilation.
 [[Amorphous_Amorphous_Transition]]
 [[Avoided_Criticality]]
 [[BioPlausibleDisturbanceObserver]]
+[[Branch_Prediction_in_Pipelined_Processors]]
+[[Catastrophic_Forgetting_Mitigation]]
 [[Criticality]]
 [[Neuromorphic_Computing]]
 [[SNN]]

@@ -22,10 +22,12 @@ Auto-extracted concept from raw material compilation.
 
 [[20W_Brain_Inspired_Planning]]
 [[AI_Assisted_Energy_Optimization]]
+[[Active_Inference_Agent]]
 [[AddressRedundancyElimination]]
 [[Adjoint_Gradient_Propagation]]
 [[AutonomousAdaptation]]
 [[AvalanchePropagation]]
+[[BayesianDomainEvolution]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[BiasPropagationInNetworks]]
 [[BitPrecisionAwareScheduling]]

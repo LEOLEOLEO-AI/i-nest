@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Faculty_Forum_2026]]
 [[BigBrainCellularAxis]]
+[[CST计量仪]]
 [[ChipletRoutingFabric]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -30,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[ComplexValuedSNN]]
 [[CrossbarArrayVLSI]]
 [[Environmental_Capability_Context]]
+[[FixedOverheadPenalty]]
 [[Heterogeneous_Integration]]
 [[HodgkinHuxleyDynamics]]
 [[Interconnect_Routing]]

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[CircuitTopologyEncoding]]
 [[Complex_System_Theory]]
 [[ControlDrivenCriticalFluctuations]]
+[[ControlTheoreticTopology]]
 [[Critical_Region_Extension]]
 [[DynamicSynchronyMetric]]
 [[Emergent_Order_Deep_Belief_Networks]]
@@ -58,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologyEntropyMapping]]
 [[Universal_Computation_Landscape]]
+[[VehicularMultiHopTopology]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

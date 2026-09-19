@@ -32,6 +32,8 @@ Auto-extracted concept from raw material compilation.
 [[AnalogDomainCompression]]
 [[AnalogDomainCompressiveSensing]]
 [[ApplicationScenarioReconstruction]]
+[[Bidirectional_Temporal_Enhancement]]
+[[Complexity_Emergence]]
 [[Computation_Organization]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]

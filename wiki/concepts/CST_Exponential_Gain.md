@@ -21,14 +21,16 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Complex_System_Theory]]
+[[Complexity_Emergence]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[CriticalFluctuationReservoir]]
 [[DissipativeQuantumReservoir]]
+[[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
 [[GroupInteractionThreshold]]
 [[InNetworkNeuromorphicSimulation]]
-[[InNetworkNeuromorphic]]
+[[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic]]
 [[Intelligence_Emergence]]
 [[Memristive_STDP]]

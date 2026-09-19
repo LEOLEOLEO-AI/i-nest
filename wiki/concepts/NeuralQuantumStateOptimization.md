@@ -59,6 +59,8 @@ Auto-extracted concept from raw material compilation.
 [[NeuralQuantumState]]
 [[NoiseModulatedLearning]]
 [[NonvolatileChargeDomain]]
+[[QuantumConvolutionalTopology]]
+[[QuantumCriticalAmorphousCarbon]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]

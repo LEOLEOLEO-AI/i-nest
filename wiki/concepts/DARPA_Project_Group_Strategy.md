@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
 [[AI_Faculty_Forum_2026]]
 [[Allreduce_Latency_Probe]]
 [[AnomalousSpinTransport]]
@@ -37,7 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[HodgkinHuxleyDynamics]]
 [[InNetworkNeuromorphicEmergence]]
-[[InNetworkNeuromorphic]]
+[[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Processing]]
 [[Intelligence_Emergence]]
@@ -47,8 +48,10 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Synapse]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[National_Innovation_Center_Role]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[Neuromorphic_Topology]]
 [[Order_Flexibility_Duality]]
 [[PolymerComposite_Substrate]]
 [[RTC_Primitive]]
@@ -76,6 +79,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST_Neuromorphic_Integration]]
 [[iNEST_Neuromorphic_Topology]]
 [[神经形态脉冲大语言模型（NSLLM）]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

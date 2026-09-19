@@ -42,6 +42,8 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuron论文：Neuromorphic is dead, 神经形态已死。]]
 [[OptimalRepresentation]]
+[[Physical_First_Principles]]
+[[RISC-V 鏋舵瀯涓_SDI 鏅虹畻浜掕仈绯荤粺璁捐锛氶潰鍚_LLM 浣庡欢杩熸帹鐞嗕笌璁粌]]
 [[RamanInducedGaugeField]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SOC — 自组织临界（Self-Organized Criticality）]]

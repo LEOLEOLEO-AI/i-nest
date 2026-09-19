@@ -51,6 +51,8 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[Neuromorphic_Selective_State_Space]]
 [[Neuromorphic_Sensor_Fusion]]
+[[Neuromorphic_Speech_Tokenizer]]
+[[Neuromorphic_Topology]]
 [[Sequence_First_Processing]]
 [[SpikeAttention]]
 [[Spike_Event_Driven_Attention]]

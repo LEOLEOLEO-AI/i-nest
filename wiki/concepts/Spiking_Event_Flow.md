@@ -26,6 +26,8 @@ Auto-extracted concept from raw material compilation.
 [[DelayCodedWorkingMemory]]
 [[Delay_Aware_Autograd_Spiking_Framework]]
 [[DirectTrainingSNN]]
+[[Direct_Training_Spiking_Neural_Networks]]
+[[ElectronicBurstingNeuron]]
 [[Event_Driven_Architecture]]
 [[FPGA_Neuromorphic_Prototyping]]
 [[NeuromorphicGraphAnomalyDetection]]

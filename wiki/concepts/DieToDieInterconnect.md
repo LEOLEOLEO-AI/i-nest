@@ -20,16 +20,23 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3D_IC_Stacking]]
 [[ChipletWaferInterconnectScaling]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[chiplet interconnect]]
 [[Chiplet_Interconnect_Topology]]
+[[Heterogeneous_Integration]]
 [[HighDensitySiliconInterposer]]
+[[Interconnect_Topology]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[TCC_Topology]]
+[[Through_Silicon_Via]]
+[[WaferScale_Heterogeneous_Integration]]
 [[Wafer_Scale_Integration]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

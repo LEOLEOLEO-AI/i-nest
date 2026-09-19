@@ -32,6 +32,8 @@ Auto-extracted concept from raw material compilation.
 [[CoEvolvedSNNEnsemble]]
 [[CombinedImportanceScoring]]
 [[ConfigurableSNNInference]]
+[[CoreComputationSubspace]]
+[[CrashHotspotForecasting]]
 [[Nonlinear_Gain]]
 [[SNN]]
 [[SpikeEncoding]]

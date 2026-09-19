@@ -44,6 +44,8 @@ Auto-extracted concept from raw material compilation.
 [[PersonalizedSNNTransfer]]
 [[PersonalizedSNN]]
 [[PerturbationSpaceTrajectory]]
+[[ReSCom_Accelerator]]
+[[Recurrent_Network_Homeostasis]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[SNN_TCC_Integration]]

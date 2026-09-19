@@ -50,6 +50,8 @@ Auto-extracted concept from raw material compilation.
 [[AtomicGeometryToElectronicTopologyMapping]]
 [[AttractorNeuralNetwork]]
 [[AutoAssociativeMemoryRobustness]]
+[[AutonomousCombatScenarios]]
+[[Autonomous_Unmanned_Combat_Coordination]]
 [[Complex_System_Theory]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence]]

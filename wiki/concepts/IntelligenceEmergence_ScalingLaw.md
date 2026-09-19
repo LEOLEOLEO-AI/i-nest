@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[CentralityBasedDefense]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
+[[Complexity_Emergent_Intelligence]]
 [[ComponentLevelMolding]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Crystallized_Neural_Manifolds]]
@@ -48,12 +49,13 @@ Auto-extracted concept from raw material compilation.
 [[HeavyTailedWaitingTimes]]
 [[Heterogeneous_Synaptic_Motifs]]
 [[InNetworkAgentRewiring]]
-[[IntelligenceEmergence]]
+[[Intelligence_Emergence]]
 [[Intelligence_Emergence]]
 [[JunctionCenteredFramework]]
 [[NCL神经计算定律详解]]
 [[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]
 [[Network_Topology_Design]]
+[[Neuromorphic_Computing]]
 [[NoiseAsLearningResource]]
 [[Nonlinear_Gain]]
 [[OptomechanicalNonlinearity]]
@@ -66,6 +68,7 @@ Auto-extracted concept from raw material compilation.
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

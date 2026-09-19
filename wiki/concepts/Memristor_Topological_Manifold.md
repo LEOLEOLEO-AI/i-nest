@@ -29,10 +29,12 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_Interconnect]]
 [[Memristor]]
 [[Memristor_Synapse]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[P_Paradigm]]
+[[RuntimeTopologyMapping]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

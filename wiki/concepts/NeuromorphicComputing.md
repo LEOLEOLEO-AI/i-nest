@@ -28,6 +28,8 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Accelerated_SNN]]
 [[FPGA_Neuromorphic_Acceleration]]
 [[FixedOverheadCost]]
+[[FixedOverheadPenalty]]
+[[HippocampalNeocorticalIntelligence]]
 [[NeuromorphicObserverArchitecture]]
 [[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Acceleration]]

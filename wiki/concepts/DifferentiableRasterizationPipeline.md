@@ -62,6 +62,8 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicVisualPipeline]]
 [[Neuromorphic_Computing]]
+[[NoiseModulatedLearning]]
+[[NonEquilibriumComputing]]
 [[OpenLearningEcosystem]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Semantic_Least_Energy_Principle]]

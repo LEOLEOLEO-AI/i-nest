@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[11_SDI节点接口规范与化合键定义_dup]]
 [[1M1T1R_SynapticNeuron]]
 [[6万+辛顿2025年度全景实录深读｜真正的智能与硅基智能的非对称演进]]
+[[AI-ML — 全景导航 (Map of Content)]]
 [[AI4PDE｜综述·论文推荐 08｜物理信息神经网络在偏微分方程问题中的应用：全面综述]]
 [[AIRA_NeuralArchSearch]]
 [[AI_Faculty_Forum_2026]]
@@ -54,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_Spike_Integration]]
 [[Nature_Electronics_Neuromorphic_Validation]]
 [[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]
+[[Network_Topology_Design]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
@@ -63,6 +65,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[complex system]]
 [[iNEST]]
+[[iNEST_Interconnect_Topology]]
 [[神经网络]]
 
 ## Sources

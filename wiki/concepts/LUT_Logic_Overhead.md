@@ -36,6 +36,8 @@ Auto-extracted concept from raw material compilation.
 [[BosonicFieldTopology]]
 [[CatalyticReactionNetwork]]
 [[Cauchy_Aczel_Uniqueness]]
+[[CoexistenceRegime]]
+[[CommunicationTopologyMismatch]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

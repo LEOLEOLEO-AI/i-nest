@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
 [[AI_Faculty_Forum_2026]]
 [[ArbitraryWavefunctionConfigurability]]
 [[AstrocyteInspiredRepair]]
@@ -41,10 +42,11 @@ Auto-extracted concept from raw material compilation.
 [[Distributed_Spike_Communication]]
 [[EpidemicThreshold]]
 [[EventDrivenFunctionalConnectivity]]
+[[FixedOverheadPenalty]]
 [[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]
 [[InNetworkNeuromorphicSimulation]]
-[[InNetworkNeuromorphic]]
+[[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic]]
 [[Intelligence_Emergence]]
 [[Memristor]]

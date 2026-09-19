@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AINext_Initiative]]
 [[AnisotropicGaussianPrimitives]]
+[[Bidirectional_Temporal_Enhancement]]
 [[CoexistencePhaseTransition]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
@@ -39,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[GroupInteractionThreshold]]
 [[Intelligence_Emergence]]
 [[MassConservationBias]]
+[[MassConservationInductiveBias]]
 [[Mott_Device_Array]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

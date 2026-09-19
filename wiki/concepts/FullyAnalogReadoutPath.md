@@ -26,8 +26,12 @@ Auto-extracted concept from raw material compilation.
 [[ActivityAvalanche]]
 [[AddressRedundancyElimination]]
 [[Adjoint_Gradient_Propagation]]
+[[Arm_Locomotor_Synergy]]
+[[CollectiveDynamics]]
 [[Memristive_Crossbar]]
 [[Neuromorphic_Computing]]
+[[PPT]]
+[[SNN]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

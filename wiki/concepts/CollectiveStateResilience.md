@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Beyond_Moore_Packaging_Strategy]]
 [[BiologicalNoiseMimicry]]
 [[CausalEmergenceCondition]]
+[[causal emergence]]
 [[Causal_Emergence_Integration]]
 [[CirculateFiringNeuron]]
 [[CompartmentalNeuronModel]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[DeviceLevelNonlinearityScaling]]
 [[DeviceLevelNonlinearity]]
 [[EcosystemTopologyCoupling]]
+[[Electronic_Warfare_Integration]]
 [[EmergentOrder]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
@@ -64,6 +66,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
+[[TopologyEmbeddedIntrospection]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

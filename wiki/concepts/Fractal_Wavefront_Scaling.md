@@ -46,6 +46,8 @@ Auto-extracted concept from raw material compilation.
 [[HierarchicalBayesianCommunityDetection]]
 [[Intelligence_Emergence]]
 [[MeanFieldSpinGlass]]
+[[Milinkovic B (2024)：复杂神经系统涌现动力学结构]]
+[[Mimetic_Optogenetic_Synapses]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

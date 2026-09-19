@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Autonomous_Spiking_Dynamics]]
 [[BioPlausiblePredictiveCoding]]
 [[BrainInspired_Chip]]
 [[BurstGatedRouting]]
@@ -39,11 +40,12 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Architecture]]
 [[Event_Driven_Orbital_Object_Pipeline]]
 [[Hybrid_ANN_SNN_Pipeline]]
-[[InNetwork_Neuromorphic]]
+[[In_Network_Neuromorphic]]
 [[InNetwork_Neuromorphic_CoDesign]]
 [[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Scheduling]]
 [[Interconnect_Routing]]
+[[LocalLearning_SynapticUpdate]]
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_NoC_Routing]]

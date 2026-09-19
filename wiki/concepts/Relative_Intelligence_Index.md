@@ -32,6 +32,8 @@ Auto-extracted concept from raw material compilation.
 [[Bio_plausible_Neuromorphic_Disturbance_Observer]]
 [[BrainBodyResonance]]
 [[CascadedAdaptiveCombiners]]
+[[ClosedLoopNeuromorphicControl]]
+[[CompetitiveProgramDynamics]]
 [[Neuromorphic_Computing]]
 [[SpikeEncoding]]
 [[Spiking_Neural_Network]]

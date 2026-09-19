@@ -22,6 +22,8 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Faculty_Forum_2026]]
 [[Accessibility_Plasticity]]
+[[AdiabaticModeEvolutionCoupler]]
+[[AdiabaticModeEvolution]]
 [[BigBrainCellularAxis]]
 [[CrossbarArrayVLSI]]
 [[CrossbarInterconnect]]
@@ -32,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[GenerativeTopologyModels]]
 [[Interconnect_Routing]]
 [[Less is more，大脑“低能耗”并“高效响应”的秘诀：模块化]]
+[[MatrixShapePhaseTransition]]
 [[Memristor]]
 [[Memristor_Interconnect]]
 [[Memristor_Synapse]]

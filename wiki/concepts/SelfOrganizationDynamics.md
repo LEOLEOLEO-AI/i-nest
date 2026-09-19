@@ -60,6 +60,8 @@ Auto-extracted concept from raw material compilation.
 [[SelfOrganization]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
+[[Swarm_Adaptive_Topology]]
+[[SynchronizationAttractorBasin]]
 [[TopologicalAndersonChernInsulator]]
 [[UniversalComputation]]
 [[iNEST]]

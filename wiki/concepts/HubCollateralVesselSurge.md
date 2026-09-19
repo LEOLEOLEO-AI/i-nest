@@ -39,6 +39,8 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration]]
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
+[[Cryogenic_Syndrome_Compression]]
+[[DARPA_3DHI_Roadmap]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

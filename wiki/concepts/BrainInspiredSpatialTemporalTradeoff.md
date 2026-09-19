@@ -34,7 +34,9 @@ Auto-extracted concept from raw material compilation.
 [[Gate_Synthesis_Readout]]
 [[HighThroughputPhenotyping]]
 [[InNetworkGradientPropagation]]
+[[Neural_Manifold_Crystallization]]
 [[Neuromorphic_Computing]]
+[[OscillatoryReservoirDynamics]]
 [[SelfOrganization]]
 [[iNEST]]
 

@@ -34,8 +34,10 @@ Auto-extracted concept from raw material compilation.
 [[HierarchicalInferenceTopology]]
 [[Intelligence_Emergence]]
 [[Mesoscale_Physical_Computing_Framework]]
+[[Microfluidic_Worm_Trap_Array]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[SDSoW_Strategic_Planning]]
 [[iNEST]]
 
 ## Sources

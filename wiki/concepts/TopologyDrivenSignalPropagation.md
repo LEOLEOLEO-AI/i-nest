@@ -31,7 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[CST计量仪]]
 [[CausalEmergenceCondition]]
-[[Causal_Emergence]]
+[[causal emergence]]
 [[Causal_Emergence_Integration]]
 [[CellEmergence]]
 [[Complex_System_Theory]]
@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
+[[RenormalizationGroup_DeviceNonlinearity]]
 [[ReproducibleReservoirDynamics]]
 [[ReservoirDynamics]]
 [[Reservoir_Computing]]
@@ -55,7 +56,8 @@ Auto-extracted concept from raw material compilation.
 [[ThermallyDrivenSuperparamagnetReservoir]]
 [[analog computation]]
 [[branch prediction]]
-[[causal emergence]]
+[[iNEST 论文矩阵计划]]
+[[iNEST]]
 [[类脑芯片]]
 
 ## Sources

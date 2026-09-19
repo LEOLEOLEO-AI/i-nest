@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[3d]]
 [[AI-ML — 全景导航 (Map of Content)]]
 [[AI_Application_Scenario_Reconstruction]]
+[[AI_Faculty_Forum_2026]]
 [[AgentReputationGraph]]
 [[Analog_InMemory_Processing]]
 [[CST计量仪]]
@@ -51,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI节点接口规范与化合键定义]]
 [[ScalableCollectiveCommunication]]
 [[TCC]]
+[[Topology_Atom]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

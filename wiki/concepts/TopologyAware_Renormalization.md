@@ -25,7 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[CST计量仪]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
+[[chiplet interconnect]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Complex_System_Theory]]
 [[CorticalTypeDiversity]]
@@ -89,12 +89,14 @@ Auto-extracted concept from raw material compilation.
 [[TemperatureSensitivityControl]]
 [[TemporalComplexity]]
 [[Textbook_Paradigm_Definition]]
+[[TopologyFragility]]
 [[Topology_Interconnect]]
 [[Wafer_Interconnect]]
 [[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Interconnect]]
 [[residual connection]]
+[[vLLM_plugin_FLSDI]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

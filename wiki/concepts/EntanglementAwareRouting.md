@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[12_三原理协同_FEP_最小作用量_STDP]]
+[[AdjointWaveControl]]
 [[Allreduce_Latency_Probe]]
 [[Alpha_Computation_Consistency]]
 [[AndersonTransition]]
@@ -32,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]
 [[Chiplet_Integration_Route]]
+[[Chiplet_Stacking]]
 [[CommunicationAwareComputeRelocation]]
 [[Complex_System_Theory]]
 [[CorticalTypeDiversity]]

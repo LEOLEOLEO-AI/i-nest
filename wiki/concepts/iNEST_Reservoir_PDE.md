@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[EndToEndTopologyLearning]]
 [[ErrorSuppressedPipeline]]
 [[Fixed_Reservoir_Unitary]]
+[[Globally_Optimal_SNN_Training]]
 [[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_State]]
 [[Network_Topology_Design]]
@@ -35,6 +36,8 @@ Auto-extracted concept from raw material compilation.
 [[PhysicalSubstrateReservoir]]
 [[Reservoir_Computing]]
 [[Spiking_Neural_Network]]
+[[TCCNPU_Coordination_Roadmap]]
+[[TCC]]
 [[ThermalNoiseHarnessing]]
 [[iNEST]]
 

@@ -21,25 +21,30 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[1024_Card_SuperNode]]
+[[3D_Integrated_Chiplet_Stacking]]
 [[3D_Integration]]
 [[3d]]
 [[AdiabaticMultimodeBend]]
 [[AdsorptionBiosorptionHybrid]]
 [[AdvancedPackagingInterconnect]]
-[[AdvancedPackaging]]
+[[advanced packaging]]
 [[Allreduce_Latency_Diagnostic]]
 [[Bipartite_Interconnect]]
 [[Bipartite_Interconnect_Design]]
 [[CausalIntegrationTopology]]
+[[CavityMethodAnalysis]]
 [[Chiplet]]
 [[Chiplet_Based_Architecture]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Packaging]]
+[[Chiplet_Stacking]]
+[[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Topology]]
+[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

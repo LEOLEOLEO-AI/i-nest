@@ -24,7 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[CST计量仪]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
+[[chiplet interconnect]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Chiplet_based_heterogeneous_integration]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
@@ -87,12 +87,14 @@ Auto-extracted concept from raw material compilation.
 [[TCC_iNEST_Interconnect]]
 [[TemporalComplexity]]
 [[Textbook_Paradigm_Definition]]
+[[TopologyAware_Renormalization]]
 [[Wafer_Interconnect]]
 [[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Interconnect]]
 [[iNEST_Wafer]]
 [[residual connection]]
+[[vLLM_plugin_FLSDI]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

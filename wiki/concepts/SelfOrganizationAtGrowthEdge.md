@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[20W_Brain_Inspired_Planning]]
 [[Accessibility_Plasticity]]
 [[AdaptiveTimeStepTraining]]
 [[Adaptive_Deep_Brain_Stimulation]]
@@ -50,6 +51,9 @@ Auto-extracted concept from raw material compilation.
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
+[[Neuromorphic_Computing]]
+[[Neuromorphic_Topology]]
+[[Neuromorphic_Topology_Mapping]]
 [[Order_Flexibility_Duality]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]

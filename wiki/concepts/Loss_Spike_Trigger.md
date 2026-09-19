@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
 [[6万+辛顿2025年度全景实录深读｜真正的智能与硅基智能的非对称演进]]
 [[AIRA_NeuralArchSearch]]
 [[AI_Driven_Architecture_Search]]
@@ -39,14 +40,17 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[EventDrivenAutoregression]]
 [[Event_Driven_Architecture]]
+[[Heterogeneous_Integration]]
 [[InSensorMemoryComputing]]
 [[In_Package_Neuromorphic_Integration]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[ModelOptimizationFederated]]
 [[ModelOptimization]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[NonEquilibriumComputing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SelfOrganization]]
 [[Sparsity_Degradation_Threshold]]

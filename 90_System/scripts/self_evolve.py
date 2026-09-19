@@ -346,6 +346,22 @@ def step_grow_missing_concepts(broken_freq, max_new=10, min_refs=3):
     """
     log("自我生长: 补全高频缺失概念占位笔记...")
 
+    # ---- 停用开关 (2026-09-18 用户决定) ----------------------------------
+    # 用户指令: "概念债都先清除掉，等正确的机制验证正确后再重新生成"。
+    # 依据(实测): 现机制产物 97% 是空占位(5940/6123)，且占位按构造必有入链
+    # (触发条件就是"某处 [[链接]] 指向了不存在的概念")，把图密度抬高却无知识价值。
+    # 本开关优先级**高于**冻结守卫：先无条件停生成，再谈冻结。
+    try:
+        _pol = json.loads((VAULT / "90_System" / "research_evolve" / "state"
+                           / "concept_stub_policy.json").read_text(encoding="utf-8"))
+        if not _pol.get("auto_stub_generation", False):
+            log(f"⏹ 占位生成已停用: {_pol.get('reason', '')} -> 本轮不新增概念占位。")
+            return []
+    except FileNotFoundError:
+        pass  # 无策略文件则按既有逻辑继续(不改变历史行为)
+    except Exception as e:
+        log(f"⚠️ 占位策略文件读取失败({type(e).__name__})，本轮按既有逻辑处理。")
+
     # ---- 冻结守卫 (2026-09-18 接入) --------------------------------------
     # 背景: 08-27 诊断已提出"self_evolve 无新论文则冻结新增概念", 但一直未落地。
     # 实测后果: 2026-09-15/09-17 两次自进化各提交 6193/6196 个文件, 而当日论文

@@ -29,6 +29,8 @@ Auto-extracted concept from raw material compilation.
 [[ComputationEfficientDeepLearning]]
 [[DARPA_ProjectManager_Model]]
 [[Deep_Network_Architecture_Invariant]]
+[[Defense_Industrial_Base_Reshaping]]
+[[DynamicServiceComposition]]
 [[EfficientDeepLearning]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

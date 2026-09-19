@@ -29,12 +29,13 @@ Auto-extracted concept from raw material compilation.
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
+[[chiplet interconnect]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Core_Spacetime_Tensor]]
 [[DRBE_MVP_Mainchain]]
+[[DTGA]]
 [[DataProvenanceIntegrity]]
 [[EulaminateOverrepresentation]]
 [[Evolutionary_Structure_Computability]]
@@ -43,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Intelligent_Computing_Infrastructure]]
+[[L2_L3_Reconfigurability]]
 [[Memory_Wall]]
 [[Memristor]]
 [[Memristor_Network]]
@@ -94,6 +96,7 @@ Auto-extracted concept from raw material compilation.
 [[vLLM_plugin_FLSDI]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

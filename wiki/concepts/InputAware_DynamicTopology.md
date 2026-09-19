@@ -34,16 +34,20 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Memristive_Solutions]]
 [[Network_Topology_Design]]
+[[NeuromorphicObserverArchitecture]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SDI_STDP_Fusion]]
 [[SDI_STDP_Rule]]
+[[SDI_iNEST]]
+[[SDI_iNEST_Interconnect]]
 [[SNN]]
 [[STDP_Plasticity]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
+[[iNEST_Interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -25,6 +25,8 @@ Auto-extracted concept from raw material compilation.
 [[D_FlipFlop_Spike_Storage]]
 [[DelayCodedWorkingMemory]]
 [[DirectTrainingSNN]]
+[[Direct_Training_Spiking_Neural_Networks]]
+[[ElectronicBurstingNeuron]]
 [[Event_Driven_Architecture]]
 [[FPGA_Neuromorphic_Prototyping]]
 [[NeuromorphicGraphAnomalyDetection]]

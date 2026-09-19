@@ -22,6 +22,8 @@ Auto-extracted concept from raw material compilation.
 [[AnisotropicGaussianPrimitives]]
 [[BackflowTransformation]]
 [[Bidirectional_Temporal_Enhancement]]
+[[BurstTemporalPlasticity]]
+[[Complexity_Emergence]]
 [[DiscreteSTDPLearning]]
 [[DiscreteSTDP]]
 [[Emergent_Intelligence]]

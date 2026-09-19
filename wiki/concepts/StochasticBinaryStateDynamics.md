@@ -48,6 +48,8 @@ Auto-extracted concept from raw material compilation.
 [[DisorderInducedLocalization]]
 [[DopamineWakeSignal]]
 [[EdgeIntelligence_Framework]]
+[[Edge_Temporal_Signal_Processing]]
+[[EmergentBeatPatternResolution]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

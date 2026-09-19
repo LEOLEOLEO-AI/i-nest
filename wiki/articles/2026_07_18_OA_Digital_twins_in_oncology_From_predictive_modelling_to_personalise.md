@@ -23,5 +23,5 @@ title: "Digital twins in oncology: From predictive modelling to personalised tre
 
 ## Related Concepts
 
-[[Intelligence_Emergence]]
 [[causal emergence]]
+[[Intelligence_Emergence]]

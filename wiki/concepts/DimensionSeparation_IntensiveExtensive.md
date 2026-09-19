@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[20W_Brain_Inspired_Planning]]
 [[AI_Driven_Architecture_Search]]
 [[AI_Faculty_Forum_2026]]
 [[ActiveDendriteSNN]]
@@ -34,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstTemporalPlasticity]]
 [[Catastrophic_Forgetting_Mitigation]]
 [[Complex_System_Theory]]
+[[Contested_Priors_Architecture]]
 [[CriticalityInducedComputationalCapacity]]
 [[Criticality]]
 [[DiscreteContinuous_Unification]]

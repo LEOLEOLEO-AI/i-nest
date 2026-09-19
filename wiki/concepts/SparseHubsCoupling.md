@@ -39,6 +39,8 @@ Auto-extracted concept from raw material compilation.
 [[ExponentialDenseAssociativeMemory]]
 [[FPGA_Neuromorphic_Acceleration]]
 [[Field_Compression_for_InNetwork_Inference]]
+[[FixedOverheadCost]]
+[[FixedOverheadPenalty]]
 [[HippocampalNeocorticalIntelligence]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]

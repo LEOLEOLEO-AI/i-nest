@@ -56,6 +56,8 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[InterconnectConstrainedEmergence]]
+[[MeasurementEfficiency]]
+[[MicroTransferPrinting]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[complex system]]

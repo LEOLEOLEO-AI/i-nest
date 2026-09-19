@@ -33,6 +33,8 @@ Auto-extracted concept from raw material compilation.
 [[ANN动力学]]
 [[AdaptiveDensityControl]]
 [[Anisotropic_Square_Lattice]]
+[[AnomalousLocalization]]
+[[ApproximantLattice]]
 [[Communication_Primitive]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]

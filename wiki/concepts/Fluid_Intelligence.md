@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Application_Scenario_Reconstruction]]
 [[AdaptiveCompetingInteractions]]
 [[Analog_InMemory_Processing]]
 [[AutonomousAdaptation]]
@@ -28,9 +29,10 @@ Auto-extracted concept from raw material compilation.
 [[BranchingRatio]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
+[[chiplet interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Cognitive_Relapse_Architecture]]
+[[CorticalTypeDiversity]]
 [[DTGA]]
 [[Decoupling_Mechanism]]
 [[Free_Energy_Topology_Mapping]]

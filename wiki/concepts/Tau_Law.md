@@ -30,7 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[3d]]
 [[AI_Application_Scenario_Reconstruction]]
 [[AdvancedPackagingInterconnect]]
-[[AdvancedPackaging]]
+[[advanced packaging]]
 [[AnalogDomainCompression]]
 [[BCU_Operation]]
 [[CSI_Temporal_Encoding]]
@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_NoC_Fabric]]
 [[Chiplet_Stacking]]
+[[CrossbarArrayPrecision]]
 [[DirectConnect_Topology]]
 [[DynamicProgrammingRecycling]]
 [[External_to_OnDie_Evolution]]
@@ -48,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Inference_Offload]]
 [[Heterogeneous_Integration]]
 [[Inference_Stage_Decomposition]]
+[[IrregularNeuralReduction]]
 [[Logic_Folding]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
@@ -64,6 +66,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TemporalFeatureProjection]]
 [[ThroughSiliconVia_TSV_ThermalPath]]
+[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

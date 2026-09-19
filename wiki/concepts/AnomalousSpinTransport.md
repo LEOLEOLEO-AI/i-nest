@@ -42,7 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[HodgkinHuxleyDynamics]]
 [[InNetworkNeuromorphicEmergence]]
-[[InNetworkNeuromorphic]]
+[[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic]]
 [[Intelligence_Emergence]]
 [[Memristor]]
@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[Nonlinear_Gain]]
+[[PolymerComposite_Substrate]]
 [[Reservoir_Computing]]
 [[SDI_Bond]]
 [[SDI_STDP]]
@@ -75,8 +76,10 @@ Auto-extracted concept from raw material compilation.
 [[向大脑学习智能本质，探索通用 AI 的另一条可行路径]]
 [[智能涌现]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经形态脉冲大语言模型（NSLLM）]]
 [[神经形态计算]]
+[[神经网络]]
 [[类脑芯片]]
 
 ## Sources

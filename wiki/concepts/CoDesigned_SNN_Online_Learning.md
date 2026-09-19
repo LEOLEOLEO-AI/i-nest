@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[20W_Brain_Inspired_Planning]]
 [[AINext_Initiative]]
 [[ANN_SNN_WeightSpaceGap]]
 [[Analog_Synaptic_Behavior]]
@@ -29,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CoDesigned_SNN]]
 [[Criticality]]
 [[CrossEntityPreemptiveWarning]]
+[[DigitalSpikingNeuralNetwork]]
 [[DrivenCriticalityOptimalityTradeoff]]
 [[EventBasedMotionDeblurring]]
 [[EventDrivenAutoregression]]
@@ -46,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[SpikePacketCompression]]
 [[Spike_Energy_Floor]]
+[[Spiking_Neural_Network]]
 [[Spiking_Neural_Network]]
 [[SynapticReinforcementConsolidation]]
 [[Syncytial_Mesh]]

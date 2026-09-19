@@ -22,13 +22,23 @@ Auto-extracted concept from raw material compilation.
 
 [[1024_Card_SuperNode]]
 [[3D_Integrated_Chiplet_Stacking]]
+[[3d]]
 [[AI_Memory_Infrastructure]]
 [[AdaptiveBitPrecisionExploration]]
 [[AdiabaticMultimodeBend]]
 [[AdvancedPackagingInterconnect]]
+[[advanced packaging]]
+[[advanced packaging]]
 [[Advanced_Packaging_Route]]
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Stacking]]
+[[CoPackagedOptics]]
+[[Heterogeneous_Integration]]
+[[Inference_Workload_Profiling]]
 [[Memory_Wall]]
 [[TCC]]
+[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

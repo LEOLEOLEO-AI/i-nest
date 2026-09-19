@@ -22,20 +22,22 @@ Auto-extracted concept from raw material compilation.
 
 [[4H_SiC_SubstrateProcessing]]
 [[AI_Faculty_Forum_2026]]
-[[Advanced_Packaging]]
+[[advanced packaging]]
 [[Advanced_Packaging_for_Space]]
 [[AnalogInMemoryComputing]]
 [[Analog_Synaptic_Weighting]]
 [[Attention_Residuals]]
 [[BackpropagationFreeLearning]]
 [[Beyond_Moore_Pathway]]
-[[Causal_Emergence]]
+[[Bias_Origin_Taxonomy]]
+[[causal emergence]]
 [[Causal_Emergence_Architecture]]
 [[Chiplet]]
 [[Chiplet_Based_Trusted_Hardware]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_NoC_Interconnect]]
 [[Chiplet_Stacking]]
+[[Chiplet_Topology_Mapping]]
 [[Chiplet_Wafer_Topology]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
@@ -47,7 +49,6 @@ Auto-extracted concept from raw material compilation.
 [[SwarmX_InterWafer]]
 [[TCC]]
 [[advanced packaging]]
-[[causal emergence]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

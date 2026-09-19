@@ -64,7 +64,7 @@ def analyze_article(filepath, hyps):
         '  "connects_to": ["2-4个相关wiki概念"]\n'
         '}'
     )
-    return llm_client.call_json(prompt, max_tokens=1200)
+    return llm_client.call_json(prompt, max_tokens=1200, timeout=40, total_timeout=90)
 
 
 def write_card(filepath, analysis):
@@ -133,8 +133,12 @@ def main():
 
     ok = 0
     fail = 0
+    DEADLINE = time.time() + 540  # 不超过 run_script 的 600s 上限, 留余量
     for f in candidates:
         rel = str(f.relative_to(VAULT))
+        if time.time() > DEADLINE:
+            print(f"[inspiration_engine] 接近时限, 剩余 {len(candidates)-ok-fail} 篇下轮再分析")
+            break
         print(f"  分析: {f.name[:45]}...", flush=True)
         analysis = analyze_article(f, hyps)
         if not analysis or "core_insight" not in analysis:

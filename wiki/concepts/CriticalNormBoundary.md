@@ -49,9 +49,11 @@ Auto-extracted concept from raw material compilation.
 [[SNN_Topology_Mapping]]
 [[SelfOrganization]]
 [[Self_Organized_Criticality]]
+[[SpeciesProtectionMechanism]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[TopologyConstrainedWeightUpdate]]
+[[UniversalLinearOperation]]
 [[Workload_Isolation]]
 
 ## Sources

@@ -25,8 +25,10 @@ Auto-extracted concept from raw material compilation.
 [[11_SDI节点接口规范与化合键定义_dup]]
 [[AI-ML — 全景导航 (Map of Content)]]
 [[AI_Application_Scenario_Reconstruction]]
+[[AI_Cluster_Switch_Bottleneck]]
 [[AI_Faculty_Forum_2026]]
 [[Allreduce_Latency_Benchmark]]
+[[BigBrainCellularAxis]]
 [[CST计量仪]]
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
@@ -37,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Wafer]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
+[[Switch_Bottleneck]]
 [[TCC]]
 
 ## Sources

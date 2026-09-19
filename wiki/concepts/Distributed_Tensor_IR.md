@@ -32,6 +32,8 @@ Auto-extracted concept from raw material compilation.
 [[AI-ML — 全景导航 (Map of Content)]]
 [[Active_Inference_Agent]]
 [[Alpha_Coefficient_Phase_Transition_Amplification]]
+[[Analog_InMemory_Processing]]
+[[ArbitraryWavefunctionConfigurability]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

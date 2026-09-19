@@ -58,6 +58,8 @@ Auto-extracted concept from raw material compilation.
 [[RandomProjectionLandscapePreservation]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Selection_Theorems]]
+[[StochasticMultiAgentRL]]
+[[Systemic_Innovation_Mechanism]]
 [[TopologicalAndersonChernInsulator]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]

@@ -39,6 +39,8 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Independent_EdgeAI_Player_Endgame]]
 [[Interconnect_Routing]]
+[[Koopman_Constants_Of_Motion]]
+[[MemristiveTopologyCoupling]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[MetaFAIR_ArchitectureDiscovery]]

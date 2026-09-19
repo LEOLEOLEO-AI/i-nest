@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[20W_Brain_Inspired_Planning]]
 [[AINext_Initiative]]
 [[AI_Driven_Architecture_Search]]
 [[AI_Faculty_Forum_2026]]
@@ -35,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[BioInspiredLearningRule]]
 [[BioPlausiblePredictiveCoding]]
+[[BrainInspired_Chip]]
 [[BurstGatedRouting]]
 [[BurstSuppressionMechanism]]
 [[BurstSuppression]]

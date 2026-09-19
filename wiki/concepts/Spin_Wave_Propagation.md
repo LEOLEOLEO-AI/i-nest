@@ -30,7 +30,10 @@ Auto-extracted concept from raw material compilation.
 [[CST计量仪]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[CommunicationHeterogeneity]]
+[[Complex_System_Theory]]
 [[Constructed_Reality_Interconnect]]
+[[Cryogenic_Syndrome_Compression]]
 [[DARPA_ProjectManager_Model]]
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
@@ -38,7 +41,6 @@ Auto-extracted concept from raw material compilation.
 [[Memory_Wall]]
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
-[[Neuromorphic_Interconnect]]
 [[NoC]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[Nonlinear_Gain]]
@@ -60,6 +62,7 @@ Auto-extracted concept from raw material compilation.
 [[analog computation]]
 [[iNEST]]
 [[iNEST_Interconnect]]
+[[neuromorphic interconnect]]
 [[vLLM_plugin_FLSDI]]
 
 ## Sources

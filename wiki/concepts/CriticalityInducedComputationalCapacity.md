@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[20W_Brain_Inspired_Planning]]
 [[AINext_Initiative]]
 [[ANN_SNN_WeightSpaceGap]]
 [[Analog_Synaptic_Behavior]]
@@ -32,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Catastrophic_Forgetting_Mitigation]]
 [[Complex_System_Theory]]
 [[Contested_Priors_Architecture]]
+[[ContinualLearningOnNeuromorphic]]
 [[Criticality]]
 [[DimensionSeparation_IntensiveExtensive]]
 [[DiscreteContinuous_Unification]]

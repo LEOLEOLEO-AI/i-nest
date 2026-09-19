@@ -32,16 +32,23 @@ Auto-extracted concept from raw material compilation.
 [[Flexible_Spike_Routing]]
 [[Interconnect_Routing]]
 [[Memristor]]
+[[Memristor_Interconnect]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
+[[NeuromorphicObserverArchitecture]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SDI_STDP_Rule]]
+[[SDI_iNEST]]
 [[SDI_iNEST_Interconnect]]
 [[STDP_Plasticity]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
+[[Wafer_Scale_Integration]]
+[[Wafer_Scale_Memristor_Interconnect]]
 [[iNEST]]
+[[iNEST_Interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

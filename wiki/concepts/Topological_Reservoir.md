@@ -55,6 +55,8 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[RunawayAvalanche]]
 [[SimulabilityThreshold]]
+[[SpatialHeterogeneity]]
+[[SuddenLearning]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[branch prediction]]

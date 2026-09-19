@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[20W_Brain_Inspired_Planning]]
 [[AINext_Initiative]]
 [[ActiveDendriteSNN]]
 [[AdaptiveFrequencyResonateAndFire]]
@@ -38,7 +39,8 @@ Auto-extracted concept from raw material compilation.
 [[DynamicTokenSparsity]]
 [[DynamicalSelfDualCriticality]]
 [[EnergyProportionalityCeiling]]
-[[EventDrivenComputation]]
+[[EventCameraPoseInput]]
+[[Event_Driven_Computation]]
 [[Event_Driven_Architecture]]
 [[Event_Driven_Computation]]
 [[ExtinctionDrivenMetastability]]

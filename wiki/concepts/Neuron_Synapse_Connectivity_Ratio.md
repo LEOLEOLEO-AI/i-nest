@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[4H_SiC_SubstrateProcessing]]
 [[AI-ML — 全景导航 (Map of Content)]]
 [[AI_Application_Scenario_Reconstruction]]
+[[AI_Faculty_Forum_2026]]
 [[Complex_System_Theory]]
 [[Conductive_Filament_Switching]]
 [[MicroLED_Array_Programmer]]
@@ -39,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Photopolymerization_Printing]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
+[[Scaled_Neuromorphic_Network]]
 [[TCC]]
 [[TopicKickoff_Workshop]]
 

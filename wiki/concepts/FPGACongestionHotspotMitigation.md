@@ -52,6 +52,8 @@ Auto-extracted concept from raw material compilation.
 [[PhysicalDesign_ReliabilityTradeoff]]
 [[QuarantineCostTradeoff]]
 [[RoutingBasedLinearManipulation]]
+[[SDI_Bond]]
+[[SDI_Stream_Aware_NoC_Routing]]
 [[SpikeTimingPreservation]]
 [[Spike_Event_Driven_Attention]]
 [[SpikingMultimodalFusion]]
@@ -61,6 +63,7 @@ Auto-extracted concept from raw material compilation.
 [[SyntheticInertiaProvision]]
 [[TCC]]
 [[TSVEncapsulationStress]]
+[[VisualPlaceRecognition]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

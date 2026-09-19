@@ -40,6 +40,8 @@ Auto-extracted concept from raw material compilation.
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
+[[ReceptiveField_Processing]]
+[[Structure_Function_Formula]]
 [[iNEST]]
 
 ## Sources

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[20W_Brain_Inspired_Planning]]
 [[AdiabaticModeEvolution]]
 [[AnomalousSpinTransport]]
 [[BigBrainCellularAxis]]
@@ -39,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[EnsembleSparsity]]
 [[Flexible_Spike_Routing]]
 [[Interconnect_Routing]]
+[[KV_Cache_to_BoundaryObject_Transition]]
 [[Less is more，大脑“低能耗”并“高效响应”的秘诀：模块化]]
 [[LossSpikeMechanism]]
 [[Memristive_Solutions]]

@@ -23,13 +23,17 @@ Auto-extracted concept from raw material compilation.
 [[2_5D_Interposer]]
 [[3DHI_Stacking]]
 [[3D_Vertical_Interconnect]]
+[[3d]]
 [[4H_SiC_SubstrateProcessing]]
 [[AllParallel_SpikeBased_Computing]]
 [[AnalogInMemoryComputing]]
 [[BCU_Operation]]
+[[DARPA_ProjectManager_Model]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
+[[Spiking_Neural_Network]]
 [[TCC]]
+[[Topology_Gain]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

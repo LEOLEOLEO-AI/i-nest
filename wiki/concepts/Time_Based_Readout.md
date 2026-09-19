@@ -25,6 +25,8 @@ Auto-extracted concept from raw material compilation.
 [[ANN_to_SNN_Conversion_Error_Amplification]]
 [[AlternativeBridgingModels]]
 [[AnisotropicGaussianPrimitives]]
+[[BehaviorPreservingNetworkSparsity]]
+[[Bidirectional_Temporal_Enhancement]]
 [[Memristive_SNN]]
 [[SNN]]
 [[Spiking_Neural_Network]]

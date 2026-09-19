@@ -42,7 +42,9 @@ Auto-extracted concept from raw material compilation.
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
+[[ReceptiveField_Processing]]
 [[TCC]]
+[[TopologicalEdgeStateTransport]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

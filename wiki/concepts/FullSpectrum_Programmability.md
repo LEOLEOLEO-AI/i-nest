@@ -34,11 +34,13 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[InNetworkRadarProcessing]]
 [[InSituNeuralProcessing]]
+[[In_Network_Generative_Inference]]
 [[Memory_Wall]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
 [[Photonic_Memristor]]
+[[ResonantFrequencyAdaptationRule]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

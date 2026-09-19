@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[4H_SiC_SubstrateProcessing]]
 [[AnalogInMemoryComputing]]
+[[BackpropagationFreeLearning]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_NoC_Fabric]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_iNEST_Wafer]]
 [[OnChipOpticalTweezers]]
 [[P_Paradigm]]
+[[Software_Defined_Wafer_System]]
 [[TCC]]
 [[Topology_Centric_Computing]]
 [[iNEST]]

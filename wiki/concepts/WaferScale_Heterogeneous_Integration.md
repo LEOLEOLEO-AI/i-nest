@@ -20,12 +20,14 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3D_IC_Stacking]]
+[[3D_Integrated_Chiplet_Stacking]]
 [[AnalogDomainCompression]]
 [[ChipletWaferInterconnectScaling]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]
-[[Chiplet_Interconnect]]
+[[chiplet interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Topology]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
@@ -60,6 +62,7 @@ Auto-extracted concept from raw material compilation.
 [[Second_Curve_Wafer_Industry_Platform]]
 [[TCC]]
 [[TCC_iNEST_Interconnect]]
+[[Through_Silicon_Via]]
 [[Wafer_Interconnect]]
 [[Wafer_Scale_Integration]]
 [[chiplet interconnect]]

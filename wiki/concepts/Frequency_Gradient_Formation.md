@@ -34,6 +34,8 @@ Auto-extracted concept from raw material compilation.
 [[AndersonLocalizationTopology]]
 [[Annealing_Based_Decoder]]
 [[AsymmetricStochasticInteractions]]
+[[AttentionLikeHebbianMechanism]]
+[[AttentionMap_DifferenceResidual]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

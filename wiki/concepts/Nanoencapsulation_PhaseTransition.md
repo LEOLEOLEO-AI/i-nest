@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[FlexibilityThreshold]]
 [[GradientBasedSpikeLearning]]
 [[HierarchicalReservoirDynamics]]
+[[Intelligence_Emergence]]
 [[MembranePotentialModulation]]
 [[MemristiveSynapticFatigue]]
 [[Meta_Residual_Learning]]
@@ -53,7 +54,9 @@ Auto-extracted concept from raw material compilation.
 [[ReservoirDynamics]]
 [[Reservoir_Computing]]
 [[RunawayAvalanche]]
+[[SDDE_Attractor_Emergence]]
 [[SNN]]
+[[SpikeTimingDependentUpdate]]
 [[Spiking_Neural_Network]]
 [[neuromorphic computing architecture]]
 

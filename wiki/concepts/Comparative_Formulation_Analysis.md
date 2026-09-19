@@ -48,6 +48,8 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalInterfaceBlock]]
 [[FunctionalInterfaceBlocks]]
 [[Heterogeneous_Integration]]
+[[Hysteretic_State_Encoding]]
+[[InNetwork_CST_Offload]]
 [[IntegratedSensingFusion]]
 [[IntegrationProspectsForVLSI]]
 [[Intelligence_Emergence]]

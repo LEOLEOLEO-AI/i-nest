@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[1M1T1R_SynapticNeuron]]
+[[20W_Brain_Inspired_Planning]]
 [[AstrocyteInspiredRepair]]
 [[Autonomous_Spiking_Dynamics]]
 [[Avoided_Criticality]]
@@ -35,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[Spike_Energy_Floor]]
 [[Spiking_Neural_Network]]
+[[SynapticReinforcementConsolidation]]
 [[Syncytial_Mesh]]
 [[Syncytial_Mesh_Model]]
 [[iNEST]]

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
 [[AI_Faculty_Forum_2026]]
 [[BigBrainCellularAxis]]
 [[Chiplet]]
@@ -27,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration]]
 [[Chiplet_Integration_Route]]
 [[ConsciousnessEngineeringLoop]]
+[[Cryogenic_Syndrome_Compression]]
 [[Environmental_Capability_Context]]
 [[FatalityDrivenRewiring]]
 [[Free_Energy_Principle]]
@@ -45,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[NoC]]
 [[NoC_SDI]]
 [[PacketRoutingOptimization]]

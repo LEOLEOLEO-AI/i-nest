@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[HighFrequency_Interconnect_Optimization]]
 [[InInterconnectMemory]]
 [[Interconnect_Routing]]
+[[IsolatedKVBandwidth]]
 [[LatencyCodedInterconnect]]
 [[Memory_Wall]]
 [[MeshReduce_U]]
@@ -56,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[SparsityAwareInterconnect]]
 [[TCC]]
 [[Topology_Encapsulation]]
+[[WideLink_NoC_Router]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

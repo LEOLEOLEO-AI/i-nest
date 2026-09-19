@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[20W_Brain_Inspired_Planning]]
 [[CorticalWaveRouting]]
 [[EventCameraActionRecognition]]
 [[EventCameraTemporalEncoding]]
@@ -34,14 +35,18 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_SNN]]
 [[SDI_SNN_Interconnect]]
+[[SDI_STDP]]
 [[SDI_STDP_Fusion]]
 [[SDI_iNEST]]
 [[SDI_iNEST_Interconnect]]
 [[SNN]]
 [[SNN_Topology]]
+[[STDP_Plasticity]]
 [[ST_SNN]]
 [[SpikeBasedInference]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
+[[TemporalBatchSynchronization]]
 [[iNEST]]
 [[iNEST_Interconnect]]
 

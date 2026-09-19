@@ -32,6 +32,8 @@ Auto-extracted concept from raw material compilation.
 [[AsymmetricStochasticInteractions]]
 [[AttentionLikeHebbianMechanism]]
 [[AttentionMap_DifferenceResidual]]
+[[Attention_ResidualCancellation]]
+[[Biological_Circuit_Formalization]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Minimal_Complete_Set]]

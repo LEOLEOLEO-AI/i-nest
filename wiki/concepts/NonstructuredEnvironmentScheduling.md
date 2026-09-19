@@ -33,6 +33,8 @@ Auto-extracted concept from raw material compilation.
 [[Active_Inference_Agent]]
 [[Agent_Workflow_Automation]]
 [[Analog_InMemory_Processing]]
+[[Backpropagating_Action_Potential]]
+[[Barrier_Hierarchy]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

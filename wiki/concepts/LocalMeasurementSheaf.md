@@ -69,8 +69,10 @@ Auto-extracted concept from raw material compilation.
 [[启示AGI之路_脑机制自下而上梳理_上部_5万字]]
 [[在网计算（In-Network Computing） (1)]]
 [[复杂度的计算 (1)]]
+[[学术前沿_北京大学团队推出革命性光子计算芯片：实现多功能神经网络重构]]
 [[智能涌现]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？_新课上线]]
 [[神经网络]]
 
 ## Sources

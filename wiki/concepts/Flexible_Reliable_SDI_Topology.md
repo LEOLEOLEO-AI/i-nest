@@ -25,6 +25,8 @@ Auto-extracted concept from raw material compilation.
 [[CLINKAsCarrierPrimitive]]
 [[Cache_Aware_Flow_Scheduling]]
 [[CavityMethodAnalysis]]
+[[Chemical_Bond_Effect]]
+[[ControlDrivenCriticalFluctuations]]
 [[Electronic_Crystal_Dynamics]]
 [[FPGA_Reconfigurability]]
 [[FluxAttachmentTopology]]

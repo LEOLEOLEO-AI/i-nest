@@ -37,9 +37,13 @@ Auto-extracted concept from raw material compilation.
 [[Amorphous_Amorphous_Transition]]
 [[AnisotropicGaussianPrimitives]]
 [[Avoided_Criticality]]
+[[Branch_Prediction_in_Pipelined_Processors]]
+[[Criticality]]
+[[Discrete_Event_Spike_Simulation]]
 [[Dynamical_State_Space]]
 [[FlexibilityThreshold]]
 [[SNN]]
+[[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

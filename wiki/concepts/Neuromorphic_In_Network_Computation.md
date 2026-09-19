@@ -24,10 +24,12 @@ Auto-extracted concept from raw material compilation.
 [[Continuous_Discrete_Compute_Gap]]
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[Event_Driven_Architecture]]
+[[FoveationGuidedTokenSelection]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
+[[SDI_Sparse_Dataflow_Interconnect]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

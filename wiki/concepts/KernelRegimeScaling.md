@@ -34,6 +34,8 @@ Auto-extracted concept from raw material compilation.
 [[CST计量仪]]
 [[C_elegansConnectomeAnalogy]]
 [[CausalEmergenceCondition]]
+[[causal emergence]]
+[[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
 [[Complexity_Emergent_Intelligence]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
@@ -54,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[NCL神经计算定律详解]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
+[[Neuromorphic_Computing]]
 [[Nonlinear_Dynamics_From_Topology]]
 [[Nonlinear_Gain]]
 [[Parallelized_Hierarchical_Connectome]]
@@ -61,12 +64,13 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroupIntelligence]]
 [[TCC]]
-[[causal emergence]]
 [[complex system]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

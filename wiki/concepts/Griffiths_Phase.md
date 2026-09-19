@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
 [[AIRA_NeuralArchSearch]]
+[[AI_Application_Scenario_Reconstruction]]
 [[AI_Driven_Architecture_Search]]
 [[AI_Faculty_Forum_2026]]
 [[Agile_Resilient_Defense_Ecosystem]]
@@ -32,7 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[CST_Spatiotemporal_Coefficient]]
 [[CausalEmergenceCondition]]
-[[Causal_Emergence]]
+[[causal emergence]]
 [[Causal_Emergence_Integration]]
 [[CeYIGMagnetoOpticalIsolator]]
 [[ChannelCountScaling]]
@@ -55,7 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[ThermallyDrivenSuperparamagnetReservoir]]
 [[Topological_Quantum_Error_Correction]]
-[[causal emergence]]
+[[TopologyDrivenSignalPropagation]]
 [[类脑芯片]]
 
 ## Sources

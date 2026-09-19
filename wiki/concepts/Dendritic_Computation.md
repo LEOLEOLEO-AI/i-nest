@@ -33,6 +33,8 @@ Auto-extracted concept from raw material compilation.
 [[EfficientDeepLearning]]
 [[EmergentIntelligence_Spacetime]]
 [[Heterogeneous_Inference_Division]]
+[[Heterogeneous_Integration]]
+[[HybridResistiveMemoryCIM]]
 [[InMateriaComputing]]
 [[Intelligence_Emergence]]
 [[Intelligent_Power_Management]]

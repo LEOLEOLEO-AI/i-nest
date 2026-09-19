@@ -34,16 +34,18 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]
 [[Chiplet_Integration_Route]]
-[[Chiplet_Interconnect]]
+[[chiplet interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[ComplexValuedSNN]]
 [[ComputeRelocationOverhead]]
+[[ConsciousnessEngineeringLoop]]
 [[DTGA]]
 [[Disordered_Frustrated_Dimer_Magnets]]
 [[DualSide_Routing_Layer]]
 [[ElectrochemicalSensingArray]]
 [[Environmental_Capability_Context]]
 [[EventDriven_Interconnect]]
+[[FiniteSizeCrossover]]
 [[Heterogeneous_Integration]]
 [[HodgkinHuxleyDynamics]]
 [[InNetworkRadarProcessing]]
@@ -56,6 +58,8 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Synapse]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
+[[NoC]]
 [[NoC_EventRouting]]
 [[SNN]]
 [[SpikeCommunicationCost]]
@@ -70,4 +74,4 @@ Auto-extracted concept from raw material compilation.
 - *(Explore connections to other concepts)*
 
 ## Merged From
-- NonHermitianTopology (merged 2026-08-25)
+- NonHermitian_Topology (merged 2026-08-25)

@@ -32,7 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityInducedTopology]]
 [[Criticality]]
 [[Generative_Graph_Models]]
-[[InNetworkComputing]]
+[[In_Network_Computing]]
 [[Interconnect_Routing]]
 [[JumpDiffusion_StochasticQuantization]]
 [[MantelTest_SignCorrection]]
@@ -40,12 +40,14 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[PhysicalReservoirInterconnect]]
-[[PhysicalReservoir]]
+[[Physical_Reservoir]]
 [[PlanarNetworkSimulation]]
 [[Reservoir_Computing]]
 [[Self_Organized_Criticality]]
 [[TCC]]
+[[ThermodynamicQuantumStateEvolution]]
 [[TopologyAwareTimescaleSeparation]]
+[[TumorMicroenvironmentTopology]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

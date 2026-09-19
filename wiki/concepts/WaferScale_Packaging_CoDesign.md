@@ -34,7 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[AdiabaticMultimodeBend]]
 [[AdvancedPackagingInterconnect]]
-[[AdvancedPackaging]]
+[[advanced packaging]]
 [[Analog_InMemory_Processing]]
 [[BackpropagationFreeLearning]]
 [[CST计量仪]]
@@ -54,12 +54,17 @@ Auto-extracted concept from raw material compilation.
 [[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]
 [[Network_Topology_Design]]
 [[Nishimori_Threshold]]
+[[Nonlinear_Gain]]
+[[OptomechanicalNonlinearity]]
 [[Packaging_CoDesign]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
+[[ScaleFreeTopology]]
 [[TCC]]
+[[advanced packaging]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

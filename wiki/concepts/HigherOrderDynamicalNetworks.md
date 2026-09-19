@@ -38,6 +38,8 @@ Auto-extracted concept from raw material compilation.
 [[AdditiveTopology_Embedding]]
 [[AdversarialRobustness]]
 [[AdversarialSensingResilience]]
+[[Agent_Workflow_Automation]]
+[[Air_Combat_Autonomy]]
 [[Complex_System_Theory]]
 [[Complexity_Emergence]]
 [[HiddenTopologyReveal]]

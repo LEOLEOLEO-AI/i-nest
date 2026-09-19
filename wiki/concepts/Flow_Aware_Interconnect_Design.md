@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]
 [[Complex_System_Theory]]
+[[Concepts-Theory — 全景导航 (Map of Content)]]
 [[DARPA_ERI]]
 [[DARPA_ERI_2_0_Framework]]
 [[Decoupled_Priors]]
@@ -61,6 +62,7 @@ Auto-extracted concept from raw material compilation.
 [[NCL神经计算定律详解]]
 [[NearSensorComputing]]
 [[Network_Topology_Design]]
+[[Neuromorphic_Computing]]
 [[PhotonicPackagingEfficiency]]
 [[TCC]]
 [[TopologicalDataCompression]]
@@ -71,6 +73,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST_Interconnect_Topology]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

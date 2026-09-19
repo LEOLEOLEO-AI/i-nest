@@ -33,6 +33,8 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Service_Orchestration]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[ChiralSymmetryClasses]]
+[[CommunicationAwareComputeRelocation]]
+[[Compact_Boson_Dynamics]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Interconnect_Topology]]

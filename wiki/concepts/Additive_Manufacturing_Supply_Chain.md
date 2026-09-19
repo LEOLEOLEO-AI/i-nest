@@ -21,6 +21,8 @@ Auto-extracted concept from raw material compilation.
 
 [[2_5D_PIM_Chiplet_Integration]]
 [[3d]]
+[[AI_Application_Scenario_Reconstruction]]
+[[AI_Driven_Power_Density_Scaling]]
 [[AnalogDomainCompression]]
 [[AnalogInMemoryComputing]]
 [[Analog_InMemory_Processing]]
@@ -31,7 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_Integration]]
-[[Chiplet_Interconnect]]
+[[chiplet interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Course_Based_FPGA_Prototyping]]
 [[Criticality]]

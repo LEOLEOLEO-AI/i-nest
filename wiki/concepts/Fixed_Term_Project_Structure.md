@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[20W_Brain_Inspired_Planning]]
 [[ANN_SNN_WeightSpaceGap]]
 [[ActiveDendriteSNN]]
 [[AdaptiveAsymmetricSurrogateGradient]]
@@ -46,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Planning_Architecture]]
 [[OpenSource_Neuromorphic_Framework]]
+[[RobustnessToNoiseInSNN]]
 [[SDI_Bond]]
 [[SDI_SNN]]
 [[SDI_SNN_Interconnect]]

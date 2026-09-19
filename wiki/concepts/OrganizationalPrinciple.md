@@ -22,7 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
+[[chiplet interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Decoupled_Priors]]
 [[DiagnosticReportFramework]]
@@ -44,6 +44,9 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Architecture]]
 [[Second_Curve_Wafer_Industry_Platform]]
 [[Software_Defined_Interconnect]]
+[[Software_Defined_Interconnect_Bond]]
+[[Software_Defined_Interconnect_bonding_mechanism]]
+[[SuperlinearGain]]
 [[TCC]]
 [[chiplet interconnect]]
 [[iNEST]]

@@ -20,12 +20,15 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Asynchronous_Circuit]]
 [[BioPlausiblePredictiveCoding]]
 [[BurstGatedRouting]]
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[Event_Driven_Architecture]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[FoveationGuidedTokenSelection]]
+[[In_Network_Neuromorphic]]
+[[In_Network_Neuromorphic_Scheduling]]
 [[In_Package_Neuromorphic_Integration]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

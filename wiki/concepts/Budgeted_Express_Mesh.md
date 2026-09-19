@@ -26,8 +26,13 @@ Auto-extracted concept from raw material compilation.
 [[3D_Integration]]
 [[3D_Stacking]]
 [[3D_Vertical_Interconnect]]
+[[3d]]
+[[4H_SiC_SubstrateProcessing]]
+[[AI_Application_Scenario_Reconstruction]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Stacking]]
+[[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[TCC]]
 

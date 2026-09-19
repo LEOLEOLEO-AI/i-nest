@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[IntegratedInformationFreeEnergyBridge]]
 [[LowRankPerturbation]]
 [[Neuromorphic_Computing]]
+[[NonKerrTravelingWaveEmergence]]
 [[Nonlinear_Gain]]
 [[OpenSource_Neuromorphic_Framework]]
 [[PersonalizedSNNTransfer]]
@@ -47,7 +48,9 @@ Auto-extracted concept from raw material compilation.
 [[ReSCom_Accelerator]]
 [[Recurrent_Network_Homeostasis]]
 [[SNN]]
+[[SNN_TCC_Integration]]
 [[Spiking_Neural_Network]]
+[[TCC]]
 [[iNEST]]
 
 ## Sources

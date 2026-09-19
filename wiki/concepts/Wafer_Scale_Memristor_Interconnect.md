@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[11_SDI节点接口规范与化合键定义_dup]]
+[[20W_Brain_Inspired_Planning]]
 [[AI_Faculty_Forum_2026]]
 [[BigBrainCellularAxis]]
 [[ChipletWaferInterconnectTopology]]
@@ -27,11 +28,12 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]
 [[Chiplet_Integration_Route]]
-[[Chiplet_Interconnect]]
+[[chiplet interconnect]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[CorticalWaveRouting]]
 [[CrossbarArrayVLSI]]
 [[CrossbarInterconnect]]
+[[CytoarchitectonicAxis]]
 [[DataDrivenCellularAxis]]
 [[Flexible_Spike_Routing]]
 [[Free_Energy_Principle]]

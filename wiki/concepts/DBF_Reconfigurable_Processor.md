@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[BarrierConditionedTrajectory]]
+[[Bond_Operation_Algebra]]
 [[Chemical_Bond_Operation_Algebra]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -30,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossbarInterconnect]]
 [[DBF_Processor]]
 [[Defense_Industrial_Base_Reshaping]]
+[[Dynamic_Communication_Reconfiguration]]
 [[EventDrivenAsync]]
 [[EventDrivenAsynchronousRouting]]
 [[Heterogeneous_Integration]]
@@ -39,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC]]
+[[One_Chip_Multi_Function]]
 [[Programmable_Interconnect_Capacitance]]
 [[TCC]]
 

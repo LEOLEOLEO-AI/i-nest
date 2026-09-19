@@ -22,6 +22,8 @@ Auto-extracted concept from raw material compilation.
 
 [[AtomicVaporNonlinearity]]
 [[CST_CoordinationMechanism]]
+[[CST_Intelligence_Emergence]]
+[[CST_Metric]]
 [[Complex_System_Theory]]
 [[Complexity_Emergence]]
 [[Contested_Prior_Resolution]]
@@ -48,7 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[OpticalNonlinearity]]
 [[PhysicalReservoirTransientDynamics]]
-[[PhysicalReservoir]]
+[[Physical_Reservoir]]
 [[PhysicalSubstrateReservoir]]
 [[ReservoirDynamics]]
 [[ReservoirEntropyEncoding]]

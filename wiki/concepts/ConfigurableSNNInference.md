@@ -35,6 +35,8 @@ Auto-extracted concept from raw material compilation.
 [[ComplexValuedSNN]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
+[[CoreComputationSubspace]]
+[[CulturalDisseminationDynamics]]
 [[DeeplySupervisedSpiking]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]

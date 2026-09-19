@@ -47,6 +47,8 @@ Auto-extracted concept from raw material compilation.
 [[Phase_Synchronization_Collective_Dynamics]]
 [[QuantumConvolutionalTopology]]
 [[RandomProjectionLandscapePreservation]]
+[[Selection_Theorems]]
+[[Semantic_Least_Energy_Principle]]
 [[TCC]]
 [[emergent computation]]
 [[iNEST]]

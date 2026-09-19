@@ -20,13 +20,15 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3D_Torus_Topology]]
+[[3d]]
 [[Brain_Scale_Parameter_Baseline]]
 [[ChipletOnWafer]]
 [[ChipletWaferInterconnectCoDesign]]
 [[ChipletWaferInterconnectScaling]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
+[[chiplet interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[CommunicationAsComputation]]
@@ -36,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Hard_Breakdown]]
 [[Heterogeneous_Integration]]
 [[Integrated_Wafer_Cooling]]
+[[InterWafer_SwarmX]]
 [[Interconnect_Topology]]
 [[Network_Topology_Design]]
 [[TCC]]

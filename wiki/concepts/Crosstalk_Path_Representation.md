@@ -31,10 +31,12 @@ Auto-extracted concept from raw material compilation.
 [[DynamicTopology]]
 [[Dynamic_Communication_Reconfiguration]]
 [[LowCostTrainingPipeline]]
+[[Memristive_Crossbar]]
 [[Memristor]]
 [[Memristor_Crossbar]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
+[[RandomWalk_Memristors]]
 [[TCC]]
 [[iNEST]]
 

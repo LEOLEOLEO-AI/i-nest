@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AINext_Initiative]]
+[[ANN_SNN_ConversionError]]
 [[ASIC_Dualism]]
 [[ActiveDendriteSNN]]
 [[Active_Inference_Agent]]
@@ -41,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Meta_Residual_Learning]]
 [[NonHermitianSpectralCorrelations]]
 [[ProjectiveMeasurementFeedback]]
+[[RecurrentSpikingSocialNetwork]]
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SDI_STDP_Fusion]]

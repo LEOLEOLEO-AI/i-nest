@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenWeightUpdate]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[FPGA_Accelerated_SNN]]
+[[FPGA_EventDriven_Verification]]
 [[GeometricNeuromorphicFusion]]
 [[GradientBasedLearningLocalization]]
 [[ImageToEventConversion]]
@@ -62,6 +63,7 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Temporal_Dynamics]]
 [[Spiking_Neural_Network]]
 [[SynapticReinforcementConsolidation]]
+[[Syncytial_Mesh_Model]]
 [[TCC]]
 [[iNEST]]
 

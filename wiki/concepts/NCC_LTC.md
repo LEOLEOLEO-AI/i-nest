@@ -22,7 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Driven_Power_Density_Scaling]]
 [[AI_Faculty_Forum_2026]]
-[[Advanced_Packaging]]
+[[advanced packaging]]
 [[Advanced_Packaging_for_Space]]
 [[AssociativeMemoryTopology]]
 [[Attention_Residuals]]
@@ -35,6 +35,8 @@ Auto-extracted concept from raw material compilation.
 [[CrossDomain_Integration]]
 [[DelayTolerantNetworkUAV]]
 [[Dynamic_Communication_Reconfiguration]]
+[[Ising_Machine]]
+[[Minimal_Complete_Principle]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]

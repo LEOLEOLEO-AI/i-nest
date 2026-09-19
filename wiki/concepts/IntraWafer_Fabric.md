@@ -22,6 +22,8 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Driven_Power_Density_Scaling]]
 [[AI_Faculty_Forum_2026]]
+[[advanced packaging]]
+[[Advanced_Packaging_for_Space]]
 [[Bipartite_Interconnect]]
 [[Bipartite_Interconnect_Design]]
 [[Interconnect_Routing]]
@@ -33,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
 [[Package_Level_Topology]]
+[[Pseudofractal_Web]]
 [[ScalableNeuromorphicTopology]]
 [[TCC]]
 [[TopologicalDataCompression]]

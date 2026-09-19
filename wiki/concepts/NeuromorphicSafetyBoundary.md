@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[FPGA_Neuromorphic_Acceleration]]
 [[FPGA_Neuromorphic_Architectures]]
+[[FixedOverheadCost]]
 [[HippocampalNeocorticalIntelligence]]
 [[Intelligence_Emergence]]
 [[Memristive_STDP]]
@@ -72,6 +73,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Neuromorphic_Integration]]
 [[complex system]]
 [[iNEST]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 [[类脑芯片]]
 

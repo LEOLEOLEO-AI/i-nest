@@ -47,12 +47,14 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Topology]]
 [[Sequence_First_Processing]]
 [[SparseCodingEfficiency]]
+[[Spike_Driven_Intelligence]]
 [[Spike_Event_Driven_Attention]]
 [[SpikingNeuralTransformer]]
 [[Spiking_Neural_Network]]
 [[Spinal_CPG_Coordinated_Control]]
 [[SynapticConsolidation]]
 [[TemporalAdversarialPerturbation]]
+[[TemporalCodingForPointClouds]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

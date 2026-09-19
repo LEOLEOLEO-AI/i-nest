@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AlternativeBridgingModels]]
 [[AnomalousSpinTransport]]
+[[Bidirectional_Temporal_Enhancement]]
 [[CST_Exponential_Gain]]
 [[Complex_System_Theory]]
 [[Contested_Prior_Resolution]]
@@ -31,9 +32,10 @@ Auto-extracted concept from raw material compilation.
 [[DissipativeQuantumReservoir]]
 [[Emergent_Reservoir_Topology]]
 [[FerroelectricSemiconductorReservoir]]
+[[Ferroelectric_Devices]]
 [[GroupInteractionThreshold]]
 [[InNetworkNeuromorphicSimulation]]
-[[InNetworkNeuromorphic]]
+[[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic]]
 [[Intelligence_Emergence]]
 [[LatencyCoding]]
@@ -53,8 +55,10 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[Spike_Timing_Dependent_Plasticity]]
+[[SpikingTopologyPreservation]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
+[[TopologyPreservation]]
 [[iNEST]]
 
 ## Sources

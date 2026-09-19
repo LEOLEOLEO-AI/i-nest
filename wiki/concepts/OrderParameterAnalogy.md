@@ -48,6 +48,8 @@ Auto-extracted concept from raw material compilation.
 [[DrivenCriticalityOptimalityTradeoff]]
 [[EnergyEfficientSNN]]
 [[EventBasedMotionDeblurring]]
+[[EventDrivenMotionDeblurring]]
+[[Event_Driven_Dataflow_Control]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Self_Organized_Criticality]]

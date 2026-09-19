@@ -29,6 +29,8 @@ Auto-extracted concept from raw material compilation.
 [[AtomicVaporNonlinearity]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[CST_CoordinationMechanism]]
+[[CST_Intelligence_Emergence]]
+[[CST_Metric]]
 [[Complex_System_Theory]]
 [[Complexity_Emergence]]
 [[Contested_Prior_Resolution]]

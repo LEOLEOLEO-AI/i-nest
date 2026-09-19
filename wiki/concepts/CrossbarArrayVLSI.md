@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[PacketRoutingOptimization]]
 [[SDI_Bond]]
 [[SDI_STDP]]
@@ -60,7 +61,9 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect_Memristor]]
 [[Wafer_Scale_Memristor_Interconnect]]
 [[Wafer_Scale_Neuromorphic]]
+[[Wafer_Scale_Neuromorphic_Integration]]
 [[iNEST]]
+[[Γst_Revision]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

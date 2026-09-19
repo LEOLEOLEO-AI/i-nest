@@ -38,6 +38,8 @@ Auto-extracted concept from raw material compilation.
 [[ClassicalQuantum_Query_Benchmark]]
 [[CoPackagedOptics]]
 [[Cognitive_Relapse_Architecture]]
+[[CriticalDataThreshold]]
+[[DTGA]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Synaptic_Plasticity]]

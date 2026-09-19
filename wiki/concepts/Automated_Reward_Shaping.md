@@ -33,6 +33,8 @@ Auto-extracted concept from raw material compilation.
 [[AnytimePointCloudRecognition]]
 [[Avoided_Criticality]]
 [[BayesianDomainEvolution]]
+[[BehavioralFeedbackLoop]]
+[[BioPlausibleDisturbanceObserver]]
 [[BrainBodyResonance]]
 [[CascadedAdaptiveCombiners]]
 [[Catastrophic_Forgetting_Mitigation]]

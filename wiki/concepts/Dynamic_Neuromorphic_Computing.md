@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[Complex_System_Theory]]
 [[ContinualLearningOnNeuromorphic]]
+[[DVS_Event_Camera]]
 [[EventDrivenAutoregression]]
 [[EventDrivenDefenseMechanism]]
 [[EventDrivenRiskAssessment]]
@@ -34,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicStatusAwareness]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Hardware_Paradigm]]
+[[Spiking_Mamba_Encoder]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

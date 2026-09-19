@@ -48,6 +48,8 @@ Auto-extracted concept from raw material compilation.
 [[AtomicGeometryToElectronicTopologyMapping]]
 [[AttractorNeuralNetwork]]
 [[AutoAssociativeMemoryRobustness]]
+[[Autonomous_Unmanned_Combat_Coordination]]
+[[BCM滑动阈值]]
 [[CirculateFiringNeuron]]
 [[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]

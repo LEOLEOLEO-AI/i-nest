@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Driven_Architecture_Search]]
 [[AI_Faculty_Forum_2026]]
 [[AI_Forum_Demo_Narrative]]
+[[AssociativeMemoryTopology]]
 [[Baseline_Draft_Status]]
 [[CellEmergence]]
 [[Complex_System_Theory]]
@@ -49,7 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeDrivenDataAssociation]]
 [[SpikingNeuralNetworkTopologyMapping]]
 [[SpikingNeuralNetworkTopology]]
-[[SpikingNeuralNetwork]]
+[[Spiking_Neural_Network]]
 [[SpikingTopologyAnalysis]]
 [[SpikingTopologyMapping]]
 [[Spiking_Neural_Network]]
@@ -57,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC_SpikingIntegration]]
 [[TopologyDrivenSpiking]]
 [[Topology_Centric_Spiking]]
+[[Topology_Centric_Spiking_Architecture]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

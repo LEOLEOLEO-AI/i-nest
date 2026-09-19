@@ -52,6 +52,8 @@ Auto-extracted concept from raw material compilation.
 [[JunctionCenteredFramework]]
 [[MachineLearningPotential]]
 [[Memristive_Topology]]
+[[Memristor]]
+[[Memristor_Synapse]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[Microbiome_Immune_Endocrine_Interplay]]
 [[NCL神经计算定律详解]]
@@ -62,6 +64,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[QuantumInspiredHarmonySearch]]
 [[RecursiveSelfReferentialArchitecture]]
+[[RenormalizationGroup_DeviceNonlinearity]]
 [[Reservoir_Computing]]
 [[TCC]]
 [[complex system]]
@@ -69,6 +72,7 @@ Auto-extracted concept from raw material compilation.
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

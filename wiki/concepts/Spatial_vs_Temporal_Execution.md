@@ -27,8 +27,12 @@ Auto-extracted concept from raw material compilation.
 [[AgenticServiceTopology]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[AllParallel_SpikeBased_Computing]]
+[[AssociativeMemoryTopology]]
+[[EventDrivenRiskAssessment]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
+[[SOC]]
+[[Spiking_Neural_Network]]
 [[TCC]]
 
 ## Sources

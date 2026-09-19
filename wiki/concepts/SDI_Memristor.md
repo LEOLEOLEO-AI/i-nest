@@ -40,10 +40,16 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[SDI_Bond]]
 [[SDI_TCC_iNEST_Interconnect]]
+[[SDSoW]]
+[[SDSoW_Architecture]]
+[[Second_Curve_Industry_Platform]]
 [[Spatiotemporal_Synergy]]
+[[TCC]]
+[[TCC_iNEST_Interconnect]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
 [[iNEST]]
+[[iNEST_Interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
 [[AI_Faculty_Forum_2026]]
 [[Analog_Weight_Storage]]
 [[Attention_Residuals]]
@@ -56,7 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[PhotoIontronicSynapse]]
-[[PhysicalReservoir]]
+[[Physical_Reservoir]]
 [[ReproducibleReservoirComputing]]
 [[Reservoir_Computing]]
 [[Residual_Connection_Removal]]
@@ -66,6 +67,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Architecture]]
 [[STDP_Plasticity]]
 [[Self_Organized_Criticality]]
+[[SparseTemporalEncoding]]
 [[Sub_Nyquist_Waveform_Reconstruction]]
 [[SuperparamagneticSwitchingRate]]
 [[Synaptic_Plasticity]]

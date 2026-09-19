@@ -55,6 +55,8 @@ Auto-extracted concept from raw material compilation.
 [[Quadratic_Integrate_and_Fire]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
+[[SpikeEmbedding]]
+[[SpikformerV2_Architecture]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]

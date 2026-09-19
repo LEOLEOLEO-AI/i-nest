@@ -64,7 +64,9 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TemporalEchoMemory]]
 [[ThermallyDrivenSuperparamagnetReservoir]]
+[[Topology_Driven_Interconnect]]
 [[analog computation]]
+[[iNEST 论文矩阵计划]]
 [[iNEST]]
 
 ## Sources

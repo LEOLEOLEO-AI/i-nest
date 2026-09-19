@@ -34,7 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Communication_Reconfiguration]]
 [[EquilibriumTreePacking]]
 [[EvolutionaryTopologySearch]]
-[[FloquetDriving]]
+[[Floquet_Driving]]
 [[GateModelHardware]]
 [[GateModelQuantumOptimization]]
 [[HeterogeneousSiNIntegration]]
@@ -47,6 +47,10 @@ Auto-extracted concept from raw material compilation.
 [[NoC]]
 [[NoC_Chiplet_Integration]]
 [[NoC_EventRouting]]
+[[NoC_SDI]]
+[[NoC_SDI_Integration]]
+[[SDI_Bond]]
+[[SparseTemporalEncoding]]
 [[TCC]]
 
 ## Sources

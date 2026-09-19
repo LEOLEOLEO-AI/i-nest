@@ -29,6 +29,8 @@ Auto-extracted concept from raw material compilation.
 [[Avoided_Criticality]]
 [[BioPlausibleDisturbanceObserver]]
 [[BurstTemporalPlasticity]]
+[[Catastrophic_Forgetting_Mitigation]]
+[[Contested_Priors_Architecture]]
 [[Criticality]]
 [[EnsembleSparsity]]
 [[FPGA_Neuromorphic_Acceleration]]

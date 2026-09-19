@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[20W_Brain_Inspired_Planning]]
 [[3D_Torus_6_Degree]]
 [[3d]]
 [[AIRA_NeuralArchSearch]]
@@ -46,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[DualSided_Routing_Resource]]
 [[ElectrochemicalSensingArray]]
 [[EventCameraActionRecognition]]
+[[EventDriven_Interconnect]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[LossSpikeMechanism]]

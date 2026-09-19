@@ -34,6 +34,8 @@ Auto-extracted concept from raw material compilation.
 [[ComputationalProcessReuse]]
 [[Critical_Region_Extension]]
 [[CrossLingualIdiomGraph]]
+[[DiluteDipolarNetwork]]
+[[EmergentSwarmTopology]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]

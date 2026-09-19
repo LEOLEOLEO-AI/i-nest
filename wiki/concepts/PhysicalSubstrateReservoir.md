@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[BigBrainCellularAxis]]
+[[CST计量仪]]
 [[Complex_Network_Brain_Inspired_Computing]]
 [[Complex_System_Theory]]
 [[Complexity_Emergence]]
@@ -61,6 +62,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[ScalableNeuromorphicTopology]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[Wafer_Scale_Integration]]
@@ -71,6 +73,7 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[emerging CMOS memristor]]
 [[iNEST]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 [[类脑芯片]]
 

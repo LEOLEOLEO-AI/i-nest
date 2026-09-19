@@ -4,7 +4,7 @@
 **Total**: 15 recommendations
 
 ### 1. [HIGH] Evolution Item
-[pipeline_fix] Pipeline zero-paper alert: API connectivity check (出现 1 次)
+[pipeline_fix] Pipeline zero-paper alert: API connectivity check (出现 3 次)
 **Action**: Recent runs with zero new papers: 6
 
 ### 2. [MEDIUM] Hypothesis Test
@@ -36,12 +36,12 @@ H10: TCC×iNEST: 脑连接组拓扑模式可启发晶圆级NoC最优拓扑设计
 **Action**: Design experiment to test hypothesis H10
 
 ### 9. [MEDIUM] Evolution Item
-[git_hygiene] Git hygiene: 113 uncommitted changes (出现 52 次)
+[git_hygiene] Git hygiene: 5995 uncommitted changes (出现 54 次)
 **Action**: Commit or review outstanding changes.
 
 ### 10. [LOW] Orphan Concepts
-1894 orphan concepts with no incoming links
-**Action**: Link these concepts: 00_ADR_决策记录, 2025年10月11号 日记, 2026新年巨献_追问大模型智能, 400篇综述文献，认知神经科学到自主智能体的记忆系统统一综述, 8State_3Bit_Storage, 9位院士12位专家联合撰文：智能计算的新进展、挑战与未来_Science合作期刊, AIInnovationPlatform, AI_Infrastructure_Commercialization, AI_Material_Design_Production_Gap, AI_Principal
+1783 orphan concepts with no incoming links
+**Action**: Link these concepts: 00_ADR_决策记录, 2025年10月11号 日记, 2026新年巨献_追问大模型智能, 400篇综述文献，认知神经科学到自主智能体的记忆系统统一综述, 9位院士12位专家联合撰文：智能计算的新进展、挑战与未来_Science合作期刊, AIInnovationPlatform, AI_Infrastructure_Commercialization, AI_Material_Design_Production_Gap, AI_Principal, Academic_Integrity_Assessment
 
 ### 11. [LOW] Recent Output
 Recent: 09_Delivery_Validation (0d ago)

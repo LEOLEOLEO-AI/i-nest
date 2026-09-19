@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]
 [[Chiplet_Integration_Route]]
+[[CommunicationHeterogeneity]]
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[DistinctReentrantPhases]]
@@ -64,6 +65,7 @@ Auto-extracted concept from raw material compilation.
 [[OptimalRepresentations]]
 [[SDI_Bond]]
 [[SDI_Standard_Review]]
+[[Spiking_Neural_Network]]
 [[TCC]]
 [[complex system]]
 [[iNEST]]
@@ -74,6 +76,7 @@ Auto-extracted concept from raw material compilation.
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

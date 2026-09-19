@@ -47,6 +47,8 @@ Auto-extracted concept from raw material compilation.
 [[Crystallized_Neural_Manifolds]]
 [[DAGGER_Algorithm]]
 [[DistributedInference]]
+[[HierarchicalReservoirDynamics]]
+[[ImmuneMicrobiomeFeedbackLoop]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]

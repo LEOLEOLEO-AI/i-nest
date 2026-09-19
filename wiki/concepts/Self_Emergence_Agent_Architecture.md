@@ -20,13 +20,20 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3D_Heterogeneous_Integration]]
 [[3D_Integrated_Chiplet_Stacking]]
+[[3d]]
 [[AI_Assisted_Energy_Optimization]]
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Stacking]]
 [[Collective_State_Convergence]]
 [[Critical_Region_Extension]]
 [[Data_Debiasing_Techniques]]
 [[EmergentTaskDecomposition]]
+[[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[MeasurementEfficientProtocol]]
 [[SOC]]
 [[TCC]]
 [[iNEST]]

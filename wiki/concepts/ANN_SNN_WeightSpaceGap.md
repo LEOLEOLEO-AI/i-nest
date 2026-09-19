@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[20W_Brain_Inspired_Planning]]
 [[AINext_Initiative]]
 [[AcousticAnomalyDetection]]
 [[ActiveDendriteSNN]]
@@ -31,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[BulletTrainScheduling]]
 [[BurstTemporalPlasticity]]
 [[Catastrophic_Forgetting_Mitigation]]
+[[Contested_Priors_Architecture]]
 [[CriticalityBasedClassification]]
 [[Criticality]]
 [[CrossEntityPreemptiveWarning]]

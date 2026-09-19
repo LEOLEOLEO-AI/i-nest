@@ -51,6 +51,8 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[NonreciprocalQuasiperiodicLattice]]
+[[OpenSource_Neuromorphic_Framework]]
+[[PerturbationSpaceTrajectory]]
 [[RandomOptimizationEnsemble]]
 [[Real_Time_Neuromorphic_Constraint_Satisfaction]]
 [[RecurrentOscillatoryComputation]]

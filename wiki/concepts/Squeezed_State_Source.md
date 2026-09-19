@@ -24,11 +24,16 @@ Auto-extracted concept from raw material compilation.
 [[Complexity_Emergent_Intelligence]]
 [[Constructed_Reality_Interconnect]]
 [[Defense_Industrial_Base_Reshaping]]
+[[Emergent_Intelligence]]
 [[Fixed_Recurrent_Network]]
+[[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[Gaussian_Boson_Sampling]]
+[[Intelligence_Emergence]]
+[[Mesoscale_Physical_Computing_Framework]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
+[[SDSoW_Strategic_Planning]]
 [[iNEST]]
 
 ## Sources

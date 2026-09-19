@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Application_Scenario_Reconstruction]]
 [[Active_Inference_Topology]]
 [[AdaptiveCompetingInteractions]]
 [[Analog_InMemory_Processing]]
@@ -32,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[BranchingRatioControl]]
 [[BranchingRatio]]
 [[CavityMethodAnalysis]]
+[[Cognitive_Relapse_Architecture]]
 [[DTGA]]
 [[Free_Energy_Topology_Mapping]]
 [[MetaHardwareAbstraction]]

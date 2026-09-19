@@ -20,12 +20,14 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[20W_Brain_Inspired_Planning]]
 [[AI_Faculty_Forum_2026]]
 [[AdaptiveFlexibilityThreshold]]
 [[Adaptive_Deep_Brain_Stimulation]]
 [[Complex_System_Theory]]
 [[DARPA_ProjectManager_Model]]
 [[ErrorSuppressedPipeline]]
+[[FlexibilityThreshold]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[NeuromorphicStatusAwareness]]
@@ -37,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[TCC_Neuromorphic_Integration]]
+[[TopologicalNeuromorphicPackaging]]
 [[iNEST]]
 
 ## Sources

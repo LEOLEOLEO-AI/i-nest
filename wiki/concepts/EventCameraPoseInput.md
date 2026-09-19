@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[20W_Brain_Inspired_Planning]]
 [[AINext_Initiative]]
 [[ActiveDendriteSNN]]
 [[AdaptiveDeltaPulseFrequencyEncoding]]
@@ -50,10 +51,13 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Oncological_Digital_Twin]]
 [[Personalised_Strategy_Optimisation]]
+[[SDI_Bond]]
+[[SDI_STDP]]
 [[SDI_STDP_Fusion]]
 [[SNN]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]
+[[SpikeBasedInference]]
 [[SpikeEncoding]]
 [[SpikeTimingGradientPropagation]]
 [[SpikeTimingGradient]]

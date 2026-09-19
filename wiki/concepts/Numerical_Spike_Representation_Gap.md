@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[20W_Brain_Inspired_Planning]]
 [[ANN_SNN_Representation_Gap]]
 [[ANN_to_SNN_Conversion_Error_Amplification]]
 [[AcousticAnomalyDetection]]
@@ -31,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveAsymmetricSurrogateGradients]]
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[AdaptiveFlexibilityThreshold]]
+[[AdaptiveFrequencyResonateAndFire]]
 [[FlexibilityThreshold]]
 [[SNN]]
 [[Spiking_Neural_Network]]

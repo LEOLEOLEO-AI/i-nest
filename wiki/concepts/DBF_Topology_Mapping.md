@@ -21,7 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[4H_SiC_SubstrateProcessing]]
-[[Advanced_Packaging]]
+[[advanced packaging]]
 [[Advanced_Packaging_for_Space]]
 [[Bond_Operation_Algebra]]
 [[CLINKAsCarrierPrimitive]]
@@ -31,6 +31,8 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_NoC_Fabric]]
 [[Chiplet_Stacking]]
+[[CommunicationAsComputation]]
+[[CongestionAwareNoCPlacement]]
 [[DBF_Processor]]
 [[FPGA_NeuromorphicMapping]]
 [[GPU_Bottleneck_Relief]]
@@ -44,7 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_NPU_NoC_Integration]]
 [[TCC]]
-[[TopologyCentricComputing]]
+[[Topology_Centric_Computing]]
 [[Topology_Centric_Computing]]
 [[WaferScaleTopologyCentricComputing]]
 [[advanced packaging]]

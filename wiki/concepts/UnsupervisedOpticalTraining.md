@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AdaptiveFrequencyResonateFire]]
 [[AdaptiveLocalLearning]]
 [[AdaptiveSTDP]]
 [[AdaptiveSpeechToSpikeEncoding]]
@@ -56,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
 [[TemporalLearning]]
+[[Temporal_Computing_Paradigm]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

@@ -21,13 +21,18 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[CriticalityInducedTopology]]
+[[Criticality]]
 [[ErrorSuppressedPipeline]]
 [[Generative_Graph_Models]]
+[[Interconnect_Topology]]
+[[Interconnect_Topology_Embedding]]
+[[MantelTest_SignCorrection]]
 [[Molecular_Property_Prediction]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
 [[Reservoir_Computing]]
+[[Self_Organized_Criticality]]
 [[quantum reservoir computing]]
 [[reservoir computing architecture]]
 

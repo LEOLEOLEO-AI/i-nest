@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[CascadedAdaptiveCombiners]]
 [[ClosedLoopNeuromorphicControl]]
 [[CollectiveDynamics]]
+[[Discrete_Event_Spike_Simulation]]
 [[ErrorAmplificationLimits]]
 [[EventDriven_AsyncCircuit]]
 [[LatencyGradientDescent]]
@@ -36,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Technology_Disparity_Offset]]
 [[TemporalLearning]]
 [[Temporal_Computing_Paradigm]]
+[[WaveBasedComputation]]
 [[iNEST]]
 
 ## Sources

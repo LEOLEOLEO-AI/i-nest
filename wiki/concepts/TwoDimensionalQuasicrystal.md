@@ -38,6 +38,8 @@ Auto-extracted concept from raw material compilation.
 [[Confinement]]
 [[ConstraintDrivenOptimization]]
 [[ControlDrivenCriticalFluctuations]]
+[[ControlTheoreticTopology]]
+[[CouplingMatrixRecovery]]
 [[Critical_Region_Extension]]
 [[CubicLatticeInterconnect]]
 [[DelayTolerantNetworkUAV]]

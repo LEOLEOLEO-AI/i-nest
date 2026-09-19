@@ -21,8 +21,10 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_FullSpectrum_Strategy]]
 [[Active_Inference_Agent]]
+[[Automated_Assessment_Framework]]
 [[BayesianDomainEvolution]]
 [[BehavioralFeedbackLoop]]
+[[BoseCondensateAnalogy]]
 [[Brain_Connectome]]
 [[C_elegansConnectomeAnalogy]]
 [[ChaoticAttractorTopology]]

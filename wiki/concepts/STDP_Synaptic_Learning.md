@@ -22,11 +22,13 @@ Auto-extracted concept from raw material compilation.
 
 [[Bidirectional_Temporal_Enhancement]]
 [[DeeplySupervisedSpiking]]
+[[DiscreteSTDP]]
 [[FatigueSTDP]]
 [[Memristive_STDP]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
+[[PhaseLockedTopologyMapping]]
 [[Quadratic_Integrate_and_Fire]]
 [[Quadratic_Integrate_and_Fire_Neuron]]
 [[QuantumDeeplySupervisedSpiking]]

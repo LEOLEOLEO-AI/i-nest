@@ -34,6 +34,8 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[BurstSuppressionMechanism]]
 [[BurstSuppression]]
+[[ContinualLearningOnNeuromorphic]]
+[[ContinuousControlConversion]]
 [[Criticality]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]

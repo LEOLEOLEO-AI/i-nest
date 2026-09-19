@@ -34,12 +34,13 @@ Auto-extracted concept from raw material compilation.
 [[Dendritic_In_Context_Learning]]
 [[DiscreteSTDP]]
 [[Dynamic_Expert_Fusion]]
+[[EventDrivenFunctionalConnectivity]]
 [[ExplainableEnergyAI]]
 [[Ferroelectric_Devices]]
 [[GCML_Cognitive_Map]]
 [[ITP_STDP]]
 [[InNetworkNeuromorphicSimulation]]
-[[InNetworkNeuromorphic]]
+[[In_Network_Neuromorphic]]
 [[In_Context_Learning]]
 [[In_Network_Neuromorphic]]
 [[Intelligence_Emergence]]
@@ -68,6 +69,7 @@ Auto-extracted concept from raw material compilation.
 [[TemporalLearning]]
 [[TimeToFirstSpikeEncoding]]
 [[UniversalIntelligence_Emergence]]
+[[Universal_Threshold_Evidence_Requirement]]
 [[iNEST]]
 
 ## Sources

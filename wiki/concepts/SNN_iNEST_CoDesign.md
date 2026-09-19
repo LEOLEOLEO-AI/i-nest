@@ -40,7 +40,10 @@ Auto-extracted concept from raw material compilation.
 [[SNN_iNEST]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
+[[ST_SNN]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
+[[TemporalDynamicsModeling]]
 [[iNEST]]
 
 ## Sources

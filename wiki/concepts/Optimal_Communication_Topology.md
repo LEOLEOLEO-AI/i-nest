@@ -24,9 +24,10 @@ Auto-extracted concept from raw material compilation.
 [[11_SDI节点接口规范与化合键定义_dup]]
 [[4H_SiC_SubstrateProcessing]]
 [[6万+辛顿2025年度全景实录深读｜真正的智能与硅基智能的非对称演进]]
+[[AI-ML — 全景导航 (Map of Content)]]
 [[AI_Application_Scenario_Reconstruction]]
 [[AdvancedPackagingInterconnect]]
-[[AdvancedPackaging]]
+[[advanced packaging]]
 [[AllParallel_SpikeBased_Computing]]
 [[Bioavailability_Enhancement]]
 [[CST_SynergisticCoordination]]
@@ -36,9 +37,11 @@ Auto-extracted concept from raw material compilation.
 [[LossSpikeMechanism]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]
+[[SDI_Compound_Bond]]
 [[SDI节点接口规范与化合键定义]]
 [[Spiking_Neural_Network]]
 [[TCC]]
+[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

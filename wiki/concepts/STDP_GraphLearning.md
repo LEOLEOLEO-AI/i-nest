@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AnisotropicGaussianPrimitives]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BioInspiredSequenceLearning]]
 [[DeeplySupervisedSpiking]]
@@ -29,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[IntrinsicTimingSTDP]]
 [[Learning_Rule_Comparison]]
 [[Memristive_STDP]]
+[[MultiObjectiveSNN]]
 [[NetworkDynamicalStabilization]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
@@ -43,9 +45,11 @@ Auto-extracted concept from raw material compilation.
 [[SDI_STDP_Fusion]]
 [[SDI_STDP_Integration]]
 [[SDI_STDP_Rule]]
+[[SNN]]
 [[STDP_Integration]]
 [[STDP_MemristiveLearning]]
 [[STDP_Plasticity]]
+[[STDP_Topology]]
 [[STDP_Topology_Integration]]
 [[STDP_iNEST]]
 [[Spike_Timing_Dependent_Plasticity]]

@@ -20,24 +20,26 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[3D_Airborne_Connectivity_Characterization]]
 [[3d]]
 [[Additive_Manufacturing_Defense_Trinity]]
 [[Brain_Connectome]]
 [[C_elegansConnectomeAnalogy]]
-[[Causal_Emergence]]
+[[causal emergence]]
+[[Complex_System_Theory]]
 [[ConnectomeComputationBasis]]
 [[Connectome]]
 [[Crystallized_Neural_Manifolds]]
 [[DataProvenanceIntegrity]]
 [[InNetworkNeuromorphicSimulation]]
-[[InNetworkNeuromorphic]]
+[[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[TCC]]
-[[causal emergence]]
+[[TinySubstrateEmergence]]
 [[iNEST]]
 
 ## Sources

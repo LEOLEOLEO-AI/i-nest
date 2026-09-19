@@ -36,6 +36,8 @@ Auto-extracted concept from raw material compilation.
 [[Direct_Training_Spiking_Neural_Networks]]
 [[DualModeSNNConventionalInference]]
 [[EarlyVisualCortexAliasing]]
+[[ElectronicBurstingNeuron]]
+[[EnergyEfficientNeuromorphic]]
 [[EventBasedMotionDeblurring]]
 [[FPGA_SNN_Inference]]
 [[In_Network_Neuromorphic]]

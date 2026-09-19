@@ -34,10 +34,13 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Memristor]]
 [[Memristor_Synapse]]
+[[Metastable_State_Hierarchy]]
 [[NegotiationAwareRouting]]
 [[Network_Topology_Design]]
 [[NeuromorphicHardwareTrojan]]
+[[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
+[[Order_Flexibility_Duality]]
 [[iNEST]]
 
 ## Sources

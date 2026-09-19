@@ -30,6 +30,8 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_ProjectManager_Model]]
 [[Deep_Network_Architecture_Invariant]]
 [[DiagnosticReportFramework]]
+[[Flow_Aware_Interconnect_Design]]
+[[GradientFreeTraining]]
 [[TCC]]
 [[complex system]]
 [[iNEST]]

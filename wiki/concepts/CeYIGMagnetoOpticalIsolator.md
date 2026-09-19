@@ -49,8 +49,10 @@ Auto-extracted concept from raw material compilation.
 [[NonEquilibriumUniversality]]
 [[OpportunisticRouting]]
 [[OpticallyWritableAtomicVaporMemory]]
+[[QueryComplexityScaling]]
 [[RoutingBasedComputation]]
 [[TCC]]
+[[TopologicalDataCompression]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

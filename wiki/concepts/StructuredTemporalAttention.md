@@ -49,9 +49,11 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[SparseCodingEfficiency]]
 [[Spike_Event_Driven_Attention]]
+[[SpikingNeuralImplementation]]
 [[SpikingNeuralPolicies]]
 [[Spiking_Neural_Network]]
 [[TemporalAdversarialPerturbation]]
+[[TemporalCodingForPointClouds]]
 [[TemporalSparsityExploitation]]
 
 ## Sources

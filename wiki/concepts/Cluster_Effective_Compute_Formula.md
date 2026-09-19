@@ -20,6 +20,8 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[4H_SiC_SubstrateProcessing]]
+[[AI_Faculty_Forum_2026]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
@@ -43,7 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[ThreeLayerArchitecture]]
 [[TopologyAwareTaskScheduling]]
-[[TopologyCentricComputing]]
+[[Topology_Centric_Computing]]
 [[Topology_Centric_Computing]]
 [[WaferScaleInterconnectAlgebra]]
 [[WaferScaleTopologyCentricComputing]]

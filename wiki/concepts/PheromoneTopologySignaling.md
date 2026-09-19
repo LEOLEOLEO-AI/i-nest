@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveFunctionalTopology]]
 [[AdjointWaveControl]]
 [[Cache_Aware_Flow_Scheduling]]
+[[CavityMethodAnalysis]]
 [[Complex_System_Theory]]
 [[DelayTolerantNetworkUAV]]
 [[FPGA_Reconfigurability]]
@@ -54,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologyAwarePhotonicInterconnect]]
 [[TopologyGradientSignal]]
+[[VectorFlowField]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

@@ -38,10 +38,14 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[MicroRouter_Embedding]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
+[[NoC]]
 [[NonHermitian_Topology]]
 [[Package_Level_Topology]]
+[[Packaging_Aware_NoC_Design]]
 [[RoutabilityDrivenFloorplanning]]
 [[TCC]]
+[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

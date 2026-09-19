@@ -36,8 +36,10 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[SNN_HighLevel_DesignTraining]]
 [[ST_SNN]]
+[[Spiking_Mamba_Encoder]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
+[[iNEST_Neuromorphic_Integration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -38,12 +38,14 @@ Auto-extracted concept from raw material compilation.
 [[GeneralIntelligenceSubstrate]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
+[[Liquid_Topological_Generative_Computing]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
 [[NoC]]
 [[OpticallyWritableAtomicVaporMemory]]
 [[P_Paradigm]]
+[[SparseTemporalEncoding]]
 [[TopologicalDataCompression]]
 
 ## Sources

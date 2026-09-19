@@ -20,9 +20,10 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Chemical_Bond_Effect]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
+[[chiplet interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[CommunicationAwareComputeRelocation]]
 [[CorticalTypeDiversity]]
@@ -42,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[SDSoW_Reconfigurable_Network]]
+[[ScribeLine_Metal_Routing]]
 [[System_Level_Utility_Control]]
 [[TCC]]
 [[Wafer_Scale_Integration]]

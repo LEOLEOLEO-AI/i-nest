@@ -32,6 +32,8 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]
 [[OpenSource_Neuromorphic_Framework]]
+[[Primitive_Taxonomy]]
+[[SDI_iNEST_Interconnect]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[iNEST]]

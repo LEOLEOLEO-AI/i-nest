@@ -38,6 +38,8 @@ Auto-extracted concept from raw material compilation.
 [[BrownianCastleInterfaces]]
 [[BurstTemporalPlasticity]]
 [[CST_Intelligence_Emergence]]
+[[Catastrophic_Forgetting_Mitigation]]
+[[ChannelEventSparsity]]
 [[Chiplet]]
 [[Chiplet_Based_Neuromorphic_Integration]]
 [[Chiplet_Heterogeneous_Integration]]

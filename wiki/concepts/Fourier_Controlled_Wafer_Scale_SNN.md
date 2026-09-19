@@ -20,11 +20,13 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[20W_Brain_Inspired_Planning]]
 [[AdaptiveFlexibilityThreshold]]
 [[AdaptiveTimeStepTraining]]
 [[Adaptive_Deep_Brain_Stimulation]]
 [[AnomalousSpinTransport]]
 [[BioInspiredLearningRule]]
+[[ChannelEventSparsity]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[FlexibilityThreshold]]
 [[Neuromorphic_Computing]]

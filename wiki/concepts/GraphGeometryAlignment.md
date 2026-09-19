@@ -54,11 +54,15 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Timing_Dependent_Plasticity]]
 [[Spike_timing_dependent_plasticity_learning_rule]]
 [[SpikingNeuralNetworkInference]]
+[[Spiking_Neural_Network]]
 [[SpikingObjectLocalization]]
 [[Spiking_Neural_Network]]
 [[StochasticBinaryDynamics]]
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
+[[Syncytial_Mesh]]
+[[Syncytial_Mesh_Model]]
+[[TemporalDynamicsModeling]]
 [[iNEST]]
 
 ## Sources

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AnomalousSpinTransport]]
+[[Bidirectional_Temporal_Enhancement]]
 [[CST_Exponential_Gain]]
 [[Complex_System_Theory]]
 [[Contested_Prior_Resolution]]
@@ -34,7 +35,8 @@ Auto-extracted concept from raw material compilation.
 [[Ferroelectric_Devices]]
 [[GroupInteractionThreshold]]
 [[InNetworkNeuromorphicSimulation]]
-[[InNetworkNeuromorphic]]
+[[In_Network_Neuromorphic]]
+[[In_Network_Neuromorphic]]
 [[Intelligence_Emergence]]
 [[LatencyCoding]]
 [[MeasurementInducedNonlinearity]]
@@ -59,8 +61,10 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[Spike_Timing_Dependent_Plasticity]]
+[[SpikingTopologyPreservation]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
+[[TopologyPreservation]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

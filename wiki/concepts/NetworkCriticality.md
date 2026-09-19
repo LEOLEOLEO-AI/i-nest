@@ -25,6 +25,8 @@ Auto-extracted concept from raw material compilation.
 [[AnalogDomainCompression]]
 [[Branch_Prediction_Reservoir]]
 [[Categorical_Closure_Criterion]]
+[[Coherent_Floquet_Quantum_Reservoir]]
+[[ColorRouting]]
 [[CombinatorialOptimizationReservoirMapping]]
 [[Compressive_Sensing_Reservoir]]
 [[CouplingTopologyInducedDynamics]]

@@ -37,13 +37,17 @@ Auto-extracted concept from raw material compilation.
 [[SDI_STDP_Bond]]
 [[SDI_STDP_Fusion]]
 [[SDI_STDP_Rule]]
+[[SDI_iNEST]]
 [[SDI_iNEST_Interconnect]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[Tail_Exponent_Interconnect]]
+[[Temporal_Error_Propagation]]
 [[iNEST]]
+[[iNEST_Interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

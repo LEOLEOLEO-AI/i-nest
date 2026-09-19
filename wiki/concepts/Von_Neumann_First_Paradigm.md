@@ -22,7 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Driven_Power_Density_Scaling]]
 [[AI_Faculty_Forum_2026]]
-[[Advanced_Packaging]]
+[[advanced packaging]]
 [[Advanced_Packaging_for_Space]]
 [[AssociativeMemoryTopology]]
 [[Attention_Residuals]]
@@ -30,7 +30,9 @@ Auto-extracted concept from raw material compilation.
 [[Beyond_Moore_Pathway]]
 [[Bond_Operation_Algebra]]
 [[BurstInterleaving]]
+[[CellularSheaf]]
 [[Chemical_Bond_Operation_Algebra]]
+[[CircuitTopologySearch]]
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[CrossDomain_Integration]]
 [[DelayTolerantNetworkUAV]]

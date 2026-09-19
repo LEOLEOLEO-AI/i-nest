@@ -30,6 +30,8 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenAttentionMasking]]
 [[Event_Driven_Architecture]]
 [[Field_Compression_for_InNetwork_Inference]]
+[[FixedOverheadCost]]
+[[FixedOverheadPenalty]]
 [[HippocampalNeocorticalIntelligence]]
 [[In_Package_Neuromorphic_Integration]]
 [[Intelligence_Emergence]]

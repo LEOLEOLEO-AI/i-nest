@@ -53,7 +53,9 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
+[[ReceptiveField_Processing]]
 [[TCC]]
+[[TopologicalEdgeStateTransport]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

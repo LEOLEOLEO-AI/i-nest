@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[20W_Brain_Inspired_Planning]]
 [[AI_Faculty_Forum_2026]]
 [[ActionPrototypeClustering]]
 [[AdaptiveFlexibilityThreshold]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[WaferScaleMesoscopicNetwork]]
 [[Wafer_Scale_Integration]]
+[[getnote_2026-02-20_神经突触和神经元二合一物理神经网络构建]]
 [[iNEST]]
 
 ## Sources

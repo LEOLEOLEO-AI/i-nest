@@ -43,6 +43,8 @@ Auto-extracted concept from raw material compilation.
 [[Loihi2_OnChip_Learning]]
 [[Loihi]]
 [[Memristive_Synapse]]
+[[Memristor]]
+[[Memristor_Synapse]]
 [[MetalHalidePerovskiteMemristor]]
 [[MultibodyInteractionCascade]]
 [[NeuralPrecision]]
@@ -58,10 +60,12 @@ Auto-extracted concept from raw material compilation.
 [[SpikeEncoding]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
+[[StochasticBinaryDynamics]]
 [[Synaptic_Plasticity]]
 [[TemporalLearning]]
 [[complex system]]
 [[iNEST]]
+[[忆阻器]]
 [[神经网络]]
 
 ## Sources

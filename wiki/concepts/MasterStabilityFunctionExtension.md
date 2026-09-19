@@ -48,6 +48,8 @@ Auto-extracted concept from raw material compilation.
 [[CriticalDataThreshold]]
 [[CrossDomainTemporalTransfer]]
 [[DelayParameterSpaceDecomposition]]
+[[Distributed_KVCache_Coherence]]
+[[DynamicInference]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]

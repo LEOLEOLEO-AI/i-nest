@@ -33,9 +33,12 @@ Auto-extracted concept from raw material compilation.
 [[In_Package_Neuromorphic_Integration]]
 [[Interconnect_Routing]]
 [[NestedRepresentation]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[Neuromorphic_Topology]]
+[[Spike_Driven_Intelligence]]
+[[TemporalAdversarialPerturbation]]
 [[iNEST]]
 
 ## Sources

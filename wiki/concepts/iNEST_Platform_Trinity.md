@@ -36,6 +36,9 @@ Auto-extracted concept from raw material compilation.
 [[Defense_Industrial_Base_Reshaping]]
 [[DynamicServiceComposition]]
 [[EfficientDeepLearning]]
+[[EmergentIntelligence_Spacetime]]
+[[Emergent_Intelligence_Theory]]
+[[Intelligence_Emergence]]
 [[Neuromorphic_Computing]]
 [[iNEST]]
 

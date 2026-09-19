@@ -48,6 +48,8 @@ Auto-extracted concept from raw material compilation.
 [[AttractorNeuralNetwork]]
 [[AutoAssociativeMemoryRobustness]]
 [[AutonomousCombatScenarios]]
+[[Autonomous_Unmanned_Combat_Coordination]]
+[[BCM滑动阈值]]
 [[Complex_System_Theory]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]

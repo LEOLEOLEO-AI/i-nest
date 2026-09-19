@@ -50,6 +50,8 @@ Auto-extracted concept from raw material compilation.
 [[Long_Range_Interactions]]
 [[LowRankPerturbation]]
 [[Memristive_Topology]]
+[[Monitored_Quantum_Circuits]]
+[[MultiSourceTaskonomy]]
 [[NetworkArchitectureSearch]]
 [[Network_Topology_Design]]
 [[NeuromorphicRadarFrontend]]

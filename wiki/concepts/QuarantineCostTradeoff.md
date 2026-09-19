@@ -19,11 +19,13 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[3D_IC_Stacking]]
 [[3d]]
 [[AI_Faculty_Forum_2026]]
 [[AnalogInMemoryComputing]]
 [[BigBrainCellularAxis]]
+[[Bipartite_Interconnect]]
 [[Bipartite_Interconnect_Design]]
 [[CST_SynergisticCoordination]]
 [[Chiplet]]
@@ -42,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDriven_Interconnect]]
 [[FixedOverheadPenalty]]
 [[Heterogeneous_Integration]]
+[[HierarchicalNetworkPartitioning]]
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]
 [[LIF_Neuron_Model]]

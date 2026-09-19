@@ -32,6 +32,8 @@ Auto-extracted concept from raw material compilation.
 [[CertifiedBifurcationDetection]]
 [[CoexistencePhaseDiagram]]
 [[CoexistencePhaseTransition]]
+[[Contested_Priors_Mechanism]]
+[[Coordination_Environment_Tuning]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]

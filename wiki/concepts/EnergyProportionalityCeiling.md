@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[20W_Brain_Inspired_Planning]]
 [[BackflowTransformation]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BioPlausiblePredictiveCoding]]
@@ -46,6 +47,9 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Organization]]
 [[Neuromorphic_Planning_Architecture]]
 [[PhaseLockedTopologyMapping]]
+[[SDI_Bond]]
+[[SDI_STDP]]
+[[SDI_STDP_Fusion]]
 [[SNN]]
 [[STDP_Plasticity]]
 [[ST_SNN]]

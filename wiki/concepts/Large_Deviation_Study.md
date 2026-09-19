@@ -56,6 +56,8 @@ Auto-extracted concept from raw material compilation.
 [[NearSensorComputing]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[RG_Flow_Transformer]]
+[[Renormalization_Group_Flow]]
 [[Resilient_Sensing_Comms_Network]]
 [[ScaleFreeNetwork]]
 [[SuperparamagneticSwitchingRate]]

@@ -36,6 +36,8 @@ Auto-extracted concept from raw material compilation.
 [[Active_Inference_Agent]]
 [[AdsorptionBiosorptionMechanism]]
 [[Ag_Ga2O3_Pt_Memristor]]
+[[AllHardware_CNN_Integration]]
+[[BigBrainCellularAxis]]
 [[Complex_System_Theory]]
 [[Memristor]]
 [[Memristor_Synapse]]

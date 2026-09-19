@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[AlternativeBridgingModels]]
 [[AnisotropicGaussianPrimitives]]
 [[Bidirectional_Temporal_Enhancement]]
@@ -28,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[DivergentHigherAreaRanking]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
+[[FatigueSTDP]]
 [[Intelligence_Emergence]]
 [[IntrinsicTimingSTDP]]
 [[Memristive_STDP]]

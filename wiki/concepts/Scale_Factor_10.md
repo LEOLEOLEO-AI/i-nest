@@ -34,6 +34,8 @@ Auto-extracted concept from raw material compilation.
 [[Conductive_Filament_Switching]]
 [[ConformalFieldTheoryScaling]]
 [[DistributedInference]]
+[[Dynamic_Neuron_Activation_Prediction]]
+[[EndocrineAxisDysregulation]]
 [[Network_Fractal_Dimension]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]

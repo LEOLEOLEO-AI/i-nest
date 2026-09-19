@@ -20,9 +20,11 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[ActiveDendriteSNN]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BioInspiredSequenceLearning]]
 [[DiscreteSTDP]]
+[[EnergyProportionalityCeiling]]
 [[Event_Driven_Architecture]]
 [[IntrinsicTimingSTDP]]
 [[NetworkDynamicalStabilization]]
@@ -36,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_STDP_Fusion]]
 [[SDI_STDP_Integration]]
 [[SDI_STDP_Rule]]
+[[SNN]]
 [[STDP_Learning]]
 [[STDP_MemristiveLearning]]
 [[STDP_Plasticity]]

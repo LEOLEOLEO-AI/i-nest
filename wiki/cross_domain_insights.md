@@ -11,46 +11,46 @@
 
 ## Active Bridges (7)
 
-### SDI_Plastic_Interconnect (Strength: 1212 · Coverage: 0.6103)
+### SDI_Plastic_Interconnect (Strength: 1225 · Coverage: 0.6159)
 SDI's software-defined interconnect could implement plastic (reconfigurable) network topologies inspired by synaptic plasticity.
-- 匹配规模：TCC 1328 个 / iNEST 1212 个
+- 匹配规模：TCC 1343 个 / iNEST 1225 个
 - TCC concepts（按特异性）: [[ChipletWaferTopologyCoDesign]], [[Chiplet_Interconnect_Topology]], [[Dynamic_Structural_Hole_Reconfiguration]]
 - iNEST concepts（按特异性）: [[IGZO_Thin_Film_Transistor]], [[20W_Brain_Inspired_Planning]], [[ActiveDendriteSNN]]
 - 排序依据: term-specificity-weighted (非字母序)
 
-### Chiplet_Heterogeneous_Neuromorphic (Strength: 1018 · Coverage: 0.6641)
+### Chiplet_Heterogeneous_Neuromorphic (Strength: 1043 · Coverage: 0.6804)
 Chiplet-based heterogeneous integration enables combining CMOS logic with memristor crossbar arrays for neuromorphic acceleration.
-- 匹配规模：TCC 1018 个 / iNEST 1866 个
+- 匹配规模：TCC 1043 个 / iNEST 1883 个
 - TCC concepts（按特异性）: [[1024_Card_SuperNode]], [[2_5D_3D_HeterogeneousIntegration]], [[2_5D_Interposer]]
-- iNEST concepts（按特异性）: [[FerroelectricSynapticArray]], [[Neuromorphic_Chiplet]], [[RecurrentSpikingDynamics]]
+- iNEST concepts（按特异性）: [[Developmental_Computing]], [[FerroelectricSynapticArray]], [[Neuromorphic_Chiplet]]
 - 排序依据: term-specificity-weighted (非字母序)
 
-### NoC_Spiking_Routing (Strength: 801 · Coverage: 0.5225)
+### NoC_Spiking_Routing (Strength: 815 · Coverage: 0.5316)
 NoC routing algorithms could be redesigned for event-driven spike packet delivery, reducing latency by orders of magnitude.
-- 匹配规模：TCC 801 个 / iNEST 1276 个
-- TCC concepts（按特异性）: [[Chiplet_Heterogeneous_Stacking]], [[Color_Channels]], [[Network_on_Chip_Topology]]
+- 匹配规模：TCC 815 个 / iNEST 1303 个
+- TCC concepts（按特异性）: [[Chiplet_Heterogeneous_Stacking]], [[Color_Channels]], [[Compute_Centric_NoC]]
 - iNEST concepts（按特异性）: [[ActiveInferenceEdgeLoop]], [[ArmLocomotorCoordination]], [[Asynchronous_Event_Circuit]]
 - 排序依据: term-specificity-weighted (非字母序)
 
-### WaferScale_Neuromorphic (Strength: 522 · Coverage: 0.3405)
+### WaferScale_Neuromorphic (Strength: 534 · Coverage: 0.3483)
 Wafer-scale integration could enable massive-scale neuromorphic chips with millions of neurons on a single die.
-- 匹配规模：TCC 522 个 / iNEST 1929 个
+- 匹配规模：TCC 534 个 / iNEST 1936 个
 - TCC concepts（按特异性）: [[3D_Torus_Topology]], [[Analyze_Reconstruct_Regulate]], [[Chemical_Bond_Effect]]
-- iNEST concepts（按特异性）: [[1M1T1R_SynapticNeuron]], [[ActiveDendriteSNN]], [[Adaptive_Deep_Brain_Stimulation]]
+- iNEST concepts（按特异性）: [[1M1T1R_SynapticNeuron]], [[ActiveDendriteSNN]], [[AdaptiveFlexibilityThreshold]]
 - 排序依据: term-specificity-weighted (非字母序)
 
-### 3DIC_Neural_Stacking (Strength: 304 · Coverage: 0.1531)
-3D-IC stacking mimics cortical columnar architecture, enabling dense neural processing layers.
-- 匹配规模：TCC 481 个 / iNEST 304 个
-- TCC concepts（按特异性）: [[3DIntegratedPhotonicPackaging]], [[AlternativeMetalInterconnects]], [[EpoxyMoldingCompoundEncapsulation]]
-- iNEST concepts（按特异性）: [[Mesoscale_Neural_Dynamics]], [[ActivityAvalanche]], [[AdaptersInSpikingNetworks]]
-- 排序依据: term-specificity-weighted (非字母序)
-
-### Topology_Brain_Connectome (Strength: 302 · Coverage: 0.1521)
+### Topology_Brain_Connectome (Strength: 310 · Coverage: 0.1559)
 Brain connectome topology patterns can inspire optimal NoC topologies for wafer-scale AI chips.
-- 匹配规模：TCC 1458 个 / iNEST 302 个
+- 匹配规模：TCC 1467 个 / iNEST 310 个
 - TCC concepts（按特异性）: [[AdditiveTopology_Embedding]], [[AI_Cluster_Switch_Bottleneck]], [[AlgorithmicPhaseTransition]]
 - iNEST concepts（按特异性）: [[EvolutionaryReservoirLearning]], [[HierarchicalModularReservoirs]], [[SpikingSafetyMargin]]
+- 排序依据: term-specificity-weighted (非字母序)
+
+### 3DIC_Neural_Stacking (Strength: 308 · Coverage: 0.1549)
+3D-IC stacking mimics cortical columnar architecture, enabling dense neural processing layers.
+- 匹配规模：TCC 556 个 / iNEST 308 个
+- TCC concepts（按特异性）: [[3DIntegratedPhotonicPackaging]], [[AlternativeMetalInterconnects]], [[EpoxyMoldingCompoundEncapsulation]]
+- iNEST concepts（按特异性）: [[Mesoscale_Neural_Dynamics]], [[ActivityAvalanche]], [[AdaptersInSpikingNetworks]]
 - 排序依据: term-specificity-weighted (非字母序)
 
 ### Memory_Wall_Neuromorphic_Solution (Strength: 3 · Coverage: 0.0020)

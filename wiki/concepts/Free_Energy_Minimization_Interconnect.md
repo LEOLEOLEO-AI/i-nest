@@ -50,8 +50,10 @@ Auto-extracted concept from raw material compilation.
 [[KV_Cache_To_BoundaryObject]]
 [[KV_Cache_to_BoundaryObject_Transition]]
 [[MachineLearningPotential]]
+[[Metastable_State_Hierarchy]]
 [[Milinkovic B (2024)：复杂神经系统涌现动力学结构]]
 [[MultiplicativeGainCondition]]
+[[MultiplicativeGain]]
 [[NCL神经计算定律详解]]
 [[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]
 [[Network_Topology_Design]]
@@ -68,6 +70,7 @@ Auto-extracted concept from raw material compilation.
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

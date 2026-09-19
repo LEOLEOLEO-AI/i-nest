@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[DARPA_ProjectManager_Model]]
+[[DataProvenanceIntegrity]]
 [[Deep_Network_Architecture_Invariant]]
 [[EndToEndTopologyLearning]]
 [[Heterogeneous_Integration]]
@@ -67,6 +68,7 @@ Auto-extracted concept from raw material compilation.
 [[emerging CMOS memristor]]
 [[iNEST]]
 [[iNEST_Interconnect]]
+[[vLLM_plugin_FLSDI]]
 [[神经网络]]
 
 ## Sources

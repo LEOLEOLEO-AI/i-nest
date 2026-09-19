@@ -25,6 +25,8 @@ Auto-extracted concept from raw material compilation.
 [[AndersonTransition]]
 [[AttentionWeightedPatchAggregation]]
 [[BioInspired_Interception_Control]]
+[[ControlDrivenCriticalFluctuations]]
+[[FPGA_Reconfigurability]]
 [[Interconnect_Routing]]
 [[Interconnect_Topology]]
 [[Network_Topology_Design]]

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[1M1T1R_SynapticNeuron]]
+[[20W_Brain_Inspired_Planning]]
 [[AINext_Initiative]]
 [[ANN_SNN_ConversionError]]
 [[ANN_SNN_WeightSpaceGap]]
@@ -28,7 +29,6 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Deep_Brain_Stimulation]]
 [[AddressRedundancyElimination]]
 [[Adjoint_Gradient_Propagation]]
-[[AlgorithmHardwareCoDesign]]
 [[Algorithm_Hardware_CoDesign]]
 [[FlexibilityThreshold]]
 [[Neuromorphic_Computing]]

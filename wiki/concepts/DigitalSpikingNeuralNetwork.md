@@ -32,10 +32,12 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[CrossEntityPreemptiveWarning]]
 [[DrivenCriticalityOptimalityTradeoff]]
+[[EventBasedMotionDeblurring]]
+[[EventDrivenAutoregression]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Self_Organized_Criticality]]
-[[SpikingNeuralNetwork]]
+[[Spiking_Neural_Network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Active_Inference_Agent]]
 [[CascadedAdaptiveCombiners]]
 [[ErrorAmplificationLimits]]
 [[EvolvingArchitectureDynamics]]
@@ -30,10 +31,15 @@ Auto-extracted concept from raw material compilation.
 [[InterDomain_Synergy]]
 [[LatencyGradientDescent]]
 [[LocalStructuralPlasticity]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[OpenLearningEcosystem]]
 [[OscillatoryReservoirDynamics]]
 [[QuantumDistillation]]
+[[ReservoirDynamics]]
+[[Reservoir_Computing]]
+[[SDI_Bond]]
+[[SDI_TopologicalCoupling]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
 [[neuromorphic substrate]]

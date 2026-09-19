@@ -39,6 +39,8 @@ Auto-extracted concept from raw material compilation.
 [[CST_Coordinated_Spatiotemporal_Complexity]]
 [[CST_CoordinationMechanism]]
 [[CST_SynergisticCoordination]]
+[[CST计量仪]]
+[[C_elegansConnectomeAnalogy]]
 [[Chain_of_Thought_Reasoning]]
 [[Complex_System_Theory]]
 [[ConnectomicDevelopmentalTrajectory]]

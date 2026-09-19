@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[20W_Brain_Inspired_Planning]]
 [[ActiveDendriteSNN]]
 [[ActivityAvalanche]]
 [[ActivityPropagationCascade]]
@@ -28,7 +29,9 @@ Auto-extracted concept from raw material compilation.
 [[AnisotropicGaussianPrimitives]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BioInspiredLearningRule]]
+[[BurstGatedRouting]]
 [[FlexibilityThreshold]]
+[[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[SNN]]
 [[Spiking_Neural_Network]]

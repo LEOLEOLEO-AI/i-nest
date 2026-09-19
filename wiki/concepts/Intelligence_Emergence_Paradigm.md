@@ -27,6 +27,8 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[AI_Forum_Demo_Narrative]]
 [[AgenticServiceOrchestration]]
+[[Attention_Residuals]]
+[[Beyond_Moore_Pathway]]
 [[BoundaryObject_Abstraction]]
 [[CST_Intelligence_Emergence]]
 [[CST_Intelligence_Emergence_Theory]]

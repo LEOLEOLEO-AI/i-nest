@@ -22,6 +22,8 @@ Auto-extracted concept from raw material compilation.
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[AI_Enabled_Battlefield_Autonomy]]
+[[AI_PPT_Workflow]]
+[[ANN_SNN_FederatedAlignment]]
 [[ANN_to_SNN_Conversion_Error_Amplification]]
 [[ActivityAvalanche]]
 [[AddressRedundancyElimination]]
@@ -34,7 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[DirectTrainingSNN]]
 [[Direct_Training_Spiking_Neural_Networks]]
 [[ElectronicBurstingNeuron]]
-[[EmergentCooperation]]
+[[Emergent_Cooperation]]
 [[Emergent_Generalization]]
 [[EnergyEfficientNeuromorphic]]
 [[Frontier_Innovation_Mapping]]

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[AgentBasedCorruptionModel]]
 [[AlloyDisorderEngineering]]
 [[AnalogDomainCompressiveSensing]]
+[[BarrierConditionedTrajectory]]
 [[CrossLayer_SignalRouting]]
 [[CrossbarSNNArchitecture]]
 [[DualModeSNNConventionalInference]]
@@ -53,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[SpuriousFeatureSensitivity]]
 [[TCC]]
+[[TemporalEfficientSNN]]
 [[iNEST]]
 
 ## Sources

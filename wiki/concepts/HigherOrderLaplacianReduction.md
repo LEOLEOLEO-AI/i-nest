@@ -49,6 +49,8 @@ Auto-extracted concept from raw material compilation.
 [[DisorderedQuasiperiodicPotential]]
 [[DynamicalMeanFieldAnalysis]]
 [[Edge_Temporal_Signal_Processing]]
+[[Encapsulation_Topology]]
+[[EntanglementSignatures]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]

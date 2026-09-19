@@ -52,8 +52,10 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Topology]]
 [[SerDes_Bandwidth_Convergence]]
 [[SparseTemporalEncoding]]
+[[SparsityAwareInterconnect]]
 [[TCC]]
 [[Topology_Encapsulation]]
+[[WideLink_NoC_Router]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

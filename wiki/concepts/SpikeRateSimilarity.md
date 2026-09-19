@@ -45,6 +45,8 @@ Auto-extracted concept from raw material compilation.
 [[MemristiveSignedCouplings]]
 [[NeuromorphicBrainDecoding]]
 [[Neuromorphic_Computing]]
+[[Resilient_Community_Feedback_Loop]]
+[[SparseActivationSkipping]]
 [[Spiking_Neural_Network]]
 [[SynapticConnectivityAwarePlacement]]
 [[Synaptic_Plasticity]]

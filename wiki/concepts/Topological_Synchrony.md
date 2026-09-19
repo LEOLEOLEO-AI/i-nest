@@ -29,7 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[BoundaryObject_Abstraction]]
 [[BranchingRatio]]
 [[CST计量仪]]
-[[Causal_Emergence]]
+[[causal emergence]]
 [[Causal_Emergence_Architecture]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -48,7 +48,9 @@ Auto-extracted concept from raw material compilation.
 [[In_Package_Neuromorphic_Integration]]
 [[Intelligence_Emergence]]
 [[Intelligent_Power_Management]]
+[[Koopman_Constants_Of_Motion]]
 [[Medical_Large_Language_Models]]
+[[MemristiveTopologyCoupling]]
 [[Memristive_Interconnect]]
 [[Memristive_Topology]]
 [[Mesoscale_Heterogeneous_Integration]]
@@ -69,7 +71,6 @@ Auto-extracted concept from raw material compilation.
 [[Textbook_Paradigm_Definition]]
 [[TopologicalAndersonChernInsulator]]
 [[TopologicalHealthBiomarker]]
-[[causal emergence]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

@@ -21,12 +21,15 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Active_Inference_Agent]]
+[[AndersonTransition]]
 [[BackflowTransformation]]
 [[BayesianDomainEvolution]]
 [[BoundaryObject_Abstraction]]
 [[Brain_Connectome]]
 [[ColorRouting]]
+[[CommunicationAwareComputeRelocation]]
 [[Connectome]]
+[[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[iNEST]]

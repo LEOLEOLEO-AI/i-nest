@@ -32,6 +32,8 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveArchitecture]]
 [[AdaptiveDensityControl]]
 [[AdditiveTopology_Embedding]]
+[[AdjointWaveControl]]
+[[Advanced_Computing_Project]]
 [[AnalogDomainCompression]]
 [[AvalancheBranchingRatio]]
 [[BranchingRatio]]

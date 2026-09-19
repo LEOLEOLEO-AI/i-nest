@@ -40,7 +40,9 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_Topology]]
 [[SparseTemporalEncoding]]
+[[SparsityAwareInterconnect]]
 [[TCC]]
+[[WideLink_NoC_Router]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

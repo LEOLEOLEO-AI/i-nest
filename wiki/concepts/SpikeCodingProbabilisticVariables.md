@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[20W_Brain_Inspired_Planning]]
 [[AI_Faculty_Forum_2026]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BigBrainCellularAxis]]
@@ -33,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Prior_Resolution]]
 [[CorticalTravelingWave]]
 [[CorticalWaveRouting]]
+[[CrossbarArrayVLSI]]
 [[Hebbian_Embedding_Dynamics]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]

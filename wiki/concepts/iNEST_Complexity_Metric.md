@@ -34,6 +34,8 @@ Auto-extracted concept from raw material compilation.
 [[ANN动力学]]
 [[ActiveMatterSubstrate]]
 [[Active_Inference_Agent]]
+[[AdaptiveDensityControl]]
+[[Advanced_Computing_Project]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

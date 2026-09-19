@@ -42,6 +42,8 @@ Auto-extracted concept from raw material compilation.
 [[DelayRobustEmergence]]
 [[DelayTolerantNetworkUAV]]
 [[DisorderDrivenTemporalOrdering]]
+[[DisorderedNetworkInterconnect]]
+[[EarlyVisual_Cortex_Modeling]]
 [[GenericObjectTracking]]
 [[Independent_EdgeAI_Player_Endgame]]
 [[Intelligence_Emergence]]

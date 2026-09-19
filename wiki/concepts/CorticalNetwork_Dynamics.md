@@ -40,6 +40,8 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[CriticalInertiaEstimation]]
 [[Deep_Thermalisation]]
+[[ERI_2_0_Framework]]
+[[EdgeAI_Market_Consolidation_Driver]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[KV_Cache_To_BoundaryObject]]

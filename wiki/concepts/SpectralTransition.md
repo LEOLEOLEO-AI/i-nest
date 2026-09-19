@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[ArchitecturalCondition]]
 [[AstrocyteInspiredRepair]]
 [[BayesianDomainEvolution]]
+[[BehavioralFeedbackLoop]]
 [[Biologically_Plausible_Learning_Rules]]
 [[Complex_System_Theory]]
 [[Course_Based_FPGA_Projects]]
@@ -48,12 +49,13 @@ Auto-extracted concept from raw material compilation.
 [[MultifractalCriticalPhase]]
 [[Nanoencapsulation_Stability_Bioavailability]]
 [[Network_Topology_Design]]
-[[PhysicalReservoir]]
+[[Physical_Reservoir]]
 [[Reservoir_Computing]]
 [[Self_Organized_Criticality]]
 [[SuperparamagneticSwitchingRate]]
 [[Synaptic_Plasticity]]
 [[VascularisedBrainOrganoids]]
+[[VisualSemanticDecoding]]
 [[iNEST]]
 
 ## Sources

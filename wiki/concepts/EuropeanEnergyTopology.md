@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[20W_Brain_Inspired_Planning]]
 [[AdsorptionBiosorptionHybrid]]
 [[Allreduce_Latency_Benchmark]]
 [[AndersonTransition]]
@@ -28,6 +29,9 @@ Auto-extracted concept from raw material compilation.
 [[Bipartite_Interconnect_Design]]
 [[Brain_Inspired_Switchless_Architecture]]
 [[CLINKAsCarrierPrimitive]]
+[[ChipletRoutingFabric]]
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

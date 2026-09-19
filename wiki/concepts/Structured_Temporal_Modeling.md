@@ -56,6 +56,8 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[EnergyEfficiencyMetric]]
 [[Intelligence_Emergence]]
+[[Interacting_System_Dynamics]]
+[[IntermediateReasoningStates]]
 [[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]

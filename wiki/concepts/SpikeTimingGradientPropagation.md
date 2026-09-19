@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[20W_Brain_Inspired_Planning]]
 [[AINext_Initiative]]
 [[ActiveDendriteSNN]]
 [[AdaptiveDeltaPulseFrequencyEncoding]]
@@ -32,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[DiscreteSTDP]]
 [[ErrorAmplificationLimits]]
 [[EventCameraPoseInput]]
+[[EventCameraTemporalEncoding]]
 [[Event_Driven_Architecture]]
 [[ImpactFallDetection]]
 [[Interconnect_Routing]]
@@ -44,6 +46,8 @@ Auto-extracted concept from raw material compilation.
 [[Oncological_Digital_Twin]]
 [[PhaseLockedTopologyMapping]]
 [[Reservoir_Computing]]
+[[SDI_Bond]]
+[[SDI_STDP]]
 [[SDI_STDP_Fusion]]
 [[SNN]]
 [[STDP_Learning]]

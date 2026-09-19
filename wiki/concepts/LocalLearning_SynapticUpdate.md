@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[Neuromorphic_Speech_Tokenizer]]
+[[RealTimeImageToEventConversion]]
 [[SNN]]
 [[Self_Organized_Criticality]]
 [[SparseCodingEfficiency]]
@@ -55,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[StructuredTemporalAttention]]
 [[TCC]]
+[[TemporalAdversarialPerturbation]]
 [[TemporalSparsityExploitation]]
 
 ## Sources

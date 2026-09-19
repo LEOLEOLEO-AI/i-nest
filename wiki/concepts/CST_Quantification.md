@@ -32,6 +32,8 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
 [[Complex_System_Theory]]
+[[DARPA_ProjectManager_Model]]
+[[Defense_Industrial_Base_Reshaping]]
 [[Heterogeneous_Integration]]
 [[Network_Spatiotemporal_Synergy]]
 [[Network_Topology_Design]]

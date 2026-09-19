@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[DiagnosticReportFramework]]
 [[EulaminateOverrepresentation]]
 [[GeneralIntelligenceSubstrate]]
+[[HeterogeneousInference]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
@@ -43,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[Semantic_Least_Energy_Principle]]
 [[TCC]]
+[[Topology_Centric_Computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

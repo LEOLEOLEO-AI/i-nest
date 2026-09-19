@@ -33,6 +33,8 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]
 [[Quantization_HLS_FPGA]]
+[[ReconfigurableSNN_Accelerator]]
+[[SDI_iNEST_Interconnect]]
 [[SNN]]
 [[SNNtoFPGADesignFlow]]
 [[Spiking_Neural_Network]]

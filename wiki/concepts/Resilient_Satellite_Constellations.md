@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[3D_Torus_6_Degree]]
+[[3d]]
 [[AI_Enabled_Battlefield_Autonomy]]
 [[AI_FullSpectrum_Strategy]]
 [[Accessibility_Plasticity]]
@@ -60,6 +61,8 @@ Auto-extracted concept from raw material compilation.
 [[PopulationDensityApproximation]]
 [[PromptBasedTimeSeriesForecasting]]
 [[PropertyPredictionModeling]]
+[[QuantumAnnealerSynapticTest]]
+[[RoleGeometryEmbedding]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

@@ -31,6 +31,8 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Inference_Division]]
 [[InMateriaComputing]]
 [[Intelligence_Emergence]]
+[[Intelligent_Power_Management]]
+[[Koopman_Constants_Of_Motion]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]

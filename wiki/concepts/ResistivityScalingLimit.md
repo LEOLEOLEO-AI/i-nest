@@ -49,6 +49,8 @@ Auto-extracted concept from raw material compilation.
 [[Crack_Generation_Identification]]
 [[CrossSpecies_Neural_Alignment]]
 [[DAGGER_Algorithm]]
+[[Disentangled_Physics_Neural_Architecture]]
+[[DisorderAwareDetection]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]

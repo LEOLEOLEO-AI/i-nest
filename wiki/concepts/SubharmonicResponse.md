@@ -20,10 +20,12 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AdaptiveFrequencyResonateFire]]
 [[AdaptiveSTDP]]
 [[AdaptiveSpeechToSpikeEncoding]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BioInspiredSequenceLearning]]
+[[Controlled_Release_Kinetics]]
 [[DiscreteSTDP]]
 [[ITP_STDP]]
 [[ITP_STDP_Engine]]

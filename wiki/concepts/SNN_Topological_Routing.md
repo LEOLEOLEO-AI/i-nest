@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[20W_Brain_Inspired_Planning]]
 [[ActivityAvalanche]]
 [[ActivityPropagationCascade]]
 [[Activity_Energy_Tradeoff]]
@@ -28,7 +29,11 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NonreciprocalQuasiperiodicLattice]]
 [[RuntimeTopologyMapping]]
+[[SDI_Bond]]
+[[SDI_STDP]]
+[[SDI_STDP_Fusion]]
 [[SNN]]
+[[STDP_Plasticity]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]

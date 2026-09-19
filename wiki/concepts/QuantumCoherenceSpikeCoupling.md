@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[ActivityPropagationCascade]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[BerryCurvatureIsolation]]
 [[BioInspired_Interception_Control]]
 [[BurstGatedRouting]]
 [[Continuous_Spatiotemporal_State_Propagation]]
@@ -57,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologicalAndersonChernInsulator]]
 [[TopologyConstrainedWeightUpdate]]
 [[Topology_Aware_Spike_Routing]]
+[[UniversalLinearOperation]]
 [[Workload_Isolation]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

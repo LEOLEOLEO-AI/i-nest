@@ -33,6 +33,8 @@ Auto-extracted concept from raw material compilation.
 [[BranchingRatio]]
 [[CertifiedBifurcationDetection]]
 [[Contested_Priors_Mechanism]]
+[[ContinuousTraitAxelrodModel]]
+[[DendriticReservoirState]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]
 [[SpatioTemporal_Reservoir]]

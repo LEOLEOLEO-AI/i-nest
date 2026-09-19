@@ -32,6 +32,8 @@ Auto-extracted concept from raw material compilation.
 [[AI_Driven_Power_Density_Scaling]]
 [[AssemblyAndBondingChallenge]]
 [[BoundaryContract]]
+[[BoundaryObject_Abstraction]]
+[[Chemical_Bond_Operation_Algebra]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]

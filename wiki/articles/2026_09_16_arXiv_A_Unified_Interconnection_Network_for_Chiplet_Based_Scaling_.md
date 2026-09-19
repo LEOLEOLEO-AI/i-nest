@@ -18,6 +18,7 @@ SNN, TCC, chiplet, iNEST, interconnect, neuromorphic, spiking
 
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Heterogeneous_Integration]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]

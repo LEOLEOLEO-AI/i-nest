@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[20W_Brain_Inspired_Planning]]
 [[AI_Driven_Architecture_Search]]
 [[AI_Faculty_Forum_2026]]
 [[Baseline_Draft_Status]]
@@ -41,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[PhaseLockedTopologyMapping]]
 [[SDI_Bond]]
+[[SDI_STDP]]
 [[SDI_STDP_Fusion]]
 [[SDI_iNEST]]
 [[SDI_iNEST_Interconnect]]
@@ -52,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[Synchronization_Overhead_Mitigation]]
+[[TemporalAdversarialPerturbation]]
 [[TemporalBatchSynchronization]]
 [[ThresholdBasedSpikeEncoding]]
 [[iNEST]]

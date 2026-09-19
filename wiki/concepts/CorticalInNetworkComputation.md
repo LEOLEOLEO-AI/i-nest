@@ -30,6 +30,8 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Service_Orchestration]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[BioInspiredGeneralist]]
+[[CellularSheaf]]
+[[Chat_to_Agent_Paradigm]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

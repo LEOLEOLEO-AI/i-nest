@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[11_SDI节点接口规范与化合键定义_dup]]
 [[3D_Torus_6_Degree]]
 [[3d]]
+[[AI-ML — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
 [[Conductive_Filament_Switching]]
 [[MicroLED_Array_Programmer]]
@@ -37,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Photopolymerization_Printing]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
+[[Scaled_Neuromorphic_Network]]
 [[StrategicConsulting_Project]]
 [[TCC]]
 

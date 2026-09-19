@@ -20,10 +20,12 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[4H_SiC_SubstrateProcessing]]
+[[ASIC_Dualism]]
 [[ChipletWaferTopologyCoDesign]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
+[[chiplet interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[CongestionAwareNoCPlacement]]
 [[Dynamic_Structural_Hole_Reconfiguration]]

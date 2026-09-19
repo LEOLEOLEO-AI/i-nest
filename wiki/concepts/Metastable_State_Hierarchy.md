@@ -59,6 +59,8 @@ Auto-extracted concept from raw material compilation.
 [[PropertyPredictionModeling]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
+[[SpikingPlaceCellEnsemble]]
+[[SpikingPointCloudPEFT]]
 [[Spiking_Neural_Network]]
 [[SuperparamagneticSwitchingRate]]
 [[SynapticWeightPlasticity]]

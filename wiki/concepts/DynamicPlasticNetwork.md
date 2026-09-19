@@ -21,9 +21,11 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[20W_Brain_Inspired_Planning]]
+[[AdaptiveNetworkResilience]]
 [[AutonomousAdaptation]]
 [[Cognitive_Relapse_Architecture]]
 [[Defense_Industrial_Base_Reshaping]]
+[[Emergent_Intelligence_Roadmap]]
 [[Free_Energy_Topology_Mapping]]
 [[Memristor]]
 [[Memristor_Interconnect]]

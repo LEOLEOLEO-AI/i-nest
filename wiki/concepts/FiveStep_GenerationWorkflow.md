@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Active_Inference_Topology]]
 [[AgenticServiceOrchestration]]
 [[BurstInterleaving]]
 [[Cognitive_Relapse_Decoupling]]
@@ -40,12 +41,13 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[GroupInfluenceThreshold]]
 [[HybridCouplingThermosensitiveNetwork]]
-[[InNetworkComputing]]
+[[In_Network_Computing]]
 [[Interconnect_Routing]]
 [[Local_Approximation_Dynamics]]
 [[MobilityEdgeSwitching]]
 [[MobilityEdge]]
 [[Network_Topology_Design]]
+[[One_Chip_Multi_Function]]
 [[OpenLearningEcosystem]]
 [[PPT]]
 [[Pods4Rail_Topology]]

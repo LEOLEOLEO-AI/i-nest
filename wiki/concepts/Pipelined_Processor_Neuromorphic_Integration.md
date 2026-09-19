@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3d]]
 [[AnomalousSpinTransport]]
 [[Brain_Connectome]]
 [[Connectome]]
@@ -41,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[_Nature子刊_储备池计算不再是_黑盒_Intel与加州伯克利联手打造_原则性_神经形态架构]]
 [[branch prediction]]
 [[getnote_2026-01-03_16 介观峰值定理对晶上大脑的工程指导]]
+[[getnote_2026-01-12_数字孪生大脑工程化路径]]
 [[getnote_2026-01-12_晶圆级神经网络能效革命]]
 [[getnote_2026-04-20_海河实验室晶上先导项目检查]]
 [[iNEST]]

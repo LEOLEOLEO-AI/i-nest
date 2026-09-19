@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[20W_Brain_Inspired_Planning]]
 [[AIRA_NeuralArchSearch]]
 [[ArmLocomotorCoordination]]
 [[Constructed_Reality_Interconnect]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikingPlaceCellEnsemble]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
+[[TSVEncapsulationStress]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

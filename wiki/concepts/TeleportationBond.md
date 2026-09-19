@@ -46,6 +46,8 @@ Auto-extracted concept from raw material compilation.
 [[ERI_2_0_Strategic_Framework]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Theory]]
+[[EnergyAwareEdgeOrchestration]]
+[[FastSlow_Dynamics]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

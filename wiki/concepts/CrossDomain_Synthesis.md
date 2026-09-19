@@ -36,6 +36,8 @@ Auto-extracted concept from raw material compilation.
 [[CrossDomain_Abstraction]]
 [[DARPA_Technology_Incubation]]
 [[Deep_Network_Architecture_Invariant]]
+[[DelayRobustEmergence]]
+[[DimensionalityReductionPrinciple]]
 [[DisorderedNetworkInterconnect]]
 [[EmergentIntelligence_Spacetime]]
 [[Emergent_Intelligence]]

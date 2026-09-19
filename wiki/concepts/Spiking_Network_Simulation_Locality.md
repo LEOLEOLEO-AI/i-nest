@@ -50,10 +50,12 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[Neuromorphic_Organization]]
+[[SensorMemoryFusion]]
 [[SpiNNaker2_Chip]]
 [[SpiNNaker]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
+[[iNEST_Integration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

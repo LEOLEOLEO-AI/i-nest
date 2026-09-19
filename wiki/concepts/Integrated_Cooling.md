@@ -47,6 +47,8 @@ Auto-extracted concept from raw material compilation.
 [[Switchless_Computing]]
 [[TCC]]
 [[TCC_Interconnect_Topology]]
+[[WaferScaleCoDesign]]
+[[WaferScaleTopologyCentricComputing]]
 [[Wafer_Scale_Integration]]
 [[iNEST]]
 [[iNEST_Wafer]]

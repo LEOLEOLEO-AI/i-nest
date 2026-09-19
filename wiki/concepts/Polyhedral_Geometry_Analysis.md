@@ -20,6 +20,8 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_PPT_Workflow]]
+[[ANN_SNN_FederatedAlignment]]
 [[ANN_to_SNN_Conversion_Error_Amplification]]
 [[ActivityAvalanche]]
 [[ActivityPropagationCascade]]
@@ -27,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Adjoint_Gradient_Propagation]]
 [[AllParallel_SpikeBased_Computing]]
 [[Arm_Locomotor_Synergy]]
+[[SNN]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]

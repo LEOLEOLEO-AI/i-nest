@@ -31,6 +31,8 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Core_Spacetime_Tensor]]
 [[Decoupled_Priors]]
+[[Deep_Network_Architecture_Invariant]]
+[[DiagnosticReportFramework]]
 [[Heterogeneous_Integration]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]

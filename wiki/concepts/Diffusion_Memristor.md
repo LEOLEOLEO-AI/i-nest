@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[11_SDI节点接口规范与化合键定义_dup]]
 [[1M1T1R_SynapticNeuron]]
 [[20W_Brain_Inspired_Planning]]
+[[CMOS_Compatible_TaOx_Memristor]]
 [[Complex_System_Theory]]
 [[Conductive_Filament_Switching]]
 [[Direct_Threshold_Sensing]]
@@ -39,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Photopolymerization_Printing]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
+[[UV_Intensity_Modulated_HRS]]
 [[iNEST]]
 [[memristor device]]
 

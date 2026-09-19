@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
+[[20W_Brain_Inspired_Planning]]
 [[3D_Torus_6_Degree]]
 [[3d]]
 [[Accessibility_Plasticity]]
@@ -40,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossbarSNNArchitecture]]
 [[DTGA]]
 [[DirectoryManagementLaws]]
+[[DiscreteSTDP]]
 [[EEGSpikeEncoding]]
 [[ErrorAmplificationLimits]]
 [[EventDrivenWeightUpdate]]
@@ -49,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[Recurrent_Network_Homeostasis]]
 [[SNN]]
+[[STDP_Plasticity]]
 [[SpikeEncodingLatency]]
 [[SpikeEncoding]]
 [[SpikeEventScheduling]]

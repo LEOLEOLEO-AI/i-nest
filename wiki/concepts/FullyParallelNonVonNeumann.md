@@ -33,9 +33,12 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
 [[PhysicalDesign_ReliabilityTradeoff]]
+[[RobustnessToNoiseInSNN]]
+[[SNN]]
 [[SpikeBasedGradientDescent]]
 [[SpikeBasedNeuralRadianceField]]
 [[Spiking_Neural_Network]]
+[[SyntheticInertiaProvision]]
 [[iNEST]]
 
 ## Sources

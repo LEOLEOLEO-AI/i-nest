@@ -28,7 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CST计量仪]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
+[[chiplet interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[CompactFieldVariable]]
 [[Complex_System_Theory]]
@@ -44,7 +44,9 @@ Auto-extracted concept from raw material compilation.
 [[RTC_Primitive]]
 [[RTC_Primitives]]
 [[SDI_Bond]]
+[[SDI_Chip_Indicator_Change]]
 [[SDI_TCC_Chiplet]]
+[[SDI节点接口规范与化合键定义]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[SDSoW_Physical_Base]]
@@ -55,10 +57,11 @@ Auto-extracted concept from raw material compilation.
 [[TopologyProgramming]]
 [[Topology_Page]]
 [[Wafer_Scale_Integration]]
-[[Z3ToricCode]]
+[[Z3_Toric_Code]]
 [[chiplet interconnect]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

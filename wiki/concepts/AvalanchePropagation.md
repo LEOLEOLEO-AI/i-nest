@@ -48,6 +48,8 @@ Auto-extracted concept from raw material compilation.
 [[EnergyAwareEdgeOrchestration]]
 [[FunctionalRelevanceSelfOrganization]]
 [[GlobalInformationDominance]]
+[[HierarchicalInferenceTopology]]
+[[InNetworkGradientPropagation]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

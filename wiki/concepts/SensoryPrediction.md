@@ -32,6 +32,8 @@ Auto-extracted concept from raw material compilation.
 [[AI_Orchestrator]]
 [[Active_Inference_Agent]]
 [[Ag_Ga2O3_Pt_Memristor]]
+[[BigBrainCellularAxis]]
+[[CMOS_Compatible_TaOx_Memristor]]
 [[Complex_System_Theory]]
 [[Memristor]]
 [[Memristor_Synapse]]

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Autonomous_Spiking_Dynamics]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BigBrainCellularAxis]]
 [[BrainInspired_Chip]]
@@ -36,10 +37,13 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[NeuromorphicGraphAnomalyDetection]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Hardware_Paradigm]]
 [[Neuromorphic_Integration]]
 [[Neuromorphic_NoC_Routing]]
 [[NoC]]
 [[RobustnessToNoiseInSNN]]
+[[SDI_Bond]]
+[[SDI_iNEST]]
 [[SDI_iNEST_Interconnect]]
 [[SNN]]
 [[STDP_Plasticity]]
@@ -56,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[TemporalSparsityExploitation]]
 [[ThresholdBasedSpikeEncoding]]
 [[iNEST]]
+[[iNEST_Interconnect]]
 [[iNEST_Neuromorphic_Integration]]
 
 ## Sources

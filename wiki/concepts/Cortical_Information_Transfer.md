@@ -26,10 +26,13 @@ Auto-extracted concept from raw material compilation.
 [[Agile_Resilient_Defense_Ecosystem]]
 [[AllParallel_SpikeBased_Computing]]
 [[ApproximationFidelityTradeoff]]
+[[Baseline_Draft_Status]]
+[[CellEmergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
+[[Spiking_Neural_Network]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

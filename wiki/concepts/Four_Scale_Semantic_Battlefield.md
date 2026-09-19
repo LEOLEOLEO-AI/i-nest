@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Mesoscale_Heterogeneous_Integration]]
 [[National_Mesoscale_Innovation_Center]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[Neuromorphic_Wafer]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
@@ -43,6 +44,8 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
 [[Wafer_Scale_Neuromorphic]]
+[[Wafer_Scale_Neuromorphic_Integration]]
+[[Wafer_scale_integration_and_chip_design]]
 [[iNEST]]
 
 ## Sources

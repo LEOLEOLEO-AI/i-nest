@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[4H_SiC_SubstrateProcessing]]
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_Faculty_Forum_2026]]
+[[AdaptiveCompetingInteractions]]
 [[Defense_Industrial_Base_Reshaping]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Theory]]
@@ -31,14 +32,17 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Military_AI_Revolution]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[OpenLearningEcosystem]]
 [[PacketRoutingForFPGAs]]
 [[RecurrentOscillatoryComputation]]
+[[SDI_Bond]]
 [[SOW_BottomLayer]]
 [[ScalableNeuromorphicTopology]]
 [[TCC]]
 [[iNEST]]
+[[vLLM_plugin_FLSDI]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

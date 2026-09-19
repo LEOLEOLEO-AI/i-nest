@@ -49,6 +49,8 @@ Auto-extracted concept from raw material compilation.
 [[ElectrochemicalSensingArray]]
 [[Entropy_Connectivity_Path]]
 [[EventDrivenSensoryEncoding]]
+[[EventDriven_Interconnect]]
+[[EventSparseTemporalEncoding]]
 [[FirstPrinciples_Derivation]]
 [[Heterogeneous_Integration]]
 [[Hypergraph_Label_Noise]]

@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Hardware_Paradigm]]
 [[Neuromorphic_Integration]]
 [[Neuromorphic_Network_Embedding]]
 [[Neuromorphic_NoC_Routing]]
@@ -45,10 +46,12 @@ Auto-extracted concept from raw material compilation.
 [[RobustnessToNoiseInSNN]]
 [[SDI_Bond]]
 [[SDI_STDP]]
+[[SDI_iNEST]]
 [[SDI_iNEST_Interconnect]]
 [[SNN]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
+[[ST_SNN]]
 [[SparseTemporalEncoding]]
 [[SpikeBasedGradientDescent]]
 [[Spiking_Neural_Network]]
@@ -56,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[SyntheticInertiaProvision]]
 [[TemporalBatchSynchronization]]
 [[iNEST]]
+[[iNEST_Interconnect]]
 [[iNEST_Neuromorphic_Integration]]
 
 ## Sources

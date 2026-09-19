@@ -39,8 +39,10 @@ Auto-extracted concept from raw material compilation.
 [[PowerLawScaling]]
 [[SNN]]
 [[Self_Organized_Criticality]]
+[[SpikePacketCompression]]
 [[Spiking_Neural_Network]]
 [[SynapticFatigueModel]]
+[[SynapticReinforcementConsolidation]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
 

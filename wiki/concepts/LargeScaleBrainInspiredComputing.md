@@ -27,7 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Brain_Verified_Scaling_Target]]
 [[ByteDance_Ada_Chip]]
 [[CST_MasterEquation]]
-[[Causal_Emergence]]
+[[causal emergence]]
 [[Causal_Emergence_Architecture]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -40,11 +40,12 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Network_Architecture_Invariant]]
 [[Defense_Industrial_Base_Reshaping]]
 [[Dragonfly_Hierarchical_Scaling]]
+[[Drosophila_FC2_Circuit]]
 [[EfficientDeepLearning]]
+[[EmergentIntelligence_Spacetime]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
-[[causal emergence]]
 [[iNEST]]
 
 ## Sources

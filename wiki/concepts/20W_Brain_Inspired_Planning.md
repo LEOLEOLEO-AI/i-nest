@@ -27,6 +27,9 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[BioInspiredLearningRule]]
 [[ChannelEventSparsity]]
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration]]
 [[Chiplet_Integration_Route]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[CorticalWaveRouting]]
@@ -37,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle]]
 [[Free_Energy_Principle_Network]]
 [[Gut_Brain_Immune_Network]]
+[[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Memristive_Solutions]]
 [[Memristor]]
@@ -52,8 +56,10 @@ Auto-extracted concept from raw material compilation.
 [[SDI_STDP]]
 [[SDI_STDP_Rule]]
 [[SDI节点接口规范与化合键定义]]
+[[SNN]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
+[[ST_SNN]]
 [[SelfMotivatedGrowth]]
 [[SpatiotemporalComplexityIndex]]
 [[Spike_Encoding_of_fMRI]]
@@ -65,6 +71,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
+[[iNEST_Neuromorphic_Integration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

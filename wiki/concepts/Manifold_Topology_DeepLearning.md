@@ -56,6 +56,8 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologicalComplexityCeiling]]
 [[TopologyAware_Learning]]
+[[TopologyConditionedLearning]]
+[[Topology_Centric_Packaging]]
 [[complex system]]
 [[iNEST]]
 [[涌现]]

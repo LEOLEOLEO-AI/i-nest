@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[ActionPrototypeClustering]]
+[[Autonomous_Spiking_Dynamics]]
 [[Bipartite_Interconnect]]
 [[Bipartite_Interconnect_Design]]
 [[BrainInspiredArchitecture]]
@@ -33,9 +34,11 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[SensorMemoryFusion]]
 [[SpiNNaker2_Chip]]
 [[SpiNNaker]]
 [[Spiking_Network_Simulation_Locality]]
+[[Spiking_Neural_Network]]
 [[iNEST]]
 [[iNEST_Interconnect]]
 [[iNEST_Neuromorphic_Integration]]

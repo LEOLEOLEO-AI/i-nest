@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Microbiome_Immune_Endocrine_Interplay]]
 [[Milinkovic B (2024)：复杂神经系统涌现动力学结构]]
 [[NCL神经计算定律详解]]
+[[Nature Communications_生物神经网络中突触多样性如何让人工神经网络更强大？]]
 [[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
@@ -57,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[PropertyPredictionModeling]]
 [[RecursiveSelfReferentialArchitecture]]
+[[Spiking_Neural_Network]]
 [[TCC]]
 [[TCC与INEST：2026全局论文与专利战略规划清单]]
 [[complex system]]
@@ -67,6 +69,7 @@ Auto-extracted concept from raw material compilation.
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

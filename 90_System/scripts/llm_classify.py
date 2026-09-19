@@ -53,7 +53,7 @@ for i, item in enumerate(ambig):
         content_short = content[:3000]
         
         response = client.chat.completions.create(
-            model="deepseek-ai/DeepSeek-V4-Pro",
+            model="deepseek-chat",
             messages=[
                 {"role": "system", "content": SYSTEM_PROMPT},
                 {"role": "user", "content": f"文件名: {fpath.name}\n\n内容:\n{content_short}"}

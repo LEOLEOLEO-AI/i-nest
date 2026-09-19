@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuron论文：Neuromorphic is dead, 神经形态已死。]]
+[[Physical_First_Principles_Design]]
 [[RISC-V 鏋舵瀯涓_SDI 鏅虹畻浜掕仈绯荤粺璁捐锛氶潰鍚_LLM 浣庡欢杩熸帹鐞嗕笌璁粌]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
@@ -67,6 +68,7 @@ Auto-extracted concept from raw material compilation.
 [[拓扑深度学习捕捉数据的高阶关系：信息传递拓扑神经网络概述]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
+[[研究进展：AI+新材料，5篇类脑智能]]
 [[神经网络]]
 
 ## Sources

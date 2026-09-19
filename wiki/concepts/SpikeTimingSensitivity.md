@@ -40,6 +40,8 @@ Auto-extracted concept from raw material compilation.
 [[Loihi2_SpikeEncoding]]
 [[Loihi]]
 [[LossSpikeMechanism]]
+[[MeanFieldSpikeRateApproximation]]
+[[Memristive_Interconnect]]
 [[Memristive_STDP]]
 [[MobilityEdge]]
 [[Network_Topology_Design]]

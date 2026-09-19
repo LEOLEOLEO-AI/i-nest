@@ -47,6 +47,8 @@ Auto-extracted concept from raw material compilation.
 [[CST_Intelligence_Emergence_Framework]]
 [[CatalyticReactionNetwork]]
 [[Cauchy_Aczel_Uniqueness]]
+[[CerebellarLikeCircuit]]
+[[Channel_Decoding_Energy_Landscape]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

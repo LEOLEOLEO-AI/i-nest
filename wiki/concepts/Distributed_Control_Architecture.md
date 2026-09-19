@@ -39,6 +39,8 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[ConsciousnessEngineeringLoop]]
 [[CrossbarArrayIntegration]]
+[[DARPA_ProjectManager_Model]]
+[[Defense_Industrial_Base_Reshaping]]
 [[Heterogeneous_Integration]]
 [[iNEST]]
 

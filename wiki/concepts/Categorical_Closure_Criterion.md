@@ -42,6 +42,8 @@ Auto-extracted concept from raw material compilation.
 [[NanomaterialFeatureEngineering]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[NoiseInjectedForwardPass]]
+[[PowerLawScalingClassification]]
 [[QuantumReservoirGeneralTheory]]
 [[QuantumReservoirMemoryCapacity]]
 [[ReservoirDynamics]]

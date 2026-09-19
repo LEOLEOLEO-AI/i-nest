@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[Cognitive_Relapse_Decoupling]]
 [[Continual_Learning_Modularity]]
+[[ContinuousTimeSNN]]
 [[CriticalBranching]]
 [[CriticalStateInformationMaximization]]
 [[CriticalityDrivenStateTransition]]
@@ -38,10 +39,11 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityOffCriticalityTransition]]
 [[Criticality]]
 [[Criticality_Based_Feature_Extraction]]
+[[DelayAwareSpikeEventDelivery]]
 [[DynamicTokenSparsity]]
 [[Edge_Neuromorphic_Compute]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
-[[InNetworkComputing]]
+[[In_Network_Computing]]
 [[InputAdaptiveComputation]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
@@ -51,8 +53,10 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Quantum_Criticality]]
+[[SNN]]
 [[SelfOrganization]]
 [[Self_Organized_Criticality]]
+[[Spiking_Neural_Network]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

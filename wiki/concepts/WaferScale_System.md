@@ -32,6 +32,8 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_based_heterogeneous_integration]]
 [[Complex_System_Theory]]
 [[DataProvenanceIntegrity]]
+[[Deep_Network_Architecture_Invariant]]
+[[Deep_Network_Layer_Stacking]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]

@@ -29,6 +29,8 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_EW_Neuromorphic_Controller]]
 [[Analog_InMemory_Processing]]
 [[BarrierConditionedTrajectory]]
+[[Control_Field_Framework]]
+[[MetaHardwareAbstraction]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[SpikeEncoding]]

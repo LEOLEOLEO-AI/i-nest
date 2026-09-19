@@ -21,14 +21,20 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[DynamicServiceComposition]]
+[[KV_Cache_To_BoundaryObject]]
 [[KV_Cache_to_BoundaryObject_Transition]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
 [[Neuromorphic_Computing]]
+[[NoC]]
 [[Obsidian_Plugin_Architecture]]
 [[OnChipOpticalTweezers]]
+[[RegularizerAsControlParameter]]
 [[SDI_Bond]]
 [[SDI_NPU_NoC_Integration]]
+[[SDI_TCC_iNEST_Bridge]]
 [[SDSoW]]
+[[SDSoW_Architecture]]
 [[iNEST]]
 
 ## Sources

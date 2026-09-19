@@ -35,6 +35,8 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Benchmark]]
 [[Analog_InMemory_Processing]]
 [[ArbitraryWavefunctionConfigurability]]
+[[Asymptotic_Exact_Solution]]
+[[BigBrainCellularAxis]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]

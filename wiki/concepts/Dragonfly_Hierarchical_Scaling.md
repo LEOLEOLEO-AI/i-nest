@@ -25,9 +25,10 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[BackpropagationFreeLearning]]
 [[BoundaryObject_Abstraction]]
+[[Brain_Connectome]]
 [[Brain_Verified_Scaling_Target]]
 [[CST_MasterEquation]]
-[[Causal_Emergence]]
+[[causal emergence]]
 [[Causal_Emergence_Architecture]]
 [[ChipletOnWafer]]
 [[Chiplet]]
@@ -37,13 +38,15 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[ComputationEfficientDeepLearning]]
 [[ConnectomeTopologyDirectedPropagation]]
+[[Connectome]]
+[[Deep_Network_Architecture_Invariant]]
 [[EfficientDeepLearning]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[LargeScaleBrainInspiredComputing]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[TCC]]
-[[causal emergence]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

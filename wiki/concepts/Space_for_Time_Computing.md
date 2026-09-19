@@ -29,11 +29,13 @@ Auto-extracted concept from raw material compilation.
 [[AI4PDE｜综述·论文推荐 08｜物理信息神经网络在偏微分方程问题中的应用：全面综述]]
 [[AIRA_NeuralArchSearch]]
 [[AI_Application_Scenario_Reconstruction]]
+[[AI_Cluster_Switch_Bottleneck]]
 [[AI_Faculty_Forum_2026]]
 [[AI_Orchestrator]]
 [[Active_Inference_Agent]]
 [[Ag_Ga2O3_Pt_Memristor]]
 [[Allreduce_Latency_Benchmark]]
+[[BigBrainCellularAxis]]
 [[Complex_System_Theory]]
 [[Memristor]]
 [[Memristor_Synapse]]
@@ -41,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
+[[Switch_Bottleneck]]
 [[神经网络]]
 
 ## Sources

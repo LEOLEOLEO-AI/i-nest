@@ -31,11 +31,13 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenAttentionMechanism]]
 [[EventDrivenSensoryEncoding]]
 [[EventDrivenTrajectoryEncoding]]
+[[EventDrivenWirelessTransmission]]
 [[Event_Driven_Architecture]]
 [[InputAdaptiveComputation]]
 [[Memory_Wall]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
+[[OptimalGeneralisationNearInterpolation]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

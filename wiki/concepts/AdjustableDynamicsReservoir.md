@@ -28,6 +28,8 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Encoding_Readout]]
 [[AnisotropicGaussianPrimitives]]
 [[AnomalousSpinTransport]]
+[[AtomicGeometryEncoding]]
+[[BigBrainCellularAxis]]
 [[BrainActivityPrediction]]
 [[Contested_Priors_Mechanism]]
 [[CouplingTopologyMemoryLink]]

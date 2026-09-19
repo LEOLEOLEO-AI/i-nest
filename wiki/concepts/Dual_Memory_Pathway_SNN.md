@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[DFlipFlop_SNN_Circuit]]
 [[EventDrivenInference]]
+[[Feedforward_SNN_Memory_Limitation]]
 [[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Acceleration]]
 [[InputAdaptiveComputation]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Scalable_Graph_Search_Neuromorphic]]
 [[Self_Organized_Criticality]]
 [[SpikeBasedNeuralRadianceField]]
+[[SpikeDrivenInference]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

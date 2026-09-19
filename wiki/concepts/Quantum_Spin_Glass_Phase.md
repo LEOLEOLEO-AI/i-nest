@@ -39,6 +39,8 @@ Auto-extracted concept from raw material compilation.
 [[Advanced_Computing_Project]]
 [[Analog_InMemory_Processing]]
 [[Anisotropic_Square_Lattice]]
+[[AnomalousLocalization]]
+[[ApproximantLattice]]
 [[Asymmetric_Interaction_Graph]]
 [[AxonalGrowthConeStochasticity]]
 [[BCM滑动阈值]]

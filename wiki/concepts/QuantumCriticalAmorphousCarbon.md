@@ -58,6 +58,8 @@ Auto-extracted concept from raw material compilation.
 [[NeuralQuantumStateOptimization]]
 [[NeuralQuantumState]]
 [[NoiseModulatedLearning]]
+[[NonvolatileChargeDomain]]
+[[QuantumConvolutionalTopology]]
 [[RecursiveSelfReferentialArchitecture]]
 [[TopologicalAndersonChernInsulator]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]

@@ -21,13 +21,14 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AdsorptionBiosorptionHybrid]]
+[[Chemical_Bond_Effect]]
 [[Chip_Floorplanning]]
 [[ChipletWaferInterconnectScaling]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]
 [[Chiplet_Integration_Route]]
-[[Chiplet_Interconnect]]
+[[chiplet interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[CommunicationAsComputation]]
@@ -49,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[NoC]]
 [[NoC_Topology]]
+[[P_Paradigm]]
 [[Package_Level_Topology]]
 [[PacketRoutingOptimization]]
 [[PhysicalWaferTriplet]]
@@ -61,11 +63,14 @@ Auto-extracted concept from raw material compilation.
 [[System_Level_Utility_Control]]
 [[TCC]]
 [[ThreeLayerArchitecture]]
+[[Topology_Centric_Computing]]
+[[Topology_Centric_Computing]]
 [[WaferScaleTopologyCentricComputing]]
 [[Wafer_Interconnect]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
+[[Wafer_Scale_Interconnect_Topology]]
 [[chiplet interconnect]]
 
 ## Sources

@@ -52,6 +52,8 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Complexity_Coordination_Layer]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
+[[DTGA]]
+[[DarkSiliconAwarePowerGating]]
 [[DataProvenanceIntegrity]]
 [[Evolutionary_Computability]]
 [[FlagOS_2_0]]

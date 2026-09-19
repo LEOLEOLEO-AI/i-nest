@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[11_SDI节点接口规范与化合键定义_dup]]
 [[AI_Faculty_Forum_2026]]
+[[AdaptiveFrequencyResonateFire]]
 [[AdaptiveLocalLearning]]
 [[AdaptiveSTDP]]
 [[AdaptiveSpeechToSpikeEncoding]]
@@ -30,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[DiscreteSTDP]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
+[[EventDrivenFunctionalConnectivity]]
 [[ITP_STDP]]
 [[Intelligence_Emergence]]
 [[NeuralNetworkSpectralAnalysis]]

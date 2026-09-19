@@ -21,6 +21,8 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AllParallel_SpikeBased_Computing]]
+[[Asynchronous_Circuit]]
+[[Asynchronous_Handshake_Protocol]]
 [[BurstGatedRouting]]
 [[Continuous_Discrete_Compute_Gap]]
 [[Interconnect_Routing]]

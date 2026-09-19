@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[20W_Brain_Inspired_Planning]]
 [[3d]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BigBrainCellularAxis]]
@@ -30,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[DiscreteSTDP]]
 [[EventCameraTemporalEncoding]]
 [[Event_Driven_Architecture]]
+[[FixedOverheadCost]]
 [[In_Package_Neuromorphic_Integration]]
 [[Interconnect_Routing]]
 [[IntrinsicTimingSTDP]]

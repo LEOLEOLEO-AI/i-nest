@@ -47,11 +47,13 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Speech_Tokenizer]]
 [[SNN]]
 [[Spike_Event_Driven_Attention]]
+[[SpikingNeuralImplementation]]
 [[SpikingNeuralPolicies]]
 [[Spiking_Neural_Network]]
 [[StructuredTemporalAttention]]
 [[TCC]]
 [[TemporalAdversarialPerturbation]]
+[[TemporalCodingForPointClouds]]
 [[TemporalSparsityExploitation]]
 [[iNEST]]
 

@@ -33,6 +33,8 @@ Auto-extracted concept from raw material compilation.
 [[3_Plus_1_Chiplet_Array]]
 [[3d]]
 [[AI_Driven_Power_Density_Scaling]]
+[[AdaptiveGraphDiffusion]]
+[[Adaptive_Intelligence_Principle]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration]]

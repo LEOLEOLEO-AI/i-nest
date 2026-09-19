@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3D_Heterogeneous_Integration]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Allreduce_Latency_Probe]]
 [[Analog_InMemory_Processing]]
@@ -50,11 +51,12 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalEnsembleComputation]]
 [[FunctionalEnsemble]]
 [[HZO_FerroelectricCapacitor]]
-[[HopfieldEnergyLandscape]]
+[[Hopfield_Energy_Landscape]]
 [[InNetworkAgentRewiring]]
 [[InputAdaptiveComputation]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[Long_Range_Interactions]]
 [[Model_Routing_Protocol]]
 [[NestedRepresentation]]
 [[NeuralNetworkSpectralAnalysis]]

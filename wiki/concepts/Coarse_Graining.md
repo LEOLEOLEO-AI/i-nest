@@ -37,6 +37,8 @@ Auto-extracted concept from raw material compilation.
 [[DarkSiliconAwarePowerGating]]
 [[Energy_Efficient_Control]]
 [[EpoxyMoldingCompoundEncapsulation]]
+[[ExplosiveCooperationTransition]]
+[[FerroelectricMemoryCell]]
 [[Network_Topology_Design]]
 [[iNEST]]
 [[神经网络]]

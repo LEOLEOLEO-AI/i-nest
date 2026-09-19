@@ -34,6 +34,8 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[DynamicalSelfDualCriticality]]
 [[EnsembleCreditAssignment]]
+[[FlexibleManifoldReconfiguration]]
+[[InNetworkPowerRouting]]
 [[InNetworkReconfiguration]]
 [[Interconnect_Routing]]
 [[LocalPlasticityPipeline]]

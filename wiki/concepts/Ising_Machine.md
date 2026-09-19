@@ -24,7 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Driven_Architecture_Search]]
 [[AI_Faculty_Forum_2026]]
 [[AI_Forum_Demo_Narrative]]
-[[Advanced_Packaging]]
+[[advanced packaging]]
 [[Advanced_Packaging_for_Space]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[AssociativeMemoryTopology]]
@@ -34,10 +34,12 @@ Auto-extracted concept from raw material compilation.
 [[CrossDomain_Integration]]
 [[DelayTolerantNetworkUAV]]
 [[Dynamic_Communication_Reconfiguration]]
+[[NCC_11]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
 [[SOC]]
+[[Topology_Centric_Placement]]
 [[advanced packaging]]
 
 ## Sources

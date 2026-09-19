@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[ChiralTopologicalMatter]]
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
+[[DataCenter_Chip_Logic_Compression]]
 [[DistinctReentrantPhases]]
 [[ERI_2_0_Strategy]]
 [[Heterogeneous_Synaptic_Motifs]]
@@ -44,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[KV_Cache_To_BoundaryObject]]
 [[KV_Cache_to_BoundaryObject_Transition]]
 [[MachineLearningPotential]]
+[[Memristor]]
 [[Memristor_Synapse]]
 [[MetaHardwareAbstraction]]
 [[NCL神经计算定律详解]]
@@ -67,6 +69,7 @@ Auto-extracted concept from raw material compilation.
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

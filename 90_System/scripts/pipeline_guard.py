@@ -15,12 +15,78 @@ LOGS = VAULT / "logs"
 STATE = VAULT / "state"
 STATUS_NOTE = VAULT / "60_MOC" / "07_Pipeline_Status.md"
 PAUSE_FILE = STATE / "pipeline_pause.json"
-DEFAULT_TIMEOUT_MINUTES = 35
+LOCK_FILE = STATE / "pipeline_guard.lock"  # 2026-09-06: 单例文件锁, 防止并发 guard 互杀
+DEFAULT_TIMEOUT_MINUTES = 75  # 实测最长 56min（graph 12385 节点导出），35min 会误杀触发暂停死锁
 TIMEZONE = ZoneInfo("Asia/Shanghai")
 
 
 def now():
     return datetime.now(TIMEZONE)
+
+
+# 2026-09-06: 进程级单例锁。
+# 故事: 调度任务(iNEST_Daily_Pipeline)与手动调用的 guard 互不知情, MultipleInstances 只对调度器内部生效;
+# 两套并发跑会争同一份 state/lock 文件, 系统终结其中一个(0xC000013A)导致 LastTaskResult=failed,
+# 进而触发健康告警重复弹出。这里用 OS 文件锁 + pid+host 互相发现, 已存在的 guard 主动让位或直接合入。
+class GuardSingleton:
+    def __init__(self, path):
+        self.path = Path(path)
+        self.fd = None
+
+    def acquire(self):
+        try:
+            self.fd = open(self.path, "x", encoding="utf-8")
+        except FileExistsError:
+            existing = self._read_existing()
+            if existing and self._is_alive(existing):
+                return False, existing
+            # 锁文件残留(上一次崩溃/cancel): 清掉重试
+            try:
+                self.path.unlink()
+            except OSError:
+                return False, self._read_existing()
+            try:
+                self.fd = open(self.path, "x", encoding="utf-8")
+            except FileExistsError:
+                return False, self._read_existing()
+        self._write_payload({"pid": __import__("os").getpid(), "host": __import__("socket").gethostname(),
+                             "started_at": now().isoformat(timespec="seconds")})
+        return True, None
+
+    def release(self):
+        if self.fd:
+            try: self.fd.close()
+            except OSError: pass
+            try: self.path.unlink(missing_ok=True)
+            except OSError: pass
+
+    def _write_payload(self, payload):
+        self.fd.seek(0); self.fd.truncate(); self.fd.write(json.dumps(payload)); self.fd.flush()
+
+    def _read_existing(self):
+        try:
+            return json.loads(self.path.read_text(encoding="utf-8"))
+        except (OSError, json.JSONDecodeError):
+            return None
+
+    @staticmethod
+    def _is_alive(payload):
+        if not isinstance(payload, dict) or "pid" not in payload:
+            return False
+        try:
+            import ctypes
+            PROCESS_QUERY_LIMITED_INFORMATION = 0x1000
+            STILL_ACTIVE = 259
+            h = ctypes.windll.kernel32.OpenProcess(PROCESS_QUERY_LIMITED_INFORMATION, False, int(payload["pid"]))
+            if not h:
+                return False
+            try:
+                code = ctypes.windll.kernel32.GetExitCodeProcess(h)
+            finally:
+                ctypes.windll.kernel32.CloseHandle(h)
+            return code == STILL_ACTIVE
+        except Exception:
+            return False
 
 
 def write_json_atomic(path, payload):
@@ -53,6 +119,7 @@ def write_status(status, detail, started, timeout_minutes, log_path, exit_code=N
         "failed": "科研管线执行失败",
         "timeout": "科研管线已超时并暂停",
         "paused": "科研管线等待人工确认",
+        "skipped": "科研管线跳过(检测到并发实例)",
     }[status]
     lines = [f"# {headline}", "", f"> 更新时间：{finished:%Y-%m-%d %H:%M %Z}", ""]
     lines.extend([
@@ -100,6 +167,22 @@ def run_pipeline(timeout_minutes, resume):
         PAUSE_FILE.unlink(missing_ok=True)
     if resume:
         PAUSE_FILE.unlink(missing_ok=True)
+
+    # 2026-09-06: 单例锁 — 检测到另一个活跃 guard 时, 主动退出避免互杀
+    singleton = GuardSingleton(LOCK_FILE)
+    acquired, holder = singleton.acquire()
+    if not acquired:
+        detail = f"Another pipeline guard is already running (pid={holder.get('pid') if holder else '?'} on {holder.get('host') if holder else '?'}); skipping to avoid concurrent corruption."
+        write_status("skipped", detail, None, timeout_minutes, None)
+        print(f"[SKIPPED] {detail}")
+        return 0  # 视为良性结果, 不会触发告警
+    try:
+        return _run_pipeline_inner(timeout_minutes)
+    finally:
+        singleton.release()
+
+
+def _run_pipeline_inner(timeout_minutes):
 
     LOGS.mkdir(parents=True, exist_ok=True)
     started = now()

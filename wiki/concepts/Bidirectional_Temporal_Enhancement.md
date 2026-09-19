@@ -20,13 +20,15 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AnisotropicGaussianPrimitives]]
+[[Complexity_Emergence]]
 [[Contested_Prior_Resolution]]
 [[DiscreteSTDP]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[Event_Driven_Architecture]]
+[[Evolutionary_Pattern_Modeling]]
 [[InNetworkNeuromorphicSimulation]]
-[[InNetworkNeuromorphic]]
+[[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic]]
 [[Intelligence_Emergence]]
 [[IntrinsicTimingSTDP]]

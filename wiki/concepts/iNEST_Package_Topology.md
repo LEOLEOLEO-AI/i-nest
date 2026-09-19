@@ -21,14 +21,19 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AdaptiveBitPrecisionExploration]]
+[[advanced packaging]]
 [[Advanced_Packaging_for_Space]]
+[[Bipartite_Interconnect]]
 [[Bipartite_Interconnect_Design]]
 [[CoPackagedOptics]]
 [[EventDrivenAttentionMechanism]]
+[[InputAdaptiveComputation]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[OptimalGeneralisationNearInterpolation]]
 [[TCC]]
+[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

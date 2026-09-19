@@ -30,6 +30,8 @@ Auto-extracted concept from raw material compilation.
 [[HybridResistiveMemoryCIM]]
 [[IMPLYMemristiveISA]]
 [[In_Memory_Computing]]
+[[MemristiveSupervisedLearning]]
+[[Memristive_Synaptic_Integration]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[iNEST]]

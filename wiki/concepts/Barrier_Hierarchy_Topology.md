@@ -51,6 +51,8 @@ Auto-extracted concept from raw material compilation.
 [[AtomicGeometryToElectronicTopologyMapping]]
 [[AttractorNeuralNetwork]]
 [[AutoAssociativeMemoryRobustness]]
+[[AutonomousCombatScenarios]]
+[[Autonomous_Unmanned_Combat_Coordination]]
 [[Barrier_Hierarchy]]
 [[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]

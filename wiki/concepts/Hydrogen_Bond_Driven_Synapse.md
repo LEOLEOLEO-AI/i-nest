@@ -27,7 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[BoundaryObject_Abstraction]]
 [[ByteDance_Ada_Chip]]
 [[CST_Intelligence_Emergence]]
-[[Causal_Emergence]]
+[[causal emergence]]
 [[Causal_Emergence_Integration]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Complex_System_Theory]]
@@ -35,9 +35,10 @@ Auto-extracted concept from raw material compilation.
 [[Complexity_Emergence_Engineering]]
 [[Constructed_Reality_Interconnect]]
 [[Course_Based_FPGA_Projects]]
+[[DataDrivenCellularAxis]]
+[[DeviceLevelNonlinearityScaling]]
 [[Intelligence_Emergence]]
 [[Neuromorphic_Computing]]
-[[causal emergence]]
 [[iNEST]]
 
 ## Sources

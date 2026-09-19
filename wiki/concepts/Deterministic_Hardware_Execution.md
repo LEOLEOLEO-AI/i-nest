@@ -26,6 +26,8 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[BioInspiredSequenceLearning]]
 [[Defense_Industrial_Base_Reshaping]]
+[[EndToEndTopologyLearning]]
+[[Independent_EdgeAI_Player_Endgame]]
 [[Learning_Rule_Comparison]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
@@ -35,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_STDP_Topology]]
 [[STDP_Plasticity]]
 [[STDP_Topology]]
+[[Synaptic_Plasticity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

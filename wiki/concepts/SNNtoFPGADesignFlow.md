@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Asynchronous_Circuit]]
+[[BrainInspired_Chip]]
 [[CorticalWaveRouting]]
 [[DVS_Event_Camera]]
 [[Event_Driven_Architecture]]
@@ -31,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Meta_Residual_Architecture]]
 [[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Hardware_Paradigm]]
 [[Neuromorphic_Planning_Architecture]]
 [[SDI_Bond]]
 [[SDI_iNEST]]

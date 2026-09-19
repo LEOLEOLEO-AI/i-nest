@@ -33,12 +33,14 @@ Auto-extracted concept from raw material compilation.
 [[ClosedLoopNeuromorphicControl]]
 [[Controlled_Release_Kinetics]]
 [[Criticality]]
+[[EmulationTheoryDisturbanceObserver]]
 [[EventDrivenMotionDeblurring]]
 [[Neuromorphic_Computing]]
 [[PowerLawScaling]]
 [[Self_Organized_Criticality]]
 [[SpikeEncoding]]
 [[Spiking_Neural_Network]]
+[[SynapticReinforcementConsolidation]]
 [[iNEST]]
 
 ## Sources

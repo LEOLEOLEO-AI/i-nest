@@ -47,11 +47,13 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[Neuromorphic_Speech_Tokenizer]]
 [[Neuromorphic_Topology]]
+[[Spike_Driven_Intelligence]]
 [[Spike_Event_Driven_Attention]]
 [[SpikingNeuralTransformer]]
 [[Spiking_Neural_Network]]
 [[SynapticConsolidation]]
 [[TemporalAdversarialPerturbation]]
+[[TemporalCodingForPointClouds]]
 [[TemporalSparsityExploitation]]
 [[iNEST]]
 

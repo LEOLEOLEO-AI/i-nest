@@ -45,7 +45,7 @@ Files:
     
     try:
         resp = client.chat.completions.create(
-            model='deepseek-ai/DeepSeek-V4-Pro',
+            model='deepseek-chat',
             messages=[{'role': 'user', 'content': prompt}],
             temperature=0.1,
             max_tokens=2000

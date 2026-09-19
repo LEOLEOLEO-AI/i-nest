@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[DivergentHigherAreaRanking]]
 [[DynamicalSelfDualCriticality]]
+[[EEG_Criticality]]
 [[FatigueSTDP]]
 [[Fatigue_SpikePattern]]
 [[Layered_Attractive_Hubbard_Model]]
@@ -45,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[SelfOrganizedRobustness]]
 [[Self_Organized_Criticality]]
+[[Sleep_EEG_Criticality]]
 [[SpikeTimingFidelity]]
 [[Spike_Timing_Dependent_Plasticity]]
 [[Spike_Timing_Dependent_Plasticity_STDP]]
@@ -53,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[SurrogateGradientMethod]]
 [[Synaptic_Plasticity]]
 [[TemporalPrecisionParallelism]]
+[[TopologyDependentScaling]]
 [[iNEST]]
 
 ## Sources

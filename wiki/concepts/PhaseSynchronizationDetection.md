@@ -20,12 +20,14 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AdaptiveFrequencyResonateFire]]
 [[AdaptiveSTDP]]
 [[AdaptiveSpeechToSpikeEncoding]]
 [[Bidirectional_Temporal_Enhancement]]
 [[Controlled_Release_Kinetics]]
 [[DiscreteSTDPLearning]]
 [[DiscreteSTDP]]
+[[EventDrivenFunctionalConnectivity]]
 [[ITP_STDP]]
 [[Intelligence_Emergence]]
 [[Neuromorphic_Computing]]

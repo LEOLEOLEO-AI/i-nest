@@ -28,6 +28,8 @@ Auto-extracted concept from raw material compilation.
 [[Battery_Technology_Integration]]
 [[BenchmarkingSuite]]
 [[Brain_Scale_Parameter_Baseline]]
+[[DARPA_ProjectManager_Model]]
+[[DiagnosticReportFramework]]
 [[TCC]]
 [[iNEST]]
 

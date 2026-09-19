@@ -22,9 +22,11 @@ Auto-extracted concept from raw material compilation.
 
 [[Brain_Scale_Parameter_Baseline]]
 [[DARPA_ProjectManager_Model]]
-[[InNetworkNeuromorphic]]
+[[HigherOrderTransitionKernel]]
+[[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic]]
 [[Network_Topology_Design]]
+[[NeuromorphicSafetyBoundary]]
 [[Neuromorphic_Computing]]
 [[PhysicalSubstrateReservoir]]
 [[Reservoir_Computing]]

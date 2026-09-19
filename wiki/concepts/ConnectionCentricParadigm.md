@@ -49,6 +49,8 @@ Auto-extracted concept from raw material compilation.
 [[GroupNeuronEnsemble]]
 [[HigherOrderRelations]]
 [[Intelligence_Emergence]]
+[[LLM_Reward_Design]]
+[[LLM_TopologicalReplicationGap]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[TCC]]

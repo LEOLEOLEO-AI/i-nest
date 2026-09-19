@@ -42,6 +42,8 @@ Auto-extracted concept from raw material compilation.
 [[FormalLinguisticCompetence]]
 [[HierarchicalBayesianCommunityDetection]]
 [[Intelligence_Emergence]]
+[[InternalStateCriticality]]
+[[MacroCriticalityEmergence]]
 [[Neuromorphic_Computing]]
 [[Self_Organized_Criticality]]
 [[Synaptic_Plasticity]]

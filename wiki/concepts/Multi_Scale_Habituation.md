@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Continual_Learning_Topology]]
 [[Continuous_Memory_System]]
+[[DeviceLevelNonlinearityScaling]]
 [[Energy_Efficient_Control]]
 [[FerroelectricMemoryCell]]
 [[Ferroelectric_Devices]]
@@ -57,8 +58,10 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
+[[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

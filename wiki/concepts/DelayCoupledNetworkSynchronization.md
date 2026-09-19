@@ -35,6 +35,8 @@ Auto-extracted concept from raw material compilation.
 [[EventCameraTemporalPipeline]]
 [[EventDrivenFunctionalConnectivity]]
 [[EventDrivenMotionDeblurring]]
+[[EventDrivenVisualPipeline]]
+[[FixedOverheadCost]]
 [[FormalLinguisticCompetence]]
 [[Fractal_Scaling]]
 [[GlassInterposerSignalIntegrity]]

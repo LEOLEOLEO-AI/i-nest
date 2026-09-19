@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenRiskAssessment]]
 [[Event_Driven_Architecture]]
 [[FixedOverheadCost]]
+[[FormalToolchain]]
 [[FoveationGuidedTokenSelection]]
 [[FunctionalEnsembleComputation]]
 [[FunctionalEnsemble]]
@@ -47,9 +48,9 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
-[[Neuromorphic_Interconnect]]
 [[Neuromorphic_Selective_State_Space]]
 [[NoiseModulated_SynapticPlasticity]]
+[[RealTimeImageToEventConversion]]
 [[RecursiveSelfReferentialArchitecture]]
 [[STDP_Plasticity]]
 [[SpectralSpikeEncoding]]
@@ -63,6 +64,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TemporalSparsityExploitation]]
 [[iNEST]]
+[[neuromorphic interconnect]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

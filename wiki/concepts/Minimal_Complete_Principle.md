@@ -21,10 +21,15 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Driven_Power_Density_Scaling]]
-[[Advanced_Packaging]]
+[[advanced packaging]]
 [[Advanced_Packaging_for_Space]]
+[[Bond_Operation_Algebra]]
 [[BurstGatedRouting]]
+[[CavityMethodAnalysis]]
 [[Chemical_Bond_Operation_Algebra]]
+[[Chiplet]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Heterogeneous_Stacking]]
 [[CrossDomain_Integration]]
 [[Dynamic_Communication_Reconfiguration]]
 [[FPGA_NeuromorphicMapping]]

@@ -34,6 +34,8 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_ProjectManager_Model]]
 [[Deep_Thermalisation]]
 [[Defense_Industrial_Base_Reshaping]]
+[[Evolutionary_Structure_Computability]]
+[[FastSlow_Dynamics]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

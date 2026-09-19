@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AddressRedundancyElimination]]
 [[Adjoint_Gradient_Propagation]]
 [[AdversarialSpikePerturbation]]
+[[BarrierConditionedTrajectory]]
 [[CrossLayer_SignalRouting]]
 [[CrossbarSNNArchitecture]]
 [[DualModeSNNConventionalInference]]
@@ -49,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[SpuriousFeatureSensitivity]]
 [[TCC]]
+[[TemporalEfficientSNN]]
 [[iNEST]]
 
 ## Sources

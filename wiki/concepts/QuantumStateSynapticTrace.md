@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AI4PDE｜综述·论文推荐 08｜物理信息神经网络在偏微分方程问题中的应用：全面综述]]
 [[AI_Faculty_Forum_2026]]
 [[ActionPrototypeClustering]]
+[[Adaptive_Deep_Brain_Stimulation]]
 [[AnytimePointCloudRecognition]]
 [[BigBrainCellularAxis]]
 [[BrainInspiredArchitecture]]
@@ -53,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[Temporal_Computing_Paradigm]]
+[[WaveBasedComputation]]
 [[iNEST]]
 [[神经网络]]
 

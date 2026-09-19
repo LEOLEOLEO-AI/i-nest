@@ -51,11 +51,13 @@ Auto-extracted concept from raw material compilation.
 [[In_Network_Neuromorphic_Offload]]
 [[LIF_Neuron_Model]]
 [[Memristive_InMemory_Computing]]
+[[Memristive_Interconnect]]
 [[Memristive_STDP]]
 [[Memristive_Spike_Integration]]
 [[Memristor]]
 [[Memristor_Synapse]]
 [[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
@@ -65,6 +67,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[complex system]]
 [[iNEST]]
+[[iNEST_Interconnect_Topology]]
 [[神经网络]]
 
 ## Sources

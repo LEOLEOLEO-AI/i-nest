@@ -37,10 +37,14 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration]]
 [[Chiplet_Stacking]]
 [[ChiralSymmetryClasses]]
+[[CircuitTopologySearch]]
 [[CoPackagedOptics]]
+[[Compute_In_Memory_Neuromorphic]]
 [[Heterogeneous_Integration]]
+[[In_Memory_Computing]]
 [[Interconnect_Topology]]
 [[Network_Topology_Design]]
+[[Neuromorphic_Computing]]
 [[TCC]]
 
 ## Sources

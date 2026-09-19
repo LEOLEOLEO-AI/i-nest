@@ -42,6 +42,8 @@ Auto-extracted concept from raw material compilation.
 [[getnote_2026-06-28_从固定拓扑到液态拓扑计算]]
 [[getnote_2026-06-28_海河实验室项目指南_中间版本_]]
 [[iNEST]]
+[[scaling laws]]
+[[人物_从“争气机”到晶上革命，他为何成为芯片领域的“破局者”？]]
 [[复杂网络]]
 [[多突触神经元模型问世，国内团队打造类脑计算新引擎，登上《自然·通讯》]]
 [[智能涌现]]

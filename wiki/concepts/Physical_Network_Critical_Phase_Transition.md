@@ -20,6 +20,8 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3D_Torus_Topology]]
+[[3d]]
 [[AnalogDomainCompression]]
 [[AvalancheBranchingRatio]]
 [[Brain_Scale_Parameter_Baseline]]
@@ -29,7 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[ChipletWaferInterconnectScaling]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
+[[chiplet interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[CommunicationAsComputation]]
@@ -37,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossbarArrayVLSI]]
 [[Dragonfly_Inspired_WaferScale]]
 [[Fractal_Topology_Expansion]]
+[[Hard_Breakdown]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Topology]]
 [[Network_Topology_Design]]

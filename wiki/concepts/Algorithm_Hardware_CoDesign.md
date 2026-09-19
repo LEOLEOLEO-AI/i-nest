@@ -33,6 +33,8 @@ Auto-extracted concept from raw material compilation.
 [[DTGA]]
 [[Distributed_Spike_Communication]]
 [[DisturbancePropagationPath]]
+[[DrivenDissipativeDynamics]]
+[[EnergyEfficientRestoration]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]

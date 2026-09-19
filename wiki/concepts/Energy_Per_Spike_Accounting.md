@@ -33,9 +33,13 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Replication_Strategy]]
 [[Algorithmic_Warfare]]
 [[AnisotropicGaussianPrimitives]]
+[[Avoided_Criticality]]
+[[Branch_Prediction_in_Pipelined_Processors]]
+[[Criticality]]
 [[FlexibilityThreshold]]
 [[Neuromorphic_Computing]]
 [[SNN]]
+[[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

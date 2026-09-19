@@ -24,6 +24,8 @@ Auto-extracted concept from raw material compilation.
 [[ActiveMatterComputing]]
 [[AgenticServiceManifesto]]
 [[BCU_Operation]]
+[[BackpropFree_Learning]]
+[[Coherent_Floquet_Quantum_Reservoir]]
 [[Network_Topology_Design]]
 [[Reservoir_Computing]]
 [[TCC]]

@@ -35,6 +35,8 @@ Auto-extracted concept from raw material compilation.
 [[ControlTheoreticTopology]]
 [[CriticalLearningRegime]]
 [[Critical_Region_Extension]]
+[[DestructiveInterferenceConfinement]]
+[[ElectricFieldModulatedCoupling]]
 [[Emergent_Order_Deep_Belief_Networks]]
 [[ExactWiringRouting]]
 [[GrandCanonicalOptimization]]

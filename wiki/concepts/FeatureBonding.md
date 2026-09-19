@@ -38,6 +38,8 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Decoupling]]
 [[CollectiveStateTopology]]
 [[ControlDrivenCriticalFluctuations]]
+[[ControlTheoreticTopology]]
+[[CounterstreamSignalPropagation]]
 [[CriticalLearningRegime]]
 [[Critical_Region_Extension]]
 [[Criticality]]

@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
+[[3d]]
 [[AI_Application_Scenario_Reconstruction]]
 [[Alpha_Coefficient_Phase_Transition_Amplification]]
 [[Analog_InMemory_Processing]]
@@ -33,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_Network_Topology]]
 [[Complex_System_Theory]]
 [[Crystallized_Neural_Manifolds]]
+[[DARPA_3DHI_Roadmap]]
 [[DARPA_ProjectManager_Model]]
 [[Deep_Thermalisation]]
 [[ERI_2_0_Strategy]]
@@ -41,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[EvanescentFieldTrapping]]
 [[Evolving_System_Adaptation]]
 [[FirstPrinciples_AI]]
+[[FisherOrthogonalMemory]]
 [[MasterEquationRG]]
 [[MeanFieldSpinGlass]]
 [[Memory_Technology_Coexistence]]

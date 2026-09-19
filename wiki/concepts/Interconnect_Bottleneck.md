@@ -20,18 +20,20 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3D_Integrated_Chiplet_Stacking]]
 [[3D_Vertical_Interconnect]]
 [[3d]]
 [[AdvancedPackagingInterconnect]]
-[[AdvancedPackaging]]
-[[Advanced_Packaging]]
+[[advanced packaging]]
+[[advanced packaging]]
 [[Advanced_Packaging_for_Space]]
 [[AnalogInMemoryComputing]]
 [[Chiplet]]
 [[Chiplet_Based_Trusted_Hardware]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
+[[chiplet interconnect]]
 [[Chiplet_NoC_Interconnect]]
+[[Chiplet_Stacking]]
 [[Collective_Offloading]]
 [[Heterogeneous_Integration]]
 [[InInterconnectMemory]]
@@ -43,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[SOW_BottomLayer]]
 [[Spaceborne_Computing_Architecture]]
 [[TCC]]
+[[WideLink_NoC_Router]]
 [[advanced packaging]]
 [[chiplet interconnect]]
 

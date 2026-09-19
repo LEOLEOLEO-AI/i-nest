@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[EdgeAI_Market_Consolidation_Driver]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[L2_L3_Reconfigurability]]
 [[MultiTimescaleSeparation]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
@@ -57,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[SDDE_Physical_Dynamics]]
 [[SelfFocusingControl]]
 [[TCC]]
+[[TemperatureSensitivityControl]]
 [[ThermallyDrivenSuperparamagnetReservoir]]
 [[神经网络]]
 

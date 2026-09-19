@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration_Route]]
 [[Communication_Primitive]]
 [[Criticality]]
+[[CrossbarInterconnect]]
 [[DTGA]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Heterogeneous_Integration]]
@@ -45,6 +46,8 @@ Auto-extracted concept from raw material compilation.
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
+[[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[NoC]]
 [[NoC_SDI]]
 [[NoC_SDI_Integration]]
@@ -70,6 +73,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
 [[Wafer_Scale_Neuromorphic]]
+[[Wafer_Scale_Neuromorphic_Integration]]
 [[Γst_Revision]]
 
 ## Sources

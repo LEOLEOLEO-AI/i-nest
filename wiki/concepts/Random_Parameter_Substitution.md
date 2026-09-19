@@ -48,6 +48,8 @@ Auto-extracted concept from raw material compilation.
 [[IntegratedSensingFusion]]
 [[IntegrationProspectsForVLSI]]
 [[Intelligence_Emergence]]
+[[InterconnectAwareGradientAggregation]]
+[[MachineLearningPotential]]
 [[MeanFieldSpinGlass]]
 [[Microbiome_Immune_Endocrine_Interplay]]
 [[NanomaterialFeatureEngineering]]

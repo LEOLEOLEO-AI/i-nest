@@ -40,6 +40,8 @@ Auto-extracted concept from raw material compilation.
 [[ElectronicPhotonicIntegratedCircuit]]
 [[Feedback_Ising_Neural_Networks]]
 [[Heterogeneous_Integration]]
+[[ImmobilizationStabilityEnhancement]]
+[[InterFPGA_Spike_Routing]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[TCC]]

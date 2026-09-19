@@ -20,10 +20,12 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[1M1T1R_SynapticNeuron]]
 [[20W_Brain_Inspired_Planning]]
 [[ActiveDendriteSNN]]
 [[AdaptiveAsymmetricSurrogateGradient]]
 [[AdaptiveFlexibilityThreshold]]
+[[AdaptiveTimeStepTraining]]
 [[BigBrainCellularAxis]]
 [[BioInspiredLearningRule]]
 [[Bio_plausible_Neuromorphic_Disturbance_Observer]]

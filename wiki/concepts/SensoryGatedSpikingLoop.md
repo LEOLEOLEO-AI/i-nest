@@ -19,10 +19,12 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[20W_Brain_Inspired_Planning]]
 [[3D_Torus_6_Degree]]
 [[3d]]
 [[ActiveDendriteSNN]]
 [[AdaptiveDeltaPulseFrequencyEncoding]]
+[[AdaptiveFlexibilityThreshold]]
 [[AnomalousSpinTransport]]
 [[BurstTemporalPlasticity]]
 [[Chiplet]]
@@ -32,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[EEGSpikeEncoding]]
 [[ErrorAmplificationLimits]]
 [[EventDrivenSynchronization]]
+[[FlexibilityThreshold]]
 [[FrequencyAdaptationMechanism]]
 [[GradientAsymmetry]]
 [[GraphAnomalySpikeEncoding]]

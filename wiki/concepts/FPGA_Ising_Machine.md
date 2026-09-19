@@ -22,9 +22,11 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Driven_Architecture_Search]]
 [[AI_Forum_Demo_Narrative]]
+[[AgenticServiceOrchestration]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Baseline_Draft_Status]]
 [[Bond_Operation_Algebra]]
+[[BurstInterleaving]]
 [[Chemical_Bond_Operation_Algebra]]
 [[Defense_Industrial_Base_Reshaping]]
 [[DynamicServiceComposition]]

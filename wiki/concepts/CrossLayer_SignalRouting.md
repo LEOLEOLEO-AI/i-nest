@@ -28,6 +28,8 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[BarrierConditionedTrajectory]]
 [[Baseline_Draft_Status]]
+[[DirectTrainingSNN]]
+[[Direct_Training_Spiking_Neural_Networks]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[EnergyEfficientNeuromorphic]]

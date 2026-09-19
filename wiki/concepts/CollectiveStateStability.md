@@ -49,6 +49,8 @@ Auto-extracted concept from raw material compilation.
 [[Confinement]]
 [[DLRM_Optimized_Dataflow]]
 [[DisorderInducedTopologicalOrder]]
+[[Disorder_Interaction_Competition]]
+[[DynamicInference]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

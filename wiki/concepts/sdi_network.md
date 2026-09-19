@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[4H_SiC_SubstrateProcessing]]
 [[BackpropagationFreeLearning]]
+[[CLINKAsCarrierPrimitive]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CongestionAwareNoCPlacement]]
@@ -29,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[DiagnosticReportFramework]]
 [[DynamicServiceComposition]]
 [[Dynamic_Structural_Hole_Reconfiguration]]
+[[GeneralIntelligenceSubstrate]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Topology]]
 [[Network_Topology_Design]]

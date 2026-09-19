@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[20W_Brain_Inspired_Planning]]
 [[AnisotropicGaussianPrimitives]]
 [[AnomalousSpinTransport]]
 [[BigBrainCellularAxis]]
@@ -36,12 +37,13 @@ Auto-extracted concept from raw material compilation.
 [[CrossTaskNeuralRepresentation]]
 [[DataDrivenCellularAxis]]
 [[EnsembleSparsity]]
+[[FixedOverheadCost]]
 [[FlexibilityThreshold]]
 [[GutBrainAxis_Reprogramming]]
 [[Hardware_Accelerated_SNN]]
 [[HippocampalNeocorticalIntelligence]]
 [[InNetworkNeuromorphicEmergence]]
-[[InNetworkNeuromorphic]]
+[[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

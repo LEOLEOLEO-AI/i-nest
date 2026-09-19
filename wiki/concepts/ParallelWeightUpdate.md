@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AutonomousAdaptation]]
 [[BackpropagationFreeLearning]]
 [[CST计量仪]]
+[[CavityMethodAnalysis]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
@@ -48,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[MetaHardwareAbstraction]]
 [[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]
 [[Network_Topology_Design]]
+[[NeuralPrecision]]
 [[Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]
 [[OnChipOpticalTweezers]]
@@ -65,6 +67,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

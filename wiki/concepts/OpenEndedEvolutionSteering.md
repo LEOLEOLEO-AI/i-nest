@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[20W_Brain_Inspired_Planning]]
 [[3D_Integrated_Chiplet_Stacking]]
 [[3D_Torus_6_Degree]]
 [[3d]]
@@ -55,7 +56,9 @@ Auto-extracted concept from raw material compilation.
 [[SpikeEncoding]]
 [[SpikeInformationDensity]]
 [[Spike_Residual_Connection]]
+[[SpikingMOT]]
 [[SpikingMotorControl]]
+[[SpikingMuscleActivation]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]

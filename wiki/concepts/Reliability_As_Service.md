@@ -38,6 +38,8 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[EnsembleCreditAssignment]]
 [[ExplainableEnergyAI]]
+[[FlexibleManifoldReconfiguration]]
+[[InNetworkPowerRouting]]
 [[InNetworkReconfiguration]]
 [[Interconnect_Routing]]
 [[LocalPlasticityPipeline]]

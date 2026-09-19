@@ -21,9 +21,10 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Faculty_Forum_2026]]
-[[Advanced_Packaging]]
+[[advanced packaging]]
 [[Advanced_Packaging_for_Space]]
 [[AnalogInMemoryComputing]]
+[[Attention_Residuals]]
 [[Chiplet]]
 [[Chiplet_Based_Trusted_Hardware]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -53,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[iNEST_Interconnect]]
 [[iNEST_Wafer]]
+[[vLLM_plugin_FLSDI]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

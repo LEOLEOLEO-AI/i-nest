@@ -21,6 +21,8 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[ActionPrototypeClustering]]
+[[ActiveInferenceEdgeLoop]]
+[[ActiveInference]]
 [[ConsciousnessEngineeringLoop]]
 [[DARPA_ProjectManager_Model]]
 [[ElectronicPhotonicIntegratedCircuit]]
@@ -35,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[ReservoirDynamics]]
 [[Reservoir_Computing]]
 [[Spiking_Neural_Network]]
+[[Whole_Organism_Behavioral_Assay]]
 [[iNEST]]
 
 ## Sources

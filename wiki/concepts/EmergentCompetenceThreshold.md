@@ -45,16 +45,19 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Theory]]
 [[FeFET_Polarization_Switching]]
+[[Heterogeneous_Synaptic_Motifs]]
 [[Intelligence_Emergence]]
 [[NCL神经计算定律详解]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Spiking_Neural_Network]]
 [[TCC]]
 [[analog computation]]
 [[iNEST]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

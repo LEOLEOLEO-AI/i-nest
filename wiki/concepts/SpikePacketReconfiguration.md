@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[20W_Brain_Inspired_Planning]]
 [[AINext_Initiative]]
 [[AdaptiveFrequencyResonateAndFire]]
 [[AdaptiveLocalLearning]]
@@ -29,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[Cross_Network_Representation_Transfer]]
+[[Disorder_Driven_Quantum_Phase_Transition]]
 [[Dynamic_Expert_Routing]]
 [[EnsembleCreditAssignment]]
 [[ExplainableEnergyAI]]

@@ -31,6 +31,8 @@ Auto-extracted concept from raw material compilation.
 [[CooperativeEmergence]]
 [[CriticalWeightNormBoundary]]
 [[CrossLayer_SignalRouting]]
+[[CubicLatticeInterconnect]]
+[[DifferentiableNetworkMetrics]]
 [[DirtyWeylSemimetal]]
 [[DisorderedNetworkInterconnect]]
 [[EventTriggeredDistributedControl]]

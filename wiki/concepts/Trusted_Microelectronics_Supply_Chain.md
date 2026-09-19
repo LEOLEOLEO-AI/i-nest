@@ -39,6 +39,8 @@ Auto-extracted concept from raw material compilation.
 [[ArchitecturalGrounding]]
 [[Architectural_Conditioning]]
 [[AthermalRandomFieldBlumeCapel]]
+[[BCM滑动阈值]]
+[[Bipartite_Interconnect_Fabric]]
 [[CST_SynergisticCoordination]]
 [[Chain_of_Thought_Reasoning]]
 [[Chiplet]]

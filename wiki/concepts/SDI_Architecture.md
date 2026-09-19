@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[20W_Brain_Inspired_Planning]]
 [[AnisotropicGaussianPrimitives]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -29,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Prior_Resolution]]
 [[CorticalTravelingWave]]
 [[CorticalWaveRouting]]
+[[CrossbarArrayVLSI]]
 [[EventCameraTemporalEncoding]]
 [[Flexible_Spike_Routing]]
 [[Heterogeneous_Integration]]

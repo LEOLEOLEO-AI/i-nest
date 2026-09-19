@@ -31,6 +31,8 @@ Auto-extracted concept from raw material compilation.
 [[AI_Orchestrator]]
 [[AI_Supply_Chain_Increment]]
 [[AI人工智能 卷积神经网络（CNN）_w3cschool]]
+[[ANN动力学]]
+[[Accessibility_Gradient]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

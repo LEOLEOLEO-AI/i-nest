@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[1024_Card_SuperNode]]
 [[3D_Heterogeneous_Integration]]
+[[3D_Integrated_Chiplet_Stacking]]
 [[3D_Integration]]
 [[3d]]
 [[AI_Memory_Infrastructure]]
@@ -33,8 +34,10 @@ Auto-extracted concept from raw material compilation.
 [[Butterfly_Topology]]
 [[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Stacking]]
 [[ChiralSymmetryClasses]]
 [[CoPackagedOptics]]
+[[Compute_In_Memory_Neuromorphic]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Complexity_Coordination_Layer]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[DendriticReservoirState]]
+[[Distributed_Spike_Communication]]
 [[Emergent_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[EnergyAwareLearning]]
@@ -58,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[SelfOrganizedOscillatoryLearning]]
 [[ShortTermMemory]]
+[[Spiking_Neural_Network]]
 [[Stigmergic_Neural_Plasticity]]
 [[SuperparamagneticSwitchingRate]]
 [[Synaptic_Plasticity]]
@@ -67,6 +69,7 @@ Auto-extracted concept from raw material compilation.
 [[TwoTimescaleNeuroEvolution]]
 [[complex system]]
 [[iNEST]]
+[[iNEST_Interconnect_Topology]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

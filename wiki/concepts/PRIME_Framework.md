@@ -20,9 +20,11 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[20W_Brain_Inspired_Planning]]
 [[Bipartite_Interconnect]]
 [[Bipartite_Interconnect_Design]]
 [[ChannelEventSparsity]]
+[[ConductingPolymerDendriteMemory]]
 [[EventDrivenAttentionMechanism]]
 [[GradientFreeSNNTraining]]
 [[In_Memory_Computing]]

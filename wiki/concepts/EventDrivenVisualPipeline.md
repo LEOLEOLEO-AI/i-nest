@@ -32,6 +32,8 @@ Auto-extracted concept from raw material compilation.
 [[Biologically_Plausible_Learning_Rules]]
 [[BulletTrainScheduling]]
 [[BurstTemporalPlasticity]]
+[[Catastrophic_Forgetting_Mitigation]]
+[[Contested_Priors_Architecture]]
 [[Criticality]]
 [[CrossEntityPreemptiveWarning]]
 [[DiscreteContinuous_Unification]]

@@ -44,6 +44,8 @@ Auto-extracted concept from raw material compilation.
 [[DistributedInference]]
 [[EndocrineAxisDysregulation]]
 [[MagicStateProtocol]]
+[[Mesoscopic_Scale_Advantage_Formula]]
+[[MicroLED_Array_Programmer]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[Phase_Diagram_of_Model_Scaling]]

@@ -46,6 +46,8 @@ Auto-extracted concept from raw material compilation.
 [[CorticalEfficiencyReliabilityExchange]]
 [[Crystallized_Neural_Manifolds]]
 [[DAGGER_Algorithm]]
+[[Disentangled_Physics_Neural_Architecture]]
+[[DisorderInducedLocalization]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

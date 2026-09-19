@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
+[[3D_Torus_6_Degree]]
 [[AI_Faculty_Forum_2026]]
 [[AlternativeBridgingModels]]
 [[AnomalousSpinTransport]]
@@ -45,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicHardware]]
 [[NeuromorphicVisualPipeline]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[Nonlinear_Gain]]
 [[P_Paradigm]]
 [[PersonalizedSNNTransfer]]
@@ -64,6 +66,8 @@ Auto-extracted concept from raw material compilation.
 [[StructuralPriorEncoding]]
 [[TCCNPU_Coordination_Roadmap]]
 [[TCC]]
+[[Topology_Centric_Neuromorphic]]
+[[Topology_Centric_Neuromorphic_Integration]]
 [[branch prediction]]
 [[emerging CMOS memristor]]
 [[memristor device]]
