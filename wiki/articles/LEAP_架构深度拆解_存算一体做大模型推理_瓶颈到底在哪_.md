@@ -18,6 +18,3 @@ NoC, 拓扑
 
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
-[[NoC]]
-[[TCC]]
-[[存算一体]]

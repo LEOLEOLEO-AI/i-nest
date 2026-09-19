@@ -16,9 +16,4 @@ SNN, TCC, iNEST, spiking
 
 ## Related Concepts
 
-[[Fully_Analog_Memristive_SNN]]
-[[Memristive_SNN]]
-[[SNN]]
 [[Spiking_Neural_Network]]
-[[TCC]]
-[[iNEST]]

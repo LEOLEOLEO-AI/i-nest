@@ -23,7 +23,4 @@ TCC
 
 ## Related Concepts
 
-[[Ferroelectric_Devices]]
-[[Memristor]]
 [[Memristor_Synapse]]
-[[TCC]]

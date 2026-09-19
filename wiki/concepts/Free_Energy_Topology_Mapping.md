@@ -73,6 +73,7 @@ Auto-extracted concept from raw material compilation.
 [[Textbook_Paradigm_Definition]]
 [[TopologyAware_Renormalization]]
 [[Wafer_Scale_Interconnect_Memristor]]
+[[vLLM_plugin_FLSDI]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

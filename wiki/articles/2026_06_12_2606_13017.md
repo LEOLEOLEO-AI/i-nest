@@ -23,6 +23,4 @@ iNEST
 
 ## Related Concepts
 
-[[Criticality]]
-[[Self_Organized_Criticality]]
-[[iNEST]]
+*(no linked concepts yet)*

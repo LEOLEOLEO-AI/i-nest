@@ -1,5 +1,5 @@
 {
-  "last_compile": "2026-09-19",
+  "last_compile": "2026-09-20",
   "processed_files": {
     "imports/00_教材编写规划_两本配套.md": 1785465203.5583253,
     "imports/2026-06-23-comprehensive_diagnosis.md": 1785465203.560326,
@@ -1524,7 +1524,7 @@
     "00_Inbox/_pipeline_insights/2026-09-16_arXiv_Self-Emergence Agent ArchitectureBehavior-Inertia HMM, Refle.md": 1789546250.2733738,
     "00_Inbox/_pipeline_insights/2026-09-16_arXiv_Stitch-Free, Diamond-Scribed Silicon Nitride Photonic Integr.md": 1789546139.7865672,
     "00_Inbox/_pipeline_insights/2026-09-16_arXiv_Topology-Aware Congestion Pricing Demand Robust Routing usin.md": 1789546183.5572226,
-    "00_Inbox/01_GetNotes/iNEST体系第一性原理诊断报告（V1.0）.md": 1789736426.2201307,
+    "00_Inbox/01_GetNotes/iNEST体系第一性原理诊断报告（V1.0）.md": 1789827734.43757,
     "00_Inbox/01_GetNotes/全球首个3D算力芯片开源框架Open3D-PIMC发布：国产AI生态的规则突围.md": 1789736426.2648213,
     "00_Inbox/01_GetNotes/华为廖恒嵌套并行冯·诺依曼架构论文深度解读：百万处理器如何仍是一台计算机.md": 1789736426.2888997,
     "20_Processing/20_KnowledgeBase/arxiv-auto/2026-08-22-2608.15476v1.md": 1789690430.544443,
@@ -1747,7 +1747,9 @@
     "20_Processing/20_KnowledgeBase/arxiv-auto/2026-09-12-2609.10890v1.md": 1789690443.390074,
     "20_Processing/20_KnowledgeBase/arxiv-auto/2026-09-12-2609.11530v1.md": 1789690443.447155,
     "20_Processing/20_KnowledgeBase/arxiv-auto/2026-09-12-2609.11713v1.md": 1789690443.5040197,
-    "20_Processing/20_KnowledgeBase/arxiv-auto/2026-09-12-index.md": 1789690443.5612867
+    "20_Processing/20_KnowledgeBase/arxiv-auto/2026-09-12-index.md": 1789690443.5612867,
+    "00_Inbox/01_GetNotes/拓扑中心计算网络底座项目建议书（正式版·优化稿）.md": 1789827779.8784063,
+    "20_Processing/22_Audit/paper_notes/20260919-224040_物理储备池计算有哪些实现方式.md": 1789828840.502696
   },
   "concept_graph": {}
 }

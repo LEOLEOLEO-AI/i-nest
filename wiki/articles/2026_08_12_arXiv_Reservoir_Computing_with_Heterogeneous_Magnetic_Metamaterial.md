@@ -23,7 +23,4 @@ TCC, iNEST, interconnect
 
 ## Related Concepts
 
-[[Heterogeneous_Magnetic_Metamaterials]]
 [[Reservoir_Computing]]
-[[TCC]]
-[[iNEST]]

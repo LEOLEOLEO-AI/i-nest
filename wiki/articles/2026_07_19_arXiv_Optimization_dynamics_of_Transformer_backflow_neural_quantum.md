@@ -23,6 +23,4 @@ TCC, iNEST
 
 ## Related Concepts
 
-[[TCC]]
-[[iNEST]]
-[[neural quantum states]]
+*(no linked concepts yet)*

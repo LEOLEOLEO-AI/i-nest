@@ -23,7 +23,5 @@ iNEST
 
 ## Related Concepts
 
-[[Edge_of_Chaos]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
-[[iNEST]]

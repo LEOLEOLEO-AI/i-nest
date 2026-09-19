@@ -16,12 +16,6 @@ SDI, SNN, iNEST, spiking, 互连, 封装, 晶圆, 神经形态
 
 ## Related Concepts
 
-[[Ferroelectric_Devices]]
-[[Homogeneous_Integration]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
-[[SNN]]
 [[Spiking_Neural_Network]]
-[[Synaptic_Plasticity]]
-[[Wafer_Scale_Integration]]
-[[iNEST]]

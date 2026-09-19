@@ -66,6 +66,7 @@ Auto-extracted concept from raw material compilation.
 [[NonAbelian_Gauge_Topology]]
 [[Nonlinear_Gain]]
 [[Renormalization_Group_Convergence]]
+[[ReproducibleReservoirComputing]]
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
 [[STDP_Plasticity]]

@@ -16,6 +16,4 @@ TCC, iNEST
 
 ## Related Concepts
 
-[[Synaptic_Plasticity]]
-[[TCC]]
-[[iNEST]]
+*(no linked concepts yet)*

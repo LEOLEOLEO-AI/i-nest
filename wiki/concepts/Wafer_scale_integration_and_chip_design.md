@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Intelligent_Computing_Infrastructure]]
 [[Memory_Wall]]
+[[Memristive_STDP]]
 [[Memristor_Synapse]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[Network_Topology_Design]]

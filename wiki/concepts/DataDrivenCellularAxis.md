@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[DataProvenanceIntegrity]]
 [[EmergentOrder]]
+[[Emergent_Intelligence_Verifiability]]
 [[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]
 [[HodgkinHuxleyDynamics]]

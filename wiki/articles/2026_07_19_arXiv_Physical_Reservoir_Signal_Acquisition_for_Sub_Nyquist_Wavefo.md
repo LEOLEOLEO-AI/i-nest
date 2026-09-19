@@ -23,8 +23,4 @@ TCC, iNEST
 
 ## Related Concepts
 
-[[Physical_Reservoir]]
-[[Physical_Reservoir_Signal_Acquisition]]
 [[Reservoir_Computing]]
-[[TCC]]
-[[iNEST]]

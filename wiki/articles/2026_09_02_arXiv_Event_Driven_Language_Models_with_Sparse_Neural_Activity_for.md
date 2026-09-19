@@ -16,8 +16,4 @@ TCC, iNEST, neuromorphic
 
 ## Related Concepts
 
-[[Event_Driven_Architecture]]
 [[Neuromorphic_Computing]]
-[[Sparse_Neural_Activity]]
-[[TCC]]
-[[iNEST]]

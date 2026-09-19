@@ -23,4 +23,4 @@ TCC, interconnect
 
 ## Related Concepts
 
-[[TCC]]
+*(no linked concepts yet)*

@@ -17,5 +17,4 @@ SNN, 拓扑
 ## Related Concepts
 
 [[Network_Topology_Design]]
-[[SNN]]
 [[Spiking_Neural_Network]]

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[DTGA]]
 [[DataProvenanceIntegrity]]
 [[Deep_Network_Architecture_Invariant]]
+[[Deep_Network_Layer_Stacking]]
 [[EulaminateOverrepresentation]]
 [[FPGA_Prototype_Validation]]
 [[Free_Energy_Principle_Network]]
@@ -44,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[Network_topology_and_interconnection_patterns]]
+[[Neuromorphic_Computing]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[NoC_Chiplet_iNEST_Wafer]]
 [[NonAbelian_Gauge_Topology]]
@@ -64,6 +66,7 @@ Auto-extracted concept from raw material compilation.
 [[SystemLevelNonlinearity]]
 [[Universal_Scaling_Laws]]
 [[Wafer_Scale_Interconnect_Memristor]]
+[[Wafer_Scale_Neuromorphic]]
 [[Wafer_Scale_Neuromorphic_Integration]]
 [[Γst_Revision]]
 

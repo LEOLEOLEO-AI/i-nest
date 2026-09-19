@@ -17,16 +17,8 @@ SDI, STDP, iNEST, neuromorphic, 忆阻, 拓扑, 晶圆, 类脑
 ## Related Concepts
 
 [[Intelligence_Emergence]]
-[[Memristor]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
 [[STDP_Plasticity]]
-[[Synaptic_Plasticity]]
-[[Wafer_Scale_Integration]]
-[[iNEST]]
-[[复杂网络]]
-[[忆阻器]]
-[[智能涌现]]
-[[涌现]]

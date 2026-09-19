@@ -17,7 +17,3 @@ TCC, iNEST
 ## Related Concepts
 
 [[Intelligence_Emergence]]
-[[Reflexive_Metacognition]]
-[[SOC]]
-[[TCC]]
-[[iNEST]]

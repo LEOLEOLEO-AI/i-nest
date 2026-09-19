@@ -16,9 +16,5 @@ SNN, TCC, iNEST, spiking
 
 ## Related Concepts
 
-[[SNN]]
 [[STDP_Plasticity]]
 [[Spiking_Neural_Network]]
-[[Synaptic_Plasticity]]
-[[TCC]]
-[[iNEST]]

@@ -59,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[RTC_Primitive]]
 [[Renormalization_Group_Convergence]]
+[[SDSoW]]
 [[STDP_Plasticity]]
 [[Spacetime_Coupling_Coefficient]]
 [[SpatiotemporalComplexityIndex]]

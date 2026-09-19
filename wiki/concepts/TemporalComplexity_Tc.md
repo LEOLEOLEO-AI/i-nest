@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Core_Spacetime_Tensor]]
 [[DRBE_MVP_Mainchain]]
 [[DataProvenanceIntegrity]]
+[[Deep_Network_Architecture_Invariant]]
 [[EulaminateOverrepresentation]]
 [[FlagOS_2_0]]
 [[Heterogeneous_Integration]]

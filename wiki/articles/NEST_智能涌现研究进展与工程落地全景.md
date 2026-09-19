@@ -16,13 +16,7 @@ SDI, TCC, iNEST, neuromorphic, 互连, 忆阻, 拓扑, 晶圆, 类脑
 
 ## Related Concepts
 
-[[Emergent_Systems]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
-[[TCC]]
-[[Wafer_Scale_Integration]]
-[[iNEST]]
-[[智能涌现]]
-[[涌现]]

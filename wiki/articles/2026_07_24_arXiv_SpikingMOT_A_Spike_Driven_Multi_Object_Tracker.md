@@ -24,7 +24,4 @@ TCC, iNEST, spiking, 互连, 神经形态
 ## Related Concepts
 
 [[Neuromorphic_Computing]]
-[[SpikingMOT]]
 [[Spiking_Neural_Network]]
-[[TCC]]
-[[iNEST]]

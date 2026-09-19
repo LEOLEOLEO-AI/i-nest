@@ -64,6 +64,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Topology_Amplification]]
 [[RTC_Primitive]]
 [[Renormalization_Group_Convergence]]
+[[SDSoW]]
 [[Spacetime_Coupling_Coefficient]]
 [[SpatiotemporalComplexityIndex]]
 [[SuperlinearGain]]

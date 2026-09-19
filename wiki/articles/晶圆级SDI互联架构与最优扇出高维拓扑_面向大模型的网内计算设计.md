@@ -16,12 +16,7 @@ SDI, iNEST, interconnect, 拓扑, 晶圆, 芯粒
 
 ## Related Concepts
 
-[[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]
-[[TCC]]
-[[Wafer_Scale_Integration]]
-[[iNEST]]
-[[神经网络]]

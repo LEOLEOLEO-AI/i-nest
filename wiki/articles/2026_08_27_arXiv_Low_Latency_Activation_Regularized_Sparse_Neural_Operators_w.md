@@ -23,8 +23,5 @@ TCC, iNEST, neuromorphic, spiking
 
 ## Related Concepts
 
-[[Neural_Operator]]
 [[Neuromorphic_Computing]]
 [[Spiking_Neural_Network]]
-[[TCC]]
-[[iNEST]]

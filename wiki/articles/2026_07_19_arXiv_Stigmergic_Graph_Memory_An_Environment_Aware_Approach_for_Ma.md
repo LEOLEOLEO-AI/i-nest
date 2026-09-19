@@ -23,6 +23,4 @@ TCC, iNEST
 
 ## Related Concepts
 
-[[Stigmergic_Graph_Memory]]
-[[TCC]]
-[[iNEST]]
+*(no linked concepts yet)*

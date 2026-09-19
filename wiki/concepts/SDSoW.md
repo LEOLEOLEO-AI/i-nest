@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[DRBE_MVP_Mainchain]]
 [[DataDrivenCellularAxis]]
 [[EmergentOrder]]
+[[Free_Energy_Topology_Mapping]]
 [[Heterogeneous_Integration]]
 [[HodgkinHuxleyDynamics]]
 [[Intelligence_Emergence]]

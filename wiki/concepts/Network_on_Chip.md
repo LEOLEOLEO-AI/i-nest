@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Network]]
 [[Memristor_Synapse]]
 [[Mesoscale_Heterogeneous_Integration]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[Network_on_Chip_communication_architecture]]
 [[Network_topology_and_interconnection_patterns]]

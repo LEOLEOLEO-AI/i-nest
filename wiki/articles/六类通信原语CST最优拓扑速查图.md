@@ -19,5 +19,3 @@ SDI, iNEST, 拓扑
 [[Complex_System_Theory]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]
-[[TCC]]
-[[iNEST]]

@@ -23,5 +23,4 @@ iNEST
 
 ## Related Concepts
 
-[[iNEST]]
-[[神经网络]]
+*(no linked concepts yet)*

@@ -16,10 +16,6 @@ SDI, iNEST, 互连, 拓扑
 
 ## Related Concepts
 
-[[CST_V25]]
 [[Complex_System_Theory]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]
-[[TCC]]
-[[iNEST]]
-[[sdi_network]]

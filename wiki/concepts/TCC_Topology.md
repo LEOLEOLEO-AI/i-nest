@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Exponential_CST_Coupling]]
 [[Free_Energy_Principle_Network]]
 [[Free_Energy_Topology_Mapping]]
+[[GranularCortexExclusion]]
 [[Heterogeneous_Integration]]
 [[Memory_Wall]]
 [[Memristive_STDP]]

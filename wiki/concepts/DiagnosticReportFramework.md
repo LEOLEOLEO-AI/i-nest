@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Network_Architecture_Invariant]]
 [[EulaminateOverrepresentation]]
 [[Exponential_CST_Coupling]]
+[[Free_Energy_Topology_Mapping]]
 [[Heterogeneous_Integration]]
 [[Intelligent_Computing_Infrastructure]]
 [[Memory_Wall]]

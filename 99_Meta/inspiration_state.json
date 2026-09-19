@@ -409,6 +409,33 @@
     "30_TCC\\31_Theory\\Generalized_Master_Stability_Heterogeneous_Delay_Coupled_Networks_1954.md": {
       "date": "2026-09-19T10:59:39.470349",
       "error": true
+    },
+    "30_TCC\\31_Theory\\emergent_behavior_robust_communication_delays_slower_evolution.md": {
+      "date": "2026-09-20T03:02:45.710811",
+      "error": true
+    },
+    "30_TCC\\32_Technology\\wafer_scale_computing_architecture_analysis.md": {
+      "date": "2026-09-20T03:03:09.187924",
+      "card": "20260920_wafer_scale_computing_architecture_analysis.md",
+      "method": "llm"
+    },
+    "30_TCC\\32_Technology\\CGRA_Post_Moore_Computing_Architecture_Revolution.md": {
+      "date": "2026-09-20T03:03:30.978613",
+      "card": "20260920_CGRA_Post_Moore_Computing_Architecture_Revolution.md",
+      "method": "llm"
+    },
+    "30_TCC\\31_Theory\\Rare_Events_Griffiths_Phases_Topological_QEC.md": {
+      "date": "2026-09-20T03:03:43.208533",
+      "error": true
+    },
+    "30_TCC\\31_Theory\\arxiv_daily_index_2026-08-12.md": {
+      "date": "2026-09-20T03:04:23.940009",
+      "error": true
+    },
+    "30_TCC\\31_Theory\\generalized_master_stability_heterogeneous_delay_coupled_networks.md": {
+      "date": "2026-09-20T03:04:34.116353",
+      "card": "20260920_generalized_master_stability_heterogeneous_delay_c.md",
+      "method": "llm"
     }
   }
 }

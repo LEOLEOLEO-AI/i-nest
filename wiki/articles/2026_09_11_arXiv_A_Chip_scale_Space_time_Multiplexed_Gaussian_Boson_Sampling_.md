@@ -16,6 +16,4 @@ TCC, iNEST, wafer
 
 ## Related Concepts
 
-[[Gaussian_Boson_Sampling]]
-[[TCC]]
-[[iNEST]]
+*(no linked concepts yet)*

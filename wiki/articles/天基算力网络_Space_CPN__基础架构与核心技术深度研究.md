@@ -19,7 +19,4 @@ SDI, SNN, iNEST, neuromorphic, 拓扑, 类脑
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
-[[SNN]]
 [[Spiking_Neural_Network]]
-[[iNEST]]
-[[算力网络]]

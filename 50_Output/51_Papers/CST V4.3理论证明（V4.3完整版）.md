@@ -228,7 +228,7 @@ $$\boxed{;T_c=T_{c,0},e^{\alpha\Gamma_{st}},\qquad \alpha=\hat h,\Delta\tau_c;}$
 
 **其三，公理降级为定理**：v4.1 曾把"$m$ 对 $\Gamma$ 仿射"列为公理 A2。现在它是上式的恒等推论，**公理少了一条**。
 
-与统计定义的关系：原 AMI／Frobenius 余弦版本的 $\Gamma_{st}$ 是本谱定义的**估计量**（二者序一致，不数值相等）。因此跨平台比较必须报告估计量标签；采用 AMI 而非 NMI 是因为 NMI 未作随机基线校正、其期望随社区数系统上偏，会引入隐藏旋钮。**智能体关于 $\Gamma$ 精度的诊断 D2 不成立**：$\delta(\ln\mathrm{CST})=\alpha,\delta\Gamma$，取 $\alpha=3.4$、$\delta\Gamma=0.03$ 得 0.10 nat，而等级间距 1 nat，为 $6.7\sigma$——所谓"误差被指数放大"是在 CST 而非 $\ln\mathrm{CST}$ 坐标下算出的伪危机。
+与统计定义的关系：原 AMI／Frobenius 余弦版本的 $\Gamma_{st}$ 是本谱定义的**估计量**（二者序一致，不数值相等）。因此跨平台比较必须报告估计量标签；采用 AMI 而非 NMI 是因为 NMI 未作随机基线校正、其期望随社区数系统上偏，会引入隐藏旋钮。**智能体关于 $\Gamma$ 精度的诊断 D2 不成立**：$\delta(\ln\mathrm{CST})=\alpha,\delta\Gamma$，取 $\alpha=3.4$、$\delta\Gamma=0.03$ 得 0.10 nat，而等级间距 1 nat，为 $6.7\sigma$ **[推导]**——所谓"误差被指数放大"是在 CST 而非 $\ln\mathrm{CST}$ 坐标下算出的伪危机。
 
 ## 4.4 历史证明的处置清单
 

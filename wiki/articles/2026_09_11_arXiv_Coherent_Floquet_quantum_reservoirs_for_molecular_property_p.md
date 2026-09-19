@@ -16,8 +16,4 @@ TCC, iNEST
 
 ## Related Concepts
 
-[[Coherent_Floquet_Quantum_Reservoir]]
-[[Molecular_Property_Prediction]]
 [[Reservoir_Computing]]
-[[TCC]]
-[[iNEST]]

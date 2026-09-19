@@ -24,4 +24,3 @@ TCC, neuromorphic
 ## Related Concepts
 
 [[Neuromorphic_Computing]]
-[[TCC]]

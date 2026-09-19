@@ -24,6 +24,4 @@ iNEST, topology
 ## Related Concepts
 
 [[Network_Topology_Design]]
-[[Quantum_Reservoir_Architecture]]
 [[Reservoir_Computing]]
-[[iNEST]]

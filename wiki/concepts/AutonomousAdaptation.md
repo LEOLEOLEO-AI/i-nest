@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Topology_Mapping]]
 [[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]
+[[HodgkinHuxleyDynamics]]
 [[InNetworkNeuromorphicEmergence]]
 [[InNetwork_CST_Offload]]
 [[In_Network_Neuromorphic_Processing]]

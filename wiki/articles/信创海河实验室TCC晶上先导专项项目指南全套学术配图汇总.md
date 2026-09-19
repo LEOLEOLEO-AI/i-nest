@@ -16,14 +16,9 @@ SDI, TCC, chiplet, iNEST, topology, 互连, 拓扑
 
 ## Related Concepts
 
-[[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
-[[PPT]]
 [[SDI_Bond]]
-[[TCC]]
-[[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
-[[iNEST]]

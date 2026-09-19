@@ -25,5 +25,3 @@ iNEST
 
 [[Complex_System_Theory]]
 [[Nonlinear_Gain]]
-[[complex system]]
-[[iNEST]]

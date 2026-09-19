@@ -17,6 +17,4 @@ SDI, SNN, iNEST
 ## Related Concepts
 
 [[SDI_Bond]]
-[[SNN]]
 [[Spiking_Neural_Network]]
-[[iNEST]]

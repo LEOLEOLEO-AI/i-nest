@@ -25,8 +25,4 @@ NoC, SNN, iNEST, spiking, 互连, 神经形态
 
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
-[[NoC]]
-[[SNN]]
-[[Spiking neural network]]
 [[Spiking_Neural_Network]]
-[[iNEST]]

@@ -23,7 +23,4 @@ NoC, TCC, interconnect, 互连
 
 ## Related Concepts
 
-[[AdaptiveEntanglementManagement]]
 [[Network_on_Chip]]
-[[NoC]]
-[[TCC]]

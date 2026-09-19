@@ -17,6 +17,4 @@ iNEST, neuromorphic, spiking, 神经形态
 ## Related Concepts
 
 [[Neuromorphic_Computing]]
-[[Neuromorphic_Speech_Recognition]]
 [[Spiking_Neural_Network]]
-[[iNEST]]

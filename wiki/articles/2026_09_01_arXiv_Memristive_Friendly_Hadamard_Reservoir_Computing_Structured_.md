@@ -18,5 +18,3 @@ TCC, iNEST, neuromorphic
 
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]
-[[TCC]]
-[[iNEST]]

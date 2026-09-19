@@ -57,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[Spacetime_Coupling_Coefficient]]
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
+[[SuperlinearGainProof]]
 [[SuperlinearGain]]
 [[SystemLevelNonlinearity]]
 [[TemperatureSensitivityControl]]

@@ -23,7 +23,5 @@ TCC, topology
 
 ## Related Concepts
 
-[[3d]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
-[[TCC]]

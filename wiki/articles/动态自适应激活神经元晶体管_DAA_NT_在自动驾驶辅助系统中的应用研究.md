@@ -17,8 +17,4 @@ SNN, iNEST, 神经形态
 ## Related Concepts
 
 [[Neuromorphic_Computing]]
-[[SNN]]
 [[Spiking_Neural_Network]]
-[[iNEST]]
-[[神经形态计算]]
-[[神经网络]]

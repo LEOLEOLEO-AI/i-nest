@@ -23,6 +23,4 @@ TCC, iNEST
 
 ## Related Concepts
 
-[[Expressivity_Bounds]]
-[[TCC]]
-[[iNEST]]
+*(no linked concepts yet)*

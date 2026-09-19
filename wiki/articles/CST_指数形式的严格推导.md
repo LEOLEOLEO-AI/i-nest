@@ -27,5 +27,3 @@ TCC, 拓扑
 [[Complex_System_Theory]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
-[[TCC]]
-[[complex system]]

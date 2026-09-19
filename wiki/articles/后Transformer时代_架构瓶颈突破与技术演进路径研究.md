@@ -19,8 +19,5 @@ SDI, SNN, STDP, iNEST, neuromorphic, spiking, 拓扑, 类脑
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
-[[SNN]]
 [[STDP_Plasticity]]
 [[Spiking_Neural_Network]]
-[[Synaptic_Plasticity]]
-[[iNEST]]

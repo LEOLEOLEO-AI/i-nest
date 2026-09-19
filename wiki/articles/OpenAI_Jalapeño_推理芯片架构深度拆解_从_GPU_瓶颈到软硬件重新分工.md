@@ -17,7 +17,4 @@ NoC, SDI, iNEST
 ## Related Concepts
 
 [[Network_on_Chip]]
-[[NoC]]
 [[SDI_Bond]]
-[[TCC]]
-[[iNEST]]

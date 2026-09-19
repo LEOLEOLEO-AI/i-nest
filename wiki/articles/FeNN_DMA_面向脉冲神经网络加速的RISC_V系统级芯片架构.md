@@ -16,11 +16,6 @@ SDI, SNN, iNEST, interconnect, neuromorphic, 神经形态
 
 ## Related Concepts
 
-[[Event_Driven_Architecture]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
-[[SNN]]
 [[Spiking_Neural_Network]]
-[[iNEST]]
-[[神经网络]]
-[[脉冲神经网络]]

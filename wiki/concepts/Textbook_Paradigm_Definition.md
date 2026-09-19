@@ -75,6 +75,7 @@ Auto-extracted concept from raw material compilation.
 [[Topology_Centric_Computing]]
 [[UniversalIntelligence_Emergence]]
 [[Wafer_Scale_Interconnect_Memristor]]
+[[Wafer_Scale_Neuromorphic]]
 [[vLLM_plugin_FLSDI]]
 
 ## Sources

@@ -16,6 +16,4 @@ TCC, iNEST
 
 ## Related Concepts
 
-[[Energy_Pathway_Variety]]
-[[TCC]]
-[[iNEST]]
+*(no linked concepts yet)*

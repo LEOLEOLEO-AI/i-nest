@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[DiagnosticReportFramework]]
 [[EulaminateOverrepresentation]]
 [[Exponential_CST_Coupling]]
+[[Free_Energy_Topology_Mapping]]
 [[Heterogeneous_Integration]]
 [[Intelligent_Computing_Infrastructure]]
 [[Memory_Wall]]

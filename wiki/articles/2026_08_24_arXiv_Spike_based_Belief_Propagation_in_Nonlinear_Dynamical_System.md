@@ -25,5 +25,3 @@ TCC, iNEST, spiking
 
 [[Nonlinear_Gain]]
 [[Spiking_Neural_Network]]
-[[TCC]]
-[[iNEST]]

@@ -16,9 +16,5 @@ SDI, iNEST, topology, 互连, 拓扑
 
 ## Related Concepts
 
-[[NCC_Paradigm]]
-[[NCC_Paradigm_Master_Index]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]
-[[TCC]]
-[[iNEST]]

@@ -17,6 +17,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[Analog_Weight_Storage]]
 [[Attention_Residuals]]
+[[AutonomousAdaptation]]
 [[BigBrainCellularAxis]]
 [[CST_Intelligence_Emergence]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]

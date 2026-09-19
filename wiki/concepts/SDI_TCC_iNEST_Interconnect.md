@@ -73,6 +73,7 @@ Auto-extracted concept from raw material compilation.
 [[UniversalIntelligence_Emergence]]
 [[Wafer_Scale_Interconnect_Memristor]]
 [[Wafer_Scale_Neuromorphic]]
+[[Wafer_Scale_Neuromorphic_Integration]]
 [[vLLM_plugin_FLSDI]]
 
 ## Sources

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Evolutionary_Computability]]
 [[FlagOS_2_0]]
 [[Free_Energy_Principle_Network]]
+[[Free_Energy_Topology_Mapping]]
 [[Heterogeneous_Integration]]
 [[InNetwork_CST_Offload]]
 [[In_Network_Neuromorphic_Integration]]
@@ -63,6 +64,7 @@ Auto-extracted concept from raw material compilation.
 [[SuperlinearGain]]
 [[SystemLevelNonlinearity]]
 [[Wafer_Scale_Interconnect_Memristor]]
+[[Wafer_Scale_Neuromorphic]]
 [[Wafer_Scale_Neuromorphic_Integration]]
 
 ## Sources

@@ -18,4 +18,3 @@ iNEST, topology, 拓扑
 
 [[Complex_System_Theory]]
 [[Network_Topology_Design]]
-[[iNEST]]

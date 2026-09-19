@@ -18,6 +18,3 @@ TCC, iNEST, neuromorphic, 互连, 封装, 拓扑, 晶圆, 神经形态, 类脑
 
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
-[[TCC]]
-[[Wafer_Scale_Integration]]
-[[iNEST]]

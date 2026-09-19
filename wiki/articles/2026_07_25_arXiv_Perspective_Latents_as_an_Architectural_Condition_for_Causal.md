@@ -23,9 +23,4 @@ TCC, iNEST
 
 ## Related Concepts
 
-[[Active_Inference_Agent]]
 [[Intelligence_Emergence]]
-[[TCC]]
-[[causal emergence]]
-[[iNEST]]
-[[perspective latents]]

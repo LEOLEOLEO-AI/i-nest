@@ -23,8 +23,4 @@ TCC, iNEST
 
 ## Related Concepts
 
-[[Criticality]]
-[[Driven_Criticality]]
-[[Self_Organized_Criticality]]
-[[TCC]]
-[[iNEST]]
+*(no linked concepts yet)*

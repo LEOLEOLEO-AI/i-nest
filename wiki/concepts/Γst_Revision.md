@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[DTGA]]
 [[EulaminateOverrepresentation]]
 [[Exponential_CST_Coupling]]
+[[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
 [[HodgkinHuxleyDynamics]]
 [[Intelligence_Emergence]]

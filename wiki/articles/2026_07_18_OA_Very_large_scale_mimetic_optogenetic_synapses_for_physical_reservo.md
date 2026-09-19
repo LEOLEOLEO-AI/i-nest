@@ -23,10 +23,4 @@ iNEST
 
 ## Related Concepts
 
-[[Criticality]]
-[[Mimetic_Optogenetic_Synapses]]
-[[Physical_Reservoir]]
-[[Physical_Reservoir_Computing]]
 [[Reservoir_Computing]]
-[[Self_Organized_Criticality]]
-[[iNEST]]

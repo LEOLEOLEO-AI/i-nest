@@ -23,12 +23,5 @@ iNEST, 拓扑, 神经形态
 
 ## Related Concepts
 
-[[Brain_Connectome]]
-[[Connectome]]
-[[Criticality]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
-[[SOC]]
-[[Self_Organized_Criticality]]
-[[iNEST]]
-[[神经形态计算]]

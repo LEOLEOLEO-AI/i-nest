@@ -65,6 +65,7 @@ Auto-extracted concept from raw material compilation.
 [[TemporalDynamicsModeling]]
 [[TopologyFragility]]
 [[Wafer_Scale_Interconnect_Memristor]]
+[[Wafer_Scale_Neuromorphic]]
 [[iNEST_Neuromorphic_Integration]]
 [[iNEST_Neuromorphic_Topology]]
 

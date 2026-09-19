@@ -23,8 +23,5 @@ TCC, neuromorphic
 
 ## Related Concepts
 
-[[Ferroelectric_Devices]]
-[[Memristor]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
-[[TCC]]

@@ -16,6 +16,4 @@ SDI, iNEST
 
 ## Related Concepts
 
-[[OnnxSlim]]
 [[SDI_Bond]]
-[[iNEST]]

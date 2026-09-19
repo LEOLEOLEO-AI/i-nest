@@ -24,4 +24,3 @@ title: "Recent Advances in Generative AI for Healthcare Applications" authors: [
 ## Related Concepts
 
 [[Intelligence_Emergence]]
-[[causal emergence]]

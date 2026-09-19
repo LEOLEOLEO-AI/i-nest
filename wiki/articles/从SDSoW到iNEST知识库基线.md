@@ -28,7 +28,3 @@ SDI, TCC, iNEST, topology, 拓扑, 晶圆
 [[SDI_Bond]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
-[[TCC]]
-[[Wafer_Scale_Integration]]
-[[complex system]]
-[[iNEST]]

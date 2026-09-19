@@ -23,12 +23,8 @@ SDI, TCC, chiplet, iNEST, interconnect, neuromorphic, topology, wafer, 互连, �
 
 ## Related Concepts
 
-[[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
-[[TCC]]
-[[Wafer_Scale_Integration]]
-[[iNEST]]

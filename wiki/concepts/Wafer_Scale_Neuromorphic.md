@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[HodgkinHuxleyDynamics]]
 [[In_Network_Neuromorphic_Processing]]
 [[Intelligence_Emergence]]
+[[MacroscopicDescriptor]]
 [[Memory_Wall]]
 [[Memristive_ANN_Hardware]]
 [[Memristive_STDP]]

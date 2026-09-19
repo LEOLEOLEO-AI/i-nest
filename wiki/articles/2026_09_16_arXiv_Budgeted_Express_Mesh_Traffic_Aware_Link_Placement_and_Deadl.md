@@ -16,7 +16,4 @@ TCC, iNEST, topology
 
 ## Related Concepts
 
-[[Interconnect_Routing]]
 [[Network_Topology_Design]]
-[[TCC]]
-[[iNEST]]

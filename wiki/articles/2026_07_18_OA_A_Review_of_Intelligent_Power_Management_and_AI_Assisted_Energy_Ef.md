@@ -23,5 +23,4 @@ TCC
 
 ## Related Concepts
 
-[[Intelligent_Power_Management]]
-[[TCC]]
+*(no linked concepts yet)*

@@ -24,10 +24,4 @@ iNEST
 ## Related Concepts
 
 [[Complex_System_Theory]]
-[[Criticality]]
 [[Intelligence_Emergence]]
-[[SOC]]
-[[Self_Organized_Criticality]]
-[[complex system]]
-[[iNEST]]
-[[涌现]]

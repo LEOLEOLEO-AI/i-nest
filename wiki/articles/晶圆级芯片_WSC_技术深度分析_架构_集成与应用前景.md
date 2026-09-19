@@ -16,15 +16,9 @@ NoC, chiplet, wafer, 互连, 封装, 拓扑, 晶圆, 神经形态
 
 ## Related Concepts
 
-[[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Heterogeneous_Integration]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
-[[NoC]]
-[[Reticle_Stitching]]
-[[TCC]]
-[[Wafer_Scale_Integration]]
-[[晶圆级集成]]

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[DiagnosticReportFramework]]
 [[EulaminateOverrepresentation]]
 [[Free_Energy_Topology_Mapping]]
+[[GranularCortexExclusion]]
 [[Heterogeneous_Integration]]
 [[Intelligent_Computing_Infrastructure]]
 [[Memory_Wall]]

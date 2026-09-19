@@ -16,8 +16,4 @@ TCC, iNEST, topology
 
 ## Related Concepts
 
-[[Demand_Robust_Routing]]
-[[Interconnect_Routing]]
 [[Network_Topology_Design]]
-[[TCC]]
-[[iNEST]]

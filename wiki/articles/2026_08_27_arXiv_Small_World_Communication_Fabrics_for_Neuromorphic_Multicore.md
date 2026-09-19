@@ -24,6 +24,3 @@ TCC, iNEST, neuromorphic
 ## Related Concepts
 
 [[Neuromorphic_Computing]]
-[[SOC]]
-[[TCC]]
-[[iNEST]]

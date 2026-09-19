@@ -24,4 +24,3 @@ auto: true
 ## Related Concepts
 
 [[Network_Topology_Design]]
-[[TCC]]

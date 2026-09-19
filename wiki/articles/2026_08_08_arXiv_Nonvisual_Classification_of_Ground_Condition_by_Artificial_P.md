@@ -23,7 +23,4 @@ TCC, iNEST
 
 ## Related Concepts
 
-[[Interconnect_Routing]]
-[[MoE_Routing]]
-[[TCC]]
-[[iNEST]]
+*(no linked concepts yet)*

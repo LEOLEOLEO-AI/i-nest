@@ -23,10 +23,5 @@ SNN, neuromorphic, spiking
 
 ## Related Concepts
 
-[[LocalLearningRules]]
 [[Neuromorphic_Computing]]
-[[OpenBenchmarkingFramework]]
-[[SNN]]
-[[Spiking neural network]]
 [[Spiking_Neural_Network]]
-[[iNEST]]

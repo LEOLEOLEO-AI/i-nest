@@ -16,11 +16,7 @@ NoC, SDI, chiplet, iNEST, 互连
 
 ## Related Concepts
 
-[[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Heterogeneous_Integration]]
 [[Network_on_Chip]]
-[[NoC]]
 [[SDI_Bond]]
-[[TCC]]
-[[iNEST]]

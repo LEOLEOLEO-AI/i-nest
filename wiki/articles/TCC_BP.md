@@ -18,5 +18,3 @@ SDI, TCC, iNEST, topology, 拓扑
 
 [[Network_Topology_Design]]
 [[SDI_Bond]]
-[[TCC]]
-[[iNEST]]

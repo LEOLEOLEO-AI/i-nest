@@ -28,6 +28,3 @@ SDI, STDP, iNEST, neuromorphic, 忆阻, 拓扑
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
 [[STDP_Plasticity]]
-[[Synaptic_Plasticity]]
-[[complex system]]
-[[iNEST]]

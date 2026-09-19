@@ -23,7 +23,4 @@ TCC, iNEST, interconnect, topology
 
 ## Related Concepts
 
-[[Chip_Floorplanning]]
 [[Network_Topology_Design]]
-[[TCC]]
-[[iNEST]]

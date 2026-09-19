@@ -24,4 +24,3 @@ SDI
 ## Related Concepts
 
 [[SDI_Bond]]
-[[TCC]]

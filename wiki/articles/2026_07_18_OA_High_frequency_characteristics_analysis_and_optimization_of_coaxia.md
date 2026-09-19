@@ -23,7 +23,4 @@ TCC, interconnect
 
 ## Related Concepts
 
-[[3D_IC_Stacking]]
-[[3d]]
-[[Advanced_Packaging]]
-[[TCC]]
+*(no linked concepts yet)*

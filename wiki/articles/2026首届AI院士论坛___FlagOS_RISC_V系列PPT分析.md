@@ -24,9 +24,5 @@ SDI, TCC, iNEST, 互连, 拓扑
 ## Related Concepts
 
 [[FlagScale]]
-[[Nature Electronics]]
 [[Network_Topology_Design]]
-[[PPT]]
 [[SDI_Bond]]
-[[TCC]]
-[[iNEST]]

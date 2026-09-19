@@ -25,5 +25,3 @@ iNEST, topology, 拓扑, 晶圆, 神经形态
 
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
-[[Wafer_Scale_Integration]]
-[[iNEST]]

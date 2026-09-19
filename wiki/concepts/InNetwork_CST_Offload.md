@@ -62,6 +62,7 @@ Auto-extracted concept from raw material compilation.
 [[Renormalization_Group_Convergence]]
 [[ReproducibleReservoirComputing]]
 [[Reservoir_Computing]]
+[[Residual_Connection_Removal]]
 [[SDI_Bond]]
 [[SDI_Four_Rules]]
 [[SDI_STDP]]

@@ -19,8 +19,4 @@ title: "Universal Scaling Laws for Intelligence Emergence from Device-Level Nonl
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
-[[RenormalizationGroup_Approach]]
-[[Renormalization_Group]]
-[[TCC]]
 [[Universal_Scaling_Laws]]
-[[scaling laws]]

@@ -16,11 +16,6 @@ SDI, SNN, iNEST, 忆阻, 神经形态
 
 ## Related Concepts
 
-[[Loihi]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
-[[SNN]]
-[[SpiNNaker]]
 [[Spiking_Neural_Network]]
-[[iNEST]]
-[[神经形态计算]]

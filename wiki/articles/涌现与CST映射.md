@@ -20,6 +20,3 @@ SDI, iNEST, 互连, 忆阻, 拓扑
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]
-[[TCC]]
-[[iNEST]]
-[[涌现]]

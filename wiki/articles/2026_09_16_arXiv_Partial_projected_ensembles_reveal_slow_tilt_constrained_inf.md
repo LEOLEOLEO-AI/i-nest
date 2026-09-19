@@ -16,6 +16,4 @@ TCC, iNEST
 
 ## Related Concepts
 
-[[Partial_Projected_Ensembles]]
-[[TCC]]
-[[iNEST]]
+*(no linked concepts yet)*

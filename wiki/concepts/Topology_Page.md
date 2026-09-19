@@ -65,6 +65,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC_Topology]]
 [[Technology_Innovation_Platform]]
 [[TemperatureSensitivityControl]]
+[[Textbook_Paradigm_Definition]]
 [[TopologyProgramming]]
 [[Topology_Centric_Computing]]
 [[Topology_Centric_Computing_Paradigm]]

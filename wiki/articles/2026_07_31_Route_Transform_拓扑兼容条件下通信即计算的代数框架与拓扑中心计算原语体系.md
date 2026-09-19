@@ -26,5 +26,3 @@ SDI, TCC, topology, wafer, 互连, 拓扑, 晶圆
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[SDI_Bond]]
-[[TCC]]
-[[Wafer_Scale_Integration]]

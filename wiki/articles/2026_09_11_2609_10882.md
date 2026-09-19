@@ -17,5 +17,3 @@ TCC, iNEST, neuromorphic
 ## Related Concepts
 
 [[Neuromorphic_Computing]]
-[[TCC]]
-[[iNEST]]

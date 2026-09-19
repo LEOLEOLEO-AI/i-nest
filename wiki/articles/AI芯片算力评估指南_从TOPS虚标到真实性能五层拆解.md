@@ -23,4 +23,4 @@ title: "AI芯片算力评估指南：从TOPS虚标到真实性能五层拆解" d
 
 ## Related Concepts
 
-[[TCC]]
+*(no linked concepts yet)*

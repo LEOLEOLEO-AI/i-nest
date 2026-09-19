@@ -25,6 +25,3 @@ TCC, iNEST, 拓扑
 
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
-[[TCC]]
-[[iNEST]]
-[[涌现]]

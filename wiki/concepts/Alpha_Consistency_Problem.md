@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_Theory]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect_Topology]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Chiplet_based_heterogeneous_integration]]
 [[Collection_Communication_Diagnostic_Tool]]

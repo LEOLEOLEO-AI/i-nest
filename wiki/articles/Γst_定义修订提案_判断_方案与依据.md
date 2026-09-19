@@ -25,5 +25,3 @@ SDI, iNEST
 
 [[Complex_System_Theory]]
 [[SDI_Bond]]
-[[complex system]]
-[[iNEST]]

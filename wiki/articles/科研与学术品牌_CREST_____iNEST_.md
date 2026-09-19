@@ -16,14 +16,8 @@ chiplet, iNEST, interconnect, neuromorphic, topology, wafer, 互连, 拓扑, 晶
 
 ## Related Concepts
 
-[[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
-[[TCC]]
-[[Wafer_Scale_Integration]]
-[[iNEST]]
-[[智能涌现]]
-[[涌现]]

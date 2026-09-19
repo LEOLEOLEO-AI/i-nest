@@ -24,4 +24,3 @@ iNEST, 神经形态
 ## Related Concepts
 
 [[Neuromorphic_Computing]]
-[[iNEST]]

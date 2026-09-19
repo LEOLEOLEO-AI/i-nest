@@ -23,11 +23,7 @@ STDP, iNEST, neuromorphic, spiking
 
 ## Related Concepts
 
-[[Memristor]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
 [[STDP_Plasticity]]
 [[Spiking_Neural_Network]]
-[[Synaptic_Plasticity]]
-[[iNEST]]
-[[neuromorphic spiking]]

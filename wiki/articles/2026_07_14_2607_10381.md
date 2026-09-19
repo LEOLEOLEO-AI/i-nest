@@ -24,6 +24,3 @@ NoC, TCC, iNEST
 ## Related Concepts
 
 [[Network_on_Chip]]
-[[NoC]]
-[[TCC]]
-[[iNEST]]

@@ -23,17 +23,9 @@ SDI, SNN, TCC, iNEST, neuromorphic, spiking, 互连, 忆阻, 拓扑, 神经形�
 
 ## Related Concepts
 
-[[Criticality]]
 [[Intelligence_Emergence]]
-[[Memristor]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
-[[SNN]]
-[[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
-[[TCC]]
-[[iNEST]]
-[[忆阻器]]
-[[涌现]]

@@ -23,5 +23,4 @@ iNEST
 
 ## Related Concepts
 
-[[Free_Energy_Principle]]
-[[iNEST]]
+*(no linked concepts yet)*

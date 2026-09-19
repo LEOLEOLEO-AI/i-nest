@@ -25,4 +25,3 @@ auto: true
 
 [[Memory_Wall]]
 [[Network_Topology_Design]]
-[[TCC]]

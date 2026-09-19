@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[DataDrivenCellularAxis]]
 [[EmergentOrder]]
 [[Exponential_CST_Coupling]]
+[[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]
 [[HodgkinHuxleyDynamics]]
 [[Intelligence_Emergence]]

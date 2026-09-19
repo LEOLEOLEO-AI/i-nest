@@ -17,8 +17,8 @@
       "title": "Git hygiene: 1590 uncommitted changes",
       "detail": "Commit or review outstanding changes.",
       "status": "pending",
-      "last_seen": "2026-09-19T12:06:18.440947",
-      "occurrences": 56,
+      "last_seen": "2026-09-20T03:00:02.639536",
+      "occurrences": 57,
       "observed_values": [
         "113 uncommitted changes",
         "83 uncommitted changes",
@@ -1094,8 +1094,8 @@
       "title": "Pipeline zero-paper alert: API connectivity check",
       "detail": "Recent runs with zero new papers: 6",
       "status": "pending",
-      "last_seen": "2026-09-19T12:06:18.440947",
-      "occurrences": 5,
+      "last_seen": "2026-09-20T03:00:02.639536",
+      "occurrences": 6,
       "observed_values": [
         "API connectivity check"
       ],
@@ -1114,7 +1114,7 @@
       "superseded_at": "2026-09-18T08:27:44.963903"
     }
   ],
-  "last_updated": "2026-09-19T12:06:18.440947",
+  "last_updated": "2026-09-20T03:00:02.639536",
   "consolidated": {
     "at": "2026-09-18T08:27:44.963903",
     "by": "consolidate_evolution_queue.py",

@@ -16,12 +16,6 @@ neuromorphic, 互连, 忆阻, 拓扑, 类脑
 
 ## Related Concepts
 
-[[Criticality]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
-[[Self_Organized_Criticality]]
-[[Synaptic_Plasticity]]
-[[iNEST]]
-[[智能涌现]]
-[[涌现]]

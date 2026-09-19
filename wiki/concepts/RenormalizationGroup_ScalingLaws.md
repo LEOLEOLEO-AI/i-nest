@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Evolutionary_Computability]]
 [[FlagOS_2_0]]
 [[Free_Energy_Principle_Network]]
+[[Free_Energy_Topology_Mapping]]
 [[Heterogeneous_Integration]]
 [[InNetwork_CST_Offload]]
 [[Intelligence_Emergence]]
@@ -58,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[SystemLevelNonlinearity]]
 [[Universal_Scaling_Laws]]
 [[Wafer_Scale_Interconnect_Memristor]]
+[[Wafer_Scale_Neuromorphic]]
 [[Wafer_Scale_Neuromorphic_Integration]]
 
 ## Sources

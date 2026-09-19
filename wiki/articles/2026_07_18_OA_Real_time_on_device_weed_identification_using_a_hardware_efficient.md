@@ -25,4 +25,3 @@ TCC, topology
 
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
-[[TCC]]

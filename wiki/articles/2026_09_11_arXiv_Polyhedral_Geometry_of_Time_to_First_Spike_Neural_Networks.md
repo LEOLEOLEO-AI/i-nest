@@ -17,5 +17,3 @@ TCC, iNEST, spiking
 ## Related Concepts
 
 [[Spiking_Neural_Network]]
-[[TCC]]
-[[iNEST]]

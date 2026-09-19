@@ -15,14 +15,18 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[CST_Equation]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
 [[Cognitive_Relapse_Architecture]]
+[[Complex_System_Theory]]
 [[DTGA]]
 [[Decoupled_Priors]]
+[[DiagnosticReportFramework]]
 [[FlagOS_2_0]]
 [[Free_Energy_Topology_Mapping]]
 [[Network_Topology_Design]]
 [[SDSoW]]
+[[SDSoW_Architecture]]
 [[TopologyProgramming]]
 
 ## Sources

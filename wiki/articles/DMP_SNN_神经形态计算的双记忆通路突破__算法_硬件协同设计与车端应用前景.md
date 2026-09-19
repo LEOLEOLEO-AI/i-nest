@@ -19,7 +19,4 @@ SDI, SNN, iNEST, 神经形态
 [[Memory_Wall]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
-[[SNN]]
 [[Spiking_Neural_Network]]
-[[iNEST]]
-[[神经形态计算]]

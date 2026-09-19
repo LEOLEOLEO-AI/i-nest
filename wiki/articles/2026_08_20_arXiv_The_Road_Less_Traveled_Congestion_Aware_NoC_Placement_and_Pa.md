@@ -23,9 +23,4 @@ NoC, TCC, iNEST
 
 ## Related Concepts
 
-[[Interconnect_Routing]]
 [[Network_on_Chip]]
-[[NoC]]
-[[PacketRoutingForFPGAs]]
-[[TCC]]
-[[iNEST]]

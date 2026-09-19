@@ -16,9 +16,4 @@ TCC, iNEST
 
 ## Related Concepts
 
-[[Brain_Connectome]]
-[[Connectome]]
-[[Connectome_Reservoir]]
 [[Reservoir_Computing]]
-[[TCC]]
-[[iNEST]]

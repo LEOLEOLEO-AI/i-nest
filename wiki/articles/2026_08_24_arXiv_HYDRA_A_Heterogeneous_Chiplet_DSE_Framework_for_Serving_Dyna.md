@@ -23,10 +23,5 @@ TCC, chiplet, iNEST
 
 ## Related Concepts
 
-[[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Dynamic_Hybrid_LLM_Workloads]]
-[[Heterogeneous_Chiplet_DSE]]
 [[Heterogeneous_Integration]]
-[[TCC]]
-[[iNEST]]

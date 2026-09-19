@@ -17,8 +17,4 @@ SNN, neuromorphic, spiking, 类脑
 ## Related Concepts
 
 [[Neuromorphic_Computing]]
-[[SNN]]
 [[Spiking_Neural_Network]]
-[[iNEST]]
-[[神经网络]]
-[[脉冲神经网络]]

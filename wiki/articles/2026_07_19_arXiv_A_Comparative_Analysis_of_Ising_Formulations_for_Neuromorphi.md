@@ -23,7 +23,4 @@ TCC, iNEST, neuromorphic
 
 ## Related Concepts
 
-[[Ising_Formulation]]
 [[Neuromorphic_Computing]]
-[[TCC]]
-[[iNEST]]

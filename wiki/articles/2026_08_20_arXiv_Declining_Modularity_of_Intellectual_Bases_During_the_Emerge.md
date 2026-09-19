@@ -23,7 +23,4 @@ TCC, iNEST
 
 ## Related Concepts
 
-[[Intellectual_Base]]
 [[Intelligence_Emergence]]
-[[TCC]]
-[[iNEST]]

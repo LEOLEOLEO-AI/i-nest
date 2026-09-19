@@ -16,11 +16,7 @@ SDI, SNN, iNEST, 拓扑, 神经形态
 
 ## Related Concepts
 
-[[Event_Driven_Architecture]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
-[[SNN]]
 [[Spiking_Neural_Network]]
-[[iNEST]]
-[[神经形态计算]]

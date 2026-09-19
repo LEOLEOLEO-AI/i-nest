@@ -23,10 +23,5 @@ TCC, iNEST
 
 ## Related Concepts
 
-[[Dynamics_Matching]]
-[[Physical_Reservoir]]
 [[Physical_Reservoir_Computing]]
 [[Reservoir_Computing]]
-[[Soft_Robotic_Reservoir]]
-[[TCC]]
-[[iNEST]]

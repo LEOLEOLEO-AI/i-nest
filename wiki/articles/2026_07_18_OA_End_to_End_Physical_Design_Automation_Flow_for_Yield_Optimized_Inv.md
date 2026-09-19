@@ -23,12 +23,7 @@ TCC, chiplet, interconnect, topology, wafer
 
 ## Related Concepts
 
-[[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Heterogeneous_Integration]]
-[[Interconnect_Routing]]
-[[Interconnect_Topology]]
 [[Network_Topology_Design]]
 [[Reservoir_Computing]]
-[[TCC]]
-[[Wafer_Scale_Integration]]

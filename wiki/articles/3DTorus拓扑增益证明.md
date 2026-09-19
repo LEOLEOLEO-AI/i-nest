@@ -16,9 +16,6 @@ SDI, TCC, 拓扑, 晶圆
 
 ## Related Concepts
 
-[[3d]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[SDI_Bond]]
-[[TCC]]
-[[Wafer_Scale_Integration]]

@@ -16,6 +16,4 @@ SNN, iNEST
 
 ## Related Concepts
 
-[[SNN]]
 [[Spiking_Neural_Network]]
-[[iNEST]]

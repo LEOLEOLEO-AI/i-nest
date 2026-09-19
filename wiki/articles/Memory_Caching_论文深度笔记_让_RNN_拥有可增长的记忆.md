@@ -16,5 +16,4 @@ iNEST
 
 ## Related Concepts
 
-[[Memory_Caching]]
-[[iNEST]]
+*(no linked concepts yet)*

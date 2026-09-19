@@ -16,7 +16,5 @@ SDI, 互连, 拓扑
 
 ## Related Concepts
 
-[[NCC_Primitive_Library]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]
-[[TCC]]

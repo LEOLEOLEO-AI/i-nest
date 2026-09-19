@@ -24,4 +24,3 @@ iNEST
 ## Related Concepts
 
 [[Intelligence_Emergence]]
-[[iNEST]]

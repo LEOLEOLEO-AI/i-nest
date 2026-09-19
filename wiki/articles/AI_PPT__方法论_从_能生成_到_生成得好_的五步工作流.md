@@ -23,5 +23,4 @@ iNEST
 
 ## Related Concepts
 
-[[PPT]]
-[[iNEST]]
+*(no linked concepts yet)*

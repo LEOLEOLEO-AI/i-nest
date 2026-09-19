@@ -23,6 +23,4 @@ TCC, iNEST, wafer
 
 ## Related Concepts
 
-[[TCC]]
-[[Wafer_Scale_Integration]]
-[[iNEST]]
+*(no linked concepts yet)*

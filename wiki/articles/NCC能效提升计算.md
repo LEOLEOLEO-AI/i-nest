@@ -16,13 +16,7 @@ SDI, chiplet, 互连, 拓扑, 晶圆
 
 ## Related Concepts
 
-[[Blanket_Clock_Tree]]
-[[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Heterogeneous_Integration]]
-[[Interconnect_Routing]]
-[[MoE_Routing]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]
-[[TCC]]
-[[Wafer_Scale_Integration]]

@@ -16,9 +16,5 @@ NoC, SNN, iNEST
 
 ## Related Concepts
 
-[[Event_Driven_Architecture]]
 [[Network_on_Chip]]
-[[NoC]]
-[[SNN]]
 [[Spiking_Neural_Network]]
-[[iNEST]]

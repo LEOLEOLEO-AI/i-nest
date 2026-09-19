@@ -23,14 +23,8 @@ NoC, TCC, chiplet, iNEST, interconnect, topology, 互连, 拓扑, 神经形态
 
 ## Related Concepts
 
-[[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Heterogeneous_Integration]]
-[[Interconnect_Routing]]
-[[MoE_Routing]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
-[[NoC]]
-[[TCC]]
-[[iNEST]]

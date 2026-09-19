@@ -66,6 +66,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_Four_Rules]]
 [[SDI_STDP]]
+[[SDI_TCC_iNEST_Interconnect]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[ScaleFreeNetwork]]

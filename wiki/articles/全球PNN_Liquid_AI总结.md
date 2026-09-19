@@ -16,14 +16,9 @@ SDI, chiplet, neuromorphic, 互连, 忆阻, 拓扑, 晶圆, 类脑, 芯粒
 
 ## Related Concepts
 
-[[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
-[[Liquid_AI]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
-[[TCC]]
-[[Wafer_Scale_Integration]]
-[[涌现]]

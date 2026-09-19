@@ -18,5 +18,3 @@ TCC, iNEST, neuromorphic, spiking
 
 [[Neuromorphic_Computing]]
 [[Spiking_Neural_Network]]
-[[TCC]]
-[[iNEST]]

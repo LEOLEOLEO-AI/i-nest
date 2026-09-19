@@ -72,6 +72,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologyCentricEngineeringBase]]
 [[TopologyFragility]]
 [[UniversalIntelligence_Emergence]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[vLLM_plugin_FLSDI]]
 
 ## Sources

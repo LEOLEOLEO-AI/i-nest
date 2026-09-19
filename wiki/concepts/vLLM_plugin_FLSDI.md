@@ -74,6 +74,7 @@ Auto-extracted concept from raw material compilation.
 [[Textbook_Paradigm_Definition]]
 [[TopologyAware_Renormalization]]
 [[TopologyFragility]]
+[[UniversalIntelligence_Emergence]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

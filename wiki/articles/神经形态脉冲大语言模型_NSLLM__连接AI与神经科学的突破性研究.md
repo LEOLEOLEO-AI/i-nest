@@ -18,5 +18,3 @@ SDI, iNEST, neuromorphic, 神经形态
 
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
-[[iNEST]]
-[[神经形态脉冲大语言模型（NSLLM）]]

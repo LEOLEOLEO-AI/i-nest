@@ -23,6 +23,4 @@ TCC, iNEST, interconnect
 
 ## Related Concepts
 
-[[Chip_Floorplanning]]
-[[TCC]]
-[[iNEST]]
+*(no linked concepts yet)*

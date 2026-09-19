@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Evolutionary_Structure_Computability]]
 [[Exponential_CST_Coupling]]
 [[Free_Energy_Principle_Network]]
+[[Free_Energy_Topology_Mapping]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Intelligent_Computing_Infrastructure]]

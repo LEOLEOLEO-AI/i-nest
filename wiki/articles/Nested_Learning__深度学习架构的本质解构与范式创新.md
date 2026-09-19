@@ -23,5 +23,4 @@ iNEST
 
 ## Related Concepts
 
-[[NestedLearning]]
-[[iNEST]]
+*(no linked concepts yet)*

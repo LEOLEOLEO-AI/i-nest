@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[DRBE_MVP_Mainchain]]
+[[Decoupled_Priors]]
 [[EulaminateOverrepresentation]]
 [[Free_Energy_Principle_Network]]
 [[Free_Energy_Topology_Mapping]]

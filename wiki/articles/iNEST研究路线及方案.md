@@ -16,17 +16,10 @@ STDP, iNEST, neuromorphic, spiking, topology, 忆阻, 拓扑, 神经形态, 类�
 
 ## Related Concepts
 
-[[Criticality]]
 [[Intelligence_Emergence]]
-[[Memristor]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[STDP_Plasticity]]
-[[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
-[[Synaptic_Plasticity]]
-[[iNEST]]
-[[忆阻器]]
-[[涌现]]

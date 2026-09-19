@@ -17,7 +17,3 @@ iNEST
 ## Related Concepts
 
 [[Intelligence_Emergence]]
-[[PPT]]
-[[iNEST]]
-[[智能涌现]]
-[[涌现]]

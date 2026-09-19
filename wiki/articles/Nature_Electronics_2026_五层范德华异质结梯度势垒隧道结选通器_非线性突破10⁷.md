@@ -16,6 +16,4 @@ iNEST, 忆阻
 
 ## Related Concepts
 
-[[Nature Electronics]]
 [[Nonlinear_Gain]]
-[[iNEST]]

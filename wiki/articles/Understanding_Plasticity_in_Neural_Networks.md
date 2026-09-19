@@ -23,4 +23,4 @@ auto: true
 
 ## Related Concepts
 
-[[Synaptic_Plasticity]]
+*(no linked concepts yet)*

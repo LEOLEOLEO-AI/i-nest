@@ -16,9 +16,7 @@ SDI, chiplet, iNEST, neuromorphic, 类脑
 
 ## Related Concepts
 
-[[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Heterogeneous_Integration]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
-[[iNEST]]

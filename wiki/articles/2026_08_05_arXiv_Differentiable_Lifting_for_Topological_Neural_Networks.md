@@ -24,5 +24,3 @@ TCC, iNEST
 ## Related Concepts
 
 [[Network_Topology_Design]]
-[[TCC]]
-[[iNEST]]

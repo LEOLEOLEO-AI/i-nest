@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[MetaFAIR_ArchitectureDiscovery]]
 [[MultiplicativeGain]]
 [[National_Mesoscale_Innovation_Center]]
+[[Network_Spatiotemporal_Synergy]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[Network_topology_and_interconnection_patterns]]

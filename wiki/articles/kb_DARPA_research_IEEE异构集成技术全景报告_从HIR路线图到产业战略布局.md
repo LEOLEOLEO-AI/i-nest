@@ -23,10 +23,5 @@ SDI, iNEST, 互连, 封装, 晶圆
 
 ## Related Concepts
 
-[[3d]]
-[[DARPA_ERI]]
 [[Heterogeneous_Integration]]
 [[SDI_Bond]]
-[[TCC]]
-[[Wafer_Scale_Integration]]
-[[iNEST]]

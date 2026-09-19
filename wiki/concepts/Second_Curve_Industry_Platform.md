@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[DataProvenanceIntegrity]]
 [[Decoupled_Priors]]
 [[Deep_Network_Architecture_Invariant]]
+[[Deep_Network_Layer_Stacking]]
 [[DiagnosticReportFramework]]
 [[EmergentOrder]]
 [[Evolutionary_Structure_Computability]]

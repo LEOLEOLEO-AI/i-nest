@@ -23,12 +23,7 @@ STDP, TCC, chiplet, 互连, 拓扑, 晶圆, 芯粒
 
 ## Related Concepts
 
-[[3d]]
-[[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[STDP_Plasticity]]
-[[Synaptic_Plasticity]]
-[[TCC]]
-[[Wafer_Scale_Integration]]

@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_TCC_Chiplet_Interconnect]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
+[[SDSoW_Strategic_Planning]]
 [[Second_Curve_Wafer_Industry_Platform]]
 [[Software_Defined_Interconnect_bonding_mechanism]]
 [[Spacetime_Coupling_Coefficient]]

@@ -23,7 +23,4 @@ SNN, TCC, iNEST
 
 ## Related Concepts
 
-[[SNN]]
 [[Spiking_Neural_Network]]
-[[TCC]]
-[[iNEST]]

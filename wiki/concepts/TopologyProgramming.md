@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[EulaminateOverrepresentation]]
 [[Exponential_CST_Coupling]]
 [[FlagOS_2_0]]
+[[Free_Energy_Topology_Mapping]]
 [[Heterogeneous_Integration]]
 [[Intelligent_Computing_Infrastructure]]
 [[Memory_Wall]]

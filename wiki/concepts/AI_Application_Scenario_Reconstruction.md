@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[DRBE_MVP_Mainchain]]
 [[DTGA]]
 [[DataProvenanceIntegrity]]
+[[Deep_Network_Architecture_Invariant]]
 [[EulaminateOverrepresentation]]
 [[Evolutionary_Structure_Computability]]
 [[Free_Energy_Principle_Network]]

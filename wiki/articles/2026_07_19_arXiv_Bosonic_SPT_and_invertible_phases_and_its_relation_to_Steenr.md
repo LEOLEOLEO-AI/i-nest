@@ -23,6 +23,4 @@ TCC, iNEST
 
 ## Related Concepts
 
-[[Invertible_Phases]]
-[[TCC]]
-[[iNEST]]
+*(no linked concepts yet)*

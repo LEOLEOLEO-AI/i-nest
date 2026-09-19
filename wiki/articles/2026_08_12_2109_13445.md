@@ -17,5 +17,3 @@ TCC, iNEST
 ## Related Concepts
 
 [[Intelligence_Emergence]]
-[[TCC]]
-[[iNEST]]

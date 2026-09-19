@@ -23,7 +23,5 @@ SDI, iNEST, 互连, 忆阻
 
 ## Related Concepts
 
-[[Nature Electronics]]
 [[SDI_Bond]]
 [[Spiking_Neural_Network]]
-[[iNEST]]

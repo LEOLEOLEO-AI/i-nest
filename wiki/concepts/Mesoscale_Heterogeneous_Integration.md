@@ -67,6 +67,7 @@ Auto-extracted concept from raw material compilation.
 [[Spatiotemporal_Synergy_Complexity]]
 [[SystemLevelNonlinearity]]
 [[Textbook_Paradigm_Definition]]
+[[TopologyAware_Renormalization]]
 [[Wafer_Scale_Interconnect_Memristor]]
 [[Wafer_Scale_Neuromorphic]]
 [[Wafer_Scale_Neuromorphic_Integration]]

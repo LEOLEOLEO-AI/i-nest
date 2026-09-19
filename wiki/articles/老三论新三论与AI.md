@@ -19,4 +19,3 @@ SDI, iNEST, neuromorphic, 拓扑, 类脑
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
-[[iNEST]]

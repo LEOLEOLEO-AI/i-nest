@@ -24,5 +24,3 @@ TCC, iNEST
 ## Related Concepts
 
 [[Reservoir_Computing]]
-[[TCC]]
-[[iNEST]]

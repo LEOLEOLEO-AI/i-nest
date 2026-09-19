@@ -23,7 +23,6 @@ SDI, TCC, iNEST, 互连, 拓扑, 晶圆, 芯粒
 
 ## Related Concepts
 
-[[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
 [[Heterogeneous_Integration]]
@@ -31,7 +30,3 @@ SDI, TCC, iNEST, 互连, 拓扑, 晶圆, 芯粒
 [[SDI_Bond]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
-[[TCC]]
-[[Wafer_Scale_Integration]]
-[[complex system]]
-[[iNEST]]

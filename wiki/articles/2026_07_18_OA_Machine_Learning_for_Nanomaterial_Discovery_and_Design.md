@@ -23,11 +23,7 @@ NoC, iNEST, neuromorphic, spiking
 
 ## Related Concepts
 
-[[Memristor]]
 [[Memristor_Synapse]]
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
-[[NoC]]
 [[Spiking_Neural_Network]]
-[[iNEST]]
-[[neuromorphic spiking]]

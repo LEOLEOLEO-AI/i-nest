@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Core_Spacetime_Tensor]]
 [[DRBE_MVP_Mainchain]]
 [[DTGA]]
+[[Deep_Network_Layer_Stacking]]
 [[EulaminateOverrepresentation]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
@@ -51,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[TemperatureSensitivityControl]]
 [[ThermallyDrivenSuperparamagnetReservoir]]
 [[Wafer_Scale_Interconnect_Memristor]]
+[[Wafer_Scale_Neuromorphic]]
 [[Wafer_Scale_Neuromorphic_Integration]]
 
 ## Sources

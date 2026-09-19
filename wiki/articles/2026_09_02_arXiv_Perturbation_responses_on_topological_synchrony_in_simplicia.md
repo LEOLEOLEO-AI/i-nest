@@ -17,7 +17,3 @@ TCC, iNEST, topology
 ## Related Concepts
 
 [[Network_Topology_Design]]
-[[Simplicial_Kuramoto_Model]]
-[[TCC]]
-[[Topological_Synchrony]]
-[[iNEST]]

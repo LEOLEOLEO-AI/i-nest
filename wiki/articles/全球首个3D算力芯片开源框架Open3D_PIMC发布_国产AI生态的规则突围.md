@@ -16,9 +16,6 @@ SDI, chiplet, iNEST, 芯粒
 
 ## Related Concepts
 
-[[3d]]
-[[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Heterogeneous_Integration]]
 [[SDI_Bond]]
-[[TCC]]
-[[iNEST]]

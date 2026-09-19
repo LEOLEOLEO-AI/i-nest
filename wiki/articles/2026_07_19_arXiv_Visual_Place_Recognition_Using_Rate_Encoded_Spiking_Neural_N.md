@@ -24,11 +24,5 @@ SNN, STDP, TCC, iNEST, neuromorphic, spiking
 ## Related Concepts
 
 [[Neuromorphic_Computing]]
-[[SNN]]
-[[STDP_Learning]]
 [[STDP_Plasticity]]
-[[Spiking neural network]]
 [[Spiking_Neural_Network]]
-[[Synaptic_Plasticity]]
-[[TCC]]
-[[iNEST]]

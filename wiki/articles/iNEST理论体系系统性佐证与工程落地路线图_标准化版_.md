@@ -18,8 +18,4 @@ SDI, SNN, iNEST, 互连, 忆阻, 拓扑, 晶圆
 
 [[Network_Topology_Design]]
 [[SDI_Bond]]
-[[SNN]]
 [[Spiking_Neural_Network]]
-[[TCC]]
-[[Wafer_Scale_Integration]]
-[[iNEST]]

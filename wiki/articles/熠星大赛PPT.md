@@ -17,13 +17,7 @@ SDI, STDP, topology, 互连, 忆阻, 拓扑
 ## Related Concepts
 
 [[Intelligence_Emergence]]
-[[Memristor]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
-[[PPT]]
 [[SDI_Bond]]
 [[STDP_Plasticity]]
-[[Synaptic_Plasticity]]
-[[TCC]]
-[[忆阻器]]
-[[涌现]]

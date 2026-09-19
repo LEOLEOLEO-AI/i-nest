@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[FlagScale]]
 [[Free_Energy_Principle_Network]]
 [[Free_Energy_Topology_Mapping]]
+[[GranularCortexExclusion]]
 [[Heterogeneous_Integration]]
 [[InNetwork_CST_Offload]]
 [[In_Network_Neuromorphic_Integration]]

@@ -23,8 +23,4 @@ SNN, TCC, iNEST, spiking
 
 ## Related Concepts
 
-[[SNN]]
-[[Sparsity_Ceiling]]
 [[Spiking_Neural_Network]]
-[[TCC]]
-[[iNEST]]

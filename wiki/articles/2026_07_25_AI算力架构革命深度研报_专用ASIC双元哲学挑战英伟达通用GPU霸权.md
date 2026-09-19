@@ -23,8 +23,6 @@ chiplet, 封装, 拓扑
 
 ## Related Concepts
 
-[[Chiplet]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
-[[TCC]]

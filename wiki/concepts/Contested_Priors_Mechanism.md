@@ -15,6 +15,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Attention_Residuals]]
+[[AutonomousAdaptation]]
 [[CST_Intelligence_Emergence]]
 [[Complex_System_Theory]]
 [[Complexity_Emergence]]

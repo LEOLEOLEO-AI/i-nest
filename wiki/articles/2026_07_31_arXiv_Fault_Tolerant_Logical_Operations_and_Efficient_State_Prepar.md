@@ -23,5 +23,4 @@ TCC, iNEST, interconnect
 
 ## Related Concepts
 
-[[TCC]]
-[[iNEST]]
+*(no linked concepts yet)*

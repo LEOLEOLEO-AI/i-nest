@@ -24,6 +24,3 @@ SDI, iNEST, wafer, 封装, 晶圆
 ## Related Concepts
 
 [[SDI_Bond]]
-[[TCC]]
-[[Wafer_Scale_Integration]]
-[[iNEST]]

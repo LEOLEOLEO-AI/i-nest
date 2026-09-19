@@ -57,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[RTC_Primitive]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection_Removal]]
+[[SDI_TCC_iNEST_Interconnect]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[SDSoW_Industry_Alliance]]

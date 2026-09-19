@@ -23,8 +23,4 @@ TCC, iNEST
 
 ## Related Concepts
 
-[[IntervalAnalysis]]
 [[Nonlinear_Gain]]
-[[TCC]]
-[[UncertainNonlinearSystem]]
-[[iNEST]]

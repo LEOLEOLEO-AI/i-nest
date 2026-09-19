@@ -16,7 +16,4 @@ TCC, iNEST
 
 ## Related Concepts
 
-[[Cortical_Information_Transfer]]
-[[Hemispherical_Network_Dynamics]]
-[[TCC]]
-[[iNEST]]
+*(no linked concepts yet)*

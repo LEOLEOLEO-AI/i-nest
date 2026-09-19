@@ -40,3 +40,54 @@
 2026-09-18 04:30:51 | research_evolve 退出码=0
 2026-09-18 04:30:51 | 结果态: R6 opened=0 closed=0 escalated=55 gate_new=14 open_total=78 自膨胀连续=0
 2026-09-18 04:30:51 | === research_evolve 每日运行结束 ===
+2026-09-19 22:42:10 | === research_evolve 每日运行开始 ===
+2026-09-19 22:42:10 | 同步 Zotero 书目...
+2026-09-19 22:42:11 |   === Zotero -> vault 同步 ===
+2026-09-19 22:42:11 |   读到可引用条目 540（有PDF 268，有BBT citationKey 540）
+2026-09-19 22:42:11 |     BibLaTeX -> D:\Obsidian\vault\50_Output\References\zotero.bib  (7117 行)
+2026-09-19 22:42:11 |     索引 -> D:\Obsidian\vault\90_System\research_evolve\zotero\library.json
+2026-09-19 22:42:11 |     阅读索引 -> D:\Obsidian\vault\90_System\research_evolve\zotero\reading_index.md
+2026-09-19 22:42:11 |     PDF 映射 -> D:\Obsidian\vault\90_System\research_evolve\zotero\pdf_map.json  (268 条)
+2026-09-19 22:42:11 |     引用白名单: 544 -> 544 条（新增 0，更新 540）
+2026-09-19 22:42:11 |   === 完成 ===
+2026-09-19 22:42:11 | Zotero 同步退出码=0
+2026-09-19 22:42:13 |   [research_evolve] === 第 10 轮开始 ===
+2026-09-19 22:42:13 |   [research_evolve] 收集 假说注册表: 10 条
+2026-09-19 22:42:13 |   [research_evolve] 收集 进化队列: 2 条
+2026-09-19 22:42:13 |   [research_evolve] 收集 灵感卡片: 75 条
+2026-09-19 22:58:23 | === research_evolve 每日运行开始 ===
+2026-09-19 22:58:23 | 同步 Zotero 书目...
+2026-09-19 22:58:24 |   === Zotero -> vault 同步 ===
+2026-09-19 22:58:24 |   读到可引用条目 540（有PDF 268，有BBT citationKey 540）
+2026-09-19 22:58:24 |     BibLaTeX -> D:\Obsidian\vault\50_Output\References\zotero.bib  (7117 行)
+2026-09-19 22:58:24 |     索引 -> D:\Obsidian\vault\90_System\research_evolve\zotero\library.json
+2026-09-19 22:58:24 |     阅读索引 -> D:\Obsidian\vault\90_System\research_evolve\zotero\reading_index.md
+2026-09-19 22:58:24 |     PDF 映射 -> D:\Obsidian\vault\90_System\research_evolve\zotero\pdf_map.json  (268 条)
+2026-09-19 22:58:24 |     引用白名单: 544 -> 544 条（新增 0，更新 540）
+2026-09-19 22:58:24 |   === 完成 ===
+2026-09-19 22:58:24 | Zotero 同步退出码=0
+2026-09-19 22:58:26 |   [research_evolve] === 第 11 轮开始 ===
+2026-09-19 22:58:26 |   [research_evolve] 收集 假说注册表: 10 条
+2026-09-19 22:58:26 |   [research_evolve] 收集 进化队列: 2 条
+2026-09-19 22:58:26 |   [research_evolve] 收集 灵感卡片: 75 条
+2026-09-19 22:58:26 |   [research_evolve] 收集 跨域桥: 5 条
+2026-09-19 22:58:26 |   [research_evolve] 候选合计: 91 条（批内重复已并 1 条）
+2026-09-19 22:58:26 |   [research_evolve] 登记: 新增 0 | 复现(仍开放) 75 | 已关闭不再复活 16
+2026-09-19 22:58:26 |   [research_evolve] 评分: 75 条 open 候选已打分
+2026-09-19 22:58:26 |   [research_evolve] 升级(久挂未裁决): 48 条
+2026-09-19 22:58:26 |   [research_evolve] 门禁: 扫描 190 文件, 新增违规 0 项, 存量债 806 项, 本轮消除 138 项
+2026-09-19 22:58:26 |   [research_evolve] 冻结守卫: 有新来源 226 篇，允许增量编译
+2026-09-19 22:58:26 |   [research_evolve] 本轮四数: opened=0 closed=0 escalated=48 gate_new=0
+2026-09-19 22:58:26 |   [research_evolve] 报告已写入 D:\Obsidian\vault\70_Dashboard\research_evolve.md
+2026-09-19 22:58:26 |   [research_evolve] git: --no-git 指定，跳过提交。
+2026-09-19 22:58:26 |   
+2026-09-19 22:58:26 |   轮次 11 完成 | opened=0 closed=0 escalated=48 gate=0 open=75
+2026-09-19 22:58:26 |   报告: D:\Obsidian\vault\70_Dashboard\research_evolve.md
+2026-09-19 22:58:26 | 分诊收件箱...
+2026-09-19 22:58:37 |   分诊中（扫描各入口）...
+2026-09-19 22:58:37 |   扫描 891 条 -> keep 119 / park 754 / reject 0
+2026-09-19 22:58:37 |   报告 -> D:\Obsidian\vault\70_Dashboard\inbox_triage.md
+2026-09-19 22:58:37 |   按工作流: {'PAPER': 68, 'GUIDE': 7, 'SIM': 22, 'CODE': 14, 'READ': 8}
+2026-09-19 22:58:37 | research_evolve 退出码=0
+2026-09-19 22:58:37 | 结果态: R11 opened=0 closed=0 escalated=48 gate_new=0 open_total=75 自膨胀连续=0
+2026-09-19 22:58:37 | === research_evolve 每日运行结束 ===

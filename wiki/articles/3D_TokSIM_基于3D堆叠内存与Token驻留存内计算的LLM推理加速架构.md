@@ -16,11 +16,7 @@ SDI, SNN, iNEST, 神经形态
 
 ## Related Concepts
 
-[[3d]]
-[[In_Memory_Computing]]
 [[Memory_Wall]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
-[[SNN]]
 [[Spiking_Neural_Network]]
-[[iNEST]]

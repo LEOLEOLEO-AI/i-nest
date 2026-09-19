@@ -16,7 +16,4 @@ iNEST
 
 ## Related Concepts
 
-[[Brain_Connectome]]
-[[Connectome]]
-[[iNEST]]
-[[神经网络]]
+*(no linked concepts yet)*

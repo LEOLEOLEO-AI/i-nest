@@ -18,9 +18,5 @@ SNN, 互连, 拓扑, 晶圆
 
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
-[[SNN]]
 [[Spiking_Neural_Network]]
-[[TCC]]
-[[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
-[[神经网络]]

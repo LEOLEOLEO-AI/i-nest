@@ -17,4 +17,3 @@ title: "谷歌TPUv7 Ironwood深度解析：推理性价比反超英伟达Blackwe
 ## Related Concepts
 
 [[Network_Topology_Design]]
-[[TCC]]

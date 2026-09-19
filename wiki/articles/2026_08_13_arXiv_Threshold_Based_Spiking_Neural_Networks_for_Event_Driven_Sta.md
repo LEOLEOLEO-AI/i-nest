@@ -23,8 +23,4 @@ TCC, iNEST, spiking
 
 ## Related Concepts
 
-[[Event_Driven_Architecture]]
-[[Spiking neural network]]
 [[Spiking_Neural_Network]]
-[[TCC]]
-[[iNEST]]

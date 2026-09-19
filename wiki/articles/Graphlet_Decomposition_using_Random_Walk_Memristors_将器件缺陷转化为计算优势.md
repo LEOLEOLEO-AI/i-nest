@@ -16,9 +16,5 @@ SDI, iNEST, 忆阻
 
 ## Related Concepts
 
-[[Graphlet_Decomposition]]
-[[Memristor]]
 [[Memristor_Synapse]]
 [[SDI_Bond]]
-[[iNEST]]
-[[忆阻器]]

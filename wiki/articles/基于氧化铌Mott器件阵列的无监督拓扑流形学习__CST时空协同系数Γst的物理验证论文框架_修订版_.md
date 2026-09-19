@@ -28,8 +28,3 @@ SDI, STDP, TCC, iNEST, neuromorphic, 互连, 忆阻, 拓扑, 晶圆, 类脑
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
 [[STDP_Plasticity]]
-[[Synaptic_Plasticity]]
-[[TCC]]
-[[Wafer_Scale_Integration]]
-[[complex system]]
-[[iNEST]]

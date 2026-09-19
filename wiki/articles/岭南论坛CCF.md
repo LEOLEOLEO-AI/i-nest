@@ -17,17 +17,9 @@ SDI, iNEST, interconnect, neuromorphic, wafer, 互连, 忆阻, 拓扑, 晶圆, �
 ## Related Concepts
 
 [[Complex_System_Theory]]
-[[Criticality]]
 [[Intelligence_Emergence]]
 [[Network_Spatiotemporal_Synergy]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
-[[Self_Organized_Criticality]]
-[[Spatiotemporal_Synergy]]
-[[TCC]]
-[[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
-[[iNEST]]
-[[智能涌现]]
-[[涌现]]

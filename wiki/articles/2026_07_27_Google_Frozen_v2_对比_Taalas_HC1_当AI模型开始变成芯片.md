@@ -24,5 +24,3 @@ SDI, iNEST, 封装
 ## Related Concepts
 
 [[SDI_Bond]]
-[[TCC]]
-[[iNEST]]

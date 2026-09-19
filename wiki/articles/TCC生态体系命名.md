@@ -18,9 +18,5 @@ NoC, SDI, STDP, TCC, topology, 互连, 拓扑
 
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
-[[NoC]]
 [[SDI_Bond]]
 [[STDP_Plasticity]]
-[[Synaptic_Plasticity]]
-[[TCC]]
-[[存算一体]]

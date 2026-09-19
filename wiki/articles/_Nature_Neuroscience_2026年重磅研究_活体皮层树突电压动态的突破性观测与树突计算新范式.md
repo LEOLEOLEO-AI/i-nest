@@ -17,5 +17,3 @@ STDP, iNEST
 ## Related Concepts
 
 [[STDP_Plasticity]]
-[[Synaptic_Plasticity]]
-[[iNEST]]

@@ -23,6 +23,4 @@ TCC, iNEST
 
 ## Related Concepts
 
-[[HierarchicalAttention_MIL]]
-[[TCC]]
-[[iNEST]]
+*(no linked concepts yet)*

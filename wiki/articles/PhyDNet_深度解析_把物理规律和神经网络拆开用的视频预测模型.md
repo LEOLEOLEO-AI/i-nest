@@ -16,6 +16,4 @@ iNEST
 
 ## Related Concepts
 
-[[PhyDNet]]
-[[iNEST]]
-[[神经网络]]
+*(no linked concepts yet)*

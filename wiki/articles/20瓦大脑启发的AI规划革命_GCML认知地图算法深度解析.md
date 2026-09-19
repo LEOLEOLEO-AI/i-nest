@@ -25,4 +25,3 @@ SDI, iNEST, 神经形态
 
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
-[[iNEST]]
