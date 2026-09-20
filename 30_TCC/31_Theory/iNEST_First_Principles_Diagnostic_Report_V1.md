@@ -1,4 +1,12 @@
 ---
+direction: iNEST
+category: 理论
+tags: [iNEST, first-principles, Lyapunov-spectrum, criticality, neuroscience, complex-systems, STDP, emergence]
+summary: "iNEST体系第一性原理诊断报告，从数学/神经科学/复杂科学等维度审视理论薄弱环节"
+quality: high
+processed: 2026-09-20 19:03
+---
+---
 title: "iNEST体系第一性原理诊断报告（V1.0）"
 tags:
   - llm

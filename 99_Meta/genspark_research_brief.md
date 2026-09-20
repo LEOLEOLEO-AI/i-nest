@@ -1,11 +1,11 @@
 ---
-title: iNEST+TCC Research Brief - 2026-09-19
-date: 2026-09-19
+title: iNEST+TCC Research Brief - 2026-09-20
+date: 2026-09-20
 type: research-brief
 target: genspark
 ---
 
-# iNEST + TCC Research Brief - 2026-09-19
+# iNEST + TCC Research Brief - 2026-09-20
 
 > For Genspark deep analysis. Contains actionable research context.
 
@@ -34,9 +34,9 @@ target: genspark
 ## 4. Inbox Highlights
 
 - [2026-09-19] **拓扑中心计算网络底座项目建议书（正式版·优化稿）** (01_GetNotes)
+- [2026-09-19] **iNEST体系第一性原理诊断报告（V1.0）** (01_GetNotes)
 - [2026-09-18] **华为廖恒嵌套并行冯·诺依曼架构论文深度解读：百万处理器如何仍是一台计算机** (01_GetNotes)
 - [2026-09-18] **全球首个3D算力芯片开源框架Open3D-PIMC发布：国产AI生态的规则突围** (01_GetNotes)
-- [2026-09-18] **iNEST体系第一性原理诊断报告（V1.0）** (01_GetNotes)
 - [2026-09-16] **2026-09-16_arXiv_Partial projected ensembles reveal slow tilt-constrained inf** (_pipeline_insights)
 - [2026-09-16] **2026-09-16_arXiv_Learning to Solve Hard Problems in RL for LLMs by Never Givi** (_pipeline_insights)
 - [2026-09-16] **2026-09-16_arXiv_Self-Emergence Agent ArchitectureBehavior-Inertia HMM, Refle** (_pipeline_insights)
@@ -44,22 +44,22 @@ target: genspark
 
 ## 5. Knowledge Graph Hotspots
 
-Total notes: 7623
-Graph nodes: 13367 | edges: 293349
+Total notes: 7558
+Graph nodes: 7535 | edges: 26068
 
 Top connected topics:
-- **backlinks** (degree=7560)
-- **index** (degree=6123)
+- **backlinks** (degree=1466)
 - **00_iNEST_全景知识图谱** (degree=1182)
 - **神经科学、AGI与神经形态计算的融合：统一研究范式与挑战** (degree=395)
 - **TCC_iNEST_成果全景** (degree=291)
+- **index** (degree=195)
 - **00_研究资料导航** (degree=194)
 - **10_Own_Research_Diagnosis** (degree=103)
-- **Residual_Connection_Removal** (degree=89)
+- **2025年AI与HPC网络加速芯片技术对比** (degree=85)
 
 ## 6. Innovation Brief (latest)
 
 (Run innovation_engine.py to generate)
 
 ---
-*Research brief auto-generated 2026-09-19 12:05*
+*Research brief auto-generated 2026-09-20 17:39*

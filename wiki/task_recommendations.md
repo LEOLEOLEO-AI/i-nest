@@ -4,8 +4,8 @@
 **Total**: 15 recommendations
 
 ### 1. [HIGH] Evolution Item
-[pipeline_fix] Pipeline zero-paper alert: API connectivity check (出现 6 次)
-**Action**: Recent runs with zero new papers: 6
+[pipeline_fix] Pipeline zero-paper alert: API connectivity check (出现 8 次)
+**Action**: Recent runs with zero new papers: 7
 
 ### 2. [MEDIUM] Hypothesis Test
 H3: iNEST: 脉冲神经网络在晶上系统可实现类脑计算
@@ -36,7 +36,7 @@ H10: TCC×iNEST: 脑连接组拓扑模式可启发晶圆级NoC最优拓扑设计
 **Action**: Design experiment to test hypothesis H10
 
 ### 9. [MEDIUM] Evolution Item
-[git_hygiene] Git hygiene: 1590 uncommitted changes (出现 57 次)
+[git_hygiene] Git hygiene: 37 uncommitted changes (出现 59 次)
 **Action**: Commit or review outstanding changes.
 
 ### 10. [LOW] Orphan Concepts

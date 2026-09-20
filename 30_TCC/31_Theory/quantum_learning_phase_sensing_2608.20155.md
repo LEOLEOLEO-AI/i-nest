@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 理论
+tags: [量子学习, 量子传感, 量子混沌, 非线性计算, 信息处理容量]
+summary: "量子混沌前的学习相提升信息处理能力，随系统规模增长"
+quality: medium
+processed: 2026-09-20 19:04
+---
+---
 title: "The ebbs and flows of quantum learning and sensing"
 arxiv_id: "2608.20155"
 link: "https://arxiv.org/abs/2608.20155"
@@ -36,3 +44,11 @@ answer:
 
 ---
 *自动抓取于 2026-08-21 | iNEST arXiv WikiBot v2.2-gsk*
+
+
+## 相关链接
+- [[2026-07-14-2607.11662]]
+- [[reputation_modulated_rl_cooperation_emergence]]
+- [[long-range-nlsm-singular-quantum-kicked-rotor]]
+- [[drosophila_olfactory_connectome_feedback_loops]]
+- [[emergent_behavior_robust_communication_delays_slower_evolution]]

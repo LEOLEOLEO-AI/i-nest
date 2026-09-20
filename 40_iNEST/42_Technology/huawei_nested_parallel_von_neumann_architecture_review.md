@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 技术
+tags: [nested-parallel, von-neumann, unified-bus, NPO, BSP, supernode, scaling-law, interconnect]
+summary: "华为嵌套并行冯·诺依曼架构：百万处理器统一为一台计算机"
+quality: high
+processed: 2026-09-20 19:04
+---
+---
 title: "华为廖恒嵌套并行冯·诺依曼架构论文深度解读：百万处理器如何仍是一台计算机"
 tags:
   - green-ai

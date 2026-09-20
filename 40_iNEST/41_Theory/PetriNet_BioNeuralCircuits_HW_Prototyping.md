@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 理论
+tags: [Petri网, 神经形态计算, 实时性保证, 脉冲神经网络, 硬件原型]
+summary: "用T-定时Petri网描述生物神经回路，实现实时时序保证。"
+quality: high
+processed: 2026-09-20 19:04
+---
+---
 title: "Petri Net Description of Biological Neural Circuits for Fast Hardware Prototyping"
 arxiv_id: "2608.20147"
 link: "https://arxiv.org/abs/2608.20147"
@@ -37,3 +45,11 @@ answer:
 
 ---
 *自动抓取于 2026-08-21 | iNEST arXiv WikiBot v2.2-gsk*
+
+
+## 相关链接
+- [[2026-07-14-2604.14096]]
+- [[Spike-based_Belief_Propagation_Nonlinear_Dynamical_Systems]]
+- [[drosophila_olfactory_connectome_feedback_loops]]
+- [[active-spiking-perception-membrane-belief-3d-recognition]]
+- [[2026-07-13-2607.08897]]

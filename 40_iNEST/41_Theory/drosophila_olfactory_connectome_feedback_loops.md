@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 理论
+tags: [connectome, olfactory-system, feedback-loops, neural-circuit, drosophila]
+summary: "果蝇嗅觉连接组揭示前馈通路嵌套于大规模局部反馈环路中"
+quality: high
+processed: 2026-09-20 19:04
+---
+---
 title: "The Connectome and the Quest for the Functional Logic of the Drosophila Early Olfactory System"
 arxiv_id: "2608.19290"
 link: "https://arxiv.org/abs/2608.19290"
@@ -37,3 +45,11 @@ answer:
 
 ---
 *自动抓取于 2026-08-21 | iNEST arXiv WikiBot v2.2-gsk*
+
+
+## 相关链接
+- [[2026-07-14-2604.14096]]
+- [[neural_quantum_states_hofstadter_hubbard_superconductivity_quantum_criticality]]
+- [[emergent_behavior_robust_communication_delays_slower_evolution]]
+- [[LRBM_emergent_systems_entropy_constraint]]
+- [[long-range-nlsm-singular-quantum-kicked-rotor]]

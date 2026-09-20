@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 理论
+tags: [Potts模型, Nishimori临界性, 拓扑码, 自旋玻璃, 重整化群, 量子纠错]
+summary: "高阶西森临界点连接Potts模型与Zq拓扑码的信息相变"
+quality: high
+processed: 2026-09-20 19:04
+---
+---
 title: "Learning Potts Models and $Z_3$ Toric Codes: Higher and Ordinary Nishimori Criticality"
 arxiv_id: "2608.20268"
 link: "https://arxiv.org/abs/2608.20268"
@@ -45,3 +53,11 @@ verbatim: Using analytical tools, we discuss the general structure of the rich p
 
 ---
 *自动抓取于 2026-08-21 | iNEST arXiv WikiBot v2.2-gsk*
+
+
+## 相关链接
+- [[reputation_modulated_rl_cooperation_emergence]]
+- [[2026-07-14-2607.11065]]
+- [[quantum_learning_phase_sensing_2608.20155]]
+- [[2026-07-14-2607.10430]]
+- [[neural_quantum_states_hofstadter_hubbard_superconductivity_quantum_criticality]]

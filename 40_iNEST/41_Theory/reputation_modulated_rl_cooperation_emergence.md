@@ -1,4 +1,12 @@
 ---
+direction: iNEST
+category: 理论
+tags: [声誉机制, 强化学习, 合作涌现, Q-learning, 空间囚徒困境]
+summary: "声誉作为信息调制Q学习，促进空间囚徒困境中合作涌现与相变。"
+quality: medium
+processed: 2026-09-20 19:04
+---
+---
 title: "Emergence of cooperation: A reputation-modulated reinforcement learning"
 arxiv_id: "2608.20016"
 link: "https://arxiv.org/abs/2608.20016"
@@ -41,3 +49,11 @@ answer: 建议iNEST/TCC团队采取以下行动：
 
 ---
 *自动抓取于 2026-08-21 | iNEST arXiv WikiBot v2.2-gsk*
+
+
+## 相关链接
+- [[2026-07-14-2607.10430]]
+- [[DNN-Orientation-Generalization-Neural-Mechanisms]]
+- [[drosophila_olfactory_connectome_feedback_loops]]
+- [[UFL_low_dimensional_gravity_robustness_2505.18957]]
+- [[2026-07-14-2607.10770]]

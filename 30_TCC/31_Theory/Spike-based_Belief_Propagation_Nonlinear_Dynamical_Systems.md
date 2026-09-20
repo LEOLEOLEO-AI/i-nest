@@ -1,4 +1,12 @@
 ---
+direction: iNEST
+category: 理论
+tags: [neuromorphic, spiking-neural-network, Bayesian-inference, belief-propagation, nonlinear-dynamics, adaptive-control]
+summary: "脉冲动力学与贝叶斯推理结合实现非线性系统自适应控制"
+quality: high
+processed: 2026-09-20 19:04
+---
+---
 title: "Spike-based Belief Propagation in Nonlinear Dynamical Systems"
 arxiv_id: "2608.19907"
 link: "https://arxiv.org/abs/2608.19907"
@@ -39,3 +47,11 @@ answer: 1. **算法迁移实验**：iNEST团队可将该论文的脉冲贝叶斯
 
 ---
 *自动抓取于 2026-08-21 | iNEST arXiv WikiBot v2.2-gsk*
+
+
+## 相关链接
+- [[Bayes-Markov-Neuromorphic-Orientation-Selectivity]]
+- [[2026-07-14-2607.11445]]
+- [[active-spiking-perception-membrane-belief-3d-recognition]]
+- [[2026-07-14-2604.14096]]
+- [[2026-07-13-2607.08897]]

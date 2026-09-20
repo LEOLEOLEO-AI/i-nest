@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 技术
+tags: [3D芯片, 存算一体, 开源框架, 编程模型, 国产AI生态]
+summary: "全球首个3D算力芯片开源框架Open3D-PIMC发布，破解碎片化困境"
+quality: high
+processed: 2026-09-20 19:04
+---
+---
 title: "全球首个3D算力芯片开源框架Open3D-PIMC发布：国产AI生态的规则突围"
 tags:
   - llm

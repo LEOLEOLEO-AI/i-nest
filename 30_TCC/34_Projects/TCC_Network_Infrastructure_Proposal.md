@@ -1,4 +1,12 @@
 ---
+direction: TCC
+category: 项目
+tags: [TCC, 可重构拓扑, 互连网络, 超节点, 光互联, 连接组学, 智能涌现, FPGA验证]
+summary: "拓扑中心计算网络底座项目建议书，提出微秒级可重构拓扑架构"
+quality: high
+processed: 2026-09-20 19:04
+---
+---
 title: "拓扑中心计算网络底座项目建议书（正式版·优化稿）"
 tags:
   - green-ai
