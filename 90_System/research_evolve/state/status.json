@@ -1,29 +1,29 @@
 {
-  "updated": "2026-09-20T04:30:04.175091",
-  "round": 12,
+  "updated": "2026-09-20T08:16:09.043705",
+  "round": 13,
   "rounds": {
-    "round": 12,
+    "round": 13,
     "date": "2026-09-20",
-    "at": "2026-09-20T04:30:04.170091",
-    "opened": 3,
-    "closed": 1,
+    "at": "2026-09-20T08:16:09.036198",
+    "opened": 1,
+    "closed": 0,
     "escalated": 48,
-    "open_total": 77,
-    "gate_violations": 0,
+    "open_total": 78,
+    "gate_violations": 1,
     "note": ""
   },
-  "stagnation_streak": 0,
-  "gate_new_violations": 0,
+  "stagnation_streak": 1,
+  "gate_new_violations": 1,
   "gate_known_debt": 806,
   "gate_fixed_this_round": 138,
-  "gate_total": 806,
+  "gate_total": 807,
   "freeze_new_concepts": false,
-  "new_source_total": 226,
-  "open_total": 77,
+  "new_source_total": 5,
+  "open_total": 78,
   "stats": {
-    "total": 149,
+    "total": 150,
     "by_verdict": {
-      "open": 77,
+      "open": 78,
       "deferred": 57,
       "accepted": 9,
       "rejected": 5,
@@ -31,12 +31,12 @@
     },
     "by_kind": {
       "hypothesis": 10,
-      "evolution_item": 55,
+      "evolution_item": 56,
       "idea": 77,
       "bridge": 7
     },
-    "open": 77,
-    "round": 12,
-    "stagnation_streak": 0
+    "open": 78,
+    "round": 13,
+    "stagnation_streak": 1
   }
 }

@@ -1,98 +1,98 @@
 ﻿{
-    "generated":  "2026-09-19T11:59:34",
-    "summary":  "CRITICAL",
-    "crit_count":  1,
-    "warn_count":  1,
+    "generated":  "2026-09-20T07:59:07",
+    "summary":  "OK",
+    "crit_count":  0,
+    "warn_count":  0,
     "checks":  [
                    {
                        "name":  "git_object_store",
                        "status":  "OK",
                        "detail":  "fsck connectivity clean",
-                       "at":  "2026-09-19T11:58:59"
+                       "at":  "2026-09-20T07:58:58"
                    },
                    {
                        "name":  "git_head_reachable",
                        "status":  "OK",
-                       "detail":  "HEAD history walkable (105 commits)",
-                       "at":  "2026-09-19T11:58:59"
+                       "detail":  "HEAD history walkable (110 commits)",
+                       "at":  "2026-09-20T07:58:58"
                    },
                    {
                        "name":  "git_object_garbage",
                        "status":  "OK",
                        "detail":  "no stale tmp_pack / orphan idx",
-                       "at":  "2026-09-19T11:59:00"
+                       "at":  "2026-09-20T07:58:58"
                    },
                    {
                        "name":  "commit_freshness",
                        "status":  "OK",
-                       "detail":  "last commit 0.9h ago",
-                       "at":  "2026-09-19T11:59:00"
+                       "detail":  "last commit 3.5h ago",
+                       "at":  "2026-09-20T07:58:58"
                    },
                    {
                        "name":  "working_tree_backlog",
-                       "status":  "CRIT",
-                       "detail":  "1581 pending changes (\u003e200, pipeline output likely stuck)",
-                       "at":  "2026-09-19T11:59:01"
+                       "status":  "OK",
+                       "detail":  "37 pending change(s)",
+                       "at":  "2026-09-20T07:58:58"
                    },
                    {
                        "name":  "github_divergence",
                        "status":  "OK",
-                       "detail":  "与 github/main 同源; 本地独有 0 / 落后 0",
-                       "at":  "2026-09-19T11:59:01"
+                       "detail":  "与 github/main 同源; 本地独有 1 / 落后 0",
+                       "at":  "2026-09-20T07:58:58"
                    },
                    {
                        "name":  "daily_sync",
                        "status":  "OK",
-                       "detail":  "last sync completed 1.1h ago",
-                       "at":  "2026-09-19T11:59:01"
+                       "detail":  "last sync completed 21.1h ago",
+                       "at":  "2026-09-20T07:58:58"
                    },
                    {
                        "name":  "getnotes_pull",
                        "status":  "OK",
-                       "detail":  "last pull 1.2h ago, total=572",
-                       "at":  "2026-09-19T11:59:02"
+                       "detail":  "last pull 21.2h ago, total=572",
+                       "at":  "2026-09-20T07:58:58"
                    },
                    {
                        "name":  "pipeline",
                        "status":  "OK",
-                       "detail":  "last run 18.3h ago, new_papers=0 (task last run 09/18/2026 17:30:13, exit=0x0)",
-                       "at":  "2026-09-19T11:59:07"
+                       "detail":  "last run 1.2h ago, new_papers=0 (task last run 09/20/2026 06:30:01, exit=0x0)",
+                       "at":  "2026-09-20T07:59:00"
                    },
                    {
                        "name":  "config_llm_config",
                        "status":  "OK",
                        "detail":  "llm_config.json valid",
-                       "at":  "2026-09-19T11:59:07"
+                       "at":  "2026-09-20T07:59:00"
                    },
                    {
                        "name":  "config_model_switch",
                        "status":  "OK",
                        "detail":  "model_switch.json valid",
-                       "at":  "2026-09-19T11:59:07"
+                       "at":  "2026-09-20T07:59:00"
                    },
                    {
                        "name":  "daemons",
                        "status":  "OK",
-                       "detail":  "pythonw=2 node=5 preview8899=True",
-                       "at":  "2026-09-19T11:59:11"
+                       "detail":  "pythonw=2 node=3 preview8899=True",
+                       "at":  "2026-09-20T07:59:00"
                    },
                    {
                        "name":  "scheduled_tasks",
                        "status":  "OK",
                        "detail":  "all required iNEST tasks registered | iNEST_Self_Evolve(依设计禁用: 2026-09-01 用户决定改由 WorkBuddy 自动化负责每日自进化)",
-                       "at":  "2026-09-19T11:59:34"
+                       "at":  "2026-09-20T07:59:07"
                    },
                    {
                        "name":  "self_evolve_outcome",
-                       "status":  "WARN",
-                       "detail":  "门禁有 1 项新增违规 — R9: opened=0 closed=2 escalated=55 gate_new=1 open_total=78",
-                       "at":  "2026-09-19T11:59:34"
+                       "status":  "OK",
+                       "detail":  "3.5h 前运行 — R12: opened=3 closed=1 escalated=48 gate_new=0 open_total=77",
+                       "at":  "2026-09-20T07:59:07"
                    },
                    {
                        "name":  "gitee",
                        "status":  "INFO",
                        "detail":  "gitee sync_time=2026-07-11T21:46:41 (script hardcodes disabled, by design)",
-                       "at":  "2026-09-19T11:59:34"
+                       "at":  "2026-09-20T07:59:07"
                    }
                ]
 }

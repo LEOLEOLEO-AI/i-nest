@@ -1,0 +1,6 @@
+{"at": "2026-09-20T08:14:25.600223", "stage": "daily_review", "status": "ok", "metrics": {"stages_bad": 9, "today_items": 119}, "outputs": ["70_Dashboard\\daily_review.md"], "note": ""}
+{"at": "2026-09-20T08:14:27.126840", "stage": "weekly_review", "status": "ok", "metrics": {"new_papers": 8, "opened": 149, "closed": 62, "bad_stages": 9}, "outputs": ["70_Dashboard\\weekly_review.md"], "note": ""}
+{"at": "2026-09-20T08:14:38.940904", "stage": "daily_review", "status": "ok", "metrics": {"stages_bad": 2, "today_items": 119}, "outputs": ["70_Dashboard\\daily_review.md"], "note": ""}
+{"at": "2026-09-20T08:14:43.270862", "stage": "weekly_review", "status": "ok", "metrics": {"new_papers": 8, "opened": 149, "closed": 62, "bad_stages": 2}, "outputs": ["70_Dashboard\\weekly_review.md"], "note": ""}
+{"at": "2026-09-20T08:16:33.080389", "stage": "daily_review", "status": "ok", "metrics": {"stages_bad": 2, "today_items": 119}, "outputs": ["70_Dashboard\\daily_review.md"], "note": ""}
+{"at": "2026-09-20T08:16:35.141562", "stage": "weekly_review", "status": "ok", "metrics": {"new_papers": 8, "opened": 150, "closed": 62, "bad_stages": 2}, "outputs": ["70_Dashboard\\weekly_review.md"], "note": ""}
