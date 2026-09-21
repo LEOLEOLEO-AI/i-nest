@@ -1,4 +1,12 @@
 ---
+direction: iNEST
+category: 理论
+tags: [iNEST, first-principles, predictive-learning, structured-representation, continual-learning, self-monitoring, open-exploration]
+summary: "用Neuron综述四条共同原理校准iNEST第一性原理设计坐标系"
+quality: high
+processed: 2026-09-21 19:46
+---
+---
 title: "iNEST第一性原理优化_2"
 tags:
   - llm

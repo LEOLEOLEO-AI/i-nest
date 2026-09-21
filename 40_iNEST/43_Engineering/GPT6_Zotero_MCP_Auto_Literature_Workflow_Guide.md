@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 工程
+tags: [Zotero, MCP, GPT-6, 文献管理, 自动化工作流, Skill]
+summary: "GPT-6+Zotero MCP搭建全自动文献收集工作流指南"
+quality: medium
+processed: 2026-09-21 19:46
+---
+---
 title: "GPT-6 + Zotero MCP 全自动文献收集工作流搭建指南"
 tags:
   - top-journal

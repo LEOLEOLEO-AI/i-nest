@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 技术
+tags: [Buffer Die, 3D堆叠, HBM, 存算互联, TSV, 半导体架构]
+summary: "解析3D堆叠中Buffer Die的定位、四大功能与产业价值"
+quality: high
+processed: 2026-09-21 19:46
+---
+---
 title: "Buffer Die 深度解析：3D堆叠时代的存算互联核心器件"
 tags:
   - llm

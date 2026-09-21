@@ -1,4 +1,12 @@
 ---
+direction: iNEST
+category: 理论
+tags: [iNEST, first-principles, predictive-learning, structured-representation, continual-learning, self-monitoring, open-exploration, neuromorphic, topology]
+summary: "用四条智能共同原理校准iNEST第一性原理设计并指出三大盲区"
+quality: high
+processed: 2026-09-21 19:46
+---
+---
 title: "iNEST第一性原理优化"
 tags:
   - llm

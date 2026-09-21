@@ -1,20 +1,20 @@
-# 每日跟踪 · 2026-09-20
+# 每日跟踪 · 2026-09-21
 
-> 生成 08:16 · 由 `research_evolve.tracking` 从真实执行痕迹反推
+> 生成 06:00 · 由 `research_evolve.tracking` 从真实执行痕迹反推
 
 ## 一、环节健康（跑没跑 / 成没成）
 
 | 环节 | 状态 | 上次运行 | 判断 |
 |---|---|---|---|
-| iNEST_Daily_Pipeline | Ready | 1.8h 前 | ✅ 正常 |
-| iNEST_Daily_Sync | Ready | 21.5h 前 | ✅ 正常 |
-| iNEST_Health_Watchdog | Ready | 0.3h 前 | ✅ 正常 |
-| iNEST_Research_Evolve | Ready | 3.8h 前 | ✅ 正常 |
-| iNEST_Knowledge_Evolution | Ready | 5.3h 前 | ✅ 正常 |
-| iNEST_Weekly_Health | Ready | 5.3h 前 | ✅ 正常 |
-| iNEST_Meta_Evolution | Ready | 5.2h 前 | ✅ 正常 |
-| iNEST_Daily_Processing_Digest | Ready | 37.8h 前 | ⚠️ 已 38h 未跑（期望 ≤24h） |
-| iNEST_Inbox_Afternoon | Ready | 37.5h 前 | ⚠️ 已 38h 未跑（期望 ≤24h） |
+| iNEST_Daily_Pipeline | Ready | 12.5h 前 | ✅ 正常 |
+| iNEST_Daily_Sync | Ready | 2.7h 前 | ✅ 正常 |
+| iNEST_Health_Watchdog | Ready | 0.0h 前 | ⚠️ 上次结果 0x1 |
+| iNEST_Research_Evolve | Running | 0.0h 前 | ⚠️ 上次结果 0x41301 |
+| iNEST_Knowledge_Evolution | Ready | 27.0h 前 | ✅ 正常 |
+| iNEST_Weekly_Health | Ready | 27.0h 前 | ✅ 正常 |
+| iNEST_Meta_Evolution | Ready | 26.9h 前 | ✅ 正常 |
+| iNEST_Daily_Processing_Digest | Ready | 11.0h 前 | ✅ 正常 |
+| iNEST_Inbox_Afternoon | Ready | 11.0h 前 | ✅ 正常 |
 
 **有 2 个环节不正常**，优先看这几个。
 
@@ -22,11 +22,11 @@
 
 | 时间 | new_papers | api_results | 分类 | 图节点/边 | 耗时 |
 |---|---|---|---|---|---|
-| 2026-09-17T20:01 | 0 | 0 | 0 | 13114/278312 | 18559.8s |
 | 2026-09-18T06:41 | 0 | 0 | 20 | 13143/278335 | 689.7s |
 | 2026-09-18T17:39 | 0 | 0 | 0 | 13367/293349 | 534.2s |
 | 2026-09-19T12:06 | 0 | 0 | 0 | 7608/25696 | 374.1s |
 | 2026-09-20T06:44 | 0 | 0 | 0 | 7535/26068 | 842.6s |
+| 2026-09-20T17:39 | 0 | 0 | 0 | 7543/26561 | 442.1s |
 
 近 5 次中 **0 次**进到了新论文。
 
@@ -34,7 +34,7 @@
 
 ## 三、今天该做什么（来自分诊）
 
-分诊给出 **119** 条，详情见 `70_Dashboard/inbox_triage.md`。这里只列前 5：
+分诊给出 **126** 条，详情见 `70_Dashboard/inbox_triage.md`。这里只列前 5：
 
 - [ ] **[PAPER]** 2026年9月5号日记
   - `D:/Obsidian/GetNotes_Inbox/_processed/2026年9月5号日记.md`
@@ -49,9 +49,9 @@
 
 ## 四、自进化闭环状态
 
-- 轮次 **13** · open **78**
-- 上轮四数：opened=1 closed=0 escalated=48 gate_new=1
-- 连续只增不关的轮数：**1**
+- 轮次 **14** · open **79**
+- 上轮四数：opened=1 closed=0 escalated=51 gate_new=0
+- 连续只增不关的轮数：**2**
 
 ## 五、按工作流的状态
 

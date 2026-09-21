@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 资料
+tags: [in-network-computing, collective-communication, EPIC, ethernet, AI-infrastructure]
+summary: "EPIC以太网在网集合通信规范综述，梳理智算网络演进与在网计算技术路线"
+quality: high
+processed: 2026-09-21 19:46
+---
+---
 title: "大规模智算集合通信与在网计算综述：EPIC规范与技术演进"
 tags:
   - llm

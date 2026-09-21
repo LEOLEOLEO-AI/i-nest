@@ -1,4 +1,12 @@
 ---
+direction: iNEST
+category: 理论
+tags: [connectome, drosophila, c-elegans, iNEST, validation, topology, emergence, neuroscience]
+summary: "用果蝇/线虫全连接组闭环验证iNEST拓扑动力学理论"
+quality: high
+processed: 2026-09-21 19:46
+---
+---
 title: "果蝇验证智能收敛"
 tags:
   - neural

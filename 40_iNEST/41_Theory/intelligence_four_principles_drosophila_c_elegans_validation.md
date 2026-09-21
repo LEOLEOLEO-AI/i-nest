@@ -1,4 +1,12 @@
 ---
+direction: iNEST
+category: 理论
+tags: [neural, network, physics, architecture, neuroscience, connectome, self-organization, first-principles, simulation, paper]
+summary: "智能四原理映射iNEST，提出果蝇线虫连接组三级交叉验证路线"
+quality: high
+processed: 2026-09-21 19:46
+---
+---
 title: "智能的四条共同原理与果蝇_线虫交叉验证路线"
 tags:
   - neural

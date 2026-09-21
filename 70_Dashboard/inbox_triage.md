@@ -1,18 +1,18 @@
 # 收件箱分诊 · 今天只看这一页
 
-> 生成 2026-09-20 08:16 · 由 `research_evolve.triage` 自动分诊
+> 生成 2026-09-21 06:00 · 由 `research_evolve.triage` 自动分诊
 
 ## 一、漏斗效果（这就是「内容太多、有效太少」的解法）
 
 | 结果 | 数量 | 含义 |
 |---|---|---|
-| 扫描入口条目 | 891 | GetNotes / 00_Inbox / 管线洞察 |
+| 扫描入口条目 | 900 | GetNotes / 00_Inbox / 管线洞察 |
 | **今天处理（硬上限 15）** | **15** | 领域相关 + 是交付物或含显式待办 |
-| 积压（同类，排在后面） | 58 | 处理完今天的再看 |
-| park（参考材料，不动手） | 754 | 留档，不再重复打扰 |
+| 积压（同类，排在后面） | 60 | 处理完今天的再看 |
+| park（参考材料，不动手） | 756 | 留档，不再重复打扰 |
 | reject（不相关/噪声） | 0 + 18 已判 | 明确拒掉并记住 |
 
-> **891 条输入 → 今天 15 条。**这个比例才是分诊要的效果；如果你觉得还是多，把 `DAILY_CAP` 再调小。
+> **900 条输入 → 今天 15 条。**这个比例才是分诊要的效果；如果你觉得还是多，把 `DAILY_CAP` 再调小。
 
 ## 二、今天处理这 15 条
 
@@ -107,14 +107,14 @@
 - **做完前要过**：一个实验只有一个**规范版本**（其余进 git 历史，不在目录里并存 v2…v19）
 - [ ] 处理
 
-### 11. [PAPER] 拓扑中心计算网络底座项目建议书（正式版·优化稿）
+### 11. [SIM] 智能的四条共同原理与果蝇_线虫交叉验证路线
 
-- **文件**：`00_Inbox/01_GetNotes/拓扑中心计算网络底座项目建议书（正式版·优化稿）.md`
-- **为什么是它**：PAPER 相关(命中 ['稿', 'paper'])；含交付物/待办信号 ['建议书']
-- **优先级分**：13（领域命中 4 · 流命中 2 · 待办条目 0）
-- **这条流的闭环**：提交一次完整稿（含引用核验通过 + 数字全部带标签）
-- **做完前要过**：正文引用只能取自 papers.yaml 白名单（门禁会拦 citation-unregistered）
-- ⚠ 另有 **1** 个同名副本，建议合并后再处理：`D:/Obsidian/GetNotes_Inbox/_processed/拓扑中心计算网络底座项目建议书（正式版·优化稿）.md`
+- **文件**：`00_Inbox/01_GetNotes/智能的四条共同原理与果蝇_线虫交叉验证路线.md`
+- **为什么是它**：SIM 相关(命中 ['线虫', '连接组', 'connectome'])；含交付物/待办信号 ['待补', '草稿']
+- **优先级分**：13（领域命中 1 · 流命中 5 · 待办条目 0）
+- **这条流的闭环**：一个仿真实验：登记 + 可复现 + 有基线对照 + 结论带 [仿真] 标签
+- **做完前要过**：固定种子 + 锁定依赖 + 结果可复现（run_manifest）
+- ⚠ 另有 **3** 个同名副本，建议合并后再处理：`00_Inbox/01_GetNotes/智能的四条共同原理与果蝇_线虫交叉验证路线_2.md`、`D:/Obsidian/GetNotes_Inbox/_processed/智能的四条共同原理与果蝇_线虫交叉验证路线.md`、`D:/Obsidian/GetNotes_Inbox/_processed/智能的四条共同原理与果蝇_线虫交叉验证路线_2.md`
 - [ ] 处理
 
 ### 12. [CODE] OpenAI Jalapeño AI 加速器深度拆解：从用户体验反推的芯片架构设计
@@ -135,7 +135,16 @@
 - **做完前要过**：一个实验只有一个**规范版本**（其余进 git 历史，不在目录里并存 v2…v19）
 - [ ] 处理
 
-### 14. [SIM] 2026-07-18_OA_Neuromorphic hierarchical modular reservoirs
+### 14. [PAPER] 拓扑中心计算网络底座项目建议书（正式版·优化稿）
+
+- **文件**：`D:/Obsidian/GetNotes_Inbox/_processed/拓扑中心计算网络底座项目建议书（正式版·优化稿）.md`
+- **为什么是它**：PAPER 相关(命中 ['稿'])；含交付物/待办信号 ['建议书']
+- **优先级分**：12（领域命中 4 · 流命中 1 · 待办条目 0）
+- **这条流的闭环**：提交一次完整稿（含引用核验通过 + 数字全部带标签）
+- **做完前要过**：正文引用只能取自 papers.yaml 白名单（门禁会拦 citation-unregistered）
+- [ ] 处理
+
+### 15. [SIM] 2026-07-18_OA_Neuromorphic hierarchical modular reservoirs
 
 - **文件**：`00_Inbox/_pipeline_insights/2026-07-18_OA_Neuromorphic hierarchical modular reservoirs.md`
 - **为什么是它**：SIM 相关(命中 ['neuromorphic', 'reservoir', 'criticality'])；含交付物/待办信号 ['spec']
@@ -145,25 +154,15 @@
 - ⚠ 另有 **1** 个同名副本，建议合并后再处理：`00_Inbox/_pipeline_insights/2026-07-18_OA_Neuromorphic hierarchical modular reservoirs.md`
 - [ ] 处理
 
-### 15. [SIM] 2026-07-18_OA_In-Sensor-Memory Computing for Post-Von Neumann Intelligence A Perspective
-
-- **文件**：`00_Inbox/_pipeline_insights/2026-07-18_OA_In-Sensor-Memory Computing for Post-Von Neumann Intelligence A Perspective.md`
-- **为什么是它**：SIM 相关(命中 ['neuromorphic', 'reservoir'])；含交付物/待办信号 ['spec']
-- **优先级分**：11（领域命中 3 · 流命中 2 · 待办条目 0）
-- **这条流的闭环**：一个仿真实验：登记 + 可复现 + 有基线对照 + 结论带 [仿真] 标签
-- **做完前要过**：固定种子 + 锁定依赖 + 结果可复现（run_manifest）
-- ⚠ 另有 **1** 个同名副本，建议合并后再处理：`00_Inbox/_pipeline_insights/2026-07-18_OA_In-Sensor-Memory Computing for Post-Von Neumann Intelligence A Perspective.md`
-- [ ] 处理
-
 ## 三、按工作流分布（今天 + 积压）
 
 | 工作流 | 今天 | 积压 |
 |---|---|---|
-| PAPER 论文与专利撰写 | 3 | 34 |
-| GUIDE 项目指南编写 | 3 | 3 |
+| PAPER 论文与专利撰写 | 3 | 33 |
+| GUIDE 项目指南编写 | 3 | 4 |
 | READ 论文阅读与复现 | 0 | 4 |
-| CODE 核心代码编写与验证 | 6 | 7 |
-| SIM 复杂网络涌现智能仿真 | 3 | 10 |
+| CODE 核心代码编写与验证 | 6 | 8 |
+| SIM 复杂网络涌现智能仿真 | 3 | 11 |
 
 ---
 

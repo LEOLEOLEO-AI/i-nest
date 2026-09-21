@@ -1,17 +1,17 @@
-# 每周跟踪 · 截至 2026-09-20
+# 每周跟踪 · 截至 2026-09-21
 
-> 统计窗口：2026-09-13 ~ 2026-09-20 · 由 `research_evolve.tracking` 生成
+> 统计窗口：2026-09-14 ~ 2026-09-21 · 由 `research_evolve.tracking` 生成
 
 ## 一、本周四个数
 
 | 指标 | 本周 | 说明 |
 |---|---|---|
 | 入口新增论文 | **8** | 论文管线 new_papers 合计 |
-| 自进化轮次 | **13** | 有记录的天数 |
-| 候选开启 opened | 150 | 新进来的问题 |
+| 自进化轮次 | **14** | 有记录的天数 |
+| 候选开启 opened | 151 | 新进来的问题 |
 | 候选关闭 closed | **62** | 给出裁决并出队 |
 | 门禁新增违规 | 35 | 引用/证据标签 |
-| 环节异常 | 2 | iNEST_Daily_Processing_Digest、iNEST_Inbox_Afternoon |
+| 环节异常 | 2 | iNEST_Health_Watchdog、iNEST_Research_Evolve |
 
 > ✅ 本周关闭了候选，构成真正的推进（进化 = 变异 + **选择** + 留存）。
 
@@ -19,7 +19,7 @@
 
 | 工作流 | 闭环定义 | 文件数 | 最近改动 |
 |---|---|---|---|
-| PAPER 论文与专利撰写 | 提交一次完整稿（含引用核验通过 + 数字全部带标签） | 687 | 09-20 08:15 |
+| PAPER 论文与专利撰写 | 提交一次完整稿（含引用核验通过 + 数字全部带标签） | 683 | 09-19 22:32 |
 | GUIDE 项目指南编写 | 产出一份可提交的指南/建议书，指标全部有验证方式 | 95 | 09-19 22:57 |
 | READ 论文阅读与复现 | 一篇论文：笔记 + 可一键复现的脚本 + 与原报告指标的差异说明 | 138 | 09-19 22:40 |
 | CODE 核心代码编写与验证 | 一个实验：单一规范脚本 + 可复现 manifest + 验收通过 | 2282 | 09-19 22:57 |
@@ -34,11 +34,13 @@
 | 2026-09-20T08:14 | daily_review | ok | {"stages_bad": 2, "today_items": 119} |
 | 2026-09-20T08:14 | weekly_review | ok | {"new_papers": 8, "opened": 149, "closed": 62, "bad_stages": 2} |
 | 2026-09-20T08:16 | daily_review | ok | {"stages_bad": 2, "today_items": 119} |
+| 2026-09-20T08:16 | weekly_review | ok | {"new_papers": 8, "opened": 150, "closed": 62, "bad_stages": 2} |
+| 2026-09-21T06:00 | daily_review | ok | {"stages_bad": 2, "today_items": 126} |
 
 ## 四、下周优先级（按「卡点」排序）
 
 1. 论文取数：arXiv API 已 406，确认多通道路径进入定时任务
-2. 修复异常环节：iNEST_Daily_Processing_Digest、iNEST_Inbox_Afternoon
+2. 修复异常环节：iNEST_Health_Watchdog、iNEST_Research_Evolve
 3. 推进已 accepted 的研究方向（见 research_evolve.md）
 
 ---
