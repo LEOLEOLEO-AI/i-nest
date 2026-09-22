@@ -1,4 +1,12 @@
 ---
+direction: TCC
+category: 项目
+tags: [SDI, 晶圆级集成, 拓扑可重构, 三模交换, 网内计算, 互连架构, Chiplet]
+summary: "晶圆级软件定义拓扑织构互连架构，以拓扑为第一性变量实现可重构互连。"
+quality: high
+processed: 2026-09-22 19:19
+---
+---
 title: "晶上软件定义拓扑织构（ToFu）互连架构申报方案"
 tags:
   - sdi-bond

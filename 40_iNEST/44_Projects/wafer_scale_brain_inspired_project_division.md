@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 项目
+tags: [brain-inspired, neuromorphic, wafer-scale, chiplet, interconnect, topology, simulation, software-stack]
+summary: "晶上类脑专项五课题划分：系统、芯粒、软件、平台、验证"
+quality: high
+processed: 2026-09-22 19:19
+---
+---
 title: "晶上类脑专项课题划分方案（申报书格式版）"
 tags:
   - neuroscience

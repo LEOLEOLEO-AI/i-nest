@@ -1,4 +1,12 @@
 ---
+direction: iNEST
+category: 技术
+tags: [神经形态计算, SNN, NPU, 晶圆级集成, 海康]
+summary: "海康会议记录：单芯粒NPU+SNN架构及晶圆级神经元扩展方案"
+quality: medium
+processed: 2026-09-22 19:19
+---
+---
 title: "2026年9月16号 海康会议"
 tags:
   - neuroscience

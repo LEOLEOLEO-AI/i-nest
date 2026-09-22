@@ -1,4 +1,12 @@
 ---
+direction: TCC
+category: 工程
+tags: [NoC, FPGA, 混合交换, 源同步, 22nm, 复现]
+summary: "Intel 16×16混合交换NoC论文的28nm预估与FPGA复现方案"
+quality: high
+processed: 2026-09-22 19:19
+---
+---
 title: "NoC复现任务"
 tags:
   - fpga

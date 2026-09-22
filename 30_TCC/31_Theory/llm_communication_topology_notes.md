@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 资料
+tags: [llm, communication, topology, transformer, getnote]
+summary: "笔记记录LLM通信与拓扑主题及得到会员开通信息"
+quality: low
+processed: 2026-09-22 19:19
+---
+---
 title: "LLM的通信与拓扑"
 tags:
   - paper

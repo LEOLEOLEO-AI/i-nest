@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 资料
+tags: [connectome, drosophila, sparse-connectivity, neuromorphic, bio-inspired-ai]
+summary: "雄性果蝇完整连接组发布，揭示极端稀疏连接与生物启发AI新路径"
+quality: high
+processed: 2026-09-22 19:19
+---
+---
 title: "雄性果蝇完整连接组发布：16万神经元的_电路图_，能照亮AI黑箱吗？"
 tags:
   - neuroscience

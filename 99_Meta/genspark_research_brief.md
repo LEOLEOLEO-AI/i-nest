@@ -1,11 +1,11 @@
 ---
-title: iNEST+TCC Research Brief - 2026-09-21
-date: 2026-09-21
+title: iNEST+TCC Research Brief - 2026-09-22
+date: 2026-09-22
 type: research-brief
 target: genspark
 ---
 
-# iNEST + TCC Research Brief - 2026-09-21
+# iNEST + TCC Research Brief - 2026-09-22
 
 > For Genspark deep analysis. Contains actionable research context.
 
@@ -33,27 +33,27 @@ target: genspark
 
 ## 4. Inbox Highlights
 
-- [2026-09-16] **2026-09-16_arXiv_Partial projected ensembles reveal slow tilt-constrained inf** (_pipeline_insights)
-- [2026-09-16] **2026-09-16_arXiv_Learning to Solve Hard Problems in RL for LLMs by Never Givi** (_pipeline_insights)
-- [2026-09-16] **2026-09-16_arXiv_Self-Emergence Agent ArchitectureBehavior-Inertia HMM, Refle** (_pipeline_insights)
-- [2026-09-16] **2026-09-16_arXiv_Scaled Hippocampus-inspired Neural Networks on Neuromorphic ** (_pipeline_insights)
-- [2026-09-16] **2026-09-16_arXiv_Topology-Aware Congestion Pricing Demand Robust Routing usin** (_pipeline_insights)
-- [2026-09-16] **2026-09-16_arXiv_Budgeted Express-Mesh Traffic-Aware Link Placement and Deadl** (_pipeline_insights)
-- [2026-09-16] **2026-09-16_arXiv_A Unified Interconnection Network for Chiplet-Based Scaling ** (_pipeline_insights)
-- [2026-09-16] **2026-09-16_arXiv_Stitch-Free, Diamond-Scribed Silicon Nitride Photonic Integr** (_pipeline_insights)
+- [2026-09-21] **雄性果蝇完整连接组发布：16万神经元的_电路图_，能照亮AI黑箱吗？** (01_GetNotes)
+- [2026-09-21] **比亚迪晶上系统芯片项目合作讨论** (01_GetNotes)
+- [2026-09-21] **晶上软件定义拓扑织构（ToFu）互连架构申报方案（优化版）** (01_GetNotes)
+- [2026-09-21] **晶上软件定义拓扑织构（ToFu）互连架构申报方案** (01_GetNotes)
+- [2026-09-21] **晶上类脑专项课题划分方案（申报书格式版）** (01_GetNotes)
+- [2026-09-21] **NoC复现任务** (01_GetNotes)
+- [2026-09-21] **LLM的通信与拓扑** (01_GetNotes)
+- [2026-09-21] **2026年9月16号 海康会议** (01_GetNotes)
 
 ## 5. Knowledge Graph Hotspots
 
-Total notes: 7571
-Graph nodes: 7552 | edges: 26635
+Total notes: 7586
+Graph nodes: 7564 | edges: 26667
 
 Top connected topics:
 - **backlinks** (degree=1466)
 - **00_iNEST_全景知识图谱** (degree=1182)
 - **神经科学、AGI与神经形态计算的融合：统一研究范式与挑战** (degree=395)
-- **PAPER** (degree=371)
+- **PAPER** (degree=375)
 - **TCC_iNEST_成果全景** (degree=291)
-- **CODE** (degree=261)
+- **CODE** (degree=262)
 - **index** (degree=195)
 - **00_研究资料导航** (degree=194)
 
@@ -62,4 +62,4 @@ Top connected topics:
 (Run innovation_engine.py to generate)
 
 ---
-*Research brief auto-generated 2026-09-21 19:49*
+*Research brief auto-generated 2026-09-22 17:00*

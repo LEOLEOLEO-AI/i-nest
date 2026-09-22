@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 项目
+tags: [晶上系统, 比亚迪, 工信部项目, 中央计算单元, 芯粒互联, UCIe, 互联底座]
+summary: "比亚迪与高校团队就两个工信部晶上系统芯片项目合作达成初步共识"
+quality: high
+processed: 2026-09-22 19:19
+---
+---
 title: "比亚迪晶上系统芯片项目合作讨论"
 tags:
   - paper

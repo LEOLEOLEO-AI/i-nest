@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 技术
+tags: [拓扑织构, 软件定义互连, 晶圆级集成, 三模混合交换, 网内计算, 可重构拓扑]
+summary: "晶圆级软件定义可重构拓扑织构互连架构申报方案"
+quality: high
+processed: 2026-09-22 19:19
+---
+---
 title: "晶上软件定义拓扑织构（ToFu）互连架构申报方案（优化版）"
 tags:
   - sdi-bond
