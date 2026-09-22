@@ -1,22 +1,22 @@
 {
-  "generated": "2026-09-21T06:00:46.199072",
-  "total_materials": 907,
+  "generated": "2026-09-22T04:30:49.064901",
+  "total_materials": 917,
   "by_workstream": {
-    "PAPER": 371,
+    "PAPER": 377,
     "SIM": 159,
-    "CODE": 265,
-    "GUIDE": 60,
-    "READ": 52
+    "CODE": 262,
+    "GUIDE": 66,
+    "READ": 53
   },
   "by_task": {
     "H5": 259,
     "H6": 208,
-    "H7": 369,
-    "H8": 280,
-    "H10": 476,
-    "HALAPOINT": 378,
-    "MTIA300": 265,
-    "PTHEORY": 72,
+    "H7": 378,
+    "H8": 287,
+    "H10": 483,
+    "HALAPOINT": 389,
+    "MTIA300": 272,
+    "PTHEORY": 75,
     "MOTIF": 11
   },
   "items": [
@@ -377,6 +377,36 @@
       "task_scores": {},
       "best_task": null,
       "relevance": 0,
+      "excluded": false
+    },
+    {
+      "path": "D:/Obsidian/GetNotes_Inbox/_processed/2026年9月16号 海康会议.md",
+      "source": "GetNotes",
+      "source_desc": "得到大脑剪藏",
+      "title": "2026年9月16号 海康会议",
+      "bytes": 362,
+      "mtime": "2026-09-21",
+      "workstream": "PAPER",
+      "ws_hits": [
+        "会议"
+      ],
+      "domain_hits": [],
+      "task_scores": {
+        "H8": {
+          "hits": [
+            "神经元"
+          ],
+          "score": 1
+        },
+        "HALAPOINT": {
+          "hits": [
+            "SNN"
+          ],
+          "score": 1
+        }
+      },
+      "best_task": "H8",
+      "relevance": 7,
       "excluded": false
     },
     {
@@ -9105,6 +9135,37 @@
       "excluded": false
     },
     {
+      "path": "D:/Obsidian/GetNotes_Inbox/_processed/LLM的通信与拓扑.md",
+      "source": "GetNotes",
+      "source_desc": "得到大脑剪藏",
+      "title": "LLM的通信与拓扑",
+      "bytes": 485,
+      "mtime": "2026-09-21",
+      "workstream": "PAPER",
+      "ws_hits": [
+        "Nature"
+      ],
+      "domain_hits": [],
+      "task_scores": {
+        "H10": {
+          "hits": [
+            "脑",
+            "拓扑"
+          ],
+          "score": 2
+        },
+        "MTIA300": {
+          "hits": [
+            "通信"
+          ],
+          "score": 1
+        }
+      },
+      "best_task": "H10",
+      "relevance": 10,
+      "excluded": false
+    },
+    {
       "path": "D:/Obsidian/GetNotes_Inbox/_processed/LoRA 低秩适配技术全解：原理、实践与优劣对比.md",
       "source": "GetNotes",
       "source_desc": "得到大脑剪藏",
@@ -9719,6 +9780,49 @@
       },
       "best_task": "H7",
       "relevance": 16,
+      "excluded": false
+    },
+    {
+      "path": "D:/Obsidian/GetNotes_Inbox/_processed/NoC复现任务.md",
+      "source": "GetNotes",
+      "source_desc": "得到大脑剪藏",
+      "title": "NoC复现任务",
+      "bytes": 3962,
+      "mtime": "2026-09-21",
+      "workstream": "READ",
+      "ws_hits": [
+        "复现",
+        "解读"
+      ],
+      "domain_hits": [
+        "NoC",
+        "network-on-chip"
+      ],
+      "task_scores": {
+        "H7": {
+          "hits": [
+            "NoC",
+            "路由",
+            "延迟"
+          ],
+          "score": 3
+        },
+        "H10": {
+          "hits": [
+            "NoC"
+          ],
+          "score": 1
+        },
+        "HALAPOINT": {
+          "hits": [
+            "能效",
+            "芯片"
+          ],
+          "score": 2
+        }
+      },
+      "best_task": "H7",
+      "relevance": 24,
       "excluded": false
     },
     {
@@ -11135,6 +11239,36 @@
       },
       "best_task": "H10",
       "relevance": 10,
+      "excluded": false
+    },
+    {
+      "path": "D:/Obsidian/GetNotes_Inbox/_processed/人工智能智能理论讨论：脑波模式与大模型SC_TC复杂度定义.md",
+      "source": "GetNotes",
+      "source_desc": "得到大脑剪藏",
+      "title": "人工智能智能理论讨论：脑波模式与大模型SC_TC复杂度定义",
+      "bytes": 4102,
+      "mtime": "2026-09-21",
+      "workstream": "PAPER",
+      "ws_hits": [
+        "审稿",
+        "会议",
+        "Nature",
+        "稿"
+      ],
+      "domain_hits": [
+        "TCC"
+      ],
+      "task_scores": {
+        "H10": {
+          "hits": [
+            "脑",
+            "小世界"
+          ],
+          "score": 2
+        }
+      },
+      "best_task": "H10",
+      "relevance": 12,
       "excluded": false
     },
     {
@@ -12558,6 +12692,46 @@
       "excluded": false
     },
     {
+      "path": "D:/Obsidian/GetNotes_Inbox/_processed/后Transformer时代深度解析：RWKV7与Mamba-3的技术路线与落地前景.md",
+      "source": "GetNotes",
+      "source_desc": "得到大脑剪藏",
+      "title": "后Transformer时代深度解析：RWKV7与Mamba-3的技术路线与落地前景",
+      "bytes": 5256,
+      "mtime": "2026-09-21",
+      "workstream": "CODE",
+      "ws_hits": [
+        "实现",
+        "算法",
+        "性能",
+        "加速",
+        "FPGA"
+      ],
+      "domain_hits": [],
+      "task_scores": {
+        "H10": {
+          "hits": [
+            "脑"
+          ],
+          "score": 1
+        },
+        "HALAPOINT": {
+          "hits": [
+            "能效"
+          ],
+          "score": 1
+        },
+        "PTHEORY": {
+          "hits": [
+            "变分"
+          ],
+          "score": 1
+        }
+      },
+      "best_task": "H10",
+      "relevance": 14,
+      "excluded": false
+    },
+    {
       "path": "D:/Obsidian/GetNotes_Inbox/_processed/国产自主安全CPU新公司筹备与芯片项目讨论.md",
       "source": "GetNotes",
       "source_desc": "得到大脑剪藏",
@@ -13850,6 +14024,69 @@
       "excluded": false
     },
     {
+      "path": "D:/Obsidian/GetNotes_Inbox/_processed/晶上类脑专项课题划分方案（申报书格式版）.md",
+      "source": "GetNotes",
+      "source_desc": "得到大脑剪藏",
+      "title": "晶上类脑专项课题划分方案（申报书格式版）",
+      "bytes": 8810,
+      "mtime": "2026-09-21",
+      "workstream": "GUIDE",
+      "ws_hits": [
+        "申报",
+        "课题"
+      ],
+      "domain_hits": [
+        "拓扑重构"
+      ],
+      "task_scores": {
+        "H5": {
+          "hits": [
+            "拓扑重构"
+          ],
+          "score": 1
+        },
+        "H7": {
+          "hits": [
+            "路由",
+            "事件驱动",
+            "延迟"
+          ],
+          "score": 3
+        },
+        "H8": {
+          "hits": [
+            "晶圆级",
+            "神经元"
+          ],
+          "score": 2
+        },
+        "H10": {
+          "hits": [
+            "脑",
+            "拓扑"
+          ],
+          "score": 2
+        },
+        "MTIA300": {
+          "hits": [
+            "通信"
+          ],
+          "score": 1
+        },
+        "HALAPOINT": {
+          "hits": [
+            "SNN",
+            "能效",
+            "芯片"
+          ],
+          "score": 3
+        }
+      },
+      "best_task": "H7",
+      "relevance": 40,
+      "excluded": false
+    },
+    {
       "path": "D:/Obsidian/GetNotes_Inbox/_processed/晶上系统控制面问题答复.md",
       "source": "GetNotes",
       "source_desc": "得到大脑剪藏",
@@ -13882,6 +14119,143 @@
       },
       "best_task": "H5",
       "relevance": 14,
+      "excluded": false
+    },
+    {
+      "path": "D:/Obsidian/GetNotes_Inbox/_processed/晶上软件定义拓扑织构（ToFu）互连架构申报方案.md",
+      "source": "GetNotes",
+      "source_desc": "得到大脑剪藏",
+      "title": "晶上软件定义拓扑织构（ToFu）互连架构申报方案",
+      "bytes": 8044,
+      "mtime": "2026-09-21",
+      "workstream": "GUIDE",
+      "ws_hits": [
+        "申报",
+        "指南",
+        "立项"
+      ],
+      "domain_hits": [
+        "拓扑重构",
+        "软件定义互连",
+        "SDI",
+        "NoC"
+      ],
+      "task_scores": {
+        "H5": {
+          "hits": [
+            "SDI",
+            "拓扑重构"
+          ],
+          "score": 2
+        },
+        "H7": {
+          "hits": [
+            "NoC",
+            "路由",
+            "延迟"
+          ],
+          "score": 3
+        },
+        "H8": {
+          "hits": [
+            "晶圆级"
+          ],
+          "score": 1
+        },
+        "H10": {
+          "hits": [
+            "拓扑",
+            "NoC",
+            "小世界"
+          ],
+          "score": 3
+        },
+        "MTIA300": {
+          "hits": [
+            "通信",
+            "集合通信",
+            "AllReduce"
+          ],
+          "score": 3
+        },
+        "HALAPOINT": {
+          "hits": [
+            "芯片"
+          ],
+          "score": 1
+        }
+      },
+      "best_task": "H7",
+      "relevance": 50,
+      "excluded": false
+    },
+    {
+      "path": "D:/Obsidian/GetNotes_Inbox/_processed/晶上软件定义拓扑织构（ToFu）互连架构申报方案（优化版）.md",
+      "source": "GetNotes",
+      "source_desc": "得到大脑剪藏",
+      "title": "晶上软件定义拓扑织构（ToFu）互连架构申报方案（优化版）",
+      "bytes": 8928,
+      "mtime": "2026-09-21",
+      "workstream": "GUIDE",
+      "ws_hits": [
+        "申报",
+        "指南",
+        "立项"
+      ],
+      "domain_hits": [
+        "拓扑重构",
+        "软件定义互连",
+        "SDI",
+        "NoC"
+      ],
+      "task_scores": {
+        "H5": {
+          "hits": [
+            "SDI",
+            "拓扑重构"
+          ],
+          "score": 2
+        },
+        "H7": {
+          "hits": [
+            "NoC",
+            "路由",
+            "延迟"
+          ],
+          "score": 3
+        },
+        "H8": {
+          "hits": [
+            "晶圆级",
+            "百万"
+          ],
+          "score": 2
+        },
+        "H10": {
+          "hits": [
+            "拓扑",
+            "NoC",
+            "小世界"
+          ],
+          "score": 3
+        },
+        "MTIA300": {
+          "hits": [
+            "通信",
+            "集合通信",
+            "AllReduce"
+          ],
+          "score": 3
+        },
+        "HALAPOINT": {
+          "hits": [
+            "芯片"
+          ],
+          "score": 1
+        }
+      },
+      "best_task": "H7",
+      "relevance": 53,
       "excluded": false
     },
     {
@@ -14791,6 +15165,32 @@
       },
       "best_task": "HALAPOINT",
       "relevance": 24,
+      "excluded": false
+    },
+    {
+      "path": "D:/Obsidian/GetNotes_Inbox/_processed/比亚迪晶上系统芯片项目合作讨论.md",
+      "source": "GetNotes",
+      "source_desc": "得到大脑剪藏",
+      "title": "比亚迪晶上系统芯片项目合作讨论",
+      "bytes": 4484,
+      "mtime": "2026-09-21",
+      "workstream": "GUIDE",
+      "ws_hits": [
+        "指南",
+        "申报",
+        "评审"
+      ],
+      "domain_hits": [],
+      "task_scores": {
+        "HALAPOINT": {
+          "hits": [
+            "芯片"
+          ],
+          "score": 1
+        }
+      },
+      "best_task": "HALAPOINT",
+      "relevance": 6,
       "excluded": false
     },
     {
@@ -16618,6 +17018,46 @@
       "excluded": false
     },
     {
+      "path": "D:/Obsidian/GetNotes_Inbox/_processed/雄性果蝇完整连接组发布：16万神经元的_电路图_，能照亮AI黑箱吗？.md",
+      "source": "GetNotes",
+      "source_desc": "得到大脑剪藏",
+      "title": "雄性果蝇完整连接组发布：16万神经元的_电路图_，能照亮AI黑箱吗？",
+      "bytes": 2526,
+      "mtime": "2026-09-21",
+      "workstream": "SIM",
+      "ws_hits": [
+        "连接组",
+        "connectome"
+      ],
+      "domain_hits": [],
+      "task_scores": {
+        "H7": {
+          "hits": [
+            "路由"
+          ],
+          "score": 1
+        },
+        "H8": {
+          "hits": [
+            "神经元"
+          ],
+          "score": 1
+        },
+        "H10": {
+          "hits": [
+            "连接组",
+            "connectome",
+            "脑",
+            "拓扑"
+          ],
+          "score": 4
+        }
+      },
+      "best_task": "H10",
+      "relevance": 20,
+      "excluded": false
+    },
+    {
       "path": "D:/Obsidian/GetNotes_Inbox/_processed/非线性材料战略定位.md",
       "source": "GetNotes",
       "source_desc": "得到大脑剪藏",
@@ -16787,100 +17227,65 @@
       "excluded": false
     },
     {
-      "path": "00_Inbox/01_GetNotes/Buffer Die 深度解析：3D堆叠时代的存算互联核心器件.md",
+      "path": "00_Inbox/01_GetNotes/2026年9月16号 海康会议.md",
       "source": "Inbox",
       "source_desc": "库内收件箱",
-      "title": "Buffer Die 深度解析：3D堆叠时代的存算互联核心器件",
-      "bytes": 2082,
+      "title": "2026年9月16号 海康会议",
+      "bytes": 536,
       "mtime": "2026-09-21",
-      "workstream": "CODE",
+      "workstream": "PAPER",
       "ws_hits": [
-        "实现",
-        "接口",
-        "FPGA"
+        "会议"
       ],
       "domain_hits": [
-        "SDI",
         "iNEST"
       ],
       "task_scores": {
-        "H5": {
+        "H8": {
           "hits": [
-            "SDI"
-          ],
-          "score": 1
-        },
-        "H7": {
-          "hits": [
-            "延迟"
-          ],
-          "score": 1
-        },
-        "H10": {
-          "hits": [
-            "脑"
+            "神经元"
           ],
           "score": 1
         },
         "HALAPOINT": {
           "hits": [
-            "芯片"
+            "SNN"
           ],
           "score": 1
         }
       },
-      "best_task": "H5",
-      "relevance": 19,
+      "best_task": "H8",
+      "relevance": 9,
       "excluded": false
     },
     {
-      "path": "00_Inbox/01_GetNotes/GPT-6 + Zotero MCP 全自动文献收集工作流搭建指南.md",
+      "path": "00_Inbox/01_GetNotes/LLM的通信与拓扑.md",
       "source": "Inbox",
       "source_desc": "库内收件箱",
-      "title": "GPT-6 + Zotero MCP 全自动文献收集工作流搭建指南",
-      "bytes": 2830,
+      "title": "LLM的通信与拓扑",
+      "bytes": 735,
       "mtime": "2026-09-21",
-      "workstream": "GUIDE",
+      "workstream": "PAPER",
       "ws_hits": [
-        "指南",
-        "课题"
-      ],
-      "domain_hits": [
-        "iNEST"
-      ],
-      "task_scores": {},
-      "best_task": null,
-      "relevance": 4,
-      "excluded": false
-    },
-    {
-      "path": "00_Inbox/01_GetNotes/iNEST第一性原理优化.md",
-      "source": "Inbox",
-      "source_desc": "库内收件箱",
-      "title": "iNEST第一性原理优化",
-      "bytes": 5718,
-      "mtime": "2026-09-21",
-      "workstream": "CODE",
-      "ws_hits": [
-        "实现",
-        "验证"
+        "paper",
+        "Nature"
       ],
       "domain_hits": [
         "iNEST"
       ],
       "task_scores": {
-        "H5": {
-          "hits": [
-            "可塑"
-          ],
-          "score": 1
-        },
         "H10": {
           "hits": [
             "脑",
             "拓扑"
           ],
           "score": 2
+        },
+        "MTIA300": {
+          "hits": [
+            "通信"
+          ],
+          "score": 1
         }
       },
       "best_task": "H10",
@@ -16888,72 +17293,165 @@
       "excluded": false
     },
     {
-      "path": "00_Inbox/01_GetNotes/iNEST第一性原理优化_2.md",
+      "path": "00_Inbox/01_GetNotes/NoC复现任务.md",
       "source": "Inbox",
       "source_desc": "库内收件箱",
-      "title": "iNEST第一性原理优化_2",
-      "bytes": 5725,
-      "mtime": "2026-09-21",
-      "workstream": "CODE",
-      "ws_hits": [
-        "实现",
-        "验证"
-      ],
-      "domain_hits": [
-        "iNEST"
-      ],
-      "task_scores": {
-        "H5": {
-          "hits": [
-            "可塑"
-          ],
-          "score": 1
-        },
-        "H10": {
-          "hits": [
-            "脑",
-            "拓扑"
-          ],
-          "score": 2
-        }
-      },
-      "best_task": "H10",
-      "relevance": 13,
-      "excluded": false
-    },
-    {
-      "path": "00_Inbox/01_GetNotes/大规模智算集合通信与在网计算综述：EPIC规范与技术演进.md",
-      "source": "Inbox",
-      "source_desc": "库内收件箱",
-      "title": "大规模智算集合通信与在网计算综述：EPIC规范与技术演进",
-      "bytes": 2790,
+      "title": "NoC复现任务",
+      "bytes": 4291,
       "mtime": "2026-09-21",
       "workstream": "READ",
       "ws_hits": [
-        "综述"
+        "复现",
+        "解读"
       ],
       "domain_hits": [
-        "SDI",
-        "iNEST"
+        "NoC",
+        "network-on-chip"
+      ],
+      "task_scores": {
+        "H7": {
+          "hits": [
+            "NoC",
+            "路由",
+            "延迟"
+          ],
+          "score": 3
+        },
+        "H10": {
+          "hits": [
+            "NoC"
+          ],
+          "score": 1
+        },
+        "HALAPOINT": {
+          "hits": [
+            "能效",
+            "芯片"
+          ],
+          "score": 2
+        }
+      },
+      "best_task": "H7",
+      "relevance": 24,
+      "excluded": false
+    },
+    {
+      "path": "00_Inbox/01_GetNotes/晶上类脑专项课题划分方案（申报书格式版）.md",
+      "source": "Inbox",
+      "source_desc": "库内收件箱",
+      "title": "晶上类脑专项课题划分方案（申报书格式版）",
+      "bytes": 9235,
+      "mtime": "2026-09-21",
+      "workstream": "GUIDE",
+      "ws_hits": [
+        "申报",
+        "课题"
+      ],
+      "domain_hits": [
+        "拓扑重构"
       ],
       "task_scores": {
         "H5": {
           "hits": [
-            "SDI"
+            "拓扑重构"
+          ],
+          "score": 1
+        },
+        "H7": {
+          "hits": [
+            "路由",
+            "事件驱动",
+            "延迟"
+          ],
+          "score": 3
+        },
+        "H8": {
+          "hits": [
+            "晶圆级",
+            "神经元"
+          ],
+          "score": 2
+        },
+        "H10": {
+          "hits": [
+            "脑",
+            "拓扑"
+          ],
+          "score": 2
+        },
+        "MTIA300": {
+          "hits": [
+            "通信"
+          ],
+          "score": 1
+        },
+        "HALAPOINT": {
+          "hits": [
+            "SNN",
+            "能效",
+            "芯片"
+          ],
+          "score": 3
+        }
+      },
+      "best_task": "H7",
+      "relevance": 40,
+      "excluded": false
+    },
+    {
+      "path": "00_Inbox/01_GetNotes/晶上软件定义拓扑织构（ToFu）互连架构申报方案.md",
+      "source": "Inbox",
+      "source_desc": "库内收件箱",
+      "title": "晶上软件定义拓扑织构（ToFu）互连架构申报方案",
+      "bytes": 8538,
+      "mtime": "2026-09-21",
+      "workstream": "GUIDE",
+      "ws_hits": [
+        "申报",
+        "指南",
+        "立项"
+      ],
+      "domain_hits": [
+        "拓扑重构",
+        "软件定义互连",
+        "SDI",
+        "NoC"
+      ],
+      "task_scores": {
+        "H5": {
+          "hits": [
+            "SDI",
+            "拓扑重构"
+          ],
+          "score": 2
+        },
+        "H7": {
+          "hits": [
+            "NoC",
+            "路由",
+            "延迟"
+          ],
+          "score": 3
+        },
+        "H8": {
+          "hits": [
+            "晶圆级"
           ],
           "score": 1
         },
         "H10": {
           "hits": [
-            "拓扑"
+            "拓扑",
+            "NoC",
+            "小世界"
           ],
-          "score": 1
+          "score": 3
         },
         "MTIA300": {
           "hits": [
             "通信",
             "集合通信",
-            "归约"
+            "AllReduce"
           ],
           "score": 3
         },
@@ -16962,141 +17460,160 @@
             "芯片"
           ],
           "score": 1
+        },
+        "PTHEORY": {
+          "hits": [
+            "bond"
+          ],
+          "score": 1
         }
       },
-      "best_task": "MTIA300",
-      "relevance": 23,
+      "best_task": "H7",
+      "relevance": 53,
       "excluded": false
     },
     {
-      "path": "00_Inbox/01_GetNotes/智能的四条共同原理与果蝇_线虫交叉验证路线.md",
+      "path": "00_Inbox/01_GetNotes/晶上软件定义拓扑织构（ToFu）互连架构申报方案（优化版）.md",
       "source": "Inbox",
       "source_desc": "库内收件箱",
-      "title": "智能的四条共同原理与果蝇_线虫交叉验证路线",
-      "bytes": 4751,
+      "title": "晶上软件定义拓扑织构（ToFu）互连架构申报方案（优化版）",
+      "bytes": 9389,
       "mtime": "2026-09-21",
-      "workstream": "SIM",
+      "workstream": "GUIDE",
       "ws_hits": [
-        "线虫",
-        "临界",
-        "连接组",
-        "connectome",
-        "秀丽线虫"
+        "申报",
+        "指南",
+        "立项"
       ],
       "domain_hits": [
-        "iNEST"
+        "拓扑重构",
+        "软件定义互连",
+        "SDI",
+        "NoC"
       ],
       "task_scores": {
         "H5": {
           "hits": [
-            "可塑",
-            "可塑性"
+            "SDI",
+            "拓扑重构"
           ],
           "score": 2
         },
+        "H7": {
+          "hits": [
+            "NoC",
+            "路由",
+            "延迟"
+          ],
+          "score": 3
+        },
         "H8": {
           "hits": [
-            "神经元"
-          ],
-          "score": 1
-        },
-        "H10": {
-          "hits": [
-            "连接组",
-            "connectome",
-            "脑",
-            "拓扑"
-          ],
-          "score": 4
-        }
-      },
-      "best_task": "H10",
-      "relevance": 30,
-      "excluded": false
-    },
-    {
-      "path": "00_Inbox/01_GetNotes/智能的四条共同原理与果蝇_线虫交叉验证路线_2.md",
-      "source": "Inbox",
-      "source_desc": "库内收件箱",
-      "title": "智能的四条共同原理与果蝇_线虫交叉验证路线_2",
-      "bytes": 4758,
-      "mtime": "2026-09-21",
-      "workstream": "SIM",
-      "ws_hits": [
-        "线虫",
-        "临界",
-        "连接组",
-        "connectome",
-        "秀丽线虫"
-      ],
-      "domain_hits": [
-        "iNEST"
-      ],
-      "task_scores": {
-        "H5": {
-          "hits": [
-            "可塑",
-            "可塑性"
+            "晶圆级",
+            "百万"
           ],
           "score": 2
         },
-        "H8": {
-          "hits": [
-            "神经元"
-          ],
-          "score": 1
-        },
         "H10": {
           "hits": [
-            "连接组",
-            "connectome",
-            "脑",
-            "拓扑"
-          ],
-          "score": 4
-        }
-      },
-      "best_task": "H10",
-      "relevance": 30,
-      "excluded": false
-    },
-    {
-      "path": "00_Inbox/01_GetNotes/果蝇验证智能收敛.md",
-      "source": "Inbox",
-      "source_desc": "库内收件箱",
-      "title": "果蝇验证智能收敛",
-      "bytes": 7403,
-      "mtime": "2026-09-21",
-      "workstream": "CODE",
-      "ws_hits": [
-        "验证",
-        "实现",
-        "算法",
-        "加速"
-      ],
-      "domain_hits": [
-        "iNEST"
-      ],
-      "task_scores": {
-        "H8": {
-          "hits": [
-            "神经元"
-          ],
-          "score": 1
-        },
-        "H10": {
-          "hits": [
-            "连接组",
-            "connectome",
-            "脑",
             "拓扑",
+            "NoC",
             "小世界"
           ],
-          "score": 5
+          "score": 3
+        },
+        "MTIA300": {
+          "hits": [
+            "通信",
+            "集合通信",
+            "AllReduce"
+          ],
+          "score": 3
+        },
+        "HALAPOINT": {
+          "hits": [
+            "芯片"
+          ],
+          "score": 1
+        },
+        "PTHEORY": {
+          "hits": [
+            "bond"
+          ],
+          "score": 1
+        }
+      },
+      "best_task": "H7",
+      "relevance": 56,
+      "excluded": false
+    },
+    {
+      "path": "00_Inbox/01_GetNotes/比亚迪晶上系统芯片项目合作讨论.md",
+      "source": "Inbox",
+      "source_desc": "库内收件箱",
+      "title": "比亚迪晶上系统芯片项目合作讨论",
+      "bytes": 4815,
+      "mtime": "2026-09-21",
+      "workstream": "PAPER",
+      "ws_hits": [
+        "paper",
+        "会议",
+        "Nature"
+      ],
+      "domain_hits": [],
+      "task_scores": {
+        "HALAPOINT": {
+          "hits": [
+            "芯片"
+          ],
+          "score": 1
+        }
+      },
+      "best_task": "HALAPOINT",
+      "relevance": 6,
+      "excluded": false
+    },
+    {
+      "path": "00_Inbox/01_GetNotes/雄性果蝇完整连接组发布：16万神经元的_电路图_，能照亮AI黑箱吗？.md",
+      "source": "Inbox",
+      "source_desc": "库内收件箱",
+      "title": "雄性果蝇完整连接组发布：16万神经元的_电路图_，能照亮AI黑箱吗？",
+      "bytes": 2878,
+      "mtime": "2026-09-21",
+      "workstream": "SIM",
+      "ws_hits": [
+        "连接组",
+        "仿真",
+        "connectome"
+      ],
+      "domain_hits": [
+        "iNEST"
+      ],
+      "task_scores": {
+        "H7": {
+          "hits": [
+            "路由"
+          ],
+          "score": 1
+        },
+        "H8": {
+          "hits": [
+            "神经元"
+          ],
+          "score": 1
+        },
+        "H10": {
+          "hits": [
+            "连接组",
+            "connectome",
+            "脑",
+            "拓扑"
+          ],
+          "score": 4
         }
       },
       "best_task": "H10",
-      "relevance": 24,
+      "relevance": 23,
       "excluded": false
     },
     {
@@ -17161,7 +17678,7 @@
       "source_desc": "库内收件箱",
       "title": "2026-07-18_OA_A Survey on Medical Large Language Models Technology, Application, Trustworthine",
       "bytes": 2552,
-      "mtime": "2026-08-22",
+      "mtime": "2026-09-21",
       "workstream": "READ",
       "ws_hits": [
         "survey",
@@ -17314,7 +17831,7 @@
       "source_desc": "库内收件箱",
       "title": "2026-07-18_OA_Bias in Large Language Models Origin, Evaluation, and Mitigation",
       "bytes": 2086,
-      "mtime": "2026-08-22",
+      "mtime": "2026-09-21",
       "workstream": "PAPER",
       "ws_hits": [
         "abstract"
@@ -17539,7 +18056,7 @@
       "source_desc": "库内收件箱",
       "title": "2026-07-18_OA_End-to-End Physical Design Automation Flow for Yield-Optimized Inverse-Designed ",
       "bytes": 2568,
-      "mtime": "2026-08-22",
+      "mtime": "2026-09-21",
       "workstream": "PAPER",
       "ws_hits": [
         "abstract"
@@ -23026,7 +23543,7 @@
       "source_desc": "库内收件箱",
       "title": "2026-09-16_arXiv_Topology-Aware Congestion Pricing Demand Robust Routing usin",
       "bytes": 1153,
-      "mtime": "2026-09-16",
+      "mtime": "2026-09-21",
       "workstream": "PAPER",
       "ws_hits": [
         "abstract"

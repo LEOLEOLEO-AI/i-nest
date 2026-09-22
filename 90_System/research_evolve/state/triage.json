@@ -1,21 +1,21 @@
 {
-  "updated": "2026-09-21T06:00:12.238032",
+  "updated": "2026-09-22T04:30:35.575625",
   "stats": {
     "counts": {
-      "park": 756,
+      "park": 768,
       "reject(已判)": 18,
-      "keep": 126
+      "keep": 124
     },
     "per_workstream": {
       "PAPER": 66,
-      "GUIDE": 8,
-      "SIM": 26,
-      "CODE": 18,
+      "GUIDE": 9,
+      "SIM": 25,
+      "CODE": 16,
       "READ": 8
     },
-    "scanned": 900,
+    "scanned": 910,
     "today": 15,
-    "backlog": 60
+    "backlog": 61
   },
   "rejected_paths": [
     "00_Inbox/_pipeline_insights/2026-07-18_OA_Computation-efficient deep learning for computer vision A survey.md",
@@ -416,11 +416,9 @@
       "todo_lines": 0,
       "bytes": 5283,
       "source": "GetNotes_Inbox",
-      "dupes": 3,
+      "dupes": 1,
       "dupe_paths": [
-        "D:/Obsidian/GetNotes_Inbox/_processed/iNEST第一性原理优化_2.md",
-        "00_Inbox/01_GetNotes/iNEST第一性原理优化.md",
-        "00_Inbox/01_GetNotes/iNEST第一性原理优化_2.md"
+        "D:/Obsidian/GetNotes_Inbox/_processed/iNEST第一性原理优化_2.md"
       ]
     },
     {
@@ -809,6 +807,35 @@
       "dupe_paths": []
     },
     {
+      "path": "D:/Obsidian/GetNotes_Inbox/_processed/晶上软件定义拓扑织构（ToFu）互连架构申报方案.md",
+      "title": "晶上软件定义拓扑织构（ToFu）互连架构申报方案",
+      "verdict": "keep",
+      "why": "GUIDE 相关(命中 ['申报', '指南', '立项'])；含交付物/待办信号 ['指南']",
+      "workstream": "GUIDE",
+      "ws_hits": [
+        "申报",
+        "指南",
+        "立项"
+      ],
+      "rank": 14,
+      "domain_hits": [
+        "拓扑重构",
+        "软件定义互连",
+        "SDI",
+        "NoC"
+      ],
+      "strong": [
+        "指南"
+      ],
+      "todo_lines": 0,
+      "bytes": 8044,
+      "source": "GetNotes_Inbox",
+      "dupes": 1,
+      "dupe_paths": [
+        "00_Inbox/01_GetNotes/晶上软件定义拓扑织构（ToFu）互连架构申报方案.md"
+      ]
+    },
+    {
       "path": "D:/Obsidian/GetNotes_Inbox/_processed/智能的四条共同原理与果蝇_线虫交叉验证路线.md",
       "title": "智能的四条共同原理与果蝇_线虫交叉验证路线",
       "verdict": "keep",
@@ -830,7 +857,11 @@
       ],
       "todo_lines": 0,
       "bytes": 4194,
-      "source": "GetNotes_Inbox"
+      "source": "GetNotes_Inbox",
+      "dupes": 1,
+      "dupe_paths": [
+        "D:/Obsidian/GetNotes_Inbox/_processed/智能的四条共同原理与果蝇_线虫交叉验证路线_2.md"
+      ]
     },
     {
       "path": "D:/Obsidian/GetNotes_Inbox/_processed/智能的四条共同原理与果蝇_线虫交叉验证路线_2.md",
@@ -883,125 +914,53 @@
       "dupe_paths": []
     },
     {
-      "path": "00_Inbox/01_GetNotes/GPT-6 + Zotero MCP 全自动文献收集工作流搭建指南.md",
-      "title": "GPT-6 + Zotero MCP 全自动文献收集工作流搭建指南",
+      "path": "00_Inbox/01_GetNotes/晶上软件定义拓扑织构（ToFu）互连架构申报方案.md",
+      "title": "晶上软件定义拓扑织构（ToFu）互连架构申报方案",
       "verdict": "keep",
-      "why": "GUIDE 相关(命中 ['指南', '课题'])；含交付物/待办信号 ['指南']",
+      "why": "GUIDE 相关(命中 ['申报', '指南', '立项'])；含交付物/待办信号 ['指南']",
       "workstream": "GUIDE",
       "ws_hits": [
+        "申报",
         "指南",
-        "课题"
+        "立项"
       ],
-      "rank": 7,
+      "rank": 14,
       "domain_hits": [
-        "iNEST"
+        "拓扑重构",
+        "软件定义互连",
+        "SDI",
+        "NoC"
       ],
       "strong": [
         "指南"
       ],
       "todo_lines": 0,
-      "bytes": 2830,
+      "bytes": 8538,
+      "source": "00_Inbox"
+    },
+    {
+      "path": "00_Inbox/01_GetNotes/雄性果蝇完整连接组发布：16万神经元的_电路图_，能照亮AI黑箱吗？.md",
+      "title": "雄性果蝇完整连接组发布：16万神经元的_电路图_，能照亮AI黑箱吗？",
+      "verdict": "keep",
+      "why": "SIM 相关(命中 ['连接组', '仿真', 'connectome'])；含交付物/待办信号 ['下一步']",
+      "workstream": "SIM",
+      "ws_hits": [
+        "连接组",
+        "仿真",
+        "connectome"
+      ],
+      "rank": 8,
+      "domain_hits": [
+        "iNEST"
+      ],
+      "strong": [
+        "下一步"
+      ],
+      "todo_lines": 0,
+      "bytes": 2878,
       "source": "00_Inbox",
       "dupes": 0,
       "dupe_paths": []
-    },
-    {
-      "path": "00_Inbox/01_GetNotes/iNEST第一性原理优化.md",
-      "title": "iNEST第一性原理优化",
-      "verdict": "keep",
-      "why": "CODE 相关(命中 ['实现', '验证'])；含交付物/待办信号 ['待补']",
-      "workstream": "CODE",
-      "ws_hits": [
-        "实现",
-        "验证"
-      ],
-      "rank": 7,
-      "domain_hits": [
-        "iNEST"
-      ],
-      "strong": [
-        "待补"
-      ],
-      "todo_lines": 0,
-      "bytes": 5718,
-      "source": "00_Inbox"
-    },
-    {
-      "path": "00_Inbox/01_GetNotes/iNEST第一性原理优化_2.md",
-      "title": "iNEST第一性原理优化_2",
-      "verdict": "keep",
-      "why": "CODE 相关(命中 ['实现', '验证'])；含交付物/待办信号 ['待补']",
-      "workstream": "CODE",
-      "ws_hits": [
-        "实现",
-        "验证"
-      ],
-      "rank": 7,
-      "domain_hits": [
-        "iNEST"
-      ],
-      "strong": [
-        "待补"
-      ],
-      "todo_lines": 0,
-      "bytes": 5725,
-      "source": "00_Inbox"
-    },
-    {
-      "path": "00_Inbox/01_GetNotes/智能的四条共同原理与果蝇_线虫交叉验证路线.md",
-      "title": "智能的四条共同原理与果蝇_线虫交叉验证路线",
-      "verdict": "keep",
-      "why": "SIM 相关(命中 ['线虫', '连接组', 'connectome'])；含交付物/待办信号 ['待补', '草稿']",
-      "workstream": "SIM",
-      "ws_hits": [
-        "线虫",
-        "连接组",
-        "connectome",
-        "秀丽线虫",
-        "C. elegans"
-      ],
-      "rank": 13,
-      "domain_hits": [
-        "iNEST"
-      ],
-      "strong": [
-        "待补",
-        "草稿"
-      ],
-      "todo_lines": 0,
-      "bytes": 4751,
-      "source": "00_Inbox",
-      "dupes": 3,
-      "dupe_paths": [
-        "00_Inbox/01_GetNotes/智能的四条共同原理与果蝇_线虫交叉验证路线_2.md",
-        "D:/Obsidian/GetNotes_Inbox/_processed/智能的四条共同原理与果蝇_线虫交叉验证路线.md",
-        "D:/Obsidian/GetNotes_Inbox/_processed/智能的四条共同原理与果蝇_线虫交叉验证路线_2.md"
-      ]
-    },
-    {
-      "path": "00_Inbox/01_GetNotes/智能的四条共同原理与果蝇_线虫交叉验证路线_2.md",
-      "title": "智能的四条共同原理与果蝇_线虫交叉验证路线_2",
-      "verdict": "keep",
-      "why": "SIM 相关(命中 ['线虫', '连接组', 'connectome'])；含交付物/待办信号 ['待补', '草稿']",
-      "workstream": "SIM",
-      "ws_hits": [
-        "线虫",
-        "连接组",
-        "connectome",
-        "秀丽线虫",
-        "C. elegans"
-      ],
-      "rank": 13,
-      "domain_hits": [
-        "iNEST"
-      ],
-      "strong": [
-        "待补",
-        "草稿"
-      ],
-      "todo_lines": 0,
-      "bytes": 4758,
-      "source": "00_Inbox"
     },
     {
       "path": "00_Inbox/_pipeline_insights/2026-07-18_OA_A Survey on Medical Large Language Models Technology, Application, Trustworthine.md",
@@ -3064,5 +3023,5 @@
       "source": "_pipeline_insights"
     }
   ],
-  "park_count": 756
+  "park_count": 768
 }

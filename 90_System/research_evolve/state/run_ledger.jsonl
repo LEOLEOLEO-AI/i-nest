@@ -6,3 +6,5 @@
 {"at": "2026-09-20T08:16:35.141562", "stage": "weekly_review", "status": "ok", "metrics": {"new_papers": 8, "opened": 150, "closed": 62, "bad_stages": 2}, "outputs": ["70_Dashboard\\weekly_review.md"], "note": ""}
 {"at": "2026-09-21T06:00:48.245730", "stage": "daily_review", "status": "ok", "metrics": {"stages_bad": 2, "today_items": 126}, "outputs": ["70_Dashboard\\daily_review.md"], "note": ""}
 {"at": "2026-09-21T06:00:50.683033", "stage": "weekly_review", "status": "ok", "metrics": {"new_papers": 8, "opened": 151, "closed": 62, "bad_stages": 2}, "outputs": ["70_Dashboard\\weekly_review.md"], "note": ""}
+{"at": "2026-09-22T04:30:51.383091", "stage": "daily_review", "status": "ok", "metrics": {"stages_bad": 3, "today_items": 124}, "outputs": ["70_Dashboard\\daily_review.md"], "note": ""}
+{"at": "2026-09-22T04:30:54.210613", "stage": "weekly_review", "status": "ok", "metrics": {"new_papers": 8, "opened": 152, "closed": 62, "bad_stages": 3}, "outputs": ["70_Dashboard\\weekly_review.md"], "note": ""}
