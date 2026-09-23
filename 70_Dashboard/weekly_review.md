@@ -1,17 +1,17 @@
-# 每周跟踪 · 截至 2026-09-22
+# 每周跟踪 · 截至 2026-09-23
 
-> 统计窗口：2026-09-15 ~ 2026-09-22 · 由 `research_evolve.tracking` 生成
+> 统计窗口：2026-09-16 ~ 2026-09-23 · 由 `research_evolve.tracking` 生成
 
 ## 一、本周四个数
 
 | 指标 | 本周 | 说明 |
 |---|---|---|
 | 入口新增论文 | **8** | 论文管线 new_papers 合计 |
-| 自进化轮次 | **15** | 有记录的天数 |
-| 候选开启 opened | 152 | 新进来的问题 |
+| 自进化轮次 | **16** | 有记录的天数 |
+| 候选开启 opened | 153 | 新进来的问题 |
 | 候选关闭 closed | **62** | 给出裁决并出队 |
-| 门禁新增违规 | 36 | 引用/证据标签 |
-| 环节异常 | 3 | iNEST_Daily_Pipeline、iNEST_Health_Watchdog、iNEST_Research_Evolve |
+| 门禁新增违规 | 37 | 引用/证据标签 |
+| 环节异常 | 2 | iNEST_Health_Watchdog、iNEST_Research_Evolve |
 
 > ✅ 本周关闭了候选，构成真正的推进（进化 = 变异 + **选择** + 留存）。
 
@@ -38,11 +38,13 @@
 | 2026-09-21T06:00 | daily_review | ok | {"stages_bad": 2, "today_items": 126} |
 | 2026-09-21T06:00 | weekly_review | ok | {"new_papers": 8, "opened": 151, "closed": 62, "bad_stages": 2} |
 | 2026-09-22T04:30 | daily_review | ok | {"stages_bad": 3, "today_items": 124} |
+| 2026-09-22T04:30 | weekly_review | ok | {"new_papers": 8, "opened": 152, "closed": 62, "bad_stages": 3} |
+| 2026-09-23T04:30 | daily_review | ok | {"stages_bad": 2, "today_items": 126} |
 
 ## 四、下周优先级（按「卡点」排序）
 
 1. 论文取数：arXiv API 已 406，确认多通道路径进入定时任务
-2. 修复异常环节：iNEST_Daily_Pipeline、iNEST_Health_Watchdog、iNEST_Research_Evolve
+2. 修复异常环节：iNEST_Health_Watchdog、iNEST_Research_Evolve
 3. 推进已 accepted 的研究方向（见 research_evolve.md）
 
 ---

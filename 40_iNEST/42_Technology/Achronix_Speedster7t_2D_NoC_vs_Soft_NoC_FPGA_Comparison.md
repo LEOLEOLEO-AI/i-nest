@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 技术
+tags: [FPGA, NoC, 片上网络, Achronix, 硬件架构]
+summary: "Achronix硬件2D NoC相比软NoC资源省7倍、带宽高24倍、编译快2.4倍"
+quality: high
+processed: 2026-09-23 18:45
+---
+---
 title: "Achronix Speedster7t 2D NoC vs 软NoC：FPGA片上网络性能对比白皮书"
 tags:
   - architecture

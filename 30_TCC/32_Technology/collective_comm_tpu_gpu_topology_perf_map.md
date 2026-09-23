@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 技术
+tags: [集合通信, TPU拓扑, GPU集群, All-Reduce, All-to-All, NVSwitch, SHARP, 性能建模]
+summary: "从TPU/GPU物理拓扑出发，给出四大集合原语的可估算性能模型"
+quality: high
+processed: 2026-09-23 18:45
+---
+---
 title: "集合通信深潜：从TPU_GPU拓扑到四大原语的可估算性能地图"
 tags:
   - architecture

@@ -1,4 +1,12 @@
 ---
+direction: TCC
+category: 项目
+tags: [connectome, topology-centric-computing, reconfigurable-network, P4-T, emergence, FPGA, benchmark]
+summary: "连接组驱动的可重构拓扑网络项目建议书，构建TCC新范式"
+quality: high
+processed: 2026-09-23 18:45
+---
+---
 title: "连接组驱动的下一代可重构网络结构关键技术研究（3页精简版）"
 tags:
   - architecture

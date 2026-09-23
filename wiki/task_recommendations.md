@@ -1,10 +1,10 @@
 # Research Task Recommendations
 
-**Generated**: 2026-09-22
+**Generated**: 2026-09-23
 **Total**: 15 recommendations
 
 ### 1. [HIGH] Evolution Item
-[pipeline_fix] Pipeline zero-paper alert: API connectivity check (出现 14 次)
+[pipeline_fix] Pipeline zero-paper alert: API connectivity check (出现 17 次)
 **Action**: Recent runs with zero new papers: 7
 
 ### 2. [MEDIUM] Hypothesis Test
@@ -36,30 +36,30 @@ H10: TCC×iNEST: 脑连接组拓扑模式可启发晶圆级NoC最优拓扑设计
 **Action**: Design experiment to test hypothesis H10
 
 ### 9. [MEDIUM] Evolution Item
-[git_hygiene] Git hygiene: 70 uncommitted changes (出现 65 次)
+[git_hygiene] Git hygiene: 79 uncommitted changes (出现 68 次)
 **Action**: Commit or review outstanding changes.
 
 ### 10. [LOW] Orphan Concepts
-30 orphan concepts with no incoming links
-**Action**: Link these concepts: B3_Competition_Landscape, B3_Paper_Competitive_Landscape, ChipletIntegration, Chiplet_Based_Integration, DelayBased_Reservoir, FadingMemory_Property, First_Principles_Diagnosis, In_Network_Neuromorphic_Computing, Memristive_Reservoir, Memristor_based_synaptic_devices
+47 orphan concepts with no incoming links
+**Action**: Link these concepts: B3_Competition_Landscape, B3_Paper_Competitive_Landscape, Brain_Inspired_Chiplet_Topology, ChipletIntegration, Chiplet_Based_Integration, Chiplet_Reconfigurable_Topology, DelayBased_Reservoir, FadingMemory_Property, First_Principles_Diagnosis, Hardened_vs_Soft_NoC_Tradeoff
 
 ### 11. [LOW] Recent Output
-Recent: CST V4.3理论证明（V4.3完整版） (2d ago)
+Recent: CST V4.3理论证明（V4.3完整版） (3d ago)
 **Action**: Review and incorporate insights into wiki
 
 ### 12. [LOW] Recent Output
-Recent: 09_Delivery_Validation (4d ago)
+Recent: 09_Delivery_Validation (5d ago)
 **Action**: Review and incorporate insights into wiki
 
 ### 13. [LOW] Recent Output
-Recent: 14_Handoff (4d ago)
+Recent: 14_Handoff (5d ago)
 **Action**: Review and incorporate insights into wiki
 
 ### 14. [LOW] Recent Output
-Recent: 08_Math_Review (4d ago)
+Recent: 08_Math_Review (5d ago)
 **Action**: Review and incorporate insights into wiki
 
 ### 15. [LOW] Recent Output
-Recent: 01_Final_Theory (4d ago)
+Recent: 01_Final_Theory (5d ago)
 **Action**: Review and incorporate insights into wiki
 

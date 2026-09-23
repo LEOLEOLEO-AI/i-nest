@@ -1,4 +1,4 @@
-# 每日跟踪 · 2026-09-22
+# 每日跟踪 · 2026-09-23
 
 > 生成 04:30 · 由 `research_evolve.tracking` 从真实执行痕迹反推
 
@@ -6,27 +6,27 @@
 
 | 环节 | 状态 | 上次运行 | 判断 |
 |---|---|---|---|
-| iNEST_Daily_Pipeline | Ready | 15.0h 前 | ⚠️ 上次结果 0x41306 |
-| iNEST_Daily_Sync | Ready | 7.5h 前 | ✅ 正常 |
+| iNEST_Daily_Pipeline | Ready | 11.6h 前 | ✅ 正常 |
+| iNEST_Daily_Sync | Ready | 6.1h 前 | ✅ 正常 |
 | iNEST_Health_Watchdog | Ready | 0.5h 前 | ⚠️ 上次结果 0x1 |
 | iNEST_Research_Evolve | Running | 0.0h 前 | ⚠️ 上次结果 0x41301 |
-| iNEST_Knowledge_Evolution | Ready | 49.5h 前 | ✅ 正常 |
-| iNEST_Weekly_Health | Ready | 49.5h 前 | ✅ 正常 |
-| iNEST_Meta_Evolution | Ready | 49.4h 前 | ✅ 正常 |
-| iNEST_Daily_Processing_Digest | Ready | 8.8h 前 | ✅ 正常 |
-| iNEST_Inbox_Afternoon | Ready | 8.8h 前 | ✅ 正常 |
+| iNEST_Knowledge_Evolution | Ready | 73.5h 前 | ✅ 正常 |
+| iNEST_Weekly_Health | Ready | 73.5h 前 | ✅ 正常 |
+| iNEST_Meta_Evolution | Ready | 73.4h 前 | ✅ 正常 |
+| iNEST_Daily_Processing_Digest | Ready | 9.2h 前 | ✅ 正常 |
+| iNEST_Inbox_Afternoon | Ready | 9.2h 前 | ✅ 正常 |
 
-**有 3 个环节不正常**，优先看这几个。
+**有 2 个环节不正常**，优先看这几个。
 
 ## 二、论文管线（近 5 次）
 
 | 时间 | new_papers | api_results | 分类 | 图节点/边 | 耗时 |
 |---|---|---|---|---|---|
-| 2026-09-19T12:06 | 0 | 0 | 0 | 7608/25696 | 374.1s |
-| 2026-09-20T06:44 | 0 | 0 | 0 | 7535/26068 | 842.6s |
 | 2026-09-20T17:39 | 0 | 0 | 0 | 7543/26561 | 442.1s |
 | 2026-09-21T06:36 | 0 | 0 | 0 | 7552/26635 | 385.4s |
 | 2026-09-21T19:50 | 0 | 0 | 0 | 7556/26627 | 22677.8s |
+| 2026-09-22T06:43 | 0 | 0 | 0 | 7564/26667 | 823.4s |
+| 2026-09-22T17:01 | 0 | 0 | 0 | 7571/26675 | 435.4s |
 
 近 5 次中 **0 次**进到了新论文。
 
@@ -34,7 +34,7 @@
 
 ## 三、今天该做什么（来自分诊）
 
-分诊给出 **124** 条，详情见 `70_Dashboard/inbox_triage.md`。这里只列前 5：
+分诊给出 **126** 条，详情见 `70_Dashboard/inbox_triage.md`。这里只列前 5：
 
 - [ ] **[PAPER]** 2026年9月5号日记
   - `D:/Obsidian/GetNotes_Inbox/_processed/2026年9月5号日记.md`
@@ -49,9 +49,9 @@
 
 ## 四、自进化闭环状态
 
-- 轮次 **15** · open **80**
-- 上轮四数：opened=1 closed=0 escalated=51 gate_new=1
-- 连续只增不关的轮数：**3**
+- 轮次 **16** · open **81**
+- 上轮四数：opened=1 closed=0 escalated=56 gate_new=1
+- 连续只增不关的轮数：**4**
 
 ## 五、按工作流的状态
 

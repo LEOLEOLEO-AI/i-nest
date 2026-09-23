@@ -1,4 +1,12 @@
 ---
+direction: TCC
+category: 项目
+tags: [wafer-scale, SDI, reconfigurable-interconnect, liquid-topology, chiplet, network-on-chip, in-network-computing, collective-communication]
+summary: "晶圆级软件定义可重构互连架构LTI项目申报方案，拓扑即计算资源"
+quality: high
+processed: 2026-09-23 18:45
+---
+---
 title: "晶圆级软件定义可重构互连架构与电路申报方案（LTI版+1.65亿经费完整版）"
 tags:
   - architecture

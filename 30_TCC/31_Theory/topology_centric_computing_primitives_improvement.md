@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 理论
+tags: [拓扑中心计算, 集合通信原语, 拓扑操作原语, 性能闭包模型, 晶上互连, 分层算法]
+summary: "提出拓扑中心计算原语体系的三层改进路径与工程借鉴点"
+quality: high
+processed: 2026-09-23 18:45
+---
+---
 title: "深度思考：拓扑中心计算原语体系的改进方向"
 tags:
   - architecture

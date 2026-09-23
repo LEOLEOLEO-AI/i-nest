@@ -1,11 +1,11 @@
 ---
-title: iNEST+TCC Research Brief - 2026-09-22
-date: 2026-09-22
+title: iNEST+TCC Research Brief - 2026-09-23
+date: 2026-09-23
 type: research-brief
 target: genspark
 ---
 
-# iNEST + TCC Research Brief - 2026-09-22
+# iNEST + TCC Research Brief - 2026-09-23
 
 > For Genspark deep analysis. Contains actionable research context.
 
@@ -33,27 +33,27 @@ target: genspark
 
 ## 4. Inbox Highlights
 
-- [2026-09-21] **雄性果蝇完整连接组发布：16万神经元的_电路图_，能照亮AI黑箱吗？** (01_GetNotes)
-- [2026-09-21] **比亚迪晶上系统芯片项目合作讨论** (01_GetNotes)
-- [2026-09-21] **晶上软件定义拓扑织构（ToFu）互连架构申报方案（优化版）** (01_GetNotes)
-- [2026-09-21] **晶上软件定义拓扑织构（ToFu）互连架构申报方案** (01_GetNotes)
-- [2026-09-21] **晶上类脑专项课题划分方案（申报书格式版）** (01_GetNotes)
-- [2026-09-21] **NoC复现任务** (01_GetNotes)
-- [2026-09-21] **LLM的通信与拓扑** (01_GetNotes)
-- [2026-09-21] **2026年9月16号 海康会议** (01_GetNotes)
+- [2026-09-23] **Hot Chips 2026｜谷歌第八代TPU(附完整报告)-腾讯云开发者社区-腾讯云 1** (02_网页剪藏)
+- [2026-09-23] **网络定义算力时代：Google TPU v8的双芯片+双网络架构革命-腾讯云开发者社区-腾讯云 1** (02_网页剪藏)
+- [2026-09-23] **网络定义算力时代：Google TPU v8的双芯片+双网络架构革命-腾讯云开发者社区-腾讯云** (02_网页剪藏)
+- [2026-09-23] **Hot Chips 2026｜谷歌第八代TPU(附完整报告)-腾讯云开发者社区-腾讯云** (02_网页剪藏)
+- [2026-09-22] **集合通信深潜：从TPU_GPU拓扑到四大原语的可估算性能地图** (01_GetNotes)
+- [2026-09-22] **连接组驱动的下一代可重构网络结构关键技术研究（3页精简版）** (01_GetNotes)
+- [2026-09-22] **连接组驱动的下一代可重构网络结构关键技术研究与验证** (01_GetNotes)
+- [2026-09-22] **自组织忆阻网络（SOMNs）：物理学习系统的新路径** (01_GetNotes)
 
 ## 5. Knowledge Graph Hotspots
 
-Total notes: 7586
-Graph nodes: 7564 | edges: 26667
+Total notes: 7612
+Graph nodes: 7587 | edges: 26848
 
 Top connected topics:
 - **backlinks** (degree=1466)
 - **00_iNEST_全景知识图谱** (degree=1182)
 - **神经科学、AGI与神经形态计算的融合：统一研究范式与挑战** (degree=395)
-- **PAPER** (degree=375)
+- **PAPER** (degree=374)
 - **TCC_iNEST_成果全景** (degree=291)
-- **CODE** (degree=262)
+- **CODE** (degree=270)
 - **index** (degree=195)
 - **00_研究资料导航** (degree=194)
 
@@ -62,4 +62,4 @@ Top connected topics:
 (Run innovation_engine.py to generate)
 
 ---
-*Research brief auto-generated 2026-09-22 17:00*
+*Research brief auto-generated 2026-09-23 15:05*

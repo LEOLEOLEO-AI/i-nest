@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 理论
+tags: [memristive-network, self-organization, physical-learning, neuromorphic, criticality, reservoir-computing]
+summary: "自组织忆阻网络作为物理学习系统，展现临界动力学与类脑可塑性。"
+quality: high
+processed: 2026-09-23 18:45
+---
+---
 title: "自组织忆阻网络（SOMNs）：物理学习系统的新路径"
 tags:
   - architecture
