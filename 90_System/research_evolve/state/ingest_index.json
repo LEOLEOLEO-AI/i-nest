@@ -1,22 +1,22 @@
 {
-  "generated": "2026-09-22T04:30:49.064901",
-  "total_materials": 917,
+  "generated": "2026-09-23T04:30:37.064536",
+  "total_materials": 927,
   "by_workstream": {
-    "PAPER": 377,
-    "SIM": 159,
-    "CODE": 262,
-    "GUIDE": 66,
-    "READ": 53
+    "PAPER": 374,
+    "SIM": 161,
+    "CODE": 277,
+    "GUIDE": 63,
+    "READ": 52
   },
   "by_task": {
-    "H5": 259,
-    "H6": 208,
-    "H7": 378,
-    "H8": 287,
-    "H10": 483,
-    "HALAPOINT": 389,
-    "MTIA300": 272,
-    "PTHEORY": 75,
+    "H5": 270,
+    "H6": 210,
+    "H7": 389,
+    "H8": 293,
+    "H10": 495,
+    "HALAPOINT": 397,
+    "MTIA300": 283,
+    "PTHEORY": 79,
     "MOTIF": 11
   },
   "items": [
@@ -606,6 +606,55 @@
       },
       "best_task": "H8",
       "relevance": 16,
+      "excluded": false
+    },
+    {
+      "path": "D:/Obsidian/GetNotes_Inbox/_processed/Achronix Speedster7t 2D NoC vs 软NoC：FPGA片上网络性能对比白皮书.md",
+      "source": "GetNotes",
+      "source_desc": "得到大脑剪藏",
+      "title": "Achronix Speedster7t 2D NoC vs 软NoC：FPGA片上网络性能对比白皮书",
+      "bytes": 1918,
+      "mtime": "2026-09-22",
+      "workstream": "CODE",
+      "ws_hits": [
+        "性能",
+        "FPGA",
+        "实现",
+        "算法",
+        "接口"
+      ],
+      "domain_hits": [
+        "NoC"
+      ],
+      "task_scores": {
+        "H7": {
+          "hits": [
+            "NoC",
+            "路由"
+          ],
+          "score": 2
+        },
+        "H10": {
+          "hits": [
+            "NoC"
+          ],
+          "score": 1
+        },
+        "MTIA300": {
+          "hits": [
+            "通信"
+          ],
+          "score": 1
+        },
+        "HALAPOINT": {
+          "hits": [
+            "芯片"
+          ],
+          "score": 1
+        }
+      },
+      "best_task": "H7",
+      "relevance": 24,
       "excluded": false
     },
     {
@@ -1670,6 +1719,45 @@
       },
       "best_task": "H5",
       "relevance": 44,
+      "excluded": false
+    },
+    {
+      "path": "D:/Obsidian/GetNotes_Inbox/_processed/CXL技术全解：从单设备扩展到数据中心内存网络的演进.md",
+      "source": "GetNotes",
+      "source_desc": "得到大脑剪藏",
+      "title": "CXL技术全解：从单设备扩展到数据中心内存网络的演进",
+      "bytes": 3551,
+      "mtime": "2026-09-22",
+      "workstream": "CODE",
+      "ws_hits": [
+        "实现",
+        "接口",
+        "加速"
+      ],
+      "domain_hits": [],
+      "task_scores": {
+        "H7": {
+          "hits": [
+            "路由",
+            "延迟"
+          ],
+          "score": 2
+        },
+        "H10": {
+          "hits": [
+            "拓扑"
+          ],
+          "score": 1
+        },
+        "HALAPOINT": {
+          "hits": [
+            "芯片"
+          ],
+          "score": 1
+        }
+      },
+      "best_task": "H7",
+      "relevance": 15,
       "excluded": false
     },
     {
@@ -14259,6 +14347,70 @@
       "excluded": false
     },
     {
+      "path": "D:/Obsidian/GetNotes_Inbox/_processed/晶圆级LTI仿真平台搭建计划（细化到周）.md",
+      "source": "GetNotes",
+      "source_desc": "得到大脑剪藏",
+      "title": "晶圆级LTI仿真平台搭建计划（细化到周）",
+      "bytes": 9605,
+      "mtime": "2026-09-22",
+      "workstream": "SIM",
+      "ws_hits": [
+        "仿真"
+      ],
+      "domain_hits": [
+        "拓扑重构",
+        "SDI",
+        "NoC"
+      ],
+      "task_scores": {
+        "H5": {
+          "hits": [
+            "SDI",
+            "拓扑重构"
+          ],
+          "score": 2
+        },
+        "H7": {
+          "hits": [
+            "NoC",
+            "路由",
+            "延迟"
+          ],
+          "score": 3
+        },
+        "H8": {
+          "hits": [
+            "晶圆级"
+          ],
+          "score": 1
+        },
+        "H10": {
+          "hits": [
+            "拓扑",
+            "NoC",
+            "小世界"
+          ],
+          "score": 3
+        },
+        "MTIA300": {
+          "hits": [
+            "通信",
+            "集合通信"
+          ],
+          "score": 2
+        },
+        "HALAPOINT": {
+          "hits": [
+            "能效"
+          ],
+          "score": 1
+        }
+      },
+      "best_task": "H7",
+      "relevance": 43,
+      "excluded": false
+    },
+    {
       "path": "D:/Obsidian/GetNotes_Inbox/_processed/晶圆级先进封装晶上系统项目合作讨论纪要.md",
       "source": "GetNotes",
       "source_desc": "得到大脑剪藏",
@@ -14702,6 +14854,149 @@
       },
       "best_task": "H7",
       "relevance": 29,
+      "excluded": false
+    },
+    {
+      "path": "D:/Obsidian/GetNotes_Inbox/_processed/晶圆级软件定义可重构互连架构与电路申报方案（LTI版+1.65亿经费+物理长程骨架修订版）.md",
+      "source": "GetNotes",
+      "source_desc": "得到大脑剪藏",
+      "title": "晶圆级软件定义可重构互连架构与电路申报方案（LTI版+1.65亿经费+物理长程骨架修订版）",
+      "bytes": 14787,
+      "mtime": "2026-09-22",
+      "workstream": "CODE",
+      "ws_hits": [
+        "重构",
+        "实现",
+        "算法",
+        "验证",
+        "性能"
+      ],
+      "domain_hits": [
+        "拓扑重构",
+        "可重构互连",
+        "软件定义互连",
+        "SDI",
+        "NoC"
+      ],
+      "task_scores": {
+        "H5": {
+          "hits": [
+            "SDI",
+            "拓扑重构"
+          ],
+          "score": 2
+        },
+        "H7": {
+          "hits": [
+            "NoC",
+            "路由",
+            "延迟"
+          ],
+          "score": 3
+        },
+        "H8": {
+          "hits": [
+            "晶圆级",
+            "百万"
+          ],
+          "score": 2
+        },
+        "H10": {
+          "hits": [
+            "拓扑",
+            "NoC",
+            "小世界"
+          ],
+          "score": 3
+        },
+        "MTIA300": {
+          "hits": [
+            "通信",
+            "集合通信",
+            "AllReduce"
+          ],
+          "score": 3
+        },
+        "HALAPOINT": {
+          "hits": [
+            "芯片"
+          ],
+          "score": 1
+        }
+      },
+      "best_task": "H7",
+      "relevance": 58,
+      "excluded": false
+    },
+    {
+      "path": "D:/Obsidian/GetNotes_Inbox/_processed/晶圆级软件定义可重构互连架构与电路申报方案（LTI版+1.65亿经费完整版）.md",
+      "source": "GetNotes",
+      "source_desc": "得到大脑剪藏",
+      "title": "晶圆级软件定义可重构互连架构与电路申报方案（LTI版+1.65亿经费完整版）",
+      "bytes": 11181,
+      "mtime": "2026-09-22",
+      "workstream": "CODE",
+      "ws_hits": [
+        "重构",
+        "实现",
+        "算法",
+        "验证",
+        "性能"
+      ],
+      "domain_hits": [
+        "拓扑重构",
+        "可重构互连",
+        "软件定义互连",
+        "SDI",
+        "NoC"
+      ],
+      "task_scores": {
+        "H5": {
+          "hits": [
+            "SDI",
+            "拓扑重构"
+          ],
+          "score": 2
+        },
+        "H7": {
+          "hits": [
+            "NoC",
+            "路由",
+            "延迟"
+          ],
+          "score": 3
+        },
+        "H8": {
+          "hits": [
+            "晶圆级",
+            "百万"
+          ],
+          "score": 2
+        },
+        "H10": {
+          "hits": [
+            "拓扑",
+            "NoC"
+          ],
+          "score": 2
+        },
+        "MTIA300": {
+          "hits": [
+            "通信",
+            "集合通信",
+            "AllReduce"
+          ],
+          "score": 3
+        },
+        "HALAPOINT": {
+          "hits": [
+            "芯片"
+          ],
+          "score": 1
+        }
+      },
+      "best_task": "H7",
+      "relevance": 56,
       "excluded": false
     },
     {
@@ -15336,6 +15631,63 @@
       },
       "best_task": "H10",
       "relevance": 22,
+      "excluded": false
+    },
+    {
+      "path": "D:/Obsidian/GetNotes_Inbox/_processed/深度思考：拓扑中心计算原语体系的改进方向.md",
+      "source": "GetNotes",
+      "source_desc": "得到大脑剪藏",
+      "title": "深度思考：拓扑中心计算原语体系的改进方向",
+      "bytes": 2432,
+      "mtime": "2026-09-22",
+      "workstream": "CODE",
+      "ws_hits": [
+        "实现",
+        "算法",
+        "重构",
+        "接口",
+        "性能"
+      ],
+      "domain_hits": [
+        "拓扑中心计算",
+        "拓扑重构"
+      ],
+      "task_scores": {
+        "H5": {
+          "hits": [
+            "拓扑重构"
+          ],
+          "score": 1
+        },
+        "H7": {
+          "hits": [
+            "延迟"
+          ],
+          "score": 1
+        },
+        "H8": {
+          "hits": [
+            "晶圆级"
+          ],
+          "score": 1
+        },
+        "H10": {
+          "hits": [
+            "脑",
+            "拓扑"
+          ],
+          "score": 2
+        },
+        "MTIA300": {
+          "hits": [
+            "通信",
+            "集合通信"
+          ],
+          "score": 2
+        }
+      },
+      "best_task": "H10",
+      "relevance": 31,
       "excluded": false
     },
     {
@@ -16622,6 +16974,46 @@
       "excluded": false
     },
     {
+      "path": "D:/Obsidian/GetNotes_Inbox/_processed/自组织忆阻网络（SOMNs）：物理学习系统的新路径.md",
+      "source": "GetNotes",
+      "source_desc": "得到大脑剪藏",
+      "title": "自组织忆阻网络（SOMNs）：物理学习系统的新路径",
+      "bytes": 1589,
+      "mtime": "2026-09-22",
+      "workstream": "SIM",
+      "ws_hits": [
+        "涌现",
+        "临界",
+        "相变",
+        "储备池"
+      ],
+      "domain_hits": [],
+      "task_scores": {
+        "H5": {
+          "hits": [
+            "可塑",
+            "可塑性"
+          ],
+          "score": 2
+        },
+        "H6": {
+          "hits": [
+            "忆阻"
+          ],
+          "score": 1
+        },
+        "H10": {
+          "hits": [
+            "脑"
+          ],
+          "score": 1
+        }
+      },
+      "best_task": "H5",
+      "relevance": 16,
+      "excluded": false
+    },
+    {
       "path": "D:/Obsidian/GetNotes_Inbox/_processed/苏州实验室晶上系统关键材料战略研讨会方案讨论.md",
       "source": "GetNotes",
       "source_desc": "得到大脑剪藏",
@@ -16896,6 +17288,154 @@
       "excluded": false
     },
     {
+      "path": "D:/Obsidian/GetNotes_Inbox/_processed/连接组驱动的下一代可重构网络结构关键技术研究与验证.md",
+      "source": "GetNotes",
+      "source_desc": "得到大脑剪藏",
+      "title": "连接组驱动的下一代可重构网络结构关键技术研究与验证",
+      "bytes": 6738,
+      "mtime": "2026-09-22",
+      "workstream": "CODE",
+      "ws_hits": [
+        "重构",
+        "验证",
+        "代码",
+        "实现",
+        "算法"
+      ],
+      "domain_hits": [
+        "TCC",
+        "拓扑中心计算",
+        "topology-centric computing",
+        "拓扑重构",
+        "元拓扑"
+      ],
+      "task_scores": {
+        "H5": {
+          "hits": [
+            "可塑",
+            "拓扑重构"
+          ],
+          "score": 2
+        },
+        "H7": {
+          "hits": [
+            "路由"
+          ],
+          "score": 1
+        },
+        "H8": {
+          "hits": [
+            "神经元"
+          ],
+          "score": 1
+        },
+        "H10": {
+          "hits": [
+            "连接组",
+            "脑",
+            "拓扑"
+          ],
+          "score": 3
+        },
+        "MTIA300": {
+          "hits": [
+            "通信"
+          ],
+          "score": 1
+        },
+        "HALAPOINT": {
+          "hits": [
+            "能效",
+            "芯片"
+          ],
+          "score": 2
+        },
+        "PTHEORY": {
+          "hits": [
+            "元拓扑"
+          ],
+          "score": 1
+        }
+      },
+      "best_task": "H10",
+      "relevance": 53,
+      "excluded": false
+    },
+    {
+      "path": "D:/Obsidian/GetNotes_Inbox/_processed/连接组驱动的下一代可重构网络结构关键技术研究（3页精简版）.md",
+      "source": "GetNotes",
+      "source_desc": "得到大脑剪藏",
+      "title": "连接组驱动的下一代可重构网络结构关键技术研究（3页精简版）",
+      "bytes": 4402,
+      "mtime": "2026-09-22",
+      "workstream": "CODE",
+      "ws_hits": [
+        "重构",
+        "代码",
+        "实现",
+        "算法",
+        "接口"
+      ],
+      "domain_hits": [
+        "TCC",
+        "拓扑中心计算",
+        "topology-centric computing",
+        "拓扑重构",
+        "元拓扑"
+      ],
+      "task_scores": {
+        "H5": {
+          "hits": [
+            "可塑",
+            "拓扑重构"
+          ],
+          "score": 2
+        },
+        "H7": {
+          "hits": [
+            "路由"
+          ],
+          "score": 1
+        },
+        "H8": {
+          "hits": [
+            "神经元"
+          ],
+          "score": 1
+        },
+        "H10": {
+          "hits": [
+            "连接组",
+            "脑",
+            "拓扑"
+          ],
+          "score": 3
+        },
+        "MTIA300": {
+          "hits": [
+            "通信"
+          ],
+          "score": 1
+        },
+        "HALAPOINT": {
+          "hits": [
+            "能效",
+            "芯片"
+          ],
+          "score": 2
+        },
+        "PTHEORY": {
+          "hits": [
+            "元拓扑"
+          ],
+          "score": 1
+        }
+      },
+      "best_task": "H10",
+      "relevance": 53,
+      "excluded": false
+    },
+    {
       "path": "D:/Obsidian/GetNotes_Inbox/_processed/通信卸载与拓扑创新.md",
       "source": "GetNotes",
       "source_desc": "得到大脑剪藏",
@@ -17055,6 +17595,54 @@
       },
       "best_task": "H10",
       "relevance": 20,
+      "excluded": false
+    },
+    {
+      "path": "D:/Obsidian/GetNotes_Inbox/_processed/集合通信深潜：从TPU_GPU拓扑到四大原语的可估算性能地图.md",
+      "source": "GetNotes",
+      "source_desc": "得到大脑剪藏",
+      "title": "集合通信深潜：从TPU_GPU拓扑到四大原语的可估算性能地图",
+      "bytes": 3732,
+      "mtime": "2026-09-22",
+      "workstream": "CODE",
+      "ws_hits": [
+        "性能",
+        "实现",
+        "算法",
+        "加速"
+      ],
+      "domain_hits": [],
+      "task_scores": {
+        "H7": {
+          "hits": [
+            "路由",
+            "延迟"
+          ],
+          "score": 2
+        },
+        "H10": {
+          "hits": [
+            "拓扑"
+          ],
+          "score": 1
+        },
+        "MTIA300": {
+          "hits": [
+            "通信",
+            "集合通信",
+            "归约"
+          ],
+          "score": 3
+        },
+        "HALAPOINT": {
+          "hits": [
+            "芯片"
+          ],
+          "score": 1
+        }
+      },
+      "best_task": "MTIA300",
+      "relevance": 25,
       "excluded": false
     },
     {
@@ -17227,95 +17815,38 @@
       "excluded": false
     },
     {
-      "path": "00_Inbox/01_GetNotes/2026年9月16号 海康会议.md",
+      "path": "00_Inbox/01_GetNotes/Achronix Speedster7t 2D NoC vs 软NoC：FPGA片上网络性能对比白皮书.md",
       "source": "Inbox",
       "source_desc": "库内收件箱",
-      "title": "2026年9月16号 海康会议",
-      "bytes": 536,
-      "mtime": "2026-09-21",
-      "workstream": "PAPER",
+      "title": "Achronix Speedster7t 2D NoC vs 软NoC：FPGA片上网络性能对比白皮书",
+      "bytes": 2241,
+      "mtime": "2026-09-22",
+      "workstream": "CODE",
       "ws_hits": [
-        "会议"
+        "性能",
+        "FPGA",
+        "实现",
+        "算法",
+        "接口"
       ],
       "domain_hits": [
-        "iNEST"
-      ],
-      "task_scores": {
-        "H8": {
-          "hits": [
-            "神经元"
-          ],
-          "score": 1
-        },
-        "HALAPOINT": {
-          "hits": [
-            "SNN"
-          ],
-          "score": 1
-        }
-      },
-      "best_task": "H8",
-      "relevance": 9,
-      "excluded": false
-    },
-    {
-      "path": "00_Inbox/01_GetNotes/LLM的通信与拓扑.md",
-      "source": "Inbox",
-      "source_desc": "库内收件箱",
-      "title": "LLM的通信与拓扑",
-      "bytes": 735,
-      "mtime": "2026-09-21",
-      "workstream": "PAPER",
-      "ws_hits": [
-        "paper",
-        "Nature"
-      ],
-      "domain_hits": [
-        "iNEST"
-      ],
-      "task_scores": {
-        "H10": {
-          "hits": [
-            "脑",
-            "拓扑"
-          ],
-          "score": 2
-        },
-        "MTIA300": {
-          "hits": [
-            "通信"
-          ],
-          "score": 1
-        }
-      },
-      "best_task": "H10",
-      "relevance": 13,
-      "excluded": false
-    },
-    {
-      "path": "00_Inbox/01_GetNotes/NoC复现任务.md",
-      "source": "Inbox",
-      "source_desc": "库内收件箱",
-      "title": "NoC复现任务",
-      "bytes": 4291,
-      "mtime": "2026-09-21",
-      "workstream": "READ",
-      "ws_hits": [
-        "复现",
-        "解读"
-      ],
-      "domain_hits": [
+        "SDI",
         "NoC",
-        "network-on-chip"
+        "iNEST"
       ],
       "task_scores": {
+        "H5": {
+          "hits": [
+            "SDI"
+          ],
+          "score": 1
+        },
         "H7": {
           "hits": [
             "NoC",
-            "路由",
-            "延迟"
+            "路由"
           ],
-          "score": 3
+          "score": 2
         },
         "H10": {
           "hits": [
@@ -17323,62 +17854,6 @@
           ],
           "score": 1
         },
-        "HALAPOINT": {
-          "hits": [
-            "能效",
-            "芯片"
-          ],
-          "score": 2
-        }
-      },
-      "best_task": "H7",
-      "relevance": 24,
-      "excluded": false
-    },
-    {
-      "path": "00_Inbox/01_GetNotes/晶上类脑专项课题划分方案（申报书格式版）.md",
-      "source": "Inbox",
-      "source_desc": "库内收件箱",
-      "title": "晶上类脑专项课题划分方案（申报书格式版）",
-      "bytes": 9235,
-      "mtime": "2026-09-21",
-      "workstream": "GUIDE",
-      "ws_hits": [
-        "申报",
-        "课题"
-      ],
-      "domain_hits": [
-        "拓扑重构"
-      ],
-      "task_scores": {
-        "H5": {
-          "hits": [
-            "拓扑重构"
-          ],
-          "score": 1
-        },
-        "H7": {
-          "hits": [
-            "路由",
-            "事件驱动",
-            "延迟"
-          ],
-          "score": 3
-        },
-        "H8": {
-          "hits": [
-            "晶圆级",
-            "神经元"
-          ],
-          "score": 2
-        },
-        "H10": {
-          "hits": [
-            "脑",
-            "拓扑"
-          ],
-          "score": 2
-        },
         "MTIA300": {
           "hits": [
             "通信"
@@ -17387,106 +17862,33 @@
         },
         "HALAPOINT": {
           "hits": [
-            "SNN",
-            "能效",
             "芯片"
-          ],
-          "score": 3
-        }
-      },
-      "best_task": "H7",
-      "relevance": 40,
-      "excluded": false
-    },
-    {
-      "path": "00_Inbox/01_GetNotes/晶上软件定义拓扑织构（ToFu）互连架构申报方案.md",
-      "source": "Inbox",
-      "source_desc": "库内收件箱",
-      "title": "晶上软件定义拓扑织构（ToFu）互连架构申报方案",
-      "bytes": 8538,
-      "mtime": "2026-09-21",
-      "workstream": "GUIDE",
-      "ws_hits": [
-        "申报",
-        "指南",
-        "立项"
-      ],
-      "domain_hits": [
-        "拓扑重构",
-        "软件定义互连",
-        "SDI",
-        "NoC"
-      ],
-      "task_scores": {
-        "H5": {
-          "hits": [
-            "SDI",
-            "拓扑重构"
-          ],
-          "score": 2
-        },
-        "H7": {
-          "hits": [
-            "NoC",
-            "路由",
-            "延迟"
-          ],
-          "score": 3
-        },
-        "H8": {
-          "hits": [
-            "晶圆级"
-          ],
-          "score": 1
-        },
-        "H10": {
-          "hits": [
-            "拓扑",
-            "NoC",
-            "小世界"
-          ],
-          "score": 3
-        },
-        "MTIA300": {
-          "hits": [
-            "通信",
-            "集合通信",
-            "AllReduce"
-          ],
-          "score": 3
-        },
-        "HALAPOINT": {
-          "hits": [
-            "芯片"
-          ],
-          "score": 1
-        },
-        "PTHEORY": {
-          "hits": [
-            "bond"
           ],
           "score": 1
         }
       },
       "best_task": "H7",
-      "relevance": 53,
+      "relevance": 31,
       "excluded": false
     },
     {
-      "path": "00_Inbox/01_GetNotes/晶上软件定义拓扑织构（ToFu）互连架构申报方案（优化版）.md",
+      "path": "00_Inbox/01_GetNotes/晶圆级软件定义可重构互连架构与电路申报方案（LTI版+1.65亿经费+物理长程骨架修订版）.md",
       "source": "Inbox",
       "source_desc": "库内收件箱",
-      "title": "晶上软件定义拓扑织构（ToFu）互连架构申报方案（优化版）",
-      "bytes": 9389,
-      "mtime": "2026-09-21",
-      "workstream": "GUIDE",
+      "title": "晶圆级软件定义可重构互连架构与电路申报方案（LTI版+1.65亿经费+物理长程骨架修订版）",
+      "bytes": 15337,
+      "mtime": "2026-09-22",
+      "workstream": "CODE",
       "ws_hits": [
-        "申报",
-        "指南",
-        "立项"
+        "重构",
+        "实现",
+        "算法",
+        "验证",
+        "性能"
       ],
       "domain_hits": [
         "拓扑重构",
+        "可重构互连",
         "软件定义互连",
         "SDI",
         "NoC"
@@ -17525,6 +17927,82 @@
         "MTIA300": {
           "hits": [
             "通信",
+            "集合通信"
+          ],
+          "score": 2
+        },
+        "HALAPOINT": {
+          "hits": [
+            "芯片"
+          ],
+          "score": 1
+        },
+        "PTHEORY": {
+          "hits": [
+            "bond"
+          ],
+          "score": 1
+        }
+      },
+      "best_task": "H7",
+      "relevance": 58,
+      "excluded": false
+    },
+    {
+      "path": "00_Inbox/01_GetNotes/晶圆级软件定义可重构互连架构与电路申报方案（LTI版+1.65亿经费完整版）.md",
+      "source": "Inbox",
+      "source_desc": "库内收件箱",
+      "title": "晶圆级软件定义可重构互连架构与电路申报方案（LTI版+1.65亿经费完整版）",
+      "bytes": 11720,
+      "mtime": "2026-09-22",
+      "workstream": "CODE",
+      "ws_hits": [
+        "重构",
+        "实现",
+        "算法",
+        "验证",
+        "性能"
+      ],
+      "domain_hits": [
+        "拓扑重构",
+        "可重构互连",
+        "软件定义互连",
+        "SDI",
+        "NoC"
+      ],
+      "task_scores": {
+        "H5": {
+          "hits": [
+            "SDI",
+            "拓扑重构"
+          ],
+          "score": 2
+        },
+        "H7": {
+          "hits": [
+            "NoC",
+            "路由",
+            "延迟"
+          ],
+          "score": 3
+        },
+        "H8": {
+          "hits": [
+            "晶圆级",
+            "百万"
+          ],
+          "score": 2
+        },
+        "H10": {
+          "hits": [
+            "拓扑",
+            "NoC"
+          ],
+          "score": 2
+        },
+        "MTIA300": {
+          "hits": [
+            "通信",
             "集合通信",
             "AllReduce"
           ],
@@ -17544,52 +18022,142 @@
         }
       },
       "best_task": "H7",
-      "relevance": 56,
+      "relevance": 59,
       "excluded": false
     },
     {
-      "path": "00_Inbox/01_GetNotes/比亚迪晶上系统芯片项目合作讨论.md",
+      "path": "00_Inbox/01_GetNotes/深度思考：拓扑中心计算原语体系的改进方向.md",
       "source": "Inbox",
       "source_desc": "库内收件箱",
-      "title": "比亚迪晶上系统芯片项目合作讨论",
-      "bytes": 4815,
-      "mtime": "2026-09-21",
-      "workstream": "PAPER",
+      "title": "深度思考：拓扑中心计算原语体系的改进方向",
+      "bytes": 2742,
+      "mtime": "2026-09-22",
+      "workstream": "CODE",
       "ws_hits": [
-        "paper",
-        "会议",
-        "Nature"
+        "实现",
+        "算法",
+        "重构",
+        "接口",
+        "性能"
       ],
-      "domain_hits": [],
+      "domain_hits": [
+        "拓扑中心计算",
+        "拓扑重构",
+        "SDI",
+        "iNEST"
+      ],
       "task_scores": {
-        "HALAPOINT": {
+        "H5": {
           "hits": [
-            "芯片"
+            "SDI",
+            "拓扑重构"
+          ],
+          "score": 2
+        },
+        "H7": {
+          "hits": [
+            "延迟"
+          ],
+          "score": 1
+        },
+        "H8": {
+          "hits": [
+            "晶圆级"
+          ],
+          "score": 1
+        },
+        "H10": {
+          "hits": [
+            "脑",
+            "拓扑"
+          ],
+          "score": 2
+        },
+        "MTIA300": {
+          "hits": [
+            "通信",
+            "集合通信"
+          ],
+          "score": 2
+        }
+      },
+      "best_task": "H5",
+      "relevance": 39,
+      "excluded": false
+    },
+    {
+      "path": "00_Inbox/01_GetNotes/自组织忆阻网络（SOMNs）：物理学习系统的新路径.md",
+      "source": "Inbox",
+      "source_desc": "库内收件箱",
+      "title": "自组织忆阻网络（SOMNs）：物理学习系统的新路径",
+      "bytes": 2117,
+      "mtime": "2026-09-22",
+      "workstream": "SIM",
+      "ws_hits": [
+        "涌现",
+        "临界",
+        "criticality",
+        "neuromorphic",
+        "相变"
+      ],
+      "domain_hits": [
+        "SDI",
+        "iNEST"
+      ],
+      "task_scores": {
+        "H5": {
+          "hits": [
+            "SDI",
+            "可塑",
+            "可塑性"
+          ],
+          "score": 3
+        },
+        "H6": {
+          "hits": [
+            "忆阻"
+          ],
+          "score": 1
+        },
+        "H10": {
+          "hits": [
+            "脑"
           ],
           "score": 1
         }
       },
-      "best_task": "HALAPOINT",
-      "relevance": 6,
+      "best_task": "H5",
+      "relevance": 26,
       "excluded": false
     },
     {
-      "path": "00_Inbox/01_GetNotes/雄性果蝇完整连接组发布：16万神经元的_电路图_，能照亮AI黑箱吗？.md",
+      "path": "00_Inbox/01_GetNotes/连接组驱动的下一代可重构网络结构关键技术研究与验证.md",
       "source": "Inbox",
       "source_desc": "库内收件箱",
-      "title": "雄性果蝇完整连接组发布：16万神经元的_电路图_，能照亮AI黑箱吗？",
-      "bytes": 2878,
-      "mtime": "2026-09-21",
-      "workstream": "SIM",
+      "title": "连接组驱动的下一代可重构网络结构关键技术研究与验证",
+      "bytes": 7384,
+      "mtime": "2026-09-22",
+      "workstream": "CODE",
       "ws_hits": [
-        "连接组",
-        "仿真",
-        "connectome"
+        "重构",
+        "验证",
+        "代码",
+        "实现",
+        "算法"
       ],
       "domain_hits": [
-        "iNEST"
+        "TCC",
+        "拓扑中心计算",
+        "topology-centric computing",
+        "元拓扑"
       ],
       "task_scores": {
+        "H5": {
+          "hits": [
+            "可塑"
+          ],
+          "score": 1
+        },
         "H7": {
           "hits": [
             "路由"
@@ -17610,10 +18178,151 @@
             "拓扑"
           ],
           "score": 4
+        },
+        "MTIA300": {
+          "hits": [
+            "通信"
+          ],
+          "score": 1
+        },
+        "HALAPOINT": {
+          "hits": [
+            "芯片"
+          ],
+          "score": 1
+        },
+        "PTHEORY": {
+          "hits": [
+            "元拓扑"
+          ],
+          "score": 1
         }
       },
       "best_task": "H10",
-      "relevance": 23,
+      "relevance": 48,
+      "excluded": false
+    },
+    {
+      "path": "00_Inbox/01_GetNotes/连接组驱动的下一代可重构网络结构关键技术研究（3页精简版）.md",
+      "source": "Inbox",
+      "source_desc": "库内收件箱",
+      "title": "连接组驱动的下一代可重构网络结构关键技术研究（3页精简版）",
+      "bytes": 5052,
+      "mtime": "2026-09-22",
+      "workstream": "CODE",
+      "ws_hits": [
+        "重构",
+        "代码",
+        "实现",
+        "算法",
+        "接口"
+      ],
+      "domain_hits": [
+        "TCC",
+        "拓扑中心计算",
+        "topology-centric computing",
+        "拓扑重构",
+        "元拓扑"
+      ],
+      "task_scores": {
+        "H5": {
+          "hits": [
+            "可塑",
+            "拓扑重构"
+          ],
+          "score": 2
+        },
+        "H7": {
+          "hits": [
+            "路由"
+          ],
+          "score": 1
+        },
+        "H8": {
+          "hits": [
+            "神经元"
+          ],
+          "score": 1
+        },
+        "H10": {
+          "hits": [
+            "连接组",
+            "connectome",
+            "脑",
+            "拓扑"
+          ],
+          "score": 4
+        },
+        "MTIA300": {
+          "hits": [
+            "通信"
+          ],
+          "score": 1
+        },
+        "HALAPOINT": {
+          "hits": [
+            "能效",
+            "芯片"
+          ],
+          "score": 2
+        },
+        "PTHEORY": {
+          "hits": [
+            "元拓扑"
+          ],
+          "score": 1
+        }
+      },
+      "best_task": "H10",
+      "relevance": 56,
+      "excluded": false
+    },
+    {
+      "path": "00_Inbox/01_GetNotes/集合通信深潜：从TPU_GPU拓扑到四大原语的可估算性能地图.md",
+      "source": "Inbox",
+      "source_desc": "库内收件箱",
+      "title": "集合通信深潜：从TPU_GPU拓扑到四大原语的可估算性能地图",
+      "bytes": 4097,
+      "mtime": "2026-09-22",
+      "workstream": "CODE",
+      "ws_hits": [
+        "性能",
+        "实现",
+        "算法",
+        "加速"
+      ],
+      "domain_hits": [],
+      "task_scores": {
+        "H7": {
+          "hits": [
+            "路由",
+            "延迟"
+          ],
+          "score": 2
+        },
+        "H10": {
+          "hits": [
+            "拓扑"
+          ],
+          "score": 1
+        },
+        "MTIA300": {
+          "hits": [
+            "通信",
+            "集合通信",
+            "归约"
+          ],
+          "score": 3
+        },
+        "HALAPOINT": {
+          "hits": [
+            "芯片"
+          ],
+          "score": 1
+        }
+      },
+      "best_task": "MTIA300",
+      "relevance": 25,
       "excluded": false
     },
     {

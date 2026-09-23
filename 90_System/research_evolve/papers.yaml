@@ -249,21 +249,21 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Advances in Neural Information Processing Systems)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: vonneumannTheorySelfReproducingAutomata1966
   title: Theory of Self-Reproducing Automata
   identifier: zotero:RPHAJN88
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: beggsNeuronalAvalanchesNeocortical2003
   title: Neuronal avalanches in neocortical circuits
   identifier: zotero:PQX8WJVJ
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Journal of Neuroscience)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: ma2019criticality
   title: Criticality supports cross-modal plasticity in C. elegans.
   identifier: zotero:4LULIQXI
@@ -274,7 +274,7 @@ works:
     criticality through homeostatic plasticity; validates CST’s physical Γ_st coupling
     mechanism as the biological substrate maintaining systems at critical thresholds
     through continuous structural-functional realignment])
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: muoz2018colloquium
   title: 'Colloquium: Criticality and dynamical scaling in living systems.'
   identifier: zotero:TQB58UGK
@@ -284,7 +284,7 @@ works:
     criticality (SOC) from self-organized bistability and other mechanisms producing
     scale-free dynamics; establishes that multiple distinct physical mechanisms can
     generate critical-like signatures)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: wilting2018inferring
   title: Inferring collective dynamical states from widely unobserved systems.
   identifier: zotero:PZ7NKSGD
@@ -294,7 +294,7 @@ works:
     operate at critical branching (m ≈ 1) while anesthetized and suppressed states
     shift to subcritical regimes (m ¡ 1); validates the CST prediction that criticality
     is a functional)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: zhang2026escaping
   title: 'Escaping the semantic valley: Non-abelian gauge fields on large model fiber
     bundles and silicon-based intentionality emergence.'
@@ -303,14 +303,14 @@ works:
   added: '2026-09-19'
   source: 'zotero:journalArticle (Geometric Dynamics AI Foundational Theory Laboratory
     (2026). [UGF framework: LayerNorm ≤ radial constraint on GL(k)'
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: zhuge2026neural
   title: Neural computers.
   identifier: zotero:UX67EFUU
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (06425 [cs.LG])
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: chen2026learning
   title: Learning to self-evolve.
   identifier: zotero:9EMPYUXJ
@@ -321,7 +321,7 @@ works:
     delta-reward objective; 4B-parameter model outperforms GPT-5 and Claude Sonnet
     4.5 on BIRD/MMLU-Redux; cross-model transfer without additional training; Tc(Θ)
     and local Γst elevation within binary-digital paradigm])
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: bellitto2026routing
   title: Routing without forgetting.
   identifier: zotero:QG8QJJVW
@@ -332,7 +332,7 @@ works:
     continual learning; single-step free-energy minimization; outperforms prompt-based
     methods on Split-ImageNet-R/S; binary-digital approximation of dynamic Γst without
     physical STDP])
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: shine2021nonlinear
   title: Nonlinear reconfiguration of network edges, topology and information content
     during an artificial learning task.
@@ -342,14 +342,14 @@ works:
   source: zotero:journalArticle (DOI:10.1186/s40708-021-00132-6. [Three-phase ANN
     topological reorganization; Q— –ccuracy r = 0.981; empirical validation of dynamic
     Γst as learning order parameter])
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: kaplan2020scaling
   title: Scaling laws for neural language models.
   identifier: zotero:BTV2DBLS
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (08361 (2020).)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: hift2026heterogeneousin
   title: 'Heterogeneous-Integrated Fourier Transform (HIFT): analog-domain spectral
     conversion via VO₂/TaO_x memristor integration.'
@@ -358,7 +358,7 @@ works:
   added: '2026-09-19'
   source: zotero:journalArticle ([Experimental demonstration of ADC-bypass analog
     computation; physical Γst pathway])
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: xia2026eventdriven
   title: Event-driven neuromorphic tactile sensing with flexible memristive SoC for
     low-power edge computing.
@@ -368,14 +368,14 @@ works:
   source: zotero:journalArticle (DOI:10.1038/s44278-025-00R<sub>sw</sub>R<sub>sw</sub>R<sub>sw</sub>.
     [Experimental demonstration of event-driven neuromorphic architecture; Gen0→→en1
     prerequisite])
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: wilson1983the
   title: The renormalization group and critical phenomena.
   identifier: zotero:6532MCY2
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: burkhardt2017evolutionary
   title: Evolutionary origin of synapses and neurons— bridging the gap.
   identifier: zotero:G55WIP7L
@@ -383,7 +383,7 @@ works:
   added: '2026-09-19'
   source: zotero:journalArticle (et al. "Neural signal propagation atlas of Caenorhabditis
     elegans." Nature 623)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: fan2025a
   title: A multisynaptic spiking neuron for simultaneously encoding spatiotemporal
     dynamics.
@@ -391,7 +391,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (DOI:10.1038/s41467-025-62251-6.)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: chung2026neural
   title: Neural population geometry and optimal coding of tasks with shared latent
     structure.
@@ -399,21 +399,21 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (DOI:10.1038/s41593-025-02183-y.)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: battiston2026collective
   title: Collective dynamics on higher-order networks.
   identifier: zotero:QID2PFX2
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (05253 → Nature Reviews Physics (2026); Bick)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: newman2006modularity
   title: Modularity and community structure in networks.
   identifier: zotero:QNPECIEP
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Natl. Acad. Sci. USA 103)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: liu0000the
   title: 'The dynamic essence of intelligence: from drone swarms to the paradigm of
     consciousness emergence.'
@@ -422,112 +422,112 @@ works:
   added: '2026-09-19'
   source: zotero:journalArticle ([Internal working note; formalizes the dynamical-emergence
     characterization underpinning CST axiom 3])
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: meshulam2019coarse
   title: Coarse graining, fixed points, and scaling in a large population of neurons.
   identifier: zotero:VX8ENVQN
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: strogatz1994
   title: Strogatz, S.H. nonlinear dynamics and chaos. Addison-wesley
   identifier: zotero:YKP354ZV
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (H. Nonlinear Dynamics and Chaos. Addison-Wesley (1994).)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: bullmore2009complex
   title: 'Complex brain networks: graph theoretical analysis.'
   identifier: zotero:HSK7SBLI
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Reviews in the Neurosciences 10)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: barabsi1999emergence
   title: Emergence of scaling in random networks.
   identifier: zotero:3E57HH88
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: atasoy2025increased
   title: Increased structural-functional correlation under propofol anesthesia.
   identifier: zotero:ME326NTG
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Computer Science 5)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: plotnik2011elephants
   title: Elephants know when they need a helping trunk.
   identifier: zotero:YUPZIK8M
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Natl. Acad. Sci. USA 108)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: turing1950computing
   title: Computing machinery and intelligence.
   identifier: zotero:3QLGN2KX
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: von1966
   title: von neumann, J. Theory of self-reproducing automata (ed. Bur
   identifier: zotero:7HTILEAV
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Theory of Self-Reproducing Automata (ed. Burks)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: hebb1949
   title: Hebb, D.O. the organization of behavior. Wiley (1949).
   identifier: zotero:RGRVRE5E
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (O. The Organization of Behavior. Wiley (1949).)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: low2012the
   title: The cambridge declaration on consciousness.
   identifier: zotero:L7DIX5GS
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: honey2009predicting
   title: Predicting human resting-state functional connectivity from structural connectivity.
   identifier: zotero:Q37U6AK5
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Natl. Acad. Sci. USA 106)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: meunier2010hierarchical
   title: Hierarchical modularity in human brain functional networks.
   identifier: zotero:4XL6LXBF
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Neuroinform. 4)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: luppi2019consciousnesssp
   title: Consciousness-specific dynamic interactions of brain integration.
   identifier: zotero:Y2BT5876
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Neurosci. 39)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: beggs2004neuronal
   title: Neuronal avalanches are diverse and precise activity patterns.
   identifier: zotero:525Z53E9
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Neurosci. 24)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: peng2023rwkv
   title: 'RWKV: Reinventing rnns for the transformer era.'
   identifier: zotero:ZJMNIEWE
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (13048 (2023).)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: zhou2024transfusion
   title: 'Transfusion: predict the next token and diffuse images with one multi-modal
     model.'
@@ -535,14 +535,14 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (11039 (2024).)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: sun2024learning
   title: 'Learning to (learn at test time): RNNs with expressive hidden states.'
   identifier: zotero:K33ZXTCD
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (04620 (2024).)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: kato2015global
   title: Global brain dynamics embed the motor command sequence of Caenorhabditis
     elegans.
@@ -550,14 +550,14 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: gu2023mamba
   title: 'Mamba: linear-time sequence modeling with selective state spaces.'
   identifier: zotero:95SHUR6L
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (00752 (2023).)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: shazeer2017outrageously
   title: 'Outrageously large neural networks: the sparsely-gated mixture-of-experts
     layer.'
@@ -565,182 +565,182 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: brown2020language
   title: Language models are few-shot learners.
   identifier: zotero:A8Q5M7XU
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: kumar2022timetree
   title: 'TimeTree 5: An expanded resource for species divergence times.'
   identifier: zotero:5TR3J7ES
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: seidman1983network
   title: Network structure and minimum degree.
   identifier: zotero:Z3UZLSB9
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: hagberg2008exploring
   title: Exploring network structure, dynamics, and function using Networkx.
   identifier: zotero:SU5FR622
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (SciPy 2008)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: arnatkeviciute2021structural
   title: Structural and functional brain network analysis with R.
   identifier: zotero:UKQMZ2V6
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: van2013the
   title: The WU-minn human connectome project.
   identifier: zotero:IBMUCIQM
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: oh2014a
   title: A mesoscale connectome of the mouse brain.
   identifier: zotero:DP5T8C4R
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: friston2010the
   title: 'The free-energy principle: a unified brain theory?'
   identifier: zotero:GYNYC63M
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Reviews in the Neurosciences 11)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: raichle2001a
   title: A default mode of brain function.
   identifier: zotero:FUX3CQI2
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Natl. Acad. Sci. USA 98)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: barttfeld2015signature
   title: Signature of consciousness in the dynamics of resting-state brain activity.
   identifier: zotero:Z7FSNBAR
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Natl. Acad. Sci. USA 112)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: scheffer2020a
   title: A connectome and analysis of the adult Drosophila central brain.
   identifier: zotero:ZMSNCHJT
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: white1986the
   title: The structure of the nervous system of C. elegans.
   identifier: zotero:AU267FK3
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Trans. R. Soc. B 314)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: felsenstein1985phylogenies
   title: Phylogenies and the comparative method.
   identifier: zotero:3DXEDKS6
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Nat. 125)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: feigenbaum1978quantitative
   title: Quantitative universality for a class of nonlinear transformations.
   identifier: zotero:6L8SZIAJ
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: roth2005evolution
   title: Evolution of the brain and intelligence.
   identifier: zotero:HSK9RFYH
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Sci. 9)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: reiss2001mirror
   title: Mirror self-recognition in the bottlenose dolphin.
   identifier: zotero:WZ7C9L5Y
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Natl. Acad. Sci. USA 98)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: plotnik2006selfrecognition
   title: Self-recognition in an asian elephant.
   identifier: zotero:ASWLRZ28
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Natl. Acad. Sci. USA 103)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: hunt1996manufacture
   title: Manufacture and use of hook-tools by New Caledonian crows.
   identifier: zotero:L5643WJG
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: menzel1999memory
   title: Memory dynamics in the honeybee.
   identifier: zotero:75DAH8UF
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Comp. Physiol. A 185)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: varshney2011structural
   title: Structural properties of the C. elegans neuronal network.
   identifier: zotero:KX3JMQVG
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Biol. 7)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: murray2014a
   title: A hierarchy of intrinsic timescales across primate cortex.
   identifier: zotero:3KJ29VQ4
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Neurosci. 17)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: sporns2016modular
   title: Modular brain networks.
   identifier: zotero:8S9YLLTE
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: watts1998collective
   title: Collective dynamics of small-world networks.
   identifier: zotero:RZKHU5DE
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: shew2009neuronal
   title: Neuronal avalanches imply maximum dynamic range in cortical networks at criticality.
   identifier: zotero:YCX7CNPL
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Neurosci. 29)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: beggs2003neuronal
   title: Neuronal avalanches in neocortical circuits.
   identifier: zotero:FNYR24D3
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Neurosci. 23)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: barrett2019the
   title: The phi measure of integrated information is not well-defined for general
     physical systems.
@@ -748,35 +748,35 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: tononi2016integrated
   title: 'Integrated information theory: from consciousness to its physical substrate.'
   identifier: zotero:QFNBHUWC
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Reviews in the Neurosciences 17)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: bassett2017network
   title: Network neuroscience.
   identifier: zotero:2UEFYCM2
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Neurosci. 20)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: sporns2010
   title: Sporns, O. Networks of the brain. MIT press (2010).
   identifier: zotero:4KBEINJR
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Networks of the Brain. MIT Press (2010).)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: tononi2004an
   title: An information integration theory of consciousness.
   identifier: zotero:BYQG5KGC
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (5)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Abdi_2024
   title: 'An organized view of reservoir computing: a perspective on theory and technology
     development'
@@ -784,35 +784,35 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Japanese Journal of Applied Physics)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Schmidgall_2024
   title: 'Brain-inspired learning in artificial neural networks: A review'
   identifier: doi:10.1063/5.0186054
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (APL Machine Learning)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Zhu_2024
   title: Bridging the gap between artificial intelligence and natural intelligence
   identifier: doi:10.1038/s43588-024-00677-6
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Nature Computational Science)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Zador_2023
   title: Catalyzing next-generation artificial intelligence through NeuroAI
   identifier: doi:10.1038/s41467-023-37180-x
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Nature Communications)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Stanley_2019
   title: Designing neural networks through neuroevolution
   identifier: doi:10.1038/s42256-018-0006-z
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Nature Machine Intelligence)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Zhao_2025
   title: 'Insights into DeepSeek-V3: Scaling challenges and reflections on hardware
     for AI architectures'
@@ -821,7 +821,7 @@ works:
   added: '2026-09-19'
   source: zotero:conferencePaper (Proceedings of the 52nd annual international symposium
     on computer architecture)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Kumar_2023
   title: 'Liquid neural networks: a novel approach to dynamic information processing'
   identifier: doi:10.1109/icaiccit60255.2023.10466162
@@ -829,7 +829,7 @@ works:
   added: '2026-09-19'
   source: zotero:conferencePaper (2023 international conference on advances in computation,
     communication and information technology (ICAICCIT))
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: He_2024
   title: Network model with internal complexity bridges artificial intelligence and
     neuroscience
@@ -837,28 +837,28 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Nature Computational Science)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Mehonic_2024
   title: Roadmap to neuromorphic computing with emerging technologies
   identifier: doi:10.1063/5.0179424
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (APL Materials)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Zhang_2024
   title: The development of general-purpose brain-inspired computing
   identifier: doi:10.1038/s41928-024-01277-y
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Nature Electronics)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: BOCCALETTI_2006
   title: 'Complex networks: Structure and dynamics'
   identifier: doi:10.1016/j.physrep.2005.10.009
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Physics Reports)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Graumann_2022
   title: The spatiotemporal neural dynamics of object location representations in
     the human brain
@@ -866,7 +866,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Nature Human Behaviour)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Zhang_2019
   title: Fast and robust learning in spiking feed-forward neural networks based on
     intrinsic plasticity mechanism
@@ -874,7 +874,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Neurocomputing)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Kumar_2021
   title: Artificial neurovascular network (ANVN) to study the accuracy vs. efficiency
     trade-off in an energy dependent neural network
@@ -882,28 +882,28 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Scientific Reports)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Mahmoodi_2024
   title: Complexity synchronization in emergent intelligence
   identifier: doi:10.1038/s41598-024-57384-5
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Scientific Reports)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Angiolelli_2024
   title: Criticality explains structure-function relationships in the human brain
   identifier: doi:10.1101/2024.07.15.603226
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Li_2020
   title: Energy efficient synaptic plasticity
   identifier: doi:10.7554/elife.50804
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (eLife)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Heiney_2021
   title: 'Criticality, connectivity, and neural disorder: a multifaceted approach
     to neural computation'
@@ -911,7 +911,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Frontiers in Computational Neuroscience)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Anderson_2014
   title: 'Allocating structure to function: the strong links between neuroplasticity
     and natural selection'
@@ -919,7 +919,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Frontiers in Human Neuroscience)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: M_ller_2025
   title: Critical dynamics predicts cognitive performance and provides a common framework
     for heterogeneous mechanisms impacting cognition
@@ -927,7 +927,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Proceedings of the National Academy of Sciences)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Mandolesi_2017
   title: 'Environmental factors promoting neural plasticity: Insights from animal
     and human studies'
@@ -935,7 +935,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Neural Plasticity)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Rocha_2022
   title: Recovery of neural dynamics criticality in personalized whole-brain models
     of stroke
@@ -943,42 +943,42 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Nature Communications)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Den_ve_2017
   title: The brain as an efficient and robust adaptive learner
   identifier: doi:10.1016/j.neuron.2017.05.016
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Neuron)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Mill_n_2025
   title: Topology shapes dynamics of higher-order networks
   identifier: doi:10.1038/s41567-024-02757-w
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Nature Physics)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Krohn_2021
   title: A spatiotemporal complexity architecture of human brain activity
   identifier: doi:10.1101/2021.06.04.446948
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Fedorova_2024
   title: 'Advancing neural networks: Innovations and impacts on energy consumption'
   identifier: doi:10.1002/aelm.202400258
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Advanced Electronic Materials)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Wang_2023
   title: Advances in spatiotemporal graph neural network prediction research
   identifier: doi:10.1080/17538947.2023.2220610
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (International Journal of Digital Earth)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Budzinski_2024
   title: An exact mathematical description of computation with transient spatiotemporal
     dynamics in a complex-valued neural network
@@ -986,7 +986,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Communications Physics)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Wang_2024
   title: 'TMAC: Training-targeted mapping and architecture co-exploration for wafer-scale
     chips'
@@ -994,28 +994,28 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Integrated Circuits and Systems)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Isomura_2022
   title: Canonical neural networks perform active inference
   identifier: doi:10.1038/s42003-021-02994-2
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Communications Biology)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Gou_2025
   title: Dynamic spatio-temporal pruning for efficient spiking neural networks
   identifier: doi:10.3389/fnins.2025.1545583
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Frontiers in Neuroscience)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Jordan_2021
   title: Evolving interpretable plasticity for spiking networks
   identifier: doi:10.7554/elife.66273
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (eLife)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Friston_2007
   title: Free-energy and the brain
   identifier: doi:10.1007/s11229-007-9237-y
@@ -1023,7 +1023,7 @@ works:
   added: '2026-09-19'
   source: zotero:journalArticle (Synthese. An International Journal for Epistemology,
     Methodology and Philosophy of Science)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Santoro_2024
   title: Higher-order connectomics of human brain function reveals local topological
     signatures of task decoding, individual identification, and behavior
@@ -1031,14 +1031,14 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Nature Communications)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Wu_2024
   title: Development of the brain network control theory and its implications
   identifier: doi:10.1093/psyrad/kkae028
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Psychoradiology)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Xin_2024
   title: 'Graph metrics reveal brain network topological property in neuropathic pain
     patients: a systematic review'
@@ -1046,7 +1046,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Journal of Pain Research)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Manley_2024
   title: Heterogeneous integration technologies for artificial intelligence applications
   identifier: doi:10.1109/jxcdc.2024.3484958
@@ -1054,7 +1054,7 @@ works:
   added: '2026-09-19'
   source: zotero:journalArticle (IEEE Journal on Exploratory Solid-State Computational
     Devices and Circuits)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Li_2024
   title: 'High-bandwidth chiplet interconnects for advanced packaging technologies
     in AI/ML applications: Challenges and solutions'
@@ -1062,7 +1062,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (IEEE Open Journal of the Solid-State Circuits Society)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Chang_2024
   title: Physical design challenges in modern heterogeneous integration
   identifier: doi:10.1145/3626184.3639690
@@ -1070,7 +1070,7 @@ works:
   added: '2026-09-19'
   source: zotero:conferencePaper (Proceedings of the 2024 international symposium
     on physical design)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Turkheimer_2021
   title: A complex systems perspective on neuroimaging studies of behavior and its
     disorders
@@ -1078,56 +1078,56 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (The Neuroscientist)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Thommes_2022
   title: Demonstrating BrainScaleS-2 inter-chip pulse-communication using EXTOLL
   identifier: doi:10.1145/3517343.3517376
   status: pending
   added: '2026-09-19'
   source: zotero:conferencePaper (Neuro-inspired computational elements conference)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Hoel_2013
   title: Quantifying causal emergence shows that macro can beat micro
   identifier: doi:10.1073/pnas.1314922110
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Proceedings of the National Academy of Sciences)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Meunier_2010
   title: Modular and hierarchically modular organization of brain networks
   identifier: doi:10.3389/fnins.2010.00200
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Frontiers in Neuroscience)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Gupta_2025
   title: Neuromorphic photonic on-chip computing
   identifier: doi:10.3390/chips4030034
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Chips)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Pehle_2022
   title: The BrainScaleS-2 accelerated neuromorphic system with hybrid plasticity
   identifier: doi:10.3389/fnins.2022.795876
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Frontiers in Neuroscience)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Liang_2024
   title: Physical reservoir computing with emerging electronics
   identifier: doi:10.1038/s41928-024-01133-z
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Nature Electronics)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Schneider_2025
   title: A self-training spiking superconducting neuromorphic architecture
   identifier: doi:10.1038/s44335-025-00021-9
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (npj Unconventional Computing)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Gabayre_2025
   title: 'Advancements in neuromorphic computing for bio-inspired artificial vision:
     A review'
@@ -1135,21 +1135,21 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Neurocomputing)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Sooter_2025
   title: Defining and measuring proximity to criticality
   identifier: doi:10.1101/2025.08.03.668332
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Stradmann_2022
   title: Demonstrating analog inference on the BrainScaleS-2 mobile system
   identifier: doi:10.1109/ojcas.2022.3208413
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (IEEE Open Journal of Circuits and Systems)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Dey_2022
   title: Mapping and validating a point neuron model on intel’s neuromorphic hardware
     loihi
@@ -1157,7 +1157,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Frontiers in Neuroinformatics)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: McDonough_2014
   title: 'Network complexity as a measure of information processing across resting-state
     networks: evidence from the Human Connectome Project'
@@ -1165,21 +1165,21 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Frontiers in Human Neuroscience)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Carney_2017
   title: Neuromorphic kalman filter implementation in ibm’s TrueNorth
   identifier: doi:10.1088/1742-6596/898/4/042021
   status: pending
   added: '2026-09-19'
   source: 'zotero:journalArticle (Journal of Physics: Conference Series)'
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Pani_2017
   title: An FPGA platform for real-time simulation of spiking neuronal networks
   identifier: doi:10.3389/fnins.2017.00090
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Frontiers in Neuroscience)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Tang_2023
   title: 'SENECA: building a fully digital neuromorphic processor, design trade-offs
     and challenges'
@@ -1187,7 +1187,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Frontiers in Neuroscience)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Yao_2024
   title: Spike-based dynamic computing with asynchronous sensing-computing neuromorphic
     chip
@@ -1195,14 +1195,14 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Nature Communications)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Billaudelle_2021
   title: Structural plasticity on an accelerated analog neuromorphic hardware system
   identifier: doi:10.1016/j.neunet.2020.09.024
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Neural Networks)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Stuijt_2021
   title: 'μBrain: An event-driven and fully synthesizable architecture for spiking
     neural networks'
@@ -1210,21 +1210,21 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Frontiers in Neuroscience)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Wu_2022
   title: Brain-inspired global-local learning incorporated with neuromorphic computing
   identifier: doi:10.1038/s41467-021-27653-2
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Nature Communications)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Liu_2024
   title: Advancing brain-inspired computing with hybrid neural networks
   identifier: doi:10.1093/nsr/nwae066
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (National Science Review)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Gandolfi_2025
   title: 'Editorial: Brain-inspired computing: from neuroscience to neuromorphic electronics
     for new forms of artificial intelligence'
@@ -1232,28 +1232,28 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Frontiers in Neuroscience)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Vahl_2024
   title: Brain-inspired computing with self-assembled networks of nano-objects
   identifier: doi:10.1088/1361-6463/ad7a82
   status: pending
   added: '2026-09-19'
   source: 'zotero:journalArticle (Journal of Physics D: Applied Physics)'
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Li_2023
   title: Energy efficiency and coding of neural network
   identifier: doi:10.3389/fnins.2022.1089373
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Frontiers in Neuroscience)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Ngai_2022
   title: 'BRAIN 2.0: Transforming neuroscience'
   identifier: doi:10.1016/j.cell.2021.11.037
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Cell)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Breyton_2024
   title: Spatiotemporal brain complexity quantifies consciousness outside of perturbation
     paradigms
@@ -1261,21 +1261,21 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Saffari_2024
   title: 'Spatiotemporal deep learning for power system applications: a survey'
   identifier: doi:10.1109/access.2024.3424854
   status: pending
   added: '2026-09-19'
   source: 'zotero:journalArticle (IEEE access : practical innovations, open solutions)'
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Thiele_2023
   title: Multimodal brain signal complexity predicts human intelligence
   identifier: doi:10.1523/eneuro.0345-22.2022
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (eneuro)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Xu_2025
   title: 'WSC-LLM: Efficient LLM service and architecture co-exploration for wafer-scale
     chips'
@@ -1284,7 +1284,7 @@ works:
   added: '2026-09-19'
   source: zotero:conferencePaper (Proceedings of the 52nd annual international symposium
     on computer architecture)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Yu_2022
   title: 'STSC-SNN: Spatio-Temporal Synaptic Connection with temporal convolution
     and attention for spiking neural networks'
@@ -1292,21 +1292,21 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Frontiers in Neuroscience)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Perez_Nieves_2021
   title: Neural heterogeneity promotes robust learning
   identifier: doi:10.1038/s41467-021-26022-3
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Nature Communications)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Muir_2025
   title: The road to commercial success for neuromorphic technologies
   identifier: doi:10.1038/s41467-025-57352-1
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Nature Communications)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Ji_2025
   title: Ultralow energy adaptive neuromorphic computing using reconfigurable zinc
     phosphorus trisulfide memristors
@@ -1314,14 +1314,14 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Nature Communications)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Han_2025
   title: Small‐world network and neuroscience
   identifier: doi:10.1002/brx2.70025
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Brain‐X)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Chu_2024
   title: Co-representation of functional brain networks is shaped by cortical myeloarchitecture
     and reveals individual behavioral ability
@@ -1329,7 +1329,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (The Journal of Neuroscience)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Chorowski_2024
   title: 'Coexistence of critical phenomena: the concept of manifold multi-spectral
     criticality'
@@ -1337,7 +1337,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Scientific Reports)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Bullmore_2009
   title: 'Complex brain networks: graph theoretical analysis of structural and functional
     systems'
@@ -1345,7 +1345,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Nature Reviews Neuroscience)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Lurie_2023
   title: Cortical timescales and the modular organization of structural and functional
     brain networks
@@ -1353,28 +1353,28 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Friston_2010
   title: 'The free-energy principle: a unified brain theory?'
   identifier: doi:10.1038/nrn2787
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Nature Reviews Neuroscience)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: van_den_Heuvel_2026
   title: Investigating the methodological foundation of lesion network mapping
   identifier: doi:10.1038/s41593-025-02196-7
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Nature Neuroscience)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Hengen_2025
   title: Is criticality a unified setpoint of brain function?
   identifier: doi:10.1016/j.neuron.2025.05.020
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Neuron)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Schmidt_2015
   title: Kuramoto model simulation of neural hubs and dynamic synchrony in the human
     cerebral connectome
@@ -1382,21 +1382,21 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (BMC Neuroscience)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Wu_2025
   title: Learning geodesics of geometric shape deformations from images
   identifier: doi:10.59275/j.melba.2025-f9f4
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Machine Learning for Biomedical Imaging)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Farooq_2019
   title: Network curvature as a hallmark of brain structural connectivity
   identifier: doi:10.1038/s41467-019-12915-x
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Nature Communications)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Kazemi_2022
   title: Phase synchronization and measure of criticality in a network of neural mass
     models
@@ -1404,28 +1404,28 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Scientific Reports)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Fronczak_2024
   title: Scaling theory of fractal complex networks
   identifier: doi:10.1038/s41598-024-59765-2
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Scientific Reports)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Zamora_L_pez_2019
   title: Sizing complex networks
   identifier: doi:10.1038/s42005-019-0239-0
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Communications Physics)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Shinn_2021
   title: Spatial and temporal autocorrelation weave complexity in brain networks
   identifier: doi:10.1101/2021.06.01.446561
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Li_2026
   title: Spatiotemporal dynamics of quantity quality synergy along dual pathways in
     urban household energy transition
@@ -1433,7 +1433,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Discover Sustainability)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Lombardi_2023
   title: Statistical modeling of adaptive neural networks explains co-existence of
     avalanches and oscillations in resting human brain
@@ -1441,7 +1441,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Nature Computational Science)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Zhang_2017
   title: Testing proportionality between the first-order intensity functions of spatial
     point processes
@@ -1449,7 +1449,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Journal of Multivariate Analysis)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Paquola_2025
   title: The architecture of the human default mode network explored through cytoarchitecture,
     wiring and signal flow
@@ -1457,28 +1457,28 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Nature Neuroscience)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Isomura_2025
   title: Triple equivalence for the emergence of biological intelligence
   identifier: doi:10.1038/s42005-025-02059-4
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Communications Physics)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Cao_2025
   title: Advanced design for high-performance and AI chips
   identifier: doi:10.1007/s40820-025-01850-w
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Nano-Micro Letters)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: He_2026
   title: 'AI-powered semiconductor wafer fabrication: A manufacturing paradigm shift'
   identifier: doi:10.1016/j.ijmachtools.2025.104345
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (International Journal of Machine Tools and Manufacture)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Sharma_2025
   title: Designing high-performance and thermally feasible multi-chiplet architectures
     enabled by non-bendable glass interposer
@@ -1486,7 +1486,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (ACM Transactions on Embedded Computing Systems)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Wang_2025
   title: 'Integrated neuromorphic photonic computing for AI acceleration: Emerging
     devices, network architectures, and future paradigms'
@@ -1494,7 +1494,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Advanced Materials)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Yang_2025
   title: PD constraint-aware physical/logical topology co-design for network on wafer
   identifier: doi:10.1145/3695053.3731045
@@ -1502,7 +1502,7 @@ works:
   added: '2026-09-19'
   source: zotero:conferencePaper (Proceedings of the 52nd annual international symposium
     on computer architecture)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Ozkan_2025
   title: Performance, efficiency, and cost analysis of wafer-scale AI accelerators
     vs. single-chip GPUs
@@ -1510,7 +1510,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Device)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Hu_2025
   title: Typical and disrupted small-world architecture and regional communication
     in full-term and preterm infants
@@ -1518,7 +1518,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (PNAS Nexus)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Tamai_2025
   title: Universal scaling laws of absorbing phase transitions in artificial deep
     neural networks
@@ -1526,7 +1526,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Physical Review Research)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Hu_2024
   title: 'Wafer-scale computing: Advancements, challenges, and future perspectives
     [feature]'
@@ -1534,14 +1534,14 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (IEEE Circuits and Systems Magazine)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Bahrami_2022
   title: A mixed-modeling framework for whole-brain dynamic network analysis
   identifier: doi:10.1162/netn_a_00238
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Network Neuroscience)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Fischer_2014
   title: Association of structural global brain network properties with intelligence
     in normal aging
@@ -1549,7 +1549,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (PLoS ONE)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Bizzarri_2019
   title: 'Co-emergence and collapse: The mesoscopic approach for conceptualizing and
     investigating the functional integration of organisms'
@@ -1557,35 +1557,35 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Frontiers in Physiology)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Tang_2018
   title: '¡i¿Colloquium¡/i¿: Control of dynamics in brain networks'
   identifier: doi:10.1103/revmodphys.90.031003
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Reviews of Modern Physics)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Ma_2024
   title: 'Darwin3: a large-scale neuromorphic chip with a novel ISA and on-chip learning'
   identifier: doi:10.1093/nsr/nwae102
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (National Science Review)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Lynn_2024
   title: Emergent scale-free networks
   identifier: doi:10.1093/pnasnexus/pgae236
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (PNAS Nexus)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Franklin_2018
   title: On the renormalization group explanation of universality
   identifier: doi:10.1086/696812
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Philosophy of Science)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Xian_2024
   title: Probing individual differences in the topological landscape of naturalistic
     brain dynamics
@@ -1593,14 +1593,14 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Plenz_2021
   title: Self-organized criticality in the brain
   identifier: doi:10.3389/fphy.2021.639389
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Frontiers in Physics)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Liu_2025
   title: 'Survey of chiplet technology: SoC architecture, interconnect, EDA, and advanced
     packaging'
@@ -1609,14 +1609,14 @@ works:
   added: '2026-09-19'
   source: zotero:journalArticle (IEEE Journal on Emerging and Selected Topics in Circuits
     and Systems)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Sporns_2022
   title: 'The complex brain: connectivity, dynamics, information'
   identifier: doi:10.1016/j.tics.2022.08.002
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Trends in Cognitive Sciences)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Nickel_2024
   title: A survey on architectures, hardware acceleration and challenges for in-network
     computing
@@ -1625,7 +1625,7 @@ works:
   added: '2026-09-19'
   source: zotero:journalArticle (ACM Transactions on Reconfigurable Technology and
     Systems)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Kikuchi_2023
   title: Implementation and performance evaluation of collective communications using
     CIRCUS on multiple fpgas
@@ -1633,14 +1633,14 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:conferencePaper (Proceedings of the HPC asia 2023 workshops)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Gomez_2024
   title: 'RED-SEA project: Towards a new-generation european interconnect'
   identifier: doi:10.1016/j.micpro.2024.105102
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Microprocessors and Microsystems)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Todd_2026
   title: 'Intelligence as high-dimensional coherence: The observable dimensionality
     bound and computational tractability'
@@ -1648,14 +1648,14 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Bio Systems)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Avin_2025
   title: Revolutionizing datacenter networks via reconfigurable topologies
   identifier: doi:10.1145/3708980
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Communications of the ACM)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Garg_2026
   title: Personalized spiking neural networks with ferroelectric synapses for EEG
     signal processing
@@ -1663,7 +1663,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (APL Machine Learning)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Ueno_2023
   title: 'VCSN: Virtual circuit-switching network for flexible and simple-to-operate
     communication in HPC FPGA cluster'
@@ -1672,7 +1672,7 @@ works:
   added: '2026-09-19'
   source: zotero:journalArticle (ACM Transactions on Reconfigurable Technology and
     Systems)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Choi_2025
   title: Wafer-scale fabrication of memristive passive crossbar circuits for brain-scale
     neuromorphic computing
@@ -1680,7 +1680,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Nature Communications)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Zheng_2021
   title: 'Adapt-NoC: a flexible network-on-chip design for heterogeneous manycore
     architectures'
@@ -1689,21 +1689,21 @@ works:
   added: '2026-09-19'
   source: zotero:conferencePaper (2021 IEEE international symposium on high-performance
     computer architecture (HPCA))
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Liu_2011
   title: Controllability of complex networks
   identifier: doi:10.1038/nature10011
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Nature)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Sim_2023
   title: FPGA implementation of efficient CFAR algorithm for radar systems
   identifier: doi:10.3390/s23020954
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Sensors)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Liao_2025
   title: 'MixNet: a runtime reconfigurable optical-electrical fabric for distributed
     mixture-of-experts training'
@@ -1711,7 +1711,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:conferencePaper (Proceedings of the ACM SIGCOMM 2025 conference)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Hyun_2015
   title: Parallel and pipelined hardware implementation of radar signal processing
     for an FMCW multi-channel radar
@@ -1719,7 +1719,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Elektronika ir Elektrotechnika)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Jouppi_2023
   title: 'TPU v4: An optically reconfigurable supercomputer for machine learning with
     hardware support for embeddings'
@@ -1728,161 +1728,161 @@ works:
   added: '2026-09-19'
   source: zotero:conferencePaper (Proceedings of the 50th annual international symposium
     on computer architecture)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: '240216887'
   title: 'arXiv query: search_query=&amp;id_list=2402.16887&amp;start=0&amp;max_results=1'
   identifier: zotero:BJLRGFCP
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: '200405488'
   title: 'arXiv query: search_query=&amp;id_list=2004.05488&amp;start=0&amp;max_results=1'
   identifier: zotero:48LCSV4Z
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: '240609787'
   title: 'arXiv query: search_query=&amp;id_list=2406.09787&amp;start=0&amp;max_results=1'
   identifier: zotero:XBEQ4EEK
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: '150705716'
   title: 'arXiv query: search_query=&amp;id_list=1507.05716&amp;start=0&amp;max_results=1'
   identifier: zotero:J5PJTXEQ
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: '221210210'
   title: 'arXiv query: search_query=&amp;id_list=2212.10210&amp;start=0&amp;max_results=1'
   identifier: zotero:MBV7GD2C
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: '181012640'
   title: 'arXiv query: search_query=&amp;id_list=1810.12640&amp;start=0&amp;max_results=1'
   identifier: zotero:5UC45Q66
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: '170301909'
   title: 'arXiv query: search_query=&amp;id_list=1703.01909&amp;start=0&amp;max_results=1'
   identifier: zotero:7JFFXIIZ
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: '250204563'
   title: 'arXiv query: search_query=&amp;id_list=2502.04563&amp;start=0&amp;max_results=1'
   identifier: zotero:QLPHYKA5
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: '250601659'
   title: 'arXiv query: search_query=&amp;id_list=2506.01659&amp;start=0&amp;max_results=1'
   identifier: zotero:VFG35WFE
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: '240602528'
   title: 'arXiv query: search_query=&amp;id_list=2406.02528&amp;start=0&amp;max_results=1'
   identifier: zotero:U3D5INN5
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: '250321436'
   title: 'arXiv query: search_query=&amp;id_list=2503.21436&amp;start=0&amp;max_results=1'
   identifier: zotero:B9ZNS23J
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: '240312462'
   title: 'arXiv query: search_query=&amp;id_list=2403.12462&amp;start=0&amp;max_results=1'
   identifier: zotero:UE6XQPBS
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: '241002118'
   title: 'arXiv query: search_query=&amp;id_list=2410.02118&amp;start=0&amp;max_results=1'
   identifier: zotero:LSESV3BQ
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: '250607027'
   title: 'arXiv query: search_query=&amp;id_list=2506.07027&amp;start=0&amp;max_results=1'
   identifier: zotero:CU4SQTSD
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: '10102530'
   title: 'arXiv query: search_query=&amp;id_list=1010.2530&amp;start=0&amp;max_results=1'
   identifier: zotero:5U2UWV22
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: '230812063'
   title: 'arXiv query: search_query=&amp;id_list=2308.12063&amp;start=0&amp;max_results=1'
   identifier: zotero:ZEV9D43Y
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: '241016158'
   title: 'arXiv query: search_query=&amp;id_list=2410.16158&amp;start=0&amp;max_results=1'
   identifier: zotero:ECJP7QTI
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: '241217043'
   title: 'arXiv query: search_query=&amp;id_list=2412.17043&amp;start=0&amp;max_results=1'
   identifier: zotero:BDCY4NP3
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: '241204874'
   title: 'arXiv query: search_query=&amp;id_list=2412.04874&amp;start=0&amp;max_results=1'
   identifier: zotero:HP2YTRVY
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: '240110300'
   title: 'arXiv query: search_query=&amp;id_list=2401.10300&amp;start=0&amp;max_results=1'
   identifier: zotero:Y8MHDZV9
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: '191101547'
   title: 'arXiv query: search_query=&amp;id_list=1911.01547&amp;start=0&amp;max_results=1'
   identifier: zotero:8SUK7M3N
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: '220607682'
   title: 'arXiv query: search_query=&amp;id_list=2206.07682&amp;start=0&amp;max_results=1'
   identifier: zotero:NJZ8K25V
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: https://doi.org/10.13140/rg.2.2.21309.68322
   title: 'Modeling emergent intelligence in neural networks: a geometric and dynamical
     perspective'
@@ -1890,21 +1890,21 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: https://doi.org/10.48550/arxiv.2107.03402
   title: Self-organized criticality in neural networks
   identifier: doi:10.48550/ARXIV.2107.03402
   status: pending
   added: '2026-09-19'
   source: zotero:document
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: Adamovich_2024
   title: Task‐specific topology of brain networks supporting working memory and inhibition
   identifier: doi:10.1002/hbm.70024
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Human Brain Mapping)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: M_ller_2024
   title: Hyper-brain hyper-frequency network topology dynamics when playing guitar
     in quartet
@@ -1912,175 +1912,175 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Frontiers in Human Neuroscience)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: https://doi.org/10.48550/arxiv.2003.04711
   title: Physics for neuromorphic computing
   identifier: doi:10.48550/ARXIV.2003.04711
   status: pending
   added: '2026-09-19'
   source: zotero:document
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: https://doi.org/10.3929/ethz-b-000623491
   title: An energy-efficient GeMM-based convolution accelerator with on-the-fly im2col
   identifier: doi:10.3929/ETHZ-B-000623491
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: https://doi.org/10.4230/lipics.icalp.2020.128
   title: The topology of local computing in networks
   identifier: doi:10.4230/LIPICS.ICALP.2020.128
   status: pending
   added: '2026-09-19'
   source: zotero:conferencePaper
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: '230606792'
   title: 'arXiv query: search_query=&amp;id_list=2306.06792&amp;start=0&amp;max_results=1'
   identifier: zotero:LG7IZR56
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: '250621734'
   title: 'arXiv query: search_query=&amp;id_list=2506.21734&amp;start=0&amp;max_results=1'
   identifier: zotero:2ZSHFZ9D
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: '240703652'
   title: 'arXiv query: search_query=&amp;id_list=2407.03652&amp;start=0&amp;max_results=1'
   identifier: zotero:7CDGPL9F
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: '190107945'
   title: 'arXiv query: search_query=&amp;id_list=1901.07945&amp;start=0&amp;max_results=1'
   identifier: zotero:T5KJL7TY
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: '231116417'
   title: 'arXiv query: search_query=&amp;id_list=2311.16417&amp;start=0&amp;max_results=1'
   identifier: zotero:69E9Q6ND
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: '240202521'
   title: 'arXiv query: search_query=&amp;id_list=2402.02521&amp;start=0&amp;max_results=1'
   identifier: zotero:SBMBDR9M
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: '231109767'
   title: 'arXiv query: search_query=&amp;id_list=2311.09767&amp;start=0&amp;max_results=1'
   identifier: zotero:FAI8CG79
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: '231216815'
   title: 'arXiv query: search_query=&amp;id_list=2312.16815&amp;start=0&amp;max_results=1'
   identifier: zotero:T884SWTE
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: '250721046'
   title: 'arXiv query: search_query=&amp;id_list=2507.21046&amp;start=0&amp;max_results=1'
   identifier: zotero:NSLAJYXF
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: '231213478'
   title: 'arXiv query: search_query=&amp;id_list=2312.13478&amp;start=0&amp;max_results=1'
   identifier: zotero:TD6ANETX
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: '230111982'
   title: 'arXiv query: search_query=&amp;id_list=2301.11982&amp;start=0&amp;max_results=1'
   identifier: zotero:HWSQHYIA
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: '220412774'
   title: 'arXiv query: search_query=&amp;id_list=2204.12774&amp;start=0&amp;max_results=1'
   identifier: zotero:VTH5XMZV
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: '250710722'
   title: 'arXiv query: search_query=&amp;id_list=2507.10722&amp;start=0&amp;max_results=1'
   identifier: zotero:HHMVTQ9B
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: '240702079'
   title: 'arXiv query: search_query=&amp;id_list=2407.02079&amp;start=0&amp;max_results=1'
   identifier: zotero:MVPPJ99J
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: '230517650'
   title: 'arXiv query: search_query=&amp;id_list=2305.17650&amp;start=0&amp;max_results=1'
   identifier: zotero:4EQRMB6Z
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: '250317394'
   title: 'arXiv query: search_query=&amp;id_list=2503.17394&amp;start=0&amp;max_results=1'
   identifier: zotero:XLZLKE73
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: '250109045'
   title: 'arXiv query: search_query=&amp;id_list=2501.09045&amp;start=0&amp;max_results=1'
   identifier: zotero:U9VQ5WVW
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: '240305530'
   title: 'arXiv query: search_query=&amp;id_list=2403.05530&amp;start=0&amp;max_results=1'
   identifier: zotero:PS6Z8MIQ
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: '240206196'
   title: 'arXiv query: search_query=&amp;id_list=2402.06196&amp;start=0&amp;max_results=1'
   identifier: zotero:QYG4SFNP
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: '250301589'
   title: 'arXiv query: search_query=&amp;id_list=2503.01589&amp;start=0&amp;max_results=1'
   identifier: zotero:746GBE47
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: hasaniInterpretableRecurrentNeural
   title: Interpretable Recurrent Neural Networks in Continuous-time Control Environments
   identifier: zotero:87E5N48E
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: abdiOrganizedViewReservoir2024
   title: 'An organized view of reservoir computing: a perspective on theory and technology
     development'
@@ -2088,7 +2088,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Japanese Journal of Applied Physics)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: dingComprehensiveSurveyArtificial2025
   title: 'A Comprehensive Survey on Artificial Intelligence for Complex Network: Potential,
     Methodology and Application'
@@ -2096,14 +2096,14 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:preprint
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: schmidgallBraininspiredLearningArtificial2024
   title: 'Brain-inspired learning in artificial neural networks: A review'
   identifier: doi:10.1063/5.0186054
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (APL Machine Learning)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: khacefBraininspiredSelforganizationCellular2020
   title: Brain-inspired self-organization with cellular neuromorphic computing for
     multimodal unsupervised learning
@@ -2111,35 +2111,35 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:preprint
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: zhuBridgingGapArtificial2024
   title: Bridging the gap between artificial intelligence and natural intelligence
   identifier: doi:10.1038/s43588-024-00677-6
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Nature Computational Science)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: zadorCatalyzingNextgenerationArtificial2023
   title: Catalyzing next-generation Artificial Intelligence through NeuroAI
   identifier: doi:10.1038/s41467-023-37180-x
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Nature Communications)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: mahmoodiComplexitySynchronizationEmergent2024
   title: Complexity synchronization in emergent intelligence
   identifier: doi:10.1038/s41598-024-57384-5
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Scientific Reports)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: stanleyDesigningNeuralNetworks2019
   title: Designing neural networks through neuroevolution
   identifier: doi:10.1038/s42256-018-0006-z
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Nature Machine Intelligence)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: plantecEvolvingSelfAssemblingNeural2024
   title: 'Evolving Self-Assembling Neural Networks: From Spontaneous Activity to Experience-Dependent
     Learning'
@@ -2147,14 +2147,14 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:preprint
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: watanabeFractalSmallWorldNetworks2015
   title: Fractal and Small-World Networks Formed by Self-Organized Critical Dynamics
   identifier: doi:10.48550/arXiv.1507.05716
   status: pending
   added: '2026-09-19'
   source: zotero:preprint
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: zhaoInsightsDeepSeekV3Scaling2025
   title: 'Insights into DeepSeek-V3: Scaling Challenges and Reflections on Hardware
     for AI Architectures'
@@ -2163,14 +2163,14 @@ works:
   added: '2026-09-19'
   source: zotero:conferencePaper (Proceedings of the 52nd Annual International Symposium
     on Computer Architecture)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: hilgetagBrainReallySmallworld2016
   title: Is the brain really a small-world network?
   identifier: doi:10.1007/s00429-015-1035-6
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Brain Structure and Function)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: liangLessMoreWiringeconomical2022
   title: 'Less is more: wiring-economical modular networks support self-sustained
     firing-economical neural avalanches for efficient processing'
@@ -2178,7 +2178,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (National Science Review)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: kumarLiquidNeuralNetworks2023
   title: 'Liquid Neural Networks: A Novel Approach to Dynamic Information Processing'
   identifier: doi:10.1109/ICAICCIT60255.2023.10466162
@@ -2186,7 +2186,7 @@ works:
   added: '2026-09-19'
   source: zotero:conferencePaper (2023 International Conference on Advances in Computation,
     Communication and Information Technology (ICAICCIT))
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: youvanModelingEmergentIntelligence2024
   title: 'Modeling Emergent Intelligence in Neural Networks: A Geometric and Dynamical
     Perspective'
@@ -2194,7 +2194,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: heNetworkModelInternal2024
   title: Network model with internal complexity bridges artificial intelligence and
     neuroscience
@@ -2202,7 +2202,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Nature Computational Science)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: schmittNeuromorphicHardwareLoop2017
   title: 'Neuromorphic Hardware In The Loop: Training a Deep Spiking Network on the
     BrainScaleS Wafer-Scale System'
@@ -2211,84 +2211,84 @@ works:
   added: '2026-09-19'
   source: zotero:conferencePaper (2017 International Joint Conference on Neural Networks
     (IJCNN))
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: khacefNeuromorphicHardwareSelforganizing2018
   title: Neuromorphic hardware as a self-organizing computing system
   identifier: doi:10.48550/arXiv.1810.12640
   status: pending
   added: '2026-09-19'
   source: zotero:preprint
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: mehonicRoadmapNeuromorphicComputing2024
   title: Roadmap to neuromorphic computing with emerging technologies
   identifier: doi:10.1063/5.0179424
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (APL Materials)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: katsnelsonSelforganizedCriticalityNeural2021
   title: Self-organized criticality in neural networks
   identifier: doi:10.48550/ARXIV.2107.03402
   status: pending
   added: '2026-09-19'
   source: zotero:preprint
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: zhangDevelopmentGeneralpurposeBraininspired2024
   title: The development of general-purpose brain-inspired computing
   identifier: doi:10.1038/s41928-024-01277-y
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Nature Electronics)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: heWaferLLMLargeLanguage2025
   title: 'WaferLLM: Large Language Model Inference at Wafer Scale'
   identifier: doi:10.48550/arXiv.2502.04563
   status: pending
   added: '2026-09-19'
   source: zotero:preprint
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: bergnerOneFlavourAdjoint2022
   title: One flavour adjoint QCD with overlap fermions
   identifier: doi:10.48550/arXiv.2212.10210
   status: pending
   added: '2026-09-19'
   source: zotero:preprint
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: boccalettiComplexNetworksStructure2006
   title: 'Complex networks: Structure and dynamics'
   identifier: doi:10.1016/j.physrep.2005.10.009
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Physics Reports)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: szelogowskiEngramMemoryEncoding2025
   title: 'Engram Memory Encoding and Retrieval: A Neurocomputational Perspective'
   identifier: doi:10.48550/arXiv.2506.01659
   status: pending
   added: '2026-09-19'
   source: zotero:preprint
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: zhangHowMemoriesAre
   title: How memories are stored in the brain – the declarative memory model
   identifier: zotero:HBV7KG5K
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: savidisPhysicalDesignTrends2008
   title: Physical Design Trends for Interconnects
   identifier: doi:10.1016/b978-0-12-373892-9.00011-6
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (On-Chip Communication Architectures)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: zhuScalableMatMulfreeLanguage2024
   title: Scalable MatMul-free Language Modeling
   identifier: zotero:2EEXNLDG
   status: pending
   added: '2026-09-19'
   source: zotero:preprint
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: aguilarStochasticEngramsEfficient2025
   title: Stochastic Engrams for Efficient Continual Learning with Binarized Neural
     Networks
@@ -2296,7 +2296,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:preprint
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: graumannSpatiotemporalNeuralDynamics2022
   title: The spatiotemporal neural dynamics of object location representations in
     the human brain
@@ -2304,7 +2304,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Nature Human Behaviour)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: chakrabortyTopologicalRepresentationsHeterogeneous2024
   title: Topological Representations of Heterogeneous Learning Dynamics of Recurrent
     Spiking Neural Networks
@@ -2313,7 +2313,7 @@ works:
   added: '2026-09-19'
   source: zotero:conferencePaper (2024 International Joint Conference on Neural Networks
     (IJCNN))
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: raichlenAdaptiveCapacityEvolutionary2017
   title: 'Adaptive Capacity: An Evolutionary Neuroscience Model Linking Exercise,
     Cognition, and Brain Health'
@@ -2321,7 +2321,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Trends in Neurosciences)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: zhangFastRobustLearning2019
   title: Fast and robust learning in Spiking Feed-forward Neural Networks based on
     Intrinsic Plasticity mechanism
@@ -2329,7 +2329,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Neurocomputing)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: wuComprehensiveReviewPropagation2024
   title: 'A Comprehensive Review of Propagation Models in Complex Networks: From Deterministic
     to Deep Learning Approaches'
@@ -2337,7 +2337,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:preprint
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: sarmastaniNeuronalModelEdge2025
   title: 'A Neuronal Model at the Edge of Criticality: An Ising-Inspired Approach
     to Brain Dynamics'
@@ -2345,14 +2345,14 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:preprint
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: krohnSpatiotemporalComplexityArchitecture2021
   title: A spatiotemporal complexity architecture of human brain activity
   identifier: doi:10.1101/2021.06.04.446948
   status: pending
   added: '2026-09-19'
   source: zotero:preprint
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: kumarArtificialNeurovascularNetwork2021
   title: Artificial neurovascular network (ANVN) to study the accuracy vs. efficiency
     trade-off in an energy dependent neural network
@@ -2360,42 +2360,42 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Scientific Reports)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: mahmoodiComplexitySynchronizationEmergent2024a
   title: Complexity synchronization in emergent intelligence
   identifier: doi:10.1038/s41598-024-57384-5
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Scientific Reports)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: angiolelliCriticalityExplainsStructurefunction2024
   title: Criticality explains structure-function relationships in the human brain
   identifier: doi:10.1101/2024.07.15.603226
   status: pending
   added: '2026-09-19'
   source: zotero:preprint
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: chialvoEmergentComplexNeural2010
   title: Emergent complex neural dynamics
   identifier: zotero:6UZMSFN4
   status: pending
   added: '2026-09-19'
   source: zotero:preprint
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: liEnergyEfficientSynaptic2020
   title: Energy efficient synaptic plasticity
   identifier: doi:10.7554/elife.50804
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (eLife)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: axelrodIntegratingNeuroplasticityEvolution2023
   title: Integrating neuroplasticity and evolution
   identifier: doi:10.1016/j.cub.2023.03.002
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Current Biology)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: shenLearningPlasticityPlasticityDriven2025
   title: 'Learning the Plasticity: Plasticity-Driven Learning Framework in Spiking
     Neural Networks'
@@ -2404,14 +2404,14 @@ works:
   added: '2026-09-19'
   source: zotero:conferencePaper (Advances in Neural Information Processing Systems
     38)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: vidiellaNetworksVisualLanguage2025
   title: 'Networks: The Visual Language of Complexity'
   identifier: doi:10.1007/978-3-031-99044-1_6
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (SEMA SIMAI Springer Series)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: mandolesiEnvironmentalFactorsPromoting2017
   title: 'Environmental Factors Promoting Neural Plasticity: Insights from Animal
     and Human Studies'
@@ -2419,7 +2419,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Neural Plasticity)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: qiOptimalSignalTransmission2024
   title: Optimal signal transmission and timescale diversity in a model of human brain
     operating near criticality
@@ -2427,7 +2427,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:preprint
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: rochaRecoveryNeuralDynamics2022
   title: Recovery of neural dynamics criticality in personalized whole-brain models
     of stroke
@@ -2435,21 +2435,21 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Nature Communications)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: deneveBrainEfficientRobust2017
   title: The Brain as an Efficient and Robust Adaptive Learner
   identifier: doi:10.1016/j.neuron.2017.05.016
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Neuron)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: shinnSpatialTemporalAutocorrelation2021
   title: Spatial and temporal autocorrelation weave complexity in brain networks
   identifier: doi:10.1101/2021.06.01.446561
   status: pending
   added: '2026-09-19'
   source: zotero:preprint
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: liSpatiotemporalDynamicsQuantity2026
   title: Spatiotemporal dynamics of quantity quality synergy along dual pathways in
     urban household energy transition
@@ -2457,7 +2457,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Discover Sustainability)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: lombardiStatisticalModelingAdaptive2023
   title: Statistical modeling of adaptive neural networks explains co-existence of
     avalanches and oscillations in resting human brain
@@ -2465,7 +2465,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Nature Computational Science)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: zhangTestingProportionalityFirstorder2017
   title: Testing proportionality between the first-order intensity functions of spatial
     point processes
@@ -2473,14 +2473,14 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Journal of Multivariate Analysis)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: leeHiddenControlArchitecture2019
   title: The Hidden Control Architecture of Complex Brain Networks
   identifier: doi:10.1016/j.isci.2019.02.017
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (iScience)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: paquolaArchitectureHumanDefault2025
   title: The architecture of the human default mode network explored through cytoarchitecture,
     wiring and signal flow
@@ -2488,7 +2488,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Nature Neuroscience)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: millanTriadicPercolationInduces2023
   title: Triadic percolation induces dynamical topological patterns in higher-order
     networks
@@ -2496,21 +2496,21 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:preprint
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: isomuraTripleEquivalenceEmergence2025
   title: Triple equivalence for the emergence of biological intelligence
   identifier: doi:10.1038/s42005-025-02059-4
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Communications Physics)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: sarkarUniversalityCriticalDynamics2024
   title: Universality of critical dynamics on a complex network
   identifier: doi:10.1103/physrevb.110.014208
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Physical Review B)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: wangWATOSEfficientLLM2026
   title: 'WATOS: Efficient LLM Training Strategies and Architecture Co-Exploration
     for Wafer-Scale Chip'
@@ -2519,28 +2519,28 @@ works:
   added: '2026-09-19'
   source: zotero:conferencePaper (2026 IEEE International Symposium on High Performance
     Computer Architecture (HPCA))
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: fristonFreeenergyPrincipleUnified2010
   title: 'The free-energy principle: a unified brain theory?'
   identifier: doi:10.1038/nrn2787
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Nature Reviews Neuroscience)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: heAIpoweredSemiconductorWafer2026
   title: 'AI-powered semiconductor wafer fabrication: A manufacturing paradigm shift'
   identifier: doi:10.1016/j.ijmachtools.2025.104345
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (International Journal of Machine Tools and Manufacture)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: caoAdvancedDesignHighPerformance2025
   title: Advanced Design for High-Performance and AI Chips
   identifier: doi:10.1007/s40820-025-01850-w
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Nano-Micro Letters)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: sharmaDesigningHighPerformanceThermally2025
   title: Designing High-Performance and Thermally Feasible Multi-Chiplet Architectures
     Enabled by Non-Bendable Glass Interposer
@@ -2548,7 +2548,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (ACM Transactions on Embedded Computing Systems)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: wangIntegratedNeuromorphicPhotonic2025
   title: 'Integrated Neuromorphic Photonic Computing for AI Acceleration: Emerging
     Devices, Network Architectures, and Future Paradigms'
@@ -2556,7 +2556,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Advanced Materials)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: caiCaiLearningatCriticalityLargeLanguage2025
   title: Learning-at-Criticality in Large Language Models for Quantum Field Theory
     and Beyond
@@ -2564,7 +2564,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Chinese Physics Letters)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: luoMozartModularizedEfficient2025
   title: 'Mozart: Modularized and Efficient MoE Training on 3.5D Wafer-Scale Chiplet
     Architectures'
@@ -2573,7 +2573,7 @@ works:
   added: '2026-09-19'
   source: zotero:conferencePaper (Advances in Neural Information Processing Systems
     38)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: yangPDConstraintawarePhysical2025
   title: PD Constraint-aware Physical/Logical Topology Co-Design for Network on Wafer
   identifier: doi:10.1145/3695053.3731045
@@ -2581,7 +2581,7 @@ works:
   added: '2026-09-19'
   source: zotero:conferencePaper (Proceedings of the 52nd Annual International Symposium
     on Computer Architecture)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: ozkanPerformanceEfficiencyCost2025
   title: Performance, efficiency, and cost analysis of wafer-scale AI accelerators
     vs. single-chip GPUs
@@ -2589,7 +2589,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Device)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: matsumuraPhaseTransitionsLinear2025
   title: Phase transitions from linear to nonlinear information processing in neural
     networks
@@ -2597,7 +2597,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Physical Review E)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: fengSwitchLessDragonflyWafers2024
   title: 'Switch-Less Dragonfly on Wafers: A Scalable Interconnection Architecture
     based on Wafer-Scale Integration'
@@ -2605,7 +2605,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:preprint
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: huTypicalDisruptedSmallworld2025
   title: Typical and disrupted small-world architecture and regional communication
     in full-term and preterm infants
@@ -2613,7 +2613,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (PNAS Nexus)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: tamaiUniversalScalingLaws2025
   title: Universal scaling laws of absorbing phase transitions in artificial deep
     neural networks
@@ -2621,7 +2621,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Physical Review Research)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: huWaferScaleComputingAdvancements2024
   title: 'Wafer-Scale Computing: Advancements, Challenges, and Future Perspectives
     [Feature]'
@@ -2629,7 +2629,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (IEEE Circuits and Systems Magazine)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: heineyCriticalityConnectivityNeural2021
   title: 'Criticality, Connectivity, and Neural Disorder: A Multifaceted Approach
     to Neural Computation'
@@ -2637,7 +2637,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Frontiers in Computational Neuroscience)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: andersonAllocatingStructureFunction2014
   title: 'Allocating structure to function: the strong links between neuroplasticity
     and natural selection'
@@ -2645,7 +2645,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Frontiers in Human Neuroscience)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: mullerCriticalDynamicsPredicts2025
   title: Critical dynamics predicts cognitive performance and provides a common framework
     for heterogeneous mechanisms impacting cognition
@@ -2653,21 +2653,21 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Proceedings of the National Academy of Sciences)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: isomuraCanonicalNeuralNetworks2022
   title: Canonical neural networks perform active inference
   identifier: doi:10.1038/s42003-021-02994-2
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Communications Biology)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: millanTopologyShapesDynamics2025
   title: Topology shapes dynamics of higher-order networks
   identifier: doi:10.1038/s41567-024-02757-w
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Nature Physics)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: chenHierarchicalFrameworkSpatioTemporal2025
   title: A Hierarchical Framework With Spatio-Temporal Consistency Learning for Emergence
     Detection in Complex Adaptive Systems
@@ -2676,35 +2676,35 @@ works:
   added: '2026-09-19'
   source: zotero:journalArticle (IEEE Transactions on Neural Networks and Learning
     Systems)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: liuNeuralNetworkImplementation2023
   title: A Neural Network Implementation for Free Energy Principle
   identifier: zotero:GSMSCA5W
   status: pending
   added: '2026-09-19'
   source: zotero:preprint
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: krohnSpatiotemporalComplexityArchitecture2021a
   title: A spatiotemporal complexity architecture of human brain activity
   identifier: doi:10.1101/2021.06.04.446948
   status: pending
   added: '2026-09-19'
   source: zotero:preprint
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: fedorovaAdvancingNeuralNetworks2024
   title: 'Advancing Neural Networks: Innovations and Impacts on Energy Consumption'
   identifier: doi:10.1002/aelm.202400258
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Advanced Electronic Materials)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: wangAdvancesSpatiotemporalGraph2023
   title: Advances in spatiotemporal graph neural network prediction research
   identifier: doi:10.1080/17538947.2023.2220610
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (International Journal of Digital Earth)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: budzinskiExactMathematicalDescription2024
   title: An exact mathematical description of computation with transient spatiotemporal
     dynamics in a complex-valued neural network
@@ -2712,7 +2712,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Communications Physics)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: dingArtificialIntelligenceComplex2025
   title: 'Artificial Intelligence for Complex Network: Potential, Methodology and
     Application'
@@ -2721,7 +2721,7 @@ works:
   added: '2026-09-19'
   source: zotero:conferencePaper (Companion Proceedings of the ACM on Web Conference
     2025)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: wangBrainTopologyImproved2024
   title: Brain topology improved spiking neural network for efficient reinforcement
     learning of continuous control
@@ -2729,28 +2729,28 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Frontiers in Neuroscience)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: isomuraCanonicalNeuralNetworks2022a
   title: Canonical neural networks perform active inference
   identifier: doi:10.1038/s42003-021-02994-2
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Communications Biology)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: papoDoesBrainBehave2024
   title: Does the brain behave like a (complex) network? I. Dynamics
   identifier: doi:10.1016/j.plrev.2023.12.006
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Physics of Life Reviews)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: gouDynamicSpatiotemporalPruning2025
   title: Dynamic spatio-temporal pruning for efficient spiking neural networks
   identifier: doi:10.3389/fnins.2025.1545583
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Frontiers in Neuroscience)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: guEmergenceReconfigurationModular2024
   title: Emergence and reconfiguration of modular structure for artificial neural
     networks during continual familiarity detection
@@ -2758,42 +2758,42 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Science Advances)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: jordanEvolvingInterpretablePlasticity2021
   title: Evolving interpretable plasticity for spiking networks
   identifier: doi:10.7554/elife.66273
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (eLife)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: fedorovaAdvancingNeuralNetworks2024a
   title: 'Advancing Neural Networks: Innovations and Impacts on Energy Consumption'
   identifier: doi:10.1002/aelm.202400258
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Advanced Electronic Materials)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: fristonFreeenergyBrain2007
   title: Free-energy and the brain
   identifier: doi:10.1007/s11229-007-9237-y
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Synthese)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: schneiderLLMsGlobalBrain2024
   title: From LLMs to the Global Brain
   identifier: doi:10.2478/disp-2024-0005
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Disputatio)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: wangHierarchicalReasoningModel2025
   title: Hierarchical Reasoning Model
   identifier: zotero:TI2K97AY
   status: pending
   added: '2026-09-19'
   source: zotero:preprint
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: safaviBrainComplexSystem2023
   title: Brain as a complex system, harnessing systems neuroscience tools & notions
     for an empirical approach
@@ -2801,21 +2801,21 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:preprint
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: ProceedingsNationalAcademy2024
   title: Proceedings of the National Academy of Sciences
   identifier: doi:10.1073/pnas
   status: pending
   added: '2026-09-19'
   source: zotero:document
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: thommesDemonstratingBrainScaleS2InterChip2022
   title: Demonstrating BrainScaleS-2 Inter-Chip Pulse-Communication using EXTOLL
   identifier: doi:10.1145/3517343.3517376
   status: pending
   added: '2026-09-19'
   source: zotero:conferencePaper (Neuro-Inspired Computational Elements Conference)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: schaefferAreEmergentAbilities2023
   title: Are Emergent Abilities of Large Language Models a Mirage?
   identifier: doi:10.52202/075280-2425
@@ -2823,63 +2823,63 @@ works:
   added: '2026-09-19'
   source: zotero:conferencePaper (Advances in Neural Information Processing Systems
     36)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: hoelQuantifyingCausalEmergence2013
   title: Quantifying causal emergence shows that macro can beat micro
   identifier: doi:10.1073/pnas.1314922110
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Proceedings of the National Academy of Sciences)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: meunierModularHierarchicallyModular2010
   title: Modular and Hierarchically Modular Organization of Brain Networks
   identifier: doi:10.3389/fnins.2010.00200
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Frontiers in Neuroscience)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: guptaNeuromorphicPhotonicOnChip2025
   title: Neuromorphic Photonic On-Chip Computing
   identifier: doi:10.3390/chips4030034
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Chips)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: cholletMeasureIntelligence2019
   title: On the Measure of Intelligence
   identifier: zotero:G6TNWUWN
   status: pending
   added: '2026-09-19'
   source: zotero:preprint
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: pehleBrainScaleS2AcceleratedNeuromorphic2022
   title: The BrainScaleS-2 Accelerated Neuromorphic System With Hybrid Plasticity
   identifier: doi:10.3389/fnins.2022.795876
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Frontiers in Neuroscience)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: liangPhysicalReservoirComputing2024
   title: Physical reservoir computing with emerging electronics
   identifier: doi:10.1038/s41928-024-01133-z
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Nature Electronics)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: suStrategyEvolutionDynamic2023
   title: Strategy evolution on dynamic networks
   identifier: doi:10.1038/s43588-023-00509-z
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Nature Computational Science)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: schneiderSelftrainingSpikingSuperconducting2025
   title: A self-training spiking superconducting neuromorphic architecture
   identifier: doi:10.1038/s44335-025-00021-9
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (npj Unconventional Computing)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: gabayreAdvancementsNeuromorphicComputing2025
   title: 'Advancements in neuromorphic computing for bio-inspired artificial vision:
     A review'
@@ -2887,28 +2887,28 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Neurocomputing)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: daviesAdvancingNeuromorphicComputing2021
   title: 'Advancing Neuromorphic Computing With Loihi: A Survey of Results and Outlook'
   identifier: doi:10.1109/jproc.2021.3067593
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Proceedings of the IEEE)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: sooterDefiningMeasuringProximity2025
   title: Defining and measuring proximity to criticality
   identifier: doi:10.1101/2025.08.03.668332
   status: pending
   added: '2026-09-19'
   source: zotero:preprint
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: stradmannDemonstratingAnalogInference2022
   title: Demonstrating Analog Inference on the BrainScaleS-2 Mobile System
   identifier: doi:10.1109/ojcas.2022.3208413
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (IEEE Open Journal of Circuits and Systems)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: deyMappingValidatingPoint2022
   title: Mapping and Validating a Point Neuron Model on Intel's Neuromorphic Hardware
     Loihi
@@ -2916,7 +2916,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Frontiers in Neuroinformatics)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: mcdonoughNetworkComplexityMeasure2014
   title: 'Network complexity as a measure of information processing across resting-state
     networks: evidence from the Human Connectome Project'
@@ -2924,21 +2924,21 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Frontiers in Human Neuroscience)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: carneyNeuromorphicKalmanFilter2017
   title: Neuromorphic Kalman filter implementation in IBM’s TrueNorth
   identifier: doi:10.1088/1742-6596/898/4/042021
   status: pending
   added: '2026-09-19'
   source: 'zotero:journalArticle (Journal of Physics: Conference Series)'
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: paniFPGAPlatformRealTime2017
   title: An FPGA Platform for Real-Time Simulation of Spiking Neuronal Networks
   identifier: doi:10.3389/fnins.2017.00090
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Frontiers in Neuroscience)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: tangSENECABuildingFully2023
   title: 'SENECA: building a fully digital neuromorphic processor, design trade-offs
     and challenges'
@@ -2946,7 +2946,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Frontiers in Neuroscience)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: yaoSpikebasedDynamicComputing2024
   title: Spike-based dynamic computing with asynchronous sensing-computing neuromorphic
     chip
@@ -2954,14 +2954,14 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Nature Communications)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: billaudelleStructuralPlasticityAccelerated2021
   title: Structural plasticity on an accelerated analog neuromorphic hardware system
   identifier: doi:10.1016/j.neunet.2020.09.024
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Neural Networks)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: stuijtMBrainEventDrivenFully2021
   title: 'μBrain: An Event-Driven and Fully Synthesizable Architecture for Spiking
     Neural Networks'
@@ -2969,21 +2969,21 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Frontiers in Neuroscience)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: wuBraininspiredGloballocalLearning2022
   title: Brain-inspired global-local learning incorporated with neuromorphic computing
   identifier: doi:10.1038/s41467-021-27653-2
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Nature Communications)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: birkobenMatterMindMatter2022
   title: Matter & Mind Matter
   identifier: zotero:AUSDT2HA
   status: pending
   added: '2026-09-19'
   source: zotero:preprint
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: gabayreAdvancementsNeuromorphicComputing2025a
   title: 'Advancements in neuromorphic computing for bio-inspired artificial vision:
     A review'
@@ -2991,14 +2991,14 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Neurocomputing)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: liuAdvancingBraininspiredComputing2024
   title: Advancing brain-inspired computing with hybrid neural networks
   identifier: doi:10.1093/nsr/nwae066
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (National Science Review)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: bhanjaNeedNeuromorphicComputing2023
   title: The need for neuromorphic computing in industrial robotics
   identifier: doi:10.1109/aipe58786.2023.00015
@@ -3006,7 +3006,7 @@ works:
   added: '2026-09-19'
   source: zotero:conferencePaper (2023 International Conference on Artificial Intelligence
     and Power Engineering (AIPE))
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: shankarBridgingBrainsMachines2025
   title: 'Bridging Brains and Machines: A Unified Frontier in Neuroscience, Artificial
     Intelligence, and Neuromorphic Systems'
@@ -3014,7 +3014,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:preprint
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: lohnAIComputeHow2022
   title: 'AI and Compute: How Much Longer Can Computing Power Drive Artificial Intelligence
     Progress?'
@@ -3022,21 +3022,21 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:report
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: liBrainInspiredComputing2023
   title: 'Brain Inspired Computing: A Systematic Survey and Future Trends'
   identifier: doi:10.36227/techrxiv.21837027.v1
   status: pending
   added: '2026-09-19'
   source: zotero:preprint
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: ngaiBRAIN20Transforming2022
   title: 'BRAIN 2.0: Transforming neuroscience'
   identifier: doi:10.1016/j.cell.2021.11.037
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Cell)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: breytonSpatiotemporalBrainComplexity2024
   title: Spatiotemporal brain complexity quantifies consciousness outside of perturbation
     paradigms
@@ -3044,7 +3044,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:preprint
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: ciniScalableSpatiotemporalGraph2023
   title: Scalable Spatiotemporal Graph Neural Networks
   identifier: doi:10.1609/aaai.v37i6.25880
@@ -3052,7 +3052,7 @@ works:
   added: '2026-09-19'
   source: zotero:journalArticle (Proceedings of the AAAI Conference on Artificial
     Intelligence)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: kangHowBuildMemristive2021
   title: How to Build a Memristive Integrate-and-Fire Model for Spiking Neuronal Signal
     Generation
@@ -3061,14 +3061,14 @@ works:
   added: '2026-09-19'
   source: 'zotero:journalArticle (IEEE Transactions on Circuits and Systems I: Regular
     Papers)'
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: saffariSpatiotemporalDeepLearning2024
   title: 'Spatiotemporal Deep Learning for Power System Applications: A Survey'
   identifier: doi:10.1109/access.2024.3424854
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (IEEE Access)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: zhuTheseusExploringEfficient2024
   title: 'Theseus: Exploring Efficient Wafer-Scale Chip Design for Large Language
     Models'
@@ -3076,14 +3076,14 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:preprint
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: thieleMultimodalBrainSignal2023
   title: Multimodal Brain Signal Complexity Predicts Human Intelligence
   identifier: doi:10.1523/eneuro.0345-22.2022
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (eneuro)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: wangTMACTrainingTargetedMapping2024
   title: 'TMAC: Training-Targeted Mapping and Architecture Co-Exploration for Wafer-Scale
     Chips'
@@ -3091,7 +3091,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Integrated Circuits and Systems)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: xuWSCLLMEfficientLLM2025
   title: 'WSC-LLM: Efficient LLM Service and Architecture Co-exploration for Wafer-scale
     Chips'
@@ -3100,7 +3100,7 @@ works:
   added: '2026-09-19'
   source: zotero:conferencePaper (Proceedings of the 52nd Annual International Symposium
     on Computer Architecture)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: xinGraphMetricsReveal2024
   title: 'Graph Metrics Reveal Brain Network Topological Property in Neuropathic Pain
     Patients: A Systematic Review'
@@ -3108,7 +3108,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Journal of Pain Research)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: yuSTSCSNNSpatioTemporalSynaptic2022
   title: 'STSC-SNN: Spatio-Temporal Synaptic Connection with temporal convolution
     and attention for spiking neural networks'
@@ -3116,7 +3116,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Frontiers in Neuroscience)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: wangDeepNeuralNetwork2019
   title: A Deep Neural Network Accelerator Based on Tiled RRAM Architecture
   identifier: doi:10.1109/iedm19573.2019.8993641
@@ -3124,7 +3124,7 @@ works:
   added: '2026-09-19'
   source: zotero:conferencePaper (2019 IEEE International Electron Devices Meeting
     (IEDM))
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: zhouGradientBasedNeuromorphicLearning2022
   title: Gradient-Based Neuromorphic Learning on Dynamical RRAM Arrays
   identifier: doi:10.1109/jetcas.2022.3224071
@@ -3132,21 +3132,21 @@ works:
   added: '2026-09-19'
   source: zotero:journalArticle (IEEE Journal on Emerging and Selected Topics in Circuits
     and Systems)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: perez-nievesNeuralHeterogeneityPromotes2021
   title: Neural heterogeneity promotes robust learning
   identifier: doi:10.1038/s41467-021-26022-3
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Nature Communications)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: edmundsonTheorySelfreproducingAutomata1969
   title: Theory of self-reproducing automata
   identifier: doi:10.1016/0020-0271(69)90026-6
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Information Storage and Retrieval)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: panBrainInspiredMultiscaleEvolutionary2025
   title: Brain-Inspired Multiscale Evolutionary Neural Architecture Search for Deep
     Spiking Neural Networks
@@ -3154,7 +3154,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (IEEE Transactions on Evolutionary Computation)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: wangEvolvingConnectivityRecurrent2023
   title: Evolving Connectivity for Recurrent Spiking Neural Networks
   identifier: doi:10.52202/075280-0133
@@ -3162,7 +3162,7 @@ works:
   added: '2026-09-19'
   source: zotero:conferencePaper (Advances in Neural Information Processing Systems
     36)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: duTemporalFlexibilitySpiking2025
   title: 'Temporal Flexibility in Spiking Neural Networks: Towards Generalization
     Across Time Steps and Deployment Friendliness'
@@ -3170,14 +3170,14 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:preprint
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: goodgeSpatioTemporalFoundationModels2025
   title: 'Spatio-Temporal Foundation Models: Vision, Challenges, and Opportunities'
   identifier: zotero:IVY43QVU
   status: pending
   added: '2026-09-19'
   source: zotero:preprint
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: schaefferAreEmergentAbilities2023a
   title: Are Emergent Abilities of Large Language Models a Mirage?
   identifier: doi:10.52202/075280-2425
@@ -3185,7 +3185,7 @@ works:
   added: '2026-09-19'
   source: zotero:conferencePaper (Advances in Neural Information Processing Systems
     36)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: teamGemini15Unlocking2024
   title: 'Gemini 1.5: Unlocking multimodal understanding across millions of tokens
     of context'
@@ -3193,14 +3193,14 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:preprint
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: minaeeLargeLanguageModels2024
   title: 'Large Language Models: A Survey'
   identifier: zotero:UEXCXYWM
   status: pending
   added: '2026-09-19'
   source: zotero:preprint
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: behrouzNestedLearningIllusion2025
   title: 'Nested Learning: The Illusion of Deep Learning Architectures'
   identifier: doi:10.52202/085713-1565
@@ -3208,21 +3208,21 @@ works:
   added: '2026-09-19'
   source: zotero:conferencePaper (Advances in Neural Information Processing Systems
     38)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: muirRoadCommercialSuccess2025
   title: The road to commercial success for neuromorphic technologies
   identifier: doi:10.1038/s41467-025-57352-1
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Nature Communications)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: wangTopologyOptimizationRandom2025
   title: Topology optimization of random memristors for input-aware dynamic SNN
   identifier: doi:10.1126/sciadv.ads5340
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Science Advances)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: wilting25YearsCriticality2019
   title: 25 years of criticality in neuroscience — established results, open controversies,
     novel concepts
@@ -3230,21 +3230,21 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Current Opinion in Neurobiology)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: monacoBrainBasisDynamical2021
   title: A brain basis of dynamical intelligence for AI and computational neuroscience
   identifier: zotero:5JDCBMS2
   status: pending
   added: '2026-09-19'
   source: zotero:preprint
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: bahramiMixedmodelingFrameworkWholebrain2022
   title: A mixed-modeling framework for whole-brain dynamic network analysis
   identifier: doi:10.1162/netn_a_00238
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Network Neuroscience)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: zhaoApplicationDeepNeural2025
   title: Application of deep neural networks for computing the renormalization group
     flow of the two-dimensional phi^4 field theory
@@ -3252,7 +3252,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:preprint
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: fischerAssociationStructuralGlobal2014
   title: Association of Structural Global Brain Network Properties with Intelligence
     in Normal Aging
@@ -3260,14 +3260,14 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (PLoS ONE)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: mallinsonAvalanchesCriticalitySelforganized2019
   title: Avalanches and criticality in self-organized nanoscale networks
   identifier: doi:10.1126/sciadv.aaw8438
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Science Advances)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: sudarshanCarbonPATHCarbonawarePathfinding2026
   title: 'CarbonPATH: Carbon-aware pathfinding and architecture optimization for chiplet-based
     AI systems'
@@ -3275,7 +3275,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:preprint
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: bizzarriCoemergenceCollapseMesoscopic2019
   title: 'Co-emergence and Collapse: The Mesoscopic Approach for Conceptualizing and
     Investigating the Functional Integration of Organisms'
@@ -3283,14 +3283,14 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Frontiers in Physiology)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: tangColloquiumControlDynamics2018
   title: "<i>Colloquium</i>\n                    : Control of dynamics in brain networks"
   identifier: doi:10.1103/revmodphys.90.031003
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Reviews of Modern Physics)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: bullmoreComplexBrainNetworks2009
   title: 'Complex brain networks: graph theoretical analysis of structural and functional
     systems'
@@ -3298,28 +3298,28 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Nature Reviews Neuroscience)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: maDarwin3LargescaleNeuromorphic2024
   title: 'Darwin3: a large-scale neuromorphic chip with a novel ISA and on-chip learning'
   identifier: doi:10.1093/nsr/nwae102
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (National Science Review)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: levinaDynamicalSynapsesCausing2007
   title: Dynamical synapses causing self-organized criticality in neural networks
   identifier: doi:10.1038/nphys758
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Nature Physics)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: lynnEmergentScalefreeNetworks2024
   title: Emergent scale-free networks
   identifier: doi:10.1093/pnasnexus/pgae236
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (PNAS Nexus)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: dasExtremelyLargeArea2023
   title: 'Extremely Large Area Integrated Circuit (ELAIC): An Advanced Packaging Solution
     for Chiplets'
@@ -3328,7 +3328,7 @@ works:
   added: '2026-09-19'
   source: zotero:conferencePaper (2023 IEEE 73rd Electronic Components and Technology
     Conference (ECTC))
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: iffFoldedHexaTorusInterChipletInterconnect2025
   title: 'FoldedHexaTorus: An Inter-Chiplet Interconnect Topology for Chiplet-based
     Systems using Organic and Glass Substrates'
@@ -3336,49 +3336,49 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:preprint
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: wangInterconnectAwareLogicResynthesis2026
   title: Interconnect-Aware Logic Resynthesis for Multi-Die FPGAs
   identifier: zotero:6DLL22RC
   status: pending
   added: '2026-09-19'
   source: zotero:preprint
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: goldenfeldLecturesPhaseTransitions2018
   title: Lectures on Phase Transitions and the Renormalization Group
   identifier: doi:10.1201/9780429493492
   status: pending
   added: '2026-09-19'
   source: zotero:book
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: wernerMetastabilityCriticalityPhase2007
   title: Metastability, criticality and phase transitions in brain and its models
   identifier: doi:10.1016/j.biosystems.2006.12.001
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Biosystems)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: spornsNetworkAnalysisComplexity2002
   title: Network analysis, complexity, and brain function
   identifier: doi:10.1002/cplx.10047
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Complexity)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: iffNetworkDesignWaferScale2026
   title: Network Design for Wafer-Scale Systems with Wafer-on-Wafer Hybrid Bonding
   identifier: zotero:BQU6EI7E
   status: pending
   added: '2026-09-19'
   source: zotero:preprint
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: franklinRenormalizationGroupExplanation2018
   title: On the Renormalization Group Explanation of Universality
   identifier: doi:10.1086/696812
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Philosophy of Science)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: depolsiPrecisionCalculationCritical2020
   title: Precision calculation of critical exponents in the O(N) universality classes
     with the nonperturbative renormalization group
@@ -3386,7 +3386,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Physical Review E)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: xianProbingIndividualDifferences2024
   title: Probing Individual Differences in the Topological Landscape of Naturalistic
     Brain Dynamics
@@ -3394,21 +3394,21 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:preprint
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: plenzSelfOrganizedCriticalityBrain2021
   title: Self-Organized Criticality in the Brain
   identifier: doi:10.3389/fphy.2021.639389
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Frontiers in Physics)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: mansonSimplifyingComplexityReview2001
   title: 'Simplifying complexity: a review of complexity theory'
   identifier: doi:10.1016/s0016-7185(00)00035-x
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Geoforum)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: liuSurveyChipletTechnology2025
   title: 'Survey of Chiplet Technology: SoC Architecture, Interconnect, EDA, and Advanced
     Packaging'
@@ -3417,14 +3417,14 @@ works:
   added: '2026-09-19'
   source: zotero:journalArticle (IEEE Journal on Emerging and Selected Topics in Circuits
     and Systems)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: spornsComplexBrainConnectivity2022
   title: 'The complex brain: connectivity, dynamics, information'
   identifier: doi:10.1016/j.tics.2022.08.002
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Trends in Cognitive Sciences)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: nickelSurveyArchitecturesHardware2024
   title: A Survey on Architectures, Hardware Acceleration and Challenges for In-Network
     Computing
@@ -3433,7 +3433,7 @@ works:
   added: '2026-09-19'
   source: zotero:journalArticle (ACM Transactions on Reconfigurable Technology and
     Systems)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: jiangSwitchCentricInNetworkArchitecture2026
   title: A Switch-Centric In-Network Architecture for Accelerating LLM Inference in
     Shared-Memory Network
@@ -3441,7 +3441,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:preprint
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: forntEnergyEfficientGeMMBasedConvolution2023
   title: An Energy-Efficient GeMM-Based Convolution Accelerator With On-the-Fly im2col
   identifier: doi:10.1109/tvlsi.2023.3286122
@@ -3449,14 +3449,14 @@ works:
   added: '2026-09-19'
   source: zotero:journalArticle (IEEE Transactions on Very Large Scale Integration
     (VLSI) Systems)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: maFPGAbasedAISmart2022
   title: FPGA-based AI Smart NICs for Scalable Distributed AI Training Systems
   identifier: zotero:QH9IWF6U
   status: pending
   added: '2026-09-19'
   source: zotero:preprint
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: kikuchiImplementationPerformanceEvaluation2023
   title: Implementation and Performance Evaluation of Collective Communications Using
     CIRCUS on Multiple FPGAs
@@ -3464,35 +3464,35 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:conferencePaper (Proceedings of the HPC Asia 2023 Workshops)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: iffNetworkDesignWaferScale2026a
   title: Network Design for Wafer-Scale Systems with Wafer-on-Wafer Hybrid Bonding
   identifier: zotero:VCEWEW87
   status: pending
   added: '2026-09-19'
   source: zotero:preprint
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: gomezREDSEAProjectNewgeneration2024
   title: 'RED-SEA Project: Towards a new-generation European interconnect'
   identifier: doi:10.1016/j.micpro.2024.105102
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Microprocessors and Microsystems)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: leightonWaferScaleIntegrationSystolic1985
   title: Wafer-Scale Integration of Systolic Arrays
   identifier: doi:10.1109/tc.1985.1676584
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (IEEE Transactions on Computers)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: pawlakExploringLiquidNeural2024
   title: Exploring Liquid Neural Networks on Loihi-2
   identifier: zotero:L3HH2VD7
   status: pending
   added: '2026-09-19'
   source: zotero:preprint
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: toddIntelligenceHighdimensionalCoherence2026
   title: 'Intelligence as high-dimensional coherence: The observable dimensionality
     bound and computational tractability'
@@ -3500,7 +3500,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (BioSystems)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: uenoVCSNVirtualCircuitSwitching2023
   title: 'VCSN: Virtual Circuit-Switching Network for Flexible and Simple-to-Operate
     Communication in HPC FPGA Cluster'
@@ -3509,7 +3509,7 @@ works:
   added: '2026-09-19'
   source: zotero:journalArticle (ACM Transactions on Reconfigurable Technology and
     Systems)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: choiWaferscaleFabricationMemristive2025
   title: Wafer-scale fabrication of memristive passive crossbar circuits for brain-scale
     neuromorphic computing
@@ -3517,7 +3517,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Nature Communications)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: zhengAdaptNoCFlexibleNetworkonChip2021
   title: 'Adapt-NoC: A Flexible Network-on-Chip Design for Heterogeneous Manycore
     Architectures'
@@ -3526,21 +3526,21 @@ works:
   added: '2026-09-19'
   source: zotero:conferencePaper (2021 IEEE International Symposium on High-Performance
     Computer Architecture (HPCA))
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: liuControllabilityComplexNetworks2011
   title: Controllability of complex networks
   identifier: doi:10.1038/nature10011
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Nature)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: rodriguesBifurcationsCliffordTorus2026
   title: Bifurcations of the Clifford Torus as Willmore Surfaces in Berger Spheres
   identifier: zotero:IFTR9P6F
   status: pending
   added: '2026-09-19'
   source: zotero:preprint
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: weiCommunicationOptimizationDistributed2025
   title: 'Communication Optimization for Distributed Training: Architecture, Advances,
     and Opportunities'
@@ -3548,35 +3548,35 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (IEEE Network)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: ProceedingsGreatLakes2025
   title: Proceedings of the Great Lakes Symposium on VLSI 2025
   identifier: doi:10.1145/3716368
   status: pending
   added: '2026-09-19'
   source: zotero:document
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: lambiotteNetworksOptimalHigherorder2019
   title: From networks to optimal higher-order models of complex systems
   identifier: doi:10.1038/s41567-019-0459-y
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Nature Physics)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: simFPGAImplementationEfficient2023
   title: FPGA Implementation of Efficient CFAR Algorithm for Radar Systems
   identifier: doi:10.3390/s23020954
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Sensors)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: fraigniaudTopologyLocalComputing2024
   title: The topology of local computing in networks
   identifier: doi:10.1007/s41468-024-00185-6
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Journal of Applied and Computational Topology)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: liaoMixNetRuntimeReconfigurable2025
   title: 'MixNet: A Runtime Reconfigurable Optical-Electrical Fabric for Distributed
     Mixture-of-Experts Training'
@@ -3584,7 +3584,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:conferencePaper (Proceedings of the ACM SIGCOMM 2025 Conference)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: hyunParallelPipelinedHardware2015
   title: Parallel and Pipelined Hardware Implementation of Radar Signal Processing
     for an FMCW Multi-channel Radar
@@ -3592,14 +3592,14 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Elektronika ir Elektrotechnika)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: leonePhysicallyAwarePreemptiveVirtual2026
   title: Physically-Aware Preemptive Virtual Channels for Deadlock-Free AXI Networks-on-Chip
   identifier: zotero:2F9NVTBX
   status: pending
   added: '2026-09-19'
   source: zotero:preprint
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: georgeReconfigurationAwareDirectConnectAI2026
   title: Reconfiguration-Aware Direct-Connect AI Cluster using Spatial-and-Wavelength-Selective
     Switching
@@ -3607,14 +3607,14 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:conferencePaper (Optical Fiber Communication Conference (OFC) 2026)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: avinRevolutionizingDatacenterNetworks2025
   title: Revolutionizing Datacenter Networks via Reconfigurable Topologies
   identifier: doi:10.1145/3708980
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Communications of the ACM)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: jouppiTPUV4Optically2023
   title: 'TPU v4: An Optically Reconfigurable Supercomputer for Machine Learning with
     Hardware Support for Embeddings'
@@ -3623,7 +3623,7 @@ works:
   added: '2026-09-19'
   source: zotero:conferencePaper (Proceedings of the 50th Annual International Symposium
     on Computer Architecture)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: mangalamMultifractalEmergentProcesses2024
   title: 'Multifractal emergent processes: Multiplicative interactions override nonlinear
     component properties'
@@ -3631,7 +3631,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:preprint
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: tsybinaDualTimescaleMemorySpiking2026
   title: Dual-Timescale Memory in a Spiking Neuron-Astrocyte Network for Efficient
     Navigation
@@ -3639,7 +3639,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:preprint
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: ancilottoElasticSpikingTransformers2026
   title: Elastic Spiking Transformers for Efficient Gesture Understanding
   identifier: doi:10.1109/fg67764.2026.11556944
@@ -3647,7 +3647,7 @@ works:
   added: '2026-09-19'
   source: zotero:conferencePaper (2026 IEEE 20th International Conference on Automatic
     Face and Gesture Recognition (FG))
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: liBreakingGlobalSelfAttention2026
   title: Breaking Global Self-Attention Bottlenecks in Transformer-based Spiking Neural
     Networks with Local Structure-Aware Self-Attention
@@ -3655,7 +3655,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:preprint
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: cavigliaNeuroTrainSurveyingLocal2026
   title: 'NeuroTrain: Surveying Local Learning Rules for Spiking Neural Networks with
     an Open Benchmarking Framework'
@@ -3663,21 +3663,21 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:preprint
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: majhiDynamicsHigherorderNetworks2022
   title: 'Dynamics on higher-order networks: a review'
   identifier: doi:10.1098/rsif.2022.0043
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Journal of The Royal Society Interface)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: buckwarIntroductionNumericalAnalysis2000
   title: Introduction to the numerical analysis of stochastic delay differential equations
   identifier: doi:10.1142/9789812792617_0197
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Equadiff 99)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: neuenkirchHighamKloedenIntroduction2021
   title: 'D. Higham, P. Kloeden: “An Introduction to the Numerical Simulation of Stochastic
     Differential Equations”'
@@ -3685,14 +3685,14 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Jahresbericht der Deutschen Mathematiker-Vereinigung)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: highamIntroductionNumericalSimulation2021
   title: An Introduction to the Numerical Simulation of Stochastic Differential Equations
   identifier: doi:10.1137/1.9781611976434
   status: pending
   added: '2026-09-19'
   source: zotero:book
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: santoroHigherorderConnectomicsHuman2024
   title: Higher-order connectomics of human brain function reveals local topological
     signatures of task decoding, individual identification, and behavior
@@ -3700,14 +3700,14 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Nature Communications)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: adamovichTaskspecificTopologyBrain2024
   title: Task‐specific topology of brain networks supporting working memory and inhibition
   identifier: doi:10.1002/hbm.70024
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Human Brain Mapping)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: mullerHyperbrainHyperfrequencyNetwork2024
   title: Hyper-brain hyper-frequency network topology dynamics when playing guitar
     in quartet
@@ -3715,14 +3715,14 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Frontiers in Human Neuroscience)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: liEnergyEfficiencyCoding2023
   title: Energy efficiency and coding of neural network
   identifier: doi:10.3389/fnins.2022.1089373
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Frontiers in Neuroscience)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: susnjakEdgeChaosExcess2024
   title: Over the Edge of Chaos? Excess Complexity as a Roadblock to Artificial General
     Intelligence
@@ -3730,42 +3730,42 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:preprint
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: cramerSurrogateGradientsAnalog2022
   title: Surrogate gradients for analog neuromorphic computing
   identifier: doi:10.1073/pnas.2109194119
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Proceedings of the National Academy of Sciences)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: fristonFreeenergyPrincipleUnified2010a
   title: 'The free-energy principle: a unified brain theory?'
   identifier: doi:10.1038/nrn2787
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Nature Reviews Neuroscience)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: bessadokGraphNeuralNetworks2021
   title: Graph Neural Networks in Network Neuroscience
   identifier: zotero:MC6PHI8M
   status: pending
   added: '2026-09-19'
   source: zotero:preprint
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: gershmanWhatDoesFree2019
   title: What does the free energy principle tell us about the brain?
   identifier: doi:10.51628/001c.10839
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Neurons, Behavior, Data analysis, and Theory)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: wuAdaptiveSpatiotemporalNeural2024
   title: Adaptive spatiotemporal neural networks through complementary hybridization
   identifier: doi:10.1038/s41467-024-51641-x
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Nature Communications)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: yangChallengesOpportunitiesEnable2023
   title: Challenges and Opportunities to Enable Large-Scale Computing via Heterogeneous
     Chiplets
@@ -3773,7 +3773,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:preprint
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: manleyHeterogeneousIntegrationTechnologies2024
   title: Heterogeneous Integration Technologies for Artificial Intelligence Applications
   identifier: doi:10.1109/jxcdc.2024.3484958
@@ -3781,7 +3781,7 @@ works:
   added: '2026-09-19'
   source: zotero:journalArticle (IEEE Journal on Exploratory Solid-State Computational
     Devices and Circuits)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: liHighBandwidthChipletInterconnects2024
   title: 'High-Bandwidth Chiplet Interconnects for Advanced Packaging Technologies
     in AI/ML Applications: Challenges and Solutions'
@@ -3789,21 +3789,21 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (IEEE Open Journal of the Solid-State Circuits Society)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: voggingerNeuromorphicHardwareSustainable2024
   title: Neuromorphic hardware for sustainable AI data centers
   identifier: zotero:NM7NR4TD
   status: pending
   added: '2026-09-19'
   source: zotero:preprint
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: prucnalPhotonicsNeuromorphicComputing2024
   title: Photonics for Neuromorphic Computing
   identifier: doi:10.1117/12.3013667
   status: pending
   added: '2026-09-19'
   source: zotero:conferencePaper (Machine Learning in Photonics)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: changPhysicalDesignChallenges2024
   title: Physical Design Challenges in Modern Heterogeneous Integration
   identifier: doi:10.1145/3626184.3639690
@@ -3811,7 +3811,7 @@ works:
   added: '2026-09-19'
   source: zotero:conferencePaper (Proceedings of the 2024 International Symposium
     on Physical Design)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: yuanEmergenceCausalityComplex2024
   title: 'Emergence and Causality in Complex Systems: A Survey of Causal Emergence
     and Related Quantitative Studies'
@@ -3819,7 +3819,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Entropy)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: turkheimerComplexSystemsPerspective2021
   title: A Complex Systems Perspective on Neuroimaging Studies of Behavior and Its
     Disorders
@@ -3827,7 +3827,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (The Neuroscientist)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: gaoSurveySelfEvolvingAgents2025
   title: 'A Survey of Self-Evolving Agents: What, When, How, and Where to Evolve on
     the Path to Artificial Super Intelligence'
@@ -3835,7 +3835,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:preprint
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: jiUltralowEnergyAdaptive2025
   title: Ultralow energy adaptive neuromorphic computing using reconfigurable zinc
     phosphorus trisulfide memristors
@@ -3843,21 +3843,21 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Nature Communications)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: krohnSpatiotemporalComplexityArchitecture2021b
   title: A spatiotemporal complexity architecture of human brain activity
   identifier: doi:10.1101/2021.06.04.446948
   status: pending
   added: '2026-09-19'
   source: zotero:preprint
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: hanSmallworldNetworkNeuroscience2025
   title: Small‐world network and neuroscience
   identifier: doi:10.1002/brx2.70025
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Brain‐X)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: chuCorepresentationFunctionalBrain2024
   title: Co-representation of Functional Brain Networks Is Shaped by Cortical Myeloarchitecture
     and Reveals Individual Behavioral Ability
@@ -3865,7 +3865,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (The Journal of Neuroscience)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: chorowskiCoexistenceCriticalPhenomena2024
   title: 'Coexistence of critical phenomena: the concept of manifold multi-spectral
     criticality'
@@ -3873,7 +3873,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Scientific Reports)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: lurieCorticalTimescalesModular2023
   title: Cortical timescales and the modular organization of structural and functional
     brain networks
@@ -3881,14 +3881,14 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:preprint
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: wuDevelopmentBrainNetwork2024
   title: Development of the brain network control theory and its implications
   identifier: doi:10.1093/psyrad/kkae028
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Psychoradiology)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: finziEntropyEpiplexityRethinking2026
   title: 'From Entropy to Epiplexity: Rethinking Information for Computationally Bounded
     Intelligence'
@@ -3896,7 +3896,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:preprint
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: yanHSG12MLargeScaleBenchmark2025
   title: 'HSG-12M: A Large-Scale Benchmark of Spatial Multigraphs from the Energy
     Spectra of Non-Hermitian Crystals'
@@ -3904,7 +3904,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:preprint
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: leakekidaneRuntimeReconfigurableNetworkOnChip2018
   title: 'Run-time Reconfigurable Network-On-Chip: A Survey'
   identifier: doi:10.1109/ssd.2018.8570678
@@ -3912,28 +3912,28 @@ works:
   added: '2026-09-19'
   source: zotero:conferencePaper (2018 15th International Multi-Conference on Systems,
     Signals &amp; Devices (SSD))
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: vandenheuvelInvestigatingMethodologicalFoundation2026
   title: Investigating the methodological foundation of lesion network mapping
   identifier: doi:10.1038/s41593-025-02196-7
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Nature Neuroscience)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: fraigniaudTopologyLocalComputing2024a
   title: The topology of local computing in networks
   identifier: doi:10.1007/s41468-024-00185-6
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Journal of Applied and Computational Topology)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: hengenCriticalityUnifiedSetpoint2025
   title: Is criticality a unified setpoint of brain function?
   identifier: doi:10.1016/j.neuron.2025.05.020
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Neuron)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: prabhakarSambaNovaSN40LScaling2024
   title: 'SambaNova SN40L: Scaling the AI Memory Wall with Dataflow and Composition
     of Experts'
@@ -3941,7 +3941,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:preprint
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: schmidtKuramotoModelSimulation2015
   title: Kuramoto model simulation of neural hubs and dynamic synchrony in the human
     cerebral connectome
@@ -3949,14 +3949,14 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (BMC Neuroscience)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: wuLearningGeodesicsGeometric2025
   title: Learning Geodesics of Geometric Shape Deformations From Images
   identifier: doi:10.59275/j.melba.2025-f9f4
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Machine Learning for Biomedical Imaging)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: baeMixtureofRecursionsLearningDynamic2025
   title: 'Mixture-of-Recursions: Learning Dynamic Recursive Depths for Adaptive Token-Level
     Computation'
@@ -3965,7 +3965,7 @@ works:
   added: '2026-09-19'
   source: zotero:conferencePaper (Advances in Neural Information Processing Systems
     38)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: horowitz11ComputingsEnergy2014
   title: 1.1 Computing's energy problem (and what we can do about it)
   identifier: doi:10.1109/isscc.2014.6757323
@@ -3973,14 +3973,14 @@ works:
   added: '2026-09-19'
   source: zotero:conferencePaper (2014 IEEE International Solid-State Circuits Conference
     Digest of Technical Papers (ISSCC))
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: farooqNetworkCurvatureHallmark2019
   title: Network curvature as a hallmark of brain structural connectivity
   identifier: doi:10.1038/s41467-019-12915-x
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Nature Communications)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: wonTACOSTopologyAwareCollective2023
   title: 'TACOS: Topology-Aware Collective Algorithm Synthesizer for Distributed Machine
     Learning'
@@ -3988,7 +3988,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:preprint
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: kazemiPhaseSynchronizationMeasure2022
   title: Phase synchronization and measure of criticality in a network of neural mass
     models
@@ -3996,7 +3996,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Scientific Reports)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: hajizadaOnlineContinualLearning2025
   title: Online Continual Learning on Intel Loihi 2 via a Co-designed Spiking Neural
     Network
@@ -4004,14 +4004,14 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:preprint
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: fronczakScalingTheoryFractal2024
   title: Scaling theory of fractal complex networks
   identifier: doi:10.1038/s41598-024-59765-2
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Scientific Reports)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: gargPersonalizedSpikingNeural2026
   title: Personalized spiking neural networks with ferroelectric synapses for EEG
     signal processing
@@ -4019,14 +4019,14 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (APL Machine Learning)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: zamora-lopezSizingComplexNetworks2019
   title: Sizing complex networks
   identifier: doi:10.1038/s42005-019-0239-0
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Communications Physics)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: oreilly-shahNeuralManifoldsCrystallized2026
   title: 'Neural Manifolds as Crystallized Embeddings: A Synthesis of the Free Energy
     Principle, Generalized Synchronization, and Hebbian Plasticity'
@@ -4034,7 +4034,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:preprint
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: mullerCriticalDynamicsPredicts2025a
   title: Critical dynamics predicts cognitive performance and provides a common framework
     for heterogeneous mechanisms impacting cognition
@@ -4042,7 +4042,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (Proceedings of the National Academy of Sciences)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: hajizadaCLANEContinualLearning2026
   title: 'CLANE: Continual Learning of Actions on Neuromorphic Hardware from Event
     Cameras'
@@ -4050,7 +4050,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:preprint
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: rajReconfigurableMultistateMRAM2026
   title: Reconfigurable Multistate MRAM Synapses with Vortex STNO based Neurons for
     Scalable In-Memory Convolutional Neural Networks
@@ -4058,7 +4058,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:preprint
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: quCompactEnergyEfficientMemristive2026
   title: Compact and Energy-Efficient Memristive Spiking Neuromorphic Accelerator
     for Bio-inspired Interception Tasks
@@ -4066,14 +4066,14 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:preprint
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: berettaLatentGeometryEmerging2025
   title: Latent geometry emerging from network-driven processes
   identifier: doi:10.1038/s44260-025-00063-x
   status: pending
   added: '2026-09-19'
   source: zotero:journalArticle (npj Complexity)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: quMemristorBasedSpikingNeural2026
   title: Memristor-Based Spiking Neural Network Accelerator for Bio-inspired Interception
     Task
@@ -4081,7 +4081,7 @@ works:
   status: pending
   added: '2026-09-19'
   source: zotero:preprint
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: kasenbacherConvolutionalSparseCoding2026
   title: Convolutional Sparse Coding via the Locally Competitive Algorithm on Loihi
     2
@@ -4090,7 +4090,7 @@ works:
   added: '2026-09-19'
   source: zotero:conferencePaper (Proceedings of the International Conference on Neuromorphic
     Systems)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: liEnhanceStrongScaling2023
   title: Enhance the Strong Scaling of LAMMPS on Fugaku
   identifier: doi:10.1145/3581784.3607064
@@ -4098,11 +4098,11 @@ works:
   added: '2026-09-19'
   source: zotero:conferencePaper (Proceedings of the International Conference for
     High Performance Computing, Networking, Storage and Analysis)
-  updated: '2026-09-23'
+  updated: '2026-09-24'
 - key: noarovOptimalDeterministicMulticalibration2026
   title: Optimal Deterministic Multicalibration and Omniprediction
   identifier: zotero:CU4YFV6G
   status: pending
   added: '2026-09-19'
   source: zotero:preprint
-  updated: '2026-09-23'
+  updated: '2026-09-24'

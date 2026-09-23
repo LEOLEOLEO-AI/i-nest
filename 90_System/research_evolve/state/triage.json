@@ -1,21 +1,21 @@
 {
-  "updated": "2026-09-22T04:30:35.575625",
+  "updated": "2026-09-23T04:30:24.908100",
   "stats": {
     "counts": {
-      "park": 768,
+      "park": 776,
       "reject(已判)": 18,
-      "keep": 124
+      "keep": 126
     },
     "per_workstream": {
       "PAPER": 66,
-      "GUIDE": 9,
-      "SIM": 25,
-      "CODE": 16,
+      "GUIDE": 8,
+      "SIM": 24,
+      "CODE": 20,
       "READ": 8
     },
-    "scanned": 910,
+    "scanned": 920,
     "today": 15,
-    "backlog": 61
+    "backlog": 62
   },
   "rejected_paths": [
     "00_Inbox/_pipeline_insights/2026-07-18_OA_Computation-efficient deep learning for computer vision A survey.md",
@@ -830,10 +830,8 @@
       "todo_lines": 0,
       "bytes": 8044,
       "source": "GetNotes_Inbox",
-      "dupes": 1,
-      "dupe_paths": [
-        "00_Inbox/01_GetNotes/晶上软件定义拓扑织构（ToFu）互连架构申报方案.md"
-      ]
+      "dupes": 0,
+      "dupe_paths": []
     },
     {
       "path": "D:/Obsidian/GetNotes_Inbox/_processed/智能的四条共同原理与果蝇_线虫交叉验证路线.md",
@@ -914,53 +912,120 @@
       "dupe_paths": []
     },
     {
-      "path": "00_Inbox/01_GetNotes/晶上软件定义拓扑织构（ToFu）互连架构申报方案.md",
-      "title": "晶上软件定义拓扑织构（ToFu）互连架构申报方案",
+      "path": "D:/Obsidian/GetNotes_Inbox/_processed/连接组驱动的下一代可重构网络结构关键技术研究与验证.md",
+      "title": "连接组驱动的下一代可重构网络结构关键技术研究与验证",
       "verdict": "keep",
-      "why": "GUIDE 相关(命中 ['申报', '指南', '立项'])；含交付物/待办信号 ['指南']",
-      "workstream": "GUIDE",
+      "why": "CODE 相关(命中 ['重构', '验证', '代码'])；含交付物/待办信号 ['建议书']",
+      "workstream": "CODE",
       "ws_hits": [
-        "申报",
-        "指南",
-        "立项"
+        "重构",
+        "验证",
+        "代码",
+        "实现",
+        "算法"
       ],
-      "rank": 14,
+      "rank": 20,
       "domain_hits": [
-        "拓扑重构",
-        "软件定义互连",
-        "SDI",
-        "NoC"
+        "TCC",
+        "拓扑中心计算",
+        "topology-centric computing",
+        "元拓扑"
       ],
       "strong": [
-        "指南"
+        "建议书"
       ],
       "todo_lines": 0,
-      "bytes": 8538,
+      "bytes": 6738,
+      "source": "GetNotes_Inbox",
+      "dupes": 1,
+      "dupe_paths": [
+        "00_Inbox/01_GetNotes/连接组驱动的下一代可重构网络结构关键技术研究与验证.md"
+      ]
+    },
+    {
+      "path": "D:/Obsidian/GetNotes_Inbox/_processed/连接组驱动的下一代可重构网络结构关键技术研究（3页精简版）.md",
+      "title": "连接组驱动的下一代可重构网络结构关键技术研究（3页精简版）",
+      "verdict": "keep",
+      "why": "CODE 相关(命中 ['重构', '代码', '实现'])；含交付物/待办信号 ['建议书']",
+      "workstream": "CODE",
+      "ws_hits": [
+        "重构",
+        "代码",
+        "实现",
+        "算法",
+        "接口"
+      ],
+      "rank": 20,
+      "domain_hits": [
+        "TCC",
+        "拓扑中心计算",
+        "topology-centric computing",
+        "元拓扑"
+      ],
+      "strong": [
+        "建议书"
+      ],
+      "todo_lines": 0,
+      "bytes": 4402,
+      "source": "GetNotes_Inbox",
+      "dupes": 1,
+      "dupe_paths": [
+        "00_Inbox/01_GetNotes/连接组驱动的下一代可重构网络结构关键技术研究（3页精简版）.md"
+      ]
+    },
+    {
+      "path": "00_Inbox/01_GetNotes/连接组驱动的下一代可重构网络结构关键技术研究与验证.md",
+      "title": "连接组驱动的下一代可重构网络结构关键技术研究与验证",
+      "verdict": "keep",
+      "why": "CODE 相关(命中 ['重构', '验证', '代码'])；含交付物/待办信号 ['建议书']",
+      "workstream": "CODE",
+      "ws_hits": [
+        "重构",
+        "验证",
+        "代码",
+        "实现",
+        "算法"
+      ],
+      "rank": 20,
+      "domain_hits": [
+        "TCC",
+        "拓扑中心计算",
+        "topology-centric computing",
+        "元拓扑"
+      ],
+      "strong": [
+        "建议书"
+      ],
+      "todo_lines": 0,
+      "bytes": 7384,
       "source": "00_Inbox"
     },
     {
-      "path": "00_Inbox/01_GetNotes/雄性果蝇完整连接组发布：16万神经元的_电路图_，能照亮AI黑箱吗？.md",
-      "title": "雄性果蝇完整连接组发布：16万神经元的_电路图_，能照亮AI黑箱吗？",
+      "path": "00_Inbox/01_GetNotes/连接组驱动的下一代可重构网络结构关键技术研究（3页精简版）.md",
+      "title": "连接组驱动的下一代可重构网络结构关键技术研究（3页精简版）",
       "verdict": "keep",
-      "why": "SIM 相关(命中 ['连接组', '仿真', 'connectome'])；含交付物/待办信号 ['下一步']",
-      "workstream": "SIM",
+      "why": "CODE 相关(命中 ['重构', '代码', '实现'])；含交付物/待办信号 ['建议书']",
+      "workstream": "CODE",
       "ws_hits": [
-        "连接组",
-        "仿真",
-        "connectome"
+        "重构",
+        "代码",
+        "实现",
+        "算法",
+        "接口"
       ],
-      "rank": 8,
+      "rank": 20,
       "domain_hits": [
-        "iNEST"
+        "TCC",
+        "拓扑中心计算",
+        "topology-centric computing",
+        "元拓扑"
       ],
       "strong": [
-        "下一步"
+        "建议书"
       ],
       "todo_lines": 0,
-      "bytes": 2878,
-      "source": "00_Inbox",
-      "dupes": 0,
-      "dupe_paths": []
+      "bytes": 5052,
+      "source": "00_Inbox"
     },
     {
       "path": "00_Inbox/_pipeline_insights/2026-07-18_OA_A Survey on Medical Large Language Models Technology, Application, Trustworthine.md",
@@ -3023,5 +3088,5 @@
       "source": "_pipeline_insights"
     }
   ],
-  "park_count": 768
+  "park_count": 776
 }

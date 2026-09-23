@@ -1,29 +1,29 @@
 {
-  "updated": "2026-09-23T04:30:06.896492",
-  "round": 16,
+  "updated": "2026-09-24T06:43:17.845483",
+  "round": 17,
   "rounds": {
-    "round": 16,
-    "date": "2026-09-23",
-    "at": "2026-09-23T04:30:06.891492",
+    "round": 17,
+    "date": "2026-09-24",
+    "at": "2026-09-24T06:43:17.812650",
     "opened": 1,
     "closed": 0,
     "escalated": 56,
-    "open_total": 81,
+    "open_total": 82,
     "gate_violations": 1,
     "note": ""
   },
-  "stagnation_streak": 4,
+  "stagnation_streak": 5,
   "gate_new_violations": 1,
   "gate_known_debt": 806,
   "gate_fixed_this_round": 138,
   "gate_total": 807,
   "freeze_new_concepts": false,
-  "new_source_total": 19,
-  "open_total": 81,
+  "new_source_total": 6,
+  "open_total": 82,
   "stats": {
-    "total": 153,
+    "total": 154,
     "by_verdict": {
-      "open": 81,
+      "open": 82,
       "deferred": 57,
       "accepted": 9,
       "rejected": 5,
@@ -31,12 +31,12 @@
     },
     "by_kind": {
       "hypothesis": 10,
-      "evolution_item": 59,
+      "evolution_item": 60,
       "idea": 77,
       "bridge": 7
     },
-    "open": 81,
-    "round": 16,
-    "stagnation_streak": 4
+    "open": 82,
+    "round": 17,
+    "stagnation_streak": 5
   }
 }
