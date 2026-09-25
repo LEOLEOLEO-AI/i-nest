@@ -1,12 +1,12 @@
 {
-  "evaluated": "2026-09-24T06:43:17.810625",
-  "new_source_total": 6,
+  "evaluated": "2026-09-25T08:46:38.008649",
+  "new_source_total": 25,
   "new_source_counts": {
-    "00_Inbox": 3,
-    "20_Processing": 3,
+    "00_Inbox": 11,
+    "20_Processing": 14,
     "raw": 0
   },
   "window_days": 2,
   "freeze_new_concepts": false,
-  "reason": "有新来源 6 篇，允许增量编译"
+  "reason": "有新来源 25 篇，允许增量编译"
 }

@@ -1,19 +1,19 @@
 {
-  "updated": "2026-09-23T04:30:24.908100",
+  "updated": "2026-09-24T06:43:56.894851",
   "stats": {
     "counts": {
-      "park": 776,
+      "park": 771,
       "reject(已判)": 18,
-      "keep": 126
+      "keep": 124
     },
     "per_workstream": {
       "PAPER": 66,
       "GUIDE": 8,
       "SIM": 24,
-      "CODE": 20,
+      "CODE": 18,
       "READ": 8
     },
-    "scanned": 920,
+    "scanned": 915,
     "today": 15,
     "backlog": 62
   },
@@ -937,10 +937,8 @@
       "todo_lines": 0,
       "bytes": 6738,
       "source": "GetNotes_Inbox",
-      "dupes": 1,
-      "dupe_paths": [
-        "00_Inbox/01_GetNotes/连接组驱动的下一代可重构网络结构关键技术研究与验证.md"
-      ]
+      "dupes": 0,
+      "dupe_paths": []
     },
     {
       "path": "D:/Obsidian/GetNotes_Inbox/_processed/连接组驱动的下一代可重构网络结构关键技术研究（3页精简版）.md",
@@ -968,64 +966,8 @@
       "todo_lines": 0,
       "bytes": 4402,
       "source": "GetNotes_Inbox",
-      "dupes": 1,
-      "dupe_paths": [
-        "00_Inbox/01_GetNotes/连接组驱动的下一代可重构网络结构关键技术研究（3页精简版）.md"
-      ]
-    },
-    {
-      "path": "00_Inbox/01_GetNotes/连接组驱动的下一代可重构网络结构关键技术研究与验证.md",
-      "title": "连接组驱动的下一代可重构网络结构关键技术研究与验证",
-      "verdict": "keep",
-      "why": "CODE 相关(命中 ['重构', '验证', '代码'])；含交付物/待办信号 ['建议书']",
-      "workstream": "CODE",
-      "ws_hits": [
-        "重构",
-        "验证",
-        "代码",
-        "实现",
-        "算法"
-      ],
-      "rank": 20,
-      "domain_hits": [
-        "TCC",
-        "拓扑中心计算",
-        "topology-centric computing",
-        "元拓扑"
-      ],
-      "strong": [
-        "建议书"
-      ],
-      "todo_lines": 0,
-      "bytes": 7384,
-      "source": "00_Inbox"
-    },
-    {
-      "path": "00_Inbox/01_GetNotes/连接组驱动的下一代可重构网络结构关键技术研究（3页精简版）.md",
-      "title": "连接组驱动的下一代可重构网络结构关键技术研究（3页精简版）",
-      "verdict": "keep",
-      "why": "CODE 相关(命中 ['重构', '代码', '实现'])；含交付物/待办信号 ['建议书']",
-      "workstream": "CODE",
-      "ws_hits": [
-        "重构",
-        "代码",
-        "实现",
-        "算法",
-        "接口"
-      ],
-      "rank": 20,
-      "domain_hits": [
-        "TCC",
-        "拓扑中心计算",
-        "topology-centric computing",
-        "元拓扑"
-      ],
-      "strong": [
-        "建议书"
-      ],
-      "todo_lines": 0,
-      "bytes": 5052,
-      "source": "00_Inbox"
+      "dupes": 0,
+      "dupe_paths": []
     },
     {
       "path": "00_Inbox/_pipeline_insights/2026-07-18_OA_A Survey on Medical Large Language Models Technology, Application, Trustworthine.md",
@@ -3088,5 +3030,5 @@
       "source": "_pipeline_insights"
     }
   ],
-  "park_count": 776
+  "park_count": 771
 }
