@@ -1,14 +1,14 @@
 # 材料分类与任务相关性索引
 
-> 生成 2026-09-23 04:30 · 共 **927** 条材料
+> 生成 2026-09-25 08:47 · 共 **930** 条材料
 
 ## 一、按工作流分类
 
 | 工作流 | 数量 | 清单页 |
 |---|---|---|
-| PAPER 论文与专利撰写 | 374 | `10_Knowledge/00_导航/classified/PAPER.md` |
-| CODE 核心代码编写与验证 | 277 | `10_Knowledge/00_导航/classified/CODE.md` |
-| SIM 复杂网络涌现智能仿真 | 161 | `10_Knowledge/00_导航/classified/SIM.md` |
+| PAPER 论文与专利撰写 | 382 | `10_Knowledge/00_导航/classified/PAPER.md` |
+| CODE 核心代码编写与验证 | 270 | `10_Knowledge/00_导航/classified/CODE.md` |
+| SIM 复杂网络涌现智能仿真 | 163 | `10_Knowledge/00_导航/classified/SIM.md` |
 | GUIDE 项目指南编写 | 63 | `10_Knowledge/00_导航/classified/GUIDE.md` |
 | READ 论文阅读与复现 | 52 | `10_Knowledge/00_导航/classified/READ.md` |
 
@@ -16,14 +16,14 @@
 
 | 方向 | 强相关材料数 | 说明 |
 |---|---|---|
-| **H10** | 495 | 连接组 等 |
-| **HALAPOINT** | 397 | Loihi 等 |
-| **H7** | 389 | NoC 等 |
-| **H8** | 293 | 晶圆级 等 |
-| **MTIA300** | 283 | 通信 等 |
-| **H5** | 270 | SDI 等 |
-| **H6** | 210 | chiplet 等 |
-| **PTHEORY** | 79 | 元拓扑 等 |
+| **H10** | 487 | 连接组 等 |
+| **HALAPOINT** | 394 | Loihi 等 |
+| **H7** | 384 | NoC 等 |
+| **H8** | 288 | 晶圆级 等 |
+| **MTIA300** | 276 | 通信 等 |
+| **H5** | 263 | SDI 等 |
+| **H6** | 209 | chiplet 等 |
+| **PTHEORY** | 75 | 元拓扑 等 |
 | **MOTIF** | 11 | motif 等 |
 
 查某个方向的材料：`python -m research_evolve.ingest --task H7`
@@ -60,18 +60,18 @@
 | 61 | Papers | iNEST_00_论文总清单 | PAPER | H5、H6、H10、MTIA300、HALAPOINT、PTHEORY |
 | 60 | Papers | 00_TCC_INEST_论文专利总览与推进计划_20260606_详细版 | PAPER | H5、H6、H10、MTIA300、HALAPOINT、PTHEORY |
 | 60 | Patents | 00_核心专利群部署计划_四簇三层 | PAPER | H5、H6、H7、H8、H10、MTIA300、HALAPOINT、PTHEORY |
-| 59 | Inbox | 晶圆级软件定义可重构互连架构与电路申报方案（LTI版+1.65亿经费完整版） | CODE | H5、H7、H8、H10、MTIA300、HALAPOINT、PTHEORY |
 | 59 | Papers | B4_Route_IS_Transform_Isomorphism_Draft | PAPER | H5、H6、H7、H8、H10、MTIA300、HALAPOINT |
 | 59 | Papers | 拓扑中心计算范式架构关键技术研究 | CODE | H5、H6、H7、H8、H10、MTIA300、HALAPOINT、PTHEORY |
 | 59 | Guides | TCC计算范式工程落地与生态构建战略规划_v1.0 | CODE | H5、H6、H7、H8、H10、MTIA300、HALAPOINT |
 | 59 | Guides | 前沿微纳电子专项项目指南_v1 | GUIDE | H5、H6、H7、H8、H10、MTIA300、HALAPOINT |
 | 58 | GetNotes | getnote_1916677671790876272_iNEST 理论体系系统总结报告：从物理第一性原理到晶圆 | SIM | H5、H7、H8、H10、MOTIF、PTHEORY |
 | 58 | GetNotes | 晶圆级软件定义可重构互连架构与电路申报方案（LTI版+1.65亿经费+物理长程骨架修订版） | CODE | H5、H7、H8、H10、MTIA300、HALAPOINT |
-| 58 | Inbox | 晶圆级软件定义可重构互连架构与电路申报方案（LTI版+1.65亿经费+物理长程骨架修订版） | CODE | H5、H7、H8、H10、MTIA300、HALAPOINT、PTHEORY |
 | 57 | GetNotes | kb_iNEST_getnote_1913999010209869760_拓扑生成技术框架 | CODE | H5、H7、H8、H10、MTIA300、HALAPOINT、PTHEORY |
 | 57 | Papers | 拓扑中心计算——面向通信受限智能计算的第三类体系结构范式 | CODE | H5、H6、H7、H10、MTIA300、HALAPOINT |
 | 56 | GetNotes | getnote_1917217265712035088_TCCNPU协同路线图 | CODE | H5、H6、H7、H10、MTIA300、HALAPOINT |
 | 56 | GetNotes | 晶圆级软件定义可重构互连架构与电路申报方案（LTI版+1.65亿经费完整版） | CODE | H5、H7、H8、H10、MTIA300、HALAPOINT |
+| 55 | GetNotes | getnote_1916677651389752712_iNEST理论体系总结 | SIM | H5、H6、H7、H8、H10、MTIA300 |
+| 55 | GetNotes | getnote_1917408480877909400_拓扑中心计算方案 | CODE | H5、H6、H7、H8、H10、MTIA300、HALAPOINT、PTHEORY |
 
 ---
 

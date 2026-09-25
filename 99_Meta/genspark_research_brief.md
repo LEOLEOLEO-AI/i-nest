@@ -1,11 +1,11 @@
 ---
-title: iNEST+TCC Research Brief - 2026-09-23
-date: 2026-09-23
+title: iNEST+TCC Research Brief - 2026-09-25
+date: 2026-09-25
 type: research-brief
 target: genspark
 ---
 
-# iNEST + TCC Research Brief - 2026-09-23
+# iNEST + TCC Research Brief - 2026-09-25
 
 > For Genspark deep analysis. Contains actionable research context.
 
@@ -33,19 +33,19 @@ target: genspark
 
 ## 4. Inbox Highlights
 
-- [2026-09-23] **Hot Chips 2026｜谷歌第八代TPU(附完整报告)-腾讯云开发者社区-腾讯云 1** (02_网页剪藏)
-- [2026-09-23] **网络定义算力时代：Google TPU v8的双芯片+双网络架构革命-腾讯云开发者社区-腾讯云 1** (02_网页剪藏)
-- [2026-09-23] **网络定义算力时代：Google TPU v8的双芯片+双网络架构革命-腾讯云开发者社区-腾讯云** (02_网页剪藏)
-- [2026-09-23] **Hot Chips 2026｜谷歌第八代TPU(附完整报告)-腾讯云开发者社区-腾讯云** (02_网页剪藏)
-- [2026-09-22] **集合通信深潜：从TPU_GPU拓扑到四大原语的可估算性能地图** (01_GetNotes)
-- [2026-09-22] **连接组驱动的下一代可重构网络结构关键技术研究（3页精简版）** (01_GetNotes)
-- [2026-09-22] **连接组驱动的下一代可重构网络结构关键技术研究与验证** (01_GetNotes)
-- [2026-09-22] **自组织忆阻网络（SOMNs）：物理学习系统的新路径** (01_GetNotes)
+- [2026-09-24] **2026-09-24_arXiv_Programmable Coherent Memory Kernels for Quantum Reservoir C** (_pipeline_insights)
+- [2026-09-24] **2026-09-24_arXiv_Analog neutral-atom for in-memory processing in quantum rese** (_pipeline_insights)
+- [2026-09-24] **2026-09-24_arXiv_Complexity of Nuclear States for 48Ca** (_pipeline_insights)
+- [2026-09-24] **2026-09-24_arXiv_Reproducibility Challenges in Computational Network Science ** (_pipeline_insights)
+- [2026-09-24] **2026-09-24_arXiv_Edge-based Katz centralities for spatio-temporal multiplex n** (_pipeline_insights)
+- [2026-09-24] **2026-09-24_arXiv_Liouvillian Response for Temporal Information in Quantum Res** (_pipeline_insights)
+- [2026-09-24] **2026-09-24_arXiv_Predictive Suppression Layers for Communication-Efficient Sp** (_pipeline_insights)
+- [2026-09-24] **2026-09-24_arXiv_SARA SLO-Aware Resource Allocation for Disaggregated Agentic** (_pipeline_insights)
 
 ## 5. Knowledge Graph Hotspots
 
-Total notes: 7612
-Graph nodes: 7587 | edges: 26848
+Total notes: 7691
+Graph nodes: 7639 | edges: 26846
 
 Top connected topics:
 - **backlinks** (degree=1466)
@@ -62,4 +62,4 @@ Top connected topics:
 (Run innovation_engine.py to generate)
 
 ---
-*Research brief auto-generated 2026-09-23 15:05*
+*Research brief auto-generated 2026-09-25 08:58*
