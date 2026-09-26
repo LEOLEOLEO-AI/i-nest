@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 理论
+tags: [neuromorphic, brain-inspired, architecture, emergence, criticality, neuroscience, ai]
+summary: "斯坦福人脑细胞嵌合鼠实验证明智能本质取决于网络拓扑结构而非材料"
+quality: high
+processed: 2026-09-25 22:39
+---
+---
 title: "斯坦福人脑细胞嵌合鼠实验：智能的本质是结构而非材料"
 tags:
   - neuromorphic

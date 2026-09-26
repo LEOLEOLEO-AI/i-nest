@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 技术
+tags: [Spectrum-X, AI工厂网络, 多轨拓扑, 多平面架构, Scale-Out, 以太网, RDMA]
+summary: "英伟达Spectrum-X AI工厂以太网架构解析，涵盖多轨多平面拓扑与性能实测"
+quality: high
+processed: 2026-09-25 22:39
+---
+---
 title: "英伟达Spectrum-X AI工厂以太网架构深度解析"
 tags:
   - hardware

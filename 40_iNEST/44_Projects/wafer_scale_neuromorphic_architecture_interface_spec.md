@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 项目
+tags: [neuromorphic, architecture, interconnect, wafer-scale, ANN-SNN, fault-tolerance, interface-spec]
+summary: "晶圆级类脑计算系统总体架构与接口规范设计任务书"
+quality: high
+processed: 2026-09-25 22:40
+---
+---
 title: "课题一任务1：晶上类脑计算系统总体架构与接口规范设计（天津大学牵头）"
 tags:
   - neuromorphic

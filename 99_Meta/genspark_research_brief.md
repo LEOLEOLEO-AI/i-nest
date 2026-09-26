@@ -1,11 +1,11 @@
 ---
-title: iNEST+TCC Research Brief - 2026-09-25
-date: 2026-09-25
+title: iNEST+TCC Research Brief - 2026-09-26
+date: 2026-09-26
 type: research-brief
 target: genspark
 ---
 
-# iNEST + TCC Research Brief - 2026-09-25
+# iNEST + TCC Research Brief - 2026-09-26
 
 > For Genspark deep analysis. Contains actionable research context.
 
@@ -33,25 +33,25 @@ target: genspark
 
 ## 4. Inbox Highlights
 
+- [2026-09-25] **2026-09-25_arXiv_Deep thermalization and Hilbert space ergodicity** (_pipeline_insights)
+- [2026-09-25] **2026-09-25_arXiv_Dynamical Diversity for Reservoir Computing in Reconfigurabl** (_pipeline_insights)
+- [2026-09-25] **2026-09-25_arXiv_Orbital Error Dynamics Self-Organized Criticality, Ephemeral** (_pipeline_insights)
+- [2026-09-25] **2026-09-25_arXiv_On the second-order optimization for spiking neural networks** (_pipeline_insights)
+- [2026-09-25] **2026-09-25_arXiv_Emergent Scaling Symmetry and Universal Interior Criticality** (_pipeline_insights)
+- [2026-09-25] **2026-09-25_arXiv_Upper critical dimension for dirty Weyl semimetal-to-metal q** (_pipeline_insights)
 - [2026-09-24] **2026-09-24_arXiv_Programmable Coherent Memory Kernels for Quantum Reservoir C** (_pipeline_insights)
 - [2026-09-24] **2026-09-24_arXiv_Analog neutral-atom for in-memory processing in quantum rese** (_pipeline_insights)
-- [2026-09-24] **2026-09-24_arXiv_Complexity of Nuclear States for 48Ca** (_pipeline_insights)
-- [2026-09-24] **2026-09-24_arXiv_Reproducibility Challenges in Computational Network Science ** (_pipeline_insights)
-- [2026-09-24] **2026-09-24_arXiv_Edge-based Katz centralities for spatio-temporal multiplex n** (_pipeline_insights)
-- [2026-09-24] **2026-09-24_arXiv_Liouvillian Response for Temporal Information in Quantum Res** (_pipeline_insights)
-- [2026-09-24] **2026-09-24_arXiv_Predictive Suppression Layers for Communication-Efficient Sp** (_pipeline_insights)
-- [2026-09-24] **2026-09-24_arXiv_SARA SLO-Aware Resource Allocation for Disaggregated Agentic** (_pipeline_insights)
 
 ## 5. Knowledge Graph Hotspots
 
-Total notes: 7691
-Graph nodes: 7639 | edges: 26846
+Total notes: 7714
+Graph nodes: 7676 | edges: 26908
 
 Top connected topics:
 - **backlinks** (degree=1466)
 - **00_iNEST_全景知识图谱** (degree=1182)
 - **神经科学、AGI与神经形态计算的融合：统一研究范式与挑战** (degree=395)
-- **PAPER** (degree=374)
+- **PAPER** (degree=382)
 - **TCC_iNEST_成果全景** (degree=291)
 - **CODE** (degree=270)
 - **index** (degree=195)
@@ -62,4 +62,4 @@ Top connected topics:
 (Run innovation_engine.py to generate)
 
 ---
-*Research brief auto-generated 2026-09-25 08:58*
+*Research brief auto-generated 2026-09-26 10:48*

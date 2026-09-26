@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 技术
+tags: [AI芯片设计, 强化学习, AlphaChip, 芯片布局, 神经形态计算]
+summary: "前Google Brain成员创立Ricursive，用AI将芯片设计周期从数年压缩至数天"
+quality: high
+processed: 2026-09-25 22:39
+---
+---
 title: "Ricursive Intelligence：用AI重构芯片设计的40亿美元初创公司"
 tags:
   - hardware

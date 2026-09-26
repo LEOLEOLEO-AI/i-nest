@@ -1,5 +1,13 @@
 ---
-title: "连接组驱动的下一代可重构网络结构关键技术研究（3页精简版·斯坦福实验+产业案例双增补）【参考文献修正版】_2"
+direction: both
+category: 项目
+tags: [connectome, reconfigurable-network, topology, neuromorphic, chip, interconnect, brain-inspired, architecture]
+summary: "从连接组可塑性提炼运行时拓扑重构方法，突破静态互连算力瓶颈"
+quality: high
+processed: 2026-09-25 22:40
+---
+---
+title: "连接组驱动的下一代可重构网络结构关键技术研究（3页精简版·斯坦福实验+产业案例双增补）【参考文献修正版】"
 tags:
   - hardware
   - research
@@ -42,7 +50,7 @@ title: "连接组驱动的下一代可重构网络结构关键技术研究（3�
 type: plain_text
 created: 2026-09-23 09:45:05
 source: getnote
-kb: project-guide
+kb: 
 ---
 
 # 连接组驱动的下一代可重构网络结构关键技术研究（3页精简版·斯坦福实验+产业案例双增补）【参考文献修正版】
@@ -284,7 +292,7 @@ AMD Versal、Intel Agilex等高端FPGA已将片上网络（NoC）作为标配基
 
 
 ---
-*getnote | 2026-09-25 22:39*
+*getnote | 2026-09-25 22:38*
 
 
 ---

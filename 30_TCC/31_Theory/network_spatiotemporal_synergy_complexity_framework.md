@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 理论
+tags: [first-principles, neural, architecture, network, emergence, neuroscience, criticality, physics, complexity-theory]
+summary: "讨论网络时空协同复杂度理论框架，用熵统一度量生物与人工神经网络。"
+quality: high
+processed: 2026-09-25 22:39
+---
+---
 title: "网络时空协同复杂度理论框架讨论"
 tags:
   - first-principles

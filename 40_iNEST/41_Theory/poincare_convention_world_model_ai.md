@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 理论
+tags: [world-model, poincare, convention, first-principles, ai-theory]
+summary: "庞加莱约定论预言AI世界模型：只比便利不比真假"
+quality: high
+processed: 2026-09-25 22:39
+---
+---
 title: "庞加莱《科学与假设》对当下AI世界模型的预言"
 tags:
   - first-principles

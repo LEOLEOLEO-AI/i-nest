@@ -1,10 +1,10 @@
-# 科研管线已完成
+# 科研管线执行失败
 
-> 更新时间：2026-09-25 09:01 CST
+> 更新时间：2026-09-26 16:06 CST
 
-- 状态：`completed`
+- 状态：`failed`
 - 允许时长：75 分钟
-- 详情：Pipeline completed within the time limit.
-- 启动时间：2026-09-25 08:38:34 CST
-- 退出码：`0`
-- 运行日志：[打开日志](http://127.0.0.1:8899/vault/logs/pipeline_guard_20260925_083834.log)
+- 详情：Pipeline exited with a non-zero code.
+- 启动时间：2026-09-26 12:00:02 CST
+- 退出码：`1073807364`
+- 运行日志：[打开日志](http://127.0.0.1:8899/vault/logs/pipeline_guard_20260926_120002.log)

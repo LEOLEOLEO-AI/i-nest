@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 技术
+tags: [科研智能体, Code-as-Action, 持久内核, AI4Science, 开源项目]
+summary: "北大与元空AI开源OpenAI4S科研智能体，复现Claude Science架构"
+quality: high
+processed: 2026-09-25 22:39
+---
+---
 title: "北大&元空AI开源OpenAI4S：复刻Claude Science的科研智能体"
 tags:
   - computing

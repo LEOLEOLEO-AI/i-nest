@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 技术
+tags: [neuromorphic, wafer-scale, topology-reconfiguration, chiplet, network-on-chip]
+summary: "晶上类脑系统架构设计，含拓扑重构与算网融合执行"
+quality: high
+processed: 2026-09-25 22:39
+---
+---
 title: "晶上类脑架构设计"
 tags:
   - neuromorphic

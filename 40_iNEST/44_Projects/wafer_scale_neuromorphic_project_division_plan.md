@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 项目
+tags: [neuromorphic, wafer-scale, chiplet, interconnect, brain-inspired, system-architecture]
+summary: "晶上类脑专项五课题划分方案，覆盖架构、芯粒、软件、集成与验证"
+quality: high
+processed: 2026-09-25 22:39
+---
+---
 title: "晶上类脑专项课题划分方案（申报书格式版）"
 tags:
   - neuromorphic
